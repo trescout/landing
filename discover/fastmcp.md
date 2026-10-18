@@ -2,16 +2,16 @@
 
 FastMCP, Model Bağlam Protokolü (Model Context Protocol - MCP) sunucuları ve istemcileri geliştirmeyi kolaylaştıran Python tabanlı bir çerçevedir (framework). Geliştiricilerin yapay zekâ modelleri ile yerel araçlar arasında hızlı entegrasyon kurmasını sağlar.
 
-- ★ 28.020
+- ★ 28.119
 - Python
 - GitHub Trending · 2026-07-21
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 28.020 → 28.119, son sürüm v4.1.1 (18 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 27.981 → 28.020, son sürüm v4.1.0 (8 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 27.907 → 27.981, son sürüm v4.0.11 (4 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 27.720 → 27.907, son sürüm v4.0.10 (25 Eylül 2026).
-- **18 Eylül 2026:** Yıldız 27.689 → 27.720, son sürüm v4.0.5 (17 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -32,6 +32,14 @@ uv pip install fastmcp
 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 FastMCP kullanarak bir Python fonksiyonunu Model Bağlam Protokolü (MCP) uyumlu bir araca dönüştürmek istiyorum. @mcp.tool dekoratörünü kullanarak basit bir toplama işlemi yapan bir araç tanımla ve FastMCP sunucusunu başlatacak temel yapıyı kur.
+
+Depo: https://github.com/PrefectHQ/fastmcp. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 - **Kimin için:** Yapay zekâ modelleri ile yerel araçlar arasında hızlı ve güvenilir entegrasyon kurmak isteyen Python geliştiricileri içindir.
 - **Lisans:** Apache-2.0

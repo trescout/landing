@@ -67,6 +67,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite examiner un fichier binaire suspect à l'aide de Ghidra. Pouvez-vous expliquer étape par étape comment ouvrir un nouveau projet dans Ghidra, importer le fichier, exécuter Auto Analysis, examiner les fonctions dans la fenêtre du décompilateur et détecter les fonctions API suspectes appelées ?
 
+Dépôt : https://github.com/NationalSecurityAgency/ghidra. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Quelles sont les principales différences entre Ghidra et IDA Pro ? Bien qu'IDA Pro ait des frais de licence commerciaux et élevés, Ghidra est entièrement gratuit et open source. Ghidra propose des décompilateurs intégrés pour toutes les architectures et comprend un serveur de collaboration multi-utilisateurs.

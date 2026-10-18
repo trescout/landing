@@ -28,6 +28,7 @@ Download the archive file by going to the latest version link on the official Gi
 ## Related dictionary terms
 
 - [Packet Fragmentation](https://trescout.com/en/dictionary/packet-fragmentation/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for Windows users who encounter access barriers to platforms such as Discord and YouTube.
 

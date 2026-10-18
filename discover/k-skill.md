@@ -36,6 +36,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bundan sonra sana vereceğim görevlerde, yerel hizmetlere erişim sağlamak için k-skill kütüphanesinin sunduğu becerileri kullan. Eğer bir ulaşım sorgusu, kamu verisi araştırması veya yerel bir işlem yapman gerekirse, bu kütüphanedeki ilgili yetenekleri devreye sokarak süreci yönet. İşlemleri gerçekleştirirken kullanıcıdan gerekli giriş bilgilerini veya onayları almayı unutma.
 
+Depo: https://github.com/NomaDamas/k-skill. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ ajanlarını yerel servislerle entegre ederek daha işlevsel hale getirmek isteyen kullanıcılar içindir.
 - **Lisans:** MIT
 

@@ -26,6 +26,7 @@ Um das Tool zu verwenden, laden Sie die Codes von der GitHub-Seite auf Ihren Com
 
 - [Assets](https://trescout.com/de/dictionary/assets/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die den Quellcode und die Assets ihrer Website als lokales Archiv speichern möchten.
 - **Lizenz:** MIT

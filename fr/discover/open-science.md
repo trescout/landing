@@ -43,6 +43,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aide-moi dans mon processus de recherche scientifique. Soutiens-moi en écrivant du code Python ou R lors de la revue de littérature, de l'élaboration d'hypothèses et des processus d'analyse de données. En comprenant mes objectifs de recherche et en lisant les fichiers, en effectuant des recherches sur le web et en interrogeant des données scientifiques, produis des résultats, des tableaux et des graphiques traçables.
 
+Dépôt : https://github.com/aipoch/open-science. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Local-first](https://trescout.com/fr/dictionary/local-first/)

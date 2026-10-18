@@ -28,6 +28,7 @@ Para acessar o código-fonte do projeto e realizar a instalação, você deve vi
 ## Termos relacionados do glossário
 
 - [Compiler](https://trescout.com/pt/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Adequado para desenvolvedores de software que desejam criar seu próprio compilador ou otimizar seus códigos existentes para diferentes arquiteturas de hardware.
 

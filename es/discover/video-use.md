@@ -43,6 +43,16 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Configure https://github.com/browser-use/video-use por mí. Lea install.md primero para instalar este repositorio, conecte ffmpeg, registre la habilidad con cualquier agente que esté ejecutando y configure la clave API de ElevenLabs. Pídame que la pegue cuando la necesite. Luego lea SKILL.md para uso diario y lea siempre helpers/ porque ahí es donde se encuentran los guiones de edición. Después de la instalación, no transcribas nada por tu cuenta · solo dime que está listo y espera a que coloque el material en una carpeta.
 
+Repositorio: https://github.com/browser-use/video-use. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Si se necesita una clave API, no me pidas que la escriba en el chat. Muéstrame cómo añadirla al archivo .env y asegúrate de que este archivo no se suba a Git.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Skill](https://trescout.com/es/dictionary/skill/)

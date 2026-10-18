@@ -45,6 +45,7 @@ Pour commencer à utiliser Penpot, vous pouvez visiter le site officiel, penpot.
 
 - [Self-hosting](https://trescout.com/fr/dictionary/self-hosting/)
 - [Localhost](https://trescout.com/fr/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux équipes qui souhaitent accroître l'harmonie entre les concepteurs et les développeurs de logiciels dans les processus de développement de produits numériques.
 - **Licence:** MPL-2.0

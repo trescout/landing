@@ -23,6 +23,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je vais vous donner le contenu d'un cours gratuit de 9 semaines appelé « Data Engineering Zoomcamp » qui enseigne l'ingénierie des données avec des outils comme Docker, Terraform, BigQuery, dbt, Spark et Kafka. Examinez le programme et déterminez par quel module je dois commencer en fonction de mon niveau de connaissances, et créez un plan d'étude hebdomadaire pour moi. Mon niveau : [ex. débutant]. Mon objectif : [par ex. devenir ingénieur de données].
 
+Dépôt : https://github.com/DataTalksClub/data-engineering-zoomcamp. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

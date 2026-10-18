@@ -73,6 +73,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run Sonarr, qBittorrent, Prowlarr and Jellyfin services together on Docker on my home server. Can you please explain step by step the complete docker-compose.yml file containing a single volume mount structure and the first settings I need to make in the Sonarr web panel for hardlinks to work smoothly?
 
+Repository: https://github.com/Sonarr/Sonarr. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Does Sonarr download the file itself directly? No. Sonarr is not a download client; is a manager. It searches, pushes the torrent/NZB file to clients like qBittorrent or SABnzbd, and moves the downloaded file to the archive folder.

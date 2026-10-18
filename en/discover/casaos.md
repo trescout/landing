@@ -54,6 +54,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 CasaOS is installed on my personal home server. I want to install and configure AdGuard Home (ad blocker), Jellyfin (media streaming), and Tailscale (secure remote access) services for all devices in my home. Could you explain step by step how to install these services via custom Docker Compose or the app store from the CasaOS web panel, and how to set up disk sharing?
 
+Repository: https://github.com/IceWhaleTech/CasaOS. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Does CasaOS delete my existing Linux operating system or data? No. CasaOS does not delete your existing operating system; it is installed on top of it as a desktop and Docker management layer. Existing files on your disks are preserved and made accessible via the panel.

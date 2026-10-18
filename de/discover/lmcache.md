@@ -33,6 +33,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich die KV-Cache-Verwaltung für große Sprachmodelle mithilfe der LMCache-Bibliothek optimieren? Welche grundlegenden Schritte sollte ich nach der Installation befolgen, um die Leistung zu steigern und die Speichernutzung effizient zu gestalten, insbesondere bei Abfragen mit langem Kontext? Erklären Sie, wie ich diese Ebene unter Berücksichtigung des in der Dokumentation angegebenen Engine-unabhängigen Arbeitsprinzips in mein bestehendes Inferenzsystem integrieren kann.
 
+Repository: https://github.com/LMCache/LMCache. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [KV Cache](https://trescout.com/de/dictionary/kv-cache/)

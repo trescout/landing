@@ -2,16 +2,16 @@
 
 OpenGym is an open-source gym management tool used to plan workout routines and track bodyweight exercises. Allowing users to host their data on their own servers, this software supports data imports from popular fitness applications (Strong, Hevy).
 
-- ★ 12,021
+- ★ 13,304
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Updates
 
+- **October 18, 2026:** Stars 12,021 → 13,304, latest release v1.4.1 (October 10, 2026).
 - **October 15, 2026:** Stars 10,912 → 12,021, latest release v1.4.1 (October 10, 2026).
 - **October 13, 2026:** Stars 9,501 → 10,912, latest release v1.4.1 (October 10, 2026).
 - **October 11, 2026:** Stars 8,392 → 9,501, latest release v1.4.1 (October 10, 2026).
-- **October 9, 2026:** Stars 7,653 → 8,392, latest release v1.4.0 (October 9, 2026).
 
 ## What you get
 
@@ -36,6 +36,16 @@ docker compose up -d
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to install the openGym workout tracking software on the Docker container management platform. Could you explain step-by-step the installation steps starting with the command 'git clone https://github.com/DuarteSantos8/openGym', how to configure the '.env' environment variables file, and how to access the application from a browser after the installation is complete?
+
+Repository: https://github.com/DuarteSantos8/openGym. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+If an API key is required, do not ask me to type it into the chat. Show me how to add it to the .env file and ensure this file is not pushed to Git.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

@@ -2,12 +2,13 @@
 
 RustFS wurde als S3-kompatibles Hochleistungs-Objektspeichersystem entwickelt. Es bietet Interoperabilität und Unterstützung für die Datenmigration mit anderen S3-kompatiblen Plattformen wie MinIO und Ceph.
 
-- ★ 35.038
+- ★ 35.063
 - Rust
 - GitHub Trending · 2026-09-19
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 35,038 → 35,063, neueste Version 1.0.3 (17. Oktober 2026).
 - **17. Oktober 2026:** Sterne 34,330 → 35,038, neueste Version 1.0.2 (16. Oktober 2026).
 - **3. Oktober 2026:** Sterne 33,264 → 34,330, neueste Version 1.0.1 (3. Oktober 2026).
 - **19. September 2026:** Sterne 33,264 → 33,264, neueste Version 1.0.0 (16. September 2026).
@@ -45,6 +46,14 @@ docker compose -f docker-compose-simple.yml up -d
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine hochperformante Objektspeicherumgebung mit RustFS aufbauen. Wie kann ich die S3-Kompatibilität des Systems nutzen, um meine Daten zu verwalten, und worauf sollte ich bei der Skalierung in einer verteilten Architektur achten? Führen Sie mich Schritt für Schritt durch die Installation und die grundlegenden Konfigurationseinstellungen dieses unter der Apache 2.0-Lizenz stehenden Systems.
+
+Repository: https://github.com/rustfs/rustfs. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

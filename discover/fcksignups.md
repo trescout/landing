@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 NoSignups projesinin sunduğu açık kaynaklı araç listesini kullanarak, kullanıcıdan kayıt veya e-posta talep etmeyen, gizlilik odaklı dijital hizmetleri listele. Bu araçların tasarım, geliştirme, üretkenlik ve veri analitiği gibi kategorilerde nasıl gruplandığını açıkla. Özellikle hesap oluşturma zorunluluğu olmayan alternatifleri bulma konusunda rehberlik et.
 
+Depo: https://github.com/BraveOPotato/FckSignups. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kayıt formları ve veri takibi ile uğraşmadan doğrudan işlevsel araçlara ulaşmak isteyen kullanıcılar için uygundur.
 - **Lisans:** GPL-3.0
 

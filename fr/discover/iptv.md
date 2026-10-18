@@ -27,6 +27,7 @@ Vous n'avez besoin d'aucune installation pour utiliser cet outil. Copiez le lien
 ## Termes liés du glossaire
 
 - [IPTV](https://trescout.com/fr/dictionary/iptv/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent regarder les chaînes de télévision publiques du monde entier à partir d'une seule application.
 - **Licence:** Unlicense

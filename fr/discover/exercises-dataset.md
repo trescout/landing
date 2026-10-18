@@ -26,6 +26,7 @@ Cet outil ne nécessite aucune installation. Après avoir téléchargé les fich
 ## Termes liés du glossaire
 
 - [API](https://trescout.com/fr/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui développent des applications dans le domaine des technologies sportives et aux chercheurs axés sur le fitness.
 

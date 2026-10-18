@@ -40,6 +40,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver um projeto de jogo bidimensional ou tridimensional com o motor Godot. Você pode preparar um guia passo a passo para iniciantes sobre o uso básico da interface, lógica de criação de cena e estrutura do projeto para me iniciar no processo de desenvolvimento do jogo?
 
+Repositório: https://github.com/godotengine/godot. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Godot Engine](https://trescout.com/pt/dictionary/godot-engine/)

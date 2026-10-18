@@ -37,6 +37,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I manage the voice transcription and dubbing processes on Voicebox. Help me determine the most appropriate TTS engine for my chosen voice profile, show me how to add emotional emphasis within text, and explain step-by-step how to configure the voicebox.speak car call needed for my local AI agent to respond with voice.
 
+Repository: https://github.com/jamiepine/voicebox. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Voice Cloning](https://trescout.com/en/dictionary/voice-cloning/)

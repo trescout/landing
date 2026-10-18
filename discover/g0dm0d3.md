@@ -38,6 +38,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 G0DM0D3 arayüzünü kullanarak, belirlediğim model sağlayıcıları (OpenRouter, Venice veya yerel sunucu) üzerinden çoklu model yarıştıran ULTRAPLINIAN motorunu aktif et. Kırmızı takım araştırmalarım için Parseltongue giriş karıştırma tekniklerini uygula ve AutoTune özelliği ile sorgu bağlamına en uygun örnekleme parametrelerini otomatik olarak yapılandır.
 
+Depo: https://github.com/elder-plinius/G0DM0D3. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ modellerinin sınırlarını zorlamak isteyen araştırmacılar, sistem meraklıları ve red teaming süreçleriyle ilgilenen kullanıcılar içindir.
 - **Lisans:** AGPL-3.0
 

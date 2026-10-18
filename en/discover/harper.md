@@ -37,6 +37,7 @@ To start using the Harper tool, you can visit the official website writewithharp
 
 - [Grammar Checker](https://trescout.com/en/dictionary/grammar-checker/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for English content producers and software developers who want to quickly moderate their posts offline and without compromising privacy.
 - **License:** Apache-2.0

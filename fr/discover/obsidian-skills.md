@@ -35,6 +35,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise l'outil Obsidian-skills pour gérer mes notes Obsidian. Veuillez utiliser cet ensemble de compétences pour modifier les fichiers Markdown dans mes notes, mettre à jour le contenu de JSON Canvas ou effectuer les actions nécessaires via l'interface de ligne de commande Obsidian CLI. Je souhaite que vous créiez un flux de gestion de l'information efficace, notamment en préservant les structures, connexions et fonctionnalités complexes de mes notes.
 
+Dépôt : https://github.com/kepano/obsidian-skills. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Markdown](https://trescout.com/fr/dictionary/markdown/)

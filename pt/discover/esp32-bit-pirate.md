@@ -28,6 +28,7 @@ Instale o software apropriado para o seu dispositivo através do navegador usand
 
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [CLI](https://trescout.com/pt/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Adequado para desenvolvedores interessados ​​em segurança de hardware, sistemas embarcados e análise de protocolos.
 - **Licença:** MIT

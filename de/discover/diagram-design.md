@@ -39,6 +39,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sagen Sie Claude Code oder einem anderen KI-Assistenten, den Sie verwenden, um die Architektur oder den Arbeitsablauf meines aktuellen Projekts zu analysieren. Bitten Sie es dann, ein sauberes HTML- und SVG-Diagramm zu erstellen, indem Sie aus den 27 verschiedenen visuellen Typen in der Diagrammdesign-Bibliothek dasjenige auswählen, das am besten zu dem von mir erläuterten Thema passt. Geben Sie an, dass sich das Design auf meine Website bezieht, sodass es mit den Farben und der visuellen Sprache meiner Marke kompatibel ist.
 
+Repository: https://github.com/cathrynlavery/diagram-design. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [SVG](https://trescout.com/de/dictionary/svg/)

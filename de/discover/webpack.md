@@ -39,6 +39,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Als Webentwickler möchte ich JavaScript-Dateien und andere statische Assets effizient in meine Projekte packen. Wie kann ich mit Webpack meine Module verwalten, die Codeaufteilung konfigurieren und für mein Projekt geeignete Loader definieren? Helfen Sie mir, ein Beispiel für eine Konfigurationsdatei für Anfänger zu erstellen.
 
+Repository: https://github.com/webpack/webpack. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Bundler](https://trescout.com/de/dictionary/bundler/)

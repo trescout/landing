@@ -51,6 +51,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero estabelecer uma infraestrutura de nuvem moderna que consista em serviços totalmente gratuitos para uma nova iniciativa web. Você poderia descrever um plano de arquitetura de custo zero e etapas de instalação que combine os provedores gratuitos mais populares na lista gratuita para desenvolvedores (hospedagem, banco de dados, autenticação e serviço de e-mail) e não exceda os limites de cota?
 
+Repositório: https://github.com/ripienaar/free-for-dev. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - Qual é a diferença entre o nível gratuito e a versão de teste (Free Trial)? As avaliações geralmente expiram após 7 a 30 dias e exigem pagamento. Os serviços na lista gratuita para desenvolvedores são gratuitos indefinidamente dentro de certas cotas.

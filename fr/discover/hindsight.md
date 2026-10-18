@@ -48,6 +48,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je veux que mon agent IA apprenne des interactions passées, non seulement se souvienne de l’historique des conversations, mais prenne des décisions plus cohérentes au fil du temps. Aidez-moi à configurer la configuration du serveur et les connexions clients nécessaires pour intégrer cette couche mémoire dans mon projet.
 
+Dépôt : https://github.com/vectorize-io/hindsight. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Memory Layer](https://trescout.com/fr/dictionary/memory-layer/)

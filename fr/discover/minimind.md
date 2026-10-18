@@ -56,6 +56,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite entraîner un modèle de langage de 64 millions de paramètres à partir de zéro avec PyTorch à l'aide du référentiel MiniMind. Pouvez-vous expliquer étape par étape comment préparer le tokenizer basé sur mon propre ensemble de données de texte turc, exécuter le script 1-pretrain.py, puis l'affiner avec LoRA ?
 
+Dépôt : https://github.com/jingyaogong/minimind. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Quelle quantité de VRAM est nécessaire pour entraîner MiniMind ? Le modèle de paramètres 64M peut être confortablement entraîné sur 6 Go à 12 Go de VRAM en fonction du paramètre de taille du lot ; Même RTX 3060 ou RTX 4060 suffisent.

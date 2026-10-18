@@ -25,6 +25,10 @@ Para começar a usar o ESPectre, você precisa seguir o documento SETUP.md ofici
 
 - [Fonte oficial →](https://espectre.dev)
 
+## Termos relacionados do glossário
+
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
 - **Para quem é:** Destina-se a usuários interessados ​​em automação residencial que buscam soluções de detecção de movimento de baixo custo sem comprometer a privacidade.
 - **Licença:** GPL-3.0
 

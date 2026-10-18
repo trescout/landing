@@ -55,6 +55,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Could you explain with pom.xml and checkstyle.xml examples how to configure the Checkstyle plugin with Maven in an existing Spring Boot project, how to base it on Google Java Style rules, and how to update the line length limit to 120 characters according to our team standards?
 
+Repository: https://github.com/checkstyle/checkstyle. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Does Checkstyle fix my code automatically? No. Checkstyle is an analysis tool (linter) that detects lines that do not comply with the rules. It is used together with tools such as Spotless or google-java-format for automatic code reformatting.

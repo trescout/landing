@@ -2,16 +2,16 @@
 
 OpenGym es una herramienta de gestión de gimnasio de código abierto diseñada para planificar rutinas de entrenamiento y realizar un seguimiento de los ejercicios con peso corporal. Al permitir a los usuarios alojar sus datos en sus propios servidores, este software admite la importación de datos desde aplicaciones de fitness populares (Strong, Hevy).
 
-- ★ 12.021
+- ★ 13.304
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 12,021 → 13,304, última versión v1.4.1 (10 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 10,912 → 12,021, última versión v1.4.1 (10 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 9,501 → 10,912, última versión v1.4.1 (10 de octubre de 2026).
 - **11 de octubre de 2026:** Estrellas 8,392 → 9,501, última versión v1.4.1 (10 de octubre de 2026).
-- **9 de octubre de 2026:** Estrellas 7,653 → 8,392, última versión v1.4.0 (9 de octubre de 2026).
 
 ## Qué aporta
 
@@ -36,6 +36,16 @@ docker compose up -d
 Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero instalar el software de seguimiento de entrenamiento openGym en la plataforma de gestión de contenedores Docker. ¿Podrías explicarme paso a paso los pasos de instalación que comienzan con el comando 'git clone https://github.com/DuarteSantos8/openGym', cómo configurar el archivo de variables de entorno '.env' y cómo acceder a la aplicación desde el navegador una vez completada la instalación?
+
+Repositorio: https://github.com/DuarteSantos8/openGym. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Si se necesita una clave API, no me pidas que la escriba en el chat. Muéstrame cómo añadirla al archivo .env y asegúrate de que este archivo no se suba a Git.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
 
 ## Términos relacionados del glosario
 

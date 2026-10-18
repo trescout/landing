@@ -21,6 +21,7 @@ Téléchargez l'application sur votre appareil via Google Play Store ou Amazon A
 ## Termes liés du glossaire
 
 - [Infotainment Systems](https://trescout.com/fr/dictionary/infotainment-systems/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux conducteurs qui souhaitent utiliser une ancienne tablette comme écran Android Auto dans leur véhicule.
 - **Licence:** AGPL-3.0

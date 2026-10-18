@@ -2,16 +2,16 @@
 
 PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session replay) gibi araçları bir araya getiren kapsamlı bir platformdur. Yazılım geliştiricilerin hata takibi, deney yönetimi ve kullanıcı verilerini analiz ederek otonom ürünler oluşturmasını sağlar.
 
-- ★ 40.315
+- ★ 40.331
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 40.315 → 40.331, son sürüm desktop-v0.61.746 (18 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 40.305 → 40.315, son sürüm desktop-v0.61.737 (16 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 40.286 → 40.305, son sürüm desktop-v0.61.729 (16 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 40.280 → 40.286, son sürüm desktop-v0.61.716 (15 Ekim 2026).
-- **14 Ekim 2026:** Yıldız 40.256 → 40.280, son sürüm desktop-v0.61.694 (14 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -32,6 +32,14 @@ PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği 
 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 PostHog platformunu kullanarak ürünümdeki kullanıcı davranışlarını analiz etmem gerekiyor. Hataları tespit etmek, oturum tekrarlarını incelemek ve yapay zekâ destekli özelliklerimin performansını izlemek için hangi araçları kullanmalıyım? Veri toplama ve analiz süreçlerini otomatize etmek için izlemem gereken adımları açıkla.
+
+Depo: https://github.com/PostHog/posthog. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 - **Kimin için:** Ürün geliştirme süreçlerini veriye dayalı yönetmek ve kullanıcı deneyimini iyileştirmek isteyen yazılım geliştiriciler ve ürün yöneticileri içindir.
 

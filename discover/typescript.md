@@ -60,6 +60,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Superset](https://trescout.com/dictionary/superset/)
 - [Static Typing](https://trescout.com/dictionary/static-typing/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/typescript/

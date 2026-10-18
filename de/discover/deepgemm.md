@@ -43,6 +43,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die DeepGEMM-Bibliothek auf meiner Hardware mit NVIDIA SM90- oder SM100-Architektur installieren. Führen Sie zuerst die Befehle '# Submodule must be cloned\ngit clone --recursive git@github.com:deepseek-ai/DeepGEMM.git\ncd DeepGEMM\n\n# Link some essential includes and build the C++ extension\ncat develop.sh\n./develop.sh' aus, um das Repository mit seinen Submodulen zu klonen und die Entwicklungsumgebung vorzubereiten. Führen Sie anschließend den Befehl 'cat install.sh\n./install.sh' aus, um die Installation abzuschließen, und machen Sie die Bibliothek in der Python-Umgebung mit dem Befehl 'import deep_gemm' einsatzbereit.
 
+Repository: https://github.com/deepseek-ai/DeepGEMM. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [BLAS](https://trescout.com/de/dictionary/blas/)

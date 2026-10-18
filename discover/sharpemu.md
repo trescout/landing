@@ -30,6 +30,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Emulator](https://trescout.com/dictionary/emulator/)
 - [CPU](https://trescout.com/dictionary/cpu/)
 - [SDK](https://trescout.com/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sharpemu/

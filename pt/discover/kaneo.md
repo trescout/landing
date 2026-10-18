@@ -51,6 +51,16 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero instalar e configurar o projeto Kaneo. Explique passo a passo como usar a ferramenta drim para instalação rápida do projeto e as configurações do arquivo .env necessárias para executá-lo em meu próprio servidor com Docker Compose. Além disso, resuma os principais recursos do projeto e como ele pode ser customizado para um fluxo de trabalho eficiente, com base nas informações da documentação.
 
+Repositório: https://github.com/usekaneo/kaneo. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Se uma chave de API for necessária, não me peça para digitá-la no chat. Mostre-me como adicioná-la ao arquivo .env e garanta que este arquivo não seja enviado ao Git.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Project Management](https://trescout.com/pt/dictionary/project-management/)

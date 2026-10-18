@@ -9,6 +9,7 @@ Las tareas de desarrollo de software moderno preparadas por la Universidad de St
 ## Términos relacionados del glosario
 
 - [Software Development](https://trescout.com/es/dictionary/software-development/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 ## Enlaces
 

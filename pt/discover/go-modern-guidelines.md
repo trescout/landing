@@ -44,6 +44,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 De agora em diante, use padrões Go modernos ao escrever código. Considere a versão do Go no arquivo go.mod do projeto, optando pelos recursos de linguagem mais recentes e adições de biblioteca padrão da versão 1.0 a 1.27. Use funções como `max(a, b)` em vez de blocos `if-else`, métodos modernos como `slices.Contains` em vez de loops manuais e padrões atualizados como `cmp.Or` em vez de verificações nulas.
 
+Repositório: https://github.com/JetBrains/go-modern-guidelines. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

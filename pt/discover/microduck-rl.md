@@ -56,6 +56,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero treinar uma política de caminhada (walking) para o robô Microduck usando a biblioteca microduck_rl da Pollen Robotics. Você poderia explicar como configurar o ambiente MuJoCo, como iniciar o comando de treinamento com o algoritmo PPO e os passos para transferir a política de controle resultante para o robô físico?
 
+Repositório: https://github.com/pollen-robotics/microduck_rl. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - É obrigatório possuir o robô físico Microduck para executar o microduck_rl? Não. A base de código pode ser executada inteiramente de forma virtual no simulador MuJoCo; você pode visualizar a simulação 3D do robô no seu computador.

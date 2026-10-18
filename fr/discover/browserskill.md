@@ -34,6 +34,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Tu es connecté à BrowserSkill, un outil d'automatisation de navigateur. Tu peux désormais effectuer des tâches sur Internet à ma place en utilisant mes sessions de navigateur existantes. Lorsque tu effectues une action, emprunte mes onglets ouverts dans le navigateur, rends-les une fois le travail terminé et ne touche pas à mes autres onglets. Si tu rencontres un code de vérification, un écran de connexion ou une fenêtre de confirmation, arrête l'opération et demande-moi de l'aide.
 
+Dépôt : https://github.com/Tencent/BrowserSkill. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

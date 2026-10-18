@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 DocuSeal kullanarak dijital belge imzalama süreçlerimi nasıl optimize edebilirim? PDF formlarını çevrim içi doldurulabilir hale getirme, imza doğrulama ve kullanıcı yönetimi özelliklerini kendi sunucumda yapılandırmak için izlemem gereken adımları açıkla. Ayrıca, Docker üzerinden kurulum yaptıktan sonra SMTP ayarlarıyla otomatik e-posta bildirimlerini nasıl aktif edebileceğim konusunda rehberlik et.
 
+Depo: https://github.com/docusealco/docuseal. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Belge imzalama ve doldurma süreçlerini kendi sunucularında, güvenli ve açık kaynaklı bir çözümle yönetmek isteyen işletmeler ve bireyler içindir.
 - **Lisans:** AGPL-3.0
 

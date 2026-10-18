@@ -36,6 +36,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [ADB](https://trescout.com/dictionary/adb/)
 - [Root](https://trescout.com/dictionary/root/)
 - [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/universal-android-debloater-next-generation/

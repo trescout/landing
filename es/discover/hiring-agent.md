@@ -47,6 +47,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Actúe como reclutador y analice los datos del currículum proporcionado y las contribuciones técnicas en GitHub. Calificar los proyectos, habilidades técnicas y experiencia laboral del candidato según criterios objetivos. Al calificar, considere la calidad del código del candidato en GitHub, la frecuencia de las contribuciones y la relevancia de sus proyectos para las aplicaciones del mundo real. En última instancia, cree un informe de evaluación transparente y justo que destaque las fortalezas y debilidades del candidato.
 
+Repositorio: https://github.com/interviewstreet/hiring-agent. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [AI Agent](https://trescout.com/es/dictionary/ai-agent/)

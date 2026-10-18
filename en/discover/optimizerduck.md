@@ -29,6 +29,7 @@ To start using the tool, visit the official releases page on GitHub. Download th
 
 - [Bloatware](https://trescout.com/en/dictionary/bloatware/)
 - [GPU](https://trescout.com/en/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to use the Windows operating system faster and more privacy-oriented and do not want to deal with complex registry settings.
 

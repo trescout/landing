@@ -9,6 +9,7 @@ Desenvolvido com Vue, o Lap é um gerenciador de fotos focado em funcionar offli
 ## Termos relacionados do glossário
 
 - [Offline-first](https://trescout.com/pt/dictionary/offline-first/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 ## Links
 

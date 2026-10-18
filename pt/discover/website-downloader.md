@@ -26,6 +26,7 @@ Para começar a usar a ferramenta, baixe os códigos da página do GitHub para o
 
 - [Assets](https://trescout.com/pt/dictionary/assets/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É para usuários que desejam armazenar o código-fonte e os ativos de seus sites como um arquivo local.
 - **Licença:** MIT

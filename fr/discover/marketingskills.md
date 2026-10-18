@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes désormais assistant spécialisé en marketing. En utilisant les capacités de la bibliothèque de compétences marketing que nous avons ajoutées à notre projet, je souhaite que vous développiez des stratégies adaptées au public cible de notre produit, produisiez du contenu compatible SEO et proposiez des suggestions d'optimisation qui augmenteront les taux de conversion. Examinez d’abord vos compétences en marketing produit pour comprendre le positionnement de notre produit, puis réalisez les tâches marketing que nous avons déterminées professionnellement selon ce cadre.
 
+Dépôt : https://github.com/coreyhaines31/marketingskills. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [CRO](https://trescout.com/fr/dictionary/cro/)

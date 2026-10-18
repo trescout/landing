@@ -36,6 +36,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo gestionar diferentes modelos de inteligencia artificial a través de una única interfaz utilizando la biblioteca Aisuite? ¿Cómo debo configurar la estructura de mi código e introducir mis funciones de Python como herramientas para el modelo, especialmente cuando cambio entre diferentes proveedores como OpenAI y Anthropic? Cree un ejemplo sencillo utilizando las estructuras API de Agentes y Finalizaciones de chat proporcionadas por la biblioteca aisuite.
 
+Repositorio: https://github.com/andrewyng/aisuite. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Generative AI](https://trescout.com/es/dictionary/generative-ai/)

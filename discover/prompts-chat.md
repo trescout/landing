@@ -43,6 +43,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yapay zekâ uzmanısın. Kullanıcının hedeflerine en uygun komutları (prompts) oluşturmak için prompts.chat kütüphanesindeki teknikleri kullan. Karmaşık görevleri parçalara ayır, adım adım düşünme yöntemini uygula ve modelin en iyi sonucu vermesi için gereken bağlamı sağla.
 
+Depo: https://github.com/f/prompts.chat. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ modellerinden daha verimli sonuçlar almak isteyen kullanıcılar ve kendi komut kütüphanesini yönetmek isteyen ekipler için uygundur.
 
 ## Bağlantılar

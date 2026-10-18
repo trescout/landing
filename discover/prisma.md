@@ -46,6 +46,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Prisma kullanarak Node.js projemde veritabanı etkileşimlerini nasıl kurgulayabilirim? Veri modelimi oluşturmak için Prisma şemasını nasıl yapılandırmalıyım ve veritabanı bağlantı ayarlarını prisma.config.ts dosyasında nasıl tanımlarım? Ayrıca, veritabanı değişikliklerini yönetmek için Prisma Migrate sistemini nasıl kullanabilirim?
 
+Depo: https://github.com/prisma/prisma. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Node.js ve TypeScript tabanlı projelerinde veritabanı etkileşimlerini daha güvenli ve kolay yönetmek isteyen yazılım geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 

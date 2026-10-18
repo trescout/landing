@@ -78,6 +78,7 @@ Führe zur ersten Validierung den TinyStories-Offline-Workflow aus, um auf CPU e
 
 - [CPU](https://trescout.com/de/dictionary/cpu/)
 - [GPU](https://trescout.com/de/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

@@ -55,6 +55,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Could you explain with code and terminal steps how to set up the ODS server on my personal computer to import my company's PDF documents into a local vector database, and then perform RAG Q&A queries based on these documents using a local Llama 3 model?
 
+Repository: https://github.com/Osmantic/ODS. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Does it work completely offline without an internet connection? Yes. Once the necessary model weights are downloaded, ODS can operate entirely offline in air-gapped environments without requiring any network connection.

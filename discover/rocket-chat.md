@@ -68,6 +68,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Communications Operating System](https://trescout.com/dictionary/communications-operating-system/)
 - [Deployment](https://trescout.com/dictionary/deployment/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/rocket-chat/

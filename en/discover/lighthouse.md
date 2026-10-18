@@ -27,6 +27,7 @@ Download the Lighthouse version from the official GitHub releases page and extra
 
 - [Code Coverage](https://trescout.com/en/dictionary/code-coverage/)
 - [ROM](https://trescout.com/en/dictionary/rom/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** For classic game enthusiasts who want to play the original Banjo Kazooie game on modern computers.
 - **License:** CC0-1.0

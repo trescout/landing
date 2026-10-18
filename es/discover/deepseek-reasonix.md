@@ -2,16 +2,16 @@
 
 DeepSeek-Reasonix es un agente de codificación de IA que se ejecuta en el terminal y se basa en modelos de DeepSeek. Esta herramienta, que se centra en la estabilidad de la caché de prefijos, garantiza que los desarrolladores reciban soporte de codificación ininterrumpido durante largas sesiones.
 
-- ★ 35.823
+- ★ 35.837
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 35,823 → 35,837, última versión studio-v2.44.0 (18 de octubre de 2026).
 - **17 de octubre de 2026:** Estrellas 35,818 → 35,823, última versión studio-v2.43.0 (17 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 35,803 → 35,818, última versión studio-v2.42.0 (16 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 35,786 → 35,803, última versión studio-v2.41.0 (15 de octubre de 2026).
-- **14 de octubre de 2026:** Estrellas 35,775 → 35,786, última versión studio-v2.39.0 (14 de octubre de 2026).
 
 ## Qué aporta
 
@@ -52,6 +52,14 @@ reasonix run "implement the TODOs in main.go"
 Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Mientras trabajo con este agente de codificación de inteligencia artificial que se ejecuta en la terminal, desarrollo sugerencias de código teniendo en cuenta la estructura actual y los objetivos de mi proyecto. Concéntrese en producir respuestas consistentes y de bajo costo durante nuestras largas sesiones utilizando la estabilidad de la caché de prefijo. Al escribir o depurar código, proporcione soluciones modulares y limpias que se ajusten a las necesidades del proyecto.
+
+Repositorio: https://github.com/esengine/DeepSeek-Reasonix. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
 
 ## Términos relacionados del glosario
 

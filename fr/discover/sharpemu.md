@@ -21,6 +21,7 @@ Pour utiliser le projet, vous pouvez télécharger des fichiers prêts à l'empl
 - [Emulator](https://trescout.com/fr/dictionary/emulator/)
 - [CPU](https://trescout.com/fr/dictionary/cpu/)
 - [SDK](https://trescout.com/fr/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux chercheurs intéressés par l'architecture système et au développement de logiciels de bas niveau ainsi qu'aux développeurs de logiciels qui souhaitent mener des recherches à des fins éducatives.
 - **Licence:** GPL-2.0

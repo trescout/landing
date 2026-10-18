@@ -2,17 +2,17 @@
 
 OpenStock é uma alternativa de código aberto para plataformas de troca caras. Oferece rastreamento de preços em tempo real, alertas personalizados e análises da empresa. É acessível a todos e gratuito para sempre.
 
-- ★ 20.317
+- ★ 20.333
 - TypeScript
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 20,317 → 20,333, versão mais recente v2026.10.18 (18 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 19,315 → 20,317.
 - **27 de setembro de 2026:** Estrelas 15,130 → 19,315.
 - **18 de setembro de 2026:** Estrelas 14,018 → 15,130.
-- **2 de agosto de 2026:** Estrelas 11,968 → 14,018.
 
 ## O que você ganha
 
@@ -48,6 +48,16 @@ Você pode usar o site pronto (openstock-ods.vercel.app) diretamente ou instalá
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ajude-me a instalar um aplicativo de rastreamento de estoque de código aberto chamado OpenStock; Baixe o repositório com 'git clone https://github.com/Open-Dev-Society/OpenStock.git', 'cd OpenStock' e execute 'pnpm install', defina as variáveis ​​.env necessárias e inicie o servidor de desenvolvimento com 'pnpm dev' e abra-o em http://localhost:3000.
+
+Repositório: https://github.com/Open-Dev-Society/OpenStock. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Se uma chave de API for necessária, não me peça para digitá-la no chat. Mostre-me como adicioná-la ao arquivo .env e garanta que este arquivo não seja enviado ao Git.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

@@ -38,6 +38,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das von Google entwickelte Tool AX installieren, das die Orchestrierung für KI-Agenten ermöglicht. Installieren Sie zunächst das Befehlszeilentool, indem Sie den Befehl `go install github.com/google/ax/cmd/ax@latest` ausführen. Stellen Sie anschließend die Steuerungsebene mit dem Befehl `make deploy AX_IMAGE_REPO=\<your-registry>` bereit.
 
+Repository: https://github.com/google/ax. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Sandbox](https://trescout.com/de/dictionary/sandbox/)

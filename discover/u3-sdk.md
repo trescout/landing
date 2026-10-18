@@ -39,6 +39,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Software Development](https://trescout.com/dictionary/software-development/)
 - [SDK](https://trescout.com/dictionary/sdk/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/u3-sdk/

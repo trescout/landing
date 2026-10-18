@@ -27,6 +27,7 @@ Sie benötigen keine Installation, um dieses Tool zu verwenden. Kopieren Sie den
 ## Verwandte Begriffe aus dem Glossar
 
 - [IPTV](https://trescout.com/de/dictionary/iptv/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die öffentliche Fernsehsender auf der ganzen Welt mit einer einzigen Anwendung ansehen möchten.
 - **Lizenz:** Unlicense

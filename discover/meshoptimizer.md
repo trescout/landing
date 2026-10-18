@@ -31,6 +31,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Elimdeki üç boyutlu ağ verisini optimize etmek istiyorum. Meshoptimizer kütüphanesini kullanarak vertex ve index verilerimi nasıl daha verimli hale getirebilirim? Özellikle vertex cache optimizasyonu ve index buffer düzenleme süreçlerinde izlemem gereken temel adımları, kütüphanenin sunduğu fonksiyonları kullanarak açıkla.
 
+Depo: https://github.com/zeux/meshoptimizer. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Üç boyutlu grafik uygulamaları geliştiren ve model verilerinin GPU üzerindeki performansını artırmak isteyen yazılımcılar içindir.
 - **Lisans:** MIT
 

@@ -34,6 +34,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Senin bir yazılım mühendisi gibi çalışmanı istiyorum. Agent Skills kütüphanesini kullanarak /spec, /plan, /build, /test, /review, /code-simplify ve /ship komutlarını yazılım geliştirme sürecimin her aşamasında standartlara uygun şekilde uygula. İş akışlarını, kalite kontrol noktalarını ve en iyi mühendislik uygulamalarını takip ederek kod üret.
 
+Depo: https://github.com/addyosmani/agent-skills. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yazılım geliştirme süreçlerini otomatize etmek ve yapay zekâ ajanlarının teknik kapasitesini artırmak isteyen geliştiriciler için uygundur.
 - **Lisans:** MIT
 

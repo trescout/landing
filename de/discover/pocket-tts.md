@@ -53,6 +53,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem Pocket TTS-Tool Text in Sprache umwandeln. Erklären Sie, wie Sie die erforderlichen Befehle und das Soundmodell konfigurieren, um schnell und nur mit Prozessorleistung eine Audiodatei auf meinem Computer zu erstellen. Erklären Sie insbesondere Schritt für Schritt, wie ich die Standard-Audioeinstellungen ändern und mein Audio mithilfe meiner eigenen Audiodatei klonen kann.
 
+Repository: https://github.com/kyutai-labs/pocket-tts. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Text-to-Speech](https://trescout.com/de/dictionary/text-to-speech/)

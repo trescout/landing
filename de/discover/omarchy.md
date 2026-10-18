@@ -31,6 +31,7 @@ Um Omarchy zu verwenden, können Sie omarchy.org besuchen und die Installationsa
 - [Script](https://trescout.com/de/dictionary/script/)
 - [Shell](https://trescout.com/de/dictionary/shell/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Anwender, die das Linux-Betriebssystem in einer einheitlichen und modernen Struktur nutzen möchten.
 - **Lizenz:** MIT

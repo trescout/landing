@@ -37,6 +37,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Swift Package Manager](https://trescout.com/dictionary/swiftpm/)
 - [Backend](https://trescout.com/dictionary/backend/)
 - [SDK](https://trescout.com/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/firebase-ios-sdk/

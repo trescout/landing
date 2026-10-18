@@ -41,6 +41,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite bénéficier du cycle d'apprentissage autonome tout en travaillant avec Hermes Agent. Quelles commandes dois-je utiliser pour que le système se souvienne de mes conversations passées, crée de nouvelles compétences à travers des tâches et se personnalise au fil du temps ? Pouvez-vous m'expliquer les étapes de base que je dois suivre, notamment pour basculer entre les différents modèles et connecter les plateformes de messagerie au système ?
 
+Dépôt : https://github.com/NousResearch/hermes-agent. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Autonomous Agent](https://trescout.com/fr/dictionary/autonomous-agent/)

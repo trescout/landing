@@ -75,6 +75,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 - [Companion](https://trescout.com/es/dictionary/companion/)
 - [RAM](https://trescout.com/es/dictionary/ram/)
 - [API](https://trescout.com/es/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 ## Enlaces
 

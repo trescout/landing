@@ -27,6 +27,7 @@ Um mit der Nutzung der Anki-App zu beginnen, können Sie die offizielle Website 
 
 - [Spaced Repetition](https://trescout.com/de/dictionary/spaced-repetition/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für alle, die eine neue Sprache lernen, in wissensintensiven Bereichen wie Medizin oder Jura arbeiten oder das Gelernte nicht vergessen möchten.
 

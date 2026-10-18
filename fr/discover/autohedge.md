@@ -38,6 +38,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer une stratégie d'investissement en utilisant le système AutoHedge. Je veux que vous effectuiez une analyse de marché avec le Director Agent, que vous évaluiez les données techniques avec le Quant Agent et que vous déterminiez la taille des positions avec le Risk Management Agent. Avant d'exécuter les transactions, rapportez toutes les analyses de risques via ce framework basé sur l'IA.
 
+Dépôt : https://github.com/The-Swarm-Corporation/AutoHedge. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Autonomous Hedge Fund](https://trescout.com/fr/dictionary/autonomous-hedge-fund/)

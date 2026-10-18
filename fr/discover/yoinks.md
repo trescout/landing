@@ -51,6 +51,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite télécharger des vidéos depuis des plateformes comme YouTube, X, Instagram ou TikTok. En utilisant cet outil fonctionnant dans le terminal, configure-le de manière à ce qu'il enregistre le lien vidéo fourni directement dans mon dossier de téléchargement local et qu'il me propose des options de résolution. Assure-toi que le processus de téléchargement soit propre, sans publicité ni redirection.
 
+Dépôt : https://github.com/pablostanley/yoinks. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)

@@ -27,6 +27,7 @@ To get started with the tool, go to the Wiki section on the GitHub page. By revi
 - [ADB](https://trescout.com/en/dictionary/adb/)
 - [Root](https://trescout.com/en/dictionary/root/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to get rid of unnecessary installed applications on their Android phone and speed up their device.
 - **License:** GPL-3.0

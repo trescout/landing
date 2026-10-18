@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez l'outil Codegraph dans mon projet en exécutant la commande `npm i -g @colbymchenry/codegraph` via le gestionnaire de paquets npm. Ensuite, exécutez la commande `npx @colbymchenry/codegraph` pour configurer les assistants d'intelligence artificielle et terminer le processus.
 
+Dépôt : https://github.com/colbymchenry/codegraph. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Knowledge Graph](https://trescout.com/fr/dictionary/knowledge-graph/)

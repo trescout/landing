@@ -43,6 +43,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit Langflow einen Agenten für künstliche Intelligenz erstellen. Leiten Sie mich beim Entwerfen eines grundlegenden Sprachmodellflusses mithilfe der visuellen Schnittstelle. Erklären Sie Schritt für Schritt, welche Komponenten ich ziehen muss, wie ich diese Komponenten miteinander verbinde und wie ich den von mir erstellten Flow als API exportieren kann.
 
+Repository: https://github.com/langflow-ai/langflow. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [MCP](https://trescout.com/de/dictionary/mcp/)

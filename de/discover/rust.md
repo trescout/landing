@@ -26,6 +26,7 @@ Sie können die offizielle Website des Tools unter rust-lang.org besuchen und si
 ## Verwandte Begriffe aus dem Glossar
 
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die hochleistungsfähige und fehlerfreie Systeme entwickeln möchten, während gleichzeitig die Speichersicherheit gewahrt bleibt.
 - **Lizenz:** Apache-2.0

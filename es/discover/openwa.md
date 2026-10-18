@@ -75,6 +75,16 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero automatizar mis procesos de mensajería vía WhatsApp usando la herramienta OpenWA. Guíeme a través de los pasos de configuración básicos necesarios para crear una nueva sesión, enviar mensajes y escuchar los mensajes entrantes a través de un webhook utilizando puntos finales de API REST. Dígame a qué debo prestar atención, especialmente con respecto a la administración de sesiones múltiples y la seguridad de las claves API.
 
+Repositorio: https://github.com/rmyndharis/OpenWA. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Si se necesita una clave API, no me pidas que la escriba en el chat. Muéstrame cómo añadirla al archivo .env y asegúrate de que este archivo no se suba a Git.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [API Gateway](https://trescout.com/es/dictionary/api-gateway/)

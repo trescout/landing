@@ -27,6 +27,7 @@ Para comenzar con la herramienta, vaya a la sección Wiki en la página de GitHu
 - [ADB](https://trescout.com/es/dictionary/adb/)
 - [Root](https://trescout.com/es/dictionary/root/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para usuarios que desean deshacerse de aplicaciones instaladas innecesarias en su teléfono Android y acelerar su dispositivo.
 - **Licencia:** GPL-3.0

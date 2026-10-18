@@ -57,6 +57,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar mi propio agente de voz local usando esta herramienta. ¿Cuáles son los pasos básicos que debo seguir para crear una canalización de audio de baja latencia utilizando componentes VAD, STT, LLM y TTS? ¿Con qué comando puedo poner en marcha el servidor y conectarme con un cliente compatible con OpenAI Realtime?
 
+Repositorio: https://github.com/huggingface/speech-to-speech. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Voice Agents](https://trescout.com/es/dictionary/voice-agents/)

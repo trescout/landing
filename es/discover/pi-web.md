@@ -40,6 +40,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero visualizar mi trabajo con el agente de codificación Pi y gestionar mis sesiones de manera más eficiente. ¿Cómo puedo ver los archivos de mi sesión local a través del navegador, editar mi historial de chat y obtener una vista previa de los archivos de mi proyecto a través de la interfaz utilizando la herramienta web Pi? Explique paso a paso cómo puedo facilitar la configuración del modelo y la gestión de talentos utilizando el espacio de trabajo abierto en el navegador después de la instalación.
 
+Repositorio: https://github.com/agegr/pi-web. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Web UI](https://trescout.com/es/dictionary/web-ui/)

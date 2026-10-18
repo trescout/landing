@@ -33,6 +33,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Basierend auf der Architektur des OpenCut-Projekts, das gerade neu geschrieben wird, insbesondere seiner Rust-basierten Kernstruktur, dem Plug-in-System und den MCP-Serverfunktionen, die für Agenten der künstlichen Intelligenz angeboten werden, wird detailliert erläutert, wie dieses Tool Videobearbeitungsworkflows automatisieren kann und welche Auswirkungen die zukünftige Plug-in-Unterstützung auf kreative Prozesse hat.
 
+Repository: https://github.com/OpenCut-app/OpenCut. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [MCP](https://trescout.com/de/dictionary/mcp/)

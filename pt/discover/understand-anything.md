@@ -51,6 +51,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale o plugin Understanding Anything no Claude Code com os comandos '/plugin marketplace add Lum1104/Understand-Anything' e '/plugin install Understanding-anything', depois no meu projeto execute '/understand' para analisar a base de código e abrir o painel interativo do gráfico de conhecimento com '/understand-dashboard'.
 
+Repositório: https://github.com/Lum1104/Understand-Anything. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Por que isso está na agenda?
 
 Porque está no centro da tendência de “compreender o código e as informações perguntando à IA”. Além de ser um aplicativo independente, ele está incluído como um complemento aos assistentes que você usa (como Claude Code, Codex, Gemini CLI). O fato de ter sido estrelado por mais de 4.700 desenvolvedores em um dia é uma prova do intenso interesse que recebeu.

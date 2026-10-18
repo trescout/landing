@@ -34,6 +34,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim için Personal AI Infrastructure (PAI) sistemini kullanarak kişisel bir yaşam işletim sistemi kurmak istiyorum. Mevcut kurulum komutunu kullanarak sistemi hazır hale getirmeme ve ardından localhost:31337 adresindeki yaşam panosu üzerinden ilk mülakatımı yaparak dijital asistanımı yapılandırmama yardımcı olur musun?
 
+Depo: https://github.com/danielmiessler/Personal_AI_Infrastructure. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi dijital asistanını oluşturarak yaşam hedeflerini, iş akışlarını ve günlük görevlerini yapay zekâ ile optimize etmek isteyen bireyler içindir.
 - **Lisans:** MIT
 

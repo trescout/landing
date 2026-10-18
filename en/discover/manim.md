@@ -65,6 +65,7 @@ Can you help me write a simple ManimGL scene in which a circle transforms into a
 ## Related dictionary terms
 
 - [Fork](https://trescout.com/en/dictionary/fork/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

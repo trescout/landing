@@ -49,6 +49,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je travaille sur PI-Desktop. Je t'autorise à analyser le code de mes projets locaux, à modifier des fichiers et à exécuter des commandes terminales. Lors de l'exécution des tâches, je souhaite que tu établisses d'abord un plan d'application, que tu obtiennes mon approbation pour les changements critiques et que tu rendes compte de tout le processus de manière transparente. Lors de l'écriture du code, respecte la structure actuelle du projet et procède en effectuant les tests nécessaires en cas d'erreur.
 
+Dépôt : https://github.com/vastsa/PI-Desktop. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Local-first](https://trescout.com/fr/dictionary/local-first/)

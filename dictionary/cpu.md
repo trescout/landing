@@ -39,8 +39,8 @@ Bir işlemcinin içinde aynı anda birden fazla işi yapabilen bağımsız küç
 ## İlgili araçlar
 
 - [Tensorflow](https://trescout.com/discover/tensorflow/)
-- [Llmfit](https://trescout.com/discover/llmfit/)
 - [Airllm](https://trescout.com/discover/airllm/)
+- [Llmfit](https://trescout.com/discover/llmfit/)
 - [CasaOS](https://trescout.com/discover/casaos/)
 - [Omlx](https://trescout.com/discover/omlx/)
 - [Ktransformers](https://trescout.com/discover/ktransformers/)

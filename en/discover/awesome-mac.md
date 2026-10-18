@@ -23,6 +23,10 @@ This tool does not require a software installation. By visiting the relevant Git
 
 - [Official source →](https://git.io/macx)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is suitable for anyone who is a new Mac user or wants to equip their system with the best tools.
 - **License:** CC0-1.0
 

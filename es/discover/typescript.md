@@ -49,6 +49,7 @@ Para comenzar a usar TypeScript, puede revisar la guía TypeScript en 5 minutos 
 
 - [Superset](https://trescout.com/es/dictionary/superset/)
 - [Static Typing](https://trescout.com/es/dictionary/static-typing/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores que desean desarrollar aplicaciones JavaScript más confiables y escalables.
 - **Licencia:** Apache-2.0

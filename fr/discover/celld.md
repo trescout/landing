@@ -44,6 +44,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer un système distribué en utilisant Celld. Après avoir créé un espace de stockage compatible S3, expliquez étape par étape comment les nœuds vont utiliser cet espace et comment distribuer les packages Wrangler. Résumez les détails techniques dans un langage simple, en particulier sur la façon dont les nœuds se découvrent et garantissent la cohérence des données sur S3.
 
+Dépôt : https://github.com/denoland/celld. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [State Management](https://trescout.com/fr/dictionary/state-management/)

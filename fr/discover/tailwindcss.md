@@ -43,6 +43,7 @@ Pour commencer à utiliser cet outil, vous pouvez visiter le site officiel tailw
 - [Utility-first](https://trescout.com/fr/dictionary/utility-first/)
 - [CSS Framework](https://trescout.com/fr/dictionary/css-framework/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui souhaitent concevoir des interfaces utilisateur rapides et originales dans leurs projets Web.
 - **Licence:** MIT

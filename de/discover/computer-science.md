@@ -23,6 +23,7 @@ Um mit diesem Lehrplan zu beginnen, besuchen Sie einfach die offizielle OSSU CS-
 ## Verwandte Begriffe aus dem Glossar
 
 - [Computer Science](https://trescout.com/de/dictionary/computer-science/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für alle, die über die Disziplin des Selbstlernens verfügen und mit einem akademischen Ansatz kostenlos die Grundlagen der Informatik erlernen möchten.
 - **Lizenz:** MIT

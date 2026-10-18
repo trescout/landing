@@ -97,6 +97,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Agent Skills](https://trescout.com/dictionary/agent-skills/)
 - [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [Agent](https://trescout.com/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-obsidian/

@@ -26,6 +26,7 @@ This project contains the source codes of a textbook written on autonomous robot
 
 - [Introduction to Autonomous Robots](https://trescout.com/en/dictionary/autonomous-robots-intro/)
 - [PDF](https://trescout.com/en/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for students and researchers who want to learn the theoretical infrastructure and algorithmic principles of autonomous robotic systems.
 

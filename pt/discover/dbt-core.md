@@ -44,6 +44,7 @@ Você pode acessar o guia de instalação visitando a página de documentação 
 ## Termos relacionados do glossário
 
 - [Rust](https://trescout.com/pt/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a analistas e engenheiros de dados que desejam transformar e gerenciar dados no data warehouse com a disciplina de desenvolvimento de software.
 - **Licença:** Apache-2.0

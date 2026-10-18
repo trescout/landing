@@ -2,12 +2,13 @@
 
 LiteLLM, 100'den fazla büyük dil modeli (LLM) arayüzünü tek bir standart formatta birleştiren bir yapay zekâ ağ geçidi (AI gateway). Yazılım geliştiricilere maliyet takibi, yük dengeleme ve güvenlik duvarı (guardrails) gibi özellikler sunarak farklı model sağlayıcıları arasında geçiş yapmayı kolaylaştırıyor.
 
-- ★ 61.213
+- ★ 61.464
 - Python
 - GitHub Trending · 2026-10-09
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 61.213 → 61.464, son sürüm v1.106.0 (18 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 60.948 → 61.213, son sürüm v1.105.1 (14 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 60.449 → 60.948, son sürüm v1.105.0 (11 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 60.446 → 60.449, son sürüm v1.104.2 (8 Ekim 2026).
@@ -40,6 +41,14 @@ litellm --model gpt-4o
 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yazılım geliştirme yardımcısısın. Projemizde farklı yapay zekâ modellerini tek bir merkezden yönetmek için LiteLLM aracını kullanmak istiyoruz. Öncelikle terminalde 'uv add litellm' komutunu çalıştırarak kütüphaneyi yüklememi sağla. Ardından, 'uv tool install 'litellm[proxy]'' ve 'litellm --model gpt-4o' komutlarıyla büyük dil modeli gpt-4o için yerel bir geçit sunucusunu nasıl başlatacağımı ve bu sunucu üzerinden modelleri nasıl yönlendirebileceğimi adım adım açıkla.
+
+Depo: https://github.com/BerriAI/litellm. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 - **Kimin için:** Farklı yapay zekâ modellerini tek bir standart arayüz üzerinden bütçe takibi ve yük dengeleme özellikleriyle yönetmek isteyen yazılım geliştiriciler içindir.
 

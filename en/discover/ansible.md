@@ -50,6 +50,7 @@ To install Ansible, you need to visit the installation guide on the official web
 ## Related dictionary terms
 
 - [Agent](https://trescout.com/en/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for system administrators and software developers who want to automate IT infrastructure and server configurations.
 - **License:** GPL-3.0

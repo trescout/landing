@@ -2,16 +2,16 @@
 
 FastMCP est un framework basé sur Python qui facilite le développement de serveurs et de clients Model Context Protocol (MCP). Il permet aux développeurs d'intégrer rapidement les modèles d'IA et les outils natifs.
 
-- ★ 28 020
+- ★ 28 119
 - Python
 - GitHub Trending · 2026-07-21
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 28,020 → 28,119, dernière version v4.1.1 (18 octobre 2026).
 - **9 octobre 2026:** Étoiles 27,981 → 28,020, dernière version v4.1.0 (8 octobre 2026).
 - **5 octobre 2026:** Étoiles 27,907 → 27,981, dernière version v4.0.11 (4 octobre 2026).
 - **27 septembre 2026:** Étoiles 27,720 → 27,907, dernière version v4.0.10 (25 septembre 2026).
-- **18 septembre 2026:** Étoiles 27,689 → 27,720, dernière version v4.0.5 (17 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -32,6 +32,14 @@ uv pip install fastmcp
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite convertir une fonction Python en un outil compatible Model Context Protocol (MCP) à l'aide de FastMCP. Définissez un outil qui effectue un ajout simple à l'aide du décorateur @mcp.tool et configurez la structure de base pour lancer le serveur FastMCP.
+
+Dépôt : https://github.com/PrefectHQ/fastmcp. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

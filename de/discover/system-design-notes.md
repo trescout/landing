@@ -27,6 +27,7 @@ Diese Ressource ist kein Software-Tool, sondern eine Zusammenstellung von Notize
 ## Verwandte Begriffe aus dem Glossar
 
 - [System Design](https://trescout.com/de/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Ingenieurskandidaten, die sich auf Softwarearchitektur- und Systemdesign-Interviews vorbereiten.
 

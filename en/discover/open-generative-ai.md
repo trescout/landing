@@ -33,6 +33,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the Open-Generative-AI platform, I want to create high-quality images and videos without getting stuck in content filters. How can I choose the most suitable ones for my creative projects among the more than 200 models offered by the platform and how can I set up a professional workflow in my own local system using the free production opportunities offered by these models?
 
+Repository: https://github.com/Anil-matcha/Open-Generative-AI. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Self-hosted](https://trescout.com/en/dictionary/self-hosted/)

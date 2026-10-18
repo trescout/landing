@@ -52,6 +52,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Whisper aracını kullanarak elimdeki ses dosyasını metne dönüştürmek istiyorum. Sistemimde gerekli kurulumları yaptım. Ses dosyamın içeriğini metne çevirmek için terminale yazmam gereken temel komut yapısı nedir ve farklı dillerdeki ses dosyaları için dil belirtme parametresini nasıl kullanmalıyım?
 
+Depo: https://github.com/openai/whisper. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Ses verilerini metne dönüştürme, çeviri yapma veya dil tanımlama süreçlerini otomatize etmek isteyen geliştiriciler ve araştırmacılar içindir.
 - **Lisans:** MIT
 

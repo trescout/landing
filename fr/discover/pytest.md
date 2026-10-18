@@ -38,6 +38,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite écrire des tests unitaires dans mon projet Python. Comment puis-je créer un fichier de test simple à l'aide de Pytest et exécuter les tests que j'ai écrits via le terminal ? Veuillez me parler de la structure d'assertion que je dois utiliser lors de la définition des fonctions de test et des conventions de dénomination des fichiers pour la découverte automatique des tests.
 
+Dépôt : https://github.com/pytest-dev/pytest. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Testing Framework](https://trescout.com/fr/dictionary/testing-framework/)

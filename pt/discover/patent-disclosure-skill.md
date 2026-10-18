@@ -55,6 +55,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Gostaria de preparar um documento formal de notificação de invenção para um algoritmo de cache de banco de dados distribuído que desenvolvi, utilizando a habilidade de patent disclosure. Você poderia explicar passo a passo como fornecer o fluxo do algoritmo como entrada e gerar as reivindicações independentes, o campo técnico da invenção e as diferenças em relação ao estado da técnica?
 
+Repositório: https://github.com/handsomestWei/patent-disclosure-skill. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - Esta ferramenta substitui um agente de patentes oficial? Não. O Patent Disclosure Skill é uma ferramenta de preparação e produtividade que ajuda engenheiros a organizar rascunhos de invenções e deixá-los prontos para os agentes; o depósito legal deve ser feito por um profissional.

@@ -43,6 +43,7 @@ Para começar a usar esta ferramenta, você pode visitar o site oficial tailwind
 - [Utility-first](https://trescout.com/pt/dictionary/utility-first/)
 - [CSS Framework](https://trescout.com/pt/dictionary/css-framework/)
 - [Framework](https://trescout.com/pt/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores de software que desejam projetar interfaces de usuário rápidas e exclusivas em seus projetos web.
 - **Licença:** MIT

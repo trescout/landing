@@ -33,6 +33,7 @@ Para comenzar a utilizar esta biblioteca, primero puede revisar la guía actual 
 ## Términos relacionados del glosario
 
 - [API](https://trescout.com/es/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para desarrolladores de software que quieran desarrollar sus propias aplicaciones de mensajería a través del protocolo web de WhatsApp.
 - **Licencia:** MIT

@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite gérer mes opérations sur les fichiers de manière plus visuelle et efficace dans le terminal. J'ai installé l'outil Superfile et je souhaite commencer à l'utiliser. Pouvez-vous me guider sur les commandes de base de gestion de fichiers, les raccourcis et comment utiliser l'interface plus efficacement ?
 
+Dépôt : https://github.com/yorukot/superfile. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)

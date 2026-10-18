@@ -54,6 +54,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir sızma testi uzmanısın. VulnClaw aracını kullanarak hedef sistem üzerinde bilgi toplama, zafiyet tarama ve istismar adımlarını gerçekleştir. İşlemleri yaparken hedef odaklı求解 (solve) motorunu kullan, bulgularını doğrula ve süreç sonunda yapılandırılmış bir rapor ile Python tabanlı PoC kodunu oluştur. Her aşamada elde ettiğin gerçek verileri temel alarak ilerle ve varsayımlardan kaçın.
 
+Depo: https://github.com/Unclecheng-li/VulnClaw. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Sızma testi süreçlerini otomatize etmek isteyen güvenlik araştırmacıları ve sızma testi uzmanları içindir.
 - **Lisans:** MIT
 

@@ -45,6 +45,7 @@ Pour démarrer avec Protobuf, vous pouvez visiter le site de documentation offic
 
 - [Protocol Buffers](https://trescout.com/fr/dictionary/protocol-buffers/)
 - [Binary](https://trescout.com/fr/dictionary/binary/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui souhaitent établir une communication de données rapide et efficace entre différents systèmes logiciels.
 

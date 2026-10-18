@@ -35,6 +35,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Finansal piyasalarda veri analizi ve strateji geliştirme süreçlerinde makine öğrenimi modellerini nasıl kullanabilirim? Bu araçtaki vaka çalışmalarını temel alarak, bir ticaret stratejisinin veri kaynağından canlı işleme aşamasına kadar olan iş akışını ve yapay zekâ ajanlarının bu süreçteki rolünü adım adım açıkla.
 
+Depo: https://github.com/stefan-jansen/machine-learning-for-trading. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Finansal piyasalar için veri analizi ve tahmin modelleri geliştirmek isteyen araştırmacılar ve yazılımcılar içindir.
 - **Lisans:** MIT
 

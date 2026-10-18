@@ -27,6 +27,7 @@ Pour démarrer avec l'outil, accédez à la section Wiki de la page GitHub. En c
 - [ADB](https://trescout.com/fr/dictionary/adb/)
 - [Root](https://trescout.com/fr/dictionary/root/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent se débarrasser des applications installées inutiles sur leur téléphone Android et accélérer leur appareil.
 - **Licence:** GPL-3.0

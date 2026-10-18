@@ -2,16 +2,16 @@
 
 O Openrig é uma infraestrutura multi-agente que combina a ferramenta de programação Claude Code, da Anthropic, e o modelo de programação Codex, da OpenAI, em um único sistema. Ele permite que os desenvolvedores usem diferentes modelos de IA simultaneamente no mesmo fluxo de trabalho.
 
-- ★ 7.105
+- ★ 7.747
 - TypeScript
 - GitHub Trending · 2026-09-28
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 7,105 → 7,747, versão mais recente v0.6.11 (17 de outubro de 2026).
 - **12 de outubro de 2026:** Estrelas 6,819 → 7,105, versão mais recente v0.6.10 (12 de outubro de 2026).
 - **11 de outubro de 2026:** Estrelas 6,288 → 6,819, versão mais recente v0.6.9 (11 de outubro de 2026).
 - **9 de outubro de 2026:** Estrelas 6,015 → 6,288, versão mais recente v0.6.8 (9 de outubro de 2026).
-- **8 de outubro de 2026:** Estrelas 5,622 → 6,015, versão mais recente v0.6.7 (8 de outubro de 2026).
 
 ## O que você ganha
 
@@ -33,6 +33,14 @@ rig setup --dry-run
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero coordenar os agentes Claude Code e Codex em um único sistema usando o OpenRig. Depois de verificar os requisitos de Node.js e tmux, examine o plano de instalação com os comandos npm install -g @openrig/cli e rig setup --dry-run, e me ajude a prosseguir para as etapas de inicialização da equipe.
+
+Repositório: https://github.com/mvschwarz/openrig. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

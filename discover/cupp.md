@@ -50,6 +50,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Common User Passwords Profiler](https://trescout.com/dictionary/common-user-passwords-profiler/)
 - [Wordlists](https://trescout.com/dictionary/wordlists/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cupp/

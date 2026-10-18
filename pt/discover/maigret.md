@@ -40,6 +40,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero realizar uma verificação abrangente da pegada digital em um nome de usuário de destino usando a ferramenta Maigret. Explique o comando básico que me permitirá verificar a presença deste nome de usuário em mais de 3.000 sites e os parâmetros que posso usar para relatar os dados obtidos.
 
+Repositório: https://github.com/soxoj/maigret. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Dossier](https://trescout.com/pt/dictionary/dossier/)

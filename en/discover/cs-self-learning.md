@@ -25,6 +25,7 @@ You don't need any setup to get started with this guide. You can review all cour
 ## Related dictionary terms
 
 - [Computer Science](https://trescout.com/en/dictionary/computer-science/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for anyone who wants to self-specialize in an academic discipline in the field of computer science.
 - **License:** MIT

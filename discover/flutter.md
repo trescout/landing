@@ -62,6 +62,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [User Interface](https://trescout.com/dictionary/user-interface/)
 - [Interface](https://trescout.com/dictionary/interface/)
 - [Framework](https://trescout.com/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flutter/

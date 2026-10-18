@@ -31,6 +31,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Tech Stack](https://trescout.com/dictionary/tech-stack/)
 - [Clone](https://trescout.com/dictionary/clone/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/clone-wars/

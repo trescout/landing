@@ -2,15 +2,15 @@
 
 Scientific-agent-skills ist eine vorgefertigte Kompetenzbibliothek, die Agenten der künstlichen Intelligenz an wissenschaftliche Forschungsprozesse anpasst. Es bietet 163 validierte Funktionen und mehr als 100 Datenbanken in den Bereichen Biologie, Chemie und Medizin und lässt sich in Plattformen wie den Code-Editor Cursor oder den KI-Assistenten Claude Code integrieren.
 
-- ★ 49.814
+- ★ 52.471
 - GitHub Trending · 2026-08-26
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 49,814 → 52,471, neueste Version v2.72.0 (1. Oktober 2026).
 - **15. Oktober 2026:** Sterne 47,342 → 49,814, neueste Version v2.72.0 (1. Oktober 2026).
 - **2. Oktober 2026:** Sterne 47,133 → 47,342, neueste Version v2.72.0 (1. Oktober 2026).
 - **29. September 2026:** Sterne 46,808 → 47,133, neueste Version v2.70.0 (29. September 2026).
-- **27. September 2026:** Sterne 44,519 → 46,808, neueste Version v2.69.0 (11. September 2026).
 
 ## Was es bringt
 
@@ -31,6 +31,14 @@ npx skills add K-Dense-AI/scientific-agent-skills
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Nutzen Sie die 166 vorgefertigten Fähigkeiten und Datenbankverbindungen der Bibliothek, um mich bei meinen wissenschaftlichen Rechercheprozessen zu unterstützen.
+
+Repository: https://github.com/K-Dense-AI/scientific-agent-skills. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

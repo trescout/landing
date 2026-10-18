@@ -66,6 +66,7 @@ According to the official build instructions, how can I check whether my system 
 
 - [Sandbox](https://trescout.com/en/dictionary/sandbox/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

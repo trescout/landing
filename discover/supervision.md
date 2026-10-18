@@ -48,6 +48,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Python 3.9 veya üzeri bir ortamda pip install supervision komutuyla kütüphaneyi kurdum. Bilgisayarlı görü projemde nesne tespiti sonuçlarını görselleştirmek ve veri setimi yönetmek istiyorum. Supervision kütüphanesini kullanarak nesne tespiti sonuçlarını bir görüntü üzerine nasıl işaretleyebilirim ve farklı formatlardaki (COCO, YOLO vb.) veri setlerini nasıl yükleyip dönüştürebilirim? Lütfen kütüphanenin sunduğu annotator ve dataset yardımcı araçlarını kullanarak örnek bir iş akışı oluşturmama yardımcı ol.
 
+Depo: https://github.com/roboflow/supervision. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Bilgisayarlı görü projelerinde nesne tespiti ve takibi süreçlerini standartlaştırmak isteyen Python geliştiricileri için uygundur.
 - **Lisans:** MIT
 

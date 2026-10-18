@@ -46,6 +46,16 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite collecter les modèles d'invite et les paramètres du fournisseur que j'ai préparés pour mon assistant de codage d'intelligence artificielle à l'aide de Codex-X dans une interface visuelle unique. Aidez-moi à configurer mes clés API et à synchroniser l'historique de mes sessions en installant et en lançant l'application dans mon environnement local.
 
+Dépôt : https://github.com/yynxxxxx/Codex-X. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Prompt Injection](https://trescout.com/fr/dictionary/prompt-injection/)

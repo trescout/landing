@@ -42,6 +42,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Inicia una auditoría de seguridad integral para esta base de código. Mapea la arquitectura para identificar los puntos de entrada y, a continuación, realiza un escaneo de múltiples etapas para detectar vulnerabilidades de seguridad. Somete a cada candidato a vulnerabilidad que encuentres a un proceso de verificación independiente para clasificarlo como verificado, pendiente de verificación o rechazado. Informa los resultados en un formato estructurado y documenta todos los hallazgos de acuerdo con los estándares de seguridad del proyecto.
 
+Repositorio: https://github.com/cloudflare/security-audit-skill. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Skill](https://trescout.com/es/dictionary/skill/)

@@ -66,6 +66,7 @@ De acordo com as instruções oficiais, como verifico se meu sistema possui Qt 6
 
 - [Sandbox](https://trescout.com/pt/dictionary/sandbox/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 ## Links
 

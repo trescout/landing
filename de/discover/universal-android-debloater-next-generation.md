@@ -27,6 +27,7 @@ Um mit dem Tool zu beginnen, gehen Sie zum Wiki-Bereich auf der GitHub-Seite. We
 - [ADB](https://trescout.com/de/dictionary/adb/)
 - [Root](https://trescout.com/de/dictionary/root/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die unnötige installierte Anwendungen auf ihrem Android-Telefon entfernen und ihr Gerät beschleunigen möchten.
 - **Lizenz:** GPL-3.0

@@ -41,6 +41,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mein lokales KI-Speichersystem mit dem MemPalace-Tool einrichten. Können Sie mir die grundlegenden Schritte erklären, die ich befolgen muss, um eine Struktur zu erstellen, in der ich meine Projektdateien und den Konversationsverlauf scannen und semantische Suchen durchführen kann, sowie den Prozess von der Installation bis zur ersten Suche?
 
+Repository: https://github.com/MemPalace/mempalace. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Memory System](https://trescout.com/de/dictionary/memory-system/)

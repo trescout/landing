@@ -9,6 +9,7 @@ Stable-diffusion.cpp est une bibliothèque d'inférence qui exécute des modèle
 ## Termes liés du glossaire
 
 - [Inference](https://trescout.com/fr/dictionary/inference/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 

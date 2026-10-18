@@ -65,6 +65,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein Open-Source-CRM namens Twenty installieren. Erstellen Sie im Terminal eine neue App mit dem Befehl „npx create-twenty-app my-app“ und veröffentlichen Sie sie dann mit „npx twenty app:publish --private“ in meinem Arbeitsbereich. Sagen Sie mir auch, wie man es mit Docker Compose zum Selbsthosten ausführt.
 
+Repository: https://github.com/twentyhq/twenty. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [CRM](https://trescout.com/de/dictionary/crm/)

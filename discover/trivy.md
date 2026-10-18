@@ -61,6 +61,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 GitHub Actions üzerinde her kod gönderiminde (push) ve çekme isteğinde (PR) Docker imajımı ve kaynak kodlarımı Trivy ile tarayan bir güvenlik iş akışı (workflow) kurmak istiyorum. Yalnızca CRITICAL ve HIGH seviyesindeki güvenlik açıklarında derlemeyi durduran (exit-code 1), bulguları SARIF formatında GitHub Security panosuna yükleyen ve CycloneDX formatında SBOM dosyası oluşturan eksiksiz bir .github/workflows/trivy.yml dosyası hazırlar mısın?
 
+Depo: https://github.com/aquasecurity/trivy. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yazılım geliştirme ve dağıtım süreçlerinde güvenlik denetimlerini, gizli anahtar kontrollerini ve SBOM üretimini otomatize etmek isteyen mühendisler içindir.
 - **Lisans:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
 - **Geliştirici:** Aqua Security ve Açık Kaynak Topluluğu

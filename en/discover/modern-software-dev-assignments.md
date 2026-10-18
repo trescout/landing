@@ -9,6 +9,7 @@ Prepared by Stanford University, these modern software development assignments t
 ## Related dictionary terms
 
 - [Software Development](https://trescout.com/en/dictionary/software-development/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

@@ -46,6 +46,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Analise meu código de interface existente usando a biblioteca Stitch Skills e importe-o para um projeto Stitch. Em seguida, crie componentes React usando este sistema de design e verifique se o projeto está em conformidade com os padrões de design.
 
+Repositório: https://github.com/google-labs-code/stitch-skills. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Native](https://trescout.com/pt/dictionary/native/)

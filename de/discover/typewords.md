@@ -25,6 +25,7 @@ Sie müssen nichts installieren, um das Tool zu nutzen; Sie können direkt über
 ## Verwandte Begriffe aus dem Glossar
 
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für alle, die ihren englischen Wortschatz erweitern und gleichzeitig ihre Tippgeschwindigkeit verbessern möchten.
 - **Lizenz:** GPL-3.0

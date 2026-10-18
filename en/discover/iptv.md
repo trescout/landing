@@ -27,6 +27,7 @@ You don't need any installation to use this tool. Copy the link to the project's
 ## Related dictionary terms
 
 - [IPTV](https://trescout.com/en/dictionary/iptv/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to watch public television channels around the world from a single application.
 - **License:** Unlicense

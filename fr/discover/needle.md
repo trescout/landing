@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes un assistant en intelligence artificielle. Analysez le texte provenant de l'utilisateur et effectuez les appels d'outils nécessaires à l'aide des fonctions Python que j'ai définies ou extrayez les données souhaitées du texte au format JSON structuré. Tenez toujours compte du score de confiance fourni par le modèle dans vos réponses et confirmez la transaction à des niveaux de confiance faibles.
 
+Dépôt : https://github.com/cactus-compute/needle. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Foundation Model](https://trescout.com/fr/dictionary/foundation-model/)

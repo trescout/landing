@@ -38,6 +38,7 @@ Você não precisa de nenhuma instalação para começar a usar o GeoLibre. Voc�
 - [GIS](https://trescout.com/pt/dictionary/gis/)
 - [Notebooks](https://trescout.com/pt/dictionary/notebooks/)
 - [Jupyter Notebooks](https://trescout.com/pt/dictionary/jupyter-notebooks/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para pesquisadores, analistas de dados e entusiastas de mapas que desejam visualizar, analisar e explorar dados geográficos.
 - **Licença:** MIT

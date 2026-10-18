@@ -56,6 +56,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você pode explicar passo a passo como posso verificar mais de 465 plataformas usando um único nome de usuário usando a ferramenta User-Scanner em uma auditoria de segurança, exportar as descobertas no formato JSON e listar perfis suspeitos?
 
+Repositório: https://github.com/kaifcodec/user-scanner. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - É legal usar o User-Scanner? Sim. O User-Scanner consulta apenas o status de presença da conta publicamente visível em páginas da web públicas; Ele não fornece acesso não autorizado ao sistema ou quebra de senhas.

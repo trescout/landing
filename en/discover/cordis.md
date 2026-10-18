@@ -28,6 +28,7 @@ To start using Cordis, you can review the basic concepts on cordis-primer, the o
 ## Related dictionary terms
 
 - [Meta-framework](https://trescout.com/en/dictionary/meta-framework/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for software developers who want to develop complex software systems in a modular and organized structure.
 - **License:** MIT

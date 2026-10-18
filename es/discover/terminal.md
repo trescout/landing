@@ -43,6 +43,7 @@ Puede descargar fácilmente la aplicación Windows Terminal desde Microsoft Stor
 
 - [Console Host](https://trescout.com/es/dictionary/console-host/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para cualquiera que utilice la línea de comandos en Windows y necesite una interfaz de terminal más moderna y funcional.
 - **Licencia:** MIT

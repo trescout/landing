@@ -9,6 +9,7 @@ Spirula Studio es una herramienta educativa multiplataforma que convierte vídeo
 ## Términos relacionados del glosario
 
 - [Mesh](https://trescout.com/es/dictionary/mesh/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 ## Enlaces
 

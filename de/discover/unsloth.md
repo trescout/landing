@@ -41,6 +41,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit Unsloth ein KI-Modell auf meinem lokalen Computer trainieren. Können Sie mir Schritt für Schritt die optimalen Konfigurationseinstellungen erläutern, die es mir ermöglichen, meine Hardwareressourcen optimal zu nutzen, die Speichernutzung zu optimieren und den Feinabstimmungsprozess zu beschleunigen?
 
+Repository: https://github.com/unslothai/unsloth. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Fine-tuning](https://trescout.com/de/dictionary/fine-tuning/)

@@ -21,6 +21,10 @@ Esta ferramenta não requer instalação de software. Para encontrar a tecnologi
 
 - [Fonte oficial →](https://github.com/stingalleman/awesome-audiovisual#readme)
 
+## Termos relacionados do glossário
+
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
 - **Para quem é:** É adequado para quem deseja acessar recursos de qualidade em desenvolvimento de software, tecnologia e ferramentas digitais em um único centro.
 - **Licença:** CC0-1.0
 

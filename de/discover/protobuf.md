@@ -45,6 +45,7 @@ Um mit Protobuf zu beginnen, können Sie die offizielle Dokumentationsseite besu
 
 - [Protocol Buffers](https://trescout.com/de/dictionary/protocol-buffers/)
 - [Binary](https://trescout.com/de/dictionary/binary/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die eine schnelle und effiziente Datenkommunikation zwischen verschiedenen Softwaresystemen aufbauen möchten.
 

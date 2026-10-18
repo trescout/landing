@@ -43,6 +43,7 @@ Vous pouvez facilement télécharger l'application Windows Terminal depuis le Mi
 
 - [Console Host](https://trescout.com/fr/dictionary/console-host/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse à tous ceux qui utilisent la ligne de commande sous Windows et qui ont besoin d'une interface de terminal plus moderne et fonctionnelle.
 - **Licence:** MIT

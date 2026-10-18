@@ -2,16 +2,16 @@
 
 Claude-video est un outil Python qui donne au modèle Claude la possibilité d'analyser le contenu vidéo. En téléchargeant des vidéos, en les divisant en images et en les convertissant en texte (transcription), le logiciel amène les données visuelles dans un format que le modèle d'intelligence artificielle peut traiter.
 
-- ★ 17 705
+- ★ 18 736
 - Python
 - GitHub Trending · 2026-07-07
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 17,705 → 18,736, dernière version v0.3.2 (25 septembre 2026).
 - **27 septembre 2026:** Étoiles 16,553 → 17,705, dernière version v0.3.2 (25 septembre 2026).
 - **31 août 2026:** Étoiles 15,503 → 16,553, dernière version v0.2.0 (1 juillet 2026).
 - **15 août 2026:** Étoiles 14,427 → 15,503, dernière version v0.2.0 (1 juillet 2026).
-- **7 août 2026:** Étoiles 13,424 → 14,427, dernière version v0.2.0 (1 juillet 2026).
 
 ## Ce que ça vous apporte
 
@@ -40,6 +40,14 @@ npx skills add bradautomates/claude-video -g
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je veux que vous analysiez la vidéo que j'ai partagée à l'aide de l'outil Claude Vidéo. Répondez au contenu de la vidéo, à ses moments importants et aux questions que je pose, en vous basant sur les images visuelles de la vidéo et la transcription audio. S'il n'y a pas de sous-titre dans la vidéo, convertissez l'audio en texte à l'aide de l'API Whisper et analysez-le en examinant les détails visuels (images).
+
+Dépôt : https://github.com/bradautomates/claude-video. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

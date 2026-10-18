@@ -27,6 +27,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist Reiseassistent. Erstellen Sie mithilfe der MCP-Tools (Model Context Protocol) auf TREK einen dreitägigen Paris-Reiseplan für mich, passen Sie mein Budget an die täglichen Ausgabengrenzen an und erstellen Sie eine Packliste für das, was ich mitnehmen muss.
 
+Repository: https://github.com/mauriceboe/TREK. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [PWA](https://trescout.com/de/dictionary/pwa/)

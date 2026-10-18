@@ -57,6 +57,7 @@ Um mit der Nutzung von Terraform zu beginnen, können Sie die Dokumentationsseit
 
 - [Infrastructure as Code](https://trescout.com/de/dictionary/infrastructure-as-code/)
 - [API](https://trescout.com/de/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Systemadministratoren und Softwareentwickler, die Infrastrukturprozesse automatisieren und über Code verwalten möchten.
 

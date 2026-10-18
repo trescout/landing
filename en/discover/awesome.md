@@ -21,6 +21,10 @@ This tool does not require a software installation. To find the technology or to
 
 - [Official source →](https://github.com/stingalleman/awesome-audiovisual#readme)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is suitable for anyone who wants to access quality resources on software development, technology and digital tools from a single center.
 - **License:** CC0-1.0
 

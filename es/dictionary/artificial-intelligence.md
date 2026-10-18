@@ -44,13 +44,13 @@ La inteligencia artificial cambiará la forma en que se realizan muchos trabajos
 ## Herramientas relacionadas
 
 - [Build Your Own X](https://trescout.com/es/discover/build-your-own-x/)
+- [Awesome](https://trescout.com/es/discover/awesome/)
+- [Public Apis](https://trescout.com/es/discover/public-apis/)
+- [freeCodeCamp](https://trescout.com/es/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/es/discover/openclaw/)
+- [System Design Primer](https://trescout.com/es/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/es/discover/coding-interview-university/)
-- [Superpowers](https://trescout.com/es/discover/superpowers/)
 - [REA](https://trescout.com/es/discover/rea/)
-- [ECC](https://trescout.com/es/discover/ecc/)
-- [Hermes Agent](https://trescout.com/es/discover/hermes-agent/)
-- [Opencode](https://trescout.com/es/discover/opencode/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/artificial-intelligence/)
 

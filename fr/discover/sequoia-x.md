@@ -44,6 +44,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite utiliser l'outil Sequoia-X pour scanner les actions de la bourse chinoise avec des méthodes d'analyse technique. Après avoir effectué les installations nécessaires dans mon environnement Python, j'utiliserai d'abord le mode backfill pour charger les données historiques, puis le mode de fonctionnement quotidien pour obtenir un scan automatique et des notifications après la fermeture du marché. Dans ce processus, je souhaite que les données soient stockées dans une base de données SQLite locale et que les résultats soient envoyés via Feishu.
 
+Dépôt : https://github.com/sngyai/Sequoia-X. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

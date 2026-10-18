@@ -26,6 +26,7 @@ Pour obtenir des informations détaillées sur l'installation et l'utilisation d
 ## Termes liés du glossaire
 
 - [Observability](https://trescout.com/fr/dictionary/observability/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux administrateurs système et aux ingénieurs DevOps souhaitant améliorer la sécurité réseau et l'observabilité des applications basées sur des conteneurs fonctionnant sur Kubernetes.
 - **Licence:** Apache-2.0

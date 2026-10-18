@@ -2,16 +2,16 @@
 
 FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli sağlayıcısını OpenAI formatında tek bir REST API altında toplayarak akıllı yönlendirme ve arıza toleransı sunar.
 
-- ★ 35.948
+- ★ 36.776
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 35.948 → 36.776, son sürüm v0.16.2 (18 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 34.584 → 35.948, son sürüm v0.15.0 (15 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 33.595 → 34.584, son sürüm v0.14.2 (13 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 33.363 → 33.595, son sürüm v0.13.10 (12 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 33.101 → 33.363, son sürüm v0.13.9 (11 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -66,6 +66,14 @@ Geliştiriciler FreeLLMAPI ile maliyet oluşturmadan üretim ortamına yakın te
 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 FreeLLMAPI aracını Docker ile yerel sunucumda nasıl çalıştıracağımı, OpenAI Node.js SDK'sını bu yerel uç noktaya nasıl yönlendireceğimi ve bir sağlayıcı hata verdiğinde otomatik yedek model kullanımını nasıl sağlayacağımı kod örnekleriyle açıklar mısın?
+
+Depo: https://github.com/tashfeenahmed/freellmapi. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 - **Kimin için:** Yapay zekâ geliştiricileri, açık kaynak araştırmacıları, full-stack mühendisler ve prototip geliştirenler.
 - **Lisans:** MIT (Özgür açık kaynak lisansı)

@@ -56,6 +56,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Linear Scalability](https://trescout.com/dictionary/linear-scalability/)
 - [Distributed](https://trescout.com/dictionary/distributed/)
 - [Database](https://trescout.com/dictionary/database/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cassandra/

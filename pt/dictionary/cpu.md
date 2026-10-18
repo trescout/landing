@@ -39,8 +39,8 @@ São pequenas unidades de processamento independentes dentro de um processador q
 ## Ferramentas relacionadas
 
 - [Tensorflow](https://trescout.com/pt/discover/tensorflow/)
-- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [Airllm](https://trescout.com/pt/discover/airllm/)
+- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [CasaOS](https://trescout.com/pt/discover/casaos/)
 - [Omlx](https://trescout.com/pt/discover/omlx/)
 - [Ktransformers](https://trescout.com/pt/discover/ktransformers/)

@@ -27,6 +27,7 @@ Vous pouvez activer l'outil pour télécharger votre référentiel sur l'espace 
 - [Repository Checkout](https://trescout.com/fr/dictionary/repository-checkout/)
 - [Checkout](https://trescout.com/fr/dictionary/checkout/)
 - [Continuous Integration](https://trescout.com/fr/dictionary/continuous-integration/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux développeurs de logiciels qui automatisent les processus d'intégration continue à l'aide de GitHub Actions.
 - **Licence:** MIT

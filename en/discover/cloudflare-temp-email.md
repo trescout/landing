@@ -60,6 +60,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up the open-source temporary email project dreamhunter2333/cloudflare_temp_email running on Cloudflare with my own domain. I have a Cloudflare account and a domain connected to Cloudflare DNS. Can you explain step by step how to set up Email Routing, D1 database, and the Cloudflare Pages interface from scratch via the Cloudflare dashboard? Also, which configuration steps should I follow to forward incoming emails to my Telegram bot?
 
+Repository: https://github.com/dreamhunter2333/cloudflare_temp_email. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Is Cloudflare's free plan enough for personal use? Yes. The Cloudflare free tier offers 100,000 Worker requests per day, free Email Routing, and a D1 database quota. For personal use and small teams, it is nearly impossible to exceed these limits, and the system runs at completely zero cost.

@@ -32,6 +32,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 What is the main purpose of the Pgrust project, how is disk compatibility with existing PostgreSQL ensured, and how is artificial intelligence-supported programming used in the development of the project? Tell us about the compatibility of the current version of Pgrust with Postgres 18.3 and its success in regression testing.
 
+Repository: https://github.com/malisper/pgrust. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Memory](https://trescout.com/en/dictionary/memory/)

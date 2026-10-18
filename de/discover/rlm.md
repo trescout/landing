@@ -46,6 +46,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstellen Sie mithilfe der RLM-Bibliothek eine Struktur, die es dem Sprachmodell ermöglicht, Eingaben aufzuschlüsseln, zu analysieren und in sich selbst rekursive Aufrufe durchzuführen. Definieren Sie beim Instanziieren der RLM-Klasse die Konfiguration des Modells, das Sie als Backend verwenden, und ermöglichen Sie dem Modell, mit der Codeumgebung zu interagieren, um komplexe Aufgaben zu lösen.
 
+Repository: https://github.com/alexzhang13/rlm. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Backend](https://trescout.com/de/dictionary/backend/)

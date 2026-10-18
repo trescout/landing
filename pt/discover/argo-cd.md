@@ -52,6 +52,7 @@ Para começar a usar o Argo CD, você pode visitar a página de documentação o
 - [Declarative Continuous Deployment](https://trescout.com/pt/dictionary/declarative-continuous-deployment/)
 - [Continuous Deployment](https://trescout.com/pt/dictionary/continuous-deployment/)
 - [Deployment](https://trescout.com/pt/dictionary/deployment/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para equipes de software e DevOps que desejam automatizar os processos de implantação e ciclo de vida de seus aplicativos em execução no Kubernetes.
 - **Licença:** Apache-2.0

@@ -28,6 +28,7 @@ You do not need to run any code to read this resource. You can directly download
 - [Systems Programming](https://trescout.com/en/dictionary/systems-programming/)
 - [PDF](https://trescout.com/en/dictionary/pdf/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Intended for anyone wanting to learn low-level systems programming and operating system fundamentals using the C programming language.
 

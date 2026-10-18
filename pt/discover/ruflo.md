@@ -2,16 +2,16 @@
 
 Ruflo é uma camada de orquestração de agentes para implantação de enxames de agentes inteligentes, coordenação de fluxos de trabalho autônomos e construção de sistemas de IA conversacionais.
 
-- ★ 74.730
+- ★ 76.236
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 74,730 → 76,236, versão mais recente v3.57.0 (17 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 74,504 → 74,730, versão mais recente v3.56.10 (14 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 74,429 → 74,504, versão mais recente v3.56.9 (12 de outubro de 2026).
 - **12 de outubro de 2026:** Estrelas 74,363 → 74,429, versão mais recente v3.56.8 (12 de outubro de 2026).
-- **12 de outubro de 2026:** Estrelas 74,319 → 74,363, versão mais recente v3.56.7 (11 de outubro de 2026).
 
 ## O que você ganha
 
@@ -38,6 +38,14 @@ npm install -g ruflo@latest
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você está em um ambiente de trabalho integrado com Ruflo. Otimize seu fluxo de trabalho usando as ferramentas, recursos de memória e enxames de agentes do Ruflo para executar tarefas. Aprimore as próximas etapas aprendendo com padrões bem-sucedidos e coordene-se com outros agentes para gerenciar tarefas complexas.
+
+Repositório: https://github.com/ruvnet/ruflo. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

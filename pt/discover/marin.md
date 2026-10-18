@@ -78,6 +78,7 @@ Execute como verificação inicial o fluxo TinyStories offline treinando um pequ
 
 - [CPU](https://trescout.com/pt/dictionary/cpu/)
 - [GPU](https://trescout.com/pt/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 ## Links
 

@@ -21,6 +21,7 @@ Laden Sie die App über den Google Play Store oder Amazon Appstore auf Ihr Gerä
 ## Verwandte Begriffe aus dem Glossar
 
 - [Infotainment Systems](https://trescout.com/de/dictionary/infotainment-systems/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für Fahrer gedacht, die ein altes Tablet als Android Auto-Display in ihrem Fahrzeug verwenden möchten.
 - **Lizenz:** AGPL-3.0

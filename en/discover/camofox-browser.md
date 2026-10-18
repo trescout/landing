@@ -52,6 +52,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a web browser manager. Access target websites using Camofox-browser. Use this browser, which is hidden at the C++ level, to avoid being caught by bot detection. When extracting data from web pages, prefer lighter accessibility snapshots instead of raw HTML. Use stable identifiers for elements you need to interact with and manage sessions by isolating them on a per-user basis.
 
+Repository: https://github.com/jo-inc/camofox-browser. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Stealth Headless Browser](https://trescout.com/en/dictionary/stealth-headless-browser/)

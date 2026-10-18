@@ -36,6 +36,7 @@ Um das Tool nutzen zu können, müssen Sie zunächst die CMake-Software von der 
 - [Serialization](https://trescout.com/de/dictionary/serialization/)
 - [Parser](https://trescout.com/de/dictionary/parser/)
 - [API](https://trescout.com/de/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Softwareentwickler, die Konfigurationsdateien im YAML-Format verwalten oder Datenserialisierungsvorgänge in C++-Projekten durchführen möchten.
 - **Lizenz:** MIT

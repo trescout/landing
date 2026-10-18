@@ -50,6 +50,7 @@ Como envio uma foto do meu computador para o celular na mesma rede local?
 ## Termos relacionados do glossário
 
 - [API](https://trescout.com/pt/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 ## Links
 

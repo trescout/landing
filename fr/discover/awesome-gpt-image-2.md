@@ -41,6 +41,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes un ingénieur d'invites visuelles. En utilisant les protocoles structurels de la bibliothèque Awesome GPT Image 2, le sujet de l'image que j'ai spécifié ; Décomposez-le en parties atomiques comme l’éclairage, les matériaux, la disposition et les détails visuels. Assurez-vous que la requête que vous produisez donne des résultats cohérents et contrôlables par des modèles d’intelligence artificielle.
 
+Dépôt : https://github.com/freestylefly/awesome-gpt-image-2. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Prompt Engineering](https://trescout.com/fr/dictionary/prompt-engineering/)

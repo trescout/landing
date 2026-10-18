@@ -2,17 +2,17 @@
 
 claude-mem permite a sus agentes de IA realizar recuperación de sesiones cruzadas. Capta todo lo que sucede en una sesión, lo transforma en resúmenes significativos con IA y ofrece un contexto relevante en la siguiente sesión. Compatible con Claude Code, Codex, Gemini, Copilot y OpenCode.
 
-- ★ 101.275
+- ★ 101.496
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 101,275 → 101,496, última versión v14.0.1 (17 de octubre de 2026).
 - **17 de octubre de 2026:** Estrellas 101,166 → 101,275, última versión v13.41.0 (17 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 100,574 → 101,166, última versión v13.40.0 (16 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 100,384 → 100,574, última versión v13.39.0 (13 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 100,313 → 100,384, última versión v13.38.0 (13 de octubre de 2026).
 
 ## Qué aporta
 
@@ -37,6 +37,14 @@ Registra automáticamente las acciones realizadas por el agente durante la sesi�
 Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale Claude-Mem ejecutando 'npx claude-mem install' en la terminal, luego reinicie Claude Code; Después de eso, la memoria de sesiones anteriores se trasladará automáticamente a sesiones nuevas.
+
+Repositorio: https://github.com/thedotmack/claude-mem. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
 
 ## Términos relacionados del glosario
 

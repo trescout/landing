@@ -26,6 +26,7 @@ Para criar uma máquina virtual para esta ferramenta, você pode analisar as dir
 ## Termos relacionados do glossário
 
 - [Runner Images](https://trescout.com/pt/dictionary/runner-images/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Adequado para desenvolvedores que automatizam processos de teste e implantação de software.
 - **Licença:** MIT

@@ -41,6 +41,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um engenheiro de prompt visual. Usando os protocolos estruturais da biblioteca Awesome GPT Image 2, o assunto da imagem que especifiquei; Divida-o em partes atômicas, como iluminação, materiais, layout e detalhes visuais. Garanta que a solicitação que você produz forneça resultados consistentes e controláveis ​​por modelos de inteligência artificial.
 
+Repositório: https://github.com/freestylefly/awesome-gpt-image-2. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Prompt Engineering](https://trescout.com/pt/dictionary/prompt-engineering/)

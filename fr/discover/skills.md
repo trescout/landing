@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer des agents d'intelligence artificielle qui interagissent avec les produits et technologies Google. Comment puis-je intégrer des services tels que l'API Gemini, BigQuery ou Cloud Run dans mon agent à l'aide de la bibliothèque que j'ai installée avec la commande npx skills add google/skills ? Guidez-moi sur les talents que je devrais choisir.
 
+Dépôt : https://github.com/google/skills. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Google Cloud](https://trescout.com/fr/dictionary/google-cloud/)

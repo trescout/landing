@@ -27,6 +27,7 @@ For installation, you can use the download links suitable for your Linux, macOS,
 - [ApacheBench (ab)](https://trescout.com/en/dictionary/apache-bench/)
 - [ab (ApacheBench)](https://trescout.com/en/dictionary/apache-bench-ab/)
 - [ab](https://trescout.com/en/dictionary/ab/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Intended for developers who want to test the performance and speed of web applications.
 - **License:** Apache-2.0

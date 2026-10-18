@@ -78,6 +78,7 @@ Lancez comme première validation l'entraînement d'un petit modèle sur CPU ave
 
 - [CPU](https://trescout.com/fr/dictionary/cpu/)
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 

@@ -30,6 +30,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich entwickle einen Agenten für künstliche Intelligenz und möchte die Verwendung von Tools durch diesen Agenten einschränken. Können Sie mir bitte eine Beispielcodestruktur zum Erstellen einer YAML-Richtliniendatei mit agent-governance-toolkit vorbereiten und zeigen, wie ich die Toolfunktionen in meinem Python-Code gemäß dieser Richtlinie sichern kann?
 
+Repository: https://github.com/microsoft/agent-governance-toolkit. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Agent Governance Toolkit](https://trescout.com/de/dictionary/agent-governance-toolkit/)

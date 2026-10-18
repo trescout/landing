@@ -58,6 +58,7 @@ To start installing Rocket.Chat, you can review the Deployment Guide on the offi
 
 - [Communications Operating System](https://trescout.com/en/dictionary/communications-operating-system/)
 - [Deployment](https://trescout.com/en/dictionary/deployment/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It was developed for organizations that care about data privacy and want to have full control over their own infrastructure.
 

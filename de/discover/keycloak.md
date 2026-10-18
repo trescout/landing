@@ -45,6 +45,7 @@ Um Keycloak verwenden zu können, müssen Sie das Distributionspaket von der off
 
 - [Containers](https://trescout.com/de/dictionary/containers/)
 - [Container](https://trescout.com/de/dictionary/container/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Softwareentwickler und Systemadministratoren, die Benutzerauthentifizierungs- und Zugriffsverwaltungsprozesse in ihren Anwendungen zentral und sicher verwalten möchten.
 - **Lizenz:** Apache-2.0

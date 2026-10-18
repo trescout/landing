@@ -43,6 +43,7 @@ You can easily download the Windows Terminal application from Microsoft Store. A
 
 - [Console Host](https://trescout.com/en/dictionary/console-host/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It's for anyone who uses the command line on Windows and needs a more modern, functional terminal interface.
 - **License:** MIT

@@ -27,6 +27,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer une application serveur basée sur JavaScript à l'aide de l'environnement Node.js. Pouvez-vous expliquer les fonctionnalités d'exécution de base offertes par cette plate-forme et les éléments structurels auxquels je dois prêter attention lors de la création d'applications réseau évolutives ?
 
+Dépôt : https://github.com/nodejs/node. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Runtime Environment](https://trescout.com/fr/dictionary/runtime-environment/)

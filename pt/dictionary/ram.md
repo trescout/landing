@@ -72,8 +72,8 @@ SSD é armazenamento permanente, RAM é espaço temporário. Os dois trabalham j
 
 - [Free for Dev](https://trescout.com/pt/discover/free-for-dev/)
 - [Colibri](https://trescout.com/pt/discover/colibri/)
-- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [Airllm](https://trescout.com/pt/discover/airllm/)
+- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [CasaOS](https://trescout.com/pt/discover/casaos/)
 - [Invidious](https://trescout.com/pt/discover/invidious/)
 - [Omlx](https://trescout.com/pt/discover/omlx/)

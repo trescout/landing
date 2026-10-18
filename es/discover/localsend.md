@@ -50,6 +50,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 ## Términos relacionados del glosario
 
 - [API](https://trescout.com/es/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 ## Enlaces
 

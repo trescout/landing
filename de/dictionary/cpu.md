@@ -39,8 +39,8 @@ Dabei handelt es sich um kleine unabhängige Verarbeitungseinheiten innerhalb ei
 ## Verwandte Werkzeuge
 
 - [Tensorflow](https://trescout.com/de/discover/tensorflow/)
-- [Llmfit](https://trescout.com/de/discover/llmfit/)
 - [Airllm](https://trescout.com/de/discover/airllm/)
+- [Llmfit](https://trescout.com/de/discover/llmfit/)
 - [CasaOS](https://trescout.com/de/discover/casaos/)
 - [Omlx](https://trescout.com/de/discover/omlx/)
 - [Ktransformers](https://trescout.com/de/discover/ktransformers/)

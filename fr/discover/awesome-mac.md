@@ -23,6 +23,10 @@ Cet outil ne nécessite pas d'installation de logiciel. En visitant la page GitH
 
 - [Source officielle →](https://git.io/macx)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il convient à toute personne qui est un nouvel utilisateur de Mac ou qui souhaite équiper son système des meilleurs outils.
 - **Licence:** CC0-1.0
 

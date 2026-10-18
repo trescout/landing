@@ -2,16 +2,16 @@
 
 Openrig es una infraestructura multiagente que combina la herramienta de codificación Claude Code de Anthropic y el modelo de codificación Codex de OpenAI en un solo sistema. Permite a los desarrolladores utilizar diferentes modelos de inteligencia artificial simultáneamente en el mismo flujo de trabajo.
 
-- ★ 7.105
+- ★ 7.747
 - TypeScript
 - GitHub Trending · 2026-09-28
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 7,105 → 7,747, última versión v0.6.11 (17 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 6,819 → 7,105, última versión v0.6.10 (12 de octubre de 2026).
 - **11 de octubre de 2026:** Estrellas 6,288 → 6,819, última versión v0.6.9 (11 de octubre de 2026).
 - **9 de octubre de 2026:** Estrellas 6,015 → 6,288, última versión v0.6.8 (9 de octubre de 2026).
-- **8 de octubre de 2026:** Estrellas 5,622 → 6,015, última versión v0.6.7 (8 de octubre de 2026).
 
 ## Qué aporta
 
@@ -33,6 +33,14 @@ rig setup --dry-run
 Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero coordinar los agentes Claude Code y Codex en un solo sistema utilizando OpenRig. Después de verificar los requisitos de Node.js y tmux, ayúdame a revisar el plan de instalación con los comandos npm install -g @openrig/cli y rig setup --dry-run, y luego avanza a los pasos para iniciar el equipo.
+
+Repositorio: https://github.com/mvschwarz/openrig. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
 
 ## Términos relacionados del glosario
 

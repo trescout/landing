@@ -23,6 +23,10 @@ Für dieses Tool ist keine Softwareinstallation erforderlich. Wenn Sie die entsp
 
 - [Offizielle Quelle →](https://git.io/macx)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es eignet sich für jeden, der ein neuer Mac-Benutzer ist oder sein System mit den besten Tools ausstatten möchte.
 - **Lizenz:** CC0-1.0
 

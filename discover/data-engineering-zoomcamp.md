@@ -29,6 +29,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Sana 'Data Engineering Zoomcamp' adlı, veri mühendisliğini Docker, Terraform, BigQuery, dbt, Spark ve Kafka gibi araçlarla öğreten 9 haftalık ücretsiz bir kursun içeriğini vereceğim. Müfredatı incele ve bilgi düzeyime göre hangi modülden başlamam gerektiğini belirle, bana haftalık bir çalışma planı çıkar. Seviyem: [örn. yeni başlayan]. Hedefim: [örn. veri mühendisi olmak].
 
+Depo: https://github.com/DataTalksClub/data-engineering-zoomcamp. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Lisans:** GitHub standart bir lisans tespit etmedi. İçeriği takip etmek/öğrenmek serbest; yeniden yayın öncesi repo'daki şartları kontrol edin.
 
 ## Bağlantılar

@@ -25,6 +25,7 @@ You do not need to perform any installation to start using the tool; you can go 
 ## Related dictionary terms
 
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for anyone who wants to improve their English vocabulary and increase their typing speed at the same time.
 - **License:** GPL-3.0

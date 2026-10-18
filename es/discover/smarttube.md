@@ -24,6 +24,10 @@ Instale la aplicación Downloader en su dispositivo Android TV. Abra la aplicaci
 
 - [Fuente oficial →](https://smarttubeapp.github.io)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Está dirigido a usuarios que buscan una experiencia de YouTube más personalizable y sin anuncios a través de Android TV o TV box.
 - **Licencia:** MIT
 

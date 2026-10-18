@@ -42,6 +42,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop deep learning models using the PyTorch library. Walk me through tensor calculations, creating dynamic neural networks, and leveraging GPU acceleration. In particular, explain how to use the torch.nn and torch.autograd components, how to integrate them with the Python structure, and how to optimize the model training processes.
 
+Repository: https://github.com/pytorch/pytorch. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Dynamic Neural Networks](https://trescout.com/en/dictionary/dynamic-neural-networks/)

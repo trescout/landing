@@ -32,6 +32,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Guidance Computer](https://trescout.com/dictionary/guidance-computer/)
 - [Assembly](https://trescout.com/dictionary/assembly/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/apollo-11/

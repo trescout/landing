@@ -51,6 +51,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstellen Sie Ihr Profil mit dem Befehl /setup in Claude Code. Listen Sie dann mit dem Befehl /scrape die passenden Stellenausschreibungen auf und erstellen Sie mit dem Befehl /apply einen Entwurf Ihres Lebenslaufs und Anschreibens für die von Ihnen ausgewählte Stellenausschreibung. Bitten Sie während des Prozesses die künstliche Intelligenz, ihre Kompatibilität mit der Anzeige zu bewerten und Feedback für die Interviewvorbereitung zu geben.
 
+Repository: https://github.com/MadsLorentzen/ai-job-search. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Framework](https://trescout.com/de/dictionary/framework/)

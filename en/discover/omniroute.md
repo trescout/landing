@@ -49,6 +49,12 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Prepare a routing configuration using the OmniRoute AI gateway that includes OpenAI, Anthropic, and local Ollama models. Create a fallback rule that automatically switches to the secondary model if the primary model fails to respond, and list the steps to run it with Docker Compose.
 
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Critical warnings and limitations
 
 - API Key Security: Secure API keys in the gateway server's environment variables; always implement authorization (Bearer Token) when exposing the gateway to the public internet.

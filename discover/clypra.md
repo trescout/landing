@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Clypra video düzenleyicisini kullanarak profesyonel bir kurgu yapmak istiyorum. Uygulamanın sunduğu donanım hızlandırmalı işleme ve yapay zekâ destekli özellikleri kullanarak, videolarımda otomatik altyazı oluşturma ve akıllı yeniden çerçeveleme gibi işlemleri nasıl en verimli şekilde gerçekleştirebilirim? Adım adım bir iş akışı önerir misin?
 
+Depo: https://github.com/AIEraDev/Clypra. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Ücretli yazılımlara bağımlı kalmadan, profesyonel özelliklere sahip açık kaynaklı bir video düzenleme aracı arayan kullanıcılar içindir.
 - **Lisans:** MIT
 

@@ -47,6 +47,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Antwort eines KI-Modells mithilfe der Outlines-Bibliothek auf eine bestimmte Pydantic-Datenstruktur oder einen bestimmten Python-Typ (z. B. int oder Literal) beschränken. Wie kann ich nach der Definition des Modellobjekts die Funktion model(request, output_type) verwenden, um sicherzustellen, dass die Ausgabe des Modells immer dem gewünschten Schema entspricht? Bitte erläutern Sie anhand eines Beispiels, wie Sie das Pydantic-Modell für komplexe Objekte definieren und diese Struktur auf die Modellausgabe anwenden.
 
+Repository: https://github.com/dottxt-ai/outlines. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

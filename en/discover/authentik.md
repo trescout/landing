@@ -25,6 +25,10 @@ For installation, go to the documentation page on the official website. You can 
 
 - [Official source →](https://goauthentik.io)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is suitable for software developers and system administrators who want to add a secure and centralized authentication system to their applications.
 
 ## Links

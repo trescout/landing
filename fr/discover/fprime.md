@@ -41,6 +41,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer un projet de système embarqué utilisant le framework F' développé par la NASA. Lors de la création de l'architecture de mon projet, comment puis-je établir une structure basée sur des composants, définir des interfaces et gérer les files d'attente et les threads de messages avec ce framework ? Veuillez suggérer un flux de développement en utilisant les outils de modélisation fournis par le framework F'.
 
+Dépôt : https://github.com/nasa/fprime. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Framework](https://trescout.com/fr/dictionary/framework/)

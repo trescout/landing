@@ -2,16 +2,16 @@
 
 Unciv est une adaptation open-source, minimaliste et multiplateforme pour bureau et Android du jeu Civilization V. Développé avec l'infrastructure Kotlin et LibGDX, le projet propose les mécaniques du jeu de stratégie 4X original avec une charge matérielle nulle et un support élevé des mods.
 
-- ★ 11 452
+- ★ 11 458
 - Kotlin
 - GitHub Trending · 2026-06-18
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 11,452 → 11,458, dernière version 4.22.11-patch1 (17 octobre 2026).
 - **17 octobre 2026:** Étoiles 11,433 → 11,452, dernière version 4.22.11 (16 octobre 2026).
 - **13 octobre 2026:** Étoiles 11,429 → 11,433, dernière version 4.22.10 (13 octobre 2026).
 - **12 octobre 2026:** Étoiles 11,403 → 11,429, dernière version 4.22.9 (12 octobre 2026).
-- **8 octobre 2026:** Étoiles 11,394 → 11,403, dernière version 4.22.8 (8 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -48,6 +48,14 @@ Pour jouer au projet Unciv sur votre appareil, vous pouvez choisir le canal de d
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite préparer une structure de mod JSON valide pour le jeu Unciv. Pourrais-tu créer un modèle de mod Unciv d'exemple incluant une capacité de leader accordant un bonus à la production de science et de culture, une unité de cavalerie spéciale et un bâtiment de bibliothèque spécial ? Peux-tu expliquer étape par étape dans quelle structure de dossiers je dois enregistrer les fichiers JSON et comment je peux tester cela via l'interface du gestionnaire de mods (Mod Manager) en jeu ?
+
+Dépôt : https://github.com/yairm210/Unciv. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Questions fréquemment posées
 

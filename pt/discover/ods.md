@@ -55,6 +55,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você poderia explicar, com código e passos de terminal, como configurar o servidor ODS no meu computador pessoal para transferir os documentos PDF da minha empresa para um banco de dados vetorial local e, em seguida, realizar consultas de perguntas e respostas RAG baseadas nesses documentos através de um modelo Llama 3 local?
 
+Repositório: https://github.com/Osmantic/ODS. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - Funciona totalmente offline sem conexão com a internet? Sim. Após o download dos pesos do modelo necessários, o ODS pode operar em ambientes totalmente offline (air-gapped) sem a necessidade de qualquer conexão de rede.

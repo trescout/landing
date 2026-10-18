@@ -33,6 +33,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich die KI-Agenten meines Unternehmens vor Schwachstellen schützen? Wie kann ich Agentenaktivitäten überwachen, Bedrohungen erkennen und die Verteidigungsleistung meines Systems bewerten, indem ich Sicherheitsvergleiche mit dem ADR-System durchführe? Bitte erläutern Sie die Schritte, die ich in diesem Prozess befolgen muss, und wie ich die Observability-Funktionen von ADR konfigurieren kann.
 
+Repository: https://github.com/uber/ADR. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Framework](https://trescout.com/de/dictionary/framework/)

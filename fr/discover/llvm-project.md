@@ -28,6 +28,7 @@ Pour accéder au code source du projet et effectuer l'installation, vous devez v
 ## Termes liés du glossaire
 
 - [Compiler](https://trescout.com/fr/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux développeurs de logiciels souhaitant créer leur propre compilateur ou optimiser leurs codes existants pour différentes architectures matérielles.
 

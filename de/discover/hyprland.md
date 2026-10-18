@@ -23,6 +23,10 @@ Für Installationsschritte und eine Anleitung zu den ersten Schritten müssen Si
 
 - [Offizielle Quelle →](https://hypr.land)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es eignet sich für Nutzer, die die Desktop-Umgebung an ihre Bedürfnisse anpassen möchten und einen leistungsstarken Fenstermanager auf Wayland-Basis suchen.
 - **Lizenz:** BSD-3-Clause
 

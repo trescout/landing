@@ -23,6 +23,10 @@ You can visit enjoy.bot to start using it immediately via your browser. Addition
 
 - [Official source →](https://1000h.org)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is suitable for anyone who wants to improve their English language skills with the help of a structured curriculum and digital tools.
 - **License:** GPL-3.0
 

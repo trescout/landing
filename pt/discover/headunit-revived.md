@@ -21,6 +21,7 @@ Baixe o aplicativo para o seu dispositivo através da Google Play Store ou Amazo
 ## Termos relacionados do glossário
 
 - [Infotainment Systems](https://trescout.com/pt/dictionary/infotainment-systems/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a motoristas que desejam usar um tablet antigo como display do Android Auto em seus veículos.
 - **Licença:** AGPL-3.0

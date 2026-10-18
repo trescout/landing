@@ -27,6 +27,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Te daré una guía completa llamada 'Consejos para subir de nivel en inglés', que explica vocabulario, comprensión auditiva, lectura, expresión oral, escritura y métodos de estudio respaldados por inteligencia artificial para aprender inglés a un nivel avanzado. Examina esta guía y crea un plan de estudio personal y una hoja de ruta de acuerdo a tu nivel y objetivo. Mi nivel: [ej. medio]. Mi objetivo: [ej. hablando con fluidez].
 
+Repositorio: https://github.com/byoungd/English-level-up-tips. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

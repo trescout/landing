@@ -38,6 +38,7 @@ Para comenzar a trabajar con Topcoat, debes seguir la guía "Introducción" en l
 - [Framework](https://trescout.com/es/dictionary/framework/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores que desean desarrollar aplicaciones web de un extremo a otro utilizando el lenguaje Rust y buscan un marco estandarizado.
 - **Licencia:** MIT

@@ -54,6 +54,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero executar um modelo de inteligência artificial de 1 bit no meu computador usando a infraestrutura do BitNet. Em primeiro lugar, oriente-me nos passos para clonar o projeto com o comando 'git clone --recursive https://github.com/microsoft/BitNet.git' e entrar na pasta, criar um ambiente Python 3.10 com o gerenciador de pacotes Conda e instalar as dependências. Em seguida, explique passo a passo, de forma simples e acessível para quem não sabe programar, como baixar o modelo microsoft/BitNet-b1.58-2B-4T-gguf pela plataforma de modelos de código aberto Hugging Face, prepará-lo com o 'setup_env.py' e, por fim, iniciar o modo de chat com o script 'run_inference.py'.
 
+Repositório: https://github.com/microsoft/BitNet. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Inference Framework](https://trescout.com/pt/dictionary/inference-framework/)

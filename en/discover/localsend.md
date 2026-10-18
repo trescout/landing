@@ -50,6 +50,7 @@ How can I send a photo from my computer to my phone on the same local network?
 ## Related dictionary terms
 
 - [API](https://trescout.com/en/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

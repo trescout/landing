@@ -43,6 +43,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum. Projemde halihazırda kullandığım stil yöntemlerini bozmadan, @astryxdesign/core paketindeki bileşenleri nasıl yapılandırabilirim? Bileşenleri özelleştirmek ve CLI aracını kullanarak dokümantasyon veya şablonlara erişmek için izlemem gereken standart yöntemler nelerdir?
 
+Depo: https://github.com/facebook/astryx. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Hem insanlar hem de yapay zekâ asistanları tarafından ortaklaşa geliştirilen, ölçeklenebilir arayüzler tasarlamak isteyen yazılım ekipleri için uygundur.
 - **Lisans:** MIT
 

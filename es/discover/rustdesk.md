@@ -37,6 +37,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero establecer una conexión de escritorio remoto usando RustDesk. ¿Cómo puedo configurar mi propio servidor para garantizar la seguridad de mis datos y cuáles son las configuraciones de seguridad básicas a las que debo prestar atención durante la conexión?
 
+Repositorio: https://github.com/rustdesk/rustdesk. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Rust](https://trescout.com/es/dictionary/rust/)

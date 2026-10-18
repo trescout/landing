@@ -47,6 +47,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite analyser un texte médical à l'aide de la bibliothèque OpenMed. J'ai Python installé sur mon appareil. Tout d'abord, j'ai terminé l'installation avec la commande pip install "openmed[hf]". Maintenant, quelles fonctions dois-je appeler dans mon code Python pour analyser mes notes cliniques et y détecter des termes médicaux ou des données personnelles (PII) ? Veuillez me créer un exemple simple de bloc de code sur la sélection du modèle et l'impression des sorties.
 
+Dépôt : https://github.com/maziyarpanahi/openmed. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Apple Silicon](https://trescout.com/fr/dictionary/apple-silicon/)

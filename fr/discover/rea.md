@@ -2,16 +2,16 @@
 
 Rea est un outil de rétro-ingénierie basé sur des agents d'intelligence artificielle qui analyse tout, des comportements des applications aux binaires natifs. Développé en TypeScript, ce logiciel vise à décoder la logique de fonctionnement de systèmes complexes grâce à des processus automatisés.
 
-- ★ 296 420
+- ★ 313 106
 - TypeScript
 - GitHub Trending · 2026-10-06
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 296,420 → 313,106, dernière version rea-agents-6.7.0 (18 octobre 2026).
 - **17 octobre 2026:** Étoiles 280,503 → 296,420, dernière version rea-agents-6.5.0 (14 octobre 2026).
 - **16 octobre 2026:** Étoiles 255,025 → 280,503, dernière version rea-agents-6.5.0 (14 octobre 2026).
 - **15 octobre 2026:** Étoiles 227,917 → 255,025, dernière version rea-agents-6.5.0 (14 octobre 2026).
-- **14 octobre 2026:** Étoiles 223,438 → 227,917, dernière version rea-agents-6.5.0 (14 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -48,6 +48,14 @@ npx -y rea-agents@latest analyze /Applications/Notes.app
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite configurer l'outil de rétro-ingénierie REA sur mon système. Tout d'abord, effectue les étapes d'installation nécessaires avec la commande 'npx rea-agents setup' et établis la connexion MCP (Model Context Protocol, protocole d'outils d'intelligence artificielle) pour mon interface d'IA. Ensuite, exécute la commande 'npx -y rea-agents@latest doctor' pour vérifier les dépendances, examine une application locale de mon choix et explique avec des preuves comment fonctionne la fonctionnalité que je recherche.
+
+Dépôt : https://github.com/morluto/rea. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

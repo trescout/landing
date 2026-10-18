@@ -51,6 +51,16 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter des modèles d'IA sur mon appareil local à l'aide du projet bonsai-demo. Après avoir cloné le référentiel git requis pour l'installation, je dois définir les informations de mon jeton Hugging Face et télécharger les dépendances et les modèles avec la commande ./setup.sh. Ensuite, en utilisant la commande ./scripts/start_llama_server.sh, je peux mettre en place le serveur local et interagir avec l'IA via le port 8080 via mon navigateur.
 
+Dépôt : https://github.com/PrismML-Eng/Bonsai-demo. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Machine Learning](https://trescout.com/fr/dictionary/machine-learning/)

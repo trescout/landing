@@ -11,6 +11,7 @@ Tick-stock-panel es una plataforma personalizable de selección, seguimiento y p
 - [A-share](https://trescout.com/es/dictionary/a-share/)
 - [Backtesting](https://trescout.com/es/dictionary/backtesting/)
 - [Large Language Models](https://trescout.com/es/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 ## Enlaces
 

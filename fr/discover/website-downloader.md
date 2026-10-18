@@ -26,6 +26,7 @@ Pour commencer à utiliser l'outil, téléchargez les codes de la page GitHub su
 
 - [Assets](https://trescout.com/fr/dictionary/assets/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent stocker le code source et les actifs de leur site Web sous forme d'archive locale.
 - **Licence:** MIT

@@ -2,16 +2,16 @@
 
 Ruflo ist eine Agenten-Orchestrierungsschicht für den Einsatz intelligenter Agentenschwärme, die Koordinierung autonomer Arbeitsabläufe und den Aufbau von Konversations-KI-Systemen.
 
-- ★ 74.730
+- ★ 76.236
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 74,730 → 76,236, neueste Version v3.57.0 (17. Oktober 2026).
 - **15. Oktober 2026:** Sterne 74,504 → 74,730, neueste Version v3.56.10 (14. Oktober 2026).
 - **13. Oktober 2026:** Sterne 74,429 → 74,504, neueste Version v3.56.9 (12. Oktober 2026).
 - **12. Oktober 2026:** Sterne 74,363 → 74,429, neueste Version v3.56.8 (12. Oktober 2026).
-- **12. Oktober 2026:** Sterne 74,319 → 74,363, neueste Version v3.56.7 (11. Oktober 2026).
 
 ## Was es bringt
 
@@ -38,6 +38,14 @@ npm install -g ruflo@latest
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Bei Ruflo arbeiten Sie in einem integrierten Arbeitsumfeld. Optimieren Sie Ihren Arbeitsablauf, indem Sie die Tools, Speicherfunktionen und Agentenschwärme von Ruflo zur Ausführung von Aufgaben nutzen. Verbessern Sie die nächsten Schritte selbst, indem Sie aus erfolgreichen Mustern lernen und sich mit anderen Agenten abstimmen, um komplexe Aufgaben zu bewältigen.
+
+Repository: https://github.com/ruvnet/ruflo. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

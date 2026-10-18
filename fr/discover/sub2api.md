@@ -53,6 +53,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je configurer différents services d'IA tels que Claude, OpenAI, Gemini et Grok via une seule passerelle API à l'aide de la plateforme Sub2API ? Expliquez les étapes de base que je dois suivre pour allouer efficacement mes quotas d'abonnement et les intégrer à mes outils logiciels existants. Résumez également les problèmes juridiques et techniques auxquels je dois prêter attention afin de respecter les conditions de service de fournisseurs tels qu'Anthropic lors de l'utilisation de cette plateforme.
 
+Dépôt : https://github.com/Wei-Shaw/sub2api. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [API](https://trescout.com/fr/dictionary/api/)

@@ -23,6 +23,10 @@ To start using the tool, simply go to the official releases page on GitHub and d
 
 - [Official source →](https://viarotel.eu.org/)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is suitable for anyone who wants to manage their Android phone or tablet from their computer via a graphical interface.
 - **License:** Apache-2.0
 

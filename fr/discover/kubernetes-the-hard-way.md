@@ -5,6 +5,10 @@ Kubernetes the Hard Way de Kelsey Hightower est un guide qui vous apprend à con
 - ★ 50 174
 - GitHub Trending · 2026-09-26
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 ## Liens
 
 - [Dépôt GitHub →](https://github.com/kelseyhightower/kubernetes-the-hard-way)

@@ -63,6 +63,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Configurez la mémoire à long terme de mon agent IA à l'aide de la mémoire de l'agent TencentDB. Au lieu d'une pile vectorielle plate de données, utilisez des graphiques symboliques Mermaid pour les tâches à court terme et une pyramide de mémoire en couches L0-L3 pour les expériences à long terme. Permettez à l'agent de stocker les conversations passées, les faits atomiques et les préférences de l'utilisateur dans cette structure hiérarchique et de les rappeler chaque fois que nécessaire avec une traçabilité complète via node_id.
 
+Dépôt : https://github.com/TencentCloud/TencentDB-Agent-Memory. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Long-term Memory](https://trescout.com/fr/dictionary/long-term-memory/)

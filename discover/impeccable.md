@@ -40,6 +40,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Projemin tasarım kalitesini ve görsel tutarlılığını artırmak istiyorum. Impeccable aracını kullanarak mevcut arayüzümü gözden geçirmeni ve tasarım dili standartlarına göre iyileştirmeni istiyorum. Lütfen /impeccable komutlarını kullanarak projemdeki görsel hataları denetle, eksiklikleri tespit et ve kullanıcı deneyimini geliştirecek düzenlemeleri yap.
 
+Depo: https://github.com/pbakaus/impeccable. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ destekli kodlama araçlarını kullanan ve projelerinde profesyonel, estetik ve tutarlı bir tasarım dili oluşturmak isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 

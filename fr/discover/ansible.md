@@ -50,6 +50,7 @@ Pour installer Ansible, vous devez visiter le guide d'installation sur le site o
 ## Termes liés du glossaire
 
 - [Agent](https://trescout.com/fr/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux administrateurs système et aux développeurs de logiciels qui souhaitent automatiser l'infrastructure informatique et les configurations de serveurs.
 - **Licence:** GPL-3.0

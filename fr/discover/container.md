@@ -41,6 +41,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je gérer les conteneurs Linux compatibles OCI à l’aide de l’outil de conteneur sur mon Mac équipé d’un processeur Apple Silicon ? Après avoir utilisé la commande de démarrage du système de conteneurs pour vous assurer que le système fonctionne correctement, pouvez-vous expliquer les étapes de base que je dois suivre pour extraire et exécuter une image de conteneur ?
 
+Dépôt : https://github.com/apple/container. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Virtual Machines](https://trescout.com/fr/dictionary/virtual-machines/)

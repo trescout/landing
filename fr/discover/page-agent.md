@@ -31,6 +31,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite gérer les interactions sur la page Web avec des commandes en langage naturel à l'aide de PageAgent. Je souhaite qu'il effectue des opérations telles que cliquer sur des boutons sur la page, remplir des formulaires ou saisir des données en utilisant le modèle d'intelligence artificielle que j'ai déterminé.
 
+Dépôt : https://github.com/alibaba/page-agent. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [User Interface](https://trescout.com/fr/dictionary/user-interface/)

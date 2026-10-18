@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Modern bir C++ projesinde CMake kullanarak spdlog kütüphanesini asenkron mimariyle yapılandırmak istiyorum. Günlük 10MB boyuta ulaştığında dosyayı döndüren (rotating file), aynı zamanda konsola renkli çıktı veren ve hata (error) seviyesinde anında diske yazan (flush) örnek bir C++ başlatma fonksiyonu ile birlikte CMakeLists.txt dosyasını hazırlar mısın?
 
+Depo: https://github.com/gabime/spdlog. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yazılım projelerinde hata ayıklama, izleme ve denetim süreçlerini sıfır gecikmeyle hızlandırmak isteyen C++ geliştiricileri, oyun motoru ve gömülü sistem mimarları içindir.
 - **Lisans:** MIT Lisansı (Ticari ve açık kaynak projelerde tamamen serbest)
 - **Standart:** C++11, C++14, C++17, C++20 ve C++23 uyumlu

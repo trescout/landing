@@ -56,6 +56,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Self-hosting](https://trescout.com/dictionary/self-hosting/)
 - [Localhost](https://trescout.com/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/penpot/

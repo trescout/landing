@@ -25,6 +25,7 @@ Esta herramienta no requiere instalación de software. Para revisar los proyecto
 ## Términos relacionados del glosario
 
 - [Indie Hacking](https://trescout.com/es/dictionary/indie-hacking/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para cualquiera que quiera seguir nuevos productos, tendencias actuales y proyectos de software creativos en el ecosistema de desarrollo independiente.
 

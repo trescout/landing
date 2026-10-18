@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite utiliser le framework Nuxt pour mes projets basés sur Vue.js. Pouvez-vous expliquer les étapes de base que je dois suivre pour démarrer mon projet et développer une application Web full-stack utilisant les fonctionnalités de rendu côté serveur, la structure des composants et les outils que je peux utiliser pour l'optimisation du référencement ?
 
+Dépôt : https://github.com/nuxt/nuxt. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Server-side Rendering](https://trescout.com/fr/dictionary/server-side-rendering/)

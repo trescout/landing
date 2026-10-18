@@ -2,16 +2,16 @@
 
 Desenvolvido por Alishahryar1, o free-claude-code fornece acesso gratuito a modelos de inteligência artificial como Claude Code e Codex via terminal, aplicativo ou ambiente de desenvolvimento (IDE). Esta ferramenta de código aberto se integra a plataformas que oferecem suporte a comandos de voz, como OpenClaw, permitindo aos usuários utilizar recursos de inteligência artificial em diferentes dispositivos.
 
-- ★ 61.131
+- ★ 61.362
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 61,131 → 61,362, versão mais recente v6.16.14 (18 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 61,103 → 61,131, versão mais recente v6.16.11 (17 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 60,872 → 61,103, versão mais recente v6.16.10 (17 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 60,624 → 60,872, versão mais recente v6.16.9 (16 de outubro de 2026).
-- **15 de outubro de 2026:** Estrelas 60,387 → 60,624, versão mais recente v6.16.7 (15 de outubro de 2026).
 
 ## O que você ganha
 
@@ -46,6 +46,14 @@ fcc-codex
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Atue como um agente de codificação para mim. Utilizando o provedor que configurei através do Free Claude Code, execute as tarefas de software que lhe dou, analise fragmentos de código e faça sugestões. Ao realizar operações, baseie as configurações do modelo no painel de gerenciamento local e produza soluções eficientes usando os recursos do Claude Code ou Codex durante o processo de codificação.
+
+Repositório: https://github.com/Alishahryar1/free-claude-code. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

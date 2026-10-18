@@ -26,6 +26,7 @@ To start using the tool, download the codes from the GitHub page to your compute
 
 - [Assets](https://trescout.com/en/dictionary/assets/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to store their website's source code and assets as a local archive.
 - **License:** MIT

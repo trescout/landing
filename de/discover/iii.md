@@ -31,6 +31,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Um iii auszuprobieren, erstellen Sie zunächst ein Projekt mit „iii project init myapp“, führen Sie „cd myapp“ aus und starten Sie die Engine mit dem Befehl „iii“. Fügen Sie dann Funktionen mit Befehlen wie „iii worker add queue“ hinzu und verbinden Sie sie alle im selben Live-System. Wenn ein SDK erforderlich ist, installieren Sie „npm install iii-sdk“.
 
+Repository: https://github.com/iii-hq/iii. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 **Projekt erstellen**
 
 ```

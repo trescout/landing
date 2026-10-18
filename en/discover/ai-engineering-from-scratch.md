@@ -31,6 +31,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I'll give you the content of a 20-phase, 500+ lesson open source curriculum called 'ai-engineering-from-scratch' that teaches AI engineering from scratch. Review the README and the roadmap and it gives me a personal study plan, in Turkish, divided into weeks: which phase should I start from, what are the prerequisites and in what order should I proceed? My level: [eg. beginner].
 
+Repository: https://github.com/rohitg00/ai-engineering-from-scratch. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Tokenizer](https://trescout.com/en/dictionary/tokenizer/)

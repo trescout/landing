@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer un agent d'intelligence artificielle capable d'interagir avec la voix en temps réel à l'aide des agents LiveKit. Créez un modèle initial à l'aide de la structure Agent, AgentSession et JobContext requise pour que l'agent écoute l'utilisateur, comprenne la fin de la conversation et réponde à l'aide des outils spécifiés. Expliquez comment je peux configurer les STT, LLM et TTS requis pour les réponses vocales et comment je peux définir des outils fonctionnels sur cet agent.
 
+Dépôt : https://github.com/livekit/agents. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [STT](https://trescout.com/fr/dictionary/stt/)

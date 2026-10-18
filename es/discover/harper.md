@@ -37,6 +37,7 @@ Para comenzar a utilizar la herramienta Harper, puede visitar el sitio web ofici
 
 - [Grammar Checker](https://trescout.com/es/dictionary/grammar-checker/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para productores de contenido en inglés y desarrolladores de software que desean moderar rápidamente sus publicaciones sin conexión y sin comprometer la privacidad.
 - **Licencia:** Apache-2.0

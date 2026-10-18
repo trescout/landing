@@ -41,6 +41,10 @@ Cet outil est un logiciel basé sur le Web et doit être exécuté sur un serveu
 
 - [Source officielle →](https://snipeitapp.com)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il s'adresse aux organisations et aux administrateurs système qui souhaitent surveiller régulièrement leur inventaire informatique, leurs débits matériels et leurs licences logicielles.
 - **Licence:** AGPL-3.0
 

@@ -53,6 +53,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je personnaliser mon processus d'apprentissage à l'aide du système DeepTutor ? Expliquez les étapes de base que je dois suivre pour créer mes propres partenaires d'IA et optimiser mon expérience d'apprentissage tout au long de la vie en intégrant mes supports de formation personnalisés dans ce système.
 
+Dépôt : https://github.com/HKUDS/DeepTutor. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Lifelong Learning](https://trescout.com/fr/dictionary/lifelong-learning/)

@@ -46,8 +46,8 @@ Sim, mas os usados ​​para IA costumam ser modelos profissionais equipados co
 - [Pytorch](https://trescout.com/pt/discover/pytorch/)
 - [Minimind](https://trescout.com/pt/discover/minimind/)
 - [OpenMAIC](https://trescout.com/pt/discover/openmaic/)
-- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [Airllm](https://trescout.com/pt/discover/airllm/)
+- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [Omlx](https://trescout.com/pt/discover/omlx/)
 - [Ktransformers](https://trescout.com/pt/discover/ktransformers/)
 

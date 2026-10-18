@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 LMCache kütüphanesini kullanarak büyük dil modelleri için KV önbelleği yönetimini nasıl optimize edebilirim? Özellikle uzun bağlamlı sorgularda performans artışı sağlamak ve bellek kullanımını verimli hale getirmek için kurulum sonrası izlemem gereken temel adımlar nelerdir? Dokümantasyonda belirtilen engine-independent (motor bağımsız) çalışma prensibini göz önünde bulundurarak, mevcut çıkarım sistemime bu katmanı nasıl entegre edebileceğimi açıkla.
 
+Depo: https://github.com/LMCache/LMCache. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** LLM çıkarım süreçlerinde performans darboğazları yaşayan, bellek verimliliğini artırmak ve uzun bağlamlı iş yüklerini hızlandırmak isteyen geliştiriciler ve araştırmacılar içindir.
 - **Lisans:** Apache-2.0
 

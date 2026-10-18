@@ -54,6 +54,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite lancer une analyse OSINT sur une cible à l'aide de l'outil SpiderFoot. Ma cible est un domaine/adresse IP. Quelles étapes dois-je suivre pour utiliser cet outil afin d'analyser la visibilité de mes actifs numériques sur Internet et les vulnérabilités qu'ils peuvent présenter ? Veuillez expliquer comment fonctionnent les plus de 200 modules et comment je dois interpréter les résultats.
 
+Dépôt : https://github.com/smicallef/spiderfoot. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [OSINT](https://trescout.com/fr/dictionary/osint/)

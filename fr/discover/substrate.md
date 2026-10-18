@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise l'infrastructure Substrate pour exécuter des agents IA à grande échelle. Dans ce système fonctionnant sur Kubernetes (système de gestion de conteneurs), je souhaite gérer le cycle de vie des acteurs, utiliser les ressources efficacement et effectuer des déploiements d'agents haute densité. Comment puis-je optimiser la configuration requise pour maintenir l'état de mes agents et les activer rapidement, en utilisant l'environnement d'exploitation performant proposé par Substrate ?
 
+Dépôt : https://github.com/agent-substrate/substrate. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Agent](https://trescout.com/fr/dictionary/agent/)

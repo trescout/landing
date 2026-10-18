@@ -2,17 +2,17 @@
 
 Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyonu için **beceriler, bağlayıcılar, slash komutları ve alt-ajanları** bir araya getirir. Claude'un o işin uzmanı gibi davranmasını sağlayan bu çözüm, **Claude Cowork** için tasarlanmış 11 hazır eklenti içerir.
 
-- ★ 28.563
+- ★ 30.064
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 28.563 → 30.064.
 - **10 Ekim 2026:** Yıldız 26.989 → 28.563.
 - **7 Ekim 2026:** Yıldız 25.686 → 26.989.
 - **27 Eylül 2026:** Yıldız 24.405 → 25.686.
-- **17 Eylül 2026:** Yıldız 23.222 → 24.405.
 
 - **Kimin için:** Kod yazmayan bilgi çalışanları (Cowork kullananlar)
 - **Zorluk:** Başlangıç dostu · Claude Cowork üzerinde
@@ -55,6 +55,14 @@ Claude Cowork eklenti pazarından kurulum yapabilirsiniz. 11 eklentinin listesi 
 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code'da 'claude plugin marketplace add anthropics/knowledge-work-plugins' ve ardından 'claude plugin install sales@knowledge-work-plugins' komutlarını çalıştırarak rolüme uygun eklentiyi kur (sales yerine finance, marketing gibi istediğim rolü yazabilirim).
+
+Depo: https://github.com/anthropics/knowledge-work-plugins. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 **Lisans:** Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 

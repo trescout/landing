@@ -9,6 +9,7 @@ Développé avec Vue, Lap est un gestionnaire de photos hors ligne qui vous perm
 ## Termes liés du glossaire
 
 - [Offline-first](https://trescout.com/fr/dictionary/offline-first/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 

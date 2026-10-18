@@ -49,6 +49,12 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Bereiten Sie mithilfe des OmniRoute AI-Gateways eine Routing-Konfiguration vor, die OpenAI-, Anthropic- und native Ollama-Modelle umfasst. Erstellen Sie eine Fallback-Regel, die automatisch zum zweiten Modell wechselt, wenn das Hauptmodell nicht antwortet, und listen Sie die Schritte auf, um sie mit Docker Compose auszuführen.
 
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Wichtige Warnungen und Grenzwerte
 
 - API-Schlüsselsicherheit: Sichere API-Schlüssel in den Umgebungsvariablen des Gateway-Servers; Stellen Sie sicher, dass Sie beim Öffnen des Gateways zum öffentlichen Internet eine Autorisierung (Bearer Token) anwenden.

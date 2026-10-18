@@ -63,6 +63,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero realizar un control de seguridad de la habilidad de un agente de IA utilizando la herramienta SkillSpector. ¿Cómo uso el comando 'skillspector scan ./my-skill/' para buscar talentos en un directorio local y qué parámetros debo agregar al comando para guardar los resultados del escaneo en 'report.json' en formato JSON?
 
+Repositorio: https://github.com/NVIDIA/SkillSpector. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [AI Skills](https://trescout.com/es/dictionary/ai-skills/)

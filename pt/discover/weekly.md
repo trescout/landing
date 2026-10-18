@@ -17,6 +17,10 @@ Para ler conteúdos de tecnologia ou contribuir, acesse a página web do projeto
 
 - [Fonte oficial →](https://github.com/ruanyf/weekly/issues)
 
+## Termos relacionados do glossário
+
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
 - **Para quem é:** Destina-se a qualquer pessoa que queira acompanhar semanalmente as tecnologias atuais, as novidades no mundo do software e as oportunidades de carreira.
 
 ## Links

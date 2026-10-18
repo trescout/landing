@@ -27,6 +27,7 @@ To get started with the Hello Algo platform, you can visit the official website 
 ## Related dictionary terms
 
 - [PDF](https://trescout.com/en/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for software development students and beginners who want to step into the world of data structures and algorithms.
 

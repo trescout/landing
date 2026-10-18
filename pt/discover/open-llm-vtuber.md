@@ -40,6 +40,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um amigo de inteligência artificial que trabalha no Open-LLM-VTuber, capaz de percepção visual e expresso com um modelo Live2D. Comunique-se com o usuário em tempo real por voz, interaja observando a tela ou câmera e reflita reações emocionais por meio de seu personagem Live2D. Seja sensível às interrupções vocais do usuário, mantendo um tom natural, fluido e pessoal.
 
+Repositório: https://github.com/Open-LLM-VTuber/Open-LLM-VTuber. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Live2D](https://trescout.com/pt/dictionary/live2d/)

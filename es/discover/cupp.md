@@ -39,6 +39,7 @@ Para comenzar a utilizar la herramienta, primero asegúrese de que Python 3 est�
 - [Common User Passwords Profiler](https://trescout.com/es/dictionary/common-user-passwords-profiler/)
 - [Wordlists](https://trescout.com/es/dictionary/wordlists/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está diseñado para profesionales de la seguridad que realizan pruebas de penetración legítimas e investigaciones forenses digitales.
 - **Licencia:** GPL-3.0

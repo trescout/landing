@@ -42,6 +42,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Entwickeln Sie für mich einen GenLayer-Smart-Vertrag. Dieser Vertrag sollte in der Lage sein, aktuelle Daten aus dem Internet abzurufen und logische Entscheidungen zu treffen, indem er diese Daten mit Modellen der künstlichen Intelligenz verarbeitet. Stellen Sie sicher, dass der Code den Linter-Regeln entspricht, um fehlerfrei zu sein, und erstellen Sie Testfälle, die direkt im Speicher ausgeführt werden, um während des Entwicklungsprozesses schnelles Feedback zu erhalten.
 
+Repository: https://github.com/genlayerlabs/genlayer-project-boilerplate. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Smart Contracts](https://trescout.com/de/dictionary/smart-contracts/)

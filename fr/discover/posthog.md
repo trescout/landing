@@ -2,16 +2,16 @@
 
 PostHog est une plateforme complète qui rassemble des outils tels que l'observabilité, l'analyse et la relecture de sessions de l'intelligence artificielle pour les processus de développement de produits. Il permet aux développeurs de logiciels de créer des produits autonomes en suivant les bogues, en gérant les expériences et en analysant les données des utilisateurs.
 
-- ★ 40 315
+- ★ 40 331
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 40,315 → 40,331, dernière version desktop-v0.61.746 (18 octobre 2026).
 - **17 octobre 2026:** Étoiles 40,305 → 40,315, dernière version desktop-v0.61.737 (16 octobre 2026).
 - **16 octobre 2026:** Étoiles 40,286 → 40,305, dernière version desktop-v0.61.729 (16 octobre 2026).
 - **15 octobre 2026:** Étoiles 40,280 → 40,286, dernière version desktop-v0.61.716 (15 octobre 2026).
-- **14 octobre 2026:** Étoiles 40,256 → 40,280, dernière version desktop-v0.61.694 (14 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -32,6 +32,14 @@ PostHog est une plateforme complète qui rassemble des outils tels que l'observa
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je dois analyser le comportement des utilisateurs dans mon produit à l'aide de la plateforme PostHog. Quels outils dois-je utiliser pour détecter les erreurs, examiner les rediffusions de session et surveiller les performances de mes fonctionnalités basées sur l'IA ? Expliquez les étapes que je dois suivre pour automatiser les processus de collecte et d'analyse de données.
+
+Dépôt : https://github.com/PostHog/posthog. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

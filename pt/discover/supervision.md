@@ -48,6 +48,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instalei a biblioteca com o comando pip install supervision em um ambiente Python 3.9 ou superior. Quero visualizar os resultados da detecção de objetos e gerenciar meu conjunto de dados em meu projeto de visão computacional. Como posso marcar os resultados da detecção de objetos em uma imagem usando a biblioteca Supervision e como posso carregar e converter conjuntos de dados em diferentes formatos (COCO, YOLO, etc.)? Ajude-me a criar um fluxo de trabalho de amostra usando as ferramentas auxiliares de anotador e conjunto de dados fornecidas pela biblioteca.
 
+Repositório: https://github.com/roboflow/supervision. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Computer Vision](https://trescout.com/pt/dictionary/computer-vision/)

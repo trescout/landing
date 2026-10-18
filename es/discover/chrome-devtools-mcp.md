@@ -33,6 +33,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Conéctese a mi sesión activa del navegador utilizando el servidor MCP de Chrome DevTools y analice los datos de rendimiento de mi aplicación web. Verifique las solicitudes de red, examine los errores de la consola y realice los pasos de depuración necesarios para solucionar cualquier problema que encuentre.
 
+Repositorio: https://github.com/ChromeDevTools/chrome-devtools-mcp. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Chrome DevTools](https://trescout.com/es/dictionary/chrome-devtools/)

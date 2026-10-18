@@ -87,6 +87,7 @@ Démarrez un flux wiki Obsidian local en liant les sources aux registres de sour
 - [Agent Skills](https://trescout.com/fr/dictionary/agent-skills/)
 - [AI Skills](https://trescout.com/fr/dictionary/ai-skills/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 

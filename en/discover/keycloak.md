@@ -45,6 +45,7 @@ To start using Keycloak, you need to download the distribution package from the 
 
 - [Containers](https://trescout.com/en/dictionary/containers/)
 - [Container](https://trescout.com/en/dictionary/container/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for software developers and system administrators who want to centrally and securely manage user authentication and access management processes in their applications.
 - **License:** Apache-2.0

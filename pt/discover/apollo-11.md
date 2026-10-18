@@ -24,6 +24,7 @@ Este repositório foi criado para arquivar os códigos-fonte originais do comput
 
 - [Guidance Computer](https://trescout.com/pt/dictionary/guidance-computer/)
 - [Assembly](https://trescout.com/pt/dictionary/assembly/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a pesquisadores e entusiastas de tecnologia interessados ​​na história da aviação e na formação em engenharia de software.
 

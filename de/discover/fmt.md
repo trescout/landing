@@ -26,6 +26,7 @@ Besuchen Sie die offizielle Dokumentationsseite, um zu erfahren, wie Sie sie in 
 ## Verwandte Begriffe aus dem Glossar
 
 - [Compiler](https://trescout.com/de/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Entwickler, die Textformatierung, Datenausgabe und Protokollierungsprozesse in C++-Projekten schneller und sicherer gestalten möchten.
 - **Lizenz:** MIT

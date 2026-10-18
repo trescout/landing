@@ -2,15 +2,15 @@
 
 Scientific-Agent-Skills es una biblioteca de habilidades ya preparada que adapta los agentes de inteligencia artificial a los procesos de investigación científica. Ofreciendo 163 capacidades validadas y más de 100 bases de datos en los campos de la biología, la química y la medicina, se integra con plataformas como el editor de código Cursor o el asistente de IA Claude Code.
 
-- ★ 49.814
+- ★ 52.471
 - GitHub Trending · 2026-08-26
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 49,814 → 52,471, última versión v2.72.0 (1 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 47,342 → 49,814, última versión v2.72.0 (1 de octubre de 2026).
 - **2 de octubre de 2026:** Estrellas 47,133 → 47,342, última versión v2.72.0 (1 de octubre de 2026).
 - **29 de septiembre de 2026:** Estrellas 46,808 → 47,133, última versión v2.70.0 (29 de septiembre de 2026).
-- **27 de septiembre de 2026:** Estrellas 44,519 → 46,808, última versión v2.69.0 (11 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -31,6 +31,14 @@ npx skills add K-Dense-AI/scientific-agent-skills
 Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Comience a utilizar las 166 habilidades listas para usar y las conexiones de bases de datos de la biblioteca para ayudarme con mis procesos de investigación científica.
+
+Repositorio: https://github.com/K-Dense-AI/scientific-agent-skills. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
 
 ## Términos relacionados del glosario
 

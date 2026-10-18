@@ -9,6 +9,7 @@ Les missions de développement de logiciels modernes préparées par l'Universit
 ## Termes liés du glossaire
 
 - [Software Development](https://trescout.com/fr/dictionary/software-development/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 

@@ -36,6 +36,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Code Coverage](https://trescout.com/dictionary/code-coverage/)
 - [ROM](https://trescout.com/dictionary/rom/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/lighthouse/

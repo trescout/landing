@@ -41,6 +41,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Hermes Agent ile çalışırken otonom öğrenme döngüsünden faydalanmak istiyorum. Sistemin geçmiş konuşmalarımı hatırlaması, görevler üzerinden yeni beceriler oluşturması ve zamanla kişiselleşmesi için hangi komutları kullanmalıyım? Özellikle farklı modeller arasında geçiş yapmak ve mesajlaşma platformlarını sisteme bağlamak için izlemem gereken temel adımları açıklar mısın?
 
+Depo: https://github.com/NousResearch/hermes-agent. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi kendine öğrenen ve farklı platformlar üzerinden yönetilebilen otonom bir yapay zekâ asistanı arayan kullanıcılar için uygundur.
 - **Lisans:** MIT
 

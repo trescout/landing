@@ -25,6 +25,7 @@ To find the data you need, you can visit the Public-apis repository on GitHub an
 ## Related dictionary terms
 
 - [API](https://trescout.com/en/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for all software developers who need external data sources in their projects.
 - **License:** MIT

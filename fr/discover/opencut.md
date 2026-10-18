@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 En vous basant sur l'architecture du projet OpenCut en cours de réécriture, notamment sa structure de base basée sur Rust, son système de plug-ins et les fonctionnalités du serveur MCP proposées aux agents d'intelligence artificielle, expliquez en détail comment cet outil peut automatiser les flux de montage vidéo et l'impact du futur support des plug-ins sur les processus créatifs.
 
+Dépôt : https://github.com/OpenCut-app/OpenCut. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [MCP](https://trescout.com/fr/dictionary/mcp/)

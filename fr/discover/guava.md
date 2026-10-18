@@ -28,6 +28,7 @@ Selon l'outil de configuration que vous utilisez pour ajouter la bibliothèque G
 
 - [Core Libraries](https://trescout.com/fr/dictionary/core-libraries/)
 - [Caching](https://trescout.com/fr/dictionary/caching/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs de logiciels qui développent des applications en langage Java et qui ont besoin d'outils plus efficaces pour les tâches de base telles que la gestion des collections et le traitement des chaînes.
 - **Licence:** Apache-2.0

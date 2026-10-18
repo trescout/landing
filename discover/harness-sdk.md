@@ -38,6 +38,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Python veya TypeScript ortamımda strands-harness paketini kurarak yapay zekâ ajan döngüsünü başlatmak ve test etmek istiyorum. Gerekli kütüphaneyi yükledikten sonra basit bir ajan oluşturup örnek bir görev vermemi sağlayacak kodu yazar mısın?
 
+Depo: https://github.com/strands-agents/harness-sdk. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Özel yapay zekâ ajan döngüleri kurmak ve süreçleri uçtan uca yönetmek isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 

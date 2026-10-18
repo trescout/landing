@@ -45,6 +45,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero fazer backup dos meus dados com segurança usando Restic. Como posso exportar uma pasta local ou diretório específico para um armazenamento de backup criptografado? Você pode explicar passo a passo como criar o repositório de backup e iniciar o processo de backup inicial para que meus dados sejam criptografados?
 
+Repositório: https://github.com/restic/restic. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Backup Program](https://trescout.com/pt/dictionary/backup-program/)

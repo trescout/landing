@@ -47,6 +47,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Claude Code içindeyken '/plugin marketplace add anthropics/skills' komutuyla Anthropic'in beceri deposunu marketplace olarak ekle, ardından '/plugin install document-skills@anthropic-agent-skills' ile belge becerilerini kur; sonra örneğin bir PDF'ten form alanlarını çıkarması için ilgili beceriyi kullanmasını iste.
 
+Depo: https://github.com/anthropics/skills. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Lisans:** GitHub bu repo için standart bir lisans tespit etmedi. Anthropic'in resmi deposu olsa da, yeniden kullanım/dağıtım öncesi repo'daki LICENSE dosyasını kontrol edin.
 
 ## Bağlantılar

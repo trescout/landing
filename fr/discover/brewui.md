@@ -33,6 +33,16 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise l'application BrewUI pour gérer mes paquets Homebrew. Je souhaite découvrir, installer, mettre à jour et gérer les paquets en toute sécurité au sein de l'application. En utilisant cette interface qui me permet de voir de manière transparente les opérations effectuées par Homebrew en arrière-plan, comment puis-je optimiser la configuration des paquets sur mon système et définir des variables personnalisées via le fichier brew.env ?
 
+Dépôt : https://github.com/Homebrew/BrewUI. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [GUI](https://trescout.com/fr/dictionary/gui/)

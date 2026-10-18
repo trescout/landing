@@ -33,6 +33,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Debugger](https://trescout.com/dictionary/debugger/)
 - [Multi-process](https://trescout.com/dictionary/multi-process/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/raddebugger/

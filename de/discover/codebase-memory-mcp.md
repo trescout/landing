@@ -33,6 +33,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Indizieren Sie dieses Projekt, um Ihnen bei der Analyse meiner Codebasis und der effizienteren Beantwortung strukturierter Abfragen zu helfen. Nach der Indizierung des Projekts möchte ich, dass Sie detaillierte Informationen zu meiner Codebasis bereitstellen, indem Sie Beziehungen zwischen Funktionen, Klassen und Aufrufketten verwenden.
 
+Repository: https://github.com/DeusData/codebase-memory-mcp. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Knowledge Graph](https://trescout.com/de/dictionary/knowledge-graph/)

@@ -20,6 +20,10 @@ freeCodeCamp no es una herramienta de software, sino una plataforma de aprendiza
 
 - [Fuente oficial →](https://contribute.freecodecamp.org)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es para cualquiera que quiera ingresar al mundo del software o que desee mejorar sus habilidades técnicas existentes con proyectos prácticos y gratuitos.
 - **Licencia:** BSD-3-Clause
 

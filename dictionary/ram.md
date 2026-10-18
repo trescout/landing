@@ -72,8 +72,8 @@ Günlük işte 8, geliştirmede 16, ağır işte 32 GB pratik karşılıklardır
 
 - [Free for Dev](https://trescout.com/discover/free-for-dev/)
 - [Colibri](https://trescout.com/discover/colibri/)
-- [Llmfit](https://trescout.com/discover/llmfit/)
 - [Airllm](https://trescout.com/discover/airllm/)
+- [Llmfit](https://trescout.com/discover/llmfit/)
 - [CasaOS](https://trescout.com/discover/casaos/)
 - [Invidious](https://trescout.com/discover/invidious/)
 - [Omlx](https://trescout.com/discover/omlx/)

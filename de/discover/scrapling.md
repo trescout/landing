@@ -2,17 +2,17 @@
 
 Scrapling ist ein anpassungsfähiges Web-Scraping-Framework, das den Umfang von einer einzelnen Anfrage bis hin zu umfangreichen Crawling-Jobs bewältigen kann. Ziel ist es, eine hohe Anpassungsfähigkeit auch dann zu bieten, wenn sich die Seitenstruktur ändert. Es basiert auf Python.
 
-- ★ 84.197
+- ★ 88.365
 - Python
 - BSD-3-Clause
 - GitHub Trending · 1 Haziran 2026
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 84,197 → 88,365, neueste Version v0.5 (17. Oktober 2026).
 - **28. September 2026:** Sterne 80,154 → 84,197, neueste Version v0.4.15 (23. August 2026).
 - **11. September 2026:** Sterne 76,147 → 80,154, neueste Version v0.4.15 (23. August 2026).
 - **24. August 2026:** Sterne 73,439 → 76,147, neueste Version v0.4.15 (23. August 2026).
-- **11. August 2026:** Sterne 73,309 → 73,439, neueste Version v0.4.14 (10. August 2026).
 
 ## Was es bringt
 
@@ -33,6 +33,14 @@ pip install scrapling
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Helfen Sie mir, die Open-Source-Web-Scraping-Bibliothek namens Scrapling zu installieren. Installieren Sie es mit „pip install „scrapling[fetchers]““ und führen Sie den Befehl „scrapling install“ aus. Anschließend extrahieren wir den Inhalt einer Webseite mit dem Befehl „scraping extract get https://example.com content.md“ in eine Markdown-Datei.
+
+Repository: https://github.com/D4Vinci/Scrapling. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

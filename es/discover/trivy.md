@@ -55,6 +55,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar un flujo de trabajo de seguridad en GitHub Actions que escanee mi imagen de Docker y mis códigos fuente con Trivy en cada solicitud de inserción y extracción de código (PR). ¿Puede crear un archivo .github/workflows/trivy.yml completo que detenga la compilación solo en vulnerabilidades CRÍTICAS y de ALTO nivel (código de salida 1), cargue los hallazgos en el panel de seguridad de GitHub en formato SARIF y cree un archivo SBOM en formato CycloneDX?
 
+Repositorio: https://github.com/aquasecurity/trivy. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Preguntas frecuentes
 
 - ¿Trivy Docker puede escanear imágenes de contenedores sin un demonio? Sí. Trivy puede descargar y escanear imágenes directamente desde repositorios de imágenes remotos (Docker Hub, GitHub Container Registry, AWS ECR, etc.) o archivos tar locales sin la necesidad de un cliente o demonio Docker.

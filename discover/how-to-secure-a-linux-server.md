@@ -29,6 +29,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir Linux sunucusu yöneticisiyim. Sunucumun güvenliğini artırmak istiyorum. How-To-Secure-A-Linux-Server rehberindeki en iyi uygulamaları temel alarak; SSH yapılandırmamı nasıl daha güvenli hale getirebilirim, sudo ve su yetkilerini nasıl kısıtlayabilirim ve sistemimde otomatik güvenlik güncellemelerini nasıl aktif edebilirim? Lütfen bu işlemleri yaparken dikkat etmem gereken temel prensipleri ve hata yapmamak için izlemem gereken adımları açıkla.
 
+Depo: https://github.com/imthenachoman/How-To-Secure-A-Linux-Server. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Linux sunucu yönetimi konusunda temel bilgiye sahip olan ve sistem güvenliğini artırmak isteyen kullanıcılar içindir.
 - **Lisans:** CC-BY-SA-4.0
 

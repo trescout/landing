@@ -25,6 +25,7 @@ Não é necessário realizar nenhuma instalação para começar a usar a ferrame
 ## Termos relacionados do glossário
 
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Adequado para qualquer pessoa que queira melhorar o vocabulário em inglês e, ao mesmo tempo, aumentar a velocidade de digitação no teclado.
 - **Licença:** GPL-3.0

@@ -35,6 +35,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Kod tabanımı analiz etmen ve yapısal sorguları daha verimli yanıtlaman için bu projeyi indeksle. Projeyi indeksledikten sonra fonksiyonlar, sınıflar ve çağrı zincirleri arasındaki ilişkileri kullanarak kod tabanım hakkında derinlemesine bilgi sunmanı istiyorum.
 
+Depo: https://github.com/DeusData/codebase-memory-mcp. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kod tabanlarını daha hızlı analiz etmek ve yapay zekâ ajanlarının jeton tüketimini optimize etmek isteyen yazılımcılar içindir.
 - **Lisans:** MIT
 

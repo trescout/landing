@@ -65,6 +65,7 @@ Können Sie mir helfen, eine einfache ManimGL-Szene zu schreiben, in der sich ei
 ## Verwandte Begriffe aus dem Glossar
 
 - [Fork](https://trescout.com/de/dictionary/fork/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

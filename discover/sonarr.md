@@ -76,6 +76,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Ev sunucumda Docker üzerinde Sonarr, qBittorrent, Prowlarr ve Jellyfin servislerini birlikte çalıştırmak istiyorum. Sabit bağlantıların (hardlink) sorunsuz çalışması için tek bir kök dizin bağlama (volume mount) yapısını içeren eksiksiz bir docker-compose.yml dosyası ve Sonarr web panelinde yapmam gereken ilk ayarları adım adım açıklar mısın?
 
+Depo: https://github.com/Sonarr/Sonarr. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Ev sunucusu (Homelab) sahipleri, medya tutkunları ve dizi arşivlerini zahmetsizce yönetmek isteyenler.
 - **Lisans:** GPL-3.0 (Açık kaynak lisansı)
 - **Altyapı:** C# ve .NET tabanlı web servisi

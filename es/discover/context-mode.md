@@ -47,6 +47,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Mi agente de inteligencia artificial, a partir de ahora, en lugar de realizar tareas de procesamiento de datos directamente, quiero que escribas y ejecutes el código para analizar estos datos. Utiliza las herramientas de context-mode para minimizar el tamaño de los datos, mantén mi historial de sesión en SQLite y repórtame solo los resultados necesarios. Evita explicaciones innecesarias y concéntrate únicamente en la generación de código y la gestión eficiente del contexto.
 
+Repositorio: https://github.com/mksglu/context-mode. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Context Window Optimization](https://trescout.com/es/dictionary/context-window-optimization/)

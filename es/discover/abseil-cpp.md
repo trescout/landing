@@ -34,6 +34,7 @@ Para comenzar a utilizar Abseil, debe visitar el documento Abseil Quickstart en 
 ## Términos relacionados del glosario
 
 - [Code Snippets](https://trescout.com/es/dictionary/code-snippets/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Para desarrolladores de C++ que desean mejorar la capacidad de mantenimiento y el rendimiento del código en proyectos de software complejos.
 - **Licencia:** Apache-2.0

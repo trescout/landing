@@ -9,6 +9,7 @@ FxEmbed is a content embedding tool that ensures posts on X and Bluesky platform
 ## Related dictionary terms
 
 - [Embed](https://trescout.com/en/dictionary/embed/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

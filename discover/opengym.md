@@ -2,16 +2,16 @@
 
 OpenGym, antrenman rutinlerini planlamaya ve vücut ağırlığı egzersizlerini takip etmeye yarayan açık kaynaklı bir spor salonu yönetim aracıdır. Kullanıcıların verilerini kendi sunucularında barındırmalarına olanak tanıyan bu yazılım, popüler fitness uygulamalarından (Strong, Hevy) veri aktarımını destekler.
 
-- ★ 12.021
+- ★ 13.304
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 12.021 → 13.304, son sürüm v1.4.1 (10 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 10.912 → 12.021, son sürüm v1.4.1 (10 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 9.501 → 10.912, son sürüm v1.4.1 (10 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 8.392 → 9.501, son sürüm v1.4.1 (10 Ekim 2026).
-- **9 Ekim 2026:** Yıldız 7.653 → 8.392, son sürüm v1.4.0 (9 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -36,6 +36,16 @@ docker compose up -d
 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 openGym spor takip yazılımını Docker konteyner yönetim platformu üzerinde kurmak istiyorum. Bana 'git clone https://github.com/DuarteSantos8/openGym' komutuyla başlayan kurulum adımlarını, '.env' çevre değişkenleri dosyasının nasıl yapılandırılacağını ve kurulum tamamlandıktan sonra tarayıcıdan uygulamaya nasıl erişeceğimi adım adım açıklar mısın?
+
+Depo: https://github.com/DuarteSantos8/openGym. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Bir API anahtarı gerekirse onu sohbete yazmamı isteme. .env dosyasına nasıl ekleyeceğimi göster ve bu dosyanın Git'e gönderilmediğinden emin ol.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 - **Kimin için:** Antrenman verilerinin gizliliğine önem veren ve spor salonu rutinlerini kendi sunucusunda ücretsizce takip etmek isteyen spor tutkunları içindir.
 - **Lisans:** AGPL-3.0

@@ -24,6 +24,7 @@ Puedes descargar los archivos precompilados adecuados para tu sistema desde la s
 
 - [Debugger](https://trescout.com/es/dictionary/debugger/)
 - [Multi-process](https://trescout.com/es/dictionary/multi-process/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está pensado para desarrolladores que desarrollan software grande en lenguaje C en la plataforma Windows y necesitan una interfaz de depuración visual.
 - **Licencia:** MIT

@@ -29,6 +29,7 @@ Sie können Visual Studio Code für die Betriebssysteme Windows, macOS und Linux
 
 - [Code Editor](https://trescout.com/de/dictionary/code-editor/)
 - [Editor](https://trescout.com/de/dictionary/editor/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Softwareentwickler, die Code-Bearbeitung, -Navigation und einfaches Debugging unter einem Dach vereinen möchten.
 - **Lizenz:** MIT

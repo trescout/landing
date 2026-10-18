@@ -31,6 +31,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer des projets de traitement d'images en utilisant la bibliothèque OpenCV. Comment puis-je mettre en œuvre des techniques de base de traitement d’images, des processus de détection d’objets ou d’apprentissage automatique dans mes applications de vision par ordinateur ? Guidez-moi sur les fonctions de base que je peux utiliser dans mes projets et comment je peux bénéficier de l'infrastructure standard offerte par cette bibliothèque.
 
+Dépôt : https://github.com/opencv/opencv. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Computer Vision Library](https://trescout.com/fr/dictionary/computer-vision-library/)

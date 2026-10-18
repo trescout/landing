@@ -27,6 +27,7 @@ Für die Installation können Sie die passenden Download-Links für Ihr Betriebs
 - [ApacheBench (ab)](https://trescout.com/de/dictionary/apache-bench/)
 - [ab (ApacheBench)](https://trescout.com/de/dictionary/apache-bench-ab/)
 - [ab](https://trescout.com/de/dictionary/ab/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Entwickler, die die Leistung und Geschwindigkeit von Webanwendungen testen möchten.
 - **Lizenz:** Apache-2.0

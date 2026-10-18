@@ -23,6 +23,10 @@ Para conocer los pasos de instalación y la guía de inicio, debe visitar la pá
 
 - [Fuente oficial →](https://hypr.land)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es adecuado para usuarios que desean personalizar el entorno de escritorio según sus necesidades y buscan un administrador de ventanas de alto rendimiento basado en Wayland.
 - **Licencia:** BSD-3-Clause
 

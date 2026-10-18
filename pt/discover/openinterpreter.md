@@ -41,6 +41,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero que você atue como agente de codificação no meu computador. Espero que você automatize tarefas complexas executando código em meu ambiente local, testando aplicativos da Web ou locais quando necessário. Utilizar estruturas que otimizem modelos de baixo custo na realização de transações e executar meus comandos com segurança através do terminal.
 
+Repositório: https://github.com/openinterpreter/openinterpreter. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Coding Agent](https://trescout.com/pt/dictionary/coding-agent/)

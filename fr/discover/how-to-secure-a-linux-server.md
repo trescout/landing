@@ -29,6 +29,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je suis administrateur de serveur Linux. Je souhaite augmenter la sécurité de mon serveur. Basé sur les meilleures pratiques du guide Comment sécuriser un serveur Linux ; Comment puis-je rendre ma configuration SSH plus sécurisée, restreindre les privilèges sudo et su et activer les mises à jour de sécurité automatiques sur mon système ? Veuillez expliquer les principes de base auxquels je dois prêter attention lors de ces opérations et les étapes à suivre pour éviter de commettre des erreurs.
 
+Dépôt : https://github.com/imthenachoman/How-To-Secure-A-Linux-Server. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Server Hardening](https://trescout.com/fr/dictionary/server-hardening/)

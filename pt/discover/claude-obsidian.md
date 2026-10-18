@@ -87,6 +87,7 @@ Inicie um fluxo wiki local no Obsidian associando fontes aos livros de fontes e 
 - [Agent Skills](https://trescout.com/pt/dictionary/agent-skills/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 - [Agent](https://trescout.com/pt/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 ## Links
 

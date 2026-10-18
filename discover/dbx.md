@@ -2,16 +2,16 @@
 
 Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.
 
-- ★ 27.027
+- ★ 27.082
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 27.027 → 27.082, son sürüm v0.6.47 (17 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 26.967 → 27.027, son sürüm v0.6.46 (16 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 26.784 → 26.967, son sürüm v0.6.45 (15 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 26.630 → 26.784, son sürüm v0.6.44 (14 Ekim 2026).
-- **14 Ekim 2026:** Yıldız 25.978 → 26.630, son sürüm v0.6.43 (14 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -62,6 +62,14 @@ dbx query local "select 1" --json komutlarını kullan. Docker ile çalıştırm
 docker run -d --pull=always --name dbx -p 4224:4224 \
 -v dbx-data:/app/data \
 t8y2/dbx:latest komutunu çalıştır.
+
+Depo: https://github.com/t8y2/dbx. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 - **Kimin için:** Farklı veritabanı türlerini hafif bir arayüz ve yapay zekâ desteğiyle yönetmek isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0

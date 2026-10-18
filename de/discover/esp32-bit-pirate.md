@@ -28,6 +28,7 @@ Installieren Sie die entsprechende Software für Ihr Gerät über Ihren Browser 
 
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Entwickler, die sich für Hardwaresicherheit, eingebettete Systeme und Protokollanalyse interessieren.
 - **Lizenz:** MIT

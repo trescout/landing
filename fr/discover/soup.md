@@ -48,6 +48,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite entraîner un modèle d'intelligence artificielle avec 8 milliards de paramètres à l'aide de la bibliothèque Soup sur mon ordinateur doté de 4 Go de mémoire graphique. Aidez-moi à créer un fichier de configuration YAML qui permet le streaming de couches et utilise la quantification 4 bits. Préparez le contenu du fichier soupe.yaml requis pour démarrer le processus de formation, puis expliquez étape par étape comment démarrer la formation à l'aide de ce fichier.
 
+Dépôt : https://github.com/MakazhanAlpamys/Soup. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Layer Streaming](https://trescout.com/fr/dictionary/layer-streaming/)

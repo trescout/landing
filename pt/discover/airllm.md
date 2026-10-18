@@ -2,16 +2,16 @@
 
 AirLLM é uma biblioteca de código aberto revolucionária que executa grandes modelos de linguagem (LLMs) massivos de 70 bilhões e 405 bilhões de parâmetros em placas de vídeo padrão de nível de consumidor com apenas 4 GB de memória de vídeo (VRAM), sem a necessidade de servidores corporativos ou caros clusters de GPU.
 
-- ★ 37.368
+- ★ 39.239
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 37,368 → 39,239, versão mais recente v4.0.0 (5 de setembro de 2026).
 - **12 de outubro de 2026:** Estrelas 35,481 → 37,368, versão mais recente v4.0.0 (5 de setembro de 2026).
 - **7 de outubro de 2026:** Estrelas 33,755 → 35,481, versão mais recente v4.0.0 (5 de setembro de 2026).
 - **6 de setembro de 2026:** Estrelas 33,307 → 33,755, versão mais recente v4.0.0 (5 de setembro de 2026).
-- **31 de agosto de 2026:** Estrelas 31,598 → 33,307, versão mais recente v3.3.0 (28 de agosto de 2026).
 
 ## O que você ganha
 
@@ -45,6 +45,14 @@ O AirLLM possui uma sintaxe Python extremamente simples, muito semelhante à API
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Gostaria de executar um modelo de 70 bilhões de parâmetros (por exemplo, meta-llama/Llama-3-70B-Instruct) na minha placa gráfica local com capacidade de 4 GB de VRAM usando a biblioteca AirLLM. Usei o comando pip install airllm para a instalação. Você pode explicar o código Python necessário para carregar meu modelo, obter saídas com entrada de texto e evitar o estouro de memória? Sei que preciso garantir espaço em disco suficiente no processo, você pode detalhar os passos que devo seguir?
+
+Repositório: https://github.com/lyogavin/airllm. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Perguntas frequentes
 

@@ -40,6 +40,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 From now on, act as an AI agent and control software on my system using CLI-Anything. Use CLI-Hub to list available tools, load the command line interface required for the software I need, and then manage that software for me. Follow the guidance files provided by the system to reduce the margin of error while performing transactions.
 
+Repository: https://github.com/HKUDS/CLI-Anything. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Agent-native](https://trescout.com/en/dictionary/agent-native/)

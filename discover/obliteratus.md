@@ -39,6 +39,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir yapay zekâ modelindeki reddetme davranışlarını analiz et ve bu davranışları tetikleyen içsel yapıları, modelin genel dil yeteneklerine zarar vermeden cerrahi bir yöntemle temizle. İşlem sırasında SVD ayrıştırması gibi teknikleri kullanarak kısıtlamaları belirle ve modelin yapay engeller olmadan yanıt vermesini sağla.
 
+Depo: https://github.com/elder-plinius/OBLITERATUS. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ modellerinin güvenlik mekanizmalarını ve reddetme davranışlarını bilimsel olarak incelemek isteyen araştırmacılar ve geliştiriciler içindir.
 - **Lisans:** AGPL-3.0
 

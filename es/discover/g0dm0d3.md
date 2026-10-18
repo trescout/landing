@@ -38,6 +38,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Usando la interfaz G0DM0D3, active el motor ULTRAPLINIAN, que ejecuta múltiples modelos a través de los proveedores de modelos que especifique (OpenRouter, Venice o servidor local). Aplicar técnicas de mezcla de entradas en lengua pársel para las investigaciones de mi equipo rojo y configurar automáticamente los parámetros de muestreo que mejor se adapten al contexto de la consulta con la función AutoTune.
 
+Repositorio: https://github.com/elder-plinius/G0DM0D3. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Red Teaming](https://trescout.com/es/dictionary/red-teaming/)

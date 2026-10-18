@@ -36,6 +36,10 @@ Para começar a usar o VeraCrypt, você pode visitar o site oficial veracrypt.jp
 
 - [Fonte oficial →](https://veracrypt.jp)
 
+## Termos relacionados do glossário
+
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
 - **Para quem é:** Destina-se a usuários individuais e profissionais que desejam proteger seus dados com métodos de criptografia fortes.
 
 ## Links

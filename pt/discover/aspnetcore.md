@@ -50,6 +50,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver um aplicativo Web moderno, escalonável e baseado em nuvem usando a estrutura ASP.NET Core. Pretendo executar meu projeto no Windows, macOS ou Linux. Que tipo de arquitetura devo estabelecer utilizando a estrutura modular desta plataforma e em quais componentes básicos devo focar para aumentar a eficiência no processo de desenvolvimento de aplicações?
 
+Repositório: https://github.com/dotnet/aspnetcore. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [IoT](https://trescout.com/pt/dictionary/iot/)

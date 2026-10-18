@@ -2,17 +2,17 @@
 
 This open-source set of plugins from Anthropic brings together skills, connectors, slash commands, and sub-agents for each business function. This solution, which allows Claude to act like an expert in his field, includes 11 ready-made plugins designed for Claude Cowork.
 
-- ★ 28,563
+- ★ 30,064
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Updates
 
+- **October 18, 2026:** Stars 28,563 → 30,064.
 - **October 10, 2026:** Stars 26,989 → 28,563.
 - **October 7, 2026:** Stars 25,686 → 26,989.
 - **September 27, 2026:** Stars 24,405 → 25,686.
-- **September 17, 2026:** Stars 23,222 → 24,405.
 
 ## What you get
 
@@ -47,6 +47,14 @@ You can install it from the Claude Cowork plugin market. The list of 11 plugins 
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install the plugin appropriate to my role by running the commands 'claude plugin marketplace add anthropics/knowledge-work-plugins' and then 'claude plugin install sales@knowledge-work-plugins' in Claude Code (I can write the role I want, such as finance or marketing, instead of sales).
+
+Repository: https://github.com/anthropics/knowledge-work-plugins. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

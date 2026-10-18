@@ -24,6 +24,7 @@ To use the latest version on your Linux or macOS operating system, you can go to
 
 - [Emulator](https://trescout.com/en/dictionary/emulator/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for users who are looking for a nostalgic visual aesthetic on their computer and want to personalize their terminal experience.
 

@@ -9,6 +9,7 @@ FxEmbed é uma ferramenta de incorporação de conteúdo que permite que postage
 ## Termos relacionados do glossário
 
 - [Embed](https://trescout.com/pt/dictionary/embed/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 ## Links
 

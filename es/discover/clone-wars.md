@@ -22,6 +22,7 @@ Clone-Wars no es una herramienta de software, sino una guía que enumera clones 
 - [Tech Stack](https://trescout.com/es/dictionary/tech-stack/)
 - [Clone](https://trescout.com/es/dictionary/clone/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para estudiantes y entusiastas del desarrollo de software que sienten curiosidad por saber cómo se crean las aplicaciones populares y desean mejorar practicando en proyectos de código abierto.
 - **Licencia:** AGPL-3.0

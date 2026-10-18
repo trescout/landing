@@ -34,6 +34,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Introduction to Autonomous Robots](https://trescout.com/dictionary/autonomous-robots-intro/)
 - [PDF](https://trescout.com/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/introduction-to-autonomous-robots/

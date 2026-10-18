@@ -39,6 +39,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Necesito diseñar una estrategia comercial determinista que se ejecute en el núcleo de Rust con soporte para múltiples intercambios utilizando el motor comercial NautilusTrader. ¿Cómo puedo construir una lógica estratégica utilizando el plano de control de Python y qué estructuras modulares debo usar para garantizar la coherencia del código al pasar del entorno de investigación al entorno real?
 
+Repositorio: https://github.com/nautechsystems/nautilus_trader. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Rust](https://trescout.com/es/dictionary/rust/)

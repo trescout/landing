@@ -42,6 +42,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi à installer le robot d'exploration Web open source appelé Crawl4AI ; Essayons-le en l'installant avec 'pip install -U crawl4ai', puis en exécutant 'crawl4ai-setup' et en convertissant une page Web en Markdown compatible LLM avec la commande 'crwl https://www.nbcnews.com/business -o markdown'.
 
+Dépôt : https://github.com/unclecode/crawl4ai. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Markdown](https://trescout.com/fr/dictionary/markdown/)

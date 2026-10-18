@@ -44,6 +44,7 @@ You can access the installation guide by visiting the official dbt documentation
 ## Related dictionary terms
 
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for data analysts and engineers who want to transform and manage data in the data warehouse with the software development discipline.
 - **License:** Apache-2.0

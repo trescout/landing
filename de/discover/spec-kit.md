@@ -42,6 +42,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wenn Sie einen KI-Codierungsagenten verwenden, definieren Sie Qualitäts- und Leistungsstandards mithilfe des Befehls /speckit.constitution, um die Grundlinien des Projekts zu bestimmen. Erklären Sie dann die Ziele der Anwendung, die Sie mit /speckit.specify erstellen möchten, geben Sie Ihre technische Architektur mit /speckit.plan an und erstellen Sie schließlich die Aufgabenliste mit /speckit.tasks und entwickeln Sie die Anwendung mit dem Befehl /speckit.implement.
 
+Repository: https://github.com/github/spec-kit. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Spec-driven Development](https://trescout.com/de/dictionary/spec-driven-development/)

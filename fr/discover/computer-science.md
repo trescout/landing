@@ -23,6 +23,7 @@ Pour commencer ce programme, visitez simplement le site Web officiel d'OSSU CS o
 ## Termes liés du glossaire
 
 - [Computer Science](https://trescout.com/fr/dictionary/computer-science/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient à toute personne ayant la discipline de l’auto-apprentissage et souhaitant apprendre gratuitement les bases de l’informatique avec une approche académique.
 - **Licence:** MIT

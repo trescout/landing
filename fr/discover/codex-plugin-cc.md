@@ -40,6 +40,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Commencez une révision de mon code existant à l'aide du plugin Codex dans Claude Code et rapportez les résultats. S'il y a une tâche complexe, déléguez-la au Codex avec la commande /codex:rescue et exécutez-la en arrière-plan, ce qui me permet de suivre la progression avec /codex:status.
 
+Dépôt : https://github.com/openai/codex-plugin-cc. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Large Language Models](https://trescout.com/fr/dictionary/large-language-models/)

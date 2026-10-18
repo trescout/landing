@@ -39,6 +39,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Tell Claude Code or whatever AI assistant you use to analyze the architecture or workflow of my current project. Then, ask it to create a clean HTML and SVG diagram by choosing the one that best suits the topic I'm explaining from the 27 different visual types in the diagram-design library. Specify that the design reference my website so that it is compatible with the colors and visual language of my brand.
 
+Repository: https://github.com/cathrynlavery/diagram-design. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [SVG](https://trescout.com/en/dictionary/svg/)

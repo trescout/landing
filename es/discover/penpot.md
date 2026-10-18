@@ -45,6 +45,7 @@ Para comenzar a usar Penpot, puede visitar el sitio web oficial, penpot.app. Pue
 
 - [Self-hosting](https://trescout.com/es/dictionary/self-hosting/)
 - [Localhost](https://trescout.com/es/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para equipos que desean aumentar la armonía entre diseñadores y desarrolladores de software en los procesos de desarrollo de productos digitales.
 - **Licencia:** MPL-2.0

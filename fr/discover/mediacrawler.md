@@ -62,6 +62,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite extraire des données d'une plate-forme de médias sociaux spécifiée à l'aide de l'outil MediaCrawler. Veuillez me permettre de vérifier les paramètres dans le fichier config/base_config.py et d'expliquer étape par étape comment configurer la commande uv run main.py pour collecter des informations sur les publications et les commentaires en effectuant une recherche par mot clé pour la plate-forme xhs.
 
+Dépôt : https://github.com/NanmiCoder/MediaCrawler. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Web Scraping](https://trescout.com/fr/dictionary/web-scraping/)

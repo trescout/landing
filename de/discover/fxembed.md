@@ -9,6 +9,7 @@ FxEmbed ist ein Tool zum Einbetten von Inhalten, mit dem Beiträge auf X- und Bl
 ## Verwandte Begriffe aus dem Glossar
 
 - [Embed](https://trescout.com/de/dictionary/embed/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

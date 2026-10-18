@@ -60,6 +60,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite configurer le projet de messagerie temporaire open source dreamhunter2333/cloudflare_temp_email exécuté sur Cloudflare avec mon propre domaine. J'ai un compte Cloudflare et un domaine connecté au DNS Cloudflare. Pouvez-vous s'il vous plaît me dire étape par étape comment configurer le routage du routage des e-mails, la base de données D1 et l'interface Cloudflare Pages à partir de zéro via le tableau de bord Cloudflare ? De plus, quelles étapes de configuration dois-je suivre pour transférer les e-mails entrants vers mon bot Telegram ?
 
+Dépôt : https://github.com/dreamhunter2333/cloudflare_temp_email. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Le forfait gratuit de Cloudflare est-il suffisant pour un usage personnel ? Oui. Cloudflare propose 100 000 requêtes Worker par jour, un routage d'e-mails gratuit et un quota de base de données D1 dans son forfait gratuit. Pour un usage personnel et de petites équipes, ces limites sont quasiment impossibles à dépasser ; Le système fonctionne à un coût totalement nul.

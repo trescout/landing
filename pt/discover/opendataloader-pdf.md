@@ -54,6 +54,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero analisar os arquivos PDF que possuo usando a ferramenta OpenDataLoader PDF e convertê-los em formatos de dados estruturados (Markdown ou JSON) que posso usar em processos RAG ou LLM. Você pode me ajudar a criar um script para ser executado em meu computador local usando o Python SDK que extrairá tabelas, títulos e texto de meus documentos na ordem de leitura correta? Explique também passo a passo como habilitar o modo híbrido para páginas complexas e personalizar a saída.
 
+Repositório: https://github.com/opendataloader-project/opendataloader-pdf. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [PDF Parser](https://trescout.com/pt/dictionary/pdf-parser/)

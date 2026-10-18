@@ -53,6 +53,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Analyze my code repository using the Code-Graph-RAG tool. Answer my questions using relationships between functions, classes, and modules in your code base. Suggest changes or optimizations I should make to the code using the structural analysis capabilities provided by the tool.
 
+Repository: https://github.com/vitali87/code-graph-rag. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Monorepo](https://trescout.com/en/dictionary/monorepo/)

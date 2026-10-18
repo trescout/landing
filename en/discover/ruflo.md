@@ -2,16 +2,16 @@
 
 Ruflo is an agent orchestration layer for deploying intelligent agent swarms, coordinating autonomous workflows, and building conversational AI systems.
 
-- ★ 74,730
+- ★ 76,236
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Updates
 
+- **October 18, 2026:** Stars 74,730 → 76,236, latest release v3.57.0 (October 17, 2026).
 - **October 15, 2026:** Stars 74,504 → 74,730, latest release v3.56.10 (October 14, 2026).
 - **October 13, 2026:** Stars 74,429 → 74,504, latest release v3.56.9 (October 12, 2026).
 - **October 12, 2026:** Stars 74,363 → 74,429, latest release v3.56.8 (October 12, 2026).
-- **October 12, 2026:** Stars 74,319 → 74,363, latest release v3.56.7 (October 11, 2026).
 
 ## What you get
 
@@ -38,6 +38,14 @@ npm install -g ruflo@latest
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are in an integrated work environment with Ruflo. Optimize your workflow by using Ruflo's tools, memory features, and agent swarms to perform tasks. Self-improve next steps by learning from successful patterns and coordinate with other agents to manage complex tasks.
+
+Repository: https://github.com/ruvnet/ruflo. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

@@ -27,6 +27,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Darei a você uma lista categorizada de aplicativos gratuitos para Windows, macOS e Linux chamados ‘aplicativos gratuitos incríveis’. Revise a lista e sugira quais aplicativos gratuitos e de código aberto devo usar com base nas minhas necessidades (por exemplo, som, navegador, ferramentas de desenvolvedor, segurança), com uma breve descrição de cada um e em qual plataforma ele é executado.
 
+Repositório: https://github.com/Axorax/awesome-free-apps. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)

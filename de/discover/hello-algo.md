@@ -27,6 +27,7 @@ Um mit der Hello Algo-Plattform zu beginnen, können Sie die offizielle Website 
 ## Verwandte Begriffe aus dem Glossar
 
 - [PDF](https://trescout.com/de/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Studierende und Anfänger der Softwareentwicklung, die in die Welt der Datenstrukturen und Algorithmen eintauchen möchten.
 

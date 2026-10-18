@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite réaliser un montage professionnel à l'aide de l'éditeur vidéo Clypra. Comment puis-je effectuer des opérations telles que le sous-titrage automatique et le recadrage intelligent sur mes vidéos de la manière la plus efficace possible, en utilisant le traitement accéléré par le matériel et les fonctionnalités prises en charge par l'intelligence artificielle offertes par l'application ? Pouvez-vous recommander un flux de travail étape par étape ?
 
+Dépôt : https://github.com/AIEraDev/Clypra. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Video Editor](https://trescout.com/fr/dictionary/video-editor/)

@@ -38,6 +38,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I download a course or video using the OmniGet application? How do I use the built-in player and e-book reader within the application? Explain step-by-step how to start and manage download operations via the graphical interface.
 
+Repository: https://github.com/tonhowtf/omniget. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Terminal](https://trescout.com/en/dictionary/terminal/)

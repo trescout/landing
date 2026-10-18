@@ -26,6 +26,7 @@ Vous pouvez directement consulter ou télécharger des manuels scolaires aux niv
 ## Termes liés du glossaire
 
 - [PDF](https://trescout.com/fr/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux étudiants, aux chercheurs et aux familles chinoises vivant à l'étranger qui souhaitent avoir un accès numérique gratuit aux manuels scolaires du programme éducatif chinois.
 

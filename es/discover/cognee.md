@@ -47,6 +47,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Al usar Cognee, quiero almacenar mis datos en una estructura de gráfico de conocimiento y permitir que mi agente recupere estos datos manteniéndolos en su memoria a largo plazo. Cree un flujo de trabajo que me permita memorizar datos con la función cognee.remember() y generar respuestas significativas basadas en estos datos con cognee.recall().
 
+Repositorio: https://github.com/topoteretes/cognee. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Knowledge Graph Engine](https://trescout.com/es/dictionary/knowledge-graph-engine/)

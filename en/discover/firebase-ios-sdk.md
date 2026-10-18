@@ -28,6 +28,7 @@ For installation, you can review the official Firebase get started documentation
 - [Swift Package Manager](https://trescout.com/en/dictionary/swiftpm/)
 - [Backend](https://trescout.com/en/dictionary/backend/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Software developers who develop mobile applications for the Apple ecosystem and want to add cloud-based services to their applications.
 - **License:** Apache-2.0

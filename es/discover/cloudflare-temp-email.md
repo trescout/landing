@@ -60,6 +60,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar el proyecto de correo electrónico temporal de código abierto dreamhunter2333/cloudflare_temp_email que se ejecuta en Cloudflare con mi propio dominio. Tengo una cuenta de Cloudflare y un dominio vinculado a Cloudflare DNS. ¿Podrías explicarme paso a paso cómo configurar desde cero el enrutamiento de correo electrónico (Email Routing), la base de datos D1 y la interfaz de Cloudflare Pages a través del panel de control de Cloudflare? Además, ¿qué pasos de configuración debo seguir para redirigir los correos electrónicos entrantes a mi bot de Telegram?
 
+Repositorio: https://github.com/dreamhunter2333/cloudflare_temp_email. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Preguntas frecuentes
 
 - ¿Es suficiente el plan gratuito de Cloudflare para uso personal? Sí. El plan gratuito de Cloudflare ofrece 100.000 solicitudes de Worker al día, Email Routing gratuito y una cuota para la base de datos D1. Para uso personal y equipos pequeños, es casi imposible superar estos límites; el sistema funciona con un coste totalmente nulo.

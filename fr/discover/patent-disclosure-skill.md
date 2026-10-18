@@ -55,6 +55,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite préparer un texte officiel de déclaration d'invention pour un algorithme de mise en cache de base de données distribuée que j'ai développé, en utilisant la compétence de divulgation de brevet (patent disclosure skill). Pourriez-vous m'expliquer étape par étape comment générer les revendications indépendantes, le domaine technique de l'invention et les différences par rapport à l'état de la technique en fournissant le flux de l'algorithme en entrée ?
 
+Dépôt : https://github.com/handsomestWei/patent-disclosure-skill. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Cet outil remplace-t-il un conseil en brevets officiel ? Non. Patent Disclosure Skill est un outil de préparation et de productivité destiné aux ingénieurs pour structurer leurs projets d'invention et les préparer pour les conseils ; le dépôt juridique doit être effectué par un conseil.

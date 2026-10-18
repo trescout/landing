@@ -53,6 +53,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist ein Experte für Webautomatisierung. Ich möchte, dass du Daten von der angegebenen Website so effizient wie möglich unter Verwendung des Lightpanda Headless-Browsers abrufst. Optimiere die Speicherauslastung, halte dich an die robots.txt-Regeln und präsentiere die gewonnenen Daten in einem strukturierten Format. Passe die erforderlichen Wartezeiten (wait-selector oder wait-ms) dynamisch an, um die Fehlerquote bei der Ausführung zu minimieren.
 
+Repository: https://github.com/lightpanda-io/browser. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Headless Browser](https://trescout.com/de/dictionary/headless-browser/)

@@ -58,6 +58,7 @@ Um mit der Installation von Rocket.Chat zu beginnen, können Sie den Bereitstell
 
 - [Communications Operating System](https://trescout.com/de/dictionary/communications-operating-system/)
 - [Deployment](https://trescout.com/de/dictionary/deployment/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es wurde für Organisationen entwickelt, denen der Datenschutz am Herzen liegt und die die volle Kontrolle über ihre eigene Infrastruktur haben möchten.
 

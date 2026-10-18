@@ -46,8 +46,8 @@ Evet, ancak yapay zekâ için kullanılanlar genellikle daha fazla bellek ve öz
 - [Pytorch](https://trescout.com/discover/pytorch/)
 - [Minimind](https://trescout.com/discover/minimind/)
 - [OpenMAIC](https://trescout.com/discover/openmaic/)
-- [Llmfit](https://trescout.com/discover/llmfit/)
 - [Airllm](https://trescout.com/discover/airllm/)
+- [Llmfit](https://trescout.com/discover/llmfit/)
 - [Omlx](https://trescout.com/discover/omlx/)
 - [Ktransformers](https://trescout.com/discover/ktransformers/)
 

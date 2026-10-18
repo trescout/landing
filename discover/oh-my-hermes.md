@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Hermes Agent üzerinde Oh My Hermes eklentisini kur ve yapılandır. Kurulum sürecinde işletim sistemi için uygun olan yükleyiciyi kullan, etkileşimli model kurulumunu tamamla, model zinciri görüşmesini yap ve doctor adımlarını çalıştır. Mevcut Hermes yapılandırmasını koruyarak sadece belgelenmiş kurulum değişikliklerini uygula ve işlem sonucunu raporla.
 
+Depo: https://github.com/rlaope/oh-my-hermes. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Hermes Agent yazılım geliştirme aracını kullanan ve iş akışlarını daha profesyonel bir işletim katmanıyla yönetmek isteyen geliştiriciler içindir.
 - **Lisans:** MIT
 

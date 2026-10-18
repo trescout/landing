@@ -43,6 +43,7 @@ Um dieses Tool zu verwenden, können Sie die offizielle Website tailwindcss.com 
 - [Utility-first](https://trescout.com/de/dictionary/utility-first/)
 - [CSS Framework](https://trescout.com/de/dictionary/css-framework/)
 - [Framework](https://trescout.com/de/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die in ihren Webprojekten schnelle und einzigartige Benutzeroberflächen entwerfen möchten.
 - **Lizenz:** MIT

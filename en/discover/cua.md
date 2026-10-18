@@ -2,16 +2,16 @@
 
 CUA provides an open source infrastructure for computer-capable artificial intelligence agents. It brings together sandbox, software development kit (SDK) and benchmark tools under one roof for the purpose of training and evaluating agents that can control desktop operating systems.
 
-- ★ 29,921
+- ★ 30,064
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Updates
 
+- **October 18, 2026:** Stars 29,921 → 30,064, latest release cua-spaces-v0.9.4 (October 18, 2026).
 - **October 16, 2026:** Stars 29,802 → 29,921, latest release cua-spaces-v0.9.3 (October 16, 2026).
 - **October 15, 2026:** Stars 29,690 → 29,802, latest release cua-spaces-v0.9.2 (October 15, 2026).
 - **October 14, 2026:** Stars 29,597 → 29,690, latest release cua-spaces-v0.8.0 (October 14, 2026).
-- **October 13, 2026:** Stars 28,129 → 29,597, latest release cua-sdk-v0.4.1 (October 5, 2026).
 
 ## What you get
 
@@ -50,6 +50,14 @@ lume run macos-sequoia-vanilla:latest
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop a computer usage agent using the CUA infrastructure. Help me set up the basic Python structure that will allow my agent to interact with desktop applications in the background, make mouse clicks, and send keyboard input. Create a sample code sketch that runs commands and takes screenshots in a Linux environment using the CUA Sandbox SDK.
+
+Repository: https://github.com/trycua/cua. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

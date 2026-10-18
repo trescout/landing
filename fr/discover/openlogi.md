@@ -40,6 +40,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je veux un contrôle total sur ma souris, mon clavier et ma webcam Logitech. Comment configurer mes raccourcis clavier, mes paramètres de sensibilité DPI et les contrôles d'image de la caméra à l'aide d'OpenLogi ? Expliquez étape par étape comment personnaliser mes appareils et créer des profils basés sur des applications, notamment avec le fichier de configuration au format TOML.
 
+Dépôt : https://github.com/AprilNEA/OpenLogi. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [DPI](https://trescout.com/fr/dictionary/dpi/)

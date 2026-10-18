@@ -51,6 +51,7 @@ Pour commencer à utiliser Grafana, visitez le site officiel grafana.com/get. Vo
 
 - [Traces](https://trescout.com/fr/dictionary/traces/)
 - [Logs](https://trescout.com/fr/dictionary/logs/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux administrateurs système et aux analystes de données qui souhaitent surveiller et visualiser leurs données provenant de différentes sources à partir d'un seul centre.
 - **Licence:** AGPL-3.0

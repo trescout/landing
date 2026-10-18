@@ -46,6 +46,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter des modèles d'IA à grande échelle sur mon ordinateur local en utilisant le moteur Colibri. Aidez-moi à configurer mes ressources matérielles (VRAM, RAM et disque NVMe) de la manière la plus efficace possible. Expliquez étape par étape comment optimiser et exécuter des modèles tels que GLM ou DeepSeek en fonction de la capacité mémoire de mon système.
 
+Dépôt : https://github.com/JustVugg/colibri. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Mixture of Experts](https://trescout.com/fr/dictionary/mixture-of-experts/)

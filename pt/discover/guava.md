@@ -28,6 +28,7 @@ Dependendo da ferramenta de configuração usada para adicionar a biblioteca Gua
 
 - [Core Libraries](https://trescout.com/pt/dictionary/core-libraries/)
 - [Caching](https://trescout.com/pt/dictionary/caching/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a desenvolvedores de software que desenvolvem aplicações em linguagem Java e precisam de ferramentas mais eficientes para tarefas básicas como gerenciamento de coleções e processamento de strings.
 - **Licença:** Apache-2.0

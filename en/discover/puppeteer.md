@@ -40,6 +40,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a web automation expert. Using the Puppeteer library, create a simple JavaScript script that opens a web page, writes text in a specified field, and prints the results to the screen. Provide a code example that includes steps that launch the browser, create a new page, navigate to a URL, and print the page title to the console.
 
+Repository: https://github.com/puppeteer/puppeteer. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Web Scraping](https://trescout.com/en/dictionary/web-scraping/)

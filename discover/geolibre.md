@@ -49,6 +49,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [GIS](https://trescout.com/dictionary/gis/)
 - [Notebooks](https://trescout.com/dictionary/notebooks/)
 - [Jupyter Notebooks](https://trescout.com/dictionary/jupyter-notebooks/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/geolibre/

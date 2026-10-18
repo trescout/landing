@@ -25,6 +25,7 @@ Você não precisa de nenhuma configuração para começar a usar este guia. Voc
 ## Termos relacionados do glossário
 
 - [Computer Science](https://trescout.com/pt/dictionary/computer-science/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para quem deseja se especializar em uma disciplina acadêmica na área de ciência da computação.
 - **Licença:** MIT

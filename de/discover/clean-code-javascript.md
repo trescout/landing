@@ -21,6 +21,7 @@ Bei diesem Tool handelt es sich um eine Anleitung, nicht um eine Softwarebibliot
 ## Verwandte Begriffe aus dem Glossar
 
 - [Clean Code](https://trescout.com/de/dictionary/clean-code/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für alle Entwickler, die die Codequalität verbessern und professionellere JavaScript-Projekte entwickeln möchten.
 - **Lizenz:** MIT

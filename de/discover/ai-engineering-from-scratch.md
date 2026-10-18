@@ -31,6 +31,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich gebe Ihnen den Inhalt eines 20-Phasen-Open-Source-Lehrplans mit mehr als 500 Lektionen namens „AI-Engineering von Grund auf“, der KI-Engineering von Grund auf lehrt. Wenn ich die README-Datei und die Roadmap durchschaue, erhalte ich einen persönlichen Lernplan auf Türkisch, der in Wochen unterteilt ist: Mit welcher Phase soll ich beginnen, was sind die Voraussetzungen und in welcher Reihenfolge soll ich fortfahren? Mein Niveau: [zB. Anfänger].
 
+Repository: https://github.com/rohitg00/ai-engineering-from-scratch. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Tokenizer](https://trescout.com/de/dictionary/tokenizer/)

@@ -53,6 +53,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Dateien mit dem Croc-Tool sicher zwischen zwei Computern übertragen. Wie kann ich den mir gegebenen Codeausdruck abgleichen, wenn ich den Befehl „croc send [Dateiname]“ auf der Senderseite mit dem Befehl „croc [Codeausdruck]“ auf der Empfängerseite ausführe und die Übertragung starte? Gibt es eine besondere Einstellung, auf die ich achten sollte, um sicherzustellen, dass bei der Übertragung eine Ende-zu-Ende-Verschlüsselung erfolgt und der Vorgang sicher ist?
 
+Repository: https://github.com/schollz/croc. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [End-to-End Encryption](https://trescout.com/de/dictionary/end-to-end-encryption/)

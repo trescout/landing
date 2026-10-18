@@ -36,6 +36,7 @@ Cet outil supprime les protections de sécurité du modèle. La responsabilité 
 
 - [Transformer](https://trescout.com/fr/dictionary/transformer/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Chercheurs/utilisateurs avancés en ML
 - **Difficulté:** Connaissance avancée de l'utilisation des poids de modèle

@@ -24,6 +24,7 @@ Vous pouvez télécharger les fichiers précompilés adaptés à votre système 
 
 - [Debugger](https://trescout.com/fr/dictionary/debugger/)
 - [Multi-process](https://trescout.com/fr/dictionary/multi-process/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il est destiné aux développeurs qui développent des logiciels à grande échelle en langage C sur la plateforme Windows et qui ont besoin d'une interface de débogage visuelle.
 - **Licence:** MIT

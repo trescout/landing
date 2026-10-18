@@ -28,6 +28,7 @@ Install the software suitable for your device through your browser using the Web
 
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for developers interested in hardware security, embedded systems and protocol analysis.
 - **License:** MIT

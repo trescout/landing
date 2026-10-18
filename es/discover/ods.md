@@ -55,6 +55,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Puede explicar con código y pasos de terminal cómo importar los documentos PDF de mi empresa a la base de datos vectorial local instalando el servidor ODS en mi computadora personal, y luego cómo realizar consultas de preguntas y respuestas de RAG basadas en estos documentos a través de un modelo Llama 3 local?
 
+Repositorio: https://github.com/Osmantic/ODS. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Preguntas frecuentes
 
 - ¿Funciona completamente fuera de línea sin conexión a Internet? Sí. Una vez que se descargan los pesos del modelo requeridos, ODS puede operar en entornos completamente fuera de línea (con espacio de aire) sin requerir ninguna conexión de red.

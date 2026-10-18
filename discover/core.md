@@ -62,6 +62,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Home Automation](https://trescout.com/dictionary/home-automation/)
 - [Container](https://trescout.com/dictionary/container/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/core/

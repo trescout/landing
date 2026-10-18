@@ -22,6 +22,10 @@ Laden Sie die für Ihr Computersystem passende Archivdatei von der offiziellen G
 
 - [Offizielle Quelle →](https://github.com/ntdevlabs/tiny11builder/releases/latest)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die das Betriebssystem Windows 11 von unnötigen Komponenten befreien und es leichter machen möchten.
 
 ## Links

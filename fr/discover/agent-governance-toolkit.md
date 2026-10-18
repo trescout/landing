@@ -30,6 +30,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je développe un agent d'intelligence artificielle et je souhaite restreindre l'utilisation des outils par cet agent. Pouvez-vous s'il vous plaît me préparer un exemple de structure de code pour créer un fichier de stratégie YAML à l'aide de agent-governance-toolkit et comment sécuriser les fonctions de l'outil dans mon code Python conformément à cette politique ?
 
+Dépôt : https://github.com/microsoft/agent-governance-toolkit. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Agent Governance Toolkit](https://trescout.com/fr/dictionary/agent-governance-toolkit/)

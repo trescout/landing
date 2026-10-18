@@ -25,6 +25,7 @@ Sie benötigen keine Einrichtung, um mit dieser Anleitung zu beginnen. Sie könn
 ## Verwandte Begriffe aus dem Glossar
 
 - [Computer Science](https://trescout.com/de/dictionary/computer-science/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für alle, die sich in einer wissenschaftlichen Disziplin im Bereich der Informatik selbst spezialisieren möchten.
 - **Lizenz:** MIT

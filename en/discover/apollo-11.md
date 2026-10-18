@@ -24,6 +24,7 @@ This repository was created to archive the original source codes of the guidance
 
 - [Guidance Computer](https://trescout.com/en/dictionary/guidance-computer/)
 - [Assembly](https://trescout.com/en/dictionary/assembly/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for researchers and technology enthusiasts interested in aviation history and software engineering background.
 

@@ -42,6 +42,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 When using an AI coding agent, define quality and performance standards using the /speckit.constitution command to determine the project's baselines. Then, explain the goals of the application you want to build with /speckit.specify, specify your technical architecture with /speckit.plan, and finally create the task list with /speckit.tasks and develop the application with the /speckit.implement command.
 
+Repository: https://github.com/github/spec-kit. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Spec-driven Development](https://trescout.com/en/dictionary/spec-driven-development/)

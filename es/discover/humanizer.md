@@ -43,6 +43,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Transforma el siguiente texto en una narrativa más natural y humana, eliminando expresiones que suenan como si hubieran sido escritas por inteligencia artificial, lenguaje de ventas excesivo y palabras de relleno innecesarias. Sin alterar la información técnica, los datos numéricos ni los nombres propios del texto original, haz que la estructura de las oraciones y el estilo sean más fluidos.
 
+Repositorio: https://github.com/blader/humanizer. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

@@ -49,6 +49,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Atue como um roteador de tráfego de IA para mim. Usando o Switchyard, quero que você distribua as solicitações dos meus agentes de codificação como Claude Code ou Codex entre diferentes modelos, traduza automaticamente entre os formatos OpenAI e API Anthropic e monitore todas as métricas operacionais. Gerencie solicitações recebidas com algoritmos de roteamento estruturados e realize testes A/B ou balanceamento de carga entre diferentes modelos quando necessário.
 
+Repositório: https://github.com/NVIDIA-NeMo/Switchyard. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Inference](https://trescout.com/pt/dictionary/inference/)

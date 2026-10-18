@@ -22,6 +22,7 @@ Para comenzar a utilizar la herramienta, puede consultar la lista de mods dispon
 
 - [HLSL](https://trescout.com/es/dictionary/hlsl/)
 - [HDR](https://trescout.com/es/dictionary/hdr/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para jugadores y desarrolladores que deseen actualizar sus juegos antiguos para ofrecer una experiencia visual de mayor calidad con tecnologías de pantalla modernas.
 - **Licencia:** MIT

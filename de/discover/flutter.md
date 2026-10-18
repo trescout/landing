@@ -51,6 +51,7 @@ Um mit der Entwicklung mit Flutter zu beginnen, müssen Sie die offizielle Websi
 - [User Interface](https://trescout.com/de/dictionary/user-interface/)
 - [Interface](https://trescout.com/de/dictionary/interface/)
 - [Framework](https://trescout.com/de/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Softwareentwickler, die Anwendungen für mehrere Plattformen gleichzeitig aus einer einzigen Codebasis entwickeln möchten.
 - **Lizenz:** BSD-3-Clause

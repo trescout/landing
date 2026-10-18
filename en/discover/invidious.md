@@ -75,6 +75,7 @@ What are the differences between using a public Invidious instance and hosting m
 - [Companion](https://trescout.com/en/dictionary/companion/)
 - [RAM](https://trescout.com/en/dictionary/ram/)
 - [API](https://trescout.com/en/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

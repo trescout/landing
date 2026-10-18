@@ -41,6 +41,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Octop platformunda çok kullanıcılı ve çok ajanlı bir çalışma ortamı kurmak istiyorum. Kişisel asistanım, aile üyelerim veya küçük ekip arkadaşlarım için farklı uzmanlıklara sahip ajanlar tanımlayarak, bu ajanların yerel verilerim üzerinde güvenli bir şekilde çalışmasını ve web arayüzü veya mesajlaşma kanalları üzerinden benimle iş birliği yapmasını sağla. Ajanların MBTI kişilik özelliklerini yapılandır, RAG (Retrieval-Augmented Generation - belgelerden anlamlı bilgi getiren teknoloji) ile özel belgelerimden yanıt üretmelerini sağla ve görevlerimi otomatize et.
 
+Depo: https://github.com/TencentCloud/Octop. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi sunucusunda gizliliğe önem veren, çok sayıda yapay zekâ ajanını tek bir merkezden yönetmek isteyen bireyler ve küçük ekipler için uygundur.
 - **Lisans:** MIT
 

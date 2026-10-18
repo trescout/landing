@@ -57,6 +57,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 PLFM RADAR projesinin 10.5 GHz faz dizili donanım şemalarını ve FPGA sinyal işleme bloklarını incelemek istiyorum. FMCW cıvıltı sinyali üretimini, Menzil-Doppler 2D FFT hesaplamasını ve Python tabanlı PPI radar ekranına veri aktarımını açıklayan bir simülasyon Python betiği hazırlar mısın? Yapay bir hedef için mesafe ve hız tespit algoritmasını adım adım gösterir misin?
 
+Depo: https://github.com/NawfalMotii79/PLFM_RADAR. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Radar araştırmacıları, savunma sanayii mühendisleri, drone geliştiricileri ve RF/SDR meraklıları.
 - **Lisans:** Açık kaynak donanım ve yazılım lisansı
 - **Frekans Bandı:** 10.5 GHz (X-Band) FMCW

@@ -45,6 +45,7 @@ Pour commencer à utiliser Keycloak, vous devez télécharger le package de dist
 
 - [Containers](https://trescout.com/fr/dictionary/containers/)
 - [Container](https://trescout.com/fr/dictionary/container/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs de logiciels et aux administrateurs système qui souhaitent gérer de manière centralisée et sécurisée les processus d'authentification des utilisateurs et de gestion des accès dans leurs applications.
 - **Licence:** Apache-2.0

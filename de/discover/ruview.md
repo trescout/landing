@@ -80,6 +80,7 @@ Wie kann ich ein einfaches Szenario zur Bewegungserkennung mit simulierten WiFi-
 
 - [WiFi](https://trescout.com/de/dictionary/wifi/)
 - [Benchmark](https://trescout.com/de/dictionary/benchmark/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

@@ -24,6 +24,7 @@ Cet outil n'est pas une bibliothèque logicielle mais une ressource pédagogique
 ## Termes liés du glossaire
 
 - [System Design](https://trescout.com/fr/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient à ceux qui se préparent à des entretiens en génie logiciel et à toute personne curieuse de savoir comment fonctionnent les systèmes en arrière-plan.
 

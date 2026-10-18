@@ -2,16 +2,16 @@
 
 Développée pour les plateformes Grok Build, Grok Web et Grok Console, cette passerelle (passerelle API) regroupe la gestion multi-comptes dans un centre unique. Écrit en langage Go, l'outil offre une interface gérable en standardisant l'accès des utilisateurs aux différents services Grok.
 
-- ★ 7 669
+- ★ 7 817
 - Go
 - GitHub Trending · 2026-07-15
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 7,669 → 7,817, dernière version v3.1.7 (18 octobre 2026).
 - **16 septembre 2026:** Étoiles 7,543 → 7,669, dernière version v3.1.6 (16 septembre 2026).
 - **27 août 2026:** Étoiles 7,459 → 7,543, dernière version v3.1.5 (25 août 2026).
 - **19 août 2026:** Étoiles 7,447 → 7,459, dernière version v3.1.4 (19 août 2026).
-- **18 août 2026:** Étoiles 7,239 → 7,447, dernière version v3.1.3 (17 août 2026).
 
 ## Ce que ça vous apporte
 
@@ -51,6 +51,16 @@ docker compose down
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'ai terminé l'installation de Grok2API et me suis connecté au panneau d'administration. Maintenant, comment puis-je définir mes comptes Grok Build, Web ou Console sur le système, comment puis-je effectuer des correspondances de modèles et quelles étapes puis-je suivre pour générer la clé API pour une utilisation externe ? Veuillez expliquer ce processus étape par étape.
+
+Dépôt : https://github.com/chenyme/grok2api. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

@@ -39,6 +39,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ajude-me a gerenciar tarefas de download usando a interface de linha de comando do Motrix. Use 'motrix list' para visualizar a lista de downloads, 'motrix add [URL] --save-dir [DIRECTORY]' para adicionar um novo arquivo e 'motrix watch --stats' para rastrear o progresso do download ao vivo. Se eu precisar me conectar a um servidor remoto, ative o comando 'motrix pair'.
 
+Repositório: https://github.com/agalwood/Motrix. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Download Manager](https://trescout.com/pt/dictionary/download-manager/)

@@ -43,6 +43,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite accélérer certains calculs Delta Attention à l'aide de l'outil FlashKDA. Comment puis-je optimiser le mécanisme d'attention de mon modèle en utilisant la fonction chunk_kda sous torch.inference_mode(), intégrée à la bibliothèque flash-linear-attention ? Veuillez créer un exemple d'application, en tenant compte des paramètres nécessaires et de la configuration matérielle requise auxquels je dois prêter attention.
 
+Dépôt : https://github.com/MoonshotAI/FlashKDA. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Kernels](https://trescout.com/fr/dictionary/kernels/)

@@ -24,6 +24,7 @@ Dieses Repository wurde erstellt, um die ursprünglichen Quellcodes des bei der 
 
 - [Guidance Computer](https://trescout.com/de/dictionary/guidance-computer/)
 - [Assembly](https://trescout.com/de/dictionary/assembly/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Forscher und Technologiebegeisterte, die sich für Luftfahrtgeschichte und Software-Engineering-Hintergrund interessieren.
 

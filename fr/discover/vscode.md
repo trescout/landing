@@ -29,6 +29,7 @@ Vous pouvez le télécharger depuis le site web de Visual Studio Code pour les s
 
 - [Code Editor](https://trescout.com/fr/dictionary/code-editor/)
 - [Editor](https://trescout.com/fr/dictionary/editor/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux développeurs de logiciels souhaitant regrouper les processus d'édition de code, de navigation et de débogage léger sous un même toit.
 - **Licence:** MIT

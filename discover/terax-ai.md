@@ -32,6 +32,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terax içerisindeki yapay zekâ panelini kullanarak projeme özel sistem istemleri oluştur ve TERAX.md dosyası üzerinden proje hafızasını yönet. Kod düzenlemeleri için yapay zekâ destekli farkları kabul et veya reddet, plan modunu kullanarak çok adımlı görevleri onay alarak gerçekleştir.
 
+Depo: https://github.com/crynta/terax-ai. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Terminal üzerinden ayrılmadan yapay zekâ destekli kodlama yapmak isteyen geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
 

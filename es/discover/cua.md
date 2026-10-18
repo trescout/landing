@@ -2,16 +2,16 @@
 
 CUA proporciona una infraestructura de código abierto para agentes de inteligencia artificial con capacidad informática. Reúne sandbox, kit de desarrollo de software (SDK) y herramientas de referencia bajo un mismo techo con el fin de capacitar y evaluar agentes que puedan controlar los sistemas operativos de escritorio.
 
-- ★ 29.921
+- ★ 30.064
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 29,921 → 30,064, última versión cua-spaces-v0.9.4 (18 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 29,802 → 29,921, última versión cua-spaces-v0.9.3 (16 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 29,690 → 29,802, última versión cua-spaces-v0.9.2 (15 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 29,597 → 29,690, última versión cua-spaces-v0.8.0 (14 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 28,129 → 29,597, última versión cua-sdk-v0.4.1 (5 de octubre de 2026).
 
 ## Qué aporta
 
@@ -50,6 +50,14 @@ lume run macos-sequoia-vanilla:latest
 Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero desarrollar un agente de uso de computadora utilizando la infraestructura CUA. Ayúdenme a configurar la estructura básica de Python que permitirá a mi agente interactuar con aplicaciones de escritorio en segundo plano, hacer clic con el mouse y enviar entradas de teclado. Cree un boceto de código de muestra que ejecute comandos y tome capturas de pantalla en un entorno Linux utilizando el SDK de CUA Sandbox.
+
+Repositorio: https://github.com/trycua/cua. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
 
 ## Términos relacionados del glosario
 

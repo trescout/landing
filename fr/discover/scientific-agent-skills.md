@@ -2,15 +2,15 @@
 
 Scientific-agent-skills est une bibliothèque de capacités prêtes à l'emploi qui adapte les agents d'intelligence artificielle aux processus de recherche scientifique. Elle propose 163 capacités vérifiées et plus de 100 bases de données dans les domaines de la biologie, de la chimie et de la médecine, et fonctionne de manière intégrée avec des plateformes telles que l'éditeur de code Cursor ou l'assistant d'intelligence artificielle Claude Code.
 
-- ★ 49 814
+- ★ 52 471
 - GitHub Trending · 2026-08-26
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 49,814 → 52,471, dernière version v2.72.0 (1 octobre 2026).
 - **15 octobre 2026:** Étoiles 47,342 → 49,814, dernière version v2.72.0 (1 octobre 2026).
 - **2 octobre 2026:** Étoiles 47,133 → 47,342, dernière version v2.72.0 (1 octobre 2026).
 - **29 septembre 2026:** Étoiles 46,808 → 47,133, dernière version v2.70.0 (29 septembre 2026).
-- **27 septembre 2026:** Étoiles 44,519 → 46,808, dernière version v2.69.0 (11 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -31,6 +31,14 @@ npx skills add K-Dense-AI/scientific-agent-skills
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Commencez à utiliser les 166 capacités prêtes à l'emploi et les connexions aux bases de données de la bibliothèque pour m'aider dans mes processus de recherche scientifique.
+
+Dépôt : https://github.com/K-Dense-AI/scientific-agent-skills. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

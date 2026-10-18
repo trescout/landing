@@ -2,17 +2,17 @@
 
 **pi-subagents**, Pi platformu üzerinde **asenkron alt-ajan delegasyonu** süreçlerini yönetmek için geliştirilmiş bir TypeScript kütüphanesidir. Karmaşık iş yüklerini alt-ajanlara dağıtmayı kolaylaştırır.
 
-- ★ 3.942
+- ★ 3.948
 - TypeScript
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 3.942 → 3.948, son sürüm v0.79.1 (18 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 3.919 → 3.942, son sürüm v0.79.0 (17 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 3.893 → 3.919, son sürüm v0.78.0 (13 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 3.862 → 3.893, son sürüm v0.77.0 (10 Ekim 2026).
-- **6 Ekim 2026:** Yıldız 3.850 → 3.862, son sürüm v0.76.1 (6 Ekim 2026).
 
 - **Kimin için:** Pi platformunda ajan geliştirenler
 - **Zorluk:** İleri · geliştirici kütüphanesi
@@ -31,6 +31,14 @@
 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 'pi install npm:pi-subagents' komutuyla bu paketi kur, sonra '/run reviewer' ile bir kod incelemesi yaptır ya da '/parallel' ile birden çok uzman alt-ajanı (örn. inceleyici, planlayıcı) aynı anda çalıştırarak işi onlara dağıt.
+
+Depo: https://github.com/nicobailon/pi-subagents. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 **Pi ile kur**
 

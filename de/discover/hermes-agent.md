@@ -41,6 +41,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte bei der Arbeit mit Hermes Agent vom autonomen Lernzyklus profitieren. Welche Befehle sollte ich verwenden, damit sich das System an meine vergangenen Gespräche erinnert, durch Aufgaben neue Fähigkeiten schafft und mit der Zeit personalisiert wird? Können Sie mir bitte die grundlegenden Schritte erläutern, die ich befolgen muss, insbesondere um zwischen verschiedenen Modellen zu wechseln und Messaging-Plattformen mit dem System zu verbinden?
 
+Repository: https://github.com/NousResearch/hermes-agent. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Autonomous Agent](https://trescout.com/de/dictionary/autonomous-agent/)

@@ -43,6 +43,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilimsel araştırma sürecimde bana yardımcı ol. Literatür taraması yaparken, hipotez geliştirirken ve veri analizi süreçlerinde Python veya R kodları yazarak bana destek ver. Araştırma hedeflerimi anlayıp dosyaları okuyarak, web üzerinde arama yaparak ve bilimsel verileri sorgulayarak izlenebilir sonuçlar, tablolar ve grafikler üret.
 
+Depo: https://github.com/aipoch/open-science. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Bilimsel araştırmalarını tekrarlanabilir kılmak, veri analizlerini otomatize etmek ve yapay zekâ destekli bir çalışma ortamında literatür takibi yapmak isteyen araştırmacılar ve bilim insanları içindir.
 - **Lisans:** Apache-2.0
 

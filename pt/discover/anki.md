@@ -27,6 +27,7 @@ Para começar a usar o aplicativo Anki, você pode visitar o site oficial em app
 
 - [Spaced Repetition](https://trescout.com/pt/dictionary/spaced-repetition/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para quem está aprendendo um novo idioma, profissionais em áreas que exigem muito conhecimento, como medicina ou direito, e qualquer pessoa que não queira esquecer o que aprendeu.
 

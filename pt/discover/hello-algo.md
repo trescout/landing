@@ -27,6 +27,7 @@ Para começar a usar a plataforma Hello Algo, você pode visitar o site oficial 
 ## Termos relacionados do glossário
 
 - [PDF](https://trescout.com/pt/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É para estudantes de desenvolvimento de software e iniciantes que desejam entrar no mundo das estruturas de dados e algoritmos.
 

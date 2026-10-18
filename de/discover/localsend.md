@@ -50,6 +50,7 @@ Wie kann ich ein Foto von meinem Computer an mein Telefon im selben lokalen Netz
 ## Verwandte Begriffe aus dem Glossar
 
 - [API](https://trescout.com/de/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

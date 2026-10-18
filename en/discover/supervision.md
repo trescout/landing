@@ -48,6 +48,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I installed the library with the pip install supervision command in a Python 3.9 or above environment. I want to visualize object detection results and manage my dataset in my computer vision project. How can I mark object detection results on an image using the Supervision library and how can I load and convert datasets in different formats (COCO, YOLO, etc.)? Please help me create a sample workflow using the annotator and dataset helper tools provided by the library.
 
+Repository: https://github.com/roboflow/supervision. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Computer Vision](https://trescout.com/en/dictionary/computer-vision/)

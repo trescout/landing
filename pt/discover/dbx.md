@@ -2,16 +2,16 @@
 
 Desenvolvido com a linguagem Rust, o dbx oferece um cliente de banco de dados leve de 25 MB que suporta mais de 100 tipos de bancos de dados. A aplicação desktop inclui recursos como suporte a interface de linha de comando (CLI) e Docker, além de um assistente de inteligência artificial integrado e o Protocolo de Conexão de Modelo (MCP).
 
-- ★ 27.027
+- ★ 27.082
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 27,027 → 27,082, versão mais recente v0.6.47 (17 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 26,967 → 27,027, versão mais recente v0.6.46 (16 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 26,784 → 26,967, versão mais recente v0.6.45 (15 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 26,630 → 26,784, versão mais recente v0.6.44 (14 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 25,978 → 26,630, versão mais recente v0.6.43 (14 de outubro de 2026).
 
 ## O que você ganha
 
@@ -64,6 +64,14 @@ Se desejar executar com Docker, utilize o comando:
 docker run -d --pull=always --name dbx -p 4224:4224 \
 -v dbx-data:/app/data \
 t8y2/dbx:latest
+
+Repositório: https://github.com/t8y2/dbx. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

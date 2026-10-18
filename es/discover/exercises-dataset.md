@@ -26,6 +26,7 @@ Esta herramienta no requiere ninguna instalación. Después de descargar los arc
 ## Términos relacionados del glosario
 
 - [API](https://trescout.com/es/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores de software que desarrollan aplicaciones en el campo de las tecnologías deportivas e investigadores orientados al fitness.
 

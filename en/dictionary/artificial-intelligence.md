@@ -44,13 +44,13 @@ Artificial intelligence will change the way many jobs are done, but will general
 ## Related tools
 
 - [Build Your Own X](https://trescout.com/en/discover/build-your-own-x/)
+- [Awesome](https://trescout.com/en/discover/awesome/)
+- [Public Apis](https://trescout.com/en/discover/public-apis/)
+- [freeCodeCamp](https://trescout.com/en/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/en/discover/openclaw/)
+- [System Design Primer](https://trescout.com/en/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/en/discover/coding-interview-university/)
-- [Superpowers](https://trescout.com/en/discover/superpowers/)
 - [REA](https://trescout.com/en/discover/rea/)
-- [ECC](https://trescout.com/en/discover/ecc/)
-- [Hermes Agent](https://trescout.com/en/discover/hermes-agent/)
-- [Opencode](https://trescout.com/en/discover/opencode/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/artificial-intelligence/)
 

@@ -75,6 +75,7 @@ Welche Unterschiede gibt es zwischen der Nutzung einer öffentlichen Invidious-I
 - [Companion](https://trescout.com/de/dictionary/companion/)
 - [RAM](https://trescout.com/de/dictionary/ram/)
 - [API](https://trescout.com/de/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

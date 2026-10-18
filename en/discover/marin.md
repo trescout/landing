@@ -78,6 +78,7 @@ Run training of a small model on CPU with the offline TinyStories flow as an ini
 
 - [CPU](https://trescout.com/en/dictionary/cpu/)
 - [GPU](https://trescout.com/en/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

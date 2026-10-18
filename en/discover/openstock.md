@@ -2,17 +2,17 @@
 
 OpenStock is an open source alternative to expensive exchange platforms. It offers real-time price tracking, personalized alerts and company analytics. It is accessible to everyone and free forever.
 
-- ★ 20,317
+- ★ 20,333
 - TypeScript
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
 ## Updates
 
+- **October 18, 2026:** Stars 20,317 → 20,333, latest release v2026.10.18 (October 18, 2026).
 - **October 17, 2026:** Stars 19,315 → 20,317.
 - **September 27, 2026:** Stars 15,130 → 19,315.
 - **September 18, 2026:** Stars 14,018 → 15,130.
-- **August 2, 2026:** Stars 11,968 → 14,018.
 
 ## What you get
 
@@ -48,6 +48,16 @@ You can use the ready-made site (openstock-ods.vercel.app) directly or install i
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me install an open source stock tracking application called OpenStock; Download the repository with 'git clone https://github.com/Open-Dev-Society/OpenStock.git', 'cd OpenStock' and run 'pnpm install', set the necessary .env variables and start the development server with 'pnpm dev' and open it at http://localhost:3000.
+
+Repository: https://github.com/Open-Dev-Society/OpenStock. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+If an API key is required, do not ask me to type it into the chat. Show me how to add it to the .env file and ensure this file is not pushed to Git.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

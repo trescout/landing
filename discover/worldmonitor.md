@@ -48,6 +48,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Worldmonitor aracını kullanarak küresel haber akışlarını, jeopolitik gelişmeleri ve altyapı verilerini analiz etmemi sağla. 500'den fazla haber kaynağını sentezleyerek askeri, ekonomik ve çevresel olaylar arasındaki korelasyonları belirle. Ülke istikrarsızlık endeksi ve finansal piyasa sinyalleri gibi verileri kullanarak durum farkındalığı oluştur ve karmaşık veri akışlarını görselleştirme konusunda rehberlik et.
 
+Depo: https://github.com/koala73/worldmonitor. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Küresel gelişmeleri, jeopolitik riskleri ve finansal piyasa verilerini tek bir merkezden takip etmek isteyen analiz odaklı kullanıcılar içindir.
 
 ## Bağlantılar

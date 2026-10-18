@@ -46,6 +46,7 @@ Visitez la page de documentation officielle pour les détails d'installation et 
 ## Termes liés du glossaire
 
 - [Self-hosted](https://trescout.com/fr/dictionary/self-hosted/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent gérer leurs propres archives photo et vidéo sur leur propre infrastructure sans dépendre des services cloud.
 - **Licence:** AGPL-3.0

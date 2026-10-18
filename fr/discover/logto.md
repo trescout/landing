@@ -40,6 +40,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite mettre en place un système d'authentification sécurisé pour mon application à l'aide de Logto. Comment puis-je configurer des fonctionnalités de contrôle d'accès mutualisé et basé sur les rôles dans cette structure basée sur les protocoles OIDC et OAuth 2.1 ? Pouvez-vous expliquer les étapes de base que je dois suivre pour gérer les flux de connexion des utilisateurs et l'intégration du SSO d'entreprise dans mon projet SaaS ?
 
+Dépôt : https://github.com/logto-io/logto. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [OIDC](https://trescout.com/fr/dictionary/oidc/)

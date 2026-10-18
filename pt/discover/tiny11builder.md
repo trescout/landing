@@ -22,6 +22,10 @@ Baixe o arquivo compactado adequado para o seu sistema de computador na página 
 
 - [Fonte oficial →](https://github.com/ntdevlabs/tiny11builder/releases/latest)
 
+## Termos relacionados do glossário
+
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
 - **Para quem é:** É para usuários que desejam livrar o sistema operacional Windows 11 de componentes desnecessários e torná-lo mais leve.
 
 ## Links

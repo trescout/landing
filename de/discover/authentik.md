@@ -25,6 +25,10 @@ Besuchen Sie zur Installation die Dokumentationsseite auf der offiziellen Websit
 
 - [Offizielle Quelle →](https://goauthentik.io)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler und Systemadministratoren, die ihren Anwendungen ein sicheres und zentralisiertes Authentifizierungssystem hinzufügen möchten.
 
 ## Links

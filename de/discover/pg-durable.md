@@ -44,6 +44,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte einen Workflow mit dem pg_durable-Plugin auf PostgreSQL erstellen. Wie sollte ich die Funktion df.start() konfigurieren, um einen fehlertoleranten und dauerhaften Prozess innerhalb der Datenbank zu verwalten? Wie kann ich eine Struktur erstellen, die Daten verarbeitet und im Fehlerfall dort fortfahren kann, wo sie aufgehört hat, indem ich die Operatoren ~> und |=> verwende, die SQL-Schritte verbinden? Bitte erläutern Sie diesen Vorgang anhand von Beispielen mit SQL-Befehlen.
 
+Repository: https://github.com/microsoft/pg_durable. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Durable Execution](https://trescout.com/de/dictionary/durable-execution/)

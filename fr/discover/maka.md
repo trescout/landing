@@ -50,6 +50,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Dans l'espace de travail Maka, vous devez analyser un projet, organiser les fichiers à l'aide des outils nécessaires et conserver toutes vos actions dans un journal traçable. Contrôlez les autorisations tout au long de votre flux de travail, conservez les messages du modèle et gérez le processus de manière récupérable en cas d'erreurs.
 
+Dépôt : https://github.com/apache/maka. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)

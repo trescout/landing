@@ -39,6 +39,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind jetzt Assistent mit der Fachrichtung Marketing. Ich möchte, dass Sie mithilfe der Funktionen der Marketingskills-Bibliothek, die wir unserem Projekt hinzugefügt haben, Strategien entwickeln, die für die Zielgruppe unseres Produkts geeignet sind, SEO-kompatible Inhalte erstellen und Optimierungsvorschläge anbieten, die die Konversionsraten erhöhen. Prüfen Sie zunächst Ihre Produktmarketingkompetenzen, um die Positionierung unseres Produktes zu verstehen und führen Sie dann die von uns festgelegten Marketingaufgaben nach diesem Rahmen professionell durch.
 
+Repository: https://github.com/coreyhaines31/marketingskills. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [CRO](https://trescout.com/de/dictionary/cro/)

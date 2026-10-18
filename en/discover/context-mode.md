@@ -47,6 +47,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 My AI agent, from now on, instead of performing data processing tasks directly, I want you to write and execute the code that will analyze this data. Use context-mode tools to minimize data size, keep my session history in SQLite, and report only the necessary results to me. Avoid unnecessary explanations and focus solely on code generation and efficient context management.
 
+Repository: https://github.com/mksglu/context-mode. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Context Window Optimization](https://trescout.com/en/dictionary/context-window-optimization/)

@@ -32,6 +32,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen artık benim sanal mühendislik ekibimsin. Gstack araçlarını kullanarak projemi analiz et, /office-hours ile stratejimi belirle, /autoplan ile iş planımı oluştur ve /review ile kod kalitesini denetle. Yazılım geliştirme sürecinde bir CEO, tasarımcı ve mühendislik yöneticisi gibi davranarak tüm aşamaları otomatize et.
 
+Depo: https://github.com/garrytan/gstack. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yazılım geliştirme süreçlerini hızlandırmak isteyen kurucular, teknik liderler ve Claude Code kullanıcıları için tasarlanmıştır.
 - **Lisans:** MIT
 

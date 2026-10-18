@@ -49,6 +49,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Desejo criar um túnel TCP usando a ferramenta OpenFlux. Explique passo a passo as etapas de compilação necessárias para executar o cliente no meu computador desktop e, em seguida, como configurar as definições de proxy SOCKS5 no navegador. Além disso, ao configurar um nó de saída (exit node) em um servidor Linux, especifique com detalhes técnicos por que é necessário bloquear pacotes RST com iptables e qual o impacto dessa operação na segurança da rede.
 
+Repositório: https://github.com/p1neappleXpress/OpenFlux. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Pluggable Transports](https://trescout.com/pt/dictionary/pluggable-transports/)

@@ -6,6 +6,10 @@ Wifit3 es una herramienta de Python desarrollada para probar la seguridad de red
 - Python
 - GitHub Trending · 2026-09-26
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 ## Enlaces
 
 - [Repositorio en GitHub →](https://github.com/derv82/wifit3)

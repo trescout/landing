@@ -26,6 +26,7 @@ To create a virtual machine for this tool, you can review the instructions in th
 ## Related dictionary terms
 
 - [Runner Images](https://trescout.com/en/dictionary/runner-images/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for developers who automate their software testing and deployment processes.
 - **License:** MIT

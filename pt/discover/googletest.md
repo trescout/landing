@@ -59,6 +59,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Gostaria de escrever testes unitários para uma classe de analisador (parser) de dados usando GoogleTest e GoogleMock em um projeto C++ moderno. Poderia explicar com exemplos de código como configurar meu arquivo CMakeLists.txt, um exemplo de fixture de teste TEST_F e como criar um objeto mock com MOCK_METHOD e validar expectativas de chamada?
 
+Repositório: https://github.com/google/googletest. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - Qual é a maneira mais moderna de incluir o GoogleTest em um projeto? Em projetos CMake modernos, o mecanismo FetchContent é a abordagem mais recomendada. Ele baixa o código-fonte e o integra ao processo de compilação de destino sem a necessidade de um gerenciador de pacotes externo.

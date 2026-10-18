@@ -53,6 +53,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Como agente de desarrollo de software, necesito que usted administre mis procesos de generación de código de lenguaje natural, depuración o planificación de arquitectura en mi directorio de proyectos actual. Quiero que elijas el que mejor se adapta a mi tarea entre los más de 500 modelos que ofrece Kilo, revises los códigos que has escrito con tu propio mecanismo de autoauditoría y los entregues de acuerdo con los estándares de rendimiento y seguridad.
 
+Repositorio: https://github.com/Kilo-Org/kilocode. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Agentic Engineering Platform](https://trescout.com/es/dictionary/agentic-engineering-platform/)

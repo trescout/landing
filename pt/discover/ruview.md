@@ -80,6 +80,7 @@ Como posso avaliar um cenário simples de detecção de movimento usando dados C
 
 - [WiFi](https://trescout.com/pt/dictionary/wifi/)
 - [Benchmark](https://trescout.com/pt/dictionary/benchmark/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 ## Links
 

@@ -33,6 +33,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso otimizar o gerenciamento de cache KV para modelos de linguagem grandes usando a biblioteca LMCache? Quais são as etapas básicas que devo seguir após a instalação para aumentar o desempenho e tornar o uso de memória eficiente, especialmente em consultas de contexto longo? Explique como posso integrar esta camada ao meu sistema de inferência existente, considerando o princípio de funcionamento independente do mecanismo declarado na documentação.
 
+Repositório: https://github.com/LMCache/LMCache. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [KV Cache](https://trescout.com/pt/dictionary/kv-cache/)

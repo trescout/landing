@@ -47,6 +47,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite restreindre la réponse d'un modèle d'IA à une structure de données Pydantic spécifique ou à un type Python (par exemple int ou Literal) à l'aide de la bibliothèque Outlines. Comment puis-je utiliser la fonction model(request, output_type) après avoir défini l'objet modèle pour garantir que la sortie du modèle est toujours conforme au schéma souhaité ? Veuillez expliquer avec un exemple comment définir le modèle Pydantic pour les objets complexes et appliquer cette structure à la sortie du modèle.
 
+Dépôt : https://github.com/dottxt-ai/outlines. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

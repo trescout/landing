@@ -55,6 +55,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Protocol Buffers](https://trescout.com/dictionary/protocol-buffers/)
 - [Binary](https://trescout.com/dictionary/binary/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/protobuf/

@@ -62,6 +62,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 MiniMind deposunu kullanarak PyTorch ile sıfırdan 64M parametreli bir dil modeli eğitmek istiyorum. Kendi Türkçe metin veri kümeme göre tokenizer'ı nasıl hazırlayacağımı, 1-pretrain.py betiğini nasıl çalıştıracağımı ve ardından LoRA ile nasıl ince ayar yapacağımı adım adım açıklar mısın?
 
+Depo: https://github.com/jingyaogong/minimind. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ araştırmacıları, makine öğrenimi mühendisleri, veri bilimciler ve öğrenciler.
 - **Lisans:** Apache-2.0 (Açık kaynak lisansı)
 - **Çatı:** PyTorch Tabanlı Minimalist LLM Çatısı

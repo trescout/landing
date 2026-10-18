@@ -6,6 +6,10 @@ Paperless-ngx es un sistema de gestión de documentos que digitaliza, indexa y a
 - Python
 - GitHub Trending · 2026-09-21
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 ## Enlaces
 
 - [Repositorio en GitHub →](https://github.com/paperless-ngx/paperless-ngx)

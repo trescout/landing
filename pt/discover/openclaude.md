@@ -40,6 +40,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero otimizar meu fluxo de trabalho baseado em terminal enquanto trabalho no OpenClaude. Crie um plano de trabalho para aumentar minha produtividade em tarefas de codificação usando ferramentas de arquivo, o recurso de busca grep e a integração com o MCP (Model Context Protocol). Além disso, explique passo a passo como configurar minhas definições de provedor com o comando `/provider` e como incluir modelos do GitHub.
 
+Repositório: https://github.com/Gitlawb/openclaude. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol/)

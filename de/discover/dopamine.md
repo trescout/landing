@@ -25,6 +25,10 @@ Um mit der Verwendung des Dopamin-Tools zu beginnen, können Sie die offizielle 
 
 - [Offizielle Quelle →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die Administratorrechte haben möchten, indem sie Systembeschränkungen auf ihren iOS-Geräten umgehen.
 - **Lizenz:** MIT
 

@@ -2,15 +2,15 @@
 
 Oh-my-pi is an artificial intelligence coding agent that runs in a terminal environment and automates code editing processes. The tool aims to optimize software development workflows with features such as language server protocol (LSP), browser integration, and subagent management.
 
-- ★ 35,712
+- ★ 35,803
 - GitHub Trending · 2026-06-02
 
 ## Updates
 
+- **October 18, 2026:** Stars 35,712 → 35,803, latest release v18.12.1 (October 17, 2026).
 - **October 17, 2026:** Stars 35,537 → 35,712, latest release v18.11.3 (October 16, 2026).
 - **October 15, 2026:** Stars 35,495 → 35,537, latest release v18.11.1 (October 15, 2026).
 - **October 15, 2026:** Stars 35,383 → 35,495, latest release v18.11.0 (October 14, 2026).
-- **October 14, 2026:** Stars 35,198 → 35,383, latest release v18.10.4 (October 13, 2026).
 
 ## What you get
 
@@ -52,6 +52,14 @@ omp completions fish > ~/.config/fish/completions/omp.fish
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I started using the Oh My Pi tool on my terminal. How can I optimize my workflow by using advanced features such as LSP support, debugging, and subagent management in my projects with this AI coding agent? Explain step by step how to use the built-in tools this tool offers in the most efficient way, especially in code editing, file reading and debugging.
+
+Repository: https://github.com/can1357/oh-my-pi. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

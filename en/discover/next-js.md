@@ -48,6 +48,7 @@ To start working with Next.js, you can visit the official website nextjs.org and
 - [Rendering](https://trescout.com/en/dictionary/rendering/)
 - [Framework](https://trescout.com/en/dictionary/framework/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for developers who want to develop modern and scalable web applications based on React.
 - **License:** MIT

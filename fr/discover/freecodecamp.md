@@ -20,6 +20,10 @@ freeCodeCamp n'est pas un outil logiciel, mais une plateforme d'apprentissage ba
 
 - [Source officielle →](https://contribute.freecodecamp.org)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il s'adresse à tous ceux qui souhaitent se lancer dans le monde du logiciel ou qui souhaitent améliorer leurs compétences techniques existantes avec des projets gratuits et pratiques.
 - **Licence:** BSD-3-Clause
 

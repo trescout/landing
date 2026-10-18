@@ -46,6 +46,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstellen Sie mithilfe der OpenViking-Datenbank ein Kontextmanagement für einen Agenten für künstliche Intelligenz. Es strukturiert die Informationen über das viking://-Protokoll, indem es die Informationen in L0-Zusammenfassungs-, L1-Übersichts- und L2-Detailschichten unterteilt. Indem der Speicher, die Ressourcen und die Fähigkeiten des Agenten in diesem virtuellen Dateisystem platziert werden, kann er während der Abfrage durch Verzeichnisse navigieren und durch Lernen aus vergangenen Sitzungen ein Langzeitgedächtnis erstellen.
 
+Repository: https://github.com/volcengine/OpenViking. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [RAG](https://trescout.com/de/dictionary/rag/)

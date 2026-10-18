@@ -44,13 +44,13 @@ Yapay zekâ birçok işin yapılış şeklini değiştirecek, ancak genellikle i
 ## İlgili araçlar
 
 - [Build Your Own X](https://trescout.com/discover/build-your-own-x/)
+- [Awesome](https://trescout.com/discover/awesome/)
+- [Public Apis](https://trescout.com/discover/public-apis/)
+- [freeCodeCamp](https://trescout.com/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/discover/openclaw/)
+- [System Design Primer](https://trescout.com/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/discover/coding-interview-university/)
-- [Superpowers](https://trescout.com/discover/superpowers/)
 - [REA](https://trescout.com/discover/rea/)
-- [ECC](https://trescout.com/discover/ecc/)
-- [Hermes Agent](https://trescout.com/discover/hermes-agent/)
-- [Opencode](https://trescout.com/discover/opencode/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

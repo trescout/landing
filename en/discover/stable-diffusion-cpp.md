@@ -9,6 +9,7 @@ Stable-diffusion.cpp is an inference library that runs rendering models (such as
 ## Related dictionary terms
 
 - [Inference](https://trescout.com/en/dictionary/inference/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

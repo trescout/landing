@@ -31,6 +31,7 @@ To start using Omarchy, you can visit omarchy.org and review the installation gu
 - [Script](https://trescout.com/en/dictionary/script/)
 - [Shell](https://trescout.com/en/dictionary/shell/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for users who want to use the Linux operating system in a standard and modern structure.
 - **License:** MIT

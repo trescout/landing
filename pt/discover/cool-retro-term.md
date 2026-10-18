@@ -24,6 +24,7 @@ Para usar a versão mais recente no seu sistema operacional Linux ou macOS, voc�
 
 - [Emulator](https://trescout.com/pt/dictionary/emulator/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Adequado para usuários que buscam uma estética visual nostálgica em seu computador e desejam personalizar sua experiência de terminal.
 

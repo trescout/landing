@@ -24,6 +24,7 @@ Ce référentiel a été créé pour archiver les codes sources originaux de l'o
 
 - [Guidance Computer](https://trescout.com/fr/dictionary/guidance-computer/)
 - [Assembly](https://trescout.com/fr/dictionary/assembly/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux chercheurs et aux passionnés de technologie intéressés par l'histoire de l'aviation et la formation en génie logiciel.
 

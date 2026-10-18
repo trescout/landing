@@ -24,6 +24,7 @@ Pour utiliser la version la plus récente sur votre système d'exploitation Linu
 
 - [Emulator](https://trescout.com/fr/dictionary/emulator/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux utilisateurs qui recherchent une esthétique visuelle nostalgique sur leur ordinateur et qui souhaitent personnaliser leur expérience de terminal.
 

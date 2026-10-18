@@ -36,6 +36,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Uso o OpenWhispr para transcrever minhas notas de voz e gravações de reuniões. Quero criar um ambiente de trabalho focado em privacidade; como posso realizar transcrições da maneira mais eficiente usando modelos locais sem que meus dados de áudio saiam do meu dispositivo, e como posso configurar os recursos de assistente de IA no meu fluxo de trabalho?
 
+Repositório: https://github.com/OpenWhispr/openwhispr. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Whisper](https://trescout.com/pt/dictionary/whisper/)

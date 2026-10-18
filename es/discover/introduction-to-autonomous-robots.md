@@ -26,6 +26,7 @@ Este proyecto contiene los códigos fuente de un libro de texto escrito sobre ro
 
 - [Introduction to Autonomous Robots](https://trescout.com/es/dictionary/autonomous-robots-intro/)
 - [PDF](https://trescout.com/es/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para estudiantes e investigadores que quieran aprender la infraestructura teórica y los principios algorítmicos de los sistemas robóticos autónomos.
 

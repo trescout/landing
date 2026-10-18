@@ -49,6 +49,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer une interface vocale en utilisant la bibliothèque Moonshine. Aidez-moi à créer la structure de code Python de base nécessaire pour convertir le son provenant de mon microphone en texte en temps réel et effectuer des opérations de reconnaissance d'intention sur ce texte. Expliquez également les paramètres de configuration auxquels je dois prêter attention pour que le système fonctionne avec une faible latence.
 
+Dépôt : https://github.com/moonshine-ai/moonshine. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

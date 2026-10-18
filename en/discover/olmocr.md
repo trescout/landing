@@ -38,6 +38,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to convert the PDF documents I have into a clean Markdown format that artificial intelligence models can easily read. Can you explain to me step by step the installation steps required for this process and the method of running it on the local GPU?
 
+Repository: https://github.com/allenai/olmocr. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Markdown](https://trescout.com/en/dictionary/markdown/)

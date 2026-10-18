@@ -23,6 +23,7 @@ Ce guide est un référentiel de documentation sur GitHub. Pour commencer, vous 
 ## Termes liés du glossaire
 
 - [System Design](https://trescout.com/fr/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux ingénieurs logiciels qui se préparent à des entretiens techniques ou qui souhaitent se perfectionner dans l'architecture de systèmes logiciels à grande échelle.
 

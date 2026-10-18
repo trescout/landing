@@ -51,6 +51,7 @@ Visit home-assistant.io to begin setup. You can install the system on your devic
 
 - [Home Automation](https://trescout.com/en/dictionary/home-automation/)
 - [Container](https://trescout.com/en/dictionary/container/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for technology enthusiasts who want to manage their smart home devices via their own server, without cloud dependency.
 - **License:** Apache-2.0

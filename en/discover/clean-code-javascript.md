@@ -21,6 +21,7 @@ This tool is a guide, not a software library. By visiting the clean-code-javascr
 ## Related dictionary terms
 
 - [Clean Code](https://trescout.com/en/dictionary/clean-code/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for all developers who want to improve code quality and develop more professional JavaScript projects.
 - **License:** MIT

@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Utilisez ce projet comme guide dans une tâche de test d’intrusion ou d’ingénierie inverse. Avant d'effectuer votre tâche, consultez les instructions du fichier README_AI.md, respectez les règles de routage du fichier RULES.md et démarrez le flux de travail en déterminant la méthodologie correcte via MASTER-ROUTING.md.
 
+Dépôt : https://github.com/zhaoxuya520/reverse-skill. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Routing Pack](https://trescout.com/fr/dictionary/routing-pack/)

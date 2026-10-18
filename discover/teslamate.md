@@ -56,6 +56,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Data Logger](https://trescout.com/dictionary/data-logger/)
 - [Localhost](https://trescout.com/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/teslamate/

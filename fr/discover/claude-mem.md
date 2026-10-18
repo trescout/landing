@@ -2,17 +2,17 @@
 
 claude-mem permet à vos agents IA d'effectuer des rappels inter-sessions. Il capture tout ce qui se passe au cours d'une session, le transforme en résumés significatifs grâce à l'IA et fournit un contexte pertinent lors de la session suivante. Compatible avec Claude Code, Codex, Gemini, Copilot et OpenCode.
 
-- ★ 101 275
+- ★ 101 496
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 101,275 → 101,496, dernière version v14.0.1 (17 octobre 2026).
 - **17 octobre 2026:** Étoiles 101,166 → 101,275, dernière version v13.41.0 (17 octobre 2026).
 - **16 octobre 2026:** Étoiles 100,574 → 101,166, dernière version v13.40.0 (16 octobre 2026).
 - **14 octobre 2026:** Étoiles 100,384 → 100,574, dernière version v13.39.0 (13 octobre 2026).
-- **13 octobre 2026:** Étoiles 100,313 → 100,384, dernière version v13.38.0 (13 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -37,6 +37,14 @@ Il enregistre automatiquement les actions entreprises par l'agent pendant la ses
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez Claude-Mem en exécutant 'npx claude-mem install' dans le terminal, puis redémarrez Claude Code ; Après cela, la mémoire des sessions précédentes sera automatiquement déplacée vers les nouvelles sessions.
+
+Dépôt : https://github.com/thedotmack/claude-mem. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

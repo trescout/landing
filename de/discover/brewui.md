@@ -33,6 +33,16 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich verwende die BrewUI-Anwendung, um Homebrew-Pakete zu verwalten. Ich möchte Pakete innerhalb der Anwendung sicher entdecken, installieren, aktualisieren und verwalten. Wie kann ich die Paketkonfiguration auf meinem System optimieren und benutzerdefinierte Variablen über die Datei brew.env definieren, indem ich diese Schnittstelle verwende, die mir ermöglicht, die Hintergrundprozesse von Homebrew transparent zu sehen?
 
+Repository: https://github.com/Homebrew/BrewUI. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Falls ein API-Schlüssel erforderlich ist, fordere mich nicht auf, ihn in den Chat zu schreiben. Zeig mir, wie ich ihn zur .env-Datei hinzufüge und stelle sicher, dass diese Datei nicht an Git übertragen wird.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [GUI](https://trescout.com/de/dictionary/gui/)

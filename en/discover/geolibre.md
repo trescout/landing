@@ -38,6 +38,7 @@ You don't need any installation to start using GeoLibre. You can access the web 
 - [GIS](https://trescout.com/en/dictionary/gis/)
 - [Notebooks](https://trescout.com/en/dictionary/notebooks/)
 - [Jupyter Notebooks](https://trescout.com/en/dictionary/jupyter-notebooks/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for researchers, data analysts and map enthusiasts who want to visualize, analyze and explore geographic data.
 - **License:** MIT

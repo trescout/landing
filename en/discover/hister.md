@@ -77,6 +77,7 @@ Open the local interface, index selected pages with the browser extension, and v
 - [MCP](https://trescout.com/en/dictionary/mcp/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

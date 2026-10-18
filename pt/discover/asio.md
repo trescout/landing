@@ -30,6 +30,7 @@ Asio é uma biblioteca C++. Para começar a usá-lo, você pode visitar https://
 
 - [I/O](https://trescout.com/pt/dictionary/io/)
 - [API](https://trescout.com/pt/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores C++ que desejam desenvolver aplicativos de rede assíncronos.
 

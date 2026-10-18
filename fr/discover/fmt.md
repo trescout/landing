@@ -26,6 +26,7 @@ Vous pouvez apprendre à l'intégrer à votre projet en visitant la page de docu
 ## Termes liés du glossaire
 
 - [Compiler](https://trescout.com/fr/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Destiné aux développeurs souhaitant rendre les processus de formatage de texte, d'affichage de données et de journalisation plus rapides et plus sûrs dans les projets C++.
 - **Licence:** MIT

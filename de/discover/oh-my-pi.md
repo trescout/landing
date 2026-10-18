@@ -2,15 +2,15 @@
 
 Oh-my-pi ist ein Codierungsagent mit künstlicher Intelligenz, der in einer Terminalumgebung ausgeführt wird und Codebearbeitungsprozesse automatisiert. Das Tool zielt darauf ab, Softwareentwicklungsabläufe mit Funktionen wie Language Server Protocol (LSP), Browserintegration und Subagentenverwaltung zu optimieren.
 
-- ★ 35.712
+- ★ 35.803
 - GitHub Trending · 2026-06-02
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 35,712 → 35,803, neueste Version v18.12.1 (17. Oktober 2026).
 - **17. Oktober 2026:** Sterne 35,537 → 35,712, neueste Version v18.11.3 (16. Oktober 2026).
 - **15. Oktober 2026:** Sterne 35,495 → 35,537, neueste Version v18.11.1 (15. Oktober 2026).
 - **15. Oktober 2026:** Sterne 35,383 → 35,495, neueste Version v18.11.0 (14. Oktober 2026).
-- **14. Oktober 2026:** Sterne 35,198 → 35,383, neueste Version v18.10.4 (13. Oktober 2026).
 
 ## Was es bringt
 
@@ -52,6 +52,14 @@ omp completions fish > ~/.config/fish/completions/omp.fish
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich habe angefangen, das Oh My Pi-Tool auf meinem Terminal zu verwenden. Wie kann ich meinen Workflow optimieren, indem ich in meinen Projekten erweiterte Funktionen wie LSP-Unterstützung, Debugging und Subagentenverwaltung mit diesem KI-Codierungsagenten verwende? Erklären Sie Schritt für Schritt, wie Sie die integrierten Tools, die dieses Tool bietet, am effizientesten nutzen, insbesondere bei der Codebearbeitung, dem Lesen von Dateien und dem Debuggen.
+
+Repository: https://github.com/can1357/oh-my-pi. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

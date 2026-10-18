@@ -52,6 +52,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero publicar un proyecto usando Openship. Mientras está en el directorio del proyecto, ¿es suficiente conectar el directorio al proyecto con el comando openship init y luego ejecutar el comando openship desplegar? ¿Puedes explicar paso a paso cómo se gestiona automáticamente la base de datos y la configuración SSL en este proceso?
 
+Repositorio: https://github.com/oblien/openship. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Deployment Platform](https://trescout.com/es/dictionary/deployment-platform/)

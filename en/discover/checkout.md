@@ -27,6 +27,7 @@ You can enable the tool to download your repository to the workspace by adding t
 - [Repository Checkout](https://trescout.com/en/dictionary/repository-checkout/)
 - [Checkout](https://trescout.com/en/dictionary/checkout/)
 - [Continuous Integration](https://trescout.com/en/dictionary/continuous-integration/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for software developers who automate continuous integration processes using GitHub Actions.
 - **License:** MIT

@@ -26,6 +26,7 @@ Para obter informações detalhadas sobre a instalação e o uso do Cilium, voc�
 ## Termos relacionados do glossário
 
 - [Observability](https://trescout.com/pt/dictionary/observability/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para administradores de sistemas e engenheiros de DevOps que desejam aumentar a segurança de rede e a observabilidade de aplicativos baseados em contêineres rodando no Kubernetes.
 - **Licença:** Apache-2.0

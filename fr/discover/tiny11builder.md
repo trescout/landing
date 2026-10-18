@@ -22,6 +22,10 @@ Téléchargez le fichier d'archive adapté à votre système informatique depuis
 
 - [Source officielle →](https://github.com/ntdevlabs/tiny11builder/releases/latest)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il est destiné aux utilisateurs qui souhaitent débarrasser le système d'exploitation Windows 11 des composants inutiles pour le rendre plus léger.
 
 ## Liens

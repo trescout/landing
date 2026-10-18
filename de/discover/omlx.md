@@ -70,6 +70,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein natives großes Sprachmodell mithilfe des Omlx-Servers auf meinem Apple Silicon Mac ausführen. Können Sie nach Abschluss der Installation mit Homebrew Schritt für Schritt erklären, wie Sie den Server im Hintergrund ausführen, die Modellauswahl über die Menüleiste verwalten und über den Cursor-Code-Editor oder die Python-OpenAI-Bibliothek eine Verbindung zu diesem lokalen Modell herstellen?
 
+Repository: https://github.com/jundot/omlx. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Häufig gestellte Fragen
 
 - Was ist der Hauptunterschied zwischen Omlx und Ollama? Während Ollama im Allgemeinen die C++-basierte llama.cpp-Infrastruktur nutzt, läuft Omlx direkt auf dem von Apple entwickelten MLX-Framework. Auf diese Weise sorgt es für eine tiefere Integration mit den Metall- und neuronalen Motoreinheiten der Apple Silicon-Chips und sorgt so für eine höhere Token-Generierungsrate, insbesondere bei kontinuierlichem Stapeln und langen Kontexten.

@@ -51,6 +51,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie das Understand Anything-Plugin in Claude Code mit den Befehlen „/plugin marketplace add Lum1104/Understand-Anything“ und „/plugin install verstehen-anything“. Führen Sie dann in meinem Projekt „/understand“ aus, um die Codebasis zu analysieren, und öffnen Sie das interaktive Knowledge-Graph-Panel mit „/understand-dashboard“.
 
+Repository: https://github.com/Lum1104/Understand-Anything. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Warum steht es auf der Tagesordnung?
 
 Denn es steht im Mittelpunkt des Trends „Code und Informationen verstehen, indem man KI fragt“. Es ist nicht nur eine eigenständige Anwendung, sondern ist auch als Add-on zu den von Ihnen verwendeten Assistenten enthalten (z. B. Claude Code, Codex, Gemini CLI). Die Tatsache, dass mehr als 4.700 Entwickler an einem Tag die Hauptrolle spielten, ist ein Beweis für das große Interesse, das es gefunden hat.

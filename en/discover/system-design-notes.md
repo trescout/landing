@@ -27,6 +27,7 @@ This resource is not a software tool, but a collection of notes prepared on syst
 ## Related dictionary terms
 
 - [System Design](https://trescout.com/en/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for engineering candidates preparing for software architecture and system design interviews.
 

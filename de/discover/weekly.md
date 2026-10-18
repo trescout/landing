@@ -17,6 +17,10 @@ Um Technologieinhalte zu lesen oder dazu beizutragen, besuchen Sie die offiziell
 
 - [Offizielle Quelle →](https://github.com/ruanyf/weekly/issues)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Er ist für alle gedacht, die aktuelle Technologien, Innovationen in der Softwarewelt und Karrieremöglichkeiten wöchentlich verfolgen möchten.
 
 ## Links

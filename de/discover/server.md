@@ -2,15 +2,15 @@
 
 Music Assistant ist ein Open-Source-Medienbibliotheksmanager, der verschiedene digitale Streaming-Dienste und angeschlossene Lautsprecher in einer einzigen Oberfläche vereint. Diese Python-basierte Serversoftware ermöglicht den Aufbau eines zentralen Musikmanagementsystems auf ständig in Betrieb befindlichen Geräten.
 
-- ★ 3.158
+- ★ 3.196
 - GitHub Trending · 2026-06-13
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 3,158 → 3,196, neueste Version 2.10.7 (17. Oktober 2026).
 - **9. Oktober 2026:** Sterne 3,128 → 3,158, neueste Version 2.10.6 (9. Oktober 2026).
 - **2. Oktober 2026:** Sterne 3,078 → 3,128, neueste Version 2.10.5 (2. Oktober 2026).
 - **18. September 2026:** Sterne 3,058 → 3,078, neueste Version 2.10.4 (18. September 2026).
-- **12. September 2026:** Sterne 3,029 → 3,058, neueste Version 2.10.3 (11. September 2026).
 
 ## Was es bringt
 
@@ -31,6 +31,14 @@ docker run --network host --privileged -v ma-data:/data ghcr.io/music-assistant/
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich meine digitale Musikbibliothek mit Music Assistant strukturieren? Erstellen Sie nach Abschluss der Einrichtung von Home Assistant eine Schritt-für-Schritt-Anleitung, wie ich verschiedene Streaming-Dienste und meine Lautsprecher in das System einbinden kann.
+
+Repository: https://github.com/music-assistant/server. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

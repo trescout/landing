@@ -24,6 +24,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Le daré una lista de enlaces a sitios inspiradores de carteras personales de desarrolladores de software llamados 'carteras de desarrolladores'. Examine la lista y elija los portafolios más adecuados que pueda tomar como ejemplo según mi profesión, y obtendrá una hoja de ruta sobre cómo configurar mi propio sitio de portafolios. Mi dominio: [ej. desarrollador frontend]. Mi objetivo: [ej. Impresionante cartera para solicitud de empleo].
 
+Repositorio: https://github.com/emmabostian/developer-portfolios. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

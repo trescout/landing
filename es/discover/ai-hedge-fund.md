@@ -48,6 +48,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Esta herramienta utiliza agentes autónomos que imitan las estrategias de inversores famosos como Warren Buffett, Peter Lynch y Michael Burry para analizar los mercados financieros. Al proporcionar ciertos símbolos bursátiles (por ejemplo, AAPL, MSFT) a los agentes de IA, puede examinar cómo estos agentes evalúan los datos del mercado, los indicadores fundamentales y el análisis técnico y toman decisiones con la lógica de un fondo mutuo.
 
+Repositorio: https://github.com/virattt/ai-hedge-fund. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [AI Hedge Fund](https://trescout.com/es/dictionary/ai-hedge-fund/)

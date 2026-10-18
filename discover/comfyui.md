@@ -34,6 +34,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Görsel üretim sürecim için düğüm tabanlı bir iş akışı oluşturmak istiyorum. Lütfen Stable Diffusion veya Flux gibi modelleri kullanarak profesyonel kalitede bir görüntü elde etmemi sağlayacak, giriş düğümünden çıktıya kadar olan mantıksal bağlantıları içeren modüler bir yapı tasarla. İhtiyacım olan temel düğümleri, model yükleme aşamalarını ve parametre optimizasyonlarını adım adım açıkla.
 
+Depo: https://github.com/Comfy-Org/ComfyUI. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Görsel üretim süreçlerinde tam kontrol ve modüler bir çalışma ortamı arayan profesyonel içerik üreticileri için uygundur.
 - **Lisans:** GPL-3.0
 

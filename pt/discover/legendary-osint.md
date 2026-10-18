@@ -18,6 +18,7 @@ Esta não é uma ferramenta de software, mas um diretório que categoriza ferram
 ## Termos relacionados do glossário
 
 - [OSINT](https://trescout.com/pt/dictionary/osint/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Adequado para investigadores de fraudes, analistas de inteligência de ameaças cibernéticas e profissionais de investigação digital.
 - **Licença:** CC0-1.0

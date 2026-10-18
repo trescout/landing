@@ -22,6 +22,7 @@ Pour commencer à utiliser l'outil, vous pouvez consulter la liste des mods disp
 
 - [HLSL](https://trescout.com/fr/dictionary/hlsl/)
 - [HDR](https://trescout.com/fr/dictionary/hdr/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux joueurs et aux développeurs souhaitant mettre à jour leurs anciens jeux pour offrir une expérience visuelle de meilleure qualité avec les technologies d'affichage modernes.
 - **Licence:** MIT

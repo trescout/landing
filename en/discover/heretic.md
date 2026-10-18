@@ -36,6 +36,7 @@ This tool removes the model's security protections. Legal and ethical responsibi
 
 - [Transformer](https://trescout.com/en/dictionary/transformer/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** ML researchers / advanced users
 - **Difficulty:** Advanced knowledge of working with model weights

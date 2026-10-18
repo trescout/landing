@@ -62,6 +62,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Cloudflare üzerinde çalışan dreamhunter2333/cloudflare_temp_email açık kaynaklı geçici e-posta projesini kendi alan adımla kurmak istiyorum. Cloudflare hesabım ve Cloudflare DNS'e bağlı bir alan adım var. Cloudflare panosu üzerinden Email Routing yönlendirmesini, D1 veritabanını ve Cloudflare Pages arayüzünü sıfırdan nasıl kuracağımı adım adım anlatır mısın? Ayrıca gelen e-postaları Telegram botuma yönlendirmek için hangi yapılandırma adımlarını izlemeliyim?
 
+Depo: https://github.com/dreamhunter2333/cloudflare_temp_email. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi alan adıyla ücretsiz, güvenli ve engelsiz geçici e-posta servisi barındırmak isteyen geliştiriciler, test ekipleri ve gizlilik odaklı kullanıcılar içindir.
 - **Lisans:** MIT (Özgür açık kaynak lisansı)
 - **Altyapı:** Cloudflare Workers, Pages, D1 (SQLite) ve Email Routing

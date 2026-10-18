@@ -52,6 +52,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Agissez comme un chercheur en sécurité d'applications Android. Aidez-moi à utiliser l'outil Droid ASC pour trouver une classe spécifique dans un fichier APK, analyser le fichier AndroidManifest.xml ou rechercher des références dans le code. Lors de la création des commandes, utilisez les commandes getclass, getmanifest et findrefs de l'outil avec les paramètres appropriés et expliquez-moi comment interpréter les résultats.
 
+Dépôt : https://github.com/MG1937/ASC. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Decompiler](https://trescout.com/fr/dictionary/decompiler/)

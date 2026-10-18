@@ -40,6 +40,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a secure authentication system for my application using Logto. How can I configure multi-tenancy and role-based access control features in this structure based on OIDC and OAuth 2.1 protocols? Can you explain the basic steps I need to follow to manage user login flows and enterprise SSO integration in my SaaS project?
 
+Repository: https://github.com/logto-io/logto. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [OIDC](https://trescout.com/en/dictionary/oidc/)

@@ -31,6 +31,7 @@ Laden Sie das Projekt herunter oder kopieren Sie es auf Ihren Computer. Installi
 - [Software Development](https://trescout.com/de/dictionary/software-development/)
 - [SDK](https://trescout.com/de/dictionary/sdk/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die das Unturned-Spiel modifizieren und auf den Quellcodes des Spiels weiterentwickeln möchten.
 

@@ -88,6 +88,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [MCP](https://trescout.com/dictionary/mcp/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
 - [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hister/

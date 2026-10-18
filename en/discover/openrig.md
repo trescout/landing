@@ -2,16 +2,16 @@
 
 Openrig is a multi-agent infrastructure that combines Anthropic's coding tool Claude Code and OpenAI's coding model Codex into a single system. It allows developers to use different AI models simultaneously in the same workflow.
 
-- ★ 7,105
+- ★ 7,747
 - TypeScript
 - GitHub Trending · 2026-09-28
 
 ## Updates
 
+- **October 18, 2026:** Stars 7,105 → 7,747, latest release v0.6.11 (October 17, 2026).
 - **October 12, 2026:** Stars 6,819 → 7,105, latest release v0.6.10 (October 12, 2026).
 - **October 11, 2026:** Stars 6,288 → 6,819, latest release v0.6.9 (October 11, 2026).
 - **October 9, 2026:** Stars 6,015 → 6,288, latest release v0.6.8 (October 9, 2026).
-- **October 8, 2026:** Stars 5,622 → 6,015, latest release v0.6.7 (October 8, 2026).
 
 ## What you get
 
@@ -33,6 +33,14 @@ rig setup --dry-run
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to coordinate Claude Code and Codex agents in a single system using OpenRig. After checking the Node.js and tmux requirements, help me review the installation plan with the npm install -g @openrig/cli and rig setup --dry-run commands, and guide me through the steps to launch the team.
+
+Repository: https://github.com/mvschwarz/openrig. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

@@ -34,6 +34,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você tem uma conexão com o BrowserSkill, uma ferramenta de automação de navegador. Agora você pode realizar tarefas na internet em meu nome usando minhas sessões de navegador existentes. Ao realizar uma ação, pegue emprestadas minhas abas abertas no navegador, devolva-as quando terminar e não toque nas minhas outras abas. Se você encontrar um código de verificação, tela de login ou janela de confirmação, interrompa a operação e peça minha ajuda.
 
+Repositório: https://github.com/Tencent/BrowserSkill. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

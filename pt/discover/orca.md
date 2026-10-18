@@ -39,6 +39,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Inicie vários agentes de IA simultaneamente em diferentes espaços de trabalho no Orca. Envie um comando para cinco agentes diferentes simultaneamente, compare os resultados e combine o melhor. Deixe-me acompanhar o status de trabalho dos agentes por meio do aplicativo móvel e enviar notificações quando o processo for concluído.
 
+Repositório: https://github.com/stablyai/orca. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Agent Development Environment](https://trescout.com/pt/dictionary/agent-development-environment/)

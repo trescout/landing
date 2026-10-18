@@ -28,6 +28,7 @@ To start your project, simply add all .cpp and .h files starting with imgui in t
 - [User Interface](https://trescout.com/en/dictionary/user-interface/)
 - [GUI](https://trescout.com/en/dictionary/gui/)
 - [Interface](https://trescout.com/en/dictionary/interface/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for software developers working with C++ in rapid tool development, debugging and visualization processes.
 - **License:** MIT

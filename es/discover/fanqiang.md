@@ -26,6 +26,7 @@ El proyecto Fanqiang es una biblioteca completa de guías y herramientas en luga
 ## Términos relacionados del glosario
 
 - [Gateway](https://trescout.com/es/dictionary/gateway/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para usuarios que desean acceder a recursos de red limitados en Internet y necesitan guías de configuración para diferentes dispositivos.
 

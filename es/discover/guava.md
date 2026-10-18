@@ -28,6 +28,7 @@ Dependiendo de la herramienta de configuración que utilice para agregar la bibl
 
 - [Core Libraries](https://trescout.com/es/dictionary/core-libraries/)
 - [Caching](https://trescout.com/es/dictionary/caching/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para desarrolladores de software que desarrollan aplicaciones en lenguaje Java y necesitan herramientas más eficientes para tareas básicas como la gestión de colecciones y el procesamiento de cadenas.
 - **Licencia:** Apache-2.0

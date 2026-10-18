@@ -2,16 +2,16 @@
 
 FreeLLMAPI brings together 34 different free large language model providers under a single REST API in OpenAI format, offering intelligent routing and fault tolerance.
 
-- ★ 35,948
+- ★ 36,776
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Updates
 
+- **October 18, 2026:** Stars 35,948 → 36,776, latest release v0.16.2 (October 18, 2026).
 - **October 16, 2026:** Stars 34,584 → 35,948, latest release v0.15.0 (October 15, 2026).
 - **October 13, 2026:** Stars 33,595 → 34,584, latest release v0.14.2 (October 13, 2026).
 - **October 12, 2026:** Stars 33,363 → 33,595, latest release v0.13.10 (October 12, 2026).
-- **October 12, 2026:** Stars 33,101 → 33,363, latest release v0.13.9 (October 11, 2026).
 
 ## What you get
 
@@ -60,6 +60,14 @@ curl http://localhost:3000/v1/chat/completions \
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Could you explain with code examples how to run FreeLLMAPI on my local server using Docker, how to direct the OpenAI Node.js SDK to this local endpoint, and how to enable automatic fallback model usage when a provider errors out?
+
+Repository: https://github.com/tashfeenahmed/freellmapi. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Frequently asked questions
 

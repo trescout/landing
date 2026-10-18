@@ -45,6 +45,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Décrivez une tâche complexe que vous souhaitez que j'effectue sur mon ordinateur ou mon navigateur. Par exemple, je pourrais vous demander d'accéder à un site Web spécifique et de saisir des données ou de gérer un processus de réservation de vol. Veuillez analyser l'interface visuelle et effectuer les étapes de manière autonome.
 
+Dépôt : https://github.com/bytedance/UI-TARS-desktop. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Multimodal AI](https://trescout.com/fr/dictionary/multimodal-ai/)

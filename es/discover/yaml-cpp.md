@@ -36,6 +36,7 @@ Para comenzar a utilizar la herramienta, primero debe descargar e instalar el so
 - [Serialization](https://trescout.com/es/dictionary/serialization/)
 - [Parser](https://trescout.com/es/dictionary/parser/)
 - [API](https://trescout.com/es/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para desarrolladores de software que desean administrar archivos de configuración en formato YAML o realizar operaciones de serialización de datos en proyectos C++.
 - **Licencia:** MIT

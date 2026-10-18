@@ -44,6 +44,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Celld kullanarak dağıtık bir sistem kurmak istiyorum. S3 uyumlu bir depolama alanı oluşturduktan sonra, düğümlerin bu alanı nasıl kullanacağını ve Wrangler paketlerini nasıl dağıtacağımı adım adım açıkla. Özellikle düğümlerin birbirini nasıl keşfettiği ve veri tutarlılığını S3 üzerinden nasıl sağladığı konusunda teknik detayları basit bir dille özetle.
 
+Depo: https://github.com/denoland/celld. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Dağıtık sistemler üzerinde çalışan ve kendi sunucularında ölçeklenebilir durum yönetimi kurmak isteyen geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
 

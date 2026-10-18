@@ -18,6 +18,10 @@ Puisqu’il s’agit d’une liste de logiciels, elle ne nécessite aucune insta
 
 - [Source officielle →](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il s'adresse aux développeurs qui souhaitent apprendre les processus de développement de logiciels en créant des applications réelles plutôt qu'en développant des connaissances théoriques.
 - **Licence:** MIT
 

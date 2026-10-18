@@ -46,6 +46,16 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to gather the prompt templates and provider settings I prepared for my AI coding assistant using Codex-X into a single visual interface. Help me install and launch the application in my local environment to configure my API keys and synchronize my session history.
 
+Repository: https://github.com/yynxxxxx/Codex-X. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+If an API key is required, do not ask me to type it into the chat. Show me how to add it to the .env file and ensure this file is not pushed to Git.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Prompt Injection](https://trescout.com/en/dictionary/prompt-injection/)

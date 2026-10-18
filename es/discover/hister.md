@@ -77,6 +77,7 @@ Abre la interfaz local y, usando la extensión del navegador, indexa las página
 - [MCP](https://trescout.com/es/dictionary/mcp/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 ## Enlaces
 

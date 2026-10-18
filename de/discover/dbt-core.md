@@ -44,6 +44,7 @@ Sie können auf die Installationsanleitung zugreifen, indem Sie die offizielle d
 ## Verwandte Begriffe aus dem Glossar
 
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Datenanalysten und Ingenieure, die Daten im Data Warehouse mit der Disziplin Softwareentwicklung transformieren und verwalten möchten.
 - **Lizenz:** Apache-2.0

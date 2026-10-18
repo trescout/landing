@@ -26,6 +26,7 @@ Sie können Lehrbücher der Primar-, Sekundar-, Oberschul- und Universitätseben
 ## Verwandte Begriffe aus dem Glossar
 
 - [PDF](https://trescout.com/de/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Studierende, Forscher und im Ausland lebende chinesische Familien, die kostenlosen digitalen Zugang zu Lehrbüchern des chinesischen Lehrplans haben möchten.
 

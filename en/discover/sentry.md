@@ -27,6 +27,7 @@ To start using the error tracking platform Sentry, you can visit the official we
 
 - [Error Tracking](https://trescout.com/en/dictionary/error-tracking/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for developers who want to quickly detect and resolve errors and performance issues in their software.
 

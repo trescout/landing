@@ -75,6 +75,7 @@ Quais são as diferenças entre usar uma instância pública do Invidious e hosp
 - [Companion](https://trescout.com/pt/dictionary/companion/)
 - [RAM](https://trescout.com/pt/dictionary/ram/)
 - [API](https://trescout.com/pt/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 ## Links
 

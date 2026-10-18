@@ -28,6 +28,7 @@ Para iniciar seu projeto, basta adicionar todos os arquivos .cpp e .h começando
 - [User Interface](https://trescout.com/pt/dictionary/user-interface/)
 - [GUI](https://trescout.com/pt/dictionary/gui/)
 - [Interface](https://trescout.com/pt/dictionary/interface/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores de software que trabalham com C++ em processos rápidos de desenvolvimento de ferramentas, depuração e visualização.
 - **Licença:** MIT

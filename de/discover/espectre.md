@@ -25,6 +25,10 @@ Um ESPectre verwenden zu können, müssen Sie dem offiziellen SETUP.md-Dokument 
 
 - [Offizielle Quelle →](https://espectre.dev)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es richtet sich an Benutzer, die sich für Heimautomatisierung interessieren und nach kostengünstigen Bewegungserkennungslösungen suchen, ohne die Privatsphäre zu beeinträchtigen.
 - **Lizenz:** GPL-3.0
 

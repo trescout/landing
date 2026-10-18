@@ -23,6 +23,7 @@ Para começar com este currículo, basta visitar o site oficial do OSSU CS ou o 
 ## Termos relacionados do glossário
 
 - [Computer Science](https://trescout.com/pt/dictionary/computer-science/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para quem tem a disciplina de autoaprendizagem e deseja aprender gratuitamente o básico da informática com uma abordagem acadêmica.
 - **Licença:** MIT

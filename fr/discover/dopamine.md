@@ -25,6 +25,10 @@ Pour commencer à utiliser l'outil Dopamine, vous pouvez visiter le site officie
 
 - [Source officielle →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent disposer de droits d'administrateur en contournant les restrictions du système sur leurs appareils iOS.
 - **Licence:** MIT
 

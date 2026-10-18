@@ -51,6 +51,7 @@ To start using Grafana, visit the official website grafana.com/get. You can revi
 
 - [Traces](https://trescout.com/en/dictionary/traces/)
 - [Logs](https://trescout.com/en/dictionary/logs/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for system administrators and data analysts who want to monitor and visualize their data from different sources from a single center.
 - **License:** AGPL-3.0

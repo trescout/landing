@@ -67,6 +67,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero examinar um arquivo binário suspeito usando Ghidra. Você pode explicar passo a passo como abrir um novo projeto no Ghidra, importar o arquivo, executar a análise automática, examinar funções na janela do descompilador e detectar funções de API suspeitas chamadas?
 
+Repositório: https://github.com/NationalSecurityAgency/ghidra. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - Quais são as principais diferenças entre Ghidra e IDA Pro? Embora o IDA Pro tenha taxas de licenciamento comerciais e altas, o Ghidra é totalmente gratuito e de código aberto. Ghidra oferece descompiladores integrados para todas as arquiteturas e inclui um servidor de colaboração multiusuário.

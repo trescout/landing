@@ -44,6 +44,7 @@ Pour démarrer l'installation, vous devez visiter le guide de démarrage rapide 
 ## Termes liés du glossaire
 
 - [ROM](https://trescout.com/fr/dictionary/rom/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux amateurs de jeux rétro qui souhaitent gérer leur collection de jeux avec une interface soignée et jouer rapidement via le navigateur.
 - **Licence:** AGPL-3.0

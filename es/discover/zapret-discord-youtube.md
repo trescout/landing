@@ -28,6 +28,7 @@ Descargue el archivo comprimido yendo al enlace de la última versión en la pá
 ## Términos relacionados del glosario
 
 - [Packet Fragmentation](https://trescout.com/es/dictionary/packet-fragmentation/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para usuarios de Windows que encuentran barreras de acceso a plataformas como Discord y YouTube.
 

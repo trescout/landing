@@ -38,6 +38,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Aktivieren Sie mithilfe der G0DM0D3-Schnittstelle die ULTRAPLINIAN-Engine, die mehrere Modelle über die von mir angegebenen Modellanbieter (OpenRouter, Venice oder lokaler Server) laufen lässt. Wenden Sie Parseltongue-Eingabemischtechniken für meine Red-Team-Untersuchungen an und konfigurieren Sie mit der AutoTune-Funktion automatisch Stichprobenparameter, die am besten zum Abfragekontext passen.
 
+Repository: https://github.com/elder-plinius/G0DM0D3. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Red Teaming](https://trescout.com/de/dictionary/red-teaming/)

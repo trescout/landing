@@ -25,6 +25,10 @@ To start using ESPectre, you need to follow the official SETUP.md document of th
 
 - [Official source →](https://espectre.dev)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is for users interested in home automation who are looking for low-cost motion detection solutions without compromising privacy.
 - **License:** GPL-3.0
 

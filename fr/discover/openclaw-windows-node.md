@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise l'outil OpenClaw Windows Node. Je souhaite gérer mes connexions de passerelle locale pour cet assistant d'intelligence artificielle, auquel j'accède via la barre d'état système, et vérifier des opérations telles que l'envoi de messages via WebSocket. Comment puis-je vérifier l'état de ma connexion et configurer les autorisations des nœuds sur le système à l'aide des outils CLI disponibles ?
 
+Dépôt : https://github.com/openclaw/openclaw-windows-node. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [CLI](https://trescout.com/fr/dictionary/cli/)

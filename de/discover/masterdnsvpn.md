@@ -43,6 +43,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem Tool MasterDnsVPN eine sichere Verbindung über DNS-Tunneling in einem zensierten Netzwerk herstellen. Wie kann ich die Serverseite mithilfe des gemeinsam genutzten Autoinstallationsskripts konfigurieren und welche grundlegenden Schritte sollte ich befolgen, um die Verbindung auf der Clientseite sicherzustellen? Bitte erläutern Sie die Netzwerkanforderungen, auf die ich während des Installationsvorgangs achten sollte, und die Methode zur Ausführung über Docker.
 
+Repository: https://github.com/masterking32/MasterDnsVPN. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [DNS Tunneling](https://trescout.com/de/dictionary/dns-tunneling/)

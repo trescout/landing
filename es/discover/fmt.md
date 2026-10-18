@@ -26,6 +26,7 @@ Puede visitar la página de documentación oficial para aprender cómo integrarl
 ## Términos relacionados del glosario
 
 - [Compiler](https://trescout.com/es/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está dirigida a desarrolladores que desean hacer que los procesos de formateo de texto, impresión de datos y registro de logs en proyectos de C++ sean más rápidos y seguros.
 - **Licencia:** MIT

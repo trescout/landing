@@ -80,6 +80,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 - [WiFi](https://trescout.com/es/dictionary/wifi/)
 - [Benchmark](https://trescout.com/es/dictionary/benchmark/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 ## Enlaces
 

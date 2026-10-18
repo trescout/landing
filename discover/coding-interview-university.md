@@ -19,6 +19,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Coding Interview University müfredatını kullanarak bir yazılım mühendisliği mülakatına hazırlanıyorum. Bu kaynakta yer alan veri yapıları, algoritmalar ve bilgisayar bilimleri konularını öğrenmek için bana günlük bir çalışma planı oluştur. Öğrenmem gereken temel konuları, hangi sırayla çalışmam gerektiğini ve pratik yapabileceğim kaynakları içeren, başlangıç seviyesinden ileri seviyeye doğru ilerleyen bir yol haritası hazırlar mısın?
 
+Depo: https://github.com/jwasham/coding-interview-university. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Teknik mülakatlara hazırlanan ve bilgisayar bilimleri temellerini güçlendirmek isteyen yazılım mühendisi adayları içindir.
 - **Lisans:** CC-BY-SA-4.0
 

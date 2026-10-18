@@ -29,6 +29,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Python ortamıma 'pip install stable-worldmodel[all]' komutuyla stable-worldmodel'i kur ve örnek bir PushT ortamında veri toplayıp bir dünya modeli eğitip değerlendiren küçük bir betik hazırlamama yardım et.
 
+Depo: https://github.com/galilai-group/stable-worldmodel. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **PyPI'den kur (tüm eklentiler)**
 
 ```

@@ -43,6 +43,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Tu es un assistant de développement logiciel. Analyse ma base de code actuelle, identifie les tâches à accomplir et aide-moi à gérer les processus de codage de manière interactive via le terminal. Lors de l'exécution des opérations, utilise les fournisseurs d'IA unifiés pour proposer les solutions les plus appropriées et gère les appels d'outils nécessaires tout au long du processus.
 
+Dépôt : https://github.com/earendil-works/pi. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [TUI](https://trescout.com/fr/dictionary/tui/)

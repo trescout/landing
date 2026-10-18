@@ -37,6 +37,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 RustDesk kullanarak uzak masaüstü bağlantısı kurmak istiyorum. Veri güvenliğimi sağlamak adına kendi sunucumu nasıl yapılandırabilirim ve bağlantı sırasında dikkat etmem gereken temel güvenlik ayarları nelerdir?
 
+Depo: https://github.com/rustdesk/rustdesk. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Uzaktan erişim ve kontrol ihtiyaçlarını, verilerini üçüncü taraf servisler yerine kendi sunucularında tutarak karşılamak isteyen kullanıcılar için uygundur.
 - **Lisans:** AGPL-3.0
 

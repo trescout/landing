@@ -2,16 +2,16 @@
 
 DeepSeek-Reasonix é um agente de codificação de IA executado no terminal e baseado em modelos DeepSeek. Com foco na estabilidade do cache de prefixo, esta ferramenta garante que os desenvolvedores recebam suporte de codificação ininterrupto durante sessões longas.
 
-- ★ 35.823
+- ★ 35.837
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 35,823 → 35,837, versão mais recente studio-v2.44.0 (18 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 35,818 → 35,823, versão mais recente studio-v2.43.0 (17 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 35,803 → 35,818, versão mais recente studio-v2.42.0 (16 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 35,786 → 35,803, versão mais recente studio-v2.41.0 (15 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 35,775 → 35,786, versão mais recente studio-v2.39.0 (14 de outubro de 2026).
 
 ## O que você ganha
 
@@ -52,6 +52,14 @@ reasonix run "implement the TODOs in main.go"
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ao trabalhar com este agente de codificação de inteligência artificial rodando no terminal, desenvolvo sugestões de código levando em consideração a estrutura atual e os objetivos do meu projeto. Concentre-se na produção de respostas consistentes e de baixo custo em nossas longas sessões usando estabilidade de cache de prefixo. Ao escrever ou depurar código, forneça soluções modulares e limpas que atendam às necessidades do projeto.
+
+Repositório: https://github.com/esengine/DeepSeek-Reasonix. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

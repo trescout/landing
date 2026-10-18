@@ -18,6 +18,7 @@ Dabei handelt es sich nicht um ein Softwaretool, sondern um ein Verzeichnis, das
 ## Verwandte Begriffe aus dem Glossar
 
 - [OSINT](https://trescout.com/de/dictionary/osint/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Betrugsermittler, Cyber-Threat-Intelligence-Analysten und Experten für digitale Ermittlungen.
 - **Lizenz:** CC0-1.0

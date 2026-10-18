@@ -23,6 +23,10 @@ Um mit der Nutzung des Tools zu beginnen, besuchen Sie einfach die offizielle Re
 
 - [Offizielle Quelle →](https://viarotel.eu.org/)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Geeignet für jeden, der sein Android-Telefon oder -Tablet über eine grafische Benutzeroberfläche auf dem Computer verwalten möchte.
 - **Lizenz:** Apache-2.0
 

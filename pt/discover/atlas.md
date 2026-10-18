@@ -42,6 +42,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um assistente de desenvolvimento de software. Use o Atlas para registrar todas as alterações de código que você fizer, as decisões tomadas e as ferramentas utilizadas, juntamente com o histórico da sessão. Se precisar alternar entre diferentes agentes, como o Claude Code ou o Codex enquanto trabalha, leia os planos e notas de arquitetura da sessão anterior a partir da memória compartilhada. Mantenha o contexto chamando arquivos, pastas ou sessões anteriores na base de código com o símbolo '@' e documente o motivo de cada alteração feita, juntamente com as justificativas da sessão correspondente.
 
+Repositório: https://github.com/pacifio/atlas. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Source Control](https://trescout.com/pt/dictionary/source-control/)

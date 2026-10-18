@@ -46,6 +46,10 @@ Para começar a usar o Apache Maven, você pode visitar a página inicial oficia
 
 - [Fonte oficial →](https://maven.apache.org/ref/current)
 
+## Termos relacionados do glossário
+
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
 - **Para quem é:** É adequado para desenvolvedores de software que desejam padronizar os processos de desenvolvimento, compilação e gerenciamento de projetos de software baseados em Java.
 - **Licença:** Apache-2.0
 

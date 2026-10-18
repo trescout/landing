@@ -9,6 +9,7 @@ Developed with Vue, Lap is an offline-first photo manager that allows you to man
 ## Related dictionary terms
 
 - [Offline-first](https://trescout.com/en/dictionary/offline-first/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

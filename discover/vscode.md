@@ -38,6 +38,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Code Editor](https://trescout.com/dictionary/code-editor/)
 - [Editor](https://trescout.com/dictionary/editor/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vscode/

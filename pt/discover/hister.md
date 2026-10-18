@@ -77,6 +77,7 @@ Abra a interface local, indexe as páginas selecionadas com a extensão do naveg
 - [MCP](https://trescout.com/pt/dictionary/mcp/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [CLI](https://trescout.com/pt/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 ## Links
 

@@ -28,6 +28,7 @@ Pour commencer à utiliser Cordis, vous pouvez revoir les concepts de base sur c
 ## Termes liés du glossaire
 
 - [Meta-framework](https://trescout.com/fr/dictionary/meta-framework/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui souhaitent développer des systèmes logiciels complexes dans une structure modulaire et organisée.
 - **Licence:** MIT

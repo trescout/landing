@@ -22,6 +22,10 @@ To use it, you first need to install the userscript manager Tampermonkey extensi
 
 - [Official source →](https://github.com/hmjz100/LinkSwift/raw/main/%EF%BC%88%E6%94%B9%EF%BC%89%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.user.js)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is for users who want to download files from various cloud storage services directly using a browser or download manager without installing the official client software on their computers.
 - **License:** AGPL-3.0
 

@@ -38,6 +38,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mein 2D-Bild in ein 3D-Modell umwandeln. Erklären Sie die grundlegenden Verarbeitungsschritte und die Beispiel-Python-Codestruktur, die ich zum Erstellen eines 3D-Assets benötigt, das komplexe Topologien mit hochwertigen Texturen und physikbasierten Materialeigenschaften unter Verwendung des TRELLIS.2-Modells beibehält.
 
+Repository: https://github.com/microsoft/TRELLIS.2. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Structured Latent](https://trescout.com/de/dictionary/structured-latent/)

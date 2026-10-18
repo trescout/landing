@@ -54,6 +54,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to initiate an OSINT scan on a target using the SpiderFoot tool. My target is a domain/IP address. What steps should I follow to use this tool to analyze how visible my digital assets are on the internet and what vulnerabilities they may have? Please explain how the 200+ modules work and how I should interpret the results.
 
+Repository: https://github.com/smicallef/spiderfoot. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [OSINT](https://trescout.com/en/dictionary/osint/)

@@ -2,16 +2,16 @@
 
 AirLLM est une bibliothèque open source révolutionnaire qui exécute des modèles de langage massifs (LLM) avec 70 milliards et 405 milliards de paramètres sur des cartes graphiques grand public standard avec seulement 4 Go de mémoire vidéo (VRAM) sans avoir besoin de serveurs d'entreprise ou de clusters GPU coûteux.
 
-- ★ 37 368
+- ★ 39 239
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 37,368 → 39,239, dernière version v4.0.0 (5 septembre 2026).
 - **12 octobre 2026:** Étoiles 35,481 → 37,368, dernière version v4.0.0 (5 septembre 2026).
 - **7 octobre 2026:** Étoiles 33,755 → 35,481, dernière version v4.0.0 (5 septembre 2026).
 - **6 septembre 2026:** Étoiles 33,307 → 33,755, dernière version v4.0.0 (5 septembre 2026).
-- **31 août 2026:** Étoiles 31,598 → 33,307, dernière version v3.3.0 (28 août 2026).
 
 ## Ce que ça vous apporte
 
@@ -45,6 +45,14 @@ AirLLM a une syntaxe Python très simple, très similaire à l'API Hugging Face 
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter un modèle avec 70 milliards de paramètres (par exemple méta-llama/Llama-3-70B-Instruct) en utilisant la bibliothèque AirLLM sur ma carte graphique locale avec une capacité VRAM de 4 Go. J'ai utilisé la commande pip install airllm pour l'installation. Pouvez-vous s'il vous plaît expliquer le code Python nécessaire pour charger mon modèle, générer une saisie de texte et éviter un débordement de mémoire ? Je sais que je dois m'assurer de disposer de suffisamment d'espace disque pendant le processus, pouvez-vous détailler les étapes à suivre ?
+
+Dépôt : https://github.com/lyogavin/airllm. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Questions fréquemment posées
 

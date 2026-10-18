@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite transformer les documents complexes et les données non structurées dont je dispose en une source d'informations de haute qualité que les modèles d'intelligence artificielle peuvent comprendre. Comment puis-je traiter mes données à l'aide de RAGFlow, configurer des modèles de fragmentation de documents et créer un agent IA référençant la source sans erreur à l'aide de ces données ?
 
+Dépôt : https://github.com/infiniflow/ragflow. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [RAG](https://trescout.com/fr/dictionary/rag/)

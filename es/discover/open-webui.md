@@ -40,6 +40,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero instalar Open WebUI para ejecutar modelos de inteligencia artificial locales o basados en la nube en mi ordenador. Explícame paso a paso, simplificando los términos técnicos, cómo completar la instalación utilizando el comando `docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main` a través de la herramienta de contenerización Docker o mediante el comando `pip install open-webui` por parte de Python, y cómo acceder a la interfaz desde el navegador.
 
+Repositorio: https://github.com/open-webui/open-webui. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Backend](https://trescout.com/es/dictionary/backend/)

@@ -39,6 +39,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Ayúdame a crear un panel de operaciones internas de arrastrar y soltar conectado a una base de datos utilizando más de 60 componentes listos para usar en ToolJet. Diseñar una arquitectura de aplicación que visualice datos y automatice los flujos de trabajo dentro del equipo que puedo personalizar usando JavaScript y Python.
 
+Repositorio: https://github.com/ToolJet/ToolJet. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [API](https://trescout.com/es/dictionary/api/)

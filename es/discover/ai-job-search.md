@@ -51,6 +51,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Cree su perfil usando el comando /setup mientras está en Claude Code. Luego, enumere las ofertas de trabajo adecuadas con el comando /scrape y utilice el comando /apply para crear un borrador de su CV y ​​una carta de presentación para la oferta de trabajo que seleccionó. Durante el proceso, solicite a la inteligencia artificial que evalúe su compatibilidad con el anuncio y brinde comentarios para la preparación de la entrevista.
 
+Repositorio: https://github.com/MadsLorentzen/ai-job-search. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Framework](https://trescout.com/es/dictionary/framework/)

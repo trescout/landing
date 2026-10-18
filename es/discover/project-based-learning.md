@@ -18,6 +18,10 @@ Dado que se trata de una lista de software, no requiere instalación. Puede sele
 
 - [Fuente oficial →](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es para desarrolladores que desean aprender los procesos de desarrollo de software mediante la creación de aplicaciones del mundo real en lugar de conocimientos teóricos.
 - **Licencia:** MIT
 

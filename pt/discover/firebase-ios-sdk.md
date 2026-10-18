@@ -28,6 +28,7 @@ Para a instalação, você pode consultar a documentação oficial de introduç�
 - [Swift Package Manager](https://trescout.com/pt/dictionary/swiftpm/)
 - [Backend](https://trescout.com/pt/dictionary/backend/)
 - [SDK](https://trescout.com/pt/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Desenvolvedores de software que criam aplicativos móveis para o ecossistema Apple e desejam adicionar serviços baseados em nuvem aos seus aplicativos.
 - **Licença:** Apache-2.0

@@ -29,6 +29,7 @@ This tool does not require a software installation; It is a comprehensive guide 
 - [Algorithmic Trading](https://trescout.com/en/dictionary/algorithmic-trading/)
 - [Systematic Trading](https://trescout.com/en/dictionary/systematic-trading/)
 - [Backtesting](https://trescout.com/en/dictionary/backtesting/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for researchers and developers who want to enter the world of algorithmic trading and improve their financial modeling processes.
 

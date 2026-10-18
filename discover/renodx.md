@@ -31,6 +31,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [HLSL](https://trescout.com/dictionary/hlsl/)
 - [HDR](https://trescout.com/dictionary/hdr/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/renodx/

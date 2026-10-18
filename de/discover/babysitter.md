@@ -23,6 +23,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie das Babysitter-Plugin in Claude Code mit den Befehlen „claudepluginmarketplaceadda5c-ai/babysitter“, gefolgt von „claudeplugininstall --scope user babysitter@a5c.ai“, und starten Sie dann einen Schritt-für-Schritt-gesteuerten Workflow mit dem Befehl „/babysitter:call“.
 
+Repository: https://github.com/a5c-ai/babysitter. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 **Claude Code · Marktplatz + Installation**
 
 ```

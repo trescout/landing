@@ -24,6 +24,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich gebe Ihnen eine Liste mit Links zu inspirierenden persönlichen Portfolioseiten von Softwareentwicklern, die „Entwicklerportfolios“ genannt werden. Sehen Sie sich die Liste an und wählen Sie die am besten geeigneten Portfolios aus, die ich als Beispiel für meinen Beruf nehmen kann, und Sie erhalten eine Roadmap für die Einrichtung meiner eigenen Portfolio-Site. Meine Domain: [zB. Frontend-Entwickler]. Mein Ziel: [zB. beeindruckendes Portfolio für die Bewerbung.
 
+Repository: https://github.com/emmabostian/developer-portfolios. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

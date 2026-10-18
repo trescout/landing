@@ -17,6 +17,10 @@ To read or contribute to technology content, go to the official project's web pa
 
 - [Official source →](https://github.com/ruanyf/weekly/issues)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is for everyone who wants to follow current technologies, innovations in the software world and career opportunities on a weekly basis.
 
 ## Links

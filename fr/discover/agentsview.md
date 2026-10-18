@@ -53,6 +53,16 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite analyser l'historique des sessions et les données de coût de mes agents de codage IA à l'aide de l'outil Agentsview. Quelles commandes dois-je utiliser pour découvrir les sessions des agents installés sur mon ordinateur, consulter le récapitulatif de mes coûts quotidiens et consulter les détails d'utilisation des jetons avec un filtre d'agent spécifique ? Veuillez m'expliquer étape par étape comment utiliser les commandes agentsview usage quotidien et agentsview session usage \<id> et comment interpréter les résultats.
 
+Dépôt : https://github.com/kenn-io/agentsview. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [CCUsage](https://trescout.com/fr/dictionary/ccusage/)

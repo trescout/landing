@@ -29,6 +29,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Darei a você uma lista de links para guias passo a passo chamados 'construa seu próprio x' que ensinarão como construir sua própria tecnologia (banco de dados, sistema operacional, linguagem de programação, servidor web, etc.) do zero. Revise esta lista e liste quais projetos devo começar de acordo com meu nível e objetivo atual, e você receberá um plano de trabalho semanal. Meu nível: [ex. novato]. Meu objetivo: [por exemplo. fazendo meu próprio servidor web].
 
+Repositório: https://github.com/codecrafters-io/build-your-own-x. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

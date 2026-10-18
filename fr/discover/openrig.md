@@ -2,16 +2,16 @@
 
 Openrig est une infrastructure multi-agents qui combine l'outil de codage Claude Code d'Anthropic et le modèle de codage Codex d'OpenAI au sein d'un système unique. Elle permet aux développeurs d'utiliser simultanément différents modèles d'intelligence artificielle dans le même flux de travail.
 
-- ★ 7 105
+- ★ 7 747
 - TypeScript
 - GitHub Trending · 2026-09-28
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 7,105 → 7,747, dernière version v0.6.11 (17 octobre 2026).
 - **12 octobre 2026:** Étoiles 6,819 → 7,105, dernière version v0.6.10 (12 octobre 2026).
 - **11 octobre 2026:** Étoiles 6,288 → 6,819, dernière version v0.6.9 (11 octobre 2026).
 - **9 octobre 2026:** Étoiles 6,015 → 6,288, dernière version v0.6.8 (9 octobre 2026).
-- **8 octobre 2026:** Étoiles 5,622 → 6,015, dernière version v0.6.7 (8 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -33,6 +33,14 @@ rig setup --dry-run
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite coordonner les agents Claude Code et Codex dans un système unique en utilisant OpenRig. Après avoir vérifié les prérequis Node.js et tmux, aide-moi à examiner le plan d'installation avec les commandes npm install -g @openrig/cli et rig setup --dry-run, puis à passer aux étapes de lancement de l'équipe.
+
+Dépôt : https://github.com/mvschwarz/openrig. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

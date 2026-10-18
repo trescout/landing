@@ -6,6 +6,10 @@ Wifit3 ist ein in Python entwickeltes Tool zum Testen der WLAN-Sicherheit, das a
 - Python
 - GitHub Trending · 2026-09-26
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 ## Links
 
 - [GitHub-Repository →](https://github.com/derv82/wifit3)

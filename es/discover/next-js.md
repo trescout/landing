@@ -48,6 +48,7 @@ Para comenzar a trabajar con Next.js, puede visitar el sitio web oficial nextjs.
 - [Rendering](https://trescout.com/es/dictionary/rendering/)
 - [Framework](https://trescout.com/es/dictionary/framework/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores que desean desarrollar aplicaciones web modernas y escalables basadas en React.
 - **Licencia:** MIT

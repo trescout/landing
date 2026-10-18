@@ -28,6 +28,7 @@ Depending on the configuration tool you use to add the Guava library to your pro
 
 - [Core Libraries](https://trescout.com/en/dictionary/core-libraries/)
 - [Caching](https://trescout.com/en/dictionary/caching/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for software developers who develop applications in Java language and need more efficient tools for basic tasks such as collection management and string processing.
 - **License:** Apache-2.0

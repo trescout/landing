@@ -2,16 +2,16 @@
 
 FreeLLMAPI fornece roteamento inteligente e tolerância a falhas agregando 34 diferentes provedores de modelos de linguagem gratuitos em uma única API REST no formato OpenAI.
 
-- ★ 35.948
+- ★ 36.776
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 35,948 → 36,776, versão mais recente v0.16.2 (18 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 34,584 → 35,948, versão mais recente v0.15.0 (15 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 33,595 → 34,584, versão mais recente v0.14.2 (13 de outubro de 2026).
 - **12 de outubro de 2026:** Estrelas 33,363 → 33,595, versão mais recente v0.13.10 (12 de outubro de 2026).
-- **12 de outubro de 2026:** Estrelas 33,101 → 33,363, versão mais recente v0.13.9 (11 de outubro de 2026).
 
 ## O que você ganha
 
@@ -60,6 +60,14 @@ curl http://localhost:3000/v1/chat/completions \
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você pode explicar com exemplos de código como executar a ferramenta FreeLLMAPI em meu servidor local com Docker, como apontar o SDK OpenAI Node.js para este endpoint local e como habilitar o uso de um modelo de fallback automático quando um provedor falha?
+
+Repositório: https://github.com/tashfeenahmed/freellmapi. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Perguntas frequentes
 

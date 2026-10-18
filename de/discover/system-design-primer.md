@@ -23,6 +23,7 @@ Dieses Handbuch ist ein Dokumentations-Repository auf GitHub. Um zu beginnen, k�
 ## Verwandte Begriffe aus dem Glossar
 
 - [System Design](https://trescout.com/de/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Softwareentwickler, die sich auf technische Vorstellungsgespräche vorbereiten oder sich in der Architektur umfangreicher Softwaresysteme verbessern möchten.
 

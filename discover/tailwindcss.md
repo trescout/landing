@@ -54,6 +54,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Utility-first](https://trescout.com/dictionary/utility-first/)
 - [CSS Framework](https://trescout.com/dictionary/css-framework/)
 - [Framework](https://trescout.com/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tailwindcss/

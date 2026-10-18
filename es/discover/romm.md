@@ -44,6 +44,7 @@ Para iniciar la instalación, debe visitar la Guía de inicio rápido en la pág
 ## Términos relacionados del glosario
 
 - [ROM](https://trescout.com/es/dictionary/rom/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para entusiastas de los juegos retro que desean administrar su colección de juegos con una interfaz ordenada y jugar rápidamente a través del navegador.
 - **Licencia:** AGPL-3.0

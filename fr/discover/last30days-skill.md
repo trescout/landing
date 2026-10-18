@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes un agent d'intelligence artificielle. Use the last30days-skill tool to scan Reddit, X, YouTube, Hacker News and Polymarket data about [SEARCH TOPIC OR PERSON] for the last 30 days. Synthétisez les interactions, les données en temps réel et les informations de la communauté à partir de ces sources pour me fournir un résumé concis, concret et vérifiable.
 
+Dépôt : https://github.com/mvanhorn/last30days-skill. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [AI Agent Skill](https://trescout.com/fr/dictionary/ai-agent-skill/)

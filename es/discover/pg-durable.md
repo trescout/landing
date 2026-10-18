@@ -44,6 +44,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear un flujo de trabajo usando el complemento pg_durable en PostgreSQL. ¿Cómo debo configurar la función df.start() para gestionar un proceso persistente y tolerante a fallos dentro de la base de datos? ¿Cómo puedo crear una estructura que procese datos y pueda continuar desde donde lo dejó en caso de error, usando los operadores ~> y |=> que conectan los pasos de SQL? Explique este proceso dando ejemplos con comandos SQL.
 
+Repositorio: https://github.com/microsoft/pg_durable. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Durable Execution](https://trescout.com/es/dictionary/durable-execution/)

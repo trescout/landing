@@ -47,6 +47,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Serialization](https://trescout.com/dictionary/serialization/)
 - [Parser](https://trescout.com/dictionary/parser/)
 - [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/yaml-cpp/

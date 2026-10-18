@@ -17,6 +17,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [A-share](https://trescout.com/dictionary/a-share/)
 - [Backtesting](https://trescout.com/dictionary/backtesting/)
 - [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tick-stock-panel/

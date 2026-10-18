@@ -24,6 +24,10 @@ Install the Downloader app on your Android TV device. Open the app, enter kutt.t
 
 - [Official source →](https://smarttubeapp.github.io)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** For users looking for a more customizable and ad-free YouTube experience via Android TV or TV box.
 - **License:** MIT
 

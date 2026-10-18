@@ -30,6 +30,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir yapay zekâ ajanı geliştiriyorum ve bu ajanın araç kullanımını kısıtlamak istiyorum. agent-governance-toolkit kullanarak bir YAML politika dosyası oluşturmama ve Python kodumdaki araç fonksiyonlarını bu politikaya göre nasıl güvenli hale getireceğime dair bir örnek kod yapısı hazırlar mısın?
 
+Depo: https://github.com/microsoft/agent-governance-toolkit. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Otonom yapay zekâ ajanlarını üretim ortamına taşırken güvenlik ve denetim mekanizmalarına ihtiyaç duyan yazılım geliştiriciler içindir.
 - **Lisans:** MIT
 

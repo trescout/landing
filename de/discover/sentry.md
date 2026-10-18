@@ -27,6 +27,7 @@ Um die Fehlerverfolgungsplattform Sentry zu nutzen, können Sie die offizielle W
 
 - [Error Tracking](https://trescout.com/de/dictionary/error-tracking/)
 - [SDK](https://trescout.com/de/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Entwickler gedacht, die Fehler und Leistungsprobleme in ihrer Software schnell erkennen und beheben möchten.
 

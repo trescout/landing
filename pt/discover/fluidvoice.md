@@ -33,6 +33,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero otimizar minha experiência de ditado de voz usando o aplicativo FluidVoice. Como posso configurar com mais eficiência a edição de texto nativa assistida por IA, a capitalização sensível ao contexto e os recursos de formatação inteligente que o aplicativo oferece? Além disso, como posso melhorar meu desempenho de ditado criando conjuntos de prompts personalizados para diferentes aplicativos?
 
+Repositório: https://github.com/altic-dev/FluidVoice. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Voice to Text](https://trescout.com/pt/dictionary/voice-to-text/)

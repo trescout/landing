@@ -44,6 +44,7 @@ Vous pouvez accéder au guide d'installation en visitant la page de documentatio
 ## Termes liés du glossaire
 
 - [Rust](https://trescout.com/fr/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux analystes de données et aux ingénieurs qui souhaitent transformer et gérer les données dans l'entrepôt de données avec la discipline du développement logiciel.
 - **Licence:** Apache-2.0

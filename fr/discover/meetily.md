@@ -35,6 +35,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 En utilisant cet outil qui traite localement les enregistrements de mes réunions, je souhaite convertir mes transcriptions audio en texte et extraire des résumés de ces textes de manière à protéger ma vie privée. Comment puis-je créer les notes de réunion les plus efficaces avec des modèles locaux, tout en garantissant que mes données ne quittent pas mon appareil ?
 
+Dépôt : https://github.com/Zackriya-Solutions/meetily. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Speaker Diarization](https://trescout.com/fr/dictionary/speaker-diarization/)

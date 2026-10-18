@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yapay zekâ ajanımın sistemimde çalıştırdığı komutları denetlemek için Destructive Command Guard kullanıyorum. Lütfen tehlikeli git, dosya sistemi veya veritabanı silme komutlarını çalıştırmadan önce güvenlik kurallarını göz önünde bulundur, riskli bir işlem yapman gerekiyorsa önce beni bilgilendir ve onayımı al.
 
+Depo: https://github.com/Dicklesworthstone/destructive_command_guard. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ destekli kodlama ajanlarını kullanan ve yanlışlıkla veri silme riski taşımak istemeyen yazılımcılar içindir.
 
 ## Bağlantılar

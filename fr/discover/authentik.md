@@ -25,6 +25,10 @@ Pour l'installation, rendez-vous sur la page de documentation sur le site offici
 
 - [Source officielle →](https://goauthentik.io)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il convient aux développeurs de logiciels et aux administrateurs système qui souhaitent ajouter un système d'authentification sécurisé et centralisé à leurs applications.
 
 ## Liens

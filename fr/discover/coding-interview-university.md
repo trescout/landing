@@ -19,6 +19,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je me prépare pour un entretien de génie logiciel en utilisant le programme Coding Interview University. Créez un plan d'étude quotidien pour que j'apprenne les structures de données, les algorithmes et les sujets informatiques abordés dans cette ressource. Pouvez-vous préparer une feuille de route du niveau débutant au niveau avancé qui comprend les matières de base que je dois apprendre, l'ordre dans lequel je dois les étudier et les ressources avec lesquelles je peux m'entraîner ?
 
+Dépôt : https://github.com/jwasham/coding-interview-university. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Computer Science](https://trescout.com/fr/dictionary/computer-science/)

@@ -31,6 +31,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Le daré el contenido de un plan de estudios de código abierto de 20 fases y más de 500 lecciones llamado 'ingeniería de IA desde cero' que enseña ingeniería de IA desde cero. Reviso el README y la hoja de ruta y me da un plan de estudio personal, en turco, dividido en semanas: ¿desde qué fase debo empezar, cuáles son los requisitos previos y en qué orden debo proceder? Mi nivel: [ej. principiante].
 
+Repositorio: https://github.com/rohitg00/ai-engineering-from-scratch. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Tokenizer](https://trescout.com/es/dictionary/tokenizer/)

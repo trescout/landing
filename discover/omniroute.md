@@ -52,6 +52,12 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OmniRoute yapay zekâ ağ geçidini kullanarak OpenAI, Anthropic ve yerel Ollama modellerini içeren bir yönlendirme konfigürasyonu hazırla. Ana model yanıt vermezse otomatik olarak ikinci modele geçiş sağlayan bir fallback kuralı oluştur ve Docker Compose ile çalıştırma adımlarını listele.
 
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 ## Kritik uyarılar ve sınırlar
 
 - **API Anahtarı Güvenliği:** Ağ geçidi sunucusunun ortam değişkenlerindeki API anahtarlarını güvenceye alın; ağ geçidini genel internete açarken mutlaka yetkilendirme (Bearer Token) uygulayın.

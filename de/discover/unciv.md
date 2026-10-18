@@ -2,16 +2,16 @@
 
 Unciv ist eine Open-Source-, minimalistische und plattformübergreifende Desktop- und Android-Adaption von Civilization V. Das Projekt wurde mit Kotlin- und LibGDX-Infrastruktur entwickelt und bietet originale 4X-Strategiemechaniken ohne Hardwarelast und hohe Mod-Unterstützung.
 
-- ★ 11.452
+- ★ 11.458
 - Kotlin
 - GitHub Trending · 2026-06-18
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 11,452 → 11,458, neueste Version 4.22.11-patch1 (17. Oktober 2026).
 - **17. Oktober 2026:** Sterne 11,433 → 11,452, neueste Version 4.22.11 (16. Oktober 2026).
 - **13. Oktober 2026:** Sterne 11,429 → 11,433, neueste Version 4.22.10 (13. Oktober 2026).
 - **12. Oktober 2026:** Sterne 11,403 → 11,429, neueste Version 4.22.9 (12. Oktober 2026).
-- **8. Oktober 2026:** Sterne 11,394 → 11,403, neueste Version 4.22.8 (8. Oktober 2026).
 
 ## Was es bringt
 
@@ -48,6 +48,14 @@ Um das Unciv-Projekt auf Ihrem Gerät abzuspielen, können Sie den für Ihre Pla
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine gültige JSON-Mod-Struktur für das Spiel Unciv vorbereiten. Können Sie eine Beispiel-Unciv-Mod-Vorlage erstellen, die eine spezielle Kavallerieeinheit und ein spezielles Bibliotheksgebäude enthält, das als Anführerfähigkeit einen Bonus auf Wissenschafts- und Kulturproduktion verleiht? Können Sie Schritt für Schritt erklären, welche JSON-Dateien ich in welcher Ordnerstruktur speichern soll und wie ich dies über die Mod-Manager-Oberfläche im Spiel testen kann?
+
+Repository: https://github.com/yairm210/Unciv. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Häufig gestellte Fragen
 

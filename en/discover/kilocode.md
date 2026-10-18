@@ -53,6 +53,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 As a software development agent, I need you to manage my natural language code generation, debugging, or architecture planning processes in my current project directory. I want you to choose the one that best suits my task among the more than 500 models offered by Kilo, review the codes you have written with your own self-audit mechanism, and deliver them in accordance with performance and security standards.
 
+Repository: https://github.com/Kilo-Org/kilocode. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Agentic Engineering Platform](https://trescout.com/en/dictionary/agentic-engineering-platform/)

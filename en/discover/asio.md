@@ -30,6 +30,7 @@ Asio is a C++ library. To start using it, you can visit https://think-async.com/
 
 - [I/O](https://trescout.com/en/dictionary/io/)
 - [API](https://trescout.com/en/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for C++ developers who want to develop asynchronous network applications.
 

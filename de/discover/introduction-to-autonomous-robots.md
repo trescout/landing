@@ -26,6 +26,7 @@ Dieses Projekt enthält die Quellcodes eines Lehrbuchs über autonome Roboter. U
 
 - [Introduction to Autonomous Robots](https://trescout.com/de/dictionary/autonomous-robots-intro/)
 - [PDF](https://trescout.com/de/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Studierende und Forscher, die die theoretische Infrastruktur und die algorithmischen Prinzipien autonomer Robotersysteme erlernen möchten.
 

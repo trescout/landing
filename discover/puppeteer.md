@@ -42,6 +42,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir web otomasyon uzmanısın. Puppeteer kütüphanesini kullanarak bir web sayfasını açan, belirli bir alana metin yazan ve sonuçları ekrana yazdıran basit bir JavaScript betiği hazırla. Tarayıcıyı başlatan, yeni bir sayfa oluşturan, bir URL adresine giden ve sayfa başlığını konsola yazdıran adımları içeren bir kod örneği sun.
 
+Depo: https://github.com/puppeteer/puppeteer. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Web sayfaları üzerinde test otomasyonu yapmak veya veri toplamak isteyen yazılım geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
 

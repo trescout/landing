@@ -26,6 +26,7 @@ Ce projet contient les codes sources d'un manuel écrit sur les robots autonomes
 
 - [Introduction to Autonomous Robots](https://trescout.com/fr/dictionary/autonomous-robots-intro/)
 - [PDF](https://trescout.com/fr/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux étudiants et aux chercheurs qui souhaitent apprendre l'infrastructure théorique et les principes algorithmiques des systèmes robotiques autonomes.
 

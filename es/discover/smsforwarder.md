@@ -22,6 +22,10 @@ Para comenzar a utilizar la herramienta, visite la página de lanzamientos ofici
 
 - [Fuente oficial →](https://github.com/pppscn/SmsForwarder/releases)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es para usuarios que desean seguir los mensajes y notificaciones en su dispositivo Android desde un punto central o administrar su dispositivo de forma remota.
 - **Licencia:** BSD-2-Clause
 

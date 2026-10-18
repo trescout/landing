@@ -43,6 +43,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar a biblioteca spdlog com arquitetura assíncrona usando CMake em um projeto C++ moderno. Você pode preparar o arquivo CMakeLists.txt com uma função de inicialização C++ de amostra que gira o arquivo quando o log atinge 10 MB de tamanho, também fornece saída colorida para o console e o libera no disco imediatamente após o nível de erro?
 
+Repositório: https://github.com/gabime/spdlog. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - O spdlog deve ser usado apenas no cabeçalho ou compilado? Em projetos de pequeno e médio porte, utilizar header-only adicionando apenas o diretório include proporciona grande praticidade. No entanto, em grandes projetos C++ que consistem em centenas de arquivos de origem, é recomendável compilar e vincular a biblioteca ao sinalizador SPDLOG_COMPILED para otimizar o tempo de compilação.

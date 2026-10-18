@@ -23,6 +23,10 @@ Para comenzar a utilizar la herramienta, basta con ir a la página oficial de la
 
 - [Fuente oficial →](https://viarotel.eu.org/)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es adecuado para cualquier persona que desee administrar su teléfono o tableta Android desde su computadora con una interfaz gráfica.
 - **Licencia:** Apache-2.0
 

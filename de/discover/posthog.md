@@ -2,16 +2,16 @@
 
 PostHog ist eine umfassende Plattform, die Tools wie Observability, Analyse und Session Replay mit künstlicher Intelligenz für Produktentwicklungsprozesse vereint. Es ermöglicht Softwareentwicklern, autonome Produkte zu erstellen, indem sie Fehler verfolgen, Experimente verwalten und Benutzerdaten analysieren.
 
-- ★ 40.315
+- ★ 40.331
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 40,315 → 40,331, neueste Version desktop-v0.61.746 (18. Oktober 2026).
 - **17. Oktober 2026:** Sterne 40,305 → 40,315, neueste Version desktop-v0.61.737 (16. Oktober 2026).
 - **16. Oktober 2026:** Sterne 40,286 → 40,305, neueste Version desktop-v0.61.729 (16. Oktober 2026).
 - **15. Oktober 2026:** Sterne 40,280 → 40,286, neueste Version desktop-v0.61.716 (15. Oktober 2026).
-- **14. Oktober 2026:** Sterne 40,256 → 40,280, neueste Version desktop-v0.61.694 (14. Oktober 2026).
 
 ## Was es bringt
 
@@ -32,6 +32,14 @@ PostHog ist eine umfassende Plattform, die Tools wie Observability, Analyse und 
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich muss das Benutzerverhalten in meinem Produkt mithilfe der PostHog-Plattform analysieren. Welche Tools sollte ich verwenden, um Fehler zu erkennen, Sitzungswiederholungen zu überprüfen und die Leistung meiner KI-gestützten Funktionen zu überwachen? Erklären Sie die Schritte, die ich befolgen muss, um Datenerfassungs- und Analyseprozesse zu automatisieren.
+
+Repository: https://github.com/PostHog/posthog. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

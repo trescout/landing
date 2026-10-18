@@ -71,6 +71,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Gitdiagram mimarisini temel alarak incelediğim GitHub deposunun sistem şemasını oluştur. Depodaki ana bileşenleri, veri akış yönlerini, giriş noktalarını (entry points) ve harici bağımlılıkları tespit et. Mimariyi Mermaid.js formatında bir flowchart olarak çiz ve her bileşenin işlevini ikişer cümleyle açıkla.
 
+Depo: https://github.com/ahmedkhaleel2004/gitdiagram. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 ## Kritik uyarılar ve sınırlar
 
 - **Devasa Monorepolar:** On binlerce dosya içeren monorepolarda GitHub API hız limitine (rate limit) takılabilir. Kişisel GitHub token kullanmak sınırları genişletir.

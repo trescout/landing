@@ -2,17 +2,17 @@
 
 OpenStock est une alternative open source aux plateformes d'échange coûteuses. Il offre un suivi des prix en temps réel, des alertes personnalisées et des analyses d'entreprise. Il est accessible à tous et gratuit pour toujours.
 
-- ★ 20 317
+- ★ 20 333
 - TypeScript
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 20,317 → 20,333, dernière version v2026.10.18 (18 octobre 2026).
 - **17 octobre 2026:** Étoiles 19,315 → 20,317.
 - **27 septembre 2026:** Étoiles 15,130 → 19,315.
 - **18 septembre 2026:** Étoiles 14,018 → 15,130.
-- **2 août 2026:** Étoiles 11,968 → 14,018.
 
 ## Ce que ça vous apporte
 
@@ -48,6 +48,16 @@ Vous pouvez utiliser le site prêt à l'emploi (openstock-ods.vercel.app) direct
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi à installer une application open source de suivi des stocks appelée OpenStock ; Téléchargez le référentiel avec 'git clone https://github.com/Open-Dev-Society/OpenStock.git', 'cd OpenStock' et exécutez 'pnpm install', définissez les variables .env nécessaires et démarrez le serveur de développement avec 'pnpm dev' et ouvrez-le sur http://localhost:3000.
+
+Dépôt : https://github.com/Open-Dev-Society/OpenStock. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

@@ -29,6 +29,7 @@ Para comenzar a utilizar la plataforma, puede visitar el sitio web oficial en ht
 
 - [CRM](https://trescout.com/es/dictionary/crm/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para pequeñas, medianas y grandes empresas, así como para trabajadores independientes que deseen digitalizar sus procesos de negocio a través de una única plataforma y aumentar la eficiencia operativa.
 - **Licencia:** AGPL-3.0

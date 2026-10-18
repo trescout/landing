@@ -47,6 +47,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero automatizar meus fluxos de trabalho de dados usando Python. Ajude-me a criar um pipeline de dados simples usando os decoradores de fluxo e tarefas da biblioteca Prefect. Explique com códigos de amostra como posso integrar recursos de gerenciamento de erros, agendamento e monitoramento e como posso transformar um arquivo Python em um fluxo de trabalho de nível de produção.
 
+Repositório: https://github.com/PrefectHQ/prefect. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Workflow Orchestration Framework](https://trescout.com/pt/dictionary/workflow-orchestration-framework/)

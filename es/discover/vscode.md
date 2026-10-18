@@ -29,6 +29,7 @@ Puede descargar Visual Studio Code para los sistemas operativos Windows, macOS y
 
 - [Code Editor](https://trescout.com/es/dictionary/code-editor/)
 - [Editor](https://trescout.com/es/dictionary/editor/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores de software que desean reunir los procesos de edición de código, navegación y depuración ligera bajo un mismo techo.
 - **Licencia:** MIT

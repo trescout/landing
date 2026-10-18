@@ -42,6 +42,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer des applications d'intelligence artificielle physique à l'aide de la plateforme NVIDIA Cosmos. Expliquez en détail technique les capacités offertes par la famille de modèles Cosmos 3, en particulier les différences dans l'utilisation des surfaces « Reasoner » et « Generator », et comment ces modèles peuvent être configurés dans des scénarios tels que la planification de mission ou la simulation du monde dans des systèmes robotiques et autonomes. Résumez également le processus de travail avec l'outil « uv » et la bibliothèque « vllm-omni » pendant la phase d'installation, étape par étape, en tenant compte des exigences du pilote CUDA.
 
+Dépôt : https://github.com/NVIDIA/cosmos. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Physical AI](https://trescout.com/fr/dictionary/physical-ai/)

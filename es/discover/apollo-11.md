@@ -24,6 +24,7 @@ Este repositorio fue creado para archivar los códigos fuente originales de la c
 
 - [Guidance Computer](https://trescout.com/es/dictionary/guidance-computer/)
 - [Assembly](https://trescout.com/es/dictionary/assembly/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para investigadores y entusiastas de la tecnología interesados ​​en la historia de la aviación y la ingeniería de software.
 

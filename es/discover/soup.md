@@ -48,6 +48,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero entrenar un modelo de inteligencia artificial con 8 mil millones de parámetros usando la biblioteca Soup en mi computadora con 4 GB de memoria gráfica. Ayúdame a crear un archivo de configuración YAML que permita la transmisión de capas y utilice cuantificación de 4 bits. Prepare el contenido del archivo sopa.yaml necesario para iniciar el proceso de capacitación y luego explique paso a paso cómo iniciar la capacitación utilizando este archivo.
 
+Repositorio: https://github.com/MakazhanAlpamys/Soup. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Layer Streaming](https://trescout.com/es/dictionary/layer-streaming/)

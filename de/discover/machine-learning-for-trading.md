@@ -33,6 +33,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich Modelle des maschinellen Lernens in Datenanalyse- und Strategieentwicklungsprozessen auf Finanzmärkten einsetzen? Erklären Sie anhand der Fallstudien in diesem Tool Schritt für Schritt den Arbeitsablauf einer Handelsstrategie von der Datenquelle bis zur Live-Verarbeitung und die Rolle von KI-Agenten in diesem Prozess.
 
+Repository: https://github.com/stefan-jansen/machine-learning-for-trading. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Machine Learning](https://trescout.com/de/dictionary/machine-learning/)

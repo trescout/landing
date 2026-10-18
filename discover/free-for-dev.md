@@ -58,6 +58,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yeni bir web girişimi için tamamen ücretsiz servislerden oluşan modern bir bulut altyapısı kurmak istiyorum. free-for-dev listesindeki en popüler ücretsiz sağlayıcıları (barındırma, veritabanı, kimlik doğrulama ve e-posta servisi) birleştiren, kota sınırlarını aşmayacak sıfır maliyetli bir mimari planı ve kurulum adımlarını açıklar mısın?
 
+Depo: https://github.com/ripienaar/free-for-dev. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Girişimciler, bağımsız geliştiriciler, öğrenciler ve altyapı maliyetini sıfırlamak isteyen mühendisler.
 - **Lisans:** CC BY 4.0 (Açık içerik lisansı)
 - **Küratör:** R.I. Pienaar ve 1000'den fazla açık kaynak katkıcısı

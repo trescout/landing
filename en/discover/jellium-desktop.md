@@ -22,6 +22,7 @@ You can use the download links on the GitHub page to start using the Jellium Des
 
 - [Desktop Client](https://trescout.com/en/dictionary/desktop-client/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to use the Jellyfin media server through a native desktop application instead of a browser.
 - **License:** GPL-2.0

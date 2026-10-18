@@ -56,6 +56,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir müşteri destek temsilcisi gibi davranarak gelen soruları yanıtla. Chatwoot üzerindeki Captain yapay zekâ asistanı olarak, sık sorulan soruları otomatik olarak çözümle ve karmaşık konuları ilgili ekip arkadaşlarına yönlendir. Müşterilere her zaman nazik, hızlı ve doğru bilgiler vererek destek deneyimini iyileştir.
 
+Depo: https://github.com/chatwoot/chatwoot. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Müşteri etkileşimlerini tek merkezden yönetmek ve destek süreçlerini otomatize etmek isteyen işletmeler için uygundur.
 
 ## Bağlantılar

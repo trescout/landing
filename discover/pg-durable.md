@@ -44,6 +44,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 PostgreSQL üzerinde pg_durable eklentisini kullanarak bir iş akışı oluşturmak istiyorum. Veritabanı içinde hata toleranslı ve kalıcı bir süreç yönetmek için df.start() fonksiyonunu nasıl yapılandırmalıyım? SQL adımlarını birbirine bağlayan ~> ve |=> operatörlerini kullanarak, verileri işleyen ve hata durumunda kaldığı yerden devam edebilen bir yapıyı nasıl kurabilirim? Lütfen bu süreci SQL komutları ile örneklendirerek açıkla.
 
+Depo: https://github.com/microsoft/pg_durable. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Veri işleme süreçlerini, hata toleranslı ve kalıcı bir şekilde doğrudan PostgreSQL üzerinde yönetmek isteyen arka uç geliştiricileri, veritabanı yöneticileri ve veri mühendisleri için uygundur.
 
 ## Bağlantılar

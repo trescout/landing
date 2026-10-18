@@ -42,6 +42,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'ai converti ce répertoire de projet en un graphe de connaissances à l'aide de Graphify. Maintenant, en utilisant cette structure, je souhaite que vous analysiez les relations entre les concepts du projet, que vous expliquiez comment les blocs de code complexes sont connectés les uns aux autres et que vous détailliez le rôle des nœuds maîtres tels que « APIRouter » dans le système. Veuillez faire la distinction entre les informations provenant directement du code source et les connexions déduites en prenant en compte les balises « EXTRAITE » et « INFÉRÉE » lors de l'exécution de votre analyse.
 
+Dépôt : https://github.com/Graphify-Labs/graphify. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [AI Coding Assistants](https://trescout.com/fr/dictionary/ai-coding-assistants/)

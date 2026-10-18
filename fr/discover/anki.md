@@ -27,6 +27,7 @@ Pour commencer à utiliser l'application Anki, vous pouvez visiter le site offic
 
 - [Spaced Repetition](https://trescout.com/fr/dictionary/spaced-repetition/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux personnes apprenant une nouvelle langue, à celles travaillant dans des domaines nécessitant une grande quantité d'informations comme la médecine ou le droit, et à tous ceux qui ne veulent pas oublier ce qu'ils ont appris.
 

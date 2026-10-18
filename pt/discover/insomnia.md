@@ -42,6 +42,7 @@ Para começar a usar o Insomnia, você pode acessar o site oficial https://insom
 ## Termos relacionados do glossário
 
 - [API](https://trescout.com/pt/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores de software que desejam gerenciar processos de desenvolvimento, teste e documentação de APIs em uma única plataforma.
 - **Licença:** Apache-2.0

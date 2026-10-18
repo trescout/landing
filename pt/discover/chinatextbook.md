@@ -26,6 +26,7 @@ Você pode visualizar ou baixar diretamente livros didáticos nos níveis primá
 ## Termos relacionados do glossário
 
 - [PDF](https://trescout.com/pt/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a estudantes, investigadores e famílias chinesas que vivem no estrangeiro e que desejam ter acesso digital gratuito aos livros didáticos do currículo educacional chinês.
 

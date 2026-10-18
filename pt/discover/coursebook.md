@@ -28,6 +28,7 @@ Não é necessário executar nenhum código para ler este recurso. Usando os lin
 - [Systems Programming](https://trescout.com/pt/dictionary/systems-programming/)
 - [PDF](https://trescout.com/pt/dictionary/pdf/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destinado a qualquer pessoa que queira aprender programação de sistemas de baixo nível e fundamentos de sistemas operacionais com a linguagem de programação C.
 

@@ -25,6 +25,7 @@ Pour trouver les données dont vous avez besoin, vous pouvez visiter le référe
 ## Termes liés du glossaire
 
 - [API](https://trescout.com/fr/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient à tous les développeurs de logiciels qui ont besoin de sources de données externes dans leurs projets.
 - **Licence:** MIT

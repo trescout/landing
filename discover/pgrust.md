@@ -32,6 +32,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Pgrust projesinin temel amacı nedir, mevcut PostgreSQL ile disk uyumluluğu nasıl sağlanıyor ve projenin geliştirilmesinde yapay zekâ destekli programlamadan nasıl yararlanılıyor? Pgrust'un şu anki sürümünün Postgres 18.3 ile uyumluluk durumu ve regresyon testlerindeki başarısı hakkında bilgi ver.
 
+Depo: https://github.com/malisper/pgrust. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** PostgreSQL mimarisini Rust dili ile modernize etmek isteyen geliştiriciler ve veritabanı araştırmacıları için uygundur.
 - **Lisans:** AGPL-3.0
 

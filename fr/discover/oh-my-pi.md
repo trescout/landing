@@ -2,15 +2,15 @@
 
 Oh-my-pi est un agent de codage d'intelligence artificielle qui s'exécute dans un environnement de terminal et automatise les processus d'édition de code. L'outil vise à optimiser les flux de travail de développement logiciel avec des fonctionnalités telles que le protocole de serveur de langage (LSP), l'intégration du navigateur et la gestion des sous-agents.
 
-- ★ 35 712
+- ★ 35 803
 - GitHub Trending · 2026-06-02
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 35,712 → 35,803, dernière version v18.12.1 (17 octobre 2026).
 - **17 octobre 2026:** Étoiles 35,537 → 35,712, dernière version v18.11.3 (16 octobre 2026).
 - **15 octobre 2026:** Étoiles 35,495 → 35,537, dernière version v18.11.1 (15 octobre 2026).
 - **15 octobre 2026:** Étoiles 35,383 → 35,495, dernière version v18.11.0 (14 octobre 2026).
-- **14 octobre 2026:** Étoiles 35,198 → 35,383, dernière version v18.10.4 (13 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -52,6 +52,14 @@ omp completions fish > ~/.config/fish/completions/omp.fish
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'ai commencé à utiliser l'outil Oh My Pi sur mon terminal. Comment puis-je optimiser mon flux de travail en utilisant des fonctionnalités avancées telles que la prise en charge LSP, le débogage et la gestion des sous-agents dans mes projets avec cet agent de codage IA ? Expliquez étape par étape comment utiliser les outils intégrés offerts par cet outil de la manière la plus efficace, notamment dans l'édition de code, la lecture de fichiers et le débogage.
+
+Dépôt : https://github.com/can1357/oh-my-pi. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

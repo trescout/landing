@@ -43,6 +43,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear un agente de inteligencia artificial usando Langflow. Guíame en el diseño de un flujo de modelo de lenguaje básico utilizando la interfaz visual. Explique paso a paso qué componentes necesito arrastrar, cómo conectar estos componentes y cómo puedo exportar el flujo que creé como una API.
 
+Repositorio: https://github.com/langflow-ai/langflow. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [MCP](https://trescout.com/es/dictionary/mcp/)

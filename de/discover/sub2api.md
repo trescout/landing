@@ -53,6 +53,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich mithilfe der Sub2API-Plattform verschiedene KI-Dienste wie Claude, OpenAI, Gemini und Grok über ein einziges API-Gateway konfigurieren? Erklären Sie die grundlegenden Schritte, die ich befolgen muss, um meine Abonnementkontingente effizient zuzuweisen und sie in meine vorhandenen Softwaretools zu integrieren. Fassen Sie außerdem die rechtlichen und technischen Aspekte zusammen, auf die ich achten muss, um bei der Nutzung dieser Plattform die Nutzungsbedingungen von Anbietern wie Anthropic einzuhalten.
 
+Repository: https://github.com/Wei-Shaw/sub2api. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [API](https://trescout.com/de/dictionary/api/)

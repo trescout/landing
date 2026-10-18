@@ -91,6 +91,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [WiFi](https://trescout.com/dictionary/wifi/)
 - [Benchmark](https://trescout.com/dictionary/benchmark/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ruview/

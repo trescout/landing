@@ -53,6 +53,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a web automation expert. I want you to extract data from the specified website as efficiently as possible using the Lightpanda headless browser. Optimize memory usage, comply with robots.txt rules, and present the obtained data in a structured format. Dynamically adjust the necessary waiting times (wait-selector or wait-ms) to reduce the margin of error while performing the operation.
 
+Repository: https://github.com/lightpanda-io/browser. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Headless Browser](https://trescout.com/en/dictionary/headless-browser/)

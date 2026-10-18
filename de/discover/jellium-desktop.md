@@ -22,6 +22,7 @@ Sie können die Download-Links auf der GitHub-Seite verwenden, um mit der Verwen
 
 - [Desktop Client](https://trescout.com/de/dictionary/desktop-client/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die den Jellyfin-Medienserver über eine native Desktop-Anwendung statt über einen Browser verwenden möchten.
 - **Lizenz:** GPL-2.0

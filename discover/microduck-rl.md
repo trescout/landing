@@ -62,6 +62,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Pollen Robotics'in microduck_rl kütüphanesini kullanarak Microduck robotu için bir yürüme (walking) politikası eğitmek istiyorum. MuJoCo ortamını nasıl yapılandıracağımı, PPO algoritması ile eğitim komutunu nasıl başlatacağımı ve ortaya çıkan kontrol politikasını fiziksel robota aktarma adımlarını açıklar mısın?
 
+Depo: https://github.com/pollen-robotics/microduck_rl. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Robotik araştırmacıları, mekatronik mühendisleri, pekiştirmeli öğrenme uzmanları ve hobiciler.
 - **Lisans:** Apache-2.0 (Açık kaynak lisansı)
 - **Çatı:** Python, MuJoCo & mjlab Robotik Çatısı

@@ -43,6 +43,7 @@ Para comenzar a utilizar esta herramienta, puede visitar el sitio web oficial ta
 - [Utility-first](https://trescout.com/es/dictionary/utility-first/)
 - [CSS Framework](https://trescout.com/es/dictionary/css-framework/)
 - [Framework](https://trescout.com/es/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores de software que desean diseñar interfaces de usuario únicas y rápidas en sus proyectos web.
 - **Licencia:** MIT

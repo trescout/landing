@@ -71,6 +71,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Şüpheli bir ikili (binary) dosyayı Ghidra kullanarak incelemek istiyorum. Ghidra'da yeni bir proje açma, dosyayı içe aktarma, otomatik analizi (Auto Analysis) çalıştırma, Decompiler penceresinde fonksiyonları inceleme ve dışarıya çağrılan şüpheli API fonksiyonlarını tespit etme adımlarını adım adım açıklar mısın?
 
+Depo: https://github.com/NationalSecurityAgency/ghidra. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Zararlı yazılım araştırmacıları, zafiyet avcıları, tersine mühendislik uzmanları ve gömülü sistem geliştiricileri.
 - **Lisans:** Apache-2.0 (Açık kaynak lisansı)
 - **Geliştirici:** National Security Agency (NSA) ve Açık Kaynak Topluluğu

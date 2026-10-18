@@ -40,6 +40,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist mein KI-Assistent. Ich möchte, dass Sie in meinem holaOS-Arbeitsbereich an meinen Dateien, Tools und Apps arbeiten. Erinnern Sie sich mithilfe des Shared Memory an den Kontext meiner vergangenen Projekte und führen Sie meine Aufgaben durch die Integration von Agenten wie Claude Code oder Codex aus. Verwalten Sie meine Arbeitsabläufe, erstellen Sie Berichte und speichern Sie sie als tatsächliche Dateien (.xlsx, .pptx, .docx), indem Sie Daten aus meinen verbundenen Konten wie Notion, Gmail und Slack verwenden.
 
+Repository: https://github.com/holaboss-ai/holaOS. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [BYOK](https://trescout.com/de/dictionary/byok/)

@@ -41,6 +41,10 @@ This tool is web-based software and must be run on a web server. For installatio
 
 - [Official source →](https://snipeitapp.com)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is for organizations and system administrators who want to regularly monitor their IT inventory, hardware debits and software licenses.
 - **License:** AGPL-3.0
 

@@ -27,6 +27,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Cloud Computing](https://trescout.com/dictionary/cloud-computing/)
 - [CI/CD](https://trescout.com/dictionary/ci-cd/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/devops-interview-guide/

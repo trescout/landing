@@ -33,6 +33,16 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 PageIndex Python kütüphanesini kullanarak yerel modda bir belgeyi indekslemek ve yapay zekâ modeli ile belge üzerinde arama yapmak istiyorum. Kurulumu tamamladıktan sonra, OpenAI API anahtarımı tanımlayarak belgeyi sisteme yükleyip soru sormamı sağlayan örnek Python kodunu çalıştırabilir misin?
 
+Depo: https://github.com/VectifyAI/PageIndex. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Bir API anahtarı gerekirse onu sohbete yazmamı isteme. .env dosyasına nasıl ekleyeceğimi göster ve bu dosyanın Git'e gönderilmediğinden emin ol.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Uzun ve karmaşık belgeler üzerinde parça bölme veya vektör tabanlı veritabanları kullanmadan mantıksal çıkarım yapabilen bir arama altyapısı kurmak isteyenler içindir.
 - **Lisans:** MIT
 

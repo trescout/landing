@@ -38,6 +38,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Usando a interface G0DM0D3, ative o mecanismo ULTRAPLINIAN, que executa vários modelos por meio dos provedores de modelos que eu especifico (OpenRouter, Venice ou servidor local). Aplique técnicas de mixagem de entrada de língua de cobra para minhas investigações da equipe vermelha e configure automaticamente os parâmetros de amostragem mais adequados ao contexto de consulta com o recurso AutoTune.
 
+Repositório: https://github.com/elder-plinius/G0DM0D3. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Red Teaming](https://trescout.com/pt/dictionary/red-teaming/)

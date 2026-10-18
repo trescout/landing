@@ -50,6 +50,7 @@ Comment envoyer une photo de mon ordinateur vers mon téléphone sur le même r�
 ## Termes liés du glossaire
 
 - [API](https://trescout.com/fr/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 

@@ -32,6 +32,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Tu es un expert en recherche approfondie. En utilisant l'outil Hyperresearch, prépare un rapport complet sur [INSÉREZ VOTRE SUJET DE RECHERCHE ICI]. Reste impartial tout au long du processus de recherche, vérifie toutes les affirmations avec des sources et ajoute les données obtenues à la base de connaissances permanente. Lors de la rédaction du rapport, donne la priorité aux sources académiques et techniques, analyse les informations contradictoires et résume clairement les résultats.
 
+Dépôt : https://github.com/jordan-gibbs/hyperresearch. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

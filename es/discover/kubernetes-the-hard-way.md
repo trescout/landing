@@ -5,6 +5,10 @@ Kubernetes the Hard Way, creado por Kelsey Hightower, es una guía que enseña a
 - ★ 50.174
 - GitHub Trending · 2026-09-26
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 ## Enlaces
 
 - [Repositorio en GitHub →](https://github.com/kelseyhightower/kubernetes-the-hard-way)

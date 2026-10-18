@@ -25,6 +25,10 @@ Para comenzar a utilizar la herramienta Dopamina, puede visitar el sitio web ofi
 
 - [Fuente oficial →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es para usuarios que desean tener derechos administrativos evitando las restricciones del sistema en sus dispositivos iOS.
 - **Licencia:** MIT
 

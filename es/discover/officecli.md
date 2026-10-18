@@ -53,6 +53,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Puede administrar archivos de Word, Excel y PowerPoint con la herramienta OfficeCLI preparada para usted. Para utilizar esta herramienta, instale el archivo de habilidades requerido ejecutando el siguiente comando: curl -fsSL https://officecli.ai/SKILL.md. Después de este proceso, podrá leer, editar y crear documentos de Office a través de la línea de comando.
 
+Repositorio: https://github.com/iOfficeAI/OfficeCLI. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [PowerPoint](https://trescout.com/es/dictionary/powerpoint/)

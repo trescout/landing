@@ -36,6 +36,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Repository Checkout](https://trescout.com/dictionary/repository-checkout/)
 - [Checkout](https://trescout.com/dictionary/checkout/)
 - [Continuous Integration](https://trescout.com/dictionary/continuous-integration/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/checkout/

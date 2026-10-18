@@ -48,6 +48,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [BDD](https://trescout.com/dictionary/bdd/)
 - [Unit Testing](https://trescout.com/dictionary/unit-testing/)
 - [TDD](https://trescout.com/dictionary/tdd/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/catch2/

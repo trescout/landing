@@ -2,16 +2,16 @@
 
 DeepSeek-Reasonix est un agent de codage d'IA qui s'exécute sur le terminal et est basé sur les modèles DeepSeek. En se concentrant sur la stabilité du cache de préfixes, cet outil garantit aux développeurs une prise en charge ininterrompue du codage pendant de longues sessions.
 
-- ★ 35 823
+- ★ 35 837
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 35,823 → 35,837, dernière version studio-v2.44.0 (18 octobre 2026).
 - **17 octobre 2026:** Étoiles 35,818 → 35,823, dernière version studio-v2.43.0 (17 octobre 2026).
 - **16 octobre 2026:** Étoiles 35,803 → 35,818, dernière version studio-v2.42.0 (16 octobre 2026).
 - **15 octobre 2026:** Étoiles 35,786 → 35,803, dernière version studio-v2.41.0 (15 octobre 2026).
-- **14 octobre 2026:** Étoiles 35,775 → 35,786, dernière version studio-v2.39.0 (14 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -52,6 +52,14 @@ reasonix run "implement the TODOs in main.go"
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Tout en travaillant avec cet agent de codage d'intelligence artificielle exécuté sur le terminal, développer des suggestions de code en tenant compte de la structure actuelle et des objectifs de mon projet. Concentrez-vous sur la production de réponses cohérentes et peu coûteuses au cours de nos longues sessions grâce à la stabilité du cache de préfixes. Lors de l'écriture ou du débogage de code, fournissez des solutions modulaires et propres qui répondent aux besoins du projet.
+
+Dépôt : https://github.com/esengine/DeepSeek-Reasonix. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

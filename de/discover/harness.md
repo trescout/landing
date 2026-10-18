@@ -29,6 +29,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie das Harness-Plugin, indem Sie die Befehle „/plugin marketplace add revfactory/harness“ und dann „/plugin install harness@harness-marketplace“ in Claude Code ausführen. Bitten Sie es dann, ein für mein Projekt geeignetes Agententeam für künstliche Intelligenz einzurichten, indem Sie sagen: „Erstellen Sie ein Harness für dieses Projekt“.
 
+Repository: https://github.com/revfactory/harness. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 **Claude Code · Marktplatz + Installation**
 
 ```

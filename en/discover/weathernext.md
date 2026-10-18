@@ -30,6 +30,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I need to make a medium-term weather forecast for a specific region using the WeatherNext model. How can I load model weights via Google Cloud Bucket and start the forecast cycle by processing weather data (like temperature, wind speed)? Can you specifically explain the steps required for hurricane tracking?
 
+Repository: https://github.com/google-deepmind/weathernext. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Google Cloud](https://trescout.com/en/dictionary/google-cloud/)

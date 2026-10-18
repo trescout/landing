@@ -34,6 +34,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'exécute de grands modèles de langage de manière hétérogène sur CPU et GPU à l'aide de ktransformers. Comment puis-je intégrer la bibliothèque kt-kernel dans mon système pour utiliser efficacement mes ressources matérielles et optimiser les performances d'inférence de modèle, et quels sont les paramètres de configuration optimaux pour les modèles MoE ?
 
+Dépôt : https://github.com/kvcache-ai/ktransformers. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Fine-tuning](https://trescout.com/fr/dictionary/fine-tuning/)

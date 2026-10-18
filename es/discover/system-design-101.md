@@ -24,6 +24,7 @@ Esta herramienta no es una biblioteca de software sino un recurso educativo inte
 ## Términos relacionados del glosario
 
 - [System Design](https://trescout.com/es/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para quienes se preparan para entrevistas de ingeniería de software y para cualquiera que tenga curiosidad sobre cómo funcionan los sistemas en segundo plano.
 

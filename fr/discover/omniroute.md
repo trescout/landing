@@ -49,6 +49,12 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Préparez une configuration de routage incluant OpenAI, Anthropic et les modèles Ollama locaux en utilisant la passerelle d'intelligence artificielle OmniRoute. Créez une règle de secours (fallback) qui bascule automatiquement vers le second modèle si le modèle principal ne répond pas, et listez les étapes d'exécution avec Docker Compose.
 
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Avertissements critiques et limites
 
 - Sécurité de la clé API : sécurisez les clés API dans les variables d'environnement du serveur de la passerelle ; mettez impérativement en place une autorisation (jeton du porteur) lors de l'exposition de la passerelle à l'Internet public.

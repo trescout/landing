@@ -23,6 +23,10 @@ Esta ferramenta não requer instalação de software. Ao visitar a página relev
 
 - [Fonte oficial →](https://git.io/macx)
 
+## Termos relacionados do glossário
+
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
 - **Para quem é:** É adequado para quem é novo usuário de Mac ou deseja equipar seu sistema com as melhores ferramentas.
 - **Licença:** CC0-1.0
 

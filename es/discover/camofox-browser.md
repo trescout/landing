@@ -52,6 +52,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un administrador de navegadores web. Accede a los sitios web objetivo utilizando Camofox-browser. Utiliza este navegador, oculto a nivel de C++, para evitar ser detectado como bot. Al extraer datos de páginas web, prefiere las instantáneas de accesibilidad (accessibility snapshots), que son más ligeras que el HTML sin procesar. Utiliza identificadores estables para los elementos con los que necesites interactuar y gestiona las sesiones aislándolas por usuario.
 
+Repositorio: https://github.com/jo-inc/camofox-browser. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Stealth Headless Browser](https://trescout.com/es/dictionary/stealth-headless-browser/)

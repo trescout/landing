@@ -2,16 +2,16 @@
 
 CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor. Masaüstü işletim sistemlerini kontrol edebilen ajanların eğitimi ve değerlendirilmesi amacıyla kum havuzu (sandbox), yazılım geliştirme kiti (SDK) ve kıyaslama (benchmark) araçlarını tek bir çatı altında topluyor.
 
-- ★ 29.921
+- ★ 30.064
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 29.921 → 30.064, son sürüm cua-spaces-v0.9.4 (18 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 29.802 → 29.921, son sürüm cua-spaces-v0.9.3 (16 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 29.690 → 29.802, son sürüm cua-spaces-v0.9.2 (15 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 29.597 → 29.690, son sürüm cua-spaces-v0.8.0 (14 Ekim 2026).
-- **13 Ekim 2026:** Yıldız 28.129 → 29.597, son sürüm cua-sdk-v0.4.1 (5 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -50,6 +50,14 @@ lume run macos-sequoia-vanilla:latest
 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 CUA altyapısını kullanarak bir bilgisayar kullanım ajanı geliştirmek istiyorum. Ajanımın masaüstü uygulamalarıyla arka planda etkileşime girmesini, fare tıklamaları yapmasını ve klavye girdileri göndermesini sağlayacak temel Python yapısını kurmama yardımcı ol. CUA Sandbox SDK kullanarak bir Linux ortamında komut çalıştıran ve ekran görüntüsü alan örnek bir kod taslağı oluştur.
+
+Depo: https://github.com/trycua/cua. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 - **Kimin için:** Bilgisayar üzerinde otonom görevler gerçekleştiren yapay zekâ ajanları geliştiren yazılımcılar ve araştırmacılar için uygundur.
 - **Lisans:** MIT

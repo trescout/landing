@@ -62,6 +62,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Revise esta revisão de código e prepare uma lista estruturada de quaisquer bugs ou sugestões de melhoria que você encontrar, com cada comentário identificado pelo caminho do arquivo e número da linha. Ao fazer a revisão, forneça sugestões concretas que aumentarão a legibilidade e o desempenho do código, com base nos dados em formato markdown que copiei do tuicr.
 
+Repositório: https://github.com/agavra/tuicr. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Code Review](https://trescout.com/pt/dictionary/code-review/)

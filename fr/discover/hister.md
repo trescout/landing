@@ -77,6 +77,7 @@ Ouvrez l'interface locale, indexez les pages sélectionnées via l'extension du 
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 

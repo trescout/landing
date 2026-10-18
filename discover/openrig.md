@@ -2,16 +2,16 @@
 
 Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.
 
-- ★ 7.105
+- ★ 7.747
 - TypeScript
 - GitHub Trending · 2026-09-28
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 7.105 → 7.747, son sürüm v0.6.11 (17 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 6.819 → 7.105, son sürüm v0.6.10 (12 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 6.288 → 6.819, son sürüm v0.6.9 (11 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 6.015 → 6.288, son sürüm v0.6.8 (9 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 5.622 → 6.015, son sürüm v0.6.7 (8 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -33,6 +33,14 @@ rig setup --dry-run
 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenRig kullanarak Claude Code ve Codex ajanlarını tek bir sistemde koordine etmek istiyorum. Node.js ve tmux gereksinimlerini kontrol ettikten sonra npm install -g @openrig/cli ve rig setup --dry-run komutları ile kurulum planını inceleyip takımı başlatma adımlarına geçmem konusunda bana yardımcı ol.
+
+Depo: https://github.com/mvschwarz/openrig. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 - **Kimin için:** Birden fazla yapay zekâ kodlama ajanını tek merkezden koordine etmek isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0

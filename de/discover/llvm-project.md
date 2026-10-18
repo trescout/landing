@@ -28,6 +28,7 @@ Um auf den Quellcode des Projekts zuzugreifen und eine Installation durchzuführ
 ## Verwandte Begriffe aus dem Glossar
 
 - [Compiler](https://trescout.com/de/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Softwareentwickler, die ihren eigenen Compiler entwickeln oder ihren bestehenden Code für verschiedene Hardwarearchitekturen optimieren möchten.
 

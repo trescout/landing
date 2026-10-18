@@ -26,6 +26,7 @@ This tool does not require any installation. After downloading the files on the 
 ## Related dictionary terms
 
 - [API](https://trescout.com/en/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for software developers who develop applications in the field of sports technologies and fitness-oriented researchers.
 

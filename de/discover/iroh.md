@@ -52,6 +52,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mithilfe der Iroh-Bibliothek eine Switch-basierte Netzwerkverbindung einrichten. Können Sie eine einfache Beispielcodestruktur erstellen, die zeigt, wie ich einen Endpunkt in Rust erstellen, über einen öffentlichen Schlüssel eine Verbindung zu einem anderen Endpunkt herstellen und einen sicheren Datenfluss mit dem QUIC-Protokoll initiieren kann?
 
+Repository: https://github.com/n0-computer/iroh. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Key-based](https://trescout.com/de/dictionary/key-based/)

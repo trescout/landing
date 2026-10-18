@@ -43,6 +43,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer une vidéo montrant mes voyages en utilisant le fichier Timeline.json dont je dispose. Après avoir installé les dépendances nécessaires dans l'environnement Python, quelle commande dois-je utiliser pour convertir mes données 2025 en un fichier nommé « my_trip_2025.mp4 » avec un mouvement de caméra « stable » et des paramètres de compression « équilibrés » ?
 
+Dépôt : https://github.com/mahlernim/google-timeline-visualizer. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

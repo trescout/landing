@@ -42,6 +42,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero instalar a ferramenta Flowsint. Ajude-me a concluir a instalação executando git clone https://github.com/reconurge/flowsint.git, cdflowsint e make prod comandos respectivamente em um sistema com Docker e Make instalados. Eu sei que preciso criar uma conta em http://localhost:5173/register após a instalação, explique as etapas básicas que posso encontrar neste processo.
 
+Repositório: https://github.com/reconurge/flowsint. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Graph-based Investigation](https://trescout.com/pt/dictionary/graph-based-investigation/)

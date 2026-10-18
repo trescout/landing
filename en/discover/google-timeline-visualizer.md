@@ -43,6 +43,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a video showing my travels using the Timeline.json file I have. After installing the necessary dependencies in the Python environment, what command should I use to convert my 2025 data into a file named 'my_trip_2025.mp4' with 'steady' camera motion and 'balanced' compression settings?
 
+Repository: https://github.com/mahlernim/google-timeline-visualizer. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

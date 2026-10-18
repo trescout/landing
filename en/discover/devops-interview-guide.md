@@ -19,6 +19,7 @@ This guide is a source of information, not a software tool. You can browse the f
 
 - [Cloud Computing](https://trescout.com/en/dictionary/cloud-computing/)
 - [CI/CD](https://trescout.com/en/dictionary/ci-cd/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for professionals preparing for DevOps, SRE, and cloud engineering positions.
 

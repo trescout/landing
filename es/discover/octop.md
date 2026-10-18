@@ -41,6 +41,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar un entorno de trabajo multiusuario y multiagente en la plataforma Octop. Define agentes con diferentes especialidades para mi asistente personal, miembros de mi familia o compañeros de equipo pequeños, permitiendo que estos agentes trabajen de forma segura con mis datos locales y colaboren conmigo a través de una interfaz web o canales de mensajería. Configura los rasgos de personalidad MBTI de los agentes, haz que generen respuestas a partir de mis documentos privados mediante RAG (Retrieval-Augmented Generation - tecnología que recupera información significativa de documentos) y automatiza mis tareas.
 
+Repositorio: https://github.com/TencentCloud/Octop. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [RAG](https://trescout.com/es/dictionary/rag/)

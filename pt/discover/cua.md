@@ -2,16 +2,16 @@
 
 CUA fornece uma infraestrutura de código aberto para agentes de inteligência artificial com capacidade de computador. Ele reúne sandbox, kit de desenvolvimento de software (SDK) e ferramentas de benchmark sob o mesmo teto com o objetivo de treinar e avaliar agentes que podem controlar sistemas operacionais de desktop.
 
-- ★ 29.921
+- ★ 30.064
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 29,921 → 30,064, versão mais recente cua-spaces-v0.9.4 (18 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 29,802 → 29,921, versão mais recente cua-spaces-v0.9.3 (16 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 29,690 → 29,802, versão mais recente cua-spaces-v0.9.2 (15 de outubro de 2026).
 - **14 de outubro de 2026:** Estrelas 29,597 → 29,690, versão mais recente cua-spaces-v0.8.0 (14 de outubro de 2026).
-- **13 de outubro de 2026:** Estrelas 28,129 → 29,597, versão mais recente cua-sdk-v0.4.1 (5 de outubro de 2026).
 
 ## O que você ganha
 
@@ -50,6 +50,14 @@ lume run macos-sequoia-vanilla:latest
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver um agente de uso de computador usando a infraestrutura CUA. Ajude-me a configurar a estrutura básica do Python que permitirá que meu agente interaja com aplicativos de desktop em segundo plano, faça cliques do mouse e envie entradas do teclado. Crie um esboço de código de amostra que execute comandos e faça capturas de tela em um ambiente Linux usando o CUA Sandbox SDK.
+
+Repositório: https://github.com/trycua/cua. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

@@ -34,6 +34,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero gerenciar todos os meus agentes de inteligência artificial em execução no terminal a partir de um único centro e ver instantaneamente o status de funcionamento (em espera, em execução, concluído) de cada um deles. Use o Herdr para me ajudar a configurar esses agentes para separá-los em diferentes espaços de trabalho e guias para que os processos continuem em segundo plano mesmo se eu fechar o terminal.
 
+Repositório: https://github.com/ogulcancelik/herdr. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Agent Multiplexer](https://trescout.com/pt/dictionary/agent-multiplexer/)

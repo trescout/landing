@@ -9,6 +9,7 @@ Stable-diffusion.cpp es una biblioteca de inferencia que ejecuta modelos de gene
 ## Términos relacionados del glosario
 
 - [Inference](https://trescout.com/es/dictionary/inference/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 ## Enlaces
 

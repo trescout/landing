@@ -43,6 +43,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise cette ressource technique comme un ensemble de compétences. Veuillez vous en tenir uniquement aux sections converties et aux fichiers structurés lors de l'analyse du contenu. Lorsque je pose une question, répondez en faisant référence à la section concernée et utilisez uniquement les informations techniques contenues dans le document, en évitant les hallucinations.
 
+Dépôt : https://github.com/virgiliojr94/book-to-skill. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Markdown](https://trescout.com/fr/dictionary/markdown/)

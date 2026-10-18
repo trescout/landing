@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenMed kütüphanesini kullanarak tıbbi metin analizi yapmak istiyorum. Cihazımda Python yüklü. Öncelikle pip install "openmed[hf]" komutuyla kurulumu tamamladım. Şimdi elimdeki klinik notları analiz etmek ve içerisindeki tıbbi terimleri veya kişisel verileri (PII) tespit etmek için Python kodumda hangi fonksiyonları çağırmalıyım? Lütfen bana model seçimi ve çıktıları yazdırma konusunda basit bir örnek kod bloğu oluştur.
 
+Depo: https://github.com/maziyarpanahi/openmed. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Tıbbi verilerini bulut servislerine göndermeden, kendi donanımı üzerinde gizlilik odaklı analiz yapmak isteyen sağlık profesyonelleri ve yazılımcılar içindir.
 - **Lisans:** Apache-2.0
 

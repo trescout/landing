@@ -37,6 +37,7 @@ Para começar a usar a ferramenta Harper, você pode visitar o site oficial writ
 
 - [Grammar Checker](https://trescout.com/pt/dictionary/grammar-checker/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para produtores de conteúdo e desenvolvedores de software em inglês que desejam moderar rapidamente suas postagens offline e sem comprometer a privacidade.
 - **Licença:** Apache-2.0

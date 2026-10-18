@@ -39,6 +39,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Como desarrollador web, quiero empaquetar de manera eficiente archivos JavaScript y otros activos estáticos en mis proyectos. ¿Cómo puedo administrar mis módulos, configurar la división de código y definir cargadores adecuados para mi proyecto usando Webpack? Ayúdame a crear un ejemplo de archivo de configuración para principiantes.
 
+Repositorio: https://github.com/webpack/webpack. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Bundler](https://trescout.com/es/dictionary/bundler/)

@@ -44,6 +44,7 @@ Um mit der Installation zu beginnen, müssen Sie die Kurzanleitung auf der offiz
 ## Verwandte Begriffe aus dem Glossar
 
 - [ROM](https://trescout.com/de/dictionary/rom/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Retro-Gaming-Enthusiasten, die ihre Spielesammlung mit einer aufgeräumten Oberfläche verwalten und schnell über den Browser spielen möchten.
 - **Lizenz:** AGPL-3.0

@@ -60,6 +60,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim sistemimdeki donanım özelliklerine göre en uygun DeepSeek veya GLM modelini seçmemde yardımcı ol. Hangi indirme komutunu kullanmalıyım ve SSD üzerinden veri akışı (streaming) özelliğini aktif ederek bellek darboğazını nasıl aşabilirim? Ayrıca, kurduğum bu yapay zekâ sistemini yerel bir sunucu olarak kullanabilmem için gerekli temel yapılandırma ayarlarını açıkla.
 
+Depo: https://github.com/antirez/ds4. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yüksek performanslı yapay zekâ modellerini kendi yerel donanımı üzerinde çalıştırmak isteyen yazılımcılar ve sistem yöneticileri içindir.
 - **Lisans:** MIT
 

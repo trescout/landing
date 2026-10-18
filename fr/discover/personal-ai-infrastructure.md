@@ -34,6 +34,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pour moi, je souhaite créer un système d'exploitation de vie personnelle en utilisant le système Personal AI Infrastructure (PAI). Pouvez-vous m'aider à préparer le système à l'aide de la commande d'installation existante, puis à configurer mon assistant numérique en réalisant mon premier entretien via le lifeboard sur localhost:31337 ?
 
+Dépôt : https://github.com/danielmiessler/Personal_AI_Infrastructure. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Agentic AI](https://trescout.com/fr/dictionary/agentic-ai/)

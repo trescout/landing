@@ -27,6 +27,7 @@ Puedes habilitar la herramienta para descargar tu repositorio al espacio de trab
 - [Repository Checkout](https://trescout.com/es/dictionary/repository-checkout/)
 - [Checkout](https://trescout.com/es/dictionary/checkout/)
 - [Continuous Integration](https://trescout.com/es/dictionary/continuous-integration/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Adecuado para desarrolladores de software que automatizan procesos de integración continua utilizando GitHub Actions.
 - **Licencia:** MIT

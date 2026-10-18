@@ -36,6 +36,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [ApacheBench (ab)](https://trescout.com/dictionary/apache-bench/)
 - [ab (ApacheBench)](https://trescout.com/dictionary/apache-bench-ab/)
 - [ab](https://trescout.com/dictionary/ab/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hey/

@@ -66,6 +66,7 @@ Wie kann ich laut der offiziellen Bauanleitung prüfen, ob mein System Qt 6.9+, 
 
 - [Sandbox](https://trescout.com/de/dictionary/sandbox/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

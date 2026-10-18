@@ -51,6 +51,7 @@ Visita home-assistant.io para comenzar la configuración. Puede instalar el sist
 
 - [Home Automation](https://trescout.com/es/dictionary/home-automation/)
 - [Container](https://trescout.com/es/dictionary/container/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para entusiastas de la tecnología que desean administrar sus dispositivos domésticos inteligentes a través de su propio servidor, sin depender de la nube.
 - **Licencia:** Apache-2.0

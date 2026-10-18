@@ -32,6 +32,10 @@ To start using gRPC, you must first visit the official website at grpc.io. You c
 
 - [Official source →](https://grpc.io)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is for software developers who want to establish fast and reliable network communication between services developed with different programming languages.
 - **License:** Apache-2.0
 

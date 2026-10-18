@@ -65,6 +65,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 ## Términos relacionados del glosario
 
 - [Fork](https://trescout.com/es/dictionary/fork/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 ## Enlaces
 

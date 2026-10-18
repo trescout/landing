@@ -26,6 +26,7 @@ Para comenzar a utilizar la herramienta, descargue los códigos de la página de
 
 - [Assets](https://trescout.com/es/dictionary/assets/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para usuarios que desean almacenar el código fuente y los activos de su sitio web como un archivo local.
 - **Licencia:** MIT

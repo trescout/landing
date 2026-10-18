@@ -19,6 +19,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Estou me preparando para uma entrevista de engenharia de software usando o currículo da Coding Interview University. Crie um plano de estudo diário para que eu aprenda as estruturas de dados, algoritmos e tópicos de ciência da computação abordados neste recurso. Você pode preparar um roteiro do nível iniciante ao avançado que inclua os assuntos básicos que preciso aprender, a ordem em que devo estudá-los e os recursos com os quais posso praticar?
 
+Repositório: https://github.com/jwasham/coding-interview-university. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Computer Science](https://trescout.com/pt/dictionary/computer-science/)

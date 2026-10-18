@@ -22,6 +22,7 @@ To start using the tool, you can review the list of available mods on the projec
 
 - [HLSL](https://trescout.com/en/dictionary/hlsl/)
 - [HDR](https://trescout.com/en/dictionary/hdr/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for gamers and developers who want to update their older games to offer a higher-quality visual experience with modern display technologies.
 - **License:** MIT

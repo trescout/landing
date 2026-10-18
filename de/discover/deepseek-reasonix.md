@@ -2,16 +2,16 @@
 
 DeepSeek-Reasonix ist ein KI-Coding-Agent, der auf dem Terminal läuft und auf DeepSeek-Modellen basiert. Dieses Tool konzentriert sich auf die Stabilität des Präfix-Cache und stellt sicher, dass Entwickler über lange Sitzungen hinweg unterbrechungsfreie Codierungsunterstützung erhalten.
 
-- ★ 35.823
+- ★ 35.837
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 35,823 → 35,837, neueste Version studio-v2.44.0 (18. Oktober 2026).
 - **17. Oktober 2026:** Sterne 35,818 → 35,823, neueste Version studio-v2.43.0 (17. Oktober 2026).
 - **16. Oktober 2026:** Sterne 35,803 → 35,818, neueste Version studio-v2.42.0 (16. Oktober 2026).
 - **15. Oktober 2026:** Sterne 35,786 → 35,803, neueste Version studio-v2.41.0 (15. Oktober 2026).
-- **14. Oktober 2026:** Sterne 35,775 → 35,786, neueste Version studio-v2.39.0 (14. Oktober 2026).
 
 ## Was es bringt
 
@@ -52,6 +52,14 @@ reasonix run "implement the TODOs in main.go"
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Während ich mit diesem künstlichen Intelligenz-Codierungsagenten arbeite, der auf dem Terminal läuft, entwickle ich Codevorschläge unter Berücksichtigung der aktuellen Struktur und Ziele meines Projekts. Konzentrieren Sie sich auf die Erstellung konsistenter, kostengünstiger Antworten über unsere langen Sitzungen hinweg mithilfe der Präfix-Cache-Stabilität. Stellen Sie beim Schreiben oder Debuggen von Code modulare und saubere Lösungen bereit, die den Anforderungen des Projekts entsprechen.
+
+Repository: https://github.com/esengine/DeepSeek-Reasonix. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

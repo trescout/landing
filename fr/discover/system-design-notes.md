@@ -27,6 +27,7 @@ Cette ressource n'est pas un outil logiciel, mais une compilation de notes sur l
 ## Termes liés du glossaire
 
 - [System Design](https://trescout.com/fr/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux candidats ingénieurs se préparant aux entretiens d'architecture logicielle et de conception de systèmes.
 

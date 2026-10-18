@@ -55,6 +55,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem Tailcat-Tool einen verschlüsselten Dateiübertragungstunnel zwischen zwei verschiedenen Servern über das Tailscale-Mesh-Netzwerk einrichten. Können Sie erklären, wie man den Listener auf der Serverseite startet, wie man das TAR-Archiv von der Standardausgabe auf der Clientseite streamt und wie man die tsnet-Authentifizierung verwaltet?
 
+Repository: https://github.com/tailscale/tailcat. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Häufig gestellte Fragen
 
 - Muss auf meinem Rechner ein Tailscale-Client installiert sein? Nein. In Tailcat ist die Tsnet-Engine integriert. Es startet seinen eigenen Tailscale-Link als eigenständige Binärdatei.

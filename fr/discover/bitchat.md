@@ -31,6 +31,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je envoyer des messages à mon entourage en toute sécurité lorsqu'il n'y a pas d'Internet, en utilisant la structure hybride Bluetooth mesh et protocole Nostr proposée par l'application Bitchat ? Expliquez-moi étape par étape comment démarrer une discussion communautaire locale à l'aide des commandes de style IRC et des fonctionnalités de canal basées sur la localisation proposées par l'application.
 
+Dépôt : https://github.com/permissionlesstech/bitchat. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Bluetooth Mesh](https://trescout.com/fr/dictionary/bluetooth-mesh/)

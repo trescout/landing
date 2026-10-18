@@ -63,6 +63,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Declarative Continuous Deployment](https://trescout.com/dictionary/declarative-continuous-deployment/)
 - [Continuous Deployment](https://trescout.com/dictionary/continuous-deployment/)
 - [Deployment](https://trescout.com/dictionary/deployment/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/argo-cd/

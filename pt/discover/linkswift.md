@@ -22,6 +22,10 @@ Para usar, primeiro você precisa instalar a extensão gerenciadora de scripts d
 
 - [Fonte oficial →](https://github.com/hmjz100/LinkSwift/raw/main/%EF%BC%88%E6%94%B9%EF%BC%89%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.user.js)
 
+## Termos relacionados do glossário
+
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
 - **Para quem é:** Destina-se a utilizadores que pretendem transferir ficheiros de vários serviços de armazenamento na nuvem diretamente através do navegador ou de um gestor de transferências, sem terem de instalar o software cliente oficial no seu computador.
 - **Licença:** AGPL-3.0
 

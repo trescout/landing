@@ -9,6 +9,7 @@ Spirula Studio is a cross-platform educational tool that converts videos into th
 ## Related dictionary terms
 
 - [Mesh](https://trescout.com/en/dictionary/mesh/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

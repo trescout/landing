@@ -2,16 +2,16 @@
 
 PostHog is a comprehensive platform that brings together tools such as artificial intelligence observability, analysis and session replay for product development processes. It enables software developers to create autonomous products by tracking bugs, managing experiments, and analyzing user data.
 
-- ★ 40,315
+- ★ 40,331
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Updates
 
+- **October 18, 2026:** Stars 40,315 → 40,331, latest release desktop-v0.61.746 (October 18, 2026).
 - **October 17, 2026:** Stars 40,305 → 40,315, latest release desktop-v0.61.737 (October 16, 2026).
 - **October 16, 2026:** Stars 40,286 → 40,305, latest release desktop-v0.61.729 (October 16, 2026).
 - **October 15, 2026:** Stars 40,280 → 40,286, latest release desktop-v0.61.716 (October 15, 2026).
-- **October 14, 2026:** Stars 40,256 → 40,280, latest release desktop-v0.61.694 (October 14, 2026).
 
 ## What you get
 
@@ -32,6 +32,14 @@ PostHog is a comprehensive platform that brings together tools such as artificia
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I need to analyze user behavior in my product using the PostHog platform. What tools should I use to detect errors, review session replays, and monitor the performance of my AI-powered features? Explain the steps I need to follow to automate data collection and analysis processes.
+
+Repository: https://github.com/PostHog/posthog. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

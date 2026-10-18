@@ -41,6 +41,10 @@ Dieses Tool ist eine webbasierte Software und muss auf einem Webserver ausgefüh
 
 - [Offizielle Quelle →](https://snipeitapp.com)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es richtet sich an Organisationen und Systemadministratoren, die ihren IT-Bestand, Hardware-Belastungen und Softwarelizenzen regelmäßig überwachen möchten.
 - **Lizenz:** AGPL-3.0
 

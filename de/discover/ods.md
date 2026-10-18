@@ -55,6 +55,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Können Sie anhand von Code- und Terminalschritten erklären, wie ich die PDF-Dokumente meines Unternehmens in die lokale Vektordatenbank importiere, indem ich den ODS-Server auf meinem PC installiere, und wie ich dann RAG-Fragen und -Antworten auf der Grundlage dieser Dokumente über ein lokales Llama 3-Modell durchführe?
 
+Repository: https://github.com/Osmantic/ODS. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Häufig gestellte Fragen
 
 - Funktioniert es komplett offline ohne Internetverbindung? Ja. Sobald die erforderlichen Modellgewichte heruntergeladen sind, kann ODS in vollständig Offline-Umgebungen (mit Luftspalt) betrieben werden, ohne dass eine Netzwerkverbindung erforderlich ist.

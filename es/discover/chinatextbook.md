@@ -26,6 +26,7 @@ Puede ver o descargar directamente libros de texto de nivel primario, secundario
 ## Términos relacionados del glosario
 
 - [PDF](https://trescout.com/es/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está dirigido a estudiantes, investigadores y familias chinas que viven en el extranjero y que desean tener acceso digital gratuito a los libros de texto del plan de estudios educativo chino.
 

@@ -40,6 +40,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind ein Freund künstlicher Intelligenz, der an Open-LLM-VTuber arbeitet, zur visuellen Wahrnehmung fähig ist und mit einem Live2D-Modell ausgedrückt wird. Kommunizieren Sie mit dem Benutzer in Echtzeit per Stimme, interagieren Sie durch Beobachtung des Bildschirms oder der Kamera und spiegeln Sie emotionale Reaktionen durch Ihren Live2D-Charakter wider. Seien Sie sensibel gegenüber Stimmunterbrechungen des Benutzers und bewahren Sie gleichzeitig einen natürlichen, flüssigen und persönlichen Ton.
 
+Repository: https://github.com/Open-LLM-VTuber/Open-LLM-VTuber. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Live2D](https://trescout.com/de/dictionary/live2d/)

@@ -24,6 +24,7 @@ Im Releases-Bereich auf der GitHub-Seite des Projekts können Sie die für Ihr S
 
 - [Debugger](https://trescout.com/de/dictionary/debugger/)
 - [Multi-process](https://trescout.com/de/dictionary/multi-process/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Entwickler, die große Software in C auf der Windows-Plattform entwickeln und eine visuelle Debugging-Oberfläche benötigen.
 - **Lizenz:** MIT

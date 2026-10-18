@@ -55,6 +55,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Me gustaría preparar un texto formal de divulgación de invenciones utilizando la habilidad de divulgación de patentes para un algoritmo de almacenamiento en caché de bases de datos distribuidas que he desarrollado. ¿Puede darnos el flujo del algoritmo como entrada y explicar paso a paso cómo generar reivindicaciones independientes, el campo técnico de la invención y las diferencias con el estado de la técnica?
 
+Repositorio: https://github.com/handsomestWei/patent-disclosure-skill. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Preguntas frecuentes
 
 - ¿Esta herramienta reemplaza a un abogado de patentes formal? No. Patent Disclosure Skill es una herramienta de preparación y productividad que ayuda a los ingenieros a organizar borradores de invenciones y prepararlos para los abogados; Las solicitudes legales deben realizarse a través de un abogado.

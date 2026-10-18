@@ -23,6 +23,7 @@ Para comenzar con este plan de estudios, simplemente visite el sitio web oficial
 ## Términos relacionados del glosario
 
 - [Computer Science](https://trescout.com/es/dictionary/computer-science/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para cualquier persona que tenga la disciplina del autoaprendizaje y quiera aprender los conceptos básicos de la informática de forma gratuita con un enfoque académico.
 - **Licencia:** MIT

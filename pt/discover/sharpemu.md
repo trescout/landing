@@ -21,6 +21,7 @@ Para utilizar o projeto, você pode baixar arquivos prontos na aba ‘Releases�
 - [Emulator](https://trescout.com/pt/dictionary/emulator/)
 - [CPU](https://trescout.com/pt/dictionary/cpu/)
 - [SDK](https://trescout.com/pt/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a pesquisadores interessados ​​em arquitetura de sistemas e desenvolvimento de software de baixo nível e a desenvolvedores de software que desejam realizar pesquisas para fins educacionais.
 - **Licença:** GPL-2.0

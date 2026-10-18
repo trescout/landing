@@ -45,6 +45,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Trabajaremos en un proyecto a largo plazo con usted. Quiero administrar nuestras tareas, objetivos y registros de progreso con el bean de estado LoopX. Mientras trabaja, verifique el estado actual en cada paso, registre evidencia del trabajo completado y manténgase dentro de los límites de la cuota determinando la siguiente tarea pendiente. Deje un rastro verificable a través de LoopX al delegar tareas o pasar a una nueva fase.
 
+Repositorio: https://github.com/huangruiteng/loopx. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [State Kernel](https://trescout.com/es/dictionary/state-kernel/)

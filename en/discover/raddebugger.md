@@ -24,6 +24,7 @@ You can download pre-compiled binaries suitable for your system from the release
 
 - [Debugger](https://trescout.com/en/dictionary/debugger/)
 - [Multi-process](https://trescout.com/en/dictionary/multi-process/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Intended for developers who develop large software in the C language on the Windows platform and need a visual debugging interface.
 - **License:** MIT

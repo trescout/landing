@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Dites à Claude Code ou à tout autre assistant IA que vous utilisez pour analyser l'architecture ou le flux de travail de mon projet actuel. Ensuite, demandez-lui de créer un diagramme HTML et SVG propre en choisissant celui qui convient le mieux au sujet que j'explique parmi les 27 types visuels différents de la bibliothèque de conception de diagrammes. Précisez que le design fait référence à mon site internet afin qu'il soit compatible avec les couleurs et le langage visuel de ma marque.
 
+Dépôt : https://github.com/cathrynlavery/diagram-design. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [SVG](https://trescout.com/fr/dictionary/svg/)

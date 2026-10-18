@@ -9,6 +9,7 @@ Stable-diffusion.cpp ist eine Inferenzbibliothek, die Bildgenerierungsmodelle (w
 ## Verwandte Begriffe aus dem Glossar
 
 - [Inference](https://trescout.com/de/dictionary/inference/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

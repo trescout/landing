@@ -23,6 +23,10 @@ Sie können Enjoy.bot besuchen, um es sofort über Ihren Browser zu nutzen. Wenn
 
 - [Offizielle Quelle →](https://1000h.org)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es eignet sich für alle, die ihre Englischkenntnisse mithilfe eines strukturierten Lehrplans und digitaler Tools verbessern möchten.
 - **Lizenz:** GPL-3.0
 

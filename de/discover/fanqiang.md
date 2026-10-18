@@ -26,6 +26,7 @@ Das Fanqiang-Projekt ist keine direkte Softwareinstallation, sondern eine umfass
 ## Verwandte Begriffe aus dem Glossar
 
 - [Gateway](https://trescout.com/de/dictionary/gateway/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Benutzer, die auf begrenzte Netzwerkressourcen im Internet zugreifen möchten und Konfigurationsanleitungen für verschiedene Geräte benötigen.
 

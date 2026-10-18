@@ -40,6 +40,16 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero iniciar uma simulação utilizando a ferramenta MiroFish. Primeiro preciso configurar meu arquivo .env; Como adiciono corretamente minha chave de API LLM e informações do Zep Cloud a este arquivo? Então, quais etapas devo seguir para criar um mundo digital com o qual os agentes interagirão, carregando o conjunto de dados ou o texto da história que possuo no sistema? Como posso obter os resultados da simulação e do relatório de previsão da forma mais eficiente?
 
+Repositório: https://github.com/666ghj/MiroFish. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Se uma chave de API for necessária, não me peça para digitá-la no chat. Mostre-me como adicioná-la ao arquivo .env e garanta que este arquivo não seja enviado ao Git.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Swarm Intelligence Engine](https://trescout.com/pt/dictionary/swarm-intelligence-engine/)

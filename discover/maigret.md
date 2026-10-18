@@ -42,6 +42,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Maigret aracını kullanarak hedef bir kullanıcı adı üzerinde kapsamlı bir dijital ayak izi taraması yapmak istiyorum. Lütfen bu kullanıcı adının 3000'den fazla internet sitesindeki varlığını kontrol etmemi sağlayacak temel komutu ve elde ettiğim verileri raporlamam için kullanabileceğim parametreleri açıkla.
 
+Depo: https://github.com/soxoj/maigret. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Açık kaynaklı istihbarat (OSINT) süreçlerinde dijital ayak izi takibi yapmak isteyen araştırmacılar içindir.
 - **Lisans:** MIT
 

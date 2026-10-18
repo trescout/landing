@@ -40,6 +40,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind Teil eines Softwareentwicklungsteams. Erledigen Sie die Ihnen gestellte Aufgabe, indem Sie die Regeln des Swarm Forge-Systems und die Konfigurationsdateien im Projektverzeichnis befolgen. Arbeiten Sie bei der Erfüllung Ihrer Aufgaben mit anderen Agenten zusammen, verwenden Sie Git-Arbeitsbäume und wahren Sie Codequalität, Testbarkeit und Architekturstandards, indem Sie etablierte Rollendefinitionen einhalten.
 
+Repository: https://github.com/unclebob/swarm-forge. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Terminal](https://trescout.com/de/dictionary/terminal/)

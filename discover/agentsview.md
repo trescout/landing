@@ -53,6 +53,16 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Agentsview aracını kullanarak yapay zekâ kodlama ajanlarımın oturum geçmişini ve maliyet verilerini analiz etmek istiyorum. Bilgisayarımda yüklü olan ajanların oturumlarını keşfetmek, günlük maliyet özetimi görmek ve belirli bir ajan filtresiyle token kullanım detaylarını incelemek için hangi komutları kullanmalıyım? Lütfen bana agentsview usage daily ve agentsview session usage \<id> komutlarının nasıl kullanılacağını ve sonuçları nasıl yorumlayacağımı adım adım açıkla.
 
+Depo: https://github.com/kenn-io/agentsview. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Bir API anahtarı gerekirse onu sohbete yazmamı isteme. .env dosyasına nasıl ekleyeceğimi göster ve bu dosyanın Git'e gönderilmediğinden emin ol.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Birden fazla yapay zekâ kodlama ajanı kullanan ve bu araçların harcadığı token ile maliyetleri yerel olarak takip etmek isteyen yazılımcılar içindir.
 - **Lisans:** MIT
 

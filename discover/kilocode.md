@@ -53,6 +53,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir yazılım geliştirme ajanı olarak, mevcut proje dizinimde doğal dilden kod oluşturma, hata ayıklama veya mimari planlama süreçlerimi yönetmene ihtiyacım var. Kilo'nun sunduğu 500'den fazla model arasından görevime en uygun olanı seçerek, yazdığın kodları kendi kendini denetleme mekanizmanla gözden geçirip performans ve güvenlik standartlarına uygun şekilde teslim etmeni istiyorum.
 
+Depo: https://github.com/Kilo-Org/kilocode. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yazılım geliştirme süreçlerini yapay zekâ destekli ajanlarla hızlandırmak isteyen tüm geliştiriciler için uygundur.
 - **Lisans:** MIT
 

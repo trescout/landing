@@ -2,16 +2,16 @@
 
 Openrig ist eine Multi-Agenten-Infrastruktur, die Anthropics Programmierwerkzeug Claude Code und OpenAIs Programmiermodell Codex in einem einzigen System zusammenführt. Sie ermöglicht Entwicklern, verschiedene KI-Modelle gleichzeitig im selben Arbeitsablauf zu nutzen.
 
-- ★ 7.105
+- ★ 7.747
 - TypeScript
 - GitHub Trending · 2026-09-28
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 7,105 → 7,747, neueste Version v0.6.11 (17. Oktober 2026).
 - **12. Oktober 2026:** Sterne 6,819 → 7,105, neueste Version v0.6.10 (12. Oktober 2026).
 - **11. Oktober 2026:** Sterne 6,288 → 6,819, neueste Version v0.6.9 (11. Oktober 2026).
 - **9. Oktober 2026:** Sterne 6,015 → 6,288, neueste Version v0.6.8 (9. Oktober 2026).
-- **8. Oktober 2026:** Sterne 5,622 → 6,015, neueste Version v0.6.7 (8. Oktober 2026).
 
 ## Was es bringt
 
@@ -33,6 +33,14 @@ rig setup --dry-run
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Claude Code- und Codex-Agenten mithilfe von OpenRig in einem einzigen System koordinieren. Hilf mir nach der Überprüfung der Node.js- und tmux-Anforderungen dabei, den Installationsplan mit den Befehlen npm install -g @openrig/cli und rig setup --dry-run zu untersuchen und zu den Schritten zum Starten des Teams überzugehen.
+
+Repository: https://github.com/mvschwarz/openrig. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

@@ -80,6 +80,7 @@ How can I evaluate a simple motion-detection scenario from WiFi CSI data using s
 
 - [WiFi](https://trescout.com/en/dictionary/wifi/)
 - [Benchmark](https://trescout.com/en/dictionary/benchmark/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

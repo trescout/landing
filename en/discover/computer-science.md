@@ -23,6 +23,7 @@ To get started with this curriculum, simply visit the official OSSU CS website o
 ## Related dictionary terms
 
 - [Computer Science](https://trescout.com/en/dictionary/computer-science/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for anyone who has the discipline of self-learning and wants to learn the basics of computer science for free with an academic approach.
 - **License:** MIT

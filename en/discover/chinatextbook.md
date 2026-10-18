@@ -26,6 +26,7 @@ You can directly view or download textbooks at primary, secondary, high school a
 ## Related dictionary terms
 
 - [PDF](https://trescout.com/en/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for students, researchers and Chinese families living abroad who want to have free digital access to textbooks in the Chinese education curriculum.
 

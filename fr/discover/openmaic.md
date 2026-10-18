@@ -58,6 +58,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite simuler un environnement de discussion socratique sur la plateforme OpenMAIC en y chargeant mes propres notes de cours. Pourrais-tu m'expliquer étape par étape comment définir les rôles des agents (professeur, étudiant curieux, questionneur critique) et comment lancer cette classe avec un modèle Ollama local ?
 
+Dépôt : https://github.com/THU-MAIC/OpenMAIC. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Faut-il un GPU pour utiliser OpenMAIC ? Si vous exécutez votre propre modèle local (Ollama/vLLM), un GPU est recommandé ; cependant, il peut être utilisé directement sur un ordinateur standard via des API cloud (OpenAI, Gemini, Groq).

@@ -2,16 +2,16 @@
 
 OpenGym ist ein Open-Source-Studioverwaltungstool zum Planen von Trainingsroutinen und Verfolgen von Eigengewichtsübungen. Die Software ermöglicht es Benutzern, ihre Daten auf eigenen Servern zu hosten, und unterstützt den Datenimport von beliebten Fitness-Apps (Strong, Hevy).
 
-- ★ 12.021
+- ★ 13.304
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 12,021 → 13,304, neueste Version v1.4.1 (10. Oktober 2026).
 - **15. Oktober 2026:** Sterne 10,912 → 12,021, neueste Version v1.4.1 (10. Oktober 2026).
 - **13. Oktober 2026:** Sterne 9,501 → 10,912, neueste Version v1.4.1 (10. Oktober 2026).
 - **11. Oktober 2026:** Sterne 8,392 → 9,501, neueste Version v1.4.1 (10. Oktober 2026).
-- **9. Oktober 2026:** Sterne 7,653 → 8,392, neueste Version v1.4.0 (9. Oktober 2026).
 
 ## Was es bringt
 
@@ -36,6 +36,16 @@ docker compose up -d
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Fitness-Tracking-Software openGym auf der Docker-Container-Verwaltungsplattform installieren. Könnten Sie mir Schritt für Schritt die Installationsschritte erklären, die mit dem Befehl 'git clone https://github.com/DuarteSantos8/openGym' beginnen, wie die Umgebungsvariablendatei '.env' konfiguriert wird und wie ich nach Abschluss der Installation über den Browser auf die Anwendung zugreifen kann?
+
+Repository: https://github.com/DuarteSantos8/openGym. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Falls ein API-Schlüssel erforderlich ist, fordere mich nicht auf, ihn in den Chat zu schreiben. Zeig mir, wie ich ihn zur .env-Datei hinzufüge und stelle sicher, dass diese Datei nicht an Git übertragen wird.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

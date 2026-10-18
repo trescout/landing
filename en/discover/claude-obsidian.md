@@ -87,6 +87,7 @@ Start a local Obsidian wiki workflow by associating sources with the source and 
 - [Agent Skills](https://trescout.com/en/dictionary/agent-skills/)
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [Agent](https://trescout.com/en/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

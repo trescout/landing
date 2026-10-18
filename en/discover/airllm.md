@@ -2,16 +2,16 @@
 
 AirLLM is a groundbreaking open-source library that runs massive large language models (LLMs) with 70 billion and 405 billion parameters on standard consumer-grade graphics cards with only 4 GB of video memory (VRAM), without the need for enterprise servers or expensive GPU clusters.
 
-- ★ 37,368
+- ★ 39,239
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
 ## Updates
 
+- **October 18, 2026:** Stars 37,368 → 39,239, latest release v4.0.0 (September 5, 2026).
 - **October 12, 2026:** Stars 35,481 → 37,368, latest release v4.0.0 (September 5, 2026).
 - **October 7, 2026:** Stars 33,755 → 35,481, latest release v4.0.0 (September 5, 2026).
 - **September 6, 2026:** Stars 33,307 → 33,755, latest release v4.0.0 (September 5, 2026).
-- **August 31, 2026:** Stars 31,598 → 33,307, latest release v3.3.0 (August 28, 2026).
 
 ## What you get
 
@@ -45,6 +45,14 @@ AirLLM has an extremely simple Python syntax, very similar to the Hugging Face A
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run a 70 billion parameter model (for example, meta-llama/Llama-3-70B-Instruct) on my local graphics card with 4GB VRAM capacity using the AirLLM library. I used the pip install airllm command for installation. Could you explain the Python code required to load my model, get output with text input, and prevent out-of-memory errors? I know I need to make sure my disk space is sufficient in the process, could you detail the steps I need to follow?
+
+Repository: https://github.com/lyogavin/airllm. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Frequently asked questions
 

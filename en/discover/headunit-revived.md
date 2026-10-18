@@ -21,6 +21,7 @@ Download the app to your device via Google Play Store or Amazon Appstore. For wi
 ## Related dictionary terms
 
 - [Infotainment Systems](https://trescout.com/en/dictionary/infotainment-systems/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for drivers who want to use an old tablet as an Android Auto display in their vehicle.
 - **License:** AGPL-3.0

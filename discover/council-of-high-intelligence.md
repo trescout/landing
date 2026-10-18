@@ -54,6 +54,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yapay zekâ danışma kurulunun parçasısın. Karar vermem gereken konuyu analiz ederken, sadece tek bir bakış açısına bağlı kalma. Farklı uzmanlık alanlarını ve zıt görüşleri değerlendirerek, sorunun temelindeki varsayımları sorgula. Tartışmanın sonunda, üzerinde uzlaşılan noktaları ve çözülemeyen riskleri belirterek bana tarafsız bir sentez sun.
 
+Depo: https://github.com/0xNyk/council-of-high-intelligence. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Karmaşık kararlar alırken tek bir yapay zekâ modelinin ötesine geçip farklı entelektüel geleneklerden gelen uzman görüşlerini sentezlemek isteyen herkes için uygundur.
 - **Lisans:** MIT
 

@@ -55,6 +55,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 À l'aide de l'outil Whichllm, je souhaite répertorier les modèles de grand langage locaux qui correspondent le mieux à mes spécifications matérielles et voir les estimations de performances de ces modèles. Comment puis-je filtrer les modèles avec les scores de référence les plus élevés en fonction de la capacité du GPU ou du CPU de mon système, ainsi que planifier le matériel requis pour un modèle particulier ?
 
+Dépôt : https://github.com/Andyyyy64/whichllm. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Benchmark](https://trescout.com/fr/dictionary/benchmark/)

@@ -41,6 +41,16 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Strix aracını kullanarak belirlediğim hedef üzerinde kapsamlı bir güvenlik taraması gerçekleştir. Taramayı başlatırken gerekli API anahtarlarımı yapılandır ve bulguları doğrulanabilir kanıtlarla birlikte raporla. Uygulama dizinimdeki veya belirttiğim URL üzerindeki zafiyetleri analiz ederek, bulguları ve çözüm önerilerini içeren detaylı bir rapor sun.
 
+Depo: https://github.com/usestrix/strix. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Bir API anahtarı gerekirse onu sohbete yazmamı isteme. .env dosyasına nasıl ekleyeceğimi göster ve bu dosyanın Git'e gönderilmediğinden emin ol.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Uygulama güvenliğini otomatize etmek ve zafiyetleri hızlıca tespit edip gidermek isteyen yazılım geliştiriciler ve güvenlik ekipleri için uygundur.
 - **Lisans:** Apache-2.0
 

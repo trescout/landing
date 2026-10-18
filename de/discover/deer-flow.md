@@ -47,6 +47,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Klonen Sie das DeerFlow-Repository auf meinen Computer und führen Sie dann den Befehl „make setup“ aus, um die erforderliche Konfiguration für die lokale Entwicklungsumgebung abzuschließen. Helfen Sie mir, während des Einrichtungsassistenten Optionen wie LLM-Anbieter, Websucheinstellungen und Sicherheitseinstellungen zu konfigurieren.
 
+Repository: https://github.com/bytedance/deer-flow. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [SuperAgent](https://trescout.com/de/dictionary/superagent/)

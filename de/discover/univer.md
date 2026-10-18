@@ -35,6 +35,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Um das Univer-Projekt in der lokalen Umgebung auszuführen, klone das Repository im Terminal mit dem Befehl git clone https://github.com/dream-num/univer.git, wechsle dann mit cd univer in das Verzeichnis, installiere die Abhängigkeiten mit pnpm install und führe anschließend den Befehl pnpm dev aus.
 
+Repository: https://github.com/dream-num/univer. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Runtime](https://trescout.com/de/dictionary/runtime/)

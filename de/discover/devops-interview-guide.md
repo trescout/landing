@@ -19,6 +19,7 @@ Dieses Handbuch ist eine Informationsquelle und kein Softwaretool. Sie können d
 
 - [Cloud Computing](https://trescout.com/de/dictionary/cloud-computing/)
 - [CI/CD](https://trescout.com/de/dictionary/ci-cd/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Fachleute, die sich auf Positionen in den Bereichen DevOps, SRE und Cloud Engineering vorbereiten.
 

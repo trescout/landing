@@ -29,6 +29,7 @@ To start using the platform, you can visit the official website at https://gauzy
 
 - [CRM](https://trescout.com/en/dictionary/crm/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for small, medium, and large-scale businesses as well as freelancers who want to digitalize business processes through a single platform and increase operational efficiency.
 - **License:** AGPL-3.0

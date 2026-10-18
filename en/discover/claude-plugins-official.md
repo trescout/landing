@@ -2,16 +2,16 @@
 
 Anthropic offers an official directory that collects high-quality plugins developed for Claude Code in a single center. This Python-based structure allows developers to share and discover tools prepared for coding assistants in a standard format.
 
-- ★ 39,644
+- ★ 42,145
 - Python
 - GitHub Trending · 2026-06-24
 
 ## Updates
 
+- **October 18, 2026:** Stars 39,644 → 42,145.
 - **October 16, 2026:** Stars 37,531 → 39,644.
 - **October 8, 2026:** Stars 35,717 → 37,531.
 - **August 31, 2026:** Stars 32,968 → 35,717.
-- **August 2, 2026:** Stars 30,960 → 32,968.
 
 ## What you get
 
@@ -29,6 +29,7 @@ You can browse available plugins using the '/plugin > Discover' menu in the Clau
 
 - [Tools](https://trescout.com/en/dictionary/tools/)
 - [Plugin](https://trescout.com/en/dictionary/plugin/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for software developers who use Claude Code and want to customize the coding assistant's capabilities.
 - **License:** Apache-2.0

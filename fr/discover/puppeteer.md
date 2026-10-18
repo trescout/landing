@@ -40,6 +40,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes un expert en automatisation Web. À l'aide de la bibliothèque Puppeteer, créez un simple script JavaScript qui ouvre une page Web, écrit du texte dans un champ spécifié et imprime les résultats à l'écran. Fournissez un exemple de code qui inclut les étapes permettant de lancer le navigateur, de créer une nouvelle page, d'accéder à une URL et d'imprimer le titre de la page sur la console.
 
+Dépôt : https://github.com/puppeteer/puppeteer. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Web Scraping](https://trescout.com/fr/dictionary/web-scraping/)

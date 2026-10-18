@@ -18,6 +18,10 @@ Da es sich um eine Softwareliste handelt, ist keine Installation erforderlich. S
 
 - [Offizielle Quelle →](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es richtet sich an Entwickler, die Softwareentwicklungsprozesse durch die Erstellung realer Anwendungen und nicht durch theoretisches Wissen erlernen möchten.
 - **Lizenz:** MIT
 

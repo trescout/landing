@@ -75,6 +75,7 @@ Quelles sont les différences entre l’utilisation d’une instance Invidious p
 - [Companion](https://trescout.com/fr/dictionary/companion/)
 - [RAM](https://trescout.com/fr/dictionary/ram/)
 - [API](https://trescout.com/fr/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 

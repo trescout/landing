@@ -2,17 +2,17 @@
 
 claude-mem enables your AI agents to perform cross-session recall. It captures everything that happens in one session, transforms it into meaningful summaries with AI, and delivers relevant context back in the next session. Compatible with Claude Code, Codex, Gemini, Copilot and OpenCode.
 
-- ★ 101,275
+- ★ 101,496
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Updates
 
+- **October 18, 2026:** Stars 101,275 → 101,496, latest release v14.0.1 (October 17, 2026).
 - **October 17, 2026:** Stars 101,166 → 101,275, latest release v13.41.0 (October 17, 2026).
 - **October 16, 2026:** Stars 100,574 → 101,166, latest release v13.40.0 (October 16, 2026).
 - **October 14, 2026:** Stars 100,384 → 100,574, latest release v13.39.0 (October 13, 2026).
-- **October 13, 2026:** Stars 100,313 → 100,384, latest release v13.38.0 (October 13, 2026).
 
 ## What you get
 
@@ -37,6 +37,14 @@ It automatically records the actions taken by the agent during the session.
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install Claude-Mem by running 'npx claude-mem install' in the terminal, then restart Claude Code; After that, the memory of previous sessions will be automatically moved to new sessions.
+
+Repository: https://github.com/thedotmack/claude-mem. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

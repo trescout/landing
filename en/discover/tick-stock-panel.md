@@ -11,6 +11,7 @@ Tick-stock-panel is a customizable stock selection, tracking and backtesting pla
 - [A-share](https://trescout.com/en/dictionary/a-share/)
 - [Backtesting](https://trescout.com/en/dictionary/backtesting/)
 - [Large Language Models](https://trescout.com/en/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

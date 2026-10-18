@@ -36,6 +36,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je effectuer le clonage vocal, le doublage vidéo ou la synthèse vocale sur mon matériel local en utilisant VoiceStudio ? Expliquez les étapes de base que je dois suivre pour gérer les modèles vocaux dans l'application, effectuer le clonage en ajoutant un nouvel échantillon vocal et exécuter les processus de synthèse vocale multilingue de la manière la plus efficace.
 
+Dépôt : https://github.com/debpalash/VoiceStudio. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

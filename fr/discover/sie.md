@@ -45,6 +45,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter un modèle pour un agent d'IA via le serveur SIE. Comment puis-je gérer les tâches dont mon agent a besoin, telles que la recherche, l'extraction de données et la génération de texte, via une seule API ? Comment puis-je configurer les processus de création d'embeddings et de génération de texte en utilisant les points de terminaison compatibles avec OpenAI fournis par SIE ?
 
+Dépôt : https://github.com/superlinked/sie. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Embedding](https://trescout.com/fr/dictionary/embedding/)

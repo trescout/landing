@@ -28,6 +28,7 @@ Pour démarrer votre projet, ajoutez simplement tous les fichiers .cpp et .h com
 - [User Interface](https://trescout.com/fr/dictionary/user-interface/)
 - [GUI](https://trescout.com/fr/dictionary/gui/)
 - [Interface](https://trescout.com/fr/dictionary/interface/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels travaillant avec C++ dans des processus rapides de développement d'outils, de débogage et de visualisation.
 - **Licence:** MIT

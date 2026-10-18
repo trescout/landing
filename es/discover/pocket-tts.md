@@ -53,6 +53,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero convertir texto a voz usando la herramienta Pocket TTS. Explicar cómo configurar los comandos necesarios y el modelo de sonido para producir rápidamente un archivo de audio en mi computadora usando solo la potencia del procesador. En particular, explique paso a paso cómo puedo cambiar la configuración de audio predeterminada y clonar mi audio usando mi propio archivo de audio.
 
+Repositorio: https://github.com/kyutai-labs/pocket-tts. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Text-to-Speech](https://trescout.com/es/dictionary/text-to-speech/)

@@ -28,6 +28,7 @@ Para la instalación, puedes consultar la documentación oficial de inicio de Fi
 - [Swift Package Manager](https://trescout.com/es/dictionary/swiftpm/)
 - [Backend](https://trescout.com/es/dictionary/backend/)
 - [SDK](https://trescout.com/es/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Desarrolladores de software que desarrollan aplicaciones móviles para el ecosistema de Apple y desean agregar servicios basados en la nube a sus aplicaciones.
 - **Licencia:** Apache-2.0

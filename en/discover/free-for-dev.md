@@ -51,6 +51,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a modern cloud infrastructure consisting entirely of free services for a new web startup. Can you explain a zero-cost architecture plan and setup steps that combine the most popular free providers from the free-for-dev list (hosting, database, authentication, and email service) without exceeding quota limits?
 
+Repository: https://github.com/ripienaar/free-for-dev. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - What is the difference between a free tier and a free trial? Free trials usually expire after 7 to 30 days and require payment. Services on the free-for-dev list, however, are free indefinitely within specific quotas.

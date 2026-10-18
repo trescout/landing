@@ -46,6 +46,10 @@ Um mit der Nutzung von Apache Maven zu beginnen, können Sie die offizielle Apac
 
 - [Offizielle Quelle →](https://maven.apache.org/ref/current)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die die Entwicklungs-, Kompilierungs- und Verwaltungsprozesse von Java-basierten Softwareprojekten standardisieren möchten.
 - **Lizenz:** Apache-2.0
 

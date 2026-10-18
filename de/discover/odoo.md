@@ -46,6 +46,7 @@ Um mit der Installation von Odoo zu beginnen, müssen Sie den Installationsanwei
 ## Verwandte Begriffe aus dem Glossar
 
 - [Enterprise Resource Planning](https://trescout.com/de/dictionary/enterprise-resource-planning/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Unternehmen, die alle ihre betrieblichen Prozesse auf einer einzigen Plattform verwalten möchten.
 

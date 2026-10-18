@@ -65,6 +65,7 @@ Pouvez-vous m’aider à écrire une scène ManimGL simple dans laquelle un cerc
 ## Termes liés du glossaire
 
 - [Fork](https://trescout.com/fr/dictionary/fork/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 

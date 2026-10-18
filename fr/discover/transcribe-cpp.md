@@ -37,6 +37,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite convertir un fichier audio local en texte à l'aide de l'outil Transcribe.cpp. Comment puis-je traiter mon fichier audio au format WAV mono 16 kHz à l'aide de l'outil transcribe-cli compilé sur mon système et du fichier modèle au format GGUF que j'ai téléchargé ? Veuillez expliquer la structure de commande requise pour ce processus et les chemins de fichiers auxquels je dois prêter attention.
 
+Dépôt : https://github.com/handy-computer/transcribe.cpp. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Speech-to-Text](https://trescout.com/fr/dictionary/speech-to-text/)

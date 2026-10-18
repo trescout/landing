@@ -23,6 +23,10 @@ Puede visitar enjoy.bot para comenzar a usarlo inmediatamente a través de su na
 
 - [Fuente oficial →](https://1000h.org)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es adecuado para cualquier persona que quiera mejorar sus habilidades en el idioma inglés con la ayuda de un plan de estudios estructurado y herramientas digitales.
 - **Licencia:** GPL-3.0
 

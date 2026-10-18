@@ -22,6 +22,7 @@ Um mit der Nutzung des Tools zu beginnen, können Sie die Liste der verfügbaren
 
 - [HLSL](https://trescout.com/de/dictionary/hlsl/)
 - [HDR](https://trescout.com/de/dictionary/hdr/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Spieler und Entwickler, die ihre alten Spiele mit moderner Display-Technologie aktualisieren möchten, um ein qualitativ hochwertigeres visuelles Erlebnis zu bieten.
 - **Lizenz:** MIT

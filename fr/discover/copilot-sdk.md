@@ -32,6 +32,16 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer un workflow d'IA personnalisé dans mon application à l'aide du SDK GitHub Copilot. Comment puis-je configurer le runtime de l'agent fourni par le SDK et intégrer les fonctionnalités de planification et de covoiturage à ma propre logique d'application ? Pouvez-vous s'il vous plaît expliquer les étapes que je dois suivre pour me connecter avec différents fournisseurs de LLM, notamment en utilisant la méthode BYOK (apportez votre propre clé) ?
 
+Dépôt : https://github.com/github/copilot-sdk. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [BYOK](https://trescout.com/fr/dictionary/byok/)

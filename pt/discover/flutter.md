@@ -51,6 +51,7 @@ Para começar a desenvolver com Flutter, você precisa visitar o site oficial fl
 - [User Interface](https://trescout.com/pt/dictionary/user-interface/)
 - [Interface](https://trescout.com/pt/dictionary/interface/)
 - [Framework](https://trescout.com/pt/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É para desenvolvedores de software que desejam desenvolver aplicativos para múltiplas plataformas simultaneamente a partir de uma única base de código.
 - **Licença:** BSD-3-Clause

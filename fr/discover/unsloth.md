@@ -41,6 +41,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite entraîner un modèle d'IA sur mon ordinateur local à l'aide d'Unsloth. Pouvez-vous expliquer étape par étape les paramètres de configuration optimaux qui me permettront d'utiliser mes ressources matérielles de la manière la plus efficace, d'optimiser l'utilisation de la mémoire et d'accélérer le processus de réglage fin ?
 
+Dépôt : https://github.com/unslothai/unsloth. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Fine-tuning](https://trescout.com/fr/dictionary/fine-tuning/)

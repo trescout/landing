@@ -60,6 +60,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ajude-me a escolher o modelo DeepSeek ou GLM mais adequado de acordo com os recursos de hardware do meu sistema. Qual comando de download devo usar e como posso superar o gargalo de memória ativando o recurso de streaming por SSD? Além disso, explique as configurações básicas necessárias para usar este sistema de inteligência artificial que instalei como servidor local.
 
+Repositório: https://github.com/antirez/ds4. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Inference Engine](https://trescout.com/pt/dictionary/inference-engine/)

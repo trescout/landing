@@ -41,6 +41,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind ein visueller Prompt-Ingenieur. Unter Verwendung der Strukturprotokolle in der Awesome GPT Image 2-Bibliothek habe ich das Bildsubjekt angegeben; Zerlegen Sie es in atomare Teile wie Beleuchtung, Materialien, Layout und visuelle Details. Stellen Sie sicher, dass die von Ihnen erstellte Anfrage durch Modelle der künstlichen Intelligenz konsistente und kontrollierbare Ergebnisse liefert.
 
+Repository: https://github.com/freestylefly/awesome-gpt-image-2. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Prompt Engineering](https://trescout.com/de/dictionary/prompt-engineering/)

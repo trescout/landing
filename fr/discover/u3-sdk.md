@@ -31,6 +31,7 @@ Téléchargez ou copiez le projet sur votre ordinateur. Installez ensuite la ver
 - [Software Development](https://trescout.com/fr/dictionary/software-development/)
 - [SDK](https://trescout.com/fr/dictionary/sdk/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent modifier le jeu Unturned et développer les codes sources du jeu.
 

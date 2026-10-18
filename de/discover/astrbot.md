@@ -42,6 +42,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit AstrBot einen anpassbaren Assistenten für künstliche Intelligenz auf meinen Messaging-Plattformen erstellen. Helfen Sie mir, einen KI-Agenten zu erstellen, der entsprechend meinen Anforderungen konfiguriert ist und sich sowohl in meine persönlichen als auch in meine beruflichen Arbeitsabläufe integriert, indem Sie die Plug-in-Unterstützung, die multimodalen Funktionen und die Funktionen des Agentenarbeitsbereichs der Plattform nutzen.
 
+Repository: https://github.com/AstrBotDevs/AstrBot. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Development Framework](https://trescout.com/de/dictionary/development-framework/)

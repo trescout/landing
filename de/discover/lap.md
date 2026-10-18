@@ -9,6 +9,7 @@ Das mit Vue entwickelte Lap ist ein Offline-First-Fotomanager, mit dem Sie groß
 ## Verwandte Begriffe aus dem Glossar
 
 - [Offline-first](https://trescout.com/de/dictionary/offline-first/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

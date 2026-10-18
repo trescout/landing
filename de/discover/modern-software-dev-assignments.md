@@ -9,6 +9,7 @@ Die von der Stanford University entwickelten Aufgaben zur modernen Softwareentwi
 ## Verwandte Begriffe aus dem Glossar
 
 - [Software Development](https://trescout.com/de/dictionary/software-development/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

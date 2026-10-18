@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Madeira projesini kurmak ve çalıştırmak istiyorum. Kod bilmeyen biri olarak bana bu uyumluluk katmanını jailbreaksiz iPhone cihazımda nasıl yapılandıracağımı adım adım açıklar mısın? Gerekli olan hata ayıklayıcıyı ve sideloading adımlarını nasıl yapacağımı anlat.
 
+Depo: https://github.com/willfaust/Madeira. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** iPhone cihazında Windows oyunları oynamak isteyen ve araştırma aşamasındaki bu projeyi denemek merake den kullanıcılar içindir.
 - **Lisans:** GPL-3.0
 

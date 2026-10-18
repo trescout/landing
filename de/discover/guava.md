@@ -28,6 +28,7 @@ Abhängig vom Konfigurationstool, mit dem Sie die Guava-Bibliothek zu Ihrem Proj
 
 - [Core Libraries](https://trescout.com/de/dictionary/core-libraries/)
 - [Caching](https://trescout.com/de/dictionary/caching/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Softwareentwickler, die Anwendungen in der Java-Sprache entwickeln und effizientere Tools für grundlegende Aufgaben wie Sammlungsverwaltung und Zeichenfolgenverarbeitung benötigen.
 - **Lizenz:** Apache-2.0

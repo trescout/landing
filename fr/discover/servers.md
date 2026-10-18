@@ -44,6 +44,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite connecter mon modèle d'intelligence artificielle à des sources de données externes en utilisant les serveurs de référence du Model Context Protocol (MCP). Tout d'abord, guidez-moi pour démarrer le serveur de mémoire avec la commande npx -y @modelcontextprotocol/server-memory et pour configurer le client de bureau. Expliquez également les étapes pour accéder aux dépôts de code en utilisant la commande uvx mcp-server-git.
 
+Dépôt : https://github.com/modelcontextprotocol/servers. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)

@@ -22,6 +22,10 @@ Zur Nutzung müssen Sie zunächst die Browser-Erweiterung Tampermonkey für Benu
 
 - [Offizielle Quelle →](https://github.com/hmjz100/LinkSwift/raw/main/%EF%BC%88%E6%94%B9%EF%BC%89%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.user.js)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Dies ist für Benutzer gedacht, die Dateien von verschiedenen Cloud-Speicherdiensten direkt über ihren Browser oder Download-Manager herunterladen möchten, ohne die offiziellen Client-Programme auf ihrem Computer installieren zu müssen.
 - **Lizenz:** AGPL-3.0
 

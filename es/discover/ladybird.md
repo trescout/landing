@@ -66,6 +66,7 @@ Según las instrucciones oficiales, ¿cómo puedo comprobar si mi sistema tiene 
 
 - [Sandbox](https://trescout.com/es/dictionary/sandbox/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 ## Enlaces
 

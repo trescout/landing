@@ -29,6 +29,7 @@ You can download it from the Visual Studio Code website for Windows, macOS and L
 
 - [Code Editor](https://trescout.com/en/dictionary/code-editor/)
 - [Editor](https://trescout.com/en/dictionary/editor/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for software developers who want to bring code editing, navigation and light debugging under one roof.
 - **License:** MIT

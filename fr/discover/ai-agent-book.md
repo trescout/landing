@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes un expert en développement d'agents d'intelligence artificielle. Expliquez-moi étape par étape comment mettre en place le système de mémoire d'un agent et intégrer des outils externes (appel d'outils), en vous basant sur la formule 'Agent = LLM + Contexte + Outils'. Expliquez avec des exemples quelles approches d'ingénierie je dois utiliser pour optimiser la gestion du contexte, en particulier dans les processus RAG (Retrieval-Augmented Generation).
 
+Dépôt : https://github.com/bojieli/ai-agent-book. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [RAG](https://trescout.com/fr/dictionary/rag/)

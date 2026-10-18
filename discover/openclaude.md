@@ -40,6 +40,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenClaude üzerinde çalışırken terminal tabanlı iş akışımı optimize etmek istiyorum. Kodlama görevlerimde dosya araçlarını, grep arama özelliğini ve MCP (Model Context Protocol) entegrasyonunu kullanarak verimliliğimi artıracak bir çalışma planı oluştur. Ayrıca `/provider` komutuyla sağlayıcı ayarlarımı nasıl yapılandıracağımı ve GitHub modellerini nasıl dahil edeceğimi adım adım açıkla.
 
+Depo: https://github.com/Gitlawb/openclaude. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Terminal ortamında çalışmayı seven ve farklı yapay zekâ modellerini tek bir komut satırı arayüzü üzerinden yönetmek isteyen yazılımcılar içindir.
 
 ## Bağlantılar

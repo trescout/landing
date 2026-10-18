@@ -40,6 +40,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar um sistema de autenticação seguro para meu aplicativo usando o Logto. Como posso configurar recursos de multilocação e controle de acesso baseado em função nesta estrutura baseada nos protocolos OIDC e OAuth 2.1? Você pode explicar as etapas básicas que preciso seguir para gerenciar fluxos de login de usuários e integração de SSO empresarial em meu projeto de SaaS?
 
+Repositório: https://github.com/logto-io/logto. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [OIDC](https://trescout.com/pt/dictionary/oidc/)

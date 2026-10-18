@@ -44,13 +44,13 @@ Künstliche Intelligenz wird die Art und Weise, wie viele Arbeiten erledigt werd
 ## Verwandte Werkzeuge
 
 - [Build Your Own X](https://trescout.com/de/discover/build-your-own-x/)
+- [Awesome](https://trescout.com/de/discover/awesome/)
+- [Public Apis](https://trescout.com/de/discover/public-apis/)
+- [freeCodeCamp](https://trescout.com/de/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/de/discover/openclaw/)
+- [System Design Primer](https://trescout.com/de/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/de/discover/coding-interview-university/)
-- [Superpowers](https://trescout.com/de/discover/superpowers/)
 - [REA](https://trescout.com/de/discover/rea/)
-- [ECC](https://trescout.com/de/discover/ecc/)
-- [Hermes Agent](https://trescout.com/de/discover/hermes-agent/)
-- [Opencode](https://trescout.com/de/discover/opencode/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/artificial-intelligence/)
 

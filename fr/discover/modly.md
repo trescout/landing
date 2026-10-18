@@ -55,6 +55,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite convertir une image en modèle 3D à l'aide de l'application Modly. Aidez-moi à configurer le flux « Image -> Générer un maillage -> Ajouter à la scène » en accédant à l'onglet « Workflows » de l'application. Laissez-moi ensuite démarrer la génération du modèle 3D en sélectionnant le flux de travail approprié dans l'onglet « Générer ». Si j'obtiens une erreur, comment puis-je analyser le problème dans la section « Paramètres/Journaux/Erreurs » ?
 
+Dépôt : https://github.com/lightningpixel/modly. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Logs](https://trescout.com/fr/dictionary/logs/)

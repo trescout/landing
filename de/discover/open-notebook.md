@@ -40,6 +40,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das Open Notebook-Tool installieren. Docker Desktop ist installiert. Zuerst muss ich die Datei docker-compose.yml mit dem Befehl „curl“ herunterladen und dann den Abschnitt OPEN_NOTEBOOK_ENCRYPTION_KEY in der Datei durch ein eindeutiges Passwort ändern. Im letzten Schritt muss ich die Installation abschließen, indem ich den Befehl docker compose up -d ausführe. Gibt es weitere Einstellungen oder Schritte, auf die ich in diesem Prozess achten sollte?
 
+Repository: https://github.com/lfnovo/open-notebook. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [AI-powered Note Analysis](https://trescout.com/de/dictionary/ai-powered-note-analysis/)

@@ -28,6 +28,7 @@ To access the project's source code and perform installation, you need to visit 
 ## Related dictionary terms
 
 - [Compiler](https://trescout.com/en/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for software developers who want to develop their own compiler or optimize their existing code for different hardware architectures.
 

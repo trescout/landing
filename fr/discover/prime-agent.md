@@ -41,6 +41,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous agissez en tant qu'agent principal. Utilisez l'environnement IPython pour gérer des flux de travail de développement logiciel complexes, effectuer des opérations sur les fichiers et suivre les tâches autonomes de longue durée dans le répertoire de mon projet. Travaillez en parallèle en créant des sous-agents si nécessaire, rendez ce qui a été appris permanent avec la commande /refine et atteignez les objectifs dans les limites des budgets définis avec le mode /autonome. Agissez toujours en respectant les autorisations des utilisateurs et les limites de sécurité lors de l’exécution de transactions.
 
+Dépôt : https://github.com/PrimeIntellect-ai/prime-agent. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Reinforcement Learning Agent](https://trescout.com/fr/dictionary/reinforcement-learning-agent/)

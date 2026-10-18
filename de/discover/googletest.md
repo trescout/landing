@@ -59,6 +59,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte in einem modernen C++-Projekt Unit-Tests für eine Datenparser-Klasse unter Verwendung von GoogleTest und GoogleMock schreiben. Können Sie anhand von Codebeispielen erklären, wie ich meine CMakeLists.txt-Datei konfiguriere, eine beispielhafte TEST_F-Test-Fixture erstelle und ein Mock-Objekt mit MOCK_METHOD generiere sowie Aufruferwartungen validiere?
 
+Repository: https://github.com/google/googletest. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Häufig gestellte Fragen
 
 - Was ist der modernste Weg, GoogleTest in ein Projekt einzubinden? Bei modernen CMake-Projekten ist der FetchContent-Mechanismus der am meisten empfohlene Ansatz. Er lädt den Quellcode ohne die Notwendigkeit eines externen Paketmanagers herunter und bindet ihn in den Ziel-Kompilierungsprozess ein.

@@ -25,6 +25,7 @@ Para encontrar los datos que necesita, puede visitar el repositorio Public-apis 
 ## Términos relacionados del glosario
 
 - [API](https://trescout.com/es/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para todos los desarrolladores de software que necesitan fuentes de datos externas en sus proyectos.
 - **Licencia:** MIT

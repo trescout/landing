@@ -28,6 +28,7 @@ Installez le logiciel adapté à votre appareil via votre navigateur à l'aide d
 
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux développeurs intéressés par la sécurité matérielle, les systèmes embarqués et l'analyse de protocoles.
 - **Licence:** MIT

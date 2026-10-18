@@ -30,6 +30,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Bu depo (FareedKhan-dev/train-llm-from-scratch), PyTorch ile sıfırdan bir transformer/LLM eğitmeyi anlatan bir öğreticidir. README'yi incele ve bana Türkçe, adım adım bir uygulama planı çıkar: gereken donanım (GPU), veri indirme ve ön işleme, model yapılandırması, eğitim ve metin üretme aşamalarını sırayla açıkla.
 
+Depo: https://github.com/FareedKhan-dev/train-llm-from-scratch. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Depoyu klonla**
 
 ```

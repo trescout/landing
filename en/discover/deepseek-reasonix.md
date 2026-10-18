@@ -2,16 +2,16 @@
 
 DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models. Focusing on prefix-cache stability, this tool ensures developers receive uninterrupted coding support over long sessions.
 
-- ★ 35,823
+- ★ 35,837
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Updates
 
+- **October 18, 2026:** Stars 35,823 → 35,837, latest release studio-v2.44.0 (October 18, 2026).
 - **October 17, 2026:** Stars 35,818 → 35,823, latest release studio-v2.43.0 (October 17, 2026).
 - **October 16, 2026:** Stars 35,803 → 35,818, latest release studio-v2.42.0 (October 16, 2026).
 - **October 15, 2026:** Stars 35,786 → 35,803, latest release studio-v2.41.0 (October 15, 2026).
-- **October 14, 2026:** Stars 35,775 → 35,786, latest release studio-v2.39.0 (October 14, 2026).
 
 ## What you get
 
@@ -52,6 +52,14 @@ reasonix run "implement the TODOs in main.go"
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 While working with this artificial intelligence coding agent running on the terminal, develop code suggestions taking into account the current structure and goals of my project. Focus on producing consistent, low-cost responses across our long sessions using prefix cache stability. When writing or debugging code, provide modular and clean solutions that fit the needs of the project.
+
+Repository: https://github.com/esengine/DeepSeek-Reasonix. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

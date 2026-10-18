@@ -53,6 +53,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso executar um projeto baseado em JavaScript ou TypeScript mais rapidamente usando Bun e no que devo prestar atenção ao portar meus projetos Node.js para Bun? Explique passo a passo como posso integrar o gerenciador de pacotes e os recursos da ferramenta de teste oferecidos pelo Bun em meu projeto.
 
+Repositório: https://github.com/oven-sh/bun. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)

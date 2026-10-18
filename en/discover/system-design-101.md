@@ -24,6 +24,7 @@ This tool is not a software library but a comprehensive educational resource. To
 ## Related dictionary terms
 
 - [System Design](https://trescout.com/en/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for those preparing for software engineering interviews and anyone curious about how systems work in the background.
 

@@ -26,6 +26,7 @@ You can learn how to include it in your project by visiting the official documen
 ## Related dictionary terms
 
 - [Compiler](https://trescout.com/en/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Intended for developers who want to make text formatting, data printing, and logging processes faster and safer in C++ projects.
 - **License:** MIT

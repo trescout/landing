@@ -28,6 +28,7 @@ Le projet Pumpkin est toujours en développement. Pour les étapes d'installatio
 ## Termes liés du glossaire
 
 - [Rust](https://trescout.com/fr/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Pour les propriétaires de serveurs et les développeurs à la recherche d'une infrastructure de serveur Minecraft plus rapide et plus efficace.
 - **Licence:** GPL-3.0

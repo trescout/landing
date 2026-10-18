@@ -2,16 +2,16 @@
 
 Ruflo est une couche d'orchestration d'agents permettant de déployer des essaims d'agents intelligents, de coordonner des flux de travail autonomes et de créer des systèmes d'IA conversationnelle.
 
-- ★ 74 730
+- ★ 76 236
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 74,730 → 76,236, dernière version v3.57.0 (17 octobre 2026).
 - **15 octobre 2026:** Étoiles 74,504 → 74,730, dernière version v3.56.10 (14 octobre 2026).
 - **13 octobre 2026:** Étoiles 74,429 → 74,504, dernière version v3.56.9 (12 octobre 2026).
 - **12 octobre 2026:** Étoiles 74,363 → 74,429, dernière version v3.56.8 (12 octobre 2026).
-- **12 octobre 2026:** Étoiles 74,319 → 74,363, dernière version v3.56.7 (11 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -38,6 +38,14 @@ npm install -g ruflo@latest
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes dans un environnement de travail intégré avec Ruflo. Optimisez votre flux de travail en utilisant les outils, les fonctionnalités de mémoire et les essaims d'agents de Ruflo pour effectuer des tâches. Améliorez vous-même les prochaines étapes en apprenant des modèles réussis et en vous coordonnant avec d'autres agents pour gérer des tâches complexes.
+
+Dépôt : https://github.com/ruvnet/ruflo. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

@@ -54,6 +54,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite améliorer les performances d'un agent IA en utilisant le framework SIA. Une fois l'installation terminée, quelle commande dois-je utiliser pour démarrer le cycle d'auto-amélioration en sélectionnant l'une des tâches disponibles (par exemple gpqa) et comment dois-je interpréter les résultats à la fin du processus (target_agent.py, agent_execution.json, enhancement.md) ? De plus, comment puis-je inclure mon propre répertoire de tâches personnalisé dans le système ?
 
+Dépôt : https://github.com/hexo-ai/sia. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Benchmark](https://trescout.com/fr/dictionary/benchmark/)

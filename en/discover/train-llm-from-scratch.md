@@ -24,6 +24,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 This repository (FareedKhan-dev/train-llm-from-scratch) is a tutorial on training a transformer/LLM from scratch with PyTorch. Review the README and give me a step-by-step implementation plan in Turkish: explaining the required hardware (GPU), data download and pre-processing, model configuration, training and text generation stages, in order.
 
+Repository: https://github.com/FareedKhan-dev/train-llm-from-scratch. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 **Clone repository**
 
 ```

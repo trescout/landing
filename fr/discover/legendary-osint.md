@@ -18,6 +18,7 @@ Il ne s'agit pas d'un outil logiciel, mais d'un répertoire qui catégorise les 
 ## Termes liés du glossaire
 
 - [OSINT](https://trescout.com/fr/dictionary/osint/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux enquêteurs sur les fraudes, aux analystes du renseignement sur les cybermenaces et aux professionnels des enquêtes numériques.
 - **Licence:** CC0-1.0

@@ -20,6 +20,10 @@ freeCodeCamp é uma plataforma de aprendizagem baseada na web, não uma ferramen
 
 - [Fonte oficial →](https://contribute.freecodecamp.org)
 
+## Termos relacionados do glossário
+
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
 - **Para quem é:** É para qualquer pessoa que queira entrar no mundo do software ou que pretenda melhorar suas habilidades técnicas existentes com projetos práticos e gratuitos.
 - **Licença:** BSD-3-Clause
 

@@ -54,6 +54,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um testador de penetração. Usando a ferramenta VulnClaw, colete informações sobre o sistema de destino, execute etapas de verificação de vulnerabilidades e exploração. Use o mecanismo de resolução orientado a objetivos enquanto executa as operações, verifique suas descobertas e crie um relatório estruturado e código PoC baseado em Python no final do processo. Em cada etapa, proceda com base nos dados reais obtidos e evite suposições.
 
+Repositório: https://github.com/Unclecheng-li/VulnClaw. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [PoC](https://trescout.com/pt/dictionary/poc/)

@@ -22,6 +22,10 @@ Download the archive file suitable for your computer system from the official Gi
 
 - [Official source →](https://github.com/ntdevlabs/tiny11builder/releases/latest)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is intended for users who want to strip the Windows 11 operating system of unnecessary components and make it lighter.
 
 ## Links

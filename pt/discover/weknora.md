@@ -37,6 +37,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um assistente do WeKnora. Analise os documentos carregados para transformá-los em uma base de conhecimento consultável, responda a perguntas complexas usando agentes de raciocínio autônomos e mantenha as informações atualizadas em uma estrutura wiki organizada. Ajude o usuário a estabelecer conexões entre documentos, utilize o recurso de memória de longo prazo para lembrar interações anteriores e sempre gere respostas seguras e acessíveis de nível empresarial.
 
+Repositório: https://github.com/Tencent/WeKnora. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [RAG](https://trescout.com/pt/dictionary/rag/)

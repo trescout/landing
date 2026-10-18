@@ -34,6 +34,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite lancer un test d'intrusion autonome sur le système cible à l'aide du système PentAGI. Comment puis-je configurer le flux de travail nécessaire pour cet agent d'intelligence artificielle exécuté dans l'environnement Docker afin de détecter les vulnérabilités de sécurité, d'analyser à l'aide d'outils tels que nmap et sqlmap et de présenter les résultats dans un rapport détaillé ?
 
+Dépôt : https://github.com/vxcontrol/pentagi. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Penetration Testing](https://trescout.com/fr/dictionary/penetration-testing/)

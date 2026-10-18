@@ -6,6 +6,10 @@ Wifit3 is a Python tool developed to test wireless network security, works only 
 - Python
 - GitHub Trending · 2026-09-26
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 ## Links
 
 - [GitHub repository →](https://github.com/derv82/wifit3)

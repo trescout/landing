@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımdaki mobil geliştirme araçlarıyla iletişim kuran Model Bağlam Protokolü (Model Context Protocol) sunucusunu kullanarak bağlı olan mobil cihazlardaki uygulamaları listele ve ekrandaki ögeleri tara.
 
+Depo: https://github.com/mobile-next/mobile-mcp. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Mobil uygulama testleri ve otomasyon süreçlerini yapay zekâ ajanlarıyla yönetmek isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 

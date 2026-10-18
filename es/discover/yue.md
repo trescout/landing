@@ -48,6 +48,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear una canción usando YuE2. Por favor, prepárame un plan de melodía y acordes editable basado en la letra y el estilo musical que deseo. Luego, utiliza este plan para producir una grabación completa de la canción que incluya voces y acompañamiento instrumental. Si tengo un archivo de notación, permíteme usarlo para realizar ediciones.
 
+Repositorio: https://github.com/multimodal-art-projection/YuE. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Zero-shot](https://trescout.com/es/dictionary/zero-shot/)

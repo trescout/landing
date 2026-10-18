@@ -41,6 +41,10 @@ Esta herramienta es un software basado en web y debe ejecutarse en un servidor w
 
 - [Fuente oficial →](https://snipeitapp.com)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es para organizaciones y administradores de sistemas que desean monitorear periódicamente su inventario de TI, débitos de hardware y licencias de software.
 - **Licencia:** AGPL-3.0
 

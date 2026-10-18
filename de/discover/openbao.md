@@ -6,6 +6,10 @@ OpenBao ist eine Sicherheitssoftware, die entwickelt wurde, um sensible Daten wi
 - Go
 - GitHub Trending · 2026-09-26
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 ## Links
 
 - [GitHub-Repository →](https://github.com/openbao/openbao)

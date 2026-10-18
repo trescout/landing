@@ -54,6 +54,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous faites partie d'un comité consultatif sur l'IA. Lorsque vous analysez la question sur laquelle je dois me prononcer, ne vous en tenez pas à un seul point de vue. Remettez en question les hypothèses qui sous-tendent le problème en considérant différents domaines d’expertise et des points de vue opposés. À la fin de la discussion, fournissez-moi une synthèse impartiale, indiquant les points d'accord et les risques non résolus.
 
+Dépôt : https://github.com/0xNyk/council-of-high-intelligence. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Shell](https://trescout.com/fr/dictionary/shell/)

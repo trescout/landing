@@ -43,6 +43,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Stirling-PDF aracını kullanarak PDF belgelerim üzerinde düzenleme, dönüştürme ve birleştirme işlemlerini nasıl yapabilirim? Belgelerimi yerel olarak güvende tutarak 50'den fazla araçtan en verimli şekilde nasıl yararlanabileceğim konusunda bana rehberlik et ve iş akışlarımı otomatize etmeme yardımcı ol.
 
+Depo: https://github.com/Stirling-Tools/Stirling-PDF. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** PDF dosyalarını gizlilikten ödün vermeden kendi sunucularında veya yerel bilgisayarlarında işlemek isteyen kullanıcılar içindir.
 
 ## Bağlantılar

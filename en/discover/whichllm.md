@@ -55,6 +55,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the Whichllm tool, I want to list the local big language models that best suit my hardware specifications and see the performance estimates of these models. How can I filter the models with the highest benchmark scores based on the GPU or CPU capacity in my system, as well as plan the hardware required for a particular model?
 
+Repository: https://github.com/Andyyyy64/whichllm. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Benchmark](https://trescout.com/en/dictionary/benchmark/)

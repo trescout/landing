@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Outlines kütüphanesini kullanarak bir yapay zekâ modelinden gelen yanıtı belirli bir Pydantic veri yapısına veya Python tipine (örneğin int veya Literal) göre kısıtlamak istiyorum. Modelin çıktısının her zaman istediğim şemaya uygun olmasını sağlamak için model nesnesini tanımladıktan sonra model(istem, çıktı_tipi) fonksiyonunu nasıl kullanabilirim? Lütfen karmaşık nesneler için Pydantic modelini nasıl tanımlayacağımı ve bu yapıyı model çıktısına nasıl uygulayacağımı örnekle açıkla.
 
+Depo: https://github.com/dottxt-ai/outlines. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ modellerinden gelen düzensiz metin çıktılarını, yazılım süreçlerinde doğrudan kullanılabilecek yapılandırılmış verilere dönüştürmek isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 

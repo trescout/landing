@@ -29,6 +29,7 @@ Um mit der Nutzung des Tools zu beginnen, besuchen Sie die offizielle Release-Se
 
 - [Bloatware](https://trescout.com/de/dictionary/bloatware/)
 - [GPU](https://trescout.com/de/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Benutzer, die das Windows-Betriebssystem schneller und datenschutzorientierter nutzen möchten und sich nicht mit komplexen Registrierungseinstellungen herumschlagen möchten.
 

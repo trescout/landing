@@ -44,6 +44,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez Hermes WebUI : téléchargez avec 'git clone https://github.com/nesquena/hermes-webui.git hermes-webui', entrez dans le répertoire et exécutez 'python3 bootstrap.py' ; Utilisez ensuite l'agent Hermes depuis l'interface du navigateur ouvert.
 
+Dépôt : https://github.com/nesquena/hermes-webui. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Clone](https://trescout.com/fr/dictionary/clone/)

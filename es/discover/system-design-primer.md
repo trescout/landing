@@ -23,6 +23,7 @@ Esta guía es un depósito de documentación en GitHub. Para comenzar, puede vis
 ## Términos relacionados del glosario
 
 - [System Design](https://trescout.com/es/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para ingenieros de software que se están preparando para entrevistas técnicas o que desean mejorar en la arquitectura de sistemas de software a gran escala.
 

@@ -41,6 +41,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite démarrer un processus de développement en utilisant OpenSpec. Veuillez examiner la structure actuelle de mon code, faire des suggestions et m'aider à créer un plan comprenant les exigences techniques, les détails de conception et les tâches de mise en œuvre pour une nouvelle fonctionnalité avec la commande `/opsx:propose`.
 
+Dépôt : https://github.com/Fission-AI/OpenSpec. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Spec-driven Development](https://trescout.com/fr/dictionary/spec-driven-development/)

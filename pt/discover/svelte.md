@@ -44,6 +44,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver uma aplicação web usando a biblioteca Svelte. Configure uma estrutura básica de projeto para criar uma interface web simples usando a abordagem de tempo de compilação e a estrutura baseada em componentes do Svelte, que difere das estruturas tradicionais. Explique no que preciso prestar atenção para que o código seja executado com eficiência no navegador.
 
+Repositório: https://github.com/sveltejs/svelte. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Compile-time](https://trescout.com/pt/dictionary/compile-time/)

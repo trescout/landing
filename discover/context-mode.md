@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yapay zekâ ajanım, bundan sonra veri işleme görevlerini doğrudan yapmak yerine, bu veriyi analiz edecek kodu yazıp çalıştırmanı istiyorum. Veri boyutunu minimize etmek için context-mode araçlarını kullan, oturum geçmişimi SQLite üzerinde tut ve sadece gerekli olan sonuçları bana raporla. Gereksiz açıklamalardan kaçınarak sadece kod üretimine ve verimli bağlam yönetimine odaklan.
 
+Depo: https://github.com/mksglu/context-mode. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ kodlama ajanlarını yoğun kullanan ve uzun süreli projelerde bağlam penceresi dolması sorunu yaşayan yazılımcılar içindir.
 
 ## Bağlantılar

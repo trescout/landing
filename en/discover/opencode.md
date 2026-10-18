@@ -35,6 +35,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I would like you to analyze the codes in my current software project using the OpenCode tool and help automate the development processes. You can develop with full access during runtime using the build agent, or you can review the codes and plan changes using the plan agent. For complex searches or multi-step tasks, I expect you to use @general.
 
+Repository: https://github.com/anomalyco/opencode. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Coding Agent](https://trescout.com/en/dictionary/coding-agent/)

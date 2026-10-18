@@ -34,6 +34,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ajude-me a instalar os plug-ins oficiais do Cursor deste repositório (por exemplo, plug-ins que fazem revisão de código ou verificações de segurança) do mercado de plug-ins Cursor para o projeto em que estou trabalhando no editor Cursor e explique passo a passo como usá-los.
 
+Repositório: https://github.com/cursor/plugins. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

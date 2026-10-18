@@ -47,6 +47,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich meine Prozesse zum Signieren digitaler Dokumente mit DocuSeal optimieren? Erklären Sie die Schritte, die ich befolgen muss, um PDF-Formulare online ausfüllbar zu machen, die Signaturüberprüfung und Benutzerverwaltungsfunktionen auf meinem eigenen Server zu konfigurieren. Außerdem erfahren Sie, wie Sie nach der Installation über Docker automatische E-Mail-Benachrichtigungen mit SMTP-Einstellungen aktivieren.
 
+Repository: https://github.com/docusealco/docuseal. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [E-signature](https://trescout.com/de/dictionary/e-signature/)

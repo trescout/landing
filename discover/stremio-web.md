@@ -41,6 +41,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Stremio Web arayüzünü kullanarak dizi ve film izleme deneyimimi nasıl kişiselleştirebilirim? Eklentileri nasıl yönetebileceğim, izleme listemi nasıl senkronize edeceğim ve klavye kısayollarını kullanarak oynatıcıyı nasıl daha verimli kontrol edebileceğim konusunda bana rehberlik et.
 
+Depo: https://github.com/Stremio/stremio-web. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Çeşitli kaynaklardaki dizi ve filmleri tek bir platform üzerinden, kurulum gerektirmeden tarayıcıda izlemek isteyen kullanıcılar içindir.
 - **Lisans:** GPL-2.0
 

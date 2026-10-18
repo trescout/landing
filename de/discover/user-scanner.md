@@ -56,6 +56,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Können Sie Schritt für Schritt erklären, wie ich mit dem User-Scanner-Tool in einem Sicherheitsaudit mehr als 465 Plattformen mit einem einzigen Benutzernamen scannen, die Ergebnisse im JSON-Format exportieren und verdächtige Profile auflisten kann?
 
+Repository: https://github.com/kaifcodec/user-scanner. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Häufig gestellte Fragen
 
 - Ist die Verwendung von User-Scanner legal? Ja. Der Benutzerscanner fragt nur den öffentlich sichtbaren Kontopräsenzstatus auf öffentlichen Webseiten ab. Es ermöglicht keinen unbefugten Systemzugriff oder das Knacken von Passwörtern.

@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenDisplay kullanarak iPhone veya iPad cihazımı Mac bilgisayarım için ikinci bir monitör olarak nasıl yapılandırabilirim? Cihazımı kablolu veya kablosuz bağlantı ile bağlarken dikkat etmem gereken ağ izinleri ve kablo türü gereksinimleri nelerdir?
 
+Depo: https://github.com/peetzweg/opendisplay. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Ekran alanını genişletmek isteyen ancak Apple Sidecar kısıtlamalarına takılmak istemeyen Mac kullanıcıları içindir.
 - **Lisans:** GPL-3.0
 

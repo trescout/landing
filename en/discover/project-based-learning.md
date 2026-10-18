@@ -18,6 +18,10 @@ Since this is a software listing, it does not require installation. You can sele
 
 - [Official source →](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is for developers who want to learn software development processes by building real-world applications rather than theoretical knowledge.
 - **License:** MIT
 

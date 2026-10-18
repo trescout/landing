@@ -29,6 +29,7 @@ Para começar a usar a ferramenta, visite a página oficial de lançamentos no G
 
 - [Bloatware](https://trescout.com/pt/dictionary/bloatware/)
 - [GPU](https://trescout.com/pt/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É para usuários que desejam usar o sistema operacional Windows de forma mais rápida e orientada para a privacidade e não querem lidar com configurações complexas de registro.
 

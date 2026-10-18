@@ -2,16 +2,16 @@
 
 Desarrollado por Heygen, Hyperframes ofrece un marco que convierte códigos HTML directamente en video. Diseñada para facilitar a los agentes de inteligencia artificial la producción de contenido visual, esta herramienta convierte interfaces basadas en web en formato de vídeo.
 
-- ★ 65.605
+- ★ 66.195
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 65,605 → 66,195, última versión v0.8.170 (18 de octubre de 2026).
 - **17 de octubre de 2026:** Estrellas 65,519 → 65,605, última versión v0.8.168 (17 de octubre de 2026).
 - **17 de octubre de 2026:** Estrellas 64,870 → 65,519, última versión v0.8.167 (17 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 64,164 → 64,870, última versión v0.8.164 (16 de octubre de 2026).
-- **15 de octubre de 2026:** Estrellas 64,018 → 64,164, última versión v0.8.162 (15 de octubre de 2026).
 
 ## Qué aporta
 
@@ -50,6 +50,14 @@ npx hyperframes render       # render to MP4
 Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Usando /hyperframes, cree una introducción de producto de 10 segundos con un título que aparece gradualmente, un video de fondo y una música de fondo sutil.
+
+Repositorio: https://github.com/heygen-com/hyperframes. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
 
 ## Términos relacionados del glosario
 

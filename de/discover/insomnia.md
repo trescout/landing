@@ -42,6 +42,7 @@ Um mit der Nutzung von Insomnia zu beginnen, können Sie auf die offizielle Webs
 ## Verwandte Begriffe aus dem Glossar
 
 - [API](https://trescout.com/de/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die API-Entwicklungs-, Test- und Dokumentationsprozesse auf einer einzigen Plattform verwalten möchten.
 - **Lizenz:** Apache-2.0

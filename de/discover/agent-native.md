@@ -42,6 +42,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mithilfe des Agent-Native-Frameworks eine Aktion für meine Anwendung definieren. Mithilfe der Funktion „defineAction“ können Sie mir dabei helfen, eine Struktur zu erstellen, die die eingehenden Daten in der Datenbank verarbeitet und sowohl für die Benutzeroberfläche als auch für den Agenten der künstlichen Intelligenz zugänglich ist.
 
+Repository: https://github.com/BuilderIO/agent-native. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Agent-native Applications](https://trescout.com/de/dictionary/agent-native-applications/)

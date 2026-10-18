@@ -2,17 +2,17 @@
 
 claude-mem permite que seus agentes de IA realizem recall de sessões cruzadas. Ele captura tudo o que acontece em uma sessão, transforma em resumos significativos com IA e fornece contexto relevante na próxima sessão. Compatível com Claude Code, Codex, Gemini, Copilot e OpenCode.
 
-- ★ 101.275
+- ★ 101.496
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 101,275 → 101,496, versão mais recente v14.0.1 (17 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 101,166 → 101,275, versão mais recente v13.41.0 (17 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 100,574 → 101,166, versão mais recente v13.40.0 (16 de outubro de 2026).
 - **14 de outubro de 2026:** Estrelas 100,384 → 100,574, versão mais recente v13.39.0 (13 de outubro de 2026).
-- **13 de outubro de 2026:** Estrelas 100,313 → 100,384, versão mais recente v13.38.0 (13 de outubro de 2026).
 
 ## O que você ganha
 
@@ -37,6 +37,14 @@ Registra automaticamente as ações realizadas pelo agente durante a sessão.
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale o Claude-Mem executando 'npx claude-mem install' no terminal e reinicie o Claude Code; Depois disso, a memória das sessões anteriores será movida automaticamente para novas sessões.
+
+Repositório: https://github.com/thedotmack/claude-mem. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

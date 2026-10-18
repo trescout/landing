@@ -53,6 +53,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Pocket TTS aracını kullanarak metinden sese dönüştürme işlemi yapmak istiyorum. Bilgisayarımda sadece işlemci gücünü kullanarak hızlı bir şekilde ses dosyası üretmek için gerekli komutları ve ses modelini nasıl yapılandıracağımı açıkla. Özellikle varsayılan ses ayarlarını nasıl değiştirebileceğimi ve kendi ses dosyamı kullanarak nasıl ses klonlaması yapabileceğimi adım adım anlat.
 
+Depo: https://github.com/kyutai-labs/pocket-tts. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Donanım kısıtlaması olan cihazlarda hızlı ve verimli bir şekilde metinleri sese dönüştürmek isteyen kullanıcılar içindir.
 - **Lisans:** MIT
 

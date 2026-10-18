@@ -45,6 +45,7 @@ Pour commencer à utiliser Apache Cassandra, visitez la page de téléchargement
 - [Linear Scalability](https://trescout.com/fr/dictionary/linear-scalability/)
 - [Distributed](https://trescout.com/fr/dictionary/distributed/)
 - [Database](https://trescout.com/fr/dictionary/database/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels et aux architectes système qui souhaitent gérer des données à grande échelle et à haute disponibilité.
 - **Licence:** Apache-2.0

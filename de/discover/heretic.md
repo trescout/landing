@@ -36,6 +36,7 @@ Dieses Tool entfernt den Sicherheitsschutz des Modells. Die rechtliche und ethis
 
 - [Transformer](https://trescout.com/de/dictionary/transformer/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** ML-Forscher/fortgeschrittene Benutzer
 - **Schwierigkeit:** Erweiterte Kenntnisse im Umgang mit Modellgewichten

@@ -46,6 +46,7 @@ Para comenzar a instalar Odoo, debe seguir las instrucciones de instalación en 
 ## Términos relacionados del glosario
 
 - [Enterprise Resource Planning](https://trescout.com/es/dictionary/enterprise-resource-planning/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para empresas que desean gestionar todos sus procesos operativos en una única plataforma.
 

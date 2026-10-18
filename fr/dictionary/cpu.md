@@ -39,8 +39,8 @@ Ce sont de petites unités de traitement indépendantes au sein d’un processeu
 ## Outils liés
 
 - [Tensorflow](https://trescout.com/fr/discover/tensorflow/)
-- [Llmfit](https://trescout.com/fr/discover/llmfit/)
 - [Airllm](https://trescout.com/fr/discover/airllm/)
+- [Llmfit](https://trescout.com/fr/discover/llmfit/)
 - [CasaOS](https://trescout.com/fr/discover/casaos/)
 - [Omlx](https://trescout.com/fr/discover/omlx/)
 - [Ktransformers](https://trescout.com/fr/discover/ktransformers/)

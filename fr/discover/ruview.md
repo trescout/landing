@@ -80,6 +80,7 @@ Comment évaluer un scénario simple de détection de mouvement avec des donnée
 
 - [WiFi](https://trescout.com/fr/dictionary/wifi/)
 - [Benchmark](https://trescout.com/fr/dictionary/benchmark/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 

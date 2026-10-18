@@ -56,6 +56,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Desejo baixar o pacote IPA de um aplicativo desenvolvido para iOS no meu computador usando o ipatool, extrair seu conteúdo e examinar as bibliotecas incorporadas e as configurações de permissão no arquivo Info.plist para fins de segurança. Você poderia explicar passo a passo como fazer login, pesquisar e baixar com o ipatool no terminal e, em seguida, como extrair o arquivo IPA e realizar a análise estática?
 
+Repositório: https://github.com/majd/ipatool. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - É seguro inserir as minhas informações de Apple ID? O Ipatool é de código aberto e não envia senhas para servidores de terceiros; ele as transmite diretamente para os servidores oficiais da Apple e as armazena no Keychain local. Ainda assim, recomenda-se o uso de um Apple ID secundário ou de teste para fins de segurança.

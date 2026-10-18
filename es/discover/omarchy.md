@@ -31,6 +31,7 @@ Para comenzar a utilizar Omarchy, puede visitar omarchy.org y revisar la guía d
 - [Script](https://trescout.com/es/dictionary/script/)
 - [Shell](https://trescout.com/es/dictionary/shell/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para usuarios que desean utilizar el sistema operativo Linux en una estructura estándar y moderna.
 - **Licencia:** MIT

@@ -31,6 +31,7 @@ Download or copy the project to your computer. Then install the specified Unity 
 - [Software Development](https://trescout.com/en/dictionary/software-development/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to mod the Unturned game and develop the source codes of the game.
 

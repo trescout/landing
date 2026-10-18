@@ -49,6 +49,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop a voice interface using the Moonshine library. Help me create the basic Python code structure needed to convert the sound coming from my microphone into text in real time and perform intent recognition operations on this text. Also, explain the configuration settings I should pay attention to for the system to run with low latency.
 
+Repository: https://github.com/moonshine-ai/moonshine. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

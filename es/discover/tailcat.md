@@ -55,6 +55,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar un túnel de transferencia de archivos cifrados entre dos servidores diferentes a través de la red de malla de Tailscale usando la herramienta Tailcat. ¿Puede explicar cómo iniciar el oyente en el lado del servidor, cómo transmitir el archivo tar desde la salida estándar en el lado del cliente y cómo administrar la autenticación tsnet?
 
+Repositorio: https://github.com/tailscale/tailcat. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Preguntas frecuentes
 
 - ¿Necesito un cliente Tailscale instalado en mi máquina? No. Tailcat tiene el motor tsnet integrado; Lanza su propio enlace Tailscale como binario independiente.

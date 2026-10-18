@@ -42,6 +42,16 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Finanzmarktdaten mit dem TradingAgents-Tool analysieren. Ich habe die Installation abgeschlossen und meine erforderlichen API-Schlüssel konfiguriert. Wie kann ich das System initialisieren, damit Agenten die Marktbedingungen bewerten und technische und fundamentale Analysen durchführen können? Mit welchem ​​Befehl kann ich autonome Handelsagenten aktivieren und den Strategieerstellungsprozess starten?
 
+Repository: https://github.com/TauricResearch/TradingAgents. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Falls ein API-Schlüssel erforderlich ist, fordere mich nicht auf, ihn in den Chat zu schreiben. Zeig mir, wie ich ihn zur .env-Datei hinzufüge und stelle sicher, dass diese Datei nicht an Git übertragen wird.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Multi-agent LLM](https://trescout.com/de/dictionary/multi-agent-llm/)

@@ -37,6 +37,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [User Interface](https://trescout.com/dictionary/user-interface/)
 - [GUI](https://trescout.com/dictionary/gui/)
 - [Interface](https://trescout.com/dictionary/interface/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/imgui/

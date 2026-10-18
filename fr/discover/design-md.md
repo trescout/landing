@@ -51,6 +51,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Consultez le fichier DESIGN.md qui définit l'identité visuelle et le système de conception de mon projet. Respectez cette structure dans tous les codes que vous créez en vous référant à la palette de couleurs, aux règles de typographie, aux valeurs d'espace et aux définitions de composants dans ce fichier. Utilisez les valeurs directement du système de conception et évitez de créer des incohérences visuelles.
 
+Dépôt : https://github.com/google-labs-code/design.md. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [DESIGN.md](https://trescout.com/fr/dictionary/design-md/)

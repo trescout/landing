@@ -43,6 +43,7 @@ Sie können die Windows-Terminalanwendung ganz einfach aus dem Microsoft Store h
 
 - [Console Host](https://trescout.com/de/dictionary/console-host/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für alle gedacht, die die Befehlszeile unter Windows verwenden und eine modernere, funktionalere Terminalschnittstelle benötigen.
 - **Lizenz:** MIT

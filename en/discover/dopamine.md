@@ -25,6 +25,10 @@ To start using the Dopamine tool, you can visit the official website https://ell
 
 - [Official source →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is for users who want to have administrator rights by bypassing system restrictions on their iOS devices.
 - **License:** MIT
 

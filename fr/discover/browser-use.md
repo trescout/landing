@@ -40,6 +40,16 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pour automatiser les opérations basées sur le navigateur, installez la bibliothèque avec la commande uv add browser-use, ajoutez votre clé API OpenAI au fichier .env et exécutez l'agent de navigateur avec la commande uv run agent.py.
 
+Dépôt : https://github.com/browser-use/browser-use. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Agent](https://trescout.com/fr/dictionary/agent/)

@@ -35,6 +35,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite démarrer une production vidéo en utilisant le système OpenMontage. Je veux que vous gériez l'ensemble du processus, de la recherche à l'édition, en déterminant le sujet, le temps cible et le style visuel. Veuillez d'abord créer un plan de production, faire une estimation des coûts et procéder à la production des actifs avec mon approbation.
 
+Dépôt : https://github.com/calesthio/OpenMontage. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Agentic System](https://trescout.com/fr/dictionary/agentic-system/)

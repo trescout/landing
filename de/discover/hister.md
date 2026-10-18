@@ -77,6 +77,7 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

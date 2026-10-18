@@ -42,6 +42,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Convertí este directorio de proyectos en un gráfico de conocimiento usando Graphify. Ahora, usando esta estructura, quiero que analices las relaciones entre los conceptos del proyecto, expliques cómo se conectan entre sí los bloques de código complejos y detallas la función de los nodos maestros como 'APIRouter' en el sistema. Distinga entre información que proviene directamente del código fuente y conexiones inferidas considerando las etiquetas 'EXTRACTO' e 'INFERIDO' al realizar su análisis.
 
+Repositorio: https://github.com/Graphify-Labs/graphify. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [AI Coding Assistants](https://trescout.com/es/dictionary/ai-coding-assistants/)

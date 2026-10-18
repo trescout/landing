@@ -48,6 +48,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Desejo usar a ferramenta Reclip para baixar links de vídeos da internet para o meu dispositivo local nos formatos MP4 ou MP3. Para iniciar o processo de download, preciso colar os links na caixa de entrada, selecionar o formato, clicar no botão Fetch para carregar as informações do vídeo e, em seguida, usar o botão Download. Nesse processo, posso realizar downloads em lote e ajustar a resolução do vídeo de acordo com minhas preferências.
 
+Repositório: https://github.com/averygan/reclip. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

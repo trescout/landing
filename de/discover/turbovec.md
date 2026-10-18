@@ -38,6 +38,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Turbovec-Bibliothek verwenden, um vektorbasierte Suchvorgänge in meinen Python- oder Rust-Projekten zu beschleunigen. Helfen Sie mir beim Einrichten eines RAG-Systems oder einer Vektordatenbankstruktur mithilfe der grundlegenden Indizierungs-, Datenanhänge- und Suchfunktionen dieses auf dem TurboQuant-Algorithmus basierenden Tools. Erklären Sie anhand von Beispielcode, wie Sie 4-Bit-breite Indizes konfigurieren, was insbesondere Speicher spart, und wie Sie Filterfunktionen während der Suche anwenden.
 
+Repository: https://github.com/RyanCodrai/turbovec. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Vector Index](https://trescout.com/de/dictionary/vector-index/)

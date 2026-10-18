@@ -47,6 +47,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instala y configura el complemento Oh My Hermes en Hermes Agent. Durante el proceso de instalación, utiliza el instalador adecuado para el sistema operativo, completa la configuración interactiva del modelo, realiza la conversación de la cadena de modelos y ejecuta los pasos de 'doctor'. Manteniendo la configuración actual de Hermes, aplica solo los cambios de instalación documentados e informa el resultado de la operación.
 
+Repositorio: https://github.com/rlaope/oh-my-hermes. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Hermes Agent](https://trescout.com/es/dictionary/hermes-agent/)

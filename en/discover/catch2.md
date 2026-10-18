@@ -37,6 +37,7 @@ Catch2 is structured as a library. To get started, you can learn how to include 
 - [BDD](https://trescout.com/en/dictionary/bdd/)
 - [Unit Testing](https://trescout.com/en/dictionary/unit-testing/)
 - [TDD](https://trescout.com/en/dictionary/tdd/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Software developers who want to apply test-driven development and behavior-driven development practices in C++ projects.
 - **License:** BSL-1.0

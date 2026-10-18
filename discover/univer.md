@@ -35,6 +35,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Univer projesini yerel ortamda çalıştırmak için terminalde git clone https://github.com/dream-num/univer.git komutuyla depoyu klonla, ardından cd univer ve pnpm install ile bağımlılıkları yükledikten sonra pnpm dev komutunu çalıştır.
 
+Depo: https://github.com/dream-num/univer. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi ürünlerine özelleştirilebilir ofis araçları ve yapay zekâ destekli çalışma alanları eklemek isteyen geliştiriciler.
 - **Lisans:** Apache-2.0
 

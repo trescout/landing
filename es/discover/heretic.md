@@ -36,6 +36,7 @@ Esta herramienta elimina las protecciones de seguridad del modelo. La responsabi
 
 - [Transformer](https://trescout.com/es/dictionary/transformer/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Investigadores de ML/usuarios avanzados
 - **dificultad:** Conocimiento avanzado del trabajo con pesos modelo.

@@ -30,6 +30,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi à développer, déployer et gérer des applications sur AWS. Interagissez avec les services AWS à l'aide des fonctionnalités Agent Toolkit for AWS, effectuez les configurations nécessaires et effectuez les opérations sur l'infrastructure cloud conformément aux normes.
 
+Dépôt : https://github.com/aws/agent-toolkit-for-aws. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Toolkit](https://trescout.com/fr/dictionary/toolkit/)

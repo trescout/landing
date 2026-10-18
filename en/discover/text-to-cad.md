@@ -2,16 +2,16 @@
 
 Text-to-CAD tools are a collection of agent skills developed to automate robotics and hardware design processes. This JavaScript-based library allows complex engineering models to be created with natural language commands.
 
-- ★ 20,527
+- ★ 21,340
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Updates
 
+- **October 18, 2026:** Stars 20,527 → 21,340, latest release v0.7.22 (October 18, 2026).
 - **October 15, 2026:** Stars 19,291 → 20,527, latest release v0.7.21 (October 11, 2026).
 - **October 12, 2026:** Stars 18,885 → 19,291, latest release v0.7.21 (October 11, 2026).
 - **October 10, 2026:** Stars 18,610 → 18,885, latest release v0.7.20 (October 10, 2026).
-- **October 9, 2026:** Stars 18,363 → 18,610, latest release v0.7.19 (October 9, 2026).
 
 ## What you get
 
@@ -32,6 +32,14 @@ npx skills install earthtojake/text-to-cad
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are an engineering assistant. Create 3D models, robotic structure files or production drawings in accordance with the technical requirements I specify using the text-to-cad library. Prepare my design requests in appropriate formats such as STEP, DXF or URDF and validate them using local preview tools.
+
+Repository: https://github.com/earthtojake/text-to-cad. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

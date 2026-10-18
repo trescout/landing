@@ -32,6 +32,16 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem GitHub Copilot SDK einen benutzerdefinierten KI-Workflow in meiner Anwendung erstellen. Wie kann ich die vom SDK bereitgestellte Agentenlaufzeit konfigurieren und Planungs- und Ride-Hailing-Funktionen in meine eigene Anwendungslogik integrieren? Können Sie mir bitte die Schritte erläutern, die ich bei der Verbindung mit verschiedenen LLM-Anbietern befolgen sollte, insbesondere bei Verwendung der BYOK-Methode (Bring Your Own Key)?
 
+Repository: https://github.com/github/copilot-sdk. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Falls ein API-Schlüssel erforderlich ist, fordere mich nicht auf, ihn in den Chat zu schreiben. Zeig mir, wie ich ihn zur .env-Datei hinzufüge und stelle sicher, dass diese Datei nicht an Git übertragen wird.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [BYOK](https://trescout.com/de/dictionary/byok/)

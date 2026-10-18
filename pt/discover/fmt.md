@@ -26,6 +26,7 @@ Você pode aprender como incluir a biblioteca em seu projeto visitando a página
 ## Termos relacionados do glossário
 
 - [Compiler](https://trescout.com/pt/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destinado a desenvolvedores que desejam tornar os processos de formatação de texto, impressão de dados e registro (logging) em projetos C++ mais rápidos e seguros.
 - **Licença:** MIT

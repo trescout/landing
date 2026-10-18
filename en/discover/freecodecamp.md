@@ -20,6 +20,10 @@ freeCodeCamp is a web-based learning platform, not a software tool. You don't ne
 
 - [Official source →](https://contribute.freecodecamp.org)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is for anyone who wants to step into the software world or who aims to improve their existing technical skills with free and hands-on projects.
 - **License:** BSD-3-Clause
 

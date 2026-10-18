@@ -20,6 +20,10 @@ LunaTV ist ein Projekt, das mit der Sprache TypeScript entwickelt wurde und eine
 
 Dieses Tool arbeitet mit der Software-Containerisierungstechnologie namens Docker. Für die Installation können Sie den Abschnitt '部署' (Bereitstellung) auf der GitHub-Seite des Projekts besuchen, um die Docker-Compose-Dateien zu verwenden, oder eine Ein-Klick-Installation über Cloud-Plattformen wie Zeabur durchführen. Beachten Sie, dass das Projekt mit einer leeren Oberfläche geliefert wird und Sie Ihre eigenen Medienquellen hinzufügen müssen.
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Für Benutzer, die ihr eigenes Medienarchiv strukturiert und über eine zentrale Plattform im Browser ansehen möchten.
 
 ## Links

@@ -37,6 +37,7 @@ Um mit der Nutzung des Harper-Tools zu beginnen, können Sie die offizielle Webs
 
 - [Grammar Checker](https://trescout.com/de/dictionary/grammar-checker/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für englischsprachige Content-Produzenten und Softwareentwickler, die ihre Beiträge schnell offline und ohne Kompromisse bei der Privatsphäre moderieren möchten.
 - **Lizenz:** Apache-2.0

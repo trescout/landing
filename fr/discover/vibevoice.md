@@ -48,6 +48,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite analyser l'enregistrement audio de 60 minutes que j'ai à l'aide du modèle VibeVoice. J'ai besoin de récupérer qui sont les locuteurs, quand ils ont parlé et le contenu qu'ils ont dit sous forme de fichier texte structuré. Je souhaite également ajouter des mots-clés personnalisés afin que le modèle reconnaisse plus précisément les termes techniques. Comment puis-je structurer ce processus ?
 
+Dépôt : https://github.com/microsoft/VibeVoice. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

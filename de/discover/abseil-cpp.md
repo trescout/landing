@@ -34,6 +34,7 @@ Um mit der Nutzung von Abseil zu beginnen, sollten Sie das Abseil Quickstart-Dok
 ## Verwandte Begriffe aus dem Glossar
 
 - [Code Snippets](https://trescout.com/de/dictionary/code-snippets/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für C++-Entwickler, die die Wartbarkeit und Leistung des Codes in komplexen Softwareprojekten verbessern möchten.
 - **Lizenz:** Apache-2.0

@@ -40,6 +40,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Analice las tablas de mi base de datos, explique consultas SQL complejas en lenguaje natural y optimice el rendimiento de mis consultas existentes. Ayúdame a comprender las relaciones en el esquema de mi base de datos y a crear los comandos DDL/DML necesarios.
 
+Repositorio: https://github.com/OtterMind/Chat2DB. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [SQL Client](https://trescout.com/es/dictionary/sql-client/)

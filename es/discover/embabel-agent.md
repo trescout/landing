@@ -35,6 +35,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero diseñar un agente de inteligencia artificial que pueda planificar acciones específicas y que se ejecute en la máquina virtual Java utilizando el marco Embabel. Ayúdame a crear un flujo que pueda tomar decisiones dinámicas, compatibles con los modelos de objetos existentes en mi código, mediante el uso de estructuras @Agent, @Goal y @Action en una arquitectura basada en Spring.
 
+Repositorio: https://github.com/embabel/embabel-agent. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Action](https://trescout.com/es/dictionary/action/)

@@ -33,6 +33,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I use Destructive Command Guard to control the commands my AI agent runs on my system. Please consider security rules before running dangerous git, file system or database deletion commands, if you need to take a risky action, inform me first and get my approval.
 
+Repository: https://github.com/Dicklesworthstone/destructive_command_guard. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Destructive Command Guard](https://trescout.com/en/dictionary/destructive-command-guard/)

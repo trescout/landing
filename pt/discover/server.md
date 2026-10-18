@@ -2,15 +2,15 @@
 
 Music Assistant é um gerenciador de biblioteca de mídia de código aberto que combina diferentes serviços de streaming digital e alto-falantes conectados em uma única interface. Este software de servidor baseado em Python permite a criação de um sistema central de gerenciamento de música em dispositivos em operação constante.
 
-- ★ 3.158
+- ★ 3.196
 - GitHub Trending · 2026-06-13
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 3,158 → 3,196, versão mais recente 2.10.7 (17 de outubro de 2026).
 - **9 de outubro de 2026:** Estrelas 3,128 → 3,158, versão mais recente 2.10.6 (9 de outubro de 2026).
 - **2 de outubro de 2026:** Estrelas 3,078 → 3,128, versão mais recente 2.10.5 (2 de outubro de 2026).
 - **18 de setembro de 2026:** Estrelas 3,058 → 3,078, versão mais recente 2.10.4 (18 de setembro de 2026).
-- **12 de setembro de 2026:** Estrelas 3,029 → 3,058, versão mais recente 2.10.3 (11 de setembro de 2026).
 
 ## O que você ganha
 
@@ -31,6 +31,14 @@ docker run --network host --privileged -v ma-data:/data ghcr.io/music-assistant/
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso estruturar minha biblioteca de música digital usando o Music Assistant? Depois de concluir a configuração do Home Assistant, crie um guia passo a passo sobre como posso apresentar diferentes serviços de streaming e meus alto-falantes ao sistema.
+
+Repositório: https://github.com/music-assistant/server. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

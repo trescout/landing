@@ -37,6 +37,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Algorithmic Trading](https://trescout.com/dictionary/algorithmic-trading/)
 - [Systematic Trading](https://trescout.com/dictionary/systematic-trading/)
 - [Backtesting](https://trescout.com/dictionary/backtesting/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-systematic-trading/

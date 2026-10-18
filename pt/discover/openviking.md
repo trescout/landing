@@ -46,6 +46,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Construa gerenciamento de contexto para um agente de inteligência artificial usando o banco de dados OpenViking. Ele estrutura as informações por meio do protocolo viking://, separando as informações em resumo L0, visão geral L1 e camadas de detalhes L2. Ao colocar a memória, os recursos e as capacidades do agente neste sistema de arquivos virtual, ele permite navegar nos diretórios durante a interrogação e criar memória de longo prazo, aprendendo com sessões anteriores.
 
+Repositório: https://github.com/volcengine/OpenViking. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [RAG](https://trescout.com/pt/dictionary/rag/)

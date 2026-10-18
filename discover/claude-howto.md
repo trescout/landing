@@ -53,6 +53,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code kullanıyorum ve bu rehberdeki şablonları kullanarak iş akışımı optimize etmek istiyorum. Claude Code içerisinde /self-assessment komutunu çalıştırarak mevcut seviyemi belirlememe yardımcı ol ve ardından 01-slash-commands modülünden başlayarak bana özelleştirilmiş bir öğrenme yolu oluştur.
 
+Depo: https://github.com/luongnv89/claude-howto. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Claude Code aracını daha verimli kullanmak ve ileri seviye ajan yapılandırmalarını öğrenmek isteyen geliştiriciler için uygundur.
 - **Lisans:** MIT
 

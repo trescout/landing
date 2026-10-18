@@ -2,15 +2,15 @@
 
 Scientific-agent-skills é uma biblioteca de habilidades pronta para uso que adapta agentes de inteligência artificial aos processos de pesquisa científica. Oferecendo 163 recursos validados e mais de 100 bancos de dados nas áreas de biologia, química e medicina, integra-se a plataformas como o editor de código Cursor ou o assistente de IA Claude Code.
 
-- ★ 49.814
+- ★ 52.471
 - GitHub Trending · 2026-08-26
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 49,814 → 52,471, versão mais recente v2.72.0 (1 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 47,342 → 49,814, versão mais recente v2.72.0 (1 de outubro de 2026).
 - **2 de outubro de 2026:** Estrelas 47,133 → 47,342, versão mais recente v2.72.0 (1 de outubro de 2026).
 - **29 de setembro de 2026:** Estrelas 46,808 → 47,133, versão mais recente v2.70.0 (29 de setembro de 2026).
-- **27 de setembro de 2026:** Estrelas 44,519 → 46,808, versão mais recente v2.69.0 (11 de setembro de 2026).
 
 ## O que você ganha
 
@@ -31,6 +31,14 @@ npx skills add K-Dense-AI/scientific-agent-skills
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Comece a usar as 166 habilidades prontas e conexões de banco de dados da biblioteca para me ajudar em meus processos de pesquisa científica.
+
+Repositório: https://github.com/K-Dense-AI/scientific-agent-skills. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

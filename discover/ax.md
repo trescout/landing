@@ -38,6 +38,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Google tarafından geliştirilen ve yapay zekâ ajanları için orkestrasyon sağlayan AX aracını kurmak istiyorum. İlk olarak `go install github.com/google/ax/cmd/ax@latest` komutunu çalıştırarak komut satırı aracını yükleyin. Ardından `make deploy AX_IMAGE_REPO=\<your-registry>` komutunu kullanarak kontrol düzlemini dağıtın.
 
+Depo: https://github.com/google/ax. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Karmaşık agentik iş akışlarını ölçeklenebilir bir şekilde yönetmek isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 

@@ -26,6 +26,7 @@ You can visit the tool's official website at rust-lang.org and check out the 'Ge
 ## Related dictionary terms
 
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is intended for users who want to develop high-performance and bug-free systems while preserving memory safety.
 - **License:** Apache-2.0

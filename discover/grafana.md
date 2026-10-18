@@ -62,6 +62,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Traces](https://trescout.com/dictionary/traces/)
 - [Logs](https://trescout.com/dictionary/logs/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/grafana/

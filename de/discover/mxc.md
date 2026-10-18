@@ -46,6 +46,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem von Microsoft entwickelten MXC-Tool einen nicht vertrauenswürdigen Codeausschnitt in einem isolierten Container ausführen. Gemäß der Dokumentation im GitHub-Repository des Projekts muss ich eine JSON-basierte Konfigurationsdatei vorbereiten und die für meine Plattform geeignete Binärdatei verwenden. Können Sie für mich eine Beispiel-JSON-Konfigurationsdatei erstellen, die es mir ermöglicht, ein Python-Skript mit eingeschränktem Dateisystem- und Netzwerkzugriff auszuführen, und mir Schritt für Schritt erklären, wie diese Konfiguration mit wxc-exec.exe ausgeführt wird?
 
+Repository: https://github.com/microsoft/mxc. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Rust](https://trescout.com/de/dictionary/rust/)

@@ -46,6 +46,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso configurar interações de banco de dados em meu projeto Node.js usando Prisma? Como devo configurar o esquema Prisma para criar meu modelo de dados e definir as configurações de conexão com o banco de dados no arquivo prisma.config.ts? Além disso, como posso usar o sistema Prisma Migrate para gerenciar alterações no banco de dados?
 
+Repositório: https://github.com/prisma/prisma. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [ORM](https://trescout.com/pt/dictionary/orm/)

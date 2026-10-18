@@ -2,16 +2,16 @@
 
 O Rea é uma ferramenta de engenharia reversa baseada em agentes de IA que analisa tudo, desde o comportamento de aplicativos até binários nativos. Desenvolvido em TypeScript, este software tem como objetivo decodificar a lógica de funcionamento de sistemas complexos por meio de processos automatizados.
 
-- ★ 296.420
+- ★ 313.106
 - TypeScript
 - GitHub Trending · 2026-10-06
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 296,420 → 313,106, versão mais recente rea-agents-6.7.0 (18 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 280,503 → 296,420, versão mais recente rea-agents-6.5.0 (14 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 255,025 → 280,503, versão mais recente rea-agents-6.5.0 (14 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 227,917 → 255,025, versão mais recente rea-agents-6.5.0 (14 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 223,438 → 227,917, versão mais recente rea-agents-6.5.0 (14 de outubro de 2026).
 
 ## O que você ganha
 
@@ -48,6 +48,14 @@ npx -y rea-agents@latest analyze /Applications/Notes.app
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar a ferramenta de engenharia reversa REA no meu sistema. Primeiro, conclua as etapas de instalação necessárias com o comando 'npx rea-agents setup' e estabeleça a conexão MCP (Model Context Protocol, protocolo de ferramentas de IA) para a minha interface de inteligência artificial. Em seguida, execute o comando 'npx -y rea-agents@latest doctor' para verificar as dependências, inspecionar um aplicativo local escolhido por mim e explicar com evidências como o recurso que estou procurando funciona.
+
+Repositório: https://github.com/morluto/rea. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
 
 ## Termos relacionados do glossário
 

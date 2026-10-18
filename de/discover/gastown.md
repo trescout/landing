@@ -2,12 +2,13 @@
 
 Gas Town bietet eine Infrastruktur, die es verschiedenen Agenten der künstlichen Intelligenz ermöglicht, als Multi-Agent-Workspace-Manager zusammenzuarbeiten. Dieses mit der Go-Sprache entwickelte Tool zentralisiert die Koordination zwischen Agenten und das Ressourcenmanagement in komplexen Arbeitsabläufen.
 
-- ★ 17.403
+- ★ 18.403
 - Go
 - GitHub Trending · 2026-07-06
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 17,403 → 18,403, neueste Version v1.2.1 (6. Juni 2026).
 - **2. August 2026:** Sterne 16,488 → 17,403, neueste Version v1.2.1 (6. Juni 2026).
 
 ## Was es bringt
@@ -43,6 +44,14 @@ gt mayor attach
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich habe in meinem Gas Town-Arbeitsbereich eine „Bürgermeister“-Sitzung gestartet. Ich möchte, dass Sie meine aktuellen Projekte und Aufgaben, an denen ich arbeite, analysieren, Lücken in aktuellen Arbeitsabläufen identifizieren und einen nächsten Schrittplan für laufende Prozesse erstellen. Priorisieren Sie die Arbeit, indem Sie vorhandene „Rig“-Strukturen und „Perlen“-Aufzeichnungen überprüfen, um die Koordination zwischen den Agenten sicherzustellen.
+
+Repository: https://github.com/gastownhall/gastown. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 ## Verwandte Begriffe aus dem Glossar
 

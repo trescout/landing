@@ -2,16 +2,16 @@
 
 OpenGym est un outil de gestion de salle de sport open source permettant de planifier des routines d'entraînement et de suivre des exercices au poids de corps. Permettant aux utilisateurs d'héberger leurs données sur leur propre serveur, ce logiciel prend en charge l'importation de données à partir d'applications de fitness populaires (Strong, Hevy).
 
-- ★ 12 021
+- ★ 13 304
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 12,021 → 13,304, dernière version v1.4.1 (10 octobre 2026).
 - **15 octobre 2026:** Étoiles 10,912 → 12,021, dernière version v1.4.1 (10 octobre 2026).
 - **13 octobre 2026:** Étoiles 9,501 → 10,912, dernière version v1.4.1 (10 octobre 2026).
 - **11 octobre 2026:** Étoiles 8,392 → 9,501, dernière version v1.4.1 (10 octobre 2026).
-- **9 octobre 2026:** Étoiles 7,653 → 8,392, dernière version v1.4.0 (9 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -36,6 +36,16 @@ docker compose up -d
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite installer le logiciel de suivi d'entraînement openGym sur la plateforme de gestion de conteneurs Docker. Pourriez-vous m'expliquer étape par étape les instructions d'installation commençant par la commande 'git clone https://github.com/DuarteSantos8/openGym', comment configurer le fichier de variables d'environnement '.env', et comment accéder à l'application depuis un navigateur une fois l'installation terminée ?
+
+Dépôt : https://github.com/DuarteSantos8/openGym. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 

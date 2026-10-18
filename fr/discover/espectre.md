@@ -25,6 +25,10 @@ Pour commencer à utiliser ESPectre, vous devez suivre le document officiel SETU
 
 - [Source officielle →](https://espectre.dev)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il s'adresse aux utilisateurs intéressés par la domotique et qui recherchent des solutions de détection de mouvement à faible coût sans compromettre la confidentialité.
 - **Licence:** GPL-3.0
 

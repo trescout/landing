@@ -51,6 +51,16 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero ejecutar modelos de IA en mi dispositivo local usando el proyecto bonsai-demo. Después de clonar el repositorio git requerido para la instalación, necesito definir la información de mi token Hugging Face y descargar las dependencias y modelos con el comando ./setup.sh. Luego, usando el comando ./scripts/start_llama_server.sh, puedo activar el servidor local e interactuar con la IA a través del puerto 8080 a través de mi navegador.
 
+Repositorio: https://github.com/PrismML-Eng/Bonsai-demo. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Si se necesita una clave API, no me pidas que la escriba en el chat. Muéstrame cómo añadirla al archivo .env y asegúrate de que este archivo no se suba a Git.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Machine Learning](https://trescout.com/es/dictionary/machine-learning/)

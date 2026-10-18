@@ -24,6 +24,7 @@ Bei diesem Tool handelt es sich nicht um eine Softwarebibliothek, sondern um ein
 ## Verwandte Begriffe aus dem Glossar
 
 - [System Design](https://trescout.com/de/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für diejenigen, die sich auf Vorstellungsgespräche im Software-Engineering vorbereiten, und für alle, die neugierig sind, wie Systeme im Hintergrund funktionieren.
 

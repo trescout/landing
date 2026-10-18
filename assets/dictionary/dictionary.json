@@ -9397,5 +9397,31 @@
     "kisa_es": "Son pruebas de rendimiento que miden las capacidades de razonamiento, velocidad y precisión de los sistemas de inteligencia artificial mediante escalas estandarizadas.",
     "kisa_pt": "São testes de desempenho que medem as capacidades de raciocínio, velocidade e precisão de sistemas de inteligência artificial por meio de escalas padronizadas.",
     "kisa_de": "Leistungstests, die das logische Denken, die Geschwindigkeit und die Genauigkeit von Systemen der künstlichen Intelligenz anhand standardisierter Maßstäbe messen."
+  },
+  {
+    "slug": "remote-runtime",
+    "en": "Remote Runtime",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımların, kod betiklerinin veya yapay zekâ işlemlerinin yerel bilgisayar yerine uzak bir sunucu altyapısında çalıştırılmasını sağlayan yürütme ortamıdır.",
+    "date": "2026-10-18",
+    "kisa_en": "It is an execution environment that enables software, code scripts, or artificial intelligence processes to run on a remote server infrastructure instead of a local computer.",
+    "kisa_fr": "C'est un environnement d'exécution qui permet d'exécuter des logiciels, des scripts de code ou des processus d'intelligence artificielle sur une infrastructure de serveur distant plutôt que sur un ordinateur local.",
+    "kisa_es": "Es un entorno de ejecución que permite ejecutar software, scripts de código o procesos de inteligencia artificial en una infraestructura de servidor remoto en lugar de en un equipo local.",
+    "kisa_pt": "É um ambiente de execução que permite executar softwares, scripts de código ou processos de inteligência artificial em uma infraestrutura de servidor remoto em vez de em um computador local.",
+    "kisa_de": "Eine Ausführungsumgebung, die es ermöglicht, Software, Code-Skripte oder KI-Prozesse auf einer entfernten Serverinfrastruktur statt auf einem lokalen Computer auszuführen."
+  },
+  {
+    "slug": "associative-memory",
+    "en": "Associative Memory",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Verileri belirli bir bellek adresine göre değil, aralarındaki anlamsal ilişkilere ve içerik benzerliklerine göre depolayıp hatırlayan bellek mimarisidir.",
+    "date": "2026-10-18",
+    "kisa_en": "It is a memory architecture that stores and recalls data based on semantic relationships and content similarities between them, rather than by a specific memory address.",
+    "kisa_fr": "C'est une architecture de mémoire qui stocke et rappelle les données non pas en fonction d'une adresse mémoire spécifique, mais selon leurs relations sémantiques et leurs similarités de contenu.",
+    "kisa_es": "Es una arquitectura de memoria que almacena y recuerda datos no en función de una dirección de memoria específica, sino según las relaciones semánticas y las similitudes de contenido entre ellos.",
+    "kisa_pt": "É uma arquitetura de memória que armazena e recupera dados não com base em um endereço de memória específico, mas de acordo com as relações semânticas e semelhanças de conteúdo entre eles.",
+    "kisa_de": "Eine Speicherarchitektur, die Daten nicht anhand einer bestimmten Speicheradresse, sondern nach semantischen Beziehungen und Inhaltsähnlichkeiten speichert und abruft."
   }
 ]

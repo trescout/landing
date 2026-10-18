@@ -27,6 +27,7 @@ Sie können dem Tool ermöglichen, Ihr Repository in den Arbeitsbereich herunter
 - [Repository Checkout](https://trescout.com/de/dictionary/repository-checkout/)
 - [Checkout](https://trescout.com/de/dictionary/checkout/)
 - [Continuous Integration](https://trescout.com/de/dictionary/continuous-integration/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Softwareentwickler, die kontinuierliche Integrationsprozesse mithilfe von GitHub Actions automatisieren.
 - **Lizenz:** MIT

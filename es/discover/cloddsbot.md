@@ -49,6 +49,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un asistente de trading. Quiero que utilices CloddsBot para realizar análisis en mercados de criptomonedas y plataformas de predicción con más de 118 estrategias. Aplicando las reglas de gestión de riesgos, gestiona las operaciones de compra y venta automatizadas dentro del presupuesto que he establecido y preséntame informes monitoreando los datos del mercado.
 
+Repositorio: https://github.com/alsk1992/CloddsBot. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Trading Agent](https://trescout.com/es/dictionary/trading-agent/)

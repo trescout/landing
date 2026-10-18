@@ -26,6 +26,7 @@ Laden Sie zunächst die YimMenuV2-Datei von der GitHub-Release-Seite herunter un
 
 - [Features](https://trescout.com/de/dictionary/features/)
 - [Launcher](https://trescout.com/de/dictionary/launcher/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Benutzer, die Änderungen und Anpassungen im Spiel in der Grand Theft Auto 5: Enhanced-Version vornehmen möchten.
 - **Lizenz:** GPL-2.0

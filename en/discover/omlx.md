@@ -70,6 +70,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run a local large language model using the Omlx server on my Apple Silicon Mac. Could you explain step by step how to run the server in the background after completing the installation via Homebrew, manage model selection from the menu bar, and connect to this local model via the Cursor code editor or the Python openai library?
 
+Repository: https://github.com/jundot/omlx. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - What is the main difference between Omlx and Ollama? While Ollama generally uses the C++-based llama.cpp infrastructure, Omlx runs directly on the MLX framework developed by Apple. This enables deeper integration with the Metal and neural engine units of Apple Silicon chips, delivering higher token generation speeds, particularly in continuous batching and long contexts.

@@ -45,6 +45,7 @@ Para la instalación y uso, debe visitar la página de documentación oficial. P
 
 - [Data Logger](https://trescout.com/es/dictionary/data-logger/)
 - [Localhost](https://trescout.com/es/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para propietarios de vehículos que desean almacenar y analizar los datos de su vehículo Tesla en su propio servidor en lugar de depender de aplicaciones de terceros.
 - **Licencia:** AGPL-3.0

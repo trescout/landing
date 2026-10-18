@@ -62,6 +62,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir güvenlik denetiminde User-Scanner aracını kullanarak tek bir kullanıcı adı üzerinden 465'ten fazla platformda nasıl tarama yapabileceğimi, elde edilen bulguları JSON formatında dışa aktarıp şüpheli profilleri nasıl listeleyeceğimi adım adım açıklar mısın?
 
+Depo: https://github.com/kaifcodec/user-scanner. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Siber güvenlik araştırmacıları, OSINT analistleri, adli bilişim uzmanları ve etik hackerlar.
 - **Lisans:** GPL-3.0 (Açık kaynak copyleft lisansı)
 - **Çatı:** Python Asenkron OSINT Tarayıcısı

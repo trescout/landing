@@ -23,6 +23,7 @@ This guide is a documentation repository on GitHub. To get started, you can dire
 ## Related dictionary terms
 
 - [System Design](https://trescout.com/en/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for software engineers who are preparing for technical interviews or who want to improve themselves in large-scale software systems architecture.
 

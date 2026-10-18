@@ -18,6 +18,7 @@ This is not a software tool, but a directory that categorizes open source intell
 ## Related dictionary terms
 
 - [OSINT](https://trescout.com/en/dictionary/osint/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for fraud investigators, cyber threat intelligence analysts and digital investigation professionals.
 - **License:** CC0-1.0

@@ -2,12 +2,13 @@
 
 LiteLLM is an AI gateway that unifies more than 100 large language model (LLM) interfaces into a single standard format. It makes it easy to switch between different model providers by offering software developers features such as cost tracking, load balancing, and guardrails.
 
-- ★ 61,213
+- ★ 61,464
 - Python
 - GitHub Trending · 2026-10-09
 
 ## Updates
 
+- **October 18, 2026:** Stars 61,213 → 61,464, latest release v1.106.0 (October 18, 2026).
 - **October 14, 2026:** Stars 60,948 → 61,213, latest release v1.105.1 (October 14, 2026).
 - **October 11, 2026:** Stars 60,449 → 60,948, latest release v1.105.0 (October 11, 2026).
 - **October 9, 2026:** Stars 60,446 → 60,449, latest release v1.104.2 (October 8, 2026).
@@ -40,6 +41,14 @@ litellm --model gpt-4o
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a software development assistant. In our project, we want to use the LiteLLM tool to manage different AI models from a single central hub. First, help me install the library by running the 'uv add litellm' command in the terminal. Then, explain step-by-step how to start a local gateway server for the large language model gpt-4o using the commands 'uv tool install 'litellm[proxy]'' and 'litellm --model gpt-4o', and how I can route models through this server.
+
+Repository: https://github.com/BerriAI/litellm. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
 
 ## Related dictionary terms
 

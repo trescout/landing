@@ -34,6 +34,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte, dass Sie wie ein Softwareentwickler arbeiten. Mithilfe der Agent Skills-Bibliothek wende ich in jeder Phase meines Softwareentwicklungsprozesses die Befehle /spec, /plan, /build, /test, /review, /code-simplify und /ship gemäß den Standards an. Erstellen Sie Code, indem Sie Arbeitsabläufe, Qualitätskontrollpunkte und bewährte technische Vorgehensweisen befolgen.
 
+Repository: https://github.com/addyosmani/agent-skills. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Engineering Skills](https://trescout.com/de/dictionary/engineering-skills/)

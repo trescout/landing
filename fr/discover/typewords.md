@@ -25,6 +25,7 @@ Aucune installation n'est nécessaire pour commencer à utiliser l'outil ; vous 
 ## Termes liés du glossaire
 
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient à tous ceux qui souhaitent améliorer leur vocabulaire anglais tout en augmentant leur vitesse de frappe au clavier.
 - **Licence:** GPL-3.0

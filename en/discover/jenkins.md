@@ -51,6 +51,7 @@ You can go to the download page on the official website, jenkins.io, select the 
 
 - [Continuous Integration](https://trescout.com/en/dictionary/continuous-integration/)
 - [Localhost](https://trescout.com/en/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for developers and technical teams who want to automate their software development processes.
 - **License:** MIT

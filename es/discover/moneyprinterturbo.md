@@ -53,6 +53,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale y ejecute MoneyPrinterTurbo: descargue el repositorio con 'git clone https://github.com/harry0703/MoneyPrinterTurbo.git', ingrese al directorio y ejecútelo con el comando 'docker-compose up', luego abra la interfaz web desde el navegador en http://127.0.0.1:8501.
 
+Repositorio: https://github.com/harry0703/MoneyPrinterTurbo. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [LLM API](https://trescout.com/es/dictionary/llm-api/)

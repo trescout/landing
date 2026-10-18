@@ -25,6 +25,7 @@ Vous n'avez besoin d'aucune configuration pour commencer avec ce guide. Vous pou
 ## Termes liés du glossaire
 
 - [Computer Science](https://trescout.com/fr/dictionary/computer-science/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient à toute personne souhaitant se spécialiser dans une discipline académique dans le domaine de l’informatique.
 - **Licence:** MIT
