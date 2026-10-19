@@ -62,6 +62,7 @@ Según el principio LIMA, entre 500 y 2000 muestras correctamente seleccionadas,
 ## Herramientas relacionadas
 
 - [Transformers](https://trescout.com/es/discover/transformers/)
+- [LLM Course](https://trescout.com/es/discover/llm-course/)
 - [Unsloth](https://trescout.com/es/discover/unsloth/)
 - [Ktransformers](https://trescout.com/es/discover/ktransformers/)
 - [Soup](https://trescout.com/es/discover/soup/)

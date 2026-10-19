@@ -2,13 +2,14 @@
 
 train-llm-from-scratch bietet eine einfache, schrittweise Methode zum Trainieren eines großen Sprachmodells von Grund auf, vom Herunterladen des Datensatzes bis zur Textgenerierung. Es ist eine praktische Ressource für Ihren Lernprozess.
 
-- ★ 11.240
+- ★ 12.282
 - Jupyter Notebook
 - MIT
 - GitHub Trending · 30 May 2026
 
 ## Aktualisierungen
 
+- **19. Oktober 2026:** Sterne 11,240 → 12,282.
 - **27. September 2026:** Sterne 8,864 → 11,240.
 - **2. August 2026:** Sterne 2,086 → 8,864.
 

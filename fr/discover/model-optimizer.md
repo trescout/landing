@@ -39,9 +39,9 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Quantization](https://trescout.com/fr/dictionary/quantization/)
 - [Distillation](https://trescout.com/fr/dictionary/distillation/)
 - [Pruning](https://trescout.com/fr/dictionary/pruning/)
+- [Quantization](https://trescout.com/fr/dictionary/quantization/)
 - [Inference](https://trescout.com/fr/dictionary/inference/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

@@ -2,16 +2,16 @@
 
 Cloudflare Temp Email est une plate-forme open source qui vous permet de configurer un service de messagerie temporaire entièrement gratuit, sans serveur, qui fonctionne avec votre propre nom de domaine, en utilisant l'infrastructure de base de données Cloudflare Workers, Pages et D1/KV. Il protège votre vie privée grâce à la gestion de la boîte de réception, au stockage des pièces jointes, à l'intégration du robot Telegram et aux mécanismes de nettoyage automatique.
 
-- ★ 11 734
+- ★ 11 982
 - TypeScript
 - GitHub Trending · 2026-07-23
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 11,734 → 11,982, dernière version v1.13.0 (18 octobre 2026).
 - **13 septembre 2026:** Étoiles 11,391 → 11,734, dernière version v1.12.0 (13 septembre 2026).
 - **23 août 2026:** Étoiles 11,332 → 11,391, dernière version v1.11.1 (22 août 2026).
 - **19 août 2026:** Étoiles 11,156 → 11,332, dernière version v1.11.0 (19 août 2026).
-- **2 août 2026:** Étoiles 10,884 → 11,156, dernière version v1.10.0 (31 juillet 2026).
 
 ## Ce que ça vous apporte
 

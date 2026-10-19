@@ -2,13 +2,14 @@
 
 train-llm-from-scratch offers a simple, step-by-step method of training a large language model from scratch, from data set download to text generation. It is a practical resource for your learning process.
 
-- ★ 11,240
+- ★ 12,282
 - Jupyter Notebook
 - MIT
 - GitHub Trending · 30 May 2026
 
 ## Updates
 
+- **October 19, 2026:** Stars 11,240 → 12,282.
 - **September 27, 2026:** Stars 8,864 → 11,240.
 - **August 2, 2026:** Stars 2,086 → 8,864.
 

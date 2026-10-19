@@ -52,6 +52,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [Jailbreak](https://trescout.com/en/dictionary/jailbreak/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

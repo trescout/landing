@@ -2,16 +2,16 @@
 
 Desenvolvido por Canner, WrenAI é uma ferramenta de business intelligence generativa (BI generativo) de código aberto que exporta automaticamente dados para painéis e gráficos, convertendo linguagem natural em consultas de banco de dados (texto para SQL). A plataforma fornece processos confiáveis ​​de análise de dados para agentes de IA por meio de uma camada de contexto gerenciável que suporta mais de vinte fontes de dados.
 
-- ★ 17.879
+- ★ 17.901
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Atualizações
 
+- **19 de outubro de 2026:** Estrelas 17,879 → 17,901, versão mais recente wren-langchain-v0.2.3 (19 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 17,874 → 17,879, versão mais recente wren-v0.16.0 (16 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 17,871 → 17,874, versão mais recente wren-core-wasm-v0.5.0 (15 de outubro de 2026).
 - **14 de outubro de 2026:** Estrelas 17,870 → 17,871, versão mais recente wren-core-py-v0.8.1 (14 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 17,756 → 17,870, versão mais recente wren-semantic-core-v0.5.0 (14 de outubro de 2026).
 
 ## O que você ganha
 

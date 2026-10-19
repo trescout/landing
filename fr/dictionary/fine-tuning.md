@@ -62,6 +62,7 @@ Selon le principe LIMA, 500 à 2 000 échantillons correctement sélectionnés, 
 ## Outils liés
 
 - [Transformers](https://trescout.com/fr/discover/transformers/)
+- [LLM Course](https://trescout.com/fr/discover/llm-course/)
 - [Unsloth](https://trescout.com/fr/discover/unsloth/)
 - [Ktransformers](https://trescout.com/fr/discover/ktransformers/)
 - [Soup](https://trescout.com/fr/discover/soup/)

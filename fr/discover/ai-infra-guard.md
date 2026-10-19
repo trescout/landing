@@ -52,6 +52,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Jailbreak](https://trescout.com/fr/dictionary/jailbreak/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

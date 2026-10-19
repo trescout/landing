@@ -2,7 +2,7 @@
 
 Código Cláudio; É uma ferramenta de codificação baseada em agente que fica em seu terminal e tem um conhecimento profundo de sua base de código. Ele acelera seu processo de desenvolvimento lendo arquivos, fazendo alterações e executando testes com comandos de linguagem natural. (Você pode usar muitas das ferramentas desta página com ele.)
 
-- ★ 151.307
+- ★ 152.318
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -11,10 +11,10 @@ Código Cláudio; É uma ferramenta de codificação baseada em agente que fica 
 
 ## Atualizações
 
+- **19 de outubro de 2026:** Estrelas 151,307 → 152,318, versão mais recente v2.1.303 (18 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 151,152 → 151,307, versão mais recente v2.1.302 (16 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 150,959 → 151,152, versão mais recente v2.1.301 (15 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 150,735 → 150,959, versão mais recente v2.1.300 (14 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 149,972 → 150,735, versão mais recente v2.1.299 (14 de outubro de 2026).
 
 ## O que você ganha
 

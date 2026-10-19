@@ -75,10 +75,10 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Xcode](https://trescout.com/fr/dictionary/xcode/)
 - [Sideloading](https://trescout.com/fr/dictionary/sideloading/)
+- [Jailbreak](https://trescout.com/fr/dictionary/jailbreak/)
 - [Binary](https://trescout.com/fr/dictionary/binary/)
 - [CI/CD](https://trescout.com/fr/dictionary/ci-cd/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
-- [CLI](https://trescout.com/fr/dictionary/cli/)
 
 - **Pour qui:** Chercheurs en sécurité iOS, développeurs mobiles, experts en ingénierie inverse et archiveurs IPA.
 - **Licence:** MIT (Özgür açık kaynak lisansı)

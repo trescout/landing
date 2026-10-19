@@ -39,9 +39,9 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [Quantization](https://trescout.com/en/dictionary/quantization/)
 - [Distillation](https://trescout.com/en/dictionary/distillation/)
 - [Pruning](https://trescout.com/en/dictionary/pruning/)
+- [Quantization](https://trescout.com/en/dictionary/quantization/)
 - [Inference](https://trescout.com/en/dictionary/inference/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

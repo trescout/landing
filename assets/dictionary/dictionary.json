@@ -9423,5 +9423,57 @@
     "kisa_es": "Es una arquitectura de memoria que almacena y recuerda datos no en función de una dirección de memoria específica, sino según las relaciones semánticas y las similitudes de contenido entre ellos.",
     "kisa_pt": "É uma arquitetura de memória que armazena e recupera dados não com base em um endereço de memória específico, mas de acordo com as relações semânticas e semelhanças de conteúdo entre eles.",
     "kisa_de": "Eine Speicherarchitektur, die Daten nicht anhand einer bestimmten Speicheradresse, sondern nach semantischen Beziehungen und Inhaltsähnlichkeiten speichert und abruft."
+  },
+  {
+    "slug": "jailbreak",
+    "en": "Jailbreak",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerinin güvenlik filtrelerini veya kısıtlamalarını devre dışı bırakma girişimi.",
+    "date": "2026-10-19",
+    "kisa_en": "An attempt to bypass or disable the safety filters or restrictions of artificial intelligence models.",
+    "kisa_fr": "Tentative de désactivation des filtres de sécurité ou des restrictions des modèles d'intelligence artificielle.",
+    "kisa_es": "Intento de desactivar los filtros de seguridad o las restricciones de los modelos de inteligencia artificial.",
+    "kisa_pt": "Tentativa de desativar os filtros de segurança ou as restrições de modelos de inteligência artificial.",
+    "kisa_de": "Der Versuch, Sicherheitsfilter oder Beschränkungen von KI-Modellen zu deaktivieren."
+  },
+  {
+    "slug": "video-restoration-tool",
+    "en": "Video Restoration Tool",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Eski veya düşük kaliteli videoları onarıp görüntü netliğini artıran yazılım aracı.",
+    "date": "2026-10-19",
+    "kisa_en": "A software tool that restores old or low-quality videos and enhances image clarity.",
+    "kisa_fr": "Outil logiciel qui restaure les vidéos anciennes ou de mauvaise qualité et améliore la netteté de l'image.",
+    "kisa_es": "Herramienta de software que restaura videos antiguos o de baja calidad y mejora la claridad de la imagen.",
+    "kisa_pt": "Ferramenta de software que restaura vídeos antigos ou de baixa qualidade e melhora a nitidez da imagem.",
+    "kisa_de": "Ein Softwaretool, das alte oder qualitativ minderwertige Videos restauriert und die Bildschärfe verbessert."
+  },
+  {
+    "slug": "latent-space",
+    "en": "Latent Space",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın verileri matematiksel olarak temsil ettiği, karmaşık ilişkilerin sayısal değerlerle ifade edildiği soyut alan.",
+    "date": "2026-10-19",
+    "kisa_en": "An abstract space where artificial intelligence mathematically represents data and complex relationships are expressed as numerical values.",
+    "kisa_fr": "Espace abstrait dans lequel l'intelligence artificielle représente les données de manière mathématique et où les relations complexes sont exprimées par des valeurs numériques.",
+    "kisa_es": "Espacio abstracto donde la inteligencia artificial representa los datos matemáticamente y las relaciones complejas se expresan mediante valores numéricos.",
+    "kisa_pt": "Espaço abstrato no qual a inteligência artificial representa dados matematicamente e relações complexas são expressas por valores numéricos.",
+    "kisa_de": "Ein abstrakter Raum, in dem künstliche Intelligenz Daten mathematisch darstellt und komplexe Beziehungen durch numerische Werte ausgedrückt werden."
+  },
+  {
+    "slug": "image-to-text",
+    "en": "Image-to-Text",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Görsel içeriği analiz edip bu içeriği tanımlayan veya açıklayan metinler üreten teknoloji.",
+    "date": "2026-10-19",
+    "kisa_en": "A technology that analyzes visual content and generates text describing or explaining that content.",
+    "kisa_fr": "Technologie qui analyse le contenu visuel et génère des textes le décrivant ou l'expliquant.",
+    "kisa_es": "Tecnología que analiza el contenido visual y genera textos que describen o explican dicho contenido.",
+    "kisa_pt": "Tecnologia que analisa o conteúdo visual e gera textos que descrevem ou explicam esse conteúdo.",
+    "kisa_de": "Eine Technologie, die visuelle Inhalte analysiert und Texte generiert, die diese Inhalte beschreiben oder erklären."
   }
 ]

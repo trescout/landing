@@ -78,7 +78,6 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Binary](https://trescout.com/pt/dictionary/binary/)
 - [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
-- [CLI](https://trescout.com/pt/dictionary/cli/)
 
 - **Para quem é:** Pesquisadores de segurança iOS, desenvolvedores móveis, especialistas em engenharia reversa e arquivadores de IPA.
 - **Licença:** MIT (Özgür açık kaynak lisansı)

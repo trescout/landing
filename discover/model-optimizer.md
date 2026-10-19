@@ -48,9 +48,9 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Quantization](https://trescout.com/dictionary/quantization/)
 - [Distillation](https://trescout.com/dictionary/distillation/)
 - [Pruning](https://trescout.com/dictionary/pruning/)
+- [Quantization](https://trescout.com/dictionary/quantization/)
 - [Inference](https://trescout.com/dictionary/inference/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

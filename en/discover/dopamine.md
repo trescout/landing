@@ -27,6 +27,7 @@ To start using the Dopamine tool, you can visit the official website https://ell
 
 ## Related dictionary terms
 
+- [Jailbreak](https://trescout.com/en/dictionary/jailbreak/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to have administrator rights by bypassing system restrictions on their iOS devices.

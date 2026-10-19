@@ -67,8 +67,8 @@ El mejor enfoque es borrar las salidas de las celdas (Borrar todas las salidas) 
 - [Claude Cookbooks](https://trescout.com/es/discover/claude-cookbooks/)
 - [Airllm](https://trescout.com/es/discover/airllm/)
 - [Machine Learning for Trading](https://trescout.com/es/discover/machine-learning-for-trading/)
-- [Cosmos](https://trescout.com/es/discover/cosmos/)
 - [Train LLM from Scratch](https://trescout.com/es/discover/train-llm-from-scratch/)
+- [Cosmos](https://trescout.com/es/discover/cosmos/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/jupyter-notebooks/)
 

@@ -27,6 +27,7 @@ Para comenzar a utilizar la herramienta Dopamina, puede visitar el sitio web ofi
 
 ## Términos relacionados del glosario
 
+- [Jailbreak](https://trescout.com/es/dictionary/jailbreak/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para usuarios que desean tener derechos administrativos evitando las restricciones del sistema en sus dispositivos iOS.

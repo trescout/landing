@@ -2,16 +2,16 @@
 
 Cloudflare Temp Email, Cloudflare Workers, Pages ve D1/KV veritabanı altyapısını kullanarak tamamen ücretsiz, sunucusuz (serverless) ve kendi alan adınızla çalışan geçici e-posta (disposable email) servisi kurmanızı sağlayan açık kaynaklı bir platformdur. Gelen kutusu yönetimi, eklerin saklanması, Telegram botu entegrasyonu ve otomatik temizlik mekanizmalarıyla kişisel gizliliğinizi korur.
 
-- ★ 11.734
+- ★ 11.982
 - TypeScript
 - GitHub Trending · 2026-07-23
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 11.734 → 11.982, son sürüm v1.13.0 (18 Ekim 2026).
 - **13 Eylül 2026:** Yıldız 11.391 → 11.734, son sürüm v1.12.0 (13 Eylül 2026).
 - **23 Ağustos 2026:** Yıldız 11.332 → 11.391, son sürüm v1.11.1 (22 Ağustos 2026).
 - **19 Ağustos 2026:** Yıldız 11.156 → 11.332, son sürüm v1.11.0 (19 Ağustos 2026).
-- **2 Ağustos 2026:** Yıldız 10.884 → 11.156, son sürüm v1.10.0 (31 Temmuz 2026).
 
 ## Ne kazandırır?
 

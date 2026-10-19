@@ -27,6 +27,7 @@ Pour commencer à utiliser l'outil Dopamine, vous pouvez visiter le site officie
 
 ## Termes liés du glossaire
 
+- [Jailbreak](https://trescout.com/fr/dictionary/jailbreak/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent disposer de droits d'administrateur en contournant les restrictions du système sur leurs appareils iOS.

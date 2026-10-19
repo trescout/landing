@@ -39,9 +39,9 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [Quantization](https://trescout.com/es/dictionary/quantization/)
 - [Distillation](https://trescout.com/es/dictionary/distillation/)
 - [Pruning](https://trescout.com/es/dictionary/pruning/)
+- [Quantization](https://trescout.com/es/dictionary/quantization/)
 - [Inference](https://trescout.com/es/dictionary/inference/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

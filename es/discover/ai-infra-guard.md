@@ -52,6 +52,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [Jailbreak](https://trescout.com/es/dictionary/jailbreak/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

@@ -2,9 +2,13 @@
 
 LibreSpark/LibreTV, Docker gibi yöntemlerle bir dakika içinde film ve dizi sitesi kurmanıza olanak tanıyan TypeScript tabanlı bir yazılım projesidir. Kullanıcıların kendi içerik platformlarını hızlıca oluşturmalarını sağlayan bir altyapı sunar.
 
-- ★ 18.500
+- ★ 19.801
 - TypeScript
 - GitHub Trending · 2026-10-16
+
+## Güncelleme
+
+- **19 Ekim 2026:** Yıldız 18.500 → 19.801.
 
 ## Ne kazandırır?
 

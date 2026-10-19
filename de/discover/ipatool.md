@@ -78,7 +78,6 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Binary](https://trescout.com/de/dictionary/binary/)
 - [CI/CD](https://trescout.com/de/dictionary/ci-cd/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
-- [CLI](https://trescout.com/de/dictionary/cli/)
 
 - **Für wen es gedacht ist:** iOS-Sicherheitsforscher, Mobilentwickler, Experten für Reverse Engineering und IPA-Archivare.
 - **Lizenz:** MIT (Özgür açık kaynak lisansı)

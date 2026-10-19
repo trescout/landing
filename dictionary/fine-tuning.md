@@ -68,6 +68,7 @@ LIMA prensibine göre doğru seçilmiş, tutarlı ve yüksek kaliteli 500 ila 2.
 ## İlgili araçlar
 
 - [Transformers](https://trescout.com/discover/transformers/)
+- [LLM Course](https://trescout.com/discover/llm-course/)
 - [Unsloth](https://trescout.com/discover/unsloth/)
 - [Ktransformers](https://trescout.com/discover/ktransformers/)
 - [Soup](https://trescout.com/discover/soup/)

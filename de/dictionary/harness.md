@@ -74,6 +74,7 @@ Es wird vom Team festgelegt. Auf kritischen Pfaden wird es hoch, an den Rändern
 - [Harness SDK](https://trescout.com/de/discover/harness-sdk/)
 - [Harness · Ajan Ekip Fabrikası](https://trescout.com/de/discover/harness/)
 - [Munder Difflin](https://trescout.com/de/discover/munder-difflin/)
+- [Dsh Purge](https://trescout.com/de/discover/dsh-purge/)
 - [Claude Code Harness](https://trescout.com/de/discover/claude-code-harness/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/harness/)

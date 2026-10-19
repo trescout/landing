@@ -75,10 +75,10 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Xcode](https://trescout.com/es/dictionary/xcode/)
 - [Sideloading](https://trescout.com/es/dictionary/sideloading/)
+- [Jailbreak](https://trescout.com/es/dictionary/jailbreak/)
 - [Binary](https://trescout.com/es/dictionary/binary/)
 - [CI/CD](https://trescout.com/es/dictionary/ci-cd/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
-- [CLI](https://trescout.com/es/dictionary/cli/)
 
 - **Para quién es:** Investigadores de seguridad de iOS, desarrolladores móviles, expertos en ingeniería inversa y archivistas de IPA.
 - **Licencia:** MIT (Özgür açık kaynak lisansı)

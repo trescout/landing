@@ -2,16 +2,16 @@
 
 Whichllm, donanımınız üzerinde en yüksek performansı gösteren yerel büyük dil modellerini (large language models) belirlemenizi sağlayan bir araçtır. Parametre sayısından ziyade güncel kıyaslama testlerine (benchmarks) odaklanan bu Python tabanlı yazılım, tek komutla en uygun modeli seçmenize olanak tanır.
 
-- ★ 6.719
+- ★ 6.767
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 6.719 → 6.767, son sürüm v0.5.21 (19 Ekim 2026).
 - **4 Ekim 2026:** Yıldız 6.697 → 6.719, son sürüm v0.5.20 (3 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 6.263 → 6.697, son sürüm v0.5.19 (19 Eylül 2026).
 - **15 Ağustos 2026:** Yıldız 6.101 → 6.263, son sürüm v0.5.16 (14 Ağustos 2026).
-- **2 Ağustos 2026:** Yıldız 3.679 → 6.101, son sürüm v0.5.15 (3 Temmuz 2026).
 
 ## Ne kazandırır?
 

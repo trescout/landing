@@ -2,12 +2,13 @@
 
 The Fanqiang project is a gateway tool written in Kotlin, developed to bypass internet censorship. It is open source software designed to provide users with access to limited network resources.
 
-- ★ 52,511
+- ★ 55,341
 - Kotlin
 - GitHub Trending · 2026-06-12
 
 ## Updates
 
+- **October 19, 2026:** Stars 52,511 → 55,341, latest release FQNews-v1.3.8 (August 18, 2024).
 - **September 4, 2026:** Stars 49,405 → 52,511, latest release FQNews-v1.3.8 (August 18, 2024).
 - **August 2, 2026:** Stars 47,142 → 49,405, latest release FQNews-v1.3.8 (August 18, 2024).
 

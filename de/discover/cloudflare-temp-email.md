@@ -2,16 +2,16 @@
 
 Cloudflare Temp Email ist eine Open-Source-Plattform, mit der Sie einen völlig kostenlosen, serverlosen Wegwerf-E-Mail-Dienst (Disposable Email) unter Ihrer eigenen Domain einrichten können, der die Infrastruktur von Cloudflare Workers, Pages und D1/KV-Datenbanken nutzt. Er schützt Ihre Privatsphäre durch Posteingangsverwaltung, Speicherung von Anhängen, Telegram-Bot-Integration und automatische Bereinigungsmechanismen.
 
-- ★ 11.734
+- ★ 11.982
 - TypeScript
 - GitHub Trending · 2026-07-23
 
 ## Aktualisierungen
 
+- **19. Oktober 2026:** Sterne 11,734 → 11,982, neueste Version v1.13.0 (18. Oktober 2026).
 - **13. September 2026:** Sterne 11,391 → 11,734, neueste Version v1.12.0 (13. September 2026).
 - **23. August 2026:** Sterne 11,332 → 11,391, neueste Version v1.11.1 (22. August 2026).
 - **19. August 2026:** Sterne 11,156 → 11,332, neueste Version v1.11.0 (19. August 2026).
-- **2. August 2026:** Sterne 10,884 → 11,156, neueste Version v1.10.0 (31. Juli 2026).
 
 ## Was es bringt
 

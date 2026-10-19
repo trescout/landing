@@ -2,7 +2,7 @@
 
 **Kronos**, finansal piyasaların kendine has örüntülerini çözümlemek için tasarlanmış bir **temel modeldir (foundation model)**. Piyasa verilerinin karmaşık yapısını analiz etmeye odaklanır ve kantitatif finans ile makine öğrenmesi çalışmalarında kullanılır.
 
-- ★ 39.218
+- ★ 41.288
 - Python
 - MIT
 - GitHub Trending · 28 May 2026
@@ -29,6 +29,7 @@ python examples/prediction_example.py
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 39.218 → 41.288.
 - **19 Eylül 2026:** Yıldız 37.285 → 39.218.
 - **15 Ağustos 2026:** Yıldız 35.441 → 37.285.
 - **2 Ağustos 2026:** Yıldız 26.888 → 35.441.

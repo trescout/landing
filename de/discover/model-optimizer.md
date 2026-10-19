@@ -39,9 +39,9 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Quantization](https://trescout.com/de/dictionary/quantization/)
 - [Distillation](https://trescout.com/de/dictionary/distillation/)
 - [Pruning](https://trescout.com/de/dictionary/pruning/)
+- [Quantization](https://trescout.com/de/dictionary/quantization/)
 - [Inference](https://trescout.com/de/dictionary/inference/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

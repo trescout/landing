@@ -75,10 +75,10 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Xcode](https://trescout.com/en/dictionary/xcode/)
 - [Sideloading](https://trescout.com/en/dictionary/sideloading/)
+- [Jailbreak](https://trescout.com/en/dictionary/jailbreak/)
 - [Binary](https://trescout.com/en/dictionary/binary/)
 - [CI/CD](https://trescout.com/en/dictionary/ci-cd/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
-- [CLI](https://trescout.com/en/dictionary/cli/)
 
 - **Who it is for:** iOS security researchers, mobile developers, reverse engineering specialists, and IPA archivers.
 - **License:** MIT (Özgür açık kaynak lisansı)

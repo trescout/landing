@@ -2,12 +2,13 @@
 
 LinkSwift, JavaScript tabanlı bir altyapı kullanarak çeşitli bulut depolama servislerinden doğrudan dosya indirme bağlantıları elde etmeye yarayan bir araçtır. Yazılım; Baidu Netdisk, Alibaba Cloud Drive, China Mobile Cloud ve Quark Drive gibi sekiz farklı popüler bulut platformunu destekler.
 
-- ★ 24.112
+- ★ 25.678
 - JavaScript
 - GitHub Trending · 2026-10-17
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 24.112 → 25.678, son sürüm v1.1.3 (18 Şubat 2026).
 - **17 Ekim 2026:** Yıldız 24.106 → 24.112, son sürüm v1.1.3 (18 Şubat 2026).
 
 ## Ne kazandırır?

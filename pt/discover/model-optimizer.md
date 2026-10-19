@@ -39,9 +39,9 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [Quantization](https://trescout.com/pt/dictionary/quantization/)
 - [Distillation](https://trescout.com/pt/dictionary/distillation/)
 - [Pruning](https://trescout.com/pt/dictionary/pruning/)
+- [Quantization](https://trescout.com/pt/dictionary/quantization/)
 - [Inference](https://trescout.com/pt/dictionary/inference/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
