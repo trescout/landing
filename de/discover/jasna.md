@@ -22,6 +22,7 @@ Laden Sie das für Ihr Betriebssystem und Ihren Grafikprozessor geeignete Paket 
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Video Restoration Tool](https://trescout.com/de/dictionary/video-restoration-tool/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Benutzer, die verpixelte Bereiche in Videos und Bildern mithilfe von Hardware-Leistung schärfen möchten.

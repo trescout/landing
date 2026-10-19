@@ -52,6 +52,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Jailbreak](https://trescout.com/de/dictionary/jailbreak/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

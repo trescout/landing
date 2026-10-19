@@ -64,6 +64,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [Jailbreak](https://trescout.com/pt/dictionary/jailbreak/)
 - [Harness](https://trescout.com/pt/dictionary/harness/)
 - [Clone](https://trescout.com/pt/dictionary/clone/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)

@@ -1670,13 +1670,13 @@
     "slug": "iii",
     "title": "iii",
     "tagline": "Tüm servislerinizi gerçek zamanlı kurun, genişletin ve gözlemleyin.",
-    "meta": "★ 18.839 · Lisans: yok",
+    "meta": "★ 18.847 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 18839,
+    "stars": 18847,
     "image": "/assets/discover/og/iii.webp",
     "headline": "Servislerinizi gerçek zamanlı yönetin",
     "last_review": "2026-10-19",
@@ -1729,6 +1729,13 @@
         "onceki_yildiz": 18824,
         "surum": "iii/v0.24.5",
         "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-19",
+        "yildiz": 18847,
+        "onceki_yildiz": 18839,
+        "surum": "iii/v0.24.6",
+        "surum_tarihi": "2026-10-19"
       }
     ],
     "tagline_en": "Install, extend and monitor all your services in real time.",
@@ -25402,14 +25409,14 @@
     "slug": "docuseal",
     "title": "Docuseal",
     "tagline": "DocuSeal, dijital belge oluşturma, doldurma ve imzalama süreçleri için açık kaynaklı bir alternatif sunuyor.",
-    "meta": "★ 18.698 · Ruby",
+    "meta": "★ 18.752 · Ruby",
     "image": "/assets/discover/og/docuseal.webp",
     "source": "GitHub",
     "date": "2026-07-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 18698,
+    "stars": 18752,
     "lite": false,
     "headline": "Dijital belgeleri kolayca imzalayın",
     "last_review": "2026-10-19",
@@ -25497,6 +25504,13 @@
         "onceki_yildiz": 18654,
         "surum": "3.3.2",
         "surum_tarihi": "2026-10-12"
+      },
+      {
+        "tarih": "2026-10-19",
+        "yildiz": 18752,
+        "onceki_yildiz": 18698,
+        "surum": "3.3.3",
+        "surum_tarihi": "2026-10-19"
       }
     ],
     "tagline_en": "DocuSeal offers an open source alternative for creating, filling and signing digital documents.",
@@ -32958,14 +32972,14 @@
     "slug": "mise",
     "title": "Mise",
     "tagline": "Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek…",
-    "meta": "★ 35.150 · Rust",
+    "meta": "★ 35.166 · Rust",
     "image": "/assets/discover/og/mise.webp",
     "source": "GitHub",
     "date": "2026-08-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 35150,
+    "stars": 35166,
     "lite": false,
     "headline": "Geliştirme ortamınızı tek merkezden yönetin",
     "needs_enrichment": true,
@@ -33259,6 +33273,13 @@
         "onceki_yildiz": 35120,
         "surum": "v2026.10.14",
         "surum_tarihi": "2026-10-18"
+      },
+      {
+        "tarih": "2026-10-19",
+        "yildiz": 35166,
+        "onceki_yildiz": 35150,
+        "surum": "v2026.10.15",
+        "surum_tarihi": "2026-10-19"
       }
     ],
     "tagline_fr": "Mise combine des outils de développement logiciel, des variables d'environnement et des exécuteurs de tâches en un seul…",
@@ -36661,7 +36682,7 @@
     "slug": "openviking",
     "title": "OpenViking",
     "tagline": "Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı sunuyor.",
-    "meta": "★ 39.519 · Python",
+    "meta": "★ 40.333 · Python",
     "image": "/assets/discover/og/openviking.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -36669,7 +36690,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 39519,
+    "stars": 40333,
     "lite": false,
     "headline": "Yapay zekâ ajanları için dosya sistemli hafıza",
     "tagline_en": "Developed by Volcengine, OpenViking offers a self-improving context database for AI agents.",
@@ -36762,6 +36783,13 @@
         "onceki_yildiz": 39151,
         "surum": "v0.5.0",
         "surum_tarihi": "2026-10-09"
+      },
+      {
+        "tarih": "2026-10-19",
+        "yildiz": 40333,
+        "onceki_yildiz": 39519,
+        "surum": "v0.5.1",
+        "surum_tarihi": "2026-10-19"
       }
     ],
     "last_seen": "2026-08-21"
@@ -41313,7 +41341,7 @@
     "slug": "freellmapi",
     "title": "Freellmapi",
     "tagline": "FreeLLMAPI, 34 ücretsiz yapay zekâ sağlayıcısını OpenAI uyumlu tek bir REST uç noktasında birleştiren ters proxy servisidir.",
-    "meta": "★ 37.306 · TypeScript",
+    "meta": "★ 37.418 · TypeScript",
     "image": "/assets/discover/og/freellmapi.webp",
     "source": "GitHub",
     "date": "2026-08-28",
@@ -41321,7 +41349,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37306,
+    "stars": 37418,
     "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada (endpoint) birleştiriyor. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, geliştiricilerin farklı modelleri tek bir arayüz üzerinden denemesine olanak tanıyor.",
     "lite": false,
     "tagline_en": "FreeLLMAPI is a reverse proxy service that combines 34 free AI providers into a single OpenAI-compatible REST endpoint.",
@@ -41430,6 +41458,13 @@
         "yildiz": 37306,
         "onceki_yildiz": 36776,
         "surum": "v0.16.4",
+        "surum_tarihi": "2026-10-19"
+      },
+      {
+        "tarih": "2026-10-19",
+        "yildiz": 37418,
+        "onceki_yildiz": 37306,
+        "surum": "v0.16.5",
         "surum_tarihi": "2026-10-19"
       }
     ]
@@ -43270,7 +43305,7 @@
     "slug": "context-mode",
     "title": "Context Mode",
     "tagline": "Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir…",
-    "meta": "★ 29.494 · TypeScript",
+    "meta": "★ 30.969 · TypeScript",
     "image": "/assets/discover/og/context-mode.webp",
     "source": "GitHub",
     "date": "2026-09-08",
@@ -43278,7 +43313,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 29494,
+    "stars": 30969,
     "summary": "Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir TypeScript kütüphanesi. Araç çıktılarını izole ederek veri boyutunu yüzde 98 oranında azaltıyor, oturum hafızasını koruyor ve Model Bağlantı Protokolü (Model Context Protocol) üzerinden 17 farklı platforma yönlendirme yapıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanınıza kalıcı hafıza",
@@ -43330,6 +43365,13 @@
         "tarih": "2026-10-15",
         "yildiz": 29494,
         "onceki_yildiz": 27902,
+        "surum": "v1.0.169",
+        "surum_tarihi": "2026-06-29"
+      },
+      {
+        "tarih": "2026-10-19",
+        "yildiz": 30969,
+        "onceki_yildiz": 29494,
         "surum": "v1.0.169",
         "surum_tarihi": "2026-06-29"
       }
@@ -45116,7 +45158,7 @@
     "slug": "oh-my-hermes",
     "title": "Oh My Hermes",
     "tagline": "Hermes Agent için geliştirilen oh-my-hermes, kodlama zekâsı, uzun süreli bellek sistemi ve model odaklı iş akışı paketlerini…",
-    "meta": "★ 3.258 · Python",
+    "meta": "★ 3.432 · Python",
     "image": "/assets/discover/og/oh-my-hermes.webp",
     "source": "GitHub",
     "date": "2026-09-15",
@@ -45124,7 +45166,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3258,
+    "stars": 3432,
     "summary": "Hermes Agent için geliştirilen oh-my-hermes, kodlama zekâsı, uzun süreli bellek sistemi ve model odaklı iş akışı paketlerini tek bir eklentide sunuyor. Yazılım geliştirme süreçlerini optimize eden bu araç, Python tabanlı yapısıyla geliştiricilere kapsamlı bir çalışma ortamı sağlıyor.",
     "lite": false,
     "headline": "Hermes Agent için profesyonel işletim katmanı",
@@ -45164,6 +45206,13 @@
         "onceki_yildiz": 3200,
         "surum": "v3.0.2",
         "surum_tarihi": "2026-10-11"
+      },
+      {
+        "tarih": "2026-10-19",
+        "yildiz": 3432,
+        "onceki_yildiz": 3258,
+        "surum": "v4.0.0",
+        "surum_tarihi": "2026-10-19"
       }
     ],
     "tagline_en": "oh-my-hermes, developed for Hermes Agent, includes coding intelligence, long-term memory system, and model-oriented workflow packages...",
@@ -49786,7 +49835,7 @@
     "slug": "xerj",
     "title": "Xerj",
     "tagline": "Rust diliyle geliştirilen xerj, yapay zekâ sistemlerinin veri üzerinde arama yapmasını sağlayan otomatik indeksleme…",
-    "meta": "★ 8.748 · Rust",
+    "meta": "★ 8.867 · Rust",
     "image": "/assets/discover/og/xerj.webp",
     "source": "GitHub",
     "date": "2026-10-16",
@@ -49794,7 +49843,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8748,
+    "stars": 8867,
     "last_seen": "2026-10-18",
     "summary": "Rust diliyle geliştirilen xerj, yapay zekâ sistemlerinin veri üzerinde arama yapmasını sağlayan otomatik indeksleme (autoindex) yeteneği sunuyor. Kod, belge ve günlük dosyalarını daha az belirteç (token) tüketimiyle işleyerek arama, güvenlik denetimleri ve yapay zekânın güncel verilerden cevap üretmesini sağlayan yöntem (RAG) süreçlerini destekliyor.",
     "lite": false,
@@ -49821,6 +49870,13 @@
         "onceki_yildiz": 7234,
         "surum": "v1.0.0-rc.96",
         "surum_tarihi": "2026-10-16"
+      },
+      {
+        "tarih": "2026-10-19",
+        "yildiz": 8867,
+        "onceki_yildiz": 8748,
+        "surum": "v1.0.0-rc.97",
+        "surum_tarihi": "2026-10-19"
       }
     ],
     "tagline_en": "Developed in the Rust language, xerj is an automatic indexing... that enables artificial intelligence systems to search through data.",

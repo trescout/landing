@@ -52,6 +52,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [Jailbreak](https://trescout.com/pt/dictionary/jailbreak/)
 - [MCP](https://trescout.com/pt/dictionary/mcp/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

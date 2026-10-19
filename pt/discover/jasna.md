@@ -22,6 +22,7 @@ Baixe o pacote adequado para o seu sistema operacional e processador gráfico na
 
 ## Termos relacionados do glossário
 
+- [Video Restoration Tool](https://trescout.com/pt/dictionary/video-restoration-tool/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a usuários que desejam tornar nítidas as áreas pixeladas em vídeos e imagens utilizando o poder do hardware.

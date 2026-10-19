@@ -75,6 +75,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [Xcode](https://trescout.com/pt/dictionary/xcode/)
 - [Sideloading](https://trescout.com/pt/dictionary/sideloading/)
+- [Jailbreak](https://trescout.com/pt/dictionary/jailbreak/)
 - [Binary](https://trescout.com/pt/dictionary/binary/)
 - [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)

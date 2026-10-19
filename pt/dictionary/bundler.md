@@ -20,14 +20,20 @@ Os bundlers assumiram a tarefa de permitir que os desenvolvedores escrevessem se
 
 O funcionamento de um empacotador moderno consiste fundamentalmente em três fases:
 
+### 1. Resolução e Criação do Grafo de Dependências (Dependency Graph)
+
 O processo começa a partir de um ou mais pontos de entrada (entry point, ex: src/main.ts):
 
 - O empacotador lê este arquivo e verifica as declarações import, export ou require contidas nele.
 - O algoritmo de resolução de nós (node module resolution) encontra a localização dos arquivos chamados no disco de acordo com as definições do package.json.
 - Cria um Grafo Acíclico Dirigido (DAG), no qual cada arquivo de origem é modelado como um nó e as relações de importação como arestas.
 
+### 2. Transformação e Análise de AST
+
 - Cada módulo é passado para um compilador (como Babel, SWC, esbuild) e convertido em uma Árvore de Sintaxe Abstrata (AST - Abstract Syntax Tree).
 - O código TypeScript é convertido em JavaScript, a sintaxe JSX é compilada, os módulos CSS são resolvidos e os recursos modernos do ECMAScript são tornados compatíveis com as versões de navegador visadas.
+
+### 3. Empacotamento, Tree-Shaking e Geração de Saída (Packaging & Emit)
 
 - Tree-Shaking (Eliminação de Código Morto): Aproveitando a sintaxe estática dos Módulos ECMAScript (ESM), o código morto que é importado de bibliotecas, mas nunca chamado no projeto, é eliminado via AST.
 - Minificação e Ofuscação: Os nomes das variáveis são encurtados (mangling), e espaços e linhas de comentário são removidos para minimizar o tamanho do arquivo.
@@ -41,6 +47,14 @@ O processo começa a partir de um ou mais pontos de entrada (entry point, ex: sr
 ## Comparação do Ecossistema de Empacotadores
 
 As ferramentas de destaque que respondem a diferentes necessidades no ecossistema web são as seguintes:
+
+| Ferramenta | Linguagem de Escrita | Experiência de Desenvolvimento | Motor de Produção | Ponto Forte |
+|---|---|---|---|---|
+| webpack | JavaScript / Node.js | Bundled (Empacotamento em memória) | webpack | Ecossistema de plugins massivo, maturidade corporativa |
+| Vite | JS + Go (esbuild) | Unbundled (ESM Nativo) | Rollup / Rolldown | Início instantâneo do servidor de desenvolvimento, alto conforto para o desenvolvedor |
+| Rollup | JavaScript / Node.js | Bundled | Rollup | Tree-shaking impecável no empacotamento de bibliotecas / SDK |
+| esbuild | ir | Bundled | esbuild | Velocidade de compilação bruta incrível (10-100x mais rápido que ferramentas Node.js) |
+| Turbopack / Rspack | ferrugem | Bundled / Híbrido | Motor Rust | Desempenho para projetos massivos, compatível com o ecossistema Webpack |
 
 ## Perguntas frequentes
 

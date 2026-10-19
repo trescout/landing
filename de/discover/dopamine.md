@@ -27,6 +27,7 @@ Um mit der Verwendung des Dopamin-Tools zu beginnen, können Sie die offizielle 
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Jailbreak](https://trescout.com/de/dictionary/jailbreak/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die Administratorrechte haben möchten, indem sie Systembeschränkungen auf ihren iOS-Geräten umgehen.

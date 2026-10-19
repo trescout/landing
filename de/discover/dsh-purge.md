@@ -64,6 +64,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Jailbreak](https://trescout.com/de/dictionary/jailbreak/)
 - [Harness](https://trescout.com/de/dictionary/harness/)
 - [Clone](https://trescout.com/de/dictionary/clone/)
 - [AI Skills](https://trescout.com/de/dictionary/ai-skills/)

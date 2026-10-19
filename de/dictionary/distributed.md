@@ -1,76 +1,74 @@
-# Distributed Systems: Irrtümer, CAP-Theorem, Konsens und Saga-Muster
+# Was ist Distributed?
 
 *Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
-Ein verteiltes System (Distributed System) ist ein Verbund unabhängiger Rechnerknoten, die über ein Computernetzwerk kommunizieren und zusammenarbeiten, um für den Anwender wie ein einziges, konsistentes Gesamtsystem zu wirken.
+Verteilt ist in der Computerwelt die gemeinsame Nutzung von Hardware, Daten und Berechnungsprozessen auf viele unabhängige Server (Knoten), die über das Netzwerk miteinander verbunden sind, anstelle einer einzigen zentralen Maschine, und dieses System dient dem Endbenutzer so, als wäre es ein einziger vollständiger Computer.
 
-## Etymologie und das Wesen verteilter Systeme
+## Etymologie und die Natur verteilter Systeme
 
-Der Begriff stammt vom lateinischen *distribuere* (aufteilen, zuteilen). Treffend beschrieb es Leslie Lamport : *«Ein verteiltes System ist ein System, bei dem der Ausfall eines Computers, von dessen Existenz man nicht einmal wusste, den eigenen Rechner lahmlegen kann.»* Sie bieten Ausfallsicherheit und Skalierbarkeit um den Preis höherer Komplexität.
+Das Wort „Distributed“ bedeutet auf Türkisch verteilt. Leslie Lamport, einer der Pioniere der Informatik, definierte verteilte Systeme mit dem folgenden Aphorismus, der in die Geschichte einging: „Ein verteiltes System ist ein System, in dem der Absturz eines Computers, von dem Sie nicht einmal wissen, dass er existiert, Ihren eigenen Computer unbrauchbar machen kann.“
 
-## Die 8 Irrtümer verteilter Systeme (Deutsch)
+In zentralisierten (monolithischen) Architekturen erfolgen alle Vorgänge auf einem einzigen Hauptspeicher und Prozessor. In verteilten Systemen dienen Hunderte von Knoten, die physisch über Rechenzentren auf verschiedenen Kontinenten der Welt verteilt sind, einem gemeinsamen Zweck, indem sie über unzuverlässige Netzwerkkabel kommunizieren.
 
-Diese von Sun-Microsystems-Ingenieuren formulierten Fehlannahmen führen bei Nichtbeachtung zum Scheitern von Großprojekten :
+## 8 Irrtümer des verteilten Rechnens
 
-1. Das Netzwerk ist zuverlässig.
-2. Die Latenzzeit ist gleich null.
-3. Die Bandbreite ist unendlich.
-4. Das Netzwerk ist sicher.
-5. Die Netzwerktopologie ändert sich nie.
-6. Es gibt nur einen einzigen Administrator.
-7. Die Transportkosten sind gleich null.
-8. Das Netzwerk ist homogen.
+In den 1990er Jahren listeten die Sun Microsystems-Ingenieure L. Peter Deutsch und James Gosling die „8 tödlichen Fehler“ auf, die Softwareentwickler bei der Entwicklung verteilter Systeme machten. Alle Verteidigungslinien moderner Cloud- und Microservice-Architekturen basieren auf diesen Missverständnissen:
 
-## Das CAP-Theorem und das PACELC-Modell
+1. Das Netzwerk ist zuverlässig: In der Realität gehen Pakete verloren, Glasfaserleitungen brechen ab, Router stürzen ab.
+2. Die Latenz ist Null: Blitzgeschwindigkeit und Latenz beim Netzwerkwechsel zwischen zwei Maschinen sind immer vorhanden.
+3. Die Bandbreite ist unendlich: Mit steigendem Datenvolumen verstopfen die Netzwerkleitungen.
+4. Das Netzwerk ist sicher: Die gesamte verteilte Kommunikation erfolgt über offene Leitungen und erfordert kryptografischen Schutz.
+5. Die Topologie ändert sich nicht: Server werden ständig ein- und ausgeschaltet, IP-Adressen ändern sich.
+6. Es gibt nur einen Systemadministrator: Mehrere Teams und Cloud-Anbieter sind beteiligt.
+7. Transportkosten sind Null: Serialisierungs- und CPU-Verpackungskosten können nicht ignoriert werden.
+8. Das Netzwerk ist homogen: Linux, Windows, ARM, x86 und verschiedene Protokolle arbeiten im System zusammen.
 
-Eric Brewers **CAP-Theorem** belegt, dass verteilte Datenbanken bei einer Netzwerkpartitionierung nur zwei von drei Garantien einhalten können :
+## CAP-Theorem und PACELC-Modell
 
-- **Konsistenz (C):** Jeder Lesezugriff liefert den neuesten Schreibwert oder einen Fehler.
-- **Verfügbarkeit (A):** Jeder intakte Knoten antwortet ohne Ausfallgarantie auf aktuelle Daten.
-- **Partitionstoleranz (P):** Das System übersteht Netzwerktrennungen. Da Netzwerkfehler unausweichlich sind, muss man zwischen CP (z. B. etcd) und AP (z. B. Cassandra) wählen.
+Das von Eric Brewer vorgeschlagene CAP-Theorem zeigt die grundlegenden Grenzen der verteilten Datenverwaltung auf. Wenn eine Netzwerkpartition (P) auftritt, muss das System eine von zwei Optionen wählen:
 
-Das **PACELC-Modell** erweitert dies : *Tritt eine Partition (P) auf, wähle zwischen Verfügbarkeit (A) und Konsistenz (C) ; andernfalls (Else) wähle zwischen Latenz (L) und Konsistenz (C).*
+- CP (Konsistenz + Partitionstoleranz): Das System wählt Konsistenz. Knoten, deren Daten veraltet sind, verweigern die Antwort; Die Zugänglichkeit wird geopfert (z. B. Finanz- und Bankgeschäfte).
+- AP (Verfügbarkeit + Partitionstoleranz): Das System wählt die Verfügbarkeit aus. Knoten antworten weiterhin, aber einige Benutzer sehen möglicherweise veraltete Daten von vor ein paar Sekunden (z. B. Social-Media-Feeds).
+
+In modernen Systemen wird das PACELC-Modell von Daniel Abadi verwendet: Wenn das Netzwerk geteilt ist (P) Verfügbarkeit oder Konsistenz; Wird bei normalem Betrieb des Systems auf Else (E) Latency (geringe Latenz) oder Consistency (sofortige Konsistenz) abgezielt?
 
 ## Konsensprotokolle: Raft und Paxos
 
-Um bei Übertragungsfehlern eine verbindliche gemeinsame Wahrheit herzustellen :
+Konsensalgorithmen wurden entwickelt, damit unabhängige Server, die einander nicht vertrauen und jederzeit ausfallen können, sich auf eine einzige Wahrheit einigen können:
 
-- **Paxos:** Der mathematisch bewiesene Urvater aller Konsensalgorithmen von Leslie Lamport, berüchtigt für seine schwierige Implementierung.
-- **Raft:** Speziell auf Verständlichkeit hin entwickelt, zerlegt es Konsens in Leader-Wahl, Log-Replikation und Zustandssicherheit (Herzstück von etcd).
+- Paxos: Konsensalgorithmus, entwickelt von Leslie Lamport, mathematisch bewährt, aber äußerst komplex in der Praxis umzusetzen.
+- Raft: Ein von Diego Ongaro und John Ousterhout entwickeltes Mensch-Intelligenz-Konsensprotokoll, um die Komplexität von Paxos zu lösen. Leader Election basiert auf Log Replication und Safety State Machines (es funktioniert im Herzen riesiger Systeme wie Etcd, Kubernetes, Consul).
+- Byzantinische Fehlertoleranz (BFT): Sie ist die Grundlage von Blockchain-Protokollen, die einen Konsens auch in Umgebungen gewährleisten, in denen einige Knoten absichtlich fehlerhafte oder bösartige Informationen verbreiten.
 
-## Das Zeitproblem und logische Uhren
+## Das Zeitproblem in verteilten Systemen und Lösungen
 
-Ohne gemeinsame Atomuhr ist das Bestimmen der exakten zeitlichen Reihenfolge von Ereignissen über Netze hinweg physikalisch unmöglich :
+Auf einem zentralen Computer zeigt die Hardware-Uhr eine einzige Wahrheit an. In verteilten Systemen hingegen weisen Serveruhren physikalische Abweichungen (Clock Drift) auf, und das NTP (Network Time Protocol) reicht für eine millisekundengenaue Präzision nicht aus:
 
-- **Lamport- und Vektor-Uhren:** Abstrakte Zähler, die kausale Abhängigkeiten abbilden, ohne reale Sekunden messen zu müssen.
-- **Google TrueTime:** Eine Kombination aus Atomuhren und GPS-Empfängern in Rechenzentren, die Zeitunsicherheiten auf wenige Millisekunden eingrenzt.
+- Lamport Logical Times (Lamport Timestamps): Definiert die „Reihenfolge der Ereignisse“ anstelle der physischen Zeit.
+- Vector Clocks: Erkennt Datenkonflikte, indem ermittelt wird, welche Daten die Ursache oder Wirkung der anderen sind.
+- Google TrueTime: Kombination aus Atomuhren und GPS-Antennen, die in der verteilten Google Spanner-Datenbank verwendet werden. Es ermöglicht ACID-Transaktionen auf globaler Ebene, indem es die Unsicherheitsspanne auf wenige Millisekunden reduziert.
 
-## Verteiltes Datenmanagement: Das Saga-Pattern
+## Verteilte Daten- und Transaktionsverwaltung: Saga-Muster
 
-Das veraltete Two-Phase-Commit-Verfahren (2PC) blockiert Ressourcen und skaliert nicht. Moderne Architekturen nutzen das **Saga-Pattern** :
-
-- Eine Abfolge lokaler Datenbanktransaktionen, koordiniert durch einen zentralen Orchestrator oder über Event-Choreografie.
-- Schlägt ein Teilschritt fehl, führt das System rückwärts kompensierende Transaktionen aus, um den Ausgangszustand sauber wiederherzustellen.
-
-*Ein zentralisiertes System ist wie ein einzelner Koch in einem Foodtruck; ein verteiltes System gleicht einer weltweiten Restaurantkette, in der hunderte Küchen die gleichen Menüs servieren müssen, während Telefonverbindungen ausfallen und Lieferanten im Stau stehen.*
+Datenbanktransaktionen (ACID-Transaktionen) in monolithischen Systemen werden durch den Saga-Pattern-Ansatz in Microservices ersetzt. Anstatt lang laufende verteilte Schritte mit zweiphasigen Sperren zu sperren (2PC – Two Phase Commit); Es werden ereignisgesteuerte Architekturen verwendet, bei denen jeder Dienst seine lokale Aktion ausführt und im Fehlerfall rückwärts kompensierende Transaktionen ausgelöst werden.
 
 ## Häufig gestellte Fragen
 
-**Was zeichnet ein verteiltes System aus?**
+**Was bedeutet distributed (türkische Bedeutung)?**
 
-Dass mehrere eigenständige Rechner über ein Netzwerk Aufgaben gemeinsam bearbeiten und nach außen wie ein einziger Computer auftreten.
+Bedeutet in der IT-Terminologie 'verteilt'. Es bezeichnet die Aufteilung von Rechenleistung, Speicherplatz oder Datenbanken auf zahlreiche unabhängige Maschinen, die über ein Netzwerk kommunizieren, anstatt sie auf einem einzigen Server zu belassen.
 
-**Warum kann man laut CAP-Theorem nicht Konsistenz und Verfügbarkeit gleichzeitig haben?**
+**Was bedeutet das CAP-Theorem in der Praxis?**
 
-Weil man bei einer gekappten Verbindung zwischen Servern entweder Anfragen ablehnen muss (Ausfall) oder inkonsistente Daten riskiert.
+Es besagt, dass bei einer Unterbrechung oder Verzögerung der Netzwerkverbindung (Partitionierung) das System entweder die aktuellsten Daten garantieren und einige Anfragen zurückstellen muss (Konsistenz) oder um den Preis veralteter Daten sofort auf jede Anfrage antworten muss (Verfügbarkeit).
 
-**Worin liegt der Vorteil von Raft gegenüber Paxos?**
+**Warum wird der Raft-Konsensalgorithmus in verteilten Systemen eingesetzt?**
 
-Raft wurde gezielt daraufhin entworfen, für Softwareentwickler leicht verständlich und fehlerfrei implementierbar zu sein.
+Er wird verwendet, um sicherzustellen, dass selbst dann, wenn einige der Server im Netzwerk abstürzen, die verbleibende Mehrheit der Knoten (Quorum) einen neuen Anführer unter sich wählen und die Datenbankprotokolle verlustfrei im gesamten Cluster synchronisiert werden können.
 
-**Wie funktioniert das Saga-Pattern?**
+**Warum wird das Saga-Muster dem Two-Phase Commit (2PC) vorgezogen?**
 
-Es unterteilt Geschäftsprozesse in lokale Transaktionen und führt bei Fehlern Ausgleichsoperationen durch, um globale Datenbanksperren zu vermeiden.
+2PC (Two-Phase Commit) sperrt Datenbankressourcen auf verteilten Knoten und blockiert das gesamte System, wenn eine Maschine nicht antwortet. Das Saga-Muster hingegen nutzt asynchrone Ereignisse und Kompensationsschritte, um die hohe Verfügbarkeit des Systems aufrechtzuerhalten.
 
 ## Verwandte Begriffe
 
@@ -84,7 +82,7 @@ Es unterteilt Geschäftsprozesse in lokale Transaktionen und führt bei Fehlern 
 - [Elasticsearch](https://trescout.com/de/discover/elasticsearch/)
 - [Cassandra](https://trescout.com/de/discover/cassandra/)
 
-Diese Erklärung wurde in einfacher Sprache für TreScout mit KI verfasst und aus dem türkischen Original **automatisch übersetzt** · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/distributed/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/distributed/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/distributed/

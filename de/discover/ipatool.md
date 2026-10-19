@@ -75,6 +75,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Xcode](https://trescout.com/de/dictionary/xcode/)
 - [Sideloading](https://trescout.com/de/dictionary/sideloading/)
+- [Jailbreak](https://trescout.com/de/dictionary/jailbreak/)
 - [Binary](https://trescout.com/de/dictionary/binary/)
 - [CI/CD](https://trescout.com/de/dictionary/ci-cd/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
