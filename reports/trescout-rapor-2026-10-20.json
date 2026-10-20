@@ -1,0 +1,901 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-20",
+  "capturedAt": "2026-10-20T09:26:41.424Z",
+  "editorial": "Bugün yazılım dünyasında hem açık kaynaklı yapay zekâ modellerinin verimlilik odaklı güncellemeleri hem de robotik sistemlerin fiziksel dünyayı anlama yeteneklerini ölçen yeni kıyaslama setleri (benchmarks) öne çıkıyor. Teknik tartışmalar ise yapay zekâ araçlarının iş arama süreçlerine etkisinden ziyade programlamanın temelindeki zanaatkârlık ruhuna duyulan özleme odaklanıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "MadsLorentzen/ai-job-search, Claude Code üzerinde çalışan ve iş arama sürecini otomatikleştiren bir yapay zekâ çerçevesi (framework). Kullanıcıların kendi bilgisayarlarında çalıştırabildiği bu araç, iş ilanlarını değerlendirme, öz geçmişleri kişiselleştirme, ön yazı oluşturma ve mülakat hazırlığı yapma süreçlerine destek oluyor.",
+          "meta": "Python · ★ 58.680 · +3.856 bugün",
+          "snapshot": {
+            "sourceId": "MadsLorentzen/ai-job-search",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 58680,
+              "engagementCount": 3856,
+              "rank": 1,
+              "extra": {
+                "starsToday": 3856
+              }
+            },
+            "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "Anomalyco tarafından geliştirilen opencode, yazılım geliştirme süreçlerini otomatize etmeyi amaçlayan açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık olan) bir kodlama ajanıdır. TypeScript diliyle hazırlanan bu proje, geliştiricilere yazılım üretiminde yardımcı olacak bir araç sunar.",
+          "meta": "TypeScript · ★ 218.257 · +1.311 bugün",
+          "snapshot": {
+            "sourceId": "anomalyco/opencode",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 218257,
+              "engagementCount": 1311,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1311
+              }
+            },
+            "description": "The open source coding agent."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Rust diliyle geliştirilen akitaonrails/ai-memory, kodlama odaklı yapay zekâ arayüzleri için uzun süreli bellek çözümü sunuyor. Farklı yapay zekâ sağlayıcıları arasında veri aktarımını kolaylaştırmayı hedefliyor.",
+          "meta": "Rust · ★ 11.667 · +666 bugün",
+          "snapshot": {
+            "sourceId": "akitaonrails/ai-memory",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11667,
+              "engagementCount": 666,
+              "rank": 3,
+              "extra": {
+                "starsToday": 666
+              }
+            },
+            "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI, görsel oluşturma modelleri (diffusion models) için düğüm tabanlı bir arayüz sunan modüler bir grafik kullanıcı arayüzü ve uygulama programlama arayüzüdür (API). Yerel cihazlarda çalışan en hızlı çıkarım motorlarından biri olarak görüntü işleme süreçlerini yönetmek için kullanılır.",
+          "meta": "Python · ★ 140.219 · +1.011 bugün",
+          "snapshot": {
+            "sourceId": "Comfy-Org/ComfyUI",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 140219,
+              "engagementCount": 1011,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1011
+              }
+            },
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "TypeScript ile geliştirilen ruflo, otonom iş akışlarını koordine etmek ve çok oyunculu yapay zekâ sürüleri (swarms) oluşturmak için tasarlanmış bir çerçevedir. Sistem; uyarlanabilir bellek, kendi kendine öğrenme yeteneği ve yapay zekânın güncel verilerden bilgi almasını sağlayan getirme temelli üretim (RAG) entegrasyonu sunar.",
+          "meta": "TypeScript · ★ 77.456 · +564 bugün",
+          "snapshot": {
+            "sourceId": "ruvnet/ruflo",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 77456,
+              "engagementCount": 564,
+              "rank": 5,
+              "extra": {
+                "starsToday": 564
+              }
+            },
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "stablyai/orca, Grok Bot ve Claude Code gibi çeşitli kodlama ajanlarını (coding agents) tek bir arayüz üzerinden çalıştırmanıza olanak tanıyan bir platformdur. Masaüstü, mobil ve uzak çalışma zamanı (remote runtime) seçenekleriyle kullanıcıların kendi abonelikleri üzerinden ajan filolarını yönetmelerini sağlar.",
+          "meta": "TypeScript · ★ 98.851 · +1.590 bugün",
+          "snapshot": {
+            "sourceId": "stablyai/orca",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 98851,
+              "engagementCount": 1590,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1590
+              }
+            },
+            "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "summary": "headroomlabs-ai/headroom, büyük dil modellerine (LLM) gönderilen araç çıktılarını, günlükleri ve RAG parçalarını sıkıştırarak token kullanımını azaltan bir Python kütüphanesidir. Kodlama ajanları ve JSON verileri için token tasarrufu sağlayan bu araç, aynı zamanda bir vekil sunucu (proxy) ve MCP sunucusu olarak çalışabilir.",
+          "meta": "Python · ★ 76.464 · +310 bugün",
+          "snapshot": {
+            "sourceId": "headroomlabs-ai/headroom",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 76464,
+              "engagementCount": 310,
+              "rank": 7,
+              "extra": {
+                "starsToday": 310
+              }
+            },
+            "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
+          }
+        },
+        {
+          "title": "withmarbleapp/os-taxonomy",
+          "url": "https://github.com/withmarbleapp/os-taxonomy",
+          "summary": "withmarbleapp/os-taxonomy, JavaScript diliyle geliştirilmiş ve işletim sistemi sınıflandırmalarını düzenleyen bir kütüphanedir. Yazılım geliştiricilerin farklı işletim sistemi verilerini standart bir yapıda tanımlamasına olanak sağlar.",
+          "meta": "JavaScript · ★ 6.389 · +284 bugün",
+          "snapshot": {
+            "sourceId": "withmarbleapp/os-taxonomy",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 6389,
+              "engagementCount": 284,
+              "rank": 8,
+              "extra": {
+                "starsToday": 284
+              }
+            }
+          }
+        },
+        {
+          "title": "Kruk2/jasna",
+          "url": "https://github.com/Kruk2/jasna",
+          "summary": "Kruk2/jasna, videoları iyileştirmek için geliştirilmiş bir video onarım aracıdır (video restoration tool). Python diliyle yazılan bu yazılım, görüntü kalitesini yükseltmeye yönelik işlevler sunar.",
+          "meta": "Python · ★ 3.158 · +498 bugün",
+          "snapshot": {
+            "sourceId": "Kruk2/jasna",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3158,
+              "engagementCount": 498,
+              "rank": 9,
+              "extra": {
+                "starsToday": 498
+              }
+            },
+            "description": "Video restoration tool"
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything, yazılım araçlarını yapay zekâ ajanları için uyumlu hale getirmeyi amaçlayan bir komut satırı arayüzü (CLI) projesidir. Tüm yazılımları ajan tabanlı (agent-native) çalışma biçimine dönüştürerek bu araçların yapay zekâ sistemleriyle etkileşimini kolaylaştırmayı hedefler.",
+          "meta": "Python · ★ 55.490 · +606 bugün",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 55490,
+              "engagementCount": 606,
+              "rank": 10,
+              "extra": {
+                "starsToday": 606
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Anthropics tarafından geliştirilen Claude Code, terminal üzerinde çalışan ve doğal dil komutlarıyla kod tabanını analiz ederek rutin görevleri, karmaşık kod açıklamalarını ve git iş akışlarını yöneten bir ajan tabanlı kodlama aracıdır. TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmıştır.",
+          "meta": "TypeScript · ★ 152.849 · +167 bugün",
+          "snapshot": {
+            "sourceId": "anthropics/claude-code",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 152849,
+              "engagementCount": 167,
+              "rank": 11,
+              "extra": {
+                "starsToday": 167
+              }
+            },
+            "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+          }
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Finansal piyasaların dilini anlamak üzere geliştirilen temel model (foundation model) Kronos, bu alandaki verileri işlemek için tasarlanmıştır. Finansal piyasa analizlerinde kullanılmak üzere Python diliyle oluşturulmuştur.",
+          "meta": "Python · ★ 41.956 · +363 bugün",
+          "snapshot": {
+            "sourceId": "shiyu-coder/Kronos",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 41956,
+              "engagementCount": 363,
+              "rank": 12,
+              "extra": {
+                "starsToday": 363
+              }
+            },
+            "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "It's still ok to enjoy programming",
+          "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+          "summary": "Yazılım geliştirme süreçlerinde artan karmaşıklığa ve endüstriyel baskılara rağmen kod yazmanın temel bir zevk kaynağı olarak korunabileceği vurgulanıyor. Programlamanın sadece bir meslek değil, aynı zamanda yaratıcı bir uğraş olduğu hatırlatılıyor.",
+          "meta": "593 oy · 517 yorum",
+          "snapshot": {
+            "sourceId": "50134472",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 593,
+              "engagementCount": 517,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50134472",
+                  "popularity": 593,
+                  "engagementCount": 517
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-17T19:53:20Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50134472"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50134472",
+              "popularity": 593,
+              "engagementCount": 517
+            }
+          ]
+        },
+        {
+          "title": "Wine ported to OpenBSD",
+          "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+          "summary": "Windows uygulamalarını Unix benzeri sistemlerde çalıştırmaya yarayan uyumluluk katmanı Wine, artık OpenBSD işletim sistemine taşındı. Bu gelişme, OpenBSD kullanıcılarının Windows tabanlı yazılımları kendi sistemlerinde çalıştırmasına olanak tanıyor.",
+          "meta": "563 oy · 192 yorum",
+          "snapshot": {
+            "sourceId": "50152307",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 563,
+              "engagementCount": 192,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50152307",
+                  "popularity": 563,
+                  "engagementCount": 192
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-19T13:35:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50152307"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50152307",
+              "popularity": 563,
+              "engagementCount": 192
+            }
+          ]
+        },
+        {
+          "title": "I built a drone with only one motor [video]",
+          "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+          "summary": "Tek bir motor kullanarak uçabilen bir insansız hava aracı (drone) geliştirildi. Söz konusu proje, geleneksel çok motorlu tasarımlara alternatif bir mekanik yapı sunuyor.",
+          "meta": "538 oy · 110 yorum",
+          "snapshot": {
+            "sourceId": "50150089",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 538,
+              "engagementCount": 110,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50150089",
+                  "popularity": 538,
+                  "engagementCount": 110
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-19T09:05:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50150089"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50150089",
+              "popularity": 538,
+              "engagementCount": 110
+            }
+          ]
+        },
+        {
+          "title": "MiniMax M3.1 Flash",
+          "url": "https://www.minimax.io/blog/minimax-m31f",
+          "summary": "MiniMax M3.1 Flash, yüksek hız ve verimlilik odaklı geliştirilen yeni bir yapay zekâ modeli. Şirketin sunduğu bu çözüm, büyük dil modelleri (large language models) arasında hızlı yanıt süreleri sağlamayı amaçlıyor.",
+          "meta": "464 oy · 198 yorum",
+          "snapshot": {
+            "sourceId": "50154540",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 464,
+              "engagementCount": 198,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50154540",
+                  "popularity": 464,
+                  "engagementCount": 198
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-19T16:39:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50154540"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50154540",
+              "popularity": 464,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Starcraft: Ashfall",
+          "url": "https://starcraft-shooter-2026.pages.dev/",
+          "summary": "Starcraft: Ashfall, popüler strateji oyunu Starcraft evreninde geçen bir nişancı oyunu (shooter) projesidir. Kullanıcıların tarayıcı üzerinden erişebildiği bu çalışma, serinin dünyasını farklı bir oyun türüyle deneyimlemeyi amaçlıyor.",
+          "meta": "454 oy · 141 yorum",
+          "snapshot": {
+            "sourceId": "50147233",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 454,
+              "engagementCount": 141,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50147233",
+                  "popularity": 454,
+                  "engagementCount": 141
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-19T01:18:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50147233"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50147233",
+              "popularity": 454,
+              "engagementCount": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Hugging Face üzerinde paylaşılan deepseek-ai/DeepSeek-V4.1-Flash-1017, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir yapay zekâ modelidir. Model, görüntü ve metin verilerini birleştirerek çözümleme yapma yeteneği sunar.",
+          "meta": "♥ 1.793 · 17.924 indirme",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-20T09:26:41.565Z",
+            "metadata": {
+              "popularity": 1793,
+              "engagementCount": 17924,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1614,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "Black Forest Labs tarafından geliştirilen black-forest-labs/flux-3-image-klein-comfy, görselden görsele dönüştürme (image-to-image) işlemleri için tasarlanmış bir yapay zekâ modelidir. Model, ComfyUI gibi görsel tabanlı iş akışı araçlarıyla uyumlu çalışacak şekilde yapılandırılmıştır.",
+          "meta": "♥ 1.019 · 393.062 indirme",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-20T09:26:41.565Z",
+            "metadata": {
+              "popularity": 1019,
+              "engagementCount": 393062,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 782,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "fishaudio/drama-3",
+          "url": "https://huggingface.co/fishaudio/drama-3",
+          "summary": "Hugging Face üzerinde paylaşılan fishaudio/drama-3, metni konuşmaya dönüştüren (text-to-speech) bir yapay zekâ modelidir. Kullanıcıların yazılı içerikleri sesli çıktıya dönüştürmesine olanak tanır.",
+          "meta": "♥ 789 · 11.795 indirme",
+          "snapshot": {
+            "sourceId": "fishaudio/drama-3",
+            "capturedAt": "2026-10-20T09:26:41.565Z",
+            "metadata": {
+              "popularity": 789,
+              "engagementCount": 11795,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 756,
+                "pipelineTag": "text-to-speech",
+                "tags": [
+                  "safetensors",
+                  "fish_omni",
+                  "fish-audio",
+                  "text-to-speech",
+                  "multi-speaker",
+                  "audio-editing",
+                  "emotional-speech-generation",
+                  "zh",
+                  "en",
+                  "ja",
+                  "ko",
+                  "es",
+                  "pt",
+                  "ar",
+                  "ru",
+                  "fr",
+                  "de",
+                  "sv",
+                  "it",
+                  "tr",
+                  "no",
+                  "nl",
+                  "cy",
+                  "eu",
+                  "ca",
+                  "da",
+                  "gl",
+                  "ta",
+                  "hu",
+                  "fi",
+                  "pl",
+                  "et",
+                  "hi",
+                  "la",
+                  "ur",
+                  "th",
+                  "vi",
+                  "jw",
+                  "bn",
+                  "yo",
+                  "sl",
+                  "cs",
+                  "sw",
+                  "nn",
+                  "he",
+                  "ms",
+                  "uk",
+                  "id",
+                  "kk",
+                  "bg",
+                  "lv",
+                  "my",
+                  "tl",
+                  "sk",
+                  "ne",
+                  "fa",
+                  "af",
+                  "el",
+                  "bo",
+                  "hr",
+                  "ro",
+                  "sn",
+                  "mi",
+                  "yi",
+                  "am",
+                  "be",
+                  "km",
+                  "is",
+                  "az",
+                  "sd",
+                  "br",
+                  "sq",
+                  "ps",
+                  "mn",
+                  "ht",
+                  "ml",
+                  "sr",
+                  "sa",
+                  "te",
+                  "ka",
+                  "bs",
+                  "pa",
+                  "lt",
+                  "kn",
+                  "si",
+                  "hy",
+                  "mr",
+                  "as",
+                  "gu",
+                  "fo",
+                  "arxiv:2610.18010",
+                  "license:other",
+                  "bsgemm-moe",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-speech model"
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Google tarafından geliştirilen embeddinggemma-2, metinleri sayısal vektörlere dönüştüren bir öznitelik çıkarımı (feature-extraction) modelidir. Bu model, verilerin yapay zekâ sistemleri tarafından işlenmesini sağlayan temsil öğrenme süreçlerinde kullanılır.",
+          "meta": "♥ 2.736 · 167.750 indirme",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-20T09:26:41.565Z",
+            "metadata": {
+              "popularity": 2736,
+              "engagementCount": 167750,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 579,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "feature-extraction model"
+          },
+          "streakDays": 14
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "jialinyyzz/humanizer, metin üretimi (text-generation) gerçekleştiren bir yapay zekâ modelidir. Hugging Face platformu üzerinde barındırılan bu model, kullanıcıların metin oluşturma süreçlerinde kullanabileceği bir araç olarak sunulmaktadır.",
+          "meta": "♥ 2.009 · 109.937 indirme",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-20T09:26:41.565Z",
+            "metadata": {
+              "popularity": 2009,
+              "engagementCount": 109937,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 566,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            },
+            "description": "text-generation model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "RealityBench: Simulated Environments to Evaluate a Vision Language Model's Ability to Document Human Physical Work",
+          "url": "https://huggingface.co/papers/2610.14397",
+          "summary": "Hugging Face tarafından paylaşılan RealityBench, görsel dil modellerinin (vision language models) insan fiziksel çalışmalarını belgeleme becerilerini ölçmek için tasarlanmış simüle edilmiş ortamlar sunuyor. Bu çalışma, fiziksel iş verilerinin kısıtlılığı ve değişkenliği nedeniyle zorluk yaşayan yapay zekâ ajanlarının, çalışanların faaliyetlerini anlama yeteneğini değerlendirmeyi amaçlıyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.14397",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.14397",
+                "publishedAt": "2026-10-09T00:00:00.000Z"
+              }
+            },
+            "description": "Augmenting worker capabilities in the physical world through guidance has been a decades-long goal for AI agents. One key supporting capability is to understand what the worker is doing, seeing through the human's camera or smart glasses, and assist them in documentation. Despite advances in vision language models, their capabilities in these settings remain uncertain and are challenging to benchmark because most physical work data is proprietary, and involves too much variability to study in a "
+          }
+        },
+        {
+          "title": "RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models",
+          "url": "https://huggingface.co/papers/2610.26663",
+          "summary": "RoboValue, robotik değer modellerinin (robotic value models) hem simülasyon hem de gerçek dünya ortamlarındaki performansını ölçmek için geliştirilmiş detaylı bir kıyaslama (benchmark) sistemidir. Söz konusu sistem, görsel gözlemler ve talimatlar üzerinden görev yürütme başarısını değerlendiren modelleri dört farklı yetenek boyutuyla analiz eder.",
+          "meta": "3 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.26663",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26663",
+                "publishedAt": "2026-10-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/RoboValue-Benchmark/RoboValue",
+                "githubStars": 13
+              }
+            },
+            "description": "Robotic value models assess task execution from visual observations and instructions, providing feedback for policy learning and execution monitoring. However, existing evaluations cover only selected aspects of execution understanding, leaving the reliability of value feedback insufficiently tested. We introduce RoboValue, a fine-grained sim-and-real benchmark for unified evaluation of robotic value models. Its framework evaluates four complementary capability dimensions through shared interfac"
+          }
+        },
+        {
+          "title": "Harnessing Textual Refusal Directions for Multimodal Safety",
+          "url": "https://huggingface.co/papers/2606.31876",
+          "summary": "Hugging Face üzerinde yayımlanan makale, büyük dil modellerinin (LLM) temelinden elde edilen metinsel ret yönelimlerinin görüntü ve video gibi farklı kiplerde (modality) güvenlik sağlamak için kullanılıp kullanılamayacağını inceliyor. Çalışma, çok modlu büyük dil modellerinde (MLLM) güvenlik uyumunu sağlamak için gereken verilerin toplanmasındaki zorlukları ve etik sorunları aşmayı hedefliyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2606.31876",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2606.31876",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/Moreno98/MARS",
+                "githubStars": 0
+              }
+            },
+            "description": "Safety in Multimodal Large Language Models (MLLMs) depends on unsafe multimodal data for post-training alignment or activation steering. However, such data is hard to collect, must be gathered anew for each modality, and its collection and distribution raise ethical and legal concerns. In this work, we relax this constraint and investigate whether textual refusal directions, extracted directly from the LLM backbone, generalize across modalities (i.e., image, video). Preliminary findings confirm "
+          }
+        },
+        {
+          "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On",
+          "url": "https://huggingface.co/papers/2610.25060",
+          "summary": "Hugging Face tarafından paylaşılan makale, güvenlik kıyaslamalarının (safety benchmarks) nesnel bir özellikten ziyade modelin eğitildiği politika tanımlarına dayandığını savunuyor. Çalışma, aynı istem setinin farklı tanımlarla etiketlenmesinin yapay zekâ modellerindeki güvenlik denetleyicilerinin (guardrail classifiers) sonuçlarını nasıl değiştirdiğini inceliyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.25060",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.25060",
+                "publishedAt": "2026-10-18T00:00:00.000Z"
+              }
+            },
+            "description": "A guardrail classifier is reported as if unsafe were a property of text. It is not: it is a property of a policy, and the policy enters the model through its labels. We exploit an accident of an industrial deployment in which the same ~53k prompts were labelled twice, under two operational definitions (\"is this a request for harmful content?\" and \"would a moderator block this?\"), and used to train ten guardrail arms sharing architecture, codebase and optimiser family, at two model scales. First,"
+          }
+        },
+        {
+          "title": "A Conditional No-Hair Theorem for Transformers: How Language Models Forget Their Prompt",
+          "url": "https://huggingface.co/papers/2610.24133",
+          "summary": "Hugging Face tarafından paylaşılan makale, öz yinelemeli (autoregressive) transformer modellerinin üretilen her yeni belirteçle (token) birlikte istemi (prompt) unutma sürecini inceliyor. Araştırma, gizli durumlar (hidden states) arasındaki farkın bir güç yasası (power law) ile azaldığını ve eğitilmiş modellerin istemleri hızla unuttuğunu ortaya koyuyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.24133",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.24133",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShuyangenFrance/no-hair-transformers",
+                "githubStars": 0
+              }
+            },
+            "description": "We ask how much an autoregressive transformer retains of its prompt after generating t tokens. Consider two different prompts followed by the same continuation text, so that any difference in their hidden states comes from the prompt alone, and we find that the distance between their hidden states decays approximately as a power law t^{-α}, where α=1 is the rate at which a fixed prompt's share of uniform attention shrinks and smaller values mean longer memory. Trained models forget fast (αapprox"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken belirli bir düzen ve yapı sağlayan, işleri kolaylaştıran hazır kod kütüphaneleri ve kurallar bütünü."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Gürültülü veriden yola çıkarak yüksek kaliteli görseller veya içerikler üretebilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "API",
+      "explanation": "Farklı yazılımların birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan köprü görevi gören arayüz."
+    },
+    {
+      "term": "swarms",
+      "explanation": "Birbirleriyle iş birliği yaparak karmaşık görevleri yerine getiren çok sayıda yapay zekâ biriminden oluşan grup."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın kendi eğitim verisi dışında güncel veya özel kaynaklardan bilgi çekerek daha doğru cevaplar üretmesini sağlayan yöntem."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Yazılım geliştirme süreçlerini otomatikleştiren, kod yazabilen ve hata ayıklayabilen yapay zekâ yazılımları."
+    },
+    {
+      "term": "remote runtime",
+      "explanation": "Uygulamaların yerel bilgisayar yerine uzak bir sunucu üzerinde çalıştırılmasını sağlayan ortam."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Kullanıcı ile internet veya başka bir sunucu arasında köprü görevi gören, trafiği yöneten aracı sunucu."
+    },
+    {
+      "term": "video restoration tool",
+      "explanation": "Eski veya düşük kaliteli videoları netleştirip görüntü kalitesini artıran yazılım."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Doğrudan yapay zekâ ajanlarının kullanımı için tasarlanmış ve onların çalışma biçimine uyumlu olan sistem."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Çok geniş veri setleriyle eğitilmiş, birçok farklı görevi yerine getirebilen kapsamlı yapay zekâ modeli."
+    },
+    {
+      "term": "drone",
+      "explanation": "Uzaktan kumanda edilen veya kendi kendine uçabilen insansız hava aracı."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "shooter",
+      "explanation": "Oyuncunun karakteri yöneterek hedeflere ateş ettiği bir oyun türü."
+    }
+  ]
+}

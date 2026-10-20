@@ -1,0 +1,406 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-20",
+  "capturedAt": "2026-10-20T09:26:41.424Z",
+  "editorial": "Dieser Bericht enthält die Trends, die heute zum ersten Mal hervorgehoben wurden, ohne die Einträge zu wiederholen, die in den regulären Berichten der letzten 30 Tage enthalten waren.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "summary": "headroomlabs-ai/headroom ist eine Python-Bibliothek, die den Token-Verbrauch reduziert, indem sie Tool-Ausgaben, Protokolle und RAG-Fragmente komprimiert, die an große Sprachmodelle (LLMs) gesendet werden. Dieses Tool, das Token für Coding-Agents und JSON-Daten einspart, kann auch als Proxy und MCP-Server fungieren.",
+          "meta": "Python · ★ 76.464 · +310 heute",
+          "snapshot": {
+            "sourceId": "headroomlabs-ai/headroom",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 76464,
+              "engagementCount": 310,
+              "rank": 7,
+              "extra": {
+                "starsToday": 310
+              }
+            },
+            "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
+          }
+        },
+        {
+          "title": "withmarbleapp/os-taxonomy",
+          "url": "https://github.com/withmarbleapp/os-taxonomy",
+          "summary": "withmarbleapp/os-taxonomy ist eine in JavaScript entwickelte Bibliothek, die Betriebssystemklassifizierungen organisiert. Sie ermöglicht es Softwareentwicklern, verschiedene Betriebssystemdaten in einer standardisierten Struktur zu definieren.",
+          "meta": "JavaScript · ★ 6.389 · +284 heute",
+          "snapshot": {
+            "sourceId": "withmarbleapp/os-taxonomy",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 6389,
+              "engagementCount": 284,
+              "rank": 8,
+              "extra": {
+                "starsToday": 284
+              }
+            }
+          }
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, ein für das Verständnis der Sprache der Finanzmärkte entwickeltes Basismodell (Foundation Model), wurde für die Verarbeitung von Daten in diesem Bereich konzipiert. Es wurde mit der Programmiersprache Python für den Einsatz in der Finanzmarktanalyse erstellt.",
+          "meta": "Python · ★ 41.956 · +363 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "shiyu-coder/Kronos",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 41956,
+              "engagementCount": 363,
+              "rank": 12,
+              "extra": {
+                "starsToday": 363
+              }
+            },
+            "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "It's still ok to enjoy programming",
+          "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+          "summary": "Trotz der zunehmenden Komplexität und des industriellen Drucks in Softwareentwicklungsprozessen wird betont, dass das Programmieren als grundlegende Quelle der Freude bewahrt werden kann. Es wird daran erinnert, dass Programmierung nicht nur ein Beruf, sondern auch eine kreative Tätigkeit ist.",
+          "meta": "593 Punkte · 517 Kommentare",
+          "snapshot": {
+            "sourceId": "50134472",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 593,
+              "engagementCount": 517,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50134472",
+                  "popularity": 593,
+                  "engagementCount": 517
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-17T19:53:20Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50134472"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50134472",
+              "popularity": 593,
+              "engagementCount": 517
+            }
+          ]
+        },
+        {
+          "title": "Wine ported to OpenBSD",
+          "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+          "summary": "Wine, eine Kompatibilitätsschicht zum Ausführen von Windows-Anwendungen auf Unix-ähnlichen Systemen, wurde nun auf das Betriebssystem OpenBSD portiert. Diese Entwicklung ermöglicht es OpenBSD-Benutzern, Windows-basierte Software auf ihren eigenen Systemen auszuführen.",
+          "meta": "563 Punkte · 192 Kommentare",
+          "snapshot": {
+            "sourceId": "50152307",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 563,
+              "engagementCount": 192,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50152307",
+                  "popularity": 563,
+                  "engagementCount": 192
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-19T13:35:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50152307"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50152307",
+              "popularity": 563,
+              "engagementCount": 192
+            }
+          ]
+        },
+        {
+          "title": "I built a drone with only one motor [video]",
+          "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+          "summary": "Es wurde eine Drohne entwickelt, die mit nur einem einzigen Motor fliegen kann. Das Projekt bietet eine mechanische Struktur als Alternative zu herkömmlichen Mehrmotoren-Designs.",
+          "meta": "538 Punkte · 110 Kommentare",
+          "snapshot": {
+            "sourceId": "50150089",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 538,
+              "engagementCount": 110,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50150089",
+                  "popularity": 538,
+                  "engagementCount": 110
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-19T09:05:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50150089"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50150089",
+              "popularity": 538,
+              "engagementCount": 110
+            }
+          ]
+        },
+        {
+          "title": "MiniMax M3.1 Flash",
+          "url": "https://www.minimax.io/blog/minimax-m31f",
+          "summary": "MiniMax M3.1 Flash ist ein neues KI-Modell, das auf hohe Geschwindigkeit und Effizienz ausgerichtet ist. Diese vom Unternehmen angebotene Lösung zielt darauf ab, schnelle Antwortzeiten bei großen Sprachmodellen (Large Language Models) zu gewährleisten.",
+          "meta": "464 Punkte · 198 Kommentare",
+          "snapshot": {
+            "sourceId": "50154540",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 464,
+              "engagementCount": 198,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50154540",
+                  "popularity": 464,
+                  "engagementCount": 198
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-19T16:39:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50154540"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50154540",
+              "popularity": 464,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Starcraft: Ashfall",
+          "url": "https://starcraft-shooter-2026.pages.dev/",
+          "summary": "Starcraft: Ashfall ist ein Shooter-Projekt, das im Universum des beliebten Strategiespiels Starcraft angesiedelt ist. Dieses Projekt, auf das Benutzer über den Browser zugreifen können, zielt darauf ab, die Welt der Serie in einem anderen Spielgenre zu erleben.",
+          "meta": "454 Punkte · 141 Kommentare",
+          "snapshot": {
+            "sourceId": "50147233",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 454,
+              "engagementCount": 141,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50147233",
+                  "popularity": 454,
+                  "engagementCount": 141
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-19T01:18:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50147233"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50147233",
+              "popularity": 454,
+              "engagementCount": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "RealityBench: Simulated Environments to Evaluate a Vision Language Model's Ability to Document Human Physical Work",
+          "url": "https://huggingface.co/papers/2610.14397",
+          "summary": "RealityBench, bereitgestellt von Hugging Face, bietet simulierte Umgebungen, die darauf ausgelegt sind, die Fähigkeiten von Vision-Language-Modellen bei der Dokumentation menschlicher körperlicher Arbeit zu messen. Diese Arbeit zielt darauf ab, die Fähigkeit von KI-Agenten zu bewerten, die Aktivitäten von Arbeitnehmern zu verstehen, was aufgrund der Begrenztheit und Variabilität von physischen Arbeitsdaten eine Herausforderung darstellt.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.14397",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.14397",
+                "publishedAt": "2026-10-09T00:00:00.000Z"
+              }
+            },
+            "description": "Augmenting worker capabilities in the physical world through guidance has been a decades-long goal for AI agents. One key supporting capability is to understand what the worker is doing, seeing through the human's camera or smart glasses, and assist them in documentation. Despite advances in vision language models, their capabilities in these settings remain uncertain and are challenging to benchmark because most physical work data is proprietary, and involves too much variability to study in a "
+          }
+        },
+        {
+          "title": "RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models",
+          "url": "https://huggingface.co/papers/2610.26663",
+          "summary": "RoboValue ist ein detailliertes Benchmark-System, das entwickelt wurde, um die Leistung von robotischen Wertmodellen (robotic value models) sowohl in Simulations- als auch in realen Umgebungen zu messen. Das System analysiert Modelle, die den Erfolg der Aufgabenausführung anhand visueller Beobachtungen und Anweisungen bewerten, anhand von vier verschiedenen Fähigkeitsdimensionen.",
+          "meta": "3 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.26663",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26663",
+                "publishedAt": "2026-10-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/RoboValue-Benchmark/RoboValue",
+                "githubStars": 13
+              }
+            },
+            "description": "Robotic value models assess task execution from visual observations and instructions, providing feedback for policy learning and execution monitoring. However, existing evaluations cover only selected aspects of execution understanding, leaving the reliability of value feedback insufficiently tested. We introduce RoboValue, a fine-grained sim-and-real benchmark for unified evaluation of robotic value models. Its framework evaluates four complementary capability dimensions through shared interfac"
+          }
+        },
+        {
+          "title": "Harnessing Textual Refusal Directions for Multimodal Safety",
+          "url": "https://huggingface.co/papers/2606.31876",
+          "summary": "Der auf Hugging Face veröffentlichte Artikel untersucht, ob textuelle Ablehnungstendenzen, die aus den Grundlagen großer Sprachmodelle (LLM) gewonnen wurden, genutzt werden können, um Sicherheit in verschiedenen Modalitäten wie Bild und Video zu gewährleisten. Die Studie zielt darauf ab, die Schwierigkeiten und ethischen Probleme bei der Datenerfassung zu überwinden, die für die Sicherheitskonformität in multimodalen großen Sprachmodellen (MLLM) erforderlich sind.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2606.31876",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2606.31876",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/Moreno98/MARS",
+                "githubStars": 0
+              }
+            },
+            "description": "Safety in Multimodal Large Language Models (MLLMs) depends on unsafe multimodal data for post-training alignment or activation steering. However, such data is hard to collect, must be gathered anew for each modality, and its collection and distribution raise ethical and legal concerns. In this work, we relax this constraint and investigate whether textual refusal directions, extracted directly from the LLM backbone, generalize across modalities (i.e., image, video). Preliminary findings confirm "
+          }
+        },
+        {
+          "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On",
+          "url": "https://huggingface.co/papers/2610.25060",
+          "summary": "Der von Hugging Face geteilte Artikel argumentiert, dass Sicherheits-Benchmarks (safety benchmarks) eher auf den Richtliniendefinitionen basieren, mit denen das Modell trainiert wurde, als auf einer objektiven Eigenschaft. Die Studie untersucht, wie die Kennzeichnung desselben Prompt-Sets mit unterschiedlichen Definitionen die Ergebnisse von Sicherheits-Klassifikatoren (guardrail classifiers) in KI-Modellen verändert.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.25060",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.25060",
+                "publishedAt": "2026-10-18T00:00:00.000Z"
+              }
+            },
+            "description": "A guardrail classifier is reported as if unsafe were a property of text. It is not: it is a property of a policy, and the policy enters the model through its labels. We exploit an accident of an industrial deployment in which the same ~53k prompts were labelled twice, under two operational definitions (\"is this a request for harmful content?\" and \"would a moderator block this?\"), and used to train ten guardrail arms sharing architecture, codebase and optimiser family, at two model scales. First,"
+          }
+        },
+        {
+          "title": "A Conditional No-Hair Theorem for Transformers: How Language Models Forget Their Prompt",
+          "url": "https://huggingface.co/papers/2610.24133",
+          "summary": "Der von Hugging Face geteilte Artikel untersucht den Prozess, bei dem autoregressive Transformer-Modelle den Prompt mit jedem neu generierten Token vergessen. Die Forschung zeigt, dass die Differenz zwischen den verborgenen Zuständen (hidden states) nach einem Potenzgesetz (power law) abnimmt und trainierte Modelle Prompts schnell vergessen.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.24133",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.24133",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShuyangenFrance/no-hair-transformers",
+                "githubStars": 0
+              }
+            },
+            "description": "We ask how much an autoregressive transformer retains of its prompt after generating t tokens. Consider two different prompts followed by the same continuation text, so that any difference in their hidden states comes from the prompt alone, and we find that the distance between their hidden states decays approximately as a power law t^{-α}, where α=1 is the rate at which a fixed prompt's share of uniform attention shrinks and smaller values mean longer memory. Trained models forget fast (αapprox"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "RAG",
+      "explanation": "Eine Methode, die es der KI ermöglicht, Informationen aus aktuellen oder spezifischen Quellen außerhalb ihrer eigenen Trainingsdaten abzurufen, um genauere Antworten zu generieren."
+    },
+    {
+      "term": "LLM",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden, menschliche Sprache verstehen und Texte generieren können."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Ein Vermittlungsserver, der als Brücke zwischen dem Benutzer und dem Internet oder einem anderen Server fungiert und den Datenverkehr verwaltet."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Ein umfassendes KI-Modell, das mit sehr großen Datensätzen trainiert wurde und viele verschiedene Aufgaben ausführen kann."
+    },
+    {
+      "term": "drone",
+      "explanation": "Ein ferngesteuertes oder autonom fliegendes unbemanntes Luftfahrzeug."
+    },
+    {
+      "term": "large language models",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden, menschliche Sprache verstehen und Texte generieren können."
+    },
+    {
+      "term": "shooter",
+      "explanation": "Ein Spielgenre, bei dem der Spieler die Figur steuert und auf Ziele schießt."
+    }
+  ]
+}
