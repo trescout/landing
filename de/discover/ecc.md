@@ -2,17 +2,17 @@
 
 ECC; Claude Code ist ein umfassendes System, das Fähigkeiten, Instinkte, Speicheroptimierung und Sicherheitsscans in KI-Codierungstools wie Codex, Cursor und OpenCode einbringt. Anstelle einzelner Konfigurationsdateien bietet es eine vorgefertigte Ebene, die es dem Agenten ermöglicht, mit einer konsistenteren, sichereren und suchorientierteren Logik zu arbeiten.
 
-- ★ 270.891
+- ★ 284.483
 - JavaScript
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 270,891 → 284,483, neueste Version v2.2.3 (1. Oktober 2026).
 - **2. Oktober 2026:** Sterne 270,280 → 270,891, neueste Version v2.2.3 (1. Oktober 2026).
 - **1. Oktober 2026:** Sterne 267,980 → 270,280, neueste Version v2.2.2 (30. September 2026).
 - **27. September 2026:** Sterne 254,644 → 267,980, neueste Version v2.2.1 (8. September 2026).
-- **9. September 2026:** Sterne 245,070 → 254,644, neueste Version v2.2.1 (8. September 2026).
 
 ## Was es bringt
 

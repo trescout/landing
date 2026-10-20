@@ -2,16 +2,16 @@
 
 Jenkins is an open source continuous integration and continuous delivery server that automates software development processes. This Java-based platform offers a wide ecosystem of plugins to manage the compilation, testing and deployment phases of software projects.
 
-- ★ 26,648
+- ★ 26,682
 - Java
 - GitHub Trending · 2026-07-27
 
 ## Updates
 
+- **October 20, 2026:** Stars 26,648 → 26,682, latest release jenkins-2.587 (October 20, 2026).
 - **October 13, 2026:** Stars 26,620 → 26,648, latest release jenkins-2.586 (October 13, 2026).
 - **October 6, 2026:** Stars 26,603 → 26,620, latest release jenkins-2.585 (October 6, 2026).
 - **September 29, 2026:** Stars 26,590 → 26,603, latest release jenkins-2.584 (September 29, 2026).
-- **September 27, 2026:** Stars 26,531 → 26,590, latest release jenkins-2.583 (September 22, 2026).
 
 ## What you get
 

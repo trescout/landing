@@ -39,8 +39,8 @@ Local-First-Anwendungen können häufig verschlüsselt in der Cloud gesichert we
 - [Openhuman](https://trescout.com/de/discover/openhuman/)
 - [PI-Desktop](https://trescout.com/de/discover/pi-desktop/)
 - [Agentsview](https://trescout.com/de/discover/agentsview/)
-- [Wigolo](https://trescout.com/de/discover/wigolo/)
 - [Open Science](https://trescout.com/de/discover/open-science/)
+- [Wigolo](https://trescout.com/de/discover/wigolo/)
 - [Starnet](https://trescout.com/de/discover/starnet/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/local-first/)

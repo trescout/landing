@@ -51,14 +51,14 @@
     "slug": "ecc",
     "title": "ECC",
     "tagline": "Claude Code, Codex ve Cursor gibi yapay zekâ ajanlarına beceri, hafıza ve güvenlik katmanı ekleyin.",
-    "meta": "★ 270.891 · MIT",
+    "meta": "★ 284.483 · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 270891,
+    "stars": 284483,
     "image": "/assets/discover/og/ecc.webp",
     "headline": "Yapay zekâ ajanlarınıza güç katın",
     "last_review": "2026-10-20",
@@ -102,6 +102,13 @@
         "tarih": "2026-10-02",
         "yildiz": 270891,
         "onceki_yildiz": 270280,
+        "surum": "v2.2.3",
+        "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 284483,
+        "onceki_yildiz": 270891,
         "surum": "v2.2.3",
         "surum_tarihi": "2026-10-01"
       }
@@ -5905,7 +5912,7 @@
     "slug": "vibe-trading",
     "title": "Vibe-Trading",
     "tagline": "Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir alım satım ajanı (trading agent) sunuyor.",
-    "meta": "★ 34.287 · Python",
+    "meta": "★ 36.012 · Python",
     "image": "/assets/discover/og/vibe-trading.webp",
     "source": "GitHub",
     "date": "2026-06-04",
@@ -5913,7 +5920,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 34287,
+    "stars": 36012,
     "lite": false,
     "headline": "Yapay zekâ ile kişisel alım satım",
     "last_review": "2026-10-20",
@@ -5957,6 +5964,13 @@
         "tarih": "2026-09-29",
         "yildiz": 34287,
         "onceki_yildiz": 33083,
+        "surum": "v0.1.16",
+        "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 36012,
+        "onceki_yildiz": 34287,
         "surum": "v0.1.16",
         "surum_tarihi": "2026-09-29"
       }
@@ -6879,7 +6893,7 @@
     "slug": "agent-reach",
     "title": "Agent-Reach",
     "tagline": "Agent-Reach, yapay zekâ ajanlarına internetin tamamını tarama ve içerik okuma yeteneği kazandıran bir komut satırı arayüzü…",
-    "meta": "★ 95.262",
+    "meta": "★ 100.087",
     "image": "/assets/discover/og/agent-reach.webp",
     "source": "GitHub",
     "date": "2026-06-06",
@@ -6887,7 +6901,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 95262,
+    "stars": 100087,
     "lite": false,
     "headline": "Yapay zekâ ajanınıza internet yeteneği kazandırın",
     "cmds": {
@@ -6964,6 +6978,13 @@
         "tarih": "2026-10-10",
         "yildiz": 95262,
         "onceki_yildiz": 90240,
+        "surum": "v1.5.0",
+        "surum_tarihi": "2026-06-11"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 100087,
+        "onceki_yildiz": 95262,
         "surum": "v1.5.0",
         "surum_tarihi": "2026-06-11"
       }
@@ -10698,14 +10719,14 @@
     "slug": "puppeteer",
     "title": "Puppeteer",
     "tagline": "Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation)…",
-    "meta": "★ 95.695",
+    "meta": "★ 95.731",
     "image": "/assets/discover/og/puppeteer.webp",
     "source": "GitHub",
     "date": "2026-06-15",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 95695,
+    "stars": 95731,
     "lite": false,
     "headline": "Tarayıcıları kodla otomatik yönetin",
     "cmds": {
@@ -10800,6 +10821,13 @@
         "onceki_yildiz": 95670,
         "surum": "browsers-v3.2.5",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 95731,
+        "onceki_yildiz": 95695,
+        "surum": "puppeteer-core-v25.15.0",
+        "surum_tarihi": "2026-10-20"
       }
     ],
     "tagline_en": "Puppeteer is a browser automation system used to control Chrome and Firefox browsers.",
@@ -10913,7 +10941,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 30.189 · HTML",
+    "meta": "★ 30.335 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -10921,7 +10949,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 30189,
+    "stars": 30335,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-10-20",
@@ -11142,6 +11170,13 @@
         "onceki_yildiz": 30064,
         "surum": "agent-v0.9.1",
         "surum_tarihi": "2026-10-19"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 30335,
+        "onceki_yildiz": 30189,
+        "surum": "cua-spaces-v0.11.0",
+        "surum_tarihi": "2026-10-20"
       }
     ],
     "tagline_en": "CUA provides an open source infrastructure for computer-capable artificial intelligence agents.",
@@ -19819,7 +19854,7 @@
     "slug": "immich",
     "title": "Immich",
     "tagline": "Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya…",
-    "meta": "★ 116.286 · TypeScript",
+    "meta": "★ 116.727 · TypeScript",
     "image": "/assets/discover/og/immich.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -19827,7 +19862,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 116286,
+    "stars": 116727,
     "lite": false,
     "headline": "Kendi fotoğraf ve video arşivinizi yönetin",
     "last_review": "2026-10-20",
@@ -19887,6 +19922,13 @@
         "onceki_yildiz": 115826,
         "surum": "v3.3.3",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 116727,
+        "onceki_yildiz": 116286,
+        "surum": "v3.3.4",
+        "surum_tarihi": "2026-10-20"
       }
     ],
     "tagline_en": "Immich is a high-performance self-hosted media platform developed for managing photo and video files.",
@@ -28976,14 +29018,14 @@
     "slug": "jenkins",
     "title": "Jenkins",
     "tagline": "Jenkins, yazılım geliştirme süreçlerini otomatize eden açık kaynaklı bir sürekli entegrasyon (continuous integration) ve…",
-    "meta": "★ 26.648 · Java",
+    "meta": "★ 26.682 · Java",
     "image": "/assets/discover/og/jenkins.webp",
     "source": "GitHub",
     "date": "2026-07-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 26648,
+    "stars": 26682,
     "lite": false,
     "headline": "Yazılım süreçlerini otomatize eden sunucu",
     "last_review": "2026-10-20",
@@ -29064,6 +29106,13 @@
         "onceki_yildiz": 26620,
         "surum": "jenkins-2.586",
         "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 26682,
+        "onceki_yildiz": 26648,
+        "surum": "jenkins-2.587",
+        "surum_tarihi": "2026-10-20"
       }
     ],
     "tagline_en": "Jenkins is an open source continuous integration and…",
@@ -34354,7 +34403,7 @@
     "slug": "lifeos",
     "title": "LifeOS",
     "tagline": "TypeScript ile geliştirilen LifeOS, mevcut durumunuz ile ideal durumunuz arasındaki farkı kapatmanıza yardımcı olan bir…",
-    "meta": "★ 18.528 · TypeScript",
+    "meta": "★ 19.528 · TypeScript",
     "image": "/assets/discover/og/lifeos.webp",
     "source": "GitHub",
     "date": "2026-08-11",
@@ -34362,7 +34411,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 18528,
+    "stars": 19528,
     "lite": false,
     "headline": "Yapay zekâ destekli kişisel işletim sistemi",
     "tagline_en": "Developed with TypeScript, LifeOS is a software that helps you close the gap between your current situation and your ideal situation.",
@@ -34380,6 +34429,13 @@
         "tarih": "2026-08-15",
         "yildiz": 18528,
         "onceki_yildiz": 18047,
+        "surum": "v7.40.4",
+        "surum_tarihi": "2026-08-14"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 19528,
+        "onceki_yildiz": 18528,
         "surum": "v7.40.4",
         "surum_tarihi": "2026-08-14"
       }
@@ -36939,7 +36995,7 @@
     "slug": "openviking",
     "title": "OpenViking",
     "tagline": "Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı sunuyor.",
-    "meta": "★ 40.333 · Python",
+    "meta": "★ 40.425 · Python",
     "image": "/assets/discover/og/openviking.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -36947,7 +37003,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 40333,
+    "stars": 40425,
     "lite": false,
     "headline": "Yapay zekâ ajanları için dosya sistemli hafıza",
     "tagline_en": "Developed by Volcengine, OpenViking offers a self-improving context database for AI agents.",
@@ -37047,6 +37103,13 @@
         "onceki_yildiz": 39519,
         "surum": "v0.5.1",
         "surum_tarihi": "2026-10-19"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 40425,
+        "onceki_yildiz": 40333,
+        "surum": "v0.5.1.1",
+        "surum_tarihi": "2026-10-20"
       }
     ],
     "last_seen": "2026-08-21"
@@ -37337,14 +37400,14 @@
     "slug": "openlogi",
     "title": "OpenLogi",
     "tagline": "OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.",
-    "meta": "★ 23.621 · Rust",
+    "meta": "★ 23.835 · Rust",
     "image": "/assets/discover/og/openlogi.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 23621,
+    "stars": 23835,
     "lite": false,
     "headline": "Logitech cihazlar için açık kaynaklı yönetim",
     "tagline_en": "OpenLogi is a native, local-first, open-source alternative to Logitech Options+, written in Rust. It configures buttons, DPI, and SmartShift without accounts or telemetry.",
@@ -37479,6 +37542,13 @@
         "onceki_yildiz": 23254,
         "surum": "v0.8.14",
         "surum_tarihi": "2026-10-15"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 23835,
+        "onceki_yildiz": 23621,
+        "surum": "v0.8.15",
+        "surum_tarihi": "2026-10-20"
       }
     ],
     "last_seen": "2026-08-24",
@@ -41612,7 +41682,7 @@
     "slug": "freellmapi",
     "title": "Freellmapi",
     "tagline": "FreeLLMAPI, 34 ücretsiz yapay zekâ sağlayıcısını OpenAI uyumlu tek bir REST uç noktasında birleştiren ters proxy servisidir.",
-    "meta": "★ 37.418 · TypeScript",
+    "meta": "★ 38.000 · TypeScript",
     "image": "/assets/discover/og/freellmapi.webp",
     "source": "GitHub",
     "date": "2026-08-28",
@@ -41620,7 +41690,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37418,
+    "stars": 38000,
     "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada (endpoint) birleştiriyor. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, geliştiricilerin farklı modelleri tek bir arayüz üzerinden denemesine olanak tanıyor.",
     "lite": false,
     "tagline_en": "FreeLLMAPI is a reverse proxy service that combines 34 free AI providers into a single OpenAI-compatible REST endpoint.",
@@ -41737,6 +41807,13 @@
         "onceki_yildiz": 37306,
         "surum": "v0.16.5",
         "surum_tarihi": "2026-10-19"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 38000,
+        "onceki_yildiz": 37418,
+        "surum": "v0.16.6",
+        "surum_tarihi": "2026-10-20"
       }
     ]
   },
@@ -43286,7 +43363,7 @@
     "slug": "open-science",
     "title": "Open Science",
     "tagline": "AIPOCH tarafından geliştirilen Open Science, bilimsel araştırmalar için yerel tabanlı (local-first) ve modelden bağımsız bir…",
-    "meta": "★ 4.877 · TypeScript",
+    "meta": "★ 5.307 · TypeScript",
     "image": "/assets/discover/og/open-science.webp",
     "source": "GitHub",
     "date": "2026-09-07",
@@ -43294,7 +43371,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4877,
+    "stars": 5307,
     "summary": "AIPOCH tarafından geliştirilen Open Science, bilimsel araştırmalar için yerel tabanlı (local-first) ve modelden bağımsız bir yapay zekâ çalışma ortamı sunuyor. Yazılım, Python ve R not defterleri ile veri bağlantılarını birleştirerek bilimsel süreçlerin tekrarlanabilir şekilde yürütülmesine olanak tanıyor.",
     "lite": false,
     "headline": "Bilimsel araştırmalar için yapay zekâ çalışma ortamı",
@@ -43425,6 +43502,13 @@
         "onceki_yildiz": 5161,
         "surum": "v1.0.0",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 5307,
+        "onceki_yildiz": 4877,
+        "surum": "v1.0.1",
+        "surum_tarihi": "2026-10-20"
       }
     ],
     "tagline_en": "Open Science, developed by AIPOCH, is a local-first and model-agnostic platform for scientific research...",
@@ -48979,7 +49063,7 @@
     "slug": "pstack-claude",
     "title": "Pstack Claude",
     "tagline": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan…",
-    "meta": "★ 2.860 · JavaScript",
+    "meta": "★ 3.140 · JavaScript",
     "image": "/assets/discover/og/pstack-claude.webp",
     "source": "GitHub",
     "date": "2026-10-05",
@@ -48987,7 +49071,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 2860,
+    "stars": 3140,
     "last_seen": "2026-10-05",
     "summary": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.",
     "lite": false,
@@ -49093,6 +49177,13 @@
         "onceki_yildiz": 2721,
         "surum": "v0.9.93",
         "surum_tarihi": "2026-10-18"
+      },
+      {
+        "tarih": "2026-10-20",
+        "yildiz": 3140,
+        "onceki_yildiz": 2860,
+        "surum": "v0.9.95",
+        "surum_tarihi": "2026-10-20"
       }
     ],
     "tagline_en": "Pstack-claude, which adapts the core functions of the software development tool Cursor for different artificial intelligence models and platforms...",

@@ -39,8 +39,8 @@ Local-first applications can often back up to the cloud in an encrypted manner, 
 - [Openhuman](https://trescout.com/en/discover/openhuman/)
 - [PI-Desktop](https://trescout.com/en/discover/pi-desktop/)
 - [Agentsview](https://trescout.com/en/discover/agentsview/)
-- [Wigolo](https://trescout.com/en/discover/wigolo/)
 - [Open Science](https://trescout.com/en/discover/open-science/)
+- [Wigolo](https://trescout.com/en/discover/wigolo/)
 - [Starnet](https://trescout.com/en/discover/starnet/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/local-first/)

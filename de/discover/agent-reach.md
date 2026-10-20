@@ -2,15 +2,15 @@
 
 Agent-Reach ist ein Befehlszeilenschnittstellen-Tool (CLI), das KI-Agenten die Möglichkeit gibt, das gesamte Internet zu scannen und Inhalte zu lesen. Es bietet direkten Zugriff zum Abrufen von Daten von Plattformen wie Twitter, Reddit und GitHub, ohne dass Gebühren für die Anwendungsprogrammierschnittstelle (API) anfallen.
 
-- ★ 95.262
+- ★ 100.087
 - GitHub Trending · 2026-06-06
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 95,262 → 100,087, neueste Version v1.5.0 (11. Juni 2026).
 - **10. Oktober 2026:** Sterne 90,240 → 95,262, neueste Version v1.5.0 (11. Juni 2026).
 - **4. Oktober 2026:** Sterne 85,611 → 90,240, neueste Version v1.5.0 (11. Juni 2026).
 - **27. September 2026:** Sterne 80,033 → 85,611, neueste Version v1.5.0 (11. Juni 2026).
-- **13. September 2026:** Sterne 75,829 → 80,033, neueste Version v1.5.0 (11. Juni 2026).
 
 ## Was es bringt
 
