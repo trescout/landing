@@ -2,16 +2,16 @@
 
 Claude Code altyapısını kullanan ai-job-search, iş arama sürecini otomatikleştiren bir çerçeve (framework) sunuyor. Araç, kullanıcı profilini analiz ederek öz geçmiş düzenleme, ön yazı yazma ve mülakat hazırlığı gibi görevleri yapay zekâ desteğiyle gerçekleştiriyor.
 
-- ★ 54.960
+- ★ 58.735
 - TypeScript
 - GitHub Trending · 2026-07-08
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 54.960 → 58.735, son sürüm v1.7.3 (19 Ekim 2026).
 - **19 Ekim 2026:** Yıldız 49.169 → 54.960, son sürüm v1.7.2 (29 Eylül 2026).
 - **17 Ekim 2026:** Yıldız 46.736 → 49.169, son sürüm v1.7.2 (29 Eylül 2026).
 - **14 Ekim 2026:** Yıldız 44.486 → 46.736, son sürüm v1.7.2 (29 Eylül 2026).
-- **29 Eylül 2026:** Yıldız 43.175 → 44.486, son sürüm v1.7.2 (29 Eylül 2026).
 
 ## Ne kazandırır?
 

@@ -9475,5 +9475,31 @@
     "kisa_es": "Tecnología que analiza el contenido visual y genera textos que describen o explican dicho contenido.",
     "kisa_pt": "Tecnologia que analisa o conteúdo visual e gera textos que descrevem ou explicam esse conteúdo.",
     "kisa_de": "Eine Technologie, die visuelle Inhalte analysiert und Texte generiert, die diese Inhalte beschreiben oder erklären."
+  },
+  {
+    "slug": "drone",
+    "en": "Drone",
+    "full": "Unmanned Aerial Vehicle",
+    "cat": "dev",
+    "kisa": "Uzaktan kumanda ile yönlendirilen veya yazılımsal olarak kendi kendine uçabilen insansız hava aracıdır.",
+    "date": "2026-10-20",
+    "kisa_en": "It is an unmanned aerial vehicle that is remotely controlled or capable of flying autonomously via software.",
+    "kisa_fr": "Il s'agit d'un véhicule aérien non habité guidé par télécommande ou capable de voler de manière autonome grâce à un logiciel.",
+    "kisa_es": "Es un vehículo aéreo no tripulado guiado por control remoto o capaz de volar de forma autónoma mediante software.",
+    "kisa_pt": "É um veículo aéreo não tripulado guiado por controle remoto ou capaz de voar autonomamente por meio de software.",
+    "kisa_de": "Es ist ein unbemanntes Luftfahrzeug, das per Fernbedienung gesteuert wird oder durch Software autonom fliegen kann."
+  },
+  {
+    "slug": "shooter",
+    "en": "Shooter",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Oyuncuların bir karakteri kontrol ederek ateşli veya enerjili silahlarla hedefleri vurduğu video oyunu türüdür.",
+    "date": "2026-10-20",
+    "kisa_en": "It is a video game genre in which players control a character to shoot targets with firearms or energy weapons.",
+    "kisa_fr": "Il s'agit d'un genre de jeu vidéo dans lequel les joueurs contrôlent un personnage pour tirer sur des cibles avec des armes à feu ou à énergie.",
+    "kisa_es": "Es un género de videojuegos en el que los jugadores controlan a un personaje y disparan a objetivos con armas de fuego o de energía.",
+    "kisa_pt": "É um gênero de jogo eletrônico no qual os jogadores controlam um personagem para atingir alvos com armas de fogo ou de energia.",
+    "kisa_de": "Es ist ein Videospiel-Genre, bei dem die Spieler einen Charakter steuern und mit Schuss- oder Energiewaffen auf Ziele schießen."
   }
 ]

@@ -66,6 +66,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Drone](https://trescout.com/fr/dictionary/drone/)
 - [Patch](https://trescout.com/fr/dictionary/patch/)
 - [GUI](https://trescout.com/fr/dictionary/gui/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)

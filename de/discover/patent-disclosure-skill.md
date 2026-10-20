@@ -75,8 +75,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Disclosure](https://trescout.com/de/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/de/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/de/dictionary/multimodal/)
-- [Skill](https://trescout.com/de/dictionary/skill/)
 - [Markdown](https://trescout.com/de/dictionary/markdown/)
+- [Skill](https://trescout.com/de/dictionary/skill/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 
 - **Für wen es gedacht ist:** Patentanwälte, Manager für geistiges Eigentum, F&E-Ingenieure und Erfinder.

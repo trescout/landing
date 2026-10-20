@@ -75,8 +75,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Disclosure](https://trescout.com/fr/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/fr/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/fr/dictionary/multimodal/)
-- [Skill](https://trescout.com/fr/dictionary/skill/)
 - [Markdown](https://trescout.com/fr/dictionary/markdown/)
+- [Skill](https://trescout.com/fr/dictionary/skill/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 
 - **Pour qui:** Conseillers en brevets, gestionnaires de propriété intellectuelle, ingénieurs R&D et inventeurs.

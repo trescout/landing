@@ -2,16 +2,16 @@
 
 Snipe-IT is an open source management system for tracking information technology assets and software licenses. This platform, developed with PHP language, allows institutions to organize inventory records and usage cycles in a digital environment.
 
-- ★ 14,989
+- ★ 15,052
 - PHP
 - GitHub Trending · 2026-07-30
 
 ## Updates
 
+- **October 20, 2026:** Stars 14,989 → 15,052, latest release v8.8.1 (October 20, 2026).
 - **October 1, 2026:** Stars 14,843 → 14,989, latest release v8.8.0 (September 30, 2026).
 - **August 20, 2026:** Stars 14,832 → 14,843, latest release v8.7.2 (August 19, 2026).
 - **August 18, 2026:** Stars 14,798 → 14,832, latest release v8.7.1 (August 17, 2026).
-- **August 12, 2026:** Stars 14,677 → 14,798, latest release v8.7.0 (August 11, 2026).
 
 ## What you get
 

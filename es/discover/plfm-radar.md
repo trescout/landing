@@ -66,6 +66,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [Drone](https://trescout.com/es/dictionary/drone/)
 - [Patch](https://trescout.com/es/dictionary/patch/)
 - [GUI](https://trescout.com/es/dictionary/gui/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)

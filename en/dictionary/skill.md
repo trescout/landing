@@ -80,8 +80,8 @@ Developers write it, platforms distribute it in the store. Writing a good descri
 - [Awesome Claude Skills](https://trescout.com/en/discover/awesome-claude-skills/)
 - [Last30days Skill](https://trescout.com/en/discover/last30days-skill/)
 - [I Have Adhd](https://trescout.com/en/discover/i-have-adhd/)
-- [OfficeCLI](https://trescout.com/en/discover/officecli/)
 - [Security Audit Skill](https://trescout.com/en/discover/security-audit-skill/)
+- [OfficeCLI](https://trescout.com/en/discover/officecli/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/skill/)
 

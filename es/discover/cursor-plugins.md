@@ -2,17 +2,17 @@
 
 Complementos de cursor; Incluye la especificación oficial del complemento y complementos oficiales listos para usar para el editor de código del cursor. Permite a los desarrolladores crear sus propios complementos.
 
-- ★ 12.116
+- ★ 13.145
 - TypeScript
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
 ## Actualizaciones
 
+- **20 de octubre de 2026:** Estrellas 12,116 → 13,145.
 - **17 de octubre de 2026:** Estrellas 10,910 → 12,116.
 - **12 de octubre de 2026:** Estrellas 9,868 → 10,910.
 - **5 de octubre de 2026:** Estrellas 8,737 → 9,868.
-- **27 de septiembre de 2026:** Estrellas 7,417 → 8,737.
 
 ## Qué aporta
 

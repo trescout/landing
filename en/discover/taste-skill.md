@@ -2,17 +2,17 @@
 
 When artificial intelligence agents produce interfaces, they often give template-oriented results. The Taste Skill is a portable skill set that teaches agents more effective use of layout, typography, movement, and space. In this way, interfaces created with artificial intelligence look much more original and professional.
 
-- ★ 99,086
+- ★ 99,600
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Updates
 
+- **October 20, 2026:** Stars 99,086 → 99,600, latest release v2.1.3 (October 19, 2026).
 - **October 19, 2026:** Stars 95,827 → 99,086, latest release v2.1.2 (October 19, 2026).
 - **October 14, 2026:** Stars 91,389 → 95,827, latest release v2.0.0 (October 13, 2026).
 - **September 30, 2026:** Stars 86,983 → 91,389.
-- **September 14, 2026:** Stars 82,815 → 86,983.
 
 *Görsel: taste-skill (proje deposundan)*
 

@@ -75,8 +75,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Disclosure](https://trescout.com/en/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/en/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/en/dictionary/multimodal/)
-- [Skill](https://trescout.com/en/dictionary/skill/)
 - [Markdown](https://trescout.com/en/dictionary/markdown/)
+- [Skill](https://trescout.com/en/dictionary/skill/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 
 - **Who it is for:** Patent attorneys, intellectual property managers, R&D engineers, and inventors.

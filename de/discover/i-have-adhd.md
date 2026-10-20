@@ -2,16 +2,16 @@
 
 i-have-adhd wurde entwickelt, um die Ausgabe von Codierungsagenten fokussierter und organisierter zu gestalten und verbessert die Benutzererfahrung, indem komplexe Antworten in Teile zerlegt werden. Diese auf Python basierende Fähigkeit standardisiert die Darstellung von Informationen durch KI in einem für Aufmerksamkeitsdefizit-Hyperaktivitätsstörungen (ADHS) geeigneten Format.
 
-- ★ 56.851
+- ★ 57.916
 - Python
 - GitHub Trending · 2026-07-22
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 56,851 → 57,916, neueste Version v0.4.1 (19. Oktober 2026).
 - **13. Oktober 2026:** Sterne 54,097 → 56,851.
 - **6. Oktober 2026:** Sterne 51,395 → 54,097.
 - **27. September 2026:** Sterne 47,151 → 51,395.
-- **17. September 2026:** Sterne 44,840 → 47,151.
 
 ## Was es bringt
 

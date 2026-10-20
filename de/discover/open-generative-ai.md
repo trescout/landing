@@ -2,16 +2,16 @@
 
 Open-Generative-AI ist eine Open-Source-Studioplattform ohne Inhaltsfilterung und mit mehr als 200 visuellen und Videoerstellungsmodellen. Benutzer können ihre visuellen Produktionsprozesse frei verwalten, indem sie diese unter der MIT-Lizenz angebotene Software auf ihren eigenen Servern (selbst gehostet) ausführen.
 
-- ★ 29.494
+- ★ 30.971
 - JavaScript
 - GitHub Trending · 2026-06-28
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 29,494 → 30,971, neueste Version v2.0.0 (23. Mai 2026).
 - **1. Oktober 2026:** Sterne 28,085 → 29,494, neueste Version v2.0.0 (23. Mai 2026).
 - **8. September 2026:** Sterne 26,697 → 28,085, neueste Version v2.0.0 (23. Mai 2026).
 - **20. August 2026:** Sterne 25,418 → 26,697, neueste Version v2.0.0 (23. Mai 2026).
-- **2. August 2026:** Sterne 21,507 → 25,418, neueste Version v2.0.0 (23. Mai 2026).
 
 ## Was es bringt
 

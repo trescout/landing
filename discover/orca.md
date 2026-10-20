@@ -2,16 +2,16 @@
 
 Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme ortamı (agent development environment) sunuyor. Kullanıcılar, kendi aboneliklerini kullanarak çeşitli kodlama ajanlarını hem masaüstü hem de mobil platformlarda çalıştırabiliyor.
 
-- ★ 97.386
+- ★ 98.881
 - TypeScript
 - GitHub Trending · 2026-06-25
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 97.386 → 98.881, son sürüm v1.4.232 (20 Ekim 2026).
 - **19 Ekim 2026:** Yıldız 94.733 → 97.386, son sürüm v1.4.230 (19 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 93.926 → 94.733, son sürüm v1.4.229 (17 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 88.919 → 93.926, son sürüm v1.4.227 (16 Ekim 2026).
-- **10 Ekim 2026:** Yıldız 88.274 → 88.919, son sürüm v1.4.224 (10 Ekim 2026).
 
 ## Ne kazandırır?
 

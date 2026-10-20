@@ -2,16 +2,16 @@
 
 Strix é uma ferramenta de segurança baseada em inteligência artificial de código aberto (ferramenta de segurança de IA) projetada para detectar e corrigir vulnerabilidades de segurança em aplicativos. Desenvolvido em linguagem Python, este sistema automatiza processos de verificação e correção de vulnerabilidades em processos de desenvolvimento de software.
 
-- ★ 66.569
+- ★ 70.225
 - Python
 - GitHub Trending · 2026-06-29
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 66,569 → 70,225, versão mais recente v1.7.0 (5 de outubro de 2026).
 - **5 de outubro de 2026:** Estrelas 65,046 → 66,569, versão mais recente v1.7.0 (5 de outubro de 2026).
 - **27 de setembro de 2026:** Estrelas 60,621 → 65,046, versão mais recente v1.6.2 (5 de setembro de 2026).
 - **5 de setembro de 2026:** Estrelas 60,250 → 60,621, versão mais recente v1.6.2 (5 de setembro de 2026).
-- **3 de setembro de 2026:** Estrelas 60,023 → 60,250, versão mais recente v1.6.1 (2 de setembro de 2026).
 
 ## O que você ganha
 

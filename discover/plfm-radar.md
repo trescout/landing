@@ -85,6 +85,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [Drone](https://trescout.com/dictionary/drone/)
 - [Patch](https://trescout.com/dictionary/patch/)
 - [GUI](https://trescout.com/dictionary/gui/)
 - [Open Source](https://trescout.com/dictionary/open-source/)

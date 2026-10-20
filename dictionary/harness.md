@@ -71,10 +71,10 @@ Ekipçe belirlenir. Kritik yolda yüksek, kenarda düşük tutulur.
 ## İlgili araçlar
 
 - [Jcode](https://trescout.com/discover/jcode/)
+- [Dsh Purge](https://trescout.com/discover/dsh-purge/)
 - [Harness SDK](https://trescout.com/discover/harness-sdk/)
 - [Harness · Ajan Ekip Fabrikası](https://trescout.com/discover/harness/)
 - [Munder Difflin](https://trescout.com/discover/munder-difflin/)
-- [Dsh Purge](https://trescout.com/discover/dsh-purge/)
 - [Claude Code Harness](https://trescout.com/discover/claude-code-harness/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

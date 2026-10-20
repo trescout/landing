@@ -2,16 +2,16 @@
 
 ArtCraft is a content crafting engine developed for artists and designers. Written in Rust, this tool standardizes visual production processes by automating complex workflows in creative pipelines.
 
-- ★ 32,106
+- ★ 34,071
 - Rust
 - GitHub Trending · 2026-10-08
 
 ## Updates
 
+- **October 20, 2026:** Stars 32,106 → 34,071, latest release artcraft-v0.41.0 (September 26, 2026).
 - **October 18, 2026:** Stars 29,932 → 32,106, latest release artcraft-v0.41.0 (September 26, 2026).
 - **October 16, 2026:** Stars 28,441 → 29,932, latest release artcraft-v0.41.0 (September 26, 2026).
 - **October 15, 2026:** Stars 26,817 → 28,441, latest release artcraft-v0.41.0 (September 26, 2026).
-- **October 14, 2026:** Stars 24,531 → 26,817, latest release artcraft-v0.41.0 (September 26, 2026).
 
 ## What you get
 

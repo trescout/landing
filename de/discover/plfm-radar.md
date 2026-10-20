@@ -66,6 +66,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Drone](https://trescout.com/de/dictionary/drone/)
 - [Patch](https://trescout.com/de/dictionary/patch/)
 - [GUI](https://trescout.com/de/dictionary/gui/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)

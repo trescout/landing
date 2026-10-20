@@ -2,12 +2,13 @@
 
 YuJunZhiXue/dsh-purge, farklı yapay zekâ modelleri için özelleştirilebilir komut istemleri (prompts) kullanarak güvenlik kısıtlamalarını aşmayı (jailbreak) hedefleyen bir JavaScript aracıdır. Proje, kullanıcıların farklı modeller için kendi komutlarını tanımlamasına ve varsayılan olarak yerel modellere odaklanmasına olanak tanır.
 
-- ★ 7.527
+- ★ 10.161
 - JavaScript
 - GitHub Trending · 2026-10-19
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 7.527 → 10.161, son sürüm v1.1.71 (11 Ekim 2026).
 - **19 Ekim 2026:** Yıldız 7.496 → 7.527, son sürüm v1.1.71 (11 Ekim 2026).
 
 ## Ne kazandırır?

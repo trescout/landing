@@ -2,12 +2,13 @@
 
 ntdevlabs/tiny11builder est une application WinUI utilisée pour créer des versions plus petites et personnalisées du système d'exploitation Windows 11. Développé en C#, cet outil permet aux utilisateurs de dimensionner les images système selon leurs propres besoins.
 
-- ★ 20 413
+- ★ 20 743
 - C#
 - GitHub Trending · 2026-10-15
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 20,413 → 20,743, dernière version winui-v0.1.3 (19 octobre 2026).
 - **15 octobre 2026:** Étoiles 20,412 → 20,413, dernière version winui-v0.1.2 (15 octobre 2026).
 
 ## Ce que ça vous apporte

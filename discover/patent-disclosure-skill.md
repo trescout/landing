@@ -92,8 +92,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Disclosure](https://trescout.com/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/dictionary/multimodal/)
-- [Skill](https://trescout.com/dictionary/skill/)
 - [Markdown](https://trescout.com/dictionary/markdown/)
+- [Skill](https://trescout.com/dictionary/skill/)
 - [LLM](https://trescout.com/dictionary/llm/)
 
 ---

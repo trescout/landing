@@ -2,16 +2,16 @@
 
 Hugging Face tarafından geliştirilen Transformers, metin, görüntü ve ses gibi farklı veri türlerinde güncel makine öğrenimi modellerini eğitmek ve çalıştırmak için kullanılan bir kütüphanedir. Geliştiricilere popüler yapay zekâ modellerine erişim ve bu modeller üzerinde ince ayar (fine-tuning) yapma imkânı sağlar.
 
-- ★ 167.782
+- ★ 167.893
 - Python
 - GitHub Trending · 2026-08-12
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 167.782 → 167.893, son sürüm v5.20.2 (19 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 167.756 → 167.782, son sürüm v5.20.1 (16 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 167.017 → 167.756, son sürüm v5.20.0 (15 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 166.876 → 167.017, son sürüm v5.19.0 (6 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 165.067 → 166.876, son sürüm v5.18.0 (30 Eylül 2026).
 
 ## Ne kazandırır?
 

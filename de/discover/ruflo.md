@@ -2,16 +2,16 @@
 
 Ruflo ist eine Agenten-Orchestrierungsschicht für den Einsatz intelligenter Agentenschwärme, die Koordinierung autonomer Arbeitsabläufe und den Aufbau von Konversations-KI-Systemen.
 
-- ★ 76.236
+- ★ 77.465
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 76,236 → 77,465, neueste Version v3.58.1 (20. Oktober 2026).
 - **18. Oktober 2026:** Sterne 74,730 → 76,236, neueste Version v3.57.0 (17. Oktober 2026).
 - **15. Oktober 2026:** Sterne 74,504 → 74,730, neueste Version v3.56.10 (14. Oktober 2026).
 - **13. Oktober 2026:** Sterne 74,429 → 74,504, neueste Version v3.56.9 (12. Oktober 2026).
-- **12. Oktober 2026:** Sterne 74,363 → 74,429, neueste Version v3.56.8 (12. Oktober 2026).
 
 ## Was es bringt
 

@@ -2,15 +2,15 @@
 
 Impeccable is a design language library developed to improve the design outputs of artificial intelligence models. The software provides standardized rules to improve the visual consistency and aesthetic quality of generative AI tools.
 
-- ★ 81,783
+- ★ 83,463
 - GitHub Trending · 2026-06-02
 
 ## Updates
 
+- **October 20, 2026:** Stars 81,783 → 83,463, latest release cli-v4.7.0 (October 19, 2026).
 - **October 16, 2026:** Stars 81,523 → 81,783, latest release cli-v4.6.0 (October 15, 2026).
 - **October 15, 2026:** Stars 78,944 → 81,523, latest release engine-v0.1.15 (October 15, 2026).
 - **October 9, 2026:** Stars 78,834 → 78,944, latest release skill-v4.5.2 (October 9, 2026).
-- **October 9, 2026:** Stars 78,618 → 78,834, latest release cli-v4.5.2 (October 9, 2026).
 
 ## What you get
 

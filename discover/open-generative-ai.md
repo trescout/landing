@@ -2,16 +2,16 @@
 
 Open-Generative-AI, içerik filtrelemesi bulunmayan ve 200'den fazla görsel ile video oluşturma modelini (model) barındıran açık kaynaklı bir stüdyo platformudur. Kullanıcılar, MIT lisansıyla sunulan bu yazılımı kendi sunucularında (self-hosted) çalıştırarak görsel üretim süreçlerini özgürce yönetebilirler.
 
-- ★ 29.494
+- ★ 30.971
 - JavaScript
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 29.494 → 30.971, son sürüm v2.0.0 (23 Mayıs 2026).
 - **1 Ekim 2026:** Yıldız 28.085 → 29.494, son sürüm v2.0.0 (23 Mayıs 2026).
 - **8 Eylül 2026:** Yıldız 26.697 → 28.085, son sürüm v2.0.0 (23 Mayıs 2026).
 - **20 Ağustos 2026:** Yıldız 25.418 → 26.697, son sürüm v2.0.0 (23 Mayıs 2026).
-- **2 Ağustos 2026:** Yıldız 21.507 → 25.418, son sürüm v2.0.0 (23 Mayıs 2026).
 
 ## Ne kazandırır?
 

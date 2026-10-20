@@ -2,15 +2,15 @@
 
 Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı arayüzü aracıdır. Yazılım; API yönetimi, oturum senkronizasyonu, istem enjeksiyonu (prompt injection) ve yetenek (skills) yönetimi gibi özelliklerle geliştirici deneyimini merkezileştirir.
 
-- ★ 4.233
+- ★ 4.262
 - GitHub Trending · 2026-09-20
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 4.233 → 4.262, son sürüm v0.3.28 (20 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 4.124 → 4.233, son sürüm v0.3.27 (16 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 4.006 → 4.124, son sürüm v0.3.26 (9 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 3.999 → 4.006, son sürüm v0.3.24 (1 Ekim 2026).
-- **30 Eylül 2026:** Yıldız 3.958 → 3.999, son sürüm v0.3.22 (30 Eylül 2026).
 
 ## Ne kazandırır?
 

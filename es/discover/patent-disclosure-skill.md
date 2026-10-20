@@ -75,8 +75,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Disclosure](https://trescout.com/es/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/es/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/es/dictionary/multimodal/)
-- [Skill](https://trescout.com/es/dictionary/skill/)
 - [Markdown](https://trescout.com/es/dictionary/markdown/)
+- [Skill](https://trescout.com/es/dictionary/skill/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 
 - **Para quién es:** Abogados de patentes, gestores de propiedad intelectual, ingenieros de I+D e inventores.

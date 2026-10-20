@@ -66,6 +66,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [Drone](https://trescout.com/en/dictionary/drone/)
 - [Patch](https://trescout.com/en/dictionary/patch/)
 - [GUI](https://trescout.com/en/dictionary/gui/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)

@@ -2,17 +2,17 @@
 
 Cursor-Plugins; Es enthält die offizielle Plugin-Spezifikation und vorgefertigte offizielle Plugins für den Cursor-Code-Editor. Es ermöglicht Entwicklern, ihre eigenen Plugins zu erstellen.
 
-- ★ 12.116
+- ★ 13.145
 - TypeScript
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 12,116 → 13,145.
 - **17. Oktober 2026:** Sterne 10,910 → 12,116.
 - **12. Oktober 2026:** Sterne 9,868 → 10,910.
 - **5. Oktober 2026:** Sterne 8,737 → 9,868.
-- **27. September 2026:** Sterne 7,417 → 8,737.
 
 ## Was es bringt
 
