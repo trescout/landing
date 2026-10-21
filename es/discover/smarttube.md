@@ -2,12 +2,13 @@
 
 SmartTube es un cliente de YouTube para dispositivos Android TV que ofrece funciones avanzadas como bloqueo de anuncios e interfaz personalizable. Permite a los usuarios administrar su experiencia de visualización de videos de acuerdo con sus propias reglas.
 
-- ★ 34.186
+- ★ 35.252
 - Java
 - GitHub Trending · 2026-09-13
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 34,186 → 35,252, última versión 32.68s (20 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 33,574 → 34,186, última versión 32.56s (23 de septiembre de 2026).
 - **14 de septiembre de 2026:** Estrellas 33,278 → 33,574, última versión 32.47s (13 de septiembre de 2026).
 - **13 de septiembre de 2026:** Estrellas 33,276 → 33,278, última versión 32.38s (1 de septiembre de 2026).

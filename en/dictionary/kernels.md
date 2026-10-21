@@ -40,6 +40,7 @@ Yes, for example, the Linux kernel and the Windows kernel have different archite
 
 ## Related tools
 
+- [Vllm](https://trescout.com/en/discover/vllm/)
 - [DeepGEMM](https://trescout.com/en/discover/deepgemm/)
 - [Tilelang](https://trescout.com/en/discover/tilelang/)
 - [FlashKDA](https://trescout.com/en/discover/flashkda/)

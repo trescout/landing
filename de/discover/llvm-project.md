@@ -2,16 +2,16 @@
 
 Das LLVM-Projekt ist eine Infrastruktur, die modulare und wiederverwendbare Compiler- und Toolchain-Technologien bietet. Es ermöglicht die Optimierung von Code in Softwareentwicklungsprozessen und dessen Anpassung an verschiedene Hardwarearchitekturen.
 
-- ★ 40.957
+- ★ 41.137
 - LLVM
 - GitHub Trending · 2026-09-07
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 40,957 → 41,137, neueste Version llvmorg-23.1.4 (20. Oktober 2026).
 - **7. Oktober 2026:** Sterne 40,755 → 40,957, neueste Version llvmorg-23.1.3 (6. Oktober 2026).
 - **27. September 2026:** Sterne 40,353 → 40,755, neueste Version llvmorg-23.1.2 (22. September 2026).
 - **9. September 2026:** Sterne 40,286 → 40,353, neueste Version llvmorg-23.1.1 (8. September 2026).
-- **7. September 2026:** Sterne 40,286 → 40,286, neueste Version llvmorg-23.1.0 (25. August 2026).
 
 ## Was es bringt
 

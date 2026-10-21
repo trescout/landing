@@ -2,12 +2,13 @@
 
 Alibaba tarafından geliştirilen zvec, C++ diliyle yazılmış hafif ve yüksek hızlı bir süreç içi vektör veritabanı (in-process vector database) çözümüdür. Uygulamaların vektör verilerini doğrudan bellek üzerinde işlemesine olanak tanıyarak sistem performansını artırmayı hedefler.
 
-- ★ 15.504
+- ★ 16.129
 - C++
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 15.504 → 16.129, son sürüm v0.8.0 (21 Ekim 2026).
 - **24 Ağustos 2026:** Yıldız 15.356 → 15.504, son sürüm v0.7.0 (24 Ağustos 2026).
 - **2 Ağustos 2026:** Yıldız 10.691 → 15.356, son sürüm v0.6.0 (20 Temmuz 2026).
 

@@ -2,16 +2,16 @@
 
 Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir araçtır. Uygulama durumlarını Git depolarıyla senkronize ederek altyapı üzerinde otomatik güncellemeler sağlar.
 
-- ★ 24.377
+- ★ 24.439
 - Go
 - GitHub Trending · 2026-07-09
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 24.377 → 24.439, son sürüm v3.5.6 (20 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 24.345 → 24.377, son sürüm v3.5.5 (12 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 24.154 → 24.345, son sürüm v3.5.4 (6 Ekim 2026).
 - **14 Eylül 2026:** Yıldız 24.005 → 24.154, son sürüm v3.5.3 (14 Eylül 2026).
-- **27 Ağustos 2026:** Yıldız 23.927 → 24.005, son sürüm v3.5.2 (27 Ağustos 2026).
 
 ## Ne kazandırır?
 

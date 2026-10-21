@@ -53,8 +53,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Kernels](https://trescout.com/de/dictionary/kernels/)
 - [Attention](https://trescout.com/de/dictionary/attention/)
+- [Kernels](https://trescout.com/de/dictionary/kernels/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Entwickler, die Aufmerksamkeitsberechnungen für große Sprachmodelle auf CUDA beschleunigen möchten.

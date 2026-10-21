@@ -70,11 +70,11 @@ Milyarlarca parametrenin her bir token üretiminde GPU/NPU video belleğinde (VR
 - [Andrej Karpathy Skills](https://trescout.com/discover/andrej-karpathy-skills/)
 - [MoneyPrinterTurbo](https://trescout.com/discover/moneyprinterturbo/)
 - [TradingAgents](https://trescout.com/discover/tradingagents/)
+- [Vllm](https://trescout.com/discover/vllm/)
 - [Ragflow](https://trescout.com/discover/ragflow/)
 - [Servers](https://trescout.com/discover/servers/)
 - [Crawl4AI](https://trescout.com/discover/crawl4ai/)
 - [LLM Course](https://trescout.com/discover/llm-course/)
-- [Deer Flow](https://trescout.com/discover/deer-flow/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

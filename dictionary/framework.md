@@ -45,8 +45,8 @@ Hayır, çok küçük ve basit projelerde bazen sadece temel kodlar yeterli olab
 - [Angular](https://trescout.com/discover/angular/)
 - [Tailwindcss](https://trescout.com/discover/tailwindcss/)
 - [Hyperframes](https://trescout.com/discover/hyperframes/)
-- [Nuxt](https://trescout.com/discover/nuxt/)
 - [AI Job Search](https://trescout.com/discover/ai-job-search/)
+- [Nuxt](https://trescout.com/discover/nuxt/)
 - [CLI-Anything](https://trescout.com/discover/cli-anything/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

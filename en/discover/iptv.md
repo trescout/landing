@@ -2,7 +2,7 @@
 
 The iptv-org project, which gathers public television channels around the world in a single center, presents television broadcast over internet protocol (IPTV) lists as an organized dataset. Developed with TypeScript, this open source collection standardizes users' access to publications in different countries.
 
-- ★ 134,991
+- ★ 141,767
 - TypeScript
 - GitHub Trending · 2026-06-13
 
@@ -10,6 +10,7 @@ The iptv-org project, which gathers public television channels around the world 
 
 ## Updates
 
+- **October 21, 2026:** Stars 134,991 → 141,767.
 - **August 2, 2026:** Stars 118,170 → 134,991.
 
 ## What you get

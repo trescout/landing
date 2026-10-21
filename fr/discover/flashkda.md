@@ -53,8 +53,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Kernels](https://trescout.com/fr/dictionary/kernels/)
 - [Attention](https://trescout.com/fr/dictionary/attention/)
+- [Kernels](https://trescout.com/fr/dictionary/kernels/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs qui souhaitent accélérer les calculs d'attention sur de grands modèles de langage sur CUDA.

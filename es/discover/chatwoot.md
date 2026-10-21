@@ -2,17 +2,17 @@
 
 Chatwoot es una plataforma de código abierto que ofrece chat en vivo, soporte por correo electrónico y gestión de escritorio omnicanal. Desarrollada como una alternativa a software comerciales como Intercom y Zendesk, esta herramienta permite gestionar las interacciones con los clientes desde un único centro.
 
-- ★ 36.927
+- ★ 38.048
 - GitHub Trending · 2026-06-12
 
 **Nota de TreScout:** Recopila mensajes de clientes en una sola pantalla: chat del sitio, correo electrónico, WhatsApp. Los servicios ya preparados que hacen el mismo trabajo cobran una tarifa mensual por persona, pero como se ejecuta en su propio servidor, no existe tal tarifa, a cambio, el servidor y el mantenimiento se convierten en su trabajo. Su instalación no es monolítica, requiere varias utilidades y tiene dificultades con los paquetes de servidor más baratos.
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 36,927 → 38,048, última versión v4.19.0 (20 de octubre de 2026).
 - **18 de septiembre de 2026:** Estrellas 36,253 → 36,927, última versión v4.18.0 (18 de septiembre de 2026).
 - **27 de agosto de 2026:** Estrellas 36,001 → 36,253, última versión v4.17.1 (27 de agosto de 2026).
 - **20 de agosto de 2026:** Estrellas 35,290 → 36,001, última versión v4.17.0 (20 de agosto de 2026).
-- **1 de agosto de 2026:** Estrellas 30,493 → 35,290, última versión v4.16.2 (27 de julio de 2026).
 
 ## Qué aporta
 

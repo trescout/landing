@@ -2,12 +2,13 @@
 
 SmartTube, Android TV cihazları için geliştirilmiş, reklam engelleme ve özelleştirilebilir arayüz gibi gelişmiş özellikler sunan bir YouTube istemcisidir. Kullanıcıların video izleme deneyimlerini kendi kurallarına göre yönetmelerine olanak tanır.
 
-- ★ 34.186
+- ★ 35.252
 - Java
 - GitHub Trending · 2026-09-13
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 34.186 → 35.252, son sürüm 32.68s (20 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 33.574 → 34.186, son sürüm 32.56s (23 Eylül 2026).
 - **14 Eylül 2026:** Yıldız 33.278 → 33.574, son sürüm 32.47s (13 Eylül 2026).
 - **13 Eylül 2026:** Yıldız 33.276 → 33.278, son sürüm 32.38s (1 Eylül 2026).

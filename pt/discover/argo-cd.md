@@ -2,16 +2,16 @@
 
 Argo CD é uma ferramenta que gerencia processos declarativos de implantação contínua para ambientes Kubernetes. Ele fornece atualizações automáticas na infraestrutura, sincronizando os estados do aplicativo com os repositórios Git.
 
-- ★ 24.377
+- ★ 24.439
 - Go
 - GitHub Trending · 2026-07-09
 
 ## Atualizações
 
+- **21 de outubro de 2026:** Estrelas 24,377 → 24,439, versão mais recente v3.5.6 (20 de outubro de 2026).
 - **12 de outubro de 2026:** Estrelas 24,345 → 24,377, versão mais recente v3.5.5 (12 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 24,154 → 24,345, versão mais recente v3.5.4 (6 de outubro de 2026).
 - **14 de setembro de 2026:** Estrelas 24,005 → 24,154, versão mais recente v3.5.3 (14 de setembro de 2026).
-- **27 de agosto de 2026:** Estrelas 23,927 → 24,005, versão mais recente v3.5.2 (27 de agosto de 2026).
 
 ## O que você ganha
 

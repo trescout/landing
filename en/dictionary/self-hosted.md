@@ -77,8 +77,8 @@ In self-hosted systems, there is no customer service to recover data when hardwa
 ## Related tools
 
 - [Immich](https://trescout.com/en/discover/immich/)
-- [CasaOS](https://trescout.com/en/discover/casaos/)
 - [Chatwoot](https://trescout.com/en/discover/chatwoot/)
+- [CasaOS](https://trescout.com/en/discover/casaos/)
 - [Open-Generative-AI](https://trescout.com/en/discover/open-generative-ai/)
 - [OpenWA](https://trescout.com/en/discover/openwa/)
 - [Openship](https://trescout.com/en/discover/openship/)

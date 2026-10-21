@@ -2,16 +2,16 @@
 
 Worktrunk, Git çalışma ağacı (worktree) yönetimini kolaylaştıran, Rust diliyle yazılmış bir komut satırı arayüzü (CLI). Özellikle paralel yapay zekâ ajanı iş akışlarını desteklemek için geliştirilen bu araç, aynı anda birden fazla görev üzerinde çalışmayı hızlandırıyor.
 
-- ★ 8.444
+- ★ 9.348
 - Rust
 - GitHub Trending · 2026-09-13
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 8.444 → 9.348, son sürüm v0.81.0 (20 Ekim 2026).
 - **28 Eylül 2026:** Yıldız 8.424 → 8.444, son sürüm v0.80.0 (27 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 7.964 → 8.424, son sürüm v0.79.0 (21 Eylül 2026).
 - **17 Eylül 2026:** Yıldız 7.379 → 7.964, son sürüm v0.78.0 (16 Eylül 2026).
-- **13 Eylül 2026:** Yıldız 7.376 → 7.379, son sürüm v0.77.0 (8 Eylül 2026).
 
 ## Ne kazandırır?
 

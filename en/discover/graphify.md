@@ -2,16 +2,16 @@
 
 Graphify transforms different types of data such as code files, database schemas and documentation into a queryable knowledge graph structure. This Python-based tool aims to create a central data layer for various AI coding assistants.
 
-- ★ 127,377
+- ★ 130,783
 - Python
 - GitHub Trending · 2026-07-14
 
 ## Updates
 
+- **October 21, 2026:** Stars 127,377 → 130,783, latest release v0.9.93 (October 20, 2026).
 - **October 17, 2026:** Stars 126,665 → 127,377, latest release v0.9.92 (October 16, 2026).
 - **October 15, 2026:** Stars 126,289 → 126,665, latest release v0.9.91 (October 14, 2026).
 - **October 14, 2026:** Stars 126,077 → 126,289, latest release v0.9.90 (October 13, 2026).
-- **October 13, 2026:** Stars 125,837 → 126,077, latest release v0.9.89 (October 13, 2026).
 
 ## What you get
 

@@ -62,8 +62,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Kernels](https://trescout.com/dictionary/kernels/)
 - [Attention](https://trescout.com/dictionary/attention/)
+- [Kernels](https://trescout.com/dictionary/kernels/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

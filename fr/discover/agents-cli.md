@@ -2,16 +2,16 @@
 
 L'interface de ligne de commande (CLI) développée par Google réalise des assistants de codage spécialisés dans la création, l'évaluation et le déploiement d'agents d'intelligence artificielle sur Google Cloud (Google Cloud). Cet outil basé sur Python standardise les processus de développement d'agents et accélère les flux de travail opérationnels sur l'infrastructure cloud.
 
-- ★ 6 078
+- ★ 6 132
 - Python
 - GitHub Trending · 2026-07-01
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 6,078 → 6,132, dernière version v1.11.0 (20 octobre 2026).
 - **12 octobre 2026:** Étoiles 6,055 → 6,078, dernière version v1.10.0 (12 octobre 2026).
 - **6 octobre 2026:** Étoiles 6,033 → 6,055, dernière version v1.9.0 (6 octobre 2026).
 - **30 septembre 2026:** Étoiles 6,009 → 6,033, dernière version v1.8.0 (30 septembre 2026).
-- **27 septembre 2026:** Étoiles 5,948 → 6,009, dernière version v1.7.0 (22 septembre 2026).
 
 ## Ce que ça vous apporte
 

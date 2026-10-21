@@ -53,8 +53,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [Kernels](https://trescout.com/en/dictionary/kernels/)
 - [Attention](https://trescout.com/en/dictionary/attention/)
+- [Kernels](https://trescout.com/en/dictionary/kernels/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for developers who want to accelerate attention calculations on large language models on CUDA.

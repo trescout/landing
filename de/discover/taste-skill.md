@@ -2,17 +2,17 @@
 
 Wenn Agenten der künstlichen Intelligenz Schnittstellen erstellen, liefern sie häufig vorlagenorientierte Ergebnisse. Bei der Taste Skill handelt es sich um eine tragbare Fertigkeit, mit der Agenten Layout, Typografie, Bewegung und Raum effektiver nutzen können. Auf diese Weise sehen mit künstlicher Intelligenz erstellte Schnittstellen viel origineller und professioneller aus.
 
-- ★ 99.600
+- ★ 100.118
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 99,600 → 100,118, neueste Version v2.1.4 (20. Oktober 2026).
 - **20. Oktober 2026:** Sterne 99,086 → 99,600, neueste Version v2.1.3 (19. Oktober 2026).
 - **19. Oktober 2026:** Sterne 95,827 → 99,086, neueste Version v2.1.2 (19. Oktober 2026).
 - **14. Oktober 2026:** Sterne 91,389 → 95,827, neueste Version v2.0.0 (13. Oktober 2026).
-- **30. September 2026:** Sterne 86,983 → 91,389.
 
 *Görsel: taste-skill (proje deposundan)*
 

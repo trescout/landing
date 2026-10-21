@@ -49,8 +49,8 @@ Yapay zekâ birçok işin yapılış şeklini değiştirecek, ancak genellikle i
 - [freeCodeCamp](https://trescout.com/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/discover/openclaw/)
 - [System Design Primer](https://trescout.com/discover/system-design-primer/)
-- [Coding Interview University](https://trescout.com/discover/coding-interview-university/)
 - [REA](https://trescout.com/discover/rea/)
+- [Coding Interview University](https://trescout.com/discover/coding-interview-university/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

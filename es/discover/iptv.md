@@ -2,7 +2,7 @@
 
 El proyecto iptv-org, que reúne canales de televisión públicos de todo el mundo en un solo centro, presenta listas de transmisiones de televisión a través del protocolo de Internet (IPTV) como un conjunto de datos organizado. Desarrollada con TypeScript, esta colección de código abierto estandariza el acceso de los usuarios a publicaciones en diferentes países.
 
-- ★ 134.991
+- ★ 141.767
 - TypeScript
 - GitHub Trending · 2026-06-13
 
@@ -10,6 +10,7 @@ El proyecto iptv-org, que reúne canales de televisión públicos de todo el mun
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 134,991 → 141,767.
 - **2 de agosto de 2026:** Estrellas 118,170 → 134,991.
 
 ## Qué aporta

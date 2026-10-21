@@ -2,17 +2,17 @@
 
 Vite offre un environnement de développement rapide et un outil de création pour les projets Web modernes. Il fonctionne comme un outil frontal qui réduit les temps d'attente dans le processus de développement en utilisant des modules ES natifs.
 
-- ★ 83 415
+- ★ 83 423
 - GitHub Trending · 2026-06-07
 
 **Note TreScout :** Il reflète instantanément les modifications que vous apportez au cours du développement sur l'écran, réduisant ainsi le temps d'attente, qui peut être de quelques minutes dans les grands projets, à quelques secondes. Si vous passez d'anciens outils, vérifiez si les plugins que vous utilisez sont disponibles ici. Il peut être considéré comme le choix par défaut si vous démarrez un nouveau projet Web.
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 83,415 → 83,423, dernière version v8.3.5 (21 octobre 2026).
 - **20 octobre 2026:** Étoiles 83,396 → 83,415, dernière version create-vite@9.3.1 (20 octobre 2026).
 - **19 octobre 2026:** Étoiles 83,263 → 83,396, dernière version create-vite@9.3.0 (19 octobre 2026).
 - **8 octobre 2026:** Étoiles 83,213 → 83,263, dernière version v8.3.4 (8 octobre 2026).
-- **6 octobre 2026:** Étoiles 83,091 → 83,213, dernière version v8.3.3 (6 octobre 2026).
 
 ## Ce que ça vous apporte
 

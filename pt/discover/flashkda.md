@@ -53,8 +53,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [Kernels](https://trescout.com/pt/dictionary/kernels/)
 - [Attention](https://trescout.com/pt/dictionary/attention/)
+- [Kernels](https://trescout.com/pt/dictionary/kernels/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores que desejam acelerar cálculos de atenção em grandes modelos de linguagem em CUDA.

@@ -40,6 +40,7 @@ Evet, örneğin Linux çekirdeği ile Windows çekirdeği farklı mimarilere sah
 
 ## İlgili araçlar
 
+- [Vllm](https://trescout.com/discover/vllm/)
 - [DeepGEMM](https://trescout.com/discover/deepgemm/)
 - [Tilelang](https://trescout.com/discover/tilelang/)
 - [FlashKDA](https://trescout.com/discover/flashkda/)

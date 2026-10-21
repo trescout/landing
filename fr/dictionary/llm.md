@@ -65,11 +65,11 @@ Ils nécessitent des ressources matérielles élevées car des milliards de para
 - [Andrej Karpathy Skills](https://trescout.com/fr/discover/andrej-karpathy-skills/)
 - [MoneyPrinterTurbo](https://trescout.com/fr/discover/moneyprinterturbo/)
 - [TradingAgents](https://trescout.com/fr/discover/tradingagents/)
+- [Vllm](https://trescout.com/fr/discover/vllm/)
 - [Ragflow](https://trescout.com/fr/discover/ragflow/)
 - [Servers](https://trescout.com/fr/discover/servers/)
 - [Crawl4AI](https://trescout.com/fr/discover/crawl4ai/)
 - [LLM Course](https://trescout.com/fr/discover/llm-course/)
-- [Deer Flow](https://trescout.com/fr/discover/deer-flow/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/llm/)
 

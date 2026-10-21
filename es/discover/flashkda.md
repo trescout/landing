@@ -53,8 +53,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [Kernels](https://trescout.com/es/dictionary/kernels/)
 - [Attention](https://trescout.com/es/dictionary/attention/)
+- [Kernels](https://trescout.com/es/dictionary/kernels/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores que desean acelerar los cálculos de atención en modelos de lenguaje grandes en CUDA.

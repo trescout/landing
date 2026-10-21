@@ -2,7 +2,7 @@
 
 Das Projekt iptv-org, das öffentlich-rechtliche Fernsehsender auf der ganzen Welt in einem einzigen Zentrum vereint, stellt IPTV-Listen (TV Broadcast Over Internet Protocol) als organisierten Datensatz dar. Diese mit TypeScript entwickelte Open-Source-Sammlung standardisiert den Benutzerzugriff auf Veröffentlichungen in verschiedenen Ländern.
 
-- ★ 134.991
+- ★ 141.767
 - TypeScript
 - GitHub Trending · 2026-06-13
 
@@ -10,6 +10,7 @@ Das Projekt iptv-org, das öffentlich-rechtliche Fernsehsender auf der ganzen We
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 134,991 → 141,767.
 - **2. August 2026:** Sterne 118,170 → 134,991.
 
 ## Was es bringt

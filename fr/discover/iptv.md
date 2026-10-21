@@ -2,7 +2,7 @@
 
 Le projet iptv-org, qui rassemble les chaînes de télévision publiques du monde entier dans un seul centre, présente les listes de diffusion télévisée sur protocole Internet (IPTV) sous la forme d'un ensemble de données organisé. Développée avec TypeScript, cette collection open source standardise l'accès des utilisateurs aux publications dans différents pays.
 
-- ★ 134 991
+- ★ 141 767
 - TypeScript
 - GitHub Trending · 2026-06-13
 
@@ -10,6 +10,7 @@ Le projet iptv-org, qui rassemble les chaînes de télévision publiques du mond
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 134,991 → 141,767.
 - **2 août 2026:** Étoiles 118,170 → 134,991.
 
 ## Ce que ça vous apporte

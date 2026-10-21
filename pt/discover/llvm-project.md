@@ -2,16 +2,16 @@
 
 O Projeto LLVM é uma infraestrutura que oferece tecnologias de compilador e cadeia de ferramentas modulares e reutilizáveis. Ele permite a otimização de código e a adaptação para diferentes arquiteturas de hardware em processos de desenvolvimento de software.
 
-- ★ 40.957
+- ★ 41.137
 - LLVM
 - GitHub Trending · 2026-09-07
 
 ## Atualizações
 
+- **21 de outubro de 2026:** Estrelas 40,957 → 41,137, versão mais recente llvmorg-23.1.4 (20 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 40,755 → 40,957, versão mais recente llvmorg-23.1.3 (6 de outubro de 2026).
 - **27 de setembro de 2026:** Estrelas 40,353 → 40,755, versão mais recente llvmorg-23.1.2 (22 de setembro de 2026).
 - **9 de setembro de 2026:** Estrelas 40,286 → 40,353, versão mais recente llvmorg-23.1.1 (8 de setembro de 2026).
-- **7 de setembro de 2026:** Estrelas 40,286 → 40,286, versão mais recente llvmorg-23.1.0 (25 de agosto de 2026).
 
 ## O que você ganha
 

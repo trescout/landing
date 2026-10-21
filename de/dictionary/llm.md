@@ -65,11 +65,11 @@ Sie erfordern hohe Hardwareressourcen, da Milliarden von Parametern im GPU/NPU-V
 - [Andrej Karpathy Skills](https://trescout.com/de/discover/andrej-karpathy-skills/)
 - [MoneyPrinterTurbo](https://trescout.com/de/discover/moneyprinterturbo/)
 - [TradingAgents](https://trescout.com/de/discover/tradingagents/)
+- [Vllm](https://trescout.com/de/discover/vllm/)
 - [Ragflow](https://trescout.com/de/discover/ragflow/)
 - [Servers](https://trescout.com/de/discover/servers/)
 - [Crawl4AI](https://trescout.com/de/discover/crawl4ai/)
 - [LLM Course](https://trescout.com/de/discover/llm-course/)
-- [Deer Flow](https://trescout.com/de/discover/deer-flow/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/llm/)
 

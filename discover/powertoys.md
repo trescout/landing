@@ -2,7 +2,7 @@
 
 Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı yazılım koleksiyonudur. Kullanıcılara sistem üzerinde gelişmiş özelleştirme araçları ve iş akışı optimizasyonları sunar.
 
-- ★ 138.154
+- ★ 139.524
 - GitHub Trending · 2026-06-13
 
 **TreScout notu:** Tek bir program değil, Windows'a eklenen küçük araçlar paketi. Çoğu kişi ikisi için kuruyor: Pencereleri ekrana ızgara düzeninde yerleştiren araç ve klavyeden hızlı arama. Şirket bilgisayarında kurulum yönetici izni isteyebilir.
@@ -11,6 +11,7 @@ Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştir
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 138.154 → 139.524, son sürüm v0.102.2933.0 (21 Ekim 2026).
 - **27 Ağustos 2026:** Yıldız 137.392 → 138.154, son sürüm v0.101.2362.0 (25 Ağustos 2026).
 - **2 Ağustos 2026:** Yıldız 134.431 → 137.392, son sürüm v0.100.2 (26 Haziran 2026).
 

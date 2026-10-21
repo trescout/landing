@@ -40,6 +40,7 @@ Oui, par exemple, le noyau Linux et le noyau Windows ont des architectures diff√
 
 ## Outils li√©s
 
+- [Vllm](https://trescout.com/fr/discover/vllm/)
 - [DeepGEMM](https://trescout.com/fr/discover/deepgemm/)
 - [Tilelang](https://trescout.com/fr/discover/tilelang/)
 - [FlashKDA](https://trescout.com/fr/discover/flashkda/)

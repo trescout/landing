@@ -2,12 +2,13 @@
 
 Desenvolvido pela Alibaba, zvec é uma solução de banco de dados vetorial em processo leve e de alta velocidade escrita em C++. Seu objetivo é aumentar o desempenho do sistema, permitindo que os aplicativos processem dados vetoriais diretamente na memória.
 
-- ★ 15.504
+- ★ 16.129
 - C++
 - GitHub Trending · 2026-06-17
 
 ## Atualizações
 
+- **21 de outubro de 2026:** Estrelas 15,504 → 16,129, versão mais recente v0.8.0 (21 de outubro de 2026).
 - **24 de agosto de 2026:** Estrelas 15,356 → 15,504, versão mais recente v0.7.0 (24 de agosto de 2026).
 - **2 de agosto de 2026:** Estrelas 10,691 → 15,356, versão mais recente v0.6.0 (20 de julho de 2026).
 

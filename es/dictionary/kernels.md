@@ -40,6 +40,7 @@ Sí, por ejemplo, el kernel de Linux y el kernel de Windows tienen arquitecturas
 
 ## Herramientas relacionadas
 
+- [Vllm](https://trescout.com/es/discover/vllm/)
 - [DeepGEMM](https://trescout.com/es/discover/deepgemm/)
 - [Tilelang](https://trescout.com/es/discover/tilelang/)
 - [FlashKDA](https://trescout.com/es/discover/flashkda/)

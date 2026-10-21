@@ -49,8 +49,8 @@ La inteligencia artificial cambiará la forma en que se realizan muchos trabajos
 - [freeCodeCamp](https://trescout.com/es/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/es/discover/openclaw/)
 - [System Design Primer](https://trescout.com/es/discover/system-design-primer/)
-- [Coding Interview University](https://trescout.com/es/discover/coding-interview-university/)
 - [REA](https://trescout.com/es/discover/rea/)
+- [Coding Interview University](https://trescout.com/es/discover/coding-interview-university/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/artificial-intelligence/)
 

@@ -40,6 +40,7 @@ Ja, zum Beispiel haben der Linux-Kernel und der Windows-Kernel unterschiedliche 
 
 ## Verwandte Werkzeuge
 
+- [Vllm](https://trescout.com/de/discover/vllm/)
 - [DeepGEMM](https://trescout.com/de/discover/deepgemm/)
 - [Tilelang](https://trescout.com/de/discover/tilelang/)
 - [FlashKDA](https://trescout.com/de/discover/flashkda/)

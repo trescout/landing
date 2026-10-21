@@ -2,7 +2,7 @@
 
 Código Claude; Es una herramienta de codificación basada en agentes que reside en su terminal y tiene un conocimiento profundo de su código base. Acelera su proceso de desarrollo leyendo archivos, realizando cambios y ejecutando pruebas con comandos de lenguaje natural. (Puede utilizar muchas de las herramientas de esta página con él).
 
-- ★ 152.857
+- ★ 152.655
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -11,10 +11,10 @@ Código Claude; Es una herramienta de codificación basada en agentes que reside
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 152,857 → 152,655, última versión v2.1.306 (21 de octubre de 2026).
 - **20 de octubre de 2026:** Estrellas 152,318 → 152,857, última versión v2.1.304 (19 de octubre de 2026).
 - **19 de octubre de 2026:** Estrellas 151,307 → 152,318, última versión v2.1.303 (18 de octubre de 2026).
 - **17 de octubre de 2026:** Estrellas 151,152 → 151,307, última versión v2.1.302 (16 de octubre de 2026).
-- **16 de octubre de 2026:** Estrellas 150,959 → 151,152, última versión v2.1.301 (15 de octubre de 2026).
 
 ## Qué aporta
 

@@ -9501,5 +9501,57 @@
     "kisa_es": "Es un género de videojuegos en el que los jugadores controlan a un personaje y disparan a objetivos con armas de fuego o de energía.",
     "kisa_pt": "É um gênero de jogo eletrônico no qual os jogadores controlam um personagem para atingir alvos com armas de fogo ou de energia.",
     "kisa_de": "Es ist ein Videospiel-Genre, bei dem die Spieler einen Charakter steuern und mit Schuss- oder Energiewaffen auf Ziele schießen."
+  },
+  {
+    "slug": "senior-dev",
+    "en": "Senior Dev",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım projelerinde deneyimiyle yol gösteren ve kritik kararlar alan kıdemli geliştirici.",
+    "date": "2026-10-21",
+    "kisa_en": "A senior developer who guides with experience and makes critical decisions in software projects.",
+    "kisa_fr": "Développeur senior qui guide les projets logiciels grâce à son expérience et prend des décisions critiques.",
+    "kisa_es": "Desarrollador senior que guía con su experiencia y toma decisiones críticas en proyectos de software.",
+    "kisa_pt": "Desenvolvedor sênior que orienta com sua experiência em projetos de software e toma decisões críticas.",
+    "kisa_de": "Ein erfahrener Entwickler, der bei Softwareprojekten mit seiner Expertise den Weg weist und kritische Entscheidungen trifft."
+  },
+  {
+    "slug": "vector-store",
+    "en": "Vector Store",
+    "full": "",
+    "cat": "data",
+    "kisa": "Yapay zekânın anlamsal arama yapabilmesi için sayısal verileri depolayan özel veritabanı.",
+    "date": "2026-10-21",
+    "kisa_en": "A specialized database that stores numerical data for artificial intelligence to perform semantic search.",
+    "kisa_fr": "Base de données spécialisée qui stocke des données numériques pour permettre à l'intelligence artificielle d'effectuer des recherches sémantiques.",
+    "kisa_es": "Base de datos especializada que almacena datos numéricos para que la inteligencia artificial pueda realizar búsquedas semánticas.",
+    "kisa_pt": "Banco de dados especial que armazena dados numéricos para permitir que a inteligência artificial realize buscas semânticas.",
+    "kisa_de": "Eine spezielle Datenbank, die numerische Daten speichert, damit künstliche Intelligenz eine semantische Suche durchführen kann."
+  },
+  {
+    "slug": "ast-parsing",
+    "en": "AST Parsing",
+    "full": "Abstract Syntax Tree Parsing",
+    "cat": "dev",
+    "kisa": "Kaynak kodunu bilgisayarın mantıksal olarak analiz edebileceği ağaç yapısına dönüştürme süreci.",
+    "date": "2026-10-21",
+    "kisa_en": "The process of converting source code into a tree structure that a computer can logically analyze.",
+    "kisa_fr": "Processus de conversion du code source en une structure d'arbre qu'un ordinateur peut analyser de manière logique.",
+    "kisa_es": "Proceso de convertir el código fuente en una estructura de árbol que la computadora pueda analizar lógicamente.",
+    "kisa_pt": "O processo de converter o código-fonte em uma estrutura de árvore que o computador pode analisar logicamente.",
+    "kisa_de": "Der Prozess der Umwandlung von Quellcode in eine Baumstruktur, die der Computer logisch analysieren kann."
+  },
+  {
+    "slug": "intermediate-ca",
+    "en": "Intermediate CA",
+    "full": "Intermediate Certificate Authority",
+    "cat": "dev",
+    "kisa": "Güvenli web sitelerinin kimliğini doğrulayan kök sertifika ile son kullanıcı arasında yer alan ara yetkili.",
+    "date": "2026-10-21",
+    "kisa_en": "An intermediate authority located between the end user and the root certificate that authenticates secure websites.",
+    "kisa_fr": "Autorité intermédiaire située entre le certificat racine, qui authentifie les sites web sécurisés, et l'utilisateur final.",
+    "kisa_es": "Autoridad intermedia ubicada entre el certificado raíz y el usuario final que autentica la identidad de los sitios web seguros.",
+    "kisa_pt": "Autoridade intermediária localizada entre o certificado raiz, que verifica a identidade de sites seguros, e o usuário final.",
+    "kisa_de": "Eine Zwischenzertifizierungsstelle, die sich zwischen dem die Identität sicherer Websites verifizierenden Stammzertifikat und dem Endbenutzer befindet."
   }
 ]

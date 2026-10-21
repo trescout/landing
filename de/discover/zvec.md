@@ -2,12 +2,13 @@
 
 Zvec wurde von Alibaba entwickelt und ist eine leichte und schnelle In-Process-Vektordatenbanklösung, die in C++ geschrieben ist. Ziel ist es, die Systemleistung zu steigern, indem Anwendungen die Verarbeitung von Vektordaten direkt im Speicher ermöglicht werden.
 
-- ★ 15.504
+- ★ 16.129
 - C++
 - GitHub Trending · 2026-06-17
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 15,504 → 16,129, neueste Version v0.8.0 (21. Oktober 2026).
 - **24. August 2026:** Sterne 15,356 → 15,504, neueste Version v0.7.0 (24. August 2026).
 - **2. August 2026:** Sterne 10,691 → 15,356, neueste Version v0.6.0 (20. Juli 2026).
 

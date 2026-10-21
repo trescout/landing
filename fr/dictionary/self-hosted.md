@@ -77,8 +77,8 @@ Dans les systèmes auto-hébergés, il n'y a pas de service client pour récupé
 ## Outils liés
 
 - [Immich](https://trescout.com/fr/discover/immich/)
-- [CasaOS](https://trescout.com/fr/discover/casaos/)
 - [Chatwoot](https://trescout.com/fr/discover/chatwoot/)
+- [CasaOS](https://trescout.com/fr/discover/casaos/)
 - [Open-Generative-AI](https://trescout.com/fr/discover/open-generative-ai/)
 - [OpenWA](https://trescout.com/fr/discover/openwa/)
 - [Openship](https://trescout.com/fr/discover/openship/)

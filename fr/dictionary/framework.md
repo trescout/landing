@@ -45,8 +45,8 @@ Non, dans des projets très petits et simples, seuls des codes de base peuvent p
 - [Angular](https://trescout.com/fr/discover/angular/)
 - [Tailwindcss](https://trescout.com/fr/discover/tailwindcss/)
 - [Hyperframes](https://trescout.com/fr/discover/hyperframes/)
-- [Nuxt](https://trescout.com/fr/discover/nuxt/)
 - [AI Job Search](https://trescout.com/fr/discover/ai-job-search/)
+- [Nuxt](https://trescout.com/fr/discover/nuxt/)
 - [CLI-Anything](https://trescout.com/fr/discover/cli-anything/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/framework/)

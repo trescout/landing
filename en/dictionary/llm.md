@@ -65,11 +65,11 @@ They demand high hardware resources because billions of parameters must be kept 
 - [Andrej Karpathy Skills](https://trescout.com/en/discover/andrej-karpathy-skills/)
 - [MoneyPrinterTurbo](https://trescout.com/en/discover/moneyprinterturbo/)
 - [TradingAgents](https://trescout.com/en/discover/tradingagents/)
+- [Vllm](https://trescout.com/en/discover/vllm/)
 - [Ragflow](https://trescout.com/en/discover/ragflow/)
 - [Servers](https://trescout.com/en/discover/servers/)
 - [Crawl4AI](https://trescout.com/en/discover/crawl4ai/)
 - [LLM Course](https://trescout.com/en/discover/llm-course/)
-- [Deer Flow](https://trescout.com/en/discover/deer-flow/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/llm/)
 

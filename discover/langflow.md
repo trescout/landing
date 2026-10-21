@@ -2,7 +2,7 @@
 
 Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için görsel bir arayüz sunan Python tabanlı bir geliştirme platformudur. Kullanıcılar, karmaşık dil modeli uygulamalarını kod yazmadan sürükle bırak yöntemiyle tasarlayıp yayına alabilir.
 
-- ★ 155.615
+- ★ 155.880
 - Python
 - GitHub Trending · 2026-07-03
 
@@ -10,10 +10,10 @@ Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için gör
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 155.615 → 155.880, son sürüm v1.12.7 (21 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 155.555 → 155.615, son sürüm v1.12.6 (13 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 155.378 → 155.555, son sürüm v1.12.5 (6 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 155.285 → 155.378, son sürüm v1.12.4 (29 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 154.873 → 155.285, son sürüm v1.12.3 (22 Eylül 2026).
 
 ## Ne kazandırır?
 
