@@ -650,14 +650,14 @@
     "slug": "twenty",
     "title": "Twenty",
     "tagline": "Salesforce'a açık kaynaklı, yapay zekâ odaklı ve modern bir alternatif.",
-    "meta": "★ 58.665 · Lisans: özel",
+    "meta": "★ 58.824 · Lisans: özel",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Üretkenlik",
       "Geliştirici aracı"
     ],
-    "stars": 58665,
+    "stars": 58824,
     "image": "/assets/discover/og/twenty.webp",
     "headline": "Modern ve açık kaynaklı CRM",
     "last_review": "2026-10-21",
@@ -787,6 +787,13 @@
         "onceki_yildiz": 58411,
         "surum": "sdk/v2.49.0",
         "surum_tarihi": "2026-10-19"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 58824,
+        "onceki_yildiz": 58665,
+        "surum": "twenty/v2.50.0",
+        "surum_tarihi": "2026-10-21"
       }
     ],
     "tagline_en": "An open source, AI-driven and modern alternative to Salesforce.",
@@ -5539,7 +5546,7 @@
     "slug": "hermes-agent",
     "title": "Hermes Agent",
     "tagline": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan…",
-    "meta": "★ 253.914 · Python",
+    "meta": "★ 255.753 · Python",
     "image": "/assets/discover/og/hermes-agent.webp",
     "source": "GitHub",
     "date": "2026-06-04",
@@ -5547,7 +5554,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 253914,
+    "stars": 255753,
     "lite": false,
     "headline": "Kullanıcı etkileşimleriyle gelişen yapay zekâ",
     "last_review": "2026-10-21",
@@ -5663,6 +5670,13 @@
         "onceki_yildiz": 253617,
         "surum": "v0.22.2",
         "surum_tarihi": "2026-10-15"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 255753,
+        "onceki_yildiz": 253914,
+        "surum": "v0.22.3",
+        "surum_tarihi": "2026-10-21"
       }
     ],
     "tagline_en": "Developed by NousResearch, Hermes Agent is an autonomous agent that evolves over time by learning through user interactions.",
@@ -5975,7 +5989,7 @@
     "slug": "vibe-trading",
     "title": "Vibe-Trading",
     "tagline": "Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir alım satım ajanı (trading agent) sunuyor.",
-    "meta": "★ 36.012 · Python",
+    "meta": "★ 36.114 · Python",
     "image": "/assets/discover/og/vibe-trading.webp",
     "source": "GitHub",
     "date": "2026-06-04",
@@ -5983,7 +5997,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 36012,
+    "stars": 36114,
     "lite": false,
     "headline": "Yapay zekâ ile kişisel alım satım",
     "last_review": "2026-10-21",
@@ -6036,6 +6050,13 @@
         "onceki_yildiz": 34287,
         "surum": "v0.1.16",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 36114,
+        "onceki_yildiz": 36012,
+        "surum": "v0.1.17",
+        "surum_tarihi": "2026-10-21"
       }
     ],
     "tagline_en": "Vibe-Trading offers a personal trading agent developed for trading in financial markets.",
@@ -13540,7 +13561,7 @@
     "slug": "agent-native",
     "title": "Agent Native",
     "tagline": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…",
-    "meta": "★ 7.470 · TypeScript",
+    "meta": "★ 7.471 · TypeScript",
     "image": "/assets/discover/og/agent-native.webp",
     "source": "GitHub",
     "date": "2026-06-20",
@@ -13548,7 +13569,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7470,
+    "stars": 7471,
     "lite": false,
     "headline": "Yapay zekâ ajanları için uygulama çerçevesi",
     "last_review": "2026-10-21",
@@ -14021,6 +14042,13 @@
         "onceki_yildiz": 7455,
         "surum": "v0.1.286",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 7471,
+        "onceki_yildiz": 7470,
+        "surum": "@agent-native/creative-context@0.8.49",
+        "surum_tarihi": "2026-10-21"
       }
     ],
     "tagline_en": "Agent-native, native applications for artificial intelligence agents developed by BuilderIO…",
@@ -14970,7 +14998,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 67.994 · TypeScript",
+    "meta": "★ 68.881 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -14978,7 +15006,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 67994,
+    "stars": 68881,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-21",
@@ -15493,6 +15521,13 @@
         "onceki_yildiz": 67158,
         "surum": "v0.8.181",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 68881,
+        "onceki_yildiz": 67994,
+        "surum": "v0.8.183",
+        "surum_tarihi": "2026-10-21"
       }
     ],
     "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.",
@@ -20403,7 +20438,7 @@
     "slug": "claude-skills",
     "title": "Claude Skills",
     "tagline": "Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda…",
-    "meta": "★ 27.840 · Python",
+    "meta": "★ 28.485 · Python",
     "image": "/assets/discover/og/claude-skills.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -20411,7 +20446,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 27840,
+    "stars": 28485,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına uzmanlık kazandırın",
     "last_review": "2026-10-21",
@@ -20450,6 +20485,13 @@
         "onceki_yildiz": 26514,
         "surum": "v2.12.0",
         "surum_tarihi": "2026-08-25"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 28485,
+        "onceki_yildiz": 27840,
+        "surum": "v2.13.0",
+        "surum_tarihi": "2026-10-21"
       }
     ],
     "tagline_en": "This library, developed for Claude Code and various coding agents, is used in different fields from engineering to marketing.",
@@ -29142,14 +29184,14 @@
     "slug": "node",
     "title": "Node",
     "tagline": "Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağlayan bir çalışma zamanı ortamı (runtime environment) sunuyor.",
-    "meta": "★ 122.283 · JavaScript",
+    "meta": "★ 122.486 · JavaScript",
     "image": "/assets/discover/og/node.webp",
     "source": "GitHub",
     "date": "2026-07-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 122283,
+    "stars": 122486,
     "lite": false,
     "headline": "JavaScript ile sunucu tarafı geliştirme",
     "last_review": "2026-10-21",
@@ -29216,6 +29258,13 @@
         "onceki_yildiz": 122434,
         "surum": "v26.12.0",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 122486,
+        "onceki_yildiz": 122283,
+        "surum": "v26.12.1",
+        "surum_tarihi": "2026-10-21"
       }
     ],
     "tagline_en": "Node.js offers a runtime environment that allows JavaScript code to be run outside the browser.",
@@ -33051,14 +33100,14 @@
     "slug": "authentik",
     "title": "Authentik",
     "tagline": "Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağlayan açık kaynaklı bir güvenlik platformu.",
-    "meta": "★ 25.965 · Python",
+    "meta": "★ 26.026 · Python",
     "image": "/assets/discover/og/authentik.webp",
     "source": "GitHub",
     "date": "2026-08-07",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 25965,
+    "stars": 26026,
     "lite": false,
     "headline": "Uygulamalarınız için merkezi kimlik yönetimi",
     "needs_enrichment": true,
@@ -33113,6 +33162,13 @@
         "onceki_yildiz": 25612,
         "surum": "version/2026.8.4",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 26026,
+        "onceki_yildiz": 25965,
+        "surum": "version/2026.8.5",
+        "surum_tarihi": "2026-10-21"
       }
     ],
     "tagline_en": "Authentik is an open source security platform that provides centralized authentication and access management for applications.",
@@ -42002,7 +42058,7 @@
     "slug": "freellmapi",
     "title": "Freellmapi",
     "tagline": "FreeLLMAPI, 34 ücretsiz yapay zekâ sağlayıcısını OpenAI uyumlu tek bir REST uç noktasında birleştiren ters proxy servisidir.",
-    "meta": "★ 38.000 · TypeScript",
+    "meta": "★ 38.660 · TypeScript",
     "image": "/assets/discover/og/freellmapi.webp",
     "source": "GitHub",
     "date": "2026-08-28",
@@ -42010,7 +42066,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 38000,
+    "stars": 38660,
     "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada (endpoint) birleştiriyor. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, geliştiricilerin farklı modelleri tek bir arayüz üzerinden denemesine olanak tanıyor.",
     "lite": false,
     "tagline_en": "FreeLLMAPI is a reverse proxy service that combines 34 free AI providers into a single OpenAI-compatible REST endpoint.",
@@ -42134,6 +42190,13 @@
         "onceki_yildiz": 37418,
         "surum": "v0.16.6",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 38660,
+        "onceki_yildiz": 38000,
+        "surum": "v0.16.7",
+        "surum_tarihi": "2026-10-21"
       }
     ]
   },
@@ -48084,14 +48147,14 @@
     "slug": "runner-images",
     "title": "Runner Images",
     "tagline": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun…",
-    "meta": "★ 13.481 · PowerShell",
+    "meta": "★ 13.508 · PowerShell",
     "image": "/assets/discover/og/runner-images.webp",
     "source": "GitHub",
     "date": "2026-09-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13481,
+    "stars": 13508,
     "last_seen": "2026-09-27",
     "summary": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.",
     "lite": false,
@@ -48155,6 +48218,13 @@
         "onceki_yildiz": 13480,
         "surum": "win25/20261013.288",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 13508,
+        "onceki_yildiz": 13481,
+        "surum": "ubuntu-slim/20261018.28",
+        "surum_tarihi": "2026-10-19"
       }
     ],
     "tagline_en": "GitHub Actions runner images are part of the GitHub Actions platform, which automates software development processes...",
@@ -49451,7 +49521,7 @@
     "slug": "pstack-claude",
     "title": "Pstack Claude",
     "tagline": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan…",
-    "meta": "★ 3.212 · JavaScript",
+    "meta": "★ 3.217 · JavaScript",
     "image": "/assets/discover/og/pstack-claude.webp",
     "source": "GitHub",
     "date": "2026-10-05",
@@ -49459,7 +49529,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3212,
+    "stars": 3217,
     "last_seen": "2026-10-05",
     "summary": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.",
     "lite": false,
@@ -49578,6 +49648,13 @@
         "yildiz": 3212,
         "onceki_yildiz": 3140,
         "surum": "v0.9.97",
+        "surum_tarihi": "2026-10-21"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 3217,
+        "onceki_yildiz": 3212,
+        "surum": "v0.9.99",
         "surum_tarihi": "2026-10-21"
       }
     ],
@@ -50304,7 +50381,7 @@
     "slug": "litellm",
     "title": "Litellm",
     "tagline": "LiteLLM, 100'den fazla büyük dil modeli (LLM) arayüzünü tek bir standart formatta birleştiren bir yapay zekâ ağ geçidi (AI…",
-    "meta": "★ 61.706 · Python",
+    "meta": "★ 61.715 · Python",
     "image": "/assets/discover/og/litellm.webp",
     "source": "GitHub",
     "date": "2026-10-09",
@@ -50312,7 +50389,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 61706,
+    "stars": 61715,
     "last_seen": "2026-10-10",
     "summary": "LiteLLM, 100'den fazla büyük dil modeli (LLM) arayüzünü tek bir standart formatta birleştiren bir yapay zekâ ağ geçidi (AI gateway). Yazılım geliştiricilere maliyet takibi, yük dengeleme ve güvenlik duvarı (guardrails) gibi özellikler sunarak farklı model sağlayıcıları arasında geçiş yapmayı kolaylaştırıyor.",
     "lite": false,
@@ -50353,6 +50430,13 @@
         "onceki_yildiz": 61464,
         "surum": "v1.106.1",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-21",
+        "yildiz": 61715,
+        "onceki_yildiz": 61706,
+        "surum": "v1.107.0",
+        "surum_tarihi": "2026-10-21"
       }
     ],
     "tagline_en": "LiteLLM is an AI gateway (AI… that unifies more than 100 large language model (LLM) interfaces into a single standard format.",
@@ -50998,6 +51082,6 @@
     "tagline_fr": "vllm-project/vllm est un moteur d'inférence (inference) offrant un haut débit et une efficacité de mémoire pour les grands modèles de langage (LLM) et…",
     "tagline_es": "vllm-project/vllm, una inferencia (inference) y… que ofrece alto rendimiento y eficiencia de memoria para grandes modelos de lenguaje (LLM)",
     "tagline_pt": "vllm-project/vllm, büyük dil modelleri (LLM) için yüksek işlem hacmi ve bellek verimliliği sağlayan bir çıkarım (inference) ve…",
-    "tagline_de": "vllm-project/vllm, büyük dil modelleri (LLM) için yüksek işlem hacmi ve bellek verimliliği sağlayan bir çıkarım (inference) ve…"
+    "tagline_de": "vllm-project/vllm, büyük dil modelleri (LLM) für große Sprachmodelle (LLMs) bietet einen hohen Durchsatz und Speichereffizienz für Inferenz und…"
   }
 ]
