@@ -21,7 +21,11 @@ Bu guard birleşmenin geri açılmadığını denetler:
      çalışır ama iç bağlantı doğrudan kanonik adrese gitmeli (yönlendirme
      zinciri tarama bütçesi yer, ki bu birleştirmenin sebebiydi)
 
-Kullanım: python3 scripts/check-birlesmis-terimler.py
+Kullanım: python3 scripts/check-birlesmis-terimler.py [--gecis]
+
+--gecis (CI): 1, 2 ve 4 numaralı sorunlar içerik hattında scripts/sozluk-birlestir.py --uygula
+ile giderilir; PR'da yeni birleşme kararı eklendiğinde sayfalar henüz duruyordur. Bu modda
+yalnız raporlanır, iş kırılmaz. İçerik hattı uygulamadan sonra sıkı modda denetler.
 """
 import glob
 import json
@@ -49,6 +53,8 @@ yonlendirme_kaydi = json.load(open(VERCEL, encoding="utf-8")).get("redirects", [
 yonlendirmeler = {r["source"] for r in yonlendirme_kaydi}
 
 sorunlar = []
+GECIS = "--gecis" in sys.argv
+uygulanacak = []  # sozluk-birlestir.py --uygula'nın gidereceği sorunlar
 
 # Bağlamı insan tarafından incelenmiş, fakat canonical birleştirme yapılmamış
 # çiftler. Mapping değildir; yalnız ikiz tarayıcısının aynı issue'yu yeniden
@@ -71,10 +77,10 @@ for eski, yeni in sorted(eslesme.items()):
     if yeni not in manifest:
         sorunlar.append(f"{eski} → {yeni}: KANONİK terim manifest'te yok")
     if eski in manifest:
-        sorunlar.append(f"{eski}: manifest'e geri eklenmiş · birleşme bozuldu")
+        (uygulanacak if GECIS else sorunlar).append(f"{eski}: manifest'te · birleşme uygulanmamış ya da bozulmuş")
     for onek in DIZIN_ONEKLERI:
         if os.path.isdir(os.path.join(ROOT, f"{onek}dictionary/{eski}")):
-            sorunlar.append(f"{onek}dictionary/{eski}/ · sayfa geri gelmiş")
+            (uygulanacak if GECIS else sorunlar).append(f"{onek}dictionary/{eski}/ · sayfa duruyor")
     for onek in URL_ONEKLERI:
         # Üç biçim de aranıyor · Vercel source'u birebir eşleştirir:
         # slashless, trailing slash ve raw Markdown.
@@ -102,8 +108,12 @@ for p in glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True):
             break
 
 if bagli:
-    sorunlar.append(f"{len(bagli)} sayfa kaldırılmış slug'a bağlanıyor "
-                    f"(ör. {bagli[0][0]} → {bagli[0][1]})")
+    (uygulanacak if GECIS else sorunlar).append(f"{len(bagli)} sayfa kaldırılmış slug'a bağlanıyor "
+                                                f"(ör. {bagli[0][0]} → {bagli[0][1]})")
+
+if uygulanacak:
+    print(f"· geçiş: {len(uygulanacak)} iş içerik hattında uygulanacak (scripts/sozluk-birlestir.py --uygula), "
+          f"ör. {uygulanacak[0]}")
 
 if sorunlar:
     print(f"❌ Birleştirilmiş terimler guard'ı · {len(sorunlar)} sorun:")
@@ -115,4 +125,5 @@ if sorunlar:
 
 print(f"✓ Birleşmiş terimler tutarlı · {len(eslesme)} canonical mapping, "
       f"{len(eslesme) * len(URL_ONEKLERI)} route ailesi ve "
-      f"{len(incelenmis)} bağlam kararı doğrulandı, iç bağlantı temiz")
+      f"{len(incelenmis)} bağlam kararı doğrulandı, "
+      + (f"{len(uygulanacak)} iş içerik hattında uygulanacak" if uygulanacak else "iç bağlantı temiz"))
