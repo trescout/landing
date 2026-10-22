@@ -24,6 +24,43 @@ import gemini_zinciri  # noqa: E402 · model zinciri, 429 ayrımı, istek aralı
 # page-generation step for five hours before it was cancelled). The pause window
 # doubles on each consecutive exhaustion so a run that has truly hit the daily
 # quota parks itself instead of probing every ninety seconds.
+# Okura hitap (2026-10-16): Türkçe kaynak okura "siz" diye hitap ediyor; istem
+# yalnız "register natural for the target locale" diyordu. İspanyolcada sözlük
+# sayfalarının ~%30'u "tú", geri kalanı "usted" çıktı, bazı sayfalarda ikisi bir
+# arada (kota bitince devreye giren GTX hitabı hiç seçemiyor). Kural artık istemde
+# açık; çıktı da kodla sınanıyor: resmî kaynağın samimi çevirisi önbelleğe girmez,
+# Gemini'den bir kez düzeltme istenir, olmazsa metin çevrilmemiş sayılır.
+# Ajan istemleri (okurun yapay zekâ asistanına yazdığı metin) samimi kalabilir.
+HITAP = {
+    "es": 'Address the reader formally with "usted" (singular), its verb forms and "su/sus"; never use "tú", "tu" or "vosotros".',
+    "fr": 'Address the reader formally with "vous"; never use "tu".',
+    "de": 'Address the reader formally with "Sie"; never use "du".',
+    "pt": 'Address the reader with "você" (Brazilian Portuguese); never use "tu".',
+}
+_HITAP_ISTISNA = ("Exception: if the Turkish text is a message the reader writes to an AI assistant "
+                  "(informal \"sen\" forms), keep it informal.")
+# Türkçede okura resmî hitap: "-ınız/-iniz/-unuz/-ünüz", "-sınız/-siniz..." ve "siz/size/sizin".
+_TR_RESMI = re.compile(r"\b\w*(?:[aeıioöuü]n[ıiuü]z|s[ıiuü]n[ıiuü]z)(?:[ıiuüae]|[dt][ae]n?|l[ae]|[ıiuü]n|c[ae])?\b"
+                       r"|\bsiz(?:e|i|in|den|ce|inle)?\b", re.I)
+_SAMIMI = {
+    "es": re.compile(r"\b(?:tú|tu|tus|contigo|puedes|quieres|tienes|necesitas|debes|sabes|estás|eres)\b", re.I),
+    "fr": re.compile(r"\b(?:tu|toi|te|tes)\b", re.I),
+    "de": re.compile(r"\b(?:du|dich|dir|dein|deine|deinen|deinem|deiner|deines)\b"),
+    "pt": re.compile(r"\b(?:tu|teu|tua|teus|tuas|contigo)\b", re.I),
+}
+
+
+def hitap_ihlali(kaynak: str, ceviri: str, lang: str) -> bool:
+    """Okura resmî hitap eden Türkçe kaynak samimi hitapla çevrildiyse True."""
+    rx = _SAMIMI.get(lang)
+    return bool(rx and _TR_RESMI.search(kaynak or "") and rx.search(ceviri or ""))
+
+
+def _hitap_kurali(lang: str) -> str:
+    kural = HITAP.get(lang)
+    return f" {kural} {_HITAP_ISTISNA}" if kural else ""
+
+
 _PAUSE_CAP = 600.0
 _GTX_PAUSED_UNTIL = 0.0
 _GTX_PAUSE_STREAK = 0
@@ -79,7 +116,9 @@ def _gtx_is_paused() -> bool:
     return time.time() < _GTX_PAUSED_UNTIL
 
 
-def _gemini(text: str, lang: str, key: str) -> str | None:
+def _gemini(text: str, lang: str, key: str, duzeltme: bool = False) -> str | None:
+    not_ = ("\n\nYour previous translation addressed the reader informally. Use the formal address "
+            "required above." if duzeltme else "")
     body = {
         "systemInstruction": {
             "parts": [{
@@ -87,6 +126,7 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
                     "You are a precise professional translator. Translate Turkish into the requested language. "
                     "Return only the translation, with no quotation marks, commentary, markdown, or language label. "
                     "Do not summarize, omit, or add claims. Preserve product names, repository names, URLs and numbers."
+                    + _hitap_kurali(lang)
                 )
             }]
         },
@@ -94,7 +134,7 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
             "parts": [{
                 "text": (
                     f"Translate this Turkish technology-site text into {lang}. "
-                    f"Keep the meaning and register natural for the target locale.\n\n{text}"
+                    f"Keep the meaning and register natural for the target locale.{not_}\n\n{text}"
                 )
             }]
         }],
@@ -146,16 +186,25 @@ def _gtx(text: str, lang: str) -> str | None:
     return None
 
 
+def _tekli(text: str, lang: str, key: str, gemini_ok: bool) -> str | None:
+    """Tek metin: Gemini (hitap tutmazsa bir düzeltme turu), olmazsa GTX. Hitabı
+    tutmayan çıktı dönmez (None = çevrilemedi, sayfa ertesi koşuya kalır)."""
+    if gemini_ok:
+        translated = _gemini(text, lang, key)
+        if translated and hitap_ihlali(text, translated, lang):
+            translated = _gemini(text, lang, key, duzeltme=True)
+        if translated and not hitap_ihlali(text, translated, lang):
+            return translated
+    translated = _gtx(text, lang)
+    return None if translated and hitap_ihlali(text, translated, lang) else translated
+
+
 def translate_text(text: str, lang: str) -> str | None:
     clean = (text or "").strip()
     if not clean:
         return ""
     key = os.environ.get("GEMINI_API_KEY", "").strip()
-    if key:
-        translated = _gemini(clean, lang, key)
-        if translated:
-            return translated
-    return _gtx(clean, lang)
+    return _tekli(clean, lang, key, bool(key))
 
 
 def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | None:
@@ -167,6 +216,7 @@ def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | Non
                     "You are a precise professional translator. Output valid JSON only. Translate each Turkish "
                     "item into the requested language. Preserve every id exactly, do not summarize, omit, merge, "
                     "or add items, and preserve proper nouns, URLs, numbers, and technical meaning."
+                    + _hitap_kurali(lang)
                 )
             }]
         },
@@ -240,12 +290,8 @@ def translate_texts(texts: list[str], lang: str) -> dict[str, str | None]:
         translated = _gemini_batch(batch, lang, key) if key else {}
         translated = translated or {}
         for text in batch:
-            if text in translated and translated[text]:
+            if translated.get(text) and not hitap_ihlali(text, translated[text], lang):
                 result[text] = translated[text]
             else:
-                single_gemini = _gemini(text, lang, key) if key and gemini_zinciri.aktif_model() else None
-                if single_gemini:
-                    result[text] = single_gemini
-                else:
-                    result[text] = _gtx(text, lang)
+                result[text] = _tekli(text, lang, key, bool(key and gemini_zinciri.aktif_model()))
     return result

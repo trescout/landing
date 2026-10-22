@@ -102,6 +102,11 @@ jobs:
         run: python3 scripts/check-ic-baglantilar.py
       - name: Çeviri bağlantıları Türkçeyle tutarlı (kaynak bağlantısı, depo adresi)
         run: python3 scripts/check-ceviri-baglantilari.py
+      # Okura hitap: Türkçe "siz" → es usted, fr vous, de Sie, pt você (2026-10-16:
+      # İspanyolca sayfaların ~%30'u "tú" idi). Kuralın öz sınaması kırar; önbellekteki
+      # eski kayıtları içerik hattı temizler (dict-sync.yml), burada sayısı raporlanır.
+      - name: Çeviri hitabı tutarlı (resmî)
+        run: python3 scripts/check-hitap.py --rapor
 
       # Aydınlatma/rıza · her kayıt formu SAYFANIN DİLİNDEKİ metne bağlanmalı.
       # 2026-08-06'da İngilizce sayfadan aydınlatma yapılmadan kayıt alındı.
