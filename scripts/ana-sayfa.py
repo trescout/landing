@@ -388,11 +388,26 @@ def madde_sayilari(kaynak, it, m):
     return out, md.get("language")
 
 
+def _birlesmis():
+    try:
+        with open(os.path.join(ROOT, "assets", "dictionary", "birlesmis.json"), encoding="utf-8") as f:
+            return json.load(f).get("eslesme", {})
+    except (OSError, ValueError):
+        return {}
+
+
+# Birleştirilmiş sözlük ikizleri: raporda "Model Context Protocol" ya da "CV" geçse de bağlantı
+# kalan sayfaya gider; giden sayfa içerik hattında silinir (landing#349). PDF ve TR kapak
+# (app sozluk-baglanti.ts, publish-report.ts) aynı eşlemeyi kullanıyor.
+BIRLESMIS = _birlesmis()
+
+
 def slug_terim(t):
     t = t.lower().strip()
     for a, b in [("ç", "c"), ("ğ", "g"), ("ı", "i"), ("ş", "s"), ("ö", "o"), ("ü", "u")]:
         t = t.replace(a, b)
-    return re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+    s = re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+    return BIRLESMIS.get(s, s)
 
 
 def slug_depo(s):
