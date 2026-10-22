@@ -22,7 +22,7 @@ Es wird in Cloud-Diensten, Datenbankverbindungen und Anwendungsauthentifizierung
 
 Es kann mit normalen Benutzerkennwörtern verwechselt werden, aber es handelt sich dabei um digitale Identitäten, die für Maschinen und nicht für Menschen entwickelt wurden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum werden Geheimnisse nicht im Code gespeichert?**
 

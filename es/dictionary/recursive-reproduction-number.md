@@ -22,7 +22,7 @@ Se utiliza en investigaciones avanzadas de seguridad de inteligencia artificial 
 
 No debe confundirse simplemente con procesos de copia o respaldo de software.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante este número?**
 

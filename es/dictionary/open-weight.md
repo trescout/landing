@@ -43,7 +43,7 @@ Se considera IA de código abierto. Eso incluye la transparencia del código y d
 **Libro de texto:** La fuente que todos leen.
 **Semilla:** Semilla ancestral compartida.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia con el código abierto?**
 

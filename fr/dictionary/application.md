@@ -45,7 +45,7 @@ On le confond avec le système d'exploitation. Le système gère l'appareil, l'a
 **Appareil de cuisine :** Appareils à tâche unique.
 **Accessoire de voiture :** Pièce installée ultérieurement.
 
-## Foire aux questions
+## Questions et réponses
 
 **L'application et le logiciel sont-ils la même chose ?**
 

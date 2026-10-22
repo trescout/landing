@@ -22,7 +22,7 @@ It is frequently used in modern web design and especially in libraries such as T
 
 It can be confused with the CSS framework; utility-first is a method, while CSS framework is the tool that implements this method.
 
-## Frequently asked questions
+## Questions and answers
 
 **Doesn't the code seem too crowded?**
 

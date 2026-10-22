@@ -22,7 +22,7 @@ Se utiliza para predecir resultados de elecciones políticas, analizar tendencia
 
 Puede confundirse con el mercado de valores, pero mientras el mercado de valores se centra en el valor de la empresa, el mercado de predicción se centra directamente en la probabilidad de que ocurran eventos futuros específicos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué los mercados de predicción son mejores que las encuestas tradicionales?**
 

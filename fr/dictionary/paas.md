@@ -44,7 +44,7 @@ C'est confondu avec l'IaaS. L'IaaS fournit le matériel, le PaaS offre un enviro
 **Appartement :** Location meublée.
 **Scène :** Scène équipée avec éclairage.
 
-## Foire aux questions
+## Questions et réponses
 
 **Le PaaS est-il indispensable ?**
 

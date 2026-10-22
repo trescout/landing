@@ -22,7 +22,7 @@ Se utiliza en pronósticos del mercado de valores, análisis del consumo de ener
 
 No debe confundirse con simples herramientas de pronóstico estadístico; Estos modelos se basan en el aprendizaje profundo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede predecir cualquier tipo de datos?**
 

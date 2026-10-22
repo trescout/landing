@@ -44,7 +44,7 @@ Kann mit Metadatensuche verwechselt werden. Die Metadatensuche betrachtet Dateid
 **Buch:** Das Register (Index) am Ende.
 **Archiv:** Suche nach einem Thema in einer Zeitungsausschnittsammlung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Wird es nicht zu langsam laufen?**
 

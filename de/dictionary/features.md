@@ -63,7 +63,7 @@ Das Hinzufügen komplexer Schaltflächen und Einstellungen für Randfälle, die 
 Die zyklomatische Komplexität und die Wartungskosten innerhalb der Codebasis steigen logarithmisch an.
 - Die größte Lehre der Unix-Philosophie lautet: „Tue eine Sache und mache sie perfekt.“ Die erfolgreichsten digitalen Produkte verfügen nicht über Hunderte mittelmäßiger Funktionen. Sie verfügen über einige wichtige Funktionen, die reibungslos funktionieren.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was bedeutet 'Features' und was ist die deutsche Entsprechung?**
 

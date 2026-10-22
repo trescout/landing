@@ -43,7 +43,7 @@ Es wird für eine Pipeline gehalten. Eine Pipeline ist ein technischer Datenflus
 **Montage:** Reihenfolge der Teile.
 **Theke:** Registrierung und Weiterleitung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum automatisieren?**
 

@@ -43,7 +43,7 @@ On le prend pour un gestionnaire de mots de passe. L'un stocke le mot de passe, 
 **Notaire :** Vérification d'identité.
 **Contrôle des passeports :** Passage par tampon.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce sécuritaire?**
 

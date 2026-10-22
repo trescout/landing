@@ -43,7 +43,7 @@ Regel: Das Ausführen von Code ist der erste Schritt, das Lesen von Code ist der
 **Regale:** Sortiert nach Genre und Autor.
 **Garten:** Beschnittene Zweiganordnung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Reicht es nicht, um zu arbeiten?**
 

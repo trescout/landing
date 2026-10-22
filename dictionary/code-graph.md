@@ -22,7 +22,7 @@ Karmaşık yazılım projelerinde, kod refactoring (iyileştirme) süreçlerinde
 
 Klasik dosya dizin yapısı ile karıştırılabilir, ancak bu sadece dosyaları değil, kodun işlevsel mantıksal bağlarını gösterir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Code-Graph kod yazarken nasıl yardımcı olur?**
 

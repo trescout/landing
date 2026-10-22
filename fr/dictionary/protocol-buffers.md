@@ -24,7 +24,7 @@ Il est utilisé dans les architectures de microservices, la communication d'appl
 
 Il peut être confondu avec les formats de données textuels tels que JSON ou XML, mais il est beaucoup plus rapide et plus petit.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les gens savent-ils lire ?**
 

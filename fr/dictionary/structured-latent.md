@@ -22,7 +22,7 @@ Il est utilisé dans les mécanismes de fonctionnement internes des modèles d�
 
 C'est similaire à l'incorporation, mais ici l'accent est davantage mis sur l'organisation structurelle des données dans l'espace mathématique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce important ?**
 

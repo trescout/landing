@@ -29,7 +29,7 @@ El concepto de "keybind" o "keybinding" se expresa en español como asignación 
 
 El atajo de teclado (shortcut) se utiliza a menudo como sinónimo de keybind. Sin embargo, en la práctica, un shortcut se refiere a combinaciones universales a nivel de sistema operativo (Ctrl+V, Alt+Tab); mientras que un keybind define más bien asignaciones personalizadas que el usuario reasigna (re-map) según sus propios hábitos dentro de un editor o un juego.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa keybind (Qué es keybind)?**
 

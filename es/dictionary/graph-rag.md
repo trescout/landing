@@ -24,7 +24,7 @@ Se utiliza en el análisis de datos corporativos complejos, sistemas de diagnós
 
 Se puede confundir con el RAG clásico; El clásico se centra en la similitud del texto, éste se centra en las relaciones estructurales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuándo debería preferirse?**
 

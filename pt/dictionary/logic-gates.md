@@ -22,7 +22,7 @@ Está presente no projeto arquitetônico de microprocessadores, em simulações 
 
 Pode ser confundido com os blocos 'if-else' em algoritmos de software: enquanto o 'if-else' é uma estrutura de controle que opera em linguagens de programação de alto nível, a porta lógica é um mecanismo de hardware que opera diretamente no nível do transistor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quais são as portas lógicas mais básicas?**
 

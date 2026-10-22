@@ -22,7 +22,7 @@ Se utiliza ampliamente para separar las acciones del usuario en servidores web, 
 
 Está muy cerca del concepto de sandbox; sin embargo, jail es un término más tradicional que generalmente se centra en el aislamiento del sistema de archivos en sistemas Unix/Linux (como chroot o FreeBSD jail).
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede un programa encarcelado acceder al sistema principal?**
 

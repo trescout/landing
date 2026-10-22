@@ -42,7 +42,7 @@ Text-to-speech sanılır. O metni sese çevirir, bu sesi metne. İkisi ters yön
 
 *Konuşurken yerinize not tutan hızlı sekreter gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Her aksanı anlar mı?**
 

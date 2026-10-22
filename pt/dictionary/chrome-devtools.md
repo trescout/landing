@@ -39,7 +39,7 @@ Regra: A mudança é local, desaparece quando você a renova. O trabalho permane
 **Raio X:** Visualização da estrutura interna.
 **Boné:** Compartimento do motor.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Apenas cromo?**
 

@@ -22,7 +22,7 @@ Es wird in Datenverarbeitungsprozessen, Softwareverteilung und Modelltraining fÃ
 
 Es sollte nicht nur mit einer Datenbank verwechselt werden; Eine Pipeline ist ein Prozess, der Daten verarbeitet, kein Ort, an dem sie gespeichert werden.
 
-## HÃ¤ufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn die Pipeline kaputt geht?**
 

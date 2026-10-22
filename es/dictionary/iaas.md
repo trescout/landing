@@ -47,7 +47,7 @@ Se confunde con PaaS. IaaS proporciona hardware, PaaS ofrece un entorno listo pa
 **Almacén:** Almacén con estanterías listas.
 **Campo:** Alquiler de tierra arada.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es segura la IaaS?**
 

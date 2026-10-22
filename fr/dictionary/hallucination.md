@@ -22,7 +22,7 @@ Cela se produit notamment dans la recherche universitaire, lors de la recherche 
 
 On la confond avec le mensonge, mais l’intelligence artificielle n’a ni intention ni conscience ; Cela suit simplement les possibilités.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment empêcher l’IA d’inventer des choses ?**
 

@@ -22,7 +22,7 @@ Sosyal medya platformlarının otomatik alt yazı oluşturma sistemlerinde, yapa
 
 Text-to-image ile karıştırılır ama tam tersidir; text-to-image metinden resim üretirken, bu teknoloji resimden metin üretir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **El yazısı metinleri okuyabilir mi?**
 

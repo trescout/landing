@@ -60,7 +60,7 @@ Graças a esta arquitetura aberta, mesmo quando os arquivos de apresentação s�
 | Padrão Aberto | Formato comercial fechado | Padrão internacional ISO/IEC 29500 (OpenXML) |
 | Acesso de Mídia | Requer um analisador sintático complexo / personalizado | As imagens e vídeos podem ser extraídos diretamente abrindo o ZIP |
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que é um arquivo PPTX?**
 

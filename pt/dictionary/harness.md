@@ -44,7 +44,7 @@ Pensa-se que é o próprio software. No entanto, o harness não é o código, ma
 **Cinto de segurança:** Mecanismo que retém em caso de colisão.
 **Treinamento:** Pista de medição de desempenho.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que é necessário?**
 

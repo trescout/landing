@@ -24,7 +24,7 @@ Yapay zekâ modellerinin eğitiminde ve çalıştırılmasında (inference) kull
 
 Quantization ile karıştırılabilir; FP8 aslında bir quantization türüdür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Modelin kalitesini düşürür mü?**
 

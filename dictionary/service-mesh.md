@@ -42,7 +42,7 @@ Istio ve Linkerd bilinen uygulamalarıdır. Küçük sistemde maliyeti faydasın
 
 *Büyük bir havaalanındaki uçuş trafiğini yöneten kule gibidir; servislerin birbirine çarpmadan güvenli hareket etmesini sağlar.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Her projeye gerekli mi?**
 

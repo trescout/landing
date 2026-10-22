@@ -44,7 +44,7 @@ It is thought to be the software itself. However, the harness is not the code, i
 **Seat belt:** The mechanism that prevents the collision.
 **Training:** Performance measurement track.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it necessary?**
 

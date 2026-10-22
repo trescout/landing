@@ -40,7 +40,7 @@ Genel zekâ sanılır. Oysa kastedilen belirli işi yapma becerisidir. Model anl
 
 *Ajanı İsviçre çakısına benzetirseniz, yetenekler bıçak, tornavida ve makas gibi farklı işlevlerdir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yetenekleri ben mi ekliyorum?**
 

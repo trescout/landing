@@ -22,7 +22,7 @@ It is used in smart lighting systems, industrial sensor networks and large offic
 
 Standard Bluetooth connection is only between two devices, while Mesh connects all devices together.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does Bluetooth Mesh require internet?**
 

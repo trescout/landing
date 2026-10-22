@@ -22,7 +22,7 @@ It is used especially by developers who want to run very large language models o
 
 It can be confused with loading the entire model into memory; here, loading only occurs when needed.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does this method reduce speed?**
 

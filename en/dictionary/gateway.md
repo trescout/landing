@@ -42,7 +42,7 @@ It can be confused with an API Gateway. An API Gateway manages software services
 **Port:** Customs clearance of ships.
 **Reception:** Directing the visitor to the correct floor.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can one access the internet without a gateway?**
 

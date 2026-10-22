@@ -22,7 +22,7 @@ O desenvolvedor envia seu código, outros membros da equipe revisam o código, c
 
 Ao contrário dos testes automatizados que testam apenas se o código funciona, a lógica e a estética humanas entram em jogo aqui.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não é automatizado?**
 

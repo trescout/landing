@@ -41,7 +41,7 @@ Web sitesi kurucuları (website builders) ile benzerdir, ancak CMS genellikle da
 
 *Bir binanın mimarisiyle uğraşmak yerine, sadece içindeki eşyaları düzenleyip duvarları boyadığınız hazır bir ev gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **CMS kullanmak için yazılımcı olmam gerekir mi?**
 

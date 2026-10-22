@@ -61,7 +61,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Mittleres Entwicklertool
 - **Was bietet:** Skalierbare Speicher-Engine + API
 - **Gebühr:** Kostenlos · Open Source (MIT)
-- **Lizenz:** MIT · ayrıntı aşağıda
+- **Lizenz:** MIT · Details unten
 
 **Lizenz:** MIT · Sie können es frei verwenden, ändern und kommerziell nutzen.
 

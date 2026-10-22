@@ -22,7 +22,7 @@ Es wird in fast allen Programmiersprachen und Betriebssystementwicklungen verwen
 
 Es kann mit Framework oder SDK verwechselt werden, aber Kernbibliotheken beziehen sich auf die Grundfunktionalität und Frameworks auf ein breiteres Anwendungsgerüst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind Kernbibliotheken wichtig?**
 

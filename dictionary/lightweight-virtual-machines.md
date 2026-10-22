@@ -22,7 +22,7 @@ Bulut bilişimde, uygulamaları hızlıca çalıştırmak veya güvenlik izolasy
 
 Tam teşekküllü sanal makinelerle (Virtual Machines) karıştırılabilir ancak bunlar çok daha hızlı açılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden hafif olanı tercih etmeliyim?**
 

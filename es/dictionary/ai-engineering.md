@@ -45,7 +45,7 @@ Se confunde con la ciencia de datos. El científico de datos extrae significado 
 **Construcción:** El arquitecto que dibuja el proyecto y el ingeniero que dirige la obra.
 **Cocina:** El chef que escribe la receta y la operación que la extiende a la cadena.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario saber código para convertirse en ingeniero de IA?**
 

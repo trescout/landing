@@ -18,7 +18,7 @@ Comienza con todos en los grupos ordenando a los candidatos del otro grupo segú
 
 Se utiliza para emparejar de la manera más adecuada al candidato con la posición en asignaciones de donación de órganos, colocaciones en cupos universitarios y procesos de contratación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Da un resultado perfecto para todos?**
 

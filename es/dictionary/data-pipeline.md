@@ -22,7 +22,7 @@ Se utiliza para preparar grandes cantidades de datos para entrenar la inteligenc
 
 Se confunde con la base de datos, pero la canalización es el proceso de movimiento y cambio de datos, mientras que la base de datos es solo espacio de almacenamiento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es tan importante?**
 

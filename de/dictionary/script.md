@@ -45,7 +45,7 @@ Wird für eine Anwendung gehalten. Die Anwendung ist groß und muss kompiliert w
 **Rezeptkarte:** Präzise, kurze Anleitung.
 **Automat:** Mechanismus, der durch Einwurf einer Münze funktioniert.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann jemand schreiben?**
 

@@ -52,8 +52,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/dictionary/context/)
 - [Framework](https://trescout.com/dictionary/framework/)
 - [MCP](https://trescout.com/dictionary/mcp/)

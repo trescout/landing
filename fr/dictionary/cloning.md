@@ -22,7 +22,7 @@ Il est utilisé lors de l'importation de projets open source depuis des platefor
 
 Cela peut être confondu avec la sauvegarde ; Le clonage est plutôt une copie effectuée dans le but de travailler dessus.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que cela change le projet initial ?**
 

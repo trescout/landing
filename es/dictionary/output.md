@@ -44,7 +44,7 @@ No debe confundirse con la entrada. La entrada es el inicio, la salida es el res
 **Fábrica:** Entra pieza, sale producto.
 **Examen:** Entra pregunta, sale puntuación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué la salida sería incorrecta?**
 

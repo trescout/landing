@@ -22,7 +22,7 @@ Es wird in Empfehlungssystemen, Finanzprognosetools und Robotern verwendet, die 
 
 Mit Feinabstimmung mischbar; Feinabstimmung ist die Anpassung an eine bestimmte Aufgabe, während kontinuierliches Lernen auf eine allgemeine Verbesserung abzielt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum lernt nicht jedes System ständig dazu?**
 

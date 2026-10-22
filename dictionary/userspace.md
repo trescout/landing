@@ -22,7 +22,7 @@ Yazılım geliştirme, güvenlik ve sistem mimarisi konularında temel bir kavra
 
 Kernel space ile karıştırılır; kernel tüm sisteme hakimdir, userspace ise kısıtlıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu ayrım var?**
 

@@ -22,7 +22,7 @@ You frequently encounter it in web applications, session management systems and 
 
 Not to be confused with just browser history; While history only holds visited sites, state covers the entire working environment at the moment.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does this disappear when I close the browser?**
 

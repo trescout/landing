@@ -22,7 +22,7 @@ Modelin giriş ve çıkışları izlenir, işlem süreleri ölçülür ve sonuç
 
 Monitoring (izleme) ile karıştırılır; monitoring sadece 'çalışıyor mu?' diye bakar, observability ise 'neden böyle çalışıyor?' sorusuna odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden buna ihtiyaç var?**
 

@@ -59,7 +59,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Medium · Added as a skill to Claude
 - **What offers:** Official, ready-made skill packs
 - **Source:** Anthropic official repository
-- **License:** Standart tespit edilemedi · ayrıntı aşağıda
+- **License:** Standard not detected · detail below
 
 **License:** GitHub did not detect a standard license for this repo. Even though Anthropic has official repository, check the LICENSE file in the repo before reuse/distribution.
 

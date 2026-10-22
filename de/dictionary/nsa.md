@@ -24,7 +24,7 @@ Es taucht in Cybersicherheitsanalysen, Datenschutzdiskussionen und international
 
 Oft wird es nur als Software oder Tool betrachtet, obwohl es sich in Wirklichkeit um eine Regierungsbehörde handelt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was macht die NSA?**
 

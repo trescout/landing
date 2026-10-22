@@ -22,7 +22,7 @@ Kodlama platformlarında, dil öğrenme uygulamalarında ve yapay zekâ eğitim 
 
 Ham veri setleri ile karıştırılabilir; ancak bu setler sadece öğrenme odaklıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden özel bir veri setine ihtiyaç duyarım?**
 

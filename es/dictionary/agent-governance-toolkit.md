@@ -22,7 +22,7 @@ Se utiliza en proyectos corporativos de inteligencia artificial y procesos de de
 
 No debe confundirse simplemente con un firewall; Estas herramientas también rigen las reglas éticas y operativas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Disminuye la velocidad del agente?**
 

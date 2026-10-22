@@ -24,7 +24,7 @@ O usuário insere um comando que especifica as propriedades do modelo. A intelig
 
 Não deve ser confundido com geradores de imagens; eles apenas fazem desenhos, isso produz dados de engenharia.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os modelos produzidos podem ser utilizados diretamente na impressora 3D?**
 

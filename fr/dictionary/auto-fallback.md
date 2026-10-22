@@ -22,7 +22,7 @@ Il est utilisé dans les services d’intelligence artificielle, les connexions 
 
 C'est similaire à la gestion des erreurs ; Cependant, le repli automatique fait directement référence à une solution alternative.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cette fonctionnalité entraîne-t-elle des lenteurs ?**
 

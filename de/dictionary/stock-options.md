@@ -22,7 +22,7 @@ Es wird vor allem in jungen Startups häufig genutzt, um talentierte Softwareent
 
 Es kann mit der direkten Freigabe von Freigaben verwechselt werden. Bei der direkten Aktienteilung erhält der Mitarbeiter sofort Aktien, während beim Aktienoptionsmechanismus nur das Recht auf den künftigen Erhalt dieser Aktien besteht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Zahlen sich Optionen immer aus?**
 

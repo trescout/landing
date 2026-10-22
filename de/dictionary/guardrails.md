@@ -22,7 +22,7 @@ Sie werden häufig in Kundendienst-Chatbots, in regulierten Branchen wie dem Fin
 
 Sie können mit Reinforcement Learning from Human Feedback (RLHF) verwechselt werden, das während des grundlegenden Trainings des Modells durchgeführt wird. Während das grundlegende Training den inneren Charakter des Modells bestimmt, sind Guardrails eine unabhängige Sicherheitshülle, die von außen am Modell angebracht wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verlangsamen Guardrail-Systeme die Antwortzeiten merklich?**
 

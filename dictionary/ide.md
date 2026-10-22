@@ -24,7 +24,7 @@ Profesyonel yazılım geliştirme süreçlerinde, karmaşık uygulamalar oluştu
 
 Sadece kod yazmaya yarayan basit metin editörlerinden, sunduğu araç setinin zenginliği ve projenin tamamını yönetebilme yeteneği ile ayrılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **IDE kullanmak zorunda mıyım?**
 

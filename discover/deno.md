@@ -2,16 +2,16 @@
 
 Deno, JavaScript ve TypeScript dilleri için tasarlanmış modern bir çalışma zamanı (runtime) ortamıdır. Rust diliyle geliştirilen bu araç, güvenlik ve performans odaklı yapısıyla geleneksel Node.js platformuna alternatif bir altyapı sunar.
 
-- ★ 108.458
+- ★ 108.723
 - Rust
 - GitHub Trending · 2026-08-05
 
 ## Güncelleme
 
+- **22 Ekim 2026:** Yıldız 108.458 → 108.723, son sürüm v2.9.8 (21 Ekim 2026).
 - **17 Eylül 2026:** Yıldız 108.357 → 108.458, son sürüm v2.9.7 (17 Eylül 2026).
 - **31 Ağustos 2026:** Yıldız 108.181 → 108.357, son sürüm v2.9.6 (27 Ağustos 2026).
 - **7 Ağustos 2026:** Yıldız 108.166 → 108.181, son sürüm v2.9.5 (6 Ağustos 2026).
-- **6 Ağustos 2026:** Yıldız 108.091 → 108.166, son sürüm v2.9.4 (23 Temmuz 2026).
 
 ## Ne kazandırır?
 

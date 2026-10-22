@@ -45,7 +45,7 @@ On le confond avec Drive. Drive stocke des fichiers, Cloud exécute des applicat
 **Centrale :** Production en location.
 **Entrepôt :** Entrepôt en location.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi pas mon propre ordinateur ?**
 

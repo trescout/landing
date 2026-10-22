@@ -22,7 +22,7 @@ Es wird auf E-Commerce-Websites, in Kundenbetreuungseinheiten großer Unternehme
 
 Kann mit Mehrkanal gemischt werden; Omni-Channel ist eine Struktur, bei der alle Kanäle miteinander kommunizieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was macht hier künstliche Intelligenz?**
 

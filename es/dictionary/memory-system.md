@@ -22,7 +22,7 @@ Se utiliza en asistentes personales, herramientas de inteligencia artificial que
 
 Se puede confundir con la ventana de contexto; La ventana de contexto es la memoria a corto plazo, mientras que el sistema de memoria es la memoria permanente o a largo plazo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede borrar la memoria?**
 

@@ -51,7 +51,7 @@ Los equipos de ingeniería exitosos transforman los fragmentos de código de un 
 - Snippets dentro del repositorio (.vscode/): Gracias a los archivos de snippets compartidos añadidos dentro del repositorio del proyecto, un desarrollador que se une al equipo puede escribir el cliente de API estándar o la plantilla de pruebas de la empresa con las convenciones correctas desde el primer día.
 Fragmentos de documentación: Los botones de "copiar" en la documentación de plataformas exitosas como Stripe o Tailwind son una herramienta moderna que mejora la experiencia del desarrollador (DX).
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa fragmento de código (Code snippets meaning)?**
 

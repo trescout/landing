@@ -22,7 +22,7 @@ Os dados recebidos passam primeiro por um algoritmo de filtragem ou resumo. Ent�
 
 Não se trata apenas de encurtar os dados, mas de escolhê-los com sabedoria e trazê-los para um formato que o modelo possa compreender.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Haverá perda de informações?**
 

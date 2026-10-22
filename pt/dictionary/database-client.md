@@ -22,7 +22,7 @@ Comandos ou cliques feitos na interface do usuário são transmitidos pelo clien
 
 Não deve ser confundido com o servidor de banco de dados que armazena os dados em si; o cliente é apenas a interface e a ferramenta de gerenciamento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quais programas são conhecidos como clientes de banco de dados?**
 

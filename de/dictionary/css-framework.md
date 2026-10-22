@@ -43,7 +43,7 @@ Es gilt als nutzwertorientiert. Es ist der Ansatz, das Framework ist das Werkzeu
 **Lego:** Teile kombinieren.
 **Fertiggerichte:** Beheizte Platte.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Sind die Seiten nicht ähnlich?**
 

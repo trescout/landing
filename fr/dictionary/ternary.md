@@ -22,7 +22,7 @@ Il est utilisé dans le matériel d'intelligence artificielle de faible consomma
 
 Il ne faut pas le confondre avec le système binaire : le binaire utilise uniquement 0 et 1, tandis que le ternaire fonctionne avec 3 valeurs différentes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les modèles d’intelligence artificielle ternaires sont-ils importants ?**
 

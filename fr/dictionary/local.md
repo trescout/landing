@@ -50,7 +50,7 @@ Avec l'essor de l'intelligence artificielle, le concept de « local » est deven
 - Self-Hosted (Hébergé en-interne) : Hébergé sur un serveur situé dans le bureau ou au domicile de l'utilisateur ; connexion via le réseau local, la charge de maintenance incombe à l'utilisateur.
 - Cloud (Cloud / SaaS) : Tous les matériels et données se trouvent dans le centre de données d'une tierce entreprise ; il offre une haute disponibilité mais nécessite une connexion Internet permanente et des concessions en matière de confidentialité.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que signifie « local » et quelle est sa correspondance en informatique ?**
 

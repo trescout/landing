@@ -24,7 +24,7 @@ Você a encontrará em análises de segurança cibernética, debates sobre priva
 
 Geralmente é confundida apenas com um software ou ferramenta, quando na verdade é uma agência governamental.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que a NSA faz?**
 

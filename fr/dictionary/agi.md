@@ -38,7 +38,7 @@ Les modèles de langage sont présumés. Ce sont des experts étroits, alors que
 **Cuisinier :** Cuisine générale.
 **Poète :** Langage général.
 
-## Foire aux questions
+## Questions et réponses
 
 **Comment le comprendre ?**
 

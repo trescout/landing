@@ -22,7 +22,7 @@ Systèmes de cloud computing, bases de données et services Web à fort trafic.
 
 Il ne s’agit pas simplement d’« être rapide », il s’agit plutôt du fait que l’augmentation des performances est proportionnelle à l’augmentation des ressources.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi tous les systèmes ne peuvent-ils pas évoluer de manière linéaire ?**
 

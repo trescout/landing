@@ -22,7 +22,7 @@ Se utiliza en hardware de inteligencia artificial de bajo consumo, técnicas de 
 
 No debe confundirse con el sistema binario: el binario usa sólo 0 y 1, mientras que el ternario trabaja con 3 valores diferentes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué son importantes los modelos ternarios de inteligencia artificial?**
 

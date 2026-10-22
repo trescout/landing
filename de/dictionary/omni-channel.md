@@ -37,7 +37,7 @@ Man hält es für Multichannel. Dort gibt es viele Kanäle, hier sind die Kanäl
 **Orchester:** Die Abschnitte spielen ein einziges Werk.
 **Flughafen:** Transfergepäck-System.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist es wichtig?**
 

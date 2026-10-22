@@ -51,7 +51,7 @@ Erfolgreiche Engineering-Teams machen Code-Snippets von einer individuellen Gewo
 - In-Repository-Snippets (.vscode/): Dank der allgemeinen Snippet-Dateien, die dem Projekt-Repository hinzugefügt werden, schreibt ein neuer Entwickler, der dem Team beitritt, vom ersten Tag an den Standard-API-Client oder die Testvorlage des Unternehmens mit den richtigen Konventionen.
 - Dokumentationsausschnitte: Schaltflächen zum „Kopieren“ in der Dokumentation erfolgreicher Plattformen wie Stripe oder Tailwind sind ein modernes Tool, das die Entwicklererfahrung (DX) verbessert.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Code snippets meaning (Was bedeutet Code-Snippet)?**
 

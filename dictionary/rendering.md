@@ -37,7 +37,7 @@ Kare hızı (FPS) deneyimi belirler: Değer düştükçe takılma hissedersiniz.
 
 *Bir şefin elindeki ham malzemeleri (veriler) kullanarak sunuma hazır bir tabağa (görsel) dönüştürmesi gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Rendering neden yavaş olabilir?**
 

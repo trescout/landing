@@ -22,7 +22,7 @@ Se utiliza en proyectos complejos de desarrollo de software y automatización em
 
 Es casi lo mismo que los sistemas multiagente; El énfasis aquí está más en la gestión de "flotas" a gran escala.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo se entienden los representantes entre sí?**
 

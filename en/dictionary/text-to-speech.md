@@ -45,7 +45,7 @@ It is thought to be a voice recording. The record is a pre-read constant, while 
 **Radio:** Automatic newsletter voiceover.
 **Game:** Dynamic dialogue generation.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why do voices sometimes sound robotic?**
 

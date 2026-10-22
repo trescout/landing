@@ -24,7 +24,7 @@ Es wird bei Software-Sicherheitsaudits, im Supply Chain Management von Unternehm
 
 Nicht zu verwechseln mit dem Quellcode der Software; Dies ist lediglich eine Inventarliste.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist SBOM wichtig?**
 

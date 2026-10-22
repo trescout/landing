@@ -40,7 +40,7 @@ Der "weil"-Teil im Satz erinnert daran, warum die Arbeit erledigt wird, und dien
 **Orchester:** Der Zeitplan, der die Proben auf den Tag des Konzerts abstimmt.
 **Baustelle:** Der Geländeplan, der die Reihenfolge von Kran und Beton festlegt.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum verwenden Softwareentwickler dies?**
 

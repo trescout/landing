@@ -24,7 +24,7 @@ Dient als grundlegendes Werkzeug bei der Entwicklung von macOS- und iOS-Anwendun
 
 Er unterscheidet sich von den allgemeinen Erweiterungsmanagern von Code-Editoren und konzentriert sich direkt auf das Ökosystem der Sprache selbst sowie auf den Kompilierungsprozess.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie beschleunigt SwiftPM das Projekt?**
 

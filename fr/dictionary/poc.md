@@ -48,7 +48,7 @@ Souvent confondu avec un prototype. Un prototype est un exemple de produit, un P
 **Essai à domicile :** Un test de cuisine avant d'entrer dans le menu.
 **Bande-annonce :** Mesure des réactions avant le film.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que se passe-t-il en cas de succès ?**
 

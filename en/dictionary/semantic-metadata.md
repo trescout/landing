@@ -22,7 +22,7 @@ It is used in search engines, artificial intelligence training data, and complex
 
 It can be confused with ordinary metadata; The difference is that the semantic one carries the 'meaning' relationship of the data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I use semantic metadata?**
 

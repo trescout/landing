@@ -44,7 +44,7 @@ Se confunden con modelos de texto. Sin embargo, también son de esta familia qui
 **Compositor:** Nueva melodía con notas.
 **Escritor:** Nueva historia con palabras.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Viola los derechos de autor?**
 

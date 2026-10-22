@@ -22,7 +22,7 @@ They are used extensively in the academic world, especially in rapidly developin
 
 They should not be confused with final articles in peer-reviewed journals; these are drafts that have not yet received full approval.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are preprints reliable?**
 

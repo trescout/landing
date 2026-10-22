@@ -22,7 +22,7 @@ Es wird in Hörbuchanwendungen, Bildschirmleseprogrammen für Menschen mit Behin
 
 Kann mit Voice Cloning verwechselt werden; Bei der Sprachsynthese handelt es sich um eine allgemeine Stimmerzeugung, während beim Voice Cloning die Stimme einer bestimmten Person nachgeahmt wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind Sprachsynthese und Text-to-Speech dasselbe?**
 

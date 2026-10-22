@@ -24,7 +24,7 @@ Arama kurtarma çalışmalarında, haritacılık ve tarımsal analizlerde, lojis
 
 Geleneksel model uçaklarla karıştırılabilir. Model uçaklar sürekli insan müdahalesi gerektirirken dronlar otonom uçuş ve otomatik rota takibi yapabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Dronlar yapay zekâ kullanır mı?**
 

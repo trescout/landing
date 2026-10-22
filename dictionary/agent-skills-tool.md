@@ -22,7 +22,7 @@ Akıllı ajan geliştirme süreçlerinde ve modüler yapay zekâ uygulamalarınd
 
 Genel ajan yapılarından farklı olarak doğrudan yetenek kazandırma odaklı spesifik bir yardımcıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ne işe yarar?**
 

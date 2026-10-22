@@ -47,7 +47,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Anfängerfreundlich
 - **Was bietet:** Kostenlose Domain + Nutzung bei Ihrem eigenen DNS-Anbieter
 - **Gebühr:** Der Service ist kostenlos
-- **Lizenz:** AGPL-3.0 · ayrıntı aşağıda
+- **Lizenz:** AGPL-3.0 · Details unten
 
 **Lizenz:** AGPL-3.0 · Die Nutzung des Dienstes (der Erhalt einer kostenlosen Domain) ist kostenlos. Wenn Sie jedoch den CODE der Plattform nehmen und ihn selbst hosten oder ändern, müssen Sie gemäß der AGPL auch den Quellcode Ihrer eigenen Version öffnen (auch wenn Sie ihn über das Netzwerk verfügbar machen).
 

@@ -24,7 +24,7 @@ Il est utilisé dans le design industriel, le développement de jeux, l’impres
 
 Il ne faut pas le confondre avec les générateurs d’images ; ils dessinent simplement des images, cela produit des données d'ingénierie.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les modèles produits peuvent-ils être utilisés directement sur l'imprimante 3D ?**
 

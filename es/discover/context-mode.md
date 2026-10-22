@@ -59,10 +59,9 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Context Window Optimization](https://trescout.com/es/dictionary/context-window-optimization/)
 - [Context Window](https://trescout.com/es/dictionary/context-window/)
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/es/dictionary/context/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está destinado a desarrolladores que utilizan intensivamente agentes de codificación de inteligencia artificial y experimentan problemas de saturación de la ventana de contexto en proyectos a largo plazo.
 

@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes cloud, les réseaux d'entreprise et les infra
 
 Il trace les limites administratives et de sécurité plutôt que la logique technique du code.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce important ?**
 

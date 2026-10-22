@@ -22,7 +22,7 @@ Il est courant dans les secteurs du conseil financier, du marketing de contenu, 
 
 Il ne faut pas la confondre avec la simple « vente de logiciels », où la valeur ajoutée intelligente apportée par l'intelligence artificielle est au centre.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tout le monde peut-il gagner de l’argent avec l’intelligence artificielle ?**
 

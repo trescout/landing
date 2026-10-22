@@ -22,7 +22,7 @@ Se utiliza en proyectos de software complejos, procesos de refactorización (mej
 
 Puede confundirse con la estructura clásica de directorios de archivos, pero muestra enlaces lógicos funcionales del código, no solo archivos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo te ayuda Code-Graph a escribir código?**
 

@@ -60,7 +60,7 @@ Il est également possible de visualiser, modifier ou présenter des fichiers PP
 | Norme ouverte | Format commercial fermé | Norme internationale ISO/IEC 29500 (OpenXML) |
 | Accès aux médias | Difficile/Nécessite un analyseur spécial | Les photos et vidéos peuvent être importées directement en ouvrant le ZIP |
 
-## Questions fréquentes
+## Questions et réponses
 
 **Qu'est-ce qu'un fichier PPTX ?**
 

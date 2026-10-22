@@ -22,7 +22,7 @@ Müşteri hizmetleri botlarında, kişisel yapay zekâ asistanlarında ve uzun s
 
 Geçici bellek (context window) ile karıştırılmamalıdır: Geçici bellek sadece o anki aktif konuşma sırasında hatırlanan kelime sınırını belirlerken, kalıcı bağlam konuşma kapandıktan günler sonra bile bilgileri korur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kalıcı bağlam yapay zekâyı yavaşlatır mı?**
 

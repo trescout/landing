@@ -22,7 +22,7 @@ It is used in modern software development frameworks and rapid production tools.
 
 It may be confused with flexible tools, but while flexible tools can change everything, these tools require a certain discipline.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are they so restrictive?**
 

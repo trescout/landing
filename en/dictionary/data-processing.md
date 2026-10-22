@@ -22,7 +22,7 @@ It is used in every field where data exists, such as finance, healthcare, artifi
 
 It is confused with data analysis; data processing is the preparation stage, while analysis is interpreting the results.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is data processing important?**
 

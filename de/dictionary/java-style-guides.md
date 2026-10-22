@@ -22,7 +22,7 @@ Es wird in Unternehmenssoftwareprojekten, Open-Source-Projekten und Codeüberpr�
 
 Nicht zu verwechseln mit der Funktionalität des Codes; Diese Anleitungen regeln, wie der Code aussieht, nicht wie er funktioniert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich diese Regeln befolgen?**
 

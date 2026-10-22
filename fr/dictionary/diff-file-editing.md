@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les systèmes de contrôle de version et les a
 
 À ne pas confondre avec l'écrasement de l'intégralité du fichier ; cette méthode applique simplement la différence.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utilisons-nous diff au lieu d'envoyer le fichier entier ?**
 

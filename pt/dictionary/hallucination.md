@@ -22,7 +22,7 @@ Ocorre especialmente em pesquisas acadêmicas, na busca por orientação médica
 
 É confundido com mentira, mas a inteligência artificial não tem intenção nem consciência; Apenas segue as possibilidades.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como evito que a IA invente coisas?**
 

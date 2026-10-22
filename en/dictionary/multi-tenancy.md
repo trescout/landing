@@ -22,7 +22,7 @@ It is used in SaaS (software as a service) platforms, cloud-based applications a
 
 It can be confused with a shared server; However, what is shared here is not just the hardware, but the logical structure of the software.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why use a single program?**
 

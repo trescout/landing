@@ -22,7 +22,7 @@ They are frequently used in system programming, game engines, and embedded syste
 
 They are confused with intermediate code files running on a virtual machine. While intermediate code files need an intermediary to run on any computer, native binaries only run directly on the specific system they were produced for.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do native binaries work on every computer?**
 

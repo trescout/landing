@@ -22,7 +22,7 @@ Os desenvolvedores enviam (commit) seus códigos para o sistema. Se surgir um pr
 
 Não é o mesmo que backup, pois gerencia não apenas os arquivos, mas também o histórico das alterações.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo usar?**
 

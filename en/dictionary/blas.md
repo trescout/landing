@@ -24,7 +24,7 @@ It runs silently in the background in artificial intelligence libraries, scienti
 
 It is confused with an ordinary math library. BLAS does not just contain mathematical formulas; it directly manages how these formulas are executed on computer hardware with the highest performance.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is BLAS so important for artificial intelligence?**
 

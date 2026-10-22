@@ -39,7 +39,7 @@ Es gilt als Terminal. Das Terminal führt es aus, der Läufer verwaltet es. Der 
 **Waschmaschine:** Programmiertes Waschen.
 **Autopilot:** Routenverfolgung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **In welchen Berufen wird es eingesetzt?**
 

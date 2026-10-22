@@ -56,7 +56,7 @@ A partir da versão 2.23 do Git, as tarefas confusas do comando git checkout for
 | Maior Risco | Abandono de carrinho, cobranças duplicadas | Perda de alterações não salvas no diretório de trabalho |
 | Abordagem Moderna | Apple/Google Pay, Headless Checkout | Usando git switch e git restore |
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é o significado geral da palavra Checkout?**
 

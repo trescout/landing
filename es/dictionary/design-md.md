@@ -22,7 +22,7 @@ A menudo lo encontrará en proyectos de código abierto o repositorios de softwa
 
 Puede confundirse con el archivo README.md; Mientras README le indica cómo ejecutar el proyecto, DESIGN.md explica por qué el proyecto se diseñó de esa manera.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué necesito un archivo de diseño separado?**
 

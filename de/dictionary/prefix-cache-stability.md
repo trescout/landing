@@ -22,7 +22,7 @@ Es wird in stark frequentierten Anwendungen der künstlichen Intelligenz und in 
 
 Es kann mit dem KV-Cache verwechselt werden; Der KV-Cache ist der Speicher des Modells zur Laufzeit. Dies ist eine Strategie, die sicherstellt, dass der Speicher stabil bleibt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Erhöht diese Methode die Genauigkeit?**
 

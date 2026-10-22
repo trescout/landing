@@ -47,7 +47,7 @@ Code: The logic, algorithms, and functions that determine how an application beh
 Asset: Visual, auditory, or stylistic media elements consumed by code and presented to the user (static resources).
 Data: Variable information entered into the system by users or generated dynamically in the database (dynamic state).
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is Asset and what does it mean in software?**
 

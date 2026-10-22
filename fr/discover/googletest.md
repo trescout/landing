@@ -84,7 +84,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Ingénieurs logiciels C++, développeurs de systèmes embarqués et architectes système.
-- **Licence:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **Licence:** BSD 3-Clause (licence open source flexible)
 - **Toit:** Bibliothèque de tests et de simulations C++
 - **Plateformes:** Linux, macOS, Windows, Android, iOS
 

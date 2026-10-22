@@ -53,7 +53,7 @@ Se confunde con una máquina virtual. La máquina lleva un sistema operativo com
 **Cocina:** Una fiambrera con sus ingredientes listos dentro.
 **Campamento:** Un kit de acampada transportado ordenadamente en su bolsa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué el contenedor es tan popular?**
 

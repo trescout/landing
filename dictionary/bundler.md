@@ -56,7 +56,7 @@ Web ekosisteminde farklı ihtiyaçlara yanıt veren öne çıkan araçlar şunla
 | **esbuild** | Go | Bundled | esbuild | İnanılmaz ham derleme hızı (Node.js araçlarından 10-100x hızlı) |
 | **Turbopack / Rspack** | Rust | Bundled / Hibrid | Rust motoru | Webpack ekosistemiyle uyumlu, devasa projeler için performans |
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bundler nedir ve modern web geliştirmede neden zorunludur?**
 

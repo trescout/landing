@@ -22,7 +22,7 @@ Il est privilégié dans les environnements de test d'agents autonomes susceptib
 
 À ne pas confondre avec le soft budget cap (plafond budgétaire souple) : le plafond souple envoie uniquement un e-mail d'alerte et continue de fonctionner lorsque la limite est approchée ou dépassée ; le plafond strict, quant à lui, arrête directement les opérations.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que voient les utilisateurs lorsque le plafond budgétaire strict est atteint ?**
 

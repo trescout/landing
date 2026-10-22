@@ -22,7 +22,7 @@ Antika telefonlarda, müze koleksiyonlarında ve retro temalı dekoratif tasarı
 
 Modern dijital tuş takımları veya dokunmatik ekranlı arayüzler ile karıştırılmamalıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden artık kullanılmıyor?**
 

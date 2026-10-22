@@ -24,7 +24,7 @@ Es findet sich in den Begrüßungsbildschirmen von Smartphones, Computer-Motherb
 
 Es ist mit RAM gemischt; RAM ist temporär und wird beim Ausschalten des Computers gelöscht, während ROM permanent ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum können die Informationen im ROM nicht geändert werden?**
 

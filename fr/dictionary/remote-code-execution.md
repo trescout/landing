@@ -24,7 +24,7 @@ Elle est considérée comme un risque de sécurité sur les serveurs, les applic
 
 Elle ne doit pas être confondue avec le simple vol de données ; cette situation implique un contrôle total du système au-delà des données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment puis-je m'en protéger ?**
 

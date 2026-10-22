@@ -2,12 +2,13 @@
 
 LinkSwift is a tool that obtains direct file download links from various cloud storage services using a JavaScript-based infrastructure. The software supports eight different popular cloud platforms, including Baidu Netdisk, Alibaba Cloud Drive, China Mobile Cloud, and Quark Drive.
 
-- ★ 25,678
+- ★ 27,020
 - JavaScript
 - GitHub Trending · 2026-10-17
 
 ## Updates
 
+- **October 22, 2026:** Stars 25,678 → 27,020, latest release v1.1.3 (February 18, 2026).
 - **October 19, 2026:** Stars 24,112 → 25,678, latest release v1.1.3 (February 18, 2026).
 - **October 17, 2026:** Stars 24,106 → 24,112, latest release v1.1.3 (February 18, 2026).
 

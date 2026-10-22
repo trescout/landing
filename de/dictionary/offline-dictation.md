@@ -22,7 +22,7 @@ Es wird in Notiz-Apps verwendet, die Privatsphäre erfordern, auf Geräten von P
 
 Es ist dasselbe wie Voice-to-Text, unterscheidet sich jedoch darin, dass keine Internetverbindung erforderlich ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie kann es so intelligent funktionieren, wenn es kein Internet gibt?**
 

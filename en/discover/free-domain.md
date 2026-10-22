@@ -47,7 +47,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Beginner friendly
 - **What offers:** Free domain + use with your own DNS provider
 - **Fee:** The service is free
-- **License:** AGPL-3.0 · ayrıntı aşağıda
+- **License:** AGPL-3.0 · detail below
 
 **License:** AGPL-3.0 · Using the service (getting a free domain) is free. However, if you take the CODE of the platform and host or modify it yourself, you must also open the source code of your own version (even if you make it available over the network) as per the AGPL.
 

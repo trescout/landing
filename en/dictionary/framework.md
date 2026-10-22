@@ -22,7 +22,7 @@ It is frequently used when developing websites, mobile applications and artifici
 
 Can be mixed with libraries; A library is a tool you call, a framework is a structure within which you work.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I use frameworks?**
 

@@ -45,7 +45,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Varie · selon le projet que vous choisissez
 - **Format:** Collection de guides étape par étape
 - **Frais:** Gratuit
-- **Licence:** Belirtilmemiş · ayrıntı aşağıda
+- **Licence:** Non précisé · détail ci-dessous
 
 **Licence:** ⚠️ Aucune licence précisée. Copyright « tous droits réservés » : lecture et suivi gratuits, mais la copie et la republication du contenu nécessitent une autorisation.
 

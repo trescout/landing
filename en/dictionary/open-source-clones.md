@@ -22,7 +22,7 @@ It is used in the software world when developing alternative tools or creating m
 
 It may be confused with the term simply 'Clone' but this term specifically covers those that are open source and community driven.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are open source copies legal?**
 

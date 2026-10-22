@@ -22,7 +22,7 @@ Primeiro, você começa aprendendo profundamente protocolos de rede e tecnologia
 
 Diferente da segurança focada em defesa (defensive), aqui você tenta ativamente acionar as vulnerabilidades.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essa habilidade é legal?**
 

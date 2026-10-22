@@ -40,7 +40,7 @@ Critère de sélection : compatibilité linguistique, communauté et support CI.
 **Ensemble de mesures :** Outils étalonnés.
 **Salle de sport :** Équipement programmé.
 
-## Foire aux questions
+## Questions et réponses
 
 **Lequel faut-il choisir ?**
 

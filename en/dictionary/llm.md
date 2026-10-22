@@ -33,7 +33,7 @@ Mistaking for a Search Engine: Models are probabilistic completion engines, not 
 - Ignoring Hallucinations: Instead of pushing outputs directly to the production line, they must be audited using RAG and guardrail layers.
 - Choosing Unnecessarily Large Models: Instead of running 70B+ models for simple classifications, optimized SLMs should be preferred.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Do Large Language Models (LLM) truly think or understand?**
 

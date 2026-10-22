@@ -22,7 +22,7 @@ It is used in RAG systems, recommendation engines and large databases.
 
 Can be confused with Vector Database; Vector Database is a repository, and Vector Index is the search system within that repository.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is the index important?**
 

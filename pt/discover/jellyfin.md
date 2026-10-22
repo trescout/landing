@@ -64,7 +64,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Precisa instalar em um servidor/computador médio
 - **O que oferece:** Streaming de mídia pessoal · de qualquer dispositivo
 - **Taxa:** Totalmente gratuito · sem anúncios
-- **Licença:** GPL-2.0 · ayrıntı aşağıda
+- **Licença:** GPL-2.0 · detalhe abaixo
 
 **Licença:** GPL-2.0 · Totalmente gratuito e de uso gratuito. Se você modificar e distribuir o software, deverá compartilhar (copyleft) suas alterações sob a mesma licença GPL e código-fonte. Não há obrigação se você usar apenas você mesmo.
 

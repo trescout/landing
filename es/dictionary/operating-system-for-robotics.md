@@ -24,7 +24,7 @@ Se utiliza en robots industriales, vehículos autónomos y proyectos de robótic
 
 No confundir con los sistemas operativos normales (Windows/macOS); Estos sistemas están optimizados únicamente para gestionar hardware robótico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario ser ingeniero para utilizar este sistema?**
 

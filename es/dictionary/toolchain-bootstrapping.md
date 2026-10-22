@@ -18,7 +18,7 @@ Primero, se escribe una pieza básica de código y este código se hace ejecutab
 
 Se utiliza con frecuencia en el desarrollo de compiladores de lenguajes de programación y herramientas de sistemas operativos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es tan complicado?**
 

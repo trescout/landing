@@ -22,7 +22,7 @@ Les essaims de drones autonomes sont utilisés dans l’optimisation logistique 
 
 À ne pas confondre avec une seule superintelligence ; Ici, l'intelligence ne réside pas dans un seul point, mais dans l'interaction de l'ensemble du troupeau.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Si une unité tombe en panne, le système va-t-il planter ?**
 

@@ -22,7 +22,7 @@ Os códigos escritos em uma infraestrutura comum são executados sendo traduzido
 
 Diferencia-se nesse aspecto dos aplicativos nativos presos a um único dispositivo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é preferido?**
 

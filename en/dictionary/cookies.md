@@ -24,7 +24,7 @@ They are used in user session management, cart tracking on e-commerce sites, and
 
 They are confused with device fingerprinting; while cookies can be easily cleared from browser settings, fingerprints cannot be easily deleted because they rely on hardware features.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will clearing cookies harm my computer?**
 

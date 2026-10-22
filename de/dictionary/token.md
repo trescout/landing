@@ -22,7 +22,7 @@ Es wird bei Kostenberechnungen und Geschwindigkeitsmessungen von Modellen der k�
 
 Es wird mit der Wortzahl verwechselt, aber Token können manchmal Teil eines Wortes oder nur ein Leerzeichen sein.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie viele Wörter sind ungefähr 1000 Token?**
 

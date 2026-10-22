@@ -38,7 +38,7 @@ Kann mit dem CEO verwechselt werden. Der CEO leitet das Unternehmen, während de
 **Parlament:** Der stellvertretende Vorsitzende, der die Sitzung leitet.
 **Panel:** Der Moderator, der den Rednern das Wort erteilt.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Verwaltet der Vorsitzende die täglichen Angelegenheiten des Unternehmens?**
 

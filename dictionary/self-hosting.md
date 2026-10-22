@@ -22,7 +22,7 @@ Kendi bulut depolama alanınızı kurmak, kişisel yapay zekâ modellerinizi ça
 
 Bulut bilişim ile karıştırılır ancak bulutta başkasının sunucusunu kullanırken, burada donanım ve yazılım kontrolü tamamen sizdedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden self-hosting tercih edilir?**
 

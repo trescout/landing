@@ -2,6 +2,8 @@
 
 *Intelligence artificielle · Dernière mise à jour : 9 juin 2026*
 
+> CV
+
 Il s'agit d'une technologie qui permet aux ordinateurs d'analyser des données visuelles (photos, vidéos) et de donner un sens aux objets, personnes ou événements qui s'y trouvent.
 
 ## Définition
@@ -22,7 +24,7 @@ Il est utilisé dans les véhicules autonomes, les systèmes de reconnaissance f
 
 Peut être mélangé avec le multimodal ; le multimodal peut traiter à la fois du texte et des images, tandis que la vision par ordinateur est orientée visuellement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **La vision par ordinateur peut-elle tout voir ?**
 

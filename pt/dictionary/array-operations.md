@@ -22,7 +22,7 @@ Ao escrever o código, os programadores colocam os dados em uma lista (array). E
 
 Pode ser confundido com loops; No entanto, enquanto os loops processam os elementos um por um, as operações de array os processam em lotes para acelerar o processo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usamos isso em vez de fazer uma transação por uma?**
 

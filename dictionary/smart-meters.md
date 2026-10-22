@@ -22,7 +22,7 @@ Akıllı ev projelerinde, modern elektrik şebekelerinde ve belediye su yönetim
 
 Sadece sayaç okumaya yarayan basit dijital ekranlarla karıştırılmamalıdır; akıllı sayaçlar çift yönlü veri iletişimi ve otomasyon sunar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Faturaları nasıl etkiler?**
 

@@ -22,7 +22,7 @@ Os editores de código geralmente o alertam durante a escrita. Quando você rece
 
 É confundido com erros lógicos; enquanto um erro de sintaxe impede que o código funcione, um erro lógico faz com que o código forneça um resultado incorreto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que devo fazer se receber um erro de sintaxe?**
 

@@ -22,7 +22,7 @@ Você pode prever as demandas dos clientes com análise de dados, reduzir custos
 
 Não deve ser confundido apenas com a «venda de software», onde o valor acrescentado inteligente proporcionado pela inteligência artificial está no centro.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Alguém pode ganhar dinheiro com inteligência artificial?**
 

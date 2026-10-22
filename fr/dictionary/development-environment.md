@@ -22,7 +22,7 @@ Il est utilisé lors du développement de sites Web, du codage d’applications 
 
 Il est souvent confondu avec la production : alors que l'environnement de développement est la cuisine où l'on se contente d'écrire du code et d'expérimenter, l'environnement de production est le restaurant où la nourriture est servie au client.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le code ne peut-il pas être écrit sans environnement de développement ?**
 

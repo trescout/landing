@@ -22,7 +22,7 @@ It is used in invoice processing, authentication systems and digitization of leg
 
 It is almost the same as OCR; While text extraction is the general name for this process, OCR is the name of the technology used.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can he read handwriting?**
 

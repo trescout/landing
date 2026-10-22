@@ -22,7 +22,7 @@ It is used to monitor machine health in factories, track experiment results in l
 
 It can be confused with a database, but this device is rather physical hardware at the stage of collecting raw data.
 
-## Frequently asked questions
+## Questions and answers
 
 **How does a data logger store data?**
 

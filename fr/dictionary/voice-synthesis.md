@@ -22,7 +22,7 @@ Il est utilisé dans les applications de livres audio, les lecteurs d’écran p
 
 Peut être confondu avec le clonage vocal ; La synthèse vocale est une production vocale générale, tandis que le clonage vocal imite la voix d'une personne spécifique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **La synthèse vocale et la synthèse vocale sont-elles la même chose ?**
 

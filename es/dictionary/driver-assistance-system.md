@@ -24,7 +24,7 @@ Se encuentra en automóviles y vehículos modernos que desarrollan tecnología d
 
 Puede confundirse con los vehículos autónomos, pero estos sistemas se centran en apoyar el control del conductor.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estos sistemas pueden tomar el vehículo sin que yo lo conduzca por completo?**
 

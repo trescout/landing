@@ -42,7 +42,7 @@ Es wird mit allgemeiner Transkription verwechselt. Whisper ist ein Modell, Trans
 **Interpreter:** Übertragung von Sprache zu Sprache.
 **Schreibmaschine:** Schreiben Sie nicht, was gesagt wird.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann ich es in meiner eigenen Anwendung verwenden?**
 

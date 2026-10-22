@@ -24,7 +24,7 @@ It is frequently used in game engines, film productions, and architectural visua
 
 Traditional rendering methods simplify light not according to physical laws, but only in a way that looks visually pleasing.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it not used in every game?**
 

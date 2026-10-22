@@ -40,7 +40,7 @@ The "because" part of the sentence reminds us why the work is being done and ser
 **Orchestra:** Program that organizes rehearsals according to the day of the concert.
 **Building site:** Site plan setting crane and concrete sequence.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why do software developers use this?**
 

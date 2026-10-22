@@ -34,7 +34,7 @@ Dispositivos domésticos inteligentes ou aplicativos de notas que se recusam a f
 - Esquecimento da criptografia local: armazenar dados no dispositivo cliente apresenta riscos físicos; Os bancos de dados locais devem ser criptografados de ponta a ponta (criptografia em repouso).
 - Ignorar os limites de hardware: Especialmente ao executar modelos locais de inteligência artificial, instalar um modelo não otimizado sem considerar RAM, VRAM e orçamento de bateria pode travar o dispositivo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Qual é a principal diferença entre a arquitetura offline-first e a arquitetura cliente-servidor tradicional?**
 

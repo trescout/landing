@@ -24,7 +24,7 @@ Actúa como la herramienta fundamental en los procesos de desarrollo de aplicaci
 
 Es diferente de los gestores de complementos generales de los editores de código; se centra directamente en el propio ecosistema del lenguaje y en el proceso de compilación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo acelera SwiftPM el proyecto?**
 

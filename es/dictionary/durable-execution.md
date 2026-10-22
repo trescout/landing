@@ -22,7 +22,7 @@ Se utiliza para transferencias bancarias, largos procesos de procesamiento de da
 
 Puede confundirse con el guardado automático, pero preserva toda la lógica operativa del programa, no sólo el archivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todos los programas deberían ser duraderos?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans les bases de données d'entreprise, les serveurs de fichier
 
 Il ne faut pas la confondre avec une sauvegarde complète ; une sauvegarde complète copie tout à chaque fois.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce difficile lors de la restauration ?**
 

@@ -24,7 +24,7 @@ Se utiliza en grandes equipos de software y en empresas que desarrollan prototip
 
 Solo podría confundirse con un escritorio remoto; sin embargo, este sistema está optimizado específicamente para escribir código.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa con mis códigos si mi computadora se rompe?**
 

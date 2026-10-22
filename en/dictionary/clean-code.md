@@ -43,7 +43,7 @@ Rule: Running code is the first step, read code is the second step.
 **Shelves:** Sorted by genre and author.
 **Garden:** Pruned branch arrangement.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Isn't it enough to work?**
 

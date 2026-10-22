@@ -22,7 +22,7 @@ Se prefiere en sistemas de control robótico, software de conducción autónoma 
 
 No debe confundirse con los modelos de lenguaje tradicionales que piensan paso a paso, ya que estos últimos predicen la siguiente palabra en secuencia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no todas las inteligencias artificiales utilizan este método?**
 

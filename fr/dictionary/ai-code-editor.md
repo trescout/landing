@@ -22,7 +22,7 @@ Il est utilisé dans les processus de développement de logiciels modernes et da
 
 À ne pas confondre avec un simple éditeur de texte ; Ces outils connaissent la logique de fonctionnement du code.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cet éditeur écrira-t-il tout mon code ?**
 

@@ -38,7 +38,7 @@ Neden ikili: İki durumu ayırt etmek çok durumdan kararlı ve hızlıdır. Ü�
 
 *Lambanın açık veya kapalı olması gibidir; bilgisayar dünyayı anahtarlarla anlar.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden sadece 0 ve 1?**
 

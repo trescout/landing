@@ -22,7 +22,7 @@ Otonom araçlarda, lojistik depolarındaki akıllı robotlarda ve fabrikalardaki
 
 Sadece yazılım ortamında çalışan sanal zekâlardan farklı olarak, mutlaka fiziksel bir gövdeye veya donanıma ihtiyaç duyar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **İnsanlara zarar verebilir mi?**
 

@@ -22,7 +22,7 @@ It is used in messaging applications, cloud storage services and secure file tra
 
 It can be confused with mere encryption, but here the users have complete control of the key.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can the service provider see throughput?**
 

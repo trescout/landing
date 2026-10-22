@@ -48,11 +48,11 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Speech-to-Text](https://trescout.com/es/dictionary/speech-to-text/)
-- [STT](https://trescout.com/es/dictionary/stt/)
 - [GGUF](https://trescout.com/es/dictionary/gguf/)
 - [Inference](https://trescout.com/es/dictionary/inference/)
 - [CPU](https://trescout.com/es/dictionary/cpu/)
 - [GPU](https://trescout.com/es/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para desarrolladores que desean ejecutar sistemas de reconocimiento de voz rápidos y centrados en la privacidad en su propio hardware.
 - **Licencia:** MIT

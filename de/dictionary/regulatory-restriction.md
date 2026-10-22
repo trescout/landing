@@ -28,7 +28,7 @@ Softwareteams müssen beim Entwurf der Architektur Sicherheits- und Regulierungs
 
 Interne Plattformrichtlinien (Nutzungsbedingungen/Richtlinie zur akzeptablen Nutzung) sollten nicht mit gesetzlichen Regulierungsbeschränkungen verwechselt werden. Plattformregeln sind unternehmenseigene Geschäftspräferenzen; Regulatorische Beschränkungen sind staatliche Gesetze, deren Verstoß zu hohen Bußgeldern und rechtlichen Sanktionen im Verhältnis zum Umsatz des Unternehmens führt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Bedeutung regulatorischer Beschränkungen?**
 

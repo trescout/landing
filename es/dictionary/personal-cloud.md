@@ -42,7 +42,7 @@ Se confunde con Drive. Drive es de la empresa, la nube personal es tuya. Uno es 
 **Despensa:** Almacenamiento en casa.
 **Archivo:** Sala de documentos personales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede acceder si se corta?**
 

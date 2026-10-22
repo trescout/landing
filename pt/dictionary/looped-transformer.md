@@ -22,7 +22,7 @@ Os dados entram no modelo e passam pelo mesmo bloco de camadas várias vezes. A 
 
 Pode ser confundido com a arquitetura transformer padrão, mas aqui o número de camadas é fisicamente menor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Funciona de forma mais lenta?**
 

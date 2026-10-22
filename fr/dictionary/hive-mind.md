@@ -22,7 +22,7 @@ Il est utilisé dans la résolution de problèmes complexes, l’analyse de donn
 
 Il est similaire aux systèmes multi-agents, mais l’accent est mis sur les unités agissant comme un seul esprit.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi l’esprit de la ruche est-il meilleur ?**
 

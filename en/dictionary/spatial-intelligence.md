@@ -22,7 +22,7 @@ It is used in autonomous robots, unmanned aerial vehicles, and advanced augmente
 
 It can be confused with Computer Vision, but this encompasses not just seeing, but spatial reasoning after seeing.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it important?**
 

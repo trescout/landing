@@ -20,7 +20,7 @@ Dès que le développeur télécharge son code sur le système, les robots exéc
 
 Il s'agit d'une pratique courante dans les grandes équipes logicielles et les cycles de développement logiciel modernes (DevOps).
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne faisons-nous pas de tests manuels ?**
 

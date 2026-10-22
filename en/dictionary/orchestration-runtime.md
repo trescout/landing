@@ -22,7 +22,7 @@ It is used in multi-stage artificial intelligence applications, agent systems, a
 
 It differs from a standalone artificial intelligence model; the focus here is on managing multiple pieces.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is an orchestration runtime needed?**
 

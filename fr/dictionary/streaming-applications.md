@@ -22,7 +22,7 @@ Il est utilisé sur Netflix, Spotify ou les plateformes de diffusion en direct.
 
 Il est confondu avec le téléchargement ; En téléchargement, vous ne pouvez pas regarder sans acheter le fichier en entier, tandis qu'en streaming, vous démarrez immédiatement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si ma vitesse Internet est lente ?**
 

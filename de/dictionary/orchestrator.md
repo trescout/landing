@@ -22,7 +22,7 @@ Er wird bei der Verwaltung von Containern in Cloud-Computing-Infrastrukturen und
 
 Er wird oft mit einer normalen Programmbibliothek verwechselt. Während Bibliotheken nur eine bestimmte Aufgabe erfüllen, koordiniert dieses System, wie all diese Bibliotheken und Dienste zusammenarbeiten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Funktioniert die Software nicht ohne dieses System?**
 

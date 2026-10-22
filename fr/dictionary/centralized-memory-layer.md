@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes multi-agents et les infrastructures d’intel
 
 Elle peut être confondue avec une base de données, mais la structure ici inclut non seulement des données mais également une expérience et un contexte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrait-il être central ?**
 

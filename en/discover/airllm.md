@@ -71,7 +71,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [CPU](https://trescout.com/en/dictionary/cpu/)
 
 - **Who it is for:** It is intended for researchers who have limited hardware resources and want to test high-capacity 70B and 405B models locally, perform data mining, and evaluation.
-- **License:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **License:** Apache-2.0 (An open-source license offering broad freedom)
 - **Requirement:** Minimum 4 GB VRAM GPU and high-speed NVMe SSD disk space
 - **Ecosystem:** Python, PyTorch, and Hugging Face Transformers
 

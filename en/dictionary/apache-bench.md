@@ -24,7 +24,7 @@ It is used in load tests conducted before a website goes live, in server hardwar
 
 Unlike advanced load testing tools that simulate complex user scenarios, it focuses solely on placing sequential or concurrent load on a specific HTTP connection.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is an Apache web server required to use ApacheBench?**
 

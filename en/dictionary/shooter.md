@@ -22,7 +22,7 @@ It frequently appears in e-sports organizations, online multiplayer platforms, a
 
 It can be confused with action and adventure games. General action games may focus on puzzle-solving or melee combat, but the core mechanic of the shooter genre is aiming and shooting.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the main difference between FPS and TPS shooters?**
 

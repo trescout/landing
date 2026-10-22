@@ -22,7 +22,7 @@ It is preferred for low-resource devices or mobile artificial intelligence appli
 
 It might be confused with the standard transformer architecture, but here the number of layers is physically smaller.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it run slower?**
 

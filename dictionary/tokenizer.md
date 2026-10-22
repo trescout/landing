@@ -41,7 +41,7 @@ Tokenizer sözlüğünde yer alan ancak modelin ön eğitimi sırasında metin g
 
 *Tokenizer, bir kütüphaneye giren yüz binlerce farklı kitabı tek tek harflere bölmek yerine; en sık kullanılan hece ve kelime köklerine özel barkodlar basan bir tasnif makinesidir. Model metni okurken doğrudan harfleri görmez, her parça için okuttuğu barkod numaralarını hafızasına kaydeder.*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Tokenizer ne demek, Türkçe karşılığı nedir?**
 

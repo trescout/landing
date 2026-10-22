@@ -22,7 +22,7 @@ It is used in the medical world and neurology clinics. It is also studied in art
 
 It should not be confused with mere forgetfulness; While forgetfulness may be temporary, dementia is a permanent and progressive process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are dementia and Alzheimer's the same thing?**
 

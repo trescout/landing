@@ -22,7 +22,7 @@ Es wird auf Websites, mobilen Anwendungen und allen digitalen Plattformen verwen
 
 Es handelt sich nicht nur um ein visuelles Thema, sondern um ein System, das die gesamte Interaktionslogik eines Produkts abdeckt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es wichtig?**
 

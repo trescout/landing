@@ -22,7 +22,7 @@ As regras definidas pelos administradores do sistema são verificadas automatica
 
 Define os limites administrativos e de segurança, em vez da lógica técnica do código.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é importante?**
 

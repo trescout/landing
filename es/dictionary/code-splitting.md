@@ -22,7 +22,7 @@ Se utiliza en aplicaciones web y sitios a gran escala que se preocupan por la ex
 
 Puede confundirse con agrupar; Mientras que la agrupación combina archivos, la división de código los separa inteligentemente en partes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Habrá un retraso cuando el usuario haga clic en la página?**
 

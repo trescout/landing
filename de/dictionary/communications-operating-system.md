@@ -22,7 +22,7 @@ Es wird in Kundendienstzentren, großen Unternehmensbetrieben und persönlichen 
 
 Nicht zu verwechseln mit einer Messaging-App; Dies ist eine Verwaltungsplattform.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird es benötigt?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans des projets logiciels complexes, dans le développement de 
 
 Il peut être confondu avec des outils généraux d'analyse de code ou des services d'indexation de code sur Internet.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi parle-t-on de « local d’abord » ?**
 

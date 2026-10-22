@@ -22,7 +22,7 @@ It is used in organizing meeting notes, academic studies and analyzing personal 
 
 Unlike tools that simply copy text, it understands the content of the text and gives meaning to it.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is my privacy protected?**
 

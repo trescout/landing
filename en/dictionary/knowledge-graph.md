@@ -22,7 +22,7 @@ It is used to deliver more accurate results in search engines and to analyze com
 
 It is not an ordinary Excel table or list because the relationship between the data is important here rather than the data itself.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the difference between knowledge graph and RAG?**
 

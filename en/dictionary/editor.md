@@ -22,7 +22,7 @@ It is used in all software development processes. It is the first tool opened wh
 
 It can be confused with ordinary text editors (such as Notepad); but code editors have special abilities to understand the logic of the software.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can any text editor be used to write code?**
 

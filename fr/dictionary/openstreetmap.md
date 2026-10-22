@@ -43,7 +43,7 @@ Les données brutes peuvent être téléchargées depuis Planet.osm. Les images 
 **Logiciel open source :** Noyau Linux en croissance avec contribution volontaire.
 **Science citoyenne :** Collecte des enregistrements d'observations d'oiseaux dans une base de données commune.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce vraiment gratuit ?**
 

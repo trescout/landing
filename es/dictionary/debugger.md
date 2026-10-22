@@ -22,7 +22,7 @@ Se utiliza con frecuencia en entornos de desarrollo de software, herramientas de
 
 Se puede confundir con un compilador. Mientras que el compilador traduce todo el código a lenguaje de máquina, el depurador se centra en encontrar errores lógicos dentro del código en ejecución.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿No puedo depurar sin usar un depurador?**
 

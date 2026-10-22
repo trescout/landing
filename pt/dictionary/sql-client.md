@@ -42,7 +42,7 @@ ORM (Object-Relational Mapping) é a camada que permite que você se comunique c
 **Contabilidade:** O auditor que examina os itens do livro contábil um por um.
 **Logística:** O terminal portátil que lista os produtos no armazém.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É necessário saber SQL?**
 

@@ -22,7 +22,7 @@ Il s’agit d’un élément fondamental des outils d’accessibilité, des cent
 
 Il est confondu avec une simple voix off ; Cependant, ce processus est un calcul mathématique complexe qui calcule également le sens et l’accent du texte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la différence entre la synthèse vocale et la synthèse vocale ?**
 

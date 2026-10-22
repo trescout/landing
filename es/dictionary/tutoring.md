@@ -43,7 +43,7 @@ La crisis socioeconómica más fundamental del mundo de la educación durante lo
 - Tutoría versus enseñanza: la enseñanza generalmente tiene como objetivo transmitir un plan de estudios a una clase numerosa; La tutoría, por otro lado, es una microorientación que se centra en eliminar las lagunas en la comprensión de un solo individuo.
 - Tutoría frente a AI Chatbot: un chatbot normal resuelve la tarea por usted; Un tutor de IA ayuda a tu cerebro a establecer conexiones neuronales ayudándote a encontrar la solución paso a paso.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa tutoría? ¿Cuál es su equivalente turco?**
 

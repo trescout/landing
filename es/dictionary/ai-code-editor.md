@@ -22,7 +22,7 @@ Se utiliza en procesos modernos de desarrollo de software y entornos de codifica
 
 No confundir con un simple editor de texto; Estas herramientas conocen la lógica de funcionamiento del código.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Este editor escribirá todo mi código?**
 

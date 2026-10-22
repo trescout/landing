@@ -22,7 +22,7 @@ Es wird in Chatbots, Content-Produktionstools und Übersetzungssystemen verwende
 
 Es kann mit der Autovervollständigung verwechselt werden, aber die Textgenerierung ist viel umfassender und kreativer.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Macht künstliche Intelligenz Fehler bei der Texterstellung?**
 

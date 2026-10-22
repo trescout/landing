@@ -22,7 +22,7 @@ Es wird von Anlegern auf Finanzmärkten und Aktienmärkten genutzt.
 
 Es kann mit Spekulation verwechselt werden; Spekulationen konzentrieren sich auf kurzfristige Preisbewegungen, die sich auf den langfristigen Wert konzentrieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann ich sofort Geld verdienen?**
 

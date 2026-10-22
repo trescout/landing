@@ -22,7 +22,7 @@ Ele se conecta às APIs de diversos serviços, converte os dados recebidos em um
 
 Não deve ser confundido apenas com um aplicativo de mensagens; Esta é uma plataforma de gerenciamento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é necessário?**
 

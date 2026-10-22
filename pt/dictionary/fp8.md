@@ -24,7 +24,7 @@ Os valores numéricos são convertidos para o formato FP8 enquanto o modelo é t
 
 Pode ser confundido com Quantização; FP8 é na verdade um tipo de quantização.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso reduz a qualidade do modelo?**
 

@@ -22,7 +22,7 @@ Es wird in großen Sprachmodellen, Projekten, die lange Kontextfenster erfordern
 
 Kann mit Quantisierung verwechselt werden; Während die Quantisierung die Gewichte des Modells reduziert, komprimiert die Token-Komprimierung die verarbeiteten Daten selbst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Reduziert die Tokenkomprimierung die Qualität?**
 

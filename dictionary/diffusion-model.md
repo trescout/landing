@@ -22,7 +22,7 @@ DALL-E, Midjourney ve Stable Diffusion gibi görsel oluşturma araçlarında kul
 
 GAN (Generative Adversarial Networks) ile karıştırılır, ancak difüzyon modelleri daha kararlı ve yüksek kaliteli sonuçlar üretir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sadece görsel mi üretir?**
 

@@ -22,7 +22,7 @@ Se utiliza especialmente para desarrolladores que desean ejecutar modelos de len
 
 Puede confundirse con cargar todo el modelo en la memoria; aquí solo se trata de cargar bajo demanda.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Este método reduce la velocidad?**
 

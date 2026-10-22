@@ -22,7 +22,7 @@ Se utiliza en proyectos de software corporativo, proyectos de código abierto y 
 
 No confundir con la funcionalidad del código; Estas guías regulan la apariencia del código, no cómo funciona.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería seguir estas reglas?**
 

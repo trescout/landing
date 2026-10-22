@@ -22,7 +22,7 @@ Se utiliza con frecuencia en pruebas de estrés, planificación de la capacidad 
 
 Puede confundirse con herramientas de prueba de penetración para encontrar vulnerabilidades de seguridad; El objetivo aquí no es romper el sistema, sino sopesar cuánta carga puede soportar.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿En qué se diferencia del tráfico de usuarios real?**
 

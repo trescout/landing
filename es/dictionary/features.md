@@ -63,7 +63,7 @@ Uno de los riesgos más críticos que se encuentran en los productos de software
 - El coeficiente de complejidad (Complejidad Ciclomática) en la base de código y el costo de mantenimiento aumentan logarítmicamente.
 La mayor enseñanza de la filosofía Unix es esta: "Haz una sola cosa y hazla bien". Los productos digitales más exitosos no son los que tienen cientos de funciones mediocres, sino los que cuentan con unas pocas funciones críticas que funcionan a la perfección.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa 'features' y cuál es su equivalente en español?**
 

@@ -22,7 +22,7 @@ Se utiliza con frecuencia en aplicaciones de notas utilizadas mientras se viaja 
 
 Se confunde con el modo operativo fuera de línea: mientras que el modo fuera de línea solo tiene como objetivo evitar errores cuando no hay Internet, el enfoque fuera de línea primero basa el principio de funcionamiento principal de la aplicación completamente en datos locales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué sucede si los cambios realizados fuera de línea entran en conflicto con los datos de otros usuarios cuando están en línea?**
 

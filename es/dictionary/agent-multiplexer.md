@@ -22,7 +22,7 @@ Se utiliza en proyectos de inteligencia artificial a gran escala y sistemas de a
 
 Es similar a los sistemas multiagente, pero aquí el mecanismo de "enrutamiento" (multiplexación) está a la vanguardia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué utilizamos varios agentes en lugar de uno solo?**
 

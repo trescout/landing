@@ -22,7 +22,7 @@ It is used to run large models on mobile phones or personal computers (self-host
 
 It is confused with training the model, but this is an optimization process performed after training.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does the model's intelligence decrease?**
 

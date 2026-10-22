@@ -22,7 +22,7 @@ O documento entra no sistema, algoritmos de IA ou de reconhecimento de caractere
 
 É quase igual ao OCR; Embora extração de texto seja o nome geral para esse processo, OCR é o nome da tecnologia utilizada.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele consegue ler caligrafia?**
 

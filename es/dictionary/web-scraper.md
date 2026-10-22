@@ -22,7 +22,7 @@ Se utiliza en investigaciones de mercado, comparación de precios y estudios de 
 
 El web scraping a veces puede confundirse con una simple operación de copiar y pegar, pero este método es completamente automático.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se pueden recuperar datos de todos los sitios?**
 

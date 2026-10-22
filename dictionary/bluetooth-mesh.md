@@ -22,7 +22,7 @@ Akıllı aydınlatma sistemleri, endüstriyel sensör ağları ve büyük ofis o
 
 Standart Bluetooth bağlantısı sadece iki cihaz arasındadır, Mesh ise tüm cihazları birbirine bağlar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bluetooth Mesh için internet gerekir mi?**
 

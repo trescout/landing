@@ -22,7 +22,7 @@ It is used to ensure security in software development processes, system manageme
 
 It may be confused with the term Vulnerability Scanning; it is a tool, it is the skill you have.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it necessary to know code to gain cyber security skills?**
 

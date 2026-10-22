@@ -22,7 +22,7 @@ Es wird häufig in der Webentwicklung, beim Aufbau mobiler Anwendungen und bei d
 
 Es kann mit der Bibliothek verwechselt werden; Bibliotheken sind nur Werkzeuge, während das Framework die gesamte Funktionsweise bestimmt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sollte ich in jedem Projekt Frameworks verwenden?**
 

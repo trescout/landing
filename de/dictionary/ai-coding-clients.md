@@ -22,7 +22,7 @@ Sie werden in gängigen Code-Editoren wie VS Code, terminalbasierten Entwicklung
 
 Kann mit KI-Codierungsagenten verwechselt werden; Clients bieten jedoch eine Schnittstelle, die stärker unter Ihrer Kontrolle steht, während Agenten dazu neigen, Aufgaben selbst zu erledigen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verhindert die Verwendung eines KI-Codierungsclients, dass ich das Codieren erlernen kann?**
 

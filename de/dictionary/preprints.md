@@ -22,7 +22,7 @@ In der akademischen Welt werden sie intensiv genutzt, insbesondere in sich schne
 
 Sie sollten nicht mit den endgültigen Artikeln in Fachzeitschriften mit Peer-Review verwechselt werden; dies sind Entwürfe, die noch keine vollständige Genehmigung erhalten haben.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind Preprints zuverlässig?**
 

@@ -22,7 +22,7 @@ Se utiliza en dispositivos domésticos inteligentes, vehículos autónomos y sen
 
 Se confunde con la computación en la nube; La nube es central, el borde es local.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no enviamos todo a la nube?**
 

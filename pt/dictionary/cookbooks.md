@@ -22,7 +22,7 @@ Ele é encontrado na maioria das bibliotecas de código aberto e na documentaç�
 
 Pode ser confundido com Tutorial; Os treinamentos ensinam um assunto do início ao fim, enquanto os livros de receitas oferecem soluções rápidas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Usar um livro de receitas é preguiça?**
 

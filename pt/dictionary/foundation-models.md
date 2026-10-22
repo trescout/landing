@@ -22,7 +22,7 @@ Eles são usados em ferramentas de redação de textos, assistentes de codifica�
 
 Eles são frequentemente confundidos com modelos de escopo restrito, treinados apenas para realizar uma única tarefa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é a diferença entre um modelo de fundação e um modelo de inteligência artificial comum?**
 

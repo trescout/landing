@@ -22,7 +22,7 @@ O software digitaliza o documento e separa títulos, parágrafos e tabelas. Esse
 
 Confunde-se apenas com a cópia de texto, mas a análise transfere os dados preservando sua estrutura (tabela ou cabeçalho).
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele pode ler todos os documentos?**
 

@@ -22,7 +22,7 @@ Se utiliza al diseñar interfaces de sitios web, preparar contenido para redes s
 
 A menudo se confunde simplemente con "editor de código", pero las herramientas de diseño están orientadas visualmente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Necesito ser diseñador gráfico para utilizar una herramienta de diseño?**
 

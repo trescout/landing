@@ -22,7 +22,7 @@ Es wird in modernen Softwareentwicklungsprozessen und professionellen Codierungs
 
 Nicht zu verwechseln mit einem einfachen Texteditor; Diese Tools kennen die Arbeitslogik des Codes.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird dieser Editor meinen gesamten Code schreiben?**
 

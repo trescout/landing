@@ -24,7 +24,7 @@ Se utiliza activamente en todos los ámbitos de la vida, desde asistentes de voz
 
 Se confunde con meros robots, pero la inteligencia artificial también puede existir como simple software sin necesidad de un cuerpo físico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede realmente pensar la inteligencia artificial?**
 

@@ -22,7 +22,7 @@ Il est utilisé lorsque vous contribuez à des projets open source ou lorsque vo
 
 Il ne faut pas le confondre avec le processus de clonage, qui télécharge simplement le projet sur l'ordinateur et l'examine ; Le processus fork crée une nouvelle propriété indépendante côté serveur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Vais-je recevoir des mises à jour du projet original après le fork ?**
 

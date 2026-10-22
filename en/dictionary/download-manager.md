@@ -22,7 +22,7 @@ It is used on file sharing sites, when downloading large software packages, or o
 
 It may be confused with browsers' own simple download managers, but these tools offer much more advanced features.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it speed up every file?**
 

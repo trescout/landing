@@ -22,7 +22,7 @@ Funciona dando comandos para realizar uma quantidade anormal de cliques, envio d
 
 Pode ser confundido com ferramentas de teste de intrusão usadas para encontrar vulnerabilidades de segurança; o objetivo aqui não é quebrar o sistema, mas avaliar quanta carga ele consegue suportar.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é a diferença em relação ao tráfego de usuários reais?**
 

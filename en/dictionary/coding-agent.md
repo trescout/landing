@@ -22,7 +22,7 @@ It is used as a plug-in in code editors such as VS Code or in specially develope
 
 It is the same as the term AI Coding Agent, but this refers to a more general concept.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will the coding agent take my job?**
 

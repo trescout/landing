@@ -22,7 +22,7 @@ La mayoría de los modelos de IA están escritos en C++, pero gracias a los enla
 
 Puede confundirse con API, pero mientras API se comunica a través de la red, la vinculación es una conexión a nivel de memoria dentro de la misma computadora.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no todas las bibliotecas están escritas en todos los idiomas?**
 

@@ -22,7 +22,7 @@ Você os encontrará frequentemente nos bastidores de sites, em frameworks de de
 
 Podem ser confundidos com plugins; enquanto os hooks são mais um ponto de conexão em nível de código, os plugins oferecem recursos de escopo mais amplo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não alteramos o código principal diretamente?**
 

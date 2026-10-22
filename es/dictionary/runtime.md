@@ -29,7 +29,7 @@ En ingeniería de software, el término "Runtime" se refiere a dos conceptos dif
 - Deno (2018): plataforma moderna que combina el motor V8 con la infraestructura de Rust y Tokio, tiene TypeScript integrado y una zona de pruebas de permisos segura.
 - Bun (2023): Es un entorno de trabajo de nueva generación que utiliza el motor JavaScriptCore de Apple WebKit y está escrito completamente desde cero en el lenguaje Zig, ofreciendo E/S de archivos/redes muchas veces más rápidas que Node.js.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa runtime y cuál es su equivalente turco?**
 

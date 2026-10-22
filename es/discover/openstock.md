@@ -71,7 +71,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Fácil (sitio listo) · avanzado (autohospedaje)
 - **Que ofertas:** Precio en tiempo real + alerta + análisis
 - **Tarifa:** Gratis
-- **Licencia:** AGPL-3.0 · ayrıntı aşağıda
+- **Licencia:** AGPL-3.0 · detalle a continuación
 
 **Licencia:** AGPL-3.0 · Sitio listo para usar de forma gratuita. Sin embargo, si modifica el proyecto, lo redistribuye o lo lanza como un servicio web, deberá abrir su propio código fuente, como dejan claro los desarrolladores.
 

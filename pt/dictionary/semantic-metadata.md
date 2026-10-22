@@ -22,7 +22,7 @@ Ele é criado adicionando informações adicionais (tags) a bancos de dados ou a
 
 Pode ser confundido com metadados comuns; A diferença é que o semântico carrega a relação de ‘significado’ dos dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo usar metadados semânticos?**
 

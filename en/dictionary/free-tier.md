@@ -44,7 +44,7 @@ It is considered free software. It's completely clear, it's part of the business
 **Test drive:** Gallery tour.
 **Library:** Free membership.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Unlimited?**
 

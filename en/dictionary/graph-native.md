@@ -22,7 +22,7 @@ It is used in complex social network analysis, recommendation systems, and appli
 
 It is frequently confused with traditional relational databases; However, this system establishes relationships at the design stage, not later.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I choose this method?**
 

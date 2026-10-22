@@ -22,7 +22,7 @@ Esta capacidad es vital al resumir libros extensos o analizar un proyecto de có
 
 Se confunde con el conocimiento general del modelo; El conocimiento general se adquiere en educación y la ventana de contexto es la memoria a corto plazo de la conversación actual.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué sucede si la ventana de contexto se llena?**
 

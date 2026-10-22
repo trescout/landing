@@ -22,7 +22,7 @@ Se prefiere en aplicaciones móviles, software de escritorio pequeño o procesos
 
 Se mezcla con bases de datos basadas en cliente-servidor; Este sistema es local mientras que requieren conectarse de forma remota.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son estas bases de datos adecuadas para big data?**
 

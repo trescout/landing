@@ -22,7 +22,7 @@ Günlük yazılım projelerinde, yeni bir dil öğrenirken veya büyük projeler
 
 Tamamen otonom bir şekilde tüm projeyi yapan 'AI Agent' ile karıştırılabilir; asistan genellikle sizin yönlendirmenizle hareket eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kodu tamamen o mu yazar?**
 

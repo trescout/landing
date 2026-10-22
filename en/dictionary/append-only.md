@@ -22,7 +22,7 @@ It is used in blockchain technologies, log keeping systems and auditable databas
 
 Can be confused with traditional databases; traditional ones can update the data, this method never allows.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if I make a mistake?**
 

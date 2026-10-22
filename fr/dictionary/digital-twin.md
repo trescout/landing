@@ -42,7 +42,7 @@ On le prend pour un modèle 3D. C'est une image statique, ceci est un système v
 **Miroir :** Surface reflétant le mouvement.
 **Ombre :** Obscurcissement suivant l'objet.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quelle est la différence avec la simulation ?**
 

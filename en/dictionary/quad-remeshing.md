@@ -22,7 +22,7 @@ It is used in game development, animation and 3D printing preparation processes.
 
 It should not be confused with mere model reduction (decimation); The aim here is to change the geometric order of the surface.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why not just use triangles?**
 

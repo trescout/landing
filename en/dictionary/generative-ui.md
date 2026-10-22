@@ -22,7 +22,7 @@ It is used in modern chatbots, personalized dashboards, and complex data analysi
 
 It may be confused with static web design, but the design here is produced entirely by artificial intelligence at that moment.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is Generative UI important?**
 

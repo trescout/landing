@@ -24,7 +24,7 @@ It is at the heart of all kinds of digital devices, from smartphones to supercom
 
 Mixed with GPU; While the GPU deals with visual and parallel tasks, the CPU deals with general logical tasks.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does CPU core mean?**
 

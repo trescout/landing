@@ -57,7 +57,7 @@ Peut être mélangé avec l'API. L'API est une porte unique, tandis que MCP est 
 **Chemin de fer:** Crochet standard pour relier les wagons.
 **Langue:** Langage protocolaire commun utilisé en diplomatie.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi le MCP est-il nécessaire ?**
 

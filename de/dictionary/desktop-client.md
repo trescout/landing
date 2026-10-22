@@ -22,7 +22,7 @@ Es wird in Betriebssystemen, Office-Programmen und professionellen Softwareentwi
 
 Kann mit Webanwendungen verwechselt werden; Während Webanwendungen auf den Browser angewiesen sind, arbeitet der Desktop-Client unabhängig.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist eine Desktop-App immer besser?**
 

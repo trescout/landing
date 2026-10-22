@@ -24,7 +24,7 @@ O software mostra aleatoriamente diferentes variações da página para as pesso
 
 Muitas vezes é confundido com testes A/B, que comparam duas versões diferentes de um único item, mas o MVT testa vários itens simultaneamente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que é necessário para fazer MVT?**
 

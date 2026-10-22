@@ -2,6 +2,8 @@
 
 *Inteligencia artificial · Última actualización: 22 de septiembre de 2026*
 
+> STT
+
 Speech-to-text (STT para abreviar, voz a texto) es la tecnología que convierte la voz en texto escrito.
 
 ## Definición y origen de la palabra
@@ -42,7 +44,7 @@ Se cree que es texto a voz. Convierte ese texto en sonido, este sonido en texto.
 **Máquina de escribir:** No escribas lo que se dice.
 **Sala de subtítulos:** Preparación del texto para su publicación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Entiende cada acento?**
 

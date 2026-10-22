@@ -22,7 +22,7 @@ Ele é usado nos resultados de pesquisa do Google, sistemas de recomendação e 
 
 Pode ser confundido com bancos de dados padrão, mas o foco aqui está no relacionamento entre os dados, não nos dados em si.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que eu usaria isso em vez do banco de dados normal?**
 

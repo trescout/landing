@@ -22,7 +22,7 @@ It is used in personal assistants, artificial intelligence tools that run long-t
 
 It is simply confused with the context window, but the memory engine is a much longer-term and permanent data storage process.
 
-## Frequently asked questions
+## Questions and answers
 
 **How does the memory engine affect privacy?**
 

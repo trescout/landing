@@ -47,7 +47,7 @@ Código: Es la lógica, los algoritmos y las funciones que determinan cómo se c
 - Asset (Activo): Son elementos multimedia visuales, auditivos o formales (recursos estáticos) que el código consume y que se presentan al usuario.
 Datos: Es la información variable que los usuarios introducen en el sistema o que se genera dinámicamente en la base de datos (estado dinámico).
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué es un activo (asset) y qué significa en el software?**
 

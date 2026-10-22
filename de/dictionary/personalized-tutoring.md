@@ -18,7 +18,7 @@ Das System analysiert die Antworten des Schülers und die aufgewendete Zeit. Wen
 
 Es wird in Sprachlernanwendungen, Online-Bildungsplattformen und Schulunterstützungssoftware verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ersetzt es den Lehrer vollständig?**
 

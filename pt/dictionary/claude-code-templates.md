@@ -41,7 +41,7 @@ Regra: O esqueleto é o ponto de partida, não um livro de regras. À medida que
 **Molde de alfaiate:** Modelo de corte para o corpo.
 **Receita culinária:** Kit inicial com medidas.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Os modelos podem ser personalizados?**
 

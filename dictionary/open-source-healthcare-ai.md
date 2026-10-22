@@ -22,7 +22,7 @@ Hastanelerde, tıbbi araştırma merkezlerinde ve kişisel sağlık takibi uygul
 
 Ticari sağlık yazılımlarıyla karıştırılabilir, ancak bu modellerin içi herkes tarafından görülebilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu modeller doktorların yerini mi alacak?**
 

@@ -24,7 +24,7 @@ Derleyicilerde, kod biçimlendiricilerde (formatter), statik kod analiz araçlar
 
 Düz metin arama araçlarından farklı olarak sadece kelime aramaz, kodun mantıksal gramerini ve yapısını inceler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **AST parsing yazılımcı tarafından elle yapılır mı?**
 

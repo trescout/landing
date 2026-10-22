@@ -22,7 +22,7 @@ Se utiliza en sistemas autónomos de inteligencia artificial, plataformas de ges
 
 No confundir con simplemente "trabajar"; Trabajar significa que el sistema está abierto, mientras que Agente listo significa que el sistema está listo para comenzar a trabajar con autoridad de toma de decisiones autónoma.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo sé si un sistema está listo para el agente?**
 

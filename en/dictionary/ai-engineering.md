@@ -45,7 +45,7 @@ It is confused with data science. A data scientist extracts meaning from data, w
 **Construction:** The architect who draws the project and the engineer who manages the construction site.
 **Kitchen:** The chef who writes the recipe and the operation that spreads it to the chain.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it necessary to know code to become an AI engineer?**
 

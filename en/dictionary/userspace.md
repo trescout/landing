@@ -22,7 +22,7 @@ It is a fundamental concept in software development, security and system archite
 
 It is confused with kernel space; The kernel dominates the entire system, while userspace is limited.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why does this distinction exist?**
 

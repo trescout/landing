@@ -22,7 +22,7 @@ Elle commence à être intégrée dans les applications mobiles modernes, les pa
 
 Elle diffère des interfaces dynamiques classiques ; ici, les décisions ne sont pas prises par des règles fixes, mais par des modèles d'intelligence artificielle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'interface intelligente a-t-elle une apparence différente pour chaque utilisateur ?**
 

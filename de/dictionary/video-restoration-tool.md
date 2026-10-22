@@ -22,7 +22,7 @@ Es wird für Archivstudien, digitale Übertragungen alter Kinofilme und persönl
 
 Es kann mit Video-Editor-Tools verwechselt werden, aber Video-Editoren schneiden und zusammenführen, während diese Tools Pixel direkt mit künstlicher Intelligenz reparieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können diese Tools Schwarzweißvideos in Farbe umwandeln?**
 

@@ -22,7 +22,7 @@ Il est utilisé lors du développement d’applications Web, d’interfaces mobi
 
 Il est mélangé au backend ; Alors que le backend est la partie invisible du moteur, le frontend est la vitrine visible.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quels outils entrent dans la pile frontend ?**
 

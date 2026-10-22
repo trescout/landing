@@ -22,7 +22,7 @@ Il est utilisé dans l’analyse des données, la formation de modèles d’inte
 
 Sa différence avec les éditeurs de code standards est qu'il permet d'exécuter le code morceau par morceau et de voir le résultat immédiatement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les personnes qui ne savent pas coder peuvent-elles l’utiliser ?**
 

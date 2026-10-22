@@ -66,7 +66,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Fortgeschrittene · ML-/Modellkenntnisse
 - **Was bietet:** Mehrsprachiges TTS + Sounddesign + Klonen
 - **Gebühr:** Kostenlos · Open Source (Apache-2.0)
-- **Lizenz:** Apache-2.0 · ayrıntı aşağıda
+- **Lizenz:** Apache-2.0 · Details unten
 
 **Lizenz:** Apache-2.0 · Code frei verfügbar/kommerziell. Sie übernehmen die rechtliche/ethische Verantwortung für die Modellausgabe und die Audiotranskription.
 

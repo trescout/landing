@@ -22,7 +22,7 @@ Se utiliza ampliamente en proyectos de desarrollo de aplicaciones móviles y de 
 
 Se diferencia en este aspecto de las aplicaciones nativas atrapadas en un solo dispositivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se prefiere?**
 

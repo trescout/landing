@@ -53,7 +53,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Médio · Python
 - **O que oferece:** Raspagem adaptável e escalável
 - **Taxa:** Gratuito · código aberto (BSD-3)
-- **Licença:** BSD-3-Clause · ayrıntı aşağıda
+- **Licença:** Cláusula BSD-3 · detalhe abaixo
 
 **Licença:** Cláusula BSD-3 · você pode usá-lo livremente, modificá-lo, fazer uso comercial (reter aviso de direitos autorais).
 

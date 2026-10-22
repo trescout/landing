@@ -22,7 +22,7 @@ Ele é usado em relatórios técnicos quando um novo modelo básico é lançado,
 
 Não deve ser confundido com testes gerais de hardware (benchmarks). Enquanto os testes clássicos medem a velocidade do processador e da memória, os benchmarks de inteligência artificial medem a qualidade da compreensão e do raciocínio do modelo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os modelos podem memorizar as perguntas do teste?**
 

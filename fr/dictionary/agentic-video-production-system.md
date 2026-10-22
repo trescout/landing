@@ -22,7 +22,7 @@ Il est utilisé dans les agences de presse, la production de contenu sur les ré
 
 À ne pas confondre avec de simples outils de montage vidéo ; Ces systèmes prennent également eux-mêmes des décisions créatives.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’intervention humaine est-elle complètement éliminée ?**
 

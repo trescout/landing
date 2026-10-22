@@ -42,7 +42,7 @@ It is considered monitoring. Monitoring monitors the threshold, observability ex
 **Hospital:** Patient monitor.
 **Cockpit:** Flight screens.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why isn't registration enough?**
 

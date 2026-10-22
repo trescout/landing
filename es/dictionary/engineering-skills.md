@@ -22,7 +22,7 @@ Se utiliza en todo el desarrollo de software, diseño arquitectónico y procesos
 
 Puede confundirse simplemente con las habilidades de codificación, mientras que la codificación es solo la parte de aplicación de este proceso.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cualquiera puede adquirir habilidades de ingeniería?**
 

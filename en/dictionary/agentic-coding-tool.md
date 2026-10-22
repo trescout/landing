@@ -22,7 +22,7 @@ It is used in modern software development environments, complex debugging proces
 
 Not to be confused with AI plugins that simply complete code; These tools manage the process while they only offer suggestions.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will these tools replace software developers?**
 

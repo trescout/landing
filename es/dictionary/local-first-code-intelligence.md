@@ -22,7 +22,7 @@ Se utiliza en editores de código modernos, complementos nativos impulsados ​�
 
 Puede confundirse con los asistentes de código basados ​​en la nube, pero aquí termina todo el proceso en tu dispositivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería elegir local en lugar de la nube?**
 

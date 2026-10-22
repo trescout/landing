@@ -38,7 +38,7 @@ Pode ser confundido com o CEO. O CEO gere a empresa, enquanto o chair gere o con
 **Assembleia:** O vice-presidente que preside a sessão.
 **Painel:** O moderador que concede a palavra aos oradores.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O presidente gerencia os assuntos diários da empresa?**
 

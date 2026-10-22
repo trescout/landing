@@ -43,7 +43,7 @@ Confundido com trace. Log é o registro do evento, trace é o caminho do evento.
 **Diário:** Notas em ordem cronológica.
 **Recibo de caixa:** Registro de transações.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que o log é necessário?**
 

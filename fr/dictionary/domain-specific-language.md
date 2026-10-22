@@ -24,7 +24,7 @@ On les rencontre fréquemment dans des domaines tels que le développement web (
 
 Ils peuvent être confondus avec les langages de programmation à usage général ; la différence réside dans le fait que l'un essaie de tout faire, tandis que l'autre se concentre sur l'exécution parfaite d'une seule tâche.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi n'utilisons-nous pas un DSL pour chaque tâche ?**
 

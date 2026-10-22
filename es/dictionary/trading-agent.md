@@ -22,7 +22,7 @@ Se utiliza en intercambios de criptomonedas, mercados de valores y transacciones
 
 Es similar al Trading Algorítmico, pero los agentes son más autónomos y se basan en el aprendizaje.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Existe riesgo de perder dinero?**
 

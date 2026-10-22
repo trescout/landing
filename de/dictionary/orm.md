@@ -24,7 +24,7 @@ Es wird häufig in Webanwendungen, Unternehmenssoftware und datenbankintensiven 
 
 Es kann zu einer Verwechslung mit dem Datenbanktreiber kommen. Der Treiber stellt die Rohverbindung bereit, während das ORM diese Verbindung ermöglicht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich ORM verwenden?**
 

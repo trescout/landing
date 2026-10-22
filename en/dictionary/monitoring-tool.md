@@ -22,7 +22,7 @@ It is used in servers, web applications, and large-scale infrastructures.
 
 It can be confused with debugging tools; debugging finds the error within the code, while a monitoring tool tracks the overall health of the system.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do I need this?**
 

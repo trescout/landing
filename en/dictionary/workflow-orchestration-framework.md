@@ -43,7 +43,7 @@ It's like a to-do list. The list is passive, the framework handles errors and ma
 **Air traffic:** Departure order.
 **Railway:** Train schedule.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it needed?**
 

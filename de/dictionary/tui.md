@@ -46,7 +46,7 @@ Hervorragende moderne Frameworks und Tools:
 - CLI vs. TUI: CLI ein einzeiliges Frage-Antwort-Modell (git status, ls -la). TUI hingegen ist ein zweidimensionales visuelles Panel, das das Terminalfenster ausfüllt und über Registerkarten, Listen sowie Tastenkürzel verfügt (lazygit, k9s).
 - TUI besteht nicht nur aus einfachem Text: Moderne Terminals unterstützen Nerd Fonts (Icons), 24-Bit-TrueColor, UTF-8-Box-Drawing-Zeichen und dank Protokollen wie Kitty Graphics oder Sixel sogar die Darstellung echter Grafiken direkt im Terminal.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet TUI und wofür steht die Abkürzung?**
 

@@ -38,7 +38,7 @@ Modelos de linguagem são suposições. Eles são especialistas restritos, este 
 **Cozinheiro:** Culinária geral.
 **Poeta:** Linguagem geral.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Como entender?**
 

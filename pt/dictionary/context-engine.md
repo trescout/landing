@@ -22,7 +22,7 @@ O sistema extrai os dados relacionados à sua pergunta do banco de dados. Em seg
 
 Pode ser confundido apenas com um banco de dados; no entanto, este sistema não apenas armazena os dados, mas também os torna significativos para a inteligência artificial.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo usar sempre?**
 

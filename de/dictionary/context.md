@@ -47,7 +47,7 @@ Ein Betriebssystem, das Multitasking ausführt, verteilt den CPU-Kern auf versch
 | Betriebssysteme | Hardware-Momentaufnahme eines Prozesses | Register, Programmzähler, Seitentabellen | CPU-Latenz, Cache-Misses, TLB-Flush |
 | Softwareentwicklung | Anfrage-Lebenszyklus und Umgebungsdaten | Timeout-Signal, Autorisierungs-Token | Speicherleck, nicht abgebrochene asynchrone Aufrufe |
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Context und was ist das deutsche Äquivalent?**
 

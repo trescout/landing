@@ -22,7 +22,7 @@ C'est un concept critique abordé dans les processus de développement de compil
 
 Elle diffère des simples erreurs de programmation (bugs) ; elle signifie que la promesse fondamentale de fiabilité du langage est ébranlée à la base.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce présent dans tous les langages de programmation ?**
 

@@ -38,7 +38,7 @@ Bulut sürümler kurulum istemez, çevrimdışı çalışma sınırlıdır.
 
 *Kırtasiye çantası gibidir; kalem, kağıt ve hesap makinesi tek çantada taşınır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Bulut tabanlı olanları var mı?**
 

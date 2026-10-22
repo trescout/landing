@@ -42,7 +42,7 @@ Pensa-se que é o software em si. No entanto, o ambiente é a casa onde o softwa
 **Aquário:** A água e o calor onde o peixe vive.
 **Cenário:** Sistema de luz e som.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que dá erro?**
 

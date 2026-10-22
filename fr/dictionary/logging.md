@@ -51,7 +51,7 @@ On pense qu'il s'agit d'observabilité. Pourtant, la journalisation en est la pi
 **Journal :** Notes par ordre chronologique.
 **Enregistrement de la caméra :** Archive des événements.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce bien de tout sauvegarder ?**
 

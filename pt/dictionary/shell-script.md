@@ -22,7 +22,7 @@ Geralmente é escrito como um arquivo de texto e contém comandos que você pode
 
 É a mesma coisa que script bash, apenas um termo mais geral.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preciso saber o código?**
 

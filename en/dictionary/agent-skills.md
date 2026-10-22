@@ -40,7 +40,7 @@ It is thought to be general intelligence. Yet what is meant is the ability to do
 **Tool bag:** The wrench chosen according to the job.
 **App store:** The program downloaded according to need.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Am I adding the capabilities?**
 

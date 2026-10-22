@@ -24,7 +24,7 @@ It is used in software projects, especially in the development of complex featur
 
 Can be confused with TDD; While TDD focuses on the robustness of the code, BDD focuses on the behavior of the function in the eyes of the user.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is BDD important?**
 

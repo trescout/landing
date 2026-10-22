@@ -22,7 +22,7 @@ Il est utilisé dans les processus décisionnels conjoints des équipes de déve
 
 Il ne s'agit pas simplement d'une application de messagerie ou d'un salon de discussion ; C'est une structure qui traite l'information et produit un résultat collectif.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces plateformes sont-elles adaptées à tous types d’équipes ?**
 

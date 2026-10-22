@@ -22,7 +22,7 @@ Es wird für tägliche Wegbeschreibungen, Kurier- und Logistikmanagement, lokale
 
 Im Gegensatz zu Open-Source- und Community-gesteuerten Kartenprojekten wie OpenStreetMap handelt es sich um ein Closed-Source- und kommerzielles Ökosystem im Besitz von Google.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie erkennt Google Maps sofort die Verkehrsdichte?**
 

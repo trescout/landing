@@ -18,7 +18,7 @@ Los desarrolladores alcanzan esta etapa a lo largo de los años cometiendo error
 
 Trabajan en puestos de liderazgo en equipos de desarrollo de software, empresas de tecnología y proyectos de transformación digital a gran escala.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cualquier persona que escriba mucho código puede ser un desarrollador senior?**
 

@@ -37,7 +37,7 @@ Die reine Leistungs- und Effizienzbalance von Apple Silicon basiert auf drei gru
 2. Dedizierte Hardware-Beschleuniger: Es gibt spezielle Funktionseinheiten, um die Haupt-CPU zu entlasten: eine Neural Engine für KI-Tensor-Berechnungen, einen internen AMX (Apple Matrix Coprocessor) für Matrixmultiplikationen und eine hardwarebasierte Media Engine (ProRes/AV1-Decoder) für die 8K-Videoverarbeitung.
 3. Rosetta 2 Binärübersetzung (Binary Translation): Ältere Mac-Anwendungen, die für Intel (x86_64) kompiliert wurden, werden dank Rosetta 2 beim ersten Öffnen der App (AOT – Ahead-of-Time) automatisch in ARM64-Code übersetzt. Da Apple Silicon-Chips auf Hardwareebene Unterstützung für TSO (Total Store Ordering), das Speichermodell von x86, integriert haben, läuft diese Übersetzung nahezu mit naiver Geschwindigkeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Apple Silicon und welche Prozessoren umfasst es?**
 

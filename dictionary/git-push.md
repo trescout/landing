@@ -53,7 +53,7 @@ git push origin --tags
 
 *Bilgisayarınızda yazdığınız bir kitabın bölümlerini yerel taslak klasörünüze kaydettikten sonra, matbaanın ortak baskı merkezine "bu bölümleri resmi arşive yükle ve baskı kuyruğuna al" diyerek kuryeyle teslim etmek gibidir.*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Git push ne demek ve ne işe yarar?**
 

@@ -44,7 +44,7 @@ Web sitesi sanılır. Site içerik sunar, Web UI uygulama yönetir. Biri broşü
 
 *Restoran mutfağına girmek yerine menüden seçip garsonu beklemeye benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **İnternet gerekli mi?**
 

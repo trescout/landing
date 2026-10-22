@@ -18,7 +18,7 @@ Le modèle est entraîné avec des algorithmes spéciaux qui décident quelles c
 
 Il est utilisé dans des modèles de langage complexes, des systèmes de détection robotiques et des dispositifs de pointe économes en énergie.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Sont-ils plus intelligents ?**
 

@@ -22,7 +22,7 @@ It is used in cyber security operations, defense industry and information techno
 
 It is often confused with just cybersecurity, but this term focuses more on the 'what we can do' part.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are these abilities only for attack?**
 

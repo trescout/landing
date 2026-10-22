@@ -52,7 +52,7 @@ Para superar este problema en la arquitectura de software moderna, las funciones
 
 En el campo del desarrollo de juegos y la inteligencia artificial, la "IA de utilidad" es un modelo matemático utilizado en los mecanismos de toma de decisiones. En lugar de las clásicas máquinas de estados finitos (FSM) o árboles de comportamiento; A cada acción posible se le asigna una puntuación de utilidad basada en los parámetros de la situación actual, y el personaje elige la acción que proporciona el mayor beneficio.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa Utilidades y cuál es su significado turco?**
 

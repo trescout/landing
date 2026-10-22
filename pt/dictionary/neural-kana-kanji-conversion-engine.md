@@ -22,7 +22,7 @@ O usuário escreve sons no teclado, o motor analisa esses sons e seleciona o car
 
 Não é apenas um dicionário; É um modelo de inteligência artificial que entende o contexto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usar inteligência artificial?**
 

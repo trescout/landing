@@ -22,7 +22,7 @@ Es wird in Marktprognosesystemen, Empfehlungsmaschinen, die sich je nach Benutze
 
 Es kann mit Feinabstimmung verwechselt werden, aber Feinabstimmung ist normalerweise eine einmalige Aktualisierung, während kontinuierliches Lernen ein kontinuierlicher Prozess ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum vergisst das Modell alte Informationen?**
 

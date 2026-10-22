@@ -22,7 +22,7 @@ Se utiliza en el desarrollo de videojuegos, películas de animación y trabajos 
 
 No es lo mismo que simplemente dibujar una imagen en 2D, porque lo que se pinta es un modelo 3D que tiene volumen.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué programas se utilizan?**
 

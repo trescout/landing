@@ -24,7 +24,7 @@ Utilisé dans les grandes équipes de développement logiciel et les entreprises
 
 Il peut être confondu avec un simple bureau à distance ; cependant, ce système est spécifiquement optimisé pour l'écriture de code.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que deviennent mes codes si mon ordinateur tombe en panne ?**
 

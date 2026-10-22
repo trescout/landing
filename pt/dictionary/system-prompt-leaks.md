@@ -22,7 +22,7 @@ Isso acontece frequentemente com chatbots, assistentes de inteligência artifici
 
 Pode ser confundido com engenharia imediata, mas é uma tentativa de vazamento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Esta é uma vulnerabilidade de segurança?**
 

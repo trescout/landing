@@ -22,7 +22,7 @@ Il est utilisé dans les transactions financières, les transferts de propriét�
 
 Il peut être confondu avec une simple signature numérique, mais les contrats intelligents contiennent une logique de transaction.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-on le changer ?**
 

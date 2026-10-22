@@ -31,7 +31,7 @@ Kelime kökeni Fransızca "günlük tutmak" (diariser) eyleminden gelen **Diariz
 
 Transcription (Ses-Metin Dönüşümü / STT) ile Speaker Diarization sıklıkla karıştırılır. Klasik bir Speech-to-Text motoru sadece "ne söylendiğini" metne döker ancak kimin söylediğini ayıramaz. Diarization ise "kimin söylediğini" bulur. Örneğin OpenAI Whisper saf transkripsiyon yaparken; `pyannote.audio` veya `WhisperX` gibi araçlarla birleştirildiğinde hem metin hem de konuşmacı kimlikleri eksiksiz elde edilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Diarization definition (Diarization ne anlama gelir)?**
 

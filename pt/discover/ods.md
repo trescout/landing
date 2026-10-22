@@ -80,7 +80,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [RAG](https://trescout.com/pt/dictionary/rag/)
 
 - **Para quem é:** Empresas que valorizam a privacidade de dados, desenvolvedores de IA local e administradores de sistemas.
-- **Licença:** MIT (Özgür açık kaynak lisansı)
+- **Licença:** MIT (Licença de código aberto livre)
 - **Framework:** Servidor de IA Local Python & llama.cpp
 - **Plataformas:** Linux, macOS, Windows
 

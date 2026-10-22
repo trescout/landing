@@ -22,7 +22,7 @@ Il est utilisé dans le cloud computing pour exécuter rapidement des applicatio
 
 On peut la confondre avec des machines virtuelles à part entière (Virtual Machines), mais elles démarrent beaucoup plus rapidement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je choisir le modèle léger ?**
 

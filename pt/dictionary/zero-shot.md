@@ -22,7 +22,7 @@ Usando as capacidades gerais do modelo, você define uma tarefa complexa com um 
 
 Pode ser confundido com o aprendizado few-shot; enquanto no few-shot você fornece alguns exemplos ao modelo, no zero-shot você não fornece nenhum exemplo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Funciona sempre corretamente?**
 

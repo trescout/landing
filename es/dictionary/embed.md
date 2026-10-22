@@ -22,7 +22,7 @@ Se utiliza frecuentemente en motores de búsqueda, sistemas de recomendación y 
 
 A diferencia del término incrustación, que es exactamente el mismo concepto, este es el equivalente de la palabra en acción u operación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué convertimos a listas numéricas?**
 

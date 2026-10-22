@@ -22,7 +22,7 @@ O sistema recebe continuamente dados visuais da tela e os processa. O modelo de 
 
 É confundido com web scraping clássico ou integrações de API. Enquanto os métodos clássicos conversam com o código em segundo plano, o Computer Use 2.0 visa diretamente a interface visual e age como um humano.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O Computer Use 2.0 é seguro?**
 

@@ -67,10 +67,9 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Context Window Optimization](https://trescout.com/dictionary/context-window-optimization/)
 - [Context Window](https://trescout.com/dictionary/context-window/)
-- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/dictionary/context/)
 - [MCP](https://trescout.com/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/context-mode/

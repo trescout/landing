@@ -43,7 +43,7 @@ Se cree que es lo mismo que el speech-to-text. La tecnología es la misma, pero 
 **Funcionario de actas:** Acta de la vista oral.
 **Archivero:** Directorio de registros.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Funciona en todos los idiomas?**
 

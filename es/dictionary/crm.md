@@ -41,7 +41,7 @@ Se piensa que es una libreta de direcciones, pero el CRM no solo registra, sino 
 **Biblioteca:** Tarjeta de miembro y registro de préstamos.
 **Escuela:** Sistema de información estudiantil.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Tengo que usar CRM?**
 

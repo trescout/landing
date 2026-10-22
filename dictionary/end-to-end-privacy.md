@@ -22,7 +22,7 @@ Mesajlaşma uygulamalarında, bulut depolama servislerinde ve güvenli dosya tra
 
 Sadece şifreleme ile karıştırılabilir, ancak burada anahtarın kontrolü tamamen kullanıcılardadır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Servis sağlayıcı verimi görebilir mi?**
 

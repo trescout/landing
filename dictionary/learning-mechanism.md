@@ -22,7 +22,7 @@ Makine öğrenmesi modellerinin eğitim süreçlerinde ve akıllı asistanların
 
 Doğrudan modelin kendisi değil, o modelin gelişmesini sağlayan arka plandaki kural ve yöntem kümesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sürekli mi öğrenir?**
 

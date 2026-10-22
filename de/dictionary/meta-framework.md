@@ -42,7 +42,7 @@ Es wird für eine Bibliothek gehalten. Die Bibliothek wird aufgerufen, das Dach 
 **Chefkoch:** Menü- und Küchen-Layout.
 **Schlüsselfertig:** Übergabe des fertigen Hauses.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum wird es verwendet?**
 

@@ -18,7 +18,7 @@ Tout d’abord, un morceau de code de base est écrit et ce code est rendu exéc
 
 Il est fréquemment utilisé dans le développement de compilateurs de langages de programmation et d’outils de système d’exploitation.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce si compliqué ?**
 

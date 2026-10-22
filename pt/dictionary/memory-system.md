@@ -22,7 +22,7 @@ Ele é usado em assistentes pessoais, ferramentas de inteligência artificial qu
 
 Pode ser confundido com janela de contexto; a janela de contexto é a memória de curto prazo, enquanto o sistema de memória é a memória permanente ou de longo prazo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A memória pode ser apagada?**
 

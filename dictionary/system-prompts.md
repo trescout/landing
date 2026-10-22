@@ -22,7 +22,7 @@ ChatGPT gibi sohbet robotlarının arka planında, yapay zekâ uygulamalarının
 
 Kullanıcı istemleri (user prompts) ile karıştırılabilir; kullanıcı istemi o anki sorunuzdur, sistem istemi ise modelin genel karakteridir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sistem istemini kullanıcı görebilir mi?**
 

@@ -22,7 +22,7 @@ Es wird in komplexen Softwarearchitekturen und zur Lösung von Leistungsprobleme
 
 Es wird mit Baumstämmen vermischt; Protokolle beantworten die Frage „Was ist passiert?“ und Spuren beantworten die Frage „Wo und wie lange hat es gedauert“.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind Spuren wichtig?**
 

@@ -34,7 +34,7 @@ O service mesh em microsserviços é um pouco diferente: um pequeno proxy chamad
 **Têxtil:** Trama do tecido. Mesmo se um único fio se romper, o tecido mantém sua integridade estrutural.
 **Biologia:** Redes neurais. O sinal pode contornar a região danificada.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Para que serve o Mesh Wi-Fi?**
 

@@ -22,7 +22,7 @@ Ele é usado em sistemas pessoais de armazenamento em nuvem, servidores de mídi
 
 Pode ser confundido com modelos SaaS (Software as a Service); No SaaS, outra pessoa gerencia o serviço, enquanto em uma estrutura auto-hospedada todo o gerenciamento é seu.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo escolher um software auto-hospedado?**
 

@@ -22,7 +22,7 @@ Se utiliza en servidores web, firewalls y sitios con mucho tráfico.
 
 Puede confundirse con un proxy normal; El proxy normal oculta al usuario, el proxy inverso oculta y protege el servidor.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no nos conectamos directamente al servidor?**
 

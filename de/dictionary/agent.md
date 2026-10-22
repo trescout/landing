@@ -22,7 +22,7 @@ Sie werden häufig in Kundendienst-Bots, automatisierten Softwareentwicklungstoo
 
 Nicht zu verwechseln mit Standard-KI-Modellen, die nur Text produzieren; Agenten gehen über das Produzieren von Text hinaus und ergreifen Maßnahmen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Treffen Agenten immer die richtige Entscheidung?**
 

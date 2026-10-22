@@ -40,7 +40,7 @@ Confundido com o presidente do conselho (Chair). O CEO executa, o presidente do 
 **Orquestra:** O maestro que dita o ritmo.
 **Diretor técnico:** O treinador que monta a equipe.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O CEO se intromete em tudo?**
 

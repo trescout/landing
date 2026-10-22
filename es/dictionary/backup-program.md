@@ -38,7 +38,7 @@ Regla: Una copia de seguridad no es fiable hasta que se prueba. La restauración
 **Caja fuerte:** Almacenamiento de documentos valiosos.
 **Seguro:** Cobertura contra desastres.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante?**
 

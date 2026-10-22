@@ -22,7 +22,7 @@ Otonom ajanlarda, karmaşık yazılım geliştirme süreçlerinde ve veri işlem
 
 Basit otomasyonla karıştırılır, oysa bu yöntem dinamik ve karar verme yetisi içerir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hata yaparsa ne olur?**
 

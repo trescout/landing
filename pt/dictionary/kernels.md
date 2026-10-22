@@ -22,7 +22,7 @@ Ele está localizado no centro de todos os sistemas operacionais, como Windows, 
 
 Não deve ser confundido com o sistema operacional como um todo; O kernel é apenas a camada de gerenciamento mais básica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se o kernel travar?**
 

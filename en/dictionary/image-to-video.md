@@ -22,7 +22,7 @@ It is used in creative content platforms, video editing tools, and AI-powered de
 
 It can be confused with video editing; This technology does not edit, it produces moving images from scratch.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can any kind of picture be made into a video?**
 

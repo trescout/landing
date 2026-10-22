@@ -37,7 +37,7 @@ Man hält ihn für einen programmierten Roboter. Dieser wiederholt den festen We
 **Autopilot:** Routenabsicherung.
 **Brieftaube:** Rückkehr zum Ziel.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Macht es keine Fehler?**
 

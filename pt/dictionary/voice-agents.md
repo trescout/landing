@@ -22,7 +22,7 @@ Sua voz é convertida em dados digitais através do seu microfone, a inteligênc
 
 Pode ser confundido com sistemas simples de comando de voz; os agentes podem ter conversas muito mais complexas e contextuais.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Eles podem falar qualquer idioma?**
 

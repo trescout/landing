@@ -22,7 +22,7 @@ Se utiliza en sistemas donde cooperan agentes de inteligencia artificial, en ges
 
 No debe confundirse con una simple aplicación de mensajería o un chat grupal; Aquí los datos se procesan automáticamente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Este sistema hace que todos sean iguales?**
 

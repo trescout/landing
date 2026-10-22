@@ -24,7 +24,7 @@ Yazılım güvenliği denetimlerinde, kurumsal yazılım tedarik zinciri yöneti
 
 Yazılımın kaynak kodu ile karıştırılmamalıdır; bu sadece bir envanter listesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **SBOM neden önemlidir?**
 

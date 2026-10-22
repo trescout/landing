@@ -80,7 +80,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [RAG](https://trescout.com/de/dictionary/rag/)
 
 - **Für wen es gedacht ist:** Unternehmen, denen der Datenschutz am Herzen liegt, lokale Entwickler künstlicher Intelligenz und Systemadministratoren.
-- **Lizenz:** MIT (Özgür açık kaynak lisansı)
+- **Lizenz:** MIT (Freie Open-Source-Lizenz)
 - **Framework:** Python & llama.cpp Lokaler AI-Server
 - **Plattformen:** Linux, macOS, Windows
 

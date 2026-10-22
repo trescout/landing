@@ -22,7 +22,7 @@ Os pesos no modelo são geralmente números decimais de alta precisão. A quanti
 
 Confunde-se com treinamento do modelo, mas é um processo de otimização realizado após o treinamento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A inteligência do modelo diminui?**
 

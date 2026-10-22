@@ -22,7 +22,7 @@ Se utiliza en sistemas de recomendación, herramientas de previsión financiera 
 
 Se puede mezclar con ajustes finos; el ajuste es la personalización para una tarea específica, mientras que el aprendizaje continuo tiene como objetivo la mejora general.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no todos los sistemas aprenden constantemente?**
 

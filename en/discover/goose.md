@@ -43,12 +43,12 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/en/dictionary/context/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
+- [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for developers who want to automate their software development workflows and work natively with various AI models.
 - **License:** Apache-2.0

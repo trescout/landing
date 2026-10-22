@@ -24,7 +24,7 @@ Il fonctionne discrètement en arrière-plan dans les bibliothèques d'intellige
 
 Il est souvent confondu avec une bibliothèque mathématique ordinaire. BLAS ne contient pas seulement des formules mathématiques ; il gère directement la manière dont ces formules doivent être exécutées sur le matériel informatique avec les performances les plus élevées.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi BLAS est-il si important pour l'intelligence artificielle ?**
 

@@ -32,7 +32,7 @@ Confondre avec le freeware : l'open source renvoie à la liberté ; les dévelop
 - Penser que c'est non sécurisé : l'illusion de la sécurité par l'obscurité (security through obscurity) est invalide en cybersécurité ; les logiciels à code source ouvert sont beaucoup plus robustes car ils sont soumis à des audits indépendants.
 - Confusion avec Open Weights : En intelligence artificielle, le simple partage des poids des modèles ne constitue pas un véritable open source ; les systèmes dont les données d'entraînement, le code et l'architecture ne sont pas partagés ne répondent pas pleinement à la définition de l'open source.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quelle est la principale différence entre l’open source et le logiciel libre ?**
 

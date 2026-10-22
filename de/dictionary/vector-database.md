@@ -31,7 +31,7 @@ Die Vektordatenbank verleiht diesen Modellen ein assoziatives Gedächtnis, das d
 - Metadatenfilter vergessen: Reine Vektorähnlichkeit kann Zeit- oder Kategoriekontext übersehen; muss durch Filter unterstützt werden.
 - Speicherkosten nicht vorhergesehen: Das Halten hochdimensionaler Vektoren im RAM ohne Komprimierung führt zu einer Kostenexplosion; Es muss eine Quantisierung angewendet werden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Können klassische relationale Datenbanken (wie PostgreSQL usw.) als Vektordatenbanken verwendet werden?**
 

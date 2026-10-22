@@ -22,7 +22,7 @@ Es wird in fortschrittlichen Systemen der künstlichen Intelligenz, mehrstufigen
 
 Es ähnelt dem Multi-Agent-LLM, das Subagenten-Konzept betont jedoch ein eher hierarchisches Verwaltungsmodell.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir Unteragenten anstelle eines einzelnen leistungsstarken Agenten?**
 

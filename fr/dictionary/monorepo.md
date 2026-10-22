@@ -39,7 +39,7 @@ Cela ressemble à de la confusion. Il s’agit cependant d’une centralisation 
 **Centre commercial:** Magasins avec toits partagés.
 **Campus:** Immeubles avec espaces communs.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce adapté à tout le monde ?**
 

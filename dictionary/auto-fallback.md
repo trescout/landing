@@ -22,7 +22,7 @@ Yapay zekâ servislerinde, ağ bağlantılarında ve sunucu yönetiminde kullan�
 
 Hata yönetimiyle (error handling) benzerdir; ancak auto-fallback doğrudan bir alternatif çözüm yoluna geçişi ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu özellik yavaşlığa neden olur mu?**
 

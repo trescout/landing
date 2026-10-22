@@ -34,7 +34,7 @@ Dans les microservices, le service mesh fonctionne un peu différemment : un pet
 **Textile :** Tissage du tissu. Même si un seul fil se rompt, il préserve l'intégrité de la structure.
 **Biologie :** Réseaux neuronaux. Le signal peut contourner la zone endommagée.
 
-## Foire aux questions
+## Questions et réponses
 
 **À quoi sert le Wi-Fi Mesh ?**
 

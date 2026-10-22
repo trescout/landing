@@ -24,7 +24,7 @@ Se utiliza en software corporativo y opciones de inicio de sesión con Google o 
 
 No debe confundirse simplemente con herramientas de almacenamiento de contraseñas (Administrador de contraseñas); SSO es un protocolo de autenticación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es seguro?**
 

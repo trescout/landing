@@ -22,7 +22,7 @@ Se utilizaba para compartir información y obtener soporte técnico en los prime
 
 No debe confundirse con las aplicaciones de mensajería instantánea actuales; es mucho más lento y está centrado en el texto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todavía se utiliza?**
 

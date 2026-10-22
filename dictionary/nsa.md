@@ -24,7 +24,7 @@ Siber güvenlik analizlerinde, veri gizliliği tartışmalarında ve uluslararas
 
 Genellikle sadece bir yazılım veya araç sanılır, oysa bu bir devlet kurumudur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **NSA ne yapar?**
 

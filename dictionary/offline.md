@@ -42,7 +42,7 @@ Offline sistemler, salt teknik bir mimari tercihi olmanın ötesinde, gözetim k
 
 - **Donanım Sınırlarını Yoksaymak:** Özellikle yerel yapay zekâ modelleri çalıştırılırken RAM, VRAM ve batarya bütçesi gözetilmeden optimizasyonsuz model yüklemek cihazı kilitleyebilir.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Offline-first mimari ile geleneksel istemci-sunucu mimarisi arasındaki temel fark nedir?**
 

@@ -22,7 +22,7 @@ On la trouve dans les usines de production, les véhicules autonomes et l'automa
 
 Contrairement aux projets purement logiciels, elle implique du matériel physique et mécanique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quel est son rapport avec l’intelligence artificielle ?**
 

@@ -42,7 +42,7 @@ On pense qu'il s'agit d'une bibliothèque. La bibliothèque appelle, le toit app
 **Chef :** Agencement des menus et de la cuisine.
 **Clé en main :** Livraison à domicile terminée.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi est-il utilisé ?**
 

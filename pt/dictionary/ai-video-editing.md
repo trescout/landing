@@ -22,7 +22,7 @@ Usado na produção de conteúdo de mídia social, fluxos de trabalho de ediçã
 
 Pode ser confundido com o software Video Editor, mas a 'automação' está na vanguarda aqui.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Substituirá os editores profissionais?**
 

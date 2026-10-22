@@ -24,7 +24,7 @@ Es wird in Prozessen eingesetzt, die Vertrauen erfordern, wie etwa Finanztransak
 
 Es kann mit normalen mobilen Anwendungen verwechselt werden; Allerdings speichern dApps Daten auf der Blockchain und nicht auf einem zentralen Server.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist nötig, um dApps zu nutzen?**
 

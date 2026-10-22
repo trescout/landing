@@ -22,7 +22,7 @@ It is used in the management of containers in cloud computing infrastructures an
 
 It is confused with a normal code library. While libraries only perform a specific task, this system coordinates how all libraries and services work together.
 
-## Frequently asked questions
+## Questions and answers
 
 **Doesn't the software work without this system?**
 

@@ -22,7 +22,7 @@ Es wird zum Organisieren von Besprechungsnotizen, akademischen Studien und der A
 
 Im Gegensatz zu Tools, die einfach Text kopieren, versteht es den Inhalt des Textes und gibt ihm eine Bedeutung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist meine Privatsphäre geschützt?**
 

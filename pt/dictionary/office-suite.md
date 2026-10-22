@@ -38,7 +38,7 @@ As versões em nuvem não exigem instalação, o trabalho offline é limitado.
 **Caixa de ferramentas:** A ferramenta certa para o trabalho.
 **Conjunto de cozinha:** Grupo de panelas e facas.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Existem aqueles baseados em nuvem?**
 

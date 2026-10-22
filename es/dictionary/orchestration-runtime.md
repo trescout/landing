@@ -22,7 +22,7 @@ Se utiliza en aplicaciones de inteligencia artificial de múltiples etapas, sist
 
 Se diferencia de un modelo de IA independiente, donde la atención se centra en la gestión de varias partes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se necesita el tiempo de ejecución de orquestación?**
 

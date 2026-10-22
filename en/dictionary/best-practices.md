@@ -40,7 +40,7 @@ The exception to the rule is also a rule: Speed is prioritized in a prototype, w
 **Aviation:** Pre-flight checklist.
 **Traffic:** Lane and signal order.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it mandatory to follow them?**
 

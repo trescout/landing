@@ -57,7 +57,7 @@ API ile karıştırılabilir. API tek bir kapıdır, MCP ise bu kapıdan geçen 
 
 *Bir priz standardı gibidir; her cihazın aynı fişle çalışması gibi, farklı veri kaynaklarının da yapay zekâya kolayca bağlanmasını sağlar.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **MCP neden gereklidir?**
 

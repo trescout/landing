@@ -22,7 +22,7 @@ Mikro hizmet mimarisine sahip büyük yazılım sistemlerinde kullanılır.
 
 Sadece bir yönlendirici değildir; güvenlik ve yönetim görevlerini de üstlenir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden buna ihtiyaç var?**
 

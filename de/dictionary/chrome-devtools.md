@@ -39,7 +39,7 @@ Regel: Die Änderung ist lokal, sie verschwindet, wenn Sie sie erneuern. In der 
 **Röntgen:** Interne Strukturansicht.
 **Motorhaube:** Motorraum.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Nur Chrome?**
 

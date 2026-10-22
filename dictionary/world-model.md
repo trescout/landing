@@ -22,7 +22,7 @@ Sistem, fiziksel dünyadan gelen video veya sensör verilerini sürekli gözleml
 
 Sadece bir veri tabanı veya basit bir tahmin algoritması ile karıştırılmamalıdır çünkü burada bir simülasyon yeteneği vardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Dünya modeli neden önemlidir?**
 

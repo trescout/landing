@@ -22,7 +22,7 @@ Você faz login na plataforma e todos os dados compartilhados são sincronizados
 
 Não é apenas um aplicativo de mensagens ou sala de chat; É uma estrutura que processa informações e produz um resultado coletivo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Estas plataformas são adequadas para todos os tipos de equipas?**
 

@@ -24,7 +24,7 @@ Akıllı telefonunuzdaki uygulamalarda, web sitelerinde veya akıllı ev cihazla
 
 Genellikle yazılımın arka planındaki kodlarla (backend) karıştırılır, ancak arayüz sadece sizin gördüğünüz kısımdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **UI ve UX aynı şey mi?**
 

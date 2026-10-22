@@ -22,7 +22,7 @@ Participa en los procesos de formación de modelos de aprendizaje automático y 
 
 No es directamente el modelo en sí, sino el conjunto de reglas y métodos subyacentes lo que permite que ese modelo se desarrolle.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Aprende constantemente?**
 

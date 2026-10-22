@@ -22,7 +22,7 @@ It is used in smartphones, customer service systems and smart home assistants.
 
 Can be confused with simple voice command systems; agents can have much more complex and contextual conversations.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can they speak any language?**
 

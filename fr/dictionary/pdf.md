@@ -24,7 +24,7 @@ Il est utilisé dans la correspondance officielle, les livres électroniques, le
 
 Il peut être confondu avec les fichiers Word, mais Word est modifiable alors que le PDF est généralement épinglé.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Puis-je modifier le PDF ?**
 

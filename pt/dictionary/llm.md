@@ -33,7 +33,7 @@ No entanto, esta revolução também trouxe consigo debates sociológicos e filo
 - Ignorando alucinações: As saídas devem ser inspecionadas através de RAG e camadas de guarda-corpo em vez de serem impressas diretamente na linha de produção.
 - Selecionando um modelo desnecessariamente grande: SLMs otimizados devem ser preferidos em vez de executar modelos 70B+ para classificações simples.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Os Large Language Models (LLM) realmente pensam ou entendem?**
 

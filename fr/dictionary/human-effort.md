@@ -18,7 +18,7 @@ Cela se produit dans les processus de planification, d’écriture de code, de d
 
 Il est utilisé dans les processus de développement de logiciels, la formation en intelligence artificielle (comme le RLHF) et la gestion générale de projets.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’intelligence artificielle remplacera-t-elle complètement le travail humain ?**
 

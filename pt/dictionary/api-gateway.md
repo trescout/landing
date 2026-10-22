@@ -22,7 +22,7 @@ Ele monitora o tráfego de entrada, garante a segurança, restringe as solicita�
 
 Não é apenas um roteador; Também assume funções de segurança e gestão.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é necessário?**
 

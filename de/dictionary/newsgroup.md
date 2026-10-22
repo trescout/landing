@@ -22,7 +22,7 @@ In der Frühzeit der Internetgeschichte wurde es für den Wissensaustausch und t
 
 Es sollte nicht mit heutigen Instant-Messaging-Anwendungen verwechselt werden; es ist deutlich langsamer und textorientiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird es noch verwendet?**
 

@@ -42,7 +42,7 @@ ORM (Object-Relational Mapping) es la capa que le permite comunicarse con la bas
 **Contabilidad:** El auditor que examina uno a uno los asientos del libro contable.
 **Logística:** El terminal portátil que lista los productos en el almacén.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario saber SQL?**
 

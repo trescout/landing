@@ -59,7 +59,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Médio · Adicionado como habilidade para Claude
 - **O que oferece:** Pacotes de habilidades oficiais e prontos
 - **Fonte:** Repositório oficial antrópico
-- **Licença:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Licença:** Padrão não detectado · detalhe abaixo
 
 **Licença:** O GitHub não detectou uma licença padrão para este repositório. Mesmo que a Anthropic possua repositório oficial, verifique o arquivo LICENSE no repositório antes de reutilizar/distribuir.
 

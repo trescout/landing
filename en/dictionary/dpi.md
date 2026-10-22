@@ -39,7 +39,7 @@ It is confused with PPI. DPI is the ink dot in print, PPI is the pixel on the sc
 **Mosaic:** Number of stones per unit area.
 **Print date:** Newspaper halftone and offset dot frequency.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What happens if the DPI is high?**
 

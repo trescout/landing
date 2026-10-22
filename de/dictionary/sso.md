@@ -24,7 +24,7 @@ Es wird in Unternehmenssoftware und Anmeldemöglichkeiten bei Google oder Facebo
 
 Es sollte nicht nur mit Tools zum Speichern von Passwörtern (Passwort-Manager) verwechselt werden. SSO ist ein Authentifizierungsprotokoll.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es sicher?**
 

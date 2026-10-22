@@ -22,7 +22,7 @@ It is used in website navigation menus, mobile application screens, operating sy
 
 It is often confused with the user interface (UI), which is only screen design. However, UI is only the human-facing part of the interface; APIs where machines talk to each other are also interfaces.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are interface and UI the same thing?**
 

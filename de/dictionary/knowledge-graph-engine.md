@@ -22,7 +22,7 @@ Es wird in Google-Suchergebnissen, Empfehlungssystemen und komplexen Unternehmen
 
 Es kann mit Standarddatenbanken verwechselt werden, der Fokus liegt hier jedoch auf der Beziehung zwischen den Daten und nicht auf den Daten selbst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich diese anstelle der regulären Datenbank verwenden?**
 

@@ -22,7 +22,7 @@ It is used in chatbots, content writing tools, and email drafting systems.
 
 It is almost identical to LLM (Large Language Model), but this term emphasizes that the focus is solely on text production.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does he always write correctly?**
 

@@ -22,7 +22,7 @@ Sesli kitap uygulamalarında, engelli bireyler için ekran okuyucularda ve yapay
 
 Voice Cloning ile karıştırılabilir; ses sentezi genel bir ses üretimidir, Voice Cloning ise belirli bir kişinin sesini taklit etmektir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ses sentezi ile Text-to-Speech aynı şey mi?**
 

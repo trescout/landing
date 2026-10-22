@@ -22,7 +22,7 @@ Es wird bei der Genehmigung von Kreditanträgen, Börsenhandelsstrategien, der O
 
 Es unterscheidet sich von reinen Vorhersagemodellen; Während Vorhersagemodelle sagen, „was morgen passieren wird“, bestimmen Entscheidungsmodelle, „was auf der Grundlage dieser Vorhersage getan werden sollte“.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Nutzen Entscheidungsmodelle immer KI?**
 

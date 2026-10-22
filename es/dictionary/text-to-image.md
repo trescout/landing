@@ -22,7 +22,7 @@ Se utiliza intensamente en marketing digital, en la creación de arte conceptual
 
 No debe confundirse con los motores de búsqueda visual. Mientras que los motores de búsqueda encuentran imágenes existentes, esta tecnología crea una imagen completamente nueva y original.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden los sistemas de texto a imagen generar imágenes con derechos de autor?**
 

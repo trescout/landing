@@ -43,7 +43,7 @@ Se cree que es un chatbot. El chatbot habla, el agente actúa. La interfaz de ch
 **Jacobo:** No se limite a coger la llave y terminar el trabajo.
 **Agencia de viajes:** Recogida de billetes, hotel y transfer.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden los agentes ser peligrosos?**
 

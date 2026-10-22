@@ -44,7 +44,7 @@ Aquí hay un pequeño ejemplo, una declaración de complemento típica:
 **Producción:** Procesadores de alimentos que pueden tener diferentes aditamentos unidos a un mismo cuerpo.
 **Juego:** Comunidades mod que agregan nuevos mapas y misiones sin cambiar el juego principal.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todos los programas son extensibles?**
 

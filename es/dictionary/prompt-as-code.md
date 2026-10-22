@@ -22,7 +22,7 @@ Se utiliza en procesos de desarrollo de software, especialmente en automatizaci�
 
 Puede confundirse con ingeniería rápida; pero esta es la gestión técnica y la parte del proceso del trabajo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería administrar comandos como código?**
 

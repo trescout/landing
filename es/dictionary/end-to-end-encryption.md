@@ -38,7 +38,7 @@ Se confunde con TLS. TLS protege en tránsito, el servidor puede ver el contenid
 **Sello:** Un sobre que se nota si ha sido abierto.
 **Circuito cerrado:** Línea cerrada al exterior.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede leer si es robado?**
 

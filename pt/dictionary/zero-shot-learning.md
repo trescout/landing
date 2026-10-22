@@ -22,7 +22,7 @@ O modelo utiliza relações conceituais aprendidas durante seu treinamento. Por 
 
 É confundido com aprendizado rápido; Aqui o modelo não tem pistas ou exemplos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como o modelo pode fazer previsões?**
 

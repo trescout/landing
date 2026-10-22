@@ -22,7 +22,7 @@ Siber güvenlik saldırılarında veya kısıtlı ağlarda internete çıkmak i�
 
 VPN ile karıştırılabilir, ancak VPN tüm trafiği şifrelerken DNS tunneling sadece adres sorgularını kullanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu yöntem güvenli mi?**
 

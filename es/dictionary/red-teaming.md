@@ -45,7 +45,7 @@ Se confunde con un escaneo. El escaneo es automático y superficial, el red team
 **Incendio:** Simulacro de evacuación.
 **Ajedrez:** No juegues el movimiento del rival por adelantado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario este método?**
 

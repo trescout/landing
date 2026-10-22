@@ -42,7 +42,7 @@ On pense à la base de données. La base de données est persistante et vaste, l
 **Réfrigérateur :** Nourriture quotidienne devant.
 **Garde-manger :** Stock global en arrière-plan.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que se passe-t-il si le cache est plein ?**
 

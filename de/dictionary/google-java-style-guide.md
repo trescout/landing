@@ -32,7 +32,7 @@ Mit dem Google Java Style Guide können Entwickler ihr persönliches Ego und ihr
 - Deaktivieren von Checkstyle-Regeln: Das Deaktivieren von Stilprüfungen in CI/CD, wenn der Prozess stecken bleibt, erhöht die technische Verschuldung.
 - Übermäßige Kommentarzeilen: Das Ziel sollte darin bestehen, dass sich der Code selbst erklärt, und bedeutungslose Kommentare sollten nicht in offensichtliche Getter/Setter-Methoden geschrieben werden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum verwendet Google Java Style Guide eine Einrückung mit zwei Leerzeichen anstelle einer Einrückung mit vier Leerzeichen?**
 

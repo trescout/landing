@@ -45,7 +45,7 @@ Se confunde con la transferencia de archivos. Aquello solo copia, ADB interviene
 **Intérprete:** El lenguaje de ambas partes.
 **Control:** Gestión remota.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todos pueden usarlo?**
 

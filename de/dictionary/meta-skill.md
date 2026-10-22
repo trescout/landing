@@ -22,7 +22,7 @@ Es zeigt sich in selbstlernenden Systemen, kontinuierlich lernenden Modellen der
 
 Es wird mit gewöhnlichen Lernprozessen verwechselt, während Metafähigkeiten den Lernprozess selbst optimieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind Metakompetenzen für KI wichtig?**
 

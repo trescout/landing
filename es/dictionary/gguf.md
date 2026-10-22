@@ -24,7 +24,7 @@ Se utiliza en aplicaciones locales de inteligencia artificial, especialmente en 
 
 Puede confundirse con formatos de archivo generales o simplemente con métodos de compresión.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería usar GGUF?**
 

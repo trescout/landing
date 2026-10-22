@@ -22,7 +22,7 @@ Il est utilisé dans le monde des affaires pour suivre les graphiques de ventes,
 
 Il peut être confondu avec le reporting, mais le tableau de bord fournit des données en direct et interactives.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le tableau de bord affiche-t-il des données en direct ?**
 

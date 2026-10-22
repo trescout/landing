@@ -22,7 +22,7 @@ Web sitelerinin ana sayfalarında, satış sayfalarında, dijital reklamlarda ve
 
 İçerik yazarlığı (content writing) ile sıkça karıştırılır; içerik yazarlığı daha çok eğitici ve bilgilendiriciyken, copywriting doğrudan satış ve ikna odaklıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Copywriting ile içerik yazarlığı arasındaki fark nedir?**
 

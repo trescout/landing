@@ -45,7 +45,7 @@ When it reaches the target server, the process reverses (decapsulation); the hea
 - DPDK (Data Plane Development Kit): It completely bypasses the kernel; the application in the user space accesses the network card memory directly with zero-copy.
 - QUIC / HTTP/3: The transport layer has transitioned from core TCP to a UDP-based encrypted protocol that operates in user space and overcomes head-of-line blocking.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does 'network stack' mean, and what is its Turkish equivalent?**
 

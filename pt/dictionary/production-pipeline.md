@@ -48,7 +48,7 @@ A maturidade do pipeline de produção de uma organização é medida pelas quat
 
 **Tempo Médio de Recuperação (MTTR):** A velocidade com que o sistema se recupera quando ocorre uma falha em produção.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa pipeline de produção e qual é o seu objetivo principal?**
 

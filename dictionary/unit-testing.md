@@ -22,7 +22,7 @@ Yazılım geliştirme sürecinin en başında, kod yazılırken veya yazıldıkt
 
 End-to-end testing ile karıştırılabilir; o tüm sistemin bütününü test ederken, unit testing sadece tek bir parçaya odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her parçayı test etmeliyim?**
 

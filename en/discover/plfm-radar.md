@@ -73,7 +73,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Radar researchers, defense industry engineers, drone developers, and RF/SDR enthusiasts.
-- **License:** Açık kaynak donanım ve yazılım lisansı
+- **License:** Open-source hardware and software license
 - **Frequency Band:** 10.5 GHz (X-Band) FMCW
 - **Target Range:** 3 km (Drone/Tactical) - 20 km (Wide area surveillance)
 

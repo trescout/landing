@@ -22,7 +22,7 @@ Es wird häufig in der Serververwaltung, der Softwareverteilung und bei der Vera
 
 Es kann mit künstlicher Intelligenz verwechselt werden; Automatisierung ist regelbasiert, KI lernt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird mir die Automatisierung meinen Job wegnehmen?**
 

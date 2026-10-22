@@ -24,7 +24,7 @@ Moderne Webanwendungen, SaaS-Plattformen und digitale Produkte, die schnelle Upd
 
 Kann mit Continuous Delivery verwechselt werden; Bei der Bereitstellung erfordert die Go-Live-Phase möglicherweise eine manuelle Genehmigung, während sie bei der Bereitstellung vollständig automatisch erfolgt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn wir einen Fehler machen?**
 

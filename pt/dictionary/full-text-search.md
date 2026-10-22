@@ -44,7 +44,7 @@ Pode ser confundido com a busca de metadados. A busca de metadados analisa as in
 **Livro:** A seção de índice no final.
 **Arquivo:** Pesquisar um assunto em uma coleção de recortes de jornal.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Não vai correr muito devagar?**
 

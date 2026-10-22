@@ -42,7 +42,7 @@ Diferença sem servidor: a função começa do zero, o objeto continua de onde p
 **Livro caixa:** Saldo no final do dia.
 **Depósito:** Um armário à espera do seu dono.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Onde os dados são armazenados?**
 

@@ -22,7 +22,7 @@ Se utiliza en editores de código, entornos de terminales y plataformas de desar
 
 Es casi idéntico a Agentic Coding Tool; Este término se centra más en el vehículo en sí.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Reemplazará a los desarrolladores de software?**
 

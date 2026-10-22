@@ -22,7 +22,7 @@ Sie werden in robotergestützten Steuerungssystemen, Software für autonomes Fah
 
 Sie sollten nicht mit traditionellen Sprachmodellen verwechselt werden, die Schritt für Schritt denken, da diese das nächste Wort der Reihe nach vorhersagen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwendet nicht jede KI diese Methode?**
 

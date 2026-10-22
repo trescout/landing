@@ -22,7 +22,7 @@ Age de acordo com regras predeterminadas ou fluxos de trabalho. Ele recebe a sa�
 
 É confundido com uma biblioteca de código normal. Enquanto as bibliotecas apenas realizam um trabalho específico, este sistema coordena como todas as bibliotecas e serviços devem funcionar juntos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O software não funciona sem este sistema?**
 

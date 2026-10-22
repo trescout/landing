@@ -54,7 +54,7 @@ Büyük dil modelleri (LLM) gibi olasılıksal (non-deterministic) sistemlerin y
 
 **Yapay zekâ Destekli Test Üretimi:** Test senaryolarının ve görsel arayüz regresyon farklarının yapay zekâ modelleriyle otomatik tespiti.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **QA ne anlama gelir ve açılımı nedir?**
 

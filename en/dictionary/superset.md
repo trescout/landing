@@ -18,7 +18,7 @@ When designing a new language or tool, existing rules are preserved and new laye
 
 It is frequently used in programming languages ​​(e.g. TypeScript is a superset of JavaScript) and software architectures.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it advantageous to use superset?**
 

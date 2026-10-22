@@ -22,7 +22,7 @@ Hızlı yanıt vermesi gereken mobil uygulamalarda veya kişisel yapay zekâ asi
 
 Harici veritabanları ile karıştırılır; harici olanlar devasa veriler içindir, bu ise hız odaklıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Büyük veriler için uygun mu?**
 

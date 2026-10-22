@@ -22,7 +22,7 @@ A menudo se puede recurrir a ella en ciberseguridad para descifrar la lógica de
 
 Se confunde con el término «software reverse engineering» (ingeniería inversa de software), que es específico del mundo del software. La ingeniería inversa es un concepto paraguas mucho más general que también abarca máquinas físicas y hardware.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es legal realizar ingeniería inversa?**
 

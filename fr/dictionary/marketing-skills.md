@@ -42,7 +42,7 @@ On croit qu'il s'agit de ventes. Le marketing prépare le terrain, la vente conc
 **Affiche :** Annonce de théâtre.
 **Échantillon :** Distribution d'échantillons à goûter.
 
-## Foire aux questions
+## Questions et réponses
 
 **Comment l'IA transforme-t-elle le marketing ?**
 

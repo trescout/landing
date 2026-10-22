@@ -45,7 +45,7 @@ A distribuição é feita na loja ou na web. As permissões são solicitadas na 
 **Utensílio de cozinha:** Dispositivos de tarefa única.
 **Acessório para carro:** Peça instalada posteriormente.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O aplicativo e o software são iguais?**
 

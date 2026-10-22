@@ -37,7 +37,7 @@ Personalization ile benzerdir. Fark şudur: Customization içinde siz sistemi ay
 
 *Hazır bir takım elbise alıp terziye giderek kendi ölçülerinize göre daraltmak gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Her yazılım özelleştirilebilir mi?**
 

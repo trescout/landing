@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les applications de notes utilisées lors des 
 
 Il est confondu avec le mode de fonctionnement hors ligne : alors que le mode hors ligne vise uniquement à éviter les erreurs en l'absence d'Internet, l'approche hors ligne d'abord base le principe de fonctionnement principal de l'application entièrement sur les données locales.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si les modifications apportées hors ligne entrent en conflit avec les données d'autres utilisateurs lorsqu'ils sont en ligne ?**
 

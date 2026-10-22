@@ -22,7 +22,7 @@ It is used in RAG systems, large-scale search engines and recommendation systems
 
 Can be confused with Vector Database; Vector indexing is the method of organizing and mapping within this database.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we use this instead of classic search?**
 

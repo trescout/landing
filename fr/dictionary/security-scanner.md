@@ -22,7 +22,7 @@ Il est utilisé dans les processus de développement de logiciels, la gestion de
 
 Il est utilisé dans le même but que le Vulnerability Scanning, mais ce terme se concentre directement sur le véhicule.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le scanner de sécurité trouve-t-il toutes les vulnérabilités ?**
 

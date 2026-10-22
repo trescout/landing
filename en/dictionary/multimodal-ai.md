@@ -22,7 +22,7 @@ It is used in image recognition applications, voice assistants, and complex vide
 
 It can be confused with standard AI models that are purely text-based.
 
-## Frequently asked questions
+## Questions and answers
 
 **Multimodal ne demektir?**
 

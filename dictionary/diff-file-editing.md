@@ -22,7 +22,7 @@ Git gibi sürüm kontrol sistemlerinde ve AI kodlama ajanlarında sıkça kullan
 
 Tüm dosya üzerine yazma (overwrite) işlemiyle karıştırılmamalıdır; bu yöntem sadece farkı uygular.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tüm dosyayı göndermek yerine diff kullanıyoruz?**
 

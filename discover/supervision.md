@@ -68,7 +68,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Computer Vision](https://trescout.com/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/dictionary/cv/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

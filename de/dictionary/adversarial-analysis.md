@@ -22,7 +22,7 @@ Es wird verwendet, um die Sicherheit von Modellen der künstlichen Intelligenz, 
 
 Nicht zu verwechseln mit reinem Debuggen; Dabei steht die Anwesenheit eines böswilligen Akteurs im Vordergrund.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum machen wir diesen Test?**
 

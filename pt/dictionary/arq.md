@@ -20,7 +20,7 @@ O remetente envia o pacote de dados e aguarda uma confirmação. Se a confirmaç
 
 É usado nos protocolos básicos e nos protocolos de rede da Internet, como o protocolo TCP.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é tão importante?**
 

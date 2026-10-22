@@ -22,7 +22,7 @@ Se utiliza en herramientas de gestión de proyectos, sistemas multiagente y fluj
 
 Es la capacidad de asignar el trabajo correcto al recurso correcto, no simplemente dejar el trabajo a otra persona.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo se transfiere la inteligencia artificial?**
 

@@ -22,7 +22,7 @@ Fatura işleme, kimlik doğrulama sistemleri ve eski arşivlerin dijitalleştiri
 
 OCR ile neredeyse aynıdır; metin çıkarma bu işlemin genel adıyken, OCR kullanılan teknolojinin adıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **El yazısını okuyabilir mi?**
 

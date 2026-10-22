@@ -22,7 +22,7 @@ Generalmente se utiliza como una extensión en los navegadores web o se encuentr
 
 A veces, bloquear anuncios y bloquear el contenido de un sitio web puede confundirse, pero estas herramientas solo tienen como objetivo los servidores publicitarios.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El uso de un bloqueador de anuncios daña los sitios?**
 

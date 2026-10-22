@@ -24,7 +24,7 @@ Il est utilisé sur les marchés boursiers et sur les plateformes d'investisseme
 
 Ils peuvent être confondus avec les fonds communs de placement, mais les ETF peuvent être achetés et vendus en bourse à des prix au comptant pendant la journée.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je acheter un ETF plutôt qu’une seule action ?**
 

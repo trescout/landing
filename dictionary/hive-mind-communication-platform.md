@@ -22,7 +22,7 @@ Yazılım geliştirme ekiplerinin ortak karar alma süreçlerinde, acil durum y�
 
 Sadece bir mesajlaşma uygulaması veya sohbet odası değildir; bilgiyi işleyen ve kolektif bir çıktı üreten bir yapıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu platformlar her türlü ekip için uygun mu?**
 

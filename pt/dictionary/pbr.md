@@ -24,7 +24,7 @@ O software analisa a rugosidade da superfície e se ela é metálica ou não. Ca
 
 Os métodos de desenho tradicionais simplificam a luz não de acordo com as leis físicas, mas apenas para que pareça visualmente agradável.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não é usado em todos os jogos?**
 

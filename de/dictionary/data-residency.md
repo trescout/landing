@@ -22,7 +22,7 @@ Es ist in Branchen obligatorisch, die sensible Daten verarbeiten, wie etwa im Ba
 
 Es kann mit Datensicherheit verwechselt werden, aber diese Situation geht über die Sicherheit hinaus und steht in direktem Zusammenhang mit dem physischen Speicherort der Daten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es wichtig?**
 

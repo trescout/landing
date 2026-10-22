@@ -42,7 +42,7 @@ Istio und Linkerd sind bekannte Implementierungen. Bei kleinen Systemen überste
 **Verkehr:** Ein Signalnetzwerk, das den Fluss regelt.
 **Post:** Das Verteilerzentrum, das die Sendung trennt.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es für jedes Projekt notwendig?**
 

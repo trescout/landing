@@ -22,7 +22,7 @@ It is located centrally in domain name settings and internet service providers' 
 
 It can be confused with hosting; hosting is where your site's files are stored, and nameserver is the path to get there.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does changing nameserver settings do?**
 

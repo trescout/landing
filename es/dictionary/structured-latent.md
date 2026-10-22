@@ -22,7 +22,7 @@ Se utiliza en los mecanismos de funcionamiento internos de los modelos de inteli
 
 Es similar a Embedding, pero aquí se hace más énfasis en la organización estructural de los datos en el espacio matemático.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es esto importante?**
 

@@ -24,7 +24,7 @@ Mobil uygulama geliştirirken, bir yapay zekâ modelini kendi uygulamanıza ente
 
 API ile karıştırılır; API bir kapıdır, SDK ise o kapıdan geçip evi kurmanızı sağlayan tüm alet çantasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her SDK ücretsiz midir?**
 

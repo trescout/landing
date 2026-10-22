@@ -22,7 +22,7 @@ Il est utilisé pour assurer la sécurité des modèles d’intelligence artific
 
 À ne pas confondre avec le simple débogage ; Ici, l’accent est mis sur la présence d’un acteur malveillant.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi faisons-nous ce test ?**
 

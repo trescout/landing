@@ -45,7 +45,7 @@ Es wird oft mit einem Scan verwechselt. Ein Scan ist automatisch und oberflächl
 **Feuer:** Evakuierungsübung.
 **Schach:** Spiele den Zug des Gegners nicht im Voraus.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum wird diese Methode benötigt?**
 

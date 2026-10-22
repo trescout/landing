@@ -41,7 +41,7 @@ Regel: Das Grundgerüst ist ein Startpunkt, kein Regelbuch. Je größer das Proj
 **Maßschnitt:** Schablone zum Zuschneiden nach Körpermaßen.
 **Rezept:** Abgemessenes Starterset.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Können die Vorlagen angepasst werden?**
 

@@ -22,7 +22,7 @@ Kullanıcı deneyimi (UX) testlerinde ve teknik hata ayıklama süreçlerinde ku
 
 Analytics (istatistik) ile karıştırılır; analytics 'kaç kişi tıkladı?' der, session replay 'nasıl tıkladı?' sorusunu cevaplar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kullanıcı gizliliği ne olacak?**
 

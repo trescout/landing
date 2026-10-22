@@ -22,7 +22,7 @@ Se utiliza con mucha frecuencia en la computación en la nube, la gestión de se
 
 No debe confundirse con el programa en sí (código fuente); el código fuente es único, mientras que las copias en ejecución pueden ser ilimitadas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué ejecutamos más de una copia?**
 

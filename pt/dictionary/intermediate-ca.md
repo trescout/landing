@@ -24,7 +24,7 @@ Atua ativamente no gerenciamento de certificados SSL/TLS, em configurações de 
 
 Não é diretamente o certificado raiz em si, mas sim a etapa intermediária que atua como uma ponte que transporta a confiança entre a raiz e o ponto final.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que um certificado raiz direto não é usado no lugar do certificado intermediário?**
 

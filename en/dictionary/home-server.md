@@ -43,7 +43,7 @@ It is mistaken for a desktop. That one is turned on occasionally, this one runs 
 **Archive:** Records room.
 **Cellar:** Inventory warehouse.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is a server needed?**
 

@@ -22,7 +22,7 @@ Se encuentra en el centro de todos los sistemas operativos como Windows, Linux y
 
 No confundir con el sistema operativo en su conjunto; El kernel es sólo la capa de gestión más básica.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si el kernel falla?**
 

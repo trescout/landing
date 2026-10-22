@@ -22,7 +22,7 @@ Frontend wird in Webentwicklungsprozessen eingesetzt, insbesondere in großen An
 
 Dabei geht es nicht nur um das Kopieren von Dateien, sondern auch um deren Komprimierung und Optimierung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum kombinieren wir Dateien?**
 

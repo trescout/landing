@@ -42,7 +42,7 @@ Es gilt als Überwachung. Die Überwachung überwacht den Schwellenwert, die Beo
 **Krankenhaus:** Patientenmonitor.
 **Cockpit:** Flugbildschirme.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum reicht eine Registrierung nicht aus?**
 

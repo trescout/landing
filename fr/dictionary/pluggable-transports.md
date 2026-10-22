@@ -22,7 +22,7 @@ Ils sont utilisés pour accéder librement à Internet dans les régions où la 
 
 Bien qu'ils servent des objectifs similaires à ceux d'un VPN, leur logique de fonctionnement et leurs méthodes de dissimulation sont plus spécifiques.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tout le monde peut-il l'utiliser ?**
 

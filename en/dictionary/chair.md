@@ -38,7 +38,7 @@ Can be confused with CEO. The CEO manages the company, and the chairman manages 
 **Council:** The vice president chairs the session.
 **Panel:** The moderator giving the floor to the speakers.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does Chair manage the daily affairs of the company?**
 

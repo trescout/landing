@@ -22,7 +22,7 @@ Wird bei der Analyse langer Dokumente, bei komplexen Codeprojekten und bei langw
 
 Kontextfenster
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum können wir dem Modell nicht alles geben?**
 

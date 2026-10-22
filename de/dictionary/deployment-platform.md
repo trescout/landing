@@ -22,7 +22,7 @@ Es wird in der Internet-Eröffnungsphase von Websites, Backends für mobile Anwe
 
 Es unterscheidet sich von der Entwicklungsumgebung, in der Sie einfach Code schreiben. Hier wird der Code dem Endbenutzer präsentiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Welche beliebten Dienste fallen in diese Gruppe?**
 

@@ -33,7 +33,7 @@ La infraestructura de Jupyter opera en una arquitectura de tres capas débilment
 - Riesgo de Estado Oculto (Hidden State): La capacidad de ejecutar celdas en un orden aleatorio en lugar de de arriba a abajo (ejecución desordenada) puede dejar estados de variables invisibles en la memoria. Esto puede hacer que otra persona obtenga resultados diferentes o errores al ejecutar el mismo cuaderno ("crisis de reproducibilidad").
 - Desafíos del Control de Versiones (Git): Como los archivos .ipynb contienen salidas enriquecidas y gráficos en Base64, es difícil examinar las diferencias de líneas (diff) y resolver conflictos de fusión (merge conflict) en Git. Para superar este problema, se utilizan herramientas como jupytext (una herramienta que sincroniza el cuaderno con Markdown limpio o un script de Python) y nbdime.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa Jupyter Notebook y de dónde viene su significado?**
 

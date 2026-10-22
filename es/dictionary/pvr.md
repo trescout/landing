@@ -39,7 +39,7 @@ Se confunde con el VCR. El VCR usa casetes, el PVR es digital. Hace lo mismo que
 **Podcast:** Descárgalo y escúchalo en el camino.
 **Grabación de pantalla:** Archivado de la clase.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son lo mismo PVR y DVR?**
 

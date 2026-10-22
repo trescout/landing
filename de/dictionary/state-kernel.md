@@ -22,7 +22,7 @@ Es wird in komplexen Webanwendungen und Systemen verwendet, die eine Zustandsver
 
 Es kann mit staatlicher Verwaltung verwechselt werden; Bei der Statusverwaltung handelt es sich um den Prozess der Verwaltung dieser Daten, und der Statuskernel ist das Zentrum, in dem sich die Daten befinden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn dieser Kern ausfällt?**
 

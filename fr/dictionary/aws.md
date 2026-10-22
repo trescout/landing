@@ -52,7 +52,7 @@ On pense souvent qu'il ne s'agit que d'un service d'hébergement de sites. Pourt
 **Entrepôt à louer :** Louer des étagères selon les besoins.
 **Taxi :** Voyager sans posséder de véhicule.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi devrais-je utiliser AWS ?**
 

@@ -22,7 +22,7 @@ Es wird in der Rechnungsverarbeitung, in Authentifizierungssystemen und bei der 
 
 Es ist fast dasselbe wie OCR; Während Textextraktion die allgemeine Bezeichnung für dieses Verfahren ist, ist OCR der Name der verwendeten Technologie.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann er Handschrift lesen?**
 

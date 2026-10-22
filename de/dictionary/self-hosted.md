@@ -49,7 +49,7 @@ Freiheit bringt Verantwortung mit sich. Im Falle eines Hardwarefehlers steht Ihn
 - Speichern Sie diese Kopien auf zwei verschiedenen physischen Medien (z. B. interner Festplatte und externem USB).
 - Hosten Sie mindestens eine der Kopien an einem anderen physischen Ort (verschlüsselter Remote-Server oder externer Speicher), um sich vor Feuer und Diebstahl zu schützen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist Self-Hosting und was bedeutet es auf Deutsch?**
 

@@ -71,7 +71,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Facile (site prêt) · avancé (auto-hébergé)
 - **Quelles offres:** Prix ​​en temps réel + alerte + analyse
 - **Frais:** Gratuit
-- **Licence:** AGPL-3.0 · ayrıntı aşağıda
+- **Licence:** AGPL-3.0 · détail ci-dessous
 
 **Licence:** AGPL-3.0 · Site prêt à l'emploi gratuit. Cependant, si vous modifiez le projet, le redistribuez ou le publiez en tant que service Web, vous devrez ouvrir votre propre code source, comme le précisent les développeurs.
 

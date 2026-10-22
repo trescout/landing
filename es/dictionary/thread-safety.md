@@ -46,7 +46,7 @@ No está relacionado con la ciberseguridad. El tema no son los piratas informát
 **Cocina:** Cineros que utilizan un solo cuchillo por turnos.
 **Biblioteca:** El intercambio de un único ejemplar de un libro mediante el registro de préstamos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué sucede si no es seguro para subprocesos?**
 

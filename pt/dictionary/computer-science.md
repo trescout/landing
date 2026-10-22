@@ -22,7 +22,7 @@ Os modelos são desenvolvidos para resolver problemas complexos usando métodos 
 
 Ao contrário de apenas aprender a usar um computador, o objetivo é entender em profundidade por que e como o computador funciona.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Saber codificar é suficiente?**
 

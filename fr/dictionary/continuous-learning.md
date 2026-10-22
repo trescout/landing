@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes de recommandation, les outils de prévisions 
 
 Peut être mélangé avec un réglage fin ; le réglage fin est une personnalisation pour une tâche spécifique, tandis que l'apprentissage continu vise une amélioration globale.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi tous les systèmes n’apprennent-ils pas constamment ?**
 

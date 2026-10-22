@@ -22,7 +22,7 @@ Ils sont privilégiés dans les systèmes de contrôle robotique, les logiciels 
 
 Ils ne doivent pas être confondus avec les modèles de langage traditionnels qui pensent étape par étape, car ces derniers prédisent le mot suivant de manière séquentielle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi toutes les intelligences artificielles n'utilisent-elles pas cette méthode ?**
 

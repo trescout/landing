@@ -79,7 +79,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Investigadores de ciberseguridad, analistas de OSINT, expertos en informática forense y hackers éticos.
-- **Licencia:** GPL-3.0 (Açık kaynak copyleft lisansı)
+- **Licencia:** GPL-3.0 (licencia copyleft de código abierto)
 - **Marco:** Escáner OSINT asincrónico de Python
 - **Plataformas:** Linux, Mac OS, Windows
 

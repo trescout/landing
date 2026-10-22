@@ -45,7 +45,7 @@ On le croit multimodal. Multimodal est le nom de la famille, VLM en est le membr
 **Sous-titres :** Ajout de texte à un film.
 **Guide :** Description d'œuvres dans un musée.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quelle est la différence avec le modèle classique ?**
 

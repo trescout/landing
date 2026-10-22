@@ -22,7 +22,7 @@ It is used as an add-on in internet browsers such as Chrome, Firefox or Safari.
 
 It can be confused with a firewall, but while it controls all internet traffic, adblocker only targets advertising content.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does using adblocker harm websites?**
 

@@ -22,7 +22,7 @@ Se utiliza en el análisis de documentos largos, proyectos de código complejos 
 
 Ventana de contexto
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no podemos darle todo al modelo?**
 

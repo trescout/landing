@@ -79,7 +79,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
 
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent mettre en place un serveur domestique (Homelab) ou un cloud personnel, qui souhaitent éviter toute confusion de terminaux et gérer les applications Docker en un seul clic.
-- **Licence:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Licence:** Apache-2.0 (Licence Open source avec une large liberté)
 - **promoteur:** Technologie IceWhale et communauté Open Source
 - **Systèmes pris en charge:** Ubuntu, Debian, système d'exploitation Raspberry Pi, Armbian (x86_64, aarch64, armv7)
 

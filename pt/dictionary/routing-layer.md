@@ -22,7 +22,7 @@ Funciona em gateways de API, arquiteturas de microsserviços e roteadores de mod
 
 Não é um banco de dados que armazena dados diretamente; Ele é apenas um policial de trânsito gerenciando o trânsito.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que a camada de roteamento faz?**
 

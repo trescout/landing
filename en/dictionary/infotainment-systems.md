@@ -35,7 +35,7 @@ The design rule is clear: The driver's eyes must remain on the road. Therefore, 
 **Home:** Wall-mounted smart home panel.
 **Retail:** In-store information kiosks.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Are these systems safe?**
 

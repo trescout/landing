@@ -22,7 +22,7 @@ Se prefiere cuando se trabaja con datos confidenciales, en infraestructuras pers
 
 Se combina con servicios de inteligencia artificial basados ​​en la nube; Este método utiliza recursos enteramente locales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es suficiente la potencia de mi computadora?**
 

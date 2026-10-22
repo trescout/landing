@@ -22,7 +22,7 @@ Sistem, yeni gelen verileri eski bilgileriyle harmanlayarak modelini düzenli ar
 
 Fine-tuning ile karıştırılabilir; fine-tuning belirli bir görev için özelleştirmedir, sürekli öğrenme ise genel gelişimi hedefler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her sistem sürekli öğrenmiyor?**
 

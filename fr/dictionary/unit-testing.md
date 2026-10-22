@@ -22,7 +22,7 @@ Il est utilisé au tout début du processus de développement logiciel, lors de 
 
 Cela peut être confondu avec les tests de bout en bout ; Alors qu’ils testent l’ensemble du système, les tests unitaires se concentrent sur une seule partie.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je tester chaque pièce ?**
 

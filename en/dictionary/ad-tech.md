@@ -24,7 +24,7 @@ It is active on all digital channels such as social media platforms, search engi
 
 It is not the same as marketing; marketing is the strategy, while ad tech consists of the technical tools that implement this strategy.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it affect my privacy?**
 

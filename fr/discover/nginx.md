@@ -2,16 +2,16 @@
 
 Le référentiel open source NGINX continue d'être développé en C en tant que serveur Web hautes performances et proxy inverse. Le logiciel offre une solution standard dans les infrastructures à grande échelle pour gérer le trafic réseau et optimiser la distribution de contenu.
 
-- ★ 31 893
+- ★ 31 928
 - C
 - GitHub Trending · 2026-06-07
 
 ## Mises à jour
 
+- **22 octobre 2026:** Étoiles 31,893 → 31,928, dernière version release-1.31.8 (21 octobre 2026).
 - **15 octobre 2026:** Étoiles 31,652 → 31,893, dernière version release-1.31.7 (14 octobre 2026).
 - **16 septembre 2026:** Étoiles 31,565 → 31,652, dernière version release-1.31.6 (15 septembre 2026).
 - **3 septembre 2026:** Étoiles 31,451 → 31,565, dernière version release-1.31.5 (2 septembre 2026).
-- **19 août 2026:** Étoiles 31,312 → 31,451, dernière version release-1.31.4 (19 août 2026).
 
 ## Ce que ça vous apporte
 

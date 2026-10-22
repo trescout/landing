@@ -43,7 +43,7 @@ It is thought to be a remote-controlled robot. It is entirely in human hands, fa
 **Elevator:** Floor selection according to the button.
 **Autopilot:** The system that maintains the route.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **How do they learn?**
 

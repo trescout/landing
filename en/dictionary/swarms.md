@@ -22,7 +22,7 @@ Autonomous vehicles are used in logistics planning and complex software developm
 
 It is similar to hive mind; However, swarm refers to a more task-oriented and dynamic collaboration.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are Swarms productive?**
 

@@ -43,8 +43,6 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/pt/dictionary/context/)
 - [Framework](https://trescout.com/pt/dictionary/framework/)
 - [MCP](https://trescout.com/pt/dictionary/mcp/)

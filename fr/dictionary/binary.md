@@ -38,7 +38,7 @@ Pourquoi le binaire : distinguer deux états est plus stable et plus rapide que 
 **Morse :** Point et trait.
 **Interrupteur :** En avant et en arrière.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi seulement 0 et 1 ?**
 

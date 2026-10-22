@@ -71,7 +71,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [CPU](https://trescout.com/fr/dictionary/cpu/)
 
 - **Pour qui:** Il s'adresse aux chercheurs disposant de ressources matérielles limitées qui souhaitent tester, extraire des données et évaluer localement les modèles 70B et 405B haute capacité.
-- **Licence:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Licence:** Apache-2.0 (Licence Open source avec une large liberté)
 - **Besoin:** GPU VRAM minimum de 4 Go et espace disque SSD NVMe haute vitesse
 - **Écosystème:** Transformateurs Python, PyTorch et Hugging Face
 

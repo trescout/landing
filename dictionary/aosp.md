@@ -24,7 +24,7 @@ Akıllı telefonlarda, tabletlerde ve özel Android cihazlarında kullanılır.
 
 Google'ın sunduğu Android sürümü ile karıştırılabilir; Google sürümü AOSP'nin üzerine eklenmiş özel servisleri içerir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **AOSP kullanırsam Play Store olur mu?**
 

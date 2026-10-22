@@ -22,7 +22,7 @@ A aplicação guarda num repositório central as escolhas que o utilizador faz o
 
 É confundido com banco de dados, mas o banco de dados mantém registros permanentes enquanto o gerenciamento de estado gerencia o estado temporário e instantâneo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se a administração estadual for corrompida?**
 

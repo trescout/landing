@@ -22,7 +22,7 @@ Sur les téléphones Android, cela est utilisé lorsque vous souhaitez installer
 
 Il ne doit pas être confondu avec les téléchargements standard effectués via une boutique d'applications.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le sideloading est-il sûr ?**
 

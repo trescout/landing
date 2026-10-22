@@ -50,7 +50,7 @@ Local (Local): El software y los datos se encuentran directamente en la máquina
 - Self-Hosted (Alojamiento propio): Se aloja en un servidor en la oficina o el hogar del usuario; la conexión se realiza a través de la red local y la carga de mantenimiento recae en el usuario.
 - Nube (Cloud / SaaS): Todo el hardware y los datos se encuentran en el centro de datos de una empresa externa; ofrece alta disponibilidad, pero requiere una conexión a internet constante y concesiones en materia de privacidad.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa local y cuál es su equivalente en informática?**
 

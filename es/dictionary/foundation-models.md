@@ -22,7 +22,7 @@ Se utilizan en herramientas de redacción, ayudas de codificación, plataformas 
 
 A menudo se confunden con modelos de alcance limitado entrenados para hacer un solo trabajo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia entre un modelo básico y un modelo de inteligencia artificial ordinario?**
 

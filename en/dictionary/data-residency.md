@@ -22,7 +22,7 @@ It is mandatory in industries that process sensitive data, such as banking, heal
 
 It may be confused with data security, but this situation goes beyond security and is directly related to the physical location of the data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it important?**
 

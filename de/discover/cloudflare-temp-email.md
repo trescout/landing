@@ -84,7 +84,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Entwickler, Testteams und datenschutzorientierte Benutzer, die einen kostenlosen, sicheren und uneingeschränkten temporären E-Mail-Dienst unter ihrer eigenen Domain hosten möchten.
-- **Lizenz:** MIT (Özgür açık kaynak lisansı)
+- **Lizenz:** MIT (Freie Open-Source-Lizenz)
 - **Infrastruktur:** Cloudflare Workers, Pages, D1 (SQLite) und Email Routing
 - **Sprachen und Tools:** TypeScript, Rust (WASM), Vue 3, Wrangler
 

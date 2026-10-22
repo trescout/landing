@@ -35,7 +35,7 @@ Aus Sicht der Software- und Datentechnik ist eine Playlist nicht nur eine Liste 
 **Radio- und Rundfunkgeschichte:** Vor der Digitalisierung bereiteten Radiosender physische Playlists unter dem Namen „Rotation Log“ vor, um Schallplatten und Kassetten in bestimmten Zeitintervallen abzuspielen. Die heutigen digitalen Musik-Playlists sind eine direkte Fortsetzung dieser Rundfunktradition.
 **Kognitive Psychologie und Produktivität:** Es wird nahegelegt, dass rhythmische Playlists mit bestimmten Frequenzen (Lo-Fi, Binaural Beats, Barockmusik) die Konzentration unterstützen können. Die Wirkung variiert von Person zu Person.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Playlist, wie lautet die deutsche Entsprechung?**
 

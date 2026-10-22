@@ -22,7 +22,7 @@ Puede utilizar esta herramienta en sistemas RAG, que permiten a los modelos de i
 
 Se confunde con el método de web scraping (raspado web). Mientras que el web scraping examina el diseño de los sitios web y extrae datos sin procesar, la API de Búsqueda Web ofrece directamente los resultados de búsqueda preparados y filtrados que proporciona el motor de búsqueda.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué los modelos de inteligencia artificial utilizan la API de Búsqueda Web?**
 

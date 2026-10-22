@@ -22,7 +22,7 @@ Se utiliza para aumentar el rendimiento en infraestructuras de servidores y serv
 
 A diferencia de los métodos clásicos de procesamiento por lotes, no espera a que finalicen las solicitudes, sino que alimenta el flujo al instante.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Reduce los costos del servidor?**
 

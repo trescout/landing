@@ -24,7 +24,7 @@ It's found in smartphones, computer operating systems, and every mobile app you 
 
 Contrasts with CLI (Command Line Interface); In CLI, only text is written, while in GUI, visuality is at the forefront.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does every software have a GUI?**
 

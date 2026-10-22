@@ -24,7 +24,7 @@ They are widely used in search and rescue operations, cartography and agricultur
 
 They can be confused with traditional model airplanes. While model airplanes constantly require human intervention, drones can perform autonomous flight and automatic route tracking.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do drones use artificial intelligence?**
 

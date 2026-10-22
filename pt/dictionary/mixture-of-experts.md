@@ -24,7 +24,7 @@ Quando uma pergunta é feita, um mecanismo de 'roteamento' determina em qual ár
 
 Pode ser confundido com o processamento de todos os dados por um único modelo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como os especialistas são escolhidos?**
 

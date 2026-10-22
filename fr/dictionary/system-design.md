@@ -22,7 +22,7 @@ Il est utilisé dans les étapes initiales des projets de développement de logi
 
 On le confond avec le codage ; Le codage est un travail de construction, la conception du système est un projet architectural.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce nécessaire pour chaque projet ?**
 

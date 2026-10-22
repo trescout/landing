@@ -63,7 +63,7 @@ Microsoft PowerPoint olmadan da PPTX dosyalarını görüntülemek, düzenlemek 
 | **Açık Standart** | Kapalı ticari format | ISO/IEC 29500 (OpenXML) uluslararası standart |
 | **Medya Erişimi** | Zor / Özel ayrıştırıcı gerektirir | ZIP açılarak resim ve videolar doğrudan alınabilir |
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **PPTX dosyası nedir?**
 

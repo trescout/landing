@@ -22,7 +22,7 @@ Es ist ein kritisches Konzept, das bei Compiler-Entwicklungsprozessen, Low-Level
 
 Es unterscheidet sich von einfachen Programmierfehlern (Bugs) und bedeutet, dass das grundlegende Zuverlässigkeitsversprechen der Sprache von Grund auf erschüttert wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Tritt es in jeder Programmiersprache auf?**
 

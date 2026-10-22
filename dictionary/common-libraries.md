@@ -22,7 +22,7 @@ Hemen hemen her yazılım projesinde, veri işleme, ağ bağlantıları veya gö
 
 Framework ile karıştırılabilir; framework projenin iskeletini çizer, kütüphane ise sadece ihtiyacınız olan bir aracı size sunar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her kütüphane güvenli midir?**
 

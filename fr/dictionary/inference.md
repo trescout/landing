@@ -22,7 +22,7 @@ Le processus d'inférence se produit chaque fois que vous discutez avec ChatGPT 
 
 C'est confondu avec la formation du modèle ; Le modèle éducatif est celui des années scolaires, tandis que l'inférence est l'obtention du diplôme et commence à fonctionner.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Combien de temps prend le processus d’inférence ?**
 

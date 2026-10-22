@@ -22,7 +22,7 @@ Oyun geliştirme, animasyon filmleri ve dijital sanat çalışmalarında karakte
 
 Sadece 2D resim çizmekle aynı değildir, çünkü boyanan şey bir hacme sahip olan 3D modeldir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hangi programlar kullanılır?**
 

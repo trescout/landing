@@ -22,7 +22,7 @@ Ele é usado em aplicativos de anotações, ferramentas pessoais de inteligênci
 
 Só pode ser confundido com trabalho offline; No entanto, esta abordagem visa preservar a capacidade de sincronização enquanto estiver offline.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se meus dados e dispositivo estiverem corrompidos?**
 

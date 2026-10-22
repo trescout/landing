@@ -24,7 +24,7 @@ It is used in local artificial intelligence applications, especially in tools li
 
 It can be confused with general file formats or just compression methods.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I use GGUF?**
 

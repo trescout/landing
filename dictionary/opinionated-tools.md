@@ -22,7 +22,7 @@ Modern yazılım geliştirme çatılarında (framework) ve hızlı üretim araç
 
 Esnek araçlarla karıştırılabilir, ancak esnek araçlar her şeyi değiştirebilirken bu araçlar belirli bir disiplini zorunlu kılar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kadar kısıtlayıcılar?**
 

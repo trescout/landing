@@ -22,7 +22,7 @@ Se utiliza en procesos de procesamiento de datos, distribución de software y en
 
 No debe confundirse simplemente con una base de datos; Una canalización es un proceso que procesa datos, no un lugar para almacenarlos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si se rompe el oleoducto?**
 

@@ -22,7 +22,7 @@ O valor real da empresa é calculado através da análise dos seus relatórios f
 
 Pode ser confundido com especulação; A especulação concentra-se no movimento dos preços de curto prazo, que se concentra no valor de longo prazo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Posso ganhar dinheiro imediatamente?**
 

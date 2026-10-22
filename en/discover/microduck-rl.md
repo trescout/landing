@@ -81,7 +81,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [API](https://trescout.com/en/dictionary/api/)
 
 - **Who it is for:** Robotics researchers, mechatronics engineers, reinforcement learning experts, and hobbyists.
-- **License:** Apache-2.0 (Açık kaynak lisansı)
+- **License:** Apache-2.0 (Open source license)
 - **Framework:** Python, MuJoCo & mjlab Robotics Framework
 - **Platforms:** Linux, macOS, Windows
 

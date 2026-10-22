@@ -24,7 +24,7 @@ It is used in the analysis of complex corporate data, medical diagnostic systems
 
 It can be confused with classic RAG; the classic one focuses on text similarity, while this one focuses on structural relationships.
 
-## Frequently asked questions
+## Questions and answers
 
 **When should it be preferred?**
 

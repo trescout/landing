@@ -22,7 +22,7 @@ Modern sohbet botlarında, kişiselleştirilmiş gösterge panellerinde ve karma
 
 Statik web tasarımı ile karıştırılabilir, ancak buradaki tasarım tamamen yapay zekâ tarafından o an üretilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Generative UI neden önemlidir?**
 

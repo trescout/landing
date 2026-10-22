@@ -22,7 +22,7 @@ Il est utilisé dans les assistants personnels d’intelligence artificielle, le
 
 Elle est souvent confondue avec les bases de données vectorielles ; Cependant, la base de données contextuelle représente une stratégie plus large de gestion et d’accès à ces données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce nécessaire ?**
 

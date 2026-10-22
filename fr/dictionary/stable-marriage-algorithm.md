@@ -18,7 +18,7 @@ Cela commence par le classement par chaque membre d'un groupe des candidats de l
 
 Il est utilisé pour associer de manière optimale les candidats et les postes dans le cadre des appariements pour le don d'organes, des affectations aux places universitaires et des processus de recrutement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Donne-t-il un résultat parfait pour tout le monde ?**
 

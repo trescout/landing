@@ -22,7 +22,7 @@ Il est utilisé dans les modules complémentaires de navigateur, les intégratio
 
 Il peut être confondu avec le SDK, mais il s'agit plutôt d'un ensemble de règles tandis que le SDK est un ensemble d'outils plus large.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je suivre ces règles ?**
 

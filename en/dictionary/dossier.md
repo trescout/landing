@@ -22,7 +22,7 @@ It is used in intelligence analysis, project management and comprehensive resear
 
 It may be confused with just a folder, but a dossier is not just a file but an analyzed body of information.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is creating a file important?**
 

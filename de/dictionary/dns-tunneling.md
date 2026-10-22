@@ -22,7 +22,7 @@ Es wird verwendet, um bei Cyber-Sicherheitsangriffen oder eingeschränkten Netzw
 
 Es kann mit VPN verwechselt werden, aber VPN verschlüsselt den gesamten Datenverkehr, während DNS-Tunneling nur Adressabfragen verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist diese Methode sicher?**
 

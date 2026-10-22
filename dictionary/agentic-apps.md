@@ -24,7 +24,7 @@ Seyahat planlaması yaparken, e-posta kutunuzu otomatik yönetirken veya kod yaz
 
 Klasik yapay zekâ sohbet robotlarıyla karıştırılır. Sohbet robotları sadece sorularınıza cevap verirken, otonom uygulamalar sizin adınıza internette araştırma yapıp bilet satın almak gibi somut eylemler gerçekleştirebilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu uygulamalar tamamen kontrolsüz mü çalışır?**
 

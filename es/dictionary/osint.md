@@ -44,7 +44,7 @@ Se confunde con piratería informática. Aquel se infiltra, este lee. Uno derrib
 **Detective:** Rastrero.
 **Arqueología:** De la parte al todo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es legal?**
 

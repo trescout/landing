@@ -22,7 +22,7 @@ It is used in game-playing artificial intelligences, robotic motion control, and
 
 It can be confused with supervised learning; in that, the correct answer is provided, whereas in this, only the result is rewarded.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why does it take so much time?**
 

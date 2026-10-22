@@ -80,7 +80,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [LLM](https://trescout.com/de/dictionary/llm/)
 
 - **Für wen es gedacht ist:** Patentanwälte, Manager für geistiges Eigentum, F&E-Ingenieure und Erfinder.
-- **Lizenz:** MIT (Özgür açık kaynak lisansı)
+- **Lizenz:** MIT (Freie Open-Source-Lizenz)
 - **Framework:** Python-basierte Patentagentfähigkeit
 - **Plattformen:** Linux, macOS, Windows
 

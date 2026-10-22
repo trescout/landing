@@ -22,7 +22,7 @@ Você define um alvo, o Agente Hermes divide esse alvo em pequenos pedaços. Ele
 
 Sua diferença em relação ao conceito geral de Agente de IA é que ele geralmente é especializado em uma arquitetura específica ou no uso pretendido.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O Agente Hermes pode fazer alguma coisa?**
 

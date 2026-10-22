@@ -22,7 +22,7 @@ Otonom yapay zekâ sistemleri ve karmaşık iş akışlarında kullanılır.
 
 AI Agent kavramıyla karıştırılabilir, ancak bu kavram agent'ın sahip olduğu yeteneklerin yönetim biçimidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bir çerçeveye ihtiyaç var?**
 

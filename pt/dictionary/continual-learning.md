@@ -22,7 +22,7 @@ Embora o sistema integre novos dados recebidos no conjunto de informações exis
 
 Pode ser confundido com ajuste fino, mas o ajuste fino geralmente é uma atualização única, enquanto o aprendizado contínuo é um processo contínuo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o modelo esquece informações antigas?**
 

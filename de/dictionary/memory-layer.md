@@ -22,7 +22,7 @@ Es ist an personalisierten Assistenten der künstlichen Intelligenz, Langzeitpro
 
 Es unterscheidet sich vom Kontextfenster, bei dem es sich um den momentanen Speicher des Modells handelt. Die hierin enthaltenen Informationen werden dauerhaft gespeichert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Bleiben die Daten in der Speicherschicht privat?**
 

@@ -22,7 +22,7 @@ Karmaşık yazılım geliştirme süreçlerinde, otonom veri analiz projelerinde
 
 Genel 'AI skill' kavramı ile karıştırılabilir; ancak agentic skills, tek bir işlemden ziyade otonom bir süreç yönetimi yeteneğini ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her yapay zekâ bu becerilere sahip mi?**
 

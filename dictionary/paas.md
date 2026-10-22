@@ -44,7 +44,7 @@ IaaS sanılır. IaaS donanım verir, PaaS koşar ortam sunar. Biri arsa, diğeri
 
 *Hazır mutfak kiralamaya benzer; ekipman hazırdır, siz yalnızca yemeği yaparsınız.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **PaaS şart mı?**
 

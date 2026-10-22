@@ -22,7 +22,7 @@ Veri analizi, yapay zekâ model eğitimi ve hızlı kod prototipleme süreçleri
 
 Standart kod editörlerinden farkı, kodu parça parça çalıştırıp sonucu hemen görmeye izin vermesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kod yazmayı bilmeyenler kullanabilir mi?**
 

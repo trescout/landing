@@ -22,7 +22,7 @@ It is used in unmanned aerial vehicles (drones), autonomous cars and spacecraft.
 
 It is not just a GPS device; actively decides and manages the vehicle.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if he makes a mistake?**
 

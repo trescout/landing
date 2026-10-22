@@ -41,7 +41,7 @@ A maioria dos ataques entra pela ponta fraca. A disciplina de patches e o privil
 **Parada:** O ponto final da linha.
 **Número da porta:** O endereço do apartamento.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que a segurança é importante?**
 

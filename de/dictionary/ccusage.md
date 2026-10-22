@@ -24,7 +24,7 @@ Es erscheint in Cloud-Abrechnungspanels oder Leistungsüberwachungstools.
 
 Nicht zu verwechseln mit der bloßen „Anzahl der Benutzer“, hier handelt es sich eher um den „Energieverbrauch der Maschine“.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist CCUsage wichtig?**
 

@@ -46,7 +46,7 @@ Il ne s'agit pas de cybersécurité. Le sujet n'est pas le piratage, mais la coh
 **Cuisine :** Des chefs cuisiniers utilisant un seul couteau à tour de rôle.
 **Bibliothèque :** Le transfert d'un exemplaire unique d'un livre via un registre de prêt.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que se passe-t-il s’il n’est pas thread-safe ?**
 

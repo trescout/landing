@@ -24,7 +24,7 @@ It is widely used in software development processes, server management, and auto
 
 It is different from normal programs with a graphical interface; it is entirely text-based.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it difficult to learn a CLI tool?**
 

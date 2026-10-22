@@ -22,7 +22,7 @@ Es wird in Social-Media-Inhalten, Werbetexten, Archivbildern und Softwarecodes v
 
 Es kann mit KI-gestützten Inhalten gemischt werden; Hier gehört die Produktion vollständig zur künstlichen Intelligenz.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wem gehört das Urheberrecht an diesen Inhalten?**
 

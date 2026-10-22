@@ -22,7 +22,7 @@ Es wird häufig bei der Entwicklung von Mobil- und Desktop-Anwendungen eingesetz
 
 Es unterscheidet sich in diesem Aspekt von nativen Anwendungen, die auf ein einziges Gerät beschränkt sind.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird es bevorzugt?**
 

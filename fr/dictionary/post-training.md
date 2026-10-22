@@ -22,7 +22,7 @@ Il est utilisé lors de la phase de préparation des grands modèles de langage 
 
 Il est souvent confondu avec le pré-entraînement ; alors que le pré-entraînement pose les bases du modèle, le post-entraînement façonne son comportement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le post-entraînement est-il nécessaire ?**
 

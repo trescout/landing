@@ -22,7 +22,7 @@ Wird häufig in RAG-Systemen, semantischen Suchmaschinen, Empfehlungssystemen un
 
 Drückt genau dasselbe Konzept wie der bereits vorhandene Begriff Vector Database aus, es handelt sich lediglich um eine andere Bezeichnung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ersetzt der Vektorspeicher eine normale Datenbank?**
 

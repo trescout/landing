@@ -39,7 +39,7 @@ Règle : Le changement est local, il disparaît lorsque vous le renouvelez. Un t
 **Radiographie:** Vue de la structure interne.
 **Bonnet:** Compartiment moteur.
 
-## Foire aux questions
+## Questions et réponses
 
 **Juste Chrome ?**
 

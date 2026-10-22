@@ -29,7 +29,7 @@ The concept of "keybind" or "keybinding" is expressed in Turkish as key assignme
 
 Keyboard shortcut and keybind are often used synonymously. However, in practice, while shortcut refers to universal combinations (Ctrl+V, Alt+Tab) at the operating system level; Rather, keybind defines special assignments that the user can re-map according to their own habits in the editor or in-game.
 
-## Frequently asked questions
+## Questions and answers
 
 **Keybind meaning?**
 

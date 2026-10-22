@@ -22,7 +22,7 @@ Web sunucuları, çok kullanıcılı uygulamalar ve modern işletim sistemlerind
 
 Paralellik (parallelism) ile karıştırılır; paralellik aynı anda gerçekten iki farklı işlemcinin iki işi yapmasıdır, concurrency ise işlerin zamanlamasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden önemli?**
 

@@ -20,7 +20,7 @@ The sender sends the data packet and waits for an acknowledgment. If confirmatio
 
 It is used in the basic protocols and network protocols of the Internet, such as the TCP protocol.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it so important?**
 

@@ -22,7 +22,7 @@ Se utiliza especialmente en la resolución de problemas matemáticos complejos, 
 
 No debe confundirse con las redes neuronales recurrentes tradicionales. Mientras que las redes neuronales recurrentes procesan datos a lo largo de una serie temporal, estos modelos ejecutan la arquitectura transformer nuevamente con una lógica cíclica.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estos modelos funcionan más lento?**
 

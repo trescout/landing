@@ -22,7 +22,7 @@ It is used in automatic processing of invoices, analysis of contracts or summari
 
 It is confused with just copying text, but parsing transfers the data while preserving its structure (table or header).
 
-## Frequently asked questions
+## Questions and answers
 
 **Can it read every document?**
 

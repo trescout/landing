@@ -22,7 +22,7 @@ Es wird in großen Projekten der künstlichen Intelligenz und komplexen Automati
 
 Es ähnelt Multiagentensystemen, allerdings steht hier der „Routing“-Mechanismus (Multiplexing) im Vordergrund.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir mehrere Agenten anstelle eines einzelnen Agenten?**
 

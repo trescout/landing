@@ -24,7 +24,7 @@ Um banco de dados central ou sistema em nuvem é estabelecido. Todos os departam
 
 Pode ser confundido com o banco de dados central; Este é um princípio de gestão e não uma técnica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que esse princípio é difícil?**
 

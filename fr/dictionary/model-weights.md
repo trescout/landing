@@ -22,7 +22,7 @@ Vous le rencontrez lors du partage de modèles open source, du dimensionnement d
 
 Cela peut être confondu avec des données brutes ou du code de programme, mais ce ne sont que des coefficients d'expérience que le modèle a appris.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les poids des modèles peuvent-ils être modifiés ?**
 

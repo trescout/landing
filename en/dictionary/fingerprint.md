@@ -24,7 +24,7 @@ It is used in fraud detection for banking applications, preventing bot attacks, 
 
 It is confused with an IP address; while an IP address changes when you restart your modem or turn on a VPN, a device fingerprint remains largely constant as long as you use the same hardware.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does using incognito mode prevent fingerprint tracking?**
 

@@ -51,7 +51,7 @@ swm datasets
 - **Who it is for:** ML/RL researchers
 - **Difficulty:** Advanced research-oriented
 - **What offers:** Reproducible world-model research platform
-- **License:** Standart tespit edilemedi · ayrıntı aşağıda
+- **License:** Standard not detected · detail below
 - **Fee:** open source
 
 **License:** GitHub did not detect a standard license. Check LICENSE on repo before reuse.

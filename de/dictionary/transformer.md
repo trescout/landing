@@ -32,7 +32,7 @@ Darüber hinaus hat der Transformer die Grenzen von Text überschritten und ist 
 - Aufmerksamkeitsgewichte als logische Erklärungen verwechseln: Ein hoher Aufmerksamkeitswert ist kein absoluter Ursache-Wirkungs-Beweis, sondern eine statistische Gewichtskorrelation.
 - Wahl des falschen Modells für die falsche Aufgabe: Für reine Klassifizierungs- oder Suchaufgaben sollten Encoder-Modelle gegenüber riesigen Decoder-Modellen bevorzugt werden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist der größte Vorteil der Transformer-Architektur gegenüber RNN- und LSTM-Modellen?**
 

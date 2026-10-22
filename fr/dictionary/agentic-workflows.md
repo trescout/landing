@@ -22,7 +22,7 @@ Il est utilisé dans le développement de logiciels autonomes, l’analyse de do
 
 Cela peut être confondu avec l’utilisation standard de l’IA ; Ici, l’intelligence artificielle ne se contente pas de répondre, elle agit.
 
-## Questions fréquentes
+## Questions et réponses
 
 **N'y a-t-il pas besoin d'intervention humaine ?**
 

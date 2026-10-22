@@ -22,7 +22,7 @@ Finansal işlemlerde, mülkiyet devirlerinde ve dijital varlık yönetiminde kul
 
 Sadece dijital imza ile karıştırılabilir, ancak akıllı sözleşmeler bir işlem mantığı içerir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Değiştirilebilir mi?**
 

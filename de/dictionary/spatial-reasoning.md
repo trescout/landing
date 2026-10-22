@@ -22,7 +22,7 @@ Es wird in autonomen Robotern, Modellen der künstlichen Intelligenz, die die ph
 
 Dabei geht es nicht nur um visuelles Erkennen, sondern um ein Verständnis, das Tiefe und Logik umfasst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie lernt künstliche Intelligenz das?**
 

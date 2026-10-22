@@ -22,7 +22,7 @@ Il est utilisé sur les sites de commerce électronique, les applications bancai
 
 Mixé avec un support multicanal ; Dans le support multicanal, les canaux sont indépendants les uns des autres, tandis que dans le support omnicanal, ils sont tous interconnectés.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi l’omnicanal est-il important ?**
 

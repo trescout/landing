@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes d’information d’entreprise, les robots de
 
 Il est similaire au système RAG, mais ici l'accent est mis sur la conservation des informations dans une structure plus organisée et encyclopédique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi LLM-Wiki est-il nécessaire ?**
 

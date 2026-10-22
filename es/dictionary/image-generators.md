@@ -22,7 +22,7 @@ Se utilizan ampliamente en trabajos artísticos, la industria publicitaria, el d
 
 Se diferencian de los programas de edición de fotografías porque no mejoran una foto existente, sino que la crean completamente de la nada.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estas herramientas dibujan a la perfección cualquier texto que queramos?**
 

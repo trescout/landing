@@ -22,7 +22,7 @@ Se prefiere en dispositivos con pocos recursos o en aplicaciones de inteligencia
 
 Puede confundirse con la arquitectura transformer estándar, pero aquí el número de capas es físicamente menor.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Funciona más lento?**
 

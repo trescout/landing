@@ -20,7 +20,7 @@ Program, çizgileri, açıları ve yüzeyleri matematiksel koordinatlar olarak k
 
 İnşaat projelerinde bina planı çizerken, otomobil fabrikalarında motor parçası tasarlarken veya bir telefonun dış kasasını modellerken sıkça kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **CAD sadece üç boyutlu mu çalışır?**
 

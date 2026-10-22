@@ -22,7 +22,7 @@ Es wird beim Training von Modellen der künstlichen Intelligenz, bei der Big-Dat
 
 Kann mit Echtzeitverarbeitung verwechselt werden; Die Echtzeitverarbeitung reagiert sofort, während die Stapelverarbeitung wartet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum führen wir eine Massenverarbeitung durch?**
 

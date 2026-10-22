@@ -43,7 +43,7 @@ Bu komut, kilit dosyasındaki sürümleri birebir kurar. Aynı depodan her çal�
 
 *Bir hesap makinesine 2+2 yazdığınızda her seferinde 4 almanız gibidir, asla 5 vermez.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden önemlidir?**
 

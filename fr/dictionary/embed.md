@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les moteurs de recherche, les systèmes de rec
 
 Contrairement au terme intégration, qui est exactement le même concept, celui-ci est l'équivalent du mot en action ou en opération.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi convertissons-nous en listes numériques ?**
 

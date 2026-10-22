@@ -22,7 +22,7 @@ It is used to access the internet in cyber security attacks or restricted networ
 
 It may be confused with VPN, but VPN encrypts all traffic while DNS tunneling only uses address queries.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is this method safe?**
 

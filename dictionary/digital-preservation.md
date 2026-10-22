@@ -22,7 +22,7 @@ Dijital kütüphanelerde, devlet arşivlerinde, müze veri tabanlarında ve uzun
 
 Basit bir yedekleme yani backup işlemiyle karıştırılır. Yedekleme, veriyi bugünkü haliyle kopyalamaktır; bu süreç ise o verinin 50 yıl sonraki bilgisayarlarda bile nasıl açılacağını planlamaktır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Evde kendi fotoğraflarım için bunu nasıl uygulayabilirim?**
 
@@ -36,7 +36,7 @@ Bulut depolama iyi bir araçtır ancak tek bir şirkete bağımlı kalmamak ve v
 
 - [Backup Program](https://trescout.com/dictionary/backup-program/)
 - [Incremental Backup](https://trescout.com/dictionary/incremental-backup/)
-- [Personal Knowledge Management](https://trescout.com/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/dictionary/personal-knowledge-management/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

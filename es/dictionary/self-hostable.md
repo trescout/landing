@@ -22,7 +22,7 @@ Se utiliza en sistemas personales de almacenamiento en la nube, servidores de me
 
 Se puede confundir con los modelos SaaS (Software as a Service); En SaaS, otra persona administra el servicio, mientras que en una estructura autohospedada, toda la administración es suya.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería elegir un software autohospedable?**
 

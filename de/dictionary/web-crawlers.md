@@ -22,7 +22,7 @@ Es wird bei der Suchmaschinenindizierung, Datenerfassungsprojekten und Preisverg
 
 Es kann mit Web Scraping verwechselt werden; Der Crawler crawlt das gesamte Netzwerk, während der Scraper Daten von einer bestimmten Seite abruft.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können sie jede Website besuchen?**
 

@@ -22,7 +22,7 @@ Sie finden es in antiken Telefonen, Museumssammlungen und dekorativen Designs im
 
 Nicht zu verwechseln mit modernen digitalen Tastaturen oder Touchscreen-Schnittstellen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird es nicht mehr verwendet?**
 

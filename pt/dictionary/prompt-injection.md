@@ -22,7 +22,7 @@ Ele surge como uma vulnerabilidade de segurança em chatbots, atendimento ao cli
 
 É diferente dos métodos de hacking clássicos, pois aqui não se usam códigos de computador, mas sim linguagem cotidiana e jogos de palavras.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O prompt injection funciona em todos os modelos de inteligência artificial?**
 

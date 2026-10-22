@@ -22,7 +22,7 @@ Se utiliza cuando se contribuye a proyectos de código abierto o cuando se desea
 
 No debe confundirse con el proceso de clonación, que simplemente descarga el proyecto al ordenador y lo examina; El proceso de bifurcación crea una propiedad nueva e independiente en el lado del servidor.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Recibiré actualizaciones del proyecto original después de la bifurcación?**
 

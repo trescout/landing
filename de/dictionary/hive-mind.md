@@ -22,7 +22,7 @@ Es wird bei der Lösung komplexer Probleme, bei der Analyse umfangreicher Daten 
 
 Es ähnelt Multi-Agenten-Systemen, der Schwerpunkt liegt jedoch auf Einheiten, die als ein einziger Geist agieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist Hive Mind besser?**
 

@@ -22,7 +22,7 @@ It is used in software development processes, server management and cyber securi
 
 It is used for the same purpose as Vulnerability Scanning, but this term focuses directly on the vehicle.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does the security scanner find every vulnerability?**
 

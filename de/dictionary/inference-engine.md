@@ -22,7 +22,7 @@ Es ist in KI-Diensten, cloudbasierten APIs und lokal ausgeführten KI-Anwendunge
 
 Es wird mit dem Modell selbst verwechselt; Das Modell ist die Information, die Engine ist das System, das diese Informationen nutzt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir eine separate Engine?**
 

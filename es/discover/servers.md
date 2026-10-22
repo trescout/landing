@@ -55,12 +55,11 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol-mcp/)
 - [SDK](https://trescout.com/es/dictionary/sdk/)
 - [Context](https://trescout.com/es/dictionary/context/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está dirigido a desarrolladores que desean integrar de forma segura modelos de inteligencia artificial con herramientas externas como archivos locales, memoria y repositorios de código.
 

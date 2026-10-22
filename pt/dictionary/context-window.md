@@ -22,7 +22,7 @@ Essa capacidade é vital ao resumir livros longos ou analisar um projeto de cód
 
 Confunde-se com o conhecimento geral do modelo; O conhecimento geral é adquirido na educação e a janela de contexto é a memória de curto prazo da conversa atual.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se a janela de contexto for preenchida?**
 

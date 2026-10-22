@@ -24,7 +24,7 @@ Aparece en paneles de facturación en la nube o herramientas de seguimiento del 
 
 No debe confundirse simplemente con "número de usuarios", sino más consumo de "energía de la máquina".
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante el uso de CCU?**
 

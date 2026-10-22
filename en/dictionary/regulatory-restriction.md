@@ -28,7 +28,7 @@ Software teams must observe security and regulatory standards when designing the
 
 Internal platform policies (Terms of Service / Acceptable Use Policy) should not be confused with legal regulatory restrictions. Platform rules are companies' own business preferences; Regulatory restrictions are state laws that, if violated, result in huge fines and legal sanctions relative to the company's turnover.
 
-## Frequently asked questions
+## Questions and answers
 
 **Regulatory restrictions meaning?**
 

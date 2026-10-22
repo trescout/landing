@@ -22,7 +22,7 @@ Yazılım geliştirme, sunucu yönetimi ve otomasyon süreçlerinde yaygın olar
 
 CLI (Command Line Interface) kavramıyla aynıdır; terminal control bu arayüzün aktif kullanım sürecini ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden herkes terminal kullanmıyor?**
 

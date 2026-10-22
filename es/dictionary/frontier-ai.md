@@ -36,7 +36,7 @@ Se cree que es AGI. Frontier es el mejor hoy en día, AGI es la inteligencia gen
 **Everest:** La ruta cumbre del montañismo.
 **Aviones experimentales:** Plataforma de prueba de límites.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todos pueden usarlo?**
 

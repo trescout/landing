@@ -22,7 +22,7 @@ Encontra-se em arquiteturas de computação em nuvem, sistemas de gerenciamento 
 
 Pode ser confundido com o plano de dados; um gerencia, o outro executa o trabalho.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se ele falhar?**
 

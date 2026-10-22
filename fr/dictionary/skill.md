@@ -46,7 +46,7 @@ On pense souvent qu'il s'agit d'une capacité générale du modèle. Pourtant, c
 **Perceuse :** Fonction qui varie selon l'embout.
 **Téléphone :** Chaque application installée.
 
-## Foire aux questions
+## Questions et réponses
 
 **Chaque modèle a-t-il une capacité ?**
 

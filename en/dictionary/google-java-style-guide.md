@@ -32,7 +32,7 @@ Trying to Format Manually: Instead of counting spaces one by one, the google-jav
 Disabling Checkstyle Rules: Disabling style checks in CI/CD when the process is tight increases technical debt.
 Overusing Comment Lines: The code should aim to be self-explanatory; meaningless comments should not be written for obvious getter/setter methods.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why does the Google Java Style Guide use 2-space indentation instead of 4 spaces?**
 

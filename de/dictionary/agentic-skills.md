@@ -22,7 +22,7 @@ Es wird in komplexen Softwareentwicklungsprozessen, autonomen Datenanalyseprojek
 
 Es kann mit dem allgemeinen Konzept der „KI-Fähigkeit“ verwechselt werden; Agentische Fähigkeiten beziehen sich jedoch auf die Fähigkeit, einen autonomen Prozess und nicht einen einzelnen Prozess zu verwalten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verfügt jede künstliche Intelligenz über diese Fähigkeiten?**
 

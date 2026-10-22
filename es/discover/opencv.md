@@ -43,7 +43,6 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Computer Vision Library](https://trescout.com/es/dictionary/computer-vision-library/)
 - [Computer Vision](https://trescout.com/es/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/es/dictionary/cv/)
 - [Machine Learning](https://trescout.com/es/dictionary/machine-learning/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

@@ -39,7 +39,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Base de programmation intermédiaire
 - **Format:** Cours pratique de 9 semaines
 - **Frais:** Gratuit
-- **Licence:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Licence:** Norme non détectée · détail ci-dessous
 
 **Licence:** GitHub n'a pas détecté de licence standard. Il est gratuit de suivre/apprendre le contenu ; Vérifiez les conditions dans le dépôt avant la réédition.
 

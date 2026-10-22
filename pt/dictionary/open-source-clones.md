@@ -22,7 +22,7 @@ Os desenvolvedores pegam o código-fonte do projeto original e o utilizam como b
 
 Pode ser confundido com o termo simplesmente 'Clone', mas este termo abrange especificamente aqueles que são de código aberto e orientados pela comunidade.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **As cópias de código aberto são legais?**
 

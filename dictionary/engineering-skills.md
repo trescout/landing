@@ -22,7 +22,7 @@ Yazılım geliştirme, mimari tasarım ve genel problem çözme süreçlerinin t
 
 Sadece kodlama becerisiyle karıştırılabilir, oysa kodlama bu sürecin sadece uygulama kısmıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes mühendislik becerisi kazanabilir mi?**
 

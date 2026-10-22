@@ -22,7 +22,7 @@ Se aplica en la experiencia de usuario y en los procesos de cumplimiento legal d
 
 Es diferente a una interfaz de cancelación ordinaria; es una regulación estricta respaldada por sanciones legales oficiales y multas disuasorias.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Ofrecer un descuento al usuario durante la cancelación va en contra de esta regla?**
 

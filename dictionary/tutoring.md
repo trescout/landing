@@ -43,7 +43,7 @@ Son 40 yıldır eğitim dünyasının en temel sosyo-ekonomik krizi, bu muazzam 
 - **Tutoring vs Teaching:** Teaching (öğretmenlik) genellikle bir müfredatı geniş bir sınıfa aktarmayı hedefler; tutoring ise tek bir ferdin kavrayış boşluklarını gidermeye odaklanan mikro rehberliktir.
 - **Tutoring vs AI Chatbot:** Sıradan bir sohbet botu ödevi sizin yerinize çözer; bir AI Tutor ise çözümü adım adım size buldurarak beyninizin nöronal bağlantılar kurmasını sağlar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Tutoring ne demek, Türkçe karşılığı nedir?**
 

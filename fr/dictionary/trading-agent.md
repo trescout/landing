@@ -22,7 +22,7 @@ Il est utilisé dans les échanges de cryptomonnaies, les marchés boursiers et 
 
 C'est similaire au trading algorithmique, mais les agents sont plus autonomes et basés sur l'apprentissage.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Y a-t-il un risque de perdre de l'argent ?**
 

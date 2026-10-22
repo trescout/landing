@@ -39,7 +39,7 @@ Dieser Befehl erhöht die Anzahl der Replikate des Webdienstes auf fünf. Wenn d
 **Stromnetz:** Kraftwerke, die sich je nach Bedarf zuschalten.
 **Logistik:** Verteilerlinien, die sich je nach Auslastung öffnen und schließen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Macht das Verlegen einer Anwendung in die Cloud diese zu einer Cloud-native-Anwendung?**
 

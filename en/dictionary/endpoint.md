@@ -41,7 +41,7 @@ It is mistaken for a server. The server is the center, the endpoint is at the us
 **Stop:** The final point of the line.
 **Port number:** The address of the apartment.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is security important?**
 

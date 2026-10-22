@@ -24,7 +24,7 @@ Il est au cœur de toutes sortes d’appareils numériques, des smartphones aux 
 
 Mélangé avec GPU ; Alors que le GPU s'occupe des tâches visuelles et parallèles, le CPU s'occupe des tâches logiques générales.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie le cœur du processeur ?**
 

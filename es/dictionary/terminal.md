@@ -43,7 +43,7 @@ Se confunde con la GUI. La GUI es visual, el terminal es textual. También se co
 **Carlinga:** Control directo con un botón.
 **Sala de máquinas:** Girar las válvulas a mano.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario aprender la terminal?**
 

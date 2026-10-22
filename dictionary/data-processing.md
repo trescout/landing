@@ -22,7 +22,7 @@ Finans, sağlık, yapay zekâ eğitimi ve pazarlama gibi verinin olduğu her ala
 
 Veri analizi ile karıştırılır; veri işleme hazırlık aşamasıdır, analiz ise sonuçları yorumlamaktır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Veri işleme neden önemlidir?**
 

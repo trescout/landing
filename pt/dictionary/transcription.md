@@ -43,7 +43,7 @@ A inteligência artificial acelera, a leitura final está no humano. Nomes e ter
 **Escriturário de minutos:** Ata de audiência.
 **Oficial de arquivo:** Diretório de registro.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Funciona em todos os idiomas?**
 

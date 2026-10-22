@@ -22,7 +22,7 @@ Il est utilisé dans les assistants personnels, les systèmes d’analyse de l�
 
 C'est presque la même chose que l'apprentissage continu, mais l'apprentissage tout au long de la vie fait référence à un processus de développement plus long et plus complet.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi toutes les IA ne font-elles pas cela ?**
 

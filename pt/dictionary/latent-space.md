@@ -22,7 +22,7 @@ Trabalha constantemente em segundo plano em modelos generativos de inteligência
 
 Pode ser confundido com banco de dados vetorial, mas banco de dados vetorial é um banco de dados permanente armazenado externamente, enquanto o espaço latente é um espaço abstrato temporário onde o modelo pensa dentro de si e realiza cálculos instantâneos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O espaço latente pode ser visto pelo olho humano?**
 

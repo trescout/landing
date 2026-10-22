@@ -38,7 +38,7 @@ Las versiones en la nube no requieren instalación, el trabajo sin conexión es 
 **Caja de herramientas:** La herramienta adecuada para el trabajo.
 **Juego de cocina:** Grupo de ollas y cuchillos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Los hay basados ​​en la nube?**
 

@@ -22,7 +22,7 @@ Ele é amplamente utilizado em segundo plano em processos de integração contí
 
 Não deve ser confundido com aplicativos persistentes instalados diretamente no servidor ativo; geralmente são ambientes temporários e baseados em tarefas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usamos imagens prontas?**
 

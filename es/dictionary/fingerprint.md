@@ -24,7 +24,7 @@ Se utiliza en la detección de fraudes en aplicaciones bancarias, para prevenir 
 
 Se confunde con la dirección IP; mientras que la dirección IP cambia cuando reinicias el módem o activas una VPN, la huella digital del dispositivo permanece mayormente constante mientras uses el mismo hardware.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Usar el modo incógnito evita el seguimiento por huella digital?**
 

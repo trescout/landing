@@ -24,7 +24,7 @@ You will frequently encounter them in areas such as web development (CSS, HTML),
 
 They can be confused with general-purpose programming languages; the difference is that one tries to do everything, while the other focuses on doing one job perfectly.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we use a DSL for every task?**
 

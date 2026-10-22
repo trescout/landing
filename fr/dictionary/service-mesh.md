@@ -42,7 +42,7 @@ Istio et Linkerd en sont des implémentations connues. Dans un petit système, l
 **Trafic :** Le réseau de signalisation qui régule le flux.
 **Courrier :** Le centre de distribution qui achemine l'envoi.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce nécessaire pour chaque projet ?**
 

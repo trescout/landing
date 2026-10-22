@@ -22,7 +22,7 @@ O sistema faz uma pequena alteração na solução existente. Se esta mudança m
 
 Pode ser confundido com métodos de busca mais complexos e que consideram todas as possibilidades; Este método é muito mais rápido, mas nem sempre garante o resultado perfeito.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que ele nem sempre consegue encontrar o melhor resultado?**
 

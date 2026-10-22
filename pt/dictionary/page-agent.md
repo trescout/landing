@@ -22,7 +22,7 @@ Funciona como um complemento ou aplicativo de fundo instalado em seu navegador. 
 
 Ele pode ser confundido com modelos de agentes de IA de uso geral, mas é focado apenas no navegador da web.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O Agente de Página é seguro?**
 

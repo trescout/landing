@@ -24,7 +24,7 @@ Hava durumu uygulamalarının veriyi meteoroloji merkezinden çekmesi veya yapay
 
 Web sitesinin kendisi ile karıştırılır, ancak API insanlar için değil, makinelerin makinelerle konuşması için tasarlanmıştır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes API kullanabilir mi?**
 

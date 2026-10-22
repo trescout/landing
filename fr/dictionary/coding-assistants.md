@@ -22,7 +22,7 @@ Ils sont utilisés dans des environnements de développement logiciel populaires
 
 Ils sont souvent confondus avec les « agents de codage IA » ; alors que les assistants sont davantage axés sur les suggestions et les conseils, les agents sont des structures plus autonomes capables d'effectuer des tâches spécifiques de bout en bout à votre place.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces outils peuvent-ils écrire tout le code par eux-mêmes ?**
 

@@ -22,7 +22,7 @@ Il est couramment utilisé dans les systèmes RAG, les moteurs de recherche sém
 
 Il exprime exactement le même concept que le terme existant vector-database, c'est simplement une appellation différente.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le magasin de vecteurs remplace-t-il la base de données normale ?**
 

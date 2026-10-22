@@ -42,7 +42,7 @@ Se considera una venta. Prepara el entorno de marketing y cierra las ventas. Uno
 **Bandera:** Anuncio de teatro.
 **Muestra:** No regales un gusto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo está cambiando la IA el marketing?**
 

@@ -22,7 +22,7 @@ It is used when managing servers or in software development processes where you 
 
 It should not be confused with 'shell', which just says commands; This tool offers a visual editing interface.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it difficult to learn?**
 

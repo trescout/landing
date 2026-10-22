@@ -22,7 +22,7 @@ It is used in the automation of complex workflows, software development processe
 
 Can be confused with ordinary automation tools; While automation only follows the predefined path, the agentic system draws the path itself.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do agentic systems always make the right decision?**
 

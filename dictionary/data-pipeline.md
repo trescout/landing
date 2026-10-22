@@ -22,7 +22,7 @@ Yapay zekâyı eğitmek için büyük miktarda verinin hazırlanmasında veya g�
 
 Veritabanı ile karıştırılır, ancak pipeline verinin hareket ve değişim sürecidir, veritabanı ise sadece depolama alanıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kadar önemli?**
 

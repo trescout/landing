@@ -40,7 +40,7 @@ Kuralın istisnası da kuraldır: Prototipte hız, kritik sistemde titizlik öne
 
 *Yemek yaparken herkesin kabul ettiği pişirme tekniğini uygulamak gibidir; doğru yöntemle sonuç daha öngörülebilir olur.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Bunlara uymak zorunlu mu?**
 

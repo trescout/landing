@@ -24,7 +24,7 @@ It is used to make scanned PDF documents editable, automatically read ID card in
 
 Unlike browsers that just save the image as is, it converts the content into text.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can he read handwriting?**
 

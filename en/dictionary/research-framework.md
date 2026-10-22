@@ -22,7 +22,7 @@ It is used in academic studies, data analysis projects and new technology develo
 
 It is not just a project management tool; rather, it is the methodology of a scientific or technical discovery process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do I need a frame?**
 

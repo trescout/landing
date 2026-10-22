@@ -22,7 +22,7 @@ Es wird in Softwareentwicklungsprozessen eingesetzt, insbesondere bei Teamprojek
 
 Code-Review-Tools und 'KI-Coding-Assistenten', die beim Schreiben von Code helfen, werden manchmal verwechselt; während Assistenten Ihnen beim Schreiben des Codes helfen, überprüfen Review-Tools das, was bereits geschrieben wurde.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ersetzt ein Code-Review-Tool einen menschlichen Lektor?**
 

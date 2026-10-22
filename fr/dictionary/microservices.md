@@ -22,7 +22,7 @@ Il est utilisé dans les applications web à grande échelle et les systèmes à
 
 Il ne s'agit pas seulement de fragmenter le code, mais aussi de la méthode par laquelle ces composants communiquent entre eux.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce si compliqué ?**
 

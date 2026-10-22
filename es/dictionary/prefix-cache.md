@@ -22,7 +22,7 @@ Se utiliza en servicios LLM, conversaciones que requieren un contexto extenso y 
 
 Se puede confundir con la caché KV; Mientras que la caché KV contiene el estado interno del modelo, la caché de prefijo contiene bloques de texto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuánta velocidad proporciona?**
 

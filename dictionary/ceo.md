@@ -40,7 +40,7 @@ Chair sanılır. CEO icraat yapar, chair kurulu yönetir. Biri gemiyi sürer, di
 
 *Gemideki kaptan gibidir; geminin nereye gideceğine karar verir ve mürettebatın koordineli çalışmasından sorumludur.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **CEO her işe karışır mı?**
 

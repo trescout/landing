@@ -41,7 +41,7 @@ This line does not wait until the file arrives, other work continues. It continu
 **Restaurant:** Order entry, service exit.
 **Factory:** Raw material input, product output.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is I/O a bottleneck?**
 

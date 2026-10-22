@@ -22,7 +22,7 @@ It is frequently used in cloud systems, API connections and encrypted file share
 
 It is similar to a password, but keys are usually longer and consist of random characters.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why use key instead of password?**
 

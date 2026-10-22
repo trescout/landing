@@ -46,7 +46,7 @@ Se confunde con el análisis de datos. La analítica hace preguntas, el BI da re
 **Panel de control:** Información de velocidad y combustible.
 **Pronóstico del tiempo:** Generar predicciones a partir de mediciones.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante la BI?**
 

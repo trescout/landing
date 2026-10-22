@@ -45,7 +45,7 @@ Ao chegar ao servidor alvo, o processo é revertido (Descapsulação); Camada po
 - DPDK (Data Plane Development Kit): Ignora completamente o kernel; A aplicação no espaço do usuário acessa diretamente a memória da placa de rede sem nenhuma cópia.
 - QUIC/HTTP/3: Em vez do TCP central na camada de transporte, um protocolo criptografado baseado em UDP que é executado no espaço do usuário e supera o bloqueio Head-of-Line foi trocado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa pilha de rede, qual é o seu equivalente turco?**
 

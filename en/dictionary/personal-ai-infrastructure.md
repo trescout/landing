@@ -22,7 +22,7 @@ It is used in personal assistants, local document analysis tools and privacy-foc
 
 It can be confused with just using an app; Here you have complete control of the infrastructure.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is this difficult to install?**
 

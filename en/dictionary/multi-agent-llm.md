@@ -22,7 +22,7 @@ It is used in software development processes, complex data analysis and autonomo
 
 Unlike a single artificial intelligence model, there is teamwork and division of labor here.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why isn't one model enough?**
 

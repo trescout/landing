@@ -24,7 +24,7 @@ Sunucularda, web uygulamalarında ve güncellenmemiş yazılımlarda bir güvenl
 
 Sadece veri çalınması ile karıştırılmamalıdır; bu durum verinin ötesinde sistemin tam kontrolünü içerir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bundan nasıl korunurum?**
 

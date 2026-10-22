@@ -22,7 +22,7 @@ On le trouve dans les applications d’assistant personnel, les appareils intell
 
 Peut être confondu avec AI Agent ; Alors que l’agent est plus axé sur les tâches, le compagnon se concentre davantage sur la camaraderie et l’interaction.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la différence entre les modèles compagnons ?**
 

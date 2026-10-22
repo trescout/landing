@@ -22,7 +22,7 @@ Model, metni veya veriyi karakter veya piksel düzeyinde doğrudan işler. Token
 
 Geleneksel token tabanlı modellerle karıştırılır, ancak bu yöntem daha ham ve doğrudan bir veri işleme biçimidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Daha mı hızlı çalışır?**
 

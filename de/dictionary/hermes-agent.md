@@ -22,7 +22,7 @@ Es kommt bei der Automatisierung von Geschäftsprozessen, komplexen Datenanalyse
 
 Der Unterschied zum allgemeinen AI-Agent-Konzept besteht darin, dass es normalerweise auf eine bestimmte Architektur oder einen bestimmten Verwendungszweck spezialisiert ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann Hermes Agent irgendetwas tun?**
 

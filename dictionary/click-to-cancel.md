@@ -22,7 +22,7 @@ SaaS yazılımlarında, dijital medya platformlarında ve e-ticaret abonelik sis
 
 Sıradan bir iptal arayüzünden farklıdır; arkasında resmi yasal yaptırımlar ve caydırıcı para cezaları bulunan katı bir düzenlemedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kullanıcıya iptal sırasında indirim teklif etmek bu kurala aykırı mıdır?**
 

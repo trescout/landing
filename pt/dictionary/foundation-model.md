@@ -22,7 +22,7 @@ Um modelo básico é a base da maioria das aplicações modernas de inteligênci
 
 Eles são confundidos apenas com um chatbot; No entanto, eles são a base para muitas coisas, desde a escrita de código até o processamento de imagens.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O modelo da Fundação por si só é suficiente?**
 

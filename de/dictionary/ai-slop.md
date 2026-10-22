@@ -22,7 +22,7 @@ Es erscheint häufig auf Social-Media-Plattformen, Nachrichtenseiten mit geringe
 
 Nicht alles, was KI produziert, ist Schlampe; so werden nur schlampige und wertlose Menschen genannt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Woher weiß ich, ob ein Inhalt KI-orientiert ist?**
 

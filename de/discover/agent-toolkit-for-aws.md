@@ -41,11 +41,11 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Toolkit](https://trescout.com/de/dictionary/toolkit/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/de/dictionary/context/)
 - [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
+- [Agent](https://trescout.com/de/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die auf AWS ausgeführte Codierungsagenten für künstliche Intelligenz leistungsfähiger und funktionaler machen möchten.
 - **Lizenz:** Apache-2.0

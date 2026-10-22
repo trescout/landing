@@ -22,7 +22,7 @@ Geliştiricilerin tanımladığı kurallara ve iş akışlarına göre hareket e
 
 Tek başına çalışan bir yapay zekâ modelinden farklıdır, buradaki odak nokta birden fazla parçayı yönetmektir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden orchestration runtime'a ihtiyaç duyulur?**
 

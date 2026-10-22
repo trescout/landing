@@ -41,7 +41,7 @@ Diese Zeile wartet nicht, bis die Datei da ist, andere Aufgaben laufen weiter. S
 **Restaurant:** Bestellannahme, Serviceausgabe.
 **Fabrik:** Rohmaterialeingang, Produkt Ausgang.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist E/A ein Engpass?**
 

@@ -18,7 +18,7 @@ The system scans pre-determined recipes and inventory data. When the user matche
 
 It is generally used in survival games, role-playing games, and some production simulations.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is a Crafting Engine only found in games?**
 

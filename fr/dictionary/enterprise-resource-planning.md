@@ -24,7 +24,7 @@ Il est utilisé dans les entreprises, les installations de production et les gra
 
 Il ne peut être confondu qu'avec un logiciel de comptabilité ; Mais l’ERP couvre l’ensemble de l’entreprise.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-il difficile de passer à un système ERP ?**
 

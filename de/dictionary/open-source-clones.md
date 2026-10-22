@@ -22,7 +22,7 @@ Es wird in der Softwarewelt verwendet, wenn alternative Tools entwickelt oder le
 
 Es kann sein, dass es einfach mit dem Begriff „Klonen“ verwechselt wird, aber dieser Begriff deckt speziell diejenigen ab, die Open Source sind und von der Community betrieben werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind Open-Source-Kopien legal?**
 

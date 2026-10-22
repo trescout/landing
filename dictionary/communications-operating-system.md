@@ -22,7 +22,7 @@ Müşteri hizmetleri merkezlerinde, büyük kurumsal operasyonlarda ve kişisel 
 
 Sadece bir mesajlaşma uygulaması ile karıştırılmamalıdır; bu bir yönetim platformudur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden ihtiyaç duyulur?**
 

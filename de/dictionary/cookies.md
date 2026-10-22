@@ -24,7 +24,7 @@ Sie werden in der BenutzerSitzungsverwaltung (Session), bei der Warenkorbverfolg
 
 Es wird mit dem Geräte-Fingerabdruck (Fingerprint) verwechselt; während Cookies ganz einfach über die Browsereinstellungen gelöscht werden können, lässt sich ein Fingerabdruck aufgrund seiner Abhängigkeit von Hardwaremerkmalen nicht so einfach löschen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Schadet das Löschen von Cookies meinem Computer?**
 

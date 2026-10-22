@@ -22,7 +22,7 @@ Modern yazılım geliştirme ortamlarında, karmaşık hata ayıklama süreçler
 
 Sadece kod tamamlayan yapay zekâ eklentileri ile karıştırılmamalıdır; onlar sadece öneri sunarken bu araçlar süreci yönetir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu araçlar yazılımcının yerini mi alacak?**
 

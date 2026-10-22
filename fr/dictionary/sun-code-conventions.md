@@ -31,7 +31,7 @@ S'obstiner sur la limite de 80 caractères : appliquer strictement la règle des
 Prendre un document figé pour actualisé : utiliser un guide Sun non mis à jour depuis 1999 comme unique source pour des projets modernes crée de la dette technique.
 - Oublier les accolades dans les conditions : Ne pas mettre d'accolades dans les corps à ligne unique peut entraîner de futures failles de sécurité.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi les conventions de code Sun n'ont-elles pas été mises à jour après 1999 ?**
 

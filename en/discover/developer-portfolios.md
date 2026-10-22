@@ -40,7 +40,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** It's easy · just browse
 - **Format:** Sample portfolio collection
 - **Fee:** Free
-- **License:** Belirtilmemiş · ayrıntı aşağıda
+- **License:** Not specified · detail below
 
 **License:** ⚠️ No license is specified for the listing. Free to browse/get inspired; Check with the owner before copying and republishing the listing. (Sample portfolios belong to their respective owners.)
 

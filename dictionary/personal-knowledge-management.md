@@ -38,7 +38,7 @@ Kendi PKM sistemini inşa eden bir insan, okuduğu her şeyi kendi zihinsel süz
 
 - **İfade Etmeyi (Express) Atlamak):** Bilgiyi sürekli biriktirip asla bir yazıya, koda veya projeye dönüştürmemek; bilginin gerçek değeri dış dünyaya aktarıldığında ortaya çıkar.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Personal Knowledge Management (PKM) ile klasik not alma arasındaki fark nedir?**
 

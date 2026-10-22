@@ -22,7 +22,7 @@ In der Software-Sicherheitsforschung wird er verwendet, um zu verstehen, wie ein
 
 Er wird oft mit einem Compiler verwechselt; der Compiler übersetzt Code für die Maschine, während der Decompiler Maschinencode für den Menschen übersetzt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann ich mit einem Decompiler den exakt gleichen Originalcode erhalten?**
 

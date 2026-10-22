@@ -24,7 +24,7 @@ Se utiliza para hacer editables los documentos PDF escaneados, leer automáticam
 
 A diferencia de los navegadores que simplemente guardan la imagen tal cual, este convierte el contenido en texto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede leer escritura a mano?**
 

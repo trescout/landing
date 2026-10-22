@@ -22,7 +22,7 @@ It is used for bank transfers, long data processing processes and complex artifi
 
 It may be confused with autosave, but this preserves the entire program's operating logic, not just the file.
 
-## Frequently asked questions
+## Questions and answers
 
 **Should every program be durable?**
 

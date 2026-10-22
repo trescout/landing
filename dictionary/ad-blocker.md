@@ -22,7 +22,7 @@ Genellikle web tarayıcılarında eklenti olarak kullanılır veya bazı tarayı
 
 Bazen reklamları engellemekle web sitesinin içeriğini engellemek birbirine karıştırılabilir, ancak bu araçlar sadece reklam sunucularını hedefler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ad blocker kullanmak sitelere zarar verir mi?**
 

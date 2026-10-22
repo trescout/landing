@@ -22,7 +22,7 @@ Você inclui a biblioteca necessária em seu projeto e chama as funções pronta
 
 Pode ser confundido com Framework; O framework desenha o esqueleto do projeto e a biblioteca oferece apenas a ferramenta que você precisa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todas as bibliotecas são seguras?**
 

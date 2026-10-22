@@ -22,7 +22,7 @@ Sosyal medya içerik üretimi, profesyonel kurgu iş akışları ve pazarlama vi
 
 Video Editor yazılımı ile karıştırılabilir, ancak burada 'otomasyon' ön plandadır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Profesyonel kurgucuların yerini mi alacak?**
 

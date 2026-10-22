@@ -42,7 +42,7 @@ It is mistaken for offline mode. That is a temporary state; this is an ownership
 **Till:** Personal trust.
 **Wallet:** Value carried in the pocket.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What happens if the device breaks?**
 

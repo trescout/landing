@@ -22,7 +22,7 @@ Web sitelerinde, mobil uygulamalarda ve marka kimliği oluşturulan tüm dijital
 
 Sadece görsel bir tema değil, bir ürünün tüm etkileşim mantığını kapsayan bir sistemdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden önemlidir?**
 

@@ -22,7 +22,7 @@ Sie wird in Navigationsmenüs von Websites, auf Bildschirmen mobiler Anwendungen
 
 Sie wird oft mit der Benutzeroberfläche (UI) verwechselt, die nur das Bildschirmdesign umfasst. Dabei ist die UI nur der auf den Menschen ausgerichtete Teil der Schnittstelle; auch APIs, über die Maschinen miteinander kommunizieren, sind Schnittstellen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind Schnittstelle und UI dasselbe?**
 

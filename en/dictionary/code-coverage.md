@@ -18,7 +18,7 @@ Automated testing tools are run during the software development process. These t
 
 It is used in software development processes, CI/CD lines and quality control reports.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is 100 percent code coverage always good?**
 

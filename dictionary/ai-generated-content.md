@@ -22,7 +22,7 @@ Sosyal medya içeriklerinde, reklam metinlerinde, stok görsellerde ve yazılım
 
 Yapay zekâ destekli (AI-assisted) içerik ile karıştırılabilir; burada üretim tamamen yapay zekâya aittir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu içeriklerin telif hakkı kime aittir?**
 

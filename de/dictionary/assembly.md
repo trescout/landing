@@ -56,7 +56,7 @@ section .data
 - .NET-Assembly: Beim Kompilieren von C#-Code wird ein logisches Assemblypaket (Assembly) im DLL- oder EXE-Format erstellt, das CIL/MSIL-Bytecodes und Metadaten enthält.
 - WebAssembly (WASM): Ein portabler Stack-Bytecode für virtuelle Maschinen, der die Ausführung von C-, C++- und Rust-Code im Browser mit nahezu nativer Leistung ermöglicht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Montage und was bewirkt sie?**
 

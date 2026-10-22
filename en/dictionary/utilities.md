@@ -52,7 +52,7 @@ In modern software architecture, to overcome this problem, functions are moved i
 
 In the field of game development and artificial intelligence, "Utility AI" is a mathematical model used in decision-making mechanisms. Instead of classical finite state machines (FSM) or Behavior Trees; Each possible action is assigned a utility score based on the current situation parameters, and the character chooses the action that provides the highest benefit.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does Utilities mean and what is its Turkish meaning?**
 

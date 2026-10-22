@@ -22,7 +22,7 @@ Primeiramente, os textos a serem resumidos são carregados no sistema e a inteli
 
 Pode ser confundido com alucinação; O resumo fundamentado é na verdade uma técnica usada para prevenir alucinações.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o resumo fundamentado é importante?**
 

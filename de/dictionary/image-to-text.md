@@ -22,7 +22,7 @@ Es ist in den automatischen Untertitelerstellungssystemen von Social-Media-Platt
 
 Es wird mit Text-zu-Bild verwechselt, aber es ist das Gegenteil; Während Text-to-Image Bilder aus Text erzeugt, erzeugt diese Technologie Text aus Bildern.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann er handgeschriebene Texte lesen?**
 

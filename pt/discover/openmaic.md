@@ -83,7 +83,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [API](https://trescout.com/pt/dictionary/api/)
 
 - **Para quem é:** Educadores, pesquisadores de IA, empreendedores de edtech e estudantes.
-- **Licença:** Apache-2.0 (Açık kaynak lisansı)
+- **Licença:** Apache-2.0 (licença de código aberto)
 - **Framework:** Simulador Multiagente em TypeScript & Next.js
 - **Plataformas:** Navegador web, Linux, macOS, Windows
 

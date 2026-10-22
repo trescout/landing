@@ -22,7 +22,7 @@ Se utiliza con frecuencia en plataformas de agentes de IA y herramientas de auto
 
 Puede confundirse con la inteligencia general; Una habilidad es el medio que tiene el agente para realizar un trabajo específico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo aprenden los agentes nuevas habilidades?**
 

@@ -18,7 +18,7 @@ The model is trained with special algorithms that decide which layers to use or 
 
 It is used in complex language models, robotic sensing systems, and energy-saving edge devices.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are they smarter?**
 

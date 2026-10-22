@@ -22,7 +22,7 @@ Es wird häufig in Pipelines für die natürliche Sprachverarbeitung, Bildverarb
 
 Es unterscheidet sich vom direkten Trainieren eines Modells; es ist der Schritt, die wertvollsten Informationen aus den vorhandenen Daten zusammenzufassen und in ein numerisches Format zu reduzieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Worin besteht der Unterschied zu Embedding?**
 

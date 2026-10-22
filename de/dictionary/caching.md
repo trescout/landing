@@ -42,7 +42,7 @@ Es handelt sich um eine Datenbank. Die Datenbank ist persistent und groß, der C
 **Gefrierschrank:** Tägliche Mahlzeit voraus.
 **Keller:** Der Restbestand ist hinten.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn der Cache voll wird?**
 

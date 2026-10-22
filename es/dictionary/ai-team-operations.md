@@ -22,7 +22,7 @@ Se implementa en startups de inteligencia artificial y departamentos de IA de gr
 
 Se puede confundir con operaciones puras de software (DevOps); Las operaciones de IA presentan datos adicionales y desafíos basados ​​en modelos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se necesita una operación especial?**
 

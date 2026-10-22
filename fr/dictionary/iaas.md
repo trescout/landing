@@ -47,7 +47,7 @@ Souvent confondu avec le PaaS. L'IaaS fournit le matériel, le PaaS offre un env
 **Entrepôt :** Entrepôt avec étagères prêtes.
 **Champ :** Location de terre labourée.
 
-## Foire aux questions
+## Questions et réponses
 
 **L'IaaS est-il sécurisé ?**
 

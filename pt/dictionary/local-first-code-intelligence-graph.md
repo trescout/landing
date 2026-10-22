@@ -22,7 +22,7 @@ Ele está integrado ao seu ambiente de desenvolvimento de software e cria uma re
 
 Pode ser confundido com ferramentas gerais de análise de código ou serviços de indexação de código baseados na Internet.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é chamado de 'local primeiro'?**
 

@@ -22,7 +22,7 @@ Es wird häufig in agentenbasierten Softwareentwicklungsumgebungen, KI-Orchestri
 
 Es kann mit dem allgemeinen Konzept des „Agent Workspace“ verwechselt werden: Während der Arbeitsbereich den temporären Speicher und die temporären Dateien bezeichnet, die ein Agent während der Arbeit nutzt, ist das Agents Directory das permanente Dateiverzeichnis, in dem der Quellcode und die Regeldefinitionen der Agenten gespeichert werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können KI-Agenten ohne diesen Ordner nicht arbeiten?**
 

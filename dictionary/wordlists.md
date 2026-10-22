@@ -30,7 +30,7 @@ Veritabanı sanılır. Oysa düz metin dosyalarıdır. Biri kütüphane, diğeri
 
 *Kasa şifresini bulmak için olasılıkları yazan defter gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yasal mı?**
 

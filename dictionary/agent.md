@@ -22,7 +22,7 @@ Müşteri hizmetleri botlarında, otomatik yazılım geliştirme araçlarında v
 
 Sadece metin üreten standart yapay zekâ modelleriyle karıştırılmamalıdır; ajanlar metin üretmenin ötesine geçip eylem yaparlar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ajanlar her zaman doğru kararı verir mi?**
 

@@ -22,7 +22,7 @@ Es findet zunehmende Verbreitung in modernen Codierungstools und durch künstlic
 
 Es kann mit Prompt Engineering verwechselt werden, ist aber eher eine Entwicklungsphilosophie.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann ein Antrag gestellt werden, ohne den Code zu kennen?**
 

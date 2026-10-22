@@ -59,10 +59,9 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Context Window Optimization](https://trescout.com/de/dictionary/context-window-optimization/)
 - [Context Window](https://trescout.com/de/dictionary/context-window/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/de/dictionary/context/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Softwareentwickler, die KI-Codierungs-Agenten intensiv nutzen und bei langfristigen Projekten Probleme mit der Überfüllung des Kontextfensters haben.
 

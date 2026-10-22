@@ -22,7 +22,7 @@ Cela se produit constamment en arrière-plan pendant les protocoles Internet et 
 
 Cela peut être confondu avec une perte de données, mais il s'agit d'un processus de partitionnement contrôlé.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si des pièces sont perdues ?**
 

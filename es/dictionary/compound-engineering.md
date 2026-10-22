@@ -22,7 +22,7 @@ Se utiliza en agentes de inteligencia artificial y plataformas avanzadas de aná
 
 Se confunde con el 'ajuste fino', que no es más que entrenar un único modelo, pero la ingeniería compuesta se centra en combinar las capacidades de los modelos existentes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué un modelo no es suficiente?**
 

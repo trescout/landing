@@ -22,7 +22,7 @@ Il est particulièrement utilisé pour résoudre des problèmes mathématiques c
 
 A ne pas confondre avec les réseaux de neurones récurrents traditionnels. Alors que les réseaux neuronaux récurrents traitent les données sur plusieurs séries temporelles, ces modèles renforcent l'architecture du transformateur avec une logique cyclique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces modèles fonctionnent-ils plus lentement ?**
 

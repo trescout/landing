@@ -22,7 +22,7 @@ Es wird auf Filesharing-Sites, beim Herunterladen großer Softwarepakete oder be
 
 Es kann mit den einfachen Download-Managern der Browser verwechselt werden, aber diese Tools bieten viel erweiterte Funktionen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Beschleunigt es jede Datei?**
 

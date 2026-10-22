@@ -22,7 +22,7 @@ Está en los filtros de correo electrónico, los sistemas de recomendación y la
 
 La inteligencia artificial es un concepto más amplio, mientras que el aprendizaje automático es un método utilizado para crear esta inteligencia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Podrá aprenderlo todo?**
 

@@ -38,7 +38,7 @@ Regel: Ein Backup, das nicht getestet wurde, ist nicht zuverlässig. Die Wiederh
 **Tresor:** Aufbewahrung wertvoller Dokumente.
 **Versicherung:** Schutz für den Katastrophenfall.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist es wichtig?**
 

@@ -22,7 +22,7 @@ It is used in the automation of complex business processes and autonomous softwa
 
 Can be confused with AI Agent; This is a discipline, and AI Agent is the product of this discipline.
 
-## Frequently asked questions
+## Questions and answers
 
 **What will be the role of the software developer here?**
 

@@ -35,7 +35,7 @@ Desde una perspectiva de ingeniería de datos y software, una lista de reproducc
 **Historia de la radio y la radiodifusión:** Antes de la digitalización, las estaciones de radio preparaban listas de reproducción físicas llamadas "Registro de rotación" para reproducir discos y casetes en ciertos intervalos de tiempo. Las listas de música digitales actuales son una continuación directa de esta tradición editorial.
 **Psicología Cognitiva y Productividad:** Sugiere que las listas rítmicas en frecuencias específicas (Lo-Fi, Binaural Beats, música barroca) pueden ayudar a concentrarse. El efecto varía de persona a persona.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa Playlist y cuál es su equivalente turco?**
 

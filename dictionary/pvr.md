@@ -39,7 +39,7 @@ VCR sanılır. VCR kasetlidir, PVR dijitaldir. DVR ile aynı işi yapar, ad kiş
 
 *Kitabı o an okumak yerine kopyalayıp kenara ayırmaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **PVR ile DVR aynı mı?**
 

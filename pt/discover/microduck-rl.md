@@ -81,7 +81,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [API](https://trescout.com/pt/dictionary/api/)
 
 - **Para quem é:** Pesquisadores de robótica, engenheiros mecatrônicos, especialistas em aprendizado por reforço e entusiastas.
-- **Licença:** Apache-2.0 (Açık kaynak lisansı)
+- **Licença:** Apache-2.0 (licença de código aberto)
 - **Framework:** Python, MuJoCo & Framework Robótico mjlab
 - **Plataformas:** Linux, macOS, Windows
 

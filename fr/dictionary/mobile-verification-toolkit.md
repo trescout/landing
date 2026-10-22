@@ -24,7 +24,7 @@ Il est utilisé dans les enquêtes de cybersécurité et les analyses médico-l�
 
 Contrairement aux antivirus à usage général, il se concentre sur la détection de logiciels espions ciblés spécifiques et avancés.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tout le monde peut-il l'utiliser ?**
 

@@ -24,7 +24,7 @@ Um pequeno software é instalado nos dispositivos; este software monitora todos 
 
 Pode ser confundido com softwares antivírus tradicionais; o EDR possui uma capacidade de monitoramento e intervenção muito mais profunda.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O EDR bloqueia todos os ataques?**
 

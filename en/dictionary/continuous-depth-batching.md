@@ -22,7 +22,7 @@ It is used to improve performance in server infrastructures hosting large langua
 
 Unlike classical batch processing methods, it does not wait for requests to finish; it feeds the flow in real time.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it reduce server costs?**
 

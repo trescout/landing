@@ -22,7 +22,7 @@ Está disponible en servicios de IA, API basadas en la nube y aplicaciones de IA
 
 Se confunde con el modelo mismo; El modelo es la información, el motor es el sistema que utiliza esta información.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué utilizamos un motor separado?**
 

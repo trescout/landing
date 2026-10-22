@@ -22,7 +22,7 @@ Borsa piyasalarında, kripto para borsalarında ve yüksek frekanslı ticaret ya
 
 Yapay zekâ ile karıştırılabilir ancak her zaman yapay zekâ içermez; bazen sadece basit 'eğer-öyleyse' kurallarıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her zaman kâr eder mi?**
 

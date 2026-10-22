@@ -38,7 +38,7 @@ Dil modelleri sanılır. Onlar dar uzmandır, bu genel hedeftir. Biri sporcu, di
 
 *Satranç ustası yerine hem yemek yapan hem şiir yazan zeka gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Nasıl anlaşılır?**
 

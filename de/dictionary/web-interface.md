@@ -22,7 +22,7 @@ Es findet sich in Tools für künstliche Intelligenz wie ChatGPT, cloudbasierten
 
 Die Software selbst und ihre Schnittstelle sind nicht dasselbe; Die Schnittstelle ist nur ein Tor.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verfügt jede Software über ein Webinterface?**
 

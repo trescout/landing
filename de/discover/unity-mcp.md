@@ -27,8 +27,6 @@ Unity MCP bietet eine Brücke zwischen großen Sprachmodellen und dem Unity-Edit
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/de/dictionary/context/)
 - [Large Language Models](https://trescout.com/de/dictionary/large-language-models/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)

@@ -22,7 +22,7 @@ Mobil uygulamalarda, küçük masaüstü yazılımlarında veya hızlı prototip
 
 İstemci-sunucu tabanlı veritabanları ile karıştırılır; onlar uzaktan bağlanmayı gerektirirken bu sistem yereldir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu veritabanları büyük veriler için uygun mu?**
 

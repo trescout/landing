@@ -22,7 +22,7 @@ Los enjambres de drones autónomos se utilizan en la optimización logística y 
 
 No confundir con una única superinteligencia; Aquí la inteligencia no está en un solo punto, sino en la interacción de todo el rebaño.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **Si una unidad falla, ¿colapsará el sistema?**
 

@@ -22,7 +22,7 @@ It works continuously in the background of generative artificial intelligence mo
 
 It can be confused with a vector database, but a vector database is a persistent database stored externally, whereas latent space is the temporary abstract space where the model thinks and performs real-time calculations internally.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can latent space be seen by the human eye?**
 

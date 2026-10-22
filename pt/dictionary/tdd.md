@@ -24,7 +24,7 @@ Ciclo de três estágios: 1. Escrever teste (Fail), 2. Escrever código (Passar 
 
 Pode ser confundido com Teste Unitário; TDD é um método e Teste de Unidade é uma ferramenta usada por esse método.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O TDD não perde tempo?**
 

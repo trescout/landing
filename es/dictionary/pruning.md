@@ -22,7 +22,7 @@ Se utiliza en optimizaciones para adaptar modelos de inteligencia artificial a t
 
 Se diferencia de la cuantificación, que simplifica los números para reducir el tamaño del modelo, donde se eliminan las conexiones directas innecesarias.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿La poda reduce la inteligencia de la inteligencia artificial?**
 

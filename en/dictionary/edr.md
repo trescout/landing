@@ -24,7 +24,7 @@ It is used as a security layer in corporate company networks, on servers, and on
 
 It can be confused with traditional antivirus software; EDR has a much deeper monitoring and intervention capability.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does EDR block every attack?**
 

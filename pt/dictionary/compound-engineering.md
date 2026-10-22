@@ -22,7 +22,7 @@ Enquanto um modelo de inteligência artificial executa uma tarefa, outro verific
 
 É confundido com 'ajuste fino', que consiste apenas em treinar um único modelo, mas a engenharia composta se concentra em combinar as capacidades dos modelos existentes.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que um modelo não é suficiente?**
 

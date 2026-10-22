@@ -24,7 +24,7 @@ Planificación urbana, rutas logísticas, proyectos de protección medioambienta
 
 No debe confundirse simplemente con una herramienta de navegación como Google Maps; solo muestra el resultado, el SIG es la cocina de los datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es el SIG sólo un mapa?**
 

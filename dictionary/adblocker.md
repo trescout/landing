@@ -22,7 +22,7 @@ Chrome, Firefox veya Safari gibi internet tarayıcılarında birer eklenti olara
 
 Güvenlik duvarı (firewall) ile karıştırılabilir ancak o tüm internet trafiğini denetlerken, adblocker sadece reklam içeriklerini hedefler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Adblocker kullanmak web sitelerine zarar verir mi?**
 

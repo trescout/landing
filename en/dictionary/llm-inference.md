@@ -22,7 +22,7 @@ It is used during the operation of artificial intelligence applications, in API 
 
 It should not be confused with training the model; training is the model's learning process, while inference is the application process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does the model continue to learn during inference?**
 

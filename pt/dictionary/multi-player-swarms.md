@@ -22,7 +22,7 @@ Em vez de serem geridos a partir de um local central, estes grupos trabalham de 
 
 Não deve ser confundido com apenas um grande modelo de inteligência artificial, aqui há trabalho em equipe.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usamos um enxame em vez de um único modelo poderoso?**
 

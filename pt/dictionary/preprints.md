@@ -22,7 +22,7 @@ No mundo acadêmico, são usados intensamente, especialmente em áreas de pesqui
 
 Não devem ser confundidos com os artigos finais em periódicos revisados por pares; estes são rascunhos que ainda não receberam aprovação total.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preprints são confiáveis?**
 

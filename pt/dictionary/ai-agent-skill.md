@@ -22,7 +22,7 @@ Os desenvolvedores concedem ao agente permissão para usar determinadas APIs ou 
 
 Pode ser confundido com inteligência geral; Uma habilidade é o meio do agente realizar um trabalho específico.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como os agentes aprendem novas habilidades?**
 

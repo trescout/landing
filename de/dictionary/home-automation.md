@@ -44,7 +44,7 @@ Das Haus ist der privateste Zufluchtsort eines Menschen; Durch die Anbindung die
 - Fernbedienung vs. Automatisierung: Das Einschalten der Beleuchtung durch Drücken einer Taste am Telefon ist keine Automatisierung; Bei der Automatisierung interpretiert das System Umgebungssensordaten und trifft selbstständig eine Entscheidung.
 - Cloud-abhängig vs. lokale Kontrolle: Cloud-basierte Geräte können funktionsunfähig werden, wenn das Internet ausfällt, und zu Müll werden, wenn das produzierende Unternehmen seinen Betrieb aufgibt. Lokal gesteuerte Systeme (Matter/Zigbee/Home Assistant) funktionieren dauerhaft, unabhängig vom Internet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Hausautomation und was ist ihr türkisches Äquivalent?**
 

@@ -22,7 +22,7 @@ Veri analizi, görüntü işleme ve yapay zekâ modellerinin eğitim süreçleri
 
 Döngüler (loops) ile karıştırılabilir; ancak döngüler elemanları tek tek işlerken, array operations süreci hızlandırmak için toplu işlem yapar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tek tek işlem yapmak yerine bunu kullanıyoruz?**
 

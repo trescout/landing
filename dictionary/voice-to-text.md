@@ -22,7 +22,7 @@ Toplantı notlarının otomatik çıkarılmasında, sesli asistanlarda ve altyaz
 
 Text-to-Speech (metni sese dönüştürme) ile karıştırılır; bu tam tersi bir işlemdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hata payı var mıdır?**
 

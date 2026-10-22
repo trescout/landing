@@ -22,7 +22,7 @@ Yazılım geliştirme platformlarında, otomatik kod inceleme araçlarında, hat
 
 Doğrudan kodlama ajanı kavramı ile karıştırılır. Kodlama ajanı işi yapan bütünsel sistemin kendisiyken, Coding Agent Skill bu sistemin çantasında taşıdığı ve belirli görevleri çözmesini sağlayan özel yetenek araçlarıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bir ajan birden fazla kodlama yeteneğine sahip olabilir mi?**
 

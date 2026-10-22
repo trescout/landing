@@ -22,7 +22,7 @@ Es un componente fundamental en herramientas de accesibilidad, centros de llamad
 
 Se confunde simplemente con la voz en off; Sin embargo, este proceso es un cálculo matemático complejo que también calcula el significado y el énfasis del texto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia entre síntesis de voz y texto a voz?**
 

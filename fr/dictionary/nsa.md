@@ -24,7 +24,7 @@ Vous la rencontrerez dans les analyses de cybersécurité, les débats sur la co
 
 On la prend souvent pour un simple logiciel ou un outil, alors qu'il s'agit d'une agence gouvernementale.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que fait la NSA ?**
 

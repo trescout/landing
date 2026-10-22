@@ -22,7 +22,7 @@ Es wird in der grundlegenden Architekturschicht aller modernen Sprachmodelle und
 
 Es kann mit dem allgemeinen Gedächtnis oder einfach nur mit Wortzählmethoden verwechselt werden, aber der Schlüssel hier ist die Fähigkeit, sich zu konzentrieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es so wichtig?**
 

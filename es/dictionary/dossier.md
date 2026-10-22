@@ -22,7 +22,7 @@ Se utiliza en análisis de inteligencia, gestión de proyectos e investigación 
 
 Puede confundirse con una simple carpeta, pero un dossier no es sólo un archivo sino un conjunto de información analizada.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante crear un archivo?**
 

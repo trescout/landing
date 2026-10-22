@@ -50,7 +50,7 @@ RESTful servislerde veri güncellenirken sıklıkla `PUT` ve `PATCH` metotları 
 | **Git & Versiyon Kontrolü** | Satır Bazlı Değişiklik Dosyası | Kod paylaşımı, kod incelemesi, katkı sağlama | `git format-patch HEAD~1`, `linux-kernel.patch` |
 | **Web API / HTTP** | Kısmi Güncelleme Metodu | Ağ tasarrufu, kaynak üzerinde kısmi değişiklik | `PATCH /api/users/42` body: `{"status": "active"}` |
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Patch ne demek, Türkçe karşılığı nedir?**
 

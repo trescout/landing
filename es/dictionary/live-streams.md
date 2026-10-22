@@ -22,7 +22,7 @@ Se utiliza en transmisiones en vivo de redes sociales, plataformas educativas en
 
 La diferencia con la grabación de vídeo es que el contenido no es un archivo preparado previamente, sino una transmisión que tiene lugar en ese momento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se retrasa la transmisión en vivo?**
 

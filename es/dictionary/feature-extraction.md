@@ -22,7 +22,7 @@ Se utiliza con frecuencia en procesos de procesamiento de lenguaje natural, proc
 
 Es diferente de entrenar un modelo directamente; es el paso de resumir la información más valiosa de los datos existentes y reducirla a un formato numérico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia con el embedding?**
 

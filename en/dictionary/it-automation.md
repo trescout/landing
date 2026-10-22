@@ -22,7 +22,7 @@ It is used extensively in server management, software distribution and big data 
 
 It can be confused with artificial intelligence; Automation is rule-based, AI learns.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will automation take my job?**
 

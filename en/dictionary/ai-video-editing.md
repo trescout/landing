@@ -22,7 +22,7 @@ Used in social media content production, professional editing workflows and mark
 
 It may be confused with Video Editor software, but 'automation' is at the forefront here.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will it replace professional editors?**
 

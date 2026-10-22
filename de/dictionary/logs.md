@@ -43,7 +43,7 @@ Wird oft mit Trace verwechselt. Ein Log ist eine Ereignisaufzeichnung, ein Trace
 **Tagebuch:** Chronologische Notizen.
 **Kassenbon:** Transaktionsprotokoll.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum werden Logs benötigt?**
 

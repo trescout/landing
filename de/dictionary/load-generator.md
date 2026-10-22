@@ -22,7 +22,7 @@ Es wird häufig bei Stresstests, Serverkapazitätsplanung und Leistungsverbesser
 
 Es kann mit Penetrationstest-Tools zum Auffinden von Sicherheitslücken verwechselt werden; Der Zweck besteht hier nicht darin, das System zu zerstören, sondern abzuwägen, wie viel Last es tragen kann.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie unterscheidet es sich vom echten Benutzerverkehr?**
 

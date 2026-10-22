@@ -22,7 +22,7 @@ Il est utilisé dans les environnements de développement où les agents d’int
 
 C'est la même logique que Sandbox, mais c'est spécifiquement spécialisé pour les agents.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Y a-t-il une chance que l'agent puisse s'en sortir ?**
 

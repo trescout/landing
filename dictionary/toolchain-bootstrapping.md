@@ -18,7 +18,7 @@ Yazılım dünyasında bir aracı sıfırdan inşa etmek için genellikle başka
 
 Programlama dili derleyicilerinin ve işletim sistemi araçlarının geliştirilmesinde sıkça kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kadar karmaşık?**
 

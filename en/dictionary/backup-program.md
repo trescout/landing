@@ -38,7 +38,7 @@ Rule: A backup cannot be trusted until it has been tried. The restore is tested 
 **Till:** Storing valuable documents.
 **Insurance:** Disaster coverage.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it important?**
 

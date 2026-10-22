@@ -22,7 +22,7 @@ It is preferred in robotic control systems, autonomous driving software, and art
 
 It should not be confused with traditional language models that think step-by-step, as they predict the next word sequentially.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why doesn't every artificial intelligence use this method?**
 

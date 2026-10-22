@@ -24,7 +24,7 @@ Se utiliza con frecuencia en aplicaciones web, software empresarial y proyectos 
 
 Puede confundirse con el controlador de la base de datos; El controlador proporciona la conexión sin formato, mientras que el ORM facilita esta conexión.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería utilizar ORM?**
 

@@ -24,7 +24,7 @@ Es wird bei Auslastungstests vor dem Start der Website, bei Server-Hardware-Verg
 
 Im Gegensatz zu fortschrittlichen Lasttest-Tools, die komplexe Benutzerszenarien simulieren, konzentriert es sich nur auf das sequentielle oder gleichzeitige Laden von Lasten auf einer bestimmten HTTP-Verbindung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist für die Verwendung von ApacheBench ein Apache-Webserver erforderlich?**
 

@@ -22,7 +22,7 @@ Es wird häufig bei der Entwicklung von Websites, mobilen Anwendungen und Softwa
 
 Kann mit Bibliotheken gemischt werden; Eine Bibliothek ist ein Werkzeug, das Sie aufrufen, ein Framework ist eine Struktur, innerhalb derer Sie arbeiten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich Frameworks verwenden?**
 

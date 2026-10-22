@@ -51,7 +51,7 @@ Se confunde con la observabilidad. Sin embargo, el registro es su bloque de cons
 **Diario:** Notas en orden cronológico.
 **Grabación de cámara:** Archivo de eventos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es bueno guardarlo todo?**
 

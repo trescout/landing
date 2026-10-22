@@ -53,7 +53,7 @@ Sanal makine sanılır. Makine tam işletim sistemi taşır, konteyner yalnızca
 
 *Her yemek için gerekli tüm malzemeleri, baharatları ve araçları tek bir kutuya koyup istediğiniz yere götürmek gibidir; nerede açarsanız açın, aynı yemeği pişirirsiniz.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Konteyner neden bu kadar popüler?**
 

@@ -18,7 +18,7 @@ It occurs in the processes of planning, writing code, debugging, and checking th
 
 It is used in software development processes, artificial intelligence training (such as RLHF) and general project management.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will artificial intelligence completely replace human labor?**
 

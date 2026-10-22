@@ -24,7 +24,7 @@ Il est utilisé dans les assistants vocaux sur smartphones, dans l'analyse des e
 
 Il s’agit du processus de conversion de la voix en texte, exactement à l’opposé de la technologie de synthèse vocale, qui convertit le texte en voix.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-il fonctionner dans des environnements bruyants ?**
 
@@ -33,7 +33,7 @@ Oui, grâce à ses algorithmes de filtrage avancés, il peut extraire la parole 
 ## Termes liés
 
 - [Speech-to-Text](https://trescout.com/fr/dictionary/speech-to-text/)
-- [STT](https://trescout.com/fr/dictionary/stt/)
+- [STT](https://trescout.com/fr/dictionary/speech-to-text/)
 - [Whisper](https://trescout.com/fr/dictionary/whisper/)
 - [Transcription](https://trescout.com/fr/dictionary/transcription/)
 

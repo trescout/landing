@@ -22,7 +22,7 @@ They are used in search engine indexing, data collection projects, and price com
 
 They can be confused with web scraping; a crawler traverses the entire network, while a scraper extracts data from a specific page.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can they visit every site?**
 

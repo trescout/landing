@@ -22,7 +22,7 @@ It is used in operating system kernels, driver development, game engines, and hi
 
 It should not be confused with application programming: while application programming produces user-facing software, systems programming builds the underlying infrastructure on which this software runs.
 
-## Frequently asked questions
+## Questions and answers
 
 **Which languages are most commonly used in systems programming?**
 

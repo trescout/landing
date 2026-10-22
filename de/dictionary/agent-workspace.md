@@ -22,7 +22,7 @@ Es wird in KI-gestützten Codierungstools, automatisierten Datenanalysesystemen 
 
 Es sollte nicht mit einer Entwicklungsumgebung (Development Environment) verwechselt werden: Während eine Entwicklungsumgebung für Menschen zum Schreiben von Code konzipiert ist, ist ein Agent Workspace vollständig darauf optimiert, dass KI-Software eigenständig Operationen ausführt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann der KI-Agent diesen Arbeitsbereich verlassen und meinem Computer Schaden zufügen?**
 

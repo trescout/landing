@@ -22,7 +22,7 @@ Se utiliza en indexación de motores de búsqueda, proyectos de recopilación de
 
 Se puede confundir con el web scraping; El rastreador rastrea toda la red, mientras que el raspador extrae datos de una página específica.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden visitar todos los sitios?**
 

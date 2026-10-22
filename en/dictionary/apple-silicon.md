@@ -37,7 +37,7 @@ Apple Silicon's pure balance of performance and efficiency relies on three key e
 2. Dedicated Hardware Accelerators: Specialized task units are included to avoid burdening the general CPU: a Neural Engine for AI tensor calculations, an internal AMX (Apple Matrix Coprocessor) for matrix multiplications, and a hardware-based Media Engine (ProRes/AV1 decoder) for 8K video processing.
 3. Rosetta 2 Binary Translation: Older Mac applications compiled for Intel (x86_64) are automatically translated to ARM64 code the moment the user opens the application (AOT · Ahead-of-Time) thanks to Rosetta 2. Because Apple Silicon chips include hardware-level support for TSO (Total Store Ordering), which is the x86 memory model, this translation runs at near-native speeds.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does Apple Silicon mean and which processors does it cover?**
 

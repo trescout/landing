@@ -22,7 +22,7 @@ Il est utilisé dans les applications d’intelligence artificielle et les chatb
 
 Il peut être confondu avec le cache KV ; Le cache KV est la mémoire du modèle au moment de l'exécution, et c'est une stratégie qui garantit que la mémoire reste stable.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cette méthode augmente-t-elle la précision ?**
 

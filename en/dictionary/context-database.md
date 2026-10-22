@@ -22,7 +22,7 @@ It is used in personal artificial intelligence assistants, in-house document man
 
 It is often confused with vector databases; However, context database represents a broader management and access strategy of this data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is this needed?**
 

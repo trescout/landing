@@ -22,7 +22,7 @@ Os modelos de IA criam uma lista de tarefas e executam cada etapa em ordem, atua
 
 Pode ser confundido com chatbots comuns; os bots apenas respondem, enquanto os agentes autônomos fazem o trabalho.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os agentes autônomos podem cometer erros?**
 

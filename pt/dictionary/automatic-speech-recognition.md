@@ -24,7 +24,7 @@ Os sinais de áudio vindos do microfone são primeiro convertidos em dados digit
 
 É o processo de conversão de voz em texto, sendo o oposto da tecnologia text-to-speech, que converte texto em voz.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Pode funcionar em ambientes ruidosos?**
 
@@ -33,7 +33,7 @@ Sim, graças a algoritmos de filtragem avançados, ele pode suprimir sons de fun
 ## Termos relacionados
 
 - [Speech-to-Text](https://trescout.com/pt/dictionary/speech-to-text/)
-- [STT](https://trescout.com/pt/dictionary/stt/)
+- [STT](https://trescout.com/pt/dictionary/speech-to-text/)
 - [Whisper](https://trescout.com/pt/dictionary/whisper/)
 - [Transcription](https://trescout.com/pt/dictionary/transcription/)
 

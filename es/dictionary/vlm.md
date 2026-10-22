@@ -45,7 +45,7 @@ Se cree que es multimodal. Multimodal es el nombre de la familia, VLM es el miem
 **Subtitular:** Añadir subtítulos a la película.
 **Guía:** Explicar obras de arte en el museo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia con el modelo clásico?**
 

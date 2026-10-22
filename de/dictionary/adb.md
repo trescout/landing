@@ -45,7 +45,7 @@ Es wird für eine Dateiübertragung gehalten. Es kopiert nur, ADB greift in das 
 **Interpreter:** Die Sprache beider Seiten.
 **Steuerung:** Fernverwaltung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann es jeder nutzen?**
 

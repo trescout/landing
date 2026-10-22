@@ -45,7 +45,7 @@ Pensa-se que é uma varredura. A varredura é automática e superficial, o red t
 **Incêndio:** Simulação de evacuação.
 **Xadrez:** Não jogue o movimento do oponente com antecedência.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que esse método é necessário?**
 

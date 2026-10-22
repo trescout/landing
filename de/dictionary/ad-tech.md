@@ -24,7 +24,7 @@ Es ist auf allen digitalen Kanälen wie Social-Media-Plattformen, Suchmaschinen 
 
 Es ist nicht dasselbe wie Marketing; Marketing ist die Strategie, während Ad Tech die technischen Werkzeuge zur Umsetzung dieser Strategie sind.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Beeinflusst es meine Privatsphäre?**
 

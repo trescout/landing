@@ -22,7 +22,7 @@ Von den mobilen Apps, die Sie nutzen, über die Websites, die Sie besuchen, bis 
 
 Es wird oft mit dem bloßen Schreiben von Code verwechselt. Das Schreiben von Code ist nur ein Teil dieses Prozesses; andere kritische Phasen wie Analyse, Design und Tests sind ebenfalls untrennbare Bestandteile davon.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann Softwareentwicklung ohne Programmierkenntnisse betrieben werden?**
 

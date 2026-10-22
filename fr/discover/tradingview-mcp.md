@@ -61,11 +61,10 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Script](https://trescout.com/fr/dictionary/script/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/fr/dictionary/context/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux utilisateurs professionnels qui utilisent l'application de bureau TradingView et souhaitent automatiser leurs processus d'analyse graphique avec la prise en charge de l'intelligence artificielle.
 

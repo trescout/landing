@@ -22,7 +22,7 @@ Es wird in Betriebssystemkernen, Treiberentwicklung, Spiele-Engines und Hochleis
 
 Es sollte nicht mit Anwendungsprogrammierung verwechselt werden: Während Anwendungsprogrammierung benutzerorientierte Software erstellt, stellt Systemprogrammierung die Infrastruktur her, auf der diese Software funktioniert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Welche Sprachen werden in der Systemprogrammierung am häufigsten verwendet?**
 

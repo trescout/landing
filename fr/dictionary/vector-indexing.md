@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes RAG, les moteurs de recherche à grande éche
 
 Peut être confondu avec la base de données vectorielles ; L'indexation vectorielle est la méthode d'organisation et de cartographie au sein de cette base de données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utilisons-nous cette méthode au lieu de la recherche classique ?**
 

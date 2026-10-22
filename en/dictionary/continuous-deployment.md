@@ -24,7 +24,7 @@ Modern web applications, SaaS platforms and digital products that require rapid 
 
 May be confused with Continuous Delivery; In Delivery, the go-live phase may require a manual approval, whereas in Deployment, it is completely automatic.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if we make a mistake?**
 

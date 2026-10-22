@@ -22,7 +22,7 @@ They are widely used in art works, the advertising industry, game design, and so
 
 They differ from photo editing programs because they do not improve an existing photo, they create one entirely out of nothing.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do these tools draw every text we want flawlessly?**
 

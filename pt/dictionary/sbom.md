@@ -24,7 +24,7 @@ Ele é usado em auditorias de segurança de software, gerenciamento da cadeia de
 
 Não confundir com o código fonte do software; Esta é apenas uma lista de inventário.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o SBOM é importante?**
 

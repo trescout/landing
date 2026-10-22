@@ -43,7 +43,7 @@ Digital privacy is not merely a technical issue, but the existential foundation 
 
 Cybersecurity is the armor that prevents your data from being stolen by unauthorized attackers (hackers) (the steel door and alarm system of the house). Digital privacy, on the other hand, is the right that guarantees guests legally entering your home (the apps and service providers you use) do not rummage through your drawers and sell your private notes to others.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does Digital Privacy mean, and what is its Turkish equivalent?**
 

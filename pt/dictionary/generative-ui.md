@@ -22,7 +22,7 @@ O modelo de inteligência artificial analisa a solicitação do usuário e combi
 
 Pode ser confundido com web design estático, mas o design aqui é produzido inteiramente por inteligência artificial naquele momento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que a UI generativa é importante?**
 

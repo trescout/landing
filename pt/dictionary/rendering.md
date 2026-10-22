@@ -37,7 +37,7 @@ A taxa de quadros (FPS) define a experiência: quanto menor o valor, mais travam
 **Arquitetura:** Visualização tridimensional realista do projeto (implantação).
 **Cinema:** Cálculo quadro a quadro dos efeitos pós-produção.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que a renderização pode ser lenta?**
 

@@ -44,7 +44,7 @@ Nicht mit der Eingabe zu verwechseln. Die Eingabe ist der Start, die Ausgabe ist
 **Fabrik:** Teile gehen hinein, ein Produkt kommt heraus.
 **Prüfung:** Eine Frage geht hinein, Punkte kommen heraus.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum sollte die Ausgabe falsch sein?**
 

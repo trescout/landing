@@ -22,7 +22,7 @@ Kullanıcıların modele hiçbir örnek vermeden doğrudan soru sorduğu günlü
 
 Few-shot öğrenme ile karıştırılır; burada modelin elinde hiçbir ipucu veya örnek yoktur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Model nasıl tahmin yürütebiliyor?**
 

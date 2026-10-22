@@ -22,7 +22,7 @@ Es wird in Bildverarbeitungstools, Textschreibanwendungen, Empfehlungssystemen u
 
 Es kann mit jeder Software für künstliche Intelligenz verwechselt werden; Das Modell ist nur der „Gehirn“-Teil der Software.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann jedes Model jeden Job machen?**
 

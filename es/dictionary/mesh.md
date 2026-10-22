@@ -34,7 +34,7 @@ El service mesh en los microservicios es un poco diferente: se coloca un pequeñ
 **Textil:** Tejido de la tela. Incluso si se rompe un solo hilo, se conserva la integridad del tejido.
 **Biología:** Redes neuronales. La señal puede rodear la zona dañada.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Para qué sirve el Wi-Fi en malla (Mesh)?**
 

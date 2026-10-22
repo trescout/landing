@@ -22,7 +22,7 @@ It is used in personal assistants, artificial intelligence tools that track long
 
 It can be confused with context window; context window is short-term memory while memory system is permanent or long-term memory.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can memory be erased?**
 

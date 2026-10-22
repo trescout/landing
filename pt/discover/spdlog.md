@@ -65,7 +65,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Para desenvolvedores C++, arquitetos de mecanismos de jogos e sistemas embarcados que desejam acelerar a depuração, o monitoramento e a verificação de projetos de software com latência zero.
-- **Licença:** MIT Lisansı (Ticari ve açık kaynak projelerde tamamen serbest)
+- **Licença:** Licença MIT (totalmente gratuita para projetos comerciais e de código aberto)
 - **Padrão:** Compatível com C++11, C++14, C++17, C++20 e C++23
 - **Tipo de biblioteca:** Vinculação estática/dinâmica somente de cabeçalho ou compilada
 

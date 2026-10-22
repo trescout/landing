@@ -43,7 +43,7 @@ Pensa-se que é uma GUI. A GUI é visual, o terminal é textual. Também se conf
 **Cabine de pilotagem:** Controle direto com o botão.
 **Casa de máquinas:** Girar as válvulas manualmente.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É necessário aprender o terminal?**
 

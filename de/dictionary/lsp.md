@@ -59,7 +59,7 @@ Umfangreiche semantische Analyse- und Typanalysevorgänge werden in einem vom Ha
 - DAP (Debug Adapter Protocol): Verwaltet Laufzeit-Debugging-Vorgänge. Haltepunkte, Variablenüberwachung und schrittweise Ausführung werden über DAP kommuniziert.
 - SCIP/LSIF: Hierbei handelt es sich um statische Indexierungsformate, die umfangreiche Codebasen zur Kompilierungszeit vorindizieren und die Codenavigation in Webschnittstellen ermöglichen, ohne dass ein Server ausgeführt werden muss.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet LSP und wofür steht es?**
 

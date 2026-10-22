@@ -22,7 +22,7 @@ Chatbotlar, yapay zekâ asistanları ve müşteri hizmetleri botlarında sıkça
 
 Prompt engineering ile karıştırılabilir ancak bu bir sızdırma girişimidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu bir güvenlik açığı mı?**
 

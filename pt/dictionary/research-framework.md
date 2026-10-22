@@ -22,7 +22,7 @@ Primeiro, determine seu objetivo e liste quais etapas são necessárias para alc
 
 Não é apenas uma ferramenta de gerenciamento de projetos; pelo contrário, é a metodologia de um processo de descoberta científica ou técnica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que preciso de uma moldura?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans des projets logiciels axés sur l’intelligence artificiel
 
 À ne pas confondre avec les éditeurs de texte standard qui écrivent simplement du code ; Il existe également des outils ici pour surveiller le processus de « pensée » de l'agent.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi un environnement spécial est-il nécessaire ?**
 

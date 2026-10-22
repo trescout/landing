@@ -52,7 +52,7 @@ Google TrueTime: combinación de relojes atómicos y antenas GPS utilizada en la
 
 En los sistemas monolíticos, las transacciones de base de datos (transacciones ACID) son reemplazadas en los microservicios por el enfoque del Patrón Saga (Saga Pattern). En lugar de bloquear pasos distribuidos de larga duración con bloqueos de dos fases (2PC - Two Phase Commit), se utilizan arquitecturas orientadas a eventos donde cada servicio realiza su propia transacción local y, en caso de error, se activan transacciones compensatorias (Compensating Transactions) para revertir los cambios.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa "Distributed" (significado en turco)?**
 

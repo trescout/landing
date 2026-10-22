@@ -24,7 +24,7 @@ Il est utilisé dans des processus qui nécessitent de la confiance, tels que le
 
 Elle peut être confondue avec les applications mobiles normales ; Cependant, les dApps conservent les données sur la blockchain et non sur un serveur central.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que faut-il pour utiliser les dApps ?**
 

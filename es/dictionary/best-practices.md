@@ -40,7 +40,7 @@ La excepción a la regla también es una regla: la velocidad destaca en el proto
 **Aviación:** Lista de verificación previa al despegue.
 **Tráfico:** Orden de carriles y señales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es obligatorio cumplirlos?**
 

@@ -41,7 +41,7 @@ Il existe deux bouées de sauvetage essentielles pour les erreurs en environneme
 - Développement vs déploiement : le développement se produit lorsque le chef prépare et goûte les plats dans la cuisine ; Le déploiement se produit lorsque la nourriture est servie à table et présentée au client pour consommation.
 - Déploiement vs Release : le déploiement est une action technique ; Il fait référence au téléchargement du code sur le serveur. La publication signifie rendre une fonctionnalité visible aux utilisateurs, faire une annonce marketing et l'ouvrir officiellement par l'unité commerciale.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie « Deployment » et quel est son équivalent en français ?**
 

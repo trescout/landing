@@ -22,7 +22,7 @@ Antes de ler o texto, a modelo o divide em pequenos pedaços. Graças a essas pa
 
 É confundido com contagem de palavras, mas às vezes os tokens podem fazer parte de uma palavra ou apenas um espaço.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Aproximadamente quantas palavras equivalem a 1000 tokens?**
 

@@ -45,7 +45,7 @@ Se considera un sistema operativo. El sistema gestiona el dispositivo, la aplica
 **Aparato de cocina:** Dispositivos de una sola tarea.
 **Accesorio de coche:** Pieza instalada más tarde.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿La aplicación y el software son iguales?**
 

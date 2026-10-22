@@ -43,7 +43,7 @@ Regra: O tempo do token é mantido curto, a renovação ocorre em segundo plano.
 **Tabelião:** Autenticação de identidade.
 **Controle de passaporte:** Passagem com carimbo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É seguro?**
 

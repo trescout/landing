@@ -22,7 +22,7 @@ It is used in autonomous vehicles, robotic systems and security monitoring softw
 
 Not to be confused with mere data collection; Awareness requires making sense of data and reacting.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it important for artificial intelligence?**
 

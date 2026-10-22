@@ -34,7 +34,7 @@ Mikro hizmetlerdeki service mesh biraz farklıdır: Servislerin yanına **sideca
 
 *Orkestra şefi olmadan, tüm müzisyenlerin birbirini dinleyerek uyum içinde çalması gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Mesh Wi-Fi ne işe yarar?**
 

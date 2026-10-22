@@ -22,7 +22,7 @@ E-spor organizasyonlarında, çevrim içi çok oyunculu platformlarda ve konsol 
 
 Aksiyon ve macera oyunlarıyla karıştırılabilir. Genel aksiyon oyunları bulmaca çözme veya yakın dövüşe odaklanabilir ancak shooter türünün ana mekaniği nişan alıp ateş etmektir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **FPS ve TPS shooter arasındaki temel fark nedir?**
 

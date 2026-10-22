@@ -22,7 +22,7 @@ It is used on large websites and high-traffic network infrastructures.
 
 It may be confused with just server clustering, but this method focuses specifically on managing query traffic.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will the site speed up thanks to this system?**
 

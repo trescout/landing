@@ -24,7 +24,7 @@ Se utiliza en el seguimiento de blogs, sitios de noticias y plataformas de curac
 
 Puede confundirse con Newsletter, pero RSS está completamente bajo tu control y no requiere correo electrónico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Está muerto el RSS?**
 

@@ -24,7 +24,7 @@ Il est actif sur tous les supports numériques tels que les plateformes de rése
 
 Ce n'est pas la même chose que le marketing ; le marketing est une stratégie, tandis que l'ad tech est l'ensemble des outils techniques qui mettent en œuvre cette stratégie.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cela affecte-t-il ma vie privée ?**
 

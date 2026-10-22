@@ -36,7 +36,7 @@ Buna karşılık yazılım dünyasında açık kaynak hareketi (FOSS) ile patent
 
 - **Yanlış Mucit Beyanı:** Katkısı olmayan yöneticileri eklemek veya asıl mühendisi çıkarmak patentin meşruiyetini sakatlar.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Patent disclosure (buluş bildirimi) ne zaman yapılmalıdır?**
 

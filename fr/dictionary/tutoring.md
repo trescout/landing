@@ -43,7 +43,7 @@ Depuis 40 ans, la crise socio-économique fondamentale du monde de l'éducation 
 - Tutoring vs Teaching : L'enseignement (teaching) vise généralement à transmettre un programme à une classe nombreuse, tandis que le tutorat (tutoring) est un micro-accompagnement axé sur la comblement des lacunes de compréhension d'un individu.
 - Tutorat vs. chatbot IA : un chatbot ordinaire résout vos devoirs à votre place, tandis qu'un tuteur IA vous guide pas à pas vers la solution pour permettre à votre cerveau de créer des connexions neuronales.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie « tutoring » et quel est son équivalent en turc ?**
 

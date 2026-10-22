@@ -48,11 +48,11 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Speech-to-Text](https://trescout.com/fr/dictionary/speech-to-text/)
-- [STT](https://trescout.com/fr/dictionary/stt/)
 - [GGUF](https://trescout.com/fr/dictionary/gguf/)
 - [Inference](https://trescout.com/fr/dictionary/inference/)
 - [CPU](https://trescout.com/fr/dictionary/cpu/)
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs qui souhaitent exécuter des systèmes de reconnaissance vocale rapides et axés sur la confidentialité sur leur propre matériel.
 - **Licence:** MIT

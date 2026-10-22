@@ -43,7 +43,7 @@ Pensa-se que é um desktop. Aquele é ligado de vez em quando, este funciona 24/
 **Arquivo:** Sala de arquivos.
 **Despensa:** Depósito de estoque.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que é necessário um servidor?**
 

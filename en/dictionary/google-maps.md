@@ -22,7 +22,7 @@ It is used in daily directions, courier and logistics management, local business
 
 Unlike open-source and community-driven mapping projects such as OpenStreetMap, it is a proprietary, closed-source, and commercial ecosystem owned by Google.
 
-## Frequently asked questions
+## Questions and answers
 
 **How does Google Maps know traffic congestion in real time?**
 

@@ -22,7 +22,7 @@ Yazılım geliştirme süreçlerinde, sunucu yönetiminde ve şirketlerin siber 
 
 Vulnerability Scanning ile aynı amaçla kullanılır ancak bu terim doğrudan araca odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Güvenlik tarayıcısı her açığı bulur mu?**
 

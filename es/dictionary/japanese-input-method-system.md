@@ -24,7 +24,7 @@ Se utiliza en sistemas operativos de computadoras y teléfonos y en editores de 
 
 Se puede combinar con el motor de conversión Neural Kana-Kanji; IME es el sistema general, mientras que el motor de conversión es la parte del convertidor inteligente dentro del mismo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo escribir en japonés sin IME?**
 

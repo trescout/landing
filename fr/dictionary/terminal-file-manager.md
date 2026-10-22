@@ -22,7 +22,7 @@ Il est utilisé lors de la gestion de serveurs ou dans les processus de dévelop
 
 Il ne faut pas le confondre avec « shell », qui indique simplement les commandes ; Cet outil propose une interface d'édition visuelle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce difficile à apprendre ?**
 

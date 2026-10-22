@@ -22,7 +22,7 @@ It is used in personal assistants, constantly updated news analysis systems and 
 
 It is almost the same as continuous learning, but lifelong learning refers to a more long-term and comprehensive development process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why doesn't every AI do this?**
 

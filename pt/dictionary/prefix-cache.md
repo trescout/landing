@@ -22,7 +22,7 @@ O sistema armazena em cache os prefixos dos textos processados ​​pelo modelo
 
 Pode ser confundido com cache KV; Enquanto o cache KV mantém o estado interno do modelo, o cache de prefixo contém blocos de texto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quanta velocidade ele fornece?**
 

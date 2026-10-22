@@ -22,7 +22,7 @@ Il est utilisé dans tous les domaines technologiques tels que le développement
 
 Contrairement au simple apprentissage de l’utilisation d’un ordinateur, il vise à comprendre en profondeur pourquoi et comment fonctionne l’ordinateur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Savoir coder est-il suffisant ?**
 

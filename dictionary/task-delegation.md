@@ -22,7 +22,7 @@ Proje yönetim araçlarında, çoklu ajan sistemlerinde ve kurumsal iş akışla
 
 Sadece işi birine bırakmak değil, doğru işi doğru kaynağa atama becerisidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ nasıl devrediyor?**
 

@@ -24,7 +24,7 @@ Quando o modelo AI é executado, o software recupera dados da RAM do sistema e o
 
 Muitas vezes é confundido com RAM do sistema; A RAM é usada para tarefas gerais, enquanto a VRAM é usada para gráficos intensivos e tarefas de cálculo da placa gráfica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se a VRAM não for suficiente?**
 

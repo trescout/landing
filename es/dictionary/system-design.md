@@ -22,7 +22,7 @@ Se utiliza en las etapas iniciales de proyectos de desarrollo de software y al e
 
 Se confunde con codificación; La codificación es mano de obra de construcción, el diseño de sistemas es un proyecto arquitectónico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario para cada proyecto?**
 

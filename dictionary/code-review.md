@@ -22,7 +22,7 @@ GitHub, GitLab gibi platformlarda ve kurumsal yazılım geliştirme süreçlerin
 
 Sadece kodun çalışıp çalışmadığını test eden otomatik testlerden farklı olarak, burada insan mantığı ve estetiği devreye girer.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden otomatize edilmiyor?**
 

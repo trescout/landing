@@ -49,7 +49,7 @@ A liberdade traz responsabilidade. Em caso de falha de hardware, não há nenhum
 - Armazene essas cópias em 2 mídias físicas diferentes (por exemplo, disco interno e USB externo).
 - Hospede pelo menos 1 das cópias em um local físico diferente (servidor remoto criptografado ou armazenamento externo) para proteção contra incêndio e roubo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que é self-hosted e qual o seu significado em português?**
 

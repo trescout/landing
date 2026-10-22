@@ -2,16 +2,16 @@
 
 DesktopCommanderMCP é um servidor Model Context Protocol desenvolvido para Claude que fornece controle de terminal, pesquisa de sistema de arquivos e recursos de edição de arquivos baseados em diferenças para o modelo de inteligência artificial. Escrita em TypeScript, esta ferramenta permite que a inteligência artificial execute operações diretas em sistemas de arquivos locais.
 
-- ★ 10.028
+- ★ 10.088
 - TypeScript
 - GitHub Trending · 2026-07-09
 
 ## Atualizações
 
+- **22 de outubro de 2026:** Estrelas 10,028 → 10,088, versão mais recente v0.3.1 (22 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 9,830 → 10,028, versão mais recente v0.3.0 (13 de outubro de 2026).
 - **29 de setembro de 2026:** Estrelas 9,633 → 9,830, versão mais recente v0.2.52 (29 de setembro de 2026).
 - **18 de setembro de 2026:** Estrelas 9,521 → 9,633, versão mais recente v0.2.51 (17 de setembro de 2026).
-- **10 de setembro de 2026:** Estrelas 9,472 → 9,521, versão mais recente v0.2.50 (9 de setembro de 2026).
 
 ## O que você ganha
 
@@ -51,10 +51,10 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [Terminal Control](https://trescout.com/pt/dictionary/terminal-control/)
 - [Diff File Editing](https://trescout.com/pt/dictionary/diff-file-editing/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/pt/dictionary/context/)
 - [PDF](https://trescout.com/pt/dictionary/pdf/)
+- [MCP](https://trescout.com/pt/dictionary/mcp/)
+- [Terminal](https://trescout.com/pt/dictionary/terminal/)
 
 - **Para quem é:** É para usuários que desejam automatizar o gerenciamento de arquivos e processos, dando acesso ao computador local ao modelo de IA.
 - **Licença:** MIT

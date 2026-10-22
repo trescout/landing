@@ -22,7 +22,7 @@ Siber güvenlik testlerinde, yazılım geliştirme aşamalarında ve tarayıcıl
 
 Sanal makinelerle karıştırılabilir; sandbox genellikle daha hafif ve belirli bir uygulama için özelleşmiş bir yalıtım alanıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sandbox neden gereklidir?**
 

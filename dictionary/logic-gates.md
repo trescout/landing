@@ -22,7 +22,7 @@ Mikroişlemcilerin mimari tasarımında, donanım simülasyonlarında, FPGA prog
 
 Yazılım algoritmalarındaki 'if-else' bloklarıyla karıştırılabilir: 'If-else' üst seviye programlama dillerinde çalışan bir kontrol yapısıyken, mantık kapısı doğrudan transistör düzeyinde çalışan donanım mekanizmasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **En temel mantık kapıları hangileridir?**
 

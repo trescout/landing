@@ -22,7 +22,7 @@ Il est utilisé dans les applications de prise de notes, les outils d’intellig
 
 On ne peut que le confondre avec le travail hors ligne ; Cependant, cette approche vise à préserver la capacité de synchronisation hors ligne.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si mes données et mon appareil sont corrompus ?**
 

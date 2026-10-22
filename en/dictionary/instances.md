@@ -22,7 +22,7 @@ It is very frequently used in cloud computing, server management, and game serve
 
 It should not be confused with the program itself (source code); there is one source code, but there can be unlimited running copies.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we run multiple copies?**
 

@@ -22,7 +22,7 @@ Es ist häufig in fortschrittlichen KI-Assistenten, Automatisierungsplattformen 
 
 Nicht zu verwechseln mit dem eigenen Verstand oder den Gewichten der KI; Hierbei handelt es sich um Erweiterungen von Fähigkeiten, die von außen hinzugefügt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Welche Werkzeuge kann künstliche Intelligenz nutzen?**
 
@@ -36,7 +36,7 @@ Wenn nicht die richtigen Einschränkungen und Berechtigungen gegeben sind, kann 
 
 - [AI Agent](https://trescout.com/de/dictionary/ai-agent/)
 - [Tools](https://trescout.com/de/dictionary/tools/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol/)
+- [Model Context Protocol](https://trescout.com/de/dictionary/mcp/)
 
 ## Verwandte Werkzeuge
 

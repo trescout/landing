@@ -22,7 +22,7 @@ Artırılmış gerçeklik başlıklarında çevrenin anında taranıp sanal nesn
 
 Geleneksel 'Scene Reconstruction' yönteminde tüm fotoğraflar önceden çekilip toplu olarak (batch) işlenir; 'Streaming' modelinde ise veri akarken üç boyutlu model anlık olarak inşa edilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden toplu işleme yerine akış (streaming) yöntemi kullanılır?**
 

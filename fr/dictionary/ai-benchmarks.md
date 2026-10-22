@@ -22,7 +22,7 @@ Lorsqu'un nouveau modèle de base est publié, il est utilisé dans les rapports
 
 Il ne faut pas le confondre avec les tests de matériel généraux (benchmarks). Alors que les tests classiques mesurent la vitesse du processeur et de la mémoire, les tests de référence en intelligence artificielle mesurent la qualité de compréhension et de raisonnement du modèle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les modèles peuvent-ils mémoriser les questions du test ?**
 

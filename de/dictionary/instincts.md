@@ -22,7 +22,7 @@ Es wird in Chatbots eingesetzt, die schnell und in sofortigen Entscheidungsproze
 
 Es sollte nicht mit einem bewussten Denkprozess verwechselt werden; Es ist nur eine statistische Geschwindigkeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann der Instinkt der künstlichen Intelligenz Fehler machen?**
 

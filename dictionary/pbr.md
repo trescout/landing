@@ -24,7 +24,7 @@ Oyun motorlarında, film prodüksiyonlarında ve mimari görselleştirme program
 
 Geleneksel çizim yöntemleri, ışığı fiziksel kurallara göre değil, sadece görsel olarak güzel görünecek şekilde basitleştirir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her oyunda kullanılmıyor?**
 

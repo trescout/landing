@@ -24,7 +24,7 @@ Kurumsal şirket ağlarında, sunucularda ve çalışanların dizüstü bilgisay
 
 Geleneksel antivirüs yazılımlarıyla karıştırılabilir; EDR çok daha derinlemesine bir izleme ve müdahale yeteneğine sahiptir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **EDR her saldırıyı engeller mi?**
 

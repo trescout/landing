@@ -22,7 +22,7 @@ Es wird in großen Webanwendungen und Websites verwendet, bei denen die Benutzer
 
 Kann mit Bündelung verwechselt werden; Während beim Bündeln Dateien zusammengefasst werden, werden sie beim Code-Splitting auf intelligente Weise in Teile aufgeteilt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird es eine Verzögerung geben, wenn der Benutzer auf die Seite klickt?**
 

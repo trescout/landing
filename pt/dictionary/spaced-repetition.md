@@ -22,7 +22,7 @@ Você escreve a informação que deseja aprender em um cartão. Na primeira vez,
 
 Pode ser confundido apenas com a memorização; no entanto, este método é mais sobre gerir a memória estrategicamente do que apenas decorar.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo repetir constantemente?**
 
@@ -30,7 +30,7 @@ O seu cérebro apaga com o tempo as informações que considera desnecessárias;
 
 ## Termos relacionados
 
-- [Personal Knowledge Management](https://trescout.com/pt/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/pt/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/pt/dictionary/personal-knowledge-management/)
 - [Lifelong Learning](https://trescout.com/pt/dictionary/lifelong-learning/)
 

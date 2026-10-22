@@ -48,7 +48,7 @@ Wird oft für einen Prototypen gehalten. Ein Prototyp ist ein Produktmuster, ein
 **Hausversuch:** Küchentest ohne das Menü zu betreten.
 **Trailer:** Reaktionsmessung vor dem Film.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn es erfolgreich ist?**
 

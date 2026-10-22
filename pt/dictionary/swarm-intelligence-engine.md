@@ -22,7 +22,7 @@ O sistema divide uma tarefa grande em partes menores e atribui essas partes a un
 
 Poderia ser confundido com um único modelo massivo de IA, mas aqui o poder vem da estrutura distribuída.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usar enxames em vez de um modelo único?**
 

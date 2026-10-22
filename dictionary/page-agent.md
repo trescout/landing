@@ -22,7 +22,7 @@ E-ticaret sitelerinde fiyat takibi yaparken, form doldurma işlemlerinde veya we
 
 Genel amaçlı AI agent modelleriyle karıştırılabilir ancak bu sadece web tarayıcısı odaklıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Page Agent güvenli mi?**
 

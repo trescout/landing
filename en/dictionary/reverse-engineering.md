@@ -22,7 +22,7 @@ You can frequently resort to it in cybersecurity to figure out the operating log
 
 It is confused with the term 'software reverse engineering', which is specific to the software world. Reverse engineering is a much broader umbrella concept that also covers physical machines and hardware.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it legal to perform reverse engineering?**
 

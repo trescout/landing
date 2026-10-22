@@ -22,7 +22,7 @@ Es wird häufig in Smart-Home-Projekten, modernen Stromnetzen und kommunalen Was
 
 Es ist nicht zu verwechseln mit einfachen Digitalanzeigen, die lediglich der Zählerablesung dienen; Smart Meter bieten bidirektionale Datenkommunikation und Automatisierung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie wirkt es sich auf Rechnungen aus?**
 

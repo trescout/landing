@@ -2,6 +2,8 @@
 
 *Data & Infra · Last updated: September 20, 2026*
 
+> PKM
+
 Personal Knowledge Management (PKM) is the set of systematic processes and tools that individuals use to capture, classify, deepen, and generate new ideas from the intense flow of information they encounter every day.
 
 ## Etymology and Cognitive Need
@@ -33,7 +35,7 @@ Collector's Fallacy: Confusing saving an article or PDF with reading and underst
 Over-Tooling (Procrastination): Wasting days on software themes, graphic colors, or complex folder hierarchies instead of taking notes and producing work.
 Skipping Expression: Continuously accumulating knowledge without ever turning it into a piece of writing, code, or a project; the true value of knowledge emerges only when it is transferred to the outside world.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is the difference between Personal Knowledge Management (PKM) and classic note-taking?**
 

@@ -22,7 +22,7 @@ Yazılım güvenliği araştırmalarında, bir uygulamanın nasıl çalıştığ
 
 Derleyici (Compiler) ile karıştırılır; derleyici kodu makineye çevirir, decompiler ise makine kodunu insana çevirir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Decompiler ile orijinal kodun aynısını alabilir miyim?**
 

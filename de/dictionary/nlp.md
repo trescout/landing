@@ -24,7 +24,7 @@ Es taucht täglich in Autokorrekturfunktionen, Kundendienst-Chatbots und Überse
 
 Es wird oft nur mit der Sprachübersetzung verwechselt, NLP deckt jedoch viel umfassendere Prozesse wie Textzusammenfassung und Stimmungsanalyse ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann NLP jede Sprache verstehen?**
 

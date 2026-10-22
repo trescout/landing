@@ -22,7 +22,7 @@ Es wird in Spielen mit künstlicher Intelligenz, Roboterbewegungssteuerung und F
 
 Es kann mit überwachtem Lernen verwechselt werden; In diesem Fall wird die richtige Antwort gegeben, in diesem Fall wird nur das Ergebnis belohnt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum dauert es so lange?**
 

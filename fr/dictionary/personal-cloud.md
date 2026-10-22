@@ -42,7 +42,7 @@ On pense qu'il s'agit de Drive. Drive appartient à l’entreprise, le cloud per
 **Garde-manger :** Stock domestique.
 **Archive:** Salle de paperasse personnelle.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-il accessible une fois coupé ?**
 

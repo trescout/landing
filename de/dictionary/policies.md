@@ -22,7 +22,7 @@ Sie werden in Cloud-Systemen, Unternehmensnetzwerken und Berechtigungsinfrastruk
 
 Sie ziehen eher administrative und Sicherheitsgrenzen als die technische Logik des Codes.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es wichtig?**
 

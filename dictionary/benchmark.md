@@ -42,7 +42,7 @@ Test sanılır. Test çalışıp çalışmadığına bakar, benchmark ne kadar i
 
 *Okuldaki sınav gibidir; herkese aynı soru sorulur, konu hakimiyeti adil kıyaslanır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yüksek skor her zaman iyi midir?**
 
@@ -72,8 +72,8 @@ Test sorusunun eğitime karışmasıdır. Model ezberler, skor şişer, gerçek 
 - [RuView](https://trescout.com/discover/ruview/)
 - [CUA](https://trescout.com/discover/cua/)
 - [Whichllm](https://trescout.com/discover/whichllm/)
-- [SIA](https://trescout.com/discover/sia/)
 - [Harvey Labs](https://trescout.com/discover/harvey-labs/)
+- [SIA](https://trescout.com/discover/sia/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

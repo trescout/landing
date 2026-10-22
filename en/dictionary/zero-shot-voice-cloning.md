@@ -22,7 +22,7 @@ It is used in voice assistants, dubbing works, personalized content production a
 
 It is similar to Voice Cloning, but no training process is required here.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can he copy anyone's voice?**
 

@@ -22,7 +22,7 @@ GitHub gibi platformlardan açık kaynaklı projeleri kendi bilgisayarınıza al
 
 Yedekleme (backup) ile karıştırılabilir; cloning daha çok üzerinde çalışma yapmak için yapılan bir kopyalamadır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Orijinal projeyi değiştirir mi?**
 

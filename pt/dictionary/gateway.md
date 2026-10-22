@@ -42,7 +42,7 @@ Pode ser confundido com o API Gateway. O API Gateway gerencia serviços de softw
 **Porto:** Desembaraço aduaneiro de navios.
 **Recepção:** Direcionamento do visitante para o andar correto.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É possível acessar a internet sem um gateway?**
 

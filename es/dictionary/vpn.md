@@ -24,7 +24,7 @@ Se utiliza en redes WiFi públicas, para trabajos que requieren confidencialidad
 
 Puede confundirse con un proxy, pero una VPN cifra todo el tráfico del dispositivo, mientras que un proxy normalmente sólo enruta ciertas aplicaciones.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿La VPN reducirá mi velocidad?**
 

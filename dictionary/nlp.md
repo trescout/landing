@@ -24,7 +24,7 @@ Akıllı telefonlardaki otomatik düzeltme özelliklerinde, müşteri hizmetleri
 
 Genellikle sadece dil çevirisi ile karıştırılır ancak NLP, metin özetleme ve duygu analizi gibi çok daha geniş kapsamlı işlemleri kapsar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **NLP her dili anlayabilir mi?**
 

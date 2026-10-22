@@ -18,7 +18,7 @@ Model, veriyi işlerken hangi katmanları kullanacağına veya ne kadar süre d�
 
 Karmaşık dil modellerinde, robotik algılama sistemlerinde ve enerji tasarrufu gerektiren uç cihazlarda kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Daha mı akıllılar?**
 

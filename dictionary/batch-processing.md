@@ -22,7 +22,7 @@ Yapay zekâ modellerinin eğitilmesinde, büyük veri analizlerinde, maaş ödem
 
 Gerçek zamanlı (real-time) işleme ile karıştırılabilir; gerçek zamanlı işlem hemen tepki verirken, toplu işlem bekletir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden toplu işlem yaparız?**
 

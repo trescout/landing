@@ -62,7 +62,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** medio
 - **Que ofertas:** Interfaz web/móvil para gestión de agentes
 - **Tarifa:** Gratis · código abierto (MIT)
-- **Licencia:** MIT · ayrıntı aşağıda
+- **Licencia:** MIT · detalles a continuación
 
 **Licencia:** MIT · Puedes usarlo libremente, modificarlo y utilizarlo comercialmente.
 

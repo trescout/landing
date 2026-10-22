@@ -43,7 +43,7 @@ Yapılacaklar listesi sanılır. Liste pasiftir, framework hata yönetir ve otom
 
 *Orkestra şefi gibidir; kemanların ne zaman çalacağını, davulun ne zaman gireceğini yönetir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden ihtiyaç duyulur?**
 

@@ -66,7 +66,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Avanzado · Conocimiento de ML/modelo
 - **Que ofertas:** TTS multilingüe + diseño de sonido + clonación
 - **Tarifa:** Gratis · código abierto (Apache-2.0)
-- **Licencia:** Apache-2.0 · ayrıntı aşağıda
+- **Licencia:** Apache-2.0 · detalle a continuación
 
 **Licencia:** Apache-2.0 · código disponible gratuitamente/comercial. Usted asume la responsabilidad legal/ética por la producción del modelo y la transcripción de audio.
 

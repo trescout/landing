@@ -24,7 +24,7 @@ Es wird in Softwareprojekten verwendet, insbesondere bei der Entwicklung komplex
 
 Kann mit TDD verwechselt werden; Während sich TDD auf die Robustheit des Codes konzentriert, konzentriert sich BDD auf das Verhalten der Funktion in den Augen des Benutzers.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist BDD wichtig?**
 

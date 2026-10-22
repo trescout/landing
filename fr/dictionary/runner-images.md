@@ -22,7 +22,7 @@ Il est largement utilisé en arrière-plan dans les processus d’intégration c
 
 À ne pas confondre avec les applications persistantes installées directement sur le serveur live ; il s'agit souvent d'environnements temporaires et basés sur des tâches.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utilisons-nous des images prêtes ?**
 

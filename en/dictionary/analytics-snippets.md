@@ -22,7 +22,7 @@ It is produced on platforms such as Google Analytics and placed in the HTML code
 
 It is often confused with cookies; While cookies keep data in your browser, snippet is the tool that collects data and sends it to the server.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will these codes steal my personal information?**
 

@@ -22,7 +22,7 @@ It is used throughout software development, architectural design and general pro
 
 It can be confused with just coding skills, whereas coding is just the application part of this process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can anyone acquire engineering skills?**
 

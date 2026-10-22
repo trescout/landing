@@ -18,7 +18,7 @@ Es findet in den Prozessen der Planung, des Schreibens von Code, des Debuggens u
 
 Es wird in Softwareentwicklungsprozessen, Schulungen zur künstlichen Intelligenz (wie RLHF) und im allgemeinen Projektmanagement eingesetzt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird künstliche Intelligenz die menschliche Arbeit vollständig ersetzen?**
 

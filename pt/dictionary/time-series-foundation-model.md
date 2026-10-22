@@ -22,7 +22,7 @@ Ele utiliza dados históricos como uma sequência numérica, aprende padrões oc
 
 Não deve ser confundido apenas com simples ferramentas de previsão estatística; Esses modelos são baseados em aprendizado profundo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele pode prever qualquer tipo de dados?**
 

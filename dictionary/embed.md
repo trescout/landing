@@ -22,7 +22,7 @@ Arama motorlarında, öneri sistemlerinde ve yapay zekâ hafıza yönetiminde s�
 
 Birebir aynı kavram olan embedding teriminden farklı olarak bu, kelimenin eylem veya işlem halindeki karşılığıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden sayısal listelere dönüştürürüz?**
 

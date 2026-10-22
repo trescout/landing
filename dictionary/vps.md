@@ -46,7 +46,7 @@ Paylaşımlı hosting ile karıştırılabilir. Paylaşımlı hostingde kaynakla
 
 *Büyük bir apartmandaki bağımsız bir daire gibidir; binanın genel altyapısını paylaşırsınız ama kendi kapınız ve özel alanınız vardır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **VPS yönetmek için teknik bilgi gerekir mi?**
 

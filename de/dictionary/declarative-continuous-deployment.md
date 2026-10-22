@@ -22,7 +22,7 @@ Es wird in cloudbasierten Anwendungen und bei der Verwaltung umfangreicher Serve
 
 Es kann mit imperativen (befehlsorientierten) Methoden verwechselt werden; Bei dieser Methode erzählen Sie jeden Schritt einzeln.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollten wir diese Methode wählen?**
 

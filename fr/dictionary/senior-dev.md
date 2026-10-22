@@ -18,7 +18,7 @@ Les développeurs atteignent ce stade au fil des ans en commettant des erreurs s
 
 Ils occupent des postes de direction dans les équipes de développement de logiciels, les entreprises technologiques et les projets de transformation numérique à grande échelle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que toute personne qui écrit beaucoup de code peut devenir un senior dev ?**
 

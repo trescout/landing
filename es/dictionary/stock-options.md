@@ -22,7 +22,7 @@ Se utiliza con frecuencia, especialmente en startups en etapa inicial, para atra
 
 Puede confundirse con la distribución directa de acciones. Mientras que en la distribución directa de acciones se entregan acciones al empleado de inmediato, en el mecanismo de opciones sobre acciones solo se otorga el derecho a comprarlas en el futuro.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Las opciones siempre generan ganancias?**
 

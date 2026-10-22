@@ -50,7 +50,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Einfache bis mittlere Anwendung
 - **Was bietet:** Plattformübergreifender, werbefreier Proxy-Client
 - **Gebühr:** Kostenlos · Open Source (GPL-3.0)
-- **Lizenz:** GPL-3.0 · ayrıntı aşağıda
+- **Lizenz:** GPL-3.0 · Details unten
 
 **Lizenz:** GPL-3.0 · kostenlose Nutzung; Wenn Sie die Software ändern und verbreiten, müssen Sie Ihre Änderungen mit dem Quellcode unter derselben GPL-Lizenz (Copyleft) teilen.
 

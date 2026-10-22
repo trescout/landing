@@ -22,7 +22,7 @@ Küresel finans analizlerinde ve Çin pazarına odaklanan portföylerde karşıl
 
 Genel uluslararası hisse senedi kavramlarından farklı olarak coğrafi ve yasal bir kısıtlama barındırır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yabancılar hiç alamaz mı?**
 

@@ -46,7 +46,7 @@ Cadres et outils modernes incontournables :
 - CLI vs TUI: la CLI est un modèle de questions-réponses sur une seule ligne (git status, ls -la). La TUI, quant à elle, est un panneau visuel bidimensionnel qui remplit la fenêtre du terminal avec des onglets, des listes et des raccourcis clavier (lazygit, k9s).
 - Un TUI ne se résume pas à du texte brut : les terminaux modernes prennent en charge les Nerd Fonts (icônes), le support 24-bit TrueColor, les caractères de dessin de boîtes UTF-8 et même le rendu visuel réel directement dans le terminal grâce aux protocoles Kitty Graphics / Sixel.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie TUI et quel est son acronyme ?**
 

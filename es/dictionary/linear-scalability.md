@@ -22,7 +22,7 @@ Sistemas de computación en la nube, bases de datos y servicios web de alto trá
 
 No se trata sólo de "ser rápido", sino de que el aumento del rendimiento es proporcional al aumento de los recursos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no todos los sistemas pueden escalar linealmente?**
 

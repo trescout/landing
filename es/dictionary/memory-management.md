@@ -41,7 +41,7 @@ Cuando se ejecuta un programa, el sistema operativo asigna un espacio de memoria
 
 Los sistemas operativos modernos utilizan una arquitectura de memoria virtual y paginación para evitar que los programas lean la memoria de los demás. La Unidad de Gestión de Memoria (MMU) de la CPU traduce las direcciones virtuales a direcciones físicas en el hardware con la ayuda de la caché TLB. Cuando la memoria RAM física y el espacio de intercambio (swap) se agotan por completo, el mecanismo OOM Killer (Out of Memory Killer) del kernel de Linux termina el proceso más agresivo con una señal SIGKILL para salvar el sistema.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa 'Memory management' y cuál es su equivalente en español?**
 

@@ -24,7 +24,7 @@ Se utiliza como servidor multimedia en casa o para compartir archivos comunes en
 
 No es sólo un disco duro conectado a Internet, es una unidad de almacenamiento inteligente con su propio sistema operativo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son lo mismo NAS y almacenamiento en la nube?**
 

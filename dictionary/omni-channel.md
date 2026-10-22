@@ -37,7 +37,7 @@ Multi-channel sanılır. Onda kanal çoktur, bunda kanal bağlıdır. Bağlantı
 
 *Sahne, kulis ve ışık ekibinin tek hikayeyi uyumla anlatması gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden önemlidir?**
 

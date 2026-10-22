@@ -50,7 +50,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** intermedio-avanzado
 - **Que ofertas:** Especificaciones del complemento oficial + complementos de muestra
 - **Fuente:** Cursor · imagen
-- **Licencia:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Licencia:** Estándar no detectado · detalle a continuación
 
 **Licencia:** GitHub no detectó una licencia estándar. Verifique la LICENCIA/los términos en el repositorio antes de su reutilización/distribución.
 

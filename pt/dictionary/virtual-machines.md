@@ -42,7 +42,7 @@ Pensa-se que é um contentor. A máquina é um sistema completo, o contentor é 
 **Apartamento:** Edifício comum, espaço privado.
 **Mala:** Transporte com compartimentos.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Desacelera?**
 

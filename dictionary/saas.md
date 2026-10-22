@@ -39,7 +39,7 @@ PaaS ile karıştırılabilir. SaaS bitmiş uygulamadır, son kullanıcı içind
 
 *Kendi evinizde su kuyusu açmak yerine belediyenin sağladığı şebeke suyunu aylık ücretle kullanmak gibidir; altyapıyla uğraşmazsınız.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **SaaS kullanırken verilerim nerede saklanır?**
 

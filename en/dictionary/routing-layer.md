@@ -22,7 +22,7 @@ It operates in API gateways, microservice architectures, and AI model routers.
 
 It is not a database that directly stores data; it is simply a traffic cop that manages traffic.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does the routing layer do?**
 

@@ -2,6 +2,8 @@
 
 *Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
+> STT
+
 Speech-to-Text (kurz STT, Speech to Text) ist die Technologie, die Sprache in geschriebenen Text umwandelt.
 
 ## Definition und Wortherkunft
@@ -42,7 +44,7 @@ Man geht davon aus, dass es sich um Text-to-Speech handelt. Es wandelt diesen Te
 **Schreibmaschine:** Schreiben Sie nicht, was gesagt wird.
 **Untertitelraum:** Vorbereitung von Texten für die Veröffentlichung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Versteht er jeden Akzent?**
 

@@ -45,7 +45,7 @@ Regra: O que não é pontuado não é melhorado. Cada versão passa pelo conjunt
 **Construção:** O arquiteto que desenha o projeto e o engenheiro que gerencia o canteiro de obras.
 **Culinária:** O chef que escreve a receita e a operação que a expande para a rede.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É necessário conhecer código para se tornar um engenheiro de IA?**
 

@@ -41,7 +41,7 @@ Regla: no pase mientras tenga el trabajo guardado, confírmelo o guárdelo prime
 **Archivo:** Retire la carpeta del almacenamiento y examínela.
 **Fotografía:** No dejes que lo negativo te presione.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Solo descarga archivos?**
 

@@ -22,7 +22,7 @@ Se utiliza en transacciones financieras, transferencias de propiedad y gestión 
 
 Puede confundirse con una simple firma digital, pero los contratos inteligentes contienen una lógica de transacción.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede cambiar?**
 

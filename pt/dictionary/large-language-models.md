@@ -24,7 +24,7 @@ Eles são usados ​​em chatbots, ferramentas de resumo de texto, auxiliares d
 
 É o mesmo conceito do termo LLM, mas este termo é a versão integral.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todo modelo importante é uma inteligência artificial?**
 

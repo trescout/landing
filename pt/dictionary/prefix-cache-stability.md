@@ -22,7 +22,7 @@ O sistema bloqueia as informações que o modelo utiliza com mais frequência ou
 
 Pode ser confundido com cache KV; O cache KV é a memória do modelo em tempo de execução e esta é uma estratégia que garante que a memória permaneça estável.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Este método aumenta a precisão?**
 

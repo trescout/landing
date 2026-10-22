@@ -22,7 +22,7 @@ Sunucularda, yüksek performanslı bilgisayarlarda ve NAS cihazlarında kullanı
 
 Sadece depolama alanı eklemekle karıştırılabilir, ancak bu bir hızlandırma stratejisidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **SSD'nin ömrünü azaltır mı?**
 

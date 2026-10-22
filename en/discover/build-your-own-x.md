@@ -45,7 +45,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Varies · depending on the project you choose
 - **Format:** Step by step guide collection
 - **Fee:** Free
-- **License:** Belirtilmemiş · ayrıntı aşağıda
+- **License:** Not specified · detail below
 
 **License:** ⚠️ No license specified. Copyright 'all rights reserved': free to read and follow, but copying and republishing content requires permission.
 

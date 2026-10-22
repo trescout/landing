@@ -22,7 +22,7 @@ It is used in corporate information systems, technical support bots and artifici
 
 It is similar to the RAG system, but here the emphasis is on keeping information in a more organized and encyclopedic structure.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is LLM-Wiki necessary?**
 

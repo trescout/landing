@@ -22,7 +22,7 @@ Il est indispensable dans tous les processus de développement logiciel modernes
 
 Ce n'est pas la même chose qu'une sauvegarde, car il gère non seulement les fichiers, mais aussi l'historique des modifications.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je l'utiliser ?**
 

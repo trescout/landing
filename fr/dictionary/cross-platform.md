@@ -22,7 +22,7 @@ Il est largement utilisé dans les projets de développement d'applications mobi
 
 Il se distingue ainsi des applications natives enfermées sur un seul appareil.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-il privilégié ?**
 

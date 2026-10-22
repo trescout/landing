@@ -33,7 +33,7 @@ Die Jupyter-Infrastruktur basiert auf einer lose gekoppelten dreischichtigen Arc
 - Hidden-State-Risiko: Die Möglichkeit, Zellen statt in der Reihenfolge von oben nach unten in einer zufälligen Reihenfolge auszuführen (Out-of-Order-Execution), kann im Speicher verborgene zustandsbezogene Variablen hinterlassen. Dies kann dazu führen, dass andere Personen bei der Ausführung desselben Notizbuchs andere Ergebnisse erhalten oder Fehler verursachen (Reprodubilitätskrise).
 - Herausforderungen bei der Versionskontrolle (Git): Da .ipynb-Dateien rich outputs und Base64-Grafiken enthalten, ist es schwierig, Zeilendifferenzen (diff) in Git zu untersuchen und Merge-Konflikte zu lösen. Um dieses Problem zu umgehen, werden Tools wie jupytext (ein Tool, das Notizbücher mit sauberem Markdown oder Python-Skripten synchronisiert) und nbdime verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Jupyter Notebook und woher kommt seine Bedeutung?**
 

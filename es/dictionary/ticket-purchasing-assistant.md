@@ -22,7 +22,7 @@ Está disponible en apps de viajes, plataformas de eventos o asistentes digitale
 
 Puede confundirse con un simple buscador, pero este asistente tiene la capacidad de 'completar' el proceso.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es seguro?**
 

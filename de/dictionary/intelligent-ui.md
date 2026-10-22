@@ -22,7 +22,7 @@ Es findet zunehmend Anwendung in modernen mobilen Apps, intelligenten Assistente
 
 Es unterscheidet sich von klassischen dynamischen Oberflächen; hier werden Entscheidungen nicht durch feste Regeln, sondern durch KI-Modelle getroffen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sieht Intelligent UI für jeden Nutzer anders aus?**
 

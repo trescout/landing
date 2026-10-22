@@ -22,7 +22,7 @@ Es wird verwendet, um politische Wahlergebnisse vorherzusagen, wirtschaftliche T
 
 Es kann mit dem Aktienmarkt verwechselt werden, aber während sich der Aktienmarkt auf den Unternehmenswert konzentriert, konzentriert sich der Prognosemarkt direkt auf die Wahrscheinlichkeit des Eintretens bestimmter zukünftiger Ereignisse.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind Prognosemärkte besser als herkömmliche Umfragen?**
 

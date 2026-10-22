@@ -24,7 +24,7 @@ Você abre o terminal ou aplicativo de linha de comando, digita o nome do progra
 
 É diferente dos programas normais com interface gráfica, é totalmente baseado em texto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É difícil aprender ferramentas CLI?**
 

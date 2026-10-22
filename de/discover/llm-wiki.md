@@ -2,12 +2,13 @@
 
 LLM Wiki ist eine plattformübergreifende Desktop-Anwendung, die Dokumente automatisch organisiert und in eine vernetzte Wissensdatenbank umwandelt. Im Gegensatz zur herkömmlichen Retrieval-Augmented Generation (RAG)-Methode erstellt sie ein dauerhaftes Wiki aus Ihren Quellen und hält die Daten schrittweise auf dem neuesten Stand.
 
-- ★ 20.034
+- ★ 20.878
 - TypeScript
 - GitHub Trending · 2026-09-11
 
 ## Aktualisierungen
 
+- **22. Oktober 2026:** Sterne 20,034 → 20,878, neueste Version v0.6.13 (22. Oktober 2026).
 - **28. September 2026:** Sterne 19,414 → 20,034, neueste Version v0.6.12 (28. September 2026).
 - **14. September 2026:** Sterne 18,359 → 19,414, neueste Version v0.6.11 (25. August 2026).
 - **11. September 2026:** Sterne 18,355 → 18,359, neueste Version v0.6.11 (25. August 2026).

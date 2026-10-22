@@ -40,7 +40,7 @@ Pour que les moteurs de recherche (Google) puissent indexer un article, ils doiv
 
 La généralisation des modèles de paywall a entraîné un dilemme sociétal majeur : alors que les fausses informations, la désinformation, les contenus sensationnalistes et les pièges à clics (clickbait) se propagent généralement de manière totalement gratuite et sans entrave sur Internet, le journalisme de qualité, indépendant, vérifié et basé sur des recherches approfondies est verrouillé derrière des murs de paiement. Cette situation crée un débat sur la polarisation et la fracture de l'information au sein de la société, où « ceux qui ont les moyens accèdent à une information véridique, tandis que les autres sont exposés à la manipulation ».
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie Paywall et quelle est sa fonction principale ?**
 

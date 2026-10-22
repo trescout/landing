@@ -56,7 +56,7 @@ As of Git version 2.23, the confusing multitasking of the git checkout command h
 | Biggest Risk | Cart abandonment, duplicate checkout | Losing unsaved working directory changes |
 | Modern Approach | Apple/Google Pay, Headless Checkout | Using git switch and git restore |
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the general meaning of the word Checkout?**
 

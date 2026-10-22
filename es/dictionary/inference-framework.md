@@ -22,7 +22,7 @@ Se utiliza al configurar servicios de API de inteligencia artificial, al ejecuta
 
 Se suele confundir con los marcos de entrenamiento (PyTorch, TensorFlow, etc.); mientras que los marcos de entrenamiento se centran en el aprendizaje de pesos y la propagación hacia atrás, los marcos de inferencia simplemente maximizan la velocidad de respuesta de un modelo ya preparado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se prefiere un marco de inferencia en lugar de usar PyTorch directamente?**
 

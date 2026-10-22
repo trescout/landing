@@ -18,7 +18,7 @@ Ao escrever código, você define os tipos de variáveis ​​(como número, te
 
 É usado para reduzir a margem de erro em linguagens de programação modernas e projetos de software de grande escala.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é a vantagem de ter segurança de tipo?**
 

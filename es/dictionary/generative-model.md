@@ -22,7 +22,7 @@ Se utilizan en áreas que requieren creatividad, como la producción visual art�
 
 Suelen confundirse con modelos que se limitan a clasificar lo existente; mientras que estos se centran en crear algo nuevo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Los modelos productivos siempre dicen la verdad?**
 

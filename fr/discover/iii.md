@@ -77,7 +77,7 @@ npm install iii-sdk
 - **Difficulté:** Outil de développement avancé
 - **Quelles offres:** Composition du service + observabilité
 - **Frais:** Open source (voir note de licence)
-- **Licence:** Belirtilmemiş · ayrıntı aşağıda
+- **Licence:** Non précisé · détail ci-dessous
 
 **Licence:** ⚠️ Aucune licence n'est précisée dans le repo ; cela signifie « tous droits réservés » par défaut. Vous pouvez essayer de l'essayer, mais la réutilisation du code et l'utilisation commerciale nécessiteront l'autorisation explicite de l'auteur jusqu'à ce qu'une licence claire soit ajoutée.
 

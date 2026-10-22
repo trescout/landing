@@ -43,7 +43,7 @@ Os dados brutos podem ser baixados do arquivo Planet.osm. As imagens do mapa sã
 **Software de código aberto:** O kernel Linux, que cresce com contribuições voluntárias.
 **Ciência cidadã:** A coleta de registros de observação de aves em um banco de dados comum.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É realmente gratuito?**
 

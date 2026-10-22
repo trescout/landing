@@ -44,7 +44,7 @@ Eles são confundidos com modelos de texto. Porém, quem produz recursos visuais
 **Compositor:** Nova melodia com notas.
 **Escritor:** Nova história com palavras.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Isso viola direitos autorais?**
 

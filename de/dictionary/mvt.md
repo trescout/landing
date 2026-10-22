@@ -24,7 +24,7 @@ Es wird in Marketingkampagnen, Homepages von E-Commerce-Websites und Prozessen z
 
 Es wird oft mit A/B-Tests verwechselt, bei denen zwei verschiedene Versionen eines einzelnen Artikels verglichen werden, während MVT mehrere Artikel gleichzeitig testet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist für eine MVT erforderlich?**
 

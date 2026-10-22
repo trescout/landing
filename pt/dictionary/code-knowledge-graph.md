@@ -22,7 +22,7 @@ Primeiro, a base de código é escaneada e todos os componentes são extraídos 
 
 É diferente dos sistemas clássicos de busca baseados em texto; em vez de correspondência de texto, ele revela os vínculos semânticos e arquitetônicos do código.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o Grafo de Conhecimento de Código é usado em vez da busca de texto simples?**
 

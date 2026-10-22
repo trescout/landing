@@ -24,7 +24,7 @@ Es wird in intelligenten Assistenten, Datenanalysetools und Software zur Automat
 
 Es wird oft mit allgemeinen KI-Funktionen verwechselt, dabei handelt es sich jedoch um spezielle Tools, die für eine bestimmte Aufgabe hinzugefügt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verfügt jedes KI-Modell über KI-Fähigkeiten?**
 

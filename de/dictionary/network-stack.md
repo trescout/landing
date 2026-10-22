@@ -45,7 +45,7 @@ Beim Erreichen des Zielservers wird der Vorgang umgekehrt (Entkapselung); Schich
 - DPDK (Data Plane Development Kit): Umgeht den Kernel vollständig; Die Anwendung im Benutzerbereich greift ohne Kopien direkt auf den Netzwerkkartenspeicher zu.
 - QUIC / HTTP/3: Anstelle von Core-TCP auf der Transportschicht wurde auf ein UDP-basiertes verschlüsseltes Protokoll umgestellt, das im Userspace läuft und Head-of-Line-Blocking überwindet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Netzwerk-Stack und was ist sein türkisches Äquivalent?**
 

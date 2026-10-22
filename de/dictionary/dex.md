@@ -24,7 +24,7 @@ Es wird beim Handel mit Krypto-Assets und in der Welt der dezentralen Finanzen (
 
 Es sollte nicht mit zentralisierten Börsen (CEX) verwechselt werden; bei zentralisierten Börsen liegen Ihre Vermögenswerte unter der Kontrolle des Unternehmens.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist eine Registrierung erforderlich, um eine DEX zu nutzen?**
 

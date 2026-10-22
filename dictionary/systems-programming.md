@@ -22,7 +22,7 @@ Geliştiriciler doğrudan bellek yönetimi ve eşzamanlılık kontrolü sunan di
 
 Uygulama programlama ile karıştırılmamalıdır: Uygulama programlama kullanıcıya yönelik yazılımlar üretirken, sistem programlama bu yazılımların üzerinde çalıştığı alt yapıyı kurar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sistem programlamada en çok hangi diller kullanılır?**
 

@@ -51,7 +51,7 @@ Equipes de engenharia de sucesso transformam trechos de código de um hábito in
 - Snippets no repositório (.vscode/): Graças aos arquivos de snippet comuns adicionados ao repositório do projeto, um novo desenvolvedor que se junta à equipe escreve o cliente API padrão da empresa ou modelo de teste com as convenções corretas desde o primeiro dia.
 - Snippets de Documentação: botões de “copiar” na documentação de plataformas de sucesso como Stripe ou Tailwind são uma ferramenta moderna que melhora a experiência do desenvolvedor (DX).
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que significa trecho de código (Code snippet)?**
 

@@ -22,7 +22,7 @@ Se encuentra con frecuencia en amplificadores de señal Wi-Fi, protocolos de tra
 
 Aunque es similar al proxy, la retransmisión generalmente representa la transmisión en la capa física o de red.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no nos conectamos directamente?**
 

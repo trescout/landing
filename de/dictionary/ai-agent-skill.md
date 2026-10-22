@@ -22,7 +22,7 @@ Es wird häufig in KI-Agentenplattformen und Automatisierungstools verwendet.
 
 Es kann mit allgemeiner Intelligenz verwechselt werden; Eine Fertigkeit ist das Mittel des Agenten, eine bestimmte Aufgabe zu erledigen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie erlernen Agenten neue Fähigkeiten?**
 

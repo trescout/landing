@@ -22,7 +22,7 @@ Es arbeitet ständig im Hintergrund an generativen Modellen der künstlichen Int
 
 Es kann mit einer Vektordatenbank verwechselt werden, aber die Vektordatenbank ist eine permanente, außerhalb gespeicherte Datenbank, während der latente Raum ein temporärer abstrakter Raum ist, in dem das Modell in sich selbst denkt und sofortige Berechnungen durchführt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann der latente Raum mit dem menschlichen Auge gesehen werden?**
 

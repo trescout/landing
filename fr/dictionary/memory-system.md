@@ -22,7 +22,7 @@ Il est utilisé dans les assistants personnels, les outils d’intelligence arti
 
 Elle peut être confondue avec la fenêtre contextuelle ; la fenêtre contextuelle est une mémoire à court terme tandis que le système de mémoire est une mémoire permanente ou à long terme.
 
-## Questions fréquentes
+## Questions et réponses
 
 **La mémoire peut-elle être effacée ?**
 

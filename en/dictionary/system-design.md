@@ -22,7 +22,7 @@ It is used in the initial stages of software development projects and when estab
 
 It is confused with coding; Coding is construction workmanship, system design is architectural project.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it necessary for every project?**
 

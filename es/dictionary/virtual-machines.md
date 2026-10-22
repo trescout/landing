@@ -42,7 +42,7 @@ Se confunde con un contenedor. La máquina es un sistema completo, el contenedor
 **Apartamento:** Edificio común, espacio privado.
 **Maleta:** Transporte compartimentado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Lo ralentiza?**
 

@@ -22,7 +22,7 @@ RAG sistemlerinde, büyük ölçekli arama motorlarında ve öneri sistemlerinde
 
 Vector Database ile karıştırılabilir; vector indexing bu veritabanının içindeki düzenleme ve haritalama yöntemidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden klasik arama yerine bunu kullanıyoruz?**
 

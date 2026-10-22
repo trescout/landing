@@ -22,7 +22,7 @@ It is used in personal assistants, artificial intelligence working on long-term 
 
 It may be confused with the context window, but the context window only covers the current conversation.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does this memory last forever?**
 

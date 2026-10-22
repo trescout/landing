@@ -22,7 +22,7 @@ Analyse de documents juridiques, systèmes d'aide au diagnostic médical et robo
 
 C'est similaire au réglage fin, mais ici l'accent est mis sur l'ensemble précis de règles que le modèle doit suivre plutôt que sur ses pondérations globales.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi faisons-nous cela ?**
 

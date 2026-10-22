@@ -24,7 +24,7 @@ Es wird bei Cybersicherheitsuntersuchungen und forensischen Analysen eingesetzt.
 
 Im Gegensatz zu Allzweck-Virenscannern konzentriert es sich auf die Erkennung spezifischer und zielgerichteter Spyware.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann es jeder nutzen?**
 

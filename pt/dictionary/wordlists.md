@@ -30,7 +30,7 @@ Pensa-se que é um banco de dados. No entanto, são arquivos de texto simples. U
 **Chaveiro:** Chaves testadas.
 **Roda de senha:** Roda de probabilidade.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Isso é legal?**
 

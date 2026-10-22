@@ -63,7 +63,7 @@ L'un des risques les plus critiques rencontrés dans les produits logiciels est 
 - Le coefficient de complexité (complexité cyclomatique) et le coût de maintenance de la base de code augmentent de manière logarithmique.
 Le principe fondamental de la philosophie Unix est le suivant : « Faites une seule chose et faites-la bien. » Les produits numériques les plus performants ne sont pas ceux qui possèdent des centaines de fonctionnalités médiocres, mais ceux qui en possèdent quelques-unes, essentielles, et qui fonctionnent parfaitement.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que signifie « features » et quel est son équivalent en turc ?**
 

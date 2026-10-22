@@ -22,7 +22,7 @@ O usuário insere um prompt, o modelo analisa esse comando e cria o texto organi
 
 Pode ser confundido com preenchimento automático, mas a geração de texto é muito mais abrangente e criativa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A inteligência artificial comete erros na hora de produzir texto?**
 

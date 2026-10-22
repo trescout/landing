@@ -22,7 +22,7 @@ It is a critical concept addressed in compiler development processes, low-level 
 
 It is different from simple programming bugs; it means that the language's fundamental promise of reliability is fundamentally shaken.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it seen in every programming language?**
 

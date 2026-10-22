@@ -22,7 +22,7 @@ Yapay zekâ model eğitimlerinde, fizik simülasyonlarında ve mühendislik hesa
 
 Basit cebirsel denklemlerle karıştırılabilir; ancak bu denklemler sadece sabit değerleri değil, değişimin kendisini hesaplar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ neden bu denklemleri kullanır?**
 

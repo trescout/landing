@@ -45,7 +45,7 @@ It is considered an application. The application is large and compilable, the sc
 **Recipe card:** Short measured instruction.
 **Automat:** A mechanism that works by pressing the coin.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can anyone write?**
 

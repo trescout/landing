@@ -22,7 +22,7 @@ Il est utilisé dans les applications mobiles ou les assistants personnels d’i
 
 Mélangé avec des bases de données externes ; les externes sont destinés aux données volumineuses, celui-ci est axé sur la vitesse.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-il adapté au Big Data ?**
 

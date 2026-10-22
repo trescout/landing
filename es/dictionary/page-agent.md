@@ -22,7 +22,7 @@ Se utiliza para rastrear precios en sitios de comercio electrónico, completar f
 
 Se puede confundir con los modelos de agentes de IA de uso general, pero solo se centra en el navegador web.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es seguro el agente de página?**
 

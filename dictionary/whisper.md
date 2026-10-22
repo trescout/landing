@@ -42,7 +42,7 @@ Genel transkripsiyonla karışır. Whisper bir modeldir, transkripsiyon iştir. 
 
 *Gürültüde bile her kelimeyi yakalayan dikkatli sekreter gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Kendi uygulamamda kullanabilir miyim?**
 

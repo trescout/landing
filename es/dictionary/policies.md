@@ -22,7 +22,7 @@ Se utiliza en sistemas en la nube, redes corporativas e infraestructuras de auto
 
 Dibuja los límites administrativos y de seguridad en lugar de la lógica técnica del código.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante?**
 

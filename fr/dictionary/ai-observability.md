@@ -22,7 +22,7 @@ Il est utilisé dans les applications d’intelligence artificielle de productio
 
 On la confond avec la surveillance ; la surveillance est simplement « est-ce que ça marche ? » l'observabilité demande « pourquoi ça marche comme ça ? » se concentre sur la question.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce nécessaire ?**
 

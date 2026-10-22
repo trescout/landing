@@ -37,7 +37,7 @@ Uzun süreli hafız sanılır. O kalıcı profildir, bu geçici tezgahtır. Otur
 
 *Matematik çözerken kenara alınan geçici notlar gibidir; problem bitince önemi kalmaz.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Dolarsa ne olur?**
 

@@ -22,7 +22,7 @@ E-ticaret sitelerinde veya kişiselleştirilmiş yapay zekâ asistanlarında kul
 
 Sadece basit bir kullanıcı takibi değildir, veriden bir anlam çıkarma sürecidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu gizliliği ihlal eder mi?**
 

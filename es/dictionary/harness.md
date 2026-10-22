@@ -44,7 +44,7 @@ Se confunde con el software mismo. Sin embargo, el harness no es el código, sin
 **Cinturón de seguridad:** Mecanismo que sujeta en caso de colisión.
 **Entrenamiento:** Pista de medición de rendimiento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario?**
 

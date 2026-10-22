@@ -24,7 +24,7 @@ Aparece en análisis de ciberseguridad, debates sobre privacidad de datos e info
 
 A menudo se piensa que es simplemente un software o una herramienta, cuando en realidad es una agencia gubernamental.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué hace la NSA?**
 

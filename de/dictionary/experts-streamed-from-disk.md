@@ -22,7 +22,7 @@ Es wird insbesondere von Entwicklern verwendet, die sehr große Sprachmodelle au
 
 Es könnte mit dem Laden des gesamten Modells in den Arbeitsspeicher verwechselt werden; hier findet das Laden jedoch nur bei Bedarf statt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verringert diese Methode die Geschwindigkeit?**
 

@@ -22,7 +22,7 @@ Es wird häufig in Cloud-Systemen, API-Verbindungen und verschlüsselten Dateifr
 
 Es ähnelt einem Passwort, die Schlüssel sind jedoch normalerweise länger und bestehen aus zufälligen Zeichen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum einen Schlüssel anstelle eines Passworts verwenden?**
 

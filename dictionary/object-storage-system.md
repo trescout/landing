@@ -22,7 +22,7 @@ Bulut depolama hizmetlerinde, büyük veri yedeklemelerinde ve medya içerikleri
 
 Normal sabit disk dosya sistemleri ile karıştırılabilir; ancak bu sistem çok daha büyük veriler için tasarlanmıştır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden klasör kullanmıyor?**
 

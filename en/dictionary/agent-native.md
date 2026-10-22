@@ -22,7 +22,7 @@ It is used in autonomous software development tools and complex task management 
 
 Their difference from ordinary chatbots is that they do not just respond but take action.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if these systems make mistakes?**
 

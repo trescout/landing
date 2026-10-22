@@ -24,7 +24,7 @@ Os desenvolvedores enviam o código escrito nesta linguagem para a placa de víd
 
 É confundida com linguagens de programação de propósito geral; o HLSL é especializado apenas para cálculos gráficos (shaders).
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Aprender HLSL é difícil?**
 

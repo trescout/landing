@@ -22,7 +22,7 @@ Se utiliza en todos los campos tecnológicos como el desarrollo de software, el 
 
 A diferencia de simplemente aprender a usar una computadora, su objetivo es comprender en profundidad por qué y cómo funciona la computadora.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Saber codificar es suficiente?**
 

@@ -45,7 +45,7 @@ Souvent confondu avec la science des données. Le data scientist extrait du sens
 **Construction :** L'architecte qui dessine le projet et l'ingénieur qui gère le chantier.
 **Cuisine :** Le chef qui écrit la recette et l'opération qui la diffuse à la chaîne.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-il nécessaire de connaître le code pour devenir ingénieur en IA ?**
 

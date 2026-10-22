@@ -22,7 +22,7 @@ It is frequently encountered in Wi-Fi signal boosters, email transmission protoc
 
 Although similar to proxy, relay generally represents transmission at the physical or network layer.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we connect directly?**
 

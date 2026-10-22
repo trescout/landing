@@ -24,7 +24,7 @@ Es obligatorio en software empresarial, sistemas financieros y proyectos donde t
 
 Puede confundirse con la base de datos central; Este es un principio de gestión más que una técnica.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es difícil este principio?**
 

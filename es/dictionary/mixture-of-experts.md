@@ -24,7 +24,7 @@ Se utiliza en la mayoría de los modelos modernos de inteligencia artificial a g
 
 Podría confundirse con el procesamiento de todos los datos por parte de un único modelo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo se seleccionan los expertos?**
 

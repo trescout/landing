@@ -32,7 +32,7 @@ Darüber hinaus steht die Feinabstimmung für kulturelle und sprachliche Gerecht
 - Training mit Junk-Daten: Schlechte Qualität oder inkonsistente Datensätze schwächen die logische Denkfähigkeit des Modells.
 - Überanpassung: Das Training des Modells mit übermäßigen Iterationen an einem kleinen Datensatz führt zum Auswendiglernen und zerstört die Kraft der Generalisierung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist der Hauptunterschied zwischen Fine-Tuning und RAG?**
 

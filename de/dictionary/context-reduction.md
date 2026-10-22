@@ -22,7 +22,7 @@ Es wird in RAG-Systemen, bei der Analyse großer Dokumente und bei Langzeitgespr
 
 Es geht nicht nur darum, die Daten zu kürzen, sondern sie auch mit Bedacht auszuwählen und in ein Format zu formatieren, das das Modell verstehen kann.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kommt es zu Informationsverlusten?**
 

@@ -22,7 +22,7 @@ Ao usar essas ferramentas, primeiro você define o objetivo do seu projeto. A fe
 
 Não deve ser confundido com plug-ins de IA que simplesmente completam o código; Essas ferramentas gerenciam o processo enquanto oferecem apenas sugestões.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essas ferramentas substituirão os desenvolvedores de software?**
 

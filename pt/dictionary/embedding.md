@@ -22,7 +22,7 @@ Ao ler textos enormes, o modelo de inteligência artificial aprende em que conte
 
 Muitas vezes é pensado apenas como um método de tradução, mas não é uma tradução, mas uma colocação matemática de significado no espaço.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não usamos apenas palavras?**
 

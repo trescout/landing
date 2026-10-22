@@ -24,7 +24,7 @@ It is used in official correspondence, e-books, invoices and academic articles.
 
 It can be confused with Word files, but Word is editable while PDF is usually pinned.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can I edit the PDF?**
 

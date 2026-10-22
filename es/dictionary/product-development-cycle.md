@@ -47,7 +47,7 @@ Puede confundirse con la gestión de proyectos (project management). La gestión
 **Agricultura:** Ciclo de temporada desde la siembra hasta la cosecha.
 **Libro:** Proceso de publicación desde el borrador hasta la impresión.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo afecta la inteligencia artificial a este ciclo?**
 

@@ -41,7 +41,7 @@ Die Plugin-Architektur ist ebenfalls entscheidend: Kontaktformulare, Caching- un
 **Bibliothek:** Das Katalogsystem, das die Regale ordnet.
 **Einzelhandel:** Das Ladenlayout, das den Regalplan verwaltet.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Muss ich Softwareentwickler sein, um CMS nutzen zu können?**
 

@@ -24,7 +24,7 @@ Aparece nas barras de endereço dos navegadores da web e nos processos de compra
 
 Pode ser confundido com o nome de domínio (domain); o nome de domínio é o nome completo do site, enquanto este é apenas a parte final.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que existem extensões diferentes?**
 

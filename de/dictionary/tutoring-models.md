@@ -22,7 +22,7 @@ Es wird in Bildungsplattformen, Sprachlernanwendungen und akademischen Unterstü
 
 Der Unterschied zu Chatbots, die nur Fragen und Antworten beantworten, besteht darin, dass er einer lehrorientierten Strategie folgt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann es jedes Fach unterrichten?**
 

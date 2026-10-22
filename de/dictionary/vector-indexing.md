@@ -22,7 +22,7 @@ Es wird in RAG-Systemen, großen Suchmaschinen und Empfehlungssystemen eingesetz
 
 Kann mit Vector Database verwechselt werden; Die Vektorindizierung ist die Methode zur Organisation und Zuordnung innerhalb dieser Datenbank.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir dies anstelle der klassischen Suche?**
 

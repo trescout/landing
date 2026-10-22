@@ -24,7 +24,7 @@ Oyun motorlarında (DirectX tabanlı) ve grafik uygulamalarında kullanılır.
 
 Genel amaçlı programlama dilleriyle karıştırılır; HLSL sadece grafik hesaplamaları (shader) için özelleşmiştir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **HLSL öğrenmek zor mu?**
 

@@ -22,7 +22,7 @@ Il est situé au centre des paramètres de noms de domaine et des infrastructure
 
 Cela peut être confondu avec l’hébergement ; l'hébergement est l'endroit où les fichiers de votre site sont stockés et le serveur de noms est le chemin pour y accéder.
 
-## Questions fréquentes
+## Questions et réponses
 
 **À quoi sert la modification des paramètres du serveur de noms ?**
 

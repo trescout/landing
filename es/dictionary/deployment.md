@@ -41,7 +41,7 @@ Incluso en los entornos de prueba más avanzados, existen dos salvavidas fundame
 - Development vs Deployment: Development (desarrollo) es el chef preparando y probando el plato en la cocina; Deployment (despliegue) es cuando el plato se sirve en la mesa y se pone a disposición de los clientes para su consumo.
 - Deployment vs Release: El deployment es una acción técnica; se refiere a la carga del código en el servidor. El release, en cambio, es hacer que una función sea visible para los usuarios, realizar el anuncio de marketing y habilitarla oficialmente por parte de la unidad de negocio.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa deployment y cuál es su equivalente en español?**
 

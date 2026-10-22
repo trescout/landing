@@ -22,7 +22,7 @@ Uma breve gravação da voz da pessoa é analisada. A inteligência artificial a
 
 É confundido com trocador de voz; Enquanto a substituição de voz apenas manipula o tom, a clonagem copia completamente o caráter falante da pessoa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Esta tecnologia é segura?**
 

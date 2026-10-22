@@ -22,7 +22,7 @@ Il joue un rôle essentiel dans les serveurs cloud, les serveurs domestiques per
 
 Cela peut être confondu avec l'administration de serveurs, mais il s'agit d'un domaine spécialisé qui se concentre uniquement sur la sécurité.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi réalisons-nous une étude de sécurité distincte spécifiquement pour les serveurs Linux ?**
 

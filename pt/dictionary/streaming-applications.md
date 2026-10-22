@@ -22,7 +22,7 @@ A aplicação estabelece uma conexão permanente com o servidor. O fluxo de dado
 
 É confundido com download; No download você não consegue assistir sem comprar o arquivo inteiro, enquanto no streaming você inicia imediatamente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se a velocidade da minha internet for lenta?**
 

@@ -22,7 +22,7 @@ Es wird in fortschrittlichen KI-Assistenten, Unternehmensinformationssystemen un
 
 Es könnte mit einer einfachen Datenbank verwechselt werden; dieses System speichert die Daten jedoch nicht nur, sondern macht sie auch für die künstliche Intelligenz sinnvoll nutzbar.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich es immer verwenden?**
 

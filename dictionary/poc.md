@@ -48,7 +48,7 @@ Prototip sanılır. Prototip ürün örneğidir, PoC yapılabilirlik deneyidir. 
 
 *Bina dikmeden maket yapmak veya yemeği menüye eklemeden evde denemek gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Başarılı olursa ne olur?**
 

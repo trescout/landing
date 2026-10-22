@@ -22,7 +22,7 @@ Bulut bilişim sistemleri, veri tabanları ve yüksek trafikli web servisleri.
 
 Sadece 'hızlı olmak' değildir, kaynak artışıyla performans artışının oranlı olmasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her sistem doğrusal ölçeklenemez?**
 

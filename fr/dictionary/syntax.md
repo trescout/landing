@@ -22,7 +22,7 @@ Utilisé dans tous les langages de programmation et les langages de script.
 
 Souvent confondu avec les erreurs logiques ; alors qu'une erreur de syntaxe empêche le code de s'exécuter, une erreur logique entraîne un résultat incorrect.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que dois-je faire si je reçois une erreur de syntaxe ?**
 

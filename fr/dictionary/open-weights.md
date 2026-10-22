@@ -22,7 +22,7 @@ Il est utilisé par les entreprises et les chercheurs qui souhaitent exécuter l
 
 Il est mélangé à des logiciels open source ; Open Weights fournit la structure interne du modèle, mais parfois les données utilisées pour entraîner le modèle lui-même peuvent rester privées.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Puis-je tout changer sur le modèle avec Open Weights ?**
 

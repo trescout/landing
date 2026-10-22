@@ -24,7 +24,7 @@ Es wird häufig in Softwareentwicklungsprozessen, Serververwaltungs- und Automat
 
 Es unterscheidet sich von normalen Programmen mit grafischer Oberfläche, es ist vollständig textbasiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es schwierig, CLI-Tools zu erlernen?**
 

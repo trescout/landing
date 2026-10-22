@@ -22,7 +22,7 @@ Les véhicules autonomes sont utilisés dans la planification logistique et les 
 
 C'est similaire à l'esprit de ruche ; Cependant, swarm fait référence à une collaboration plus dynamique et plus axée sur les tâches.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les essaims sont-ils productifs ?**
 

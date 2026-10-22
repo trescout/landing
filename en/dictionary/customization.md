@@ -37,7 +37,7 @@ It is similar to Personalization. The difference is this: In customization, you 
 **Furniture:** Do not have a cabinet made to measure.
 **Car:** Hardware package selection.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can every software be customized?**
 

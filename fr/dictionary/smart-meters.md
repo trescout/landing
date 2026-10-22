@@ -22,7 +22,7 @@ Il est largement utilisé dans les projets de maisons intelligentes, les réseau
 
 Il ne faut pas le confondre avec de simples affichages numériques qui servent uniquement à lire les compteurs ; les compteurs intelligents offrent une communication de données bidirectionnelle et une automatisation.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment cela affecte-t-il les factures ?**
 

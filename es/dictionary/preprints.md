@@ -22,7 +22,7 @@ Se utilizan intensamente en el mundo académico, especialmente en campos de inve
 
 No deben confundirse con los artículos finales en revistas revisadas por pares; estos son borradores que aún no han recibido la aprobación completa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son fiables los preprints?**
 

@@ -22,7 +22,7 @@ Quando você abre o editor e começa a escrever o código, o sistema executa mod
 
 Não deve ser confundido apenas com um simples editor de texto; Essas ferramentas conhecem a lógica de funcionamento do código.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Este editor escreverá todo o meu código?**
 

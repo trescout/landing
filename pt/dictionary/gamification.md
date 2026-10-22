@@ -35,7 +35,7 @@ Ponto de atenção: Se as sequências e notificações se tornarem uma pressão,
 **Vida profissional:** Níveis de bônus e títulos de campeão de vendas.
 **Varejo:** Cartões de fidelidade e descontos graduais.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Tudo pode ser gamificado?**
 

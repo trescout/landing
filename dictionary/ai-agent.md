@@ -43,7 +43,7 @@ Chatbot sanılır. Chatbot konuşur, ajan aksiyon alır. Sohbet arayüzü aynı 
 
 *Sadece tarif veren kitap değil, mutfağa girip tarife göre yemeği pişiren, eksik malzeme varsa markete gidip alan aşçı yardımcısı gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Agentlar tehlikeli olabilir mi?**
 

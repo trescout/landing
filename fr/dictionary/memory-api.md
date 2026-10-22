@@ -22,7 +22,7 @@ Il est utilisé par les développeurs de logiciels qui développent des applicat
 
 Elle est confondue avec les opérations de base de données, mais il s’agit d’une gestion de la mémoire spécifiquement dans un format compris par les modèles d’intelligence artificielle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tout le monde peut-il utiliser l’API Memory ?**
 

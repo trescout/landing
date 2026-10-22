@@ -24,7 +24,7 @@ Se utiliza para el acceso a Internet en hogares, lugares de trabajo y áreas pú
 
 Puede confundirse con Internet en sí, pero WiFi es solo un método de transporte que te ofrece Internet.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué el WiFi se ralentiza?**
 

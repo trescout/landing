@@ -24,7 +24,7 @@ Es wird in den meisten modernen großen KI-Modellen verwendet, um die Effizienz 
 
 Es könnte mit der Verarbeitung aller Daten durch ein einziges Modell verwechselt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie werden die Experten ausgewählt?**
 

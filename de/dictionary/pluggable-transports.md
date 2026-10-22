@@ -22,7 +22,7 @@ Sie werden in Regionen mit starker Zensur verwendet, um frei auf das Internet zu
 
 Obwohl sie ähnliche Zwecke wie ein VPN erfüllen, sind ihre Funktionsweise und ihre Verschleierungsmethoden spezifischer.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann es jeder nutzen?**
 

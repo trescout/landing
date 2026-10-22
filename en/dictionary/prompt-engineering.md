@@ -22,7 +22,7 @@ It is used in every field where artificial intelligence is interacted, especiall
 
 It might seem like you're just asking questions, but it's a process of strategy and trial and error.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can anyone learn?**
 

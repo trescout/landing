@@ -22,7 +22,7 @@ Você pode começar aprendendo protocolos básicos de rede e segurança do siste
 
 Pode ser confundido com o termo Verificação de Vulnerabilidade; é uma ferramenta, é a habilidade que você tem.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É necessário conhecer código para adquirir habilidades em segurança cibernética?**
 

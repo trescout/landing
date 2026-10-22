@@ -34,7 +34,7 @@ Beyond that, RAG provides transparency and explainability in artificial intellig
 Skipping Reranking: Pushing the initial chunks directly into the prompt via vector similarity alone, without a cross-encoder, invites hallucination.
 - Lost-in-the-Middle Problem: Since LLMs may miss information in the middle of long prompts, the most critical sources should be placed at the beginning or the end.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is the main difference between RAG and Fine-Tuning?**
 

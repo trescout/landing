@@ -24,7 +24,7 @@ Está ativo em todos os canais digitais, como plataformas de redes sociais, meca
 
 Não é o mesmo que marketing; o marketing é a estratégia, enquanto a ad tech são as ferramentas técnicas que implementam essa estratégia.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Afeta a minha privacidade?**
 

@@ -22,7 +22,7 @@ Il est utilisé sur les sites Web pour conserver le contenu d’un panier ou pou
 
 Il est confondu avec la base de données, mais la base de données conserve un enregistrement permanent tandis que la gestion de l'état gère l'état temporaire et instantané.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si l’administration de l’État est corrompue ?**
 

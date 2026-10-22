@@ -80,7 +80,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Binary](https://trescout.com/es/dictionary/binary/)
 
 - **Para quién es:** Para ingenieros que desean automatizar auditorías de seguridad, comprobaciones de claves secretas y generación de SBOM en sus procesos de desarrollo e implementación de software.
-- **Licencia:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Licencia:** Apache-2.0 (Licencia de código abierto que ofrece amplia libertad)
 - **Desarrollador:** Comunidad Aqua Security y Código Abierto
 - **Formatos de salida:** Tabla, JSON, SARIF, CycloneDX, SPDX, Plantilla
 

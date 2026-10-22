@@ -39,7 +39,7 @@ A execução está no formato npm run test. Makefile e Just são alternativas. R
 **Máquina de lavar:** Lavagem programada.
 **Piloto automático:** Rastreamento de rota.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Em quais trabalhos é utilizado?**
 

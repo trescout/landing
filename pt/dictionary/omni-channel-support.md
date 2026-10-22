@@ -22,7 +22,7 @@ As empresas combinam todos os canais de comunicação em um sistema central. Ass
 
 Misturado com suporte multicanal; No suporte multicanal os canais são independentes entre si, enquanto no omnicanal estão todos interligados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o omnicanal é importante?**
 

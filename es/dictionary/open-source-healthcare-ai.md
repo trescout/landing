@@ -22,7 +22,7 @@ Se utiliza en hospitales, centros de investigación médica y aplicaciones de se
 
 Puede confundirse con software de salud comercial, pero el interior de estos modelos es visible para cualquiera.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estos modelos reemplazarán a los médicos?**
 

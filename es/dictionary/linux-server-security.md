@@ -22,7 +22,7 @@ Desempeña un papel fundamental en servidores en la nube, servidores domésticos
 
 Puede confundirse con la administración de servidores, pero este es un campo especializado que se centra únicamente en la seguridad.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué realizamos un estudio de seguridad separado específicamente para servidores Linux?**
 

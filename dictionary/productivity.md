@@ -36,7 +36,7 @@ Yazılım dünyasında üretkenlik satır sayısı (LOC) ile ölçülemez; siste
 
 *Toprağı çıplak elle ya da kürekle günlerce kazmak yerine, hidrolik bir ekskavatör kullanmaya benzer. Ne kadar çok terlediğiniz değil, doğru aletle ne kadar iş başardığınız önemlidir.*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Productivity ne demek, Türkçe karşılığı nedir?**
 

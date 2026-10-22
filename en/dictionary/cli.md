@@ -24,7 +24,7 @@ It is used in software development processes, server management and to run artif
 
 It's confused with a graphical interface (GUI), but the CLI is entirely text-based and offers much more customization.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it necessary to learn CLI?**
 

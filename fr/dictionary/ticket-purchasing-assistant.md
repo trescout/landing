@@ -22,7 +22,7 @@ Il est disponible dans les applications de voyage, les plateformes événementie
 
 Il peut être confondu avec un simple moteur de recherche, mais cet assistant a la capacité de « terminer » le processus.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce sécuritaire?**
 

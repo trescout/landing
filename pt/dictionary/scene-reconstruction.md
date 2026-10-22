@@ -22,7 +22,7 @@ Primeiro, os dados da câmera são coletados, depois o software cria um mapa de 
 
 É semelhante à digitalização 3D, mas esse método geralmente é feito com software por meio de câmeras padrão, em vez de dispositivos especiais de digitalização.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso pode ser feito com apenas uma foto?**
 

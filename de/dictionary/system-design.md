@@ -22,7 +22,7 @@ Es wird in der Anfangsphase von Softwareentwicklungsprojekten und beim Aufbau sk
 
 Es wird mit Codierung verwechselt; Codierung ist Konstruktionsarbeit, Systemdesign ist Architekturprojekt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es für jedes Projekt notwendig?**
 

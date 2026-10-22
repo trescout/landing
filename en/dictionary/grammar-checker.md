@@ -22,7 +22,7 @@ It is frequently used in emails, academic articles, blog posts and daily messagi
 
 Can be confused with AI-based copywriters; However, these tools focus on improving existing content rather than producing content.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does Grammar Checker always give accurate results?**
 

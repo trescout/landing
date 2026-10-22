@@ -22,7 +22,7 @@ Lo encontramos con frecuencia en aplicaciones web, sistemas de gestión de sesio
 
 No debe confundirse solo con el historial del navegador; Si bien el historial solo contiene los sitios visitados, el estado cubre todo el entorno laboral en este momento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Esto desaparece cuando cierro el navegador?**
 

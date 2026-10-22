@@ -22,7 +22,7 @@ Il est utilisé dans le suivi logistique, l’analyse du marché mondial et la g
 
 Il ne faut pas la confondre avec une simple base de données ; Ce n'est pas une base de données, mais une interface qui présente des données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Qui utilise ces panneaux ?**
 

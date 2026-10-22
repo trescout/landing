@@ -24,7 +24,7 @@ Siber güvenlik denetimlerinde ve şifre politikası oluşturma süreçlerinde k
 
 Wordlists ile karıştırılabilir; bu araç o listeleri kullanan bir analiz motorudur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kendi şifremi test edebilir miyim?**
 

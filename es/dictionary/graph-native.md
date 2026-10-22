@@ -22,7 +22,7 @@ Se utiliza en análisis complejos de redes sociales, sistemas de recomendación 
 
 Frecuentemente se confunde con las bases de datos relacionales tradicionales; Sin embargo, este sistema establece relaciones en la etapa de diseño, no más tarde.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería elegir este método?**
 

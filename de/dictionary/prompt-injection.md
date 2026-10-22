@@ -22,7 +22,7 @@ Es tritt als Sicherheitslücke in Chatbots, KI-gestützten Kundendiensten und al
 
 Es unterscheidet sich von klassischen Hacking-Methoden, da hierbei keine ComputerCodes, sondern ausschließlich die Alltagssprache und Wortspiele verwendet werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Funktioniert Prompt Injection bei jedem KI-Modell?**
 

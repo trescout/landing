@@ -24,7 +24,7 @@ On le retrouve dans les automobiles modernes et les véhicules développant une 
 
 Il peut être confondu avec les véhicules autonomes, mais ces systèmes se concentrent sur le contrôle du conducteur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces systèmes peuvent-ils prendre le véhicule sans que je le conduise entièrement ?**
 

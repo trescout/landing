@@ -22,7 +22,7 @@ Sie stoßen häufig auf Codierungsplattformen, Sprachlernanwendungen und Bildung
 
 Kann mit Rohdatensätzen gemischt werden; Diese Sets konzentrieren sich jedoch nur auf das Lernen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum benötige ich einen benutzerdefinierten Datensatz?**
 

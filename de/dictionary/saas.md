@@ -39,7 +39,7 @@ Kann mit PaaS verwechselt werden. SaaS ist eine fertige Anwendung für Endbenutz
 **Mietwohnung:** Die Wartung liegt beim Vermieter, die Nutzung bei Ihnen.
 **Öffentliche Verkehrsmittel:** Transportdienstleistungen in Anspruch nehmen, ohne ein Fahrzeug zu besitzen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Wo werden meine Daten bei der Nutzung von SaaS gespeichert?**
 

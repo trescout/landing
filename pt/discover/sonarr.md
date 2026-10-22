@@ -99,7 +99,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [API](https://trescout.com/pt/dictionary/api/)
 
 - **Para quem é:** Proprietários de servidores domésticos (Homelab), entusiastas de mídia e aqueles que desejam gerenciar seus arquivos de séries sem esforço.
-- **Licença:** GPL-3.0 (Açık kaynak lisansı)
+- **Licença:** GPL-3.0 (licença de código aberto)
 - **Infraestrutura:** Serviço da web baseado em C# e .NET
 - **Porta Web:** Padrão 8989
 

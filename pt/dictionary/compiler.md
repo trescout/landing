@@ -40,7 +40,7 @@ A primeira linha traduz, a segunda executa. O interpretador, por sua vez, execut
 **Impressão:** A conversão do rascunho em matriz de impressão.
 **Culinária:** A transformação da receita em um prato pronto.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O compilador de cada linguagem é diferente?**
 

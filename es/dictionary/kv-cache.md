@@ -24,7 +24,7 @@ Se utiliza en los procesos de trabajo de los LLM y especialmente en las interfac
 
 Puede confundirse con la ventana de contexto, pero no se trata de un límite de capacidad, sino de un método para utilizar esta capacidad de forma eficiente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante la caché KV?**
 

@@ -24,7 +24,7 @@ Se utiliza en asistentes inteligentes, herramientas de análisis de datos y soft
 
 A menudo se confunde con las capacidades generales de la IA, pero se trata de herramientas especializadas que se añaden para realizar un trabajo específico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todos los modelos de IA tienen habilidades de IA?**
 

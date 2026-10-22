@@ -22,7 +22,7 @@ Gelişmiş yapay zekâ asistanlarında, otomasyon platformlarında ve kod geliş
 
 Yapay zekânın kendi zihniyle veya ağırlıklarıyla karıştırılmamalıdır; bunlar dışarıdan eklenen kabiliyet uzantılarıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ hangi araçları kullanabilir?**
 
@@ -36,7 +36,7 @@ Eğer doğru kısıtlamalar ve izinler verilmezse yapay zekâ istem dışı işl
 
 - [AI Agent](https://trescout.com/dictionary/ai-agent/)
 - [Tools](https://trescout.com/dictionary/tools/)
-- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol/)
+- [Model Context Protocol](https://trescout.com/dictionary/mcp/)
 
 ## İlgili araçlar
 

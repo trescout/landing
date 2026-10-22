@@ -22,7 +22,7 @@ On le rencontre fréquemment dans les tournois d'e-sport, les plateformes multij
 
 Il peut être confondu avec les jeux d'action et d'aventure. Les jeux d'action généraux peuvent se concentrer sur la résolution d'énigmes ou le combat rapproché, mais la mécanique principale du genre du jeu de tir est de viser et de tirer.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la principale différence entre un jeu de tir FPS et TPS ?**
 

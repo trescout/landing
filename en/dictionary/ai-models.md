@@ -22,7 +22,7 @@ It is used in image processing tools, text writing applications, recommendation 
 
 It can be confused with all artificial intelligence software; The model is just the 'brain' part of the software.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can every model do every job?**
 

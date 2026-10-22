@@ -22,7 +22,7 @@ Robotik kontrol sistemlerinde, otonom sürüş yazılımlarında ve yüksek hız
 
 Adım adım düşünen geleneksel dil modelleriyle karıştırılmamalıdır, çünkü onlar bir sonraki kelimeyi sırayla tahmin eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her yapay zekâ bu yöntemi kullanmıyor?**
 

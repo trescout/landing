@@ -22,7 +22,7 @@ LLM tabanlı uygulamalarda, hızlı prototipleme süreçlerinde ve kullanıcıla
 
 Few-shot learning ile karıştırılabilir; few-shot'ta modele birkaç örnek verirken, zero-shot'ta hiçbir örnek vermezsiniz.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her zaman doğru çalışır mı?**
 

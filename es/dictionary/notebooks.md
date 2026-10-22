@@ -22,7 +22,7 @@ Se utiliza en análisis de datos, entrenamiento de modelos de inteligencia artif
 
 Su diferencia con los editores de código estándar es que le permite ejecutar el código pieza por pieza y ver el resultado inmediatamente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden usarlo las personas que no saben codificar?**
 

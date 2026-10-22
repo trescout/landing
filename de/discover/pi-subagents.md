@@ -61,7 +61,7 @@ pi install npm:pi-subagents
 - **Schwierigkeit:** Erweiterte Entwicklerbibliothek
 - **Was bietet:** Asynchrone Subagentendelegation
 - **Gebühr:** Open Source (siehe Lizenzhinweis)
-- **Lizenz:** Belirtilmemiş · ayrıntı aşağıda
+- **Lizenz:** Nicht angegeben · Details unten
 
 **Lizenz:** ⚠️ Im Repo ist keine Lizenz angegeben; Die Standardeinstellung ist „Alle Rechte vorbehalten“. Sie können es nachschlagen, um es auszuprobieren, die Wiederverwendung erfordert jedoch die ausdrückliche Genehmigung des Autors.
 

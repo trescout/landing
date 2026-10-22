@@ -22,7 +22,7 @@ Es wird in der Spieleentwicklung, bei Animationsfilmen und in der digitalen Kuns
 
 Es ist nicht dasselbe wie das Zeichnen eines 2D-Bildes, da das, was bemalt wird, ein 3D-Modell mit Volumen ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Welche Programme werden verwendet?**
 

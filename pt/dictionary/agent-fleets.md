@@ -22,7 +22,7 @@ Um sistema centralizado divide a tarefa em partes e atribui cada parte ao repres
 
 É quase igual aos sistemas multiagentes; A ênfase aqui é mais na gestão de “frotas” em grande escala.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como os representantes se entendem?**
 

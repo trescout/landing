@@ -46,7 +46,7 @@ Aunque estos términos se usan a menudo indistintamente en el ecosistema de soft
 
 Con la revolución de la inteligencia artificial, la arquitectura de complementos ha adquirido una dimensión completamente nueva. Los grandes modelos de lenguaje (LLM) han dejado de ser depósitos de información cerrados para convertirse en agentes autónomos capaces de realizar búsquedas en la web, consultar bases de datos y ejecutar acciones a través de API gracias a los complementos y a los mecanismos de "llamada a herramientas/funciones" (Tool/Function Calling). El Model Context Protocol (MCP), desarrollado por Anthropic, constituye el ejemplo más reciente de la arquitectura moderna de complementos al permitir que los LLM se conecten a diversas fuentes de datos y herramientas mediante un protocolo de integración estandarizado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa plugin y cuál es su equivalente en turco?**
 

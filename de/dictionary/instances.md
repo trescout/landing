@@ -22,7 +22,7 @@ Es wird sehr häufig im Cloud-Computing, in der Serververwaltung und bei Spieles
 
 Es sollte nicht mit dem Programm selbst (dem Quellcode) verwechselt werden; der Quellcode ist nur einmal vorhanden, während die laufenden Kopien unbegrenzt sein können.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum führen wir mehrere Kopien aus?**
 

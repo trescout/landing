@@ -22,7 +22,7 @@ Karmaşık web uygulamalarında ve durum yönetimi (state management) gerektiren
 
 State management ile karıştırılabilir; state management bu veriyi yönetme sürecidir, state kernel ise verinin durduğu merkezdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu çekirdek bozulursa ne olur?**
 

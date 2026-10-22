@@ -42,7 +42,7 @@ Yazılımın kendisi sanılır. Oysa ortam, yazılımın içinde yaşadığı ev
 
 *Bir oyunun çalışması için bilgisayarda yüklü olması gereken sürücüler ve sistem dosyaları gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden hata verir?**
 

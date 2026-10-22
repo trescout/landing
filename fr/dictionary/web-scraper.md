@@ -22,7 +22,7 @@ Il est utilisé dans les études de marché, les comparaisons de prix et les ét
 
 Le web scraping peut parfois être confondu avec une simple opération de copier-coller, mais cette méthode est totalement automatique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les données peuvent-elles être récupérées de chaque site ?**
 

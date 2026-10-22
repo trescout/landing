@@ -22,7 +22,7 @@ It is used in operating systems, browsers and artificial intelligence infrastruc
 
 It is confused with C or C++; Rust aims to deliver the same performance in a more secure way.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it so popular?**
 

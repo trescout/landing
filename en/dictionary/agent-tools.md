@@ -22,7 +22,7 @@ Commonly found in advanced AI assistants, automation platforms, and code develop
 
 Should not be confused with the artificial intelligence's own mind or weights; these are externally added capability extensions.
 
-## Frequently asked questions
+## Questions and answers
 
 **What tools can artificial intelligence use?**
 
@@ -36,7 +36,7 @@ If proper restrictions and permissions are not provided, artificial intelligence
 
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 - [Tools](https://trescout.com/en/dictionary/tools/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol/)
+- [Model Context Protocol](https://trescout.com/en/dictionary/mcp/)
 
 ## Related tools
 

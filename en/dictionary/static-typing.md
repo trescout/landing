@@ -22,7 +22,7 @@ It is used in languages ​​such as Java, C++, Rust and TypeScript.
 
 It is confused with dynamically typed languages ​​(such as Python); In dynamic languages, types are determined while the code is running.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are static typed languages ​​harder?**
 

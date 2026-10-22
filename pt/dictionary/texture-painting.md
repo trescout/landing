@@ -22,7 +22,7 @@ Você abre seu modelo em softwares de design tridimensional e, em seguida, usa f
 
 Não é o mesmo que apenas desenhar uma imagem 2D, porque o que está sendo pintado é um modelo 3D que possui volume.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quais programas são utilizados?**
 

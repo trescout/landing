@@ -59,7 +59,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Mittel · Als Fertigkeit zu Claude hinzugefügt
 - **Was bietet:** Offizielle, vorgefertigte Skill-Pakete
 - **Quelle:** Offizielles anthropisches Repository
-- **Lizenz:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Lizenz:** Standard nicht erkannt · Details unten
 
 **Lizenz:** GitHub hat keine Standardlizenz für dieses Repo erkannt. Auch wenn Anthropic über ein offizielles Repository verfügt, überprüfen Sie vor der Wiederverwendung/Verteilung die LIZENZ-Datei im Repo.
 

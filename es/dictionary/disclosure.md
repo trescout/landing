@@ -22,7 +22,7 @@ Involucrado en informes de ciberseguridad, procesos legales de patentes y ciclos
 
 No se trata simplemente de revelar algo, muchas veces es una acción realizada en el marco de una responsabilidad legal o ética.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué es la divulgación responsable?**
 

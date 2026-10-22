@@ -22,7 +22,7 @@ It is used in cyber security tests, software development stages and for browsers
 
 Can be mixed with virtual machines; A sandbox is an insulation space that is generally lighter and specialized for a particular application.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is a sandbox necessary?**
 

@@ -24,7 +24,7 @@ Sie begegnen ihm häufig in Bereichen wie Webentwicklung (CSS, HTML), Datenbankv
 
 Kann mit allgemeinen Programmiersprachen verwechselt werden; Der Unterschied besteht darin, dass der eine versucht, alles zu machen, während der andere sich darauf konzentriert, eine Sache perfekt zu machen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum nutzen wir nicht für jeden Auftrag ein DSL?**
 

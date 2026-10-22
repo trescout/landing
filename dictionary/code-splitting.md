@@ -22,7 +22,7 @@ Büyük ölçekli web uygulamalarında ve kullanıcı deneyimini önemseyen site
 
 Bundling ile karıştırılabilir; bundling dosyaları birleştirirken, code splitting bunları akıllıca parçalara ayırır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kullanıcı sayfaya tıkladığında gecikme olur mu?**
 

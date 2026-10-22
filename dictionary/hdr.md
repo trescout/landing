@@ -24,7 +24,7 @@ Oyunlarda, video düzenleme yazılımlarında ve modern ekranlarda kullanılır.
 
 Sadece parlaklık artırma ile karıştırılır; HDR parlaklıktan ziyade detay ve kontrast kalitesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her ekran HDR destekler mi?**
 

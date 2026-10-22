@@ -22,7 +22,7 @@ It is used in software development processes, team meetings and technical docume
 
 It can be confused with flowcharts; However, architectural diagrams show more the structure of the system, and flow charts show the steps of a process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do I need to know code to draw these diagrams?**
 

@@ -22,7 +22,7 @@ Se utiliza en lenguajes como Rust, TypeScript, Java y en proyectos de software a
 
 No es sólo un "mensaje de error"; Este es el principio de funcionamiento básico del propio lenguaje de programación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no todo el mundo lo usa?**
 

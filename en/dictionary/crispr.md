@@ -20,7 +20,7 @@ Using a special protein and guide RNA, it focuses on a specific point of the DNA
 
 It is used in medical research, agricultural technologies and the treatment of genetic diseases.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the relationship between CRISPR and artificial intelligence?**
 

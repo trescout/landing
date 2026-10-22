@@ -42,7 +42,7 @@ It is considered a container. The machine is the full system, the container is t
 **Apartment:** Common building, private space.
 **Suitcase:** Split transport.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does it slow down?**
 

@@ -22,7 +22,7 @@ Es wird bei der Zusammenfassung von Fallakten in Anwaltskanzleien, bei der Analy
 
 Kann mit Halluzination verwechselt werden; Grounded Summary ist eigentlich eine Technik zur Vorbeugung von Halluzinationen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist eine geerdete Zusammenfassung wichtig?**
 

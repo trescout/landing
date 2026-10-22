@@ -44,7 +44,7 @@ Er gilt als schwach. Im Allgemeinen schmal, stark im Dienst. Das eine ist eine E
 **Fackel:** Gezieltes Licht.
 **Roller:** Kurzstreckenfahrzeug.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Weniger intelligent?**
 

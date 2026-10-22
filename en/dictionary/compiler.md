@@ -40,7 +40,7 @@ The first line translates, the second line executes. The interpreter runs line b
 **Printing press:** Conversion of the draft into a printing plate.
 **Kitchen:** Turning the recipe into a pre-prepared meal.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is each language's compiler different?**
 

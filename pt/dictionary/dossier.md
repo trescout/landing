@@ -22,7 +22,7 @@ Reúna dados de todas as fontes relevantes, organize-os em ordem cronológica ou
 
 Pode ser confundido apenas com uma pasta, mas um dossiê não é apenas um arquivo, mas um conjunto de informações analisadas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que criar um arquivo é importante?**
 

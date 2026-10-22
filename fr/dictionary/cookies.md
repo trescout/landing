@@ -24,7 +24,7 @@ Ils sont utilisés dans la gestion des sessions utilisateur, le suivi des panier
 
 Ils sont confondus avec l'empreinte numérique (fingerprint) ; tandis que les cookies peuvent être facilement effacés via les paramètres du navigateur, l'empreinte numérique ne peut pas être facilement supprimée car elle repose sur les caractéristiques matérielles.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le fait de vider les cookies endommage-t-il mon ordinateur ?**
 

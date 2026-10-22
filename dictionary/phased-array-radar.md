@@ -38,7 +38,7 @@ Dönen antenli klasik radar sanılır. Klasikte ayna döner, burada sinyal döne
 
 *Kalabalıkta başı çevirmeden göz odağını saniyeler içinde değiştirmeye benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden daha avantajlı?**
 

@@ -84,7 +84,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Engenheiros de software C++, desenvolvedores de sistemas embarcados e arquitetos de sistemas.
-- **Licença:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **Licença:** BSD 3-Clause (Licença de código aberto flexível)
 - **Framework:** Biblioteca de Testes e Mock para C++
 - **Plataformas:** Linux, macOS, Windows, Android, iOS
 

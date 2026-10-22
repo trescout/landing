@@ -22,7 +22,7 @@ Uzun kitapları özetletirken veya karmaşık bir kod projesini analiz ettirirke
 
 Modelin genel bilgisi ile karıştırılır; genel bilgi eğitimde kazanılır, context window ise o anki sohbetin kısa süreli hafızasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Context window dolarsa ne olur?**
 

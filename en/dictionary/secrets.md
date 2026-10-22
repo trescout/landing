@@ -22,7 +22,7 @@ It is used in cloud services, database connections and application authenticatio
 
 It can be confused with regular user passwords, but these are digital identities designed for machines, not people.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why aren't Secrets kept within the code?**
 

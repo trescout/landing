@@ -18,7 +18,7 @@ A corrente elétrica obtida das baterias é transmitida ao motor elétrico atrav
 
 São utilizados em automóveis elétricos, veículos aéreos não tripulados (drones) e sistemas robóticos modernos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que esses sistemas são preferidos?**
 

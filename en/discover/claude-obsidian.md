@@ -2,12 +2,13 @@
 
 A local-first knowledge system for Claude Code and compatible Agent Skills servers. It converts source materials into citation-backed, linked Obsidian pages.
 
-- ★ 14,822
+- ★ 15,713
 - Python
 - GitHub Trending · 2026-08-25
 
 ## Updates
 
+- **October 22, 2026:** Stars 14,822 → 15,713, latest release v3.0.1 (October 21, 2026).
 - **September 11, 2026:** Stars 14,727 → 14,822, latest release v2.2.0 (September 10, 2026).
 - **September 8, 2026:** Stars 13,706 → 14,727, latest release v2.1.1 (August 25, 2026).
 - **August 27, 2026:** Stars 12,404 → 13,706, latest release v2.1.1 (August 25, 2026).

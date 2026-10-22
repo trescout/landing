@@ -2,16 +2,16 @@
 
 Cordis, uzamsal ve zamansal bileşenleri bir araya getiren bir meta çerçeve (meta-framework). Karmaşık sistemlerin modüler bir yapıda geliştirilmesini sağlayan bu TypeScript tabanlı araç, farklı uygulama parçalarının birbiriyle uyumlu çalışmasına olanak tanıyor.
 
-- ★ 9.168
+- ★ 9.323
 - TypeScript
 - GitHub Trending · 2026-08-16
 
 ## Güncelleme
 
+- **22 Ekim 2026:** Yıldız 9.168 → 9.323, son sürüm v4.0.0-rc.12 (21 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 8.253 → 9.168, son sürüm v4.0.0-rc.11 (14 Ekim 2026).
 - **9 Eylül 2026:** Yıldız 7.891 → 8.253, son sürüm v4.0.0-rc.10 (8 Eylül 2026).
 - **31 Ağustos 2026:** Yıldız 6.995 → 7.891, son sürüm v4.0.0-rc.9 (29 Ağustos 2026).
-- **22 Ağustos 2026:** Yıldız 5.981 → 6.995.
 
 ## Ne kazandırır?
 

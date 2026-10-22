@@ -22,7 +22,7 @@ On le retrouve dans les outils d'intelligence artificielle tels que ChatGPT, les
 
 Le logiciel lui-même et son interface ne sont pas la même chose ; L'interface n'est qu'une porte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tous les logiciels ont-ils une interface Web ?**
 

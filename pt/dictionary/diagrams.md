@@ -22,7 +22,7 @@ Usando caixas, setas e linhas, você desenha os componentes do sistema e as inte
 
 Não é apenas uma imagem, é um modelo que representa o funcionamento lógico do sistema.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Alguém pode desenhar um diagrama?**
 

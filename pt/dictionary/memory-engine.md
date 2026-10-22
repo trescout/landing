@@ -22,7 +22,7 @@ O sistema armazena conversas do usuário ou dados importantes em um banco de dad
 
 É simplesmente confundido com a janela de contexto, mas o mecanismo de memória é um processo de armazenamento de dados permanente e de muito mais longo prazo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como o mecanismo de memória afeta a privacidade?**
 

@@ -20,7 +20,7 @@ Le programme enregistre les lignes, les angles et les surfaces sous forme de coo
 
 Il est fréquemment utilisé lors du dessin de plans de bâtiments dans des projets de construction, de la conception de pièces de moteurs dans des usines automobiles ou de la modélisation de la coque extérieure d'un téléphone.
 
-## Questions fréquentes
+## Questions et réponses
 
 **La CAO ne fonctionne-t-elle qu'en trois dimensions ?**
 

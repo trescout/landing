@@ -22,7 +22,7 @@ It is used in software development processes, especially in artificial intellige
 
 It can be confused with prompt engineering; but this is the technical management and process part of the job.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I manage commands like code?**
 

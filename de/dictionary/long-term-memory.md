@@ -22,7 +22,7 @@ Es wird in persönlichen Assistenten, künstlicher Intelligenz bei der Arbeit an
 
 Es kann mit dem Kontextfenster verwechselt werden, aber das Kontextfenster deckt nur die aktuelle Konversation ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Hält diese Erinnerung ewig?**
 

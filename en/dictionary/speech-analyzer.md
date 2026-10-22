@@ -22,7 +22,7 @@ It is used in call centers, meeting analysis software and voice assistants.
 
 It differs from tools that only perform audio-text conversion by performing sentiment analysis.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does SpeechAnalyzer violate privacy?**
 

@@ -24,7 +24,7 @@ It is preferred in large software projects, team work and rapid prototype develo
 
 Can be mixed with IDE; While IDE is more focused on writing code, ADE covers the entire development process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it mandatory to use ADE?**
 

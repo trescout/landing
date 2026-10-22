@@ -22,7 +22,7 @@ It is found in cloud computing architectures, network management systems, and la
 
 It can be confused with the data plane; one manages, the other does the work.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if it crashes?**
 

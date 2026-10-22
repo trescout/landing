@@ -22,7 +22,7 @@ São utilizados na aprovação de pedidos de crédito, estratégias de compra e 
 
 Diferem dos modelos de previsão puros; enquanto os modelos de previsão dizem 'o que acontecerá amanhã', os modelos de decisão determinam 'o que deve ser feito com base nessa previsão'.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os modelos de decisão usam sempre inteligência artificial?**
 

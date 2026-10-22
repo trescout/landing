@@ -24,7 +24,7 @@ Primeiro, o modelo produz respostas diferentes. As pessoas classificam essas res
 
 Não é apenas treinamento, é o processo de alinhamento do comportamento do modelo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é necessário?**
 

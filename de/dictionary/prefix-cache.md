@@ -22,7 +22,7 @@ Es wird in LLM-Diensten, Gesprächen, die einen langen Kontext erfordern, und An
 
 Es kann mit dem KV-Cache verwechselt werden; Während der KV-Cache den internen Zustand des Modells speichert, enthält der Präfix-Cache Textblöcke.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie viel Geschwindigkeit bietet es?**
 

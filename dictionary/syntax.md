@@ -22,7 +22,7 @@ Tüm programlama dillerinde ve betik dillerinde kullanılır.
 
 Mantıksal hatalar ile karıştırılır; söz dizimi hatası kodun çalışmasını engellerken, mantıksal hata kodun yanlış sonuç vermesine neden olur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Söz dizimi hatası alırsam ne yapmalıyım?**
 

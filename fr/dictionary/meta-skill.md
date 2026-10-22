@@ -22,7 +22,7 @@ Cela se voit dans les systèmes d’auto-formation, l’apprentissage continu de
 
 Elle est confondue avec les processus d’apprentissage ordinaires, alors que la méta-compétence optimise le processus d’apprentissage lui-même.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les méta-compétences sont-elles importantes pour l’IA ?**
 

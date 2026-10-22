@@ -24,7 +24,7 @@ Il est utilisé dans les audits de cybersécurité et les processus de création
 
 Peut être confondu avec des listes de mots ; Cet outil est un moteur d'analyse qui utilise ces listes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Puis-je tester mon propre mot de passe ?**
 

@@ -22,7 +22,7 @@ It is preferred in test environments for autonomous agents that could run uncont
 
 It should not be confused with a soft budget cap: A soft cap only sends a warning email when the limit is approached or exceeded and keeps running, whereas a hard cap directly halts operations.
 
-## Frequently asked questions
+## Questions and answers
 
 **What do users see when the hard budget cap is reached?**
 

@@ -57,7 +57,7 @@ Bir PDF Inspector aracı sadece metin okumaz; belgenin teknik sağlığını şu
 - **`pdf-parser.py` (Didier Stevens):** Siber güvenlik uzmanlarının zararlı ve şüpheli PDF dosyalarını deşifre etmek için kullandığı standart analiz aracıdır.
 - **`pdfcpu`:** Go diliyle yazılmış, PDF optimizasyonu ve yapısal doğrulama yapan modern bir kütüphanedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **PDF Inspector nedir ve neden ihtiyaç duyulur?**
 

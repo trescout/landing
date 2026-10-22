@@ -38,7 +38,7 @@ Why binary: Distinguishing two states is more stable and faster than multiple st
 **Morse:** Dot and line.
 **Key:** Forward and backward.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why only 0 and 1?**
 

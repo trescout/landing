@@ -22,7 +22,7 @@ Se utiliza en servidores en la nube, centros de datos locales y operaciones de c
 
 No es lo mismo que simplemente instalar un firewall; El endurecimiento es un proceso de seguridad mucho más completo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Con qué frecuencia debo reforzar mi servidor?**
 

@@ -38,7 +38,7 @@ CEO ile karıştırılabilir. CEO şirketi yönetir, chair ise şirketi yöneten
 
 *Bir mahkemedeki hâkim gibidir; tartışmaları yönetir, kurallara uyulmasını sağlar ve kararların alınma sürecini düzenler.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Chair şirketin günlük işlerini yönetir mi?**
 

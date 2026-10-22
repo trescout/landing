@@ -22,7 +22,7 @@ Eğitim platformlarında, dil öğrenme uygulamalarında ve akademik destek sist
 
 Sadece soru-cevap veren chatbotlardan farkı, öğretim odaklı bir strateji izlemesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her konuyu öğretebilir mi?**
 

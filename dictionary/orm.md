@@ -24,7 +24,7 @@ Web uygulamaları, kurumsal yazılımlar ve veritabanı yoğunluklu projelerde s
 
 Veritabanı sürücüsü ile karıştırılabilir; sürücü ham bağlantıyı sağlar, ORM ise bu bağlantıyı kolaylaştırır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden ORM kullanmalıyım?**
 

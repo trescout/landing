@@ -22,7 +22,7 @@ Vous le rencontrerez dans les téléphones anciens, les collections de musées e
 
 À ne pas confondre avec les claviers numériques modernes ou les interfaces à écran tactile.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi n’est-il plus utilisé ?**
 

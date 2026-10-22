@@ -39,7 +39,7 @@ Terminal sanılır. Terminal çalıştırır, koşturucu yönetir. Biri sahne, d
 
 *Mutfak işlerini sırayla yapan robot gibidir; liste verilir, süreç işler.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Hangi işlerde kullanılır?**
 

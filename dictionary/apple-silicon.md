@@ -37,7 +37,7 @@ Apple Silicon'ın saf performans ve verimlilik dengesi üç temel mühendislik b
 2. **Özel Donanım Hızlandırıcıları:** Genel CPU'yu yormamak için özel görev birimleri bulunur: Yapay zekâ tensör hesaplamaları için **Neural Engine**, matris çarpımları için dahili **AMX (Apple Matrix Coprocessor)** ve 8K video işleme için donanımsal **Media Engine** (ProRes/AV1 decoder).
 3. **Rosetta 2 İkili Çevirisi (Binary Translation):** Intel (x86_64) için derlenmiş eski Mac uygulamaları, Rosetta 2 sayesinde kullanıcı uygulamayı ilk açtığı anda (AOT · Ahead-of-Time) otomatik olarak ARM64 koduna çevrilir. Apple Silicon çipleri, donanım seviyesinde x86'nın bellek modeli olan **TSO (Total Store Ordering)** desteği barındırdığı için bu çeviri neredeyse yerel hızda çalışır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Apple Silicon ne demek ve hangi işlemcileri kapsar?**
 

@@ -42,7 +42,7 @@ It is thought to be a test. A test checks whether it works, while a benchmark ch
 **Athletics:** Record chart.
 **Carpenter:** Workbench measurement mark.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is a high score always good?**
 
@@ -72,8 +72,8 @@ It depends on the task: Accuracy, speed, and cost are evaluated together. A sing
 - [RuView](https://trescout.com/en/discover/ruview/)
 - [CUA](https://trescout.com/en/discover/cua/)
 - [Whichllm](https://trescout.com/en/discover/whichllm/)
-- [SIA](https://trescout.com/en/discover/sia/)
 - [Harvey Labs](https://trescout.com/en/discover/harvey-labs/)
+- [SIA](https://trescout.com/en/discover/sia/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/benchmark/)
 

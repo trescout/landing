@@ -24,7 +24,7 @@ It is used in modern cloud-based relational and NoSQL databases, big data analyt
 
 While manual indexing is an approach where the developer determines which fields to index manually with SQL commands, autoindex leaves this decision to the system itself based on usage patterns.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does autoindex always increase query performance?**
 

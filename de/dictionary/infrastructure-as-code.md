@@ -20,7 +20,7 @@ Es werden Codedateien erstellt, die die Systemanforderungen spezifizieren, und d
 
 Es wird im Cloud Computing, bei der Verwaltung großer Systeme und bei der kontinuierlichen Veröffentlichung von Software eingesetzt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum schreiben wir Code, anstatt ihn manuell zu installieren?**
 

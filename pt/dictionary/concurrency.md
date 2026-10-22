@@ -22,7 +22,7 @@ O processador processa as tarefas sequencialmente com muita rapidez, dando ao us
 
 Confunde-se com paralelismo; O paralelismo é literalmente dois processadores diferentes realizando duas tarefas ao mesmo tempo, enquanto a simultaneidade é o tempo das tarefas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é importante?**
 

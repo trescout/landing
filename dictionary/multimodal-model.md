@@ -22,7 +22,7 @@ Gelişmiş sohbet botları, görsel analiz araçları ve otonom sistemlerde kull
 
 Multimodal kavramı ile aynıdır, burada özellikle 'model' yapısı vurgulanmıştır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden sadece metin yetmiyor?**
 

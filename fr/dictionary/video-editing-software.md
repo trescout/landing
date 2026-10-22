@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans la production cinématographique, la productio
 
 Il diffère des lecteurs multimédias qui lisent uniquement des vidéos ; Il sert à changer et à produire du contenu.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment l’intelligence artificielle a-t-elle affecté ces logiciels ?**
 

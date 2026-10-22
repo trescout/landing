@@ -22,7 +22,7 @@ Siber güvenlik şirketlerinde, büyük teknoloji firmalarının güvenlik ekipl
 
 Savunma odaklı (defensive) güvenlikten farklı olarak, burada aktif bir şekilde açıkları tetiklemeye çalışırsınız.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu beceri yasal mı?**
 

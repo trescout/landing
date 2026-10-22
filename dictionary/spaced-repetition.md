@@ -22,7 +22,7 @@ Dil öğrenme uygulamalarında, sınav hazırlık sistemlerinde ve kişisel bilg
 
 Sadece ezber yapmakla karıştırılabilir; ancak bu yöntem ezberden ziyade hafızayı stratejik olarak yönetmektir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden sürekli tekrar etmeliyim?**
 
@@ -30,7 +30,7 @@ Beyniniz gereksiz bulduğu bilgileri zamanla siler; bu yöntem beyninize bilgini
 
 ## İlgili terimler
 
-- [Personal Knowledge Management](https://trescout.com/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/dictionary/personal-knowledge-management/)
 - [Lifelong Learning](https://trescout.com/dictionary/lifelong-learning/)
 

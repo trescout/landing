@@ -24,7 +24,7 @@ As instituições devem obter consentimento explícito para os dados que recolhe
 
 É confundida apenas com um ‘aviso de cookie’, mas esta é uma lei de segurança de dados muito mais abrangente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como isso me protege?**
 

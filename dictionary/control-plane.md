@@ -22,7 +22,7 @@ Bulut bilişim mimarilerinde, ağ yönetim sistemlerinde ve büyük ölçekli ve
 
 Data plane ile karıştırılabilir; biri yönetir, diğeri işi yapar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Çökerse ne olur?**
 

@@ -53,7 +53,7 @@ Mistaken for a virtual machine. A machine carries a full operating system, while
 **Kitchen:** A ready-to-eat meal box with its ingredients inside.
 **Camping:** A camp set carried with its organization in a bag.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is the container so popular?**
 

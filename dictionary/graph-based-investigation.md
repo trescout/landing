@@ -22,7 +22,7 @@ Finansal suç analizi, siber güvenlik araştırmaları ve sosyal ağ analizleri
 
 Sıradan bir Excel tablosuyla karıştırılmamalıdır; burada önemli olan verinin kendisi değil, veriler arasındaki ilişkidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Büyük verilerde yavaş çalışır mı?**
 

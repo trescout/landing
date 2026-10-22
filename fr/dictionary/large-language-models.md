@@ -24,7 +24,7 @@ Ils sont utilisés dans les chatbots, les outils de synthèse de texte, les aide
 
 C'est le même concept que le terme LLM, mais ce terme est la version intégrale.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tous les grands modèles sont-ils une intelligence artificielle ?**
 

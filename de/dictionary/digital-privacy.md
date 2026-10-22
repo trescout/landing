@@ -43,7 +43,7 @@ Digitale Privatsphäre ist nicht nur ein technisches Thema, sondern das existenz
 
 Cybersicherheit ist die Rüstung (die Stahltür und das Alarmsystem des Hauses), die verhindert, dass Ihre Daten von unbefugten Angreifern (Hackern) gestohlen werden. Digitale Privatsphäre hingegen ist das Recht, das garantiert, dass Gäste, die Ihr Haus rechtmäßig betreten (die von Ihnen genutzten Apps und Dienstanbieter), nicht in Ihren Schubladen wühlen und Ihre privaten Notizen nicht an Dritte verkaufen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Digital Privacy und wie lautet die deutsche Entsprechung?**
 

@@ -22,7 +22,7 @@ Es wird insbesondere in Sprachmodellen verwendet, bei denen der Benutzer möchte
 
 Gemischt mit Feinabstimmung; Während die Feinabstimmung die Struktur des Modells ändert, fügt die Methode mit wenigen Schüssen einfach Beispiele zum aktuellen Befehl hinzu.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie viele Beispiele reichen aus?**
 

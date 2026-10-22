@@ -22,7 +22,7 @@ It is used in cloud-based applications and large-scale server management.
 
 It can be confused with imperative (command-oriented) methods; In that method, you tell each step one by one.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should we choose this method?**
 

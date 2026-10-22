@@ -45,7 +45,7 @@ C'est pris pour un scan. Le scan est automatique et superficiel, le red teaming 
 **Incendie :** Exercice d'évacuation.
 **Échecs :** Ne jouez pas le coup de l'adversaire à l'avance.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi cette méthode est-elle nécessaire ?**
 

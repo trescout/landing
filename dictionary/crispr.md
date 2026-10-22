@@ -20,7 +20,7 @@ CRISPR, DNA dizilimindeki hatalı kısımları bulup bunları kesmeye veya deği
 
 Tıp araştırmalarında, tarım teknolojilerinde ve genetik hastalıkların tedavisinde kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **CRISPR ile yapay zekânın ilişkisi nedir?**
 

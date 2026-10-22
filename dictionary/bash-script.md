@@ -18,7 +18,7 @@ Bir metin dosyası açıp içine çalıştırmak istediğiniz komutları alt alt
 
 Sunucu yönetiminde, yedekleme işlemlerinde veya yazılım kurulum süreçlerinde sıkça kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden elle yazmak yerine script kullanmalıyım?**
 

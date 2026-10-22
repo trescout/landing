@@ -47,7 +47,7 @@ Yanlış bir teknoloji yığını seçmek, bir girişimi aylar süren yeniden ya
 - **Tech Stack vs Sadece Framework:** "Bizim stack React" ifadesi eksiktir; React yalnızca ön yüz kütüphanesidir. Teknoloji yığını sunucudan veritabanına, işletim sisteminden CDN'e kadar tüm zinciri kapsar.
 - **En Popüler = En İyisi:** Hacker News veya sosyal medyada trend olan her yeni araç projeniz için doğru araç değildir. İhtiyaç duyulmayan karmaşık mikroservis veya Kubernetes kurulumları erken aşamada aşırı mühendislik (over-engineering) tuzağıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Tech stack ne demek, Türkçe karşılığı nedir?**
 

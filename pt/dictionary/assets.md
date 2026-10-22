@@ -47,7 +47,7 @@ Centenas de milhares de vídeos, logotipos, fotos de produtos e materiais de mar
 - Ativo: Elementos de mídia visual, sonora ou formal (recursos estáticos) consumidos pelo código e apresentados ao usuário.
 - Dados: Informação variável (estado dinâmico) que os usuários inserem no sistema ou são geradas dinamicamente no banco de dados.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que é um asset e o que ele significa no software?**
 

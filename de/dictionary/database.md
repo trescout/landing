@@ -22,7 +22,7 @@ Es wird fast überall verwendet, von Benutzerinformationen auf Websites bis hin 
 
 Manchmal wird es einfach mit der Dateispeicherung verwechselt, aber eine Datenbank speichert nicht nur Informationen, sondern verwaltet sie auch.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist die Datenbank wichtig?**
 

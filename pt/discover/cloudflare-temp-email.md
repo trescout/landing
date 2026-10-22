@@ -84,7 +84,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destinado a desenvolvedores, equipes de teste e usuários focados em privacidade que desejam hospedar um serviço de e-mail temporário gratuito, seguro e sem restrições com seu próprio domínio.
-- **Licença:** MIT (Özgür açık kaynak lisansı)
+- **Licença:** MIT (Licença de código aberto livre)
 - **Infraestrutura:** Cloudflare Workers, Pages, D1 (SQLite) e Email Routing
 - **Linguagens e Ferramentas:** TypeScript, Rust (WASM), Vue 3, Wrangler
 

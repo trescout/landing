@@ -22,7 +22,7 @@ As equipes adaptam métodos ágeis à inteligência artificial. O processo é ge
 
 Pode ser confundido com operações puras de software (DevOps); As operações de IA apresentam dados adicionais e desafios baseados em modelos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é necessária uma operação especial?**
 

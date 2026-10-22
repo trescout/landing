@@ -22,7 +22,7 @@ Es wird in technischen Berichten verwendet, wenn ein neues Basismodell veröffen
 
 Es sollte nicht mit allgemeinen Hardwaretests (Benchmarks) verwechselt werden. Während klassische Tests die Prozessor- und Speichergeschwindigkeit messen, messen Benchmarks für künstliche Intelligenz die Qualität des Modellverständnisses und der Argumentation.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können sich Modelle Testfragen merken?**
 

@@ -76,7 +76,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [RAM](https://trescout.com/en/dictionary/ram/)
 
 - **Who it is for:** Entrepreneurs, indie developers, students, and engineers looking to eliminate infrastructure costs.
-- **License:** CC BY 4.0 (Açık içerik lisansı)
+- **License:** CC BY 4.0 (Open content license)
 - **Curator:** R.I. Pienaar and over 1000 open source contributors
 - **Number of Services:** Over 1,000 verified free services
 

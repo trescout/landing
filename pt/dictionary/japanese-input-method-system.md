@@ -24,7 +24,7 @@ O usuário pressiona letras no teclado, o software acumula essas letras e exibe 
 
 Pode ser misturado com o mecanismo de conversão Neural Kana-Kanji; IME é o sistema geral, enquanto o mecanismo de conversão é a parte do conversor inteligente dentro dele.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Posso digitar em japonês sem IME?**
 

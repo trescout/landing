@@ -22,7 +22,7 @@ Es wird beim Ausführen von Skripten Dritter in Webbrowsern, in Sicherheitssoftw
 
 Während der Begriff Sandbox den isolierten Bereich selbst beschreibt, bezeichnet Sandboxing den Prozess der Erstellung, Verwaltung und Begrenzung dieser sicheren Umgebung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verringert Sandboxing die Systemleistung spürbar?**
 

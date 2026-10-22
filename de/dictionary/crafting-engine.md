@@ -18,7 +18,7 @@ Das System scannt vordefinierte Rezepte und Inventardaten. Wenn der Benutzer Mat
 
 Sie wird häufig in Survival-Spielen, Rollenspielen und einigen Produktionssimulationen verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Gibt es die Crafting-Engine nur in Spielen?**
 

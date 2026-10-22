@@ -22,7 +22,7 @@ Se utiliza en asistentes que pueden responder preguntas y respuestas a través d
 
 Se confunde con los modelos de sólo texto; La percepción de los modelos multimodales es mucho más amplia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son los modelos multimodales más inteligentes?**
 

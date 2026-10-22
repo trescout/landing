@@ -39,7 +39,7 @@ Each line in the output shows a hop. Asterisks or long durations indicate latenc
 **Air traffic:** Pre-notification of the air corridor the aircraft will follow.
 **Mail:** Sorting the letter to the distribution center according to the postal code on it.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is 'Routing Pack' a standard term?**
 

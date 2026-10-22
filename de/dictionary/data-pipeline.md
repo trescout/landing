@@ -22,7 +22,7 @@ Es dient dazu, große Datenmengen aufzubereiten, um künstliche Intelligenz zu t
 
 Es wird mit Datenbank verwechselt, aber Pipeline ist der Prozess der Bewegung und Änderung von Daten, während Datenbank nur Speicherplatz ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es so wichtig?**
 

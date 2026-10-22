@@ -45,7 +45,7 @@ Es gilt als Betriebssystem. Das System verwaltet das Gerät, die Anwendung erled
 **Küchengerät:** Einzelaufgabengeräte.
 **Autozubehör:** Teil nachträglich eingebaut.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Sind Anwendung und Software identisch?**
 

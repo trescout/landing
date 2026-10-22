@@ -62,9 +62,9 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Native Binaries](https://trescout.com/fr/dictionary/native-binaries/)
 - [Reverse Engineering](https://trescout.com/fr/dictionary/reverse-engineering/)
 - [Native](https://trescout.com/fr/dictionary/native/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/fr/dictionary/context/)
+- [MCP](https://trescout.com/fr/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Destiné aux développeurs qui souhaitent analyser la logique de fonctionnement des applications existantes à l'aide de l'intelligence artificielle, sans avoir besoin du code source, et adapter des fonctionnalités similaires à leurs propres projets.
 - **Licence:** MIT

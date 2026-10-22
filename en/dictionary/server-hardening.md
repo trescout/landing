@@ -22,7 +22,7 @@ It is used in cloud servers, on-premises data centers, and cybersecurity operati
 
 It is not the same as just installing a firewall; hardening is a much more comprehensive security process.
 
-## Frequently asked questions
+## Questions and answers
 
 **How often should I harden my server?**
 

@@ -35,7 +35,7 @@ Do ponto de vista da engenharia de software e de dados, uma playlist não é ape
 **História do rádio e da radiodifusão:** Antes da digitalização, as estações de rádio preparavam listas de reprodução físicas chamadas "Rotation Log" para reproduzir discos e cassetes em determinados intervalos de tempo. As paradas musicais digitais de hoje são uma continuação direta desta tradição editorial.
 **Psicologia Cognitiva e Produtividade:** Ele sugere que listas rítmicas em frequências específicas (Lo-Fi, batidas binaurais, música barroca) podem ajudar a focar. O efeito varia de pessoa para pessoa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa Playlist, qual é o seu equivalente turco?**
 

@@ -43,7 +43,7 @@ Pensa-se que seja um chatbot. O chatbot fala, o agente entra em ação. A interf
 **Jack:** Não basta pegar a chave e terminar o trabalho.
 **Agência de viagens:** Cobrança de passagens, hotéis e transfer.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Os agentes podem ser perigosos?**
 

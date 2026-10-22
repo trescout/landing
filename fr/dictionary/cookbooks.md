@@ -22,7 +22,7 @@ On le trouve dans la plupart des bibliothèques open source et dans la documenta
 
 Il peut être confondu avec Tutoriel ; Les formations enseignent un sujet du début à la fin, tandis que les livres de cuisine proposent des solutions rapides.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Utiliser un livre de recettes, est-ce de la paresse ?**
 

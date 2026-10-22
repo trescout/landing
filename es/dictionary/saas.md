@@ -39,7 +39,7 @@ Puede confundirse con PaaS. SaaS es una aplicación terminada, destinada al usua
 **Apartamento alquilado:** El mantenimiento corre a cargo del propietario, el uso es suyo.
 **Transporte público:** Recibir servicios de transporte sin ser propietario de un vehículo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Dónde se almacenan mis datos cuando uso SaaS?**
 

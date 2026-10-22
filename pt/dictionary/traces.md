@@ -22,7 +22,7 @@ Uma etiqueta de identificação especial é anexada a cada parte do sistema e a 
 
 Está misturado com toras; Os logs respondem à pergunta “o que aconteceu” e os rastreamentos respondem à pergunta “onde e quanto tempo demorou”.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que os rastros são importantes?**
 

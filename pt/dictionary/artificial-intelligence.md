@@ -24,7 +24,7 @@ Os algoritmos são treinados em grandes conjuntos de dados. Neste processo, o si
 
 É confundido com meros robôs, mas a inteligência artificial também pode existir apenas como software, sem a necessidade de um corpo físico.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A inteligência artificial pode realmente pensar?**
 

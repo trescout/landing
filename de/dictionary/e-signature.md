@@ -24,7 +24,7 @@ Es wird in Verträgen, Bankgeschäften und der offiziellen Korrespondenz verwend
 
 Das einfache Einfügen Ihres Namens als Bilddatei in ein Dokument ist keine elektronische Signatur; Dahinter muss ein rechtlicher Prüfprozess stehen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie unterscheidet es sich von einer physischen Signatur?**
 

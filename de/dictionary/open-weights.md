@@ -22,7 +22,7 @@ Es wird von Unternehmen und Forschern genutzt, die künstliche Intelligenz auf i
 
 Es wird mit Open-Source-Software gemischt; Open Weights stellt die interne Struktur des Modells bereit, aber manchmal können die zum Trainieren des Modells selbst verwendeten Daten privat bleiben.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann ich mit Open Weights alles am Modell ändern?**
 

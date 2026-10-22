@@ -37,7 +37,7 @@ Se confunde con la memoria a largo plazo. Aquella es el perfil permanente, esta 
 **Pararse:** Herramienta recogida al finalizar el trabajo.
 **RAM:** Espacio que se borra al cortar la energía.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si se llena?**
 

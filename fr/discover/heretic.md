@@ -42,7 +42,7 @@ Cet outil supprime les protections de sécurité du modèle. La responsabilité 
 - **Difficulté:** Connaissance avancée de l'utilisation des poids de modèle
 - **Qu'est-ce que:** Supprimer les contraintes de sécurité du modèle
 - **Frais:** Gratuit · open source (AGPL-3.0)
-- **Licence:** AGPL-3.0 · ayrıntı aşağıda
+- **Licence:** AGPL-3.0 · détail ci-dessous
 
 **Licence:** AGPL-3.0 · utilisation gratuite ; Cependant, si vous modifiez le code et le distribuez ou le proposez en tant que service, vous devez également ouvrir votre propre source (copyleft).
 

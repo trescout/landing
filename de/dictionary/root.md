@@ -22,7 +22,7 @@ Es tritt häufig in Linux-basierten Systemen und bei der Anpassung von Android-G
 
 Es ähnelt dem Administratorkonto, aber root bezieht sich im Allgemeinen auf die umfassendsten Berechtigungen im System.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum nutzt nicht jeder root?**
 

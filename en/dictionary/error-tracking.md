@@ -22,7 +22,7 @@ It is actively preferred in mobile applications where user experience is critica
 
 It differs from the concept of logging, which stores all system events chronologically: error tracking focuses directly on exceptions and automatically analyzes and groups these issues.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do error tracking tools record users' sensitive data?**
 

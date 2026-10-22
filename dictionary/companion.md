@@ -22,7 +22,7 @@ Kişisel asistan uygulamalarında, akıllı cihazlarda ve özel yapay zekâ plat
 
 AI Agent ile karıştırılabilir; agent daha çok görev odaklıyken, companion daha çok eşlik etme ve etkileşim odaklıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Companion modellerin farkı nedir?**
 

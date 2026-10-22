@@ -22,7 +22,7 @@ It is used in the automation of business processes, complex data analysis projec
 
 Its difference from the general AI Agent concept is that it is usually specialized around a specific architecture or intended use.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can Hermes Agent do anything?**
 

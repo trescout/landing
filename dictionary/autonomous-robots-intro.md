@@ -43,7 +43,7 @@ Kumandalı robot sanılır. O tamamen insan elindedir, bu hedefle baş başadır
 
 *Oyuncak arabayı kumandayla sürmek yerine gideceği yeri söyleyip yolunu bulmasını beklemeye benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Nasıl öğrenirler?**
 

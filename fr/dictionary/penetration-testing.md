@@ -22,7 +22,7 @@ Il est régulièrement appliqué sur les sites Internet, les serveurs et les inf
 
 Cela peut être confondu avec de véritables cyberattaques ; Cependant, ce processus est totalement légal et contrôlé.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ce test endommagera-t-il le système ?**
 

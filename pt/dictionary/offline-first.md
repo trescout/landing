@@ -22,7 +22,7 @@ Quando o aplicativo é aberto, ele lê os dados do banco de dados local no dispo
 
 É confundido com o modo de operação offline: enquanto o modo offline visa apenas evitar erros quando não há internet, a abordagem offline primeiro baseia o principal princípio de funcionamento do aplicativo inteiramente em dados locais.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se as alterações feitas off-line entrarem em conflito com os dados de outros usuários quando estiverem on-line?**
 

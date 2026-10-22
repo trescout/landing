@@ -22,7 +22,7 @@ Es wird häufig in autonomen Robotern, Virtual-Reality-Anwendungen und Prozessen
 
 Es ähnelt dem 3D-Scannen, diese Methode wird jedoch normalerweise mit Software über Standardkameras und nicht über spezielle Scangeräte durchgeführt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist das mit nur einem Foto möglich?**
 

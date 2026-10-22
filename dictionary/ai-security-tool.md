@@ -22,7 +22,7 @@ Kurumsal yapay zekâ uygulamalarında, müşteri hizmetleri botlarında ve veri 
 
 Genel siber güvenlik araçlarıyla karıştırılır; ancak bu araçlar özellikle yapay zekâ modellerinin çalışma mantığına odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yüzde yüz koruma sağlar mı?**
 

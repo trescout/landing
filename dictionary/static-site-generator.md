@@ -22,7 +22,7 @@ Bloglar, dokümantasyon siteleri ve kişisel portfolyolarda sıkça tercih edili
 
 CMS (İçerik Yönetim Sistemi) ile karıştırılır; CMS veritabanı kullanır, bu araç ise sadece dosya üretir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sitemi nasıl güncellerim?**
 

@@ -22,7 +22,7 @@ It is frequently used in customer service bots, personal artificial intelligence
 
 It should not be confused with temporary memory (context window): While temporary memory only determines the word limit remembered during the current active conversation, persistent context preserves information even days after the conversation is closed.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does persistent context slow down artificial intelligence?**
 

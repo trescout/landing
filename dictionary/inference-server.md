@@ -22,7 +22,7 @@ Bulut bilişim platformlarında veya büyük şirketlerin kendi veri merkezlerin
 
 Sadece bir bilgisayar değil, modelin çalışması için optimize edilmiş özel bir altyapıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden normal bir bilgisayar yetmiyor?**
 

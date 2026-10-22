@@ -44,7 +44,7 @@ Kayıp kuralı: Anahtar giderse veri gider. Yedek ve vasiyet planı şarttır.
 
 *Kasaya kendi getirdiğiniz anahtarla kilit vurmaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Kaybedersem ne olur?**
 

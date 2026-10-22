@@ -22,7 +22,7 @@ Os desenvolvedores de software mantêm a temperatura baixa ao imprimir um docume
 
 Não confundir com a inteligência do modelo; É apenas um filtro que muda a maneira como você responde.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se eu aumentar muito a temperatura?**
 

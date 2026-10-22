@@ -43,7 +43,7 @@ On le confond avec un ordinateur de bureau. Celui-ci s'allume de temps en temps,
 **Archive:** Salle des archives.
 **Garde-manger :** Entrepôt de stock.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi faut-il un serveur ?**
 

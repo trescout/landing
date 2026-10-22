@@ -22,7 +22,7 @@ Bulut sunucularında, kişisel ev sunucularında ve kurumsal veri merkezlerinde 
 
 Sunucu yönetimi ile karıştırılabilir ancak bu sadece güvenliğe odaklanan özel bir uzmanlık alanıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden özellikle Linux sunucular için ayrı bir güvenlik çalışması yapıyoruz?**
 

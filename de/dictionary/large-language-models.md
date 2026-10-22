@@ -24,7 +24,7 @@ Sie werden in Chatbots, Textzusammenfassungstools, Codierungshilfen und Überset
 
 Es handelt sich um das gleiche Konzept wie der Begriff LLM, allerdings handelt es sich bei diesem Begriff um die ungekürzte Fassung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist jedes große Modell eine künstliche Intelligenz?**
 

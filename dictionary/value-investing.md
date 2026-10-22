@@ -22,7 +22,7 @@ Finansal piyasalarda ve borsada yatırımcılar tarafından kullanılır.
 
 Spekülasyon ile karıştırılabilir; spekülasyon kısa vadeli fiyat hareketine, bu ise uzun vadeli değere odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hemen para kazanabilir miyim?**
 

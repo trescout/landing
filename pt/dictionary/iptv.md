@@ -24,7 +24,7 @@ O pacote de dados proveniente do seu provedor de serviços de Internet é proces
 
 Pode ser confundido com plataformas de streaming como Netflix ou YouTube, mas IPTV é uma tecnologia de infraestrutura que geralmente cobre a transmissão de canais de televisão ao vivo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É necessária internet de alta velocidade para assistir IPTV?**
 

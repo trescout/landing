@@ -22,7 +22,7 @@ Se utiliza en chatbots modernos, paneles personalizados y herramientas complejas
 
 Puede confundirse con el diseño web estático, pero el diseño aquí está producido íntegramente por inteligencia artificial en ese momento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante la IU generativa?**
 

@@ -41,7 +41,7 @@ Regel: Bestehen Sie nicht, während Sie Ihre Arbeit gespeichert haben, sondern �
 **Archiv:** Entfernen Sie den Ordner aus dem Speicher und untersuchen Sie ihn.
 **Foto:** Lassen Sie sich nicht vom Negativen unter Druck setzen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Lädt es nur Dateien herunter?**
 

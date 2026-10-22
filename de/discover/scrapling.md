@@ -53,7 +53,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Mittel · Python
 - **Was bietet:** Adaptives, skalierbares Scraping
 - **Gebühr:** Kostenlos · Open Source (BSD-3)
-- **Lizenz:** BSD-3-Clause · ayrıntı aşağıda
+- **Lizenz:** BSD-3-Klausel · Details unten
 
 **Lizenz:** BSD-3-Klausel · Sie dürfen es frei verwenden, ändern und kommerziell nutzen (Urheberrechtsvermerk beibehalten).
 

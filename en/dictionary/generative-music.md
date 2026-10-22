@@ -22,7 +22,7 @@ It is frequently used in background music in video games that changes according 
 
 It should not be confused with traditional composition. In composition, the sequence of sounds is fixed, whereas in generative music, the process is dynamic and constantly changing.
 
-## Frequently asked questions
+## Questions and answers
 
 **To whom do the copyrights of the generated music belong?**
 

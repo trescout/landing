@@ -22,7 +22,7 @@ Se utiliza en editores de código modernos, procesos de prueba de software autom
 
 Se puede confundir con herramientas simples de IA o el 'Asistente de codificación AI' que simplemente completa el código; Los agentes son más autónomos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Los agentes de código reemplazarán a los desarrolladores de software?**
 

@@ -24,7 +24,7 @@ Es ist das Herzstück aller Arten digitaler Geräte, vom Smartphone bis zum Supe
 
 Gemischt mit GPU; Während sich die GPU mit visuellen und parallelen Aufgaben befasst, kümmert sich die CPU um allgemeine logische Aufgaben.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet CPU-Kern?**
 

@@ -24,7 +24,7 @@ It is used in websites, mobile applications and print designs.
 
 It is mixed with pixel-based image formats such as JPEG or PNG.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why does SVG remain clear at any size?**
 

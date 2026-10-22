@@ -22,7 +22,7 @@ Lorsque vous installez un nouveau jeu sur votre ordinateur, ouvrez un navigateur
 
 Il est confondu avec le code source ; le code source est un texte brut lisible, tandis que le fichier exécutable est le résultat directement exécuté par l'ordinateur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tous les fichiers sont-ils exécutables ?**
 

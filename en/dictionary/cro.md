@@ -24,7 +24,7 @@ It is used on e-commerce sites, digital marketing campaigns and user experience 
 
 It is not just about attracting more visitors (SEO), it is about using the visitors efficiently.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it give fast results?**
 

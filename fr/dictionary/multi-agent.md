@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans le développement de logiciels, l’analyse de
 
 C’est différent d’un modèle d’IA unique ; Ce qui est important ici, c'est l'interaction des agents entre eux.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment les agents s’entendent-ils ?**
 

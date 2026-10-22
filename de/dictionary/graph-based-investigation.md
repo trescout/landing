@@ -22,7 +22,7 @@ Es wird in der Finanzkriminalitätsanalyse, der Cybersicherheitsforschung und de
 
 Nicht zu verwechseln mit einer gewöhnlichen Excel-Tabelle; Dabei kommt es nicht auf die Daten selbst an, sondern auf die Beziehung zwischen den Daten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Läuft es bei Big Data langsam?**
 

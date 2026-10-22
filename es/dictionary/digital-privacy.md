@@ -43,7 +43,7 @@ La privacidad digital no es solo un tema técnico, es el fundamento existencial 
 
 La ciberseguridad es la armadura (la puerta blindada y el sistema de alarma de la casa) que evita que tus datos sean robados por atacantes no autorizados (hackers). La privacidad digital, por otro lado, es el derecho que garantiza que los invitados que entran legalmente a tu casa (las aplicaciones y proveedores de servicios que utilizas) no revisen tus cajones ni vendan tus notas privadas a terceros.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa Digital Privacy y cuál es su equivalente en español?**
 

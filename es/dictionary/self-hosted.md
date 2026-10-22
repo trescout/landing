@@ -49,7 +49,7 @@ Mantenga al menos 3 copias de sus datos.
 Guarda estas copias en 2 soportes físicos diferentes (por ejemplo, un disco interno y un USB externo).
 - Aloje al menos 1 de las copias en una ubicación física diferente (servidor remoto cifrado o almacenamiento externo) para protegerla contra incendios y robos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué es 'self-hosted' y qué significa en español?**
 

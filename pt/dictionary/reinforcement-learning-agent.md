@@ -22,7 +22,7 @@ O sistema primeiro faz movimentos aleatórios, analisa os resultados e salva os 
 
 Ao contrário dos bots que trabalham com regras programadas padrão, ele cria sua própria estratégia com experiência.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essas unidades sempre acertam?**
 

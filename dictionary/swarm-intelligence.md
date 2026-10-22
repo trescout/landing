@@ -22,7 +22,7 @@ Otonom drone sürüleri, lojistik optimizasyonu ve büyük ölçekli çoklu yapa
 
 Tek bir süper zeka ile karıştırılmamalıdır; burada zeka tek bir noktada değil, tüm sürünün etkileşimindedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bir birim bozulursa sistem çöker mi?**
 

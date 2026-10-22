@@ -22,7 +22,7 @@ Se utiliza en Netflix, Spotify o plataformas de transmisión en vivo.
 
 Se confunde con descargar; En la descarga, no puedes mirar sin comprar el archivo completo, mientras que en la transmisión, comienzas inmediatamente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si mi velocidad de Internet es lenta?**
 

@@ -24,7 +24,7 @@ It is used when developing mobile applications, integrating an artificial intell
 
 Mixed with API; The API is a door, the SDK is the entire toolkit that allows you to get through that door and set up the house.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are every SDK free?**
 

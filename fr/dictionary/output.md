@@ -44,7 +44,7 @@ La première ligne écrit dans le fichier, la seconde affiche le code de la tâc
 **Usine :** La pièce entre, le produit sort.
 **Examen :** La question entre, le score sort.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi le résultat serait-il incorrect ?**
 

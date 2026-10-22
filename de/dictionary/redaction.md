@@ -22,7 +22,7 @@ Es wird verwendet, wenn Beweismittelakten in Gerichtsverfahren weitergegeben, Ge
 
 Es wird oft mit dem bloßen Zeichnen einer schwarzen Form über den Text verwechselt; während bei oberflächlichen Zeichnungen der darunter liegende Text kopiert werden kann, werden die Daten beim echten Schwärzungsprozess vollständig aus der Datei entfernt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Reicht es aus, Text in einer PDF-Datei schwarz zu färben, um eine Schwärzung vorzunehmen?**
 

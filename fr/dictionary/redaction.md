@@ -22,7 +22,7 @@ Il est utilisé lors du partage de dossiers de preuves dans des affaires juridiq
 
 Il est souvent confondu avec le simple fait de dessiner une forme noire sur le texte ; alors que dans les dessins superficiels, le texte sous-jacent peut être copié, lors d'une véritable opération d'occultation, les données sont complètement retirées du fichier.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peindre le texte en noir sur un PDF constitue-t-il une occultation suffisante ?**
 

@@ -42,7 +42,7 @@ Man hält es für ein Drive. Ein Drive gehört dem Unternehmen, eine persönlich
 **Keller:** Heim-Speicher.
 **Archiv:** Persönliches Dokumentenarchiv.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist der Zugriff bei einer Unterbrechung möglich?**
 

@@ -18,7 +18,7 @@ When you write code, you define the types of variables (such as number, text, da
 
 It is used to reduce the margin of error in modern programming languages ​​and large-scale software projects.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the advantage of being type-safe?**
 

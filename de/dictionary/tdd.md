@@ -24,7 +24,7 @@ Es wird in modernen Softwareentwicklungsteams angewendet, insbesondere in Projek
 
 Es kann mit Unit Testing verwechselt werden; TDD ist eine Methode und Unit Testing ist ein Werkzeug, das von dieser Methode verwendet wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verschwendet TDD nicht Zeit?**
 

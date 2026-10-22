@@ -22,7 +22,7 @@ Es wird häufig in Sprachlern-Apps, Prüfungsvorbereitungssystemen und Tools zur
 
 Es könnte mit reinem Auswendiglernen verwechselt werden; diese Methode ist jedoch eher eine strategische Verwaltung des Gedächtnisses als bloßes Auswendiglernen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich ständig wiederholen?**
 
@@ -30,7 +30,7 @@ Ihr Gehirn löscht Informationen, die es als unnötig erachtet; diese Methode be
 
 ## Verwandte Begriffe
 
-- [Personal Knowledge Management](https://trescout.com/de/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/de/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/de/dictionary/personal-knowledge-management/)
 - [Lifelong Learning](https://trescout.com/de/dictionary/lifelong-learning/)
 

@@ -43,7 +43,7 @@ Masaüstü sanılır. O ara ara açılır, bu 7/24 hizmet verir. Biri çalışma
 
 *Dijital eşyaları düzenleyip sunan ev kütüphanecisi gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden sunucu gerekir?**
 

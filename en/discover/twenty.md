@@ -85,7 +85,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Next · self-host (developer required)
 - **What offers:** Customizable, AI-powered CRM
 - **Fee:** Open source · self-hosted free
-- **License:** Standart-dışı (NOASSERTION) · ayrıntı aşağıda
+- **License:** Non-standard (NOASSERTION) · detail below
 
 **License:** ⚠️ Its license is non-standard (GitHub 'NOASSERTION'). It is referred to as 'open source', but stand-alone/self-hosted use and commercial/SaaS re-delivery may be subject to different terms. Be sure to read the LICENSE file in the repo before commercial use.
 

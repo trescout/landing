@@ -99,7 +99,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [API](https://trescout.com/en/dictionary/api/)
 
 - **Who it is for:** Home server (Homelab) owners, media enthusiasts and those who want to manage their series archives effortlessly.
-- **License:** GPL-3.0 (Açık kaynak lisansı)
+- **License:** GPL-3.0 (Open source license)
 - **Infrastructure:** C# and .NET based web service
 - **Web Port:** Default 8989
 

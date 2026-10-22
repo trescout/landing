@@ -69,7 +69,6 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Voice Agents](https://trescout.com/es/dictionary/voice-agents/)
 - [Speech-to-Speech](https://trescout.com/es/dictionary/speech-to-speech/)
-- [STT](https://trescout.com/es/dictionary/stt/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

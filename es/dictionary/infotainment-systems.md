@@ -35,7 +35,7 @@ La regla de diseño es clara: los ojos del conductor deben permanecer en la carr
 **Hogar:** Panel de hogar inteligente montado en la pared.
 **Venta al por menor:** Quioscos de información en tienda.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son seguros estos sistemas?**
 

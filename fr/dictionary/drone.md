@@ -24,7 +24,7 @@ Ils sont largement utilisés dans les opérations de recherche et sauvetage, la 
 
 Ils peuvent être confondus avec les modèles réduits d'avions traditionnels. Alors que les modèles réduits nécessitent une intervention humaine constante, les drones peuvent effectuer des vols autonomes et un suivi d'itinéraire automatique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les drones utilisent-ils l'intelligence artificielle ?**
 

@@ -48,7 +48,7 @@ Die Reife der Produktionspipeline einer Organisation wird anhand der vier golden
 
 **Wiederherstellungszeit (MTTR):** Die Geschwindigkeit, mit der das System wiederhergestellt wird, wenn in der Produktion eine Störung auftritt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Produktionspipeline und was ist ihr Hauptzweck?**
 

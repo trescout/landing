@@ -80,7 +80,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [LLM](https://trescout.com/en/dictionary/llm/)
 
 - **Who it is for:** Patent attorneys, intellectual property managers, R&D engineers, and inventors.
-- **License:** MIT (Özgür açık kaynak lisansı)
+- **License:** MIT (Free open source license)
 - **Framework:** Python-Based Patent Agent Skill
 - **Platforms:** Linux, macOS, Windows
 

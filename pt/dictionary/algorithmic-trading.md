@@ -22,7 +22,7 @@ Primeiro, uma estratégia é determinada e depois essa estratégia é convertida
 
 Pode ser confundido com inteligência artificial, mas nem sempre inclui inteligência artificial; Às vezes são apenas regras simples do tipo “se-então”.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Sempre dá lucro?**
 

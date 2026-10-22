@@ -22,7 +22,7 @@ Il est utilisé dans les agents autonomes, les processus de développement de lo
 
 On la confond avec une simple automatisation, alors que cette méthode implique de la dynamique et de la capacité de décision.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il s'il fait une erreur ?**
 

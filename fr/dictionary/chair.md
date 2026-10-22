@@ -38,7 +38,7 @@ Il peut être confondu avec le CEO. Le CEO dirige l'entreprise, tandis que le pr
 **Assemblée :** Le vice-président qui dirige la séance.
 **Panneau:** Le modérateur qui donne la parole aux intervenants.
 
-## Foire aux questions
+## Questions et réponses
 
 **Le président gère-t-il les affaires quotidiennes de l’entreprise ?**
 

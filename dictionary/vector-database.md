@@ -38,7 +38,7 @@ Vektör veritabanı bu modellere insan zihnine benzer çağrışımsal bir belle
 
 - **Bellek Maliyetini Öngörmemek:** Yüksek boyutlu vektörleri sıkıştırmasız RAM'de tutmak maliyet patlaması yaratır; kuantizasyon uygulanmalıdır.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Klasik ilişkisel veritabanları (PostgreSQL vb.) vektör veritabanı olarak kullanılabilir mi?**
 

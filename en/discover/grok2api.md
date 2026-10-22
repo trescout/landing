@@ -2,16 +2,16 @@
 
 Developed for Grok Build, Grok Web and Grok Console platforms, this gateway (API gateway) gathers multi-account management in a single center. Written in Go language, the tool offers a manageable interface by standardizing users' access to different Grok services.
 
-- ★ 7,817
+- ★ 7,840
 - Go
 - GitHub Trending · 2026-07-15
 
 ## Updates
 
+- **October 22, 2026:** Stars 7,817 → 7,840, latest release v3.1.8 (October 22, 2026).
 - **October 18, 2026:** Stars 7,669 → 7,817, latest release v3.1.7 (October 18, 2026).
 - **September 16, 2026:** Stars 7,543 → 7,669, latest release v3.1.6 (September 16, 2026).
 - **August 27, 2026:** Stars 7,459 → 7,543, latest release v3.1.5 (August 25, 2026).
-- **August 19, 2026:** Stars 7,447 → 7,459, latest release v3.1.4 (August 19, 2026).
 
 ## What you get
 

@@ -22,7 +22,7 @@ Es wird in Entwicklungsumgebungen eingesetzt, in denen Agenten der künstlichen 
 
 Es handelt sich um die gleiche Logik wie bei Sandbox, ist jedoch speziell auf Agenten spezialisiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Besteht eine Chance, dass der Agent rauskommt?**
 

@@ -18,7 +18,7 @@ Büyük veri setleri modele verilir, model bu verilerdeki desenleri (patterns) b
 
 Öneri sistemlerinde, dolandırıcılık tespitinde, sağlık analizlerinde ve otonom araçlarda kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâdan farkı nedir?**
 

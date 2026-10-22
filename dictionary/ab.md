@@ -24,7 +24,7 @@ Web sunucusu kurulumlarında, performans testlerinde ve sistem optimizasyon sür
 
 Gelişmiş yük test araçları veya gerçek tarayıcı otomasyonları ile karıştırılmasın, tamamen ham sunucu hızını ölçer.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Gerçek kullanıcı trafiğini tam olarak yansıtı mı?**
 

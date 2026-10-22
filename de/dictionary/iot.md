@@ -24,7 +24,7 @@ Es wird in Smart-Home-Systemen, bei der Überwachung industrieller Fertigungslin
 
 Home Automation (Hausautomation) ist ein Anwendungsbereich der IoT-Technologie nur im Heimbereich; IoT hingegen ist das übergeordnete Dach, das alle Gerätenetze von Fabriken bis hin zur Medizin umfasst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist das größte Risiko für IoT-Geräte?**
 

@@ -42,7 +42,7 @@ Konteyner sanılır. Makine tam sistemdir, konteyner paylaşımlı çekirdektir.
 
 *Tek evde kapısı ayrı odalar kiralamaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yavaşlatır mı?**
 

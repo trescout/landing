@@ -24,7 +24,7 @@ Se utiliza en aplicaciones web, pantallas de inicio de sesión móviles y sistem
 
 Se confunde con SSO (Single Sign-On); SSO es un concepto general, mientras que OIDC es el protocolo técnico que realiza este trabajo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Comparto mi contraseña con otros sitios?**
 

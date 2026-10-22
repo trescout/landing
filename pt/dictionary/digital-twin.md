@@ -42,7 +42,7 @@ Pensa-se que é um modelo 3D. Aquilo é uma imagem estática, este é um sistema
 **Espelho:** Superfície que reflete o movimento.
 **Sombra:** Escuridão que segue o objeto.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Qual é a diferença da simulação?**
 

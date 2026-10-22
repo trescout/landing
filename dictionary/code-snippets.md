@@ -62,7 +62,7 @@ Başarılı mühendislik ekipleri, kod parçacıklarını bireysel bir alışkan
 
 - **Dokümantasyon Parçacıkları:** Stripe veya Tailwind gibi başarılı platformların dokümantasyonlarındaki "kopyala" düğmeleri, geliştirici deneyimini (DX) iyileştiren modern bir araçtır.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Code snippets meaning (Kod parçacığı ne demek)?**
 

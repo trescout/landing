@@ -22,7 +22,7 @@ Se utiliza en procesos conjuntos de toma de decisiones de equipos de desarrollo 
 
 No es sólo una aplicación de mensajería o una sala de chat; Es una estructura que procesa información y produce un resultado colectivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estas plataformas son aptas para todo tipo de equipos?**
 

@@ -22,7 +22,7 @@ Uma pequena biblioteca de monitoramento incorporada ao aplicativo escuta todas a
 
 É diferente do conceito de registro (logging), que armazena todos os eventos do sistema cronologicamente: o rastreamento de erros concentra-se diretamente nas exceções e analisa e agrupa esses problemas automaticamente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **As ferramentas de rastreamento de erros registram os dados confidenciais dos usuários?**
 

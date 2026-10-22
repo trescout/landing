@@ -22,7 +22,7 @@ Se utiliza con frecuencia en el diseño web moderno y especialmente en bibliotec
 
 Se puede confundir con el marco CSS; La utilidad primero es un método, mientras que el marco CSS es la herramienta que implementa este método.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿No parece el código demasiado lleno?**
 

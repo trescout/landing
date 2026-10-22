@@ -22,7 +22,7 @@ It is used in market research, price comparison and academic data collection stu
 
 Web scraping can sometimes be confused with a simple copy-paste operation, but this method is completely automatic.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can data be retrieved from every site?**
 

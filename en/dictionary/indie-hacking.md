@@ -39,7 +39,7 @@ It's considered a hobby project. There is no income target in the hobby, commerc
 **Street musician:** Repertoire and tip economics.
 **Boutique bakery:** Small variety, loyal customers.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it necessary to know very good code?**
 

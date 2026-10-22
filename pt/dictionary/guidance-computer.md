@@ -22,7 +22,7 @@ Recebe dados de sensores, compara a situação atual com a situação alvo e env
 
 Não é apenas um dispositivo GPS; decide e gerencia ativamente o veículo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se ele cometer um erro?**
 

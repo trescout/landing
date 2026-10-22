@@ -22,7 +22,7 @@ Se utiliza en aplicaciones para tomar notas, herramientas personales de intelige
 
 Sólo puede confundirse con el trabajo fuera de línea; Sin embargo, este enfoque tiene como objetivo preservar la capacidad de sincronización sin conexión.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué sucede si mis datos y mi dispositivo están dañados?**
 

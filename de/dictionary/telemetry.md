@@ -36,7 +36,7 @@ Es kann mit der Protokollierung verwechselt werden. Protokoll ist die einzelne E
 **Luftfahrt:** Flugdaten in einer Blackbox speichern.
 **Energie:** Zähler melden den Verbrauch an die Zentrale.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Beeinflusst es meine Privatsphäre?**
 

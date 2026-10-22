@@ -42,7 +42,7 @@ Pensa-se que seja uma biblioteca. A biblioteca chama, o telhado chama. Uma é a 
 **Chef:** Layout do cardápio e da cozinha.
 **Chave na mão:** Entrega em domicílio finalizada.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que é usado?**
 

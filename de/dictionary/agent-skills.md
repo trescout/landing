@@ -40,7 +40,7 @@ Es wird für allgemeine Intelligenz gehalten. Dabei ist die Fähigkeit gemeint, 
 **Werkzeugkasten:** Der je nach Aufgabe gewählte Schlüssel.
 **App-Store:** Ein nach Bedarf heruntergeladenes Programm.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Füge ich die Fähigkeiten selbst hinzu?**
 

@@ -24,7 +24,7 @@ Es wird bei der Analyse komplexer Unternehmensdaten, medizinischen Diagnosesyste
 
 Kann mit klassischem RAG verwechselt werden; Die klassische Variante konzentriert sich auf Textähnlichkeit, diese auf strukturelle Beziehungen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wann sollte es bevorzugt werden?**
 

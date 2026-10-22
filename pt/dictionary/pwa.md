@@ -24,7 +24,7 @@ Desenvolva um site e adicione a ele um pequeno arquivo de plano de fundo chamado
 
 Não deve ser confundido com aplicativos nativos; PWA é na verdade um site.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É baixado da App Store?**
 

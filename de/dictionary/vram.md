@@ -24,7 +24,7 @@ Es wird in Spielen, Videobearbeitungsprogrammen und Systemen verwendet, die nati
 
 Es wird oft mit System-RAM verwechselt; RAM wird für allgemeine Aufgaben und VRAM für intensive Grafik- und Berechnungsaufgaben der Grafikkarte verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn VRAM nicht ausreicht?**
 

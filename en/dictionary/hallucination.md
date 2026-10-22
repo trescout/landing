@@ -22,7 +22,7 @@ It occurs especially in academic research, when seeking medical advice, or when 
 
 It is confused with lying, but artificial intelligence has no intention or consciousness; It just follows the possibilities.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do I prevent AI from making things up?**
 

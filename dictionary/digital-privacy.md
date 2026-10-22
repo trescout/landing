@@ -43,7 +43,7 @@ Dijital gizlilik salt bir teknik konu değil, özgür toplumların varoluşsal z
 
 Siber güvenlik, verilerinizin yetkisiz saldırganlar (hacker'lar) tarafından çalınmasını önleyen zırhtır (evin çelik kapısı ve alarm sistemi). Dijital gizlilik ise, evinize yasal olarak giren misafirlerin (kullandığınız uygulamalar ve servis sağlayıcılar) çekmecelerinizi karıştırmamasını ve özel notlarınızı başkalarına satmamasını garanti eden haktır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Digital Privacy ne demek, Türkçe karşılığı nedir?**
 

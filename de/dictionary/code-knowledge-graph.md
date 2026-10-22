@@ -22,7 +22,7 @@ Er wird bei der Codeanalyse in großen Softwareprojekten, in automatisierten Cod
 
 Er unterscheidet sich von klassischen textbasierten Suchsystemen; anstelle einer Textübereinstimmung legt er die semantischen und architektonischen Verbindungen des Codes offen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird anstelle einer einfachen Textsuche ein Code Knowledge Graph verwendet?**
 

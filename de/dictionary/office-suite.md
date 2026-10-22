@@ -38,7 +38,7 @@ Cloud-Versionen erfordern keine Installation, die Offline-Arbeit ist eingeschrä
 **Werkzeugkasten:** Das richtige Werkzeug für die Arbeit.
 **Küchenset:** Gruppe aus Topf und Messer.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Gibt es cloudbasierte Lösungen?**
 

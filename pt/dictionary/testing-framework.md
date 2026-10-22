@@ -40,7 +40,7 @@ Critério de seleção: Compatibilidade de linguagem, comunidade e suporte a CI.
 **Conjunto de medidas:** Ferramentas calibradas.
 **Academia:** Equipamento programado.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Qual escolher?**
 

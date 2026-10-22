@@ -47,7 +47,7 @@ Dans le monde de la cybersécurité, le concept d'« outil » est une arme à do
 - Pentest et analyse : Des outils tels que Nmap (analyse de ports), Wireshark (analyse de paquets), Burp Suite (test de sécurité web) et Metasploit sont utilisés par les administrateurs système pour combler les failles, tandis qu'ils sont utilisés par les attaquants pour s'introduire dans les réseaux cibles.
 - Les outils eux-mêmes sont neutres ; l'intention d'utilisation et les limites d'autorisation définissent le cadre moral de la sécurité.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que signifie « tools » et quelle est sa traduction en turc ?**
 

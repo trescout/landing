@@ -22,7 +22,7 @@ SaaS (yazılım hizmeti) platformlarında, bulut tabanlı uygulamalarda ve kurum
 
 Paylaşımlı sunucu ile karıştırılabilir; ancak burada paylaşılan sadece donanım değil, yazılımın mantıksal yapısıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tek bir program kullanılıyor?**
 

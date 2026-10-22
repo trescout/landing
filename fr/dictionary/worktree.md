@@ -22,7 +22,7 @@ Il est utilisé dans les projets logiciels complexes lorsque des corrections de 
 
 Ce n'est pas la même chose que de simplement copier des dossiers ; les worktrees sont liés au même dépôt Git et fonctionnent de manière synchronisée.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne pas simplement copier des dossiers séparément ?**
 

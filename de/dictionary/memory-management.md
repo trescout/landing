@@ -41,7 +41,7 @@ Wenn ein Programm ausgeführt wird, weist das Betriebssystem diesem Prozess eine
 
 Moderne Betriebssysteme nutzen eine virtuelle Speicher- und Paging-Architektur, um zu verhindern, dass Programme den Speicher anderer Programme auslesen. Die Memory Management Unit (MMU) in der CPU wandelt mithilfe des TLB-Cache virtuelle Adressen in physische Adressen in der Hardware um. Wenn physischer RAM und Swap vollständig erschöpft sind, beendet der OOM-Killer-Mechanismus (Out of Memory Killer) des Linux-Kernels den aggressivsten Prozess mit SIGKILL, um das System zu retten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Speicherverwaltung? Was ist das türkische Äquivalent?**
 

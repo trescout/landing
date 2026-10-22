@@ -76,7 +76,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [RAM](https://trescout.com/es/dictionary/ram/)
 
 - **Para quién es:** Emprendedores, desarrolladores independientes, estudiantes e ingenieros que quieran reducir costes de infraestructura.
-- **Licencia:** CC BY 4.0 (Açık içerik lisansı)
+- **Licencia:** CC BY 4.0 (licencia de contenido abierto)
 - **curador:** R.I. Pienaar y más de 1000 contribuyentes de código abierto
 - **Número de servicios:** Más de 1.000 servicios gratuitos verificados
 

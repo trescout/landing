@@ -24,7 +24,7 @@ Web sitesi yayına alınmadan önce yapılan yük testlerinde, sunucu donanımı
 
 Karmaşık kullanıcı senaryolarını simüle eden gelişmiş yük testi araçlarından farklı olarak, yalnızca belirli bir HTTP bağlantısına ardışık veya eş zamanlı yük bindirmeye odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **ApacheBench kullanmak için Apache web sunucusu şart mıdır?**
 

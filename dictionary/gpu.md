@@ -24,7 +24,7 @@ Yapay zekâ modellerini eğitirken, büyük veri setlerini işlerken ve modern o
 
 CPU ile karıştırılır; CPU genel işler için mükemmeldir, GPU ise sadece devasa matematiksel yükler için özelleşmiştir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden yapay zekâ için GPU şart?**
 

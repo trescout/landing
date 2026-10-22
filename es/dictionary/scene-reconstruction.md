@@ -22,7 +22,7 @@ Se utiliza frecuentemente en robots autónomos, aplicaciones de realidad virtual
 
 Es similar al escaneo 3D, pero este método generalmente se realiza con software a través de cámaras estándar en lugar de dispositivos de escaneo especiales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede hacer con una sola foto?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans des langages tels que Java, C++, Rust et TypeScript.
 
 Il est confondu avec les langages typés dynamiquement (comme Python) ; Dans les langages dynamiques, les types sont déterminés lors de l'exécution du code.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les langages typés statiques sont-ils plus difficiles ?**
 

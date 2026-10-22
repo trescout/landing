@@ -22,7 +22,7 @@ Yapay zekâ modellerinin maliyet hesaplamalarında ve hız ölçümlerinde kulla
 
 Kelime sayısı ile karıştırılır, ancak tokenlar bazen bir kelimenin bir kısmı veya sadece bir boşluk olabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **1000 token yaklaşık kaç kelimedir?**
 

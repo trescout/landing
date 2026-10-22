@@ -37,7 +37,7 @@ Die Bildrate (FPS) bestimmt das Erlebnis: Je niedriger der Wert, desto mehr Ruck
 **Architektur:** Realistische dreidimensionale Visualisierung des Projekts (Lagesituation).
 **Kino:** Bildbasierte Berechnung von Post-Production-Effekten.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum kann das Rendern langsam sein?**
 

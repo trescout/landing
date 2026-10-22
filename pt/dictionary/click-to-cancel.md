@@ -22,7 +22,7 @@ Os administradores de sistema colocam um botão de cancelamento visível e de ac
 
 É diferente de uma interface de cancelamento comum; é uma regulamentação rígida respaldada por sanções legais oficiais e multas dissuasivas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Oferecer um desconto ao usuário durante o cancelamento viola esta regra?**
 

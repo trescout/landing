@@ -22,7 +22,7 @@ O modelo divide a questão complexa que lhe é colocada em partes menores. Ele e
 
 É completamente diferente da simples busca de dados ou listagem de resultados de mecanismos de pesquisa; Requer raciocínio.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como a capacidade de raciocínio é medida?**
 

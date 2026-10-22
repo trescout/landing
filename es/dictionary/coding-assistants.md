@@ -22,7 +22,7 @@ Se utilizan en entornos de desarrollo de software populares, como VS Code, Intel
 
 A menudo se confunde con el "agente codificador de IA"; Mientras que los asistentes están más orientados a sugerencias y orientación, los agentes son estructuras más autónomas que pueden realizar determinadas tareas de principio a fin por usted.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden estas herramientas escribir el código completo por sí solas?**
 

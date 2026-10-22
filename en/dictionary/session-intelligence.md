@@ -22,7 +22,7 @@ It is used in e-commerce sites or personalized artificial intelligence assistant
 
 It is not just a simple user tracking, it is a process of making sense of the data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does this violate privacy?**
 

@@ -24,7 +24,7 @@ Es wird beim Blog-Tracking, auf Nachrichtenseiten und auf Plattformen zur Inhalt
 
 Es kann mit Newsletter verwechselt werden, aber RSS unterliegt vollständig Ihrer Kontrolle und erfordert keine E-Mail.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist RSS tot?**
 

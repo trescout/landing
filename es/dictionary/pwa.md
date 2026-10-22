@@ -24,7 +24,7 @@ Se utiliza con frecuencia en sitios de noticias, plataformas de comercio electrÃ
 
 No confundir con aplicaciones nativas; PWA es en realidad un sitio web.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **Â¿Se descarga de la App Store?**
 

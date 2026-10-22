@@ -24,7 +24,7 @@ Dentro de cada pixel na tela, existem partículas carregadas. Quando uma corrent
 
 É confundida com telas LCD ou OLED; estas emitem luz constantemente e consomem energia, enquanto a E-ink gasta energia apenas no momento da mudança.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que as telas E-ink não são coloridas?**
 

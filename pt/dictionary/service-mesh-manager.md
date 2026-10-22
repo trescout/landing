@@ -42,7 +42,7 @@ A gestão manual é impossível em centenas de serviços, minimizando a margem d
 **Centro de trânsito:** Rede de sinais e câmeras.
 **Maestro de orquestra:** Layout do capítulo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que não é gerenciado manualmente?**
 

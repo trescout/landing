@@ -22,7 +22,7 @@ Se encuentra con frecuencia en las pruebas de seguridad de la inteligencia artif
 
 Es muy similar al concepto de inyección de prompts (prompt injection), pero mientras que la inyección de prompts tiene como objetivo filtrar instrucciones ocultas directamente al sistema, el jailbreak se centra directamente en romper las reglas morales y de seguridad fundamentales del modelo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es legal el jailbreak?**
 

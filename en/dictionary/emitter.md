@@ -38,7 +38,7 @@ The last and most crucial stage of a compiler or transpiler is the Emitter (Code
 
 The Emitter traverses (usually with a Visitor Pattern) the optimized Abstract Syntax Tree (AST) or Intermediate Representation (IR). It distills each node into instructions that the target platform understands: This output can be raw machine language (x86/ARM Assembly), virtual machine bytecode (JVM, V8 Bytecode), or another high-level language (such as TypeScript to JavaScript compilation).
 
-## Frequently asked questions
+## Questions and answers
 
 **What does Emitter mean and what is its Turkish equivalent?**
 

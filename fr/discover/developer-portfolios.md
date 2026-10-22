@@ -40,7 +40,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** C'est facile · il suffit de parcourir
 - **Format:** Exemple de collection de portefeuille
 - **Frais:** Gratuit
-- **Licence:** Belirtilmemiş · ayrıntı aşağıda
+- **Licence:** Non précisé · détail ci-dessous
 
 **Licence:** ⚠️ Aucune licence n'est précisée pour le listing. Libre de parcourir/d'inspirer ; Vérifiez auprès du propriétaire avant de copier et de republier l'annonce. (Les exemples de portefeuilles appartiennent à leurs propriétaires respectifs.)
 

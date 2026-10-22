@@ -22,7 +22,7 @@ It is used in modern code editors, native AI-powered plugins, and privacy-focuse
 
 It may be confused with cloud-based code assistants, but here the entire process ends on your device.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I choose local instead of cloud?**
 

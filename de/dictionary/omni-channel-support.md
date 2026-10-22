@@ -22,7 +22,7 @@ Es wird auf E-Commerce-Websites, Bankanwendungen und großen Kundendienstzentren
 
 Gemischt mit Mehrkanalunterstützung; Bei der Multi-Channel-Unterstützung sind die Kanäle unabhängig voneinander, während sie bei der Omni-Channel-Unterstützung alle miteinander verbunden sind.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist Omnichannel wichtig?**
 

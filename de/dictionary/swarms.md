@@ -22,7 +22,7 @@ Autonome Fahrzeuge werden in der Logistikplanung und in komplexen Softwareentwic
 
 Es ähnelt dem Schwarmgeist; Schwarm bezieht sich jedoch auf eine eher aufgabenorientierte und dynamische Zusammenarbeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind Schwärme produktiv?**
 

@@ -24,7 +24,7 @@ Baixe um aplicativo VPN, selecione o servidor ao qual deseja se conectar e ative
 
 Pode ser confundido com um proxy, mas uma VPN criptografa todo o tráfego do dispositivo, enquanto um proxy geralmente roteia apenas determinados aplicativos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A VPN diminuirá minha velocidade?**
 

@@ -22,7 +22,7 @@ Es wird in autonomen Systemen der künstlichen Intelligenz und komplexen Arbeits
 
 Es kann mit dem Konzept des KI-Agenten verwechselt werden, aber dieses Konzept ist der Managementstil der Fähigkeiten, über die der Agent verfügt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird ein Rahmen benötigt?**
 

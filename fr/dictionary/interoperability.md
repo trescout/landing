@@ -35,7 +35,7 @@ La règle est simple : plus il y a de formats propriétaires, moins il y a d'int
 **Chemin de fer:** Grâce à la norme de largeur des voies, les trains peuvent changer de pays.
 **Électrique:** Les normes de prise et de tension rendent les appareils compatibles.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi tous les systèmes ne disposent-ils pas de cette fonctionnalité ?**
 

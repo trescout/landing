@@ -22,7 +22,7 @@ São amplamente utilizados em trabalhos artísticos, no setor publicitário, no 
 
 Eles são diferentes dos programas de edição de fotos porque não melhoram uma foto existente, mas criam algo inteiramente do nada.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essas ferramentas desenham perfeitamente qualquer texto que quisermos?**
 

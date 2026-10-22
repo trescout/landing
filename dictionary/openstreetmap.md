@@ -43,7 +43,7 @@ Ham veri Planet.osm dosyasından indirilebilir. Harita görselleri ise karo (til
 
 *Haritaların Wikipedia'sı gibidir; herkes bir şeyler ekleyebilir, hataları düzeltebilir ve topluluk sayesinde sürekli güncel kalır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Gerçekten ücretsiz midir?**
 

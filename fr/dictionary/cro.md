@@ -24,7 +24,7 @@ Il est utilisé sur les sites de commerce électronique, les campagnes de market
 
 Il ne s’agit pas seulement d’attirer plus de visiteurs (SEO), il s’agit également d’utiliser efficacement les visiteurs.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que ça donne des résultats rapides ?**
 

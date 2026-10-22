@@ -22,7 +22,7 @@ Es wird in internen Codeüberprüfungsprozessen des Teams auf Plattformen wie Gi
 
 Es kann mit einem einzelnen großen „Pull Request“ verwechselt werden; Diese Methode bietet jedoch einen fragmentierten und sequenziellen Ansatz.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum schicken wir nicht alles auf einmal?**
 

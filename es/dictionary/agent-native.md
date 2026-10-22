@@ -22,7 +22,7 @@ Se utiliza en herramientas de desarrollo de software autónomo y sistemas de ges
 
 Su diferencia con los chatbots comunes es que no solo responden sino que actúan.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si estos sistemas cometen errores?**
 

@@ -24,7 +24,7 @@ Kurumsal yazılımlarda, Google veya Facebook ile giriş yapma seçeneklerinde k
 
 Sadece şifre saklama araçları (Password Manager) ile karıştırılmamalıdır; SSO bir kimlik doğrulama protokolüdür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Güvenli mi?**
 

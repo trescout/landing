@@ -22,7 +22,7 @@ A inteligência artificial entende a solicitação do usuário, decide qual ferr
 
 Não deve ser confundido com a mente ou os pesos da própria IA; Estas são extensões de capacidades adicionadas de fora.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quais ferramentas a inteligência artificial pode usar?**
 
@@ -36,7 +36,7 @@ Se as restrições e permissões adequadas não forem concedidas, a inteligênci
 
 - [AI Agent](https://trescout.com/pt/dictionary/ai-agent/)
 - [Tools](https://trescout.com/pt/dictionary/tools/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol/)
+- [Model Context Protocol](https://trescout.com/pt/dictionary/mcp/)
 
 ## Ferramentas relacionadas
 

@@ -22,7 +22,7 @@ Es wird in modernen Code-Editoren, automatisierten Softwaretestprozessen und der
 
 Es kann mit einfachen KI-Tools oder dem „AI Coding Assistant“ verwechselt werden, die lediglich den Code vervollständigen; Agenten sind autonomer.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Werden Code-Agenten Softwareentwickler ersetzen?**
 

@@ -40,7 +40,7 @@ Para que los motores de búsqueda (Google) puedan indexar un artículo, deben se
 
 La generalización de los modelos de muro de pago (paywall) ha traído consigo un dilema social importante: mientras que la información errónea, la desinformación, el sensacionalismo y los contenidos de tipo cebo de clics (clickbait) suelen difundirse en Internet de forma totalmente gratuita y sin restricciones, el periodismo de calidad independiente, basado en investigaciones profundas y verificadas, queda bloqueado tras muros de pago. Esta situación genera un debate sobre la brecha de información y la polarización en la sociedad, donde "quien tiene dinero accede a la información veraz, mientras que quien no lo tiene queda expuesto a la manipulación".
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa paywall y cuál es su función principal?**
 

@@ -83,7 +83,7 @@ En el mecanismo de serialización nativo de Java (ObjectInputStream.readObject()
 - Prefiera formatos que solo transporten datos puros y validen la estructura de datos según un esquema (validación de esquema estricta) (JSON + Pydantic/Zod o Protobuf).
 - Implemente autenticación y control de integridad de mensajes (HMAC o TLS) en los intercambios de datos binarios.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia fundamental entre Serialization y Deserialization?**
 

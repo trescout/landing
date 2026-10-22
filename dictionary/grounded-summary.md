@@ -22,7 +22,7 @@ Hukuk bürolarında dava dosyalarının özetlenmesinde, kurumsal şirketlerde u
 
 Hallucination ile karıştırılabilir; grounded summary aslında halüsinasyonu engellemek için kullanılan bir tekniktir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Grounded summary neden önemlidir?**
 

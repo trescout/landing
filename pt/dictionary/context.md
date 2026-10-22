@@ -47,7 +47,7 @@ Um sistema operacional que executa multitarefa (multitasking) compartilha o núc
 | Sistemas Operacionais | Estado instantâneo de hardware de um processo | Registradores, Contador de Programa, Tabelas de Páginas | Latência da CPU, falhas de cache, flush de TLB |
 | Desenvolvimento de Software | Ciclo de vida da solicitação e dados de ambiente | Sinal de timeout, token de autorização | Vazamento de memória, chamadas assíncronas não canceladas |
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa Context e qual é a sua tradução para o português?**
 

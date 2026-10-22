@@ -24,7 +24,7 @@ Il est utilisé dans le marketing numérique, le développement Web et la gestio
 
 A ne pas confondre avec la publicité (SEM) ; Le référencement vise à améliorer les résultats complètement naturels (organiques).
 
-## Questions fréquentes
+## Questions et réponses
 
 **Mon classement augmentera-t-il immédiatement ?**
 

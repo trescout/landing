@@ -51,7 +51,7 @@ Es wird für Observability gehalten. Dabei ist Logging dessen Baustein: Logs sin
 **Tagebuch:** Chronologische Notizen.
 **Kameraaufzeichnung:** Veranstaltungsarchiv.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es gut, alles zu speichern?**
 

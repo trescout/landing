@@ -22,7 +22,7 @@ It is used in stock market software, investment platforms and artificial intelli
 
 It is mixed with trading agent; Strategy is the rule, agent is the software that implements this rule.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does the strategy always work?**
 

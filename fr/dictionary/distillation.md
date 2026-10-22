@@ -22,7 +22,7 @@ Il est préférable d'obtenir des résultats rapides et efficaces dans les endro
 
 Elle est confondue avec la quantification ; Mais tandis que la quantification comprime les poids du modèle, la distillation implique la formation d'un modèle entièrement nouveau et plus petit.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le plus petit modèle aura-t-il autant de succès que le plus grand modèle ?**
 

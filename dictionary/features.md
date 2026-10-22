@@ -74,7 +74,7 @@ Yazılım ürünlerinde karşılaşılan en kritik risklerden biri **Feature Cre
 
 - Unix felsefesinin en büyük öğretisi şudur: *"Tek bir iş yap ve onu mükemmel yap."* En başarılı dijital ürünler, yüzlerce vasat özelliğe değil; pürüzsüz çalışan birkaç kritik özelliğe sahip olanlardır.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Features ne demek ve Türkçe karşılığı nedir?**
 

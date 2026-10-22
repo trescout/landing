@@ -22,7 +22,7 @@ It is applied in SaaS software, digital media platforms, and e-commerce subscrip
 
 It is different from an ordinary cancellation interface; it is a strict regulation backed by official legal sanctions and deterrent fines.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is offering a discount to the user during cancellation against this rule?**
 

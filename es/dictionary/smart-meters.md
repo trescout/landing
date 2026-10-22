@@ -22,7 +22,7 @@ Se utiliza ampliamente en proyectos de hogares inteligentes, redes eléctricas m
 
 No debe confundirse con simples visualizadores digitales que sólo sirven para leer contadores; Los medidores inteligentes ofrecen automatización y comunicación de datos bidireccional.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo afecta a las facturas?**
 

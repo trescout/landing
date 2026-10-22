@@ -24,7 +24,7 @@ Pazarlama kampanyalarında, e-ticaret sitelerinin ana sayfalarında ve kullanıc
 
 Tek bir öğenin iki farklı versiyonunu kıyaslayan A/B testi ile sıkça karıştırılır ancak MVT birden fazla öğeyi aynı anda test eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **MVT yapmak için ne gerekir?**
 

@@ -22,7 +22,7 @@ Se utiliza en la automatización de procesos comerciales complejos y sistemas de
 
 Puede confundirse con AI Agent; Esta es una disciplina y AI Agent es el producto de esta disciplina.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál será el papel del desarrollador de software aquí?**
 

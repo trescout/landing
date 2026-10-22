@@ -22,7 +22,7 @@ Es wird in der fortgeschrittenen Forschung zu künstlicher Intelligenz und auton
 
 Kann mit herkömmlichen Betriebssystemen verwechselt werden; Dieses System ist keine Software, sondern eine denkende Architektur.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können diese Systeme wirklich denken?**
 

@@ -33,7 +33,7 @@ Sin embargo, esta revolución también ha traído consigo profundos debates soci
 - Ignorar la alucinación: En lugar de enviar las salidas directamente a la línea de producción, deben ser supervisadas mediante capas de RAG y guardrails.
 - Elegir un modelo innecesariamente grande: En lugar de ejecutar un modelo de más de 70B para clasificaciones simples, se deben preferir SLM optimizados.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Los modelos de lenguajes grandes (LLM) realmente piensan o comprenden?**
 

@@ -22,7 +22,7 @@ It is used in large software systems with microservice architecture.
 
 It is not just a router; It also undertakes security and management duties.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is this needed?**
 

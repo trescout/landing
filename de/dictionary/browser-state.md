@@ -22,7 +22,7 @@ Sie stoßen häufig in Webanwendungen, Sitzungsverwaltungssystemen und browserba
 
 Nicht zu verwechseln mit dem Browserverlauf; Während die Historie nur die besuchten Seiten umfasst, deckt der Status derzeit die gesamte Arbeitsumgebung ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verschwindet dies, wenn ich den Browser schließe?**
 

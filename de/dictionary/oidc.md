@@ -24,7 +24,7 @@ Es wird in Webanwendungen, mobilen Anmeldebildschirmen und Unternehmenssoftwares
 
 Es wird mit SSO (Single Sign-On) verwechselt; SSO ist ein allgemeines Konzept, während OIDC das technische Protokoll ist, das diese Aufgabe übernimmt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Teile ich mein Passwort mit anderen Websites?**
 

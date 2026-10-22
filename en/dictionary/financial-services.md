@@ -22,7 +22,7 @@ It appears in mobile banking applications, stock market platforms, and insurance
 
 It is not directly a software tool or program; it refers to the general sectoral area served by financial technologies.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do financial services relate to software?**
 

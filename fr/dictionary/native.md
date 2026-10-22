@@ -22,7 +22,7 @@ On les retrouve dans les boutiques d'applications des smartphones, dans les logi
 
 Les applications basées sur le web ou les applications hybrides utilisent une couche intermédiaire, telle qu'un navigateur, pour communiquer avec l'appareil.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Une application native est-elle toujours meilleure ?**
 

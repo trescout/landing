@@ -22,7 +22,7 @@ Il est utilisé dans les serveurs Web, les applications multi-utilisateurs et le
 
 Il se confond avec le parallélisme ; Le parallélisme consiste littéralement en deux processeurs différents effectuant deux tâches en même temps, tandis que la concurrence est le timing des tâches.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce important ?**
 

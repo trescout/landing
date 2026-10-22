@@ -22,7 +22,7 @@ Görüntü tanımada, ses işlemede ve büyük dil modellerinin temelinde aktif 
 
 Genel yapay zekâ kavramından farklı olarak bu, o zekâyı oluşturan somut matematiksel ve mimari yapıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Gerçek beyinle aynı mı çalışır?**
 

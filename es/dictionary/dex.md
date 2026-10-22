@@ -24,7 +24,7 @@ Se utiliza en la compra y venta de criptoactivos y en el mundo de las finanzas d
 
 No debe confundirse con los intercambios centralizados (CEX); en los intercambios centralizados, sus activos están bajo el control de la empresa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario registrarse para usar un DEX?**
 

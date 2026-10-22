@@ -22,7 +22,7 @@ E-posta yazarken, bildirim özetlerini incelerken, fotoğraflardan istenmeyen ne
 
 Geleneksel bulut tabanlı sohbet botlarıyla karıştırılabilir; fakat bu sistem cihazın işletim sistemine derinlemesine entegredir ve temel odağı kişisel verilerin yerel gizliliğidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Apple Intelligence internet olmadan çalışır mı?**
 

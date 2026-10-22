@@ -22,7 +22,7 @@ Yapay zekâ algoritmalarının optimizasyon süreçlerinde, basit karar verme me
 
 Daha karmaşık olan ve tüm olasılıkları değerlendiren arama yöntemleriyle karıştırılabilir; bu yöntem çok daha hızlıdır ancak her zaman en mükemmel sonucu garanti etmez.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her zaman en iyi sonucu bulamaz?**
 

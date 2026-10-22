@@ -50,7 +50,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Application facile à moyenne
 - **Quelles offres:** Client proxy multiplateforme et sans publicité
 - **Frais:** Gratuit · open source (GPL-3.0)
-- **Licence:** GPL-3.0 · ayrıntı aşağıda
+- **Licence:** GPL-3.0 · détail ci-dessous
 
 **Licence:** GPL-3.0 · utilisation gratuite ; Si vous modifiez et distribuez le logiciel, vous devez partager vos modifications avec le code source sous la même licence GPL (copyleft).
 

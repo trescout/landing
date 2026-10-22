@@ -38,7 +38,7 @@ Bunun yanı sıra fine-tuning, kültürel ve dilsel adaleti temsil eder. Kürese
 
 - **Aşırı Uyum (Overfitting):** Modeli küçük veri setinde aşırı iterasyonla eğitmek ezberciliğe yol açar ve genelleme gücünü yıkar.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Fine-Tuning ile RAG arasındaki temel fark nedir?**
 

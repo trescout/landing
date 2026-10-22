@@ -22,7 +22,7 @@ Lo encontramos con frecuencia en plataformas de codificación, aplicaciones de a
 
 Se puede mezclar con conjuntos de datos sin procesar; Sin embargo, estos conjuntos sólo se centran en el aprendizaje.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué necesito un conjunto de datos personalizado?**
 

@@ -22,7 +22,7 @@ Web siteleri, mobil uygulamalar ve büyük kurumsal yazılım projelerinde kulla
 
 Sadece görsel bir rehber olan 'Style Guide' ile karıştırılabilir; tasarım sistemi bunun çok daha geniş ve işlevsel bir halidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tasarım sistemine ihtiyaç duyarız?**
 

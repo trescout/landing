@@ -24,7 +24,7 @@ Il est utilisé dans les processus de travail des LLM et notamment dans les inte
 
 Il peut être confondu avec Context Window, mais il ne s'agit pas d'une limite de capacité, mais d'une méthode permettant d'utiliser efficacement cette capacité.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le cache KV est-il important ?**
 

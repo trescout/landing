@@ -22,7 +22,7 @@ Se ve con frecuencia en sistemas de agentes de IA, herramientas de automatizaci�
 
 No debe confundirse con el mero proceso de pensamiento o planificación; La acción es una acción real que deja una huella en el sistema.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿La acción siempre tiene éxito?**
 

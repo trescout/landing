@@ -22,7 +22,7 @@ Es wird in User Experience (UX)-Tests und technischen Debugging-Prozessen verwen
 
 Es wird mit Analytics (Statistik) verwechselt; Analyse „Wie viele Leute haben geklickt?“ sagt, Sitzungswiederholung: „Wie hat es Klick gemacht?“ beantwortet die Frage.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie sieht es mit der Privatsphäre der Benutzer aus?**
 

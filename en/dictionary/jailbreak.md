@@ -22,7 +22,7 @@ It is frequently encountered in artificial intelligence safety testing, red team
 
 It is very similar to the concept of prompt injection, but while prompt injection aims to directly leak hidden instructions into the system, jailbreak focuses on breaking the model's fundamental moral and safety rules.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is jailbreaking legal?**
 

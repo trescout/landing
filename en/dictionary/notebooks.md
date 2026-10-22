@@ -22,7 +22,7 @@ It is used in data analysis, artificial intelligence model training and rapid co
 
 Its difference from standard code editors is that it allows you to run the code piece by piece and see the result immediately.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can people who don't know how to code use it?**
 

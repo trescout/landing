@@ -22,7 +22,7 @@ Mobil ve masaüstü uygulama geliştirme projelerinde yaygın olarak kullanılı
 
 Tek bir cihaza hapsolmuş yerel uygulamalardan bu yönüyle ayrılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tercih edilir?**
 

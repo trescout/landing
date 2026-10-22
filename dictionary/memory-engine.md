@@ -22,7 +22,7 @@ Kişisel asistanlarda, uzun süreli projeler yürüten yapay zekâ araçlarında
 
 Sadece bağlam penceresi (context window) ile karıştırılır, ancak hafıza motoru çok daha uzun süreli ve kalıcı bir veri saklama sürecidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hafıza motoru gizliliği nasıl etkiler?**
 

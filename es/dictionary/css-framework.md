@@ -43,7 +43,7 @@ Se cree que es 'utility-first'. Ese es el enfoque, el framework es la herramient
 **Lego:** Piezas que se ensamblan.
 **Comida preparada:** Plato que se calienta.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿No se parecen los sitios?**
 

@@ -39,7 +39,7 @@ Chaque ligne de la sortie indique un saut. Les astérisques ou les durées longu
 **Trafic aérien :** La notification préalable du couloir aérien que l'avion suivra.
 **Courrier :** Le tri de la lettre vers le centre de distribution en fonction du code postal figurant sur celle-ci.
 
-## Foire aux questions
+## Questions et réponses
 
 **« Routing Pack » est-il un terme standard ?**
 

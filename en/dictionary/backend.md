@@ -22,7 +22,7 @@ It is found in all modern web applications, in the background of mobile applicat
 
 It can be confused with the frontend; the frontend interacts with you, while the backend does the work.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we run code on the backend?**
 

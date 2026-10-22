@@ -59,7 +59,6 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Computer Vision](https://trescout.com/de/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/de/dictionary/cv/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Python-Entwickler, die Objekterkennungs- und -verfolgungsprozesse in Computer-Vision-Projekten standardisieren möchten.

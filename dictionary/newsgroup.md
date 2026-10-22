@@ -22,7 +22,7 @@ E-posta listelerine benzer bir yapıda çalışan, insanların metin tabanlı me
 
 Günümüzdeki anlık mesajlaşma uygulamalarıyla karıştırılmamalıdır; çok daha yavaş ve metin odaklıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hala kullanılıyor mu?**
 

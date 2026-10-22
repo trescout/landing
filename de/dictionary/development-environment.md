@@ -22,7 +22,7 @@ Es wird bei der Entwicklung von Websites, der Codierung mobiler Anwendungen oder
 
 Es wird oft mit der Produktion verwechselt: Während die Entwicklungsumgebung die Küche ist, in der wir einfach Code schreiben und experimentieren, ist die Produktionsumgebung das Restaurant, in dem das Essen dem Kunden serviert wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann Code ohne Entwicklungsumgebung nicht geschrieben werden?**
 

@@ -40,7 +40,7 @@ Criterio de selección: Coincidencia de idioma, comunidad y soporte de CI. Lo po
 **Juego de medidas:** Herramientas calibradas.
 **Gimnasio:** Equipamiento programado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál se debe elegir?**
 

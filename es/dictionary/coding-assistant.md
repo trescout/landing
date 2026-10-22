@@ -22,7 +22,7 @@ Se utiliza en proyectos de software diarios, cuando se aprende un nuevo idioma o
 
 Se puede confundir con el 'Agente AI' que realiza todo el proyecto de forma completamente autónoma; El asistente suele actuar bajo su dirección.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Escribe todo el código?**
 

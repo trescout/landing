@@ -22,7 +22,7 @@ Os modelos de IA são definidos com objetivos específicos e as ferramentas que 
 
 A diferença deles em relação aos chatbots comuns é que eles não apenas respondem, mas também agem.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se esses sistemas cometerem erros?**
 

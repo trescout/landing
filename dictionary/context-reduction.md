@@ -22,7 +22,7 @@ RAG sistemlerinde, büyük belgelerin analizinde ve uzun süreli sohbetlerde kul
 
 Sadece veriyi kısaltmak değil, veriyi akıllıca seçip modelin anlayacağı formata getirmektir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bilgi kaybı yaşanır mı?**
 

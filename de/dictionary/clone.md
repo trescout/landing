@@ -39,7 +39,7 @@ Ein Fork erstellt serverseitig eine Kopie. Ein Klon lädt diese Kopie oder das O
 **Medien:** Ersatzkostüme, mit denen gearbeitet wird, während das Original geschont wird.
 **Virtualisierung:** Erstellung einer neuen Maschine aus einer vorgefertigten Vorlage.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann ich das Projekt nach dem Klonen ändern?**
 

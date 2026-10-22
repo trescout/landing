@@ -22,7 +22,7 @@ Se utiliza en aplicaciones móviles o asistentes personales de inteligencia arti
 
 Mezclado con bases de datos externas; los externos son para datos enormes, este está orientado a la velocidad.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es adecuado para big data?**
 

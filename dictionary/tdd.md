@@ -24,7 +24,7 @@ Modern yazılım geliştirme ekiplerinde, özellikle güvenliğin ve kalitenin �
 
 Unit Testing ile karıştırılabilir; TDD bir yöntemdir, Unit Testing ise bu yöntemin kullandığı bir araçtır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **TDD zaman kaybettirmez mi?**
 

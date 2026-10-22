@@ -22,7 +22,7 @@ Hızlı çalışan uygulamalarda ve veritabanı işlemlerinde sıkça tercih edi
 
 Client-server mimarisi ile karıştırılabilir, burada sistem tamamen kendi içindedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her zaman in-process mi çalışmalıyız?**
 

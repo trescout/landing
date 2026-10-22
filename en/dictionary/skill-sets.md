@@ -22,7 +22,7 @@ AI Agent is used in development processes, job descriptions and project manageme
 
 It can be confused with a single 'skill', but it is a set of abilities.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can we add new capabilities to artificial intelligence?**
 

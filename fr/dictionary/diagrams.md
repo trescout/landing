@@ -22,7 +22,7 @@ Il est utilisé lors de la conception du système, des réunions d’équipe et 
 
 Ce n'est pas seulement une image, c'est un modèle qui représente le fonctionnement logique du système.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelqu'un peut-il faire un schéma ?**
 

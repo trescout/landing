@@ -53,7 +53,7 @@ Souvent confondu avec une machine virtuelle. La machine transporte un système d
 **Cuisine :** Une boîte de repas prête avec ses ingrédients à l'intérieur.
 **Camping :** Un kit de camping transporté avec son organisation dans son sac.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi le conteneur est-il si populaire ?**
 

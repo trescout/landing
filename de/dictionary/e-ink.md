@@ -24,7 +24,7 @@ Es wird häufig in E-Book-Readern, digitalen Preisschildern und einigen energiee
 
 Es wird oft mit LCD- oder OLED-Bildschirmen verwechselt; diese strahlen kontinuierlich Licht aus und verbrauchen Energie, während E-Ink nur im Moment der Veränderung Energie benötigt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind E-Ink-Bildschirme nicht farbig?**
 

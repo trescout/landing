@@ -55,7 +55,7 @@ Ein PDF-Inspector-Tool liest nicht nur Text; es untersucht die technische Gesund
 - pdf-parser.py (Didier Stevens): Das Standard-Analysetool, das Cybersicherheitsexperten zur Analyse schädlicher und verdächtiger PDF-Dateien verwenden.
 - pdfcpu ist eine moderne, in Go geschriebene Bibliothek für PDF-Optimierung und strukturelle Validierung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist der PDF Inspector und warum wird er benötigt?**
 

@@ -22,7 +22,7 @@ It is frequently used in stress tests, server capacity planning and performance 
 
 It can be confused with penetration testing tools for finding security vulnerabilities; The purpose here is not to break the system, but to weigh how much load it can carry.
 
-## Frequently asked questions
+## Questions and answers
 
 **How does it differ from real user traffic?**
 

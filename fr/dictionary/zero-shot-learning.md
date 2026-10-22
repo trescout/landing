@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les chatbots occasionnels, où les utilisateur
 
 Il est confondu avec l'apprentissage en quelques étapes ; Ici, le modèle ne contient aucun indice ni exemple.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment le modèle peut-il faire des prédictions ?**
 

@@ -22,7 +22,7 @@ Se utiliza en entornos de desarrollo donde se prueban agentes de inteligencia ar
 
 Es la misma lógica que Sandbox, pero está específicamente especializado para agentes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Existe alguna posibilidad de que el agente pueda escapar?**
 

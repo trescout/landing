@@ -22,7 +22,7 @@ Yapay zekâ ajanlarının güvenli bir şekilde test edildiği geliştirme ortam
 
 Sandbox ile aynı mantıktır ancak özellikle ajanlar için özelleşmiştir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ajanın dışarı çıkma ihtimali var mı?**
 

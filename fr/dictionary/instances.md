@@ -22,7 +22,7 @@ Il est très fréquemment utilisé dans le cloud computing, la gestion de serveu
 
 Il ne doit pas être confondu avec le programme lui-même (le code source) ; le code source est unique, tandis que les copies en cours d'exécution peuvent être illimitées.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi exécutons-nous plusieurs copies ?**
 

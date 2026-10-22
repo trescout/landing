@@ -22,7 +22,7 @@ Most AI models are written in C++, but thanks to Python bindings we can easily u
 
 It may be confused with API, but while API communicates over the network, binding is a memory-level connection within the same computer.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why aren't every library written in every language?**
 

@@ -44,7 +44,7 @@ Pensa-se que é software gratuito. Ele é totalmente aberto, isso faz parte do m
 **Test drive:** Tour da galeria.
 **Biblioteca:** Assinatura gratuita.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Ilimitado?**
 

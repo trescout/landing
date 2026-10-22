@@ -22,7 +22,7 @@ Para realizar um trabalho específico (por exemplo, construir um site), os desen
 
 Pode ser misturado com bibliotecas; Uma biblioteca é uma ferramenta que você chama, um framework é uma estrutura dentro da qual você trabalha.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo usar estruturas?**
 

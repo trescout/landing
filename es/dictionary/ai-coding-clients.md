@@ -22,7 +22,7 @@ Se utilizan en editores de código populares como VS Code, entornos de desarroll
 
 Puede confundirse con agentes codificadores de IA; Sin embargo, los clientes proporcionan una interfaz que está más bajo su control, mientras que los agentes tienden a completar las tareas por sí solos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El uso de un cliente de codificación con IA me impedirá aprender a codificar?**
 

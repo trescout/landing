@@ -22,7 +22,7 @@ Il est utilisé par les investisseurs sur les marchés financiers et boursiers.
 
 Cela peut être confondu avec de la spéculation ; La spéculation se concentre sur l'évolution des prix à court terme, qui se concentre sur la valeur à long terme.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Puis-je gagner de l’argent immédiatement ?**
 

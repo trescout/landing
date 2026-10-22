@@ -37,7 +37,7 @@ O equilíbrio de desempenho puro e eficiência do Apple Silicon baseia-se em tr�
 2. Aceleradores de Hardware Específicos: Existem unidades de tarefas dedicadas para não sobrecarregar a CPU geral: Neural Engine para cálculos de tensores de inteligência artificial, AMX (Apple Matrix Coprocessor) interno para multiplicações de matrizes e Media Engine de hardware (decodificador ProRes/AV1) para processamento de vídeo em 8K.
 3. Tradução Binária do Rosetta 2: Graças ao Rosetta 2, os aplicativos antigos para Mac compilados para Intel (x86_64) são convertidos automaticamente para código ARM64 no momento exato em que o usuário abre o aplicativo (AOT · Ahead-of-Time). Como os chips Apple Silicon possuem suporte integrado em nível de hardware ao modelo de memória x86 conhecido como TSO (Total Store Ordering), essa tradução é executada em uma velocidade quase nativa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa Apple Silicon e quais processadores ele engloba?**
 

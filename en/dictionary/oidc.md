@@ -24,7 +24,7 @@ It is used in web applications, mobile login screens and enterprise software sys
 
 It is confused with SSO (Single Sign-On); SSO is a general concept, while OIDC is the technical protocol that does this job.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do I share my password with other sites?**
 

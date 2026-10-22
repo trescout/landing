@@ -22,7 +22,7 @@ Wird in der Forschung zur Sicherheit fortgeschrittener KI und zur Systemarchitek
 
 Sollte nicht mit reinen Software-Kopier- oder Backup-Vorgängen verwechselt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist diese Zahl wichtig?**
 

@@ -22,7 +22,7 @@ Yazılımcılar kodlarını Rust diliyle yazar ve derleyici (compiler) aracılı
 
 C veya C++ ile karıştırılır; Rust aynı performansı daha güvenli bir şekilde sunmayı hedefler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kadar popüler?**
 

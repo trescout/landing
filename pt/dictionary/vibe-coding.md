@@ -22,7 +22,7 @@ Está se tornando difundido em ferramentas de codificação modernas e em ambien
 
 Pode ser confundido com engenharia imediata, mas é mais uma filosofia de desenvolvimento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Uma aplicação pode ser feita sem conhecer o código?**
 

@@ -32,7 +32,7 @@ Sin embargo, esta autonomía conlleva enormes responsabilidades éticas y de seg
 - Concesión de Exceso de Permisos: Otorgar permisos descontrolados para acciones como la eliminación de bases de datos o transferencias financieras es una vulnerabilidad de seguridad; se deben imponer restricciones de solo lectura.
 - Usar agentes para tareas simples: Configurar conjuntos de agentes innecesarios para tareas que se resuelven con un solo prompt aumenta el costo y la latencia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia principal entre la IA agéntica (Agentic AI) y un chatbot de inteligencia artificial ordinario?**
 

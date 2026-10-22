@@ -22,7 +22,7 @@ Cela se voit dans les modèles avancés d’intelligence artificielle, les simul
 
 C’est complètement différent de la simple récupération de données ou de la liste des résultats des moteurs de recherche ; Cela nécessite un raisonnement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment mesure-t-on la capacité de raisonnement ?**
 

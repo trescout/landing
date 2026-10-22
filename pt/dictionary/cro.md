@@ -24,7 +24,7 @@ O comportamento do usuário é analisado, diferentes versões do site são testa
 
 Não se trata apenas de atrair mais visitantes (SEO), trata-se de utilizar os visitantes de forma eficiente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Dá resultados rápidos?**
 

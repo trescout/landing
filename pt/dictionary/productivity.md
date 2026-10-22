@@ -36,7 +36,7 @@ No mundo do software, a produtividade não pode ser medida pelo número de linha
 **Paradoxo de Jevons:** De acordo com esse princípio descoberto pelo economista William Jevons, quando o uso de um recurso se torna mais eficiente e barato, seu consumo não diminui; pelo contrário, a demanda total aumenta exponencialmente. Quando a inteligência artificial torna a escrita de código 10 vezes mais rápida, o número de desenvolvedores não diminui; começa-se a produzir mais software do que nunca na história.
 **Produtividade Tóxica (Toxic Productivity):** A doença do trabalho moderno que considera parecer constantemente ocupado como produtividade e transforma o descanso em um sentimento de culpa. A verdadeira eficiência reside no equilíbrio entre a recuperação mental e o foco profundo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa 'Productivity', qual é a tradução em turco?**
 

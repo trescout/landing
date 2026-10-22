@@ -59,7 +59,7 @@ pip install -r requirements.txt
 - **Difficulté:** Fondation Python/ML intermédiaire-avancé
 - **Format:** Carnets Jupyter étape par étape
 - **Frais:** Gratuit · open source (MIT)
-- **Licence:** MIT · ayrıntı aşağıda
+- **Licence:** MIT · détails ci-dessous
 
 **Licence:** MIT · vous pouvez librement utiliser, adapter et partager du contenu et du code.
 

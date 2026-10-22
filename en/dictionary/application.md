@@ -45,7 +45,7 @@ It is considered an operating system. The system manages the device, the applica
 **Kitchen appliance:** Single-task devices.
 **Car accessory:** Part installed later.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Are the application and software the same?**
 

@@ -22,7 +22,7 @@ Se utiliza con frecuencia en las pantallas de inicio de los teléfonos inteligen
 
 A menudo se confunde con el menú de aplicaciones propio del sistema operativo, pero los lanzadores son mucho más rápidos y están orientados al uso del teclado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Usar un lanzador acelera la computadora?**
 

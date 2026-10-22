@@ -42,7 +42,7 @@ Es gilt als serverlos. Funktion ist temporär, Objekt ist dauerhaft. Der eine is
 **Kassenbuch:** Tagesendsaldo.
 **Kaution:** Ein Schrank, der auf seinen Besitzer wartet.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Wo werden die Daten gespeichert?**
 

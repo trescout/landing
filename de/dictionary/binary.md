@@ -38,7 +38,7 @@ Warum binär: Zwei Zustände zu unterscheiden ist stabiler und schneller als vie
 **Morsezeichen:** Punkt und Strich.
 **Schalter:** Vor und zurück.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum nur 0 und 1?**
 

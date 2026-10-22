@@ -24,7 +24,7 @@ Il est utilisé dans les projets logiciels, notamment dans le développement de 
 
 Peut être confondu avec TDD ; Alors que TDD se concentre sur la robustesse du code, BDD se concentre sur le comportement de la fonction aux yeux de l'utilisateur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le BDD est-il important ?**
 

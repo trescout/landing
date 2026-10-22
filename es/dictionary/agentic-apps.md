@@ -24,7 +24,7 @@ Se utilizan con frecuencia al planificar viajes, gestionar automáticamente tu b
 
 A menudo se confunden con los chatbots de inteligencia artificial clásicos. Mientras que los chatbots solo responden a tus preguntas, las aplicaciones autónomas pueden realizar acciones concretas en tu nombre, como investigar en internet y comprar billetes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Funcionan estas aplicaciones completamente sin control?**
 

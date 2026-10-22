@@ -22,7 +22,7 @@ Il est utilisé pour déboguer des erreurs logicielles complexes, résoudre des 
 
 Il est souvent confondu avec une simple correspondance de modèles ou avec la récupération d'informations par cœur. Alors que la correspondance de modèles ne trouve des similitudes que dans les données historiques, le raisonnement produit de nouvelles solutions dans le cadre de règles logiques dans des situations nouvelles et complexes qui n'ont jamais été rencontrées auparavant.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’intelligence artificielle pense-t-elle vraiment comme les humains ?**
 

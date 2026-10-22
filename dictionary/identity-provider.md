@@ -43,7 +43,7 @@ Kural: Jeton süresi kısa tutulur, yenileme arka planda döner.
 
 *Otel resepsiyonunda pasaport gösterip kart anahtar almaya benzer; oda kapısı resepsiyon onayına güvenir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Güvenli midir?**
 

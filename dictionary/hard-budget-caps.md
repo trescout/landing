@@ -22,7 +22,7 @@ Kontrolsüzce çalışıp yüz binlerce token tüketebilecek otonom ajanların t
 
 Soft budget cap (esnek bütçe tavanı) ile karıştırılmamalıdır: Esnek tavan limite yaklaşıldığında veya limit aşıldığında yalnızca uyarı e-postası yollar ve çalışmayı sürdürür; kesin tavan ise işlemleri doğrudan durdurur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kesin bütçe tavanına ulaşıldığında kullanıcılar ne görür?**
 

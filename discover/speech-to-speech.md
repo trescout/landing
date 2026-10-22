@@ -78,7 +78,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Voice Agents](https://trescout.com/dictionary/voice-agents/)
 - [Speech-to-Speech](https://trescout.com/dictionary/speech-to-speech/)
-- [STT](https://trescout.com/dictionary/stt/)
 - [LLM](https://trescout.com/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

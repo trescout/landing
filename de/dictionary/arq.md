@@ -20,7 +20,7 @@ Der Absender sendet das Datenpaket und wartet auf eine Bestätigung. Erfolgt inn
 
 Es wird in den Grundprotokollen und Netzwerkprotokollen des Internets verwendet, beispielsweise im TCP-Protokoll.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es so wichtig?**
 

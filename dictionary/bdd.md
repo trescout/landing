@@ -24,7 +24,7 @@ Yazılım projelerinde, özellikle karmaşık özelliklerin geliştirilmesinde v
 
 TDD ile karıştırılabilir; TDD kodun sağlamlığına odaklanırken, BDD işlevin kullanıcı gözündeki davranışına odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **BDD neden önemlidir?**
 

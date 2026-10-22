@@ -22,7 +22,7 @@ It is widely used in robotic systems, gaming artificial intelligence, and automa
 
 Unlike bots that work with standard programmed rules, it creates its own strategy with experience.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do these units always get it right?**
 

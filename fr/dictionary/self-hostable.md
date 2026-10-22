@@ -22,7 +22,7 @@ Il est utilisé sur des systèmes de stockage cloud personnels, des serveurs mul
 
 Il peut être confondu avec les modèles SaaS (Software as a Service) ; En SaaS, quelqu'un d'autre gère le service, alors que dans une structure auto-hébergée, toute la gestion vous appartient.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je choisir un logiciel auto-hébergé ?**
 

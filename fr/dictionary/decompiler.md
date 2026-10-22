@@ -22,7 +22,7 @@ Il est utilisé dans la recherche en sécurité logicielle, pour comprendre le f
 
 Il est souvent confondu avec le compilateur ; le compilateur traduit le code pour la machine, tandis que le décompilateur traduit le code machine pour l'humain.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Puis-je obtenir exactement le même code original avec un décompilateur ?**
 

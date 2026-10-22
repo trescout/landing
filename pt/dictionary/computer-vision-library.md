@@ -22,7 +22,7 @@ Os desenvolvedores incluem essas bibliotecas em seus projetos e enviam a foto pa
 
 Pode ser confundido com software de processamento de imagem, mas é uma biblioteca, portanto é uma ferramenta de desenvolvedor, não uma interface de usuário final.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essas bibliotecas podem ver tudo?**
 

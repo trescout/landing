@@ -22,7 +22,7 @@ Model, milyonlarca veriyi işlerken ortak özellikleri bulur ve bunları sayısa
 
 Vector database ile karıştırılabilir ama vector database dışarıda saklanan kalıcı bir veri tabanıdır, latent space ise modelin kendi içinde düşündüğü ve anlık hesaplama yaptığı geçici soyut uzaydır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Latent space insan gözüyle görülebilir mi?**
 

@@ -22,7 +22,7 @@ Eles são usados ​​em ambientes populares de desenvolvimento de software, co
 
 Muitas vezes é confundido com 'Agente de codificação de IA'; Embora os assistentes sejam mais orientados para sugestões e orientações, os agentes são estruturas mais autônomas que podem executar determinadas tarefas de ponta a ponta para você.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essas ferramentas podem escrever o código inteiro sozinhas?**
 

@@ -22,7 +22,7 @@ Es wird bei der Synchronisation von Filmen, bei Spielfiguren und im medizinische
 
 Es wird mit dem Sprachwechsler verwechselt; Während bei der Stimmersetzung lediglich der Ton manipuliert wird, wird beim Klonen der Sprachcharakter der Person vollständig kopiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist diese Technologie sicher?**
 

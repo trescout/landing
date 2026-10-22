@@ -22,7 +22,7 @@ Es wird in Smart-Home-Geräten, autonomen Fahrzeugen und Industriesensoren einge
 
 Es wird mit Cloud Computing verwechselt; Die Cloud ist zentral, der Rand ist lokal.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum schicken wir nicht alles in die Cloud?**
 

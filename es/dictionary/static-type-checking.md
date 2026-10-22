@@ -22,7 +22,7 @@ Se utiliza ampliamente en herramientas modernas de desarrollo de software y base
 
 Puede confundirse con errores de tiempo de ejecución, pero este método detecta errores mientras escribe código.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería utilizar el control estático?**
 

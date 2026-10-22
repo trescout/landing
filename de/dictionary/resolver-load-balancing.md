@@ -22,7 +22,7 @@ Es wird auf großen Websites und Netzwerkinfrastrukturen mit hohem Datenverkehr 
 
 Es kann sein, dass man es nur mit Server-Clustering verwechselt, aber diese Methode konzentriert sich speziell auf die Verwaltung des Abfragedatenverkehrs.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird die Website dank dieses Systems schneller?**
 

@@ -22,7 +22,7 @@ A menudo lo encontrará en sitios de noticias, blogs y redes sociales.
 
 Se diferencian de los anuncios emergentes porque no se abren repentinamente, sino que permanecen en un lugar determinado de la página.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo afectan los anuncios persistentes a la experiencia del usuario?**
 

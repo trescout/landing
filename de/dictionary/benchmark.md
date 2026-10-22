@@ -42,7 +42,7 @@ Wird oft für einen Test gehalten. Ein Test prüft, ob etwas funktioniert, ein B
 **Leichtathletik:** Rekordliste.
 **Schreiner:** Anreißmaß an der Werkbank.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist ein hoher Score immer gut?**
 
@@ -72,8 +72,8 @@ Das hängt von der Aufgabe ab: Genauigkeit, Geschwindigkeit und Kosten werden zu
 - [RuView](https://trescout.com/de/discover/ruview/)
 - [CUA](https://trescout.com/de/discover/cua/)
 - [Whichllm](https://trescout.com/de/discover/whichllm/)
-- [SIA](https://trescout.com/de/discover/sia/)
 - [Harvey Labs](https://trescout.com/de/discover/harvey-labs/)
+- [SIA](https://trescout.com/de/discover/sia/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/benchmark/)
 

@@ -22,7 +22,7 @@ Es wird häufig in der Filmproduktion, der Produktion von Social-Media-Inhalten 
 
 Es unterscheidet sich von Mediaplayern, die nur Videos abspielen; Es dient der Veränderung und Produktion von Inhalten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie hat sich künstliche Intelligenz auf diese Software ausgewirkt?**
 

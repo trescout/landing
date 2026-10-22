@@ -46,7 +46,7 @@ Fine-tuning sanılır. O tüm modeli kapsar, bu hafif ektir. Biri ev yenileme, d
 
 *Koca kütüphaneye yapışan küçük not gibidir; kitap durur, bilgi eklenir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yavaşlatır mı?**
 

@@ -73,7 +73,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Pesquisadores de radar, engenheiros da indústria de defesa, desenvolvedores de drones e entusiastas de RF/SDR.
-- **Licença:** Açık kaynak donanım ve yazılım lisansı
+- **Licença:** Licença de hardware e software de código aberto
 - **Banda de Frequência:** 10,5 GHz (Banda X) FMCW
 - **Alcance do Alvo:** 3 km (Drone/Tático) - 20 km (Vigilância de área ampla)
 

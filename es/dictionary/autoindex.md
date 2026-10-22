@@ -24,7 +24,7 @@ Se utiliza en bases de datos relacionales y NoSQL modernas basadas en la nube, p
 
 Mientras que la indexación manual es el enfoque en el que el desarrollador determina manualmente qué campos indexar mediante comandos SQL, el autoindex deja esta decisión al propio sistema en función de los patrones de uso.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El autoindex siempre mejora el rendimiento de las consultas?**
 

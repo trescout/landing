@@ -22,7 +22,7 @@ Elle est utilisée dans les robots autonomes, les drones et les applications ava
 
 Elle peut être confondue avec la vision par ordinateur, mais elle ne se limite pas à la vision ; elle englobe également le raisonnement spatial après la perception visuelle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce important ?**
 

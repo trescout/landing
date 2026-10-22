@@ -22,7 +22,7 @@ Se utiliza en la resolución de problemas complejos, análisis de datos a gran e
 
 Es similar a los sistemas de múltiples agentes, pero el énfasis está en las unidades que actúan como una sola mente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué la mente colmena es mejor?**
 

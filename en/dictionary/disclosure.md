@@ -22,7 +22,7 @@ It is involved in cybersecurity reports, legal patent processes, and software de
 
 It is not just revealing something, but a process usually carried out within a framework of legal or ethical responsibility.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is responsible disclosure?**
 

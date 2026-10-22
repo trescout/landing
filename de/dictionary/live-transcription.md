@@ -22,7 +22,7 @@ Es wird in Videokonferenzanwendungen, Untertiteln für Live-Übertragungen und T
 
 Im Gegensatz zur herkömmlichen Transkription, bei der Audioaufnahmen aufgezeichnet und dann in Text umgewandelt werden, kommt es hier auf Geschwindigkeit und sofortiges Feedback an.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird es eine Verzögerung geben?**
 

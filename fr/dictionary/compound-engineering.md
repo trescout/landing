@@ -22,7 +22,7 @@ Il est utilisé dans les agents d’intelligence artificielle et les plateformes
 
 Il est confondu avec le « réglage fin », qui consiste simplement à entraîner un modèle unique, mais l'ingénierie composée se concentre sur la combinaison des capacités des modèles existants.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi un seul modèle ne suffit-il pas ?**
 

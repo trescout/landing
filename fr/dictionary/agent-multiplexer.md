@@ -22,7 +22,7 @@ Il est utilisé dans des projets d’intelligence artificielle à grande échell
 
 C'est similaire aux systèmes multi-agents, mais ici le mécanisme de « routage » (multiplexage) est au premier plan.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utilisons-nous plusieurs agents au lieu d’un seul agent ?**
 

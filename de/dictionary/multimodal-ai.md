@@ -22,7 +22,7 @@ Es wird in Bilderkennungsanwendungen, Sprachassistenten und komplexen Videoanaly
 
 Es kann mit rein textbasierten Standard-KI-Modellen verwechselt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet multimodal?**
 

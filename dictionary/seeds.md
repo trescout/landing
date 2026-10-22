@@ -24,7 +24,7 @@ Algoritma başlatılırken parametre olarak bir tam sayı atanır. Üretken yapa
 
 Kriptografik anahtarlarla karıştırılmamalıdır. Seed değeri bir güvenlik şifresi değil, yalnızca sayı dizisini öngörülebilir kılan bir başlangıç noktasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Aynı seed değerini girersem kesinlikle aynı görseli alır mıyım?**
 

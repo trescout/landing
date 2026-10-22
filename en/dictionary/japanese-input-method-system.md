@@ -24,7 +24,7 @@ It is used in computer and phone operating systems and text editors.
 
 Can be mixed with Neural Kana-Kanji Conversion Engine; IME is the overall system, while conversion engine is the smart converter part within it.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can I type in Japanese without IME?**
 

@@ -22,7 +22,7 @@ Se utiliza en herramientas de desarrollo de software autónomo, asistentes perso
 
 Puede confundirse con los modelos de IA ordinarios; Los modelos casuales simplemente responden la pregunta, los modelos agentes hacen el trabajo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Podría ser esto peligroso?**
 

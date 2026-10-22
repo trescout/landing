@@ -24,7 +24,7 @@ Se aplica en equipos modernos de desarrollo de software, especialmente en proyec
 
 Se puede confundir con las pruebas unitarias; TDD es un método y Unit Testing es una herramienta utilizada por este método.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿TDD no hace perder el tiempo?**
 

@@ -24,7 +24,7 @@ Se utiliza en el desarrollo de aplicaciones móviles, integrando un modelo de in
 
 Mezclado con API; La API es una puerta, el SDK es toda la caja de herramientas que le permite atravesar esa puerta y configurar la casa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todos los SDK son gratuitos?**
 

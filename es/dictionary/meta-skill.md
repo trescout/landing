@@ -22,7 +22,7 @@ Se ve en sistemas de autoformación, modelos de inteligencia artificial en apren
 
 Se confunde con los procesos de aprendizaje ordinarios, mientras que las metahabilidades optimizan el proceso de aprendizaje en sí.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué son importantes las metahabilidades para la IA?**
 

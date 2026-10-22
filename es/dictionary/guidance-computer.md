@@ -22,7 +22,7 @@ Se utiliza en vehículos aéreos no tripulados (drones), coches autónomos y nav
 
 No es sólo un dispositivo GPS; decide y gestiona activamente el vehículo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si comete un error?**
 

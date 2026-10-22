@@ -22,7 +22,7 @@ Se utiliza en la computación en la nube para ejecutar aplicaciones rápidamente
 
 Se puede confundir con máquinas virtuales completas (Máquinas Virtuales), pero arrancan mucho más rápido.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería elegir el ligero?**
 

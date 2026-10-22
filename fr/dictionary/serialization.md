@@ -83,7 +83,7 @@ Dans le mécanisme de sérialisation natif de Java (ObjectInputStream.readObject
 - Préférez les formats qui transportent uniquement des données brutes et valident la structure des données selon un schéma (validation de schéma stricte) (JSON + Pydantic/Zod ou Protobuf).
 - Appliquez une authentification et un contrôle de l'intégrité des messages (HMAC ou TLS) lors des échanges de données binaires.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la différence fondamentale entre la sérialisation et la désérialisation ?**
 

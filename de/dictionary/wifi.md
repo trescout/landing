@@ -24,7 +24,7 @@ Es wird für den Internetzugang zu Hause, am Arbeitsplatz und in öffentlichen B
 
 Es kann mit dem Internet selbst verwechselt werden, aber WLAN ist nur eine Transportmethode, die Ihnen das Internet liefert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird WLAN langsamer?**
 

@@ -24,7 +24,7 @@ Hisse senedi piyasalarında ve yatırım platformlarında kullanılır.
 
 Yatırım fonları ile karıştırılabilir, ancak ETF'ler gün içinde borsada anlık fiyatla alınıp satılabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tek hisse yerine ETF almalıyım?**
 

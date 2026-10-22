@@ -37,7 +37,7 @@ Pensa-se que é memória de longo prazo. Esse é o perfil permanente, este é o 
 **Ficar em pé:** Ferramenta recolhida quando o trabalho termina.
 **RAM:** Área apagada quando a energia é cortada.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que acontece se encher?**
 

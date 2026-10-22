@@ -22,7 +22,7 @@ Karmaşık yazılım mimarilerinde ve performans sorunlarını çözmek için ku
 
 Loglar ile karıştırılır; loglar 'ne oldu' sorusuna, traces ise 'nerede ne kadar sürdü' sorusuna cevap verir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Traces neden önemlidir?**
 

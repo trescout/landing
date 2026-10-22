@@ -22,7 +22,7 @@ Es wird in Notizanwendungen, persönlichen Tools für künstliche Intelligenz un
 
 Es kann nur mit Offline-Arbeit verwechselt werden; Dieser Ansatz zielt jedoch darauf ab, die Synchronisierungsfähigkeit im Offline-Modus aufrechtzuerhalten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn meine Daten und mein Gerät beschädigt sind?**
 

@@ -22,7 +22,7 @@ Es wird in Browser-Add-ons, KI-Tool-Integrationen und wichtigen Softwareplattfor
 
 Es kann mit SDK verwechselt werden, dabei handelt es sich jedoch eher um einen Regelsatz, während es sich bei SDK um einen umfassenderen Satz von Tools handelt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich diese Regeln befolgen?**
 

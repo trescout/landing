@@ -42,7 +42,7 @@ Satış sanılır. Pazarlama ortamı hazırlar, satış kapatır. Biri tarla, di
 
 *Mağaza vitrinini düzenleyip gelip geçenleri içeri çekmeye benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **YZ pazarlamayı nasıl değiştiriyor?**
 

@@ -22,7 +22,7 @@ Aparece con frecuencia en organizaciones de e-sports, plataformas multijugador e
 
 Se puede confundir con los juegos de acción y aventura. Los juegos de acción generales pueden centrarse en la resolución de puzles o en el combate cuerpo a cuerpo, pero la mecánica principal del género shooter es apuntar y disparar.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia principal entre los shooters FPS y TPS?**
 

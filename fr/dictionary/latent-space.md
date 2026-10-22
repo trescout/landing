@@ -22,7 +22,7 @@ Il fonctionne en continu en arrière-plan dans les modèles d'intelligence artif
 
 Il peut être confondu avec une base de données vectorielle (vector database), mais une base de données vectorielle est une base de données permanente stockée en externe, tandis que l'espace latent est l'espace abstrait temporaire où le modèle réfléchit et effectue des calculs instantanés en son sein.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'espace latent peut-il être vu par l'œil humain ?**
 

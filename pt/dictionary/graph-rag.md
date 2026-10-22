@@ -24,7 +24,7 @@ Os dados são primeiro transformados em um grafo de conhecimento na forma de nó
 
 Pode ser confundido com o RAG clássico; o clássico foca na similaridade de texto, enquanto este foca em relacionamentos estruturais.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quando deve ser preferido?**
 

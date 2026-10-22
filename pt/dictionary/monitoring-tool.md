@@ -22,7 +22,7 @@ Você adiciona um pequeno código de rastreamento ao seu sistema, essa ferrament
 
 Pode ser confundido com ferramentas de depuração (debugging); a depuração encontra o erro dentro do código, enquanto a ferramenta de monitoramento acompanha a saúde geral do sistema.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que preciso disso?**
 

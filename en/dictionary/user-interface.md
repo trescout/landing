@@ -24,7 +24,7 @@ It appears in applications on your smartphone, on websites, or on the touch scre
 
 It is often confused with the software's backend, but the interface is only the part you see.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are UI and UX the same thing?**
 

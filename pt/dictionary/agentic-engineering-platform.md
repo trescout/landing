@@ -22,7 +22,7 @@ Você faz login na plataforma, determina o alvo do agente, atribui habilidades a
 
 Não é apenas um editor de código, abrange todo o processo de gerenciamento de agentes.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preciso ser um especialista para usar esta plataforma?**
 

@@ -42,7 +42,7 @@ Kural olarak slayt başına tek fikir düşer. Yazıyı resimle desteklemek, duv
 
 *Bir hikaye anlatıcısının, anlattıklarını desteklemek için elinde tuttuğu resimli kartlar destesi gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Sunum yaparken not alabilir miyim?**
 

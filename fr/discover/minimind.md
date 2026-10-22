@@ -81,7 +81,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Apple Silicon](https://trescout.com/fr/dictionary/apple-silicon/)
 
 - **Pour qui:** Chercheurs en IA, ingénieurs en apprentissage automatique, data scientists et étudiants.
-- **Licence:** Apache-2.0 (Açık kaynak lisansı)
+- **Licence:** Apache-2.0 (licence Open Source)
 - **Toit:** Framework LLM minimaliste basé sur PyTorch
 - **Plateformes:** Linux, macOS (Apple Silicon MPS), Windows
 

@@ -22,7 +22,7 @@ Il s'agit de la méthode préférée des développeurs de logiciels lors de la r
 
 Il est confondu avec HTML, mais bien que HTML soit beaucoup plus complexe et détaillé, Markdown est conçu uniquement pour améliorer la lisibilité.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je utiliser Markdown au lieu de Word ?**
 

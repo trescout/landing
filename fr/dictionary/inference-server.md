@@ -22,7 +22,7 @@ Il est utilisé en arrière-plan des applications basées sur l'intelligence art
 
 Ce n'est pas seulement un ordinateur, mais une infrastructure spécialisée optimisée pour le fonctionnement du modèle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi un ordinateur normal ne suffit-il pas ?**
 

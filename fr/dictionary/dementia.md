@@ -22,7 +22,7 @@ Il est utilisé dans le monde médical et dans les cliniques de neurologie. Elle
 
 Il ne faut pas le confondre avec un simple oubli ; Même si l’oubli peut être temporaire, la démence est un processus permanent et progressif.
 
-## Questions fréquentes
+## Questions et réponses
 
 **La démence et la maladie d'Alzheimer sont-elles la même chose ?**
 

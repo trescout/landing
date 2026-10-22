@@ -22,7 +22,7 @@ Es wird zur Laufzeit, bei API-Aufrufen und bei Modellleistungstests von Anwendun
 
 Es sollte nicht mit dem Training des Modells verwechselt werden; Training ist der Lernprozess des Modells und Inferenz ist der Anwendungsprozess.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Lernt das Modell während der Inferenz weiter?**
 

@@ -69,7 +69,6 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [Voice Agents](https://trescout.com/pt/dictionary/voice-agents/)
 - [Speech-to-Speech](https://trescout.com/pt/dictionary/speech-to-speech/)
-- [STT](https://trescout.com/pt/dictionary/stt/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

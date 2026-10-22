@@ -43,7 +43,7 @@ La confidentialité numérique n'est pas seulement une question technique, c'est
 
 La cybersécurité est l'armure (la porte blindée et le système d'alarme de la maison) qui empêche vos données d'être volées par des attaquants non autorisés (hackers). La confidentialité numérique est le droit qui garantit que les invités entrant légalement chez vous (les applications et les fournisseurs de services que vous utilisez) ne fouillent pas dans vos tiroirs et ne vendent pas vos notes privées à des tiers.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie « Digital Privacy » et quelle est sa traduction en turc ?**
 

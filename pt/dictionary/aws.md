@@ -52,7 +52,7 @@ Pensa-se que seja apenas um serviço de hospedagem de sites. Porém, é uma plat
 **Armazém para alugar:** Alugando quantas prateleiras forem necessárias.
 **Táxi:** Viajar sem possuir veículo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que devo usar AWS?**
 

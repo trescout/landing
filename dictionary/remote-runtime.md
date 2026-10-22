@@ -22,7 +22,7 @@ Yapay zekâ kodlama araçlarında güvenli kod çalıştırma kum havuzlarında,
 
 Yerel çalışma ortamı (local runtime) ile karıştırılır. Yerel ortam doğrudan bilgisayarınızın donanımını kullanırken, uzak ortam tüm işlemleri buluttaki harici bir sunucuda yürütür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Remote runtime kullanmak için sürekli internet bağlantısı gerekir mi?**
 

@@ -41,7 +41,7 @@ Regla: El esqueleto es el punto de partida, no un libro de reglas. A medida que 
 **Patrón de sastre:** Plantilla de corte según la medida.
 **Receta de cocina:** Kit de inicio con medidas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se pueden personalizar las plantillas?**
 

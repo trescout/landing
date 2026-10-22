@@ -22,7 +22,7 @@ Os dados são transmitidos entre neurônios artificiais por meio de pesos, cada 
 
 Ao contrário do conceito geral de inteligência artificial, esta é a estrutura matemática e arquitetónica concreta que constitui essa inteligência.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Funciona da mesma forma que o cérebro real?**
 

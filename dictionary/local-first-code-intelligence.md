@@ -22,7 +22,7 @@ Modern kod editörlerinde, yerel yapay zekâ destekli eklentilerde ve gizlilik o
 
 Bulut tabanlı kod asistanları ile karıştırılabilir, ancak burada tüm işlem cihazınızda biter.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bulut yerine yerel olanı tercih etmeliyim?**
 

@@ -22,7 +22,7 @@ Es wird in E-Commerce-Sites oder personalisierten Assistenten für künstliche I
 
 Dabei handelt es sich nicht nur um eine einfache Benutzerverfolgung, sondern um einen Prozess, bei dem die Daten sinnvoll ausgewertet werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verstößt dies gegen die Privatsphäre?**
 

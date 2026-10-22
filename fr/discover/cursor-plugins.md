@@ -50,7 +50,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** intermédiaire-avancé
 - **Quelles offres:** Spécifications officielles du plugin + exemples de plugins
 - **Source:** Curseur · image
-- **Licence:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Licence:** Norme non détectée · détail ci-dessous
 
 **Licence:** GitHub n'a pas détecté de licence standard. Vérifiez la LICENCE/les termes dans le dépôt avant la réutilisation/distribution.
 

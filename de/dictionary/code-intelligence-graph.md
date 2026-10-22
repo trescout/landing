@@ -22,7 +22,7 @@ Es wird in modernen Code-Editoren, KI-gestützten Softwareentwicklungstools und 
 
 Es handelt sich nicht nur um eine Liste von Dateien oder eine einfache Ordnerstruktur; Es umfasst auch die logischen Beziehungen des Codes.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist das nötig?**
 

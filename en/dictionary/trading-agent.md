@@ -22,7 +22,7 @@ It is used in cryptocurrency exchanges, stock markets and foreign exchange trans
 
 It is similar to Algorithmic Trading, but the agents are more autonomous and learning-based.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is there a risk of losing money?**
 

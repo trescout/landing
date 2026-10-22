@@ -22,7 +22,7 @@ Es wird in der Logistikverfolgung, der globalen Marktanalyse und der Betriebsfü
 
 Es sollte nicht nur mit einer Datenbank verwechselt werden; Dabei handelt es sich nicht um eine Datenbank, sondern um eine Schnittstelle, die Daten darstellt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wer nutzt diese Panels?**
 

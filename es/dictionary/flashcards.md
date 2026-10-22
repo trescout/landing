@@ -38,7 +38,7 @@ Se puede confundir con un cuestionario (quiz). Un cuestionario es un examen y ot
 **Música:** Tarjetas de notas y acordes.
 **Aviación:** Tarjetas de lista de verificación de emergencia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo genera tarjetas la inteligencia artificial?**
 

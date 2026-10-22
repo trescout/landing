@@ -22,7 +22,7 @@ Yaratıcı içerik platformlarında, video düzenleme araçlarında ve yapay zek
 
 Video düzenleme ile karıştırılabilir; bu teknoloji düzenleme yapmaz, sıfırdan hareketli görüntü üretir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her türlü resimden video olur mu?**
 

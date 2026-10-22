@@ -20,7 +20,7 @@ Code files specifying system requirements are created and these files are applie
 
 It is used in cloud computing, management of large-scale systems and continuous release of software.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we write code instead of installing it manually?**
 

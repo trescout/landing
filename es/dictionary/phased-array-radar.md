@@ -38,7 +38,7 @@ Se suele confundir con el radar clásico de antena giratoria. En el clásico gir
 **Altavoz:** Matriz que dirige el sonido.
 **Linterna:** Dirigir el haz sin girar el dispositivo manualmente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es más ventajoso?**
 

@@ -22,7 +22,7 @@ Es wird in der gesamten Softwareentwicklung, dem Architekturdesign und allgemein
 
 Es kann mit reinen Programmierkenntnissen verwechselt werden, während Programmieren nur der Anwendungsteil dieses Prozesses ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann sich jeder Ingenieurskenntnisse aneignen?**
 

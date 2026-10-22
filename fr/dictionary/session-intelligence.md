@@ -22,7 +22,7 @@ Il est utilisé dans les sites e-commerce ou les assistants personnalisés d’i
 
 Il ne s’agit pas simplement d’un simple suivi des utilisateurs, c’est un processus permettant de donner un sens aux données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cela viole-t-il la vie privée ?**
 

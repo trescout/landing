@@ -22,7 +22,7 @@ Es wird in Softwareentwicklungsprozessen, Teambesprechungen und technischen Doku
 
 Es kann mit Flussdiagrammen verwechselt werden; Architekturdiagramme zeigen jedoch eher die Struktur des Systems und Flussdiagramme zeigen die Schritte eines Prozesses.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss ich Code kennen, um diese Diagramme zu zeichnen?**
 

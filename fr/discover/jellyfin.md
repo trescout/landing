@@ -64,7 +64,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Besoin d'installer sur un serveur/ordinateur moyen
 - **Quelles offres:** Streaming multimédia personnel · depuis n'importe quel appareil
 - **Frais:** Entièrement gratuit · sans publicité
-- **Licence:** GPL-2.0 · ayrıntı aşağıda
+- **Licence:** GPL-2.0 · détail ci-dessous
 
 **Licence:** GPL-2.0 · Entièrement gratuit et gratuit à utiliser. Si vous modifiez et distribuez le logiciel, vous devez partager (copyleft) vos modifications sous la même licence GPL et le même code source. Il n’y a aucune obligation si vous l’utilisez uniquement vous-même.
 

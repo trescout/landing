@@ -55,7 +55,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Mittleres Entwicklertool
 - **Was bietet:** Schnelles Parsen von Dokumenten
 - **Gebühr:** Kostenlos · Open Source (Apache-2.0)
-- **Lizenz:** Apache-2.0 · ayrıntı aşağıda
+- **Lizenz:** Apache-2.0 · Details unten
 
 **Lizenz:** Apache-2.0 · Sie können es frei verwenden, ändern und kommerziell nutzen (einschließlich Patentschutz).
 

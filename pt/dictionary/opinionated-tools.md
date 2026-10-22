@@ -22,7 +22,7 @@ O software possui regras e estrutura de pastas próprias. Contanto que você sig
 
 Pode ser confundido com ferramentas flexíveis, mas embora ferramentas flexíveis possam mudar tudo, essas ferramentas exigem uma certa disciplina.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que eles são tão restritivos?**
 

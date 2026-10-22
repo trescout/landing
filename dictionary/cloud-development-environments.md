@@ -24,7 +24,7 @@ Büyük yazılım ekiplerinde ve hızlı prototip geliştiren şirketlerde kulla
 
 Sadece uzaktan masaüstü ile karıştırılabilir; ancak bu sistem özellikle kod yazmak için optimize edilmiştir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bilgisayarım bozulursa kodlarım ne olur?**
 

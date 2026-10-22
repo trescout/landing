@@ -22,7 +22,7 @@ It is used in software development processes, system management and debugging pr
 
 Can be confused with terminal or shell; However, Console Host is the layer that manages the window and interface in which these texts are displayed.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we still use black screen?**
 

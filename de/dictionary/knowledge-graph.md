@@ -22,7 +22,7 @@ Es dient dazu, genauere Ergebnisse in Suchmaschinen zu liefern und komplexe Unte
 
 Es handelt sich nicht um eine gewöhnliche Excel-Tabelle oder -Liste, da hier die Beziehung zwischen den Daten wichtiger ist und nicht die Daten selbst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist der Unterschied zwischen Knowledge Graph und RAG?**
 

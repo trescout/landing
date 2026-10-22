@@ -24,7 +24,7 @@ Es wird in offizieller Korrespondenz, E-Books, Rechnungen und wissenschaftlichen
 
 Es kann mit Word-Dateien verwechselt werden, Word kann jedoch bearbeitet werden, während PDFs normalerweise angeheftet sind.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann ich das PDF bearbeiten?**
 

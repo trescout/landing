@@ -22,7 +22,7 @@ It is frequently preferred in fast running applications and database operations.
 
 It can be confused with client-server architecture, where the system is completely self-contained.
 
-## Frequently asked questions
+## Questions and answers
 
 **Should we always work in-process?**
 

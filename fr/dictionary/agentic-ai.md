@@ -32,7 +32,7 @@ Cependant, cette autonomie entraîne d'immenses responsabilités sécuritaires e
 - Surprivilège : Accorder des autorisations non contrôlées pour des actions telles que la suppression de bases de données ou les transferts financiers constitue une faille de sécurité ; des restrictions en lecture seule doivent être imposées.
 - Utiliser des agents pour des tâches simples : Mettre en place des ensembles d'agents superflus pour des tâches qui se règlent avec une seule invite augmente les coûts et la latence.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quelle est la principale différence entre l'IA agentique (Agentic AI) et un chatbot d'intelligence artificielle ordinaire ?**
 

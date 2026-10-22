@@ -42,7 +42,7 @@ Las tecnologías de waifus y compañeros de IA son objeto de intensos debates en
 - Waifu vs Relación Real: Waifu es una simulación completamente ficticia y digital; no puede sustituir la responsabilidad, el sacrificio y la realidad mutua que conllevan las relaciones humanas.
 - Waifu vs Husbando: El término waifu se utiliza para los personajes femeninos, mientras que husbando se usa para los personajes masculinos de ficción que despiertan admiración.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa waifu y cuál es el origen de la palabra?**
 

@@ -24,7 +24,7 @@ Es wird in Smart-TVs, speziellen IPTV-Boxen oder Anzeigeanwendungen auf Computer
 
 Es kann mit Streaming-Plattformen wie Netflix oder YouTube verwechselt werden, aber IPTV ist eine Infrastrukturtechnologie, die im Allgemeinen die Übertragung von Live-Fernsehkanälen abdeckt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist zum Ansehen von IPTV Highspeed-Internet erforderlich?**
 

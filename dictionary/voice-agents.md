@@ -22,7 +22,7 @@ Akıllı telefonlarda, müşteri hizmetleri sistemlerinde ve akıllı ev asistan
 
 Basit sesli komut sistemleriyle karıştırılabilir; agentlar çok daha karmaşık ve bağlamsal diyaloglar kurabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herhangi bir dilde konuşabilirler mi?**
 

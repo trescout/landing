@@ -2,12 +2,13 @@
 
 MiroFish offers a simple and universal swarm intelligence engine developed to predict various types of data. This Python-based tool uses collective computing methods to identify patterns in complex systems.
 
-- ★ 77,183
+- ★ 81,131
 - Python
 - GitHub Trending · 2026-06-06
 
 ## Updates
 
+- **October 22, 2026:** Stars 77,183 → 81,131, latest release v0.1.2 (March 7, 2026).
 - **October 8, 2026:** Stars 73,507 → 77,183, latest release v0.1.2 (March 7, 2026).
 - **September 15, 2026:** Stars 69,813 → 73,507, latest release v0.1.2 (March 7, 2026).
 - **August 2, 2026:** Stars 64,830 → 69,813, latest release v0.1.2 (March 7, 2026).

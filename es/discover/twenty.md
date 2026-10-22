@@ -85,7 +85,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Siguiente · autohospedaje (se requiere desarrollador)
 - **Que ofertas:** CRM personalizable con tecnología de IA
 - **Tarifa:** Código abierto · autohospedado gratuito
-- **Licencia:** Standart-dışı (NOASSERTION) · ayrıntı aşağıda
+- **Licencia:** No estándar (NOASERTION) · detalle a continuación
 
 **Licencia:** ⚠️ Su licencia no es estándar (GitHub 'NOASERTION'). Se lo conoce como "código abierto", pero el uso independiente/autohospedado y la reentrega comercial/SaaS pueden estar sujetos a términos diferentes. Asegúrese de leer el archivo LICENCIA en el repositorio antes de utilizarlo comercialmente.
 

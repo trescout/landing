@@ -22,7 +22,7 @@ It is used in software development environments (IDE) such as VS Code and Intell
 
 It can be confused with 'AI Coding Agent', which writes code entirely on its own; assistants usually work under your control.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will these tools replace software developers?**
 

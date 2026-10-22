@@ -43,7 +43,7 @@ Es wird für einen Desktop gehalten. Dieser wird ab und zu eingeschaltet, jener 
 **Archiv:** Archivraum.
 **Keller:** Lagerhaus.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum wird ein Server benötigt?**
 

@@ -44,7 +44,7 @@ Es wird oft für die Software selbst gehalten. Dabei ist das Harness nicht der C
 **Sicherheitsgurt:** Vorrichtung, die bei einem Aufprall hält.
 **Training:** Parcours zur Leistungsmessung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist es notwendig?**
 

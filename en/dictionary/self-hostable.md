@@ -22,7 +22,7 @@ It is used on personal cloud storage systems, private media servers, or to run p
 
 It can be confused with SaaS (Software as a Service) models; In SaaS, someone else manages the service, whereas in a self-hosted structure, all management is yours.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I choose a self-hostable software?**
 

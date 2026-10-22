@@ -22,7 +22,7 @@ Se utiliza en tecnologías financieras y plataformas de comercio algorítmico.
 
 Puede confundirse con el comercio algorítmico, pero mientras este último suele seguir reglas predefinidas, este sistema puede aprender y desarrollar su propia estrategia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estos fondos realmente no cometen errores?**
 

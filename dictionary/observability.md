@@ -42,7 +42,7 @@ Monitoring sanılır. Monitoring eşiği izler, observability nedeni açıklar. 
 
 *Motor arıza ışığı yerine sıcaklık, yağ ve yakıtı anlık gösteren panel gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden kayıt yetmiyor?**
 

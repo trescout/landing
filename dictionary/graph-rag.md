@@ -24,7 +24,7 @@ Karmaşık kurumsal verilerin analizinde, tıbbi teşhis sistemlerinde ve akadem
 
 Klasik RAG ile karıştırılabilir; klasik olan metin benzerliğine, bu ise yapısal ilişkilere odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ne zaman tercih edilmeli?**
 

@@ -18,7 +18,7 @@ The electric current taken from the batteries is transmitted to the electric mot
 
 They are used in electric cars, unmanned aerial vehicles (drones), and modern robotic systems.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are these systems preferred?**
 

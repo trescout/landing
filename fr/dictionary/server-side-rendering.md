@@ -24,7 +24,7 @@ Il est utilisé sur les sites e-commerce et tous les projets web où le référe
 
 Peut être confondu avec le rendu côté client ; Côté client, la plupart du travail est effectué dans le navigateur, et en SSR, la plupart du travail est effectué sur le serveur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi tous les sites n'utilisent-ils pas SSR ?**
 

@@ -22,7 +22,7 @@ O modelo é treinado novamente com métodos como RLHF ou conjuntos de dados espe
 
 É confundido com o pré-treinamento; enquanto o pré-treinamento estabelece as bases do modelo, o pós-treinamento molda o comportamento do modelo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o pós-treinamento é necessário?**
 

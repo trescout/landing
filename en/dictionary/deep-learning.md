@@ -22,7 +22,7 @@ It is at the core of image processing, voice recognition, and modern artificial 
 
 It is often confused with machine learning; Deep learning is a more specific and advanced sub-branch of machine learning.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it called 'deep'?**
 

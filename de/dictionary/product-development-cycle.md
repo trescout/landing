@@ -47,7 +47,7 @@ Kann mit Projektmanagement verwechselt werden. Das Management kontrolliert den Z
 **Landwirtschaft:** Saisonzyklus von der Aussaat bis zur Ernte.
 **Buch:** Veröffentlichungsprozess vom Entwurf bis zum Druck.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Wie wirkt sich künstliche Intelligenz auf diesen Zyklus aus?**
 

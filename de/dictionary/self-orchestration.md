@@ -22,7 +22,7 @@ Es wird in autonomen Agenten, komplexen Softwareentwicklungsprozessen und Datenv
 
 Es wird mit einfacher Automatisierung verwechselt, während diese Methode Dynamik und Entscheidungsfähigkeit voraussetzt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn er einen Fehler macht?**
 

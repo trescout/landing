@@ -35,7 +35,7 @@ Die Designregel ist klar: Der Blick des Fahrers muss auf der Straße bleiben. De
 **Zuhause:** Wandmontiertes Smart-Home-Panel.
 **Einzelhandel:** Informationskioske im Geschäft.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Sind diese Systeme sicher?**
 

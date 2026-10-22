@@ -18,7 +18,7 @@ O modelo é treinado com algoritmos especiais que decidem quais camadas usar ou 
 
 Ele é usado em modelos de linguagem complexos, sistemas de detecção robótica e dispositivos de ponta que economizam energia.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Eles são mais inteligentes?**
 

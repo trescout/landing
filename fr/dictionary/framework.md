@@ -22,7 +22,7 @@ Il est fréquemment utilisé lors du développement de sites Web, d’applicatio
 
 Peut être mélangé avec des bibliothèques ; Une bibliothèque est un outil que vous appelez, un framework est une structure au sein de laquelle vous travaillez.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je utiliser des frameworks ?**
 

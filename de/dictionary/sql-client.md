@@ -42,7 +42,7 @@ ORM (Object-Relational Mapping) ist eine Schicht, die es Ihnen ermöglicht, mit 
 **Buchhaltung:** Ein Prüfer, der die Posten im Buch einzeln untersucht.
 **Logistik:** Ein Handterminal, das die Produkte im Lager auflistet.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Sind SQL-Kenntnisse erforderlich?**
 

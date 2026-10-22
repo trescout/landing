@@ -35,7 +35,7 @@ A regra de design é clara: os olhos do motorista devem permanecer na estrada. P
 **Casa:** Painel de casa inteligente montado na parede.
 **Varejo:** Quiosques de informação na loja.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Esses sistemas são seguros?**
 

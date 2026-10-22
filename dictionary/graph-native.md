@@ -22,7 +22,7 @@ Karmaşık sosyal ağ analizlerinde, öneri sistemlerinde ve birbirine bağlı b
 
 Geleneksel ilişkisel veritabanları ile sıkça karıştırılır; ancak bu sistem ilişkileri sonradan değil, tasarım aşamasında kurar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu yöntemi seçmeliyim?**
 

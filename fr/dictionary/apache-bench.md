@@ -24,7 +24,7 @@ Il est utilisé dans les tests de charge avant le lancement du site Web, dans le
 
 Contrairement aux outils de test de charge avancés qui simulent des scénarios utilisateur complexes, il se concentre uniquement sur le chargement de charge séquentiel ou simultané sur une connexion HTTP spécifique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le serveur Web Apache est-il requis pour utiliser ApacheBench ?**
 

@@ -18,7 +18,7 @@ Planlama, kod yazma, hata ayıklama ve modelin çıktılarını denetleme süre�
 
 Yazılım geliştirme süreçlerinde, yapay zekâ eğitiminde (RLHF gibi) ve genel proje yönetiminde kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ insan emeğini tamamen bitirecek mi?**
 

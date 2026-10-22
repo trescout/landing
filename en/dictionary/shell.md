@@ -22,7 +22,7 @@ It is built into all systems of Linux, macOS and Windows; It is indispensable fo
 
 It is confused with the terminal; terminal is the window that displays this interface, and shell is the command interpreter running inside that window.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it difficult to learn Shell?**
 

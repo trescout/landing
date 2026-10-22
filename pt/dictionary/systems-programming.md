@@ -22,7 +22,7 @@ Os desenvolvedores utilizam linguagens que oferecem gerenciamento direto de mem�
 
 Não deve ser confundida com a programação de aplicações: enquanto a programação de aplicações produz softwares voltados para o usuário, a programação de sistemas constrói a infraestrutura sobre a qual esses softwares são executados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quais linguagens são mais utilizadas na programação de sistemas?**
 

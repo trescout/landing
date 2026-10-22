@@ -40,7 +40,7 @@ It is thought to be a chair. The CEO executes, the chair manages the board. One 
 **Orchestra:** The conductor sets the tempo.
 **Coach:** The coach who created the squad.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does the CEO meddle in everything?**
 

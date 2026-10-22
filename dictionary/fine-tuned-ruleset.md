@@ -22,7 +22,7 @@ Hukuki belge analizi, tıbbi teşhis destek sistemleri ve özel müşteri hizmet
 
 Fine-tuning ile benzerdir ancak burada vurgu, modelin genel ağırlıklarından ziyade, uyması gereken kesin kurallar bütünü üzerindedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bunu neden yapıyoruz?**
 

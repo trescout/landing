@@ -22,7 +22,7 @@ Utilisé dans les modèles Transformer, les LLM et les outils de traduction.
 
 A ne pas confondre avec l'attention humaine ; Il s’agit d’un processus de pondération purement mathématique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce si important ?**
 

@@ -22,7 +22,7 @@ Se utiliza en entornos de desarrollo de software (IDE) como VS Code e IntelliJ.
 
 Se puede confundir con el 'Agente de codificación AI', que escribe código completamente por sí solo; Los asistentes suelen trabajar bajo su control.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estas herramientas reemplazarán a los desarrolladores de software?**
 

@@ -42,7 +42,7 @@ Wird für Stealth gehalten. Stealth ist der Modus des Headless-Browsers, der der
 **Blindflug:** Navigation per Instrumenten.
 **Hintergrundküche:** Produktion ohne Kunden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum gibt es keine Benutzeroberfläche?**
 

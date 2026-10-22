@@ -41,7 +41,7 @@ En gelişmiş test ortamlarında dahi gözden kaçan üretim ortamı hataları i
 - **Development vs Deployment:** Development (geliştirme) mutfakta şefin yemeği hazırlaması ve tatmasıdır; Deployment ise yemeğin masaya servis edilip müşterinin tüketimine sunulmasıdır.
 - **Deployment vs Release:** Deployment teknik bir eylemdir; kodun sunucuya yüklenmesini ifade eder. Release ise bir özelliğin kullanıcılara görünür kılınması, pazarlama duyurusunun yapılması ve iş birimi tarafından resmen açılmasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Deployment ne demek ve Türkçe karşılığı nedir?**
 

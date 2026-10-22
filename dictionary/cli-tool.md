@@ -24,7 +24,7 @@ Yazılım geliştirme süreçlerinde, sunucu yönetiminde ve otomasyon scriptler
 
 Grafik arayüze sahip normal programlardan farklıdır, tamamen yazı tabanlıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **CLI tool öğrenmek zor mudur?**
 

@@ -43,7 +43,7 @@ Rohdaten können aus der Planet.osm-Datei heruntergeladen werden. Kartenbilder w
 **Open-Source-Software:** Der Linux-Kernel, der durch freiwillige Beiträge wächst.
 **Bürgerwissenschaft (Citizen Science):** Das Sammeln von Vogelbeobachtungsdaten in einer gemeinsamen Datenbank.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es wirklich kostenlos?**
 

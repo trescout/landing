@@ -22,7 +22,7 @@ Se encuentra en arquitecturas de computación en la nube, sistemas de gestión d
 
 Puede confundirse con plano de datos; Uno gestiona, el otro hace el trabajo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si falla?**
 

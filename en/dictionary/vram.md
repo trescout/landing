@@ -24,7 +24,7 @@ It is used in games, video editing programs, and systems that run native artific
 
 It is often confused with system RAM; RAM is used for general tasks, while VRAM is used for intensive graphics and calculation tasks of the graphics card.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if VRAM is not enough?**
 

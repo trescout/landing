@@ -22,7 +22,7 @@ You frequently encounter them in the background of websites, application develop
 
 They can be confused with plugins; while hooks are more of a code-level connection point, plugins offer broader features.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we just change the main code directly?**
 

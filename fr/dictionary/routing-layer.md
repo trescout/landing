@@ -22,7 +22,7 @@ Il fonctionne sur les passerelles API, les architectures de microservices et les
 
 Ce n'est pas une base de données qui stocke directement les données ; Ce n'est qu'un agent de la police de la circulation qui gère la circulation.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que fait la couche de routage ?**
 

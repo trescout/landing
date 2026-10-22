@@ -22,7 +22,7 @@ Algoritmik ticarette ve finansal modellemede kullanılır.
 
 Geleceği tahmin etmekle karıştırılmamalıdır; geçmişte iyi çalışması gelecekte de aynı performansı vereceği anlamına gelmez.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Backtesting kesin sonuç verir mi?**
 

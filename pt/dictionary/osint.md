@@ -44,7 +44,7 @@ Confundido com hacking. Um invade, o outro lê. Um arromba a porta, o outro trab
 **Detetive:** Rastreamento.
 **Arqueologia:** Da parte para o todo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Isso é legal?**
 

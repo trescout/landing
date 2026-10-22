@@ -43,7 +43,7 @@ Mistaken for a pipeline. A pipeline is a technical data flow, while a workflow i
 **Assembly:** Part order.
 **Counter:** Registration and routing.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why automate it?**
 

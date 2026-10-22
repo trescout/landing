@@ -44,7 +44,7 @@ Acreditam que são linguagens web. Elas cuidam da interface, estas do hardware. 
 **Fundação:** A estrutura de suporte do edifício.
 **Esqueleto:** A estrutura do corpo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Quais estão incluídos?**
 

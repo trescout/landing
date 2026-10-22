@@ -22,7 +22,7 @@ Il est utilisé pour suivre les prix sur les sites de commerce électronique, re
 
 Il peut être confondu avec les modèles d'agents d'IA à usage général, mais il s'agit uniquement d'un navigateur Web.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'agent de page est-il sûr ?**
 

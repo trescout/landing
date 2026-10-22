@@ -45,7 +45,7 @@ Tarama sanılır. Tarama otomatik ve yüzeyseldir, red teaming yaratıcı ve ins
 
 *Bankanın kapı ve alarmlarını test için profesyonel hırsız kiralamak gibidir; soygun gerçek değil, ders gerçektir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu yönteme ihtiyaç var?**
 

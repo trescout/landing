@@ -22,7 +22,7 @@ Se utiliza en call center, software de análisis de reuniones y asistentes de vo
 
 Se diferencia de las herramientas que sólo realizan la conversión de audio y texto mediante el análisis de sentimientos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿SpeechAnalyzer viola la privacidad?**
 

@@ -22,7 +22,7 @@ Se utiliza en asistentes virtuales, robots de atención al cliente y herramienta
 
 No debe confundirse con los sistemas estándar de "texto a voz"; siguen siendo más mecánicos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se llama 'Frontera'?**
 

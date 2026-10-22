@@ -18,7 +18,7 @@ Ocorre nos processos de planejamento, escrita de código, depuração e verifica
 
 É utilizado em processos de desenvolvimento de software, treinamento em inteligência artificial (como RLHF) e gerenciamento geral de projetos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A inteligência artificial substituirá completamente o trabalho humano?**
 

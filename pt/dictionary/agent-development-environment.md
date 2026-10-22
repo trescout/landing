@@ -22,7 +22,7 @@ Nesse ambiente, os desenvolvedores definem quais informações o agente pode ace
 
 Não deve ser confundido com editores de texto padrão que apenas escrevem código; Também existem ferramentas para monitorar o processo de “pensamento” do agente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é necessário um ambiente especial?**
 

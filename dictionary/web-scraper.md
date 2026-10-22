@@ -22,7 +22,7 @@ Piyasa araştırması, fiyat karşılaştırma ve akademik veri toplama çalış
 
 Web scraping işlemi ile bazen basit bir kopyala-yapıştır işlemi karıştırılabilir, ancak bu yöntem tamamen otomatiktir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her siteden veri çekilebilir mi?**
 

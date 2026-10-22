@@ -22,7 +22,7 @@ Se utiliza al desarrollar sitios web, codificar aplicaciones móviles o preparar
 
 A menudo se confunde con producción: mientras que el entorno de desarrollo es la cocina donde simplemente escribimos código y experimentamos, el entorno de producción es el restaurante donde se sirve la comida al cliente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿No se puede escribir código sin un entorno de desarrollo?**
 

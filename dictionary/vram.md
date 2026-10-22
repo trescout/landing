@@ -24,7 +24,7 @@ Oyunlarda, video düzenleme programlarında ve yerel yapay zekâ modellerini ça
 
 Sistem RAM'i ile sık karıştırılır; RAM genel işler için, VRAM ise ekran kartının yoğun grafik ve hesaplama işleri için kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **VRAM yetmezse ne olur?**
 

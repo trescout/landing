@@ -42,7 +42,7 @@ It is thought to be the software itself. However, the environment is the house i
 **Aquarium:** The water and temperature in which the fish live.
 **Scene:** Light and sound system.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why does it give an error?**
 

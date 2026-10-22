@@ -24,7 +24,7 @@ Se utiliza en juegos, programas de edición de vídeo y sistemas que ejecutan mo
 
 A menudo se confunde con la RAM del sistema; La RAM se utiliza para tareas generales y la VRAM se utiliza para tareas intensivas de gráficos y cálculo de la tarjeta gráfica.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si la VRAM no es suficiente?**
 

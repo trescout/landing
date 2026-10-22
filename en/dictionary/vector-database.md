@@ -31,7 +31,7 @@ The vector database gives these models an associative memory similar to the huma
 Forgetting the Metadata Filter: Pure vector similarity can miss time or category context; it must be supported with filters.
 Failing to Anticipate Memory Costs: Keeping high-dimensional vectors in RAM without compression causes a cost explosion; quantization must be applied.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can classical relational databases (PostgreSQL etc.) be used as vector databases?**
 

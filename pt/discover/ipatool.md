@@ -81,7 +81,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 
 - **Para quem é:** Pesquisadores de segurança iOS, desenvolvedores móveis, especialistas em engenharia reversa e arquivadores de IPA.
-- **Licença:** MIT (Özgür açık kaynak lisansı)
+- **Licença:** MIT (Licença de código aberto livre)
 - **Framework:** CLI multiplataforma baseada em Go
 - **Plataformas:** macOS, Linux, Windows
 

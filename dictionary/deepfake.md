@@ -22,7 +22,7 @@ Film sektöründe efekt yapımında, sosyal medyada eğlence içeriklerinde ve s
 
 Basit fotoğraf düzenleme ile karıştırılmamalıdır; deepfake çok daha karmaşık ve hareketli içerikleri kapsar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bir videonun deepfake olduğunu nasıl anlarım?**
 

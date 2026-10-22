@@ -18,7 +18,7 @@ You open a text file and write the commands you want to run one under the other.
 
 It is frequently used in server management, backup operations or software installation processes.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I use script instead of writing it by hand?**
 

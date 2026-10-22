@@ -22,7 +22,7 @@ O sistema salva as conversas mantidas com você e os documentos compartilhados e
 
 Não deve ser confundido com a janela de contexto (context window): enquanto a memória temporária define apenas o limite de palavras lembradas durante a conversa ativa atual, o contexto persistente retém as informações mesmo dias após o encerramento da conversa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O contexto persistente deixa a inteligência artificial mais lenta?**
 

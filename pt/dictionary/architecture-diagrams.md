@@ -22,7 +22,7 @@ Caixas, setas e linhas são frequentemente utilizadas. As caixas representam par
 
 Pode ser confundido com fluxogramas; No entanto, os diagramas arquitetônicos mostram mais a estrutura do sistema e os fluxogramas mostram as etapas de um processo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preciso saber código para desenhar esses diagramas?**
 

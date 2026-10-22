@@ -32,7 +32,7 @@ Além disso, o Transformer se tornou uma espinha dorsal universal de inteligênc
 - Confundir pesos de atenção com explicações lógicas: Uma pontuação alta de atenção não é uma evidência absoluta de causa-efeito, mas uma correlação estatística de peso.
 - Escolhendo o modelo errado para a tarefa errada: Os modelos codificadores devem ser preferidos em vez dos enormes modelos decodificadores para tarefas puras de classificação ou pesquisa.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Qual é a maior vantagem da arquitetura Transformer sobre os modelos RNN e LSTM?**
 

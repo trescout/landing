@@ -24,7 +24,7 @@ It is used in smart televisions, special IPTV boxes or viewing applications on c
 
 It may be confused with streaming platforms such as Netflix or YouTube, but IPTV is an infrastructure technology that generally covers the transmission of live television channels.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is high-speed internet required to watch IPTV?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans la couche architecturale de base de tous les modèles de la
 
 Cela peut être confondu avec la mémoire générale ou simplement avec des méthodes de comptage de mots, mais la clé ici est la capacité de se concentrer.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce si important ?**
 

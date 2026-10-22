@@ -30,7 +30,7 @@ On pense à une base de données. Pourtant, ce sont des fichiers texte brut. L'u
 **Trousseau de clés :** Clés testées.
 **Roue de mot de passe :** Roue de probabilité.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce légal ?**
 

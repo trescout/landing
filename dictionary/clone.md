@@ -39,7 +39,7 @@ Klonlanan klasörün içindeki `.git` dizini, deponun hafızasıdır: Tüm commi
 
 *Kütüphanedeki kitabın yalnızca bir sayfasının fotoğrafını çekmek değil, kitabın tüm kopyasını kendi rafınıza almak gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Klonlayınca projeyi değiştirebilir miyim?**
 

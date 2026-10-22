@@ -22,7 +22,7 @@ Il est utilisé dans les processus de développement de logiciels, les réunions
 
 Il peut être confondu avec les organigrammes ; Cependant, les diagrammes architecturaux montrent davantage la structure du système et les organigrammes montrent les étapes d'un processus.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je connaître le code pour dessiner ces diagrammes ?**
 

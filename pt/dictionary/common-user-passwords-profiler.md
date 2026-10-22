@@ -24,7 +24,7 @@ Ele compara as senhas do sistema com esta lista comum. Se houver uma correspond�
 
 Pode ser confundido com listas de palavras; Esta ferramenta é um mecanismo de análise que utiliza essas listas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Posso testar minha própria senha?**
 

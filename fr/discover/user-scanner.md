@@ -79,7 +79,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Chercheurs en cybersécurité, analystes OSINT, experts en informatique légale et hackers éthiques.
-- **Licence:** GPL-3.0 (Açık kaynak copyleft lisansı)
+- **Licence:** GPL-3.0 (Licence copyleft open source)
 - **Toit:** Scanner OSINT asynchrone en Python
 - **Plateformes:** Linux, macOS, Windows
 

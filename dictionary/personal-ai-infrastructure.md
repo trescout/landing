@@ -22,7 +22,7 @@ Kişisel asistanlar, yerel doküman analiz araçları ve gizlilik odaklı yapay 
 
 Sadece bir uygulama kullanmakla karıştırılabilir; burada altyapının kontrolü tamamen sizdedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bunu kurmak zor mu?**
 

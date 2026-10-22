@@ -35,7 +35,7 @@ Point of caution: If the serial and notifications turn into pressure, the user c
 **Business life:** Bonus levels and sales champion titles.
 **Retail:** Loyalty cards and tiered discounts.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can everything be gamified?**
 

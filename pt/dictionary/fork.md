@@ -22,7 +22,7 @@ Ao pressionar o botão relevante nas plataformas de hospedagem de código, você
 
 Não deve ser confundido com o processo de clonagem, que simplesmente baixa o projeto para o computador e o examina; O processo de bifurcação cria uma propriedade nova e independente no lado do servidor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Receberei atualizações do projeto original após a bifurcação?**
 

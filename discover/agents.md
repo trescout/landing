@@ -58,7 +58,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [STT](https://trescout.com/dictionary/stt/)
 - [Framework](https://trescout.com/dictionary/framework/)
 - [LLM](https://trescout.com/dictionary/llm/)
 - [Agent](https://trescout.com/dictionary/agent/)

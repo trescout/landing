@@ -45,7 +45,7 @@ Acha-se que são ferramentas de desenho. No entanto, o Mermaid é baseado em tex
 **Estenografia:** Escrita da fala por meio de atalhos.
 **Matemática:** Descrição de formas por meio de fórmulas.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Quais gráficos podem ser desenhados com o Mermaid?**
 

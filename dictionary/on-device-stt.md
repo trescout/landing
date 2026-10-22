@@ -38,7 +38,7 @@ Bulut tanıma sanılır. O sunucuda çalışır, veri dışarı gider. Bu cihazd
 
 *Sözlüğü kafasında taşıyan çevirmenle aynı odada olmaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bulut yerine?**
 
@@ -58,7 +58,7 @@ Evet. Sürekli dinleme bedel ister, ihtiyaç anı açılır.
 
 ## İlgili terimler
 
-- [STT](https://trescout.com/dictionary/stt/)
+- [STT](https://trescout.com/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/dictionary/speech-to-text/)
 - [Local](https://trescout.com/dictionary/local/)
 

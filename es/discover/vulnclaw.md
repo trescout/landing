@@ -65,8 +65,6 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [PoC](https://trescout.com/es/dictionary/poc/)
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/es/dictionary/context/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

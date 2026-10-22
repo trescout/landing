@@ -80,7 +80,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Administradores de sistemas, ingenieros de DevOps, expertos en redes y arquitectos de la nube.
-- **Licencia:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **Licencia:** BSD 3 cláusulas (licencia de código abierto flexible)
 - **Marco:** Biblioteca tsnet Go & Tailscale
 - **Plataformas:** Linux, Mac OS, Windows
 

@@ -43,7 +43,7 @@ Generative KI-Konversationsmodelle sind im Allgemeinen nicht deterministisch: Si
 **Druckerei:** Den gleichen Druck aus der gleichen Form nehmen.
 **Labor:** Wiederholen derselben Messung mit demselben Protokoll.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist es wichtig?**
 

@@ -22,7 +22,7 @@ Se encuentra en teléfonos inteligentes, computadoras portátiles y paquetes de 
 
 No confundir con las aplicaciones requeridas del sistema; Bloatware es software que no es opcional y crea ineficiencia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo me deshago del bloatware?**
 

@@ -2,16 +2,16 @@
 
 Développé par Meta, Astryx propose un système de conception entièrement personnalisable et compatible avec les agents d'intelligence artificielle. Cette bibliothèque open source basée sur TypeScript configure les composants d'interface pour l'utilisation de systèmes autonomes.
 
-- ★ 13 678
+- ★ 13 718
 - TypeScript
 - GitHub Trending · 2026-07-01
 
 ## Mises à jour
 
+- **22 octobre 2026:** Étoiles 13,678 → 13,718, dernière version v0.7.2 (21 octobre 2026).
 - **16 octobre 2026:** Étoiles 13,630 → 13,678, dernière version v0.7.1 (15 octobre 2026).
 - **13 octobre 2026:** Étoiles 13,591 → 13,630, dernière version v0.7.0 (13 octobre 2026).
 - **11 octobre 2026:** Étoiles 13,581 → 13,591, dernière version v0.6.8 (10 octobre 2026).
-- **10 octobre 2026:** Étoiles 13,566 → 13,581, dernière version v0.6.7 (9 octobre 2026).
 
 ## Ce que ça vous apporte
 

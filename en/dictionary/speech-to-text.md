@@ -2,6 +2,8 @@
 
 *Artificial Intelligence · Last updated: September 22, 2026*
 
+> STT
+
 Speech-to-text (STT for short) is the technology that converts speech into written text.
 
 ## Definition and Word Origin
@@ -42,7 +44,7 @@ It is thought to be text-to-speech. It converts that text into sound, this sound
 **Typewriter:** Do not transcribe what is said.
 **Subtitle room:** Keeping up with the broadcast text.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does he understand every accent?**
 

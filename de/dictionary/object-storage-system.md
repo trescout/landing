@@ -22,7 +22,7 @@ Es wird bei Cloud-Speicherdiensten, großen Datensicherungen und der Bereitstell
 
 Es kann mit normalen Festplatten-Dateisystemen verwechselt werden; dieses System ist jedoch für wesentlich größere Datenmengen konzipiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum werden keine Ordner verwendet?**
 

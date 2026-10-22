@@ -81,7 +81,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Apple Silicon](https://trescout.com/en/dictionary/apple-silicon/)
 
 - **Who it is for:** AI researchers, machine learning engineers, data scientists, and students.
-- **License:** Apache-2.0 (Açık kaynak lisansı)
+- **License:** Apache-2.0 (Open source license)
 - **Framework:** PyTorch-Based Minimalist LLM Framework
 - **Platforms:** Linux, macOS (Apple Silicon MPS), Windows
 

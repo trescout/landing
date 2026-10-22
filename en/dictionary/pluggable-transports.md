@@ -22,7 +22,7 @@ It is used to access the internet freely in regions where censorship is intense.
 
 Although it serves similar purposes to a VPN, its operating logic and masking methods are more specific.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can everyone use it?**
 

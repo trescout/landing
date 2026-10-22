@@ -22,7 +22,7 @@ Os aplicativos solicitam permissão do kernel para acessar os recursos subjacent
 
 É confundido com espaço do kernel; O kernel domina todo o sistema, enquanto o espaço do usuário é limitado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que existe essa distinção?**
 

@@ -22,7 +22,7 @@ Es wird im Cloud Computing verwendet, um Anwendungen schnell auszuführen oder e
 
 Es kann mit vollwertigen virtuellen Maschinen (Virtual Machines) verwechselt werden, sie booten jedoch viel schneller.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich mich für das Leichtgewicht entscheiden?**
 

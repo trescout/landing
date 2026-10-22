@@ -24,7 +24,7 @@ Evlerde medya sunucusu olarak veya ofislerde ortak dosya paylaşımı için kull
 
 Sadece internete bağlı bir sabit disk değildir, kendi işletim sistemi olan akıllı bir depolama birimidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **NAS ile bulut depolama aynı mı?**
 

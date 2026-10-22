@@ -22,7 +22,7 @@ Es wird beim Systemdesign, bei Teambesprechungen und in der technischen Dokument
 
 Es ist nicht nur ein Bild, es ist ein Modell, das die logische Funktionsweise des Systems darstellt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann jemand ein Diagramm zeichnen?**
 

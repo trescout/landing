@@ -2,16 +2,16 @@
 
 Développé par Kyutai Labs, Pocket-TTS est un modèle léger de synthèse vocale qui s'exécute uniquement sur l'unité centrale (CPU) sans avoir besoin d'une unité de traitement graphique. Grâce à sa faible consommation de ressources, il offre une synthèse sonore rapide et efficace sur les appareils soumis à des restrictions matérielles.
 
-- ★ 9 972
+- ★ 10 002
 - Python
 - GitHub Trending · 2026-07-08
 
 ## Mises à jour
 
+- **22 octobre 2026:** Étoiles 9,972 → 10,002, dernière version v4.0.1 (21 octobre 2026).
 - **21 octobre 2026:** Étoiles 9,663 → 9,972, dernière version v4.0.0 (20 octobre 2026).
 - **27 septembre 2026:** Étoiles 9,348 → 9,663, dernière version v3.3.0 (24 septembre 2026).
 - **4 septembre 2026:** Étoiles 9,151 → 9,348, dernière version v3.1.0 (3 septembre 2026).
-- **27 août 2026:** Étoiles 7,994 → 9,151, dernière version v3.0.2 (25 août 2026).
 
 ## Ce que ça vous apporte
 

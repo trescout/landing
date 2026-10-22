@@ -2,6 +2,8 @@
 
 *Inteligencia artificial · Última actualización: 9 de junio de 2026*
 
+> CV
+
 Es una tecnología que permite a las computadoras analizar datos visuales (fotos, videos) y dar sentido a los objetos, personas o eventos que contienen.
 
 ## Definición
@@ -22,7 +24,7 @@ Se utiliza en vehículos autónomos, sistemas de reconocimiento facial, imágene
 
 Se puede mezclar con multimodal; multimodal puede procesar tanto texto como imágenes, mientras que la visión por computadora está orientada visualmente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede la visión por computadora verlo todo?**
 

@@ -22,7 +22,7 @@ Cloud-Computing-Systeme, Datenbanken und stark frequentierte Webdienste.
 
 Es geht nicht nur darum, schnell zu sein, sondern dass die Leistungssteigerung proportional zur Zunahme der Ressourcen ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum kann nicht jedes System linear skalieren?**
 

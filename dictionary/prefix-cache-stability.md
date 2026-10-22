@@ -22,7 +22,7 @@ Yüksek trafikli yapay zekâ uygulamalarında ve sohbet botlarında kullanılır
 
 KV cache ile karıştırılabilir; KV cache modelin çalışma anındaki hafızasıdır, bu ise o hafızanın stabil kalmasını sağlayan bir stratejidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu yöntem doğruluğu artırır mı?**
 

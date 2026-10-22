@@ -27,8 +27,6 @@ Abra seu projeto Unity e vá para a janela Gerenciador de Pacotes. Clique em 'Ad
 
 ## Termos relacionados do glossário
 
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/pt/dictionary/context/)
 - [Large Language Models](https://trescout.com/pt/dictionary/large-language-models/)
 - [MCP](https://trescout.com/pt/dictionary/mcp/)

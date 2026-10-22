@@ -95,7 +95,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [RAM](https://trescout.com/fr/dictionary/ram/)
 
 - **Pour qui:** Pour les développeurs d'IA qui souhaitent exécuter des modèles de langage étendus (LLM) à vitesse maximale et avec une confidentialité native sur des ordinateurs Mac équipés de processeurs Apple Silicon.
-- **Licence:** Apache-2.0 (Açık kaynak lisansı)
+- **Licence:** Apache-2.0 (licence Open Source)
 - **Toit:** Moteur d'inférence natif basé sur Apple MLX et Python
 - **Matériel:** Apple Silicon séries M1, M2, M3, M4 (Pro, Max, Ultra pris en charge)
 

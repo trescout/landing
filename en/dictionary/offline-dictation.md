@@ -22,7 +22,7 @@ It's used in privacy-requiring note-taking apps, on-the-go professionals' device
 
 It is the same as voice-to-text but differs in that it does not require the internet.
 
-## Frequently asked questions
+## Questions and answers
 
 **How can it work so smartly if there is no internet?**
 

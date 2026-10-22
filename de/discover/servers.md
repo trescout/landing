@@ -55,12 +55,11 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol-mcp/)
 - [SDK](https://trescout.com/de/dictionary/sdk/)
 - [Context](https://trescout.com/de/dictionary/context/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Dies ist für Entwickler gedacht, die KI-Modelle sicher mit externen Tools wie lokalen Dateien, Speicher und Code-Repositorys integrieren möchten.
 

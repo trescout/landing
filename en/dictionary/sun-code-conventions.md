@@ -31,7 +31,7 @@ Today, millions of lines of legacy Java projects running in finance, banking, an
 Mistaking a Frozen Document for Current: Using a Sun manual that hasn't been updated since 1999 as the sole source for modern projects creates technical debt.
 Forgetting Braces in Conditions: Omitting braces in single-line bodies can lead to security vulnerabilities in the future.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why hasn't the Sun Code Conventions been updated since 1999?**
 

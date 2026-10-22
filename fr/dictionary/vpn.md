@@ -24,7 +24,7 @@ Il est utilisé dans les réseaux WiFi publics, pour des travaux nécessitant de
 
 Il peut être confondu avec un proxy, mais un VPN crypte tout le trafic des appareils, alors qu'un proxy n'achemine généralement que certaines applications.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le VPN va-t-il ralentir ma vitesse ?**
 

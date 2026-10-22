@@ -42,7 +42,7 @@ Manuel etiketleme sanılır. O insan elidir, bu model çıktısıdır. Hız maki
 
 *Binlerce kitabı okuyup kapağına kategoriyi yazan hızlı kütüphaneci gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Her zaman doğru mu?**
 

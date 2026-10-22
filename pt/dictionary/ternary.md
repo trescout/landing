@@ -22,7 +22,7 @@ As operações são executadas através de três estados lógicos diferentes em 
 
 Não deve ser confundido com o sistema binário: enquanto o binário usa apenas 0 e 1, o ternário trabalha com 3 valores diferentes.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que os modelos de inteligência artificial ternários são importantes?**
 

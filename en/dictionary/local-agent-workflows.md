@@ -22,7 +22,7 @@ It is preferred when working with confidential data, in personal artificial inte
 
 It is mixed with cloud-based AI services; This method uses entirely local resources.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is my computer's power sufficient?**
 

@@ -22,7 +22,7 @@ Neste ambiente que roda no navegador, você escreve seu código em áreas dividi
 
 Sua diferença em relação aos editores de código padrão é que ele permite executar o código peça por peça e ver o resultado imediatamente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Pessoas que não sabem codificar podem usá-lo?**
 

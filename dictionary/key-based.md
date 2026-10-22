@@ -22,7 +22,7 @@ Bulut sistemlerinde, API bağlantılarında ve şifreli dosya paylaşımlarında
 
 Parola ile benzerdir ancak anahtarlar genellikle daha uzun ve rastgele karakterlerden oluşur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden şifre yerine anahtar kullanılır?**
 

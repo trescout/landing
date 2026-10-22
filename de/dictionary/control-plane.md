@@ -22,7 +22,7 @@ Es findet sich in Cloud-Computing-Architekturen, Netzwerkmanagementsystemen und 
 
 Es kann mit der Datenebene verwechselt werden; Einer verwaltet, der andere erledigt die Arbeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn es abstürzt?**
 

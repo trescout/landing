@@ -22,7 +22,7 @@ On le rencontre fréquemment lors des tests de sécurité en intelligence artifi
 
 Il est très proche du concept de prompt injection, mais l'injection de prompt vise à insérer directement des instructions cachées dans le système, tandis que le jailbreak se concentre directement sur la violation des règles morales et de sécurité fondamentales du modèle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le jailbreak est-il légal ?**
 

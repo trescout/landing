@@ -22,7 +22,7 @@ It is the standard in the architecture of web and mobile applications, especiall
 
 Can be mixed with database; The data layer is not the database, but the method of accessing the database.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we connect directly?**
 

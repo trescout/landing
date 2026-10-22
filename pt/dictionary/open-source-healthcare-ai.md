@@ -22,7 +22,7 @@ Baixe modelos de saúde de código aberto de plataformas como GitHub, teste-os c
 
 Pode ser confundido com softwares comerciais de saúde, mas o interior desses modelos é visível para qualquer pessoa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Esses modelos substituirão os médicos?**
 

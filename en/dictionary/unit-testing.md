@@ -22,7 +22,7 @@ It is used at the very beginning of the software development process, while the 
 
 It can be confused with end-to-end testing; While it tests the entire system, unit testing focuses on just one part.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I test every part?**
 

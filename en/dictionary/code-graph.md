@@ -22,7 +22,7 @@ It is used in complex software projects, code refactoring (improvement) processe
 
 It can be confused with the classic file directory structure, but this shows functional logical links of the code, not just files.
 
-## Frequently asked questions
+## Questions and answers
 
 **How does Code-Graph help you write code?**
 

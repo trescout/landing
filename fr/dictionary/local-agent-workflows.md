@@ -22,7 +22,7 @@ Il est privilégié lorsque l’on travaille avec des données confidentielles, 
 
 Il est mélangé à des services d’IA basés sur le cloud ; Cette méthode utilise des ressources entièrement locales.
 
-## Questions fréquentes
+## Questions et réponses
 
 **La puissance de mon ordinateur est-elle suffisante ?**
 

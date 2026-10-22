@@ -43,7 +43,7 @@ Se cree que es un robot controlado por control remoto. Está completamente en ma
 **Ascensor:** Selección de piso según el botón.
 **Piloto automático:** Un sistema que mantiene el rumbo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo aprenden?**
 

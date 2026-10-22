@@ -22,7 +22,7 @@ Está nos filtros de e-mail, nos sistemas de recomendação e na base da intelig
 
 A inteligência artificial é um conceito mais amplo, enquanto o aprendizado de máquina é um método usado para criar essa inteligência.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele pode aprender tudo?**
 

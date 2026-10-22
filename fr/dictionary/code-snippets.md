@@ -51,7 +51,7 @@ Les équipes d'ingénierie performantes font des extraits de code une norme d'en
 Extraits de code dans le dépôt (.vscode/) : Grâce aux fichiers d'extraits de code partagés ajoutés au dépôt du projet, un développeur rejoignant l'équipe peut, dès le premier jour, rédiger le client API ou le modèle de test standard de l'entreprise en respectant les conventions appropriées.
 Extraits de documentation : Les boutons « copier » présents dans la documentation de plateformes à succès comme Stripe ou Tailwind sont un outil moderne qui améliore l'expérience développeur (DX).
 
-## Foire aux questions
+## Questions et réponses
 
 **Que signifie code snippet (Qu'est-ce qu'un extrait de code) ?**
 

@@ -24,7 +24,7 @@ Sites eletrônicos e SEO estão disponíveis para projetos da web antigos.
 
 Pode ser confundido com renderização do lado do cliente; No lado do cliente, a maior parte do trabalho é feita no navegador, e no SSR, a maior parte do trabalho é feita no servidor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que nem todos os sites usam SSR?**
 

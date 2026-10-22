@@ -73,7 +73,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Radarforscher, Ingenieure der Verteidigungsindustrie, Drohnenentwickler und RF/SDR-Enthusiasten.
-- **Lizenz:** Açık kaynak donanım ve yazılım lisansı
+- **Lizenz:** Open-Source-Hardware- und Softwarelizenz
 - **Frequenzband:** 10,5 GHz (X-Band) FMCW
 - **Zielbereich:** 3 km (Drohne/taktisch) – 20 km (Großraumüberwachung)
 

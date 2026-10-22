@@ -18,7 +18,7 @@ Gruplardaki herkesin diğer gruba ait adayları kendi kafasına göre sıralamas
 
 Organ bağışı eşleştirmelerinde, üniversite kontenjan yerleştirmelerinde ve işe alım süreçlerinde aday ile pozisyonu en uygun şekilde buluşturmak için kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes için mükemmel sonuç mu verir?**
 

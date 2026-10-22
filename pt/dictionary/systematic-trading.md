@@ -22,7 +22,7 @@ Você escreve um conjunto de regras para sua estratégia de investimento. Essas 
 
 Pode ser confundido com negociação manual; Enquanto na negociação manual você toma a decisão instantaneamente, aqui o sistema toma a decisão.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo negociar sistematicamente?**
 

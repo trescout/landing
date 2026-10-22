@@ -22,7 +22,7 @@ Quando você insere um comando como 'excluir tudo' em uma linha de comando, o si
 
 Pode ser confundido com um firewall; Ele bloqueia ataques externos, o que evita erros cometidos internamente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essa proteção deve estar sempre ativada?**
 

@@ -22,7 +22,7 @@ Tıp dünyasında ve nöroloji kliniklerinde kullanılır. Ayrıca yapay zekâ a
 
 Sadece unutkanlık ile karıştırılmamalıdır; unutkanlık geçici olabilir, demans ise kalıcı ve ilerleyici bir süreçtir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Demans ve Alzheimer aynı şey mi?**
 

@@ -22,7 +22,7 @@ Karmaşık problem çözme, büyük ölçekli veri analizi ve otonom robotik sis
 
 Multi-agent sistemlerle benzerdir ancak burada vurgu, birimlerin tek bir zihin gibi hareket etmesindedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hive mind neden daha iyidir?**
 

@@ -61,7 +61,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Herramienta de desarrollo mediana
 - **Que ofertas:** Motor de memoria escalable + API
 - **Tarifa:** Gratis · código abierto (MIT)
-- **Licencia:** MIT · ayrıntı aşağıda
+- **Licencia:** MIT · detalles a continuación
 
 **Licencia:** MIT · Puedes usarlo libremente, modificarlo y utilizarlo comercialmente.
 

@@ -22,7 +22,7 @@ Web sitelerinde alışveriş sepetinin içeriğini tutmak veya bir yapay zekâ s
 
 Veritabanı ile karıştırılır, ancak veritabanı kalıcı kayıt tutarken state management geçici ve anlık durumu yönetir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **State yönetimi bozulursa ne olur?**
 

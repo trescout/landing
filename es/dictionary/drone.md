@@ -24,7 +24,7 @@ Se utilizan ampliamente en operaciones de búsqueda y rescate, cartografía y an
 
 Se pueden confundir con los aeromodelos tradicionales. Mientras que los aeromodelos requieren intervención humana constante, los drones pueden realizar vuelos autónomos y seguimiento automático de rutas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Utilizan inteligencia artificial los drones?**
 

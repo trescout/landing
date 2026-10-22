@@ -22,7 +22,7 @@ Il est utilisé dans des langages tels que Rust, TypeScript, Java et dans des pr
 
 Il ne s'agit pas simplement d'un « message d'erreur » ; C'est le principe de fonctionnement de base du langage de programmation lui-même.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi tout le monde ne l'utilise-t-il pas ?**
 

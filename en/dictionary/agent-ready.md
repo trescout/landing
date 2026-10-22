@@ -22,7 +22,7 @@ It is used in autonomous artificial intelligence systems, task management platfo
 
 Not to be confused with just 'working'; Working means the system is open, while Agent Ready means the system is ready to start working with autonomous decision-making authority.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do I know if a system is Agent Ready?**
 

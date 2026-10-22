@@ -22,7 +22,7 @@ Es el núcleo del procesamiento de imágenes, el reconocimiento de voz y los mod
 
 A menudo se confunde con el aprendizaje automático; El aprendizaje profundo es una subrama más específica y avanzada del aprendizaje automático.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se llama "profundo"?**
 

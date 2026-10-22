@@ -22,7 +22,7 @@ Bulut tabanlı uygulamalarda ve büyük ölçekli sunucu yönetimlerinde kullan�
 
 Imperative (komut odaklı) yöntemlerle karıştırılabilir; o yöntemde her adımı tek tek siz söylersiniz.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu yöntemi tercih etmeliyiz?**
 

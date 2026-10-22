@@ -24,7 +24,7 @@ Il est utilisé pour rendre les documents PDF numérisés modifiables, lire auto
 
 Contrairement aux navigateurs qui enregistrent simplement l’image telle quelle, il convertit le contenu en texte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-il lire l'écriture manuscrite ?**
 

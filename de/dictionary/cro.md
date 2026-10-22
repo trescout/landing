@@ -24,7 +24,7 @@ Es wird auf E-Commerce-Websites, digitalen Marketingkampagnen und zur Verbesseru
 
 Es geht nicht nur darum, mehr Besucher anzulocken (SEO), sondern auch darum, die Besucher effizient zu nutzen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Gibt es schnelle Ergebnisse?**
 

@@ -22,7 +22,7 @@ It is preferred in complex software projects, large corporate systems and critic
 
 It represents a planned and disciplined process rather than flexible methods where constant changes are made during development.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it make you lose speed?**
 

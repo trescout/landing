@@ -22,7 +22,7 @@ Web sitelerinin prototiplerini hazırlarken, mobil uygulama ekranlarını tasarl
 
 Klasik grafik tasarım programlarıyla karıştırılır: Klasik programlar tek bir bilgisayarda çalışıp dosya paylaşımı gerektirirken, iş birlikçi araçlar tamamen internet üzerinde ve eş zamanlı ortak çalışmaya odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu araçları kullanmak için kod bilmek gerekir mi?**
 

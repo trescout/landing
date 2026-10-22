@@ -39,7 +39,7 @@ This command scales the number of web service replicas to five. The count is rev
 **Electrical network:** Power plants that come into operation according to demand.
 **Logistics:** Distribution lines that open and close according to density.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does moving the application to the cloud make it cloud native?**
 

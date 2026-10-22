@@ -35,7 +35,7 @@ Wichtiger Punkt: Wenn Serien und Benachrichtigungen zu Druck führen, könnte de
 **Arbeitswelt:** Prämienstufen und Titel wie 'Verkaufschampion'.
 **Einzelhandel:** Treuekarten und gestaffelte Rabatte.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann alles gamifiziert werden?**
 

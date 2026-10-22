@@ -47,7 +47,7 @@ Cela peut être confondu avec la gestion de projet. La direction contrôle le cy
 **Agriculture :** Cycle saisonnier de la plantation à la récolte.
 **Livre :** Processus de publication du brouillon à l’impression.
 
-## Foire aux questions
+## Questions et réponses
 
 **Comment l’intelligence artificielle affecte-t-elle ce cycle ?**
 

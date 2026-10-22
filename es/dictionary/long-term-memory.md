@@ -22,7 +22,7 @@ Se utiliza en asistentes personales, inteligencia artificial que trabaja en proy
 
 Puede confundirse con la ventana contextual, pero la ventana contextual solo cubre la conversación actual.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Este recuerdo dura para siempre?**
 

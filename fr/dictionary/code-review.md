@@ -22,7 +22,7 @@ Il s'agit d'une pratique courante sur les plateformes telles que GitHub, GitLab 
 
 Contrairement aux tests automatisés qui testent uniquement si le code fonctionne, la logique humaine et l’esthétique entrent ici en jeu.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi n'est-ce pas automatisé ?**
 

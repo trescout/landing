@@ -22,7 +22,7 @@ Estos datos numéricos se encuentran directamente en los archivos de los modelos
 
 Se confunde con la arquitectura del modelo. La arquitectura es como el plano de las habitaciones de un edificio vacío; los pesos son los muebles que se colocan dentro de esas habitaciones y hacen que el edificio sea habitable.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Podemos cambiar estos valores numéricos manualmente?**
 

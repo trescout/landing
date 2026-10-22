@@ -47,7 +47,7 @@ Pensa-se que seja um teste manual. Porém, a linha é totalmente automática: ve
 **Linha de montagem:** Peça, inspeção e pacote.
 **Faixa de bagagem:** Registro, navegação e upload.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que isso é tão importante?**
 

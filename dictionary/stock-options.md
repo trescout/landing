@@ -22,7 +22,7 @@ Stock options, teknoloji şirketlerinde ve girişimlerde çalışanların aidiye
 
 Doğrudan hisse paylaşımı ile karıştırılabilir. Doğrudan hisse paylaşımında çalışana anında hisse verilirken, stock options mekanizmasında sadece gelecekte alma hakkı verilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Opsiyonlar her zaman kazandırır mı?**
 

@@ -22,7 +22,7 @@ Se utiliza en tiempo de ejecución, llamadas API y pruebas de rendimiento de mod
 
 No debe confundirse con entrenar el modelo; La formación es el proceso de aprendizaje del modelo y la inferencia es el proceso de aplicación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El modelo continúa aprendiendo durante la inferencia?**
 

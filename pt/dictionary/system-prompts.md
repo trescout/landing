@@ -22,7 +22,7 @@ Os desenvolvedores adicionam prompts do sistema na seção de configurações do
 
 Pode ser confundido com solicitações do usuário; O prompt do usuário é a sua pergunta atual, enquanto o prompt do sistema é o caráter geral do modelo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O usuário pode ver o prompt do sistema?**
 

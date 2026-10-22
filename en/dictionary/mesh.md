@@ -34,7 +34,7 @@ Service mesh in microservices is a little different: A small proxy called a side
 **Textile:** Fabric weave. Even if a single thread breaks, the tissue preserves its integrity.
 **Biology:** Neural networks. The signal can go around the damaged area.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What does Mesh Wi-Fi do?**
 

@@ -34,7 +34,7 @@ Darüber hinaus sorgt RAG für Transparenz und Erklärbarkeit in der künstliche
 - Überspringen der Neuordnung: Das Drücken der Eingabeaufforderung bei den ersten Titeln mit direkter Vektorähnlichkeit ohne Cross-Encoder führt zu Halluzinationen.
 - Lost-in-the-Middle-Problem: Da LLMs möglicherweise mitten in langen Eingabeaufforderungen Informationen verpassen, sollten die kritischsten Ressourcen am Anfang oder am Ende platziert werden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist der Hauptunterschied zwischen RAG und Fine-Tuning?**
 

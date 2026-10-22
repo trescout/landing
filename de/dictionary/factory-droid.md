@@ -22,7 +22,7 @@ Sie werden in Automobilfabriken, elektronischen Montagelinien, riesigen Logistik
 
 Sie können mit allgemeinen humanoiden Robotern verwechselt werden, aber Fabrik-Droiden sind in der Regel für spezifische und feste industrielle Aufgaben optimiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ersetzen Fabrik-Droiden menschliche Arbeiter?**
 

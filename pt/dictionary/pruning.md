@@ -22,7 +22,7 @@ Os pesos do modelo são analisados, os mais fracos e ineficazes são identificad
 
 É diferente da quantização, que simplifica os números para reduzir o tamanho do modelo, onde conexões diretas desnecessárias são excluídas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A poda reduz a inteligência da inteligência artificial?**
 

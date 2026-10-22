@@ -22,7 +22,7 @@ Il est utilisé pour surveiller l’état des machines dans les usines, suivre l
 
 Il peut être confondu avec une base de données, mais ce dispositif est plutôt du matériel physique au stade de la collecte des données brutes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment un enregistreur de données stocke-t-il les données ?**
 

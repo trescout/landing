@@ -24,7 +24,7 @@ Es findet sich in modernen Automobilen und Fahrzeugen, die autonome Fahrtechnolo
 
 Es kann mit autonomen Fahrzeugen verwechselt werden, aber diese Systeme konzentrieren sich auf die Unterstützung der Fahrerkontrolle.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können diese Systeme das Fahrzeug übernehmen, ohne dass ich es vollständig fahren muss?**
 

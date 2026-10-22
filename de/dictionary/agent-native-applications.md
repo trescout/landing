@@ -22,7 +22,7 @@ Es wird in Automatisierungsplattformen, intelligenten Arbeitsabläufen und auton
 
 Es sollte nicht mit Funktionen der künstlichen Intelligenz verwechselt werden, die später zu einer gewöhnlichen Anwendung hinzugefügt werden; Diese wurden von Grund auf für Agenten entwickelt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum müssen sie speziell entworfen werden?**
 

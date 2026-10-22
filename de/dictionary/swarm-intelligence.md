@@ -22,7 +22,7 @@ Autonome Drohnenschwärme werden in der Logistikoptimierung und in groß angeleg
 
 Nicht zu verwechseln mit einer einzelnen Superintelligenz; Intelligenz liegt hier nicht in einem einzelnen Punkt, sondern im Zusammenspiel der gesamten Herde.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kommt es zum Systemabsturz, wenn eine Einheit ausfällt?**
 

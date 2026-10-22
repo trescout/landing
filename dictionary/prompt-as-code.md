@@ -22,7 +22,7 @@ Yazılım geliştirme süreçlerinde, özellikle yapay zekâ destekli otomasyonl
 
 Prompt engineering ile karıştırılabilir; ancak bu, işin teknik yönetim ve süreç kısmıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden komutları kod gibi yönetmeliyim?**
 

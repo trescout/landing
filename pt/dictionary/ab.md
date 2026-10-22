@@ -24,7 +24,7 @@ Você abre a tela do terminal e executa digitando o endereço web que deseja tes
 
 Não deve ser confundida com ferramentas avançadas de teste de carga ou automações de navegador real; ela mede puramente a velocidade bruta do servidor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Reflete exatamente o tráfego real do usuário?**
 

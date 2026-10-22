@@ -24,7 +24,7 @@ Se utiliza en la generación de imágenes y audio con herramientas de inteligenc
 
 No debe confundirse con claves criptográficas. El valor de la seed no es una contraseña de seguridad, sino simplemente un punto de partida que hace que la secuencia numérica sea predecible.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Obtendré exactamente la misma imagen si introduzco el mismo valor de seed?**
 

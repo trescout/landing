@@ -22,7 +22,7 @@ Ele é usado em processos internos de revisão de código da equipe em plataform
 
 Pode ser confundido com uma única grande 'solicitação pull'; no entanto, este método oferece uma abordagem fragmentada e sequencial.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não enviamos tudo de uma vez?**
 

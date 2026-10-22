@@ -42,7 +42,7 @@ On pense qu'il s'agit d'un site web. Pourtant, localhost est propre à votre seu
 **Musique :** Vérification du son avant l'enregistrement.
 **Cuisine :** Dégustation avant le service.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi utilisons-nous localhost ?**
 

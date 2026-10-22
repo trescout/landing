@@ -42,7 +42,7 @@ Es wird mit einem 3D-Modell verwechselt. Das ist das statische Bild, das ist das
 **Spiegel:** Eine Oberfläche, die Bewegung widerspiegelt.
 **Schatten:** Dunkelheit folgt dem Objekt.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist der Simulationsunterschied?**
 

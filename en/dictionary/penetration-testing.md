@@ -22,7 +22,7 @@ It is regularly applied on companies' websites, servers and critical software in
 
 It can be confused with real cyber attacks; However, this process is completely legal and controlled.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will this test damage the system?**
 

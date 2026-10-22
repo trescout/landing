@@ -25,7 +25,6 @@ Pour l'installation, vous pouvez utiliser les liens de téléchargement adaptés
 ## Termes liés du glossaire
 
 - [ApacheBench (ab)](https://trescout.com/fr/dictionary/apache-bench/)
-- [ab (ApacheBench)](https://trescout.com/fr/dictionary/apache-bench-ab/)
 - [ab](https://trescout.com/fr/dictionary/ab/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

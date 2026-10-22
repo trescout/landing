@@ -22,7 +22,7 @@ Yazılım geliştiriciler, teknik bir doküman yazdırırken sıcaklığı düş
 
 Modelin zekasıyla karıştırılmamalıdır; sadece cevap verme tarzını değiştiren bir filtredir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sıcaklığı çok yükseltirsem ne olur?**
 

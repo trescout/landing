@@ -22,7 +22,7 @@ GitHub veya GitLab gibi platformlardaki açık kaynaklı projelerde veya kurumsa
 
 README.md dosyasıyla karıştırılabilir; README projeyi nasıl çalıştıracağınızı anlatırken, DESIGN.md projenin neden öyle tasarlandığını anlatır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden ayrı bir tasarım dosyasına ihtiyacım var?**
 

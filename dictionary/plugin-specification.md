@@ -22,7 +22,7 @@ Tarayıcı eklentilerinde, yapay zekâ aracı entegrasyonlarında ve büyük yaz
 
 SDK ile karıştırılabilir, ancak SDK daha geniş bir araç setiyken, bu daha çok kural setidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kurallara uymalıyım?**
 

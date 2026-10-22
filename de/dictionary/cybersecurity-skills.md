@@ -22,7 +22,7 @@ Es dient der Gewährleistung der Sicherheit in Softwareentwicklungsprozessen, Sy
 
 Es kann mit dem Begriff Vulnerability Scanning verwechselt werden; Es ist ein Werkzeug, es ist die Fähigkeit, die Sie haben.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es notwendig, Code zu kennen, um Kenntnisse im Bereich Cybersicherheit zu erwerben?**
 

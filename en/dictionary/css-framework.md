@@ -43,7 +43,7 @@ It is considered utility-first. It is the approach, the framework is the tool. T
 **Lego:** Combining parts.
 **Convenience food:** Heated plate.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Aren't the sites similar?**
 

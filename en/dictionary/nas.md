@@ -24,7 +24,7 @@ It is used as a media server at home or for common file sharing in offices.
 
 It is not just a hard disk connected to the internet, it is a smart storage unit with its own operating system.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are NAS and cloud storage the same?**
 

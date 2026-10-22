@@ -24,7 +24,7 @@ It is used in most modern large artificial intelligence models to increase effic
 
 It might be confused with a single model processing all the data.
 
-## Frequently asked questions
+## Questions and answers
 
 **How are the experts selected?**
 

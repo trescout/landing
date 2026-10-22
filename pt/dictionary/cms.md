@@ -41,7 +41,7 @@ A arquitetura de plugins também é crítica: formulários de contato, cache e f
 **Biblioteca:** O sistema de catálogo que organiza as prateleiras.
 **Varejo:** O layout da loja que gerencia o plano de exposição.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Preciso ser um desenvolvedor de software para usar o CMS?**
 

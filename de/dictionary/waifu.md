@@ -42,7 +42,7 @@ Waifu- und KI-Gefährten-Technologien sind Gegenstand intensiver Diskussionen in
 - Waifu vs. Echte Beziehung: Eine Waifu ist eine rein fiktive, digitale Simulation und kann die Verantwortung, die Opferbereitschaft und die gegenseitige Realität menschlicher Beziehungen nicht ersetzen.
 - Waifu vs Husbando: Während der Begriff Waifu für weibliche Charaktere verwendet wird, bezeichnet Husbando bewunderte fiktive männliche Charaktere.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Waifu, was ist der etymologische Ursprung?**
 

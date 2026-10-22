@@ -24,7 +24,7 @@ Il est utilisé dans les processus de développement de logiciels, dans la gesti
 
 Elle est confondue avec une interface graphique (GUI), mais la CLI est entièrement basée sur du texte et offre beaucoup plus de personnalisation.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-il nécessaire d’apprendre le CLI ?**
 

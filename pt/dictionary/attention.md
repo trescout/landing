@@ -22,7 +22,7 @@ Usado em modelos Transformer, LLMs e ferramentas de tradução.
 
 Não deve ser confundido com atenção humana; Este é um processo de ponderação puramente matemático.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é tão importante?**
 

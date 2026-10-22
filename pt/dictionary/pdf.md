@@ -24,7 +24,7 @@ O documento é convertido em um único arquivo com todos os dados da imagem por 
 
 Pode ser confundido com arquivos do Word, mas o Word é editável, enquanto o PDF geralmente é fixado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Posso editar o PDF?**
 

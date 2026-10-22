@@ -22,7 +22,7 @@ It is used in vector databases, pattern recognition systems, speech models, and 
 
 It is confused with traditional random access memory (RAM). While RAM retrieves information using numerical physical addresses, associative memory finds data directly through similarity in its content.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it work even when the input is incomplete or noisy?**
 

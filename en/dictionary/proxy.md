@@ -41,7 +41,7 @@ It is considered a VPN. VPN tunnels the entire device, while proxy usually opera
 **Reception:** The officer who greets the visitor.
 **Interpreter:** The medium that conveys the word.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it safe?**
 

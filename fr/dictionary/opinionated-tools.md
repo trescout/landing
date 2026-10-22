@@ -22,7 +22,7 @@ Il est utilisé dans les cadres de développement de logiciels modernes et les o
 
 On peut le confondre avec les outils flexibles, mais si les outils flexibles peuvent tout changer, ces outils nécessitent une certaine discipline.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi sont-ils si restrictifs ?**
 

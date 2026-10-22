@@ -45,7 +45,7 @@ Multimodal sanılır. Multimodal ailenin adıdır, VLM görsel-metin üyesidir. 
 
 *Sadece okuyabilene görme yetisi kazandırmaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Klasik modelden farkı nedir?**
 

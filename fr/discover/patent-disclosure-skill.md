@@ -80,7 +80,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 
 - **Pour qui:** Conseillers en brevets, gestionnaires de propriété intellectuelle, ingénieurs R&D et inventeurs.
-- **Licence:** MIT (Özgür açık kaynak lisansı)
+- **Licence:** MIT (Licence open source gratuite)
 - **Toit:** Capacité d'agent de brevet basé sur Python
 - **Plateformes:** Linux, macOS, Windows
 

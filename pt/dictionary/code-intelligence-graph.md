@@ -22,7 +22,7 @@ Ele é usado em editores de código modernos, ferramentas de desenvolvimento de 
 
 Não é apenas uma lista de arquivos ou uma simples estrutura de pastas; Também inclui os relacionamentos lógicos do código.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é necessário?**
 

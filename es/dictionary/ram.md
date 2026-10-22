@@ -44,7 +44,7 @@ Se considera almacenamiento. La RAM es un espacio de trabajo temporal, el disco 
 **Pararse:** Mantener el material a mano.
 **Pizarra:** Área de notas temporales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué sucede si la RAM se llena?**
 

@@ -45,7 +45,7 @@ On pense qu'il s'agit d'un enregistrement vocal. L'enregistrement est une consta
 **Radio:** Voix off automatique de la newsletter.
 **Jeu:** Génération de dialogue dynamique.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi les voix semblent-elles parfois robotiques ?**
 

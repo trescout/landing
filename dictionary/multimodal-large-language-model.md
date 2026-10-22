@@ -22,7 +22,7 @@ Görüntü analizi yapan uygulamalarda, sesli asistanlarda ve karmaşık veri an
 
 Sadece metin odaklı olan standart yapay zekâ modelleriyle karıştırılabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her multimodal model bir yapay zekâ mıdır?**
 

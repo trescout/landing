@@ -39,7 +39,7 @@ Hobi projesi sanılır. Hobide gelir hedefi yoktur, indie hacking içinde ticari
 
 *Büyük restoran zincirinde şef olmak yerine kendi küçük yemek kamyonunuzu işletmeye benzer; menüyü ve işleyişi siz belirlersiniz.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Çok iyi kod bilmek şart mı?**
 

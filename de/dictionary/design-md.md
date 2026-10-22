@@ -22,7 +22,7 @@ Sie werden es häufig in Open-Source-Projekten oder Unternehmenssoftware-Reposit
 
 Es kann zu einer Verwechslung mit der Datei README.md kommen. Während README Ihnen erklärt, wie Sie das Projekt ausführen, erklärt DESIGN.md, warum das Projekt auf diese Weise konzipiert wurde.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum benötige ich eine separate Designdatei?**
 

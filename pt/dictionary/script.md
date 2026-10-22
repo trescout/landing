@@ -45,7 +45,7 @@ Acha-se que é uma aplicação. A aplicação é grande e precisa ser compilada,
 **Cartão de receita:** Instrução curta e medida.
 **Autômato:** Mecanismo que funciona ao inserir uma ficha.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Alguém pode escrever?**
 

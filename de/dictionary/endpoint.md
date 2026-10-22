@@ -41,7 +41,7 @@ Wird für den Server gehalten. Der Server ist das Zentrum, der Endpunkt liegt be
 **Haltestelle:** Der Endpunkt der Leitung.
 **Türnummer:** Die Adresse der Wohnung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist Sicherheit wichtig?**
 

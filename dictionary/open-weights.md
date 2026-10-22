@@ -22,7 +22,7 @@ Kendi sunucularında yapay zekâ çalıştırmak isteyen şirketler ve araştır
 
 Açık kaynak yazılım ile karıştırılır; Open Weights modelin iç yapısını sunar ancak bazen modeli eğitmek için kullanılan verilerin kendisi gizli kalabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Open Weights ile modelin her şeyini değiştirebilir miyim?**
 

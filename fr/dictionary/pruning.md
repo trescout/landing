@@ -22,7 +22,7 @@ Il est utilisé dans les optimisations pour intégrer des modèles d’intellige
 
 Elle diffère de la quantification, qui simplifie les nombres pour réduire la taille du modèle, où les connexions directes inutiles sont supprimées.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’élagage réduit-il l’intelligence artificielle ?**
 

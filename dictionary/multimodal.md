@@ -22,7 +22,7 @@ Görüntü üzerinden soru-cevap yapabilen asistanlarda, video analiz araçları
 
 Sadece metin tabanlı modellerle karıştırılır; multimodal modellerin algısı çok daha geniştir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Multimodal modeller daha mı zeki?**
 

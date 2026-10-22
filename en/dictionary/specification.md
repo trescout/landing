@@ -46,7 +46,7 @@ It is similar to Requirement. Requirement tells what is wanted, specification te
 **Assembly guide:** Part and sequence diagram.
 **Tender:** Administrative and technical specifications.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can the spec change?**
 

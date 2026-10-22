@@ -22,7 +22,7 @@ Você o encontrará frequentemente em sites de notícias, blogs e feeds de mídi
 
 Eles diferem dos anúncios pop-up porque não abrem repentinamente, mas permanecem em um determinado local da página.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como os anúncios persistentes afetam a experiência do usuário?**
 

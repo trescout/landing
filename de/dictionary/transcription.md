@@ -43,7 +43,7 @@ Wird oft für Speech-to-Text gehalten. Die Technologie ist dieselbe, die Arbeit 
 **Protokollführer:** Sitzungsprotokoll.
 **Archivar:** Aufnahmeverzeichnis.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Funktioniert es in allen Sprachen?**
 

@@ -44,7 +44,7 @@ Se puede confundir con la búsqueda de metadatos. Los metadatos miran la informa
 **Libro:** La sección de índice al final.
 **Archivo:** Buscar un tema en una colección de recortes de periódicos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿No irá demasiado lento?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans l’analyse complexe des réseaux sociaux, les systèmes de
 
 Elle est fréquemment confondue avec les bases de données relationnelles traditionnelles ; Cependant, ce système établit des relations dès la phase de conception, pas plus tard.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je choisir cette méthode ?**
 

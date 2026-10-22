@@ -22,7 +22,7 @@ Se utiliza en aplicaciones de reconocimiento de imágenes, asistentes de voz y h
 
 Se puede confundir con los modelos de IA estándar que se basan exclusivamente en texto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa multimodal?**
 

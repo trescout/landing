@@ -42,7 +42,7 @@ Waifu ve AI yoldaş teknolojileri, felsefe ve sosyoloji disiplinlerinde yoğun t
 - **Waifu vs Gerçek İlişki:** Waifu tamamen kurgusal, dijital bir simülasyondur; insan ilişkilerinin getirdiği sorumluluk, fedakârlık ve karşılıklı gerçekliği ikame edemez.
 - **Waifu vs Husbando:** Waifu terimi kadın karakterler için kullanılırken, husbando hayranlık duyulan kurgusal erkek karakterler için kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Waifu ne demek, kelime kökeni nedir?**
 

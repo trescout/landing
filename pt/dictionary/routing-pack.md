@@ -39,7 +39,7 @@ Cada linha na saída mostra uma parada. Asteriscos ou tempos longos indicam atra
 **Tráfego aéreo:** A notificação prévia do corredor aéreo que a aeronave seguirá.
 **Correio:** A separação da carta no centro de distribuição de acordo com o código postal no envelope.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Routing Pack é um termo padrão?**
 

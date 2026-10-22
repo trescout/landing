@@ -22,7 +22,7 @@ Se utiliza en lenguajes como Java, C++, Rust y TypeScript.
 
 Se confunde con los lenguajes tipados dinámicamente (como Python); En los lenguajes dinámicos, los tipos se determinan mientras se ejecuta el código.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son más difíciles los lenguajes de tipo estático?**
 

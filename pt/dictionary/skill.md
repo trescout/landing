@@ -46,7 +46,7 @@ Pensa-se que seja uma capacidade geral do modelo. No entanto, o que se quer dize
 **Broca:** Função que varia de acordo com a ponta.
 **Telefone:** Cada aplicativo instalado.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Cada modelo tem uma habilidade?**
 

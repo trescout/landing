@@ -22,7 +22,7 @@ Es wird in Anwendungen zur Bildanalyse, Sprachassistenten und professionellen To
 
 Es kann mit Standard-KI-Modellen verwechselt werden, die nur textorientiert sind.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist jedes multimodale Modell eine künstliche Intelligenz?**
 

@@ -22,7 +22,7 @@ Es wird in großen Softwaresystemen mit Microservice-Architektur eingesetzt.
 
 Es ist nicht nur ein Router; Darüber hinaus übernimmt es Sicherheits- und Verwaltungsaufgaben.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist das nötig?**
 

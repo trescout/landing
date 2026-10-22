@@ -22,7 +22,7 @@ Yazılım geliştirme süreçlerinde, sistem yönetiminde ve hata ayıklama işl
 
 Terminal veya Shell ile karıştırılabilir; ancak Console Host, bu metinlerin görüntülendiği pencereyi ve arayüzü yöneten katmandır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden hala siyah ekran kullanıyoruz?**
 

@@ -22,7 +22,7 @@ Softwareentwickler halten die Temperatur beim Drucken eines technischen Dokument
 
 Nicht zu verwechseln mit der Intelligenz des Modells; Es ist nur ein Filter, der die Art und Weise ändert, wie Sie reagieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn ich die Temperatur zu hoch erhöhe?**
 

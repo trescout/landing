@@ -43,7 +43,7 @@ Pipeline sanılır. Pipeline teknik veri akışıdır, workflow daha genel iş d
 
 *Yemek tarifi gibidir; malzeme hazırlama, pişirme ve servis adımlarının tamamı iş akışıdır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden otomatize edilmeli?**
 

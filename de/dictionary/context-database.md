@@ -22,7 +22,7 @@ Es wird in persönlichen Assistenten für künstliche Intelligenz, unternehmensi
 
 Es wird oft mit Vektordatenbanken verwechselt; Allerdings stellt die Kontextdatenbank eine umfassendere Verwaltungs- und Zugriffsstrategie für diese Daten dar.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist das nötig?**
 

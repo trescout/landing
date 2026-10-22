@@ -22,7 +22,7 @@ Utilizado em processos como web scraping, testes automatizados e monitoramento d
 
 Navegador Headless
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não usamos navegadores normais?**
 

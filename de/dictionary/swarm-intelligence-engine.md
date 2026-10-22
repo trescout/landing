@@ -22,7 +22,7 @@ Es wird in der Logistikoptimierung, bei Roboterschwärmen und komplexen Multiage
 
 Es könnte mit einem einzelnen massiven KI-Modell verwechselt werden, aber hier kommt die Leistung von einer verteilten Struktur.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum Schwärme anstelle eines einzelnen Modells verwenden?**
 

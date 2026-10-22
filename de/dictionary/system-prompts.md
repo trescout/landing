@@ -22,7 +22,7 @@ Es wird im Hintergrund von Chatbots wie ChatGPT, in den Konfigurationsdateien vo
 
 Kann mit Benutzeraufforderungen verwechselt werden; Die Benutzeraufforderung ist Ihre aktuelle Frage, während die Systemaufforderung den allgemeinen Charakter des Modells darstellt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann der Benutzer die Systemaufforderung sehen?**
 

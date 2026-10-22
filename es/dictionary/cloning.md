@@ -22,7 +22,7 @@ Se utiliza al importar proyectos de código abierto desde plataformas como GitHu
 
 Puede confundirse con copia de seguridad; La clonación es más bien una copia que se realiza con el fin de trabajar en ella.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cambia el proyecto original?**
 

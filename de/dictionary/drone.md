@@ -24,7 +24,7 @@ Sie werden häufig bei Such- und Rettungsaktionen, in der Kartografie und landwi
 
 Sie können mit herkömmlichen Modellflugzeugen verwechselt werden. Während Modellflugzeuge ständige menschliche Eingriffe erfordern, können Drohnen autonome Flüge und eine automatische Routenverfolgung durchführen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verwenden Drohnen Künstliche Intelligenz?**
 

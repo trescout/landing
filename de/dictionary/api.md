@@ -24,7 +24,7 @@ Es wird für Wetteranwendungen verwendet, um Daten vom Meteorologiezentrum abzur
 
 Es wird mit der Website selbst verwechselt, aber die API ist dafür konzipiert, dass Maschinen mit Maschinen kommunizieren, nicht mit Menschen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann jeder die API nutzen?**
 

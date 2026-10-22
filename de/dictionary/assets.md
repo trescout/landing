@@ -47,7 +47,7 @@ Hunderttausende Videos, Logos, Produktfotos und Marketingmaterialien für große
 - Asset: Visuelle, akustische oder formale Medienelemente (statische Ressourcen), die vom Code verbraucht und dem Benutzer präsentiert werden.
 - Daten: Variable Informationen (dynamischer Zustand), die Benutzer in das System eingeben oder dynamisch in der Datenbank generiert werden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist ein Asset und was bedeutet es in der Softwareentwicklung?**
 

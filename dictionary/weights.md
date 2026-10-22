@@ -22,7 +22,7 @@ Büyük dil modellerinin yani LLM indirilip bilgisayarda çalıştırılabilen d
 
 Model mimarisi ile karıştırılır. Mimari, boş bir binanın odalarının planı gibidir; ağırlıklar ise o odaların içine yerleştirilen ve binayı yaşanabilir kılan eşyalardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sayısal değerleri elle değiştirebilir miyiz?**
 

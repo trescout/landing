@@ -22,7 +22,7 @@ Se utiliza durante la fase de planificación del proyecto de inteligencia artifi
 
 Puede confundirse con las habilidades de IA; La capacidad es el potencial innato del modelo y la habilidad es el entrenamiento de este potencial para una tarea específica.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Las capacidades de la inteligencia artificial aumentan con el tiempo?**
 

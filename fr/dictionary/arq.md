@@ -20,7 +20,7 @@ L'expéditeur envoie le paquet de données et attend un accusé de réception. S
 
 Il est utilisé dans les protocoles de base et les protocoles réseau d'Internet, tels que le protocole TCP.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce si important ?**
 

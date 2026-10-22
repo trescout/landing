@@ -24,7 +24,7 @@ Il est fréquemment utilisé dans les moteurs de jeu, les productions cinématog
 
 Les méthodes de dessin traditionnelles simplifient la lumière non pas selon les lois physiques, mais simplement pour qu'elle soit visuellement esthétique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi n'est-il pas utilisé dans tous les jeux ?**
 

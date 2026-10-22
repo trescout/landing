@@ -45,7 +45,7 @@ It is thought to be a file transfer. It only copies, ADB interferes with the sys
 **Interpreter:** The language of both sides.
 **Controller:** Remote management.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can everyone use it?**
 

@@ -66,7 +66,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Avancé · Connaissance du ML/modèle
 - **Quelles offres:** TTS multilingue + sound design + clonage
 - **Frais:** Gratuit · open source (Apache-2.0)
-- **Licence:** Apache-2.0 · ayrıntı aşağıda
+- **Licence:** Apache-2.0 · détail ci-dessous
 
 **Licence:** Apache-2.0 · code disponible gratuitement/commercial. Vous assumez la responsabilité juridique/éthique de la sortie du modèle et de la transcription audio.
 

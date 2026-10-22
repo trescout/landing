@@ -22,7 +22,7 @@ It is used in multi-agent systems and corporate artificial intelligence infrastr
 
 It may be confused with a database, but the structure here includes not only data but also experience and context.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should it be central?**
 

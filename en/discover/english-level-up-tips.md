@@ -43,7 +43,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Easy to read and apply
 - **Format:** Comprehensive guide (on GitHub)
 - **Fee:** Free
-- **License:** Belirtilmemiş · ayrıntı aşağıda
+- **License:** Not specified · detail below
 
 **License:** ⚠️ No license specified. By copyright law this means 'all rights reserved': reading and personal use is free, but copying and republishing the content requires the author's permission.
 

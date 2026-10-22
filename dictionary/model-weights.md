@@ -22,7 +22,7 @@ Açık kaynaklı modellerin paylaşılmasında, model dosyalarının boyutlandı
 
 Ham veri veya program koduyla karıştırılabilir, ancak bunlar sadece modelin öğrendiği deneyim katsayılarıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Model ağırlıkları değiştirilebilir mi?**
 

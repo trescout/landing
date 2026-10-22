@@ -22,7 +22,7 @@ Autonomous drone swarms are used in logistics optimization and large-scale multi
 
 Not to be confused with a single superintelligence; Here, intelligence is not in a single point, but in the interaction of the entire herd.
 
-## Frequently asked questions
+## Questions and answers
 
 **If one unit fails, will the system crash?**
 

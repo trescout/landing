@@ -24,7 +24,7 @@ Elle est valable sur toutes les plateformes numériques traitant les données de
 
 Il est confondu avec un simple « avis relatif aux cookies », mais il s'agit d'une loi sur la sécurité des données beaucoup plus complète.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment est-ce que ça me protège ?**
 

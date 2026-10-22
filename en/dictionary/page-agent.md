@@ -22,7 +22,7 @@ It is used when tracking prices on e-commerce sites, filling out forms or collec
 
 It can be confused with general-purpose AI agent models, but this is only web browser focused.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is Page Agent safe?**
 

@@ -22,7 +22,7 @@ It is used in complex software development projects and large-scale business aut
 
 It is almost the same as multi-agent systems; The emphasis here is more on large-scale 'fleet' management.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do representatives understand each other?**
 

@@ -22,7 +22,7 @@ DALL-E is used in rendering tools such as Midjourney and Stable Diffusion.
 
 It is confused with GAN (Generative Adversarial Networks), but diffusion models produce more stable and high-quality results.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it only produce images?**
 

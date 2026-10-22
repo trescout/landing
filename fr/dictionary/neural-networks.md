@@ -22,7 +22,7 @@ Il est activement utilisé dans la reconnaissance d’images, le traitement du s
 
 Contrairement au concept général d’intelligence artificielle, il s’agit de la structure mathématique et architecturale concrète qui constitue cette intelligence.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que ça fonctionne de la même manière que le vrai cerveau ?**
 

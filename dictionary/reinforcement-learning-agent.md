@@ -22,7 +22,7 @@ Robotik sistemlerde, oyun yapay zekâlarında ve otomatik borsa alım satım str
 
 Standart programlanmış kurallarla çalışan botlardan farklı olarak, kendi stratejisini deneyimle oluşturur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu birimler her zaman doğruyu mu bulur?**
 

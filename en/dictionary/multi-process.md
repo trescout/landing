@@ -22,7 +22,7 @@ It is frequently used, particularly in web browsers where each tab runs as a sep
 
 It is often confused with the multi-threading concept. While multi-threading handles tasks using lightweight threads that share the same memory space, the multi-process method assigns each task its own completely isolated memory space.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does using multi-process strain the computer?**
 

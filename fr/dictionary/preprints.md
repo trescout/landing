@@ -22,7 +22,7 @@ Dans le monde académique, ils sont intensivement utilisés, en particulier dans
 
 Ils ne doivent pas être confondus avec les articles finaux des revues à comité de lecture ; ce sont des brouillons qui n'ont pas encore reçu une approbation complète.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les prépublications sont-elles fiables ?**
 

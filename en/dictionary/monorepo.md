@@ -39,7 +39,7 @@ It seems like confusion. However, it is regular centralization. Mess is due to l
 **Shopping mall:** Stores with shared roofs.
 **Campus:** Buildings with common areas.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it suitable for everyone?**
 

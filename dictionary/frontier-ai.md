@@ -36,7 +36,7 @@ AGI sanılır. Frontier bugünün en iyisidir, AGI hedeflenen genel zekâdır. B
 
 *Standart araçlar arasında Formula 1 aracı gibidir; en hızlı ve en gelişmiş olandır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes kullanabilir mi?**
 

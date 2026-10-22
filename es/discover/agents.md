@@ -49,7 +49,6 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [STT](https://trescout.com/es/dictionary/stt/)
 - [Framework](https://trescout.com/es/dictionary/framework/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [Agent](https://trescout.com/es/dictionary/agent/)

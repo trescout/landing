@@ -22,7 +22,7 @@ Model, kendisine verilen birkaç örnekten yola çıkarak desenleri tanır. Bu �
 
 Fine-tuning ile karıştırılır; fine-tuning modelin yapısını değiştirirken, few-shot yöntemi sadece o anki komutun içine örnek eklemektir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kaç örnek yeterlidir?**
 

@@ -22,7 +22,7 @@ It is applied in digital libraries, government archives, museum databases, and l
 
 It is confused with a simple backup operation. Backup is copying the data as it is today; this process is planning how that data will be opened even on computers 50 years from now.
 
-## Frequently asked questions
+## Questions and answers
 
 **How can I apply this at home for my own photos?**
 
@@ -36,7 +36,7 @@ Cloud storage is a good tool, but it is important not to be dependent on a singl
 
 - [Backup Program](https://trescout.com/en/dictionary/backup-program/)
 - [Incremental Backup](https://trescout.com/en/dictionary/incremental-backup/)
-- [Personal Knowledge Management](https://trescout.com/en/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/en/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/en/dictionary/personal-knowledge-management/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/digital-preservation/)

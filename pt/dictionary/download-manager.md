@@ -22,7 +22,7 @@ Ele é usado em sites de compartilhamento de arquivos, ao baixar grandes pacotes
 
 Pode ser confundido com os gerenciadores de download simples dos próprios navegadores, mas essas ferramentas oferecem recursos muito mais avançados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso acelera todos os arquivos?**
 

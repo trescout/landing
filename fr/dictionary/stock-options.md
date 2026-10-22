@@ -22,7 +22,7 @@ Il est fréquemment utilisé, en particulier dans les startups en phase de déma
 
 Cela peut être confondu avec le partage direct. Dans le cas du partage direct d'actions, le salarié reçoit immédiatement des actions, tandis que dans le mécanisme de stock-options, seul le droit de les recevoir dans le futur est conféré.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les options sont-elles toujours payantes ?**
 

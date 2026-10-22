@@ -22,7 +22,7 @@ Es wird bei Optimierungen eingesetzt, um Modelle der künstlichen Intelligenz in
 
 Sie unterscheidet sich von der Quantisierung, die Zahlen vereinfacht, um die Größe des Modells zu reduzieren, wobei unnötige direkte Verbindungen gelöscht werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Reduziert das Beschneiden die Intelligenz künstlicher Intelligenz?**
 

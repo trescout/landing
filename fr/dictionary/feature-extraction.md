@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les pipelines de traitement du langage naturel
 
 Il est différent de l'entraînement direct d'un modèle ; c'est l'étape qui consiste à résumer les informations les plus précieuses des données existantes pour les réduire à un format numérique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la différence avec l'embedding ?**
 

@@ -22,7 +22,7 @@ O sistema faz backup constante do estado do programa em um banco de dados. Quand
 
 Pode ser confundido com salvamento automático, mas preserva toda a lógica operacional do programa, não apenas o arquivo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todo programa deve ser durável?**
 

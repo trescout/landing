@@ -22,7 +22,7 @@ São amplamente utilizados em projetos de casas inteligentes, redes elétricas m
 
 Não devem ser confundidos com simples telas digitais que servem apenas para leitura do medidor; os medidores inteligentes oferecem comunicação de dados bidirecional e automação.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como afetam as faturas?**
 

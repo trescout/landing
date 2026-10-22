@@ -22,7 +22,7 @@ It is used in modern software development processes and professional coding envi
 
 Not to be confused with just a simple text editor; These tools know the working logic of the code.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will this editor write all my code?**
 

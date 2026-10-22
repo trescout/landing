@@ -22,7 +22,7 @@ It is used by independent game developers in PC, console and mobile game project
 
 Unlike other commercial game engines, it is completely free and does not charge any licensing fees.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do I need to know code?**
 

@@ -22,7 +22,7 @@ It is frequently used in autonomous robots, virtual reality applications and dig
 
 It is similar to 3D scanning, but this method is usually done with software via standard cameras rather than special scanning devices.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can it be done with just one photo?**
 

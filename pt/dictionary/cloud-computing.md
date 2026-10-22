@@ -50,7 +50,7 @@ A computação em nuvem não é apenas uma revolução técnica, mas também uma
 - Armazenamento em Nuvem vs Computação em Nuvem: Google Drive, iCloud ou Dropbox são apenas serviços de armazenamento; a computação em nuvem, por outro lado, é um ecossistema gigantesco que, além do armazenamento, inclui poder de processamento dinâmico, treinamento de inteligência artificial, gerenciamento de rede e orquestração de banco de dados.
 - Serverless (Sunucusuz) vs. Verdadeiramente Serverless: Na arquitetura serverless, é claro que existem servidores físicos; o termo "serverless" indica que o desenvolvedor não precisa mais se preocupar em configurar, atualizar ou monitorar um servidor, sendo que o gerenciamento do servidor é tornado invisível pelo provedor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa cloud computing e qual é a sua tradução para o português?**
 

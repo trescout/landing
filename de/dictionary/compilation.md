@@ -22,7 +22,7 @@ Dies ist ein unbedingter Schritt, bevor das Programm in Sprachen wie C++, Rust u
 
 Der Unterschied zu interpretierten Sprachen besteht darin, dass der Code vor der Ausführung vollständig transformiert wird, nicht zur Laufzeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Müssen alle Sprachen kompiliert werden?**
 

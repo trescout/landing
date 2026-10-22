@@ -22,7 +22,7 @@ Es el estándar en la arquitectura de aplicaciones web y móviles, especialmente
 
 Se puede mezclar con la base de datos; La capa de datos no es la base de datos, sino el método para acceder a la base de datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no nos conectamos directamente?**
 

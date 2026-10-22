@@ -40,7 +40,7 @@ Para que os motores de busca (Google) possam indexar um artigo, eles precisam le
 
 A popularização dos modelos de paywall trouxe consigo um dilema social importante: enquanto informações falsas, desinformação, conteúdos sensacionalistas e clickbait geralmente se espalham pela internet de forma totalmente gratuita e sem restrições, o jornalismo de qualidade independente, baseado em pesquisas profundas e com verificação de fatos, fica bloqueado atrás de paywalls. Essa situação cria um debate sobre a divisão e polarização do conhecimento na sociedade, onde "quem tem dinheiro tem acesso à informação correta, enquanto quem não tem fica exposto à manipulação".
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa paywall e qual é a sua função principal?**
 

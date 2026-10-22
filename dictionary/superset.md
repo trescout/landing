@@ -18,7 +18,7 @@ Yeni bir dil veya araç tasarlanırken, eski kullanıcıların alışkanlıklar�
 
 Programlama dillerinde (örneğin TypeScript, JavaScript'in bir supersetidir) ve yazılım mimarilerinde sıkça kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Superset kullanmak avantajlı mıdır?**
 

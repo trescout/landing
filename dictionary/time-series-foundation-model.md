@@ -22,7 +22,7 @@ Borsa tahminlerinde, enerji tüketim analizlerinde ve tedarik zinciri planlamala
 
 Sadece basit istatistiksel tahmin araçları ile karıştırılmamalıdır; bu modeller derin öğrenme temellidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her türlü veriyi tahmin edebilir mi?**
 

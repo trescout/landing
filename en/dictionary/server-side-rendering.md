@@ -24,7 +24,7 @@ It is used on e-commerce sites and all web projects where SEO is important.
 
 Can be confused with client-side rendering; In client-side, most of the work is done in the browser, and in SSR, most of the work is done on the server.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why doesn't every site use SSR?**
 

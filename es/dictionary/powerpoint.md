@@ -42,7 +42,7 @@ Como regla general, sólo hay una idea por diapositiva. Apoyar el texto con imá
 **Álbum de fotos:** El flujo visual que alinea la narrativa.
 **Teatro:** El plano de la etapa avanza acto a acto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo tomar notas mientras hago una presentación?**
 

@@ -22,7 +22,7 @@ Se utiliza en todos los campos donde se interactúa con la inteligencia artifici
 
 Puede parecer que solo estás haciendo preguntas, pero es un proceso de estrategia, prueba y error.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Alguien puede aprender?**
 

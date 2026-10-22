@@ -22,7 +22,7 @@ It is used in social network analytics, fraud detection systems, and complex kno
 
 Not to be confused with classic relational databases (SQL); because here the relationship is not a part of the picture, but the basis of the structure.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I choose this structure?**
 

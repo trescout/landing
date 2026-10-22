@@ -22,7 +22,7 @@ Se utiliza ampliamente en desarrollo web, construcción de aplicaciones móviles
 
 Se puede confundir con la biblioteca; Las bibliotecas son sólo herramientas, mientras que el marco determina todo el orden de funcionamiento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Debería utilizar marcos en cada proyecto?**
 

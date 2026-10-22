@@ -22,7 +22,7 @@ Se utiliza con frecuencia en el desarrollo de sitios web, aplicaciones móviles 
 
 Se puede mezclar con bibliotecas; Una biblioteca es una herramienta a la que llamas, un marco es una estructura dentro de la cual trabajas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería utilizar marcos?**
 

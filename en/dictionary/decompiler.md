@@ -22,7 +22,7 @@ It is used in software security research to understand how an application works 
 
 It is confused with a compiler; a compiler translates code into machine language, while a decompiler translates machine code into human-readable language.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can I get the exact same original code with a decompiler?**
 

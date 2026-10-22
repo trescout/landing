@@ -22,7 +22,7 @@ It is used in social media content, advertising texts, stock images and software
 
 It can be mixed with AI-assisted content; Here, production belongs entirely to artificial intelligence.
 
-## Frequently asked questions
+## Questions and answers
 
 **Who owns the copyright of these contents?**
 

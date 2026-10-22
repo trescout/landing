@@ -22,7 +22,7 @@ Se utiliza en empresas de ciberseguridad, en los equipos de seguridad de grandes
 
 A diferencia de la seguridad defensiva, aquí intentas activar activamente las vulnerabilidades.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es legal esta habilidad?**
 

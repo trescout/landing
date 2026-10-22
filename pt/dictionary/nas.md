@@ -24,7 +24,7 @@ Ele é usado como servidor de mídia em casa ou para compartilhamento comum de a
 
 Não é apenas um disco rígido conectado à internet, é uma unidade de armazenamento inteligente com sistema operacional próprio.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **NAS e armazenamento em nuvem são iguais?**
 

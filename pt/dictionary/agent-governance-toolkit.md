@@ -22,7 +22,7 @@ Está integrado ao código do agente ou à plataforma em que é executado. Antes
 
 Não deve ser confundido apenas com um firewall; essas ferramentas também regem as regras éticas e operacionais.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso diminui a velocidade do agente?**
 

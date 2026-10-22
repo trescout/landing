@@ -24,7 +24,7 @@ O desenvolvedor baixa o SDK relevante em seu computador e faz referência a essa
 
 Misturado com API; A API é uma porta, o SDK é toda a caixa de ferramentas que permite passar por aquela porta e montar a casa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todos os SDKs são gratuitos?**
 

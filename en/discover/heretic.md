@@ -42,7 +42,7 @@ This tool removes the model's security protections. Legal and ethical responsibi
 - **Difficulty:** Advanced knowledge of working with model weights
 - **What does:** Remove security constraints from the model
 - **Fee:** Free · open source (AGPL-3.0)
-- **License:** AGPL-3.0 · ayrıntı aşağıda
+- **License:** AGPL-3.0 · detail below
 
 **License:** AGPL-3.0 · free to use; However, if you change the code and distribute it or offer it as a service, you must also open your own source (copyleft).
 

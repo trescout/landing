@@ -22,7 +22,7 @@ Il est privilégié sur les plateformes d'apprentissage de code, lors de la réa
 
 Peut être mélangé avec des compilateurs natifs ; Le compilateur Web utilise Internet tandis que les compilateurs locaux utilisent la puissance de votre ordinateur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je conserver un fichier de code sur mon ordinateur ?**
 

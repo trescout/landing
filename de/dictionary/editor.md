@@ -22,7 +22,7 @@ Es wird in allen Softwareentwicklungsprozessen verwendet. Es ist das erste Tool,
 
 Es kann mit gewöhnlichen Texteditoren (wie Notepad) verwechselt werden; Code-Editoren verfügen jedoch über besondere Fähigkeiten, um die Logik der Software zu verstehen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann jeder Texteditor zum Schreiben von Code verwendet werden?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans l’analyse du renseignement, la gestion de projet et la re
 
 Il peut être confondu avec un simple dossier, mais un dossier n'est pas seulement un fichier mais un ensemble d'informations analysées.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi la création d’un fichier est-elle importante ?**
 

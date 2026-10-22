@@ -62,9 +62,9 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Native Binaries](https://trescout.com/en/dictionary/native-binaries/)
 - [Reverse Engineering](https://trescout.com/en/dictionary/reverse-engineering/)
 - [Native](https://trescout.com/en/dictionary/native/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/en/dictionary/context/)
+- [MCP](https://trescout.com/en/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for developers who want to examine the operating logic of existing applications with the help of artificial intelligence without needing the source code and adapt similar features to their own projects.
 - **License:** MIT

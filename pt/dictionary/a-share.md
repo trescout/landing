@@ -22,7 +22,7 @@ Você encontrará isso em análises financeiras globais e carteiras focadas no m
 
 Ao contrário dos conceitos gerais de ações internacionais, possui uma restrição geográfica e legal.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os estrangeiros não podem conseguir?**
 

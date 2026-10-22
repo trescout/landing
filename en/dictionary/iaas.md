@@ -47,7 +47,7 @@ It is considered PaaS. IaaS provides hardware, PaaS provides ready environment. 
 **Warehouse:** Warehouse with ready shelves.
 **Field:** Cultivated land rental.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is IaaS secure?**
 

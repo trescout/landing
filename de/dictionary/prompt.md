@@ -44,7 +44,7 @@ Es wird für Ingenieurskunst gehalten. Ein Prompt ist eine einzelne Anweisung, I
 **Bestellung:** Küchenbon.
 **Rezept:** Bemessene Anweisung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist ein schlechter Prompt?**
 

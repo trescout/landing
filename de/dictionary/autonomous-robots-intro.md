@@ -43,7 +43,7 @@ Er wird für einen ferngesteuerten Roboter gehalten. Er ist völlig in Menschenh
 **Aufzug:** Etagenauswahl je nach Knopf.
 **Autopilot:** Ein System, das den Kurs hält.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Wie lernen sie?**
 

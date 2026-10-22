@@ -22,7 +22,7 @@ Você apresenta esse código-chave ao sistema ao efetuar login no sistema ou con
 
 É semelhante a uma senha, mas as chaves geralmente são mais longas e consistem em caracteres aleatórios.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usar chave em vez de senha?**
 

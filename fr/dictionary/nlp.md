@@ -24,7 +24,7 @@ Il apparaît chaque jour dans les fonctionnalités de correction automatique, le
 
 Elle est souvent confondue avec la simple traduction linguistique, mais la PNL couvre des processus beaucoup plus larges tels que le résumé de texte et l'analyse des sentiments.
 
-## Questions fréquentes
+## Questions et réponses
 
 **La PNL peut-elle comprendre toutes les langues ?**
 

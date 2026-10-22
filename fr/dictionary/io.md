@@ -41,7 +41,7 @@ Cette ligne n'attend pas que le fichier arrive, les autres tâches continuent. O
 **Restaurant :** Prise de commande à l'entrée, service à la sortie.
 **Usine :** Entrée de matières premières, sortie de produits finis.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi les E/S constituent-elles un goulot d'étranglement ?**
 

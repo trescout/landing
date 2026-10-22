@@ -55,7 +55,7 @@ claude "/babysitter:call implement user authentication with TDD"
 - **Schwierigkeit:** Mittelstufe–Fortgeschritten
 - **Was bietet:** Deterministische Kontrolle für Agenten
 - **Gebühr:** Kostenlos · Open Source (MIT)
-- **Lizenz:** MIT · ayrıntı aşağıda
+- **Lizenz:** MIT · Details unten
 
 **Lizenz:** MIT · Sie können es frei verwenden, ändern und kommerziell nutzen.
 

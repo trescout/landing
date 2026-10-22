@@ -22,7 +22,7 @@ Es wird in täglichen Softwareprojekten, beim Erlernen einer neuen Sprache oder 
 
 Es kann mit dem „KI-Agenten“ verwechselt werden, der das gesamte Projekt völlig autonom erledigt; Der Assistent handelt in der Regel unter Ihrer Leitung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Schreibt er den gesamten Code?**
 

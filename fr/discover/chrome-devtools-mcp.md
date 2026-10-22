@@ -44,8 +44,6 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Chrome DevTools](https://trescout.com/fr/dictionary/chrome-devtools/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/fr/dictionary/context/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

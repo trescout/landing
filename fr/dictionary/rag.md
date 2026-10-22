@@ -34,7 +34,7 @@ Au-delà de cela, RAG offre transparence et explicabilité en matière d’intel
 - Sauter le réarrangement : injecter directement les premiers morceaux dans le prompt par similarité vectorielle sans cross-encoder invite à l'hallucination.
 - Problème du "perdu au milieu" (Lost-in-the-Middle) : Les LLM pouvant passer à côté des informations situées au milieu de prompts longs, les sources les plus critiques doivent être placées au début ou à la fin.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quelle est la principale différence entre RAG et Fine-Tuning ?**
 

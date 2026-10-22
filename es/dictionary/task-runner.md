@@ -39,7 +39,7 @@ Se considera una terminal. La terminal lo ejecuta, el corredor lo gestiona. Uno 
 **Lavadora:** Lavado programado.
 **Piloto automático:** Seguimiento de rutas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿En qué trabajos se utiliza?**
 

@@ -22,7 +22,7 @@ It is used in game development, animated films, and digital art projects to make
 
 It is not the same as just drawing a 2D picture, because what is being painted is a 3D model that has volume.
 
-## Frequently asked questions
+## Questions and answers
 
 **Which programs are used?**
 

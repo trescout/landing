@@ -52,7 +52,7 @@ Auf einem zentralen Computer zeigt die Hardware-Uhr eine einzige Wahrheit an. In
 
 Datenbanktransaktionen (ACID-Transaktionen) in monolithischen Systemen werden durch den Saga-Pattern-Ansatz in Microservices ersetzt. Anstatt lang laufende verteilte Schritte mit zweiphasigen Sperren zu sperren (2PC – Two Phase Commit); Es werden ereignisgesteuerte Architekturen verwendet, bei denen jeder Dienst seine lokale Aktion ausführt und im Fehlerfall rückwärts kompensierende Transaktionen ausgelöst werden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was bedeutet distributed (türkische Bedeutung)?**
 

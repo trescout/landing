@@ -24,7 +24,7 @@ Se utilizan en los mercados de criptomonedas, en proyectos de finanzas descentra
 
 Pueden confundirse con los intercambios centralizados (CEX).
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Necesito confiar en alguien cuando uso DEX?**
 

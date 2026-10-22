@@ -24,7 +24,7 @@ Web uygulamalarında, mobil giriş ekranlarında ve kurumsal yazılım sistemler
 
 SSO (Single Sign-On) ile karıştırılır; SSO genel bir kavramdır, OIDC ise bu işi yapan teknik protokoldür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Şifremi diğer sitelerle paylaşmış oluyor muyum?**
 

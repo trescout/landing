@@ -81,7 +81,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Apple Silicon](https://trescout.com/de/dictionary/apple-silicon/)
 
 - **Für wen es gedacht ist:** KI-Forscher, Ingenieure für maschinelles Lernen, Datenwissenschaftler und Studenten.
-- **Lizenz:** Apache-2.0 (Açık kaynak lisansı)
+- **Lizenz:** Apache-2.0 (Open-Source-Lizenz)
 - **Framework:** Minimalistisches LLM-Framework basierend auf PyTorch
 - **Plattformen:** Linux, macOS (Apple Silicon MPS), Windows
 

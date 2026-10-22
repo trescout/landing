@@ -29,7 +29,7 @@ In software engineering, the word "Runtime" refers to two different concepts dep
 - Deno (2018): A modern platform that blends the V8 engine with Rust and Tokio infrastructure, featuring built-in TypeScript and a secure permission sandbox.
 - Bun (2023): It is a new generation working environment that uses Apple WebKit's JavaScriptCore engine and is written entirely from scratch in the Zig language, offering file/network I/O many times faster than Node.js.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does runtime mean, what is its Turkish equivalent?**
 

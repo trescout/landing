@@ -24,7 +24,7 @@ Es ist aktiv an der SSL/TLS-Zertifikatsverwaltung, Webserver-Konfigurationen und
 
 Es ist nicht direkt das Stammzertifikat selbst, sondern die Zwischenstufe, die als Brücke dient, um das Vertrauen zwischen dem Stamm und dem Endpunkt zu transportieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird bei einem Zwischenzertifikat nicht direkt das Stammzertifikat verwendet?**
 

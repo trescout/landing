@@ -22,7 +22,7 @@ Il est utilisé dans les processus internes de révision du code des équipes su
 
 Elle peut être confondue avec une seule grande « Pull Request » ; cependant, cette méthode propose une approche fragmentée et séquentielle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne pas tout envoyer en même temps ?**
 

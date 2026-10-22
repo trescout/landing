@@ -22,7 +22,7 @@ Es obligatorio en todos los procesos modernos de desarrollo de software, especia
 
 No es lo mismo que una copia de seguridad, porque no solo gestiona los archivos, sino también el historial de los cambios.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería usarlo?**
 

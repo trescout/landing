@@ -22,7 +22,7 @@ En teléfonos Android, se utiliza cuando desea instalar software personalizado o
 
 No debe confundirse con las descargas estándar realizadas a través de la tienda de aplicaciones.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es seguro el sideloading?**
 

@@ -41,7 +41,7 @@ Kann mit offenen Gewichten gemischt werden. „Offene Gewichte“ bedeutet nur, 
 **Lehrbuch:** Open Source, das jeder lesen und bearbeiten kann.
 **Samenbank:** Von Landwirten geteilter Ahnensamen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Sind Open-Source-Modelle schwächer?**
 

@@ -47,7 +47,7 @@ Pode ser confundido com gestão de projetos. A gestão controla o ciclo, enquant
 **Agricultura:** Ciclo sazonal do plantio à colheita.
 **Livro:** Processo de publicação do rascunho à impressão.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Como a inteligência artificial afeta esse ciclo?**
 

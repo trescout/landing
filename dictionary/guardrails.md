@@ -22,7 +22,7 @@ Müşteri hizmetleri sohbet botlarında, finans ve sağlık gibi regülasyona ta
 
 Modelin temel eğitimi sırasında yapılan insan geri bildirimiyle pekiştirmeli öğrenme (RLHF) ile karıştırılabilir. Temel eğitim modelin iç karakterini belirlerken, guardrails modele dışarıdan takılan bağımsız bir güvenlik kabuğudur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Guardrails sistemi yanıt sürelerini belirgin şekilde yavaşlatır mı?**
 

@@ -24,7 +24,7 @@ It is used in professional software development processes, when creating complex
 
 It differs from simple text editors that are only used for writing code with the richness of the tool set it offers and the ability to manage the entire project.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do I have to use IDE?**
 

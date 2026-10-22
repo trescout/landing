@@ -24,7 +24,7 @@ Il est utilisé dans les assistants intelligents, les outils d’analyse de donn
 
 Elle est souvent confondue avec les capacités générales de l’IA, mais il s’agit d’outils spécialisés ajoutés pour effectuer un travail spécifique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Chaque modèle d’IA possède-t-il des compétences en IA ?**
 

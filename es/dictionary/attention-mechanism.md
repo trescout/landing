@@ -22,7 +22,7 @@ Se utiliza en la capa arquitectónica básica de todos los modelos de lenguaje y
 
 Puede confundirse con la memoria general o simplemente con los métodos de conteo de palabras, pero la clave aquí es la capacidad de concentrarse.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es tan importante?**
 

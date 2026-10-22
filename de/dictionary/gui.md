@@ -24,7 +24,7 @@ Es ist in Smartphones, Computer-Betriebssystemen und jeder von Ihnen verwendeten
 
 Im Gegensatz zu CLI (Command Line Interface); Im CLI wird nur Text geschrieben, während im GUI die Visualität im Vordergrund steht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Hat jede Software eine GUI?**
 

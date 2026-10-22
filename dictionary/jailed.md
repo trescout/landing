@@ -22,7 +22,7 @@ Web sunucularında kullanıcı işlemlerini ayırırken, eklenti (plugin) çalı
 
 Sandbox kavramıyla çok yakındır; ancak jail genellikle Unix/Linux sistemlerindeki dosya sistemi izolasyonuna (chroot veya FreeBSD jail gibi) odaklanan daha geleneksel bir terimdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Jailed durumundaki bir program ana sisteme erişebilir mi?**
 

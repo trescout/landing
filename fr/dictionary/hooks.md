@@ -22,7 +22,7 @@ Vous les rencontrerez fréquemment en arrière-plan des sites web, dans les fram
 
 Ils peuvent être confondus avec les plugins ; alors que les hooks sont davantage des points de connexion au niveau du code, les plugins offrent des fonctionnalités plus étendues.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne pas modifier directement le code principal ?**
 

@@ -43,7 +43,7 @@ Pensa-se que é um robô controlado remotamente. Ele está totalmente nas mãos 
 **Elevador:** Seleção de andar de acordo com o botão.
 **Piloto automático:** Sistema que mantém a rota.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Como eles aprendem?**
 

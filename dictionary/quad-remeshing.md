@@ -22,7 +22,7 @@ Oyun geliştirme, animasyon ve 3D baskı hazırlık süreçlerinde kullanılır.
 
 Sadece model küçültme (decimation) ile karıştırılmamalıdır; burada amaç yüzeyin geometrik düzenini değiştirmektir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden sadece üçgenler kullanılmıyor?**
 

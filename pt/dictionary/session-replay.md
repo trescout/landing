@@ -22,7 +22,7 @@ Ele é usado em testes de experiência do usuário (UX) e processos de depuraç�
 
 É confundido com Analytics (estatísticas); análise 'quantas pessoas clicaram?' diz, repetição da sessão 'como foi o clique?' responde à pergunta.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **E quanto à privacidade do usuário?**
 

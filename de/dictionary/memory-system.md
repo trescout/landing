@@ -22,7 +22,7 @@ Es wird in persönlichen Assistenten, Tools für künstliche Intelligenz, die la
 
 Es kann mit dem Kontextfenster verwechselt werden; Das Kontextfenster ist das Kurzzeitgedächtnis, während das Speichersystem das permanente oder Langzeitgedächtnis ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann die Erinnerung gelöscht werden?**
 

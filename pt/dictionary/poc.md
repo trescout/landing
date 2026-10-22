@@ -48,7 +48,7 @@ Confunde-se com protótipo. O protótipo é uma amostra do produto, o PoC é um 
 **Teste piloto:** Teste de cozinha antes de entrar no menu.
 **Trailer:** Medição de reação antes do filme.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que acontece se for bem-sucedido?**
 

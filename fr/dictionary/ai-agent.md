@@ -43,7 +43,7 @@ On pense qu’il s’agit d’un chatbot. Le chatbot parle, l'agent passe à l'a
 **Jack:** Ne vous contentez pas de prendre la clé et de terminer le travail.
 **Agence de voyage:** Récupération des billets, de l'hôtel et du transfert.
 
-## Foire aux questions
+## Questions et réponses
 
 **Les agents peuvent-ils être dangereux ?**
 

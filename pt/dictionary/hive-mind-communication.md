@@ -22,7 +22,7 @@ Este método visa criar uma inteligência coletiva em vez de pensamentos individ
 
 Não deve ser confundido apenas com um simples aplicativo de mensagens ou bate-papo em grupo; Aqui os dados são processados ​​automaticamente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Este sistema torna todos iguais?**
 

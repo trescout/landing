@@ -22,7 +22,7 @@ Ao instalar um novo jogo no seu computador, abrir um navegador ou iniciar qualqu
 
 É confundido com código-fonte; o código-fonte é o texto bruto legível, enquanto o arquivo executável é o resultado que o computador executa diretamente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qualquer arquivo é executável?**
 

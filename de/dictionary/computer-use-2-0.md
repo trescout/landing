@@ -22,7 +22,7 @@ Es wird bei der Automatisierung von Softwaretests, bei Dateneingabeprozessen und
 
 Es wird oft mit klassischen Web-Scraping- oder API-Integrationen verwechselt. Während klassische Methoden im Hintergrund mit Codes kommunizieren, zielt Computer Use 2.0 direkt auf die visuelle Benutzeroberfläche ab und verhält sich wie ein Mensch.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist Computer Use 2.0 sicher?**
 

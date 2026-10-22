@@ -22,7 +22,7 @@ Il est utilisé dans la gestion des conteneurs au sein des infrastructures de cl
 
 Il est confondu avec une bibliothèque de code normale. Alors que les bibliothèques effectuent uniquement une tâche spécifique, ce système coordonne la manière dont toutes les bibliothèques et tous les services fonctionnent ensemble.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le logiciel ne peut-il pas fonctionner sans ce système ?**
 

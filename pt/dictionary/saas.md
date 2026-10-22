@@ -39,7 +39,7 @@ Pode ser confundido com PaaS. SaaS é uma aplicação pronta, destinada ao usuá
 **Apartamento alugado:** A manutenção é do proprietário, o uso é seu.
 **Transporte público:** Obter serviço de transporte sem ser proprietário de um veículo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Onde meus dados são armazenados ao usar SaaS?**
 

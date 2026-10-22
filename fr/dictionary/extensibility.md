@@ -44,7 +44,7 @@ Voici un petit exemple, typique d'une déclaration de plugin :
 **Production:** Des robots culinaires sur lesquels différents accessoires peuvent être fixés sur le même corps.
 **Jeu:** Des communautés de modding qui ajoutent de nouvelles cartes et missions sans modifier le jeu de base.
 
-## Foire aux questions
+## Questions et réponses
 
 **Tous les logiciels sont-ils extensibles ?**
 

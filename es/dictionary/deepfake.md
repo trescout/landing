@@ -22,7 +22,7 @@ Se utiliza en la producción de efectos en la industria cinematográfica, conten
 
 No confundir con la simple edición de fotografías; deepfake cubre contenidos mucho más complejos y conmovedores.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo sé si un vídeo es deepfake?**
 

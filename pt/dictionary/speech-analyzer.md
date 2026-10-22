@@ -22,7 +22,7 @@ Ele converte ondas sonoras em dados digitais, transcreve-os em texto com modelos
 
 Difere das ferramentas que realizam apenas conversão de áudio-texto porque realiza análise de sentimento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O SpeechAnalyzer viola a privacidade?**
 

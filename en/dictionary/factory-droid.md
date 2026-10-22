@@ -22,7 +22,7 @@ It is used in automotive factories, electronic assembly lines, massive logistics
 
 They may be confused with general-purpose humanoid robots, but factory droids are typically optimized for specific and fixed industrial tasks.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are factory droids replacing human workers?**
 

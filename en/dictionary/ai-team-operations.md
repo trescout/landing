@@ -22,7 +22,7 @@ It is implemented in artificial intelligence startups and AI departments of larg
 
 It can be confused with pure software operations (DevOps); AI operations present additional data and model-driven challenges.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is a special operation needed?**
 

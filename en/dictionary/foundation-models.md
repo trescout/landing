@@ -22,7 +22,7 @@ They are used in text writing tools, coding assistants, image generation platfor
 
 They are often confused with narrow-scope models trained to perform only a single task.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the difference between a foundation model and an ordinary artificial intelligence model?**
 

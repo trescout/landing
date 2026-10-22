@@ -22,7 +22,7 @@ Sie wird in Cybersicherheitsunternehmen, in Sicherheitsteams großer Technologie
 
 Im Gegensatz zur defensiven Sicherheit versuchen Sie hier aktiv, Schwachstellen auszulösen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist diese Fähigkeit legal?**
 

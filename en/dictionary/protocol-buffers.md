@@ -24,7 +24,7 @@ It is used in microservice architectures, communication of mobile applications w
 
 It may be confused with text-based data formats such as JSON or XML, but it is much faster and smaller.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can people read?**
 

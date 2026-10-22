@@ -22,7 +22,7 @@ Elle est utilisée dans les entreprises de cybersécurité, au sein des équipes
 
 Contrairement à la sécurité défensive, vous essayez ici activement de déclencher des vulnérabilités.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cette compétence est-elle légale ?**
 

@@ -34,7 +34,7 @@ Simplifying Conflict Resolution: Blindly applying a last-write-wins logic to dis
 - Forgetting Local Encryption: Storing data on the client device poses a physical risk; local databases must be encrypted end-to-end (at-rest encryption).
 - Ignoring Hardware Limits: Especially when running local AI models, loading an unoptimized model without considering RAM, VRAM, and battery budget can lock up the device.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is the main difference between offline-first architecture and traditional client-server architecture?**
 

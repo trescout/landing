@@ -22,7 +22,7 @@ Funciona processando dados provenientes de sensores e criando um mapa tridimensi
 
 Pode ser confundido com Visão Computacional, mas isso abrange não apenas a visão, mas o raciocínio espacial após a visão.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é importante?**
 

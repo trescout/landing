@@ -22,7 +22,7 @@ Görüntü tanıma uygulamalarında, sesli asistanlarda ve karmaşık video anal
 
 Sadece metin tabanlı olan standart yapay zekâ modelleriyle karıştırılabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Multimodal ne demektir?**
 

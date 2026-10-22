@@ -56,7 +56,7 @@ section .data
 
 *Assembly dili, bir saatin içindeki çarkları, yayları ve milleri mikroskop altında cımbızla tek tek yerleştirmeye benzer; en yüksek hassasiyet ve performansı sağlar ama büyük dikkat ister. Yazılım montajı ise üretilen bu hassas mekanizmayı kasanın içine oturtup çalışır bir kol saati olarak kutulamaktır.*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Assembly ne demek, ne işe yarar?**
 

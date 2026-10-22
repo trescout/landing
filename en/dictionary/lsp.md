@@ -59,7 +59,7 @@ Heavy semantic analysis and type parsing operations are carried out in a separat
 - DAP (Debug Adapter Protocol): Manages runtime debugging operations. Breakpoints, variable tracking, and step-by-step execution communicate via DAP.
 - SCIP / LSIF: These are static indexing formats that allow large codebases to be pre-indexed at compile time, enabling code navigation in web interfaces without the need to run a server.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does LSP mean and what does it stand for?**
 

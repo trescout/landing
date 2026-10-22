@@ -41,7 +41,7 @@ Lorsqu'un programme est exécuté, le système d'exploitation alloue un espace d
 
 Les systèmes d'exploitation modernes utilisent une architecture de mémoire virtuelle et de pagination pour empêcher les programmes de lire la mémoire les uns des autres. L'unité de gestion de la mémoire (MMU) du processeur traduit les adresses virtuelles en adresses physiques matérielles à l'aide du cache TLB. Lorsque la RAM physique et le swap sont totalement épuisés, le mécanisme OOM Killer (Out of Memory Killer) du noyau Linux met fin au processus le plus agressif avec un signal SIGKILL afin de sauver le système.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie « Memory management » et quelle est sa traduction en turc ?**
 

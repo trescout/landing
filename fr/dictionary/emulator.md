@@ -46,7 +46,7 @@ La légalité du développement d'émulateurs a été consacrée par des affaire
 - Affaires Sony c. Connectix (2000) et Sony c. Bleem! : Les tribunaux ont statué que la rétro-ingénierie des principes de fonctionnement d'un matériel par la méthode de la salle blanche (clean-room reverse engineering) pour les transcrire sous forme logicielle est légale et relève de l'usage loyal (fair use).
 - Limite de droits d'auteur : Le logiciel d'émulation en lui-même est légal. Cependant, copier sans autorisation ou télécharger sur Internet des fichiers BIOS propriétaires protégés par le droit d'auteur ou des ROM de jeux/logiciels sous copyright constitue une violation des droits d'auteur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Qu'est-ce qu'un émulateur et quel est son équivalent en turc ?**
 

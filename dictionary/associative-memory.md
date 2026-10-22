@@ -22,7 +22,7 @@ Vektör veritabanlarında, örüntü tanıma sistemlerinde, konuşma modellerind
 
 Geleneksel rastgele erişimli bellek (RAM) ile karıştırılır. RAM bilgiyi sayısal fiziksel adreslerle çağırırken, çağrışımsal bellek veriyi doğrudan içeriğindeki benzerlik üzerinden bulur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Girdi eksik veya gürültülü olduğunda da çalışır mı?**
 

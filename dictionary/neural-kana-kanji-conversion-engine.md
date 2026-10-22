@@ -22,7 +22,7 @@ Japonca giriş sistemlerinde, mobil klavyelerde ve metin işleme araçlarında k
 
 Sadece bir sözlük değildir; bağlamı anlayan bir yapay zekâ modelidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden yapay zekâ kullanıyor?**
 

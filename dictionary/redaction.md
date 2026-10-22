@@ -22,7 +22,7 @@ Hukuk davalarında delil dosyaları paylaşılırken, sağlık kayıtları anoni
 
 Yalnızca metnin üzerine siyah şekil çizmekle karıştırılır; yüzeysel çizimlerde alttaki metin kopyalanabilirken, gerçek karartma işleminde veri dosyadan tamamen çıkarılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **PDF üzerinde metni siyaha boyamak yeterli bir karartma mıdır?**
 

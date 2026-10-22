@@ -22,7 +22,7 @@ Es wird beim Spieldesign, der modularen Softwareproduktion, der zielgerichteten 
 
 Während eine allgemeine Crafting-Engine lediglich eine regelbasierte Zusammenführung durchführt, versteht die Intentional Crafting Engine die strategische Absicht des Benutzers und generiert entsprechend umfassende Lösungen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Worin unterscheidet sie sich von einem generischen generativen KI-Modell?**
 

@@ -22,7 +22,7 @@ Um processo de copywriting bem-sucedido começa com a compreensão profunda das 
 
 É frequentemente confundido com a redação de conteúdo (content writing); a redação de conteúdo é mais educativa e informativa, enquanto o copywriting é focado diretamente em vendas e persuasão.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é a diferença entre copywriting e redação de conteúdo?**
 

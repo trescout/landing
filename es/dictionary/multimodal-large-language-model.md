@@ -22,7 +22,7 @@ It is used in applications that analyze images, voice assistants, and profession
 
 Se puede confundir con los modelos de IA estándar que sólo están orientados a texto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es todo modelo multimodal una inteligencia artificial?**
 

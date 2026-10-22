@@ -22,7 +22,7 @@ Se utiliza en núcleos de sistemas operativos, desarrollo de controladores, moto
 
 No debe confundirse con la programación de aplicaciones: mientras que la programación de aplicaciones produce software orientado al usuario, la programación de sistemas construye la infraestructura sobre la que se ejecuta dicho software.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué lenguajes se utilizan más en la programación de sistemas?**
 

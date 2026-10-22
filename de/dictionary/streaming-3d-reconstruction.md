@@ -22,7 +22,7 @@ Es wird in Augmented-Reality-Headsets verwendet, um die Umgebung sofort zu scann
 
 Bei der herkömmlichen Methode der „Scene Reconstruction“ werden alle Fotos im Voraus aufgenommen und im Batch-Verfahren verarbeitet; beim „Streaming“-Modell hingegen wird das dreidimensionale Modell während des Datenflusses in Echtzeit erstellt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird die Streaming-Methode anstelle der Stapelverarbeitung verwendet?**
 

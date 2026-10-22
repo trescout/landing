@@ -44,7 +44,7 @@ Wird oft für Verschlüsselung gehalten. Verschlüsselung ist das Schloss, BYOK 
 **Kaution:** Übergabe im versiegelten Umschlag.
 **Safe:** Die Bank kennt den Inhalt nicht.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn ich ihn verliere?**
 

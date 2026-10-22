@@ -24,7 +24,7 @@ Se encuentra en las pantallas de presentación de los teléfonos inteligentes, l
 
 Está mezclado con RAM; La RAM es temporal y se elimina cuando se apaga la computadora, mientras que la ROM es permanente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no se puede cambiar la información en la ROM?**
 

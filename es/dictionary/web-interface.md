@@ -22,7 +22,7 @@ Se encuentra en herramientas de inteligencia artificial como ChatGPT, paneles de
 
 El software en sí y su interfaz no son lo mismo; La interfaz es sólo una puerta.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todos los programas tienen una interfaz web?**
 

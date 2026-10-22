@@ -39,7 +39,7 @@ Wird oft für ein Hobby-Projekt gehalten. Ein Hobby hat kein Umsatzziel, aber be
 **Straßenmusiker:** Repertoire und Trinkgeldökonomie.
 **Boutique-Bäckerei:** Wenige Sorten, treue Kunden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es zwingend erforderlich, sehr gut programmieren zu können?**
 

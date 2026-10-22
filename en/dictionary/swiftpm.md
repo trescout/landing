@@ -24,7 +24,7 @@ It serves as a core tool in macOS and iOS application development processes, in 
 
 It is different from general plugin managers of code editors, focusing directly on the language's own ecosystem and compilation process.
 
-## Frequently asked questions
+## Questions and answers
 
 **How does SwiftPM speed up the project?**
 

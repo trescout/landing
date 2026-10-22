@@ -22,7 +22,7 @@ It is frequently used in search engines, recommendation systems, and artificial 
 
 Unlike the term embedding, which is the exact same concept, this is the action or process equivalent of the word.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we convert into numerical lists?**
 

@@ -22,7 +22,7 @@ Está no centro do processamento de imagens, reconhecimento de voz e modelos mod
 
 Muitas vezes é confundido com aprendizado de máquina; O aprendizado profundo é um subramo mais específico e avançado do aprendizado de máquina.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é chamado de 'profundo'?**
 

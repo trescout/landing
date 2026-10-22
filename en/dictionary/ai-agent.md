@@ -43,7 +43,7 @@ It is thought to be a chatbot. Chatbot talks, agent takes action. The chat inter
 **Jack:** Don't just take the key and finish the job.
 **Travel agency:** Ticket, hotel and transfer collection.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can agents be dangerous?**
 

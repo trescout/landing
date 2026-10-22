@@ -22,7 +22,7 @@ Se utiliza en entornos modernos de desarrollo de software, procesos de depuraci�
 
 No confundir con complementos de IA que simplemente completan el código; Estas herramientas gestionan el proceso y solo ofrecen sugerencias.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estas herramientas reemplazarán a los desarrolladores de software?**
 

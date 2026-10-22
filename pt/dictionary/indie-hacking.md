@@ -39,7 +39,7 @@ Pensa-se que é um projeto de hobby. Em um hobby não há meta de receita, mas n
 **Músico de rua:** Repertório e economia de gorjetas.
 **Padaria artesanal:** Pouca variedade, clientes fiéis.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É obrigatório saber programar muito bem?**
 

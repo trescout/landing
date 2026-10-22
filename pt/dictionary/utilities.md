@@ -52,7 +52,7 @@ Para superar esse problema na arquitetura de software moderna, as funções são
 
 No campo do desenvolvimento de jogos e inteligência artificial, "Utility AI" é um modelo matemático utilizado em mecanismos de tomada de decisão. Em vez de máquinas clássicas de estados finitos (FSM) ou árvores de comportamento; Cada ação possível recebe uma pontuação de utilidade com base nos parâmetros da situação atual, e o personagem escolhe a ação que proporciona o maior benefício.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa Utilitários e qual é o seu significado em turco?**
 

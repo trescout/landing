@@ -22,7 +22,7 @@ It is used in chatbots that need to respond quickly and in instant decision-maki
 
 It should not be confused with a conscious reasoning process; it's just a statistical speed.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can artificial intelligence's instinct make mistakes?**
 

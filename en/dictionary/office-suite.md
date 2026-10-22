@@ -38,7 +38,7 @@ Cloud versions do not require installation, offline work is limited.
 **Tool bag:** Team for job.
 **Kitchen set:** Pot and knife group.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Are there cloud-based ones?**
 

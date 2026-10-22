@@ -22,7 +22,7 @@ Il est utilisé dans les plateformes d'automatisation, les flux de travail intel
 
 Il ne faut pas la confondre avec les fonctionnalités d’intelligence artificielle ajoutées ultérieurement à une application ordinaire ; ceux-ci sont construits à partir de zéro pour les agents.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi doivent-ils être spécialement conçus ?**
 

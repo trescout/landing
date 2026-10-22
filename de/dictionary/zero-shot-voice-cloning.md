@@ -22,7 +22,7 @@ Es wird in Sprachassistenten, Synchronarbeiten, personalisierter Inhaltsprodukti
 
 Es ähnelt dem Voice Cloning, hier ist jedoch kein Schulungsprozess erforderlich.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann er die Stimme von irgendjemandem kopieren?**
 

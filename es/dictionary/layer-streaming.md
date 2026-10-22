@@ -42,7 +42,7 @@ Se cree que es una descarga. Pausa la descarga, comienza la transmisión. Uno es
 **Telenovela:** Mira episodio por episodio.
 **Construcción:** Entregado varias veces.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Aumenta la velocidad?**
 

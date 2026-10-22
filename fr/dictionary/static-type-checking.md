@@ -22,7 +22,7 @@ Il est largement utilisé dans les outils de développement de logiciels moderne
 
 Cela peut être confondu avec des erreurs d'exécution, mais cette méthode détecte les erreurs pendant que vous écrivez du code.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je utiliser le contrôle statique ?**
 

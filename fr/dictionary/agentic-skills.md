@@ -22,7 +22,7 @@ Il est utilisé dans des processus de développement de logiciels complexes, des
 
 Elle peut être confondue avec le concept général de « compétence IA » ; Cependant, les compétences agentiques font référence à la capacité à gérer un processus autonome plutôt qu’un processus unique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Toutes les intelligences artificielles possèdent-elles ces compétences ?**
 

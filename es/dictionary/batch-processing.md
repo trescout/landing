@@ -22,7 +22,7 @@ Se utiliza en el entrenamiento de modelos de inteligencia artificial, análisis 
 
 Puede confundirse con el procesamiento en tiempo real; El procesamiento en tiempo real reacciona inmediatamente, mientras que el procesamiento por lotes espera.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué procesamos en masa?**
 

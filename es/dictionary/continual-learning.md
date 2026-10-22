@@ -22,7 +22,7 @@ Se utiliza en sistemas de previsión de mercado, motores de recomendación que c
 
 Se puede confundir con el ajuste, pero el ajuste suele ser una actualización única, mientras que el aprendizaje continuo es un proceso continuo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué el modelo olvida información antigua?**
 

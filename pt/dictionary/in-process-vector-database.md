@@ -22,7 +22,7 @@ Quando o aplicativo é iniciado, o banco de dados é executado com ele. Quando o
 
 Misturado com bancos de dados externos; os externos são para dados enormes, este é orientado para a velocidade.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É adequado para big data?**
 

@@ -22,7 +22,7 @@ Ele é instalado como um plugin no seu editor de código. Quando você começa a
 
 Pode ser confundido com 'AI Coding Agent', que escreve código inteiramente por conta própria; Os assistentes geralmente trabalham sob seu controle.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essas ferramentas substituirão os desenvolvedores de software?**
 

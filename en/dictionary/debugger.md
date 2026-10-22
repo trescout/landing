@@ -22,7 +22,7 @@ It is frequently used in software development environments, web browser develope
 
 It can be confused with a compiler. While a compiler translates the entire code into machine language, a debugger focuses on finding logical errors within the running code.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can I not debug without a debugger?**
 

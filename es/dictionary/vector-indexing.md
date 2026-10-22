@@ -22,7 +22,7 @@ Se utiliza en sistemas RAG, motores de búsqueda a gran escala y sistemas de rec
 
 Puede confundirse con Vector Database; La indexación de vectores es el método de organización y mapeo dentro de esta base de datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué utilizamos esto en lugar de la búsqueda clásica?**
 

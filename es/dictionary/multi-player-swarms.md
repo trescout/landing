@@ -22,7 +22,7 @@ Se utiliza en análisis de datos complejos, desarrollo de software autónomo y s
 
 No debe confundirse con un solo gran modelo de inteligencia artificial, aquí hay trabajo en equipo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué utilizamos un enjambre en lugar de un modelo único y poderoso?**
 

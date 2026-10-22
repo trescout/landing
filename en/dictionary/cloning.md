@@ -22,7 +22,7 @@ It is used when importing open source projects from platforms such as GitHub to 
 
 It can be confused with backup; Cloning is more of a copying done for the purpose of working on it.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it change the original project?**
 

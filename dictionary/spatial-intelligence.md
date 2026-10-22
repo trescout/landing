@@ -22,7 +22,7 @@ Otonom robotlarda, insansız hava araçlarında ve gelişmiş artırılmış ger
 
 Computer Vision ile karıştırılabilir ancak bu sadece görmeyi değil, görme sonrası mekânsal mantık yürütmeyi kapsar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden önemlidir?**
 

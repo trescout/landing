@@ -22,7 +22,7 @@ You may encounter it on smartphones, in special chat applications or in smart ho
 
 It differs from artificial intelligence assistants that work only task-oriented with its ability to establish emotional bonds.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does AI Companion really understand me?**
 

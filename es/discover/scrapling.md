@@ -53,7 +53,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Medio · Pitón
 - **Que ofertas:** Scraping adaptable y escalable
 - **Tarifa:** Gratis · código abierto (BSD-3)
-- **Licencia:** BSD-3-Clause · ayrıntı aşağıda
+- **Licencia:** Cláusula BSD-3 · detalle a continuación
 
 **Licencia:** Cláusula BSD-3 · puedes usarlo libremente, modificarlo, hacer uso comercial (conservar aviso de copyright).
 

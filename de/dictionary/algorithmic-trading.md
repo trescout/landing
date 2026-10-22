@@ -22,7 +22,7 @@ Es wird an Aktienmärkten, Kryptowährungsbörsen und Hochfrequenzhandelsinstitu
 
 Es kann mit künstlicher Intelligenz verwechselt werden, umfasst aber nicht immer künstliche Intelligenz; Manchmal sind es nur einfache Wenn-Dann-Regeln.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Macht es immer Gewinn?**
 

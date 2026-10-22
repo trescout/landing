@@ -22,7 +22,7 @@ Il est utilisé dans les chatbots avancés, les outils d’analyse visuelle et l
 
 Il en va de même pour le concept multimodal, où la structure « modèle » est particulièrement mise en valeur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le texte ne suffit-il pas ?**
 

@@ -22,7 +22,7 @@ Ao incluir essas bibliotecas em seus projetos, os desenvolvedores podem lidar co
 
 Pode ser confundido com Framework ou SDK, mas as bibliotecas principais referem-se à funcionalidade básica e as estruturas referem-se a um esqueleto de aplicativo mais amplo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que as bibliotecas principais são importantes?**
 

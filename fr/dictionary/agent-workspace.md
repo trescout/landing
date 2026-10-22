@@ -22,7 +22,7 @@ Il est utilisé dans les outils de rédaction de code assistés par IA, les syst
 
 À ne pas confondre avec un environnement de développement (development environment) : alors que l'environnement de développement est conçu pour que les humains écrivent du code, l'espace de travail pour agent est entièrement optimisé pour que les logiciels d'IA effectuent des opérations de manière autonome.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'agent IA peut-il sortir de cet espace de travail et endommager mon ordinateur ?**
 

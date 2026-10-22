@@ -43,7 +43,7 @@ O medo da semelhança é infundado: quando a cor e o tipo mudam, a aparência mu
 **Lego:** Peças que se encaixam.
 **Refeição pronta:** Prato aquecido.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Os sites não ficam parecidos?**
 

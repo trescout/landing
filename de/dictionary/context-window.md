@@ -22,7 +22,7 @@ Diese Kapazität ist von entscheidender Bedeutung, wenn lange Bücher zusammenge
 
 Es wird mit dem allgemeinen Wissen über das Modell verwechselt; Allgemeinwissen wird in der Bildung erworben, und Kontextfenster ist das Kurzzeitgedächtnis des aktuellen Gesprächs.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn sich das Kontextfenster füllt?**
 

@@ -22,7 +22,7 @@ Comienza a aparecer en aplicaciones móviles modernas, paneles de asistentes int
 
 Es diferente de las interfaces dinámicas clásicas; aquí, las decisiones no las toman reglas fijas, sino modelos de inteligencia artificial.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿La interfaz inteligente se ve diferente para cada usuario?**
 

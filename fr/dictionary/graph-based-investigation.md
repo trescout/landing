@@ -22,7 +22,7 @@ Il est utilisé dans l’analyse de la criminalité financière, la recherche su
 
 À ne pas confondre avec une feuille de calcul Excel ordinaire ; Ce qui est important ici, ce ne sont pas les données elles-mêmes, mais la relation entre les données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que cela fonctionne lentement avec le Big Data ?**
 

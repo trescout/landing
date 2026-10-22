@@ -22,7 +22,7 @@ Quando o desenvolvedor envia seu código para o sistema, a ferramenta analisa o 
 
 A ferramenta de revisão de código e os 'Assistentes de Codificação por IA' que ajudam na escrita de código podem ser confundidos às vezes; enquanto os assistentes ajudam você a escrever o código, as ferramentas de revisão auditam o que já foi escrito.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A ferramenta de revisão de código substitui um editor humano?**
 

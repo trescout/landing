@@ -22,7 +22,7 @@ Es wird in komplexen Softwareentwicklungsprojekten und groß angelegter Geschäf
 
 Es ist fast dasselbe wie bei Multiagentensystemen. Der Schwerpunkt liegt hier eher auf einem groß angelegten „Flotten“-Management.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie verstehen sich Vertreter untereinander?**
 

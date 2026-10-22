@@ -22,7 +22,7 @@ Se utiliza en plataformas educativas, aplicaciones de aprendizaje de idiomas y s
 
 Su diferencia con los chatbots que solo responden preguntas y respuestas es que sigue una estrategia orientada a la enseñanza.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede enseñar todas las materias?**
 

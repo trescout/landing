@@ -22,7 +22,7 @@ Dijital veya fiziksel ortamda, bir konuyla ilgili tüm kanıtları ve verileri t
 
 Sadece bir klasörle karıştırılabilir, ancak bir dossier sadece dosya değil, analiz edilmiş bilgi bütünüdür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Dossier oluşturmak neden önemlidir?**
 

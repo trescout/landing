@@ -22,7 +22,7 @@ Il est utilisé lors de l'exécution des applications d'intelligence artificiell
 
 Il ne doit pas être confondu avec l'entraînement (training) du modèle ; l'entraînement est le processus d'apprentissage du modèle, tandis que l'inférence est le processus d'application.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le modèle continue-t-il d'apprendre pendant l'inférence ?**
 

@@ -39,7 +39,7 @@ Este comando aumenta el número de réplicas del servicio web a cinco. Cuando el
 **Red eléctrica:** Centrales que entran en funcionamiento según la demanda.
 **Logística:** Líneas de distribución que se abren y cierran según la densidad.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Migrar la aplicación a la nube la hace nativa de la nube (cloud native)?**
 

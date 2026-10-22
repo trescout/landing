@@ -24,7 +24,7 @@ Se utiliza con frecuencia en lectores de libros electrónicos, etiquetas de prec
 
 Se confunde con las pantallas LCD u OLED; estas emiten luz constantemente y consumen energía, mientras que la tinta electrónica solo gasta energía en el momento del cambio.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué las pantallas de tinta electrónica no son a color?**
 

@@ -22,7 +22,7 @@ O AI Agent é usado em processos de desenvolvimento, descrições de cargos e ge
 
 Pode ser confundido com uma única ‘habilidade’, mas é um conjunto de habilidades.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Podemos adicionar novos recursos à inteligência artificial?**
 

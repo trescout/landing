@@ -22,7 +22,7 @@ It is used in cloud systems, enterprise networks, and authorization infrastructu
 
 Rather than the technical logic of the code, it outlines administrative and security boundaries.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it important?**
 

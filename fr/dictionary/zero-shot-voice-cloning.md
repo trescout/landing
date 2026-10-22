@@ -22,7 +22,7 @@ Il est utilisé dans les assistants vocaux, les travaux de doublage, la producti
 
 C'est similaire au clonage vocal, mais aucun processus de formation n'est requis ici.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-il copier la voix de n'importe qui ?**
 

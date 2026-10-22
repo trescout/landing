@@ -22,7 +22,7 @@ Bulut bilişimde, sunucu yönetiminde ve oyun sunucularında çok sık kullanıl
 
 Programın kendisi (kaynak kod) ile karıştırılmamalıdır; kaynak kod bir tane, çalışan kopyalar ise sınırsız olabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden birden fazla kopya çalıştırırız?**
 

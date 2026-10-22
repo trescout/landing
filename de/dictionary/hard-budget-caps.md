@@ -22,7 +22,7 @@ Es wird in Testumgebungen für autonome Agenten, die unkontrolliert laufen und H
 
 Nicht zu verwechseln mit dem Soft Budget Cap (flexibles Budgetlimit): Ein flexibles Limit sendet nur eine Warn-E-Mail und läuft weiter, wenn sich das Limit nähert oder überschritten wird; das feste Limit hingegen stoppt die Vorgänge direkt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was sehen Benutzer, wenn die feste Budgetobergrenze erreicht ist?**
 

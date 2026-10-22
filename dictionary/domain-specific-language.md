@@ -24,7 +24,7 @@ Web geliştirme (CSS, HTML), veritabanı yönetimi (SQL), yapılandırma dosyala
 
 Genel amaçlı programlama dilleriyle karıştırılabilir; aradaki fark, birinin her şeyi yapmaya çalışması, diğerinin ise tek bir işi mükemmel yapmaya odaklanmasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her iş için bir DSL kullanmıyoruz?**
 

@@ -31,7 +31,7 @@ O banco de dados vetorial confere a esses modelos uma memória associativa semel
 - Esquecimento do filtro de metadados: a pura similaridade vetorial pode perder tempo ou contexto de categoria; deve ser suportado por filtros.
 - Não antecipar custos de memória: Manter vetores de alta dimensão na RAM sem compactação cria uma explosão de custos; a quantização deve ser aplicada.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Os bancos de dados relacionais clássicos (PostgreSQL etc.) podem ser usados ​​como bancos de dados vetoriais?**
 

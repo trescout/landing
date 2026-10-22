@@ -22,7 +22,7 @@ It is used in large-scale web applications and sites that care about user experi
 
 Can be confused with bundling; bundling dosyaları birleştirirken, code splitting bunları akıllıca parçalara ayırır.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will there be a delay when the user clicks on the page?**
 

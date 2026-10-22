@@ -22,7 +22,7 @@ C++, Rust, Go gibi dillerde yazılım geliştirme sürecinin ayrılmaz bir parç
 
 Runtime ile karıştırılır; compile-time hata bulma aşamasıdır, runtime hata ile karşılaşma aşaması olabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Compile-time hataları neden önemli?**
 

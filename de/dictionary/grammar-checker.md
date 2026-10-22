@@ -22,7 +22,7 @@ Es wird häufig in E-Mails, wissenschaftlichen Artikeln, Blogbeiträgen und täg
 
 Kann mit KI-basierten Textern verwechselt werden; Allerdings konzentrieren sich diese Tools eher auf die Verbesserung bestehender Inhalte als auf die Produktion von Inhalten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Liefert die Grammatikprüfung immer genaue Ergebnisse?**
 

@@ -38,7 +38,7 @@ Kural: Yedek denenmeden güvenilmez. Geri yükleme periyodik test edilir.
 
 *Önemli evrakın fotokopisini başka kasada saklamaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden önemlidir?**
 

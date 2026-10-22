@@ -46,7 +46,7 @@ Embora esses termos sejam frequentemente usados de forma intercambiável no ecos
 
 Com a revolução da inteligência artificial, a arquitetura de plugins ganhou uma dimensão totalmente nova. Os grandes modelos de linguagem (LLMs) deixaram de ser repositórios de conhecimento fechados e, graças aos plugins e aos mecanismos de "Chamada de Ferramentas/Funções" (Tool/Function Calling), transformaram-se em agentes autônomos capazes de pesquisar na web, consultar bancos de dados e realizar ações por meio de APIs. O Model Context Protocol (MCP), desenvolvido pela Anthropic, constitui o exemplo mais recente da arquitetura moderna de plugins, permitindo que os LLMs se conectem a diferentes fontes de dados e ferramentas por meio de um protocolo de plugin padronizado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa plugin e qual é o seu equivalente em português?**
 

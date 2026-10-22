@@ -22,7 +22,7 @@ Está presente em relatórios de segurança cibernética, processos legais de pa
 
 Não é apenas revelar algo, mas geralmente é um processo realizado dentro de uma estrutura de responsabilidade legal ou ética.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que é divulgação responsável?**
 

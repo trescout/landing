@@ -22,7 +22,7 @@ Se utiliza en modelos multilingües, sistemas de procesamiento de voz y análisi
 
 Se confunde con los modelos tradicionales basados ​​en tokens, pero este método es una forma más cruda y directa de procesamiento de datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Corre más rápido?**
 

@@ -22,7 +22,7 @@ A maioria dos modelos de IA são escritos em C++, mas graças às ligações do 
 
 Pode ser confundido com API, mas enquanto a API se comunica pela rede, a ligação é uma conexão no nível da memória dentro do mesmo computador.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que nem todas as bibliotecas são escritas em todos os idiomas?**
 

@@ -42,7 +42,7 @@ Elle peut être confondue avec une passerelle API. La passerelle API gère les s
 **Port :** Passage des navires en douane.
 **Réception:** Orientation du visiteur vers le bon étage.
 
-## Foire aux questions
+## Questions et réponses
 
 **Peut-on accéder à Internet sans passerelle (gateway) ?**
 

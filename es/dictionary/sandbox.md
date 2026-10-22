@@ -22,7 +22,7 @@ Se utiliza en pruebas de seguridad cibernética, etapas de desarrollo de softwar
 
 Se puede mezclar con máquinas virtuales; Un arenero es un espacio de aislamiento que generalmente es más liviano y especializado para una aplicación particular.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesaria una caja de arena?**
 

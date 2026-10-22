@@ -40,7 +40,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Débutant-intermédiaire
 - **Quelles offres:** Source officielle de la documentation GitHub
 - **Source:** GitHub · officiel
-- **Licence:** CC-BY-4.0 · ayrıntı aşağıda
+- **Licence:** CC-BY-4.0 · détail ci-dessous
 
 **Licence:** Contenu CC-BY-4.0 · vous pouvez utiliser et adapter librement, mais vous devez indiquer la source (attribution à GitHub). Voir le dépôt pour les licences individuelles dans le code.
 

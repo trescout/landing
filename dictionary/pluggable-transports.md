@@ -22,7 +22,7 @@ Sansürün yoğun olduğu bölgelerde internete özgürce erişmek için kullan�
 
 VPN ile benzer amaçlara hizmet etse de, çalışma mantığı ve gizleme yöntemleri daha spesifiktir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes kullanabilir mi?**
 

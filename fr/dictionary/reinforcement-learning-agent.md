@@ -22,7 +22,7 @@ Il est largement utilisé dans les systèmes robotiques, l’intelligence artifi
 
 Contrairement aux robots qui fonctionnent avec des règles programmées standard, il crée sa propre stratégie avec l'expérience.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces unités font-elles toujours les choses correctement ?**
 

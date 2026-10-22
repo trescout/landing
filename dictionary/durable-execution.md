@@ -22,7 +22,7 @@ Banka transferleri, uzun süren veri işleme süreçleri ve karmaşık yapay zek
 
 Otomatik kaydetme ile karıştırılabilir, ancak bu sadece dosya değil, programın çalışma mantığının tamamını korur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her program durable olmalı mı?**
 

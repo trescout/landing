@@ -42,7 +42,7 @@ It is thought to be Drive. Drive belongs to the company, the personal cloud is y
 **Cellar:** Household stock.
 **Archive:** Personal paperwork room.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it accessible when cut?**
 

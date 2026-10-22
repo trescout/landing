@@ -42,7 +42,7 @@ On pense qu'il s'agit d'un étiquetage manuel. Ceci est fait par l'homme, cela e
 **Bureau de poste :** Ne pas tamponner.
 **Sceau :** Marquage de document.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce toujours exact ?**
 

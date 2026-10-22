@@ -22,7 +22,7 @@ O modelo de inteligência artificial aprende as expressões faciais e os padrõe
 
 Não deve ser confundido com simples edição de fotos; deepfake cobre conteúdo muito mais complexo e comovente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como posso saber se um vídeo é deepfake?**
 

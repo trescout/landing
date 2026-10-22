@@ -22,7 +22,7 @@ It is found in automatic caption generation systems of social media platforms, A
 
 It is confused with text-to-image, but it is the exact opposite; while text-to-image generates images from text, this technology generates text from images.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can it read handwritten texts?**
 

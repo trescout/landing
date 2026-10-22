@@ -22,7 +22,7 @@ Quando um agente de IA inicia uma tarefa, o sistema cria uma pasta temporária o
 
 Não deve ser confundido com um ambiente de desenvolvimento (development environment): enquanto o ambiente de desenvolvimento foi projetado para humanos escreverem código, o espaço de trabalho do agente é totalmente otimizado para que softwares de IA operem de forma autônoma.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O agente de IA pode sair deste espaço de trabalho e danificar o meu computador?**
 

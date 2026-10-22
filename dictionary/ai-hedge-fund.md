@@ -22,7 +22,7 @@ Finansal piyasalarda, borsa işlemlerinde ve büyük ölçekli varlık yönetim 
 
 Algoritmik ticaretten (algorithmic trading) farkı, yapay zekânın sadece kural takip etmeyip, veriden öğrenerek kendi stratejisini geliştirebilmesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **İnsanlara hiç ihtiyaç yok mu?**
 

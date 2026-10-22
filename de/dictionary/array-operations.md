@@ -22,7 +22,7 @@ Es wird häufig in der Datenanalyse, Bildverarbeitung und Trainingsprozessen von
 
 Kann mit Schleifen verwechselt werden; Während Schleifen jedoch Elemente einzeln verarbeiten, verarbeiten Array-Operationen sie stapelweise, um den Prozess zu beschleunigen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir dies, anstatt eine Transaktion nach der anderen durchzuführen?**
 

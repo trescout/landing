@@ -24,7 +24,7 @@ Web tarayıcılarının adres çubuklarında ve alan adı satın alma süreçler
 
 Alan adı (domain) ile karıştırılabilir; alan adı sitenin tüm ismidir, bu ise sadece son kısmıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden farklı uzantılar var?**
 

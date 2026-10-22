@@ -22,7 +22,7 @@ Os designers lançam o projeto na plataforma baseada em nuvem e convidam membros
 
 É confundido com programas clássicos de design gráfico: enquanto os programas clássicos são executados em um único computador e exigem compartilhamento de arquivos, as ferramentas colaborativas concentram-se inteiramente na colaboração online e simultânea.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preciso saber código para usar essas ferramentas?**
 

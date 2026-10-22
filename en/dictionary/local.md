@@ -50,7 +50,7 @@ With the rise of artificial intelligence, the concept of "local" has become the 
 - Self-Hosted: Hosted on a server in the user's office or home; accessed via the local network, with the maintenance burden on the user.
 Cloud (SaaS): All hardware and data are hosted in a third-party data center; it offers high availability but requires a constant internet connection and privacy trade-offs.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What does local mean and what is its equivalent in informatics?**
 

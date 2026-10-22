@@ -22,7 +22,7 @@ Es wird in Nachrichtenagenturen, bei der Produktion von Social-Media-Inhalten un
 
 Nicht zu verwechseln mit einfachen Videobearbeitungstools; Diese Systeme treffen auch selbst kreative Entscheidungen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird menschliches Eingreifen vollständig eliminiert?**
 

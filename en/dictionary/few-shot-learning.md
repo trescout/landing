@@ -22,7 +22,7 @@ It is especially used in language models, where the user wants the model to resp
 
 Mixed with fine-tuning; While fine-tuning changes the structure of the model, the few-shot method simply adds examples to the current command.
 
-## Frequently asked questions
+## Questions and answers
 
 **How many examples are enough?**
 

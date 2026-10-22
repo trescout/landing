@@ -18,7 +18,7 @@ El modelo se entrena con algoritmos especiales que deciden qué capas usar o cu�
 
 Se utiliza en modelos de lenguajes complejos, sistemas de detección robótica y dispositivos periféricos de ahorro de energía.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son más inteligentes?**
 

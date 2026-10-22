@@ -22,7 +22,7 @@ Yapay zekâ modellerini cep telefonlarına veya küçük cihazlara sığdırmak 
 
 Modelin boyutunu küçültmek için sayıları basitleştiren quantization işleminden farklıdır, burada doğrudan gereksiz bağlantılar silinir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Pruning yapay zekânın zekâsını düşürür mü?**
 

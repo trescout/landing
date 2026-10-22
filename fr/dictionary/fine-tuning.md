@@ -32,7 +32,7 @@ De plus, un ajustement précis représente la justice culturelle et linguistique
 - Entraîner avec des données corrompues : des ensembles de données de mauvaise qualité ou incohérents émoussent la capacité de raisonnement logique du modèle.
 - Surapprentissage (Overfitting) : Entraîner le modèle sur un petit jeu de données avec un excès d'itérations conduit au par cœur et détruit sa capacité de généralisation.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quelle est la principale différence entre le réglage fin et le RAG ?**
 

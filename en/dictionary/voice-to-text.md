@@ -22,7 +22,7 @@ It is used in automatic extraction of meeting notes, voice assistants, and capti
 
 It is mixed with Text-to-Speech (converting text to speech); This is the exact opposite process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is there any margin of error?**
 

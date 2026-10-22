@@ -44,7 +44,7 @@ Ele é considerado fraco. Geralmente estreito, forte no dever. Uma é uma encicl
 **Tocha:** Luz direcionada.
 **scooter:** Veículo de curta distância.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Menos inteligente?**
 

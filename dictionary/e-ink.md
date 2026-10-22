@@ -24,7 +24,7 @@ E-kitap okuyucular, dijital fiyat etiketleri ve bazı düşük enerjili akıllı
 
 LCD veya OLED ekranlarla karıştırılır; onlar sürekli ışık yayar ve enerji tüketir, e-ink ise sadece değişim anında enerji harcar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **E-ink ekranlar neden renkli değil?**
 

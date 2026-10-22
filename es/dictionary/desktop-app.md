@@ -22,7 +22,7 @@ Se utiliza en edición de video, ejecución nativa de modelos de IA y herramient
 
 Se puede confundir con la interfaz web; Las aplicaciones web dependen del navegador, mientras que las aplicaciones de escritorio son independientes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es la aplicación de escritorio más segura?**
 

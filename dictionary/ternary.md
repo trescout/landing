@@ -22,7 +22,7 @@ Düşük güç tüketen yapay zekâ donanımlarında, model sıkıştırma tekni
 
 Binary sistemi ile karıştırılmamalıdır: Binary sadece 0 ve 1 kullanırken, ternary 3 farklı değerle çalışır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ternary yapay zekâ modelleri neden önemlidir?**
 

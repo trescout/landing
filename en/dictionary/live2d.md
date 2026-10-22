@@ -22,7 +22,7 @@ It is used in virtual YouTuber (VTuber) broadcasts, mobile games and interactive
 
 Can be mixed with full 3D modeling; Live2D is essentially clever manipulation of 2D drawings.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do I need 3D knowledge to make Live2D?**
 

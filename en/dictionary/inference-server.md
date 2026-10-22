@@ -22,7 +22,7 @@ It is used in the background of AI-powered applications on cloud computing platf
 
 It is not just a computer, but a specialized infrastructure optimized for the model to run.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why isn't a normal computer enough?**
 

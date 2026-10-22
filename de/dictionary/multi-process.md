@@ -22,7 +22,7 @@ Es wird besonders häufig dort eingesetzt, wo jeder Tab in Webbrowsern als separ
 
 Es wird oft mit dem Konzept des Multi-Threding verwechselt. Während beim Multi-Threading Aufgaben durch leichtgewichtige Threads erledigt werden, die sich denselben Speicherbereich teilen, hat beim Multi-Prozess-Verfahren jede Aufgabe ihren eigenen, vollständig isolierten Speicherbereich.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Belastet die Verwendung von Multi-Prozess den Computer?**
 

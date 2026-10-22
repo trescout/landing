@@ -24,7 +24,7 @@ Es wird als Sicherheitsebene in Unternehmensnetzwerken, auf Servern und auf den 
 
 Es kann mit herkömmlicher Antivirensoftware verwechselt werden; EDR verfügt jedoch über eine wesentlich tiefgreifendere Überwachungs- und Interventionsfähigkeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Blockiert EDR jeden Angriff?**
 

@@ -24,7 +24,7 @@ Selecione um provedor de autenticação (Provedor de Identidade). Conecte seus a
 
 Não deve ser confundido apenas com ferramentas de armazenamento de senhas (Gerenciador de Senhas); SSO é um protocolo de autenticação.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É seguro?**
 

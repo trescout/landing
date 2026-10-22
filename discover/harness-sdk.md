@@ -2,15 +2,15 @@
 
 Harness SDK, yapay zekâ ajanları için uçtan uca kontrol ve yönetim sağlayan açık kaynaklı bir geliştirme kiti. Python ve TypeScript dilleriyle uyumlu olan bu araç, farklı modeller ve bulut altyapıları üzerinde çalışan üretim seviyesindeki ajanların standartlaştırılmasına olanak tanıyor.
 
-- ★ 8.836
+- ★ 8.911
 - GitHub Trending · 2026-09-24
 
 ## Güncelleme
 
+- **22 Ekim 2026:** Yıldız 8.836 → 8.911, son sürüm typescript/v1.22.0 (21 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 8.821 → 8.836, son sürüm python/v1.61.1 (15 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 8.784 → 8.821, son sürüm python/v1.61.0 (14 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 8.738 → 8.784, son sürüm python/v1.60.0 (12 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 8.713 → 8.738, son sürüm harness-cli/v0.2.0 (8 Ekim 2026).
 
 ## Ne kazandırır?
 

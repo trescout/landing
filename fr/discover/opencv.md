@@ -43,7 +43,6 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Computer Vision Library](https://trescout.com/fr/dictionary/computer-vision-library/)
 - [Computer Vision](https://trescout.com/fr/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/fr/dictionary/cv/)
 - [Machine Learning](https://trescout.com/fr/dictionary/machine-learning/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

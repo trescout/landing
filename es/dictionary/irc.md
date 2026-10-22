@@ -24,7 +24,7 @@ Se utiliza en proyectos de software de código abierto, grupos de soporte técni
 
 La diferencia con herramientas modernas como Discord o Slack es que no tiene funciones visuales ni para compartir archivos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es seguro el IRC?**
 

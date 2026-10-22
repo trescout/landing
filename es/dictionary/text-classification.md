@@ -22,7 +22,7 @@ Se utiliza con frecuencia en el filtrado de spam en servicios de correo electró
 
 No debe confundirse con la generación de texto: la clasificación de texto coloca etiquetas en el texto existente, no en el texto nuevo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuántos datos se requieren para la clasificación de texto?**
 

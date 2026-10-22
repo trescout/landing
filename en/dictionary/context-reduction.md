@@ -22,7 +22,7 @@ It is used in RAG systems, analysis of large documents and long-term conversatio
 
 It is not just shortening the data, but choosing the data wisely and formatting it into a format that the model can understand.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will there be information loss?**
 

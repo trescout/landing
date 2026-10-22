@@ -22,7 +22,7 @@ Il est largement utilisé dans le marketing numérique, la conception de jeux, l
 
 A ne pas confondre avec les moteurs de recherche visuels. Tandis que les moteurs de recherche trouvent des images existantes, cette technologie crée une image complètement nouvelle et originale.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les systèmes de conversion texte-image peuvent-ils produire des images protégées par le droit d'auteur ?**
 

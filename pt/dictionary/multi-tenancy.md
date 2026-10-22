@@ -22,7 +22,7 @@ O software atribui a cada usuário uma 'tag' exclusiva no banco de dados. O sist
 
 Pode ser confundido com um servidor compartilhado; Porém, o que é compartilhado aqui não é apenas o hardware, mas a estrutura lógica do software.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usar um único programa?**
 

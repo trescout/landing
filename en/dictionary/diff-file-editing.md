@@ -22,7 +22,7 @@ It is frequently used in version control systems and AI coding agents such as Gi
 
 Not to be confused with overwriting the entire file; this method just applies the difference.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we use diff instead of sending the whole file?**
 

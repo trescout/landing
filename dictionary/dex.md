@@ -24,7 +24,7 @@ Kripto varlıkların alım satımında ve merkeziyetsiz finans (DeFi) dünyasın
 
 Merkezi borsalarla (CEX) karıştırılmamalıdır; merkezi borsalarda varlıklarınız şirketin kontrolündedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **DEX kullanmak için üye olmak gerekir mi?**
 

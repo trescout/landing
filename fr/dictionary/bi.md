@@ -46,7 +46,7 @@ C'est ce qu'on croit être de l'analyse de données. L'analytique pose des quest
 **Tableau de bord :** Informations sur la vitesse et le carburant.
 **Météo :** Générer des prévisions à partir de mesures.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi la BI est-elle importante ?**
 

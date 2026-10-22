@@ -22,7 +22,7 @@ Cette capacité est vitale lorsqu’il s’agit de résumer de longs livres ou d
 
 Elle se confond avec la connaissance générale du modèle ; Les connaissances générales s'acquièrent dans l'éducation et la fenêtre contextuelle est la mémoire à court terme de la conversation en cours.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si la fenêtre contextuelle se remplit ?**
 

@@ -22,7 +22,7 @@ Es wird häufig im digitalen Marketing, im Spieledesign, bei der Erstellung von 
 
 Nicht zu verwechseln mit visuellen Suchmaschinen. Während Suchmaschinen vorhandene Bilder finden, erstellt diese Technologie ein völlig neues und originelles Bild.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können Text-zu-Bild-Systeme urheberrechtlich geschützte Bilder erzeugen?**
 

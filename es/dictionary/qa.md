@@ -54,7 +54,7 @@ Con la proliferación de sistemas probabilísticos (non-deterministic) como los 
 
 **Generación de Pruebas Asistida por Inteligencia Artificial:** Detección automática de casos de prueba y diferencias de regresión de la interfaz visual mediante modelos de inteligencia artificial.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa QA y cuál es su desarrollo?**
 

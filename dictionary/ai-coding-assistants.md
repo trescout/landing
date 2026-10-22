@@ -22,7 +22,7 @@ VS Code, IntelliJ gibi yazılım geliştirme ortamlarında (IDE) kullanılır.
 
 Tamamen kendi kendine kod yazan 'AI Coding Agent' ile karıştırılabilir; asistanlar genellikle sizin kontrolünüzde çalışır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu araçlar yazılımcının yerini mi alacak?**
 

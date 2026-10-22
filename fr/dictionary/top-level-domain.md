@@ -24,7 +24,7 @@ Elles apparaissent dans les barres d'adresse des navigateurs web et lors des pro
 
 Peut être confondu avec le nom de domaine (domain) ; le nom de domaine est le nom complet du site, tandis que ceci n'en est que la partie finale.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi existe-t-il différentes extensions ?**
 

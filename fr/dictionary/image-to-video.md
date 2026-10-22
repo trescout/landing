@@ -22,7 +22,7 @@ Il est utilisé dans les plateformes de contenu créatif, les outils de montage 
 
 Cela peut être confondu avec le montage vidéo ; Cette technologie ne retouche pas, elle produit des images animées à partir de zéro.
 
-## Questions fréquentes
+## Questions et réponses
 
 **N’importe quel type d’image peut-il être transformé en vidéo ?**
 

@@ -22,7 +22,7 @@ Se utiliza ampliamente en sistemas robóticos, juegos de inteligencia artificial
 
 A diferencia de los bots que funcionan con reglas programadas estándar, este crea su propia estrategia con experiencia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estas unidades siempre lo hacen bien?**
 

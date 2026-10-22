@@ -22,7 +22,7 @@ Se utiliza en servidores web, aplicaciones multiusuario y sistemas operativos mo
 
 Se confunde con paralelismo; El paralelismo es, literalmente, dos procesadores diferentes realizando dos trabajos al mismo tiempo, mientras que la concurrencia es la sincronización de los trabajos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante?**
 

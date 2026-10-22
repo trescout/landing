@@ -24,7 +24,7 @@ Baixe um aplicativo leitor de RSS. Adicione os links RSS dos sites que deseja se
 
 Pode ser confundido com Newsletter, mas o RSS está totalmente sob seu controle e não requer email.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O RSS está morto?**
 

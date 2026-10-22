@@ -22,7 +22,7 @@ Il apparaît dans tous les principaux écrans de programmation que vous utilisez
 
 À ne pas confondre avec les outils IDE, qui sont de grands environnements de développement qui compilent l'ensemble du système du début à la fin et le transforment en logiciel fonctionnel ; L'éditeur est plus ciblé et léger.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la différence entre un éditeur de code et un bloc-notes classique ?**
 

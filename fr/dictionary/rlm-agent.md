@@ -24,7 +24,7 @@ Il est utilisé dans les systèmes de jeu, le contrôle de mouvement robotique e
 
 Cela peut être confondu avec les règles logicielles classiques ; Ces systèmes suivent l'expérience et non des règles pré-écrites.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’agent RLM a-t-il toujours raison ?**
 

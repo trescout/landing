@@ -22,7 +22,7 @@ It is used in chatbots, content production tools and translation systems.
 
 It may be confused with autocomplete, but text generation is much more comprehensive and creative.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does artificial intelligence make mistakes when producing text?**
 

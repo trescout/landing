@@ -84,7 +84,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is intended for developers, test teams, and privacy-focused users who want to host a free, secure, and unblocked temporary email service with their own domain.
-- **License:** MIT (Özgür açık kaynak lisansı)
+- **License:** MIT (Free open source license)
 - **Infrastructure:** Cloudflare Workers, Pages, D1 (SQLite) and Email Routing
 - **Languages and Tools:** TypeScript, Rust (WASM), Vue 3, Wrangler
 

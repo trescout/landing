@@ -22,7 +22,7 @@ Il est utilisé dans des assistants capables de répondre aux questions et répo
 
 Il est confondu avec les modèles textuels ; La perception des modèles multimodaux est beaucoup plus large.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les modèles multimodaux sont-ils plus intelligents ?**
 

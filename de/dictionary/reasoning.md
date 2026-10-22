@@ -22,7 +22,7 @@ Es wird verwendet, um komplexe Softwarefehler zu debuggen, fortgeschrittene math
 
 Es wird oft mit einem einfachen Mustervergleich oder dem Auswendiglernen von Informationen verwechselt. Während der Mustervergleich nur Ähnlichkeiten in historischen Daten findet, führt die Argumentation im Rahmen logischer Regeln zu neuen Lösungen in neuen und komplexen Situationen, die noch nie zuvor aufgetreten sind.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Denkt künstliche Intelligenz wirklich wie Menschen?**
 

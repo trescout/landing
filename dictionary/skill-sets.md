@@ -22,7 +22,7 @@ AI Agent geliştirme süreçlerinde, iş tanımlarında ve proje yönetiminde ku
 
 Tek bir 'skill' ile karıştırılabilir, ancak bu bir yetenekler bütünüdür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâya yeni yetenekler ekleyebilir miyiz?**
 

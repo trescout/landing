@@ -24,7 +24,7 @@ Se utiliza en arquitecturas de microservicios, comunicación de aplicaciones mó
 
 Puede confundirse con formatos de datos basados ​​en texto como JSON o XML, pero es mucho más rápido y más pequeño.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede la gente leer?**
 

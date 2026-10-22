@@ -22,7 +22,7 @@ Karmaşık iş akışlarını otomatize eden yapay zekâ ajanlarında ve gelişm
 
 Sadece tek bir model eğitmek olan 'fine-tuning' ile karıştırılır, ancak compound engineering mevcut modellerin yeteneklerini birleştirmeye odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tek bir model yetmiyor?**
 

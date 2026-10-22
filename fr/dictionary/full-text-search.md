@@ -44,7 +44,7 @@ Il peut être confondu avec la recherche de métadonnées. Les métadonnées exa
 **Livre :** La section d'index à la fin.
 **Archive:** Rechercher un sujet dans une collection de coupures de presse.
 
-## Foire aux questions
+## Questions et réponses
 
 **Ne va-t-il pas fonctionner trop lentement ?**
 

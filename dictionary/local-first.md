@@ -22,7 +22,7 @@ Not alma uygulamalarında, kişisel yapay zekâ araçlarında ve gizlilik odakl�
 
 Sadece çevrimdışı (offline) çalışma ile karıştırılabilir; ancak bu yaklaşım çevrimdışıyken de senkronizasyon yeteneğini korumayı hedefler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Verilerim cihazım bozulursa ne olur?**
 

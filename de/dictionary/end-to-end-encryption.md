@@ -38,7 +38,7 @@ Man hält es für TLS. TLS schützt auf dem Transportweg, der Server kann es seh
 **Siegel:** Ein Umschlag, bei dem man sieht, wenn er geöffnet wurde.
 **Geschlossener Kreislauf:** Nach außen abgeschottete Leitung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann es gelesen werden, wenn es gestohlen wird?**
 

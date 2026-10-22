@@ -22,7 +22,7 @@ Se utiliza para aprobar solicitudes de préstamos, estrategias de negociación b
 
 Es diferente de los modelos de predicción pura; Mientras que los modelos de predicción dicen "qué pasará mañana", los modelos de decisión determinan "qué se debe hacer en base a esta predicción".
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Los modelos de decisión siempre utilizan IA?**
 

@@ -22,7 +22,7 @@ Es wird von unabhängigen Spieleentwicklern in PC-, Konsolen- und Mobilspielproj
 
 Im Gegensatz zu anderen kommerziellen Spiele-Engines ist sie völlig kostenlos und es fallen keine Lizenzgebühren an.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss ich Code kennen?**
 

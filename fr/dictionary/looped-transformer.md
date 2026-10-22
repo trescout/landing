@@ -22,7 +22,7 @@ Il est privilégié pour les appareils à faibles ressources ou les applications
 
 Il peut être confondu avec l'architecture transformer standard, mais ici, le nombre de couches est physiquement plus réduit.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce qu'il fonctionne plus lentement ?**
 

@@ -22,7 +22,7 @@ Os desenvolvedores combinam processos complexos de bastidores no design de um si
 
 O software em si e sua interface não são a mesma coisa; A interface é apenas um portão.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todo software possui uma interface web?**
 

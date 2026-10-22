@@ -22,7 +22,7 @@ Los vehículos autónomos se utilizan en la planificación logística y en proce
 
 Es similar a la mente colmena; Sin embargo, swarm se refiere a una colaboración más dinámica y orientada a tareas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué son productivos los enjambres?**
 

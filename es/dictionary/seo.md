@@ -24,7 +24,7 @@ Se utiliza en marketing digital, desarrollo web y gestión de contenidos.
 
 No confundir con publicidad (SEM); El SEO tiene como objetivo mejorar los resultados completamente naturales (orgánicos).
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Mi clasificación aumentará inmediatamente?**
 

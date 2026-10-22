@@ -46,7 +46,7 @@ Bien que ces termes soient souvent utilisés de manière interchangeable dans l�
 
 Avec la révolution de l’intelligence artificielle, l’architecture des plug-ins a pris une toute nouvelle dimension. Les grands modèles de langage (LLM) ont cessé d'être des référentiels d'informations fermés et se sont transformés en agents autonomes capables de rechercher sur le Web, d'interroger des bases de données et d'agir via des API, grâce à des plug-ins et des mécanismes de « Tool/Function Calling ». Model Context Protocol (MCP), développé par Anthropic, est l'exemple le plus récent d'architecture de plug-in moderne, permettant aux LLM de se connecter à différentes sources de données et outils avec un protocole de plug-in standard.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie plugin et quel est son équivalent turc ?**
 

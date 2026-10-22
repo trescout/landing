@@ -22,7 +22,7 @@ Il est utilisé dans le trading algorithmique et la modélisation financière.
 
 À ne pas confondre avec prédire l'avenir ; Bien fonctionner dans le passé ne signifie pas qu’il fonctionnera de la même manière à l’avenir.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le backtesting donne-t-il des résultats précis ?**
 

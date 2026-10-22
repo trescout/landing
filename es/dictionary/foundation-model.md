@@ -22,7 +22,7 @@ Un modelo básico subyace a la mayoría de las aplicaciones modernas de intelige
 
 Se les confunde simplemente con un chatbot; Sin embargo, son la base de muchas cosas, desde escribir código hasta procesar imágenes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es suficiente el modelo de la Fundación por sí solo?**
 

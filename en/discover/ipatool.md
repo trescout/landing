@@ -81,7 +81,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
 
 - **Who it is for:** iOS security researchers, mobile developers, reverse engineering specialists, and IPA archivers.
-- **License:** MIT (Özgür açık kaynak lisansı)
+- **License:** MIT (Free open source license)
 - **Framework:** Go-based cross-platform CLI
 - **Platforms:** macOS, Linux, Windows
 

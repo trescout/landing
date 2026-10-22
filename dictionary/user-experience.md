@@ -24,7 +24,7 @@ Web siteleri, mobil uygulamalar, yazılım araçları ve fiziksel ürünlerin ta
 
 Kullanıcı Arayüzü (UI) ile karıştırılır; UI görseldir, UX ise o görselin nasıl bir etkileşim yarattığıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **UX neden önemli?**
 

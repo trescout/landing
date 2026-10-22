@@ -22,7 +22,7 @@ Você pode usar esta ferramenta em sistemas RAG, que permitem que modelos de int
 
 É frequentemente confundido com o método de web scraping. Enquanto o web scraping examina o design dos sites e extrai dados brutos, a API de Pesquisa na Web traz diretamente os resultados de pesquisa prontos e filtrados fornecidos pelo motor de busca.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que os modelos de inteligência artificial usam a API de Pesquisa na Web?**
 

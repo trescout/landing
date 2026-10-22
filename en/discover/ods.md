@@ -80,7 +80,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [RAG](https://trescout.com/en/dictionary/rag/)
 
 - **Who it is for:** Companies that prioritize data privacy, local AI developers, and system administrators.
-- **License:** MIT (Özgür açık kaynak lisansı)
+- **License:** MIT (Free open source license)
 - **Framework:** Python & llama.cpp Local AI Server
 - **Platforms:** Linux, macOS, Windows
 

@@ -22,7 +22,7 @@ AI Agent est utilisé dans les processus de développement, les descriptions de 
 
 Cela peut être confondu avec une seule « compétence », mais il s’agit d’un ensemble de capacités.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pouvons-nous ajouter de nouvelles capacités à l’intelligence artificielle ?**
 

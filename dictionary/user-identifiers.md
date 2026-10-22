@@ -22,7 +22,7 @@ Web siteleri, mobil uygulamalar ve kurumsal yazılımlarda kullanıcı takibi i�
 
 Kullanıcı adı ile karıştırılabilir ancak bu daha teknik ve sistemin sizi tanımasını sağlayan genel bir yapıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her sistem için farklı bir kimlik alıyorum?**
 

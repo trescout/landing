@@ -24,7 +24,7 @@ Se utiliza en la gestión de servidores, procesos de distribución de software y
 
 Se puede confundir con un simple 'script' o 'shell'; Los agentes tienen la capacidad de tomar decisiones basadas en resultados.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es seguro?**
 

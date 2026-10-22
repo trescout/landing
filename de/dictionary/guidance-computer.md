@@ -22,7 +22,7 @@ Es wird in unbemannten Luftfahrzeugen (Drohnen), autonomen Autos und Raumfahrzeu
 
 Es ist nicht nur ein GPS-Gerät; entscheidet aktiv über das Fahrzeug und verwaltet es.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn er einen Fehler macht?**
 

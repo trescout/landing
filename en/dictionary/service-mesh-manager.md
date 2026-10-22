@@ -42,7 +42,7 @@ It is thought to be a gateway. The gateway stands at the door, while the manager
 **Traffic center:** Signal and camera network.
 **Conductor:** Section layout.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it not managed manually?**
 

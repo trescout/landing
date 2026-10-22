@@ -22,7 +22,7 @@ Es wird verwendet, um die Leistung in Serverinfrastrukturen und cloudbasierten D
 
 Im Gegensatz zu klassischen Stapelverarbeitungsmethoden wird nicht darauf gewartet, dass die Anforderungen abgeschlossen sind, sondern der Fluss wird sofort mit Daten versorgt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Reduziert es die Serverkosten?**
 

@@ -71,7 +71,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [CPU](https://trescout.com/es/dictionary/cpu/)
 
 - **Para quién es:** Está dirigido a investigadores que tienen recursos de hardware limitados y desean probar localmente modelos de alta capacidad de 70B y 405B, y realizar minería de datos y evaluación.
-- **Licencia:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Licencia:** Apache-2.0 (Licencia de código abierto que ofrece amplia libertad)
 - **Requisito:** GPU con un mínimo de 4 GB de VRAM y espacio en disco SSD NVMe de alta velocidad
 - **Ecosistema:** Python, PyTorch y Hugging Face Transformers
 

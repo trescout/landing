@@ -39,7 +39,7 @@ traceroute trescout.com
 
 *Bir kargo şirketinin, paketin hangi şehirden hangi araçla geçeceğini belirleyen detaylı teslimat rotası planına benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Routing Pack standart bir terim midir?**
 

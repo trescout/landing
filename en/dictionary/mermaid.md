@@ -45,7 +45,7 @@ They are thought to be drawing tools. However, Mermaid is text-based, it does no
 **Stenography:** Writing speech using shortcuts.
 **Mathematics:** Describing a shape with formulas.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What kind of charts can be drawn with Mermaid?**
 

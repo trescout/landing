@@ -22,7 +22,7 @@ Se utiliza al preparar prototipos de sitios web, diseñar pantallas de aplicacio
 
 Se confunde con los programas clásicos de diseño gráfico: mientras que los programas clásicos se ejecutan en una sola computadora y requieren compartir archivos, las herramientas colaborativas se centran completamente en la colaboración en línea y simultánea.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Necesito saber código para usar estas herramientas?**
 

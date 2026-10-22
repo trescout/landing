@@ -22,7 +22,7 @@ Java, C++, Rust ve TypeScript gibi dillerde kullanılır.
 
 Dinamik tipli dillerle (Python gibi) karıştırılır; dinamik dillerde türler kod çalışırken belirlenir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Statik tipli diller daha mı zordur?**
 

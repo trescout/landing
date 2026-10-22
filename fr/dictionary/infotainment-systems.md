@@ -35,7 +35,7 @@ La règle de conception est claire : le regard du conducteur doit rester sur la 
 **Maison :** Panneau de maison intelligente mural.
 **Commerce de détail :** Kiosques d'information en magasin.
 
-## Foire aux questions
+## Questions et réponses
 
 **Ces systèmes sont-ils sécurisés ?**
 

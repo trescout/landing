@@ -22,7 +22,7 @@ Divida um fluxo de trabalho complexo em partes menores e defina um prompt de sis
 
 É semelhante ao LLM multiagente, mas o conceito de subagente enfatiza um modelo de gerenciamento mais hierárquico.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usamos subagentes em vez de um único agente poderoso?**
 

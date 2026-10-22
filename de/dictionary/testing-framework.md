@@ -40,7 +40,7 @@ Auswahlkriterium: Sprachkompatibilität, Community- und CI-Unterstützung. Belie
 **Messgerätesatz:** Kalibrierte Instrumente.
 **Fitnessstudio:** Programmierter Gerätesatz.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Welches soll gewählt werden?**
 

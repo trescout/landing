@@ -24,7 +24,7 @@ Es wird in Open-Source-Softwareprojekten, technischen Supportgruppen und nostalg
 
 Der Unterschied zu modernen Tools wie Discord oder Slack besteht darin, dass es keine visuellen oder Dateifreigabefunktionen bietet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist IRC sicher?**
 

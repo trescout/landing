@@ -22,7 +22,7 @@ Se utiliza activamente en el reconocimiento de imágenes, el procesamiento de so
 
 A diferencia del concepto general de inteligencia artificial, esta es la estructura matemática y arquitectónica concreta que constituye esa inteligencia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Funciona igual que el cerebro real?**
 

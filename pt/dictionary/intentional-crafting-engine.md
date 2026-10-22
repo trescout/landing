@@ -22,7 +22,7 @@ O sistema primeiro analisa os objetivos de alto nível e as regras a partir das 
 
 Enquanto um motor de criação geral apenas realiza combinações baseadas em regras, o intentional crafting engine compreende a intenção estratégica do usuário e gera soluções abrangentes com base nisso.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é a diferença dele para um modelo de inteligência artificial generativa padrão?**
 

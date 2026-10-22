@@ -22,7 +22,7 @@ Wird in Transformer-Modellen, LLMs und Übersetzungstools verwendet.
 
 Nicht zu verwechseln mit menschlicher Aufmerksamkeit; Hierbei handelt es sich um ein rein mathematisches Gewichtungsverfahren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es so wichtig?**
 

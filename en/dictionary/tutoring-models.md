@@ -22,7 +22,7 @@ It is used in education platforms, language learning applications and academic s
 
 Its difference from chatbots that only answer questions and answers is that it follows a teaching-oriented strategy.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can it teach every subject?**
 

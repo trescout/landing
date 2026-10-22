@@ -22,7 +22,7 @@ Es wird häufig bei schnell laufenden Anwendungen und Datenbankoperationen bevor
 
 Es kann mit der Client-Server-Architektur verwechselt werden, bei der das System völlig eigenständig ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sollten wir immer prozessbegleitend arbeiten?**
 

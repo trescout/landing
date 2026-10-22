@@ -36,7 +36,7 @@ It is mistaken for AGI. Frontier is the best of today, AGI is the targeted gener
 **Everest:** The summit route of mountaineering.
 **Experimental aircraft:** Frontier test platform.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can everyone use it?**
 

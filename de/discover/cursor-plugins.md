@@ -50,7 +50,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Mittelstufe–Fortgeschritten
 - **Was bietet:** Offizielle Plugin-Spezifikation + Beispiel-Plugins
 - **Quelle:** Cursor · Bild
-- **Lizenz:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Lizenz:** Standard nicht erkannt · Details unten
 
 **Lizenz:** GitHub hat keine Standardlizenz erkannt. Überprüfen Sie vor der Wiederverwendung/Verbreitung die LIZENZ/Bedingungen im Repo.
 

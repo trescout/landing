@@ -50,7 +50,7 @@ Le cloud computing n'est pas seulement une révolution technique, c'est aussi un
 - Stockage Cloud vs Cloud Computing : Google Drive, iCloud ou Dropbox sont de simples services de stockage (storage), tandis que le cloud computing est un vaste écosystème qui, en plus du stockage, englobe une puissance de calcul dynamique, l'entraînement d'intelligences artificielles, la gestion de réseau et l'orchestration de bases de données.
 - Serverless vs Vraiment Serverless : les serveurs physiques existent bien sûr dans l'architecture serverless ; le terme "sans serveur" indique que le développeur n'a plus à se soucier de configurer, de mettre à jour ou de surveiller un serveur, la gestion des serveurs étant rendue invisible par le fournisseur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie le cloud computing et quel est son équivalent en turc ?**
 

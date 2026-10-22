@@ -51,7 +51,7 @@ Observability sanılır. Oysa logging onun yapı taşıdır: Log ham malzemedir,
 
 *Uçağın uçuş verilerini kaydeden kara kutusu gibidir; programın hareketleri günlüğe işlenir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Her şeyi kaydetmek iyi midir?**
 

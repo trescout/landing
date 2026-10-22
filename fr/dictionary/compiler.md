@@ -40,7 +40,7 @@ La première ligne traduit, la seconde exécute. L'interpréteur, quant à lui, 
 **Imprimerie :** La conversion du brouillon en matrice d'impression.
 **Cuisine :** La transformation de la recette en plat préparé.
 
-## Foire aux questions
+## Questions et réponses
 
 **Le compilateur de chaque langage est-il différent ?**
 

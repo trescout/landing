@@ -42,7 +42,7 @@ On pense qu'il s'agit du logiciel lui-même. Pourtant, l'environnement est la ma
 **Aquarium :** L'eau et la température dans lesquelles vit le poisson.
 **Scène :** Le système d'éclairage et de son.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi ça donne une erreur ?**
 

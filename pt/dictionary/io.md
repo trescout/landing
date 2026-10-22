@@ -41,7 +41,7 @@ Esta linha não espera o arquivo chegar, as outras tarefas continuam. A execuç�
 **Restaurante:** Entrada de pedido, saída de atendimento.
 **Fábrica:** Entrada de matéria-prima, saída de produto.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que a E/S é um gargalo?**
 

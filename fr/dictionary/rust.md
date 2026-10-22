@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes d'exploitation, les navigateurs et les infras
 
 Il est confondu avec C ou C++ ; Rust vise à offrir les mêmes performances de manière plus sécurisée.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-il si populaire ?**
 

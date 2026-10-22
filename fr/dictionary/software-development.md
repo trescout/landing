@@ -22,7 +22,7 @@ Il y a des résultats de ce processus partout, des applications mobiles que vous
 
 Il est souvent confondu avec la simple écriture de code, c'est-à-dire le codage. Le codage n'est qu'une partie de ce processus ; d'autres étapes critiques telles que l'analyse, la conception et les tests font également partie intégrante de celui-ci.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-on faire du développement logiciel sans connaître le code ?**
 

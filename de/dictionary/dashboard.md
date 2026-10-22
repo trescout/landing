@@ -22,7 +22,7 @@ Es wird in der Geschäftswelt verwendet, um Verkaufscharts zu verfolgen, die Ser
 
 Es kann mit Berichten verwechselt werden, aber das Dashboard bietet Live- und interaktive Daten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Zeigt das Dashboard Live-Daten an?**
 

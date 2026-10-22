@@ -45,7 +45,7 @@ On pense qu'il s'agit d'outils de dessin. Pourtant, Mermaid est textuel et n'inc
 **Sténographie :** Transcription de la parole à l'aide de raccourcis.
 **Mathématiques :** Description de la forme par une formule.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quels graphiques peut-on dessiner avec Mermaid ?**
 

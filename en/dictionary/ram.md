@@ -44,7 +44,7 @@ It is considered storage. RAM is temporary working space, disk is permanent libr
 **Stand:** Keeping the material at hand.
 **Whiteboard:** Temporary note area.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What happens if RAM becomes full?**
 

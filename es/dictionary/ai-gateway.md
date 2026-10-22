@@ -22,7 +22,7 @@ Se utiliza para la seguridad y la gestión de costos en aplicaciones empresarial
 
 Sólo puede confundirse con una API; sin embargo, esta estructura proporciona una capa adicional de control y gestión además de la API.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se ralentiza el uso de AI Gateway?**
 

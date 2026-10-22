@@ -44,7 +44,7 @@ Ils sont confondus avec des modèles de texte. Cependant, ceux qui produisent du
 **Compositeur:** Nouvelle mélodie avec notes.
 **Écrivain:** Nouvelle histoire avec des mots.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce que cela viole le droit d'auteur ?**
 

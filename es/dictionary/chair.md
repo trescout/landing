@@ -38,7 +38,7 @@ Se puede confundir con el CEO. El CEO dirige la empresa, mientras que el preside
 **Asamblea:** El vicepresidente que preside la sesión.
 **Panel:** El moderador que concede la palabra a los oradores.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El presidente gestiona los asuntos diarios de la empresa?**
 

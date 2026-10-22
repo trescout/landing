@@ -24,7 +24,7 @@ Endüstriyel tasarım, oyun geliştirme, 3D baskı ve mimari projelerde kullanı
 
 Görsel üreten yapay zekâ modelleriyle (image generators) karıştırılmamalıdır; onlar sadece resim çizer, bu ise mühendislik verisi üretir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Üretilen modeller doğrudan 3D yazıcıda kullanılabilir mi?**
 

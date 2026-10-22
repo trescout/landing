@@ -50,7 +50,7 @@ Ao atualizar dados em serviços RESTful, os métodos PUT e PATCH são frequentem
 | Git & Controle de Versão | Arquivo de Alteração Baseado em Linhas | Compartilhamento de código, revisão de código, contribuição | git format-patch HEAD~1, linux-kernel.patch |
 | Web API / HTTP | Método de Atualização Parcial | Economia de rede, alteração parcial no recurso | PATCH /api/users/42 corpo: {"status": "ativo"} |
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa "patch" e qual é a sua tradução para o português?**
 

@@ -24,7 +24,7 @@ Es dient dazu, gescannte PDF-Dokumente bearbeitbar zu machen, Ausweisinformation
 
 Im Gegensatz zu Browsern, die das Bild einfach so speichern, wie es ist, wandelt es den Inhalt in Text um.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann er Handschrift lesen?**
 

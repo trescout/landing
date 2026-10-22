@@ -22,7 +22,7 @@ Sie werden beim Training von KI-Modellen, in physikalischen Simulationen und bei
 
 Sie können mit einfachen algebraischen Gleichungen verwechselt werden; diese Gleichungen berechnen jedoch nicht nur konstante Werte, sondern die Veränderung selbst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwendet künstliche Intelligenz diese Gleichungen?**
 

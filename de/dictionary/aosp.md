@@ -24,7 +24,7 @@ Es wird auf Smartphones, Tablets und speziellen Android-Geräten verwendet.
 
 Es kann mit der von Google angebotenen Android-Version verwechselt werden; die Google-Version enthält spezielle Dienste, die auf AOSP aufbauen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Habe ich den Play Store, wenn ich AOSP verwende?**
 

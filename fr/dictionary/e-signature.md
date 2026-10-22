@@ -24,7 +24,7 @@ Il est utilisé dans les contrats, les transactions bancaires et la correspondan
 
 Le simple fait de coller votre nom sous forme de fichier image sur un document n'est pas une signature électronique ; Il doit y avoir un processus de vérification juridique derrière cela.
 
-## Questions fréquentes
+## Questions et réponses
 
 **En quoi est-ce différent d’une signature physique ?**
 

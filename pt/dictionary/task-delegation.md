@@ -22,7 +22,7 @@ Ele é usado em ferramentas de gerenciamento de projetos, sistemas multiagentes 
 
 É a capacidade de atribuir o trabalho certo ao recurso certo, e não apenas deixar o trabalho para outra pessoa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como a inteligência artificial é transferida?**
 

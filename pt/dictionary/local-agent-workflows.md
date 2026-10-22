@@ -22,7 +22,7 @@ Você cria definições de trabalho por meio de uma infraestrutura instalada em 
 
 Está misturado com serviços de IA baseados em nuvem; Este método usa recursos inteiramente locais.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A energia do meu computador é suficiente?**
 

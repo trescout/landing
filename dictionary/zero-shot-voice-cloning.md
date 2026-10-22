@@ -22,7 +22,7 @@ Sesli asistanlarda, dublaj çalışmalarında, kişiselleştirilmiş içerik ür
 
 Voice Cloning ile benzerdir ancak burada eğitim süreci gerekmez.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkesin sesini kopyalayabilir mi?**
 

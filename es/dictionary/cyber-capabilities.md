@@ -22,7 +22,7 @@ Se utiliza en operaciones de seguridad cibernética, industria de defensa y segu
 
 A menudo se confunde simplemente con ciberseguridad, pero este término se centra más en la parte de "qué podemos hacer".
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estas habilidades son sólo para atacar?**
 

@@ -22,7 +22,7 @@ It is heavily used in the background during continuous integration and automated
 
 It should not be confused with persistent applications installed directly on the live server; these are usually temporary and task-based environments.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we use ready-made images?**
 

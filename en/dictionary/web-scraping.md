@@ -22,7 +22,7 @@ Price comparison sites are used to collect data sets needed for market research 
 
 It is confused with web crawling, but while crawling is used to index sites, scraping is done to extract specific data and make sense of it.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can every site be scraped?**
 

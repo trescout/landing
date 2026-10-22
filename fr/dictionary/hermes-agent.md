@@ -22,7 +22,7 @@ Il est utilisé dans l'automatisation des processus métiers, des projets comple
 
 Sa différence avec le concept général d’AI Agent est qu’il est généralement spécialisé autour d’une architecture spécifique ou d’une utilisation prévue.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'agent Hermès peut-il faire quelque chose ?**
 

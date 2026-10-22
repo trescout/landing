@@ -41,7 +41,7 @@ Regra: Não passe enquanto tiver o trabalho salvo, confirme ou salve-o primeiro.
 **Arquivo:** Remova a pasta do armazenamento e examine-a.
 **Fotografia:** Não aceite pressão do negativo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Ele só baixa arquivos?**
 

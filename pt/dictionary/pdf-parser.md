@@ -22,7 +22,7 @@ Ele verifica os elementos estruturais do arquivo, extrai camadas de texto e conv
 
 Não confundir com ferramentas que simplesmente copiam texto; o analisador tenta preservar a estrutura dos dados (tabela, cabeçalho, etc.).
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todos os analisadores de PDF são iguais?**
 

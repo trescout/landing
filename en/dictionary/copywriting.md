@@ -22,7 +22,7 @@ It is frequently used on website homepages, sales pages, digital advertisements,
 
 It is often confused with content writing; while content writing is more educational and informative, copywriting is directly focused on sales and persuasion.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the difference between copywriting and content writing?**
 

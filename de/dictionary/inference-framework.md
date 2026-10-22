@@ -22,7 +22,7 @@ Es wird beim Einrichten von KI-API-Diensten, beim Ausführen von Open-Source-Mod
 
 Es wird oft mit Trainings-Frameworks (PyTorch, TensorFlow etc.) verwechselt; während sich Trainings-Frameworks auf das Erlernen von Gewichtungen und Backpropagation konzentrieren, maximieren Inferenz-Frameworks lediglich die Reaktionsgeschwindigkeit des fertigen Modells.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird ein Inferenz-Framework anstelle der direkten Verwendung von PyTorch bevorzugt?**
 

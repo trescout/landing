@@ -37,7 +37,7 @@ Wird oft für das Langzeitgedächtnis gehalten. Das ist das dauerhafte Profil, d
 **Stand:** Das Werkzeug, das nach getaner Arbeit weggeräumt wird.
 **RAM:** Der Bereich, der gelöscht wird, wenn der Strom unterbrochen wird.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn es voll ist?**
 

@@ -22,7 +22,7 @@ It is used in financial markets and algorithmic trading platforms.
 
 It can be confused with manual trading; While in manual trading you make the decision instantly, here the system makes it.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I trade systematically?**
 

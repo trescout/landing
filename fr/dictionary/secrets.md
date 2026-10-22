@@ -22,7 +22,7 @@ Il est utilisé dans les services cloud, les connexions de bases de données et 
 
 Il peut être confondu avec les mots de passe des utilisateurs classiques, mais il s’agit d’identités numériques conçues pour les machines et non pour les personnes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les secrets ne sont-ils pas conservés dans le code ?**
 

@@ -22,7 +22,7 @@ Enquanto o programa está em execução, ele usa as estruturas que mantém em su
 
 Pode ser confundido com a arquitetura cliente-servidor, onde o sistema é totalmente independente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Devemos sempre trabalhar em processo?**
 

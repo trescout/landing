@@ -44,7 +44,7 @@ Souvent confondu avec le piratage. L'un s'immisce, l'autre lit. L'un force une p
 **Détective :** Suivi de piste.
 **Archéologie :** De la partie au tout.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce légal ?**
 

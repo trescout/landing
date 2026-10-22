@@ -44,7 +44,7 @@ Girdi ile karıştırılmamalıdır. Girdi başlangıçtır, çıktı sonuçtur.
 
 *Bir fırına hamur koyduğunuzda fırından çıkan ekmek gibidir; girdi hamur, çıktı ekmektir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Çıktı neden hatalı olur?**
 

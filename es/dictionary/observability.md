@@ -42,7 +42,7 @@ Se considera seguimiento. El monitoreo monitorea el umbral, la observabilidad ex
 **Hospital:** Monitor de paciente.
 **Carlinga:** Pantallas de vuelo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué el registro no es suficiente?**
 

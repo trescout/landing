@@ -22,7 +22,7 @@ La plupart des modèles d'IA sont écrits en C++, mais grâce aux liaisons Pytho
 
 Elle peut être confondue avec l'API, mais même si l'API communique sur le réseau, la liaison est une connexion au niveau de la mémoire au sein du même ordinateur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi toutes les bibliothèques ne sont-elles pas écrites dans toutes les langues ?**
 

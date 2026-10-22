@@ -42,7 +42,7 @@ Yanıt gelmiyorsa uygulama çalışmıyor veya port yanlıştır. Güvenlik duva
 
 *Bir tiyatro oyununu sahneye koymadan önce boş bir odada yalnızca oyuncularla prova yapmak gibidir; seyirci henüz yoktur.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden localhost kullanıyoruz?**
 

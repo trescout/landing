@@ -22,7 +22,7 @@ It is used in financial transactions, ownership transfers and digital asset mana
 
 It can be confused with just a digital signature, but smart contracts contain a transaction logic.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can it be changed?**
 

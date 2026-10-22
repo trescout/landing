@@ -53,7 +53,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Medium · setup + account linking
 - **What offers:** Automatic video upload to multiple platforms
 - **Fee:** Open source (see license note)
-- **License:** Belirtilmemiş · ayrıntı aşağıda
+- **License:** Not specified · detail below
 
 **License:** ⚠️ No license is specified in the repo; defaults to 'all rights reserved'. You can look it up to try, but reuse requires express permission from the author.
 

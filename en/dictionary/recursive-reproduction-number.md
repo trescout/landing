@@ -22,7 +22,7 @@ It is used in advanced artificial intelligence safety and system architecture re
 
 It should not be confused with simple software copying or backup processes.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is this number important?**
 

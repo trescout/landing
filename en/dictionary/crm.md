@@ -41,7 +41,7 @@ It is thought to be an address book, but CRM goes beyond mere recording and gene
 **Library:** Member card and borrowing record.
 **School:** Student information system.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Do I have to use CRM?**
 

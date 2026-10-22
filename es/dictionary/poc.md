@@ -48,7 +48,7 @@ Se confunde con un prototipo. El prototipo es una muestra de producto, el PoC es
 **Prueba de casa:** Una prueba de cocina antes de entrar al menú.
 **Tráiler:** Medición de reacción antes de la película.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si tiene éxito?**
 

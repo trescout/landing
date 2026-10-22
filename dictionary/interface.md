@@ -22,7 +22,7 @@ Web sitelerinin gezinme menülerinde, mobil uygulama ekranlarında, işletim sis
 
 Yalnızca ekran tasarımı olan kullanıcı arayüzü (UI) ile karıştırılır. Oysa UI arayüzün sadece insana dönük parçasıdır; makinelerin birbiriyle konuştuğu API'ler de birer arayüzdür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Arayüz ile UI aynı şey midir?**
 

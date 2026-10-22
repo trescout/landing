@@ -24,7 +24,7 @@ Participa activamente en la gestión de certificados SSL/TLS, las configuracione
 
 No es el certificado raíz principal en sí mismo, sino el paso intermedio que actúa como un puente que transporta la confianza entre la raíz y el punto final.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no se utiliza directamente el certificado raíz en lugar del certificado intermedio?**
 

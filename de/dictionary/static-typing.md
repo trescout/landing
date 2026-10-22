@@ -22,7 +22,7 @@ Es wird in Sprachen wie Java, C++, Rust und TypeScript verwendet.
 
 Es wird mit dynamisch typisierten Sprachen (wie Python) verwechselt; In dynamischen Sprachen werden Typen bestimmt, während der Code ausgeführt wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind statisch typisierte Sprachen schwieriger?**
 

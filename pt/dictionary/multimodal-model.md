@@ -22,7 +22,7 @@ O modelo transforma diferentes tipos de dados em uma linguagem matemática comum
 
 É o mesmo que o conceito multimodal, onde a estrutura do “modelo” é particularmente enfatizada.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que apenas texto não é suficiente?**
 

@@ -22,7 +22,7 @@ Kripto para borsalarında, hisse senedi piyasalarında ve döviz işlemlerinde k
 
 Algorithmic Trading ile benzerdir ancak ajanlar daha özerk ve öğrenmeye dayalıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Para kaybetme riski var mı?**
 

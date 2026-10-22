@@ -47,7 +47,7 @@ Es wird davon ausgegangen, dass es sich um einen manuellen Test handelt. Allerdi
 **Fließband:** Teil, Inspektion und Verpackung.
 **Gepäckband:** Registrieren, Durchsuchen und Hochladen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist es so wichtig?**
 

@@ -22,7 +22,7 @@ It is used in languages ​​such as Rust, TypeScript, Java and in large-scale 
 
 It is not just an 'error message'; This is the basic working principle of the programming language itself.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why doesn't everyone use it?**
 

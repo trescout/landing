@@ -22,7 +22,7 @@ It is used in LLM services, conversations that require long context, and high-tr
 
 It can be confused with KV cache; While the KV cache holds the internal state of the model, the prefix cache holds text blocks.
 
-## Frequently asked questions
+## Questions and answers
 
 **How much speed does it provide?**
 

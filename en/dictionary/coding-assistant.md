@@ -22,7 +22,7 @@ It is used in daily software projects, when learning a new language, or when cre
 
 It can be confused with the 'AI Agent' which does the entire project completely autonomously; The assistant usually acts under your direction.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does he write all the code?**
 

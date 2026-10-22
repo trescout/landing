@@ -24,7 +24,7 @@ Se utiliza en sitios web, aplicaciones móviles y diseños impresos.
 
 Se mezcla con formatos de imagen basados ​​en píxeles como JPEG o PNG.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué SVG permanece claro en cualquier tamaño?**
 

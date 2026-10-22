@@ -22,7 +22,7 @@ Vous le rencontrerez dans l’analyse financière mondiale et les portefeuilles 
 
 Contrairement aux concepts généraux de stocks internationaux, il comporte une restriction géographique et juridique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les étrangers ne peuvent-ils pas en obtenir ?**
 

@@ -28,7 +28,7 @@ Yazılım ekiplerinin güvenlik ve mevzuat standartlarını projenin son aşamas
 
 Şirket içi platform politikaları (Terms of Service / Acceptable Use Policy) ile yasal düzenleyici kısıtlamalar karıştırılmamalıdır. Platform kuralları şirketlerin kendi ticari tercihleridir; düzenleyici kısıtlamalar ise ihlali durumunda şirket cirosuna oranla devasa para cezaları ve yasal yaptırımlar doğuran devlet yasalarıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Regulatory restrictions meaning (Düzenleyici kısıtlama ne anlama gelir)?**
 

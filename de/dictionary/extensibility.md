@@ -44,7 +44,7 @@ Hier ist ein kleines Beispiel, eine typische Plugin-Deklaration:
 **Produktion:** Küchenmaschinen, bei denen verschiedene Aufsätze am selben Gehäuse befestigt werden können.
 **Spiel:** Mod-Communitys, die neue Karten und Missionen hinzufügen, ohne das Hauptspiel zu ändern.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist jede Software erweiterbar?**
 

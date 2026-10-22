@@ -41,7 +41,7 @@ Open Weights ile karıştırılabilir. Open Weights yalnızca ağırlıkların a
 
 *Bir yemeğin gizli tarifini saklamak yerine, herkesin üzerinde denemeler yapıp geliştirebilmesi için tarifi paylaşmak gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Açık kaynaklı modeller daha mı zayıftır?**
 

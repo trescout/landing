@@ -22,7 +22,7 @@ Se utiliza en los motores de búsqueda para generar resultados que tienen un sig
 
 A menudo se piensa que es simplemente un método de traducción, pero no es una traducción sino una colocación matemática del significado en el espacio.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no usamos simplemente palabras?**
 

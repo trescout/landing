@@ -22,7 +22,7 @@ O sistema cria um “mapa mental” analisando as coordenadas, volumes e distân
 
 Não é apenas um reconhecimento visual, mas uma compreensão que inclui profundidade e lógica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como a inteligência artificial aprende isso?**
 

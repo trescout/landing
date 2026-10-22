@@ -22,7 +22,7 @@ O modelo renderiza diretamente texto ou dados no nível de caractere ou pixel. C
 
 É confundido com modelos tradicionais baseados em tokens, mas este método é uma forma mais crua e direta de processamento de dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Corre mais rápido?**
 

@@ -24,7 +24,7 @@ Il est fréquemment utilisé dans les applications Web, les logiciels d'entrepri
 
 Il peut être confondu avec le pilote de base de données ; Le pilote fournit la connexion brute, tandis que l'ORM facilite cette connexion.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je utiliser ORM ?**
 

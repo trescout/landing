@@ -46,7 +46,7 @@ Yapay zekâ devrimiyle birlikte eklenti mimarisi yepyeni bir boyut kazanmıştı
 
 *Bir müzisyenin elektro gitar amfisini düşünün: Amfinin kendisi temel ses yükseltme görevini üstlenir (çekirdek). Müzisyen amfi ile gitar arasına distortion, chorus veya delay pedalları takarak (plugin) amfinin devrelerine hiç dokunmadan sınırsız sayıda yeni ses tonu elde edebilir.*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Plugin ne demek ve Türkçe karşılığı nedir?**
 

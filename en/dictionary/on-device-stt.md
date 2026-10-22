@@ -38,7 +38,7 @@ Cloud recognition is assumed. It runs on the server, data goes out. This runs on
 **Calculator:** Computation without a battery.
 **Flashlight:** Light without a network.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why instead of cloud?**
 
@@ -58,7 +58,7 @@ Yes. Constant listening has a cost, it is turned on when needed.
 
 ## Related terms
 
-- [STT](https://trescout.com/en/dictionary/stt/)
+- [STT](https://trescout.com/en/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/en/dictionary/speech-to-text/)
 - [Local](https://trescout.com/en/dictionary/local/)
 

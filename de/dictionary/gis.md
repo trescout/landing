@@ -24,7 +24,7 @@ Stadtplanung, Logistikrouten, Umweltschutzprojekte und Katastrophenmanagement.
 
 Nicht zu verwechseln mit einem Navigationstool wie Google Maps; Es zeigt nur das Ergebnis, GIS ist die Küche der Daten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist GIS nur eine Karte?**
 

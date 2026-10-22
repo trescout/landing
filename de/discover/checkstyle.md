@@ -80,7 +80,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
 
 - **Für wen es gedacht ist:** Java-Entwickler, Softwarearchitekten, Qualitätssicherungsteams und technische Leiter.
-- **Lizenz:** LGPL-2.1 (Açık kaynak kütüphane lisansı)
+- **Lizenz:** LGPL-2.1 (Open-Source-Bibliothekslizenz)
 - **Framework:** Java Statische Code-Analyse-Tool
 - **Plattformen:** JVM (Java Virtual Machine), Linux, macOS, Windows
 

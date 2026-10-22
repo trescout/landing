@@ -22,7 +22,7 @@ Arama motorlarında daha doğru sonuçlar sunmak ve karmaşık kurumsal verileri
 
 Sıradan bir Excel tablosu veya liste değildir çünkü burada verinin kendisinden ziyade veriler arasındaki ilişki önemlidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bilgi grafiği ile RAG arasındaki fark nedir?**
 

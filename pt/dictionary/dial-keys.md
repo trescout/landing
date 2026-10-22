@@ -22,7 +22,7 @@ Você o encontrará em telefones antigos, coleções de museus e designs decorat
 
 Não deve ser confundido com teclados digitais modernos ou interfaces de tela sensível ao toque.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não é mais usado?**
 

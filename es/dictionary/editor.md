@@ -22,7 +22,7 @@ Se utiliza en todos los procesos de desarrollo de software. Es la primera herram
 
 Puede confundirse con editores de texto comunes (como el Bloc de notas); pero los editores de código tienen habilidades especiales para comprender la lógica del software.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede utilizar cualquier editor de texto para escribir código?**
 

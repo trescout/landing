@@ -22,7 +22,7 @@ Sektör profesyonellerinin kendilerini güncel tutmasında, yazılımcıların y
 
 Akademik teknoloji dergileriyle karıştırılır: Akademik dergiler çok ağır ve teorik analizler sunarken, bu bültenler pratik, hızlı okunabilir ve günlük hayata uygulanabilir gelişmelere odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu bültenleri takip etmek için yazılımcı olmak şart mı?**
 

@@ -42,7 +42,7 @@ Dieses Tool entfernt den Sicherheitsschutz des Modells. Die rechtliche und ethis
 - **Schwierigkeit:** Erweiterte Kenntnisse im Umgang mit Modellgewichten
 - **Was bedeutet:** Entfernen Sie Sicherheitsbeschränkungen aus dem Modell
 - **Gebühr:** Kostenlos · Open Source (AGPL-3.0)
-- **Lizenz:** AGPL-3.0 · ayrıntı aşağıda
+- **Lizenz:** AGPL-3.0 · Details unten
 
 **Lizenz:** AGPL-3.0 · kostenlose Nutzung; Wenn Sie jedoch den Code ändern und verbreiten oder als Dienstleistung anbieten, müssen Sie auch Ihre eigene Quelle öffnen (Copyleft).
 

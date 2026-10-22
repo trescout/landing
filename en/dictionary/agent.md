@@ -22,7 +22,7 @@ They are frequently used in customer service bots, automated software developmen
 
 Not to be confused with standard AI models that only produce text; agents go beyond producing text and take action.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do agents always make the right decision?**
 

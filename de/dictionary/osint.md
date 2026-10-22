@@ -44,7 +44,7 @@ Wird oft für Hacking gehalten. Der eine bricht ein, der andere liest. Einer bri
 **Detektiv:** Spurensuche.
 **Archäologie:** Vom Teil zum Ganzen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es legal?**
 

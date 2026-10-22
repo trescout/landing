@@ -22,7 +22,7 @@ It was used for information sharing and technical support in the early days of i
 
 It should not be confused with today's instant messaging applications; it is much slower and text-focused.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it still in use?**
 

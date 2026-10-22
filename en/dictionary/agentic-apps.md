@@ -24,7 +24,7 @@ They are frequently used when planning travel, automatically managing your email
 
 They are often confused with classic AI chatbots. While chatbots only answer your questions, autonomous applications can perform concrete actions on your behalf, such as researching on the internet and buying tickets.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do these applications run completely uncontrolled?**
 

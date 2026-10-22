@@ -24,7 +24,7 @@ Ele faz um backup do seu telefone e o reporta contra assinaturas de malware conh
 
 Ao contrário dos antivírus de uso geral, ele se concentra na detecção de spyware direcionado específico e avançado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todos podem usar?**
 

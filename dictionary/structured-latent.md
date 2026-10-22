@@ -22,7 +22,7 @@ Veri, özel algoritmalarla sıkıştırılır ve anlamlı özelliklerine göre m
 
 Embedding ile benzerdir ancak burada verinin matematiksel uzaydaki yapısal düzenine daha fazla vurgu yapılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu neden önemlidir?**
 

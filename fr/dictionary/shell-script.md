@@ -22,7 +22,7 @@ Il est fréquemment utilisé pour automatiser les tâches de gestion des serveur
 
 C'est la même chose que le script bash, juste un terme plus général.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je connaître le code ?**
 

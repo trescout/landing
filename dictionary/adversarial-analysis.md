@@ -22,7 +22,7 @@ Yapay zekâ modellerinin güvenliğini sağlamada, siber güvenlik denetimlerind
 
 Sadece hata ayıklama ile karıştırılmamalıdır; burada odak noktasında kötü niyetli bir aktörün varlığı vardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu testi yapıyoruz?**
 

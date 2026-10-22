@@ -24,7 +24,7 @@ Bulut tabanlı modern ilişkisel ve NoSQL veritabanlarında, büyük veri analit
 
 Manuel indeksleme geliştiricinin hangi alanları indeksleyeceğini elle SQL komutlarıyla belirlediği yaklaşımken, autoindex bu kararı kullanım desenlerine göre sistemin kendisine bırakır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Autoindex her zaman sorgu performansını artırır mı?**
 

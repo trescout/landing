@@ -24,7 +24,7 @@ Elle est fondamentale dans les processus de conception de sites Web, d’applica
 
 Il est confondu avec l'interface utilisateur (UI) ; L’UI est visuelle, l’UX est la manière dont ce visuel interagit.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi l’UX est-il important ?**
 

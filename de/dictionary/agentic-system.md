@@ -22,7 +22,7 @@ Es wird bei der Automatisierung komplexer Arbeitsabläufe, Softwareentwicklungsp
 
 Kann mit gewöhnlichen Automatisierungstools verwechselt werden; Während die Automatisierung nur dem vordefinierten Pfad folgt, zeichnet das Agentensystem den Pfad selbst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Treffen Agentensysteme immer die richtige Entscheidung?**
 

@@ -36,7 +36,7 @@ Logging ile karıştırılabilir. Log, tekil olay satırıdır. Metrik sayısal 
 
 *Bir arabanın içindeki sensörlerin, motorun sıcaklığını ve yakıt durumunu sürekli olarak sürücü paneline bildirmesi gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Gizliliğimi etkiler mi?**
 

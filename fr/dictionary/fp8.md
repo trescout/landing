@@ -24,7 +24,7 @@ Il est utilisé dans la formation et l’exécution (d’inférence) de modèles
 
 Peut être confondu avec Quantification ; FP8 est en fait un type de quantification.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que cela réduit la qualité du modèle ?**
 

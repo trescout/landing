@@ -41,7 +41,7 @@ C'est similaire aux constructeurs de sites web (website builders), mais un CMS o
 **Bibliothèque :** Le système de catalogue qui organise les étagères.
 **Commerce de détail :** L'agencement du magasin qui gère le plan des rayons.
 
-## Foire aux questions
+## Questions et réponses
 
 **Dois-je être un développeur de logiciels pour utiliser un CMS ?**
 

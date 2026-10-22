@@ -22,7 +22,7 @@ Vetores próximos uns dos outros (semelhantes em significado) em um espaço mult
 
 Pode ser confundido com Banco de Dados Vetorial; Vector Database é um repositório e Vector Index é o sistema de pesquisa dentro desse repositório.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o índice é importante?**
 

@@ -22,7 +22,7 @@ Es wird zum automatischen Extrahieren von Besprechungsnotizen, Sprachassistenten
 
 Es wird mit Text-to-Speech (Konvertieren von Text in Sprache) gemischt. Dies ist der genau gegenteilige Vorgang.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Gibt es eine Fehlerquote?**
 

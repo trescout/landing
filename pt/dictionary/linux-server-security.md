@@ -22,7 +22,7 @@ Ele desempenha um papel crítico em servidores em nuvem, servidores domésticos 
 
 Pode ser confundido com administração de servidores, mas é uma área especializada que se concentra exclusivamente na segurança.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que realizamos um estudo de segurança separado especificamente para servidores Linux?**
 

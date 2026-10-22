@@ -22,7 +22,7 @@ Es wird bei der Entwicklung von Webanwendungen, mobilen Schnittstellen und allen
 
 Es ist mit dem Backend vermischt; Während das Backend der unsichtbare Engine-Teil ist, ist das Frontend das sichtbare Schaufenster.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Welche Tools kommen in den Frontend-Stack?**
 

@@ -22,7 +22,7 @@ O desenvolvedor emite o comando 'compile'. O sistema verifica os códigos, verif
 
 Está misturado com tempo de execução; O tempo de compilação é a fase de detecção de erros, o tempo de execução pode ser a fase de detecção de erros.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que os erros em tempo de compilação são importantes?**
 

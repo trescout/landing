@@ -22,7 +22,7 @@ Karmaşık veri analizi, otonom yazılım geliştirme ve büyük ölçekli strat
 
 Sadece tek bir büyük yapay zekâ modeli ile karıştırılmamalıdır, burada bir ekip çalışması söz konusudur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tek bir güçlü model yerine sürü kullanıyoruz?**
 

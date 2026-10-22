@@ -22,7 +22,7 @@ Yapay zekâ güvenliği testlerinde, kırmızı takım çalışmalarında ve mod
 
 Prompt injection kavramına çok benzer ama prompt injection doğrudan sisteme gizli talimat sızdırmayı amaçlar, jailbreak ise doğrudan modelin temel ahlaki ve güvenlik kurallarını kırmaya odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Jailbreak yasal mı?**
 

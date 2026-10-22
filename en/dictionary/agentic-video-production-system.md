@@ -22,7 +22,7 @@ It is used in news agencies, social media content production and advertising age
 
 Not to be confused with simple video editing tools; These systems also make creative decisions themselves.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is human intervention completely eliminated?**
 

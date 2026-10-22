@@ -80,7 +80,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [RAG](https://trescout.com/fr/dictionary/rag/)
 
 - **Pour qui:** Entreprises soucieuses de la confidentialité des données, développeurs locaux d’intelligence artificielle et administrateurs système.
-- **Licence:** MIT (Özgür açık kaynak lisansı)
+- **Licence:** MIT (Licence open source gratuite)
 - **Toit:** Serveur IA local Python et lama.cpp
 - **Plateformes:** Linux, macOS, Windows
 

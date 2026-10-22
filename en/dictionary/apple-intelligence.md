@@ -22,7 +22,7 @@ It is used when writing emails, reviewing notification summaries, removing unwan
 
 It can be confused with traditional cloud-based chatbots; however, this system is deeply integrated into the device's operating system, and its primary focus is the local privacy of personal data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does Apple Intelligence work without internet?**
 

@@ -22,7 +22,7 @@ Se utiliza en sistemas operativos, navegadores e infraestructuras de inteligenci
 
 Se confunde con C o C++; Rust tiene como objetivo ofrecer el mismo rendimiento de una forma más segura.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es tan popular?**
 

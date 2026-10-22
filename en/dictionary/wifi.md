@@ -24,7 +24,7 @@ It is used for internet access in homes, workplaces and public areas.
 
 It may be confused with the internet itself, but WiFi is just a transport method that delivers the internet to you.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why does WiFi slow down?**
 

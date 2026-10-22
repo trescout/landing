@@ -22,7 +22,7 @@ Web kazıma, otomatik testler ve fiyat takibi gibi işlemlerde kullanılır.
 
 Headless Browser
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden normal tarayıcı kullanmıyoruz?**
 

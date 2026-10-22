@@ -32,7 +32,7 @@ Além disso, o fine-tuning representa a justiça cultural e linguística. Embora
 - Treinamento com dados indesejados: conjuntos de dados de baixa qualidade ou inconsistentes prejudicam a capacidade de raciocínio lógico do modelo.
 - Overfitting: treinar o modelo com iterações excessivas em um pequeno conjunto de dados leva à memorização mecânica e destrói o poder de generalização.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Qual é a principal diferença entre ajuste fino e RAG?**
 

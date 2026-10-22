@@ -62,9 +62,9 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Native Binaries](https://trescout.com/pt/dictionary/native-binaries/)
 - [Reverse Engineering](https://trescout.com/pt/dictionary/reverse-engineering/)
 - [Native](https://trescout.com/pt/dictionary/native/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/pt/dictionary/context/)
+- [MCP](https://trescout.com/pt/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destinado a desenvolvedores que desejam analisar a lógica de funcionamento de aplicações existentes com a ajuda de inteligência artificial, sem a necessidade de código-fonte, e adaptar recursos semelhantes aos seus próprios projetos.
 - **Licença:** MIT

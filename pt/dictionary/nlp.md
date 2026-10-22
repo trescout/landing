@@ -24,7 +24,7 @@ Ele aparece todos os dias em recursos de autocorreção, chatbots de atendimento
 
 Muitas vezes é confundida apenas com tradução de idiomas, mas a PNL cobre processos muito mais amplos, como resumo de texto e análise de sentimentos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A PNL pode entender todos os idiomas?**
 

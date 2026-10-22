@@ -22,7 +22,7 @@ Es wird in LLM-basierten Anwendungen, bei schnellen Prototyping-Prozessen und in
 
 Es kann mit Few-Shot-Learning verwechselt werden; während man dem Modell bei Few-Shot einige Beispiele gibt, gibt man ihm bei Zero-Shot keinerlei Beispiele.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Funktioniert es immer korrekt?**
 

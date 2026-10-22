@@ -47,7 +47,7 @@ Wird oft für einen Unit-Test gehalten. Er schaut sich jenes Teil an, dieser sch
 **Probe:** Gesamtwiederholung.
 **Finale:** Sendeprobe.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum wird nur das nicht gemacht?**
 

@@ -22,7 +22,7 @@ O modelo lembra situações semelhantes no conjunto de dados no qual foi treinad
 
 Não deve ser confundido com um processo de raciocínio consciente; é apenas uma velocidade estatística.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O instinto da inteligência artificial pode cometer erros?**
 

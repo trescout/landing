@@ -30,7 +30,7 @@ Se considera una base de datos. Sin embargo, son archivos de texto sin formato. 
 **Arnés clave:** Claves probadas.
 **Rueda de contraseña:** Rueda de probabilidad.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es legal?**
 

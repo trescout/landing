@@ -22,7 +22,7 @@ Il est utilisé dans les outils de traitement d’images, les applications de r�
 
 Il peut être confondu avec tous les logiciels d’intelligence artificielle ; Le modèle n'est que la partie « cerveau » du logiciel.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Chaque modèle peut-il faire n’importe quel travail ?**
 

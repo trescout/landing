@@ -22,7 +22,7 @@ Il est utilisé lors de l'analyse de code dans de grands projets logiciels, dans
 
 Il est différent des systèmes de recherche textuelle classiques ; au lieu d'une simple correspondance de texte, il révèle les liens sémantiques et architecturaux du code.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utiliser un Graphe de Connaissance du Code plutôt qu'une simple recherche textuelle ?**
 

@@ -22,7 +22,7 @@ It is used in enterprise artificial intelligence applications, customer service 
 
 It is confused with general cybersecurity tools; However, these tools focus specifically on the working logic of artificial intelligence models.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it provide one hundred percent protection?**
 

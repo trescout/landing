@@ -22,7 +22,7 @@ A inteligência artificial realiza tentativas milhares de vezes dentro de uma si
 
 Pode ser confundido com o aprendizado supervisionado; nele, a resposta correta é fornecida, enquanto neste, apenas o resultado é recompensado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que leva tanto tempo?**
 

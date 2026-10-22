@@ -42,7 +42,7 @@ Es wird oft für ein Gateway gehalten. Das Gateway steht an der Tür, der Manage
 **Verkehrszentrale:** Signal- und Kameranetzwerk.
 **Dirigent:** Schnittaufteilung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum wird es nicht manuell verwaltet?**
 

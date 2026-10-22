@@ -57,11 +57,11 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Speech-to-Text](https://trescout.com/dictionary/speech-to-text/)
-- [STT](https://trescout.com/dictionary/stt/)
 - [GGUF](https://trescout.com/dictionary/gguf/)
 - [Inference](https://trescout.com/dictionary/inference/)
 - [CPU](https://trescout.com/dictionary/cpu/)
 - [GPU](https://trescout.com/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/transcribe-cpp/

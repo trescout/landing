@@ -44,7 +44,7 @@ It is considered a website. The site delivers content, the Web UI manages the ap
 **Cockpit:** Indicator and button layout.
 **Controller:** Device control panel.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is internet required?**
 

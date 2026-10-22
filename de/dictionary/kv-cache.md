@@ -24,7 +24,7 @@ Es wird in den Arbeitsabläufen von LLMs und insbesondere in Chat-Oberflächen e
 
 Es kann mit dem Kontextfenster verwechselt werden, es handelt sich jedoch nicht um eine Kapazitätsbeschränkung, sondern um eine Methode zur effizienten Nutzung dieser Kapazität.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist KV-Cache wichtig?**
 

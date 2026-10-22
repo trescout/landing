@@ -22,7 +22,7 @@ This happens frequently with chatbots, artificial intelligence assistants, and c
 
 It may be confused with prompt engineering, but this is an attempt to leak.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is this a security vulnerability?**
 

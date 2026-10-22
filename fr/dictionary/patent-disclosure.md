@@ -31,7 +31,7 @@ En revanche, il existe une tension historique dans le monde du logiciel entre le
 - Description technique insuffisante : omettre les étapes de fonctionnement du système entraîne l'annulation du brevet en justice.
 - Fausse déclaration d'inventeur : l'ajout de managers n'ayant pas contribué ou l'exclusion de l'ingénieur principal compromet la validité du brevet.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quand faut-il faire une déclaration de brevet (patent disclosure) ?**
 

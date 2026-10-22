@@ -42,7 +42,7 @@ Se cree que es una biblioteca. La biblioteca llama, el techo llama. Uno es la he
 **Chef:** Diseño de menú y cocina.
 **Llavero:** Entrega a domicilio terminada.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se usa?**
 

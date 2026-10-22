@@ -22,7 +22,7 @@ Sie finden es in mobilen Banking-Anwendungen, Börsenplattformen und Versicherun
 
 Es handelt sich nicht direkt um ein Softwaretool oder Programm; Es bezieht sich auf den allgemeinen sektoralen Bereich, der von Finanztechnologien bedient wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **In welcher Beziehung stehen Finanzdienstleistungen zu Software?**
 

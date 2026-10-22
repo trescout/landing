@@ -22,7 +22,7 @@ Algoritmos de inteligência artificial ou sistemas baseados em regras detectam a
 
 É frequentemente confundido com o simples ato de desenhar uma forma preta sobre o texto; enquanto em desenhos superficiais o texto subjacente pode ser copiado, no processo real de ocultação os dados são completamente removidos do arquivo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Pintar o texto de preto em um PDF é um processo de ocultação suficiente?**
 

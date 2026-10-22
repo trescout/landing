@@ -80,7 +80,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 
 - **Para quem é:** Agentes de patentes, gestores de propriedade intelectual, engenheiros de P&D e inventores.
-- **Licença:** MIT (Özgür açık kaynak lisansı)
+- **Licença:** MIT (Licença de código aberto livre)
 - **Framework:** Capacidade de Agente de Patentes Baseada em Python
 - **Plataformas:** Linux, macOS, Windows
 

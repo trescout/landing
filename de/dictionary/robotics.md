@@ -22,7 +22,7 @@ Es ist in Produktionsstätten, autonomen Fahrzeugen und der Lagerautomatisierung
 
 Im Gegensatz zu reinen Softwareprojekten sind hier physische und mechanische Hardware beteiligt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Welche Beziehung besteht zur künstlichen Intelligenz?**
 

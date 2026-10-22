@@ -22,7 +22,7 @@ Il est utilisé par les professionnels de l'industrie pour se tenir au courant, 
 
 On la confond avec les revues académiques technologiques : alors que les revues académiques proposent des analyses très lourdes et théoriques, ces newsletters se concentrent sur des développements pratiques, rapides à lire et applicables à la vie quotidienne.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Faut-il être développeur de logiciels pour suivre ces newsletters ?**
 

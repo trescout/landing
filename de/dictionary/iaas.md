@@ -47,7 +47,7 @@ Wird oft für PaaS gehalten. IaaS stellt Hardware bereit, PaaS bietet eine ferti
 **Lager:** Lagerhalle mit fertigen Regalen.
 **Feld:** Miete von gepflügtem Boden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist IaaS sicher?**
 

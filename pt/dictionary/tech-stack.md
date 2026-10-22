@@ -47,7 +47,7 @@ Escolher a pilha de tecnologia errada pode levar uma startup a um desastre de re
 - Tech Stack vs Just Framework: a instrução "Reaja à nossa pilha" está faltando; React é uma biblioteca apenas de frontend. A pilha de tecnologia cobre toda a cadeia, do servidor ao banco de dados, do sistema operacional ao CDN.
 - Mais Popular = Melhor: Nem toda nova ferramenta que está em alta no Hacker News ou nas mídias sociais é a ferramenta certa para o seu projeto. Microsserviços complexos ou implantações de Kubernetes desnecessárias são uma armadilha para o excesso de engenharia precoce.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa pilha de tecnologia, qual é o seu equivalente turco?**
 

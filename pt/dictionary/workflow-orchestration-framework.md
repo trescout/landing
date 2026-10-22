@@ -43,7 +43,7 @@ Airflow, Prefect e Temporal são aplicações conhecidas. Não deve ser confundi
 **Tráfego aéreo:** Ordem de decolagem.
 **Ferrovia:** Horário dos trens.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que é necessário?**
 

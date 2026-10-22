@@ -44,7 +44,7 @@ Metadata aramasıyla karıştırılabilir. Metadata dosya bilgisine (ad, tarih, 
 
 *Bir kitabın sadece içindekiler kısmına bakmak yerine, tüm sayfaları tarayarak aradığınız cümleyi bulmaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Çok yavaş çalışmaz mı?**
 

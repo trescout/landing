@@ -49,7 +49,7 @@ Conservez au moins 3 copies de vos données.
 Conservez ces copies sur 2 supports physiques différents (par exemple, un disque interne et un disque USB externe).
 Hérbergez au moins l'une des copies dans un emplacement physique différent (serveur distant chiffré ou stockage externe) à l'abri du feu et du vol.
 
-## Foire aux questions
+## Questions et réponses
 
 **Qu'est-ce que le self-hosted et que signifie-t-il en français ?**
 

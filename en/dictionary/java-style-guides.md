@@ -22,7 +22,7 @@ It is used in enterprise software projects, open-source projects, and internal c
 
 It should not be confused with the functionality of the code; these guides regulate how the code looks, not how it works.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I follow these rules?**
 

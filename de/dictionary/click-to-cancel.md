@@ -22,7 +22,7 @@ Es wird bei der User Experience (UX) und den Prozessen zur rechtlichen Complianc
 
 Es unterscheidet sich von einer gewöhnlichen Kündigungsoberfläche; es handelt sich um eine strenge Regelung, hinter der offizielle rechtliche Sanktionen und abschreckende Geldbußen stehen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verstößt es gegen diese Regel, dem Nutzer während der Kündigung einen Rabatt anzubieten?**
 

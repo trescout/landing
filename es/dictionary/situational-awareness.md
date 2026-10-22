@@ -22,7 +22,7 @@ Se utiliza en vehículos autónomos, sistemas robóticos y software de monitoreo
 
 No confundir con la mera recopilación de datos; La conciencia requiere dar sentido a los datos y reaccionar.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante para la inteligencia artificial?**
 

@@ -22,7 +22,7 @@ Sanatsal görsel üretiminde, metin yazarlığında ve müzik besteleme gibi yar
 
 Genellikle sadece var olanı sınıflandıran modellerle karıştırılırlar; oysa bunlar yeni bir şey yaratma odaklıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Üretken modeller her zaman doğruyu mu söyler?**
 

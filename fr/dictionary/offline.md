@@ -34,7 +34,7 @@ Simplifier la résolution des conflits : appliquer aveuglement la logique du "de
 - Oublier le chiffrement local : le stockage des données sur l'appareil client comporte un risque physique ; les bases de données locales doivent impérativement être chiffrées de bout en bout (chiffrement au repos).
 Ignorer les limites matérielles : en particulier lors de l'exécution de modèles d'intelligence artificielle locaux, charger un modèle non optimisé sans tenir compte de la RAM, de la VRAM et du budget de la batterie peut bloquer l'appareil.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quelle est la principale différence entre l’architecture hors ligne et l’architecture client-serveur traditionnelle ?**
 

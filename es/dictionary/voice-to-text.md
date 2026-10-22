@@ -22,7 +22,7 @@ Se utiliza en la extracción automática de notas de reuniones, asistentes de vo
 
 Se mezcla con Text-to-Speech (conversión de texto a voz); Este es exactamente el proceso opuesto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Hay algún margen de error?**
 

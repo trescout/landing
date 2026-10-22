@@ -22,7 +22,7 @@ Büyük ölçekli yapay zekâ projelerinde ve otonom sistem geliştirme süreçl
 
 Sadece bir kod editörü değildir, tüm ajan yönetim sürecini kapsar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu platformu kullanmak için uzman olmak gerekir mi?**
 

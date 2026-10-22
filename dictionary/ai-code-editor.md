@@ -22,7 +22,7 @@ Modern yazılım geliştirme süreçlerinde ve profesyonel kodlama ortamlarında
 
 Sadece basit bir metin düzenleyici ile karıştırılmamalıdır; bu araçlar kodun çalışma mantığını bilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kodumu tamamen bu editör mü yazar?**
 

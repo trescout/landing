@@ -22,7 +22,7 @@ São usados na indexação de mecanismos de busca, projetos de coleta de dados e
 
 Podem ser confundidos com web scraping; o crawler navega por toda a rede, enquanto o scraper extrai dados de uma página específica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Eles podem navegar em qualquer site?**
 

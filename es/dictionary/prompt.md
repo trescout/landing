@@ -44,7 +44,7 @@ Se cree que es ingeniería. Una petición es una sola instrucción, la ingenier�
 **Pedido:** Comanda de cocina.
 **Receta:** Instrucción mesurada.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué es un mal prompt?**
 

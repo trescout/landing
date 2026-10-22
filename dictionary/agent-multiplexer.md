@@ -22,7 +22,7 @@ Büyük ölçekli yapay zekâ projelerinde ve karmaşık otomasyon sistemlerinde
 
 Multi-agent sistemleri ile benzerdir ancak burada 'yönlendirme' (multiplexing) mekanizması ön plandadır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tek bir ajan yerine birden fazla kullanıyoruz?**
 

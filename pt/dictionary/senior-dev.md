@@ -18,7 +18,7 @@ Os desenvolvedores chegam a este estágio ao longo dos anos, cometendo erros em 
 
 Eles atuam em cargos de liderança em equipes de desenvolvimento de software, empresas de tecnologia e projetos de transformação digital de grande escala.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qualquer pessoa que escreva muito código pode se tornar um desenvolvedor sênior?**
 

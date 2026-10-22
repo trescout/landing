@@ -22,7 +22,7 @@ It is used in almost every software project, such as data processing, network co
 
 It can be confused with Framework; The framework draws the skeleton of the project, and the library offers you only the tool you need.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are every library safe?**
 

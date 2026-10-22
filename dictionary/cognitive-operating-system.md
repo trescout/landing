@@ -22,7 +22,7 @@ Gelişmiş yapay zekâ araştırmalarında ve otonom sistemlerde kullanılır.
 
 Geleneksel işletim sistemleriyle karıştırılabilir; bu sistem yazılım değil, bir düşünme mimarisidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sistemler gerçekten düşünebilir mi?**
 

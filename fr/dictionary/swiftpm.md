@@ -24,7 +24,7 @@ Il sert d'outil fondamental dans les processus de développement d'applications 
 
 Il diffère des gestionnaires d'extensions généraux des éditeurs de code, se concentrant directement sur l'écosystème propre au langage et sur son processus de compilation.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment SwiftPM accélère-t-il le projet ?**
 

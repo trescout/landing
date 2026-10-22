@@ -24,7 +24,7 @@ Es wird häufig bei Webserver-Installationen, Leistungstests und Systemoptimieru
 
 Es sollte nicht mit fortgeschrittenen Lasttest-Tools oder echten Browser-Automatisierungen verwechselt werden; es misst ausschließlich die reine Servergeschwindigkeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Spiegelt es den echten Benutzerverkehr vollständig wider?**
 

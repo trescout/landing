@@ -22,7 +22,7 @@ Es wird in Videospielen wie SimCity und Cities: Skylines, in der Unterhaltungsin
 
 Es kann mit allgemeinen Kriegs- oder Echtzeit-Strategiespielen verwechselt werden: In Städtebau-Spielen liegt der Hauptfokus nicht darauf, den Feind zu besiegen, sondern eine komplexe Infrastruktur und einen Lebenszyklus nachhaltig zu gestalten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind diese Spiele aus Softwaresicht so schwierig?**
 

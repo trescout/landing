@@ -22,7 +22,7 @@ Il est utilisé dans les serveurs Web, les pare-feu et les sites à fort trafic.
 
 Il peut être confondu avec un proxy normal ; Le proxy normal masque l'utilisateur, le proxy inverse masque et protège le serveur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne se connecte-t-on pas directement au serveur ?**
 

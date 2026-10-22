@@ -24,7 +24,7 @@ Se utiliza con frecuencia en motores de juegos, producciones cinematográficas y
 
 Los métodos de dibujo tradicionales simplifican la luz no según las leyes físicas, sino solo para que se vea visualmente agradable.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no se utiliza en todos los juegos?**
 

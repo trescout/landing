@@ -24,7 +24,7 @@ Il est utilisé dans les applications Web, les écrans de connexion mobiles et l
 
 Il est confondu avec SSO (Single Sign-On) ; SSO est un concept général, tandis qu'OIDC est le protocole technique qui fait ce travail.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je partager mon mot de passe avec d'autres sites ?**
 

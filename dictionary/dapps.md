@@ -24,7 +24,7 @@ Finansal işlemler, dijital kimlik yönetimi, oyunlar ve oy kullanma gibi güven
 
 Normal mobil uygulamalar ile karıştırılabilir; ancak dApps verileri merkezi bir sunucuda değil, blok zincirinde tutar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **dApps kullanmak için ne gerekir?**
 

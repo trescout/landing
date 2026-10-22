@@ -24,7 +24,7 @@ Aparece frequentemente em tecnologias educacionais, ferramentas de produtividade
 
 Não deve ser confundido apenas com preguiça ou falta de motivação; Esta é uma situação de base biológica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O TDAH é uma doença?**
 

@@ -22,7 +22,7 @@ Der Inferenzprozess findet immer dann statt, wenn Sie mit ChatGPT chatten oder e
 
 Es wird mit dem Training des Modells verwechselt; Das Bildungsmodell sind die Schuljahre, während die Schlussfolgerung darin besteht, den Abschluss zu machen und zu arbeiten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie lange dauert der Inferenzprozess?**
 

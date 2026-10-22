@@ -22,7 +22,7 @@ Siber güvenlikte zararlı yazılımların çalışma mantığını çözmek iç
 
 Yazılım dünyasına özel olan 'software reverse engineering' terimiyle karıştırılır. Tersine mühendislik, fiziksel makineleri ve donanımları da kapsayan çok daha genel bir şemsiye kavramdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Tersine mühendislik yapmak yasal mıdır?**
 

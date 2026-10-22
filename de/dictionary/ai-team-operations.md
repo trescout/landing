@@ -22,7 +22,7 @@ Es wird in Startups für künstliche Intelligenz und in KI-Abteilungen großer T
 
 Es kann mit reinen Softwareoperationen (DevOps) verwechselt werden; KI-Operationen stellen zusätzliche daten- und modellgesteuerte Herausforderungen dar.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist eine spezielle Operation erforderlich?**
 

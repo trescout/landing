@@ -22,7 +22,7 @@ It is a standard practice in platforms such as GitHub, GitLab and in enterprise 
 
 Unlike automated tests that only test whether the code works, human logic and aesthetics come into play here.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why isn't it automated?**
 

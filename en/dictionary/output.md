@@ -44,7 +44,7 @@ Not to be confused with input. Input is the beginning, output is the result. It 
 **Factory:** Part goes in, product comes out.
 **Exam:** Questions enter, points subtract.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why would the output be incorrect?**
 

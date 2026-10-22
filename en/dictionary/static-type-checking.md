@@ -22,7 +22,7 @@ It is widely used in modern software development tools and code bases of large-s
 
 It can be confused with runtime errors, but this method catches errors while you are writing code.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I use static control?**
 

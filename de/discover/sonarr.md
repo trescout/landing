@@ -99,7 +99,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [API](https://trescout.com/de/dictionary/api/)
 
 - **Für wen es gedacht ist:** Besitzer von Heimservern (Homelab), Medienbegeisterte und alle, die ihre Serienarchive mühelos verwalten möchten.
-- **Lizenz:** GPL-3.0 (Açık kaynak lisansı)
+- **Lizenz:** GPL-3.0 (Open-Source-Lizenz)
 - **Infrastruktur:** C#- und .NET-basierter Webdienst
 - **Webport:** Standard 8989
 

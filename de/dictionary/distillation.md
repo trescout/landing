@@ -22,7 +22,7 @@ Es wird bevorzugt, schnelle und effektive Ergebnisse an Orten zu erzielen, an de
 
 Es wird mit Quantisierung verwechselt; Doch während die Quantisierung die Gewichte des Modells komprimiert, beinhaltet die Destillation das Training eines völlig neuen, kleineren Modells.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird das kleinere Modell genauso erfolgreich sein wie das größere Modell?**
 

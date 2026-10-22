@@ -22,7 +22,7 @@ Il est utilisé pour des opérations telles que le web scraping, les tests autom
 
 Navigateur sans tête (Headless Browser)
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne pas utiliser un navigateur normal ?**
 

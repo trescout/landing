@@ -22,7 +22,7 @@ O sistema divide os dados ou documentos provenientes do usuário em pedaços e o
 
 Muitas vezes é confundido com bancos de dados vetoriais; Entretanto, o banco de dados de contexto representa uma estratégia mais ampla de gerenciamento e acesso a esses dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é necessário?**
 

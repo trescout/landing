@@ -36,7 +36,7 @@ In der Softwarewelt lässt sich Produktivität nicht an der Anzahl der Zeilen (L
 **Jevons-Paradoxon:** Nach diesem vom Ökonomen William Jevons entdeckten Prinzip sinkt der Verbrauch einer Ressource nicht, wenn ihre Nutzung effizienter und billiger wird, sondern die Gesamtnachfrage steigt im Gegenteil exponentiell an. Wenn KI das Programmieren um das Zehnfache beschleunigt, arbeiten dadurch nicht weniger Entwickler; stattdessen wird so viel Software wie nie zuvor in der Geschichte produziert.
 **Toxische Produktivität (Toxic Productivity):** Eine moderne Arbeitskrankheit, die das ständige Beschäftigtsein mit Produktivität verwechselt und Erholung in Schuldgefühle verwandelt. Wahre Effizienz liegt im Gleichgewicht von mentaler Erholung und tiefer Konzentration.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Productivity und wie lautet die deutsche Entsprechung?**
 

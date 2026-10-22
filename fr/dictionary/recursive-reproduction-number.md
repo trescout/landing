@@ -22,7 +22,7 @@ Il est utilisé dans la recherche sur la sécurité avancée de l'intelligence a
 
 Il ne doit pas être confondu avec les simples opérations de copie ou de sauvegarde de logiciels.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ce nombre est-il important ?**
 

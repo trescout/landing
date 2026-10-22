@@ -44,7 +44,7 @@ It is considered IaaS. IaaS provides hardware, PaaS provides a running environme
 **Apartment:** Furnished for rent.
 **Scene:** Illuminated ready stage.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is PaaS required?**
 

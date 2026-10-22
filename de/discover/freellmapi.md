@@ -86,7 +86,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
 
 - **Für wen es gedacht ist:** Entwickler künstlicher Intelligenz, Open-Source-Forscher, Full-Stack-Ingenieure und Prototypenentwickler.
-- **Lizenz:** MIT (Özgür açık kaynak lisansı)
+- **Lizenz:** MIT (Freie Open-Source-Lizenz)
 - **Framework:** TypeScript / Node.js Reverse Proxy
 - **Plattformen:** Docker, Linux, macOS, Windows
 

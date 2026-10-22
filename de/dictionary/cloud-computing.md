@@ -50,7 +50,7 @@ Cloud-Computing ist nicht nur eine technische Revolution, sondern auch ein massi
 - Cloud-Speicher vs. Cloud-Computing: Google Drive, iCloud oder Dropbox sind reine Speicherdienste; Cloud-Computing hingegen ist ein riesiges Ökosystem, das neben der Speicherung auch dynamische Rechenleistung, KI-Training, Netzwerkmanagement und Datenbank-Orchestrierung umfasst.
 - Serverless vs. wirklich serverlos: In einer Serverless-Architektur gibt es natürlich physische Server; der Begriff „serverlos“ bedeutet lediglich, dass sich der Entwickler nicht mehr um die Konfiguration, Aktualisierung oder Überwachung eines Servers kümmern muss, da die Serververwaltung durch den Anbieter unsichtbar gemacht wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Cloud Computing und was ist die deutsche Entsprechung?**
 

@@ -22,7 +22,7 @@ Aparecen en las tiendas de aplicaciones de los teléfonos inteligentes, en el so
 
 Las aplicaciones basadas en web o las aplicaciones híbridas utilizan una capa intermedia, como un navegador, para comunicarse con el dispositivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es siempre mejor una aplicación nativa?**
 

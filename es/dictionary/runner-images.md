@@ -22,7 +22,7 @@ Se utiliza ampliamente en segundo plano en procesos de integración continua y p
 
 No confundir con aplicaciones persistentes que se instalan directamente en el servidor en vivo; Estos suelen ser entornos temporales y basados ​​en tareas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué utilizamos imágenes listas?**
 

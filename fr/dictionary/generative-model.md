@@ -22,7 +22,7 @@ Ils sont utilisés dans des domaines qui nécessitent de la créativité, tels q
 
 On les confond souvent avec des modèles qui se contentent de classifier ce qui existe ; alors que ceux-ci se concentrent sur la création de quelque chose de nouveau.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les modèles productifs disent-ils toujours la vérité ?**
 

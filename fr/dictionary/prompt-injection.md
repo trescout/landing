@@ -22,7 +22,7 @@ Elle apparaît comme une vulnérabilité de sécurité dans les chatbots, le ser
 
 Elle diffère des méthodes de piratage classiques, car elle n'utilise pas de code informatique, mais entièrement le langage quotidien et des jeux de mots.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'injection de prompt fonctionne-t-elle sur tous les modèles d'intelligence artificielle ?**
 

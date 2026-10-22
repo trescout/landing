@@ -22,7 +22,7 @@ Il est fréquemment utilisé pour le filtrage du spam dans les services de messa
 
 À ne pas confondre avec la génération de texte : la classification de texte place des balises sur le texte existant, pas sur le nouveau texte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle quantité de données est requise pour la classification du texte ?**
 

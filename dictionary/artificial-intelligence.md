@@ -24,7 +24,7 @@ Akıllı telefonlardaki sesli asistanlardan, tıbbi teşhis koyan yazılımlara 
 
 Yalnızca robotlarla karıştırılır ancak yapay zekâ fiziksel bir gövdeye ihtiyaç duymadan sadece yazılım olarak da var olabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ gerçekten düşünebilir mi?**
 

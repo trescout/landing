@@ -79,7 +79,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
 
 - **Para quem é:** Destinado a usuários que desejam configurar um servidor doméstico (Homelab) ou nuvem pessoal, evitando a complexidade do terminal e visando gerenciar aplicativos Docker com um único clique.
-- **Licença:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Licença:** Apache-2.0 (Licença de código aberto que oferece ampla liberdade)
 - **Desenvolvedor:** IceWhale Technology e Comunidade de Código Aberto
 - **Sistemas Suportados:** Ubuntu, Debian, Raspberry Pi OS, Armbian (x86_64, aarch64, armv7)
 

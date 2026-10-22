@@ -22,7 +22,7 @@ Es wird in modernen Softwareentwicklungsumgebungen, komplexen Debugging-Prozesse
 
 Nicht zu verwechseln mit KI-Plugins, die einfach Code vervollständigen; Diese Tools verwalten den Prozess, während sie nur Vorschläge anbieten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Werden diese Tools Softwareentwickler ersetzen?**
 

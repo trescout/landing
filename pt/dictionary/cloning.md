@@ -22,7 +22,7 @@ Normalmente você copia o link para o projeto usando o comando 'clone' através 
 
 Pode ser confundido com backup; A clonagem é mais uma cópia feita com o propósito de trabalhar nela.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso altera o projeto original?**
 

@@ -42,7 +42,7 @@ On pense qu'il s'agit d'un téléchargement. Suspend le téléchargement, démar
 **Feuilleton :** Regardez épisode par épisode.
 **Construction :** Livré plusieurs fois.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce que ça augmente la vitesse ?**
 

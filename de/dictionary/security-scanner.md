@@ -22,7 +22,7 @@ Es wird in Softwareentwicklungsprozessen, Servermanagement und Cybersicherheitsa
 
 Es wird für den gleichen Zweck wie das Vulnerability Scanning verwendet, dieser Begriff konzentriert sich jedoch direkt auf das Fahrzeug.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Findet der Sicherheitsscanner jede Schwachstelle?**
 

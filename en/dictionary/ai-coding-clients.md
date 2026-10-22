@@ -22,7 +22,7 @@ They are used in popular code editors such as VS Code, terminal-based developmen
 
 Can be confused with AI coding agents; However, clients provide an interface that is more under your control, while agents tend to complete tasks on their own.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will using an AI coding client prevent me from learning to code?**
 

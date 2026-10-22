@@ -24,7 +24,7 @@ Akıllı telefonlardaki sesli asistanlarda, müşteri hizmetleri ses kayıt çö
 
 Sesin metne çevrilmesi sürecidir, metni sese dönüştüren text-to-speech teknolojisinin tam tersidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Gürültülü ortamlarda çalışabilir mi?**
 
@@ -33,7 +33,7 @@ Evet, gelişmiş filtreleme algoritmaları sayesinde arka plan seslerini bastır
 ## İlgili terimler
 
 - [Speech-to-Text](https://trescout.com/dictionary/speech-to-text/)
-- [STT](https://trescout.com/dictionary/stt/)
+- [STT](https://trescout.com/dictionary/speech-to-text/)
 - [Whisper](https://trescout.com/dictionary/whisper/)
 - [Transcription](https://trescout.com/dictionary/transcription/)
 

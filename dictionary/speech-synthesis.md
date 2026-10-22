@@ -22,7 +22,7 @@ Erişilebilirlik araçlarında, otomatik çağrı merkezlerinde ve dijital içer
 
 Sadece seslendirme ile karıştırılır; oysa bu süreç metnin anlamını ve vurgusunu da hesaplayan karmaşık bir matematiksel hesaplamadır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Speech Synthesis ile Text-to-Speech farkı nedir?**
 

@@ -32,7 +32,7 @@ Essayer de formater manuellement : au lieu de compter les espaces un par un, ins
 Désactivation des règles Checkstyle : désactiver les contrôles de style dans le CI/CD lorsque le processus est sous pression accroît la dette technique.
 Abuser des commentaires : Le code doit être explicite par lui-même ; il ne faut pas ajouter de commentaires inutiles sur des méthodes getter/setter évidentes.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi le Google Java Style Guide utilise-t-il une indentation de 2 espaces au lieu de 4 ?**
 

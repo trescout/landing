@@ -22,7 +22,7 @@ Il est utilisé dans les diffusions virtuelles de YouTuber (VTuber), les jeux mo
 
 Peut être mélangé avec une modélisation 3D complète ; Live2D est essentiellement une manipulation intelligente de dessins 2D.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ai-je besoin de connaissances en 3D pour créer Live2D ?**
 

@@ -22,7 +22,7 @@ It is used to set up your own cloud storage, run your personal AI models, or man
 
 It is confused with cloud computing, but while you are using someone else's server in the cloud, here you have complete control of the hardware and software.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is self-hosting preferred?**
 

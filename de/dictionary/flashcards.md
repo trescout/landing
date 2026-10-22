@@ -38,7 +38,7 @@ Kann mit einem Quiz verwechselt werden. Ein Quiz ist eine Prüfung und vergibt P
 **Musik:** Noten- und Akkordkarten.
 **Luftfahrt:** Notfall-Checklisten-Karten.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Wie generiert die künstliche Intelligenz Karten?**
 

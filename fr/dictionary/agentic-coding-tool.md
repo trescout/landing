@@ -22,7 +22,7 @@ Il est utilisé dans les environnements de développement logiciel modernes, dan
 
 À ne pas confondre avec les plugins d'IA qui complètent simplement le code ; Ces outils gèrent le processus alors qu'ils ne proposent que des suggestions.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces outils remplaceront-ils les développeurs de logiciels ?**
 

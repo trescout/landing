@@ -39,7 +39,7 @@ Rule: The change is local, it goes away when you renew it. Permanent work is don
 **X-ray:** Internal structure view.
 **Bonnet:** Engine compartment.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Just Chrome?**
 

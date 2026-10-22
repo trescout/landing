@@ -22,7 +22,7 @@ Es wird bei der Automatisierung von Unternehmensabläufen, Softwareentwicklungsp
 
 Er kann mit einem normalen KI-Agenten verwechselt werden, aber der SuperAgent verfügt über einen viel größeren Umfang an Autorität und Koordination.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann SuperAgent selbstständig Entscheidungen treffen?**
 

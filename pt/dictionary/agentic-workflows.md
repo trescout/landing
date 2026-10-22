@@ -22,7 +22,7 @@ A inteligência artificial recebe uma meta e gerencia o processo dividindo-o em 
 
 Pode ser confundido com o uso padrão de IA; Aqui, a inteligência artificial não apenas responde, ela age.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Não há necessidade de intervenção humana?**
 

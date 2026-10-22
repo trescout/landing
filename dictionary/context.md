@@ -49,7 +49,7 @@ Sistem programlamada "context", bir programın yürütülmesi esnasında o anki 
 | **İşletim Sistemleri** | Bir sürecin donanımsal anlık durumu | Register'lar, Program Counter, Sayfa Tabloları | CPU gecikmesi, Cache misses, TLB flush |
 | **Yazılım Geliştirme** | İstek yaşam döngüsü ve ortam verisi | Timeout sinyali, Yetkilendirme token'ı | Bellek sızıntısı, İptal edilmeyen asenkron çağrılar |
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Context ne demek, Türkçe karşılığı nedir?**
 

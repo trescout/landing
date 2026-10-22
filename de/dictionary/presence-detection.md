@@ -22,7 +22,7 @@ Es wird häufig in Smart-Home-Automatisierungen, Energiesparsystemen für Büros
 
 Es kann mit Bewegungssensoren verwechselt werden, aber dieses System kann nicht nur Bewegungen, sondern auch das Wesen selbst verfolgen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird dieses System meine Privatsphäre verletzen?**
 

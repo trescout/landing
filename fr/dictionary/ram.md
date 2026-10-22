@@ -44,7 +44,7 @@ C’est considéré comme du stockage. La RAM est un espace de travail temporair
 **Rester:** Garder le matériel à portée de main.
 **Tableau blanc :** Zone de notes temporaire.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que se passe-t-il si la RAM est pleine ?**
 

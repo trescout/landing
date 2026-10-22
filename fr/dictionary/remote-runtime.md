@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les bacs à sable d'exécution de code sécuri
 
 Il est confondu avec l'environnement d'exécution local (local runtime). Alors que l'environnement local utilise directement le matériel de votre ordinateur, l'environnement distant effectue toutes les opérations sur un serveur externe dans le cloud.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Une connexion Internet permanente est-elle nécessaire pour utiliser un environnement d'exécution distant ?**
 

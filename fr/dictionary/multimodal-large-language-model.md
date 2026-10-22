@@ -22,7 +22,7 @@ Il est utilisé dans les applications d'analyse d'images, les assistants vocaux 
 
 Il peut être confondu avec les modèles d’IA standard qui sont uniquement orientés texte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tout modèle multimodal est-il une intelligence artificielle ?**
 

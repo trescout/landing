@@ -60,7 +60,7 @@ Es posible ver, editar o presentar archivos PPTX incluso sin Microsoft PowerPoin
 | Estándar abierto | Formato comercial cerrado | Estándar internacional ISO/IEC 29500 (OpenXML) |
 | Acceso a medios | Requiere un analizador difícil / especial | Las imágenes y los videos se pueden extraer directamente abriendo el ZIP |
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué es un archivo PPTX?**
 

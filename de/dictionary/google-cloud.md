@@ -45,7 +45,7 @@ Es wird angenommen, dass es sich um Drive handelt. Drive speichert Dateien, Clou
 **Zentral:** Mietproduktion.
 **Lager:** Lager zu vermieten.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum nicht mein eigener Computer?**
 

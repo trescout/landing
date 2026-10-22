@@ -22,7 +22,7 @@ It is frequently used in secure code execution sandboxes within AI coding tools,
 
 It is confused with a local runtime. While a local environment uses your computer's hardware directly, a remote environment executes all operations on an external server in the cloud.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is a constant internet connection required to use a remote runtime?**
 

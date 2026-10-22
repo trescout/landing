@@ -40,7 +40,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Anfänger-Mittelstufe
 - **Was bietet:** Offizielle GitHub-Dokumentquelle
 - **Quelle:** GitHub · offiziell
-- **Lizenz:** CC-BY-4.0 · ayrıntı aşağıda
+- **Lizenz:** CC-BY-4.0 · Details unten
 
 **Lizenz:** Inhalte CC-BY-4.0 · Sie können sie frei verwenden und anpassen, müssen jedoch die Quelle angeben (Quellenangabe an GitHub). Die einzelnen Lizenzen im Code finden Sie im Repo.
 

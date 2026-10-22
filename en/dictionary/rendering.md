@@ -37,7 +37,7 @@ Frame rate (FPS) determines the experience: As the value decreases, you will fee
 **Architectural:** A realistic three-dimensional visual (situation) of the project.
 **Cinema:** Frame calculation of post-shooting effects.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why might rendering be slow?**
 

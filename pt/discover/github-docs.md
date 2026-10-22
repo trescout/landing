@@ -40,7 +40,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Iniciante-intermediário
 - **O que oferece:** Fonte oficial do documento GitHub
 - **Fonte:** GitHub · oficial
-- **Licença:** CC-BY-4.0 · ayrıntı aşağıda
+- **Licença:** CC-BY-4.0 · detalhe abaixo
 
 **Licença:** Conteúdo CC-BY-4.0 · você pode usar e adaptar livremente, mas deve indicar a fonte (atribuição ao GitHub). Consulte o repositório para licenças individuais no código.
 

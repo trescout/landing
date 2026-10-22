@@ -22,7 +22,7 @@ Se utiliza en sistemas multiagente e infraestructuras de inteligencia artificial
 
 Puede confundirse con una base de datos, pero la estructura aquí incluye no sólo datos sino también experiencia y contexto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería ser central?**
 

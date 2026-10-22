@@ -22,7 +22,7 @@ Bulut sunucularında, şirket içi veri merkezlerinde ve siber güvenlik operasy
 
 Sadece firewall kurmakla aynı değildir; hardening çok daha kapsamlı bir güvenlik sürecidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sunucumu ne sıklıkla sertleştirmeliyim?**
 

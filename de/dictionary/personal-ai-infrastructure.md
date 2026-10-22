@@ -22,7 +22,7 @@ Es wird in persönlichen Assistenten, lokalen Dokumentenanalysetools und datensc
 
 Es kann mit der bloßen Verwendung einer App verwechselt werden; Hier haben Sie die vollständige Kontrolle über die Infrastruktur.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist das schwierig zu installieren?**
 

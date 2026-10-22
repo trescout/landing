@@ -22,7 +22,7 @@ Você carrega alguns segundos de gravação de áudio para o sistema. A intelig�
 
 É semelhante à clonagem de voz, mas nenhum processo de treinamento é necessário aqui.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele pode copiar a voz de alguém?**
 

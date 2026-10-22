@@ -43,7 +43,7 @@ L'IA Open Source est présumée. Cela inclut également la transparence du code 
 **Manuel scolaire :** Une source que tout le monde peut lire.
 **Graine :** Graine ancestrale partagée.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quelle est la différence avec l'Open Source ?**
 

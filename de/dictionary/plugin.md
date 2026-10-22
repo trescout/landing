@@ -46,7 +46,7 @@ Obwohl diese Begriffe im Software-Ökosystem häufig synonym verwendet werden, g
 
 Mit der Revolution der künstlichen Intelligenz hat die Plugin-Architektur eine völlig neue Dimension erreicht. Große Sprachmodelle (LLMs) sind keine geschlossenen Wissensspeicher mehr, sondern haben sich dank Plugins und Mechanismen wie Tool/Function Calling zu autonomen Agenten entwickelt, die im Web suchen, Datenbanken abfragen und über APIs Aktionen ausführen können. Das von Anthropic entwickelte Model Context Protocol (MCP) stellt das aktuellste Beispiel für eine moderne Plugin-Architektur dar, da es LLMs ermöglicht, sich über ein standardisiertes Plugin-Protokoll mit verschiedenen Datenquellen und Tools zu verbinden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Plugin und was ist die deutsche Entsprechung?**
 

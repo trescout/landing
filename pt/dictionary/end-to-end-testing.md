@@ -47,7 +47,7 @@ Confundido com teste unitário. Aquele olha para a peça, este olha para o todo.
 **Ensaio:** Revisão geral.
 **Final:** Ensaio de transmissão.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que apenas isso não é feito?**
 

@@ -22,7 +22,7 @@ Se utiliza en tareas que requieren una entrada de datos compleja, al navegar por
 
 Está muy cerca del concepto de Agente AI, pero el uso de la computadora es un conjunto específico de capacidades que se centran específicamente en el control de la interfaz en pantalla.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es segura esta característica?**
 

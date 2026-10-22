@@ -22,7 +22,7 @@ Video oyunlarında oyuncunun eylemlerine göre değişen arka plan müziklerinde
 
 Geleneksel beste yapımı ile karıştırılmamalıdır. Beste yapımında ses sırası sabittir, üretken müzikte ise süreç dinamiktir ve sürekli değişir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Üretilen müziklerin telif hakkı kime aittir?**
 

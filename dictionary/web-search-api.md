@@ -22,7 +22,7 @@ Yapay zekâ modellerinin güncel haberleri öğrenmesini sağlayan RAG sistemler
 
 Web scraping (web kazıma) yöntemiyle karıştırılır. Web scraping sitelerin tasarımını inceleyip ham veriyi çekerken, Web Search API doğrudan arama motorunun sunduğu hazır ve filtrelenmiş arama sonuçlarını getirir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ modelleri neden Web Search API kullanır?**
 

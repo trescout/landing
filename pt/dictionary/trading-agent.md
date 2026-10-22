@@ -22,7 +22,7 @@ O agente recebe dados de mercado por meio de uma API, analisa-os com seu própri
 
 É semelhante ao Algorithmic Trading, mas os agentes são mais autônomos e baseados em aprendizagem.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Existe risco de perder dinheiro?**
 

@@ -22,7 +22,7 @@ Wird bei der Videobearbeitung, der nativen Ausführung von KI-Modellen und profe
 
 Es kann mit der Weboberfläche verwechselt werden; Webanwendungen sind browserabhängig, während Desktopanwendungen unabhängig sind.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist die Desktop-App sicherer?**
 

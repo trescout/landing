@@ -24,7 +24,7 @@ Diferentes peças de hardware enviam mensagens entre si através deste sistema. 
 
 Não deve ser confundido com sistemas operacionais normais (Windows/macOS); Esses sistemas são otimizados apenas para gerenciar hardware robótico.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É necessário ser engenheiro para utilizar este sistema?**
 

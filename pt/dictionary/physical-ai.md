@@ -22,7 +22,7 @@ O sistema detecta o ambiente por meio de câmeras e sensores. Ele processa as in
 
 Ao contrário das inteligências virtuais que funcionam apenas em um ambiente de software, elas definitivamente requerem um corpo físico ou hardware.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso pode prejudicar as pessoas?**
 

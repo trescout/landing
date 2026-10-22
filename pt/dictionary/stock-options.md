@@ -22,7 +22,7 @@ A empresa assina um contrato com o funcionário e define um período de aquisiç
 
 Pode ser confundido com a participação direta em ações. Enquanto na participação direta em ações o funcionário recebe ações imediatamente, no mecanismo de opções de ações, é concedido apenas o direito de compra futura.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **As opções sempre geram lucro?**
 

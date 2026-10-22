@@ -22,7 +22,7 @@ Es ist in allen modernen Webanwendungen, im Hintergrund von mobilen Anwendungen 
 
 Es kann mit dem Frontend verwechselt werden; das Frontend interagiert mit Ihnen, während das Backend die Arbeit erledigt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum führen wir Code im Backend aus?**
 

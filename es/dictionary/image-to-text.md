@@ -22,7 +22,7 @@ Se encuentra en los sistemas de generación automática de subtítulos de las pl
 
 Se confunde con text-to-image, pero es exactamente lo contrario; mientras que text-to-image genera imágenes a partir de texto, esta tecnología genera texto a partir de imágenes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede leer textos escritos a mano?**
 

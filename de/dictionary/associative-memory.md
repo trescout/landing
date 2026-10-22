@@ -22,7 +22,7 @@ Es wird in Vektordatenbanken, Mustererkennungssystemen, Sprachmodellen und Infor
 
 Es wird mit herkömmlichem Direktzugriffsspeicher (RAM) gemischt. Während RAM Informationen mit numerischen physikalischen Adressen abruft, findet der assoziative Speicher Daten direkt durch Ähnlichkeit in ihrem Inhalt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Funktioniert es auch, wenn die Eingabe fehlt oder verrauscht ist?**
 

@@ -22,7 +22,7 @@ Os especialistas primeiro mapeiam o sistema, depois identificam vulnerabilidades
 
 Pode ser confundido com ataques cibernéticos reais; No entanto, este processo é totalmente legal e controlado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Este teste danificará o sistema?**
 

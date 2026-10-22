@@ -35,7 +35,7 @@ Punto de atención: Si las rachas y las notificaciones se convierten en presión
 **Vida laboral:** Niveles de bonificación y títulos de campeón de ventas.
 **Venta al por menor:** Tarjetas de fidelidad y descuentos escalonados.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede gamificar todo?**
 

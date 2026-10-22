@@ -22,7 +22,7 @@ Otonom araçlarda, yüz tanıma sistemlerinde, tıbbi görüntülemede ve güven
 
 Multimodal ile karıştırılabilir; multimodal hem metin hem görseli işleyebilir, computer vision ise görsel odaklıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Computer vision her şeyi görebilir mi?**
 

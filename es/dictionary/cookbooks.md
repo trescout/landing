@@ -22,7 +22,7 @@ Se encuentra en la mayoría de la documentación de marcos y bibliotecas de cód
 
 Se puede confundir con Tutorial; Las capacitaciones enseñan un tema de principio a fin, mientras que los libros de cocina ofrecen soluciones rápidas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Usar un libro de cocina es pereza?**
 

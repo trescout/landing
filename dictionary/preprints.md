@@ -22,7 +22,7 @@ Akademik dünyada, özellikle yapay zekâ ve tıp gibi hızlı gelişen araştı
 
 Hakemli dergilerdeki nihai makalelerle karıştırılmamalıdır; bunlar henüz tam onay almamış taslaklardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Preprints güvenilir mi?**
 

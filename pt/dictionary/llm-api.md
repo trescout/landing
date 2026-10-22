@@ -24,7 +24,7 @@ O desenvolvedor envia um 'pedido' (request) ao modelo. O modelo processa este pe
 
 Não é o LLM em si, mas a porta que permite aceder a ele.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qualquer pessoa pode usar uma API de LLM?**
 

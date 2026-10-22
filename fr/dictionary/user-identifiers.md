@@ -22,7 +22,7 @@ Il est utilisé pour le suivi des utilisateurs sur les sites Web, les applicatio
 
 Il peut être confondu avec un nom d'utilisateur, mais il s'agit d'une structure plus technique et générale qui permet au système de vous reconnaître.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce que je reçois un identifiant différent pour chaque système ?**
 

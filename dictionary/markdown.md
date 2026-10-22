@@ -22,7 +22,7 @@ Yazılımcıların dokümantasyon yazarken, not alma uygulamalarında veya web s
 
 HTML ile karıştırılır ancak HTML çok daha karmaşık ve detaylıyken, Markdown sadece okunabilirliği artırmak için tasarlanmıştır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden Word yerine Markdown kullanmalıyım?**
 

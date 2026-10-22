@@ -52,7 +52,7 @@ Es wird angenommen, dass es sich lediglich um einen Website-Hosting-Dienst hande
 **Lager zu vermieten:** Mieten Sie so viele Regale wie nötig.
 **Taxi:** Reisen, ohne ein Fahrzeug zu besitzen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum sollte ich AWS verwenden?**
 

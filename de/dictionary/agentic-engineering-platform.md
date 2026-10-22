@@ -22,7 +22,7 @@ Es wird in Großprojekten der künstlichen Intelligenz und autonomen Systementwi
 
 Es ist nicht nur ein Code-Editor, sondern deckt den gesamten Agentenverwaltungsprozess ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss ich ein Experte sein, um diese Plattform nutzen zu können?**
 

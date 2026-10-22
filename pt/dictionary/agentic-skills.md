@@ -22,7 +22,7 @@ Essas capacidades geralmente são alcançadas dando-se um objetivo à inteligên
 
 Pode ser confundido com o conceito geral de “competência de IA”; No entanto, as competências de agência referem-se à capacidade de gerir um processo autónomo em vez de um único processo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Toda inteligência artificial possui essas habilidades?**
 

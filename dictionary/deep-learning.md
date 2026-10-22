@@ -22,7 +22,7 @@ Görüntü işleme, ses tanıma ve modern yapay zekâ modellerinin temelinde yer
 
 Machine learning ile sıkça karıştırılır; derin öğrenme, makine öğrenmesinin daha spesifik ve gelişmiş bir alt dalıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden 'derin' deniyor?**
 

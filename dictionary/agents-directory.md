@@ -22,7 +22,7 @@ Ajan tabanlı yazılım geliştirme ortamlarında, yapay zekâ orkestrasyon plat
 
 Genel 'agent workspace' kavramıyla karıştırılabilir: Çalışma alanı ajanın iş yaparken kullandığı geçici belleği ve geçici dosyaları ifade ederken, agents directory ajanların kaynak kod ve kural tanımlarının saklandığı kalıcı dosya dizinidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu klasör olmadan yapay zekâ ajanları çalışamaz mı?**
 

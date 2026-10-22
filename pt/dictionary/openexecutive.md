@@ -44,7 +44,7 @@ Regra: A automação recomenda, a responsabilidade confirma. A assinatura está 
 **Piloto automático:** Sistema que mantém a rota.
 **Secretariado:** Ordem de fluxo de documentos.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Ele substitui o gerente?**
 

@@ -22,7 +22,7 @@ Se utiliza como complemento en navegadores de Internet como Chrome, Firefox o Sa
 
 Puede confundirse con un firewall, pero aunque controla todo el tráfico de Internet, el bloqueador de anuncios solo apunta a contenido publicitario.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El uso de adblocker daña los sitios web?**
 

@@ -46,7 +46,7 @@ It is not about cybersecurity. The issue is not hackers, but data consistency: T
 **Kitchen:** Cooks taking turns using a single knife.
 **Library:** A single copy of the book changes hands with the loan book.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What happens if it is not thread-safe?**
 

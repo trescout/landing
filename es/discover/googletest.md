@@ -84,7 +84,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Ingenieros de software C++, desarrolladores de sistemas integrados y arquitectos de sistemas.
-- **Licencia:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **Licencia:** BSD 3 cláusulas (licencia de código abierto flexible)
 - **Marco:** Biblioteca simulada y de prueba de C++
 - **Plataformas:** Linux, Mac OS, Windows, Android, iOS
 

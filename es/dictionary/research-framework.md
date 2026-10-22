@@ -22,7 +22,7 @@ Se utiliza en estudios académicos, proyectos de análisis de datos y procesos d
 
 No es sólo una herramienta de gestión de proyectos; más bien, es la metodología de un proceso de descubrimiento científico o técnico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué necesito un marco?**
 

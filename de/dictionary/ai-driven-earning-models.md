@@ -22,7 +22,7 @@ Es ist in den Branchen Finanzberatung, Content-Marketing, Softwareentwicklung un
 
 Es ist nicht zu verwechseln mit dem reinen „Verkauf von Software“, bei dem der intelligente Mehrwert durch künstliche Intelligenz im Mittelpunkt steht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann jeder mit künstlicher Intelligenz Geld verdienen?**
 

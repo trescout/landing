@@ -46,7 +46,7 @@ Requirement ile benzerdir. Requirement ne istendiğini söyler, specification na
 
 *Bir yemek tarifindeki malzeme listesi ve pişirme adımları gibidir; tarife uymazsanız yemeğin tadı farklı olur.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Spec değişebilir mi?**
 

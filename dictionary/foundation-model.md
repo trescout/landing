@@ -22,7 +22,7 @@ Modern yapay zekâ uygulamalarının çoğunun altında bir foundation model yat
 
 Sadece sohbet botu sanılırlar; oysa onlar kod yazmadan görüntü işlemeye kadar pek çok şeyin temelidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Foundation model tek başına yeterli mi?**
 

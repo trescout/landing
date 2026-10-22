@@ -22,7 +22,7 @@ Se utiliza en los procesos de desarrollo de agentes inteligentes y en aplicacion
 
 A diferencia de las estructuras de agentes generales, es un asistente específico centrado directamente en la adquisición de habilidades.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Para qué sirve?**
 

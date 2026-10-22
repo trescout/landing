@@ -83,7 +83,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [API](https://trescout.com/en/dictionary/api/)
 
 - **Who it is for:** Educators, AI researchers, edtech entrepreneurs, and students.
-- **License:** Apache-2.0 (Açık kaynak lisansı)
+- **License:** Apache-2.0 (Open source license)
 - **Framework:** TypeScript & Next.js Multi-Agent Simulator
 - **Platforms:** Web browser, Linux, macOS, Windows
 

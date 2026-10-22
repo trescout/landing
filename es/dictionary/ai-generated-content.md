@@ -22,7 +22,7 @@ Se utiliza en contenidos de redes sociales, textos publicitarios, imágenes de a
 
 Se puede combinar con contenido asistido por IA; En este caso, la producción pertenece enteramente a la inteligencia artificial.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Quién posee los derechos de autor de estos contenidos?**
 

@@ -22,7 +22,7 @@ On Android phones, it is used when you want to install custom software or try ou
 
 It should not be confused with standard downloads made through an app store.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is sideloading safe?**
 

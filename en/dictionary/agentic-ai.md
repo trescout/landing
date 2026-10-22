@@ -32,7 +32,7 @@ But this autonomy comes with huge security and ethical responsibilities. When ag
 - Over-Privileging: Granting uncontrolled authority for actions such as database deletion or financial transfers is a security vulnerability; read-only restrictions should be applied.
 - Using Agents for Simple Tasks: Setting up unnecessary agent clusters for tasks that can be handled with a single prompt increases cost and latency.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is the main difference between Agentic AI and a regular artificial intelligence chatbot (Chatbot)?**
 

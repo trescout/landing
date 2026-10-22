@@ -22,7 +22,7 @@ Você insere uma instrução ou cenário no sistema. O sistema extrai as imagens
 
 Não deve ser confundido com ferramentas simples de edição de vídeo; Esses sistemas também tomam decisões criativas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A intervenção humana é completamente eliminada?**
 

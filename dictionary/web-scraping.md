@@ -24,7 +24,7 @@ Fiyat karşılaştırma siteleri, pazar araştırmaları ve yapay zekâ modeller
 
 Web tarama (crawling) ile karıştırılır ancak tarama siteleri dizine eklemek için kullanılırken, kazıma spesifik veriyi çekip anlamlandırmak için yapılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her site kazınabilir mi?**
 

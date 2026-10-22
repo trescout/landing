@@ -22,7 +22,7 @@ Il est utilisé dans les services de stockage cloud, les sauvegardes de données
 
 Il peut être confondu avec les systèmes de fichiers des disques durs classiques ; cependant, ce système est conçu pour des données beaucoup plus volumineuses.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi n'utilise-t-il pas de dossiers ?**
 

@@ -22,7 +22,7 @@ It is widely used in smart home projects, modern power grids and municipal water
 
 It should not be confused with simple digital displays that only serve to read meters; smart meters offer two-way data communication and automation.
 
-## Frequently asked questions
+## Questions and answers
 
 **How does it affect bills?**
 

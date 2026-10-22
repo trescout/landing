@@ -44,8 +44,6 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Chrome DevTools](https://trescout.com/en/dictionary/chrome-devtools/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/en/dictionary/context/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

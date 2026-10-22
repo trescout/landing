@@ -22,7 +22,7 @@ Es wird in mobilen Anwendungen oder persönlichen Assistenten für künstliche I
 
 Gemischt mit externen Datenbanken; Externe sind für große Datenmengen gedacht, dieses ist geschwindigkeitsorientiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es für Big Data geeignet?**
 

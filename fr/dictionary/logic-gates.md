@@ -22,7 +22,7 @@ On les retrouve dans la conception architecturale des micro-processeurs, les sim
 
 Elles peuvent être confondues avec les blocs 'if-else' dans les algorithmes logiciels : alors que 'if-else' est une structure de contrôle fonctionnant dans les langages de programmation de haut niveau, une porte logique est un mécanisme matériel fonctionnant directement au niveau du transistor.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelles sont les portes logiques les plus fondamentales ?**
 

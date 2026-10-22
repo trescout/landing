@@ -22,7 +22,7 @@ It frequently appears on social media platforms, low-quality news sites, and sea
 
 Not everything produced by AI is slop; only sloppy and worthless ones are called that way.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do I know if a piece of content is AI-sloped?**
 

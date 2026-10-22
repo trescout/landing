@@ -22,7 +22,7 @@ Es wird in Projekten zur künstlichen Intelligenz von Unternehmen und in autonom
 
 Nicht zu verwechseln mit einer Firewall; Diese Instrumente regeln auch ethische und betriebliche Regeln.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verlangsamt es die Geschwindigkeit des Agenten?**
 

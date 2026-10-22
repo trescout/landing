@@ -40,7 +40,7 @@ Die erste Zeile übersetzt, die zweite führt aus. Der Interpreter hingegen füh
 **Druckerei:** Umwandlung des Entwurfs in eine Druckplatte.
 **Küche:** Verwandlung des Rezepts in ein bereits zubereitetes Gericht.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist der Compiler jeder Sprache unterschiedlich?**
 

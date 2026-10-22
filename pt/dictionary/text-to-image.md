@@ -22,7 +22,7 @@ O sistema utiliza modelos de difusão treinados com milhões de pares de texto e
 
 Não deve ser confundido com motores de busca visual. Enquanto os motores de busca encontram imagens existentes, esta tecnologia cria uma imagem totalmente nova e original.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Sistemas de texto para imagem podem gerar imagens protegidas por direitos autorais?**
 

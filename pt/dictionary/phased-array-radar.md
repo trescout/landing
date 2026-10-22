@@ -38,7 +38,7 @@ Pensa-se que é um radar clássico com antena rotativa. No clássico, a antena g
 **Alto-falante:** Matriz que direciona o som.
 **Lanterna:** Direcionamento do feixe sem girar manualmente.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que é mais vantajoso?**
 

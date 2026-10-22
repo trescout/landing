@@ -22,7 +22,7 @@ RAG sistemlerinde, öneri motorlarında ve büyük veri tabanlarında kullanıl�
 
 Vector Database ile karıştırılabilir; Vector Database bir depo, Vector Index ise o deponun içindeki arama sistemidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Dizin neden önemlidir?**
 

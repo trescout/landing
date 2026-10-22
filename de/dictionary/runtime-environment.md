@@ -42,7 +42,7 @@ Man hält es für die Software selbst. Dabei ist die Umgebung das Haus, in dem d
 **Aquarium:** Das Wasser und die Wärme, in denen der Fisch lebt.
 **Bühne:** Licht- und Tonsystem.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum gibt es einen Fehler?**
 

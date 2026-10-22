@@ -22,7 +22,7 @@ It is used on e-commerce sites, banking applications and large customer service 
 
 Mixed with multi-channel support; In multi-channel support, channels are independent from each other, while in omni-channel they are all interconnected.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is omni-channel important?**
 

@@ -22,7 +22,7 @@ Os desenvolvedores definem um limite máximo mensal ou diário em dólares, cré
 
 Não deve ser confundido com o limite flexível de orçamento (soft budget cap): o limite flexível apenas envia um e-mail de aviso e continua a operar quando o limite é abordado ou ultrapassado; o limite rígido, por sua vez, interrompe as operações diretamente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que os usuários veem quando o limite rígido de orçamento é atingido?**
 

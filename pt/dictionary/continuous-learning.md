@@ -22,7 +22,7 @@ O sistema atualiza seu modelo em intervalos regulares ou instantaneamente, combi
 
 Pode ser mixado com ajuste fino; o ajuste fino é a personalização para uma tarefa específica, enquanto o aprendizado contínuo visa a melhoria geral.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que nem todo sistema aprende constantemente?**
 

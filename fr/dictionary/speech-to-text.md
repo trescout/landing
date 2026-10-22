@@ -2,6 +2,8 @@
 
 *Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
+> STT
+
 La technologie Speech-to-text (en abrégé STT, de la parole au texte) permet de convertir la voix en texte écrit.
 
 ## Définition et origine du mot
@@ -42,7 +44,7 @@ On pense qu'il s'agit de synthèse vocale (text-to-speech). Celle-ci convertit l
 **Dactylographe :** Écrire ce qui est dit.
 **Salle de sous-titrage :** Préparer le texte pour la diffusion.
 
-## Foire aux questions
+## Questions et réponses
 
 **Comprend-il tous les accents ?**
 

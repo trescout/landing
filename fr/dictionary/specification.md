@@ -46,7 +46,7 @@ C'est similaire à Exigence. Les exigences indiquent ce qui est souhaité, les s
 **Guide de montage :** Diagramme de pièce et de séquence.
 **Tendre:** Spécifications administratives et techniques.
 
-## Foire aux questions
+## Questions et réponses
 
 **Les spécifications peuvent-elles changer ?**
 

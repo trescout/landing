@@ -42,7 +42,7 @@ It is considered stealth. Stealth is the mode where headless escapes bot protect
 **Blind flight:** Navigating by instruments.
 **Back kitchen:** Production without customers.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is there no interface?**
 

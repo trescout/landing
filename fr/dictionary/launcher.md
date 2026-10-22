@@ -22,7 +22,7 @@ Il est fréquemment utilisé sur les écrans d'accueil des smartphones, ainsi qu
 
 Il est souvent confondu avec le menu d'applications natif du système d'exploitation, mais les lanceurs sont beaucoup plus rapides et axés sur le clavier.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'utilisation d'un lanceur accélère-t-elle l'ordinateur ?**
 

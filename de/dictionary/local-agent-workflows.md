@@ -22,7 +22,7 @@ Es wird bevorzugt bei der Arbeit mit vertraulichen Daten, in persönlichen Infra
 
 Es wird mit cloudbasierten KI-Diensten gemischt; Diese Methode nutzt vollständig lokale Ressourcen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Reicht die Leistung meines Computers aus?**
 

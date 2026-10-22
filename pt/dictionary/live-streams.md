@@ -22,7 +22,7 @@ Os dados de imagem e áudio são retirados do seu dispositivo, rapidamente divid
 
 A diferença da gravação de vídeo é que o conteúdo não é um arquivo pré-preparado, mas sim um stream que acontece naquele momento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que a transmissão ao vivo está atrasada?**
 

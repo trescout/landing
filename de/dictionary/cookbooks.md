@@ -22,7 +22,7 @@ Es ist in den meisten Open-Source-Bibliotheken und Framework-Dokumentationen zu 
 
 Es kann mit Tutorial verwechselt werden; In Schulungen wird ein Thema von Anfang bis Ende vermittelt, während Kochbücher schnelle Lösungen bieten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es Faulheit, ein Kochbuch zu benutzen?**
 

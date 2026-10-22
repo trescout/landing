@@ -22,7 +22,7 @@ Se utiliza en procesos de desarrollo de software, reuniones de equipo y document
 
 Puede confundirse con diagramas de flujo; Sin embargo, los diagramas arquitectónicos muestran más la estructura del sistema y los diagramas de flujo muestran los pasos de un proceso.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Necesito saber el código para dibujar estos diagramas?**
 

@@ -22,7 +22,7 @@ O sistema recebe um propósito. A inteligência artificial divide esse objetivo 
 
 Pode ser confundido com modelos comuns de IA; Os modelos casuais apenas respondem à pergunta, os modelos agentes fazem o trabalho.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso poderia ser perigoso?**
 

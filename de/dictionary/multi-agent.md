@@ -22,7 +22,7 @@ Es wird häufig in der Softwareentwicklung, komplexen Datenanalysen und automati
 
 Es unterscheidet sich von einem einzelnen KI-Modell. Wichtig hierbei ist die Interaktion der Agenten untereinander.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie verstehen sich Agenten?**
 

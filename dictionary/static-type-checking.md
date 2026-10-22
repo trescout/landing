@@ -22,7 +22,7 @@ Modern yazılım geliştirme araçlarında ve büyük ölçekli projelerin kod t
 
 Çalışma anı (runtime) hataları ile karıştırılabilir, ancak bu yöntem hataları daha kod yazarken yakalar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden statik kontrol kullanmalıyım?**
 

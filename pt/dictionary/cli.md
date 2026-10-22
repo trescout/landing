@@ -24,7 +24,7 @@ Uma tela preta é aberta e alguns comandos são digitados lá. O computador lê 
 
 É confundido com uma interface gráfica (GUI), mas a CLI é totalmente baseada em texto e oferece muito mais customização.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É necessário aprender CLI?**
 

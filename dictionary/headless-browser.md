@@ -42,7 +42,7 @@ Stealth sanılır. Stealth, başsızın bot korumasından kaçan kipidir. Biri m
 
 *Sitenin HTML çıktısını kağıda basıp okumaya benzer; görüntü yok, veri var.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden arayüz yok?**
 

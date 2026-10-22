@@ -22,7 +22,7 @@ It is used in cost calculations and speed measurements of artificial intelligenc
 
 It is confused with word count, but tokens can sometimes be part of a word or just a space.
 
-## Frequently asked questions
+## Questions and answers
 
 **Approximately how many words are 1000 tokens?**
 

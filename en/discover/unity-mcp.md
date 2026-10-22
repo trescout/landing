@@ -27,8 +27,6 @@ Open your Unity project and go to the Package Manager window. Click 'Add package
 
 ## Related dictionary terms
 
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/en/dictionary/context/)
 - [Large Language Models](https://trescout.com/en/dictionary/large-language-models/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)

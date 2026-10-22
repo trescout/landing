@@ -22,7 +22,7 @@ Se utiliza en los cascos de realidad aumentada para escanear el entorno al insta
 
 En el método tradicional de "Scene Reconstruction" (Reconstrucción de escenas), todas las fotos se toman de antemano y se procesan por lotes (batch); en el modelo de "Streaming", el modelo tridimensional se construye al instante mientras los datos fluyen.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se utiliza el método de streaming en lugar del procesamiento por lotes?**
 

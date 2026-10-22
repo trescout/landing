@@ -24,7 +24,7 @@ Es wird in Spiele-Engines (DirectX-basiert) und Grafikanwendungen verwendet.
 
 Es wird oft mit Allzweck-Programmiersprachen verwechselt; HLSL ist ausschließlich auf Grafikberechnungen (Shader) spezialisiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es schwer, HLSL zu lernen?**
 

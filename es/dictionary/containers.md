@@ -22,7 +22,7 @@ Se utiliza en computación en la nube, implementación de aplicaciones web y arq
 
 Es mucho más ligero que las máquinas virtuales y se inicia más rápido.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué son tan populares los contenedores?**
 

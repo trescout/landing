@@ -37,7 +37,7 @@ Regel: Je höher die Schicht, desto höher die Aktualisierungskosten. Jede neue 
 **Möbel:** Einen Schrank nach Maß anfertigen lassen.
 **Automobil:** Auswahl des Ausstattungspakets.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann jede Software individuell angepasst werden?**
 

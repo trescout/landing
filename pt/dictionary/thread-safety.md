@@ -46,7 +46,7 @@ Não está relacionado à segurança cibernética. O assunto não são hackers, 
 **Culinária:** Cozinheiros que usam a mesma faca um de cada vez.
 **Biblioteca:** A troca de um livro de exemplar único com o registro de empréstimos.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que acontece se não for thread-safe?**
 

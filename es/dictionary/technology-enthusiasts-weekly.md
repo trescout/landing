@@ -22,7 +22,7 @@ Se utiliza para que los profesionales de la industria se mantengan actualizados,
 
 Se confunde con las revistas académicas de tecnología: mientras que las revistas académicas ofrecen análisis muy pesados ​​y teóricos, estos boletines se centran en desarrollos que son prácticos, rápidos de leer y aplicables a la vida diaria.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario ser desarrollador de software para seguir estas newsletters?**
 

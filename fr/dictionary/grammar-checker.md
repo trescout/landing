@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les e-mails, les articles académiques, les ar
 
 Peut être confondu avec les rédacteurs basés sur l'IA ; Cependant, ces outils se concentrent sur l’amélioration du contenu existant plutôt que sur la production de contenu.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le vérificateur de grammaire donne-t-il toujours des résultats précis ?**
 

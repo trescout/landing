@@ -22,7 +22,7 @@ SimCity ve Cities: Skylines gibi video oyunlarında, eğlence sektöründe ve ke
 
 Genel savaş veya gerçek zamanlı strateji oyunlarıyla karıştırılabilir: Şehir kurma oyunlarında asıl odak düşmanı yenmek değil, karmaşık bir altyapı ve yaşam döngüsünü sürdürülebilir kılmaktır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu oyunlar yazılım açısından neden zordur?**
 

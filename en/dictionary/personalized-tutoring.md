@@ -18,7 +18,7 @@ The system analyzes the student's answers and the time spent. If a mistake is ma
 
 It is used in language learning applications, online education platforms, and school support software.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it completely replace the teacher?**
 

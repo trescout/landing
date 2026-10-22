@@ -22,7 +22,7 @@ Ele é usado em complementos de navegador, integrações de ferramentas de IA e 
 
 Pode ser confundido com SDK, mas é mais um conjunto de regras, enquanto SDK é um conjunto mais amplo de ferramentas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo seguir essas regras?**
 

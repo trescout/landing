@@ -24,7 +24,7 @@ Es wird häufig in Nachrichtenseiten, E-Commerce-Plattformen und einfachen Widge
 
 Nicht zu verwechseln mit nativen Apps; PWA ist eigentlich eine Website.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird es aus dem App Store heruntergeladen?**
 

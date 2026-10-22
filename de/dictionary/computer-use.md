@@ -22,7 +22,7 @@ Es wird bei Aufgaben verwendet, die eine komplexe Dateneingabe erfordern, beim D
 
 Es kommt dem Konzept des KI-Agenten sehr nahe, aber die Computernutzung umfasst eine Reihe spezifischer Funktionen, die sich speziell auf die Steuerung der Benutzeroberfläche auf dem Bildschirm konzentrieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist diese Funktion sicher?**
 

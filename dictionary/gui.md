@@ -24,7 +24,7 @@ Akıllı telefonlarda, bilgisayar işletim sistemlerinde ve kullandığınız t�
 
 CLI (Komut Satırı Arayüzü) ile zıttır; CLI'da sadece metin yazılır, GUI'da ise görsellik ön plandadır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her yazılımın GUI'si var mı?**
 

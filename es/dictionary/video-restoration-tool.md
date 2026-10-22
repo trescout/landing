@@ -22,7 +22,7 @@ Se utiliza en trabajos de archivo, en la transferencia digital de películas ant
 
 Se puede confundir con las herramientas de edición de video, pero los editores de video cortan y unen, mientras que estas herramientas reparan directamente los píxeles con inteligencia artificial.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden estas herramientas colorear videos en blanco y negro?**
 

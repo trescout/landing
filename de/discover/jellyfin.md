@@ -64,7 +64,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Muss auf einem mittelgroßen Server/Computer installiert werden
 - **Was bietet:** Persönliches Medien-Streaming · von jedem Gerät
 - **Gebühr:** Völlig kostenlos · werbefrei
-- **Lizenz:** GPL-2.0 · ayrıntı aşağıda
+- **Lizenz:** GPL-2.0 · Details unten
 
 **Lizenz:** GPL-2.0 · Völlig kostenlos und kostenlos nutzbar. Wenn Sie die Software ändern und vertreiben, müssen Sie Ihre Änderungen unter derselben GPL-Lizenz und demselben Quellcode weitergeben (Copyleft). Es besteht keine Verpflichtung, wenn Sie es nur selbst nutzen.
 

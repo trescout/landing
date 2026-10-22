@@ -43,7 +43,7 @@ Souvent confondu avec le trace. Le log est l'enregistrement d'un événement, le
 **Journal :** Notes par ordre chronologique.
 **Ticket de caisse :** Journal des transactions.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi les logs sont-ils nécessaires ?**
 

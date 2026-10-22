@@ -22,7 +22,7 @@ Otomasyon sistemlerinde, veri analizi süreçlerinde ve karmaşık iş akışlar
 
 Sıradan sohbet botları ile karıştırılabilir; botlar sadece cevap verir, otonom ajanlar ise işi yapar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Otonom ajanlar hata yapabilir mi?**
 

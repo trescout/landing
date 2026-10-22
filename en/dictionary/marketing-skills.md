@@ -42,7 +42,7 @@ It's considered a sale. He prepares the marketing environment and closes the sal
 **Banner:** Theater announcement.
 **Sample:** Don't give away a taste.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **How is AI changing marketing?**
 

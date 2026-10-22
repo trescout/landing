@@ -39,7 +39,7 @@ Es scheint Verwirrung zu sein. Es handelt sich jedoch um eine reguläre Zentrali
 **Einkaufszentrum:** Geschäfte mit gemeinsamen Dächern.
 **Campus:** Gebäude mit Gemeinschaftsräumen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es für jeden geeignet?**
 

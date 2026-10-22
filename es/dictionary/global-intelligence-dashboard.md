@@ -22,7 +22,7 @@ Se utiliza en seguimiento logístico, análisis de mercado global y gestión ope
 
 No debe confundirse simplemente con una base de datos; Esta no es una base de datos, sino una interfaz que presenta datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Quién utiliza estos paneles?**
 

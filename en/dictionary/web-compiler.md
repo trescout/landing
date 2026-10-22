@@ -22,7 +22,7 @@ It is preferred on code learning platforms, when doing rapid prototyping or when
 
 Can be mixed with native compilers; The web compiler uses the internet while the local ones use your computer's power.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do I need to keep a code file on my computer?**
 

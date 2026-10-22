@@ -22,7 +22,7 @@ It is featured in personalized AI assistants, long-term projects, and chatbots.
 
 It differs from the context window, which is the model's immediate short-term memory; the information here is stored permanently.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is the data in the memory layer kept private?**
 

@@ -24,7 +24,7 @@ Il est utilisé dans la détection des fraudes pour les applications bancaires, 
 
 Il est confondu avec l'adresse IP ; alors que l'adresse IP change lorsque vous redémarrez votre modem ou activez un VPN, l'empreinte de l'appareil reste largement stable tant que vous utilisez le même matériel.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'utilisation de la navigation privée empêche-t-elle le suivi par empreinte digitale ?**
 

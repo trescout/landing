@@ -2,16 +2,16 @@
 
 Développée pour les plateformes Grok Build, Grok Web et Grok Console, cette passerelle (passerelle API) regroupe la gestion multi-comptes dans un centre unique. Écrit en langage Go, l'outil offre une interface gérable en standardisant l'accès des utilisateurs aux différents services Grok.
 
-- ★ 7 817
+- ★ 7 840
 - Go
 - GitHub Trending · 2026-07-15
 
 ## Mises à jour
 
+- **22 octobre 2026:** Étoiles 7,817 → 7,840, dernière version v3.1.8 (22 octobre 2026).
 - **18 octobre 2026:** Étoiles 7,669 → 7,817, dernière version v3.1.7 (18 octobre 2026).
 - **16 septembre 2026:** Étoiles 7,543 → 7,669, dernière version v3.1.6 (16 septembre 2026).
 - **27 août 2026:** Étoiles 7,459 → 7,543, dernière version v3.1.5 (25 août 2026).
-- **19 août 2026:** Étoiles 7,447 → 7,459, dernière version v3.1.4 (19 août 2026).
 
 ## Ce que ça vous apporte
 

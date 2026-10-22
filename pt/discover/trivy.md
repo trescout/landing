@@ -80,7 +80,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Binary](https://trescout.com/pt/dictionary/binary/)
 
 - **Para quem é:** Para engenheiros que desejam automatizar auditorias de segurança, verificações de chaves secretas e geração de SBOM em seus processos de desenvolvimento e implantação de software.
-- **Licença:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Licença:** Apache-2.0 (Licença de código aberto que oferece ampla liberdade)
 - **Desenvolvedor:** Aqua Security e comunidade de código aberto
 - **Formatos de saída:** Tabela, JSON, SARIF, CycloneDX, SPDX, Modelo
 

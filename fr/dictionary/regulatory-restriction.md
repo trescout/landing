@@ -28,7 +28,7 @@ Les équipes de développement logiciel doivent prendre en compte les normes de 
 
 Les politiques de plateforme internes (Conditions d'utilisation / Politique d'utilisation acceptable) ne doivent pas être confondues avec les restrictions réglementaires légales. Les règles de plateforme sont des choix commerciaux propres aux entreprises ; les restrictions réglementaires sont des lois étatiques qui, en cas de violation, entraînent des amendes massives proportionnelles au chiffre d'affaires de l'entreprise et des sanctions juridiques.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie restriction réglementaire (Regulatory restrictions meaning) ?**
 

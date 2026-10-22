@@ -2,6 +2,8 @@
 
 *Inteligência artificial · Última atualização: 9 de junho de 2026*
 
+> CV
+
 É uma tecnologia que permite aos computadores analisar dados visuais (fotos, vídeos) e dar sentido aos objetos, pessoas ou eventos neles contidos.
 
 ## Definição
@@ -22,7 +24,7 @@ Os dados visuais são transmitidos por redes neurais artificiais. O modelo class
 
 Pode ser misturado com multimodal; multimodal pode processar texto e imagens, enquanto a visão computacional é orientada visualmente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A visão computacional pode ver tudo?**
 

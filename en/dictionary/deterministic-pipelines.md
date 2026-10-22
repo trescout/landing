@@ -43,7 +43,7 @@ Generative AI conversation models are generally non-deterministic: They may answ
 **Printing press:** Taking the same print from the same mold.
 **Laboratory:** Repeating the same measurement with the same protocol.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it important?**
 

@@ -31,7 +31,7 @@ La diarisation, dont le mot vient du verbe français « tenir un journal » (dia
 
 La transcription (conversion audio-texte / STT) est souvent confondue avec la diarisation du locuteur. Un moteur Speech-to-Text traditionnel transcrit uniquement « ce qui a été dit » mais ne peut pas distinguer qui l'a dit. La diarisation, en revanche, trouve « qui l'a dit ». Par exemple, alors qu'OpenAI Whisper effectue une transcription pure ; Lorsqu'il est combiné avec des outils tels que pyannote.audio ou WhisperX, le texte complet et les identifiants des locuteurs sont obtenus.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Définition de la diarisation (que signifie la diarisation) ?**
 

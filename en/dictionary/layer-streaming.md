@@ -42,7 +42,7 @@ Mistaken for downloading. Downloading makes you wait, streaming starts playback.
 **Series:** Watching episode by episode.
 **Construction:** Layer by layer delivery.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does it increase speed?**
 

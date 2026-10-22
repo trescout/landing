@@ -22,7 +22,7 @@ Il est largement utilisé dans les services de messagerie, les éditeurs de docu
 
 Peut être confondu avec les applications de bureau ; Les applications de bureau occupent de l'espace physique sur l'appareil, tandis que les applications Web s'exécutent dans le navigateur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Puis-je utiliser l’application si mon internet est coupé ?**
 

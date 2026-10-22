@@ -22,7 +22,7 @@ Düşük kaynaklı cihazlarda veya mobil yapay zekâ uygulamalarında tercih edi
 
 Standart transformer mimarisiyle karıştırılabilir, ancak burada katman sayısı fiziksel olarak daha azdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Daha mı yavaş çalışır?**
 

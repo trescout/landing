@@ -22,7 +22,7 @@ Il est utilisé dans les assistants personnels, les outils de suivi des projets 
 
 Il ne faut pas les confondre avec les propres données d'entraînement du modèle ; Cette fonctionnalité couvre votre historique privé avec vous.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces informations sont-elles partagées avec d’autres ?**
 

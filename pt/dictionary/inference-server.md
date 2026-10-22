@@ -22,7 +22,7 @@ O modelo necessário é carregado neste servidor e configurado para atender às 
 
 Não é apenas um computador, mas uma infraestrutura especializada otimizada para o funcionamento do modelo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que um computador comum não é suficiente?**
 

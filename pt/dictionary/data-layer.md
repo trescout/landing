@@ -22,7 +22,7 @@ Em vez de escrever consultas diretas ao banco de dados para acessar dados, os de
 
 Pode ser misturado com banco de dados; A camada de dados não é o banco de dados, mas o método de acesso ao banco de dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não nos conectamos diretamente?**
 

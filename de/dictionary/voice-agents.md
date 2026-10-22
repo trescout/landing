@@ -22,7 +22,7 @@ Es kommt in Smartphones, Kundendienstsystemen und Smart-Home-Assistenten zum Ein
 
 Kann mit einfachen Sprachbefehlssystemen verwechselt werden; Agenten können viel komplexere und kontextbezogenere Gespräche führen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können sie irgendeine Sprache sprechen?**
 

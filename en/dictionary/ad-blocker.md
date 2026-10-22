@@ -22,7 +22,7 @@ It is generally used as an extension in web browsers or is found as a built-in f
 
 Sometimes blocking ads and blocking website content can be confused, but these tools only target ad servers.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does using an ad blocker harm websites?**
 

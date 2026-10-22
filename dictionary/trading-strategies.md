@@ -22,7 +22,7 @@ Borsa yazılımlarında, yatırım platformlarında ve yapay zekâ tabanlı fina
 
 Trading agent ile karıştırılır; strateji kuraldır, ajan ise bu kuralı uygulayan yazılımdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Strateji her zaman çalışır mı?**
 

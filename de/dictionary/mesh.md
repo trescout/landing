@@ -34,7 +34,7 @@ Bei Mikroservices verhält sich ein Service Mesh etwas anders: Neben die Service
 **Textilindustrie:** Stoffgewebe. Selbst wenn ein einzelner Faden reißt, bleibt die Integrität des Gewebes erhalten.
 **Biologie:** Neuronale Netze. Das Signal kann den beschädigten Bereich umgehen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Wozu dient Mesh-Wi-Fi?**
 

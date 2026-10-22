@@ -24,7 +24,7 @@ Il est utilisé dans les systèmes domotiques, le suivi des lignes de production
 
 La domotique (home automation) n'est qu'un domaine d'application de la technologie IoT à l'échelle de la maison, tandis que l'IoT est le cadre général englobant tous les réseaux d'appareils, des usines à la médecine.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quel est le plus grand risque pour les appareils IoT ?**
 

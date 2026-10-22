@@ -44,7 +44,7 @@ Man denkt, es seien Textmodelle. Dabei gehören auch solche, die Bilder, Ton und
 **Komponist:** Eine neue Melodie mit Noten.
 **Autor:** Eine neue Geschichte mit Worten.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Verletzt es das Urheberrecht?**
 

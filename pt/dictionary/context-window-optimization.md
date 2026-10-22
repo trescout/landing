@@ -22,7 +22,7 @@ Geralmente é aplicado resumindo textos, marcando partes importantes ou removend
 
 Janela de contexto
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não podemos dar tudo ao modelo?**
 

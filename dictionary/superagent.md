@@ -22,7 +22,7 @@ Kurumsal iş akışlarının otomasyonunda, yazılım geliştirme süreçlerinde
 
 Sıradan bir AI Agent ile karıştırılabilir, ancak SuperAgent çok daha geniş bir yetki ve koordinasyon alanına sahiptir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **SuperAgent kendi başına karar verebilir mi?**
 

@@ -22,7 +22,7 @@ It is used in e-commerce sites, customer support units of large companies and in
 
 Can be mixed with multi-channel; Omni-channel is a structure where all channels talk to each other.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does artificial intelligence do here?**
 

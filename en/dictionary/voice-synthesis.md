@@ -22,7 +22,7 @@ It is used in audiobook applications, screen readers for disabled individuals, a
 
 Can be confused with Voice Cloning; Voice synthesis is a general voice production, while Voice Cloning is imitating the voice of a specific person.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are voice synthesis and Text-to-Speech the same thing?**
 

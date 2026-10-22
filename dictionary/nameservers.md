@@ -22,7 +22,7 @@ Alan adı (domain) ayarlarında ve internet servis sağlayıcılarının altyap�
 
 Hosting ile karıştırılabilir; hosting sitenizin dosyalarının durduğu yerdir, nameserver ise oraya giden yoldur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Nameserver ayarlarını değiştirmek ne işe yarar?**
 

@@ -22,7 +22,7 @@ O modelo maior atua como professor e verifica as previsões do modelo menor. O p
 
 É confundido com quantização; Mas enquanto a quantização comprime os pesos do modelo, a destilação envolve o treinamento de um modelo menor e inteiramente novo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O modelo menor terá tanto sucesso quanto o modelo maior?**
 

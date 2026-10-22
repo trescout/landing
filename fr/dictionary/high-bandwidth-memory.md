@@ -24,7 +24,7 @@ On la rencontre fréquemment dans les processeurs graphiques haut de gamme utili
 
 On la confond souvent avec les mémoires informatiques standard que nous utilisons chez nous, c'est-à-dire la RAM. Les mémoires standard ont une disposition horizontale et leurs vitesses de transfert de données sont nettement inférieures à cette technologie verticale spéciale.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi cette technologie de mémoire n'est-elle pas courante dans les ordinateurs normaux ?**
 

@@ -22,7 +22,7 @@ It is frequently seen in AI Agent systems, automation tools, and application int
 
 It should not be confused with the mere thinking or planning process; action is an actual action that leaves a mark on the system.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does Action always succeed?**
 

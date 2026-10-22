@@ -22,7 +22,7 @@ Os designers criam um guia e os desenvolvedores colocam essas regras no código.
 
 Não é apenas um tema visual, é um sistema que abrange toda a lógica de interação de um produto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é importante?**
 

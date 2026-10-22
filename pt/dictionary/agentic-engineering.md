@@ -22,7 +22,7 @@ Os desenvolvedores definem um objetivo para a IA e as ferramentas que ela pode u
 
 Pode ser confundido com Agente AI; Esta é uma disciplina, e o AI Agent é o produto desta disciplina.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual será o papel do desenvolvedor de software aqui?**
 

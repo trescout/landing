@@ -22,7 +22,7 @@ Primeiro divida o problema em partes menores, depois escolha a solução lógica
 
 Pode ser confundido apenas com habilidades de codificação, enquanto a codificação é apenas a parte de aplicação desse processo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qualquer pessoa pode adquirir habilidades de engenharia?**
 

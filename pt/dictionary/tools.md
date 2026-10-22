@@ -47,7 +47,7 @@ No mundo da cibersegurança, o conceito de "ferramenta" (tool) é uma faca de do
 - Pentest e Análise: Ferramentas como Nmap (varredura de portas), Wireshark (análise de pacotes), Burp Suite (testes de segurança web) e Metasploit; Embora seja usado por administradores de sistema para eliminar vulnerabilidades, é usado por invasores para se infiltrar em redes alvo.
 - As ferramentas em si são neutras; a intenção de uso e os limites de autorização definem a estrutura ética da segurança.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que significa 'tools' e qual é a sua tradução para o português?**
 

@@ -22,7 +22,7 @@ It is used in modern code editors, AI-powered software development tools, and ma
 
 It's not just a list of files or a simple folder structure; It also includes the logical relationships of the code.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is this needed?**
 

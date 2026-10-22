@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les systèmes cloud, les connexions API et les
 
 C'est similaire à un mot de passe, mais les clés sont généralement plus longues et constituées de caractères aléatoires.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utiliser une clé plutôt qu'un mot de passe ?**
 

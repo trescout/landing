@@ -22,7 +22,7 @@ These files are always at work when you are installing a new game on your comput
 
 It is confused with source code; source code is readable raw text, whereas an executable file is the final result that the computer runs directly.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is every file executable?**
 

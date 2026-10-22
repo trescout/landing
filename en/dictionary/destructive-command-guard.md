@@ -22,7 +22,7 @@ It is commonly found in terminal applications, advanced software development too
 
 It can be confused with a firewall; It blocks attacks from outside, which prevents mistakes you make from inside.
 
-## Frequently asked questions
+## Questions and answers
 
 **Should this protection always be on?**
 

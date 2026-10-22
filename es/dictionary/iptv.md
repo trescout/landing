@@ -24,7 +24,7 @@ Se utiliza en televisores inteligentes, cajas especiales de IPTV o aplicaciones 
 
 Puede confundirse con plataformas de streaming como Netflix o YouTube, pero IPTV es una tecnología de infraestructura que generalmente cubre la transmisión de canales de televisión en vivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se requiere Internet de alta velocidad para ver IPTV?**
 

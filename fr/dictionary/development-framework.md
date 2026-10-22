@@ -22,7 +22,7 @@ Il est largement utilisé dans le développement Web, la construction d’applic
 
 Elle peut être confondue avec la bibliothèque ; Les bibliothèques ne sont que des outils, tandis que le cadre détermine l'ensemble du fonctionnement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je utiliser des frameworks dans chaque projet ?**
 

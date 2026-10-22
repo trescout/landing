@@ -22,7 +22,7 @@ Ele está localizado centralmente nas configurações de nomes de domínio e nas
 
 Pode ser confundido com hospedagem; hospedagem é onde os arquivos do seu site são armazenados e o servidor de nomes é o caminho para chegar lá.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que a alteração das configurações do servidor de nomes faz?**
 

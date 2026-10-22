@@ -22,7 +22,7 @@ Os arquivos de vídeo brutos são importados para o programa, dispostos na linha
 
 É diferente dos reprodutores de mídia que reproduzem apenas vídeo; Serve para mudar e produzir conteúdo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como a inteligência artificial afetou esses softwares?**
 

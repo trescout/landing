@@ -24,7 +24,7 @@ Es wird häufig in Spiele-Engines, Filmproduktionen und Programmen zur architekt
 
 Herkömmliche Zeichenmethoden vereinfachen das Licht nicht nach physikalischen Gesetzen, sondern nur so, dass es visuell ansprechend aussieht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird es nicht in jedem Spiel verwendet?**
 

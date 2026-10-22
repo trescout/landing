@@ -22,7 +22,7 @@ E-posta filtrelerinde, öneri sistemlerinde ve yapay zekânın temelinde yer al�
 
 Yapay zekâ daha geniş bir kavramdır, makine öğrenmesi ise bu zekâyı oluşturmak için kullanılan bir yöntemdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her şeyi öğrenebilir mi?**
 

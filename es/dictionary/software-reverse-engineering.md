@@ -22,7 +22,7 @@ Se utiliza en investigaciones de seguridad, análisis de software competitivo o 
 
 No se puede confundir con escribir código; El objetivo aquí no es producir, sino solucionar el existente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es legal?**
 

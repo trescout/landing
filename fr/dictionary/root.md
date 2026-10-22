@@ -22,7 +22,7 @@ Cela se produit fréquemment dans les systèmes basés sur Linux et dans la pers
 
 Il est similaire au compte administrateur, mais root fait généralement référence aux privilèges les plus étendus du système.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi tout le monde n’utilise-t-il pas root ?**
 

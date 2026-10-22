@@ -80,7 +80,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
 
 - **Para quién es:** Desarrolladores de Java, arquitectos de software, equipos de control de calidad y líderes técnicos.
-- **Licencia:** LGPL-2.1 (Açık kaynak kütüphane lisansı)
+- **Licencia:** LGPL-2.1 (Licencia de biblioteca de código abierto)
 - **Marco:** Herramienta de Análisis de Código Estático para Java
 - **Plataformas:** JVM (Java Virtual Machine), Linux, macOS, Windows
 

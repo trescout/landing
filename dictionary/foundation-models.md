@@ -22,7 +22,7 @@ Metin yazma araçlarında, kod yazma yardımcılarında, görsel oluşturma plat
 
 Genellikle sadece tek bir işi yapmak için eğitilmiş dar kapsamlı modellerle karıştırılırlar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Foundation model ile sıradan bir yapay zekâ modeli arasındaki fark nedir?**
 

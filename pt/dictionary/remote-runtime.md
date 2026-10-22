@@ -22,7 +22,7 @@ Seu cliente local ou editor de código se conecta ao servidor remoto pela rede e
 
 É confundido com o tempo de execução local. Enquanto o ambiente local utiliza diretamente o hardware do seu computador, o ambiente remoto executa todas as operações em um servidor externo na nuvem.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preciso de uma conexão constante com a Internet para usar o tempo de execução remoto?**
 

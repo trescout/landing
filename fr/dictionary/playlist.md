@@ -35,7 +35,7 @@ Du point de vue du génie logiciel et de l'ingénierie des données, une playlis
 **Histoire de la radio et de la radiodiffusion :** Avant la numérisation, les stations de radio préparaient des playlists physiques appelées "Rotation Log" (journal de rotation) pour diffuser des disques et des cassettes à des intervalles de temps précis. Les listes de musique numériques d'aujourd'hui sont la continuation directe de cette tradition de radiodiffusion.
 **Psychologie cognitive et productivité :** Suggère que des listes rythmiques à certaines fréquences (Lo-Fi, battements binauraux, musique baroque) peuvent aider à la concentration. L'effet varie d'une personne à l'autre.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie playlist et quel est son équivalent en turc ?**
 

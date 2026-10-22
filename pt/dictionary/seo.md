@@ -24,7 +24,7 @@ Aumente a velocidade do seu site, estabeleça uma estrutura limpa que os mecanis
 
 Não confundir com publicidade (SEM); SEO visa melhorar resultados completamente naturais (orgânicos).
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Minha classificação aumentará imediatamente?**
 

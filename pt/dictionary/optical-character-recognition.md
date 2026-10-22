@@ -24,7 +24,7 @@ Ele é usado para tornar editáveis ​​​​documentos PDF digitalizados, le
 
 Ao contrário dos navegadores que apenas salvam a imagem como está, ele converte o conteúdo em texto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele consegue ler caligrafia?**
 

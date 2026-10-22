@@ -42,7 +42,7 @@ Se suele pensar que es el software en sí. Sin embargo, el entorno es la casa do
 **Acuario:** El agua y la temperatura en la que vive el pez.
 **Escenario:** El sistema de iluminación y sonido.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué da error?**
 

@@ -2,6 +2,8 @@
 
 *Daten und Infrastruktur · Zuletzt aktualisiert: 20. September 2026*
 
+> PKM
+
 Persönliches Wissensmanagement (PKM) ist eine Reihe systematischer Prozesse und Werkzeuge, die Einzelpersonen nutzen, um den intensiven Informationsfluss, dem sie täglich begegnen, zu erfassen, zu klassifizieren und zu vertiefen und neue Ideen zu generieren.
 
 ## Etymologie und kognitives Bedürfnis
@@ -33,7 +35,7 @@ Ein Mensch, der sein eigenes PKM-System aufbaut, lässt alles, was er liest, dur
 - Übermäßige Tool-Optimierung (Aufschub): Tagelang Zeit mit Softwarethemen, grafischen Farben oder komplexen Ordnerhierarchien verschwenden, anstatt sich Notizen zu machen und zu produzieren.
 - Ausdruck überspringen: Kontinuierliches Sammeln von Informationen und niemals deren Umwandlung in einen Text, Code oder Projekt; Der wahre Wert einer Information offenbart sich erst dann, wenn sie an die Außenwelt weitergegeben wird.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist der Unterschied zwischen Personal Knowledge Management (PKM) und klassischem Notizenmachen?**
 

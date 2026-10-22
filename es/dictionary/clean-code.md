@@ -43,7 +43,7 @@ Regla: ejecutar el código es el primer paso, leer el código es el segundo paso
 **Estantes:** Ordenado por género y autor.
 **Jardín:** Arreglo de ramas podadas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿No es suficiente con trabajar?**
 

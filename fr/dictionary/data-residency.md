@@ -22,7 +22,7 @@ Il est obligatoire dans les secteurs qui traitent des données sensibles, tels q
 
 On peut la confondre avec la sécurité des données, mais cette situation va au-delà de la sécurité et est directement liée à la localisation physique des données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce important ?**
 

@@ -24,7 +24,7 @@ Es wird auf E-Commerce-Websites und allen Webprojekten verwendet, bei denen SEO 
 
 Kann mit clientseitigem Rendering verwechselt werden; Auf der Clientseite wird die meiste Arbeit im Browser erledigt, und auf der SSR-Seite wird die meiste Arbeit auf dem Server erledigt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwendet nicht jede Website SSR?**
 

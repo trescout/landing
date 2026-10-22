@@ -44,7 +44,7 @@ Es gilt als Lagerung. RAM ist temporärer Arbeitsspeicher, Festplatte ist perman
 **Stand:** Halten Sie das Material griffbereit.
 **Whiteboard:** Temporärer Notizbereich.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn der RAM voll wird?**
 

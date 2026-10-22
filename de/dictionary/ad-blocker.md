@@ -22,7 +22,7 @@ Es wird normalerweise als Erweiterung in Webbrowsern verwendet oder ist in einig
 
 Manchmal kann das Blockieren von Werbung mit dem Blockieren von Website-Inhalten verwechselt werden, aber diese Tools zielen nur auf Werbeserver ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Schadet die Verwendung eines Werbeblockers den Websites?**
 

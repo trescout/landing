@@ -22,7 +22,7 @@ Dosya paylaşım sitelerinde, büyük yazılım paketleri indirirken veya yavaş
 
 Tarayıcıların kendi basit indirme yöneticileriyle karıştırılabilir, ancak bu araçlar çok daha gelişmiş özellikler sunar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her dosyayı hızlandırır mı?**
 

@@ -22,7 +22,7 @@ Wenn Sie ein neues Spiel auf Ihrem Computer installieren, einen Browser öffnen 
 
 Wird oft mit Quellcode verwechselt; Quellcode ist lesbarer Rohtext, während eine ausführbare Datei das vom Computer direkt ausgeführte Ergebnis ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist jede Datei ausführbar?**
 

@@ -22,7 +22,7 @@ Se utiliza en aplicaciones de mensajería, servicios de almacenamiento en la nub
 
 Puede confundirse con un simple cifrado, pero aquí los usuarios tienen el control total de la clave.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede el proveedor de servicios ver el rendimiento?**
 

@@ -22,7 +22,7 @@ Eles são frequentemente usados ​​em bots de atendimento ao cliente, ferrame
 
 Não deve ser confundido com modelos padrão de IA que produzem apenas texto; os agentes vão além da produção de texto e agem.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os agentes sempre tomam a decisão certa?**
 

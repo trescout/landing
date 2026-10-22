@@ -22,7 +22,7 @@ Frontend web geliştirme süreçlerinde, özellikle büyük ölçekli uygulamala
 
 Sadece dosyaları kopyalamak değil, aynı zamanda onları sıkıştırıp optimize etme sürecidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden dosyaları birleştiriyoruz?**
 

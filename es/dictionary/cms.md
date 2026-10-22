@@ -41,7 +41,7 @@ Es similar a los creadores de sitios web (website builders), pero un CMS suele o
 **Biblioteca:** El sistema de catálogo que organiza los estantes.
 **Venta al por menor:** El diseño de la tienda que gestiona el plan de los pasillos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Necesito ser desarrollador de software para utilizar CMS?**
 

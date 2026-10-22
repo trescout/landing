@@ -22,7 +22,7 @@ Recalcule a superfície do modelo usando ferramentas de remesh em software de mo
 
 Não deve ser confundido com mera redução de modelo (dizimação); O objetivo aqui é alterar a ordem geométrica da superfície.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não usar apenas triângulos?**
 

@@ -22,7 +22,7 @@ It is used when preparing website prototypes, designing mobile application scree
 
 It is confused with classic graphic design programs: While classic programs run on a single computer and require file sharing, collaborative tools focus entirely on online and simultaneous teamwork.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do you need to know how to code to use these tools?**
 

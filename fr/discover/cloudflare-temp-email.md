@@ -84,7 +84,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs, aux équipes de test et aux utilisateurs soucieux de la confidentialité qui souhaitent héberger un service de messagerie temporaire gratuit, sécurisé et débloqué avec leur propre nom de domaine.
-- **Licence:** MIT (Özgür açık kaynak lisansı)
+- **Licence:** MIT (Licence open source gratuite)
 - **Infrastructure:** Cloudflare Workers, Pages, D1 (SQLite) et routage des e-mails
 - **Langages et outils:** TypeScript, Rust (WASM), Vue 3, Wrangler
 

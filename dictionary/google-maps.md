@@ -22,7 +22,7 @@ Günlük yol tariflerinde, kurye ve lojistik yönetiminde, yerel işletme aramal
 
 OpenStreetMap gibi açık kaynaklı ve topluluk odaklı harita projelerinden farklı olarak, Google'ın kendi mülkiyetinde olan kapalı kaynaklı ve ticari bir ekosistemdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Google Maps trafik yoğunluğunu nasıl anlık olarak biliyor?**
 

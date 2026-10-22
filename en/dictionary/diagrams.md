@@ -22,7 +22,7 @@ It is used during system design, team meetings and technical documentation.
 
 It is not just a picture, it is a model that represents the logical functioning of the system.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can anyone draw a diagram?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans tous les domaines, du montage de films professionnel à la 
 
 Les logiciels de montage vidéo sont souvent confondus avec les lecteurs qui regardent uniquement des vidéos.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Faut-il être un professionnel pour utiliser un éditeur vidéo ?**
 

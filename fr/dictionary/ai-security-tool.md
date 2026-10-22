@@ -22,7 +22,7 @@ Il est utilisé dans les applications d’intelligence artificielle d’entrepri
 
 Il est confondu avec les outils généraux de cybersécurité ; Cependant, ces outils se concentrent spécifiquement sur la logique de fonctionnement des modèles d’intelligence artificielle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Offre-t-il une protection à cent pour cent ?**
 

@@ -41,7 +41,7 @@ Os dados fluem sem entrada manual com integrações de e-mail, telefone e e-comm
 **Biblioteca:** Cartão de membro e registro de empréstimos.
 **Escola:** Sistema de informações do aluno.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Tenho que usar CRM?**
 

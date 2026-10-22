@@ -24,7 +24,7 @@ O modelo aprende a usar conjuntos de comandos especiais ou ferramentas definidas
 
 Muitas vezes é confundido com recursos gerais de IA, mas são ferramentas especializadas adicionadas para realizar um trabalho específico.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todo modelo de IA possui habilidades de IA?**
 

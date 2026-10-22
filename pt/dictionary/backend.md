@@ -22,7 +22,7 @@ Está presente em todas as aplicações web modernas, no plano de fundo de aplic
 
 Pode ser confundido com o front-end; o front-end interage com você, enquanto o back-end faz o trabalho.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que executamos código no back-end?**
 

@@ -32,7 +32,7 @@ Confusing it with Freeware: Open source refers to the freedom of the code; devel
 - Believing It Is Insecure: The misconception of providing security by hiding the code (security through obscurity) is invalid in cybersecurity; software with open code is much more robust because it undergoes independent audits.
 - Confusing with Open Weights: Simply sharing model weights in AI is not true open source; systems whose training data, code, and architecture are not shared do not fully meet the definition of open source.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is the main difference between open source and free software?**
 

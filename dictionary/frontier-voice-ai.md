@@ -22,7 +22,7 @@ Sanal asistanlarda, müşteri hizmetleri botlarında ve interaktif eğitim araç
 
 Standart 'Text-to-Speech' sistemleri ile karıştırılmamalıdır; onlar daha mekanik kalır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden 'Frontier' deniyor?**
 

@@ -22,7 +22,7 @@ It is used in large-scale artificial intelligence projects and complex automatio
 
 It is similar to multi-agent systems, but here the 'routing' (multiplexing) mechanism is at the forefront.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we use multiple agents instead of a single agent?**
 

@@ -79,7 +79,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Cybersecurity researchers, OSINT analysts, computer forensics experts and ethical hackers.
-- **License:** GPL-3.0 (Açık kaynak copyleft lisansı)
+- **License:** GPL-3.0 (Open source copyleft license)
 - **Framework:** Python Asynchronous OSINT Scanner
 - **Platforms:** Linux, macOS, Windows
 

@@ -59,7 +59,7 @@ pip install -r requirements.txt
 - **Schwierigkeit:** Mittlere bis fortgeschrittene Python/ML-Grundlage
 - **Formatieren:** Jupyter-Notebooks Schritt für Schritt
 - **Gebühr:** Kostenlos · Open Source (MIT)
-- **Lizenz:** MIT · ayrıntı aşağıda
+- **Lizenz:** MIT · Details unten
 
 **Lizenz:** MIT · Sie können Inhalte und Code frei verwenden, anpassen und teilen.
 

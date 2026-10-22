@@ -22,7 +22,7 @@ Elle s'applique dans l'expérience utilisateur et les processus de conformité l
 
 Elle se distingue d'une interface d'annulation ordinaire ; c'est une réglementation stricte soutenue par des sanctions légales officielles et des amendes dissuasives.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Proposer une réduction à l'utilisateur lors de l'annulation va-t-il à l'encontre de cette règle ?**
 

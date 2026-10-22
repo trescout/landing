@@ -22,7 +22,7 @@ Il est utilisé dans les éditeurs de code, les environnements de terminaux et l
 
 Il est presque identique à Agentic Coding Tool ; Ce terme se concentre davantage sur le véhicule lui-même.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Va-t-il remplacer les développeurs de logiciels ?**
 

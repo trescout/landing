@@ -22,7 +22,7 @@ Sosyal ağ analizlerinde, dolandırıcılık tespit sistemlerinde ve karmaşık 
 
 Klasik ilişkisel veritabanları (SQL) ile karıştırılmamalıdır; çünkü burada ilişki tablonun bir parçası değil, yapının temelidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu yapıyı tercih etmeliyim?**
 

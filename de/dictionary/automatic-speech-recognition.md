@@ -24,7 +24,7 @@ Es wird in Sprachassistenten auf Smartphones, zur Analyse von Sprachaufzeichnung
 
 Dabei handelt es sich um den Prozess der Umwandlung von Sprache in Text, das genaue Gegenteil der Text-to-Speech-Technologie, bei der Text in Sprache umgewandelt wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann es in lauten Umgebungen funktionieren?**
 
@@ -33,7 +33,7 @@ Ja, dank seiner fortschrittlichen Filteralgorithmen kann es Sprache durch Unterd
 ## Verwandte Begriffe
 
 - [Speech-to-Text](https://trescout.com/de/dictionary/speech-to-text/)
-- [STT](https://trescout.com/de/dictionary/stt/)
+- [STT](https://trescout.com/de/dictionary/speech-to-text/)
 - [Whisper](https://trescout.com/de/dictionary/whisper/)
 - [Transcription](https://trescout.com/de/dictionary/transcription/)
 

@@ -45,7 +45,7 @@ Dosya aktarımı sanılır. O yalnızca kopyalar, ADB sisteme müdahale eder. Ye
 
 *Bilgisayarı kumanda merkezi, cihazı uzay aracı sayarsanız ADB aradaki sinyal kablosudur.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes kullanabilir mi?**
 

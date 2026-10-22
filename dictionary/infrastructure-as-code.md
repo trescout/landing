@@ -20,7 +20,7 @@ Sistem gereksinimlerini belirten kod dosyaları oluşturulur ve bu dosyalar IaC 
 
 Bulut bilişimde, büyük ölçekli sistemlerin yönetiminde ve yazılımın sürekli yayına alınması süreçlerinde kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden elle kurmak yerine kod yazıyoruz?**
 

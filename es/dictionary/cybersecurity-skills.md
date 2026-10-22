@@ -22,7 +22,7 @@ Se utiliza para garantizar la seguridad en los procesos de desarrollo de softwar
 
 Puede confundirse con el término Análisis de vulnerabilidades; es una herramienta, es la habilidad que tienes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario saber código para adquirir habilidades en ciberseguridad?**
 

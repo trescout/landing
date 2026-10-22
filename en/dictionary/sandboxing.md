@@ -22,7 +22,7 @@ It is used in running third-party scripts in web browsers, security software exa
 
 While the term sandbox defines the isolated area itself, sandboxing refers to the process of creating, managing, and restricting this secure environment.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does sandboxing significantly reduce system performance?**
 

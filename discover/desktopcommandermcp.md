@@ -2,16 +2,16 @@
 
 DesktopCommanderMCP, Claude için geliştirilen ve yapay zekâ modeline uçbirim denetimi (terminal control), dosya sistemi araması ve fark tabanlı dosya düzenleme (diff file editing) yetenekleri kazandıran bir Model Bağlantı Protokolü (Model Context Protocol) sunucusudur. TypeScript ile yazılan bu araç, yapay zekânın yerel dosya sistemleri üzerinde doğrudan işlem yapabilmesini sağlar.
 
-- ★ 10.028
+- ★ 10.088
 - TypeScript
 - GitHub Trending · 2026-07-09
 
 ## Güncelleme
 
+- **22 Ekim 2026:** Yıldız 10.028 → 10.088, son sürüm v0.3.1 (22 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 9.830 → 10.028, son sürüm v0.3.0 (13 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 9.633 → 9.830, son sürüm v0.2.52 (29 Eylül 2026).
 - **18 Eylül 2026:** Yıldız 9.521 → 9.633, son sürüm v0.2.51 (17 Eylül 2026).
-- **10 Eylül 2026:** Yıldız 9.472 → 9.521, son sürüm v0.2.50 (9 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -60,10 +60,10 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Terminal Control](https://trescout.com/dictionary/terminal-control/)
 - [Diff File Editing](https://trescout.com/dictionary/diff-file-editing/)
-- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/dictionary/context/)
 - [PDF](https://trescout.com/dictionary/pdf/)
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/desktopcommandermcp/

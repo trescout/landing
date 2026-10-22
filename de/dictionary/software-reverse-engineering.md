@@ -22,7 +22,7 @@ Es wird in der Sicherheitsforschung, bei der Analyse von Wettbewerbssoftware ode
 
 Es kann nicht mit dem Schreiben von Code verwechselt werden; Dabei geht es nicht darum, das Bestehende zu produzieren, sondern zu lösen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es legal?**
 

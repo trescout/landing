@@ -22,7 +22,7 @@ Es dient der automatischen Verarbeitung von Rechnungen, der Analyse von Verträg
 
 Es wird mit dem bloßen Kopieren von Text verwechselt, beim Parsen werden die Daten jedoch unter Beibehaltung ihrer Struktur (Tabelle oder Kopfzeile) übertragen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann es jedes Dokument lesen?**
 

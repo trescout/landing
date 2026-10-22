@@ -44,7 +44,7 @@ Sohbet botu sanılır. Bot yanıt verir, bu katman sürece gömülür. Biri penc
 
 *Departmanlara anlık veri sağlayan ve operasyonu denetleyen dijital yardımcı gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yöneticinin yerini mi alır?**
 

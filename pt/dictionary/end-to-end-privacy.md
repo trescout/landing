@@ -22,7 +22,7 @@ Ele é usado em aplicativos de mensagens, serviços de armazenamento em nuvem e 
 
 Pode ser confundido com mera criptografia, mas aqui os usuários têm controle total da chave.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O provedor de serviços pode ver o rendimento?**
 

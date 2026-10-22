@@ -41,7 +41,7 @@ Can be mixed with Open Weights. Open Weights is just the weights being open. Ope
 **Textbook:** Open source that anyone can read and edit.
 **Seed bank:** Ancestor seed shared by farmers.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Are open source models weaker?**
 

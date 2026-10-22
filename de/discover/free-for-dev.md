@@ -76,7 +76,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [RAM](https://trescout.com/de/dictionary/ram/)
 
 - **Für wen es gedacht ist:** Unternehmer, unabhängige Entwickler, Studenten und Ingenieure, die Infrastrukturkosten senken möchten.
-- **Lizenz:** CC BY 4.0 (Açık içerik lisansı)
+- **Lizenz:** CC BY 4.0 (Open-Content-Lizenz)
 - **Kurator:** R.I. Pienaar und über 1000 Open-Source-Mitwirkende
 - **Anzahl der Dienste:** Mehr als 1.000 verifizierte kostenlose Dienste
 

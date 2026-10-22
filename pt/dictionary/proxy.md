@@ -41,7 +41,7 @@ Ele também mantém o cache: o conteúdo solicitado com frequência é entregue 
 **Recepção:** O oficial que cumprimenta o visitante.
 **Intérprete:** O meio que transmite a palavra.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É seguro?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans l'automatisation de flux de travail complexes, de processus
 
 Peut être confondu avec les outils d'automatisation ordinaires ; Alors que l’automatisation ne suit que le chemin prédéfini, le système agent trace lui-même le chemin.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les systèmes agentiques prennent-ils toujours la bonne décision ?**
 

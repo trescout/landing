@@ -22,7 +22,7 @@ It is used in production artificial intelligence applications and critical decis
 
 It is confused with monitoring; monitoring is just 'is it working?' observability asks 'why does it work like this?' focuses on the question.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is this needed?**
 

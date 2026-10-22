@@ -22,7 +22,7 @@ It is used in security research, analyzing competitor software, or modernizing l
 
 It should not be confused with writing code; the goal here is not to produce, but to decipher what already exists.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it legal?**
 

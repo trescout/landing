@@ -22,7 +22,7 @@ Yapay zekâ ile etkileşime girilen her alanda, özellikle içerik üretimi, kod
 
 Sadece soru sormak sanılır, oysa bu bir strateji ve deneme-yanılma sürecidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes öğrenebilir mi?**
 

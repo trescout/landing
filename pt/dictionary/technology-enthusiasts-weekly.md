@@ -22,7 +22,7 @@ Ele é usado para que profissionais do setor se mantenham atualizados, para dese
 
 É confundido com revistas acadêmicas de tecnologia: embora as revistas acadêmicas ofereçam análises muito pesadas e teóricas, esses boletins se concentram em desenvolvimentos práticos, de leitura rápida e aplicáveis ​​à vida cotidiana.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É necessário ser desenvolvedor de software para acompanhar essas newsletters?**
 

@@ -22,7 +22,7 @@ It is used particularly in solving complex math problems, logical puzzle analyse
 
 It should not be confused with traditional recurrent neural networks. While recurrent neural networks process data across a time series, these models rerun the transformer architecture with a cyclic logic.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do these models run slower?**
 

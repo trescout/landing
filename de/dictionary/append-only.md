@@ -22,7 +22,7 @@ Es wird in Blockchain-Technologien, Protokollierungssystemen und überprüfbaren
 
 Kann mit herkömmlichen Datenbanken verwechselt werden; Herkömmliche Methoden können die Daten aktualisieren, diese Methode erlaubt dies jedoch nicht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn ich einen Fehler mache?**
 

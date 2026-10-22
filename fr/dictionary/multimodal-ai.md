@@ -22,7 +22,7 @@ Il est utilisé dans les applications de reconnaissance d’images, les assistan
 
 Il peut être confondu avec les modèles d’IA standard purement textuels.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie multimodal ?**
 

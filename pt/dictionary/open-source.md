@@ -32,7 +32,7 @@ Além disso, o código aberto democratiza o conhecimento de software. Um jovem e
 - Pensar que é inseguro: O erro de fornecer segurança ocultando o código (segurança através da obscuridade) é inválido na segurança cibernética; Softwares cujo código é aberto são muito mais robustos porque estão sujeitos a auditorias independentes.
 - Mistura com Pesos Abertos: Compartilhar apenas pesos de modelos em inteligência artificial não é totalmente open source; Sistemas cujos dados de treinamento, códigos e arquitetura não são compartilhados não atendem totalmente à definição de código aberto.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Qual é a principal diferença entre código aberto e software livre?**
 

@@ -22,7 +22,7 @@ Dies ist häufig bei Android-Telefonen zu finden, bei Anwendungen in der Testpha
 
 Kann mit Sideloading (dem Vorgang des Ladens) verwechselt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist die Verwendung eines Sideloaders sicher?**
 

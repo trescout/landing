@@ -44,7 +44,7 @@ Não deve ser confundido com entrada. A entrada é o início, a saída é o resu
 **Fábrica:** A peça entra, o produto sai.
 **Exame:** A pergunta entra, a pontuação sai.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que a saída estaria incorreta?**
 

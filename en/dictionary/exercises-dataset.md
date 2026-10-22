@@ -22,7 +22,7 @@ You frequently encounter it in coding platforms, language learning applications 
 
 Can be mixed with raw data sets; However, these sets are only focused on learning.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do I need a custom data set?**
 

@@ -31,7 +31,7 @@ Diarization, cuja origem etimológica deriva do verbo francês "diariser" (mante
 
 A transcrição (Speech-to-Text ou STT) é frequentemente confundida com a diarização de locutor (Speaker Diarization). Um motor clássico de Speech-to-Text apenas converte "o que foi dito" em texto, mas não consegue distinguir quem falou. A diarização, por sua vez, identifica "quem falou". Por exemplo, enquanto o OpenAI Whisper realiza a transcrição pura, quando combinado com ferramentas como pyannote.audio ou WhisperX, é possível obter tanto o texto quanto as identidades dos locutores de forma completa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Definição de diarização (o que significa diarização)?**
 

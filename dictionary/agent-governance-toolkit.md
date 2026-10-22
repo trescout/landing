@@ -22,7 +22,7 @@ Kurumsal yapay zekâ projelerinde ve otonom sistem geliştirme süreçlerinde ku
 
 Sadece güvenlik duvarı ile karıştırılmamalıdır; bu araçlar etik ve operasyonel kuralları da yönetir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ajanın hızını yavaşlatır mı?**
 

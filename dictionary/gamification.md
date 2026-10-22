@@ -35,7 +35,7 @@ Dikkat noktası: Seri ve bildirimler baskıya dönüşürse kullanıcı uygulama
 
 *Bir çocuğa sebze yedirmek için tabağına şekiller vermek veya bitirdiği her yemek için ona bir yıldız vermek gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Her şey oyunlaştırılabilir mi?**
 

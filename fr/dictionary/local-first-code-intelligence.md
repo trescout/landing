@@ -22,7 +22,7 @@ Il est utilisé dans les éditeurs de code modernes, les plugins natifs basés s
 
 Il peut être confondu avec les assistants de code basés sur le cloud, mais ici l'ensemble du processus se termine sur votre appareil.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je choisir le local plutôt que le cloud ?**
 

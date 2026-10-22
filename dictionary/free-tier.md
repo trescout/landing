@@ -44,7 +44,7 @@ Bedava yazılım sanılır. O tamamen açıktır, bu ticari modelin parçasıdı
 
 *Kahve almadan önce verilen tadımlık bardak gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Sınırsız mı?**
 

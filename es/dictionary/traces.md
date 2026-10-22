@@ -22,7 +22,7 @@ Se utiliza en arquitecturas de software complejas y para resolver problemas de r
 
 Se mezcla con troncos; Los registros responden a la pregunta "qué pasó" y los rastros responden a la pregunta "dónde y cuánto tiempo tomó".
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué son importantes los rastros?**
 

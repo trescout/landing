@@ -29,7 +29,7 @@ O conceito de "keybind" ou "keybinding" é traduzido em português como atribui�
 
 Atalho de teclado (shortcut) e keybind são frequentemente usados como sinônimos. No entanto, na prática, shortcut refere-se a combinações universais em nível de sistema operacional (Ctrl+V, Alt+Tab), enquanto keybind define mais especificamente as atribuições personalizadas que o usuário remapeia (re-map) de acordo com seus próprios hábitos em um editor ou jogo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Keybind meaning (O que significa keybind)?**
 

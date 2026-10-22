@@ -95,7 +95,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [RAM](https://trescout.com/de/dictionary/ram/)
 
 - **Für wen es gedacht ist:** Für KI-Entwickler, die große Sprachmodelle (LLM) mit Höchstgeschwindigkeit und mit nativer Privatsphäre auf Mac-Computern mit Apple Silicon-Prozessoren ausführen möchten.
-- **Lizenz:** Apache-2.0 (Açık kaynak lisansı)
+- **Lizenz:** Apache-2.0 (Open-Source-Lizenz)
 - **Framework:** Native Inferenz-Engine basierend auf Apple MLX und Python
 - **Hardware:** Apple Silicon M1, M2, M3, M4-Serie (Pro, Max, Ultra unterstützt)
 

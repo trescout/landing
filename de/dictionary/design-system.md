@@ -22,7 +22,7 @@ Es wird in Websites, mobilen Anwendungen und großen Unternehmenssoftwareprojekt
 
 Er kann mit dem „Style Guide“ verwechselt werden, der lediglich ein visueller Leitfaden ist; Das Designsystem ist eine viel umfassendere und funktionalere Version davon.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum brauchen wir ein Designsystem?**
 

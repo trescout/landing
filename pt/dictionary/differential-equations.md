@@ -22,7 +22,7 @@ São usadas em treinamentos de modelos de inteligência artificial, simulações
 
 Podem ser confundidas com equações algébricas simples; no entanto, essas equações não calculam apenas valores constantes, mas a própria mudança.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que a inteligência artificial usa essas equações?**
 

@@ -22,7 +22,7 @@ Se utiliza en servicios de almacenamiento en la nube, copias de seguridad de gra
 
 Puede confundirse con los sistemas de archivos de disco duro normales; sin embargo, este sistema está diseñado para datos mucho más grandes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no utiliza carpetas?**
 

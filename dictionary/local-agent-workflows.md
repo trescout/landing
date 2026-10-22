@@ -22,7 +22,7 @@ Gizli verilerle çalışırken, kişisel yapay zekâ altyapılarında ve çevrim
 
 Bulut tabanlı yapay zekâ servisleriyle karıştırılır; bu yöntem tamamen yerel kaynakları kullanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bilgisayarımın gücü yeterli mi?**
 

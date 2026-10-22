@@ -22,7 +22,7 @@ O proprietário do site adiciona este shortcode recebido do serviço de análise
 
 Muitas vezes é confundido com cookies; Embora os cookies mantenham os dados no seu navegador, o snippet é a ferramenta que coleta os dados e os envia ao servidor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Esses códigos roubarão minhas informações pessoais?**
 

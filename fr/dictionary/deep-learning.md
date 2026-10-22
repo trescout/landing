@@ -22,7 +22,7 @@ Elle est au cœur des modèles modernes de traitement d’images, de reconnaissa
 
 Il est souvent confondu avec l’apprentissage automatique ; L’apprentissage profond est une sous-branche plus spécifique et avancée de l’apprentissage automatique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce appelé « profond » ?**
 

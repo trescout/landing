@@ -40,7 +40,7 @@ gcc merhaba.c -o merhaba
 
 *İngilizce yazılmış bir yemek tarifini, hiç İngilizce bilmeyen bir şefe onun anlayacağı dilde yazılı bir talimata dönüştürmek gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Her dilin derleyicisi farklı mı?**
 

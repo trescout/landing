@@ -22,7 +22,7 @@ Er wird bei der robotischen Bewegungsplanung, der Vorhersage von Proteinstruktur
 
 Während die klassische Transformer-Architektur Daten als eindimensionale Sequenz oder flaches Raster behandelt, bezieht der Geometric Context Transformer mehrdimensionale räumliche Koordinaten direkt in die Aufmerksamkeitsberechnung ein.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum erweisen sich klassische Transformer-Modelle als unzureichend?**
 

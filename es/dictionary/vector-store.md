@@ -22,7 +22,7 @@ Se utiliza ampliamente en sistemas RAG, motores de búsqueda semántica, sistema
 
 Expresa exactamente el mismo concepto que el término existente vector-database, es solo una denominación diferente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Reemplaza la base de datos vectorial a una base de datos normal?**
 

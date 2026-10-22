@@ -22,7 +22,7 @@ Es un concepto fundamental en el desarrollo de software, seguridad y arquitectur
 
 Se confunde con el espacio del núcleo; El kernel domina todo el sistema, mientras que el espacio de usuario es limitado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué existe esta distinción?**
 

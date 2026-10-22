@@ -22,7 +22,7 @@ Es wird verwendet, um Ihren eigenen Cloud-Speicher einzurichten, Ihre persönlic
 
 Es wird mit Cloud Computing verwechselt, aber während Sie den Server eines anderen in der Cloud nutzen, haben Sie hier die vollständige Kontrolle über die Hardware und Software.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird Selbsthosting bevorzugt?**
 

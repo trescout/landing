@@ -22,7 +22,7 @@ Sie werden in gängigen Softwareentwicklungsumgebungen wie VS Code, IntelliJ ode
 
 Es wird oft mit „AI Coding Agent“ verwechselt; Während Assistenten eher auf Vorschläge und Anleitungen ausgerichtet sind, handelt es sich bei Agenten um autonomere Strukturen, die bestimmte Aufgaben durchgängig für Sie erledigen können.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können diese Tools den gesamten Code selbst schreiben?**
 

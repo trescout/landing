@@ -22,7 +22,7 @@ It is available in travel apps, event platforms or personal digital assistants.
 
 It may be confused with a simple search engine, but this assistant has the ability to 'complete' the process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it safe?**
 

@@ -22,7 +22,7 @@ Es wird in Suchmaschinen, Trainingsdaten für künstliche Intelligenz und komple
 
 Es kann mit gewöhnlichen Metadaten verwechselt werden; Der Unterschied besteht darin, dass die semantische Beziehung die „Bedeutungs“-Beziehung der Daten trägt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich semantische Metadaten verwenden?**
 

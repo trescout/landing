@@ -50,7 +50,7 @@ La computación en la nube no es solo una revolución técnica, sino también un
 - Almacenamiento en la nube frente a computación en la nube: Google Drive, iCloud o Dropbox son solo servicios de almacenamiento; la computación en la nube, por otro lado, es un ecosistema masivo que, además del almacenamiento, incluye potencia de procesamiento dinámica, entrenamiento de inteligencia artificial, gestión de redes y orquestación de bases de datos.
 - Serverless (sin servidor) frente a "realmente sin servidor": en la arquitectura serverless, por supuesto, existen servidores físicos; el término "sin servidor" indica que el desarrollador ya no tiene que preocuparse por configurar, actualizar o supervisar un servidor, ya que la gestión del mismo se vuelve invisible gracias al proveedor.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa cloud computing y cuál es su equivalente en turco?**
 

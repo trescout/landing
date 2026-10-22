@@ -22,7 +22,7 @@ Se encuentra comúnmente en aplicaciones de terminal, herramientas de desarrollo
 
 Puede confundirse con un firewall; Bloquea los ataques desde el exterior, lo que evita errores que cometas desde el interior.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Esta protección debería estar siempre activada?**
 

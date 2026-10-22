@@ -22,7 +22,7 @@ Estos archivos siempre están en funcionamiento al instalar un juego nuevo en tu
 
 Se confunde con el código fuente; el código fuente es texto plano legible, mientras que el archivo ejecutable es el resultado que la computadora ejecuta directamente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es ejecutable cualquier archivo?**
 

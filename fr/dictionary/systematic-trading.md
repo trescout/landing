@@ -22,7 +22,7 @@ Il est utilisé sur les marchés financiers et les plateformes de trading algori
 
 Il peut être confondu avec le trading manuel ; Alors que dans le trading manuel, vous prenez la décision instantanément, ici, c'est le système qui la prend.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je trader systématiquement ?**
 

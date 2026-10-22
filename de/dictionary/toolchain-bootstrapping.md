@@ -18,7 +18,7 @@ Zunächst wird ein grundlegender Code geschrieben und dieser Code eigenständig 
 
 Es wird häufig bei der Entwicklung von Programmiersprachen-Compilern und Betriebssystem-Tools verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es so kompliziert?**
 

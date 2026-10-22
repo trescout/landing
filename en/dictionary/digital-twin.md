@@ -42,7 +42,7 @@ It is mistaken for a 3D model. That is the static picture, that is the living sy
 **Mirror:** A surface that reflects movement.
 **Shadow:** Darkness following the object.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is the simulation difference?**
 

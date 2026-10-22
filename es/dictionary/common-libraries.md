@@ -22,7 +22,7 @@ Se utiliza en casi todos los proyectos de software, como el procesamiento de dat
 
 Se puede confundir con Framework; El marco dibuja el esqueleto del proyecto y la biblioteca le ofrece solo la herramienta que necesita.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todas las bibliotecas son seguras?**
 

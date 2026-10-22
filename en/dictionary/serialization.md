@@ -83,7 +83,7 @@ In Java's native serialization mechanism (ObjectInputStream.readObject()), the c
 - Choose formats that only carry pure data and validate the data structure against the schema (JSON + Pydantic/Zod or Protobuf).
 - Implement authentication and message integrity control (HMAC or TLS) on binary data exchanges.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the main difference between Serialization and Deserialization?**
 

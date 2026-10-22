@@ -22,7 +22,7 @@ Os desenvolvedores de software atualizam dados críticos nesta estrutura central
 
 Pode ser confundido com gestão estatal; O gerenciamento de estado é o processo de gerenciamento desses dados, e o kernel do estado é o centro onde os dados residem.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se esse núcleo falhar?**
 

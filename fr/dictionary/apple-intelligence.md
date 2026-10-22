@@ -22,7 +22,7 @@ Elle est utilisée lors de la rédaction d'e-mails, de l'examen de résumés de 
 
 Elle peut être confondue avec les chatbots traditionnels basés sur le cloud ; cependant, ce système est profondément intégré au système d'exploitation de l'appareil et son objectif principal est la confidentialité locale des données personnelles.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Apple Intelligence fonctionne-t-elle sans Internet ?**
 

@@ -43,7 +43,7 @@ It is thought to be the same as speech-to-text. The technology is the same, the 
 **Minutes clerk:** Hearing minutes.
 **Archive officer:** Registry directory.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does it work in all languages?**
 

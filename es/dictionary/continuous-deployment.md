@@ -24,7 +24,7 @@ Aplicaciones web modernas, plataformas SaaS y productos digitales que requieren 
 
 Puede confundirse con Entrega Continua; En Delivery, la fase de puesta en marcha puede requerir una aprobación manual, mientras que en Deployment es completamente automática.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si cometemos un error?**
 

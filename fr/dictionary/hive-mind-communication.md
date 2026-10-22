@@ -22,7 +22,7 @@ Il est utilisé dans des systèmes où coopèrent des agents d’intelligence ar
 
 À ne pas confondre avec une simple application de messagerie ou une discussion de groupe ; Ici, les données sont traitées automatiquement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ce système rend-il tout le monde pareil ?**
 

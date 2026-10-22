@@ -22,7 +22,7 @@ It is used in the background of chatbots such as ChatGPT, in the configuration f
 
 Can be confused with user prompts; The user prompt is your current question, while the system prompt is the general character of the model.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can the user see the system prompt?**
 

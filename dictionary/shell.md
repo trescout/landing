@@ -22,7 +22,7 @@ Linux, macOS ve Windows'un tüm sistemlerinde yerleşik olarak bulunur; yazılı
 
 Terminal ile karıştırılır; terminal bu arayüzü gösteren penceredir, shell ise o pencerenin içinde çalışan komut yorumlayıcısıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Shell öğrenmek zor mu?**
 

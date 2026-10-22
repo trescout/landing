@@ -22,7 +22,7 @@ Ele é usado para monitorar a integridade de máquinas em fábricas, rastrear re
 
 Pode ser confundido com um banco de dados, mas este dispositivo é antes o hardware físico na fase de coleta de dados brutos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como um registrador de dados armazena dados?**
 

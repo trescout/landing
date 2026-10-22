@@ -22,7 +22,7 @@ Es wird häufig zur Trennung von Benutzeraktionen auf Webservern, in Anwendungen
 
 Es kommt dem Konzept der Sandbox sehr nahe; Jail ist jedoch ein traditionellerer Begriff, der sich im Allgemeinen auf die Dateisystemisolation auf Unix/Linux-Systemen konzentriert (wie Chroot oder FreeBSD Jail).
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann ein eingesperrtes Programm auf das Hauptsystem zugreifen?**
 

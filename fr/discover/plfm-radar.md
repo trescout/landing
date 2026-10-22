@@ -73,7 +73,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Chercheurs en radar, ingénieurs de l'industrie de la défense, développeurs de drones et passionnés de RF/SDR.
-- **Licence:** Açık kaynak donanım ve yazılım lisansı
+- **Licence:** Licence matérielle et logicielle open source
 - **Bande de fréquence:** 10,5 GHz (Bande X) FMCW
 - **Portée de la cible:** 3 km (Drone/Tactique) - 20 km (Surveillance de zone étendue)
 

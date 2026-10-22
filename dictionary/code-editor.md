@@ -22,7 +22,7 @@ Bilgisayarınızda veya bulutta yazılım geliştirirken kullandığınız tüm 
 
 Tüm sistemi baştan sona derleyip çalışan bir yazılıma dönüştüren büyük geliştirme ortamları olan IDE araçlarıyla karıştırılmamalıdır; editör daha odaklı ve hafiftir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kod editörü ile normal not defteri arasında ne fark var?**
 

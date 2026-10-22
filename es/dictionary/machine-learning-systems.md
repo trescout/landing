@@ -18,7 +18,7 @@ Se le dan al modelo grandes conjuntos de datos, el modelo encuentra patrones en 
 
 Se utiliza en sistemas de recomendación, detección de fraude, análisis de salud y vehículos autónomos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿En qué se diferencia de la inteligencia artificial?**
 

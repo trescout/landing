@@ -22,7 +22,7 @@ Sie stoßen darauf, wenn Sie Open-Source-Modelle teilen, Modelldateien dimension
 
 Es kann mit Rohdaten oder Programmcode verwechselt werden, aber das sind nur Erfahrungskoeffizienten, die das Modell gelernt hat.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können Modellgewichte geändert werden?**
 

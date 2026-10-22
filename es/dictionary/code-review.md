@@ -22,7 +22,7 @@ Es una práctica estándar en plataformas como GitHub, GitLab y en procesos de d
 
 A diferencia de las pruebas automatizadas que solo prueban si el código funciona, aquí entran en juego la lógica y la estética humanas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no está automatizado?**
 

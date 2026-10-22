@@ -45,7 +45,7 @@ It is thought to be a scan. Scanning is automated and superficial, whereas red t
 **Fire:** Evacuation drill.
 **Chess:** Pre-playing the opponent's move.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is this method needed?**
 

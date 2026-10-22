@@ -22,7 +22,7 @@ Os modelos de inteligência artificial aprendem a relação entre notas e instru
 
 Não deve ser confundida com a composição tradicional. Na composição, a sequência sonora é fixa, enquanto na música generativa, o processo é dinâmico e muda constantemente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A quem pertencem os direitos autorais das músicas produzidas?**
 

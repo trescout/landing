@@ -22,7 +22,7 @@ Es wird bevorzugt in mobilen Anwendungen, kleiner Desktop-Software oder Rapid-Pr
 
 Es wird mit Client-Server-basierten Datenbanken gemischt; Dieses System ist lokal, während eine Remoteverbindung erforderlich ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind diese Datenbanken für Big Data geeignet?**
 

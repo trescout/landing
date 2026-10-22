@@ -42,7 +42,7 @@ Considerado stealth. Stealth é o modo headless que escapa da proteção contra 
 **Voo cego:** Navegar por instrumentos.
 **Cozinha dos fundos:** Produção sem clientes.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que não há interface?**
 

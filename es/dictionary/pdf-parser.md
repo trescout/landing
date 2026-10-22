@@ -22,7 +22,7 @@ Se utiliza en automatización de documentos, sistemas RAG y procesos de entrada 
 
 No confundir con herramientas que simplemente copian texto; El analizador intenta preservar la estructura de los datos (tabla, encabezado, etc.).
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todos los analizadores de PDF son iguales?**
 

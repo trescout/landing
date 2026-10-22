@@ -2,16 +2,16 @@
 
 O security-audit-skill, desenvolvido pela Cloudflare, é um pacote de habilidades (skill) que permite que agentes de codificação realizem auditorias de segurança em várias etapas. Ele automatiza os padrões de segurança nos processos de desenvolvimento de software, gerando descobertas legíveis por máquina e verificadas de forma independente.
 
-- ★ 34.917
+- ★ 37.788
 - JavaScript
 - GitHub Trending · 2026-09-18
 
 ## Atualizações
 
+- **22 de outubro de 2026:** Estrelas 34,917 → 37,788.
 - **21 de outubro de 2026:** Estrelas 32,941 → 34,917.
 - **20 de outubro de 2026:** Estrelas 31,356 → 32,941.
 - **19 de outubro de 2026:** Estrelas 29,705 → 31,356.
-- **15 de outubro de 2026:** Estrelas 28,095 → 29,705.
 
 ## O que você ganha
 

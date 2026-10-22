@@ -64,7 +64,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Need to install on a medium server/computer
 - **What offers:** Personal media streaming · from any device
 - **Fee:** Completely free · ad-free
-- **License:** GPL-2.0 · ayrıntı aşağıda
+- **License:** GPL-2.0 · detail below
 
 **License:** GPL-2.0 · Completely free and free to use. If you modify and distribute the software, you must share (copyleft) your changes under the same GPL license and source code. There is no obligation if you only use it yourself.
 

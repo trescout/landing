@@ -22,7 +22,7 @@ Es ist das Herzstück der Bildverarbeitung, der Spracherkennung und moderner Mod
 
 Es wird oft mit maschinellem Lernen verwechselt; Deep Learning ist ein spezifischerer und fortgeschrittenerer Unterzweig des maschinellen Lernens.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum heißt es „tief“?**
 

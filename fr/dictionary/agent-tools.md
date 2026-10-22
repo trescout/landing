@@ -22,7 +22,7 @@ On le trouve couramment dans les assistants d’IA avancés, les plateformes d�
 
 À ne pas confondre avec l'esprit ou les poids de l'IA ; Ce sont des extensions de capacités ajoutées de l’extérieur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quels outils l’intelligence artificielle peut-elle utiliser ?**
 
@@ -36,7 +36,7 @@ Si les restrictions et autorisations appropriées ne sont pas accordées, l’in
 
 - [AI Agent](https://trescout.com/fr/dictionary/ai-agent/)
 - [Tools](https://trescout.com/fr/dictionary/tools/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)
+- [Model Context Protocol](https://trescout.com/fr/dictionary/mcp/)
 
 ## Outils liés
 

@@ -24,7 +24,7 @@ Aparece con frecuencia en tecnologías educativas, herramientas de productividad
 
 No debe confundirse simplemente con pereza o falta de motivación; Ésta es una situación de base biológica.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es el TDAH una enfermedad?**
 

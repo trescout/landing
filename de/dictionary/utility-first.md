@@ -22,7 +22,7 @@ Es wird häufig im modernen Webdesign und insbesondere in Bibliotheken wie Tailw
 
 Es kann mit dem CSS-Framework verwechselt werden; Utility-First ist eine Methode, während das CSS-Framework das Tool ist, das diese Methode implementiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Scheint der Code nicht zu überfüllt zu sein?**
 

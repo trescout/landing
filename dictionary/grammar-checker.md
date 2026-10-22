@@ -22,7 +22,7 @@ E-postalarda, akademik makalelerde, blog yazılarında ve günlük mesajlaşmala
 
 Yapay zekâ tabanlı metin yazarlarıyla karıştırılabilir; ancak bu araçlar içerik üretmekten ziyade mevcut içeriği iyileştirmeye odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Grammar checker her zaman doğru sonuç verir mi?**
 

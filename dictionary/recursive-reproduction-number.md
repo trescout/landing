@@ -22,7 +22,7 @@ Sistem önce mevcut performansını analiz eder, ardından iyileştirmeler yapar
 
 Sadece yazılım kopyalama veya yedekleme işlemleriyle karıştırılmamalıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sayı neden önemlidir?**
 

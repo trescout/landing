@@ -22,7 +22,7 @@ Se utiliza en proyectos de software complejos, desarrollo de software corporativ
 
 Puede confundirse con herramientas generales de análisis de código o servicios de indexación de código basados ​​en Internet.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se llama "primero local"?**
 

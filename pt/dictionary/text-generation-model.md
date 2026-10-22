@@ -22,7 +22,7 @@ O usuário insere um comando e o modelo cria o texto de continuação mais lógi
 
 É quase idêntico ao LLM (Large Language Model), mas este termo enfatiza que o foco está exclusivamente na produção de texto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele sempre escreve corretamente?**
 

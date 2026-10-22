@@ -22,7 +22,7 @@ It is used in logistics optimization, robotic swarms, and complex multi-agent sy
 
 It could be confused with a single massive AI model, but here the power comes from distributed structure.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why use swarms rather than a single model?**
 

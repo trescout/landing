@@ -22,7 +22,7 @@ Se prefiere obtener resultados rápidos y efectivos en lugares donde no caben mo
 
 Se confunde con la cuantización; Pero mientras la cuantificación comprime los pesos del modelo, la destilación implica entrenar un modelo completamente nuevo y más pequeño.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El modelo más pequeño tendrá tanto éxito como el modelo más grande?**
 

@@ -22,7 +22,7 @@ It is used in project management tools, multi-agent systems, and enterprise work
 
 It is the ability to assign the right job to the right resource, not just leaving the job to someone else.
 
-## Frequently asked questions
+## Questions and answers
 
 **How does artificial intelligence transfer?**
 

@@ -43,7 +43,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Fácil de ler e aplicar
 - **Formatar:** Guia completo (no GitHub)
 - **Taxa:** Livre
-- **Licença:** Belirtilmemiş · ayrıntı aşağıda
+- **Licença:** Não especificado · detalhe abaixo
 
 **Licença:** ⚠️ Nenhuma licença especificada. Pela lei de direitos autorais, isso significa “todos os direitos reservados”: a leitura e o uso pessoal são gratuitos, mas a cópia e republicação do conteúdo requer a permissão do autor.
 

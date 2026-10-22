@@ -59,10 +59,9 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Context Window Optimization](https://trescout.com/en/dictionary/context-window-optimization/)
 - [Context Window](https://trescout.com/en/dictionary/context-window/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/en/dictionary/context/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Intended for developers who heavily use AI coding agents and experience context window exhaustion in long-term projects.
 

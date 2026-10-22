@@ -22,7 +22,7 @@ Il est utilisé sur les marchés boursiers, les bourses de cryptomonnaies et les
 
 Elle peut être confondue avec l'intelligence artificielle mais n'inclut pas toujours l'intelligence artificielle ; Parfois, il s’agit simplement de simples règles « si-alors ».
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que ça rapporte toujours du profit ?**
 

@@ -31,7 +31,7 @@ La base de données vectorielles confère à ces modèles une mémoire associati
 - Oublier le filtre de métadonnées : La similarité vectorielle pure peut omettre le contexte temporel ou catégoriel ; elle doit être complétée par des filtres.
 - Ne pas anticiper le coût de la mémoire : Conserver des vecteurs de grande dimension en RAM sans compression entraîne une explosion des coûts ; une quantification doit être appliquée.
 
-## Foire aux questions
+## Questions et réponses
 
 **Les bases de données relationnelles classiques (PostgreSQL, etc.) peuvent-elles être utilisées comme bases de données vectorielles ?**
 

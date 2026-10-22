@@ -22,7 +22,7 @@ Es wird in fast jedem Softwareprojekt verwendet, beispielsweise bei der Datenver
 
 Es kann mit Framework verwechselt werden; Das Framework zeichnet das Grundgerüst des Projekts und die Bibliothek bietet Ihnen nur das Werkzeug, das Sie benötigen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist jede Bibliothek sicher?**
 

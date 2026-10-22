@@ -2,7 +2,7 @@
 
 **MarkItDown** (Microsoft); Word, PDF, PowerPoint, Excel ve daha fazlasını büyük dil modellerinin kolayca okuyabileceği **temiz Markdown** metnine çeviren hafif bir Python aracıdır. Belge içindeki başlıkları, listeleri ve tabloları koruyarak dönüştürür.
 
-- ★ 187.180
+- ★ 191.564
 - Python
 - MIT
 - GitHub Trending · 29 May 2026
@@ -11,6 +11,7 @@
 
 ## Güncelleme
 
+- **22 Ekim 2026:** Yıldız 187.180 → 191.564, son sürüm v0.1.9 (21 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 181.042 → 187.180, son sürüm v0.1.8 (21 Eylül 2026).
 - **8 Eylül 2026:** Yıldız 170.726 → 181.042, son sürüm v0.1.7 (29 Temmuz 2026).
 - **2 Ağustos 2026:** Yıldız 128.420 → 170.726, son sürüm v0.1.7 (29 Temmuz 2026).

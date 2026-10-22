@@ -22,7 +22,7 @@ Sie können dieses Tool in RAG-Systemen, die es KI-Modellen ermöglichen, aktuel
 
 Sie wird oft mit der Web-Scraping-Methode verwechselt. Während Web-Scraping das Design von Websites analysiert und Rohdaten extrahiert, ruft die Web Search API direkt die von der Suchmaschine bereitgestellten, fertigen und gefilterten Suchergebnisse ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden KI-Modelle die Web Search API?**
 

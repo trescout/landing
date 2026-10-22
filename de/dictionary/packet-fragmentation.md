@@ -22,7 +22,7 @@ Dies geschieht ständig im Hintergrund während Internetprotokollen und Netzwerk
 
 Es kann mit Datenverlust verwechselt werden, es handelt sich jedoch um einen kontrollierten Partitionierungsprozess.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn Teile verloren gehen?**
 

@@ -22,7 +22,7 @@ It is found in personal assistant apps, smart devices, and dedicated AI platform
 
 Can be confused with AI Agent; While the agent is more task-oriented, the companion is more focused on companionship and interaction.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the difference between companion models?**
 

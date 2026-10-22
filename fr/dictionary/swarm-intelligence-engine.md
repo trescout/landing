@@ -22,7 +22,7 @@ Il est utilisé dans l’optimisation logistique, les essaims robotisés et les 
 
 Il pourrait être confondu avec un seul modèle d’IA massif, mais ici la puissance vient d’une structure distribuée.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utiliser des essaims plutôt qu’un modèle unique ?**
 

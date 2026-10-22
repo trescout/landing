@@ -41,7 +41,7 @@ Special tokens that appear in the Tokenizer dictionary but appear rarely or in m
 
 For example, when tokens like SolidGoldMagikarp, derived from Reddit usernames or e-commerce site codes, are queried, the AI begins to hallucinate because it cannot correctly position the token's vector in the embedding space; it may spout nonsensical profanities or lock up.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does Tokenizer mean? What is its Turkish equivalent?**
 

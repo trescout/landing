@@ -48,11 +48,11 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Speech-to-Text](https://trescout.com/de/dictionary/speech-to-text/)
-- [STT](https://trescout.com/de/dictionary/stt/)
 - [GGUF](https://trescout.com/de/dictionary/gguf/)
 - [Inference](https://trescout.com/de/dictionary/inference/)
 - [CPU](https://trescout.com/de/dictionary/cpu/)
 - [GPU](https://trescout.com/de/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Entwickler, die datenschutzorientierte und schnelle Spracherkennungssysteme auf ihrer eigenen Hardware ausführen möchten.
 - **Lizenz:** MIT

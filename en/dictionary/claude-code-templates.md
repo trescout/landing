@@ -41,7 +41,7 @@ Rule: The skeleton is the beginning, not the rulebook. As the project grows, the
 **Tailor pattern:** Cutting template according to size.
 **Recipe:** Modest starter set.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can the templates be customized?**
 

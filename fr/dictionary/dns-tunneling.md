@@ -22,7 +22,7 @@ Il est utilisé pour accéder à Internet lors d’attaques de cybersécurité o
 
 Il peut être confondu avec le VPN, mais le VPN crypte tout le trafic tandis que le tunneling DNS utilise uniquement les requêtes d'adresse.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cette méthode est-elle sûre ?**
 

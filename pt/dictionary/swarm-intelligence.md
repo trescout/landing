@@ -22,7 +22,7 @@ Enxames autônomos de drones são usados ​​na otimização logística e em s
 
 Não deve ser confundido com uma única superinteligência; Aqui a inteligência não está em um único ponto, mas na interação de todo o rebanho.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Se uma unidade falhar, o sistema travará?**
 

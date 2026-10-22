@@ -22,7 +22,7 @@ Fabrikalarda makine sağlığını izlemek, laboratuvarlarda deney sonuçların�
 
 Veritabanı ile karıştırılabilir ancak bu cihaz daha çok ham veriyi toplama aşamasındaki fiziksel donanımdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Data logger veriyi nasıl saklar?**
 

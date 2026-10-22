@@ -22,7 +22,7 @@ Akademik çalışmalarda, veri analiz projelerinde ve yeni bir teknoloji gelişt
 
 Sadece bir proje yönetim aracı değildir; daha çok bilimsel veya teknik bir keşif sürecinin metodolojisidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bir çerçeveye ihtiyacım var?**
 

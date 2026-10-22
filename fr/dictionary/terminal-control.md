@@ -22,7 +22,7 @@ Il est largement utilisé dans les processus de développement de logiciels, de 
 
 C'est la même chose que le concept de CLI (Command Line Interface) ; le contrôle du terminal fait référence au processus d'utilisation actif de cette interface.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi tout le monde n’utilise-t-il pas le terminal ?**
 

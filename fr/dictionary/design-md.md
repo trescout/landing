@@ -22,7 +22,7 @@ Vous le rencontrerez souvent dans des projets open source ou des référentiels 
 
 Il peut être confondu avec le fichier README.md ; Alors que README vous indique comment exécuter le projet, DESIGN.md explique pourquoi le projet a été conçu de cette façon.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ai-je besoin d’un fichier de conception séparé ?**
 

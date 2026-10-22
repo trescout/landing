@@ -22,7 +22,7 @@ It is used in optimizations performed to fit artificial intelligence models onto
 
 Unlike quantization, which simplifies numbers to reduce the model's size, pruning directly deletes unnecessary connections.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does pruning decrease the intelligence of AI?**
 

@@ -39,7 +39,7 @@ Wird mit PPI verwechselt. DPI ist der Tintenpunkt im Druck, PPI ist das Pixel au
 **Mosaik:** Anzahl der Steine pro Flächeneinheit.
 **Druckdatum:** Zeitungst لمن (Rasterweite) und Offset-Punktdichte.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn der DPI-Wert hoch ist?**
 

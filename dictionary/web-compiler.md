@@ -22,7 +22,7 @@ Kod öğrenme platformlarında, hızlı prototipleme yaparken veya bilgisayarın
 
 Yerel derleyicilerle karıştırılabilir; yerel olanlar bilgisayarınızın gücünü kullanırken web compiler interneti kullanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bilgisayarımda kod dosyası tutmama gerek var mı?**
 

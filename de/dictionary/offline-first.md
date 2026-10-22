@@ -22,7 +22,7 @@ Es wird häufig in Notizanwendungen beim Fahren in der U-Bahn, in Auftragsverfol
 
 Es wird mit dem Offline-Betriebsmodus verwechselt: Während der Offline-Modus nur darauf abzielt, Fehler zu verhindern, wenn kein Internet vorhanden ist, basiert der Offline-First-Ansatz das Hauptarbeitsprinzip der Anwendung vollständig auf lokalen Daten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn offline vorgenommene Änderungen online mit den Daten anderer Benutzer in Konflikt geraten?**
 

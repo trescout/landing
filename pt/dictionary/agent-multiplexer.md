@@ -22,7 +22,7 @@ Ele analisa a demanda recebida, sabe qual agente tem qual talento e passa a tare
 
 É semelhante aos sistemas multiagentes, mas aqui o mecanismo de 'roteamento' (multiplexação) está na vanguarda.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usamos vários agentes em vez de um único agente?**
 

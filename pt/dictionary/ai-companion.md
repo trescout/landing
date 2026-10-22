@@ -22,7 +22,7 @@ Você pode encontrá-lo em smartphones, em aplicativos especiais de bate-papo ou
 
 Difere dos assistentes de inteligência artificial que trabalham apenas orientados para tarefas pela sua capacidade de estabelecer vínculos emocionais.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O AI Companion realmente me entende?**
 

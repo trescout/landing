@@ -22,7 +22,7 @@ Es wird in der medizinischen Welt und in neurologischen Kliniken eingesetzt. Es 
 
 Es sollte nicht mit bloßem Vergessen verwechselt werden; Während Vergesslichkeit vorübergehend sein kann, ist Demenz ein dauerhafter und fortschreitender Prozess.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind Demenz und Alzheimer dasselbe?**
 

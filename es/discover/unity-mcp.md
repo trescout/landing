@@ -27,8 +27,6 @@ Abra su proyecto de Unity y vaya a la ventana del Administrador de paquetes. Hag
 
 ## Términos relacionados del glosario
 
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/es/dictionary/context/)
 - [Large Language Models](https://trescout.com/es/dictionary/large-language-models/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)

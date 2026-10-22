@@ -22,7 +22,7 @@ Uma regra 'se não funcionar, faça isto' está incorporada no software. O siste
 
 É semelhante ao tratamento de erros; No entanto, o fallback automático refere-se diretamente a uma solução alternativa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Esse recurso causa lentidão?**
 

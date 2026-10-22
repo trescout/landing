@@ -22,7 +22,7 @@ Yazılım dünyasında alternatif araçlar geliştirilirken veya belirli bir yaz
 
 Sadece 'Clone' terimi ile karıştırılabilir ancak bu terim özellikle açık kaynaklı ve topluluk odaklı olanları kapsar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Açık kaynak kopyalar yasal mı?**
 

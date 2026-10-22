@@ -53,7 +53,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Moyen · configuration + liaison de compte
 - **Quelles offres:** Téléchargement automatique de vidéos sur plusieurs plateformes
 - **Frais:** Open source (voir note de licence)
-- **Licence:** Belirtilmemiş · ayrıntı aşağıda
+- **Licence:** Non précisé · détail ci-dessous
 
 **Licence:** ⚠️ Aucune licence n'est précisée dans le repo ; la valeur par défaut est « tous droits réservés ». Vous pouvez le rechercher pour essayer, mais sa réutilisation nécessite l'autorisation expresse de l'auteur.
 

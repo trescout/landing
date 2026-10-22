@@ -22,7 +22,7 @@ Gizlilik gerektiren not alma uygulamalarında, seyahat halindeki profesyonelleri
 
 Voice-to-text ile aynıdır ancak internete ihtiyaç duymamasıyla ayrılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **İnternet yoksa nasıl bu kadar akıllı çalışabiliyor?**
 

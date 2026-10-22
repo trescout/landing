@@ -20,7 +20,7 @@ Gönderici veri paketini yollar ve bir onay bekler. Eğer belirli bir sürede on
 
 TCP protokolü gibi internetin temel iletişim kurallarında ve ağ protokollerinde kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kadar önemli?**
 

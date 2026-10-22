@@ -22,7 +22,7 @@ Es wird auf Netflix, Spotify oder Live-Übertragungsplattformen verwendet.
 
 Es wird mit Download verwechselt; Beim Herunterladen können Sie nicht schauen, ohne die gesamte Datei zu kaufen, während Sie beim Streaming sofort loslegen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn meine Internetgeschwindigkeit langsam ist?**
 

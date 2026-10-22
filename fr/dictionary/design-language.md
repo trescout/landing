@@ -22,7 +22,7 @@ Il est utilisé sur les sites Internet, les applications mobiles et toutes les p
 
 Ce n'est pas seulement un thème visuel, c'est un système qui couvre toute la logique d'interaction d'un produit.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce important ?**
 

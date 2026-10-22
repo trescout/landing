@@ -22,7 +22,7 @@ Il est utilisé dans les véhicules autonomes, les robots intelligents dans les 
 
 Contrairement aux intelligences virtuelles qui fonctionnent uniquement dans un environnement logiciel, elles nécessitent absolument un corps physique ou du matériel.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que cela peut nuire aux gens ?**
 

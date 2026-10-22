@@ -22,7 +22,7 @@ Es wird in Softwareentwicklungsumgebungen (IDE) wie VS Code und IntelliJ verwend
 
 Es kann mit „AI Coding Agent“ verwechselt werden, der Code völlig selbstständig schreibt; Assistenten arbeiten normalerweise unter Ihrer Kontrolle.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Werden diese Tools Softwareentwickler ersetzen?**
 

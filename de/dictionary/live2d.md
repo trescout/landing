@@ -22,7 +22,7 @@ Es wird in virtuellen YouTuber (VTuber)-Sendungen, Handyspielen und interaktiven
 
 Kann mit vollständiger 3D-Modellierung gemischt werden; Live2D ist im Wesentlichen eine clevere Manipulation von 2D-Zeichnungen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Benötige ich 3D-Kenntnisse, um Live2D zu erstellen?**
 

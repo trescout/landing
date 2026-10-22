@@ -22,7 +22,7 @@ O modelo reconhece padrões com base em alguns exemplos dados a ele. Esses exemp
 
 Misturado com ajuste fino; Embora o ajuste fino altere a estrutura do modelo, o método de poucos disparos simplesmente adiciona exemplos ao comando atual.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quantos exemplos são suficientes?**
 

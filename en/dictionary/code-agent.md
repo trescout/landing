@@ -22,7 +22,7 @@ It is used in modern code editors, automated software testing processes, and mai
 
 It can be confused with simple AI tools or 'AI Coding Assistant' that just complete code; agents are more autonomous.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will code agents replace software developers?**
 

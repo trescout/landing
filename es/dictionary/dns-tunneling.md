@@ -22,7 +22,7 @@ Se utiliza para acceder a Internet en ataques de ciberseguridad o redes restring
 
 Puede confundirse con VPN, pero VPN cifra todo el tráfico, mientras que el túnel DNS solo utiliza consultas de direcciones.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es este método seguro?**
 

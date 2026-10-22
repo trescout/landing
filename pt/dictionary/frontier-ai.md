@@ -36,7 +36,7 @@ Acredita-se que seja AGI. Frontier é o melhor hoje, AGI é a inteligência gera
 **Everest:** A rota do cume do montanhismo.
 **Aeronave experimental:** Plataforma de teste de limite.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Todos podem usar?**
 

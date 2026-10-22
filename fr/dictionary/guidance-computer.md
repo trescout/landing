@@ -22,7 +22,7 @@ Il est utilisé dans les véhicules aériens sans pilote (drones), les voitures 
 
 Ce n'est pas seulement un appareil GPS ; décide et gère activement le véhicule.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il s'il fait une erreur ?**
 

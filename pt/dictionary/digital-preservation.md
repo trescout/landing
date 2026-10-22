@@ -22,7 +22,7 @@ Os dados são verificados regularmente, cópias são armazenadas em diferentes l
 
 É confundido com uma simples operação de backup. O backup consiste em copiar os dados em seu estado atual; este processo, por sua vez, consiste em planejar como esses dados serão abertos mesmo em computadores daqui a 50 anos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como posso aplicar isso às minhas próprias fotos em casa?**
 
@@ -36,7 +36,7 @@ O armazenamento em nuvem é uma boa ferramenta, mas é importante não depender 
 
 - [Backup Program](https://trescout.com/pt/dictionary/backup-program/)
 - [Incremental Backup](https://trescout.com/pt/dictionary/incremental-backup/)
-- [Personal Knowledge Management](https://trescout.com/pt/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/pt/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/pt/dictionary/personal-knowledge-management/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/digital-preservation/)

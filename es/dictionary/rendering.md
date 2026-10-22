@@ -37,7 +37,7 @@ La velocidad de fotogramas (FPS) determina la experiencia: a medida que el valor
 **Arquitectura:** Representación tridimensional realista del proyecto (pl an general).
 **Cine:** Cálculo fotograma a fotograma de los efectos de postproducción.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué el renderizado podría ser lento?**
 

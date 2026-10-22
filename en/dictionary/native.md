@@ -22,7 +22,7 @@ We encounter them in app stores on smartphones, in operating system-level softwa
 
 Web-based applications or hybrid applications use an intermediary layer, such as a browser, to communicate with the device.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is a native application always better?**
 

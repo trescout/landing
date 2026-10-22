@@ -22,7 +22,7 @@ Yazılım geliştirme süreçlerinde, karmaşık veri analizlerinde ve otonom i�
 
 Tek bir yapay zekâ modelinden farklı olarak, burada bir ekip çalışması ve iş bölümü söz konusudur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tek model yetmiyor?**
 

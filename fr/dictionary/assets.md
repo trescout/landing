@@ -47,7 +47,7 @@ Code : Il s'agit de la logique, des algorithmes et des fonctions qui déterminen
 Asset (Actif) : Éléments multimédias visuels, sonores ou stylistiques consommés par le code et présentés à l'utilisateur (ressource statique).
 Données : Il s'agit d'informations variables saisies par les utilisateurs dans le système ou générées dynamiquement dans la base de données (état dynamique).
 
-## Foire aux questions
+## Questions et réponses
 
 **Qu'est-ce qu'un asset et que signifie-t-il dans le domaine du logiciel ?**
 

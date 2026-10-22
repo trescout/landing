@@ -22,7 +22,7 @@ Es funktioniert auf API-Gateways, Microservice-Architekturen und AI-Modell-Route
 
 Es handelt sich nicht um eine Datenbank, die Daten direkt speichert; Er ist nur ein Verkehrspolizist, der den Verkehr verwaltet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was macht die Routing-Schicht?**
 

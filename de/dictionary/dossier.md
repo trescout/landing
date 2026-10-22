@@ -22,7 +22,7 @@ Es wird in der Geheimdienstanalyse, im Projektmanagement und in der umfassenden 
 
 Es kann mit einem Ordner verwechselt werden, aber ein Dossier ist nicht nur eine Datei, sondern ein analysierter Informationsbestand.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist das Erstellen einer Datei wichtig?**
 

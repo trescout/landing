@@ -24,7 +24,7 @@ Está activo en todos los medios digitales, como plataformas de redes sociales, 
 
 No es lo mismo que el marketing; el marketing es la estrategia, mientras que la tecnología publicitaria son las herramientas técnicas que implementan dicha estrategia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Afecta a mi privacidad?**
 

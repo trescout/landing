@@ -22,7 +22,7 @@ Es una parte integral del proceso de desarrollo de software en lenguajes como C+
 
 Se mezcla con el tiempo de ejecución; El tiempo de compilación es la fase de búsqueda de errores, el tiempo de ejecución puede ser la fase de búsqueda de errores.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué son importantes los errores en tiempo de compilación?**
 

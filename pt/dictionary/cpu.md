@@ -24,7 +24,7 @@ Está no centro de todos os tipos de dispositivos digitais, desde smartphones at
 
 Misturado com GPU; Enquanto a GPU lida com tarefas visuais e paralelas, a CPU lida com tarefas lógicas gerais.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa núcleo da CPU?**
 

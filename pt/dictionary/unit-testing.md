@@ -22,7 +22,7 @@ Os desenvolvedores escrevem cenários de teste específicos para cada parte do c
 
 Pode ser confundido com testes ponta a ponta; Embora teste todo o sistema, o teste unitário concentra-se em apenas uma parte.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo testar cada parte?**
 

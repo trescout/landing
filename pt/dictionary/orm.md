@@ -24,7 +24,7 @@ Funciona como uma camada entre o banco de dados e o código da aplicação. Quan
 
 Pode ser confundido com o driver do banco de dados; O driver fornece a conexão bruta, enquanto o ORM facilita essa conexão.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo usar o ORM?**
 

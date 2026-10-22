@@ -22,7 +22,7 @@ Seyahat uygulamalarında, etkinlik platformlarında veya kişisel dijital asista
 
 Basit bir arama motoru ile karıştırılabilir, ancak bu asistan işlemi 'tamamlama' yeteneğine sahiptir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Güvenli midir?**
 

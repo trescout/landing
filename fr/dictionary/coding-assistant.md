@@ -22,7 +22,7 @@ Il est utilisé dans les projets logiciels quotidiens, lors de l'apprentissage d
 
 Il peut être confondu avec « AI Agent » qui réalise l'ensemble du projet de manière totalement autonome ; L'assistant agit généralement sous votre direction.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce qu'il écrit tout le code ?**
 

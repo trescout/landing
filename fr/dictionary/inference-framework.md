@@ -22,7 +22,7 @@ Il est utilisé lors de la mise en place de services API d'intelligence artifici
 
 Il est confondu avec les frameworks d'entraînement (PyTorch, TensorFlow, etc.) ; alors que les frameworks d'entraînement se concentrent sur l'apprentissage des poids et la rétropropagation, les frameworks d'inférence maximisent uniquement la vitesse de réponse du modèle déjà prêt.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi préférer un framework d'inférence plutôt que d'utiliser directement PyTorch ?**
 

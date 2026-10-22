@@ -22,7 +22,7 @@ Se utiliza en direcciones diarias, gestión de mensajería y logística, búsque
 
 A diferencia de los proyectos de mapas de código abierto e impulsados ​​por la comunidad, como OpenStreetMap, es un ecosistema comercial y de código cerrado propiedad de Google.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo sabe Google Maps instantáneamente la densidad del tráfico?**
 

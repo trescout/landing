@@ -22,7 +22,7 @@ It is used in operating systems, office programs and professional software devel
 
 Can be confused with web applications; While web applications depend on the browser, the desktop client runs independently.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is a desktop app always better?**
 

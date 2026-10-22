@@ -22,7 +22,7 @@ Se encuentra en fábricas de producción, vehículos autónomos y automatizació
 
 A diferencia de los proyectos de software puro, incluye hardware físico y mecánico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es su relación con la inteligencia artificial?**
 

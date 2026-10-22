@@ -43,7 +43,7 @@ Se confunde con pipeline. Pipeline es un flujo de datos técnico, workflow es un
 **Montaje:** Secuencia de piezas.
 **Mostrador:** Registro y enrutamiento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué automatizar?**
 

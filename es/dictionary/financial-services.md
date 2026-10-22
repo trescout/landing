@@ -22,7 +22,7 @@ Lo encontrará en aplicaciones de banca móvil, plataformas de bolsa y portales 
 
 No es directamente una herramienta o programa de software; Se refiere al área sectorial general atendida por las tecnologías financieras.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo se relacionan los servicios financieros con el software?**
 

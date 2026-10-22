@@ -41,7 +41,7 @@ Spezielle Token, die im Tokenizer-Wörterbuch erscheinen, während des Vortraini
 
 Wenn das Modell beispielsweise nach Token wie SolidGoldMagikarp gefragt wird, die von Benutzernamen in Reddit-Foren oder Codes auf E-Commerce-Websites abgeleitet werden; Da die künstliche Intelligenz den Vektor dieses Tokens nicht richtig im Einbettungsraum positionieren kann, beginnt sie zu halluzinieren, kann bedeutungslose Flüche von sich geben oder sich verriegeln.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Tokenizer und was ist die deutsche Entsprechung?**
 

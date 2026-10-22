@@ -22,7 +22,7 @@ Yeni bir temel model yayımlandığında teknik raporlarda, açık kaynak modell
 
 Genel donanım testleriyle (benchmark) karıştırılmamalıdır. Klasik testler işlemci ve bellek hızını ölçerken, yapay zekâ kıyaslama testleri modelin anlama ve mantık yürütme kalitesini ölçer.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Modeller test sorularını ezberleyebilir mi?**
 

@@ -22,7 +22,7 @@ Es wird häufig in Softwareentwicklungsumgebungen, den Entwicklertools von Webbr
 
 Es kann mit einem Compiler verwechselt werden. Während ein Compiler den gesamten Code in Maschinensprache übersetzt, konzentriert sich ein debugger darauf, logische Fehler im laufenden Code zu finden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann ich keine Fehler beheben, ohne einen Debugger zu verwenden?**
 

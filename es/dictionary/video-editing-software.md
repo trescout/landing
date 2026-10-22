@@ -22,7 +22,7 @@ Se utiliza con frecuencia en la producción cinematográfica, la producción de 
 
 Se diferencia de los reproductores multimedia que sólo reproducen vídeo; Sirve para cambiar y producir contenidos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo ha afectado la inteligencia artificial a estos software?**
 

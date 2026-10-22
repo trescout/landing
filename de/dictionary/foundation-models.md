@@ -22,7 +22,7 @@ Sie werden in Texterstellungstools, Codierungshilfen, Visualisierungsplattformen
 
 Sie werden oft mit Modellen mit begrenztem Anwendungsbereich verwechselt, die nur für eine Aufgabe ausgebildet sind.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist der Unterschied zwischen einem Basismodell und einem gewöhnlichen Modell der künstlichen Intelligenz?**
 

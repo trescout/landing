@@ -40,7 +40,7 @@ Ancak bu otonomi devasa güvenlik ve etik sorumluluklar getirir. Kendi kendine f
 
 - **Basit İşlerde Ajan Kullanmak:** Tek bir prompt ile halledilecek görevlerde gereksiz ajan kümeleri kurmak maliyeti ve gecikmeyi artırır.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Agentic AI ile sıradan bir yapay zekâ sohbet botu (Chatbot) arasındaki temel fark nedir?**
 

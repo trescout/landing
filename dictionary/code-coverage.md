@@ -18,7 +18,7 @@ Yazılım geliştirme sürecinde otomatik test araçları çalıştırılır. Bu
 
 Yazılım geliştirme süreçlerinde, CI/CD hatlarında ve kalite kontrol raporlarında kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yüzde yüz kod kapsamı her zaman iyi midir?**
 

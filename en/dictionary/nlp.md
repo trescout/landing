@@ -24,7 +24,7 @@ It appears every day in autocorrect features, customer service chatbots, and tra
 
 It is often confused with just language translation, but NLP covers much broader processes such as text summarization and sentiment analysis.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can NLP understand every language?**
 

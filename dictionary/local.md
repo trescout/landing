@@ -62,7 +62,7 @@ Yapay zekânın yükselişiyle birlikte "local" kavramı kurumsal güvenlik ve g
 
 - **Cloud (Bulut / SaaS):** Tüm donanım ve veri üçüncü taraf bir şirketin veri merkezindedir; yüksek erişilebilirlik sunar ancak sürekli internet ve gizlilik tavizi gerektirir.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Local ne demek ve bilişimdeki karşılığı nedir?**
 

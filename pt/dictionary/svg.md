@@ -24,7 +24,7 @@ Ele é criado usando um programa de design gráfico ou escrevendo código. Seu c
 
 É misturado com formatos de imagem baseados em pixels, como JPEG ou PNG.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o SVG permanece claro em qualquer tamanho?**
 

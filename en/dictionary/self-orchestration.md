@@ -22,7 +22,7 @@ It is used in autonomous agents, complex software development processes, and dat
 
 It is confused with simple automation, whereas this method involves dynamics and decision-making ability.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if he makes a mistake?**
 

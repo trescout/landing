@@ -2,12 +2,13 @@
 
 VeraCrypt é uma ferramenta de criptografia de disco desenvolvida com base em TrueCrypt e oferece fortes padrões de segurança. Escrito em C, este software de código aberto usa vários algoritmos de criptografia e métodos de autenticação para proteger os dados.
 
-- ★ 10.906
+- ★ 11.909
 - C
 - GitHub Trending · 2026-06-30
 
 ## Atualizações
 
+- **22 de outubro de 2026:** Estrelas 10,906 → 11,909, versão mais recente VeraCrypt_1.26.29 (12 de junho de 2026).
 - **2 de agosto de 2026:** Estrelas 10,574 → 10,906, versão mais recente VeraCrypt_1.26.29 (12 de junho de 2026).
 
 ## O que você ganha

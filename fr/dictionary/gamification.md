@@ -35,7 +35,7 @@ Point de prudence : Si la série et les notifications se transforment en pressio
 **Vie professionnelle :** Niveaux de bonus et titres de champions des ventes.
 **Commerce de détail :** Cartes de fidélité et réductions échelonnées.
 
-## Foire aux questions
+## Questions et réponses
 
 **Tout peut-il être gamifié ?**
 

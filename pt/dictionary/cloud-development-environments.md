@@ -24,7 +24,7 @@ Você acessa a plataforma correspondente no navegador, seus arquivos de projeto 
 
 Pode ser confundido apenas com uma área de trabalho remota; no entanto, este sistema é otimizado especificamente para escrever código.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece com meus códigos se meu computador quebrar?**
 

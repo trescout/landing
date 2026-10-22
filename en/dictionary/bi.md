@@ -46,7 +46,7 @@ It is considered data analytics. Analytical asks questions, BI gives regular ans
 **Dashboard:** Speed ​​and fuel information.
 **Weather:** Generating predictions from measurement.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is BI important?**
 

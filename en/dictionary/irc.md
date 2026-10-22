@@ -24,7 +24,7 @@ It is used in open source software projects, technical support groups, and nosta
 
 The difference from modern tools like Discord or Slack is that it doesn't have visual or file sharing features.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is IRC safe?**
 

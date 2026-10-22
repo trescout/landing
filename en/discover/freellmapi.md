@@ -86,7 +86,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
 
 - **Who it is for:** AI developers, open-source researchers, full-stack engineers, and prototype developers.
-- **License:** MIT (Özgür açık kaynak lisansı)
+- **License:** MIT (Free open source license)
 - **Framework:** TypeScript / Node.js Reverse Proxy
 - **Platforms:** Docker, Linux, macOS, Windows
 

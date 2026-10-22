@@ -22,7 +22,7 @@ O sistema utiliza os recursos do computador host com muito cuidado, transformand
 
 Pode ser confundido com máquinas virtuais completas (máquinas virtuais), mas elas inicializam muito mais rápido.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo escolher o leve?**
 

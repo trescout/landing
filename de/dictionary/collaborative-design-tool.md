@@ -22,7 +22,7 @@ Es wird bei der Erstellung von Website-Prototypen, der Gestaltung mobiler Anwend
 
 Es wird mit klassischen Grafikdesign-Programmen verwechselt: Während klassische Programme auf einem einzelnen Computer laufen und eine Dateifreigabe erfordern, konzentrieren sich Kollaborationstools vollständig auf die Online- und gleichzeitige Zusammenarbeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss ich Code kennen, um diese Tools verwenden zu können?**
 

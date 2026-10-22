@@ -22,7 +22,7 @@ O sistema verifica constantemente seu código enquanto você o escreve. Se você
 
 Não é apenas uma “mensagem de erro”; Este é o princípio básico de funcionamento da própria linguagem de programação.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que nem todo mundo usa?**
 

@@ -47,7 +47,7 @@ Se confunde con una prueba unitaria. Una mira esa pieza, la otra mira el todo. U
 **Ensayo:** Repaso general.
 **Final:** Ensayo de transmisión.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no se hace solo esto?**
 

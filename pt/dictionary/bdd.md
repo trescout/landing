@@ -24,7 +24,7 @@ Primeiro, o comportamento esperado do sistema é escrito como 'Se o usuário fiz
 
 Pode ser confundido com TDD; Enquanto o TDD se concentra na robustez do código, o BDD se concentra no comportamento da função aos olhos do usuário.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o BDD é importante?**
 

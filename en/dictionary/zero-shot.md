@@ -22,7 +22,7 @@ It is used in LLM-based applications, rapid prototyping processes, and systems t
 
 It can be confused with few-shot learning; while you give the model a few examples in few-shot, you do not give any examples in zero-shot.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it always work correctly?**
 

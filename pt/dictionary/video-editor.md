@@ -22,7 +22,7 @@ Primeiro você carrega seus arquivos brutos no programa. Depois você organiza, 
 
 Os softwares de edição de vídeo costumam ser confundidos com players que apenas assistem a vídeos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É necessário ser profissional para usar editor de vídeo?**
 

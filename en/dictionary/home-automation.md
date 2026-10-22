@@ -44,7 +44,7 @@ The house is a person's most private shelter; Connecting this refuge to the Inte
 - Remote Control vs Automation: Turning on the lighting by pressing a button on the phone is not automation; Automation is when the system interprets environmental sensor data and makes the decision on its own.
 - Cloud Dependent vs Local Control: Cloud-based devices may become dysfunctional when the internet goes out and become garbage when the manufacturing company goes out of business; Locally controlled (Matter/Zigbee/Home Assistant) systems work forever, independent of the internet.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does home automation mean and what is its Turkish equivalent?**
 

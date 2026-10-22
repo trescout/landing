@@ -36,7 +36,7 @@ As etapas básicas de engenharia por trás dos sistemas de voz para voz são as 
 - Assistentes com Interação Emocional: Auxiliares que não se limitam a receber comandos, mas compreendem a tristeza, a pressa ou a alegria na voz do usuário, respondendo com um tom compassivo ou enérgico adequado.
 - Dublagem e Produção de Mídia: Adaptação automática das vozes dos atores e da sincronização labial para outros idiomas, sem distorcer a emoção e o tom originais.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa Speech-to-Speech e como funciona?**
 
@@ -56,7 +56,7 @@ A tecnologia de clonagem de voz realista traz o risco de falsificação de ident
 
 ## Termos relacionados
 
-- [STT](https://trescout.com/pt/dictionary/stt/)
+- [STT](https://trescout.com/pt/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/pt/dictionary/speech-to-text/)
 - [Voice Cloning](https://trescout.com/pt/dictionary/voice-cloning/)
 - [Whisper](https://trescout.com/pt/dictionary/whisper/)

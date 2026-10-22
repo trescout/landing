@@ -24,7 +24,7 @@ Planejamento urbano, roteamento logístico, projetos de proteção ambiental e g
 
 Não deve ser confundido apenas com uma ferramenta de navegação como o Google Maps; it only shows the result, GIS is the kitchen of data.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O GIS é apenas um mapa?**
 

@@ -22,7 +22,7 @@ Es wird verwendet, um den Maschinenzustand in Fabriken zu überwachen, Versuchse
 
 Es kann mit einer Datenbank verwechselt werden, aber bei diesem Gerät handelt es sich eher um die physische Hardware in der Phase der Rohdatenerfassung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie speichert ein Datenlogger Daten?**
 

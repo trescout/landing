@@ -24,7 +24,7 @@ Se utiliza en sitios de comercio electrónico, campañas de marketing digital y 
 
 No se trata sólo de atraer más visitantes (SEO), sino de utilizarlos de manera eficiente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Da resultados rápidos?**
 

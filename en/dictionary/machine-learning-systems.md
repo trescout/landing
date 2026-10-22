@@ -18,7 +18,7 @@ Large data sets are given to the model, the model finds patterns in this data an
 
 It is used in recommendation systems, fraud detection, health analysis and autonomous vehicles.
 
-## Frequently asked questions
+## Questions and answers
 
 **How is it different from artificial intelligence?**
 

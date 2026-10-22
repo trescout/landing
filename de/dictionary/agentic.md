@@ -22,7 +22,7 @@ Es wird in autonomen Softwareentwicklungstools, persönlichen Assistenten und ko
 
 Es kann mit gewöhnlichen KI-Modellen verwechselt werden; Gelegenheitsmodels beantworten nur die Frage, Agentenmodels erledigen den Job.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Könnte das gefährlich sein?**
 

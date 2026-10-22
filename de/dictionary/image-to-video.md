@@ -22,7 +22,7 @@ Es wird in Plattformen für kreative Inhalte, Videobearbeitungstools und KI-gest
 
 Es kann mit Videobearbeitung verwechselt werden; Diese Technologie bearbeitet nicht, sondern produziert bewegte Bilder von Grund auf.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann aus jeder Art von Bild ein Video gemacht werden?**
 

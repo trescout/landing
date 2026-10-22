@@ -40,7 +40,7 @@ Es wird angenommen, dass es sich um einen Stuhl handelt. Der CEO führt aus, der
 **Orchester:** Der Dirigent gibt das Tempo vor.
 **Trainer:** Der Trainer, der den Kader zusammengestellt hat.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Mischt sich der CEO in alles ein?**
 

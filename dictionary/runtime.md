@@ -29,7 +29,7 @@ Yazılım mühendisliğinde "Runtime" sözcüğü bağlama göre iki farklı kav
 
 *Compile-time bir binanın mimari çizimlerinin ve statik hesaplarının mühendis tarafından masada kontrol edilmesidir; bir hata varsa kâğıt üzerindeyken düzeltilir. Runtime ise o binanın inşa edilip içine insanların yerleştiği andır; deprem, su baskını veya aşırı yük gibi öngörülemeyen olaylar ancak bu aşamada binayı sınar.*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Runtime ne demek, Türkçe karşılığı nedir?**
 

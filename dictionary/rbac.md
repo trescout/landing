@@ -24,7 +24,7 @@ Kurumsal yazılımlarda, bulut sistemlerinde ve veri tabanı yönetiminde kullan
 
 SSO (Single Sign-On) ile karıştırılabilir; SSO giriş yapma yöntemidir, RBAC ise giriş yaptıktan sonraki yetkilerinizdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden RBAC kullanmalıyım?**
 

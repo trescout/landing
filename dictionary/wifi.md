@@ -24,7 +24,7 @@ Evlerde, iş yerlerinde ve toplu alanlarda internet erişimi için kullanılır.
 
 İnternetin kendisiyle karıştırılabilir, ancak WiFi sadece interneti size ulaştıran bir taşıma yöntemidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **WiFi neden yavaşlar?**
 

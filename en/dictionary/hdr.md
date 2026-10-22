@@ -24,7 +24,7 @@ It is used in games, video editing software, and modern displays.
 
 It is often confused with just increasing brightness; HDR is about detail and contrast quality rather than brightness.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do all screens support HDR?**
 

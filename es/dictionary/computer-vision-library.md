@@ -22,7 +22,7 @@ Se utiliza en cámaras de seguridad, vehículos autónomos y sistemas de reconoc
 
 Puede confundirse con el software de procesamiento de imágenes, pero es una biblioteca, por lo que es una herramienta de desarrollo, no una interfaz de usuario final.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden estas bibliotecas verlo todo?**
 

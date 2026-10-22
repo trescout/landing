@@ -33,7 +33,7 @@ Prendre pour un moteur de recherche : les modèles ne sont pas des bases de conn
 - Ignorer l'hallucination : au lieu d'envoyer les résultats directement en production, ils doivent être supervisés par des couches de RAG et de garde-fous.
 - Choisir un modèle inutilement grand : Plutôt que d'exécuter un modèle de 70B+ pour de simples classifications, il est préférable de privilégier des SLM optimisés.
 
-## Foire aux questions
+## Questions et réponses
 
 **Les grands modèles linguistiques (LLM) pensent-ils ou comprennent-ils vraiment ?**
 

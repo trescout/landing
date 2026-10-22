@@ -24,7 +24,7 @@ Il est utilisé dans le suivi des blogs, les sites d’actualités et les platef
 
 Il peut être confondu avec Newsletter, mais RSS est entièrement sous votre contrôle et ne nécessite pas de courrier électronique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le RSS est-il mort ?**
 

@@ -24,7 +24,7 @@ Se utiliza en aplicaciones meteorológicas para recuperar datos del centro meteo
 
 Se confunde con el sitio web en sí, pero la API está diseñada para que las máquinas hablen con las máquinas, no con los humanos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cualquiera puede usar la API?**
 

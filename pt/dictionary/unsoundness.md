@@ -22,7 +22,7 @@ Os desenvolvedores podem ignorar alguns cenários extremos ao projetar ou otimiz
 
 Difere de simples erros de programação (bugs); significa que a promessa fundamental de confiabilidade da linguagem foi abalada em sua base.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso ocorre em todas as linguagens de software?**
 

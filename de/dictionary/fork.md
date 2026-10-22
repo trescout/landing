@@ -22,7 +22,7 @@ Es wird verwendet, wenn Sie zu Open-Source-Projekten beitragen oder wenn Sie ein
 
 Es sollte nicht mit dem Klonvorgang verwechselt werden, bei dem das Projekt lediglich auf den Computer heruntergeladen und untersucht wird. Durch den Fork-Prozess entsteht neues, unabhängiges Eigentum auf der Serverseite.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Erhalte ich nach dem Fork Updates für das ursprüngliche Projekt?**
 

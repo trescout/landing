@@ -43,7 +43,7 @@ Los modelos de conversación de IA generativa generalmente no son deterministas:
 **Imprenta:** Tomando la misma impresión del mismo molde.
 **Laboratorio:** Repitiendo la misma medición con el mismo protocolo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante?**
 

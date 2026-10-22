@@ -22,7 +22,7 @@ It is used in AI-powered coding tools, automated data analysis systems, and comp
 
 It should not be confused with a development environment: While a development environment is designed for humans to write code, an agent workspace is entirely optimized for AI software to operate autonomously.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can the AI agent break out of this workspace and harm my computer?**
 

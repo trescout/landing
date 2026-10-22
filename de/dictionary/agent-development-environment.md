@@ -22,7 +22,7 @@ Es wird in Softwareprojekten mit Schwerpunkt auf künstlicher Intelligenz und au
 
 Nicht zu verwechseln mit Standard-Texteditoren, die lediglich Code schreiben. Hier gibt es auch Tools, um den „Denkprozess“ des Agenten zu überwachen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist eine besondere Umgebung erforderlich?**
 

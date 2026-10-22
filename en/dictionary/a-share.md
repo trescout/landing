@@ -22,7 +22,7 @@ You encounter them in global financial analyses and portfolios focused on the Ch
 
 Unlike general international stock concepts, it contains geographical and legal restrictions.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can foreigners never buy them?**
 

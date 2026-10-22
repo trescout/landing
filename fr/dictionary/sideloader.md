@@ -22,7 +22,7 @@ On le trouve fréquemment sur les téléphones Android, dans les applications en
 
 Peut être confondu avec le sideloading (l'action d'installer).
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'utilisation d'un sideloader est-elle sûre ?**
 

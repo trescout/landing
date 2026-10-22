@@ -22,7 +22,7 @@ Quando o modelo é carregado na memória, os pesos são otimizados e estruturas 
 
 É confundido com frameworks de treinamento (PyTorch, TensorFlow, etc.); enquanto os frameworks de treinamento focam no aprendizado de pesos e na retropropagação (backpropagation), os frameworks de inferência apenas maximizam a velocidade de resposta do modelo pronto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que um framework de inferência é preferido em vez de usar o PyTorch diretamente?**
 

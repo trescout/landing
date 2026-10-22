@@ -35,7 +35,7 @@ From a software and data engineering perspective, a playlist is not just a list 
 **History of Radio and Broadcasting:** Before digitalization, radio stations used to prepare physical playlists called "Rotation Log"s to play records and cassettes at specific time intervals. Today's digital music playlists are the direct continuation of this broadcasting tradition.
 **Cognitive Psychology and Productivity:** Suggests that rhythmic lists at certain frequencies (Lo-Fi, Binaural Beats, Baroque music) can help with focus. The effect varies from person to person.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does a playlist mean, what is its Turkish equivalent?**
 

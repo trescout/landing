@@ -42,7 +42,7 @@ Es handelt sich um einen Offline-Modus. Das ist die vorübergehende Situation, d
 **Tresor:** Persönliches Vertrauen.
 **Geldbeutel:** Taschenwert.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn das Gerät kaputt geht?**
 

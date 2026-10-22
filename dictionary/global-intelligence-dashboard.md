@@ -22,7 +22,7 @@ Lojistik takibinde, küresel piyasa analizlerinde ve büyük şirketlerin operas
 
 Sadece bir veri tabanı ile karıştırılmamalıdır; bu bir veri tabanı değil, veriyi sunan bir arayüzdür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu panelleri kimler kullanır?**
 

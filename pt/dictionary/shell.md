@@ -22,7 +22,7 @@ Está integrado em todos os sistemas Linux, macOS e Windows; É indispensável p
 
 É confundido com o terminal; terminal é a janela que exibe esta interface e shell é o interpretador de comandos executado dentro dessa janela.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É difícil aprender Shell?**
 

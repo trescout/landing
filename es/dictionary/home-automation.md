@@ -44,7 +44,7 @@ La casa es el refugio más privado de una persona; Conectar este refugio a Inter
 - Control remoto versus automatización: encender la iluminación presionando un botón en el teléfono no es automatización; La automatización ocurre cuando el sistema interpreta los datos de los sensores ambientales y toma la decisión por sí solo.
 - Dependiente de la nube versus control local: los dispositivos basados ​​en la nube pueden volverse disfuncionales cuando se corta Internet y convertirse en basura cuando la empresa fabricante cierra; Los sistemas controlados localmente (Matter/Zigbee/Home Assistant) funcionan para siempre, independientemente de Internet.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa domótica y cuál es su equivalente turco?**
 

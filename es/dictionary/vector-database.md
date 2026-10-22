@@ -31,7 +31,7 @@ La base de datos vectorial proporciona a estos modelos una memoria asociativa si
 - Olvidar el Filtro de Metadatos: La similitud de vectores pura puede pasar por alto el contexto temporal o de categoría; debe complementarse con filtros.
 - No prever el coste de memoria: Mantener vectores de alta dimensión en RAM sin comprimir genera una explosión de costes; se debe aplicar cuantización.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se pueden utilizar bases de datos relacionales clásicas (PostgreSQL, etc.) como bases de datos vectoriales?**
 

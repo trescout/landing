@@ -22,7 +22,7 @@ Il est utilisé dans les compilateurs pour lire le HTML dans les navigateurs Web
 
 Il peut être confondu avec l'analyse de documents ; Cependant, l’analyseur est un concept plus général et est utilisé pour toutes sortes de structures de données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si l'analyseur donne une erreur ?**
 

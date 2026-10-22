@@ -22,7 +22,7 @@ It is used in artificial intelligence services, network connections and server m
 
 It is similar to error handling; However, auto-fallback refers directly to an alternative solution.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does this feature cause slowness?**
 

@@ -18,7 +18,7 @@ Al diseñar un nuevo lenguaje o herramienta, se conservan las reglas existentes 
 
 Se utiliza con frecuencia en lenguajes de programación (por ejemplo, TypeScript es un superconjunto de JavaScript) y arquitecturas de software.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es ventajoso utilizar superconjunto?**
 

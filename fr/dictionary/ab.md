@@ -24,7 +24,7 @@ Il est fréquemment utilisé dans les configurations de serveurs web, les tests 
 
 À ne pas confondre avec des outils de test de charge avancés ou des automatisations de navigateur réelles, il mesure purement la vitesse brute du serveur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Reflète-t-il exactement le trafic utilisateur réel ?**
 

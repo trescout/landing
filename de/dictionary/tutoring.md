@@ -43,7 +43,7 @@ Die grundlegendste sozioökonomische Krise der Bildungswelt in den letzten 40 Ja
 - Nachhilfe vs. Lehren: Beim Unterrichten geht es im Allgemeinen darum, einer großen Klasse einen Lehrplan zu vermitteln. Nachhilfe hingegen ist eine Mikroberatung, die darauf abzielt, die Lücken im Verständnis einer einzelnen Person zu schließen.
 - Nachhilfe vs. KI-Chatbot: Ein normaler Chatbot löst die Aufgabe für Sie; Ein KI-Tutor hilft Ihrem Gehirn beim Aufbau neuronaler Verbindungen, indem er Ihnen Schritt für Schritt dabei hilft, die Lösung zu finden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Nachhilfe? Was ist das türkische Äquivalent?**
 

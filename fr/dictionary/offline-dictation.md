@@ -22,7 +22,7 @@ Il est utilisé dans les applications de prise de notes exigeant la confidential
 
 C'est la même chose que la voix-texte, mais à la différence qu'elle ne nécessite pas Internet.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment peut-il fonctionner aussi intelligemment s’il n’y a pas d’Internet ?**
 

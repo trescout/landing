@@ -22,7 +22,7 @@ Il est utilisé dans les prévisions boursières, l’analyse de la consommation
 
 Il ne faut pas le confondre avec de simples outils de prévision statistique ; Ces modèles sont basés sur l'apprentissage profond.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-il prédire n’importe quel type de données ?**
 

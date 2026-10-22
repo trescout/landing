@@ -22,7 +22,7 @@ O sistema monitora constantemente os dados do ambiente e é acionado quando dete
 
 Pode ser confundido com sensores de movimento, mas este sistema pode rastrear não apenas o movimento, mas também a própria entidade.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Este sistema violará minha privacidade?**
 

@@ -39,7 +39,7 @@ It is considered a terminal. The terminal runs it, the runner manages it. One is
 **Washing machine:** Programmed washing.
 **Autopilot:** Route tracking.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **In which jobs is it used?**
 

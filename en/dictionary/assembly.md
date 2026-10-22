@@ -56,7 +56,7 @@ section .data
 - .NET Assembly: When C# code is compiled, a logical assembly package (Assembly) is created in .dll or .exe format containing CIL/MSIL bytecodes and metadata.
 - WebAssembly (WASM): A portable stack virtual machine bytecode that allows C, C++, and Rust code to run in the browser with near-native performance.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does assembly mean and what does it do?**
 

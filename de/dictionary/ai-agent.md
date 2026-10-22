@@ -43,7 +43,7 @@ Es wird angenommen, dass es sich um einen Chatbot handelt. Chatbot spricht, Agen
 **Jack:** Nehmen Sie nicht einfach den Schlüssel und beenden Sie die Arbeit.
 **Reisebüro:** Ticket-, Hotel- und Transferabholung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Können Agenten gefährlich sein?**
 

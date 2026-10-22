@@ -43,7 +43,7 @@ The most fundamental socio-economic crisis in the education world for the last 4
 - Tutoring vs Teaching: Teaching generally aims to convey a curriculum to a large class; Tutoring, on the other hand, is micro-guidance that focuses on eliminating the gaps in understanding of a single individual.
 - Tutoring vs AI Chatbot: A regular chatbot solves the assignment for you; An AI Tutor helps your brain establish neuronal connections by helping you find the solution step by step.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does tutoring mean? What is its Turkish equivalent?**
 

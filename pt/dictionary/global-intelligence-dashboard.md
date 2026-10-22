@@ -22,7 +22,7 @@ Dados de diferentes fontes estão conectados ao sistema. O sistema processa esse
 
 Não deve ser confundido apenas com um banco de dados; Este não é um banco de dados, mas uma interface que apresenta dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quem usa esses painéis?**
 

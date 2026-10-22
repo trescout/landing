@@ -85,7 +85,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Weiter · Selbsthoster (Entwickler erforderlich)
 - **Was bietet:** Anpassbares, KI-gestütztes CRM
 - **Gebühr:** Open Source · kostenlos selbst gehostet
-- **Lizenz:** Standart-dışı (NOASSERTION) · ayrıntı aşağıda
+- **Lizenz:** Nicht standardmäßig (NOASSERTION) · Einzelheiten unten
 
 **Lizenz:** ⚠️ Die Lizenz entspricht nicht dem Standard (GitHub „NOASSERTION“). Es wird als „Open Source“ bezeichnet, für die eigenständige/selbstgehostete Nutzung und die kommerzielle/SaaS-Weiterbereitstellung können jedoch unterschiedliche Bedingungen gelten. Lesen Sie vor der kommerziellen Nutzung unbedingt die LIZENZ-Datei im Repo.
 

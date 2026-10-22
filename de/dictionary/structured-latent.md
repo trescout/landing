@@ -22,7 +22,7 @@ Es wird in den internen Arbeitsmechanismen generativer künstlicher Intelligenzm
 
 Es ähnelt dem Einbetten, hier liegt jedoch mehr Wert auf der strukturellen Organisation der Daten im mathematischen Raum.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist das wichtig?**
 

@@ -22,7 +22,7 @@ VS Code gibi popüler kod editörlerinde, terminal tabanlı geliştirme ortamlar
 
 AI coding agents ile karıştırılabilir; ancak istemciler (clients) daha çok sizin kontrolünüzde olan bir arayüz sunarken, ajanlar (agents) kendi başlarına görev tamamlama eğilimindedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **AI coding client kullanmak kod yazmayı öğrenmemi engeller mi?**
 

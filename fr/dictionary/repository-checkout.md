@@ -41,7 +41,7 @@ Règle : Ne réussissez pas tant que votre travail est enregistré, validez-le 
 **Archive:** Supprimez le dossier du stockage et examinez-le.
 **Photographier:** Ne subissez pas la pression du négatif.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce qu'il télécharge uniquement des fichiers ?**
 

@@ -22,7 +22,7 @@ Se utiliza en análisis de delitos financieros, investigación de seguridad cibe
 
 No confundir con una hoja de cálculo de Excel normal; Lo importante aquí no son los datos en sí, sino la relación entre los datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Funciona lentamente con big data?**
 

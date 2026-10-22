@@ -18,7 +18,7 @@ Ao projetar uma nova linguagem ou ferramenta, as regras existentes são preserva
 
 É frequentemente usado em linguagens de programação (por exemplo, TypeScript é um superconjunto de JavaScript) e arquiteturas de software.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É vantajoso usar superconjunto?**
 

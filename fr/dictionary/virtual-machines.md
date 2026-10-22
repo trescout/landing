@@ -42,7 +42,7 @@ On le prend pour un conteneur. La machine est un système complet, le conteneur 
 **Appartement :** Immeuble commun, espace privé.
 **Conteneur :** Transport compartimenté.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce que cela ralentit ?**
 

@@ -22,7 +22,7 @@ Pode ser encontrado em smartphones, laptops e pacotes de software pré-instalado
 
 Não deve ser confundido com aplicativos de sistema necessários; Bloatware é um software que não é opcional e cria ineficiência.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como faço para me livrar do bloatware?**
 

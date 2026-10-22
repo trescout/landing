@@ -22,7 +22,7 @@ Se utiliza en la automatización de flujos de trabajo complejos, procesos de des
 
 Puede confundirse con herramientas de automatización comunes; Mientras que la automatización solo sigue el camino predefinido, el sistema agente dibuja el camino por sí mismo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Los sistemas agentes siempre toman la decisión correcta?**
 

@@ -22,7 +22,7 @@ Arşiv çalışmalarında, eski sinema filmlerinin dijital aktarımlarında ve k
 
 Video editor araçlarıyla karıştırılabilir ama video editörleri kesme ve birleştirme yapar, bu araçlar ise doğrudan pikselleri yapay zekâ ile onarır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu araçlar siyah beyaz videoları renkli yapabilir mi?**
 

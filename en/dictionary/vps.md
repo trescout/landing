@@ -46,7 +46,7 @@ It can be confused with shared hosting. In shared hosting, you share resources w
 **Office floor:** Shared reception, private work area.
 **Safe deposit box:** Your own private compartment in the bank building.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is technical knowledge required to manage VPS?**
 

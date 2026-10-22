@@ -22,7 +22,7 @@ Es wird häufig in Versionskontrollsystemen und KI-Codierungsagenten wie Git ver
 
 Nicht zu verwechseln mit dem Überschreiben der gesamten Datei; Diese Methode wendet lediglich den Unterschied an.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir diff, anstatt die gesamte Datei zu senden?**
 

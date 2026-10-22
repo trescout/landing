@@ -22,7 +22,7 @@ Il est utilisé dans les grands modèles de langage, les projets nécessitant de
 
 Peut être confondu avec Quantification ; Alors que la quantification réduit les poids du modèle, la compression des jetons compresse les données traitées elles-mêmes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **La compression des jetons réduit-elle la qualité ?**
 

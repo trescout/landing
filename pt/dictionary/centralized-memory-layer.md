@@ -22,7 +22,7 @@ Crie um fluxo centralizado de informações conectando todos os seus sistemas de
 
 Pode ser confundido com um banco de dados, mas a estrutura aqui inclui não apenas dados, mas também experiência e contexto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que deveria ser central?**
 

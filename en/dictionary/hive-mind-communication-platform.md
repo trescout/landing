@@ -22,7 +22,7 @@ It is used in joint decision-making processes of software development teams, eme
 
 It is not just a messaging app or chat room; It is a structure that processes information and produces a collective output.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are these platforms suitable for all types of teams?**
 

@@ -24,7 +24,7 @@ Es wird als Sicherheitsrisiko in Servern, Webanwendungen und nicht aktualisierte
 
 Dies sollte nicht mit einfachem Datendiebstahl verwechselt werden; dieser Zustand beinhaltet über die Daten hinaus die vollständige Kontrolle über das System.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie kann ich mich davor schützen?**
 

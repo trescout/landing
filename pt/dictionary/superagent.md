@@ -22,7 +22,7 @@ Está equipado com um mecanismo de raciocínio avançado. Ele divide a tarefa em
 
 Pode ser confundido com um Agente de IA normal, mas o SuperAgente tem um escopo de autoridade e coordenação muito mais amplo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O SuperAgent pode tomar decisões por conta própria?**
 

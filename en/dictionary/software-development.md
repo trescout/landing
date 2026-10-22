@@ -22,7 +22,7 @@ The outputs of this process are everywhere, from the mobile applications you use
 
 It is often confused with just writing code, i.e., coding. Writing code is only one part of this process; other critical phases such as analysis, design, and testing are also integral parts of this process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can software development be done without knowing how to code?**
 

@@ -41,7 +41,7 @@ Existem duas boias de salvação fundamentais para erros no ambiente de produç�
 - Development vs Deployment: Development (desenvolvimento) mutfakta şefin yemeği hazırlaması ve tatmasıdır; Deployment ise yemeğin masaya servis edilip müşterinin tüketimine sunulmasıdır.
 - Deployment vs Release: O deployment é uma ação técnica; refere-se ao carregamento do código no servidor. Já o release é a disponibilização de um recurso para os usuários, a realização do anúncio de marketing e a ativação oficial por parte da unidade de negócios.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa Deployment e qual é a tradução em português?**
 

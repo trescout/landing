@@ -47,7 +47,7 @@ Birim test sanılır. O parçaya bakar, bu bütüne bakar. Biri vida, diğeri s�
 
 *Motoru değil, anahtarı çevirip yola çıkmayı denemeye benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden yalnızca bu yapılmıyor?**
 

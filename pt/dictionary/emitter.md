@@ -40,7 +40,7 @@ A fase final e mais crucial de um compilador ou transpiler é a camada Emitter (
 
 O Emitter percorre a Árvore de Sintaxe Abstrata (AST) otimizada ou a Representação Intermediária (IR) de ponta a ponta (geralmente com o Padrão Visitor). Ele converte cada nó em instruções que a plataforma de destino entende: essa saída pode ser linguagem de máquina bruta (Assembly x86/ARM), bytecode de máquina virtual (JVM, V8 Bytecode) ou outra linguagem de alto nível (como a compilação de TypeScript para JavaScript).
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa Emitter e qual é a sua tradução para o português?**
 

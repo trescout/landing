@@ -24,7 +24,7 @@ Akıllı telefonlardan süper bilgisayarlara kadar her türlü dijital cihazın 
 
 GPU ile karıştırılır; GPU daha çok görsel ve paralel işlerle uğraşırken, CPU genel mantıksal işlerle uğraşır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **CPU çekirdeği ne demek?**
 

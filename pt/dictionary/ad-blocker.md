@@ -22,7 +22,7 @@ Geralmente é usado como uma extensão em navegadores da web ou encontrado como 
 
 Às vezes, bloquear anúncios pode ser confundido com bloquear o conteúdo do site, mas estas ferramentas visam apenas os servidores de publicidade.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Usar um bloqueador de anúncios prejudica os sites?**
 

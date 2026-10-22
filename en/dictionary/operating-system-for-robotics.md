@@ -24,7 +24,7 @@ It is used in industrial robots, autonomous vehicles and robotic projects in res
 
 Not to be confused with regular operating systems (Windows/macOS); These systems are optimized only for managing robotic hardware.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it necessary to be an engineer to use this system?**
 

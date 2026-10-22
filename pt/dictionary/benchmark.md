@@ -42,7 +42,7 @@ Pensa-se que é teste. O teste verifica se funciona, o benchmark quão bom é. U
 **Atletismo:** Tabela de recordes.
 **Carpinteiro:** Marca de medição na bancada.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Uma pontuação alta é sempre boa?**
 
@@ -72,8 +72,8 @@ Depende da tarefa: Acurácia, velocidade e custo são analisados em conjunto. Um
 - [RuView](https://trescout.com/pt/discover/ruview/)
 - [CUA](https://trescout.com/pt/discover/cua/)
 - [Whichllm](https://trescout.com/pt/discover/whichllm/)
-- [SIA](https://trescout.com/pt/discover/sia/)
 - [Harvey Labs](https://trescout.com/pt/discover/harvey-labs/)
+- [SIA](https://trescout.com/pt/discover/sia/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/benchmark/)
 

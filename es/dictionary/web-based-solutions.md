@@ -22,7 +22,7 @@ Se utiliza ampliamente en servicios de correo electrónico, editores de document
 
 Puede confundirse con aplicaciones de escritorio; Las aplicaciones de escritorio ocupan espacio físico en el dispositivo, mientras que las basadas en web se ejecutan en el navegador.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo usar la aplicación si se me corta Internet?**
 

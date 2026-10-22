@@ -99,7 +99,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [API](https://trescout.com/fr/dictionary/api/)
 
 - **Pour qui:** Propriétaires de serveurs domestiques (Homelab), passionnés de médias et ceux qui souhaitent gérer leurs archives de séries sans effort.
-- **Licence:** GPL-3.0 (Açık kaynak lisansı)
+- **Licence:** GPL-3.0 (Licence Open Source)
 - **Infrastructure:** Service Web basé sur C# et .NET
 - **Port Web:** Par défaut 8989
 

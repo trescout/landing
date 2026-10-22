@@ -53,7 +53,7 @@ git push origin --tags
 - fatal: Der aktuelle Branch hat keinen Upstream-Branch: Für den Branch wurde kein Remote-Gegenstück definiert. Lösung: git push -u origin HEAD.
 - remote rejected: pre-receive hook declined: Blockiert durch eine Regel für geschützte Branches oder fehlende Berechtigungen; statt eines direkten Push muss ein Pull Request (PR) erstellt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Git Push und wozu dient es?**
 

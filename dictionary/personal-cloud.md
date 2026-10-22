@@ -42,7 +42,7 @@ Drive sanılır. Drive şirketindir, kişisel bulut sizindir. Biri kira, diğeri
 
 *Banka kasası yerine evdeki güvenli kasayı kullanmaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Kesilince erişilir mi?**
 

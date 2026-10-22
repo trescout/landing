@@ -40,7 +40,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Es ist ganz einfach: Stöbern Sie einfach
 - **Formatieren:** Beispiel-Portfolio-Sammlung
 - **Gebühr:** kostenlos
-- **Lizenz:** Belirtilmemiş · ayrıntı aşağıda
+- **Lizenz:** Nicht angegeben · Details unten
 
 **Lizenz:** ⚠️ Für die Auflistung ist keine Lizenz angegeben. Kostenloses Stöbern/Inspirieren; Fragen Sie den Eigentümer, bevor Sie den Eintrag kopieren und erneut veröffentlichen. (Beispielportfolios gehören ihren jeweiligen Eigentümern.)
 

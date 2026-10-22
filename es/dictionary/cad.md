@@ -20,7 +20,7 @@ El programa registra las líneas, los ángulos y las superficies como coordenada
 
 Se utiliza con frecuencia al dibujar planos de edificios en proyectos de construcción, al diseñar piezas de motores en fábricas de automóviles o al modelar la carcasa exterior de un teléfono.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El CAD solo funciona en tres dimensiones?**
 

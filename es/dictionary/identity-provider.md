@@ -43,7 +43,7 @@ Se confunde con un gestor de contraseñas. Aquel guarda la contraseña, este con
 **Notario:** Certificación de identidad.
 **Control de pasaportes:** Acceso mediante sello.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es seguro?**
 

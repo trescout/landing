@@ -36,7 +36,7 @@ It can be confused with logging. A log is a single event line. A metric is a num
 **Aviation:** Storing flight data in the black box.
 **Energy:** Meters reporting consumption to the center.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does it affect my privacy?**
 

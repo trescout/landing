@@ -22,7 +22,7 @@ Il est utilisé dans les assistants virtuels, les robots du service client et le
 
 À ne pas confondre avec les systèmes standard de « synthèse vocale » ; ils restent plus mécaniques.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi s'appelle-t-on « Frontière » ?**
 

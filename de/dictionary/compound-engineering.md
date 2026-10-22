@@ -22,7 +22,7 @@ Es wird in Agenten für künstliche Intelligenz und fortschrittlichen Datenanaly
 
 Es wird mit „Feinabstimmung“ verwechselt, bei der es sich lediglich um das Training eines einzelnen Modells handelt, während sich das Compound Engineering auf die Kombination der Fähigkeiten bestehender Modelle konzentriert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum reicht ein Modell nicht aus?**
 

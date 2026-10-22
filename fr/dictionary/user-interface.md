@@ -24,7 +24,7 @@ Il apparaît dans les applications de votre smartphone, sur les sites Web ou sur
 
 Elle est souvent confondue avec le backend du logiciel, mais l'interface n'est que la partie que vous voyez.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’UI et l’UX sont-ils la même chose ?**
 

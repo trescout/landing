@@ -22,7 +22,7 @@ It is an integral part of the software development process in languages ​​su
 
 It is mixed with runtime; Compile-time is the error finding phase, runtime may be the error encountering phase.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are compile-time errors important?**
 

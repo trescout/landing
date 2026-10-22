@@ -22,7 +22,7 @@ Es wird häufig in E-Mail-Diensten, Online-Dokumenteditoren und cloudbasierten G
 
 Kann mit Desktop-Anwendungen verwechselt werden; Desktop-Anwendungen beanspruchen physischen Speicherplatz auf dem Gerät, während webbasierte Anwendungen im Browser ausgeführt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann ich die Anwendung verwenden, wenn mein Internet unterbrochen ist?**
 

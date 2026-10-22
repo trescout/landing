@@ -22,7 +22,7 @@ Yapay zekâ odaklı yazılım projelerinde ve ajan tabanlı sistemler geliştire
 
 Sadece kod yazılan standart metin editörleriyle karıştırılmamalıdır; burada ajanın 'düşünce' sürecini izleme araçları da vardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden özel bir ortama ihtiyaç var?**
 

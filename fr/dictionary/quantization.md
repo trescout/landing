@@ -22,7 +22,7 @@ Il est utilisé pour exécuter de grands modèles sur des téléphones mobiles o
 
 Il est confondu avec l'entraînement du modèle, mais il s'agit d'un processus d'optimisation effectué après l'entraînement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'intelligence du modèle diminue-t-elle ?**
 

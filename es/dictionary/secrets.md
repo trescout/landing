@@ -22,7 +22,7 @@ Se utiliza en servicios en la nube, conexiones de bases de datos y procesos de a
 
 Puede confundirse con las contraseñas de usuario habituales, pero se trata de identidades digitales diseñadas para máquinas, no para personas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no se guardan secretos dentro del código?**
 

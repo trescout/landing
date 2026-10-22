@@ -20,7 +20,7 @@ Se crean archivos de código que especifican los requisitos del sistema y las he
 
 Se utiliza en computación en la nube, gestión de sistemas a gran escala y lanzamiento continuo de software.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué escribimos código en lugar de instalarlo manualmente?**
 

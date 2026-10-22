@@ -24,7 +24,7 @@ They are used in chatbots, text summarization tools, coding aids, and translatio
 
 It is the same concept as the term LLM, but this term is the unabridged version.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is every major model an artificial intelligence?**
 

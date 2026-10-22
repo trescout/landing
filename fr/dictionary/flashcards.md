@@ -38,7 +38,7 @@ Cela peut être confondu avec un quiz. Le quiz est un test et donne des points. 
 **Musique :** Cartes de notes et d'accords.
 **Aviation :** Cartes de liste de contrôle d’urgence.
 
-## Foire aux questions
+## Questions et réponses
 
 **Comment l’intelligence artificielle produit-elle des cartes ?**
 

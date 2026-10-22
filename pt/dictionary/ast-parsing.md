@@ -24,7 +24,7 @@ Funciona em segundo plano em compiladores, formatadores de código (formatters),
 
 Diferente das ferramentas de busca de texto simples, ele não busca apenas palavras, mas examina a gramática lógica e a estrutura do código.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A análise de AST é feita manualmente pelo programador?**
 

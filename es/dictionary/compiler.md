@@ -40,7 +40,7 @@ La primera línea compila, la segunda ejecuta. El intérprete (interpreter), por
 **Imprenta:** La conversión del borrador en una placa de impresión.
 **Cocina:** La transformación de la receta en un plato preparado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es diferente el compilador de cada idioma?**
 

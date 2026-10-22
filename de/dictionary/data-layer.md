@@ -22,7 +22,7 @@ Es ist der Standard in der Architektur von Web- und Mobilanwendungen, insbesonde
 
 Kann mit Datenbank gemischt werden; Die Datenschicht ist nicht die Datenbank, sondern die Methode zum Zugriff auf die Datenbank.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verbinden wir uns nicht direkt?**
 

@@ -22,7 +22,7 @@ It is used in user experience (UX) testing and technical debugging processes.
 
 It is confused with Analytics (statistics); analytics 'how many people clicked?' says, session replay 'how did it click?' answers the question.
 
-## Frequently asked questions
+## Questions and answers
 
 **What about user privacy?**
 

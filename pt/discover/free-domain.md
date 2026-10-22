@@ -47,7 +47,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Amigável para iniciantes
 - **O que oferece:** Domínio grátis + uso com seu próprio provedor de DNS
 - **Taxa:** O serviço é gratuito
-- **Licença:** AGPL-3.0 · ayrıntı aşağıda
+- **Licença:** AGPL-3.0 · detalhe abaixo
 
 **Licença:** AGPL-3.0 · A utilização do serviço (obter um domínio grátis) é gratuita. Porém, se você pegar o CÓDIGO da plataforma e hospedá-lo ou modificá-lo você mesmo, deverá abrir também o código-fonte da sua própria versão (mesmo que o disponibilize pela rede) conforme AGPL.
 

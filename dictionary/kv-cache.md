@@ -24,7 +24,7 @@ LLM'lerin çalışma süreçlerinde ve özellikle uzun metinlerin üretildiği s
 
 Context Window ile karıştırılabilir ancak bu bir kapasite sınırı değil, bu kapasiteyi verimli kullanma yöntemidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **KV Cache neden önemlidir?**
 

@@ -22,7 +22,7 @@ Yazılım geliştirme ortamlarında, web tarayıcılarının geliştirici araçl
 
 Derleyici ile karıştırılabilir. Derleyici kodun tamamını makine diline çevirirken, debugger çalışan kodun içindeki mantıksal hataları bulmaya odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Debugger kullanmadan hata ayıklayamaz mıyım?**
 

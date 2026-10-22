@@ -22,7 +22,7 @@ Vous le rencontrerez dans les applications bancaires mobiles, les plateformes bo
 
 Il ne s'agit pas directement d'un outil ou d'un programme logiciel ; Il fait référence au domaine sectoriel général desservi par les technologies financières.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quel est le lien entre les services financiers et les logiciels ?**
 

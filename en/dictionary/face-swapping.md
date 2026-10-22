@@ -37,7 +37,7 @@ It is similar to deepfake. Deepfake also produces voice and script, face swappin
 **Stuntman:** Face change in dangerous scene.
 **Photomontage:** Face stitching in frame.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is high hardware required?**
 

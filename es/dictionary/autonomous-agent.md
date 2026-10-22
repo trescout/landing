@@ -22,7 +22,7 @@ Se utiliza en sistemas de automatización, procesos de análisis de datos y fluj
 
 Se puede confundir con los chatbots comunes; Los robots simplemente responden, mientras que los agentes autónomos hacen el trabajo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden los agentes autónomos cometer errores?**
 

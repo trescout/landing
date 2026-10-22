@@ -22,7 +22,7 @@ Se utiliza en la fase de apertura en Internet de sitios web, backends de aplicac
 
 Es diferente del entorno de desarrollo en el que simplemente se escribe código; Es donde se presenta el código al usuario final.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué servicios populares entran en este grupo?**
 

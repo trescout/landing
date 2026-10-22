@@ -20,7 +20,7 @@ As soon as the developer uploads his code to the system, robots running in the b
 
 It's a standard practice in large software teams and modern software development cycles (DevOps).
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we do manual testing?**
 

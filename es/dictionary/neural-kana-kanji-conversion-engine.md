@@ -22,7 +22,7 @@ Se utiliza en sistemas de entrada japoneses, teclados móviles y herramientas de
 
 No es sólo un diccionario; Es un modelo de inteligencia artificial que entiende el contexto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué utilizar la inteligencia artificial?**
 

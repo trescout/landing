@@ -24,7 +24,7 @@ macOS ve iOS uygulama geliştirme süreçlerinde, Swift dilinin kullanıldığı
 
 Kod editörlerinin genel eklenti yöneticilerinden farklıdır, doğrudan dilin kendi ekosistemine ve derleme sürecine odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **SwiftPM projeyi nasıl hızlandırır?**
 

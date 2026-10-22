@@ -24,7 +24,7 @@ Es wird im Endstadium angewendet, damit Chatbots wie ChatGPT natürlich und sich
 
 Dabei handelt es sich nicht nur um Training, sondern um den Prozess der Anpassung des Verhaltens des Modells.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es notwendig?**
 

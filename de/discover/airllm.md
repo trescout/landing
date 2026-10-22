@@ -71,7 +71,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [CPU](https://trescout.com/de/dictionary/cpu/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Forscher, die über begrenzte Hardware-Ressourcen verfügen und hochkapazitive 70B- und 405B-Modelle lokal testen, Data-Mining und Evaluierungen durchführen möchten.
-- **Lizenz:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Lizenz:** Apache-2.0 (Open-Source-Lizenz mit großen Freiheiten)
 - **Anforderung:** Mindestens 4 GB VRAM GPU und schneller NVMe-SSD-Festplattenspeicher
 - **Ökosystem:** Python, PyTorch und Hugging Face Transformers
 

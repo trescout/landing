@@ -38,7 +38,7 @@ Google Java Style Guide, geliştiricilerin kod üzerindeki kişisel ego ve estet
 
 - **Yorum Satırlarında Aşırıya Kaçmak:** Kodun kendini açıklaması hedeflenmeli, aşikar getter/setter metotlarına anlamsız yorumlar yazılmamalıdır.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Google Java Style Guide neden 4 boşluk yerine 2 boşluklu girintileme kullanır?**
 

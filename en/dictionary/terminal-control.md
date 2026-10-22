@@ -22,7 +22,7 @@ It is widely used in software development, server management and automation proc
 
 It is the same as the concept of CLI (Command Line Interface); terminal control refers to the active usage process of this interface.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why doesn't everyone use terminal?**
 

@@ -22,7 +22,7 @@ Ao usar scripts predefinidos ou algoritmos inteligentes, o sistema tem a garanti
 
 Pode ser confundido com inteligência artificial; A automação é baseada em regras, a IA aprende.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A automação tomará meu trabalho?**
 

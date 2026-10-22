@@ -36,7 +36,7 @@ Sesten sese sistemlerin arkasındaki temel mühendislik adımları şunlardır:
 - **Duygusal Etkileşimli Asistanlar:** Yalnızca komut alan değil; kullanıcının sesindeki üzüntüyü, telaşı veya sevinci anlayıp ona uygun şefkatli veya enerjik bir tonla yanıt veren yardımcılar.
 - **Dublaj ve Medya Üretimi:** Aktörlerin seslerinin ve dudak senkronizasyonlarının diğer dillere orijinal duygu ve ton bozulmadan otomatik uyarlanması.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Speech-to-Speech ne demek ve nasıl çalışır?**
 
@@ -56,7 +56,7 @@ Gerçekçi ses klonlama teknolojisi kimlik taklidi ve dolandırıcılık riski t
 
 ## İlgili terimler
 
-- [STT](https://trescout.com/dictionary/stt/)
+- [STT](https://trescout.com/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/dictionary/speech-to-text/)
 - [Voice Cloning](https://trescout.com/dictionary/voice-cloning/)
 - [Whisper](https://trescout.com/dictionary/whisper/)

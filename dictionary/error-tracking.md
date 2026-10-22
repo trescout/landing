@@ -22,7 +22,7 @@ Kullanıcı deneyiminin kritik olduğu mobil uygulamalarda, tek sayfalı web pro
 
 Tüm sistem olaylarını kronolojik olarak depolayan loglama (logging) kavramından farklıdır: Error tracking doğrudan istisnalara odaklanır ve bu sorunları otomatik olarak analiz edip gruplandırır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hata takip araçları kullanıcıların gizli verilerini kaydeder mi?**
 

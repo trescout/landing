@@ -22,7 +22,7 @@ O sistema verifica a data da última modificação dos arquivos. Ele apenas adic
 
 Não deve ser confundido com backup completo; um backup completo copia tudo sempre.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É difícil restaurar?**
 

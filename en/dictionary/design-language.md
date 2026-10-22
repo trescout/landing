@@ -22,7 +22,7 @@ It is used on websites, mobile applications and all digital platforms where bran
 
 It is not just a visual theme, it is a system that covers the entire interaction logic of a product.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it important?**
 

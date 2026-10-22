@@ -24,7 +24,7 @@ It is used in processes that require trust, such as financial transactions, digi
 
 It can be confused with normal mobile applications; However, dApps keep data on the blockchain and not on a central server.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does it take to use dApps?**
 

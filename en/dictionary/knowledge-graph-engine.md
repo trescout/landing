@@ -22,7 +22,7 @@ It is used in Google search results, recommendation systems, and complex enterpr
 
 It can be confused with standard databases, but the focus here is on the relationship between the data, not the data itself.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why would I use this instead of the regular database?**
 

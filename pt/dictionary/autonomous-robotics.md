@@ -37,7 +37,7 @@ Pensa-se que é um robô programado. Ele repete um caminho fixo, este gera solu�
 **Piloto automático:** Proteção de rota.
 **Pombo-correio:** Retorno ao destino.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Será que ele não comete erros?**
 

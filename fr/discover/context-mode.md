@@ -59,10 +59,9 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Context Window Optimization](https://trescout.com/fr/dictionary/context-window-optimization/)
 - [Context Window](https://trescout.com/fr/dictionary/context-window/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/fr/dictionary/context/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Destiné aux développeurs qui utilisent intensivement des agents de codage par intelligence artificielle et qui rencontrent des problèmes de saturation de la fenêtre de contexte sur des projets à long terme.
 

@@ -47,7 +47,7 @@ Manuel test sanılır. Oysa hat tamamen otomatiktir: Kod gelir, test koşar, son
 
 *Restoran mutfağında yemeğin hazırlanıp tadım testinden geçip müşteriye servis edilmesini sağlayan bant gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kadar önemli?**
 

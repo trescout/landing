@@ -22,7 +22,7 @@ Il est produit sur des plateformes telles que Google Analytics et placé dans le
 
 Il est souvent confondu avec les cookies ; Alors que les cookies conservent les données dans votre navigateur, l'extrait est l'outil qui collecte les données et les envoie au serveur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces codes voleront-ils mes informations personnelles ?**
 

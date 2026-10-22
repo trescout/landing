@@ -18,7 +18,7 @@ Wenn Sie Code schreiben, definieren Sie die Variablentypen (z. B. Zahl, Text, Da
 
 Es wird verwendet, um die Fehlerquote in modernen Programmiersprachen und großen Softwareprojekten zu verringern.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist der Vorteil der Typsicherheit?**
 

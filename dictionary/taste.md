@@ -22,7 +22,7 @@ Kullanıcı geri bildirimlerini analiz ederek, tasarım prensiplerine uyarak ve 
 
 Sadece tasarım ile karıştırılabilir ancak taste, işlevsellik ve estetiğin birleştiği daha derin bir vizyondur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Taste geliştirilebilir mi?**
 

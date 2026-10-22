@@ -22,7 +22,7 @@ It is used in large language models, projects that require long context windows,
 
 Can be confused with Quantization; While quantization reduces the weights of the model, token compression compresses the processed data itself.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does token compression reduce quality?**
 

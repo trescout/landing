@@ -24,7 +24,7 @@ Kurumsal yazılımlarda, finansal sistemlerde ve büyük ekiplerin çalıştığ
 
 Merkezi veritabanı ile karıştırılabilir; bu bir teknikten ziyade bir yönetim prensibidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu prensip neden zordur?**
 

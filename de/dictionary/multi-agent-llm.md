@@ -22,7 +22,7 @@ Es wird in Softwareentwicklungsprozessen, komplexen Datenanalysen und autonomen 
 
 Im Gegensatz zu einem einzelnen Modell der künstlichen Intelligenz gibt es hier Teamarbeit und Arbeitsteilung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum reicht ein Modell nicht aus?**
 

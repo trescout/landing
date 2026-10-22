@@ -52,7 +52,7 @@ Um dieses Problem in der modernen Softwarearchitektur zu überwinden, werden Fun
 
 Im Bereich Spieleentwicklung und künstliche Intelligenz ist „Utility AI“ ein mathematisches Modell, das in Entscheidungsmechanismen eingesetzt wird. Anstelle klassischer Finite-State-Maschinen (FSM) oder Verhaltensbäume; Jeder möglichen Aktion wird ein Nutzenwert zugewiesen, der auf den aktuellen Situationsparametern basiert, und der Charakter wählt die Aktion aus, die den höchsten Nutzen bringt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet „Utilities“ und welche Bedeutung hat es auf Türkisch?**
 

@@ -24,7 +24,7 @@ Ele é encontrado em smartphones, sistemas operacionais de computador e em todos
 
 Contrasta com CLI (Interface de Linha de Comando); Na CLI, apenas o texto é escrito, enquanto na GUI a visualidade está em primeiro plano.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todo software possui uma GUI?**
 

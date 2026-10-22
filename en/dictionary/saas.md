@@ -39,7 +39,7 @@ Can be confused with PaaS. SaaS is the finished application, it is for the end u
 **Flat for rent:** The maintenance is on the owner, the use is on you.
 **Public transport:** Getting transportation service without owning a vehicle.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Where is my data stored when using SaaS?**
 

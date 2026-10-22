@@ -24,7 +24,7 @@ It is used in contracts, banking transactions and official correspondence.
 
 Simply pasting your name as an image file onto a document is not an e-signature; There must be a legal verification process behind it.
 
-## Frequently asked questions
+## Questions and answers
 
 **How is it different from a physical signature?**
 

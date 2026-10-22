@@ -22,7 +22,7 @@ Il est utilisé dans les applications basées sur le cloud et dans la gestion de
 
 Elle peut être confondue avec les méthodes impératives (orientées vers les commandes) ; Dans cette méthode, vous racontez chaque étape une par une.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrions-nous choisir cette méthode ?**
 

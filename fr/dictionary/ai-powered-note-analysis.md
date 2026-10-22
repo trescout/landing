@@ -22,7 +22,7 @@ Il est utilisé pour organiser des notes de réunion, des études universitaires
 
 Contrairement aux outils qui copient simplement du texte, il comprend le contenu du texte et lui donne un sens.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ma vie privée est-elle protégée ?**
 

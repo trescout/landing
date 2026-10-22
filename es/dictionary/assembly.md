@@ -56,7 +56,7 @@ section .data
 - Ensamblaje .NET: cuando se compila el código C#, se crea un paquete de ensamblaje lógico (Assembly) en formato .dll o .exe que contiene códigos de bytes y metadatos CIL/MSIL.
 - WebAssembly (WASM): un código de bytes de máquina virtual de pila portátil que permite que el código C, C++ y Rust se ejecute en el navegador con un rendimiento casi nativo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa asamblea y para qué sirve?**
 

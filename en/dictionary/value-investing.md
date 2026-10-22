@@ -22,7 +22,7 @@ It is used by investors in financial markets and stock markets.
 
 It can be confused with speculation; Speculation focuses on short-term price movement, which focuses on long-term value.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can I make money immediately?**
 

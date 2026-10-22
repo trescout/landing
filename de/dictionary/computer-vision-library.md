@@ -22,7 +22,7 @@ Es wird in Überwachungskameras, autonomen Fahrzeugen und Gesichtserkennungssyst
 
 Es kann mit Bildverarbeitungssoftware verwechselt werden, aber es handelt sich um eine Bibliothek, also um ein Entwicklertool und nicht um eine Endbenutzeroberfläche.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können diese Bibliotheken alles sehen?**
 

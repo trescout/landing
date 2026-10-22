@@ -22,7 +22,7 @@ Il est utilisé dans les véhicules autonomes, les systèmes robotiques et les l
 
 À ne pas confondre avec la simple collecte de données ; La prise de conscience nécessite de donner un sens aux données et de réagir.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce important pour l’intelligence artificielle ?**
 

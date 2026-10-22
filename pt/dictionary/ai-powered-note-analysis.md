@@ -22,7 +22,7 @@ Você carrega suas notas no sistema ou o sistema se conecta ao seu aplicativo de
 
 Ao contrário das ferramentas que simplesmente copiam texto, ele compreende o conteúdo do texto e dá sentido a ele.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Minha privacidade está protegida?**
 

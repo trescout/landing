@@ -24,7 +24,7 @@ City planning, logistics routing, environmental protection projects and disaster
 
 Not to be confused with just a navigation tool like Google Maps; it only shows the result, GIS is the kitchen of data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is GIS just a map?**
 

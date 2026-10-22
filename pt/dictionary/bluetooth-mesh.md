@@ -22,7 +22,7 @@ Quando os dispositivos ingressam na rede, eles se reconhecem automaticamente. O 
 
 A conexão Bluetooth padrão é apenas entre dois dispositivos, enquanto o Mesh conecta todos os dispositivos juntos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O Bluetooth Mesh requer internet?**
 

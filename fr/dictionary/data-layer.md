@@ -22,7 +22,7 @@ C’est le standard dans l’architecture des applications web et mobiles, notam
 
 Peut être mélangé avec une base de données ; La couche de données n'est pas la base de données, mais la méthode d'accès à la base de données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne nous connectons-nous pas directement ?**
 

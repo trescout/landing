@@ -18,7 +18,7 @@ La corriente eléctrica tomada de las baterías se transmite al motor eléctrico
 
 Se utilizan en automóviles eléctricos, vehículos aéreos no tripulados (drones) y sistemas robóticos modernos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se prefieren estos sistemas?**
 

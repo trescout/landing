@@ -22,7 +22,7 @@ It is a must-do step before running the program in languages ​​such as C++, 
 
 The difference from interpreted languages ​​is that the code is completely transformed before execution, not at run time.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do all languages ​​need to compile?**
 

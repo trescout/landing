@@ -24,7 +24,7 @@ Es wird zum Trainieren und Ausführen (Inferenz) von Modellen der künstlichen I
 
 Kann mit Quantisierung verwechselt werden; FP8 ist eigentlich eine Art Quantisierung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verringert es die Qualität des Modells?**
 

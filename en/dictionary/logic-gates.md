@@ -22,7 +22,7 @@ It is used in the architectural design of microprocessors, hardware simulations,
 
 It can be confused with 'if-else' blocks in software algorithms: while 'if-else' is a control structure running in high-level programming languages, a logic gate is a hardware mechanism operating directly at the transistor level.
 
-## Frequently asked questions
+## Questions and answers
 
 **What are the most fundamental logic gates?**
 

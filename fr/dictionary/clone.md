@@ -39,7 +39,7 @@ Le fork, quant à lui, crée une copie côté serveur. Le clone télécharge cet
 **Médias :** Costumes de rechange sur lesquels travailler pendant que l'original est conservé.
 **Virtualisation :** Création d'une nouvelle machine à partir d'un modèle prédéfini.
 
-## Foire aux questions
+## Questions et réponses
 
 **Puis-je modifier le projet après le clonage ?**
 

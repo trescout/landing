@@ -22,7 +22,7 @@ Die meisten KI-Modelle sind in C++ geschrieben, aber dank Python-Bindungen könn
 
 Es kann mit der API verwechselt werden, aber während die API über das Netzwerk kommuniziert, handelt es sich bei der Bindung um eine Verbindung auf Speicherebene innerhalb desselben Computers.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist nicht jede Bibliothek in jeder Sprache geschrieben?**
 

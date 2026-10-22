@@ -22,7 +22,7 @@ Ils sont utilisés pour les recherches académiques, les analyses de marché ou 
 
 Ils ne doivent pas être confondus avec de simples requêtes de moteur de recherche ; les agents traitent et synthétisent activement les données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelles intelligences artificielles utilisent-ils ?**
 

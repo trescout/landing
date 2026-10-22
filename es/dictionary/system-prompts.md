@@ -22,7 +22,7 @@ Se utiliza en segundo plano en chatbots como ChatGPT, en los archivos de configu
 
 Puede confundirse con las indicaciones del usuario; El mensaje del usuario es su pregunta actual, mientras que el mensaje del sistema es el carácter general del modelo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede el usuario ver el mensaje del sistema?**
 

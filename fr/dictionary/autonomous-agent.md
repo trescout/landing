@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes d'automatisation, les processus d'analyse de 
 
 Il peut être confondu avec les chatbots ordinaires ; les robots se contentent de répondre, tandis que les agents autonomes font le travail.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les agents autonomes peuvent-ils faire des erreurs ?**
 

@@ -45,7 +45,7 @@ Cuando llega al servidor de destino, el proceso se invierte (Decapsulación); Ca
 - DPDK (Kit de desarrollo de plano de datos): omite el kernel por completo; La aplicación en el espacio del usuario accede directamente a la memoria de la tarjeta de red sin copias.
 - QUIC / HTTP/3: en lugar de TCP central en la capa de transporte, se ha cambiado un protocolo cifrado basado en UDP que se ejecuta en el espacio del usuario y supera el bloqueo de cabecera.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa pila de red y cuál es su equivalente turco?**
 

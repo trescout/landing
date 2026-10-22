@@ -22,7 +22,7 @@ Você escreve seu código seguindo as regras fornecidas pelo Framework. Ele lida
 
 Pode ser confundida com a biblioteca; Bibliotecas são apenas ferramentas, enquanto a estrutura determina todo o funcionamento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Devo usar frameworks em todos os projetos?**
 

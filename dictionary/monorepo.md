@@ -39,7 +39,7 @@ Karışıklık sanılır. Oysa düzenli merkeziyettir. Dağınıklık disiplinsi
 
 *Kitapları binalara dağıtmak yerine tek dev binada kategorili tutmaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Herkese uygun mu?**
 

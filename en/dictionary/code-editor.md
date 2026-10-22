@@ -22,7 +22,7 @@ It appears on all main programming screens you use when developing software on y
 
 It should not be confused with IDE tools, which are large development environments that compile the entire system from start to finish and turn it into a running software; the editor is more focused and lightweight.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the difference between a code editor and a regular notepad?**
 

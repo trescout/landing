@@ -42,7 +42,7 @@ Kural: Cihaz bozulursa veri gider. Yedek bulutta veya diskte tutulur.
 
 *Bilgiyi banka kasası yerine evdeki kilitli çekmecede tutmaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Cihaz bozulursa ne olur?**
 

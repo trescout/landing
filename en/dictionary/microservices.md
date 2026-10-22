@@ -22,7 +22,7 @@ It is used in large-scale web applications and high-traffic systems.
 
 It is not just about breaking down the code, but also the method by which these pieces communicate with each other.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it so complicated?**
 

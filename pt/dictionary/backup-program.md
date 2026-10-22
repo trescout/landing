@@ -38,7 +38,7 @@ Regra: Backup não testado não é confiável. A restauração é testada period
 **Cofre:** Armazenamento de documentos valiosos.
 **Seguro:** Cobertura contra desastres.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que isso é importante?**
 

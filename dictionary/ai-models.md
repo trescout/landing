@@ -22,7 +22,7 @@ Görüntü işleme araçlarında, metin yazma uygulamalarında, öneri sistemler
 
 Yapay zekâ yazılımlarının tamamı ile karıştırılabilir; model, yazılımın sadece 'beyin' kısmıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her model her işi yapabilir mi?**
 

@@ -35,7 +35,7 @@ La regla es simple: cuantos más formatos propietarios, menor interoperabilidad.
 **Ferrocarril:** Gracias al estándar de ancho de vía, los trenes pueden cambiar de país.
 **Eléctrico:** Los estándares de enchufe y voltaje hacen que los dispositivos sean compatibles.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no todos los sistemas tienen esta característica?**
 

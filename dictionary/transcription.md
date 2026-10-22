@@ -43,7 +43,7 @@ Speech-to-text ile aynı sanılır. Teknoloji aynıdır, iş farklıdır: STT an
 
 *Söyleneni hızla nota döken profesyonel sekreterin dijital karşılığı gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Her dilde çalışır mı?**
 

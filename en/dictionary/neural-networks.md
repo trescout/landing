@@ -22,7 +22,7 @@ It is actively used in image recognition, audio processing, and as the foundatio
 
 Unlike the general concept of artificial intelligence, this is the concrete mathematical and architectural structure that constitutes that intelligence.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it work the exact same way as a real brain?**
 

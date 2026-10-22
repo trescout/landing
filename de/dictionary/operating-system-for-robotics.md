@@ -24,7 +24,7 @@ Es wird in Industrierobotern, autonomen Fahrzeugen und Roboterprojekten in Forsc
 
 Nicht zu verwechseln mit regulären Betriebssystemen (Windows/macOS); Diese Systeme sind nur für die Verwaltung von Roboterhardware optimiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss man Ingenieur sein, um dieses System nutzen zu können?**
 

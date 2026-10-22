@@ -43,12 +43,12 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/fr/dictionary/context/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
+- [Rust](https://trescout.com/fr/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs qui souhaitent automatiser leurs flux de travail de développement logiciel et travailler de manière native avec divers modèles d'IA.
 - **Licence:** Apache-2.0

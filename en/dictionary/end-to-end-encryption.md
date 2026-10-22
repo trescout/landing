@@ -38,7 +38,7 @@ It is thought to be TLS. TLS protects the path, the server sees it. When it's en
 **Seal:** An envelope that is obvious when opened.
 **Closed circuit:** Closed line to outside.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **If it is stolen, can it be read?**
 

@@ -24,7 +24,7 @@ Il est utilisé comme serveur multimédia à la maison ou pour le partage de fic
 
 Il ne s'agit pas simplement d'un disque dur connecté à Internet, c'est une unité de stockage intelligente dotée de son propre système d'exploitation.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le NAS et le stockage cloud sont-ils identiques ?**
 

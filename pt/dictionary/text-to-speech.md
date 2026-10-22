@@ -45,7 +45,7 @@ Acredita-se que seja uma gravação de voz. O registro é uma constante de pré-
 **Rádio:** Locução automática do boletim informativo.
 **Jogo:** Geração de diálogo dinâmico.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que as vozes às vezes parecem robóticas?**
 

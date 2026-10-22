@@ -22,7 +22,7 @@ Se está generalizando en las herramientas de codificación modernas y en los en
 
 Puede confundirse con ingeniería rápida, pero es más una filosofía de desarrollo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede realizar una solicitud sin conocer el código?**
 

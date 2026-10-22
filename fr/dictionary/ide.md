@@ -24,7 +24,7 @@ Il est utilisé dans les processus de développement de logiciels professionnels
 
 Il se distingue des simples éditeurs de texte qui ne servent qu'à écrire du code par la richesse de l'ensemble d'outils qu'il propose et la possibilité de gérer l'ensemble du projet.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je utiliser l’IDE ​​?**
 

@@ -20,7 +20,7 @@ Sobald der Entwickler seinen Code in das System hochlädt, kompilieren im Hinter
 
 Dies ist eine gängige Praxis in großen Softwareteams und modernen Softwareentwicklungszyklen (DevOps).
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum führen wir keine manuellen Tests durch?**
 

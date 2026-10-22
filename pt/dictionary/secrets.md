@@ -22,7 +22,7 @@ Em vez de gravar essas informações confidenciais em arquivos de código, os de
 
 Pode ser confundida com senhas normais de usuários, mas são identidades digitais projetadas para máquinas, não para pessoas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que os segredos não são mantidos dentro do código?**
 

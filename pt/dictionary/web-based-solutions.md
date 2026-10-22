@@ -22,7 +22,7 @@ Você acessa o endereço de um site, faz login e o aplicativo começa a rodar de
 
 Pode ser confundido com aplicativos de desktop; Os aplicativos de desktop ocupam espaço físico no dispositivo, enquanto os baseados na Web são executados no navegador.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Posso usar o aplicativo se minha internet estiver cortada?**
 

@@ -24,7 +24,7 @@ Se utiliza en auditorías de ciberseguridad y procesos de creación de política
 
 Puede confundirse con listas de palabras; Esta herramienta es un motor de análisis que utiliza esas listas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo probar mi propia contraseña?**
 

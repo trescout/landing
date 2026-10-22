@@ -24,7 +24,7 @@ Il est obligatoire dans les logiciels d’entreprise, les systèmes financiers e
 
 Elle peut être confondue avec la base de données centrale ; Il s’agit d’un principe de gestion plutôt que d’une technique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ce principe est-il difficile ?**
 

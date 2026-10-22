@@ -22,7 +22,7 @@ It is used when developing web applications, mobile interfaces and all kinds of 
 
 It is mixed with the backend; While the backend is the invisible engine part, the frontend is the visible showcase.
 
-## Frequently asked questions
+## Questions and answers
 
 **Which tools enter the frontend stack?**
 

@@ -22,7 +22,7 @@ Il est mis en œuvre dans les startups d’intelligence artificielle et les dép
 
 Cela peut être confondu avec des opérations logicielles pures (DevOps) ; Les opérations d’IA présentent des défis supplémentaires liés aux données et aux modèles.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi une opération spéciale est-elle nécessaire ?**
 

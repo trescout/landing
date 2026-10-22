@@ -42,7 +42,7 @@ Regra: Se o dispositivo quebrar, os dados serão perdidos. O backup é mantido n
 **Cofre:** Confiança pessoal.
 **Bolsa:** Valor de bolso.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que acontece se o dispositivo quebrar?**
 

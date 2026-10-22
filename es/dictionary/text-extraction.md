@@ -22,7 +22,7 @@ Se utiliza en el procesamiento de facturas, sistemas de autenticación y digital
 
 Es casi lo mismo que OCR; Si bien la extracción de texto es el nombre general de este proceso, OCR es el nombre de la tecnología utilizada.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede leer escritura a mano?**
 

@@ -22,7 +22,7 @@ Se utiliza en los procesos de optimización de algoritmos de inteligencia artifi
 
 Se puede confundir con métodos de búsqueda que son más complejos y consideran todas las posibilidades; Este método es mucho más rápido pero no siempre garantiza el resultado perfecto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no siempre puede encontrar el mejor resultado?**
 

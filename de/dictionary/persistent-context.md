@@ -22,7 +22,7 @@ Es wird häufig in Kundendienst-Bots, persönlichen KI-Assistenten und langfrist
 
 Es sollte nicht mit dem temporären Speicher (Context Window) verwechselt werden: Während der temporäre Speicher nur das während des aktuellen aktiven Gesprächs erinnerte Wortlimit definiert, bewahrt der persistente Kontext Informationen auch Tage nach dem Schließen des Gesprächs auf.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verlangsamt der persistente Kontext die KI?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans les processus de développement logiciel, en particulier da
 
 L'outil de revue de code et les « assistants de codage IA » qui aident à l'écriture du code peuvent parfois être confondus ; alors que les assistants vous aident à écrire le code, les outils de revue contrôlent ce qui a déjà été écrit.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'outil de revue de code peut-il remplacer un éditeur humain ?**
 

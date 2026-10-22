@@ -44,7 +44,7 @@ Se cree que son lenguajes web. Ellos se ocupan de la interfaz, estos del hardwar
 **Base:** La estructura portante del edificio.
 **Esqueleto:** El armazón del cuerpo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuáles se incluyen?**
 

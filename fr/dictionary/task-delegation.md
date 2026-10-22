@@ -22,7 +22,7 @@ Il est utilisé dans les outils de gestion de projet, les systèmes multi-agents
 
 Il s’agit de la capacité d’attribuer le bon travail à la bonne ressource, et non de simplement confier le travail à quelqu’un d’autre.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment l’intelligence artificielle se transmet-elle ?**
 

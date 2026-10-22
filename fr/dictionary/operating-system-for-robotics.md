@@ -24,7 +24,7 @@ Il est utilisé dans les robots industriels, les véhicules autonomes et les pro
 
 À ne pas confondre avec les systèmes d'exploitation classiques (Windows/macOS) ; Ces systèmes sont optimisés uniquement pour la gestion du matériel robotique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Faut-il être ingénieur pour utiliser ce système ?**
 

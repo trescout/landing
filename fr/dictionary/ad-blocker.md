@@ -22,7 +22,7 @@ Il est généralement utilisé comme extension dans les navigateurs web ou se tr
 
 Parfois, bloquer les publicités et bloquer le contenu d'un site web peuvent être confondus, mais ces outils ciblent uniquement les serveurs publicitaires.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'utilisation d'un bloqueur de publicités nuit-elle aux sites ?**
 

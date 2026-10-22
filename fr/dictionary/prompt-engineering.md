@@ -22,7 +22,7 @@ Il est utilisé dans tous les domaines où l’intelligence artificielle interag
 
 Il peut sembler que vous posez simplement des questions, mais il s'agit d'un processus de stratégie et d'essais et d'erreurs.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que n'importe qui peut apprendre ?**
 

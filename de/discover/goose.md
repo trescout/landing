@@ -43,12 +43,12 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/de/dictionary/context/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
+- [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Entwickler, die ihre Softwareentwicklungsabläufe automatisieren und nativ mit verschiedenen KI-Modellen arbeiten möchten.
 - **Lizenz:** Apache-2.0

@@ -22,7 +22,7 @@ You will encounter it in antique telephones, museum collections and retro-themed
 
 Not to be confused with modern digital keypads or touch-screen interfaces.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it not used anymore?**
 

@@ -22,7 +22,7 @@ Es wird häufig in Codierungstools für künstliche Intelligenz, sicheren Sandbo
 
 Es wird mit der lokalen Laufzeit verwechselt. Während die lokale Umgebung die Hardware Ihres Computers direkt nutzt, führt die Remote-Umgebung alle Vorgänge auf einem externen Server in der Cloud aus.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Benötige ich eine ständige Internetverbindung, um Remote Runtime nutzen zu können?**
 

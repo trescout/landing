@@ -24,7 +24,7 @@ Se utiliza en bolsas de valores y plataformas de inversión.
 
 Pueden confundirse con fondos mutuos, pero los ETF se pueden comprar y vender en la bolsa de valores a precios spot durante el día.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería comprar un ETF en lugar de una sola acción?**
 

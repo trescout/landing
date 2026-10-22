@@ -43,7 +43,7 @@ On pense que c'est la même chose que la synthèse vocale. La technologie est la
 **Commis aux procès-verbaux :** Procès-verbaux d'audience.
 **Agent des archives :** Répertoire du registre.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce que ça marche dans toutes les langues ?**
 

@@ -22,7 +22,7 @@ It is common in financial consulting, content marketing, software development an
 
 It should not be confused with just 'selling software', where the intelligent added value provided by artificial intelligence is at the center.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can anyone make money with artificial intelligence?**
 

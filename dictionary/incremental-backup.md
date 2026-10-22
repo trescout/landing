@@ -22,7 +22,7 @@ Kurumsal veritabanlarında, büyük dosya sunucularında ve profesyonel yedeklem
 
 Tam yedekleme (full backup) ile karıştırılmamalıdır; tam yedekleme her seferinde her şeyi kopyalar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Geri yükleme yaparken zor mu?**
 

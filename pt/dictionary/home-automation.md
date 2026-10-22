@@ -44,7 +44,7 @@ A casa é o abrigo mais privado de uma pessoa; Conectar este refúgio à Interne
 - Controle Remoto vs Automação: Ligar a iluminação pressionando um botão no telefone não é automação; Automação ocorre quando o sistema interpreta os dados do sensor ambiental e toma a decisão por conta própria.
 - Dependente da nuvem versus controle local: dispositivos baseados em nuvem podem se tornar disfuncionais quando a Internet acaba e se tornarem lixo quando a empresa de manufatura fecha; Os sistemas controlados localmente (Matter/Zigbee/Home Assistant) funcionam para sempre, independentemente da Internet.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa automação residencial e qual é o seu equivalente turco?**
 

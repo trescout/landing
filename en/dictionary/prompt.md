@@ -44,7 +44,7 @@ It is considered engineering. Prompt is the only instruction, engineering is the
 **Order:** Kitchen receipt.
 **Specification:** Moderate instruction.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is bad will?**
 

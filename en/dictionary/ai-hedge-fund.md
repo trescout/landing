@@ -22,7 +22,7 @@ It is used in financial markets, stock market transactions and large-scale asset
 
 The difference from algorithmic trading is that artificial intelligence does not just follow rules but can develop its own strategy by learning from data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is there no need for people?**
 

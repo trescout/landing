@@ -22,7 +22,7 @@ It is used in autonomous artificial intelligence systems and complex workflows.
 
 It may be confused with the concept of AI Agent, but this concept is the management style of the abilities that the agent has.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is a framework needed?**
 

@@ -44,7 +44,7 @@ On pense qu'il s'agit d'un site web. Le site propose du contenu, l'interface uti
 **Poste de pilotage :** Disposition des indicateurs et des boutons.
 **Contrôle :** Panneau de contrôle de l'appareil.
 
-## Foire aux questions
+## Questions et réponses
 
 **Internet est-il nécessaire ?**
 

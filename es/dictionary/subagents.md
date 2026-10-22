@@ -22,7 +22,7 @@ Se utiliza en sistemas avanzados de inteligencia artificial, tareas de varios pa
 
 Es similar al LLM de múltiples agentes, pero el concepto de subagente enfatiza un modelo de gestión más jerárquico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué utilizamos subagentes en lugar de un único agente poderoso?**
 

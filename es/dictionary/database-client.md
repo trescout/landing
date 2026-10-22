@@ -22,7 +22,7 @@ Es ampliamente utilizado en procesos de desarrollo de software, estudios de aná
 
 No confundir con el servidor de base de datos que almacena los datos en sí; El cliente es sólo la interfaz y la herramienta de gestión.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué programas se conocen como clientes de bases de datos?**
 

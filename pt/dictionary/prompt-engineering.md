@@ -22,7 +22,7 @@ O usuário atribui uma função à IA, define a tarefa, explica o contexto e esp
 
 Pode parecer que você está apenas fazendo perguntas, mas é um processo de estratégia e tentativa e erro.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qualquer um pode aprender?**
 

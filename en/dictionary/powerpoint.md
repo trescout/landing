@@ -42,7 +42,7 @@ As a rule, there is only one idea per slide. Supporting the text with images is 
 **Photo album:** The visual flow that aligns the narrative.
 **Theatre:** Stage plan progressing act by act.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can I take notes while giving a presentation?**
 

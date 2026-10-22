@@ -56,7 +56,7 @@ Prominent tools that respond to different needs in the web ecosystem are:
 | esbuild | Go | Bundled | esbuild | Incredible raw build speed (10-100x faster than Node.js tools) |
 | Turbopack / Rspack | rust | Bundled / Hybrid | Rust engine | Performance for massive projects, compatible with the Webpack ecosystem |
 
-## Frequently asked questions
+## Questions and answers
 
 **What is Bundler and why is it essential in modern web development?**
 

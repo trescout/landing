@@ -46,7 +46,7 @@ A versão QLoRA limita ainda mais a memória. O risco de esquecimento é menor d
 **Lente:** Filtro anexado à câmera.
 **Correção:** Um brasão costurado nas roupas.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Desacelera?**
 

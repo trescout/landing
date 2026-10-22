@@ -22,7 +22,7 @@ Oyun oynayan yapay zekâlarda, robotik hareket kontrolünde ve finansal işlem s
 
 Supervised learning ile karıştırılabilir; onda doğru cevap verilir, bunda ise sadece sonuç ödüllendirilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden çok zaman alıyor?**
 

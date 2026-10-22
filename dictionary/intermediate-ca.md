@@ -24,7 +24,7 @@ SSL/TLS sertifika yönetiminde, web sunucu yapılandırmalarında ve kurumsal g�
 
 Doğrudan ana kök sertifikanın kendisi değildir, kök ile son nokta arasında güveni taşıyan köprü görevindeki ara basamaktır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ara sertifika neden doğrudan kök sertifika kullanılmaz?**
 

@@ -24,7 +24,7 @@ Se utiliza con frecuencia en configuraciones de servidores web, pruebas de rendi
 
 No debe confundirse con herramientas avanzadas de prueba de carga o automatizaciones de navegador reales; mide puramente la velocidad bruta del servidor.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Refleja exactamente el tráfico de usuarios reales?**
 

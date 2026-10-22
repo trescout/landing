@@ -24,7 +24,7 @@ Você conecta sua carteira digital à plataforma, seleciona os ativos que deseja
 
 Não deve ser confundido com corretoras centralizadas (CEX); nas corretoras centralizadas, seus ativos estão sob o controle da empresa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É necessário se registrar para usar uma DEX?**
 

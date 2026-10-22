@@ -22,7 +22,7 @@ Se utiliza en motores de búsqueda, datos de entrenamiento de inteligencia artif
 
 Puede confundirse con los metadatos ordinarios; La diferencia es que el semántico conlleva la relación de "significado" de los datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería utilizar metadatos semánticos?**
 

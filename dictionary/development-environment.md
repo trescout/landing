@@ -22,7 +22,7 @@ Web sitesi geliştirirken, mobil uygulama kodlarken veya veri analizi projeleri 
 
 Sıkça üretim ortamı (production) ile karıştırılır: Geliştirme ortamı sadece kod yazıp deneme yaptığımız mutfak iken, üretim ortamı yemeğin müşteriye sunulduğu restorandır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Geliştirme ortamı olmadan kod yazılamaz mı?**
 

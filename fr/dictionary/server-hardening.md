@@ -22,7 +22,7 @@ Il est utilisé dans les serveurs cloud, les centres de données sur site et les
 
 Ce n’est pas la même chose que d’installer simplement un pare-feu ; le renforcement est un processus de sécurité beaucoup plus complet.
 
-## Questions fréquentes
+## Questions et réponses
 
 **À quelle fréquence dois-je renforcer mon serveur ?**
 

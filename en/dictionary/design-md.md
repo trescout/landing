@@ -22,7 +22,7 @@ You'll often encounter it in open source projects or enterprise software reposit
 
 It may be confused with the README.md file; While README tells you how to run the project, DESIGN.md explains why the project was designed that way.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do I need a separate design file?**
 

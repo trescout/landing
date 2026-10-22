@@ -22,7 +22,7 @@ Les sites de comparaison de prix sont utilisés pour collecter les ensembles de 
 
 Il est confondu avec l'exploration du Web, mais alors que l'exploration est utilisée pour indexer des sites, le scraping est effectué pour extraire des données spécifiques et leur donner un sens.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tous les sites peuvent-ils être supprimés ?**
 

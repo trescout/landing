@@ -79,7 +79,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
 
 - **Who it is for:** It is intended for users who want to set up a home server (Homelab) or a personal cloud, avoiding terminal complexity and aiming to manage Docker applications with a single click.
-- **License:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **License:** Apache-2.0 (An open-source license offering broad freedom)
 - **Developer:** IceWhale Technology and Open Source Community
 - **Supported Systems:** Ubuntu, Debian, Raspberry Pi OS, Armbian (x86_64, aarch64, armv7)
 

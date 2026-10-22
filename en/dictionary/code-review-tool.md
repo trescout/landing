@@ -22,7 +22,7 @@ It is used in software development processes, especially in team projects. It pl
 
 A code review tool and 'AI Coding Assistants' that help with writing code can sometimes be confused; while assistants help you write the code, review tools audit what has already been written.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can a code review tool replace a human editor?**
 

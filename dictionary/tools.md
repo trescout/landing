@@ -58,7 +58,7 @@ Siber güvenlik dünyasında "tool" kavramı iki ucu keskin bir kılıçtır:
 
 - Araçların kendisi nötrdür; kullanım niyeti ve yetkilendirme sınırları güvenliğin ahlaki çerçevesini belirler.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Tools ne demek ve Türkçe karşılığı nedir?**
 

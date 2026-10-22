@@ -37,7 +37,7 @@ C'est similaire au deepfake. Le deepfake génère également de l'audio et des s
 **Doublure :** Échange de visage dans une scène dangereuse.
 **Photomontage :** Fusion de visages dans une image.
 
-## Foire aux questions
+## Questions et réponses
 
 **Un matériel performant est-il nécessaire ?**
 

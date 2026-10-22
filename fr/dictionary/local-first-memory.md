@@ -42,7 +42,7 @@ On pense au mode hors ligne. C'est un état temporaire, il s'agit d'un modèle d
 **Coffre-fort :** Dépôt personnel.
 **Portefeuille :** Valeur transportée dans la poche.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que se passe-t-il si l'appareil tombe en panne ?**
 

@@ -22,7 +22,7 @@ Funciona en puertas de enlace API, arquitecturas de microservicios y enrutadores
 
 No es una base de datos que almacene datos directamente; Es solo un oficial de policía de tránsito que gestiona el tráfico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué hace la capa de enrutamiento?**
 

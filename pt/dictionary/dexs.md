@@ -24,7 +24,7 @@ São utilizadas nos mercados de criptomoedas, em projetos de finanças descentra
 
 Podem ser confundidas com corretoras centralizadas (CEX).
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preciso confiar em alguém ao usar DEXs?**
 

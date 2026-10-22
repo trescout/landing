@@ -41,7 +41,7 @@ On le prend pour un carnet d'adresses, mais le CRM ne se contente pas d'enregist
 **Bibliothèque :** Carte de membre et historique des emprunts.
 **École :** Système d'information des étudiants.
 
-## Foire aux questions
+## Questions et réponses
 
 **Dois-je utiliser CRM ?**
 

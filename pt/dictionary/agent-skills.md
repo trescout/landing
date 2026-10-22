@@ -40,7 +40,7 @@ Pensa-se que é inteligência geral. No entanto, o que se pretende é a capacida
 **Caixa de ferramentas:** Chave selecionada de acordo com o trabalho.
 **Loja de aplicativos:** Programa baixado de acordo com a necessidade.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Sou eu quem adiciona as habilidades?**
 

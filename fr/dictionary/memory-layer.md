@@ -22,7 +22,7 @@ Elle intervient dans les assistants personnalisés en intelligence artificielle,
 
 Elle est différente de la fenêtre contextuelle, qui est la mémoire instantanée du modèle ; Les informations ici sont stockées de manière permanente.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les données de la couche mémoire restent-elles privées ?**
 

@@ -24,7 +24,7 @@ Modern web uygulamaları, SaaS platformları ve hızlı güncelleme gerektiren d
 
 Continuous Delivery ile karıştırılabilir; Delivery'de canlıya alma aşaması manuel bir onay gerektirebilir, Deployment'ta ise tamamen otomatiktir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hata yaparsak ne olur?**
 

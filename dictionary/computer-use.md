@@ -22,7 +22,7 @@ Karmaşık veri girişi gerektiren işlerde, web sitelerinde gezinti yaparken ve
 
 AI Agent kavramı ile çok yakındır ancak Computer Use, özellikle ekran arayüzü kontrolü üzerine odaklanan spesifik bir yetenek setidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu özellik güvenli mi?**
 

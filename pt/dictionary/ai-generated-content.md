@@ -22,7 +22,7 @@ O usuário dá um comando, o modelo de inteligência artificial calcula dentro d
 
 Pode ser misturado com conteúdo assistido por IA; Aqui, a produção pertence inteiramente à inteligência artificial.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quem detém os direitos autorais desses conteúdos?**
 

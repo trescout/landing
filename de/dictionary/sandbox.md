@@ -22,7 +22,7 @@ Es wird in Cybersicherheitstests, in Softwareentwicklungsphasen und für Browser
 
 Kann mit virtuellen Maschinen gemischt werden; Ein Sandkasten ist ein isolierter Raum, der im Allgemeinen leichter und auf eine bestimmte Anwendung spezialisiert ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist eine Sandbox notwendig?**
 

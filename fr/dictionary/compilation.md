@@ -22,7 +22,7 @@ C'est une étape incontournable avant d'exécuter le programme dans des langages
 
 La différence avec les langages interprétés est que le code est complètement transformé avant l'exécution, et non au moment de l'exécution.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que tous les langages doivent être compilés ?**
 

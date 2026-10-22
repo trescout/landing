@@ -24,7 +24,7 @@ It takes an active part in SSL/TLS certificate management, web server configurat
 
 It is not the main root certificate itself, but an intermediate step acting as a bridge that carries trust between the root and the endpoint.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why isn't the root certificate used directly instead of an intermediate certificate?**
 

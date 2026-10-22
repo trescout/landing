@@ -38,7 +38,7 @@ They are thought to be language models. They are narrowly specialized, this is t
 **Chef:** Kitchen overall.
 **Poet:** Language in general.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **How to understand?**
 

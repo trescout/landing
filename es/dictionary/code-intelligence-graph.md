@@ -22,7 +22,7 @@ Se utiliza en editores de código modernos, herramientas de desarrollo de softwa
 
 No es sólo una lista de archivos o una simple estructura de carpetas; También incluye las relaciones lógicas del código.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario esto?**
 

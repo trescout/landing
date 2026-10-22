@@ -22,7 +22,7 @@ Primeiro, um enorme conjunto de dados é coletado e esses dados são inseridos n
 
 Pode ser confundido com todos os softwares de inteligência artificial; O modelo é apenas a parte “cérebro” do software.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Cada modelo pode fazer todos os trabalhos?**
 

@@ -41,7 +41,7 @@ Tokens especiais que estão presentes no vocabulário do tokenizador, mas que ap
 
 Por exemplo, quando tokens como SolidGoldMagikarp, derivados de nomes de usuário em fóruns do Reddit ou códigos em sites de e-commerce, são solicitados ao modelo, a inteligência artificial começa a alucinar, pode listar palavrões sem sentido ou travar, pois não consegue posicionar corretamente o vetor desse token no espaço de embedding.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa tokenizador, qual é a tradução em turco?**
 

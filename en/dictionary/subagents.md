@@ -22,7 +22,7 @@ It is used in advanced artificial intelligence systems, multi-step tasks, and co
 
 It is similar to the multi-agent LLM, but the subagent concept emphasizes a more hierarchical management model.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we use sub-agents instead of a single powerful agent?**
 

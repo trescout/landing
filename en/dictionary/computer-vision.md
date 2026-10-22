@@ -2,6 +2,8 @@
 
 *Artificial Intelligence · Last updated: June 9, 2026*
 
+> CV
+
 It is a technology that allows computers to analyze visual data (photos, videos) and make sense of the objects, people or events in them.
 
 ## Overview
@@ -22,7 +24,7 @@ It is used in autonomous vehicles, facial recognition systems, medical imaging a
 
 Can be mixed with multimodal; multimodal can process both text and images, while computer vision is visually oriented.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can computer vision see everything?**
 

@@ -18,7 +18,7 @@ Kod yazarken değişkenlerin türlerini (sayı, metin, tarih gibi) tanımlarsın
 
 Modern programlama dillerinde ve büyük ölçekli yazılım projelerinde hata payını düşürmek için kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Type-safe olmanın avantajı nedir?**
 

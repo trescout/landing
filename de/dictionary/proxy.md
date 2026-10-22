@@ -41,7 +41,7 @@ Es gilt als VPN. VPN tunnelt das gesamte Gerät, während Proxy normalerweise au
 **Rezeption:** Der Beamte, der den Besucher begrüßt.
 **Interpreter:** Das Medium, das das Wort vermittelt.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es sicher?**
 

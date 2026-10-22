@@ -22,7 +22,7 @@ Es wird in energieeffizienter Hardware für künstliche Intelligenz, Modellkompr
 
 Es sollte nicht mit dem Binärsystem verwechselt werden: Binär verwendet nur 0 und 1, während Ternär mit 3 verschiedenen Werten arbeitet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind ternäre Modelle der künstlichen Intelligenz wichtig?**
 

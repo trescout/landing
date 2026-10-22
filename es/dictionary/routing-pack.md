@@ -39,7 +39,7 @@ Cada línea en la salida muestra un salto. Los asteriscos o los tiempos prolonga
 **Tráfico aéreo:** La notificación previa del corredor aéreo que seguirá el avión.
 **Correo:** La clasificación de la carta en el centro de distribución según el código postal que figura en ella.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es 'Routing Pack' un término estándar?**
 

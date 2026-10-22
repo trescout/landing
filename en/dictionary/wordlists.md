@@ -30,7 +30,7 @@ It is thought to be a database. However, they are plain text files. One is a lib
 **Keychain:** Tried keys.
 **Password wheel:** Probability wheel.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it legal?**
 

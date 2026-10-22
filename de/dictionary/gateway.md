@@ -42,7 +42,7 @@ Es kann mit API Gateway verwechselt werden. API Gateway verwaltet Softwaredienst
 **Hafen:** Schiffe passieren den Zoll.
 **Rezeption:** Den Besucher auf die richtige Etage leiten.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann ich ohne Gateway auf das Internet zugreifen?**
 

@@ -39,7 +39,7 @@ Parece confusão. No entanto, é uma centralização regular. A bagunça se deve
 **Centro comercial:** Lojas com telhados partilhados.
 **Campus:** Edifícios com áreas comuns.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É adequado para todos?**
 

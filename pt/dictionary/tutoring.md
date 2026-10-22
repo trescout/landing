@@ -43,7 +43,7 @@ A crise socioeconómica mais fundamental do mundo da educação nos últimos 40 
 - Tutoria vs Ensino: O ensino geralmente visa transmitir um currículo para uma turma grande; A tutoria, por outro lado, é uma microorientação que se concentra em eliminar as lacunas na compreensão de um único indivíduo.
 - Tutoria vs AI Chatbot: Um chatbot normal resolve a tarefa para você; Um AI Tutor ajuda seu cérebro a estabelecer conexões neuronais, ajudando você a encontrar a solução passo a passo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa tutoria? Qual é o seu equivalente turco?**
 

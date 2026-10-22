@@ -44,7 +44,7 @@ They are mistaken for text models. However, those who produce visual, audio and 
 **Composer:** New melody with notes.
 **Writer:** New story with words.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does it violate copyright?**
 

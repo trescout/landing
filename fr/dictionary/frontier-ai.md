@@ -36,7 +36,7 @@ Confondu avec l'AGI. Frontier est le meilleur d'aujourd'hui, l'AGI est l'intelli
 **Everest :** La route du sommet de l'alpinisme.
 **Avion expérimental :** Plateforme de test aux limites.
 
-## Foire aux questions
+## Questions et réponses
 
 **Tout le monde peut-il l'utiliser ?**
 

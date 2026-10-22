@@ -40,9 +40,9 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [PWA](https://trescout.com/fr/dictionary/pwa/)
 - [SSO](https://trescout.com/fr/dictionary/sso/)
 - [Self-hosted](https://trescout.com/fr/dictionary/self-hosted/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/fr/dictionary/context/)
+- [MCP](https://trescout.com/fr/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux voyageurs qui souhaitent organiser leurs voyages de manière numérique, suivre leurs dépenses et avoir un contrôle total sur leurs données.
 - **Licence:** AGPL-3.0

@@ -28,7 +28,7 @@ As equipes de software devem observar padrões regulatórios e de segurança ao 
 
 As políticas internas da plataforma (Termos de Serviço/Política de Uso Aceitável) não devem ser confundidas com restrições regulatórias legais. As regras da plataforma são as preferências comerciais das próprias empresas; As restrições regulatórias são leis estaduais que, se violadas, resultam em multas pesadas e sanções legais relativas ao faturamento da empresa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Significado das restrições regulatórias?**
 

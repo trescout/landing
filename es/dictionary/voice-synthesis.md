@@ -22,7 +22,7 @@ Se utiliza en aplicaciones de audiolibros, lectores de pantalla para personas di
 
 Puede confundirse con Clonación de voz; La síntesis de voz es una producción de voz general, mientras que la clonación de voz imita la voz de una persona específica.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son lo mismo la síntesis de voz y el texto a voz?**
 

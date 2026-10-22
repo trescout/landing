@@ -81,7 +81,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Apple Silicon](https://trescout.com/pt/dictionary/apple-silicon/)
 
 - **Para quem é:** Pesquisadores de inteligência artificial, engenheiros de aprendizado de máquina, cientistas de dados e estudantes.
-- **Licença:** Apache-2.0 (Açık kaynak lisansı)
+- **Licença:** Apache-2.0 (licença de código aberto)
 - **Framework:** Framework LLM Minimalista Baseado em PyTorch
 - **Plataformas:** Linux, macOS (Apple Silicon MPS), Windows
 

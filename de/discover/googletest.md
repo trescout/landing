@@ -84,7 +84,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** C++-Softwareingenieure, Entwickler eingebetteter Systeme und Systemarchitekten.
-- **Lizenz:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **Lizenz:** BSD 3-Clause (Flexible Open-Source-Lizenz)
 - **Framework:** C++ Test- und Mock-Bibliothek
 - **Plattformen:** Linux, macOS, Windows, Android, iOS
 

@@ -22,7 +22,7 @@ Es wird in persönlichen Assistenten, Tools für künstliche Intelligenz zur Dur
 
 Es wird einfach mit dem Kontextfenster verwechselt, aber die Speicher-Engine ist ein viel längerfristiger und dauerhafter Datenspeicherprozess.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie wirkt sich die Speicher-Engine auf die Privatsphäre aus?**
 

@@ -22,7 +22,7 @@ It is used in development environments where artificial intelligence agents are 
 
 It's the same logic as Sandbox, but it's specifically specialized for agents.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is there any chance the agent might get out?**
 

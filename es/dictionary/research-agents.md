@@ -22,7 +22,7 @@ Se utilizan en investigaciones académicas, análisis de mercado o cuando desea 
 
 No deben confundirse con las consultas simples de los motores de búsqueda; los agentes procesan y sintetizan activamente los datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué inteligencias artificiales utilizan?**
 

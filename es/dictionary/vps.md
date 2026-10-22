@@ -46,7 +46,7 @@ Se puede confundir con el hosting compartido. En el hosting compartido, comparte
 **Planta de oficinas:** Recepción compartida, área de trabajo privada.
 **Caja de seguridad:** Su propio compartimento privado en el edificio del banco.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se requieren conocimientos técnicos para gestionar VPS?**
 

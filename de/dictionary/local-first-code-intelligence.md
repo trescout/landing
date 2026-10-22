@@ -22,7 +22,7 @@ Es wird in modernen Code-Editoren, nativen KI-gestützten Plugins und datenschut
 
 Es kann mit cloudbasierten Code-Assistenten verwechselt werden, aber hier endet der gesamte Prozess auf Ihrem Gerät.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich mich für lokal statt für die Cloud entscheiden?**
 

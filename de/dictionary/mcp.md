@@ -57,7 +57,7 @@ Kann mit API gemischt werden. API ist ein einzelnes Tor, während MCP der Regels
 **Eisenbahn:** Hakenstandard zum Verbinden von Waggons.
 **Sprache:** Gemeinsame Protokollsprache, die in der Diplomatie verwendet wird.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist MCP notwendig?**
 

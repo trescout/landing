@@ -38,7 +38,7 @@ Geleneksel sistemlerde veritabanı yöneticisinin tek bir SQL komutuyla geçmiş
 
 - **GDPR Unutulma Hakkını Göz Ardı Etmek:** Kişisel verilerin korunması kanunları silme hakkı talep ettiğinde, değişmez loglardan veri silmek mimariyi zorlar; bu sorun şifreleme anahtarının silinmesiyle verinin anlamsızlaştırıldığı kripto-imha (crypto-shredding) yöntemiyle çözülmelidir.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Append-only log mimarisi neden yerinde güncelleme (update-in-place) modeline göre daha hızlıdır?**
 

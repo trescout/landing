@@ -42,7 +42,7 @@ OpenTelemetry é o formato comum. Regra de custo: em vez de armazenar tudo indef
 **Hospital:** Monitor de paciente.
 **Cabine de pilotagem:** Telas de vôo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que o registro não é suficiente?**
 

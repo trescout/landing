@@ -83,7 +83,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [API](https://trescout.com/fr/dictionary/api/)
 
 - **Pour qui:** Éducateurs, chercheurs en intelligence artificielle, entrepreneurs EdTech et étudiants.
-- **Licence:** Apache-2.0 (Açık kaynak lisansı)
+- **Licence:** Apache-2.0 (licence Open Source)
 - **Toit:** Simulateur multi-agents TypeScript & Next.js
 - **Plateformes:** Navigateur Web, Linux, macOS, Windows
 

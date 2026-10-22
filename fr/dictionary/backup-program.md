@@ -38,7 +38,7 @@ Règle : Une sauvegarde n'est pas fiable tant qu'elle n'a pas été testée. La 
 **Coffre-fort :** Stockage de documents de valeur.
 **Assurance :** Garantie catastrophe.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi est-ce important ?**
 

@@ -22,7 +22,7 @@ It is used for user tracking on websites, mobile applications and corporate soft
 
 It can be confused with a username, but this is a more technical and general structure that allows the system to recognize you.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do I get a different ID for each system?**
 

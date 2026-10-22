@@ -22,7 +22,7 @@ It is used in many technical fields such as artificial intelligence development,
 
 It is not a single tool, but a collection of tools.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it mandatory to use a toolkit?**
 
@@ -41,6 +41,7 @@ While a framework builds the basic skeleton of your project, a toolkit is more o
 ## Related tools
 
 - [MVT](https://trescout.com/en/discover/mvt/)
+- [Agent Native](https://trescout.com/en/discover/agent-native/)
 - [Agent Governance Toolkit](https://trescout.com/en/discover/agent-governance-toolkit/)
 - [Agent Toolkit for Aws](https://trescout.com/en/discover/agent-toolkit-for-aws/)
 

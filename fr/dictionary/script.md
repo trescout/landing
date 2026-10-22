@@ -45,7 +45,7 @@ On le prend pour une application. L'application est grande et doit être compil�
 **Fiche de recette :** Instruction courte et mesurée.
 **Automate :** Mécanisme fonctionnant par insertion de jeton.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce que n'importe qui peut écrire ?**
 

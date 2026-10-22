@@ -22,7 +22,7 @@ Se utiliza en proyectos complejos de desarrollo de software, procesos de investi
 
 Puede confundirse con un agente de IA común y corriente; sin embargo, los agentes autónomos tienen la capacidad de tomar decisiones por sí mismos sin esperar la aprobación humana.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si los agentes autónomos cometen errores?**
 

@@ -80,7 +80,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Administrateurs système, ingénieurs DevOps, experts réseau et architectes cloud.
-- **Licence:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **Licence:** BSD 3-Clause (licence open source flexible)
 - **Toit:** Bibliothèque tsnet Go & Tailscale
 - **Plateformes:** Linux, macOS, Windows
 

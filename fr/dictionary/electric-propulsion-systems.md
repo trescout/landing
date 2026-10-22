@@ -18,7 +18,7 @@ Le courant électrique provenant des batteries est transmis au moteur électriqu
 
 Ils sont utilisés dans les voitures électriques, les véhicules aériens sans pilote (drones) et les systèmes robotiques modernes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ces systèmes sont-ils préférés ?**
 

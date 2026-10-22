@@ -22,7 +22,7 @@ Es wird in Chatbots, Tools zum Schreiben von Inhalten und Systemen zum Verfassen
 
 Es ist fast identisch mit LLM (Large Language Model), dieser Begriff betont jedoch, dass der Fokus ausschließlich auf der Textproduktion liegt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Schreibt er immer richtig?**
 

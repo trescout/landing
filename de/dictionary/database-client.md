@@ -22,7 +22,7 @@ Es wird häufig in Softwareentwicklungsprozessen, Datenanalysestudien und Server
 
 Nicht zu verwechseln mit dem Datenbankserver, der die Daten selbst speichert; Der Client ist lediglich die Schnittstelle und das Verwaltungstool.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Welche Programme werden als Datenbank-Clients bezeichnet?**
 

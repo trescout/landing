@@ -42,7 +42,7 @@ Serverless sanılır. İşlev geçicidir, nesne kalıcıdır. Biri günübirlik�
 
 *Not defterini hiç bırakmayan tetikte sekreter gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Veri nerede saklanır?**
 

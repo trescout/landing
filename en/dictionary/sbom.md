@@ -24,7 +24,7 @@ It is used in software security audits, enterprise software supply chain managem
 
 Not to be confused with the source code of the software; This is just an inventory list.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is SBOM important?**
 

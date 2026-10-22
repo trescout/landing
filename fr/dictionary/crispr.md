@@ -20,7 +20,7 @@ CRISPR est une technologie qui détecte les parties défectueuses de la séquenc
 
 Il est utilisé dans la recherche médicale, les technologies agricoles et le traitement des maladies génétiques.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la relation entre CRISPR et l’intelligence artificielle ?**
 

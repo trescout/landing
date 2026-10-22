@@ -22,7 +22,7 @@ No mundo da segurança cibernética, ele é usado em tudo, desde espionagem digi
 
 É confundido com bugs de software conhecidos, mas a diferença com uma vulnerabilidade de dia zero é que o desenvolvedor ainda não tem tempo para desenvolver defesas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é chamado de dia zero?**
 

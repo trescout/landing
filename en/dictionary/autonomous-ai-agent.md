@@ -22,7 +22,7 @@ It is used in complex software development projects, market research processes a
 
 It can be confused with an ordinary AI agent; however, autonomous agents have the ability to make decisions on their own without waiting for human approval.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if autonomous agents make mistakes?**
 

@@ -22,7 +22,7 @@ Analyse von Rechtsdokumenten, medizinische Diagnoseunterstützungssysteme und sp
 
 Es ähnelt der Feinabstimmung, aber hier liegt der Schwerpunkt auf den genauen Regeln, denen das Modell folgen muss, und nicht auf seinen Gesamtgewichten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum machen wir das?**
 

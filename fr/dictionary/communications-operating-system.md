@@ -22,7 +22,7 @@ Il est utilisé dans les centres de service client, les opérations des grandes 
 
 À ne pas confondre avec une simple application de messagerie ; Il s'agit d'une plateforme de gestion.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce nécessaire ?**
 

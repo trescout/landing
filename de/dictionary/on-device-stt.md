@@ -38,7 +38,7 @@ Cloud-Erkennung wird vermutet. Sie läuft auf dem Server, Daten gehen nach auße
 **Taschenrechner:** Betrieb ohne Akku.
 **Taschenlampe:** Licht ohne Netzwerk.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum statt Cloud?**
 
@@ -58,7 +58,7 @@ Ja. Kontinuierliches Zuhören hat seinen Preis, es wird bei Bedarf aktiviert.
 
 ## Verwandte Begriffe
 
-- [STT](https://trescout.com/de/dictionary/stt/)
+- [STT](https://trescout.com/de/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/de/dictionary/speech-to-text/)
 - [Local](https://trescout.com/de/dictionary/local/)
 

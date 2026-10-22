@@ -22,7 +22,7 @@ Found in advanced artificial intelligence models, strategy simulations, and auto
 
 It is completely different from simple data retrieval or listing search engine results; it requires reasoning.
 
-## Frequently asked questions
+## Questions and answers
 
 **How is reasoning capability measured?**
 

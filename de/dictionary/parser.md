@@ -22,7 +22,7 @@ Es wird in Compilern zum Lesen von HTML in Webbrowsern und in jeder Software ver
 
 Es kann mit dem Parsen von Dokumenten verwechselt werden. Parser ist jedoch ein allgemeineres Konzept und wird für alle Arten von Datenstrukturen verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn der Parser einen Fehler ausgibt?**
 

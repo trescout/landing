@@ -22,7 +22,7 @@ Se utiliza en asistentes personales, herramientas de análisis de documentos loc
 
 Se puede confundir con simplemente usar una aplicación; Aquí tienes el control total de la infraestructura.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es esto difícil de instalar?**
 

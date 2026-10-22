@@ -22,7 +22,7 @@ Incorporando coordenadas espaciais e restrições geométricas aos dados de entr
 
 Enquanto a arquitetura clássica de transformadores trata os dados como uma sequência unidimensional ou uma grade plana, o geometric context transformer inclui coordenadas espaciais multidimensionais diretamente no cálculo de atenção.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que os modelos de transformadores clássicos são insuficientes?**
 

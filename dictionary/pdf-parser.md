@@ -22,7 +22,7 @@ Belge otomasyonunda, RAG sistemlerinde ve veri girişi süreçlerinde kullanıl�
 
 Sadece metin kopyalayan araçlarla karıştırılmamalıdır; parser, verinin yapısını (tablo, başlık vb.) korumaya çalışır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her PDF parser aynı mıdır?**
 

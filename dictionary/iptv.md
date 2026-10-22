@@ -24,7 +24,7 @@ Akıllı televizyonlarda, özel IPTV kutularında veya bilgisayar ve telefonlard
 
 İnternet üzerinden yayın yapan Netflix veya YouTube gibi platformlarla karıştırılabilir, ancak IPTV genellikle canlı televizyon kanallarının iletimini kapsayan bir altyapı teknolojisidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **IPTV izlemek için yüksek hızlı internet şart mı?**
 

@@ -22,7 +22,7 @@ AI Agent wird in Entwicklungsprozessen, Stellenbeschreibungen und im Projektmana
 
 Es kann mit einer einzelnen „Fähigkeit“ verwechselt werden, es handelt sich jedoch um eine Reihe von Fähigkeiten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können wir der künstlichen Intelligenz neue Fähigkeiten hinzufügen?**
 

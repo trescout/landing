@@ -22,7 +22,7 @@ Es wird in Suchmaschinen verwendet, um Ergebnisse mit ähnlicher Bedeutung zu li
 
 Oft wird davon ausgegangen, dass es sich lediglich um eine Übersetzungsmethode handelt, es handelt sich jedoch nicht um eine Übersetzung, sondern um eine mathematische Platzierung von Bedeutung im Raum.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum benutzen wir nicht einfach Worte?**
 

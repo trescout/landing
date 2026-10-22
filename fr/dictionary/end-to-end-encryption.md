@@ -38,7 +38,7 @@ On pense au TLS. Le TLS protège en transit, le serveur voit le contenu. Dans le
 **Sceau :** Enveloppe dont l'ouverture est visible.
 **Circuit fermé :** Ligne fermée vers l'extérieur.
 
-## Foire aux questions
+## Questions et réponses
 
 **Si c'est volé, est-ce lisible ?**
 

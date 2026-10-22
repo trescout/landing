@@ -22,7 +22,7 @@ O sistema acumula os dados recebidos em uma pasta ou banco de dados. Quando cheg
 
 Pode ser confundido com processamento em tempo real; O processamento em tempo real reage imediatamente, enquanto o processamento em lote aguarda.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que processamos em massa?**
 

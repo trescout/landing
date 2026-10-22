@@ -22,7 +22,7 @@ It is preferred to get fast and effective results in places where huge models ca
 
 It is confused with quantization; But while quantization compresses the model's weights, distillation involves training an entirely new, smaller model.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will the smaller model be as successful as the larger model?**
 

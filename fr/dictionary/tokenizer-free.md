@@ -22,7 +22,7 @@ Il est utilisé dans les modèles multilingues, les systèmes de traitement voca
 
 Elle est confondue avec les modèles traditionnels basés sur des jetons, mais cette méthode constitue une forme de traitement de données plus brute et directe.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que ça court plus vite ?**
 

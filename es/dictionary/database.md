@@ -22,7 +22,7 @@ Se utiliza en casi todas partes, desde la información del usuario en sitios web
 
 A veces se confunde simplemente con el almacenamiento de archivos, pero una base de datos no sólo almacena información, sino que también la gestiona.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante la base de datos?**
 

@@ -22,7 +22,7 @@ Derleyicilerde, web tarayıcılarında HTML okumak için ve veri formatlarını 
 
 Document Parsing ile karıştırılabilir; ancak parser daha genel bir kavramdır ve her türlü veri yapısı için kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Parser hata verirse ne olur?**
 

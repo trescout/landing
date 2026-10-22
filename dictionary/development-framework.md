@@ -22,7 +22,7 @@ Web geliştirme, mobil uygulama yapımı ve yapay zekâ model entegrasyonlarınd
 
 Kütüphane ile karıştırılabilir; kütüphaneler sadece araçtır, framework ise tüm çalışma düzenini belirler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her projede framework kullanmalı mıyım?**
 

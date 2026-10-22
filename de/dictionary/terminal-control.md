@@ -22,7 +22,7 @@ Es wird häufig in der Softwareentwicklung, Serververwaltung und Automatisierung
 
 Es ist dasselbe wie das Konzept der CLI (Command Line Interface); Die Terminalsteuerung bezieht sich auf den aktiven Nutzungsprozess dieser Schnittstelle.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum nutzt nicht jeder das Terminal?**
 

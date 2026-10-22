@@ -22,7 +22,7 @@ Un modèle de base sous-tend la plupart des applications modernes d’intelligen
 
 On les prend pour de simples chatbots ; Pourtant, ils sont à la base de beaucoup de choses, de l’écriture de code au traitement d’images.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le modèle Foundation à lui seul est-il suffisant ?**
 

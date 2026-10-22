@@ -22,7 +22,7 @@ Ele é usado em aplicativos da web e sites de grande escala que se preocupam com
 
 Pode ser confundido com agrupamento; Embora o agrupamento combine arquivos, a divisão de código os separa de forma inteligente em pedaços.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Haverá um atraso quando o usuário clicar na página?**
 

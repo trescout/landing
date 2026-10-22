@@ -46,7 +46,7 @@ It is considered fine-tuning. It covers the entire model, it is a lightweight ad
 **Lens:** Filter attached to the camera.
 **Patch:** A coat of arms sewn onto clothing.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does it slow down?**
 

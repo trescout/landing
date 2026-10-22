@@ -66,7 +66,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Advanced · ML/model knowledge
 - **What offers:** Multilingual TTS + sound design + cloning
 - **Fee:** Free · open source (Apache-2.0)
-- **License:** Apache-2.0 · ayrıntı aşağıda
+- **License:** Apache-2.0 · detail below
 
 **License:** Apache-2.0 · code freely available/commercial. You assume legal/ethical responsibility for model output and audio transcription.
 

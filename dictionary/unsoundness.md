@@ -22,7 +22,7 @@ Derleyici geliştirme süreçlerinde, düşük seviyeli dil tasarımlarında ve 
 
 Basit programlama hatalarından (bug) farklıdır, dilin temel güvenilirlik vaadinin temelden sarsılması anlamına gelir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her yazılım dilinde görülür mü?**
 

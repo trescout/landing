@@ -43,7 +43,7 @@ Los datos sin procesar se pueden descargar desde el archivo Planet.osm. Las imá
 **Software de código abierto:** El núcleo de Linux, que crece gracias a la contribución voluntaria.
 **Ciencia ciudadana:** La recopilación de registros de observación de aves en una base de datos común.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es realmente gratuito?**
 

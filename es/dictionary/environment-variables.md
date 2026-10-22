@@ -42,7 +42,7 @@ Se considera un valor constante. Permanece en el código fijo, la variable está
 **Batería del control remoto:** Energía extraíble.
 **Llavero:** Acceso portátil.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se mantiene oculto?**
 

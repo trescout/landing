@@ -22,7 +22,7 @@ Hız ve verimliliğin kritik olduğu sistem programlamasında, oyun motorlarınd
 
 Sanal makine üzerinde çalışan ara kod dosyalarıyla karıştırılır. Ara kod dosyaları her bilgisayarda çalışabilmek için bir aracıya ihtiyaç duyarken, yerel ikili dosyalar sadece üretildikleri özel sistemde doğrudan çalışır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yerel ikili dosyalar her bilgisayarda çalışır mı?**
 

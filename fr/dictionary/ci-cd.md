@@ -47,7 +47,7 @@ On pense qu'il s'agit d'un test manuel. Cependant, la ligne est complètement au
 **Chaîne de montage:** Pièce, inspection et emballage.
 **Bande de bagage :** Inscription, navigation et téléchargement.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi est-ce si important ?**
 

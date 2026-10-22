@@ -2,12 +2,13 @@
 
 Organiza contenido de investigación en un vault de Obsidian enlazando fuentes y aplicando cambios aprobados mediante transacciones reversibles. Diseñado para priorizar el funcionamiento local y minimizar la dependencia de la nube.
 
-- ★ 14.822
+- ★ 15.713
 - Python
 - GitHub Trending · 2026-08-25
 
 ## Actualizaciones
 
+- **22 de octubre de 2026:** Estrellas 14,822 → 15,713, última versión v3.0.1 (21 de octubre de 2026).
 - **11 de septiembre de 2026:** Estrellas 14,727 → 14,822, última versión v2.2.0 (10 de septiembre de 2026).
 - **8 de septiembre de 2026:** Estrellas 13,706 → 14,727, última versión v2.1.1 (25 de agosto de 2026).
 - **27 de agosto de 2026:** Estrellas 12,404 → 13,706, última versión v2.1.1 (25 de agosto de 2026).

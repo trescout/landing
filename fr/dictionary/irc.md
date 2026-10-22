@@ -24,7 +24,7 @@ Il est utilisé dans des projets de logiciels open source, des groupes de suppor
 
 La différence avec les outils modernes comme Discord ou Slack est qu'il ne dispose pas de fonctionnalités visuelles ou de partage de fichiers.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'IRC est-il sûr ?**
 

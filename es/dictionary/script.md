@@ -45,7 +45,7 @@ Se cree que es una aplicación. La aplicación es grande y requiere compilación
 **Tarjeta de receta:** Instrucción corta y moderada.
 **Autómata:** Mecanismo que funciona al presionar la ficha.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Alguien puede escribir?**
 

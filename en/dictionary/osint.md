@@ -44,7 +44,7 @@ It's considered hacking. He infiltrates, he reads. One breaks down doors, the ot
 **Detective:** Don't track.
 **Archeology:** Whole from part.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it legal?**
 

@@ -22,7 +22,7 @@ Se utiliza en herramientas de programación impulsadas por inteligencia artifici
 
 No debe confundirse con un entorno de desarrollo (development environment): mientras que el entorno de desarrollo está diseñado para que los humanos escriban código, el espacio de trabajo del agente está completamente optimizado para que el software de inteligencia artificial opere por sí mismo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede el agente de inteligencia artificial salir de este espacio de trabajo y dañar mi ordenador?**
 

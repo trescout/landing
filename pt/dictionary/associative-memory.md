@@ -22,7 +22,7 @@ Os dados apresentados como entrada são vetorizados ou convertidos em padrões d
 
 É misturado com a tradicional memória de acesso aleatório (RAM). Enquanto a RAM recupera informações com endereços físicos numéricos, a memória associativa encontra os dados diretamente por meio da similaridade em seu conteúdo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Também funciona quando a entrada está ausente ou com ruído?**
 

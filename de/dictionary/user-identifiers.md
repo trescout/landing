@@ -22,7 +22,7 @@ Es wird zur Benutzerverfolgung auf Websites, mobilen Anwendungen und Unternehmen
 
 Es kann mit einem Benutzernamen verwechselt werden, es handelt sich jedoch um eine technischere und allgemeinere Struktur, die es dem System ermöglicht, Sie zu erkennen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum erhalte ich für jedes System eine andere ID?**
 

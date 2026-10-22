@@ -38,7 +38,7 @@ Bunun ötesinde Transformer, metin sınırlarını aşarak evrensel bir yapay ze
 
 - **Yanlış Göreve Yanlış Model Seçmek:** Salt sınıflandırma veya arama işlerinde devasa Decoder modelleri yerine Encoder modelleri tercih edilmelidir.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Transformer mimarisinin RNN ve LSTM modellerine göre en büyük üstünlüğü nedir?**
 

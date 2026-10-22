@@ -38,7 +38,7 @@ O reconhecimento na nuvem é uma ilusão. Ele roda no servidor, os dados saem. E
 **Calculadora:** Processamento sem bateria.
 **Lanterna:** Luz sem rede.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que em vez da nuvem?**
 
@@ -58,7 +58,7 @@ Sim. A escuta contínua tem um custo, é ativada no momento da necessidade.
 
 ## Termos relacionados
 
-- [STT](https://trescout.com/pt/dictionary/stt/)
+- [STT](https://trescout.com/pt/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/pt/dictionary/speech-to-text/)
 - [Local](https://trescout.com/pt/dictionary/local/)
 

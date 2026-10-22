@@ -22,7 +22,7 @@ It is a fundamental building block in accessibility tools, automated call center
 
 It is confused with just voiceover; However, this process is a complex mathematical calculation that also calculates the meaning and emphasis of the text.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the difference between Speech Synthesis and Text-to-Speech?**
 

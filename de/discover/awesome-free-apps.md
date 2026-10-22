@@ -44,7 +44,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Sehr einfach · einfach lesen
 - **Formatieren:** Kategorisierte Liste (auf GitHub)
 - **Gebühr:** Kostenlos (sowohl Liste als auch Apps)
-- **Lizenz:** Belirsiz (NOASSERTION) · ayrıntı aşağıda
+- **Lizenz:** Unsicher (NOASSERTION) · Details unten
 
 **Lizenz:** ⚠️ Keine Standardlizenz definiert (GitHub sagt „NOASSERTION“). Die Liste kann kostenlos gelesen und verwendet werden; Fragen Sie jedoch den Eigentümer, bevor Sie Inhalte auf eigene Faust kopieren und erneut veröffentlichen. · Wiederverwendungsrechte sind unklar.
 

@@ -81,7 +81,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Apple Silicon](https://trescout.com/es/dictionary/apple-silicon/)
 
 - **Para quién es:** Investigadores de IA, ingenieros de aprendizaje automático, científicos de datos y estudiantes.
-- **Licencia:** Apache-2.0 (Açık kaynak lisansı)
+- **Licencia:** Apache-2.0 (licencia de código abierto)
 - **Marco:** Marco LLM minimalista basado en PyTorch
 - **Plataformas:** Linux, macOS (Apple Silicon MPS), Windows
 

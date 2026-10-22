@@ -22,7 +22,7 @@ Er arbeitet aktiv in der Kompilierungsphase von Rust-Projekten, die in der Syste
 
 Er unterscheidet sich von normalen Debuggern; er arbeitet nicht zur Laufzeit des Programms, sondern während des Schreibens und Kompilierens des Codes.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist er so streng?**
 

@@ -22,7 +22,7 @@ As informações provenientes de sensores ou fontes de dados são constantemente
 
 Não confundir com mera coleta de dados; A conscientização requer compreender os dados e reagir.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é importante para a inteligência artificial?**
 

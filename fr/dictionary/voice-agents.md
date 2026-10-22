@@ -22,7 +22,7 @@ Il est utilisé dans les smartphones, les systèmes de service client et les ass
 
 Peut être confondu avec de simples systèmes de commande vocale ; les agents peuvent avoir des conversations beaucoup plus complexes et contextuelles.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peuvent-ils parler n’importe quelle langue ?**
 

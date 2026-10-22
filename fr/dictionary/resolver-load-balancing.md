@@ -22,7 +22,7 @@ Il est utilisé sur les grands sites Web et les infrastructures réseau à fort 
 
 Elle peut être confondue avec le simple clustering de serveurs, mais cette méthode se concentre spécifiquement sur la gestion du trafic des requêtes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le chantier va-t-il accélérer grâce à ce système ?**
 

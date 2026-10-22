@@ -34,7 +34,7 @@ Más allá de eso, RAG proporciona transparencia y explicabilidad en inteligenci
 - Omitir la reordenación: Enviar los fragmentos iniciales directamente al prompt mediante similitud vectorial sin un cross-encoder es una invitación a las alucinaciones.
 - Problema de Pérdida en el Medio (Lost-in-the-Middle): Dado que los LLM pueden pasar por alto información en el medio de prompts largos, las fuentes más críticas deben colocarse al principio o al final.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la principal diferencia entre RAG y Fine-Tuning?**
 

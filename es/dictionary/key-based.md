@@ -22,7 +22,7 @@ Se utiliza con frecuencia en sistemas en la nube, conexiones API y archivos comp
 
 Es similar a una contraseña, pero las claves suelen ser más largas y constan de caracteres aleatorios.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué utilizar clave en lugar de contraseña?**
 

@@ -22,7 +22,7 @@ It is used in the core architectural layer of all contemporary language models a
 
 It might be confused with general memory or simple word-counting methods, but the core phenomenon here is the capability to focus.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it so important?**
 

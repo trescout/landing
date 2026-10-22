@@ -37,7 +37,7 @@ Programlı robot sanılır. O sabit yolu tekrarlar, bu belirsizlikte çözüm ü
 
 *Kumandalı araba değil, yolunu trafiğe göre bulan sürücüsüz araç gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Hata yapmaz mı?**
 

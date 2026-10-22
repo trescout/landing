@@ -24,7 +24,7 @@ Se utiliza en software empresarial, sistemas en la nube y gestión de bases de d
 
 Se puede confundir con SSO (Inicio de sesión único); SSO es el método de inicio de sesión, mientras que RBAC es su autorización después de iniciar sesión.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería utilizar RBAC?**
 

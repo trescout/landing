@@ -24,7 +24,7 @@ It is actively used in all areas of life, from voice assistants on smartphones t
 
 It is confused with mere robots, but artificial intelligence can also exist as just software without the need for a physical body.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can artificial intelligence really think?**
 

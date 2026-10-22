@@ -22,7 +22,7 @@ Netflix, Spotify veya canlı yayın platformlarında kullanılır.
 
 İndirme (download) ile karıştırılır; indirmede tüm dosyayı almadan izleyemezsiniz, streaming'de ise hemen başlarsınız.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **İnternet hızım yavaşsa ne olur?**
 

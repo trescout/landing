@@ -18,7 +18,7 @@ Ferramentas de teste automatizadas são executadas durante o processo de desenvo
 
 É utilizado em processos de desenvolvimento de software, linhas CI/CD e relatórios de controle de qualidade.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **100% de cobertura de código é sempre bom?**
 

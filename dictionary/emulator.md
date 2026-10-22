@@ -46,7 +46,7 @@ Emülatör geliştirmenin yasallığı dünya çapında emsal davalarla tescille
 - **Sony v. Connectix (2000) ve Sony v. Bleem! Davaları:** Mahkemeler, bir donanımın çalışma prensiplerini temiz oda (clean-room reverse engineering) yöntemiyle tersine mühendislik yaparak yazılıma dökmenin yasal olduğuna ve adil kullanım (fair use) kapsamına girdiğine hükmetmiştir.
 - **Telif Sınırı:** Emülatör yazılımının kendisi yasaldır. Ancak hedef cihazın telif hakkı içeren tescilli BIOS yazılımlarını veya telifli oyun/yazılım ROM dosyalarını izinsiz kopyalayıp internetten indirmek telif hakkı ihlali oluşturur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Emülatör ne demek ve Türkçe karşılığı nedir?**
 

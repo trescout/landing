@@ -22,7 +22,7 @@ Ils sont fréquemment utilisés dans les robots du service client, les outils de
 
 À ne pas confondre avec les modèles d'IA standard qui produisent uniquement du texte ; les agents vont au-delà de la production de texte et agissent.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les agents prennent-ils toujours la bonne décision ?**
 

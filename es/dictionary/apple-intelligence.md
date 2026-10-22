@@ -22,7 +22,7 @@ Se utiliza al redactar correos electrónicos, revisar resúmenes de notificacion
 
 Se puede confundir con los tradicionales chatbots basados en la nube; sin embargo, este sistema está profundamente integrado en el sistema operativo del dispositivo y su enfoque principal es la privacidad local de los datos personales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Funciona Apple Intelligence sin internet?**
 

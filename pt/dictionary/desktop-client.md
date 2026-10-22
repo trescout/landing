@@ -22,7 +22,7 @@ Você baixa o arquivo de instalação do aplicativo e o instala em seu computado
 
 Pode ser confundido com aplicações web; Embora os aplicativos da web dependam do navegador, o cliente de desktop funciona de forma independente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Um aplicativo de desktop é sempre melhor?**
 

@@ -55,7 +55,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Outil de développement moyen
 - **Quelles offres:** Analyse rapide des documents
 - **Frais:** Gratuit · open source (Apache-2.0)
-- **Licence:** Apache-2.0 · ayrıntı aşağıda
+- **Licence:** Apache-2.0 · détail ci-dessous
 
 **Licence:** Apache-2.0 · vous pouvez l'utiliser librement, le modifier, en faire un usage commercial (inclut également la protection par brevet).
 

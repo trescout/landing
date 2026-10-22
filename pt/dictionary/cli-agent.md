@@ -24,7 +24,7 @@ Você concede acesso ao seu terminal; Ele também lista arquivos, atualiza pacot
 
 Pode ser confundido com um simples script 'script' ou 'shell'; os agentes têm a capacidade de tomar decisões com base nos resultados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É seguro?**
 

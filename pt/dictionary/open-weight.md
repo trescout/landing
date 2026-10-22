@@ -43,7 +43,7 @@ Nota sobre licença: Apache e MIT são gratuitos, licenças comunitárias podem 
 **Livro didático:** A fonte que todos lêem.
 **Semente:** Semente ancestral compartilhada.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Qual é a diferença com código aberto?**
 

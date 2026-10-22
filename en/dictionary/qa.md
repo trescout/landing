@@ -54,7 +54,7 @@ With the rise of probabilistic (non-deterministic) systems such as Large Languag
 
 **AI-Powered Test Generation:** Automatic detection of test scenarios and visual UI regression differences using AI models.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does QA mean and what is its expansion?**
 

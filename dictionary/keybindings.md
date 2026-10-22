@@ -29,7 +29,7 @@ Keybind (veya keybinding / tuş ataması), bir klavye tuşuna veya tuş kombinas
 
 Klavye kısayolu (shortcut) ile keybind sıklıkla eşanlamlı kullanılır. Ancak pratikte shortcut işletim sistemi seviyesindeki evrensel kombinasyonları (Ctrl+V, Alt+Tab) ifade ederken; keybind daha çok kullanıcının editör veya oyun içinde kendi alışkanlıklarına göre yeniden haritalandırdığı (re-map) özel atamaları tanımlar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Keybind meaning (Keybind ne demek)?**
 

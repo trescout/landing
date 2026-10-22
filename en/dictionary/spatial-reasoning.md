@@ -22,7 +22,7 @@ It is used in autonomous robots, artificial intelligence models that understand 
 
 It is not just visual recognition, but an understanding that includes depth and logic.
 
-## Frequently asked questions
+## Questions and answers
 
 **How does artificial intelligence learn this?**
 

@@ -22,7 +22,7 @@ Akıllı ev otomasyonlarında, ofis enerji tasarrufu sistemlerinde ve güvenlik 
 
 Hareket sensörleriyle karıştırılabilir ancak bu sistem sadece hareket değil, varlığın kendisini de takip edebilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sistem mahremiyetimi bozar mı?**
 

@@ -32,7 +32,7 @@ Más allá de esto, el Transformer ha trascendido los límites del texto para co
 - Confundir los pesos de atención con una explicación lógica: Una puntuación de atención alta no es una prueba absoluta de causa y efecto, sino una correlación de peso estadístico.
 - Elegir el modelo incorrecto para la tarea incorrecta: Para tareas puramente de clasificación o búsqueda, se deben preferir los modelos Encoder en lugar de los modelos Decoder masivos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la mayor ventaja de la arquitectura Transformer en comparación con los modelos RNN y LSTM?**
 

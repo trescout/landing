@@ -22,7 +22,7 @@ Bilgisayarınıza yeni bir oyun kurarken, tarayıcı açarken veya herhangi bir 
 
 Kaynak kod ile karıştırılır; kaynak kod okunabilir ham metindir, çalıştırılabilir dosya ise bilgisayarın doğrudan koşturduğu sonuçtur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her dosya çalıştırılabilir mi?**
 

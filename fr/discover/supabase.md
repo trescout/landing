@@ -2,12 +2,13 @@
 
 Supabase est une plateforme de développement qui offre une infrastructure de base de données Postgres pour développer des applications Web, mobiles et d'intelligence artificielle. Grâce à sa structure open source, il fournit les services de gestion de bases de données et de backend nécessaires pour accélérer les processus de développement d'applications.
 
-- ★ 107 669
+- ★ 113 233
 - TypeScript
 - GitHub Trending · 2026-07-04
 
 ## Mises à jour
 
+- **22 octobre 2026:** Étoiles 107,669 → 113,233, dernière version v1.26.08 (7 août 2026).
 - **7 août 2026:** Étoiles 107,399 → 107,669, dernière version v1.26.08 (7 août 2026).
 - **2 août 2026:** Étoiles 105,582 → 107,399, dernière version v1.26.07 (9 juillet 2026).
 

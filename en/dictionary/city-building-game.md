@@ -22,7 +22,7 @@ It is used in video games like SimCity and Cities: Skylines, in the entertainmen
 
 It can be confused with general warfare or real-time strategy games: in city-building games, the primary focus is not defeating the enemy, but making a complex infrastructure and life cycle sustainable.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are these games difficult from a software perspective?**
 

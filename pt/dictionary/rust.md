@@ -22,7 +22,7 @@ Os programadores escrevem seus códigos na linguagem Rust e os tornam executáve
 
 É confundido com C ou C++; Rust visa entregar o mesmo desempenho de forma mais segura.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é tão popular?**
 

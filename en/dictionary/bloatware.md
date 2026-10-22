@@ -22,7 +22,7 @@ It is found in smartphones, laptops and pre-installed software packages.
 
 Not to be confused with required system applications; Bloatware is software that is not optional and creates inefficiency.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do I get rid of bloatware?**
 

@@ -22,7 +22,7 @@ Se utiliza en sitios para compartir archivos, al descargar paquetes de software 
 
 Puede confundirse con los sencillos administradores de descargas de los navegadores, pero estas herramientas ofrecen funciones mucho más avanzadas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Acelera cada archivo?**
 

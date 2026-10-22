@@ -24,7 +24,7 @@ Bulut faturalandırma panellerinde veya performans izleme araçlarında görül�
 
 Sadece 'kullanıcı sayısı' ile karıştırılmamalıdır, bu daha çok 'makine gücü' tüketimidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **CCUsage neden önemli?**
 

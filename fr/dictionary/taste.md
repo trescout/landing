@@ -22,7 +22,7 @@ Il joue un rôle essentiel dans la conception de produits, le développement de 
 
 On peut le confondre avec le simple design, mais il s’agit d’une vision plus profonde où se combinent goût, fonctionnalité et esthétique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le goût peut-il être amélioré ?**
 

@@ -22,7 +22,7 @@ Il participe aux processus de formation des modèles d’apprentissage automatiq
 
 Ce n’est pas directement le modèle lui-même, mais l’ensemble des règles et méthodes en arrière-plan qui permettent à ce modèle de se développer.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce qu’il apprend constamment ?**
 

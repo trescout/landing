@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes avancés d’intelligence artificielle, les t
 
 Il est similaire au LLM multi-agents, mais le concept de sous-agent met l'accent sur un modèle de gestion plus hiérarchique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utilisons-nous des sous-agents au lieu d’un seul agent puissant ?**
 

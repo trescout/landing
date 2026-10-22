@@ -39,7 +39,7 @@ PPI ile karıştırılır. DPI baskıdaki mürekkep noktasıdır, PPI ekrandaki 
 
 *Bir resmi boyama kitabındaki küçük kareleri doldurmak gibi düşünün; kareler ne kadar küçük ve sık olursa, resim o kadar gerçeğe yakın ve pürüzsüz görünür.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **DPI yüksek olursa ne olur?**
 

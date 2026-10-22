@@ -22,7 +22,7 @@ Il est utilisé pour les virements bancaires, les longs processus de traitement 
 
 Cela peut être confondu avec la sauvegarde automatique, mais cela préserve la logique de fonctionnement de l'ensemble du programme, pas seulement le fichier.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Chaque programme doit-il être durable ?**
 

@@ -22,7 +22,7 @@ Es wird in autonomen Robotern, unbemannten Luftfahrzeugen und fortschrittlichen 
 
 Es kann mit Computer Vision verwechselt werden, aber es beinhaltet räumliches Denken nach der Vision, nicht nur Vision.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es wichtig?**
 

@@ -24,7 +24,7 @@ Oferece módulos especiais para todas as unidades da empresa, e esses módulos t
 
 Só pode ser confundido com software de contabilidade; Mas o ERP cobre toda a empresa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É difícil mudar para um sistema ERP?**
 

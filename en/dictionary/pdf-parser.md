@@ -22,7 +22,7 @@ It is used in document automation, RAG systems and data entry processes.
 
 Not to be confused with tools that simply copy text; parser tries to preserve the structure of the data (table, header, etc.).
 
-## Frequently asked questions
+## Questions and answers
 
 **Are every PDF parsers the same?**
 

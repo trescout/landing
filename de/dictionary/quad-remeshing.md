@@ -22,7 +22,7 @@ Es wird in der Spieleentwicklung, bei Animationen und in Vorbereitungsprozessen 
 
 Es sollte nicht mit einer bloßen Modellreduktion (Dezimierung) verwechselt werden; Ziel ist es, die geometrische Ordnung der Oberfläche zu verändern.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum nicht einfach Dreiecke verwenden?**
 

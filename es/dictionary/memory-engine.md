@@ -22,7 +22,7 @@ Se utiliza en asistentes personales, herramientas de inteligencia artificial que
 
 Simplemente se confunde con la ventana de contexto, pero el motor de memoria es un proceso de almacenamiento de datos permanente y a mucho más largo plazo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo afecta el motor de memoria a la privacidad?**
 

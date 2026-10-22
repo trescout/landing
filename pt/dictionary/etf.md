@@ -24,7 +24,7 @@ Você busca o símbolo do ETF desejado através da sua conta na bolsa de valores
 
 Podem ser confundidos com fundos mútuos, mas os ETFs podem ser comprados e vendidos na bolsa de valores a preços à vista durante o dia.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo comprar um ETF em vez de uma única ação?**
 

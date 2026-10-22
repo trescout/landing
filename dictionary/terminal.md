@@ -43,7 +43,7 @@ GUI sanılır. GUI görseldir, terminal metinseldir. Shell ile de karışır: Te
 
 *GUI bir restoranın menüsü ise, terminal restoranın mutfağıdır; burada doğrudan malzemelere müdahale edersiniz.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Terminali öğrenmek şart mı?**
 

@@ -22,7 +22,7 @@ Es wird häufig in Blogs, Dokumentationsseiten und persönlichen Portfolios bevo
 
 Es ist mit CMS (Content Management System) gemischt; CMS verwendet eine Datenbank, während dieses Tool nur Dateien erstellt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie aktualisiere ich meine Website?**
 

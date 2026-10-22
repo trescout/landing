@@ -22,7 +22,7 @@ Quando você abre o terminal ou prompt de comando, um servidor de console em exe
 
 Pode ser confundido com terminal ou shell; Porém, Console Host é a camada que gerencia a janela e a interface na qual esses textos são exibidos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que ainda usamos tela preta?**
 

@@ -24,7 +24,7 @@ It is used in industrial design, game development, 3D printing and architectural
 
 It should not be confused with image generators; they just draw pictures, this produces engineering data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can the produced models be used directly on the 3D printer?**
 

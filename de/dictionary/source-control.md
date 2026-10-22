@@ -22,7 +22,7 @@ In allen modernen Softwareentwicklungsprozessen, insbesondere bei der Teamarbeit
 
 Es ist nicht dasselbe wie ein Backup, da es nicht nur Dateien, sondern auch die Historie der Änderungen verwaltet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich es verwenden?**
 

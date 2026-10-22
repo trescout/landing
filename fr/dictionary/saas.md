@@ -39,7 +39,7 @@ Peut être confondu avec le PaaS. Le SaaS est une application finie, destinée �
 **Appartement à louer :** La maintenance est à la charge du propriétaire, l'utilisation est la vôtre.
 **Transports en commun :** Bénéficier d'un service de transport sans être propriétaire d'un véhicule.
 
-## Foire aux questions
+## Questions et réponses
 
 **Où mes données sont-elles stockées lorsque j'utilise le SaaS ?**
 

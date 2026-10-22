@@ -42,7 +42,7 @@ Se confunde con la transcripción general. Whisper es un modelo, la transcripci�
 **Intérprete:** Transferir de un idioma a otro.
 **Máquina de escribir:** No escribas lo que se dice.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo usarlo en mi propia aplicación?**
 

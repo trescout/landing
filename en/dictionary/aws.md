@@ -52,7 +52,7 @@ It is often thought to be just a site hosting service. However, it is a complete
 **Rental storage:** Renting as many shelves as needed.
 **Taxi:** Traveling without owning a vehicle.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why should I use AWS?**
 

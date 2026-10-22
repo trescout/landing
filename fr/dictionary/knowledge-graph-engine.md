@@ -22,7 +22,7 @@ Il est utilisé dans les résultats de recherche Google, les systèmes de recomm
 
 Elle peut être confondue avec les bases de données standards, mais l’accent est ici mis sur la relation entre les données, et non sur les données elles-mêmes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je l’utiliser à la place de la base de données habituelle ?**
 

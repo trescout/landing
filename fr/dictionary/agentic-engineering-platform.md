@@ -22,7 +22,7 @@ Il est utilisé dans des projets d’intelligence artificielle à grande échell
 
 Ce n'est pas seulement un éditeur de code, il couvre l'ensemble du processus de gestion des agents.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je être un expert pour utiliser cette plateforme ?**
 

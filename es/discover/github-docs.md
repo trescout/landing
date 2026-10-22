@@ -40,7 +40,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Principiante-intermedio
 - **Que ofertas:** Fuente oficial del documento de GitHub
 - **Fuente:** GitHub · oficial
-- **Licencia:** CC-BY-4.0 · ayrıntı aşağıda
+- **Licencia:** CC-BY-4.0 · detalle a continuación
 
 **Licencia:** Contenido CC-BY-4.0 · puedes utilizarlo y adaptarlo libremente, pero debes indicar la fuente (atribución a GitHub). Consulte el repositorio para ver licencias individuales en el código.
 

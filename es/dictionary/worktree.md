@@ -22,7 +22,7 @@ Se utiliza en proyectos de software complejos cuando es necesario realizar corre
 
 No es lo mismo que simplemente copiar carpetas; los worktrees están vinculados al mismo repositorio de Git y funcionan sincronizados entre sí.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no copiamos carpetas por separado?**
 

@@ -22,7 +22,7 @@ Se utiliza en robots autónomos, vehículos aéreos no tripulados y aplicaciones
 
 Puede confundirse con la visión por computadora, pero implica razonamiento espacial posterior a la visión, no solo visión.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante?**
 

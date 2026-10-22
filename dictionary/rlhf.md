@@ -24,7 +24,7 @@ ChatGPT gibi sohbet robotlarının insan gibi doğal ve güvenli konuşması iç
 
 Sadece eğitim değil, modelin davranışını hizalama (alignment) sürecidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden gerekli?**
 

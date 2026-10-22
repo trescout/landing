@@ -22,7 +22,7 @@ Se utiliza en doblaje de películas, personajes de juegos y en campos médicos p
 
 Se confunde con cambiador de voz; Mientras que la sustitución de voz simplemente manipula el tono, la clonación copia completamente el carácter del habla de la persona.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es segura esta tecnología?**
 

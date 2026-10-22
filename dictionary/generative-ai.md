@@ -44,7 +44,7 @@ Metin modelleri sanılır. Oysa görsel, ses ve video üretenler de bu ailedendi
 
 *Sadece resimlere bakan eleştirmen değil, eline fırçayı alıp yeni tablo çizen ressam gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Telif hakkını ihlal eder mi?**
 

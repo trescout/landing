@@ -22,7 +22,7 @@ Es wird bei groß angelegten Webanwendungen und Systemen mit hohem Datenverkehr 
 
 Es geht nicht nur um die Aufteilung des Codes, sondern auch um die Methode, wie diese Teile miteinander kommunizieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es so kompliziert?**
 

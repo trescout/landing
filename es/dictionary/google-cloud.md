@@ -45,7 +45,7 @@ Se cree que es Drive. Drive almacena archivos, Cloud ejecuta aplicaciones. Uno e
 **Central:** Producción de alquiler.
 **Almacén:** Nave en alquiler.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no mi propia computadora?**
 

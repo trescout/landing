@@ -22,7 +22,7 @@ O desenvolvedor de software começa instalando os pacotes de software e editores
 
 Muitas vezes é confundido com produção: enquanto o ambiente de desenvolvimento é a cozinha onde apenas escrevemos o código e experimentamos, o ambiente de produção é o restaurante onde a comida é servida ao cliente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O código não pode ser escrito sem um ambiente de desenvolvimento?**
 

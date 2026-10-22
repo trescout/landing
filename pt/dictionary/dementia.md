@@ -22,7 +22,7 @@ Geralmente se desenvolve como resultado do envelhecimento, fatores genéticos ou
 
 Não deve ser confundido com mero esquecimento; Embora o esquecimento possa ser temporário, a demência é um processo permanente e progressivo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Demência e Alzheimer são a mesma coisa?**
 

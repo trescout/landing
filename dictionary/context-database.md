@@ -22,7 +22,7 @@ Kişisel yapay zekâ asistanlarında, şirket içi doküman yönetim sistemlerin
 
 Vektör veritabanları (Vector Database) ile sıkça karıştırılır; ancak context database bu verilerin daha geniş bir yönetim ve erişim stratejisini ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden buna ihtiyaç var?**
 

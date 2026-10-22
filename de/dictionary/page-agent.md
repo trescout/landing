@@ -22,7 +22,7 @@ Es wird verwendet, um Preise auf E-Commerce-Websites zu verfolgen, Formulare aus
 
 Es kann mit Allzweck-KI-Agentenmodellen verwechselt werden, ist jedoch nur auf Webbrowser ausgerichtet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist Page Agent sicher?**
 

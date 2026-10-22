@@ -52,7 +52,7 @@ Se cree que es sólo un servicio de alojamiento de sitios. Sin embargo, es una p
 **Bodega en alquiler:** Alquiler de tantas estanterías como sean necesarias.
 **Taxi:** Viajar sin vehículo propio.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería utilizar AWS?**
 

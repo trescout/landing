@@ -22,7 +22,7 @@ Es wird in mehrstufigen Anwendungen der künstlichen Intelligenz, Agentensysteme
 
 Es unterscheidet sich von einem eigenständigen KI-Modell, bei dem der Schwerpunkt auf der Verwaltung mehrerer Teile liegt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum wird eine Orchestrierungslaufzeit benötigt?**
 

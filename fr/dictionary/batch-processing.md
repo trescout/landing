@@ -22,7 +22,7 @@ Il est utilisé dans la formation de modèles d'intelligence artificielle, l'ana
 
 Peut être confondu avec le traitement en temps réel ; Alors que le traitement en temps réel réagit immédiatement, le traitement par lots attend.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi traitons-nous en masse ?**
 

@@ -22,7 +22,7 @@ Web sitesi arayüzleri tasarlarken, sosyal medya içerikleri hazırlarken veya u
 
 Genellikle sadece 'kod editörü' ile karıştırılır, ancak tasarım araçları görsel odaklıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Tasarım aracı kullanmak için grafik tasarımcı olmam gerekir mi?**
 

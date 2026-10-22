@@ -22,7 +22,7 @@ Es wird in autonomen Fahrzeugen, Robotersystemen und Sicherheitsüberwachungssof
 
 Nicht zu verwechseln mit der bloßen Datenerfassung; Bewusstsein erfordert, Daten zu verstehen und zu reagieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es wichtig für künstliche Intelligenz?**
 

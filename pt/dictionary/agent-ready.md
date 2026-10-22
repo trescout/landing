@@ -22,7 +22,7 @@ O sistema verifica todas as permissões necessárias, conecta-se às ferramentas
 
 Não deve ser confundido apenas com ‘trabalhar’; Funcionando significa que o sistema está aberto, enquanto Agent Ready significa que o sistema está pronto para começar a trabalhar com autoridade autônoma para tomar decisões.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como posso saber se um sistema está Agent Ready?**
 

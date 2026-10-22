@@ -42,7 +42,7 @@ Wird oft für Download gehalten. Download lässt warten, Streaming startet die W
 **Serie:** Folge für Folge ansehen.
 **Bauwesen:** Schichtweise Lieferung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Erhöht es die Geschwindigkeit?**
 

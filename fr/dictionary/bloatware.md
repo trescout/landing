@@ -22,7 +22,7 @@ On le trouve dans les smartphones, les ordinateurs portables et les logiciels pr
 
 À ne pas confondre avec les applications système requises ; Les bloatwares sont des logiciels qui ne sont pas facultatifs et qui créent de l'inefficacité.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment puis-je me débarrasser des bloatwares ?**
 

@@ -46,7 +46,7 @@ Es wird oft für eine allgemeine Modellfähigkeit gehalten. Gemeint ist hier jed
 **Bohrmaschine:** Je nach Aufsatz unterschiedliche Funktion.
 **Telefon:** Jede installierte Anwendung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Verfügt jedes Modell über eine Fähigkeit?**
 

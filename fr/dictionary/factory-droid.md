@@ -22,7 +22,7 @@ Ils sont utilisés dans les usines automobiles, les lignes d'assemblage électro
 
 Ils peuvent être confondus avec des robots humanoïdes à usage général, mais les droïdes d'usine sont généralement optimisés pour des tâches industrielles spécifiques et fixes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les droïdes d'usine remplacent-ils les travailleurs humains ?**
 

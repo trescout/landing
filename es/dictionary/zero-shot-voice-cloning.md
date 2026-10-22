@@ -22,7 +22,7 @@ Se utiliza en asistentes de voz, trabajos de doblaje, producción de contenidos 
 
 Es similar a Voice Cloning, pero aquí no se requiere ningún proceso de capacitación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede copiar la voz de alguien?**
 

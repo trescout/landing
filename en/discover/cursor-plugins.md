@@ -50,7 +50,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** intermediate–advanced
 - **What offers:** Official plugin spec + sample plugins
 - **Source:** Cursor · picture
-- **License:** Standart tespit edilemedi · ayrıntı aşağıda
+- **License:** Standard not detected · detail below
 
 **License:** GitHub did not detect a standard license. Check the LICENSE/terms in the repo before reuse/distribution.
 

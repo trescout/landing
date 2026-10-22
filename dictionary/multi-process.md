@@ -22,7 +22,7 @@ Geleneksel programlamada bir uygulama genellikle tek bir hat üzerinden sırayla
 
 Multi-threading kavramı ile karıştırılır. Multi-threading yönteminde işler aynı bellek alanını paylaşan hafif iş parçacıklarıyla yapılırken, multi-process yönteminde her işin kendine ait tamamen yalıtılmış bir bellek alanı vardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Multi-process kullanmak bilgisayarı yorar mı?**
 

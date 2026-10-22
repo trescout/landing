@@ -41,7 +41,7 @@ Se puede mezclar con Open Weights. Open Weights es solo que las pesas están abi
 **Libro de texto:** Código abierto que cualquiera puede leer y editar.
 **Banco de semillas:** Semilla ancestral compartida por los agricultores.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son los modelos de código abierto más débiles?**
 

@@ -22,7 +22,7 @@ Los sitios de comparación de precios se utilizan para recopilar conjuntos de da
 
 Se confunde con el rastreo web, pero mientras que el rastreo se utiliza para indexar sitios, el raspado se realiza para extraer datos específicos y darles sentido.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se pueden eliminar todos los sitios?**
 

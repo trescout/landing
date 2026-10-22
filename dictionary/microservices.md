@@ -22,7 +22,7 @@ Büyük ölçekli web uygulamalarında ve yüksek trafikli sistemlerde kullanıl
 
 Sadece kodun parçalanması değil, bu parçaların birbirleriyle haberleşmesi yöntemidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kadar karmaşık?**
 

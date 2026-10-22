@@ -22,7 +22,7 @@ Büyük dil modellerinde, uzun bağlam pencereleri gerektiren projelerde ve dona
 
 Quantization ile karıştırılabilir; quantization modelin ağırlıklarını küçültürken, token compression işlenen verinin kendisini sıkıştırır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Token compression kaliteyi düşürür mü?**
 

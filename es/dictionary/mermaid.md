@@ -45,7 +45,7 @@ Se cree que son herramientas de dibujo. Sin embargo, Mermaid está basado en tex
 **Taquigrafía:** Escritura del discurso mediante atajos.
 **Matemáticas:** Descripción de formas mediante fórmulas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué gráficos se pueden dibujar con Mermaid?**
 

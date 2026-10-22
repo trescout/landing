@@ -22,7 +22,7 @@ Primeiro, os requisitos são coletados e compilados em um documento. Os desenvol
 
 Representa um processo planejado e disciplinado, em vez de métodos flexíveis onde são feitas mudanças constantes durante o desenvolvimento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso faz você perder velocidade?**
 

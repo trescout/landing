@@ -22,7 +22,7 @@ Beteiligt an Cybersicherheitsberichten, rechtlichen Patentprozessen und Software
 
 Dabei geht es nicht einfach darum, etwas preiszugeben, sondern oft handelt es sich um eine Handlung, die im Rahmen einer rechtlichen oder ethischen Verantwortung erfolgt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist verantwortungsvolle Offenlegung?**
 

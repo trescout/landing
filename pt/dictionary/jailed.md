@@ -22,7 +22,7 @@ O kernel do sistema operacional limita o diretório raiz e as chamadas de sistem
 
 É muito próximo do conceito de Sandbox; no entanto, jail é geralmente um termo mais tradicional focado no isolamento do sistema de arquivos em sistemas Unix/Linux (como chroot ou FreeBSD jail).
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Um programa em estado jailed pode acessar o sistema principal?**
 

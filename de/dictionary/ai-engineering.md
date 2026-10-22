@@ -45,7 +45,7 @@ Wird mit Data Science verwechselt. Ein Data Scientist gewinnt Erkenntnisse aus D
 **Bauwesen:** Der Architekt, der das Projekt entwirft, und der Ingenieur, der die Baustelle leitet.
 **Küche:** Der Küchenchef, der das Rezept schreibt, und der Betrieb, der es in der Kette verbreitet.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es notwendig, Code zu kennen, um KI-Ingenieur zu werden?**
 

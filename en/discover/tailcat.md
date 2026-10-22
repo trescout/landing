@@ -80,7 +80,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** System administrators, DevOps engineers, network experts and cloud architects.
-- **License:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **License:** BSD 3-Clause (Flexible open-source license)
 - **Framework:** Go & Tailscale tsnet Library
 - **Platforms:** Linux, macOS, Windows
 

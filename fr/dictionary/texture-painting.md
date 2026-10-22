@@ -22,7 +22,7 @@ Il est utilisé dans le développement de jeux vidéo, les films d'animation et 
 
 Ce n'est pas la même chose que de simplement dessiner une image 2D, car ce qui est peint est un modèle 3D qui possède un volume.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quels programmes sont utilisés ?**
 

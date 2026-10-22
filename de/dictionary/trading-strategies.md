@@ -22,7 +22,7 @@ Es wird in Börsensoftware, Anlageplattformen und auf künstlicher Intelligenz b
 
 Es wird mit Handelsagenten gemischt; Strategie ist die Regel, Agent ist die Software, die diese Regel umsetzt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Funktioniert die Strategie immer?**
 

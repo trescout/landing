@@ -22,7 +22,7 @@ Se utiliza en la gestión de servidores o en procesos de desarrollo de software 
 
 No debe confundirse con 'shell', que simplemente dice comandos; Esta herramienta ofrece una interfaz de edición visual.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es difícil aprender?**
 

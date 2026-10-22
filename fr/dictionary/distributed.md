@@ -52,7 +52,7 @@ Google TrueTime : combinaison d'horloges atomiques et d'antennes GPS utilisée d
 
 Dans les systèmes monolithiques, les transactions de base de données (ACID) sont remplacées dans les microservices par l'approche du modèle Saga (Saga Pattern). Au lieu de verrouiller les étapes distribuées de longue durée avec des protocoles de validation en deux phases (2PC - Two Phase Commit), on utilise des architectures pilotées par les événements où chaque service effectue sa propre transaction locale et où des transactions compensatoires (Compensating Transactions) sont déclenchées en cas d'erreur.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que signifie Distribué (sens turc) ?**
 

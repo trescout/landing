@@ -22,7 +22,7 @@ In the world of cybersecurity, it is used in everything from inter-state digital
 
 It is confused with known software bugs, but the difference with a zero-day vulnerability is that the developer does not have time to develop defenses yet.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it called zero day?**
 

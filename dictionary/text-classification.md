@@ -22,7 +22,7 @@ E-posta servislerinde spam filtrelemede, müşteri hizmetlerinde talep yönlendi
 
 Metin üretimi ile karıştırılmamalıdır: Metin sınıflandırma var olan metne etiket koyar, yeni metin yazmaz.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Metin sınıflandırma için ne kadar veri gerekir?**
 

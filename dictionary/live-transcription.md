@@ -22,7 +22,7 @@ Video konferans uygulamalarında, canlı yayın altyazılarında ve sesli not al
 
 Sesin kaydedilip daha sonra metne çevrildiği geleneksel transkripsiyondan farklı olarak burada hız ve anlık geri bildirim esastır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Gecikme yaşanır mı?**
 

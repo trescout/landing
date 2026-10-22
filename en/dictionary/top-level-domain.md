@@ -24,7 +24,7 @@ It appears in the address bars of web browsers and during domain name purchase p
 
 It can be confused with a domain name; the domain name is the entire name of the site, whereas this is only the final part.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are there different extensions?**
 

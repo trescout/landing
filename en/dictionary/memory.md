@@ -22,7 +22,7 @@ It is used in personal assistants, tools that track long-term projects, and cust
 
 It should not be confused with the model's own training data; This feature covers your private history with you.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is this information shared with others?**
 

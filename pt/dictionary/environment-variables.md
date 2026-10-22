@@ -42,7 +42,7 @@ Regra: O valor real não é escrito no exemplo, coloca-se um marcador de posiç�
 **Bateria do controle:** Energia plug-and-play.
 **Chaveiro:** Acesso portátil.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que é mantido em segredo?**
 

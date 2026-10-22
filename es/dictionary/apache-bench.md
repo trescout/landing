@@ -24,7 +24,7 @@ Se utiliza en pruebas de carga antes del lanzamiento del sitio web, en comparaci
 
 A diferencia de las herramientas avanzadas de prueba de carga que simulan escenarios de usuario complejos, se centra únicamente en la carga de carga secuencial o simultánea en una conexión HTTP específica.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se requiere el servidor web Apache para utilizar ApacheBench?**
 

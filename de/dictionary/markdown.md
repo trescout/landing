@@ -22,7 +22,7 @@ Dies ist die von Softwareentwicklern am meisten bevorzugte Methode beim Schreibe
 
 Es wird mit HTML verwechselt, aber während HTML viel komplexer und detaillierter ist, dient Markdown ausschließlich der Verbesserung der Lesbarkeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich Markdown anstelle von Word verwenden?**
 

@@ -42,7 +42,7 @@ Wird für einen Container gehalten. Maschine ist ein vollständiges System, Cont
 **Wohnung:** Gemeinsames Gebäude, privater Bereich.
 **Container:** Transport mit Fächern.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Verlangsamt es?**
 

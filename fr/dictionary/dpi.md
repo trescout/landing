@@ -39,7 +39,7 @@ Souvent confondu avec le PPI. Le DPI est le point d'encre à l'impression, le PP
 **Mosaïque :** Nombre de points par unité de surface.
 **Date d'impression :** Trame de journal et fréquence de point offset.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que se passe-t-il si le DPI est élevé ?**
 

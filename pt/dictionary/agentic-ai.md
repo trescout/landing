@@ -32,7 +32,7 @@ No entanto, essa autonomia traz enormes responsabilidades de segurança e ética
 - Concessão de autorização excessiva: conceder autorização descontrolada para ações como exclusão de banco de dados ou transferência financeira é uma falha de segurança; Restrições somente leitura devem ser impostas.
 - Uso de agentes em tarefas simples: estabelecer clusters de agentes desnecessários em tarefas que podem ser tratadas com um único prompt aumenta o custo e o atraso.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Qual é a principal diferença entre a IA Agêntica (Agentic AI) e um chatbot de IA comum?**
 

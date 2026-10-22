@@ -39,7 +39,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Intermediate programming foundation
 - **Format:** 9-week practical course
 - **Fee:** Free
-- **License:** Standart tespit edilemedi · ayrıntı aşağıda
+- **License:** Standard not detected · detail below
 
 **License:** GitHub did not detect a standard license. It is free to follow/learn the content; Check the terms in the repo before re-release.
 

@@ -42,7 +42,7 @@ Er gilt als konstanter Wert. Es stoppt beim Hardcode, die Variable liegt außerh
 **Fernbedienungsbatterie:** Plug-and-Play-Stromversorgung.
 **Schlüsselanhänger:** Portierter Zugriff.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum wird es geheim gehalten?**
 

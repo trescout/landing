@@ -76,7 +76,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [RAM](https://trescout.com/fr/dictionary/ram/)
 
 - **Pour qui:** Entrepreneurs, développeurs indépendants, étudiants et ingénieurs qui souhaitent réduire les coûts d’infrastructure.
-- **Licence:** CC BY 4.0 (Açık içerik lisansı)
+- **Licence:** CC BY 4.0 (licence de contenu ouvert)
 - **conservateur:** R.I. Pienaar et plus de 1000 contributeurs open source
 - **Nombre de prestations:** Plus de 1 000 services gratuits vérifiés
 

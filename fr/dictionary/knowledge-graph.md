@@ -22,7 +22,7 @@ Il est utilisé pour fournir des résultats plus précis dans les moteurs de rec
 
 Il ne s’agit pas d’un tableau ou d’une liste Excel ordinaire car la relation entre les données est ici importante plutôt que les données elles-mêmes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la différence entre le graphe de connaissances et le RAG ?**
 

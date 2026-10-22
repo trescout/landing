@@ -54,7 +54,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Computer Vision Library](https://trescout.com/dictionary/computer-vision-library/)
 - [Computer Vision](https://trescout.com/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/dictionary/cv/)
 - [Machine Learning](https://trescout.com/dictionary/machine-learning/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)

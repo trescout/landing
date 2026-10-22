@@ -22,7 +22,7 @@ Web siteleri yayına alınmadan önceki stres testlerinde, sunucu kapasitesi pla
 
 Güvenlik açıklarını bulmaya yarayan sızma test araçlarıyla karıştırılabilir; buradaki amaç sistemi kırmak değil, ne kadar yük taşıyabildiğini tartmaktır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Gerçek kullanıcı trafiğinden farkı nedir?**
 

@@ -24,7 +24,7 @@ O usuário define o endereço de destino a ser testado, o número total de solic
 
 Diferente de ferramentas avançadas de teste de carga que simulam cenários complexos de usuário, ele foca apenas em aplicar carga sequencial ou simultânea a uma conexão HTTP específica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O servidor web Apache é obrigatório para usar o ApacheBench?**
 

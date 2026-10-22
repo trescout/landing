@@ -22,7 +22,7 @@ It is used by companies and researchers who want to run artificial intelligence 
 
 It is mixed with open source software; Open Weights provides the internal structure of the model, but sometimes the data used to train the model itself can remain private.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can I change everything on the model with Open Weights?**
 

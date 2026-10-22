@@ -24,7 +24,7 @@ Se utiliza para entrenar y ejecutar (inferencia) modelos de inteligencia artific
 
 Puede confundirse con Cuantización; FP8 es en realidad un tipo de cuantización.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Reduce la calidad del modelo?**
 

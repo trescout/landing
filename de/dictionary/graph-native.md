@@ -22,7 +22,7 @@ Es wird in komplexen sozialen Netzwerkanalysen, Empfehlungssystemen und Anwendun
 
 Es wird häufig mit herkömmlichen relationalen Datenbanken verwechselt; Dieses System stellt jedoch Beziehungen bereits in der Entwurfsphase her, nicht später.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich diese Methode wählen?**
 

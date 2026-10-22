@@ -46,7 +46,7 @@ Es wird oft mit Datenanalyse verwechselt. Analytik stellt Fragen, BI liefert reg
 **Armaturenbrett:** Geschwindigkeits- und Kraftstoffinformationen.
 **Wetterbericht:** Vorhersagen aus Messungen generieren.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist BI wichtig?**
 

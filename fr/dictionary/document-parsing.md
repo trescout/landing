@@ -22,7 +22,7 @@ Il est utilisé dans le traitement automatique des factures, l’analyse des con
 
 On le confond avec la simple copie de texte, mais l'analyse transfère les données tout en préservant leur structure (tableau ou en-tête).
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-il lire tous les documents ?**
 

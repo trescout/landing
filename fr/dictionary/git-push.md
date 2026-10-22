@@ -53,7 +53,7 @@ git push origin --tags
 - fatal : La branche courante n'a pas de branche amont : La contrepartie distante de la branche n'est pas définie. Solution : git push -u origin HEAD.
 - distant rejeté : hook de pré-réception refusé : bloqué en raison d'une règle de branche protégée ou d'autorisations manquantes ; La Pull Request (PR) doit être ouverte au lieu d’une poussée directe.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie git push et que fait-il ?**
 

@@ -22,7 +22,7 @@ Se prefiere en plataformas de aprendizaje de código, cuando se realizan prototi
 
 Se puede mezclar con compiladores nativos; El compilador web usa Internet mientras que los locales usan la energía de su computadora.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Necesito mantener un archivo de código en mi computadora?**
 

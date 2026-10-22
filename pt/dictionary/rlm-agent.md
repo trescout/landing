@@ -24,7 +24,7 @@ O agente define uma meta, realiza um movimento, recebe feedback de seu ambiente 
 
 Pode ser confundido com regras clássicas de software; Esses sistemas seguem a experiência e não regras pré-escritas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O agente RLM sempre acerta?**
 

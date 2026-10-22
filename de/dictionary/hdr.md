@@ -24,7 +24,7 @@ Es wird in Spielen, Videobearbeitungssoftware und modernen Bildschirmen verwende
 
 Es wird oft mit einer bloßen Erhöhung der Helligkeit verwechselt; HDR steht eher für Detail- und Kontrastqualität als für Helligkeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Unterstützt jeder Bildschirm HDR?**
 

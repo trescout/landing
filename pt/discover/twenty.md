@@ -85,7 +85,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Próximo · auto-host (desenvolvedor necessário)
 - **O que oferece:** CRM personalizável com tecnologia de IA
 - **Taxa:** Código aberto · auto-hospedado gratuitamente
-- **Licença:** Standart-dışı (NOASSERTION) · ayrıntı aşağıda
+- **Licença:** Fora do padrão (NOASSERTION) · detalhe abaixo
 
 **Licença:** ⚠️ Sua licença não é padrão (GitHub 'NOASSERTION'). É referido como 'código aberto', mas o uso autônomo/auto-hospedado e a reentrega comercial/SaaS podem estar sujeitos a termos diferentes. Certifique-se de ler o arquivo LICENSE no repositório antes do uso comercial.
 

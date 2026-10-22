@@ -24,7 +24,7 @@ Se utiliza en asistentes de voz en teléfonos inteligentes, análisis de grabaci
 
 Es el proceso de convertir voz en texto, exactamente lo contrario de la tecnología de texto a voz, que convierte el texto en voz.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede funcionar en ambientes ruidosos?**
 
@@ -33,7 +33,7 @@ Sí, gracias a sus algoritmos de filtrado avanzados, puede extraer voz suprimien
 ## Términos relacionados
 
 - [Speech-to-Text](https://trescout.com/es/dictionary/speech-to-text/)
-- [STT](https://trescout.com/es/dictionary/stt/)
+- [STT](https://trescout.com/es/dictionary/speech-to-text/)
 - [Whisper](https://trescout.com/es/dictionary/whisper/)
 - [Transcription](https://trescout.com/es/dictionary/transcription/)
 

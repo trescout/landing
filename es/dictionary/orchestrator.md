@@ -22,7 +22,7 @@ Se utiliza en infraestructuras de computación en la nube para la gestión de co
 
 A menudo se confunde con una biblioteca de código normal. Mientras que las bibliotecas solo realizan un trabajo específico, este sistema coordina cómo todas las bibliotecas y servicios deben trabajar juntos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El software no funciona sin este sistema?**
 

@@ -22,7 +22,7 @@ It is used in compilers to read HTML in web browsers and in any software that pr
 
 It can be confused with Document Parsing; However, parser is a more general concept and is used for all kinds of data structures.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if the parser gives an error?**
 

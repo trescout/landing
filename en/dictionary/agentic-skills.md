@@ -22,7 +22,7 @@ It is used in complex software development processes, autonomous data analysis p
 
 It can be confused with the general concept of 'AI skill'; However, agentic skills refer to the ability to manage an autonomous process rather than a single process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does every artificial intelligence have these skills?**
 

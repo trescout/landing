@@ -22,7 +22,7 @@ Se utiliza en aplicaciones basadas en LLM, procesos de creación rápida de prot
 
 Puede confundirse con el aprendizaje few-shot; mientras que en el few-shot se le dan al modelo algunos ejemplos, en el zero-shot no se le da ninguno.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Funciona siempre correctamente?**
 

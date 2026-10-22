@@ -22,7 +22,7 @@ O sistema primeiro analisa seu desempenho atual, depois faz melhorias e transfer
 
 Não deve ser confundido apenas com processos de cópia ou backup de software.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que esse número é importante?**
 

@@ -22,7 +22,7 @@ It is used in artificial intelligence agents and advanced data analysis platform
 
 It is confused with 'fine-tuning', which is just training a single model, but compound engineering focuses on combining the capabilities of existing models.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why isn't one model enough?**
 

@@ -22,7 +22,7 @@ Ele é usado em plataformas de conteúdo criativo, ferramentas de edição de v�
 
 Pode ser confundido com edição de vídeo; Esta tecnologia não edita, ela produz imagens em movimento do zero.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qualquer tipo de imagem pode ser transformado em vídeo?**
 

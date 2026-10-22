@@ -22,7 +22,7 @@ Ele é usado em aplicativos de videoconferência, legendas de transmissão ao vi
 
 Ao contrário da transcrição tradicional, onde o áudio é gravado e depois transcrito em texto, a velocidade e o feedback instantâneo são essenciais aqui.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Haverá um atraso?**
 

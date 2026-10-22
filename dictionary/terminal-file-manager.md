@@ -22,7 +22,7 @@ Sunucuları yönetirken veya çok hızlı dosya düzenleme yapmanız gereken yaz
 
 Sadece komut yazılan 'shell' ile karıştırılmamalıdır; bu araç görsel bir düzenleme arayüzü sunar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Öğrenmesi zor mu?**
 

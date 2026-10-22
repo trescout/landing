@@ -22,7 +22,7 @@ Kişiselleştirilmiş yapay zekâ asistanlarında, uzun soluklu projelerde ve so
 
 Modelin anlık hafızası olan bağlam penceresinden farklıdır; buradaki bilgiler kalıcı olarak saklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bellek katmanındaki veriler gizli kalır mı?**
 

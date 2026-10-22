@@ -22,7 +22,7 @@ Robotik hareket planlamasında, moleküler biyolojide protein yapısı tahminind
 
 Klasik transformer mimarisi verileri tek boyutlu bir dizi veya düz ızgara olarak ele alırken; geometric context transformer çok boyutlu uzamsal koordinatları doğrudan dikkat hesabına katar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden klasik transformer modelleri yetersiz kalır?**
 

@@ -22,7 +22,7 @@ Es wird häufig in Suchmaschinen, Empfehlungssystemen und der Speicherverwaltung
 
 Im Gegensatz zum Begriff „Einbettung“, bei dem es sich um genau das gleiche Konzept handelt, handelt es sich hier um das Äquivalent des Wortes in Aktion oder Operation.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum konvertieren wir zu numerischen Listen?**
 

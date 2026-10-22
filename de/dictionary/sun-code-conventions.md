@@ -31,7 +31,7 @@ Millionen von Zeilen an Legacy-Java-Projekten, die heute im Finanz-, Banken- und
 - Vorausgesetzt, das eingefrorene Dokument ist aktuell: Die Verwendung des Sun-Handbuchs, das seit 1999 nicht mehr aktualisiert wurde, als einzige Quelle in modernen Projekten führt zu technischen Schulden.
 - Klammern in Bedingungen vergessen: Das Nichtsetzen von Klammern in einzeiligen Textkörpern kann in Zukunft zu Sicherheitslücken führen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum wurden die Sun Code Conventions nach 1999 nicht mehr aktualisiert?**
 

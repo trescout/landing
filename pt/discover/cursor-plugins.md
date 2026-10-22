@@ -50,7 +50,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** intermediário-avançado
 - **O que oferece:** Especificação oficial do plug-in + plug-ins de amostra
 - **Fonte:** Cursor · imagem
-- **Licença:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Licença:** Padrão não detectado · detalhe abaixo
 
 **Licença:** O GitHub não detectou uma licença padrão. Verifique a LICENÇA/termos no repositório antes da reutilização/distribuição.
 

@@ -22,7 +22,7 @@ It is used in advanced artificial intelligence research and autonomous systems.
 
 Can be confused with traditional operating systems; This system is not software, but a thinking architecture.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can these systems really think?**
 

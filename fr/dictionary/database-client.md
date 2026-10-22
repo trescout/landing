@@ -22,7 +22,7 @@ Il est largement utilisé dans les processus de développement de logiciels, les
 
 À ne pas confondre avec le serveur de base de données qui stocke les données lui-même ; Le client n'est que l'interface et l'outil de gestion.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quels programmes sont appelés clients de base de données ?**
 

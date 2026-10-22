@@ -22,7 +22,7 @@ Es wird in allen Bereichen eingesetzt, vom professionellen Filmschnitt bis zur P
 
 Videobearbeitungssoftware wird oft mit Playern verwechselt, die nur Videos ansehen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss man ein Profi sein, um einen Videoeditor zu verwenden?**
 

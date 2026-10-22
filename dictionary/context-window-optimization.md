@@ -22,7 +22,7 @@ Uzun belgelerin analizinde, karmaşık kod projelerinde ve uzun süreli sohbetle
 
 Context Window
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her şeyi modele veremiyoruz?**
 

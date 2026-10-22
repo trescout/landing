@@ -22,7 +22,7 @@ Otomasyon platformlarında, akıllı iş akışlarında ve otonom yazılım ekos
 
 Sıradan bir uygulamaya sonradan eklenen yapay zekâ özellikleri ile karıştırılmamalıdır; bunlar temelden ajanlar için üretilmiştir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden özel tasarlanmaları gerekir?**
 

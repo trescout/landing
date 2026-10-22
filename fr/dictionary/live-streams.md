@@ -22,7 +22,7 @@ Il est utilisé dans les diffusions en direct sur les réseaux sociaux, les plat
 
 La différence avec l'enregistrement vidéo est que le contenu n'est pas un fichier préparé à l'avance, mais un flux qui a lieu à ce moment-là.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi la diffusion en direct est-elle retardée ?**
 

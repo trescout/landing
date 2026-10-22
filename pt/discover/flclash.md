@@ -50,7 +50,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Aplicação fácil-média
 - **O que oferece:** Cliente proxy multiplataforma e sem anúncios
 - **Taxa:** Gratuito · código aberto (GPL-3.0)
-- **Licença:** GPL-3.0 · ayrıntı aşağıda
+- **Licença:** GPL-3.0 · detalhe abaixo
 
 **Licença:** GPL-3.0 · uso gratuito; Se você modificar e distribuir o software, deverá compartilhar suas alterações com o código-fonte sob a mesma licença GPL (copyleft).
 

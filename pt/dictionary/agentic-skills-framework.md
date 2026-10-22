@@ -22,7 +22,7 @@ Definir as ferramentas que a IA pode utilizar, determinar os seus critérios de 
 
 Pode ser confundido com o conceito de Agente AI, mas este conceito é o estilo de gerenciamento das habilidades que o agente possui.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é necessária uma estrutura?**
 

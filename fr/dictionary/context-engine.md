@@ -22,7 +22,7 @@ Il est utilisé dans les assistants d'intelligence artificielle avancés, les sy
 
 Il peut être confondu avec une simple base de données ; cependant, ce système ne se contente pas de stocker les données, il les rend également significatives pour l'intelligence artificielle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je l'utiliser tout le temps ?**
 

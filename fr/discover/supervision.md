@@ -59,7 +59,6 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Computer Vision](https://trescout.com/fr/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/fr/dictionary/cv/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs Python qui souhaitent normaliser les processus de détection et de suivi d'objets dans les projets de vision par ordinateur.

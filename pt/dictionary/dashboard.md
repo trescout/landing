@@ -22,7 +22,7 @@ Ele é usado no mundo dos negócios para rastrear gráficos de vendas, monitorar
 
 Pode ser confundido com relatórios, mas o painel fornece dados interativos e ao vivo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O painel mostra dados ao vivo?**
 

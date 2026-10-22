@@ -22,7 +22,7 @@ Diferentes plataformas (WhatsApp, e-mail, chat ao vivo) se conectam a este siste
 
 Pode ser mixado com multicanal; Omni-channel é uma estrutura onde todos os canais conversam entre si.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que a inteligência artificial faz aqui?**
 

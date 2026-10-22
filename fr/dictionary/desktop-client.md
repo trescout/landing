@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes d’exploitation, les programmes bureautiques
 
 Peut être confondu avec les applications Web ; Alors que les applications Web dépendent du navigateur, le client de bureau s'exécute de manière indépendante.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Une application de bureau est-elle toujours meilleure ?**
 

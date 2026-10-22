@@ -22,7 +22,7 @@ Il est utilisé dans la phase de préparation des données, qui constitue la bas
 
 Il est important non seulement de diviser les données, mais aussi de les diviser tout en préservant une intégrité significative.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si les morceaux sont trop petits ?**
 

@@ -22,7 +22,7 @@ It is used on websites to keep the contents of a shopping cart or to remember pr
 
 It is confused with database, but database keeps permanent record while state management manages temporary and instantaneous state.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if the state administration is corrupted?**
 

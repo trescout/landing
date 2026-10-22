@@ -38,7 +38,7 @@ Por que binário: Distinguir dois estados é mais estável e rápido do que com 
 **Morse:** Ponto e traço.
 **Interruptor:** Para frente e para trás.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que apenas 0 e 1?**
 

@@ -22,7 +22,7 @@ Haber ajanslarında, sosyal medya içerik üretiminde ve reklam ajanslarında ku
 
 Basit video düzenleme araçları ile karıştırılmamalıdır; bu sistemler yaratıcı kararları da kendisi verir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **İnsan müdahalesi tamamen kalkıyor mu?**
 

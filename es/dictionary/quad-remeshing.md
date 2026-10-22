@@ -22,7 +22,7 @@ Se utiliza en procesos de desarrollo de juegos, animación y preparación de imp
 
 No debe confundirse con la mera reducción del modelo (diezmado); El objetivo aquí es cambiar el orden geométrico de la superficie.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no utilizar simplemente triángulos?**
 

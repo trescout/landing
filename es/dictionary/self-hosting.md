@@ -22,7 +22,7 @@ Se utiliza para configurar su propio almacenamiento en la nube, ejecutar sus mod
 
 Se confunde con la computación en la nube, pero mientras estás usando el servidor de otra persona en la nube, aquí tienes el control total del hardware y software.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se prefiere el alojamiento propio?**
 

@@ -43,7 +43,7 @@ Es wird für einen Passwort-Manager gehalten. Dieser speichert das Passwort, jen
 **Notar:** Identitätsbeglaubigung.
 **Passkontrolle:** Durchgang mit Stempel.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es sicher?**
 

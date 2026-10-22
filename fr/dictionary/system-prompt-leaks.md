@@ -22,7 +22,7 @@ Cela se produit fréquemment avec les chatbots, les assistants d’intelligence 
 
 Cela peut être confondu avec une ingénierie rapide, mais il s’agit d’une tentative de fuite.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce une faille de sécurité ?**
 

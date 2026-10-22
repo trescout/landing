@@ -53,7 +53,7 @@ Wird oft für eine virtuelle Maschine gehalten. Die Maschine enthält ein vollwe
 **Küche:** Eine Fertiggerichte-Box mit allen Zutaten im Inneren.
 **Camping:** Ein ordentlich in seiner Tasche transportiertes Camping-Set.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist der Container so beliebt?**
 

@@ -22,7 +22,7 @@ Você abre seu navegador, acessa o site relevante, digita seu código e pression
 
 Pode ser misturado com compiladores nativos; O compilador web usa a internet enquanto os locais usam a energia do seu computador.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preciso manter um arquivo de código no meu computador?**
 

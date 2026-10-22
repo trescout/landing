@@ -22,7 +22,7 @@ Feche portas desnecessárias no servidor, atualize o software para a versão mai
 
 Não é a mesma coisa que instalar um firewall; o endurecimento é um processo de segurança muito mais abrangente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Com que frequência devo proteger meu servidor?**
 

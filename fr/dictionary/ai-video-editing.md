@@ -22,7 +22,7 @@ Utilisé dans la production de contenu sur les réseaux sociaux, les flux de tra
 
 Il peut être confondu avec le logiciel Video Editor, mais « l'automatisation » est ici au premier plan.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Va-t-il remplacer les éditeurs professionnels ?**
 

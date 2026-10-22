@@ -46,7 +46,7 @@ It is thought to be general modeling ability. However, what is meant here is the
 **Drill:** Function varying depending on tip.
 **Telephone:** Every application installed.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does every model have the ability?**
 

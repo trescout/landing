@@ -22,7 +22,7 @@ Sites de comparação de preços são usados ​​para coletar conjuntos de dad
 
 É confundido com rastreamento da web, mas enquanto o rastreamento é usado para indexar sites, a raspagem é feita para extrair dados específicos e entendê-los.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todo site pode ser copiado?**
 

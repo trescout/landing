@@ -22,7 +22,7 @@ Il est utilisé dans tous les domaines où il y a des données, comme la finance
 
 Il est souvent confondu avec l'analyse de données ; le traitement des données est l'étape préparatoire, tandis que l'analyse consiste à interpréter les résultats.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le traitement des données est-il important ?**
 

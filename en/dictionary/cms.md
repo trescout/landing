@@ -41,7 +41,7 @@ It's similar to website builders, but CMS usually offer more customization and p
 **Library:** Catalog system that lines the shelves.
 **Retail:** Store layout that manages the aisle plan.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Do I need to be a software developer to use CMS?**
 

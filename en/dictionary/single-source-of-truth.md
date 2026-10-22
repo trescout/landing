@@ -24,7 +24,7 @@ It is mandatory in enterprise software, financial systems and projects where lar
 
 It can be confused with the central database; This is a management principle rather than a technique.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is this principle difficult?**
 

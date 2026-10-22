@@ -24,7 +24,7 @@ Ils sont utilisés sur les marchés des cryptomonnaies, dans les projets de fina
 
 Ils peuvent être confondus avec les bourses centralisées (CEX).
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je faire confiance à quelqu'un lorsque j'utilise des DEX ?**
 

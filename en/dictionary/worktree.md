@@ -22,7 +22,7 @@ It is used in complex software projects in situations where urgent bug fixes are
 
 It is not the same as just copying folders; worktrees are connected to the same Git repository and work in synchronization with each other.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we just copy separate folders?**
 

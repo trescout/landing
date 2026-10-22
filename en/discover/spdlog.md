@@ -65,7 +65,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** For C++ developers, game engine and embedded systems architects who want to speed up debugging, monitoring and checking software projects with zero latency.
-- **License:** MIT Lisansı (Ticari ve açık kaynak projelerde tamamen serbest)
+- **License:** MIT License (Completely free for commercial and open source projects)
 - **Standard:** C++11, C++14, C++17, C++20 and C++23 compatible
 - **Library Type:** Header-only or Compiled static/dynamic linking
 

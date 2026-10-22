@@ -61,7 +61,7 @@ pi install npm:pi-subagents
 - **Difficulty:** Advanced developer library
 - **What offers:** Asynchronous sub-agent delegation
 - **Fee:** Open source (see license note)
-- **License:** Belirtilmemiş · ayrıntı aşağıda
+- **License:** Not specified · detail below
 
 **License:** ⚠️ No license is specified in the repo; defaults to 'all rights reserved'. You can look it up to try, but reuse requires express permission from the author.
 

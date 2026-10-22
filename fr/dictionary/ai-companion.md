@@ -22,7 +22,7 @@ Vous pouvez le rencontrer sur les smartphones, dans des applications de chat sp�
 
 Il se distingue des assistants d’intelligence artificielle qui travaillent uniquement de manière ciblée par leur capacité à établir des liens émotionnels.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que AI Companion me comprend vraiment ?**
 

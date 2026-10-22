@@ -22,7 +22,7 @@ Es wird bei der Entwicklung intelligentere Agenten und in modularen KI-Anwendung
 
 Im Gegensatz zu allgemeinen Agentenstrukturen ist es ein spezifischer Helfer, der direkt auf die Vermittlung von Fähigkeiten ausgerichtet ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wozu dient es?**
 

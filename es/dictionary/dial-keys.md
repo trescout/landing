@@ -22,7 +22,7 @@ Lo encontrará en teléfonos antiguos, colecciones de museos y diseños decorati
 
 No confundir con los teclados digitales modernos o las interfaces de pantalla táctil.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué ya no se usa?**
 

@@ -22,7 +22,7 @@ It is used in automating software tests, data entry operations, and routine offi
 
 It is confused with classic web scraping or API integrations. While traditional methods communicate with the backend code, Computer Use 2.0 directly targets the visual interface and acts like a human.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is Computer Use 2.0 safe?**
 

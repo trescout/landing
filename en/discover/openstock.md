@@ -71,7 +71,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Easy (ready site) · advanced (self-host)
 - **What offers:** Real-time price + alert + analysis
 - **Fee:** Free
-- **License:** AGPL-3.0 · ayrıntı aşağıda
+- **License:** AGPL-3.0 · detail below
 
 **License:** AGPL-3.0 · Free to use ready site. However, if you modify the project, redistribute it, or release it as a web service, you will need to open your own source code, as the developers make clear.
 

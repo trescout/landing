@@ -32,7 +32,7 @@ Elegir Fine-Tuning en lugar de RAG: El fine-tuning no se realiza para la transfe
 - Entrenar con datos basura: Los conjuntos de datos de baja calidad o inconsistentes atrofian la capacidad de razonamiento lógico del modelo.
 - Sobreajuste (Overfitting): Entrenar el modelo en un conjunto de datos pequeño con iteraciones excesivas conduce al aprendizaje memorístico y destruye el poder de generalización.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la principal diferencia entre ajuste fino y RAG?**
 

@@ -24,7 +24,7 @@ Se utiliza en contratos, transacciones bancarias y correspondencia oficial.
 
 Simplemente pegar su nombre como un archivo de imagen en un documento no es una firma electrónica; Debe haber un proceso de verificación legal detrás.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿En qué se diferencia de una firma física?**
 

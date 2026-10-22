@@ -24,7 +24,7 @@ Urbanisme, itinéraires logistiques, projets de protection de l'environnement et
 
 À ne pas confondre avec un simple outil de navigation comme Google Maps ; il ne montre que le résultat, le SIG est la cuisine des données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le SIG n'est-il qu'une carte ?**
 

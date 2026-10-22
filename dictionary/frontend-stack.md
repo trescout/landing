@@ -22,7 +22,7 @@ Web uygulamaları, mobil arayüzler ve her türlü dijital kullanıcı paneli ge
 
 Backend ile karıştırılır; backend görünmeyen motor kısmıyken, frontend görünen vitrindir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hangi araçlar frontend stack'e girer?**
 

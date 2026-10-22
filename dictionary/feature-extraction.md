@@ -22,7 +22,7 @@ Doğal dil işleme, görüntü işleme, arama motorları ve veri analitiği boru
 
 Doğrudan model eğitmekten farklıdır, mevcut veriden en değerli bilgiyi özetleyip sayısal formata indirgeme adımıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Embedding ile farkı nedir?**
 

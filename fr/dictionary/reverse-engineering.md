@@ -22,7 +22,7 @@ En cybersécurité, vous pouvez y recourir fréquemment pour décoder la logique
 
 Elle est souvent confondue avec le terme « software reverse engineering » (rétro-ingénierie logicielle) propre au monde du logiciel. La rétro-ingénierie est un concept parapluie beaucoup plus large qui englobe également les machines physiques et le matériel.
 
-## Questions fréquentes
+## Questions et réponses
 
 **La pratique de la rétro-ingénierie est-elle légale ?**
 

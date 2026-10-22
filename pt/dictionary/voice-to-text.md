@@ -22,7 +22,7 @@ Os dados de voz entram no sistema, o modelo de inteligência artificial descobre
 
 É misturado com Text-to-Speech (conversão de texto em fala); Este é exatamente o processo oposto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Existe alguma margem de erro?**
 

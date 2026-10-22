@@ -22,7 +22,7 @@ Il est utilisé dans les environnements de développement logiciel (IDE) tels qu
 
 Il peut être confondu avec « AI Coding Agent », qui écrit du code entièrement tout seul ; Les assistants travaillent généralement sous votre contrôle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces outils remplaceront-ils les développeurs de logiciels ?**
 

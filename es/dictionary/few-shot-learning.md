@@ -22,7 +22,7 @@ Se utiliza especialmente en modelos de lenguaje, donde el usuario quiere que el 
 
 Mezclado con ajustes finos; Mientras que el ajuste fino cambia la estructura del modelo, el método de pocos disparos simplemente agrega ejemplos al comando actual.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuántos ejemplos son suficientes?**
 

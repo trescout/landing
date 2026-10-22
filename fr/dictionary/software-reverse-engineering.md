@@ -22,7 +22,7 @@ Il est utilisé dans la recherche en sécurité, l'analyse de logiciels concurre
 
 Cela ne doit pas être confondu avec l'écriture de code ; ici, le but n'est pas de produire, mais de décoder ce qui existe déjà.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce légal ?**
 

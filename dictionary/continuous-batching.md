@@ -36,7 +36,7 @@ Hız sanılır. Oysa konu verimdir: Aynı donanımla çok iş yapılır. Hız ya
 
 *Tek masayı bitirmeden her masaya servis veren şef gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden önemli?**
 

@@ -45,7 +45,7 @@ Wird für multimodal gehalten. Multimodal ist der Name der Familie, VLM ist das 
 **Untertitel:** Dem Film Text hinzufügen.
 **Führer:** Exponate im Museum erklären.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist der Unterschied zum klassischen Modell?**
 

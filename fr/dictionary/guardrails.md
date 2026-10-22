@@ -22,7 +22,7 @@ Ils sont largement utilisés dans les chatbots du service client, les secteurs r
 
 On peut les confondre avec l'apprentissage par renforcement à partir de rétroaction humaine (RLHF) effectué lors de la formation de base du modèle. Alors que la formation de base détermine le caractère interne du modèle, les guardrails constituent une enveloppe de sécurité indépendante ajoutée de l'extérieur au modèle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le système de guardrails ralentit-il de manière significative les temps de réponse ?**
 

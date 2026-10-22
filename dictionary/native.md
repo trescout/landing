@@ -22,7 +22,7 @@ Akıllı telefonlardaki uygulama mağazalarında, işletim sistemi seviyesindeki
 
 Web tabanlı uygulamalar veya karma (hybrid) uygulamalar, cihazla iletişim kurmak için tarayıcı gibi aracı bir katman kullanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Native uygulama her zaman daha mı iyidir?**
 

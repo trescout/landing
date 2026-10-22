@@ -44,7 +44,7 @@ Se confunde con un sitio web. El sitio ofrece contenido, la interfaz web (Web UI
 **Carlinga:** Disposición de indicadores y botones.
 **Control:** Panel de control del dispositivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesaria la conexión a Internet?**
 

@@ -22,7 +22,7 @@ Se utiliza especialmente para que los vehículos autónomos tomen decisiones de 
 
 No debe confundirse simplemente con una base de datos o un simple algoritmo de predicción porque aquí existe una capacidad de simulación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante el modelo mundial?**
 

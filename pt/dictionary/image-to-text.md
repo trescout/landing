@@ -22,7 +22,7 @@ Está incluído nos sistemas de criação automática de legendas de plataformas
 
 Confunde-se com texto para imagem, mas é o contrário; Enquanto a conversão de texto em imagem produz imagens a partir de texto, esta tecnologia produz texto a partir de imagens.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele consegue ler textos manuscritos?**
 

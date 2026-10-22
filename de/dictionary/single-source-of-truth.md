@@ -24,7 +24,7 @@ Es ist in Unternehmenssoftware, Finanzsystemen und Projekten, in denen große Te
 
 Es kann mit der zentralen Datenbank verwechselt werden; Dabei handelt es sich eher um ein Managementprinzip als um eine Technik.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist dieses Prinzip schwierig?**
 

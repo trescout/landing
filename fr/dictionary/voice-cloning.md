@@ -22,7 +22,7 @@ Il est utilisé dans le doublage de films, de personnages de jeux et dans le dom
 
 Il est confondu avec le changeur de voix ; Alors que la substitution vocale manipule simplement le ton, le clonage copie complètement le caractère de la parole de la personne.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cette technologie est-elle sûre ?**
 

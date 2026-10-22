@@ -24,7 +24,7 @@ It is used in the trading of crypto assets and the world of decentralized financ
 
 It should not be confused with centralized exchanges (CEX); on centralized exchanges, your assets are under the company's control.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it necessary to sign up to use a DEX?**
 

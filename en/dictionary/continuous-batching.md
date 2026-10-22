@@ -36,7 +36,7 @@ It is thought to be speed. Yet the real issue is efficiency: More work is done w
 **Bus:** A shuttle that doesn't wait until it fills up to depart.
 **Elevator:** Do not pick up passengers between floors.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it important?**
 

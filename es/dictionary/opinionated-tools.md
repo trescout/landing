@@ -22,7 +22,7 @@ Se utiliza en marcos de desarrollo de software modernos y herramientas de produc
 
 Se puede confundir con herramientas flexibles, pero si bien las herramientas flexibles pueden cambiarlo todo, estas herramientas requieren cierta disciplina.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué son tan restrictivos?**
 

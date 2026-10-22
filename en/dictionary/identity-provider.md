@@ -43,7 +43,7 @@ Mistaken for a password manager. One stores the password, the other verifies the
 **Notary:** Identity verification.
 **Passport control:** Passage with a stamp.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it safe?**
 

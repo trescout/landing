@@ -37,7 +37,7 @@ It is mistaken for long-term memory. That is the permanent profile, this is the 
 **Stand:** Tools packed up when the job is done.
 **RAM:** The area that gets erased when the power is cut.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What happens if it gets full?**
 

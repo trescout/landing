@@ -22,7 +22,7 @@ Es wird in autonomen Systemen der künstlichen Intelligenz, Task-Management-Plat
 
 Nicht zu verwechseln mit bloßem „Arbeiten“; Funktionierend bedeutet, dass das System geöffnet ist, während Agent Ready bedeutet, dass das System bereit ist, mit autonomer Entscheidungsbefugnis zu arbeiten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Woher weiß ich, ob ein System Agent Ready ist?**
 

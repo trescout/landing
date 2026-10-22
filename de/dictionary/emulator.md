@@ -46,7 +46,7 @@ Die Legalität der Emulatorenentwicklung wurde weltweit durch Präzedenzfälle a
 - Sony v. Connectix (2000) und Sony v. Bleem!: Die Gerichte entschieden, dass es rechtmäßig ist und unter den Begriff der fairen Verwendung (Fair Use) fällt, die Funktionsweise einer Hardware durch Reverse Engineering mittels Clean-Room-Verfahren in Software zu übertragen.
 - Urheberrechtlicher Hinweis: Die Emulationssoftware selbst ist legal. Das unbefugte Kopieren oder Herunterladen von urheberrechtlich geschützten BIOS-Dateien des Zielgeräts oder von urheberrechtlich geschützten Spiel- bzw. Software-ROMs aus dem Internet stellt jedoch eine Urheberrechtsverletzung dar.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Emulator und wie lautet die türkische Entsprechung?**
 

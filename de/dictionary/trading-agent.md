@@ -22,7 +22,7 @@ Es wird bei Kryptowährungsbörsen, Aktienmärkten und Devisentransaktionen verw
 
 Es ähnelt dem algorithmischen Handel, die Agenten sind jedoch autonomer und lernbasierter.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Besteht die Gefahr, Geld zu verlieren?**
 

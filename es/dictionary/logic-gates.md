@@ -22,7 +22,7 @@ Se encuentra en el diseño arquitectónico de microprocesadores, simulaciones de
 
 Se puede confundir con los bloques 'if-else' en los algoritmos de software: mientras que 'if-else' es una estructura de control que opera en lenguajes de programación de alto nivel, una puerta lógica es un mecanismo de hardware que opera directamente a nivel de transistor.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuáles son las puertas lógicas más básicas?**
 

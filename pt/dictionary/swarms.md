@@ -22,7 +22,7 @@ Veículos autônomos são usados ​​no planejamento logístico e em processos
 
 É semelhante à mente coletiva; No entanto, enxame refere-se a uma colaboração mais dinâmica e orientada para tarefas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que os Swarms são produtivos?**
 

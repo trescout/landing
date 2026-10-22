@@ -75,7 +75,7 @@ Git 2.23 sürümünden itibaren `git checkout` komutunun kafa karıştıran çok
 | **En Büyük Risk** | Sepet terk etme, mükerrer çekim | Kaydedilmemiş çalışma dizini değişikliklerini kaybetme |
 | **Modern Yaklaşım** | Apple/Google Pay, Headless Checkout | `git switch` ve `git restore` kullanımı |
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Checkout kelimesinin genel anlamı nedir?**
 

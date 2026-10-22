@@ -22,7 +22,7 @@ Se ve en modelos avanzados de inteligencia artificial, simulaciones de estrategi
 
 Es completamente diferente de la simple búsqueda de datos o de la lista de resultados de un motor de búsqueda; Requiere razonamiento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo se mide la capacidad de razonamiento?**
 

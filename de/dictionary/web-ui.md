@@ -44,7 +44,7 @@ Es wird für eine Website gehalten. Eine Website bietet Inhalte, eine Web-UI ver
 **Cockpit:** Anzeige- und Tastenlayout.
 **Steuerung:** Gerätekontrollpanel.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist das Internet erforderlich?**
 

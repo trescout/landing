@@ -22,7 +22,7 @@ Você o encontrará em aplicativos de mobile banking, plataformas de bolsa de va
 
 Não é diretamente uma ferramenta ou programa de software; Refere-se à área setorial geral atendida pelas tecnologias financeiras.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como os serviços financeiros se relacionam com o software?**
 

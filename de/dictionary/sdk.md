@@ -24,7 +24,7 @@ Es wird bei der Entwicklung mobiler Anwendungen, der Integration eines Modells d
 
 Gemischt mit API; Die API ist eine Tür, das SDK ist die gesamte Toolbox, die es Ihnen ermöglicht, durch diese Tür zu gelangen und das Haus einzurichten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind alle SDKs kostenlos?**
 

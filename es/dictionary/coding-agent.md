@@ -22,7 +22,7 @@ Se utiliza como complemento en editores de código como VS Code o en plataformas
 
 Es lo mismo que el término Agente de codificación de IA, pero se refiere a un concepto más general.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El agente codificador aceptará mi trabajo?**
 

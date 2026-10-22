@@ -24,7 +24,7 @@ It operates in the background in compilers, code formatters, static code analysi
 
 Unlike plain text search tools, it does not just search for words; it examines the logical grammar and structure of the code.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is AST parsing done manually by the developer?**
 

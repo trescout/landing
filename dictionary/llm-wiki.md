@@ -22,7 +22,7 @@ Kurumsal bilgi sistemlerinde, teknik destek botlarında ve güncel haberleri tak
 
 RAG sistemi ile benzerdir ancak burada bilginin daha düzenli ve ansiklopedik bir yapıda tutulması vurgulanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **LLM-Wiki neden gereklidir?**
 

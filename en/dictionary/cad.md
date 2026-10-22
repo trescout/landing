@@ -20,7 +20,7 @@ The program records lines, angles, and surfaces as mathematical coordinates. The
 
 It is frequently used when drawing building plans in construction projects, designing engine parts in automobile factories, or modeling the outer casing of a phone.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does CAD only work in three dimensions?**
 

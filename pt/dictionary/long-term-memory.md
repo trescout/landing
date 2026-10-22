@@ -22,7 +22,7 @@ Os dados geralmente são armazenados em um banco de dados vetorial. Quando a int
 
 Pode ser confundida com a janela de contexto, mas a janela de contexto cobre apenas a conversa atual.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essa memória dura para sempre?**
 

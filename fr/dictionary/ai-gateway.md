@@ -22,7 +22,7 @@ Il est utilisé pour la sécurité et la gestion des coûts dans les application
 
 Elle ne peut être confondue qu'avec une API ; cependant, cette structure fournit une couche supplémentaire de contrôle et de gestion en plus de l'API.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’utilisation d’AI Gateway ralentit-elle ?**
 

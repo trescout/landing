@@ -22,7 +22,7 @@ It is preferred in mobile applications, small desktop software or rapid prototyp
 
 It is confused with client-server based databases; This system is local while they require connecting remotely.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are these databases suitable for big data?**
 

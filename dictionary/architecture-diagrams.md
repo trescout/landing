@@ -22,7 +22,7 @@ Yazılım geliştirme süreçlerinde, ekip toplantılarında ve teknik dokümant
 
 Akış şemaları (flowcharts) ile karıştırılabilir; ancak mimari diyagramlar daha çok sistemin yapısını, akış şemaları ise bir sürecin adımlarını gösterir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu diyagramları çizmek için kod bilmek gerekir mi?**
 

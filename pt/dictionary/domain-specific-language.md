@@ -24,7 +24,7 @@ Você o encontra frequentemente em áreas como desenvolvimento web (CSS, HTML), 
 
 Pode ser confundido com linguagens de programação de uso geral; A diferença é que um tenta fazer tudo, enquanto o outro se concentra em fazer algo com perfeição.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não usamos uma DSL para cada trabalho?**
 

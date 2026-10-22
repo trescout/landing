@@ -24,7 +24,7 @@ It is frequently used in web applications, enterprise software and database-inte
 
 It may be confused with the database driver; The driver provides the raw connection, while the ORM facilitates this connection.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I use ORM?**
 

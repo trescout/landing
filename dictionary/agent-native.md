@@ -22,7 +22,7 @@ Otonom yazılım geliştirme araçlarında ve karmaşık görev yönetim sisteml
 
 Sıradan sohbet robotlarından farkı, sadece cevap vermeyip eylemde bulunmalarıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sistemler hata yaparsa ne olur?**
 

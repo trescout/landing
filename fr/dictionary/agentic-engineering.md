@@ -22,7 +22,7 @@ Il est utilisé dans l’automatisation de processus métier complexes et de sys
 
 Peut être confondu avec AI Agent ; C'est une discipline, et AI Agent est le produit de cette discipline.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quel sera le rôle du développeur de logiciels ici ?**
 

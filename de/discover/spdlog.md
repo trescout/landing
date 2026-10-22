@@ -65,7 +65,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für C++-Entwickler, Game-Engine- und Embedded-System-Architekten, die das Debuggen, Überwachen und Überprüfen von Softwareprojekten ohne Latenz beschleunigen möchten.
-- **Lizenz:** MIT Lisansı (Ticari ve açık kaynak projelerde tamamen serbest)
+- **Lizenz:** MIT-Lizenz (völlig kostenlos für kommerzielle und Open-Source-Projekte)
 - **Standard:** Kompatibel mit C++11, C++14, C++17, C++20 und C++23
 - **Bibliothekstyp:** Nur-Header- oder kompilierte statische/dynamische Verknüpfung
 

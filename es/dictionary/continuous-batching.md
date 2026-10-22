@@ -36,7 +36,7 @@ Se cree que es velocidad. Sin embargo, el tema es el rendimiento: se hace más t
 **Autobús:** Un autobús circular que no sale solo al llenarse.
 **Ascensor:** Recoger pasajeros de plantas intermedias.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante?**
 

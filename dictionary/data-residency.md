@@ -22,7 +22,7 @@ Bankacılık, sağlık ve devlet hizmetleri gibi hassas veri işleyen sektörler
 
 Veri güvenliği ile karıştırılabilir, ancak bu durum güvenliğin ötesinde doğrudan verinin fiziksel konumuyla ilgilidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden önemli?**
 

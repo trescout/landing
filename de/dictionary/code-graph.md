@@ -22,7 +22,7 @@ Es wird in komplexen Softwareprojekten, Code-Refactoring-(Verbesserungs-)Prozess
 
 Es kann mit der klassischen Dateiverzeichnisstruktur verwechselt werden, zeigt jedoch funktionale logische Verknüpfungen des Codes und nicht nur Dateien.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie hilft Ihnen Code-Graph beim Schreiben von Code?**
 

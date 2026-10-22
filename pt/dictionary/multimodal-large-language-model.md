@@ -22,7 +22,7 @@ Esses modelos usam camadas especiais que convertem diferentes tipos de dados em 
 
 Pode ser confundido com modelos padrão de IA que são somente texto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todo modelo multimodal é uma inteligência artificial?**
 

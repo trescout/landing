@@ -22,7 +22,7 @@ This capacity is vital when having long books summarized or a complex code proje
 
 It is confused with the general knowledge of the model; General knowledge is gained in education, and context window is the short-term memory of the current conversation.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if the context window fills?**
 

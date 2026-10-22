@@ -22,7 +22,7 @@ Ils sont utilisés dans l'indexation des moteurs de recherche, les projets de co
 
 Ils peuvent être confondus avec le web scraping ; le crawler parcourt tout le réseau, tandis que le scraper extrait des données d'une page spécifique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peuvent-ils parcourir tous les sites ?**
 

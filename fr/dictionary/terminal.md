@@ -43,7 +43,7 @@ On le confond avec l'UI graphique. L'UI graphique est visuelle, le terminal est 
 **Poste de pilotage :** Contrôle direct par bouton.
 **Salle des machines :** Tourner les vannes à la main.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-il nécessaire d'apprendre le terminal ?**
 

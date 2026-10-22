@@ -59,7 +59,6 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Computer Vision](https://trescout.com/es/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/es/dictionary/cv/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores de Python que desean estandarizar los procesos de seguimiento y detección de objetos en proyectos de visión por computadora.

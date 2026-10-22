@@ -22,7 +22,7 @@ São frequentemente usados em programação de sistemas, motores de jogos e sist
 
 Eles são confundidos com arquivos de código intermediário executados em uma máquina virtual. Enquanto os arquivos de código intermediário precisam de um intermediário para funcionar em qualquer computador, os binários nativos são executados diretamente apenas no sistema específico para o qual foram gerados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os binários nativos funcionam em qualquer computador?**
 

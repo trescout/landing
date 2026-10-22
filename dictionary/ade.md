@@ -24,7 +24,7 @@ Büyük yazılım projelerinde, ekip çalışmalarında ve hızlı prototip geli
 
 IDE ile karıştırılabilir; IDE daha çok kod yazma odaklıyken, ADE tüm geliştirme sürecini kapsar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **ADE kullanmak zorunlu mu?**
 

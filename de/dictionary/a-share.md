@@ -22,7 +22,7 @@ Sie werden darauf in globalen Finanzanalysen und Portfolios mit Schwerpunkt auf 
 
 Im Gegensatz zu allgemeinen internationalen Aktienkonzepten unterliegt es einer geografischen und rechtlichen Beschränkung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können Ausländer keine bekommen?**
 

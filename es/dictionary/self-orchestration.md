@@ -22,7 +22,7 @@ Se utiliza en agentes autónomos, procesos complejos de desarrollo de software y
 
 Se confunde con la simple automatización, mientras que este método implica dinámica y capacidad de toma de decisiones.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si comete un error?**
 

@@ -22,7 +22,7 @@ It is used in summarizing case files in law firms, in analyzing long reports in 
 
 May be confused with hallucination; Grounded summary is actually a technique used to prevent hallucinations.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is Grounded summary important?**
 

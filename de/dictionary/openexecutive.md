@@ -44,7 +44,7 @@ Es wird mit einem Chatbot verwechselt. Der Bot antwortet, diese Ebene wird in de
 **Autopilot:** Ein System, das den Kurs hält.
 **Sekretariat:** Reihenfolge des Dokumentenflusses.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ersetzt es den Manager?**
 

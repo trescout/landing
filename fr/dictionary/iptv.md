@@ -24,7 +24,7 @@ Il est utilisé dans les téléviseurs intelligents, les boîtiers IPTV spéciau
 
 On peut la confondre avec les plateformes de streaming comme Netflix ou YouTube, mais l’IPTV est une technologie d’infrastructure qui couvre généralement la transmission de chaînes de télévision en direct.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’Internet haut débit est-il nécessaire pour regarder l’IPTV ?**
 

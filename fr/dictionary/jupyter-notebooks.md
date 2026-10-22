@@ -33,7 +33,7 @@ Le moteur Jupyter fonctionne sur une architecture à trois couches faiblement co
 - Risque d'état caché (Hidden State) : La capacité d'exécuter les cellules dans un ordre aléatoire plutôt que de haut en bas (exécution dans le désordre) peut laisser des états de variables invisibles en mémoire. Cette situation peut amener une autre personne à obtenir des résultats différents ou à rencontrer des erreurs lors de l'exécution du même carnet de notes (« crise de reproductibilité »).
 - Défis liés au contrôle de version (Git) : comme les fichiers .ipynb contiennent des sorties riches et des graphiques en Base64, il est difficile d'analyser les différences de lignes (diff) et de résoudre les conflits de fusion (merge conflict) sur Git. Pour surmonter ce problème, on utilise des outils tels que jupytext (un outil qui synchronise le carnet avec du Markdown épuré ou un script Python) et nbdime.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie Jupyter Notebook et d’où vient sa signification ?**
 

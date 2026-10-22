@@ -22,7 +22,7 @@ Ele é usado em computação em nuvem, implantação de aplicativos da web e arq
 
 É muito mais leve que as máquinas virtuais e inicia mais rápido.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que os contêineres são tão populares?**
 

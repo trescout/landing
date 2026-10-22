@@ -22,7 +22,7 @@ Er wird häufig auf den Startbildschirmen von Smartphones sowie in Tools wie Spo
 
 Er wird oft mit dem eigenen Anwendungsmenü des Betriebssystems verwechselt, aber Launcher sind wesentlich schneller und tastaturorientierter.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Beschleunigt die Verwendung eines Launchers den Computer?**
 

@@ -57,7 +57,7 @@ Can be mixed with API. API is a single gate, while MCP is the rule set that ensu
 **Railway:** Hook standard for connecting wagons.
 **Language:** Common protocol language used in diplomacy.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is MCP necessary?**
 

@@ -22,7 +22,7 @@ It is used in complex problem solving, large-scale data analysis, and autonomous
 
 It is similar to multi-agent systems, but the emphasis is on units acting as a single mind.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is hive mind better?**
 

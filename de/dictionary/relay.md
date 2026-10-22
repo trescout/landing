@@ -22,7 +22,7 @@ Es kommt häufig in Wi-Fi-Signalverstärkern, E-Mail-Übertragungsprotokollen un
 
 Obwohl Relay einem Proxy ähnelt, stellt es im Allgemeinen eine Übertragung auf der physischen oder Netzwerkebene dar.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verbinden wir uns nicht direkt?**
 

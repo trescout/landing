@@ -22,7 +22,7 @@ Es utilizado por inversores en los mercados financieros y bursátiles.
 
 Puede confundirse con especulación; La especulación se centra en el movimiento de precios a corto plazo, que a su vez se centra en el valor a largo plazo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo ganar dinero inmediatamente?**
 

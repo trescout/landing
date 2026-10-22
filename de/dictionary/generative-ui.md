@@ -22,7 +22,7 @@ Es wird in modernen Chatbots, personalisierten Dashboards und komplexen Datenana
 
 Es kann mit statischem Webdesign verwechselt werden, aber das Design wird hier derzeit vollständig durch künstliche Intelligenz erstellt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist generative UI wichtig?**
 

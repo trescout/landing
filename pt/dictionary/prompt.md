@@ -44,7 +44,7 @@ Pensa-se que é engenharia. O prompt é uma única instrução, a engenharia é 
 **Pedido:** Comanda de cozinha.
 **Receita:** Instrução medida.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que é um prompt ruim?**
 

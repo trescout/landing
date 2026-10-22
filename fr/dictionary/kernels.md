@@ -22,7 +22,7 @@ Il est situé au centre de tous les systèmes d'exploitation tels que Windows, L
 
 À ne pas confondre avec le système d'exploitation dans son ensemble ; Le noyau n'est que la couche de gestion la plus élémentaire.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si le noyau plante ?**
 

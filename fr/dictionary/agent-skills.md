@@ -40,7 +40,7 @@ On croit à une intelligence générale. Pourtant, ce qui est visé, c'est la ca
 **Boîte à outils :** Clé choisie en fonction du travail.
 **Magasin d'applications :** Programme téléchargé selon les besoins.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce que j'ajoute les compétences moi-même ?**
 

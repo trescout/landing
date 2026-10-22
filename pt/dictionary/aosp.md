@@ -24,7 +24,7 @@ Os desenvolvedores podem baixar esses códigos e editá-los de acordo com seus p
 
 Pode ser confundido com a versão do Android oferecida pelo Google; a versão do Google inclui serviços proprietários adicionados sobre o AOSP.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Se eu usar o AOSP, terei a Play Store?**
 

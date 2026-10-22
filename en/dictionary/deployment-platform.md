@@ -22,7 +22,7 @@ It is used during the stage of launching websites, mobile app backends, and arti
 
 It is different from the development environment where you only write code; it is where the code is presented to the end user.
 
-## Frequently asked questions
+## Questions and answers
 
 **Which popular services fall into this category?**
 

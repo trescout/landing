@@ -22,7 +22,7 @@ Model, eğitim verileri arasında kurduğu bağlantılar zayıf olduğunda veya 
 
 Yalan söylemekle karıştırılır, ancak yapay zekânın bir niyeti veya bilinci yoktur; sadece olasılıkları takip eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekânın uydurmasını nasıl engellerim?**
 

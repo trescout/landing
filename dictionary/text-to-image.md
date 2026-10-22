@@ -22,7 +22,7 @@ Dijital pazarlamada, oyun tasarımında konsept sanat üretirken ve sosyal medya
 
 Görsel arama motorları ile karıştırılmamalıdır. Arama motorları var olan görselleri bulurken, bu teknoloji tamamen yeni ve özgün bir görsel oluşturur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Text-to-image sistemleri telifli görseller üretebilir mi?**
 

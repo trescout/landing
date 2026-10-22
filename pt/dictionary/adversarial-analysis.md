@@ -22,7 +22,7 @@ Dados inesperados, comandos incorretos ou perguntas manipulativas são enviados 
 
 Não deve ser confundido apenas com depuração; Aqui, o foco está na presença de um ator malicioso.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que estamos fazendo esse teste?**
 

@@ -22,7 +22,7 @@ Il est disponible dans les services d'IA, les API basées sur le cloud et les ap
 
 Il se confond avec le modèle lui-même ; Le modèle est l'information, le moteur est le système qui utilise cette information.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utilisons-nous un moteur séparé ?**
 

@@ -52,7 +52,7 @@ Sadece site barındırma hizmeti sanılır. Oysa 200 üzeri servisle veritabanı
 
 *Kendi elektrik santralinizi kurmak yerine şebekeden elektrik satın almak gibidir; sadece kullandığınız kadar ödersiniz.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden AWS kullanmalıyım?**
 

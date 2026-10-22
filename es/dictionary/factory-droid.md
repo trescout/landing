@@ -22,7 +22,7 @@ Se utilizan en fábricas de automóviles, líneas de ensamblaje electrónico, en
 
 Pueden confundirse con robots humanoides de propósito general, pero los droides de fábrica suelen estar optimizados para tareas industriales específicas y fijas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Están los droides de fábrica reemplazando a los trabajadores humanos?**
 

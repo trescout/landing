@@ -31,7 +31,7 @@ Hoje, milhões de linhas de projetos Java legados que operam em finanças, banca
 - Confundir um documento congelado com o atual: usar o manual da Sun, que não é atualizado desde 1999, como única fonte para projetos modernos, cria dívida técnica.
 - Esquecer Parênteses nas Condições: Não colocar parênteses em corpos de linha única pode levar a vulnerabilidades de segurança no futuro.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que as Sun Code Conventions não foram atualizadas após o ano de 1999?**
 

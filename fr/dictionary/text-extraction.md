@@ -22,7 +22,7 @@ Il est utilisé dans le traitement des factures, les systèmes d’authentificat
 
 C'est presque la même chose que l'OCR ; Alors que l’extraction de texte est le nom général de ce processus, l’OCR est le nom de la technologie utilisée.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-il lire l'écriture manuscrite ?**
 

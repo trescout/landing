@@ -22,7 +22,7 @@ On le voit fréquemment dans les systèmes AI Agent, les outils d’automatisati
 
 Il ne faut pas le confondre avec le processus de simple réflexion ou de planification ; L’action est une action réelle qui laisse une marque sur le système.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’action réussit-elle toujours ?**
 

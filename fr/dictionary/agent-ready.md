@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes d’intelligence artificielle autonomes, les 
 
 À ne pas confondre avec le simple fait de « travailler » ; Travailler signifie que le système est ouvert, tandis que Agent Ready signifie que le système est prêt à commencer à fonctionner avec une autorité décisionnelle autonome.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment puis-je savoir si un système est Agent Ready ?**
 

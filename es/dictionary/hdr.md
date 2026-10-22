@@ -24,7 +24,7 @@ Se utiliza en juegos, software de edición de video y pantallas modernas.
 
 Se confunde a menudo con el simple aumento del brillo; el HDR es más una cuestión de calidad de detalle y contraste que de brillo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todas las pantallas admiten HDR?**
 

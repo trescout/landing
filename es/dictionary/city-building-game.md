@@ -22,7 +22,7 @@ Se utiliza en videojuegos como SimCity y Cities: Skylines, en la industria del e
 
 Se puede confundir con los juegos de guerra general o de estrategia en tiempo real: el enfoque principal en los juegos de construcción de ciudades no es derrotar al enemigo, sino hacer sostenible una infraestructura compleja y un ciclo de vida.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué estos juegos son difíciles desde el punto de vista del software?**
 

@@ -24,7 +24,7 @@ Os desenvolvedores marcam as partes pesadas de seu código com bibliotecas espec
 
 É confundido com CPU; A CPU é ótima para tarefas gerais, enquanto a GPU é especializada apenas para grandes cargas matemáticas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que a GPU é essencial para a inteligência artificial?**
 

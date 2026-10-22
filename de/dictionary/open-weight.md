@@ -43,7 +43,7 @@ Es gilt als Open-Source-KI. Dazu gehört auch Code- und Prozesstransparenz, es g
 **Lehrbuch:** Die Quelle, die jeder liest.
 **Samen:** Gemeinsamer Vorfahren-Samen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist der Unterschied zu Open Source?**
 

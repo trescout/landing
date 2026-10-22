@@ -22,7 +22,7 @@ Er wird auf Cloud-Computing-Plattformen oder in den eigenen Rechenzentren große
 
 Es ist nicht nur ein Computer, sondern eine spezielle Infrastruktur, die für den Betrieb des Modells optimiert ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum reicht ein normaler Computer nicht aus?**
 

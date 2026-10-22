@@ -22,7 +22,7 @@ Lo utilizan desarrolladores de juegos independientes en proyectos de juegos para
 
 A diferencia de otros motores de juegos comerciales, es completamente gratuito y no cobra ninguna tarifa de licencia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Necesito saber el código?**
 

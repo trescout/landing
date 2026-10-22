@@ -38,7 +38,7 @@ It can be confused with a quiz. Quiz is a test and gives points. Flashcard is a 
 **Music:** Note and chord cards.
 **Aviation:** Emergency checklist cards.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **How does artificial intelligence produce cards?**
 

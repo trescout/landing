@@ -22,7 +22,7 @@ Il est utilisé sur les serveurs, les applications web et les infrastructures à
 
 Il peut être confondu avec les outils de débogage ; le débogage trouve l'erreur dans le code, tandis que l'outil de surveillance suit la santé globale du système.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi en ai-je besoin ?**
 

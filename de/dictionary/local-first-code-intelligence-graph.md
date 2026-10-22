@@ -22,7 +22,7 @@ Es wird in komplexen Softwareprojekten, bei der Entwicklung von Unternehmenssoft
 
 Es kann mit allgemeinen Code-Analysetools oder internetbasierten Code-Indizierungsdiensten verwechselt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum heißt es „Local-First“?**
 

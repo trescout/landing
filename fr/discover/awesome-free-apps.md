@@ -44,7 +44,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Très simple · il suffit de lire
 - **Format:** Liste catégorisée (sur GitHub)
 - **Frais:** Gratuit (liste et applications)
-- **Licence:** Belirsiz (NOASSERTION) · ayrıntı aşağıda
+- **Licence:** Incertain (NOASSERTION) · détail ci-dessous
 
 **Licence:** ⚠️ Aucune licence standard définie (GitHub dit 'NOASSERTION'). La liste est gratuite à lire et à utiliser ; mais vérifiez auprès du propriétaire avant de copier et de republier le contenu par vous-même · les droits de réutilisation ne sont pas clairs.
 

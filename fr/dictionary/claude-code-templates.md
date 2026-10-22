@@ -41,7 +41,7 @@ Règle : Le squelette est un point de départ, pas un livre de règles. À mesur
 **Patron de couture :** Modèle de coupe adapté à la morphologie.
 **Recette de cuisine :** Kit de démarrage dosé.
 
-## Foire aux questions
+## Questions et réponses
 
 **Les modèles sont-ils personnalisables ?**
 

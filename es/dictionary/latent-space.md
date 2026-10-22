@@ -22,7 +22,7 @@ Funciona constantemente en segundo plano en los modelos de inteligencia artifici
 
 Puede confundirse con una base de datos vectorial, pero una base de datos vectorial es una base de datos persistente almacenada externamente, mientras que el espacio latente es el espacio abstracto temporal donde el modelo piensa y realiza cálculos instantáneos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede ver el espacio latente con el ojo humano?**
 

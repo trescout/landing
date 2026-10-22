@@ -39,7 +39,7 @@ It is thought to be a VCR. VCR uses cassettes, PVR is digital. It does the same 
 **Podcast:** Downloading and listening on the go.
 **Screen recording:** Do not archive the lesson.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Are PVR and DVR the same?**
 

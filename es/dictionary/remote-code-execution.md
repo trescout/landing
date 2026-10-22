@@ -24,7 +24,7 @@ Se considera un riesgo de seguridad en servidores, aplicaciones web y software n
 
 No debe confundirse solo con el robo de datos; esta situación implica el control total del sistema más allá de los datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo puedo protegerme de esto?**
 

@@ -18,7 +18,7 @@ Abres un archivo de texto y escribes los comandos que deseas ejecutar uno debajo
 
 Se utiliza frecuentemente en la gestión de servidores, operaciones de respaldo o procesos de instalación de software.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería utilizar un guión en lugar de escribirlo a mano?**
 

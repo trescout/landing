@@ -24,7 +24,7 @@ Il est activement présent dans la gestion des certificats SSL/TLS, les configur
 
 Il ne s'agit pas directement du certificat racine lui-même, mais d'une étape intermédiaire faisant office de pont pour transporter la confiance entre la racine et le point final.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi n'utilise-t-on pas directement le certificat racine pour le certificat intermédiaire ?**
 

@@ -22,7 +22,7 @@ Es wird insbesondere zum Lösen komplexer mathematischer Probleme, zum Analysier
 
 Nicht zu verwechseln mit herkömmlichen rekurrenten neuronalen Netzen. Während rekurrente neuronale Netze Daten über Zeitreihen hinweg verarbeiten, verstärken diese Modelle die Transformatorarchitektur durch zyklische Logik.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Laufen diese Modelle langsamer?**
 

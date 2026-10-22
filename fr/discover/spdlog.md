@@ -65,7 +65,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Pour les développeurs C++, les architectes de moteurs de jeux et de systèmes embarqués qui souhaitent accélérer le débogage, la surveillance et la vérification des projets logiciels avec une latence nulle.
-- **Licence:** MIT Lisansı (Ticari ve açık kaynak projelerde tamamen serbest)
+- **Licence:** Licence MIT (entièrement gratuite pour les projets commerciaux et open source)
 - **Standard:** Compatible C++11, C++14, C++17, C++20 et C++23
 - **Type de bibliothèque:** En-tête uniquement ou liaison statique/dynamique compilée
 

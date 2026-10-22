@@ -22,7 +22,7 @@ Se utiliza para monitorear el estado de las máquinas en fábricas, rastrear res
 
 Se puede confundir con una base de datos, pero este dispositivo es más bien el hardware físico en la etapa de recopilación de datos sin procesar.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo almacena datos un registrador de datos?**
 

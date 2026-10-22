@@ -31,7 +31,7 @@ Em contrapartida, no mundo do software, existe uma tensão histórica entre o mo
 - Descrição Técnica Insuficiente: Deixar as etapas de funcionamento do sistema incompletas fará com que a patente seja invalidada judicialmente.
 - Declaração do falso inventor: adicionar gerentes que não têm nenhuma contribuição ou remover o engenheiro principal prejudica a legitimidade da patente.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Quando deve ser feita a divulgação de patente (patent disclosure)?**
 

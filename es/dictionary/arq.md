@@ -20,7 +20,7 @@ El remitente envía el paquete de datos y espera una confirmación. Si no se rec
 
 Se utiliza en los protocolos básicos y protocolos de red de Internet, como el protocolo TCP.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es tan importante?**
 

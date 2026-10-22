@@ -33,7 +33,7 @@ Failing to Anticipate Disk Consumption: If appropriate data retention and compac
 Neglecting Read Performance: Scanning millions of rows of logs from start to finish (replay) to calculate the final state paralyzes read times; regular state snapshots must be taken.
 Ignoring the GDPR Right to be Forgotten: When data protection laws mandate the right to erasure, deleting data from immutable logs poses architectural challenges; this issue should be resolved through crypto-shredding, a method where data is rendered unintelligible by deleting its encryption key.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is the append-only log architecture faster than the update-in-place model?**
 

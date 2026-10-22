@@ -37,7 +37,7 @@ On le croit multicanal. Dans l'autre, les canaux sont multiples, dans celui-ci, 
 **Orchestre :** Les sections jouent une seule œuvre.
 **Aéroport :** Organisation des bagages en correspondance.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi est-ce important ?**
 

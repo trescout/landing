@@ -35,7 +35,7 @@ Tasarım kuralı nettir: Sürücünün gözü yolda kalmalıdır. Bu yüzden men
 
 *Arabanızın içine yerleştirilmiş, hem harita hem de radyo görevi gören akıllı bir tablet gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sistemler güvenli midir?**
 

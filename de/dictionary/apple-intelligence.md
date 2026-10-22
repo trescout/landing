@@ -22,7 +22,7 @@ Es wird beim Schreiben von E-Mails, beim Überprüfen von Benachrichtigungszusam
 
 Es kann mit herkömmlichen cloudbasierten Chatbots verwechselt werden; dieses System ist jedoch tief in das Betriebssystem des Geräts integriert, und sein Hauptaugenmerk liegt auf dem lokalen Schutz persönlicher Daten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Funktioniert Apple Intelligence ohne Internet?**
 

@@ -22,7 +22,7 @@ The inference process occurs whenever you chat with ChatGPT or have an artificia
 
 It is confused with training the model; The education model is the school years, while the inference is graduating and starting to work.
 
-## Frequently asked questions
+## Questions and answers
 
 **How long does the inference process take?**
 

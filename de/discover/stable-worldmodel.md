@@ -51,7 +51,7 @@ swm datasets
 - **Für wen es gedacht ist:** ML/RL-Forscher
 - **Schwierigkeit:** Fortgeschrittene forschungsorientierte
 - **Was bietet:** Reproduzierbare Weltmodell-Forschungsplattform
-- **Lizenz:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Lizenz:** Standard nicht erkannt · Details unten
 - **Gebühr:** Open Source
 
 **Lizenz:** GitHub hat keine Standardlizenz erkannt. Überprüfen Sie die LIZENZ im Repo vor der Wiederverwendung.

@@ -43,7 +43,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Fácil de leer y aplicar
 - **Formato:** Guía completa (en GitHub)
 - **Tarifa:** gratis
-- **Licencia:** Belirtilmemiş · ayrıntı aşağıda
+- **Licencia:** No especificado · detalle a continuación
 
 **Licencia:** ⚠️ No se especifica licencia. Según la ley de derechos de autor, esto significa "todos los derechos reservados": la lectura y el uso personal son gratuitos, pero copiar y volver a publicar el contenido requiere el permiso del autor.
 

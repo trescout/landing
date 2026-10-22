@@ -42,7 +42,7 @@ It is mistaken for manual labeling. That's the human hand, that's the model outp
 **Post office:** Don't stamp.
 **Seal:** Document marking.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it always true?**
 

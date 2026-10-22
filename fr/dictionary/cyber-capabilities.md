@@ -22,7 +22,7 @@ Il est utilisé dans les opérations de cybersécurité, l’industrie de la dé
 
 Il est souvent confondu avec la simple cybersécurité, mais ce terme se concentre davantage sur la partie « ce que nous pouvons faire ».
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces capacités sont-elles uniquement destinées à l'attaque ?**
 

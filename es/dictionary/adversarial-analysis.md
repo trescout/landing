@@ -22,7 +22,7 @@ Se utiliza para garantizar la seguridad de modelos de inteligencia artificial, a
 
 No debe confundirse simplemente con depurar; Aquí, la atención se centra en la presencia de un actor malicioso.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué hacemos esta prueba?**
 

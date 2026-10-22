@@ -22,7 +22,7 @@ Piyasa tahmin sistemlerinde, kullanıcı tercihlerine göre değişen öneri mot
 
 Fine-tuning ile karıştırılabilir, ancak fine-tuning genellikle tek seferlik bir güncellemedir, continual learning ise sürekli bir süreçtir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Model neden eski bilgiyi unutur?**
 

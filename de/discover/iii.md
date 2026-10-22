@@ -77,7 +77,7 @@ npm install iii-sdk
 - **Schwierigkeit:** Erweitertes Entwicklertool
 - **Was bietet:** Servicezusammensetzung + Beobachtbarkeit
 - **Gebühr:** Open Source (siehe Lizenzhinweis)
-- **Lizenz:** Belirtilmemiş · ayrıntı aşağıda
+- **Lizenz:** Nicht angegeben · Details unten
 
 **Lizenz:** ⚠️ Im Repo ist keine Lizenz angegeben; Dies bedeutet standardmäßig „Alle Rechte vorbehalten“. Sie können es ausprobieren, aber die Wiederverwendung von Code und die kommerzielle Nutzung erfordern die ausdrückliche Genehmigung des Autors, bis eine eindeutige Lizenz hinzugefügt wird.
 

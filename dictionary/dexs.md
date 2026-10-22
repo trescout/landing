@@ -24,7 +24,7 @@ Kripto para piyasalarında, merkeziyetsiz finans (DeFi) projelerinde ve kullanı
 
 Merkezi borsalar (CEX) ile karıştırılabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **DEXs kullanırken birine güvenmem gerekir mi?**
 

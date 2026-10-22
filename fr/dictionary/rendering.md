@@ -37,7 +37,7 @@ La fréquence d'images (FPS) détermine l'expérience : plus la valeur baisse, p
 **Architecture :** Visuel tridimensionnel réaliste du projet (plan de masse).
 **Cinéma :** Calcul image par image des effets post-tournage.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi le rendu peut-il être lent ?**
 

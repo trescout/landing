@@ -22,7 +22,7 @@ As capacidades cibernéticas definem o quão defensável é um sistema no mundo 
 
 Muitas vezes é confundido apenas com segurança cibernética, mas este termo concentra-se mais na parte “o que podemos fazer”.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essas habilidades são apenas para ataque?**
 

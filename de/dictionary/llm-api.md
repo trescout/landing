@@ -24,7 +24,7 @@ Es wird in Chatbots, automatischen Inhaltsgeneratoren und allen KI-gestützten W
 
 Es ist nicht das LLM selbst, sondern die Tür, die den Zugang dazu ermöglicht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann jeder eine LLM-API nutzen?**
 

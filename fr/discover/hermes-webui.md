@@ -62,7 +62,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Milieu
 - **Quelles offres:** Interface Web/mobile pour la gestion des agents
 - **Frais:** Gratuit · open source (MIT)
-- **Licence:** MIT · ayrıntı aşağıda
+- **Licence:** MIT · détails ci-dessous
 
 **Licence:** MIT · Vous pouvez l'utiliser librement, le modifier et l'utiliser commercialement.
 

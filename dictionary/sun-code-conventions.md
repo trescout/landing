@@ -36,7 +36,7 @@ Bugün finans, bankacılık ve kamu altyapılarında çalışan milyonlarca sat�
 
 - **Koşullarda Parantezi Unutmak:** Tek satırlık gövdelerde parantez koymamak ileride güvenlik açıklarına yol açabilir.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Sun Code Conventions neden 1999 yılından sonra güncellenmemiştir?**
 

@@ -22,7 +22,7 @@ In Videospielen wird es häufig für Hintergrundmusik verwendet, die sich je nac
 
 Es sollte nicht mit traditioneller Komposition verwechselt werden. Beim Komponieren ist die Abfolge der Klänge festgelegt, während bei der generativen Musik der Prozess dynamisch ist und sich ständig verändert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wem gehört das Urheberrecht an der produzierten Musik?**
 

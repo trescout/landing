@@ -30,7 +30,7 @@ Es handelt sich um eine Datenbank. Es handelt sich jedoch um reine Textdateien. 
 **Schlüsselgeschirr:** Schlüssel ausprobiert.
 **Passwortrad:** Wahrscheinlichkeitsrad.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es legal?**
 

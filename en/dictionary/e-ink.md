@@ -24,7 +24,7 @@ It is frequently used in e-book readers, digital price tags, and some low-energy
 
 It is confused with LCD or OLED screens; they constantly emit light and consume energy, whereas e-ink only consumes energy at the moment of change.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are E-ink screens not in color?**
 

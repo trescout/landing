@@ -42,7 +42,7 @@ Se considera un modo fuera de línea. Ésa es la situación temporal, éste es e
 **Caja fuerte:** Confianza personal.
 **Cartera:** Valor de bolsillo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si el dispositivo se rompe?**
 

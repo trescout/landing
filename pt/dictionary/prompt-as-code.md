@@ -22,7 +22,7 @@ Armazene seus comandos como arquivos de texto e rastreie-os com ferramentas como
 
 Pode ser confundido com engenharia imediata; mas esta é a parte de gerenciamento técnico e processo do trabalho.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo gerenciar comandos como código?**
 

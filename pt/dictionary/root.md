@@ -22,7 +22,7 @@ Ocorre frequentemente em sistemas baseados em Linux e na customização de dispo
 
 É semelhante à conta de administrador, mas root geralmente se refere aos privilégios mais profundos do sistema.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que nem todo mundo usa root?**
 

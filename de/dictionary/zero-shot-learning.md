@@ -22,7 +22,7 @@ Es wird häufig in Gelegenheits-Chatbots verwendet, bei denen Benutzer Fragen di
 
 Es wird mit dem Lernen mit wenigen Schüssen verwechselt; Hier enthält das Modell keine Hinweise oder Beispiele.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie kann das Modell Vorhersagen treffen?**
 

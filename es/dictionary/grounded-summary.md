@@ -22,7 +22,7 @@ Se utiliza para resumir expedientes de casos en bufetes de abogados, analizar in
 
 Puede confundirse con alucinación; El resumen fundamentado es en realidad una técnica utilizada para prevenir las alucinaciones.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante el resumen fundamentado?**
 

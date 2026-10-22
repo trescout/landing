@@ -22,7 +22,7 @@ Você o adiciona ao seu aplicativo como uma biblioteca ou arquivo. Você usa com
 
 É misturado com bancos de dados baseados em cliente-servidor; Este sistema é local, embora exija conexão remota.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Esses bancos de dados são adequados para big data?**
 

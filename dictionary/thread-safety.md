@@ -46,7 +46,7 @@ Siber güvenlikle ilgili değildir. Konu korsanlar değil, veri tutarlılığıd
 
 *Tek tuvaletli bir evde kapıya kilit takmak gibidir; biri içerideyken diğeri beklemek zorundadır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Thread-safe olmazsa ne olur?**
 

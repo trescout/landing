@@ -40,7 +40,7 @@ Seçim ölçütü: Dil uyumu, topluluk ve CI desteği. Popüler olan bakımlı o
 
 *Tek tornavida yerine düzenli alet çantasıyla işe başlamaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Hangisi seçilmeli?**
 

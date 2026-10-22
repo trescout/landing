@@ -24,7 +24,7 @@ Haber siteleri, e-ticaret platformları ve basit araç gereç uygulamalarında s
 
 Yerel uygulamalar (Native App) ile karıştırılmamalıdır; PWA aslında bir web sitesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **App Store'dan mı indirilir?**
 

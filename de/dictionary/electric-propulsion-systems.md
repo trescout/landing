@@ -18,7 +18,7 @@ Der von den Batterien aufgenommene elektrische Strom wird über einen Motortreib
 
 Sie werden in Elektroautos, unbemannten Luftfahrzeugen (Drohnen) und modernen Robotersystemen eingesetzt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum werden diese Systeme bevorzugt?**
 

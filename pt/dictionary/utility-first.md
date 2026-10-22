@@ -22,7 +22,7 @@ Você adiciona tags curtas em seus códigos HTML que especificam a aparência do
 
 Pode ser confundido com a estrutura CSS; utility-first é um método, enquanto o framework CSS é a ferramenta que implementa esse método.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O código não parece muito lotado?**
 

@@ -40,7 +40,7 @@ Damit Suchmaschinen (Google) einen Artikel indexieren können, müssen sie den T
 
 Die Verbreitung von Paywall-Modellen hat ein bedeutendes gesellschaftliches Dilemma mit sich gebracht: Während Fehlinformationen, Desinformation, sensationelle Inhalte und Clickbait im Internet oft völlig kostenlos und ungehindert verbreitet werden, ist verifizierter, auf tiefgründiger Recherche basierender, unabhängiger Qualitätsjournalismus hinter Bezahlschranken verschlossen. Dies führt zu einer Debatte über eine Informationsspaltung und Polarisierung in der Gesellschaft, bei der "diejenigen mit Geld Zugang zu korrekten Informationen haben, während diejenigen ohne Geld Manipulationen ausgesetzt sind".
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Paywall und was ist ihre grundlegende Funktion?**
 

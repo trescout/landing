@@ -39,7 +39,7 @@ On pense que c'est un projet de loisir. Il n'y a pas d'objectif de revenus dans 
 **Musicien de rue :** Répertoire et économie des pourboires.
 **Boulangerie artisanale :** Peu de variété, clients fidèles.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-il obligatoire de très bien coder ?**
 

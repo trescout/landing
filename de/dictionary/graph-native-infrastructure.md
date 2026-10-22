@@ -22,7 +22,7 @@ Es wird in der Analyse sozialer Netzwerke, Betrugserkennungssystemen und komplex
 
 Nicht zu verwechseln mit klassischen relationalen Datenbanken (SQL); denn hier ist die Beziehung nicht Teil des Bildes, sondern die Grundlage der Struktur.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich diese Struktur wählen?**
 

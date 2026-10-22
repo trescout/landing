@@ -22,7 +22,7 @@ Es wird in der komplexen Datenanalyse, der autonomen Softwareentwicklung und gro
 
 Es sollte nicht mit nur einem großen Modell der künstlichen Intelligenz verwechselt werden, hier gibt es Teamarbeit.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir einen Schwarm und nicht ein einzelnes leistungsstarkes Modell?**
 

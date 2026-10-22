@@ -42,7 +42,7 @@ ORM (Object-Relational Mapping), SQL yazmadan kod içinden veritabanıyla konuş
 
 *Devasa bir kütüphanenin danışma görevlisi gibidir: Rafların (tabloların) yerini bilir, istediğiniz kitabı (kaydı) bulur, yenilerini rafa yerleştirir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **SQL bilmek şart mı?**
 

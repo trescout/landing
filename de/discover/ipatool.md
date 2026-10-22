@@ -81,7 +81,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
 
 - **Für wen es gedacht ist:** iOS-Sicherheitsforscher, Mobilentwickler, Experten für Reverse Engineering und IPA-Archivare.
-- **Lizenz:** MIT (Özgür açık kaynak lisansı)
+- **Lizenz:** MIT (Freie Open-Source-Lizenz)
 - **Framework:** Go-basierte plattformübergreifende CLI
 - **Plattformen:** macOS, Linux, Windows
 

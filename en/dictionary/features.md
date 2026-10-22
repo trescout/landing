@@ -63,7 +63,7 @@ One of the most critical risks encountered in software products is called Featur
 - The complexity coefficient (Cyclomatic Complexity) in the code base and the maintenance cost climb logarithmically.
 The greatest tenet of the Unix philosophy is this: "Do one thing and do it well." The most successful digital products are not those with hundreds of mediocre features, but those with a few critical features that work flawlessly.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What does Features mean and what is its Turkish equivalent?**
 

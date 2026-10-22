@@ -22,7 +22,7 @@ It is used in game level designs, modular software production, purposeful interf
 
 While a general crafting engine only performs rule-based combination, an intentional crafting engine understands the user's strategic intent and generates comprehensive solutions accordingly.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the difference from a standard generative AI model?**
 

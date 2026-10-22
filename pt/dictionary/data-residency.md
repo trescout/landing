@@ -22,7 +22,7 @@ As empresas garantem essa conformidade legal localizando seus servidores dentro 
 
 Pode ser confundido com segurança de dados, mas esta situação vai além da segurança e está diretamente relacionada à localização física dos dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é importante?**
 

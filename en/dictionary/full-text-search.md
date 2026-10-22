@@ -44,7 +44,7 @@ It can be confused with a metadata search. Metadata looks at file information (n
 **Book:** The index section at the end.
 **Archive:** Searching for topics in a collection of newspaper clippings.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Won't it run too slowly?**
 

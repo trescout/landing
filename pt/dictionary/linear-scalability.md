@@ -22,7 +22,7 @@ Sistemas de computação em nuvem, bancos de dados e serviços web de alto tráf
 
 Não se trata apenas de ‘ser rápido’, é que o aumento de desempenho é proporcional ao aumento de recursos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que nem todo sistema pode ser dimensionado linearmente?**
 

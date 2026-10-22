@@ -22,7 +22,7 @@ Il est préféré dans les projets logiciels complexes, les grands systèmes d'e
 
 Il s'agit d'un processus planifié et discipliné plutôt que de méthodes flexibles où des changements constants sont apportés au cours du développement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que ça fait perdre de la vitesse ?**
 

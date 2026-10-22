@@ -22,7 +22,7 @@ Os dados são divididos em pequenos pedaços e enviados ao servidor, incorporand
 
 Pode ser confundido com VPN, mas a VPN criptografa todo o tráfego, enquanto o tunelamento DNS usa apenas consultas de endereço.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Este método é seguro?**
 

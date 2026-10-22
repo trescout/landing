@@ -41,7 +41,7 @@ Modern işletim sistemleri programların birbirinin belleğini okumasını engel
 
 *Stack, masanızdaki kâğıt evrak kulesidir; gelen evrakı en üste koyarsınız ve işiniz bitince en üsttekini anında alırsınız, yerleştirme süresi sıfırdır. Heap ise büyük bir depo gibidir; depocuya gidip kutu için boş bir raf istersiniz, depocu uygun yeri arar, anahtarı size verir ve işiniz bittiğinde rafı depocuya teslim etmeyi unutursanız depo kısa sürede kullanılamaz hale gelir.*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Memory management ne demek, Türkçe karşılığı nedir?**
 

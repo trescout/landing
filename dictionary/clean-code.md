@@ -43,7 +43,7 @@ Kural: Çalışan kod ilk adım, okunan kod ikinci adımdır.
 
 *Kütüphane raflarının tür ve yazara göre dizili olması gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Çalışması yetmez mi?**
 

@@ -43,7 +43,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Facile à lire et à appliquer
 - **Format:** Guide complet (sur GitHub)
 - **Frais:** Gratuit
-- **Licence:** Belirtilmemiş · ayrıntı aşağıda
+- **Licence:** Non précisé · détail ci-dessous
 
 **Licence:** ⚠️ Aucune licence précisée. Selon la loi sur le droit d'auteur, cela signifie « tous droits réservés » : la lecture et l'utilisation personnelle sont gratuites, mais la copie et la republication du contenu nécessitent l'autorisation de l'auteur.
 

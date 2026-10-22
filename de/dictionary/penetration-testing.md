@@ -22,7 +22,7 @@ Es wird regelmäßig auf den Websites, Servern und kritischen Software-Infrastru
 
 Es kann mit echten Cyberangriffen verwechselt werden; Dieser Prozess ist jedoch völlig legal und kontrolliert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird dieser Test das System beschädigen?**
 

@@ -53,7 +53,7 @@ git push origin --tags
 - fatal: The current branch has no upstream branch: The remote counterpart of the branch is not defined. Solution: git push -u origin HEAD.
 - remote rejected: pre-receive hook declined: Stuck due to protected branch rule or missing permissions; Pull Request (PR) should be opened instead of direct push.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does Git push mean and what is it used for?**
 

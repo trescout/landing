@@ -80,7 +80,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Systemadministratoren, DevOps-Ingenieure, Netzwerkexperten und Cloud-Architekten.
-- **Lizenz:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **Lizenz:** BSD 3-Clause (Flexible Open-Source-Lizenz)
 - **Framework:** Go & Tailscale Tsnet-Bibliothek
 - **Plattformen:** Linux, macOS, Windows
 

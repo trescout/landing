@@ -24,7 +24,7 @@ Es wird im digitalen Marketing, in der Webentwicklung und im Content Management 
 
 Nicht zu verwechseln mit Werbung (SEM); SEO zielt darauf ab, völlig natürliche (organische) Ergebnisse zu verbessern.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Steigert mein Ranking sofort?**
 

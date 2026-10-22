@@ -22,7 +22,7 @@ It is frequently preferred in blogs, documentation sites and personal portfolios
 
 It is mixed with CMS (Content Management System); CMS uses a database, while this tool only produces files.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do I update my site?**
 

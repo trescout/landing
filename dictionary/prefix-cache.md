@@ -22,7 +22,7 @@ LLM servislerinde, uzun bağlam (context) gerektiren sohbetlerde ve yüksek traf
 
 KV cache ile karıştırılabilir; KV cache modelin içsel durumunu tutarken, prefix cache metin bloklarını tutar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ne kadar hız sağlar?**
 

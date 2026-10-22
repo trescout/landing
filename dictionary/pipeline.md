@@ -22,7 +22,7 @@ Veri işleme süreçlerinde, yazılım dağıtımında ve yapay zekâ model eği
 
 Sadece bir veri tabanı ile karıştırılmamalıdır; pipeline veriyi işleyen bir süreçtir, depolayan bir yer değil.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Pipeline bozulursa ne olur?**
 

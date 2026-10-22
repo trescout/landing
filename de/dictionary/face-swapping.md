@@ -37,7 +37,7 @@ Erkennungshinweise: Der Blinzelrhythmus, die Kantenunschärfe und Lichtinkonsist
 **Stuntman:** Gesichtstausch in gefährlichen Szenen.
 **Fotomontage:** Zusammenfügen von Gesichtern im Bild.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist eine leistungsstarke Hardware erforderlich?**
 

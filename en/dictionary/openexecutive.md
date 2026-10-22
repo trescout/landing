@@ -44,7 +44,7 @@ It is mistaken for a chatbot. The bot responds, this layer is embedded in the pr
 **Autopilot:** The system that maintains the route.
 **Secretariat:** Document flow management.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does it replace the manager?**
 

@@ -22,7 +22,7 @@ Siber güvenlik dünyasında, devletler arası dijital casusluktan bireysel kull
 
 Bilinen yazılım hatalarıyla karıştırılır ancak sıfırıncı gün açığının farkı, geliştiricinin henüz savunma geliştirecek vaktinin olmamasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden sıfırıncı gün deniyor?**
 

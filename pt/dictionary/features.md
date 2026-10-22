@@ -63,7 +63,7 @@ Um dos riscos mais críticos encontrados em produtos de software é chamado de F
 - O coeficiente de complexidade (Complexidade Ciclomática) na base de código e o custo de manutenção aumentam de forma logarítmica.
 - O maior ensinamento da filosofia Unix é: “Faça uma coisa e faça perfeitamente”. Os produtos digitais de maior sucesso não possuem centenas de recursos medíocres; Eles são aqueles que possuem alguns recursos críticos que funcionam perfeitamente.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que significa 'features' e qual é a sua tradução para o português?**
 

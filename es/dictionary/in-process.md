@@ -22,7 +22,7 @@ Con frecuencia se prefiere en aplicaciones de ejecución rápida y operaciones d
 
 Puede confundirse con la arquitectura cliente-servidor, donde el sistema es completamente autónomo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Deberíamos trabajar siempre en proceso?**
 

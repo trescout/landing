@@ -22,7 +22,7 @@ Se utiliza con frecuencia, especialmente en navegadores web donde cada pestaña 
 
 Se confunde a menudo con el concepto de multihilo (multi-threading). Mientras que en el método de multihilo las tareas se realizan mediante hilos ligeros que comparten el mismo espacio de memoria, en el método de múltiples procesos cada tarea tiene su propio espacio de memoria completamente aislado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El uso de múltiples procesos fatiga al ordenador?**
 

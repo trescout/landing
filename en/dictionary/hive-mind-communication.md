@@ -22,7 +22,7 @@ It is used in systems where artificial intelligence agents cooperate, in large-s
 
 Not to be confused with just a simple messaging app or group chat; Here the data is processed automatically.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does this system make everyone the same?**
 

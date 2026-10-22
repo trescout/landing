@@ -46,7 +46,7 @@ Se suele pensar que es una capacidad general del modelo. Sin embargo, aquí nos 
 **Taladro:** Función que cambia según la broca.
 **Teléfono:** Cada aplicación instalada.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Tiene cada modelo una capacidad?**
 

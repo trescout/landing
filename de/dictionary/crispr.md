@@ -20,7 +20,7 @@ Mithilfe eines speziellen Proteins und einer Leit-RNA fokussiert es sich auf ein
 
 Es wird in der medizinischen Forschung, in der Agrartechnologie und bei der Behandlung genetisch bedingter Krankheiten eingesetzt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Welche Beziehung besteht zwischen CRISPR und künstlicher Intelligenz?**
 

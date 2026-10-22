@@ -42,7 +42,7 @@ Sabit değer sanılır. Sabit kodda durur, değişken dışarıdadır. Biri döv
 
 *Cihaza gömülü ayar yerine takılıp değişen kart gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden gizli tutulur?**
 

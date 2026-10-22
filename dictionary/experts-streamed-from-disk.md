@@ -22,7 +22,7 @@ Sistem, modelin ağırlıklarını küçük parçalara böler ve bunları diskte
 
 Modelin tamamının belleğe yüklenmesiyle karıştırılabilir; burada sadece ihtiyaç anında yükleme söz konusudur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu yöntem hızı düşürür mü?**
 

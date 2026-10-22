@@ -22,7 +22,7 @@ Il est utilisé dans les travaux d'archives, les transferts numériques de vieux
 
 Il peut être confondu avec les outils de montage vidéo, mais les éditeurs vidéo effectuent des coupes et des assemblages, tandis que ces outils réparent directement les pixels grâce à l'intelligence artificielle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces outils peuvent-ils coloriser des vidéos en noir et blanc ?**
 

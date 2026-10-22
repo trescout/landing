@@ -22,7 +22,7 @@ Sadece macOS işletim sisteminde çalışır.
 
 Diğer genel amaçlı kod editörlerinden, Apple ekosistemine özel olmasıyla ayrılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Windows bilgisayarda Xcode kullanabilir miyim?**
 

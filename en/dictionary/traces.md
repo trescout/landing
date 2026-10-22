@@ -22,7 +22,7 @@ It is used in complex software architectures and to solve performance problems.
 
 It is mixed with logs; Logs answer the question 'what happened' and traces answer the question 'where and how long did it take'.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are traces important?**
 

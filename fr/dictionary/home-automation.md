@@ -44,7 +44,7 @@ La maison est le refuge le plus intime de l'être humain ; connecter ce refuge �
 - Télécommande vs Automatisation : Allumer l'éclairage en appuyant sur un bouton de son téléphone n'est pas de l'automatisation ; c'est lorsque le système interprète les données des capteurs environnementaux et prend la décision de lui-même qu'il s'agit d'automatisation.
 - Dépendance au cloud vs contrôle local : les appareils basés sur le cloud peuvent devenir inutilisables en cas de coupure d'Internet et finir à la poubelle si l'entreprise fabricante met la clé sous la porte ; les systèmes à contrôle local (Matter/Zigbee/Home Assistant) fonctionnent indéfiniment, indépendamment d'Internet.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie "Home automation" et quel est son équivalent en français ?**
 

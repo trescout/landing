@@ -22,7 +22,7 @@ Se utiliza en proyectos de software centrados en inteligencia artificial y en la
 
 No confundir con los editores de texto estándar que simplemente escriben código; También hay aquí herramientas para monitorear el proceso de "pensamiento" del agente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se necesita un entorno especial?**
 

@@ -24,7 +24,7 @@ Geralmente ocorre porque os softwares não verificam adequadamente os dados prov
 
 Não deve ser confundido apenas com o roubo de dados; esta situação envolve o controle total do sistema, indo além dos dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como posso me proteger disso?**
 

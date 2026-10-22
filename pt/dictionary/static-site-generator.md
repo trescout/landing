@@ -22,7 +22,7 @@ Você escreve seu conteúdo em Markdown ou arquivos semelhantes. A ferramenta co
 
 É misturado com CMS (Sistema de Gerenciamento de Conteúdo); O CMS usa um banco de dados, enquanto esta ferramenta produz apenas arquivos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como faço para atualizar meu site?**
 

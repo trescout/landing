@@ -22,7 +22,7 @@ Web uygulamalarında, oturum yönetimi yapan sistemlerde ve tarayıcı tabanlı 
 
 Sadece tarayıcı geçmişi ile karıştırılmamalıdır; geçmiş sadece ziyaret edilen siteleri tutarken, durum o anki tüm çalışma ortamını kapsar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Tarayıcıyı kapatınca bu durum kaybolur mu?**
 

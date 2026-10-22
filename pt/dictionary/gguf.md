@@ -24,7 +24,7 @@ Ao baixar o modelo, você geralmente recebe um único arquivo com a extensão .g
 
 Pode ser confundido com formatos de arquivo gerais ou apenas com métodos de compressão.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo usar GGUF?**
 

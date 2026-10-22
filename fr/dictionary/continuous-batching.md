@@ -36,7 +36,7 @@ On pense qu'il s'agit de vitesse. Pourtant, il s'agit de rendement : beaucoup de
 **Bus :** Une navette qui ne part pas seulement lorsqu'elle est pleine.
 **Ascenseur :** Ne pas prendre de passager entre les étages.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi est-ce important ?**
 

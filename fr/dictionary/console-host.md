@@ -22,7 +22,7 @@ Il est utilisé dans les processus de développement de logiciels, de gestion de
 
 Peut être confondu avec un terminal ou un shell ; Cependant, Console Host est la couche qui gère la fenêtre et l'interface dans laquelle ces textes sont affichés.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utilisons-nous encore un écran noir ?**
 

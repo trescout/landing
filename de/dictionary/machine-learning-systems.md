@@ -18,7 +18,7 @@ Dem Modell werden große Datensätze übergeben, das Modell findet Muster in die
 
 Es wird in Empfehlungssystemen, Betrugserkennung, Gesundheitsanalysen und autonomen Fahrzeugen eingesetzt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie unterscheidet es sich von künstlicher Intelligenz?**
 

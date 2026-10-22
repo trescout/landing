@@ -22,7 +22,7 @@ Os investidores testam suas estratégias em dados históricos (backtesting) e co
 
 Está misturado com agente comercial; A estratégia é a regra, o agente é o software que implementa esta regra.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A estratégia sempre funciona?**
 

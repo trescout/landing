@@ -42,7 +42,7 @@ Kütüphane sanılır. Kütüphane çağrılır, çatı çağırır. Biri alet, 
 
 *Tuğla satan market yerine plan ve ekip veren şirket gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden kullanılır?**
 

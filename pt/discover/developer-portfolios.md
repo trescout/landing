@@ -40,7 +40,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** É fácil · basta navegar
 - **Formatar:** Coleta de portfólio de amostra
 - **Taxa:** Livre
-- **Licença:** Belirtilmemiş · ayrıntı aşağıda
+- **Licença:** Não especificado · detalhe abaixo
 
 **Licença:** ⚠️ Nenhuma licença é especificada para a listagem. Livre para navegar/se inspirar; Verifique com o proprietário antes de copiar e republicar a listagem. (Os portfólios de amostra pertencem aos seus respectivos proprietários.)
 

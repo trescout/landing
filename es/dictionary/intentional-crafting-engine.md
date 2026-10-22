@@ -22,7 +22,7 @@ Se utiliza en el diseño de niveles de juegos, la producción de software modula
 
 Mientras que un motor de creación general solo realiza combinaciones basadas en reglas, el motor de creación intencional comprende la intención estratégica del usuario y genera soluciones integrales basadas en ella.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿En qué se diferencia de un modelo de inteligencia artificial generativa estándar?**
 

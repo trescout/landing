@@ -40,7 +40,7 @@ Bunun da ötesinde RAG, yapay zekâda şeffaflık ve denetlenebilirlik (explaina
 
 - **Kayıp Ortada (Lost-in-the-Middle) Sorunu:** LLM'ler uzun promptların ortasındaki bilgiyi kaçırabileceğinden en kritik kaynaklar başa veya sona yerleştirilmelidir.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **RAG ile Fine-Tuning (İnce Ayar) arasındaki temel fark nedir?**
 

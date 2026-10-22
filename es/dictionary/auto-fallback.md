@@ -22,7 +22,7 @@ Se utiliza en servicios de inteligencia artificial, conexiones de red y gestión
 
 Es similar al manejo de errores; Sin embargo, el respaldo automático se refiere directamente a una solución alternativa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Esta característica causa lentitud?**
 

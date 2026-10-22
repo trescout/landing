@@ -22,7 +22,7 @@ It is frequently used to automate tasks in server management, backup operations 
 
 It's the same thing as bash script, just a more general term.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do I need to know code?**
 

@@ -22,7 +22,7 @@ Se utiliza en pruebas de experiencia de usuario (UX) y procesos de depuración t
 
 Se confunde con Analytics (estadísticas); análisis '¿cuántas personas hicieron clic?' dice, repetición de sesión '¿cómo hizo clic?' responde la pregunta.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa con la privacidad del usuario?**
 

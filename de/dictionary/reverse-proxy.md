@@ -22,7 +22,7 @@ Es wird in Webservern, Firewalls und Websites mit hohem Datenverkehr verwendet.
 
 Es kann mit einem normalen Proxy verwechselt werden; Ein normaler Proxy verbirgt den Benutzer, ein Reverse-Proxy verbirgt und schützt den Server.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verbinden wir uns nicht direkt mit dem Server?**
 

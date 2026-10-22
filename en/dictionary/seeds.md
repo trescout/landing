@@ -24,7 +24,7 @@ It is used to guarantee reproducibility in image and audio generation with gener
 
 It should not be confused with cryptographic keys. A seed value is not a security password, but merely a starting point that makes the sequence of numbers predictable.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will I definitely get the same image if I enter the same seed value?**
 

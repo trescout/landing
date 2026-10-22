@@ -22,7 +22,7 @@ It is widely used in mobile and desktop application development projects.
 
 It differs in this aspect from native applications trapped on a single device.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it preferred?**
 

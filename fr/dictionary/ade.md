@@ -24,7 +24,7 @@ Il est préféré dans les grands projets logiciels, le travail d’équipe et l
 
 Peut être mélangé avec l'IDE ; Alors que l'IDE se concentre davantage sur l'écriture de code, ADE couvre l'ensemble du processus de développement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-il obligatoire d'utiliser ADE ?**
 

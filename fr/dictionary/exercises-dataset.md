@@ -22,7 +22,7 @@ Vous le rencontrez fréquemment dans les plateformes de codage, les applications
 
 Peut être mélangé avec des ensembles de données brutes ; Cependant, ces ensembles sont uniquement axés sur l’apprentissage.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ai-je besoin d’un ensemble de données personnalisé ?**
 

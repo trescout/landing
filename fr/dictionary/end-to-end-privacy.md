@@ -22,7 +22,7 @@ Il est utilisé dans les applications de messagerie, les services de stockage cl
 
 Il peut être confondu avec un simple cryptage, mais ici les utilisateurs ont le contrôle total de la clé.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le fournisseur de services peut-il voir le débit ?**
 

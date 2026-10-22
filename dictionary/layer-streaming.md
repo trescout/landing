@@ -42,7 +42,7 @@ Hız yanılgısı: Hat hızlanmaz, bekleme gizlenir. Ölçüde ilk anlamlı çiz
 
 *Kitabın tamamını beklemeden basılan sayfayı okumaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Hızı artırır mı?**
 

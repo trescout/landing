@@ -22,7 +22,7 @@ It is used in the analysis of long documents, complex code projects, and long-te
 
 Context Window
 
-## Frequently asked questions
+## Questions and answers
 
 **Why can't we give everything to the model?**
 

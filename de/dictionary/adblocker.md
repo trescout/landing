@@ -22,7 +22,7 @@ Es wird als Add-on in Internetbrowsern wie Chrome, Firefox oder Safari verwendet
 
 Es kann mit einer Firewall verwechselt werden, aber während es den gesamten Internetverkehr kontrolliert, zielt der Adblocker nur auf Werbeinhalte ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Schädigt die Verwendung von Adblockern Websites?**
 

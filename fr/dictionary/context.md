@@ -47,7 +47,7 @@ Un système d'exploitation multitâche partage le cœur du CPU entre différents
 | Systèmes d'exploitation | État instantané matériel d'un processus | Registres, Compteur de programme, Tables de pages | Latence du CPU, Échecs de cache, Actualisations du TLB |
 | Développement logiciel | Cycle de vie de la requête et données d'environnement | Signal de délai d'attente (Timeout), Jeton d'authentification | Fuite de mémoire, Appels asynchrones non annulés |
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie Context et quel est son équivalent en turc ?**
 

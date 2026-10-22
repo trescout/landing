@@ -58,7 +58,7 @@ sudo bash /opt/project-nomad/start_nomad.sh
 - **Dificuldade:** Médio · algum conhecimento técnico para configurar
 - **O que oferece:** Ferramenta offline + informações + pacote de IA
 - **Taxa:** Gratuito · código aberto (Apache-2.0)
-- **Licença:** Apache-2.0 · ayrıntı aşağıda
+- **Licença:** Apache-2.0 · detalhe abaixo
 
 **Licença:** Apache-2.0 · você pode usá-lo livremente, modificá-lo, fazer uso comercial (também inclui proteção de patente).
 

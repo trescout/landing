@@ -22,7 +22,7 @@ Es wird in der Datenaufbereitungsphase eingesetzt, die die Grundlage von RAG-Sys
 
 Es ist nicht nur wichtig, die Daten zu teilen, sondern sie unter Wahrung der sinnvollen Integrität zu teilen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn die Stücke zu klein sind?**
 

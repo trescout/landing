@@ -22,7 +22,7 @@ Se utiliza en mercados de valores, intercambios de criptomonedas e instituciones
 
 Puede confundirse con la inteligencia artificial pero no siempre incluye la inteligencia artificial; A veces se trata simplemente de simples reglas de "si-entonces".
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Siempre genera ganancias?**
 

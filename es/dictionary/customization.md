@@ -37,7 +37,7 @@ Es similar a la personalización (Personalization). La diferencia es la siguient
 **Muebles:** Hacer un armario a medida.
 **Automóvil:** Selección de paquete de equipamiento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede personalizar cada software?**
 

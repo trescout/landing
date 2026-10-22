@@ -22,7 +22,7 @@ Ele recebe dados brutos como entrada, verifica esses dados de acordo com as regr
 
 Pode ser confundido com Análise de Documento; No entanto, analisador é um conceito mais geral e é usado para todos os tipos de estruturas de dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se o analisador apresentar um erro?**
 

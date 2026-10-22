@@ -22,7 +22,7 @@ Es wird in persönlichen Assistenten, Tools zur Verfolgung langfristiger Projekt
 
 Es sollte nicht mit den eigenen Trainingsdaten des Modells verwechselt werden; Diese Funktion deckt Ihren privaten Verlauf mit Ihnen ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Werden diese Informationen mit anderen geteilt?**
 

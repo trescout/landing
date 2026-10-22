@@ -22,7 +22,7 @@ Elle est utilisée dans l'analyse de longs documents, les projets de code comple
 
 Fenêtre contextuelle
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne pouvons-nous pas tout donner au modèle ?**
 

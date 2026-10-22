@@ -38,7 +38,7 @@ TLS sanılır. TLS yolda korur, sunucu görür. Uçtan uca olanda sunucu bile g�
 
 *Kilidi yalnız ikinizde olan kutuyla mektuplaşmaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Çalınırsa okunur mu?**
 

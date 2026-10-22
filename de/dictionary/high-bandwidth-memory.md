@@ -24,7 +24,7 @@ Sie ist häufig in High-End-Grafikprozessoren, die in KI-Servern eingesetzt werd
 
 Sie wird oft mit Standard-Computerspeichern, also RAM, verwechselt, die wir in unseren Häusern verwenden. Standard-Speicher haben eine horizontale Anordnung und ihre Datenübertragungsgeschwindigkeiten sind im Vergleich zu dieser speziellen vertikalen Technologie viel geringer.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist diese Speichertechnologie in normalen Computern nicht verbreitet?**
 

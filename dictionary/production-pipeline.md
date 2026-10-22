@@ -48,7 +48,7 @@ Bir organizasyonun production pipeline olgunluğu, Google'ın DORA (DevOps Resea
 
 **Hizmet Geri Yükleme Süresi (MTTR):** Canlıda bir aksaklık çıktığında sistemin yeniden ayağa kalkma hızı.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Production pipeline ne demek ve temel amacı nedir?**
 

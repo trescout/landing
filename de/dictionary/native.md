@@ -22,7 +22,7 @@ Wir finden sie in App-Stores auf Smartphones, in Software auf Betriebssystemeben
 
 Webbasierte Anwendungen oder hybride Anwendungen nutzen eine Zwischenschicht, wie etwa einen Browser, um mit dem Gerät zu kommunizieren.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist eine native Anwendung immer besser?**
 

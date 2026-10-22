@@ -22,7 +22,7 @@ Il est utilisé dans les casques de réalité augmentée pour scanner instantan�
 
 Dans la méthode traditionnelle de « reconstruction de scène », toutes les photos sont prises à l'avance et traitées par lots ; dans le modèle en flux (streaming), le modèle tridimensionnel est construit en temps réel à mesure que les données affluent.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utilise-t-on la méthode du flux continu (streaming) au lieu du traitement par lots ?**
 

@@ -47,7 +47,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Apto para principiantes
 - **Que ofertas:** Dominio gratis + uso con tu propio proveedor DNS
 - **Tarifa:** El servicio es gratuito
-- **Licencia:** AGPL-3.0 · ayrıntı aşağıda
+- **Licencia:** AGPL-3.0 · detalle a continuación
 
 **Licencia:** AGPL-3.0 · Usar el servicio (obtener un dominio gratis) es gratuito. Sin embargo, si toma el CÓDIGO de la plataforma y lo aloja o modifica usted mismo, también debe abrir el código fuente de su propia versión (incluso si lo pone a disposición a través de la red) según la AGPL.
 

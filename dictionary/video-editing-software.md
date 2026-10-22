@@ -22,7 +22,7 @@ Film yapımında, sosyal medya içerik üretiminde ve reklam ajanslarında sıkl
 
 Sadece videoyu oynatan medya oynatıcılarından farklıdır; içeriği değiştirmeye ve üretmeye yarar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ bu yazılımları nasıl etkiledi?**
 

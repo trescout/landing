@@ -24,7 +24,7 @@ Tiene validez en todas las plataformas digitales que procesan datos de ciudadano
 
 Se confunde simplemente con un 'aviso de cookies', pero se trata de una ley de seguridad de datos mucho más completa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo me protege?**
 

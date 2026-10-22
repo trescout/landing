@@ -22,7 +22,7 @@ Se utiliza con frecuencia en entornos aislados (sandboxes) de ejecución de cód
 
 Se confunde con el entorno de ejecución local (local runtime). Mientras que el entorno local utiliza directamente el hardware de su computadora, el entorno remoto ejecuta todos los procesos en un servidor externo en la nube.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se requiere una conexión a Internet constante para usar un remote runtime?**
 

@@ -22,7 +22,7 @@ Haber sitelerinde, bloglarda ve sosyal medya akışlarında sıklıkla karşıla
 
 Pop-up reklamlardan farklıdır çünkü aniden açılmazlar, sayfanın belirli bir yerinde sürekli dururlar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Persistent ads kullanıcı deneyimini nasıl etkiler?**
 

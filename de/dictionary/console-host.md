@@ -22,7 +22,7 @@ Es wird in Softwareentwicklungsprozessen, Systemverwaltungs- und Debugging-Proze
 
 Kann mit Terminal oder Shell verwechselt werden; Allerdings ist Console Host die Ebene, die das Fenster und die Schnittstelle verwaltet, in denen diese Texte angezeigt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir immer noch einen schwarzen Bildschirm?**
 

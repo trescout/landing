@@ -44,7 +44,7 @@ Nota sobre bloqueio: Ficar preso a serviços específicos da plataforma dificult
 **Apartamento:** Aluguel mobiliado.
 **Cenário:** Cenário pronto com iluminação.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **PaaS é obrigatório?**
 

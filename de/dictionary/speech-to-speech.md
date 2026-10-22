@@ -36,7 +36,7 @@ Die grundlegenden工程schritte (Engineering-Schritte) hinter Speech-to-Speech-S
 - Emotional Interactive Assistants: Helfer, die nicht nur Befehle entgegennehmen, sondern die Traurigkeit, Hektik oder Freude in der Stimme des Nutzers verstehen und darauf mit einem entsprechend einfühlsamen oder energischen Ton antworten.
 - Synchronisation und Medienproduktion: Die automatische Anpassung von Schauspielerstimmen und Lippensynchronisation an andere Sprachen, ohne dass Originalemotionen und -tonfall verloren gehen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Speech-to-Speech und wie funktioniert es?**
 
@@ -56,7 +56,7 @@ Realistische Stimmklonungstechnologie birgt das Risiko von Identitätsdiebstahl 
 
 ## Verwandte Begriffe
 
-- [STT](https://trescout.com/de/dictionary/stt/)
+- [STT](https://trescout.com/de/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/de/dictionary/speech-to-text/)
 - [Voice Cloning](https://trescout.com/de/dictionary/voice-cloning/)
 - [Whisper](https://trescout.com/de/dictionary/whisper/)

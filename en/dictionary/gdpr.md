@@ -24,7 +24,7 @@ It is valid on all digital platforms that process the data of European Union cit
 
 It is confused with just a 'cookie notice', but this is a much more comprehensive data security law.
 
-## Frequently asked questions
+## Questions and answers
 
 **How does it protect me?**
 

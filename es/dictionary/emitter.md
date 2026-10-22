@@ -40,7 +40,7 @@ La etapa final y más crucial de un compilador o transpilador es la capa del Emi
 
 El emisor recorre el Árbol de Sintaxis Abstracta (AST) optimizado o la Representación Intermedia (IR) de principio a fin (generalmente con el patrón Visitor). Traduce cada nodo a instrucciones que la plataforma de destino pueda entender: esta salida puede ser lenguaje máquina puro (ensamblador x86/ARM), código de bytes de máquina virtual (JVM, V8 Bytecode) u otro lenguaje de alto nivel (como la compilación de TypeScript a JavaScript).
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa Emitter y cuál es su equivalente en turco?**
 

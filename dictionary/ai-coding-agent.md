@@ -22,7 +22,7 @@ VS Code gibi kod editörlerinde, terminal ortamlarında ve yazılım geliştirme
 
 Agentic Coding Tool ile neredeyse aynıdır; bu terim daha çok aracın kendisine odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yazılımcıların yerini mi alacak?**
 

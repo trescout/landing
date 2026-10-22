@@ -22,7 +22,7 @@ Ele é usado para fornecer resultados mais precisos em mecanismos de busca e par
 
 Não é uma tabela ou lista comum do Excel porque o relacionamento entre os dados é importante aqui, e não os dados em si.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é a diferença entre gráfico de conhecimento e RAG?**
 

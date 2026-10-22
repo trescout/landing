@@ -22,7 +22,7 @@ Es wird in modernen Softwareentwicklungs-Frameworks und Rapid-Production-Tools v
 
 Es kann mit flexiblen Tools verwechselt werden, aber obwohl flexible Tools alles verändern können, erfordern diese Tools eine gewisse Disziplin.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind sie so restriktiv?**
 

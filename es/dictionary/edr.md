@@ -24,7 +24,7 @@ Se utiliza como capa de seguridad en redes corporativas, servidores y computador
 
 Puede confundirse con el software antivirus tradicional; el EDR tiene una capacidad de monitoreo y respuesta mucho más profunda.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El EDR bloquea todos los ataques?**
 

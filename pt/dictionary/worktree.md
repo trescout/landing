@@ -22,7 +22,7 @@ Você adiciona um novo worktree através de sistemas de controle de versão como
 
 Não é o mesmo que apenas copiar pastas; os worktrees estão vinculados ao mesmo repositório Git e funcionam de forma sincronizada entre si.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não copiamos pastas separadas?**
 

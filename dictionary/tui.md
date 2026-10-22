@@ -46,7 +46,7 @@ Son yıllarda web teknolojilerinin (Electron tabanlı şişkin uygulamalar) deva
 - **CLI vs TUI:** CLI tek satırlık soru-cevap modelidir (`git status`, `ls -la`). TUI ise terminal penceresini kaplayan, sekmeleri, listeleri ve klavye kısayolları olan iki boyutlu görsel bir paneldir (`lazygit`, `k9s`).
 - **TUI Sadece İlkel Metinden İbaret Değildir:** Modern terminaller Nerd Fonts (ikonlar), 24-bit TrueColor desteği, UTF-8 kutu çizim karakterleri ve hatta Kitty Graphics / Sixel protokolleriyle terminal içinde gerçek görsel çizimini destekler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **TUI ne anlama gelir ve açılımı nedir?**
 

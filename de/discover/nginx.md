@@ -2,16 +2,16 @@
 
 Das Open-Source-Repository NGINX wird in C als leistungsstarker Webserver und Reverse-Proxy weiterentwickelt. Die Software bietet eine Standardlösung in großen Infrastrukturen zur Verwaltung des Netzwerkverkehrs und zur Optimierung der Inhaltsverteilung.
 
-- ★ 31.893
+- ★ 31.928
 - C
 - GitHub Trending · 2026-06-07
 
 ## Aktualisierungen
 
+- **22. Oktober 2026:** Sterne 31,893 → 31,928, neueste Version release-1.31.8 (21. Oktober 2026).
 - **15. Oktober 2026:** Sterne 31,652 → 31,893, neueste Version release-1.31.7 (14. Oktober 2026).
 - **16. September 2026:** Sterne 31,565 → 31,652, neueste Version release-1.31.6 (15. September 2026).
 - **3. September 2026:** Sterne 31,451 → 31,565, neueste Version release-1.31.5 (2. September 2026).
-- **19. August 2026:** Sterne 31,312 → 31,451, neueste Version release-1.31.4 (19. August 2026).
 
 ## Was es bringt
 

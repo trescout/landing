@@ -44,7 +44,7 @@ Depolama sanılır. RAM geçici çalışma alanıdır, disk kalıcı kütüphane
 
 *Bilgisayarın masası gibidir; masa genişledikçe aynı anda açık dosya sayısı artar.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **RAM dolarsa ne olur?**
 

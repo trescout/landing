@@ -22,7 +22,7 @@ It is used in corporate databases, large file servers and professional backup sy
 
 It should not be confused with full backup; a full backup copies everything every time.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it difficult when restoring?**
 

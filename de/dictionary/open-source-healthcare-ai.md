@@ -22,7 +22,7 @@ Es wird in Krankenhäusern, medizinischen Forschungszentren und Anwendungen zur 
 
 Es mag mit kommerzieller Gesundheitssoftware verwechselt werden, aber das Innere dieser Modelle ist für jeden sichtbar.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Werden diese Modelle Ärzte ersetzen?**
 

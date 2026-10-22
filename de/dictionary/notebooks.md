@@ -22,7 +22,7 @@ Es wird in der Datenanalyse, beim Modelltraining für künstliche Intelligenz un
 
 Der Unterschied zu Standard-Code-Editoren besteht darin, dass Sie den Code Stück für Stück ausführen und das Ergebnis sofort sehen können.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können Leute, die nicht wissen, wie man programmiert, es verwenden?**
 

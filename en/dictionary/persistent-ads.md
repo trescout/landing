@@ -22,7 +22,7 @@ You frequently encounter them on news sites, blogs, and social media feeds.
 
 They are different from pop-up ads because they do not open suddenly; they continuously stay in a specific spot on the page.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do persistent ads affect user experience?**
 

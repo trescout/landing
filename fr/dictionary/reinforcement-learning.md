@@ -22,7 +22,7 @@ Elle est utilisée dans les intelligences artificielles jouant à des jeux, dans
 
 Elle peut être confondue avec l'apprentissage supervisé ; dans ce dernier, la bonne réponse est fournie, alors qu'ici, seul le résultat est récompensé.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi cela prend-il autant de temps ?**
 

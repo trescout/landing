@@ -46,7 +46,7 @@ Es kann mit Shared Hosting verwechselt werden. Beim Shared Hosting teilen Sie Re
 **Büroetage:** Gemeinsamer Empfang, privater Arbeitsbereich.
 **Safe:** Ihr eigenes Privatabteil im Bankgebäude.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Sind für die Verwaltung von VPS technische Kenntnisse erforderlich?**
 

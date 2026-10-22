@@ -22,7 +22,7 @@ Se utiliza en análisis de redes sociales, sistemas de detección de fraude y gr
 
 No confundir con las bases de datos relacionales clásicas (SQL); porque aquí la relación no es parte del cuadro, sino la base de la estructura.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería elegir esta estructura?**
 

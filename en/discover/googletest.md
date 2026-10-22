@@ -84,7 +84,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** C++ software engineers, embedded systems developers, and system architects.
-- **License:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **License:** BSD 3-Clause (Flexible open-source license)
 - **Framework:** C++ Test and Mock Library
 - **Platforms:** Linux, macOS, Windows, Android, iOS
 

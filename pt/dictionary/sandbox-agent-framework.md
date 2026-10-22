@@ -22,7 +22,7 @@ O desenvolvedor coloca o agente nesta área restrita. Aqui o agente escreve cód
 
 É a mesma lógica do Sandbox, mas é especificamente especializado para agentes.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Existe alguma chance de o agente sair?**
 

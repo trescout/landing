@@ -22,7 +22,7 @@ Sie werden häufig in der Systemprogrammierung, in Spiel-Engines und in eingebet
 
 Sie werden oft mit Zwischencode-Dateien verwechselt, die auf einer virtuellen Maschine ausgeführt werden. Während Zwischencode-Dateien einen Vermittler benötigen, um auf jedem Computer zu laufen, funktionieren native Binärdateien nur direkt auf dem spezifischen System, für das sie erstellt wurden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Funktionieren native Binärdateien auf jedem Computer?**
 

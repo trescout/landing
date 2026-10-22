@@ -54,7 +54,7 @@ Com a disseminação de sistemas probabilísticos (não determinísticos) como o
 
 **Geração de Testes Impulsionada por Inteligência Artificial:** Detecção automática de cenários de teste e diferenças de regressão de interface visual com modelos de inteligência artificial.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa QA e qual é a sua sigla?**
 

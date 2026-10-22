@@ -24,7 +24,7 @@ Il apparaît dans les panneaux de facturation cloud ou dans les outils de survei
 
 À ne pas confondre avec le simple « nombre d'utilisateurs », il s'agit davantage de la consommation de « énergie de la machine ».
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi CCUsage est-il important ?**
 

@@ -22,7 +22,7 @@ Il apparaît fréquemment sur les plateformes de médias sociaux, sur les sites 
 
 Tout ce qui est produit par l’IA n’est pas de la merde ; seuls ceux qui sont bâclés et sans valeur sont appelés ainsi.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment savoir si un élément de contenu est orienté vers l'IA ?**
 

@@ -56,7 +56,7 @@ Die herausragenden Werkzeuge im Web-Ökosystem, die auf unterschiedliche Bedürf
 | esbuild | gehen | Bundled | esbuild | Unglaubliche rohe Build-Geschwindigkeit (10-100x schneller als Node.js-Tools) |
 | Turbopack / Rspack | Rost | Bundled / Hybrid | Rust-Engine | Kompatibel mit dem Webpack-Ökosystem, Leistung für riesige Projekte |
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist ein Bundler und warum ist er in der modernen Webentwicklung unverzichtbar?**
 

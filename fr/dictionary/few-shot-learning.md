@@ -22,7 +22,7 @@ Il est particulièrement utilisé dans les modèles de langage, où l'utilisateu
 
 Mélangé avec un réglage fin ; Alors que le réglage fin modifie la structure du modèle, la méthode en quelques coups ajoute simplement des exemples à la commande actuelle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Combien d’exemples suffisent ?**
 

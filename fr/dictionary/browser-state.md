@@ -22,7 +22,7 @@ Vous le rencontrez fréquemment dans les applications Web, les systèmes de gest
 
 À ne pas confondre uniquement avec l’historique du navigateur ; Alors que l’histoire ne contient que les sites visités, l’État couvre pour l’instant tout l’environnement de travail.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que cela disparaît lorsque je ferme le navigateur ?**
 

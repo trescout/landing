@@ -22,7 +22,7 @@ Il est utilisé sur les sites de partage de fichiers, lors du téléchargement d
 
 Il peut être confondu avec les simples gestionnaires de téléchargement des navigateurs, mais ces outils offrent des fonctionnalités beaucoup plus avancées.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que cela accélère chaque fichier ?**
 

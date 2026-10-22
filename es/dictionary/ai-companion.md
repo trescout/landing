@@ -22,7 +22,7 @@ Puede encontrarlo en teléfonos inteligentes, en aplicaciones de chat especiales
 
 Se diferencia de los asistentes de inteligencia artificial que trabajan únicamente orientados a tareas por su capacidad para establecer vínculos emocionales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿AI Companion realmente me entiende?**
 

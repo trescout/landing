@@ -22,7 +22,7 @@ Es spielt eine entscheidende Rolle in Cloud-Servern, persönlichen Heimservern u
 
 Es kann mit der Serveradministration verwechselt werden, es handelt sich hierbei jedoch um einen Spezialbereich, der sich ausschließlich auf die Sicherheit konzentriert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum führen wir speziell für Linux-Server eine separate Sicherheitsstudie durch?**
 

@@ -18,7 +18,7 @@ Sistem önceden belirlenen tarifleri ve envanter verilerini tarar. Kullanıcı m
 
 Genellikle hayatta kalma oyunlarında, rol yapma oyunlarında ve bazı üretim simülasyonlarında kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Crafting Engine sadece oyunlarda mı olur?**
 

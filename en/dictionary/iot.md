@@ -24,7 +24,7 @@ It is used in smart home systems, monitoring industrial production lines (IIoT),
 
 Home automation is just a home-scale application area of IoT technology, whereas IoT is the general umbrella covering all device networks from factories to medicine.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the biggest risk for IoT devices?**
 

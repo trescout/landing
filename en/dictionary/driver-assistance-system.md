@@ -24,7 +24,7 @@ It is found in modern automobiles and vehicles developing autonomous driving tec
 
 It may be confused with autonomous vehicles, but these systems focus on supporting driver control.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can these systems take the vehicle without me driving it entirely?**
 

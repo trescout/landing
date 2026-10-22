@@ -22,7 +22,7 @@ Es un paso imprescindible antes de ejecutar el programa en lenguajes como C++, R
 
 La diferencia con los lenguajes interpretados es que el código se transforma completamente antes de la ejecución, no en tiempo de ejecución.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario compilar todos los idiomas?**
 

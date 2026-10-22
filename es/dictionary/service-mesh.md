@@ -42,7 +42,7 @@ Istio y Linkerd son implementaciones conocidas. En un sistema pequeño, el costo
 **Tráfico:** La red de señales que regula el flujo.
 **Correo:** El centro de distribución que separa el envío.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario para cada proyecto?**
 

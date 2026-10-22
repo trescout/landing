@@ -22,7 +22,7 @@ Es wird bei komplexen Softwareprojekten, großen Unternehmenssystemen und kritis
 
 Dabei handelt es sich eher um einen geplanten und disziplinierten Prozess als um flexible Methoden, bei denen während der Entwicklung ständig Änderungen vorgenommen werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verlieren Sie dadurch an Geschwindigkeit?**
 

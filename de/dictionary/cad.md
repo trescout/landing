@@ -20,7 +20,7 @@ Das Programm speichert Linien, Winkel und Oberflächen als mathematische Koordin
 
 Es wird häufig bei Bauprojekten zum Zeichnen von Gebäudeplänen, in Automobilfabriken zum Entwerfen von Motorteilen oder bei der Modellierung des Gehäuses eines Telefons verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Funktioniert CAD nur dreidimensional?**
 

@@ -22,7 +22,7 @@ Den meisten modernen Anwendungen der künstlichen Intelligenz liegt ein Grundlag
 
 Sie werden fälschlicherweise nur für einen Chatbot gehalten; Dennoch sind sie die Grundlage für viele Dinge, vom Schreiben von Code bis zur Bildverarbeitung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Reicht das Foundation-Modell allein aus?**
 

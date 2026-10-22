@@ -40,7 +40,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Es fácil · solo navega
 - **Formato:** Colección de portafolios de muestra
 - **Tarifa:** gratis
-- **Licencia:** Belirtilmemiş · ayrıntı aşağıda
+- **Licencia:** No especificado · detalle a continuación
 
 **Licencia:** ⚠️ No se especifica ninguna licencia para el listado. Gratis para navegar/inspirarse; Consulte con el propietario antes de copiar y volver a publicar el anuncio. (Las carteras de muestra pertenecen a sus respectivos propietarios).
 

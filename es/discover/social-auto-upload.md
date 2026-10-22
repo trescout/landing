@@ -53,7 +53,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Medio · configuración + vinculación de cuenta
 - **Que ofertas:** Carga automática de videos a múltiples plataformas.
 - **Tarifa:** Código abierto (ver nota de licencia)
-- **Licencia:** Belirtilmemiş · ayrıntı aşağıda
+- **Licencia:** No especificado · detalle a continuación
 
 **Licencia:** ⚠️ No se especifica ninguna licencia en el repositorio; El valor predeterminado es "todos los derechos reservados". Puedes buscarlo para probarlo, pero su reutilización requiere permiso expreso del autor.
 

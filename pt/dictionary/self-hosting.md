@@ -22,7 +22,7 @@ Ele é usado para configurar seu próprio armazenamento em nuvem, executar seus 
 
 É confundido com computação em nuvem, mas enquanto você usa o servidor de outra pessoa na nuvem, aqui você tem controle total do hardware e software.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que a auto-hospedagem é preferida?**
 

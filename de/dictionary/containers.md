@@ -22,7 +22,7 @@ Es wird im Cloud Computing, bei der Bereitstellung von Webanwendungen und in Mic
 
 Es ist viel leichter als virtuelle Maschinen und startet schneller.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind Container so beliebt?**
 

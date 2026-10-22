@@ -22,7 +22,7 @@ São amplamente utilizados em chatbots de atendimento ao cliente, setores regula
 
 Podem ser confunde com a Aprendizagem por Reforço com Feedback Humano (RLHF) realizada durante o treinamento básico do modelo. Enquanto o treinamento básico define o caráter interno do modelo, os guardrails são um invólucro de segurança independente conectado externamente ao modelo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O sistema de guardrails desacelera significativamente os tempos de resposta?**
 

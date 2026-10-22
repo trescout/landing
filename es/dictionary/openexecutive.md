@@ -44,7 +44,7 @@ Se confunde con un chatbot. El bot responde, esta capa está incrustada en el pr
 **Piloto automático:** Un sistema que mantiene el rumbo.
 **Secretaría:** Orden de flujo de documentos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Reemplaza al gerente?**
 

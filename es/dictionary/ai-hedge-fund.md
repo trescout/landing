@@ -22,7 +22,7 @@ Se utiliza en mercados financieros, transacciones bursátiles y empresas de gest
 
 La diferencia con el comercio algorítmico es que la inteligencia artificial no sólo sigue reglas, sino que puede desarrollar su propia estrategia aprendiendo de los datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿No hay necesidad de gente?**
 

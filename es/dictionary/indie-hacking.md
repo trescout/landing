@@ -39,7 +39,7 @@ Se confunde con un proyecto de afición. En una afición no hay objetivo de ingr
 **Músico callejero:** Repertorio y economía de propinas.
 **Panadería artesanal:** Poca variedad, clientes fieles.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es obligatorio saber programar muy bien?**
 

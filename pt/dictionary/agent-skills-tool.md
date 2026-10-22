@@ -22,7 +22,7 @@ Utilizado em processos de desenvolvimento de agentes inteligentes e aplicações
 
 É um assistente específico focado diretamente em fornecer capacidades, diferentemente de estruturas gerais de agentes.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Para que serve?**
 

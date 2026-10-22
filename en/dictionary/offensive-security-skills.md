@@ -22,7 +22,7 @@ It is used in cybersecurity companies, security teams of large technology firms,
 
 Unlike defensive security, here you actively try to trigger vulnerabilities.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is this skill legal?**
 

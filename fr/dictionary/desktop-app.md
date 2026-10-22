@@ -22,7 +22,7 @@ Utilisé dans le montage vidéo, l'exécution native de modèles d'IA et les out
 
 Il peut être confondu avec l'interface Web ; les applications Web dépendent du navigateur tandis que les applications de bureau sont indépendantes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’application de bureau est-elle plus sécurisée ?**
 

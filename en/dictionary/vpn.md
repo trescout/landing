@@ -24,7 +24,7 @@ It is used in public WiFi networks, for work that requires confidentiality or to
 
 It may be confused with a proxy, but a VPN encrypts all device traffic, whereas a proxy usually only routes certain applications.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will VPN slow down my speed?**
 

@@ -45,7 +45,7 @@ Es wird angenommen, dass es sich um eine Sprachaufnahme handelt. Der Datensatz i
 **Radio:** Automatischer Newsletter-Voiceover.
 **Spiel:** Dynamische Dialoggenerierung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum klingen Stimmen manchmal roboterhaft?**
 

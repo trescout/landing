@@ -22,7 +22,7 @@ Es wird in der Dokumentenautomatisierung, RAG-Systemen und Dateneingabeprozessen
 
 Nicht zu verwechseln mit Tools, die einfach Text kopieren; Der Parser versucht, die Struktur der Daten (Tabelle, Header usw.) beizubehalten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind alle PDF-Parser gleich?**
 

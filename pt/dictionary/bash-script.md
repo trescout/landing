@@ -18,7 +18,7 @@ Você abre um arquivo de texto e escreve os comandos que deseja executar, um aba
 
 É frequentemente usado em gerenciamento de servidores, operações de backup ou processos de instalação de software.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo usar script em vez de escrevê-lo à mão?**
 

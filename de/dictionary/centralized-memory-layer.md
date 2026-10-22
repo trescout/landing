@@ -22,7 +22,7 @@ Es wird in Multiagentensystemen und Unternehmensinfrastrukturen für künstliche
 
 Es kann mit einer Datenbank verwechselt werden, aber die Struktur umfasst hier nicht nur Daten, sondern auch Erfahrungen und Kontext.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte es zentral sein?**
 

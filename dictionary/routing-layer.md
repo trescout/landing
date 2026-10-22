@@ -22,7 +22,7 @@ API geçitlerinde, mikroservis mimarilerinde ve yapay zekâ model yönlendiricil
 
 Doğrudan veri depolayan bir veri tabanı değildir; sadece trafiği yöneten bir trafik polisidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yönlendirme katmanı ne işe yarar?**
 

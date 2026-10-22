@@ -39,7 +39,7 @@ Kural: Değişiklik yereldir, yenileyince gider. Kalıcı iş dosyada yapılır.
 
 *Duvar arkası boruları gösteren gözlük gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Sadece Chrome mu?**
 

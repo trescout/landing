@@ -71,7 +71,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Einfach (fertige Site) · Fortgeschritten (Selbsthoster)
 - **Was bietet:** Echtzeitpreis + Alarm + Analyse
 - **Gebühr:** Kostenlos
-- **Lizenz:** AGPL-3.0 · ayrıntı aşağıda
+- **Lizenz:** AGPL-3.0 · Details unten
 
 **Lizenz:** AGPL-3.0 · Kostenlose, fertige Website. Wenn Sie das Projekt jedoch ändern, weiterverbreiten oder als Webdienst veröffentlichen, müssen Sie Ihren eigenen Quellcode öffnen, wie die Entwickler klarstellen.
 

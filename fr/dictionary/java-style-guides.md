@@ -22,7 +22,7 @@ Ils sont utilisés dans les projets logiciels d'entreprise, les projets open sou
 
 Il ne faut pas les confondre avec la fonctionnalité du code ; ces guides régissent l'apparence du code, et non son fonctionnement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je suivre ces règles ?**
 

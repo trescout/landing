@@ -24,7 +24,7 @@ Aparece en aplicaciones de su teléfono inteligente, en sitios web o en las pant
 
 A menudo se confunde con el backend del software, pero la interfaz es sólo la parte que ves.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son UI y UX lo mismo?**
 

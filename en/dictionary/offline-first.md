@@ -22,7 +22,7 @@ It is frequently used in note-taking applications used while traveling on the su
 
 It is often confused with simply having an offline mode: While offline mode only aims to prevent errors when there is no internet, the offline-first approach completely builds the application's main operating principle on local data.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if changes made while offline conflict with other users' data when the internet connection is restored?**
 

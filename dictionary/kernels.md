@@ -22,7 +22,7 @@ Windows, Linux, macOS gibi tüm işletim sistemlerinin merkezinde bulunur.
 
 İşletim sisteminin tamamı ile karıştırılmamalıdır; kernel sadece en temel yönetim katmanıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kernel çökerse ne olur?**
 

@@ -22,7 +22,7 @@ Você cola seu texto na ferramenta relevante ou o usa como um complemento do nav
 
 Pode ser confundido com redatores baseados em IA; No entanto, essas ferramentas se concentram na melhoria do conteúdo existente, em vez de na produção de conteúdo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O verificador gramatical sempre fornece resultados precisos?**
 

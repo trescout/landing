@@ -22,7 +22,7 @@ Está envolvida em assistentes personalizados de inteligência artificial, proje
 
 É diferente da janela de contexto, que é a memória instantânea do modelo; As informações aqui são armazenadas permanentemente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os dados na camada de memória permanecem privados?**
 

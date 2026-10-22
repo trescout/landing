@@ -24,7 +24,7 @@ Se utiliza en campañas de marketing, páginas de inicio de sitios de comercio e
 
 A menudo se confunde con las pruebas A/B, que comparan dos versiones diferentes de un solo elemento, pero MVT prueba varios elementos simultáneamente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué se necesita para hacer MVT?**
 

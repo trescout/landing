@@ -22,7 +22,7 @@ It is preferred in robotic motion planning, protein structure prediction in mole
 
 While the classic transformer architecture treats data as a one-dimensional sequence or flat grid, the geometric context transformer directly incorporates multi-dimensional spatial coordinates into the attention calculation.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do classic transformer models fall short?**
 

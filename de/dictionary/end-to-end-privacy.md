@@ -22,7 +22,7 @@ Es wird in Messaging-Anwendungen, Cloud-Speicherdiensten und sicheren Dateiüber
 
 Es kann mit reiner Verschlüsselung verwechselt werden, allerdings haben die Benutzer hier die vollständige Kontrolle über den Schlüssel.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann der Dienstanbieter den Durchsatz sehen?**
 

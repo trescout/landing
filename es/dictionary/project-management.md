@@ -40,7 +40,7 @@ La parte de "porque" en la oración recuerda por qué se hace el trabajo y sirve
 **Orquesta:** El programa que organiza los ensayos según el día del concierto.
 **Obra de construcción:** El plan de campo que organiza el orden de las grúas y el hormigón.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué los desarrolladores de software utilizan esto?**
 

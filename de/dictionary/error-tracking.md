@@ -22,7 +22,7 @@ Es wird aktiv in mobilen Anwendungen, in denen die Benutzererfahrung kritisch is
 
 Es unterscheidet sich von dem Konzept des Loggings, das alle Systemereignisse chronologisch speichert: Die Fehlerverfolgung konzentriert sich direkt auf Ausnahmen und analysiert und gruppiert diese Probleme automatisch.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Zeichnen Fehlerverfolgungswerkzeuge vertrauliche Daten von Benutzern auf?**
 

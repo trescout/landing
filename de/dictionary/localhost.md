@@ -42,7 +42,7 @@ Man hält es für eine Website. Dabei ist Localhost nur für Ihren eigenen Compu
 **Musik:** Soundcheck vor der Aufnahme.
 **Küche:** Vorkosten vor dem Servieren.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir localhost?**
 

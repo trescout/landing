@@ -22,7 +22,7 @@ Kredi başvurularının onaylanmasında, borsa alım-satım stratejilerinde, loj
 
 Salt tahmin modellerinden farklıdır; tahmin modelleri 'yarın ne olacağını' söylerken, karar modelleri 'bu tahmine göre ne yapılması gerektiğini' belirler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Karar modelleri her zaman yapay zekâ kullanır mı?**
 

@@ -27,8 +27,6 @@ Ouvrez votre projet Unity et accédez à la fenêtre Package Manager. Cliquez su
 
 ## Termes liés du glossaire
 
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/fr/dictionary/context/)
 - [Large Language Models](https://trescout.com/fr/dictionary/large-language-models/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)

@@ -22,7 +22,7 @@ Ele executa modelos leves localmente usando o motor de processamento neural no p
 
 Pode ser confundido com chatbots tradicionais baseados em nuvem; no entanto, este sistema está profundamente integrado ao sistema operacional do dispositivo e seu foco principal é a privacidade local dos dados pessoais.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O Apple Intelligence funciona sem internet?**
 

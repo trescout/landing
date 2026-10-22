@@ -22,7 +22,7 @@ Se utiliza en agencias de noticias, producción de contenidos para redes sociale
 
 No confundir con herramientas simples de edición de video; Estos sistemas también toman decisiones creativas por sí mismos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se elimina por completo la intervención humana?**
 

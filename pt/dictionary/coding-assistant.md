@@ -22,7 +22,7 @@ Geralmente é instalado como um plugin no editor de código que você está usan
 
 Pode ser confundido com o ‘Agente IA’ que faz todo o projeto de forma totalmente autônoma; O assistente geralmente atua sob sua direção.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele escreve todo o código?**
 

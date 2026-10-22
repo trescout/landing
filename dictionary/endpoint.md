@@ -41,7 +41,7 @@ Sunucu sanılır. Sunucu merkezdir, uç nokta kullanıcıdadır. API ucuyla da k
 
 *Kargo ağında paketin vardığı ev adresi gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden güvenlik önemli?**
 

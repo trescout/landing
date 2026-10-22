@@ -22,7 +22,7 @@ It is found in artificial intelligence tools such as ChatGPT, cloud-based manage
 
 The software itself and its interface are not the same thing; The interface is just a gate.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does every software have a web interface?**
 

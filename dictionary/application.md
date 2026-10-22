@@ -45,7 +45,7 @@ Dağıtım mağazadan veya webden olur. İzinler ilk açılışta istenir, gizli
 
 *İşletim sistemini evin temeli ve duvarları sayarsanız, uygulamalar içindeki mobilya ve eşyalardır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Uygulama ile yazılım aynı mı?**
 

@@ -22,7 +22,7 @@ Se utiliza en vehículos autónomos, robots inteligentes en almacenes logístico
 
 A diferencia de las inteligencias virtuales que funcionan únicamente en un entorno de software, definitivamente requieren de un cuerpo físico o hardware.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede dañar a las personas?**
 

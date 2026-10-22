@@ -22,7 +22,7 @@ Os modelos de inteligência artificial examinam constantemente os dados de merca
 
 A diferença da negociação algorítmica é que a inteligência artificial não apenas segue regras, mas pode desenvolver a sua própria estratégia aprendendo com os dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Não há necessidade de pessoas?**
 

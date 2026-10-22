@@ -38,7 +38,7 @@ Quiz ile karıştırılabilir. Quiz bir sınavdır ve puan verir. Flashcard ise 
 
 *Sınava çalışırken elinize aldığınız küçük not kağıtlarının dijital ve akıllı sürümü gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ kartları nasıl üretiyor?**
 

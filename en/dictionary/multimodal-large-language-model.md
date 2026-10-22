@@ -22,7 +22,7 @@ It is used in applications that analyze images, voice assistants, and profession
 
 It can be confused with standard AI models that are text-only.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is every multimodal model an artificial intelligence?**
 

@@ -22,7 +22,7 @@ Film dublajlarında, oyun karakterlerinde ve sesini kaybetmiş kişilerin tekrar
 
 Ses değiştirme (voice changer) ile karıştırılır; ses değiştirme sadece tonu oynatırken, klonlama kişinin konuşma karakterini tamamen kopyalar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu teknoloji güvenli mi?**
 

@@ -22,7 +22,7 @@ Se utiliza con frecuencia en el desarrollo de software, análisis de datos compl
 
 Es diferente de un modelo único de IA; Lo importante aquí es la interacción de los agentes entre sí.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo se llevan los agentes?**
 

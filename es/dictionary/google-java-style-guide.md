@@ -32,7 +32,7 @@ Intentar dar formato manualmente: En lugar de contar los espacios uno por uno, s
 Desactivar las reglas de Checkstyle: Deshabilitar los controles de estilo en CI/CD cuando el proceso se vuelve lento aumenta la deuda técnica.
 Abusar de los comentarios: El código debe ser autodescriptivo; no se deben escribir comentarios innecesarios en métodos getter/setter evidentes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué la Guía de estilo de Google Java utiliza sangría de 2 espacios en lugar de sangría de 4 espacios?**
 

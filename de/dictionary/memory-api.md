@@ -22,7 +22,7 @@ Es wird von Softwareentwicklern verwendet, die Anwendungen für künstliche Inte
 
 Es wird mit Datenbankoperationen verwechselt, dabei handelt es sich jedoch um Speicherverwaltung speziell in einem Format, das von Modellen der künstlichen Intelligenz verstanden wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann jeder die Memory API nutzen?**
 

@@ -22,7 +22,7 @@ O modelo concentra-se no objetivo, identifica as etapas ausentes, seleciona as f
 
 Confunde-se com automação simples, visto que este método envolve dinâmica e capacidade de tomada de decisão.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se ele cometer um erro?**
 

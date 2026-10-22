@@ -83,7 +83,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [API](https://trescout.com/de/dictionary/api/)
 
 - **Für wen es gedacht ist:** Pädagogen, KI-Forscher, Edtech-Unternehmer und Studenten.
-- **Lizenz:** Apache-2.0 (Açık kaynak lisansı)
+- **Lizenz:** Apache-2.0 (Open-Source-Lizenz)
 - **Framework:** TypeScript und Next.js Multi-Agent-Simulator
 - **Plattformen:** Webbrowser, Linux, macOS, Windows
 

@@ -22,7 +22,7 @@ A entrada (prompt) é fornecida ao modelo, o modelo processa essa entrada com se
 
 Não deve ser confundido com o treinamento (training) do modelo; o treinamento é o processo de aprendizado do modelo, enquanto a inferência é o processo de aplicação.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O modelo continua aprendendo durante a inferência?**
 

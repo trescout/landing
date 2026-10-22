@@ -42,7 +42,7 @@ It is considered a database. The database is persistent and large, the cache is 
 **Freezer:** Daily meal ahead.
 **Cellar:** Bulk stock is in the back.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What happens if the cache becomes full?**
 

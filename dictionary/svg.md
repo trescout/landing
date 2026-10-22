@@ -24,7 +24,7 @@ Web sitelerinde, mobil uygulamalarda ve baskı tasarımlarında kullanılır.
 
 JPEG veya PNG gibi piksel tabanlı görsel formatlarıyla karıştırılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **SVG neden her boyutta net kalır?**
 

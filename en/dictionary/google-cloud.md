@@ -45,7 +45,7 @@ It is mistaken for Drive. Drive stores files, Cloud runs applications. One is a 
 **Power plant:** Production for rent.
 **Warehouse:** Warehouse for rent.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why not my own computer?**
 

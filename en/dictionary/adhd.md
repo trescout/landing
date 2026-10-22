@@ -24,7 +24,7 @@ It frequently appears in educational technologies, workplace productivity tools,
 
 It should not be confused with just laziness or lack of motivation; This is a biologically based situation.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is ADHD a disease?**
 

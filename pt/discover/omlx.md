@@ -95,7 +95,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [RAM](https://trescout.com/pt/dictionary/ram/)
 
 - **Para quem é:** É destinado a desenvolvedores de inteligência artificial que desejam executar grandes modelos de linguagem (LLM) em computadores Mac com processador Apple Silicon com a máxima velocidade e privacidade local.
-- **Licença:** Apache-2.0 (Açık kaynak lisansı)
+- **Licença:** Apache-2.0 (licença de código aberto)
 - **Framework:** Motor de inferência local baseado em Apple MLX e Python
 - **Hardware:** Série Apple Silicon M1, M2, M3, M4 (com suporte a Pro, Max, Ultra)
 

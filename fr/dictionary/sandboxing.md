@@ -22,7 +22,7 @@ Il est utilisé pour exécuter des scripts tiers dans les navigateurs Web, dans 
 
 Alors que le terme sandbox désigne l'espace isolé lui-même, le sandboxing fait référence au processus de création, de gestion et de limitation de cet environnement sécurisé.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le sandboxing réduit-il de manière significative les performances du système ?**
 

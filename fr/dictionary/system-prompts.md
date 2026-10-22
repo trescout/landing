@@ -22,7 +22,7 @@ Il est utilisé en arrière-plan des chatbots tels que ChatGPT, dans les fichier
 
 Peut être confondu avec les invites utilisateur ; L'invite utilisateur est votre question actuelle, tandis que l'invite système est le caractère général du modèle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'utilisateur peut-il voir l'invite du système ?**
 

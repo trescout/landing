@@ -24,7 +24,7 @@ Métodos criptográficos são usados ​​durante o processo de assinatura. Qua
 
 Simplesmente colar seu nome como um arquivo de imagem em um documento não é uma assinatura eletrônica; Deve haver um processo de verificação legal por trás disso.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como é diferente de uma assinatura física?**
 

@@ -22,7 +22,7 @@ ChatGPT ile sohbet ettiğiniz veya bir yapay zekâya görsel çizdirdiğiniz her
 
 Modelin eğitimi ile karıştırılır; eğitim modelin okul yıllarıdır, inference ise mezun olup çalışmaya başlamasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Inference süreci ne kadar sürer?**
 

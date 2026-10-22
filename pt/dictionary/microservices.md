@@ -22,7 +22,7 @@ Cada parte pode ser atualizada ou reparada por conta própria. Se uma parte falh
 
 Não se trata apenas da fragmentação do código, mas do método pelo qual essas partes se comunicam entre si.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é tão complicado?**
 

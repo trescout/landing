@@ -18,7 +18,7 @@ Das Modell wird mit speziellen Algorithmen trainiert, die entscheiden, welche Sc
 
 Es wird in komplexen Sprachmodellen, Roboter-Sensorsystemen und energiesparenden Edge-Geräten verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind sie schlauer?**
 

@@ -22,7 +22,7 @@ Você apenas informa ao sistema o objetivo final. O agente divide esse alvo em p
 
 Pode ser confundido com um agente comum de IA; entretanto, os agentes autônomos têm a capacidade de tomar decisões por conta própria, sem esperar pela aprovação humana.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se os agentes autônomos cometerem erros?**
 

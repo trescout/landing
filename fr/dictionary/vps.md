@@ -46,7 +46,7 @@ Il peut être confondu avec l'hébergement mutualisé. Dans l'hébergement mutua
 **Étage de bureau :** Réception commune, espace de travail privatif.
 **Coffre-fort :** Votre propre compartiment privé dans le bâtiment de la banque.
 
-## Foire aux questions
+## Questions et réponses
 
 **Des connaissances techniques sont-elles nécessaires pour gérer un VPS ?**
 

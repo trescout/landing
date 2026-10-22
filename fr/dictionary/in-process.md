@@ -22,7 +22,7 @@ Il est fréquemment préféré dans les applications à exécution rapide et les
 
 Elle peut être confondue avec l'architecture client-serveur, où le système est complètement autonome.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Faut-il toujours travailler en continu ?**
 

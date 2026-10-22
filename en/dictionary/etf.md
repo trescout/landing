@@ -24,7 +24,7 @@ It is used in stock markets and investment platforms.
 
 They may be confused with mutual funds, but ETFs can be bought and sold on the stock exchange at spot prices during the day.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I buy an ETF instead of a single stock?**
 

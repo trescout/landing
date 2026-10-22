@@ -24,7 +24,7 @@ On le trouve dans les smartphones, les systèmes d'exploitation informatiques et
 
 Contrastes avec CLI (Command Line Interface); En CLI, seul le texte est écrit, tandis qu’en GUI, la visualisation est au premier plan.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tous les logiciels ont-ils une interface graphique ?**
 

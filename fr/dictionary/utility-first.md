@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans la conception Web moderne et notamment dans le
 
 Il peut être confondu avec le framework CSS ; utility-first est une méthode, tandis que le framework CSS est l'outil qui implémente cette méthode.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le code ne semble-t-il pas trop chargé ?**
 

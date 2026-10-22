@@ -22,7 +22,7 @@ Ele aparece frequentemente em plataformas de mídia social, sites de notícias d
 
 Nem tudo o que é produzido pela IA é lixo; apenas os desleixados e inúteis são chamados assim.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como posso saber se um conteúdo é compatível com IA?**
 

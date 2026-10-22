@@ -24,7 +24,7 @@ Nessas plataformas, que geralmente são acessadas via instalação local ou na n
 
 Pode ser misturado com IDE; Enquanto o IDE está mais focado em escrever código, o ADE cobre todo o processo de desenvolvimento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É obrigatório o uso do ADE?**
 

@@ -22,7 +22,7 @@ O texto é processado por meio de regras gramaticais e fonemas. Então, essas un
 
 É confundido apenas com narração; No entanto, este processo é um cálculo matemático complexo que também calcula o significado e a ênfase do texto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é a diferença entre síntese de fala e conversão de texto em fala?**
 

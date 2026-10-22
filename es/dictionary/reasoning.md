@@ -22,7 +22,7 @@ Se utiliza para depurar errores de software complejos, resolver problemas matem�
 
 A menudo se confunde con la simple coincidencia de patrones o la recuperación de información de memoria. Mientras que la comparación de patrones sólo encuentra similitudes en datos históricos, el razonamiento produce nuevas soluciones dentro del marco de reglas lógicas en situaciones nuevas y complejas que nunca antes se habían encontrado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿La inteligencia artificial realmente piensa como los humanos?**
 

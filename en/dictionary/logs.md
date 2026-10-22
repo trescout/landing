@@ -43,7 +43,7 @@ Often mistaken for trace. A log is a record of an event, trace is the path of th
 **Journal:** Chronological notes.
 **Receipt:** Transaction log.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why are logs necessary?**
 

@@ -46,7 +46,7 @@ A legalidade do desenvolvimento de emuladores foi estabelecida em todo o mundo p
 - Casos Sony v. Connectix (2000) e Sony v. Bleem!: Os tribunais decidiram que é legal realizar engenharia reversa dos princípios de funcionamento de um hardware através do método de sala limpa (clean-room reverse engineering) para desenvolver software, e que tal prática se enquadra no conceito de uso aceitável (fair use).
 - Aviso de Direitos Autorais: O software de emulação em si é legal. No entanto, copiar sem autorização ou baixar da internet arquivos de BIOS proprietários protegidos por direitos autorais ou ROMs de jogos/softwares licenciados constitui violação de direitos autorais.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa emulador e qual é a sua tradução em turco?**
 

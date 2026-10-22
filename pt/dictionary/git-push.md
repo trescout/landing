@@ -53,7 +53,7 @@ git push origin --tags
 - fatal: The current branch has no upstream branch: O ramo atual não tem um ramo upstream. Solução: git push -u origin HEAD.
 - remote rejected: pre-receive hook declined: Bloqueado por regra de branch protegida ou falta de permissão; em vez de push direto, deve ser aberto um Pull Request (PR).
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa Git push e para que serve?**
 

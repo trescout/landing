@@ -22,7 +22,7 @@ Otonom yazılım geliştirme araçlarında, kişisel asistanlarda ve karmaşık 
 
 Sıradan yapay zekâ modelleriyle karıştırılabilir; sıradan modeller sadece soruyu yanıtlar, agentic modeller ise işi bitirir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu tehlikeli olabilir mi?**
 

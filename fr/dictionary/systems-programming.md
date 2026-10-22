@@ -22,7 +22,7 @@ Il est utilisé dans les noyaux des systèmes d'exploitation, le développement 
 
 Il ne faut pas la confondre avec la programmation d'applications : alors que la programmation d'applications produit des logiciels orientés utilisateur, la programmation système établit l'infrastructure sur laquelle ces logiciels fonctionnent.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quels langages sont les plus utilisés dans la programmation système ?**
 

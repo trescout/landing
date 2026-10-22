@@ -22,7 +22,7 @@ Um software especial chamado compilador verifica seu código-fonte, verifica se 
 
 A diferença das linguagens interpretadas é que o código é completamente transformado antes da execução, e não em tempo de execução.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todas as linguagens precisam ser compiladas?**
 

@@ -22,7 +22,7 @@ It is used in video conferencing applications, live broadcast subtitles and voic
 
 Unlike traditional transcription, where audio is recorded and then transcribed into text, speed and instant feedback are essential here.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will there be a delay?**
 

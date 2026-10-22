@@ -22,7 +22,7 @@ Il est utilisé presque partout, depuis les informations utilisateur sur les sit
 
 On la confond parfois avec le simple stockage de fichiers, mais une base de données non seulement stocke des informations, elle les gère également.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi la base de données est-elle importante ?**
 

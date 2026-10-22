@@ -24,7 +24,7 @@ Es wird bei Cybersicherheitsprüfungen und Prozessen zur Erstellung von Passwort
 
 Kann mit Wortlisten verwechselt werden; Dieses Tool ist eine Analyse-Engine, die diese Listen verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann ich mein eigenes Passwort testen?**
 

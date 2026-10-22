@@ -45,7 +45,7 @@ GitHub ve GitLab bu blokları doğrudan çizer, eklenti gerekmez. Canlı önizle
 
 *Bir mimarın çizim yapmak yerine binanın özelliklerini yazarak şemayı anında elde etmesi gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Mermaid ile hangi grafikler çizilir?**
 

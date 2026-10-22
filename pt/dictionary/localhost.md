@@ -42,7 +42,7 @@ Pensa-se que é um site da internet. No entanto, o localhost é exclusivo apenas
 **Música:** Passagem de som antes da gravação.
 **Culinária:** Degustação antes de servir.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que usamos localhost?**
 

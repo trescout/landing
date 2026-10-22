@@ -45,7 +45,7 @@ Pensa-se que é transferência de arquivos. Ele apenas copia, o ADB interfere no
 **Intérprete:** A linguagem de ambas as partes.
 **Controle:** Gerenciamento remoto.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Todos podem usar?**
 

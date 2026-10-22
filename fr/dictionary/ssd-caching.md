@@ -22,7 +22,7 @@ Il est utilisé dans les serveurs, les ordinateurs hautes performances et les ap
 
 Cela peut être confondu avec le simple ajout de stockage, mais il s’agit d’une stratégie d’accélération.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que cela réduit la durée de vie du SSD ?**
 

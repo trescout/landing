@@ -22,7 +22,7 @@ Transformer modellerinde, LLM'lerde ve çeviri araçlarında kullanılır.
 
 İnsan dikkatiyle karıştırılmamalıdır; bu tamamen matematiksel bir ağırlıklandırma işlemidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kadar önemli?**
 

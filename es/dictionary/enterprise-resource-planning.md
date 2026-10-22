@@ -24,7 +24,7 @@ Se utiliza en empresas corporativas, instalaciones de producción y empresas a g
 
 Sólo puede confundirse con el software de contabilidad; Pero el ERP cubre toda la empresa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es difícil cambiar a un sistema ERP?**
 

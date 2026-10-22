@@ -22,7 +22,7 @@ Se utiliza para el procesamiento automático de facturas, análisis de contratos
 
 Se confunde con simplemente copiar texto, pero el análisis transfiere los datos preservando su estructura (tabla o encabezado).
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede leer todos los documentos?**
 

@@ -22,7 +22,7 @@ It is used in the automation of corporate workflows, software development proces
 
 It may be confused with a regular AI Agent, but the SuperAgent has a much broader scope of authority and coordination.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can SuperAgent make decisions on its own?**
 

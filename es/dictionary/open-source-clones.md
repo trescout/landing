@@ -22,7 +22,7 @@ Se utiliza en el mundo del software cuando se desarrollan herramientas alternati
 
 Puede confundirse con el término simplemente "Clonar", pero este término cubre específicamente aquellos que son de código abierto y están impulsados ​​por la comunidad.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son legales las copias de código abierto?**
 

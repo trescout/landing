@@ -56,7 +56,7 @@ section .data
 - Assembly .NET : Lorsque le code C# est compilé, un package d'assemblage logique est créé sous la forme d'un fichier .dll ou .exe contenant des octets CIL/MSIL et des métadonnées.
 - WebAssembly (WASM) : un format de bytecode pour machine virtuelle à pile, portable, permettant aux codes C, C++ et Rust de s'exécuter dans le navigateur avec des performances proches de la vitesse native.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie l'assembleur et à quoi sert-il ?**
 

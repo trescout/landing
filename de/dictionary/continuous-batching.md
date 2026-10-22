@@ -36,7 +36,7 @@ Es wird oft für Geschwindigkeit gehalten. Dabei geht es um Effizienz: Mit derse
 **Bus:** Ein Pendelbus, der nicht erst bei voller Besatzung losfährt.
 **Aufzug:** Keinen Fahrgast auf halbem Weg mitnehmen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist es wichtig?**
 

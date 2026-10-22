@@ -22,7 +22,7 @@ It is used in technical reports when a new foundation model is released, on Hugg
 
 It should not be confused with general hardware benchmarks. While classic tests measure processor and memory speed, artificial intelligence benchmarking tests measure the model's comprehension and logical reasoning quality.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can models memorize test questions?**
 

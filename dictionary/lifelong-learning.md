@@ -22,7 +22,7 @@ Kişisel asistanlarda, sürekli güncellenen haber analiz sistemlerinde ve robot
 
 Continual learning ile neredeyse aynıdır, ancak lifelong learning daha çok uzun vadeli ve geniş kapsamlı bir gelişim sürecini ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her yapay zekâ bunu yapmıyor?**
 

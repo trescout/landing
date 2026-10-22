@@ -56,7 +56,7 @@ A partir de la versión 2.23 de Git, las confusas tareas múltiples del comando 
 | Mayor riesgo | Abandono del carrito, cargos duplicados | Pérdida de cambios no guardados en el directorio de trabajo |
 | Enfoque moderno | Apple/Google Pay, Headless Checkout | Uso de git switch y git restore |
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es el significado general de la palabra checkout?**
 

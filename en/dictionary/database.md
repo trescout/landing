@@ -22,7 +22,7 @@ It is used almost everywhere, from user information on websites to the contacts 
 
 It is sometimes confused with just file storage, but a database not only stores information, it also manages it.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is the database important?**
 

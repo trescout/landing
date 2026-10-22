@@ -22,7 +22,7 @@ They are used in areas that require creativity, such as artistic visual producti
 
 They are often confused with models that merely classify what exists; whereas these are focused on creating something new.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do productive models always tell the truth?**
 

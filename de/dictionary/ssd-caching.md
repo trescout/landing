@@ -22,7 +22,7 @@ Es kommt in Servern, Hochleistungsrechnern und NAS-Geräten zum Einsatz.
 
 Man könnte es mit dem bloßen Hinzufügen von Speicher verwechseln, aber es handelt sich hierbei um eine Beschleunigungsstrategie.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verkürzt es die Lebensdauer der SSD?**
 

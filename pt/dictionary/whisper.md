@@ -42,7 +42,7 @@ Confunde-se com a transcrição geral. O Whisper é um modelo, a transcrição �
 **Intérprete:** Transmissão de idioma para idioma.
 **Datilógrafo:** Escrever o que é dito.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Posso usar na minha própria aplicação?**
 

@@ -22,7 +22,7 @@ Se utiliza en aplicaciones de producción de inteligencia artificial y sistemas 
 
 Se confunde con seguimiento; el monitoreo es simplemente '¿está funcionando?' la observabilidad pregunta '¿por qué funciona así?' se centra en la pregunta.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario esto?**
 

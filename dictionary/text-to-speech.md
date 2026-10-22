@@ -45,7 +45,7 @@ Ses kaydı sanılır. Kayıt önceden okunmuş sabittir, TTS ise her metni anlı
 
 *Bir kitabın sayfalarını çeviren birinin, metni karşısındaymışsınız gibi size sesli okuması gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Sesler neden bazen robotik geliyor?**
 

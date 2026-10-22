@@ -51,7 +51,7 @@ swm datasets
 - **Pour qui:** Chercheurs ML/RL
 - **Difficulté:** Orienté vers la recherche avancée
 - **Quelles offres:** Plateforme de recherche de modèles mondiaux reproductibles
-- **Licence:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Licence:** Norme non détectée · détail ci-dessous
 - **Frais:** source ouverte
 
 **Licence:** GitHub n'a pas détecté de licence standard. Vérifiez la LICENCE sur le dépôt avant de réutiliser.

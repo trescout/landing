@@ -22,7 +22,7 @@ Sürekli entegrasyon ve otomatik test süreçlerinde arka planda yoğun olarak k
 
 Doğrudan canlı sunucuya kurulan kalıcı uygulamalarla karıştırılmamalıdır; bunlar genellikle geçici ve görev bazlı ortamlardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden hazır imaj kullanırız?**
 

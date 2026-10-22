@@ -24,7 +24,7 @@ Sie werden auf Kryptowährungsmärkten, in Projekten des dezentralen Finanzwesen
 
 Sie können mit zentralen Börsen (CEX) verwechselt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss ich jemandem vertrauen, wenn ich DEXs nutze?**
 

@@ -22,7 +22,7 @@ It is used in cloud computing, web application deployment, and microservice arch
 
 It is much lighter than virtual machines and starts faster.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are containers so popular?**
 

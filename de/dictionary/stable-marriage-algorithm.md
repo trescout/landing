@@ -18,7 +18,7 @@ Es beginnt damit, dass jeder in den Gruppen die Kandidaten der anderen Gruppe na
 
 Es wird bei Organspende-Vermittlungen, der Verteilung von Universitätsplätzen und in Rekrutierungsprozessen eingesetzt, um Kandidaten und Positionen optimal zusammenzubringen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Liefert es für jeden ein perfektes Ergebnis?**
 

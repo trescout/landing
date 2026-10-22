@@ -42,7 +42,7 @@ It interferes with general transcription. Whisper is a model, transcription is w
 **Interpreter:** Transmission from language to language.
 **Typewriter:** Do not transcribe what is said.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can I use it in my own application?**
 

@@ -22,7 +22,7 @@ Existem resultados deste processo em todo o lado, desde as aplicações móveis 
 
 É frequentemente confundido com a simples escrita de código, ou seja, coding. Escrever código é apenas uma parte deste processo; outras fases críticas, como a análise, a conceção e os testes, são também partes integrantes deste processo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É possível desenvolver software sem saber programar?**
 

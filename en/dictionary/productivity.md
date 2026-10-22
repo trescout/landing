@@ -36,7 +36,7 @@ In the software world, productivity cannot be measured by number of lines (LOC);
 **Jevons Paradox:** According to this principle discovered by economist William Jevons, when using a resource becomes more efficient and cheaper, its consumption does not decrease, on the contrary, total demand increases exponentially. When AI makes coding 10x faster, there won't be fewer developers; More software begins to be produced than ever before in history.
 **Toxic Productivity:** It is a modern work disease that considers appearing busy all the time as productivity and turns rest into a feeling of guilt. True productivity lies in a balance of mental recovery and deep focus.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does Productivity mean, what is its Turkish equivalent?**
 

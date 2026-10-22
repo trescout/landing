@@ -22,7 +22,7 @@ It is used in smart agent development processes and modular artificial intellige
 
 Unlike general agent architectures, it is a specific helper focused directly on imparting skills.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does it do?**
 

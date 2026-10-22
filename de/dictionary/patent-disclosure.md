@@ -31,7 +31,7 @@ Demgegenüber herrscht in der Softwarewelt ein historisches Spannungsverhältnis
 - Unzureichende technische Beschreibung: Wenn die Arbeitsschritte des Systems unvollständig bleiben, wird das Patent vor Gericht ungültig.
 - Falsche Erfinderaussage: Das Hinzufügen von Managern, die keinen Einfluss haben, oder das Entfernen des Hauptingenieurs beeinträchtigt die Legitimität des Patents.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Wann sollte eine Patentmeldung (Patent Disclosure) erfolgen?**
 

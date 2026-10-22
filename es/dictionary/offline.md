@@ -34,7 +34,7 @@ Simplificar la Resolución de Conflictos: Aplicar ciegamente la lógica de que e
 - Olvidar el cifrado local: El almacenamiento de datos en el dispositivo cliente conlleva un riesgo físico; las bases de datos locales deben cifrarse obligatoriamente de extremo a extremo (cifrado en reposo).
 Ignorar los límites del hardware: especialmente al ejecutar modelos de inteligencia artificial locales, cargar un modelo sin optimizar sin tener en cuenta el presupuesto de RAM, VRAM y batería puede bloquear el dispositivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la principal diferencia entre la arquitectura fuera de línea y la arquitectura tradicional cliente-servidor?**
 

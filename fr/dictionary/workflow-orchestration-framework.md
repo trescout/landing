@@ -43,7 +43,7 @@ On pense qu'il s'agit d'une liste de tâches. Une liste est passive, le framewor
 **Trafic aérien :** Ordre des décollages.
 **Chemin de fer:** Horaire des trains.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi est-ce nécessaire ?**
 

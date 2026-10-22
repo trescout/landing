@@ -44,7 +44,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Very easy · just read
 - **Format:** Categorized list (on GitHub)
 - **Fee:** Free (both list and apps)
-- **License:** Belirsiz (NOASSERTION) · ayrıntı aşağıda
+- **License:** Uncertain (NOASSERTION) · detail below
 
 **License:** ⚠️ No standard license defined (GitHub says 'NOASSERTION'). The list is free to read and use; but check with the owner before copying and republishing content on your own · reuse rights are unclear.
 

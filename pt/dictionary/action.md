@@ -22,7 +22,7 @@ A inteligência artificial estabelece um objetivo utilizando as ferramentas à s
 
 Não deve ser confundido com o mero processo de pensamento ou planeamento; ação é uma ação real que deixa uma marca no sistema.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A ação sempre dá certo?**
 

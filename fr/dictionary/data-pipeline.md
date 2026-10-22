@@ -22,7 +22,7 @@ Il est utilisé pour préparer de grandes quantités de données pour entraîner
 
 Il est confondu avec la base de données, mais le pipeline est le processus de déplacement et de modification des données, tandis que la base de données n'est qu'un espace de stockage.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce si important ?**
 

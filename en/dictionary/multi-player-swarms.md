@@ -22,7 +22,7 @@ It is used in complex data analysis, autonomous software development, and large-
 
 It should not be confused with just one big artificial intelligence model, there is teamwork here.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we use a swarm rather than a single powerful model?**
 

@@ -43,7 +43,7 @@ Les modèles de chat d'IA générative ne sont généralement pas déterministes
 **Imprimerie :** Obtenir la même impression à partir du même moule.
 **Laboratoire :** Répéter la même mesure avec le même protocole.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi est-ce important ?**
 

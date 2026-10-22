@@ -47,7 +47,7 @@ Die Wahl eines falschen Technologie-Stacks kann ein Startup in ein monatelanges 
 - Tech Stack vs. nur Framework: Der Ausdruck „Unser Stack ist React“ ist unvollständig; React ist lediglich eine Frontend-Bibliothek. Der Tech-Stack umfasst die gesamte Kette von Server bis Datenbank, vom Betriebssystem bis zum CDN.
 - Beliebtheit ist nicht gleich Qualität: Jedes neue Tool, das auf Hacker News oder in sozialen Medien im Trend liegt, ist nicht zwangsläufig das richtige Werkzeug für Ihr Projekt. Unnötige, komplexe Mikroservice- oder Kubernetes-Setups sind in der Frühphase eine Falle von Over-Engineering.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Tech-Stack, wie lautet die deutsche Entsprechung?**
 

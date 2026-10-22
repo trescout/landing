@@ -22,7 +22,7 @@ Es wird in Sprachen wie Rust, TypeScript, Java und in großen Softwareprojekten 
 
 Es handelt sich nicht nur um eine „Fehlermeldung“. Dies ist das grundlegende Funktionsprinzip der Programmiersprache selbst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum nutzt es nicht jeder?**
 

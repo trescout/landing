@@ -41,7 +41,7 @@ Il est considéré comme un VPN. Le VPN tunnelise l'ensemble de l'appareil, tand
 **Réception:** L'officier qui accueille le visiteur.
 **Interprète:** Le médium qui transmet le mot.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce sécuritaire?**
 

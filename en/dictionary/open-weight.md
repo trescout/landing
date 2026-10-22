@@ -43,7 +43,7 @@ It is thought to be Open Source AI. That covers code and process transparency, t
 **Textbook:** A source that everyone reads.
 **Seed:** Shared heirloom seed.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is the Open Source difference?**
 

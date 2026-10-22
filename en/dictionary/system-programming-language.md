@@ -44,7 +44,7 @@ They are considered web languages. They deal with the interface, these with the 
 **Basis:** The carrier of the building.
 **Skeleton:** Roof of the body.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Which ones enter?**
 

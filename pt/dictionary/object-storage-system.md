@@ -22,7 +22,7 @@ Quando o dado é carregado no sistema, ele se torna um objeto e algumas descriç
 
 Pode ser confundido com sistemas de arquivos de discos rígidos comuns; no entanto, este sistema foi projetado para dados muito maiores.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não usa pastas?**
 

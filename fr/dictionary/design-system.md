@@ -22,7 +22,7 @@ Il est utilisé dans les sites Web, les applications mobiles et les projets logi
 
 Il peut être confondu avec le « Style Guide », qui n'est qu'un guide visuel ; Le système de conception en est une version beaucoup plus large et plus fonctionnelle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi avons-nous besoin d’un système de conception ?**
 

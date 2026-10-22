@@ -42,7 +42,7 @@ Esta ferramenta remove as proteções de segurança do modelo. A responsabilidad
 - **Dificuldade:** Conhecimento avançado de trabalho com pesos de modelo
 - **O que faz:** Remova as restrições de segurança do modelo
 - **Taxa:** Gratuito · código aberto (AGPL-3.0)
-- **Licença:** AGPL-3.0 · ayrıntı aşağıda
+- **Licença:** AGPL-3.0 · detalhe abaixo
 
 **Licença:** AGPL-3.0 · uso gratuito; Porém, se você alterar o código e distribuí-lo ou oferecê-lo como serviço, você também deverá abrir seu próprio código-fonte (copyleft).
 

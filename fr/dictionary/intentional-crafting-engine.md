@@ -22,7 +22,7 @@ Il est utilisé dans la conception de niveaux de jeux, la production de logiciel
 
 Alors qu'un moteur de fabrication général effectue uniquement des assemblages basés sur des règles, l'intentional crafting engine comprend l'intention stratégique de l'utilisateur et génère des solutions complètes en conséquence.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la différence avec un modèle d'intelligence artificielle générative standard ?**
 

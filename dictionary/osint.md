@@ -44,7 +44,7 @@ Hackerlık sanılır. O sızar, bu okur. Biri kapı kırar, diğeri kütüphaned
 
 *Kütüphanedeki kitaplarla olayın perdesini aralamaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yasal mı?**
 

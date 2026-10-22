@@ -37,7 +37,7 @@ Es similar al deepfake. El deepfake también genera audio y guiones, mientras qu
 **Doble de acción:** Intercambio de rostros en escenas peligrosas.
 **Fotomontaje:** Combinación de rostros en el encuadre.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se requiere hardware de alto rendimiento?**
 

@@ -33,7 +33,7 @@ Ne pas anticiper la consommation disque : si l'on oublie que les journaux ne fon
 Négliger les performances de lecture : scanner des millions de lignes de journaux du début à la fin (replay) pour calculer l'état final paralyse les temps de lecture ; des instantanés (snapshots) réguliers de l'état doivent être effectués.
 Ignorer le droit à l'oubli du RGPD : lorsque les lois sur la protection des données personnelles exigent un droit à l'effacement, la suppression de données dans des journaux immuables complexifie l'architecture ; ce problème doit être résolu par la méthode du crypto-effacement (crypto-shredding), où les données sont rendues inintelligibles par la suppression de leur clé de chiffrement.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi l'architecture de journal « append-only » est-elle plus rapide que le modèle de mise à jour sur place (update-in-place) ?**
 

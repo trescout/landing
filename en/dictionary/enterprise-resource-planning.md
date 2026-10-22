@@ -24,7 +24,7 @@ It is used in corporate companies, production facilities and large-scale busines
 
 It can only be confused with accounting software; But ERP covers the entire company.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it difficult to switch to an ERP system?**
 

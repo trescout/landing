@@ -22,7 +22,7 @@ Es wird bei der Verwaltung von Servern oder in Softwareentwicklungsprozessen ver
 
 Es sollte nicht mit „Shell“ verwechselt werden, das lediglich Befehle enthält. Dieses Tool bietet eine visuelle Bearbeitungsoberfläche.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es schwer zu lernen?**
 

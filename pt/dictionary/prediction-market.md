@@ -22,7 +22,7 @@ Os participantes compram ações dependendo da ocorrência de um determinado eve
 
 Pode ser confundido com o mercado de ações, mas enquanto o mercado de ações se concentra no valor da empresa, o mercado de previsão concentra-se diretamente na probabilidade de ocorrência de eventos futuros específicos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que os mercados de previsão são melhores do que as pesquisas tradicionais?**
 

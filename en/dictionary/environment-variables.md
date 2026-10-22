@@ -42,7 +42,7 @@ It is considered a constant value. It stops at hard code, the variable is outsid
 **Remote battery:** Plug and play power.
 **Key chain:** Ported access.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it kept secret?**
 

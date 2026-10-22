@@ -22,7 +22,7 @@ It is used in stock market forecasts, energy consumption analysis and supply cha
 
 It should not be confused with just simple statistical forecasting tools; These models are based on deep learning.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can it predict any type of data?**
 

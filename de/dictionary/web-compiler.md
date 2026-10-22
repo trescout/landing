@@ -22,7 +22,7 @@ Es wird bevorzugt auf Code-Lernplattformen, beim Rapid Prototyping oder wenn die
 
 Kann mit nativen Compilern gemischt werden; Der Web-Compiler nutzt das Internet, während die lokalen Compiler die Leistung Ihres Computers nutzen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss ich eine Codedatei auf meinem Computer behalten?**
 

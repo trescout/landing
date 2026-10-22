@@ -22,7 +22,7 @@ Il est utilisé dans des tâches qui nécessitent une saisie de données complex
 
 Il est très proche du concept d'agent AI, mais l'utilisation de l'ordinateur est un ensemble spécifique de fonctionnalités qui se concentrent spécifiquement sur le contrôle de l'interface à l'écran.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cette fonctionnalité est-elle sûre ?**
 

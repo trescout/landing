@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les domotiques intelligentes, les systèmes d�
 
 Il peut être confondu avec les capteurs de mouvement, mais ce système peut suivre non seulement le mouvement mais aussi l'entité elle-même.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ce système violera-t-il ma vie privée ?**
 

@@ -22,7 +22,7 @@ Aparece con frecuencia en plataformas de redes sociales, sitios de noticias de b
 
 No todo lo que produce la IA es basura; sólo los descuidados y sin valor se llaman así.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo sé si un contenido tiene pendiente de IA?**
 

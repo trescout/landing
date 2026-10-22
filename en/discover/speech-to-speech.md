@@ -69,7 +69,6 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Voice Agents](https://trescout.com/en/dictionary/voice-agents/)
 - [Speech-to-Speech](https://trescout.com/en/dictionary/speech-to-speech/)
-- [STT](https://trescout.com/en/dictionary/stt/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

@@ -24,7 +24,7 @@ Avrupa Birliği vatandaşlarının verilerini işleyen tüm dijital platformlard
 
 Sadece bir 'çerez uyarısı' ile karıştırılır, ancak bu çok daha geniş kapsamlı bir veri güvenliği yasasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Beni nasıl korur?**
 

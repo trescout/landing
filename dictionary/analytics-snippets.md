@@ -22,7 +22,7 @@ Google Analytics gibi platformlarda üretilir ve web sitelerinin HTML kodlarına
 
 Çerezler (cookies) ile sıkça karıştırılır; çerezler veriyi tarayıcınızda tutarken, snippet veriyi toplayıp sunucuya gönderen araçtır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu kodlar kişisel bilgilerimi çalar mı?**
 

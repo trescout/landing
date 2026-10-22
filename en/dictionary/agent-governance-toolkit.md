@@ -22,7 +22,7 @@ It is used in corporate artificial intelligence projects and autonomous system d
 
 Not to be confused with just a firewall; these tools also govern ethical and operational rules.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it slow down the agent's speed?**
 

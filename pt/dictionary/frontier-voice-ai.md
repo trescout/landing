@@ -22,7 +22,7 @@ Ele é usado em assistentes virtuais, bots de atendimento ao cliente e ferrament
 
 Não deve ser confundido com sistemas padrão de 'Texto para Fala'; eles permanecem mais mecânicos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é chamado de 'Fronteira'?**
 

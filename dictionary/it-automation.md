@@ -22,7 +22,7 @@ Sunucu yönetimi, yazılım dağıtımı ve büyük veri işleme süreçlerinde 
 
 Yapay zekâ ile karıştırılabilir; otomasyon kurallara bağlıdır, yapay zekâ ise öğrenir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Otomasyon işimi elimden alır mı?**
 

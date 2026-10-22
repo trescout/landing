@@ -41,7 +41,7 @@ Bu satır dosya gelene kadar beklemez, diğer işler sürer. Sonuç hazır olunc
 
 *Bir insanın dış dünyadan bilgi alması ve dış dünyaya tepki vermesi gibidir; gözler giriş, konuşma çıkıştır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **I/O neden darboğaz olur?**
 

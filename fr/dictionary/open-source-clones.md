@@ -22,7 +22,7 @@ Il est utilisé dans le monde du logiciel lors du développement d'outils altern
 
 Il peut être confondu avec le terme simplement « Cloner », mais ce terme couvre spécifiquement ceux qui sont open source et pilotés par la communauté.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les copies open source sont-elles légales ?**
 

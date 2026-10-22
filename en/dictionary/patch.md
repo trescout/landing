@@ -48,7 +48,7 @@ PUT and PATCH methods are frequently compared when updating data in RESTful serv
 | Git & Version Control | Line-Based Change File | Code sharing, code review, contribution | git format-patch HEAD~1 -o linux-kernel.patch |
 | Web API / HTTP | Partial Update Method | Network saving, partial change on resource | PATCH /api/users/42 body: {"status": "active"} |
 
-## Frequently asked questions
+## Questions and answers
 
 **What does Patch mean? What is its Turkish equivalent?**
 

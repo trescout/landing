@@ -43,7 +43,7 @@ Se confunde con el rastreo (trace). El log es el registro de un evento, el trace
 **Diario:** Notas en orden cronológico.
 **Recibo de caja:** Registro de transacciones.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se necesitan registros (logs)?**
 

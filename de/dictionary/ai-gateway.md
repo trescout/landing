@@ -22,7 +22,7 @@ Es wird für die Sicherheit und das Kostenmanagement in Anwendungen der künstli
 
 Es kann nur mit einer API verwechselt werden; Diese Struktur bietet jedoch zusätzlich zur API eine zusätzliche Kontroll- und Verwaltungsebene.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird die Verwendung von AI Gateway langsamer?**
 

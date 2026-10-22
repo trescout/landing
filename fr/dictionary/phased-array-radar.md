@@ -38,7 +38,7 @@ On le prend souvent pour un radar classique à antenne rotative. Dans le modèle
 **Haut-parleur :** Réseau orientant le son dans une direction.
 **Lampe de poche :** Orienter le faisceau sans le faire pivoter manuellement.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi est-ce plus avantageux ?**
 

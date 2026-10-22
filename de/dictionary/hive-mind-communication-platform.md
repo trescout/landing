@@ -22,7 +22,7 @@ Es wird in gemeinsamen Entscheidungsprozessen von Softwareentwicklungsteams, Not
 
 Es ist nicht nur eine Messaging-App oder ein Chatroom; Es handelt sich um eine Struktur, die Informationen verarbeitet und einen kollektiven Output erzeugt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind diese Plattformen für alle Arten von Teams geeignet?**
 

@@ -22,7 +22,7 @@ It is used in market forecasting systems, recommendation engines that change acc
 
 It can be confused with fine-tuning, but fine-tuning is usually a one-time update, while continuous learning is a continuous process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why does the model forget old information?**
 

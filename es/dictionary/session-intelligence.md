@@ -22,7 +22,7 @@ Se utiliza en sitios de comercio electrónico o asistentes personalizados de int
 
 No se trata simplemente de un simple seguimiento de usuarios, es un proceso de dar sentido a los datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Esto viola la privacidad?**
 

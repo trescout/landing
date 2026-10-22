@@ -22,7 +22,7 @@ It is used in autonomous software development, data analysis and complex busines
 
 It can be confused with standard AI usage; Here, artificial intelligence does not just respond, it acts.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is there no need for human intervention?**
 

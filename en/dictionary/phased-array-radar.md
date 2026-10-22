@@ -38,7 +38,7 @@ It is thought to be a classical radar with a rotating antenna. In the classical 
 **Speaker:** Array that directs sound.
 **Flashlight:** Steer the beam without turning it physically.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it more advantageous?**
 

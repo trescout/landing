@@ -22,7 +22,7 @@ Se utilizan con frecuencia en robots de servicio al cliente, herramientas de des
 
 No confundir con los modelos de IA estándar que solo producen texto; Los agentes van más allá de producir texto y actúan.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Los agentes siempre toman la decisión correcta?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans les assistants personnels, l’intelligence artificielle tr
 
 Elle peut être confondue avec la fenêtre contextuelle, mais la fenêtre contextuelle ne couvre que la conversation en cours.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ce souvenir est-il éternel ?**
 

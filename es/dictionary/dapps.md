@@ -24,7 +24,7 @@ Se utiliza en procesos que requieren confianza, como transacciones financieras, 
 
 Se puede confundir con aplicaciones móviles normales; Sin embargo, las dApps mantienen los datos en la cadena de bloques y no en un servidor central.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué se necesita para usar dApps?**
 

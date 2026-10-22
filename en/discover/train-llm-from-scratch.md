@@ -59,7 +59,7 @@ pip install -r requirements.txt
 - **Difficulty:** Intermediate–advanced Python/ML foundation
 - **Format:** Jupyter notebooks step by step
 - **Fee:** Free · open source (MIT)
-- **License:** MIT · ayrıntı aşağıda
+- **License:** MIT · details below
 
 **License:** MIT · you can freely use, adapt and share content and code.
 

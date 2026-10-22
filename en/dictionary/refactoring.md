@@ -47,7 +47,7 @@ It is thought to be a feature or bug fix. Yet the output does not change, only t
 **Copyediting:** Subject is the same, sentences flow smoothly.
 **Pruning:** The tree is the same, the branch arrangement is regular.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why do we do it?**
 

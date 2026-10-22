@@ -39,7 +39,7 @@ Bu komut, `web` servisinin kopya sayısını beşe çıkarır. Trafik düşünce
 
 *Bir evi tek seferde bir yere yerleştirmek değil, her an başka yere taşınabilen ve ihtiyaca göre odaları genişletilebilen modüler bir yapı olarak tasarlamak gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Uygulamayı buluta taşımak cloud native yapar mı?**
 

@@ -39,7 +39,7 @@ Souvent confondu avec le magnétoscope (VCR). Le VCR utilise des cassettes, le P
 **Podcast :** Télécharger pour écouter en déplacement.
 **Enregistrement d'écran :** Archivage du cours.
 
-## Foire aux questions
+## Questions et réponses
 
 **Le PVR et le DVR sont-ils la même chose ?**
 

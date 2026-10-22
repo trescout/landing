@@ -22,7 +22,7 @@ Se utiliza en tecnologías blockchain, sistemas de mantenimiento de registros y 
 
 Puede confundirse con las bases de datos tradicionales; los tradicionales pueden actualizar los datos, este método nunca lo permite.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si cometo un error?**
 

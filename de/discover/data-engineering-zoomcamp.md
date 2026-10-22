@@ -39,7 +39,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Fortgeschrittene Programmiergrundlage
 - **Formatieren:** 9-wöchiges Praktikum
 - **Gebühr:** Kostenlos
-- **Lizenz:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Lizenz:** Standard nicht erkannt · Details unten
 
 **Lizenz:** GitHub hat keine Standardlizenz erkannt. Es ist kostenlos, den Inhalten zu folgen/zu lernen; Überprüfen Sie vor der erneuten Veröffentlichung die Bedingungen im Repo.
 

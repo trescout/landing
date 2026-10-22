@@ -18,7 +18,7 @@ Primeiro, um trecho básico de código é escrito e esse código se torna execut
 
 É frequentemente usado no desenvolvimento de compiladores de linguagens de programação e ferramentas de sistema operacional.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que é tão complicado?**
 

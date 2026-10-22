@@ -22,7 +22,7 @@ Desempeña un papel fundamental en el diseño de productos, el desarrollo de sof
 
 Se puede confundir solo con diseño, pero es una visión más profunda donde se combinan gusto, funcionalidad y estética.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede mejorar el sabor?**
 

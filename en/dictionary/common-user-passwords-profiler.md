@@ -24,7 +24,7 @@ It is used in cyber security audits and password policy creation processes.
 
 Can be confused with wordlists; This tool is an analysis engine that uses those lists.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can I test my own password?**
 

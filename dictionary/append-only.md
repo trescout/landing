@@ -22,7 +22,7 @@ Blokzincir teknolojilerinde, günlük (log) tutma sistemlerinde ve denetlenebili
 
 Geleneksel veri tabanları ile karıştırılabilir; geleneksel olanlar veriyi güncelleyebilir, bu yöntem ise asla izin vermez.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hata yaparsam ne olur?**
 

@@ -41,7 +41,7 @@ Rule: Do not pass while you have work saved, commit or save it first.
 **Archive:** Remove the folder from storage and examine it.
 **Photograph:** Don't take pressure from the negative.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Does it only download files?**
 

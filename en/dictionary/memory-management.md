@@ -41,7 +41,7 @@ When a program is run, the operating system allocates a special virtual memory s
 
 Modern operating systems use Virtual Memory and Paging architecture to prevent programs from reading each other's memory. The Memory Management Unit (MMU) in the CPU converts virtual addresses to physical addresses in hardware with the help of TLB cache. When physical RAM and swap are completely exhausted, the OOM Killer (Out of Memory Killer) mechanism of the Linux kernel terminates the most aggressive process with SIGKILL to save the system.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does memory management mean? What is its Turkish equivalent?**
 

@@ -22,7 +22,7 @@ Il est utilisé pour résumer des dossiers dans des cabinets d’avocats, pour a
 
 Peut être confondu avec une hallucination ; Le résumé fondé est en fait une technique utilisée pour prévenir les hallucinations.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le résumé Grounded est-il important ?**
 

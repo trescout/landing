@@ -47,7 +47,7 @@ It can be confused with project management. Management controls the cycle, and t
 **Agriculture:** Seasonal cycle from planting to harvest.
 **Book:** Publication process from draft to print.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **How does artificial intelligence affect this cycle?**
 

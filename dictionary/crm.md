@@ -41,7 +41,7 @@ Adres defteri sanılır, ancak CRM kayıtla kalmaz, satış stratejisi üretir. 
 
 *Bir işletmenin dijital hafızası gibidir; eski bir dostunuzun sevdiği yemekleri not defterinize yazmanız gibi, şirketler de müşterilerini unutmamak için bu sistemi kullanır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **CRM kullanmak zorunda mıyım?**
 

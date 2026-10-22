@@ -48,7 +48,7 @@ An organization's production pipeline maturity is measured by four golden metric
 
 **Mean Time to Recovery (MTTR):** The speed at which the system recovers when an outage occurs in production.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does a production pipeline mean and what is its main purpose?**
 

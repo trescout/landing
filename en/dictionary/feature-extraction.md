@@ -22,7 +22,7 @@ It is frequently used in natural language processing, computer vision, search en
 
 It is different from directly training a model; it is the step of summarizing the most valuable information from existing data and reducing it into a numerical format.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is the difference from embedding?**
 

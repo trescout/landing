@@ -37,7 +37,7 @@ Dicas de detecção: O ritmo do piscar de olhos, o desfoque das bordas e a incon
 **Dublê:** Troca de rosto em cenas perigosas.
 **Fotomontagem:** Fusão de rostos no quadro.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É necessário hardware de alto desempenho?**
 

@@ -42,7 +42,7 @@ Se confunde con un modelo 3D. Aquello es una imagen estática, esto es un sistem
 **Espejo:** Superficie que refleja el movimiento.
 **Sombra:** Oscuridad que sigue al objeto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia de la simulación?**
 

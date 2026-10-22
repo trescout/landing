@@ -18,7 +18,7 @@ Lors de la conception d'un nouveau langage ou d'un nouveau outil, les règles ex
 
 Il est fréquemment utilisé dans les langages de programmation (par exemple TypeScript est un surensemble de JavaScript) et les architectures logicielles.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-il avantageux d’utiliser un superset ?**
 

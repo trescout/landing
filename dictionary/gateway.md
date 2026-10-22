@@ -42,7 +42,7 @@ API Gateway ile karıştırılabilir. API Gateway yazılım servislerini yöneti
 
 *Bir ülkenin sınır kapısı gibidir; gelenleri kontrol eder ve doğru yöne gitmelerini sağlar.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Gateway olmadan internete girilir mi?**
 

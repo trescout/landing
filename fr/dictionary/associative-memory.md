@@ -22,7 +22,7 @@ Elle est utilisée dans les bases de données vectorielles, les systèmes de rec
 
 Elle est confondue avec la mémoire à accès aléatoire (RAM) traditionnelle. Alors que la RAM appelle l'information à l'aide d'adresses physiques numériques, la mémoire associative trouve la donnée directement par le biais de la similarité de son contenu.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Fonctionne-t-elle également lorsque l'entrée est incomplète ou bruitée ?**
 

@@ -42,7 +42,7 @@ C’est considéré comme une surveillance. La surveillance surveille le seuil, 
 **Hôpital:** Moniteur patient.
 **Poste de pilotage :** Écrans de vol.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi l'inscription ne suffit-elle pas ?**
 

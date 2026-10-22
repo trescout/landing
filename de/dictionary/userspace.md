@@ -22,7 +22,7 @@ Es ist ein grundlegendes Konzept in der Softwareentwicklung, Sicherheit und Syst
 
 Es wird mit dem Kernel-Space verwechselt; Der Kernel dominiert das gesamte System, während der Benutzerbereich begrenzt ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum gibt es diese Unterscheidung?**
 

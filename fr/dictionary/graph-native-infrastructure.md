@@ -22,7 +22,7 @@ Il est utilisé dans l'analyse des réseaux sociaux, les systèmes de détection
 
 A ne pas confondre avec les bases de données relationnelles classiques (SQL) ; car ici, la relation ne fait pas partie du tableau, mais la base de la structure.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je choisir cette structure ?**
 

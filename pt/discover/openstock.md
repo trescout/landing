@@ -71,7 +71,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Fácil (site pronto) · avançado (auto-hospedado)
 - **O que oferece:** Preço em tempo real + alerta + análise
 - **Taxa:** Livre
-- **Licença:** AGPL-3.0 · ayrıntı aşağıda
+- **Licença:** AGPL-3.0 · detalhe abaixo
 
 **Licença:** AGPL-3.0 · Site pronto para uso gratuito. No entanto, se você modificar o projeto, redistribuí-lo ou liberá-lo como um serviço web, precisará abrir seu próprio código-fonte, como os desenvolvedores deixam claro.
 

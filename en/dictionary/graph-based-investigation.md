@@ -22,7 +22,7 @@ It is used in financial crime analysis, cyber security research and social netwo
 
 Not to be confused with an ordinary Excel spreadsheet; What is important here is not the data itself, but the relationship between the data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it run slowly on big data?**
 

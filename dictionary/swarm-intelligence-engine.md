@@ -22,7 +22,7 @@ Lojistik optimizasyonunda, robotik sürülerde ve karmaşık çoklu ajan sisteml
 
 Tek bir devasa yapay zekâ modeli ile karıştırılabilir, ancak burada güç dağıtık yapıdan gelir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tek bir model yerine sürüler kullanılır?**
 

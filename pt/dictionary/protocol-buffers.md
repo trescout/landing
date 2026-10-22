@@ -24,7 +24,7 @@ Primeiro você define a estrutura dos dados em um arquivo de modelo. Em seguida,
 
 Pode ser confundido com formatos de dados baseados em texto, como JSON ou XML, mas é muito mais rápido e menor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **As pessoas sabem ler?**
 

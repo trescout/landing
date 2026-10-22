@@ -52,7 +52,7 @@ Num computador central, o relógio do hardware representa um fato único. Em sis
 
 As transações de banco de dados (transações ACID) em sistemas monolíticos são substituídas pela abordagem Saga Pattern em microsserviços. Em vez de etapas distribuídas de longa duração serem bloqueadas com bloqueios de duas fases (2PC - Two Phase Commit); São utilizadas arquiteturas orientadas a eventos onde cada serviço executa sua ação local e, em caso de erro, são acionadas transações de compensação retroativas.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que significa Distribuído (significado turco)?**
 

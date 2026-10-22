@@ -22,7 +22,7 @@ Es un concepto crítico que se aborda en los procesos de desarrollo de compilado
 
 Es diferente de los errores de programación simples (bugs); significa que la promesa fundamental de fiabilidad del lenguaje se ve profundamente sacudida.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se observa en todos los lenguajes de software?**
 

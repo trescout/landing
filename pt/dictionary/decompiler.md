@@ -22,7 +22,7 @@ Ele recebe o arquivo executável do programa e analisa as sequências de comando
 
 É confundido com o compilador (Compiler); o compilador traduz o código para a máquina, enquanto o descompilador traduz o código de máquina para o humano.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Posso obter o código original exatamente igual com um descompilador?**
 

@@ -22,7 +22,7 @@ Pode ser encontrado em aplicativos de assistente pessoal, dispositivos inteligen
 
 Pode ser confundido com Agente AI; Enquanto o agente é mais orientado para a tarefa, o acompanhante está mais focado no companheirismo e na interação.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é a diferença entre modelos complementares?**
 

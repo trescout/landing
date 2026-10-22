@@ -22,7 +22,7 @@ Il est fréquemment utilisé sur les pages d'accueil des sites web, les pages de
 
 Il est souvent confondu avec la rédaction de contenu (content writing) ; la rédaction de contenu est plutôt éducative et informative, tandis que le copywriting est directement axé sur la vente et la persuasion.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la différence entre le copywriting et la rédaction de contenu ?**
 

@@ -22,7 +22,7 @@ It is used in mobile applications or personal artificial intelligence assistants
 
 Mixed with external databases; external ones are for huge data, this one is speed oriented.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it suitable for big data?**
 

@@ -22,7 +22,7 @@ Il est utilisé pour configurer votre propre stockage cloud, exécuter vos modè
 
 Il est confondu avec le cloud computing, mais pendant que vous utilisez le serveur de quelqu'un d'autre dans le cloud, vous avez ici un contrôle total sur le matériel et les logiciels.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi l’auto-hébergement est-il préféré ?**
 

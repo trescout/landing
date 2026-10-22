@@ -22,7 +22,7 @@ Se implementa en bibliotecas digitales, archivos gubernamentales, bases de datos
 
 Se confunde con una simple copia de seguridad o respaldo. La copia de seguridad consiste en copiar los datos tal como están hoy; este proceso, en cambio, consiste en planificar cómo se abrirán esos datos incluso en computadoras dentro de 50 años.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo puedo aplicar esto en casa para mis propias fotos?**
 
@@ -36,7 +36,7 @@ El almacenamiento en la nube es una buena herramienta, pero es importante no dep
 
 - [Backup Program](https://trescout.com/es/dictionary/backup-program/)
 - [Incremental Backup](https://trescout.com/es/dictionary/incremental-backup/)
-- [Personal Knowledge Management](https://trescout.com/es/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/es/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/es/dictionary/personal-knowledge-management/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/digital-preservation/)

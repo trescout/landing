@@ -24,7 +24,7 @@ Il est utilisé dans la plupart des grands modèles d'intelligence artificielle 
 
 Il peut être confondu avec le traitement de toutes les données par un seul modèle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment les experts sont-ils choisis ?**
 

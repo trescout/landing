@@ -24,7 +24,7 @@ Modern büyük yapay zekâ modellerinin çoğunda verimliliği artırmak için k
 
 Tek bir modelin tüm veriyi işlemesiyle karıştırılabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Uzmanlar nasıl seçiliyor?**
 

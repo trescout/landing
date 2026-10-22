@@ -22,7 +22,7 @@ Siber güvenlik raporlarında, yasal patent süreçlerinde ve yazılım gelişti
 
 Sadece bir şeyi açığa vurmak değil, genellikle yasal veya etik bir sorumluluk çerçevesinde yapılan bir işlemdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sorumlu açıklama nedir?**
 

@@ -22,7 +22,7 @@ Vous pouvez utiliser cet outil dans les systèmes RAG (génération augmentée p
 
 Il est souvent confondu avec le web scraping (extraction de données web). Alors que le web scraping analyse la conception des sites pour en extraire des données brutes, l'API de recherche Web fournit directement les résultats de recherche prêts à l'emploi et filtrés proposés par le moteur de recherche.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les modèles d'intelligence artificielle utilisent-ils l'API de recherche Web ?**
 

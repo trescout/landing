@@ -22,7 +22,7 @@ Sie wird auf Softwareentwicklungsplattformen, in automatisierten Code-Review-Too
 
 Sie wird oft direkt mit dem Begriff des Programmieragenten verwechselt. Während der Programmieragent das ganzheitliche System selbst ist, das die Arbeit ausführt, handelt es sich bei der Coding Agent Skill um spezielle Werkzeuge und Fähigkeiten, die dieses System bei sich trägt und die es ihm ermöglichen, bestimmte Aufgaben zu lösen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann ein Agent über mehrere Programmierfähigkeiten verfügen?**
 

@@ -22,7 +22,7 @@ Otonom robotlarda, sanal gerçeklik uygulamalarında ve dijital ikiz oluşturma 
 
 3D tarama ile benzerdir ancak bu yöntem genellikle özel tarama cihazları yerine standart kameralar üzerinden yazılımla yapılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sadece tek bir fotoğrafla yapılabilir mi?**
 

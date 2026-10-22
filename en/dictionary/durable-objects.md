@@ -42,7 +42,7 @@ It is considered serverless. Function is temporary, object is permanent. One is 
 **Cash book:** End of day balance.
 **Deposit:** A cabinet waiting for its owner.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Where is the data stored?**
 

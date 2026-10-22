@@ -59,7 +59,6 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Computer Vision](https://trescout.com/en/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/en/dictionary/cv/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for Python developers who want to standardize object detection and tracking processes in computer vision projects.

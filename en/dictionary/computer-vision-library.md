@@ -22,7 +22,7 @@ It is used in security cameras, autonomous vehicles and facial recognition syste
 
 It can be confused with image processing software, but it is a library, so it is a developer tool, not an end user interface.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can these libraries see everything?**
 

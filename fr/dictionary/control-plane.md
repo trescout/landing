@@ -22,7 +22,7 @@ On le trouve dans les architectures de cloud computing, les systèmes de gestion
 
 Il peut être confondu avec le plan de données ; l'un gère, l'autre exécute le travail.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il s'il tombe en panne ?**
 

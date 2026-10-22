@@ -22,7 +22,7 @@ It is used when contributing to open-source projects or when you want to customi
 
 It should not be confused with the clone operation, which is simply downloading the project to a computer to examine it; the fork operation creates a new and independent ownership on the server side.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will updates made to the original project come to me after forking?**
 

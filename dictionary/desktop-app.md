@@ -22,7 +22,7 @@ Video düzenleme, yapay zekâ modellerini yerel çalıştırma ve profesyonel i�
 
 Web interface ile karıştırılabilir; web uygulamaları tarayıcıya bağımlıdır, masaüstü uygulamaları ise bağımsızdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Masaüstü uygulaması daha mı güvenli?**
 

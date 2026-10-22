@@ -22,7 +22,7 @@ Il est utilisé par les développeurs de jeux indépendants dans des projets de 
 
 Contrairement aux autres moteurs de jeux commerciaux, il est entièrement gratuit et ne facture aucun frais de licence.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je connaître le code ?**
 

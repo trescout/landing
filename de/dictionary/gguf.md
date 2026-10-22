@@ -24,7 +24,7 @@ Es wird in lokalen KI-Anwendungen verwendet, insbesondere in Tools wie LM Studio
 
 Es kann mit allgemeinen Dateiformaten oder reinen Komprimierungsmethoden verwechselt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich GGUF verwenden?**
 

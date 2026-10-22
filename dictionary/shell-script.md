@@ -22,7 +22,7 @@ Sunucu yönetiminde, yedekleme işlemlerinde ve yazılım geliştirme süreçler
 
 Bash script ile aynı şeydir, sadece daha genel bir terimdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kod bilmem gerekiyor mu?**
 

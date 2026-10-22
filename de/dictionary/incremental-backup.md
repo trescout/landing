@@ -22,7 +22,7 @@ Es wird in Unternehmensdatenbanken, großen Dateiservern und professionellen Bac
 
 Es sollte nicht mit einer vollständigen Sicherung verwechselt werden; Ein vollständiges Backup kopiert jedes Mal alles.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist die Wiederherstellung schwierig?**
 

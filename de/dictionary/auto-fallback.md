@@ -22,7 +22,7 @@ Es wird in Diensten der künstlichen Intelligenz, Netzwerkverbindungen und Serve
 
 Es ähnelt der Fehlerbehandlung. Allerdings bezieht sich Auto-Fallback direkt auf eine alternative Lösung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Führt diese Funktion zu einer Verlangsamung?**
 

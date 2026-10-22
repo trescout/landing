@@ -24,7 +24,7 @@ Il est utilisé dans les applications d'intelligence artificielle locales, notam
 
 Il peut être confondu avec des formats de fichiers généraux ou simplement avec des méthodes de compression.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je utiliser GGUF ?**
 

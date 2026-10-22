@@ -36,7 +36,7 @@ Es wird angenommen, dass es sich um AGI handelt. Frontier ist heute das Beste, A
 **Everest:** Die Gipfelroute des Bergsteigens.
 **Experimentelle Flugzeuge:** Grenztestplattform.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann es jeder nutzen?**
 

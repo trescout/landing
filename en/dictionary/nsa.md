@@ -24,7 +24,7 @@ It appears in cybersecurity analyses, data privacy debates, and international ne
 
 It is often mistaken for just a piece of software or a tool, whereas it is actually a government agency.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does the NSA do?**
 

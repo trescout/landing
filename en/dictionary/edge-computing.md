@@ -22,7 +22,7 @@ It is used in smart home devices, autonomous vehicles and industrial sensors tha
 
 It is confused with cloud computing; cloud is central, edge is local.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we send everything to the cloud?**
 

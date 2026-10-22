@@ -22,7 +22,7 @@ It is used in advanced chat bots, visual analysis tools and autonomous systems.
 
 It is the same as the multimodal concept, where the 'model' structure is particularly emphasized.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why isn't just text enough?**
 

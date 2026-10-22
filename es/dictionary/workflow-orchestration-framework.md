@@ -43,7 +43,7 @@ Se confunde con una lista de tareas pendientes. Una lista es pasiva, el framewor
 **Tráfico aéreo:** Orden de despegue.
 **Ferrocarril:** Horario de trenes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario?**
 

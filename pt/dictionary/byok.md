@@ -44,7 +44,7 @@ Acredita-se que seja criptografia. A criptografia é a fechadura, BYOK é quem d
 **Depósito:** Entrega em envelope lacrado.
 **Cofre:** Conteúdo inbancável.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que acontece se eu perder?**
 

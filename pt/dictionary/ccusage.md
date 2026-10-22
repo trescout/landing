@@ -24,7 +24,7 @@ Ele aparece em painéis de faturamento na nuvem ou em ferramentas de monitoramen
 
 Não deve ser confundido apenas com 'número de usuários', trata-se de mais consumo de 'potência da máquina'.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o CCUsage é importante?**
 

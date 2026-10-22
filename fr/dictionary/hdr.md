@@ -24,7 +24,7 @@ Il est utilisé dans les jeux, les logiciels de montage vidéo et les écrans mo
 
 Il est souvent confondu avec une simple augmentation de la luminosité ; le HDR concerne davantage la qualité des détails et du contraste que la luminosité elle-même.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tous les écrans prennent-ils en charge le HDR ?**
 

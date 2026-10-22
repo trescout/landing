@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les robots autonomes, les applications de réa
 
 C'est similaire à la numérisation 3D, mais cette méthode est généralement réalisée avec un logiciel via des caméras standard plutôt que des appareils de numérisation spéciaux.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce possible avec une seule photo ?**
 

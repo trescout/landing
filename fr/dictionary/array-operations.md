@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les processus d’analyse de données, de trai
 
 Peut être confondu avec des boucles ; Cependant, alors que les boucles traitent les éléments un par un, les opérations sur les tableaux les traitent par lots pour accélérer le processus.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utilisons-nous cela au lieu de faire une transaction une par une ?**
 

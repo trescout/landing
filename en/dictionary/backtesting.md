@@ -22,7 +22,7 @@ It is used in algorithmic trading and financial modelling.
 
 Not to be confused with predicting the future; Working well in the past does not mean that it will perform the same in the future.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does backtesting give accurate results?**
 

@@ -48,7 +48,7 @@ Bei der Aktualisierung von Daten in RESTful-Services werden häufig die Methoden
 | Git & Versionskontrolle | Zeilenbasierte Änderungsdatei | Code-Sharing, Code-Review, Mitwirkung | git format-patch HEAD~1, linux-kernel.patch |
 | Web-API / HTTP | Partielle Update-Methode | Netzwerkeinsparung, partielle Änderung an der Ressource | PATCH /api/users/42 body: {"status": "active"} |
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Patch, was ist die türkische Entsprechung?**
 

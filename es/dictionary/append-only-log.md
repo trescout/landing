@@ -33,7 +33,7 @@ No prever el consumo de disco: Si se olvida que los registros solo crecen y no s
 Ignorar el rendimiento de lectura: escanear (reproducir) millones de líneas de registro de principio a fin para calcular el estado actual paraliza los tiempos de lectura; se deben tomar instantáneas (snapshots) del estado de forma regular.
 Ignorar el derecho al olvido del RGPD: cuando las leyes de protección de datos personales exigen el derecho de supresión, eliminar datos de registros inmutables supone un desafío arquitectónico; este problema debe resolverse mediante el método de cripto-borrado (crypto-shredding), donde los datos se vuelven ilegibles al eliminar la clave de cifrado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué la arquitectura de registro de solo agregar es más rápida que el modelo de actualización in situ?**
 

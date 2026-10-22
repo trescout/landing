@@ -22,7 +22,7 @@ Sanal YouTuber (VTuber) yayınlarında, mobil oyunlarda ve interaktif hikayelerd
 
 Tam 3D modelleme ile karıştırılabilir; Live2D aslında 2D çizimlerin akıllıca manipüle edilmesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Live2D yapmak için 3D bilgisi gerekir mi?**
 

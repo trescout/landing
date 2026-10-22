@@ -22,7 +22,7 @@ Akıllı telefonlarda, özel sohbet uygulamalarında veya akıllı ev cihazları
 
 Sadece görev odaklı çalışan yapay zekâ asistanlarından, duygusal bağ kurma yeteneğiyle ayrılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **AI Companion gerçekten beni anlıyor mu?**
 

@@ -22,7 +22,7 @@ Você abre seus arquivos de código com este programa. O editor reconhece a ling
 
 Pode ser confundido com editores de texto comuns (como o Bloco de Notas); mas os editores de código possuem habilidades especiais para compreender a lógica do software.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qualquer editor de texto pode ser usado para escrever código?**
 

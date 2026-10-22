@@ -79,7 +79,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
 
 - **Für wen es gedacht ist:** Dies ist für Benutzer gedacht, die einen Heimserver (Homelab) oder eine persönliche Cloud einrichten möchten, das Terminal-Chaos vermeiden und Docker-Anwendungen mit einem Klick verwalten wollen.
-- **Lizenz:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Lizenz:** Apache-2.0 (Open-Source-Lizenz mit großen Freiheiten)
 - **Entwickler:** IceWhale Technology und Open-Source-Community
 - **Unterstützte Systeme:** Ubuntu, Debian, Raspberry Pi OS, Armbian (x86_64, aarch64, armv7)
 

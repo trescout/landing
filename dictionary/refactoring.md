@@ -47,7 +47,7 @@ Kural: Önce test yazılır, sonra dokunulur. Test yoksa ilk iş testtir.
 
 *Kitabın konusunu değiştirmeden cümleleri akıcı hale getirmeye benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden yapıyoruz?**
 

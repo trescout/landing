@@ -22,7 +22,7 @@ Kurumsal yazılım projelerinde, açık kaynak kodlu projelerde ve ekip içi kod
 
 Kodun işlevselliği ile karıştırılmamalıdır; bu rehberler kodun nasıl çalıştığını değil, nasıl göründüğünü düzenler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kurallara uymalıyım?**
 

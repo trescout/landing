@@ -57,7 +57,7 @@ Se puede mezclar con API. API es una puerta única, mientras que MCP es el conju
 **Ferrocarril:** Estándar de gancho para conectar vagones.
 **Idioma:** Lenguaje protocolo común utilizado en la diplomacia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario MCP?**
 

@@ -46,7 +46,7 @@ Frameworks e Ferramentas Modernas em Destaque:
 - CLI vs TUI: CLI, tek satırlık soru-cevap modelidir (git status, ls -la). TUI ise terminal penceresini kaplayan, sekmeleri, listeleri ve klavye kısayolları olan iki boyutlu görsel bir paneldir (lazygit, k9s).
 - TUI não se resume apenas a texto primitivo: os terminais modernos suportam Nerd Fonts (ícones), suporte a TrueColor de 24 bits, caracteres de desenho de caixa UTF-8 e até mesmo renderização gráfica real dentro do terminal com os protocolos Kitty Graphics / Sixel.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa TUI e qual é a sua sigla?**
 

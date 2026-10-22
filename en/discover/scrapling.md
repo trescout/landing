@@ -53,7 +53,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Medium · Python
 - **What offers:** Adaptive, scalable scraping
 - **Fee:** Free · open source (BSD-3)
-- **License:** BSD-3-Clause · ayrıntı aşağıda
+- **License:** BSD-3-Clause · detail below
 
 **License:** BSD-3-Clause · you may use it freely, modify it, make commercial use (retain copyright notice).
 

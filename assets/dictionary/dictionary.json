@@ -1419,7 +1419,7 @@
   {
     "slug": "computer-vision",
     "en": "Computer Vision",
-    "full": "",
+    "full": "CV",
     "cat": "ai",
     "kisa": "Bilgisayarların görsel verileri (fotoğraf, video) analiz edip içindeki nesneleri, kişileri veya olayları anlamlandırmasını sağlayan teknolojidir.",
     "kisa_en": "It is a technology that allows computers to analyze visual data (photos, videos) and make sense of the objects, people or events in them.",
@@ -3291,7 +3291,7 @@
   {
     "slug": "speech-to-text",
     "en": "Speech-to-Text",
-    "full": "",
+    "full": "STT",
     "cat": "ai",
     "kisa": "Söylenen sözleri dinleyip bunları otomatik olarak yazılı metne dönüştüren teknolojidir.",
     "kisa_en": "It is technology that listens to spoken words and automatically converts them into written text.",
@@ -4888,19 +4888,6 @@
     "date": "2026-07-20"
   },
   {
-    "slug": "model-context-protocol",
-    "en": "Model Context Protocol",
-    "full": "MCP",
-    "cat": "ai",
-    "kisa": "Yapay zekâ sistemlerinin verilerle ve araçlarla güvenli bir şekilde konuşmasını sağlayan ortak bir dil.",
-    "kisa_en": "A common language that allows AI systems to talk to data and tools securely.",
-    "kisa_fr": "Un langage commun qui permet aux systèmes d’IA de communiquer avec les données et les outils en toute sécurité.",
-    "kisa_pt": "Uma linguagem comum que permite que os sistemas de IA se comuniquem com dados e ferramentas de forma segura.",
-    "kisa_es": "Un lenguaje común que permite a los sistemas de IA comunicarse con datos y herramientas de forma segura.",
-    "kisa_de": "Eine gemeinsame Sprache, die es KI-Systemen ermöglicht, sicher mit Daten und Tools zu kommunizieren.",
-    "date": "2026-07-20"
-  },
-  {
     "slug": "local-first-code-intelligence-graph",
     "en": "Local-first Code Intelligence Graph",
     "full": "",
@@ -5665,19 +5652,6 @@
     "kisa_pt": "É um modelo de inteligência artificial que pode processar simultaneamente não só texto, mas também diversos tipos de dados como imagens, áudio e vídeo.",
     "kisa_es": "Se trata de un modelo de inteligencia artificial que puede procesar simultáneamente no sólo texto sino también diferentes tipos de datos como imágenes, audio y vídeo.",
     "kisa_de": "Dabei handelt es sich um ein Modell der künstlichen Intelligenz, das nicht nur Text, sondern auch verschiedene Datentypen wie Bilder, Audio und Video gleichzeitig verarbeiten kann.",
-    "date": "2026-08-02"
-  },
-  {
-    "slug": "model-context-protocol-mcp",
-    "en": "Model Context Protocol",
-    "full": "Model Context Protocol",
-    "cat": "ai",
-    "kisa": "Yapay zekâ modellerinin farklı veri kaynaklarıyla ve araçlarla güvenli bir şekilde konuşmasını sağlayan standart bir bağlantı dilidir.",
-    "kisa_en": "It is a standard connection language that allows AI models to talk securely with different data sources and tools.",
-    "kisa_fr": "Il s'agit d'un langage de connexion standard qui permet aux modèles d'IA de communiquer en toute sécurité avec différentes sources de données et outils.",
-    "kisa_pt": "É uma linguagem de conexão padrão que permite que modelos de IA se comuniquem de forma segura com diferentes fontes de dados e ferramentas.",
-    "kisa_es": "Es un lenguaje de conexión estándar que permite a los modelos de IA comunicarse de forma segura con diferentes fuentes de datos y herramientas.",
-    "kisa_de": "Es handelt sich um eine Standardverbindungssprache, die es KI-Modellen ermöglicht, sicher mit verschiedenen Datenquellen und Tools zu kommunizieren.",
     "date": "2026-08-02"
   },
   {
@@ -6448,19 +6422,6 @@
     "date": "2026-08-15"
   },
   {
-    "slug": "stt",
-    "en": "STT",
-    "full": "Speech-to-Text",
-    "cat": "ai",
-    "kisa": "Konuşulan kelimeleri dinleyip bunları yazılı metne dönüştüren teknolojidir.",
-    "kisa_en": "It is technology that listens to spoken words and converts them into written text.",
-    "kisa_fr": "C'est une technologie qui écoute les paroles prononcées et les convertit en texte écrit.",
-    "kisa_pt": "É a tecnologia que ouve palavras faladas e as converte em texto escrito.",
-    "kisa_es": "Es tecnología que escucha palabras habladas y las convierte en texto escrito.",
-    "kisa_de": "Es handelt sich um eine Technologie, die gesprochene Wörter abhört und sie in geschriebenen Text umwandelt.",
-    "date": "2026-08-15"
-  },
-  {
     "slug": "byok",
     "en": "BYOK",
     "full": "Bring Your Own Key",
@@ -6957,7 +6918,7 @@
   {
     "slug": "personal-knowledge-management",
     "en": "Personal knowledge management",
-    "full": "",
+    "full": "PKM",
     "cat": "data",
     "kisa": "Méthode consistant à stocker et à récupérer de manière organisée les connaissances, idées et notes apprises par une personne à l'aide d'outils numériques.",
     "date": "2026-08-25",
@@ -6966,32 +6927,6 @@
     "kisa_pt": "Método consistente para armazenar e recuperar de maneira organizada conhecimentos, ideias e notas informadas por uma pessoa ao auxiliar de ferramentas numéricas.",
     "kisa_es": "Método consistente en almacenar y recuperar de manera organizada los conocimientos, ideas y notas informadas por una persona con la ayuda de herramientas numéricas.",
     "kisa_de": "Die Methode besteht darin, Kenntnisse, Ideen und Notizen zu sammeln und zu sammeln, die von einem Mitarbeiter mit numerischen Hilfsmitteln in Kenntnis gesetzt werden."
-  },
-  {
-    "slug": "cv",
-    "en": "Computer Vision",
-    "full": "Computer Vision",
-    "cat": "ai",
-    "kisa": "Bilgisayarların dijital görüntüleri ve videoları analiz ederek içindeki nesneleri veya durumları anlamasını sağlayan teknoloji.",
-    "date": "2026-08-27",
-    "kisa_en": "Technology that allows computers to analyze digital images and videos to understand objects or situations within them.",
-    "kisa_fr": "Technologie qui permet aux ordinateurs d’analyser des images et des vidéos numériques pour comprendre les objets ou les situations qu’ils contiennent.",
-    "kisa_pt": "Tecnologia que permite que computadores analisem imagens e vídeos digitais para compreender objetos ou situações dentro deles.",
-    "kisa_es": "Tecnología que permite a las computadoras analizar imágenes y videos digitales para comprender objetos o situaciones dentro de ellos.",
-    "kisa_de": "Technologie, die es Computern ermöglicht, digitale Bilder und Videos zu analysieren, um darin enthaltene Objekte oder Situationen zu verstehen."
-  },
-  {
-    "slug": "pkm",
-    "en": "Personal Knowledge Management",
-    "full": "Personal Knowledge Management",
-    "cat": "data",
-    "kisa": "Kişisel bilgileri, notları ve fikirleri dijital ortamda düzenli bir şekilde saklayıp yönetme yöntemi.",
-    "date": "2026-08-27",
-    "kisa_en": "A method of storing and managing personal information, notes and ideas in a digital environment.",
-    "kisa_fr": "Une méthode de stockage et de gestion d'informations personnelles, de notes et d'idées dans un environnement numérique.",
-    "kisa_pt": "Um método de armazenamento e gerenciamento de informações pessoais, notas e ideias em um ambiente digital.",
-    "kisa_es": "Un método para almacenar y gestionar información personal, notas e ideas en un entorno digital.",
-    "kisa_de": "Eine Methode zum Speichern und Verwalten persönlicher Informationen, Notizen und Ideen in einer digitalen Umgebung."
   },
   {
     "slug": "local-first-memory",
@@ -8710,19 +8645,6 @@
     "kisa_de": "Geräte, die den Strom- oder Wasserverbrauch in Echtzeit messen und die Daten digital an eine Zentrale übermitteln."
   },
   {
-    "slug": "apache-bench-ab",
-    "en": "ab (ApacheBench)",
-    "full": "ApacheBench",
-    "cat": "dev",
-    "kisa": "Bir web sunucusunun aynı anda kaç kişiyi kaldırabileceğini ölçmeye yarayan basit bir performans test aracı.",
-    "date": "2026-10-01",
-    "kisa_en": "A simple performance testing tool used to measure how many concurrent users a web server can handle.",
-    "kisa_fr": "Outil de test de performance simple utilisé pour mesurer combien d'utilisateurs un serveur web peut gérer simultanément.",
-    "kisa_pt": "Uma ferramenta simples de teste de desempenho usada para medir quantas pessoas um servidor web pode suportar ao mesmo tempo.",
-    "kisa_es": "Una herramienta sencilla de prueba de rendimiento que sirve para medir cuántas personas puede soportar un servidor web al mismo tiempo.",
-    "kisa_de": "Ein einfaches Leistungstest-Tool, mit dem gemessen werden kann, wie viele Personen ein Webserver gleichzeitig bewältigen kann."
-  },
-  {
     "slug": "stable-marriage-algorithm",
     "en": "Stable Marriage Algorithm",
     "full": "",
@@ -9553,5 +9475,57 @@
     "kisa_es": "Autoridad intermedia ubicada entre el certificado raíz y el usuario final que autentica la identidad de los sitios web seguros.",
     "kisa_pt": "Autoridade intermediária localizada entre o certificado raiz, que verifica a identidade de sites seguros, e o usuário final.",
     "kisa_de": "Eine Zwischenzertifizierungsstelle, die sich zwischen dem die Identität sicherer Websites verifizierenden Stammzertifikat und dem Endbenutzer befindet."
+  },
+  {
+    "slug": "ast",
+    "en": "Abstract Syntax Tree",
+    "full": "Abstract Syntax Tree",
+    "cat": "dev",
+    "kisa": "Kaynak kodun dilbilgisi yapısını hiyerarşik bir ağaç şeklinde temsil eden veri modelidir.",
+    "date": "2026-10-22",
+    "kisa_en": "A data model that represents the grammatical structure of source code in the form of a hierarchical tree.",
+    "kisa_fr": "Modèle de données qui représente la structure grammaticale du code source sous la forme d'un arbre hiérarchique.",
+    "kisa_es": "Es un modelo de datos que representa la estructura gramatical del código fuente en forma de árbol jerárquico.",
+    "kisa_pt": "É um modelo de dados que representa a estrutura gramatical do código-fonte na forma de uma árvore hierárquica.",
+    "kisa_de": "Ein Datenmodell, das die grammatikalische Struktur des Quellcodes in Form eines hierarchischen Baumes darstellt."
+  },
+  {
+    "slug": "exploit",
+    "en": "Exploit",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir sistemdeki güvenlik açığını kullanarak yetkisiz işlem yapmayı veya sistemi ele geçirmeyi sağlayan yöntem veya yazılımdır.",
+    "date": "2026-10-22",
+    "kisa_en": "A method or software that enables performing unauthorized operations or taking control of a system by exploiting a security vulnerability in the system.",
+    "kisa_fr": "Méthode ou logiciel permettant d'effectuer des opérations non autorisées ou de prendre le contrôle d'un système en exploitant une faille de sécurité.",
+    "kisa_es": "Es un método o software que permite realizar operaciones no autorizadas o tomar el control de un sistema aprovechando una vulnerabilidad en el mismo.",
+    "kisa_pt": "É um método ou software que permite realizar ações não autorizadas ou assumir o controle de um sistema explorando uma vulnerabilidade de segurança.",
+    "kisa_de": "Eine Methode oder Software, die durch Ausnutzung einer Sicherheitslücke in einem System unbefugte Aktionen oder die Übernahme des Systems ermöglicht."
+  },
+  {
+    "slug": "backdoor",
+    "en": "Backdoor",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Standart kimlik doğrulama mekanizmalarını atlayarak bir sisteme gizlice uzaktan erişim sağlayan yöntem veya yazılımdır.",
+    "date": "2026-10-22",
+    "kisa_en": "A method or software that covertly provides remote access to a system by bypassing standard authentication mechanisms.",
+    "kisa_fr": "Méthode ou logiciel permettant d'accéder secrètement et à distance à un système en contournant les mécanismes d'authentification standard.",
+    "kisa_es": "Es un método o software que proporciona acceso remoto secreto a un sistema eludiendo los mecanismos de autenticación estándar.",
+    "kisa_pt": "É um método ou software que fornece acesso remoto secreto a um sistema, ignorando os mecanismos de autenticação padrão.",
+    "kisa_de": "Eine Methode oder Software, die durch Umgehung von Standard-Authentifizierungsmechanismen einen heimlichen Fernzugriff auf ein System ermöglicht."
+  },
+  {
+    "slug": "image-text-to-text",
+    "en": "Image-Text-to-Text",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Hem görsel hem de metin girdilerini birlikte analiz ederek yeni bir metin yanıtı üreten yapay zekâ model mimarisidir.",
+    "date": "2026-10-22",
+    "kisa_en": "It is an artificial intelligence model architecture that analyzes both visual and text inputs together to generate a new text response.",
+    "kisa_fr": "Il s'agit d'une architecture de modèle d'intelligence artificielle qui génère une nouvelle réponse textuelle en analysant conjointement des entrées visuelles et textuelles.",
+    "kisa_es": "Es una arquitectura de modelo de inteligencia artificial que genera una nueva respuesta de texto analizando conjuntamente tanto entradas visuales como de texto.",
+    "kisa_pt": "É uma arquitetura de modelo de inteligência artificial que gera uma nova resposta em texto ao analisar conjuntamente entradas visuais e de texto.",
+    "kisa_de": "Es ist eine KI-Modellarchitektur, die sowohl visuelle als auch textuelle Eingaben gemeinsam analysiert und eine neue Textantwort erzeugt."
   }
 ]

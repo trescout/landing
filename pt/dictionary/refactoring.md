@@ -47,7 +47,7 @@ Pensa-se que é uma funcionalidade ou correção de erro. No entanto, o resultad
 **Redação:** O assunto é o mesmo, a frase é fluida.
 **Poda:** A árvore é a mesma, o arranjo dos galhos é ordenado.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que fazemos isso?**
 

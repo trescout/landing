@@ -22,7 +22,7 @@ Il est utilisé dans les tests de cybersécurité, dans les étapes de développ
 
 Peut être mélangé avec des machines virtuelles ; Un bac à sable est un espace d’isolation généralement plus léger et spécialisé pour une application particulière.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi un bac à sable est-il nécessaire ?**
 

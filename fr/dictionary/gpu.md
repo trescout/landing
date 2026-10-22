@@ -24,7 +24,7 @@ Il est utilisé lors de la formation de modèles d’intelligence artificielle, 
 
 Il est confondu avec le CPU ; Le CPU est idéal pour les tâches générales, tandis que le GPU est spécialisé uniquement pour les énormes charges mathématiques.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le GPU est-il essentiel pour l’intelligence artificielle ?**
 

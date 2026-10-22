@@ -24,7 +24,7 @@ It is used in the working processes of LLMs and especially in chat interfaces wh
 
 It may be confused with Context Window, but this is not a capacity limit, but a method of using this capacity efficiently.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is KV Cache important?**
 

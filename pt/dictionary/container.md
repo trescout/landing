@@ -53,7 +53,7 @@ Confundido com uma máquina virtual. A máquina possui um sistema operacional co
 **Culinária:** Uma marmita com os ingredientes já preparados dentro.
 **Acampamento:** Um kit de acampamento transportado com sua organização dentro da bolsa.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que o contêiner é tão popular?**
 

@@ -80,7 +80,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
 
 - **Pour qui:** Développeurs Java, architectes logiciels, équipes d'assurance qualité et responsables techniques.
-- **Licence:** LGPL-2.1 (Açık kaynak kütüphane lisansı)
+- **Licence:** LGPL-2.1 (licence de bibliothèque open source)
 - **Toit:** Outil d'analyse de code statique Java
 - **Plateformes:** JVM (Machine Virtuelle Java), Linux, macOS, Windows
 

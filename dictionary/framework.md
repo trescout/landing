@@ -22,7 +22,7 @@ Web siteleri, mobil uygulamalar ve yapay zekâ yazılımları geliştirilirken s
 
 Kütüphaneler ile karıştırılabilir; kütüphane sizin çağırdığınız bir araçtır, framework ise sizin onun içinde çalıştığınız bir yapıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden framework kullanmalıyım?**
 

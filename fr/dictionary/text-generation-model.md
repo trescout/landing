@@ -22,7 +22,7 @@ Il est utilisé dans les chatbots, les outils de rédaction de contenu et les sy
 
 Il est presque identique au LLM (Large Language Model), mais ce terme souligne que l'accent est uniquement mis sur la production de texte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Écrit-il toujours correctement ?**
 

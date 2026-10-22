@@ -38,7 +38,7 @@ Se cree que son modelos de lenguaje. Son especialistas limitados, este es el obj
 **Cocinero:** Cocina general.
 **Poeta:** Lenguaje general.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo se entiende?**
 

@@ -22,7 +22,7 @@ It is used in effects production in the film industry, entertainment content on 
 
 Not to be confused with simple photo editing; deepfake covers much more complex and moving content.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do I know if a video is deepfake?**
 

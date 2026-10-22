@@ -22,7 +22,7 @@ Se utiliza en software de bolsa, plataformas de inversión y herramientas financ
 
 Se mezcla con agente comercial; La estrategia es la regla, el agente es el software que implementa esta regla.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿La estrategia siempre funciona?**
 

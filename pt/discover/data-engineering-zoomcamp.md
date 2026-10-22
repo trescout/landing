@@ -39,7 +39,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Base de programação intermediária
 - **Formatar:** Curso prático de 9 semanas
 - **Taxa:** Livre
-- **Licença:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Licença:** Padrão não detectado · detalhe abaixo
 
 **Licença:** O GitHub não detectou uma licença padrão. É gratuito acompanhar/aprender o conteúdo; Verifique os termos do repositório antes do relançamento.
 

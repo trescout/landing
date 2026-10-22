@@ -42,7 +42,7 @@ Pensa-se que é o banco de dados. O banco de dados é persistente e vasto, o cac
 **Geladeira:** Comida diária na frente.
 **Despensa:** Estoque em massa no fundo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que acontece se o cache ficar cheio?**
 

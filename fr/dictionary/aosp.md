@@ -24,7 +24,7 @@ Il est utilisé sur les smartphones, les tablettes et les appareils Android spé
 
 Il peut être confondu avec la version d'Android proposée par Google ; la version de Google inclut des services propriétaires ajoutés par-dessus l'AOSP.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Si j'utilise l'AOSP, aurai-je le Play Store ?**
 

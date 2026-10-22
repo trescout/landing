@@ -22,7 +22,7 @@ Kişisel asistanlarda, uzun süreli proje takibi yapan yapay zekâ araçlarında
 
 Context window ile karıştırılabilir; context window kısa süreli hafızadır, memory system ise kalıcı veya uzun süreli hafızadır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hafıza silinebilir mi?**
 

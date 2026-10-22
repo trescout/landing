@@ -37,7 +37,7 @@ Se cree que es un robot programado. Este repite una ruta fija, aquel genera solu
 **Piloto automático:** Mantenimiento de ruta.
 **Paloma mensajera:** Regreso al objetivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿No comete errores?**
 

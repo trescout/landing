@@ -47,7 +47,7 @@ Project management ile karıştırılabilir. Yönetim döngüyü kontrol eder, d
 
 *Bir arabanın tasarım aşamasından fabrikada üretilmesine ve test pistinde denenip bayiye gönderilmesine kadar geçen sürece benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ bu döngüyü nasıl etkiliyor?**
 

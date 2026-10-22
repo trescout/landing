@@ -22,7 +22,7 @@ Sie werden häufig auf Nachrichtenseiten, Blogs und Social-Media-Feeds darauf st
 
 Sie unterscheiden sich von Pop-up-Anzeigen dadurch, dass sie nicht plötzlich geöffnet werden, sondern an einer bestimmten Stelle auf der Seite verbleiben.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie wirken sich dauerhafte Anzeigen auf das Nutzererlebnis aus?**
 

@@ -22,7 +22,7 @@ Es wird auf Finanzmärkten, bei Börsentransaktionen und bei großen Vermögensv
 
 Der Unterschied zum algorithmischen Handel besteht darin, dass künstliche Intelligenz nicht nur Regeln folgt, sondern durch Lernen aus Daten eine eigene Strategie entwickeln kann.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Braucht es keine Menschen?**
 

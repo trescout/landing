@@ -22,7 +22,7 @@ Es wird häufig in Robotersystemen, künstlicher Intelligenz für Spiele und aut
 
 Im Gegensatz zu Bots, die mit standardmäßig programmierten Regeln arbeiten, entwickelt er mit Erfahrung seine eigene Strategie.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Machen diese Einheiten immer alles richtig?**
 

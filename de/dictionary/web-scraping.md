@@ -22,7 +22,7 @@ Preisvergleichsseiten werden verwendet, um Datensätze zu sammeln, die für die 
 
 Es wird mit Web-Crawling verwechselt, aber während Crawling zum Indexieren von Websites verwendet wird, dient Scraping dazu, bestimmte Daten zu extrahieren und sie zu verstehen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann jede Website gescrapt werden?**
 

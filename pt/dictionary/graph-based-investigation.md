@@ -22,7 +22,7 @@ Os dados são inseridos no sistema como 'nó' e 'link'. O software navega nesta 
 
 Não deve ser confundido com uma planilha Excel comum; O que é importante aqui não são os dados em si, mas a relação entre os dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele funciona lentamente em big data?**
 

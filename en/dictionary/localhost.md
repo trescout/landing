@@ -42,7 +42,7 @@ It is thought to be a website. However, localhost is exclusive to your own compu
 **Music:** Sound check before recording.
 **Kitchen:** Tasting before serving.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why do we use localhost?**
 

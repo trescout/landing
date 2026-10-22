@@ -22,7 +22,7 @@ Siber güvenlik operasyonlarında, savunma sanayiinde ve bilgi teknolojileri gü
 
 Sadece siber güvenlik ile karıştırılır, ancak bu terim daha çok 'yapabildiklerimiz' kısmına odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu yetenekler sadece saldırı için mi?**
 

@@ -52,7 +52,7 @@ Dans l'architecture logicielle moderne, pour surmonter ce problème, les fonctio
 
 Dans le domaine du développement de jeux et de l'intelligence artificielle, l'« Utility AI » est un modèle mathématique utilisé dans les mécanismes de prise de décision. Au lieu de machines à états finis (FSM) classiques ou d'arbres de comportement (Behavior Trees), un score d'utilité est attribué à chaque action possible en fonction des paramètres de l'état actuel, et le personnage choisit l'action qui offre l'utilité la plus élevée.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie « Utilities » et quelle est sa traduction en turc ?**
 

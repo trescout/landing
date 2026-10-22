@@ -22,7 +22,7 @@ It is used when developing websites, coding mobile applications, or preparing da
 
 It is frequently confused with the production environment: While the development environment is the kitchen where we just write and test code, the production environment is the restaurant where the food is served to the customer.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can't code be written without a development environment?**
 

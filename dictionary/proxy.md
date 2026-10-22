@@ -41,7 +41,7 @@ VPN sanılır. VPN tüm cihazı tünele sokar, proxy genellikle uygulama veya ta
 
 *Mesajı doğrudan değil, arkadaşınız üzerinden iletmeniz gibidir; alıcı sizi değil aracıyı görür.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Güvenli mi?**
 

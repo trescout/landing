@@ -22,7 +22,7 @@ Ele é usado em quase todos os lugares, desde informações de usuários em site
 
 Às vezes é confundido apenas com armazenamento de arquivos, mas um banco de dados não apenas armazena informações, mas também as gerencia.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o banco de dados é importante?**
 

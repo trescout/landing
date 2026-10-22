@@ -22,7 +22,7 @@ In system programming, it actively works during the compilation phase for Rust p
 
 It is different from normal debuggers; it works while the code is being written and compiled, not while the program is running.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it so strict?**
 

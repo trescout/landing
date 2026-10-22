@@ -18,7 +18,7 @@ Le système analyse les réponses de l'élève et le temps passé. Si une erreur
 
 Il est utilisé dans les applications d’apprentissage des langues, les plateformes d’éducation en ligne et les logiciels de support scolaire.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que cela remplace complètement le professeur ?**
 

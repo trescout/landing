@@ -43,7 +43,6 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Computer Vision Library](https://trescout.com/de/dictionary/computer-vision-library/)
 - [Computer Vision](https://trescout.com/de/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/de/dictionary/cv/)
 - [Machine Learning](https://trescout.com/de/dictionary/machine-learning/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

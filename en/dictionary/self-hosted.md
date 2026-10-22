@@ -49,7 +49,7 @@ Freedom brings responsibility. There is no cloud company behind you to open a su
 Store these copies in 2 different physical media (for example, internal disk and external USB).
 - Host at least 1 of the copies in a different physical location (encrypted remote server or external storage) against fire and theft.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is self-hosted and what does it mean in Turkish?**
 

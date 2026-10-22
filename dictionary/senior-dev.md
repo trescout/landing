@@ -18,7 +18,7 @@ Geliştiriciler yıllar içinde farklı projelerde hata yaparak, yeni teknolojil
 
 Yazılım geliştirme ekiplerinde, teknoloji şirketlerinde ve büyük ölçekli dijital dönüşüm projelerinde lider pozisyonlarda görev yaparlar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her çok kod yazan kişi senior dev olabilir mi?**
 

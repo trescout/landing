@@ -22,7 +22,7 @@ Se utiliza en chatbots que necesitan responder rápidamente y en procesos de tom
 
 No debe confundirse con un proceso de razonamiento consciente; es sólo una velocidad estadística.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede el instinto de la inteligencia artificial cometer errores?**
 

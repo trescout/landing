@@ -22,7 +22,7 @@ Es befindet sich zentral in den Domänennameneinstellungen und den Infrastruktur
 
 Es kann mit Hosting verwechselt werden; Beim Hosting werden die Dateien Ihrer Site gespeichert, und der Nameserver ist der Pfad dorthin.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bewirkt das Ändern der Nameserver-Einstellungen?**
 

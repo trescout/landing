@@ -22,7 +22,7 @@ Es wird in virtuellen Assistenten, Kundendienst-Bots und interaktiven Schulungst
 
 Nicht zu verwechseln mit standardmäßigen „Text-to-Speech“-Systemen; sie bleiben mechanischer.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum heißt es „Frontier“?**
 

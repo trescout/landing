@@ -22,7 +22,7 @@ Il est utilisé dans presque tous les langages de programmation et développemen
 
 Il peut être confondu avec Framework ou SDK, mais les bibliothèques principales font référence aux fonctionnalités de base et les frameworks font référence à un squelette d'application plus large.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les bibliothèques principales sont-elles importantes ?**
 

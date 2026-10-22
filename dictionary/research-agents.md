@@ -22,7 +22,7 @@ Akademik araştırmalarda, pazar analizlerinde veya karmaşık bir konuyu hızl�
 
 Basit arama motoru sorgularıyla karıştırılmamalıdır; ajanlar aktif olarak veriyi işler ve sentezler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hangi yapay zekâları kullanırlar?**
 

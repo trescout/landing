@@ -32,7 +32,7 @@ Diese Autonomie bringt jedoch enorme Sicherheits- und ethische Verantwortungen m
 - Gewährung übermäßiger Autorisierung: Die Erteilung unkontrollierter Autorisierungen für Aktionen wie das Löschen von Datenbanken oder Finanztransfers stellt eine Sicherheitslücke dar; Es sollten Lesebeschränkungen eingeführt werden.
 - Verwendung von Agenten in einfachen Aufgaben: Die Einrichtung unnötiger Agentencluster in Aufgaben, die mit einer einzigen Eingabeaufforderung erledigt werden können, erhöht die Kosten und die Verzögerung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist der Hauptunterschied zwischen Agentic AI und einem gewöhnlichen KI-Chatbot?**
 

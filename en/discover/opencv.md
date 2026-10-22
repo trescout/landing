@@ -43,7 +43,6 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Computer Vision Library](https://trescout.com/en/dictionary/computer-vision-library/)
 - [Computer Vision](https://trescout.com/en/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/en/dictionary/cv/)
 - [Machine Learning](https://trescout.com/en/dictionary/machine-learning/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

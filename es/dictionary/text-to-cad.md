@@ -24,7 +24,7 @@ Se utiliza en diseño industrial, desarrollo de juegos, impresión 3D y proyecto
 
 No debe confundirse con los generadores de imágenes; simplemente hacen dibujos, esto produce datos de ingeniería.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se pueden utilizar los modelos producidos directamente en la impresora 3D?**
 

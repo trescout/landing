@@ -22,7 +22,7 @@ Eles aparecem nas lojas de aplicativos de smartphones, em softwares de nível de
 
 Aplicativos baseados na web ou aplicativos híbridos usam uma camada intermediária, como um navegador, para se comunicar com o dispositivo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Um aplicativo nativo é sempre melhor?**
 

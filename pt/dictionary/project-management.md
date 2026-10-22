@@ -40,7 +40,7 @@ A parte do "porque" na frase lembra o motivo da tarefa ser feita e serve como á
 **Orquestra:** O programa que organiza os ensaios de acordo com o dia do concerto.
 **Canteiro de obras:** O plano de campo que organiza a ordem do guindaste e do concreto.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que os desenvolvedores de software usam isso?**
 

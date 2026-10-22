@@ -22,7 +22,7 @@ Se utiliza en aplicaciones empresariales de inteligencia artificial, bots de ser
 
 Se confunde con herramientas generales de ciberseguridad; Sin embargo, estas herramientas se centran específicamente en la lógica de funcionamiento de los modelos de inteligencia artificial.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Proporciona una protección del cien por cien?**
 

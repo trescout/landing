@@ -24,7 +24,7 @@ Il est utilisé dans la gestion de serveurs, les processus de distribution de lo
 
 Il peut être confondu avec un simple « script » ou un « shell » ; les agents ont la capacité de prendre des décisions basées sur les résultats.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce sécuritaire?**
 

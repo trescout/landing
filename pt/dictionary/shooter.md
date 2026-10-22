@@ -22,7 +22,7 @@ Você o encontra frequentemente em organizações de e-sports, plataformas multi
 
 Pode ser confundido com jogos de ação e aventura. Os jogos de ação em geral podem focar na resolução de quebra-cabeças ou combate corpo a corpo, mas a mecânica principal do gênero shooter é mirar e atirar.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é a principal diferença entre os shooters FPS e TPS?**
 

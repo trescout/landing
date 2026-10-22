@@ -47,7 +47,7 @@ Se cree que es una prueba manual. Sin embargo, la línea es completamente autom�
 **Línea de montaje:** Pieza, inspección y paquete.
 **Banda de equipaje:** Registro, navegación y carga.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es tan importante?**
 

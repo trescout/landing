@@ -22,7 +22,7 @@ Tüm yapay zekâ sistemlerinizi aynı veritabanına veya hafıza API'sine bağla
 
 Veritabanı ile karıştırılabilir, ancak buradaki yapı sadece veri değil, deneyim ve bağlam da içerir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden merkezi olmalı?**
 

@@ -22,7 +22,7 @@ Ele é usado em aplicativos empresariais de inteligência artificial, bots de at
 
 É confundido com ferramentas gerais de segurança cibernética; No entanto, estas ferramentas concentram-se especificamente na lógica de funcionamento dos modelos de inteligência artificial.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Fornece cem por cento de proteção?**
 

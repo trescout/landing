@@ -22,7 +22,7 @@ Dans les fichiers des grands modèles de langage, c'est-à-dire les LLM, qui peu
 
 On les confond souvent avec l'architecture du modèle. L'architecture est comme le plan des pièces d'un bâtiment vide, tandis que les poids sont les meubles placés à l'intérieur de ces pièces qui rendent le bâtiment habitable.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pouvons-nous modifier manuellement ces valeurs numériques ?**
 

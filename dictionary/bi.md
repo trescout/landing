@@ -46,7 +46,7 @@ Veri analitiği sanılır. Analitik soru sorar, BI düzenli cevap verir. Biri ke
 
 *Mutfaktaki binlerce malzemeden müşteriye sunulacak menü çıkaran usta şef gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **BI neden önemlidir?**
 

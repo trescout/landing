@@ -47,7 +47,7 @@ Confondu avec un test unitaires. L'un regarde cette pièce, l'autre regarde l'en
 **Répétition :** Répétition générale.
 **Final :** Répétition générale (avant diffusion).
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi ne fait-on pas seulement cela ?**
 

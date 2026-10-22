@@ -22,7 +22,7 @@ Abra o aplicativo de terminal em seu computador. Digite os comandos que executam
 
 É igual ao conceito de CLI (Command Line Interface); o controle do terminal refere-se ao processo de uso ativo desta interface.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que nem todo mundo usa terminal?**
 

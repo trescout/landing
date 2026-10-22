@@ -43,7 +43,7 @@ Regra: Executar o código é a primeira etapa, ler o código é a segunda etapa.
 **Prateleiras:** Classificado por gênero e autor.
 **Jardim:** Arranjo de galhos podados.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Não é suficiente trabalhar?**
 

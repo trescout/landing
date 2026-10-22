@@ -22,7 +22,7 @@ Se utiliza en bases de datos corporativas, servidores de archivos grandes y sist
 
 No debe confundirse con la copia de seguridad completa; una copia de seguridad completa copia todo cada vez.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es difícil a la hora de restaurar?**
 

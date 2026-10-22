@@ -22,7 +22,7 @@ Il est fréquemment utilisé, notamment pour exécuter chaque onglet comme un pr
 
 Il est souvent confondu avec le concept de multi-threading. Alors que dans la méthode multi-threading les tâches sont exécutées par des threads légers qui partagent le même espace mémoire, dans la méthode multi-processus chaque tâche possède son propre espace mémoire totalement isolé.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'utilisation du multi-processus sollicite-t-elle beaucoup l'ordinateur ?**
 

@@ -24,7 +24,7 @@ They are used in cryptocurrency markets, decentralized finance (DeFi) projects, 
 
 They can be confused with centralized exchanges (CEX).
 
-## Frequently asked questions
+## Questions and answers
 
 **Do I need to trust someone when using DEXs?**
 

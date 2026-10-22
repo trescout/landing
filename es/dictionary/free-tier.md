@@ -44,7 +44,7 @@ Se considera software libre. Está completamente claro, es parte del modelo de n
 **Prueba de manejo:** Visita a la galería.
 **Biblioteca:** Membresía gratuita.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Ilimitado?**
 

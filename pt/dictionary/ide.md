@@ -24,7 +24,7 @@ Normalmente, quando você abre um projeto de software, o IDE analisa automaticam
 
 Difere dos editores de texto simples que servem apenas para escrever código pela riqueza do conjunto de ferramentas que oferece e pela capacidade de gerenciar todo o projeto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Tenho que usar IDE?**
 

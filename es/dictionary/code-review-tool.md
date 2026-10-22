@@ -22,7 +22,7 @@ Se utiliza en los procesos de desarrollo de software, especialmente en proyectos
 
 A veces se confunde la herramienta de revisión de código con los 'Asistentes de codificación por IA' que ayudan a escribir código; mientras que los asistentes le ayudan a escribir el código, las herramientas de revisión auditan lo que ya se ha escrito.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede una herramienta de revisión de código reemplazar a un editor humano?**
 

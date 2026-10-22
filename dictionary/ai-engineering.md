@@ -45,7 +45,7 @@ Veri bilimi ile karıştırılır. Veri bilimci veriden anlam çıkarır, yapay 
 
 *Bilim insanı laboratuvarda yeni bir ilaç formülü bulur, yapay zekâ mühendisi ise o ilacı fabrikada seri üretime geçirip eczanelere ulaştırır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **AI mühendisi olmak için kod bilmek şart mı?**
 

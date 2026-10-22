@@ -44,7 +44,7 @@ Aqui está um pequeno exemplo, uma declaração típica de plugin:
 **Produção:** Processadores de alimentos que podem ter diferentes acessórios ligados ao mesmo corpo.
 **Jogo:** Comunidades mod que adicionam novos mapas e missões sem alterar o jogo principal.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Todo software é extensível?**
 

@@ -22,7 +22,7 @@ On le rencontre fréquemment dans les amplificateurs de signal Wi-Fi, les protoc
 
 Bien que similaire au proxy, le relais représente généralement la transmission au niveau de la couche physique ou réseau.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne nous connectons-nous pas directement ?**
 

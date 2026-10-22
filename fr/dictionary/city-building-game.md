@@ -22,7 +22,7 @@ Il est utilisé dans des jeux vidéo tels que SimCity et Cities: Skylines, dans 
 
 Il peut être confondu avec les jeux de guerre générale ou de stratégie en temps réel : dans les jeux de construction de ville, l'objectif principal n'est pas de vaincre l'ennemi, mais de rendre une infrastructure complexe et un cycle de vie durables.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ces jeux sont-ils difficiles du point de vue logiciel ?**
 

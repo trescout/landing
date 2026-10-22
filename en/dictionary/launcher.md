@@ -22,7 +22,7 @@ It is frequently used on the home screens of smartphones, and in tools like Spot
 
 It is often confused with the operating system's own application menu, but launchers are much faster and keyboard-oriented.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does using a launcher speed up the computer?**
 

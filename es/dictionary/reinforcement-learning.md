@@ -22,7 +22,7 @@ Se utiliza en juegos de inteligencia artificial, control de movimiento robótico
 
 Puede confundirse con el aprendizaje supervisado; En este caso se da la respuesta correcta, en este caso solo se premia el resultado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué lleva tanto tiempo?**
 

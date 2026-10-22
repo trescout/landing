@@ -22,7 +22,7 @@ Usuários maliciosos contornam o firewall fornecendo cenários de simulação de
 
 É muito semelhante ao conceito de injeção imediata, mas a injeção imediata visa vazar instruções secretas diretamente no sistema, enquanto o jailbreak se concentra diretamente em quebrar as regras morais e de segurança básicas do modelo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O jailbreak é legal?**
 

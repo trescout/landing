@@ -24,7 +24,7 @@ Es wird bei großen Softwareprojekten, Teamarbeit und schneller Prototypenentwic
 
 Kann mit IDE gemischt werden; Während sich IDE mehr auf das Schreiben von Code konzentriert, deckt ADE den gesamten Entwicklungsprozess ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist die Verwendung von ADE obligatorisch?**
 

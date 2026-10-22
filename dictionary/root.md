@@ -22,7 +22,7 @@ Linux tabanlı sistemlerde ve Android cihazların özelleştirilmesinde sıkça 
 
 Yönetici (admin) hesabı ile benzerdir ancak root genellikle sistemin en derinindeki yetkileri ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden herkes root kullanmıyor?**
 

@@ -22,7 +22,7 @@ Es findet sich in Smartphones, Laptops und vorinstallierten Softwarepaketen.
 
 Nicht zu verwechseln mit erforderlichen Systemanwendungen; Bloatware ist Software, die nicht optional ist und Ineffizienz verursacht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie werde ich Bloatware los?**
 

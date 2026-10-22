@@ -22,7 +22,7 @@ Sensörlerden gelen verileri alır, mevcut durumu hedeflenen durumla kıyaslar v
 
 Sadece bir GPS cihazı değildir; aktif olarak karar verip aracı yönetir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hata yaparsa ne olur?**
 

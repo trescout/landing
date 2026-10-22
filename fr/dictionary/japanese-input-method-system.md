@@ -24,7 +24,7 @@ Il est utilisé dans les systèmes d’exploitation des ordinateurs et des tél�
 
 Peut être mélangé avec le moteur de conversion Neural Kana-Kanji ; IME est le système global, tandis que le moteur de conversion est la partie convertisseur intelligent qu'il contient.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Puis-je taper en japonais sans IME ?**
 

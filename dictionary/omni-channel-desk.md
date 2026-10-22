@@ -22,7 +22,7 @@ E-ticaret sitelerinde, büyük şirketlerin müşteri destek birimlerinde ve hiz
 
 Çoklu kanal (multi-channel) ile karıştırılabilir; omni-channel tüm kanalların birbiriyle konuştuğu bir yapıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ burada ne yapar?**
 

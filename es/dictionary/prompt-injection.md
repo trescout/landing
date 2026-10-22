@@ -22,7 +22,7 @@ Aparece como una vulnerabilidad de seguridad en los chatbots, en la atención al
 
 Es diferente de los métodos clásicos de piratería informática porque aquí no se utilizan códigos de computadora, sino enteramente lenguaje cotidiano y juegos de palabras.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Funciona la inyección de prompts en todos los modelos de inteligencia artificial?**
 

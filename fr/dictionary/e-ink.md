@@ -24,7 +24,7 @@ Il est fréquemment utilisé dans les liseuses électroniques, les étiquettes d
 
 Il est souvent confondu avec les écrans LCD ou OLED ; ces derniers émettent de la lumière en continu et consomment de l'énergie, tandis que l'E-ink ne consomme de l'énergie qu'au moment du changement d'affichage.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les écrans E-ink ne sont-ils pas en couleur ?**
 

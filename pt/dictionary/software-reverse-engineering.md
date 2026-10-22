@@ -22,7 +22,7 @@ Usando ferramentas de análise especializadas (desmontadores/descompiladores), o
 
 Não deve ser confundido com a escrita de código; aqui, o objetivo não é produzir, mas sim decifrar o que já existe.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso é legal?**
 

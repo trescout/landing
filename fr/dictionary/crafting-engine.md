@@ -18,7 +18,7 @@ Le système scanne les recettes prédéfinies et les données d'inventaire. Lors
 
 Il est généralement utilisé dans les jeux de survie, les jeux de rôle et certaines simulations de production.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le moteur de fabrication n'existe-t-il que dans les jeux ?**
 

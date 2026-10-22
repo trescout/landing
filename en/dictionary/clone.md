@@ -39,7 +39,7 @@ A fork creates a copy on the server side. A clone downloads that copy or the ori
 **Media:** Spare costumes to work on while the original remains.
 **Virtualization:** Producing a new machine from a ready-made mold.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Can I change the project after cloning?**
 

@@ -22,7 +22,7 @@ Se utiliza para el seguimiento de usuarios en sitios web, aplicaciones móviles 
 
 Se puede confundir con un nombre de usuario, pero se trata de una estructura más técnica y general que permite que el sistema te reconozca.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué obtengo una identificación diferente para cada sistema?**
 

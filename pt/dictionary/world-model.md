@@ -22,7 +22,7 @@ O sistema observa constantemente dados de vídeo ou sensores do mundo físico. A
 
 Não deve ser confundido apenas com um banco de dados ou um algoritmo de previsão simples porque existe aqui uma capacidade de simulação.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o modelo mundial é importante?**
 

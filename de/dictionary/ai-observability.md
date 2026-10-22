@@ -22,7 +22,7 @@ Es wird in Anwendungen der künstlichen Intelligenz in der Produktion und in kri
 
 Es wird mit Überwachung verwechselt; Bei der Überwachung geht es nur um die Frage: „Funktioniert es?“ Observability fragt: „Warum funktioniert das so?“ konzentriert sich auf die Frage.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist das nötig?**
 

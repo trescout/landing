@@ -36,7 +36,7 @@ Les étapes d'ingénierie fondamentales derrière les systèmes de parole à par
 - Assistants à interaction émotionnelle : des assistants qui ne se contentent pas de recevoir des commandes, mais qui perçoivent la tristesse, l'agitation ou la joie dans la voix de l'utilisateur pour lui répondre sur un ton bienveillant ou énergique adapté.
 - Doublage et production multimédia : adaptation automatique des voix et de la synchronisation labiale des acteurs vers d'autres langues, sans altération de l'émotion ou du ton original.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie Speech-to-Speech et comment fonctionne-t-il ?**
 
@@ -56,7 +56,7 @@ La technologie de clonage vocal réaliste comporte des risques d'usurpation d'id
 
 ## Termes liés
 
-- [STT](https://trescout.com/fr/dictionary/stt/)
+- [STT](https://trescout.com/fr/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/fr/dictionary/speech-to-text/)
 - [Voice Cloning](https://trescout.com/fr/dictionary/voice-cloning/)
 - [Whisper](https://trescout.com/fr/dictionary/whisper/)

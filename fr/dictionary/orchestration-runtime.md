@@ -22,7 +22,7 @@ Il est utilisé dans les applications d’intelligence artificielle à plusieurs
 
 Il diffère d’un modèle d’IA autonome, où l’accent est mis sur la gestion de plusieurs parties.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le runtime d’orchestration est-il nécessaire ?**
 

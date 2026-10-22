@@ -2,16 +2,16 @@
 
 Unciv ist eine Open-Source-, minimalistische und plattformübergreifende Desktop- und Android-Adaption von Civilization V. Das Projekt wurde mit Kotlin- und LibGDX-Infrastruktur entwickelt und bietet originale 4X-Strategiemechaniken ohne Hardwarelast und hohe Mod-Unterstützung.
 
-- ★ 11.464
+- ★ 11.477
 - Kotlin
 - GitHub Trending · 2026-06-18
 
 ## Aktualisierungen
 
+- **22. Oktober 2026:** Sterne 11,464 → 11,477, neueste Version 4.22.13 (21. Oktober 2026).
 - **19. Oktober 2026:** Sterne 11,458 → 11,464, neueste Version 4.22.12 (18. Oktober 2026).
 - **18. Oktober 2026:** Sterne 11,452 → 11,458, neueste Version 4.22.11-patch1 (17. Oktober 2026).
 - **17. Oktober 2026:** Sterne 11,433 → 11,452, neueste Version 4.22.11 (16. Oktober 2026).
-- **13. Oktober 2026:** Sterne 11,429 → 11,433, neueste Version 4.22.10 (13. Oktober 2026).
 
 ## Was es bringt
 
@@ -66,6 +66,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Exploit](https://trescout.com/de/dictionary/exploit/)
 - [Runtime](https://trescout.com/de/dictionary/runtime/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

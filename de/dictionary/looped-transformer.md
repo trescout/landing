@@ -22,7 +22,7 @@ Wird bei Geräten mit geringen Ressourcen oder in mobilen KI-Anwendungen bevorzu
 
 Kann mit der Standard-Transformer-Architektur verwechselt werden, jedoch ist die Anzahl der Schichten hier physisch geringer.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Läuft es langsamer?**
 

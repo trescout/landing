@@ -24,7 +24,7 @@ Ele é usado para gerar imagens e áudio com ferramentas generativas de IA, inic
 
 Não deve ser confundido com chaves criptográficas. O valor inicial não é uma senha de segurança, mas apenas um ponto de partida que torna a sequência de números previsível.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Se eu inserir o mesmo valor inicial, obterei definitivamente a mesma imagem?**
 

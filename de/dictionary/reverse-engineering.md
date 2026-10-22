@@ -22,7 +22,7 @@ In der Cybersicherheit greift man häufig darauf zurück, um die Funktionsweise 
 
 Es wird oft mit dem Begriff "Software Reverse Engineering" verwechselt, der speziell für die Welt der Software gilt. Reverse Engineering ist ein viel allgemeinerer Dachbegriff, der auch physische Maschinen und Hardware umfasst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist Reverse Engineering legal?**
 

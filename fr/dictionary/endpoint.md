@@ -41,7 +41,7 @@ On pense qu'il s'agit d'un serveur. Le serveur est le centre, le point final est
 **Arrêt:** Le dernier point de la ligne.
 **Numéro de porte :** L'adresse de l'appartement.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi la sécurité est-elle importante ?**
 

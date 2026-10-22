@@ -22,7 +22,7 @@ It is used in training artificial intelligence models, big data analysis, salary
 
 Can be confused with real-time processing; While real-time processing reacts immediately, batch processing waits.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we bulk process?**
 

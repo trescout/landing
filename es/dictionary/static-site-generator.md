@@ -22,7 +22,7 @@ Con frecuencia se prefiere en blogs, sitios de documentación y portafolios pers
 
 Se mezcla con CMS (Sistema de gestión de contenidos); CMS utiliza una base de datos, mientras que esta herramienta solo produce archivos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo actualizo mi sitio?**
 

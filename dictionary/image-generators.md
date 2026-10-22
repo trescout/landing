@@ -22,7 +22,7 @@ Sanat çalışmalarında, reklam sektöründe, oyun tasarımında ve sosyal medy
 
 Fotoğraf düzenleme programlarından farklıdır, çünkü mevcut bir fotoğrafı iyileştirmez, tamamen yoktan var eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu araçlar her istediğimiz yazıyı kusursuz çizer mi?**
 

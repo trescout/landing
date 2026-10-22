@@ -22,7 +22,7 @@ It is used in assistants that can answer questions and answers via images, video
 
 It is confused with text-only models; The perception of multimodal models is much broader.
 
-## Frequently asked questions
+## Questions and answers
 
 **Are multimodal models smarter?**
 

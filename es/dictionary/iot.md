@@ -24,7 +24,7 @@ Se utiliza en sistemas de hogares inteligentes, seguimiento de líneas de produc
 
 La domótica (automatización del hogar) es solo un área de aplicación de la tecnología IoT a escala doméstica; mientras que IoT es el paraguas general que abarca todas las redes de dispositivos, desde fábricas hasta la medicina.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es el mayor riesgo para los dispositivos IoT?**
 

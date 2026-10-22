@@ -41,7 +41,7 @@ Kural: Kayıtlı işiniz varken geçmeyin, önce commit yapın veya saklayın.
 
 *Kütüphanedeki kitabı ödünç alıp masanıza getirerek sayfaları tek tek okumaya başlamak gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Sadece dosyaları mı indirir?**
 

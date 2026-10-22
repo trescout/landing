@@ -22,7 +22,7 @@ O tráfego de entrada chega a esse servidor intermediário. A ferramenta analisa
 
 Pode ser confundido com um proxy normal; O proxy normal oculta o usuário, o proxy reverso oculta e protege o servidor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não nos conectamos diretamente ao servidor?**
 

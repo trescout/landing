@@ -22,7 +22,7 @@ Yapay zekâ ajan platformlarında ve otomasyon araçlarında sıkça kullanılı
 
 Genel zeka ile karıştırılabilir; beceri, ajanın spesifik bir işi yapabilme aracıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ajanlar yeni becerileri nasıl öğrenir?**
 

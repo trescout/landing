@@ -22,7 +22,7 @@ Es wird in digitalen Bibliotheken, staatlichen Archiven, Museumsdatenbanken und 
 
 Es wird oft mit einem einfachen Backup-Vorgang verwechselt. Ein Backup bedeutet, Daten in ihrem heutigen Zustand zu kopieren; dieser Prozess hingegen plant, wie diese Daten selbst auf Computern in 50 Jahren noch geöffnet werden können.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie kann ich das zu Hause für meine eigenen Fotos anwenden?**
 
@@ -36,7 +36,7 @@ Cloud-Speicher ist ein gutes Hilfsmittel, aber es ist wichtig, nicht von einem e
 
 - [Backup Program](https://trescout.com/de/dictionary/backup-program/)
 - [Incremental Backup](https://trescout.com/de/dictionary/incremental-backup/)
-- [Personal Knowledge Management](https://trescout.com/de/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/de/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/de/dictionary/personal-knowledge-management/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/digital-preservation/)

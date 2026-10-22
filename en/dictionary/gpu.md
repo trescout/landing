@@ -24,7 +24,7 @@ It is used when training artificial intelligence models, processing large data s
 
 It is confused with the CPU; The CPU is great for general tasks, while the GPU is specialized only for huge mathematical loads.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is GPU essential for artificial intelligence?**
 

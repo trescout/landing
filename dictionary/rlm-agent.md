@@ -24,7 +24,7 @@ Oyun oynayan sistemlerde, robotik hareket kontrolünde ve karmaşık stratejik k
 
 Klasik yazılım kuralları ile karıştırılabilir; bu sistemler önceden yazılmış kuralları değil, tecrübeyi takip eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **RLM agent her zaman doğruyu mu bulur?**
 

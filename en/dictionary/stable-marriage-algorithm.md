@@ -18,7 +18,7 @@ It begins with everyone in the groups ranking the candidates belonging to the ot
 
 It is used in organ donation matchings, university quota placements, and recruitment processes to bring together candidates and positions in the most suitable way.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it yield a perfect result for everyone?**
 

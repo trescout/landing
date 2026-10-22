@@ -22,7 +22,7 @@ Engenheiros; Eles tomam decisões como seleção de banco de dados, posicionamen
 
 É confundido com codificação; Codificação é obra de construção, design de sistema é projeto arquitetônico.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É necessário para todos os projetos?**
 

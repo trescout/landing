@@ -44,7 +44,7 @@ Web dilleri sanılır. Onlar arayüzle ilgilenir, bunlar donanımla. Biri vitrin
 
 *Kaportayı boyamak yerine motor ve şanzımanla uğraşmaya benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Hangileri girer?**
 

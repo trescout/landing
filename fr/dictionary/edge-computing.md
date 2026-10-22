@@ -22,7 +22,7 @@ Il est utilisé dans les appareils domestiques intelligents, les véhicules auto
 
 On le confond avec le cloud computing ; le cloud est central, la périphérie est locale.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne pas tout envoyer dans le cloud ?**
 

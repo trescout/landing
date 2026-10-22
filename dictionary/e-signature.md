@@ -24,7 +24,7 @@ Sözleşmelerde, bankacılık işlemlerinde ve resmi yazışmalarda kullanılır
 
 Sadece isminizi bir resim dosyası olarak belgenin üzerine yapıştırmak e-imza değildir; arkasında yasal bir doğrulama süreci olmalıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Fiziksel imzadan farkı nedir?**
 

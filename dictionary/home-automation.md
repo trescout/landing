@@ -44,7 +44,7 @@ Ev, insanın en mahrem sığınağıdır; bu sığınağın internete bağlanmas
 - **Uzaktan Kumanda vs Otomasyon:** Telefondaki bir tuşa basarak aydınlatmayı açmak otomasyon değildir; sistemin çevresel sensör verilerini yorumlayıp kararı kendi kendine alması otomasyondur.
 - **Bulut Bağımlı vs Yerel Kontrol:** Bulut tabanlı cihazlar internet kesildiğinde işlevsiz kalabilir ve üretici şirket kapandığında çöp olabilir; yerel kontrollü (Matter/Zigbee/Home Assistant) sistemler internetten bağımsız sonsuza kadar çalışır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Home automation ne demek ve Türkçe karşılığı nedir?**
 

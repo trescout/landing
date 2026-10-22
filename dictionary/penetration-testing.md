@@ -22,7 +22,7 @@ Uzmanlar önce sistemin haritasını çıkarır, ardından zayıf noktaları bel
 
 Gerçek siber saldırılarla karıştırılabilir; ancak bu süreç tamamen yasal ve kontrollüdür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu test sisteme zarar verir mi?**
 

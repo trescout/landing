@@ -24,7 +24,7 @@ Coğrafi Bilgi Sistemleri, konum tabanlı verileri işlemek için kullanılan te
 
 Sadece Google Haritalar gibi bir navigasyon aracı ile karıştırılmamalıdır; o sadece sonucu gösterir, GIS ise verinin mutfağıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **GIS sadece harita mıdır?**
 

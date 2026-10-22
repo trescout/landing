@@ -22,7 +22,7 @@ A foundation model underlies most modern artificial intelligence applications. F
 
 They are mistaken for just a chatbot; Yet they are the basis for many things, from writing code to image processing.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is the Foundation model alone sufficient?**
 

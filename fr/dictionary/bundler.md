@@ -56,7 +56,7 @@ Les principaux outils qui répondent aux différents besoins de l'écosystème W
 | esconstruire | Allez | Regroupé | esconstruire | Vitesse de construction brute incroyable (10 à 100 fois plus rapide que les outils Node.js) |
 | Turbopack / RSpack | rouille | Bundle / Hybride | Moteur rouillé | Performance pour les projets massifs, compatible avec l'écosystème Webpack |
 
-## Questions fréquentes
+## Questions et réponses
 
 **Qu'est-ce que Bundler et pourquoi est-il essentiel dans le développement Web moderne ?**
 

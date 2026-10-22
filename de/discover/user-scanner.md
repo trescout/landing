@@ -79,7 +79,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Cybersicherheitsforscher, OSINT-Analysten, Experten für Computerforensik und ethische Hacker.
-- **Lizenz:** GPL-3.0 (Açık kaynak copyleft lisansı)
+- **Lizenz:** GPL-3.0 (Open-Source-Copyleft-Lizenz)
 - **Framework:** Asynchroner OSINT-Scanner für Python
 - **Plattformen:** Linux, macOS, Windows
 

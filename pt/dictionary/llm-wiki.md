@@ -22,7 +22,7 @@ O sistema pega a dúvida do usuário e busca informações relevantes nesta bibl
 
 É semelhante ao sistema RAG, mas aqui a ênfase está em manter a informação numa estrutura mais organizada e enciclopédica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o LLM-Wiki é necessário?**
 

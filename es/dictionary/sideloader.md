@@ -22,7 +22,7 @@ Es común verlo en teléfonos Android, en aplicaciones en fase de prueba de desa
 
 Puede confundirse con el sideloading (la acción de cargar).
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es seguro usar Sideloader?**
 

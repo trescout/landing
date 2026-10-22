@@ -22,7 +22,7 @@ Es erscheint in allen Hauptprogrammierbildschirmen, die Sie verwenden, wenn Sie 
 
 Nicht zu verwechseln mit IDE-Tools, bei denen es sich um große Entwicklungsumgebungen handelt, die das gesamte System von Anfang bis Ende kompilieren und in funktionierende Software umwandeln; Der Editor ist fokussierter und leichter.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist der Unterschied zwischen Code-Editor und normalem Notizblock?**
 

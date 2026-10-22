@@ -24,7 +24,7 @@ It is used in server management, software distribution processes and complex sys
 
 It can be confused with a simple 'script' or 'shell' script; agents have the ability to make decisions based on outcomes.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it safe?**
 

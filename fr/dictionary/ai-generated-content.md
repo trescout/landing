@@ -22,7 +22,7 @@ Il est utilisé dans le contenu des réseaux sociaux, les textes publicitaires, 
 
 Il peut être mélangé à du contenu assisté par l’IA ; Ici, la production appartient entièrement à l’intelligence artificielle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **À qui appartiennent les droits d’auteur de ces contenus ?**
 

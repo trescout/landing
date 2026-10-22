@@ -22,7 +22,7 @@ It is used in complex web applications and systems that require state management
 
 It can be confused with state management; State management is the process of managing this data, and the state kernel is the center where the data resides.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if this core fails?**
 

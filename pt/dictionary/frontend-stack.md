@@ -22,7 +22,7 @@ Os desenvolvedores costumam usar linguagens básicas como HTML, CSS e JavaScript
 
 Está misturado com o backend; Enquanto o backend é a parte invisível do motor, o frontend é a vitrine visível.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quais ferramentas entram na pilha de frontend?**
 

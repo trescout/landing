@@ -22,7 +22,7 @@ Güvenlik araştırmalarında, rakip yazılımları analiz etmede veya eski sist
 
 Kod yazmakla karıştırılamaz; burada amaç üretmek değil, mevcut olanı çözmektir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yasal mı?**
 

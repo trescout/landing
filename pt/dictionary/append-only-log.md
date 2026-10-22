@@ -33,7 +33,7 @@ Em sistemas tradicionais, a capacidade de um administrador de banco de dados apa
 - Negligenciar o desempenho de leitura: examinar milhões de linhas de logs (replay) para calcular o status final prejudica o tempo de leitura; Instantâneos regulares de status devem ser obtidos.
 - GDPR Ignorando o Direito ao Esquecimento: Quando as leis de proteção de dados pessoais exigem o direito ao apagamento, a exclusão de dados de logs imutáveis ​​força a arquitetura; Este problema deve ser resolvido pelo método de destruição de criptografia, no qual os dados perdem o sentido com a exclusão da chave de criptografia.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que a arquitetura de log "append-only" é mais rápida do que o modelo de atualização no local (update-in-place)?**
 

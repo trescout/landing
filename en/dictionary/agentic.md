@@ -22,7 +22,7 @@ It is used in autonomous software development tools, personal assistants, and co
 
 It can be confused with ordinary AI models; Casual models just answer the question, agentic models get the job done.
 
-## Frequently asked questions
+## Questions and answers
 
 **Could this be dangerous?**
 

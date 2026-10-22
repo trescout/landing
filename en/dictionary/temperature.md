@@ -22,7 +22,7 @@ Software developers keep the temperature low when printing a technical document 
 
 Not to be confused with the intelligence of the model; It's just a filter that changes the way you respond.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if I raise the temperature too high?**
 

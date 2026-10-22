@@ -22,7 +22,7 @@ It is frequently used in agent-based software development environments, AI orche
 
 It can be confused with the general 'agent workspace' concept: While the workspace refers to the temporary memory and temporary files the agent uses while working, the agents directory is the persistent file directory where the source code and rule definitions of the agents are stored.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can AI agents not work without this folder?**
 

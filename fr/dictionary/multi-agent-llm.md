@@ -22,7 +22,7 @@ Il est utilisé dans les processus de développement de logiciels, l'analyse de 
 
 Contrairement à un modèle unique d’intelligence artificielle, il y a ici un travail d’équipe et une division du travail.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi un seul modèle ne suffit-il pas ?**
 

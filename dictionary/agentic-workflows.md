@@ -22,7 +22,7 @@ Otonom yazılım geliştirme, veri analizi ve karmaşık iş süreçlerinde kull
 
 Standart yapay zekâ kullanımıyla karıştırılabilir; burada yapay zekâ sadece cevap vermez, eylem yapar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **İnsan müdahalesi hiç gerekmiyor mu?**
 

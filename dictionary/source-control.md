@@ -22,7 +22,7 @@ Tüm modern yazılım geliştirme süreçlerinde, özellikle ekip çalışmalar�
 
 Yedekleme ile aynı değildir, çünkü sadece dosyaları değil, değişikliklerin geçmişini de yönetir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden kullanmalıyım?**
 

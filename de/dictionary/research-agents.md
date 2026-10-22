@@ -22,7 +22,7 @@ Sie werden bei akademischen Recherchen, Marktanalysen oder wenn Sie sich schnell
 
 Sie sollten nicht mit einfachen Suchmaschinenanfragen verwechselt werden; Agenten verarbeiten und synthetisieren Daten aktiv.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Welche KIs verwenden sie?**
 

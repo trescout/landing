@@ -22,7 +22,7 @@ Se utiliza en sitios de comercio electrónico, unidades de atención al cliente 
 
 Se puede mezclar con multicanal; Omnicanal es una estructura donde todos los canales hablan entre sí.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué hace la inteligencia artificial aquí?**
 

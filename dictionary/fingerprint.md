@@ -24,7 +24,7 @@ Bankacılık uygulamalarında dolandırıcılık tespiti yaparken, bot saldırı
 
 IP adresi ile karıştırılır; IP adresi modemi yeniden başlattığınızda veya VPN açtığınızda değişirken cihaz parmak izi aynı donanımı kullandığınız sürece büyük oranda sabit kalır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Gizli sekme kullanmak parmak izi takibini engeller mi?**
 

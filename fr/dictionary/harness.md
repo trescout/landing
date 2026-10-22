@@ -44,7 +44,7 @@ On croit qu'il s'agit du logiciel lui-même. Pourtant, le harness n'est pas le c
 **Ceinture de sécurité :** Dispositif de retenue en cas de collision.
 **Entraînement :** Parcours de mesure de performance.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi est-ce nécessaire ?**
 

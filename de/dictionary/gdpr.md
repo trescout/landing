@@ -24,7 +24,7 @@ Sie gilt auf allen digitalen Plattformen, die die Daten von EU-Bürgern verarbei
 
 Es wird lediglich mit einem „Cookie-Hinweis“ verwechselt, es handelt sich hierbei jedoch um ein viel umfassenderes Datensicherheitsgesetz.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie schützt es mich?**
 

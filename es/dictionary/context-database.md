@@ -22,7 +22,7 @@ Se utiliza en asistentes personales de inteligencia artificial, sistemas interno
 
 A menudo se confunde con bases de datos vectoriales; Sin embargo, la base de datos de contexto representa una estrategia más amplia de gestión y acceso a estos datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario esto?**
 

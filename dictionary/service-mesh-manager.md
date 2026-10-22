@@ -42,7 +42,7 @@ Ağ geçidi sanılır. Geçit kapıda durur, manager tüm iç trafiği yönetir.
 
 *Uçak trafiğini yöneten kulenin radar ekranı gibidir; hangi uçağın nerede olduğu buradan izlenir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden manuel yönetilmiyor?**
 

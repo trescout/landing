@@ -42,7 +42,7 @@ Se confunde con la base de datos. La base de datos es persistente y extensa, la 
 **Nevera:** Comida diaria al frente.
 **Despensa:** Stock masivo en segundo plano.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué sucede si el caché se llena?**
 

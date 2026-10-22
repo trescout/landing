@@ -80,7 +80,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [LLM](https://trescout.com/es/dictionary/llm/)
 
 - **Para quién es:** Abogados de patentes, gestores de propiedad intelectual, ingenieros de I+D e inventores.
-- **Licencia:** MIT (Özgür açık kaynak lisansı)
+- **Licencia:** MIT (Licencia de código abierto libre)
 - **Marco:** Capacidad de agente de patentes basado en Python
 - **Plataformas:** Linux, Mac OS, Windows
 

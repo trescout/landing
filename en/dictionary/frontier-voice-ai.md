@@ -22,7 +22,7 @@ It is used in virtual assistants, customer service bots, and interactive trainin
 
 Not to be confused with standard 'Text-to-Speech' systems; they remain more mechanical.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it called 'Frontier'?**
 

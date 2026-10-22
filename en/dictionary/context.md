@@ -47,7 +47,7 @@ A multitasking operating system shares the CPU core among different processes an
 | Operating Systems | Hardware current state of a process | Registers, Program Counter, Page Tables | CPU latency, Cache misses, TLB flush |
 | Software Development | Request lifecycle and environment data | Timeout signal, Authorization token | Memory leak, Asynchronous calls not being canceled |
 
-## Frequently asked questions
+## Questions and answers
 
 **What does context mean, what is its Turkish equivalent?**
 

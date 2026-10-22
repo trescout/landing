@@ -22,7 +22,7 @@ It is widely used in RAG systems, semantic search engines, recommendation system
 
 It expresses the exact same concept as the given existing term vector-database, it is just a different naming.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does a vector store replace a normal database?**
 

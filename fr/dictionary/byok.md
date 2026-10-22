@@ -44,7 +44,7 @@ On pense qu’il s’agit d’un cryptage. Le cryptage est le verrou, BYOK est c
 **Dépôt:** Livraison sous enveloppe scellée.
 **Coffre-fort :** Contenu non bancable.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que se passe-t-il si je perds ?**
 

@@ -22,7 +22,7 @@ Elle intervient dans les rapports de cybersécurité, les processus juridiques d
 
 Il ne s'agit pas seulement de révéler quelque chose, mais d'une action généralement effectuée dans le cadre d'une responsabilité juridique ou éthique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Qu'est-ce que la divulgation responsable ?**
 

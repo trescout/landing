@@ -22,7 +22,7 @@ Il est largement utilisé pour séparer les actions des utilisateurs sur les ser
 
 C’est très proche du concept de sandbox ; cependant, prison est un terme plus traditionnel qui se concentre généralement sur l'isolation du système de fichiers sur les systèmes Unix/Linux (tels que chroot ou prison FreeBSD).
 
-## Questions fréquentes
+## Questions et réponses
 
 **Un programme emprisonné peut-il accéder au système principal ?**
 

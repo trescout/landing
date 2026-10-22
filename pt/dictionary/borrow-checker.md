@@ -22,7 +22,7 @@ Na programação de sistemas, ele opera ativamente durante a fase de compilaçã
 
 É diferente dos depuradores normais; ele não é executado enquanto o programa está rodando, mas sim enquanto o código está sendo escrito e compilado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que ele é tão rigoroso?**
 

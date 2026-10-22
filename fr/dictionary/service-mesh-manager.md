@@ -42,7 +42,7 @@ On le prend pour une passerelle. La passerelle reste à la porte, le gestionnair
 **Centre de trafic :** Réseau de signaux et de caméras.
 **Chef d'orchestre :** Organisation des sections.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi n'est-ce pas géré manuellement ?**
 

@@ -22,7 +22,7 @@ Se utiliza en servidores, aplicaciones web e infraestructuras a gran escala.
 
 Puede confundirse con las herramientas de depuración (debugging); la depuración encuentra el error dentro del código, mientras que la herramienta de monitoreo rastrea la salud general del sistema.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué necesito esto?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans les moteurs de recherche pour obtenir des résultats dont l
 
 On pense souvent qu’il s’agit simplement d’une méthode de traduction, mais il ne s’agit pas d’une traduction mais d’un placement mathématique du sens dans l’espace.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi n'utilisons-nous pas simplement des mots ?**
 

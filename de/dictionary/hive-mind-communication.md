@@ -22,7 +22,7 @@ Es wird in Systemen eingesetzt, in denen Agenten der künstlichen Intelligenz zu
 
 Nicht zu verwechseln mit einer einfachen Messaging-App oder einem Gruppenchat; Dabei werden die Daten automatisch verarbeitet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Macht dieses System alle gleich?**
 

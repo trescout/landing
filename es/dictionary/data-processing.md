@@ -22,7 +22,7 @@ Se utiliza en todas las áreas donde hay datos, como finanzas, salud, entrenamie
 
 Se confunde con el análisis de datos; el procesamiento de datos es la etapa de preparación, mientras que el análisis consiste en interpretar los resultados.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante el procesamiento de datos?**
 

@@ -24,7 +24,7 @@ Os designers observam os usuários, descobrem onde eles têm dificuldades e reor
 
 É confundido com Interface do Usuário (IU); UI é visual, UX é como esse visual interage.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que a UX é importante?**
 

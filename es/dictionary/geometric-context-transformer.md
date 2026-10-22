@@ -22,7 +22,7 @@ Se prefiere en la planificación de movimientos robóticos, la predicción de la
 
 Mientras que la arquitectura de transformadores clásica trata los datos como una secuencia unidimensional o una cuadrícula plana, el geometric context transformer incluye directamente coordenadas espaciales multidimensionales en el cálculo de la atención.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué los modelos de transformadores clásicos son insuficientes?**
 

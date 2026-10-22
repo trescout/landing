@@ -22,7 +22,7 @@ Se encuentran frecuentemente en el trasfondo de sitios web, marcos de desarrollo
 
 Pueden confundirse con los complementos (plugins); mientras que los hooks son más bien un punto de conexión a nivel de código, los complementos ofrecen características de mayor alcance.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no cambiamos directamente el código principal?**
 

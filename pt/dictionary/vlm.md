@@ -45,7 +45,7 @@ Acha-se que é multimodal. Multimodal é o nome da família, VLM é o membro vis
 **Legenda:** Adicionar texto a um filme.
 **Guia:** Explicar obras em um museu.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Qual é a diferença para o modelo clássico?**
 

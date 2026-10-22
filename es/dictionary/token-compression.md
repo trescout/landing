@@ -22,7 +22,7 @@ Se utiliza en modelos de lenguaje grandes, proyectos que requieren ventanas de c
 
 Puede confundirse con Cuantización; Mientras que la cuantificación reduce los pesos del modelo, la compresión de tokens comprime los datos procesados.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿La compresión de tokens reduce la calidad?**
 

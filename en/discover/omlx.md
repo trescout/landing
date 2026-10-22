@@ -95,7 +95,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [RAM](https://trescout.com/en/dictionary/ram/)
 
 - **Who it is for:** Intended for AI developers who want to run large language models (LLMs) at maximum speed and with local privacy on Apple Silicon Macs.
-- **License:** Apache-2.0 (Açık kaynak lisansı)
+- **License:** Apache-2.0 (Open source license)
 - **Framework:** Apple MLX and Python-based local inference engine
 - **Hardware:** Apple Silicon M1, M2, M3, M4 series (Pro, Max, Ultra supported)
 

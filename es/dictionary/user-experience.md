@@ -24,7 +24,7 @@ Es fundamental en los procesos de diseño de sitios web, aplicaciones móviles, 
 
 Se confunde con la Interfaz de Usuario (UI); La interfaz de usuario es visual, la UX es cómo interactúa ese elemento visual.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante la UX?**
 

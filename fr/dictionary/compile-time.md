@@ -22,7 +22,7 @@ Il fait partie intégrante du processus de développement logiciel dans des lang
 
 Il est mélangé au runtime ; Le moment de la compilation est la phase de recherche d'erreurs, le moment de l'exécution peut être la phase de détection d'erreurs.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les erreurs de compilation sont-elles importantes ?**
 

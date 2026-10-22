@@ -22,7 +22,7 @@ Es ist in Reise-Apps, Event-Plattformen oder persönlichen digitalen Assistenten
 
 Es kann mit einer einfachen Suchmaschine verwechselt werden, aber dieser Assistent hat die Fähigkeit, den Vorgang „abzuschließen“.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es sicher?**
 

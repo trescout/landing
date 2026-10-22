@@ -40,7 +40,7 @@ Die Ausnahme von der Regel ist ebenfalls eine Regel: Im Prototyp steht Geschwind
 **Luftfahrt:** Checkliste vor dem Abflug.
 **Verkehr:** Spur- und Signalordnung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es zwingend erforderlich, diese einzuhalten?**
 

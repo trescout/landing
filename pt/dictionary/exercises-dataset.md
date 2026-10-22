@@ -22,7 +22,7 @@ Você frequentemente o encontra em plataformas de codificação, aplicativos de 
 
 Pode ser misturado com conjuntos de dados brutos; No entanto, esses conjuntos são focados apenas no aprendizado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que preciso de um conjunto de dados personalizado?**
 

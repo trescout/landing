@@ -47,7 +47,7 @@ In der Welt der Cybersicherheit ist das Konzept eines "Tools" ein zweischneidige
 - Pentest und Analyse: Tools wie Nmap (Port-Scanning), Wireshark (Paketanalyse), Burp Suite (Web-Sicherheitstests) und Metasploit; Während es von Systemadministratoren zum Schließen von Schwachstellen genutzt wird, wird es von Angreifern zum Infiltrieren von Zielnetzwerken genutzt.
 - Die Tools selbst sind neutral; die Nutzungsabsicht und die Autorisierungsgrenzen bestimmen den ethischen Rahmen der Sicherheit.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was bedeutet Tools und was ist die türkische Entsprechung?**
 

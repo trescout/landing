@@ -29,7 +29,7 @@ Na engenharia de software, a palavra “Tempo de execução” refere-se a dois 
 - Deno (2018): Plataforma moderna que combina o motor V8 com a infraestrutura Rust e Tokio, possui TypeScript integrado e sandbox de permissão segura.
 - Bun (2023): É um ambiente de trabalho de nova geração que usa o mecanismo JavaScriptCore do Apple WebKit e é escrito inteiramente do zero na linguagem Zig, oferecendo E/S de arquivo/rede muitas vezes mais rápido que o Node.js.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa tempo de execução, qual é o seu equivalente turco?**
 

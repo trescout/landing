@@ -52,7 +52,7 @@ Modern yazılım mimarisinde bu sorunu aşmak için alana dayalı tasarım (DDD)
 
 Oyun geliştirme ve yapay zekâ alanında "Utility AI", karar verme mekanizmalarında kullanılan matematiksel bir modeldir. Klasik sonlu durum makineleri (FSM) veya davranış ağaçları (Behavior Trees) yerine; her olası eyleme mevcut durum parametrelerine göre bir fayda puanı (utility score) atanır ve karakter en yüksek faydayı sağlayan eylemi seçer.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Utilities ne demek ve Türkçesi nedir?**
 

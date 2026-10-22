@@ -22,7 +22,7 @@ Se prefiere en entornos de prueba de agentes autónomos que pueden ejecutarse si
 
 No debe confundirse con el límite presupuestario flexible (soft budget cap): el límite flexible solo envía un correo electrónico de advertencia y continúa funcionando cuando se acerca o se supera el límite; el límite estricto, en cambio, detiene las operaciones directamente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué ven los usuarios cuando se alcanza el límite presupuestario estricto?**
 

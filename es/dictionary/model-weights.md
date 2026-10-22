@@ -22,7 +22,7 @@ Lo encontrará al compartir modelos de código abierto, dimensionar archivos de 
 
 Se puede confundir con datos sin procesar o código de programa, pero estos son solo coeficientes de experiencia que el modelo ha aprendido.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se pueden cambiar los pesos de los modelos?**
 

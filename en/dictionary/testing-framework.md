@@ -40,7 +40,7 @@ Selection criteria: Language compatibility, community and CI support. The popula
 **Size set:** Caliber instruments.
 **Gym:** Programmed equipment.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Which one should be chosen?**
 

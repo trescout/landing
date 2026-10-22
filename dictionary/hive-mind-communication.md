@@ -22,7 +22,7 @@ Yapay zekâ ajanlarının iş birliği yaptığı sistemlerde, büyük çaplı k
 
 Sadece basit bir mesajlaşma uygulaması veya grup sohbeti ile karıştırılmamalıdır; burada veriler otomatik olarak işlenir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sistem herkesi aynı mı yapar?**
 

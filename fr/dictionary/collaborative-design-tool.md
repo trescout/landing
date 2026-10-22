@@ -22,7 +22,7 @@ Il est utilisé lors de la préparation de prototypes de sites Web, de la concep
 
 Il est confondu avec les programmes de conception graphique classiques : alors que les programmes classiques fonctionnent sur un seul ordinateur et nécessitent le partage de fichiers, les outils collaboratifs se concentrent entièrement sur la collaboration en ligne et simultanée.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je connaître le code pour utiliser ces outils ?**
 

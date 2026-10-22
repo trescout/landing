@@ -48,11 +48,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Speech-to-Text](https://trescout.com/en/dictionary/speech-to-text/)
-- [STT](https://trescout.com/en/dictionary/stt/)
 - [GGUF](https://trescout.com/en/dictionary/gguf/)
 - [Inference](https://trescout.com/en/dictionary/inference/)
 - [CPU](https://trescout.com/en/dictionary/cpu/)
 - [GPU](https://trescout.com/en/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for developers who want to run privacy-focused and fast speech recognition systems on their own hardware.
 - **License:** MIT

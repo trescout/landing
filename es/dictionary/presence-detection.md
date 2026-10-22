@@ -22,7 +22,7 @@ Se utiliza con frecuencia en domóticas inteligentes, sistemas de ahorro de ener
 
 Puede confundirse con sensores de movimiento, pero este sistema puede rastrear no sólo el movimiento sino también la propia entidad.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Este sistema violará mi privacidad?**
 

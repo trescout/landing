@@ -32,7 +32,7 @@ Beyond this, Transformer has become a universal artificial intelligence backbone
 - Confusing Attention Weights with Logical Explanation: A high attention score is not absolute proof of cause and effect, but a statistical weight correlation.
 - Choosing the Wrong Model for the Task: Encoder models should be preferred over massive Decoder models for pure classification or search tasks.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is the biggest advantage of Transformer architecture over RNN and LSTM models?**
 

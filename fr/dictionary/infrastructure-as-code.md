@@ -20,7 +20,7 @@ Des fichiers de code spécifiant la configuration système requise sont créés 
 
 Il est utilisé dans le cloud computing, la gestion de systèmes à grande échelle et la publication continue de logiciels.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi écrivons-nous du code au lieu de l’installer manuellement ?**
 

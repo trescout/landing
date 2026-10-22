@@ -22,7 +22,7 @@ Es wird häufig im Hintergrund bei kontinuierlichen Integrations- und automatisc
 
 Nicht zu verwechseln mit persistenten Anwendungen, die direkt auf dem Live-Server installiert werden; Hierbei handelt es sich häufig um temporäre und aufgabenbasierte Umgebungen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir fertige Bilder?**
 

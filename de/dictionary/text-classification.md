@@ -22,7 +22,7 @@ Es wird häufig zur Spam-Filterung in E-Mail-Diensten, zur Weiterleitung von Anf
 
 Nicht zu verwechseln mit der Textgenerierung: Bei der Textklassifizierung werden Tags auf vorhandenen Text gesetzt, nicht auf neuen Text.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie viele Daten werden für die Textklassifizierung benötigt?**
 

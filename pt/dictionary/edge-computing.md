@@ -22,7 +22,7 @@ Capacidades de processamento local são adicionadas ao dispositivo. Em vez de ir
 
 É confundido com computação em nuvem; a nuvem é central, a borda é local.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não enviamos tudo para a nuvem?**
 

@@ -55,7 +55,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Ferramenta de desenvolvedor médio
 - **O que oferece:** Análise rápida de documentos
 - **Taxa:** Gratuito · código aberto (Apache-2.0)
-- **Licença:** Apache-2.0 · ayrıntı aşağıda
+- **Licença:** Apache-2.0 · detalhe abaixo
 
 **Licença:** Apache-2.0 · você pode usá-lo livremente, modificá-lo, fazer uso comercial (também inclui proteção de patente).
 

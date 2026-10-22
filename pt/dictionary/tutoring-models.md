@@ -22,7 +22,7 @@ Analisa os erros anteriores do aluno e a velocidade de compreensão. Em seguida,
 
 O diferencial dos chatbots que apenas respondem perguntas e respostas é que segue uma estratégia voltada para o ensino.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Pode ensinar todas as matérias?**
 

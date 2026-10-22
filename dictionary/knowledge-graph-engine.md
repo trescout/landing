@@ -22,7 +22,7 @@ Google arama sonuçlarında, öneri sistemlerinde ve karmaşık kurumsal veri an
 
 Standart veritabanları ile karıştırılabilir, ancak burada odak nokta verinin kendisi değil, veriler arasındaki ilişkidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden normal veritabanı yerine bunu kullanayım?**
 

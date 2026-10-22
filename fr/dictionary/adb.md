@@ -45,7 +45,7 @@ On le confond avec le transfert de fichiers. Celui-ci ne fait que copier, alors 
 **Interprète:** La langue des deux parties.
 **Contrôle :** Gestion à distance.
 
-## Foire aux questions
+## Questions et réponses
 
 **Tout le monde peut-il l'utiliser ?**
 

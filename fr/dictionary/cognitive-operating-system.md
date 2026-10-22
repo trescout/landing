@@ -22,7 +22,7 @@ Il est utilisé dans la recherche avancée sur l’intelligence artificielle et 
 
 Peut être confondu avec les systèmes d'exploitation traditionnels ; Ce système n'est pas un logiciel, mais une architecture pensante.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces systèmes peuvent-ils vraiment penser ?**
 

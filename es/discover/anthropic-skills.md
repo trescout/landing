@@ -59,7 +59,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Medio · Añadido como habilidad a Claude
 - **Que ofertas:** Paquetes de habilidades oficiales y listos para usar
 - **Fuente:** Repositorio oficial antrópico
-- **Licencia:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Licencia:** Estándar no detectado · detalle a continuación
 
 **Licencia:** GitHub no detectó una licencia estándar para este repositorio. Aunque Anthropic tiene un repositorio oficial, verifique el archivo de LICENCIA en el repositorio antes de reutilizarlo/distribuirlo.
 

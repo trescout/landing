@@ -31,7 +31,7 @@ En contraste, existe una tensión histórica en el mundo del software entre el m
 - Descripción técnica insuficiente: Omitir los pasos de funcionamiento del sistema provoca que la patente sea declarada inválida en los tribunales.
 - Declaración falsa de inventor: Agregar gerentes sin contribuciones o excluir al ingeniero principal invalida la legitimidad de la patente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuándo se debe realizar la divulgación de patente (patent disclosure)?**
 

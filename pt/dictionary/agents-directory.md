@@ -22,7 +22,7 @@ Os desenvolvedores geralmente criam uma pasta chamada .agents ou agents no diret
 
 Pode ser confundido com o conceito geral de "espaço de trabalho de agentes" (agent workspace): enquanto o espaço de trabalho se refere à memória temporária e aos arquivos temporários que o agente utiliza ao realizar o trabalho, o diretório de agentes é o diretório de arquivos permanente onde o código-fonte e as definições de regras dos agentes são armazenados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os agentes de inteligência artificial não conseguem funcionar sem esta pasta?**
 

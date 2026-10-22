@@ -24,7 +24,7 @@ Se utiliza en teléfonos inteligentes, tabletas y dispositivos Android especiali
 
 Puede confundirse con la versión de Android ofrecida por Google; la versión de Google incluye servicios especiales añadidos sobre AOSP.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Tendré Play Store si uso AOSP?**
 

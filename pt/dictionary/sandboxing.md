@@ -22,7 +22,7 @@ Uma barreira de proteção é estabelecida utilizando restrições ao nível do 
 
 Enquanto o termo sandbox descreve o próprio espaço isolado, o sandboxing refere-se ao processo de criar, gerenciar e restringir este ambiente seguro.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O sandboxing reduz significativamente o desempenho do sistema?**
 

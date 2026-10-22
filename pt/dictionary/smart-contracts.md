@@ -22,7 +22,7 @@ São pedaços de código executados em redes blockchain. As regras especificadas
 
 Pode ser confundido apenas com uma assinatura digital, mas os contratos inteligentes contêm uma lógica de transação.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso pode ser alterado?**
 

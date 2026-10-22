@@ -22,7 +22,7 @@ It is in email filters, recommendation systems, and the basis of artificial inte
 
 Artificial intelligence is a broader concept, while machine learning is a method used to create this intelligence.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can he learn everything?**
 

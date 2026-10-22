@@ -22,7 +22,7 @@ It is used in customer service centers, large corporate operations, and personal
 
 Not to be confused with just a messaging app; This is a management platform.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it needed?**
 

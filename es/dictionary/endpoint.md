@@ -41,7 +41,7 @@ Se confunde con el servidor. El servidor es el centro, el punto final (endpoint)
 **Parada:** El punto final de la línea.
 **Número de puerta:** La dirección del apartamento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante la seguridad?**
 

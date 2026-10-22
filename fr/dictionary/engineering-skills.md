@@ -22,7 +22,7 @@ Il est utilisé tout au long des processus de développement de logiciels, de co
 
 Cela peut être confondu avec de simples compétences en codage, alors que le codage n’est que la partie application de ce processus.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tout le monde peut-il acquérir des compétences en ingénierie ?**
 

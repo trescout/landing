@@ -22,7 +22,7 @@ Caracteres como asteriscos ou cerquilhas são adicionados ao texto. Por exemplo,
 
 É confundido com HTML, mas embora o HTML seja muito mais complexo e detalhado, o Markdown foi projetado exclusivamente para melhorar a legibilidade.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo usar Markdown em vez de Word?**
 

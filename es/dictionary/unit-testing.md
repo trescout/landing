@@ -22,7 +22,7 @@ Se utiliza al comienzo del proceso de desarrollo de software, mientras se escrib
 
 Puede confundirse con las pruebas de un extremo a otro; Si bien prueba todo el sistema, las pruebas unitarias se centran en una sola parte.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería probar cada parte?**
 

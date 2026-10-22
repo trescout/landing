@@ -22,7 +22,7 @@ Se aplica regularmente en los sitios web, servidores e infraestructuras de softw
 
 Puede confundirse con ciberataques reales; Sin embargo, este proceso es completamente legal y controlado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Esta prueba dañará el sistema?**
 

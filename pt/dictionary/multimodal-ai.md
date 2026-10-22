@@ -22,7 +22,7 @@ O sistema converte diferentes tipos de dados em uma linguagem numérica comum. E
 
 Pode ser confundido com modelos padrão de IA que são puramente baseados em texto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa multimodal?**
 

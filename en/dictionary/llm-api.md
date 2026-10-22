@@ -24,7 +24,7 @@ It is used in chatbots, automated content generators, and all AI-powered web app
 
 It is not the LLM itself, but the door that provides access to it.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can anyone use an LLM API?**
 

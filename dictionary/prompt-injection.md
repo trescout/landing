@@ -22,7 +22,7 @@ Sohbet botlarında, yapay zekâ destekli müşteri hizmetlerinde ve büyük dil 
 
 Klasik hackleme yöntemlerinden farklıdır çünkü burada bilgisayar kodları değil, tamamen günlük dil ve kelime oyunları kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Prompt injection her yapay zekâ modelinde işe yarar mı?**
 

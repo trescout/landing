@@ -47,7 +47,7 @@ It is considered a unit test. He looks at the part, this one looks at the whole.
 **Rehearsal:** General repetition.
 **Final:** Broadcast rehearsal.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why isn't just this done?**
 

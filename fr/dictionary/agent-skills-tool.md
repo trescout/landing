@@ -22,7 +22,7 @@ Il est utilisé dans les processus de développement d'agents intelligents et le
 
 Contrairement aux structures d'agents générales, c'est un assistant spécifique axé directement sur l'acquisition de compétences.
 
-## Questions fréquentes
+## Questions et réponses
 
 **À quoi ça sert ?**
 

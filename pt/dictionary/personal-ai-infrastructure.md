@@ -22,7 +22,7 @@ Você prepara seu próprio hardware ou servidores em nuvem, instala os modelos n
 
 Pode ser confundido apenas com o uso de um aplicativo; Aqui você tem controle total da infraestrutura.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso é difícil de instalar?**
 

@@ -22,7 +22,7 @@ Es wird in Softwareentwicklungsprozessen eingesetzt, insbesondere in der durch k
 
 Es kann mit Prompt Engineering verwechselt werden; Aber das ist der technische Management- und Prozessteil des Jobs.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich Befehle wie Code verwalten?**
 

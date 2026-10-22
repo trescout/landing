@@ -22,7 +22,7 @@ It is used in high-traffic artificial intelligence applications and chat bots.
 
 It can be confused with KV cache; KV cache is the memory of the model at runtime, and this is a strategy that ensures that memory remains stable.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does this method increase accuracy?**
 

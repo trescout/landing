@@ -22,7 +22,7 @@ Você pode recorrer frequentemente a isso na segurança cibernética para decifr
 
 É confundido com o termo "engenharia reversa de software" (software reverse engineering), que é específico do mundo do software. A engenharia reversa é um conceito guarda-chuva muito mais amplo que também abrange máquinas físicas e hardwares.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Fazer engenharia reversa é legal?**
 

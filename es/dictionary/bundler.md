@@ -56,7 +56,7 @@ Las herramientas destacadas que responden a diferentes necesidades en el ecosist
 | esbuild | Adelante | Bundled | esbuild | Increíble velocidad de compilación bruta (10-100 veces más rápido que las herramientas de Node.js) |
 | Turbopack / Rspack | óxido | Bundled / Híbrido | Motor Rust | Rendimiento para proyectos masivos, compatible con el ecosistema de Webpack |
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué es un bundler y por qué es obligatorio en el desarrollo web moderno?**
 

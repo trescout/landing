@@ -39,7 +39,7 @@ Se confunde con el PPI. El DPI es el punto de tinta en la impresión, el PPI es 
 **Mosaico:** Número de piedras por unidad de área.
 **Fecha de impresión:** Trama de periódico y frecuencia de puntos offset.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si el DPI es alto?**
 

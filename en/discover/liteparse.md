@@ -55,7 +55,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Medium developer tool
 - **What offers:** Fast document parsing
 - **Fee:** Free · open source (Apache-2.0)
-- **License:** Apache-2.0 · ayrıntı aşağıda
+- **License:** Apache-2.0 · detail below
 
 **License:** Apache-2.0 · you can use it freely, modify it, make commercial use (also includes patent protection).
 

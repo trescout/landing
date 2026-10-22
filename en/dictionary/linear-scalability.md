@@ -22,7 +22,7 @@ Cloud computing systems, databases and high-traffic web services.
 
 It is not just 'being fast', it is that the increase in performance is proportional to the increase in resources.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why can't every system scale linearly?**
 

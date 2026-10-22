@@ -60,7 +60,7 @@ Eski dönemlerde Linux üzerinde elle PHP ve MySQL derlemek gereken günler geri
 
 - Kopyalardan en az **1** tanesini yangın ve hırsızlığa karşı farklı bir fiziksel konumda (şifreli uzak sunucu veya harici depolama) barındırın.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Self-hosted nedir ve Türkçe karşılığı ne demek?**
 

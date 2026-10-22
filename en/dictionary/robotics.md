@@ -22,7 +22,7 @@ It is used in manufacturing factories, autonomous vehicles, and warehouse automa
 
 Unlike pure software projects, it involves physical and mechanical hardware.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is its relationship with artificial intelligence?**
 

@@ -22,7 +22,7 @@ Modern kod düzenleyicilerde, yapay zekâ destekli yazılım geliştirme araçla
 
 Sadece bir dosya listesi veya basit bir klasör yapısı değildir; kodun mantıksal ilişkilerini de içerir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden buna ihtiyaç var?**
 

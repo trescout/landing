@@ -24,7 +24,7 @@ Kullanıcı oturum yönetiminde (session), e-ticaret sitelerindeki sepet takibin
 
 Cihaz parmak izi (fingerprint) ile karıştırılır; çerezler tarayıcı ayarlarından kolayca temizlenebilirken, parmak izi donanım özelliklerine dayandığı için kolayca silinemez.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Çerezleri temizlemek bilgisayarıma zarar verir mi?**
 

@@ -22,7 +22,7 @@ Você o encontra frequentemente em aplicativos da web, sistemas de gerenciamento
 
 Não deve ser confundido apenas com o histórico do navegador; Embora a história contenha apenas os sites visitados, o estado cobre todo o ambiente de trabalho no momento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso desaparece quando fecho o navegador?**
 

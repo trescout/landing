@@ -22,7 +22,7 @@ AI Agent sistemlerinde, otomasyon araçlarında ve uygulama entegrasyonlarında 
 
 Sadece düşünme veya planlama süreciyle karıştırılmamalıdır; action, sistemde iz bırakan gerçek bir eylemdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Action her zaman başarılı olur mu?**
 

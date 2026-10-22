@@ -22,7 +22,7 @@ Android telefonlarda, özel yazılım yüklemek istediğinizde veya geliştirici
 
 Uygulama mağazası üzerinden yapılan standart indirmelerle karıştırılmamalıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sideloading güvenli mi?**
 

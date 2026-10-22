@@ -22,7 +22,7 @@ Começa a ser incorporada em aplicativos móveis modernos, painéis de assistent
 
 É diferente das interfaces dinâmicas clássicas; aqui, as decisões não são tomadas por regras fixas, mas por modelos de inteligência artificial.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A Interface Inteligente parece diferente para cada usuário?**
 

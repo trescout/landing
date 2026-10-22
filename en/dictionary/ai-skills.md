@@ -24,7 +24,7 @@ It is used in smart assistants, data analysis tools, and software that automates
 
 It is often confused with general AI capabilities, but these are specialized tools added to do a specific job.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do every AI model have AI Skills?**
 

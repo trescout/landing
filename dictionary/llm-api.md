@@ -24,7 +24,7 @@ Sohbet botları, otomatik içerik üreticileri ve yapay zekâ destekli tüm web 
 
 LLM'in kendisi değil, ona ulaşmayı sağlayan kapıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes LLM API kullanabilir mi?**
 

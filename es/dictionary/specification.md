@@ -46,7 +46,7 @@ Es similar a un requisito. El requisito dice qué se quiere, la especificación 
 **Manual de montaje:** Esquema de piezas y secuencia.
 **Licitación:** Pliego de condiciones administrativas y técnicas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden cambiar las especificaciones?**
 

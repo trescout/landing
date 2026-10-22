@@ -43,7 +43,7 @@ Raw data can be downloaded from Planet.osm. Map images are taken piece by piece 
 **Open source software:** Linux kernel growing with voluntary contribution.
 **Citizen science:** Collecting bird observation records in a common database.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it really free?**
 

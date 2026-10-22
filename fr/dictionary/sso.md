@@ -24,7 +24,7 @@ Il est utilisé dans les logiciels d'entreprise et les options de connexion avec
 
 Il ne faut pas le confondre avec les seuls outils de stockage de mots de passe (Password Manager) ; SSO est un protocole d'authentification.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce sécuritaire?**
 

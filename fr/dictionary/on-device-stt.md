@@ -38,7 +38,7 @@ On pense que c'est de la reconnaissance cloud. Elle tourne sur le serveur, les d
 **Calculatrice :** Calcul sans pile.
 **Lampe de poche :** Lumière sans réseau.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi pas le cloud ?**
 
@@ -58,7 +58,7 @@ Oui. L'écoute continue a un coût, on l'active en cas de besoin.
 
 ## Termes liés
 
-- [STT](https://trescout.com/fr/dictionary/stt/)
+- [STT](https://trescout.com/fr/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/fr/dictionary/speech-to-text/)
 - [Local](https://trescout.com/fr/dictionary/local/)
 

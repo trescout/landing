@@ -24,7 +24,7 @@ Es arbeitet im Hintergrund in Compilern, Code-Formatierern, statischen Code-Anal
 
 Im Gegensatz zu Plain-Text-Suchwerkzeugen sucht es nicht nur nach Wörtern, sondern untersucht die logische Grammatik und Struktur des Codes.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird AST Parsing manuell vom Entwickler durchgeführt?**
 

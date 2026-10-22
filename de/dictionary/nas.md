@@ -24,7 +24,7 @@ Er wird als Medienserver zu Hause oder für die gemeinsame Dateifreigabe im Bür
 
 Dabei handelt es sich nicht nur um eine mit dem Internet verbundene Festplatte, sondern um eine intelligente Speichereinheit mit eigenem Betriebssystem.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind NAS und Cloud-Speicher dasselbe?**
 

@@ -45,7 +45,7 @@ Drive sanılır. Drive dosya saklar, Cloud uygulama çalıştırır. Biri dolap,
 
 *Evde elektrik üretmek yerine şebekeden almak gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden kendi bilgisayarım değil?**
 

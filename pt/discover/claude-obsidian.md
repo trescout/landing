@@ -2,12 +2,13 @@
 
 Sistema de conhecimento com prioridade local para Claude Code e servidores Agent Skills compatíveis. Converte materiais de referência em páginas interligadas do Obsidian que citam as fontes.
 
-- ★ 14.822
+- ★ 15.713
 - Python
 - GitHub Trending · 2026-08-25
 
 ## Atualizações
 
+- **22 de outubro de 2026:** Estrelas 14,822 → 15,713, versão mais recente v3.0.1 (21 de outubro de 2026).
 - **11 de setembro de 2026:** Estrelas 14,727 → 14,822, versão mais recente v2.2.0 (10 de setembro de 2026).
 - **8 de setembro de 2026:** Estrelas 13,706 → 14,727, versão mais recente v2.1.1 (25 de agosto de 2026).
 - **27 de agosto de 2026:** Estrelas 12,404 → 13,706, versão mais recente v2.1.1 (25 de agosto de 2026).

@@ -24,7 +24,7 @@ A página web visitada executa um script JavaScript em segundo plano. Esse scrip
 
 É frequentemente confundido com o endereço IP; no entanto, enquanto o endereço IP muda quando você reinicia o modem ou ativa uma VPN, a impressão digital do dispositivo permanece em grande parte constante enquanto você estiver usando o mesmo hardware.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Usar a aba anônima impede o rastreamento por impressão digital?**
 

@@ -41,7 +41,7 @@ Es wird oft für ein Adressbuch gehalten, aber ein CRM bleibt nicht bei der Regi
 **Bibliothek:** Mitgliedskarte und Ausleihhistorie.
 **Schule:** Studenteninformationssystem.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Muss ich CRM verwenden?**
 

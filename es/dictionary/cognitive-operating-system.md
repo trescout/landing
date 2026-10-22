@@ -22,7 +22,7 @@ Se utiliza en investigaciones avanzadas de inteligencia artificial y sistemas au
 
 Puede confundirse con los sistemas operativos tradicionales; Este sistema no es software, sino una arquitectura pensante.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden realmente pensar estos sistemas?**
 

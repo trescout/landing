@@ -22,7 +22,7 @@ Primeiro você escolhe um veículo que atenda às suas necessidades. Então voc�
 
 Muitas vezes é confundido apenas com 'editor de código', mas as ferramentas de design são orientadas visualmente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preciso ser designer gráfico para usar uma ferramenta de design?**
 

@@ -22,7 +22,7 @@ Man sieht es in fortschrittlichen Modellen der künstlichen Intelligenz, Strateg
 
 Es unterscheidet sich grundlegend vom einfachen Datenabruf oder dem Auflisten von Suchmaschinenergebnissen. Es erfordert Argumentation.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie wird die Denkfähigkeit gemessen?**
 

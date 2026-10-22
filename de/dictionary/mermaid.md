@@ -45,7 +45,7 @@ Man hält sie für Zeichenwerkzeuge. Dabei ist Mermaid textbasiert und enthält 
 **Stenografie:** Aufzeichnen von Sprache mit Kürzeln.
 **Mathematik:** Beschreibung von Formen durch Formeln.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Welche Diagramme können mit Mermaid gezeichnet werden?**
 

@@ -22,7 +22,7 @@ Profesyonel film kurgusundan sosyal medya içerik üretimine kadar her alanda ku
 
 Video düzenleme yazılımları ile sadece video izlemeye yarayan oynatıcılar sıkça karıştırılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Video editörü kullanmak için profesyonel olmak şart mı?**
 

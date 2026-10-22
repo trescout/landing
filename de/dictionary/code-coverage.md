@@ -18,7 +18,7 @@ Während des Softwareentwicklungsprozesses werden automatisierte Testtools ausge
 
 Es wird in Softwareentwicklungsprozessen, CI/CD-Linien und Qualitätskontrollberichten verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist eine 100-prozentige Codeabdeckung immer gut?**
 

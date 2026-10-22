@@ -22,7 +22,7 @@ Se utiliza en cálculos de costos y mediciones de velocidad de modelos de inteli
 
 Se confunde con el recuento de palabras, pero a veces los tokens pueden ser parte de una palabra o simplemente un espacio.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Aproximadamente cuantas palabras son 1000 fichas?**
 

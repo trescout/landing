@@ -44,7 +44,7 @@ Sie werden für Websprachen gehalten. Sie kümmern sich um die Benutzeroberfläc
 **Fundament:** Die Tragstruktur des Gebäudes.
 **Skelett:** Das Grundgerüst des Körpers.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Welche gehören dazu?**
 

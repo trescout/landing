@@ -47,7 +47,7 @@ On croit à une fonctionnalité ou à une correction de bug. Pourtant, la sortie
 **Rédaction :** Le sujet est le même, la phrase est fluide.
 **Élagage :** L'arbre est le même, la disposition des branches est ordonnée.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi le faisons-nous ?**
 

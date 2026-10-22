@@ -31,7 +31,7 @@ La diarización, cuyo origen etimológico proviene del verbo francés diariser (
 
 La transcripción (STT) suele confundirse con la diarización de locutores. Un motor de conversión de voz a texto clásico solo transcribe "qué se dijo", pero no puede distinguir quién lo dijo. La diarización, por su parte, identifica "quién lo dijo". Por ejemplo, mientras que OpenAI Whisper realiza una transcripción pura, al combinarlo con herramientas como pyannote.audio o WhisperX, se obtienen tanto el texto como las identidades de los locutores de forma completa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Definición de diarización (qué significa diarización)?**
 

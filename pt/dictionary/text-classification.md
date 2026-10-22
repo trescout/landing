@@ -22,7 +22,7 @@ O sistema primeiro separa o texto em palavras e os converte em vetores numérico
 
 Não deve ser confundido com geração de texto: a classificação de texto coloca tags no texto existente, não no texto novo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quantos dados são necessários para a classificação do texto?**
 

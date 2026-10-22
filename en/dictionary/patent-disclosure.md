@@ -31,7 +31,7 @@ In contrast, there is a historical tension between the open-source movement (FOS
 Insufficient Technical Disclosure: Omitting the operational steps of the system causes the patent to be invalidated in court.
 - Incorrect Inventorship Declaration: Adding managers who did not contribute or removing the actual engineer compromises the legitimacy of the patent.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **When should a patent disclosure be made?**
 

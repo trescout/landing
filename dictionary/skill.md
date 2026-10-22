@@ -46,7 +46,7 @@ Genel model yeteneği sanılır. Oysa burada kastedilen, asistanın dış aracı
 
 *Mutfak şefinin elindeki farklı aletler gibidir; şef tektir, her iş için doğru aleti seçer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Her modelin yeteneği var mıdır?**
 

@@ -47,7 +47,7 @@ It is considered a manual test. However, the line is completely automatic: The c
 **Assembly line:** Part, inspection and package.
 **Luggage band:** Registration, browsing and uploading.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it so important?**
 

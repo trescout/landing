@@ -22,7 +22,7 @@ Se utiliza en aplicaciones basadas en la nube y en la gestión de servidores a g
 
 Puede confundirse con métodos imperativos (orientados a comandos); En ese método, cuentas cada paso uno por uno.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué deberíamos elegir este método?**
 

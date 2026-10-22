@@ -22,7 +22,7 @@ Se utiliza en segundo plano en aplicaciones impulsadas por inteligencia artifici
 
 No es solo una computadora, sino una infraestructura especializada optimizada para que el modelo funcione.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no es suficiente una computadora normal?**
 

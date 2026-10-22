@@ -39,7 +39,7 @@ Il est considéré comme un terminal. Le terminal l'exécute, le runner le gère
 **Machine à laver:** Lavage programmé.
 **Pilote automatique :** Suivi d'itinéraire.
 
-## Foire aux questions
+## Questions et réponses
 
 **Dans quels métiers est-il utilisé ?**
 

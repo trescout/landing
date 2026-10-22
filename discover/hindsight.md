@@ -2,15 +2,15 @@
 
 Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor. Geçmiş etkileşimlerden çıkarım yaparak ajanların karar alma süreçlerini iyileştiren bu açık kaynaklı kütüphane, sistemlerin zamanla daha tutarlı sonuçlar üretmesini sağlıyor.
 
-- ★ 51.834
+- ★ 52.557
 - GitHub Trending · 2026-09-25
 
 ## Güncelleme
 
+- **22 Ekim 2026:** Yıldız 51.834 → 52.557, son sürüm v1.1.0 (21 Ekim 2026).
 - **20 Ekim 2026:** Yıldız 49.114 → 51.834, son sürüm v1.0.0 (13 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 47.195 → 49.114, son sürüm v1.0.0 (13 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 46.537 → 47.195, son sürüm v0.10.3 (8 Ekim 2026).
-- **7 Ekim 2026:** Yıldız 44.051 → 46.537, son sürüm v0.10.2 (29 Eylül 2026).
 
 ## Ne kazandırır?
 

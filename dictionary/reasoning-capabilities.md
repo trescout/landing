@@ -22,7 +22,7 @@ Gelişmiş yapay zekâ modellerinde, strateji simülasyonlarında ve otomatik ha
 
 Basit veri getirme veya arama motoru sonuçlarını listeleme işlemlerinden tamamen farklıdır; akıl yürütme gerektirir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Mantık yürütme yeteneği nasıl ölçülür?**
 

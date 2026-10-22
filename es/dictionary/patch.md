@@ -48,7 +48,7 @@ En los servicios RESTful, los métodos PUT y PATCH se comparan frecuentemente al
 | Git y control de versiones | Archivo de cambios basado en líneas | Compartir código, revisión de código, contribución | git format-patch HEAD~1, linux-kernel.patch |
 | Web API / HTTP | Método de actualización parcial | Ahorro de red, cambio parcial en el recurso | PATCH /api/users/42 cuerpo: {"status": "active"} |
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa 'patch' y cuál es su equivalente en español?**
 

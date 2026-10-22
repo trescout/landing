@@ -22,7 +22,7 @@ Otonom robotlarda, fiziksel dünyayı anlayan yapay zekâ modellerinde ve mimari
 
 Sadece görsel tanıma değil, derinlik ve mantık içeren bir kavrayıştır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ bunu nasıl öğrenir?**
 

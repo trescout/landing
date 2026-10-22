@@ -24,7 +24,7 @@ Se utiliza en investigaciones de seguridad cibernética y análisis forense.
 
 A diferencia de los escáneres de virus de uso general, se centra en detectar software espía específico y avanzado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todos pueden usarlo?**
 

@@ -22,7 +22,7 @@ Oyun seviyesi tasarımlarında, modüler yazılım üretiminde, amaca yönelik a
 
 Genel bir crafting engine sadece kural bazlı birleştirme yaparken; intentional crafting engine kullanıcının stratejik niyetini anlayıp ona göre kapsamlı çözümler üretir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Standart bir üretken yapay zekâ modelinden farkı nedir?**
 

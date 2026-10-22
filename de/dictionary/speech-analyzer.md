@@ -22,7 +22,7 @@ Es wird in Callcentern, Besprechungsanalysesoftware und Sprachassistenten einges
 
 Es unterscheidet sich von Tools, die nur eine Audio-Text-Konvertierung durchführen, durch eine Stimmungsanalyse.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verstößt SpeechAnalyzer gegen die Privatsphäre?**
 

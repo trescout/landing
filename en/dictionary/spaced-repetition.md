@@ -22,7 +22,7 @@ It is widely used in language learning applications, exam preparation systems, a
 
 It might be confused with simple rote memorization; however, this method is more about strategically managing memory than just memorizing.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I repeat constantly?**
 
@@ -30,7 +30,7 @@ Your brain deletes information it deems unnecessary over time; this method prove
 
 ## Related terms
 
-- [Personal Knowledge Management](https://trescout.com/en/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/en/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/en/dictionary/personal-knowledge-management/)
 - [Lifelong Learning](https://trescout.com/en/dictionary/lifelong-learning/)
 

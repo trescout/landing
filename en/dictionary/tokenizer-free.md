@@ -22,7 +22,7 @@ It is used in multilingual models, voice processing systems and data analysis re
 
 It is confused with traditional token-based models, but this method is a more raw and direct form of data processing.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it run faster?**
 

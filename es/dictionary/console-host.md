@@ -22,7 +22,7 @@ Se utiliza en procesos de desarrollo de software, gestión de sistemas y proceso
 
 Puede confundirse con terminal o shell; Sin embargo, Console Host es la capa que gestiona la ventana y la interfaz en la que se muestran estos textos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué seguimos usando la pantalla negra?**
 

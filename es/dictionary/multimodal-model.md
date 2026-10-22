@@ -22,7 +22,7 @@ Se utiliza en chatbots avanzados, herramientas de análisis visual y sistemas au
 
 Es lo mismo que el concepto de multimodal, donde se enfatiza particularmente la estructura del 'modelo'.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué el texto no es suficiente?**
 

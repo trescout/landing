@@ -22,7 +22,7 @@ It is frequently used in data analysis, image processing and training processes 
 
 Can be confused with loops; However, while loops process elements one by one, array operations process them in batches to speed up the process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we use this instead of doing individual transactions?**
 

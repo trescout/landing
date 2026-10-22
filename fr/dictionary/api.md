@@ -24,7 +24,7 @@ Il est utilisé pour les applications météorologiques afin de récupérer des 
 
 C'est confondu avec le site Web lui-même, mais l'API est conçue pour que les machines communiquent avec des machines, pas avec des humains.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tout le monde peut-il utiliser l'API ?**
 

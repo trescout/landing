@@ -22,7 +22,7 @@ Il est utilisé dans les moteurs de recherche, les données de formation en inte
 
 Elles peuvent être confondues avec des métadonnées ordinaires ; La différence est que la relation sémantique porte la relation de « sens » des données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je utiliser des métadonnées sémantiques ?**
 

@@ -22,7 +22,7 @@ It is frequently used in software development, complex data analysis and automat
 
 It is different from a single AI model; What is important here is the interaction of the agents with each other.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do agents get along?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans les assistants personnels, les outils d’analyse de docume
 
 Cela peut être confondu avec la simple utilisation d’une application ; Ici, vous avez un contrôle total sur l’infrastructure.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce difficile à installer ?**
 

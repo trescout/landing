@@ -22,7 +22,7 @@ It is used in internal team code review processes on platforms like GitHub or Gi
 
 It can be confused with a single large 'Pull Request'; however, this method offers a fragmented and sequential approach.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we send it all at once?**
 

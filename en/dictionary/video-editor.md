@@ -22,7 +22,7 @@ It is used in every field, from professional film editing to social media conten
 
 Video editing software is often confused with players that only watch videos.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it necessary to be a professional to use a video editor?**
 

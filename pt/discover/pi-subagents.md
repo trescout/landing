@@ -61,7 +61,7 @@ pi install npm:pi-subagents
 - **Dificuldade:** Biblioteca avançada para desenvolvedores
 - **O que oferece:** Delegação assíncrona de subagente
 - **Taxa:** Código aberto (ver nota de licença)
-- **Licença:** Belirtilmemiş · ayrıntı aşağıda
+- **Licença:** Não especificado · detalhe abaixo
 
 **Licença:** ⚠️ Nenhuma licença é especificada no repo; o padrão é 'todos os direitos reservados'. Você pode pesquisar para tentar, mas a reutilização requer permissão expressa do autor.
 

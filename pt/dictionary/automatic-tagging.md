@@ -42,7 +42,7 @@ Pensa-se que é rotulagem manual. Aquilo é mão humana, isto é saída do model
 **Correios:** Não carimbe.
 **Selo:** Marcação de documentos.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Está sempre certo?**
 

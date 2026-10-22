@@ -22,7 +22,7 @@ Es común en las industrias de consultoría financiera, marketing de contenidos,
 
 No debe confundirse simplemente con "vender software", donde el valor añadido inteligente proporcionado por la inteligencia artificial está en el centro.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cualquiera puede ganar dinero con inteligencia artificial?**
 

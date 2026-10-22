@@ -22,7 +22,7 @@ Finans teknolojileri ve algoritmik ticaret platformlarında kullanılır.
 
 Algoritmik ticaret ile karıştırılabilir ancak o genellikle önceden tanımlanmış kuralları takip ederken, bu sistem kendi stratejisini öğrenip geliştirebilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu fonlar gerçekten hata yapmaz mı?**
 

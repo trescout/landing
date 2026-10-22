@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes RAG, l'analyse de documents volumineux et les
 
 Il ne s'agit pas seulement de raccourcir les données, mais de choisir judicieusement les données et de les formater dans un format que le modèle peut comprendre.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Y aura-t-il une perte d’informations ?**
 

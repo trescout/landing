@@ -24,7 +24,7 @@ Es wird in öffentlichen WLAN-Netzwerken eingesetzt, für Arbeiten, die Vertraul
 
 Es kann mit einem Proxy verwechselt werden, aber ein VPN verschlüsselt den gesamten Geräteverkehr, während ein Proxy normalerweise nur bestimmte Anwendungen weiterleitet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verlangsamt VPN meine Geschwindigkeit?**
 

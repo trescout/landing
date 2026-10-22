@@ -58,7 +58,7 @@ sudo bash /opt/project-nomad/start_nomad.sh
 - **Schwierigkeit:** Mittel · einige technische Kenntnisse zur Einrichtung
 - **Was bietet:** Offline-Tool + Informationen + KI-Paket
 - **Gebühr:** Kostenlos · Open Source (Apache-2.0)
-- **Lizenz:** Apache-2.0 · ayrıntı aşağıda
+- **Lizenz:** Apache-2.0 · Details unten
 
 **Lizenz:** Apache-2.0 · Sie können es frei verwenden, ändern und kommerziell nutzen (einschließlich Patentschutz).
 

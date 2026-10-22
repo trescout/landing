@@ -24,7 +24,7 @@ Taranmış PDF belgelerini düzenlenebilir hale getirmek, kimlik kartı bilgiler
 
 Sadece görseli olduğu gibi kaydeden tarayıcılardan farklı olarak, içeriği metne dönüştürür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **El yazısını okuyabilir mi?**
 

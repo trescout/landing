@@ -64,7 +64,7 @@ Merkezi bir bilgisayarda donanım saati tek bir gerçeği gösterir. Dağıtık 
 
 Monolitik sistemlerdeki veritabanı işlemleri (ACID transactions), mikroservislerde yerini **Saga Deseni (Saga Pattern)** yaklaşımına bırakır. Uzun süren dağıtık adımlar iki aşamalı kilitler (2PC - Two Phase Commit) ile kilitlenmek yerine; her servisin yerel işlemini yaptığı ve bir hata anında geriye doğru Telafi Edici İşlemlerin (Compensating Transactions) tetiklendiği olay güdümlü mimariler kullanılır.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Distributed ne demek (Türkçe anlamı)?**
 

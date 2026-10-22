@@ -22,7 +22,7 @@ It is used in automation platforms, intelligent workflows and autonomous softwar
 
 It should not be confused with artificial intelligence features added later to an ordinary application; these are built from the ground up for agents.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do they need to be specially designed?**
 

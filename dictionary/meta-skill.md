@@ -22,7 +22,7 @@ Kendi kendini eğiten sistemlerde, sürekli öğrenen yapay zekâ modellerinde v
 
 Sıradan öğrenme süreçleriyle karıştırılır, oysa meta beceri öğrenme sürecinin kendisini optimize eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Meta beceriler yapay zekâ için neden önemli?**
 

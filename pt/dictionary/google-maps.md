@@ -22,7 +22,7 @@ Imagens de satélite, fotos aéreas e dados de GPS anônimos provenientes de dis
 
 Diferente de projetos de mapas de código aberto e focados na comunidade, como o OpenStreetMap, é um ecossistema comercial de código fechado que é propriedade exclusiva do Google.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como o Google Maps sabe a densidade do tráfego em tempo real?**
 

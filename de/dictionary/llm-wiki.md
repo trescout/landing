@@ -22,7 +22,7 @@ Es wird in Unternehmensinformationssystemen, technischen Support-Bots und Anwend
 
 Es ähnelt dem RAG-System, der Schwerpunkt liegt jedoch darauf, die Informationen in einer organisierteren und enzyklopädischeren Struktur zu halten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist LLM-Wiki notwendig?**
 

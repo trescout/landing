@@ -22,7 +22,7 @@ Yazılım geliştirme süreçlerinde, özellikle ekip projelerinde kullanılır.
 
 Kod inceleme aracı ile kod yazımına yardımcı olan 'AI Coding Assistants' bazen karıştırılabilir; asistanlar kodu yazmanıza yardım ederken, inceleme araçları yazılmış olanı denetler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kod inceleme aracı insan editörün yerini tutar mı?**
 

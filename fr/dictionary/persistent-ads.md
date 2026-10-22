@@ -22,7 +22,7 @@ Vous le rencontrerez souvent sur les sites d’actualités, les blogs et les flu
 
 Elles diffèrent des publicités pop-up car elles ne s'ouvrent pas soudainement, mais restent à un certain endroit de la page.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment les publicités persistantes affectent-elles l’expérience utilisateur ?**
 

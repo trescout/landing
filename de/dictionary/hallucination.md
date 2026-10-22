@@ -22,7 +22,7 @@ Dies geschieht insbesondere in der akademischen Forschung, bei der Suche nach me
 
 Es wird mit Lügen verwechselt, aber künstliche Intelligenz hat weder Absicht noch Bewusstsein; Es folgt einfach den Möglichkeiten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie verhindere ich, dass KI Dinge erfindet?**
 

@@ -22,7 +22,7 @@ It is available in AI services, cloud-based APIs, and locally running AI applica
 
 It is confused with the model itself; The model is the information, the engine is the system that uses this information.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we use a separate engine?**
 

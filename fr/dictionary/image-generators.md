@@ -22,7 +22,7 @@ Ils sont largement utilisés dans les projets artistiques, le secteur de la publ
 
 Ils diffèrent des logiciels de retouche photo car ils n'améliorent pas une photo existante, ils la créent entièrement à partir de rien.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces outils dessinent-ils parfaitement tous les textes que nous voulons ?**
 

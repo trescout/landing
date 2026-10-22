@@ -40,7 +40,7 @@ Die letzte und wichtigste Stufe eines Compilers oder Transpilers ist die Emitter
 
 Der Emitter durchläuft den optimierten abstrakten Syntaxbaum (AST) oder die Zwischenrepräsentation (IR - Intermediate Representation) von Anfang bis Ende (meist mit dem Visitor-Pattern). Er übersetzt jeden Knoten in Anweisungen, die die Zielplattform versteht: Diese Ausgabe kann roher Maschinencode (x86/ARM-Assembly), virtueller Maschinen-Bytecode (JVM, V8-Bytecode) oder eine andere Hochsprache (wie die Kompilierung von TypeScript zu JavaScript) sein.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet Emitter und was ist die türkische Entsprechung?**
 

@@ -38,7 +38,7 @@ Pode ser confundido com um quiz. Um quiz é um exame e atribui uma pontuação. 
 **Música:** Cartões de notas e acordes.
 **Aviação:** Cartões de lista de verificação de emergência.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Como a inteligência artificial gera os cartões?**
 

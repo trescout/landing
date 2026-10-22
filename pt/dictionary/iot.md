@@ -24,7 +24,7 @@ O microcontrolador ou processador no dispositivo físico lê dados como temperat
 
 A automação residencial (home automation) é apenas uma área de aplicação da tecnologia IoT em escala residencial; já a IoT é a estrutura geral que abrange todas as redes de dispositivos, desde fábricas até a medicina.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é o maior risco para os dispositivos IoT?**
 

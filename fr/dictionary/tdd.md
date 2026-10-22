@@ -24,7 +24,7 @@ Il est appliqué dans les équipes de développement de logiciels modernes, en p
 
 Il peut être confondu avec les tests unitaires ; TDD est une méthode et les tests unitaires sont un outil utilisé par cette méthode.
 
-## Questions fréquentes
+## Questions et réponses
 
 **TDD ne perd-il pas de temps ?**
 

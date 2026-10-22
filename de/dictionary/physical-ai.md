@@ -22,7 +22,7 @@ Es wird in autonomen Fahrzeugen, intelligenten Robotern in Logistiklagern und Pr
 
 Im Gegensatz zu virtuellen Intelligenzen, die nur in einer Softwareumgebung funktionieren, benötigen sie unbedingt einen physischen Körper oder Hardware.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann es Menschen schaden?**
 

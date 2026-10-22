@@ -41,11 +41,11 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Toolkit](https://trescout.com/pt/dictionary/toolkit/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/pt/dictionary/context/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 - [MCP](https://trescout.com/pt/dictionary/mcp/)
+- [Agent](https://trescout.com/pt/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores de software que desejam tornar os agentes de codificação de inteligência artificial executados na AWS mais capazes e funcionais.
 - **Licença:** Apache-2.0

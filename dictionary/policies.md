@@ -22,7 +22,7 @@ Bulut sistemlerinde, kurumsal ağlarda ve yetkilendirme altyapılarında kullan�
 
 Kodun teknik mantığından ziyade yönetimsel ve güvenlik sınırlarını çizer.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden önemlidir?**
 

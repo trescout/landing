@@ -22,7 +22,7 @@ Se utiliza en la automatización de procesos comerciales, proyectos complejos de
 
 Su diferencia con el concepto general de Agente de IA es que suele estar especializado en una arquitectura específica o en un uso previsto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede el Agente Hermes hacer algo?**
 

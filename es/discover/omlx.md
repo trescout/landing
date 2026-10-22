@@ -95,7 +95,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [RAM](https://trescout.com/es/dictionary/ram/)
 
 - **Para quién es:** Para desarrolladores de IA que desean ejecutar modelos de lenguaje grandes (LLM) a máxima velocidad y con privacidad nativa en computadoras Mac con procesadores Apple Silicon.
-- **Licencia:** Apache-2.0 (Açık kaynak lisansı)
+- **Licencia:** Apache-2.0 (licencia de código abierto)
 - **Marco:** Motor de inferencia nativo basado en Apple MLX y Python
 - **Hardware:** Serie Apple Silicon M1, M2, M3, M4 (compatible con Pro, Max, Ultra)
 

@@ -22,7 +22,7 @@ Você abre o terminal e executa o programa. Dois painéis aparecem na tela e voc
 
 Não deve ser confundido com 'shell', que apenas diz comandos; Esta ferramenta oferece uma interface de edição visual.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **É difícil aprender?**
 

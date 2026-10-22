@@ -44,7 +44,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Muito fácil · basta ler
 - **Formatar:** Lista categorizada (no GitHub)
 - **Taxa:** Gratuito (lista e aplicativos)
-- **Licença:** Belirsiz (NOASSERTION) · ayrıntı aşağıda
+- **Licença:** Incerto (NOASSERTION) · detalhe abaixo
 
 **Licença:** ⚠️ Nenhuma licença padrão definida (o GitHub diz 'NOASSERTION'). A lista é gratuita para leitura e uso; mas verifique com o proprietário antes de copiar e republicar conteúdo por conta própria · os direitos de reutilização não são claros.
 

@@ -22,7 +22,7 @@ A fonte de dados é determinada e, em seguida, as etapas de processamento (como 
 
 Não deve ser confundido apenas com um banco de dados; Um pipeline é um processo que processa dados, não um local para armazená-los.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se o pipeline quebrar?**
 

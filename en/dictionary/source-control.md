@@ -22,7 +22,7 @@ It is mandatory in all modern software development processes, especially in team
 
 It is not the same as a backup, because it manages not only the files but also the history of the changes.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I use it?**
 

@@ -22,7 +22,7 @@ Ao nível do sistema operacional, um endereço de memória separado é alocado p
 
 É frequentemente confundido com o conceito de multi-threading. Enquanto no método multi-threading as tarefas são realizadas com threads leves que compartilham o mesmo espaço de memória, no método multi-process cada tarefa possui seu próprio espaço de memória totalmente isolado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O uso de multi-process sobrecarrega o computador?**
 

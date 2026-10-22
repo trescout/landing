@@ -22,7 +22,7 @@ Il est utilisé dans les calculs de coûts et les mesures de vitesse des modèle
 
 Il est confondu avec le nombre de mots, mais les jetons peuvent parfois faire partie d'un mot ou simplement d'un espace.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Environ combien de mots représentent 1 000 jetons ?**
 

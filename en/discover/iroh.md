@@ -2,15 +2,15 @@
 
 Iroh is a modular networking stack that makes network connections more flexible by using key-based addressing instead of IP addresses. Developed with the Rust language, this tool provides an infrastructure that is resistant to network interruptions and provides direct data transfer.
 
-- ★ 12,781
+- ★ 12,792
 - GitHub Trending · 2026-06-17
 
 ## Updates
 
+- **October 22, 2026:** Stars 12,781 → 12,792, latest release v1.4.1 (October 22, 2026).
 - **October 21, 2026:** Stars 12,610 → 12,781, latest release v1.4.0 (October 20, 2026).
 - **September 29, 2026:** Stars 12,490 → 12,610, latest release v1.3.0 (September 28, 2026).
 - **September 12, 2026:** Stars 12,327 → 12,490, latest release v1.2.0 (September 11, 2026).
-- **August 27, 2026:** Stars 11,957 → 12,327, latest release v1.1.0 (August 25, 2026).
 
 ## What you get
 

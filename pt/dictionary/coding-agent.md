@@ -22,7 +22,7 @@ Essas ferramentas geralmente fornecem acesso a uma pasta do projeto. Quando voc�
 
 É o mesmo que o termo Agente de Codificação de IA, mas se refere a um conceito mais geral.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O agente de codificação aceitará meu trabalho?**
 

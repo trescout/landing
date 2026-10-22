@@ -39,7 +39,7 @@ Jede Zeile in der Ausgabe zeigt einen Zwischenstopp an. Sternchen oder lange Ant
 **Flugverkehr:** Die vorherige Ankündigung der Flugkorridore, denen das Flugzeug folgen wird.
 **Post:** Die Sortierung des Briefes im Verteilzentrum anhand der Postleitzahl.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist Routing Pack ein Standardbegriff?**
 

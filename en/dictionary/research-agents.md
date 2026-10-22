@@ -22,7 +22,7 @@ They are used in academic research, market analysis, or when you want to quickly
 
 They should not be confused with simple search engine queries; agents actively process and synthesize data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Which artificial intelligences do they use?**
 

@@ -22,7 +22,7 @@ ChatGPT gibi yapay zekâ araçlarında, bulut tabanlı yönetim panellerinde ve 
 
 Yazılımın kendisi ile arayüzü aynı şey değildir; arayüz sadece bir kapıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her yazılımın web arayüzü olur mu?**
 

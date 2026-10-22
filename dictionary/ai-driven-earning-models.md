@@ -22,7 +22,7 @@ Finansal danışmanlık, içerik pazarlaması, yazılım geliştirme ve müşter
 
 Sadece 'yazılım satmak' ile karıştırılmamalıdır, burada merkezde yapay zekânın sağladığı akıllı bir katma değer vardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes yapay zekâ ile para kazanabilir mi?**
 

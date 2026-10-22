@@ -22,7 +22,7 @@ Genellikle verilerin toplandığı bir kaynaktan beslenir. Yazılım geliştiric
 
 Raporlama ile karıştırılabilir, ancak dashboard canlı ve etkileşimli veriler sunar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Dashboard canlı veri mi gösterir?**
 

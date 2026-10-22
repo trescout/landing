@@ -22,7 +22,7 @@ Otonom yapay zekâ sistemlerinde, görev yönetimi yapan platformlarda ve karma�
 
 Sadece 'çalışıyor' olmakla karıştırılmamalıdır; çalışmak sistemin açık olmasıdır, Agent Ready ise sistemin otonom karar verme yetkisiyle göreve başlamaya hazır olmasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bir sistemin Agent Ready olup olmadığını nasıl anlarım?**
 

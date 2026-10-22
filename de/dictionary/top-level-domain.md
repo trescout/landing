@@ -24,7 +24,7 @@ Sie begegnen Ihnen in den Adressleisten von Webbrowsern und bei Prozessen zum Ka
 
 Kann mit einem Domainnamen verwechselt werden; der Domainname ist der vollständige Name der Website, während dies nur der letzte Teil ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum gibt es verschiedene Endungen?**
 

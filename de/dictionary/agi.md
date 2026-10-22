@@ -38,7 +38,7 @@ Sie gelten als Sprachmodelle. Sie sind eng spezialisiert, das ist das allgemeine
 **Küchenchef:** Küche insgesamt.
 **Dichter:** Sprache im Allgemeinen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Wie ist das zu verstehen?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans les caméras de sécurité, les véhicules autonomes et les
 
 Il peut être confondu avec un logiciel de traitement d'images, mais il s'agit d'une bibliothèque, c'est donc un outil de développement et non une interface utilisateur final.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces bibliothèques peuvent-elles tout voir ?**
 

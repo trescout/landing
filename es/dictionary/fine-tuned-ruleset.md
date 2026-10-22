@@ -22,7 +22,7 @@ Análisis de documentos legales, sistemas de soporte de diagnóstico médico y b
 
 Es similar al ajuste fino, pero aquí el énfasis está en el conjunto preciso de reglas que debe seguir el modelo en lugar de sus pesos generales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué hacemos esto?**
 

@@ -18,7 +18,7 @@ Entwickler erreichen diese Phase im Laufe der Jahre durch Fehler in verschiedene
 
 Sie sind in Führungspositionen in Softwareentwicklungsteams, Technologieunternehmen und groß angelegten digitalen Transformationsprojekten tätig.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann jeder, der viel Code schreibt, ein Senior Dev werden?**
 

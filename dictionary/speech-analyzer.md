@@ -22,7 +22,7 @@ Ses dalgalarını dijital veriye çevirir, yapay zekâ modelleriyle metne döker
 
 Sadece ses-metin dönüşümü yapan araçlardan, duygu analizi yapmasıyla ayrılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **SpeechAnalyzer özel hayatı ihlal eder mi?**
 

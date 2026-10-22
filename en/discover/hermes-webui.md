@@ -62,7 +62,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Middle
 - **What offers:** Web/mobile interface for agent management
 - **Fee:** Free · open source (MIT)
-- **License:** MIT · ayrıntı aşağıda
+- **License:** MIT · details below
 
 **License:** MIT · You can use it freely, modify it, and use it commercially.
 

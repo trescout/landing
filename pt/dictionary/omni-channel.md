@@ -37,7 +37,7 @@ Pensa-se que é multicanal. Nele há muitos canais, neste os canais são conecta
 **Orquestra:** As seções tocando uma única obra.
 **Aeroporto:** Sistema de bagagem em conexão.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que isso é importante?**
 

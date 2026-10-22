@@ -22,7 +22,7 @@ Você apresenta a pasta que contém seu projeto ao modelo. O agente entende a es
 
 É quase idêntico à Agentic Coding Tool; Este termo se concentra mais no próprio veículo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele substituirá os desenvolvedores de software?**
 

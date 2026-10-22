@@ -42,7 +42,7 @@ In der Regel gibt es pro Folie nur eine Idee. Den Text mit Bildern zu unterstüt
 **Fotoalbum:** Der visuelle Fluss, der die Erzählung ausrichtet.
 **Theater:** Der Phasenplan schreitet Schritt für Schritt voran.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann ich mir während einer Präsentation Notizen machen?**
 

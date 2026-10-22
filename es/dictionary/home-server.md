@@ -43,7 +43,7 @@ Se confunde con un ordenador de escritorio. Aquel se enciende de vez en cuando, 
 **Archivo:** Archivo de documentos.
 **Despensa:** Almacén de existencias.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se necesita un servidor?**
 

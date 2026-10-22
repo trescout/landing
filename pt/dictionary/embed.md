@@ -22,7 +22,7 @@ Os dados inseridos são passados ​​por um modelo matemático especial e conv
 
 Ao contrário do termo incorporação, que é exatamente o mesmo conceito, este é equivalente à palavra em ação ou operação.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que convertemos para listas numéricas?**
 

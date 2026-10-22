@@ -40,7 +40,7 @@ Arama motorlarının (Google) bir makaleyi dizine ekleyebilmesi için metni okum
 
 Paywall modellerinin yaygınlaşması önemli bir toplumsal ikilemi de beraberinde getirmiştir: Yanlış bilgi, dezenformasyon, sansasyonel ve tık tuzağı (clickbait) içerikler genellikle internette tamamen ücretsiz ve engelsiz yayılırken; doğruluğu teyit edilmiş, derin araştırmaya dayalı bağımsız kaliteli habercilik ödeme duvarlarının ardına kilitlenmektedir. Bu durum toplumda "parası olanın doğru bilgiye, olmayanın ise manipülasyona maruz kaldığı" bir bilgi ayrışması ve kutuplaşma tartışması yaratmaktadır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Paywall ne demek ve temel işlevi nedir?**
 

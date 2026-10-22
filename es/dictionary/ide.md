@@ -24,7 +24,7 @@ Se utiliza en procesos de desarrollo de software profesionales, al crear aplicac
 
 Se diferencia de los simples editores de texto que sólo se utilizan para escribir código por la riqueza del conjunto de herramientas que ofrece y la capacidad de gestionar todo el proyecto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Tengo que usar IDE?**
 

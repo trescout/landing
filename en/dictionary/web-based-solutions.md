@@ -22,7 +22,7 @@ It is widely used in email services, online document editors, and cloud-based bu
 
 Can be confused with desktop applications; Desktop applications take up physical space on the device, while web-based ones run in the browser.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can I use the application if my internet is cut off?**
 

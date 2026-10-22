@@ -22,7 +22,7 @@ Es wird im algorithmischen Handel und in der Finanzmodellierung verwendet.
 
 Nicht zu verwechseln mit der Vorhersage der Zukunft; Eine gute Leistung in der Vergangenheit bedeutet nicht, dass sie auch in Zukunft die gleiche Leistung erbringen wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Liefert Backtesting genaue Ergebnisse?**
 

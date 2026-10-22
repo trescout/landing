@@ -24,7 +24,7 @@ Yerel yapay zekâ uygulamalarında, özellikle LM Studio veya Ollama gibi araçl
 
 Genel dosya formatlarıyla veya sadece sıkıştırma yöntemleriyle karıştırılabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden GGUF kullanmalıyım?**
 

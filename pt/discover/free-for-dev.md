@@ -76,7 +76,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [RAM](https://trescout.com/pt/dictionary/ram/)
 
 - **Para quem é:** Empreendedores, desenvolvedores independentes, estudantes e engenheiros que desejam reduzir custos de infraestrutura.
-- **Licença:** CC BY 4.0 (Açık içerik lisansı)
+- **Licença:** CC BY 4.0 (licença de conteúdo aberto)
 - **curador:** RI Pienaar e mais de 1.000 colaboradores de código aberto
 - **Número de serviços:** Mais de 1.000 serviços gratuitos verificados
 

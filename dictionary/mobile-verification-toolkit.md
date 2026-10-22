@@ -24,7 +24,7 @@ Siber güvenlik incelemelerinde ve adli bilişim analizlerinde kullanılır.
 
 Genel amaçlı virüs tarayıcılarından farklı olarak spesifik ve gelişmiş hedefli casus yazılımları yakalamaya odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes kullanabilir mi?**
 

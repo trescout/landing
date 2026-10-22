@@ -22,7 +22,7 @@ Il est utilisé dans les plateformes de développement logiciel, les outils de r
 
 Il est souvent confondu avec le concept d'agent de codage lui-même. Alors que l'agent de codage est le système global qui effectue le travail, le Coding Agent Skill représente les outils de compétences spécifiques que ce système transporte dans son sac pour l'aider à résoudre des tâches particulières.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Un agent peut-il posséder plusieurs compétences de codage ?**
 

@@ -2,6 +2,8 @@
 
 *Datos e infraestructura · Última actualización: 20 de septiembre de 2026*
 
+> PKM
+
 La Gestión del Conocimiento Personal (PKM) es un conjunto de procesos y herramientas sistemáticos que las personas utilizan para capturar, clasificar y profundizar el intenso flujo de información que encuentran todos los días y generar nuevas ideas.
 
 ## Etimología y necesidad cognitiva
@@ -33,7 +35,7 @@ Falacia del coleccionista: Confundir guardar un artículo o un PDF con leerlo y 
 Optimización excesiva de herramientas (procrastinación): perder días con temas de software, colores de gráficos o jerarquías de carpetas complejas en lugar de tomar notas y producir.
 Omitir la Expresión (Express): Acumular información constantemente y nunca convertirla en un artículo, código o proyecto; el valor real de la información surge cuando se transfiere al mundo exterior.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia entre la Gestión del conocimiento personal (PKM) y la toma de notas clásica?**
 

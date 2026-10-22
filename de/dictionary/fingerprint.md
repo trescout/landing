@@ -24,7 +24,7 @@ Es wird bei der Betrugserkennung in Banking-Anwendungen, zur Abwehr von Bot-Angr
 
 Es wird oft mit der IP-Adresse verwechselt; während sich die IP-Adresse ändert, wenn Sie Ihr Modem neu starten oder ein VPN aktivieren, bleibt der Geräte-Fingerprint größtenteils konstant, solange Sie dieselbe Hardware verwenden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verhindert die Nutzung des Inkognito-Modus das Fingerprint-Tracking?**
 

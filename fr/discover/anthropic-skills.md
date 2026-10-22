@@ -59,7 +59,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Moyen · Ajouté comme compétence à Claude
 - **Quelles offres:** Packs de compétences officiels prêts à l'emploi
 - **Source:** Dépôt officiel anthropique
-- **Licence:** Standart tespit edilemedi · ayrıntı aşağıda
+- **Licence:** Norme non détectée · détail ci-dessous
 
 **Licence:** GitHub n'a pas détecté de licence standard pour ce dépôt. Même si Anthropic dispose d'un référentiel officiel, vérifiez le fichier LICENSE dans le référentiel avant de le réutiliser/distribuer.
 

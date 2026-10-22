@@ -22,7 +22,7 @@ Se utiliza en informes técnicos cuando se publica un nuevo modelo base, en las 
 
 No debe confundirse con las pruebas de hardware generales (benchmarks). Mientras que las pruebas clásicas miden la velocidad del procesador y de la memoria, las pruebas comparativas de inteligencia artificial miden la calidad de comprensión y razonamiento del modelo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden los modelos memorizar las preguntas de la prueba?**
 

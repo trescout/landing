@@ -22,7 +22,7 @@ Es wird in allen Technologiebereichen wie Softwareentwicklung, Datenanalyse, Cyb
 
 Im Gegensatz zum bloßen Erlernen des Umgangs mit einem Computer geht es darum, tiefgreifend zu verstehen, warum und wie der Computer funktioniert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Reicht es aus, zu wissen, wie man programmiert?**
 

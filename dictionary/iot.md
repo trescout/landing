@@ -24,7 +24,7 @@ Akıllı ev sistemlerinde, endüstriyel üretim hatlarının takibinde (IIoT), t
 
 Home automation (ev otomasyonu) IoT teknolojisinin sadece ev ölçeğindeki bir uygulama alanıdır; IoT ise fabrikalardan tıbba kadar tüm cihaz ağlarını kapsayan genel çatıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **IoT cihazları için en büyük risk nedir?**
 

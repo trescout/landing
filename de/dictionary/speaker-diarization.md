@@ -31,7 +31,7 @@ Diarization, dessen etymologischer Ursprung auf das französische Verb „diaris
 
 Transcription (Speech-to-Text / STT) und Speaker Diarization werden häufig verwechselt. Eine klassische Speech-to-Text-Engine wandelt lediglich das Gesagte in Text um, kann jedoch nicht unterscheiden, wer spricht. Diarization hingegen identifiziert, „wer spricht“. Während beispielsweise OpenAI Whisper eine reine Transkription durchführt, lassen sich in Kombination mit Tools wie pyannote.audio oder WhisperX sowohl der Text als auch die Sprecheridentitäten vollständig erfassen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Definition von Diarisierung (Was bedeutet Diarisierung)?**
 

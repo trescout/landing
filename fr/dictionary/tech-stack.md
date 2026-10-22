@@ -47,7 +47,7 @@ Choisir une mauvaise pile technologique peut entraîner une startup dans une cat
 - Tech Stack vs Framework uniquement : L'expression « Notre stack est React » est incomplète ; React n'est qu'une bibliothèque front-end. Une pile technologique couvre toute la chaîne, du serveur à la base de données, du système d'exploitation au CDN.
 - Le plus populaire n'est pas forcément le meilleur : chaque nouvel outil en vogue sur Hacker News ou les réseaux sociaux n'est pas nécessairement le bon pour votre projet. Les configurations complexes en microservices ou Kubernetes, lorsqu'elles ne sont pas nécessaires, sont un piège d'ingénierie excessive (over-engineering) dès les premiers stades.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie « tech stack » et quel est son équivalent en français ?**
 

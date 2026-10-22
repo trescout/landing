@@ -22,7 +22,7 @@ Es wird in Automatisierungssystemen, Datenanalyseprozessen und komplexen Arbeits
 
 Es kann mit gewöhnlichen Chatbots verwechselt werden; Bots reagieren einfach, während autonome Agenten die Arbeit erledigen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können autonome Agenten Fehler machen?**
 

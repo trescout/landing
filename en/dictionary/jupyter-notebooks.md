@@ -33,7 +33,7 @@ The Jupyter infrastructure operates on a loosely coupled three-layer architectur
 - Hidden State Risk: Executing cells in a random order rather than top-down order (out-of-order execution) may leave variable states invisible in memory. This may cause different results or errors when someone else runs the same notebook ("reproducibility crisis").
 - Version Control (Git) Challenges: Since .ipynb files contain rich output and Base64 graphics, it is difficult to examine line differences and resolve merge conflicts on Git. To overcome this problem, tools such as jupytext (tool that syncs notebook with clean Markdown or Python script) and nbdime are used.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does Jupyter Notebook mean and where does its meaning come from?**
 

@@ -22,7 +22,7 @@ VS Code, IntelliJ gibi popüler yazılım geliştirme ortamlarında veya doğrud
 
 Genellikle 'AI Coding Agent' ile karıştırılır; asistanlar daha çok öneri ve rehberlik odaklıyken, ajanlar belirli görevleri sizin yerinize uçtan uca yapabilen daha otonom yapılardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu araçlar kodun tamamını kendi başına yazabilir mi?**
 

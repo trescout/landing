@@ -44,7 +44,7 @@ Pensa-se que é um site. O site oferece conteúdo, a Web UI gerencia a aplicaç�
 **Cabine de pilotagem:** Layout de indicadores e botões.
 **Controle:** Painel de controle do dispositivo.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **A internet é necessária?**
 

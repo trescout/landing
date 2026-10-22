@@ -43,7 +43,7 @@ Trace sanılır. Log olay kaydıdır, trace olayın yoludur. Biri fotoğraf, di�
 
 *Uçağın kara kutusu gibidir; uçuş boyu kayıt tutulur, sorunda geriye sarılır.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden log gerekir?**
 

@@ -22,7 +22,7 @@ Ele é usado em aplicativos de anotações que exigem privacidade, dispositivos 
 
 É igual à voz para texto, mas difere porque não requer internet.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como pode funcionar de forma tão inteligente se não há internet?**
 

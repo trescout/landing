@@ -22,7 +22,7 @@ O processo de inferência ocorre sempre que você conversa com o ChatGPT ou faz 
 
 Confunde-se com treinamento do modelo; O modelo de educação são os anos escolares, enquanto a inferência é se formar e começar a funcionar.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quanto tempo leva o processo de inferência?**
 

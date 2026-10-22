@@ -42,7 +42,7 @@ Este apêndice mostra qual canal gera vendas. Se não houver dados, a decisão �
 **Bandeira:** Anúncio do teatro.
 **Amostra:** Não dê um gostinho.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Como a IA está mudando o marketing?**
 

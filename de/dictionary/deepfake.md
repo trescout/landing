@@ -22,7 +22,7 @@ Es wird bei der Effektproduktion in der Filmindustrie, bei Unterhaltungsinhalten
 
 Nicht zu verwechseln mit einfacher Fotobearbeitung; Deepfake deckt viel komplexere und bewegendere Inhalte ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie erkenne ich, ob ein Video ein Deepfake ist?**
 

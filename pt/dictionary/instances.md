@@ -22,7 +22,7 @@ Os recursos do sistema reservam um espaço separado para cada cópia. Assim, se 
 
 Não deve ser confundido com o programa em si (código-fonte); o código-fonte é único, enquanto as cópias em execução podem ser ilimitadas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que executamos mais de uma cópia?**
 

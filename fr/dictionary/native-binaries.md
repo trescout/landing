@@ -22,7 +22,7 @@ Ils sont fréquemment utilisés dans la programmation système, les moteurs de j
 
 Ils sont confondus avec les fichiers de code intermédiaire s'exécutant sur une machine virtuelle. Alors que les fichiers de code intermédiaire ont besoin d'un intermédiaire pour fonctionner sur n'importe quel ordinateur, les binaires natifs ne s'exécutent directement que sur le système spécifique pour lequel ils ont été produits.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les binaires natifs fonctionnent-ils sur tous les ordinateurs ?**
 

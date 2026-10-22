@@ -24,7 +24,7 @@ Dijital pazarlama, web geliştirme ve içerik yönetiminde kullanılır.
 
 Reklam vermekle (SEM) karıştırılmamalıdır; SEO tamamen doğal (organik) sonuçları iyileştirmeyi hedefler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sıralamam hemen yükselir mi?**
 

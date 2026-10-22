@@ -80,7 +80,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Administradores de sistemas, engenheiros de DevOps, especialistas em redes e arquitetos de nuvem.
-- **Licença:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **Licença:** BSD 3-Clause (Licença de código aberto flexível)
 - **Framework:** Biblioteca tsnet Go e Tailscale
 - **Plataformas:** Linux, macOS, Windows
 

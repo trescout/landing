@@ -18,7 +18,7 @@ Vous ouvrez un fichier texte et écrivez les commandes que vous souhaitez exécu
 
 Il est fréquemment utilisé dans la gestion de serveurs, les opérations de sauvegarde ou les processus d'installation de logiciels.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je utiliser un script au lieu de l’écrire à la main ?**
 

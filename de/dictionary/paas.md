@@ -44,7 +44,7 @@ Es wird oft mit IaaS verwechselt. IaaS stellt Hardware bereit, PaaS bietet eine 
 **Wohnung:** Möbliert zur Miete.
 **Bühne:** Beleuchtete, fertige Bühne.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist PaaS ein Muss?**
 

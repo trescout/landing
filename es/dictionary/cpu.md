@@ -24,7 +24,7 @@ Está en el corazón de todo tipo de dispositivos digitales, desde teléfonos in
 
 Mezclado con GPU; Mientras que la GPU se ocupa de tareas visuales y paralelas, la CPU se ocupa de tareas lógicas generales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa núcleo de CPU?**
 

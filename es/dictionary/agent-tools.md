@@ -22,7 +22,7 @@ Se encuentra comúnmente en asistentes avanzados de inteligencia artificial, pla
 
 No confundir con la propia mente o las pesas de la IA; Se trata de extensiones de capacidades añadidas desde fuera.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué herramientas puede utilizar la inteligencia artificial?**
 
@@ -36,7 +36,7 @@ Si no se otorgan las restricciones y permisos adecuados, la inteligencia artific
 
 - [AI Agent](https://trescout.com/es/dictionary/ai-agent/)
 - [Tools](https://trescout.com/es/dictionary/tools/)
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol/)
+- [Model Context Protocol](https://trescout.com/es/dictionary/mcp/)
 
 ## Herramientas relacionadas
 

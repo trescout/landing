@@ -42,7 +42,7 @@ Se puede confundir con API Gateway. API Gateway gestiona los servicios de softwa
 **Puerto:** Buques que pasan por la aduana.
 **Recepción:** Dirigir al visitante al piso correcto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo acceder a Internet sin una puerta de enlace?**
 

@@ -22,7 +22,7 @@ Es wird aktiv in der Bilderkennung, Tonverarbeitung und als Grundlage großer Sp
 
 Im Gegensatz zum allgemeinen Konzept der künstlichen Intelligenz ist dies die konkrete mathematische und architektonische Struktur, die diese Intelligenz ausmacht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Funktioniert es genauso wie das echte Gehirn?**
 

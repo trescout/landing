@@ -22,7 +22,7 @@ O motor de jogo calcula os fluxos de recursos e as redes de vias no mapa. Os sis
 
 Pode ser confundido com jogos de guerra geral ou de estratégia em tempo real: nos jogos de construção de cidades, o foco principal não é derrotar o inimigo, mas tornar uma infraestrutura complexa e um ciclo de vida sustentáveis.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que esses jogos são difíceis em termos de software?**
 

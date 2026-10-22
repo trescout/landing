@@ -22,7 +22,7 @@ Yapay zekâ uygulamalarının çalışma anında, API çağrılarında ve model 
 
 Modelin eğitilmesi (training) ile karıştırılmamalıdır; training modelin öğrenme süreci, inference ise uygulama sürecidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Inference sırasında model öğrenmeye devam eder mi?**
 

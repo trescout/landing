@@ -24,7 +24,7 @@ Applications Web modernes, plateformes SaaS et produits numériques nécessitant
 
 Peut être confondu avec Livraison continue ; En Livraison, la phase de mise en service peut nécessiter une approbation manuelle, alors qu'en Déploiement, elle est entièrement automatique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si nous faisons une erreur ?**
 

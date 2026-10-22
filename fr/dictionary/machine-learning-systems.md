@@ -18,7 +18,7 @@ De grands ensembles de données sont transmis au modèle, le modèle trouve des 
 
 Il est utilisé dans les systèmes de recommandation, la détection des fraudes, l’analyse de la santé et les véhicules autonomes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **En quoi est-ce différent de l’intelligence artificielle ?**
 

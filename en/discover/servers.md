@@ -55,12 +55,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol-mcp/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
 - [Context](https://trescout.com/en/dictionary/context/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is intended for developers who want to securely integrate artificial intelligence models with external tools such as local files, memory, and code repositories.
 

@@ -59,7 +59,7 @@ pip install -r requirements.txt
 - **dificultad:** Fundamentos de Python/ML intermedio-avanzado
 - **Formato:** Cuadernos Jupyter paso a paso
 - **Tarifa:** Gratis · código abierto (MIT)
-- **Licencia:** MIT · ayrıntı aşağıda
+- **Licencia:** MIT · detalles a continuación
 
 **Licencia:** MIT · puedes usar, adaptar y compartir contenido y código libremente.
 

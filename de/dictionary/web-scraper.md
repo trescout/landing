@@ -22,7 +22,7 @@ Es wird in der Marktforschung, im Preisvergleich und in Studien zur wissenschaft
 
 Web Scraping kann manchmal mit einem einfachen Kopier-Einfüge-Vorgang verwechselt werden, aber diese Methode ist völlig automatisch.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können Daten von jedem Standort abgerufen werden?**
 

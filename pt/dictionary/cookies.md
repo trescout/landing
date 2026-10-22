@@ -24,7 +24,7 @@ São utilizados no gerenciamento de sessões de usuário, no rastreamento de car
 
 Eles são confundidos com a impressão digital do dispositivo (fingerprint); enquanto os cookies podem ser facilmente limpos nas configurações do navegador, a impressão digital não pode ser apagada facilmente, pois se baseia em características de hardware.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Limpar os cookies danifica o meu computador?**
 

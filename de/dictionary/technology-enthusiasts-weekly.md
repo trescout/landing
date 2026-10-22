@@ -22,7 +22,7 @@ Es wird für Branchenexperten genutzt, um sich auf dem Laufenden zu halten, für
 
 Es wird mit akademischen Technologiezeitschriften verwechselt: Während akademische Zeitschriften sehr umfangreiche und theoretische Analysen bieten, konzentrieren sich diese Newsletter auf Entwicklungen, die praktisch, schnell zu lesen und auf das tägliche Leben anwendbar sind.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss man Softwareentwickler sein, um diese Newsletter zu verfolgen?**
 

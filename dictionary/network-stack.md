@@ -45,7 +45,7 @@ Hedef sunucuya ulaştığında işlem tersine döner (**Decapsulation**); katman
 
 *Uluslararası bir kargo operasyonuna benzer: Mektubu yazarsınız (Uygulama), mektubu zarfa koyup iadeli taahhütlü fişi eklersiniz (TCP), zarfı uluslararası adres yazılı bir koliye yerleştirirsiniz (IP), koli bir konteynere yüklenir (Ethernet Frame) ve kargo gemisiyle okyanusu aşar (Fiziksel hat).*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Network stack ne demek, Türkçe karşılığı nedir?**
 

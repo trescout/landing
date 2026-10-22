@@ -22,7 +22,7 @@ Es wird verwendet, um große Modelle auf Mobiltelefonen oder PCs auszuführen (S
 
 Es wird mit dem Training des Modells verwechselt, es handelt sich jedoch um einen Optimierungsprozess, der nach dem Training durchgeführt wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Nimmt die Intelligenz des Modells ab?**
 

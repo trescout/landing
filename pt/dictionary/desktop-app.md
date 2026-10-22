@@ -22,7 +22,7 @@ Usado em edição de vídeo, execução nativa de modelos de IA e ferramentas de
 
 Pode ser confundido com a interface web; os aplicativos da web dependem do navegador, enquanto os aplicativos de desktop são independentes.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O aplicativo de desktop é mais seguro?**
 

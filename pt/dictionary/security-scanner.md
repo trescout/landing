@@ -22,7 +22,7 @@ Você conecta o scanner ao seu sistema e inicia uma varredura. A ferramenta comp
 
 É usado com a mesma finalidade da Verificação de Vulnerabilidade, mas este termo se concentra diretamente no veículo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O verificador de segurança encontra todas as vulnerabilidades?**
 

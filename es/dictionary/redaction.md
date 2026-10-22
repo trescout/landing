@@ -22,7 +22,7 @@ Se utiliza al compartir expedientes de pruebas en demandas legales, al anonimiza
 
 Se suele confundir con simplemente dibujar una forma negra sobre el texto; mientras que en los dibujos superficiales el texto subyacente se puede copiar, en el proceso de oscurecimiento real los datos se eliminan por completo del archivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es suficiente oscurecer el texto pintándolo de negro en un PDF?**
 

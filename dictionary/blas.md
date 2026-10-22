@@ -24,7 +24,7 @@ Yapay zekâ kütüphanelerinde, bilimsel simülasyon araçlarında, üç boyutlu
 
 Sıradan bir matematik kütüphanesiyle karıştırılır. BLAS, sadece matematiksel formülleri içermez; bu formüllerin bilgisayar donanımında en yüksek performansla nasıl çalıştırılacağını doğrudan yönetir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **BLAS neden yapay zekâ için bu kadar önemlidir?**
 

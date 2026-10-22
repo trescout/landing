@@ -22,7 +22,7 @@ Se utiliza en optimización logística, enjambres robóticos y sistemas complejo
 
 Podría confundirse con un único modelo masivo de IA, pero aquí el poder proviene de una estructura distribuida.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué utilizar enjambres en lugar de un modelo único?**
 

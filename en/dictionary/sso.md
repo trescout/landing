@@ -24,7 +24,7 @@ It is used in corporate software and login options with Google or Facebook.
 
 It should not be confused with just password storage tools (Password Manager); SSO is an authentication protocol.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it safe?**
 

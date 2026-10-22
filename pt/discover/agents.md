@@ -49,7 +49,6 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [STT](https://trescout.com/pt/dictionary/stt/)
 - [Framework](https://trescout.com/pt/dictionary/framework/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Agent](https://trescout.com/pt/dictionary/agent/)

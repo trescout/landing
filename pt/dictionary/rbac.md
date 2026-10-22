@@ -24,7 +24,7 @@ O administrador do sistema primeiro define funções (como administrador, editor
 
 Pode ser confundido com SSO (Single Sign-On); SSO é o método de login, enquanto RBAC é a sua autorização após o login.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo usar o RBAC?**
 

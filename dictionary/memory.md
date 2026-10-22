@@ -22,7 +22,7 @@ Kişisel asistanlarda, uzun süreli proje takibi yapan araçlarda ve müşteri h
 
 Modelin kendi eğitim verisiyle karıştırılmamalıdır; bu özellik sizinle olan özel geçmişinizi kapsar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu bilgiler başkalarıyla paylaşılır mı?**
 

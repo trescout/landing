@@ -22,7 +22,7 @@ Il est utilisé dans des projets logiciels complexes, des processus de refactori
 
 Elle peut être confondue avec la structure classique des répertoires de fichiers, mais elle montre les liens logiques fonctionnels du code, pas seulement les fichiers.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment Code-Graph vous aide-t-il à écrire du code ?**
 

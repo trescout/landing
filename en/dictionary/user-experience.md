@@ -24,7 +24,7 @@ It is fundamental in the design processes of websites, mobile applications, soft
 
 It is confused with User Interface (UI); UI is visual, UX is how that visual interacts.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is UX important?**
 

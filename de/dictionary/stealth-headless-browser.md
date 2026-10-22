@@ -22,7 +22,7 @@ Wird für Aufgaben wie Web Scraping, automatisierte Tests und Preisüberwachung 
 
 Headless Browser
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verwenden wir keinen normalen Browser?**
 

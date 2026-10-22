@@ -22,7 +22,7 @@ Il est utilisé dans les études universitaires, les projets d’analyse de donn
 
 Ce n'est pas seulement un outil de gestion de projet ; il s'agit plutôt de la méthodologie d'un processus de découverte scientifique ou technique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ai-je besoin d'un cadre ?**
 

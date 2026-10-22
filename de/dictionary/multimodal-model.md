@@ -22,7 +22,7 @@ Es wird in fortschrittlichen Chatbots, visuellen Analysetools und autonomen Syst
 
 Es ist dasselbe wie das Konzept der Multimodalität, bei dem die „Modell“-Struktur besonders hervorgehoben wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum reicht Text nicht aus?**
 

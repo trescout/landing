@@ -22,7 +22,7 @@ Il est activement privilégié dans les applications mobiles où l'expérience u
 
 Il est différent du concept de journalisation (logging) qui stocke tous les événements du système de manière chronologique : le suivi des erreurs se concentre directement sur les exceptions et analyse et regroupe automatiquement ces problèmes.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les outils de suivi des erreurs enregistrent-ils les données personnelles des utilisateurs ?**
 

@@ -47,7 +47,7 @@ Se confunde con una característica o corrección de errores. Sin embargo, la sa
 **Redacción:** El tema es el mismo, la oración es fluida.
 **Poda:** El árbol es el mismo, la disposición de las ramas es ordenada.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué lo hacemos?**
 

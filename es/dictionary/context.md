@@ -47,7 +47,7 @@ Un sistema operativo que ejecuta multitarea (multitasking) distribuye el núcleo
 | Sistemas operativos | Estado instantáneo del hardware de un proceso | Registros, contador de programa, tablas de páginas | Latencia de CPU, fallos de caché (cache misses), vaciado de TLB (TLB flush) |
 | Desarrollo de software | Ciclo de vida de la solicitud y datos del entorno | Señal de tiempo de espera (timeout), token de autorización | Fuga de memoria, llamadas asíncronas no canceladas |
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa 'Context' y cuál es su equivalente en español?**
 

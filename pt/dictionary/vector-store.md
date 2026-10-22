@@ -22,7 +22,7 @@ Os dados primeiro passam por um processo chamado incorporação (embedding), sen
 
 Expressa exatamente o mesmo conceito que o termo existente vector-database, sendo apenas uma nomenclatura diferente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O armazenamento de vetores substitui o banco de dados normal?**
 

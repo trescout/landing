@@ -22,7 +22,7 @@ Siyasi seçim sonuçlarını önceden kestirmek, ekonomik trendleri analiz etmek
 
 Borsa ile karıştırılabilir ancak borsa şirket değerine odaklanırken tahmin piyasası doğrudan gelecekteki spesifik olayların gerçekleşme olasılığına odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Tahmin piyasaları neden geleneksel anketlerden daha iyidir?**
 

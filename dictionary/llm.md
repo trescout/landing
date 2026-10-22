@@ -38,7 +38,7 @@ Ancak bu devrim derin sosyolojik ve felsefi tartışmaları da beraberinde getir
 
 - **Gereksiz Büyük Model Seçmek:** Basit sınıflandırmalar için 70B+ model çalıştırmak yerine optimize edilmiş SLM'ler tercih edilmelidir.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Büyük Dil Modelleri (LLM) gerçek anlamda düşünür veya anlar mı?**
 

@@ -22,7 +22,7 @@ Funciona graças a bibliotecas dedicadas e modelos de orientação no sistema do
 
 É frequentemente confundido com o próprio conceito de agente de codificação. Enquanto o agente de codificação é o sistema holístico que realiza o trabalho, a Coding Agent Skill são as ferramentas de habilidades específicas que esse sistema carrega em sua bolsa para resolver determinadas tarefas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Um agente pode ter mais de uma habilidade de codificação?**
 

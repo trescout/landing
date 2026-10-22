@@ -22,7 +22,7 @@ It frequently occurs in Linux-based systems and customization of Android devices
 
 It is similar to the administrator account, but root generally refers to the deepest privileges in the system.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why doesn't everyone use root?**
 

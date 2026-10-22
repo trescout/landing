@@ -22,7 +22,7 @@ Os dados são vinculados por ponteiros, portanto você não precisa examinar a l
 
 Não deve ser confundido com bancos de dados relacionais clássicos (SQL); porque aqui o relacionamento não faz parte do quadro, mas é a base da estrutura.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo escolher esta estrutura?**
 

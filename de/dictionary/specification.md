@@ -46,7 +46,7 @@ Regel: Was nicht messbar ist, ist keine Spezifikation, sondern ein Wunsch. Jeder
 **Montageanleitung:** Teile- und Reihenfolgeschema.
 **Ausschreibung:** Administrative und technische Spezifikation.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Kann sich die Spezifikation ändern?**
 

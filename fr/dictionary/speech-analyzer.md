@@ -22,7 +22,7 @@ Il est utilisé dans les centres d’appels, les logiciels d’analyse de réuni
 
 Il diffère des outils qui effectuent uniquement la conversion audio-texte en ce sens qu'il effectue une analyse des sentiments.
 
-## Questions fréquentes
+## Questions et réponses
 
 **SpeechAnalyzer viole-t-il la vie privée ?**
 

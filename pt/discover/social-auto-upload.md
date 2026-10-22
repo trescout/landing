@@ -53,7 +53,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Médio · configuração + vinculação de conta
 - **O que oferece:** Upload automático de vídeo para múltiplas plataformas
 - **Taxa:** Código aberto (ver nota de licença)
-- **Licença:** Belirtilmemiş · ayrıntı aşağıda
+- **Licença:** Não especificado · detalhe abaixo
 
 **Licença:** ⚠️ Nenhuma licença é especificada no repo; o padrão é 'todos os direitos reservados'. Você pode pesquisar para tentar, mas a reutilização requer permissão expressa do autor.
 

@@ -22,7 +22,7 @@ Yapay zekâ destekli kod yazma araçlarında, otomatik veri analiz sistemlerinde
 
 Geliştirici ortamı (development environment) ile karıştırılmamalıdır: Geliştirici ortamı insanların kod yazması için tasarlanmışken, ajan çalışma alanı tamamen yapay zekâ yazılımlarının kendi kendine işlem yapması için optimize edilmiştir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ ajanı bu çalışma alanının dışına çıkıp bilgisayarıma zarar verebilir mi?**
 

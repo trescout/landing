@@ -22,7 +22,7 @@ Yazılım geliştirme süreçlerinde, veri analitiği çalışmalarında ve sunu
 
 Verilerin kendisini saklayan veri tabanı sunucusu ile karıştırılmamalıdır; istemci sadece arayüz ve yönetim aracıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hangi programlar veri tabanı istemcisi olarak bilinir?**
 

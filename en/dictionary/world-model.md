@@ -22,7 +22,7 @@ It is especially used for autonomous vehicles to make driving decisions and for 
 
 It should not be confused with just a database or a simple prediction algorithm because there is a simulation capability here.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is the world model important?**
 

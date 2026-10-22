@@ -39,7 +39,7 @@ Cette commande fait passer le nombre de réplicas du service web à cinq. Lorsqu
 **Réseau électrique :** Des centrales qui s'activent selon la demande.
 **Logistique :** Des lignes de distribution qui s'ouvrent et se ferment selon la densité.
 
-## Foire aux questions
+## Questions et réponses
 
 **Déplacer une application vers le cloud en fait-elle une application native cloud (cloud native) ?**
 

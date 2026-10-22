@@ -22,7 +22,7 @@ VS Code gibi kod editörlerinin içinde eklenti olarak veya özel geliştirilmi�
 
 AI Coding Agent terimiyle aynıdır, ancak bu daha çok genel bir kavramı ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Coding agent işimi elimden mi alacak?**
 

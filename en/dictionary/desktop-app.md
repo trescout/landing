@@ -22,7 +22,7 @@ Used in video editing, native running of AI models, and professional business to
 
 It can be confused with the web interface; web applications are browser dependent while desktop applications are independent.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is the desktop app more secure?**
 

@@ -50,7 +50,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Easy-medium application
 - **What offers:** Multi-platform, ad-free proxy client
 - **Fee:** Free · open source (GPL-3.0)
-- **License:** GPL-3.0 · ayrıntı aşağıda
+- **License:** GPL-3.0 · detail below
 
 **License:** GPL-3.0 · free to use; If you modify and distribute the software, you must share your changes with the source code under the same GPL license (copyleft).
 

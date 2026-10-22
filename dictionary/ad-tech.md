@@ -24,7 +24,7 @@ Sosyal medya platformları, arama motorları ve haber siteleri gibi tüm dijital
 
 Pazarlama ile aynı değildir; pazarlama stratejidir, ad tech ise bu stratejiyi uygulayan teknik araçlardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Gizliliğimi etkiler mi?**
 

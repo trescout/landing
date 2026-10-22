@@ -22,7 +22,7 @@ Il est utilisé dans les assistants personnels, les outils d’intelligence arti
 
 Il est simplement confondu avec la fenêtre contextuelle, mais le moteur de mémoire est un processus de stockage de données permanent et à beaucoup plus long terme.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment le moteur de mémoire affecte-t-il la confidentialité ?**
 

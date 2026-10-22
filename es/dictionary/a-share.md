@@ -22,7 +22,7 @@ Lo encontrará en análisis financieros globales y carteras centradas en el merc
 
 A diferencia de los conceptos generales de acciones internacionales, tiene una restricción geográfica y legal.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Los extranjeros no pueden conseguirlo?**
 

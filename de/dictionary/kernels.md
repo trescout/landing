@@ -22,7 +22,7 @@ Es befindet sich im Zentrum aller Betriebssysteme wie Windows, Linux und macOS.
 
 Nicht zu verwechseln mit dem Betriebssystem als Ganzes; Der Kernel ist lediglich die grundlegendste Verwaltungsebene.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn der Kernel abstürzt?**
 

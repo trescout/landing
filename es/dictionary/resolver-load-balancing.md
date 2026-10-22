@@ -22,7 +22,7 @@ Se utiliza en sitios web grandes e infraestructuras de red de alto tráfico.
 
 Puede confundirse simplemente con la agrupación de servidores, pero este método se centra específicamente en gestionar el tráfico de consultas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se acelerará el sitio gracias a este sistema?**
 

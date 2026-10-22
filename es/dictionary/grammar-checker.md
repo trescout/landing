@@ -22,7 +22,7 @@ Se utiliza con frecuencia en correos electrónicos, artículos académicos, publ
 
 Puede confundirse con los redactores publicitarios basados ​​en IA; Sin embargo, estas herramientas se centran en mejorar el contenido existente en lugar de producir contenido.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El corrector gramatical siempre da resultados precisos?**
 

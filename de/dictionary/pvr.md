@@ -39,7 +39,7 @@ Wird oft für einen VCR gehalten. Ein VCR ist kassettenbasiert, ein PVR ist digi
 **Podcast:** Herunterladen und unterwegs anhören.
 **Bildschirmaufnahme:** Archivierung der Lektion.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Sind PVR und DVR dasselbe?**
 

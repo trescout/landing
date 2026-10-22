@@ -22,7 +22,7 @@ It is used in social media live broadcasts, online education platforms and game 
 
 The difference from video recording is that the content is not a pre-prepared file, but a stream that takes place at that moment.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is live broadcast delayed?**
 

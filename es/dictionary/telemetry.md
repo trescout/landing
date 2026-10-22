@@ -36,7 +36,7 @@ Se puede confundir con la tala. El registro es la línea de evento única. Una m
 **Aviación:** Almacenar datos de vuelo en una caja negra.
 **Energía:** Los contadores reportan el consumo al centro.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Afecta a mi privacidad?**
 

@@ -22,7 +22,7 @@ It is used in recommendation systems, financial forecasting tools, and robots op
 
 Can be mixed with fine-tuning; fine-tuning is customization for a specific task, while continuous learning aims for overall improvement.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why doesn't every system constantly learn?**
 

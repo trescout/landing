@@ -22,7 +22,7 @@ It is used in stock markets, cryptocurrency exchanges and high-frequency trading
 
 It can be confused with artificial intelligence but does not always include artificial intelligence; Sometimes it's just simple 'if-then' rules.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it always make a profit?**
 

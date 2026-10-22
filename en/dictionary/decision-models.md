@@ -22,7 +22,7 @@ They are used in approving credit applications, stock trading strategies, logist
 
 They differ from pure prediction models; while prediction models tell 'what will happen tomorrow', decision models determine 'what needs to be done based on this prediction'.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do decision models always use artificial intelligence?**
 

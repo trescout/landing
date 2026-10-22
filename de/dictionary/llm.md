@@ -33,7 +33,7 @@ Diese Revolution hat jedoch auch tiefgreifende soziologische und philosophische 
 - Halluzination ignorieren: Die Ausgaben sollten durch RAG- und Leitplankenschichten hindurch geprüft werden, anstatt direkt an die Produktionslinie zu drucken.
 - Auswahl eines unnötig großen Modells: Für einfache Klassifizierungen sollten optimierte SLMs der Ausführung von 70B+-Modellen vorgezogen werden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Denken oder verstehen Large Language Models (LLM) wirklich?**
 

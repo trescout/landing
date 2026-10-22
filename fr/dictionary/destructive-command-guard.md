@@ -22,7 +22,7 @@ On le trouve couramment dans les applications de terminaux, les outils de dével
 
 Il peut être confondu avec un pare-feu ; Il bloque les attaques de l’extérieur, ce qui évite les erreurs que vous commettez de l’intérieur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cette protection doit-elle toujours être activée ?**
 

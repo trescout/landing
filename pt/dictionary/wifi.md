@@ -24,7 +24,7 @@ Conecte seu modem, ative o sinal do seu provedor de internet, selecione o nome d
 
 Pode ser confundido com a própria internet, mas o WiFi é apenas um meio de transporte que entrega a internet até você.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o WiFi fica lento?**
 

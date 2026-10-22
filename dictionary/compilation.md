@@ -22,7 +22,7 @@ C++, Rust ve Java gibi dillerde programı çalıştırmadan önce mutlaka yapıl
 
 Yorumlanan (interpreted) dillerden farkı, kodun çalışma anında değil, öncesinde tamamen dönüştürülmesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her dilde derleme gerekir mi?**
 

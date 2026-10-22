@@ -22,7 +22,7 @@ It is used in low-power consuming AI hardware, model compression techniques, and
 
 It should not be confused with the binary system: while binary uses only 0 and 1, ternary works with 3 different values.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are ternary AI models important?**
 

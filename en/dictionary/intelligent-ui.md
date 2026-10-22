@@ -22,7 +22,7 @@ It is starting to be featured in modern mobile applications, smart assistant pan
 
 It is different from classic dynamic interfaces; here, decisions are made by artificial intelligence models, not fixed rules.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does Intelligent UI look different for every user?**
 

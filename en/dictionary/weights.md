@@ -22,7 +22,7 @@ In files of large language models·that is, LLMs·that can be downloaded and run
 
 It is confused with the model architecture. The architecture is like the floor plan of the rooms in an empty building; the weights are the items placed inside those rooms that make the building livable.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can we manually change these numerical values?**
 

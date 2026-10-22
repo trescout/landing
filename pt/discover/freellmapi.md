@@ -86,7 +86,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
 
 - **Para quem é:** Desenvolvedores de inteligência artificial, pesquisadores de código aberto, engenheiros full-stack e desenvolvedores de protótipos.
-- **Licença:** MIT (Özgür açık kaynak lisansı)
+- **Licença:** MIT (Licença de código aberto livre)
 - **Framework:** Proxy reverso TypeScript/Node.js
 - **Plataformas:** Docker, Linux, macOS, Windows
 

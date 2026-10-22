@@ -22,7 +22,7 @@ Defina uma tarefa principal e divida-a em subpartes. Atribua um agente com habil
 
 É diferente de um único modelo de IA; O que é importante aqui é a interação dos agentes entre si.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como os agentes se dão bem?**
 

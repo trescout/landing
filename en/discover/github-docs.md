@@ -40,7 +40,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Difficulty:** Beginner-intermediate
 - **What offers:** Official GitHub doc source
 - **Source:** GitHub · official
-- **License:** CC-BY-4.0 · ayrıntı aşağıda
+- **License:** CC-BY-4.0 · detail below
 
 **License:** Content CC-BY-4.0 · you can use and adapt freely, but you must indicate the source (attribution to GitHub). See the repo for individual licenses in the code.
 

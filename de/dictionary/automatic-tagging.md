@@ -42,7 +42,7 @@ Es wird oft für manuelle Kennzeichnung gehalten. Das ist Menschenhand, dies ist
 **Postamt:** Keinen Stempel setzen.
 **Siegel:** Dokumentenmarkierung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es immer richtig?**
 

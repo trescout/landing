@@ -22,7 +22,7 @@ It is located at the center of all operating systems such as Windows, Linux and 
 
 Not to be confused with the operating system as a whole; The kernel is just the most basic management layer.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if the kernel crashes?**
 

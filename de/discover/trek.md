@@ -40,9 +40,9 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [PWA](https://trescout.com/de/dictionary/pwa/)
 - [SSO](https://trescout.com/de/dictionary/sso/)
 - [Self-hosted](https://trescout.com/de/dictionary/self-hosted/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/de/dictionary/context/)
+- [MCP](https://trescout.com/de/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Reisende, die ihre Reisen digital organisieren, ihre Ausgaben verfolgen und die volle Kontrolle über ihre eigenen Daten haben möchten.
 - **Lizenz:** AGPL-3.0

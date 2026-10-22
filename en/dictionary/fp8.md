@@ -24,7 +24,7 @@ It is used in training and running (inference) artificial intelligence models.
 
 Can be confused with Quantization; FP8 is actually a type of quantization.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it reduce the quality of the model?**
 

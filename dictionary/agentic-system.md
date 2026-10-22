@@ -22,7 +22,7 @@ Karmaşık iş akışlarının otomasyonunda, yazılım geliştirme süreçlerin
 
 Sıradan otomasyon araçlarıyla karıştırılabilir; otomasyon sadece önceden tanımlı yolu izlerken, agentic sistem yolu kendi çizer.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Agentic sistemler her zaman doğru kararı mı verir?**
 

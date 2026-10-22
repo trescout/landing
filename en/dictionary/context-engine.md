@@ -22,7 +22,7 @@ It is used in advanced artificial intelligence assistants, corporate information
 
 It might be confused with just a database; however, this system does not just store data, it also makes it meaningful for artificial intelligence.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I use it all the time?**
 

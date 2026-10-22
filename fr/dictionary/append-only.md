@@ -22,7 +22,7 @@ Il est utilisé dans les technologies blockchain, les systèmes de tenue de jour
 
 Peut être confondu avec les bases de données traditionnelles ; les méthodes traditionnelles peuvent mettre à jour les données, cette méthode ne le permet jamais.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si je fais une erreur ?**
 

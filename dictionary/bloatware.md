@@ -22,7 +22,7 @@ Akıllı telefonlarda, dizüstü bilgisayarlarda ve hazır kurulu gelen yazılı
 
 Gerekli sistem uygulamaları ile karıştırılmamalıdır; bloatware isteğe bağlı olmayan ve verimsizlik yaratan yazılımdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bloatware'den nasıl kurtulurum?**
 

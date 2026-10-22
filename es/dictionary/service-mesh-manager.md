@@ -42,7 +42,7 @@ Se considera una puerta de entrada. La puerta se detiene en la puerta, el admini
 **Centro de tráfico:** Red de señal y cámaras.
 **Director de orquesta:** Diseño de sección.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no se gestiona manualmente?**
 

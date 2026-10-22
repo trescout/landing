@@ -22,7 +22,7 @@ E-posta servisleri, çevrimiçi belge düzenleyiciler ve bulut tabanlı iş ara�
 
 Masaüstü uygulamaları ile karıştırılabilir; masaüstü uygulamaları cihazda fiziksel yer kaplar, web tabanlı olanlar ise tarayıcıda çalışır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **İnternetim kesilirse uygulamayı kullanabilir miyim?**
 

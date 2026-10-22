@@ -69,7 +69,6 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Voice Agents](https://trescout.com/de/dictionary/voice-agents/)
 - [Speech-to-Speech](https://trescout.com/de/dictionary/speech-to-speech/)
-- [STT](https://trescout.com/de/dictionary/stt/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

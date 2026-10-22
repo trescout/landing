@@ -22,7 +22,7 @@ It is used in the internal working mechanisms of generative artificial intellige
 
 It is similar to Embedding, but here there is more emphasis on the structural organization of the data in mathematical space.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is this important?**
 

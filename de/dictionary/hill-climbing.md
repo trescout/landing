@@ -22,7 +22,7 @@ Es wird in Optimierungsprozessen von Algorithmen der künstlichen Intelligenz, i
 
 Es kann mit Suchmethoden verwechselt werden, die komplexer sind und alle Möglichkeiten berücksichtigen; Diese Methode ist viel schneller, garantiert jedoch nicht immer das perfekte Ergebnis.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum findet er nicht immer das beste Ergebnis?**
 

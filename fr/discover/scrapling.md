@@ -53,7 +53,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Moyen · Python
 - **Quelles offres:** Scraping adaptatif et évolutif
 - **Frais:** Gratuit · open source (BSD-3)
-- **Licence:** BSD-3-Clause · ayrıntı aşağıda
+- **Licence:** Clause BSD-3 · détail ci-dessous
 
 **Licence:** Clause BSD-3 · vous pouvez l'utiliser librement, le modifier, en faire un usage commercial (conserver la mention de droit d'auteur).
 

@@ -22,7 +22,7 @@ Il est utilisé lors de la phase de planification du projet d’intelligence art
 
 Peut être confondu avec les compétences IA ; La capacité est le potentiel inné du modèle, et la compétence est la formation de ce potentiel pour une tâche spécifique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les capacités de l’intelligence artificielle augmentent-elles avec le temps ?**
 

@@ -22,7 +22,7 @@ Es wird auf Finanzmärkten und algorithmischen Handelsplattformen eingesetzt.
 
 Es kann mit manuellem Handel verwechselt werden; Während Sie beim manuellen Handel die Entscheidung sofort treffen, trifft sie hier das System.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich systematisch handeln?**
 

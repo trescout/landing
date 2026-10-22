@@ -24,7 +24,7 @@ As camadas de memória são ligadas umas às outras por conexões verticais muit
 
 É confundida com as memórias de computador standard que utilizamos nas nossas casas, ou seja, a RAM. As memórias standard têm uma disposição horizontal e as suas velocidades de transferência de dados são muito mais baixas em comparação com esta tecnologia vertical especial.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Porque é que esta tecnologia de memória não é comum nos computadores normais?**
 

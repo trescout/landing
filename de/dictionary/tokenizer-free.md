@@ -22,7 +22,7 @@ Es wird in mehrsprachigen Modellen, Sprachverarbeitungssystemen und Datenanalyse
 
 Es wird mit herkömmlichen tokenbasierten Modellen verwechselt, diese Methode ist jedoch eine rohere und direktere Form der Datenverarbeitung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Läuft es schneller?**
 

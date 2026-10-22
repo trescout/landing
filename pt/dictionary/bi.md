@@ -46,7 +46,7 @@ Com ferramentas de autoatendimento, a unidade de negócios cria seu próprio rel
 **Painel de instrumentos:** Informações de velocidade e combustível.
 **Previsão do tempo:** Gerar previsões a partir de medições.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que o BI é importante?**
 

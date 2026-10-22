@@ -24,7 +24,7 @@ It is used in digital marketing, web development and content management.
 
 Not to be confused with advertising (SEM); SEO aims to improve completely natural (organic) results.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will my ranking increase immediately?**
 

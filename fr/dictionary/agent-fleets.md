@@ -22,7 +22,7 @@ Il est utilisé dans des projets de développement de logiciels complexes et dan
 
 C'est presque la même chose que les systèmes multi-agents ; L'accent est ici davantage mis sur la gestion de la « flotte » à grande échelle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment les représentants se comprennent-ils ?**
 

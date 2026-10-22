@@ -40,7 +40,7 @@ For search engines (like Google) to index an article, they need to read the text
 
 The proliferation of paywall models has also brought about a significant social dilemma: While misinformation, disinformation, sensational, and clickbait content generally spread completely free and unhindered on the internet, fact-checked, deep-research-based independent quality journalism is locked behind paywalls. This situation creates a debate in society regarding information segregation and polarization, often described as "those with money are exposed to accurate information, while those without are exposed to manipulation."
 
-## Frequently asked questions
+## Questions and answers
 
 **What is a paywall and what is its primary function?**
 

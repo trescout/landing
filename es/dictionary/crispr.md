@@ -20,7 +20,7 @@ Utilizando una proteína especial y un ARN guía, se centra en un punto específ
 
 Se utiliza en investigación médica, tecnologías agrícolas y el tratamiento de enfermedades genéticas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la relación entre CRISPR y la inteligencia artificial?**
 

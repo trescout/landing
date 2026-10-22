@@ -42,7 +42,7 @@ Se piensa que es un sitio web. Sin embargo, localhost es exclusivo de tu ordenad
 **Música:** Prueba de sonido antes de grabar.
 **Cocina:** Degustación antes de servir.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué usamos localhost?**
 

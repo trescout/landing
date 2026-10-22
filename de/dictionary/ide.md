@@ -24,7 +24,7 @@ Es wird in professionellen Softwareentwicklungsprozessen, bei der Erstellung kom
 
 Es unterscheidet sich von einfachen Texteditoren, die nur zum Schreiben von Code verwendet werden, durch die Fülle der angebotenen Tools und die Möglichkeit, das gesamte Projekt zu verwalten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss ich IDE verwenden?**
 

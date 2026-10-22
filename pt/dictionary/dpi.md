@@ -39,7 +39,7 @@ Regra de equilíbrio: Um DPI desnecessariamente alto incha o arquivo, um DPI bai
 **Mosaico:** Número de pontos por unidade de área.
 **Data de impressão:** Tramas de jornal e frequência de pontos offset.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que acontece se o DPI for alto?**
 

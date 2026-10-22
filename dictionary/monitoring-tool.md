@@ -22,7 +22,7 @@ Sunucularda, web uygulamalarında ve büyük ölçekli altyapılarda kullanılı
 
 Hata ayıklama (debugging) araçları ile karıştırılabilir; hata ayıklama kodun içindeki hatayı bulur, izleme aracı ise sistemin genel sağlığını takip eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden buna ihtiyacım var?**
 

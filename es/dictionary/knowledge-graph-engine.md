@@ -22,7 +22,7 @@ Se utiliza en los resultados de búsqueda de Google, en los sistemas de recomend
 
 Puede confundirse con las bases de datos estándar, pero aquí el foco está en la relación entre los datos, no en los datos en sí.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería utilizar esto en lugar de la base de datos normal?**
 

@@ -24,7 +24,7 @@ It is used in voice assistants on smartphones, customer service audio recording 
 
 It is the process of converting speech to text, which is the exact opposite of text-to-speech technology that converts text to speech.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can it work in noisy environments?**
 
@@ -33,7 +33,7 @@ Yes, thanks to advanced filtering algorithms, it can suppress background noises 
 ## Related terms
 
 - [Speech-to-Text](https://trescout.com/en/dictionary/speech-to-text/)
-- [STT](https://trescout.com/en/dictionary/stt/)
+- [STT](https://trescout.com/en/dictionary/speech-to-text/)
 - [Whisper](https://trescout.com/en/dictionary/whisper/)
 - [Transcription](https://trescout.com/en/dictionary/transcription/)
 

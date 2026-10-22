@@ -22,7 +22,7 @@ It is used in almost all programming languages ​​and operating system develo
 
 It can be confused with Framework or SDK, but core libraries refer to the basic functionality and frameworks refer to a broader application skeleton.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are core libraries important?**
 

@@ -41,7 +41,7 @@ Cela peut être confondu avec les « Open Weights ». Les « Open Weights » sig
 **Manuel scolaire :** Un code source ouvert que tout le monde peut lire et corriger.
 **Banque de semences :** Semences ancestrales partagées par les agriculteurs.
 
-## Foire aux questions
+## Questions et réponses
 
 **Les modèles open source sont-ils plus faibles ?**
 

@@ -22,7 +22,7 @@ It is heavily used in digital marketing, game design for creating concept art, a
 
 It should not be confused with visual search engines. While search engines find existing images, this technology creates a completely new and original image.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can text-to-image systems generate copyrighted images?**
 

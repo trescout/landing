@@ -22,7 +22,7 @@ Es wird bei der Automatisierung komplexer Geschäftsprozesse und autonomer Softw
 
 Kann mit AI Agent verwechselt werden; Dies ist eine Disziplin, und AI Agent ist das Produkt dieser Disziplin.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Welche Rolle wird hier der Softwareentwickler spielen?**
 

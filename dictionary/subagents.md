@@ -22,7 +22,7 @@ Gelişmiş yapay zekâ sistemlerinde, çok adımlı görevlerde ve karmaşık ve
 
 Multi-agent LLM ile benzerdir ancak subagent kavramı daha çok hiyerarşik bir yönetim modelini vurgular.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tek bir güçlü ajan yerine alt-ajanlar kullanıyoruz?**
 

@@ -44,7 +44,7 @@ Es wird für kostenlose Software gehalten. Sie ist völlig offen, das ist Teil d
 **Probefahrt:** Galerierundgang.
 **Bibliothek:** Kostenlose Mitgliedschaft.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Unbegrenzt?**
 

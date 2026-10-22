@@ -22,7 +22,7 @@ Arama motoru indekslemede, veri toplama projelerinde ve fiyat karşılaştırma 
 
 Web scraping ile karıştırılabilir; crawler tüm ağı gezer, scraper ise belirli bir sayfadan veri çeker.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her siteyi gezebilirler mi?**
 

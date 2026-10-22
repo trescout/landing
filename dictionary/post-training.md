@@ -22,7 +22,7 @@ Büyük dil modellerinin son kullanıcıya sunulmadan önceki hazırlık aşamas
 
 Pre-training (ön eğitim) ile karıştırılır; ön eğitim modelin temellerini atarken, post-training modelin davranışını şekillendirir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Post-training neden gereklidir?**
 

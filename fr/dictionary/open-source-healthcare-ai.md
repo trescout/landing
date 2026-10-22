@@ -22,7 +22,7 @@ Il est utilisé dans les hôpitaux, les centres de recherche médicale et les ap
 
 Il peut être confondu avec des logiciels de santé commerciaux, mais l’intérieur de ces modèles est visible par tous.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces modèles remplaceront-ils les médecins ?**
 

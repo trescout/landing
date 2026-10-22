@@ -2,16 +2,16 @@
 
 Unciv é uma adaptação de código aberto, minimalista e multiplataforma para desktop e Android do Civilization V. Desenvolvido com infraestrutura Kotlin e LibGDX, o projeto oferece mecânica de estratégia 4X original com carga zero de hardware e alto suporte a mod.
 
-- ★ 11.464
+- ★ 11.477
 - Kotlin
 - GitHub Trending · 2026-06-18
 
 ## Atualizações
 
+- **22 de outubro de 2026:** Estrelas 11,464 → 11,477, versão mais recente 4.22.13 (21 de outubro de 2026).
 - **19 de outubro de 2026:** Estrelas 11,458 → 11,464, versão mais recente 4.22.12 (18 de outubro de 2026).
 - **18 de outubro de 2026:** Estrelas 11,452 → 11,458, versão mais recente 4.22.11-patch1 (17 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 11,433 → 11,452, versão mais recente 4.22.11 (16 de outubro de 2026).
-- **13 de outubro de 2026:** Estrelas 11,429 → 11,433, versão mais recente 4.22.10 (13 de outubro de 2026).
 
 ## O que você ganha
 
@@ -66,12 +66,13 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [Exploit](https://trescout.com/pt/dictionary/exploit/)
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Para jogadores e modders independentes que desejam experimentar jogos clássicos de estratégia 4X em uma infraestrutura leve, sem anúncios e de código aberto.
-- **Licença:** MPL-2.0 (Mozilla Public License 2.0)
+- **Licença:** MPL-2.0 (Licença Pública Mozilla 2.0)
 - **Motor de jogo:** LibGDX (plataforma cruzada baseada em Kotlin)
 - **Plataformas:** Android, Windows, Linux, macOS
 

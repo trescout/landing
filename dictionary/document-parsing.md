@@ -22,7 +22,7 @@ Faturaların otomatik işlenmesinde, sözleşmelerin analiz edilmesinde veya uzu
 
 Sadece metin kopyalamak ile karıştırılır, ancak parsing verinin yapısını (tablo mu, başlık mı) koruyarak aktarır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her belgeyi okuyabilir mi?**
 

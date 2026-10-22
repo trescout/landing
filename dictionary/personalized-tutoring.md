@@ -18,7 +18,7 @@ Sistem, öğrencinin verdiği cevapları ve harcadığı süreyi analiz eder. E�
 
 Dil öğrenme uygulamalarında, çevrimiçi eğitim platformlarında ve okul destek yazılımlarında kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Öğretmenin yerini tamamen alır mı?**
 

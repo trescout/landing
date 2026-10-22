@@ -42,7 +42,7 @@ Plus le modèle est grand, plus la précision augmente et plus le temps s'allong
 **Interprète:** Transférer d'une langue à l'autre.
 **Dactylographe :** Écrire ce qui est dit.
 
-## Foire aux questions
+## Questions et réponses
 
 **Puis-je l'utiliser dans ma propre application ?**
 

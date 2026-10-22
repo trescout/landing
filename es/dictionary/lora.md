@@ -46,7 +46,7 @@ Se considera un ajuste fino. Cubre todo el modelo, es una adición liviana. Uno 
 **Lente:** Filtro adjunto a la cámara.
 **Parche:** Un escudo de armas cosido a la ropa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Lo ralentiza?**
 

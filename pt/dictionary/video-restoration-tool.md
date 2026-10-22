@@ -22,7 +22,7 @@ O modelo de inteligência artificial analisa cada quadro do vídeo um por um e d
 
 Pode ser confundido com ferramentas de edição de vídeo, mas os editores de vídeo cortam e mesclam, enquanto essas ferramentas reparam pixels diretamente com inteligência artificial.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Essas ferramentas podem transformar vídeos em preto e branco em coloridos?**
 

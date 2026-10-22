@@ -41,7 +41,7 @@ Kural: İskelet başlangıçtır, kural defteri değil. Proje büyüdükçe dosy
 
 *Ev inşa ederken temeli ve duvarları hazır prefabrik yapı kullanmak gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Şablonlar özelleştirilebilir mi?**
 

@@ -47,7 +47,7 @@ Elegir la pila de tecnología incorrecta puede llevar a una startup a un desastr
 - Tech Stack vs Just Framework: falta la declaración "Reaccionar nuestra pila"; React es una biblioteca únicamente de interfaz. La pila de tecnología cubre toda la cadena, desde el servidor hasta la base de datos, desde el sistema operativo hasta la CDN.
 - Más popular = Mejor: no todas las herramientas nuevas que son tendencia en Hacker News o las redes sociales son la herramienta adecuada para su proyecto. Los microservicios complejos o las implementaciones de Kubernetes que no son necesarios son una trampa para el exceso de ingeniería temprana.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa tech stack y cuál es su equivalente turco?**
 

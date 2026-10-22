@@ -22,7 +22,7 @@ Se utiliza al realizar análisis de código en grandes proyectos de software, en
 
 Es diferente de los sistemas clásicos de búsqueda basados en texto; en lugar de la coincidencia de texto, revela los vínculos semánticos y arquitectónicos del código.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se utiliza el Grafo de Conocimiento del Código en lugar de la búsqueda de texto plano?**
 

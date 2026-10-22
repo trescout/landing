@@ -46,7 +46,7 @@ C’est considéré comme un réglage fin. Il couvre tout le modèle, c'est un a
 **Lentille:** Filtre attaché à la caméra.
 **Correctif:** Un blason cousu sur un vêtement.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-ce que cela ralentit ?**
 

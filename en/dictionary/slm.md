@@ -44,7 +44,7 @@ He is considered weak. Generally narrow, strong in duty. One is an encyclopedia,
 **Torch:** Targeted light.
 **scooter:** Short distance vehicle.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Less intelligent?**
 

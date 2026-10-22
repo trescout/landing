@@ -42,7 +42,7 @@ It is thought to be a library. The library is called, the roof calls. One is the
 **Chef:** Menu and kitchen layout.
 **Turnkey:** Finished house delivery.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it used?**
 

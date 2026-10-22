@@ -24,7 +24,7 @@ Sunucu yönetiminde, yazılım dağıtım süreçlerinde ve karmaşık sistem ot
 
 Basit bir 'script' veya 'shell' betiği ile karıştırılabilir; ajanlar sonuçlara göre karar verme yeteneğine sahiptir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Güvenli mi?**
 

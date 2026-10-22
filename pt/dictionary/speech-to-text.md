@@ -2,6 +2,8 @@
 
 *Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
+> STT
+
 Speech-to-text (abreviado como STT, conversão de fala em texto) é a tecnologia que converte áudio em texto escrito.
 
 ## Definição e origem da palavra
@@ -42,7 +44,7 @@ Pensa-se que é conversão de texto em fala. Aquilo converte texto em som, isto 
 **Datilógrafo:** Escrever o que é dito.
 **Sala de legendagem:** Preparar legendas para transmissão.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Ele entende cada sotaque?**
 

@@ -55,7 +55,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Herramienta de desarrollo mediana
 - **Que ofertas:** Análisis rápido de documentos
 - **Tarifa:** Gratis · código abierto (Apache-2.0)
-- **Licencia:** Apache-2.0 · ayrıntı aşağıda
+- **Licencia:** Apache-2.0 · detalle a continuación
 
 **Licencia:** Apache-2.0 · puedes usarlo libremente, modificarlo, hacer uso comercial (también incluye protección por patente).
 

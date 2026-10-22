@@ -22,7 +22,7 @@ São utilizados em projetos de software corporativos, projetos de código aberto
 
 Não deve ser confundido com a funcionalidade do código; esses guias regulam como o código se parece, não como ele funciona.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo seguir essas regras?**
 

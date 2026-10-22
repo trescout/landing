@@ -22,7 +22,7 @@ Você simplesmente define o objetivo final do sistema. O sistema identifica as s
 
 Pode ser confundido com ferramentas comuns de automação; Enquanto a automação segue apenas o caminho predefinido, o próprio sistema agente traça o caminho.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os sistemas agentes sempre tomam a decisão certa?**
 

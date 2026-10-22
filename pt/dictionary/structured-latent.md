@@ -22,7 +22,7 @@ Os dados são compactados com algoritmos especiais e colocados em um mapa matem�
 
 É semelhante ao Embedding, mas aqui há mais ênfase na organização estrutural dos dados no espaço matemático.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é importante?**
 

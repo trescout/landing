@@ -22,7 +22,7 @@ They are used in artificial intelligence model training, physics simulations, an
 
 They can be confused with simple algebraic equations; however, these equations calculate not just constant values, but the change itself.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why does artificial intelligence use these equations?**
 

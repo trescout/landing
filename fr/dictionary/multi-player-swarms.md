@@ -22,7 +22,7 @@ Il est utilisé dans l’analyse de données complexes, le développement de log
 
 Il ne faut pas le confondre avec un seul grand modèle d’intelligence artificielle, il y a ici un travail d’équipe.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utilisons-nous un essaim plutôt qu’un seul modèle puissant ?**
 

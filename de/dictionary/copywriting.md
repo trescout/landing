@@ -22,7 +22,7 @@ Es wird häufig auf Startseiten von Websites, Verkaufsseiten, in digitalen Anzei
 
 Es wird oft mit Content-Writing verwechselt; während Content-Writing eher lehrreich und informativ ist, ist Copywriting direkt auf Verkauf und Überzeugung ausgerichtet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist der Unterschied zwischen Copywriting und Content-Writing?**
 

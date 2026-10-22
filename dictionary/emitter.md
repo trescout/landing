@@ -40,7 +40,7 @@ Emitter, optimize edilmiş Soyut Sözdizim Ağacını (AST) veya Ara Temsili (IR
 
 **Code Emitter:** Bir mimarın çizdiği ayrıntılı teknik planları (AST) alıp şantiye ustalarının doğrudan uygulayabileceği kalıp ve demir donatı talimatlarına döken başmühendistir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Emitter ne demek ve Türkçe karşılığı nedir?**
 

@@ -22,7 +22,7 @@ Il est utilisé pour garantir la sécurité des processus de développement de l
 
 Il peut être confondu avec le terme Vulnerability Scanning ; c'est un outil, c'est la compétence que vous possédez.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-il nécessaire de connaître le code pour acquérir des compétences en cybersécurité ?**
 

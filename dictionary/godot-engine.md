@@ -22,7 +22,7 @@ Bağımsız oyun yapımcıları tarafından PC, konsol ve mobil oyun projelerind
 
 Diğer ticari oyun motorlarından farklı olarak tamamen ücretsizdir ve herhangi bir lisans ücreti talep etmez.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kod bilmem gerekiyor mu?**
 

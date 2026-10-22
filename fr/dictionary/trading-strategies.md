@@ -22,7 +22,7 @@ Il est utilisé dans les logiciels boursiers, les plateformes d’investissement
 
 Il est mélangé à un agent commercial ; La stratégie est la règle, l'agent est le logiciel qui implémente cette règle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **La stratégie fonctionne-t-elle toujours ?**
 

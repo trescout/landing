@@ -22,7 +22,7 @@ It is used in cloud storage services, large data backups, and the delivery of me
 
 It can be confused with normal hard disk file systems; however, this system is designed for much larger data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why doesn't it use folders?**
 

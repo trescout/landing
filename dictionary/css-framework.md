@@ -43,7 +43,7 @@ Utility-first sanılır. O yaklaşımdır, framework araçtır. Araç yaklaşım
 
 *Ev kurarken hazır kapı ve mobilya seti seçmeye benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Siteler benzemez mi?**
 

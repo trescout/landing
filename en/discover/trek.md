@@ -40,9 +40,9 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [PWA](https://trescout.com/en/dictionary/pwa/)
 - [SSO](https://trescout.com/en/dictionary/sso/)
 - [Self-hosted](https://trescout.com/en/dictionary/self-hosted/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/en/dictionary/context/)
+- [MCP](https://trescout.com/en/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for travelers who want to organize their trips digitally, track their expenses and have full control over their data.
 - **License:** AGPL-3.0

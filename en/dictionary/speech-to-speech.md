@@ -36,7 +36,7 @@ The basic engineering steps behind voice-to-voice systems are:
 - Emotionally Interactive Assistants: Not only those who take commands; assistants that recognize sadness, alarm, or joy in the user's voice and respond with an appropriate compassionate or energetic tone.
 - Dubbing and Media Production: Automatic adaptation of actors' voices and lip syncs into other languages ​​without distorting the original emotion and tone.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does Speech-to-Speech mean and how does it work?**
 
@@ -56,7 +56,7 @@ Realistic voice cloning technology poses the risk of impersonation and fraud. Fo
 
 ## Related terms
 
-- [STT](https://trescout.com/en/dictionary/stt/)
+- [STT](https://trescout.com/en/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/en/dictionary/speech-to-text/)
 - [Voice Cloning](https://trescout.com/en/dictionary/voice-cloning/)
 - [Whisper](https://trescout.com/en/dictionary/whisper/)

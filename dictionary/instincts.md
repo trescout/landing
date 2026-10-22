@@ -22,7 +22,7 @@ Hızlı yanıt vermesi gereken sohbet robotlarında ve anlık karar alma süreç
 
 Bilinçli bir akıl yürütme süreci ile karıştırılmamalıdır; bu sadece bir istatistiksel hızdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekânın içgüdüsü hata yapabilir mi?**
 

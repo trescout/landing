@@ -34,7 +34,7 @@ Além disso, o RAG proporciona transparência e auditabilidade (explainability) 
 - Ignorando reordenação: pressionar o prompt nas primeiras faixas com semelhança vetorial direta sem codificador cruzado convida a alucinações.
 - Problema perdido no meio: Como os LLMs podem perder informações no meio de prompts longos, os recursos mais críticos devem ser colocados no início ou no final.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Qual é a principal diferença entre RAG e Fine-Tuning (Ajuste Fino)?**
 

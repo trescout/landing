@@ -50,7 +50,7 @@ Vantagem de silício e memória unificada da Apple: ter CPU e GPU compartilhando
 - Auto-Hospedado: Hospedado em servidor no escritório ou residência do usuário; Ele está conectado através da rede local, o ônus da manutenção é do usuário.
 - Cloud (SaaS): Todo hardware e dados ficam em data center de empresa terceirizada; Oferece alta disponibilidade, mas exige comprometimento constante da Internet e da privacidade.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que significa 'local' e qual é o seu equivalente na computação?**
 

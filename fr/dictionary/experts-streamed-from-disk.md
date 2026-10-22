@@ -22,7 +22,7 @@ Il est particulièrement utilisé par les développeurs souhaitant exécuter de 
 
 Cela peut être confondu avec le chargement de l'intégralité du modèle en mémoire ; ici, il s'agit uniquement d'un chargement au moment du besoin.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cette méthode réduit-elle la vitesse ?**
 

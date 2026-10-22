@@ -24,7 +24,7 @@ Enquanto o modelo está em execução, ele é criado automaticamente em segundo 
 
 Pode ser confundido com Janela de Contexto, mas este não é um limite de capacidade, mas um método de utilização eficiente desta capacidade.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o cache KV é importante?**
 

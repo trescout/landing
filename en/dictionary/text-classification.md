@@ -22,7 +22,7 @@ It is frequently used in spam filtering for e-mail services, request routing in 
 
 It should not be confused with text generation: Text classification labels existing text and does not write new text.
 
-## Frequently asked questions
+## Questions and answers
 
 **How much data is required for text classification?**
 

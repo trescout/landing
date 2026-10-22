@@ -22,7 +22,7 @@ Rust, TypeScript, Java gibi dillerde ve büyük ölçekli yazılım projelerinde
 
 Sadece bir 'hata mesajı' değildir; bu, programlama dilinin kendi temel çalışma prensibidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden herkes kullanmıyor?**
 

@@ -22,7 +22,7 @@ Es wird während der Projektplanungsphase für künstliche Intelligenz und der M
 
 Kann mit KI-Fähigkeiten verwechselt werden; Fähigkeit ist das dem Modell innewohnende Potenzial, und Fähigkeit ist das Training dieses Potenzials für eine bestimmte Aufgabe.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Steigen die Fähigkeiten künstlicher Intelligenz mit der Zeit?**
 

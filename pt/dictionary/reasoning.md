@@ -22,7 +22,7 @@ Ao realizar o raciocínio, os modelos de inteligência artificial criam uma cade
 
 É frequentemente confundido com o simples reconhecimento de padrões ou a recuperação de informações memorizadas. Enquanto o reconhecimento de padrões apenas encontra semelhanças em dados passados, o raciocínio gera novas soluções dentro de regras lógicas em situações novas e complexas nunca antes encontradas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A inteligência artificial realmente pensa como os humanos?**
 

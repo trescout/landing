@@ -42,7 +42,7 @@ Via de regra, há apenas uma ideia por slide. Apoiar o texto com imagens é mais
 **Álbum de fotos:** O fluxo visual que alinha a narrativa.
 **Teatro:** Plano de estágio progredindo ato por ato.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Posso fazer anotações durante uma apresentação?**
 

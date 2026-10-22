@@ -24,7 +24,7 @@ Es wird in der Serververwaltung, bei Softwareverteilungsprozessen und bei der Au
 
 Es kann mit einem einfachen „Skript“ oder „Shell“-Skript verwechselt werden; Agenten haben die Fähigkeit, Entscheidungen auf der Grundlage von Ergebnissen zu treffen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es sicher?**
 

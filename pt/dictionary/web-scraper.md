@@ -22,7 +22,7 @@ Você insere o endereço de um site específico e especifica quais dados a ferra
 
 Às vezes, a raspagem da Web pode ser confundida com uma simples operação de copiar e colar, mas esse método é totalmente automático.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os dados podem ser recuperados de todos os sites?**
 

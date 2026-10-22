@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes de prévision du marché, les moteurs de reco
 
 Cela peut être confondu avec le réglage fin, mais le réglage fin est généralement une mise à jour ponctuelle, tandis que l'apprentissage continu est un processus continu.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le modèle oublie-t-il les anciennes informations ?**
 

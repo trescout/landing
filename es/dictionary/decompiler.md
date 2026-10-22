@@ -22,7 +22,7 @@ Se utiliza en investigaciones de seguridad de software, para entender cómo func
 
 Se confunde con el compilador; el compilador traduce el código a lenguaje máquina, mientras que el descompilador traduce el código máquina a lenguaje humano.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo obtener el mismo código original con un descompilador?**
 

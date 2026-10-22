@@ -22,7 +22,7 @@ Isso é visto em sistemas de autotreinamento, modelos de inteligência artificia
 
 É confundida com processos comuns de aprendizagem, enquanto a meta-habilidade otimiza o próprio processo de aprendizagem.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que as meta-habilidades são importantes para a IA?**
 

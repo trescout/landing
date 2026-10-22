@@ -46,7 +46,7 @@ Pode ser confundido com hospedagem compartilhada. Na hospedagem compartilhada, v
 **Piso do escritório:** Recepção compartilhada, área de trabalho privativa.
 **Cofre:** Seu próprio compartimento privado no prédio do banco.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É necessário conhecimento técnico para gerenciar VPS?**
 

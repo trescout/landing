@@ -44,7 +44,7 @@ Se le considera débil. Generalmente estrecho, fuerte en el deber. Una es una en
 **Antorcha:** Luz dirigida.
 **scooter:** Vehículo de corta distancia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Menos inteligente?**
 

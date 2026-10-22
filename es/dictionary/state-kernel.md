@@ -22,7 +22,7 @@ Se utiliza en aplicaciones y sistemas web complejos que requieren gestión estat
 
 Puede confundirse con la gestión estatal; La gestión del estado es el proceso de gestión de estos datos y el núcleo del estado es el centro donde residen los datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si este núcleo falla?**
 

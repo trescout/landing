@@ -35,7 +35,7 @@ A regra é simples: quanto mais formatos proprietários, menor a interoperabilid
 **Ferrovia:** Graças ao padrão de largura dos trilhos, os trens podem mudar de país.
 **Elétrico:** Os padrões de soquete e tensão tornam os dispositivos compatíveis.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que nem todo sistema possui esse recurso?**
 

@@ -24,7 +24,7 @@ Es wird in allen Lebensbereichen aktiv eingesetzt, von Sprachassistenten auf Sma
 
 Es wird mit bloßen Robotern verwechselt, aber künstliche Intelligenz kann auch als reine Software existieren, ohne dass ein physischer Körper erforderlich ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann künstliche Intelligenz wirklich denken?**
 

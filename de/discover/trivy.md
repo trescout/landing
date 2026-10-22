@@ -80,7 +80,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Binary](https://trescout.com/de/dictionary/binary/)
 
 - **Für wen es gedacht ist:** Für Ingenieure, die Sicherheitsüberprüfungen, geheime Schlüsselprüfungen und SBOM-Generierung in ihren Softwareentwicklungs- und Bereitstellungsprozessen automatisieren möchten.
-- **Lizenz:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Lizenz:** Apache-2.0 (Open-Source-Lizenz mit großen Freiheiten)
 - **Entwickler:** Aqua Security und Open Source Community
 - **Ausgabeformate:** Tabelle, JSON, SARIF, CycloneDX, SPDX, Vorlage
 

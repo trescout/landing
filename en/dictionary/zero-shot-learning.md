@@ -22,7 +22,7 @@ It is frequently used in casual chatbots, where users ask questions directly to 
 
 It is confused with few-shot learning; Here the model has no clues or examples.
 
-## Frequently asked questions
+## Questions and answers
 
 **How can the model make predictions?**
 

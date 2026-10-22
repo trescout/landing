@@ -59,7 +59,7 @@ Processos pesados de análise semântica e resolução de tipos são executados 
 - DAP (Debug Adapter Protocol): Gerencia operações de depuração em tempo de execução. Pontos de interrupção (breakpoints), monitoramento de variáveis e execução passo a passo comunicam-se através do DAP.
 - SCIP / LSIF: São formatos de indexação estática que permitem que bases de código extensas sejam pré-indexadas em tempo de compilação, possibilitando a navegação no código em interfaces web sem a necessidade de executar um servidor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que significa LSP, qual é a sua definição?**
 

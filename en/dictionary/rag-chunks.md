@@ -22,7 +22,7 @@ It is used in the data preparation phase, which forms the basis of RAG systems.
 
 It is important not only to divide the data, but to divide it while preserving meaningful integrity.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if the pieces are too small?**
 

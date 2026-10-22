@@ -50,7 +50,7 @@ Bulut bilişim yalnızca teknik bir devrim değil, küresel kaynak tahsisinde de
 - **Bulut Depolama vs Bulut Bilişim:** Google Drive, iCloud veya Dropbox yalnızca depolama (storage) servisleridir; bulut bilişim ise depolamanın yanında dinamik işlemci gücü, yapay zekâ eğitimi, ağ yönetimi ve veritabanı orkestrasyonunu içeren devasa bir ekosistemdir.
 - **Serverless (Sunucusuz) vs Gerçekten Sunucusuz:** Serverless mimaride fiziksel sunucular elbette vardır; "sunucusuz" terimi geliştiricinin artık bir sunucuyu yapılandırmak, güncellemek veya izlemekle uğraşmadığını, sunucu yönetiminin sağlayıcı tarafından görünmez hale getirildiğini ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Cloud computing ne demek ve Türkçe karşılığı nedir?**
 

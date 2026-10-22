@@ -22,7 +22,7 @@ Il se généralise dans les outils de codage modernes et les environnements de d
 
 Cela peut être confondu avec une ingénierie rapide, mais il s’agit plutôt d’une philosophie de développement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-on déposer une candidature sans connaître le code ?**
 

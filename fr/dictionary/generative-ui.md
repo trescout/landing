@@ -22,7 +22,7 @@ Il est utilisé dans les chatbots modernes, les tableaux de bord personnalisés 
 
 Cela peut être confondu avec la conception Web statique, mais la conception ici est entièrement produite par l'intelligence artificielle à ce moment-là.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi l’interface utilisateur générative est-elle importante ?**
 

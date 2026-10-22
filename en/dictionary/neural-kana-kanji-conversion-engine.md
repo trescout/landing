@@ -22,7 +22,7 @@ It is used in Japanese input systems, mobile keyboards, and text processing tool
 
 It is not just a dictionary; It is an artificial intelligence model that understands context.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why use artificial intelligence?**
 

@@ -24,7 +24,7 @@ Bilgisayar ve telefon işletim sistemlerinde, metin editörlerinde kullanılır.
 
 Neural Kana-Kanji Conversion Engine ile karıştırılabilir; IME genel sistemdir, conversion engine ise onun içindeki akıllı dönüştürücü parçadır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **IME olmadan Japonca yazabilir miyim?**
 

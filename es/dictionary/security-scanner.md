@@ -22,7 +22,7 @@ Se utiliza en procesos de desarrollo de software, gestión de servidores y audit
 
 Se utiliza con el mismo propósito que el escaneo de vulnerabilidades, pero este término se centra directamente en el vehículo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El escáner de seguridad encuentra todas las vulnerabilidades?**
 

@@ -24,7 +24,7 @@ Il est activement utilisé dans tous les domaines de la vie, des assistants voca
 
 On la confond avec de simples robots, mais l’intelligence artificielle peut aussi exister sous forme de simple logiciel sans avoir besoin d’un corps physique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’intelligence artificielle peut-elle vraiment penser ?**
 

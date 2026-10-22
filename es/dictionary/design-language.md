@@ -22,7 +22,7 @@ Se utiliza en sitios web, aplicaciones móviles y todas las plataformas digitale
 
 No es sólo un tema visual, es un sistema que cubre toda la lógica de interacción de un producto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante?**
 

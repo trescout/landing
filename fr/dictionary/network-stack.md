@@ -45,7 +45,7 @@ Une fois arrivé sur le serveur cible, le processus s'inverse (décapsulation) ;
 - DPDK (Data Plane Development Kit) : contourne entièrement le noyau ; l'application en espace utilisateur accède directement à la mémoire de la carte réseau avec zéro copie.
 - QUIC / HTTP/3 : Le protocole de transport TCP au niveau du noyau a été remplacé par un protocole chiffré basé sur UDP, fonctionnant dans l'espace utilisateur et permettant de contourner le blocage en tête de ligne (Head-of-Line blocking).
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie « network stack » et quel est son équivalent en français ?**
 

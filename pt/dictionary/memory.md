@@ -22,7 +22,7 @@ Ele é usado em assistentes pessoais, ferramentas que rastreiam projetos de long
 
 Não deve ser confundido com os dados de treinamento do próprio modelo; Este recurso cobre seu histórico privado com você.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Esta informação é compartilhada com outras pessoas?**
 

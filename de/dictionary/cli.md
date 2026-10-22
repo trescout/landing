@@ -24,7 +24,7 @@ Es wird in Softwareentwicklungsprozessen, bei der Serververwaltung und zum Ausf�
 
 Es wird mit einer grafischen Oberfläche (GUI) verwechselt, aber die CLI ist vollständig textbasiert und bietet viel mehr Anpassungsmöglichkeiten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es notwendig, CLI zu lernen?**
 

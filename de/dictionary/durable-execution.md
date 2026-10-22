@@ -22,7 +22,7 @@ Es wird für Banküberweisungen, lange Datenverarbeitungsprozesse und komplexe W
 
 Es kann mit der automatischen Speicherung verwechselt werden, aber dadurch bleibt die gesamte Betriebslogik des Programms erhalten, nicht nur die Datei.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sollte jedes Programm langlebig sein?**
 

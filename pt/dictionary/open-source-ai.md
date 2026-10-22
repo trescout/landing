@@ -41,7 +41,7 @@ Pode ser misturado com Pesos Abertos. Pesos Abertos são apenas os pesos abertos
 **Livro didático:** Código aberto que qualquer pessoa pode ler e editar.
 **Banco de sementes:** Semente ancestral compartilhada pelos agricultores.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Os modelos de código aberto são mais fracos?**
 

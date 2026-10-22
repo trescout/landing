@@ -22,7 +22,7 @@ Es wird als Plug-in in Code-Editoren wie VS Code oder in speziell entwickelten a
 
 Es ist dasselbe wie der Begriff AI Coding Agent, bezieht sich jedoch auf ein allgemeineres Konzept.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird der Coding-Agent meinen Job übernehmen?**
 

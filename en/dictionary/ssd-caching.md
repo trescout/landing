@@ -22,7 +22,7 @@ It is used in servers, high-performance computers and NAS devices.
 
 It may be confused with just adding storage, but this is a speed-up strategy.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it reduce the lifespan of SSD?**
 

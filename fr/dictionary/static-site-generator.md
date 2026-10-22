@@ -22,7 +22,7 @@ Il est fréquemment préféré dans les blogs, les sites de documentation et les
 
 Il est mixé avec un CMS (Content Management System) ; CMS utilise une base de données, alors que cet outil ne produit que des fichiers.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment mettre à jour mon site ?**
 

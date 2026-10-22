@@ -22,7 +22,7 @@ A câmera e os sensores de profundidade geram novos quadros em milissegundos. Os
 
 No método tradicional de “Reconstrução de Cena”, todas as fotos são tiradas antecipadamente e processadas em lote (batch); no modelo de “Streaming”, o modelo tridimensional é construído em tempo real enquanto os dados fluem.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o método de fluxo (streaming) é usado em vez do processamento em lote?**
 

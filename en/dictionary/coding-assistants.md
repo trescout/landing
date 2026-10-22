@@ -22,7 +22,7 @@ They are used in popular software development environments like VS Code and Inte
 
 They are often confused with 'AI Coding Agents'; while assistants are more focused on suggestions and guidance, agents are more autonomous structures that can perform specific tasks end-to-end on your behalf.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can these tools write the entire code by themselves?**
 

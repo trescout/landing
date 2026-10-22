@@ -44,7 +44,7 @@ It is thought to be encryption. Encryption is the lock, BYOK is who holds the ke
 **Deposit:** Sealed envelope delivery.
 **Safe deposit box:** The bank does not know the content.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What happens if I lose it?**
 

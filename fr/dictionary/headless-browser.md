@@ -42,7 +42,7 @@ Considéré comme furtif. Stealth est le mode du mode sans tête qui échappe à
 **Vol sans visibilité :** S'orienter aux instruments.
 **Cuisine arrière :** Production sans client.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi n'y a-t-il pas d'interface ?**
 

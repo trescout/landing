@@ -36,7 +36,7 @@ Los pasos fundamentales de ingeniería detrás de los sistemas de voz a voz son 
 - Asistentes de Interacción Emocional: Ayudantes que no solo reciben comandos, sino que comprenden la tristeza, la prisa o la alegría en la voz del usuario y le responden con un tono afectuoso o enérgico acorde a ello.
 - Doblaje y producción de medios: Adaptación automática de las voces de los actores y la sincronización de labios a otros idiomas sin perder la emoción y el tono originales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa de voz a voz y cómo funciona?**
 
@@ -56,7 +56,7 @@ La tecnología de clonación de voz realista conlleva el riesgo de usurpación d
 
 ## Términos relacionados
 
-- [STT](https://trescout.com/es/dictionary/stt/)
+- [STT](https://trescout.com/es/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/es/dictionary/speech-to-text/)
 - [Voice Cloning](https://trescout.com/es/dictionary/voice-cloning/)
 - [Whisper](https://trescout.com/es/dictionary/whisper/)

@@ -33,7 +33,7 @@ Jupyter altyapısı, gevşek bağlı (loosely coupled) üç katmanlı bir mimari
 - **Gizli Durum (Hidden State) Riski:** Hücrelerin yukarıdan aşağıya sıralı yerine rastgele bir sırada çalıştırılabilmesi (out-of-order execution), hafızada görünmeyen değişken durumları bırakabilir. Bu durum, başkasının aynı not defterini çalıştırdığında farklı sonuçlar almasına veya hata vermesine yol açabilir ("reproducibility crisis").
 - **Versiyon Kontrolü (Git) Zorlukları:** `.ipynb` dosyaları zengin çıktılar ve Base64 grafikler içerdiğinden, Git üzerinde satır farkı (diff) incelemek ve çakışmaları (merge conflict) çözmek zordur. Bu sorunu aşmak için `jupytext` (not defterini temiz Markdown veya Python script'iyle senkronize eden araç) ve `nbdime` gibi araçlar kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Jupyter Notebook ne demek ve açılımı nereden gelir?**
 

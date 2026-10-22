@@ -22,7 +22,7 @@ Um modelo mestre distribui tarefas. Outros modelos trabalham em suas próprias �
 
 Ao contrário de um modelo único de inteligência artificial, aqui há trabalho em equipe e divisão de trabalho.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que um modelo não é suficiente?**
 

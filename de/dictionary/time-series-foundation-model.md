@@ -22,7 +22,7 @@ Es wird bei Börsenprognosen, Energieverbrauchsanalysen und der Supply-Chain-Pla
 
 Es sollte nicht nur mit einfachen statistischen Prognosetools verwechselt werden; Diese Modelle basieren auf Deep Learning.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann es jede Art von Daten vorhersagen?**
 

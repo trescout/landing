@@ -18,7 +18,7 @@ Beim Entwerfen einer neuen Sprache oder eines neuen Tools werden bestehende Rege
 
 Es wird häufig in Programmiersprachen (z. B. TypeScript ist eine Obermenge von JavaScript) und Softwarearchitekturen verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es vorteilhaft, eine Obermenge zu verwenden?**
 

@@ -42,7 +42,7 @@ Pensa-se que é o Drive. O Drive é da empresa, a nuvem pessoal é sua. Um é al
 **Despensa:** Estoque em casa.
 **Arquivo:** Sala de documentos pessoal.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Fica acessível se cair?**
 

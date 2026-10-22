@@ -22,7 +22,7 @@ Se prefiere en proyectos de software complejos, grandes sistemas corporativos y 
 
 Representa un proceso planificado y disciplinado en lugar de métodos flexibles donde se realizan cambios constantes durante el desarrollo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Te hace perder velocidad?**
 

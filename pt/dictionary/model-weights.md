@@ -22,7 +22,7 @@ Você os encontrará ao compartilhar modelos de código aberto, ao dimensionar a
 
 Podem ser confundidos com dados brutos ou código de programação, mas são apenas os coeficientes de experiência que o modelo aprendeu.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os pesos do modelo podem ser alterados?**
 

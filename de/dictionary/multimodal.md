@@ -22,7 +22,7 @@ Es wird in Assistenten verwendet, die Fragen und Antworten über Bilder, Videoan
 
 Es wird mit Nur-Text-Modellen verwechselt; Die Wahrnehmung multimodaler Modelle ist viel umfassender.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind multimodale Modelle intelligenter?**
 

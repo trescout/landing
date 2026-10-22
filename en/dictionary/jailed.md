@@ -22,7 +22,7 @@ It is widely used when separating user operations on web servers, in application
 
 It is very close to the sandbox concept; however, jail is generally a more traditional term focused on file system isolation in Unix/Linux systems (such as chroot or FreeBSD jail).
 
-## Frequently asked questions
+## Questions and answers
 
 **Can a program in a jailed state access the main system?**
 

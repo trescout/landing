@@ -40,7 +40,7 @@ On le prend pour le président du conseil. Le PDG exécute, le président du con
 **Orchestre :** Le chef d'orchestre qui donne le tempo.
 **Directeur technique :** L'entraîneur qui constitue l'équipe.
 
-## Foire aux questions
+## Questions et réponses
 
 **Le PDG se mêle-t-il de tout ?**
 

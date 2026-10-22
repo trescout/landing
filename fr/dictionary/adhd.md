@@ -24,7 +24,7 @@ Il apparaît fréquemment dans les technologies éducatives, les outils de produ
 
 Il ne faut pas le confondre avec de la paresse ou un manque de motivation ; Il s’agit d’une situation biologique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le TDAH est-il une maladie ?**
 

@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les environnements de développement logiciel,
 
 Il peut être confondu avec le compilateur. Alors que le compilateur traduit l'intégralité du code en langage machine, le débogueur se concentre sur la recherche d'erreurs logiques dans le code en cours d'exécution.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ne puis-je pas déboguer sans utiliser de débogueur ?**
 

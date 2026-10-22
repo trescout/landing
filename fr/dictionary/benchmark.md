@@ -42,7 +42,7 @@ On confond souvent avec le test. Le test vérifie si cela fonctionne, le benchma
 **Athlétisme :** Tableau des records.
 **Menuisier :** Marquage de mesure sur l'établi.
 
-## Foire aux questions
+## Questions et réponses
 
 **Un score élevé est-il toujours bon ?**
 
@@ -72,8 +72,8 @@ Cela dépend de l'objectif : l'exactitude, la vitesse et le coût sont analysés
 - [RuView](https://trescout.com/fr/discover/ruview/)
 - [CUA](https://trescout.com/fr/discover/cua/)
 - [Whichllm](https://trescout.com/fr/discover/whichllm/)
-- [SIA](https://trescout.com/fr/discover/sia/)
 - [Harvey Labs](https://trescout.com/fr/discover/harvey-labs/)
+- [SIA](https://trescout.com/fr/discover/sia/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/benchmark/)
 

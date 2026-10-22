@@ -22,7 +22,7 @@ Yapay zekâ projesi planlama aşamasında ve model seçimi yapılırken kullanı
 
 AI Skills ile karıştırılabilir; yetenek (capability) modelin doğuştan gelen potansiyeli, beceri (skill) ise bu potansiyelin belirli bir görev için eğitilmesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekânın yetenekleri zamanla artar mı?**
 

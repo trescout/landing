@@ -22,7 +22,7 @@ It is used in augmented reality headsets to instantly scan the environment and p
 
 In the traditional 'Scene Reconstruction' method, all photos are taken in advance and processed in batch; in the 'Streaming' model, the three-dimensional model is built instantly as the data streams.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is streaming used instead of batch processing?**
 

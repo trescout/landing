@@ -22,7 +22,7 @@ Otonom araçlarda, robotik sistemlerde ve güvenlik izleme yazılımlarında kul
 
 Sadece veri toplama ile karıştırılmamalıdır; farkındalık, veriyi anlamlandırmayı ve tepki vermeyi gerektirir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ için neden önemlidir?**
 

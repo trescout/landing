@@ -22,7 +22,7 @@ Yazılım geliştirme projelerinin başlangıç aşamasında ve ölçeklenebilir
 
 Coding (kodlama) ile karıştırılır; kodlama inşaat işçiliğidir, system design ise mimari projedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her proje için gerekli mi?**
 

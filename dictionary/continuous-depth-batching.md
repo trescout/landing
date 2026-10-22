@@ -22,7 +22,7 @@ Büyük dil modellerine ev sahipliği yapan sunucu altyapılarında ve bulut tab
 
 Klasik toplu işlem yöntemlerinden farklı olarak isteklerin bitmesini beklemez, akışı anlık olarak besler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sunucu maliyetlerini düşürür mü?**
 

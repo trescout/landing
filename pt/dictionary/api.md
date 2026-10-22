@@ -24,7 +24,7 @@ Um software envia uma solicitação para um endereço específico. Outro softwar
 
 É confundido com o próprio site, mas a API foi projetada para que máquinas conversem com máquinas, não com humanos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qualquer pessoa pode usar a API?**
 

@@ -22,7 +22,7 @@ Model ilk adımda geçici bir yanıt üretir ve bu yanıtı dahili bellek veya d
 
 Geleneksel yinelemeli sinir ağları ile karıştırılmamalıdır. Yinelemeli sinir ağları veriyi zaman serisi boyunca işlerken, bu modeller transformer mimarisini döngüsel mantıkla tekrar çalıştırır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu modeller daha mı yavaş çalışır?**
 

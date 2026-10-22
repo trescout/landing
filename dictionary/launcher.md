@@ -22,7 +22,7 @@ Akıllı telefonların ana ekranlarında, macOS'teki Spotlight veya Windows'taki
 
 İşletim sisteminin kendi uygulama menüsüyle sıkça karıştırılır, ancak launcherlar çok daha hızlı ve klavye odaklıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Launcher kullanmak bilgisayarı hızlandırır mı?**
 

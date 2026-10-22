@@ -22,7 +22,7 @@ Il est utilisé dans des architectures logicielles complexes et pour résoudre d
 
 Il est mélangé à des bûches ; Les journaux répondent à la question « que s'est-il passé » et les traces répondent à la question « où et combien de temps cela a-t-il pris ».
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les traces sont-elles importantes ?**
 

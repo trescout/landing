@@ -24,7 +24,7 @@ Es wird in großen Softwareteams und in Unternehmen eingesetzt, die schnell Prot
 
 Es könnte lediglich mit einem Remote-Desktop verwechselt werden; dieses System ist jedoch speziell für das Programmieren optimiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert mit meinem Code, wenn mein Computer kaputt geht?**
 

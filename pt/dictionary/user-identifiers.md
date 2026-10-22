@@ -22,7 +22,7 @@ Ele é usado para rastreamento de usuários em sites, aplicativos móveis e soft
 
 Pode ser confundido com um nome de usuário, mas é uma estrutura mais técnica e geral que permite ao sistema reconhecê-lo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que obtenho um ID diferente para cada sistema?**
 

@@ -22,7 +22,7 @@ Se utiliza en asistentes personales, sistemas de análisis de noticias constante
 
 Es casi lo mismo que el aprendizaje continuo, pero el aprendizaje permanente se refiere a un proceso de desarrollo integral y a más largo plazo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no todas las IA hacen esto?**
 

@@ -22,7 +22,7 @@ Arama motorlarında, yapay zekâ eğitim verilerinde ve karmaşık içerik yöne
 
 Sıradan metadata ile karıştırılabilir; farkı, semantik olanın verinin 'anlam' ilişkisini taşımasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden semantik metadata kullanmalıyım?**
 

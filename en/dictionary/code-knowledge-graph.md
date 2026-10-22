@@ -22,7 +22,7 @@ It is used when performing code analysis in large software projects, in automate
 
 It differs from traditional text-based search systems; instead of text matching, it reveals the semantic and architectural connections of the code.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why use a Code Knowledge Graph instead of plain text search?**
 

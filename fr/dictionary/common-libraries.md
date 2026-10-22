@@ -22,7 +22,7 @@ Il est utilisé dans presque tous les projets logiciels, tels que le traitement 
 
 Il peut être confondu avec Framework ; Le framework dessine le squelette du projet, et la bibliothèque vous propose uniquement l'outil dont vous avez besoin.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Toutes les bibliothèques sont-elles sûres ?**
 

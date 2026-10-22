@@ -22,7 +22,7 @@ O sistema divide os pesos do modelo em pequenas partes e armazena-as no disco. Q
 
 Pode ser confundido com o carregamento de todo o modelo na memória; aqui, o carregamento ocorre apenas no momento da necessidade.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Este método reduz a velocidade?**
 

@@ -22,7 +22,7 @@ Isso acontece constantemente em segundo plano durante protocolos de Internet e p
 
 Pode ser confundido com perda de dados, mas este é um processo de particionamento controlado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se peças forem perdidas?**
 

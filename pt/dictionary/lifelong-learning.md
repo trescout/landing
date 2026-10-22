@@ -22,7 +22,7 @@ Camadas especiais são adicionadas à arquitetura do modelo, onde novas informa�
 
 É quase o mesmo que aprendizagem contínua, mas a aprendizagem ao longo da vida refere-se a um processo de desenvolvimento mais abrangente e de longo prazo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que nem toda IA ​​faz isso?**
 

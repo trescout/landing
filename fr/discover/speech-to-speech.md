@@ -69,7 +69,6 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Voice Agents](https://trescout.com/fr/dictionary/voice-agents/)
 - [Speech-to-Speech](https://trescout.com/fr/dictionary/speech-to-speech/)
-- [STT](https://trescout.com/fr/dictionary/stt/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

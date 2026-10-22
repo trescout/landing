@@ -22,7 +22,7 @@ RAG sistemlerinde, anlamsal arama motorlarında, öneri sistemlerinde ve akıll�
 
 Verilen mevcut terim olan vector-database ile tamamen aynı kavramı ifade eder, sadece farklı bir isimlendirmedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Vektör deposu normal veritabanının yerini alır mı?**
 

@@ -41,11 +41,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Toolkit](https://trescout.com/en/dictionary/toolkit/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/en/dictionary/context/)
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
+- [Agent](https://trescout.com/en/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for software developers who want to make artificial intelligence coding agents running on AWS more capable and functional.
 - **License:** Apache-2.0

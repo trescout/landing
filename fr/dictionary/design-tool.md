@@ -22,7 +22,7 @@ Il est utilisé lors de la conception d’interfaces de sites Web, de la prépar
 
 Il est souvent confondu avec un simple « éditeur de code », mais les outils de conception sont orientés visuellement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Dois-je être graphiste pour utiliser un outil de conception ?**
 

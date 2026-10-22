@@ -52,7 +52,7 @@ Google TrueTime: A combination of atomic clocks and GPS antennas used in the Goo
 
 In monolithic systems, database operations (ACID transactions) are replaced by the Saga Pattern in microservices. Instead of locking long-running distributed steps with Two-Phase Commit (2PC), event-driven architectures are used, where each service performs its local transaction and Compensating Transactions are triggered in the event of an error.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What does Distributed mean (Turkish meaning)?**
 

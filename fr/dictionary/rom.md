@@ -24,7 +24,7 @@ On le retrouve dans les écrans de démarrage des smartphones, des cartes mères
 
 Il est mélangé à la RAM ; La RAM est temporaire et est supprimée lorsque l'ordinateur est éteint, tandis que la ROM est permanente.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les informations dans la ROM ne peuvent-elles pas être modifiées ?**
 

@@ -18,7 +18,7 @@ Grandes conjuntos de dados são fornecidos ao modelo, o modelo encontra padrões
 
 É utilizado em sistemas de recomendação, detecção de fraudes, análise de saúde e veículos autônomos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Como é diferente da inteligência artificial?**
 

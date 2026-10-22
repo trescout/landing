@@ -24,7 +24,7 @@ It appears in cloud billing panels or performance monitoring tools.
 
 Not to be confused with just 'number of users', this is more 'machine power' consumption.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is CCUsage important?**
 

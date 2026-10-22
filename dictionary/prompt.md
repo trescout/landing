@@ -44,7 +44,7 @@ Mühendisliği sanılır. İstem tek talimattır, mühendislik optimizasyon sana
 
 *Asistana verilen görev listesi gibidir; netlik arttıkça isabet artar.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Kötü istem nedir?**
 

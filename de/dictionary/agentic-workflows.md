@@ -22,7 +22,7 @@ Es wird in der autonomen Softwareentwicklung, Datenanalyse und komplexen Geschä
 
 Es kann mit der Standard-KI-Nutzung verwechselt werden; Dabei reagiert künstliche Intelligenz nicht nur, sie agiert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist kein menschliches Eingreifen erforderlich?**
 

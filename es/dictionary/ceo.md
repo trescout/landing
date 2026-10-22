@@ -40,7 +40,7 @@ Se confunde con el presidente (Chair). El CEO ejecuta, el presidente dirige el c
 **Orquesta:** El director que marca el ritmo.
 **Director técnico:** El entrenador que forma el equipo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se inmiscuye el CEO en todo?**
 

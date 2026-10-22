@@ -43,7 +43,7 @@ On le prend pour un robot télécommandé. Il est entièrement entre les mains d
 **Ascenseur :** Sélection de l'étage selon le bouton.
 **Pilote automatique :** Un système qui maintient le cap.
 
-## Foire aux questions
+## Questions et réponses
 
 **Comment apprennent-ils ?**
 

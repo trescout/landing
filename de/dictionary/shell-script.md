@@ -22,7 +22,7 @@ Es wird häufig zur Automatisierung von Aufgaben in der Serververwaltung, bei Si
 
 Es ist dasselbe wie Bash-Skript, nur ein allgemeinerer Begriff.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss ich Code kennen?**
 

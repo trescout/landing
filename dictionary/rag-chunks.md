@@ -22,7 +22,7 @@ RAG sistemlerinin temelini oluşturan veri hazırlama aşamasında kullanılır.
 
 Sadece veriyi bölmek değil, anlamlı bir bütünlüğü koruyarak bölmek önemlidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Parçalar çok küçük olursa ne olur?**
 

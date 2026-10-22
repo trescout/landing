@@ -43,7 +43,7 @@ Man hält es für eine GUI. Eine GUI ist visuell, das Terminal ist textbasiert. 
 **Cockpit:** Direkte Steuerung über Knöpfe.
 **Maschinenraum:** Das manuelle Drehen von Ventilen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Ist es notwendig, das Terminal zu lernen?**
 

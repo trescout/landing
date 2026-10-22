@@ -22,7 +22,7 @@ Se utiliza en el desarrollo de aplicaciones web, interfaces móviles y todo tipo
 
 Se mezcla con el backend; Mientras que el backend es la parte invisible del motor, el frontend es el escaparate visible.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué herramientas ingresan a la pila de frontend?**
 

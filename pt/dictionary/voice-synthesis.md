@@ -22,7 +22,7 @@ Ele é usado em aplicativos de audiolivros, leitores de tela para pessoas com de
 
 Pode ser confundido com Clonagem de Voz; A síntese de voz é uma produção de voz geral, enquanto a clonagem de voz imita a voz de uma pessoa específica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A síntese de voz e a conversão de texto em fala são a mesma coisa?**
 

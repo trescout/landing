@@ -22,7 +22,7 @@ Desempenha um papel crítico no design de produtos, desenvolvimento de software 
 
 Pode ser confundido apenas com design, mas é uma visão mais profunda onde se combinam gosto, funcionalidade e estética.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O sabor pode ser melhorado?**
 

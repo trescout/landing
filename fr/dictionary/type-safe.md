@@ -18,7 +18,7 @@ Lorsque vous écrivez du code, vous définissez les types de variables (telles q
 
 Il est utilisé pour réduire la marge d'erreur dans les langages de programmation modernes et les projets logiciels à grande échelle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quel est l’avantage d’être de type sécurisé ?**
 

@@ -24,7 +24,7 @@ Es wird in modernen cloudbasierten relationalen und NoSQL-Datenbanken, Big-Data-
 
 Während es sich bei der manuellen Indizierung um den Ansatz handelt, bei dem der Entwickler mithilfe von SQL-Befehlen manuell bestimmt, welche Felder indiziert werden sollen, überlässt die automatische Indizierung diese Entscheidung dem System selbst, basierend auf Nutzungsmustern.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Verbessert Autoindex immer die Abfrageleistung?**
 

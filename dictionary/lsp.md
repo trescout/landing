@@ -59,7 +59,7 @@ Ağır semantik analiz ve tip çözümleme işlemleri editörün ana iş parçac
 
 *LSP, dünyanın tüm dillerini kendi ülkesinin kurallarıyla konuşan yerel uzmanlar ile bu uzmanları dinleyen uluslararası bir diplomasi meclisi arasındaki simultane çevirmendir; meclisteki editörün kim olduğu fark etmeksizin mesaj kusursuzca iletilir.*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **LSP ne demek, açılımı nedir?**
 

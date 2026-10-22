@@ -22,7 +22,7 @@ Il est utilisé dans les projets d’intelligence artificielle d’entreprise et
 
 À ne pas confondre avec un simple pare-feu ; ces outils régissent également les règles éthiques et opérationnelles.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que cela ralentit la vitesse de l'agent ?**
 

@@ -2,15 +2,15 @@
 
 Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ bağlantılarını daha esnek hale getiren modüler bir ağ yığınıdır (networking stack). Rust diliyle geliştirilen bu araç, ağ kesintilerine karşı dayanıklı ve doğrudan veri aktarımı sağlayan bir altyapı sunar.
 
-- ★ 12.781
+- ★ 12.792
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
 
+- **22 Ekim 2026:** Yıldız 12.781 → 12.792, son sürüm v1.4.1 (22 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 12.610 → 12.781, son sürüm v1.4.0 (20 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 12.490 → 12.610, son sürüm v1.3.0 (28 Eylül 2026).
 - **12 Eylül 2026:** Yıldız 12.327 → 12.490, son sürüm v1.2.0 (11 Eylül 2026).
-- **27 Ağustos 2026:** Yıldız 11.957 → 12.327, son sürüm v1.1.0 (25 Ağustos 2026).
 
 ## Ne kazandırır?
 

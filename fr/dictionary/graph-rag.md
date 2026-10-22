@@ -24,7 +24,7 @@ Il est utilisé dans l'analyse de données d'entreprise complexes, les systèmes
 
 Il peut être confondu avec le RAG classique ; le classique se concentre sur la similarité textuelle, tandis que celui-ci se concentre sur les relations structurelles.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quand faut-il le privilégier ?**
 

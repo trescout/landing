@@ -22,7 +22,7 @@ O mecanismo complexo em segundo plano do sistema é ocultado e caminhos de contr
 
 É confundida apenas com a interface do usuário (UI), que é o design da tela. No entanto, a UI é apenas a parte da interface voltada para o ser humano; as APIs, onde as máquinas conversam entre si, também são interfaces.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Interface e UI são a mesma coisa?**
 

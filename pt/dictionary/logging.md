@@ -51,7 +51,7 @@ Acha-se que é observabilidade. No entanto, o registro (logging) é o seu bloco 
 **Diário:** Notas em ordem cronológica.
 **Gravação da câmera:** Arquivo de eventos.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É bom guardar tudo?**
 

@@ -39,7 +39,7 @@ Parece confusión. Sin embargo, se trata de una centralización regular. El deso
 **Centro comercial:** Tiendas con techos compartidos.
 **Campus:** Edificios con zonas comunes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es apto para todos?**
 

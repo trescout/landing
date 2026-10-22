@@ -40,7 +40,7 @@ La partie « parce que » dans la phrase rappelle pourquoi le travail est effect
 **Orchestre :** Le programme qui organise les répétitions en fonction du jour du concert.
 **Chantier :** Le plan de site qui coordonne l'ordre des grues et du béton.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi les développeurs de logiciels l'utilisent-ils ?**
 

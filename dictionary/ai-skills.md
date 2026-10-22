@@ -24,7 +24,7 @@ Akıllı asistanlarda, veri analiz araçlarında ve karmaşık görevleri otomat
 
 Genellikle genel yapay zekâ yetenekleriyle karıştırılır, ancak bunlar belirli bir işi yapmak için eklenmiş özel araçlardır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her yapay zekâ modelinde AI Skills var mı?**
 

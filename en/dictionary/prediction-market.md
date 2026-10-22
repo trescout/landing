@@ -22,7 +22,7 @@ It is used to predict political election results, analyze economic trends, or me
 
 It may be confused with the stock market, but while the stock market focuses on company value, the prediction market focuses directly on the likelihood of specific future events occurring.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are prediction markets better than traditional surveys?**
 

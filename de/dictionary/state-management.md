@@ -22,7 +22,7 @@ Es wird auf Websites verwendet, um den Inhalt eines Warenkorbs zu behalten oder 
 
 Es wird mit einer Datenbank verwechselt, aber die Datenbank speichert permanente Aufzeichnungen, während die Statusverwaltung den temporären und augenblicklichen Status verwaltet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn die staatliche Verwaltung korrupt ist?**
 

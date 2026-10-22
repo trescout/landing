@@ -35,7 +35,7 @@ Die Regel ist einfach: Je mehr proprietäre Formate, desto geringer die Interope
 **Eisenbahn:** Dank der Spurweitennorm können Züge das Land wechseln.
 **Elektrisch:** Steckdosen- und Spannungsstandards machen Geräte kompatibel.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum verfügt nicht jedes System über diese Funktion?**
 

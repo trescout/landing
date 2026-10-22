@@ -22,7 +22,7 @@ Web sunucularında, güvenlik duvarlarında ve yoğun trafik alan sitelerde kull
 
 Normal proxy ile karıştırılabilir; normal proxy kullanıcıyı gizler, reverse proxy ise sunucuyu gizler ve korur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden doğrudan sunucuya bağlanmıyoruz?**
 

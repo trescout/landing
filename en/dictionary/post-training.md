@@ -22,7 +22,7 @@ It is used in the preparation stage of large language models before they are pre
 
 It is confused with pre-training; while pre-training lays the foundations of the model, post-training shapes the behavior of the model.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is post-training necessary?**
 

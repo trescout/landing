@@ -38,7 +38,7 @@ Les versions cloud ne nécessitent pas d'installation, le travail hors ligne est
 **Boîte à outils :** L'outil adapté au travail.
 **Ensemble de cuisine :** Groupe de casseroles et de couteaux.
 
-## Foire aux questions
+## Questions et réponses
 
 **Existe-t-il des solutions basées sur le cloud ?**
 

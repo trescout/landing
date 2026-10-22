@@ -22,7 +22,7 @@ It is found in most open source library and framework documentation.
 
 It can be confused with Tutorial; Trainings teach a subject from start to finish, while cookbooks offer quick solutions.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is using a cookbook laziness?**
 

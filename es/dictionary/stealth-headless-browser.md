@@ -22,7 +22,7 @@ Se utiliza en procesos como el web scraping, pruebas automatizadas y seguimiento
 
 Navegador Headless
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no usamos un navegador normal?**
 

@@ -22,7 +22,7 @@ Se utiliza en asistentes de inteligencia artificial avanzados, sistemas de infor
 
 Puede confundirse simplemente con una base de datos; sin embargo, este sistema no solo almacena los datos, sino que también los hace significativos para la inteligencia artificial.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería usarlo siempre?**
 

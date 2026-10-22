@@ -22,7 +22,7 @@ Es wird beim Entwerfen von Website-Schnittstellen, beim Vorbereiten von Social-M
 
 Es wird oft nur mit „Code-Editor“ verwechselt, aber Design-Tools sind visuell ausgerichtet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Muss ich Grafikdesigner sein, um ein Designtool nutzen zu können?**
 

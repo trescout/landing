@@ -24,7 +24,7 @@ Aplicativos web modernos, plataformas SaaS e produtos digitais que exigem atuali
 
 Pode ser confundido com Entrega Contínua; No Delivery, a fase de go-live pode exigir uma aprovação manual, enquanto no Deployment é totalmente automática.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se cometermos um erro?**
 

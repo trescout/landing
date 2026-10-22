@@ -22,7 +22,7 @@ Sistem programlamada, bellek sızıntılarını ve çökmeleri en baştan önlem
 
 Normal hata ayıklayıcılardan farklıdır, program çalışırken değil, kod yazılıp derlenirken çalışır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kadar katıdır?**
 

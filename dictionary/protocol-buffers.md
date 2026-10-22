@@ -24,7 +24,7 @@ Mikro hizmet mimarilerinde, mobil uygulamaların sunucularla haberleşmesinde ve
 
 JSON veya XML gibi metin tabanlı veri formatlarıyla karıştırılabilir ancak onlardan çok daha hızlı ve küçüktür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **İnsanlar okuyabilir mi?**
 

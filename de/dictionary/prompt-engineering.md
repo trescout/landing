@@ -22,7 +22,7 @@ Es wird in allen Bereichen eingesetzt, in denen künstliche Intelligenz interagi
 
 Es mag so aussehen, als würden Sie nur Fragen stellen, aber es ist ein Prozess der Strategie und des Versuchs und Irrtums.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann jemand lernen?**
 

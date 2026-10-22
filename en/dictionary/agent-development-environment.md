@@ -22,7 +22,7 @@ It is used in artificial intelligence-focused software projects and on the compu
 
 Not to be confused with standard text editors that just write code; There are also tools here to monitor the agent's 'thought' process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is a special environment needed?**
 

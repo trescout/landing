@@ -22,7 +22,7 @@ Se utiliza en sitios de comercio electrónico, aplicaciones bancarias y grandes 
 
 Combinado con soporte multicanal; En el soporte multicanal, los canales son independientes entre sí, mientras que en el omnicanal están todos interconectados.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante la omnicanalidad?**
 

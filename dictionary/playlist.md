@@ -35,7 +35,7 @@ Yazılım ve veri mühendisliği açısından bir playlist yalnızca şarkılar�
 
 *Bir partide çalınacak müzikleri önceden kurgulayıp akışına göre sıraya dizen profesyonel bir DJ kabini gibidir; misafirler sıradaki şarkıyı düşünmez, ortamın enerjisine göre liste kendiliğinden akar.*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Playlist ne demek, Türkçe karşılığı nedir?**
 

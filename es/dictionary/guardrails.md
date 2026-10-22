@@ -22,7 +22,7 @@ Se utilizan ampliamente en chatbots de servicio al cliente, sectores regulados c
 
 Se puede confundir con el aprendizaje por refuerzo a partir de retroalimentación humana (RLHF) realizado durante el entrenamiento básico del modelo. Mientras que el entrenamiento básico determina el carácter interno del modelo, los guardrails son una cubierta de seguridad independiente que se acopla al modelo desde el exterior.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El sistema de guardrails ralentiza notablemente los tiempos de respuesta?**
 

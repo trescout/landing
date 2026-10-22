@@ -24,7 +24,7 @@ Es wird in Spielsystemen, zur Bewegungssteuerung von Robotern und in Bereichen e
 
 Es kann mit klassischen Softwareregeln verwechselt werden; Diese Systeme folgen Erfahrung, nicht vorab geschriebenen Regeln.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Macht der RLM-Agent immer alles richtig?**
 

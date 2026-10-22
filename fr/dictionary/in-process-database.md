@@ -22,7 +22,7 @@ Il est préféré dans les applications mobiles, les petits logiciels de bureau 
 
 Il est confondu avec les bases de données client-serveur ; Ce système est local alors qu'ils nécessitent une connexion à distance.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces bases de données sont-elles adaptées au big data ?**
 

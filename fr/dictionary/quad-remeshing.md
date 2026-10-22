@@ -22,7 +22,7 @@ Il est utilisé dans les processus de développement de jeux, d’animation et d
 
 Il ne faut pas la confondre avec une simple réduction de modèle (décimation) ; Le but ici est de changer l’ordre géométrique de la surface.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne pas simplement utiliser des triangles ?**
 

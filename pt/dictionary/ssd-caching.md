@@ -22,7 +22,7 @@ O sistema copia automaticamente esses dados para o SSD por meio de um software q
 
 Pode ser confundido com apenas adicionar armazenamento, mas esta é uma estratégia de aceleração.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso reduz a vida útil do SSD?**
 

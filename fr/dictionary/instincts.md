@@ -22,7 +22,7 @@ Il est utilisé dans les chatbots qui doivent réagir rapidement et dans des pro
 
 Il ne faut pas le confondre avec un processus de raisonnement conscient ; c'est juste une vitesse statistique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’instinct de l’intelligence artificielle peut-il faire des erreurs ?**
 

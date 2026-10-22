@@ -22,7 +22,7 @@ Es wird in Anwendungen der künstlichen Intelligenz in Unternehmen, Kundendienst
 
 Es wird mit allgemeinen Cybersicherheitstools verwechselt; Diese Tools konzentrieren sich jedoch speziell auf die Arbeitslogik von Modellen der künstlichen Intelligenz.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Bietet es einen hundertprozentigen Schutz?**
 

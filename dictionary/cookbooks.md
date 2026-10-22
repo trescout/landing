@@ -22,7 +22,7 @@ Bir yazılım dilini veya kütüphaneyi öğrenirken, teorik bilgiden ziyade 'Ş
 
 Eğitim (Tutorial) ile karıştırılabilir; eğitimler bir konuyu baştan sona öğretir, cookbooklar ise hızlı çözümler sunar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Cookbook kullanmak tembellik mi?**
 

@@ -22,7 +22,7 @@ Büyük modellerin cep telefonlarında veya kişisel bilgisayarlarda (self-hosti
 
 Modeli eğitmekle karıştırılır, ancak bu eğitim sonrası yapılan bir optimizasyon işlemidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Modelin zekası düşer mi?**
 

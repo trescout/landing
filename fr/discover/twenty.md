@@ -85,7 +85,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Suivant · auto-hébergement (développeur requis)
 - **Quelles offres:** CRM personnalisable et alimenté par l'IA
 - **Frais:** Open source · auto-hébergé gratuitement
-- **Licence:** Standart-dışı (NOASSERTION) · ayrıntı aşağıda
+- **Licence:** Non standard (NOASSERTION) · détail ci-dessous
 
 **Licence:** ⚠️ Sa licence est non standard (GitHub 'NOASSERTION'). Il est appelé « open source », mais l'utilisation autonome/auto-hébergée et la relivraison commerciale/SaaS peuvent être soumises à des conditions différentes. Assurez-vous de lire le fichier LICENSE dans le dépôt avant toute utilisation commerciale.
 

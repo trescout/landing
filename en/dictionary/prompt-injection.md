@@ -22,7 +22,7 @@ It appears as a security vulnerability in chatbots, AI-powered customer service,
 
 It differs from classical hacking methods because it uses everyday language and wordplay instead of computer code.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does prompt injection work on every AI model?**
 

@@ -43,7 +43,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Leicht zu lesen und anzuwenden
 - **Formatieren:** Umfassende Anleitung (auf GitHub)
 - **Gebühr:** kostenlos
-- **Lizenz:** Belirtilmemiş · ayrıntı aşağıda
+- **Lizenz:** Nicht angegeben · Details unten
 
 **Lizenz:** ⚠️ Keine Lizenz angegeben. Laut Urheberrechtsgesetz bedeutet dies „alle Rechte vorbehalten“: Das Lesen und die persönliche Nutzung ist kostenlos, das Kopieren und erneute Veröffentlichen des Inhalts erfordert jedoch die Genehmigung des Autors.
 

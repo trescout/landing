@@ -22,7 +22,7 @@ Lo utilizan los desarrolladores de software que desarrollan aplicaciones de inte
 
 Se confunde con las operaciones de bases de datos, pero se trata de gestión de memoria específicamente en un formato que los modelos de inteligencia artificial entienden.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cualquiera puede utilizar la API de memoria?**
 

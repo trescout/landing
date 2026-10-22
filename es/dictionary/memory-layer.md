@@ -22,7 +22,7 @@ Está involucrado en asistentes personalizados de inteligencia artificial, proye
 
 Es diferente de la ventana de contexto, que es la memoria instantánea del modelo; La información aquí se almacena permanentemente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Los datos de la capa de memoria siguen siendo privados?**
 

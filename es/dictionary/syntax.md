@@ -22,7 +22,7 @@ Se utiliza en todos los lenguajes de programación y lenguajes de script.
 
 Se confunde con los errores lógicos; mientras que un error de sintaxis impide que el código funcione, un error lógico hace que el código dé un resultado incorrecto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué debo hacer si recibo un error de sintaxis?**
 

@@ -22,7 +22,7 @@ Es wird beim Importieren von Open-Source-Projekten von Plattformen wie GitHub au
 
 Es kann mit Backup verwechselt werden; Beim Klonen handelt es sich eher um ein Kopieren zum Zweck der Bearbeitung.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ändert es das ursprüngliche Projekt?**
 

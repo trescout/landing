@@ -62,9 +62,9 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Native Binaries](https://trescout.com/de/dictionary/native-binaries/)
 - [Reverse Engineering](https://trescout.com/de/dictionary/reverse-engineering/)
 - [Native](https://trescout.com/de/dictionary/native/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/de/dictionary/context/)
+- [MCP](https://trescout.com/de/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Dies ist für Entwickler, die die Logik bestehender Anwendungen ohne Quellcode mit Hilfe von Künstlicher Intelligenz untersuchen und ähnliche Funktionen in ihre eigenen Projekte integrieren möchten.
 - **Lizenz:** MIT

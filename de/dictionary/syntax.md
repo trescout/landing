@@ -22,7 +22,7 @@ Wird in allen Programmier- und Skriptsprachen verwendet.
 
 Wird oft mit logischen Fehlern verwechselt; während ein Syntaxfehler die Ausführung des Codes verhindert, führt ein logischer Fehler dazu, dass der Code ein falsches Ergebnis liefert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was soll ich tun, wenn ich einen Syntaxfehler erhalte?**
 

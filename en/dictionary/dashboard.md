@@ -22,7 +22,7 @@ It is used in the business world to track sales charts, monitor server performan
 
 It may be confused with reporting, but the dashboard provides live and interactive data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does the dashboard show live data?**
 

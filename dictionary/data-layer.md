@@ -22,7 +22,7 @@ Web ve mobil uygulamaların mimarisinde, özellikle büyük projelerde standartt
 
 Veritabanı ile karıştırılabilir; data layer veritabanı değil, veritabanına erişim yöntemidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden doğrudan bağlanmıyoruz?**
 

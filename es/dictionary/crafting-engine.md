@@ -18,7 +18,7 @@ El sistema escanea las recetas predeterminadas y los datos del inventario. Cuand
 
 Se utiliza generalmente en juegos de supervivencia, juegos de rol y algunas simulaciones de producción.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El motor de creación solo existe en los juegos?**
 

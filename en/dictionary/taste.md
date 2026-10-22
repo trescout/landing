@@ -22,7 +22,7 @@ It plays a critical role in product design, software development and creation of
 
 It can be confused with just design, but it is a deeper vision where taste, functionality and aesthetics combine.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can taste be improved?**
 

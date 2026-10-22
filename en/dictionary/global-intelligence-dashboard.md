@@ -22,7 +22,7 @@ It is used in logistics tracking, global market analysis and operational managem
 
 It should not be confused with just a database; This is not a database, but an interface that presents data.
 
-## Frequently asked questions
+## Questions and answers
 
 **Who uses these panels?**
 

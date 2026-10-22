@@ -22,7 +22,7 @@ Esto sucede frecuentemente con los chatbots, asistentes de inteligencia artifici
 
 Puede confundirse con ingeniería rápida, pero es un intento de filtración.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es esto una vulnerabilidad de seguridad?**
 

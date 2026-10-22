@@ -22,7 +22,7 @@ Sólo funciona en el sistema operativo macOS.
 
 Se diferencia de otros editores de código de uso general por ser específico del ecosistema de Apple.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo usar Xcode en una computadora con Windows?**
 

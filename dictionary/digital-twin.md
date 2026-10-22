@@ -42,7 +42,7 @@ Kural: Veri kesilirse ikiz körleşir. Besleme sürekliliği şarttır.
 
 *Uçağın dijital kopyasının aynı verilerle eş uçması gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Simülasyon farkı nedir?**
 

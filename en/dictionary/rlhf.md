@@ -24,7 +24,7 @@ It is applied at the final stage so that chatbots such as ChatGPT can speak natu
 
 It is not just training, it is the process of aligning the model's behavior.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it necessary?**
 

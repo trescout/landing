@@ -2,16 +2,16 @@
 
 OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.
 
-- ★ 23.835
+- ★ 23.926
 - Rust
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
 
+- **22 Ekim 2026:** Yıldız 23.835 → 23.926, son sürüm v0.8.16 (21 Ekim 2026).
 - **20 Ekim 2026:** Yıldız 23.621 → 23.835, son sürüm v0.8.15 (20 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 23.254 → 23.621, son sürüm v0.8.14 (15 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 23.245 → 23.254, son sürüm v0.8.13 (9 Ekim 2026).
-- **9 Ekim 2026:** Yıldız 22.606 → 23.245, son sürüm v0.8.12 (9 Ekim 2026).
 
 ## Ne kazandırır?
 

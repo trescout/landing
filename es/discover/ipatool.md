@@ -81,7 +81,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
 
 - **Para quién es:** Investigadores de seguridad de iOS, desarrolladores móviles, expertos en ingeniería inversa y archivistas de IPA.
-- **Licencia:** MIT (Özgür açık kaynak lisansı)
+- **Licencia:** MIT (Licencia de código abierto libre)
 - **Marco:** CLI multiplataforma basada en Go
 - **Plataformas:** macOS, Linux, Windows
 

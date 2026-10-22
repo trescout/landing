@@ -22,7 +22,7 @@ Se utiliza en la fase de preparación de datos, que constituye la base de los si
 
 Es importante no sólo dividir los datos, sino también dividirlos preservando al mismo tiempo una integridad significativa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si las piezas son demasiado pequeñas?**
 

@@ -43,7 +43,7 @@ Règle : exécuter du code est la première étape, lire le code est la deuxiè
 **Étagères:** Classés par genre et auteur.
 **Jardin:** Disposition des branches taillées.
 
-## Foire aux questions
+## Questions et réponses
 
 **N'est-ce pas suffisant de travailler ?**
 

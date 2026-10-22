@@ -38,7 +38,7 @@ Pensa-se que é TLS. O TLS protege no caminho, o servidor vê. Na criptografia d
 **Selo:** Envelope que revela se foi aberto.
 **Circuito fechado:** Linha fechada para o exterior.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Se for roubado, pode ser lido?**
 

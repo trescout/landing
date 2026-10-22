@@ -24,7 +24,7 @@ Es wird beim Training von Modellen der künstlichen Intelligenz, bei der Verarbe
 
 Es wird mit der CPU verwechselt; Die CPU eignet sich hervorragend für allgemeine Aufgaben, während die GPU nur auf große mathematische Aufgaben spezialisiert ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist die GPU für künstliche Intelligenz unerlässlich?**
 

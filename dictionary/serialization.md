@@ -85,7 +85,7 @@ Java'nın yerel serileştirme mekanizmasında (`ObjectInputStream.readObject()`)
 
 *Bir mobilyayı taşımak için parçalarına ayırıp düz ve yassı bir kutuya yerleştirmek gibidir; varış noktasında kutuyu açıp kılavuza bakarak mobilyayı tekrar kurarsınız (deserialization).*
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Serialization ve Deserialization arasındaki temel fark nedir?**
 

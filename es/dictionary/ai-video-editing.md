@@ -22,7 +22,7 @@ Se utiliza en la producción de contenido de redes sociales, flujos de trabajo d
 
 Puede confundirse con el software Video Editor, pero la "automatización" está a la vanguardia aquí.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Reemplazará a los editores profesionales?**
 

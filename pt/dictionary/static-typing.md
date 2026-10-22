@@ -22,7 +22,7 @@ Os tipos são atribuídos a variáveis ​​durante a escrita do código. O com
 
 É confundido com linguagens de tipo dinâmico (como Python); Em linguagens dinâmicas, os tipos são determinados enquanto o código está em execução.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **As linguagens de tipo estático são mais difíceis?**
 

@@ -22,7 +22,7 @@ Se prefiere activamente en aplicaciones móviles donde la experiencia del usuari
 
 Es diferente del concepto de registro (logging), que almacena todos los eventos del sistema cronológicamente: el seguimiento de errores se centra directamente en las excepciones y analiza y agrupa automáticamente estos problemas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Las herramientas de seguimiento de errores guardan los datos confidenciales de los usuarios?**
 

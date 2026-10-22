@@ -22,7 +22,7 @@ Se utiliza para acceder libremente a Internet en regiones donde la censura es in
 
 Aunque cumple propósitos similares a una VPN, su lógica de funcionamiento y sus métodos de ocultación son más específicos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todos pueden usarlo?**
 

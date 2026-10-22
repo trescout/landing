@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les plateformes d’agents d’IA et les outil
 
 Elle peut être confondue avec l'intelligence générale ; Une compétence est le moyen dont dispose l'agent pour effectuer un travail spécifique.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment les agents acquièrent-ils de nouvelles compétences ?**
 

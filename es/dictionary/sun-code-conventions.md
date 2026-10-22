@@ -31,7 +31,7 @@ Hoy en día, millones de líneas de proyectos Java heredados (legacy) que operan
 - Asumir que un documento obsoleto está actualizado: tomar un manual de Sun que no se ha actualizado desde 1999 como única fuente en proyectos modernos genera deuda técnica.
 - Olvidar los paréntesis en las condiciones: Omitir los paréntesis en los cuerpos de una sola línea puede provocar vulnerabilidades de seguridad en el futuro.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué las Sun Code Conventions no se han actualizado después de 1999?**
 

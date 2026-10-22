@@ -24,7 +24,7 @@ Ele opera silenciosamente em segundo plano em bibliotecas de inteligência artif
 
 É confundido com uma biblioteca matemática comum. O BLAS não contém apenas fórmulas matemáticas; ele gerencia diretamente como essas fórmulas são executadas com o mais alto desempenho no hardware do computador.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o BLAS é tão importante para a inteligência artificial?**
 

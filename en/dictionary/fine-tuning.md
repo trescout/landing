@@ -32,7 +32,7 @@ Choosing Fine-Tuning Over RAG: Fine-tuning is not performed for transferring up-
 - Training on Garbage Data: Low-quality or inconsistent datasets dull the model's logical reasoning ability.
 - Overfitting: Training a model with excessive iterations on a small dataset leads to rote memorization and destroys its generalization power.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is the main difference between Fine-Tuning and RAG?**
 

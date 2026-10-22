@@ -22,7 +22,7 @@ Es wird in SaaS-Plattformen (Software as a Service), cloudbasierten Anwendungen 
 
 Es kann mit einem gemeinsam genutzten Server verwechselt werden. Was hier jedoch geteilt wird, ist nicht nur die Hardware, sondern der logische Aufbau der Software.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ein einzelnes Programm verwenden?**
 

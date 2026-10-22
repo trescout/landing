@@ -22,7 +22,7 @@ Siz bir hedef tanımlarsınız, Hermes Agent bu hedefi küçük parçalara böle
 
 Genel AI Agent kavramından farkı, genellikle belirli bir mimari veya kullanım amacı etrafında özelleşmiş olmasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hermes Agent her şeyi yapabilir mi?**
 

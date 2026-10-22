@@ -22,7 +22,7 @@ Es tritt häufig bei Sicherheitstests für künstliche Intelligenz, Red-Team-Stu
 
 Es ist dem Konzept der prompten Injektion sehr ähnlich, aber die prompte Injektion zielt darauf ab, geheime Anweisungen direkt in das System einzuschleusen, während sich der Jailbreak direkt auf die Verletzung der grundlegenden Moral- und Sicherheitsregeln des Modells konzentriert.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist Jailbreaking legal?**
 

@@ -22,7 +22,7 @@ It is involved in the training processes of machine learning models and the feed
 
 It is not the model itself, but the background set of rules and methods that enables that model to improve.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it learn continuously?**
 

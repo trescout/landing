@@ -22,7 +22,7 @@ Sie können es auf Smartphones, in speziellen Chat-Anwendungen oder in Smart-Hom
 
 Es unterscheidet sich von Assistenten der künstlichen Intelligenz, die nur aufgabenorientiert arbeiten, durch seine Fähigkeit, emotionale Bindungen aufzubauen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Versteht AI Companion mich wirklich?**
 

@@ -24,7 +24,7 @@ Es wird in Microservice-Architekturen, der Kommunikation mobiler Anwendungen mit
 
 Es kann mit textbasierten Datenformaten wie JSON oder XML verwechselt werden, ist aber viel schneller und kleiner.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können Menschen lesen?**
 

@@ -22,7 +22,7 @@ Bulut servislerinde, veritabanı bağlantılarında ve uygulama kimlik doğrulam
 
 Normal kullanıcı şifreleri ile karıştırılabilir ancak bunlar insanlar için değil, makineler için tasarlanmış dijital kimliklerdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Secrets neden kodun içinde tutulmaz?**
 

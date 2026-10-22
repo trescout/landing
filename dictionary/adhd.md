@@ -24,7 +24,7 @@ Eğitim teknolojilerinde, iş yeri verimlilik araçlarında ve kişisel gelişim
 
 Sadece tembellik veya motivasyon eksikliği ile karıştırılmamalıdır; bu biyolojik temelli bir durumdur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **ADHD bir hastalık mıdır?**
 

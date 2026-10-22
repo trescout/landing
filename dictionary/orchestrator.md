@@ -22,7 +22,7 @@ Bulut bilişim altyapılarında konteynerlerin yönetiminde ve birden fazla yapa
 
 Normal bir kod kütüphanesiyle karıştırılır. Kütüphaneler sadece belirli bir işi yaparken, bu sistem tüm kütüphanelerin ve servislerin bir arada nasıl çalışacağını koordine eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sistem olmadan yazılım çalışmaz mı?**
 

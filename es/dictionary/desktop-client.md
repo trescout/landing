@@ -22,7 +22,7 @@ Se utiliza en sistemas operativos, programas de oficina y herramientas de desarr
 
 Puede confundirse con aplicaciones web; Mientras que las aplicaciones web dependen del navegador, el cliente de escritorio funciona de forma independiente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es siempre mejor una aplicación de escritorio?**
 

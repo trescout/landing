@@ -22,7 +22,7 @@ It is used in web servers, firewalls and sites with high traffic.
 
 It can be confused with a regular proxy; Normal proxy hides the user, reverse proxy hides and protects the server.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we connect directly to the server?**
 

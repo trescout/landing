@@ -22,7 +22,7 @@ O texto ou imagem fornecido como entrada passa pelas camadas do modelo. O modelo
 
 É diferente de treinar diretamente um modelo; é a etapa de resumir as informações mais valiosas a partir dos dados existentes e reduzi-las a um formato numérico.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Qual é a diferença em relação ao Embedding?**
 

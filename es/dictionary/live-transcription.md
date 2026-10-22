@@ -22,7 +22,7 @@ Se utiliza en aplicaciones de videoconferencia, subtítulos de transmisiones en 
 
 A diferencia de la transcripción tradicional, donde el audio se graba y luego se transcribe a texto, aquí la velocidad y la retroalimentación instantánea son esenciales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Habrá un retraso?**
 

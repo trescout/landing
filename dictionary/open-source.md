@@ -40,7 +40,7 @@ Bunun ötesinde açık kaynak, yazılım bilgisini demokratikleştirir. Gelişme
 
 - **Open Weights ile Karıştırmak:** Yapay zekâda sadece model ağırlıklarının paylaşılması tam açık kaynak değildir; eğitim verisi, kodları ve mimarisi paylaşılmayan sistemler açık kaynak tanımını tam karşılamaz.
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Açık kaynak (Open Source) ile özgür yazılım (Free Software) arasındaki temel fark nedir?**
 

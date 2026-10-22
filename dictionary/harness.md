@@ -44,7 +44,7 @@ Yazılımın kendisi sanılır. Oysa harness kodu değil, kodu denetleyen çevre
 
 *Fabrikada her aracın fren ve farını denetleyen otomatik kontrol hattı gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden gereklidir?**
 

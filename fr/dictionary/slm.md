@@ -44,7 +44,7 @@ Il est considéré comme faible. Généralement étroit, résistant. L’une est
 **Torche:** Lumière ciblée.
 **scooter:** Véhicule courte distance.
 
-## Foire aux questions
+## Questions et réponses
 
 **Moins intelligent ?**
 

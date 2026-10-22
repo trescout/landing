@@ -44,7 +44,7 @@ Küçük bir örnek, tipik bir eklenti bildirimi şöyledir:
 
 *Bir İsviçre çakısı gibidir; gövde aynı kalır, üzerine yeni bir tornavida veya fener ucu ekleyebilirsiniz.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Her yazılım genişletilebilir mi?**
 

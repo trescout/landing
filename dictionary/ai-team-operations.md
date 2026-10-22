@@ -22,7 +22,7 @@ Yapay zekâ startup'larında ve büyük teknoloji şirketlerinin AI departmanlar
 
 Sadece yazılım operasyonları (DevOps) ile karıştırılabilir; AI operasyonları veri ve model odaklı ek zorluklar içerir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden özel bir operasyon gerekiyor?**
 

@@ -22,7 +22,7 @@ Se utiliza en sitios web, aplicaciones móviles y proyectos de software de grand
 
 Puede confundirse con la 'Guía de estilo', que es sólo una guía visual; El sistema de diseño es una versión mucho más amplia y funcional de este.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué necesitamos un sistema de diseño?**
 

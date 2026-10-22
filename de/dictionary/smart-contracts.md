@@ -22,7 +22,7 @@ Es wird bei Finanztransaktionen, Eigentumsübertragungen und der Verwaltung digi
 
 Es kann mit einer einfachen digitalen Signatur verwechselt werden, aber Smart Contracts enthalten eine Transaktionslogik.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann es geändert werden?**
 

@@ -22,7 +22,7 @@ Es ist in persönlichen Assistenten-Apps, Smart-Geräten und dedizierten KI-Plat
 
 Kann mit AI Agent verwechselt werden; Während der Agent eher aufgabenorientiert ist, legt der Begleiter mehr Wert auf Kameradschaft und Interaktion.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist der Unterschied zwischen Companion-Modellen?**
 

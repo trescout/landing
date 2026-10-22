@@ -22,7 +22,7 @@ Se utiliza en la automatización de flujos de trabajo corporativos, procesos de 
 
 Puede confundirse con un Agente de IA normal, pero el SuperAgente tiene un alcance de autoridad y coordinación mucho más amplio.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede SuperAgent tomar decisiones por sí solo?**
 

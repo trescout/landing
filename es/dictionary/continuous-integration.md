@@ -20,7 +20,7 @@ Tan pronto como el desarrollador carga su código en el sistema, los robots que 
 
 Es una práctica estándar en grandes equipos de software y ciclos de desarrollo de software modernos (DevOps).
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no hacemos pruebas manuales?**
 

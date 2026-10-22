@@ -22,7 +22,7 @@ Esses aplicativos possuem portas especiais que permitem que um agente se comuniq
 
 Não deve ser confundido com recursos de inteligência artificial adicionados posteriormente a um aplicativo comum; estes são construídos desde o início para os agentes.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que eles precisam ser especialmente projetados?**
 

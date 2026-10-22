@@ -44,7 +44,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Muy fácil · solo lee
 - **Formato:** Lista categorizada (en GitHub)
 - **Tarifa:** Gratis (tanto lista como aplicaciones)
-- **Licencia:** Belirsiz (NOASSERTION) · ayrıntı aşağıda
+- **Licencia:** Incierto (NOASERTION) · detalle a continuación
 
 **Licencia:** ⚠️ No hay una licencia estándar definida (GitHub dice 'NOASERTION'). La lista es de lectura y uso gratuitos; pero consulte con el propietario antes de copiar y volver a publicar contenido por su cuenta · los derechos de reutilización no están claros.
 

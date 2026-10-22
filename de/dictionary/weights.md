@@ -22,7 +22,7 @@ In den Dateien großer Sprachmodelle (LLMs), die heruntergeladen und auf dem Com
 
 Wird oft mit der Modellarchitektur verwechselt. Die Architektur ist wie der Grundriss der Räume eines leeren Gebäudes; die Gewichte hingegen sind die Möbel, die in diese Räume gestellt werden und das Gebäude bewohnbar machen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können wir diese numerischen Werte manuell ändern?**
 

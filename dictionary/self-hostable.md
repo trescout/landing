@@ -22,7 +22,7 @@ Kişisel bulut depolama sistemlerinde, özel medya sunucularında veya gizliliğ
 
 SaaS (Software as a Service) modelleriyle karıştırılabilir; SaaS'ta hizmeti başkası yönetir, self-hostable yapıda ise tüm yönetim sizdedir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden self-hostable bir yazılım tercih etmeliyim?**
 

@@ -24,7 +24,7 @@ Il est utilisé pour garantir la reproductibilité dans la génération d'images
 
 Il ne doit pas être confondu avec les clés cryptographiques. La valeur de la seed n'est pas un mot de passe de sécurité, mais simplement un point de départ qui rend la séquence de nombres prévisible.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Si je saisis la même valeur de seed, obtiendrai-je exactement la même image ?**
 

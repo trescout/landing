@@ -22,7 +22,7 @@ It is seen in self-training systems, continuously learning artificial intelligen
 
 It is confused with ordinary learning processes, whereas meta-skill optimizes the learning process itself.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are meta-skills important for AI?**
 

@@ -22,7 +22,7 @@ Ao criar seu modelo de dados, você define objetos e suas interações como pont
 
 É frequentemente confundido com bancos de dados relacionais tradicionais; No entanto, este sistema estabelece relações na fase de concepção, e não posteriormente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo escolher este método?**
 

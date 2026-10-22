@@ -18,7 +18,7 @@ First, a basic piece of code is written and this code is made executable on its 
 
 It is frequently used in the development of programming language compilers and operating system tools.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it so complicated?**
 

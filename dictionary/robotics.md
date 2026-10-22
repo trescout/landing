@@ -22,7 +22,7 @@ Elektronik devreler, motorlar ve yapay zekâ algoritmaları bir arada çalışar
 
 Saf yazılım projelerinden farklı olarak işin içinde fiziksel ve mekanik donanım bulunur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ ile ilişkisi nedir?**
 

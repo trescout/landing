@@ -22,7 +22,7 @@ Ao escrever o código, a linguagem de programação segue essas regras e avisa s
 
 Pode ser confundido com erros de tempo de execução, mas esse método detecta erros enquanto você escreve o código.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que devo usar o controle estático?**
 

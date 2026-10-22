@@ -60,7 +60,7 @@ Es ist möglich, PPTX-Dateien auch ohne Microsoft PowerPoint anzuzeigen, zu bear
 | Offener Standard | Geschlossenes kommerzielles Format | Internationaler Standard ISO/IEC 29500 (OpenXML) |
 | Medienzugriff | Schwierig / Erfordert einen speziellen Parser | Bilder und Videos können direkt durch Entpacken der ZIP-Datei extrahiert werden |
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist eine PPTX-Datei?**
 

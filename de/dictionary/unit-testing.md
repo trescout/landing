@@ -22,7 +22,7 @@ Es wird ganz am Anfang des Softwareentwicklungsprozesses verwendet, während der
 
 Es kann mit End-to-End-Tests verwechselt werden; Während das gesamte System getestet wird, konzentriert sich der Unit-Test auf nur einen Teil.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich jedes Teil testen?**
 

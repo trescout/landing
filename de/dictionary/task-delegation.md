@@ -22,7 +22,7 @@ Es wird in Projektmanagement-Tools, Multiagentensystemen und Unternehmensworkflo
 
 Es geht um die Fähigkeit, den richtigen Job der richtigen Ressource zuzuweisen und den Job nicht einfach jemand anderem zu überlassen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie erfolgt der Transfer künstlicher Intelligenz?**
 

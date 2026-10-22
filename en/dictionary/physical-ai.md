@@ -22,7 +22,7 @@ It is used in autonomous vehicles, smart robots in logistics warehouses and prod
 
 Unlike virtual intelligences that work only in a software environment, they definitely require a physical body or hardware.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can it harm people?**
 

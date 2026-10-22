@@ -22,7 +22,7 @@ Se utiliza ampliamente en la gestión de servidores, distribución de software y
 
 Puede confundirse con la inteligencia artificial; La automatización se basa en reglas, según aprende la IA.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿La automatización me quitará el trabajo?**
 

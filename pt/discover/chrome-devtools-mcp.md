@@ -44,8 +44,6 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Chrome DevTools](https://trescout.com/pt/dictionary/chrome-devtools/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/pt/dictionary/context/)
 - [MCP](https://trescout.com/pt/dictionary/mcp/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

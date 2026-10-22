@@ -22,7 +22,7 @@ It is used when setting up AI API services, running open-source models on local 
 
 It is confused with training frameworks (PyTorch, TensorFlow, etc.); while training frameworks focus on weight learning and backpropagation, inference frameworks solely maximize the response speed of a pre-trained model.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why choose an inference framework instead of using PyTorch directly?**
 

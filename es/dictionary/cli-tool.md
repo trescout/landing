@@ -24,7 +24,7 @@ Es ampliamente utilizado en procesos de desarrollo de software, gestión de serv
 
 Se diferencia de los programas normales con interfaz gráfica, está completamente basado en texto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es difícil aprender las herramientas CLI?**
 

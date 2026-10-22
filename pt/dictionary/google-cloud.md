@@ -45,7 +45,7 @@ Acredita-se que seja o Drive. O Drive armazena arquivos, a nuvem executa aplicat
 **Central:** Produção de aluguel.
 **Armazém:** Armazém para alugar.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que não meu próprio computador?**
 

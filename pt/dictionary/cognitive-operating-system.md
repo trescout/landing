@@ -22,7 +22,7 @@ Funciona com uma combinação de grandes modelos de linguagem, sistemas de memó
 
 Pode ser confundido com sistemas operacionais tradicionais; Este sistema não é um software, mas uma arquitetura pensante.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Esses sistemas podem realmente pensar?**
 

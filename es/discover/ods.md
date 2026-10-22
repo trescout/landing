@@ -80,7 +80,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [RAG](https://trescout.com/es/dictionary/rag/)
 
 - **Para quién es:** Empresas que se preocupan por la privacidad de los datos, desarrolladores locales de inteligencia artificial y administradores de sistemas.
-- **Licencia:** MIT (Özgür açık kaynak lisansı)
+- **Licencia:** MIT (Licencia de código abierto libre)
 - **Marco:** Servidor AI local Python y llama.cpp
 - **Plataformas:** Linux, Mac OS, Windows
 

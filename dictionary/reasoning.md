@@ -22,7 +22,7 @@ Karmaşık yazılım hatalarının ayıklanmasında, ileri düzey matematiksel p
 
 Sıklıkla basit örüntü eşleme veya ezbere bilgi getirme ile karıştırılır. Örüntü eşleme sadece geçmiş verilerdeki benzerlikleri bulurken, akıl yürütme daha önce hiç karşılaşılmamış yeni ve karmaşık durumlarda mantık kuralları çerçevesinde yeni çözümler üretir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ gerçekten insanlar gibi düşünüyor mu?**
 

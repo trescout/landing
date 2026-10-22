@@ -22,7 +22,7 @@ Os dados são primeiro coletados, as peças defeituosas são limpas, organizadas
 
 É confundido com banco de dados, mas pipeline é o processo de movimentação e alteração de dados, enquanto banco de dados é apenas espaço de armazenamento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é tão importante?**
 

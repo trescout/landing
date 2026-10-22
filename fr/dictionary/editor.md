@@ -22,7 +22,7 @@ Il est utilisé dans tous les processus de développement de logiciels. C'est le
 
 Il peut être confondu avec les éditeurs de texte ordinaires (tels que le Bloc-notes) ; mais les éditeurs de code ont des capacités particulières pour comprendre la logique du logiciel.
 
-## Questions fréquentes
+## Questions et réponses
 
 **N’importe quel éditeur de texte peut-il être utilisé pour écrire du code ?**
 

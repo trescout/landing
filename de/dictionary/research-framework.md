@@ -22,7 +22,7 @@ Es wird in akademischen Studien, Datenanalyseprojekten und Prozessen zur Entwick
 
 Es ist nicht nur ein Projektmanagement-Tool; Vielmehr handelt es sich um die Methodik eines wissenschaftlichen oder technischen Entdeckungsprozesses.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum brauche ich einen Rahmen?**
 

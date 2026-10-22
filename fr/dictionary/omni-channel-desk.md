@@ -22,7 +22,7 @@ Il est utilisé dans les sites de commerce électronique, les unités de support
 
 Peut être mixé avec du multicanal ; L'omni-canal est une structure dans laquelle tous les canaux communiquent entre eux.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que fait l’intelligence artificielle ici ?**
 

@@ -32,7 +32,7 @@ O Guia de estilo Java do Google permite que os desenvolvedores deixem para trás
 - Desabilitar regras de estilo de verificação: desabilitar verificações de estilo em CI/CD quando o processo trava aumenta o débito técnico.
 - Linhas de comentários excessivas: O objetivo deve ser que o código se explique, e comentários sem sentido não devem ser escritos em métodos getter/setter óbvios.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que o Google Java Style Guide usa recuo de 2 espaços em vez de recuo de 4 espaços?**
 

@@ -47,7 +47,7 @@ En el mundo de la ciberseguridad, el concepto de herramienta es un arma de doble
 - Pentest y Análisis: Herramientas como Nmap (escaneo de puertos), Wireshark (análisis de paquetes), Burp Suite (pruebas de seguridad web) y Metasploit son utilizadas por los administradores de sistemas para cerrar vulnerabilidades, mientras que los atacantes las emplean para infiltrarse en las redes objetivo.
 Las herramientas en sí son neutrales; la intención de uso y los límites de autorización determinan el marco ético de la seguridad.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa Tools y cuál es su equivalente en español?**
 

@@ -22,7 +22,7 @@ It is used in processes such as web scraping, automated testing, and price track
 
 Headless Browser
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we use a normal browser?**
 

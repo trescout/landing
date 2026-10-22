@@ -56,7 +56,7 @@ Depuis la version 2.23 de Git, le multitâche déroutant de la commande git chec
 | Le plus grand risque | Abandon de panier, paiement en double | Perte des modifications non enregistrées du répertoire de travail |
 | Approche moderne | Apple/Google Pay, paiement sans tête | Utilisation de git switch et git restore |
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la signification générale du mot Checkout ?**
 

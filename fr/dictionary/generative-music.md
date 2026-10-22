@@ -22,7 +22,7 @@ Il est souvent utilisé dans les jeux vidéo pour une musique de fond qui change
 
 Il ne faut pas la confondre avec la composition traditionnelle. Lors de la composition, la séquence de sons est fixe, alors que dans la musique générative, le processus est dynamique et en constante évolution.
 
-## Questions fréquentes
+## Questions et réponses
 
 **À qui appartiennent les droits d’auteur de la musique produite ?**
 

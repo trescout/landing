@@ -65,7 +65,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Para desarrolladores de C++, arquitectos de motores de juegos y sistemas integrados que desean acelerar la depuración, el monitoreo y la verificación de proyectos de software con latencia cero.
-- **Licencia:** MIT Lisansı (Ticari ve açık kaynak projelerde tamamen serbest)
+- **Licencia:** Licencia MIT (Completamente gratuita para proyectos comerciales y de código abierto)
 - **Estándar:** Compatible con C++11, C++14, C++17, C++20 y C++23
 - **Tipo de biblioteca:** Enlace estático/dinámico compilado o solo de encabezado
 

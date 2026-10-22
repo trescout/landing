@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les bots de service client, les assistants d'i
 
 À ne pas confondre avec la mémoire temporaire (fenêtre de contexte) : alors que la mémoire temporaire définit uniquement la limite de mots mémorisés pendant la conversation active en cours, le contexte persistant préserve les informations même des jours après la fermeture de la conversation.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Le contexte persistant ralentit-il l'intelligence artificielle ?**
 

@@ -22,7 +22,7 @@ It is used in web servers, multi-user applications and modern operating systems.
 
 It is confused with parallelism; Parallelism is literally two different processors doing two jobs at the same time, while concurrency is the timing of the jobs.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it important?**
 

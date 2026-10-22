@@ -22,7 +22,7 @@ Se utiliza en sistemas RAG, análisis de documentos de gran tamaño y conversaci
 
 No se trata solo de acortar los datos, sino de elegirlos sabiamente y formatearlos en un formato que el modelo pueda comprender.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Habrá pérdida de información?**
 

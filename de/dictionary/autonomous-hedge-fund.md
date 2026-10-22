@@ -22,7 +22,7 @@ Wird in Finanztechnologien und algorithmischen Handelsplattformen eingesetzt.
 
 Es kann mit algorithmischem Handel verwechselt werden, aber während dieser normalerweise vordefinierte Regeln befolgt, kann dieses System seine eigene Strategie erlernen und weiterentwickeln.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Machen diese Fonds wirklich keine Fehler?**
 

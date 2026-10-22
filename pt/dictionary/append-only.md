@@ -22,7 +22,7 @@ O sistema aceita apenas um comando 'adicionar' em vez de um comando que atualiza
 
 Pode ser confundido com bancos de dados tradicionais; os tradicionais podem atualizar os dados, este método nunca permite.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se eu cometer um erro?**
 

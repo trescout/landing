@@ -22,7 +22,7 @@ Frontend is used in web development processes, especially in large-scale applica
 
 It is not just copying files but also the process of compressing and optimizing them.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we combine files?**
 

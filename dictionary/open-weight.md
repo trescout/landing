@@ -43,7 +43,7 @@ Open Source AI sanılır. O kod ve süreç şeffaflığını da kapsar, bu yaln�
 
 *Yemeğin tarifini ve malzemelerini paylaşıp herkesin kendi mutfağında pişirmesine benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Open Source farkı ne?**
 

@@ -22,7 +22,7 @@ Está ubicado centralmente en la configuración de nombres de dominio y en las i
 
 Puede confundirse con hosting; El alojamiento es donde se almacenan los archivos de su sitio y el servidor de nombres es el camino para llegar allí.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué hace cambiar la configuración del servidor de nombres?**
 

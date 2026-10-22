@@ -22,7 +22,7 @@ Arama motorlarında kullanıcının aradığı kelimeyle tam eşleşmese bile an
 
 Genellikle sadece bir çeviri yöntemi sanılır, ancak bu bir çeviri değil anlamın matematiksel olarak uzaya yerleştirilmesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden sadece kelimeleri kullanmıyoruz?**
 

@@ -24,7 +24,7 @@ Il est utilisé dans les audits de sécurité des logiciels, la gestion de la ch
 
 A ne pas confondre avec le code source du logiciel ; Ceci est juste une liste d'inventaire.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le SBOM est-il important ?**
 

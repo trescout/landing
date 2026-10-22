@@ -22,7 +22,7 @@ Eles são preferidos em sistemas de controle robótico, softwares de direção a
 
 Não devem ser confundidos com os modelos de linguagem tradicionais que pensam passo a passo, pois estes preveem a próxima palavra em sequência.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que nem toda inteligência artificial usa esse método?**
 

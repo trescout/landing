@@ -41,7 +41,7 @@ Se considera una VPN. La VPN crea un túnel en todo el dispositivo, mientras que
 **Recepción:** El oficial que saluda al visitante.
 **Intérprete:** El medio que transmite la palabra.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es seguro?**
 

@@ -22,7 +22,7 @@ Se utiliza durante el diseño del sistema, reuniones de equipo y documentación 
 
 No es sólo una imagen, es un modelo que representa el funcionamiento lógico del sistema.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Alguien puede dibujar un diagrama?**
 

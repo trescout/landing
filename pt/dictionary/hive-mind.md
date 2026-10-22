@@ -22,7 +22,7 @@ Agentes de inteligência artificial designados para diferentes tarefas transfere
 
 É semelhante aos sistemas multiagentes, mas a ênfase está nas unidades que atuam como uma única mente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que a mente coletiva é melhor?**
 

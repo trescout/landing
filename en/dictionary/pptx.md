@@ -60,7 +60,7 @@ It is also possible to view, edit or present PPTX files without Microsoft PowerP
 | Open Standard | Closed commercial format | ISO/IEC 29500 (OpenXML) international standard |
 | Media Access | Difficult/Requires special parser | Pictures and videos can be imported directly by opening the ZIP |
 
-## Frequently asked questions
+## Questions and answers
 
 **What is a PPTX file?**
 

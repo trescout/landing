@@ -22,7 +22,7 @@ Karmaşık yazılım geliştirme projelerinde, pazar araştırması süreçlerin
 
 Sıradan bir yapay zekâ ajanı ile karıştırılabilir; ancak otonom ajanlar insan onayı beklemeden kendi kendine karar verme yeteneğine sahiptir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Otonom ajanlar hata yaparsa ne olur?**
 

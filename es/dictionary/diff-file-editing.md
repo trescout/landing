@@ -22,7 +22,7 @@ Se utiliza con frecuencia en sistemas de control de versiones y agentes de codif
 
 No confundir con sobrescribir todo el archivo; este método simplemente aplica la diferencia.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué usamos diff en lugar de enviar el archivo completo?**
 

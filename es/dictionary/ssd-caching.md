@@ -22,7 +22,7 @@ Se utiliza en servidores, ordenadores de alto rendimiento y dispositivos NAS.
 
 Puede confundirse con simplemente agregar almacenamiento, pero es una estrategia de aceleración.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Reduce la vida útil del SSD?**
 

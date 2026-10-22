@@ -49,7 +49,6 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [STT](https://trescout.com/de/dictionary/stt/)
 - [Framework](https://trescout.com/de/dictionary/framework/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Agent](https://trescout.com/de/dictionary/agent/)

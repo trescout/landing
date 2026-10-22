@@ -22,7 +22,7 @@ You will encounter this when sharing open-source models, sizing model files, and
 
 It can be confused with raw data or program code, but these are simply the experience coefficients learned by the model.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can model weights be changed?**
 

@@ -51,7 +51,7 @@ Successful engineering teams transform code snippets from an individual habit in
 In-Repository Snippets (.vscode/): Thanks to shared snippet files added to the project repository, a developer joining the team can write the company's standard API client or test templates using the correct conventions from day one.
 Documentation Snippets: "Copy" buttons in the documentation of successful platforms like Stripe or Tailwind are a modern tool that improves the developer experience (DX).
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Code snippets meaning?**
 

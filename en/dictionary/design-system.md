@@ -22,7 +22,7 @@ It is used in websites, mobile applications and large enterprise software projec
 
 It may be confused with the 'Style Guide', which is just a visual guide; The design system is a much broader and more functional version of this.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we need a design system?**
 

@@ -36,7 +36,7 @@ Pensa-se que é velocidade. No entanto, o assunto é o rendimento: muito trabalh
 **Autocarro:** Um autocarro circular que não parte apenas quando enche.
 **Elevador:** Não apanhar passageiros do piso intermédio.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Por que isso é importante?**
 

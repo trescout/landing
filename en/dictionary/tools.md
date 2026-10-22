@@ -47,7 +47,7 @@ In the cybersecurity world, the concept of a "tool" is a double-edged sword:
 - Pentest and Analysis: Tools such as Nmap (port scanning), Wireshark (packet analysis), Burp Suite (web security testing), and Metasploit are used by system administrators to patch vulnerabilities, while attackers use them to infiltrate target networks.
 - The tools themselves are neutral; the intent of use and authorization boundaries define the moral framework of security.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What does "Tools" mean and what is its Turkish equivalent?**
 

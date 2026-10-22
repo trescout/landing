@@ -24,7 +24,7 @@ It is frequently used in web server setups, performance tests, and system optimi
 
 It should not be confused with advanced load testing tools or real browser automations; it measures purely raw server speed.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does it accurately reflect real user traffic?**
 

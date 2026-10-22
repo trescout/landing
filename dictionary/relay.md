@@ -22,7 +22,7 @@ Wi-Fi sinyal güçlendiricilerde, e-posta iletim protokollerinde ve karmaşık a
 
 Proxy ile benzerlik gösterse de, relay genellikle fiziksel veya ağ katmanındaki iletimi temsil eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden doğrudan bağlanmıyoruz?**
 

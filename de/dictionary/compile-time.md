@@ -22,7 +22,7 @@ Es ist ein integraler Bestandteil des Softwareentwicklungsprozesses in Sprachen 
 
 Es ist mit der Laufzeit vermischt; Die Kompilierungszeit ist die Fehlerfindungsphase, die Laufzeit kann die Fehlerfindungsphase sein.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sind Fehler bei der Kompilierung wichtig?**
 

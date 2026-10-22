@@ -20,7 +20,7 @@ Assim que o desenvolvedor carrega seu código no sistema, robôs executados em s
 
 É uma prática padrão em grandes equipes de software e em ciclos modernos de desenvolvimento de software (DevOps).
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não fazemos testes manuais?**
 

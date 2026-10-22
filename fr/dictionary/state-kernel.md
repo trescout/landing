@@ -22,7 +22,7 @@ Il est utilisé dans des applications et des systèmes Web complexes nécessitan
 
 Elle peut être confondue avec la gestion étatique ; La gestion d'état est le processus de gestion de ces données, et le noyau d'état est le centre où résident les données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si ce noyau tombe en panne ?**
 

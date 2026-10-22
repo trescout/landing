@@ -37,7 +37,7 @@ C'est similaire à la personnalisation. La différence est la suivante : dans la
 **Meubles :** Faire fabriquer une armoire sur mesure.
 **Automobile :** Sélection du pack d'équipement.
 
-## Foire aux questions
+## Questions et réponses
 
 **Chaque logiciel peut-il être personnalisé ?**
 

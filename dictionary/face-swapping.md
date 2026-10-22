@@ -37,7 +37,7 @@ Deepfake ile benzerdir. Deepfake ses ve senaryo da üretir, face swapping genell
 
 *Tiyatroda oyuncunun yüzüne oturan ve tüm mimiklerle hareket eden gerçekçi maske gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yüksek donanım gerekir mi?**
 

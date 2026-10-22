@@ -18,7 +18,7 @@ Des outils de test automatisés sont exécutés pendant le processus de dévelop
 
 Il est utilisé dans les processus de développement de logiciels, les lignes CI/CD et les rapports de contrôle qualité.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Une couverture de code à 100 % est-elle toujours bonne ?**
 

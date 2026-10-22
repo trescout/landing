@@ -18,7 +18,7 @@ Cuando escribe código, define los tipos de variables (como número, texto, fech
 
 Se utiliza para reducir el margen de error en lenguajes de programación modernos y proyectos de software a gran escala.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la ventaja de tener seguridad de tipos?**
 

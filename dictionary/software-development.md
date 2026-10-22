@@ -22,7 +22,7 @@ Kullandığınız mobil uygulamalardan, ziyaret ettiğiniz web sitelerine, araba
 
 Sadece kod yazmakla yani coding ile karıştırılır. Kod yazmak bu sürecin sadece bir parçasıdır; analiz, tasarım ve test gibi diğer kritik aşamalar da bu sürecin ayrılmaz parçalarıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kod bilmeden yazılım geliştirme yapılabilir mi?**
 

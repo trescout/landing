@@ -22,7 +22,7 @@ Se utiliza en aplicaciones para tomar notas que requieren privacidad, dispositiv
 
 Es lo mismo que la voz a texto pero se diferencia en que no requiere Internet.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo puede funcionar de forma tan inteligente si no hay Internet?**
 

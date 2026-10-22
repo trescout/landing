@@ -22,7 +22,7 @@ Il est utilisé dans des projets de développement de logiciels complexes, des p
 
 Il peut être confondu avec un agent IA ordinaire ; cependant, les agents autonomes ont la capacité de prendre des décisions par eux-mêmes sans attendre l’approbation humaine.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si des agents autonomes commettent des erreurs ?**
 

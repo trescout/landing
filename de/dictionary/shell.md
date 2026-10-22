@@ -22,7 +22,7 @@ Es ist in alle Systeme von Linux, macOS und Windows integriert; Es ist für Soft
 
 Es wird mit dem Terminal verwechselt; Terminal ist das Fenster, das diese Schnittstelle anzeigt, und Shell ist der Befehlsinterpreter, der in diesem Fenster ausgeführt wird.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist es schwierig, Shell zu lernen?**
 

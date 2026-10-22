@@ -24,7 +24,7 @@ It is used for weather applications to retrieve data from the meteorology center
 
 It's confused with the website itself, but the API is designed for machines to talk to machines, not humans.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can anyone use the API?**
 

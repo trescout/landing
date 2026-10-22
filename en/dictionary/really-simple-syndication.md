@@ -24,7 +24,7 @@ It is used in blog tracking, news sites and content curation platforms.
 
 It may be confused with Newsletter, but RSS is completely under your control and does not require email.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is RSS dead?**
 

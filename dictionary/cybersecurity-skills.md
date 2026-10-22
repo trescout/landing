@@ -22,7 +22,7 @@ Yazılım geliştirme süreçlerinde, sistem yönetimi ve bulut altyapılarında
 
 Vulnerability Scanning terimi ile karıştırılabilir; o bir araçtır, bu ise sizin sahip olduğunuz yetenektir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Siber güvenlik becerisi kazanmak için kod bilmek şart mı?**
 

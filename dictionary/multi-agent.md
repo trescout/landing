@@ -22,7 +22,7 @@ Yazılım geliştirme, karmaşık veri analizi ve otomatikleşmiş iş akışlar
 
 Tek bir yapay zekâ modelinden farklıdır; burada önemli olan ajanların birbirleriyle olan etkileşimidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Ajanlar nasıl anlaşıyor?**
 

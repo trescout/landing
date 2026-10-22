@@ -22,7 +22,7 @@ Dies geschieht häufig bei Chatbots, Assistenten für künstliche Intelligenz un
 
 Man könnte es mit „Prompt Engineering“ verwechseln, aber es handelt sich dabei um einen Versuch, etwas durchsickern zu lassen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Handelt es sich hierbei um eine Sicherheitslücke?**
 

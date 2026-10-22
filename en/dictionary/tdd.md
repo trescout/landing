@@ -24,7 +24,7 @@ It is applied in modern software development teams, especially in projects where
 
 It can be confused with Unit Testing; TDD is a method, and Unit Testing is a tool used by this method.
 
-## Frequently asked questions
+## Questions and answers
 
 **Doesn't TDD waste time?**
 

@@ -24,7 +24,7 @@ Es kommt häufig in Bildungstechnologien, Produktivitätstools am Arbeitsplatz u
 
 Es sollte nicht einfach mit Faulheit oder mangelnder Motivation verwechselt werden; Dies ist eine biologisch bedingte Situation.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist ADHS eine Krankheit?**
 

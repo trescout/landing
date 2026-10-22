@@ -22,7 +22,7 @@ Es wird auf Servern, Webanwendungen und in groß angelegten Infrastrukturen eing
 
 Es kann mit Debugging-Tools verwechselt werden; Debugging findet den Fehler im Code, während ein Überwachungstool den allgemeinen Zustand des Systems verfolgt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum brauche ich das?**
 

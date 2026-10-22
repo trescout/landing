@@ -22,7 +22,7 @@ It is used in search engines to bring results that are close in meaning even if 
 
 It is often thought of as just a translation method, but this is not a translation but a mathematical placement of meaning in space.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why don't we just use words?**
 

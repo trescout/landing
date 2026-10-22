@@ -22,7 +22,7 @@ Il est utilisé dans les processus d’optimisation des algorithmes d’intellig
 
 Elle peut être confondue avec des méthodes de recherche plus complexes et considérant toutes les possibilités ; Cette méthode est beaucoup plus rapide mais ne garantit pas toujours un résultat parfait.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi ne parvient-il pas toujours à trouver le meilleur résultat ?**
 

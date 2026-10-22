@@ -22,7 +22,7 @@ Mobil bankacılık uygulamalarında, borsa platformlarında ve sigorta portallar
 
 Doğrudan bir yazılım aracı veya program değildir; finansal teknolojilerin hizmet verdiği genel sektörel alanı ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Finansal hizmetler yazılımla nasıl ilişkilidir?**
 

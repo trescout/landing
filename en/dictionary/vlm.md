@@ -45,7 +45,7 @@ Thought to be multimodal. Multimodal is the family name, VLM is the vision-text 
 **Subtitle:** Adding subtitles to a movie.
 **Guide:** Describing artwork in a museum.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What is the difference from the classical model?**
 

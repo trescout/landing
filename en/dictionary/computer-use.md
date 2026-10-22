@@ -22,7 +22,7 @@ It is used in tasks that require complex data entry, when browsing websites, or 
 
 It is very close to the concept of AI Agent, but Computer Use is a specific set of capabilities that focus specifically on on-screen interface control.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is this feature safe?**
 

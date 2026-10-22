@@ -24,7 +24,7 @@ Se utiliza en sistemas de juego, control de movimiento robótico y áreas donde 
 
 Puede confundirse con las reglas de software clásicas; Estos sistemas siguen la experiencia, no reglas preescritas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El agente RLM siempre lo hace bien?**
 

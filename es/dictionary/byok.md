@@ -44,7 +44,7 @@ Se cree que es cifrado. El cifrado es la cerradura, BYOK es quien tiene la llave
 **Depósito:** Entrega en sobre cerrado.
 **Caja de seguridad:** Contenido no financiable.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si pierdo?**
 

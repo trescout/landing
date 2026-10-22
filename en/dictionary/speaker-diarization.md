@@ -31,7 +31,7 @@ Diarization, whose word originates from the French verb "to keep a diary" (diari
 
 Transcription (Audio-Text Conversion / STT) and Speaker Diarization are often confused. A traditional Speech-to-Text engine only transcribes "what was said" but cannot distinguish who said it. Diarization, on the other hand, finds "who said it". For example, while OpenAI Whisper does pure transcription; When combined with tools like pyannote.audio or WhisperX, complete text and speaker IDs are obtained.
 
-## Frequently asked questions
+## Questions and answers
 
 **Diarization definition (What does Diarization mean)?**
 

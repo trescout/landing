@@ -22,7 +22,7 @@ Se utiliza con frecuencia en chatbots casuales, donde los usuarios hacen pregunt
 
 Se confunde con el aprendizaje de pocas oportunidades; Aquí el modelo no tiene pistas ni ejemplos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo puede el modelo hacer predicciones?**
 

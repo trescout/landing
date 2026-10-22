@@ -22,7 +22,7 @@ Es steckt in E-Mail-Filtern, Empfehlungssystemen und der Grundlage künstlicher 
 
 Künstliche Intelligenz ist ein umfassenderes Konzept, während maschinelles Lernen eine Methode zur Schaffung dieser Intelligenz ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann er alles lernen?**
 

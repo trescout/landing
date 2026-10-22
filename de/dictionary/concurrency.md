@@ -22,7 +22,7 @@ Es wird in Webservern, Mehrbenutzeranwendungen und modernen Betriebssystemen ein
 
 Es wird mit Parallelität verwechselt; Parallelität bedeutet im wahrsten Sinne des Wortes, dass zwei verschiedene Prozessoren zwei Aufgaben gleichzeitig ausführen, während Parallelität das Timing der Aufgaben bezeichnet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es wichtig?**
 

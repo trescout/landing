@@ -24,7 +24,7 @@ Quando você pressiona o botão de login, o aplicativo redireciona você para um
 
 É confundido com SSO (Single Sign-On); SSO é um conceito geral, enquanto OIDC é o protocolo técnico que faz esse trabalho.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Compartilho minha senha com outros sites?**
 

@@ -22,7 +22,7 @@ It is used in complex software projects, corporate software development where pr
 
 It can be confused with general code analysis tools or internet-based code indexing services.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it called 'local-first'?**
 

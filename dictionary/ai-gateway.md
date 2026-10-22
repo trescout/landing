@@ -22,7 +22,7 @@ Kurumsal yapay zekâ uygulamalarında güvenlik ve maliyet yönetimi için kulla
 
 Sadece bir API ile karıştırılabilir; ancak bu yapı API'nin üzerinde ek denetim ve yönetim katmanı sunar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **AI Gateway kullanmak yavaşlatır mı?**
 

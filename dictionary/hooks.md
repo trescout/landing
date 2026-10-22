@@ -22,7 +22,7 @@ Web sitelerinin arka planında, uygulama geliştirme çatılarında ve eklenti s
 
 Eklentiler (plugins) ile karıştırılabilir; kancalar daha çok kod düzeyinde bir bağlantı noktasıyken, eklentiler daha geniş kapsamlı özellikler sunar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden doğrudan ana kodu değiştirmiyoruz?**
 

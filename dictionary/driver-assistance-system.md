@@ -24,7 +24,7 @@ Modern otomobillerde ve otonom sürüş teknolojisi geliştiren araçlarda bulun
 
 Otonom araçlarla karıştırılabilir ancak bu sistemler sürücünün kontrolünü desteklemeye odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sistemler aracı tamamen ben sürmeden götürebilir mi?**
 

@@ -38,7 +38,7 @@ Por qué binario: Distinguir entre dos estados es más estable y rápido que ent
 **Morse:** Punto y raya.
 **Interruptor:** Adelante y atrás.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué sólo 0 y 1?**
 

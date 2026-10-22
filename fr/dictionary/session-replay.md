@@ -22,7 +22,7 @@ Il est utilisé dans les processus de test d’expérience utilisateur (UX) et d
 
 Il est confondu avec Analytics (statistiques) ; Analytics « Combien de personnes ont cliqué ? » dit, rediffusion de la session "Comment ça s'est passé?" répond à la question.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Qu’en est-il de la confidentialité des utilisateurs ?**
 

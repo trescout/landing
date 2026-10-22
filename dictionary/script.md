@@ -45,7 +45,7 @@ Uygulama sanılır. Uygulama büyük ve derlemelidir, betik hafif ve anlıktır.
 
 *Uzun uzun anlatmak yerine adım adım iş listesi vermeye benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes yazabilir mi?**
 

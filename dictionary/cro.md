@@ -24,7 +24,7 @@ E-ticaret sitelerinde, dijital pazarlama kampanyalarında ve kullanıcı deneyim
 
 Sadece daha fazla ziyaretçi çekmek (SEO) değil, gelen ziyaretçiyi verimli kullanmaktır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hızlı sonuç verir mi?**
 

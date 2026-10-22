@@ -22,7 +22,7 @@ Se utiliza en muchos campos técnicos como el desarrollo de inteligencia artific
 
 No es una única herramienta, sino un conjunto de herramientas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es obligatorio utilizar el kit de herramientas?**
 
@@ -41,6 +41,7 @@ Si bien Framework establece el esqueleto básico de su proyecto, el kit de herra
 ## Herramientas relacionadas
 
 - [MVT](https://trescout.com/es/discover/mvt/)
+- [Agent Native](https://trescout.com/es/discover/agent-native/)
 - [Agent Governance Toolkit](https://trescout.com/es/discover/agent-governance-toolkit/)
 - [Agent Toolkit for Aws](https://trescout.com/es/discover/agent-toolkit-for-aws/)
 

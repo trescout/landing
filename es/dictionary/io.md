@@ -41,7 +41,7 @@ Esta línea no espera a que llegue el archivo, las demás tareas continúan. Se 
 **Restaurante:** Entrada de pedidos, salida de servicio.
 **Fábrica:** Entrada de materia prima, salida de producto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué la E/S es un cuello de botella?**
 

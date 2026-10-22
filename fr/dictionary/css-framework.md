@@ -43,7 +43,7 @@ C'est considéré comme « utility-first ». C'est une approche, le framework es
 **Lego :** Pièces à assembler.
 **Plat préparé :** Assiette à réchauffer.
 
-## Foire aux questions
+## Questions et réponses
 
 **Les sites ne se ressemblent-ils pas ?**
 

@@ -22,7 +22,7 @@ As entradas e saídas do modelo são monitoradas, os tempos de processamento sã
 
 Confunde-se com monitoramento; monitoramento é apenas 'está funcionando?' a observabilidade pergunta 'por que funciona assim?' concentra-se na questão.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é necessário?**
 

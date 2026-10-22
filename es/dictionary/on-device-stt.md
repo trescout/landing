@@ -38,7 +38,7 @@ El reconocimiento en la nube es una ilusión. Funciona en el servidor, los datos
 **Calculadora:** Procesamiento sin batería.
 **Linterna:** Luz sin red.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué en lugar de la nube?**
 
@@ -58,7 +58,7 @@ Sí. La escucha constante tiene un costo, se activa cuando es necesario.
 
 ## Términos relacionados
 
-- [STT](https://trescout.com/es/dictionary/stt/)
+- [STT](https://trescout.com/es/dictionary/speech-to-text/)
 - [Speech-to-Text](https://trescout.com/es/dictionary/speech-to-text/)
 - [Local](https://trescout.com/es/dictionary/local/)
 

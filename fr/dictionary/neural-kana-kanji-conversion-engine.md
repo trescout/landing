@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes de saisie japonais, les claviers mobiles et l
 
 Ce n'est pas seulement un dictionnaire ; Il s'agit d'un modèle d'intelligence artificielle qui comprend le contexte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utiliser l'intelligence artificielle ?**
 

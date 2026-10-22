@@ -22,7 +22,7 @@ You can use this tool in RAG systems, which allow artificial intelligence models
 
 It is confused with the web scraping method. While web scraping examines website designs and extracts raw data, the Web Search API directly retrieves ready-made and filtered search results provided by the search engine.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do artificial intelligence models use the Web Search API?**
 

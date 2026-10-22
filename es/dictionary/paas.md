@@ -44,7 +44,7 @@ Se confunde con IaaS. IaaS proporciona hardware, PaaS ofrece un entorno de ejecu
 **Apartamento:** Alquiler amueblado.
 **Escenario:** Escenario listo con iluminación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario PaaS?**
 

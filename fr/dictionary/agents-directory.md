@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les environnements de développement logiciel 
 
 Il peut être confondu avec le concept général d'« espace de travail d'agent » (agent workspace) : alors que l'espace de travail fait référence à la mémoire temporaire et aux fichiers temporaires utilisés par l'agent lors de son travail, l'agents directory est le répertoire de fichiers permanent où sont stockés le code source et les définitions de règles des agents.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les agents d'intelligence artificielle ne peuvent-ils pas fonctionner sans ce dossier ?**
 

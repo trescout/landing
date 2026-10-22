@@ -33,7 +33,7 @@ In herkömmlichen Systemen macht die Fähigkeit des Datenbankadministrators, den
 - Vernachlässigung der Leseleistung: Das Durchsuchen von Millionen von Protokollzeilen (Wiedergabe) zur Berechnung des endgültigen Status beeinträchtigt die Lesezeit; Es sollten regelmäßig Status-Snapshots erstellt werden.
 - DSGVO ignoriert das Recht auf Vergessenwerden: Wenn Gesetze zum Schutz personenbezogener Daten das Recht auf Löschung verlangen, erzwingt das Löschen von Daten aus unveränderlichen Protokollen die Architektur; Dieses Problem soll durch das Krypto-Shredding-Verfahren gelöst werden, bei dem die Daten durch das Löschen des Verschlüsselungsschlüssels bedeutungslos gemacht werden.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist die Nur-Anhang-Protokollarchitektur schneller als das Update-in-Place-Modell?**
 

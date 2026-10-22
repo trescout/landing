@@ -22,7 +22,7 @@ It is used in cloud computing to run applications quickly or provide security is
 
 It can be confused with full-fledged virtual machines (Virtual Machines), but they boot much faster.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I choose the lightweight one?**
 

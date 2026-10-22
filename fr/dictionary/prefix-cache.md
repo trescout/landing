@@ -22,7 +22,7 @@ Il est utilisé dans les services LLM, les conversations nécessitant un context
 
 Il peut être confondu avec le cache KV ; Alors que le cache KV contient l'état interne du modèle, le cache de préfixe contient les blocs de texte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle vitesse fournit-il ?**
 

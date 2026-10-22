@@ -22,7 +22,7 @@ Se utiliza en la etapa de preparación de los grandes modelos de lenguaje antes 
 
 Se confunde con el pre-entrenamiento (pre-training); mientras que el pre-entrenamiento establece los fundamentos del modelo, el post-entrenamiento moldea el comportamiento del modelo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario el post-entrenamiento?**
 

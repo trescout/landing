@@ -83,7 +83,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [API](https://trescout.com/es/dictionary/api/)
 
 - **Para quién es:** Educadores, investigadores de IA, emprendedores de tecnología educativa y estudiantes.
-- **Licencia:** Apache-2.0 (Açık kaynak lisansı)
+- **Licencia:** Apache-2.0 (licencia de código abierto)
 - **Marco:** Simulador de agentes múltiples TypeScript y Next.js
 - **Plataformas:** Navegador web, Linux, macOS, Windows
 

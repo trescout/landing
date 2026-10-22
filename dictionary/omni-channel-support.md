@@ -22,7 +22,7 @@ E-ticaret sitelerinde, bankacılık uygulamalarında ve büyük müşteri hizmet
 
 Çok kanallı (multi-channel) destek ile karıştırılır; çok kanallı destekte kanallar birbirinden bağımsızdır, omni-channel'da ise hepsi birbirine bağlıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Omni-channel neden önemlidir?**
 

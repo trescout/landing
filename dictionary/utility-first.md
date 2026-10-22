@@ -22,7 +22,7 @@ Modern web tasarımında ve özellikle Tailwind CSS gibi kütüphanelerde sıkç
 
 CSS framework ile karıştırılabilir; utility-first bir yöntemdir, CSS framework ise bu yöntemi uygulayan araçtır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kod çok kalabalık görünmüyor mu?**
 

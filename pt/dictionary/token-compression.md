@@ -22,7 +22,7 @@ O modelo combina informações semelhantes ou sem importância durante o process
 
 Pode ser confundido com Quantização; Embora a quantização reduza os pesos do modelo, a compactação de token comprime os próprios dados processados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **A compactação de token reduz a qualidade?**
 

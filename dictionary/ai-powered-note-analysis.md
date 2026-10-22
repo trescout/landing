@@ -22,7 +22,7 @@ Toplantı notlarının düzenlenmesinde, akademik çalışmalarda ve kişisel g�
 
 Sadece metni kopyalayan araçlardan farklı olarak, metnin içeriğini anlar ve anlamlandırır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Gizliliğim korunur mu?**
 

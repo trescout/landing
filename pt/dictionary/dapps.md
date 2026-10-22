@@ -24,7 +24,7 @@ Esses aplicativos funcionam por meio de contratos inteligentes. Depois que os c�
 
 Pode ser confundido com aplicativos móveis normais; No entanto, os dApps mantêm os dados na blockchain e não em um servidor central.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que é necessário para usar dApps?**
 

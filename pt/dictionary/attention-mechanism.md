@@ -22,7 +22,7 @@ Pesos matemáticos são atribuídos a cada palavra na frase e calcula-se qual pa
 
 Pode ser confundido com memória geral ou métodos simples de contagem de palavras, mas o ponto principal aqui é a capacidade de foco.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que isso é tão importante?**
 

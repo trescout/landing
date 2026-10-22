@@ -22,7 +22,7 @@ Günümüzdeki tüm modern dil modellerinin ve çeviri sistemlerinin temel mimar
 
 Genel bellek veya sadece kelime sayma yöntemleriyle karıştırılabilir, ancak buradaki temel olay odaklanma yeteneğidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden bu kadar önemlidir?**
 

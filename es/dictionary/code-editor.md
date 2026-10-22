@@ -22,7 +22,7 @@ Aparece en todas las pantallas de programación principales que utiliza al desar
 
 No confundir con las herramientas IDE, que son grandes entornos de desarrollo que compilan todo el sistema de principio a fin y lo convierten en software funcional; El editor es más centrado y ligero.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la diferencia entre el editor de código y el bloc de notas normal?**
 

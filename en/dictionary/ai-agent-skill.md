@@ -22,7 +22,7 @@ It is frequently used in AI agent platforms and automation tools.
 
 It can be confused with general intelligence; A skill is the agent's means of doing a specific job.
 
-## Frequently asked questions
+## Questions and answers
 
 **How do agents learn new skills?**
 

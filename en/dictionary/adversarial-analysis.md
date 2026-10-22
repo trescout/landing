@@ -22,7 +22,7 @@ It is used to ensure the security of artificial intelligence models, cyber secur
 
 Not to be confused with just debugging; Here, the focus is on the presence of a malicious actor.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are we doing this test?**
 

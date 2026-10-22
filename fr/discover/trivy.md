@@ -80,7 +80,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Binary](https://trescout.com/fr/dictionary/binary/)
 
 - **Pour qui:** Pour les ingénieurs qui souhaitent automatiser les audits de sécurité, les vérifications de clés secrètes et la génération SBOM dans leurs processus de développement et de déploiement de logiciels.
-- **Licence:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Licence:** Apache-2.0 (Licence Open source avec une large liberté)
 - **promoteur:** Aqua Security et communauté Open Source
 - **Formats de sortie:** Tableau, JSON, SARIF, CycloneDX, SPDX, Modèle
 

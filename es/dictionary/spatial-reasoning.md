@@ -22,7 +22,7 @@ Se utiliza en robots autónomos, modelos de inteligencia artificial que comprend
 
 No se trata sólo de reconocimiento visual, sino de una comprensión que incluye profundidad y lógica.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo aprende esto la inteligencia artificial?**
 

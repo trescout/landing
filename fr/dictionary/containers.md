@@ -22,7 +22,7 @@ Il est utilisé dans le cloud computing, le déploiement d'applications Web et l
 
 Il est beaucoup plus léger que les machines virtuelles et démarre plus rapidement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les conteneurs sont-ils si populaires ?**
 

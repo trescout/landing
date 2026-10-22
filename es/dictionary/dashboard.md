@@ -22,7 +22,7 @@ Se utiliza en el mundo empresarial para realizar un seguimiento de gráficos de 
 
 Puede confundirse con informes, pero el panel proporciona datos en vivo e interactivos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El panel muestra datos en vivo?**
 

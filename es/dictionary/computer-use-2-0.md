@@ -22,7 +22,7 @@ Se utiliza en la automatización de pruebas de software, procesos de entrada de 
 
 Se confunde con el web scraping clásico o las integraciones de API. Mientras que los métodos clásicos interactúan con el código en segundo plano, Computer Use 2.0 apunta directamente a la interfaz visual y actúa como un humano.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es seguro Computer Use 2.0?**
 

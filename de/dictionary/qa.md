@@ -54,7 +54,7 @@ Mit der Verbreitung von probabilistischen (nicht-deterministischen) Systemen wie
 
 **KI-gestützte Testerstellung:** Automatische Erkennung von Test-Szenarien und Regressionsunterschieden in der grafischen Benutzeroberfläche mittels KI-Modellen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was bedeutet QA und wofür steht die Abkürzung?**
 

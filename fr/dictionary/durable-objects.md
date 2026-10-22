@@ -42,7 +42,7 @@ Il est considéré comme sans serveur. La fonction est temporaire, l'objet est p
 **Livre de caisse :** Solde de fin de journée.
 **Dépôt:** Une armoire qui attend son propriétaire.
 
-## Foire aux questions
+## Questions et réponses
 
 **Où sont stockées les données ?**
 

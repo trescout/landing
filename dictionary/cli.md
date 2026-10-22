@@ -24,7 +24,7 @@ Yazılım geliştirme süreçlerinde, sunucu yönetiminde ve yapay zekâ modelle
 
 Grafiksel arayüz (GUI) ile karıştırılır, ancak CLI tamamen metne dayalıdır ve çok daha fazla özelleştirme imkanı sunar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **CLI öğrenmek şart mı?**
 

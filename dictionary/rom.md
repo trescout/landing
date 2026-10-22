@@ -24,7 +24,7 @@ Akıllı telefonların açılış ekranlarında, bilgisayar anakartlarında ve g
 
 RAM ile karıştırılır; RAM geçicidir ve bilgisayar kapanınca silinir, ROM ise kalıcıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **ROM içindeki bilgiler neden değiştirilemez?**
 

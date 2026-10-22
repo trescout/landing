@@ -22,7 +22,7 @@ Es wird in autonomen Softwareentwicklungstools und komplexen Aufgabenverwaltungs
 
 Der Unterschied zu gewöhnlichen Chatbots besteht darin, dass sie nicht nur reagieren, sondern auch Maßnahmen ergreifen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn diese Systeme Fehler machen?**
 

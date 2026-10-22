@@ -44,7 +44,7 @@ Regra: Quando está cheio, o sistema fica lento ou o aplicativo fecha. 8 GB é b
 **Ficar em pé:** Mantendo o material em mãos.
 **Quadro branco:** Área de notas temporárias.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O que acontece se a RAM ficar cheia?**
 

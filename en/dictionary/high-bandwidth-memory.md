@@ -24,7 +24,7 @@ It frequently appears in high-end graphics processors used in artificial intelli
 
 It is confused with standard computer memories used in our homes, i.e., RAM. Standard memories have a horizontal layout and their data transfer speeds are much lower compared to this special vertical technology.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is this memory technology not common in regular computers?**
 

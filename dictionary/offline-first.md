@@ -22,7 +22,7 @@ Metroda seyahat ederken kullanılan not uygulamalarında, saha çalışanların�
 
 Sadece çevrimdışı (offline) çalışma moduyla karıştırılır: Çevrimdışı mod sadece internet yokken hata vermemeyi hedeflerken, offline-first yaklaşımı uygulamanın ana çalışma prensibini tamamen yerel veri üzerine kurar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Çevrimdışı yapılan değişiklikler internet gelince diğer kullanıcıların verileriyle çakışırsa ne olur?**
 

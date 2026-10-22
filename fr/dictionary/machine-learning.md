@@ -22,7 +22,7 @@ C'est dans les filtres de courrier électronique, les systèmes de recommandatio
 
 L’intelligence artificielle est un concept plus large, tandis que l’apprentissage automatique est une méthode utilisée pour créer cette intelligence.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-il tout apprendre ?**
 

@@ -42,7 +42,7 @@ Veritabanı sanılır. Veritabanı kalıcı ve geniştir, önbellek geçici ve h
 
 *Sık kullanılan kitabı çantada taşımak gibidir; her seferinde kütüphaneye gidilmez.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Önbellek dolarsa ne olur?**
 

@@ -42,7 +42,7 @@ Se cree que es etiquetado manual. Eso es obra humana, esto es salida del modelo.
 **Oficina de correos:** No pongas sello.
 **Sello:** Marcado de documentos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es siempre correcto?**
 

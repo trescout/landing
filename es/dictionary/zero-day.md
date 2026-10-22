@@ -22,7 +22,7 @@ En el mundo de la ciberseguridad, se utiliza en todo, desde el espionaje digital
 
 Se confunde con errores de software conocidos, pero la diferencia con una vulnerabilidad de día cero es que el desarrollador aún no tiene tiempo para desarrollar defensas.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se llama día cero?**
 

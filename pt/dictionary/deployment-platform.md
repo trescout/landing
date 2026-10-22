@@ -22,7 +22,7 @@ Quando você envia seus códigos para um repositório de código-fonte como o Gi
 
 É diferente do ambiente de desenvolvimento onde você apenas escreve o código; é o local onde o código é apresentado ao usuário final.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Quais serviços populares se enquadram neste grupo?**
 

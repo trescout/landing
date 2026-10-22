@@ -24,7 +24,7 @@ Se utiliza en sitios de comercio electrónico y en todos los proyectos web donde
 
 Puede confundirse con la representación del lado del cliente; En el lado del cliente, la mayor parte del trabajo se realiza en el navegador y en SSR, la mayor parte del trabajo se realiza en el servidor.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no todos los sitios utilizan SSR?**
 

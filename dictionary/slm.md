@@ -44,7 +44,7 @@ Zayıf sanılır. Genelde dardır, görevde güçlüdür. Biri ansiklopedi, diğ
 
 *Ansiklopedi yerine çantada taşınan el kitabı gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Daha mı az zeki?**
 

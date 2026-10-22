@@ -59,7 +59,7 @@ Les opérations lourdes d'analyse sémantique et de résolution de types sont ex
 - DAP (Debug Adapter Protocol) : Gère les opérations de débogage au moment de l'exécution. Les points d'arrêt (breakpoints), le suivi des variables et l'exécution pas à pas communiquent via le DAP.
 - SCIP / LSIF : Ce sont des formats d'indexation statique qui permettent d'indexer au préalable des bases de code volumineuses lors de la compilation, afin de naviguer dans le code via des interfaces web sans avoir à exécuter de serveur.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie LSP, quel est son acronyme ?**
 

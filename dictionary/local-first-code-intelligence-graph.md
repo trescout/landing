@@ -22,7 +22,7 @@ Karmaşık yazılım projelerinde, gizliliğin ön planda olduğu kurumsal yazı
 
 Genel kod analiz araçları veya internet tabanlı kod indeksleme servisleri ile karıştırılabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden 'local-first' deniyor?**
 

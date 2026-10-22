@@ -22,7 +22,7 @@ Il est utilisé pour augmenter les performances des infrastructures de serveurs 
 
 Contrairement aux méthodes classiques de traitement par lots, il n’attend pas la fin des requêtes, il alimente le flux instantanément.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-ce que cela réduit les coûts du serveur ?**
 

@@ -24,7 +24,7 @@ Sohbet robotlarında, metin özetleme araçlarında, kod yazma yardımcılarınd
 
 LLM terimi ile aynı kavramdır, ancak bu terim kısaltılmamış halidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her büyük model bir yapay zekâ mıdır?**
 

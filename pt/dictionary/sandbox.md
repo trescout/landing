@@ -22,7 +22,7 @@ Ele é usado em testes de segurança cibernética, estágios de desenvolvimento 
 
 Pode ser misturado com máquinas virtuais; Uma caixa de areia é um espaço de isolamento geralmente mais leve e especializado para uma aplicação específica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que uma sandbox é necessária?**
 

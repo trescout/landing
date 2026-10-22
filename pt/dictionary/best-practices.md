@@ -40,7 +40,7 @@ A exceção à regra também é uma regra: A velocidade se destaca no protótipo
 **Aviação:** Lista de verificação pré-voo.
 **Tráfego:** Ordem de faixas e sinais.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **É obrigatório segui-las?**
 

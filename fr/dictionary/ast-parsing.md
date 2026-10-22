@@ -24,7 +24,7 @@ Il fonctionne en arrière-plan dans les compilateurs, les formateurs de code, le
 
 Contrairement aux outils de recherche en texte brut, il ne se contente pas de chercher des mots, il examine la grammaire logique et la structure du code.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'analyse AST est-elle effectuée manuellement par le développeur ?**
 

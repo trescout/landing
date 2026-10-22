@@ -32,7 +32,7 @@ Oublier la complexité quadratique (O(N^2)) : à mesure que le contexte s'allong
 Prendre les poids d'attention pour des explications logiques : un score d'attention élevé n'est pas une preuve absolue de cause à effet, mais une corrélation de poids statistiques.
 - Choisir le mauvais modèle pour la mauvaise tâche : pour de simples tâches de classification ou de recherche, il faut privilégier les modèles Encoder plutôt que des modèles Decoder massifs.
 
-## Foire aux questions
+## Questions et réponses
 
 **Quel est le plus grand avantage de l'architecture Transformer par rapport aux modèles RNN et LSTM ?**
 

@@ -44,7 +44,7 @@ On croit que c'est un logiciel gratuit. Il est totalement ouvert, cela fait part
 **Essai de conduite :** Visite de la galerie.
 **Bibliothèque :** Adhésion gratuite.
 
-## Foire aux questions
+## Questions et réponses
 
 **Illimité?**
 

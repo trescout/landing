@@ -44,7 +44,7 @@ On croit que c'est de l'ingénierie. Un prompt est une instruction unique, l'ing
 **Commande :** Ticket de cuisine.
 **Recette :** Instruction mesurée.
 
-## Foire aux questions
+## Questions et réponses
 
 **Qu'est-ce qu'une mauvaise instruction ?**
 

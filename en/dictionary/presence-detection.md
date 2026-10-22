@@ -22,7 +22,7 @@ It is frequently used in smart home automations, office energy saving systems an
 
 It can be confused with motion sensors, but this system can track not only movement but also the entity itself.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will this system violate my privacy?**
 

@@ -24,7 +24,7 @@ Utilisé pour l'achat et la vente d'actifs cryptographiques et dans le monde de 
 
 À ne pas confondre avec les bourses centralisées (CEX) ; dans les bourses centralisées, vos actifs sont sous le contrôle de l'entreprise.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Faut-il s'inscrire pour utiliser un DEX ?**
 

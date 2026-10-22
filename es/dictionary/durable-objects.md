@@ -42,7 +42,7 @@ Se considera sin servidor. La función es temporal, el objeto es permanente. Uno
 **Libro de caja:** Saldo al final del día.
 **Depósito:** Un gabinete esperando a su dueño.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Dónde se almacenan los datos?**
 

@@ -45,7 +45,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Varía · dependiendo del proyecto que elijas
 - **Formato:** Colección de guías paso a paso.
 - **Tarifa:** gratis
-- **Licencia:** Belirtilmemiş · ayrıntı aşağıda
+- **Licencia:** No especificado · detalle a continuación
 
 **Licencia:** ⚠️ No se especifica licencia. Copyright 'todos los derechos reservados': lectura y seguimiento gratuitos, pero copiar y volver a publicar contenido requiere permiso.
 

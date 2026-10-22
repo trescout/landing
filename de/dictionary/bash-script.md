@@ -18,7 +18,7 @@ Sie öffnen eine Textdatei und schreiben die Befehle, die Sie ausführen möchte
 
 Es wird häufig bei der Serververwaltung, bei Sicherungsvorgängen oder bei Softwareinstallationsprozessen verwendet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich ein Skript verwenden, anstatt es von Hand zu schreiben?**
 

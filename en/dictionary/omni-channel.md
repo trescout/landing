@@ -37,7 +37,7 @@ Mistaken for multi-channel. In that, channels are many; in this, channels are co
 **Orchestra:** The sections playing a single piece of work.
 **Airport:** Transfer baggage system.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why is it important?**
 

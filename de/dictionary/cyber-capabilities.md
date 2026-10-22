@@ -22,7 +22,7 @@ Es wird in Cybersicherheitsoperationen, der Verteidigungsindustrie und der Siche
 
 Es wird oft nur mit Cybersicherheit verwechselt, aber dieser Begriff konzentriert sich mehr auf den Teil „Was wir tun können“.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind diese Fähigkeiten nur für den Angriff gedacht?**
 

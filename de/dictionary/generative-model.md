@@ -22,7 +22,7 @@ Sie werden in Bereichen eingesetzt, die Kreativität erfordern, wie z. B. künst
 
 Sie werden oft mit Modellen verwechselt, die lediglich das Vorhandene klassifizieren; wohingegen diese darauf ausgerichtet sind, etwas Neues zu schaffen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sagen produktive Modelle immer die Wahrheit?**
 

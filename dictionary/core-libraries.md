@@ -22,7 +22,7 @@ Neredeyse tüm programlama dillerinde ve işletim sistemi geliştirmelerinde kul
 
 Framework veya SDK ile karıştırılabilir ancak core libraries daha çok temel işlevselliği, frameworkler ise daha geniş bir uygulama iskeletini ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Core libraries neden önemlidir?**
 

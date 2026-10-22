@@ -22,7 +22,7 @@ Se utiliza con frecuencia en bots de atención al cliente, asistentes personales
 
 No debe confundirse con la memoria temporal (context window): mientras que la memoria temporal determina el límite de palabras que se recuerdan solo durante la conversación activa en ese momento, el contexto persistente conserva la información incluso días después de haber cerrado la conversación.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿El contexto persistente ralentiza la inteligencia artificial?**
 

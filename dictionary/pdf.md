@@ -24,7 +24,7 @@ Resmi yazışmalar, e-kitaplar, faturalar ve akademik makalelerde kullanılır.
 
 Word dosyalarıyla karıştırılabilir, ancak Word düzenlenebilir, PDF ise genellikle sabitlenmiştir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **PDF'i düzenleyebilir miyim?**
 

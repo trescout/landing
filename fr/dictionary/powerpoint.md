@@ -42,7 +42,7 @@ En règle générale, il n’y a qu’une seule idée par diapositive. Soutenir 
 **Photo album:** Le flux visuel qui aligne le récit.
 **Théâtre :** Plan de scène progressant acte par acte.
 
-## Foire aux questions
+## Questions et réponses
 
 **Puis-je prendre des notes pendant une présentation ?**
 

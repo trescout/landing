@@ -22,7 +22,7 @@ Sie werden häufig in der Kunst, in der Werbebranche, im Spieldesign und bei der
 
 Sie unterscheiden sich von Fotobearbeitungsprogrammen, da sie ein vorhandenes Foto nicht verbessern, sondern es völlig aus dem Nichts erschaffen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Zeichnen diese Werkzeuge jeden gewünschten Text perfekt?**
 

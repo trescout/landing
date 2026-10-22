@@ -22,7 +22,7 @@ GitHub veya GitLab gibi platformlarda, özellikle büyük özellikler geliştiri
 
 Tek bir büyük 'Pull Request' ile karıştırılabilir; ancak bu yöntem parçalı ve sıralı bir yaklaşım sunar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden tek seferde göndermiyoruz?**
 

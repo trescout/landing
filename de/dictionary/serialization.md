@@ -83,7 +83,7 @@ Im nativen Serialisierungsmechanismus von Java (ObjectInputStream.readObject()) 
 - Wählen Sie Formate, die nur reine Daten enthalten, und validieren Sie die Datenstruktur anhand des Schemas (JSON + Pydantic/Zod oder Protobuf).
 - Implementieren Sie Authentifizierung und Nachrichtenintegritätskontrolle (HMAC oder TLS) beim binären Datenaustausch.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist der Hauptunterschied zwischen Serialisierung und Deserialisierung?**
 

@@ -22,7 +22,7 @@ A inteligência artificial tira uma foto da tela, analisa-a e decide que ação 
 
 Está muito próximo do conceito de Agente de IA, mas o Uso do Computador é um conjunto específico de recursos que se concentra especificamente no controle da interface na tela.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Este recurso é seguro?**
 

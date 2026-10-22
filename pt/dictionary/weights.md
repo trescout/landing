@@ -22,7 +22,7 @@ Nos arquivos de grandes modelos de linguagem (LLMs) que podem ser baixados e exe
 
 É confundido com a arquitetura do modelo. A arquitetura é como a planta dos cômodos de um edifício vazio; os pesos, por sua vez, são os móveis colocados nesses cômodos que tornam o edifício habitável.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Podemos alterar esses valores numéricos manualmente?**
 

@@ -24,7 +24,7 @@ Se utiliza en correspondencia oficial, libros electrónicos, facturas y artícul
 
 Puede confundirse con los archivos de Word, pero Word se puede editar, mientras que el PDF suele estar fijado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo editar el PDF?**
 

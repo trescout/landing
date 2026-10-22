@@ -22,7 +22,7 @@ Akıllı telefonlar veya düşük donanımlı cihazlar gibi, devasa modellerin s
 
 Quantization ile karıştırılır; ancak quantization modelin ağırlıklarını sıkıştırırken, distillation tamamen yeni ve küçük bir modelin eğitilmesini içerir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Küçük model büyük model kadar başarılı olur mu?**
 

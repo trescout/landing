@@ -22,7 +22,7 @@ Modern mobil uygulamalarda, akıllı asistan panellerinde ve yazılım geliştir
 
 Klasik dinamik arayüzlerden farklıdır; burada kararları sabit kurallar değil yapay zekâ modelleri verir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Intelligent UI her kullanıcı için farklı mı görünür?**
 

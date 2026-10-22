@@ -22,7 +22,7 @@ It is used in large-scale artificial intelligence projects and autonomous system
 
 It is not just a code editor, it covers the entire agent management process.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do I need to be an expert to use this platform?**
 

@@ -40,7 +40,7 @@ Se confunde con inteligencia general. Sin embargo, a lo que se refiere es a la c
 **Caja de herramientas:** La llave seleccionada según el trabajo.
 **Tienda de aplicaciones:** Programa descargado según la necesidad.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Añado yo las habilidades?**
 

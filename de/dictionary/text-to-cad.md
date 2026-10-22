@@ -24,7 +24,7 @@ Es wird in Industriedesign, Spieleentwicklung, 3D-Druck und Architekturprojekten
 
 Es sollte nicht mit Bildgeneratoren verwechselt werden; Sie zeichnen einfach Bilder, dadurch entstehen technische Daten.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Können die hergestellten Modelle direkt auf dem 3D-Drucker verwendet werden?**
 

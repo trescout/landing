@@ -24,7 +24,7 @@ It is used in large software teams and companies that develop rapid prototypes.
 
 It might only be confused with remote desktop; however, this system is specifically optimized for writing code.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens to my code if my computer breaks?**
 

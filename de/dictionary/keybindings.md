@@ -29,7 +29,7 @@ Der Begriff „Keybind“ oder „Keybinding“ wird im Türkischen als Tastenbe
 
 Tastenkombination (Shortcut) wird oft synonym mit Keybind verwendet. In der Praxis bezeichnen Shortcuts jedoch universelle Kombinationen auf Betriebssystemebene (Strg+V, Alt+Tab), während Keybind eher die benutzerdefinierten Zuweisungen beschreibt, die ein Benutzer in einem Editor oder Spiel nach eigenen Gewohnheiten neu belegt (re-map).
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Keybind-Bedeutung (Was bedeutet Keybind)?**
 

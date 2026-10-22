@@ -22,7 +22,7 @@ Il est utilisé dans les plates-formes SaaS (software as a service), les applica
 
 Il peut être confondu avec un serveur partagé ; Cependant, ce qui est partagé ici n'est pas seulement le matériel, mais la structure logique du logiciel.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi utiliser un seul programme ?**
 

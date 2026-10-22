@@ -22,7 +22,7 @@ It is used in the optimization processes of artificial intelligence algorithms, 
 
 It can be confused with search methods that are more complex and consider all possibilities; This method is much faster but does not always guarantee the perfect result.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why can't he always find the best result?**
 

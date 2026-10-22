@@ -22,7 +22,7 @@ Se utiliza a menudo en la música de fondo de los videojuegos, que cambia según
 
 No debe confundirse con la composición tradicional. En la composición, la secuencia de sonido es fija, mientras que en la música generativa, el proceso es dinámico y cambia constantemente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿A quién pertenecen los derechos de autor de la música producida?**
 

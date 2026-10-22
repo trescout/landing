@@ -22,7 +22,7 @@ Il est utilisé dans les applications de vidéoconférence, les sous-titres diff
 
 Contrairement à la transcription traditionnelle, où l’audio est enregistré puis transcrit en texte, la rapidité et le retour instantané sont ici essentiels.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Y aura-t-il un retard ?**
 

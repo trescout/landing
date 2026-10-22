@@ -22,7 +22,7 @@ Yazılım geliştirme süreçlerinin tamamında kullanılır. Web siteleri, mobi
 
 Sıradan metin editörleri (Notepad gibi) ile karıştırılabilir; ancak kod editörleri yazılımın mantığını anlayan özel yeteneklere sahiptir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herhangi bir metin editörü kod yazmak için kullanılabilir mi?**
 

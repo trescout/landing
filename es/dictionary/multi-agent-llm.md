@@ -22,7 +22,7 @@ Se utiliza en procesos de desarrollo de software, análisis de datos complejos y
 
 A diferencia de un modelo único de inteligencia artificial, aquí existe trabajo en equipo y división del trabajo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué un modelo no es suficiente?**
 

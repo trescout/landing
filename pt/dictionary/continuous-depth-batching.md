@@ -22,7 +22,7 @@ Fragmentos de texto ou cargas de computação recebidos são agrupados dinamicam
 
 Diferente dos métodos clássicos de processamento em lote, ele não espera que as solicitações sejam concluídas, alimentando o fluxo instantaneamente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Reduz os custos de servidor?**
 

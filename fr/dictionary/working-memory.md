@@ -37,7 +37,7 @@ On la prend à tort pour une mémoire à long terme. Celle-ci est le profil perm
 **Rester:** L'outil rangé une fois le travail terminé.
 **RAM :** La zone effacée lorsque l'alimentation est coupée.
 
-## Foire aux questions
+## Questions et réponses
 
 **Que se passe-t-il si elle est saturée ?**
 

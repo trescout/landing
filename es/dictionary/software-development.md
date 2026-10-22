@@ -22,7 +22,7 @@ Hay resultados de este proceso en todas partes, desde las aplicaciones móviles 
 
 A menudo se confunde con el simple hecho de escribir código (coding). Escribir código es solo una parte de este proceso; otras etapas críticas como el análisis, el diseño y las pruebas también son partes integrales de este proceso.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Se puede realizar desarrollo de software sin saber programar?**
 

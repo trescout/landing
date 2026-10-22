@@ -22,7 +22,7 @@ Lo utilizan empresas e investigadores que desean ejecutar inteligencia artificia
 
 Se mezcla con software de código abierto; Open Weights proporciona la estructura interna del modelo, pero a veces los datos utilizados para entrenar el modelo pueden permanecer privados.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puedo cambiar todo en el modelo con Open Weights?**
 

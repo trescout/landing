@@ -18,7 +18,7 @@ Durante el proceso de desarrollo de software se ejecutan herramientas de prueba 
 
 Se utiliza en procesos de desarrollo de software, líneas CI/CD e informes de control de calidad.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es siempre buena una cobertura de código del 100 por ciento?**
 

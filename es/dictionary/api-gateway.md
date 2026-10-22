@@ -22,7 +22,7 @@ Se utiliza en grandes sistemas de software con arquitectura de microservicio.
 
 No es sólo un enrutador; También asume funciones de seguridad y gestión.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario esto?**
 

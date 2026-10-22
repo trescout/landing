@@ -22,7 +22,7 @@ Dans le monde de la cybersécurité, il est utilisé dans de nombreux domaines, 
 
 Elle est confondue avec des bugs logiciels connus, mais la différence avec une vulnérabilité zero-day est que le développeur n'a pas encore le temps de développer des défenses.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi s’appelle-t-on jour zéro ?**
 

@@ -24,7 +24,7 @@ It is frequently used in news sites, e-commerce platforms and simple tooling app
 
 Not to be confused with native apps; PWA is actually a website.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it downloaded from the App Store?**
 

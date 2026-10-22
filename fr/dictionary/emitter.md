@@ -38,7 +38,7 @@ La dernière et la plus cruciale étape d'un compilateur ou d'un transpilateur e
 
 L'émetteur parcourt (généralement avec un modèle de visiteur) l'arbre de syntaxe abstraite (AST) optimisé ou la représentation intermédiaire (IR). Il distille chaque nœud en instructions que la plate-forme cible comprend : cette sortie peut être un langage machine brut (x86/ARM Assembly), un bytecode de machine virtuelle (JVM, V8 Bytecode) ou un autre langage de haut niveau (tel que la compilation TypeScript vers JavaScript).
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie Emitter et quel est son équivalent turc ?**
 

@@ -24,7 +24,7 @@ Você se conecta a um servidor de IRC, entra em um canal e começa a digitar. To
 
 A diferença de ferramentas modernas como Discord ou Slack é que elas não possuem recursos visuais ou de compartilhamento de arquivos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O IRC é seguro?**
 

@@ -22,7 +22,7 @@ Il est utilisé dans l'extraction automatique des notes de réunion, des assista
 
 Il est mélangé avec Text-to-Speech (conversion de texte en parole) ; C’est exactement le processus inverse.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Y a-t-il une marge d'erreur ?**
 

@@ -22,7 +22,7 @@ Yapay zekâ servislerinde, bulut tabanlı API'lerde ve yerel çalışan yapay ze
 
 Modelin kendisi ile karıştırılır; model bilgidir, motor ise bu bilgiyi kullanan sistemdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden ayrı bir motor kullanıyoruz?**
 

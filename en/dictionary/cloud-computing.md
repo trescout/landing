@@ -50,7 +50,7 @@ Cloud computing is not only a technical revolution, but also a massive disruptio
 - Cloud Storage vs Cloud Computing: Google Drive, iCloud, or Dropbox are merely storage services; cloud computing, on the other hand, is a massive ecosystem that includes dynamic processing power, artificial intelligence training, network management, and database orchestration alongside storage.
 - Serverless vs Truly Serverless: Physical servers of course do exist in serverless architecture; the term "serverless" means that the developer no longer has to deal with configuring, updating, or monitoring a server, and server management is made invisible by the provider.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does cloud computing mean and what is its Turkish equivalent?**
 

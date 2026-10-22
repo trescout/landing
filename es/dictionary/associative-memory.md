@@ -22,7 +22,7 @@ Se utiliza en bases de datos vectoriales, sistemas de reconocimiento de patrones
 
 Se confunde con la memoria de acceso aleatorio (RAM) tradicional. Mientras que la RAM recupera la información mediante direcciones físicas numéricas, la memoria asociativa encuentra los datos directamente a través de la similitud en su contenido.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Funciona también cuando la entrada es incompleta o ruidosa?**
 

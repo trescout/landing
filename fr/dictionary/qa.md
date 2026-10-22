@@ -54,7 +54,7 @@ Avec la diffusion de systèmes probabilistes (non déterministes) tels que les g
 
 **Production de tests prise en charge par l’intelligence artificielle :** Détection automatique des scénarios de tests et des différences de régression de l'interface visuelle avec les modèles d'intelligence artificielle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie l’assurance qualité et que signifie-t-elle ?**
 

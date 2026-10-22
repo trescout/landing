@@ -24,7 +24,7 @@ Os sensores do veículo coletam dados constantemente, a inteligência artificial
 
 Pode ser confundido com veículos autónomos, mas estes sistemas centram-se no apoio ao controlo do condutor.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Esses sistemas podem levar o veículo sem que eu o dirija totalmente?**
 

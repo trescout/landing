@@ -22,7 +22,7 @@ Quando um sinal fica fraco ou precisa mudar para outra rede, o relé recebe esse
 
 Embora semelhante ao proxy, o relé geralmente representa a transmissão na camada física ou de rede.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que não nos conectamos diretamente?**
 

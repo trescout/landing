@@ -42,7 +42,7 @@ Acredita-se que seja um download. Pausa o download e inicia a transmissão. Um �
 **Novela:** Assista episódio por episódio.
 **Construção:** Entregue várias vezes.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Aumenta a velocidade?**
 

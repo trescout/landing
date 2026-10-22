@@ -24,7 +24,7 @@ Il est appliqué au stade final afin que les chatbots tels que ChatGPT puissent 
 
 Il ne s'agit pas seulement de formation, c'est le processus d'alignement du comportement du modèle.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce nécessaire ?**
 

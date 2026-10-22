@@ -24,7 +24,7 @@ It is used in marketing campaigns, e-commerce site homepages, and user experienc
 
 It is often confused with A/B testing, which compares two different versions of a single element, but MVT tests multiple elements simultaneously.
 
-## Frequently asked questions
+## Questions and answers
 
 **What is required to perform MVT?**
 

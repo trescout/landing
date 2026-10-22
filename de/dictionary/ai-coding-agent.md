@@ -22,7 +22,7 @@ Es wird in Code-Editoren, Terminalumgebungen und Softwareentwicklungsplattformen
 
 Es ist fast identisch mit dem Agentic Coding Tool; Dieser Begriff konzentriert sich mehr auf das Fahrzeug selbst.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird es Softwareentwickler ersetzen?**
 

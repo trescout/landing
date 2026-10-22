@@ -22,7 +22,7 @@ Sie finden Anwendung im Architekturdesign von Mikroprozessoren, in Hardwaresimul
 
 Sie können mit 'if-else'-Blöcken in Software-Algorithmen verwechselt werden: Während 'if-else' eine in höheren Programmiersprachen laufende Kontrollstruktur ist, handelt es sich bei einem Logikgatter um einen direkt auf Transistorebene arbeitenden Hardware-Mechanismus.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was sind die grundlegendsten Logikgatter?**
 

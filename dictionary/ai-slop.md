@@ -22,7 +22,7 @@ Sosyal medya platformlarında, düşük kaliteli haber sitelerinde ve arama moto
 
 Yapay zekâ tarafından üretilen her şey slop değildir; sadece özensiz ve değersiz olanlar bu şekilde adlandırılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bir içeriğin AI-slop olduğunu nasıl anlarım?**
 

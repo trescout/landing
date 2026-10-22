@@ -22,7 +22,7 @@ Ele converte diferentes tipos de dados em uma linguagem numérica comum. Desta f
 
 É confundido com modelos somente texto; A percepção dos modelos multimodais é muito mais ampla.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Os modelos multimodais são mais inteligentes?**
 

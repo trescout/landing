@@ -22,7 +22,7 @@ Participa dos processos de treinamento de modelos de aprendizado de máquina e d
 
 Não é diretamente o modelo em si, mas o conjunto de regras e métodos subjacentes que permitem o desenvolvimento desse modelo.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ele aprende constantemente?**
 

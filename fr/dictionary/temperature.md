@@ -22,7 +22,7 @@ Les développeurs de logiciels maintiennent une température basse lors de l'imp
 
 A ne pas confondre avec l'intelligence du modèle ; C'est juste un filtre qui change la façon dont vous réagissez.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il si j'augmente trop la température ?**
 

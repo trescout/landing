@@ -24,7 +24,7 @@ Endüstriyel robotlarda, otonom araçlarda ve araştırma laboratuvarlarındaki 
 
 Normal işletim sistemleri (Windows/macOS) ile karıştırılmamalıdır; bu sistemler sadece robotik donanımları yönetmek için optimize edilmiştir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sistemi kullanmak için mühendis olmak şart mı?**
 

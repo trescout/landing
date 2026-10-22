@@ -36,7 +36,7 @@ Cela peut être confondu avec le logging. Le log est une ligne d'événement uni
 **Aviation :** Le stockage des données de vol dans la boîte noire.
 **Énergie :** Les compteurs signalent la consommation au centre.
 
-## Foire aux questions
+## Questions et réponses
 
 **Cela affecte-t-il ma vie privée ?**
 

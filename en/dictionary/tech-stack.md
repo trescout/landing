@@ -47,7 +47,7 @@ Choosing the wrong technology stack can lead a startup into a months-long rewrit
 - Tech Stack vs. Just a Framework: The statement "Our stack is React" is incomplete; React is merely a front-end library. A technology stack covers the entire chain, from the server to the database, and from the operating system to the CDN.
 - Most Popular = Best: Every new tool trending on Hacker News or social media is not the right tool for your project. Unnecessary complex microservices or Kubernetes setups are an early-stage over-engineering trap.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does tech stack mean, what is its Turkish equivalent?**
 

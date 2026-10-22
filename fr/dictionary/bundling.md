@@ -22,7 +22,7 @@ Le frontend est utilisé dans les processus de développement Web, en particulie
 
 Il ne s'agit pas seulement de copier des fichiers, mais également du processus de compression et d'optimisation de ceux-ci.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi combinons-nous des fichiers ?**
 

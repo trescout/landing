@@ -22,7 +22,7 @@ Geralmente é acionado por uma tecla de atalho especial no seu teclado (por exem
 
 É frequentemente confundido com o menu de aplicativos do próprio sistema operacional, mas os launchers são muito mais rápidos e focados no teclado.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Usar um launcher torna o computador mais rápido?**
 

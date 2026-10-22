@@ -22,7 +22,7 @@ It is used when sharing evidence files in lawsuits, anonymizing health records, 
 
 It is often confused with simply drawing a black shape over the text; while the underlying text can be copied with superficial drawing, true redaction completely removes the data from the file.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is painting the text black on a PDF sufficient redaction?**
 

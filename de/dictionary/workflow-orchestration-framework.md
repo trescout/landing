@@ -43,7 +43,7 @@ Man hält es für eine To-Do-Liste. Eine Liste ist passiv, das Framework handhab
 **Flugverkehr:** Startreihenfolge.
 **Eisenbahn:** Zugfahrplan.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum wird es benötigt?**
 

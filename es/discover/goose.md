@@ -43,12 +43,12 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/es/dictionary/context/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
+- [Rust](https://trescout.com/es/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para desarrolladores que desean automatizar sus flujos de trabajo de desarrollo de software y trabajar de forma nativa con varios modelos de IA.
 - **Licencia:** Apache-2.0

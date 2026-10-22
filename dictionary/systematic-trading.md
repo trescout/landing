@@ -22,7 +22,7 @@ Finans piyasalarında ve algoritmik ticaret platformlarında kullanılır.
 
 Manuel ticaretle karıştırılabilir; manuel ticarette kararı anlık olarak siz verirken, burada sistem verir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden sistematik ticaret yapmalıyım?**
 

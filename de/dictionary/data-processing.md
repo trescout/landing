@@ -22,7 +22,7 @@ Es wird in allen Bereichen eingesetzt, in denen Daten vorhanden sind, wie z. B. 
 
 Es wird oft mit Datenanalyse verwechselt; Datenverarbeitung ist die Vorbereitungsphase, während die Analyse die Interpretation der Ergebnisse ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist Datenverarbeitung wichtig?**
 

@@ -22,7 +22,7 @@ Web sitelerindeki kullanıcı bilgilerinden, telefonunuzdaki rehbere kadar hemen
 
 Bazen sadece dosya saklama alanlarıyla karıştırılır ama veritabanı bilgiyi sadece saklamaz, aynı zamanda yönetir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Veritabanı neden önemlidir?**
 

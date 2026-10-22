@@ -22,7 +22,7 @@ Es nimmt an den Trainingsprozessen maschineller Lernmodelle und den Feedbackschl
 
 Es ist nicht direkt das Modell selbst, sondern die Reihe von Regeln und Methoden im Hintergrund, die die Entwicklung dieses Modells ermöglichen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Lernt es ständig?**
 

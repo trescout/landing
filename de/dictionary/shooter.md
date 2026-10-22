@@ -22,7 +22,7 @@ Sie begegnen ihm häufig in E-Sport-Organisationen, Online-Multiplayer-Plattform
 
 Es kann mit Action- und Abenteuerspielen verwechselt werden. Allgemeine Actionspiele können sich auf das Lösen von Rätseln oder Nahkampf konzentrieren, aber die Hauptmechanik des Shooter-Genres ist das Zielen und Schießen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist der Hauptunterschied zwischen FPS- und TPS-Shootern?**
 

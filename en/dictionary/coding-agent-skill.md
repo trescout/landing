@@ -22,7 +22,7 @@ It is used in software development platforms, automated code review tools, error
 
 It is directly confused with the concept of a coding agent. While the coding agent is the holistic system that performs the work itself, the Coding Agent Skill refers to the specialized capability tools that this system carries in its toolkit to solve specific tasks.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can an agent have multiple coding skills?**
 

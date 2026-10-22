@@ -22,7 +22,7 @@ Se utiliza en plataformas SaaS (software como servicio), aplicaciones basadas en
 
 Puede confundirse con un servidor compartido; Sin embargo, lo que se comparte aquí no es sólo el hardware, sino también la estructura lógica del software.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué utilizar un solo programa?**
 

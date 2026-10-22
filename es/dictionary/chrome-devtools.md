@@ -39,7 +39,7 @@ Regla: El cambio es local, desaparece al renovarlo. El trabajo permanente se rea
 **Radiografía:** Vista de la estructura interna.
 **Capó:** Compartimento del motor.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Solo Chrome?**
 

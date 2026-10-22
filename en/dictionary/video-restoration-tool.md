@@ -22,7 +22,7 @@ It is used in archival work, digital transfers of old cinema films, and personal
 
 It can be confused with video editor tools, but video editors perform cutting and merging, whereas these tools directly repair pixels using artificial intelligence.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can these tools make black and white videos color?**
 

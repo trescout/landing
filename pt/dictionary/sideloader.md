@@ -22,7 +22,7 @@ Você precisa ativar a opção 'permitir a instalação de fontes desconhecidas'
 
 Pode ser confundido com sideloading (a ação de carregar).
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Usar o Sideloader é seguro?**
 

@@ -18,7 +18,7 @@ O sistema analisa as respostas do aluno e o tempo gasto. Se for cometido um erro
 
 É usado em aplicativos de aprendizagem de idiomas, plataformas de educação on-line e software de suporte escolar.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Substitui completamente o professor?**
 

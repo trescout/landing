@@ -24,7 +24,7 @@ Il est utilisé comme couche de sécurité dans les réseaux d'entreprises, sur 
 
 Il peut être confondu avec les logiciels antivirus traditionnels ; l'EDR possède une capacité de surveillance et d'intervention beaucoup plus approfondie.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'EDR bloque-t-il toutes les attaques ?**
 

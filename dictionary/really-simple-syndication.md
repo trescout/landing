@@ -24,7 +24,7 @@ Blog takibi, haber siteleri ve içerik kürasyonu yapan platformlarda kullanıl�
 
 Newsletter (bülten) ile karıştırılabilir, ancak RSS tamamen sizin kontrolünüzdedir ve e-posta gerektirmez.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **RSS öldü mü?**
 

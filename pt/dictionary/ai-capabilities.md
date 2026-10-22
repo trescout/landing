@@ -22,7 +22,7 @@ Consulte a documentação do modelo que você está usando e examine com que tip
 
 Pode ser confundido com habilidades de IA; Capacidade é o potencial inato do modelo, e habilidade é o treinamento desse potencial para uma tarefa específica.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **As capacidades da inteligência artificial aumentam com o tempo?**
 

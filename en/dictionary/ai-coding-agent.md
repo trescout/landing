@@ -22,7 +22,7 @@ It is used in code editors, terminal environments, and software development plat
 
 It is almost identical to Agentic Coding Tool; This term focuses more on the vehicle itself.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will it replace software developers?**
 

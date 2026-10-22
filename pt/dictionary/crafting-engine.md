@@ -18,7 +18,7 @@ O sistema verifica receitas predeterminadas e dados de inventário. Quando o usu
 
 Geralmente usado em jogos de sobrevivência, jogos de RPG e algumas simulações de produção.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O Motor de Criação existe apenas em jogos?**
 

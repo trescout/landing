@@ -81,7 +81,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [API](https://trescout.com/fr/dictionary/api/)
 
 - **Pour qui:** Chercheurs en robotique, ingénieurs en mécatronique, experts en apprentissage par renforcement et amateurs.
-- **Licence:** Apache-2.0 (Açık kaynak lisansı)
+- **Licence:** Apache-2.0 (licence Open Source)
 - **Toit:** Framework robotique Python, MuJoCo et mjlab
 - **Plateformes:** Linux, macOS, Windows
 

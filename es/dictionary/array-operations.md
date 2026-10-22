@@ -22,7 +22,7 @@ Se utiliza frecuentemente en análisis de datos, procesamiento de imágenes y pr
 
 Puede confundirse con bucles; Sin embargo, mientras que los bucles procesan elementos uno por uno, las operaciones de matriz los procesan en lotes para acelerar el proceso.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué usamos esto en lugar de realizar transacciones una por una?**
 

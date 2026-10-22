@@ -22,7 +22,7 @@ Büyük yazılım projelerinde kod analizi yaparken, otomatik kod inceleme araç
 
 Klasik metin tabanlı arama sistemlerinden farklıdır; metin eşleşmesi yerine kodun anlamsal ve mimari bağlarını ortaya koyar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden düz metin araması yerine Code Knowledge Graph kullanılır?**
 

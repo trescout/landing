@@ -22,7 +22,7 @@ It is frequently used, especially in early-stage startups, to attract talented s
 
 It can be confused with direct stock sharing. While direct stock sharing grants shares to the employee immediately, the stock options mechanism only grants the right to purchase them in the future.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do options always make a profit?**
 

@@ -22,7 +22,7 @@ It is used in automation systems, data analysis processes and complex workflows.
 
 It can be confused with ordinary chatbots; bots just respond, while autonomous agents do the work.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can autonomous agents make mistakes?**
 

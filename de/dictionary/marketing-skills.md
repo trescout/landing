@@ -42,7 +42,7 @@ Es gilt als Verkauf. Er bereitet das Marketingumfeld vor und schließt den Verka
 **Banner:** Theaterankündigung.
 **Probe:** Verschenken Sie keinen Geschmack.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Wie verändert KI das Marketing?**
 

@@ -47,7 +47,7 @@ Es wird für ein Feature oder eine Fehlerbehebung gehalten. Dabei ändert sich d
 **Redaktion:** Das Thema bleibt gleich, der Satz ist flüssiger.
 **Beschneidung:** Der Baum ist derselbe, der Ast ist geordnet.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum machen wir das?**
 

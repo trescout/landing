@@ -22,7 +22,7 @@ Akıllı ev cihazlarında, otonom araçlarda ve anlık tepki gerektiren endüstr
 
 Bulut bilişim (cloud computing) ile karıştırılır; bulut merkezidir, edge ise yereldir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her şeyi buluta göndermiyoruz?**
 

@@ -18,7 +18,7 @@ Começa com todos nos grupos classificando os candidatos do outro grupo de acord
 
 É utilizado para juntar da melhor forma o candidato e a posição em correspondências de doação de órgãos, alocações de vagas universitárias e processos de recrutamento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Produz um resultado perfeito para todos?**
 

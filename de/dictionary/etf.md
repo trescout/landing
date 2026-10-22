@@ -24,7 +24,7 @@ Es wird auf Aktienmärkten und Investmentplattformen eingesetzt.
 
 Sie können mit Investmentfonds verwechselt werden, aber ETFs können tagsüber zu Spotpreisen an der Börse gekauft und verkauft werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich einen ETF statt einer einzelnen Aktie kaufen?**
 

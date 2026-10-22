@@ -22,7 +22,7 @@ It is frequently seen on Android phones, in applications being tested by custom 
 
 It can be confused with sideloading (the act of installing).
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it safe to use a sideloader?**
 

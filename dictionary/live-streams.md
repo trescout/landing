@@ -22,7 +22,7 @@ Sosyal medya canlı yayınlarında, çevrimiçi eğitim platformlarında ve oyun
 
 Video kaydından farkı, içeriğin önceden hazırlanmış bir dosya değil, o an gerçekleşen bir akış olmasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Canlı yayın neden gecikmeli olur?**
 

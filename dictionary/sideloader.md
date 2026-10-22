@@ -22,7 +22,7 @@ Android telefonlarda, özel yazılım geliştirenlerin test aşamasındaki uygul
 
 Sideloading (yükleme eylemi) ile karıştırılabilir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sideloader kullanmak güvenli mi?**
 

@@ -22,7 +22,7 @@ It is used to debug complex software errors, solve advanced mathematical problem
 
 It is often confused with simple pattern matching or retrieving information by rote. While pattern matching only finds similarities in historical data, reasoning produces new solutions within the framework of logic rules in new and complex situations that have never been encountered before.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does artificial intelligence really think like humans?**
 

@@ -22,7 +22,7 @@ Es wird in Betriebssystemen, Browsern und Infrastrukturen für künstliche Intel
 
 Es wird mit C oder C++ verwechselt; Rust zielt darauf ab, die gleiche Leistung auf sicherere Weise bereitzustellen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist es so beliebt?**
 

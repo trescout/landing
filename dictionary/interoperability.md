@@ -35,7 +35,7 @@ Kural basittir: Ne kadar çok özel (proprietary) format, o kadar az birlikte ç
 
 *Farklı ülkelerden gelen insanların ortak bir dil kullanarak birbirini anlaması gibidir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her sistemde bu özellik yok?**
 

@@ -35,7 +35,7 @@ The rule is simple: the more proprietary formats, the less interoperability.
 **Railway:** Thanks to the track width standard, trains can change countries.
 **Electric:** Socket and voltage standards make devices compatible.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Why doesn't every system have this feature?**
 

@@ -22,7 +22,7 @@ Se utiliza en todos los campos, desde la edición de películas profesionales ha
 
 El software de edición de vídeo a menudo se confunde con reproductores que sólo ven vídeos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Es necesario ser un profesional para utilizar un editor de vídeo?**
 

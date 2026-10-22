@@ -46,7 +46,7 @@ The legality of emulator development has been confirmed by precedent cases aroun
 - Sony v. Connectix (2000) and Sony v. Bleem! Cases: The courts ruled that converting the operating principles of a hardware into software by reverse engineering with the clean-room reverse engineering method is legal and falls within the scope of fair use.
 - Copyright Limit: The emulator software itself is legal. However, copying copyrighted proprietary BIOS software or copyrighted game/software ROM files of the target device and downloading them from the internet without permission constitutes copyright infringement.
 
-## Frequently asked questions
+## Questions and answers
 
 **What does emulator mean and what is its Turkish equivalent?**
 

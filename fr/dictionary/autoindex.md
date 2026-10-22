@@ -24,7 +24,7 @@ Il est utilisé dans les bases de données relationnelles et NoSQL modernes bas�
 
 Alors que l'indexation manuelle est une approche où le développeur détermine manuellement les champs à indexer via des commandes SQL, l'autoindex laisse cette décision au système lui-même en fonction des modèles d'utilisation.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'autoindex améliore-t-il toujours les performances des requêtes ?**
 

@@ -37,7 +37,7 @@ It is thought to be a programmed robot. The former repeats a fixed path, while t
 **Autopilot:** Route maintenance.
 **Carrier pigeon:** Return to target.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Doesn't it make mistakes?**
 

@@ -22,7 +22,7 @@ It is used by software developers who develop artificial intelligence applicatio
 
 It is confused with database operations, but this is memory management specifically in a format that artificial intelligence models understand.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can anyone use Memory API?**
 

@@ -22,7 +22,7 @@ Era usado para compartilhamento de informações e suporte técnico nos primórd
 
 Não deve ser confundido com os aplicativos de mensagens instantâneas atuais; é muito mais lento e focado em texto.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Ainda é usado?**
 

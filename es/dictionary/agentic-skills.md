@@ -22,7 +22,7 @@ Se utiliza en procesos complejos de desarrollo de software, proyectos de anális
 
 Puede confundirse con el concepto general de "habilidad de IA"; Sin embargo, las habilidades de agencia se refieren a la capacidad de gestionar un proceso autónomo en lugar de un proceso único.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Todas las inteligencias artificiales tienen estas habilidades?**
 

@@ -22,7 +22,7 @@ Es obligatorio en industrias que procesan datos confidenciales, como la banca, l
 
 Puede confundirse con la seguridad de los datos, pero esta situación va más allá de la seguridad y está directamente relacionada con la ubicación física de los datos.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante?**
 

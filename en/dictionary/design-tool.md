@@ -22,7 +22,7 @@ It is used when designing website interfaces, preparing social media content or 
 
 It's often confused with just 'code editor', but design tools are visually oriented.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do I need to be a graphic designer to use a design tool?**
 

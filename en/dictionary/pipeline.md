@@ -22,7 +22,7 @@ It is used in data processing processes, software distribution and artificial in
 
 It should not be confused with just a database; A pipeline is a process that processes data, not a place to store it.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if the pipeline breaks?**
 

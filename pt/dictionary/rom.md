@@ -24,7 +24,7 @@ Quando você pressiona o botão liga/desliga do dispositivo, o processador prime
 
 Está misturado com RAM; A RAM é temporária e é excluída quando o computador é desligado, enquanto a ROM é permanente.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que as informações na ROM não podem ser alteradas?**
 

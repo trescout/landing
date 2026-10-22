@@ -24,7 +24,7 @@ Il est utilisé dans les chatbots, les générateurs de contenu automatisés et 
 
 Ce n'est pas le LLM lui-même, mais la porte qui permet d'y accéder.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Tout le monde peut-il utiliser une API LLM ?**
 

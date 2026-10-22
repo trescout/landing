@@ -22,7 +22,7 @@ They are widely used in customer service chatbots, regulated sectors such as fin
 
 It can be confused with Reinforcement Learning from Human Feedback (RLHF) performed during the core training of the model. While core training determines the internal character of the model, guardrails are an independent safety shell attached to the model from the outside.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do guardrails systems significantly slow down response times?**
 

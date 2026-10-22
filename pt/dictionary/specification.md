@@ -46,7 +46,7 @@ Regra: O que não pode ser medido não é uma especificação, é um desejo. Cad
 **Manual de montagem:** Esquema de peças e sequência.
 **Licitação:** Especificação administrativa e técnica.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **As especificações podem mudar?**
 

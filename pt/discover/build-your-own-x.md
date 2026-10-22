@@ -45,7 +45,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Varia · dependendo do projeto que você escolher
 - **Formatar:** Coleção de guia passo a passo
 - **Taxa:** Livre
-- **Licença:** Belirtilmemiş · ayrıntı aşağıda
+- **Licença:** Não especificado · detalhe abaixo
 
 **Licença:** ⚠️ Nenhuma licença especificada. Direitos autorais 'todos os direitos reservados': livre para ler e seguir, mas copiar e republicar conteúdo requer permissão.
 

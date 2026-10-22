@@ -37,7 +37,7 @@ On le croit être un robot programmé. L'un répète un chemin fixe, l'autre gé
 **Pilote automatique :** Maintien de trajectoire.
 **Pigeon voyageur :** Retour à la cible.
 
-## Foire aux questions
+## Questions et réponses
 
 **Ne fait-il pas d'erreurs ?**
 

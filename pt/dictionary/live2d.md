@@ -22,7 +22,7 @@ Os desenhos são divididos em partes, cada parte recebe um ponto de ação e a a
 
 Pode ser misturado com modelagem 3D completa; Live2D é essencialmente uma manipulação inteligente de desenhos 2D.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preciso de conhecimento 3D para fazer Live2D?**
 

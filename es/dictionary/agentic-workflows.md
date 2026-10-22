@@ -22,7 +22,7 @@ Se utiliza en el desarrollo autónomo de software, análisis de datos y procesos
 
 Puede confundirse con el uso estándar de IA; Aquí la inteligencia artificial no sólo responde, sino que actúa.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿No es necesaria la intervención humana?**
 

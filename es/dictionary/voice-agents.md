@@ -22,7 +22,7 @@ Se utiliza en teléfonos inteligentes, sistemas de atención al cliente y asiste
 
 Puede confundirse con sistemas simples de comando de voz; Los agentes pueden tener conversaciones mucho más complejas y contextuales.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Pueden hablar cualquier idioma?**
 

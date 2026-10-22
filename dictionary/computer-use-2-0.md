@@ -22,7 +22,7 @@ Yazılım testlerinin otomatikleştirilmesinde, veri giriş işlemlerinde, birde
 
 Klasik web scraping veya API entegrasyonları ile karıştırılır. Klasik yöntemler arka plandaki kodlarla konuşurken, Computer Use 2.0 doğrudan görsel arayüzü hedef alır ve insan gibi davranır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Computer Use 2.0 güvenli midir?**
 

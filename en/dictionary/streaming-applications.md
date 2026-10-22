@@ -22,7 +22,7 @@ It is used on Netflix, Spotify or live broadcast platforms.
 
 It is confused with download; In downloading, you cannot watch without buying the entire file, while in streaming, you start immediately.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if my internet speed is slow?**
 

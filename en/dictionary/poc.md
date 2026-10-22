@@ -48,7 +48,7 @@ Often mistaken for a prototype. A prototype is a product sample, a PoC is a feas
 **Home trial:** Kitchen test before entering the menu.
 **Trailer:** Reaction testing before the movie.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **What happens if it succeeds?**
 

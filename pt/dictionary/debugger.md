@@ -22,7 +22,7 @@ Você coloca um ponto de interrupção em uma linha específica do seu código. 
 
 Pode ser confundido com um compilador. Enquanto o compilador traduz todo o código para linguagem de máquina, o depurador foca em encontrar erros lógicos dentro do código em execução.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Não consigo depurar sem usar um depurador?**
 

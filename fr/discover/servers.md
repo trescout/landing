@@ -55,12 +55,11 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol-mcp/)
 - [SDK](https://trescout.com/fr/dictionary/sdk/)
 - [Context](https://trescout.com/fr/dictionary/context/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Destiné aux développeurs qui souhaitent intégrer de manière sécurisée des modèles d'intelligence artificielle avec des outils externes tels que des fichiers locaux, la mémoire et des dépôts de code.
 

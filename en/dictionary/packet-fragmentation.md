@@ -22,7 +22,7 @@ It happens constantly in the background during internet protocols and networking
 
 It may be confused with data loss, but this is a controlled partitioning process.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if parts are lost?**
 

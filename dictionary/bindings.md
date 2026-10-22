@@ -22,7 +22,7 @@ Yapay zekâ modellerinin çoğu C++ ile yazılır, ancak Python bindings sayesin
 
 API ile karıştırılabilir, ancak API ağ üzerinden haberleşirken, binding aynı bilgisayar içindeki bellek seviyesinde bir bağlantıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her kütüphane her dilde yazılmıyor?**
 

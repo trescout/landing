@@ -80,7 +80,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
 
 - **Para quem é:** Desenvolvedores Java, arquitetos de software, equipes de garantia de qualidade e líderes técnicos.
-- **Licença:** LGPL-2.1 (Açık kaynak kütüphane lisansı)
+- **Licença:** LGPL-2.1 (Licença de biblioteca de código aberto)
 - **Framework:** Ferramenta de Análise de Código Estático Java
 - **Plataformas:** JVM (Java Virtual Machine), Linux, macOS, Windows
 

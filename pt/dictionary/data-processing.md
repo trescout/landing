@@ -22,7 +22,7 @@ Os dados são primeiro coletados, as partes incorretas são limpas, classificado
 
 É confundido com a análise de dados; o processamento de dados é a fase de preparação, enquanto a análise é a interpretação dos resultados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o processamento de dados é importante?**
 

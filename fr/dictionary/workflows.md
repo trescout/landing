@@ -43,7 +43,7 @@ C'est considéré comme un pipeline. Le pipeline est un flux de données techniq
 **Assemblage :** Séquence des pièces.
 **Comptoir :** Enregistrement et routage.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi automatiser ?**
 

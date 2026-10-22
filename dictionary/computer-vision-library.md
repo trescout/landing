@@ -22,7 +22,7 @@ Güvenlik kameralarında, otonom araçlarda ve telefonlardaki yüz tanıma siste
 
 Görüntü işleme yazılımlarıyla karıştırılabilir ancak bu bir kütüphanedir, yani son kullanıcı arayüzü değil, geliştirici aracıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu kütüphaneler her şeyi görebilir mi?**
 

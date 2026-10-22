@@ -42,7 +42,7 @@ Se cree que es Stealth. Stealth es el modo headless que elude la protección con
 **Vuelo a ciegas:** Navegación por instrumentos.
 **Cocina trasera:** Producción sin clientes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no hay interfaz?**
 

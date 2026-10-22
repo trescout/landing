@@ -24,7 +24,7 @@ Aparece con frecuencia en procesadores gráficos de alta gama utilizados en serv
 
 Se confunde con las memorias de computadora estándar que usamos en nuestros hogares, es decir, la RAM. Las memorias estándar tienen una disposición horizontal y sus velocidades de transferencia de datos son mucho más bajas en comparación con esta tecnología vertical especial.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué esta tecnología de memoria no es común en las computadoras normales?**
 

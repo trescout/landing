@@ -22,7 +22,7 @@ Web siteleri, mobil uygulama arka uçları ve yapay zekâ projelerinin internete
 
 Sadece kod yazdığınız geliştirme ortamından farklıdır; kodun son kullanıcıya sunulduğu yerdir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hangi popüler servisler bu gruba girer?**
 

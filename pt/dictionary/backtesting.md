@@ -22,7 +22,7 @@ Você define suas regras de negociação e depois carrega essas regras no softwa
 
 Não deve ser confundido com previsão do futuro; Trabalhar bem no passado não significa que terá o mesmo desempenho no futuro.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O backtesting fornece resultados precisos?**
 

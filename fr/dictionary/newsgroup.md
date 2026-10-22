@@ -22,7 +22,7 @@ Il était utilisé pour le partage d'informations et le support technique aux d�
 
 Il ne doit pas être confondu avec les applications de messagerie instantanée actuelles ; il est beaucoup plus lent et axé sur le texte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-il toujours utilisé ?**
 

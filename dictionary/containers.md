@@ -22,7 +22,7 @@ Bulut bilişimde, web uygulamalarının yayına alınmasında ve mikro hizmet mi
 
 Sanal makinelerden çok daha hafiftir ve daha hızlı başlar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Konteynerler neden bu kadar popüler?**
 

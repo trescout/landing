@@ -42,7 +42,7 @@ Considéré comme une valeur fixe. Il reste dans le code fixe, la variable est �
 **Pile de télécommande :** Alimentation amovible.
 **Porte-clés :** Accès transportable.
 
-## Foire aux questions
+## Questions et réponses
 
 **Pourquoi est-ce gardé secret ?**
 

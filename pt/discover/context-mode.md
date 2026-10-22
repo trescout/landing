@@ -59,10 +59,9 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [Context Window Optimization](https://trescout.com/pt/dictionary/context-window-optimization/)
 - [Context Window](https://trescout.com/pt/dictionary/context-window/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol/)
-- [Model Context Protocol](https://trescout.com/pt/dictionary/model-context-protocol-mcp/)
 - [Context](https://trescout.com/pt/dictionary/context/)
 - [MCP](https://trescout.com/pt/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destinado a desenvolvedores que utilizam intensamente agentes de codificação de IA e enfrentam problemas de esgotamento da janela de contexto em projetos de longa duração.
 

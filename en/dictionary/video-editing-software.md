@@ -22,7 +22,7 @@ They are frequently used in filmmaking, social media content creation, and adver
 
 They are different from media players that merely play videos; they are used to modify and create content.
 
-## Frequently asked questions
+## Questions and answers
 
 **How has artificial intelligence impacted this software?**
 

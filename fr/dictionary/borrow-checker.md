@@ -22,7 +22,7 @@ En programmation système, il fonctionne activement lors de la phase de compilat
 
 Il est différent des débogueurs normaux ; il fonctionne pendant que le code est écrit et compilé, et non pendant que le programme s'exécute.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-il si strict ?**
 

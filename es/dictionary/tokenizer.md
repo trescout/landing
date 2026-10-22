@@ -41,7 +41,7 @@ Se denominan Glitch Tokens a los tokens especiales que se encuentran en el vocab
 
 Por ejemplo, cuando se le preguntan al modelo tokens como SolidGoldMagikarp, derivados de nombres de usuario en foros de Reddit o códigos de sitios de comercio electrónico; dado que la inteligencia artificial no puede posicionar correctamente el vector de este token en el espacio de embedding, comienza a alucinar, puede proferir insultos sin sentido o bloquearse.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué significa tokenizer y cuál es su equivalente en turco?**
 

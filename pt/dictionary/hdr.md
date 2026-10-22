@@ -24,7 +24,7 @@ A câmera ou a tela processa diferentes níveis de luz na imagem para fornecer o
 
 É confundido apenas com o aumento do brilho; o HDR é mais sobre a qualidade dos detalhes e do contraste do que sobre o brilho.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Toda tela suporta HDR?**
 

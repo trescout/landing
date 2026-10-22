@@ -58,7 +58,7 @@ Büyük ölçekli medya kuruluşları, e-ticaret devleri ve küresel markalar i�
 
 - **Data (Veri):** Kullanıcıların sisteme girdiği veya dinamik olarak veritabanında üretilen değişken bilgilerdir (dinamik durum).
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Asset nedir ve yazılımda ne anlama gelir?**
 

@@ -22,7 +22,7 @@ Instale um software balanceador de carga e distribua as consultas DNS recebidas 
 
 Pode ser confundido apenas com clustering de servidores, mas esse método se concentra especificamente no gerenciamento do tráfego de consultas.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O site ficará mais rápido graças a este sistema?**
 

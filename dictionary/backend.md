@@ -22,7 +22,7 @@ Tüm modern web uygulamalarında, mobil uygulamaların arka planında ve API sis
 
 Ön yüz (frontend) ile karıştırılabilir; ön yüz sizinle etkileşime girer, arka uç ise işi yapar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden arka uçta kod çalıştırıyoruz?**
 

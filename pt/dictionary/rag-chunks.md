@@ -22,7 +22,7 @@ Quando os documentos são carregados no sistema, eles são automaticamente divid
 
 É importante não apenas dividir os dados, mas dividi-los preservando ao mesmo tempo uma integridade significativa.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **O que acontece se as peças forem muito pequenas?**
 

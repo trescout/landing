@@ -22,7 +22,7 @@ Kişisel asistanlarda, uzun süreli projeler üzerinde çalışan yapay zekâlar
 
 Context window ile karıştırılabilir, ancak context window sadece o anki görüşmeyi kapsar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu hafıza sonsuza kadar kalır mı?**
 

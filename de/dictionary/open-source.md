@@ -32,7 +32,7 @@ Darüber hinaus demokratisiert Open Source das Softwarewissen. Ein junger Ingeni
 - Denken, es sei unsicher: Der Fehler, Sicherheit durch Verstecken des Codes zu bieten (Sicherheit durch Unklarheit), ist in der Cybersicherheit ungültig; Software, deren Code offen ist, ist wesentlich robuster, da sie unabhängigen Prüfungen unterliegt.
 - Mischen mit offenen Gewichten: Das Teilen nur von Modellgewichten in der künstlichen Intelligenz ist nicht vollständig Open Source; Systeme, deren Trainingsdaten, Codes und Architektur nicht geteilt werden, erfüllen nicht vollständig die Definition von Open Source.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist der Hauptunterschied zwischen Open Source und freier Software?**
 

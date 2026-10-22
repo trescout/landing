@@ -22,7 +22,7 @@ Il est utilisé dans des applications Web à grande échelle et des sites soucie
 
 Peut être confondu avec le regroupement ; Alors que le regroupement combine les fichiers, le fractionnement du code les sépare intelligemment en morceaux.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Y aura-t-il un délai lorsque l’utilisateur clique sur la page ?**
 

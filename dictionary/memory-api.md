@@ -22,7 +22,7 @@ Yapay zekâ uygulamaları geliştiren yazılımcılar tarafından, uygulamayı d
 
 Veritabanı işlemleriyle karıştırılır, ancak bu özellikle yapay zekâ modellerinin anlayacağı formatta bir hafıza yönetimidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes Memory API kullanabilir mi?**
 

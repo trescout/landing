@@ -24,7 +24,7 @@ Se aplica en la etapa final para que los chatbots como ChatGPT puedan hablar de 
 
 No es sólo entrenamiento, es el proceso de alinear el comportamiento del modelo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario?**
 

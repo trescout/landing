@@ -22,7 +22,7 @@ Es wird in komplexen Softwareentwicklungsprojekten, Marktforschungsprozessen und
 
 Es kann mit einem gewöhnlichen KI-Agenten verwechselt werden; Allerdings haben autonome Agenten die Fähigkeit, selbstständig Entscheidungen zu treffen, ohne auf die Zustimmung des Menschen warten zu müssen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn autonome Agenten Fehler machen?**
 

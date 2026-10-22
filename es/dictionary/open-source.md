@@ -32,7 +32,7 @@ Confundirlo con software gratuito (Freeware): El código abierto se refiere a la
 Pensar que no es seguro: La falacia de la seguridad mediante la oscuridad no es válida en ciberseguridad; el software con código abierto es mucho más sólido porque se somete a auditorías independientes.
 - Confundirlo con Open Weights: En la inteligencia artificial, compartir únicamente los pesos del modelo no es código abierto real; los sistemas cuyos datos de entrenamiento, código y arquitectura no se comparten no cumplen por completo con la definición de código abierto.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuál es la principal diferencia entre software libre y de código abierto?**
 

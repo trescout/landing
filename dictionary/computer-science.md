@@ -22,7 +22,7 @@ Yazılım geliştirme, veri analizi, siber güvenlik ve yapay zekâ araştırmal
 
 Sadece bilgisayar kullanmayı öğrenmekten farklı olarak, bilgisayarın neden ve nasıl çalıştığını derinlemesine anlamayı hedefler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kod yazmayı bilmek yeterli mi?**
 

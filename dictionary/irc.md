@@ -24,7 +24,7 @@ Açık kaynak yazılım projelerinde, teknik destek gruplarında ve nostaljik to
 
 Discord veya Slack gibi modern araçlardan farkı, görsel veya dosya paylaşım özelliklerinin olmamasıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **IRC güvenli mi?**
 

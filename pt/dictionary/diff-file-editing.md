@@ -22,7 +22,7 @@ Duas versões de arquivo são comparadas. As linhas alteradas são detectadas e 
 
 Não deve ser confundido com a substituição de todo o arquivo; este método apenas aplica a diferença.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usamos diff em vez de enviar o arquivo inteiro?**
 

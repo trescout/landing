@@ -42,7 +42,7 @@ ORM (Object-Relational Mapping) is the layer that allows you to talk to the data
 **Accounting:** An auditor who examines the items in the ledger one by one.
 **Logistics:** Handheld terminal listing the products in the warehouse.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it necessary to know SQL?**
 

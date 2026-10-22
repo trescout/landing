@@ -22,7 +22,7 @@ Il est utilisé dans les chatbots, les outils de production de contenu et les sy
 
 Cela peut être confondu avec la saisie semi-automatique, mais la génération de texte est beaucoup plus complète et créative.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L’intelligence artificielle fait-elle des erreurs lors de la production de texte ?**
 

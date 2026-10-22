@@ -38,7 +38,7 @@ Wird oft für ein klassisches Radar mit rotierender Antenne gehalten. Beim klass
 **Lautsprecher:** Ein Array, das den Schall in eine Richtung lenkt.
 **Taschenlampe:** Steuerung des Strahls ohne mechanische Drehung.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Warum ist es vorteilhafter?**
 

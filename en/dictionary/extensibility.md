@@ -44,7 +44,7 @@ Here's a small example, a typical plugin declaration:
 **Production:** Food processors that can have different attachments attached to the same body.
 **Game:** Mod communities that add new maps and missions without changing the main game.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is every software extensible?**
 

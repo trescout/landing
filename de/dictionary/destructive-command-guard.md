@@ -22,7 +22,7 @@ Es ist häufig in Terminalanwendungen, fortschrittlichen Softwareentwicklungstoo
 
 Es kann mit einer Firewall verwechselt werden; Es blockiert Angriffe von außen und verhindert so Fehler von innen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sollte dieser Schutz immer aktiviert sein?**
 

@@ -24,7 +24,7 @@ Il est utilisé pour accéder à Internet à la maison, sur les lieux de travail
 
 Il peut être confondu avec Internet lui-même, mais le WiFi n'est qu'un moyen de transport qui vous permet d'accéder à Internet.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi le WiFi ralentit-il ?**
 

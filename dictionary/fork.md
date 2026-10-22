@@ -22,7 +22,7 @@ Açık kaynak projelerine katkı sunarken ya da mevcut bir yazılımı farklı b
 
 Sadece projeyi bilgisayara indirip incelemek olan clone işlemiyle karıştırılmamalıdır; fork işlemi sunucu tarafında yeni ve bağımsız bir sahiplik üretir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Fork yaptıktan sonra orijinal projede yapılan güncellemeler bana gelir mi?**
 

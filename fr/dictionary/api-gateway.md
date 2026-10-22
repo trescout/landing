@@ -22,7 +22,7 @@ Il est utilisé dans les grands systèmes logiciels dotés d’une architecture 
 
 Ce n'est pas seulement un routeur ; Il assure également des tâches de sécurité et de gestion.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi est-ce nécessaire ?**
 

@@ -22,7 +22,7 @@ Il est utilisé comme module complémentaire dans les navigateurs Internet tels 
 
 Il peut être confondu avec un pare-feu, mais même s’il contrôle tout le trafic Internet, le bloqueur de publicités ne cible que le contenu publicitaire.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'utilisation d'un bloqueur de publicités nuit-elle aux sites Web ?**
 

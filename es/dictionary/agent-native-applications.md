@@ -22,7 +22,7 @@ Se utiliza en plataformas de automatización, flujos de trabajo inteligentes y e
 
 No debe confundirse con funciones de inteligencia artificial agregadas posteriormente a una aplicación ordinaria; Estos están construidos desde cero para los agentes.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es necesario diseñarlos especialmente?**
 

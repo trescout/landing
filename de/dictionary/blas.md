@@ -24,7 +24,7 @@ Sie arbeitet unauffällig im Hintergrund von KI-Bibliotheken, wissenschaftlichen
 
 Sie wird häufig mit einer gewöhnlichen mathematischen Bibliothek verwechselt. BLAS enthält nicht nur mathematische Formeln; sie steuert direkt, wie diese Formeln mit höchster Leistung auf der Computerhardware ausgeführt werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist BLAS so wichtig für künstliche Intelligenz?**
 

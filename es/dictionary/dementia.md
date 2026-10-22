@@ -22,7 +22,7 @@ Se utiliza en el mundo médico y en clínicas de neurología. También se estudi
 
 No debe confundirse con el mero olvido; Si bien el olvido puede ser temporal, la demencia es un proceso permanente y progresivo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son la demencia y el Alzheimer lo mismo?**
 

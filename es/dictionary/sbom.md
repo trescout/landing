@@ -24,7 +24,7 @@ Se utiliza en auditorías de seguridad de software, gestión de la cadena de sum
 
 No confundir con el código fuente del software; Esta es sólo una lista de inventario.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué es importante la SBOM?**
 

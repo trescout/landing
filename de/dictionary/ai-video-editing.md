@@ -22,7 +22,7 @@ Wird bei der Produktion von Social-Media-Inhalten, professionellen Bearbeitungsw
 
 Es kann mit Video-Editor-Software verwechselt werden, aber „Automatisierung“ steht hier im Vordergrund.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wird es professionelle Redakteure ersetzen?**
 

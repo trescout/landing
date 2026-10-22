@@ -22,7 +22,7 @@ Il est utilisé dans les outils de développement de logiciels autonomes, les as
 
 Il peut être confondu avec les modèles d’IA ordinaires ; Les modèles occasionnels répondent simplement à la question, les modèles agents font le travail.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Cela pourrait-il être dangereux ?**
 

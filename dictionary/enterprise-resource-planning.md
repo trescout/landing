@@ -24,7 +24,7 @@ Kurumsal şirketlerde, üretim tesislerinde ve büyük ölçekli işletmelerde k
 
 Sadece muhasebe yazılımları ile karıştırılabilir; ancak ERP tüm şirketi kapsar.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **ERP sistemine geçmek zor mu?**
 

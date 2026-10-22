@@ -24,7 +24,7 @@ Es ist von grundlegender Bedeutung für die Designprozesse von Websites, mobilen
 
 Es wird mit der Benutzeroberfläche (UI) verwechselt; Die Benutzeroberfläche ist visuell, UX ist die Art und Weise, wie diese visuelle Interaktion erfolgt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist UX wichtig?**
 

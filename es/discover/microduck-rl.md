@@ -81,7 +81,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [API](https://trescout.com/es/dictionary/api/)
 
 - **Para quién es:** Investigadores de robótica, ingenieros de mecatrónica, expertos en aprendizaje por refuerzo y aficionados.
-- **Licencia:** Apache-2.0 (Açık kaynak lisansı)
+- **Licencia:** Apache-2.0 (licencia de código abierto)
 - **Marco:** Marco de robótica Python, MuJoCo y mjlab
 - **Plataformas:** Linux, Mac OS, Windows
 

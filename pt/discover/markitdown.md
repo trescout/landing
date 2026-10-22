@@ -2,7 +2,7 @@
 
 MarkItDown (Microsoft); É uma ferramenta Python leve que converte Word, PDF, PowerPoint, Excel e muito mais em texto Markdown limpo que grandes modelos de linguagem podem ler facilmente. Converte preservando títulos, listas e tabelas no documento.
 
-- ★ 187.180
+- ★ 191.564
 - Python
 - MIT
 - GitHub Trending · 29 May 2026
@@ -11,6 +11,7 @@ MarkItDown (Microsoft); É uma ferramenta Python leve que converte Word, PDF, Po
 
 ## Atualizações
 
+- **22 de outubro de 2026:** Estrelas 187,180 → 191,564, versão mais recente v0.1.9 (21 de outubro de 2026).
 - **27 de setembro de 2026:** Estrelas 181,042 → 187,180, versão mais recente v0.1.8 (21 de setembro de 2026).
 - **8 de setembro de 2026:** Estrelas 170,726 → 181,042, versão mais recente v0.1.7 (29 de julho de 2026).
 - **2 de agosto de 2026:** Estrelas 128,420 → 170,726, versão mais recente v0.1.7 (29 de julho de 2026).

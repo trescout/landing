@@ -22,7 +22,7 @@ Se utiliza en herramientas de procesamiento de imágenes, aplicaciones de escrit
 
 Se puede confundir con todo software de inteligencia artificial; El modelo es sólo la parte "cerebro" del software.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Puede cada modelo hacer cada trabajo?**
 

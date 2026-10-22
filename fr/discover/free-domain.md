@@ -47,7 +47,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Difficulté:** Adapté aux débutants
 - **Quelles offres:** Domaine gratuit + utilisation avec votre propre fournisseur DNS
 - **Frais:** Le service est gratuit
-- **Licence:** AGPL-3.0 · ayrıntı aşağıda
+- **Licence:** AGPL-3.0 · détail ci-dessous
 
 **Licence:** AGPL-3.0 · L'utilisation du service (obtention d'un domaine gratuit) est gratuite. Cependant, si vous prenez le CODE de la plateforme et que vous l'hébergez ou le modifiez vous-même, vous devez également ouvrir le code source de votre propre version (même si vous le rendez disponible sur le réseau) conformément à l'AGPL.
 

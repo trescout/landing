@@ -34,7 +34,7 @@ Smart-Home-Geräte oder Notiz-Apps, die nicht funktionieren, wenn das Internet a
 - Vergessen der lokalen Verschlüsselung: Das Speichern von Daten auf dem Client-Gerät birgt physische Risiken. Lokale Datenbanken müssen Ende-zu-Ende verschlüsselt werden (At-Rest-Verschlüsselung).
 - Ignorieren von Hardwarebeschränkungen: Insbesondere beim Betrieb lokaler Modelle mit künstlicher Intelligenz kann die Installation eines nicht optimierten Modells ohne Berücksichtigung des RAM-, VRAM- und Batteriebudgets zum Blockieren des Geräts führen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was ist der Hauptunterschied zwischen der Offline-First-Architektur und der traditionellen Client-Server-Architektur?**
 

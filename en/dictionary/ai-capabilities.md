@@ -22,7 +22,7 @@ It is used during the artificial intelligence project planning phase and model s
 
 Can be confused with AI Skills; Capability is the innate potential of the model, and skill is the training of this potential for a specific task.
 
-## Frequently asked questions
+## Questions and answers
 
 **Do the capabilities of artificial intelligence increase over time?**
 

@@ -22,7 +22,7 @@ Se produce en plataformas como Google Analytics y se coloca en los códigos HTML
 
 A menudo se confunde con las cookies; Mientras que las cookies guardan datos en su navegador, el fragmento es la herramienta que recopila datos y los envía al servidor.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Estos códigos robarán mi información personal?**
 

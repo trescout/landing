@@ -22,7 +22,7 @@ Yapay zekâ API servisleri kurarken, yerel sunucularda açık kaynak modelleri �
 
 Eğitim çatılarıyla (PyTorch, TensorFlow vb.) karıştırılır; eğitim çatıları ağırlıkları öğrenmeye ve geriye yayılıma odaklanırken, çıkarım çatıları sadece hazır modelin yanıt verme hızını maksimize eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Doğrudan PyTorch kullanmak yerine neden bir çıkarım çatısı tercih edilir?**
 

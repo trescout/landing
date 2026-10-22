@@ -22,7 +22,7 @@ Karmaşık iş süreçlerinin otomasyonunda ve otonom yazılım sistemlerinde ku
 
 AI Agent ile karıştırılabilir; bu bir disiplin, AI Agent ise bu disiplinin ürünüdür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yazılımcının rolü burada ne olacak?**
 

@@ -81,7 +81,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
 
 - **Pour qui:** Chercheurs en sécurité iOS, développeurs mobiles, experts en ingénierie inverse et archiveurs IPA.
-- **Licence:** MIT (Özgür açık kaynak lisansı)
+- **Licence:** MIT (Licence open source gratuite)
 - **Toit:** CLI multiplateforme basée sur Go
 - **Plateformes:** macOS, Linux, Windows
 

@@ -47,7 +47,7 @@ PaaS sanılır. IaaS donanım verir, PaaS hazır ortam sunar. Biri arsa, diğeri
 
 *Boş arsa kiralamaya benzer; altyapı hazırdır, bina size aittir.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **IaaS güvenli mi?**
 

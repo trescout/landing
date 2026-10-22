@@ -46,7 +46,7 @@ Es gilt als Feinabstimmung. Es deckt das gesamte Modell ab und ist eine leichte 
 **Linse:** An der Kamera angebrachter Filter.
 **Patch:** Ein auf die Kleidung genähtes Wappen.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Verlangsamt es?**
 

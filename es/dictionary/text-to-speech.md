@@ -45,7 +45,7 @@ Se cree que es una grabación de voz. El registro es una constante prelectura, m
 **Radio:** Locución automática del boletín.
 **Juego:** Generación de diálogo dinámico.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué a veces las voces suenan robóticas?**
 

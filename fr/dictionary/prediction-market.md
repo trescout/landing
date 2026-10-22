@@ -22,7 +22,7 @@ Il est utilisé pour prédire les résultats des élections politiques, analyser
 
 Il peut être confondu avec le marché boursier, mais alors que le marché boursier se concentre sur la valeur de l'entreprise, le marché des prédictions se concentre directement sur la probabilité que des événements futurs spécifiques se produisent.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi les marchés prédictifs sont-ils meilleurs que les enquêtes traditionnelles ?**
 

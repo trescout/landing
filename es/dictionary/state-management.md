@@ -22,7 +22,7 @@ Se utiliza en sitios web para conservar el contenido de un carrito de compras o 
 
 Se confunde con la base de datos, pero la base de datos mantiene un registro permanente mientras que la administración del estado gestiona el estado temporal e instantáneo.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Qué pasa si la administración estatal se corrompe?**
 

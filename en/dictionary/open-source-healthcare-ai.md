@@ -22,7 +22,7 @@ It is used in hospitals, medical research centers and personal health monitoring
 
 It may be confused with commercial health software, but the inside of these models is visible to anyone.
 
-## Frequently asked questions
+## Questions and answers
 
 **Will these models replace doctors?**
 

@@ -22,7 +22,7 @@ Otonom araçlar, lojistik planlama ve karmaşık yazılım geliştirme süreçle
 
 Hive mind ile benzerdir; ancak swarm daha çok görev odaklı ve dinamik bir iş birliğini ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Swarms neden verimlidir?**
 

@@ -24,7 +24,7 @@ Es erscheint in Anwendungen auf Ihrem Smartphone, auf Websites oder auf den Touc
 
 Es wird oft mit dem Backend der Software verwechselt, aber die Schnittstelle ist nur der Teil, den Sie sehen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Sind UI und UX dasselbe?**
 

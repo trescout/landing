@@ -22,7 +22,7 @@ Il est utilisé dans les directions quotidiennes, la gestion du courrier et de l
 
 Contrairement aux projets cartographiques open source et communautaires tels qu'OpenStreetMap, il s'agit d'un écosystème commercial et fermé appartenant à Google.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Comment Google Maps connaît-il instantanément la densité du trafic ?**
 

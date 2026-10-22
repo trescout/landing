@@ -24,7 +24,7 @@ Halka açık WiFi ağlarında, gizlilik gerektiren işlerde veya erişim engelle
 
 Proxy ile karıştırılabilir, ancak VPN tüm cihaz trafiğini şifrelerken, proxy genellikle sadece belirli uygulamaları yönlendirir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **VPN hızımı düşürür mü?**
 

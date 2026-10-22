@@ -22,7 +22,7 @@ Es wird auf persönlichen Cloud-Speichersystemen, privaten Medienservern oder zu
 
 Es kann mit SaaS-Modellen (Software as a Service) verwechselt werden. Bei SaaS verwaltet jemand anderes den Dienst, während bei einer selbst gehosteten Struktur die gesamte Verwaltung bei Ihnen liegt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich mich für eine selbsthostbare Software entscheiden?**
 

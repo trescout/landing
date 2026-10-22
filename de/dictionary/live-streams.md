@@ -22,7 +22,7 @@ Es wird in Live-Übertragungen in sozialen Medien, auf Online-Bildungsplattforme
 
 Der Unterschied zur Videoaufzeichnung besteht darin, dass der Inhalt keine vorgefertigte Datei ist, sondern ein Stream, der in diesem Moment stattfindet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum verzögert sich die Live-Übertragung?**
 

@@ -22,7 +22,7 @@ Karmaşık yazılım projelerinde, uzun süren özellik geliştirmeleri sırası
 
 Sadece klasör kopyalamakla aynı değildir; worktree'ler aynı Git deposuna bağlıdır ve birbirleriyle senkronize çalışır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden ayrı klasör kopyalamıyoruz?**
 

@@ -22,7 +22,7 @@ It is becoming widespread in modern coding tools and artificial intelligence-sup
 
 It can be confused with prompt engineering, but it is more of a development philosophy.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can an application be made without knowing code?**
 

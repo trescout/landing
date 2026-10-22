@@ -22,7 +22,7 @@ Büyük web sitelerinde ve yüksek trafikli ağ altyapılarında kullanılır.
 
 Sadece sunucu kümeleme ile karıştırılabilir, ancak bu yöntem özellikle sorgu trafiğini yönetmeye odaklanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sistem sayesinde site hızlanır mı?**
 

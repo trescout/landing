@@ -49,7 +49,6 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [STT](https://trescout.com/fr/dictionary/stt/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)

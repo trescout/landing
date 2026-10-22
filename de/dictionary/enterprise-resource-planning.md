@@ -24,7 +24,7 @@ Es wird in Konzernen, Produktionsstätten und Großbetrieben eingesetzt.
 
 Es kann nur mit Buchhaltungssoftware verwechselt werden; Aber ERP deckt das gesamte Unternehmen ab.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Ist der Umstieg auf ein ERP-System schwierig?**
 

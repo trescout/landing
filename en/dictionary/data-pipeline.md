@@ -22,7 +22,7 @@ It is used to prepare large amounts of data to train artificial intelligence or 
 
 It is confused with database, but pipeline is the process of movement and change of data while database is just storage space.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why is it so important?**
 

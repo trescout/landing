@@ -22,7 +22,7 @@ Modern kod editörlerinde, otomatize edilmiş yazılım test süreçlerinde ve b
 
 Sadece kod tamamlayan basit yapay zekâ araçları veya 'AI Coding Assistant' ile karıştırılabilir; ajanlar daha otonomdur.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kod ajanları yazılımcıların yerini mi alacak?**
 

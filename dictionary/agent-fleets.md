@@ -22,7 +22,7 @@ Karmaşık yazılım geliştirme projelerinde ve büyük ölçekli iş otomasyon
 
 Multi-agent sistemlerle neredeyse aynıdır; burada daha çok büyük ölçekli bir 'filo' yönetimi vurgulanır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Temsilciler birbirini nasıl anlıyor?**
 

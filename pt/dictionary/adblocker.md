@@ -22,7 +22,7 @@ Quando você baixa e instala um plugin adblocker da loja do seu navegador, esta 
 
 Ele pode ser confundido com um firewall, mas embora controle todo o tráfego da Internet, o adblocker visa apenas conteúdo publicitário.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Usar o adblocker prejudica sites?**
 

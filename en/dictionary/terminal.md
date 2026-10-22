@@ -43,7 +43,7 @@ It is considered GUI. GUI is visual, terminal is textual. It also gets confused 
 **Cockpit:** Direct control with button.
 **Engine room:** Turning valves by hand.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it necessary to learn the terminal?**
 

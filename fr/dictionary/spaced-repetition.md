@@ -22,7 +22,7 @@ Elle est largement utilisée dans les applications d'apprentissage des langues, 
 
 Elle peut être confondue avec le simple par cœur ; cependant, cette méthode consiste davantage à gérer la mémoire de manière stratégique qu'à mémoriser mécaniquement.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi dois-je répéter constamment ?**
 
@@ -30,7 +30,7 @@ Votre cerveau finit par supprimer les informations qu'il juge inutiles ; cette m
 
 ## Termes liés
 
-- [Personal Knowledge Management](https://trescout.com/fr/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/fr/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/fr/dictionary/personal-knowledge-management/)
 - [Lifelong Learning](https://trescout.com/fr/dictionary/lifelong-learning/)
 

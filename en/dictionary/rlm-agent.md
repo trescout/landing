@@ -24,7 +24,7 @@ It is used in game-playing systems, robotic motion control and areas where compl
 
 It can be confused with classical software rules; These systems follow experience, not pre-written rules.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does RLM agent always get it right?**
 

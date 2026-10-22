@@ -24,7 +24,7 @@ It is used in enterprise software, cloud systems and database management.
 
 It can be confused with SSO (Single Sign-On); SSO is the login method, while RBAC is your authorization after logging in.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I use RBAC?**
 

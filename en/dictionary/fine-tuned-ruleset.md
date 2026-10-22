@@ -22,7 +22,7 @@ Legal document analysis, medical diagnostic support systems and dedicated custom
 
 It is similar to fine-tuning, but here the emphasis is on the precise set of rules the model must follow rather than on its overall weights.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why are we doing this?**
 

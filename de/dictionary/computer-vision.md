@@ -2,6 +2,8 @@
 
 *Künstliche Intelligenz · Zuletzt aktualisiert: 9. Juni 2026*
 
+> CV
+
 Dabei handelt es sich um eine Technologie, die es Computern ermöglicht, visuelle Daten (Fotos, Videos) zu analysieren und die darin enthaltenen Objekte, Personen oder Ereignisse zu verstehen.
 
 ## Definition
@@ -22,7 +24,7 @@ Es wird in autonomen Fahrzeugen, Gesichtserkennungssystemen, medizinischen Bildg
 
 Kombinierbar mit Multimodal; Multimodal kann sowohl Text als auch Bilder verarbeiten, während Computer Vision visuell orientiert ist.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann Computer Vision alles sehen?**
 

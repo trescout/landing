@@ -24,7 +24,7 @@ Se utiliza en la gestión de sesiones de usuario, el seguimiento de carritos en 
 
 Se confunde con la huella digital del dispositivo (fingerprint); mientras que las cookies se pueden borrar fácilmente desde la configuración del navegador, la huella digital no se puede eliminar con facilidad ya que se basa en las características del hardware.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Borrar las cookies daña mi ordenador?**
 

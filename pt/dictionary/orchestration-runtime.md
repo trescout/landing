@@ -22,7 +22,7 @@ Ele atua de acordo com as regras e fluxos de trabalho definidos pelos desenvolve
 
 É diferente de um modelo de IA independente, onde o foco está no gerenciamento de múltiplas partes.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que o tempo de execução da orquestração é necessário?**
 

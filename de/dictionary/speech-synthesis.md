@@ -22,7 +22,7 @@ Es ist ein grundlegender Baustein für Barrierefreiheitstools, automatisierte Ca
 
 Es wird mit reinem Voiceover verwechselt; Allerdings handelt es sich bei diesem Vorgang um eine komplexe mathematische Berechnung, die auch die Bedeutung und Hervorhebung des Textes berechnet.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist der Unterschied zwischen Sprachsynthese und Text-to-Speech?**
 

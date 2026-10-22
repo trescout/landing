@@ -40,7 +40,7 @@ Cümledeki "çünkü" kısmı, işin neden yapıldığını hatırlatır ve kaps
 
 *Bir mutfakta şefin, hangi yemeğin ne zaman fırına gireceğini ve hangi aşçının malzemeleri hazırlayacağını planlamasına benzer.*
 
-## Sıkça Sorulanlar
+## Sorular ve yanıtlar
 
 **Yazılımcılar neden bunu kullanır?**
 

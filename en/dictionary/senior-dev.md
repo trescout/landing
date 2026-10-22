@@ -18,7 +18,7 @@ Developers reach this stage over the years by making mistakes in different proje
 
 They serve in leadership positions in software development teams, technology companies, and large-scale digital transformation projects.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can anyone who writes a lot of code become a senior dev?**
 

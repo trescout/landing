@@ -22,7 +22,7 @@ Otomotiv fabrikalarında, elektronik montaj hatlarında, devasa lojistik depolar
 
 Genel amaçlı insansı robotlarla karıştırılabilir, ancak fabrika droidleri genellikle belirli ve sabit endüstriyel görevler için optimize edilmiştir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Fabrika droidleri insan işçilerin yerini mi alıyor?**
 

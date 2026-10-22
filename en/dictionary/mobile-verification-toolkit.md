@@ -24,7 +24,7 @@ It is used in cybersecurity investigations and digital forensics analyses.
 
 Unlike general-purpose virus scanners, it focuses on catching specific and advanced targeted spyware.
 
-## Frequently asked questions
+## Questions and answers
 
 **Can everyone use it?**
 

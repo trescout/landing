@@ -22,7 +22,7 @@ Se utiliza en procesos internos de revisión de código del equipo en plataforma
 
 Se puede confundir con una única 'Solicitud de extracción' grande; sin embargo, este método ofrece un enfoque fragmentado y secuencial.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no lo enviamos todo de una vez?**
 

@@ -22,7 +22,7 @@ Se utiliza ampliamente en aplicaciones de aprendizaje de idiomas, sistemas de pr
 
 Puede confundirse con la simple memorización; sin embargo, este método es más una gestión estratégica de la memoria que una memorización pura.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería repetir constantemente?**
 
@@ -30,7 +30,7 @@ Tu cerebro elimina con el tiempo la información que considera innecesaria; este
 
 ## Términos relacionados
 
-- [Personal Knowledge Management](https://trescout.com/es/dictionary/pkm/)
+- [Personal Knowledge Management](https://trescout.com/es/dictionary/personal-knowledge-management/)
 - [Personal knowledge management](https://trescout.com/es/dictionary/personal-knowledge-management/)
 - [Lifelong Learning](https://trescout.com/es/dictionary/lifelong-learning/)
 

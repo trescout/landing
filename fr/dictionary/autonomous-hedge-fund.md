@@ -22,7 +22,7 @@ Utilisé dans les technologies financières et les plateformes de trading algori
 
 Il peut être confondu avec le trading algorithmique, mais alors que ce dernier suit généralement des règles prédéfinies, ce système peut apprendre et développer sa propre stratégie.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Ces fonds ne font-ils vraiment aucune erreur ?**
 

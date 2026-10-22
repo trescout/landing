@@ -22,7 +22,7 @@ Sohbet robotlarında, içerik üretim araçlarında ve çeviri sistemlerinde kul
 
 Otomatik tamamlama ile karıştırılabilir ancak text generation çok daha geniş kapsamlı ve yaratıcıdır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Yapay zekâ metin üretirken hata yapar mı?**
 

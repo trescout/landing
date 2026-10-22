@@ -22,7 +22,7 @@ Veri gönderilirken ağ cihazları paketin boyutunu kontrol eder. Eğer limit a�
 
 Veri kaybıyla karıştırılabilir, ancak bu kontrollü bir bölme işlemidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Parçalar kaybolursa ne olur?**
 

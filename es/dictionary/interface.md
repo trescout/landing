@@ -22,7 +22,7 @@ Se utiliza en los menús de navegación de sitios web, pantallas de aplicaciones
 
 Se confunde con la interfaz de usuario (UI), que es solo el diseño de pantalla. Sin embargo, la UI es solo la parte de la interfaz orientada al humano; las API, donde las máquinas hablan entre sí, también son interfaces.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Son lo mismo la interfaz y la UI?**
 

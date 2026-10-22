@@ -22,7 +22,7 @@ Sie begegnen ihnen häufig im Hintergrund von Websites, in Anwendungsentwicklung
 
 Sie können mit Plugins verwechselt werden; während Hooks eher Verbindungspunkte auf Code-Ebene sind, bieten Plugins umfassendere Funktionen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ändern wir nicht direkt den Hauptcode?**
 

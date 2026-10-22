@@ -47,7 +47,7 @@ Confunde-se com PaaS. IaaS fornece hardware, PaaS oferece ambiente pronto. Um é
 **Armazém:** Armazém com prateleiras prontas.
 **Campo:** Aluguel de terra arada.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **O IaaS é seguro?**
 

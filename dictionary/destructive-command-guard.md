@@ -22,7 +22,7 @@ Terminal uygulamalarında, gelişmiş yazılım geliştirme araçlarında ve sun
 
 Güvenlik duvarı (firewall) ile karıştırılabilir; o dışarıdan gelen saldırıları engeller, bu ise sizin içeriden yapacağınız hataları önler.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu koruma her zaman açık mı olmalı?**
 

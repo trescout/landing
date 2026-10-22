@@ -22,7 +22,7 @@ It is widely used in web development, mobile application construction and artifi
 
 It can be confused with the library; Libraries are just tools, while the framework determines the entire working order.
 
-## Frequently asked questions
+## Questions and answers
 
 **Should I use frameworks in every project?**
 

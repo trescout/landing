@@ -22,7 +22,7 @@ Il s'agit d'un concept fondamental dans le développement de logiciels, la sécu
 
 Il est confondu avec l'espace noyau ; Le noyau domine l'ensemble du système, tandis que l'espace utilisateur est limité.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi cette distinction existe-t-elle ?**
 

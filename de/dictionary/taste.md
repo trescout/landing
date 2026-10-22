@@ -22,7 +22,7 @@ Es spielt eine entscheidende Rolle beim Produktdesign, der Softwareentwicklung u
 
 Es kann mit einfachem Design verwechselt werden, aber es ist eine tiefere Vision, in der Geschmack, Funktionalität und Ästhetik kombiniert werden.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Kann der Geschmack verbessert werden?**
 

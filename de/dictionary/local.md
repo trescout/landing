@@ -50,7 +50,7 @@ Mit dem Aufkommen der künstlichen Intelligenz ist der Begriff „lokal“ zum w
 - Selbstgehostet: Gehostet auf einem Server im Büro oder zu Hause des Benutzers; Die Anbindung erfolgt über das lokale Netzwerk, die Wartungslast liegt beim Nutzer.
 - Cloud (SaaS): Sämtliche Hardware und Daten befinden sich im Rechenzentrum eines Drittunternehmens; Es bietet eine hohe Verfügbarkeit, erfordert jedoch ständige Kompromisse bei Internet und Privatsphäre.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was bedeutet lokal und was ist sein Äquivalent in der Informatik?**
 

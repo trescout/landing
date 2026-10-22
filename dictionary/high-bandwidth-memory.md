@@ -24,7 +24,7 @@ Yapay zekâ sunucularında kullanılan üst düzey grafik işlemcilerde ve yüks
 
 Evlerimizde kullandığımız standart bilgisayar bellekleri yani RAM ile karıştırılır. Standart bellekler yatay yerleşime sahiptir ve veri aktarım hızları bu özel dikey teknolojiye kıyasla çok daha düşüktür.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu bellek teknolojisi neden normal bilgisayarlarda yaygın değil?**
 

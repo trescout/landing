@@ -51,7 +51,7 @@ It is thought to be observability. However, logging is its building block: The l
 **Journal:** Chronological notes.
 **Camera recording:** Event archive.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it good to save everything?**
 

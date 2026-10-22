@@ -43,7 +43,6 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [Computer Vision Library](https://trescout.com/pt/dictionary/computer-vision-library/)
 - [Computer Vision](https://trescout.com/pt/dictionary/computer-vision/)
-- [Computer Vision](https://trescout.com/pt/dictionary/cv/)
 - [Machine Learning](https://trescout.com/pt/dictionary/machine-learning/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

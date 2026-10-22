@@ -44,7 +44,7 @@ On les prend pour des langages du Web. Ceux-là s'occupent de l'interface, ceux-
 **Fondation :** La structure porteuse du bâtiment.
 **Squelette :** La charpente du corps.
 
-## Foire aux questions
+## Questions et réponses
 
 **Lesquels entrent dans cette catégorie ?**
 

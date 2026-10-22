@@ -37,7 +37,7 @@ Regra: Quanto mais alta a camada, maior o custo de atualização. Cada nova vers
 **Mobília:** Mandar fazer um armário sob medida.
 **Automóvel:** Seleção de pacote de equipamentos.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Todo software pode ser personalizado?**
 

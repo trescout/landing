@@ -22,7 +22,7 @@ Karmaşık yazılım projelerinde, büyük kurumsal sistemlerde ve hata payını
 
 Geliştirme sırasında sürekli değişiklik yapılan esnek yöntemlerden ziyade, planlı ve disiplinli bir süreci temsil eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Hız kaybettirir mi?**
 

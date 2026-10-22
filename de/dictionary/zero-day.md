@@ -22,7 +22,7 @@ In der Welt der Cybersicherheit wird es in allen Bereichen eingesetzt, von der z
 
 Es wird mit bekannten Softwarefehlern verwechselt, der Unterschied zu einer Zero-Day-Schwachstelle besteht jedoch darin, dass der Entwickler noch keine Zeit hat, Abwehrmaßnahmen zu entwickeln.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum heißt es Zero Day?**
 

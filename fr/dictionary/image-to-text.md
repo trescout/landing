@@ -22,7 +22,7 @@ Il est intégré dans les systèmes de génération automatique de sous-titres d
 
 Il est confondu avec le text-to-image mais c'est l'inverse ; tandis que le text-to-image génère des images à partir de texte, cette technologie génère du texte à partir d'images.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Peut-il lire des textes manuscrits ?**
 

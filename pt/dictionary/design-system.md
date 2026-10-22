@@ -22,7 +22,7 @@ Os designers primeiro determinam os elementos básicos (cor, tipografia). Em seg
 
 Pode ser confundido com o ‘Guia de Estilo’, que é apenas um guia visual; O sistema de design é uma versão muito mais ampla e funcional disso.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que precisamos de um sistema de design?**
 

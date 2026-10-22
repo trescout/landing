@@ -22,7 +22,7 @@ Funciona integrado a redes focadas em privacidade, como o Tor; atua como um comp
 
 Embora sirva a propósitos semelhantes aos de uma VPN, sua lógica de funcionamento e métodos de ocultação são mais específicos.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Todos podem usar?**
 

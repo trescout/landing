@@ -18,7 +18,7 @@ El sistema analiza las respuestas del alumno y el tiempo empleado. Si se comete 
 
 Se utiliza en aplicaciones de aprendizaje de idiomas, plataformas de educación en línea y software de apoyo escolar.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Reemplaza completamente al maestro?**
 

@@ -22,7 +22,7 @@ It is used by industry professionals to keep themselves updated, by software dev
 
 It is confused with academic technology journals: While academic journals offer very heavy and theoretical analyses, these newsletters focus on practical, quick-to-read developments that can be applied to daily life.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is it mandatory to be a software developer to follow these newsletters?**
 

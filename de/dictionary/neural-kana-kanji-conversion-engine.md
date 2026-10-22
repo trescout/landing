@@ -22,7 +22,7 @@ Es wird in japanischen Eingabesystemen, mobilen Tastaturen und Textverarbeitungs
 
 Es ist nicht nur ein Wörterbuch; Es handelt sich um ein Modell der künstlichen Intelligenz, das den Kontext versteht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum künstliche Intelligenz nutzen?**
 

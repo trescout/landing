@@ -22,7 +22,7 @@ Se utiliza en sistemas autónomos de inteligencia artificial y flujos de trabajo
 
 Puede confundirse con el concepto de Agente AI, pero este concepto es el estilo de gestión de las habilidades que tiene el agente.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué se necesita un marco?**
 

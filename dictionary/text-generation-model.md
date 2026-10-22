@@ -22,7 +22,7 @@ Sohbet robotlarında, içerik yazım araçlarında ve e-posta taslakları oluşt
 
 LLM (Large Language Model) ile neredeyse aynıdır, ancak bu terim odak noktasının sadece metin üretimi olduğunu vurgular.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Her zaman doğru mu yazar?**
 

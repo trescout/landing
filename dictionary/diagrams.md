@@ -22,7 +22,7 @@ Sistem tasarımı yaparken, ekip içi toplantılarda ve teknik dokümantasyonlar
 
 Sadece bir resim değildir, sistemin mantıksal işleyişini temsil eden bir modeldir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Herkes diyagram çizebilir mi?**
 

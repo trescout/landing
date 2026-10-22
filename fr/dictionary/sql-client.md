@@ -42,7 +42,7 @@ L'ORM (Object-Relational Mapping) est une couche qui vous permet de communiquer 
 **Comptabilité :** L'auditeur qui examine un par un les articles du registre.
 **Logistique :** Le terminal portable qui liste les produits en entrepôt.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-il nécessaire de connaître SQL ?**
 

@@ -22,7 +22,7 @@ Es wird in der Vorbereitungsphase von großen Sprachmodellen verwendet, bevor si
 
 Es wird oft mit Pre-Training (Vortraining) verwechselt; während das Vortraining die Grundlagen des Modells legt, formt das Post-Training das Verhalten des Modells.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist Post-Training notwendig?**
 

@@ -56,7 +56,7 @@ Seit Git Version 2.23 wurden die verwirrenden Mehrfachaufgaben des Befehls git c
 | Größtes Risiko | Warenkorbabbruch, doppelte Abbuchung | Verlust nicht gespeicherter Änderungen im Arbeitsverzeichnis |
 | Moderner Ansatz | Apple/Google Pay, Headless Checkout | Verwenden von Git Switch und Git Restore |
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Was ist die allgemeine Bedeutung des Wortes Checkout?**
 

@@ -22,7 +22,7 @@ Uygulamanın kurulum dosyasını indirir ve bilgisayarınıza yüklersiniz. Uygu
 
 Web uygulamaları ile karıştırılabilir; web uygulamaları tarayıcıya bağımlıyken, desktop client bağımsız çalışır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Masaüstü uygulaması her zaman daha mı iyidir?**
 

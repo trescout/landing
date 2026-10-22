@@ -29,7 +29,7 @@ Le concept de « keybind » ou « keybinding » est exprimé en turc par affecta
 
 Le raccourci clavier et le raccourci clavier sont souvent utilisés de manière synonyme. Cependant, en pratique, alors que le raccourci fait référence à des combinaisons universelles (Ctrl+V, Alt+Tab) au niveau du système d'exploitation ; Au lieu de cela, le raccourci clavier définit des affectations spéciales que l'utilisateur peut re-mapper selon ses propres habitudes dans l'éditeur ou dans le jeu.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Signification du raccourci clavier ?**
 

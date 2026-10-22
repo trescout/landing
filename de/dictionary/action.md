@@ -22,7 +22,7 @@ Es kommt häufig in AI-Agent-Systemen, Automatisierungstools und Anwendungsinteg
 
 Es sollte nicht mit dem bloßen Denk- oder Planungsprozess verwechselt werden; Aktion ist eine tatsächliche Aktion, die Spuren im System hinterlässt.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Gelingt Action immer?**
 

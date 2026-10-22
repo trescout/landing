@@ -22,7 +22,7 @@ Il est fréquemment utilisé dans les tests de résistance, la planification de 
 
 Il peut être confondu avec les outils de tests d'intrusion permettant de détecter des failles de sécurité ; Le but ici n’est pas de casser le système, mais de peser la charge qu’il peut supporter.
 
-## Questions fréquentes
+## Questions et réponses
 
 **En quoi diffère-t-il du trafic réel des utilisateurs ?**
 

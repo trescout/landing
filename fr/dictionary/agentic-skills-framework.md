@@ -22,7 +22,7 @@ Il est utilisé dans les systèmes d’intelligence artificielle autonomes et le
 
 Il peut être confondu avec le concept d'agent IA, mais ce concept est le style de gestion des capacités dont dispose l'agent.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi un cadre est-il nécessaire ?**
 

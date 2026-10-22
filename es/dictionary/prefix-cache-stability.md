@@ -22,7 +22,7 @@ Se utiliza en aplicaciones de inteligencia artificial y chatbots de alto tráfic
 
 Se puede confundir con la caché KV; La caché KV es la memoria del modelo en tiempo de ejecución y esta es una estrategia que garantiza que la memoria permanezca estable.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Este método aumenta la precisión?**
 

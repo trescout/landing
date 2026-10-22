@@ -18,7 +18,7 @@ Bataryalardan alınan elektrik akımı, bir motor sürücüsü aracılığıyla 
 
 Elektrikli otomobiller, insansız hava araçları (dronlar) ve modern robotik sistemlerde kullanılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Bu sistemler neden tercih ediliyor?**
 

@@ -22,7 +22,7 @@ Se utiliza en mercados financieros y plataformas comerciales algorítmicas.
 
 Puede confundirse con el comercio manual; Mientras que en el trading manual usted toma la decisión al instante, aquí la toma el sistema.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué debería operar sistemáticamente?**
 

@@ -80,7 +80,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
 
 - **Who it is for:** Java developers, software architects, quality assurance teams, and technical leads.
-- **License:** LGPL-2.1 (Açık kaynak kütüphane lisansı)
+- **License:** LGPL-2.1 (Open source library license)
 - **Framework:** Java Static Code Analysis Tool
 - **Platforms:** JVM (Java Virtual Machine), Linux, macOS, Windows
 

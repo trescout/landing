@@ -24,7 +24,7 @@ It is considered a security risk in servers, web applications, and outdated soft
 
 It should not be confused with just data theft; this situation involves full control of the system beyond just the data.
 
-## Frequently asked questions
+## Questions and answers
 
 **How can I protect myself from this?**
 

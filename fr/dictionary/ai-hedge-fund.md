@@ -22,7 +22,7 @@ Il est utilisé sur les marchés financiers, les transactions boursières et les
 
 La différence avec le trading algorithmique est que l’intelligence artificielle ne se contente pas de suivre des règles mais peut développer sa propre stratégie en apprenant des données.
 
-## Questions fréquentes
+## Questions et réponses
 
 **N'y a-t-il pas besoin de personnes ?**
 

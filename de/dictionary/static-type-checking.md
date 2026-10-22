@@ -22,7 +22,7 @@ Es wird häufig in modernen Softwareentwicklungstools und Codebasen von Großpro
 
 Es kann mit Laufzeitfehlern verwechselt werden, aber diese Methode fängt Fehler ab, während Sie Code schreiben.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum sollte ich statische Kontrolle verwenden?**
 

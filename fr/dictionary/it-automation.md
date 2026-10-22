@@ -22,7 +22,7 @@ Il est largement utilisé dans les processus de gestion de serveurs, de distribu
 
 Elle peut être confondue avec l’intelligence artificielle ; L’automatisation est basée sur des règles, apprend l’IA.
 
-## Questions fréquentes
+## Questions et réponses
 
 **L'automatisation va-t-elle me prendre mon travail ?**
 

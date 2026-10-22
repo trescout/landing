@@ -22,7 +22,7 @@ Os dados gerados ao longo da sessão do usuário são processados ​​por inte
 
 Não é apenas um simples rastreamento do usuário, é um processo de compreensão dos dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Isso viola a privacidade?**
 

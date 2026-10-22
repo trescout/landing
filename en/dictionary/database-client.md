@@ -22,7 +22,7 @@ It is widely used in software development processes, data analytics studies, and
 
 It should not be confused with the database server that stores the data itself; the client is merely an interface and management tool.
 
-## Frequently asked questions
+## Questions and answers
 
 **Which programs are known as database clients?**
 

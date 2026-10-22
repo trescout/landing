@@ -81,7 +81,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [API](https://trescout.com/de/dictionary/api/)
 
 - **Für wen es gedacht ist:** Robotikforscher, Mechatroniker, Experten für Reinforcement Learning und Bastler.
-- **Lizenz:** Apache-2.0 (Açık kaynak lisansı)
+- **Lizenz:** Apache-2.0 (Open-Source-Lizenz)
 - **Framework:** Python, MuJoCo & mjlab Robotics Framework
 - **Plattformen:** Linux, macOS, Windows
 

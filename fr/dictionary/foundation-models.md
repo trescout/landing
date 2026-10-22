@@ -22,7 +22,7 @@ Ils sont utilisés dans les outils de rédaction de texte, les assistants de cod
 
 Ils sont souvent confondus avec des modèles à portée limitée, généralement entraînés pour effectuer une seule tâche.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Quelle est la différence entre un modèle de fondation et un modèle d'intelligence artificielle ordinaire ?**
 

@@ -64,7 +64,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **dificultad:** Necesita instalar en un servidor/computadora mediana
 - **Que ofertas:** Transmisión de medios personales · desde cualquier dispositivo
 - **Tarifa:** Completamente gratis · sin publicidad
-- **Licencia:** GPL-2.0 · ayrıntı aşağıda
+- **Licencia:** GPL-2.0 · detalle a continuación
 
 **Licencia:** GPL-2.0 · Completamente gratuito y de uso gratuito. Si modifica y distribuye el software, debe compartir (copyleft) sus cambios bajo la misma licencia GPL y código fuente. No hay obligación si solo lo usas tú mismo.
 

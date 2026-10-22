@@ -24,7 +24,7 @@ It is found in the splash screens of smartphones, computer motherboards and embe
 
 It is mixed with RAM; RAM is temporary and is deleted when the computer is turned off, while ROM is permanent.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why can't the information in ROM be changed?**
 

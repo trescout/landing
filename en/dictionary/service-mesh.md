@@ -42,7 +42,7 @@ Istio and Linkerd are known applications. In a small system, the cost exceeds th
 **Traffic:** The signaling network that regulates flow.
 **Mail:** Distribution center that sorts the shipment.
 
-## Frequently Asked Questions
+## Questions and answers
 
 **Is it necessary for every project?**
 

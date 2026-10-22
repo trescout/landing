@@ -22,7 +22,7 @@ Es wird in komplexen Softwareprojekten verwendet, wenn während langwieriger Fun
 
 Es ist nicht dasselbe wie das bloße Kopieren von Ordnern; Worktrees sind mit demselben Git-Repository verbunden und arbeiten synchron miteinander.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum kopieren wir nicht einfach separate Ordner?**
 

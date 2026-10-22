@@ -22,7 +22,7 @@ Il est utilisé pour approuver les demandes de prêt, les stratégies de négoci
 
 Il est différent des modèles de prédiction pure ; Alors que les modèles de prédiction indiquent « ce qui se passera demain », les modèles de décision déterminent « ce qui devrait être fait sur la base de cette prédiction ».
 
-## Questions fréquentes
+## Questions et réponses
 
 **Les modèles de décision utilisent-ils toujours l’IA ?**
 

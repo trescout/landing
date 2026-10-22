@@ -22,7 +22,7 @@ Modern kodlama araçlarında ve yapay zekâ destekli geliştirme ortamlarında y
 
 Prompt engineering ile karıştırılabilir ancak bu daha çok bir geliştirme felsefesidir.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Kod bilmeden uygulama yapılabilir mi?**
 

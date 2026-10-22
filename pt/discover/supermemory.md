@@ -61,7 +61,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Dificuldade:** Ferramenta de desenvolvedor médio
 - **O que oferece:** Mecanismo de memória escalável + API
 - **Taxa:** Gratuito · código aberto (MIT)
-- **Licença:** MIT · ayrıntı aşağıda
+- **Licença:** MIT · detalhes abaixo
 
 **Licença:** MIT · Você pode usá-lo livremente, modificá-lo e usá-lo comercialmente.
 

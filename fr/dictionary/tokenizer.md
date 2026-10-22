@@ -41,7 +41,7 @@ Les jetons spéciaux qui figurent dans le vocabulaire du tokenizer mais qui appa
 
 Par exemple, lorsque l'on interroge le modèle sur des jetons comme SolidGoldMagikarp, dérivés de noms d'utilisateur sur des forums Reddit ou de codes sur des sites de commerce électronique, l'intelligence artificielle commence à halluciner, peut aligner des insultes dénuées de sens ou se bloquer, car elle ne parvient pas à positionner correctement le vecteur de ce jeton dans l'espace d'embedding.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que signifie Tokenizer, quel est son équivalent en turc ?**
 

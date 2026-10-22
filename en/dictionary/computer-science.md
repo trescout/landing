@@ -22,7 +22,7 @@ It is used in all technological fields such as software development, data analys
 
 Unlike just learning how to use a computer, it aims to understand in depth why and how the computer works.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is knowing how to code enough?**
 

@@ -44,7 +44,7 @@ On le prend pour un chatbot. Le bot répond, cette couche est intégrée au proc
 **Pilote automatique :** Un système qui maintient le cap.
 **Secrétariat :** Gestion du flux documentaire.
 
-## Foire aux questions
+## Questions et réponses
 
 **Remplace-t-il le manager ?**
 

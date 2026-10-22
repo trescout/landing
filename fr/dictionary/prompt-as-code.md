@@ -22,7 +22,7 @@ Il est utilisé dans les processus de développement de logiciels, en particulie
 
 Cela peut être confondu avec une ingénierie rapide ; mais il s’agit là de la partie gestion technique et processus du travail.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Pourquoi devrais-je gérer des commandes comme le code ?**
 

@@ -20,7 +20,7 @@ Yazılımcı kodunu sisteme yüklediği anda, arka planda çalışan robotlar ot
 
 Büyük yazılım ekiplerinde ve modern yazılım geliştirme döngülerinde (DevOps) standart bir uygulamadır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden manuel test yapmıyoruz?**
 

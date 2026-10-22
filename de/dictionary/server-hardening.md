@@ -22,7 +22,7 @@ Es wird in Cloud-Servern, lokalen Rechenzentren und Cybersicherheitsbetrieben ei
 
 Es ist nicht dasselbe wie nur die Installation einer Firewall; Beim Härten handelt es sich um einen wesentlich umfassenderen Sicherheitsprozess.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wie oft sollte ich meinen Server härten?**
 

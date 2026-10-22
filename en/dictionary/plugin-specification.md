@@ -22,7 +22,7 @@ It is used in browser add-ons, AI tool integrations, and major software platform
 
 It can be confused with SDK, but this is more of a ruleset while SDK is a broader set of tools.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why should I follow these rules?**
 

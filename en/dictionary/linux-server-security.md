@@ -22,7 +22,7 @@ It plays a critical role in cloud servers, personal home servers, and enterprise
 
 It may be confused with server administration, but this is a specialized field that focuses solely on security.
 
-## Frequently asked questions
+## Questions and answers
 
 **Why do we carry out a separate security study specifically for Linux servers?**
 

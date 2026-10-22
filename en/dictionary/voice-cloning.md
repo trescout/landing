@@ -22,7 +22,7 @@ It is used in movie dubbing, game characters and in medical fields to help peopl
 
 It is confused with voice changer; While voice substitution merely manipulates the tone, cloning completely copies the person's speech character.
 
-## Frequently asked questions
+## Questions and answers
 
 **Is this technology safe?**
 

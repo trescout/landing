@@ -24,7 +24,7 @@ Lo encuentra con frecuencia en áreas como desarrollo web (CSS, HTML), gestión 
 
 Puede confundirse con lenguajes de programación de propósito general; La diferencia es que uno intenta hacerlo todo, mientras que el otro se centra en hacer una cosa a la perfección.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Por qué no utilizamos un DSL para cada trabajo?**
 

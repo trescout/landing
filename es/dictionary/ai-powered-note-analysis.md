@@ -22,7 +22,7 @@ Se utiliza para organizar notas de reuniones, estudios académicos y analizar di
 
 A diferencia de las herramientas que simplemente copian texto, comprende el contenido del texto y le da significado.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Está protegida mi privacidad?**
 

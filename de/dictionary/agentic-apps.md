@@ -24,7 +24,7 @@ Sie werden häufig bei der Reiseplanung, der automatisierten Verwaltung Ihres Po
 
 Sie werden oft mit klassischen KI-Chatbots verwechselt. Während Chatbots lediglich Ihre Fragen beantworten, können autonome Anwendungen konkrete Handlungen ausführen, wie zum Beispiel im Internet zu recherchieren und in Ihrem Namen Tickets zu kaufen.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Arbeiten diese Anwendungen völlig unkontrolliert?**
 

@@ -45,7 +45,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - **Schwierigkeit:** Variiert · je nach gewähltem Projekt
 - **Formatieren:** Schritt-für-Schritt-Anleitungssammlung
 - **Gebühr:** kostenlos
-- **Lizenz:** Belirtilmemiş · ayrıntı aşağıda
+- **Lizenz:** Nicht angegeben · Details unten
 
 **Lizenz:** ⚠️ Keine Lizenz angegeben. Copyright „Alle Rechte vorbehalten“: Das Lesen und Befolgen ist kostenlos, das Kopieren und erneute Veröffentlichen von Inhalten erfordert jedoch eine Genehmigung.
 

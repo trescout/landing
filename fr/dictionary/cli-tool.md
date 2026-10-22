@@ -24,7 +24,7 @@ Il est largement utilisé dans les processus de développement de logiciels, la 
 
 Il est différent des programmes normaux dotés d'une interface graphique, il est entièrement basé sur du texte.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Est-il difficile d'apprendre les outils CLI ?**
 

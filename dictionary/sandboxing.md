@@ -22,7 +22,7 @@ Web tarayıcılarında üçüncü taraf betikleri çalıştırmada, e-posta ekle
 
 Sandbox terimi tecrit edilmiş alanın kendisini tanımlarken; sandboxing bu güvenli ortamı oluşturma, yönetme ve sınırlandırma sürecini ifade eder.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Sandboxing sistem performansını belirgin şekilde düşürür mü?**
 

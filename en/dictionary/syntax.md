@@ -22,7 +22,7 @@ It is used in all programming languages and scripting languages.
 
 It is confused with logical errors; while a syntax error prevents the code from running, a logical error causes the code to produce incorrect results.
 
-## Frequently asked questions
+## Questions and answers
 
 **What should I do if I get a syntax error?**
 

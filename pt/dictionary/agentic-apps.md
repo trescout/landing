@@ -24,7 +24,7 @@ Eles são frequentemente usados no planejamento de viagens, gerenciamento autom�
 
 Eles são confundidos com chatbots clássicos de inteligência artificial. Enquanto os chatbots apenas respondem às suas perguntas, os aplicativos autônomos podem realizar ações concretas em seu nome, como pesquisar na internet e comprar passagens.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Estes aplicativos funcionam de forma totalmente descontrolada?**
 

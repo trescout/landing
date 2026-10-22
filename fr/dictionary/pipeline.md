@@ -22,7 +22,7 @@ Il est utilisé dans les processus de traitement de données, la distribution de
 
 Il ne faut pas la confondre avec une simple base de données ; Un pipeline est un processus qui traite des données, pas un endroit pour les stocker.
 
-## Questions fréquentes
+## Questions et réponses
 
 **Que se passe-t-il en cas de rupture du pipeline ?**
 

@@ -22,7 +22,7 @@ Se utiliza para ejecutar modelos grandes en teléfonos móviles o computadoras p
 
 Se confunde con entrenar el modelo, pero se trata de un proceso de optimización que se realiza después del entrenamiento.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Disminuye la inteligencia del modelo?**
 

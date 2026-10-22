@@ -22,7 +22,7 @@ Os usuários colocam objetos na cena, codificam os movimentos dos personagens e 
 
 Ao contrário de outros motores de jogos comerciais, é totalmente gratuito e não cobra nenhuma taxa de licenciamento.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Preciso saber o código?**
 

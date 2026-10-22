@@ -22,7 +22,7 @@ El proceso de inferencia ocurre cada vez que chateas con ChatGPT o haces que una
 
 Se confunde con entrenar el modelo; El modelo educativo son los años escolares, mientras que la inferencia es graduarse y empezar a trabajar.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cuánto tiempo lleva el proceso de inferencia?**
 

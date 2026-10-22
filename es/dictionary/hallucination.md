@@ -22,7 +22,7 @@ Ocurre especialmente en la investigación académica, cuando se busca consejo m�
 
 Se confunde con mentir, pero la inteligencia artificial no tiene intención ni conciencia; Simplemente sigue las posibilidades.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 **¿Cómo evito que la IA invente cosas?**
 

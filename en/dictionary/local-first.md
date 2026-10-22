@@ -22,7 +22,7 @@ It is used in note-taking applications, personal artificial intelligence tools, 
 
 It can only be confused with offline work; However, this approach aims to preserve the synchronization ability while offline.
 
-## Frequently asked questions
+## Questions and answers
 
 **What happens if my data and device are corrupted?**
 

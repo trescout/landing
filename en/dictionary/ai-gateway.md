@@ -22,7 +22,7 @@ It is used for security and cost management in enterprise artificial intelligenc
 
 It can only be confused with an API; however, this structure provides an additional layer of control and management on top of the API.
 
-## Frequently asked questions
+## Questions and answers
 
 **Does using AI Gateway slow down?**
 

@@ -25,7 +25,6 @@ For installation, you can use the download links suitable for your Linux, macOS,
 ## Related dictionary terms
 
 - [ApacheBench (ab)](https://trescout.com/en/dictionary/apache-bench/)
-- [ab (ApacheBench)](https://trescout.com/en/dictionary/apache-bench-ab/)
 - [ab](https://trescout.com/en/dictionary/ab/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

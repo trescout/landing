@@ -36,7 +36,7 @@ Pode ser confundido com registro. Log é a única linha de evento. Uma métrica 
 **Aviação:** Armazenando dados de voo em uma caixa preta.
 **Energia:** Os medidores informam o consumo ao centro.
 
-## Perguntas Frequentes
+## Perguntas e respostas
 
 **Afeta a minha privacidade?**
 

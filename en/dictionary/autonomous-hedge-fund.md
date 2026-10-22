@@ -22,7 +22,7 @@ Used in financial technologies and algorithmic trading platforms.
 
 It might be confused with algorithmic trading, but while that usually follows predefined rules, this system can learn and improve its own strategy.
 
-## Frequently asked questions
+## Questions and answers
 
 **Don't these funds ever make mistakes?**
 

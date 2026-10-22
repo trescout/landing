@@ -22,7 +22,7 @@ Es wird in persönlichen Assistenten, ständig aktualisierten Nachrichtenanalyse
 
 Es ist fast dasselbe wie kontinuierliches Lernen, aber lebenslanges Lernen bezieht sich auf einen längerfristigen und umfassenderen Entwicklungsprozess.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum macht das nicht jede KI?**
 

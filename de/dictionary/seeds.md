@@ -24,7 +24,7 @@ Es wird verwendet, um Bilder und Audio mit generativen KI-Tools zu generieren, G
 
 Nicht zu verwechseln mit kryptografischen Schlüsseln. Der Startwert ist kein Sicherheitspasswort, sondern lediglich ein Ausgangspunkt, der die Zahlenfolge vorhersehbar macht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Wenn ich den gleichen Startwert eingebe, erhalte ich dann definitiv das gleiche Bild?**
 

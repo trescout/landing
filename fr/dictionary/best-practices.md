@@ -40,7 +40,7 @@ L'exception à la règle fait aussi partie de la règle : la vitesse prime pour 
 **Aviation :** Liste de contrôle avant le décollage.
 **Trafic :** Organisation des voies et des signaux.
 
-## Foire aux questions
+## Questions et réponses
 
 **Est-il obligatoire de les respecter ?**
 

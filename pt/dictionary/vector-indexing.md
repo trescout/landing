@@ -22,7 +22,7 @@ Primeiro, os dados são convertidos em coordenadas numéricas com modelos incorp
 
 Pode ser confundido com Banco de Dados Vetorial; A indexação vetorial é o método de organização e mapeamento deste banco de dados.
 
-## Perguntas frequentes
+## Perguntas e respostas
 
 **Por que usamos isso em vez da pesquisa clássica?**
 

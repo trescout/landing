@@ -46,7 +46,7 @@ Es hat nichts mit Cybersicherheit zu tun. Es geht nicht um Hacker, sondern um Da
 **Küche:** Köche, die sich abwechselnd ein einziges Messer teilen.
 **Bibliothek:** Das Weiterreichen eines einzigen Buch-Exemplars über das Ausleihbuch.
 
-## Häufig gestellte Fragen
+## Fragen und Antworten
 
 **Was passiert, wenn es nicht threadsicher ist?**
 

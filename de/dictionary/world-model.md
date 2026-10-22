@@ -22,7 +22,7 @@ Es wird insbesondere bei autonomen Fahrzeugen eingesetzt, um Fahrentscheidungen 
 
 Es sollte nicht nur mit einer Datenbank oder einem einfachen Vorhersagealgorithmus verwechselt werden, da hier eine Simulationsfähigkeit besteht.
 
-## Häufige Fragen
+## Fragen und Antworten
 
 **Warum ist das Weltmodell wichtig?**
 

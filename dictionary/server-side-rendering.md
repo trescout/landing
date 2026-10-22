@@ -24,7 +24,7 @@ E-ticaret sitelerinde ve SEO'nun önemli olduğu tüm web projelerinde kullanıl
 
 Client-side rendering ile karıştırılabilir; client-side'da işin çoğu tarayıcıda, SSR'da ise sunucuda yapılır.
 
-## Sıkça sorulanlar
+## Sorular ve yanıtlar
 
 **Neden her site SSR kullanmıyor?**
 
