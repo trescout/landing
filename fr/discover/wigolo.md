@@ -2,12 +2,13 @@
 
 Wigolo est un outil qui fournit des capacités de recherche, d'extraction de données et d'exploration locales pour les agents de codage d'intelligence artificielle. Ce système, qui fonctionne sur le protocole de contexte de modèle (MCP), permet une recherche gratuite sans dépendance au cloud et sans nécessiter de clé API.
 
-- ★ 5 105
+- ★ 5 498
 - TypeScript
 - GitHub Trending · 2026-07-19
 
 ## Mises à jour
 
+- **22 octobre 2026:** Étoiles 5,105 → 5,498, dernière version v0.3.0 (22 octobre 2026).
 - **6 septembre 2026:** Étoiles 4,069 → 5,105, dernière version v0.2.1 (19 juillet 2026).
 - **2 août 2026:** Étoiles 1,365 → 4,069, dernière version v0.2.1 (19 juillet 2026).
 

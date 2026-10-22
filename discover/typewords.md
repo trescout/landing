@@ -2,12 +2,13 @@
 
 TypeWords, Vue tabanlı arayüzüyle kullanıcıların klavye hızlarını geliştirirken aynı zamanda İngilizce pratik yapmalarını sağlayan bir yazım egzersizi aracıdır. Yazılım, her tuş vuruşunu bir öğrenme adımına dönüştürerek dil becerilerini oyunlaştırma yoluyla destekler.
 
-- ★ 9.518
+- ★ 10.519
 - Vue
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
 
+- **22 Ekim 2026:** Yıldız 9.518 → 10.519.
 - **3 Eylül 2026:** Yıldız 9.516 → 9.518, son sürüm v3.0.7 (17 Haziran 2026).
 
 ## Ne kazandırır?

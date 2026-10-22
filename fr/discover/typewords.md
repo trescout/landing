@@ -2,12 +2,13 @@
 
 TypeWords est un outil d'exercice de dactylographie basé sur une interface Vue qui permet aux utilisateurs d'améliorer leur vitesse de frappe tout en pratiquant l'anglais. Le logiciel transforme chaque frappe en une étape d'apprentissage, soutenant les compétences linguistiques par la gamification.
 
-- ★ 9 518
+- ★ 10 519
 - Vue
 - GitHub Trending · 2026-09-03
 
 ## Mises à jour
 
+- **22 octobre 2026:** Étoiles 9,518 → 10,519.
 - **3 septembre 2026:** Étoiles 9,516 → 9,518, dernière version v3.0.7 (17 juin 2026).
 
 ## Ce que ça vous apporte

@@ -2,12 +2,13 @@
 
 TypeWords ist ein Schreibübungstool mit einer Vue-basierten Benutzeroberfläche, das es Benutzern ermöglicht, ihre Tippgeschwindigkeit zu verbessern und gleichzeitig Englisch zu üben. Die Software verwandelt jeden Tastendruck in einen Lernschritt und fördert Sprachkenntnisse durch Gamification.
 
-- ★ 9.518
+- ★ 10.519
 - Vue
 - GitHub Trending · 2026-09-03
 
 ## Aktualisierungen
 
+- **22. Oktober 2026:** Sterne 9,518 → 10,519.
 - **3. September 2026:** Sterne 9,516 → 9,518, neueste Version v3.0.7 (17. Juni 2026).
 
 ## Was es bringt

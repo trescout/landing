@@ -2,16 +2,16 @@
 
 Ruflo is an agent orchestration layer for deploying intelligent agent swarms, coordinating autonomous workflows, and building conversational AI systems.
 
-- ★ 78,309
+- ★ 78,347
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Updates
 
+- **October 22, 2026:** Stars 78,309 → 78,347, latest release v3.59.16 (October 22, 2026).
 - **October 22, 2026:** Stars 78,041 → 78,309, latest release v3.59.15 (October 22, 2026).
 - **October 21, 2026:** Stars 77,465 → 78,041, latest release v3.59.7 (October 21, 2026).
 - **October 20, 2026:** Stars 76,236 → 77,465, latest release v3.58.1 (October 20, 2026).
-- **October 18, 2026:** Stars 74,730 → 76,236, latest release v3.57.0 (October 17, 2026).
 
 ## What you get
 

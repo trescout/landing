@@ -42,8 +42,8 @@ Sim, eles podem gerenciar seus arquivos ou executar seus aplicativos se você co
 ## Ferramentas relacionadas
 
 - [Hermes Agent](https://trescout.com/pt/discover/hermes-agent/)
-- [Andrej Karpathy Skills](https://trescout.com/pt/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/pt/discover/opencode/)
+- [Andrej Karpathy Skills](https://trescout.com/pt/discover/andrej-karpathy-skills/)
 - [Ponytail](https://trescout.com/pt/discover/ponytail/)
 - [Awesome LLM Apps](https://trescout.com/pt/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/pt/discover/browser-use/)

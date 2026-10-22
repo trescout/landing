@@ -39,8 +39,8 @@ Local-first uygulamalar genellikle şifreli bir şekilde buluta yedekleme yapabi
 - [Openhuman](https://trescout.com/discover/openhuman/)
 - [PI-Desktop](https://trescout.com/discover/pi-desktop/)
 - [Agentsview](https://trescout.com/discover/agentsview/)
-- [Open Science](https://trescout.com/discover/open-science/)
 - [Wigolo](https://trescout.com/discover/wigolo/)
+- [Open Science](https://trescout.com/discover/open-science/)
 - [Starnet](https://trescout.com/discover/starnet/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -8,10 +8,10 @@ Les images de runner GitHub Actions hébergent les environnements de machines vi
 
 ## Mises à jour
 
+- **22 octobre 2026:** Étoiles 13,514 → 13,514, dernière version ubuntu-slim/20261021.31 (21 octobre 2026).
 - **22 octobre 2026:** Étoiles 13,508 → 13,514, dernière version ubuntu26-arm64/20261018.155 (19 octobre 2026).
 - **21 octobre 2026:** Étoiles 13,481 → 13,508, dernière version ubuntu-slim/20261018.28 (19 octobre 2026).
 - **16 octobre 2026:** Étoiles 13,480 → 13,481, dernière version win25/20261013.288 (14 octobre 2026).
-- **16 octobre 2026:** Étoiles 13,457 → 13,480, dernière version ubuntu-slim/20261012.23 (13 octobre 2026).
 
 ## Ce que ça vous apporte
 

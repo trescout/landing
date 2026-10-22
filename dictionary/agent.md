@@ -42,8 +42,8 @@ Evet, eğer onlara gerekli izinleri ve araçları verirseniz dosyalarınızı y�
 ## İlgili araçlar
 
 - [Hermes Agent](https://trescout.com/discover/hermes-agent/)
-- [Andrej Karpathy Skills](https://trescout.com/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/discover/opencode/)
+- [Andrej Karpathy Skills](https://trescout.com/discover/andrej-karpathy-skills/)
 - [Ponytail](https://trescout.com/discover/ponytail/)
 - [Awesome LLM Apps](https://trescout.com/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/discover/browser-use/)

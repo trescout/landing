@@ -42,8 +42,8 @@ Sí, pueden administrar sus archivos o ejecutar sus aplicaciones si les otorga l
 ## Herramientas relacionadas
 
 - [Hermes Agent](https://trescout.com/es/discover/hermes-agent/)
-- [Andrej Karpathy Skills](https://trescout.com/es/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/es/discover/opencode/)
+- [Andrej Karpathy Skills](https://trescout.com/es/discover/andrej-karpathy-skills/)
 - [Ponytail](https://trescout.com/es/discover/ponytail/)
 - [Awesome LLM Apps](https://trescout.com/es/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/es/discover/browser-use/)

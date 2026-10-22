@@ -9,10 +9,10 @@ Puppeteer is a browser automation library used to control Chrome and Firefox bro
 
 ## Updates
 
+- **October 22, 2026:** Stars 95,731 → 95,731, latest release browsers-v3.2.6 (October 22, 2026).
 - **October 20, 2026:** Stars 95,695 → 95,731, latest release puppeteer-core-v25.15.0 (October 20, 2026).
 - **October 15, 2026:** Stars 95,670 → 95,695, latest release browsers-v3.2.5 (October 14, 2026).
 - **October 8, 2026:** Stars 95,622 → 95,670, latest release browsers-v3.2.4 (October 8, 2026).
-- **September 27, 2026:** Stars 95,581 → 95,622, latest release browsers-v3.2.3 (September 23, 2026).
 
 ## What you get
 

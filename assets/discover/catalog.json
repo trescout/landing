@@ -10050,14 +10050,14 @@
     "slug": "mattermost",
     "title": "Mattermost",
     "tagline": "Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir…",
-    "meta": "★ 39.404",
+    "meta": "★ 39.406",
     "image": "/assets/discover/og/mattermost.webp",
     "source": "GitHub",
     "date": "2026-06-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 39404,
+    "stars": 39406,
     "lite": false,
     "headline": "Ekip içi güvenli iş birliği platformu",
     "cmds": {
@@ -10132,6 +10132,13 @@
         "yildiz": 39404,
         "onceki_yildiz": 39346,
         "surum": "v11.11.3",
+        "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 39406,
+        "onceki_yildiz": 39404,
+        "surum": "v12.0.1",
         "surum_tarihi": "2026-10-22"
       }
     ],
@@ -10507,14 +10514,14 @@
     "slug": "swc",
     "title": "SWC",
     "tagline": "Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor.",
-    "meta": "★ 34.204",
+    "meta": "★ 34.194",
     "image": "/assets/discover/og/swc.webp",
     "source": "GitHub",
     "date": "2026-06-14",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 34204,
+    "stars": 34194,
     "lite": false,
     "headline": "Web projelerinizi Rust hızında derleyin",
     "headline_locked": true,
@@ -10609,6 +10616,13 @@
         "onceki_yildiz": 34206,
         "surum": "v1.16.19-nightly-20261015.1",
         "surum_tarihi": "2026-10-15"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 34194,
+        "onceki_yildiz": 34204,
+        "surum": "v1.16.20",
+        "surum_tarihi": "2026-10-22"
       }
     ],
     "tagline_en": "Developed with the Rust language, SWC offers a fast compilation and bundling platform for web projects.",
@@ -11064,6 +11078,13 @@
         "onceki_yildiz": 95695,
         "surum": "puppeteer-core-v25.15.0",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 95731,
+        "onceki_yildiz": 95731,
+        "surum": "browsers-v3.2.6",
+        "surum_tarihi": "2026-10-22"
       }
     ],
     "tagline_en": "Puppeteer is a browser automation system used to control Chrome and Firefox browsers.",
@@ -17212,7 +17233,7 @@
     "slug": "ppt-master",
     "title": "Ppt Master",
     "tagline": "PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır.",
-    "meta": "★ 63.290 · Python",
+    "meta": "★ 65.779 · Python",
     "image": "/assets/discover/og/ppt-master.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -17220,7 +17241,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 63290,
+    "stars": 65779,
     "lite": false,
     "headline": "Belgeleri düzenlenebilir sunumlara dönüştüren yapay zekâ",
     "last_review": "2026-10-22",
@@ -17357,6 +17378,13 @@
         "onceki_yildiz": 62941,
         "surum": "v6.7.2",
         "surum_tarihi": "2026-10-17"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 65779,
+        "onceki_yildiz": 63290,
+        "surum": "v6.7.3",
+        "surum_tarihi": "2026-10-22"
       }
     ],
     "tagline_en": "PPT-Master is an AI-powered tool that converts documents directly into editable presentation files (PPTX).",
@@ -17511,7 +17539,7 @@
     "slug": "opencode",
     "title": "Opencode",
     "tagline": "OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).",
-    "meta": "★ 214.176 · TypeScript",
+    "meta": "★ 219.984 · TypeScript",
     "image": "/assets/discover/og/opencode.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -17519,7 +17547,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 214176,
+    "stars": 219984,
     "lite": false,
     "headline": "Açık kaynaklı yapay zekâ kodlama ajanı",
     "last_review": "2026-10-22",
@@ -17677,6 +17705,13 @@
         "onceki_yildiz": 214103,
         "surum": "v1.19.3",
         "surum_tarihi": "2026-10-16"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 219984,
+        "onceki_yildiz": 214176,
+        "surum": "v1.19.4",
+        "surum_tarihi": "2026-10-22"
       }
     ],
     "tagline_en": "OpenCode is an open source coding agent designed to automate software development processes.",
@@ -17989,14 +18024,14 @@
     "slug": "fluidvoice",
     "title": "FluidVoice",
     "tagline": "FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan hızlı bir sesli dikte (voice to text) uygulamasıdır.",
-    "meta": "★ 12.021 · Swift",
+    "meta": "★ 12.371 · Swift",
     "image": "/assets/discover/og/fluidvoice.webp",
     "source": "GitHub",
     "date": "2026-06-29",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12021,
+    "stars": 12371,
     "lite": false,
     "headline": "MacOS için gizlilik odaklı sesli dikte",
     "last_review": "2026-10-22",
@@ -18056,6 +18091,13 @@
         "onceki_yildiz": 11369,
         "surum": "v1.6.11",
         "surum_tarihi": "2026-10-12"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 12371,
+        "onceki_yildiz": 12021,
+        "surum": "v1.6.12",
+        "surum_tarihi": "2026-10-22"
       }
     ],
     "tagline_en": "FluidVoice is a fast voice to text application that works completely offline on the macOS operating system.",
@@ -22496,14 +22538,14 @@
     "slug": "bun",
     "title": "BUN",
     "tagline": "Bun, JavaScript çalışma zamanı (runtime), paket yöneticisi, test çalıştırıcı ve paketleyiciyi tek bir çatı altında toplayan…",
-    "meta": "★ 96.169 · Rust",
+    "meta": "★ 96.343 · Rust",
     "image": "/assets/discover/og/bun.webp",
     "source": "GitHub",
     "date": "2026-07-11",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 96169,
+    "stars": 96343,
     "lite": false,
     "headline": "JavaScript projeleri için hızlı çalışma zamanı",
     "last_review": "2026-10-22",
@@ -22542,6 +22584,13 @@
         "onceki_yildiz": 95887,
         "surum": "bun-v1.4.3",
         "surum_tarihi": "2026-10-10"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 96343,
+        "onceki_yildiz": 96169,
+        "surum": "bun-v1.4.4",
+        "surum_tarihi": "2026-10-22"
       }
     ],
     "tagline_en": "It brings together the JavaScript runtime, package manager, test runner and packager under one roof.",
@@ -26283,7 +26332,7 @@
     "slug": "wigolo",
     "title": "Wigolo",
     "tagline": "Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama, veri çekme ve tarama yetenekleri sunan bir araçtır.",
-    "meta": "★ 5.105 · TypeScript",
+    "meta": "★ 5.498 · TypeScript",
     "image": "/assets/discover/og/wigolo.webp",
     "source": "GitHub",
     "date": "2026-07-19",
@@ -26291,7 +26340,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5105,
+    "stars": 5498,
     "lite": false,
     "headline": "Yapay zekâ ajanınıza yerel web yetenekleri",
     "last_review": "2026-10-22",
@@ -26309,6 +26358,13 @@
         "onceki_yildiz": 4069,
         "surum": "v0.2.1",
         "surum_tarihi": "2026-07-19"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 5498,
+        "onceki_yildiz": 5105,
+        "surum": "v0.3.0",
+        "surum_tarihi": "2026-10-22"
       }
     ],
     "tagline_en": "Wigolo is a tool that provides local-first search, data extraction and crawling capabilities for artificial intelligence coding agents.",
@@ -38671,14 +38727,14 @@
     "slug": "ruflo",
     "title": "Ruflo",
     "tagline": "Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.",
-    "meta": "★ 78.309 · TypeScript",
+    "meta": "★ 78.347 · TypeScript",
     "image": "/assets/discover/og/ruflo.webp",
     "source": "GitHub",
     "date": "2026-08-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 78309,
+    "stars": 78347,
     "lite": false,
     "headline": "Yapay zekâ ajanları için orkestrasyon katmanı",
     "last_review": "2026-10-22",
@@ -38905,6 +38961,13 @@
         "yildiz": 78309,
         "onceki_yildiz": 78041,
         "surum": "v3.59.15",
+        "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 78347,
+        "onceki_yildiz": 78309,
+        "surum": "v3.59.16",
         "surum_tarihi": "2026-10-22"
       }
     ],
@@ -43562,14 +43625,14 @@
     "slug": "typewords",
     "title": "TypeWords",
     "tagline": "TypeWords, Vue tabanlı arayüzüyle kullanıcıların klavye hızlarını geliştirirken aynı zamanda İngilizce pratik yapmalarını…",
-    "meta": "★ 9.518 · Vue",
+    "meta": "★ 10.519 · Vue",
     "image": "/assets/discover/og/typewords.webp",
     "source": "GitHub",
     "date": "2026-09-03",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 9518,
+    "stars": 10519,
     "summary": "TypeWords, Vue tabanlı arayüzüyle kullanıcıların klavye hızlarını geliştirirken aynı zamanda İngilizce pratik yapmalarını sağlayan bir yazım egzersizi aracıdır. Yazılım, her tuş vuruşunu bir öğrenme adımına dönüştürerek dil becerilerini oyunlaştırma yoluyla destekler.",
     "lite": false,
     "headline": "Klavye hızınızla İngilizce kelimeleri ezberleyin",
@@ -43583,6 +43646,11 @@
         "onceki_yildiz": 9516,
         "surum": "v3.0.7",
         "surum_tarihi": "2026-06-17"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 10519,
+        "onceki_yildiz": 9518
       }
     ],
     "tagline_en": "TypeWords is a tool with a Vue-based interface that allows users to improve their typing speed while simultaneously practicing English...",
@@ -47858,7 +47926,7 @@
     "slug": "univer",
     "title": "Univer",
     "tagline": "Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı…",
-    "meta": "★ 22.650",
+    "meta": "★ 22.717",
     "image": "/assets/discover/og/univer.webp",
     "source": "GitHub",
     "date": "2026-09-23",
@@ -47866,7 +47934,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 22650,
+    "stars": 22717,
     "summary": "Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı bir platformdur. Yapay zekâ ajanlarının (AI agents) ofis yazılımlarıyla etkileşimini kolaylaştırmak için tasarlanmış modüler bir yapı sunar.",
     "lite": false,
     "headline": "Açık kaynaklı ofis araçları seti",
@@ -47910,6 +47978,13 @@
         "onceki_yildiz": 22527,
         "surum": "v1.1.0",
         "surum_tarihi": "2026-10-17"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 22717,
+        "onceki_yildiz": 22650,
+        "surum": "v1.2.0",
+        "surum_tarihi": "2026-10-22"
       }
     ],
     "last_review": "2026-10-22",
@@ -48496,14 +48571,14 @@
     "slug": "vscode",
     "title": "Vscode",
     "tagline": "Microsoft tarafından geliştirilen Visual Studio Code, yazılım geliştirme süreçlerini hızlandıran açık kaynaklı bir kod…",
-    "meta": "★ 193.634 · TypeScript",
+    "meta": "★ 194.203 · TypeScript",
     "image": "/assets/discover/og/vscode.webp",
     "source": "GitHub",
     "date": "2026-09-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 193634,
+    "stars": 194203,
     "last_seen": "2026-09-27",
     "summary": "Microsoft tarafından geliştirilen Visual Studio Code, yazılım geliştirme süreçlerini hızlandıran açık kaynaklı bir kod düzenleyici (code editor). TypeScript ile yazılan bu araç, geniş eklenti desteği sayesinde farklı programlama dilleri ve platformlar için özelleştirilebilir bir çalışma ortamı sunuyor.",
     "lite": false,
@@ -48546,6 +48621,13 @@
         "onceki_yildiz": 193773,
         "surum": "1.142.0",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 194203,
+        "onceki_yildiz": 193634,
+        "surum": "1.143.0",
+        "surum_tarihi": "2026-10-22"
       }
     ],
     "tagline_en": "Developed by Microsoft, Visual Studio Code is an open-source code...",
@@ -48678,6 +48760,13 @@
         "onceki_yildiz": 13508,
         "surum": "ubuntu26-arm64/20261018.155",
         "surum_tarihi": "2026-10-19"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 13514,
+        "onceki_yildiz": 13514,
+        "surum": "ubuntu-slim/20261021.31",
+        "surum_tarihi": "2026-10-21"
       }
     ],
     "tagline_en": "GitHub Actions runner images are part of the GitHub Actions platform, which automates software development processes...",
@@ -49421,7 +49510,7 @@
     "slug": "openclaw",
     "title": "Openclaw",
     "tagline": "Openclaw, farklı işletim sistemlerinde ve platformlarda görevleri yerine getirebilen yapay zekâ tabanlı bir otomasyon aracıdır.",
-    "meta": "★ 392.439 · TypeScript",
+    "meta": "★ 392.750 · TypeScript",
     "image": "/assets/discover/og/openclaw.webp",
     "source": "GitHub",
     "date": "2026-10-01",
@@ -49429,7 +49518,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 392439,
+    "stars": 392750,
     "last_seen": "2026-10-01",
     "summary": "Openclaw, farklı işletim sistemlerinde ve platformlarda görevleri yerine getirebilen yapay zekâ tabanlı bir otomasyon aracıdır. TypeScript ile geliştirilen bu yazılım, kullanıcıların bilgisayar üzerindeki işlemleri standartlaştırmasını ve otomatize etmesini sağlar.",
     "lite": false,
@@ -49491,6 +49580,13 @@
         "onceki_yildiz": 392146,
         "surum": "v2026.10.5",
         "surum_tarihi": "2026-10-18"
+      },
+      {
+        "tarih": "2026-10-22",
+        "yildiz": 392750,
+        "onceki_yildiz": 392439,
+        "surum": "v2026.10.6",
+        "surum_tarihi": "2026-10-22"
       }
     ],
     "tagline_en": "Openclaw is an AI-based automation tool that can perform tasks across different operating systems and platforms.",

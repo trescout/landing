@@ -9,10 +9,10 @@ Puppeteer ist eine Browser-Automatisierungsbibliothek zur Steuerung von Chrome- 
 
 ## Aktualisierungen
 
+- **22. Oktober 2026:** Sterne 95,731 → 95,731, neueste Version browsers-v3.2.6 (22. Oktober 2026).
 - **20. Oktober 2026:** Sterne 95,695 → 95,731, neueste Version puppeteer-core-v25.15.0 (20. Oktober 2026).
 - **15. Oktober 2026:** Sterne 95,670 → 95,695, neueste Version browsers-v3.2.5 (14. Oktober 2026).
 - **8. Oktober 2026:** Sterne 95,622 → 95,670, neueste Version browsers-v3.2.4 (8. Oktober 2026).
-- **27. September 2026:** Sterne 95,581 → 95,622, neueste Version browsers-v3.2.3 (23. September 2026).
 
 ## Was es bringt
 

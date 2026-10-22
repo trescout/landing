@@ -41,8 +41,8 @@ It does most standard tasks well, but still requires human control in very compl
 
 ## Related tools
 
-- [Andrej Karpathy Skills](https://trescout.com/en/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/en/discover/opencode/)
+- [Andrej Karpathy Skills](https://trescout.com/en/discover/andrej-karpathy-skills/)
 - [Openinterpreter](https://trescout.com/en/discover/openinterpreter/)
 - [Oh My Pi](https://trescout.com/en/discover/oh-my-pi/)
 - [Continue](https://trescout.com/en/discover/continue/)

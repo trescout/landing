@@ -8,10 +8,10 @@ Las imágenes de ejecutores (runner images) de GitHub Actions albergan los entor
 
 ## Actualizaciones
 
+- **22 de octubre de 2026:** Estrellas 13,514 → 13,514, última versión ubuntu-slim/20261021.31 (21 de octubre de 2026).
 - **22 de octubre de 2026:** Estrellas 13,508 → 13,514, última versión ubuntu26-arm64/20261018.155 (19 de octubre de 2026).
 - **21 de octubre de 2026:** Estrellas 13,481 → 13,508, última versión ubuntu-slim/20261018.28 (19 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 13,480 → 13,481, última versión win25/20261013.288 (14 de octubre de 2026).
-- **16 de octubre de 2026:** Estrellas 13,457 → 13,480, última versión ubuntu-slim/20261012.23 (13 de octubre de 2026).
 
 ## Qué aporta
 

@@ -2,17 +2,17 @@
 
 Mattermost ist eine Open-Source-Plattform, die eine sichere Zusammenarbeit während des gesamten Softwareentwicklungslebenszyklus ermöglicht. Es ermöglicht Softwareteams, ihre Kommunikationsprozesse über eine zentrale Struktur zu verwalten.
 
-- ★ 39.404
+- ★ 39.406
 - GitHub Trending · 2026-06-12
 
 **Hinweis von TreScout:** Team-Messaging-Tool. Der Unterschied zu vorgefertigten Diensten besteht darin, dass es auf Ihrem eigenen Server läuft und die Korrespondenz bei Ihnen bleibt. Der Befehl auf der Seite ist eine Testinstallation, im realen Einsatz wird er mit einer separaten Datenbank installiert. Für Telefonbenachrichtigungen sind zusätzliche Einstellungen erforderlich. Überprüfen Sie diese, bevor Sie sich an das Team wenden.
 
 ## Aktualisierungen
 
+- **22. Oktober 2026:** Sterne 39,404 → 39,406, neueste Version v12.0.1 (22. Oktober 2026).
 - **22. Oktober 2026:** Sterne 39,346 → 39,404, neueste Version v11.11.3 (22. Oktober 2026).
 - **16. Oktober 2026:** Sterne 39,196 → 39,346, neueste Version v12.0.0 (14. Oktober 2026).
 - **27. September 2026:** Sterne 39,071 → 39,196, neueste Version v11.11.1 (24. September 2026).
-- **16. September 2026:** Sterne 39,062 → 39,071, neueste Version v11.11.0 (7. September 2026).
 
 ## Was es bringt
 

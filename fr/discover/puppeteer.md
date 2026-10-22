@@ -9,10 +9,10 @@ Puppeteer est une bibliothèque d'automatisation de navigateur utilisée pour co
 
 ## Mises à jour
 
+- **22 octobre 2026:** Étoiles 95,731 → 95,731, dernière version browsers-v3.2.6 (22 octobre 2026).
 - **20 octobre 2026:** Étoiles 95,695 → 95,731, dernière version puppeteer-core-v25.15.0 (20 octobre 2026).
 - **15 octobre 2026:** Étoiles 95,670 → 95,695, dernière version browsers-v3.2.5 (14 octobre 2026).
 - **8 octobre 2026:** Étoiles 95,622 → 95,670, dernière version browsers-v3.2.4 (8 octobre 2026).
-- **27 septembre 2026:** Étoiles 95,581 → 95,622, dernière version browsers-v3.2.3 (23 septembre 2026).
 
 ## Ce que ça vous apporte
 

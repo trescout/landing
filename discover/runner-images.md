@@ -8,10 +8,10 @@ GitHub Actions runner görüntüleri (runner images), yazılım geliştirme sür
 
 ## Güncelleme
 
+- **22 Ekim 2026:** Yıldız 13.514 → 13.514, son sürüm ubuntu-slim/20261021.31 (21 Ekim 2026).
 - **22 Ekim 2026:** Yıldız 13.508 → 13.514, son sürüm ubuntu26-arm64/20261018.155 (19 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 13.481 → 13.508, son sürüm ubuntu-slim/20261018.28 (19 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 13.480 → 13.481, son sürüm win25/20261013.288 (14 Ekim 2026).
-- **16 Ekim 2026:** Yıldız 13.457 → 13.480, son sürüm ubuntu-slim/20261012.23 (13 Ekim 2026).
 
 ## Ne kazandırır?
 
