@@ -69,7 +69,7 @@ Uzmanlık gerektiren teknik konularda, "uzman yazılımcıya soruyormuş gibi" s
 
 Çıktı: somut kod / değişiklik, PR'a eklenir.
 
-**Standart skill bundle:** Tekrarlanan iş akışları `.claude/skills/<id>.md` olarak tanımlanır · agent context'e göre otomatik tetikler. Bu repoda mevcut skills: [`.claude/skills/README.md`](.claude/skills/README.md). Tam kit kütüphanesi (3 kategoride 16 skill): [trescout-kit canonical](https://github.com/burhanarikan/trescout-kit).
+**Standart skill bundle:** Tekrarlanan iş akışları `.claude/skills/<id>.md` olarak tanımlanır · agent context'e göre otomatik tetikler. Bu repoda mevcut skills: [`.claude/skills/README.md`](.claude/skills/README.md). Tam kit kütüphanesi (3 kategoride 16 skill): [trescout-kit canonical](https://github.com/trescout/trescout-kit).
 
 ### 3.c. Claude · denetimci
 

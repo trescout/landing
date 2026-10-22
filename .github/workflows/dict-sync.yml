@@ -11,7 +11,9 @@ on:
     # 07:20 UTC · Gemini ücretsiz kotası Pasifik gece yarısında (07:00 UTC)
     # sıfırlanıyor. Rapor 04:17 UTC'ye alınınca (app#90) push tetiklemesi
     # sıfırlamadan önceye düştü; ağır günlük iş taze kotayla bu koşuda yapılır.
-    - cron: '20 7 * * *'
+    # 2026-10-22 devir: GitHub zamanlanmış koşu hata e-postasını cron satırını son
+    # değiştirene yollar. Dakika bu yüzden 1 kaydı. Bu değişikliği yeni sahip birleştirir.
+    - cron: '21 7 * * *'
   workflow_dispatch:
     inputs:
       reprocess_slugs:

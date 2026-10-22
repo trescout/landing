@@ -1,6 +1,6 @@
 # Skills · TreScout Landing
 
-> trescout-kit v0.7.0'dan propagate edildi. Tam skill kütüphanesi (3 kategoride 16 skill) ve format detayı için: [github.com/burhanarikan/trescout-kit](https://github.com/burhanarikan/trescout-kit)
+> trescout-kit v0.7.0'dan propagate edildi. Tam skill kütüphanesi (3 kategoride 16 skill) ve format detayı için: [github.com/trescout/trescout-kit](https://github.com/trescout/trescout-kit)
 
 ## Bu repoda mevcut skills
 

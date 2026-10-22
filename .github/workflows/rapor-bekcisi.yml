@@ -10,7 +10,9 @@ on:
     branches: [main]
     paths: ['reports/trescout-rapor-2*.json']
   schedule:
-    - cron: '0 14 * * *'   # 17:00 TR · rapor olağan 12:00-13:00 TR arası yayınlanır
+    # 2026-10-22 devir: GitHub zamanlanmış koşu hata e-postasını cron satırını son
+    # değiştirene yollar. Dakika bu yüzden 1 kaydı. Bu değişikliği yeni sahip birleştirir.
+    - cron: '1 14 * * *'   # 17:00 TR · rapor olağan 12:00-13:00 TR arası yayınlanır
   workflow_dispatch:
     inputs:
       tarih:
