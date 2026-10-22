@@ -1,0 +1,482 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-22",
+  "capturedAt": "2026-10-22T09:25:52.859Z",
+  "editorial": "Die in den Bericht aufgenommenen Inhalte werden 30 Tage lang nicht wiederholt. Nach Ablauf dieses Zeitraums werden Einträge, die weiterhin aktuell bleiben, erneut mit dem Label \"wieder aktuell\" aufgelistet.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "Das von Cloudflare entwickelte security-audit-skill ist eine Coding-Agent-Fähigkeit, die für mehrstufige Sicherheitsaudits konzipiert wurde. Es zielt darauf ab, Sicherheitsüberprüfungen in Softwareentwicklungsprozessen zu standardisieren, indem es maschinenlesbare und unabhängig verifizierte Ergebnisse liefert.",
+          "meta": "JavaScript · ★ 37.749 · +2.012 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 37749,
+              "engagementCount": 2012,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2012
+              }
+            },
+            "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+          }
+        },
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "DietrichGebert/ponytail ist ein JavaScript-Projekt, das den Codierungsprozess von KI-Agenten minimiert und sie dazu anleitet, sich wie der faulste Senior-Entwickler zu verhalten. Indem es das Prinzip verfolgt, dass nicht geschriebener Code der beste Code ist, zielt es darauf ab, die Effizienz in Entwicklungsprozessen mit einem anderen Ansatz zu betrachten.",
+          "meta": "JavaScript · ★ 172.377 · +2.079 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 172377,
+              "engagementCount": 2079,
+              "rank": 5,
+              "extra": {
+                "starsToday": 2079
+              }
+            },
+            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+          }
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "Supabase ist eine Entwicklungsplattform, die eine dedizierte Postgres-Datenbank für die Entwicklung von Web-, Mobil- und KI-Anwendungen bietet. Dieses in TypeScript geschriebene Projekt zielt darauf ab, die Datenbankverwaltung und die Anwendungsentwicklung zu vereinfachen.",
+          "meta": "TypeScript · ★ 113.222 · +504 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "supabase/supabase",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 113222,
+              "engagementCount": 504,
+              "rank": 7,
+              "extra": {
+                "starsToday": 504
+              }
+            },
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+          }
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty bietet eine Open-Source-Alternative zur Customer-Relationship-Management-Software Salesforce. Diese Plattform wird mit einem Fokus auf KI-Integration entwickelt.",
+          "meta": "TypeScript · ★ 59.448 · +112 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "twentyhq/twenty",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 59448,
+              "engagementCount": 112,
+              "rank": 8,
+              "extra": {
+                "starsToday": 112
+              }
+            },
+            "description": "The open alternative to Salesforce, designed for AI."
+          }
+        },
+        {
+          "title": "strelov1/freehire",
+          "url": "https://github.com/strelov1/freehire",
+          "summary": "Das in Go entwickelte freehire ist eine Open-Source-Suchmaschine (deren Quellcode für jeden zugänglich und zur Weiterentwicklung offen ist), die für Arbeitssuchende konzipiert wurde. Sie bietet eine Plattform, die es Benutzern ermöglicht, Stellenanzeigen zu durchsuchen und zu finden.",
+          "meta": "Go · ★ 2.643 · +360 heute",
+          "snapshot": {
+            "sourceId": "strelov1/freehire",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 2643,
+              "engagementCount": 360,
+              "rank": 10,
+              "extra": {
+                "starsToday": 360
+              }
+            },
+            "description": "freehire — the open-source search engine for job seekers"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "PHP 8.2.35",
+          "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+          "summary": "PHP 8.2.35 ist ein neues Sicherheitsupdate für PHP, eine serverseitige Skriptsprache. Diese Version wurde den Nutzern als Teil der laufenden Bemühungen zur Verbesserung der allgemeinen Sicherheit der Software zur Verfügung gestellt.",
+          "meta": "1.029 Punkte · 545 Kommentare",
+          "snapshot": {
+            "sourceId": "50180873",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 1029,
+              "engagementCount": 545,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50180873",
+                  "popularity": 1029,
+                  "engagementCount": 545
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-21T13:45:33Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50180873"
+              }
+            },
+            "description": "Related ongoing thread: Today&#x27;s PHP security release, and how we&#x27;re strengthening security - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50182987"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50180873",
+              "popularity": 1029,
+              "engagementCount": 545
+            }
+          ]
+        },
+        {
+          "title": "Today's PHP security release, and how we're strengthening security",
+          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "summary": "Die PHP Foundation hat das mit PHP 8.2.35 veröffentlichte Sicherheitsupdate angekündigt und ihre neuen Strategien zur Erhöhung der allgemeinen Softwaresicherheit geteilt. Diese Arbeit zielt darauf ab, Sicherheitslücken in PHP, einer serverseitigen Skriptsprache, zu schließen und die Verteidigungsmechanismen zu stärken.",
+          "meta": "731 Punkte · 362 Kommentare",
+          "snapshot": {
+            "sourceId": "50182987",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 731,
+              "engagementCount": 362,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50182987",
+                  "popularity": 731,
+                  "engagementCount": 362
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-21T15:48:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50182987"
+              }
+            },
+            "description": "Related ongoing thread: PHP 8.2.35 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50180873(links to more at https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50184935)"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50182987",
+              "popularity": 731,
+              "engagementCount": 362
+            }
+          ]
+        },
+        {
+          "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+          "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+          "summary": "Der Bundesstaat New Mexico hat im Rahmen des Cambridge-Analytica-Verfahrens das Social-Media-Unternehmen Meta zur Zahlung einer Strafe von 25 Milliarden Dollar verurteilt. Die Entscheidung ist das Ergebnis eines rechtlichen Prozesses bezüglich der Praktiken des Unternehmens im Umgang mit dem Datenschutz und der Sicherheit von Nutzerdaten.",
+          "meta": "543 Punkte · 325 Kommentare",
+          "snapshot": {
+            "sourceId": "50184820",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 543,
+              "engagementCount": 325,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50184820",
+                  "popularity": 543,
+                  "engagementCount": 325
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-21T17:45:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50184820"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50184820",
+              "popularity": 543,
+              "engagementCount": 325
+            }
+          ]
+        },
+        {
+          "title": "There isn't an easy exploit for this PHP vulnerability",
+          "url": "https://eliastaylor.com/noexploit/",
+          "summary": "Es wird darauf hingewiesen, dass eine Sicherheitslücke in PHP entgegen der weitläufigen Meinung keine Struktur aufweist, die leicht ausgenutzt (exploit) werden kann. Durch die Untersuchung der technischen Details der betreffenden Schwachstelle wird erklärt, warum es für Angreifer schwierig ist, diese Lücke zu nutzen.",
+          "meta": "513 Punkte · 308 Kommentare",
+          "snapshot": {
+            "sourceId": "50188948",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 513,
+              "engagementCount": 308,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50188948",
+                  "popularity": 513,
+                  "engagementCount": 308
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-21T23:13:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50188948"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50188948",
+              "popularity": 513,
+              "engagementCount": 308
+            }
+          ]
+        },
+        {
+          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+          "summary": "Die Version 1.107.0 von LiteLLM wurde im Python-Paket-Index PyPI durch einen schädlichen Code ersetzt, der Anmeldedaten stiehlt und eine Hintertür (Backdoor) enthält. LiteLLM, eine Bibliothek, die Softwareentwickler zur Integration von Sprachmodellen verwenden, hat durch diesen Sicherheitsverstoß Nutzerdaten gefährdet.",
+          "meta": "508 Punkte · 168 Kommentare",
+          "snapshot": {
+            "sourceId": "50181114",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 508,
+              "engagementCount": 168,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50181114",
+                  "popularity": 508,
+                  "engagementCount": 168
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-21T14:00:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50181114"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50181114",
+              "popularity": 508,
+              "engagementCount": 168
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "OpenMOSS-Team/MOSS-Image-SFT",
+          "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+          "summary": "OpenMOSS-Team/MOSS-Image-SFT ist ein KI-Modell mit der Fähigkeit zur Text-zu-Bild-Generierung (Text-to-Image). Dieses auf der Hugging-Face-Plattform veröffentlichte Modell wurde entwickelt, um textbasierte Befehle in visuelle Ausgaben umzuwandeln.",
+          "meta": "♥ 545 · 5.840 Downloads",
+          "snapshot": {
+            "sourceId": "OpenMOSS-Team/MOSS-Image-SFT",
+            "capturedAt": "2026-10-22T09:25:52.941Z",
+            "metadata": {
+              "popularity": 545,
+              "engagementCount": 5840,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 505,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "moss-image",
+                  "text-to-image",
+                  "en",
+                  "zh",
+                  "arxiv:2610.23374",
+                  "base_model:OpenMOSS-Team/MOSS-Image-Base",
+                  "base_model:finetune:OpenMOSS-Team/MOSS-Image-Base",
+                  "license:apache-2.0",
+                  "diffusers:MOSSImagePipeline",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-image model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
+          "url": "https://huggingface.co/papers/2610.26659",
+          "summary": "SpatialScout ist ein Benchmark-Tool, das die Fähigkeiten von Vision-Language-Modellen misst, dreidimensionale Szenen durch aktive Exploration abzubilden und räumliche Intelligenz auf Objektebene zu demonstrieren. Diese Studie, die achtzig verschiedene Innenraumszenen umfasst, zielt darauf ab zu bewerten, ob Modelle in der Lage sind, während autonomer Explorationsprozesse eine konsistente Repräsentation der Welt zu erstellen.",
+          "meta": "50 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.26659",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 50,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26659",
+                "publishedAt": "2026-10-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/JesseZZZZZ/SpatialScout",
+                "githubStars": 2
+              }
+            },
+            "description": "Spatial intelligence requires agents to actively acquire visual evidence and integrate observations into a coherent representation of the three-dimensional world. Yet spatial question answering offers limited evidence of whether models can construct accurate metric maps through autonomous exploration. We introduce SpatialScout, a benchmark for evaluating vision-language model (VLM) agents on active object-level 3D mapping. SpatialScout comprises 80 diverse indoor scenes containing 3,140 target o"
+          }
+        },
+        {
+          "title": "From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation",
+          "url": "https://huggingface.co/papers/2610.29560",
+          "summary": "Vision-Language-Action-Modelle liefern erfolgreiche Ergebnisse bei robotischen Manipulationsaufgaben, indem sie Prozesse des visuellen Verständnisses und der Aktionsgenerierung kombinieren. Dieser Artikel schlägt selbstverbessernde Systeme vor, um Abhängigkeiten basierend auf vergangenen Interaktionen bei langfristigen Aufgaben zu verwalten und Ausführungsfehler zu reduzieren.",
+          "meta": "5 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.29560",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.29560",
+                "publishedAt": "2026-10-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/StevenKKXS/SERA",
+                "githubStars": 2
+              }
+            },
+            "description": "Vision-language-action (VLA) models achieve strong performance across embodied manipulation tasks by unifying visual understanding, language conditioning, and action generation. However, long-horizon tasks can involve non-Markovian dependencies: successful decisions may require retaining task progress and past interaction outcomes, while partial observability and execution errors compound over time. Existing work has begun to address these challenges by augmenting foundation-model policies with "
+          }
+        },
+        {
+          "title": "CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction",
+          "url": "https://huggingface.co/papers/2610.13177",
+          "summary": "CompactSplat ist eine Methode, die dreidimensionale Szenen aus spärlichen Bildern rekonstruiert und eine räumlich adaptive Gauß-Verteilung (spatially adaptive Gaussian distribution) verwendet, anstatt eine gleichmäßige Verteilung auf jedes Pixel anzuwenden. Dieser Ansatz zielt darauf ab, die geometrische Genauigkeit und Texturdetails zu verbessern, ohne eine szenenbasierte Optimierung zu erfordern.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.13177",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.13177",
+                "publishedAt": "2026-10-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/hebing-sjtu/CompactSplat",
+                "githubStars": 1
+              }
+            },
+            "description": "Reconstructing 3D scenes from sparse views without per-scene optimization remains highly challenging, especially for recovering accurate geometry and fine textures. While recent feedforward approaches leverage generalizable 3D Gaussian Splatting (3DGS) for scene generation, they typically assign one or multiple Gaussians to each pixel. Such uniform allocation not only produces highly redundant representations by wasting primitives in homogeneous areas, but also fails to exploit the inherent geom"
+          }
+        },
+        {
+          "title": "Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents",
+          "url": "https://huggingface.co/papers/2610.11942",
+          "summary": "Der auf Hugging Face veröffentlichte Artikel argumentiert, dass die Sicherheitsüberprüfung für Agenten mit grafischer Benutzeroberfläche (GUI) sich nicht nur auf den Screenshot konzentrieren sollte, sondern auf den erwarteten Übergangsprozess nach der durchgeführten Aktion. Er zielt darauf ab, Sicherheitslücken bei Schnittstelleninteraktionen zu identifizieren, indem die Ausgaben bestehender Weltmodelle (world models) aus Formaten wie Text oder Code in Verifizierungsprozesse integriert werden.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.11942",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11942",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/jiamingzhang94/lgwm",
+                "githubStars": 1
+              }
+            },
+            "description": "A login screen that appears after a tap on Sign in is expected; the same screen after a tap on View order is an attack. For GUI agents, safety is therefore a property of the transition rather than of the screen, and a monitor that inspects only screens can be defeated by reusing a legitimate one. Judging a transition requires an expectation of what should have followed the action. Existing GUI world models provide one, but they output it as text, code, or images, so checking it against the obser"
+          }
+        },
+        {
+          "title": "PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States",
+          "url": "https://huggingface.co/papers/2610.29545",
+          "summary": "PACE, das auf Hugging Face geteilt wurde, ist eine Methode, die rekursive Zustände (recurrent states) in Sprachmodellen auf Basis linearer Aufmerksamkeit (linear-attention) mit einer Genauigkeit von vier Bit kodiert. Diese Technik reduziert den Speicherverbrauch während der Inferenz und ermöglicht die gleichzeitige Verarbeitung von mehr Sequenzen.",
+          "meta": "9 Likes · 3 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.29545",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.29545",
+                "publishedAt": "2026-10-21T00:00:00.000Z"
+              }
+            },
+            "description": "Linear-attention language models keep their context in a recurrent state of fixed size, where an inference system stores one copy of this state for every sequence it decodes at the same time. Storing the state at lower precision therefore lets more sequences share an accelerator. Existing state quantizers round the state after every generated token and report that four bits lose accuracy unless the bit width is raised or the model is fine-tuned.\\par We introduce PACE, a post-hoc four-bit state q"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coding-agent skill",
+      "explanation": "Ein von Cloudflare entwickeltes spezielles Fähigkeitsmodul, das zur automatischen Durchführung von Software-Sicherheitsaudits verwendet wird."
+    },
+    {
+      "term": "LLM",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden und menschliche Sprache verstehen sowie Text generieren können."
+    },
+    {
+      "term": "skill",
+      "explanation": "Eine spezialisierte Fähigkeit oder ein Plugin, das KI-Agenten verwenden, um eine bestimmte Aufgabe zu erfüllen."
+    },
+    {
+      "term": "exploit",
+      "explanation": "Eine Methode, die verwendet wird, um eine Sicherheitslücke in einer Software oder einem System auszunutzen, um die Kontrolle zu übernehmen oder Fehlfunktionen zu verursachen."
+    },
+    {
+      "term": "backdoor",
+      "explanation": "Ein schädlicher Code, der heimlich in eine Software eingeschleust wird und Sicherheitsmaßnahmen des Systems umgeht, um unbefugten Zugriff zu ermöglichen."
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-22",
+  "capturedAt": "2026-10-22T09:25:52.859Z",
+  "editorial": "Rapora dahil edilen içerikler 30 gün boyunca tekrarlanmaz. Bu sürenin sonunda gündemde kalmaya devam eden kayıtlar, \"yeniden gündemde\" etiketiyle tekrar listelenir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "Cloudflare tarafından geliştirilen security-audit-skill, çok aşamalı güvenlik denetimleri için tasarlanmış bir kodlama ajanı yeteneğidir (coding-agent skill). Makine tarafından okunabilen ve bağımsız olarak doğrulanmış bulgular sunarak yazılım geliştirme süreçlerinde güvenlik denetimlerini standartlaştırmayı amaçlar.",
+          "meta": "JavaScript · ★ 37.749 · +2.012 bugün",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 37749,
+              "engagementCount": 2012,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2012
+              }
+            },
+            "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+          },
+          "returning": true,
+          "streakDays": 2
+        },
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "DietrichGebert/ponytail, yapay zekâ ajanlarının kod yazma sürecini en aza indirerek onları en tembel kıdemli yazılımcı gibi davranmaya yönlendiren bir JavaScript projesidir. Yazılmayan kodun en iyi kod olduğu prensibini benimseyerek geliştirme süreçlerinde verimliliği farklı bir yaklaşımla ele almayı hedefler.",
+          "meta": "JavaScript · ★ 172.377 · +2.079 bugün",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 172377,
+              "engagementCount": 2079,
+              "rank": 5,
+              "extra": {
+                "starsToday": 2079
+              }
+            },
+            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+          },
+          "returning": true,
+          "streakDays": 2
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için özel bir Postgres veritabanı sunan bir geliştirme platformudur. TypeScript diliyle yazılan bu proje, veritabanı yönetimi ve uygulama geliştirme süreçlerini kolaylaştırmayı amaçlar.",
+          "meta": "TypeScript · ★ 113.222 · +504 bugün",
+          "snapshot": {
+            "sourceId": "supabase/supabase",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 113222,
+              "engagementCount": 504,
+              "rank": 7,
+              "extra": {
+                "starsToday": 504
+              }
+            },
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+          },
+          "returning": true
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "Twenty, müşteri ilişkileri yönetimi yazılımı Salesforce'a açık kaynaklı bir alternatif sunuyor. Bu platform, yapay zekâ entegrasyonuna odaklanarak geliştiriliyor.",
+          "meta": "TypeScript · ★ 59.448 · +112 bugün",
+          "snapshot": {
+            "sourceId": "twentyhq/twenty",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 59448,
+              "engagementCount": 112,
+              "rank": 8,
+              "extra": {
+                "starsToday": 112
+              }
+            },
+            "description": "The open alternative to Salesforce, designed for AI."
+          },
+          "returning": true
+        },
+        {
+          "title": "strelov1/freehire",
+          "url": "https://github.com/strelov1/freehire",
+          "summary": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir arama motorudur. Kullanıcıların iş ilanlarını taramasına ve bulmasına olanak tanıyan bir platform sunar.",
+          "meta": "Go · ★ 2.643 · +360 bugün",
+          "snapshot": {
+            "sourceId": "strelov1/freehire",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 2643,
+              "engagementCount": 360,
+              "rank": 10,
+              "extra": {
+                "starsToday": 360
+              }
+            },
+            "description": "freehire — the open-source search engine for job seekers"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "PHP 8.2.35",
+          "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+          "summary": "PHP 8.2.35, sunucu taraflı bir betik dili olan PHP için yayınlanan yeni bir güvenlik güncellemesidir. Bu sürüm, yazılımın genel güvenliğini artırmaya yönelik devam eden çalışmaların bir parçası olarak kullanıcılara sunulmuştur.",
+          "meta": "1.029 oy · 545 yorum",
+          "snapshot": {
+            "sourceId": "50180873",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 1029,
+              "engagementCount": 545,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50180873",
+                  "popularity": 1029,
+                  "engagementCount": 545
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-21T13:45:33Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50180873"
+              }
+            },
+            "description": "Related ongoing thread: Today&#x27;s PHP security release, and how we&#x27;re strengthening security - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50182987"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50180873",
+              "popularity": 1029,
+              "engagementCount": 545
+            }
+          ]
+        },
+        {
+          "title": "Today's PHP security release, and how we're strengthening security",
+          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "summary": "PHP Foundation, PHP 8.2.35 sürümüyle birlikte gelen güvenlik güncellemesini duyurarak yazılımın genel güvenliğini artırmaya yönelik yeni stratejilerini paylaştı. Bu çalışma, sunucu taraflı bir betik dili olan PHP için güvenlik açıklarını gidermeyi ve savunma mekanizmalarını güçlendirmeyi hedefliyor.",
+          "meta": "731 oy · 362 yorum",
+          "snapshot": {
+            "sourceId": "50182987",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 731,
+              "engagementCount": 362,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50182987",
+                  "popularity": 731,
+                  "engagementCount": 362
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-21T15:48:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50182987"
+              }
+            },
+            "description": "Related ongoing thread: PHP 8.2.35 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50180873(links to more at https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50184935)"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50182987",
+              "popularity": 731,
+              "engagementCount": 362
+            }
+          ]
+        },
+        {
+          "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+          "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+          "summary": "New Mexico eyaleti, Cambridge Analytica davası kapsamında sosyal medya şirketi Meta'nın 25 milyar dolar ceza ödemesine hükmetti. Karar, şirketin kullanıcı verilerinin gizliliği ve güvenliği konusundaki uygulamalarıyla ilgili hukuki sürecin bir sonucu olarak ortaya çıktı.",
+          "meta": "543 oy · 325 yorum",
+          "snapshot": {
+            "sourceId": "50184820",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 543,
+              "engagementCount": 325,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50184820",
+                  "popularity": 543,
+                  "engagementCount": 325
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-21T17:45:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50184820"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50184820",
+              "popularity": 543,
+              "engagementCount": 325
+            }
+          ]
+        },
+        {
+          "title": "There isn't an easy exploit for this PHP vulnerability",
+          "url": "https://eliastaylor.com/noexploit/",
+          "summary": "PHP üzerindeki bir güvenlik açığının, yaygın kanının aksine kolayca istismar edilebilecek (exploit) bir yapıya sahip olmadığı belirtiliyor. Söz konusu güvenlik zafiyetinin teknik detayları incelenerek, saldırganların bu açığı kullanmasının neden zor olduğu açıklanıyor.",
+          "meta": "513 oy · 308 yorum",
+          "snapshot": {
+            "sourceId": "50188948",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 513,
+              "engagementCount": 308,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50188948",
+                  "popularity": 513,
+                  "engagementCount": 308
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-21T23:13:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50188948"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50188948",
+              "popularity": 513,
+              "engagementCount": 308
+            }
+          ]
+        },
+        {
+          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+          "summary": "LiteLLM 1.107.0 sürümü, Python paket dizini PyPI üzerinde kimlik bilgisi hırsızlığı yapan ve arka kapı (backdoor) içeren zararlı bir kodla değiştirildi. Yazılım geliştiricilerin dil modellerini birleştirmek için kullandığı kütüphane LiteLLM, bu güvenlik ihlaliyle kullanıcı verilerini tehlikeye attı.",
+          "meta": "508 oy · 168 yorum",
+          "snapshot": {
+            "sourceId": "50181114",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 508,
+              "engagementCount": 168,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50181114",
+                  "popularity": 508,
+                  "engagementCount": 168
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-21T14:00:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50181114"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50181114",
+              "popularity": 508,
+              "engagementCount": 168
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "OpenMOSS-Team/MOSS-Image-SFT",
+          "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+          "summary": "OpenMOSS-Team/MOSS-Image-SFT, metinden görüntü oluşturma (text-to-image) yeteneğine sahip bir yapay zekâ modelidir. Hugging Face platformu üzerinde paylaşılan bu model, metin tabanlı komutları görsel çıktılara dönüştürmek için geliştirilmiştir.",
+          "meta": "♥ 545 · 5.840 indirme",
+          "snapshot": {
+            "sourceId": "OpenMOSS-Team/MOSS-Image-SFT",
+            "capturedAt": "2026-10-22T09:25:52.941Z",
+            "metadata": {
+              "popularity": 545,
+              "engagementCount": 5840,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 505,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "moss-image",
+                  "text-to-image",
+                  "en",
+                  "zh",
+                  "arxiv:2610.23374",
+                  "base_model:OpenMOSS-Team/MOSS-Image-Base",
+                  "base_model:finetune:OpenMOSS-Team/MOSS-Image-Base",
+                  "license:apache-2.0",
+                  "diffusers:MOSSImagePipeline",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-image model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
+          "url": "https://huggingface.co/papers/2610.26659",
+          "summary": "SpatialScout, görsel dil modellerinin (vision-language models) aktif keşif yoluyla üç boyutlu sahneleri haritalama ve nesne düzeyinde mekânsal zekâ sergileme becerilerini ölçen bir kıyaslama aracıdır (benchmark). Seksen farklı iç mekân sahnesi içeren bu çalışma, modellerin otonom keşif süreçlerinde tutarlı bir dünya temsili oluşturup oluşturamadığını değerlendirmeyi amaçlar.",
+          "meta": "50 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.26659",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 50,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26659",
+                "publishedAt": "2026-10-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/JesseZZZZZ/SpatialScout",
+                "githubStars": 2
+              }
+            },
+            "description": "Spatial intelligence requires agents to actively acquire visual evidence and integrate observations into a coherent representation of the three-dimensional world. Yet spatial question answering offers limited evidence of whether models can construct accurate metric maps through autonomous exploration. We introduce SpatialScout, a benchmark for evaluating vision-language model (VLM) agents on active object-level 3D mapping. SpatialScout comprises 80 diverse indoor scenes containing 3,140 target o"
+          }
+        },
+        {
+          "title": "From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation",
+          "url": "https://huggingface.co/papers/2610.29560",
+          "summary": "Görsel-dil-eylem (vision-language-action) modelleri, robotik manipülasyon görevlerinde görsel anlama ve eylem üretme süreçlerini birleştirerek başarılı sonuçlar sunuyor. Bu makale, uzun vadeli görevlerde geçmiş etkileşimlere dayalı bağımlılıkları yönetmek ve yürütme hatalarını azaltmak için kendi kendini geliştiren sistemler öneriyor.",
+          "meta": "5 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.29560",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.29560",
+                "publishedAt": "2026-10-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/StevenKKXS/SERA",
+                "githubStars": 2
+              }
+            },
+            "description": "Vision-language-action (VLA) models achieve strong performance across embodied manipulation tasks by unifying visual understanding, language conditioning, and action generation. However, long-horizon tasks can involve non-Markovian dependencies: successful decisions may require retaining task progress and past interaction outcomes, while partial observability and execution errors compound over time. Existing work has begun to address these challenges by augmenting foundation-model policies with "
+          }
+        },
+        {
+          "title": "CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction",
+          "url": "https://huggingface.co/papers/2610.13177",
+          "summary": "CompactSplat, seyrek görüntülerden üç boyutlu sahneleri yeniden oluşturan ve her piksele eşit dağılım yapmak yerine uzamsal uyumlu Gauss dağılımı (spatially adaptive Gaussian distribution) kullanan bir yöntemdir. Bu yaklaşım, sahne bazlı optimizasyona ihtiyaç duymadan geometrik doğruluğu ve doku detaylarını artırmayı hedefler.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.13177",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.13177",
+                "publishedAt": "2026-10-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/hebing-sjtu/CompactSplat",
+                "githubStars": 1
+              }
+            },
+            "description": "Reconstructing 3D scenes from sparse views without per-scene optimization remains highly challenging, especially for recovering accurate geometry and fine textures. While recent feedforward approaches leverage generalizable 3D Gaussian Splatting (3DGS) for scene generation, they typically assign one or multiple Gaussians to each pixel. Such uniform allocation not only produces highly redundant representations by wasting primitives in homogeneous areas, but also fails to exploit the inherent geom"
+          }
+        },
+        {
+          "title": "Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents",
+          "url": "https://huggingface.co/papers/2610.11942",
+          "summary": "Hugging Face üzerinde yayımlanan makale, grafik kullanıcı arayüzü (GUI) ajanları için güvenlik denetiminin yalnızca ekran görüntüsüne değil, gerçekleştirilen işlemin ardından beklenen geçiş sürecine odaklanması gerektiğini savunuyor. Mevcut dünya modellerinin (world models) çıktılarını metin veya kod gibi formatlardan doğrulama süreçlerine entegre ederek, arayüz etkileşimlerindeki güvenlik açıklarını tespit etmeyi hedefliyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.11942",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11942",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/jiamingzhang94/lgwm",
+                "githubStars": 1
+              }
+            },
+            "description": "A login screen that appears after a tap on Sign in is expected; the same screen after a tap on View order is an attack. For GUI agents, safety is therefore a property of the transition rather than of the screen, and a monitor that inspects only screens can be defeated by reusing a legitimate one. Judging a transition requires an expectation of what should have followed the action. Existing GUI world models provide one, but they output it as text, code, or images, so checking it against the obser"
+          }
+        },
+        {
+          "title": "PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States",
+          "url": "https://huggingface.co/papers/2610.29545",
+          "summary": "Hugging Face üzerinde paylaşılan PACE, doğrusal dikkat (linear-attention) temelli dil modellerinde kullanılan yinelemeli durumları (recurrent states) dört bit hassasiyetle kodlayan bir yöntemdir. Bu teknik, çıkarım sırasında bellek kullanımını azaltarak aynı anda daha fazla dizinin işlenmesine olanak tanır.",
+          "meta": "9 beğeni · 3 yorum",
+          "snapshot": {
+            "sourceId": "2610.29545",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.29545",
+                "publishedAt": "2026-10-21T00:00:00.000Z"
+              }
+            },
+            "description": "Linear-attention language models keep their context in a recurrent state of fixed size, where an inference system stores one copy of this state for every sequence it decodes at the same time. Storing the state at lower precision therefore lets more sequences share an accelerator. Existing state quantizers round the state after every generated token and report that four bits lose accuracy unless the bit width is raised or the model is fine-tuned.\\par We introduce PACE, a post-hoc four-bit state q"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coding-agent skill",
+      "explanation": "Cloudflare tarafından geliştirilen, yazılım güvenliği denetimlerini otomatik olarak gerçekleştirmek için kullanılan özel bir yetenek modülüdür."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleridir."
+    },
+    {
+      "term": "skill",
+      "explanation": "Yapay zekâ ajanlarının belirli bir görevi yerine getirmek için kullandığı özelleşmiş bir yetenek veya eklentidir."
+    },
+    {
+      "term": "exploit",
+      "explanation": "Bir yazılımın veya sistemin güvenlik açığını kullanarak onu ele geçirmek veya hatalı çalıştırmak için kullanılan yöntemdir."
+    },
+    {
+      "term": "backdoor",
+      "explanation": "Bir yazılımın içine gizlice yerleştirilen ve sistemin güvenlik önlemlerini atlayarak yetkisiz erişim sağlayan zararlı koddur."
+    }
+  ]
+}

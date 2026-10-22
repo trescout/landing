@@ -1,0 +1,800 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-22",
+  "capturedAt": "2026-10-22T09:25:52.859Z",
+  "editorial": "Hoje, no ecossistema de desenvolvedores, ferramentas de auditoria focadas em segurança e motores de inferência de alta eficiência estão em destaque. Especialmente, estudos acadêmicos sobre as capacidades de modelos de linguagem visual (VLM) para compreender cenas tridimensionais e realizar manipulações no mundo físico estão chamando a atenção.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "O security-audit-skill, desenvolvido pela Cloudflare, é uma habilidade de agente de codificação (coding-agent skill) projetada para auditorias de segurança em várias etapas. Ele visa padronizar as auditorias de segurança nos processos de desenvolvimento de software, fornecendo descobertas legíveis por máquina e verificadas de forma independente.",
+          "meta": "JavaScript · ★ 37.749 · +2.012 hoje",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 37749,
+              "engagementCount": 2012,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2012
+              }
+            },
+            "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+          }
+        },
+        {
+          "title": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "summary": "O vllm-project/vllm é um motor de inferência e serviço para grandes modelos de linguagem (LLM) que oferece alto rendimento e eficiência de memória. Desenvolvida em Python, esta ferramenta visa otimizar os processos de execução de modelos de inteligência artificial.",
+          "meta": "Python · ★ 95.076 · +441 hoje",
+          "snapshot": {
+            "sourceId": "vllm-project/vllm",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 95076,
+              "engagementCount": 441,
+              "rank": 2,
+              "extra": {
+                "starsToday": 441
+              }
+            },
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs"
+          }
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "O stablyai/orca é uma plataforma que permite executar vários agentes de codificação (coding agents), como o Grok Bot e o Claude Code, com suas próprias assinaturas. Com opções de desktop, dispositivos móveis e tempo de execução remoto (remote runtime), ele permite gerenciar frotas de agentes em diferentes dispositivos.",
+          "meta": "TypeScript · ★ 101.961 · +1.541 hoje",
+          "snapshot": {
+            "sourceId": "stablyai/orca",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 101961,
+              "engagementCount": 1541,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1541
+              }
+            },
+            "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+          }
+        },
+        {
+          "title": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "summary": "O headroomlabs-ai/headroom é uma ferramenta que reduz o uso de tokens ao comprimir dados como arquivos de log, saídas de código e fragmentos de RAG enviados para grandes modelos de linguagem (LLM). Esta estrutura, que pode ser usada como biblioteca, proxy e servidor MCP, visa aumentar a eficiência enquanto mantém a qualidade da resposta do modelo.",
+          "meta": "Python · ★ 77.462 · +474 hoje",
+          "snapshot": {
+            "sourceId": "headroomlabs-ai/headroom",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 77462,
+              "engagementCount": 474,
+              "rank": 4,
+              "extra": {
+                "starsToday": 474
+              }
+            },
+            "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
+          }
+        },
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "O DietrichGebert/ponytail é um projeto JavaScript que minimiza o processo de escrita de código por agentes de inteligência artificial, orientando-os a agir como o desenvolvedor sênior mais preguiçoso possível. Adotando o princípio de que o melhor código é aquele que não é escrito, ele visa abordar a eficiência nos processos de desenvolvimento com uma abordagem diferente.",
+          "meta": "JavaScript · ★ 172.377 · +2.079 hoje",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 172377,
+              "engagementCount": 2079,
+              "rank": 5,
+              "extra": {
+                "starsToday": 2079
+              }
+            },
+            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+          }
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "O ComfyUI é uma interface gráfica modular e uma interface de programação de aplicações (API) que oferece uma interface baseada em nós para modelos de geração visual (diffusion models). Este software, capaz de realizar inferência rápida em sistemas locais, permite que os usuários configurem fluxos de trabalho complexos através de um editor visual.",
+          "meta": "Python · ★ 141.808 · +939 hoje",
+          "snapshot": {
+            "sourceId": "Comfy-Org/ComfyUI",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 141808,
+              "engagementCount": 939,
+              "rank": 6,
+              "extra": {
+                "starsToday": 939
+              }
+            },
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+          }
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "O Supabase é uma plataforma de desenvolvimento que oferece um banco de dados Postgres dedicado para criar aplicações web, móveis e de inteligência artificial. Escrito em TypeScript, este projeto visa facilitar os processos de gerenciamento de banco de dados e desenvolvimento de aplicações.",
+          "meta": "TypeScript · ★ 113.222 · +504 hoje",
+          "snapshot": {
+            "sourceId": "supabase/supabase",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 113222,
+              "engagementCount": 504,
+              "rank": 7,
+              "extra": {
+                "starsToday": 504
+              }
+            },
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+          }
+        },
+        {
+          "title": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "summary": "O Twenty oferece uma alternativa de código aberto ao software de gerenciamento de relacionamento com o cliente (CRM) Salesforce. Esta plataforma está sendo desenvolvida com foco na integração de inteligência artificial.",
+          "meta": "TypeScript · ★ 59.448 · +112 hoje",
+          "snapshot": {
+            "sourceId": "twentyhq/twenty",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 59448,
+              "engagementCount": 112,
+              "rank": 8,
+              "extra": {
+                "starsToday": 112
+              }
+            },
+            "description": "The open alternative to Salesforce, designed for AI."
+          }
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "O Kronos, um modelo fundamental (foundation model) treinado na linguagem dos mercados financeiros, foi desenvolvido para o processamento e análise de dados financeiros. Este projeto, preparado em Python, é um modelo de inteligência artificial projetado para dar sentido aos dados de mercado.",
+          "meta": "Python · ★ 43.035 · +575 hoje",
+          "snapshot": {
+            "sourceId": "shiyu-coder/Kronos",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 43035,
+              "engagementCount": 575,
+              "rank": 9,
+              "extra": {
+                "starsToday": 575
+              }
+            },
+            "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+          }
+        },
+        {
+          "title": "strelov1/freehire",
+          "url": "https://github.com/strelov1/freehire",
+          "summary": "O freehire, desenvolvido na linguagem Go, é um motor de busca de código aberto (cujo código-fonte está aberto para acesso e desenvolvimento por qualquer pessoa) projetado para quem procura emprego. Ele oferece uma plataforma que permite aos usuários pesquisar e encontrar anúncios de vagas.",
+          "meta": "Go · ★ 2.643 · +360 hoje",
+          "snapshot": {
+            "sourceId": "strelov1/freehire",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 2643,
+              "engagementCount": 360,
+              "rank": 10,
+              "extra": {
+                "starsToday": 360
+              }
+            },
+            "description": "freehire — the open-source search engine for job seekers"
+          }
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "O akitaonrails/ai-memory oferece uma solução de memória de longo prazo (long term memory) para interfaces de linha de comando (CLI) focadas em codificação. O projeto, que visa facilitar a transferência de dados entre diferentes provedores de agentes de inteligência artificial, está sendo desenvolvido em Rust.",
+          "meta": "Rust · ★ 12.583 · +286 hoje",
+          "snapshot": {
+            "sourceId": "akitaonrails/ai-memory",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 12583,
+              "engagementCount": 286,
+              "rank": 11,
+              "extra": {
+                "starsToday": 286
+              }
+            },
+            "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+          }
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify é um projeto Python que transforma bases de código e documentos em um grafo de conhecimento (knowledge graph) consultável. Utilizando análise de árvore de sintaxe abstrata (AST) local em vez de armazenamento baseado em vetores, esta ferramenta funciona como uma habilidade (skill) para ambientes de desenvolvimento como Claude Code, Cursor, Codex e Gemini CLI.",
+          "meta": "Python · ★ 132.135 · +1.433 hoje",
+          "snapshot": {
+            "sourceId": "Graphify-Labs/graphify",
+            "capturedAt": "2026-10-22T09:25:54.188Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 132135,
+              "engagementCount": 1433,
+              "rank": 12,
+              "extra": {
+                "starsToday": 1433
+              }
+            },
+            "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "PHP 8.2.35",
+          "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+          "summary": "O PHP 8.2.35 é uma nova atualização de segurança lançada para o PHP, uma linguagem de script do lado do servidor. Esta versão foi disponibilizada aos usuários como parte dos esforços contínuos para melhorar a segurança geral do software.",
+          "meta": "1.029 pontos · 545 comentários",
+          "snapshot": {
+            "sourceId": "50180873",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 1029,
+              "engagementCount": 545,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50180873",
+                  "popularity": 1029,
+                  "engagementCount": 545
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-21T13:45:33Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50180873"
+              }
+            },
+            "description": "Related ongoing thread: Today&#x27;s PHP security release, and how we&#x27;re strengthening security - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50182987"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50180873",
+              "popularity": 1029,
+              "engagementCount": 545
+            }
+          ]
+        },
+        {
+          "title": "Today's PHP security release, and how we're strengthening security",
+          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "summary": "A PHP Foundation anunciou a atualização de segurança que acompanha a versão PHP 8.2.35 e compartilhou suas novas estratégias para aumentar a segurança geral do software. Este trabalho visa corrigir vulnerabilidades e fortalecer os mecanismos de defesa do PHP, uma linguagem de script do lado do servidor.",
+          "meta": "731 pontos · 362 comentários",
+          "snapshot": {
+            "sourceId": "50182987",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 731,
+              "engagementCount": 362,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50182987",
+                  "popularity": 731,
+                  "engagementCount": 362
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-21T15:48:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50182987"
+              }
+            },
+            "description": "Related ongoing thread: PHP 8.2.35 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50180873(links to more at https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50184935)"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50182987",
+              "popularity": 731,
+              "engagementCount": 362
+            }
+          ]
+        },
+        {
+          "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+          "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+          "summary": "O estado do Novo México determinou que a empresa de mídia social Meta pague uma multa de 25 bilhões de dólares no âmbito do processo da Cambridge Analytica. A decisão surgiu como resultado do processo legal relacionado às práticas da empresa sobre a privacidade e segurança dos dados dos usuários.",
+          "meta": "543 pontos · 325 comentários",
+          "snapshot": {
+            "sourceId": "50184820",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 543,
+              "engagementCount": 325,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50184820",
+                  "popularity": 543,
+                  "engagementCount": 325
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-21T17:45:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50184820"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50184820",
+              "popularity": 543,
+              "engagementCount": 325
+            }
+          ]
+        },
+        {
+          "title": "There isn't an easy exploit for this PHP vulnerability",
+          "url": "https://eliastaylor.com/noexploit/",
+          "summary": "Afirma-se que uma vulnerabilidade de segurança no PHP, ao contrário da crença popular, não possui uma estrutura que possa ser facilmente explorada (exploit). Ao examinar os detalhes técnicos da referida falha de segurança, explica-se por que é difícil para os atacantes utilizarem essa vulnerabilidade.",
+          "meta": "513 pontos · 308 comentários",
+          "snapshot": {
+            "sourceId": "50188948",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 513,
+              "engagementCount": 308,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50188948",
+                  "popularity": 513,
+                  "engagementCount": 308
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-21T23:13:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50188948"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50188948",
+              "popularity": 513,
+              "engagementCount": 308
+            }
+          ]
+        },
+        {
+          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+          "summary": "A versão 1.107.0 do LiteLLM foi substituída no índice de pacotes Python PyPI por um código malicioso que rouba credenciais e contém um backdoor. O LiteLLM, uma biblioteca usada por desenvolvedores de software para integrar modelos de linguagem, colocou os dados dos usuários em risco com essa violação de segurança.",
+          "meta": "508 pontos · 168 comentários",
+          "snapshot": {
+            "sourceId": "50181114",
+            "capturedAt": "2026-10-22T09:25:53.132Z",
+            "metadata": {
+              "popularity": 508,
+              "engagementCount": 168,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50181114",
+                  "popularity": 508,
+                  "engagementCount": 168
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-21T14:00:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50181114"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50181114",
+              "popularity": 508,
+              "engagementCount": 168
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "DeepSeek-V4.1-Flash-1017 é um modelo de geração de texto baseado em imagem-texto (image-text-to-text) compartilhado no Hugging Face. O referido modelo tem a capacidade de processar dados obtidos de imagens para gerar saídas de texto.",
+          "meta": "♥ 2.240 · 42.122 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-22T09:25:52.941Z",
+            "metadata": {
+              "popularity": 2240,
+              "engagementCount": 42122,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1963,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          }
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "Desenvolvido pela Black Forest Labs, o black-forest-labs/flux-3-image-klein-comfy é um modelo de inteligência artificial projetado para operações de conversão de imagem para imagem (image-to-image). Compartilhado na plataforma Hugging Face, este modelo foi configurado para funcionar de forma compatível com ferramentas de fluxo de trabalho baseadas em visual, como o ComfyUI.",
+          "meta": "♥ 1.225 · 490.447 downloads",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-22T09:25:52.941Z",
+            "metadata": {
+              "popularity": 1225,
+              "engagementCount": 490447,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 913,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        },
+        {
+          "title": "meta-models/Muse-Spark-Open-816B-A42B",
+          "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+          "summary": "O meta-models/Muse-Spark-Open-816B-A42B, compartilhado no Hugging Face, é um modelo de inteligência artificial que processa entradas de imagem e texto para gerar saídas de texto. O modelo destaca-se pelas suas capacidades de processamento de dados multimodais.",
+          "meta": "♥ 645 · 2.891 downloads",
+          "snapshot": {
+            "sourceId": "meta-models/Muse-Spark-Open-816B-A42B",
+            "capturedAt": "2026-10-22T09:25:52.941Z",
+            "metadata": {
+              "popularity": 645,
+              "engagementCount": 2891,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 582,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "muse_spark",
+                  "image-text-to-text",
+                  "facebook",
+                  "meta",
+                  "pytorch",
+                  "muse",
+                  "muse-spark",
+                  "conversational",
+                  "en",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          }
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+          "summary": "Desenvolvido pela Black Forest Labs, o black-forest-labs/flux-3-image-klein é um modelo de inteligência artificial projetado para operações de conversão de imagem para imagem (image-to-image). Disponível na plataforma Hugging Face, este modelo permite a geração de novas saídas com base em imagens existentes.",
+          "meta": "♥ 615 · 92.604 downloads",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein",
+            "capturedAt": "2026-10-22T09:25:52.941Z",
+            "metadata": {
+              "popularity": 615,
+              "engagementCount": 92604,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 542,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-Image-SFT",
+          "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+          "summary": "OpenMOSS-Team/MOSS-Image-SFT é um modelo de inteligência artificial com capacidade de geração de imagem a partir de texto (text-to-image). Compartilhado na plataforma Hugging Face, este modelo foi desenvolvido para converter comandos baseados em texto em saídas visuais.",
+          "meta": "♥ 545 · 5.840 downloads",
+          "snapshot": {
+            "sourceId": "OpenMOSS-Team/MOSS-Image-SFT",
+            "capturedAt": "2026-10-22T09:25:52.941Z",
+            "metadata": {
+              "popularity": 545,
+              "engagementCount": 5840,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 505,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "moss-image",
+                  "text-to-image",
+                  "en",
+                  "zh",
+                  "arxiv:2610.23374",
+                  "base_model:OpenMOSS-Team/MOSS-Image-Base",
+                  "base_model:finetune:OpenMOSS-Team/MOSS-Image-Base",
+                  "license:apache-2.0",
+                  "diffusers:MOSSImagePipeline",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-image model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
+          "url": "https://huggingface.co/papers/2610.26659",
+          "summary": "SpatialScout é uma ferramenta de benchmark que mede as habilidades de modelos de linguagem visual (vision-language models) em mapear cenas tridimensionais e exibir inteligência espacial em nível de objeto por meio de exploração ativa. Este estudo, que contém oitenta cenas internas diferentes, visa avaliar se os modelos conseguem criar uma representação de mundo consistente em processos de exploração autônoma.",
+          "meta": "50 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2610.26659",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 50,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26659",
+                "publishedAt": "2026-10-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/JesseZZZZZ/SpatialScout",
+                "githubStars": 2
+              }
+            },
+            "description": "Spatial intelligence requires agents to actively acquire visual evidence and integrate observations into a coherent representation of the three-dimensional world. Yet spatial question answering offers limited evidence of whether models can construct accurate metric maps through autonomous exploration. We introduce SpatialScout, a benchmark for evaluating vision-language model (VLM) agents on active object-level 3D mapping. SpatialScout comprises 80 diverse indoor scenes containing 3,140 target o"
+          }
+        },
+        {
+          "title": "From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation",
+          "url": "https://huggingface.co/papers/2610.29560",
+          "summary": "Modelos de visão-linguagem-ação (vision-language-action) oferecem resultados bem-sucedidos ao combinar processos de compreensão visual e geração de ações em tarefas de manipulação robótica. Este artigo propõe sistemas de autoaperfeiçoamento para gerenciar dependências baseadas em interações passadas em tarefas de longo prazo e reduzir erros de execução.",
+          "meta": "5 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.29560",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.29560",
+                "publishedAt": "2026-10-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/StevenKKXS/SERA",
+                "githubStars": 2
+              }
+            },
+            "description": "Vision-language-action (VLA) models achieve strong performance across embodied manipulation tasks by unifying visual understanding, language conditioning, and action generation. However, long-horizon tasks can involve non-Markovian dependencies: successful decisions may require retaining task progress and past interaction outcomes, while partial observability and execution errors compound over time. Existing work has begun to address these challenges by augmenting foundation-model policies with "
+          }
+        },
+        {
+          "title": "CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction",
+          "url": "https://huggingface.co/papers/2610.13177",
+          "summary": "CompactSplat é um método que reconstrói cenas tridimensionais a partir de imagens esparsas e utiliza uma distribuição gaussiana espacialmente adaptativa em vez de realizar uma distribuição uniforme para cada pixel. Essa abordagem visa aumentar a precisão geométrica e os detalhes de textura sem a necessidade de otimização baseada em cena.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.13177",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.13177",
+                "publishedAt": "2026-10-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/hebing-sjtu/CompactSplat",
+                "githubStars": 1
+              }
+            },
+            "description": "Reconstructing 3D scenes from sparse views without per-scene optimization remains highly challenging, especially for recovering accurate geometry and fine textures. While recent feedforward approaches leverage generalizable 3D Gaussian Splatting (3DGS) for scene generation, they typically assign one or multiple Gaussians to each pixel. Such uniform allocation not only produces highly redundant representations by wasting primitives in homogeneous areas, but also fails to exploit the inherent geom"
+          }
+        },
+        {
+          "title": "Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents",
+          "url": "https://huggingface.co/papers/2610.11942",
+          "summary": "O artigo publicado no Hugging Face defende que a auditoria de segurança para agentes de interface gráfica de usuário (GUI) deve focar não apenas na captura de tela, mas no processo de transição esperado após a operação realizada. O objetivo é detectar vulnerabilidades em interações de interface integrando as saídas de modelos de mundo (world models) atuais em processos de verificação a partir de formatos como texto ou código.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.11942",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11942",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/jiamingzhang94/lgwm",
+                "githubStars": 1
+              }
+            },
+            "description": "A login screen that appears after a tap on Sign in is expected; the same screen after a tap on View order is an attack. For GUI agents, safety is therefore a property of the transition rather than of the screen, and a monitor that inspects only screens can be defeated by reusing a legitimate one. Judging a transition requires an expectation of what should have followed the action. Existing GUI world models provide one, but they output it as text, code, or images, so checking it against the obser"
+          }
+        },
+        {
+          "title": "PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States",
+          "url": "https://huggingface.co/papers/2610.29545",
+          "summary": "PACE, compartilhado no Hugging Face, é um método que codifica estados recorrentes usados em modelos de linguagem baseados em atenção linear com precisão de quatro bits. Esta técnica reduz o uso de memória durante a inferência, permitindo o processamento de mais sequências simultaneamente.",
+          "meta": "9 curtidas · 3 comentários",
+          "snapshot": {
+            "sourceId": "2610.29545",
+            "capturedAt": "2026-10-22T09:25:52.950Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.29545",
+                "publishedAt": "2026-10-21T00:00:00.000Z"
+              }
+            },
+            "description": "Linear-attention language models keep their context in a recurrent state of fixed size, where an inference system stores one copy of this state for every sequence it decodes at the same time. Storing the state at lower precision therefore lets more sequences share an accelerator. Existing state quantizers round the state after every generated token and report that four bits lose accuracy unless the bit width is raised or the model is fine-tuned.\\par We introduce PACE, a post-hoc four-bit state q"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coding-agent skill",
+      "explanation": "É um módulo de capacidade proprietário desenvolvido pela Cloudflare, utilizado para realizar auditorias de segurança de software automaticamente."
+    },
+    {
+      "term": "LLM",
+      "explanation": "São modelos de inteligência artificial treinados com volumes massivos de dados, capazes de compreender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "inference",
+      "explanation": "É o processo de um modelo de inteligência artificial treinado produzindo previsões ou resultados com novos dados que lhe são fornecidos."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "São ferramentas de inteligência artificial que realizam tarefas como escrever, depurar e editar código de forma autônoma nos processos de desenvolvimento de software."
+    },
+    {
+      "term": "remote runtime",
+      "explanation": "É o ambiente que permite que softwares ou agentes de inteligência artificial sejam executados em um servidor remoto, fora do computador local."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "É um tipo de modelo de inteligência artificial capaz de gerar imagens de alta qualidade a partir de dados ruidosos."
+    },
+    {
+      "term": "API",
+      "explanation": "É a ponte que permite que diferentes softwares troquem dados e se comuniquem entre si."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "É um modelo abrangente que forma a base de sistemas de inteligência artificial, treinado com grandes conjuntos de dados para ser utilizado em uma ampla variedade de tarefas."
+    },
+    {
+      "term": "CLI",
+      "explanation": "É uma interface baseada em texto que executa programas através de comandos escritos, em vez de usar o mouse."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "É um método de armazenamento que permite que sistemas de inteligência artificial guardem interações e dados passados sem esquecê-los, para uso posterior."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "É um modelo de dados que organiza informações e as relações entre elas na forma de uma estrutura de rede interconectada."
+    },
+    {
+      "term": "AST",
+      "explanation": "É um método que converte a estrutura do código em uma linguagem de programação em uma árvore hierárquica que o computador pode entender."
+    },
+    {
+      "term": "skill",
+      "explanation": "É uma habilidade especializada ou plugin que agentes de inteligência artificial usam para realizar uma tarefa específica."
+    },
+    {
+      "term": "exploit",
+      "explanation": "É um método usado para explorar uma vulnerabilidade de segurança de um software ou sistema, a fim de assumir o controle ou fazê-lo funcionar incorretamente."
+    },
+    {
+      "term": "backdoor",
+      "explanation": "É um código malicioso inserido secretamente em um software que contorna as medidas de segurança do sistema para obter acesso não autorizado."
+    },
+    {
+      "term": "image-text-to-text",
+      "explanation": "É um modelo de inteligência artificial capaz de processar entradas visuais e de texto simultaneamente para gerar saídas de texto apropriadas."
+    }
+  ]
+}
