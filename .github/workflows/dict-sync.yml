@@ -301,6 +301,11 @@ jobs:
       - name: Ajan istemi satırları (Türkçe keşif)
         run: python3 scripts/ajan_istemi.py --uygula
 
+      # Sözlükte "Sıkça sorulanlar" → "Sorular ve yanıtlar" (sorular okurlardan gelmedi). Türkçe
+      # sayfalar burada; çeviriler aşağıda üretici yeniden yazınca diller.py karşılığını alır.
+      - name: SSS başlığı (Türkçe sözlük)
+        run: python3 scripts/sss-baslik.py --uygula
+
       # SIRA ÖNEMLİ · sözlük ÖNCE. Keşif sayfasındaki "İlgili sözlük terimleri"
       # bölümü, o dilde sözlük sayfası diskte VARSA basılıyor. Ters sırada yeni
       # bir dilin ilk gününde 400+ keşif sayfası çapraz bağlantısız çıkıyor
@@ -550,6 +555,8 @@ jobs:
         run: python3 scripts/riza_formu.py --check
       - name: Ajan istemi satırları kontrolü
         run: python3 scripts/ajan_istemi.py
+      - name: SSS başlığı kontrolü
+        run: python3 scripts/sss-baslik.py
       # Rapor kapaklarında yapay zekâ şeffaflık beyanı (AB YZ Yasası m.50).
       - name: YZ şeffaflık beyanı kontrolü
         run: python3 scripts/check-ai-disclosure.py

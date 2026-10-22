@@ -258,7 +258,7 @@ def render_page(e, en_map):
     if kar: secs+=f'<section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>{esc(kar)}</p></section>'
     if sss:
         items="".join(f'<div class="dict-faq-item"><p class="dict-faq-q">{esc(q["soru"])}</p><p class="dict-faq-a">{esc(q["cevap"])}</p></div>' for q in sss)
-        secs+=f'<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq">{items}</div></section>'
+        secs+=f'<section class="disc-sec"><h2>Sorular ve yanıtlar</h2><div class="dict-faq">{items}</div></section>'
     if rel:
         links="".join(f'<a href="/dictionary/{r}/">{esc(en_map.get(r,r))}</a>' for r in rel if r in en_map)
         if links: secs+=f'<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related">{links}</div></section>'
