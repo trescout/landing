@@ -39,7 +39,7 @@ Debes prestar atención a si tu código se envía a la nube; Es más seguro eleg
 - [Coding Assistant](https://trescout.com/es/dictionary/coding-assistant/)
 - [AI Engineering](https://trescout.com/es/dictionary/ai-engineering/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/ai-coding-clients/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/ai-coding-clients/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-coding-clients/

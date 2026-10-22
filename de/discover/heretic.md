@@ -2,17 +2,17 @@
 
 Heretic ist ein technisches Tool, das Einschränkungen bei der Sicherheitsausrichtung aus transformatorbasierten Sprachmodellen entfernt, ohne dass teure Umschulungsprozesse erforderlich sind. Diese Lösung nutzt die Technik der „Abliteration“ und ist fortschrittlich und forschungsorientiert.
 
-- ★ 34.271
+- ★ 36.044
 - Python
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 34,271 → 36,044, neueste Version v1.4.0 (14. Juni 2026).
 - **9. Oktober 2026:** Sterne 32,626 → 34,271, neueste Version v1.4.0 (14. Juni 2026).
 - **1. Oktober 2026:** Sterne 31,068 → 32,626, neueste Version v1.4.0 (14. Juni 2026).
 - **10. September 2026:** Sterne 29,513 → 31,068, neueste Version v1.4.0 (14. Juni 2026).
-- **31. August 2026:** Sterne 27,018 → 29,513, neueste Version v1.4.0 (14. Juni 2026).
 
 ## Installation
 
@@ -36,6 +36,7 @@ Dieses Tool entfernt den Sicherheitsschutz des Modells. Die rechtliche und ethis
 
 - [Transformer](https://trescout.com/de/dictionary/transformer/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** ML-Forscher/fortgeschrittene Benutzer
 - **Schwierigkeit:** Erweiterte Kenntnisse im Umgang mit Modellgewichten
@@ -50,7 +51,7 @@ Dieses Tool entfernt den Sicherheitsschutz des Modells. Die rechtliche und ethis
 - [GitHub-Repository →](https://github.com/p-e-w/heretic)
 - [Auf Türkisch lesen →](https://trescout.com/discover/heretic/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/heretic/

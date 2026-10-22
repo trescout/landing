@@ -2,17 +2,17 @@
 
 Scrapling es un marco de web scraping adaptable que puede manejar la escala desde una sola solicitud hasta trabajos de rastreo a gran escala. Su objetivo es proporcionar una alta adaptabilidad incluso si cambia la estructura de la página. Está basado en Python.
 
-- ★ 84.197
+- ★ 88.365
 - Python
 - BSD-3-Clause
 - GitHub Trending · 1 Haziran 2026
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 84,197 → 88,365, última versión v0.5 (17 de octubre de 2026).
 - **28 de septiembre de 2026:** Estrellas 80,154 → 84,197, última versión v0.4.15 (23 de agosto de 2026).
 - **11 de septiembre de 2026:** Estrellas 76,147 → 80,154, última versión v0.4.15 (23 de agosto de 2026).
 - **24 de agosto de 2026:** Estrellas 73,439 → 76,147, última versión v0.4.15 (23 de agosto de 2026).
-- **11 de agosto de 2026:** Estrellas 73,309 → 73,439, última versión v0.4.14 (10 de agosto de 2026).
 
 ## Qué aporta
 
@@ -34,6 +34,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Ayúdame a instalar la biblioteca de web scraping de código abierto llamada Scrapling; Instálelo con 'pip install "scrapling[fetchers]"' y ejecute el comando 'scrapling install', luego extraigamos el contenido de una página web a un archivo Markdown con el comando 'scrapling extract get https://example.com content.md'.
 
+Repositorio: https://github.com/D4Vinci/Scrapling. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Web Scraping](https://trescout.com/es/dictionary/web-scraping/)
@@ -54,7 +62,7 @@ Ayúdame a instalar la biblioteca de web scraping de código abierto llamada Scr
 - [Repositorio en GitHub →](https://github.com/D4Vinci/Scrapling)
 - [Leer en turco →](https://trescout.com/discover/scrapling/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/scrapling/

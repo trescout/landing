@@ -2,16 +2,16 @@
 
 Academic Research Skills, Claude Code için geliştirilen ve akademik süreçleri araştırma, yazma, inceleme, düzenleme ve son haline getirme aşamalarıyla otomatize eden bir Python kütüphanesi. Bu araç, yapay zekâ destekli kod yazma aracı Claude Code üzerinde akademik iş akışlarını standartlaştırmayı hedefliyor.
 
-- ★ 50.340
+- ★ 52.350
 - Python
 - GitHub Trending · 2026-09-02
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 50.340 → 52.350, son sürüm v3.23.1 (16 Ekim 2026).
 - **4 Ekim 2026:** Yıldız 49.559 → 50.340, son sürüm v3.23.0 (3 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 48.286 → 49.559, son sürüm v3.22.2 (25 Eylül 2026).
 - **16 Eylül 2026:** Yıldız 46.471 → 48.286, son sürüm v3.22.0 (16 Eylül 2026).
-- **6 Eylül 2026:** Yıldız 45.232 → 46.471, son sürüm v3.21.2 (5 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -47,13 +47,21 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Akademik araştırma sürecimi yönetmek için Academic Research Skills eklentisini kullanmak istiyorum. Makalemin yapısal planını oluşturmak için Sokratik bir diyalog başlat ve araştırmamın hangi aşamasında olduğumu belirleyerek süreci yönetmeme yardımcı ol.
 
+Depo: https://github.com/Imbad0202/academic-research-skills. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Akademik yazım süreçlerini standartlaştırmak ve araştırma kalitesini artırmak isteyen araştırmacılar içindir.
 
 ## Bağlantılar
 
 - [GitHub deposu →](https://github.com/Imbad0202/academic-research-skills)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

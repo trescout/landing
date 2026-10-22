@@ -23,6 +23,7 @@ Dieses Handbuch ist ein Dokumentations-Repository auf GitHub. Um zu beginnen, k�
 ## Verwandte Begriffe aus dem Glossar
 
 - [System Design](https://trescout.com/de/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Softwareentwickler, die sich auf technische Vorstellungsgespräche vorbereiten oder sich in der Architektur umfangreicher Softwaresysteme verbessern möchten.
 
@@ -31,7 +32,7 @@ Dieses Handbuch ist ein Dokumentations-Repository auf GitHub. Um zu beginnen, k�
 - [GitHub-Repository →](https://github.com/donnemartin/system-design-primer)
 - [Auf Türkisch lesen →](https://trescout.com/discover/system-design-primer/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/system-design-primer/

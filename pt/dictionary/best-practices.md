@@ -68,7 +68,7 @@ No período de velocidade, escolhe-se pouco: disciplina de lançamento, backup e
 
 - [Claude Code Best Practice](https://trescout.com/pt/discover/claude-code-best-practice/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/best-practices/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/best-practices/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/best-practices/

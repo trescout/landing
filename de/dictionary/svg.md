@@ -45,7 +45,7 @@ Nein, SVG eignet sich besser für Illustrationen und Logos; Pixelbasierte Format
 - [Diagram Design](https://trescout.com/de/discover/diagram-design/)
 - [Gitdiagram](https://trescout.com/de/discover/gitdiagram/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/svg/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/svg/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/svg/

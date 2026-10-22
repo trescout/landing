@@ -41,6 +41,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero que actúes como agente codificador en mi computadora. Espero que automatice tareas complejas ejecutando código en mi entorno local y probando aplicaciones web o locales cuando sea necesario. Utilizar estructuras que optimicen modelos de bajo costo al realizar transacciones y ejecutar mis comandos de forma segura a través del terminal.
 
+Repositorio: https://github.com/openinterpreter/openinterpreter. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Coding Agent](https://trescout.com/es/dictionary/coding-agent/)
@@ -57,7 +65,7 @@ Quiero que actúes como agente codificador en mi computadora. Espero que automat
 - [Repositorio en GitHub →](https://github.com/openinterpreter/openinterpreter)
 - [Leer en turco →](https://trescout.com/discover/openinterpreter/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-16: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-16: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/openinterpreter/

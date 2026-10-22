@@ -39,7 +39,7 @@ Qualquer informação que a inteligência artificial precise lembrar, como prefe
 - [Observability](https://trescout.com/pt/dictionary/observability/)
 - [State Management](https://trescout.com/pt/dictionary/state-management/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/memory-api/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/memory-api/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/memory-api/

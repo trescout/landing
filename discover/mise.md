@@ -2,16 +2,16 @@
 
 Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek bir çatı altında yönetmeyi sağlayan bir araçtır. Rust diliyle geliştirilen bu yazılım, farklı projeler için gerekli olan çalışma ortamlarını standartlaştırmayı ve hızlandırmayı hedefler.
 
-- ★ 35.034
+- ★ 35.230
 - Rust
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
 
-- **15 Ekim 2026:** Yıldız 34.991 → 35.034, son sürüm v2026.10.11 (15 Ekim 2026).
-- **14 Ekim 2026:** Yıldız 34.966 → 34.991, son sürüm v2026.10.10 (14 Ekim 2026).
-- **13 Ekim 2026:** Yıldız 34.900 → 34.966, son sürüm v2026.10.9 (13 Ekim 2026).
-- **11 Ekim 2026:** Yıldız 34.868 → 34.900, son sürüm v2026.10.8 (11 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 35.166 → 35.230, son sürüm v2026.10.17 (21 Ekim 2026).
+- **19 Ekim 2026:** Yıldız 35.150 → 35.166, son sürüm v2026.10.15 (19 Ekim 2026).
+- **19 Ekim 2026:** Yıldız 35.120 → 35.150, son sürüm v2026.10.14 (18 Ekim 2026).
+- **18 Ekim 2026:** Yıldız 35.100 → 35.120, son sürüm v2026.10.13 (17 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -32,7 +32,7 @@ Kurulum yapmak için resmî dokümantasyon sayfasındaki 'Getting started' böl�
 
 - [GitHub deposu →](https://github.com/jdx/mise)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
@@ -40,6 +40,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Task Runner](https://trescout.com/dictionary/task-runner/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
 - [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mise/

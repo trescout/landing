@@ -39,7 +39,7 @@ Yes, modern development tools and AI-powered systems can automatically draw this
 - [System Design](https://trescout.com/en/dictionary/system-design/)
 - [IDE](https://trescout.com/en/dictionary/ide/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-graph/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-graph/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/code-graph/

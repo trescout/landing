@@ -2,12 +2,14 @@
 
 RustFS was developed as an S3-compatible high-performance object storage system. It offers interoperability and data migration support with other S3-compatible platforms such as MinIO and Ceph.
 
-- ★ 34,330
+- ★ 35,063
 - Rust
 - GitHub Trending · 2026-09-19
 
 ## Updates
 
+- **October 18, 2026:** Stars 35,038 → 35,063, latest release 1.0.3 (October 17, 2026).
+- **October 17, 2026:** Stars 34,330 → 35,038, latest release 1.0.2 (October 16, 2026).
 - **October 3, 2026:** Stars 33,264 → 34,330, latest release 1.0.1 (October 3, 2026).
 - **September 19, 2026:** Stars 33,264 → 33,264, latest release 1.0.0 (September 16, 2026).
 
@@ -45,6 +47,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a high-performance object storage environment using RustFS. How can I manage my data by leveraging the system's S3 compatibility, and what should I pay attention to when scaling on a distributed architecture? Provide me with a step-by-step guide on the installation and basic configuration settings of this Apache 2.0 licensed system.
 
+Repository: https://github.com/rustfs/rustfs. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Object Storage System](https://trescout.com/en/dictionary/object-storage-system/)
@@ -59,7 +69,7 @@ I want to set up a high-performance object storage environment using RustFS. How
 - [GitHub repository →](https://github.com/rustfs/rustfs)
 - [Read in Turkish →](https://trescout.com/discover/rustfs/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-19: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-19: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/rustfs/

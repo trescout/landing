@@ -34,7 +34,7 @@ L'apprentissage automatique est une sous-branche de l'intelligence artificielle 
 
 - [Cs249r Book](https://trescout.com/fr/discover/cs249r-book/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/machine-learning-systems/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/machine-learning-systems/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/machine-learning-systems/

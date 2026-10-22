@@ -189,6 +189,9 @@
 }
 .disc-ai-head span { font-size: var(--text-caption); font-weight: 700; color: var(--ink-muted); line-height: 1.4; }
 .disc-ai-text { margin: 0; font-size: var(--text-small); line-height: 1.6; color: var(--ink); }
+/* "Kod bilmiyorsanız" istemine eklenen sabit satırlar (depo, sistem, klasör, anahtar, hata) · Kopyala bunları da kopyalar */
+.disc-ai-ek { margin: 4px 0 0; font-size: var(--text-small); line-height: 1.6; color: var(--ink); }
+.disc-ai-text + .disc-ai-ek { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--border); }
 
 /* ilgili sözlük terimleri · keşif → sözlük çapraz bağlantısı · düz bağlantı listesi */
 .disc-related { display: flex; flex-wrap: wrap; gap: 6px 20px; }

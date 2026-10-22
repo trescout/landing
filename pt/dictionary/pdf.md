@@ -50,7 +50,7 @@ Ele lê o PDF convertendo-o em texto com ferramentas especiais (analisadores) qu
 - [MinerU](https://trescout.com/pt/discover/mineru/)
 - [ChinaTextbook](https://trescout.com/pt/discover/chinatextbook/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/pdf/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/pdf/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/pdf/

@@ -51,6 +51,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install the Understand Anything plugin in Claude Code with the commands '/plugin marketplace add Lum1104/Understand-Anything' and '/plugin install understand-anything', then in my project run '/understand' to analyze the codebase and open the interactive knowledge graph panel with '/understand-dashboard'.
 
+Repository: https://github.com/Lum1104/Understand-Anything. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Why is it on the agenda?
 
 Because it is at the center of the "understanding code and information by asking AI" trend. Beyond being a standalone application, it is included as an add-on to the assistants you use (such as Claude Code, Codex, Gemini CLI). The fact that it was starred by more than 4,700 developers in one day is a testament to the intense interest it has received.
@@ -80,7 +88,7 @@ Because it is at the center of the "understanding code and information by asking
 - [GitHub repository →](https://github.com/Lum1104/Understand-Anything)
 - [Read in Turkish →](https://trescout.com/discover/understand-anything/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/understand-anything/

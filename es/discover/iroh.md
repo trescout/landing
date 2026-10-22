@@ -2,15 +2,15 @@
 
 Iroh es una pila de redes modular que hace que las conexiones de red sean más flexibles mediante el uso de direccionamiento basado en claves en lugar de direcciones IP. Desarrollada con el lenguaje Rust, esta herramienta proporciona una infraestructura resistente a las interrupciones de la red y proporciona transferencia directa de datos.
 
-- ★ 12.610
+- ★ 12.781
 - GitHub Trending · 2026-06-17
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 12,610 → 12,781, última versión v1.4.0 (20 de octubre de 2026).
 - **29 de septiembre de 2026:** Estrellas 12,490 → 12,610, última versión v1.3.0 (28 de septiembre de 2026).
 - **12 de septiembre de 2026:** Estrellas 12,327 → 12,490, última versión v1.2.0 (11 de septiembre de 2026).
 - **27 de agosto de 2026:** Estrellas 11,957 → 12,327, última versión v1.1.0 (25 de agosto de 2026).
-- **2 de agosto de 2026:** Estrellas 9,418 → 11,957, última versión v1.0.3 (20 de julio de 2026).
 
 ## Qué aporta
 
@@ -52,6 +52,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar una conexión de red basada en conmutador utilizando la biblioteca Iroh. ¿Puede crear una estructura de código de ejemplo básica que muestre cómo puedo crear un punto final en Rust, conectarme a otro punto final mediante una clave pública e iniciar un flujo de datos seguro con el protocolo QUIC?
 
+Repositorio: https://github.com/n0-computer/iroh. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Key-based](https://trescout.com/es/dictionary/key-based/)
@@ -67,7 +75,7 @@ Quiero configurar una conexión de red basada en conmutador utilizando la biblio
 - [Repositorio en GitHub →](https://github.com/n0-computer/iroh)
 - [Leer en turco →](https://trescout.com/discover/iroh/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-17: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-17: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/iroh/

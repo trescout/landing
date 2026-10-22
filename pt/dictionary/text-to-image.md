@@ -39,7 +39,7 @@ O uso de expressões de prompt detalhadas e claras aumenta diretamente a qualida
 - [Prompt Engineering](https://trescout.com/pt/dictionary/prompt-engineering/)
 - [Multimodal](https://trescout.com/pt/dictionary/multimodal/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/text-to-image/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/text-to-image/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/text-to-image/

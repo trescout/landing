@@ -2,12 +2,13 @@
 
 Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, kendi sunucunuzda barındırabileceğiniz (self-hostable) bir içerik yönetim uygulamasıdır. Yapay zekâ destekli otomatik etiketleme (automatic tagging) ve tam metin arama (full text search) özellikleri ile dijital arşivleme süreçlerini kolaylaştırır.
 
-- ★ 29.676
+- ★ 29.731
 - TypeScript
 - GitHub Trending · 2026-07-07
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 29.676 → 29.731, son sürüm v0.34.0 (17 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 28.260 → 29.676, son sürüm v0.33.2 (11 Ağustos 2026).
 - **12 Ağustos 2026:** Yıldız 28.017 → 28.260, son sürüm v0.33.2 (11 Ağustos 2026).
 - **2 Ağustos 2026:** Yıldız 27.033 → 28.017, son sürüm v0.33.1 (1 Ağustos 2026).
@@ -41,7 +42,7 @@ Kurulum yapmak için resmî dokümantasyon sayfasındaki Docker kurulum rehberin
 
 - [GitHub deposu →](https://github.com/karakeep-app/karakeep)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

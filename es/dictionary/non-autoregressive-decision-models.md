@@ -34,7 +34,7 @@ A pesar de ser rápidos, es posible que no proporcionen resultados tan precisos 
 - [Inference Engine](https://trescout.com/es/dictionary/inference-engine/)
 - [Introduction to Autonomous Robots](https://trescout.com/es/dictionary/autonomous-robots-intro/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/non-autoregressive-decision-models/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/non-autoregressive-decision-models/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/non-autoregressive-decision-models/

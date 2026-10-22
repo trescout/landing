@@ -2,16 +2,16 @@
 
 Desarrollada por Hugging Face, Transformers es una biblioteca que se utiliza para entrenar y ejecutar modelos de aprendizaje automático de última generación en diferentes tipos de datos, como texto, imágenes y audio. Proporciona a los desarrolladores acceso a modelos populares de inteligencia artificial y la oportunidad de perfeccionarlos.
 
-- ★ 167.017
+- ★ 167.893
 - Python
 - GitHub Trending · 2026-08-12
 
 ## Actualizaciones
 
+- **20 de octubre de 2026:** Estrellas 167,782 → 167,893, última versión v5.20.2 (19 de octubre de 2026).
+- **17 de octubre de 2026:** Estrellas 167,756 → 167,782, última versión v5.20.1 (16 de octubre de 2026).
+- **16 de octubre de 2026:** Estrellas 167,017 → 167,756, última versión v5.20.0 (15 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 166,876 → 167,017, última versión v5.19.0 (6 de octubre de 2026).
-- **1 de octubre de 2026:** Estrellas 165,067 → 166,876, última versión v5.18.0 (30 de septiembre de 2026).
-- **10 de septiembre de 2026:** Estrellas 164,497 → 165,067, última versión v5.17.0 (9 de septiembre de 2026).
-- **27 de agosto de 2026:** Estrellas 164,253 → 164,497, última versión v5.16.1 (26 de agosto de 2026).
 
 ## Qué aporta
 
@@ -40,6 +40,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero ejecutar un modelo de representación de texto usando la biblioteca Transformers. ¿Cómo puedo empezar a utilizar rápidamente la API Pipeline? ¿Puedes ayudarme con un ejemplo de código y una explicación paso a paso?
 
+Repositorio: https://github.com/huggingface/transformers. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Fine-tuning](https://trescout.com/es/dictionary/fine-tuning/)
@@ -55,7 +63,7 @@ Quiero ejecutar un modelo de representación de texto usando la biblioteca Trans
 - [Repositorio en GitHub →](https://github.com/huggingface/transformers)
 - [Leer en turco →](https://trescout.com/discover/transformers/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/transformers/

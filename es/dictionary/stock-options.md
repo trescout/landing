@@ -39,7 +39,7 @@ Es el tiempo mínimo que el empleado debe permanecer en la empresa para tener de
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
 - [Best Practices](https://trescout.com/es/dictionary/best-practices/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/stock-options/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/stock-options/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/stock-options/

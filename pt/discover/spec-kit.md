@@ -2,16 +2,16 @@
 
 Publicado pelo GitHub, o spec-kit oferece as ferramentas necessárias para iniciar processos de desenvolvimento orientados por especificações. Esta biblioteca baseada em Python facilita a integração de especificações técnicas definidas durante a fase de desenvolvimento de software em processos de código.
 
-- ★ 141.105
+- ★ 142.031
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 141,590 → 142,031, versão mais recente v1.2.2 (19 de outubro de 2026).
+- **17 de outubro de 2026:** Estrelas 141,105 → 141,590, versão mais recente v1.2.1 (16 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 140,661 → 141,105, versão mais recente v1.2.0 (13 de outubro de 2026).
 - **10 de outubro de 2026:** Estrelas 140,632 → 140,661, versão mais recente v1.1.3 (9 de outubro de 2026).
-- **8 de outubro de 2026:** Estrelas 140,470 → 140,632, versão mais recente v1.1.2 (7 de outubro de 2026).
-- **7 de outubro de 2026:** Estrelas 139,912 → 140,470, versão mais recente v1.1.1 (6 de outubro de 2026).
 
 ## O que você ganha
 
@@ -42,6 +42,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ao usar um agente de codificação de IA, defina padrões de qualidade e desempenho usando o comando /speckit.constitution para determinar as linhas de base do projeto. Em seguida, explique os objetivos do aplicativo que você deseja construir com /speckit.specify, especifique sua arquitetura técnica com /speckit.plan e, finalmente, crie a lista de tarefas com /speckit.tasks e desenvolva o aplicativo com o comando /speckit.implement.
 
+Repositório: https://github.com/github/spec-kit. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Spec-driven Development](https://trescout.com/pt/dictionary/spec-driven-development/)
@@ -56,7 +64,7 @@ Ao usar um agente de codificação de IA, defina padrões de qualidade e desempe
 - [Repositório no GitHub →](https://github.com/github/spec-kit)
 - [Ler em turco →](https://trescout.com/discover/spec-kit/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-05: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-05: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/spec-kit/

@@ -2,15 +2,15 @@
 
 Archify est une compétence d'agent IA qui crée des diagrammes d'architecture, de flux de données et de flux de travail sous forme de fichiers HTML vérifiables et animés. Utilisé pour visualiser des conceptions de systèmes complexes, cet outil prend en charge l'exportation de diagrammes haute résolution.
 
-- ★ 82 984
+- ★ 85 613
 - GitHub Trending · 2026-08-26
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 82,984 → 85,613, dernière version v3.2.0 (19 octobre 2026).
 - **13 octobre 2026:** Étoiles 81,841 → 82,984, dernière version v3.1.0 (13 octobre 2026).
 - **11 octobre 2026:** Étoiles 77,819 → 81,841, dernière version v3.0.1 (28 septembre 2026).
 - **5 octobre 2026:** Étoiles 73,342 → 77,819, dernière version v3.0.1 (28 septembre 2026).
-- **28 septembre 2026:** Étoiles 72,294 → 73,342, dernière version v3.0.1 (28 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -32,6 +32,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Utilisez Archify pour schématiser une requête Web : le navigateur appelle l'API, l'API vérifie Redis et un échec de cache interroge PostgreSQL et remplit le cache.
 
+Dépôt : https://github.com/tt-a1i/archify. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Skill](https://trescout.com/fr/dictionary/skill/)
@@ -47,7 +55,7 @@ Utilisez Archify pour schématiser une requête Web : le navigateur appelle l'A
 - [Dépôt GitHub →](https://github.com/tt-a1i/archify)
 - [Lire en turc →](https://trescout.com/discover/archify/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/archify/

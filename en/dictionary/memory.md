@@ -48,7 +48,7 @@ On most systems you can delete this data with the 'clear memory' or 'forget' com
 - [Pgrust](https://trescout.com/en/discover/pgrust/)
 - [Hivemind](https://trescout.com/en/discover/hivemind/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/memory/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/memory/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/memory/

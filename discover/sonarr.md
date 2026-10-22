@@ -2,13 +2,15 @@
 
 Sonarr, Usenet (haber grupları) ve BitTorrent kullanıcıları için geliştirilmiş açık kaynaklı, akıllı bir kişisel video kaydedici (PVR) ve medya otomasyon yöneticisidir. C# ve .NET altyapısıyla geliştirilen platform; yeni yayınlanan bölümleri takip eder, indirme istemcileriyle iletişim kurar, dosyaları yeniden adlandırıp Plex ve Jellyfin kütüphanelerine düzenli şekilde aktarır.
 
-- ★ 16.274
+- ★ 17.274
 - C#
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
 
-- **17 Eylül 2026:** Yıldız 16.274, son kararlı sürüm v4.0.20.3014 (.NET 8 çalışma zamanı optimizasyonları ve özel biçim puanlama güncellemeleri).
+- **18 Ekim 2026:** Yıldız 16.274 → 17.274, son sürüm v4.0.20.3014 (16 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 15.798 → 16.274, son sürüm v4.0.20.3014 (16 Eylül 2026).
+- **12 Eylül 2026:** Yıldız 15.796 → 15.798, son sürüm v4.0.19.2979 (26 Haziran 2026).
 
 ## Ne kazandırır?
 
@@ -76,6 +78,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Ev sunucumda Docker üzerinde Sonarr, qBittorrent, Prowlarr ve Jellyfin servislerini birlikte çalıştırmak istiyorum. Sabit bağlantıların (hardlink) sorunsuz çalışması için tek bir kök dizin bağlama (volume mount) yapısını içeren eksiksiz bir docker-compose.yml dosyası ve Sonarr web panelinde yapmam gereken ilk ayarları adım adım açıklar mısın?
 
+Depo: https://github.com/Sonarr/Sonarr. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Ev sunucusu (Homelab) sahipleri, medya tutkunları ve dizi arşivlerini zahmetsizce yönetmek isteyenler.
 - **Lisans:** GPL-3.0 (Açık kaynak lisansı)
 - **Altyapı:** C# ve .NET tabanlı web servisi
@@ -92,7 +102,7 @@ Ev sunucumda Docker üzerinde Sonarr, qBittorrent, Prowlarr ve Jellyfin servisle
 
 - [GitHub deposu →](https://github.com/Sonarr/Sonarr)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
@@ -100,8 +110,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [HDR](https://trescout.com/dictionary/hdr/)
 - [VPN](https://trescout.com/dictionary/vpn/)
 - [Pipeline](https://trescout.com/dictionary/pipeline/)
-- [API](https://trescout.com/dictionary/api/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sonarr/

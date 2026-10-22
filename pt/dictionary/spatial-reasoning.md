@@ -38,7 +38,7 @@ Ele é treinado por meio de simulações 3D e câmeras com detecção de profund
 - [Autonomous Robotics](https://trescout.com/pt/dictionary/autonomous-robotics/)
 - [Computer Vision](https://trescout.com/pt/dictionary/computer-vision/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/spatial-reasoning/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/spatial-reasoning/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/spatial-reasoning/

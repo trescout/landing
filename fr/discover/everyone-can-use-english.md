@@ -23,6 +23,10 @@ Vous pouvez visiter Enjoy.bot pour commencer à l'utiliser immédiatement via vo
 
 - [Source officielle →](https://1000h.org)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il convient à toute personne souhaitant améliorer ses compétences en anglais à l’aide d’un programme structuré et d’outils numériques.
 - **Licence:** GPL-3.0
 
@@ -31,7 +35,7 @@ Vous pouvez visiter Enjoy.bot pour commencer à l'utiliser immédiatement via vo
 - [Dépôt GitHub →](https://github.com/ZuodaoTech/everyone-can-use-english)
 - [Lire en turc →](https://trescout.com/discover/everyone-can-use-english/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-13 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-13 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/everyone-can-use-english/

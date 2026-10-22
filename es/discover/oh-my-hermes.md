@@ -2,16 +2,16 @@
 
 Oh-my-hermes, desarrollado para Hermes Agent, ofrece paquetes de inteligencia de codificación, sistema de memoria a largo plazo y flujo de trabajo orientado a modelos en un solo complemento. Esta herramienta, que optimiza los procesos de desarrollo de software, proporciona a los desarrolladores un entorno de trabajo integral con su estructura basada en Python.
 
-- ★ 3.258
+- ★ 3.432
 - Python
 - GitHub Trending · 2026-09-15
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 3,258 → 3,432, última versión v4.0.0 (19 de octubre de 2026).
 - **11 de octubre de 2026:** Estrellas 3,200 → 3,258, última versión v3.0.2 (11 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 3,018 → 3,200, última versión v3.0.1 (7 de octubre de 2026).
 - **29 de septiembre de 2026:** Estrellas 2,982 → 3,018, última versión v3.0.0 (29 de septiembre de 2026).
-- **27 de septiembre de 2026:** Estrellas 2,299 → 2,982, última versión v2.0.5 (22 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -47,6 +47,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instala y configura el complemento Oh My Hermes en Hermes Agent. Durante el proceso de instalación, utiliza el instalador adecuado para el sistema operativo, completa la configuración interactiva del modelo, realiza la conversación de la cadena de modelos y ejecuta los pasos de 'doctor'. Manteniendo la configuración actual de Hermes, aplica solo los cambios de instalación documentados e informa el resultado de la operación.
 
+Repositorio: https://github.com/rlaope/oh-my-hermes. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Hermes Agent](https://trescout.com/es/dictionary/hermes-agent/)
@@ -61,7 +69,7 @@ Instala y configura el complemento Oh My Hermes en Hermes Agent. Durante el proc
 - [Repositorio en GitHub →](https://github.com/rlaope/oh-my-hermes)
 - [Leer en turco →](https://trescout.com/discover/oh-my-hermes/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/oh-my-hermes/

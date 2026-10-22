@@ -2,16 +2,16 @@
 
 Effect-TS, TypeScript ile ölçeklenebilir ve hata toleransı yüksek uygulamalar geliştirmeyi sağlayan bir kütüphane ekosistemi. Karmaşık iş akışlarını yönetmek için fonksiyonel programlama prensiplerini kullanarak yazılım geliştirme süreçlerini standartlaştırıyor.
 
-- ★ 17.292
+- ★ 17.303
 - TypeScript
 - GitHub Trending · 2026-10-03
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 17.292 → 17.303, son sürüm @effect/platform-bun@0.91.3 (16 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 17.264 → 17.292, son sürüm @effect/openapi-generator@4.0.5 (15 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 17.198 → 17.264, son sürüm @effect/openapi-generator@4.0.4 (13 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 17.160 → 17.198, son sürüm @effect/openapi-generator@4.0.3 (10 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 17.011 → 17.160, son sürüm @effect/openapi-generator@4.0.2 (7 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 TypeScript tabanlı projeme Effect kütüphanesini dahil etmek istiyorum. 'npm install effect' komutunu kullanarak gerekli kurulumu yap ve projede 'tsconfig.json' üzerinde 'strict' tip denetimi ayarının etkin olduğundan emin ol.
 
+Depo: https://github.com/Effect-TS/effect. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** TypeScript projelerinde karmaşık veri akışlarını, eş zamanlı işlemleri ve hata yönetimini daha düzenli yürütmek isteyen yazılım ekipleri içindir.
 - **Lisans:** MIT
 
@@ -40,7 +48,7 @@ TypeScript tabanlı projeme Effect kütüphanesini dahil etmek istiyorum. 'npm i
 
 - [GitHub deposu →](https://github.com/Effect-TS/effect)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-10-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

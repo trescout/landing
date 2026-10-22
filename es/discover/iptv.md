@@ -2,7 +2,7 @@
 
 El proyecto iptv-org, que reúne canales de televisión públicos de todo el mundo en un solo centro, presenta listas de transmisiones de televisión a través del protocolo de Internet (IPTV) como un conjunto de datos organizado. Desarrollada con TypeScript, esta colección de código abierto estandariza el acceso de los usuarios a publicaciones en diferentes países.
 
-- ★ 134.991
+- ★ 141.767
 - TypeScript
 - GitHub Trending · 2026-06-13
 
@@ -10,6 +10,7 @@ El proyecto iptv-org, que reúne canales de televisión públicos de todo el mun
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 134,991 → 141,767.
 - **2 de agosto de 2026:** Estrellas 118,170 → 134,991.
 
 ## Qué aporta
@@ -27,6 +28,7 @@ No necesita ninguna instalación para utilizar esta herramienta. Copie el enlace
 ## Términos relacionados del glosario
 
 - [IPTV](https://trescout.com/es/dictionary/iptv/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para usuarios que quieran ver canales de televisión públicos de todo el mundo desde una única aplicación.
 - **Licencia:** Unlicense
@@ -36,7 +38,7 @@ No necesita ninguna instalación para utilizar esta herramienta. Copie el enlace
 - [Repositorio en GitHub →](https://github.com/iptv-org/iptv)
 - [Leer en turco →](https://trescout.com/discover/iptv/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-13: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-13: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/iptv/

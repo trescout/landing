@@ -44,15 +44,15 @@ Künstliche Intelligenz wird die Art und Weise, wie viele Arbeiten erledigt werd
 ## Verwandte Werkzeuge
 
 - [Build Your Own X](https://trescout.com/de/discover/build-your-own-x/)
+- [Awesome](https://trescout.com/de/discover/awesome/)
+- [Public Apis](https://trescout.com/de/discover/public-apis/)
+- [freeCodeCamp](https://trescout.com/de/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/de/discover/openclaw/)
-- [Coding Interview University](https://trescout.com/de/discover/coding-interview-university/)
-- [Superpowers](https://trescout.com/de/discover/superpowers/)
-- [ECC](https://trescout.com/de/discover/ecc/)
+- [System Design Primer](https://trescout.com/de/discover/system-design-primer/)
 - [REA](https://trescout.com/de/discover/rea/)
-- [Hermes Agent](https://trescout.com/de/discover/hermes-agent/)
-- [Opencode](https://trescout.com/de/discover/opencode/)
+- [Coding Interview University](https://trescout.com/de/discover/coding-interview-university/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/artificial-intelligence/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/artificial-intelligence/

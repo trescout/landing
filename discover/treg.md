@@ -2,11 +2,12 @@
 
 Treg, yapay zekâ ajanları için geliştirilen araçları (agent tools) tek bir arayüz üzerinden yönetmeyi sağlayan bir yönlendirme katmanı (routing layer). Farklı dil modelleri ve araçlar arasında standart bir köprü kurarak geliştiricilerin ajan tabanlı iş akışlarını OpenRouter üzerinden kolayca entegre etmesine imkân tanıyor.
 
-- ★ 4.625
+- ★ 5.646
 - GitHub Trending · 2026-09-23
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 4.625 → 5.646.
 - **7 Ekim 2026:** Yıldız 3.272 → 4.625.
 
 ## Ne kazandırır?
@@ -21,7 +22,7 @@ Treg, yapay zekâ ajanları için geliştirilen araçları (agent tools) tek bir
 
 - [GitHub deposu →](https://github.com/superdesigndev/treg)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

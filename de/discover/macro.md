@@ -2,16 +2,16 @@
 
 Macro ist ein Arbeitsbereich, der Geschäftstools wie E-Mail, Chat, Dokumente und Aufgabenverwaltung mit einem gemeinsamen Speicher für künstliche Intelligenz kombiniert. Diese mit der Rust-Sprache entwickelte Plattform verbindet verschiedene Arbeitsabläufe in einer einzigen Oberfläche.
 
-- ★ 4.680
+- ★ 4.736
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Aktualisierungen
 
+- **19. Oktober 2026:** Sterne 4,705 → 4,736, neueste Version v2026.10.18.0 (18. Oktober 2026).
+- **17. Oktober 2026:** Sterne 4,691 → 4,705, neueste Version v2026.10.16.0 (16. Oktober 2026).
+- **16. Oktober 2026:** Sterne 4,680 → 4,691, neueste Version v2026.10.15.0 (15. Oktober 2026).
 - **15. Oktober 2026:** Sterne 4,666 → 4,680, neueste Version v2026.10.14.0 (14. Oktober 2026).
-- **14. Oktober 2026:** Sterne 4,627 → 4,666, neueste Version v2026.10.13.1 (13. Oktober 2026).
-- **11. Oktober 2026:** Sterne 4,613 → 4,627, neueste Version v2026.10.10.0 (10. Oktober 2026).
-- **10. Oktober 2026:** Sterne 4,598 → 4,613, neueste Version v2026.10.9.1 (9. Oktober 2026).
 
 ## Was es bringt
 
@@ -38,7 +38,7 @@ Um mit der Nutzung der Macro-Plattform zu beginnen, gehen Sie einfach auf die of
 - [GitHub-Repository →](https://github.com/macro-inc/macro)
 - [Auf Türkisch lesen →](https://trescout.com/discover/macro/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-13 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-13 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/macro/

@@ -2,12 +2,13 @@
 
 ntdevlabs/tiny11builder est une application WinUI utilisée pour créer des versions plus petites et personnalisées du système d'exploitation Windows 11. Développé en C#, cet outil permet aux utilisateurs de dimensionner les images système selon leurs propres besoins.
 
-- ★ 20 413
+- ★ 20 743
 - C#
 - GitHub Trending · 2026-10-15
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 20,413 → 20,743, dernière version winui-v0.1.3 (19 octobre 2026).
 - **15 octobre 2026:** Étoiles 20,412 → 20,413, dernière version winui-v0.1.2 (15 octobre 2026).
 
 ## Ce que ça vous apporte
@@ -22,6 +23,10 @@ Téléchargez le fichier d'archive adapté à votre système informatique depuis
 
 - [Source officielle →](https://github.com/ntdevlabs/tiny11builder/releases/latest)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il est destiné aux utilisateurs qui souhaitent débarrasser le système d'exploitation Windows 11 des composants inutiles pour le rendre plus léger.
 
 ## Liens
@@ -29,7 +34,7 @@ Téléchargez le fichier d'archive adapté à votre système informatique depuis
 - [Dépôt GitHub →](https://github.com/ntdevlabs/tiny11builder)
 - [Lire en turc →](https://trescout.com/discover/tiny11builder/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-15 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-15 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/tiny11builder/

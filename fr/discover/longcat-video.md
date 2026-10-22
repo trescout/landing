@@ -36,6 +36,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite installer le projet LongCat-Video sur mon système. Veuillez me guider étape par étape pour télécharger le code source avec les commandes 'git clone --single-branch --branch main https://github.com/meituan-longcat/LongCat-Video' et 'cd LongCat-Video', puis pour exécuter les commandes de téléchargement avec 'pip install "huggingface_hub[cli]"' afin d'accéder aux fichiers requis via la bibliothèque de modèles Hugging Face.
 
+Dépôt : https://github.com/meituan-longcat/LongCat-Video. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Clone](https://trescout.com/fr/dictionary/clone/)
@@ -50,7 +58,7 @@ Je souhaite installer le projet LongCat-Video sur mon système. Veuillez me guid
 - [Dépôt GitHub →](https://github.com/meituan-longcat/LongCat-Video)
 - [Lire en turc →](https://trescout.com/discover/longcat-video/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/longcat-video/

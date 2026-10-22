@@ -2,15 +2,15 @@
 
 O Hindsight oferece uma camada de memória (memory layer) de aprendizado para agentes de inteligência artificial. Fazendo inferências a partir de interações passadas para melhorar os processos de tomada de decisão dos agentes, esta biblioteca de código aberto permite que os sistemas produzam resultados mais consistentes ao longo do tempo.
 
-- ★ 49.114
+- ★ 51.834
 - GitHub Trending · 2026-09-25
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 49,114 → 51,834, versão mais recente v1.0.0 (13 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 47,195 → 49,114, versão mais recente v1.0.0 (13 de outubro de 2026).
 - **8 de outubro de 2026:** Estrelas 46,537 → 47,195, versão mais recente v0.10.3 (8 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 44,051 → 46,537, versão mais recente v0.10.2 (29 de setembro de 2026).
-- **1 de outubro de 2026:** Estrelas 41,939 → 44,051, versão mais recente v0.10.2 (29 de setembro de 2026).
 
 ## O que você ganha
 
@@ -48,6 +48,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero que meu agente de inteligência artificial aprenda com as interações passadas, não apenas lembrando o histórico de conversas, mas também tomando decisões mais consistentes ao longo do tempo. Ajude-me a configurar a instalação do servidor e as conexões do cliente necessárias para integrar esta camada de memória ao meu projeto.
 
+Repositório: https://github.com/vectorize-io/hindsight. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Memory Layer](https://trescout.com/pt/dictionary/memory-layer/)
@@ -62,7 +70,7 @@ Quero que meu agente de inteligência artificial aprenda com as interações pas
 - [Repositório no GitHub →](https://github.com/vectorize-io/hindsight)
 - [Ler em turco →](https://trescout.com/discover/hindsight/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-25: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-25: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/hindsight/

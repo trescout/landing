@@ -38,7 +38,7 @@ No, while basic models only predict words, advanced models acquire this ability 
 - [Spatial Reasoning](https://trescout.com/en/dictionary/spatial-reasoning/)
 - [AI Capabilities](https://trescout.com/en/dictionary/ai-capabilities/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/reasoning-capabilities/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/reasoning-capabilities/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/reasoning-capabilities/

@@ -2,17 +2,17 @@
 
 Cursor-Plugins; Es enthält die offizielle Plugin-Spezifikation und vorgefertigte offizielle Plugins für den Cursor-Code-Editor. Es ermöglicht Entwicklern, ihre eigenen Plugins zu erstellen.
 
-- ★ 10.910
+- ★ 13.145
 - TypeScript
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 12,116 → 13,145.
+- **17. Oktober 2026:** Sterne 10,910 → 12,116.
 - **12. Oktober 2026:** Sterne 9,868 → 10,910.
 - **5. Oktober 2026:** Sterne 8,737 → 9,868.
-- **27. September 2026:** Sterne 7,417 → 8,737.
-- **11. September 2026:** Sterne 6,355 → 7,417.
 
 ## Was es bringt
 
@@ -34,6 +34,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Helfen Sie mir, die offiziellen Cursor-Plugins aus diesem Repository (z. B. Plugins, die Codeüberprüfungen oder Sicherheitsüberprüfungen durchführen) vom Cursor-Plugin-Markt für das Projekt, an dem ich arbeite, im Cursor-Editor zu installieren, und erklären Sie Schritt für Schritt, wie Sie sie verwenden.
 
+Repository: https://github.com/cursor/plugins. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
@@ -51,7 +59,7 @@ Helfen Sie mir, die offiziellen Cursor-Plugins aus diesem Repository (z. B. Plug
 - [GitHub-Repository →](https://github.com/cursor/plugins)
 - [Auf Türkisch lesen →](https://trescout.com/discover/cursor-plugins/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-30 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-30 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/cursor-plugins/

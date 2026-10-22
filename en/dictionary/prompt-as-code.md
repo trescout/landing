@@ -40,7 +40,7 @@ It means automatically checking whether the command gives the expected result wi
 
 - [Awesome Gpt Image 2](https://trescout.com/en/discover/awesome-gpt-image-2/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/prompt-as-code/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/prompt-as-code/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/prompt-as-code/

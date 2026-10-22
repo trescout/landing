@@ -18,6 +18,7 @@ This is not a software tool, but a directory that categorizes open source intell
 ## Related dictionary terms
 
 - [OSINT](https://trescout.com/en/dictionary/osint/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for fraud investigators, cyber threat intelligence analysts and digital investigation professionals.
 - **License:** CC0-1.0
@@ -27,7 +28,7 @@ This is not a software tool, but a directory that categorizes open source intell
 - [GitHub repository →](https://github.com/K2SOsint/Legendary_OSINT)
 - [Read in Turkish →](https://trescout.com/discover/legendary-osint/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/legendary-osint/

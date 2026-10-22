@@ -2,12 +2,13 @@
 
 O cmux, um terminal para macOS baseado no Ghostty, oferece suporte a notificações para abas verticais e agentes de codificação de inteligência artificial. Focado em multitarefa e programabilidade, esta ferramenta ajuda os desenvolvedores a organizar seus ambientes de trabalho.
 
-- ★ 28.146
+- ★ 28.206
 - Swift
 - GitHub Trending · 2026-10-07
 
 ## Atualizações
 
+- **16 de outubro de 2026:** Estrelas 28,146 → 28,206, versão mais recente v0.65.2 (16 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 27,695 → 28,146, versão mais recente v0.65.1 (12 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 27,683 → 27,695, versão mais recente v0.65.0 (5 de outubro de 2026).
 
@@ -40,6 +41,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 O cmux é um terminal macOS que me permite acompanhar notificações ao trabalhar com agentes de codificação de inteligência artificial, gerenciar janelas com guias verticais e horizontais e usar o navegador integrado. Resuma as etapas necessárias para instalar e começar a usar esta ferramenta.
 
+Repositório: https://github.com/manaflow-ai/cmux. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Script](https://trescout.com/pt/dictionary/script/)
@@ -54,7 +63,7 @@ O cmux é um terminal macOS que me permite acompanhar notificações ao trabalha
 - [Repositório no GitHub →](https://github.com/manaflow-ai/cmux)
 - [Ler em turco →](https://trescout.com/discover/cmux/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-10-07: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-10-07: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/cmux/

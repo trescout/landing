@@ -23,6 +23,10 @@ Esta herramienta no requiere instalación de software. Al visitar la página de 
 
 - [Fuente oficial →](https://git.io/macx)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es adecuado para cualquier persona que sea un nuevo usuario de Mac o quiera equipar su sistema con las mejores herramientas.
 - **Licencia:** CC0-1.0
 
@@ -31,7 +35,7 @@ Esta herramienta no requiere instalación de software. Al visitar la página de 
 - [Repositorio en GitHub →](https://github.com/jaywcjlove/awesome-mac)
 - [Leer en turco →](https://trescout.com/discover/awesome-mac/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/awesome-mac/

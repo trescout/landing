@@ -2,16 +2,16 @@
 
 Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur (agentic engineering platform). Açık kaynak kodlu yazılım geliştirme ajanı (coding agent) üzerinden uygulama oluşturma, dağıtma ve yineleme süreçlerini standartlaştırır.
 
-- ★ 27.613
+- ★ 27.663
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 27.631 → 27.663, son sürüm v7.8.15 (19 Ekim 2026).
+- **17 Ekim 2026:** Yıldız 27.629 → 27.631, son sürüm jetbrains/v7.1.11 (16 Ekim 2026).
+- **16 Ekim 2026:** Yıldız 27.613 → 27.629, son sürüm jetbrains/v7.1.10 (15 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 27.533 → 27.613, son sürüm v7.8.12 (15 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 27.518 → 27.533, son sürüm jetbrains/v7.1.9 (8 Ekim 2026).
-- **7 Ekim 2026:** Yıldız 27.460 → 27.518, son sürüm v7.8.8 (7 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 27.420 → 27.460, son sürüm v7.8.3 (1 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -53,6 +53,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir yazılım geliştirme ajanı olarak, mevcut proje dizinimde doğal dilden kod oluşturma, hata ayıklama veya mimari planlama süreçlerimi yönetmene ihtiyacım var. Kilo'nun sunduğu 500'den fazla model arasından görevime en uygun olanı seçerek, yazdığın kodları kendi kendini denetleme mekanizmanla gözden geçirip performans ve güvenlik standartlarına uygun şekilde teslim etmeni istiyorum.
 
+Depo: https://github.com/Kilo-Org/kilocode. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yazılım geliştirme süreçlerini yapay zekâ destekli ajanlarla hızlandırmak isteyen tüm geliştiriciler için uygundur.
 - **Lisans:** MIT
 
@@ -60,7 +68,7 @@ Bir yazılım geliştirme ajanı olarak, mevcut proje dizinimde doğal dilden ko
 
 - [GitHub deposu →](https://github.com/Kilo-Org/kilocode)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

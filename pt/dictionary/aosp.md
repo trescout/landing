@@ -36,7 +36,7 @@ Não, os serviços do Google estão sujeitos a uma licença separada; o AOSP é 
 - [Operating System for Robotics](https://trescout.com/pt/dictionary/operating-system-for-robotics/)
 - [Linux Server Security](https://trescout.com/pt/dictionary/linux-server-security/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/aosp/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/aosp/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/aosp/

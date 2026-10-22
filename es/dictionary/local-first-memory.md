@@ -66,7 +66,7 @@ Sí, con cifrado del dispositivo. El bloqueo contra la pérdida del dispositivo 
 - [Memory System](https://trescout.com/es/dictionary/memory-system/)
 - [Self-hosting](https://trescout.com/es/dictionary/self-hosting/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/local-first-memory/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/local-first-memory/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/local-first-memory/

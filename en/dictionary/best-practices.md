@@ -68,7 +68,7 @@ In the speed phase, fewer things are chosen: Release discipline, backup, and cod
 
 - [Claude Code Best Practice](https://trescout.com/en/discover/claude-code-best-practice/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/best-practices/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/best-practices/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/best-practices/

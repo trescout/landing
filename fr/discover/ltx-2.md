@@ -2,15 +2,15 @@
 
 Développé par Lightricks, LTX-2 propose un package de formation Python d'inférence et d'adaptation de bas rang (LoRA) pour les modèles d'intelligence artificielle qui produisent de l'audio et de la vidéo. Cet ensemble d'outils permet aux utilisateurs de former des modèles LTX-2 avec leurs propres données et d'exécuter les sorties du modèle sur les systèmes locaux.
 
-- ★ 9 567
+- ★ 9 793
 - GitHub Trending · 2026-06-19
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 9,567 → 9,793, dernière version v1.5.0 (18 octobre 2026).
 - **2 octobre 2026:** Étoiles 9,562 → 9,567, dernière version v1.4.2 (2 octobre 2026).
 - **1 octobre 2026:** Étoiles 9,552 → 9,562, dernière version v1.4.1 (30 septembre 2026).
 - **29 septembre 2026:** Étoiles 9,267 → 9,552, dernière version v1.4.0 (29 septembre 2026).
-- **27 août 2026:** Étoiles 8,587 → 9,267, dernière version v1.3.0 (26 août 2026).
 
 ## Ce que ça vous apporte
 
@@ -47,6 +47,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Veuillez créer une vidéo à l'aide du modèle LTX-2 qui décrit la scène que je souhaite en détail et inclut la synchronisation audio et vidéo. Demandez au modèle de produire une sortie en spécifiant les détails de la scène, l'apparence du personnage, l'angle de la caméra et le texte vocal.
 
+Dépôt : https://github.com/Lightricks/LTX-2. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [LoRA](https://trescout.com/fr/dictionary/lora/)
@@ -61,7 +69,7 @@ Veuillez créer une vidéo à l'aide du modèle LTX-2 qui décrit la scène que 
 - [Dépôt GitHub →](https://github.com/Lightricks/LTX-2)
 - [Lire en turc →](https://trescout.com/discover/ltx-2/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-19 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-19 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/ltx-2/

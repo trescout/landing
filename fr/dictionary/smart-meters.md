@@ -38,7 +38,7 @@ Il est généralement transmis via des protocoles cryptés, essayant ainsi de pr
 - [Data Pipeline](https://trescout.com/fr/dictionary/data-pipeline/)
 - [Dashboard](https://trescout.com/fr/dictionary/dashboard/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/smart-meters/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/smart-meters/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/smart-meters/

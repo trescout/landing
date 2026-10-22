@@ -43,7 +43,7 @@ Yes, most agentic systems are designed to learn from experience and work more ef
 
 - [OpenMontage](https://trescout.com/en/discover/openmontage/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agentic-system/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agentic-system/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agentic-system/

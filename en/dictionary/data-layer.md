@@ -38,7 +38,7 @@ When designed correctly, it improves performance because it can cache data.
 - [API](https://trescout.com/en/dictionary/api/)
 - [Tech Stack](https://trescout.com/en/dictionary/tech-stack/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/data-layer/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/data-layer/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/data-layer/

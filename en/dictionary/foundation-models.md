@@ -38,7 +38,7 @@ Since it requires massive processing power and data to train them, this is quite
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [Generative AI](https://trescout.com/en/dictionary/generative-ai/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/foundation-models/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/foundation-models/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/foundation-models/

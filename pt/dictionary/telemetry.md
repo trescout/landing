@@ -60,7 +60,7 @@ Sim. Há uma taxa de transporte e armazenamento de dados. É por isso que a amos
 - [Observability](https://trescout.com/pt/dictionary/observability/)
 - [Traces](https://trescout.com/pt/dictionary/traces/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/telemetry/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/telemetry/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/telemetry/

@@ -2,16 +2,16 @@
 
 Pocket-TTS wurde von Kyutai Labs entwickelt und ist ein leichtes Text-to-Speech-Modell, das nur auf der Zentraleinheit (CPU) läuft, ohne dass eine Grafikverarbeitungseinheit erforderlich ist. Dank seines geringen Ressourcenverbrauchs bietet es eine schnelle und effiziente Klangsynthese auf Geräten mit Hardware-Einschränkungen.
 
-- ★ 9.663
+- ★ 9.972
 - Python
 - GitHub Trending · 2026-07-08
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 9,663 → 9,972, neueste Version v4.0.0 (20. Oktober 2026).
 - **27. September 2026:** Sterne 9,348 → 9,663, neueste Version v3.3.0 (24. September 2026).
 - **4. September 2026:** Sterne 9,151 → 9,348, neueste Version v3.1.0 (3. September 2026).
 - **27. August 2026:** Sterne 7,994 → 9,151, neueste Version v3.0.2 (25. August 2026).
-- **2. August 2026:** Sterne 6,350 → 7,994, neueste Version v2.1.0 (4. Mai 2026).
 
 ## Was es bringt
 
@@ -53,6 +53,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem Pocket TTS-Tool Text in Sprache umwandeln. Erklären Sie, wie Sie die erforderlichen Befehle und das Soundmodell konfigurieren, um schnell und nur mit Prozessorleistung eine Audiodatei auf meinem Computer zu erstellen. Erklären Sie insbesondere Schritt für Schritt, wie ich die Standard-Audioeinstellungen ändern und mein Audio mithilfe meiner eigenen Audiodatei klonen kann.
 
+Repository: https://github.com/kyutai-labs/pocket-tts. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Text-to-Speech](https://trescout.com/de/dictionary/text-to-speech/)
@@ -67,7 +75,7 @@ Ich möchte mit dem Pocket TTS-Tool Text in Sprache umwandeln. Erklären Sie, wi
 - [GitHub-Repository →](https://github.com/kyutai-labs/pocket-tts)
 - [Auf Türkisch lesen →](https://trescout.com/discover/pocket-tts/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-08 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-08 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/pocket-tts/

@@ -33,7 +33,7 @@ Pueden producirse retrasos de milisegundos debido al tiempo que lleva codificar 
 - [IPTV](https://trescout.com/es/dictionary/iptv/)
 - [Web Interface](https://trescout.com/es/dictionary/web-interface/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/live-streams/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/live-streams/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/live-streams/

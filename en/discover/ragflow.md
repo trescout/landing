@@ -2,16 +2,16 @@
 
 RAGFlow is an open source fetch-based generation (RAG) engine that creates a context layer for large language models (LLM). It aims to improve data processing and accuracy of responses by combining advanced RAG techniques with agent capabilities.
 
-- ★ 91,477
+- ★ 92,317
 - Go
 - GitHub Trending · 2026-08-13
 
 ## Updates
 
+- **October 16, 2026:** Stars 91,477 → 92,317, latest release v1.0.0-rc2 (October 16, 2026).
 - **September 29, 2026:** Stars 90,512 → 91,477, latest release v1.0.0-rc1 (September 29, 2026).
 - **September 11, 2026:** Stars 89,753 → 90,512, latest release v0.27.2 (September 10, 2026).
 - **August 31, 2026:** Stars 88,819 → 89,753, latest release v0.27.1 (August 28, 2026).
-- **August 19, 2026:** Stars 88,549 → 88,819, latest release v0.27.0 (August 19, 2026).
 
 ## What you get
 
@@ -39,6 +39,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to transform the complex documents and unstructured data I have into a high-quality information source that artificial intelligence models can understand. How can I process my data using RAGFlow, configure document fragmentation templates, and create an error-free, source-referencing AI agent using this data?
 
+Repository: https://github.com/infiniflow/ragflow. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [RAG](https://trescout.com/en/dictionary/rag/)
@@ -53,7 +61,7 @@ I want to transform the complex documents and unstructured data I have into a hi
 - [GitHub repository →](https://github.com/infiniflow/ragflow)
 - [Read in Turkish →](https://trescout.com/discover/ragflow/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/ragflow/

@@ -2,15 +2,15 @@
 
 Oh-my-pi é um agente de codificação de inteligência artificial que roda em um ambiente de terminal e automatiza processos de edição de código. A ferramenta visa otimizar fluxos de trabalho de desenvolvimento de software com recursos como protocolo de servidor de linguagem (LSP), integração de navegador e gerenciamento de subagentes.
 
-- ★ 35.537
+- ★ 36.096
 - GitHub Trending · 2026-06-02
 
 ## Atualizações
 
-- **15 de outubro de 2026:** Estrelas 35,495 → 35,537, versão mais recente v18.11.1 (15 de outubro de 2026).
-- **15 de outubro de 2026:** Estrelas 35,383 → 35,495, versão mais recente v18.11.0 (14 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 35,198 → 35,383, versão mais recente v18.10.4 (13 de outubro de 2026).
-- **12 de outubro de 2026:** Estrelas 35,160 → 35,198, versão mais recente v18.10.3 (12 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 36,014 → 36,096, versão mais recente v18.12.5 (21 de outubro de 2026).
+- **20 de outubro de 2026:** Estrelas 35,913 → 36,014, versão mais recente v18.12.3 (19 de outubro de 2026).
+- **19 de outubro de 2026:** Estrelas 35,803 → 35,913, versão mais recente v18.12.2 (18 de outubro de 2026).
+- **18 de outubro de 2026:** Estrelas 35,712 → 35,803, versão mais recente v18.12.1 (17 de outubro de 2026).
 
 ## O que você ganha
 
@@ -53,6 +53,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Comecei a usar a ferramenta Oh My Pi no meu terminal. Como posso otimizar meu fluxo de trabalho usando recursos avançados como suporte LSP, depuração e gerenciamento de subagentes em meus projetos com este agente de codificação de IA? Explique passo a passo como utilizar as ferramentas integradas que esta ferramenta oferece da forma mais eficiente, principalmente na edição de código, leitura de arquivos e depuração.
 
+Repositório: https://github.com/can1357/oh-my-pi. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [LSP](https://trescout.com/pt/dictionary/lsp/)
@@ -70,7 +78,7 @@ Comecei a usar a ferramenta Oh My Pi no meu terminal. Como posso otimizar meu fl
 - [Repositório no GitHub →](https://github.com/can1357/oh-my-pi)
 - [Ler em turco →](https://trescout.com/discover/oh-my-pi/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-02: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-02: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/oh-my-pi/

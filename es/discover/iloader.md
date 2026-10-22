@@ -2,16 +2,16 @@
 
 Desarrollado con TypeScript, iloader es un cargador lateral (sideloader) fácil de usar que simplifica el proceso de instalación de aplicaciones en dispositivos iOS. Mejora la experiencia del desarrollador y del usuario al simplificar la instalación de aplicaciones fuera de la tienda oficial de Apple.
 
-- ★ 3.970
+- ★ 4.075
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 4,008 → 4,075, última versión v2.3.10 (18 de octubre de 2026).
+- **16 de octubre de 2026:** Estrellas 3,970 → 4,008, última versión v2.3.9 (16 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 3,934 → 3,970, última versión v2.3.8 (15 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 3,738 → 3,934, última versión v2.3.7 (13 de octubre de 2026).
-- **6 de octubre de 2026:** Estrellas 3,710 → 3,738, última versión v2.3.6 (6 de octubre de 2026).
-- **4 de octubre de 2026:** Estrellas 3,605 → 3,710, última versión v2.3.5 (3 de octubre de 2026).
 
 ## Qué aporta
 
@@ -28,6 +28,7 @@ Visite el sitio web oficial iloader.app para descargar la versión adecuada para
 ## Términos relacionados del glosario
 
 - [Sideloader](https://trescout.com/es/dictionary/sideloader/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Adecuado para usuarios de iOS y desarrolladores que deseen instalar aplicaciones fuera de la tienda oficial de Apple.
 - **Licencia:** MIT
@@ -37,7 +38,7 @@ Visite el sitio web oficial iloader.app para descargar la versión adecuada para
 - [Repositorio en GitHub →](https://github.com/nab138/iloader)
 - [Leer en turco →](https://trescout.com/discover/iloader/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/iloader/

@@ -49,6 +49,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite examiner les schémas matériels à commande de phase 10,5 GHz et les blocs de traitement du signal FPGA du projet PLFM RADAR. Pourriez-vous préparer un script Python de simulation expliquant la génération du signal chirp FMCW, le calcul FFT 2D Portée-Doppler et le transfert de données vers un écran radar PPI basé sur Python ? Pourriez-vous montrer étape par étape l'algorithme de détection de distance et de vitesse pour une cible artificielle ?
 
+Dépôt : https://github.com/NawfalMotii79/PLFM_RADAR. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Est-il possible de fabriquer le système à la maison ou en laboratoire ? Oui. Tous les schémas PCB, les fichiers de production Gerber et les codes FPGA Verilog/VHDL du projet sont disponibles en open source dans le dépôt GitHub. Les cartes peuvent être commandées auprès de fabricants de PCB standard et soudées en laboratoire.
@@ -58,6 +66,7 @@ Je souhaite examiner les schémas matériels à commande de phase 10,5 GHz et le
 
 ## Termes liés du glossaire
 
+- [Drone](https://trescout.com/fr/dictionary/drone/)
 - [Patch](https://trescout.com/fr/dictionary/patch/)
 - [GUI](https://trescout.com/fr/dictionary/gui/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
@@ -73,7 +82,7 @@ Je souhaite examiner les schémas matériels à commande de phase 10,5 GHz et le
 - [Dépôt GitHub →](https://github.com/NawfalMotii79/PLFM_RADAR)
 - [Lire en turc →](https://trescout.com/discover/plfm-radar/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/plfm-radar/

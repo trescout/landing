@@ -36,7 +36,7 @@ No es obligatorio, pero ahorra tiempo en proyectos complejos.
 - [Development Framework](https://trescout.com/es/dictionary/development-framework/)
 - [Agent Development Environment](https://trescout.com/es/dictionary/agent-development-environment/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/ade/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/ade/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ade/

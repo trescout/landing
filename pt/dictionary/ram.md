@@ -72,14 +72,14 @@ SSD é armazenamento permanente, RAM é espaço temporário. Os dois trabalham j
 
 - [Free for Dev](https://trescout.com/pt/discover/free-for-dev/)
 - [Colibri](https://trescout.com/pt/discover/colibri/)
-- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [Airllm](https://trescout.com/pt/discover/airllm/)
+- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [CasaOS](https://trescout.com/pt/discover/casaos/)
 - [Invidious](https://trescout.com/pt/discover/invidious/)
 - [Omlx](https://trescout.com/pt/discover/omlx/)
 - [Needle](https://trescout.com/pt/discover/needle/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ram/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ram/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ram/

@@ -39,7 +39,7 @@ Acelera el proceso de redacción al reconocer y marcar automáticamente los dato
 - [GDPR](https://trescout.com/es/dictionary/gdpr/)
 - [Data Residency](https://trescout.com/es/dictionary/data-residency/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/redaction/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/redaction/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/redaction/

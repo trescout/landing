@@ -38,7 +38,7 @@ No, it is generally designed for small and medium-sized data that needs to be ac
 
 - [Zvec](https://trescout.com/en/discover/zvec/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/in-process-vector-database/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/in-process-vector-database/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/in-process-vector-database/

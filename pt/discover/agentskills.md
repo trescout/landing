@@ -2,12 +2,13 @@
 
 Agent Skills é um projeto de especificação técnica e documentação que padroniza as habilidades utilizadas pelos agentes de inteligência artificial no desempenho de suas tarefas. Esta estrutura baseada em Python visa facilitar o compartilhamento de capacidades e a interoperabilidade entre diferentes sistemas de agentes.
 
-- ★ 24.952
+- ★ 26.203
 - Python
 - GitHub Trending · 2026-07-03
 
 ## Atualizações
 
+- **16 de outubro de 2026:** Estrelas 24,952 → 26,203.
 - **2 de setembro de 2026:** Estrelas 23,755 → 24,952.
 - **2 de agosto de 2026:** Estrelas 21,721 → 23,755.
 
@@ -39,7 +40,7 @@ Agent Skills é um padrão e não uma instalação de software. Para começar, v
 - [Repositório no GitHub →](https://github.com/agentskills/agentskills)
 - [Ler em turco →](https://trescout.com/discover/agentskills/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-03: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-03: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/agentskills/

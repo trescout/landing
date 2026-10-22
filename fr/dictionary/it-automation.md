@@ -34,7 +34,7 @@ Non, l’automatisation vous libère des tâches ennuyeuses et vous permet de vo
 - [Agentic Workflows](https://trescout.com/fr/dictionary/agentic-workflows/)
 - [Deployment](https://trescout.com/fr/dictionary/deployment/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/it-automation/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/it-automation/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/it-automation/

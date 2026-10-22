@@ -47,7 +47,7 @@ Die massiven Datenströme von den Sensoren werden in KI-Modelle eingespeist, wod
 - [Aspnetcore](https://trescout.com/de/discover/aspnetcore/)
 - [Tailcat](https://trescout.com/de/discover/tailcat/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/iot/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/iot/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/iot/

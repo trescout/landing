@@ -2,16 +2,16 @@
 
 Desenvolvido na linguagem Go, o OpenFlux é uma ferramenta de tunelamento TCP projetada para pesquisas na pilha de rede (network stack). Graças ao suporte a transportes conectáveis (pluggable transports), oferece possibilidades flexíveis de análise e gerenciamento sobre o tráfego de rede.
 
-- ★ 2.120
+- ★ 2.184
 - Go
 - GitHub Trending · 2026-09-12
 
 ## Atualizações
 
+- **16 de outubro de 2026:** Estrelas 2,120 → 2,184, versão mais recente v0.13.0 (16 de outubro de 2026).
 - **14 de outubro de 2026:** Estrelas 2,107 → 2,120, versão mais recente v0.7.3 (14 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 2,092 → 2,107, versão mais recente v0.7.2 (13 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 2,088 → 2,092, versão mais recente v0.7.0 (13 de outubro de 2026).
-- **12 de outubro de 2026:** Estrelas 2,066 → 2,088, versão mais recente v0.6.0 (12 de outubro de 2026).
 
 ## O que você ganha
 
@@ -49,6 +49,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Desejo criar um túnel TCP usando a ferramenta OpenFlux. Explique passo a passo as etapas de compilação necessárias para executar o cliente no meu computador desktop e, em seguida, como configurar as definições de proxy SOCKS5 no navegador. Além disso, ao configurar um nó de saída (exit node) em um servidor Linux, especifique com detalhes técnicos por que é necessário bloquear pacotes RST com iptables e qual o impacto dessa operação na segurança da rede.
 
+Repositório: https://github.com/p1neappleXpress/OpenFlux. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Pluggable Transports](https://trescout.com/pt/dictionary/pluggable-transports/)
@@ -64,7 +72,7 @@ Desejo criar um túnel TCP usando a ferramenta OpenFlux. Explique passo a passo 
 - [Repositório no GitHub →](https://github.com/p1neappleXpress/OpenFlux)
 - [Ler em turco →](https://trescout.com/discover/openflux/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-12: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-12: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/openflux/

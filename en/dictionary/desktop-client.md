@@ -38,7 +38,7 @@ For tasks that require higher performance and hardware access, yes, but in terms
 
 - [Jellium Desktop](https://trescout.com/en/discover/jellium-desktop/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/desktop-client/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/desktop-client/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/desktop-client/

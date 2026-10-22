@@ -39,7 +39,7 @@ Yes: Since it categorizes texts as positive, negative, or neutral, it is a speci
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [Machine Learning](https://trescout.com/en/dictionary/machine-learning/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/text-classification/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/text-classification/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/text-classification/

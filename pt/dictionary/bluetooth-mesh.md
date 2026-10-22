@@ -42,7 +42,7 @@ Não, os dispositivos estabelecem uma rede local entre si.
 - [Bitchat](https://trescout.com/pt/discover/bitchat/)
 - [Bitchat Android](https://trescout.com/pt/discover/bitchat-android/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/bluetooth-mesh/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/bluetooth-mesh/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/bluetooth-mesh/

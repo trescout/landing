@@ -38,7 +38,7 @@ Para sua segurança; Não usar sua identidade em um sistema em outro sistema man
 
 - [Simplex Chat](https://trescout.com/pt/discover/simplex-chat/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/user-identifiers/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/user-identifiers/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/user-identifiers/

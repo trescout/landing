@@ -70,7 +70,7 @@ O ambiente do sistema sobrescreve o arquivo. O valor de produção vem do sistem
 
 - [Mise](https://trescout.com/pt/discover/mise/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/environment-variables/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/environment-variables/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/environment-variables/

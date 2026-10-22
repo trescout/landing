@@ -2,16 +2,16 @@
 
 T3Code es un conjunto de herramientas desarrollado para mejorar y estandarizar la calidad del código en proyectos basados en TypeScript. Proporciona soporte de automatización a los desarrolladores en procesos de edición de código y seguridad tipográfica.
 
-- ★ 27.099
+- ★ 28.981
 - TypeScript
 - GitHub Trending · 2026-07-13
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 27,866 → 28,981, última versión v0.1.1 (21 de octubre de 2026).
+- **16 de octubre de 2026:** Estrellas 27,099 → 27,866, última versión v0.1.0 (15 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 25,774 → 27,099, última versión v0.0.45 (2 de octubre de 2026).
 - **6 de octubre de 2026:** Estrellas 24,403 → 25,774, última versión v0.0.45 (2 de octubre de 2026).
-- **3 de octubre de 2026:** Estrellas 23,919 → 24,403, última versión v0.0.45 (2 de octubre de 2026).
-- **29 de septiembre de 2026:** Estrellas 22,829 → 23,919, última versión v0.0.44 (29 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -41,6 +41,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Usando la herramienta T3 Code, configure uno de los proveedores Codex, Claude, Cursor u OpenCode e inicie la interfaz del agente de codificación. Después de completar el proceso de autenticación del proveedor que ha elegido, ejecute la herramienta y comience a recibir soporte de codificación en sus proyectos.
 
+Repositorio: https://github.com/pingdotgg/t3code. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Type Safety](https://trescout.com/es/dictionary/type-safety/)
@@ -54,7 +62,7 @@ Usando la herramienta T3 Code, configure uno de los proveedores Codex, Claude, C
 - [Repositorio en GitHub →](https://github.com/pingdotgg/t3code)
 - [Leer en turco →](https://trescout.com/discover/t3code/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-13: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-13: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/t3code/

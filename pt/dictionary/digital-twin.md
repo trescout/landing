@@ -67,7 +67,7 @@ Na fábrica, na cidade e na energia. O ativo crítico vem primeiro.
 - [Data Pipeline](https://trescout.com/pt/dictionary/data-pipeline/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/digital-twin/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/digital-twin/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/digital-twin/

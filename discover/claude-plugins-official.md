@@ -2,15 +2,16 @@
 
 Anthropic, Claude Code için geliştirilen yüksek kaliteli eklentileri (plugins) tek bir merkezde toplayan resmi bir dizin sunuyor. Bu Python tabanlı yapı, geliştiricilerin kodlama asistanları için hazırlanan araçları (tools) standart bir formatta paylaşmasını ve keşfetmesini sağlıyor.
 
-- ★ 37.531
+- ★ 42.145
 - Python
 - GitHub Trending · 2026-06-24
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 39.644 → 42.145.
+- **16 Ekim 2026:** Yıldız 37.531 → 39.644.
 - **8 Ekim 2026:** Yıldız 35.717 → 37.531.
 - **31 Ağustos 2026:** Yıldız 32.968 → 35.717.
-- **2 Ağustos 2026:** Yıldız 30.960 → 32.968.
 
 ## Ne kazandırır?
 
@@ -31,12 +32,13 @@ Claude Code arayüzü içerisinde '/plugin > Discover' menüsünü kullanarak me
 
 - [GitHub deposu →](https://github.com/anthropics/claude-plugins-official)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Tools](https://trescout.com/dictionary/tools/)
 - [Plugin](https://trescout.com/dictionary/plugin/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-plugins-official/

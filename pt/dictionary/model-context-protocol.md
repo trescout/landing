@@ -52,7 +52,7 @@ Sim, o MCP possui uma estrutura que mantém sob controle as permissões de acess
 - [Fastmcp](https://trescout.com/pt/discover/fastmcp/)
 - [Unity MCP](https://trescout.com/pt/discover/unity-mcp/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/model-context-protocol/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/model-context-protocol/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/model-context-protocol/

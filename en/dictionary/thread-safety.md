@@ -69,7 +69,7 @@ It is difficult to catch, because the error depends on timing. Load testing and 
 - [Concurrency](https://trescout.com/en/dictionary/concurrency/)
 - [System Programming Language](https://trescout.com/en/dictionary/system-programming-language/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/thread-safety/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/thread-safety/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/thread-safety/

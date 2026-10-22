@@ -2,12 +2,13 @@
 
 Model Context Protocol (MCP) sunucuları, üretken yapay zekâ modellerinin harici veri kaynaklarına ve araçlara standart bir arayüz üzerinden erişmesini sağlıyor. Bu protokol, farklı yapay zekâ uygulamalarının veri tabanları veya yazılım araçlarıyla güvenli ve tutarlı bir şekilde bağlantı kurmasına olanak tanıyor.
 
-- ★ 91.136
+- ★ 91.368
 - TypeScript
 - GitHub Trending · 2026-10-01
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 91.136 → 91.368, son sürüm v2.0.0 (19 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 90.905 → 91.136, son sürüm v1.0.0 (11 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 90.906 → 90.905, son sürüm 2026.8.31 (31 Ağustos 2026).
 
@@ -44,13 +45,21 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Model Bağlam Protokolü (MCP) referans sunucularını kullanarak yapay zekâ modelimi dış veri kaynaklarına bağlamak istiyorum. Öncelikle npx -y @modelcontextprotocol/server-memory komutuyla bellek sunucusunu başlatmamda ve masaüstü istemcisi konfigürasyonunu yapılandırmamda bana rehberlik edin. Ayrıca uvx mcp-server-git komutunu kullanarak kod depolarına erişim sağlama adımlarını açıklayın.
 
+Depo: https://github.com/modelcontextprotocol/servers. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ modellerini yerel dosyalar, hafıza ve kod depoları gibi dış araçlarla güvenli bir şekilde entegre etmek isteyen geliştiriciler içindir.
 
 ## Bağlantılar
 
 - [GitHub deposu →](https://github.com/modelcontextprotocol/servers)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-10-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

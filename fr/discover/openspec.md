@@ -2,16 +2,16 @@
 
 OpenSpec est une bibliothèque TypeScript qui prend en charge les processus de développement basés sur les spécifications pour les assistants de code d'intelligence artificielle. Il garantit la standardisation des exigences techniques lors des étapes de développement logiciel et une progression plus contrôlée des processus de production de code.
 
-- ★ 72 001
+- ★ 72 185
 - TypeScript
 - GitHub Trending · 2026-06-28
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 72,001 → 72,185, dernière version v1.14.3 (17 octobre 2026).
 - **15 octobre 2026:** Étoiles 71,132 → 72,001, dernière version v1.14.2 (15 octobre 2026).
 - **6 octobre 2026:** Étoiles 70,815 → 71,132, dernière version v1.14.1 (6 octobre 2026).
 - **1 octobre 2026:** Étoiles 70,448 → 70,815, dernière version v1.14.0 (30 septembre 2026).
-- **27 septembre 2026:** Étoiles 68,748 → 70,448, dernière version v1.13.2 (23 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -41,6 +41,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite démarrer un processus de développement en utilisant OpenSpec. Veuillez examiner la structure actuelle de mon code, faire des suggestions et m'aider à créer un plan comprenant les exigences techniques, les détails de conception et les tâches de mise en œuvre pour une nouvelle fonctionnalité avec la commande `/opsx:propose`.
 
+Dépôt : https://github.com/Fission-AI/OpenSpec. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Spec-driven Development](https://trescout.com/fr/dictionary/spec-driven-development/)
@@ -54,7 +62,7 @@ Je souhaite démarrer un processus de développement en utilisant OpenSpec. Veui
 - [Dépôt GitHub →](https://github.com/Fission-AI/OpenSpec)
 - [Lire en turc →](https://trescout.com/discover/openspec/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/openspec/

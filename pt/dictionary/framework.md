@@ -45,11 +45,11 @@ Não, em projetos muito pequenos e simples, por vezes apenas códigos básicos p
 - [Angular](https://trescout.com/pt/discover/angular/)
 - [Tailwindcss](https://trescout.com/pt/discover/tailwindcss/)
 - [Hyperframes](https://trescout.com/pt/discover/hyperframes/)
+- [AI Job Search](https://trescout.com/pt/discover/ai-job-search/)
 - [Nuxt](https://trescout.com/pt/discover/nuxt/)
-- [Cypress](https://trescout.com/pt/discover/cypress/)
 - [CLI-Anything](https://trescout.com/pt/discover/cli-anything/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/framework/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/framework/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/framework/

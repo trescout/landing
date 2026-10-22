@@ -39,7 +39,7 @@ Die Verwendung detaillierter und klar formulierter Aufforderungsausdrücke erhö
 - [Prompt Engineering](https://trescout.com/de/dictionary/prompt-engineering/)
 - [Multimodal](https://trescout.com/de/dictionary/multimodal/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/text-to-image/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/text-to-image/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/text-to-image/

@@ -29,6 +29,7 @@ Puede descargar Visual Studio Code para los sistemas operativos Windows, macOS y
 
 - [Code Editor](https://trescout.com/es/dictionary/code-editor/)
 - [Editor](https://trescout.com/es/dictionary/editor/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores de software que desean reunir los procesos de edición de código, navegación y depuración ligera bajo un mismo techo.
 - **Licencia:** MIT
@@ -38,7 +39,7 @@ Puede descargar Visual Studio Code para los sistemas operativos Windows, macOS y
 - [Repositorio en GitHub →](https://github.com/microsoft/vscode)
 - [Leer en turco →](https://trescout.com/discover/vscode/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-27: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-27: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/vscode/

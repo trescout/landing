@@ -2,16 +2,16 @@
 
 DeskcommCRM ist eine Open-Source-Plattform für das Kundenbeziehungsmanagement (CRM), die für Unternehmen entwickelt wurde, die ihre Verkäufe über Chats abwickeln. Mit WhatsApp-Integration und integrierten KI-Agenten bietet es eine selbst gehostete Alternative zu kommerzieller Software mit ähnlichen Funktionen (Kommo, Octadesk, Intercom).
 
-- ★ 4.599
+- ★ 4.721
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Aktualisierungen
 
-- **15. Oktober 2026:** Sterne 4,530 → 4,599, neueste Version v1.81.0 (15. Oktober 2026).
-- **11. Oktober 2026:** Sterne 4,513 → 4,530, neueste Version v1.80.0 (11. Oktober 2026).
-- **10. Oktober 2026:** Sterne 4,497 → 4,513, neueste Version v1.79.0 (10. Oktober 2026).
-- **9. Oktober 2026:** Sterne 4,487 → 4,497, neueste Version v1.78.0 (8. Oktober 2026).
+- **20. Oktober 2026:** Sterne 4,651 → 4,721, neueste Version v1.86.0 (19. Oktober 2026).
+- **17. Oktober 2026:** Sterne 4,651 → 4,651, neueste Version v1.85.0 (17. Oktober 2026).
+- **17. Oktober 2026:** Sterne 4,627 → 4,651, neueste Version v1.84.0 (16. Oktober 2026).
+- **16. Oktober 2026:** Sterne 4,599 → 4,627, neueste Version v1.83.0 (16. Oktober 2026).
 
 ## Was es bringt
 
@@ -41,6 +41,16 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich habe die DeskcommCRM-Installation durchgeführt. Hilf mir dabei, einen KI-Agenten zu konfigurieren, der eingehende WhatsApp-Nachrichten entgegennimmt, Kunden qualifiziert und den Verkaufsprozess verwaltet. Erkläre mir Schritt für Schritt, welche API-Schlüssel ich wo definieren muss und wie ich meine erste WhatsApp-Nummer per QR-Code verbinde.
 
+Repository: https://github.com/melgarafael/DeskcommCRM. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Falls ein API-Schlüssel erforderlich ist, fordere mich nicht auf, ihn in den Chat zu schreiben. Zeig mir, wie ich ihn zur .env-Datei hinzufüge und stelle sicher, dass diese Datei nicht an Git übertragen wird.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [VPS](https://trescout.com/de/dictionary/vps/)
@@ -56,7 +66,7 @@ Ich habe die DeskcommCRM-Installation durchgeführt. Hilf mir dabei, einen KI-Ag
 - [GitHub-Repository →](https://github.com/melgarafael/DeskcommCRM)
 - [Auf Türkisch lesen →](https://trescout.com/discover/deskcommcrm/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/deskcommcrm/

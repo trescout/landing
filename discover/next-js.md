@@ -2,16 +2,16 @@
 
 Next.js, React tabanlı web uygulamaları geliştirmek için kullanılan bir çerçeve (framework) olarak sunucu taraflı oluşturma (server-side rendering) ve statik site üretimi gibi özellikler sağlıyor. Modern web projelerinde performans odaklı optimizasyonlar ve ölçeklenebilir altyapı çözümleri sunmasıyla geliştiriciler arasında yaygın bir tercih haline geliyor.
 
-- ★ 143.019
+- ★ 143.035
 - JavaScript
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 143.019 → 143.035, son sürüm v16.4.2 (15 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 143.229 → 143.019, son sürüm v16.4.1 (14 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 142.954 → 143.229, son sürüm v16.4.0 (7 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 142.883 → 142.954, son sürüm v16.3.8 (30 Eylül 2026).
-- **29 Eylül 2026:** Yıldız 142.648 → 142.883, son sürüm v16.3.7 (29 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -51,7 +51,7 @@ Next.js ile çalışmaya başlamak için resmî web sitesi olan nextjs.org adres
 
 - [GitHub deposu →](https://github.com/vercel/next.js)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
@@ -59,6 +59,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Rendering](https://trescout.com/dictionary/rendering/)
 - [Framework](https://trescout.com/dictionary/framework/)
 - [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/next-js/

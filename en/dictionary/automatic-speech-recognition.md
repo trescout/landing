@@ -37,7 +37,7 @@ Yes, thanks to advanced filtering algorithms, it can suppress background noises 
 - [Whisper](https://trescout.com/en/dictionary/whisper/)
 - [Transcription](https://trescout.com/en/dictionary/transcription/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/automatic-speech-recognition/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/automatic-speech-recognition/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/automatic-speech-recognition/

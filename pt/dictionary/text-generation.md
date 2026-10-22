@@ -34,7 +34,7 @@ Sim, às vezes pode produzir informações irrealistas, o que se chama “alucin
 - [Prompt](https://trescout.com/pt/dictionary/prompt/)
 - [Hallucination](https://trescout.com/pt/dictionary/hallucination/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/text-generation/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/text-generation/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/text-generation/

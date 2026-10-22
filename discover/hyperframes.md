@@ -2,16 +2,16 @@
 
 Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor. Yapay zekâ ajanlarının görsel içerik üretmesini kolaylaştırmak amacıyla tasarlanan bu araç, web tabanlı arayüzleri video formatına çeviriyor.
 
-- ★ 64.164
+- ★ 68.881
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
 
-- **15 Ekim 2026:** Yıldız 64.018 → 64.164, son sürüm v0.8.162 (15 Ekim 2026).
-- **15 Ekim 2026:** Yıldız 63.171 → 64.018, son sürüm v0.8.161 (15 Ekim 2026).
-- **14 Ekim 2026:** Yıldız 62.561 → 63.171, son sürüm v0.8.157 (14 Ekim 2026).
-- **13 Ekim 2026:** Yıldız 62.356 → 62.561, son sürüm v0.8.153 (13 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 67.994 → 68.881, son sürüm v0.8.183 (21 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 67.158 → 67.994, son sürüm v0.8.181 (20 Ekim 2026).
+- **19 Ekim 2026:** Yıldız 66.195 → 67.158, son sürüm v0.8.174 (19 Ekim 2026).
+- **18 Ekim 2026:** Yıldız 65.605 → 66.195, son sürüm v0.8.170 (18 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -51,6 +51,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Using /hyperframes, create a 10-second product intro with a fade-in title, a background video, and subtle background music.
 
+Depo: https://github.com/heygen-com/hyperframes. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Web teknolojilerini kullanarak otomatik video içerikleri üretmek isteyen geliştiriciler ve yapay zekâ ajanları ile çalışan tasarımcılar için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -58,7 +66,7 @@ Using /hyperframes, create a 10-second product intro with a fade-in title, a bac
 
 - [GitHub deposu →](https://github.com/heygen-com/hyperframes)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

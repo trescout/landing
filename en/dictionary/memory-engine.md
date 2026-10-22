@@ -39,7 +39,7 @@ It varies depending on the system architecture, but is generally optimized by co
 - [Memory API](https://trescout.com/en/dictionary/memory-api/)
 - [RAG](https://trescout.com/en/dictionary/rag/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/memory-engine/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/memory-engine/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/memory-engine/

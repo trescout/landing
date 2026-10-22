@@ -329,6 +329,18 @@
       }
     });
 
+    // Keşif sayfasındaki Kopyala düğmeleri · ajan istemi ve komut ayrı sayılır.
+    // "Kod bilmiyorsanız" istemindeki değişikliklerin etkisi buradan ölçülür.
+    document.addEventListener('click', function (event) {
+      var target = event && event.target;
+      var btn = target && target.closest ? target.closest('.disc-copy') : null;
+      if (!btn) return;
+      var isPrompt = !!btn.closest('.disc-ai');
+      track(isPrompt ? 'agent_prompt_copy' : 'command_copy', {
+        placement: isPrompt ? 'agent_prompt' : 'command'
+      });
+    });
+
     var pdfLinks = document.querySelectorAll('a[href$=".pdf"], a.act-pdf, a.act-read');
     Array.prototype.forEach.call(pdfLinks, function (link) {
       link.addEventListener('click', function () {

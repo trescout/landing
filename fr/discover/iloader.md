@@ -2,16 +2,16 @@
 
 Développé avec TypeScript, iloader est un sideloader convivial qui facilite le processus d'installation d'applications sur les appareils iOS. Il simplifie l'installation d'applications en dehors de la boutique officielle d'Apple, améliorant ainsi l'expérience des développeurs et des utilisateurs.
 
-- ★ 3 970
+- ★ 4 075
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 4,008 → 4,075, dernière version v2.3.10 (18 octobre 2026).
+- **16 octobre 2026:** Étoiles 3,970 → 4,008, dernière version v2.3.9 (16 octobre 2026).
 - **15 octobre 2026:** Étoiles 3,934 → 3,970, dernière version v2.3.8 (15 octobre 2026).
 - **14 octobre 2026:** Étoiles 3,738 → 3,934, dernière version v2.3.7 (13 octobre 2026).
-- **6 octobre 2026:** Étoiles 3,710 → 3,738, dernière version v2.3.6 (6 octobre 2026).
-- **4 octobre 2026:** Étoiles 3,605 → 3,710, dernière version v2.3.5 (3 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -28,6 +28,7 @@ Rendez-vous sur le site officiel iloader.app pour télécharger la version adapt
 ## Termes liés du glossaire
 
 - [Sideloader](https://trescout.com/fr/dictionary/sideloader/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux utilisateurs d'iOS et aux développeurs souhaitant installer des applications en dehors de la boutique officielle Apple.
 - **Licence:** MIT
@@ -37,7 +38,7 @@ Rendez-vous sur le site officiel iloader.app pour télécharger la version adapt
 - [Dépôt GitHub →](https://github.com/nab138/iloader)
 - [Lire en turc →](https://trescout.com/discover/iloader/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-12 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-12 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/iloader/

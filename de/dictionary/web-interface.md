@@ -38,7 +38,7 @@ Normalerweise ja, da die Verbindung zum Server über den Browser hergestellt wir
 - [API](https://trescout.com/de/dictionary/api/)
 - [Design Language](https://trescout.com/de/dictionary/design-language/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/web-interface/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/web-interface/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/web-interface/

@@ -38,7 +38,7 @@ Sim, os provedores de nuvem agora oferecem a capacidade de escolher onde os dado
 - [Self-hosting](https://trescout.com/pt/dictionary/self-hosting/)
 - [Local-first](https://trescout.com/pt/dictionary/local-first/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/data-residency/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/data-residency/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/data-residency/

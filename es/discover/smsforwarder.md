@@ -22,6 +22,10 @@ Para comenzar a utilizar la herramienta, visite la página de lanzamientos ofici
 
 - [Fuente oficial →](https://github.com/pppscn/SmsForwarder/releases)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es para usuarios que desean seguir los mensajes y notificaciones en su dispositivo Android desde un punto central o administrar su dispositivo de forma remota.
 - **Licencia:** BSD-2-Clause
 
@@ -30,7 +34,7 @@ Para comenzar a utilizar la herramienta, visite la página de lanzamientos ofici
 - [Repositorio en GitHub →](https://github.com/pppscn/SmsForwarder)
 - [Leer en turco →](https://trescout.com/discover/smsforwarder/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-21: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-21: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/smsforwarder/

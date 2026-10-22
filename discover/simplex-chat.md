@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 SimpleX Chat'in kullanıcı tanımlayıcıları kullanmadan çalışan yapısını ve uçtan uca şifreleme yöntemlerini temel alarak, bu platformun gizlilik odaklı mesajlaşma deneyimini nasıl sağladığını açıklayan kısa bir rehber hazırla.
 
+Depo: https://github.com/simplex-chat/simplex-chat. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** İletişiminde tam anonimlik arayan ve merkeziyetsiz mesajlaşma altyapılarını tercih eden kullanıcılar içindir.
 - **Lisans:** AGPL-3.0
 
@@ -40,7 +48,7 @@ SimpleX Chat'in kullanıcı tanımlayıcıları kullanmadan çalışan yapısın
 
 - [GitHub deposu →](https://github.com/simplex-chat/simplex-chat)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

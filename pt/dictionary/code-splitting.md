@@ -37,7 +37,7 @@ Pode demorar muito pouco, mas a experiência geral é melhor, pois a velocidade 
 
 - [Webpack](https://trescout.com/pt/discover/webpack/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-splitting/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-splitting/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/code-splitting/

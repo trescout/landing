@@ -39,7 +39,7 @@ Sí, existen tarifas de transacción (gas fee) que se pagan a los mineros o vali
 - [Smart Contracts](https://trescout.com/es/dictionary/smart-contracts/)
 - [dApps](https://trescout.com/es/dictionary/dapps/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/dexs/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/dexs/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/dexs/

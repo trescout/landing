@@ -41,7 +41,7 @@ It depends on the structure of the platform, but generally it is essential that 
 
 - [Buzz](https://trescout.com/en/discover/buzz/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/hive-mind-communication-platform/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/hive-mind-communication-platform/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/hive-mind-communication-platform/

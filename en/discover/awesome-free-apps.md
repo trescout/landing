@@ -27,6 +27,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I will give you a categorized list of free apps for Windows, macOS and Linux called 'awesome-free-apps'. Review the list and suggest which free and open source applications I should use based on my needs (e.g. sound, browser, developer tools, security), with a brief description of each and which platform it runs on.
 
+Repository: https://github.com/Axorax/awesome-free-apps. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
@@ -45,7 +53,7 @@ I will give you a categorized list of free apps for Windows, macOS and Linux cal
 - [GitHub repository →](https://github.com/Axorax/awesome-free-apps)
 - [Read in Turkish →](https://trescout.com/discover/awesome-free-apps/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/awesome-free-apps/

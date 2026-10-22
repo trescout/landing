@@ -71,7 +71,7 @@ O custo e a regulamentação determinam isso. Espaços fechados vêm primeiro, e
 
 - [Introduction-to-Autonomous-Robots](https://trescout.com/pt/discover/introduction-to-autonomous-robots/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/autonomous-robots-intro/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/autonomous-robots-intro/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/autonomous-robots-intro/

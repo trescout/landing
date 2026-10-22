@@ -43,7 +43,7 @@ Prompt é uma solicitação, ação é a ação concreta que ocorre como resulta
 - [Claude Code Action](https://trescout.com/pt/discover/claude-code-action/)
 - [Embabel Agent](https://trescout.com/pt/discover/embabel-agent/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/action/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/action/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/action/

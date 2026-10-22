@@ -72,7 +72,7 @@ Sim; as arquiteturas de redes neurais de nova geração desenvolvidas recentemen
 - [AI Engineering from Scratch](https://trescout.com/pt/discover/ai-engineering-from-scratch/)
 - [Minimind](https://trescout.com/pt/discover/minimind/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tokenizer/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tokenizer/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/tokenizer/

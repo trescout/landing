@@ -67,7 +67,7 @@ Not always. The processor is sufficient for web pages and office work. Gaming, 3
 - [Nuxt](https://trescout.com/en/discover/nuxt/)
 - [Meshoptimizer](https://trescout.com/en/discover/meshoptimizer/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rendering/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rendering/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/rendering/

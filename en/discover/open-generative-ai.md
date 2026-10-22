@@ -2,16 +2,16 @@
 
 Open-Generative-AI is an open source studio platform with no content filtering and more than 200 visual and video creation models. Users can freely manage their visual production processes by running this software, which is offered under the MIT license, on their own servers (self-hosted).
 
-- ★ 29,494
+- ★ 30,971
 - JavaScript
 - GitHub Trending · 2026-06-28
 
 ## Updates
 
+- **October 20, 2026:** Stars 29,494 → 30,971, latest release v2.0.0 (May 23, 2026).
 - **October 1, 2026:** Stars 28,085 → 29,494, latest release v2.0.0 (May 23, 2026).
 - **September 8, 2026:** Stars 26,697 → 28,085, latest release v2.0.0 (May 23, 2026).
 - **August 20, 2026:** Stars 25,418 → 26,697, latest release v2.0.0 (May 23, 2026).
-- **August 2, 2026:** Stars 21,507 → 25,418, latest release v2.0.0 (May 23, 2026).
 
 ## What you get
 
@@ -33,6 +33,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the Open-Generative-AI platform, I want to create high-quality images and videos without getting stuck in content filters. How can I choose the most suitable ones for my creative projects among the more than 200 models offered by the platform and how can I set up a professional workflow in my own local system using the free production opportunities offered by these models?
 
+Repository: https://github.com/Anil-matcha/Open-Generative-AI. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Self-hosted](https://trescout.com/en/dictionary/self-hosted/)
@@ -46,7 +54,7 @@ Using the Open-Generative-AI platform, I want to create high-quality images and 
 - [GitHub repository →](https://github.com/Anil-matcha/Open-Generative-AI)
 - [Read in Turkish →](https://trescout.com/discover/open-generative-ai/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/open-generative-ai/

@@ -61,7 +61,7 @@ Yes. It is a temporary area, persistence is not expected. Permanent information 
 - [Context Window](https://trescout.com/en/dictionary/context-window/)
 - [Long-term Memory](https://trescout.com/en/dictionary/long-term-memory/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/working-memory/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/working-memory/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/working-memory/

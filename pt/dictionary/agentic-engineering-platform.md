@@ -42,7 +42,7 @@ Eles são totalmente gratuitos dentro das regras e limites que você definir.
 
 - [Kilocode](https://trescout.com/pt/discover/kilocode/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agentic-engineering-platform/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agentic-engineering-platform/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agentic-engineering-platform/

@@ -38,7 +38,7 @@ La vitesse et le coût des applications dépendent de l'efficacité avec laquell
 - [Inference](https://trescout.com/fr/dictionary/inference/)
 - [Generative AI](https://trescout.com/fr/dictionary/generative-ai/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/llm-inference/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/llm-inference/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/llm-inference/

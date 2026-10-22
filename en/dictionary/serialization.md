@@ -21,12 +21,24 @@ Serialization mechanism; It traverses or graph traverses the object graph in mem
 
 Choosing the right serialization format in software architecture; It requires a balance between human readability, CPU parsing cost, network bandwidth, and type safety.
 
+### 1. Text Based Formats (JSON, YAML, XML)
+
 - JSON (JavaScript Object Notation): The de facto standard of the modern web and RESTful APIs. It is language agnostic, natively supported in browsers, and easily read and debuggable by developers.
 - Weaknesses: Text-based parsing (lexing, tokenizing, string-to-number conversions) consumes serious CPU. Repeating key names (field keys) in each record creates unnecessary payload overhead. Also, carrying binary data (e.g. an image or encrypted key) requires Base64 encoding; This inflates the data size by approximately 33%.
+
+### 2. Binary and Schematic Formats (Protobuf, Avro, MessagePack)
 
 - Protocol Buffers (Protobuf): It is a binary format developed by Google that forms the backbone of gRPC and microservice communication. It defines field types and field numbers (field tags) with a solid schema file (.proto). Instead of text keys, numeric labels and variable-length integer encoding (Varint) are sent over the network. It consumes 3 to 10 times less bandwidth than JSON and parses much faster.
 - Apache Avro: Common in the big data (Hadoop, Kafka) ecosystem. The schema is kept in a central registry (Schema Registry) rather than being embedded within each message. In this way, the additional load per message is minimized.
 - MessagePack and BSON: Stores data in a binary compressed format, preserving JSON's flexible, schemaless key-value model.
+
+| Format | Type System | Schema Obligation | Legibility | Parcel Cost | Main Usage Area |
+|---|---|---|---|---|---|
+| JSON | Dynamic | Optional (JSON Schema) | Human Readable | Medium/High | Web API, Frontend |
+| protobuf | Solid Static | Required (.proto) | Binary | Low | Microservices, gRPC |
+| FlatBuffers | Solid Static | Required (.fbs) | Binary | Zero (Zero-Copy) | Games, HFT, Mobile |
+| Apache Avro | Solid Static | Required (.avsc) | Binary | Low | Kafka, Big Data |
+| MessagePack | Dynamic | None | Binary | Low/Medium | Redis cache, IPC |
 
 ## Zero-Copy Deserialization Architecture
 
@@ -47,6 +59,8 @@ No memory allocation or data copying occurs during the Deserialization phase. Th
 
 Catastrophic security vulnerabilities arise when serialization attempts to serialize object classes and runtime behaviors rather than just moving pure data. Insecure Deserialization (Insecure Reverse Serialization), which is in the OWASP Top 10 list, allows the attacker to run arbitrary code (Remote Code Execution - RCE) on the system.
 
+### Python pickle Example
+
 Python's built-in serialization module pickle serializes the __reduce__ method of objects. This method defines a function and its parameters to be called during object deserialization. By abusing this mechanism, an attacker can generate a malicious byte sequence that executes an operating system command:
 
 ```
@@ -59,7 +73,11 @@ class Exploit:
 
 As soon as this byte stream is sent to the server and pickle.loads(payload) is executed, an unauthorized shell command is executed on the server. Therefore, any data from untrusted sources should not be parsed with pickle.
 
+### Java and Gadget Chains
+
 In Java's native serialization mechanism (ObjectInputStream.readObject()), the class loader loads the class of the incoming object into memory. Attacker; It can build an execution chain that runs commands on memory by connecting the methods of classes in libraries installed on the system (for example, Apache Commons Collections or Spring Framework) (gadget chain).
+
+### Secure Serialization Principles
 
 - Never use language-integrated formats containing executable code or class definitions (Python pickle, Java native serialization, PHP unserialize) at network boundaries.
 - Choose formats that only carry pure data and validate the data structure against the schema (JSON + Pydantic/Zod or Protobuf).
@@ -98,7 +116,7 @@ Data models change as software is updated. Systems such as Protobuf and Avro giv
 
 - [YAML Cpp](https://trescout.com/en/discover/yaml-cpp/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/serialization/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/serialization/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/serialization/

@@ -43,7 +43,7 @@ Es bedeutet auf Englisch 'Null-Schuss'; das heißt, dem Modell wurde kein einzig
 - [Voice Pro](https://trescout.com/de/discover/voice-pro/)
 - [YuE](https://trescout.com/de/discover/yue/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/zero-shot/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/zero-shot/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/zero-shot/

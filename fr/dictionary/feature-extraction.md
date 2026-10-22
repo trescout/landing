@@ -40,7 +40,7 @@ Elle peut être utilisée sur tous les types de données textuelles, audio, visu
 - [NLP](https://trescout.com/fr/dictionary/nlp/)
 - [Data Pipeline](https://trescout.com/fr/dictionary/data-pipeline/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/feature-extraction/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/feature-extraction/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/feature-extraction/

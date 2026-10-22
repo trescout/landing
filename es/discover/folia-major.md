@@ -2,16 +2,16 @@
 
 Folia-major es una interfaz de reproductor que proporciona animaciones de letras visualizadas para archivos de música locales y plataformas en línea. Desarrollada con TypeScript, esta herramienta tiene como objetivo enriquecer la experiencia de escuchar música con efectos visuales dinámicos.
 
-- ★ 5.900
+- ★ 7.781
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 6,803 → 7,781, última versión v0.7.21 (18 de octubre de 2026).
+- **16 de octubre de 2026:** Estrellas 5,900 → 6,803, última versión v0.7.20 (15 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 5,014 → 5,900, última versión v0.7.19 (13 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 4,259 → 5,014, última versión v0.7.18 (11 de octubre de 2026).
-- **10 de octubre de 2026:** Estrellas 3,906 → 4,259, última versión v0.7.17 (10 de octubre de 2026).
-- **8 de octubre de 2026:** Estrellas 3,872 → 3,906, última versión v0.7.16 (8 de octubre de 2026).
 
 ## Qué aporta
 
@@ -37,7 +37,7 @@ Para comenzar a usarlo directamente, puedes descargar e instalar la versión de 
 - [Repositorio en GitHub →](https://github.com/chthollyphile/folia-major)
 - [Leer en turco →](https://trescout.com/discover/folia-major/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/folia-major/

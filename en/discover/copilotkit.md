@@ -2,16 +2,16 @@
 
 CopilotKit offers a React and Angular-based frontend stack for developing artificial intelligence agents and generative UIs. It provides an infrastructure that enables smart capabilities to be integrated into applications via the AG-UI protocol.
 
-- ★ 37,967
+- ★ 38,055
 - TypeScript
 - GitHub Trending · 2026-06-06
 
 ## Updates
 
+- **October 16, 2026:** Stars 37,967 → 38,055, latest release channels/v0.11.1 (October 16, 2026).
 - **October 12, 2026:** Stars 37,902 → 37,967, latest release v1.79.0 (October 12, 2026).
 - **October 10, 2026:** Stars 37,840 → 37,902, latest release v1.78.0 (October 9, 2026).
 - **October 8, 2026:** Stars 37,837 → 37,840, latest release v1.77.2 (October 8, 2026).
-- **October 8, 2026:** Stars 37,797 → 37,837, latest release angular/v0.5.3 (October 7, 2026).
 
 ## What you get
 
@@ -33,6 +33,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to add artificial intelligence capabilities to my application using CopilotKit. How can I configure the installation according to the infrastructure of my project using the npx copilotkit@latest create -f \<framework> or npx copilotkit@latest init commands for my current project? Explain the basic steps I need to follow to get agents to interact with the interface and start using Generative UI features.
 
+Repository: https://github.com/CopilotKit/CopilotKit. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Frontend Stack](https://trescout.com/en/dictionary/frontend-stack/)
@@ -48,7 +56,7 @@ I want to add artificial intelligence capabilities to my application using Copil
 - [GitHub repository →](https://github.com/CopilotKit/CopilotKit)
 - [Read in Turkish →](https://trescout.com/discover/copilotkit/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-06: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-06: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/copilotkit/

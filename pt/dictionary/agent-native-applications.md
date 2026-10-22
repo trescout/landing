@@ -42,7 +42,7 @@ Sim, mas o foco do design está na eficiência dos agentes.
 
 - [Agent Native](https://trescout.com/pt/discover/agent-native/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-native-applications/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-native-applications/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agent-native-applications/

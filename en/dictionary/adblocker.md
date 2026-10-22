@@ -38,7 +38,7 @@ It blocks most ads, but some sites may be more difficult to block because they c
 - [User Experience](https://trescout.com/en/dictionary/user-experience/)
 - [Web Interface](https://trescout.com/en/dictionary/web-interface/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/adblocker/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/adblocker/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/adblocker/

@@ -49,6 +49,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Flue framework'ünü kullanarak bir yapay zekâ ajanı geliştirmek istiyorum. Projemde TypeScript kullanarak nasıl bir iş akışı (workflow) tanımlayabilirim? Özellikle createAgent fonksiyonu ile model yapılandırmasını nasıl yaparım ve session.prompt ile ajanımı nasıl etkileşime sokabilirim? Basit bir 'hello-world' örneği üzerinden, çalışma zamanında (runtime) bir ajanı nasıl başlatıp sonuç alabileceğimi adım adım açıklar mısın?
 
+Depo: https://github.com/withastro/flue. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi otonom yapay zekâ ajanlarını TypeScript ile geliştirmek ve bunları farklı platformlarda çalıştırmak isteyen yazılımcılar için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -56,7 +64,7 @@ Flue framework'ünü kullanarak bir yapay zekâ ajanı geliştirmek istiyorum. P
 
 - [GitHub deposu →](https://github.com/withastro/flue)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

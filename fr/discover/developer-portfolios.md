@@ -24,6 +24,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je vais vous donner une liste de liens vers des sites de portfolio personnels inspirants de développeurs de logiciels appelés « portfolios de développeurs ». Examinez la liste et choisissez les portfolios les plus adaptés que je peux prendre comme exemple en fonction de ma profession, et vous obtiendrez une feuille de route sur la façon de créer mon propre site de portfolio. Mon domaine : [par ex. développeur front-end]. Mon objectif : [par ex. portfolio impressionnant pour postuler à un emploi].
 
+Dépôt : https://github.com/emmabostian/developer-portfolios. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
@@ -41,7 +49,7 @@ Je vais vous donner une liste de liens vers des sites de portfolio personnels in
 - [Dépôt GitHub →](https://github.com/emmabostian/developer-portfolios)
 - [Lire en turc →](https://trescout.com/discover/developer-portfolios/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-01 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-01 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/developer-portfolios/

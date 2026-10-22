@@ -2,16 +2,16 @@
 
 Colibri es un motor basado en el lenguaje C que permite ejecutar modelos de mezcla de expertos (Mixture of Experts) a gran escala en computadoras locales con bajos requisitos de hardware. Al procesar capas de expertos mediante transmisión desde el disco, hace posible ejecutar modelos de IA de alta capacidad en hardware limitado.
 
-- ★ 40.157
+- ★ 42.279
 - C
 - GitHub Trending · 2026-09-11
 
 ## Actualizaciones
 
+- **16 de octubre de 2026:** Estrellas 40,157 → 42,279, última versión v2.0.0 (6 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 39,698 → 40,157, última versión v2.0.0 (6 de octubre de 2026).
 - **5 de octubre de 2026:** Estrellas 37,791 → 39,698, última versión v1.12.1 (24 de septiembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 36,260 → 37,791, última versión v1.12.1 (24 de septiembre de 2026).
-- **19 de septiembre de 2026:** Estrellas 34,474 → 36,260, última versión v1.11.0 (13 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -46,6 +46,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero ejecutar modelos de inteligencia artificial a gran escala en mi computadora local utilizando el motor Colibri. Ayúdame a configurarlo para utilizar mis recursos de hardware (VRAM, RAM y disco NVMe) de la manera más eficiente posible. Explica paso a paso cómo puedo optimizar y ejecutar modelos como GLM o DeepSeek según la capacidad de memoria de mi sistema.
 
+Repositorio: https://github.com/JustVugg/colibri. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Mixture of Experts](https://trescout.com/es/dictionary/mixture-of-experts/)
@@ -61,7 +69,7 @@ Quiero ejecutar modelos de inteligencia artificial a gran escala en mi computado
 - [Repositorio en GitHub →](https://github.com/JustVugg/colibri)
 - [Leer en turco →](https://trescout.com/discover/colibri/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-11: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-11: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/colibri/

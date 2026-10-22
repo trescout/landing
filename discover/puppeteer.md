@@ -2,17 +2,17 @@
 
 Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation) kütüphanesidir. TypeScript ile geliştirilen bu araç, web sayfaları üzerinde test otomasyonu ve veri kazıma (web scraping) işlemleri için standart bir arayüz sunar.
 
-- ★ 95.695
+- ★ 95.731
 - GitHub Trending · 2026-06-15
 
 **TreScout notu:** Tarayıcıyı elle değil kodla kullanmanızı sağlar: Sayfayı açar, tıklar, form doldurur, ekran görüntüsü ya da PDF alır. Aynı işi yapan Playwright daha geniş kapsamlıdır, birden çok tarayıcı gerekiyorsa oraya bakın. Kurulum tarayıcının bir kopyasını da indirir, yer kaplar.
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 95.695 → 95.731, son sürüm puppeteer-core-v25.15.0 (20 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 95.670 → 95.695, son sürüm browsers-v3.2.5 (14 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 95.622 → 95.670, son sürüm browsers-v3.2.4 (8 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 95.581 → 95.622, son sürüm browsers-v3.2.3 (23 Eylül 2026).
-- **14 Eylül 2026:** Yıldız 95.540 → 95.581, son sürüm puppeteer-core-v25.11.0 (14 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -42,6 +42,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir web otomasyon uzmanısın. Puppeteer kütüphanesini kullanarak bir web sayfasını açan, belirli bir alana metin yazan ve sonuçları ekrana yazdıran basit bir JavaScript betiği hazırla. Tarayıcıyı başlatan, yeni bir sayfa oluşturan, bir URL adresine giden ve sayfa başlığını konsola yazdıran adımları içeren bir kod örneği sun.
 
+Depo: https://github.com/puppeteer/puppeteer. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Web sayfaları üzerinde test otomasyonu yapmak veya veri toplamak isteyen yazılım geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -49,7 +57,7 @@ Sen bir web otomasyon uzmanısın. Puppeteer kütüphanesini kullanarak bir web 
 
 - [GitHub deposu →](https://github.com/puppeteer/puppeteer)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

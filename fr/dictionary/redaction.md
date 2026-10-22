@@ -39,7 +39,7 @@ Elle accélère le processus d'occultation en reconnaissant et en marquant autom
 - [GDPR](https://trescout.com/fr/dictionary/gdpr/)
 - [Data Residency](https://trescout.com/fr/dictionary/data-residency/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/redaction/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/redaction/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/redaction/

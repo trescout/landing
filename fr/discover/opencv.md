@@ -31,6 +31,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer des projets de traitement d'images en utilisant la bibliothèque OpenCV. Comment puis-je mettre en œuvre des techniques de base de traitement d’images, des processus de détection d’objets ou d’apprentissage automatique dans mes applications de vision par ordinateur ? Guidez-moi sur les fonctions de base que je peux utiliser dans mes projets et comment je peux bénéficier de l'infrastructure standard offerte par cette bibliothèque.
 
+Dépôt : https://github.com/opencv/opencv. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Computer Vision Library](https://trescout.com/fr/dictionary/computer-vision-library/)
@@ -48,7 +56,7 @@ Je souhaite développer des projets de traitement d'images en utilisant la bibli
 - [Dépôt GitHub →](https://github.com/opencv/opencv)
 - [Lire en turc →](https://trescout.com/discover/opencv/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/opencv/

@@ -38,7 +38,7 @@ Depending on the complexity of the model, it can range from a few seconds to a f
 - [Multimodal Model](https://trescout.com/en/dictionary/multimodal-model/)
 - [AI Video Editing](https://trescout.com/en/dictionary/ai-video-editing/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/image-to-video/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/image-to-video/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/image-to-video/

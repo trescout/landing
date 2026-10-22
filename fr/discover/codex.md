@@ -2,15 +2,15 @@
 
 Codex CLI est un agent de codage qui s’exécute dans le terminal de votre ordinateur local. Il peut examiner du code, modifier des fichiers et exécuter des commandes.
 
-- ★ 128 492
+- ★ 129 477
 - GitHub Trending · 2026-08-23
 
 ## Mises à jour
 
+- **16 octobre 2026:** Étoiles 128,492 → 129,477, dernière version rust-v0.163.0 (15 octobre 2026).
 - **10 octobre 2026:** Étoiles 128,208 → 128,492, dernière version rust-v0.162.1 (9 octobre 2026).
 - **8 octobre 2026:** Étoiles 128,352 → 128,208, dernière version rust-v0.162.0 (8 octobre 2026).
 - **8 octobre 2026:** Étoiles 128,007 → 128,352, dernière version rust-v0.161.0 (7 octobre 2026).
-- **6 octobre 2026:** Étoiles 127,591 → 128,007, dernière version rust-v0.160.1 (5 octobre 2026).
 
 ## Installation
 
@@ -83,7 +83,7 @@ Lors de la première utilisation, vous pouvez commencer par une demande d’exam
 - [Documentation officielle de Codex CLI →](https://learn.chatgpt.com/docs/codex/cli)
 - [Lire en turc →](https://trescout.com/discover/codex/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/codex/

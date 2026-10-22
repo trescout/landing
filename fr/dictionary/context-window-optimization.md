@@ -38,7 +38,7 @@ Chaque modèle a une capacité et, lorsque cette capacité est atteinte, le mod�
 
 - [Context Mode](https://trescout.com/fr/discover/context-mode/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/context-window-optimization/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/context-window-optimization/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/context-window-optimization/

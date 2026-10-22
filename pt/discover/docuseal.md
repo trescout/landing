@@ -2,16 +2,16 @@
 
 DocuSeal oferece uma alternativa de código aberto para criação, preenchimento e assinatura de documentos digitais. Esta plataforma, desenvolvida em linguagem Ruby, oferece uma solução para usuários que desejam gerenciar processos de assinatura eletrônica (e-assinatura) em sua própria infraestrutura.
 
-- ★ 18.698
+- ★ 18.752
 - Ruby
 - GitHub Trending · 2026-07-18
 
 ## Atualizações
 
+- **19 de outubro de 2026:** Estrelas 18,698 → 18,752, versão mais recente 3.3.3 (19 de outubro de 2026).
 - **12 de outubro de 2026:** Estrelas 18,654 → 18,698, versão mais recente 3.3.2 (12 de outubro de 2026).
 - **5 de outubro de 2026:** Estrelas 18,631 → 18,654, versão mais recente 3.3.1 (5 de outubro de 2026).
 - **28 de setembro de 2026:** Estrelas 18,621 → 18,631, versão mais recente 3.3.0 (28 de setembro de 2026).
-- **27 de setembro de 2026:** Estrelas 18,532 → 18,621, versão mais recente 3.2.6 (21 de setembro de 2026).
 
 ## O que você ganha
 
@@ -47,6 +47,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso otimizar meus processos de assinatura digital de documentos usando DocuSeal? Explique as etapas que preciso seguir para tornar os formulários PDF preenchíveis on-line, configurar a verificação de assinatura e os recursos de gerenciamento de usuários em meu próprio servidor. Além disso, oriente-me sobre como ativar notificações automáticas por e-mail com configurações SMTP após a instalação via Docker.
 
+Repositório: https://github.com/docusealco/docuseal. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [E-signature](https://trescout.com/pt/dictionary/e-signature/)
@@ -61,7 +69,7 @@ Como posso otimizar meus processos de assinatura digital de documentos usando Do
 - [Repositório no GitHub →](https://github.com/docusealco/docuseal)
 - [Ler em turco →](https://trescout.com/discover/docuseal/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-18: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-18: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/docuseal/

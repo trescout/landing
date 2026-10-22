@@ -70,7 +70,7 @@ Requer um gigante em amplo conhecimento e raciocínio. A ordem híbrida é estab
 - [Open Weights](https://trescout.com/pt/dictionary/open-weights/)
 - [Distillation](https://trescout.com/pt/dictionary/distillation/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/slm/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/slm/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/slm/

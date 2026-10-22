@@ -70,7 +70,7 @@ Não. O gateway é a porta de entrada externa, o mesh é o tráfego interno. Os 
 
 - [Meshery](https://trescout.com/pt/discover/meshery/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/service-mesh/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/service-mesh/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/service-mesh/

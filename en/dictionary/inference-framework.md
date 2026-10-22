@@ -44,7 +44,7 @@ Most frameworks are optimized for Nvidia GPUs; however, inference frameworks opt
 
 - [BitNet](https://trescout.com/en/discover/bitnet/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/inference-framework/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/inference-framework/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/inference-framework/

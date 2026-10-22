@@ -2,7 +2,7 @@
 
 **Claude Code**; terminalinizde yaşayan ve **kod tabanınızı derinlemesine anlayan** ajan tabanlı bir kodlama aracıdır. Doğal dil komutlarıyla dosyaları okur, değişiklik yapar ve testleri çalıştırarak geliştirme sürecinizi hızlandırır. (Bu sayfadaki birçok aracı onunla birlikte kullanabilirsiniz.)
 
-- ★ 150.959
+- ★ 152.655
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -11,10 +11,10 @@
 
 ## Güncelleme
 
-- **15 Ekim 2026:** Yıldız 150.735 → 150.959, son sürüm v2.1.300 (14 Ekim 2026).
-- **14 Ekim 2026:** Yıldız 149.972 → 150.735, son sürüm v2.1.299 (14 Ekim 2026).
-- **10 Ekim 2026:** Yıldız 149.709 → 149.972, son sürüm v2.1.296 (9 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 149.845 → 149.709, son sürüm v2.1.295 (8 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 152.857 → 152.655, son sürüm v2.1.306 (21 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 152.318 → 152.857, son sürüm v2.1.304 (19 Ekim 2026).
+- **19 Ekim 2026:** Yıldız 151.307 → 152.318, son sürüm v2.1.303 (18 Ekim 2026).
+- **17 Ekim 2026:** Yıldız 151.152 → 151.307, son sürüm v2.1.302 (16 Ekim 2026).
 
 - **Kimin için:** Terminalde çalışan geliştiriciler
 - **Zorluk:** Orta · terminal + Anthropic hesabı
@@ -52,6 +52,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Terminalime 'curl -fsSL https://claude.ai/install.sh | bash' komutuyla Anthropic'in resmi Claude Code aracını kur, sonra proje klasörüme gidip 'claude' yazarak başlat ve kod yazmama yardım etmesini sağla.
 
+Depo: https://github.com/anthropics/claude-code. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Lisans:** ⚠️ Açık kaynak **değildir**; Anthropic'in bir ürünüdür ve Ticari Kullanım Şartları'na tabidir. Aracı kullanmak serbesttir (hesap/plan gerekir), ancak kodunu serbestçe yeniden kullanıp dağıtamazsınız.
 
 ## Bağlantılar
@@ -59,7 +67,7 @@ Terminalime 'curl -fsSL https://claude.ai/install.sh | bash' komutuyla Anthropic
 - [GitHub deposu →](https://github.com/anthropics/claude-code)
 - [Ticari Şartlar →](https://www.anthropic.com/legal/commercial-terms)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

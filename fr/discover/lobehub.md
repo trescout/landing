@@ -2,16 +2,16 @@
 
 LobeHub permet de créer une équipe d'IA qui travaille 24 heures sur 24, 7 jours sur 7, en gérant les agents d'intelligence artificielle via des processus de recrutement, de planification et de reporting. La plateforme propose une interface d'administration qui automatise les flux de travail en organisant différents agents à partir d'un seul centre.
 
-- ★ 83 031
+- ★ 83 300
 - TypeScript
 - GitHub Trending · 2026-07-17
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 83,031 → 83,300, dernière version v2.2.20 (18 octobre 2026).
 - **7 octobre 2026:** Étoiles 82,837 → 83,031, dernière version v2.2.19 (7 octobre 2026).
 - **27 septembre 2026:** Étoiles 82,391 → 82,837, dernière version v2.2.18 (20 septembre 2026).
 - **11 septembre 2026:** Étoiles 82,246 → 82,391, dernière version v2.2.17 (11 septembre 2026).
-- **5 septembre 2026:** Étoiles 82,127 → 82,246, dernière version v2.2.16 (4 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -59,7 +59,7 @@ Pour commencer à utiliser LobeHub, vous pouvez visiter le site officiel ou cons
 - [Dépôt GitHub →](https://github.com/lobehub/lobehub)
 - [Lire en turc →](https://trescout.com/discover/lobehub/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-17 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-17 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/lobehub/

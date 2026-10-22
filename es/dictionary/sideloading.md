@@ -41,7 +41,7 @@ Se prefiere para acceder a aplicaciones que no se encuentran en las tiendas ofic
 - [Ipatool](https://trescout.com/es/discover/ipatool/)
 - [Madeira](https://trescout.com/es/discover/madeira/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/sideloading/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/sideloading/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sideloading/

@@ -43,6 +43,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite configurer la bibliothèque spdlog avec une architecture asynchrone à l'aide de CMake dans un projet C++ moderne. Pouvez-vous préparer le fichier CMakeLists.txt avec un exemple de fonction d'initialisation C++ qui fait pivoter le fichier lorsque la taille du journal atteint 10 Mo, donne également une sortie couleur à la console et le vide sur le disque immédiatement en cas d'erreur ?
 
+Dépôt : https://github.com/gabime/spdlog. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Spdlog doit-il être utilisé uniquement en en-tête ou compilé ? Dans les projets de petite et moyenne taille, l'utilisation de l'en-tête uniquement en ajoutant uniquement le répertoire include est très pratique. Cependant, dans les grands projets C++ composés de centaines de fichiers sources, il est recommandé de compiler et de lier la bibliothèque avec l'indicateur SPDLOG_COMPILED pour optimiser le temps de compilation.
@@ -66,7 +74,7 @@ Je souhaite configurer la bibliothèque spdlog avec une architecture asynchrone 
 - [Dépôt GitHub →](https://github.com/gabime/spdlog)
 - [Lire en turc →](https://trescout.com/discover/spdlog/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/spdlog/

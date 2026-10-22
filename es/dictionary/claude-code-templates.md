@@ -65,7 +65,7 @@ Sí. El esqueleto del equipo es el más valioso; renace de nuevo.
 - [Coding Agents](https://trescout.com/es/dictionary/coding-agent/)
 - [Tech Stack](https://trescout.com/es/dictionary/tech-stack/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/claude-code-templates/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/claude-code-templates/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/claude-code-templates/

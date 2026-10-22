@@ -39,15 +39,15 @@ São pequenas unidades de processamento independentes dentro de um processador q
 ## Ferramentas relacionadas
 
 - [Tensorflow](https://trescout.com/pt/discover/tensorflow/)
-- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [Airllm](https://trescout.com/pt/discover/airllm/)
+- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [CasaOS](https://trescout.com/pt/discover/casaos/)
 - [Omlx](https://trescout.com/pt/discover/omlx/)
 - [Ktransformers](https://trescout.com/pt/discover/ktransformers/)
 - [Pocket TTS](https://trescout.com/pt/discover/pocket-tts/)
 - [Tilelang](https://trescout.com/pt/discover/tilelang/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cpu/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cpu/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cpu/

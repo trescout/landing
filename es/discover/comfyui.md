@@ -2,16 +2,16 @@
 
 ComfyUI es una herramienta de visualización modular que proporciona una interfaz basada en nodos para modelos de difusión. Permite a los usuarios diseñar procesos complejos de procesamiento de imágenes con un diagrama de flujo visual y administrar estos procesos a través de API.
 
-- ★ 137.415
+- ★ 139.075
 - Python
 - GitHub Trending · 2026-08-10
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 137,809 → 139,075, última versión v0.42.1 (19 de octubre de 2026).
+- **16 de octubre de 2026:** Estrellas 137,415 → 137,809, última versión v0.41.0 (15 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 136,279 → 137,415, última versión v0.40.0 (13 de octubre de 2026).
 - **6 de octubre de 2026:** Estrellas 135,523 → 136,279, última versión v0.39.0 (5 de octubre de 2026).
-- **29 de septiembre de 2026:** Estrellas 135,118 → 135,523, última versión v0.38.0 (29 de septiembre de 2026).
-- **27 de septiembre de 2026:** Estrellas 133,468 → 135,118, última versión v0.37.0 (21 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -34,6 +34,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear un flujo de trabajo basado en nodos para mi proceso de producción visual. Diseñe una estructura modular con conexiones lógicas desde el nodo de entrada a la salida que me permitirá lograr una imagen de calidad profesional utilizando modelos como Stable Diffusion o Flux. Explicar paso a paso los nodos básicos, pasos de carga del modelo y optimizaciones de parámetros que necesito.
 
+Repositorio: https://github.com/Comfy-Org/ComfyUI. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [API](https://trescout.com/es/dictionary/api/)
@@ -47,7 +55,7 @@ Quiero crear un flujo de trabajo basado en nodos para mi proceso de producción 
 - [Repositorio en GitHub →](https://github.com/Comfy-Org/ComfyUI)
 - [Leer en turco →](https://trescout.com/discover/comfyui/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-10: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-10: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/comfyui/

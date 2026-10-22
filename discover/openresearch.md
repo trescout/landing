@@ -2,16 +2,16 @@
 
 AlphaXiv, farklı yapay zekâ modelleri kullanarak paralel araştırma ajanları (research agents) çalıştırmanıza olanak tanıyan bir çerçeve. Rust diliyle geliştirilen bu açık kaynaklı araç, akademik ve teknik araştırmalarda veri toplama süreçlerini hızlandırmayı amaçlıyor.
 
-- ★ 6.791
+- ★ 7.423
 - Rust
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 7.287 → 7.423, son sürüm v0.2.20 (21 Ekim 2026).
+- **16 Ekim 2026:** Yıldız 6.791 → 7.287, son sürüm v0.2.19 (15 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 6.690 → 6.791, son sürüm v0.2.18 (9 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 6.654 → 6.690, son sürüm v0.2.17 (7 Ekim 2026).
-- **6 Ekim 2026:** Yıldız 6.454 → 6.654, son sürüm v0.2.16 (5 Ekim 2026).
-- **3 Ekim 2026:** Yıldız 6.177 → 6.454, son sürüm v0.2.15 (2 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -41,6 +41,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenResearch üzerinde bir araştırma projesi başlatmak istiyorum. Claude Code veya OpenCode gibi bir yapay zekâ ajanı kullanarak literatür taraması yapmanı, hipotezler geliştirmeni ve bu hipotezleri test etmek için deneyler kurgulamanı istiyorum. Çalışma boyunca elde ettiğin tüm bulguları, deney sonuçlarını ve kod değişikliklerini OpenResearch'ün yerel çalışma alanında kayıt altına alarak süreci otonom bir şekilde yönet.
 
+Depo: https://github.com/alphaXiv/OpenResearch. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Akademik veya teknik araştırmalarında veri toplama, deney yapma ve literatür inceleme süreçlerini otomatize etmek isteyen araştırmacılar için uygundur.
 - **Lisans:** MIT
 
@@ -48,7 +56,7 @@ OpenResearch üzerinde bir araştırma projesi başlatmak istiyorum. Claude Code
 
 - [GitHub deposu →](https://github.com/alphaXiv/OpenResearch)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

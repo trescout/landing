@@ -39,7 +39,7 @@ It allows the robot to make a safe motion plan by accurately interpreting the ex
 - [World Model](https://trescout.com/en/dictionary/world-model/)
 - [Multimodal](https://trescout.com/en/dictionary/multimodal/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/geometric-context-transformer/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/geometric-context-transformer/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/geometric-context-transformer/

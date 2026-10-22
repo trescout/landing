@@ -71,12 +71,13 @@ Definido pela equipe. Mantido alto no caminho crítico e baixo nas partes perif�
 ## Ferramentas relacionadas
 
 - [Jcode](https://trescout.com/pt/discover/jcode/)
+- [Dsh Purge](https://trescout.com/pt/discover/dsh-purge/)
 - [Harness SDK](https://trescout.com/pt/discover/harness-sdk/)
 - [Harness · Ajan Ekip Fabrikası](https://trescout.com/pt/discover/harness/)
 - [Munder Difflin](https://trescout.com/pt/discover/munder-difflin/)
 - [Claude Code Harness](https://trescout.com/pt/discover/claude-code-harness/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/harness/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/harness/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/harness/

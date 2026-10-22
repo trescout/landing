@@ -39,7 +39,7 @@ Yes, you can specialize your AI by putting together your own documents or databa
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/llm-wiki/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/llm-wiki/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/llm-wiki/

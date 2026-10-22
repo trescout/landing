@@ -44,7 +44,7 @@ Puede automatizar procesos como la gestión de stock o el análisis de ventas re
 
 - [Odoo](https://trescout.com/es/discover/odoo/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/enterprise-resource-planning/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/enterprise-resource-planning/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/enterprise-resource-planning/

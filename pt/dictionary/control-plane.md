@@ -34,7 +34,7 @@ O sistema torna-se incapaz de receber novos comandos ou gerenciar o tráfego, po
 - [Network Stack](https://trescout.com/pt/dictionary/network-stack/)
 - [Cloud Native](https://trescout.com/pt/dictionary/cloud-native/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/control-plane/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/control-plane/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/control-plane/

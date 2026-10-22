@@ -43,7 +43,7 @@ Oui, les modèles d’intelligence artificielle peuvent améliorer ces capacité
 
 - [Pm Skills](https://trescout.com/fr/discover/pm-skills/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/agentic-skills/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/agentic-skills/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/agentic-skills/

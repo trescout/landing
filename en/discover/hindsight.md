@@ -2,15 +2,15 @@
 
 Hindsight provides a learning memory layer for AI agents. By inferring from past interactions and improving agents' decision-making processes, this open-source library enables systems to produce more consistent results over time.
 
-- ★ 49,114
+- ★ 51,834
 - GitHub Trending · 2026-09-25
 
 ## Updates
 
+- **October 20, 2026:** Stars 49,114 → 51,834, latest release v1.0.0 (October 13, 2026).
 - **October 13, 2026:** Stars 47,195 → 49,114, latest release v1.0.0 (October 13, 2026).
 - **October 8, 2026:** Stars 46,537 → 47,195, latest release v0.10.3 (October 8, 2026).
 - **October 7, 2026:** Stars 44,051 → 46,537, latest release v0.10.2 (September 29, 2026).
-- **October 1, 2026:** Stars 41,939 → 44,051, latest release v0.10.2 (September 29, 2026).
 
 ## What you get
 
@@ -48,6 +48,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want my AI agent to learn from past interactions, not just remembering the conversation history, but also making more consistent decisions over time. Help me configure the necessary server setup and client connections to integrate this memory layer into my project.
 
+Repository: https://github.com/vectorize-io/hindsight. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Memory Layer](https://trescout.com/en/dictionary/memory-layer/)
@@ -62,7 +70,7 @@ I want my AI agent to learn from past interactions, not just remembering the con
 - [GitHub repository →](https://github.com/vectorize-io/hindsight)
 - [Read in Turkish →](https://trescout.com/discover/hindsight/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/hindsight/

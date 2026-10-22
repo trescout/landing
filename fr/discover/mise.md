@@ -2,16 +2,16 @@
 
 Mise est un outil qui vous permet de gérer les outils de développement logiciel, les variables d'environnement et les exécuteurs de tâches sous un même toit. Ce logiciel, développé en langage Rust, vise à standardiser et accélérer les environnements de travail nécessaires aux différents projets.
 
-- ★ 35 034
+- ★ 35 230
 - Rust
 - GitHub Trending · 2026-08-08
 
 ## Mises à jour
 
-- **15 octobre 2026:** Étoiles 34,991 → 35,034, dernière version v2026.10.11 (15 octobre 2026).
-- **14 octobre 2026:** Étoiles 34,966 → 34,991, dernière version v2026.10.10 (14 octobre 2026).
-- **13 octobre 2026:** Étoiles 34,900 → 34,966, dernière version v2026.10.9 (13 octobre 2026).
-- **11 octobre 2026:** Étoiles 34,868 → 34,900, dernière version v2026.10.8 (11 octobre 2026).
+- **21 octobre 2026:** Étoiles 35,166 → 35,230, dernière version v2026.10.17 (21 octobre 2026).
+- **19 octobre 2026:** Étoiles 35,150 → 35,166, dernière version v2026.10.15 (19 octobre 2026).
+- **19 octobre 2026:** Étoiles 35,120 → 35,150, dernière version v2026.10.14 (18 octobre 2026).
+- **18 octobre 2026:** Étoiles 35,100 → 35,120, dernière version v2026.10.13 (17 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -31,6 +31,7 @@ Pour l'installer, vous pouvez visiter la section « Démarrage » sur la page 
 - [Task Runner](https://trescout.com/fr/dictionary/task-runner/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui ont des difficultés à gérer les outils logiciels, les variables d'environnement et les tâches lorsqu'ils passent d'un projet à l'autre.
 - **Licence:** MIT
@@ -40,7 +41,7 @@ Pour l'installer, vous pouvez visiter la section « Démarrage » sur la page 
 - [Dépôt GitHub →](https://github.com/jdx/mise)
 - [Lire en turc →](https://trescout.com/discover/mise/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/mise/

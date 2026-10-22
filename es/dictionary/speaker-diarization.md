@@ -59,7 +59,7 @@ Realizar una distinción precisa cuando varias personas hablan al mismo tiempo (
 
 - [Meetily](https://trescout.com/es/discover/meetily/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/speaker-diarization/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/speaker-diarization/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/speaker-diarization/

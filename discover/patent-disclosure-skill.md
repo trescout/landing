@@ -61,6 +61,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Geliştirdiğim dağıtık bir veritabanı önbellekleme algoritması için patent disclosure skill kullanarak resmi bir buluş bildirim metni hazırlamak istiyorum. Algoritmanın akışını girdi olarak verip bağımsız istemleri, buluşun teknik alanını ve önceki teknikle olan farkları nasıl üreteceğimi adım adım açıklar mısın?
 
+Depo: https://github.com/handsomestWei/patent-disclosure-skill. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Patent vekilleri, fikri mülkiyet yöneticileri, Ar-Ge mühendisleri ve mucitler.
 - **Lisans:** MIT (Özgür açık kaynak lisansı)
 - **Çatı:** Python Tabanlı Patent Ajanı Yeteneği
@@ -77,15 +85,15 @@ Geliştirdiğim dağıtık bir veritabanı önbellekleme algoritması için pate
 
 - [GitHub deposu →](https://github.com/handsomestWei/patent-disclosure-skill)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Disclosure](https://trescout.com/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/dictionary/multimodal/)
-- [Skill](https://trescout.com/dictionary/skill/)
 - [Markdown](https://trescout.com/dictionary/markdown/)
+- [Skill](https://trescout.com/dictionary/skill/)
 - [LLM](https://trescout.com/dictionary/llm/)
 
 ---

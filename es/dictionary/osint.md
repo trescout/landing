@@ -77,7 +77,7 @@ Los datos privados y la elaboración de perfiles sin autorización están prohib
 - [User Scanner](https://trescout.com/es/discover/user-scanner/)
 - [Legendary_OSINT](https://trescout.com/es/discover/legendary-osint/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/osint/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/osint/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/osint/

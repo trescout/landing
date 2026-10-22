@@ -93,7 +93,7 @@ PPTX is a live presentation resource that includes editable animations and slide
 
 - [Ppt Master](https://trescout.com/en/discover/ppt-master/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/pptx/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/pptx/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/pptx/

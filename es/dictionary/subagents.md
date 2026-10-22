@@ -39,7 +39,7 @@ Sí, normalmente pueden intercambiar información a través del agente anfitrió
 - [Multi-agent LLM](https://trescout.com/es/dictionary/multi-agent-llm/)
 - [Autonomous AI Agent](https://trescout.com/es/dictionary/autonomous-ai-agent/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/subagents/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/subagents/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/subagents/

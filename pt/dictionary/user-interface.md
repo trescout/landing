@@ -43,7 +43,7 @@ Não, a UI cobre as partes visuais (cor, botão), enquanto a UX trata de como o 
 - [Page Agent](https://trescout.com/pt/discover/page-agent/)
 - [Tuicr](https://trescout.com/pt/discover/tuicr/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/user-interface/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/user-interface/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/user-interface/

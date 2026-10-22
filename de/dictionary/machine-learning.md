@@ -48,7 +48,7 @@ Weil es komplexe Aufgaben in Sekundenschnelle erledigen kann und dabei Daten ver
 - [Higgsfield](https://trescout.com/de/discover/higgsfield/)
 - [Bonsai-demo](https://trescout.com/de/discover/bonsai-demo/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/machine-learning/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/machine-learning/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/machine-learning/

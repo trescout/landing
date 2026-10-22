@@ -2,15 +2,15 @@
 
 Agent-Reach est un outil d'interface de ligne de commande (CLI) qui donne aux agents IA la possibilité d'analyser l'intégralité d'Internet et de lire du contenu. Il fournit un accès direct pour extraire des données de plateformes telles que Twitter, Reddit et GitHub sans payer de frais d'interface de programmation d'application (API).
 
-- ★ 95 262
+- ★ 100 087
 - GitHub Trending · 2026-06-06
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 95,262 → 100,087, dernière version v1.5.0 (11 juin 2026).
 - **10 octobre 2026:** Étoiles 90,240 → 95,262, dernière version v1.5.0 (11 juin 2026).
 - **4 octobre 2026:** Étoiles 85,611 → 90,240, dernière version v1.5.0 (11 juin 2026).
 - **27 septembre 2026:** Étoiles 80,033 → 85,611, dernière version v1.5.0 (11 juin 2026).
-- **13 septembre 2026:** Étoiles 75,829 → 80,033, dernière version v1.5.0 (11 juin 2026).
 
 ## Ce que ça vous apporte
 
@@ -46,6 +46,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 S'il vous plaît, aidez-moi à installer l'outil Agent Reach. Installez automatiquement tous les outils et configurations nécessaires sur mon système à l'aide du document d'installation officiel sur GitHub (https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/install.md). Une fois l'installation terminée, exécutez la commande de diagnostic nécessaire pour vérifier quelles plates-formes sont actives.
 
+Dépôt : https://github.com/Panniantong/Agent-Reach. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Agent](https://trescout.com/fr/dictionary/agent/)
@@ -61,7 +69,7 @@ S'il vous plaît, aidez-moi à installer l'outil Agent Reach. Installez automati
 - [Dépôt GitHub →](https://github.com/Panniantong/Agent-Reach)
 - [Lire en turc →](https://trescout.com/discover/agent-reach/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-06 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-06 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/agent-reach/

@@ -20,14 +20,20 @@ Los bundlers asumieron la tarea de permitir que los desarrolladores escribieran 
 
 El funcionamiento de un empaquetador moderno consta fundamentalmente de tres etapas:
 
+### 1. Análisis y creación del Gráfico de Dependencias (Dependency Graph)
+
 El proceso comienza desde uno o varios puntos de entrada (entry point, p. ej. src/main.ts):
 
 - El empaquetador lee este archivo y escanea las declaraciones import, export o require que contiene.
 - El algoritmo de resolución de nodos (Node module resolution) encuentra la ubicación en el disco de los archivos llamados de acuerdo con las definiciones de package.json.
 - Crea un Grafo Acíclico Dirigido (DAG) en el que cada archivo fuente se modela como un nodo y las relaciones de importación como aristas.
 
+### 2. Conversión y análisis de AST
+
 - Cada módulo se pasa a un compilador (como Babel, SWC, esbuild) para convertirse en un Árbol de Sintaxis Abstracta (AST - Abstract Syntax Tree).
 - El código TypeScript se convierte a JavaScript, la sintaxis JSX se compila, los módulos CSS se resuelven y las características modernas de ECMAScript se hacen compatibles con las versiones de navegador de destino.
+
+### 3. Empaquetado, Tree-Shaking y Generación de Salida (Packaging & Emit)
 
 - Tree-Shaking (Eliminación de código muerto): Aprovechando la sintaxis estática de los módulos ECMAScript (ESM), el código muerto que se importa de las bibliotecas pero que nunca se invoca en el proyecto se elimina a través del AST.
 - Minificación y ofuscación: los nombres de las variables se acortan (mangling) y se eliminan los espacios y comentarios para minimizar el tamaño del archivo.
@@ -41,6 +47,14 @@ El proceso comienza desde uno o varios puntos de entrada (entry point, p. ej. sr
 ## Comparación del ecosistema de empaquetadores
 
 Las herramientas destacadas que responden a diferentes necesidades en el ecosistema web son las siguientes:
+
+| Herramienta | Lenguaje en el que está escrito | Experiencia de desarrollo | Motor de producción | Punto fuerte |
+|---|---|---|---|---|
+| paquete web | JavaScript / Node.js | Bundled (Empaquetado en memoria) | paquete web | Enorme ecosistema de complementos, madurez empresarial |
+| Vite | JS + Go (esbuild) | Unbundled (ESM nativo) | Rollup / Rolldown | Inicio instantáneo del servidor de desarrollo, alta comodidad para el desarrollador |
+| Rollup | JavaScript / Node.js | Bundled | Rollup | Tree-shaking impecable en el empaquetado de librerías / SDK |
+| esbuild | Adelante | Bundled | esbuild | Increíble velocidad de compilación bruta (10-100 veces más rápido que las herramientas de Node.js) |
+| Turbopack / Rspack | óxido | Bundled / Híbrido | Motor Rust | Rendimiento para proyectos masivos, compatible con el ecosistema de Webpack |
 
 ## Preguntas frecuentes
 
@@ -75,7 +89,7 @@ Permite que el código de la aplicación se divida en archivos fragmentados en l
 
 - [Webpack](https://trescout.com/es/discover/webpack/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/bundler/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/bundler/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bundler/

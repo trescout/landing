@@ -28,6 +28,7 @@ Um Ihr Projekt zu starten, fügen Sie einfach alle .cpp- und .h-Dateien, die mit
 - [User Interface](https://trescout.com/de/dictionary/user-interface/)
 - [GUI](https://trescout.com/de/dictionary/gui/)
 - [Interface](https://trescout.com/de/dictionary/interface/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die mit C++ in schnellen Werkzeugentwicklungs-, Debugging- und Visualisierungsprozessen arbeiten.
 - **Lizenz:** MIT
@@ -37,7 +38,7 @@ Um Ihr Projekt zu starten, fügen Sie einfach alle .cpp- und .h-Dateien, die mit
 - [GitHub-Repository →](https://github.com/ocornut/imgui)
 - [Auf Türkisch lesen →](https://trescout.com/discover/imgui/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/imgui/

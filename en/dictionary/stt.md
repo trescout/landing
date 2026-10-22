@@ -70,7 +70,7 @@ Yes; thanks to optimized engines like whisper.cpp or faster-whisper, you can run
 - [Speech to Speech](https://trescout.com/en/discover/speech-to-speech/)
 - [Transcribe.cpp](https://trescout.com/en/discover/transcribe-cpp/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/stt/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/stt/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/stt/

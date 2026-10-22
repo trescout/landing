@@ -78,7 +78,7 @@ Sim, os softwares emuladores escritos com princípios de engenharia reversa em s
 - [Cool Retro Term](https://trescout.com/pt/discover/cool-retro-term/)
 - [Sharpemu](https://trescout.com/pt/discover/sharpemu/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/emulator/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/emulator/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/emulator/

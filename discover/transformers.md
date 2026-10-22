@@ -2,16 +2,16 @@
 
 Hugging Face tarafından geliştirilen Transformers, metin, görüntü ve ses gibi farklı veri türlerinde güncel makine öğrenimi modellerini eğitmek ve çalıştırmak için kullanılan bir kütüphanedir. Geliştiricilere popüler yapay zekâ modellerine erişim ve bu modeller üzerinde ince ayar (fine-tuning) yapma imkânı sağlar.
 
-- ★ 167.017
+- ★ 167.893
 - Python
 - GitHub Trending · 2026-08-12
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 167.782 → 167.893, son sürüm v5.20.2 (19 Ekim 2026).
+- **17 Ekim 2026:** Yıldız 167.756 → 167.782, son sürüm v5.20.1 (16 Ekim 2026).
+- **16 Ekim 2026:** Yıldız 167.017 → 167.756, son sürüm v5.20.0 (15 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 166.876 → 167.017, son sürüm v5.19.0 (6 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 165.067 → 166.876, son sürüm v5.18.0 (30 Eylül 2026).
-- **10 Eylül 2026:** Yıldız 164.497 → 165.067, son sürüm v5.17.0 (9 Eylül 2026).
-- **27 Ağustos 2026:** Yıldız 164.253 → 164.497, son sürüm v5.16.1 (26 Ağustos 2026).
 
 ## Ne kazandırır?
 
@@ -40,6 +40,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Transformers kütüphanesini kullanarak bir metin oluşturma modeli çalıştırmak istiyorum. Pipeline API'sini kullanarak nasıl hızlı bir başlangıç yapabilirim? Adım adım kod örneği ve açıklama ile yardımcı olur musun?
 
+Depo: https://github.com/huggingface/transformers. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Makine öğrenimi modelleriyle çalışmak isteyen yazılımcılar ve yapay zekâ araştırmacıları için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -47,7 +55,7 @@ Transformers kütüphanesini kullanarak bir metin oluşturma modeli çalıştır
 
 - [GitHub deposu →](https://github.com/huggingface/transformers)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

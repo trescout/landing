@@ -2,13 +2,14 @@
 
 Microsoft PowerToys is a collection of utility software developed to increase productivity and customization in the Windows operating system. It offers users advanced customization tools and workflow optimizations on the system.
 
-- ★ 138,154
+- ★ 139,524
 - GitHub Trending · 2026-06-13
 
 **TreScout note:** It's not a single program, but a suite of small tools added to Windows. Most people install it for two: a tool that arranges windows on the screen in a grid pattern, and quick dialing from the keyboard. Installation on a company computer may require administrator permission.
 
 ## Updates
 
+- **October 21, 2026:** Stars 138,154 → 139,524, latest release v0.102.2933.0 (October 21, 2026).
 - **August 27, 2026:** Stars 137,392 → 138,154, latest release v0.101.2362.0 (August 25, 2026).
 - **August 2, 2026:** Stars 134,431 → 137,392, latest release v0.100.2 (June 26, 2026).
 
@@ -34,6 +35,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I use the PowerToys collection of utilities to increase my productivity on the Windows operating system. Guide me on how which tools can optimize my workflow and explain which utility I should use to accomplish certain tasks.
 
+Repository: https://github.com/microsoft/PowerToys. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
@@ -46,7 +55,7 @@ I use the PowerToys collection of utilities to increase my productivity on the W
 - [GitHub repository →](https://github.com/microsoft/PowerToys)
 - [Read in Turkish →](https://trescout.com/discover/powertoys/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/powertoys/

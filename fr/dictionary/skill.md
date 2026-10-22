@@ -80,10 +80,10 @@ Les développeurs les écrivent, les plates-formes les distribuent dans le store
 - [Awesome Claude Skills](https://trescout.com/fr/discover/awesome-claude-skills/)
 - [Last30days Skill](https://trescout.com/fr/discover/last30days-skill/)
 - [I Have Adhd](https://trescout.com/fr/discover/i-have-adhd/)
-- [OfficeCLI](https://trescout.com/fr/discover/officecli/)
 - [Security Audit Skill](https://trescout.com/fr/discover/security-audit-skill/)
+- [OfficeCLI](https://trescout.com/fr/discover/officecli/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/skill/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/skill/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/skill/

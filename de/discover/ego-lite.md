@@ -2,16 +2,16 @@
 
 Ego-lite ist ein Browser, der es Benutzern und Agenten der künstlichen Intelligenz ermöglicht, gleichzeitig zu arbeiten. Dieses JavaScript-basierte Tool zielt darauf ab, die Interaktion von Mensch und Maschine parallel in derselben Browserumgebung durchzuführen.
 
-- ★ 16.628
+- ★ 17.477
 - JavaScript
 - GitHub Trending · 2026-07-24
 
 ## Aktualisierungen
 
+- **16. Oktober 2026:** Sterne 16,628 → 17,477, neueste Version v2.1.0 (16. Oktober 2026).
 - **28. September 2026:** Sterne 15,611 → 16,628, neueste Version v2.0.0 (10. September 2026).
 - **10. September 2026:** Sterne 14,478 → 15,611, neueste Version v2.0.0 (10. September 2026).
 - **31. August 2026:** Sterne 13,023 → 14,478, neueste Version v1.2.3 (11. August 2026).
-- **24. August 2026:** Sterne 11,904 → 13,023, neueste Version v1.2.3 (11. August 2026).
 
 ## Was es bringt
 
@@ -41,6 +41,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ego Lite für mich einrichten: https://github.com/citrolabs/ego-lite. Lesen Sie „skills/ego-browser/references/install.md“ und befolgen Sie die Schritte zur Installation von Ego Lite.
 
+Repository: https://github.com/citrolabs/ego-lite. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Skill](https://trescout.com/de/dictionary/skill/)
@@ -55,7 +63,7 @@ Ego Lite für mich einrichten: https://github.com/citrolabs/ego-lite. Lesen Sie 
 - [GitHub-Repository →](https://github.com/citrolabs/ego-lite)
 - [Auf Türkisch lesen →](https://trescout.com/discover/ego-lite/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-24 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-24 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/ego-lite/

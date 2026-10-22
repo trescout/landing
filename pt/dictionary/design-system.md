@@ -43,7 +43,7 @@ Pode ser confundido com o ‘Guia de Estilo’, que é apenas um guia visual; O 
 
 - [Astryx](https://trescout.com/pt/discover/astryx/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/design-system/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/design-system/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/design-system/

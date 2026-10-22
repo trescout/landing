@@ -42,7 +42,7 @@ The load balancer keeps the site running by redirecting to other servers.
 
 - [MasterDnsVPN](https://trescout.com/en/discover/masterdnsvpn/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/resolver-load-balancing/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/resolver-load-balancing/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/resolver-load-balancing/

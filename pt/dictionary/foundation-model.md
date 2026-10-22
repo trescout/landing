@@ -47,7 +47,7 @@ Geralmente é feito por grandes empresas de tecnologia porque requer uma enorme 
 - [Lingbot Map](https://trescout.com/pt/discover/lingbot-map/)
 - [Needle](https://trescout.com/pt/discover/needle/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/foundation-model/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/foundation-model/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/foundation-model/

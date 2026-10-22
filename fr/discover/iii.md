@@ -2,17 +2,17 @@
 
 iii is a method of creating, extending and monitoring all services in your backend stack (queue, cron, HTTP, state, observability, agents, sandbox) in real time. Il permet de gérer à partir d'un seul point des pièces qui présentent normalement des difficultés d'intégration distinctes.
 
-- ★ 18 839
+- ★ 18 847
 - Rust
 - Lisans: yok
 - GitHub Trending · 28 May 2026
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 18,839 → 18,847, dernière version iii/v0.24.6 (19 octobre 2026).
 - **13 octobre 2026:** Étoiles 18,824 → 18,839, dernière version iii/v0.24.5 (13 octobre 2026).
 - **2 octobre 2026:** Étoiles 18,809 → 18,824, dernière version iii/v0.24.4 (2 octobre 2026).
 - **27 septembre 2026:** Étoiles 18,767 → 18,809, dernière version iii/v0.24.3 (25 septembre 2026).
-- **18 septembre 2026:** Étoiles 18,662 → 18,767, dernière version iii/v0.24.0 (17 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -30,6 +30,14 @@ Pour commencer et accéder à la documentation, vous pouvez visiter iii.dev.
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pour essayer iii, créez d'abord un projet avec « iii project init myapp », faites « cd myapp » et démarrez le moteur avec la commande « iii », puis ajoutez des fonctionnalités avec des commandes comme « iii worker add queue » et connectez-les toutes dans le même système live ; Si le SDK est requis, installez « npm install iii-sdk ».
+
+Dépôt : https://github.com/iii-hq/iii. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 **Créer un projet**
 
@@ -78,7 +86,7 @@ npm install iii-sdk
 - [Dépôt GitHub →](https://github.com/iii-hq/iii)
 - [Lire en turc →](https://trescout.com/discover/iii/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/iii/

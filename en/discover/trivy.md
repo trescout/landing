@@ -55,6 +55,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a security workflow on GitHub Actions that scans my Docker image and source codes with Trivy at every code push and pull request (PR). Can you make a complete .github/workflows/trivy.yml file that stops the build only on CRITICAL and HIGH level vulnerabilities (exit-code 1), uploads the findings to the GitHub Security dashboard in SARIF format, and creates a SBOM file in CycloneDX format?
 
+Repository: https://github.com/aquasecurity/trivy. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Can Trivy Docker scan container images without a daemon? Yes. Trivy can download and scan images directly from remote image repositories (Docker Hub, GitHub Container Registry, AWS ECR, etc.) or local tar archives without the need for a Docker client or daemon.
@@ -81,7 +89,7 @@ I want to set up a security workflow on GitHub Actions that scans my Docker imag
 - [GitHub repository →](https://github.com/aquasecurity/trivy)
 - [Read in Turkish →](https://trescout.com/discover/trivy/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/trivy/

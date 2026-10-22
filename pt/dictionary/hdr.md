@@ -41,7 +41,7 @@ Não, para visualizar conteúdos HDR, são necessárias telas compatíveis com H
 - [Sonarr](https://trescout.com/pt/discover/sonarr/)
 - [Renodx](https://trescout.com/pt/discover/renodx/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/hdr/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/hdr/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/hdr/

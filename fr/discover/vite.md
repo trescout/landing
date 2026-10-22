@@ -2,17 +2,17 @@
 
 Vite offre un environnement de développement rapide et un outil de création pour les projets Web modernes. Il fonctionne comme un outil frontal qui réduit les temps d'attente dans le processus de développement en utilisant des modules ES natifs.
 
-- ★ 83 263
+- ★ 83 423
 - GitHub Trending · 2026-06-07
 
 **Note TreScout :** Il reflète instantanément les modifications que vous apportez au cours du développement sur l'écran, réduisant ainsi le temps d'attente, qui peut être de quelques minutes dans les grands projets, à quelques secondes. Si vous passez d'anciens outils, vérifiez si les plugins que vous utilisez sont disponibles ici. Il peut être considéré comme le choix par défaut si vous démarrez un nouveau projet Web.
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 83,415 → 83,423, dernière version v8.3.5 (21 octobre 2026).
+- **20 octobre 2026:** Étoiles 83,396 → 83,415, dernière version create-vite@9.3.1 (20 octobre 2026).
+- **19 octobre 2026:** Étoiles 83,263 → 83,396, dernière version create-vite@9.3.0 (19 octobre 2026).
 - **8 octobre 2026:** Étoiles 83,213 → 83,263, dernière version v8.3.4 (8 octobre 2026).
-- **6 octobre 2026:** Étoiles 83,091 → 83,213, dernière version v8.3.3 (6 octobre 2026).
-- **1 octobre 2026:** Étoiles 83,027 → 83,091, dernière version v8.3.2 (1 octobre 2026).
-- **27 septembre 2026:** Étoiles 82,787 → 83,027, dernière version v8.3.1 (24 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -44,6 +44,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pour moi, je souhaite démarrer un projet Web moderne. Comment configurer mon environnement de développement à l'aide de Vite et quelles étapes dois-je suivre pour préparer la sortie de mon projet ? Expliquer les recommandations de configuration de base pour un développement rapide et des processus de construction optimisés.
 
+Dépôt : https://github.com/vitejs/vite. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
@@ -56,7 +64,7 @@ Pour moi, je souhaite démarrer un projet Web moderne. Comment configurer mon en
 - [Dépôt GitHub →](https://github.com/vitejs/vite)
 - [Lire en turc →](https://trescout.com/discover/vite/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/vite/

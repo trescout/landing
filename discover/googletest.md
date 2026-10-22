@@ -65,6 +65,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Modern bir C++ projesinde GoogleTest ve GoogleMock kullanarak bir veri ayrıştırıcı (parser) sınıfı için birim testleri yazmak istiyorum. CMakeLists.txt dosyamı nasıl yapılandıracağımı, örnek bir TEST_F test fikstürünü ve MOCK_METHOD ile sahte nesne oluşturup çağrı beklentilerini nasıl doğrulayacağımı kod örnekleriyle açıklar mısın?
 
+Depo: https://github.com/google/googletest. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** C++ yazılım mühendisleri, gömülü sistem geliştiricileri ve sistem mimarları.
 - **Lisans:** BSD 3-Clause (Esnek açık kaynak lisansı)
 - **Çatı:** C++ Test ve Mock Kütüphanesi
@@ -81,15 +89,15 @@ Modern bir C++ projesinde GoogleTest ve GoogleMock kullanarak bir veri ayrışt�
 
 - [GitHub deposu →](https://github.com/google/googletest)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Fork](https://trescout.com/dictionary/fork/)
 - [Parser](https://trescout.com/dictionary/parser/)
 - [CI/CD](https://trescout.com/dictionary/ci-cd/)
-- [API](https://trescout.com/dictionary/api/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

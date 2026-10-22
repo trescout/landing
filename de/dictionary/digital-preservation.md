@@ -39,7 +39,7 @@ Cloud-Speicher ist ein gutes Hilfsmittel, aber es ist wichtig, nicht von einem e
 - [Personal Knowledge Management](https://trescout.com/de/dictionary/pkm/)
 - [Personal knowledge management](https://trescout.com/de/dictionary/personal-knowledge-management/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/digital-preservation/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/digital-preservation/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/digital-preservation/

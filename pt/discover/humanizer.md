@@ -2,16 +2,16 @@
 
 Humanizer é uma biblioteca Python que remove padrões característicos de textos gerados por inteligência artificial, transformando o conteúdo em uma narrativa mais natural. Esta ferramenta, que faz com que textos escritos pareçam ter sido feitos por humanos, visa dificultar a detecção de sistemas de geração automática de conteúdo.
 
-- ★ 55.180
+- ★ 57.962
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 55,180 → 57,962, versão mais recente v3.1.0 (28 de setembro de 2026).
 - **9 de outubro de 2026:** Estrelas 52,508 → 55,180, versão mais recente v3.1.0 (28 de setembro de 2026).
 - **28 de setembro de 2026:** Estrelas 52,272 → 52,508, versão mais recente v3.1.0 (28 de setembro de 2026).
 - **27 de setembro de 2026:** Estrelas 49,735 → 52,272, versão mais recente v3.0.0 (6 de setembro de 2026).
-- **18 de setembro de 2026:** Estrelas 47,061 → 49,735, versão mais recente v3.0.0 (6 de setembro de 2026).
 
 ## O que você ganha
 
@@ -43,6 +43,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Transforme o texto abaixo em uma narrativa mais natural e humana, removendo expressões que parecem ter sido escritas por inteligência artificial, linguagem de vendas excessiva e palavras de preenchimento desnecessárias. Sem alterar as informações técnicas, dados numéricos e nomes próprios do original, torne apenas a estrutura das frases e o estilo mais fluidos.
 
+Repositório: https://github.com/blader/humanizer. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
@@ -55,7 +63,7 @@ Transforme o texto abaixo em uma narrativa mais natural e humana, removendo expr
 - [Repositório no GitHub →](https://github.com/blader/humanizer)
 - [Ler em turco →](https://trescout.com/discover/humanizer/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-03: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-03: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/humanizer/

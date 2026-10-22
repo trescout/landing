@@ -38,6 +38,7 @@ You don't need any installation to start using GeoLibre. You can access the web 
 - [GIS](https://trescout.com/en/dictionary/gis/)
 - [Notebooks](https://trescout.com/en/dictionary/notebooks/)
 - [Jupyter Notebooks](https://trescout.com/en/dictionary/jupyter-notebooks/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for researchers, data analysts and map enthusiasts who want to visualize, analyze and explore geographic data.
 - **License:** MIT
@@ -47,7 +48,7 @@ You don't need any installation to start using GeoLibre. You can access the web 
 - [GitHub repository →](https://github.com/opengeos/GeoLibre)
 - [Read in Turkish →](https://trescout.com/discover/geolibre/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/geolibre/

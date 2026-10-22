@@ -2,16 +2,16 @@
 
 Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla uyumlu (agent ready) bir tasarım sistemi (design system) sunuyor. TypeScript tabanlı bu açık kaynaklı kütüphane, arayüz bileşenlerini otonom sistemlerin kullanımına uygun şekilde yapılandırıyor.
 
-- ★ 13.630
+- ★ 13.678
 - TypeScript
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 13.630 → 13.678, son sürüm v0.7.1 (15 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 13.591 → 13.630, son sürüm v0.7.0 (13 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 13.581 → 13.591, son sürüm v0.6.8 (10 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 13.566 → 13.581, son sürüm v0.6.7 (9 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 13.537 → 13.566, son sürüm v0.6.6 (7 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -43,6 +43,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum. Projemde halihazırda kullandığım stil yöntemlerini bozmadan, @astryxdesign/core paketindeki bileşenleri nasıl yapılandırabilirim? Bileşenleri özelleştirmek ve CLI aracını kullanarak dokümantasyon veya şablonlara erişmek için izlemem gereken standart yöntemler nelerdir?
 
+Depo: https://github.com/facebook/astryx. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Hem insanlar hem de yapay zekâ asistanları tarafından ortaklaşa geliştirilen, ölçeklenebilir arayüzler tasarlamak isteyen yazılım ekipleri için uygundur.
 - **Lisans:** MIT
 
@@ -50,7 +58,7 @@ Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum
 
 - [GitHub deposu →](https://github.com/facebook/astryx)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

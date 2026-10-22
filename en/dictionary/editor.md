@@ -40,7 +40,7 @@ Yes, but code editors help you get your work done much faster with features like
 - [Palmier Pro](https://trescout.com/en/discover/palmier-pro/)
 - [Clypra](https://trescout.com/en/discover/clypra/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/editor/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/editor/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/editor/

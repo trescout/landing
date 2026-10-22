@@ -35,6 +35,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Toplantı kayıtlarımı yerel olarak işleyen bu aracı kullanarak, gizliliğimi koruyacak şekilde ses dökümlerimi metne dönüştürmek ve bu metinlerden özetler çıkarmak istiyorum. Verilerimin cihazımdan ayrılmadığından emin olarak, yerel modellerle en verimli toplantı notlarını nasıl oluşturabilirim?
 
+Depo: https://github.com/Zackriya-Solutions/meetily. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Veri gizliliğine önem veren, toplantı kayıtlarını bulut servislerine yüklemek istemeyen profesyoneller ve kurumlar içindir.
 - **Lisans:** MIT
 
@@ -42,7 +50,7 @@ Toplantı kayıtlarımı yerel olarak işleyen bu aracı kullanarak, gizliliğim
 
 - [GitHub deposu →](https://github.com/Zackriya-Solutions/meetily)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

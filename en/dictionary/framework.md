@@ -45,11 +45,11 @@ No, in very small and simple projects, sometimes only basic codes may be suffici
 - [Angular](https://trescout.com/en/discover/angular/)
 - [Tailwindcss](https://trescout.com/en/discover/tailwindcss/)
 - [Hyperframes](https://trescout.com/en/discover/hyperframes/)
+- [AI Job Search](https://trescout.com/en/discover/ai-job-search/)
 - [Nuxt](https://trescout.com/en/discover/nuxt/)
-- [Cypress](https://trescout.com/en/discover/cypress/)
 - [CLI-Anything](https://trescout.com/en/discover/cli-anything/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/framework/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/framework/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/framework/

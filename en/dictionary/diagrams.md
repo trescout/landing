@@ -38,7 +38,7 @@ Yes, the important thing is not that it is artistic, but that it accurately refl
 
 - [Likec4](https://trescout.com/en/discover/likec4/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/diagrams/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/diagrams/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/diagrams/

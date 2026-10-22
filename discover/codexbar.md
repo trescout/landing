@@ -2,16 +2,16 @@
 
 CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır. Swift diliyle geliştirilen bu uygulama, geliştiricilerin yapay zekâ destekli kodlama araçlarındaki tüketim istatistiklerini izlemelerini kolaylaştırır.
 
-- ★ 22.475
+- ★ 22.708
 - Swift
 - GitHub Trending · 2026-07-06
 
 ## Güncelleme
 
-- **14 Ekim 2026:** Yıldız 22.399 → 22.475, son sürüm v0.75.0 (14 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 22.358 → 22.399, son sürüm v0.74.1 (11 Ekim 2026).
-- **10 Ekim 2026:** Yıldız 22.268 → 22.358, son sürüm v0.74.0 (10 Ekim 2026).
-- **7 Ekim 2026:** Yıldız 22.196 → 22.268, son sürüm v0.73.0 (7 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 22.677 → 22.708, son sürüm v0.79.0 (20 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 22.582 → 22.677, son sürüm v0.78.0 (19 Ekim 2026).
+- **17 Ekim 2026:** Yıldız 22.564 → 22.582, son sürüm v0.77.0 (16 Ekim 2026).
+- **16 Ekim 2026:** Yıldız 22.475 → 22.564, son sürüm v0.76.0 (15 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -33,6 +33,16 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 CodexBar üzerinde kullandığım yapay zekâ servislerinin limitlerini ve sıfırlanma sürelerini nasıl en verimli şekilde takip edebilirim? Özellikle oturum açma zorunluluğu olmadan API anahtarlarımı veya tarayıcı oturumlarımı kullanarak bu aracı nasıl yapılandırabilirim?
 
+Depo: https://github.com/steipete/CodexBar. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Bir API anahtarı gerekirse onu sohbete yazmamı isteme. .env dosyasına nasıl ekleyeceğimi göster ve bu dosyanın Git'e gönderilmediğinden emin ol.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Birden fazla yapay zekâ kodlama aracını kullanan ve günlük veya aylık kullanım limitlerini takip etmek isteyen macOS kullanıcıları içindir.
 - **Lisans:** MIT
 
@@ -40,7 +50,7 @@ CodexBar üzerinde kullandığım yapay zekâ servislerinin limitlerini ve sıf�
 
 - [GitHub deposu →](https://github.com/steipete/CodexBar)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

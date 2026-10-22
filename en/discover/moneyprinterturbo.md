@@ -2,17 +2,17 @@
 
 MoneyPrinterTurbo automatically produces short videos using large language models from a topic or keyword you provide. It combines text, subtitles, background music and visuals. (The name is for marketing purposes, it is a content production tool, not a 'money printing' machine.)
 
-- ★ 128,158
+- ★ 133,597
 - Python
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Updates
 
+- **October 21, 2026:** Stars 128,158 → 133,597, latest release v1.3.9 (October 21, 2026).
 - **October 3, 2026:** Stars 123,436 → 128,158, latest release v1.3.8 (October 3, 2026).
 - **September 14, 2026:** Stars 120,054 → 123,436, latest release v1.3.7 (September 13, 2026).
 - **September 3, 2026:** Stars 114,747 → 120,054, latest release v1.3.6 (September 2, 2026).
-- **August 23, 2026:** Stars 108,989 → 114,747, latest release v1.3.5 (August 22, 2026).
 
 ## What you get
 
@@ -53,13 +53,21 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install and run MoneyPrinterTurbo: Download the repository with 'git clone https://github.com/harry0703/MoneyPrinterTurbo.git', enter the directory and launch it with the 'docker-compose up' command, then open the web interface from the browser at http://127.0.0.1:8501.
 
+Repository: https://github.com/harry0703/MoneyPrinterTurbo. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [LLM API](https://trescout.com/en/dictionary/llm-api/)
 - [Clone](https://trescout.com/en/dictionary/clone/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
-- [API](https://trescout.com/en/dictionary/api/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Short video / content producers
@@ -75,7 +83,7 @@ Install and run MoneyPrinterTurbo: Download the repository with 'git clone https
 - [GitHub repository →](https://github.com/harry0703/MoneyPrinterTurbo)
 - [Read in Turkish →](https://trescout.com/discover/moneyprinterturbo/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/moneyprinterturbo/

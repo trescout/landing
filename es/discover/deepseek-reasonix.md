@@ -2,16 +2,16 @@
 
 DeepSeek-Reasonix es un agente de codificación de IA que se ejecuta en el terminal y se basa en modelos de DeepSeek. Esta herramienta, que se centra en la estabilidad de la caché de prefijos, garantiza que los desarrolladores reciban soporte de codificación ininterrumpido durante largas sesiones.
 
-- ★ 35.803
+- ★ 35.898
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Actualizaciones
 
-- **15 de octubre de 2026:** Estrellas 35,786 → 35,803, última versión studio-v2.41.0 (15 de octubre de 2026).
-- **14 de octubre de 2026:** Estrellas 35,775 → 35,786, última versión studio-v2.39.0 (14 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 35,769 → 35,775, última versión studio-v2.38.0 (13 de octubre de 2026).
-- **12 de octubre de 2026:** Estrellas 35,767 → 35,769, última versión studio-v2.37.0 (12 de octubre de 2026).
+- **21 de octubre de 2026:** Estrellas 35,879 → 35,898, última versión studio-v2.47.1 (21 de octubre de 2026).
+- **20 de octubre de 2026:** Estrellas 35,860 → 35,879, última versión studio-v2.46.0 (20 de octubre de 2026).
+- **19 de octubre de 2026:** Estrellas 35,837 → 35,860, última versión studio-v2.45.0 (19 de octubre de 2026).
+- **18 de octubre de 2026:** Estrellas 35,823 → 35,837, última versión studio-v2.44.0 (18 de octubre de 2026).
 
 ## Qué aporta
 
@@ -53,6 +53,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Mientras trabajo con este agente de codificación de inteligencia artificial que se ejecuta en la terminal, desarrollo sugerencias de código teniendo en cuenta la estructura actual y los objetivos de mi proyecto. Concéntrese en producir respuestas consistentes y de bajo costo durante nuestras largas sesiones utilizando la estabilidad de la caché de prefijo. Al escribir o depurar código, proporcione soluciones modulares y limpias que se ajusten a las necesidades del proyecto.
 
+Repositorio: https://github.com/esengine/DeepSeek-Reasonix. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
@@ -66,7 +74,7 @@ Mientras trabajo con este agente de codificación de inteligencia artificial que
 - [Repositorio en GitHub →](https://github.com/esengine/DeepSeek-Reasonix)
 - [Leer en turco →](https://trescout.com/discover/deepseek-reasonix/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-03: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-03: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/deepseek-reasonix/

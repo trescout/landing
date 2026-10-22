@@ -46,13 +46,13 @@ The system usually gives errors, but there are also critical commands that requi
 - [Superpowers](https://trescout.com/en/discover/superpowers/)
 - [Ponytail](https://trescout.com/en/discover/ponytail/)
 - [Spec Kit](https://trescout.com/en/discover/spec-kit/)
-- [Codex](https://trescout.com/en/discover/codex/)
 - [Graphify](https://trescout.com/en/discover/graphify/)
+- [Codex](https://trescout.com/en/discover/codex/)
 - [PI](https://trescout.com/en/discover/pi/)
 - [TradingAgents](https://trescout.com/en/discover/tradingagents/)
 - [Angular](https://trescout.com/en/discover/angular/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cli/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cli/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cli/

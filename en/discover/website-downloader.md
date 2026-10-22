@@ -26,6 +26,7 @@ To start using the tool, download the codes from the GitHub page to your compute
 
 - [Assets](https://trescout.com/en/dictionary/assets/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to store their website's source code and assets as a local archive.
 - **License:** MIT
@@ -35,7 +36,7 @@ To start using the tool, download the codes from the GitHub page to your compute
 - [GitHub repository →](https://github.com/AhmadIbrahiim/Website-downloader)
 - [Read in Turkish →](https://trescout.com/discover/website-downloader/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/website-downloader/

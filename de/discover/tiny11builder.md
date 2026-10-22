@@ -2,12 +2,13 @@
 
 ntdevlabs/tiny11builder ist eine WinUI-Anwendung, mit der kleinere und angepasste Versionen des Betriebssystems Windows 11 erstellt werden können. Dieses in C# entwickelte Tool ermöglicht es Benutzern, System-images an ihre eigenen Bedürfnisse anzupassen.
 
-- ★ 20.413
+- ★ 20.743
 - C#
 - GitHub Trending · 2026-10-15
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 20,413 → 20,743, neueste Version winui-v0.1.3 (19. Oktober 2026).
 - **15. Oktober 2026:** Sterne 20,412 → 20,413, neueste Version winui-v0.1.2 (15. Oktober 2026).
 
 ## Was es bringt
@@ -22,6 +23,10 @@ Laden Sie die für Ihr Computersystem passende Archivdatei von der offiziellen G
 
 - [Offizielle Quelle →](https://github.com/ntdevlabs/tiny11builder/releases/latest)
 
+## Verwandte Begriffe aus dem Glossar
+
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die das Betriebssystem Windows 11 von unnötigen Komponenten befreien und es leichter machen möchten.
 
 ## Links
@@ -29,7 +34,7 @@ Laden Sie die für Ihr Computersystem passende Archivdatei von der offiziellen G
 - [GitHub-Repository →](https://github.com/ntdevlabs/tiny11builder)
 - [Auf Türkisch lesen →](https://trescout.com/discover/tiny11builder/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-15 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-15 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/tiny11builder/

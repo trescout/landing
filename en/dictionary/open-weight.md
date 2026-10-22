@@ -67,7 +67,7 @@ It depends on the model. Smaller ones run on laptops, larger ones run on servers
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [SLM](https://trescout.com/en/dictionary/slm/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/open-weight/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/open-weight/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/open-weight/

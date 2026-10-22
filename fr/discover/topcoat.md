@@ -38,6 +38,7 @@ Pour commencer à travailler avec Topcoat, vous devez suivre le guide « Mise en
 - [Framework](https://trescout.com/fr/dictionary/framework/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs qui souhaitent développer des applications Web de bout en bout en utilisant le langage Rust et recherchent un framework standardisé.
 - **Licence:** MIT
@@ -47,7 +48,7 @@ Pour commencer à travailler avec Topcoat, vous devez suivre le guide « Mise en
 - [Dépôt GitHub →](https://github.com/tokio-rs/topcoat)
 - [Lire en turc →](https://trescout.com/discover/topcoat/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-21 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-21 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/topcoat/

@@ -70,7 +70,7 @@ Sim, versões leves. Histórias de usuário com critérios de aceitação e cont
 - [Framework](https://trescout.com/pt/dictionary/framework/)
 - [Tech Stack](https://trescout.com/pt/dictionary/tech-stack/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/specification/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/specification/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/specification/

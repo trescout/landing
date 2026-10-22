@@ -39,7 +39,7 @@ Computers do not understand raw PDF files, converting them into meaningful data 
 - [RAG](https://trescout.com/en/dictionary/rag/)
 - [NLP](https://trescout.com/en/dictionary/nlp/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/document-parsing/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/document-parsing/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/document-parsing/

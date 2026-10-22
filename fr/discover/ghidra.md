@@ -2,16 +2,16 @@
 
 Ghidra est un cadre complet d'ingénierie inverse logicielle (SRE) développé par la National Security Agency (NSA) et partagé en open source. Plateforme développée avec le noyau Java et C++ ; Il convertit les fichiers binaires compilés en code source, offrant aux chercheurs en sécurité des décompilations avancées, une analyse symbolique et une prise en charge multi-architecture.
 
-- ★ 84 292
+- ★ 89 183
 - Java
 - GitHub Trending · 2026-08-28
 
 ## Mises à jour
 
+- **16 octobre 2026:** Étoiles 84,292 → 89,183, dernière version Ghidra_12.1.4_build (21 septembre 2026).
 - **12 octobre 2026:** Étoiles 79,733 → 84,292, dernière version Ghidra_12.1.4_build (21 septembre 2026).
 - **27 septembre 2026:** Étoiles 78,142 → 79,733, dernière version Ghidra_12.1.4_build (21 septembre 2026).
 - **17 septembre 2026:** Étoiles 74,145 → 78,142, dernière version Ghidra_12.1.3_build (18 août 2026).
-- **31 août 2026:** Étoiles 73,203 → 74,145, dernière version Ghidra_12.1.3_build (18 août 2026).
 
 ## Ce que ça vous apporte
 
@@ -67,6 +67,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite examiner un fichier binaire suspect à l'aide de Ghidra. Pouvez-vous expliquer étape par étape comment ouvrir un nouveau projet dans Ghidra, importer le fichier, exécuter Auto Analysis, examiner les fonctions dans la fenêtre du décompilateur et détecter les fonctions API suspectes appelées ?
 
+Dépôt : https://github.com/NationalSecurityAgency/ghidra. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Quelles sont les principales différences entre Ghidra et IDA Pro ? Bien qu'IDA Pro ait des frais de licence commerciaux et élevés, Ghidra est entièrement gratuit et open source. Ghidra propose des décompilateurs intégrés pour toutes les architectures et comprend un serveur de collaboration multi-utilisateurs.
@@ -81,7 +89,7 @@ Je souhaite examiner un fichier binaire suspect à l'aide de Ghidra. Pouvez-vous
 - [Decompiler](https://trescout.com/fr/dictionary/decompiler/)
 - [IoT](https://trescout.com/fr/dictionary/iot/)
 - [Binary](https://trescout.com/fr/dictionary/binary/)
-- [API](https://trescout.com/fr/dictionary/api/)
+- [Open Source](https://trescout.com/fr/dictionary/open-source/)
 
 - **Pour qui:** Chercheurs en logiciels malveillants, chasseurs de vulnérabilités, experts en ingénierie inverse et développeurs de systèmes embarqués.
 - **Licence:** Apache-2.0 (Açık kaynak lisansı)
@@ -93,7 +101,7 @@ Je souhaite examiner un fichier binaire suspect à l'aide de Ghidra. Pouvez-vous
 - [Dépôt GitHub →](https://github.com/NationalSecurityAgency/ghidra)
 - [Lire en turc →](https://trescout.com/discover/ghidra/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/ghidra/

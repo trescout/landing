@@ -77,7 +77,7 @@ No. Publishing and a domain name are required for others to see it. Tunneling to
 - [Personal_AI_Infrastructure](https://trescout.com/en/discover/personal-ai-infrastructure/)
 - [Portless](https://trescout.com/en/discover/portless/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/localhost/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/localhost/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/localhost/

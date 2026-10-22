@@ -38,7 +38,7 @@ Wenn innerhalb einer Gruppe ein Fehler auftritt, meldet das System normalerweise
 - [Inference](https://trescout.com/de/dictionary/inference/)
 - [Runtime](https://trescout.com/de/dictionary/runtime/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/batch-processing/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/batch-processing/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/batch-processing/

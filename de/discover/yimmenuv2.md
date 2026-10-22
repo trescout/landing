@@ -26,6 +26,7 @@ Laden Sie zunächst die YimMenuV2-Datei von der GitHub-Release-Seite herunter un
 
 - [Features](https://trescout.com/de/dictionary/features/)
 - [Launcher](https://trescout.com/de/dictionary/launcher/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Benutzer, die Änderungen und Anpassungen im Spiel in der Grand Theft Auto 5: Enhanced-Version vornehmen möchten.
 - **Lizenz:** GPL-2.0
@@ -35,7 +36,7 @@ Laden Sie zunächst die YimMenuV2-Datei von der GitHub-Release-Seite herunter un
 - [GitHub-Repository →](https://github.com/YimMenu/YimMenuV2)
 - [Auf Türkisch lesen →](https://trescout.com/discover/yimmenuv2/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/yimmenuv2/

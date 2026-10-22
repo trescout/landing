@@ -2,7 +2,7 @@
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 130.447
+- ★ 131.352
 - C++
 - GitHub Trending · 2026-06-08
 
@@ -10,10 +10,10 @@ Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 130.447 → 131.352, son sürüm v0.7.0 (15 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 129.621 → 130.447, son sürüm v0.6.0 (5 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 128.278 → 129.621, son sürüm v0.5.0 (23 Eylül 2026).
 - **15 Eylül 2026:** Yıldız 127.101 → 128.278, son sürüm v0.4.1 (14 Eylül 2026).
-- **5 Eylül 2026:** Yıldız 125.883 → 127.101, son sürüm v0.4.0 (4 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -46,6 +46,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımda yerel olarak büyük dil modellerini çalıştırmak istiyorum. Llama.cpp aracını kullanarak 'llama-cli -m my_model.gguf' komutuyla kendi model dosyamı nasıl çalıştırabilirim veya 'llama-cli -hf ggml-org/gemma-3-1b-it-GGUF' komutuyla Hugging Face üzerinden doğrudan bir modeli nasıl indirip başlatabilirim? Bu süreçte dikkat etmem gereken donanım gereksinimleri veya model seçimi konusunda bana yardımcı olur musun?
 
+Depo: https://github.com/ggml-org/llama.cpp. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Büyük dil modellerini kendi donanımı üzerinde, internete bağımlı kalmadan çalıştırmak isteyen kullanıcılar içindir.
 - **Lisans:** MIT
 
@@ -53,7 +61,7 @@ Bilgisayarımda yerel olarak büyük dil modellerini çalıştırmak istiyorum. 
 
 - [GitHub deposu →](https://github.com/ggml-org/llama.cpp)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

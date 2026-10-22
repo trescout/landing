@@ -42,7 +42,7 @@ Sim, arquivos executáveis vindos de fontes desconhecidas podem conter malwares 
 
 - [AnyPS5](https://trescout.com/pt/discover/anyps5/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/executables/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/executables/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/executables/

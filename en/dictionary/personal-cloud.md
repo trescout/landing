@@ -66,7 +66,7 @@ Drive is rent, personal cloud is ownership. You are in control.
 - [Self-hosting](https://trescout.com/en/dictionary/self-hosting/)
 - [Backup Program](https://trescout.com/en/dictionary/backup-program/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/personal-cloud/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/personal-cloud/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/personal-cloud/

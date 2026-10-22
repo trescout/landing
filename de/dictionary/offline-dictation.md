@@ -34,7 +34,7 @@ Es benötigt kein Internet, da sich im Gerät ein vorab trainiertes, optimiertes
 - [SLM](https://trescout.com/de/dictionary/slm/)
 - [Offline](https://trescout.com/de/dictionary/offline/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/offline-dictation/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/offline-dictation/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/offline-dictation/

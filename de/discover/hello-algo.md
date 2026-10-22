@@ -27,6 +27,7 @@ Um mit der Hello Algo-Plattform zu beginnen, können Sie die offizielle Website 
 ## Verwandte Begriffe aus dem Glossar
 
 - [PDF](https://trescout.com/de/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Studierende und Anfänger der Softwareentwicklung, die in die Welt der Datenstrukturen und Algorithmen eintauchen möchten.
 
@@ -35,7 +36,7 @@ Um mit der Hello Algo-Plattform zu beginnen, können Sie die offizielle Website 
 - [GitHub-Repository →](https://github.com/krahets/hello-algo)
 - [Auf Türkisch lesen →](https://trescout.com/discover/hello-algo/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/hello-algo/

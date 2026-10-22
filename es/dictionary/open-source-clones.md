@@ -38,7 +38,7 @@ Generalmente se prefieren porque son más rentables, puede cambiarlos según sus
 - [Clone](https://trescout.com/es/dictionary/clone/)
 - [Clones](https://trescout.com/es/dictionary/clone/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/open-source-clones/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/open-source-clones/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/open-source-clones/

@@ -34,7 +34,7 @@ São ótimos para discussão científica, mas, como ainda não passaram pelo fil
 - [Benchmark](https://trescout.com/pt/dictionary/benchmark/)
 - [Foundation Models](https://trescout.com/pt/dictionary/foundation-models/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/preprints/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/preprints/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/preprints/

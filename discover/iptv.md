@@ -2,7 +2,7 @@
 
 Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplayan iptv-org projesi, internet protokolü üzerinden televizyon yayını (IPTV) listelerini düzenli bir veri kümesi olarak sunuyor. TypeScript ile geliştirilen bu açık kaynaklı koleksiyon, kullanıcıların farklı ülkelerdeki yayınlara erişimini standartlaştırıyor.
 
-- ★ 134.991
+- ★ 141.767
 - TypeScript
 - GitHub Trending · 2026-06-13
 
@@ -10,6 +10,7 @@ Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplay
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 134.991 → 141.767.
 - **2 Ağustos 2026:** Yıldız 118.170 → 134.991.
 
 ## Ne kazandırır?
@@ -31,11 +32,12 @@ Bu aracı kullanmak için herhangi bir kurulum yapmanıza gerek yoktur. Projenin
 
 - [GitHub deposu →](https://github.com/iptv-org/iptv)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [IPTV](https://trescout.com/dictionary/iptv/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iptv/

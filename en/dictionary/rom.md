@@ -41,7 +41,7 @@ Because the basic operating rules of the device are protected to prevent acciden
 - [Romm](https://trescout.com/en/discover/romm/)
 - [Lighthouse](https://trescout.com/en/discover/lighthouse/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rom/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rom/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/rom/

@@ -27,6 +27,7 @@ You can enable the tool to download your repository to the workspace by adding t
 - [Repository Checkout](https://trescout.com/en/dictionary/repository-checkout/)
 - [Checkout](https://trescout.com/en/dictionary/checkout/)
 - [Continuous Integration](https://trescout.com/en/dictionary/continuous-integration/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for software developers who automate continuous integration processes using GitHub Actions.
 - **License:** MIT
@@ -36,7 +37,7 @@ You can enable the tool to download your repository to the workspace by adding t
 - [GitHub repository →](https://github.com/actions/checkout)
 - [Read in Turkish →](https://trescout.com/discover/checkout/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/checkout/

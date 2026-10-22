@@ -38,7 +38,7 @@ Por ser de código aberto, qualquer pessoa pode revisá-lo, para que os erros se
 - [AI Models](https://trescout.com/pt/dictionary/ai-models/)
 - [Machine Learning](https://trescout.com/pt/dictionary/machine-learning/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/open-source-healthcare-ai/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/open-source-healthcare-ai/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/open-source-healthcare-ai/

@@ -75,7 +75,7 @@ When full control and custom installation is required. For standard work, PaaS i
 
 - [Free for Dev](https://trescout.com/en/discover/free-for-dev/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/iaas/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/iaas/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/iaas/

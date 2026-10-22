@@ -22,6 +22,7 @@ Sie können die Download-Links auf der GitHub-Seite verwenden, um mit der Verwen
 
 - [Desktop Client](https://trescout.com/de/dictionary/desktop-client/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die den Jellyfin-Medienserver über eine native Desktop-Anwendung statt über einen Browser verwenden möchten.
 - **Lizenz:** GPL-2.0
@@ -31,7 +32,7 @@ Sie können die Download-Links auf der GitHub-Seite verwenden, um mit der Verwen
 - [GitHub-Repository →](https://github.com/andrewrabert/jellium-desktop)
 - [Auf Türkisch lesen →](https://trescout.com/discover/jellium-desktop/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-20 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-20 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/jellium-desktop/

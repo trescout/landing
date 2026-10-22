@@ -42,7 +42,7 @@ Weil autonome Agenten Fehler machen können und Sie nicht möchten, dass diese F
 
 - [Flue](https://trescout.com/de/discover/flue/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/sandbox-agent-framework/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/sandbox-agent-framework/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sandbox-agent-framework/

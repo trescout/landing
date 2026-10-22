@@ -2,12 +2,13 @@
 
 El proyecto pgrust, en el que se reescribió el sistema de gestión de bases de datos PostgreSQL con el lenguaje de programación Rust, completa con éxito todas las pruebas de regresión. Este estudio tiene como objetivo modernizar la arquitectura de la base de datos con un lenguaje centrado en la seguridad de la memoria.
 
-- ★ 5.030
+- ★ 5.282
 - Rust
 - GitHub Trending · 2026-07-12
 
 ## Actualizaciones
 
+- **20 de octubre de 2026:** Estrellas 5,030 → 5,282, última versión v0.3.1 (19 de octubre de 2026).
 - **16 de septiembre de 2026:** Estrellas 4,964 → 5,030, última versión v0.3 (15 de septiembre de 2026).
 - **10 de septiembre de 2026:** Estrellas 3,957 → 4,964, última versión v0.2-release (30 de julio de 2026).
 - **2 de agosto de 2026:** Estrellas 2,171 → 3,957, última versión v0.2-release (30 de julio de 2026).
@@ -32,6 +33,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cuál es el objetivo principal del proyecto Pgrust, cómo se garantiza la compatibilidad del disco con PostgreSQL existente y cómo se utiliza la programación respaldada por inteligencia artificial en el desarrollo del proyecto? Cuéntenos sobre la compatibilidad de la versión actual de Pgrust con Postgres 18.3 y su éxito en las pruebas de regresión.
 
+Repositorio: https://github.com/malisper/pgrust. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Memory](https://trescout.com/es/dictionary/memory/)
@@ -46,7 +55,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 - [Repositorio en GitHub →](https://github.com/malisper/pgrust)
 - [Leer en turco →](https://trescout.com/discover/pgrust/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/pgrust/

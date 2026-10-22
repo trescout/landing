@@ -2,16 +2,16 @@
 
 Prefect, Python tabanlı veri hatları oluşturmak için kullanılan bir iş akışı düzenleme çerçevesidir (workflow orchestration framework). Dayanıklı veri süreçleri geliştirmek amacıyla tasarlanan bu araç, karmaşık veri iş akışlarının yönetilmesini ve izlenmesini sağlar.
 
-- ★ 23.982
+- ★ 24.051
 - Python
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 23.982 → 24.051, son sürüm 3.9.0 (21 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 23.931 → 23.982, son sürüm 3.8.8 (6 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 23.842 → 23.931, son sürüm 3.8.7 (26 Eylül 2026).
 - **15 Eylül 2026:** Yıldız 23.774 → 23.842, son sürüm 3.8.6 (14 Eylül 2026).
-- **4 Eylül 2026:** Yıldız 23.696 → 23.774, son sürüm 3.8.5 (3 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Python kullanarak veri iş akışlarımı otomatize etmek istiyorum. Prefect kütüphanesindeki flow ve task dekoratörlerini kullanarak basit bir veri hattı oluşturmama yardımcı ol. Hata yönetimi, zamanlama ve izleme özelliklerini nasıl entegre edebileceğimi, bir Python dosyasını nasıl üretim seviyesinde bir iş akışına dönüştürebileceğimi örnek kodlarla açıkla.
 
+Depo: https://github.com/PrefectHQ/prefect. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Veri süreçlerini otomatize etmek ve karmaşık veri hatlarını güvenilir bir şekilde yönetmek isteyen veri ekipleri içindir.
 - **Lisans:** Apache-2.0
 
@@ -54,7 +62,7 @@ Python kullanarak veri iş akışlarımı otomatize etmek istiyorum. Prefect kü
 
 - [GitHub deposu →](https://github.com/PrefectHQ/prefect)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

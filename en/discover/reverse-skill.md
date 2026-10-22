@@ -2,16 +2,16 @@
 
 Reverse-skill offers an artificial intelligence-supported routing package for reverse engineering and penetration testing processes. With its toolchain bootstrapping and self-developing knowledge base features, Claude Code integrates with coding tools such as Cursor and Cline.
 
-- ★ 40,187
+- ★ 42,228
 - PowerShell
 - GitHub Trending · 2026-08-01
 
 ## Updates
 
+- **October 16, 2026:** Stars 40,187 → 42,228, latest release v1.0.1 (August 8, 2026).
 - **October 8, 2026:** Stars 38,272 → 40,187, latest release v1.0.1 (August 8, 2026).
 - **September 27, 2026:** Stars 36,401 → 38,272, latest release v1.0.1 (August 8, 2026).
 - **September 18, 2026:** Stars 34,619 → 36,401, latest release v1.0.1 (August 8, 2026).
-- **September 5, 2026:** Stars 32,936 → 34,619, latest release v1.0.1 (August 8, 2026).
 
 ## What you get
 
@@ -33,6 +33,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Use this project as a guide in a penetration testing or reverse engineering task. Before performing your task, review the instructions in the README_AI.md file, comply with the routing rules in the RULES.md file, and start the workflow by determining the correct methodology through MASTER-ROUTING.md.
 
+Repository: https://github.com/zhaoxuya520/reverse-skill. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Routing Pack](https://trescout.com/en/dictionary/routing-pack/)
@@ -47,7 +55,7 @@ Use this project as a guide in a penetration testing or reverse engineering task
 - [GitHub repository →](https://github.com/zhaoxuya520/reverse-skill)
 - [Read in Turkish →](https://trescout.com/discover/reverse-skill/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-01: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-01: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/reverse-skill/

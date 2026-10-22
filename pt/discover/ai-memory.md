@@ -2,16 +2,16 @@
 
 Escrito em Rust, o ai-memory oferece uma solução de memória de longo prazo para agentes de inteligência artificial. Ele suporta a continuidade de interfaces de linha de comando (CLI) usadas em processos de desenvolvimento de software, facilitando a transferência de dados entre diferentes provedores de agentes.
 
-- ★ 9.243
+- ★ 11.983
 - Rust
 - GitHub Trending · 2026-08-18
 
 ## Atualizações
 
-- **14 de outubro de 2026:** Estrelas 9,195 → 9,243, versão mais recente v3.0.0 (14 de outubro de 2026).
-- **13 de outubro de 2026:** Estrelas 9,161 → 9,195, versão mais recente v2.6.6 (13 de outubro de 2026).
-- **12 de outubro de 2026:** Estrelas 9,156 → 9,161, versão mais recente v2.6.5 (12 de outubro de 2026).
-- **12 de outubro de 2026:** Estrelas 9,098 → 9,156, versão mais recente v2.6.4 (12 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 11,675 → 11,983, versão mais recente v3.1.2 (20 de outubro de 2026).
+- **20 de outubro de 2026:** Estrelas 10,123 → 11,675, versão mais recente v3.1.1 (17 de outubro de 2026).
+- **18 de outubro de 2026:** Estrelas 9,474 → 10,123, versão mais recente v3.1.1 (17 de outubro de 2026).
+- **16 de outubro de 2026:** Estrelas 9,243 → 9,474, versão mais recente v3.1.0 (16 de outubro de 2026).
 
 ## O que você ganha
 
@@ -38,7 +38,7 @@ Para começar a usar a ferramenta, acesse a página oficial no GitHub e baixe a 
 - [Repositório no GitHub →](https://github.com/akitaonrails/ai-memory)
 - [Ler em turco →](https://trescout.com/discover/ai-memory/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-18: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-18: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/ai-memory/

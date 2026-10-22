@@ -66,7 +66,7 @@ Das Marketing bereitet sich vor, der Verkauf schließt ab. Sie sind beide Enden 
 - [Meta-skill](https://trescout.com/de/dictionary/meta-skill/)
 - [SEO](https://trescout.com/de/dictionary/seo/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/marketing-skills/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/marketing-skills/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/marketing-skills/

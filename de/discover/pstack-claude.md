@@ -2,16 +2,16 @@
 
 Pstack-claude ist eine Automatisierungsbibliothek, die die Kernfunktionen des Softwareentwicklungstools Cursor für verschiedene KI-Modelle und -Plattformen anpasst. Sie ermöglicht Entwicklern, komplexe KI-Agenten-Arbeitsabläufe (agentic workflows) standardisiert in verschiedenen Arbeitsumgebungen auszuführen.
 
-- ★ 1.926
+- ★ 3.217
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Aktualisierungen
 
-- **13. Oktober 2026:** Sterne 1,917 → 1,926, neueste Version v0.9.84 (13. Oktober 2026).
-- **13. Oktober 2026:** Sterne 1,825 → 1,917, neueste Version v0.9.83 (13. Oktober 2026).
-- **12. Oktober 2026:** Sterne 1,711 → 1,825, neueste Version v0.9.82 (11. Oktober 2026).
-- **9. Oktober 2026:** Sterne 1,691 → 1,711, neueste Version v0.9.81 (9. Oktober 2026).
+- **21. Oktober 2026:** Sterne 3,212 → 3,217, neueste Version v0.9.99 (21. Oktober 2026).
+- **21. Oktober 2026:** Sterne 3,140 → 3,212, neueste Version v0.9.97 (21. Oktober 2026).
+- **20. Oktober 2026:** Sterne 2,860 → 3,140, neueste Version v0.9.95 (20. Oktober 2026).
+- **18. Oktober 2026:** Sterne 2,721 → 2,860, neueste Version v0.9.93 (18. Oktober 2026).
 
 ## Was es bringt
 
@@ -38,7 +38,7 @@ Sie können beginnen, indem Sie die entsprechenden Plugin-Befehle über Ihre Pla
 - [GitHub-Repository →](https://github.com/michael-denyer/pstack-claude)
 - [Auf Türkisch lesen →](https://trescout.com/discover/pstack-claude/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-05 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-05 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/pstack-claude/

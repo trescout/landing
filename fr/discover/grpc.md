@@ -32,6 +32,10 @@ Pour commencer à utiliser gRPC, vous devez d'abord visiter le site officiel à 
 
 - [Source officielle →](https://grpc.io)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il s'adresse aux développeurs de logiciels qui souhaitent établir une communication réseau rapide et fiable entre des services développés avec différents langages de programmation.
 - **Licence:** Apache-2.0
 
@@ -40,7 +44,7 @@ Pour commencer à utiliser gRPC, vous devez d'abord visiter le site officiel à 
 - [Dépôt GitHub →](https://github.com/grpc/grpc)
 - [Lire en turc →](https://trescout.com/discover/grpc/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-11 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-11 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/grpc/

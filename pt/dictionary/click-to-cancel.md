@@ -40,7 +40,7 @@ Não; abrange sites, aplicativos móveis e todos os tipos de assinaturas digitai
 - [CRO](https://trescout.com/pt/dictionary/cro/)
 - [GDPR](https://trescout.com/pt/dictionary/gdpr/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/click-to-cancel/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/click-to-cancel/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/click-to-cancel/

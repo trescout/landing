@@ -38,7 +38,7 @@ Oui, vous pouvez regrouper les codes que vous utilisez fréquemment et les réut
 - [Framework](https://trescout.com/fr/dictionary/framework/)
 - [Tools](https://trescout.com/fr/dictionary/tools/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/common-libraries/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/common-libraries/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/common-libraries/

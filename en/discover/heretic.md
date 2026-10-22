@@ -2,17 +2,17 @@
 
 Heretic is a technical tool that removes security alignment constraints from transformer-based language models without the need for expensive retraining processes. Using the 'Abliteration' technique, this solution is advanced and research-oriented.
 
-- ★ 34,271
+- ★ 36,044
 - Python
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
 ## Updates
 
+- **October 21, 2026:** Stars 34,271 → 36,044, latest release v1.4.0 (June 14, 2026).
 - **October 9, 2026:** Stars 32,626 → 34,271, latest release v1.4.0 (June 14, 2026).
 - **October 1, 2026:** Stars 31,068 → 32,626, latest release v1.4.0 (June 14, 2026).
 - **September 10, 2026:** Stars 29,513 → 31,068, latest release v1.4.0 (June 14, 2026).
-- **August 31, 2026:** Stars 27,018 → 29,513, latest release v1.4.0 (June 14, 2026).
 
 ## Installation
 
@@ -36,6 +36,7 @@ This tool removes the model's security protections. Legal and ethical responsibi
 
 - [Transformer](https://trescout.com/en/dictionary/transformer/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** ML researchers / advanced users
 - **Difficulty:** Advanced knowledge of working with model weights
@@ -50,7 +51,7 @@ This tool removes the model's security protections. Legal and ethical responsibi
 - [GitHub repository →](https://github.com/p-e-w/heretic)
 - [Read in Turkish →](https://trescout.com/discover/heretic/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/heretic/

@@ -42,7 +42,7 @@ Su acceso está completamente cortado, por lo que el almacenamiento seguro de la
 
 - [Iroh](https://trescout.com/es/discover/iroh/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/key-based/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/key-based/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/key-based/

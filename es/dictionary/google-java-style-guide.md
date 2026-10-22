@@ -2,59 +2,53 @@
 
 *Desarrollo · Última actualización: 20 de septiembre de 2026*
 
-El Google Java Style Guide es un compendio de estándares oficiales de programación definido por Google para garantizar legibilidad, coherencia y facilidad de mantenimiento en proyectos Java corporativos y de código abierto.
+La Guía de estilo de Google Java es un conjunto de estándares de codificación oficiales determinados por Google para garantizar la legibilidad, coherencia y mantenibilidad del código en proyectos Java corporativos y de código abierto.
 
-## Etimología y estándares de código corporativos
+## Etimología y Estándares del Código Institucional
 
-El Google Java Style Guide se formuló para permitir que decenas de miles de ingenieros de Google colaborasen armónicamente en inmensos repositorios compartidos. Con los años, ha trascendido la compañía hasta convertirse en un estándar indiscutible en la comunidad Java global.
+La Guía de estilo de Google Java es un conjunto de reglas desarrolladas por Google, una de las empresas de tecnología más grandes del mundo, para que decenas de miles de sus ingenieros puedan trabajar sin problemas en la misma base de código. Desde su primera publicación, se ha convertido en un estándar de facto no sólo dentro de Google, sino también en el ecosistema global de código abierto y el mundo del software empresarial.
 
-La guía pauta la estructura de archivos fuente, declaraciones de paquetes, sangrado de bloques, convenciones de nombres, diseño de bloques Javadoc y gestión de errores. Al erradicar debates subjetivos en las revisiones de código, hace que el equipo dedique su energía a la lógica de negocio.
+Guía; Traza todos los límites formales y estructurales que debe tener un archivo Java, desde la estructura del archivo fuente hasta las declaraciones de paquetes, desde las reglas de sangría hasta las convenciones de nomenclatura de clases y variables, desde el formato Javadoc hasta la gestión de errores. En un proyecto de software, que cada uno deje espacios o abra paréntesis según su gusto personal genera discusiones innecesarias y pérdida de tiempo durante las revisiones de código. La Guía de estilo de Google Java elimina estas discusiones subjetivas, lo que permite a los desarrolladores centrarse únicamente en la lógica empresarial.
 
-*Imagínate una autovía concurrida sin líneas divisorias de carril ni semáforos, donde cada conductor girase a su antojo: el choque sería inevitable. Una guía de estilo actúa como las líneas pintadas sobre el asfalto. Cuando miles de personas programan juntas, nadie colisiona mientras se respeten las reglas compartidas.*
+***Analogía:** Imaginemos una autopista donde no hay reglas de tránsito y cada conductor cambia de carril a su antojo; Los accidentes son inevitables en una carretera así. Una guía de estilo estándar es como las marcas de carril y los semáforos en una autopista. Cuando miles de ingenieros trabajan en la misma base de código, nadie golpea a nadie siempre que se sigan las reglas. Un desarrollador involucrado en un nuevo proyecto no se siente extraño; porque el ritmo y la estructura del código están tejidos con reglas universales.*
 
-## Profundidad técnica y reglas fundamentales
+## Profundidad técnica y reglas básicas
 
-- **Estructura y sangrado (Indentation):** Archivos codificados estrictamente en UTF-8. Prohibición total de tabuladores; cada bloque sangra exactamente dos (2) espacios. Longitud máxima de línea de 100 caracteres y llaves al final de línea estilo K&R.
+Estructura de archivos fuente e indentación: Los archivos siempre se codifican en UTF-8. Para la indentación se utilizan exactamente dos (2) espacios en lugar de tabulaciones. La longitud de línea está limitada a 100 caracteres; los paréntesis se colocan al final de la línea según el estilo K&R.
+Estándares de importación: Las importaciones con comodines (import java.util.*;) están prohibidas. Cada clase debe importarse de forma explícita e individual, y ordenarse alfabéticamente.
+Convenciones de nomenclatura: Las clases se nombran en UpperCamelCase, los métodos y variables en lowerCamelCase y las constantes en CONSTANT_CASE. En las abreviaturas, solo se mantiene en mayúscula la primera letra (XmlHttpRequest).
+Programación defensiva y automatización: el uso de @Override es obligatorio en los métodos sobrescritos. Los bloques catch vacíos están prohibidos. Las reglas se verifican automáticamente en el pipeline de CI/CD mediante los complementos google-java-format, Checkstyle y Spotless.
+Estándares de Javadoc y comentarios: Es obligatorio escribir una descripción Javadoc para las clases generales; las etiquetas @param, @return y @throws deben completarse en su totalidad.
 
-- **Importaciones sin comodines:** Los imports con asterisco (`import java.util.*;`) están prohibidos. Cada clase se importa de manera individual en orden alfabético.
+## Dimensión sociológica: legibilidad y productividad del equipo
 
-- **Convenciones de nombres:** Clases en `UpperCamelCase`, métodos y variables en `lowerCamelCase` y constantes en `CONSTANT_CASE`. Los acrónimos solo llevan en mayúscula su letra inicial (`XmlHttpRequest`).
+La investigación en ingeniería de software muestra que un desarrollador dedica más del 80 por ciento de su tiempo a leer código existente, no a escribir código nuevo. Por tanto, la legibilidad es mucho más valiosa que la facilidad de escritura.
 
-- **Programación defensiva y control CI/CD:** Anotación `@Override` obligatoria. Prohibición de bloques catch vacíos sin comentario razonado. Automatizado con `google-java-format`, Checkstyle y Spotless.
+La Guía de estilo de Google Java permite a los desarrolladores dejar atrás su ego personal y sus preocupaciones estéticas sobre el código y priorizar la productividad colectiva del equipo. Para proyectos que aceptan contribuciones externas (solicitudes de extracción) en el mundo del código abierto, esta guía es un texto de acuerdo universal que garantiza que los contribuyentes puedan adaptarse al proyecto sin esfuerzo.
 
-- **Reglas para Javadoc:** Toda clase o método público requiere documentación rigurosa con etiquetas HTML limpias y bloques `@param`, `@return` y `@throws` completos.
+## Errores y conceptos erróneos comunes
 
-## Aspecto sociológico: Legibilidad y eficiencia del equipo
-
-Los estudios de ingeniería de software confirman que un programador invierte más del 80% de su jornada leyendo código preexistente y menos del 20% escribiendo código nuevo. La legibilidad resulta inmensamente más rentable que la brevedad al teclear.
-
-La guía enseña a supeditar las manías individuales al beneficio del colectivo. En entornos abiertos, es un pacto social que garantiza una integración sin fricciones.
-
-## Errores comunes y malentendidos frecuentes
-
-- **Espaciado manual:** Contar espacios a mano es un error; conviene activar el formateo automático al guardar mediante el plugin `google-java-format`.
-
-- **Desactivar Checkstyle en CI:** Eludir los controles de estilo para acelerar un pase a producción engendra deuda técnica inmediata.
-
-- **Comentarios triviales:** El código limpio debe autoexplicarse; documentar getters elementales sin aportar contexto resulta innecesario.
+Intentar dar formato manualmente: En lugar de contar los espacios uno por uno, se debe instalar el complemento google-java-format en el IDE y activar el formato automático al guardar.
+Desactivar las reglas de Checkstyle: Deshabilitar los controles de estilo en CI/CD cuando el proceso se vuelve lento aumenta la deuda técnica.
+Abusar de los comentarios: El código debe ser autodescriptivo; no se deben escribir comentarios innecesarios en métodos getter/setter evidentes.
 
 ## Preguntas frecuentes
 
-**¿Por qué se utilizan 2 espacios en vez de 4 para sangrar?**
+**¿Por qué la Guía de estilo de Google Java utiliza sangría de 2 espacios en lugar de sangría de 4 espacios?**
 
-El sangrado de dos espacios permite anidar expresiones lambda, clases internas y patrones builder sin salirse de la columna de 100 caracteres.
+La regla de los dos espacios evita que el código exceda el límite de 100 caracteres horizontalmente, especialmente en expresiones lambda anidadas, clases anónimas y patrones de creación, y utiliza el espacio de la pantalla de manera más eficiente.
 
-**¿Cómo se automatiza este estilo en un proyecto?**
+**¿Cómo aplicar automáticamente las reglas de estilo de Google Java en proyectos?**
 
-Se instala la herramienta oficial 'google-java-format' en el IDE o se enlaza mediante el plugin Spotless en Maven o Gradle.
+La herramienta 'google-java-format' proporcionada por Google está integrada en IDE (IntelliJ, Eclipse, VS Code) o formateada automáticamente durante la fase de guardado del código y compilación de CI con complementos Spotless/Maven/Gradle.
 
-**¿En qué se distingue de las normas tradicionales de Sun/Oracle?**
+**¿Cuál es la diferencia entre la Guía de estilo de Google Java y las reglas de codificación de Oracle (Sun)?**
 
-Sun recomendaba 4 espacios y 80 columnas; Google establece 2 espacios, 100 caracteres y un estricto control sobre importaciones y herramientas automáticas.
+Mientras que las convenciones de Sun utilizan sangría de 4 espacios y un límite de 80 caracteres, el estilo de Google se centra en sangría de 2 espacios, límite de 100 caracteres, reglas estrictas de importación y automatización de herramientas modernas.
 
-**¿Checkstyle es lo mismo que el Google Java Style Guide?**
+**¿Checkstyle y Google Java Style Guide son lo mismo?**
 
-No. El Style Guide es la especificación teórica; Checkstyle es la herramienta de análisis estático que evalúa el código a partir de un archivo de reglas XML.
+No; La Guía de estilo de Google Java es un documento de reglas, mientras que Checkstyle es una herramienta de análisis estático que configura estas reglas en formato XML y verifica si hay violaciones de reglas en el código base.
 
 ## Términos relacionados
 
@@ -65,7 +59,7 @@ No. El Style Guide es la especificación teórica; Checkstyle es la herramienta 
 - [Production Pipeline](https://trescout.com/es/dictionary/production-pipeline/)
 - [TDD](https://trescout.com/es/dictionary/tdd/)
 
-Esta explicación fue redactada de forma accesible para TreScout y traducida del original en turco · la versión en turco prevalece. [Leer en turco →](https://trescout.com/dictionary/google-java-style-guide/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/google-java-style-guide/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/google-java-style-guide/

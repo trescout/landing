@@ -43,6 +43,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to configure the spdlog library with asynchronous architecture using CMake in a modern C++ project. Can you prepare the CMakeLists.txt file with a sample C++ initialization function that rotates the file when the log reaches 10MB in size, also gives color output to the console, and flushes it to disk immediately upon error level?
 
+Repository: https://github.com/gabime/spdlog. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Should spdlog be used header-only or compiled? In small and medium-sized projects, using header-only by adding only the include directory provides great practicality. However, in large C++ projects consisting of hundreds of source files, it is recommended to compile and link the library with the SPDLOG_COMPILED flag to optimize compilation time.
@@ -66,7 +74,7 @@ I want to configure the spdlog library with asynchronous architecture using CMak
 - [GitHub repository →](https://github.com/gabime/spdlog)
 - [Read in Turkish →](https://trescout.com/discover/spdlog/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/spdlog/

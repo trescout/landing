@@ -2,12 +2,13 @@
 
 xtool est une alternative multiplateforme à Xcode qui vous permet de compiler et de déployer des applications iOS sur Linux, Windows et macOS à l'aide du Swift Package Manager (SwiftPM). En éliminant la dépendance à l'environnement de développement Xcode d'Apple, il prend en charge le processus de développement d'applications sur différents systèmes d'exploitation.
 
-- ★ 11 308
+- ★ 12 446
 - Swift
 - GitHub Trending · 2026-10-13
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 11,308 → 12,446, dernière version 1.22.2 (14 octobre 2026).
 - **15 octobre 2026:** Étoiles 9,959 → 11,308, dernière version 1.22.2 (14 octobre 2026).
 - **14 octobre 2026:** Étoiles 9,070 → 9,959, dernière version 1.22.2 (14 octobre 2026).
 - **13 octobre 2026:** Étoiles 9,046 → 9,070, dernière version 1.21.0 (5 octobre 2026).
@@ -27,6 +28,7 @@ Pour l'installation, vous pouvez suivre le guide sur le site officiel, puis cons
 ## Termes liés du glossaire
 
 - [Xcode](https://trescout.com/fr/dictionary/xcode/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient à ceux qui souhaitent développer des applications iOS sur différents systèmes d'exploitation.
 - **Licence:** MIT
@@ -36,7 +38,7 @@ Pour l'installation, vous pouvez suivre le guide sur le site officiel, puis cons
 - [Dépôt GitHub →](https://github.com/xtool-org/xtool)
 - [Lire en turc →](https://trescout.com/discover/xtool/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-13 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-13 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/xtool/

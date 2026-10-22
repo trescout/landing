@@ -21,6 +21,7 @@ Para utilizar o projeto, você pode baixar arquivos prontos na aba ‘Releases�
 - [Emulator](https://trescout.com/pt/dictionary/emulator/)
 - [CPU](https://trescout.com/pt/dictionary/cpu/)
 - [SDK](https://trescout.com/pt/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a pesquisadores interessados ​​em arquitetura de sistemas e desenvolvimento de software de baixo nível e a desenvolvedores de software que desejam realizar pesquisas para fins educacionais.
 - **Licença:** GPL-2.0
@@ -30,7 +31,7 @@ Para utilizar o projeto, você pode baixar arquivos prontos na aba ‘Releases�
 - [Repositório no GitHub →](https://github.com/par274/sharpemu)
 - [Ler em turco →](https://trescout.com/discover/sharpemu/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-13: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-13: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/sharpemu/

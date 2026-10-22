@@ -21,6 +21,7 @@ Cet outil est un guide, pas une bibliothèque de logiciels. En visitant le réf�
 ## Termes liés du glossaire
 
 - [Clean Code](https://trescout.com/fr/dictionary/clean-code/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient à tous les développeurs qui souhaitent améliorer la qualité du code et développer des projets JavaScript plus professionnels.
 - **Licence:** MIT
@@ -30,7 +31,7 @@ Cet outil est un guide, pas une bibliothèque de logiciels. En visitant le réf�
 - [Dépôt GitHub →](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Lire en turc →](https://trescout.com/discover/clean-code-javascript/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/clean-code-javascript/

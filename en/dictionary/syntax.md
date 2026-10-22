@@ -34,7 +34,7 @@ Check the line number in the error message and review the writing rules again.
 - [Script](https://trescout.com/en/dictionary/script/)
 - [Clean Code](https://trescout.com/en/dictionary/clean-code/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/syntax/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/syntax/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/syntax/

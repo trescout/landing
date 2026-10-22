@@ -2,16 +2,16 @@
 
 Worktrunk ist eine in Rust geschriebene Befehlszeilenschnittstelle (CLI), die die Verwaltung von Git-Arbeitsbäumen (Worktrees) vereinfacht. Das Tool wurde speziell zur Unterstützung paralleler KI-Agenten-Workflows entwickelt und beschleunigt die gleichzeitige Arbeit an mehreren Aufgaben.
 
-- ★ 8.444
+- ★ 9.348
 - Rust
 - GitHub Trending · 2026-09-13
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 8,444 → 9,348, neueste Version v0.81.0 (20. Oktober 2026).
 - **28. September 2026:** Sterne 8,424 → 8,444, neueste Version v0.80.0 (27. September 2026).
 - **27. September 2026:** Sterne 7,964 → 8,424, neueste Version v0.79.0 (21. September 2026).
 - **17. September 2026:** Sterne 7,379 → 7,964, neueste Version v0.78.0 (16. September 2026).
-- **13. September 2026:** Sterne 7,376 → 7,379, neueste Version v0.77.0 (8. September 2026).
 
 ## Was es bringt
 
@@ -53,6 +53,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Worktrunk verwenden, um einen neuen Arbeitsbaum in meinem bestehenden Git-Projekt zu erstellen und eine parallele Aufgabe in diesem Bereich zu starten. Wie sollte ich die wt-Befehle verwenden, um Arbeitsbäume so einfach wie Branches zu verwalten, und wie kann ich Hooks nutzen, um meinen Workflow zu automatisieren?
 
+Repository: https://github.com/max-sixty/worktrunk. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Worktree](https://trescout.com/de/dictionary/worktree/)
@@ -67,7 +75,7 @@ Ich möchte Worktrunk verwenden, um einen neuen Arbeitsbaum in meinem bestehende
 - [GitHub-Repository →](https://github.com/max-sixty/worktrunk)
 - [Auf Türkisch lesen →](https://trescout.com/discover/worktrunk/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-13 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-13 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/worktrunk/

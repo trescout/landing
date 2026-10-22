@@ -2,12 +2,13 @@
 
 Sentry is an error tracking tool that tracks software errors in real time and monitors application performance. It is used as an error tracking platform that helps developers quickly identify and resolve issues in their codebase.
 
-- ★ 45,101
+- ★ 45,576
 - Python
 - GitHub Trending · 2026-10-03
 
 ## Updates
 
+- **October 16, 2026:** Stars 45,101 → 45,576, latest release 26.10.0 (October 16, 2026).
 - **October 3, 2026:** Stars 45,098 → 45,101, latest release 26.9.0 (September 15, 2026).
 
 ## What you get
@@ -26,6 +27,7 @@ To start using the error tracking platform Sentry, you can visit the official we
 
 - [Error Tracking](https://trescout.com/en/dictionary/error-tracking/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for developers who want to quickly detect and resolve errors and performance issues in their software.
 
@@ -34,7 +36,7 @@ To start using the error tracking platform Sentry, you can visit the official we
 - [GitHub repository →](https://github.com/getsentry/sentry)
 - [Read in Turkish →](https://trescout.com/discover/sentry/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/sentry/

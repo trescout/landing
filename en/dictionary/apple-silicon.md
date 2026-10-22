@@ -73,7 +73,7 @@ Because thanks to the Unified Memory Architecture, huge memory pools such as 64 
 - [Palmier Pro](https://trescout.com/en/discover/palmier-pro/)
 - [Openmed](https://trescout.com/en/discover/openmed/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/apple-silicon/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/apple-silicon/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/apple-silicon/

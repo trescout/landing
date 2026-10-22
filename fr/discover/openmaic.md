@@ -2,16 +2,16 @@
 
 Développé par des chercheurs de l'Université Tsinghua, OpenMAIC réunit des agents d'IA multiples dans les rôles d'enseignant, d'élève et d'observateur au sein d'un environnement de classe interactif.
 
-- ★ 40 363
+- ★ 41 041
 - TypeScript
 - GitHub Trending · 2026-08-31
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 40,871 → 41,041, dernière version v1.2.1 (18 octobre 2026).
+- **16 octobre 2026:** Étoiles 40,363 → 40,871, dernière version v1.2.0 (16 octobre 2026).
 - **11 octobre 2026:** Étoiles 39,969 → 40,363, dernière version v1.1.4 (11 octobre 2026).
 - **5 octobre 2026:** Étoiles 39,351 → 39,969, dernière version v1.1.3 (5 octobre 2026).
-- **28 septembre 2026:** Étoiles 39,156 → 39,351, dernière version v1.1.2 (28 septembre 2026).
-- **27 septembre 2026:** Étoiles 25,572 → 39,156, dernière version v1.1.1 (26 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -58,6 +58,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite simuler un environnement de discussion socratique sur la plateforme OpenMAIC en y chargeant mes propres notes de cours. Pourrais-tu m'expliquer étape par étape comment définir les rôles des agents (professeur, étudiant curieux, questionneur critique) et comment lancer cette classe avec un modèle Ollama local ?
 
+Dépôt : https://github.com/THU-MAIC/OpenMAIC. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Faut-il un GPU pour utiliser OpenMAIC ? Si vous exécutez votre propre modèle local (Ollama/vLLM), un GPU est recommandé ; cependant, il peut être utilisé directement sur un ordinateur standard via des API cloud (OpenAI, Gemini, Groq).
@@ -71,8 +79,8 @@ Je souhaite simuler un environnement de discussion socratique sur la plateforme 
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
 - [PDF](https://trescout.com/fr/dictionary/pdf/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
-- [API](https://trescout.com/fr/dictionary/api/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [API](https://trescout.com/fr/dictionary/api/)
 
 - **Pour qui:** Éducateurs, chercheurs en intelligence artificielle, entrepreneurs EdTech et étudiants.
 - **Licence:** Apache-2.0 (Açık kaynak lisansı)
@@ -84,7 +92,7 @@ Je souhaite simuler un environnement de discussion socratique sur la plateforme 
 - [Dépôt GitHub →](https://github.com/THU-MAIC/OpenMAIC)
 - [Lire en turc →](https://trescout.com/discover/openmaic/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-31 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-31 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/openmaic/

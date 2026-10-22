@@ -38,7 +38,7 @@ Normal browsers consume too many resources and cannot perform thousands of opera
 
 - [Camofox Browser](https://trescout.com/en/discover/camofox-browser/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/stealth-headless-browser/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/stealth-headless-browser/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/stealth-headless-browser/

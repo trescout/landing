@@ -38,7 +38,7 @@ Yes, it isolates applications from each other as each runs in its own small spac
 - [Containers](https://trescout.com/en/dictionary/containers/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/lightweight-virtual-machines/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/lightweight-virtual-machines/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/lightweight-virtual-machines/

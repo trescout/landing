@@ -42,7 +42,7 @@ Cela nous permet de comprendre le monde d’une manière plus globale et plus co
 
 - [UI-TARS-desktop](https://trescout.com/fr/discover/ui-tars-desktop/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/multimodal-ai/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/multimodal-ai/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/multimodal-ai/

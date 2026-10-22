@@ -39,7 +39,7 @@ Persistent context data is stored in encrypted databases; you can protect the pr
 - [Long-term Memory](https://trescout.com/en/dictionary/long-term-memory/)
 - [Vector Database](https://trescout.com/en/dictionary/vector-database/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/persistent-context/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/persistent-context/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/persistent-context/

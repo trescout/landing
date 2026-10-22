@@ -43,13 +43,21 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Elimdeki karmaşık PDF ve Office belgelerini yapay zekâ ajanımın anlayabileceği bir formata dönüştürmek istiyorum. MinerU aracını kullanarak bu dosyaları işaretleme dili (markdown) veya JSON formatına çevirmem gerekiyor. Bu dönüşüm sürecini nasıl başlatabilirim ve çıktıları ajan tabanlı iş akışlarımda en verimli şekilde nasıl kullanabilirim?
 
+Depo: https://github.com/opendatalab/MinerU. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Belgelerini yapay zekâ modelleri ve ajan tabanlı sistemler için işlenebilir hale getirmek isteyen kullanıcılar içindir.
 
 ## Bağlantılar
 
 - [GitHub deposu →](https://github.com/opendatalab/MinerU)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

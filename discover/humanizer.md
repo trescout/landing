@@ -2,16 +2,16 @@
 
 Humanizer, yapay zekâ tarafından oluşturulan metinlerdeki karakteristik kalıpları silerek içeriği daha doğal bir anlatıma dönüştüren bir Python kütüphanesidir. Yazılı metinlerin insan elinden çıkmış gibi görünmesini sağlayan bu araç, otomatik içerik üretimi yapan sistemlerin tespit edilmesini zorlaştırmayı hedefler.
 
-- ★ 55.180
+- ★ 57.962
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 55.180 → 57.962, son sürüm v3.1.0 (28 Eylül 2026).
 - **9 Ekim 2026:** Yıldız 52.508 → 55.180, son sürüm v3.1.0 (28 Eylül 2026).
 - **28 Eylül 2026:** Yıldız 52.272 → 52.508, son sürüm v3.1.0 (28 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 49.735 → 52.272, son sürüm v3.0.0 (6 Eylül 2026).
-- **18 Eylül 2026:** Yıldız 47.061 → 49.735, son sürüm v3.0.0 (6 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -43,6 +43,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Aşağıdaki metni, yapay zekâ tarafından yazılmış gibi duran ifadelerden, aşırı satış dilinden ve gereksiz dolgu kelimelerinden arındırarak daha doğal ve insan elinden çıkmış bir anlatıma dönüştür. Metnin orijinalindeki teknik bilgileri, sayısal verileri ve özel isimleri değiştirmeden, sadece cümle yapısını ve üslubu daha akıcı hale getir.
 
+Depo: https://github.com/blader/humanizer. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ ile ürettiği metinlerin daha doğal ve özgün görünmesini isteyen içerik üreticileri için uygundur.
 - **Lisans:** MIT
 
@@ -50,7 +58,7 @@ Aşağıdaki metni, yapay zekâ tarafından yazılmış gibi duran ifadelerden, 
 
 - [GitHub deposu →](https://github.com/blader/humanizer)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

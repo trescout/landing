@@ -2,16 +2,16 @@
 
 Cloudflare Temp Email is an open-source platform that allows you to set up a completely free, serverless disposable email service running on your own domain using Cloudflare Workers, Pages, and D1/KV database infrastructure. It protects your personal privacy with inbox management, attachment storage, Telegram bot integration, and automatic cleanup mechanisms.
 
-- ★ 11,734
+- ★ 11,982
 - TypeScript
 - GitHub Trending · 2026-07-23
 
 ## Updates
 
+- **October 19, 2026:** Stars 11,734 → 11,982, latest release v1.13.0 (October 18, 2026).
 - **September 13, 2026:** Stars 11,391 → 11,734, latest release v1.12.0 (September 13, 2026).
 - **August 23, 2026:** Stars 11,332 → 11,391, latest release v1.11.1 (August 22, 2026).
 - **August 19, 2026:** Stars 11,156 → 11,332, latest release v1.11.0 (August 19, 2026).
-- **August 2, 2026:** Stars 10,884 → 11,156, latest release v1.10.0 (July 31, 2026).
 
 ## What you get
 
@@ -60,6 +60,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up the open-source temporary email project dreamhunter2333/cloudflare_temp_email running on Cloudflare with my own domain. I have a Cloudflare account and a domain connected to Cloudflare DNS. Can you explain step by step how to set up Email Routing, D1 database, and the Cloudflare Pages interface from scratch via the Cloudflare dashboard? Also, which configuration steps should I follow to forward incoming emails to my Telegram bot?
 
+Repository: https://github.com/dreamhunter2333/cloudflare_temp_email. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Is Cloudflare's free plan enough for personal use? Yes. The Cloudflare free tier offers 100,000 Worker requests per day, free Email Routing, and a D1 database quota. For personal use and small teams, it is nearly impossible to exceed these limits, and the system runs at completely zero cost.
@@ -71,8 +79,8 @@ I want to set up the open-source temporary email project dreamhunter2333/cloudfl
 
 - [CLI](https://trescout.com/en/dictionary/cli/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
-- [API](https://trescout.com/en/dictionary/api/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is intended for developers, test teams, and privacy-focused users who want to host a free, secure, and unblocked temporary email service with their own domain.
@@ -85,7 +93,7 @@ I want to set up the open-source temporary email project dreamhunter2333/cloudfl
 - [GitHub repository →](https://github.com/dreamhunter2333/cloudflare_temp_email)
 - [Read in Turkish →](https://trescout.com/discover/cloudflare-temp-email/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-23: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-23: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/cloudflare-temp-email/

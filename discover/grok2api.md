@@ -2,16 +2,16 @@
 
 Grok Build, Grok Web ve Grok Console platformları için geliştirilen bu ağ geçidi (API gateway), çoklu hesap yönetimini tek bir merkezde topluyor. Go diliyle yazılan araç, kullanıcıların farklı Grok servislerine erişimini standartlaştırarak yönetilebilir bir arayüz sunuyor.
 
-- ★ 7.669
+- ★ 7.817
 - Go
 - GitHub Trending · 2026-07-15
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 7.669 → 7.817, son sürüm v3.1.7 (18 Ekim 2026).
 - **16 Eylül 2026:** Yıldız 7.543 → 7.669, son sürüm v3.1.6 (16 Eylül 2026).
 - **27 Ağustos 2026:** Yıldız 7.459 → 7.543, son sürüm v3.1.5 (25 Ağustos 2026).
 - **19 Ağustos 2026:** Yıldız 7.447 → 7.459, son sürüm v3.1.4 (19 Ağustos 2026).
-- **18 Ağustos 2026:** Yıldız 7.239 → 7.447, son sürüm v3.1.3 (17 Ağustos 2026).
 
 ## Ne kazandırır?
 
@@ -52,6 +52,16 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Grok2API kurulumunu tamamladım ve yönetici paneline giriş yaptım. Şimdi Grok Build, Web veya Console hesaplarımı sisteme nasıl tanımlayabilirim, model eşleştirmelerini nasıl yaparım ve dışarıdan kullanmak için API anahtarını hangi adımları izleyerek oluşturabilirim? Lütfen bu süreci adım adım açıkla.
 
+Depo: https://github.com/chenyme/grok2api. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Bir API anahtarı gerekirse onu sohbete yazmamı isteme. .env dosyasına nasıl ekleyeceğimi göster ve bu dosyanın Git'e gönderilmediğinden emin ol.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Birden fazla Grok hesabını yönetmek isteyen ve bu servisleri kendi uygulamalarında standart bir API üzerinden kullanmayı hedefleyen geliştiriciler içindir.
 - **Lisans:** MIT
 
@@ -59,7 +69,7 @@ Grok2API kurulumunu tamamladım ve yönetici paneline giriş yaptım. Şimdi Gro
 
 - [GitHub deposu →](https://github.com/chenyme/grok2api)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

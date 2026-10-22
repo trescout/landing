@@ -43,7 +43,7 @@ Teknik zorluklardan ziyade, geliştiricinin projenin akışına ve hissiyatına 
 - [Claude Code Best Practice](https://trescout.com/discover/claude-code-best-practice/)
 - [GLM 5](https://trescout.com/discover/glm-5/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/vibe-coding/

@@ -60,7 +60,7 @@ Ao automatizar tarefas repetitivas, como rascunho de código, resumo de dados e 
 - [Coding Agents](https://trescout.com/pt/dictionary/coding-agent/)
 - [Clean Code](https://trescout.com/pt/dictionary/clean-code/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/productivity/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/productivity/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/productivity/

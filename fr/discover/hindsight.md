@@ -2,15 +2,15 @@
 
 Hindsight propose une couche mémoire d’apprentissage pour les agents d’intelligence artificielle. Cette bibliothèque open source améliore les processus décisionnels des agents en déduisant des interactions passées, permettant ainsi aux systèmes de produire des résultats plus cohérents au fil du temps.
 
-- ★ 49 114
+- ★ 51 834
 - GitHub Trending · 2026-09-25
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 49,114 → 51,834, dernière version v1.0.0 (13 octobre 2026).
 - **13 octobre 2026:** Étoiles 47,195 → 49,114, dernière version v1.0.0 (13 octobre 2026).
 - **8 octobre 2026:** Étoiles 46,537 → 47,195, dernière version v0.10.3 (8 octobre 2026).
 - **7 octobre 2026:** Étoiles 44,051 → 46,537, dernière version v0.10.2 (29 septembre 2026).
-- **1 octobre 2026:** Étoiles 41,939 → 44,051, dernière version v0.10.2 (29 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -48,6 +48,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je veux que mon agent IA apprenne des interactions passées, non seulement se souvienne de l’historique des conversations, mais prenne des décisions plus cohérentes au fil du temps. Aidez-moi à configurer la configuration du serveur et les connexions clients nécessaires pour intégrer cette couche mémoire dans mon projet.
 
+Dépôt : https://github.com/vectorize-io/hindsight. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Memory Layer](https://trescout.com/fr/dictionary/memory-layer/)
@@ -62,7 +70,7 @@ Je veux que mon agent IA apprenne des interactions passées, non seulement se so
 - [Dépôt GitHub →](https://github.com/vectorize-io/hindsight)
 - [Lire en turc →](https://trescout.com/discover/hindsight/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-25 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-25 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/hindsight/

@@ -2,12 +2,13 @@
 
 El proyecto Fanqiang es una herramienta de entrada escrita en Kotlin, desarrollada para evitar la censura de Internet. Es un software de código abierto diseñado para proporcionar a los usuarios acceso a recursos de red limitados.
 
-- ★ 52.511
+- ★ 55.341
 - Kotlin
 - GitHub Trending · 2026-06-12
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 52,511 → 55,341, última versión FQNews-v1.3.8 (18 de agosto de 2024).
 - **4 de septiembre de 2026:** Estrellas 49,405 → 52,511, última versión FQNews-v1.3.8 (18 de agosto de 2024).
 - **2 de agosto de 2026:** Estrellas 47,142 → 49,405, última versión FQNews-v1.3.8 (18 de agosto de 2024).
 
@@ -26,6 +27,7 @@ El proyecto Fanqiang es una biblioteca completa de guías y herramientas en luga
 ## Términos relacionados del glosario
 
 - [Gateway](https://trescout.com/es/dictionary/gateway/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para usuarios que desean acceder a recursos de red limitados en Internet y necesitan guías de configuración para diferentes dispositivos.
 
@@ -34,7 +36,7 @@ El proyecto Fanqiang es una biblioteca completa de guías y herramientas en luga
 - [Repositorio en GitHub →](https://github.com/bannedbook/fanqiang)
 - [Leer en turco →](https://trescout.com/discover/fanqiang/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/fanqiang/

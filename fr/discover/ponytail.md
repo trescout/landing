@@ -2,16 +2,16 @@
 
 Ensemble de règles et système de plugins conçus pour appliquer la validation, la gestion des erreurs, la sécurité et l'accessibilité dans les flux de codage assistés par IA.
 
-- ★ 162 432
+- ★ 165 409
 - JavaScript
 - GitHub Trending · 2026-08-25
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 164,759 → 165,409, dernière version v5.3.2 (16 octobre 2026).
+- **16 octobre 2026:** Étoiles 162,432 → 164,759, dernière version v5.3.0 (16 octobre 2026).
 - **13 octobre 2026:** Étoiles 158,247 → 162,432, dernière version v5.2.0 (13 octobre 2026).
 - **8 octobre 2026:** Étoiles 158,137 → 158,247, dernière version v5.1.0 (8 octobre 2026).
-- **8 octobre 2026:** Étoiles 156,385 → 158,137, dernière version v5.0.0 (8 octobre 2026).
-- **6 octobre 2026:** Étoiles 155,501 → 156,385, dernière version v4.13.0 (5 octobre 2026).
 
 ## Installation
 
@@ -92,7 +92,7 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 - [Méthode du benchmark agentique →](https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md)
 - [Lire en turc →](https://trescout.com/discover/ponytail/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-25 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-25 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/ponytail/

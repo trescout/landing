@@ -2,16 +2,16 @@
 
 Un framework de nouvelle génération basé sur TypeScript qui automatise les processus de test de bout en bout (end-to-end testing) pour les applications web et mobiles. Il permet aux développeurs de valider rapidement les interfaces d'applications sur différentes plates-formes.
 
-- ★ 10 701
+- ★ 11 017
 - TypeScript
 - GitHub Trending · 2026-10-05
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 10,701 → 11,017, dernière version @e2e-dev/testmu@0.0.1 (16 octobre 2026).
 - **15 octobre 2026:** Étoiles 10,659 → 10,701, dernière version @e2e-dev/web@0.15.1 (15 octobre 2026).
 - **15 octobre 2026:** Étoiles 9,489 → 10,659, dernière version @e2e-dev/smol@0.1.1 (14 octobre 2026).
 - **12 octobre 2026:** Étoiles 8,338 → 9,489, dernière version @e2e-dev/limrun@0.2.0 (12 octobre 2026).
-- **9 octobre 2026:** Étoiles 8,012 → 8,338, dernière version @e2e-dev/smol@0.1.0 (9 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 À l'aide de l'outil de test, configurez des tests automatisés avec des étapes rédigées en langage naturel pour mon application web ou mobile et générez le fichier de configuration.
 
+Dépôt : https://github.com/tester-army/e2e. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [End-to-End Testing](https://trescout.com/fr/dictionary/end-to-end-testing/)
@@ -47,7 +55,7 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 - [Dépôt GitHub →](https://github.com/tester-army/e2e)
 - [Lire en turc →](https://trescout.com/discover/e2e/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/e2e/

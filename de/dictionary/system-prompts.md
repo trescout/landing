@@ -43,7 +43,7 @@ Dadurch kann das Modell irrelevante Themen vermeiden und eine konsistente Persö
 - [System Prompts and Models of AI Tools](https://trescout.com/de/discover/system-prompts-and-models-of-ai-tools/)
 - [System Prompts Leaks](https://trescout.com/de/discover/system-prompts-leaks/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/system-prompts/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/system-prompts/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/system-prompts/

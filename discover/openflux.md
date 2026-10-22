@@ -2,16 +2,16 @@
 
 Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmaları için tasarlanmış bir TCP tünelleme aracıdır. Eklenebilir taşıma protokolleri (pluggable transports) desteği sayesinde ağ trafiği üzerinde esnek analiz ve yönetim imkânı sunar.
 
-- ★ 2.120
+- ★ 2.184
 - Go
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 2.120 → 2.184, son sürüm v0.13.0 (16 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 2.107 → 2.120, son sürüm v0.7.3 (14 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 2.092 → 2.107, son sürüm v0.7.2 (13 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 2.088 → 2.092, son sürüm v0.7.0 (13 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 2.066 → 2.088, son sürüm v0.6.0 (12 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -49,6 +49,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenFlux aracını kullanarak bir TCP tüneli oluşturmak istiyorum. Masaüstü bilgisayarımda istemciyi çalıştırmak için gerekli olan derleme adımlarını ve ardından SOCKS5 proxy ayarlarını tarayıcı üzerinde nasıl yapılandıracağımı adım adım açıkla. Ayrıca, bir Linux sunucusu üzerinde çıkış düğümü (exit node) kurarken iptables ile RST paketlerini engellemenin neden gerekli olduğunu ve bu işlemin ağ güvenliğine etkisini teknik detaylarıyla belirt.
 
+Depo: https://github.com/p1neappleXpress/OpenFlux. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Ağ yığını araştırmaları yapan ve TCP trafiğini farklı taşıma protokolleri üzerinden tünellemek isteyen kullanıcılar içindir.
 - **Lisans:** GPL-3.0
 
@@ -56,7 +64,7 @@ OpenFlux aracını kullanarak bir TCP tüneli oluşturmak istiyorum. Masaüstü 
 
 - [GitHub deposu →](https://github.com/p1neappleXpress/OpenFlux)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

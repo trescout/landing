@@ -38,7 +38,7 @@ Möglicherweise verlieren Sie den Zugriff auf Ihre Daten vollständig, da keine 
 - [Secrets](https://trescout.com/de/dictionary/secrets/)
 - [VPN](https://trescout.com/de/dictionary/vpn/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/end-to-end-privacy/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/end-to-end-privacy/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/end-to-end-privacy/

@@ -39,6 +39,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 LiveKit Agents kullanarak gerçek zamanlı sesli etkileşim kurabilen bir yapay zekâ ajanı geliştirmek istiyorum. Ajanın kullanıcıyı dinlemesi, konuşma sonlarını anlaması ve belirlenen araçları kullanarak yanıt vermesi için gerekli olan Agent, AgentSession ve JobContext yapısını kullanarak bir başlangıç şablonu oluştur. Sesli yanıtlar için gerekli olan STT, LLM ve TTS yapılandırmalarını nasıl yapacağımı ve bu ajan üzerinde nasıl fonksiyonel araçlar tanımlayabileceğimi açıkla.
 
+Depo: https://github.com/livekit/agents. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Gerçek zamanlı sesli ve görüntülü etkileşimli uygulamalar geliştirmek isteyen Python yazılımcıları içindir.
 - **Lisans:** Apache-2.0
 
@@ -46,7 +54,7 @@ LiveKit Agents kullanarak gerçek zamanlı sesli etkileşim kurabilen bir yapay 
 
 - [GitHub deposu →](https://github.com/livekit/agents)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

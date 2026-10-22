@@ -40,7 +40,7 @@ Generally, a specific free usage quota is offered. However, for high-volume sear
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 - [Knowledge Graph](https://trescout.com/en/dictionary/knowledge-graph/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/web-search-api/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/web-search-api/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/web-search-api/

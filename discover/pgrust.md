@@ -2,12 +2,13 @@
 
 PostgreSQL veritabanı yönetim sisteminin Rust programlama dili ile yeniden yazıldığı pgrust projesi, tüm regresyon testlerini başarıyla tamamlıyor. Bu çalışma, bellek güvenliği (memory safety) odaklı bir dille veritabanı mimarisini modernize etmeyi amaçlıyor.
 
-- ★ 5.030
+- ★ 5.282
 - Rust
 - GitHub Trending · 2026-07-12
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 5.030 → 5.282, son sürüm v0.3.1 (19 Ekim 2026).
 - **16 Eylül 2026:** Yıldız 4.964 → 5.030, son sürüm v0.3 (15 Eylül 2026).
 - **10 Eylül 2026:** Yıldız 3.957 → 4.964, son sürüm v0.2-release (30 Temmuz 2026).
 - **2 Ağustos 2026:** Yıldız 2.171 → 3.957, son sürüm v0.2-release (30 Temmuz 2026).
@@ -32,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Pgrust projesinin temel amacı nedir, mevcut PostgreSQL ile disk uyumluluğu nasıl sağlanıyor ve projenin geliştirilmesinde yapay zekâ destekli programlamadan nasıl yararlanılıyor? Pgrust'un şu anki sürümünün Postgres 18.3 ile uyumluluk durumu ve regresyon testlerindeki başarısı hakkında bilgi ver.
 
+Depo: https://github.com/malisper/pgrust. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** PostgreSQL mimarisini Rust dili ile modernize etmek isteyen geliştiriciler ve veritabanı araştırmacıları için uygundur.
 - **Lisans:** AGPL-3.0
 
@@ -39,7 +48,7 @@ Pgrust projesinin temel amacı nedir, mevcut PostgreSQL ile disk uyumluluğu nas
 
 - [GitHub deposu →](https://github.com/malisper/pgrust)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

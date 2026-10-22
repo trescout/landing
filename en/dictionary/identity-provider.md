@@ -67,7 +67,7 @@ Yes, there are open-source options. Patching and backup discipline belong to you
 - [OIDC](https://trescout.com/en/dictionary/oidc/)
 - [RBAC](https://trescout.com/en/dictionary/rbac/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/identity-provider/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/identity-provider/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/identity-provider/

@@ -38,7 +38,7 @@ It may be unnecessary for small and simple jobs, but it is essential for standar
 
 - [AstrBot](https://trescout.com/en/discover/astrbot/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/development-framework/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/development-framework/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/development-framework/

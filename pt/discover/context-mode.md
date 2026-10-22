@@ -2,16 +2,16 @@
 
 Context-mode é uma biblioteca TypeScript que fornece otimização de janela de contexto para agentes de codificação de inteligência artificial. Ela reduz o tamanho dos dados em 98% isolando as saídas das ferramentas, preserva a memória da sessão e faz o roteamento para 17 plataformas diferentes através do Protocolo de Contexto de Modelo (Model Context Protocol).
 
-- ★ 29.494
+- ★ 30.969
 - TypeScript
 - GitHub Trending · 2026-09-08
 
 ## Atualizações
 
+- **19 de outubro de 2026:** Estrelas 29,494 → 30,969, versão mais recente v1.0.169 (29 de junho de 2026).
 - **15 de outubro de 2026:** Estrelas 27,902 → 29,494, versão mais recente v1.0.169 (29 de junho de 2026).
 - **13 de outubro de 2026:** Estrelas 25,863 → 27,902, versão mais recente v1.0.169 (29 de junho de 2026).
 - **9 de outubro de 2026:** Estrelas 24,627 → 25,863, versão mais recente v1.0.169 (29 de junho de 2026).
-- **1 de outubro de 2026:** Estrelas 23,449 → 24,627, versão mais recente v1.0.169 (29 de junho de 2026).
 
 ## O que você ganha
 
@@ -47,6 +47,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Meu agente de IA, a partir de agora, quero que você escreva e execute o código para analisar esses dados em vez de realizar tarefas de processamento de dados diretamente. Use as ferramentas do context-mode para minimizar o tamanho dos dados, mantenha meu histórico de sessão no SQLite e relate-me apenas os resultados necessários. Evite explicações desnecessárias e concentre-se apenas na geração de código e no gerenciamento eficiente de contexto.
 
+Repositório: https://github.com/mksglu/context-mode. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Context Window Optimization](https://trescout.com/pt/dictionary/context-window-optimization/)
@@ -63,7 +71,7 @@ Meu agente de IA, a partir de agora, quero que você escreva e execute o código
 - [Repositório no GitHub →](https://github.com/mksglu/context-mode)
 - [Ler em turco →](https://trescout.com/discover/context-mode/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-08: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-08: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/context-mode/

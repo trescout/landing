@@ -38,7 +38,7 @@ A inteligência artificial agora permite criar projetos complexos com comandos s
 - [Generative UI](https://trescout.com/pt/dictionary/generative-ui/)
 - [Frontend Stack](https://trescout.com/pt/dictionary/frontend-stack/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/design-tool/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/design-tool/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/design-tool/

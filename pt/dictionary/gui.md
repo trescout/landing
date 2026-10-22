@@ -48,7 +48,7 @@ Desenhar elementos visuais requer poder de processamento; portanto, interfaces b
 - [PLFM RADAR](https://trescout.com/pt/discover/plfm-radar/)
 - [BrewUI](https://trescout.com/pt/discover/brewui/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/gui/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/gui/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/gui/

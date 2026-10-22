@@ -38,7 +38,7 @@ No, since it is done in a controlled environment, it has no purpose other than i
 
 - [Pentagi](https://trescout.com/en/discover/pentagi/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/penetration-testing/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/penetration-testing/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/penetration-testing/

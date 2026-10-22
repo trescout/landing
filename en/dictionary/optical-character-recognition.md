@@ -44,7 +44,7 @@ Most systems support common languages, but special scripts may require additiona
 
 - [PaddleOCR](https://trescout.com/en/discover/paddleocr/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/optical-character-recognition/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/optical-character-recognition/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/optical-character-recognition/

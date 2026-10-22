@@ -2,16 +2,16 @@
 
 OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser). Java tabanlı bu proje, PDF belgelerinin erişilebilirliğini otomatikleştirerek veri işleme süreçlerini hızlandırır.
 
-- ★ 29.669
+- ★ 29.752
 - Java
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 29.669 → 29.752, son sürüm v2.5.14 (21 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 29.447 → 29.669, son sürüm v2.5.13 (13 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 29.384 → 29.447, son sürüm v2.5.12 (1 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 29.312 → 29.384, son sürüm v2.5.11 (22 Eylül 2026).
-- **18 Eylül 2026:** Yıldız 29.278 → 29.312, son sürüm v2.5.10 (18 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -54,6 +54,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenDataLoader PDF aracını kullanarak elimdeki PDF dosyalarını analiz etmek ve bunları RAG veya LLM süreçlerinde kullanabileceğim yapılandırılmış veri formatlarına (Markdown veya JSON) dönüştürmek istiyorum. Python SDK'sını kullanarak yerel bilgisayarımda çalışacak şekilde, belgelerimdeki tabloları, başlıkları ve metinleri doğru okuma sırasıyla ayıklayacak bir betik hazırlamama yardımcı olur musun? Ayrıca karmaşık sayfalar için hibrit modun nasıl aktif edileceğini ve çıktıların nasıl özelleştirileceğini adım adım açıkla.
 
+Depo: https://github.com/opendataloader-project/opendataloader-pdf. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** PDF belgelerini yapay zekâ modelleri için yapılandırılmış veriye dönüştürmek isteyen geliştiriciler ve PDF erişilebilirliğini otomatize etmesi gereken kullanıcılar içindir.
 - **Lisans:** Apache-2.0
 
@@ -61,7 +69,7 @@ OpenDataLoader PDF aracını kullanarak elimdeki PDF dosyalarını analiz etmek 
 
 - [GitHub deposu →](https://github.com/opendataloader-project/opendataloader-pdf)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

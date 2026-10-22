@@ -38,7 +38,7 @@ Artificial intelligence now allows you to make complex designs with simple comma
 - [Generative UI](https://trescout.com/en/dictionary/generative-ui/)
 - [Frontend Stack](https://trescout.com/en/dictionary/frontend-stack/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/design-tool/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/design-tool/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/design-tool/

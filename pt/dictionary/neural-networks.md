@@ -39,7 +39,7 @@ Ao contrário do conceito geral de inteligência artificial, esta é a estrutura
 - [Tensorflow](https://trescout.com/pt/discover/tensorflow/)
 - [Pytorch](https://trescout.com/pt/discover/pytorch/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/neural-networks/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/neural-networks/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/neural-networks/

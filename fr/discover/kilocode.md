@@ -2,16 +2,16 @@
 
 Kilo est une plateforme d'ingénierie tout-en-un basée sur des agents conçue pour accélérer les processus de développement logiciel. Il standardise les processus de création, de distribution et d'itération des applications via un agent de développement logiciel open source (agent de codage).
 
-- ★ 27 613
+- ★ 27 663
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 27,631 → 27,663, dernière version v7.8.15 (19 octobre 2026).
+- **17 octobre 2026:** Étoiles 27,629 → 27,631, dernière version jetbrains/v7.1.11 (16 octobre 2026).
+- **16 octobre 2026:** Étoiles 27,613 → 27,629, dernière version jetbrains/v7.1.10 (15 octobre 2026).
 - **15 octobre 2026:** Étoiles 27,533 → 27,613, dernière version v7.8.12 (15 octobre 2026).
-- **8 octobre 2026:** Étoiles 27,518 → 27,533, dernière version jetbrains/v7.1.9 (8 octobre 2026).
-- **7 octobre 2026:** Étoiles 27,460 → 27,518, dernière version v7.8.8 (7 octobre 2026).
-- **1 octobre 2026:** Étoiles 27,420 → 27,460, dernière version v7.8.3 (1 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -53,6 +53,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 En tant qu'agent de développement logiciel, j'ai besoin de vous pour gérer mes processus de génération de code en langage naturel, de débogage ou de planification d'architecture dans mon répertoire de projet actuel. Je souhaite que vous choisissiez celui qui convient le mieux à ma tâche parmi plus de 500 modèles proposés par Kilo, que vous examiniez les codes que vous avez écrits avec votre propre mécanisme d'auto-audit et que vous les livriez conformément aux normes de performance et de sécurité.
 
+Dépôt : https://github.com/Kilo-Org/kilocode. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Agentic Engineering Platform](https://trescout.com/fr/dictionary/agentic-engineering-platform/)
@@ -70,7 +78,7 @@ En tant qu'agent de développement logiciel, j'ai besoin de vous pour gérer mes
 - [Dépôt GitHub →](https://github.com/Kilo-Org/kilocode)
 - [Lire en turc →](https://trescout.com/discover/kilocode/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-19 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-19 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/kilocode/

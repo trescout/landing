@@ -41,7 +41,7 @@ There are many free and open source options available.
 
 - [Motrix](https://trescout.com/en/discover/motrix/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/download-manager/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/download-manager/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/download-manager/

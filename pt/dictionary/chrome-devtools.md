@@ -67,7 +67,7 @@ Valor na sessão. O monitoramento contínuo requer uma ferramenta separada.
 
 - [Chrome Devtools MCP](https://trescout.com/pt/discover/chrome-devtools-mcp/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/chrome-devtools/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/chrome-devtools/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/chrome-devtools/

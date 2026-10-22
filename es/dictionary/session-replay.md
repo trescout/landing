@@ -42,7 +42,7 @@ Los sistemas modernos son bastante ligeros ya que sólo registran datos de movim
 
 - [Posthog](https://trescout.com/es/discover/posthog/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/session-replay/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/session-replay/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/session-replay/

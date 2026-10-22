@@ -2,16 +2,16 @@
 
 Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur. Kendi kendine barındırılan bir bilgi grafiği motoru (knowledge graph engine) kullanarak ajanların verileri yapılandırılmış şekilde saklamasına ve geri çağırmasına olanak tanır.
 
-- ★ 32.188
+- ★ 32.419
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 32.383 → 32.419, son sürüm v1.6.5 (16 Ekim 2026).
+- **16 Ekim 2026:** Yıldız 32.188 → 32.383, son sürüm v1.6.5.dev0 (16 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 32.168 → 32.188, son sürüm v1.6.4 (13 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 31.532 → 32.168, son sürüm v1.6.4.dev0 (13 Ekim 2026).
-- **7 Ekim 2026:** Yıldız 31.225 → 31.532, son sürüm v1.6.3 (7 Ekim 2026).
-- **29 Eylül 2026:** Yıldız 30.996 → 31.225, son sürüm v1.6.2 (29 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Cognee kullanarak verilerimi bir bilgi grafiği yapısında saklamak ve ajanımın bu verileri uzun süreli hafızasında tutarak geri çağırmasını sağlamak istiyorum. Lütfen cognee.remember() fonksiyonu ile veriyi hafızaya almamı ve cognee.recall() ile bu veriye dayalı anlamlı yanıtlar üretmemi sağlayacak bir iş akışı oluştur.
 
+Depo: https://github.com/topoteretes/cognee. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ ajanlarının geçmiş oturumlardan öğrenmesini ve karmaşık veriler arasında bağ kurmasını isteyen geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -54,7 +62,7 @@ Cognee kullanarak verilerimi bir bilgi grafiği yapısında saklamak ve ajanım�
 
 - [GitHub deposu →](https://github.com/topoteretes/cognee)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

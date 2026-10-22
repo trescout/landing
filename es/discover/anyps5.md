@@ -2,16 +2,16 @@
 
 AnyPS5 es una herramienta que convierte automáticamente los archivos de juegos de PlayStation 5 para que puedan ejecutarse en sistemas Linux y Windows. Desarrollado en C++, este software permite portar archivos ejecutables específicos de consolas a diferentes plataformas.
 
-- ★ 37.857
+- ★ 44.882
 - C++
 - GitHub Trending · 2026-10-05
 
 ## Actualizaciones
 
+- **20 de octubre de 2026:** Estrellas 42,265 → 44,882, última versión v0.1.3 (20 de octubre de 2026).
+- **18 de octubre de 2026:** Estrellas 40,200 → 42,265, última versión v0.1.2 (14 de octubre de 2026).
+- **17 de octubre de 2026:** Estrellas 37,857 → 40,200, última versión v0.1.2 (14 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 36,023 → 37,857, última versión v0.1.2 (14 de octubre de 2026).
-- **14 de octubre de 2026:** Estrellas 34,374 → 36,023, última versión v0.1.2 (14 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 32,459 → 34,374, última versión v0.1.1 (28 de septiembre de 2026).
-- **12 de octubre de 2026:** Estrellas 30,299 → 32,459, última versión v0.1.1 (28 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -28,6 +28,7 @@ Para empezar a utilizar el proyecto, puedes consultar la guía de uso USAGE.md y
 ## Términos relacionados del glosario
 
 - [Executables](https://trescout.com/es/dictionary/executables/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está destinado a los usuarios de ordenadores que desean ejecutar juegos de la consola PlayStation 5 de forma nativa en el sistema operativo Linux o Windows.
 - **Licencia:** GPL-2.0
@@ -37,7 +38,7 @@ Para empezar a utilizar el proyecto, puedes consultar la guía de uso USAGE.md y
 - [Repositorio en GitHub →](https://github.com/boykopovar/AnyPS5)
 - [Leer en turco →](https://trescout.com/discover/anyps5/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/anyps5/

@@ -42,7 +42,7 @@ Yes, if two jobs conflict with each other at the same time, errors can occur and
 
 - [GO](https://trescout.com/en/discover/go/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/concurrency/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/concurrency/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/concurrency/

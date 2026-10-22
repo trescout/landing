@@ -34,7 +34,7 @@ To prevent the model from rambling and ensure that it always responds to the sta
 - [System Prompts](https://trescout.com/en/dictionary/system-prompts/)
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/fine-tuned-ruleset/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/fine-tuned-ruleset/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/fine-tuned-ruleset/

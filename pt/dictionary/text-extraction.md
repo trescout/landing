@@ -34,7 +34,7 @@ Com modelos modernos sim, mas a legibilidade do texto afeta diretamente a qualid
 - [Document Parsing](https://trescout.com/pt/dictionary/document-parsing/)
 - [PDF Parser](https://trescout.com/pt/dictionary/pdf-parser/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/text-extraction/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/text-extraction/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/text-extraction/

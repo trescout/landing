@@ -2,16 +2,16 @@
 
 ComfyUI est un outil de visualisation modulaire qui fournit une interface basée sur des nœuds pour les modèles de diffusion. Il permet aux utilisateurs de concevoir des processus de traitement d'image complexes avec un organigramme visuel et de gérer ces processus via une API.
 
-- ★ 137 415
+- ★ 139 075
 - Python
 - GitHub Trending · 2026-08-10
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 137,809 → 139,075, dernière version v0.42.1 (19 octobre 2026).
+- **16 octobre 2026:** Étoiles 137,415 → 137,809, dernière version v0.41.0 (15 octobre 2026).
 - **14 octobre 2026:** Étoiles 136,279 → 137,415, dernière version v0.40.0 (13 octobre 2026).
 - **6 octobre 2026:** Étoiles 135,523 → 136,279, dernière version v0.39.0 (5 octobre 2026).
-- **29 septembre 2026:** Étoiles 135,118 → 135,523, dernière version v0.38.0 (29 septembre 2026).
-- **27 septembre 2026:** Étoiles 133,468 → 135,118, dernière version v0.37.0 (21 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -34,6 +34,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer un flux de travail basé sur des nœuds pour mon processus de production visuelle. Veuillez concevoir une structure modulaire avec des connexions logiques du nœud d'entrée à la sortie qui me permettra d'obtenir une image de qualité professionnelle en utilisant des modèles tels que Stable Diffusion ou Flux. Expliquez étape par étape les nœuds de base, les étapes de chargement du modèle et les optimisations de paramètres dont j'ai besoin.
 
+Dépôt : https://github.com/Comfy-Org/ComfyUI. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [API](https://trescout.com/fr/dictionary/api/)
@@ -47,7 +55,7 @@ Je souhaite créer un flux de travail basé sur des nœuds pour mon processus de
 - [Dépôt GitHub →](https://github.com/Comfy-Org/ComfyUI)
 - [Lire en turc →](https://trescout.com/discover/comfyui/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-10 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-10 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/comfyui/

@@ -87,7 +87,7 @@ CISC (x86-64) tiene un rico conjunto de instrucciones que puede realizar múltip
 - [Ghidra](https://trescout.com/es/discover/ghidra/)
 - [Apollo-11](https://trescout.com/es/discover/apollo-11/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/assembly/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/assembly/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/assembly/

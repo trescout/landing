@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi dans mes processus de modélisation 3D et de texturage. Permettez-moi de préparer des revêtements réalistes pour mes modèles en utilisant des techniques de rendu basées sur la physique (PBR). Guidez-moi étape par étape lorsque je rencontre des problèmes techniques ou que je suis bloqué lors de la phase de création de textures.
 
+Dépôt : https://github.com/armory3d/armorpaint. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
@@ -50,7 +58,7 @@ Aidez-moi dans mes processus de modélisation 3D et de texturage. Permettez-moi 
 - [Dépôt GitHub →](https://github.com/armory3d/armorpaint)
 - [Lire en turc →](https://trescout.com/discover/armorpaint/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-11 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-11 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/armorpaint/

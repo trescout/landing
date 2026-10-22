@@ -35,7 +35,7 @@ They take on dangerous, exhausting, and repetitive tasks that people often find 
 - [Physical AI](https://trescout.com/en/dictionary/physical-ai/)
 - [Operating System for Robotics](https://trescout.com/en/dictionary/operating-system-for-robotics/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/factory-droid/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/factory-droid/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/factory-droid/

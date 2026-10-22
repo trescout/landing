@@ -59,7 +59,7 @@ It is to make the correct discrimination in environments where more than one per
 
 - [Meetily](https://trescout.com/en/discover/meetily/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/speaker-diarization/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/speaker-diarization/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/speaker-diarization/

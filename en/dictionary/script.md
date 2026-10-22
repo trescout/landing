@@ -77,7 +77,7 @@ Scripts with known sources, yes. The script taken from the internet cannot be ru
 - [Meshery](https://trescout.com/en/discover/meshery/)
 - [Tradingview MCP](https://trescout.com/en/discover/tradingview-mcp/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/script/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/script/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/script/

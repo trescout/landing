@@ -77,7 +77,7 @@ Nein. Damit andere es sehen können, sind ein Hosting und ein Domainname erforde
 - [Personal_AI_Infrastructure](https://trescout.com/de/discover/personal-ai-infrastructure/)
 - [Portless](https://trescout.com/de/discover/portless/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/localhost/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/localhost/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/localhost/

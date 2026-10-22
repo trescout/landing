@@ -2,16 +2,16 @@
 
 Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya yönetim çözümüdür. TypeScript ile yazılan bu platform, kullanıcılara kendi altyapıları üzerinde merkezi bir medya arşivi oluşturma imkânı tanır.
 
-- ★ 116.286
+- ★ 116.727
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 116.286 → 116.727, son sürüm v3.3.4 (20 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 115.826 → 116.286, son sürüm v3.3.3 (14 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 115.783 → 115.826, son sürüm v3.3.1 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 115.268 → 115.783, son sürüm v3.3.0 (7 Ekim 2026).
-- **29 Eylül 2026:** Yıldız 114.389 → 115.268, son sürüm v3.2.4 (28 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -52,11 +52,12 @@ Kurulum ve kullanım detayları için resmî dokümantasyon sayfasını ziyaret 
 
 - [GitHub deposu →](https://github.com/immich-app/immich)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Self-hosted](https://trescout.com/dictionary/self-hosted/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/immich/

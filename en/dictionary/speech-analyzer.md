@@ -34,7 +34,7 @@ These tools are often used to improve business processes, but must be managed in
 - [Transcription](https://trescout.com/en/dictionary/transcription/)
 - [Speaker Diarization](https://trescout.com/en/dictionary/speaker-diarization/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/speech-analyzer/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/speech-analyzer/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/speech-analyzer/

@@ -40,7 +40,7 @@ Algoritmos de simulação são usados para determinar as rotas de tráfego dos c
 - [Mesh](https://trescout.com/pt/dictionary/mesh/)
 - [Spatial Reasoning](https://trescout.com/pt/dictionary/spatial-reasoning/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/city-building-game/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/city-building-game/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/city-building-game/

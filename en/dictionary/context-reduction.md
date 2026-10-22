@@ -38,7 +38,7 @@ When done correctly, only unnecessary parts, which we call noise, are discarded,
 
 - [Code Review Graph](https://trescout.com/en/discover/code-review-graph/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context-reduction/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context-reduction/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/context-reduction/

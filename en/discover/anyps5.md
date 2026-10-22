@@ -2,16 +2,16 @@
 
 AnyPS5 is a tool that automatically converts PlayStation 5 game files to run on Linux and Windows systems. Developed in C++, this software enables console-specific executables to be ported to different platforms.
 
-- ★ 37,857
+- ★ 44,882
 - C++
 - GitHub Trending · 2026-10-05
 
 ## Updates
 
+- **October 20, 2026:** Stars 42,265 → 44,882, latest release v0.1.3 (October 20, 2026).
+- **October 18, 2026:** Stars 40,200 → 42,265, latest release v0.1.2 (October 14, 2026).
+- **October 17, 2026:** Stars 37,857 → 40,200, latest release v0.1.2 (October 14, 2026).
 - **October 15, 2026:** Stars 36,023 → 37,857, latest release v0.1.2 (October 14, 2026).
-- **October 14, 2026:** Stars 34,374 → 36,023, latest release v0.1.2 (October 14, 2026).
-- **October 13, 2026:** Stars 32,459 → 34,374, latest release v0.1.1 (September 28, 2026).
-- **October 12, 2026:** Stars 30,299 → 32,459, latest release v0.1.1 (September 28, 2026).
 
 ## What you get
 
@@ -28,6 +28,7 @@ To get started with the project, you can review the USAGE.md user guide and BUIL
 ## Related dictionary terms
 
 - [Executables](https://trescout.com/en/dictionary/executables/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is intended for computer users who want to run PlayStation 5 game console games natively on Linux or Windows operating systems.
 - **License:** GPL-2.0
@@ -37,7 +38,7 @@ To get started with the project, you can review the USAGE.md user guide and BUIL
 - [GitHub repository →](https://github.com/boykopovar/AnyPS5)
 - [Read in Turkish →](https://trescout.com/discover/anyps5/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/anyps5/

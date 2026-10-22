@@ -29,6 +29,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I'll give you a list of links to step-by-step guides called 'build-your-own-x' that will teach you how to build your own technology (database, operating system, programming language, web server, etc.) from scratch. Review this list and list which projects I should start with according to my current level and goal, and you will get a weekly work plan. My level: [eg. beginner]. My goal: [eg. making my own web server].
 
+Repository: https://github.com/codecrafters-io/build-your-own-x. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
@@ -46,7 +54,7 @@ I'll give you a list of links to step-by-step guides called 'build-your-own-x' t
 - [GitHub repository →](https://github.com/codecrafters-io/build-your-own-x)
 - [Read in Turkish →](https://trescout.com/discover/build-your-own-x/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/build-your-own-x/

@@ -70,7 +70,7 @@ A máquina transporta o sistema, o contentor a aplicação. O isolamento e a vel
 
 - [Container](https://trescout.com/pt/discover/container/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/virtual-machines/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/virtual-machines/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/virtual-machines/

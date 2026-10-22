@@ -48,7 +48,7 @@ Sim, requer administração básica de servidor e conhecimento de rede.
 - [Self-Hosting-Guide](https://trescout.com/pt/discover/self-hosting-guide/)
 - [OpenStock](https://trescout.com/pt/discover/openstock/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/self-hosting/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/self-hosting/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/self-hosting/

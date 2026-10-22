@@ -38,7 +38,7 @@ For your safety; Not using your identity in one system in another system keeps y
 
 - [Simplex Chat](https://trescout.com/en/discover/simplex-chat/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/user-identifiers/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/user-identifiers/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/user-identifiers/

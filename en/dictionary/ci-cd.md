@@ -83,7 +83,7 @@ The line stops and the broadcast is interrupted. That's why a backup plan and qu
 - [Checkstyle](https://trescout.com/en/discover/checkstyle/)
 - [Flue](https://trescout.com/en/discover/flue/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ci-cd/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ci-cd/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ci-cd/

@@ -40,7 +40,7 @@ The system tries to catch the error before it goes live, thanks to automatic tes
 
 - [Argo Cd](https://trescout.com/en/discover/argo-cd/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/continuous-deployment/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/continuous-deployment/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/continuous-deployment/

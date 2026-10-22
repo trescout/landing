@@ -2,16 +2,16 @@
 
 NVIDIA tarafından geliştirilen SkillSpector, yapay zekâ ajanlarına ait yetenek paketlerindeki (skills) güvenlik açıklarını ve kötü niyetli kalıpları tespit eden bir tarama aracıdır. Python tabanlı bu yazılım, ajan tabanlı sistemlerin geliştirilme sürecinde karşılaşılan güvenlik risklerini analiz etmeyi hedefler.
 
-- ★ 19.418
+- ★ 20.396
 - Python
 - GitHub Trending · 2026-06-12
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 19.418 → 20.396, son sürüm v2.13.0 (16 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 18.381 → 19.418, son sürüm v2.12.0 (23 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 16.828 → 18.381, son sürüm v2.12.0 (23 Eylül 2026).
 - **10 Eylül 2026:** Yıldız 16.595 → 16.828, son sürüm v2.11.2 (9 Eylül 2026).
-- **8 Eylül 2026:** Yıldız 16.471 → 16.595, son sürüm v2.11.1 (7 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -63,6 +63,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 SkillSpector aracını kullanarak bir yapay zekâ ajanı yeteneğini güvenlik taramasından geçirmek istiyorum. Yerel bir dizindeki yeteneği taramak için 'skillspector scan ./my-skill/' komutunu nasıl kullanırım ve tarama sonuçlarını JSON formatında 'report.json' dosyasına kaydetmek için komuta hangi parametreleri eklemeliyim?
 
+Depo: https://github.com/NVIDIA/SkillSpector. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ ajanları geliştiren ve kullandıkları yetenek paketlerinin güvenlik risklerini analiz etmek isteyen yazılım geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 
@@ -70,7 +78,7 @@ SkillSpector aracını kullanarak bir yapay zekâ ajanı yeteneğini güvenlik t
 
 - [GitHub deposu →](https://github.com/NVIDIA/SkillSpector)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

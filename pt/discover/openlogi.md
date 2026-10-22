@@ -2,16 +2,16 @@
 
 OpenLogi é uma alternativa nativa e de código aberto ao Logitech Options + escrita em Rust. Configura botões, DPI e SmartShift sem exigir contabilidade ou telemetria.
 
-- ★ 23.621
+- ★ 23.835
 - Rust
 - GitHub Trending · 2026-08-20
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 23,621 → 23,835, versão mais recente v0.8.15 (20 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 23,254 → 23,621, versão mais recente v0.8.14 (15 de outubro de 2026).
 - **9 de outubro de 2026:** Estrelas 23,245 → 23,254, versão mais recente v0.8.13 (9 de outubro de 2026).
 - **9 de outubro de 2026:** Estrelas 22,606 → 23,245, versão mais recente v0.8.12 (9 de outubro de 2026).
-- **2 de outubro de 2026:** Estrelas 22,531 → 22,606, versão mais recente v0.8.11 (2 de outubro de 2026).
 
 ## O que você ganha
 
@@ -40,6 +40,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero controle total sobre meu mouse, teclado e webcam Logitech. Como configuro meus atalhos de teclado, configurações de sensibilidade de DPI e controles de imagem da câmera usando OpenLogi? Explique passo a passo como posso personalizar meus dispositivos e criar perfis baseados em aplicativos, principalmente com o arquivo de configuração no formato TOML.
 
+Repositório: https://github.com/AprilNEA/OpenLogi. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [DPI](https://trescout.com/pt/dictionary/dpi/)
@@ -54,7 +62,7 @@ Quero controle total sobre meu mouse, teclado e webcam Logitech. Como configuro 
 - [Repositório no GitHub →](https://github.com/AprilNEA/OpenLogi)
 - [Ler em turco →](https://trescout.com/discover/openlogi/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-20: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-20: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/openlogi/

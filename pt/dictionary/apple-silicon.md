@@ -73,7 +73,7 @@ Porque, graças à Arquitetura de Memória Unificada, pools de memória gigantes
 - [Palmier Pro](https://trescout.com/pt/discover/palmier-pro/)
 - [Openmed](https://trescout.com/pt/discover/openmed/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/apple-silicon/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/apple-silicon/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/apple-silicon/

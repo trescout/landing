@@ -71,7 +71,7 @@ Foi tentado, não pegou. A simplicidade binária venceu.
 - [Ipatool](https://trescout.com/pt/discover/ipatool/)
 - [Hister](https://trescout.com/pt/discover/hister/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/binary/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/binary/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/binary/

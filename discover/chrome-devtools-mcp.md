@@ -35,6 +35,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Chrome DevTools MCP sunucusunu kullanarak aktif tarayıcı oturumuma bağlan ve web uygulamamdaki performans verilerini analiz et. Ağ isteklerini kontrol et, konsol hatalarını incele ve karşılaştığım sorunları gidermek için gerekli hata ayıklama adımlarını gerçekleştir.
 
+Depo: https://github.com/ChromeDevTools/chrome-devtools-mcp. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Tarayıcı tabanlı web uygulamalarını geliştiren ve hata ayıklama süreçlerini yapay zekâ ajanları ile otomatize etmek isteyen yazılımcılar için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -42,7 +50,7 @@ Chrome DevTools MCP sunucusunu kullanarak aktif tarayıcı oturumuma bağlan ve 
 
 - [GitHub deposu →](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

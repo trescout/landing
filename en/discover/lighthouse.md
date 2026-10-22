@@ -27,6 +27,7 @@ Download the Lighthouse version from the official GitHub releases page and extra
 
 - [Code Coverage](https://trescout.com/en/dictionary/code-coverage/)
 - [ROM](https://trescout.com/en/dictionary/rom/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** For classic game enthusiasts who want to play the original Banjo Kazooie game on modern computers.
 - **License:** CC0-1.0
@@ -36,7 +37,7 @@ Download the Lighthouse version from the official GitHub releases page and extra
 - [GitHub repository →](https://github.com/HarbourMasters/Lighthouse)
 - [Read in Turkish →](https://trescout.com/discover/lighthouse/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/lighthouse/

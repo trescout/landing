@@ -46,13 +46,13 @@ Sistem genellikle hata verir, ancak dikkatli olunması gereken kritik komutlar d
 - [Superpowers](https://trescout.com/discover/superpowers/)
 - [Ponytail](https://trescout.com/discover/ponytail/)
 - [Spec Kit](https://trescout.com/discover/spec-kit/)
-- [Codex](https://trescout.com/discover/codex/)
 - [Graphify](https://trescout.com/discover/graphify/)
+- [Codex](https://trescout.com/discover/codex/)
 - [PI](https://trescout.com/discover/pi/)
 - [TradingAgents](https://trescout.com/discover/tradingagents/)
 - [Angular](https://trescout.com/discover/angular/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/cli/

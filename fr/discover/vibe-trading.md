@@ -2,16 +2,16 @@
 
 Vibe-Trading propose un agent de trading personnel développé pour le trading sur les marchés financiers. Le projet permet aux utilisateurs de gérer des stratégies de trading automatique grâce à sa structure basée sur Python.
 
-- ★ 34 287
+- ★ 36 114
 - Python
 - GitHub Trending · 2026-06-04
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 36,012 → 36,114, dernière version v0.1.17 (21 octobre 2026).
+- **20 octobre 2026:** Étoiles 34,287 → 36,012, dernière version v0.1.16 (29 septembre 2026).
 - **29 septembre 2026:** Étoiles 33,083 → 34,287, dernière version v0.1.16 (29 septembre 2026).
 - **9 septembre 2026:** Étoiles 32,899 → 33,083, dernière version v0.1.15 (9 septembre 2026).
-- **7 septembre 2026:** Étoiles 31,295 → 32,899, dernière version v0.1.14 (20 août 2026).
-- **20 août 2026:** Étoiles 30,558 → 31,295, dernière version v0.1.14 (20 août 2026).
 
 ## Ce que ça vous apporte
 
@@ -63,6 +63,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite négocier sur les marchés financiers avec l'agent Vibe-Trading. S'il vous plaît, aidez-moi à analyser les données actuelles du marché, à tester les stratégies que j'ai identifiées et à gérer mes connexions de courtage en toute sécurité. Expliquez étape par étape comment configurer des processus de trading automatisés, en déterminant spécifiquement mes mandats de trading et mes limites de risque.
 
+Dépôt : https://github.com/HKUDS/Vibe-Trading. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Trading Agent](https://trescout.com/fr/dictionary/trading-agent/)
@@ -77,7 +85,7 @@ Je souhaite négocier sur les marchés financiers avec l'agent Vibe-Trading. S'i
 - [Dépôt GitHub →](https://github.com/HKUDS/Vibe-Trading)
 - [Lire en turc →](https://trescout.com/discover/vibe-trading/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/vibe-trading/

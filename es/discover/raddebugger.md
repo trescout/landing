@@ -24,6 +24,7 @@ Puedes descargar los archivos precompilados adecuados para tu sistema desde la s
 
 - [Debugger](https://trescout.com/es/dictionary/debugger/)
 - [Multi-process](https://trescout.com/es/dictionary/multi-process/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está pensado para desarrolladores que desarrollan software grande en lenguaje C en la plataforma Windows y necesitan una interfaz de depuración visual.
 - **Licencia:** MIT
@@ -33,7 +34,7 @@ Puedes descargar los archivos precompilados adecuados para tu sistema desde la s
 - [Repositorio en GitHub →](https://github.com/EpicGames/raddebugger)
 - [Leer en turco →](https://trescout.com/discover/raddebugger/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/raddebugger/

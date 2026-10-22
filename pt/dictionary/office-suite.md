@@ -62,7 +62,7 @@ Pode haver na transição entre formatos. Em documentos críticos, faça um test
 - [Enterprise Resource Planning](https://trescout.com/pt/dictionary/enterprise-resource-planning/)
 - [Document Parsing](https://trescout.com/pt/dictionary/document-parsing/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/office-suite/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/office-suite/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/office-suite/

@@ -28,6 +28,7 @@ Dependendo da ferramenta de configuração usada para adicionar a biblioteca Gua
 
 - [Core Libraries](https://trescout.com/pt/dictionary/core-libraries/)
 - [Caching](https://trescout.com/pt/dictionary/caching/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a desenvolvedores de software que desenvolvem aplicações em linguagem Java e precisam de ferramentas mais eficientes para tarefas básicas como gerenciamento de coleções e processamento de strings.
 - **Licença:** Apache-2.0
@@ -37,7 +38,7 @@ Dependendo da ferramenta de configuração usada para adicionar a biblioteca Gua
 - [Repositório no GitHub →](https://github.com/google/guava)
 - [Ler em turco →](https://trescout.com/discover/guava/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-07: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-07: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/guava/

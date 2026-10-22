@@ -43,7 +43,7 @@ Obrigatório se você usa vários modelos ou deseja controlar o uso de IA dentro
 
 - [Litellm](https://trescout.com/pt/discover/litellm/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-gateway/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-gateway/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-gateway/

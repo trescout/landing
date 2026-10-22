@@ -37,7 +37,7 @@ Aumentar a velocidade de carregamento do site fazendo com que o navegador envie 
 
 - [SWC](https://trescout.com/pt/discover/swc/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/bundling/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/bundling/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/bundling/

@@ -29,6 +29,7 @@ To start using the tool, visit the official releases page on GitHub. Download th
 
 - [Bloatware](https://trescout.com/en/dictionary/bloatware/)
 - [GPU](https://trescout.com/en/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to use the Windows operating system faster and more privacy-oriented and do not want to deal with complex registry settings.
 
@@ -37,7 +38,7 @@ To start using the tool, visit the official releases page on GitHub. Download th
 - [GitHub repository →](https://github.com/itsfatduck/optimizerDuck)
 - [Read in Turkish →](https://trescout.com/discover/optimizerduck/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/optimizerduck/

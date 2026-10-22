@@ -34,7 +34,7 @@ It is used to distribute the load, increase security, or manage the tasks of dif
 - [Virtual Machines](https://trescout.com/en/dictionary/virtual-machines/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/instances/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/instances/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/instances/

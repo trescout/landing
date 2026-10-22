@@ -39,7 +39,7 @@ Sie sollten darauf achten, ob Ihr Code an die Cloud gesendet wird; Bei Projekten
 - [Coding Assistant](https://trescout.com/de/dictionary/coding-assistant/)
 - [AI Engineering](https://trescout.com/de/dictionary/ai-engineering/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/ai-coding-clients/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/ai-coding-clients/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-coding-clients/

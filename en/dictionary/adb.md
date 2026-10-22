@@ -73,7 +73,7 @@ ADB communicates with the operating system while Android is running. Fastboot, o
 
 - [Universal Android Debloater Next Generation](https://trescout.com/en/discover/universal-android-debloater-next-generation/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/adb/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/adb/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/adb/

@@ -67,7 +67,7 @@ In factory, city and energy. The critical asset comes first.
 - [Data Pipeline](https://trescout.com/en/dictionary/data-pipeline/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/digital-twin/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/digital-twin/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/digital-twin/

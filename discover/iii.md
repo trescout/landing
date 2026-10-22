@@ -2,17 +2,17 @@
 
 **iii**, backend yığınınızdaki tüm servisleri (kuyruk, cron, HTTP, state, gözlemlenebilirlik, ajanlar, sandbox) **gerçek zamanlı oluşturma, genişletme ve izleme** yöntemidir. Normalde ayrı entegrasyon zorlukları çıkaran parçaları tek bir noktadan yönetilebilir kılar.
 
-- ★ 18.839
+- ★ 18.847
 - Rust
 - Lisans: yok
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 18.839 → 18.847, son sürüm iii/v0.24.6 (19 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 18.824 → 18.839, son sürüm iii/v0.24.5 (13 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 18.809 → 18.824, son sürüm iii/v0.24.4 (2 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 18.767 → 18.809, son sürüm iii/v0.24.3 (25 Eylül 2026).
-- **18 Eylül 2026:** Yıldız 18.662 → 18.767, son sürüm iii/v0.24.0 (17 Eylül 2026).
 
 - **Kimin için:** Backend / altyapı geliştiren ekipler
 - **Zorluk:** İleri · geliştirici aracı
@@ -36,6 +36,14 @@ Başlangıç yapmak ve dokümantasyona ulaşmak için iii.dev adresini ziyaret e
 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 iii'yi denemek için önce 'iii project init myapp' ile bir proje oluştur, 'cd myapp' yapıp 'iii' komutuyla motoru başlat, ardından 'iii worker add queue' gibi komutlarla yetenekler ekleyerek hepsini aynı canlı sistemde birbirine bağla; SDK gerekirse 'npm install iii-sdk' kur.
+
+Depo: https://github.com/iii-hq/iii. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 **Proje oluştur**
 
@@ -69,7 +77,7 @@ npm install iii-sdk
 - [GitHub deposu →](https://github.com/iii-hq/iii)
 - [Ana sayfa →](https://iii.dev)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

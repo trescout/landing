@@ -2,16 +2,16 @@
 
 LobeHub permite crear un equipo de operaciones de IA que trabaja las 24 horas del día, los 7 días de la semana, mediante la gestión de agentes de inteligencia artificial a través de procesos de reclutamiento, programación y generación de informes. La plataforma ofrece una interfaz administrativa que automatiza los flujos de trabajo organizando diferentes agentes desde un único centro.
 
-- ★ 83.031
+- ★ 83.300
 - TypeScript
 - GitHub Trending · 2026-07-17
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 83,031 → 83,300, última versión v2.2.20 (18 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 82,837 → 83,031, última versión v2.2.19 (7 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 82,391 → 82,837, última versión v2.2.18 (20 de septiembre de 2026).
 - **11 de septiembre de 2026:** Estrellas 82,246 → 82,391, última versión v2.2.17 (11 de septiembre de 2026).
-- **5 de septiembre de 2026:** Estrellas 82,127 → 82,246, última versión v2.2.16 (4 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -59,7 +59,7 @@ Para comenzar a utilizar LobeHub, puedes visitar el sitio web oficial o revisar 
 - [Repositorio en GitHub →](https://github.com/lobehub/lobehub)
 - [Leer en turco →](https://trescout.com/discover/lobehub/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-17: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-17: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/lobehub/

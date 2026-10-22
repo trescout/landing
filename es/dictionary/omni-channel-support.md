@@ -38,7 +38,7 @@ Se requiere una base de datos central sólida y una infraestructura de software 
 - [Omni-channel Desk](https://trescout.com/es/dictionary/omni-channel-desk/)
 - [Enterprise Resource Planning](https://trescout.com/es/dictionary/enterprise-resource-planning/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/omni-channel-support/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/omni-channel-support/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/omni-channel-support/

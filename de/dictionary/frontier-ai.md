@@ -60,7 +60,7 @@ Mächtige Talente bergen Risiken, wenn sie falsch behandelt werden. Der Zugang i
 - [Foundation Model](https://trescout.com/de/dictionary/foundation-model/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/frontier-ai/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/frontier-ai/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/frontier-ai/

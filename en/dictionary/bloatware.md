@@ -37,7 +37,7 @@ You can get rid of it by disabling the app from the settings menu or reinstallin
 
 - [optimizerDuck](https://trescout.com/en/discover/optimizerduck/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/bloatware/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/bloatware/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/bloatware/

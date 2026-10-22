@@ -39,7 +39,7 @@ Depende de la política de privacidad de la herramienta con la que compartes tu 
 - [AI Coding Assistants](https://trescout.com/es/dictionary/ai-coding-assistants/)
 - [IDE](https://trescout.com/es/dictionary/ide/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/coding-assistant/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/coding-assistant/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/coding-assistant/

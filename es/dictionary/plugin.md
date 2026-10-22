@@ -84,7 +84,7 @@ MCP es un protocolo de complemento abierto que estandariza la forma en que los m
 - [Knowledge Work Plugins](https://trescout.com/es/discover/knowledge-work-plugins/)
 - [Compound Engineering](https://trescout.com/es/discover/compound-engineering-plugin/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/plugin/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/plugin/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/plugin/

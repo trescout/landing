@@ -2,15 +2,16 @@
 
 Worldmonitor, yapay zekâ destekli haber derleme ve jeopolitik izleme özelliklerini tek bir arayüzde birleştiren gerçek zamanlı bir küresel istihbarat paneli (global intelligence dashboard) sunuyor. Altyapı takibi ve durum farkındalığı (situational awareness) sağlayan bu araç, karmaşık veri akışlarını görselleştirerek analiz süreçlerini kolaylaştırıyor.
 
-- ★ 85.879
+- ★ 88.894
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 88.584 → 88.894, son sürüm v2.11.2 (20 Ekim 2026).
+- **17 Ekim 2026:** Yıldız 85.879 → 88.584, son sürüm v2.11.0 (16 Ekim 2026).
 - **9 Eylül 2026:** Yıldız 82.117 → 85.879, son sürüm v2.10.0 (8 Eylül 2026).
 - **15 Ağustos 2026:** Yıldız 78.032 → 82.117, son sürüm v2.5.23 (1 Mart 2026).
-- **2 Ağustos 2026:** Yıldız 57.469 → 78.032, son sürüm v2.5.23 (1 Mart 2026).
 
 ## Ne kazandırır?
 
@@ -47,13 +48,21 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Worldmonitor aracını kullanarak küresel haber akışlarını, jeopolitik gelişmeleri ve altyapı verilerini analiz etmemi sağla. 500'den fazla haber kaynağını sentezleyerek askeri, ekonomik ve çevresel olaylar arasındaki korelasyonları belirle. Ülke istikrarsızlık endeksi ve finansal piyasa sinyalleri gibi verileri kullanarak durum farkındalığı oluştur ve karmaşık veri akışlarını görselleştirme konusunda rehberlik et.
 
+Depo: https://github.com/koala73/worldmonitor. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Küresel gelişmeleri, jeopolitik riskleri ve finansal piyasa verilerini tek bir merkezden takip etmek isteyen analiz odaklı kullanıcılar içindir.
 
 ## Bağlantılar
 
 - [GitHub deposu →](https://github.com/koala73/worldmonitor)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

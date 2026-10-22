@@ -38,7 +38,7 @@ Es ahmt Emotionen nach; Aber diese Nachahmung ist so gut, dass sie die Interakti
 - [Voice Synthesis](https://trescout.com/de/dictionary/voice-synthesis/)
 - [AI Models](https://trescout.com/de/dictionary/ai-models/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/frontier-voice-ai/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/frontier-voice-ai/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/frontier-voice-ai/

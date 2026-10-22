@@ -2,16 +2,16 @@
 
 Open-Generative-AI est une plateforme de studio open source sans filtrage de contenu et avec plus de 200 modèles de création visuelle et vidéo. Les utilisateurs peuvent gérer librement leurs processus de production visuelle en exécutant ce logiciel, proposé sous licence MIT, sur leurs propres serveurs (auto-hébergés).
 
-- ★ 29 494
+- ★ 30 971
 - JavaScript
 - GitHub Trending · 2026-06-28
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 29,494 → 30,971, dernière version v2.0.0 (23 mai 2026).
 - **1 octobre 2026:** Étoiles 28,085 → 29,494, dernière version v2.0.0 (23 mai 2026).
 - **8 septembre 2026:** Étoiles 26,697 → 28,085, dernière version v2.0.0 (23 mai 2026).
 - **20 août 2026:** Étoiles 25,418 → 26,697, dernière version v2.0.0 (23 mai 2026).
-- **2 août 2026:** Étoiles 21,507 → 25,418, dernière version v2.0.0 (23 mai 2026).
 
 ## Ce que ça vous apporte
 
@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 En utilisant la plateforme Open-Generative-AI, je souhaite créer des images et des vidéos de haute qualité sans rester bloqué dans les filtres de contenu. Comment puis-je choisir les plus adaptés à mes projets créatifs parmi plus de 200 modèles proposés par la plateforme et comment mettre en place un workflow professionnel dans mon propre système local en utilisant les opportunités de production gratuites offertes par ces modèles ?
 
+Dépôt : https://github.com/Anil-matcha/Open-Generative-AI. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Self-hosted](https://trescout.com/fr/dictionary/self-hosted/)
@@ -46,7 +54,7 @@ En utilisant la plateforme Open-Generative-AI, je souhaite créer des images et 
 - [Dépôt GitHub →](https://github.com/Anil-matcha/Open-Generative-AI)
 - [Lire en turc →](https://trescout.com/discover/open-generative-ai/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/open-generative-ai/

@@ -62,6 +62,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 iOS için geliştirilen bir uygulamanın IPA paketini ipatool kullanarak bilgisayarıma indirmek, içeriğini açarak gömülü kütüphaneleri ve Info.plist dosyasındaki izin yapılandırmalarını güvenlik açısından incelemek istiyorum. Terminalde ipatool ile nasıl oturum açacağımı, arama yapıp indireceğimi ve ardından IPA dosyasını çıkartıp statik analiz yapacağımı adım adım açıklar mısın?
 
+Depo: https://github.com/majd/ipatool. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** iOS güvenlik araştırmacıları, mobil geliştiriciler, tersine mühendislik uzmanları ve IPA arşivleyiciler.
 - **Lisans:** MIT (Özgür açık kaynak lisansı)
 - **Çatı:** Go tabanlı çapraz platform CLI
@@ -78,16 +86,16 @@ iOS için geliştirilen bir uygulamanın IPA paketini ipatool kullanarak bilgisa
 
 - [GitHub deposu →](https://github.com/majd/ipatool)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Xcode](https://trescout.com/dictionary/xcode/)
 - [Sideloading](https://trescout.com/dictionary/sideloading/)
+- [Jailbreak](https://trescout.com/dictionary/jailbreak/)
 - [Binary](https://trescout.com/dictionary/binary/)
 - [CI/CD](https://trescout.com/dictionary/ci-cd/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
-- [CLI](https://trescout.com/dictionary/cli/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ipatool/

@@ -39,7 +39,7 @@ Evet, genellikle ana ajan üzerinden veya doğrudan bir haberleşme protokolü i
 - [Multi-agent LLM](https://trescout.com/dictionary/multi-agent-llm/)
 - [Autonomous AI Agent](https://trescout.com/dictionary/autonomous-ai-agent/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/subagents/

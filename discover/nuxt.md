@@ -2,16 +2,16 @@
 
 Nuxt, Vue tabanlı uygulamalar geliştirmek için kullanılan tam yığın (full-stack) bir çerçevedir (framework). TypeScript desteğiyle sunulan bu araç, sunucu taraflı işleme (server-side rendering) ve statik site oluşturma süreçlerini optimize eder.
 
-- ★ 60.926
+- ★ 60.963
 - TypeScript
 - GitHub Trending · 2026-07-12
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 60.926 → 60.963, son sürüm v4.6.2 (16 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 60.920 → 60.926, son sürüm v4.6.1 (9 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 60.726 → 60.920, son sürüm v4.6.0 (5 Ekim 2026).
 - **6 Ağustos 2026:** Yıldız 60.715 → 60.726, son sürüm v4.5.2 (5 Ağustos 2026).
-- **2 Ağustos 2026:** Yıldız 60.747 → 60.715, son sürüm v4.5.1 (27 Temmuz 2026).
 
 ## Ne kazandırır?
 
@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Vue.js tabanlı projelerim için Nuxt çerçevesini kullanmak istiyorum. Projemi başlatmak ve sunucu taraflı işleme özelliklerinden faydalanarak tam yığın bir web uygulaması geliştirmek için izlemem gereken temel adımları, bileşen yapısını ve SEO optimizasyonu için kullanabileceğim araçları açıklar mısın?
 
+Depo: https://github.com/nuxt/nuxt. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Vue.js kullanarak ölçeklenebilir ve performanslı web uygulamaları geliştirmek isteyen yazılımcılar içindir.
 - **Lisans:** MIT
 
@@ -40,7 +48,7 @@ Vue.js tabanlı projelerim için Nuxt çerçevesini kullanmak istiyorum. Projemi
 
 - [GitHub deposu →](https://github.com/nuxt/nuxt)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

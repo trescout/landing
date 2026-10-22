@@ -2,17 +2,17 @@
 
 Introduction à l'ingénierie de l'intelligence artificielle à partir de zéro : 485 leçons, 20 phases et environ 320 heures de contenu. Il enseigne tous les algorithmes, de l'algèbre linéaire aux agents autonomes, d'abord avec les mathématiques puis en écrivant du code à la main. Ce cours, qui couvre les langages Python, TypeScript, Rust et Julia, est entièrement gratuit et open source.
 
-- ★ 69 356
+- ★ 71 226
 - Python
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 69,356 → 71,226, dernière version v2026.10.4 (19 octobre 2026).
 - **15 octobre 2026:** Étoiles 66,339 → 69,356, dernière version v2026.10.3 (15 octobre 2026).
 - **10 octobre 2026:** Étoiles 65,449 → 66,339, dernière version v2026.10.2 (10 octobre 2026).
 - **7 octobre 2026:** Étoiles 65,029 → 65,449, dernière version v2026.10.1 (6 octobre 2026).
-- **6 octobre 2026:** Étoiles 61,896 → 65,029, dernière version v2026.10 (27 septembre 2026).
 
 ## Qu'est-ce qu'on apprend ?
 
@@ -30,6 +30,14 @@ Chaque leçon suit le même cycle : analyser le problème, faire le calcul, éc
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je vais vous donner le contenu d'un programme open source en 20 phases et plus de 500 leçons appelé « ai-engineering-from-scratch » qui enseigne l'ingénierie de l'IA à partir de zéro. Relisez le README et la feuille de route et cela me donne un plan d'étude personnel, en turc, divisé en semaines : par quelle phase dois-je commencer, quels sont les prérequis et dans quel ordre dois-je procéder ? Mon niveau : [ex. débutant].
+
+Dépôt : https://github.com/rohitg00/ai-engineering-from-scratch. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
 
 ## Termes liés du glossaire
 
@@ -53,7 +61,7 @@ Je vais vous donner le contenu d'un programme open source en 20 phases et plus d
 - [Dépôt GitHub →](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [Lire en turc →](https://trescout.com/discover/ai-engineering-from-scratch/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/ai-engineering-from-scratch/

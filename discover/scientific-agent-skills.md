@@ -2,15 +2,15 @@
 
 Scientific-agent-skills, yapay zekâ ajanlarını bilimsel araştırma süreçlerine uyarlayan hazır yetenek kütüphanesidir. Biyoloji, kimya ve tıp alanlarında 163 doğrulanmış yetenek ve 100'den fazla veri tabanı sunarak kod düzenleyici Cursor veya yapay zekâ asistanı Claude Code gibi platformlarla entegre çalışır.
 
-- ★ 49.814
+- ★ 52.471
 - GitHub Trending · 2026-08-26
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 49.814 → 52.471, son sürüm v2.72.0 (1 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 47.342 → 49.814, son sürüm v2.72.0 (1 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 47.133 → 47.342, son sürüm v2.72.0 (1 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 46.808 → 47.133, son sürüm v2.70.0 (29 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 44.519 → 46.808, son sürüm v2.69.0 (11 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -32,6 +32,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilimsel araştırma süreçlerimde bana yardımcı olabilmek için kütüphanedeki 166 hazır yeteneği ve veri tabanı bağlantılarını kullanmaya başla.
 
+Depo: https://github.com/K-Dense-AI/scientific-agent-skills. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Bilimsel araştırma yapan ve yapay zekâ asistanlarını laboratuvar süreçlerine entegre etmek isteyen araştırmacılar içindir.
 - **Lisans:** MIT
 
@@ -39,7 +47,7 @@ Bilimsel araştırma süreçlerimde bana yardımcı olabilmek için kütüphaned
 
 - [GitHub deposu →](https://github.com/K-Dense-AI/scientific-agent-skills)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

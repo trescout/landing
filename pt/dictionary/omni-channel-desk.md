@@ -42,7 +42,7 @@ Ele não precisa se explicar do zero todas as vezes para resolver seu problema.
 
 - [Chatwoot](https://trescout.com/pt/discover/chatwoot/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/omni-channel-desk/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/omni-channel-desk/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/omni-channel-desk/

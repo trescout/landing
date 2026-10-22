@@ -35,7 +35,7 @@ Nothing happens, because your code is already safely stored on servers on the in
 - [IDE](https://trescout.com/en/dictionary/ide/)
 - [Cloud Computing](https://trescout.com/en/dictionary/cloud-computing/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cloud-development-environments/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cloud-development-environments/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cloud-development-environments/

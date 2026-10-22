@@ -33,7 +33,7 @@ No, en informática también se utiliza para emparejar objetos como servidores y
 - [Data Processing](https://trescout.com/es/dictionary/data-processing/)
 - [Computer Science](https://trescout.com/es/dictionary/computer-science/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/stable-marriage-algorithm/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/stable-marriage-algorithm/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/stable-marriage-algorithm/

@@ -40,7 +40,7 @@ Conseguem: sistemas com arquitetura multi-agente listam os agentes neste diretó
 - [Prompt as Code](https://trescout.com/pt/dictionary/prompt-as-code/)
 - [System Prompts](https://trescout.com/pt/dictionary/system-prompts/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agents-directory/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agents-directory/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agents-directory/

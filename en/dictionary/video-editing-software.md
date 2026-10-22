@@ -38,7 +38,7 @@ In addition to common video formats like MP4, MOV, and AVI, they also support ra
 - [AI Video Editing](https://trescout.com/en/dictionary/ai-video-editing/)
 - [Application](https://trescout.com/en/dictionary/application/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/video-editing-software/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/video-editing-software/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/video-editing-software/

@@ -66,7 +66,7 @@ Tiene un costo de recursos y aprendizaje. Da sus frutos cuando la complejidad au
 - [Cloud Native](https://trescout.com/es/dictionary/cloud-native/)
 - [Observability](https://trescout.com/es/dictionary/observability/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/service-mesh-manager/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/service-mesh-manager/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/service-mesh-manager/

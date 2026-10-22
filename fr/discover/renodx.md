@@ -22,6 +22,7 @@ Pour commencer à utiliser l'outil, vous pouvez consulter la liste des mods disp
 
 - [HLSL](https://trescout.com/fr/dictionary/hlsl/)
 - [HDR](https://trescout.com/fr/dictionary/hdr/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux joueurs et aux développeurs souhaitant mettre à jour leurs anciens jeux pour offrir une expérience visuelle de meilleure qualité avec les technologies d'affichage modernes.
 - **Licence:** MIT
@@ -31,7 +32,7 @@ Pour commencer à utiliser l'outil, vous pouvez consulter la liste des mods disp
 - [Dépôt GitHub →](https://github.com/clshortfuse/renodx)
 - [Lire en turc →](https://trescout.com/discover/renodx/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/renodx/

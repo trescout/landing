@@ -80,10 +80,10 @@ Geliştiriciler yazar, platformlar mağazada dağıtır. İyi açıklama yazmak 
 - [Awesome Claude Skills](https://trescout.com/discover/awesome-claude-skills/)
 - [Last30days Skill](https://trescout.com/discover/last30days-skill/)
 - [I Have Adhd](https://trescout.com/discover/i-have-adhd/)
-- [OfficeCLI](https://trescout.com/discover/officecli/)
 - [Security Audit Skill](https://trescout.com/discover/security-audit-skill/)
+- [OfficeCLI](https://trescout.com/discover/officecli/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/skill/

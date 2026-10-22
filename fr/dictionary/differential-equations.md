@@ -38,7 +38,7 @@ Elles fonctionnent en arrière-plan dans de nombreux domaines, des prévisions m
 - [Computer Science](https://trescout.com/fr/dictionary/computer-science/)
 - [Deep Learning](https://trescout.com/fr/dictionary/deep-learning/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/differential-equations/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/differential-equations/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/differential-equations/

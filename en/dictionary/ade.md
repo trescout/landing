@@ -36,7 +36,7 @@ It is not mandatory, but it saves time on complex projects.
 - [Development Framework](https://trescout.com/en/dictionary/development-framework/)
 - [Agent Development Environment](https://trescout.com/en/dictionary/agent-development-environment/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ade/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ade/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ade/

@@ -2,16 +2,16 @@
 
 Developed by Kyutai Labs, Pocket-TTS is a lightweight text-to-speech model that runs only on the central processing unit (CPU) without the need for a graphics processing unit. Thanks to its low resource consumption, it offers fast and efficient sound synthesis on devices with hardware restrictions.
 
-- ★ 9,663
+- ★ 9,972
 - Python
 - GitHub Trending · 2026-07-08
 
 ## Updates
 
+- **October 21, 2026:** Stars 9,663 → 9,972, latest release v4.0.0 (October 20, 2026).
 - **September 27, 2026:** Stars 9,348 → 9,663, latest release v3.3.0 (September 24, 2026).
 - **September 4, 2026:** Stars 9,151 → 9,348, latest release v3.1.0 (September 3, 2026).
 - **August 27, 2026:** Stars 7,994 → 9,151, latest release v3.0.2 (August 25, 2026).
-- **August 2, 2026:** Stars 6,350 → 7,994, latest release v2.1.0 (May 4, 2026).
 
 ## What you get
 
@@ -53,6 +53,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to convert text to voice using the Pocket TTS tool. Explain how to configure the necessary commands and sound model to quickly produce an audio file on my computer using only processor power. In particular, explain step by step how I can change the default audio settings and clone my audio using my own audio file.
 
+Repository: https://github.com/kyutai-labs/pocket-tts. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Text-to-Speech](https://trescout.com/en/dictionary/text-to-speech/)
@@ -67,7 +75,7 @@ I want to convert text to voice using the Pocket TTS tool. Explain how to config
 - [GitHub repository →](https://github.com/kyutai-labs/pocket-tts)
 - [Read in Turkish →](https://trescout.com/discover/pocket-tts/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/pocket-tts/

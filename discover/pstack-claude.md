@@ -2,16 +2,16 @@
 
 Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.
 
-- ★ 1.926
+- ★ 3.217
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
 
-- **13 Ekim 2026:** Yıldız 1.917 → 1.926, son sürüm v0.9.84 (13 Ekim 2026).
-- **13 Ekim 2026:** Yıldız 1.825 → 1.917, son sürüm v0.9.83 (13 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 1.711 → 1.825, son sürüm v0.9.82 (11 Ekim 2026).
-- **9 Ekim 2026:** Yıldız 1.691 → 1.711, son sürüm v0.9.81 (9 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 3.212 → 3.217, son sürüm v0.9.99 (21 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 3.140 → 3.212, son sürüm v0.9.97 (21 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 2.860 → 3.140, son sürüm v0.9.95 (20 Ekim 2026).
+- **18 Ekim 2026:** Yıldız 2.721 → 2.860, son sürüm v0.9.93 (18 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -30,7 +30,7 @@ Claude Code, Codex veya Pi platformunuz üzerinden ilgili eklenti komutlarını 
 
 - [GitHub deposu →](https://github.com/michael-denyer/pstack-claude)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-10-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -47,7 +47,7 @@ Não, são utilizados diferentes tipos de bases de dados dependendo do tipo de d
 - [Zvec](https://trescout.com/pt/discover/zvec/)
 - [Cassandra](https://trescout.com/pt/discover/cassandra/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/database/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/database/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/database/

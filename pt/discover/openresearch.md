@@ -2,16 +2,16 @@
 
 AlphaXiv é uma estrutura que permite executar agentes de pesquisa paralelos usando diferentes modelos de IA. Desenvolvida na linguagem Rust, esta ferramenta de código aberto visa acelerar os processos de coleta de dados em pesquisas acadêmicas e técnicas.
 
-- ★ 6.791
+- ★ 7.423
 - Rust
 - GitHub Trending · 2026-09-12
 
 ## Atualizações
 
+- **21 de outubro de 2026:** Estrelas 7,287 → 7,423, versão mais recente v0.2.20 (21 de outubro de 2026).
+- **16 de outubro de 2026:** Estrelas 6,791 → 7,287, versão mais recente v0.2.19 (15 de outubro de 2026).
 - **9 de outubro de 2026:** Estrelas 6,690 → 6,791, versão mais recente v0.2.18 (9 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 6,654 → 6,690, versão mais recente v0.2.17 (7 de outubro de 2026).
-- **6 de outubro de 2026:** Estrelas 6,454 → 6,654, versão mais recente v0.2.16 (5 de outubro de 2026).
-- **3 de outubro de 2026:** Estrelas 6,177 → 6,454, versão mais recente v0.2.15 (2 de outubro de 2026).
 
 ## O que você ganha
 
@@ -41,6 +41,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero iniciar um projeto de pesquisa no OpenResearch. Gostaria que você usasse um agente de IA, como o Claude Code ou OpenCode, para realizar uma revisão de literatura, desenvolver hipóteses e estruturar experimentos para testar essas hipóteses. Ao longo do trabalho, gerencie o processo de forma autônoma, registrando todas as descobertas, resultados de experimentos e alterações de código no espaço de trabalho local do OpenResearch.
 
+Repositório: https://github.com/alphaXiv/OpenResearch. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Research Agents](https://trescout.com/pt/dictionary/research-agents/)
@@ -55,7 +63,7 @@ Quero iniciar um projeto de pesquisa no OpenResearch. Gostaria que você usasse 
 - [Repositório no GitHub →](https://github.com/alphaXiv/OpenResearch)
 - [Ler em turco →](https://trescout.com/discover/openresearch/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-12: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-12: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/openresearch/

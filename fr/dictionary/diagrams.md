@@ -38,7 +38,7 @@ Oui, l’important n’est pas que ce soit artistique, mais qu’il reflète fid
 
 - [Likec4](https://trescout.com/fr/discover/likec4/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/diagrams/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/diagrams/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/diagrams/

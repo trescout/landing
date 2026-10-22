@@ -1,0 +1,921 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-19",
+  "capturedAt": "2026-10-19T09:53:56.955Z",
+  "editorial": "Aujourd'hui, les agents de raisonnement hybride (hybrid reasoning agents) et les grands modèles de langage (large language models) à haute efficacité sont au premier plan de l'écosystème des développeurs. Alors que les discussions sur Hacker News se concentrent sur le facteur humain derrière le logiciel, de nouveaux modèles comme DeepSeek et MiniCPM continuent de repousser les limites de performance sur Hugging Face.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "MadsLorentzen/ai-job-search est un framework d'intelligence artificielle qui fonctionne sur Claude Code et automatise le processus de recherche d'emploi sur votre ordinateur local. Il effectue des tâches telles que l'évaluation des offres d'emploi, la modification des CV, la préparation de lettres de motivation et la préparation aux entretiens pour le compte de l'utilisateur.",
+          "meta": "Python · ★ 54 885 · +2 232 aujourd'hui",
+          "snapshot": {
+            "sourceId": "MadsLorentzen/ai-job-search",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 54885,
+              "engagementCount": 2232,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2232
+              }
+            },
+            "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+          }
+        },
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "claude-plugins-official, géré par Anthropics, est un répertoire officiel contenant des plugins de haute qualité développés pour Claude Code. Cette ressource, préparée en langage Python, rassemble des outils que les utilisateurs peuvent utiliser dans leurs processus de codage assistés par l'intelligence artificielle.",
+          "meta": "Python · ★ 43 006 · +1 175 aujourd'hui",
+          "snapshot": {
+            "sourceId": "anthropics/claude-plugins-official",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 43006,
+              "engagementCount": 1175,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1175
+              }
+            },
+            "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+          }
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "anomalyco/opencode est un agent de codage open source ouvert à l'accès et au développement pour tous. Développé en langage TypeScript, cet outil vise à fournir une automatisation assistée par l'intelligence artificielle dans les processus logiciels.",
+          "meta": "TypeScript · ★ 217 077 · +1 414 aujourd'hui",
+          "snapshot": {
+            "sourceId": "anomalyco/opencode",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 217077,
+              "engagementCount": 1414,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1414
+              }
+            },
+            "description": "The open source coding agent."
+          }
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor propose un dépôt contenant les spécifications des plugins et les plugins officiels développés pour l'outil d'édition de code Cursor. Préparée en langage TypeScript, cette ressource définit les normes nécessaires pour que les développeurs puissent créer leurs propres plugins.",
+          "meta": "TypeScript · ★ 12 913 · +350 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12913,
+              "engagementCount": 350,
+              "rank": 4,
+              "extra": {
+                "starsToday": 350
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          }
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Développé avec TypeScript, ruflo est une boîte à outils conçue pour coordonner des flux de travail autonomes et créer des essaims d'intelligence artificielle multijoueurs. Il facilite la construction de systèmes complexes grâce à des fonctionnalités telles que la mémoire adaptative, la capacité d'auto-apprentissage et la génération augmentée par récupération (RAG) basée sur des vecteurs.",
+          "meta": "TypeScript · ★ 76 789 · +513 aujourd'hui",
+          "snapshot": {
+            "sourceId": "ruvnet/ruflo",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 76789,
+              "engagementCount": 513,
+              "rank": 5,
+              "extra": {
+                "starsToday": 513
+              }
+            },
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+          }
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Développé avec le langage Rust, akitaonrails/ai-memory propose une solution de mémoire à long terme (long term memory) pour les interfaces de ligne de commande (CLI) axées sur le codage. Ce projet vise à faciliter le transfert de données entre différents fournisseurs d'intelligence artificielle.",
+          "meta": "Rust · ★ 10 793 · +512 aujourd'hui",
+          "snapshot": {
+            "sourceId": "akitaonrails/ai-memory",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 10793,
+              "engagementCount": 512,
+              "rank": 6,
+              "extra": {
+                "starsToday": 512
+              }
+            },
+            "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+          }
+        },
+        {
+          "title": "YuJunZhiXue/dsh-purge",
+          "url": "https://github.com/YuJunZhiXue/dsh-purge",
+          "summary": "YuJunZhiXue/dsh-purge est un outil JavaScript qui vise à contourner les restrictions de sécurité (jailbreak) en utilisant des invites (prompts) personnalisables pour différents modèles d'intelligence artificielle. Le projet permet aux utilisateurs de définir leurs propres commandes pour différents modèles et de se concentrer par défaut sur les modèles locaux.",
+          "meta": "JavaScript · ★ 7 496 · +423 aujourd'hui",
+          "snapshot": {
+            "sourceId": "YuJunZhiXue/dsh-purge",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 7496,
+              "engagementCount": 423,
+              "rank": 7,
+              "extra": {
+                "starsToday": 423
+              }
+            },
+            "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分"
+          }
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "Orca, développé par Stablyai, est une plateforme qui vous permet de gérer différents agents de codage (coding agents) tels que Grok Bot et Claude Code dans une interface unique. Avec des options pour ordinateur de bureau, mobile et environnement d'exécution distant (remote runtime), il vous permet d'exécuter ces agents en utilisant vos propres abonnements.",
+          "meta": "TypeScript · ★ 97 364 · +1 146 aujourd'hui",
+          "snapshot": {
+            "sourceId": "stablyai/orca",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 97364,
+              "engagementCount": 1146,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1146
+              }
+            },
+            "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything est un projet Python qui vise à rendre les interfaces de ligne de commande (CLI) compatibles avec les agents d'intelligence artificielle. Il a pour but de transformer les outils logiciels en une structure intégrable dans des flux de travail basés sur des agents.",
+          "meta": "Python · ★ 54 891 · +589 aujourd'hui",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 54891,
+              "engagementCount": 589,
+              "rank": 9,
+              "extra": {
+                "starsToday": 589
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio est un outil de traitement audio open source qui effectue des opérations telles que le clonage vocal, la conception sonore, le doublage vidéo et la transcription. Offrant une alternative fonctionnant localement aux services payants comme ElevenLabs, ce logiciel permet de créer des livres audio et de dicter dans 646 langues différentes.",
+          "meta": "Python · ★ 76 473 · +2 082 aujourd'hui",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 76473,
+              "engagementCount": 2082,
+              "rank": 10,
+              "extra": {
+                "starsToday": 2082
+              }
+            },
+            "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+          }
+        },
+        {
+          "title": "android/skills",
+          "url": "https://github.com/android/skills",
+          "summary": "android/skills, partagé par l'équipe Android, est un dépôt de code développé en langage Kotlin qui standardise les fonctionnalités des applications. Il offre une ressource guidant les développeurs de logiciels sur la manière de structurer et de gérer les capacités (skills) au sein des applications.",
+          "meta": "Kotlin · ★ 8 956 · +375 aujourd'hui",
+          "snapshot": {
+            "sourceId": "android/skills",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "Kotlin",
+              "popularity": 8956,
+              "engagementCount": 375,
+              "rank": 11,
+              "extra": {
+                "starsToday": 375
+              }
+            }
+          }
+        },
+        {
+          "title": "mlabonne/llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "summary": "mlabonne/llm-course est une ressource pédagogique complète contenant des feuilles de route et des notebooks Colab pour ceux qui souhaitent s'initier au domaine des grands modèles de langage (LLM). Ce projet propose un programme qui guide les personnes souhaitant apprendre les modèles d'intelligence artificielle, du niveau débutant au niveau avancé.",
+          "meta": "★ 84 301 · +81 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mlabonne/llm-course",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "popularity": 84301,
+              "engagementCount": 81,
+              "rank": 12,
+              "extra": {
+                "starsToday": 81
+              }
+            },
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks."
+          }
+        },
+        {
+          "title": "Kruk2/jasna",
+          "url": "https://github.com/Kruk2/jasna",
+          "summary": "Kruk2/jasna est un outil de restauration vidéo développé pour améliorer les vidéos (video restoration tool). Écrit en Python, ce projet automatise les processus techniques visant à augmenter la qualité de l'image.",
+          "meta": "Python · ★ 2 659 · +115 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Kruk2/jasna",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2659,
+              "engagementCount": 115,
+              "rank": 13,
+              "extra": {
+                "starsToday": 115
+              }
+            },
+            "description": "Video restoration tool"
+          }
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI est un outil de génération d'images modulaire qui offre une interface basée sur des nœuds pour les modèles de diffusion (diffusion models). Fonctionnant sur des systèmes locaux, ce logiciel permet aux utilisateurs de visualiser des flux de travail complexes et d'exécuter des modèles via une API grâce à sa structure graphique.",
+          "meta": "Python · ★ 139 057 · +154 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Comfy-Org/ComfyUI",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 139057,
+              "engagementCount": 154,
+              "rank": 14,
+              "extra": {
+                "starsToday": 154
+              }
+            },
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Someone behind the software",
+          "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+          "summary": "Cet article, qui traite de la visibilité du facteur humain et de l'effort personnel dans les processus de développement logiciel, se concentre sur les histoires des individus derrière les produits numériques. Il souligne l'importance de comprendre les motivations et les expériences des personnes qui construisent ces outils, au-delà des succès techniques dans le monde du logiciel.",
+          "meta": "442 votes · 165 commentaires",
+          "snapshot": {
+            "sourceId": "50142573",
+            "capturedAt": "2026-10-19T09:53:57.236Z",
+            "metadata": {
+              "popularity": 442,
+              "engagementCount": 165,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50142573",
+                  "popularity": 442,
+                  "engagementCount": 165
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-18T16:32:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50142573"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50142573",
+              "popularity": 442,
+              "engagementCount": 165
+            }
+          ]
+        },
+        {
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "summary": "Les Hybrid Reasoning Agents sont des grands modèles de langage (LLM) capables de raisonner dans l'espace latent (latent space) et d'effectuer leurs actions sous forme textuelle. Cette approche vise à intégrer des processus de raisonnement complexes dans les agents d'intelligence artificielle.",
+          "meta": "394 votes · 190 commentaires",
+          "snapshot": {
+            "sourceId": "50145337",
+            "capturedAt": "2026-10-19T09:53:57.236Z",
+            "metadata": {
+              "popularity": 394,
+              "engagementCount": 190,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50145337",
+                  "popularity": 394,
+                  "engagementCount": 190
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-18T20:48:14Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50145337"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgenthttps:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridag...Evaluations: https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2610.18861v1#S"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50145337",
+              "popularity": 394,
+              "engagementCount": 190
+            }
+          ]
+        },
+        {
+          "title": "RepRapMicron",
+          "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+          "summary": "RepRapMicron est un dispositif de production compact développé dans le cadre du projet RepRap, un projet d'imprimante 3D auto-réplicable. Le projet propose une conception d'imprimante à petite échelle capable de produire ses propres composants matériels.",
+          "meta": "393 votes · 64 commentaires",
+          "snapshot": {
+            "sourceId": "50141076",
+            "capturedAt": "2026-10-19T09:53:57.236Z",
+            "metadata": {
+              "popularity": 393,
+              "engagementCount": 64,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50141076",
+                  "popularity": 393,
+                  "engagementCount": 64
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-18T13:48:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50141076"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50141076",
+              "popularity": 393,
+              "engagementCount": 64
+            }
+          ]
+        },
+        {
+          "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+          "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+          "summary": "La chaîne 3blue1brown, qui produit du contenu mathématique, a publié une vidéo traitant des raisons pour lesquelles c'est le moment idéal pour se tourner vers le domaine des mathématiques. Le contenu évalue comment la pensée mathématique et les opportunités de carrière dans ce domaine ont évolué avec les développements technologiques actuels.",
+          "meta": "370 votes · 441 commentaires",
+          "snapshot": {
+            "sourceId": "50136150",
+            "capturedAt": "2026-10-19T09:53:57.236Z",
+            "metadata": {
+              "popularity": 370,
+              "engagementCount": 441,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50136150",
+                  "popularity": 370,
+                  "engagementCount": 441
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-17T23:26:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50136150"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50136150",
+              "popularity": 370,
+              "engagementCount": 441
+            }
+          ]
+        },
+        {
+          "title": "macOS 15.8.2 Breaks OpenGL",
+          "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+          "summary": "La mise à jour macOS 15.8.2 entraîne des problèmes techniques sur la bibliothèque de traitement graphique OpenGL. Les utilisateurs signalent que les applications basées sur OpenGL ne fonctionnent pas correctement avec cette version du système d'exploitation.",
+          "meta": "261 votes · 293 commentaires",
+          "snapshot": {
+            "sourceId": "50141909",
+            "capturedAt": "2026-10-19T09:53:57.236Z",
+            "metadata": {
+              "popularity": 261,
+              "engagementCount": 293,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50141909",
+                  "popularity": 261,
+                  "engagementCount": 293
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-18T15:26:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50141909"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50141909",
+              "popularity": 261,
+              "engagementCount": 293
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "deepseek-ai/DeepSeek-V4.1-Flash-1017, partagé sur Hugging Face, est un modèle d'intelligence artificielle qui traite des entrées visuelles et textuelles pour produire une sortie textuelle. Le modèle offre la capacité d'analyser en combinant des données d'image et de texte.",
+          "meta": "♥ 1 515 · 17 924 téléchargements",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-19T09:53:57.071Z",
+            "metadata": {
+              "popularity": 1515,
+              "engagementCount": 17924,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1392,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+          "summary": "openbmb/MiniCPM-V-4.7-35B-A3B, partagé sur Hugging Face, est un modèle d'intelligence artificielle qui traite des entrées visuelles et textuelles pour produire une sortie textuelle. Se distinguant par sa capacité de conversion d'image en texte (image-to-text), ce modèle est utilisé dans les processus de traitement de données multimodales.",
+          "meta": "♥ 1 025 · 76 410 téléchargements",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM-V-4.7-35B-A3B",
+            "capturedAt": "2026-10-19T09:53:57.071Z",
+            "metadata": {
+              "popularity": 1025,
+              "engagementCount": 76410,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 839,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minicpmv4_7",
+                  "image-text-to-text",
+                  "minicpm-v",
+                  "multimodal",
+                  "On-Device Model",
+                  "lightweight",
+                  "moe",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          }
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "embeddinggemma-2, développé par Google, est un modèle d'extraction de caractéristiques (feature-extraction) qui convertit les textes en vecteurs numériques. Présent sur la plateforme Hugging Face, ce modèle permet le traitement des données dans les applications d'intelligence artificielle.",
+          "meta": "♥ 2 683 · 167 750 téléchargements",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-19T09:53:57.071Z",
+            "metadata": {
+              "popularity": 2683,
+              "engagementCount": 167750,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 701,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "feature-extraction model"
+          }
+        },
+        {
+          "title": "fishaudio/drama-3",
+          "url": "https://huggingface.co/fishaudio/drama-3",
+          "summary": "fishaudio/drama-3, partagé sur Hugging Face, est un modèle de synthèse vocale (text-to-speech) qui convertit le texte en parole. Ce modèle a été développé dans le but de transformer des contenus écrits en données audio.",
+          "meta": "♥ 723 · 11 795 téléchargements",
+          "snapshot": {
+            "sourceId": "fishaudio/drama-3",
+            "capturedAt": "2026-10-19T09:53:57.071Z",
+            "metadata": {
+              "popularity": 723,
+              "engagementCount": 11795,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 696,
+                "pipelineTag": "text-to-speech",
+                "tags": [
+                  "safetensors",
+                  "fish_omni",
+                  "fish-audio",
+                  "text-to-speech",
+                  "multi-speaker",
+                  "audio-editing",
+                  "emotional-speech-generation",
+                  "zh",
+                  "en",
+                  "ja",
+                  "ko",
+                  "es",
+                  "pt",
+                  "ar",
+                  "ru",
+                  "fr",
+                  "de",
+                  "sv",
+                  "it",
+                  "tr",
+                  "no",
+                  "nl",
+                  "cy",
+                  "eu",
+                  "ca",
+                  "da",
+                  "gl",
+                  "ta",
+                  "hu",
+                  "fi",
+                  "pl",
+                  "et",
+                  "hi",
+                  "la",
+                  "ur",
+                  "th",
+                  "vi",
+                  "jw",
+                  "bn",
+                  "yo",
+                  "sl",
+                  "cs",
+                  "sw",
+                  "nn",
+                  "he",
+                  "ms",
+                  "uk",
+                  "id",
+                  "kk",
+                  "bg",
+                  "lv",
+                  "my",
+                  "tl",
+                  "sk",
+                  "ne",
+                  "fa",
+                  "af",
+                  "el",
+                  "bo",
+                  "hr",
+                  "ro",
+                  "sn",
+                  "mi",
+                  "yi",
+                  "am",
+                  "be",
+                  "km",
+                  "is",
+                  "az",
+                  "sd",
+                  "br",
+                  "sq",
+                  "ps",
+                  "mn",
+                  "ht",
+                  "ml",
+                  "sr",
+                  "sa",
+                  "te",
+                  "ka",
+                  "bs",
+                  "pa",
+                  "lt",
+                  "kn",
+                  "si",
+                  "hy",
+                  "mr",
+                  "as",
+                  "gu",
+                  "fo",
+                  "arxiv:2610.18010",
+                  "license:other",
+                  "bsgemm-moe",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-speech model"
+          }
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "flux-3-image-klein-comfy, développé par Black Forest Labs, est un modèle d'intelligence artificielle permettant la conversion d'image à image (image-to-image). Il offre une structure qui permet aux utilisateurs de générer de nouvelles sorties basées sur des images existantes.",
+          "meta": "♥ 857 · 393 062 téléchargements",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-19T09:53:57.071Z",
+            "metadata": {
+              "popularity": 857,
+              "engagementCount": 393062,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 672,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AI-Driven Disaster Response and Displacement Monitoring",
+          "url": "https://huggingface.co/papers/2610.21482",
+          "summary": "L'article partagé par Hugging Face traite de l'utilisation de l'intelligence artificielle dans les missions d'aide humanitaire telles que l'intervention en cas de catastrophe et le suivi des déplacements. L'étude examine la production de solutions axées sur les données pour les défis mondiaux en analysant les images satellites et les données socio-économiques à l'aide d'algorithmes d'apprentissage automatique (machine learning).",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.21482",
+            "capturedAt": "2026-10-19T09:53:57.081Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21482",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "ARTIFICIAL INTELLIGENCE (AI) has demonstrated its potential across a wide range of humanitarian tasks, offering scalable and data-driven solutions to some of the world's most pressing challenges. For instance, in addressing climate change, AI-powered models are being used for faster and more accurate global weather forecasting, control and design of renewable energy, and monitoring deforestation. Machine learning algorithms analyze satellite imagery and socioeconomic data to predict poverty and "
+          }
+        },
+        {
+          "title": "Xiaomi-Lens-0 Technical Report",
+          "url": "https://huggingface.co/papers/2610.23279",
+          "summary": "Xiaomi-Lens-0 est un modèle à 4 milliards de paramètres développé pour remédier aux lacunes des grands modèles de langage multimodaux (multimodal large language models) dans la compréhension des détails visuels. Créé sur la base de Qwen3.5, ce système permet une analyse plus précise de régions spécifiques au sein d'une image en effectuant une prédiction de masque à partir de représentations visuelles.",
+          "meta": "11 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.23279",
+            "capturedAt": "2026-10-19T09:53:57.081Z",
+            "metadata": {
+              "popularity": 11,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.23279",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/SeerRay-Lab/Xiaomi-Lens-0",
+                "githubStars": 10
+              }
+            },
+            "description": "Multimodal large language models (MLLMs) answer questions about whole images well, yet they still struggle with fine-grained region understanding. A key reason is that text-only supervision never specifies which regions support an answer. To close this gap, we present Xiaomi-Lens-0, a 4B MLLM built on Qwen3.5 that predicts masks from its own visual representations. Specifically, a lightweight decoder combines vision-encoder patch features with visual latents, the language model's mask-token stat"
+          }
+        },
+        {
+          "title": "MTEdit: Packed Trajectories Beat Rollouts for Multi-Turn Image Editing",
+          "url": "https://huggingface.co/papers/2610.23751",
+          "summary": "MTEdit, partagé par Hugging Face, est un ensemble de données visant à réduire l'accumulation d'erreurs et la dégradation de la qualité de l'image (visual-quality drift) lors des processus d'édition visuelle multi-étapes. Contrairement aux méthodes de traitement séquentiel traditionnelles, il vise à améliorer les processus d'édition basés sur la collaboration entre l'humain et l'IA en utilisant des trajectoires groupées (packed trajectories).",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.23751",
+            "capturedAt": "2026-10-19T09:53:57.081Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.23751",
+                "publishedAt": "2026-10-16T00:00:00.000Z"
+              }
+            },
+            "description": "Multi-turn image editing aims to modify an image according to a sequence of instructions, making it better aligned with human-AI collaborative creation than single-turn editing. However, constructing high-quality multi-turn training data remains challenging, as conventional sequential rollout accumulates errors and introduces visual-quality drift across editing turns. To address this challenge, we introduce MTEdit, a multi-turn image editing dataset built through a pipeline centered on packed tr"
+          }
+        },
+        {
+          "title": "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets",
+          "url": "https://huggingface.co/papers/2610.09872",
+          "summary": "LiveMACEBench est un outil d'évaluation (benchmark) qui évalue les capacités des grands modèles de langage (LLM) à travers des marchés financiers volatils avec une approche axée sur les processus. Ce système se concentre non seulement sur les résultats obtenus par les agents, mais aussi sur les processus qu'ils utilisent pour produire ces résultats et sur leur capacité à s'adapter aux conditions extérieures.",
+          "meta": "30 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.09872",
+            "capturedAt": "2026-10-19T09:53:57.081Z",
+            "metadata": {
+              "popularity": 30,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09872",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/RaymondVoldemortFu/LiveMACE",
+                "githubStars": 4
+              }
+            },
+            "description": "Evaluating agents by outcomes alone can obscure the capabilities that produce them. This problem is especially pronounced in evolving environments, where outcomes reflect a closed-loop interaction between agent behavior and changing external conditions. We introduce LiveMACEBench, a process-aware benchmark that uses live financial markets as a naturally evolving testbed for persistent LLM agents. Five frontier LLMs operate along continuous trajectories under matched Tool Use, Persistent Memory, "
+          }
+        },
+        {
+          "title": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
+          "url": "https://huggingface.co/papers/2610.23121",
+          "summary": "Scene-Designer est un cadre d'intelligence artificielle conçu pour créer des scènes d'intérieur en trois dimensions à partir du langage naturel. Le système vise à améliorer la cohérence et l'utilisabilité des scènes en combinant les processus de conception et de critique.",
+          "meta": "38 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.23121",
+            "capturedAt": "2026-10-19T09:53:57.081Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.23121",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/ZJU-OmniAI/Scene-Designer",
+                "githubStars": 12
+              }
+            },
+            "description": "Generating complete, coherent, and usable 3D indoor scenes from natural language requires strong design intelligence: the ability to design high-quality scenes and critique their quality. However, existing approaches either rely on general-purpose models lacking domain-specific design experience or learn from static scenes. In this work, we introduce Scene-Designer, an agentic framework that learns design intelligence through complementary design and critique experiences. We construct two datase"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Un squelette de travail fondamental qui accélère le processus de développement logiciel et propose des règles et des structures spécifiques."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Petits programmes utilitaires utilisés pour étendre les fonctionnalités du logiciel principal ou pour ajouter de nouvelles capacités."
+    },
+    {
+      "term": "open source",
+      "explanation": "Type de logiciel dont le code source est ouvert à tous pour examen, modification et amélioration."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Méthode permettant à l'intelligence artificielle de scanner et d'utiliser des données provenant de sources externes pour générer des réponses avec des informations plus précises et à jour."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface textuelle qui permet de gérer les programmes en saisissant des commandes écrites plutôt qu'avec une souris."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "Espace de stockage qui permet à l'intelligence artificielle de conserver les interactions et informations passées pendant une longue période et de s'en souvenir lors des opérations ultérieures."
+    },
+    {
+      "term": "prompts",
+      "explanation": "Commandes directrices écrites pour demander à une intelligence artificielle d'effectuer une opération spécifique ou de fournir une réponse."
+    },
+    {
+      "term": "jailbreak",
+      "explanation": "Tentative de désactivation des filtres de sécurité ou des restrictions des modèles d'intelligence artificielle."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Systèmes d'intelligence artificielle autonomes capables d'automatiser les processus de développement logiciel, d'écrire du code et de déboguer."
+    },
+    {
+      "term": "remote runtime",
+      "explanation": "Exécution d'un logiciel sur un serveur distant accessible via Internet plutôt que sur votre propre ordinateur."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacités spécialisées qu'un logiciel ou une intelligence artificielle possède pour accomplir des tâches spécifiques."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "video restoration tool",
+      "explanation": "Outil logiciel qui répare les vidéos anciennes ou de faible qualité et améliore la netteté de l'image."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Technique d'intelligence artificielle qui génère des images ou traite des données étape par étape en partant d'un bruit aléatoire."
+    },
+    {
+      "term": "latent space",
+      "explanation": "Espace abstrait où l'intelligence artificielle représente mathématiquement les données et où les relations complexes sont exprimées par des valeurs numériques."
+    },
+    {
+      "term": "image-to-text",
+      "explanation": "Technologie qui analyse le contenu visuel et génère des textes décrivant ou expliquant ce contenu."
+    }
+  ]
+}

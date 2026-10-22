@@ -62,7 +62,7 @@ O aplicativo automatiza o agendamento e está com você em qualquer lugar. O pap
 - [Lifelong Learning](https://trescout.com/pt/dictionary/lifelong-learning/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/flashcards/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/flashcards/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/flashcards/

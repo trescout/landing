@@ -46,6 +46,7 @@ Um mit der Installation von Odoo zu beginnen, müssen Sie den Installationsanwei
 ## Verwandte Begriffe aus dem Glossar
 
 - [Enterprise Resource Planning](https://trescout.com/de/dictionary/enterprise-resource-planning/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Unternehmen, die alle ihre betrieblichen Prozesse auf einer einzigen Plattform verwalten möchten.
 
@@ -54,7 +55,7 @@ Um mit der Installation von Odoo zu beginnen, müssen Sie den Installationsanwei
 - [GitHub-Repository →](https://github.com/odoo/odoo)
 - [Auf Türkisch lesen →](https://trescout.com/discover/odoo/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/odoo/

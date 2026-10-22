@@ -66,7 +66,7 @@ O marketing se prepara, as vendas fecham. Ambas são extremidades do mesmo funil
 - [Meta-skill](https://trescout.com/pt/dictionary/meta-skill/)
 - [SEO](https://trescout.com/pt/dictionary/seo/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/marketing-skills/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/marketing-skills/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/marketing-skills/

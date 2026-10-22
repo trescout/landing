@@ -47,7 +47,7 @@ Massive data flowing from sensors is fed into artificial intelligence models to 
 - [Aspnetcore](https://trescout.com/en/discover/aspnetcore/)
 - [Tailcat](https://trescout.com/en/discover/tailcat/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/iot/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/iot/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/iot/

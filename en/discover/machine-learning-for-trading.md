@@ -33,6 +33,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I use machine learning models in data analysis and strategy development processes in financial markets? Based on the case studies in this tool, explain step by step the workflow of a trading strategy from data source to live processing and the role of AI agents in this process.
 
+Repository: https://github.com/stefan-jansen/machine-learning-for-trading. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Machine Learning](https://trescout.com/en/dictionary/machine-learning/)
@@ -47,7 +55,7 @@ How can I use machine learning models in data analysis and strategy development 
 - [GitHub repository →](https://github.com/stefan-jansen/machine-learning-for-trading)
 - [Read in Turkish →](https://trescout.com/discover/machine-learning-for-trading/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-02: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-02: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/machine-learning-for-trading/

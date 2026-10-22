@@ -2,16 +2,16 @@
 
 Open Science, développé par AIPOCH, propose un environnement de travail IA local et indépendant du modèle pour la recherche scientifique. Le logiciel combine des notebooks Python et R avec des connexions de données pour permettre la réalisation de processus scientifiques reproductibles.
 
-- ★ 4 877
+- ★ 5 307
 - TypeScript
 - GitHub Trending · 2026-09-07
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 4,877 → 5,307, dernière version v1.0.1 (20 octobre 2026).
 - **15 octobre 2026:** Étoiles 5,161 → 4,877, dernière version v1.0.0 (14 octobre 2026).
 - **13 octobre 2026:** Étoiles 5,518 → 5,161, dernière version v0.37.2 (13 octobre 2026).
 - **12 octobre 2026:** Étoiles 5,509 → 5,518, dernière version v0.37.1 (12 octobre 2026).
-- **11 octobre 2026:** Étoiles 5,488 → 5,509, dernière version v0.37.0 (11 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -43,6 +43,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aide-moi dans mon processus de recherche scientifique. Soutiens-moi en écrivant du code Python ou R lors de la revue de littérature, de l'élaboration d'hypothèses et des processus d'analyse de données. En comprenant mes objectifs de recherche et en lisant les fichiers, en effectuant des recherches sur le web et en interrogeant des données scientifiques, produis des résultats, des tableaux et des graphiques traçables.
 
+Dépôt : https://github.com/aipoch/open-science. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Local-first](https://trescout.com/fr/dictionary/local-first/)
@@ -56,7 +64,7 @@ Aide-moi dans mon processus de recherche scientifique. Soutiens-moi en écrivant
 - [Dépôt GitHub →](https://github.com/aipoch/open-science)
 - [Lire en turc →](https://trescout.com/discover/open-science/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/open-science/

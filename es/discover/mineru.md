@@ -43,6 +43,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero convertir los complejos documentos PDF y Office que tengo a un formato que mi agente de inteligencia artificial pueda entender. Necesito convertir estos archivos al formato Markdown o JSON usando la herramienta MinerU. ¿Cómo puedo iniciar este proceso de transformación y utilizar los resultados de manera más eficiente en mis flujos de trabajo basados ​​en agentes?
 
+Repositorio: https://github.com/opendatalab/MinerU. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Agentic Workflows](https://trescout.com/es/dictionary/agentic-workflows/)
@@ -59,7 +67,7 @@ Quiero convertir los complejos documentos PDF y Office que tengo a un formato qu
 - [Repositorio en GitHub →](https://github.com/opendatalab/MinerU)
 - [Leer en turco →](https://trescout.com/discover/mineru/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-26: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-26: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/mineru/

@@ -63,13 +63,21 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 TencentDB Agent Memory kullanarak yapay zekâ ajanımın uzun süreli hafızasını yapılandır. Verileri düz bir vektör yığını yerine, kısa süreli görevler için sembolik Mermaid grafiklerini ve uzun süreli deneyimler için L0-L3 arası katmanlı bellek piramidini kullan. Ajanın geçmiş konuşmaları, atomik gerçekleri ve kullanıcı tercihlerini bu hiyerarşik yapıda saklamasını ve ihtiyaç anında node_id üzerinden tam izlenebilirlik ile geri çağırmasını sağla.
 
+Depo: https://github.com/TencentCloud/TencentDB-Agent-Memory. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ ajanlarının bağlamı unutmasını istemeyen ve token maliyetlerini düşürerek daha tutarlı sonuçlar almayı hedefleyen geliştiriciler içindir.
 
 ## Bağlantılar
 
 - [GitHub deposu →](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

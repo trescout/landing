@@ -40,6 +40,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite mettre en place un système d'authentification sécurisé pour mon application à l'aide de Logto. Comment puis-je configurer des fonctionnalités de contrôle d'accès mutualisé et basé sur les rôles dans cette structure basée sur les protocoles OIDC et OAuth 2.1 ? Pouvez-vous expliquer les étapes de base que je dois suivre pour gérer les flux de connexion des utilisateurs et l'intégration du SSO d'entreprise dans mon projet SaaS ?
 
+Dépôt : https://github.com/logto-io/logto. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [OIDC](https://trescout.com/fr/dictionary/oidc/)
@@ -57,7 +65,7 @@ Je souhaite mettre en place un système d'authentification sécurisé pour mon a
 - [Dépôt GitHub →](https://github.com/logto-io/logto)
 - [Lire en turc →](https://trescout.com/discover/logto/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-30 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-30 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/logto/

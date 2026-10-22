@@ -2,15 +2,16 @@
 
 Anthropic offers an official directory that collects high-quality plugins developed for Claude Code in a single center. This Python-based structure allows developers to share and discover tools prepared for coding assistants in a standard format.
 
-- ★ 37,531
+- ★ 42,145
 - Python
 - GitHub Trending · 2026-06-24
 
 ## Updates
 
+- **October 18, 2026:** Stars 39,644 → 42,145.
+- **October 16, 2026:** Stars 37,531 → 39,644.
 - **October 8, 2026:** Stars 35,717 → 37,531.
 - **August 31, 2026:** Stars 32,968 → 35,717.
-- **August 2, 2026:** Stars 30,960 → 32,968.
 
 ## What you get
 
@@ -28,6 +29,7 @@ You can browse available plugins using the '/plugin > Discover' menu in the Clau
 
 - [Tools](https://trescout.com/en/dictionary/tools/)
 - [Plugin](https://trescout.com/en/dictionary/plugin/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for software developers who use Claude Code and want to customize the coding assistant's capabilities.
 - **License:** Apache-2.0
@@ -37,7 +39,7 @@ You can browse available plugins using the '/plugin > Discover' menu in the Clau
 - [GitHub repository →](https://github.com/anthropics/claude-plugins-official)
 - [Read in Turkish →](https://trescout.com/discover/claude-plugins-official/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-24: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-24: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/claude-plugins-official/

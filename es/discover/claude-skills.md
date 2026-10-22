@@ -2,16 +2,16 @@
 
 Desarrollada para Claude Code y varios agentes de codificación, esta biblioteca ofrece más de 330 paquetes de habilidades y más de 70 comandos especiales en diferentes campos, desde ingeniería hasta marketing. Este conjunto de herramientas basado en Python proporciona scripts personalizables para estandarizar los flujos de trabajo basados ​​en IA y aumentar la productividad.
 
-- ★ 27.840
+- ★ 28.485
 - Python
 - GitHub Trending · 2026-07-05
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 27,840 → 28,485, última versión v2.13.0 (21 de octubre de 2026).
 - **8 de octubre de 2026:** Estrellas 26,514 → 27,840, última versión v2.12.0 (25 de agosto de 2026).
 - **27 de septiembre de 2026:** Estrellas 25,061 → 26,514, última versión v2.12.0 (25 de agosto de 2026).
 - **27 de agosto de 2026:** Estrellas 24,867 → 25,061, última versión v2.12.0 (25 de agosto de 2026).
-- **24 de agosto de 2026:** Estrellas 23,654 → 24,867, última versión v2.9.0 (28 de mayo de 2026).
 
 ## Qué aporta
 
@@ -65,6 +65,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Active los paquetes de habilidades en esta biblioteca para Claude Code o el agente de codificación que utilice. Estandarice mi flujo de trabajo y aumente mi productividad utilizando scripts especializados en campos como ingeniería, marketing o consultoría de nivel C. Integrar las capacidades específicas que necesito (por ejemplo, auditoría de seguridad o desarrollo de productos) en mi proyecto.
 
+Repositorio: https://github.com/alirezarezvani/claude-skills. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [AI Skills](https://trescout.com/es/dictionary/ai-skills/)
@@ -79,7 +87,7 @@ Active los paquetes de habilidades en esta biblioteca para Claude Code o el agen
 - [Repositorio en GitHub →](https://github.com/alirezarezvani/claude-skills)
 - [Leer en turco →](https://trescout.com/discover/claude-skills/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/claude-skills/

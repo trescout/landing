@@ -2,7 +2,7 @@
 
 OpenCode is an open source coding agent designed to automate software development processes. Developed with the TypeScript language, this tool offers autonomous task execution capabilities in software projects.
 
-- ★ 212,636
+- ★ 214,176
 - TypeScript
 - GitHub Trending · 2026-06-28
 
@@ -10,10 +10,10 @@ OpenCode is an open source coding agent designed to automate software developmen
 
 ## Updates
 
+- **October 16, 2026:** Stars 214,103 → 214,176, latest release v1.19.3 (October 16, 2026).
+- **October 16, 2026:** Stars 212,636 → 214,103, latest release v1.19.2 (October 16, 2026).
 - **October 11, 2026:** Stars 212,128 → 212,636, latest release v1.19.0 (October 11, 2026).
 - **October 7, 2026:** Stars 211,200 → 212,128, latest release v1.18.35 (October 6, 2026).
-- **October 1, 2026:** Stars 210,526 → 211,200, latest release v1.18.34 (September 30, 2026).
-- **September 28, 2026:** Stars 210,245 → 210,526, latest release v1.18.33 (September 28, 2026).
 
 ## What you get
 
@@ -35,6 +35,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I would like you to analyze the codes in my current software project using the OpenCode tool and help automate the development processes. You can develop with full access during runtime using the build agent, or you can review the codes and plan changes using the plan agent. For complex searches or multi-step tasks, I expect you to use @general.
 
+Repository: https://github.com/anomalyco/opencode. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Coding Agent](https://trescout.com/en/dictionary/coding-agent/)
@@ -49,7 +57,7 @@ I would like you to analyze the codes in my current software project using the O
 - [GitHub repository →](https://github.com/anomalyco/opencode)
 - [Read in Turkish →](https://trescout.com/discover/opencode/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/opencode/

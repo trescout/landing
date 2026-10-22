@@ -38,7 +38,7 @@ Changing the main code causes all your modifications to be deleted when the soft
 
 - [Everything Claude Code](https://trescout.com/en/discover/everything-claude-code/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/hooks/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/hooks/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/hooks/

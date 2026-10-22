@@ -75,7 +75,7 @@ It depends on the task: Accuracy, speed, and cost are evaluated together. A sing
 - [SIA](https://trescout.com/en/discover/sia/)
 - [Harvey Labs](https://trescout.com/en/discover/harvey-labs/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/benchmark/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/benchmark/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/benchmark/

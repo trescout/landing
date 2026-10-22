@@ -42,7 +42,7 @@ Não; a aba anônima apenas não salva o histórico de navegação e os cookies,
 - [Web Scraping](https://trescout.com/pt/dictionary/web-scraping/)
 - [Stealth Headless Browser](https://trescout.com/pt/dictionary/stealth-headless-browser/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/fingerprint/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/fingerprint/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/fingerprint/

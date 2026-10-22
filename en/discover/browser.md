@@ -53,6 +53,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a web automation expert. I want you to extract data from the specified website as efficiently as possible using the Lightpanda headless browser. Optimize memory usage, comply with robots.txt rules, and present the obtained data in a structured format. Dynamically adjust the necessary waiting times (wait-selector or wait-ms) to reduce the margin of error while performing the operation.
 
+Repository: https://github.com/lightpanda-io/browser. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Headless Browser](https://trescout.com/en/dictionary/headless-browser/)
@@ -67,7 +75,7 @@ You are a web automation expert. I want you to extract data from the specified w
 - [GitHub repository →](https://github.com/lightpanda-io/browser)
 - [Read in Turkish →](https://trescout.com/discover/browser/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/browser/

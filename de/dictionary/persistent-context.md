@@ -39,7 +39,7 @@ Daten des persistenten Kontexts werden in verschlüsselten Datenbanken gespeiche
 - [Long-term Memory](https://trescout.com/de/dictionary/long-term-memory/)
 - [Vector Database](https://trescout.com/de/dictionary/vector-database/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/persistent-context/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/persistent-context/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/persistent-context/

@@ -2,16 +2,16 @@
 
 Omlx, Apple Silicon (M1/M2/M3/M4) işlemcili Mac bilgisayarlar için sürekli yığınlama (continuous batching) ve SSD önbellekleme (SSD caching) yetenekleri sunan yeni nesil bir yerel büyük dil modeli (LLM) çıkarım sunucusudur. Apple MLX altyapısını OpenAI uyumlu API ve macOS menü çubuğu arayüzüyle birleştirir.
 
-- ★ 22.825
+- ★ 22.973
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 22.855 → 22.973, son sürüm v0.7.2 (21 Ekim 2026).
+- **16 Ekim 2026:** Yıldız 22.825 → 22.855, son sürüm v0.7.1rc1 (15 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 22.655 → 22.825, son sürüm v0.7.1.dev2 (15 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 22.409 → 22.655, son sürüm v0.7.1.dev1 (9 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 22.280 → 22.409, son sürüm v0.7.0 (30 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 21.147 → 22.280, son sürüm v0.7.0rc1 (24 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -74,6 +74,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Apple Silicon Mac bilgisayarımda Omlx sunucusunu kullanarak yerel bir büyük dil modelini çalıştırmak istiyorum. Homebrew ile kurulumu tamamladıktan sonra sunucuyu arka planda çalıştıracak, menü çubuğundan model seçimini yönetecek ve Cursor kod editörü veya Python openai kütüphanesi üzerinden bu yerel modele nasıl bağlanacağımı adım adım açıklar mısın?
 
+Depo: https://github.com/jundot/omlx. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Apple Silicon işlemcili Mac bilgisayarlarında büyük dil modellerini (LLM) en yüksek hızda ve yerel gizlilikle çalıştırmak isteyen yapay zekâ geliştiricileri içindir.
 - **Lisans:** Apache-2.0 (Açık kaynak lisansı)
 - **Çatı:** Apple MLX ve Python tabanlı yerel çıkarım motoru
@@ -90,7 +98,7 @@ Apple Silicon Mac bilgisayarımda Omlx sunucusunu kullanarak yerel bir büyük d
 
 - [GitHub deposu →](https://github.com/jundot/omlx)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

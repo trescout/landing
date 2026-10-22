@@ -2,16 +2,16 @@
 
 Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.
 
-- ★ 26.784
+- ★ 27.438
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Güncelleme
 
-- **15 Ekim 2026:** Yıldız 26.630 → 26.784, son sürüm v0.6.44 (14 Ekim 2026).
-- **14 Ekim 2026:** Yıldız 25.978 → 26.630, son sürüm v0.6.43 (14 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 25.943 → 25.978, son sürüm v0.6.42 (12 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 25.744 → 25.943, son sürüm v0.6.41 (12 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 27.338 → 27.438, son sürüm v0.6.50 (20 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 27.216 → 27.338, son sürüm v0.6.49 (19 Ekim 2026).
+- **19 Ekim 2026:** Yıldız 27.082 → 27.216, son sürüm v0.6.48 (19 Ekim 2026).
+- **18 Ekim 2026:** Yıldız 27.027 → 27.082, son sürüm v0.6.47 (17 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -63,6 +63,14 @@ docker run -d --pull=always --name dbx -p 4224:4224 \
 -v dbx-data:/app/data \
 t8y2/dbx:latest komutunu çalıştır.
 
+Depo: https://github.com/t8y2/dbx. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Farklı veritabanı türlerini hafif bir arayüz ve yapay zekâ desteğiyle yönetmek isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 
@@ -70,7 +78,7 @@ t8y2/dbx:latest komutunu çalıştır.
 
 - [GitHub deposu →](https://github.com/t8y2/dbx)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

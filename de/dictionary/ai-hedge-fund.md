@@ -38,7 +38,7 @@ Es werden weiterhin Experten benötigt, die die Algorithmen überwachen und die 
 
 - [AI Hedge Fund](https://trescout.com/de/discover/ai-hedge-fund/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/ai-hedge-fund/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/ai-hedge-fund/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-hedge-fund/

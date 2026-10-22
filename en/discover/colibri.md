@@ -2,16 +2,16 @@
 
 Colibri is a C-based engine that enables running large-scale Mixture of Experts (MoE) models on local computers with low hardware requirements. By streaming expert layers from the disk, it makes it possible to run high-capacity AI models on limited hardware.
 
-- ★ 40,157
+- ★ 42,279
 - C
 - GitHub Trending · 2026-09-11
 
 ## Updates
 
+- **October 16, 2026:** Stars 40,157 → 42,279, latest release v2.0.0 (October 6, 2026).
 - **October 7, 2026:** Stars 39,698 → 40,157, latest release v2.0.0 (October 6, 2026).
 - **October 5, 2026:** Stars 37,791 → 39,698, latest release v1.12.1 (September 24, 2026).
 - **September 27, 2026:** Stars 36,260 → 37,791, latest release v1.12.1 (September 24, 2026).
-- **September 19, 2026:** Stars 34,474 → 36,260, latest release v1.11.0 (September 13, 2026).
 
 ## What you get
 
@@ -46,6 +46,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run large-scale AI models on my local computer using the Colibri engine. Configure it to use my hardware resources (VRAM, RAM, and NVMe disk) in the most efficient way possible. Explain step-by-step how I can optimize and run models like GLM or DeepSeek according to my system's memory capacity.
 
+Repository: https://github.com/JustVugg/colibri. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Mixture of Experts](https://trescout.com/en/dictionary/mixture-of-experts/)
@@ -61,7 +69,7 @@ I want to run large-scale AI models on my local computer using the Colibri engin
 - [GitHub repository →](https://github.com/JustVugg/colibri)
 - [Read in Turkish →](https://trescout.com/discover/colibri/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-11: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-11: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/colibri/

@@ -2,16 +2,16 @@
 
 Cline is an autonomous coding agent that automates software development processes. It integrates into developers' projects by operating via an IDE extension, software development kit (SDK), or command-line interface (CLI).
 
-- ★ 70,270
+- ★ 70,444
 - TypeScript
 - GitHub Trending · 2026-09-18
 
 ## Updates
 
+- **October 17, 2026:** Stars 70,397 → 70,444, latest release desktop-v0.0.48 (October 17, 2026).
+- **October 16, 2026:** Stars 70,270 → 70,397, latest release desktop-v0.0.47 (October 16, 2026).
 - **October 13, 2026:** Stars 70,018 → 70,270, latest release desktop-v0.0.46 (October 13, 2026).
 - **October 8, 2026:** Stars 69,973 → 70,018, latest release desktop-v0.0.45 (October 8, 2026).
-- **October 7, 2026:** Stars 69,756 → 69,973, latest release v4.1.23 (October 7, 2026).
-- **October 3, 2026:** Stars 69,713 → 69,756, latest release desktop-v0.0.43 (October 2, 2026).
 
 ## What you get
 
@@ -47,6 +47,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Analyze the file structure of my project and perform the assigned task by taking into account the existing code standards and the rules in the .clinerules file. Perform error checking while making code changes, run the necessary commands in the terminal, and proceed by getting my approval at each step.
 
+Repository: https://github.com/cline/cline. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [IDE](https://trescout.com/en/dictionary/ide/)
@@ -63,7 +71,7 @@ Analyze the file structure of my project and perform the assigned task by taking
 - [GitHub repository →](https://github.com/cline/cline)
 - [Read in Turkish →](https://trescout.com/discover/cline/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/cline/

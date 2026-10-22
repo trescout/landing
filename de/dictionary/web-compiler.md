@@ -42,7 +42,7 @@ Die Verarbeitung Ihres Codes stoppt, da die Verarbeitung auf dem Remote-Server u
 
 - [SWC](https://trescout.com/de/discover/swc/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/web-compiler/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/web-compiler/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/web-compiler/

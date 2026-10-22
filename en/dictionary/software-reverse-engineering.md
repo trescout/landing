@@ -34,7 +34,7 @@ It is generally accepted for security research, but caution should be exercised 
 - [Binary](https://trescout.com/en/dictionary/binary/)
 - [Security Scanner](https://trescout.com/en/dictionary/security-scanner/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/software-reverse-engineering/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/software-reverse-engineering/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/software-reverse-engineering/

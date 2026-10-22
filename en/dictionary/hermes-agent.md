@@ -44,7 +44,7 @@ Since it is autonomous, it is important that its powers are limited and constant
 - [Hermes Agent](https://trescout.com/en/discover/hermes-agent/)
 - [Oh My Hermes](https://trescout.com/en/discover/oh-my-hermes/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/hermes-agent/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/hermes-agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/hermes-agent/

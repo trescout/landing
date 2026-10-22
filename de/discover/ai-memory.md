@@ -2,16 +2,16 @@
 
 Ai-memory wurde in Rust geschrieben und bietet eine Langzeitgedächtnislösung für Agenten der künstlichen Intelligenz. Es unterstützt die Kontinuität von Befehlszeilenschnittstellen (CLI), die in Softwareentwicklungsprozessen verwendet werden, indem es den Datentransfer zwischen verschiedenen Agentenanbietern erleichtert.
 
-- ★ 9.243
+- ★ 11.983
 - Rust
 - GitHub Trending · 2026-08-18
 
 ## Aktualisierungen
 
-- **14. Oktober 2026:** Sterne 9,195 → 9,243, neueste Version v3.0.0 (14. Oktober 2026).
-- **13. Oktober 2026:** Sterne 9,161 → 9,195, neueste Version v2.6.6 (13. Oktober 2026).
-- **12. Oktober 2026:** Sterne 9,156 → 9,161, neueste Version v2.6.5 (12. Oktober 2026).
-- **12. Oktober 2026:** Sterne 9,098 → 9,156, neueste Version v2.6.4 (12. Oktober 2026).
+- **21. Oktober 2026:** Sterne 11,675 → 11,983, neueste Version v3.1.2 (20. Oktober 2026).
+- **20. Oktober 2026:** Sterne 10,123 → 11,675, neueste Version v3.1.1 (17. Oktober 2026).
+- **18. Oktober 2026:** Sterne 9,474 → 10,123, neueste Version v3.1.1 (17. Oktober 2026).
+- **16. Oktober 2026:** Sterne 9,243 → 9,474, neueste Version v3.1.0 (16. Oktober 2026).
 
 ## Was es bringt
 
@@ -38,7 +38,7 @@ Um mit der Nutzung des Tools zu beginnen, besuchen Sie die offizielle Seite auf 
 - [GitHub-Repository →](https://github.com/akitaonrails/ai-memory)
 - [Auf Türkisch lesen →](https://trescout.com/discover/ai-memory/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-18 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-18 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/ai-memory/

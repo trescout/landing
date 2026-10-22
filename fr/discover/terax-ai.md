@@ -2,12 +2,13 @@
 
 Terax-ai, en tant qu'environnement de développement local d'intelligence artificielle orienté terminal (espace de travail de développement natif IA), attire l'attention par sa structure de petite taille de 7 mégaoctets. Développé avec TypeScript, cet outil offre aux développeurs la possibilité de coder avec l'intelligence artificielle directement via le terminal.
 
-- ★ 8 790
+- ★ 9 324
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Mises à jour
 
+- **16 octobre 2026:** Étoiles 8,790 → 9,324, dernière version v0.9.0 (16 octobre 2026).
 - **2 août 2026:** Étoiles 8,121 → 8,790, dernière version v0.8.6 (27 juillet 2026).
 
 ## Ce que ça vous apporte
@@ -31,6 +32,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Créer des invites système spécifiques à mon projet à l'aide du panneau d'intelligence artificielle de Terax et gérer la mémoire du projet via le fichier TERAX.md. Acceptez ou rejetez les différences basées sur l'IA pour les modifications de code et effectuez des tâches en plusieurs étapes avec approbation à l'aide du mode plan.
 
+Dépôt : https://github.com/crynta/terax-ai. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
@@ -46,7 +55,7 @@ Créer des invites système spécifiques à mon projet à l'aide du panneau d'in
 - [Dépôt GitHub →](https://github.com/crynta/terax-ai)
 - [Lire en turc →](https://trescout.com/discover/terax-ai/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/terax-ai/

@@ -76,7 +76,7 @@ Oui. Les plateformes regroupent les compétences courantes, et vous écrivez les
 - [Claude Obsidian](https://trescout.com/fr/discover/claude-obsidian/)
 - [Stitch Skills](https://trescout.com/fr/discover/stitch-skills/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/agent-skills/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/agent-skills/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/agent-skills/

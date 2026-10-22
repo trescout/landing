@@ -40,7 +40,7 @@ While A/B testing focuses on a single change, MVT examines the interaction of mu
 - [Analytics Snippets](https://trescout.com/en/dictionary/analytics-snippets/)
 - [User Experience](https://trescout.com/en/dictionary/user-experience/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/mvt/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/mvt/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/mvt/

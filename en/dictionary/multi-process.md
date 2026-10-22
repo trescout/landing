@@ -43,7 +43,7 @@ It should be preferred for heavy workloads where security and stability are para
 
 - [Raddebugger](https://trescout.com/en/discover/raddebugger/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multi-process/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multi-process/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/multi-process/

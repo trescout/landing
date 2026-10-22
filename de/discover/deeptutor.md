@@ -2,16 +2,16 @@
 
 DeepTutor ist ein auf lebenslangem Lernen basierendes privates Nachhilfesystem, das personalisierte Bildungsprozesse mithilfe von Schülerdaten bietet. Das Projekt zielt darauf ab, das Lernerlebnis mit künstlicher Intelligenz unterstützten individualisierten Nachhilfemethoden zu optimieren.
 
-- ★ 40.928
+- ★ 41.717
 - Python
 - GitHub Trending · 2026-07-16
 
 ## Aktualisierungen
 
+- **19. Oktober 2026:** Sterne 40,928 → 41,717, neueste Version v1.6.15 (18. Oktober 2026).
 - **8. Oktober 2026:** Sterne 40,808 → 40,928, neueste Version v1.6.14 (8. Oktober 2026).
 - **5. Oktober 2026:** Sterne 40,358 → 40,808, neueste Version v1.6.13 (4. Oktober 2026).
 - **27. September 2026:** Sterne 40,334 → 40,358, neueste Version v1.6.12 (27. September 2026).
-- **27. September 2026:** Sterne 39,561 → 40,334, neueste Version v1.6.11 (24. September 2026).
 
 ## Was es bringt
 
@@ -53,6 +53,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich meinen Lernprozess mit dem DeepTutor-System personalisieren? Erklären Sie die grundlegenden Schritte, die ich befolgen muss, um meine eigenen KI-Partner zu erstellen und mein lebenslanges Lernerlebnis zu optimieren, indem ich meine benutzerdefinierten Schulungsmaterialien in dieses System integriere.
 
+Repository: https://github.com/HKUDS/DeepTutor. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Lifelong Learning](https://trescout.com/de/dictionary/lifelong-learning/)
@@ -69,7 +77,7 @@ Wie kann ich meinen Lernprozess mit dem DeepTutor-System personalisieren? Erklä
 - [GitHub-Repository →](https://github.com/HKUDS/DeepTutor)
 - [Auf Türkisch lesen →](https://trescout.com/discover/deeptutor/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/deeptutor/

@@ -71,7 +71,7 @@ Sim, existem opções como SuiteCRM e Odoo. O custo de hospedagem e manutenção
 - [Ever Gauzy](https://trescout.com/pt/discover/ever-gauzy/)
 - [DeskcommCRM](https://trescout.com/pt/discover/deskcommcrm/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/crm/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/crm/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/crm/

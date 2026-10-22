@@ -44,7 +44,7 @@ Au contraire, il est plus rapide car seules les parties concernées sont activé
 
 - [Colibri](https://trescout.com/fr/discover/colibri/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/mixture-of-experts/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/mixture-of-experts/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/mixture-of-experts/

@@ -60,6 +60,16 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer un assistant de recherche universitaire en utilisant le projet production-agentic-rag-course. Pour l'installation de base du projet, après avoir téléchargé le référentiel avec la commande git clone, je dois configurer le fichier .env et installer les dépendances avec uv sync. Ensuite, je souhaite vérifier que le système fonctionne sur http://localhost:8000/api/v1/health en démarrant tous les services avec la commande docker compose up --build -d. Pouvez-vous me guider sur les clés API et les configurations de service auxquelles je dois prêter attention dans ce processus ?
 
+Dépôt : https://github.com/jamwithai/production-agentic-rag-course. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Agentic](https://trescout.com/fr/dictionary/agentic/)
@@ -77,7 +87,7 @@ Je souhaite développer un assistant de recherche universitaire en utilisant le 
 - [Dépôt GitHub →](https://github.com/jamwithai/production-agentic-rag-course)
 - [Lire en turc →](https://trescout.com/discover/production-agentic-rag-course/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/production-agentic-rag-course/

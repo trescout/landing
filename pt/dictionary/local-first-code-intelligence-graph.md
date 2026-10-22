@@ -38,7 +38,7 @@ Sim, o sistema não necessita de conexão com a internet porque funciona totalme
 - [Local-first](https://trescout.com/pt/dictionary/local-first/)
 - [AI Coding Agent](https://trescout.com/pt/dictionary/ai-coding-agent/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/local-first-code-intelligence-graph/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/local-first-code-intelligence-graph/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/local-first-code-intelligence-graph/

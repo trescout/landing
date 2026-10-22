@@ -2,16 +2,16 @@
 
 Meshery est une plateforme de gestion de maillage de services conçue pour la gestion des infrastructures cloud natives. La plateforme permet d'effectuer les processus de configuration, de gestion du cycle de vie et d'analyse des performances dans des environnements cloud complexes à partir d'un centre unique.
 
-- ★ 11 942
+- ★ 12 023
 - TypeScript
 - GitHub Trending · 2026-06-15
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 11,942 → 12,023, dernière version v1.0.72 (20 octobre 2026).
 - **12 octobre 2026:** Étoiles 11,795 → 11,942, dernière version v1.0.71 (11 octobre 2026).
 - **15 septembre 2026:** Étoiles 11,669 → 11,795, dernière version v1.0.70 (14 septembre 2026).
 - **4 septembre 2026:** Étoiles 11,558 → 11,669, dernière version v1.0.69 (3 septembre 2026).
-- **24 août 2026:** Étoiles 11,488 → 11,558, dernière version v1.0.68 (24 août 2026).
 
 ## Ce que ça vous apporte
 
@@ -58,7 +58,7 @@ Pour commencer à utiliser Meshery, vous pouvez visiter meshery.io via votre nav
 - [Dépôt GitHub →](https://github.com/meshery/meshery)
 - [Lire en turc →](https://trescout.com/discover/meshery/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-15 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-15 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/meshery/

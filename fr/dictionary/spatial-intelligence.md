@@ -38,7 +38,7 @@ Car pour qu'un système se déplaçant dans le monde physique puisse avancer san
 
 - [Gods Eye View](https://trescout.com/fr/discover/gods-eye-view/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/spatial-intelligence/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/spatial-intelligence/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/spatial-intelligence/

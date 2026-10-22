@@ -56,6 +56,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite entraîner un modèle de langage de 64 millions de paramètres à partir de zéro avec PyTorch à l'aide du référentiel MiniMind. Pouvez-vous expliquer étape par étape comment préparer le tokenizer basé sur mon propre ensemble de données de texte turc, exécuter le script 1-pretrain.py, puis l'affiner avec LoRA ?
 
+Dépôt : https://github.com/jingyaogong/minimind. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Quelle quantité de VRAM est nécessaire pour entraîner MiniMind ? Le modèle de paramètres 64M peut être confortablement entraîné sur 6 Go à 12 Go de VRAM en fonction du paramètre de taille du lot ; Même RTX 3060 ou RTX 4060 suffisent.
@@ -82,7 +90,7 @@ Je souhaite entraîner un modèle de langage de 64 millions de paramètres à pa
 - [Dépôt GitHub →](https://github.com/jingyaogong/minimind)
 - [Lire en turc →](https://trescout.com/discover/minimind/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-31 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-31 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/minimind/

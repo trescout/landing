@@ -1,47 +1,53 @@
-# Patent Disclosure: Enabling disclosure, prior art, and software IP
+# What is patent disclosure?
 
 *Development · Last updated: September 20, 2026*
 
-Patent disclosure is the foundational legal requirement that an inventor must publicly disclose their technical invention in sufficient, clear detail so that a person skilled in the art can replicate it without undue experimentation.
+Patent disclosure (patent disclosure or invention notification) is the public declaration of the technical working principles, innovative claims, and application methods of an invention in a legal specification so that it can receive patent protection.
 
-## Etymology and the Social Contract of Patents
+## Etymology and the Principle of Social Exchange
 
-The word *patent* derives from Latin *patere* (to lie open or exposed). A patent is a societal contract: the state grants an inventor a temporary legal monopoly (typically 20 years) over their invention, but in exchange, the inventor must publicly teach the world how the invention works.
+The concept of patent disclosure is based on the "social exchange" principle underlying intellectual property law and modern industry. States or registration offices (USPTO, EPO, Turkish Patent and Trademark Office) grant an inventor or company a 20-year monopoly and commercial protection right over their invention. However, in return for this privilege, the inventor is required to give up keeping the invention as a trade secret and detail it with such clarity that a person skilled in the art in that field can make and use it.
+
+In the fields of software, artificial intelligence, and computer science, the patent disclosure process begins with the Invention Disclosure Form (IDF) between companies' R&D teams and patent attorneys. During this process, it is analyzed whether the software is a pure mathematical algorithm or a novel system architecture solving a tangible technical problem. An insufficient or ambiguous patent disclosure results in the direct rejection of the application or the patent being easily invalidated in courts in the future.
+
+***Analogy:** Imagine a chef developing a secret bread-baking technique that nobody else knows. If the chef keeps this technique as a trade secret, they cannot claim any legal rights if a competitor figures it out. Patent disclosure, on the other hand, is like the chef going to the local bakers' guild and disclosing the entire recipe word for word, from the oven temperature and fermentation time to the flour ratios and baking vessel. In exchange for this open recipe, the guild guarantees the chef the exclusive right to sell that bread for 20 years. At the end of the 20 years, the recipe becomes the common heritage of all humanity, and anyone can bake that bread. Patent disclosure is the commitment to share a secret with the public in order to gain a monopoly right.*
 
 ## Technical and Legal System Architecture
 
-A compliant patent disclosure document is composed of precise architectural sections:
+- Invention Disclosure Form (IDF): The initial technical document through which engineers formally present new systems, the solved technical problem, and the innovative mechanism to the in-house patent committee.
+- Prior Art: Academic publications, registered patents, and open-source repositories are scanned to verify whether the invention is globally novel.
+Software Patentability (Alice Criteria): Pure algorithms cannot be patented; it must be proven with technical evidence that the software provides a tangible technical improvement in CPU, memory, or network traffic.
+Claims and Specification: While the description section presents the operation of the system with sufficient clarity for a skilled engineer to implement it, the claims define the boundaries of legal protection.
 
-- **Enabling Disclosure:** The specification must describe the best mode of operation clearly enough that an experienced engineer in that field can build the system without guessing.
-- **Prior Art & Novelty:** The application must demarcate novelty by examining existing public knowledge, publications, and earlier patents.
-- **Claims Architecture:** The legal perimeter of exclusive protection, defining exactly what boundaries competitors cannot cross.
+## Sociological Dimension: The Balance Between Open Innovation and Intellectual Property
 
-## Sociological Dimension: Open Innovation vs Intellectual Property
+Patent disclosure represents the delicate balance between technological advancement and economic monopoly. If the patent disclosure obligation did not exist, companies would keep all critical technologies they develop as trade secrets in locked vaults, and innovation would be trapped in silos.
 
-The patent disclosure requirement transforms private trade secrets into public technical knowledge. Without mandatory disclosure, industrial breakthroughs might remain hidden forever behind corporate secrecy; disclosure allows competitors to invent around existing designs and fuel broader technological evolution.
+In contrast, there is a historical tension between the open-source movement (FOSS) and the patent system in the software world. Large tech companies sometimes build defensive or aggressive patent portfolios through patent trolls (NPEs) to stifle competitors. To overcome this tension, open-source licenses such as Apache 2.0 and GPLv3 include explicit patent protection clauses; additionally, consortia like the Open Invention Network (OIN) protect open-source software against patent lawsuits.
 
-## Common Mistakes and Historical Pitfalls
+## Common Mistakes and Misconceptions
 
-Engineers and founders often encounter critical pitfalls:
+- Early Public Disclosure: Sharing the technology on GitHub or presenting it at a conference before filing an application destroys its novelty.
+Insufficient Technical Disclosure: Omitting the operational steps of the system causes the patent to be invalidated in court.
+- Incorrect Inventorship Declaration: Adding managers who did not contribute or removing the actual engineer compromises the legitimacy of the patent.
 
-- **Inadvertent Public Disclosure Before Filing:** Demonstrating code at a conference or publishing on GitHub before submitting a patent application destroys legal novelty in most jurisdictions.
-- **Overly Vague Descriptions:** Vague patent applications risk invalidation in patent offices or courts for failure to meet the statutory enablement requirement.
+## Frequently Asked Questions
 
-*A patent disclosure is like trading an exclusive recipe with society: the state grants you the sole right to sell the cake for twenty years, but you must publish the exact ingredient list and baking instructions so everyone can learn from your craft.*
+**When should a patent disclosure be made?**
 
-## Frequently asked questions
+It must be submitted in writing to the internal patent committee and the official patent office before the technology is disclosed to the public, customers, or open-source repositories; otherwise, novelty is lost.
 
-**What does patent disclosure mean in engineering?**
+**How is a patent disclosure prepared for software algorithms?**
 
-It is the statutory requirement to explain a technical invention in full, replicable detail in a public patent filing in exchange for exclusive legal rights.
+Instead of pure mathematical code, it is prepared by explaining concrete technical effects such as how the software manages hardware resources, memory efficiency, data processing speed, or the reduction of network latency using diagrams.
 
-**What is prior art in patent evaluation?**
+**What is the difference between a trade secret and a patent disclosure?**
 
-Prior art encompasses all publicly available evidence, publications, patents, and products worldwide that existed before the filing date.
+In a trade secret, the algorithm or formula is completely hidden from the public and can be protected indefinitely; in a patent, the information is disclosed to the public, in exchange for which a 20-year legal monopoly protection is granted by the state.
 
-**How does patent disclosure differ from a trade secret?**
+**How do open-source projects affect patent disclosure processes?**
 
-A trade secret (like Coca-Cola's recipe) remains concealed indefinitely; a patent disclosure makes the technical design public in exchange for a 20-year legal monopoly.
+Open-source licenses (such as Apache 2.0) also grant patent rights to users; furthermore, open code pushed to GitHub is instantly counted as prior art, preventing others from patenting that idea.
 
 ## Related terms
 
@@ -51,7 +57,11 @@ A trade secret (like Coca-Cola's recipe) remains concealed indefinitely; a paten
 - [SBOM](https://trescout.com/en/dictionary/sbom/)
 - [Security Scanner](https://trescout.com/en/dictionary/security-scanner/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/patent-disclosure/)
+## Related tools
+
+- [Patent Disclosure Skill](https://trescout.com/en/discover/patent-disclosure-skill/)
+
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/patent-disclosure/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/patent-disclosure/

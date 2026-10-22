@@ -88,7 +88,7 @@ Não; enquanto o parser se concentra em extrair texto e dados do conteúdo do do
 
 - [PDF Inspector](https://trescout.com/pt/discover/pdf-inspector/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/pdf-inspector/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/pdf-inspector/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/pdf-inspector/

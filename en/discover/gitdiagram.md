@@ -57,6 +57,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Generate a system diagram of the GitHub repository I examined, based on the Gitdiagram architecture. Identify the main components, data flow directions, entry points, and external dependencies in the repository. Draw the architecture as a flowchart in Mermaid.js format and explain the function of each component in two sentences each.
 
+Repository: https://github.com/ahmedkhaleel2004/gitdiagram. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Critical warnings and limitations
 
 - Massive Monorepos: Monorepos containing tens of thousands of files can hit the GitHub API rate limit. Using a personal GitHub token expands the limits.
@@ -77,7 +85,7 @@ Generate a system diagram of the GitHub repository I examined, based on the Gitd
 - [GitHub repository →](https://github.com/ahmedkhaleel2004/gitdiagram)
 - [Read in Turkish →](https://trescout.com/discover/gitdiagram/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-19: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-19: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/gitdiagram/

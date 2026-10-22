@@ -87,7 +87,7 @@ CISC (x86-64) possui um rico conjunto de instruções que pode executar vários 
 - [Ghidra](https://trescout.com/pt/discover/ghidra/)
 - [Apollo-11](https://trescout.com/pt/discover/apollo-11/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/assembly/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/assembly/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/assembly/

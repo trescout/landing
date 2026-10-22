@@ -28,6 +28,7 @@ Instale o software apropriado para o seu dispositivo através do navegador usand
 
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [CLI](https://trescout.com/pt/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Adequado para desenvolvedores interessados ​​em segurança de hardware, sistemas embarcados e análise de protocolos.
 - **Licença:** MIT
@@ -37,7 +38,7 @@ Instale o software apropriado para o seu dispositivo através do navegador usand
 - [Repositório no GitHub →](https://github.com/geo-tp/ESP32-Bit-Pirate)
 - [Ler em turco →](https://trescout.com/discover/esp32-bit-pirate/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-01: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-01: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/esp32-bit-pirate/

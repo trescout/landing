@@ -56,6 +56,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit PyTorch mithilfe des MiniMind-Repositorys ein Sprachmodell mit 64 Millionen Parametern von Grund auf trainieren. Können Sie Schritt für Schritt erklären, wie ich den Tokenizer auf der Grundlage meines eigenen türkischen Textdatensatzes vorbereite, das Skript 1-pretrain.py ausführe und es dann mit LoRA verfeinere?
 
+Repository: https://github.com/jingyaogong/minimind. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Häufig gestellte Fragen
 
 - Wie viel VRAM ist zum Trainieren von MiniMind erforderlich? Das 64-M-Parametermodell kann je nach Stapelgrößeneinstellung bequem auf 6 GB bis 12 GB VRAM trainiert werden; Sogar RTX 3060 oder RTX 4060 reichen aus.
@@ -82,7 +90,7 @@ Ich möchte mit PyTorch mithilfe des MiniMind-Repositorys ein Sprachmodell mit 6
 - [GitHub-Repository →](https://github.com/jingyaogong/minimind)
 - [Auf Türkisch lesen →](https://trescout.com/discover/minimind/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-31 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-31 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/minimind/

@@ -24,6 +24,7 @@ Ce référentiel a été créé pour archiver les codes sources originaux de l'o
 
 - [Guidance Computer](https://trescout.com/fr/dictionary/guidance-computer/)
 - [Assembly](https://trescout.com/fr/dictionary/assembly/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux chercheurs et aux passionnés de technologie intéressés par l'histoire de l'aviation et la formation en génie logiciel.
 
@@ -32,7 +33,7 @@ Ce référentiel a été créé pour archiver les codes sources originaux de l'o
 - [Dépôt GitHub →](https://github.com/chrislgarry/Apollo-11)
 - [Lire en turc →](https://trescout.com/discover/apollo-11/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-22 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-22 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/apollo-11/

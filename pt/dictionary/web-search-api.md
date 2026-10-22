@@ -40,7 +40,7 @@ Geralmente, é oferecida uma certa cota de uso gratuito. No entanto, para pesqui
 - [AI Agent](https://trescout.com/pt/dictionary/ai-agent/)
 - [Knowledge Graph](https://trescout.com/pt/dictionary/knowledge-graph/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-search-api/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-search-api/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/web-search-api/

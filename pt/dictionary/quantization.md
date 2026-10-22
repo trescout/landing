@@ -41,9 +41,10 @@ Sim, pode ser implementado em quase todos os principais modelos de linguagem.
 
 ## Ferramentas relacionadas
 
+- [LLM Course](https://trescout.com/pt/discover/llm-course/)
 - [Model-Optimizer](https://trescout.com/pt/discover/model-optimizer/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/quantization/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/quantization/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/quantization/

@@ -42,7 +42,7 @@ Dies geschieht, um nachzuweisen und zu schützen, dass die Erfindung rechtmäßi
 
 - [Patent Disclosure Skill](https://trescout.com/de/discover/patent-disclosure-skill/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/disclosure/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/disclosure/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/disclosure/

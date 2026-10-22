@@ -73,7 +73,7 @@ At the end of memory, disk or CDN. It is selected according to the balance of sp
 - [Guava](https://trescout.com/en/discover/guava/)
 - [Omlx](https://trescout.com/en/discover/omlx/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/caching/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/caching/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/caching/

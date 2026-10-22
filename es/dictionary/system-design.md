@@ -44,7 +44,7 @@ Sí, pero es muy costoso y difícil cambiar la arquitectura a medida que el sist
 - [System Design 101](https://trescout.com/es/discover/system-design-101/)
 - [System Design Notes](https://trescout.com/es/discover/system-design-notes/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/system-design/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/system-design/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/system-design/

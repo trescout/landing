@@ -40,7 +40,7 @@ Se utilizan algoritmos de simulación para determinar las rutas de tráfico de l
 - [Mesh](https://trescout.com/es/dictionary/mesh/)
 - [Spatial Reasoning](https://trescout.com/es/dictionary/spatial-reasoning/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/city-building-game/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/city-building-game/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/city-building-game/

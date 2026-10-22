@@ -38,7 +38,7 @@ Regular text editors display text in plain black and white. Code editors, on the
 
 - [Vscode](https://trescout.com/en/discover/vscode/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-editor/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-editor/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/code-editor/

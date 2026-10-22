@@ -60,7 +60,7 @@ Talentos poderosos acarretam riscos se mal administrados. O acesso é escalonado
 - [Foundation Model](https://trescout.com/pt/dictionary/foundation-model/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/frontier-ai/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/frontier-ai/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/frontier-ai/

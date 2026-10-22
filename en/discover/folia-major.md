@@ -2,16 +2,16 @@
 
 Folia-major is a player interface that provides visualized lyric animations for local music files and online platforms. Developed with TypeScript, this tool aims to enrich the music listening experience with dynamic visual effects.
 
-- ★ 5,900
+- ★ 7,781
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Updates
 
+- **October 18, 2026:** Stars 6,803 → 7,781, latest release v0.7.21 (October 18, 2026).
+- **October 16, 2026:** Stars 5,900 → 6,803, latest release v0.7.20 (October 15, 2026).
 - **October 13, 2026:** Stars 5,014 → 5,900, latest release v0.7.19 (October 13, 2026).
 - **October 12, 2026:** Stars 4,259 → 5,014, latest release v0.7.18 (October 11, 2026).
-- **October 10, 2026:** Stars 3,906 → 4,259, latest release v0.7.17 (October 10, 2026).
-- **October 8, 2026:** Stars 3,872 → 3,906, latest release v0.7.16 (October 8, 2026).
 
 ## What you get
 
@@ -37,7 +37,7 @@ To start using it directly, you can download and install the desktop version for
 - [GitHub repository →](https://github.com/chthollyphile/folia-major)
 - [Read in Turkish →](https://trescout.com/discover/folia-major/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/folia-major/

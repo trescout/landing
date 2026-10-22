@@ -34,7 +34,7 @@ Because instead of random information, a regular flow that focuses on the topics
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [Engineering Skills](https://trescout.com/en/dictionary/engineering-skills/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/exercises-dataset/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/exercises-dataset/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/exercises-dataset/

@@ -40,6 +40,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 En tant qu'analyste en investissement, vous analysez la société que je choisis en utilisant les méthodologies de Warren Buffett, Charlie Munger, Duan Yongping et Li Lu. Dans votre analyse, évaluez non seulement les données financières, mais également la durabilité du modèle économique, les avantages concurrentiels (fossé), la qualité de la gestion et les risques possibles sous quatre perspectives différentes. Utiliser des sources indépendantes pour vérifier les informations, préférer dire « je ne sais pas » dans des situations ambiguës et fournir des conseils stratégiques avec une fourchette de prix claire pour la décision d'investissement.
 
+Dépôt : https://github.com/xbtlin/ai-berkshire. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Research Framework](https://trescout.com/fr/dictionary/research-framework/)
@@ -55,7 +63,7 @@ En tant qu'analyste en investissement, vous analysez la société que je choisis
 - [Dépôt GitHub →](https://github.com/xbtlin/ai-berkshire)
 - [Lire en turc →](https://trescout.com/discover/ai-berkshire/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/ai-berkshire/

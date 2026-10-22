@@ -69,6 +69,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Claude Code'da '/plugin marketplace add Lum1104/Understand-Anything' ve '/plugin install understand-anything' komutlarıyla Understand Anything eklentisini kur, sonra projemde '/understand' komutunu çalıştırarak kod tabanını analiz et ve '/understand-dashboard' ile etkileşimli bilgi grafiği panelini aç.
 
+Depo: https://github.com/Lum1104/Understand-Anything. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Sıfır kurulum:** önce [canlı demoyu](https://understand-anything.com/demo/) açıp gezin. Aracın ne yaptığını görmenin en hızlı yolu.
 
 **Kendi dosyalarınızda** kurmak için tek komut:
@@ -94,7 +102,7 @@ Kurduktan sonra asistana dosyalarınızı işaret edip düz cümleyle sorun.
 - [Ana sayfa →](https://understand-anything.com)
 - [Türkçe README →](https://github.com/Lum1104/Understand-Anything/blob/main/READMEs/README.tr-TR.md)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

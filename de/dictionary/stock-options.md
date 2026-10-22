@@ -39,7 +39,7 @@ Dabei handelt es sich um die Mindestdauer, die der Mitarbeiter im Unternehmen ve
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
 - [Best Practices](https://trescout.com/de/dictionary/best-practices/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/stock-options/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/stock-options/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/stock-options/

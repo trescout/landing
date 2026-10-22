@@ -53,6 +53,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Tu es un expert en automatisation web. Je souhaite que tu extraies les données du site web spécifié de la manière la plus efficace possible en utilisant le navigateur headless Lightpanda. Optimise l'utilisation de la mémoire, respecte les règles du robots.txt et présente les données obtenues dans un format structuré. Lors de l'exécution, ajuste dynamiquement les temps d'attente nécessaires (wait-selector ou wait-ms) pour réduire la marge d'erreur.
 
+Dépôt : https://github.com/lightpanda-io/browser. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Headless Browser](https://trescout.com/fr/dictionary/headless-browser/)
@@ -67,7 +75,7 @@ Tu es un expert en automatisation web. Je souhaite que tu extraies les données 
 - [Dépôt GitHub →](https://github.com/lightpanda-io/browser)
 - [Lire en turc →](https://trescout.com/discover/browser/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/browser/

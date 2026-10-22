@@ -2,17 +2,17 @@
 
 PPF Contact Solver ist als Physik-Engine von ZOZO darauf ausgelegt, Kontakte zwischen Stoff, Festkörper und Seil in physikbasierten Simulationen zu lösen. Es erhöht die physikalische Konsistenz in Simulationen, indem es das Zusammenspiel verschiedener Geometrien berechnet. Dank des Blender-Plug-Ins kann es auch aus der Ferne ausgeführt werden.
 
-- ★ 4.552
+- ★ 4.560
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **19. Oktober 2026:** Sterne 4,552 → 4,560, neueste Version addon-2026-10-19-0917 (19. Oktober 2026).
 - **13. Oktober 2026:** Sterne 4,514 → 4,552, neueste Version addon-2026-10-13-1345 (13. Oktober 2026).
 - **1. Oktober 2026:** Sterne 4,513 → 4,514, neueste Version addon-2026-10-01-2043 (1. Oktober 2026).
 - **1. Oktober 2026:** Sterne 4,507 → 4,513, neueste Version addon-2026-10-01-0946 (1. Oktober 2026).
-- **27. September 2026:** Sterne 4,508 → 4,507, neueste Version addon-2026-09-27-2158 (27. September 2026).
 
 ## Installation
 
@@ -39,6 +39,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Führen Sie den physikalischen Kontaktlöser ppf-contact-solver von ZOZO mit Docker aus (NVIDIA-GPU erforderlich): Führen Sie den folgenden Docker-Befehl aus, öffnen Sie dann http://localhost:8080 im Browser und probieren Sie die vorgefertigten JupyterLab-Beispiele aus.
 
+Repository: https://github.com/st-tech/ppf-contact-solver. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Container](https://trescout.com/de/dictionary/container/)
@@ -60,7 +68,7 @@ Führen Sie den physikalischen Kontaktlöser ppf-contact-solver von ZOZO mit Doc
 - [GitHub-Repository →](https://github.com/st-tech/ppf-contact-solver)
 - [Auf Türkisch lesen →](https://trescout.com/discover/ppf-contact-solver/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-26 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-26 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/ppf-contact-solver/

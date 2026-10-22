@@ -43,7 +43,7 @@ It is so named because the developer focuses on the flow and feel of the project
 - [Claude Code Best Practice](https://trescout.com/en/discover/claude-code-best-practice/)
 - [GLM 5](https://trescout.com/en/discover/glm-5/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/vibe-coding/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/vibe-coding/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/vibe-coding/

@@ -2,15 +2,15 @@
 
 n8n combines a visual canvas, custom code, AI agents and workflows in a fair-code automation platform. It supports self-hosted or cloud deployment and can include different model providers in your workflows.
 
-- ★ 207,437
+- ★ 208,197
 - GitHub Trending · 2026-08-23
 
 ## Updates
 
-- **October 15, 2026:** Stars 207,332 → 207,437, latest release n8n@2.43.6 (October 15, 2026).
-- **October 14, 2026:** Stars 207,216 → 207,332, latest release n8n@2.43.5 (October 14, 2026).
-- **October 13, 2026:** Stars 207,074 → 207,216, latest release n8n@2.43.4 (October 12, 2026).
-- **October 12, 2026:** Stars 206,789 → 207,074, latest release n8n@2.42.7 (October 12, 2026).
+- **October 21, 2026:** Stars 208,109 → 208,197, latest release n8n@2.44.5 (October 21, 2026).
+- **October 20, 2026:** Stars 207,983 → 208,109, latest release n8n@2.44.4 (October 19, 2026).
+- **October 19, 2026:** Stars 207,612 → 207,983, latest release n8n@2.43.8 (October 19, 2026).
+- **October 16, 2026:** Stars 207,437 → 207,612, latest release n8n@2.43.7 (October 16, 2026).
 
 ## Installation
 
@@ -79,7 +79,7 @@ Help me design a workflow on the visual canvas that accepts an input, processes 
 - [n8n documentation repository →](https://github.com/n8n-io/n8n-docs)
 - [Read in Turkish →](https://trescout.com/discover/n8n/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-23: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-23: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/n8n/

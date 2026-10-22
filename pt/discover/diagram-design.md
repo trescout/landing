@@ -2,16 +2,16 @@
 
 O design de diagramas, desenvolvido por Cathryn Lavery, inclui 29 tipos diferentes de diagramas editoriais preparados para a ferramenta de codificação apoiada por inteligência artificial Claude Code. Esta biblioteca apresenta diagramas complexos diretamente usando HTML e gráficos vetoriais escaláveis ​​(SVG) em vez de ferramentas de diagramação padrão.
 
-- ★ 54.882
+- ★ 58.061
 - HTML
 - GitHub Trending · 2026-08-13
 
 ## Atualizações
 
+- **19 de outubro de 2026:** Estrelas 54,882 → 58,061.
 - **14 de outubro de 2026:** Estrelas 51,670 → 54,882.
 - **12 de outubro de 2026:** Estrelas 48,430 → 51,670.
 - **10 de outubro de 2026:** Estrelas 45,611 → 48,430.
-- **8 de outubro de 2026:** Estrelas 42,493 → 45,611.
 
 ## O que você ganha
 
@@ -39,6 +39,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Diga a Claude Code ou qualquer assistente de IA que você usa para analisar a arquitetura ou fluxo de trabalho do meu projeto atual. Em seguida, peça para ele criar um diagrama HTML e SVG limpo, escolhendo aquele que melhor se adapta ao tópico que estou explicando entre os 27 tipos visuais diferentes na biblioteca de design de diagramas. Especifique que o design faça referência ao meu site para que seja compatível com as cores e a linguagem visual da minha marca.
 
+Repositório: https://github.com/cathrynlavery/diagram-design. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [SVG](https://trescout.com/pt/dictionary/svg/)
@@ -52,7 +60,7 @@ Diga a Claude Code ou qualquer assistente de IA que você usa para analisar a ar
 - [Repositório no GitHub →](https://github.com/cathrynlavery/diagram-design)
 - [Ler em turco →](https://trescout.com/discover/diagram-design/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-13: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-13: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/diagram-design/

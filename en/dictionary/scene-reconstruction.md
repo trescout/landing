@@ -34,7 +34,7 @@ Generally no, multiple images taken from different angles are needed to understa
 - [Computer Vision](https://trescout.com/en/dictionary/computer-vision/)
 - [Physical AI](https://trescout.com/en/dictionary/physical-ai/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/scene-reconstruction/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/scene-reconstruction/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/scene-reconstruction/

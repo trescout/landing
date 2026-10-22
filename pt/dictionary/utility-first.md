@@ -38,7 +38,7 @@ Pode parecer à primeira vista, mas é uma grande vantagem poder ver todo o desi
 
 - [Tailwindcss](https://trescout.com/pt/discover/tailwindcss/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/utility-first/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/utility-first/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/utility-first/

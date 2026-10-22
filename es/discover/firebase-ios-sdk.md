@@ -28,6 +28,7 @@ Para la instalación, puedes consultar la documentación oficial de inicio de Fi
 - [Swift Package Manager](https://trescout.com/es/dictionary/swiftpm/)
 - [Backend](https://trescout.com/es/dictionary/backend/)
 - [SDK](https://trescout.com/es/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Desarrolladores de software que desarrollan aplicaciones móviles para el ecosistema de Apple y desean agregar servicios basados en la nube a sus aplicaciones.
 - **Licencia:** Apache-2.0
@@ -37,7 +38,7 @@ Para la instalación, puedes consultar la documentación oficial de inicio de Fi
 - [Repositorio en GitHub →](https://github.com/firebase/firebase-ios-sdk)
 - [Leer en turco →](https://trescout.com/discover/firebase-ios-sdk/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/firebase-ios-sdk/

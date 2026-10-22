@@ -2,12 +2,13 @@
 
 Zvec wurde von Alibaba entwickelt und ist eine leichte und schnelle In-Process-Vektordatenbanklösung, die in C++ geschrieben ist. Ziel ist es, die Systemleistung zu steigern, indem Anwendungen die Verarbeitung von Vektordaten direkt im Speicher ermöglicht werden.
 
-- ★ 15.504
+- ★ 16.129
 - C++
 - GitHub Trending · 2026-06-17
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 15,504 → 16,129, neueste Version v0.8.0 (21. Oktober 2026).
 - **24. August 2026:** Sterne 15,356 → 15,504, neueste Version v0.7.0 (24. August 2026).
 - **2. August 2026:** Sterne 10,691 → 15,356, neueste Version v0.6.0 (20. Juli 2026).
 
@@ -37,6 +38,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich muss eine Sammlung mit der Zvec-Bibliothek erstellen. Können Sie Beispielcode in Python erstellen, der es mir ermöglicht, ein Schema zu definieren, diesem Schema entsprechende Vektordaten hinzuzufügen und dann mit einer bestimmten Vektorabfrage zu suchen? Bitte verwenden Sie eine Struktur, die den Dateipfad angibt, damit die Daten dauerhaft bleiben.
 
+Repository: https://github.com/alibaba/zvec. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [In-process Vector Database](https://trescout.com/de/dictionary/in-process-vector-database/)
@@ -53,7 +62,7 @@ Ich muss eine Sammlung mit der Zvec-Bibliothek erstellen. Können Sie Beispielco
 - [GitHub-Repository →](https://github.com/alibaba/zvec)
 - [Auf Türkisch lesen →](https://trescout.com/discover/zvec/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-17 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-17 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/zvec/

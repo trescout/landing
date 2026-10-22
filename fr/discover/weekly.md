@@ -17,6 +17,10 @@ Pour lire du contenu technologique ou y contribuer, rendez-vous sur la page web 
 
 - [Source officielle →](https://github.com/ruanyf/weekly/issues)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** S'adresse à toute personne souhaitant suivre chaque semaine les technologies actuelles, les innovations du monde du logiciel et les opportunités de carrière.
 
 ## Liens
@@ -24,7 +28,7 @@ Pour lire du contenu technologique ou y contribuer, rendez-vous sur la page web 
 - [Dépôt GitHub →](https://github.com/ruanyf/weekly)
 - [Lire en turc →](https://trescout.com/discover/weekly/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-20 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-20 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/weekly/

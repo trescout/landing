@@ -2,12 +2,13 @@
 
 Sonarr ist ein intelligenter Open-Source-Videorecorder (PVR) und Medienautomatisierungsmanager, der für Usenet- (Newsgroups) und BitTorrent-Benutzer entwickelt wurde. Plattform entwickelt mit C#- und .NET-Infrastruktur; Verfolgt neu veröffentlichte Episoden, kommuniziert mit Download-Clients, benennt Dateien um und überträgt sie regelmäßig in Plex- und Jellyfin-Bibliotheken.
 
-- ★ 16.274
+- ★ 17.274
 - C#
 - GitHub Trending · 2026-09-12
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 16,274 → 17,274, neueste Version v4.0.20.3014 (16. September 2026).
 - **17. September 2026:** Sterne 15,798 → 16,274, neueste Version v4.0.20.3014 (16. September 2026).
 - **12. September 2026:** Sterne 15,796 → 15,798, neueste Version v4.0.19.2979 (26. Juni 2026).
 
@@ -73,6 +74,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Dienste Sonarr, qBittorrent, Prowlarr und Jellyfin gemeinsam auf Docker auf meinem Heimserver ausführen. Können Sie bitte Schritt für Schritt die vollständige Datei „docker-compose.yml“ erklären, die eine Single-Volume-Mount-Struktur und die ersten Einstellungen enthält, die ich im Sonarr-Webpanel vornehmen muss, damit Hardlinks reibungslos funktionieren?
 
+Repository: https://github.com/Sonarr/Sonarr. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Häufig gestellte Fragen
 
 - Lädt Sonarr die Datei selbst direkt herunter? Nein. Sonarr ist kein Download-Client; ist Manager. Es sucht, überträgt die Torrent-/NZB-Datei an Clients wie qBittorrent oder SABnzbd und verschiebt die heruntergeladene Datei in den Archivordner.
@@ -86,8 +95,8 @@ Ich möchte die Dienste Sonarr, qBittorrent, Prowlarr und Jellyfin gemeinsam auf
 - [HDR](https://trescout.com/de/dictionary/hdr/)
 - [VPN](https://trescout.com/de/dictionary/vpn/)
 - [Pipeline](https://trescout.com/de/dictionary/pipeline/)
-- [API](https://trescout.com/de/dictionary/api/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [API](https://trescout.com/de/dictionary/api/)
 
 - **Für wen es gedacht ist:** Besitzer von Heimservern (Homelab), Medienbegeisterte und alle, die ihre Serienarchive mühelos verwalten möchten.
 - **Lizenz:** GPL-3.0 (Açık kaynak lisansı)
@@ -99,7 +108,7 @@ Ich möchte die Dienste Sonarr, qBittorrent, Prowlarr und Jellyfin gemeinsam auf
 - [GitHub-Repository →](https://github.com/Sonarr/Sonarr)
 - [Auf Türkisch lesen →](https://trescout.com/discover/sonarr/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/sonarr/

@@ -40,6 +40,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero instalar la herramienta Open Notebook. Docker Desktop está instalado. Primero, necesito descargar el archivo docker-compose.yml con el comando curl y luego cambiar la sección OPEN_NOTEBOOK_ENCRYPTION_KEY en el archivo con una contraseña única. En la última etapa, necesito completar la instalación ejecutando el comando docker compose up -d. ¿Hay otras configuraciones o pasos a los que debo prestar atención en este proceso?
 
+Repositorio: https://github.com/lfnovo/open-notebook. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [AI-powered Note Analysis](https://trescout.com/es/dictionary/ai-powered-note-analysis/)
@@ -54,7 +62,7 @@ Quiero instalar la herramienta Open Notebook. Docker Desktop está instalado. Pr
 - [Repositorio en GitHub →](https://github.com/lfnovo/open-notebook)
 - [Leer en turco →](https://trescout.com/discover/open-notebook/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/open-notebook/

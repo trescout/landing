@@ -70,7 +70,7 @@ A compilação just-in-time converte seções usadas com frequência em código 
 - [SWC](https://trescout.com/pt/discover/swc/)
 - [FMT](https://trescout.com/pt/discover/fmt/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/compiler/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/compiler/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/compiler/

@@ -2,12 +2,13 @@
 
 Model Context Protocol (MCP)-Server ermöglichen es generativen KI-Modellen, über eine standardisierte Schnittstelle auf externe Datenquellen und Tools zuzugreifen. Dieses Protokoll erlaubt es verschiedenen KI-Anwendungen, sich sicher und konsistent mit Datenbanken oder Software-Tools zu verbinden.
 
-- ★ 91.136
+- ★ 91.368
 - TypeScript
 - GitHub Trending · 2026-10-01
 
 ## Aktualisierungen
 
+- **19. Oktober 2026:** Sterne 91,136 → 91,368, neueste Version v2.0.0 (19. Oktober 2026).
 - **11. Oktober 2026:** Sterne 90,905 → 91,136, neueste Version v1.0.0 (11. Oktober 2026).
 - **1. Oktober 2026:** Sterne 90,906 → 90,905, neueste Version 2026.8.31 (31. August 2026).
 
@@ -44,6 +45,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mein KI-Modell über Model Context Protocol (MCP)-Referenzserver an externe Datenquellen anbinden. Leiten Sie mich zunächst dazu an, den Speicher-Server mit dem Befehl npx -y @modelcontextprotocol/server-memory zu starten und die Konfiguration des Desktop-Clients vorzunehmen. Erklären Sie außerdem die Schritte zur Bereitstellung des Zugriffs auf Code-Repositorys mit dem Befehl uvx mcp-server-git.
 
+Repository: https://github.com/modelcontextprotocol/servers. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Model Context Protocol](https://trescout.com/de/dictionary/model-context-protocol/)
@@ -60,7 +69,7 @@ Ich möchte mein KI-Modell über Model Context Protocol (MCP)-Referenzserver an 
 - [GitHub-Repository →](https://github.com/modelcontextprotocol/servers)
 - [Auf Türkisch lesen →](https://trescout.com/discover/servers/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-01 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-01 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/servers/

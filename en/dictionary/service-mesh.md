@@ -70,7 +70,7 @@ No. Gateway is the external door, mesh is the internal traffic. The two work tog
 
 - [Meshery](https://trescout.com/en/discover/meshery/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/service-mesh/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/service-mesh/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/service-mesh/

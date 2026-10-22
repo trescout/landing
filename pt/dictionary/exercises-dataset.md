@@ -34,7 +34,7 @@ Porque, em vez de informações aleatórias, um fluxo regular focado nos tópico
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 - [Engineering Skills](https://trescout.com/pt/dictionary/engineering-skills/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/exercises-dataset/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/exercises-dataset/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/exercises-dataset/

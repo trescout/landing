@@ -2,16 +2,16 @@
 
 Développé par Heygen, Hyperframes propose un framework qui convertit les codes HTML directement en vidéo. Conçu pour permettre aux agents d'intelligence artificielle de produire plus facilement du contenu visuel, cet outil convertit les interfaces Web au format vidéo.
 
-- ★ 64 164
+- ★ 68 881
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Mises à jour
 
-- **15 octobre 2026:** Étoiles 64,018 → 64,164, dernière version v0.8.162 (15 octobre 2026).
-- **15 octobre 2026:** Étoiles 63,171 → 64,018, dernière version v0.8.161 (15 octobre 2026).
-- **14 octobre 2026:** Étoiles 62,561 → 63,171, dernière version v0.8.157 (14 octobre 2026).
-- **13 octobre 2026:** Étoiles 62,356 → 62,561, dernière version v0.8.153 (13 octobre 2026).
+- **21 octobre 2026:** Étoiles 67,994 → 68,881, dernière version v0.8.183 (21 octobre 2026).
+- **20 octobre 2026:** Étoiles 67,158 → 67,994, dernière version v0.8.181 (20 octobre 2026).
+- **19 octobre 2026:** Étoiles 66,195 → 67,158, dernière version v0.8.174 (19 octobre 2026).
+- **18 octobre 2026:** Étoiles 65,605 → 66,195, dernière version v0.8.170 (18 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -51,6 +51,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 À l'aide de /hyperframes, créez une introduction de produit de 10 secondes avec un titre en fondu, une vidéo de fond et une musique de fond subtile.
 
+Dépôt : https://github.com/heygen-com/hyperframes. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Framework](https://trescout.com/fr/dictionary/framework/)
@@ -65,7 +73,7 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 - [Dépôt GitHub →](https://github.com/heygen-com/hyperframes)
 - [Lire en turc →](https://trescout.com/discover/hyperframes/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/hyperframes/

@@ -38,7 +38,7 @@ Sim, os modelos avançados podem refletir emoções no texto, como tristeza ou e
 - [Voice Cloning](https://trescout.com/pt/dictionary/voice-cloning/)
 - [NLP](https://trescout.com/pt/dictionary/nlp/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/speech-synthesis/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/speech-synthesis/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/speech-synthesis/

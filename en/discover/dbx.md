@@ -2,16 +2,16 @@
 
 Developed in Rust, dbx offers a lightweight database client of 25 MB that supports over 100 database types. Along with a desktop application, command-line interface (CLI), and Docker support, it includes features such as a built-in AI assistant and Model Context Protocol (MCP).
 
-- ★ 26,784
+- ★ 27,438
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Updates
 
-- **October 15, 2026:** Stars 26,630 → 26,784, latest release v0.6.44 (October 14, 2026).
-- **October 14, 2026:** Stars 25,978 → 26,630, latest release v0.6.43 (October 14, 2026).
-- **October 12, 2026:** Stars 25,943 → 25,978, latest release v0.6.42 (October 12, 2026).
-- **October 12, 2026:** Stars 25,744 → 25,943, latest release v0.6.41 (October 12, 2026).
+- **October 21, 2026:** Stars 27,338 → 27,438, latest release v0.6.50 (October 20, 2026).
+- **October 20, 2026:** Stars 27,216 → 27,338, latest release v0.6.49 (October 19, 2026).
+- **October 19, 2026:** Stars 27,082 → 27,216, latest release v0.6.48 (October 19, 2026).
+- **October 18, 2026:** Stars 27,027 → 27,082, latest release v0.6.47 (October 17, 2026).
 
 ## What you get
 
@@ -63,6 +63,14 @@ docker run -d --pull=always --name dbx -p 4224:4224 \
 -v dbx-data:/app/data \
 t8y2/dbx:latest command.
 
+Repository: https://github.com/t8y2/dbx. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Database Client](https://trescout.com/en/dictionary/database-client/)
@@ -80,7 +88,7 @@ t8y2/dbx:latest command.
 - [GitHub repository →](https://github.com/t8y2/dbx)
 - [Read in Turkish →](https://trescout.com/discover/dbx/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/dbx/

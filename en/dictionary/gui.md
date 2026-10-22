@@ -48,7 +48,7 @@ Drawing visual elements requires processing power, so text-based interfaces are 
 - [PLFM RADAR](https://trescout.com/en/discover/plfm-radar/)
 - [BrewUI](https://trescout.com/en/discover/brewui/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/gui/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/gui/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/gui/

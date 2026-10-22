@@ -2,16 +2,16 @@
 
 Goose is an open-source AI agent that goes beyond code suggestions and automates software installation, execution, editing and testing. Developed with the Rust language, this tool aims to manage software development workflows end-to-end by integrating with different major language models (LLM).
 
-- ★ 55,085
+- ★ 55,354
 - Rust
 - GitHub Trending · 2026-06-08
 
 ## Updates
 
+- **October 17, 2026:** Stars 55,085 → 55,354, latest release v1.55.0 (October 16, 2026).
 - **October 8, 2026:** Stars 54,890 → 55,085, latest release v1.54.0 (October 8, 2026).
 - **October 3, 2026:** Stars 54,692 → 54,890, latest release v1.53.0 (October 2, 2026).
 - **September 27, 2026:** Stars 54,416 → 54,692, latest release v1.52.0 (September 23, 2026).
-- **September 18, 2026:** Stars 54,280 → 54,416, latest release v1.51.0 (September 17, 2026).
 
 ## What you get
 
@@ -33,6 +33,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I automate my software development processes using the Goose tool? Explain step by step which AI providers I can connect and how to configure plugins via Model Context Protocol.
 
+Repository: https://github.com/aaif-goose/goose. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Model Context Protocol](https://trescout.com/en/dictionary/model-context-protocol/)
@@ -50,7 +58,7 @@ How can I automate my software development processes using the Goose tool? Expla
 - [GitHub repository →](https://github.com/aaif-goose/goose)
 - [Read in Turkish →](https://trescout.com/discover/goose/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/goose/

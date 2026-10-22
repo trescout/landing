@@ -47,7 +47,7 @@ No, different database types are used depending on the type of data (tables or d
 - [Zvec](https://trescout.com/en/discover/zvec/)
 - [Cassandra](https://trescout.com/en/discover/cassandra/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/database/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/database/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/database/

@@ -2,16 +2,16 @@
 
 Unciv is an open source, minimalist and cross-platform desktop and Android adaptation of Civilization V. Developed with Kotlin and LibGDX infrastructure, the project offers original 4X strategy mechanics with zero hardware load and high mod support.
 
-- ★ 11,433
+- ★ 11,464
 - Kotlin
 - GitHub Trending · 2026-06-18
 
 ## Updates
 
+- **October 19, 2026:** Stars 11,458 → 11,464, latest release 4.22.12 (October 18, 2026).
+- **October 18, 2026:** Stars 11,452 → 11,458, latest release 4.22.11-patch1 (October 17, 2026).
+- **October 17, 2026:** Stars 11,433 → 11,452, latest release 4.22.11 (October 16, 2026).
 - **October 13, 2026:** Stars 11,429 → 11,433, latest release 4.22.10 (October 13, 2026).
-- **October 12, 2026:** Stars 11,403 → 11,429, latest release 4.22.9 (October 12, 2026).
-- **October 8, 2026:** Stars 11,394 → 11,403, latest release 4.22.8 (October 8, 2026).
-- **October 5, 2026:** Stars 11,379 → 11,394, latest release 4.22.7 (October 5, 2026).
 
 ## What you get
 
@@ -49,6 +49,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to prepare a valid JSON mod structure for the game Unciv. Can you create a sample Unciv mod template that includes a special cavalry unit and a special library building that gives a bonus to science and culture production as a leader ability? Can you explain step by step which JSON files I should save in which folder structure and how I can test this from the in-game Mod Manager interface?
 
+Repository: https://github.com/yairm210/Unciv. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - How similar is Unciv to Civilization V? Game mechanics, unit statistics, technology tree and victory conditions are largely compatible with the Civilization V Gods and Kings and Brave New World add-ons. The difference is basically the use of plain 2D visual design instead of 3D graphics.
@@ -72,7 +80,7 @@ I want to prepare a valid JSON mod structure for the game Unciv. Can you create 
 - [GitHub repository →](https://github.com/yairm210/Unciv)
 - [Read in Turkish →](https://trescout.com/discover/unciv/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/unciv/

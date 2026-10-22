@@ -41,11 +41,10 @@ Si bien Framework establece el esqueleto básico de su proyecto, el kit de herra
 ## Herramientas relacionadas
 
 - [MVT](https://trescout.com/es/discover/mvt/)
-- [Agent Native](https://trescout.com/es/discover/agent-native/)
 - [Agent Governance Toolkit](https://trescout.com/es/discover/agent-governance-toolkit/)
 - [Agent Toolkit for Aws](https://trescout.com/es/discover/agent-toolkit-for-aws/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/toolkit/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/toolkit/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/toolkit/

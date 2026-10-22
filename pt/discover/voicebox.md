@@ -37,6 +37,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Gerencio os processos de transcrição e dublagem de voz no Voicebox. Ajude-me a determinar o mecanismo TTS mais apropriado para o perfil de voz escolhido, mostre-me como adicionar ênfase emocional ao texto e explique passo a passo como configurar a chamada de carro voicebox.speak necessária para que meu agente local de IA responda com voz.
 
+Repositório: https://github.com/jamiepine/voicebox. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Voice Cloning](https://trescout.com/pt/dictionary/voice-cloning/)
@@ -52,7 +60,7 @@ Gerencio os processos de transcrição e dublagem de voz no Voicebox. Ajude-me a
 - [Repositório no GitHub →](https://github.com/jamiepine/voicebox)
 - [Ler em turco →](https://trescout.com/discover/voicebox/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-21: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-21: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/voicebox/

@@ -2,16 +2,16 @@
 
 Written in Rust, ai-memory offers a long-term memory solution for artificial intelligence agents. It supports the continuity of command line interfaces (CLI) used in software development processes by facilitating data transfer between different agent providers.
 
-- ★ 9,243
+- ★ 11,983
 - Rust
 - GitHub Trending · 2026-08-18
 
 ## Updates
 
-- **October 14, 2026:** Stars 9,195 → 9,243, latest release v3.0.0 (October 14, 2026).
-- **October 13, 2026:** Stars 9,161 → 9,195, latest release v2.6.6 (October 13, 2026).
-- **October 12, 2026:** Stars 9,156 → 9,161, latest release v2.6.5 (October 12, 2026).
-- **October 12, 2026:** Stars 9,098 → 9,156, latest release v2.6.4 (October 12, 2026).
+- **October 21, 2026:** Stars 11,675 → 11,983, latest release v3.1.2 (October 20, 2026).
+- **October 20, 2026:** Stars 10,123 → 11,675, latest release v3.1.1 (October 17, 2026).
+- **October 18, 2026:** Stars 9,474 → 10,123, latest release v3.1.1 (October 17, 2026).
+- **October 16, 2026:** Stars 9,243 → 9,474, latest release v3.1.0 (October 16, 2026).
 
 ## What you get
 
@@ -38,7 +38,7 @@ To start using the tool, visit the official page on GitHub and download the vers
 - [GitHub repository →](https://github.com/akitaonrails/ai-memory)
 - [Read in Turkish →](https://trescout.com/discover/ai-memory/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/ai-memory/

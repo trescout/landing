@@ -42,7 +42,7 @@ Sí, a menudo aprenden unos de los éxitos de los demás y se vuelven más efici
 
 - [MiroFish](https://trescout.com/es/discover/mirofish/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/swarm-intelligence-engine/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/swarm-intelligence-engine/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/swarm-intelligence-engine/

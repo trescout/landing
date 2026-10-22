@@ -2,7 +2,7 @@
 
 OpenCode est un agent de codage open source conçu pour automatiser les processus de développement de logiciels. Développé avec le langage TypeScript, cet outil offre des capacités d'exécution de tâches autonomes dans les projets logiciels.
 
-- ★ 212 636
+- ★ 214 176
 - TypeScript
 - GitHub Trending · 2026-06-28
 
@@ -10,10 +10,10 @@ OpenCode est un agent de codage open source conçu pour automatiser les processu
 
 ## Mises à jour
 
+- **16 octobre 2026:** Étoiles 214,103 → 214,176, dernière version v1.19.3 (16 octobre 2026).
+- **16 octobre 2026:** Étoiles 212,636 → 214,103, dernière version v1.19.2 (16 octobre 2026).
 - **11 octobre 2026:** Étoiles 212,128 → 212,636, dernière version v1.19.0 (11 octobre 2026).
 - **7 octobre 2026:** Étoiles 211,200 → 212,128, dernière version v1.18.35 (6 octobre 2026).
-- **1 octobre 2026:** Étoiles 210,526 → 211,200, dernière version v1.18.34 (30 septembre 2026).
-- **28 septembre 2026:** Étoiles 210,245 → 210,526, dernière version v1.18.33 (28 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -35,6 +35,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'aimerais que vous analysiez les codes de mon projet logiciel actuel à l'aide de l'outil OpenCode et que vous m'aidiez à automatiser les processus de développement. Vous pouvez développer avec un accès complet pendant l'exécution à l'aide de l'agent de build, ou vous pouvez consulter les codes et les modifications du plan à l'aide de l'agent de plan. Pour les recherches complexes ou les tâches en plusieurs étapes, j'attends de vous que vous utilisiez @general.
 
+Dépôt : https://github.com/anomalyco/opencode. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Coding Agent](https://trescout.com/fr/dictionary/coding-agent/)
@@ -49,7 +57,7 @@ J'aimerais que vous analysiez les codes de mon projet logiciel actuel à l'aide 
 - [Dépôt GitHub →](https://github.com/anomalyco/opencode)
 - [Lire en turc →](https://trescout.com/discover/opencode/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/opencode/

@@ -46,12 +46,12 @@ Yes, but those used for AI are usually professional models equipped with more me
 - [Pytorch](https://trescout.com/en/discover/pytorch/)
 - [Minimind](https://trescout.com/en/discover/minimind/)
 - [OpenMAIC](https://trescout.com/en/discover/openmaic/)
-- [Llmfit](https://trescout.com/en/discover/llmfit/)
 - [Airllm](https://trescout.com/en/discover/airllm/)
+- [Llmfit](https://trescout.com/en/discover/llmfit/)
 - [Omlx](https://trescout.com/en/discover/omlx/)
 - [Ktransformers](https://trescout.com/en/discover/ktransformers/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/gpu/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/gpu/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/gpu/

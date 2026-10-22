@@ -49,6 +49,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je travaille sur PI-Desktop. Je t'autorise à analyser le code de mes projets locaux, à modifier des fichiers et à exécuter des commandes terminales. Lors de l'exécution des tâches, je souhaite que tu établisses d'abord un plan d'application, que tu obtiennes mon approbation pour les changements critiques et que tu rendes compte de tout le processus de manière transparente. Lors de l'écriture du code, respecte la structure actuelle du projet et procède en effectuant les tests nécessaires en cas d'erreur.
 
+Dépôt : https://github.com/vastsa/PI-Desktop. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Local-first](https://trescout.com/fr/dictionary/local-first/)
@@ -64,7 +72,7 @@ Je travaille sur PI-Desktop. Je t'autorise à analyser le code de mes projets lo
 - [Dépôt GitHub →](https://github.com/vastsa/PI-Desktop)
 - [Lire en turc →](https://trescout.com/discover/pi-desktop/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-10 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-10 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/pi-desktop/

@@ -2,12 +2,13 @@
 
 Fanqiang projesi, internet sansürünü aşmak için geliştirilen ve Kotlin diliyle yazılmış bir ağ geçidi (gateway) aracıdır. Kullanıcılara kısıtlı ağ kaynaklarına erişim sağlamak amacıyla tasarlanmış açık kaynaklı bir yazılımdır.
 
-- ★ 52.511
+- ★ 55.341
 - Kotlin
 - GitHub Trending · 2026-06-12
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 52.511 → 55.341, son sürüm FQNews-v1.3.8 (18 Ağustos 2024).
 - **4 Eylül 2026:** Yıldız 49.405 → 52.511, son sürüm FQNews-v1.3.8 (18 Ağustos 2024).
 - **2 Ağustos 2026:** Yıldız 47.142 → 49.405, son sürüm FQNews-v1.3.8 (18 Ağustos 2024).
 
@@ -29,11 +30,12 @@ Fanqiang projesi, doğrudan bir yazılım kurulumundan ziyade kapsamlı bir rehb
 
 - [GitHub deposu →](https://github.com/bannedbook/fanqiang)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Gateway](https://trescout.com/dictionary/gateway/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fanqiang/

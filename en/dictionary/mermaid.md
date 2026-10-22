@@ -74,7 +74,7 @@ When pixel precision and freehand drawing are required. That is the job of a gra
 - [TencentDB-Agent-Memory](https://trescout.com/en/discover/tencentdb-agent-memory/)
 - [Gitdiagram](https://trescout.com/en/discover/gitdiagram/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/mermaid/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/mermaid/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/mermaid/

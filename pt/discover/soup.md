@@ -48,6 +48,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero treinar um modelo de inteligência artificial com 8 bilhões de parâmetros usando a biblioteca Soup no meu computador com 4 GB de memória gráfica. Ajude-me a criar um arquivo de configuração YAML que permite streaming de camadas e usa quantização de 4 bits. Prepare o conteúdo do arquivo sopa.yaml necessário para iniciar o processo de treinamento e, a seguir, explique passo a passo como iniciar o treinamento usando este arquivo.
 
+Repositório: https://github.com/MakazhanAlpamys/Soup. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Layer Streaming](https://trescout.com/pt/dictionary/layer-streaming/)
@@ -63,7 +71,7 @@ Quero treinar um modelo de inteligência artificial com 8 bilhões de parâmetro
 - [Repositório no GitHub →](https://github.com/MakazhanAlpamys/Soup)
 - [Ler em turco →](https://trescout.com/discover/soup/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-16: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-16: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/soup/

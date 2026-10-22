@@ -65,7 +65,7 @@ Comece localmente com modelos pequenos e quantizados. Se a necessidade aumentar,
 - [Self-Hosting](https://trescout.com/pt/dictionary/self-hosting/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/open-source-ai/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/open-source-ai/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/open-source-ai/

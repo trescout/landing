@@ -2,12 +2,13 @@
 
 Karakeep es una aplicación de gestión de contenidos autohospedable que recopila enlaces, notas e imágenes en un único centro. Facilita los procesos de archivo digital con etiquetado automático respaldado por inteligencia artificial y funciones de búsqueda de texto completo.
 
-- ★ 29.676
+- ★ 29.731
 - TypeScript
 - GitHub Trending · 2026-07-07
 
 ## Actualizaciones
 
+- **18 de octubre de 2026:** Estrellas 29,676 → 29,731, última versión v0.34.0 (17 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 28,260 → 29,676, última versión v0.33.2 (11 de agosto de 2026).
 - **12 de agosto de 2026:** Estrellas 28,017 → 28,260, última versión v0.33.2 (11 de agosto de 2026).
 - **2 de agosto de 2026:** Estrellas 27,033 → 28,017, última versión v0.33.1 (1 de agosto de 2026).
@@ -47,7 +48,7 @@ Para instalar, puede seguir la guía de instalación de Docker en la página de 
 - [Repositorio en GitHub →](https://github.com/karakeep-app/karakeep)
 - [Leer en turco →](https://trescout.com/discover/karakeep/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/karakeep/

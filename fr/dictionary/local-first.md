@@ -39,11 +39,11 @@ Les applications locales peuvent souvent être sauvegardées dans le cloud de ma
 - [Openhuman](https://trescout.com/fr/discover/openhuman/)
 - [PI-Desktop](https://trescout.com/fr/discover/pi-desktop/)
 - [Agentsview](https://trescout.com/fr/discover/agentsview/)
-- [Wigolo](https://trescout.com/fr/discover/wigolo/)
 - [Open Science](https://trescout.com/fr/discover/open-science/)
+- [Wigolo](https://trescout.com/fr/discover/wigolo/)
 - [Starnet](https://trescout.com/fr/discover/starnet/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/local-first/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/local-first/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/local-first/

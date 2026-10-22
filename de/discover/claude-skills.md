@@ -2,16 +2,16 @@
 
 Diese Bibliothek wurde für Claude Code und verschiedene Programmieragenten entwickelt und bietet mehr als 330 Kompetenzpakete und über 70 Spezialbefehle in verschiedenen Bereichen von der Technik bis zum Marketing. Dieses Python-basierte Toolset bietet anpassbare Skripte, um KI-basierte Arbeitsabläufe zu standardisieren und die Produktivität zu steigern.
 
-- ★ 27.840
+- ★ 28.485
 - Python
 - GitHub Trending · 2026-07-05
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 27,840 → 28,485, neueste Version v2.13.0 (21. Oktober 2026).
 - **8. Oktober 2026:** Sterne 26,514 → 27,840, neueste Version v2.12.0 (25. August 2026).
 - **27. September 2026:** Sterne 25,061 → 26,514, neueste Version v2.12.0 (25. August 2026).
 - **27. August 2026:** Sterne 24,867 → 25,061, neueste Version v2.12.0 (25. August 2026).
-- **24. August 2026:** Sterne 23,654 → 24,867, neueste Version v2.9.0 (28. Mai 2026).
 
 ## Was es bringt
 
@@ -65,6 +65,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Aktivieren Sie die Kompetenzpakete in dieser Bibliothek für Claude Code oder den von Ihnen verwendeten Codierungsagenten. Standardisieren Sie meinen Arbeitsablauf und steigern Sie meine Produktivität mithilfe spezieller Skripte in Bereichen wie Technik, Marketing oder C-Level-Beratung. Integrieren Sie die spezifischen Funktionen, die ich benötige (z. B. Sicherheitsüberprüfung oder Produktentwicklung), in mein Projekt.
 
+Repository: https://github.com/alirezarezvani/claude-skills. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
@@ -79,7 +87,7 @@ Aktivieren Sie die Kompetenzpakete in dieser Bibliothek für Claude Code oder de
 - [GitHub-Repository →](https://github.com/alirezarezvani/claude-skills)
 - [Auf Türkisch lesen →](https://trescout.com/discover/claude-skills/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-05 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-05 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/claude-skills/

@@ -2,16 +2,16 @@
 
 Développé par Hugging Face, Transformers est une bibliothèque utilisée pour former et exécuter des modèles d'apprentissage automatique de pointe sur différents types de données tels que le texte, les images et l'audio. Il permet aux développeurs d'accéder à des modèles d'intelligence artificielle populaires et de les affiner.
 
-- ★ 167 017
+- ★ 167 893
 - Python
 - GitHub Trending · 2026-08-12
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 167,782 → 167,893, dernière version v5.20.2 (19 octobre 2026).
+- **17 octobre 2026:** Étoiles 167,756 → 167,782, dernière version v5.20.1 (16 octobre 2026).
+- **16 octobre 2026:** Étoiles 167,017 → 167,756, dernière version v5.20.0 (15 octobre 2026).
 - **7 octobre 2026:** Étoiles 166,876 → 167,017, dernière version v5.19.0 (6 octobre 2026).
-- **1 octobre 2026:** Étoiles 165,067 → 166,876, dernière version v5.18.0 (30 septembre 2026).
-- **10 septembre 2026:** Étoiles 164,497 → 165,067, dernière version v5.17.0 (9 septembre 2026).
-- **27 août 2026:** Étoiles 164,253 → 164,497, dernière version v5.16.1 (26 août 2026).
 
 ## Ce que ça vous apporte
 
@@ -40,6 +40,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter un modèle de rendu de texte à l'aide de la bibliothèque Transformers. Comment puis-je démarrer rapidement avec l'API Pipeline ? Pouvez-vous nous aider avec un exemple de code et une explication étape par étape ?
 
+Dépôt : https://github.com/huggingface/transformers. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Fine-tuning](https://trescout.com/fr/dictionary/fine-tuning/)
@@ -55,7 +63,7 @@ Je souhaite exécuter un modèle de rendu de texte à l'aide de la bibliothèque
 - [Dépôt GitHub →](https://github.com/huggingface/transformers)
 - [Lire en turc →](https://trescout.com/discover/transformers/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-12 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-12 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/transformers/

@@ -2,16 +2,16 @@
 
 Effect-TS es un ecosistema de librerías que permite desarrollar aplicaciones escalables y de alta tolerancia a fallos con TypeScript. Estandariza los procesos de desarrollo de software utilizando principios de programación funcional para gestionar flujos de trabajo complejos.
 
-- ★ 17.292
+- ★ 17.303
 - TypeScript
 - GitHub Trending · 2026-10-03
 
 ## Actualizaciones
 
+- **16 de octubre de 2026:** Estrellas 17,292 → 17,303, última versión @effect/platform-bun@0.91.3 (16 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 17,264 → 17,292, última versión @effect/openapi-generator@4.0.5 (15 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 17,198 → 17,264, última versión @effect/openapi-generator@4.0.4 (13 de octubre de 2026).
 - **10 de octubre de 2026:** Estrellas 17,160 → 17,198, última versión @effect/openapi-generator@4.0.3 (10 de octubre de 2026).
-- **8 de octubre de 2026:** Estrellas 17,011 → 17,160, última versión @effect/openapi-generator@4.0.2 (7 de octubre de 2026).
 
 ## Qué aporta
 
@@ -33,6 +33,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero incluir la librería Effect en mi proyecto basado en TypeScript. Realiza la instalación necesaria utilizando el comando 'npm install effect' y asegúrate de que la configuración de verificación de tipos 'strict' esté habilitada en el archivo 'tsconfig.json' del proyecto.
 
+Repositorio: https://github.com/Effect-TS/effect. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
@@ -45,7 +53,7 @@ Quiero incluir la librería Effect en mi proyecto basado en TypeScript. Realiza 
 - [Repositorio en GitHub →](https://github.com/Effect-TS/effect)
 - [Leer en turco →](https://trescout.com/discover/effect/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-03: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-03: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/effect/

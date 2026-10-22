@@ -34,7 +34,7 @@ Yes, these numbers can be updated through fine-tuning or additional training pro
 - [Fine-tuning](https://trescout.com/en/dictionary/fine-tuning/)
 - [Open Weights](https://trescout.com/en/dictionary/open-weights/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/model-weights/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/model-weights/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/model-weights/

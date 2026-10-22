@@ -38,7 +38,7 @@ Si la méthode de sauvegarde est également défectueuse, le système continuera
 - [Runtime](https://trescout.com/fr/dictionary/runtime/)
 - [AI Gateway](https://trescout.com/fr/dictionary/ai-gateway/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/auto-fallback/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/auto-fallback/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/auto-fallback/

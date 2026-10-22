@@ -68,7 +68,7 @@ Home mesh kits are typically installed in minutes with a mobile app. Corporate o
 - [Bitchat Android](https://trescout.com/en/discover/bitchat-android/)
 - [Spirula Studio](https://trescout.com/en/discover/spirula-studio/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/mesh/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/mesh/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/mesh/

@@ -38,7 +38,7 @@ You cannot access websites by name because your internet browser cannot find whe
 - [Network Stack](https://trescout.com/en/dictionary/network-stack/)
 - [Gateway](https://trescout.com/en/dictionary/gateway/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/nameservers/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/nameservers/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/nameservers/

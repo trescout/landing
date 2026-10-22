@@ -41,11 +41,10 @@ Alors qu'un framework établit le squelette de base de votre projet, une boîte 
 ## Outils liés
 
 - [MVT](https://trescout.com/fr/discover/mvt/)
-- [Agent Native](https://trescout.com/fr/discover/agent-native/)
 - [Agent Governance Toolkit](https://trescout.com/fr/discover/agent-governance-toolkit/)
 - [Agent Toolkit for Aws](https://trescout.com/fr/discover/agent-toolkit-for-aws/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/toolkit/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/toolkit/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/toolkit/

@@ -27,6 +27,7 @@ Diese Ressource ist kein Software-Tool, sondern eine Zusammenstellung von Notize
 ## Verwandte Begriffe aus dem Glossar
 
 - [System Design](https://trescout.com/de/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Ingenieurskandidaten, die sich auf Softwarearchitektur- und Systemdesign-Interviews vorbereiten.
 
@@ -35,7 +36,7 @@ Diese Ressource ist kein Software-Tool, sondern eine Zusammenstellung von Notize
 - [GitHub-Repository →](https://github.com/liquidslr/system-design-notes)
 - [Auf Türkisch lesen →](https://trescout.com/discover/system-design-notes/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-09 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-09 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/system-design-notes/

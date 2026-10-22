@@ -2,16 +2,16 @@
 
 Desarrollado por Meta, Astryx ofrece un sistema de diseño totalmente personalizable y compatible con agentes de inteligencia artificial. Esta biblioteca de código abierto basada en TypeScript configura componentes de interfaz para el uso de sistemas autónomos.
 
-- ★ 13.630
+- ★ 13.678
 - TypeScript
 - GitHub Trending · 2026-07-01
 
 ## Actualizaciones
 
+- **16 de octubre de 2026:** Estrellas 13,630 → 13,678, última versión v0.7.1 (15 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 13,591 → 13,630, última versión v0.7.0 (13 de octubre de 2026).
 - **11 de octubre de 2026:** Estrellas 13,581 → 13,591, última versión v0.6.8 (10 de octubre de 2026).
 - **10 de octubre de 2026:** Estrellas 13,566 → 13,581, última versión v0.6.7 (9 de octubre de 2026).
-- **8 de octubre de 2026:** Estrellas 13,537 → 13,566, última versión v0.6.6 (7 de octubre de 2026).
 
 ## Qué aporta
 
@@ -43,6 +43,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear un componente de interfaz usando el sistema de diseño Astryx. ¿Cómo puedo estructurar componentes en el paquete @astryxdesign/core sin romper los métodos de estilo que ya estoy usando en mi proyecto? ¿Cuáles son los métodos estándar que debo seguir para personalizar componentes y acceder a documentación o plantillas utilizando la herramienta CLI?
 
+Repositorio: https://github.com/facebook/astryx. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Agent Ready](https://trescout.com/es/dictionary/agent-ready/)
@@ -60,7 +68,7 @@ Quiero crear un componente de interfaz usando el sistema de diseño Astryx. ¿C�
 - [Repositorio en GitHub →](https://github.com/facebook/astryx)
 - [Leer en turco →](https://trescout.com/discover/astryx/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/astryx/

@@ -39,6 +39,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Add this community cybersecurity skills library to Claude Code by running 'npx skills add mukul975/Anthropic-Cybersecurity-Skills' in the terminal (note that this is not Anthropic's official project), then list me which security skills are ready to use.
 
+Repository: https://github.com/mukul975/Anthropic-Cybersecurity-Skills. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
@@ -59,7 +67,7 @@ Add this community cybersecurity skills library to Claude Code by running 'npx s
 - [GitHub repository →](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 - [Read in Turkish →](https://trescout.com/discover/anthropic-cybersecurity-skills/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/anthropic-cybersecurity-skills/

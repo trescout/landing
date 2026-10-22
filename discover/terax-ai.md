@@ -2,12 +2,13 @@
 
 Terax-ai, terminal odaklı yapay zekâ yerel geliştirme ortamı (AI-native dev workspace) olarak 7 megabaytlık düşük boyutlu yapısıyla dikkat çekiyor. TypeScript ile geliştirilen bu araç, geliştiricilere terminal üzerinden doğrudan yapay zekâ destekli kodlama imkânı sunuyor.
 
-- ★ 8.790
+- ★ 9.324
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 8.790 → 9.324, son sürüm v0.9.0 (16 Ekim 2026).
 - **2 Ağustos 2026:** Yıldız 8.121 → 8.790, son sürüm v0.8.6 (27 Temmuz 2026).
 
 ## Ne kazandırır?
@@ -31,6 +32,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terax içerisindeki yapay zekâ panelini kullanarak projeme özel sistem istemleri oluştur ve TERAX.md dosyası üzerinden proje hafızasını yönet. Kod düzenlemeleri için yapay zekâ destekli farkları kabul et veya reddet, plan modunu kullanarak çok adımlı görevleri onay alarak gerçekleştir.
 
+Depo: https://github.com/crynta/terax-ai. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Terminal üzerinden ayrılmadan yapay zekâ destekli kodlama yapmak isteyen geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -38,7 +47,7 @@ Terax içerisindeki yapay zekâ panelini kullanarak projeme özel sistem istemle
 
 - [GitHub deposu →](https://github.com/crynta/terax-ai)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

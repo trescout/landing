@@ -2,16 +2,16 @@
 
 AirLLM is a groundbreaking open-source library that runs massive large language models (LLMs) with 70 billion and 405 billion parameters on standard consumer-grade graphics cards with only 4 GB of video memory (VRAM), without the need for enterprise servers or expensive GPU clusters.
 
-- ★ 37,368
+- ★ 39,239
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
 ## Updates
 
+- **October 18, 2026:** Stars 37,368 → 39,239, latest release v4.0.0 (September 5, 2026).
 - **October 12, 2026:** Stars 35,481 → 37,368, latest release v4.0.0 (September 5, 2026).
 - **October 7, 2026:** Stars 33,755 → 35,481, latest release v4.0.0 (September 5, 2026).
 - **September 6, 2026:** Stars 33,307 → 33,755, latest release v4.0.0 (September 5, 2026).
-- **August 31, 2026:** Stars 31,598 → 33,307, latest release v3.3.0 (August 28, 2026).
 
 ## What you get
 
@@ -46,6 +46,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run a 70 billion parameter model (for example, meta-llama/Llama-3-70B-Instruct) on my local graphics card with 4GB VRAM capacity using the AirLLM library. I used the pip install airllm command for installation. Could you explain the Python code required to load my model, get output with text input, and prevent out-of-memory errors? I know I need to make sure my disk space is sufficient in the process, could you detail the steps I need to follow?
 
+Repository: https://github.com/lyogavin/airllm. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - How fast is it to run a model with AirLLM? Since AirLLM continuously transfers layers between the disk and GPU, token generation speed depends directly on the read speed of your NVMe SSD. On a typical Gen4 SSD, a 70B model runs at a speed of 1-3 tokens per second. While this speed is slow for interactive chat, it is unique for running massive models locally with zero hardware cost.
@@ -72,7 +80,7 @@ I want to run a 70 billion parameter model (for example, meta-llama/Llama-3-70B-
 - [GitHub repository →](https://github.com/lyogavin/airllm)
 - [Read in Turkish →](https://trescout.com/discover/airllm/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/airllm/

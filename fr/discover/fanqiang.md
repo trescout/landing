@@ -2,12 +2,13 @@
 
 Le projet Fanqiang est un outil de passerelle écrit en Kotlin, développé pour contourner la censure sur Internet. Il s'agit d'un logiciel open source conçu pour fournir aux utilisateurs un accès à des ressources réseau limitées.
 
-- ★ 52 511
+- ★ 55 341
 - Kotlin
 - GitHub Trending · 2026-06-12
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 52,511 → 55,341, dernière version FQNews-v1.3.8 (18 août 2024).
 - **4 septembre 2026:** Étoiles 49,405 → 52,511, dernière version FQNews-v1.3.8 (18 août 2024).
 - **2 août 2026:** Étoiles 47,142 → 49,405, dernière version FQNews-v1.3.8 (18 août 2024).
 
@@ -26,6 +27,7 @@ Le projet Fanqiang est une bibliothèque complète de guides et d'outils plutôt
 ## Termes liés du glossaire
 
 - [Gateway](https://trescout.com/fr/dictionary/gateway/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent accéder à des ressources réseau limitées sur Internet et qui ont besoin de guides de configuration pour différents appareils.
 
@@ -34,7 +36,7 @@ Le projet Fanqiang est une bibliothèque complète de guides et d'outils plutôt
 - [Dépôt GitHub →](https://github.com/bannedbook/fanqiang)
 - [Lire en turc →](https://trescout.com/discover/fanqiang/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-12 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-12 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/fanqiang/

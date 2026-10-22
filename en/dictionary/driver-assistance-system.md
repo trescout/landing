@@ -40,7 +40,7 @@ No, these are for support purposes only and the driver must be careful at all ti
 
 - [Openpilot](https://trescout.com/en/discover/openpilot/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/driver-assistance-system/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/driver-assistance-system/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/driver-assistance-system/

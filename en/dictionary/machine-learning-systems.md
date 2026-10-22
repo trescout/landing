@@ -34,7 +34,7 @@ Machine learning is a sub-branch of artificial intelligence focused on learning 
 
 - [Cs249r Book](https://trescout.com/en/discover/cs249r-book/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/machine-learning-systems/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/machine-learning-systems/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/machine-learning-systems/

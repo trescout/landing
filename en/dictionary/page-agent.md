@@ -38,7 +38,7 @@ It usually works on standard web structures, but may have difficulty on sites wi
 - [Autonomous Agent](https://trescout.com/en/dictionary/autonomous-agent/)
 - [Web Scraping](https://trescout.com/en/dictionary/web-scraping/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/page-agent/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/page-agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/page-agent/

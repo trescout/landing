@@ -39,7 +39,7 @@ Toute information dont l'intelligence artificielle doit se souvenir, comme les p
 - [Observability](https://trescout.com/fr/dictionary/observability/)
 - [State Management](https://trescout.com/fr/dictionary/state-management/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/memory-api/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/memory-api/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/memory-api/

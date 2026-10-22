@@ -46,12 +46,12 @@ Sim, mas os usados ​​para IA costumam ser modelos profissionais equipados co
 - [Pytorch](https://trescout.com/pt/discover/pytorch/)
 - [Minimind](https://trescout.com/pt/discover/minimind/)
 - [OpenMAIC](https://trescout.com/pt/discover/openmaic/)
-- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [Airllm](https://trescout.com/pt/discover/airllm/)
+- [Llmfit](https://trescout.com/pt/discover/llmfit/)
 - [Omlx](https://trescout.com/pt/discover/omlx/)
 - [Ktransformers](https://trescout.com/pt/discover/ktransformers/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/gpu/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/gpu/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/gpu/

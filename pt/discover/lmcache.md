@@ -33,11 +33,19 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso otimizar o gerenciamento de cache KV para modelos de linguagem grandes usando a biblioteca LMCache? Quais são as etapas básicas que devo seguir após a instalação para aumentar o desempenho e tornar o uso de memória eficiente, especialmente em consultas de contexto longo? Explique como posso integrar esta camada ao meu sistema de inferência existente, considerando o princípio de funcionamento independente do mecanismo declarado na documentação.
 
+Repositório: https://github.com/LMCache/LMCache. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [KV Cache](https://trescout.com/pt/dictionary/kv-cache/)
-- [Token](https://trescout.com/pt/dictionary/token/)
 - [Large Language Models](https://trescout.com/pt/dictionary/large-language-models/)
+- [Token](https://trescout.com/pt/dictionary/token/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
@@ -49,7 +57,7 @@ Como posso otimizar o gerenciamento de cache KV para modelos de linguagem grande
 - [Repositório no GitHub →](https://github.com/LMCache/LMCache)
 - [Ler em turco →](https://trescout.com/discover/lmcache/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-13: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-13: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/lmcache/

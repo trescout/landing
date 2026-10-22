@@ -2,16 +2,16 @@
 
 Desarrollado para hacer que la producción de los agentes de codificación esté más enfocada y organizada, i-have-adhd mejora la experiencia del usuario al dividir respuestas complejas en partes. Esta habilidad basada en Python estandariza la presentación de información por parte de la IA en un formato compatible con el trastorno por déficit de atención con hiperactividad (TDAH).
 
-- ★ 56.851
+- ★ 57.916
 - Python
 - GitHub Trending · 2026-07-22
 
 ## Actualizaciones
 
+- **20 de octubre de 2026:** Estrellas 56,851 → 57,916, última versión v0.4.1 (19 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 54,097 → 56,851.
 - **6 de octubre de 2026:** Estrellas 51,395 → 54,097.
 - **27 de septiembre de 2026:** Estrellas 47,151 → 51,395.
-- **17 de septiembre de 2026:** Estrellas 44,840 → 47,151.
 
 ## Qué aporta
 
@@ -37,7 +37,7 @@ Los pasos de instalación varían según la herramienta de codificación que uti
 - [Repositorio en GitHub →](https://github.com/ayghri/i-have-adhd)
 - [Leer en turco →](https://trescout.com/discover/i-have-adhd/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-22: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-22: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/i-have-adhd/

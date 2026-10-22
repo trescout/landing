@@ -2,11 +2,12 @@
 
 O SwiftUI-Agent-Skill oferece pacotes de habilidades (skills) especiais para modelos de inteligência artificial para a ferramenta de desenvolvimento de interface SwiftUI. Este recurso ajuda assistentes de codificação de IA, como o Claude Code e o Codex, a criar componentes SwiftUI de forma mais consistente e rápida.
 
-- ★ 5.265
+- ★ 6.265
 - GitHub Trending · 2026-10-09
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 5,265 → 6,265, versão mais recente 2.0.0 (9 de outubro de 2026).
 - **9 de outubro de 2026:** Estrelas 5,212 → 5,265, versão mais recente 2.0.0 (9 de outubro de 2026).
 - **9 de outubro de 2026:** Estrelas 5,207 → 5,212, versão mais recente 1.1.0 (20 de abril de 2026).
 
@@ -36,6 +37,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Se o ambiente de execução de software Node não estiver instalado no meu computador, instale-o usando o comando 'brew install node'. Em seguida, execute o comando 'npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-pro' para dar especialidade em SwiftUI ao meu assistente de codificação e deixar essa habilidade pronta para uso em meus projetos.
 
+Repositório: https://github.com/twostraws/SwiftUI-Agent-Skill. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
@@ -50,7 +59,7 @@ Se o ambiente de execução de software Node não estiver instalado no meu compu
 - [Repositório no GitHub →](https://github.com/twostraws/SwiftUI-Agent-Skill)
 - [Ler em turco →](https://trescout.com/discover/swiftui-agent-skill/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-10-09: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-10-09: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/swiftui-agent-skill/

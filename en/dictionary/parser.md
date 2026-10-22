@@ -41,7 +41,7 @@ If the parser finds the data in a format it cannot understand, it gives a 'synta
 - [Checkstyle](https://trescout.com/en/discover/checkstyle/)
 - [YAML Cpp](https://trescout.com/en/discover/yaml-cpp/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/parser/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/parser/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/parser/

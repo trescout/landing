@@ -20,14 +20,20 @@ Bundler ermöglichen es Entwicklern, ihren Code in kleine, wartbare und isoliert
 
 Die Funktionsweise eines modernen Bundlers besteht im Grunde aus drei Phasen:
 
+### 1. Analyse und Erstellung eines Abhängigkeitsgraphen (Dependency Graph)
+
 Der Prozess beginnt an einem oder mehreren Einstiegspunkten (entry point, z. B. src/main.ts):
 
 - Der Bundler liest diese Datei und durchsucht sie nach Import-, Export- oder Require-Anweisungen.
 - Der Node-Modul-Auflösungsalgorithmus (Node module resolution) findet den Speicherort der aufgerufenen Dateien auf der Festplatte gemäß den package.json-Definitionen.
 - Es erstellt einen gerichteten azyklischen Graphen (Directed Acyclic Graph – DAG), in dem jede Quelldatei als Knoten (Node) und Importbeziehungen als Kanten (Edge) modelliert werden.
 
+### 2. Transformation und AST-Parsing
+
 - Jedes Modul wird an einen Compiler (wie Babel, SWC oder esbuild) übergeben und in einen abstrakten Syntaxbaum (AST - Abstract Syntax Tree) umgewandelt.
 - TypeScript-Code wird in JavaScript umgewandelt, JSX-Syntax wird kompiliert, CSS-Module werden aufgelöst und moderne ECMAScript-Funktionen werden mit den Ziel-Browserversionen kompatibel gemacht.
+
+### 3. Packaging, Tree-Shaking und Ausgabeerzeugung (Packaging & Emit)
 
 - Tree-Shaking (Dead-Code-Elimination): Unter Nutzung der statischen Syntax von ECMAScript-Modulen (ESM) wird nicht verwendeter Code, der zwar aus Bibliotheken importiert, aber im Projekt nie aufgerufen wird, über den AST eliminiert.
 - Minifizierung und Obfuskation: Variablennamen werden gekürzt (Mangling), Leerzeichen und Kommentarzeilen werden entfernt, um die Dateigröße zu minimieren.
@@ -41,6 +47,14 @@ Der Prozess beginnt an einem oder mehreren Einstiegspunkten (entry point, z. B. 
 ## Vergleich des Bundler-Ökosystems
 
 Die herausragenden Werkzeuge im Web-Ökosystem, die auf unterschiedliche Bedürfnisse reagieren, sind:
+
+| Werkzeug | Geschrieben in | Entwicklungserfahrung | Produktions-Engine | Stärke |
+|---|---|---|---|---|
+| Webpack | JavaScript / Node.js | Gebündelt (In-Memory-Bundling) | Webpack | Riesiges Plugin-Ökosystem, Unternehmensreife |
+| Vite | JS + Go (esbuild) | Unbundled (Natives ESM) | Rollup / Rolldown | Sofortiger Dev-Server-Start, hoher Entwicklerkomfort |
+| Rollup | JavaScript / Node.js | Bundled | Rollup | Perfektes Tree-Shaking beim Bündeln von Bibliotheken / SDKs |
+| esbuild | gehen | Bundled | esbuild | Unglaubliche rohe Build-Geschwindigkeit (10-100x schneller als Node.js-Tools) |
+| Turbopack / Rspack | Rost | Bundled / Hybrid | Rust-Engine | Kompatibel mit dem Webpack-Ökosystem, Leistung für riesige Projekte |
 
 ## Häufige Fragen
 
@@ -75,7 +89,7 @@ Es ermöglicht, dass der Anwendungscode in fragmentierte Dateien statt in eine e
 
 - [Webpack](https://trescout.com/de/discover/webpack/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/bundler/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/bundler/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/bundler/

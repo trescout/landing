@@ -2,15 +2,15 @@
 
 Codex CLI is a coding agent that runs in the terminal on your local computer. It can review code, make changes to files, and run commands.
 
-- ★ 128,492
+- ★ 129,477
 - GitHub Trending · 2026-08-23
 
 ## Updates
 
+- **October 16, 2026:** Stars 128,492 → 129,477, latest release rust-v0.163.0 (October 15, 2026).
 - **October 10, 2026:** Stars 128,208 → 128,492, latest release rust-v0.162.1 (October 9, 2026).
 - **October 8, 2026:** Stars 128,352 → 128,208, latest release rust-v0.162.0 (October 8, 2026).
 - **October 8, 2026:** Stars 128,007 → 128,352, latest release rust-v0.161.0 (October 7, 2026).
-- **October 6, 2026:** Stars 127,591 → 128,007, latest release rust-v0.160.1 (October 5, 2026).
 
 ## Installation
 
@@ -83,7 +83,7 @@ For your first use, you can start with a review request that explains the projec
 - [Official Codex CLI documentation →](https://learn.chatgpt.com/docs/codex/cli)
 - [Read in Turkish →](https://trescout.com/discover/codex/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-23: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-23: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/codex/

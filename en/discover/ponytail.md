@@ -2,16 +2,16 @@
 
 An MIT-licensed rule set and plugin system for AI coding agents. Its aim is to preserve validation, error handling, security, and accessibility while writing only the code required for a task.
 
-- ★ 162,432
+- ★ 165,409
 - JavaScript
 - GitHub Trending · 2026-08-25
 
 ## Updates
 
+- **October 17, 2026:** Stars 164,759 → 165,409, latest release v5.3.2 (October 16, 2026).
+- **October 16, 2026:** Stars 162,432 → 164,759, latest release v5.3.0 (October 16, 2026).
 - **October 13, 2026:** Stars 158,247 → 162,432, latest release v5.2.0 (October 13, 2026).
 - **October 8, 2026:** Stars 158,137 → 158,247, latest release v5.1.0 (October 8, 2026).
-- **October 8, 2026:** Stars 156,385 → 158,137, latest release v5.0.0 (October 8, 2026).
-- **October 6, 2026:** Stars 155,501 → 156,385, latest release v4.13.0 (October 5, 2026).
 
 ## Installation
 
@@ -92,7 +92,7 @@ Write only the code required by the task, then review changes for validation, er
 - [Agentic benchmark method →](https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md)
 - [Read in Turkish →](https://trescout.com/discover/ponytail/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/ponytail/

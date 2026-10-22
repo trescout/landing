@@ -43,7 +43,7 @@ Sim, neste caso o modelo escolhe sempre a palavra mais segura e de maior probabi
 
 - [OmniRoute](https://trescout.com/pt/discover/omniroute/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/temperature/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/temperature/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/temperature/

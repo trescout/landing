@@ -2,12 +2,14 @@
 
 iFixAi es una herramienta de auditoría independiente que verifica si los agentes de inteligencia artificial cumplen correctamente con las tareas asignadas. Desarrollado en lenguaje Python, este sistema analiza la precisión de los procesos en menos de dos minutos, ya sea ejecutado por un humano o por el propio agente.
 
-- ★ 28.006
+- ★ 30.965
 - Python
 - GitHub Trending · 2026-10-15
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 29,783 → 30,965, última versión v4.2.1 (21 de octubre de 2026).
+- **19 de octubre de 2026:** Estrellas 28,006 → 29,783, última versión v4.2.0 (15 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 27,993 → 28,006, última versión v4.2.0 (15 de octubre de 2026).
 
 ## Qué aporta
@@ -44,6 +46,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero comprobar si mi agente de inteligencia artificial funciona correctamente y si alcanza sus objetivos. Para ello, realiza las pruebas necesarias utilizando la herramienta llamada iFixAi e informa de los resultados.
 
+Repositorio: https://github.com/ifixai-ai/iFixAi. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
@@ -56,7 +66,7 @@ Quiero comprobar si mi agente de inteligencia artificial funciona correctamente 
 - [Repositorio en GitHub →](https://github.com/ifixai-ai/iFixAi)
 - [Leer en turco →](https://trescout.com/discover/ifixai/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/ifixai/

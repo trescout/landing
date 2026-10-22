@@ -2,16 +2,16 @@
 
 Macro est un espace de travail qui combine des outils professionnels tels que la messagerie électronique, le chat, la gestion de documents et de tâches avec une mémoire commune d'intelligence artificielle. Développée avec le langage Rust, cette plateforme connecte différents workflows dans une seule interface.
 
-- ★ 4 680
+- ★ 4 736
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 4,705 → 4,736, dernière version v2026.10.18.0 (18 octobre 2026).
+- **17 octobre 2026:** Étoiles 4,691 → 4,705, dernière version v2026.10.16.0 (16 octobre 2026).
+- **16 octobre 2026:** Étoiles 4,680 → 4,691, dernière version v2026.10.15.0 (15 octobre 2026).
 - **15 octobre 2026:** Étoiles 4,666 → 4,680, dernière version v2026.10.14.0 (14 octobre 2026).
-- **14 octobre 2026:** Étoiles 4,627 → 4,666, dernière version v2026.10.13.1 (13 octobre 2026).
-- **11 octobre 2026:** Étoiles 4,613 → 4,627, dernière version v2026.10.10.0 (10 octobre 2026).
-- **10 octobre 2026:** Étoiles 4,598 → 4,613, dernière version v2026.10.9.1 (9 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -38,7 +38,7 @@ Pour commencer à utiliser la plateforme Macro, rendez-vous simplement sur le si
 - [Dépôt GitHub →](https://github.com/macro-inc/macro)
 - [Lire en turc →](https://trescout.com/discover/macro/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-13 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-13 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/macro/

@@ -49,7 +49,7 @@ Un sandbox bien estructurado restringe por completo la comunicación con el mund
 - [AX](https://trescout.com/es/discover/ax/)
 - [CubeSandbox](https://trescout.com/es/discover/cubesandbox/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/sandbox/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/sandbox/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sandbox/

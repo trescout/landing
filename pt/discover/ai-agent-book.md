@@ -33,6 +33,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um especialista em desenvolvimento de agentes de inteligência artificial. Explique-me passo a passo como configurar o sistema de memória de um agente e integrar ferramentas externas (chamada de ferramentas), com base na fórmula 'Agente = LLM + Contexto + Ferramentas'. Explique com exemplos quais abordagens de engenharia devo utilizar para otimizar o gerenciamento de contexto, especialmente em processos RAG (Retrieval-Augmented Generation).
 
+Repositório: https://github.com/bojieli/ai-agent-book. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [RAG](https://trescout.com/pt/dictionary/rag/)
@@ -49,7 +57,7 @@ Você é um especialista em desenvolvimento de agentes de inteligência artifici
 - [Repositório no GitHub →](https://github.com/bojieli/ai-agent-book)
 - [Ler em turco →](https://trescout.com/discover/ai-agent-book/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-20: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-20: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/ai-agent-book/

@@ -2,7 +2,7 @@
 
 Codex CLI, yerel bilgisayarınızda terminalde çalışan bir kodlama ajanıdır. Kodları inceleyebilir, dosyalarda değişiklik yapabilir ve komut çalıştırabilir.
 
-- ★ 128.492
+- ★ 129.477
 - GitHub Trending · 2026-08-23
 
 ## Kurulum
@@ -31,10 +31,10 @@ codex
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 128.492 → 129.477, son sürüm rust-v0.163.0 (15 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 128.208 → 128.492, son sürüm rust-v0.162.1 (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 128.352 → 128.208, son sürüm rust-v0.162.0 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 128.007 → 128.352, son sürüm rust-v0.161.0 (7 Ekim 2026).
-- **6 Ekim 2026:** Yıldız 127.591 → 128.007, son sürüm rust-v0.160.1 (5 Ekim 2026).
 
 ## Bu araç ne yapar?
 
@@ -77,7 +77,7 @@ Değişikliklerden önce ve sonra Git checkpoint oluşturmanız önerilir. İzin
 - [GitHub deposu →](https://github.com/openai/codex)
 - [Codex CLI resmî belgeleri →](https://learn.chatgpt.com/docs/codex/cli)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

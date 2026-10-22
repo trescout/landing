@@ -38,7 +38,7 @@ Yes, people with very large capital may try to influence the market, but usually
 - [Data Pipeline](https://trescout.com/en/dictionary/data-pipeline/)
 - [Prediction Market](https://trescout.com/en/dictionary/prediction-market/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/prediction-market/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/prediction-market/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/prediction-market/

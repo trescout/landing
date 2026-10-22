@@ -2,16 +2,16 @@
 
 AlphaXiv is a framework that allows you to run parallel research agents using different AI models. Developed in Rust, this open-source tool aims to accelerate data collection processes in academic and technical research.
 
-- ★ 6,791
+- ★ 7,423
 - Rust
 - GitHub Trending · 2026-09-12
 
 ## Updates
 
+- **October 21, 2026:** Stars 7,287 → 7,423, latest release v0.2.20 (October 21, 2026).
+- **October 16, 2026:** Stars 6,791 → 7,287, latest release v0.2.19 (October 15, 2026).
 - **October 9, 2026:** Stars 6,690 → 6,791, latest release v0.2.18 (October 9, 2026).
 - **October 7, 2026:** Stars 6,654 → 6,690, latest release v0.2.17 (October 7, 2026).
-- **October 6, 2026:** Stars 6,454 → 6,654, latest release v0.2.16 (October 5, 2026).
-- **October 3, 2026:** Stars 6,177 → 6,454, latest release v0.2.15 (October 2, 2026).
 
 ## What you get
 
@@ -41,6 +41,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to start a research project on OpenResearch. Using an AI agent like Claude Code or OpenCode, I want you to conduct a literature review, develop hypotheses, and design experiments to test these hypotheses. Throughout the study, manage the process autonomously by recording all findings, experiment results, and code changes in the OpenResearch local workspace.
 
+Repository: https://github.com/alphaXiv/OpenResearch. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Research Agents](https://trescout.com/en/dictionary/research-agents/)
@@ -55,7 +63,7 @@ I want to start a research project on OpenResearch. Using an AI agent like Claud
 - [GitHub repository →](https://github.com/alphaXiv/OpenResearch)
 - [Read in Turkish →](https://trescout.com/discover/openresearch/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/openresearch/

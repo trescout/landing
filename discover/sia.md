@@ -54,6 +54,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 SIA çerçevesini kullanarak bir yapay zekâ ajanının performansını artırmak istiyorum. Kurulumu tamamladıktan sonra, mevcut görevlerden birini seçerek (örneğin gpqa) öz-iyileştirme döngüsünü başlatmak için hangi komutu kullanmalıyım ve süreç sonunda oluşan çıktıları (target_agent.py, agent_execution.json, improvement.md) nasıl yorumlamalıyım? Ayrıca, kendi özel görev dizinimi sisteme nasıl dahil edebilirim?
 
+Depo: https://github.com/hexo-ai/sia. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ modellerinin performansını otonom iyileştirme süreçleriyle optimize etmek isteyen geliştiriciler ve araştırmacılar için uygundur.
 - **Lisans:** MIT
 
@@ -61,7 +69,7 @@ SIA çerçevesini kullanarak bir yapay zekâ ajanının performansını artırma
 
 - [GitHub deposu →](https://github.com/hexo-ai/sia)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

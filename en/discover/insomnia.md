@@ -42,6 +42,7 @@ To start using Insomnia, you can go to the official website https://insomnia.res
 ## Related dictionary terms
 
 - [API](https://trescout.com/en/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for software developers who want to manage API development, testing and documentation processes on a single platform.
 - **License:** Apache-2.0
@@ -51,7 +52,7 @@ To start using Insomnia, you can go to the official website https://insomnia.res
 - [GitHub repository →](https://github.com/Kong/insomnia)
 - [Read in Turkish →](https://trescout.com/discover/insomnia/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-19: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-19: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/insomnia/

@@ -22,6 +22,7 @@ Clone-Wars ist kein Softwaretool, sondern ein Leitfaden, der Open-Source-Klone b
 - [Tech Stack](https://trescout.com/de/dictionary/tech-stack/)
 - [Clone](https://trescout.com/de/dictionary/clone/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Studierende und Enthusiasten der Softwareentwicklung, die neugierig sind, wie beliebte Anwendungen erstellt werden, und sich durch Übungen an Open-Source-Projekten verbessern möchten.
 - **Lizenz:** AGPL-3.0
@@ -31,7 +32,7 @@ Clone-Wars ist kein Softwaretool, sondern ein Leitfaden, der Open-Source-Klone b
 - [GitHub-Repository →](https://github.com/GorvGoyl/Clone-Wars)
 - [Auf Türkisch lesen →](https://trescout.com/discover/clone-wars/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-15 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-15 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/clone-wars/

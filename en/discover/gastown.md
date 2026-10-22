@@ -2,12 +2,13 @@
 
 Gas Town offers an infrastructure that enables different artificial intelligence agents to work together as a multi-agent workspace manager. Developed with the Go language, this tool centralizes inter-agent coordination and resource management in complex workflows.
 
-- ★ 17,403
+- ★ 18,403
 - Go
 - GitHub Trending · 2026-07-06
 
 ## Updates
 
+- **October 18, 2026:** Stars 17,403 → 18,403, latest release v1.2.1 (June 6, 2026).
 - **August 2, 2026:** Stars 16,488 → 17,403, latest release v1.2.1 (June 6, 2026).
 
 ## What you get
@@ -44,6 +45,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I started a 'Mayor' session in my Gas Town workspace. I want you to analyze my current projects and tasks I'm working on, identify gaps in current workflows, and create a next step plan for ongoing processes. Prioritize work by reviewing existing 'rig' structures and 'bead' records to ensure coordination between agents.
 
+Repository: https://github.com/gastownhall/gastown. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Multi-agent](https://trescout.com/en/dictionary/multi-agent/)
@@ -57,7 +66,7 @@ I started a 'Mayor' session in my Gas Town workspace. I want you to analyze my c
 - [GitHub repository →](https://github.com/gastownhall/gastown)
 - [Read in Turkish →](https://trescout.com/discover/gastown/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-06: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-06: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/gastown/

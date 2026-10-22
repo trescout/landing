@@ -1,0 +1,459 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-19",
+  "capturedAt": "2026-10-19T09:53:56.955Z",
+  "editorial": "Ce rapport contient les tendances qui sont apparues pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "YuJunZhiXue/dsh-purge",
+          "url": "https://github.com/YuJunZhiXue/dsh-purge",
+          "summary": "YuJunZhiXue/dsh-purge est un outil JavaScript qui vise à contourner les restrictions de sécurité (jailbreak) en utilisant des invites (prompts) personnalisables pour différents modèles d'intelligence artificielle. Le projet permet aux utilisateurs de définir leurs propres commandes pour différents modèles et de se concentrer par défaut sur les modèles locaux.",
+          "meta": "JavaScript · ★ 7 496 · +423 aujourd'hui",
+          "snapshot": {
+            "sourceId": "YuJunZhiXue/dsh-purge",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 7496,
+              "engagementCount": 423,
+              "rank": 7,
+              "extra": {
+                "starsToday": 423
+              }
+            },
+            "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分"
+          }
+        },
+        {
+          "title": "mlabonne/llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "summary": "mlabonne/llm-course est une ressource pédagogique complète contenant des feuilles de route et des notebooks Colab pour ceux qui souhaitent s'initier au domaine des grands modèles de langage (LLM). Ce projet propose un programme qui guide les personnes souhaitant apprendre les modèles d'intelligence artificielle, du niveau débutant au niveau avancé.",
+          "meta": "★ 84 301 · +81 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mlabonne/llm-course",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "popularity": 84301,
+              "engagementCount": 81,
+              "rank": 12,
+              "extra": {
+                "starsToday": 81
+              }
+            },
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks."
+          }
+        },
+        {
+          "title": "Kruk2/jasna",
+          "url": "https://github.com/Kruk2/jasna",
+          "summary": "Kruk2/jasna est un outil de restauration vidéo développé pour améliorer les vidéos (video restoration tool). Écrit en Python, ce projet automatise les processus techniques visant à augmenter la qualité de l'image.",
+          "meta": "Python · ★ 2 659 · +115 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Kruk2/jasna",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2659,
+              "engagementCount": 115,
+              "rank": 13,
+              "extra": {
+                "starsToday": 115
+              }
+            },
+            "description": "Video restoration tool"
+          }
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI est un outil de génération d'images modulaire qui offre une interface basée sur des nœuds pour les modèles de diffusion (diffusion models). Fonctionnant sur des systèmes locaux, ce logiciel permet aux utilisateurs de visualiser des flux de travail complexes et d'exécuter des modèles via une API grâce à sa structure graphique.",
+          "meta": "Python · ★ 139 057 · +154 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Comfy-Org/ComfyUI",
+            "capturedAt": "2026-10-19T09:53:58.563Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 139057,
+              "engagementCount": 154,
+              "rank": 14,
+              "extra": {
+                "starsToday": 154
+              }
+            },
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Someone behind the software",
+          "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+          "summary": "Cet article, qui traite de la visibilité du facteur humain et de l'effort personnel dans les processus de développement logiciel, se concentre sur les histoires des individus derrière les produits numériques. Il souligne l'importance de comprendre les motivations et les expériences des personnes qui construisent ces outils, au-delà des succès techniques dans le monde du logiciel.",
+          "meta": "442 votes · 165 commentaires",
+          "snapshot": {
+            "sourceId": "50142573",
+            "capturedAt": "2026-10-19T09:53:57.236Z",
+            "metadata": {
+              "popularity": 442,
+              "engagementCount": 165,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50142573",
+                  "popularity": 442,
+                  "engagementCount": 165
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-18T16:32:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50142573"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50142573",
+              "popularity": 442,
+              "engagementCount": 165
+            }
+          ]
+        },
+        {
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "summary": "Les Hybrid Reasoning Agents sont des grands modèles de langage (LLM) capables de raisonner dans l'espace latent (latent space) et d'effectuer leurs actions sous forme textuelle. Cette approche vise à intégrer des processus de raisonnement complexes dans les agents d'intelligence artificielle.",
+          "meta": "394 votes · 190 commentaires",
+          "snapshot": {
+            "sourceId": "50145337",
+            "capturedAt": "2026-10-19T09:53:57.236Z",
+            "metadata": {
+              "popularity": 394,
+              "engagementCount": 190,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50145337",
+                  "popularity": 394,
+                  "engagementCount": 190
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-18T20:48:14Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50145337"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgenthttps:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridag...Evaluations: https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2610.18861v1#S"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50145337",
+              "popularity": 394,
+              "engagementCount": 190
+            }
+          ]
+        },
+        {
+          "title": "RepRapMicron",
+          "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+          "summary": "RepRapMicron est un dispositif de production compact développé dans le cadre du projet RepRap, un projet d'imprimante 3D auto-réplicable. Le projet propose une conception d'imprimante à petite échelle capable de produire ses propres composants matériels.",
+          "meta": "393 votes · 64 commentaires",
+          "snapshot": {
+            "sourceId": "50141076",
+            "capturedAt": "2026-10-19T09:53:57.236Z",
+            "metadata": {
+              "popularity": 393,
+              "engagementCount": 64,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50141076",
+                  "popularity": 393,
+                  "engagementCount": 64
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-18T13:48:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50141076"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50141076",
+              "popularity": 393,
+              "engagementCount": 64
+            }
+          ]
+        },
+        {
+          "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+          "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+          "summary": "La chaîne 3blue1brown, qui produit du contenu mathématique, a publié une vidéo traitant des raisons pour lesquelles c'est le moment idéal pour se tourner vers le domaine des mathématiques. Le contenu évalue comment la pensée mathématique et les opportunités de carrière dans ce domaine ont évolué avec les développements technologiques actuels.",
+          "meta": "370 votes · 441 commentaires",
+          "snapshot": {
+            "sourceId": "50136150",
+            "capturedAt": "2026-10-19T09:53:57.236Z",
+            "metadata": {
+              "popularity": 370,
+              "engagementCount": 441,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50136150",
+                  "popularity": 370,
+                  "engagementCount": 441
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-17T23:26:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50136150"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50136150",
+              "popularity": 370,
+              "engagementCount": 441
+            }
+          ]
+        },
+        {
+          "title": "macOS 15.8.2 Breaks OpenGL",
+          "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+          "summary": "La mise à jour macOS 15.8.2 entraîne des problèmes techniques sur la bibliothèque de traitement graphique OpenGL. Les utilisateurs signalent que les applications basées sur OpenGL ne fonctionnent pas correctement avec cette version du système d'exploitation.",
+          "meta": "261 votes · 293 commentaires",
+          "snapshot": {
+            "sourceId": "50141909",
+            "capturedAt": "2026-10-19T09:53:57.236Z",
+            "metadata": {
+              "popularity": 261,
+              "engagementCount": 293,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50141909",
+                  "popularity": 261,
+                  "engagementCount": 293
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-18T15:26:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50141909"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50141909",
+              "popularity": 261,
+              "engagementCount": 293
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "flux-3-image-klein-comfy, développé par Black Forest Labs, est un modèle d'intelligence artificielle permettant la conversion d'image à image (image-to-image). Il offre une structure qui permet aux utilisateurs de générer de nouvelles sorties basées sur des images existantes.",
+          "meta": "♥ 857 · 393 062 téléchargements",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-19T09:53:57.071Z",
+            "metadata": {
+              "popularity": 857,
+              "engagementCount": 393062,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 672,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "AI-Driven Disaster Response and Displacement Monitoring",
+          "url": "https://huggingface.co/papers/2610.21482",
+          "summary": "L'article partagé par Hugging Face traite de l'utilisation de l'intelligence artificielle dans les missions d'aide humanitaire telles que l'intervention en cas de catastrophe et le suivi des déplacements. L'étude examine la production de solutions axées sur les données pour les défis mondiaux en analysant les images satellites et les données socio-économiques à l'aide d'algorithmes d'apprentissage automatique (machine learning).",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.21482",
+            "capturedAt": "2026-10-19T09:53:57.081Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21482",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "ARTIFICIAL INTELLIGENCE (AI) has demonstrated its potential across a wide range of humanitarian tasks, offering scalable and data-driven solutions to some of the world's most pressing challenges. For instance, in addressing climate change, AI-powered models are being used for faster and more accurate global weather forecasting, control and design of renewable energy, and monitoring deforestation. Machine learning algorithms analyze satellite imagery and socioeconomic data to predict poverty and "
+          }
+        },
+        {
+          "title": "Xiaomi-Lens-0 Technical Report",
+          "url": "https://huggingface.co/papers/2610.23279",
+          "summary": "Xiaomi-Lens-0 est un modèle à 4 milliards de paramètres développé pour remédier aux lacunes des grands modèles de langage multimodaux (multimodal large language models) dans la compréhension des détails visuels. Créé sur la base de Qwen3.5, ce système permet une analyse plus précise de régions spécifiques au sein d'une image en effectuant une prédiction de masque à partir de représentations visuelles.",
+          "meta": "11 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.23279",
+            "capturedAt": "2026-10-19T09:53:57.081Z",
+            "metadata": {
+              "popularity": 11,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.23279",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/SeerRay-Lab/Xiaomi-Lens-0",
+                "githubStars": 10
+              }
+            },
+            "description": "Multimodal large language models (MLLMs) answer questions about whole images well, yet they still struggle with fine-grained region understanding. A key reason is that text-only supervision never specifies which regions support an answer. To close this gap, we present Xiaomi-Lens-0, a 4B MLLM built on Qwen3.5 that predicts masks from its own visual representations. Specifically, a lightweight decoder combines vision-encoder patch features with visual latents, the language model's mask-token stat"
+          }
+        },
+        {
+          "title": "MTEdit: Packed Trajectories Beat Rollouts for Multi-Turn Image Editing",
+          "url": "https://huggingface.co/papers/2610.23751",
+          "summary": "MTEdit, partagé par Hugging Face, est un ensemble de données visant à réduire l'accumulation d'erreurs et la dégradation de la qualité de l'image (visual-quality drift) lors des processus d'édition visuelle multi-étapes. Contrairement aux méthodes de traitement séquentiel traditionnelles, il vise à améliorer les processus d'édition basés sur la collaboration entre l'humain et l'IA en utilisant des trajectoires groupées (packed trajectories).",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.23751",
+            "capturedAt": "2026-10-19T09:53:57.081Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.23751",
+                "publishedAt": "2026-10-16T00:00:00.000Z"
+              }
+            },
+            "description": "Multi-turn image editing aims to modify an image according to a sequence of instructions, making it better aligned with human-AI collaborative creation than single-turn editing. However, constructing high-quality multi-turn training data remains challenging, as conventional sequential rollout accumulates errors and introduces visual-quality drift across editing turns. To address this challenge, we introduce MTEdit, a multi-turn image editing dataset built through a pipeline centered on packed tr"
+          }
+        },
+        {
+          "title": "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets",
+          "url": "https://huggingface.co/papers/2610.09872",
+          "summary": "LiveMACEBench est un outil d'évaluation (benchmark) qui évalue les capacités des grands modèles de langage (LLM) à travers des marchés financiers volatils avec une approche axée sur les processus. Ce système se concentre non seulement sur les résultats obtenus par les agents, mais aussi sur les processus qu'ils utilisent pour produire ces résultats et sur leur capacité à s'adapter aux conditions extérieures.",
+          "meta": "30 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.09872",
+            "capturedAt": "2026-10-19T09:53:57.081Z",
+            "metadata": {
+              "popularity": 30,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09872",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/RaymondVoldemortFu/LiveMACE",
+                "githubStars": 4
+              }
+            },
+            "description": "Evaluating agents by outcomes alone can obscure the capabilities that produce them. This problem is especially pronounced in evolving environments, where outcomes reflect a closed-loop interaction between agent behavior and changing external conditions. We introduce LiveMACEBench, a process-aware benchmark that uses live financial markets as a naturally evolving testbed for persistent LLM agents. Five frontier LLMs operate along continuous trajectories under matched Tool Use, Persistent Memory, "
+          }
+        },
+        {
+          "title": "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation",
+          "url": "https://huggingface.co/papers/2610.23121",
+          "summary": "Scene-Designer est un cadre d'intelligence artificielle conçu pour créer des scènes d'intérieur en trois dimensions à partir du langage naturel. Le système vise à améliorer la cohérence et l'utilisabilité des scènes en combinant les processus de conception et de critique.",
+          "meta": "38 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.23121",
+            "capturedAt": "2026-10-19T09:53:57.081Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.23121",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/ZJU-OmniAI/Scene-Designer",
+                "githubStars": 12
+              }
+            },
+            "description": "Generating complete, coherent, and usable 3D indoor scenes from natural language requires strong design intelligence: the ability to design high-quality scenes and critique their quality. However, existing approaches either rely on general-purpose models lacking domain-specific design experience or learn from static scenes. In this work, we introduce Scene-Designer, an agentic framework that learns design intelligence through complementary design and critique experiences. We construct two datase"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "prompts",
+      "explanation": "Commandes directrices écrites pour demander à une intelligence artificielle d'effectuer une opération spécifique ou de fournir une réponse."
+    },
+    {
+      "term": "jailbreak",
+      "explanation": "Tentative de désactivation des filtres de sécurité ou des restrictions des modèles d'intelligence artificielle."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "video restoration tool",
+      "explanation": "Outil logiciel qui répare les vidéos anciennes ou de faible qualité et améliore la netteté de l'image."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Technique d'intelligence artificielle qui génère des images ou traite des données étape par étape en partant d'un bruit aléatoire."
+    },
+    {
+      "term": "latent space",
+      "explanation": "Espace abstrait où l'intelligence artificielle représente mathématiquement les données et où les relations complexes sont exprimées par des valeurs numériques."
+    }
+  ]
+}

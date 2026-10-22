@@ -2,16 +2,16 @@
 
 Stremio est une application de lecteur multimédia qui regroupe différents fournisseurs de contenu dans une interface unique. Cette version basée sur le web permet aux utilisateurs de regarder des séries et des films via leur navigateur sans aucune installation.
 
-- ★ 14 524
+- ★ 14 721
 - JavaScript
 - GitHub Trending · 2026-09-07
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 14,524 → 14,721, dernière version v5.0.0-beta.43 (20 octobre 2026).
 - **12 octobre 2026:** Étoiles 14,129 → 14,524, dernière version v5.0.0-beta.42 (12 octobre 2026).
 - **5 octobre 2026:** Étoiles 13,968 → 14,129, dernière version v5.0.0-beta.41 (5 octobre 2026).
 - **27 septembre 2026:** Étoiles 13,631 → 13,968, dernière version v5.0.0-beta.40 (23 septembre 2026).
-- **7 septembre 2026:** Étoiles 13,627 → 13,631, dernière version v5.0.0-beta.39 (27 juillet 2026).
 
 ## Ce que ça vous apporte
 
@@ -41,6 +41,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je personnaliser mon expérience de visionnage de séries et de films en utilisant l'interface Stremio Web ? Guide-moi sur la façon de gérer les extensions, de synchroniser ma liste de lecture et d'utiliser les raccourcis clavier pour contrôler le lecteur plus efficacement.
 
+Dépôt : https://github.com/Stremio/stremio-web. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
@@ -53,7 +61,7 @@ Comment puis-je personnaliser mon expérience de visionnage de séries et de fil
 - [Dépôt GitHub →](https://github.com/Stremio/stremio-web)
 - [Lire en turc →](https://trescout.com/discover/stremio-web/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/stremio-web/

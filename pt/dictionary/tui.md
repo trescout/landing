@@ -79,7 +79,7 @@ No ecossistema Rust, ratatui; na linguagem Go, bubbletea e lipgloss; e no lado d
 - [Witr](https://trescout.com/pt/discover/witr/)
 - [Hister](https://trescout.com/pt/discover/hister/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tui/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tui/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/tui/

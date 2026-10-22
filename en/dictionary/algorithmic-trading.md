@@ -41,7 +41,7 @@ Transactions are usually unaffected since they are done server-side, but it beco
 
 - [Awesome Systematic Trading](https://trescout.com/en/discover/awesome-systematic-trading/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/algorithmic-trading/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/algorithmic-trading/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/algorithmic-trading/

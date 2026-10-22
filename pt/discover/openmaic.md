@@ -2,16 +2,16 @@
 
 O OpenMAIC, desenvolvido por pesquisadores da Universidade Tsinghua, reúne múltiplos agentes de IA nos papéis de professor, aluno e observador em um ambiente de sala de aula interativo.
 
-- ★ 40.363
+- ★ 41.041
 - TypeScript
 - GitHub Trending · 2026-08-31
 
 ## Atualizações
 
+- **19 de outubro de 2026:** Estrelas 40,871 → 41,041, versão mais recente v1.2.1 (18 de outubro de 2026).
+- **16 de outubro de 2026:** Estrelas 40,363 → 40,871, versão mais recente v1.2.0 (16 de outubro de 2026).
 - **11 de outubro de 2026:** Estrelas 39,969 → 40,363, versão mais recente v1.1.4 (11 de outubro de 2026).
 - **5 de outubro de 2026:** Estrelas 39,351 → 39,969, versão mais recente v1.1.3 (5 de outubro de 2026).
-- **28 de setembro de 2026:** Estrelas 39,156 → 39,351, versão mais recente v1.1.2 (28 de setembro de 2026).
-- **27 de setembro de 2026:** Estrelas 25,572 → 39,156, versão mais recente v1.1.1 (26 de setembro de 2026).
 
 ## O que você ganha
 
@@ -58,6 +58,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero simular um ambiente de discussão socrática na plataforma OpenMAIC carregando minhas próprias notas de aula. Você poderia explicar passo a passo como definir os papéis dos agentes (professor, aluno curioso, questionador crítico) e como configurar essa classe com um modelo Ollama local?
 
+Repositório: https://github.com/THU-MAIC/OpenMAIC. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - É necessário uma GPU para usar o OpenMAIC? Se você for executar seu próprio modelo local (Ollama/vLLM), uma GPU é recomendada; no entanto, ele pode ser usado diretamente com um computador padrão através de APIs em nuvem (OpenAI, Gemini, Groq).
@@ -71,8 +79,8 @@ Quero simular um ambiente de discussão socrática na plataforma OpenMAIC carreg
 - [GPU](https://trescout.com/pt/dictionary/gpu/)
 - [PDF](https://trescout.com/pt/dictionary/pdf/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
-- [API](https://trescout.com/pt/dictionary/api/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [API](https://trescout.com/pt/dictionary/api/)
 
 - **Para quem é:** Educadores, pesquisadores de IA, empreendedores de edtech e estudantes.
 - **Licença:** Apache-2.0 (Açık kaynak lisansı)
@@ -84,7 +92,7 @@ Quero simular um ambiente de discussão socrática na plataforma OpenMAIC carreg
 - [Repositório no GitHub →](https://github.com/THU-MAIC/OpenMAIC)
 - [Ler em turco →](https://trescout.com/discover/openmaic/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-31: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-31: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/openmaic/

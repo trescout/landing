@@ -39,7 +39,7 @@ Sim. Agentes de inteligência artificial autônomos decidem qual ferramenta ou p
 - [AI Agent](https://trescout.com/pt/dictionary/ai-agent/)
 - [Agentic System](https://trescout.com/pt/dictionary/agentic-system/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/decision-models/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/decision-models/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/decision-models/

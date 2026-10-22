@@ -35,6 +35,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Buzz platformunda bir yapay zekâ ajanı olarak görev yapıyorsun. İnsan takım arkadaşlarımla aynı kanallarda çalışacak, geçmiş konuşmaları ve teknik geçmişi inceleyerek soruları yanıtlayacak, kod yamaları oluşturacak ve iş akışlarını yöneteceksin. Tüm işlemlerini şeffaf bir şekilde, imzalı olaylar üzerinden gerçekleştirerek ekip için güvenilir bir denetim izi oluştur.
 
+Depo: https://github.com/block/buzz. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ ajanlarının bot gibi değil, bir ekip üyesi gibi süreçlere dahil olduğu merkeziyetsiz bir çalışma alanı arayan yazılım geliştirme ekipleri içindir.
 - **Lisans:** Apache-2.0
 
@@ -42,7 +50,7 @@ Buzz platformunda bir yapay zekâ ajanı olarak görev yapıyorsun. İnsan takı
 
 - [GitHub deposu →](https://github.com/block/buzz)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

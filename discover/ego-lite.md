@@ -2,16 +2,16 @@
 
 Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır. JavaScript tabanlı bu araç, insan ve makine etkileşimini aynı tarayıcı ortamında paralel şekilde yürütmeyi hedefler.
 
-- ★ 16.628
+- ★ 17.477
 - JavaScript
 - GitHub Trending · 2026-07-24
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 16.628 → 17.477, son sürüm v2.1.0 (16 Ekim 2026).
 - **28 Eylül 2026:** Yıldız 15.611 → 16.628, son sürüm v2.0.0 (10 Eylül 2026).
 - **10 Eylül 2026:** Yıldız 14.478 → 15.611, son sürüm v2.0.0 (10 Eylül 2026).
 - **31 Ağustos 2026:** Yıldız 13.023 → 14.478, son sürüm v1.2.3 (11 Ağustos 2026).
-- **24 Ağustos 2026:** Yıldız 11.904 → 13.023, son sürüm v1.2.3 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 
@@ -41,6 +41,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Set up ego lite for me: https://github.com/citrolabs/ego-lite. Read `skills/ego-browser/references/install.md` and follow the steps to install ego lite.
 
+Depo: https://github.com/citrolabs/ego-lite. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi tarayıcı sekmelerini bölmeden yapay zekâ ajanlarına web otomasyon görevleri yaptırmak isteyen macOS kullanıcıları içindir.
 - **Lisans:** MIT
 
@@ -48,7 +56,7 @@ Set up ego lite for me: https://github.com/citrolabs/ego-lite. Read `skills/ego-
 
 - [GitHub deposu →](https://github.com/citrolabs/ego-lite)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

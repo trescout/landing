@@ -79,7 +79,7 @@ Les versions modernes de JavaScript (ES6+) ont perdu leur popularité d'antan ca
 - [Production Pipeline](https://trescout.com/fr/dictionary/production-pipeline/)
 - [Bundler](https://trescout.com/fr/dictionary/bundler/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/utilities/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/utilities/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/utilities/

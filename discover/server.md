@@ -2,15 +2,15 @@
 
 Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.
 
-- ★ 3.158
+- ★ 3.196
 - GitHub Trending · 2026-06-13
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 3.158 → 3.196, son sürüm 2.10.7 (17 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 3.128 → 3.158, son sürüm 2.10.6 (9 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 3.078 → 3.128, son sürüm 2.10.5 (2 Ekim 2026).
 - **18 Eylül 2026:** Yıldız 3.058 → 3.078, son sürüm 2.10.4 (18 Eylül 2026).
-- **12 Eylül 2026:** Yıldız 3.029 → 3.058, son sürüm 2.10.3 (11 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -34,6 +34,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Music Assistant kullanarak dijital müzik kütüphanemi nasıl yapılandırabilirim? Home Assistant üzerinde kurulumu tamamladıktan sonra farklı yayın servislerini ve hoparlörlerimi sisteme nasıl tanıtabileceğim konusunda bana adım adım bir rehber oluştur.
 
+Depo: https://github.com/music-assistant/server. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Müzik koleksiyonunu ve bağlı ses cihazlarını tek bir merkezden yönetmek isteyen, Home Assistant kullanıcıları için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -41,7 +49,7 @@ Music Assistant kullanarak dijital müzik kütüphanemi nasıl yapılandırabili
 
 - [GitHub deposu →](https://github.com/music-assistant/server)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -2,16 +2,16 @@
 
 Tinycast ist ein leichter App-Launcher, Shortcut-Manager und Zwischenablage-Verlaufstool, das für das Betriebssystem macOS entwickelt wurde. Diese in Swift geschriebene native Software zielt darauf ab, Desktop-Workflows durch eine effiziente Nutzung der Systemressourcen zu beschleunigen.
 
-- ★ 8.277
+- ★ 8.714
 - Swift
 - GitHub Trending · 2026-09-18
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 8,277 → 8,714, neueste Version v0.12.1 (19. Oktober 2026).
 - **11. Oktober 2026:** Sterne 7,971 → 8,277, neueste Version v0.11.19 (10. Oktober 2026).
 - **3. Oktober 2026:** Sterne 7,552 → 7,971, neueste Version v0.11.12 (2. Oktober 2026).
 - **27. September 2026:** Sterne 6,290 → 7,552, neueste Version v0.11.3 (19. September 2026).
-- **18. September 2026:** Sterne 6,286 → 6,290, neueste Version v0.10.23 (13. September 2026).
 
 ## Was es bringt
 
@@ -34,6 +34,16 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Um KI-Funktionen in Tinycast zu aktivieren, hinterlegen Sie Ihren eigenen API-Schlüssel oder die Daten eines eingerichteten KI-Kontos im Einstellungsmenü. Danach können Sie direkt über die Palette Chats starten sowie schnelle Aktionen wie Grammatikkorrektur, Zusammenfassungen oder Übersetzungen für ausgewählte Texte durchführen.
 
+Repository: https://github.com/abue-ammar/tinycast. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Falls ein API-Schlüssel erforderlich ist, fordere mich nicht auf, ihn in den Chat zu schreiben. Zeig mir, wie ich ihn zur .env-Datei hinzufüge und stelle sicher, dass diese Datei nicht an Git übertragen wird.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Launcher](https://trescout.com/de/dictionary/launcher/)
@@ -48,7 +58,7 @@ Um KI-Funktionen in Tinycast zu aktivieren, hinterlegen Sie Ihren eigenen API-Sc
 - [GitHub-Repository →](https://github.com/abue-ammar/tinycast)
 - [Auf Türkisch lesen →](https://trescout.com/discover/tinycast/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-18 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-18 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/tinycast/

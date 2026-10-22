@@ -63,7 +63,7 @@ Abrir una puerta aumenta la superficie de ataque. Por lo tanto, la interfaz no d
 
 - [Agentskills](https://trescout.com/es/discover/agentskills/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/interoperability/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/interoperability/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/interoperability/

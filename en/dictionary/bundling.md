@@ -37,7 +37,7 @@ To increase the loading speed of the site by making the browser send fewer reque
 
 - [SWC](https://trescout.com/en/discover/swc/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/bundling/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/bundling/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/bundling/

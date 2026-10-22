@@ -70,7 +70,7 @@ Há um custo de modelo e controlo. O volume determina.
 
 - [Karakeep](https://trescout.com/pt/discover/karakeep/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/automatic-tagging/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/automatic-tagging/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/automatic-tagging/

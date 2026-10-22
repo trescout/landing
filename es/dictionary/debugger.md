@@ -43,7 +43,7 @@ Es una marca que colocas en la línea donde deseas que el código se pause mient
 
 - [Raddebugger](https://trescout.com/es/discover/raddebugger/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/debugger/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/debugger/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/debugger/

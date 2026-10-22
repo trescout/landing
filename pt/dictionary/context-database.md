@@ -38,7 +38,7 @@ A estrutura do banco de dados de contexto é protegida por protocolos de seguran
 - [Vector Database](https://trescout.com/pt/dictionary/vector-database/)
 - [Long-term Memory](https://trescout.com/pt/dictionary/long-term-memory/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/context-database/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/context-database/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/context-database/

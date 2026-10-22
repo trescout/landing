@@ -36,7 +36,7 @@ Ao analisar sequências genéticas, a inteligência artificial determina onde o 
 - [Computer Science](https://trescout.com/pt/dictionary/computer-science/)
 - [AI Models](https://trescout.com/pt/dictionary/ai-models/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/crispr/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/crispr/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/crispr/

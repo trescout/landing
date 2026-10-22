@@ -71,7 +71,7 @@ A startup mantém o ciclo curto e flexível, a corporação adiciona camadas de 
 - [AI Engineering](https://trescout.com/pt/dictionary/ai-engineering/)
 - [Engineering Skills](https://trescout.com/pt/dictionary/engineering-skills/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/product-development-cycle/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/product-development-cycle/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/product-development-cycle/

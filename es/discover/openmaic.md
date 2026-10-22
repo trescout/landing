@@ -2,16 +2,16 @@
 
 OpenMAIC, desarrollado por investigadores de la Universidad de Tsinghua, reúne múltiples agentes de inteligencia artificial en los roles de profesor, estudiante y observador en un entorno de aula interactivo.
 
-- ★ 40.363
+- ★ 41.041
 - TypeScript
 - GitHub Trending · 2026-08-31
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 40,871 → 41,041, última versión v1.2.1 (18 de octubre de 2026).
+- **16 de octubre de 2026:** Estrellas 40,363 → 40,871, última versión v1.2.0 (16 de octubre de 2026).
 - **11 de octubre de 2026:** Estrellas 39,969 → 40,363, última versión v1.1.4 (11 de octubre de 2026).
 - **5 de octubre de 2026:** Estrellas 39,351 → 39,969, última versión v1.1.3 (5 de octubre de 2026).
-- **28 de septiembre de 2026:** Estrellas 39,156 → 39,351, última versión v1.1.2 (28 de septiembre de 2026).
-- **27 de septiembre de 2026:** Estrellas 25,572 → 39,156, última versión v1.1.1 (26 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -58,6 +58,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero simular un entorno de discusión socrático cargando mis propios apuntes de clase en la plataforma OpenMAIC. ¿Puedes explicar paso a paso cómo definir los roles de los agentes (maestro, estudiante curioso, interrogador crítico) y cómo plantear esta clase con un modelo local de Ollama?
 
+Repositorio: https://github.com/THU-MAIC/OpenMAIC. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Preguntas frecuentes
 
 - ¿Se requiere una GPU para usar OpenMAIC? Si va a ejecutar su propio modelo nativo (Ollama/vLLM), se recomienda GPU; pero se puede utilizar directamente con una computadora estándar a través de API en la nube (OpenAI, Gemini, Groq).
@@ -71,8 +79,8 @@ Quiero simular un entorno de discusión socrático cargando mis propios apuntes 
 - [GPU](https://trescout.com/es/dictionary/gpu/)
 - [PDF](https://trescout.com/es/dictionary/pdf/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
-- [API](https://trescout.com/es/dictionary/api/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [API](https://trescout.com/es/dictionary/api/)
 
 - **Para quién es:** Educadores, investigadores de IA, emprendedores de tecnología educativa y estudiantes.
 - **Licencia:** Apache-2.0 (Açık kaynak lisansı)
@@ -84,7 +92,7 @@ Quiero simular un entorno de discusión socrático cargando mis propios apuntes 
 - [Repositorio en GitHub →](https://github.com/THU-MAIC/OpenMAIC)
 - [Leer en turco →](https://trescout.com/discover/openmaic/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-31: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-31: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/openmaic/

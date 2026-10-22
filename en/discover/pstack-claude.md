@@ -2,16 +2,16 @@
 
 Pstack-claude is an automation library that adapts the core functions of the software development tool Cursor for different AI models and platforms. It allows developers to run complex AI agent workflows in a standardized way across various execution environments.
 
-- ★ 1,926
+- ★ 3,217
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Updates
 
-- **October 13, 2026:** Stars 1,917 → 1,926, latest release v0.9.84 (October 13, 2026).
-- **October 13, 2026:** Stars 1,825 → 1,917, latest release v0.9.83 (October 13, 2026).
-- **October 12, 2026:** Stars 1,711 → 1,825, latest release v0.9.82 (October 11, 2026).
-- **October 9, 2026:** Stars 1,691 → 1,711, latest release v0.9.81 (October 9, 2026).
+- **October 21, 2026:** Stars 3,212 → 3,217, latest release v0.9.99 (October 21, 2026).
+- **October 21, 2026:** Stars 3,140 → 3,212, latest release v0.9.97 (October 21, 2026).
+- **October 20, 2026:** Stars 2,860 → 3,140, latest release v0.9.95 (October 20, 2026).
+- **October 18, 2026:** Stars 2,721 → 2,860, latest release v0.9.93 (October 18, 2026).
 
 ## What you get
 
@@ -38,7 +38,7 @@ You can get started by running the relevant plugin commands through your Claude 
 - [GitHub repository →](https://github.com/michael-denyer/pstack-claude)
 - [Read in Turkish →](https://trescout.com/discover/pstack-claude/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/pstack-claude/

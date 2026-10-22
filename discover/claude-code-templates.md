@@ -53,6 +53,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code çalışma ortamımı optimize etmek istiyorum. npx claude-code-templates@latest komutunu kullanarak projeme uygun ajanları, özel komutları ve gerekli MCP entegrasyonlarını nasıl listeleyip kurabilirim? Ayrıca kurulumumun sağlıklı olup olmadığını kontrol etmek için hangi komutu çalıştırmalıyım?
 
+Depo: https://github.com/davila7/claude-code-templates. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Claude Code kullanan ve geliştirme iş akışını hazır şablonlar, özel komutlar ve analiz araçlarıyla standartlaştırmak isteyen geliştiriciler içindir.
 - **Lisans:** MIT
 
@@ -60,7 +68,7 @@ Claude Code çalışma ortamımı optimize etmek istiyorum. npx claude-code-temp
 
 - [GitHub deposu →](https://github.com/davila7/claude-code-templates)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

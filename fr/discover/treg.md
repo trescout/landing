@@ -2,11 +2,12 @@
 
 Treg est une couche de routage qui permet de gérer les outils d'agent développés pour les agents d'intelligence artificielle via une interface unique. Il fournit un pont standard entre différents modèles et outils de langage, permettant aux développeurs d'intégrer facilement des flux de travail basés sur des agents via OpenRouter.
 
-- ★ 4 625
+- ★ 5 646
 - GitHub Trending · 2026-09-23
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 4,625 → 5,646.
 - **7 octobre 2026:** Étoiles 3,272 → 4,625.
 
 ## Ce que ça vous apporte
@@ -30,7 +31,7 @@ Treg est une couche de routage qui permet de gérer les outils d'agent développ
 - [Dépôt GitHub →](https://github.com/superdesigndev/treg)
 - [Lire en turc →](https://trescout.com/discover/treg/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/treg/

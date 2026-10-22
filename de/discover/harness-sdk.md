@@ -2,15 +2,15 @@
 
 Harness SDK ist ein Open-Source-Entwicklungskit, das End-to-End-Steuerung und -Verwaltung für KI-Agenten bietet. Dieses mit Python und TypeScript kompatible Tool ermöglicht die Standardisierung von Agenten auf Produktionsebene, die auf verschiedenen Modellen und Cloud-Infrastrukturen laufen.
 
-- ★ 8.821
+- ★ 8.836
 - GitHub Trending · 2026-09-24
 
 ## Aktualisierungen
 
+- **16. Oktober 2026:** Sterne 8,821 → 8,836, neueste Version python/v1.61.1 (15. Oktober 2026).
 - **15. Oktober 2026:** Sterne 8,784 → 8,821, neueste Version python/v1.61.0 (14. Oktober 2026).
 - **12. Oktober 2026:** Sterne 8,738 → 8,784, neueste Version python/v1.60.0 (12. Oktober 2026).
 - **8. Oktober 2026:** Sterne 8,713 → 8,738, neueste Version harness-cli/v0.2.0 (8. Oktober 2026).
-- **7. Oktober 2026:** Sterne 8,685 → 8,713, neueste Version python/v1.58.1 (6. Oktober 2026).
 
 ## Was es bringt
 
@@ -38,6 +38,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das Paket strands-harness in meiner Python- oder TypeScript-Umgebung installieren, um den KI-Agenten-Loop zu starten und zu testen. Kannst du nach dem Installieren der erforderlichen Bibliothek einen Code schreiben, mit dem ich einen einfachen Agenten erstellen und ihm eine Beispielaufgabe zuweisen kann?
 
+Repository: https://github.com/strands-agents/harness-sdk. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Harness](https://trescout.com/de/dictionary/harness/)
@@ -52,7 +60,7 @@ Ich möchte das Paket strands-harness in meiner Python- oder TypeScript-Umgebung
 - [GitHub-Repository →](https://github.com/strands-agents/harness-sdk)
 - [Auf Türkisch lesen →](https://trescout.com/discover/harness-sdk/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-24 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-24 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/harness-sdk/

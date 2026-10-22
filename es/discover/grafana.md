@@ -51,6 +51,7 @@ Para comenzar a usar Grafana, visite el sitio web oficial grafana.com/get. Puede
 
 - [Traces](https://trescout.com/es/dictionary/traces/)
 - [Logs](https://trescout.com/es/dictionary/logs/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para administradores de sistemas y analistas de datos que desean monitorear y visualizar sus datos de diferentes fuentes desde un solo centro.
 - **Licencia:** AGPL-3.0
@@ -60,7 +61,7 @@ Para comenzar a usar Grafana, visite el sitio web oficial grafana.com/get. Puede
 - [Repositorio en GitHub →](https://github.com/grafana/grafana)
 - [Leer en turco →](https://trescout.com/discover/grafana/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-27: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-27: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/grafana/

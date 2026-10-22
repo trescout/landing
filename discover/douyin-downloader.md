@@ -48,6 +48,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Douyin platformundaki videoları, fotoğraf albümlerini ve müzikleri filigransız olarak bilgisayarıma indirmek istiyorum. Bu aracı kullanarak toplu indirme yapmamı sağlayacak, SQLite veritabanı ile mükerrer kayıtları engelleyecek ve tarayıcı yedekleme özelliğini aktif edecek şekilde yapılandırma dosyamı nasıl hazırlamalıyım? İndirme işlemlerini başlatmak için hangi komutları kullanmam gerektiğini adım adım açıkla.
 
+Depo: https://github.com/jiji262/douyin-downloader. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Douyin üzerindeki içerikleri arşivlemek isteyen ve toplu indirme süreçlerini otomatikleştirmeyi hedefleyen kullanıcılar içindir.
 - **Lisans:** MIT
 
@@ -55,7 +63,7 @@ Douyin platformundaki videoları, fotoğraf albümlerini ve müzikleri filigrans
 
 - [GitHub deposu →](https://github.com/jiji262/douyin-downloader)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

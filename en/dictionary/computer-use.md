@@ -38,7 +38,7 @@ It's safe as long as you can control what operations you allow the AI ​​to p
 
 - [Cwc Workshops](https://trescout.com/en/discover/cwc-workshops/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/computer-use/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/computer-use/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/computer-use/

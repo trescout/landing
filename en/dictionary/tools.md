@@ -1,56 +1,69 @@
-# Tools: Developer tooling, Function Calling, and MCP
+# What is Tools?
 
 *Development · Last updated: September 19, 2026*
 
-Tools in computing refer to two pivotal domains: specialized software utilities that accelerate developer productivity, and structured interfaces enabling AI models to execute code, query APIs, and interact with the physical world.
+Tools (tools) is an indispensable concept in two critical areas of the IT and software world: developer tools (DevTools), which automate developers' code writing, debugging, and deployment processes; and action capabilities (Tool Use / Function Calling), which enable artificial intelligence models to interact with the physical and digital world by calling external APIs, databases, or functions.
 
 ## Etymology and the Tool Metaphor in Computing
 
-The word *tool* originates from Old English *tol* (an instrument for making or doing). In human history, toolmaking marked the boundary between biological constraints and cultural amplification. In software, Ken Thompson and Doug McIlroy shaped the Unix philosophy: write programs that do one thing well and compose them together through text streams.
+The word tool, of English origin, etymologically traces back to the Old English word tol (an instrument or implement used for doing work). Just as tool-making in human history enabled humans to transcend the limits of biological evolution, in the world of computing, tools allow the purely theoretical capacities of the human mind and artificial intelligence algorithms to be transformed into real-world actions.
 
-## 1. Developer Tools (DevTools)
+## 1. Developer Tools (Developer Tools & DevTools)
 
-Modern software engineering advances through layers of developer tooling:
+Software engineering is built upon the abstraction layers provided by modern developer tools:
 
-- **Compilers & Build Systems:** Compilers (GCC, Clang, rustc) and build tools (Make, Vite, Turborepack) transform human abstractions into high-speed machine instructions.
-- **Debuggers & Profilers:** GDB, LLDB, and browser DevTools inspect call stacks, memory allocations, and network latency in real time.
-- **Static Analysis & Linters:** Tools like ESLint, Ruff, and SonarQube enforce code standards and intercept defects before compilation.
+Unix Philosophy and CLI Tools: At the heart of the Unix philosophy, whose foundations were laid by Doug McIlroy and Ken Thompson, lies tool design: "Do one thing, do it well, and produce text streams that work with other tools." Command-line tools like grep, sed, awk, curl, and jq combine via pipelines (|) to complete complex data processing operations in seconds.
+- Integrated Development Environments (IDEs) and Linters: Environments such as VS Code, JetBrains, and Neovim combine compilers, language servers (LSP), static code analyzers, and debuggers under a single roof.
+- Browser DevTools: Developer tools in Chrome, Firefox, and Safari offer capabilities for DOM inspection, network traffic analysis (Network tab), memory leak detection (Heap Snapshot), and JavaScript CPU profiling (CPU Profiler).
 
-## 2. The Turning Point in AI: Tool Use and Function Calling
+## 2. Turning Point in Artificial Intelligence: Tool Use and Function Calling
 
-Traditional large language models (LLMs) are probabilistic text predictors trapped inside static weights. Tool use bridges four critical limitations:
+Traditional large language models (LLMs) are merely probabilistic text generators (Next-token prediction). This situation traps the models in four fatal constraints:
 
-1. **Real-time Information:** Querying live web search APIs rather than relying on stale training cutoffs.
-2. **Mathematical Precision:** Offloading arithmetic to Python runtimes rather than guessing token probabilities.
-3. **External Action:** Sending emails, dispatching webhooks, or updating database rows.
-4. **System Observability:** Querying file trees and git histories to inspect running services.
+1. Knowledge Cutoff: The model only knows the world up to the date it was trained.
+2. Math and Logic Errors: It can hallucinate because it tries to probabilistically guess even a simple multiplication operation.
+3. Real-World Inertia: It cannot modify a file, send an email, or even know a live stock price.
+4. Inability to Access Private Data: It has no awareness of the internal SQL database.
 
-## 3. Model Context Protocol (MCP) as a Universal Standard
+Here is how the Tool Use and Function Calling mechanism breaks these limitations:
 
-As AI agents proliferated, custom tool schemas created severe integration fragmentation. Anthropic introduced the **Model Context Protocol (MCP)** as an open standard (analogous to the Language Server Protocol for IDEs). MCP defines a uniform JSON-RPC communication bridge between AI host clients and backend tool servers.
+- Definition via JSON Schema: The developer introduces the tools the model can use (search, query_sql, get_weather). The tool's name, description, and required parameters are communicated to the model using a strict JSON schema.
+- Separation of Decision and Action: The model does not execute code directly (it does not have an operating system kernel anyway). By analyzing the user's intent, it stops generating text and produces a tool_calls JSON object.
+Runtime Execution: The application layer intercepts this call, executes the actual function (e.g., calls the weather API), and feeds the result back to the model as an "observation" message.
+Final Synthesis: The model uses the incoming real data to generate the accurate, proven, and hallucination-free final response to the user.
+
+## 3. Universal Standard with Model Context Protocol (MCP)
+
+With the widespread adoption of artificial intelligence tools, every platform has developed its own proprietary tool format, which has led to a major integration crisis. Announced as open-source by Anthropic, Model Context Protocol (MCP) has standardized the tool ecosystem:
+
+- Each data source or tool is packaged as an "MCP Server".
+- AI clients (Claude, Cursor, Antigravity) can instantly connect to hundreds of different tools via a single standard JSON-RPC protocol.
+- Security and Permission Model: Tool capabilities such as file deletion or terminal command execution are tied to human approval (human-in-the-loop) and isolated in secure sandbox environments.
 
 ## 4. Dual-Use Tools in Cybersecurity
 
-In security, software tools serve offensive and defensive purposes identically:
+In the cybersecurity world, the concept of a "tool" is a double-edged sword:
 
-- **Penetration Testing & Auditing:** Nmap (port scanning), Wireshark (packet analysis), and Burp Suite (web security) help engineers identify vulnerabilities before malicious adversaries exploit them.
-- **Automated Exploit Defense:** Dynamic fuzzers (AFL++) continuously bombard software interfaces with randomized inputs to discover zero-day memory corruptions.
+- Pentest and Analysis: Tools such as Nmap (port scanning), Wireshark (packet analysis), Burp Suite (web security testing), and Metasploit are used by system administrators to patch vulnerabilities, while attackers use them to infiltrate target networks.
+- The tools themselves are neutral; the intent of use and authorization boundaries define the moral framework of security.
 
-*A large language model without tools is like a brilliant scholar locked inside a windowless library room; equipping it with tools gives it hands, a calculator, a telephone, and access to the outside world.*
+## Frequently Asked Questions
 
-## Frequently asked questions
+**What does "Tools" mean and what is its Turkish equivalent?**
 
-**What does tool mean in the context of modern AI?**
+It is a word of English origin that means 'araçlar' or 'gereçler' in Turkish. In software, it refers to programs that increase developer productivity; in artificial intelligence, it refers to functional capabilities that enable models to call external databases or APIs.
 
-In AI, a tool is an external function, API endpoint, or executable script that an LLM can invoke via structured JSON arguments to take real actions or fetch live data.
+**Why is Tool Use revolutionary in artificial intelligence models?**
 
-**What is the Model Context Protocol (MCP)?**
+It transforms artificial intelligence from a passive text writer into an autonomous agent (AI Agent) that gets things done in the real world. Thanks to this, the model accesses up-to-date data, performs mathematical calculations without error, and works integrated with external systems.
 
-MCP is an open standard that decouples AI models from data sources and tools, providing a plug-and-play architecture for LLM assistants.
+**How did Model Context Protocol (MCP) change tool usage?**
 
-**How does an LLM decide which tool to use?**
+It eliminated the need to write separate integrations for each AI model. It enabled tools to be connected to all artificial intelligence systems in a plug-and-play manner using a single open protocol.
 
-The model inspects JSON descriptions and parameter schemas for available tools, selects the most relevant function, and outputs structured arguments that the host environment executes.
+**What is the difference between a Tool and a Plugin?**
+
+A tool is generally a simple function call serving a single purpose (e.g., querying SQL); whereas a plugin is a more comprehensive software module that houses multiple tools, settings panels, and a user interface together.
 
 ## Related terms
 
@@ -62,10 +75,10 @@ The model inspects JSON descriptions and parameter schemas for available tools, 
 ## Related tools
 
 - [ECC](https://trescout.com/en/discover/ecc/)
-- [System Prompts and Models of AI Tools](https://trescout.com/en/discover/system-prompts-and-models-of-ai-tools/)
 - [Claude Plugins Official](https://trescout.com/en/discover/claude-plugins-official/)
+- [Treg](https://trescout.com/en/discover/treg/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tools/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tools/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/tools/

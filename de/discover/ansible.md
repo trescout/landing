@@ -50,6 +50,7 @@ Um Ansible zu installieren, müssen Sie die Installationsanleitung auf der offiz
 ## Verwandte Begriffe aus dem Glossar
 
 - [Agent](https://trescout.com/de/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Systemadministratoren und Softwareentwickler, die IT-Infrastruktur- und Serverkonfigurationen automatisieren möchten.
 - **Lizenz:** GPL-3.0
@@ -59,7 +60,7 @@ Um Ansible zu installieren, müssen Sie die Installationsanleitung auf der offiz
 - [GitHub-Repository →](https://github.com/ansible/ansible)
 - [Auf Türkisch lesen →](https://trescout.com/discover/ansible/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/ansible/

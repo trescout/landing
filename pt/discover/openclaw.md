@@ -2,16 +2,16 @@
 
 O Openclaw é uma ferramenta de automação baseada em inteligência artificial capaz de executar tarefas em diferentes sistemas operacionais e plataformas. Desenvolvido com TypeScript, este software permite que os usuários padronizem e automatizem operações no computador.
 
-- ★ 391.857
+- ★ 392.439
 - TypeScript
 - GitHub Trending · 2026-10-01
 
 ## Atualizações
 
+- **19 de outubro de 2026:** Estrelas 392,146 → 392,439, versão mais recente v2026.10.5 (18 de outubro de 2026).
+- **16 de outubro de 2026:** Estrelas 391,857 → 392,146, versão mais recente v2026.10.4 (16 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 391,752 → 391,857, versão mais recente v2026.10.3 (13 de outubro de 2026).
 - **12 de outubro de 2026:** Estrelas 391,667 → 391,752, versão mais recente v2026.10.2 (12 de outubro de 2026).
-- **11 de outubro de 2026:** Estrelas 391,637 → 391,667, versão mais recente v2026.10.1 (10 de outubro de 2026).
-- **8 de outubro de 2026:** Estrelas 391,209 → 391,637, versão mais recente v2026.9.9 (8 de outubro de 2026).
 
 ## O que você ganha
 
@@ -40,6 +40,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero instalar o assistente de inteligência artificial OpenClaw no meu computador. Você pode me ajudar passo a passo a concluir a instalação executando o script de download curl adequado para o meu sistema operacional ou o comando de instalação global via npm, e em seguida iniciar o assistente de configuração inicial?
 
+Repositório: https://github.com/openclaw/openclaw. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
@@ -51,7 +59,7 @@ Quero instalar o assistente de inteligência artificial OpenClaw no meu computad
 - [Repositório no GitHub →](https://github.com/openclaw/openclaw)
 - [Ler em turco →](https://trescout.com/discover/openclaw/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-10-01: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-10-01: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/openclaw/

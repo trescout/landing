@@ -38,7 +38,7 @@ Every model has a capacity, and when this capacity is full, the model begins to 
 
 - [Context Mode](https://trescout.com/en/discover/context-mode/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context-window-optimization/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context-window-optimization/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/context-window-optimization/

@@ -37,7 +37,7 @@ No, it requires a special architecture and constant data flow.
 - [Continuous Learning](https://trescout.com/en/dictionary/continuous-learning/)
 - [Machine Learning](https://trescout.com/en/dictionary/machine-learning/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/continual-learning/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/continual-learning/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/continual-learning/

@@ -45,6 +45,7 @@ To start using Keycloak, you need to download the distribution package from the 
 
 - [Containers](https://trescout.com/en/dictionary/containers/)
 - [Container](https://trescout.com/en/dictionary/container/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for software developers and system administrators who want to centrally and securely manage user authentication and access management processes in their applications.
 - **License:** Apache-2.0
@@ -54,7 +55,7 @@ To start using Keycloak, you need to download the distribution package from the 
 - [GitHub repository →](https://github.com/keycloak/keycloak)
 - [Read in Turkish →](https://trescout.com/discover/keycloak/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/keycloak/

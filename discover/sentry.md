@@ -2,12 +2,13 @@
 
 Sentry, yazılım hatalarını gerçek zamanlı takip eden ve uygulama performansını izleyen bir hata izleme aracıdır. Geliştiricilerin kod tabanındaki sorunları hızlıca tespit edip çözüm üretmelerine yardımcı olan bir hata izleme platformu (error tracking) olarak kullanılır.
 
-- ★ 45.101
+- ★ 45.576
 - Python
 - GitHub Trending · 2026-10-03
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 45.101 → 45.576, son sürüm 26.10.0 (16 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 45.098 → 45.101, son sürüm 26.9.0 (15 Eylül 2026).
 
 ## Ne kazandırır?
@@ -28,12 +29,13 @@ Hata izleme platformu Sentry'yi kullanmaya başlamak için resmi internet sitesi
 
 - [GitHub deposu →](https://github.com/getsentry/sentry)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-10-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Error Tracking](https://trescout.com/dictionary/error-tracking/)
 - [SDK](https://trescout.com/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sentry/

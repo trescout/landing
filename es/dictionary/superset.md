@@ -34,7 +34,7 @@ Sí, porque te permite cambiar a nuevas tecnologías sin desechar los códigos e
 
 - [TypeScript](https://trescout.com/es/discover/typescript/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/superset/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/superset/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/superset/

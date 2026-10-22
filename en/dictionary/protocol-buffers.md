@@ -40,7 +40,7 @@ No, the data cannot be directly read by humans as it is in binary format, it is 
 
 - [Protobuf](https://trescout.com/en/discover/protobuf/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/protocol-buffers/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/protocol-buffers/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/protocol-buffers/

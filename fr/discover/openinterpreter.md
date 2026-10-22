@@ -41,6 +41,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je veux que vous agissez comme un agent de codage sur mon ordinateur. J'attends de vous que vous automatisiez des tâches complexes en exécutant du code dans mon environnement local, en testant des applications Web ou locales si nécessaire. Utiliser des structures qui optimisent les modèles à faible coût lors de l'exécution de transactions et exécuter mes commandes en toute sécurité via le terminal.
 
+Dépôt : https://github.com/openinterpreter/openinterpreter. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Coding Agent](https://trescout.com/fr/dictionary/coding-agent/)
@@ -57,7 +65,7 @@ Je veux que vous agissez comme un agent de codage sur mon ordinateur. J'attends 
 - [Dépôt GitHub →](https://github.com/openinterpreter/openinterpreter)
 - [Lire en turc →](https://trescout.com/discover/openinterpreter/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-16 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-16 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/openinterpreter/

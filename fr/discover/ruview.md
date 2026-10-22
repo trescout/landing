@@ -80,6 +80,7 @@ Comment évaluer un scénario simple de détection de mouvement avec des donnée
 
 - [WiFi](https://trescout.com/fr/dictionary/wifi/)
 - [Benchmark](https://trescout.com/fr/dictionary/benchmark/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 ## Liens
 
@@ -89,7 +90,7 @@ Comment évaluer un scénario simple de détection de mouvement avec des donnée
 - [Guide de compilation de RuView →](https://github.com/ruvnet/RuView/blob/main/docs/build-guide.md)
 - [Lire en turc →](https://trescout.com/discover/ruview/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-30 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-30 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/ruview/

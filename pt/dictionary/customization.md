@@ -61,7 +61,7 @@ Na camada de plug-in geralmente não, no bifurcamento (forking) geralmente sim. 
 - [Framework](https://trescout.com/pt/dictionary/framework/)
 - [User Experience](https://trescout.com/pt/dictionary/user-experience/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/customization/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/customization/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/customization/

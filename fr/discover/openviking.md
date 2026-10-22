@@ -2,16 +2,16 @@
 
 Développé par Volcengine, OpenViking propose une base de données contextuelle auto-améliorée pour les agents IA. Ce système combine la mémoire des agents, les processus et les capacités de recherche d'informations (RAG) sous un même toit.
 
-- ★ 39 519
+- ★ 40 425
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 40,333 → 40,425, dernière version v0.5.1.1 (20 octobre 2026).
+- **19 octobre 2026:** Étoiles 39,519 → 40,333, dernière version v0.5.1 (19 octobre 2026).
 - **9 octobre 2026:** Étoiles 39,151 → 39,519, dernière version v0.5.0 (9 octobre 2026).
 - **3 octobre 2026:** Étoiles 38,859 → 39,151, dernière version v0.4.23 (2 octobre 2026).
-- **28 septembre 2026:** Étoiles 38,733 → 38,859, dernière version v0.4.22 (28 septembre 2026).
-- **27 septembre 2026:** Étoiles 37,128 → 38,733, dernière version v0.4.21 (20 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -46,6 +46,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Construire une gestion de contexte pour un agent d'intelligence artificielle à l'aide de la base de données OpenViking. Il structure les informations via le protocole viking:// en séparant les informations en couches de résumé L0, d'aperçu L1 et de détail L2. En plaçant la mémoire, les ressources et les capacités de l'agent dans ce système de fichiers virtuel, cela lui permet de parcourir les répertoires pendant l'interrogation et de créer une mémoire à long terme en apprenant des sessions passées.
 
+Dépôt : https://github.com/volcengine/OpenViking. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [RAG](https://trescout.com/fr/dictionary/rag/)
@@ -60,7 +68,7 @@ Construire une gestion de contexte pour un agent d'intelligence artificielle à 
 - [Dépôt GitHub →](https://github.com/volcengine/OpenViking)
 - [Lire en turc →](https://trescout.com/discover/openviking/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/openviking/

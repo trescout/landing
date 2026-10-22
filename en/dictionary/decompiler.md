@@ -43,7 +43,7 @@ Technically most can be, but some software is protected by 'obfuscation' methods
 - [Ghidra](https://trescout.com/en/discover/ghidra/)
 - [ASC](https://trescout.com/en/discover/asc/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/decompiler/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/decompiler/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/decompiler/

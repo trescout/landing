@@ -28,6 +28,7 @@ No necesita ejecutar ningún código para leer este recurso. Puede descargar dir
 - [Systems Programming](https://trescout.com/es/dictionary/systems-programming/)
 - [PDF](https://trescout.com/es/dictionary/pdf/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está dirigido a cualquier persona que desee aprender programación de sistemas de bajo nivel y los fundamentos de los sistemas operativos con el lenguaje de programación C.
 
@@ -36,7 +37,7 @@ No necesita ejecutar ningún código para leer este recurso. Puede descargar dir
 - [Repositorio en GitHub →](https://github.com/cs341-illinois/coursebook)
 - [Leer en turco →](https://trescout.com/discover/coursebook/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-28: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-28: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/coursebook/

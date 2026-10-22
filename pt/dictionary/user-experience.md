@@ -36,7 +36,7 @@ Os usuários param de usar aplicativos que consideram difíceis, portanto, uma b
 - [Design System](https://trescout.com/pt/dictionary/design-system/)
 - [Generative UI](https://trescout.com/pt/dictionary/generative-ui/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/user-experience/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/user-experience/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/user-experience/

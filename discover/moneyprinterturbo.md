@@ -2,17 +2,17 @@
 
 **MoneyPrinterTurbo**, verdiğiniz bir konu veya anahtar kelimeden büyük dil modellerini kullanarak **otomatik kısa videolar** üretir. Metin, altyazı, arka plan müziği ve görselleri birleştirir. (İsim pazarlama amaçlıdır, bir 'para basma' makinesi değil, içerik üretim aracıdır.)
 
-- ★ 128.158
+- ★ 133.597
 - Python
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 128.158 → 133.597, son sürüm v1.3.9 (21 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 123.436 → 128.158, son sürüm v1.3.8 (3 Ekim 2026).
 - **14 Eylül 2026:** Yıldız 120.054 → 123.436, son sürüm v1.3.7 (13 Eylül 2026).
 - **3 Eylül 2026:** Yıldız 114.747 → 120.054, son sürüm v1.3.6 (2 Eylül 2026).
-- **23 Ağustos 2026:** Yıldız 108.989 → 114.747, son sürüm v1.3.5 (22 Ağustos 2026).
 
 - **Kimin için:** Kısa video / içerik üretenler
 - **Zorluk:** Orta · kurulum + AI API anahtarı gerekir
@@ -61,21 +61,29 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 MoneyPrinterTurbo'yu kur ve çalıştır: 'git clone https://github.com/harry0703/MoneyPrinterTurbo.git' ile depoyu indir, dizine girip 'docker-compose up' komutuyla başlat, sonra tarayıcıdan http://127.0.0.1:8501 adresindeki web arayüzünü aç.
 
+Depo: https://github.com/harry0703/MoneyPrinterTurbo. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Lisans:** MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 
 - [GitHub deposu →](https://github.com/harry0703/MoneyPrinterTurbo)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [LLM API](https://trescout.com/dictionary/llm-api/)
 - [Clone](https://trescout.com/dictionary/clone/)
 - [LLM](https://trescout.com/dictionary/llm/)
-- [API](https://trescout.com/dictionary/api/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

@@ -69,7 +69,7 @@ By building a small RAG application with an API and writing an eval set. Whoever
 - [Engineering Skills](https://trescout.com/en/dictionary/engineering-skills/)
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-engineering/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-engineering/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-engineering/

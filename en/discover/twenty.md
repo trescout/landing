@@ -2,17 +2,17 @@
 
 Twenty is an open source Salesforce alternative that allows technical teams to build a modern CRM that can be customized to their business processes. You can host this system, which focuses on artificial intelligence-supported workflows, on your own server.
 
-- ★ 58,367
+- ★ 58,824
 - TypeScript
 - Lisans: özel
 - GitHub Trending · 26 May 2026
 
 ## Updates
 
+- **October 21, 2026:** Stars 58,665 → 58,824, latest release twenty/v2.50.0 (October 21, 2026).
+- **October 20, 2026:** Stars 58,411 → 58,665, latest release sdk/v2.49.0 (October 19, 2026).
+- **October 16, 2026:** Stars 58,367 → 58,411, latest release sdk/v2.48.0 (October 16, 2026).
 - **October 15, 2026:** Stars 58,241 → 58,367, latest release twenty/v2.47.0 (October 15, 2026).
-- **October 12, 2026:** Stars 57,935 → 58,241, latest release twenty/v2.46.0 (October 12, 2026).
-- **October 5, 2026:** Stars 57,768 → 57,935, latest release twenty/v2.45.0 (October 5, 2026).
-- **October 1, 2026:** Stars 57,699 → 57,768, latest release twenty/v2.44.0 (October 1, 2026).
 
 ## What you get
 
@@ -65,6 +65,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to install an open source CRM called Twenty; create a new app in the terminal with the command 'npx create-twenty-app my-app', then publish it to my workspace with 'npx twenty app:publish --private'. Also tell me how to run it with Docker Compose for self-hosting.
 
+Repository: https://github.com/twentyhq/twenty. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [CRM](https://trescout.com/en/dictionary/crm/)
@@ -86,7 +94,7 @@ I want to install an open source CRM called Twenty; create a new app in the term
 - [GitHub repository →](https://github.com/twentyhq/twenty)
 - [Read in Turkish →](https://trescout.com/discover/twenty/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/twenty/

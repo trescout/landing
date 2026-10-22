@@ -2,16 +2,16 @@
 
 Cloudflare Temp Email é uma plataforma de código aberto que permite configurar um serviço de e-mail temporário (disposable email) totalmente gratuito, sem servidor (serverless) e que funciona com seu próprio domínio, utilizando a infraestrutura do Cloudflare Workers, Pages e banco de dados D1/KV. Protege sua privacidade pessoal com gerenciamento de caixa de entrada, armazenamento de anexos, integração com bot do Telegram e mecanismos de limpeza automática.
 
-- ★ 11.734
+- ★ 11.982
 - TypeScript
 - GitHub Trending · 2026-07-23
 
 ## Atualizações
 
+- **19 de outubro de 2026:** Estrelas 11,734 → 11,982, versão mais recente v1.13.0 (18 de outubro de 2026).
 - **13 de setembro de 2026:** Estrelas 11,391 → 11,734, versão mais recente v1.12.0 (13 de setembro de 2026).
 - **23 de agosto de 2026:** Estrelas 11,332 → 11,391, versão mais recente v1.11.1 (22 de agosto de 2026).
 - **19 de agosto de 2026:** Estrelas 11,156 → 11,332, versão mais recente v1.11.0 (19 de agosto de 2026).
-- **2 de agosto de 2026:** Estrelas 10,884 → 11,156, versão mais recente v1.10.0 (31 de julho de 2026).
 
 ## O que você ganha
 
@@ -60,6 +60,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar o projeto de e-mail temporário de código aberto dreamhunter2333/cloudflare_temp_email, que roda no Cloudflare, com meu próprio domínio. Tenho uma conta Cloudflare e um domínio conectado ao Cloudflare DNS. Você poderia explicar passo a passo como configurar o roteamento de e-mail (Email Routing), o banco de dados D1 e a interface do Cloudflare Pages a partir do zero através do painel do Cloudflare? Além disso, quais etapas de configuração devo seguir para encaminhar os e-mails recebidos para o meu bot do Telegram?
 
+Repositório: https://github.com/dreamhunter2333/cloudflare_temp_email. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - O plano gratuito da Cloudflare é suficiente para uso pessoal? Sim. O plano gratuito da Cloudflare oferece 100.000 solicitações de Worker por dia, além de Email Routing gratuito e uma cota para o banco de dados D1. Para uso pessoal e pequenas equipes, é quase impossível exceder esses limites; o sistema funciona com custo zero.
@@ -71,8 +79,8 @@ Quero configurar o projeto de e-mail temporário de código aberto dreamhunter23
 
 - [CLI](https://trescout.com/pt/dictionary/cli/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
-- [API](https://trescout.com/pt/dictionary/api/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destinado a desenvolvedores, equipes de teste e usuários focados em privacidade que desejam hospedar um serviço de e-mail temporário gratuito, seguro e sem restrições com seu próprio domínio.
@@ -85,7 +93,7 @@ Quero configurar o projeto de e-mail temporário de código aberto dreamhunter23
 - [Repositório no GitHub →](https://github.com/dreamhunter2333/cloudflare_temp_email)
 - [Ler em turco →](https://trescout.com/discover/cloudflare-temp-email/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-23: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-23: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/cloudflare-temp-email/

@@ -34,6 +34,7 @@ To start using Abseil, you should visit the Abseil Quickstart document on the of
 ## Related dictionary terms
 
 - [Code Snippets](https://trescout.com/en/dictionary/code-snippets/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** For C++ developers who want to improve code maintainability and performance in complex software projects.
 - **License:** Apache-2.0
@@ -43,7 +44,7 @@ To start using Abseil, you should visit the Abseil Quickstart document on the of
 - [GitHub repository →](https://github.com/abseil/abseil-cpp)
 - [Read in Turkish →](https://trescout.com/discover/abseil-cpp/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-11: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-11: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/abseil-cpp/

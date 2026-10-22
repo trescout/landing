@@ -87,7 +87,7 @@ CISC (x86-64) has a rich instruction set that can perform multiple subprocesses 
 - [Ghidra](https://trescout.com/en/discover/ghidra/)
 - [Apollo-11](https://trescout.com/en/discover/apollo-11/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/assembly/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/assembly/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/assembly/

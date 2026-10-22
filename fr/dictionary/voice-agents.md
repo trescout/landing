@@ -42,7 +42,7 @@ Les données vocales sont souvent anonymisées, mais il est toujours important d
 
 - [Speech to Speech](https://trescout.com/fr/discover/speech-to-speech/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/voice-agents/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/voice-agents/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/voice-agents/

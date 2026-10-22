@@ -43,7 +43,7 @@ Technisch gesehen können die meisten dekompiliert werden, aber einige Softwarep
 - [Ghidra](https://trescout.com/de/discover/ghidra/)
 - [ASC](https://trescout.com/de/discover/asc/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/decompiler/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/decompiler/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/decompiler/

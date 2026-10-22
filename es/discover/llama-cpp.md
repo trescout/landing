@@ -2,7 +2,7 @@
 
 Llama.cpp es una biblioteca de inferencia basada en C y C++ que permite ejecutar modelos de lenguaje grandes de manera eficiente en hardware estándar. El software facilita la ejecución de modelos de inteligencia artificial en dispositivos locales con su bajo uso de memoria y su estructura orientada al alto rendimiento.
 
-- ★ 130.447
+- ★ 131.352
 - C++
 - GitHub Trending · 2026-06-08
 
@@ -10,10 +10,10 @@ Llama.cpp es una biblioteca de inferencia basada en C y C++ que permite ejecutar
 
 ## Actualizaciones
 
+- **16 de octubre de 2026:** Estrellas 130,447 → 131,352, última versión v0.7.0 (15 de octubre de 2026).
 - **6 de octubre de 2026:** Estrellas 129,621 → 130,447, última versión v0.6.0 (5 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 128,278 → 129,621, última versión v0.5.0 (23 de septiembre de 2026).
 - **15 de septiembre de 2026:** Estrellas 127,101 → 128,278, última versión v0.4.1 (14 de septiembre de 2026).
-- **5 de septiembre de 2026:** Estrellas 125,883 → 127,101, última versión v0.4.0 (4 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -44,6 +44,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero ejecutar modelos de lenguaje grandes localmente en mi computadora. ¿Cómo puedo ejecutar mi propio archivo de modelo usando la herramienta llama.cpp con el comando 'llama-cli -m my_model.gguf' o descargar e iniciar un modelo directamente desde Hugging Face con el comando 'llama-cli -hf ggml-org/gemma-3-1b-it-GGUF'? ¿Pueden ayudarme con los requisitos de hardware o la selección del modelo a los que debo prestar atención en este proceso?
 
+Repositorio: https://github.com/ggml-org/llama.cpp. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [GGUF](https://trescout.com/es/dictionary/gguf/)
@@ -59,7 +67,7 @@ Quiero ejecutar modelos de lenguaje grandes localmente en mi computadora. ¿Cóm
 - [Repositorio en GitHub →](https://github.com/ggml-org/llama.cpp)
 - [Leer en turco →](https://trescout.com/discover/llama-cpp/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-08: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-08: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/llama-cpp/

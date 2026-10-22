@@ -21,12 +21,24 @@ Le mécanisme de sérialisation parcourt le graphe d'objets en mémoire (y compr
 
 Choisir le bon format de sérialisation en architecture logicielle nécessite de trouver un équilibre entre la lisibilité humaine, le coût d'analyse (parsing) du processeur, la bande passante réseau et la sécurité des types.
 
+### 1. Formats basés sur du texte (JSON, YAML, XML)
+
 - JSON (JavaScript Object Notation) : C'est le standard de fait du web moderne et des API RESTful. Il est indépendant du langage, pris en charge nativement par les navigateurs, et peut être facilement lu et débogué par les développeurs.
 - Inconvénients : L'analyse textuelle (lexage, tokenisation, conversions chaîne-vers-nombre) consomme beaucoup de CPU. La répétition des noms de clés (field keys) dans chaque enregistrement génère une surcharge réseau inutile (payload overhead). De plus, le transport de données binaires (par exemple, une image ou une clé chiffrée) nécessite un encodage Base64, ce qui augmente la taille des données d'environ 33 %.
+
+### 2. Formats binaires et schématisés (Protobuf, Avro, MessagePack)
 
 - Protocol Buffers (Protobuf) : format binaire développé par Google, qui constitue l'épine dorsale de gRPC et de la communication entre microservices. Il définit les types de champs et les numéros de champs (field tags) à l'aide d'un fichier de schéma strict (.proto). Au lieu de clés textuelles, des étiquettes numériques et un encodage d'entiers à longueur variable (Varint) sont transmis sur le réseau. Par rapport au JSON, il consomme 3 à 10 fois moins de bande passante et est analysé beaucoup plus rapidement.
 - Apache Avro : Il est très répandu dans l'écosystème du Big Data (Hadoop, Kafka). Le schéma, au lieu d'être intégré dans chaque message, est conservé dans un registre central (Schema Registry). Ainsi, la surcharge par message est réduite au minimum.
 - MessagePack et BSON : ils conservent le modèle clé-valeur flexible et sans schéma de JSON tout en stockant les données sous une forme compressée au niveau binaire.
+
+| Format | Système de types | Exigence de schéma | Lisibilité | Coût d'analyse (Parsing) | Cas d'utilisation principal |
+|---|---|---|---|---|---|
+| JSON | Dynamique | Optionnel (JSON Schema) | Lisible par l'homme | Moyen / Élevé | Web API, Frontend |
+| protobuf | Statique Rigide | Obligatoire (.proto) | Binaire | Faible | Microservices, gRPC |
+| FlatBuffers | Statique Rigide | Obligatoire (.fbs) | Binaire | Zéro (Zero-Copy) | Jeux, HFT, Mobile |
+| Apache Avro | Statique Rigide | Obligatoire (.avsc) | Binaire | Faible | Kafka, Big Data |
+| MessagePack | Dynamique | Aucun | Binaire | Faible / Moyen | Cache Redis, IPC |
 
 ## Architecture de désérialisation Zero-Copy
 
@@ -47,6 +59,8 @@ Aucune allocation de mémoire ou copie de données n'a lieu lors de la phase de 
 
 Des vulnérabilités catastrophiques surviennent lorsque la sérialisation tente de transporter non seulement des données pures, mais aussi des classes d'objets et des comportements d'exécution. Présente dans le Top 10 de l'OWASP, la désérialisation non sécurisée (Insecure Deserialization) permet à un attaquant d'exécuter du code arbitraire sur le système (Remote Code Execution - RCE).
 
+### Exemple de pickle en Python
+
 Le module de sérialisation intégré de Python, pickle, sérialise la méthode __reduce__ des objets. Cette méthode définit une fonction à appeler lors de la désérialisation de l'objet ainsi que ses paramètres. En abusant de ce mécanisme, un attaquant peut générer une séquence d'octets malveillante qui exécute une commande du système d'exploitation :
 
 ```
@@ -59,7 +73,11 @@ class Exploit:
 
 Dès que ce flux d'octets est envoyé au serveur et que pickle.loads(payload) est exécuté, une commande de shell non autorisée est exécutée sur le serveur. Par conséquent, aucune donnée provenant de sources non fiables ne doit être désérialisée avec pickle.
 
+### Java et Chaînes de Gadgets (Gadget Chains)
+
 Dans le mécanisme de sérialisation natif de Java (ObjectInputStream.readObject()), le chargeur de classes (classloader) charge en mémoire la classe de l'objet entrant. Un attaquant peut construire une chaîne d'exécution (gadget chain) qui exécute des commandes en mémoire en connectant entre elles les méthodes de classes présentes dans les bibliothèques chargées sur le système (par exemple Apache Commons Collections ou Spring Framework).
+
+### Principes de Sérialisation Sécurisée
 
 - N'utilisez jamais de formats intégrés au langage contenant du code exécutable ou des définitions de classes (pickle Python, sérialisation native Java, unserialize PHP) au niveau des frontières réseau.
 - Préférez les formats qui transportent uniquement des données brutes et valident la structure des données selon un schéma (validation de schéma stricte) (JSON + Pydantic/Zod ou Protobuf).
@@ -98,7 +116,7 @@ C'est une technique qui consiste à lire les données directement via des décal
 
 - [YAML Cpp](https://trescout.com/fr/discover/yaml-cpp/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/serialization/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/serialization/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/serialization/

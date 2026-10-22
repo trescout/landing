@@ -2,7 +2,7 @@
 
 **PPF Contact Solver**, ZOZO'nun fizik motoru olarak fizik tabanlı simülasyonlarda **kumaş, katı ve ip** arasındaki temasları çözümlemek için tasarlanmıştır. Farklı geometrilerin etkileşimini hesaplayarak simülasyonlarda fiziksel tutarlılığı artırır. Blender eklentisi sayesinde uzaktan da çalıştırılabilir.
 
-- ★ 4.552
+- ★ 4.560
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
@@ -19,10 +19,10 @@ docker run --rm -it --name ppf-contact-solver --gpus all -p 127.0.0.1:8080:8080 
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 4.552 → 4.560, son sürüm addon-2026-10-19-0917 (19 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 4.514 → 4.552, son sürüm addon-2026-10-13-1345 (13 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 4.513 → 4.514, son sürüm addon-2026-10-01-2043 (1 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 4.507 → 4.513, son sürüm addon-2026-10-01-0946 (1 Ekim 2026).
-- **27 Eylül 2026:** Yıldız 4.508 → 4.507, son sürüm addon-2026-09-27-2158 (27 Eylül 2026).
 
 - **Kimin için:** Grafik/fizik simülasyonu yapan teknik kullanıcılar, araştırmacılar
 - **Zorluk:** İleri · teknik/araştırma odaklı
@@ -47,6 +47,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 ZOZO'nun ppf-contact-solver fizik temas çözücüsünü Docker ile çalıştır (NVIDIA GPU gerekir): aşağıdaki docker komutunu çalıştır, sonra tarayıcıda http://localhost:8080 adresini açıp hazır JupyterLab örneklerini dene.
 
+Depo: https://github.com/st-tech/ppf-contact-solver. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Lisans:** Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
@@ -54,7 +62,7 @@ ZOZO'nun ppf-contact-solver fizik temas çözücüsünü Docker ile çalıştır
 - [GitHub deposu →](https://github.com/st-tech/ppf-contact-solver)
 - [Proje sayfası →](https://st-tech.github.io/ppf-contact-solver)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

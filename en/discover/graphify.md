@@ -2,16 +2,16 @@
 
 Graphify transforms different types of data such as code files, database schemas and documentation into a queryable knowledge graph structure. This Python-based tool aims to create a central data layer for various AI coding assistants.
 
-- ★ 126,665
+- ★ 130,783
 - Python
 - GitHub Trending · 2026-07-14
 
 ## Updates
 
+- **October 21, 2026:** Stars 127,377 → 130,783, latest release v0.9.93 (October 20, 2026).
+- **October 17, 2026:** Stars 126,665 → 127,377, latest release v0.9.92 (October 16, 2026).
 - **October 15, 2026:** Stars 126,289 → 126,665, latest release v0.9.91 (October 14, 2026).
 - **October 14, 2026:** Stars 126,077 → 126,289, latest release v0.9.90 (October 13, 2026).
-- **October 13, 2026:** Stars 125,837 → 126,077, latest release v0.9.89 (October 13, 2026).
-- **October 12, 2026:** Stars 125,581 → 125,837, latest release v0.9.87 (October 12, 2026).
 
 ## What you get
 
@@ -42,6 +42,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I converted this project directory into a knowledge graph using Graphify. Now, using this structure, I want you to analyze the relationships between concepts in the project, explain how complex code blocks are connected to each other, and detail the role of master nodes such as 'APIRouter' in the system. Please distinguish between information coming directly from the source code and inferred connections by taking into account the 'EXTRACTED' and 'INFERRED' tags when performing your analysis.
 
+Repository: https://github.com/Graphify-Labs/graphify. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [AI Coding Assistants](https://trescout.com/en/dictionary/ai-coding-assistants/)
@@ -58,7 +66,7 @@ I converted this project directory into a knowledge graph using Graphify. Now, u
 - [GitHub repository →](https://github.com/Graphify-Labs/graphify)
 - [Read in Turkish →](https://trescout.com/discover/graphify/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-14: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-14: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/graphify/

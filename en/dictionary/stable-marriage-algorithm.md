@@ -33,7 +33,7 @@ No, it is also used in computer science to match objects such as servers and dat
 - [Data Processing](https://trescout.com/en/dictionary/data-processing/)
 - [Computer Science](https://trescout.com/en/dictionary/computer-science/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/stable-marriage-algorithm/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/stable-marriage-algorithm/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/stable-marriage-algorithm/

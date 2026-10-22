@@ -2,15 +2,15 @@
 
 TradingAgents est un framework multi-agent basé sur LLM développé pour le trading sur les marchés financiers. Ce système, écrit en Python, permet aux agents commerciaux autonomes d'analyser les données financières, de créer des stratégies et de gérer les processus décisionnels.
 
-- ★ 109 690
+- ★ 111 593
 - GitHub Trending · 2026-06-02
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 109,690 → 111,593, dernière version v0.7.0 (16 octobre 2026).
 - **4 octobre 2026:** Étoiles 109,196 → 109,690, dernière version v0.6.0 (3 octobre 2026).
 - **29 septembre 2026:** Étoiles 108,777 → 109,196, dernière version v0.5.2 (29 septembre 2026).
 - **27 septembre 2026:** Étoiles 107,380 → 108,777, dernière version v0.5.1 (24 septembre 2026).
-- **18 septembre 2026:** Étoiles 107,234 → 107,380, dernière version v0.5.0 (18 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -42,6 +42,16 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite analyser les données des marchés financiers à l'aide de l'outil TradingAgents. J'ai terminé l'installation et configuré mes clés API nécessaires. Comment puis-je initialiser le système pour que les agents évaluent les conditions du marché et effectuent des analyses techniques et fondamentales ? Avec quelle commande puis-je activer des agents de trading autonomes et démarrer le processus de création de stratégie ?
 
+Dépôt : https://github.com/TauricResearch/TradingAgents. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Si une clé API est nécessaire, ne me demande pas de l'écrire dans la conversation. Montre-moi comment l'ajouter au fichier .env et assure-toi que ce fichier n'est pas envoyé sur Git.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Multi-agent LLM](https://trescout.com/fr/dictionary/multi-agent-llm/)
@@ -59,7 +69,7 @@ Je souhaite analyser les données des marchés financiers à l'aide de l'outil T
 - [Dépôt GitHub →](https://github.com/TauricResearch/TradingAgents)
 - [Lire en turc →](https://trescout.com/discover/tradingagents/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-02 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-02 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/tradingagents/

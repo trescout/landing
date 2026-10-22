@@ -51,11 +51,22 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero executar modelos de IA em meu dispositivo local usando o projeto bonsai-demo. Depois de clonar o repositório git necessário para instalação, preciso definir as informações do meu token Hugging Face e baixar as dependências e modelos com o comando ./setup.sh. Então, usando o comando ./scripts/start_llama_server.sh, posso levantar o servidor local e interagir com a IA através da porta 8080 através do meu navegador.
 
+Repositório: https://github.com/PrismML-Eng/Bonsai-demo. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Se uma chave de API for necessária, não me peça para digitá-la no chat. Mostre-me como adicioná-la ao arquivo .env e garanta que este arquivo não seja enviado ao Git.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Machine Learning](https://trescout.com/pt/dictionary/machine-learning/)
 - [Shell](https://trescout.com/pt/dictionary/shell/)
 - [Token](https://trescout.com/pt/dictionary/token/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores que desejam executar modelos de IA de alto rendimento em seu hardware nativo.
@@ -66,7 +77,7 @@ Quero executar modelos de IA em meu dispositivo local usando o projeto bonsai-de
 - [Repositório no GitHub →](https://github.com/PrismML-Eng/Bonsai-demo)
 - [Ler em turco →](https://trescout.com/discover/bonsai-demo/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-17: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-17: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/bonsai-demo/

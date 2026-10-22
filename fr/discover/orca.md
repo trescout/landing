@@ -2,16 +2,16 @@
 
 Développé par Stablyai, Orca propose un environnement de développement d'agents qui permet de gérer simultanément plusieurs agents d'intelligence artificielle. Grâce à leur abonnement, les utilisateurs peuvent exécuter divers agents de codage sur les plateformes de bureau et mobiles.
 
-- ★ 88 919
+- ★ 100 379
 - TypeScript
 - GitHub Trending · 2026-06-25
 
 ## Mises à jour
 
-- **10 octobre 2026:** Étoiles 88,274 → 88,919, dernière version v1.4.224 (10 octobre 2026).
-- **9 octobre 2026:** Étoiles 86,806 → 88,274, dernière version v1.4.223 (8 octobre 2026).
-- **7 octobre 2026:** Étoiles 86,198 → 86,806, dernière version v1.4.222 (7 octobre 2026).
-- **6 octobre 2026:** Étoiles 84,652 → 86,198, dernière version v1.4.221 (5 octobre 2026).
+- **21 octobre 2026:** Étoiles 98,881 → 100,379, dernière version v1.4.237 (21 octobre 2026).
+- **20 octobre 2026:** Étoiles 97,386 → 98,881, dernière version v1.4.232 (20 octobre 2026).
+- **19 octobre 2026:** Étoiles 94,733 → 97,386, dernière version v1.4.230 (19 octobre 2026).
+- **17 octobre 2026:** Étoiles 93,926 → 94,733, dernière version v1.4.229 (17 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Lancez plusieurs agents IA simultanément dans différents espaces de travail sur Orca. Envoyez une commande à cinq agents différents simultanément, comparez les résultats et combinez le meilleur. Permettez-moi de suivre le statut de travail des agents via l'application mobile et de m'envoyer des notifications lorsque le processus est terminé.
 
+Dépôt : https://github.com/stablyai/orca. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Agent Development Environment](https://trescout.com/fr/dictionary/agent-development-environment/)
@@ -54,7 +62,7 @@ Lancez plusieurs agents IA simultanément dans différents espaces de travail su
 - [Dépôt GitHub →](https://github.com/stablyai/orca)
 - [Lire en turc →](https://trescout.com/discover/orca/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-25 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-25 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/orca/

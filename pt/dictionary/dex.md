@@ -40,7 +40,7 @@ Como não há intermediários, o controle de seus ativos é seu, mas deve-se ter
 - [dApps](https://trescout.com/pt/dictionary/dapps/)
 - [Digital Privacy](https://trescout.com/pt/dictionary/digital-privacy/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/dex/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/dex/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/dex/

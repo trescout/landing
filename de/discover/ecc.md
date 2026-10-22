@@ -2,17 +2,17 @@
 
 ECC; Claude Code ist ein umfassendes System, das Fähigkeiten, Instinkte, Speicheroptimierung und Sicherheitsscans in KI-Codierungstools wie Codex, Cursor und OpenCode einbringt. Anstelle einzelner Konfigurationsdateien bietet es eine vorgefertigte Ebene, die es dem Agenten ermöglicht, mit einer konsistenteren, sichereren und suchorientierteren Logik zu arbeiten.
 
-- ★ 270.891
+- ★ 284.483
 - JavaScript
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 270,891 → 284,483, neueste Version v2.2.3 (1. Oktober 2026).
 - **2. Oktober 2026:** Sterne 270,280 → 270,891, neueste Version v2.2.3 (1. Oktober 2026).
 - **1. Oktober 2026:** Sterne 267,980 → 270,280, neueste Version v2.2.2 (30. September 2026).
 - **27. September 2026:** Sterne 254,644 → 267,980, neueste Version v2.2.1 (8. September 2026).
-- **9. September 2026:** Sterne 245,070 → 254,644, neueste Version v2.2.1 (8. September 2026).
 
 ## Was es bringt
 
@@ -48,6 +48,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie das ECC-Betreibersystem, indem Sie die Befehle „/plugin marketplace add https://github.com/affaan-m/ECC“ und dann „/plugin install ecc@ecc“ in Claude Code ausführen. Verwenden Sie dann den Befehl /security-scan, um einen Sicherheitsscan für mein Projekt durchzuführen.
 
+Repository: https://github.com/affaan-m/ECC. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Tools](https://trescout.com/de/dictionary/tools/)
@@ -68,7 +76,7 @@ Installieren Sie das ECC-Betreibersystem, indem Sie die Befehle „/plugin marke
 - [GitHub-Repository →](https://github.com/affaan-m/ECC)
 - [Auf Türkisch lesen →](https://trescout.com/discover/ecc/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-26 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-26 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/ecc/

@@ -2,7 +2,7 @@
 
 OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent). TypeScript diliyle geliştirilen bu araç, yazılım projelerinde otonom görev yürütme yetenekleri sunar.
 
-- ★ 212.636
+- ★ 214.176
 - TypeScript
 - GitHub Trending · 2026-06-28
 
@@ -10,10 +10,10 @@ OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanm
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 214.103 → 214.176, son sürüm v1.19.3 (16 Ekim 2026).
+- **16 Ekim 2026:** Yıldız 212.636 → 214.103, son sürüm v1.19.2 (16 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 212.128 → 212.636, son sürüm v1.19.0 (11 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 211.200 → 212.128, son sürüm v1.18.35 (6 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 210.526 → 211.200, son sürüm v1.18.34 (30 Eylül 2026).
-- **28 Eylül 2026:** Yıldız 210.245 → 210.526, son sürüm v1.18.33 (28 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -37,6 +37,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenCode aracını kullanarak mevcut yazılım projemdeki kodları analiz etmeni ve geliştirme süreçlerini otomatikleştirmene yardımcı olmanı istiyorum. Çalışma sırasında build ajanını kullanarak tam erişimle geliştirme yapabilir veya plan ajanını kullanarak kodları inceleyip değişiklikleri planlayabilirsin. Karmaşık arama veya çok adımlı görevler için @general komutunu kullanmanı bekliyorum.
 
+Depo: https://github.com/anomalyco/opencode. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yazılım geliştirme süreçlerini otomatikleştirmek isteyen geliştiriciler için uygundur.
 - **Lisans:** MIT
 
@@ -44,7 +52,7 @@ OpenCode aracını kullanarak mevcut yazılım projemdeki kodları analiz etmeni
 
 - [GitHub deposu →](https://github.com/anomalyco/opencode)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

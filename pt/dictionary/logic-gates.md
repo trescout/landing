@@ -40,7 +40,7 @@ Os processadores avançados de hoje contêm bilhões de transistores e, portanto
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
 - [Concurrency](https://trescout.com/pt/dictionary/concurrency/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/logic-gates/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/logic-gates/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/logic-gates/

@@ -2,17 +2,17 @@
 
 claude-mem permite a sus agentes de IA realizar recuperación de sesiones cruzadas. Capta todo lo que sucede en una sesión, lo transforma en resúmenes significativos con IA y ofrece un contexto relevante en la siguiente sesión. Compatible con Claude Code, Codex, Gemini, Copilot y OpenCode.
 
-- ★ 100.574
+- ★ 102.038
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Actualizaciones
 
-- **14 de octubre de 2026:** Estrellas 100,384 → 100,574, última versión v13.39.0 (13 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 100,313 → 100,384, última versión v13.38.0 (13 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 100,043 → 100,313, última versión v13.37.0 (13 de octubre de 2026).
-- **12 de octubre de 2026:** Estrellas 98,855 → 100,043, última versión v13.36.0 (12 de octubre de 2026).
+- **21 de octubre de 2026:** Estrellas 101,496 → 102,038, última versión v15.0.1 (20 de octubre de 2026).
+- **18 de octubre de 2026:** Estrellas 101,275 → 101,496, última versión v14.0.1 (17 de octubre de 2026).
+- **17 de octubre de 2026:** Estrellas 101,166 → 101,275, última versión v13.41.0 (17 de octubre de 2026).
+- **16 de octubre de 2026:** Estrellas 100,574 → 101,166, última versión v13.40.0 (16 de octubre de 2026).
 
 ## Qué aporta
 
@@ -38,6 +38,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale Claude-Mem ejecutando 'npx claude-mem install' en la terminal, luego reinicie Claude Code; Después de eso, la memoria de sesiones anteriores se trasladará automáticamente a sesiones nuevas.
 
+Repositorio: https://github.com/thedotmack/claude-mem. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
@@ -56,7 +64,7 @@ Instale Claude-Mem ejecutando 'npx claude-mem install' en la terminal, luego rei
 - [Repositorio en GitHub →](https://github.com/thedotmack/claude-mem)
 - [Leer en turco →](https://trescout.com/discover/claude-mem/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-26: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-26: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/claude-mem/

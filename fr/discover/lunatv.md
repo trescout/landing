@@ -20,6 +20,10 @@ LunaTV est un projet développé en TypeScript qui propose une interface de visu
 
 Cet outil fonctionne avec la technologie de conteneurisation logicielle appelée Docker. Pour l'installation, vous pouvez vous rendre dans la section '部署' (Déploiement) sur la page GitHub du projet pour utiliser les fichiers Docker Compose ou effectuer une installation en un clic via des plateformes cloud comme Zeabur. N'oubliez pas que le projet est livré avec une interface vide et que vous devez ajouter vos propres sources multimédias.
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Destiné aux utilisateurs souhaitant regarder leur propre archive multimédia de manière organisée, sur une plateforme centralisée via un navigateur.
 
 ## Liens
@@ -27,7 +31,7 @@ Cet outil fonctionne avec la technologie de conteneurisation logicielle appelée
 - [Dépôt GitHub →](https://github.com/MoonTechLab/LunaTV)
 - [Lire en turc →](https://trescout.com/discover/lunatv/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/lunatv/

@@ -29,6 +29,7 @@ Esta ferramenta não requer instalação de software; É um guia completo que co
 - [Algorithmic Trading](https://trescout.com/pt/dictionary/algorithmic-trading/)
 - [Systematic Trading](https://trescout.com/pt/dictionary/systematic-trading/)
 - [Backtesting](https://trescout.com/pt/dictionary/backtesting/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para pesquisadores e desenvolvedores que desejam entrar no mundo da negociação algorítmica e melhorar seus processos de modelagem financeira.
 
@@ -37,7 +38,7 @@ Esta ferramenta não requer instalação de software; É um guia completo que co
 - [Repositório no GitHub →](https://github.com/paperswithbacktest/awesome-systematic-trading)
 - [Ler em turco →](https://trescout.com/discover/awesome-systematic-trading/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-29: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-29: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/awesome-systematic-trading/

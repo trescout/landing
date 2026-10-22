@@ -71,7 +71,7 @@ Es wurde versucht, hat sich aber nicht durchgesetzt. Das binäre hat durch seine
 - [Ipatool](https://trescout.com/de/discover/ipatool/)
 - [Hister](https://trescout.com/de/discover/hister/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/binary/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/binary/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/binary/

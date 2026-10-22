@@ -40,7 +40,7 @@ It eliminates the need to make a new design every time and enables rapid progres
 
 - [Impeccable](https://trescout.com/en/discover/impeccable/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/design-language/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/design-language/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/design-language/

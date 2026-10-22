@@ -56,6 +56,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to train a 64M parameter language model from scratch with PyTorch using the MiniMind repository. Could you explain step-by-step how to prepare the tokenizer based on my own Turkish text dataset, how to run the 1-pretrain.py script, and then how to fine-tune it with LoRA?
 
+Repository: https://github.com/jingyaogong/minimind. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - How much VRAM is required to train MiniMind? Depending on the batch size setting, the 64M parameter model can be comfortably trained within the 6GB to 12GB VRAM range; even an RTX 3060 or RTX 4060 is sufficient.
@@ -82,7 +90,7 @@ I want to train a 64M parameter language model from scratch with PyTorch using t
 - [GitHub repository →](https://github.com/jingyaogong/minimind)
 - [Read in Turkish →](https://trescout.com/discover/minimind/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-31: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-31: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/minimind/

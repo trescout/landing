@@ -38,7 +38,7 @@ They work in the background in many places, from weather forecasts to calculatin
 - [Computer Science](https://trescout.com/en/dictionary/computer-science/)
 - [Deep Learning](https://trescout.com/en/dictionary/deep-learning/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/differential-equations/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/differential-equations/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/differential-equations/

@@ -39,7 +39,7 @@ Impede que a inteligência artificial faça deduções incompletas ou incorretas
 - [Code Intelligence Graph](https://trescout.com/pt/dictionary/code-intelligence-graph/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-knowledge-graph/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-knowledge-graph/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/code-knowledge-graph/

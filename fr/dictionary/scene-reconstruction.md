@@ -34,7 +34,7 @@ Généralement non, plusieurs images prises sous différents angles sont nécess
 - [Computer Vision](https://trescout.com/fr/dictionary/computer-vision/)
 - [Physical AI](https://trescout.com/fr/dictionary/physical-ai/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/scene-reconstruction/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/scene-reconstruction/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/scene-reconstruction/

@@ -39,7 +39,7 @@ Ele demonstra isso produzindo uma solução mais rápida para um problema que nu
 - [AGI](https://trescout.com/pt/dictionary/agi/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/meta-skill/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/meta-skill/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/meta-skill/

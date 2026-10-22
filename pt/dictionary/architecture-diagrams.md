@@ -38,7 +38,7 @@ Reduz a complexidade do sistema e permite que todos da equipe sonhem a mesma coi
 - [Tech Stack](https://trescout.com/pt/dictionary/tech-stack/)
 - [Diagrams](https://trescout.com/pt/dictionary/diagrams/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/architecture-diagrams/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/architecture-diagrams/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/architecture-diagrams/

@@ -33,10 +33,21 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Estou usando o aplicativo BrewUI para gerenciar pacotes do Homebrew. Quero descobrir, instalar, atualizar e gerenciar pacotes de forma segura dentro do aplicativo. Usando esta interface que me permite ver de forma transparente as operações que o Homebrew realiza em segundo plano, como posso otimizar a configuração de pacotes no meu sistema e como posso definir variáveis personalizadas através do arquivo brew.env?
 
+Repositório: https://github.com/Homebrew/BrewUI. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Se uma chave de API for necessária, não me peça para digitá-la no chat. Mostre-me como adicioná-la ao arquivo .env e garanta que este arquivo não seja enviado ao Git.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [GUI](https://trescout.com/pt/dictionary/gui/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destinado a usuários que preferem uma interface gráfica em vez da tela do terminal e desejam gerenciar pacotes de software no macOS.
@@ -47,7 +58,7 @@ Estou usando o aplicativo BrewUI para gerenciar pacotes do Homebrew. Quero desco
 - [Repositório no GitHub →](https://github.com/Homebrew/BrewUI)
 - [Ler em turco →](https://trescout.com/discover/brewui/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-16: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-16: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/brewui/

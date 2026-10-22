@@ -2,16 +2,16 @@
 
 Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir alım satım ajanı (trading agent) sunuyor. Proje, Python tabanlı yapısıyla kullanıcıların otomatik ticaret stratejilerini yönetmelerine olanak tanıyor.
 
-- ★ 34.287
+- ★ 36.114
 - Python
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 36.012 → 36.114, son sürüm v0.1.17 (21 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 34.287 → 36.012, son sürüm v0.1.16 (29 Eylül 2026).
 - **29 Eylül 2026:** Yıldız 33.083 → 34.287, son sürüm v0.1.16 (29 Eylül 2026).
 - **9 Eylül 2026:** Yıldız 32.899 → 33.083, son sürüm v0.1.15 (9 Eylül 2026).
-- **7 Eylül 2026:** Yıldız 31.295 → 32.899, son sürüm v0.1.14 (20 Ağustos 2026).
-- **20 Ağustos 2026:** Yıldız 30.558 → 31.295, son sürüm v0.1.14 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 
@@ -63,6 +63,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Vibe-Trading ajanı ile finansal piyasalarda işlem yapmak istiyorum. Lütfen bana güncel piyasa verilerini analiz etmemde, belirlediğim stratejileri geriye dönük test etmemde ve aracı kurum bağlantılarımı güvenli bir şekilde yönetmemde yardımcı ol. Özellikle işlem mandalarımı ve risk limitlerimi belirleyerek otomatik alım satım süreçlerini nasıl yapılandırabileceğimi adım adım açıkla.
 
+Depo: https://github.com/HKUDS/Vibe-Trading. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Finansal piyasalarda otomatik ticaret stratejileri geliştirmek ve yönetmek isteyen kullanıcılar için tasarlanmıştır.
 - **Lisans:** MIT
 
@@ -70,7 +78,7 @@ Vibe-Trading ajanı ile finansal piyasalarda işlem yapmak istiyorum. Lütfen ba
 
 - [GitHub deposu →](https://github.com/HKUDS/Vibe-Trading)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

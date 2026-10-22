@@ -35,7 +35,7 @@ Manter seus dados em seu dispositivo é uma enorme vantagem de segurança, espec
 - [Coding Agents](https://trescout.com/pt/dictionary/coding-agent/)
 - [Local](https://trescout.com/pt/dictionary/local/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/local-first-code-intelligence/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/local-first-code-intelligence/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/local-first-code-intelligence/

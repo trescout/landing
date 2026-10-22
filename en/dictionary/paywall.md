@@ -66,7 +66,7 @@ It is an intelligent subscription system that analyzes visitor behavior and prof
 - [API](https://trescout.com/en/dictionary/api/)
 - [Deployment](https://trescout.com/en/dictionary/deployment/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/paywall/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/paywall/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/paywall/

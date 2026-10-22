@@ -2,16 +2,16 @@
 
 Free-claude-code wurde von Alishahryar1 entwickelt und bietet kostenlosen Zugriff auf Modelle der künstlichen Intelligenz wie Claude Code und Codex über Terminal, Anwendung oder Entwicklungsumgebung (IDE). Dieses Open-Source-Tool lässt sich in Plattformen integrieren, die Sprachbefehlsunterstützung bieten, wie z. B. OpenClaw, und ermöglicht es Benutzern, Funktionen der künstlichen Intelligenz auf verschiedenen Geräten zu nutzen.
 
-- ★ 60.624
+- ★ 62.292
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Aktualisierungen
 
-- **15. Oktober 2026:** Sterne 60,387 → 60,624, neueste Version v6.16.7 (15. Oktober 2026).
-- **14. Oktober 2026:** Sterne 59,985 → 60,387, neueste Version v6.16.6 (14. Oktober 2026).
-- **13. Oktober 2026:** Sterne 58,856 → 59,985, neueste Version v6.16.4 (13. Oktober 2026).
-- **12. Oktober 2026:** Sterne 58,301 → 58,856, neueste Version v6.16.0 (12. Oktober 2026).
+- **21. Oktober 2026:** Sterne 61,732 → 62,292, neueste Version v6.16.16 (21. Oktober 2026).
+- **19. Oktober 2026:** Sterne 61,362 → 61,732, neueste Version v6.16.15 (18. Oktober 2026).
+- **18. Oktober 2026:** Sterne 61,131 → 61,362, neueste Version v6.16.14 (18. Oktober 2026).
+- **17. Oktober 2026:** Sterne 61,103 → 61,131, neueste Version v6.16.11 (17. Oktober 2026).
 
 ## Was es bringt
 
@@ -47,6 +47,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Fungieren Sie als Kodierungsagent für mich. Führen Sie mit dem Anbieter, den ich über Free Claude Code konfiguriert habe, die Softwareaufgaben aus, die ich Ihnen gebe, analysieren Sie Codefragmente und machen Sie Vorschläge. Richten Sie bei der Durchführung von Vorgängen die Modelleinstellungen auf dem lokalen Verwaltungspanel aus und erstellen Sie effiziente Lösungen, indem Sie während des Codierungsprozesses die Funktionen von Claude Code oder Codex nutzen.
 
+Repository: https://github.com/Alishahryar1/free-claude-code. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [IDE](https://trescout.com/de/dictionary/ide/)
@@ -61,7 +69,7 @@ Fungieren Sie als Kodierungsagent für mich. Führen Sie mit dem Anbieter, den i
 - [GitHub-Repository →](https://github.com/Alishahryar1/free-claude-code)
 - [Auf Türkisch lesen →](https://trescout.com/discover/free-claude-code/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/free-claude-code/

@@ -2,16 +2,16 @@
 
 CodexBar é uma ferramenta que permite visualizar dados de uso do OpenAI Codex e Claude Code sem a necessidade de login. Desenvolvido em linguagem Swift, este aplicativo facilita aos desenvolvedores o rastreamento de estatísticas de consumo em ferramentas de codificação suportadas por IA.
 
-- ★ 22.475
+- ★ 22.708
 - Swift
 - GitHub Trending · 2026-07-06
 
 ## Atualizações
 
-- **14 de outubro de 2026:** Estrelas 22,399 → 22,475, versão mais recente v0.75.0 (14 de outubro de 2026).
-- **12 de outubro de 2026:** Estrelas 22,358 → 22,399, versão mais recente v0.74.1 (11 de outubro de 2026).
-- **10 de outubro de 2026:** Estrelas 22,268 → 22,358, versão mais recente v0.74.0 (10 de outubro de 2026).
-- **7 de outubro de 2026:** Estrelas 22,196 → 22,268, versão mais recente v0.73.0 (7 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 22,677 → 22,708, versão mais recente v0.79.0 (20 de outubro de 2026).
+- **20 de outubro de 2026:** Estrelas 22,582 → 22,677, versão mais recente v0.78.0 (19 de outubro de 2026).
+- **17 de outubro de 2026:** Estrelas 22,564 → 22,582, versão mais recente v0.77.0 (16 de outubro de 2026).
+- **16 de outubro de 2026:** Estrelas 22,475 → 22,564, versão mais recente v0.76.0 (15 de outubro de 2026).
 
 ## O que você ganha
 
@@ -33,6 +33,16 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso rastrear com mais eficiência os limites e tempos de redefinição dos serviços de inteligência artificial que uso no CodexBar? Especificamente, como posso configurar esta ferramenta usando minhas chaves de API ou sessões do navegador sem precisar fazer login?
 
+Repositório: https://github.com/steipete/CodexBar. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Se uma chave de API for necessária, não me peça para digitá-la no chat. Mostre-me como adicioná-la ao arquivo .env e garanta que este arquivo não seja enviado ao Git.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [API](https://trescout.com/pt/dictionary/api/)
@@ -46,7 +56,7 @@ Como posso rastrear com mais eficiência os limites e tempos de redefinição do
 - [Repositório no GitHub →](https://github.com/steipete/CodexBar)
 - [Ler em turco →](https://trescout.com/discover/codexbar/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-06: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-06: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/codexbar/

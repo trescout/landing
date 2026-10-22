@@ -40,7 +40,7 @@ Les architectes et les ingénieurs mécaniciens en tête, ainsi que les designer
 
 - [Text to Cad](https://trescout.com/fr/discover/text-to-cad/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/cad/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/cad/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/cad/

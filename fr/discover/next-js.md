@@ -2,16 +2,16 @@
 
 Next.js est un framework utilisé pour développer des applications Web basées sur React et fournit des fonctionnalités telles que le rendu côté serveur et la génération de sites statiques. Il devient un choix courant parmi les développeurs car il offre des optimisations axées sur les performances et des solutions d'infrastructure évolutives dans les projets Web modernes.
 
-- ★ 143 019
+- ★ 143 035
 - JavaScript
 - GitHub Trending · 2026-07-11
 
 ## Mises à jour
 
+- **16 octobre 2026:** Étoiles 143,019 → 143,035, dernière version v16.4.2 (15 octobre 2026).
 - **15 octobre 2026:** Étoiles 143,229 → 143,019, dernière version v16.4.1 (14 octobre 2026).
 - **7 octobre 2026:** Étoiles 142,954 → 143,229, dernière version v16.4.0 (7 octobre 2026).
 - **1 octobre 2026:** Étoiles 142,883 → 142,954, dernière version v16.3.8 (30 septembre 2026).
-- **29 septembre 2026:** Étoiles 142,648 → 142,883, dernière version v16.3.7 (29 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -48,6 +48,7 @@ Pour commencer à travailler avec Next.js, vous pouvez visiter le site officiel 
 - [Rendering](https://trescout.com/fr/dictionary/rendering/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs qui souhaitent développer des applications Web modernes et évolutives basées sur React.
 - **Licence:** MIT
@@ -57,7 +58,7 @@ Pour commencer à travailler avec Next.js, vous pouvez visiter le site officiel 
 - [Dépôt GitHub →](https://github.com/vercel/next.js)
 - [Lire en turc →](https://trescout.com/discover/next-js/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-11 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-11 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/next-js/

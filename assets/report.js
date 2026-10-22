@@ -1,2 +1,6 @@
 /* TreScout · rapor sayfaları · nav scroll state · önceden inline'dı · CSP için harici */
 (function(){var n=document.querySelector('nav');if(!n)return;function s(){n.classList.toggle('scrolled',window.scrollY>8);}window.addEventListener('scroll',s,{passive:true});s();})();
+/* Tek soru: "Bu rapor size zaman kazandırdı mı?" (ürünün vaadi). Yanıt rıza varsa anonim event
+   olur (report_time_saved_yes/no · docs/BETA-MEASUREMENT.md); rıza yoksa yalnız teşekkür görünür.
+   DeepLearning.AI "Fast Prototyping of GenAI Apps": tek ve belirli soru, hızlı geri bildirim. */
+(function(){var k=document.querySelector('.rep-feedback');if(!k)return;k.addEventListener('click',function(e){var b=e.target&&e.target.closest?e.target.closest('.rep-feedback-btn'):null;if(!b||k.getAttribute('data-yanit'))return;var c=b.getAttribute('data-cevap');k.setAttribute('data-yanit',c);var t=window.TreScoutTelemetry;if(t&&t.track)t.track(c==='evet'?'report_time_saved_yes':'report_time_saved_no',{placement:'report_cover'});Array.prototype.forEach.call(k.querySelectorAll('.rep-feedback-btn'),function(x){x.disabled=true;x.setAttribute('aria-pressed',x===b?'true':'false');});var m=k.querySelector('.rep-feedback-tesekkur');if(m)m.hidden=false;});})();

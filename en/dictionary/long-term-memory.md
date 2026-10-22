@@ -43,7 +43,7 @@ Data is usually kept on the user's own storage or in an encrypted form.
 - [Cognee](https://trescout.com/en/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/en/discover/tencentdb-agent-memory/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/long-term-memory/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/long-term-memory/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/long-term-memory/

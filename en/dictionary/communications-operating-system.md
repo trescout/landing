@@ -38,7 +38,7 @@ Since keeping track of too many applications at the same time reduces efficiency
 
 - [Rocket.Chat](https://trescout.com/en/discover/rocket-chat/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/communications-operating-system/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/communications-operating-system/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/communications-operating-system/

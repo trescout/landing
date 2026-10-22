@@ -42,7 +42,7 @@ No, the sensor just detects the data; Data logger is a higher unit that associat
 
 - [Teslamate](https://trescout.com/en/discover/teslamate/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/data-logger/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/data-logger/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/data-logger/

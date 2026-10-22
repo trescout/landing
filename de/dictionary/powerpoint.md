@@ -72,7 +72,7 @@ Komprimieren Sie Bilder, verknüpfen Sie Videos (nicht einbetten) und löschen S
 - [Ppt Master](https://trescout.com/de/discover/ppt-master/)
 - [OfficeCLI](https://trescout.com/de/discover/officecli/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/powerpoint/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/powerpoint/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/powerpoint/

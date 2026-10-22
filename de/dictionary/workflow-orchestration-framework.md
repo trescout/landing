@@ -71,7 +71,7 @@ Basierend auf dem Ökosystem und dem Teamwissen. Bei kleinen Aufgaben wird eine 
 
 - [Prefect](https://trescout.com/de/discover/prefect/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/workflow-orchestration-framework/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/workflow-orchestration-framework/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/workflow-orchestration-framework/

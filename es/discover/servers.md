@@ -2,12 +2,13 @@
 
 Los servidores del Protocolo de Contexto de Modelo (MCP) permiten que los modelos de inteligencia artificial generativa accedan a fuentes de datos externos y herramientas a través de una interfaz estándar. Este protocolo permite que diferentes aplicaciones de inteligencia artificial se conecten de manera segura y coherente con bases de datos o herramientas de software.
 
-- ★ 91.136
+- ★ 91.368
 - TypeScript
 - GitHub Trending · 2026-10-01
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 91,136 → 91,368, última versión v2.0.0 (19 de octubre de 2026).
 - **11 de octubre de 2026:** Estrellas 90,905 → 91,136, última versión v1.0.0 (11 de octubre de 2026).
 - **1 de octubre de 2026:** Estrellas 90,906 → 90,905, última versión 2026.8.31 (31 de agosto de 2026).
 
@@ -44,6 +45,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero conectar mi modelo de inteligencia artificial a fuentes de datos externas utilizando los servidores de referencia del Protocolo de Contexto de Modelo (MCP). Primero, guíeme para iniciar el servidor de memoria con el comando npx -y @modelcontextprotocol/server-memory y configurar la configuración del cliente de escritorio. Explique también los pasos para habilitar el acceso a los repositorios de código usando el comando uvx mcp-server-git.
 
+Repositorio: https://github.com/modelcontextprotocol/servers. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Model Context Protocol](https://trescout.com/es/dictionary/model-context-protocol/)
@@ -60,7 +69,7 @@ Quiero conectar mi modelo de inteligencia artificial a fuentes de datos externas
 - [Repositorio en GitHub →](https://github.com/modelcontextprotocol/servers)
 - [Leer en turco →](https://trescout.com/discover/servers/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/servers/

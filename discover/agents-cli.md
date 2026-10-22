@@ -2,16 +2,16 @@
 
 Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay zekâ ajanları oluşturma, değerlendirme ve dağıtma konusunda uzmanlaştırıyor. Python tabanlı bu araç, ajan geliştirme süreçlerini standartlaştırarak bulut altyapısı üzerindeki operasyonel iş akışlarını hızlandırıyor.
 
-- ★ 6.078
+- ★ 6.132
 - Python
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 6.078 → 6.132, son sürüm v1.11.0 (20 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 6.055 → 6.078, son sürüm v1.10.0 (12 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 6.033 → 6.055, son sürüm v1.9.0 (6 Ekim 2026).
 - **30 Eylül 2026:** Yıldız 6.009 → 6.033, son sürüm v1.8.0 (30 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 5.948 → 6.009, son sürüm v1.7.0 (22 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Google Cloud üzerinde bir yapay zekâ ajanı geliştirmek istiyorum. agents-cli aracını kullanarak ajan projeleri oluşturma, değerlendirme ve dağıtma süreçlerinde bana rehberlik et. İlk olarak bir ajan projesi iskeleti oluşturmamda yardımcı ol ve ardından bu projeyi nasıl geliştirebileceğimi adım adım açıkla.
 
+Depo: https://github.com/google/agents-cli. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Google Cloud üzerinde yapay zekâ ajanları geliştiren ve mevcut kodlama asistanlarının yeteneklerini artırmak isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 
@@ -40,7 +48,7 @@ Google Cloud üzerinde bir yapay zekâ ajanı geliştirmek istiyorum. agents-cli
 
 - [GitHub deposu →](https://github.com/google/agents-cli)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

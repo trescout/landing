@@ -38,7 +38,7 @@ No, some languages ​​require this internally, while others may require addit
 - [Compile-time](https://trescout.com/en/dictionary/compile-time/)
 - [Type-safe](https://trescout.com/en/dictionary/type-safe/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/static-type-checking/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/static-type-checking/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/static-type-checking/

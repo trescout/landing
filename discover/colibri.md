@@ -2,16 +2,16 @@
 
 Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerini düşük donanım gereksinimleriyle yerel bilgisayarlarda çalıştırmayı sağlayan C dili tabanlı bir motor. Uzman katmanlarını disk üzerinden akış yöntemiyle işleyerek, yüksek kapasiteli yapay zekâ modellerini kısıtlı donanımlarda çalıştırmayı mümkün kılıyor.
 
-- ★ 40.157
+- ★ 42.279
 - C
 - GitHub Trending · 2026-09-11
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 40.157 → 42.279, son sürüm v2.0.0 (6 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 39.698 → 40.157, son sürüm v2.0.0 (6 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 37.791 → 39.698, son sürüm v1.12.1 (24 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 36.260 → 37.791, son sürüm v1.12.1 (24 Eylül 2026).
-- **19 Eylül 2026:** Yıldız 34.474 → 36.260, son sürüm v1.11.0 (13 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -46,6 +46,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Colibri motorunu kullanarak yerel bilgisayarımda büyük ölçekli yapay zekâ modellerini çalıştırmak istiyorum. Donanım kaynaklarımı (VRAM, RAM ve NVMe disk) en verimli şekilde kullanacak şekilde yapılandırmamı sağla. Özellikle GLM veya DeepSeek gibi modelleri, sistemimin bellek kapasitesine göre nasıl optimize edip çalıştırabileceğimi adım adım açıkla.
 
+Depo: https://github.com/JustVugg/colibri. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Büyük dil modellerini kısıtlı donanım kaynaklarıyla kendi bilgisayarında çalıştırmak isteyen araştırmacılar ve yazılımcılar içindir.
 - **Lisans:** Apache-2.0
 
@@ -53,7 +61,7 @@ Colibri motorunu kullanarak yerel bilgisayarımda büyük ölçekli yapay zekâ 
 
 - [GitHub deposu →](https://github.com/JustVugg/colibri)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

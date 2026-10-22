@@ -33,6 +33,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Utilizando la lista de herramientas de código abierto que ofrece el proyecto NoSignups, enumera los servicios digitales centrados en la privacidad que no solicitan registro ni correo electrónico al usuario. Explica cómo se agrupan estas herramientas en categorías como diseño, desarrollo, productividad y análisis de datos. Proporciona orientación sobre cómo encontrar alternativas que no requieran la creación de una cuenta.
 
+Repositorio: https://github.com/BraveOPotato/FckSignups. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
@@ -45,7 +53,7 @@ Utilizando la lista de herramientas de código abierto que ofrece el proyecto No
 - [Repositorio en GitHub →](https://github.com/BraveOPotato/FckSignups)
 - [Leer en turco →](https://trescout.com/discover/fcksignups/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-06: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-06: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/fcksignups/

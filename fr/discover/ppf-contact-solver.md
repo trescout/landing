@@ -2,17 +2,17 @@
 
 PPF Contact Solver, en tant que moteur physique de ZOZO, est conçu pour résoudre les contacts entre le tissu, le solide et la corde dans des simulations basées sur la physique. Il augmente la cohérence physique des simulations en calculant l'interaction de différentes géométries. Il peut également être exécuté à distance grâce au plug-in Blender.
 
-- ★ 4 552
+- ★ 4 560
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 4,552 → 4,560, dernière version addon-2026-10-19-0917 (19 octobre 2026).
 - **13 octobre 2026:** Étoiles 4,514 → 4,552, dernière version addon-2026-10-13-1345 (13 octobre 2026).
 - **1 octobre 2026:** Étoiles 4,513 → 4,514, dernière version addon-2026-10-01-2043 (1 octobre 2026).
 - **1 octobre 2026:** Étoiles 4,507 → 4,513, dernière version addon-2026-10-01-0946 (1 octobre 2026).
-- **27 septembre 2026:** Étoiles 4,508 → 4,507, dernière version addon-2026-09-27-2158 (27 septembre 2026).
 
 ## Installation
 
@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Exécutez le solveur de contacts physiques ppf-contact-solver de ZOZO avec Docker (GPU NVIDIA requis) : exécutez la commande docker suivante, puis ouvrez http://localhost:8080 dans le navigateur et essayez les exemples JupyterLab prêts à l'emploi.
 
+Dépôt : https://github.com/st-tech/ppf-contact-solver. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Container](https://trescout.com/fr/dictionary/container/)
@@ -60,7 +68,7 @@ Exécutez le solveur de contacts physiques ppf-contact-solver de ZOZO avec Docke
 - [Dépôt GitHub →](https://github.com/st-tech/ppf-contact-solver)
 - [Lire en turc →](https://trescout.com/discover/ppf-contact-solver/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/ppf-contact-solver/

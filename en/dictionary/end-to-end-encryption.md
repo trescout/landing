@@ -66,7 +66,7 @@ It is balanced by the need for recording and auditing. Policy is determined.
 
 - [Croc](https://trescout.com/en/discover/croc/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/end-to-end-encryption/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/end-to-end-encryption/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/end-to-end-encryption/

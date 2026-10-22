@@ -2,12 +2,13 @@
 
 Rust stands out as a systems programming language aimed at developing reliable and efficient software. Adopted by a broad user base, this language provides an infrastructure for performance-focused applications.
 
-- ★ 120,232
+- ★ 120,404
 - Rust
 - GitHub Trending · 2026-10-15
 
 ## Updates
 
+- **October 16, 2026:** Stars 120,232 → 120,404, latest release 1.99.1 (October 16, 2026).
 - **October 15, 2026:** Stars 120,224 → 120,232, latest release 1.99.0 (October 1, 2026).
 
 ## What you get
@@ -25,6 +26,7 @@ You can visit the tool's official website at rust-lang.org and check out the 'Ge
 ## Related dictionary terms
 
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is intended for users who want to develop high-performance and bug-free systems while preserving memory safety.
 - **License:** Apache-2.0
@@ -34,7 +36,7 @@ You can visit the tool's official website at rust-lang.org and check out the 'Ge
 - [GitHub repository →](https://github.com/rust-lang/rust)
 - [Read in Turkish →](https://trescout.com/discover/rust/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/rust/

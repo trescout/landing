@@ -42,7 +42,7 @@ O código deve ser escrito sem erros; Códigos incorretos podem criar vulnerabil
 
 - [Genlayer Project Boilerplate](https://trescout.com/pt/discover/genlayer-project-boilerplate/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/smart-contracts/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/smart-contracts/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/smart-contracts/

@@ -48,7 +48,7 @@ Parce qu’il peut effectuer des tâches complexes en quelques secondes, en util
 - [Higgsfield](https://trescout.com/fr/discover/higgsfield/)
 - [Bonsai-demo](https://trescout.com/fr/discover/bonsai-demo/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/machine-learning/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/machine-learning/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/machine-learning/

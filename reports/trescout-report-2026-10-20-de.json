@@ -1,0 +1,889 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-20",
+  "capturedAt": "2026-10-20T09:26:41.424Z",
+  "editorial": "Heute stehen in der Softwarewelt sowohl effizienzorientierte Updates für Open-Source-KI-Modelle als auch neue Benchmarks im Vordergrund, die die Fähigkeit robotischer Systeme messen, die physische Welt zu verstehen. Technische Diskussionen konzentrieren sich dabei weniger auf die Auswirkungen von KI-Tools auf die Arbeitssuche, sondern vielmehr auf die Sehnsucht nach dem handwerklichen Geist, der der Programmierung zugrunde liegt.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "MadsLorentzen/ai-job-search ist ein KI-Framework, das auf Claude Code läuft und den Arbeitssuchprozess automatisiert. Dieses Tool, das Benutzer auf ihren eigenen Computern ausführen können, unterstützt bei der Bewertung von Stellenanzeigen, der Personalisierung von Lebensläufen, der Erstellung von Anschreiben und der Vorbereitung auf Vorstellungsgespräche.",
+          "meta": "Python · ★ 58.680 · +3.856 heute",
+          "snapshot": {
+            "sourceId": "MadsLorentzen/ai-job-search",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 58680,
+              "engagementCount": 3856,
+              "rank": 1,
+              "extra": {
+                "starsToday": 3856
+              }
+            },
+            "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+          }
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "Das von Anomalyco entwickelte opencode ist ein Open-Source-Coding-Agent (dessen Quellcode für jeden zugänglich und erweiterbar ist), der darauf abzielt, Softwareentwicklungsprozesse zu automatisieren. Dieses in TypeScript geschriebene Projekt bietet Entwicklern ein Werkzeug zur Unterstützung bei der Softwareerstellung.",
+          "meta": "TypeScript · ★ 218.257 · +1.311 heute",
+          "snapshot": {
+            "sourceId": "anomalyco/opencode",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 218257,
+              "engagementCount": 1311,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1311
+              }
+            },
+            "description": "The open source coding agent."
+          }
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Das in Rust entwickelte akitaonrails/ai-memory bietet eine Langzeitgedächtnislösung für KI-Schnittstellen mit Fokus auf Programmierung. Es zielt darauf ab, die Datenübertragung zwischen verschiedenen KI-Anbietern zu erleichtern.",
+          "meta": "Rust · ★ 11.667 · +666 heute",
+          "snapshot": {
+            "sourceId": "akitaonrails/ai-memory",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11667,
+              "engagementCount": 666,
+              "rank": 3,
+              "extra": {
+                "starsToday": 666
+              }
+            },
+            "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+          }
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI ist eine modulare grafische Benutzeroberfläche und Anwendungsprogrammierschnittstelle (API), die eine knotenbasierte Oberfläche für Bildgenerierungsmodelle (Diffusionsmodelle) bietet. Als eine der schnellsten Inferenz-Engines, die auf lokalen Geräten läuft, wird sie zur Verwaltung von Bildverarbeitungsprozessen eingesetzt.",
+          "meta": "Python · ★ 140.219 · +1.011 heute",
+          "snapshot": {
+            "sourceId": "Comfy-Org/ComfyUI",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 140219,
+              "engagementCount": 1011,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1011
+              }
+            },
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+          }
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Das mit TypeScript entwickelte ruflo ist ein Framework, das zur Koordination autonomer Arbeitsabläufe und zur Erstellung von KI-Schwärmen (Multi-Agent-Swarms) konzipiert wurde. Das System bietet adaptives Gedächtnis, Selbstlernfähigkeit und eine RAG-Integration (Retrieval-Augmented Generation), die es der KI ermöglicht, Informationen aus aktuellen Daten abzurufen.",
+          "meta": "TypeScript · ★ 77.456 · +564 heute",
+          "snapshot": {
+            "sourceId": "ruvnet/ruflo",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 77456,
+              "engagementCount": 564,
+              "rank": 5,
+              "extra": {
+                "starsToday": 564
+              }
+            },
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+          }
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "stablyai/orca ist eine Plattform, mit der Sie verschiedene Coding-Agents wie Grok Bot und Claude Code über eine einzige Schnittstelle ausführen können. Mit Desktop-, Mobil- und Remote-Runtime-Optionen ermöglicht es Benutzern, ihre Agentenflotten über ihre eigenen Abonnements zu verwalten.",
+          "meta": "TypeScript · ★ 98.851 · +1.590 heute",
+          "snapshot": {
+            "sourceId": "stablyai/orca",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 98851,
+              "engagementCount": 1590,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1590
+              }
+            },
+            "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+          }
+        },
+        {
+          "title": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "summary": "headroomlabs-ai/headroom ist eine Python-Bibliothek, die den Token-Verbrauch reduziert, indem sie Tool-Ausgaben, Protokolle und RAG-Fragmente komprimiert, die an große Sprachmodelle (LLMs) gesendet werden. Dieses Tool, das Token für Coding-Agents und JSON-Daten einspart, kann auch als Proxy und MCP-Server fungieren.",
+          "meta": "Python · ★ 76.464 · +310 heute",
+          "snapshot": {
+            "sourceId": "headroomlabs-ai/headroom",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 76464,
+              "engagementCount": 310,
+              "rank": 7,
+              "extra": {
+                "starsToday": 310
+              }
+            },
+            "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
+          }
+        },
+        {
+          "title": "withmarbleapp/os-taxonomy",
+          "url": "https://github.com/withmarbleapp/os-taxonomy",
+          "summary": "withmarbleapp/os-taxonomy ist eine in JavaScript entwickelte Bibliothek, die Betriebssystemklassifizierungen organisiert. Sie ermöglicht es Softwareentwicklern, verschiedene Betriebssystemdaten in einer standardisierten Struktur zu definieren.",
+          "meta": "JavaScript · ★ 6.389 · +284 heute",
+          "snapshot": {
+            "sourceId": "withmarbleapp/os-taxonomy",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 6389,
+              "engagementCount": 284,
+              "rank": 8,
+              "extra": {
+                "starsToday": 284
+              }
+            }
+          }
+        },
+        {
+          "title": "Kruk2/jasna",
+          "url": "https://github.com/Kruk2/jasna",
+          "summary": "Kruk2/jasna ist ein Videoreparatur-Tool, das zur Verbesserung von Videos entwickelt wurde. Diese in Python geschriebene Software bietet Funktionen zur Steigerung der Bildqualität.",
+          "meta": "Python · ★ 3.158 · +498 heute",
+          "snapshot": {
+            "sourceId": "Kruk2/jasna",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3158,
+              "engagementCount": 498,
+              "rank": 9,
+              "extra": {
+                "starsToday": 498
+              }
+            },
+            "description": "Video restoration tool"
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything ist ein Befehlszeilenschnittstellen-Projekt (CLI), das darauf abzielt, Software-Tools mit KI-Agenten kompatibel zu machen. Es zielt darauf ab, die Interaktion dieser Tools mit KI-Systemen zu erleichtern, indem es alle Software in eine agentenbasierte Arbeitsweise umwandelt.",
+          "meta": "Python · ★ 55.490 · +606 heute",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 55490,
+              "engagementCount": 606,
+              "rank": 10,
+              "extra": {
+                "starsToday": 606
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+          }
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code, entwickelt von Anthropic, ist ein agentenbasiertes Coding-Tool, das im Terminal läuft und durch natürliche Sprachbefehle die Codebasis analysiert, um Routineaufgaben, komplexe Code-Erklärungen und Git-Workflows zu verwalten. Dieses in TypeScript geschriebene Tool wurde entwickelt, um Softwareentwicklungsprozesse zu beschleunigen.",
+          "meta": "TypeScript · ★ 152.849 · +167 heute",
+          "snapshot": {
+            "sourceId": "anthropics/claude-code",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 152849,
+              "engagementCount": 167,
+              "rank": 11,
+              "extra": {
+                "starsToday": 167
+              }
+            },
+            "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+          }
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, ein für das Verständnis der Sprache der Finanzmärkte entwickeltes Basismodell (Foundation Model), wurde für die Verarbeitung von Daten in diesem Bereich konzipiert. Es wurde mit der Programmiersprache Python für den Einsatz in der Finanzmarktanalyse erstellt.",
+          "meta": "Python · ★ 41.956 · +363 heute",
+          "snapshot": {
+            "sourceId": "shiyu-coder/Kronos",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 41956,
+              "engagementCount": 363,
+              "rank": 12,
+              "extra": {
+                "starsToday": 363
+              }
+            },
+            "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "It's still ok to enjoy programming",
+          "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+          "summary": "Trotz der zunehmenden Komplexität und des industriellen Drucks in Softwareentwicklungsprozessen wird betont, dass das Programmieren als grundlegende Quelle der Freude bewahrt werden kann. Es wird daran erinnert, dass Programmierung nicht nur ein Beruf, sondern auch eine kreative Tätigkeit ist.",
+          "meta": "593 Punkte · 517 Kommentare",
+          "snapshot": {
+            "sourceId": "50134472",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 593,
+              "engagementCount": 517,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50134472",
+                  "popularity": 593,
+                  "engagementCount": 517
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-17T19:53:20Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50134472"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50134472",
+              "popularity": 593,
+              "engagementCount": 517
+            }
+          ]
+        },
+        {
+          "title": "Wine ported to OpenBSD",
+          "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+          "summary": "Wine, eine Kompatibilitätsschicht zum Ausführen von Windows-Anwendungen auf Unix-ähnlichen Systemen, wurde nun auf das Betriebssystem OpenBSD portiert. Diese Entwicklung ermöglicht es OpenBSD-Benutzern, Windows-basierte Software auf ihren eigenen Systemen auszuführen.",
+          "meta": "563 Punkte · 192 Kommentare",
+          "snapshot": {
+            "sourceId": "50152307",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 563,
+              "engagementCount": 192,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50152307",
+                  "popularity": 563,
+                  "engagementCount": 192
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-19T13:35:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50152307"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50152307",
+              "popularity": 563,
+              "engagementCount": 192
+            }
+          ]
+        },
+        {
+          "title": "I built a drone with only one motor [video]",
+          "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+          "summary": "Es wurde eine Drohne entwickelt, die mit nur einem einzigen Motor fliegen kann. Das Projekt bietet eine mechanische Struktur als Alternative zu herkömmlichen Mehrmotoren-Designs.",
+          "meta": "538 Punkte · 110 Kommentare",
+          "snapshot": {
+            "sourceId": "50150089",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 538,
+              "engagementCount": 110,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50150089",
+                  "popularity": 538,
+                  "engagementCount": 110
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-19T09:05:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50150089"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50150089",
+              "popularity": 538,
+              "engagementCount": 110
+            }
+          ]
+        },
+        {
+          "title": "MiniMax M3.1 Flash",
+          "url": "https://www.minimax.io/blog/minimax-m31f",
+          "summary": "MiniMax M3.1 Flash ist ein neues KI-Modell, das auf hohe Geschwindigkeit und Effizienz ausgerichtet ist. Diese vom Unternehmen angebotene Lösung zielt darauf ab, schnelle Antwortzeiten bei großen Sprachmodellen (Large Language Models) zu gewährleisten.",
+          "meta": "464 Punkte · 198 Kommentare",
+          "snapshot": {
+            "sourceId": "50154540",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 464,
+              "engagementCount": 198,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50154540",
+                  "popularity": 464,
+                  "engagementCount": 198
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-19T16:39:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50154540"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50154540",
+              "popularity": 464,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Starcraft: Ashfall",
+          "url": "https://starcraft-shooter-2026.pages.dev/",
+          "summary": "Starcraft: Ashfall ist ein Shooter-Projekt, das im Universum des beliebten Strategiespiels Starcraft angesiedelt ist. Dieses Projekt, auf das Benutzer über den Browser zugreifen können, zielt darauf ab, die Welt der Serie in einem anderen Spielgenre zu erleben.",
+          "meta": "454 Punkte · 141 Kommentare",
+          "snapshot": {
+            "sourceId": "50147233",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 454,
+              "engagementCount": 141,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50147233",
+                  "popularity": 454,
+                  "engagementCount": 141
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-19T01:18:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50147233"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50147233",
+              "popularity": 454,
+              "engagementCount": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Das auf Hugging Face geteilte Modell deepseek-ai/DeepSeek-V4.1-Flash-1017 ist ein KI-Modell, das Bild- und Texteingaben verarbeitet, um Textausgaben zu generieren. Das Modell bietet die Fähigkeit, Bild- und Textdaten zu kombinieren und zu analysieren.",
+          "meta": "♥ 1.793 · 17.924 Downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-20T09:26:41.565Z",
+            "metadata": {
+              "popularity": 1793,
+              "engagementCount": 17924,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1614,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          }
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "Das von Black Forest Labs entwickelte Modell black-forest-labs/flux-3-image-klein-comfy ist ein KI-Modell, das für Image-to-Image-Transformationen konzipiert wurde. Das Modell ist so strukturiert, dass es mit visuellen Workflow-Tools wie ComfyUI kompatibel ist.",
+          "meta": "♥ 1.019 · 393.062 Downloads",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-20T09:26:41.565Z",
+            "metadata": {
+              "popularity": 1019,
+              "engagementCount": 393062,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 782,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        },
+        {
+          "title": "fishaudio/drama-3",
+          "url": "https://huggingface.co/fishaudio/drama-3",
+          "summary": "Das auf Hugging Face geteilte Modell fishaudio/drama-3 ist ein Text-to-Speech-KI-Modell. Es ermöglicht Benutzern, schriftliche Inhalte in eine Sprachausgabe umzuwandeln.",
+          "meta": "♥ 789 · 11.795 Downloads",
+          "snapshot": {
+            "sourceId": "fishaudio/drama-3",
+            "capturedAt": "2026-10-20T09:26:41.565Z",
+            "metadata": {
+              "popularity": 789,
+              "engagementCount": 11795,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 756,
+                "pipelineTag": "text-to-speech",
+                "tags": [
+                  "safetensors",
+                  "fish_omni",
+                  "fish-audio",
+                  "text-to-speech",
+                  "multi-speaker",
+                  "audio-editing",
+                  "emotional-speech-generation",
+                  "zh",
+                  "en",
+                  "ja",
+                  "ko",
+                  "es",
+                  "pt",
+                  "ar",
+                  "ru",
+                  "fr",
+                  "de",
+                  "sv",
+                  "it",
+                  "tr",
+                  "no",
+                  "nl",
+                  "cy",
+                  "eu",
+                  "ca",
+                  "da",
+                  "gl",
+                  "ta",
+                  "hu",
+                  "fi",
+                  "pl",
+                  "et",
+                  "hi",
+                  "la",
+                  "ur",
+                  "th",
+                  "vi",
+                  "jw",
+                  "bn",
+                  "yo",
+                  "sl",
+                  "cs",
+                  "sw",
+                  "nn",
+                  "he",
+                  "ms",
+                  "uk",
+                  "id",
+                  "kk",
+                  "bg",
+                  "lv",
+                  "my",
+                  "tl",
+                  "sk",
+                  "ne",
+                  "fa",
+                  "af",
+                  "el",
+                  "bo",
+                  "hr",
+                  "ro",
+                  "sn",
+                  "mi",
+                  "yi",
+                  "am",
+                  "be",
+                  "km",
+                  "is",
+                  "az",
+                  "sd",
+                  "br",
+                  "sq",
+                  "ps",
+                  "mn",
+                  "ht",
+                  "ml",
+                  "sr",
+                  "sa",
+                  "te",
+                  "ka",
+                  "bs",
+                  "pa",
+                  "lt",
+                  "kn",
+                  "si",
+                  "hy",
+                  "mr",
+                  "as",
+                  "gu",
+                  "fo",
+                  "arxiv:2610.18010",
+                  "license:other",
+                  "bsgemm-moe",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-speech model"
+          }
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Das von Google entwickelte embeddinggemma-2 ist ein Feature-Extraction-Modell, das Texte in numerische Vektoren umwandelt. Dieses Modell wird in Repräsentationslernprozessen verwendet, die es KI-Systemen ermöglichen, Daten zu verarbeiten.",
+          "meta": "♥ 2.736 · 167.750 Downloads",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-20T09:26:41.565Z",
+            "metadata": {
+              "popularity": 2736,
+              "engagementCount": 167750,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 579,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "feature-extraction model"
+          }
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "jialinyyzz/humanizer ist ein KI-Modell zur Textgenerierung. Dieses auf der Hugging Face-Plattform gehostete Modell wird als Werkzeug angeboten, das Benutzer bei der Texterstellung verwenden können.",
+          "meta": "♥ 2.009 · 109.937 Downloads",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-20T09:26:41.565Z",
+            "metadata": {
+              "popularity": 2009,
+              "engagementCount": 109937,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 566,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            },
+            "description": "text-generation model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "RealityBench: Simulated Environments to Evaluate a Vision Language Model's Ability to Document Human Physical Work",
+          "url": "https://huggingface.co/papers/2610.14397",
+          "summary": "RealityBench, bereitgestellt von Hugging Face, bietet simulierte Umgebungen, die darauf ausgelegt sind, die Fähigkeiten von Vision-Language-Modellen bei der Dokumentation menschlicher körperlicher Arbeit zu messen. Diese Arbeit zielt darauf ab, die Fähigkeit von KI-Agenten zu bewerten, die Aktivitäten von Arbeitnehmern zu verstehen, was aufgrund der Begrenztheit und Variabilität von physischen Arbeitsdaten eine Herausforderung darstellt.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.14397",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.14397",
+                "publishedAt": "2026-10-09T00:00:00.000Z"
+              }
+            },
+            "description": "Augmenting worker capabilities in the physical world through guidance has been a decades-long goal for AI agents. One key supporting capability is to understand what the worker is doing, seeing through the human's camera or smart glasses, and assist them in documentation. Despite advances in vision language models, their capabilities in these settings remain uncertain and are challenging to benchmark because most physical work data is proprietary, and involves too much variability to study in a "
+          }
+        },
+        {
+          "title": "RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models",
+          "url": "https://huggingface.co/papers/2610.26663",
+          "summary": "RoboValue ist ein detailliertes Benchmark-System, das entwickelt wurde, um die Leistung von robotischen Wertmodellen (robotic value models) sowohl in Simulations- als auch in realen Umgebungen zu messen. Das System analysiert Modelle, die den Erfolg der Aufgabenausführung anhand visueller Beobachtungen und Anweisungen bewerten, anhand von vier verschiedenen Fähigkeitsdimensionen.",
+          "meta": "3 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.26663",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26663",
+                "publishedAt": "2026-10-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/RoboValue-Benchmark/RoboValue",
+                "githubStars": 13
+              }
+            },
+            "description": "Robotic value models assess task execution from visual observations and instructions, providing feedback for policy learning and execution monitoring. However, existing evaluations cover only selected aspects of execution understanding, leaving the reliability of value feedback insufficiently tested. We introduce RoboValue, a fine-grained sim-and-real benchmark for unified evaluation of robotic value models. Its framework evaluates four complementary capability dimensions through shared interfac"
+          }
+        },
+        {
+          "title": "Harnessing Textual Refusal Directions for Multimodal Safety",
+          "url": "https://huggingface.co/papers/2606.31876",
+          "summary": "Der auf Hugging Face veröffentlichte Artikel untersucht, ob textuelle Ablehnungstendenzen, die aus den Grundlagen großer Sprachmodelle (LLM) gewonnen wurden, genutzt werden können, um Sicherheit in verschiedenen Modalitäten wie Bild und Video zu gewährleisten. Die Studie zielt darauf ab, die Schwierigkeiten und ethischen Probleme bei der Datenerfassung zu überwinden, die für die Sicherheitskonformität in multimodalen großen Sprachmodellen (MLLM) erforderlich sind.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2606.31876",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2606.31876",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/Moreno98/MARS",
+                "githubStars": 0
+              }
+            },
+            "description": "Safety in Multimodal Large Language Models (MLLMs) depends on unsafe multimodal data for post-training alignment or activation steering. However, such data is hard to collect, must be gathered anew for each modality, and its collection and distribution raise ethical and legal concerns. In this work, we relax this constraint and investigate whether textual refusal directions, extracted directly from the LLM backbone, generalize across modalities (i.e., image, video). Preliminary findings confirm "
+          }
+        },
+        {
+          "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On",
+          "url": "https://huggingface.co/papers/2610.25060",
+          "summary": "Der von Hugging Face geteilte Artikel argumentiert, dass Sicherheits-Benchmarks (safety benchmarks) eher auf den Richtliniendefinitionen basieren, mit denen das Modell trainiert wurde, als auf einer objektiven Eigenschaft. Die Studie untersucht, wie die Kennzeichnung desselben Prompt-Sets mit unterschiedlichen Definitionen die Ergebnisse von Sicherheits-Klassifikatoren (guardrail classifiers) in KI-Modellen verändert.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.25060",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.25060",
+                "publishedAt": "2026-10-18T00:00:00.000Z"
+              }
+            },
+            "description": "A guardrail classifier is reported as if unsafe were a property of text. It is not: it is a property of a policy, and the policy enters the model through its labels. We exploit an accident of an industrial deployment in which the same ~53k prompts were labelled twice, under two operational definitions (\"is this a request for harmful content?\" and \"would a moderator block this?\"), and used to train ten guardrail arms sharing architecture, codebase and optimiser family, at two model scales. First,"
+          }
+        },
+        {
+          "title": "A Conditional No-Hair Theorem for Transformers: How Language Models Forget Their Prompt",
+          "url": "https://huggingface.co/papers/2610.24133",
+          "summary": "Der von Hugging Face geteilte Artikel untersucht den Prozess, bei dem autoregressive Transformer-Modelle den Prompt mit jedem neu generierten Token vergessen. Die Forschung zeigt, dass die Differenz zwischen den verborgenen Zuständen (hidden states) nach einem Potenzgesetz (power law) abnimmt und trainierte Modelle Prompts schnell vergessen.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.24133",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.24133",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShuyangenFrance/no-hair-transformers",
+                "githubStars": 0
+              }
+            },
+            "description": "We ask how much an autoregressive transformer retains of its prompt after generating t tokens. Consider two different prompts followed by the same continuation text, so that any difference in their hidden states comes from the prompt alone, and we find that the distance between their hidden states decays approximately as a power law t^{-α}, where α=1 is the rate at which a fixed prompt's share of uniform attention shrinks and smaller values mean longer memory. Trained models forget fast (αapprox"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Eine Sammlung vorgefertigter Code-Bibliotheken und Regeln, die bei der Softwareentwicklung für eine bestimmte Ordnung und Struktur sorgen und die Arbeit erleichtern."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "KI-Technologie, die in der Lage ist, ausgehend von verrauschten Daten hochwertige Bilder oder Inhalte zu generieren."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine Schnittstelle, die als Brücke fungiert und es verschiedenen Softwareanwendungen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "swarms",
+      "explanation": "Eine Gruppe bestehend aus einer Vielzahl von KI-Einheiten, die zusammenarbeiten, um komplexe Aufgaben zu erfüllen."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Eine Methode, die es der KI ermöglicht, Informationen aus aktuellen oder spezifischen Quellen außerhalb ihrer eigenen Trainingsdaten abzurufen, um genauere Antworten zu generieren."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "KI-Software, die Softwareentwicklungsprozesse automatisiert, Code schreiben und Fehler beheben kann."
+    },
+    {
+      "term": "remote runtime",
+      "explanation": "Eine Umgebung, die es ermöglicht, Anwendungen auf einem entfernten Server anstatt auf einem lokalen Computer auszuführen."
+    },
+    {
+      "term": "LLM",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden, menschliche Sprache verstehen und Texte generieren können."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Ein Vermittlungsserver, der als Brücke zwischen dem Benutzer und dem Internet oder einem anderen Server fungiert und den Datenverkehr verwaltet."
+    },
+    {
+      "term": "video restoration tool",
+      "explanation": "Software, die alte oder minderwertige Videos schärft und die Bildqualität verbessert."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Eine textbasierte Schnittstelle, die Programme nicht mit der Maus, sondern über schriftliche Befehle ausführt."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Ein System, das direkt für die Nutzung durch KI-Agenten konzipiert ist und auf deren Arbeitsweise abgestimmt ist."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Ein umfassendes KI-Modell, das mit sehr großen Datensätzen trainiert wurde und viele verschiedene Aufgaben ausführen kann."
+    },
+    {
+      "term": "drone",
+      "explanation": "Ein ferngesteuertes oder autonom fliegendes unbemanntes Luftfahrzeug."
+    },
+    {
+      "term": "large language models",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden, menschliche Sprache verstehen und Texte generieren können."
+    },
+    {
+      "term": "shooter",
+      "explanation": "Ein Spielgenre, bei dem der Spieler die Figur steuert und auf Ziele schießt."
+    }
+  ]
+}

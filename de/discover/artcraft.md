@@ -2,16 +2,16 @@
 
 ArtCraft ist eine für Künstler und Designer entwickelte Content-Erstellungs-Engine (Crafting Engine). Dieses in Rust geschriebene Tool automatisiert komplexe Arbeitsabläufe in kreativen Prozessen und standardisiert visuelle Produktionsprozesse.
 
-- ★ 28.441
+- ★ 34.071
 - Rust
 - GitHub Trending · 2026-10-08
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 32,106 → 34,071, neueste Version artcraft-v0.41.0 (26. September 2026).
+- **18. Oktober 2026:** Sterne 29,932 → 32,106, neueste Version artcraft-v0.41.0 (26. September 2026).
+- **16. Oktober 2026:** Sterne 28,441 → 29,932, neueste Version artcraft-v0.41.0 (26. September 2026).
 - **15. Oktober 2026:** Sterne 26,817 → 28,441, neueste Version artcraft-v0.41.0 (26. September 2026).
-- **14. Oktober 2026:** Sterne 24,531 → 26,817, neueste Version artcraft-v0.41.0 (26. September 2026).
-- **13. Oktober 2026:** Sterne 21,267 → 24,531, neueste Version artcraft-v0.41.0 (26. September 2026).
-- **12. Oktober 2026:** Sterne 19,954 → 21,267, neueste Version artcraft-v0.41.0 (26. September 2026).
 
 ## Was es bringt
 
@@ -29,6 +29,7 @@ Sie können die Anwendung von der offiziellen Website getartcraft.com herunterla
 
 - [Crafting Engine](https://trescout.com/de/dictionary/crafting-engine/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Künstler und Designer, die eine Kompositionskontrolle bei Bild- und Videoproduktionsprozessen suchen.
 
@@ -37,7 +38,7 @@ Sie können die Anwendung von der offiziellen Website getartcraft.com herunterla
 - [GitHub-Repository →](https://github.com/storytold/artcraft)
 - [Auf Türkisch lesen →](https://trescout.com/discover/artcraft/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-08 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-08 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/artcraft/

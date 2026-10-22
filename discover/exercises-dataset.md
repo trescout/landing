@@ -2,16 +2,16 @@
 
 Hasaneyldrm tarafından paylaşılan egzersiz veri seti (exercises-dataset), 433 farklı fitness hareketini isim, hedef kas grubu, ekipman ve görsel talimatlarla birlikte sunuyor. Bu kapsamlı kaynak, spor teknolojileri uygulamaları geliştirenler için yapılandırılmış bir veri altyapısı sağlıyor.
 
-- ★ 21.796
+- ★ 22.899
 - HTML
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 21.796 → 22.899.
 - **13 Eylül 2026:** Yıldız 20.717 → 21.796.
 - **24 Ağustos 2026:** Yıldız 19.692 → 20.717.
 - **15 Ağustos 2026:** Yıldız 18.515 → 19.692.
-- **2 Ağustos 2026:** Yıldız 7.552 → 18.515.
 
 ## Ne kazandırır?
 
@@ -29,11 +29,12 @@ Bu araç bir kurulum gerektirmez. GitHub sayfasındaki dosyaları bilgisayarın�
 
 - [GitHub deposu →](https://github.com/hasaneyldrm/exercises-dataset)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/exercises-dataset/

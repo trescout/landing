@@ -2,17 +2,17 @@
 
 Cet ensemble de plugins open source d'Anthropic rassemble des compétences, des connecteurs, des commandes slash et des sous-agents pour chaque fonction métier. Cette solution, qui permet à Claude d'agir comme un expert dans son domaine, comprend 11 plugins prêts à l'emploi conçus pour Claude Cowork.
 
-- ★ 28 563
+- ★ 30 064
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 28,563 → 30,064.
 - **10 octobre 2026:** Étoiles 26,989 → 28,563.
 - **7 octobre 2026:** Étoiles 25,686 → 26,989.
 - **27 septembre 2026:** Étoiles 24,405 → 25,686.
-- **17 septembre 2026:** Étoiles 23,222 → 24,405.
 
 ## Ce que ça vous apporte
 
@@ -48,6 +48,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez le plugin approprié à mon rôle en exécutant les commandes 'claude plugin marketplace add anthropics/knowledge-work-plugins' puis 'claude plugin install sales@knowledge-work-plugins' dans Claude Code (je peux écrire le rôle que je veux, comme la finance ou le marketing, au lieu des ventes).
 
+Dépôt : https://github.com/anthropics/knowledge-work-plugins. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Plugin](https://trescout.com/fr/dictionary/plugin/)
@@ -67,7 +75,7 @@ Installez le plugin approprié à mon rôle en exécutant les commandes 'claude 
 - [Dépôt GitHub →](https://github.com/anthropics/knowledge-work-plugins)
 - [Lire en turc →](https://trescout.com/discover/knowledge-work-plugins/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/knowledge-work-plugins/

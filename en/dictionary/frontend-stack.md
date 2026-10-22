@@ -42,7 +42,7 @@ No, different tool combinations are selected depending on the size and needs of 
 
 - [CopilotKit](https://trescout.com/en/discover/copilotkit/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/frontend-stack/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/frontend-stack/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/frontend-stack/

@@ -38,7 +38,7 @@ Because in very large projects, it is impossible to manually track where a chang
 
 - [Code Review Graph](https://trescout.com/en/discover/code-review-graph/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-intelligence-graph/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-intelligence-graph/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/code-intelligence-graph/

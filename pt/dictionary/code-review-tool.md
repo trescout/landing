@@ -39,7 +39,7 @@ Muitas apenas emitem avisos, mas as mais avançadas podem oferecer sugestões de
 - [Clean Code](https://trescout.com/pt/dictionary/clean-code/)
 - [Continuous Integration](https://trescout.com/pt/dictionary/continuous-integration/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-review-tool/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-review-tool/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/code-review-tool/

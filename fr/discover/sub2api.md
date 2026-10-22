@@ -2,16 +2,16 @@
 
 Sub2API est un service intermédiaire open source qui fournit un accès unique et un partage des coûts aux abonnements Claude, OpenAI, Gemini et Grok.
 
-- ★ 43 885
+- ★ 44 184
 - Go
 - GitHub Trending · 2026-08-23
 
 ## Mises à jour
 
+- **16 octobre 2026:** Étoiles 43,885 → 44,184, dernière version v0.2.17 (16 octobre 2026).
 - **13 octobre 2026:** Étoiles 43,558 → 43,885, dernière version v0.2.16 (13 octobre 2026).
 - **9 octobre 2026:** Étoiles 43,391 → 43,558, dernière version v0.2.15 (9 octobre 2026).
 - **7 octobre 2026:** Étoiles 43,206 → 43,391, dernière version v0.2.14 (7 octobre 2026).
-- **2 octobre 2026:** Étoiles 43,199 → 43,206, dernière version v0.2.13 (2 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -53,6 +53,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je configurer différents services d'IA tels que Claude, OpenAI, Gemini et Grok via une seule passerelle API à l'aide de la plateforme Sub2API ? Expliquez les étapes de base que je dois suivre pour allouer efficacement mes quotas d'abonnement et les intégrer à mes outils logiciels existants. Résumez également les problèmes juridiques et techniques auxquels je dois prêter attention afin de respecter les conditions de service de fournisseurs tels qu'Anthropic lors de l'utilisation de cette plateforme.
 
+Dépôt : https://github.com/Wei-Shaw/sub2api. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [API](https://trescout.com/fr/dictionary/api/)
@@ -66,7 +74,7 @@ Comment puis-je configurer différents services d'IA tels que Claude, OpenAI, Ge
 - [Dépôt GitHub →](https://github.com/Wei-Shaw/sub2api)
 - [Lire en turc →](https://trescout.com/discover/sub2api/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/sub2api/

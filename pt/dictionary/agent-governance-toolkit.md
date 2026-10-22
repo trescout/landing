@@ -42,7 +42,7 @@ Abrange políticas da empresa, regulamentos legais e limites éticos.
 
 - [Agent Governance Toolkit](https://trescout.com/pt/discover/agent-governance-toolkit/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-governance-toolkit/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-governance-toolkit/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agent-governance-toolkit/

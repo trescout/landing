@@ -74,7 +74,7 @@ Defined capabilities such as search, file, calendar, API and code execution. The
 - [Last30days Skill](https://trescout.com/en/discover/last30days-skill/)
 - [Hiring Agent](https://trescout.com/en/discover/hiring-agent/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-agent/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-agent/

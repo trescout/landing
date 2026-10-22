@@ -38,7 +38,7 @@ It covers banks, brokerage firms, insurance companies, and payment institutions.
 - [SaaS](https://trescout.com/en/dictionary/saas/)
 - [Database](https://trescout.com/en/dictionary/database/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/financial-services/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/financial-services/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/financial-services/

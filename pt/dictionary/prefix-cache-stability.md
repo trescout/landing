@@ -34,7 +34,7 @@ Sim, porque o modelo parte de uma base fixa em vez de interpretar a mesma inform
 - [Inference Engine](https://trescout.com/pt/dictionary/inference-engine/)
 - [Context Window](https://trescout.com/pt/dictionary/context-window/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/prefix-cache-stability/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/prefix-cache-stability/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/prefix-cache-stability/

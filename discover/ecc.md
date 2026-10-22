@@ -2,17 +2,17 @@
 
 ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçlarına **beceriler, içgüdüler, hafıza optimizasyonu ve güvenlik taraması** kazandıran kapsamlı bir sistemdir. Tekil konfigürasyon dosyaları yerine, ajanın daha tutarlı, güvenli ve önce-araştır mantığıyla çalışmasını sağlayan hazır bir katman sunar.
 
-- ★ 270.891
+- ★ 284.483
 - JavaScript
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 270.891 → 284.483, son sürüm v2.2.3 (1 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 270.280 → 270.891, son sürüm v2.2.3 (1 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 267.980 → 270.280, son sürüm v2.2.2 (30 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 254.644 → 267.980, son sürüm v2.2.1 (8 Eylül 2026).
-- **9 Eylül 2026:** Yıldız 245.070 → 254.644, son sürüm v2.2.1 (8 Eylül 2026).
 
 - **Kimin için:** Claude Code / Codex / Cursor kullanan geliştiriciler
 - **Zorluk:** Orta–ileri · yapay zekâ asistanı kullanmaya aşina olmak gerekir
@@ -56,6 +56,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Claude Code'da '/plugin marketplace add https://github.com/affaan-m/ECC' ve ardından '/plugin install ecc@ecc' komutlarını çalıştırarak ECC operatör sistemini kur; sonra projemde güvenlik taraması yapmak için /security-scan komutunu kullan.
 
+Depo: https://github.com/affaan-m/ECC. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Lisans:** MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanabilirsiniz (yalnızca telif/lisans bildirimini koruyun).
 
 ## Bağlantılar
@@ -64,7 +72,7 @@ Claude Code'da '/plugin marketplace add https://github.com/affaan-m/ECC' ve ard�
 - [Ana sayfa (ecc.tools) →](https://ecc.tools)
 - [Türkçe README →](https://github.com/affaan-m/ECC/blob/main/docs/tr/README.md)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

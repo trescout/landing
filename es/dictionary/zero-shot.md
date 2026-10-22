@@ -43,7 +43,7 @@ Significa 'cero disparos' en inglés; es decir, al modelo no se le ha dado ning�
 - [Voice Pro](https://trescout.com/es/discover/voice-pro/)
 - [YuE](https://trescout.com/es/discover/yue/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/zero-shot/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/zero-shot/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/zero-shot/

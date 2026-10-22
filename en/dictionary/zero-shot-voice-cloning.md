@@ -42,7 +42,7 @@ It is called this name because the model does not need to go through a 'learning
 
 - [Voice Pro](https://trescout.com/en/discover/voice-pro/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/zero-shot-voice-cloning/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/zero-shot-voice-cloning/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/zero-shot-voice-cloning/

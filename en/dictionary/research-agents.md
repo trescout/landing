@@ -42,7 +42,7 @@ It is important to verify the source, but they are excellent tools for accelerat
 
 - [OpenResearch](https://trescout.com/en/discover/openresearch/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/research-agents/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/research-agents/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/research-agents/

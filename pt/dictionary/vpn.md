@@ -48,7 +48,7 @@ Geralmente não, eles podem gerar receita com seus dados.
 - [Tailcat](https://trescout.com/pt/discover/tailcat/)
 - [MasterDnsVPN](https://trescout.com/pt/discover/masterdnsvpn/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vpn/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vpn/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/vpn/

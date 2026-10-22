@@ -34,7 +34,7 @@ Yes, because the model starts from a fixed basis rather than interpreting the sa
 - [Inference Engine](https://trescout.com/en/dictionary/inference-engine/)
 - [Context Window](https://trescout.com/en/dictionary/context-window/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/prefix-cache-stability/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/prefix-cache-stability/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/prefix-cache-stability/

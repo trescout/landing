@@ -39,7 +39,7 @@ Porque a palavra 'modo' representa o canal de dados aqui; Ele recebe esse nome p
 - [Foundation Model](https://trescout.com/pt/dictionary/foundation-model/)
 - [Generative AI](https://trescout.com/pt/dictionary/generative-ai/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multimodal-large-language-model/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multimodal-large-language-model/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/multimodal-large-language-model/

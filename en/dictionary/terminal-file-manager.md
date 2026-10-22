@@ -38,7 +38,7 @@ It is generally very common on Linux and macOS.
 - [Shell](https://trescout.com/en/dictionary/shell/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/terminal-file-manager/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/terminal-file-manager/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/terminal-file-manager/
