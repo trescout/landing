@@ -41,7 +41,7 @@ Thanks to visualization tools, anyone who understands logic can follow relations
 
 - [Flowsint](https://trescout.com/en/discover/flowsint/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/graph-based-investigation/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/graph-based-investigation/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/graph-based-investigation/

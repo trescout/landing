@@ -46,7 +46,7 @@ Yes, GGUF versions of most popular models are prepared and shared by the communi
 - [ODS](https://trescout.com/en/discover/ods/)
 - [Transcribe.cpp](https://trescout.com/en/discover/transcribe-cpp/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/gguf/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/gguf/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/gguf/

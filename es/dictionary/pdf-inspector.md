@@ -88,7 +88,7 @@ No; mientras que el analizador (parser) se centra en extraer el texto y los dato
 
 - [PDF Inspector](https://trescout.com/es/discover/pdf-inspector/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/pdf-inspector/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/pdf-inspector/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/pdf-inspector/

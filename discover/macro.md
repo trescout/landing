@@ -2,16 +2,16 @@
 
 Macro, e-posta, sohbet, dokümanlar ve görev yönetimi gibi iş araçlarını ortak bir yapay zekâ hafızasıyla birleştiren bir çalışma alanı. Rust diliyle geliştirilen bu platform, farklı iş akışlarını tek bir arayüzde birbirine bağlı hale getiriyor.
 
-- ★ 4.691
+- ★ 4.736
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 4.705 → 4.736, son sürüm v2026.10.18.0 (18 Ekim 2026).
+- **17 Ekim 2026:** Yıldız 4.691 → 4.705, son sürüm v2026.10.16.0 (16 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 4.680 → 4.691, son sürüm v2026.10.15.0 (15 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 4.666 → 4.680, son sürüm v2026.10.14.0 (14 Ekim 2026).
-- **14 Ekim 2026:** Yıldız 4.627 → 4.666, son sürüm v2026.10.13.1 (13 Ekim 2026).
-- **11 Ekim 2026:** Yıldız 4.613 → 4.627, son sürüm v2026.10.10.0 (10 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -32,7 +32,7 @@ Macro platformunu kullanmaya başlamak için resmî web sitesi olan macro.com ad
 
 - [GitHub deposu →](https://github.com/macro-inc/macro)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

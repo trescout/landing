@@ -67,7 +67,7 @@ In manual languages, by writing a free for each malloc or by setting up RAII pat
 - [Network Stack](https://trescout.com/en/dictionary/network-stack/)
 - [Assembly](https://trescout.com/en/dictionary/assembly/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/memory-management/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/memory-management/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/memory-management/

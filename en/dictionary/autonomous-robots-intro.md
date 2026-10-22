@@ -71,7 +71,7 @@ Cost and regulations dictate. Indoor areas come first, outdoor paths come later.
 
 - [Introduction-to-Autonomous-Robots](https://trescout.com/en/discover/introduction-to-autonomous-robots/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/autonomous-robots-intro/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/autonomous-robots-intro/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/autonomous-robots-intro/

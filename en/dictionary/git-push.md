@@ -83,7 +83,7 @@ It occurs because new commits in the remote repository are not yet on your local
 
 - [No Mistakes](https://trescout.com/en/discover/no-mistakes/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/git-push/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/git-push/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/git-push/

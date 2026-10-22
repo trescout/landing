@@ -2,16 +2,16 @@
 
 Developed with TypeScript, iloader is a user-friendly sideloader that facilitates the process of installing applications on iOS devices. It simplifies the installation of apps outside of Apple's official store, improving the developer and user experience.
 
-- ★ 4,008
+- ★ 4,075
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Updates
 
+- **October 18, 2026:** Stars 4,008 → 4,075, latest release v2.3.10 (October 18, 2026).
 - **October 16, 2026:** Stars 3,970 → 4,008, latest release v2.3.9 (October 16, 2026).
 - **October 15, 2026:** Stars 3,934 → 3,970, latest release v2.3.8 (October 15, 2026).
 - **October 14, 2026:** Stars 3,738 → 3,934, latest release v2.3.7 (October 13, 2026).
-- **October 6, 2026:** Stars 3,710 → 3,738, latest release v2.3.6 (October 6, 2026).
 
 ## What you get
 
@@ -28,6 +28,7 @@ Go to the official website at iloader.app and download the version suitable for 
 ## Related dictionary terms
 
 - [Sideloader](https://trescout.com/en/dictionary/sideloader/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for iOS users and developers who want to install applications outside the official Apple store.
 - **License:** MIT
@@ -37,7 +38,7 @@ Go to the official website at iloader.app and download the version suitable for 
 - [GitHub repository →](https://github.com/nab138/iloader)
 - [Read in Turkish →](https://trescout.com/discover/iloader/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/iloader/

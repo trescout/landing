@@ -34,7 +34,7 @@ Sim, muitas vezes é considerada uma vulnerabilidade de segurança porque faz co
 - [Prompt Engineering](https://trescout.com/pt/dictionary/prompt-engineering/)
 - [Hallucination](https://trescout.com/pt/dictionary/hallucination/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/system-prompt-leaks/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/system-prompt-leaks/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/system-prompt-leaks/

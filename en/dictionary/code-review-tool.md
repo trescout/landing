@@ -39,7 +39,7 @@ Many only provide warnings, but advanced ones can offer 'auto-fix' suggestions, 
 - [Clean Code](https://trescout.com/en/dictionary/clean-code/)
 - [Continuous Integration](https://trescout.com/en/dictionary/continuous-integration/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-review-tool/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-review-tool/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/code-review-tool/

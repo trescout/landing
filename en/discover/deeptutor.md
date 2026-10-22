@@ -2,16 +2,16 @@
 
 DeepTutor is a lifelong learning-based private tutoring system that offers personalized education processes using student data. The project aims to optimize the learning experience with artificial intelligence-supported individualized tutoring methods.
 
-- ★ 40,928
+- ★ 41,717
 - Python
 - GitHub Trending · 2026-07-16
 
 ## Updates
 
+- **October 19, 2026:** Stars 40,928 → 41,717, latest release v1.6.15 (October 18, 2026).
 - **October 8, 2026:** Stars 40,808 → 40,928, latest release v1.6.14 (October 8, 2026).
 - **October 5, 2026:** Stars 40,358 → 40,808, latest release v1.6.13 (October 4, 2026).
 - **September 27, 2026:** Stars 40,334 → 40,358, latest release v1.6.12 (September 27, 2026).
-- **September 27, 2026:** Stars 39,561 → 40,334, latest release v1.6.11 (September 24, 2026).
 
 ## What you get
 
@@ -53,6 +53,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I personalize my learning process using the DeepTutor system? Explain the basic steps I need to follow to create my own AI partners and optimize my lifelong learning experience by integrating my custom training materials into this system.
 
+Repository: https://github.com/HKUDS/DeepTutor. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Lifelong Learning](https://trescout.com/en/dictionary/lifelong-learning/)
@@ -69,7 +77,7 @@ How can I personalize my learning process using the DeepTutor system? Explain th
 - [GitHub repository →](https://github.com/HKUDS/DeepTutor)
 - [Read in Turkish →](https://trescout.com/discover/deeptutor/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/deeptutor/

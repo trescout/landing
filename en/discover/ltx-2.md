@@ -2,15 +2,15 @@
 
 Developed by Lightricks, LTX-2 offers a Python inference and low-rank adaptation (LoRA) training package for artificial intelligence models that produce audio and video. This toolset allows users to train LTX-2 models with their own data and run model outputs on local systems.
 
-- ★ 9,567
+- ★ 9,793
 - GitHub Trending · 2026-06-19
 
 ## Updates
 
+- **October 19, 2026:** Stars 9,567 → 9,793, latest release v1.5.0 (October 18, 2026).
 - **October 2, 2026:** Stars 9,562 → 9,567, latest release v1.4.2 (October 2, 2026).
 - **October 1, 2026:** Stars 9,552 → 9,562, latest release v1.4.1 (September 30, 2026).
 - **September 29, 2026:** Stars 9,267 → 9,552, latest release v1.4.0 (September 29, 2026).
-- **August 27, 2026:** Stars 8,587 → 9,267, latest release v1.3.0 (August 26, 2026).
 
 ## What you get
 
@@ -47,6 +47,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Please create a video using the LTX-2 model that describes the scene I want in detail and includes audio and video synchronization. Have the model produce output by specifying scene details, character's appearance, camera angle and speech text.
 
+Repository: https://github.com/Lightricks/LTX-2. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [LoRA](https://trescout.com/en/dictionary/lora/)
@@ -61,7 +69,7 @@ Please create a video using the LTX-2 model that describes the scene I want in d
 - [GitHub repository →](https://github.com/Lightricks/LTX-2)
 - [Read in Turkish →](https://trescout.com/discover/ltx-2/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-19: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-19: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/ltx-2/

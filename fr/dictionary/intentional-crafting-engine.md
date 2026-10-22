@@ -39,7 +39,7 @@ Au lieu de se contenter d'écrire des blocs de code isolés, il crée des module
 - [Generative AI](https://trescout.com/fr/dictionary/generative-ai/)
 - [Vibe Coding](https://trescout.com/fr/dictionary/vibe-coding/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/intentional-crafting-engine/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/intentional-crafting-engine/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/intentional-crafting-engine/

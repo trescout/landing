@@ -46,7 +46,7 @@ Sim, eles podem entender o que está no conteúdo analisando os vídeos quadro a
 - [Patent Disclosure Skill](https://trescout.com/pt/discover/patent-disclosure-skill/)
 - [ODS](https://trescout.com/pt/discover/ods/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multimodal/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multimodal/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/multimodal/

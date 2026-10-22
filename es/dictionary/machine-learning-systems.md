@@ -34,7 +34,7 @@ El aprendizaje automático es una subrama de la inteligencia artificial centrada
 
 - [Cs249r Book](https://trescout.com/es/discover/cs249r-book/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/machine-learning-systems/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/machine-learning-systems/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/machine-learning-systems/

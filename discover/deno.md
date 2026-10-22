@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Deno çalışma zamanını kullanarak bir web sunucusu oluşturmak istiyorum. TypeScript dilinde server.ts adında bir dosya oluşturup içine Deno.serve fonksiyonunu kullanarak basit bir yanıt döndüren kod bloğunu nasıl yazarım ve ardından bu sunucuyu ağ izinlerini vererek nasıl çalıştırırım?
 
+Depo: https://github.com/denoland/deno. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** JavaScript ve TypeScript projelerini güvenli ve modern bir ortamda geliştirmek isteyen yazılımcılar için uygundur.
 - **Lisans:** MIT
 
@@ -54,7 +62,7 @@ Deno çalışma zamanını kullanarak bir web sunucusu oluşturmak istiyorum. Ty
 
 - [GitHub deposu →](https://github.com/denoland/deno)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -2,16 +2,16 @@
 
 Folia-major est une interface de lecteur qui fournit des animations de paroles visualisées pour les fichiers musicaux locaux et les plateformes en ligne. Développé avec TypeScript, cet outil vise à enrichir l'expérience d'écoute musicale avec des effets visuels dynamiques.
 
-- ★ 6 803
+- ★ 7 781
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Mises à jour
 
+- **18 octobre 2026:** Étoiles 6,803 → 7,781, dernière version v0.7.21 (18 octobre 2026).
 - **16 octobre 2026:** Étoiles 5,900 → 6,803, dernière version v0.7.20 (15 octobre 2026).
 - **13 octobre 2026:** Étoiles 5,014 → 5,900, dernière version v0.7.19 (13 octobre 2026).
 - **12 octobre 2026:** Étoiles 4,259 → 5,014, dernière version v0.7.18 (11 octobre 2026).
-- **10 octobre 2026:** Étoiles 3,906 → 4,259, dernière version v0.7.17 (10 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -37,7 +37,7 @@ Pour commencer à l'utiliser directement, vous pouvez télécharger et installer
 - [Dépôt GitHub →](https://github.com/chthollyphile/folia-major)
 - [Lire en turc →](https://trescout.com/discover/folia-major/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/folia-major/

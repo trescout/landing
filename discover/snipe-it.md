@@ -2,16 +2,16 @@
 
 Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını takip etmeye yarayan açık kaynaklı bir yönetim sistemidir. PHP diliyle geliştirilen bu platform, kurumların envanter kayıtlarını ve kullanım döngülerini dijital ortamda düzenlemesine olanak tanır.
 
-- ★ 14.989
+- ★ 15.052
 - PHP
 - GitHub Trending · 2026-07-30
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 14.989 → 15.052, son sürüm v8.8.1 (20 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 14.843 → 14.989, son sürüm v8.8.0 (30 Eylül 2026).
 - **20 Ağustos 2026:** Yıldız 14.832 → 14.843, son sürüm v8.7.2 (19 Ağustos 2026).
 - **18 Ağustos 2026:** Yıldız 14.798 → 14.832, son sürüm v8.7.1 (17 Ağustos 2026).
-- **12 Ağustos 2026:** Yıldız 14.677 → 14.798, son sürüm v8.7.0 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 
@@ -50,7 +50,11 @@ Bu araç web tabanlı bir yazılımdır ve bir web sunucusu üzerinde çalışt�
 
 - [GitHub deposu →](https://github.com/grokability/snipe-it)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/snipe-it/

@@ -43,10 +43,18 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite accélérer certains calculs Delta Attention à l'aide de l'outil FlashKDA. Comment puis-je optimiser le mécanisme d'attention de mon modèle en utilisant la fonction chunk_kda sous torch.inference_mode(), intégrée à la bibliothèque flash-linear-attention ? Veuillez créer un exemple d'application, en tenant compte des paramètres nécessaires et de la configuration matérielle requise auxquels je dois prêter attention.
 
+Dépôt : https://github.com/MoonshotAI/FlashKDA. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
-- [Kernels](https://trescout.com/fr/dictionary/kernels/)
 - [Attention](https://trescout.com/fr/dictionary/attention/)
+- [Kernels](https://trescout.com/fr/dictionary/kernels/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs qui souhaitent accélérer les calculs d'attention sur de grands modèles de langage sur CUDA.
@@ -57,7 +65,7 @@ Je souhaite accélérer certains calculs Delta Attention à l'aide de l'outil Fl
 - [Dépôt GitHub →](https://github.com/MoonshotAI/FlashKDA)
 - [Lire en turc →](https://trescout.com/discover/flashkda/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-30 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-30 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/flashkda/

@@ -38,7 +38,7 @@ Como seus dados estão no servidor, dependem das medidas de segurança da empres
 - [SaaS](https://trescout.com/pt/dictionary/saas/)
 - [Web Interface](https://trescout.com/pt/dictionary/web-interface/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-based-solutions/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-based-solutions/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/web-based-solutions/

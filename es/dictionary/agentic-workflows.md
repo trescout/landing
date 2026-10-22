@@ -39,7 +39,7 @@ Generalmente se espera aprobación para decisiones críticas, pero la mayoría d
 - [MinerU](https://trescout.com/es/discover/mineru/)
 - [Pstack Claude](https://trescout.com/es/discover/pstack-claude/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/agentic-workflows/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/agentic-workflows/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agentic-workflows/

@@ -41,7 +41,7 @@ Yes, scoring is usually done by trained experts or broad audiences.
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [Hallucination](https://trescout.com/en/dictionary/hallucination/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rlhf/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rlhf/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/rlhf/

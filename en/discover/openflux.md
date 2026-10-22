@@ -49,6 +49,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a TCP tunnel using the OpenFlux tool. Explain step-by-step the build steps required to run the client on my desktop computer and how to configure SOCKS5 proxy settings in the browser. Additionally, explain with technical details why it is necessary to block RST packets using iptables when setting up an exit node on a Linux server, and the impact of this process on network security.
 
+Repository: https://github.com/p1neappleXpress/OpenFlux. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Pluggable Transports](https://trescout.com/en/dictionary/pluggable-transports/)
@@ -64,7 +72,7 @@ I want to create a TCP tunnel using the OpenFlux tool. Explain step-by-step the 
 - [GitHub repository →](https://github.com/p1neappleXpress/OpenFlux)
 - [Read in Turkish →](https://trescout.com/discover/openflux/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/openflux/

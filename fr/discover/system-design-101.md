@@ -24,6 +24,7 @@ Cet outil n'est pas une bibliothèque logicielle mais une ressource pédagogique
 ## Termes liés du glossaire
 
 - [System Design](https://trescout.com/fr/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient à ceux qui se préparent à des entretiens en génie logiciel et à toute personne curieuse de savoir comment fonctionnent les systèmes en arrière-plan.
 
@@ -32,7 +33,7 @@ Cet outil n'est pas une bibliothèque logicielle mais une ressource pédagogique
 - [Dépôt GitHub →](https://github.com/ByteByteGoHq/system-design-101)
 - [Lire en turc →](https://trescout.com/discover/system-design-101/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-29 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-29 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/system-design-101/

@@ -40,7 +40,7 @@ Yes, artificial intelligence algorithms are heavily used to find the most accura
 - [Data Processing](https://trescout.com/en/dictionary/data-processing/)
 - [SEO](https://trescout.com/en/dictionary/seo/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ad-tech/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ad-tech/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ad-tech/

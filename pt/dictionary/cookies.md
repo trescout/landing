@@ -42,7 +42,7 @@ Eles são bloqueados por padrão pelos navegadores modernos porque violam a sua 
 - [GDPR](https://trescout.com/pt/dictionary/gdpr/)
 - [Ad Tech](https://trescout.com/pt/dictionary/ad-tech/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cookies/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cookies/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cookies/

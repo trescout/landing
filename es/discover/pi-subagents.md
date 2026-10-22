@@ -2,17 +2,17 @@
 
 pi-subagents es una biblioteca TypeScript desarrollada para gestionar procesos de delegación de subagente asincrónicos en la plataforma Pi. Facilita la distribución de cargas de trabajo complejas a los subagentes.
 
-- ★ 3.919
+- ★ 3.976
 - TypeScript
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
 
 ## Actualizaciones
 
-- **13 de octubre de 2026:** Estrellas 3,893 → 3,919, última versión v0.78.0 (13 de octubre de 2026).
-- **10 de octubre de 2026:** Estrellas 3,862 → 3,893, última versión v0.77.0 (10 de octubre de 2026).
-- **6 de octubre de 2026:** Estrellas 3,850 → 3,862, última versión v0.76.1 (6 de octubre de 2026).
-- **5 de octubre de 2026:** Estrellas 3,825 → 3,850, última versión v0.76.0 (4 de octubre de 2026).
+- **21 de octubre de 2026:** Estrellas 3,966 → 3,976, última versión v0.80.0 (21 de octubre de 2026).
+- **20 de octubre de 2026:** Estrellas 3,948 → 3,966, última versión v0.79.2 (20 de octubre de 2026).
+- **18 de octubre de 2026:** Estrellas 3,942 → 3,948, última versión v0.79.1 (18 de octubre de 2026).
+- **17 de octubre de 2026:** Estrellas 3,919 → 3,942, última versión v0.79.0 (17 de octubre de 2026).
 
 ## Qué aporta
 
@@ -25,6 +25,14 @@ pi-subagents es una biblioteca TypeScript desarrollada para gestionar procesos d
 Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale este paquete con el comando 'pi install npm:pi-subagents', luego ejecute una revisión de código con '/run reviewer' o ejecute varios subagentes expertos (por ejemplo, revisor, programador) simultáneamente con '/parallel' y distribuya el trabajo entre ellos.
+
+Repositorio: https://github.com/nicobailon/pi-subagents. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
 
 **instalar con pi**
 
@@ -62,7 +70,7 @@ pi install npm:pi-subagents
 - [Repositorio en GitHub →](https://github.com/nicobailon/pi-subagents)
 - [Leer en turco →](https://trescout.com/discover/pi-subagents/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/pi-subagents/

@@ -42,6 +42,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yazılım geliştirme asistanısın. Atlas kullanarak yaptığın tüm kod değişikliklerini, aldığın kararları ve kullandığın araçları oturum geçmişiyle birlikte kaydet. Çalışırken Claude Code veya Codex gibi farklı ajanlar arasında geçiş yapman gerekirse, önceki oturumdaki planları ve mimari notları ortak hafızadan oku. Kod tabanındaki dosyaları, klasörleri veya geçmiş oturumları '@' işaretiyle çağırarak bağlamı koru ve yaptığın her değişikliğin nedenini, ilgili oturumun gerekçeleriyle birlikte belgele.
 
+Depo: https://github.com/pacifio/atlas. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Birden fazla yapay zekâ ajanıyla çalışan ve kodlama süreçlerinde yapılan değişikliklerin mantıksal gerekçelerini takip etmek isteyen yazılım geliştiriciler içindir.
 - **Lisans:** MIT
 
@@ -49,7 +57,7 @@ Sen bir yazılım geliştirme asistanısın. Atlas kullanarak yaptığın tüm k
 
 - [GitHub deposu →](https://github.com/pacifio/atlas)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

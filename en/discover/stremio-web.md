@@ -2,16 +2,16 @@
 
 Stremio is a media player application that consolidates different content providers into a single interface. This web-based version allows users to watch series and movies through their browser without any installation.
 
-- ★ 14,524
+- ★ 14,721
 - JavaScript
 - GitHub Trending · 2026-09-07
 
 ## Updates
 
+- **October 21, 2026:** Stars 14,524 → 14,721, latest release v5.0.0-beta.43 (October 20, 2026).
 - **October 12, 2026:** Stars 14,129 → 14,524, latest release v5.0.0-beta.42 (October 12, 2026).
 - **October 5, 2026:** Stars 13,968 → 14,129, latest release v5.0.0-beta.41 (October 5, 2026).
 - **September 27, 2026:** Stars 13,631 → 13,968, latest release v5.0.0-beta.40 (September 23, 2026).
-- **September 7, 2026:** Stars 13,627 → 13,631, latest release v5.0.0-beta.39 (July 27, 2026).
 
 ## What you get
 
@@ -41,6 +41,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I personalize my series and movie watching experience using the Stremio Web interface? Guide me on how to manage add-ons, synchronize my watchlist, and control the player more efficiently using keyboard shortcuts.
 
+Repository: https://github.com/Stremio/stremio-web. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
@@ -53,7 +61,7 @@ How can I personalize my series and movie watching experience using the Stremio 
 - [GitHub repository →](https://github.com/Stremio/stremio-web)
 - [Read in Turkish →](https://trescout.com/discover/stremio-web/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-07: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-07: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/stremio-web/

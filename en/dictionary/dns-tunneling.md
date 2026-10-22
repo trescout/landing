@@ -42,7 +42,7 @@ Because DNS is the cornerstone of the internet and blocking it can stop the netw
 
 - [MasterDnsVPN](https://trescout.com/en/discover/masterdnsvpn/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dns-tunneling/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dns-tunneling/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/dns-tunneling/

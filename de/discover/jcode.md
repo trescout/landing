@@ -2,16 +2,16 @@
 
 Jcode wurde mit der Rust-Sprache entwickelt und bietet ein Framework zum Testen und Bewerten codierungsorientierter Agenten für künstliche Intelligenz. Es bietet eine Standardinfrastruktur zur Messung der Leistung von Agenten, die in Softwareentwicklungsprozessen verwendet werden.
 
-- ★ 20.827
+- ★ 21.024
 - Rust
 - GitHub Trending · 2026-06-21
 
 ## Aktualisierungen
 
+- **19. Oktober 2026:** Sterne 20,827 → 21,024, neueste Version v0.99.0 (19. Oktober 2026).
 - **15. Oktober 2026:** Sterne 20,726 → 20,827, neueste Version v0.98.1 (15. Oktober 2026).
 - **14. Oktober 2026:** Sterne 20,491 → 20,726, neueste Version v0.96.0 (14. Oktober 2026).
 - **12. Oktober 2026:** Sterne 20,377 → 20,491, neueste Version v0.95.0 (12. Oktober 2026).
-- **10. Oktober 2026:** Sterne 20,361 → 20,377, neueste Version v0.94.0 (10. Oktober 2026).
 
 ## Was es bringt
 
@@ -50,6 +50,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Leistung und die Fähigkeit zur Verwaltung mehrerer Sitzungen meines codierungsorientierten KI-Agenten testen. Ermöglichen Sie mir, die Ressourcennutzung meines Agenten zu optimieren und mithilfe des Jcode-Frameworks eine Standardtestumgebung einzurichten.
 
+Repository: https://github.com/1jehuang/jcode. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Harness](https://trescout.com/de/dictionary/harness/)
@@ -64,7 +72,7 @@ Ich möchte die Leistung und die Fähigkeit zur Verwaltung mehrerer Sitzungen me
 - [GitHub-Repository →](https://github.com/1jehuang/jcode)
 - [Auf Türkisch lesen →](https://trescout.com/discover/jcode/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-21 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-21 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/jcode/

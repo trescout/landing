@@ -55,6 +55,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite configurer un tunnel de transfert de fichiers crypté entre deux serveurs différents sur le réseau maillé Tailscale à l'aide de l'outil Tailcat. Pouvez-vous expliquer comment démarrer l'écouteur côté serveur, comment diffuser l'archive tar à partir de la sortie standard côté client et comment gérer l'authentification tsnet ?
 
+Dépôt : https://github.com/tailscale/tailcat. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Ai-je besoin d’un client Tailscale installé sur ma machine ? Non, Tailcat intègre le moteur tsnet ; Il lance son propre lien Tailscale en tant que binaire autonome.
@@ -81,7 +89,7 @@ Je souhaite configurer un tunnel de transfert de fichiers crypté entre deux ser
 - [Dépôt GitHub →](https://github.com/tailscale/tailcat)
 - [Lire en turc →](https://trescout.com/discover/tailcat/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/tailcat/

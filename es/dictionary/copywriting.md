@@ -38,7 +38,7 @@ Sí, los modelos de inteligencia artificial pueden crear textos persuasivos, per
 - [AI-generated Content](https://trescout.com/es/dictionary/ai-generated-content/)
 - [Marketing Skills](https://trescout.com/es/dictionary/marketing-skills/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/copywriting/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/copywriting/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/copywriting/

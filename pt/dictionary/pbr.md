@@ -40,7 +40,7 @@ Garante que os objetos pareçam consistentes e realistas em diferentes condiçõ
 - [Design Tool](https://trescout.com/pt/dictionary/design-tool/)
 - [Godot Engine](https://trescout.com/pt/dictionary/godot-engine/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/pbr/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/pbr/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/pbr/

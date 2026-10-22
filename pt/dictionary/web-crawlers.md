@@ -33,7 +33,7 @@ Os proprietários de sites podem determinar quais partes os bots podem ou não n
 - [Web Scraping](https://trescout.com/pt/dictionary/web-scraping/)
 - [Data Pipeline](https://trescout.com/pt/dictionary/data-pipeline/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-crawlers/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-crawlers/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/web-crawlers/

@@ -51,6 +51,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale el complemento Understand Anything en Claude Code con los comandos '/plugin Marketplace add Lum1104/Understand-Anything' y '/plugin install learn-anything', luego en mi proyecto ejecute '/understand' para analizar el código base y abra el panel de gráfico de conocimiento interactivo con '/understand-dashboard'.
 
+Repositorio: https://github.com/Lum1104/Understand-Anything. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## ¿Por qué está en la agenda?
 
 Porque está en el centro de la tendencia de "comprender el código y la información preguntando a la IA". Más allá de ser una aplicación independiente, se incluye como complemento de los asistentes que utiliza (como Claude Code, Codex, Gemini CLI). El hecho de que haya sido protagonizado por más de 4.700 desarrolladores en un día es testimonio del intenso interés que ha despertado.
@@ -80,7 +88,7 @@ Porque está en el centro de la tendencia de "comprender el código y la informa
 - [Repositorio en GitHub →](https://github.com/Lum1104/Understand-Anything)
 - [Leer en turco →](https://trescout.com/discover/understand-anything/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-26: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-26: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/understand-anything/

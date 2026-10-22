@@ -62,7 +62,7 @@ Está aumentando. A medida que disminuyen los costes, las instalaciones en aerop
 - [Physical AI](https://trescout.com/es/dictionary/physical-ai/)
 - [Driver Assistance System](https://trescout.com/es/dictionary/driver-assistance-system/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/phased-array-radar/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/phased-array-radar/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/phased-array-radar/

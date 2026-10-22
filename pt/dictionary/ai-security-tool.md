@@ -42,7 +42,7 @@ Sim, pode haver um pequeno atraso, pois todos os dados são auditados.
 
 - [Strix](https://trescout.com/pt/discover/strix/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-security-tool/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-security-tool/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-security-tool/

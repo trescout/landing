@@ -2,15 +2,15 @@
 
 TradingAgents is a multi-agent LLM-based framework developed for trading in financial markets. This system, written in Python, enables autonomous trading agents to analyze financial data, create strategies and manage decision-making processes.
 
-- ★ 109,690
+- ★ 111,593
 - GitHub Trending · 2026-06-02
 
 ## Updates
 
+- **October 17, 2026:** Stars 109,690 → 111,593, latest release v0.7.0 (October 16, 2026).
 - **October 4, 2026:** Stars 109,196 → 109,690, latest release v0.6.0 (October 3, 2026).
 - **September 29, 2026:** Stars 108,777 → 109,196, latest release v0.5.2 (September 29, 2026).
 - **September 27, 2026:** Stars 107,380 → 108,777, latest release v0.5.1 (September 24, 2026).
-- **September 18, 2026:** Stars 107,234 → 107,380, latest release v0.5.0 (September 18, 2026).
 
 ## What you get
 
@@ -42,6 +42,16 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to analyze financial market data using the TradingAgents tool. I completed the installation and configured my necessary API keys. How can I initialize the system for agents to evaluate market conditions and perform technical and fundamental analysis? With what command can I activate autonomous trading agents and start the strategy creation process?
 
+Repository: https://github.com/TauricResearch/TradingAgents. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+If an API key is required, do not ask me to type it into the chat. Show me how to add it to the .env file and ensure this file is not pushed to Git.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Multi-agent LLM](https://trescout.com/en/dictionary/multi-agent-llm/)
@@ -59,7 +69,7 @@ I want to analyze financial market data using the TradingAgents tool. I complete
 - [GitHub repository →](https://github.com/TauricResearch/TradingAgents)
 - [Read in Turkish →](https://trescout.com/discover/tradingagents/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-02: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-02: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/tradingagents/

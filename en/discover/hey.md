@@ -27,6 +27,7 @@ For installation, you can use the download links suitable for your Linux, macOS,
 - [ApacheBench (ab)](https://trescout.com/en/dictionary/apache-bench/)
 - [ab (ApacheBench)](https://trescout.com/en/dictionary/apache-bench-ab/)
 - [ab](https://trescout.com/en/dictionary/ab/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Intended for developers who want to test the performance and speed of web applications.
 - **License:** Apache-2.0
@@ -36,7 +37,7 @@ For installation, you can use the download links suitable for your Linux, macOS,
 - [GitHub repository →](https://github.com/rakyll/hey)
 - [Read in Turkish →](https://trescout.com/discover/hey/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/hey/

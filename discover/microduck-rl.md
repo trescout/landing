@@ -62,6 +62,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Pollen Robotics'in microduck_rl kütüphanesini kullanarak Microduck robotu için bir yürüme (walking) politikası eğitmek istiyorum. MuJoCo ortamını nasıl yapılandıracağımı, PPO algoritması ile eğitim komutunu nasıl başlatacağımı ve ortaya çıkan kontrol politikasını fiziksel robota aktarma adımlarını açıklar mısın?
 
+Depo: https://github.com/pollen-robotics/microduck_rl. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Robotik araştırmacıları, mekatronik mühendisleri, pekiştirmeli öğrenme uzmanları ve hobiciler.
 - **Lisans:** Apache-2.0 (Açık kaynak lisansı)
 - **Çatı:** Python, MuJoCo & mjlab Robotik Çatısı
@@ -78,7 +86,7 @@ Pollen Robotics'in microduck_rl kütüphanesini kullanarak Microduck robotu içi
 
 - [GitHub deposu →](https://github.com/pollen-robotics/microduck_rl)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
@@ -86,8 +94,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Reinforcement Learning](https://trescout.com/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/dictionary/cpu/)
 - [GPU](https://trescout.com/dictionary/gpu/)
-- [API](https://trescout.com/dictionary/api/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/microduck-rl/

@@ -39,7 +39,7 @@ Cloud storage is a good tool, but it is important not to be dependent on a singl
 - [Personal Knowledge Management](https://trescout.com/en/dictionary/pkm/)
 - [Personal knowledge management](https://trescout.com/en/dictionary/personal-knowledge-management/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/digital-preservation/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/digital-preservation/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/digital-preservation/

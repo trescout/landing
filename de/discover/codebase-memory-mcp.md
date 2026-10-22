@@ -2,16 +2,16 @@
 
 Codebase-memory-mcp bietet leistungsstarke Code-Intelligenz, indem es Codebasen in einen permanenten Wissensgraphen umwandelt. Das in C-Sprache entwickelte Tool unterstützt 158 ​​Programmiersprachen, reduziert die Abfragezeiten auf unter Millisekunden und reduziert die Token-Nutzung.
 
-- ★ 46.686
+- ★ 46.739
 - C
 - GitHub Trending · 2026-06-18
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 46,686 → 46,739, neueste Version v0.12.1 (16. Oktober 2026).
 - **16. Oktober 2026:** Sterne 45,659 → 46,686, neueste Version v0.12.0 (15. Oktober 2026).
 - **2. Oktober 2026:** Sterne 43,473 → 45,659, neueste Version v0.11.0 (15. September 2026).
 - **16. September 2026:** Sterne 41,472 → 43,473, neueste Version v0.11.0 (15. September 2026).
-- **31. August 2026:** Sterne 39,459 → 41,472, neueste Version v0.10.8 (19. August 2026).
 
 ## Was es bringt
 
@@ -33,6 +33,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Indizieren Sie dieses Projekt, um Ihnen bei der Analyse meiner Codebasis und der effizienteren Beantwortung strukturierter Abfragen zu helfen. Nach der Indizierung des Projekts möchte ich, dass Sie detaillierte Informationen zu meiner Codebasis bereitstellen, indem Sie Beziehungen zwischen Funktionen, Klassen und Aufrufketten verwenden.
 
+Repository: https://github.com/DeusData/codebase-memory-mcp. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Knowledge Graph](https://trescout.com/de/dictionary/knowledge-graph/)
@@ -47,7 +55,7 @@ Indizieren Sie dieses Projekt, um Ihnen bei der Analyse meiner Codebasis und der
 - [GitHub-Repository →](https://github.com/DeusData/codebase-memory-mcp)
 - [Auf Türkisch lesen →](https://trescout.com/discover/codebase-memory-mcp/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-18 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-18 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/codebase-memory-mcp/

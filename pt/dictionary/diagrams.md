@@ -38,7 +38,7 @@ Sim, o importante não é que seja artístico, mas que reflita com precisão o f
 
 - [Likec4](https://trescout.com/pt/discover/likec4/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/diagrams/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/diagrams/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/diagrams/

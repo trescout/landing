@@ -2,7 +2,7 @@
 
 The iptv-org project, which gathers public television channels around the world in a single center, presents television broadcast over internet protocol (IPTV) lists as an organized dataset. Developed with TypeScript, this open source collection standardizes users' access to publications in different countries.
 
-- ★ 134,991
+- ★ 141,767
 - TypeScript
 - GitHub Trending · 2026-06-13
 
@@ -10,6 +10,7 @@ The iptv-org project, which gathers public television channels around the world 
 
 ## Updates
 
+- **October 21, 2026:** Stars 134,991 → 141,767.
 - **August 2, 2026:** Stars 118,170 → 134,991.
 
 ## What you get
@@ -27,6 +28,7 @@ You don't need any installation to use this tool. Copy the link to the project's
 ## Related dictionary terms
 
 - [IPTV](https://trescout.com/en/dictionary/iptv/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to watch public television channels around the world from a single application.
 - **License:** Unlicense
@@ -36,7 +38,7 @@ You don't need any installation to use this tool. Copy the link to the project's
 - [GitHub repository →](https://github.com/iptv-org/iptv)
 - [Read in Turkish →](https://trescout.com/discover/iptv/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/iptv/

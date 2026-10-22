@@ -68,7 +68,7 @@ Gracias a las bases de datos vectoriales y a la infraestructura RAG (Retrieval-A
 - [Speech-to-Speech](https://trescout.com/es/dictionary/speech-to-speech/)
 - [Personalized Tutoring](https://trescout.com/es/dictionary/personalized-tutoring/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/waifu/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/waifu/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/waifu/

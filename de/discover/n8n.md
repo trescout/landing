@@ -2,15 +2,15 @@
 
 n8n verbindet eine visuelle Arbeitsfläche, eigenen Code, KI-Agenten und Workflows in einer Fair-Code-Automatisierungsplattform. Die Plattform unterstützt selbst betriebene oder Cloud-Bereitstellungen und kann verschiedene Modellanbieter in Workflows einbinden.
 
-- ★ 207.612
+- ★ 208.197
 - GitHub Trending · 2026-08-23
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 208,109 → 208,197, neueste Version n8n@2.44.5 (21. Oktober 2026).
+- **20. Oktober 2026:** Sterne 207,983 → 208,109, neueste Version n8n@2.44.4 (19. Oktober 2026).
+- **19. Oktober 2026:** Sterne 207,612 → 207,983, neueste Version n8n@2.43.8 (19. Oktober 2026).
 - **16. Oktober 2026:** Sterne 207,437 → 207,612, neueste Version n8n@2.43.7 (16. Oktober 2026).
-- **15. Oktober 2026:** Sterne 207,332 → 207,437, neueste Version n8n@2.43.6 (15. Oktober 2026).
-- **14. Oktober 2026:** Sterne 207,216 → 207,332, neueste Version n8n@2.43.5 (14. Oktober 2026).
-- **13. Oktober 2026:** Sterne 207,074 → 207,216, neueste Version n8n@2.43.4 (12. Oktober 2026).
 
 ## Installation
 
@@ -79,7 +79,7 @@ Helfen Sie mir, auf der visuellen Arbeitsfläche einen Workflow zu entwerfen, de
 - [n8n-Dokumentations-Repository →](https://github.com/n8n-io/n8n-docs)
 - [Auf Türkisch lesen →](https://trescout.com/discover/n8n/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-23 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-23 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/n8n/

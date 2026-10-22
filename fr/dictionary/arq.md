@@ -36,7 +36,7 @@ Oui, renvoyer des colis défectueux peut ralentir un peu le processus.
 - [DNS Tunneling](https://trescout.com/fr/dictionary/dns-tunneling/)
 - [Computer Science](https://trescout.com/fr/dictionary/computer-science/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/arq/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/arq/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/arq/

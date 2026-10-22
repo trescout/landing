@@ -39,7 +39,7 @@ Os computadores não entendem arquivos PDF brutos, convertê-los em dados signif
 - [RAG](https://trescout.com/pt/dictionary/rag/)
 - [NLP](https://trescout.com/pt/dictionary/nlp/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/document-parsing/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/document-parsing/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/document-parsing/

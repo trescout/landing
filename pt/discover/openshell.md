@@ -2,16 +2,16 @@
 
 Desenvolvido pela NVIDIA, o OpenShell oferece um ambiente de tempo de execução seguro e focado em privacidade para agentes autônomos de inteligência artificial. Escrita em Rust, esta infraestrutura visa criar uma área de execução segura ao isolar o acesso dos agentes aos recursos do sistema.
 
-- ★ 16.170
+- ★ 16.850
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Atualizações
 
+- **21 de outubro de 2026:** Estrelas 16,170 → 16,850, versão mais recente v0.1.5 (20 de outubro de 2026).
 - **14 de outubro de 2026:** Estrelas 15,577 → 16,170, versão mais recente v0.1.4 (13 de outubro de 2026).
 - **9 de outubro de 2026:** Estrelas 15,205 → 15,577, versão mais recente v0.1.3 (9 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 14,197 → 15,205, versão mais recente v0.1.2 (28 de setembro de 2026).
-- **2 de outubro de 2026:** Estrelas 12,978 → 14,197, versão mais recente v0.1.2 (28 de setembro de 2026).
 
 ## O que você ganha
 
@@ -42,6 +42,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Para instalar e testar a ferramenta OpenShell, você pode usar os seguintes comandos: curl -LsSf https://raw.githubusercontent.com/NVIDIA/OpenShell/main/install.sh | sh e, em seguida, executar o comando openshell sandbox create --name demo para criar um ambiente de demonstração.
 
+Repositório: https://github.com/NVIDIA/OpenShell. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Sandbox](https://trescout.com/pt/dictionary/sandbox/)
@@ -57,7 +65,7 @@ Para instalar e testar a ferramenta OpenShell, você pode usar os seguintes coma
 - [Repositório no GitHub →](https://github.com/NVIDIA/OpenShell)
 - [Ler em turco →](https://trescout.com/discover/openshell/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-29: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-29: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/openshell/

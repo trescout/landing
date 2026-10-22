@@ -2,17 +2,17 @@
 
 Ingeniería compuesta; Claude Code es un complemento oficial para Codex y Cursor. Su filosofía básica es clara: cada tarea de ingeniería debería hacer que la siguiente sea más fácil, no más difícil. Para ello ofrece capacidades y agentes de IA que mejoran el proceso de desarrollo.
 
-- ★ 25.481
+- ★ 25.564
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026
 
 ## Actualizaciones
 
+- **17 de octubre de 2026:** Estrellas 25,481 → 25,564, última versión compound-engineering-v3.31.0 (16 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 25,402 → 25,481, última versión compound-engineering-v3.30.5 (11 de octubre de 2026).
 - **6 de octubre de 2026:** Estrellas 25,365 → 25,402, última versión compound-engineering-v3.30.4 (6 de octubre de 2026).
 - **2 de octubre de 2026:** Estrellas 25,331 → 25,365, última versión compound-engineering-v3.30.3 (1 de octubre de 2026).
-- **29 de septiembre de 2026:** Estrellas 25,280 → 25,331, última versión compound-engineering-v3.30.1 (29 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -47,6 +47,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Si está trabajando en Claude Code, instale el complemento Compound Engineering ejecutando estos dos comandos en secuencia: '/plugin Marketplace add EveryInc/compound-engineering-plugin' seguido de '/plugin install composite-engineering'; Cuando finalice la instalación, prepare el entorno ejecutando el comando '/ce-setup' en cualquier proyecto.
 
+Repositorio: https://github.com/EveryInc/compound-engineering-plugin. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Compound Engineering](https://trescout.com/es/dictionary/compound-engineering/)
@@ -67,7 +75,7 @@ Si está trabajando en Claude Code, instale el complemento Compound Engineering 
 - [Repositorio en GitHub →](https://github.com/EveryInc/compound-engineering-plugin)
 - [Leer en turco →](https://trescout.com/discover/compound-engineering-plugin/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-29: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-29: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/compound-engineering-plugin/

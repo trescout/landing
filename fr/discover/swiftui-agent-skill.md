@@ -2,11 +2,12 @@
 
 SwiftUI-Agent-Skill propose des packs de compétences (skills) spécifiques aux modèles d'intelligence artificielle pour SwiftUI, l'outil de développement d'interfaces. Cette ressource aide les assistants de codage IA tels que Claude Code et Codex à créer des composants SwiftUI de manière plus cohérente et plus rapide.
 
-- ★ 5 265
+- ★ 6 265
 - GitHub Trending · 2026-10-09
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 5,265 → 6,265, dernière version 2.0.0 (9 octobre 2026).
 - **9 octobre 2026:** Étoiles 5,212 → 5,265, dernière version 2.0.0 (9 octobre 2026).
 - **9 octobre 2026:** Étoiles 5,207 → 5,212, dernière version 1.1.0 (20 avril 2026).
 
@@ -36,6 +37,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Si l'environnement d'exécution Node n'est pas installé sur mon ordinateur, installe-le en utilisant la commande 'brew install node'. Ensuite, pour donner l'expertise SwiftUI à mon assistant de codage, exécute la commande 'npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-pro' et rends cette compétence prête à l'emploi dans mes projets.
 
+Dépôt : https://github.com/twostraws/SwiftUI-Agent-Skill. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [AI Skills](https://trescout.com/fr/dictionary/ai-skills/)
@@ -50,7 +59,7 @@ Si l'environnement d'exécution Node n'est pas installé sur mon ordinateur, ins
 - [Dépôt GitHub →](https://github.com/twostraws/SwiftUI-Agent-Skill)
 - [Lire en turc →](https://trescout.com/discover/swiftui-agent-skill/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-09 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-09 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/swiftui-agent-skill/

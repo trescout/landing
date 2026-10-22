@@ -2,12 +2,13 @@
 
 Karakeep ist eine selbsthostbare Content-Management-Anwendung, die Links, Notizen und Bilder in einem einzigen Zentrum sammelt. Es erleichtert digitale Archivierungsprozesse mit künstlicher Intelligenz unterstützter automatischer Verschlagwortung und Volltextsuche.
 
-- ★ 29.676
+- ★ 29.731
 - TypeScript
 - GitHub Trending · 2026-07-07
 
 ## Aktualisierungen
 
+- **18. Oktober 2026:** Sterne 29,676 → 29,731, neueste Version v0.34.0 (17. Oktober 2026).
 - **15. Oktober 2026:** Sterne 28,260 → 29,676, neueste Version v0.33.2 (11. August 2026).
 - **12. August 2026:** Sterne 28,017 → 28,260, neueste Version v0.33.2 (11. August 2026).
 - **2. August 2026:** Sterne 27,033 → 28,017, neueste Version v0.33.1 (1. August 2026).
@@ -47,7 +48,7 @@ Zur Installation können Sie der Docker-Installationsanleitung auf der offiziell
 - [GitHub-Repository →](https://github.com/karakeep-app/karakeep)
 - [Auf Türkisch lesen →](https://trescout.com/discover/karakeep/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-07 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-07 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/karakeep/

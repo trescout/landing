@@ -42,7 +42,7 @@ Porque o DNS é a base da Internet e bloqueá-lo pode impedir o funcionamento da
 
 - [MasterDnsVPN](https://trescout.com/pt/discover/masterdnsvpn/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/dns-tunneling/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/dns-tunneling/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/dns-tunneling/

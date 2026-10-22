@@ -2,16 +2,16 @@
 
 L'ensemble de données d'exercices (ensemble de données d'exercices) partagé par Hasaneyldrm propose 433 mouvements de fitness différents avec des noms, des groupes musculaires cibles, des équipements et des instructions visuelles. Cette ressource complète fournit une infrastructure de données structurée pour ceux qui développent des applications technologiques sportives.
 
-- ★ 21 796
+- ★ 22 899
 - HTML
 - GitHub Trending · 2026-07-01
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 21,796 → 22,899.
 - **13 septembre 2026:** Étoiles 20,717 → 21,796.
 - **24 août 2026:** Étoiles 19,692 → 20,717.
 - **15 août 2026:** Étoiles 18,515 → 19,692.
-- **2 août 2026:** Étoiles 7,552 → 18,515.
 
 ## Ce que ça vous apporte
 
@@ -26,6 +26,7 @@ Cet outil ne nécessite aucune installation. Après avoir téléchargé les fich
 ## Termes liés du glossaire
 
 - [API](https://trescout.com/fr/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui développent des applications dans le domaine des technologies sportives et aux chercheurs axés sur le fitness.
 
@@ -34,7 +35,7 @@ Cet outil ne nécessite aucune installation. Après avoir téléchargé les fich
 - [Dépôt GitHub →](https://github.com/hasaneyldrm/exercises-dataset)
 - [Lire en turc →](https://trescout.com/discover/exercises-dataset/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-01 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-01 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/exercises-dataset/

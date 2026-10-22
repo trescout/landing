@@ -33,6 +33,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a professional financial analysis assistant. Prepare a report to support your investment decisions using the stock market data, technical indicators and current news flows I share. In his analysis; Prominently highlight fundamental data, market trends, potential risks, and potential growth catalysts. Present the output in a clear, objective and visualized tabular format so that investors can take action quickly.
 
+Repository: https://github.com/ZhuLinsen/daily_stock_analysis. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Large Language Models](https://trescout.com/en/dictionary/large-language-models/)
@@ -46,7 +54,7 @@ You are a professional financial analysis assistant. Prepare a report to support
 - [GitHub repository →](https://github.com/ZhuLinsen/daily_stock_analysis)
 - [Read in Turkish →](https://trescout.com/discover/daily-stock-analysis/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-22: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-22: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/daily-stock-analysis/

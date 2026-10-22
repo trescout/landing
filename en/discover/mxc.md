@@ -2,12 +2,13 @@
 
 Developed by Microsoft, MXC is a policy-based, layered isolation and containment solution written in Rust language. It is designed to safely limit system resources and increase application security.
 
-- ★ 2,506
+- ★ 2,882
 - Rust
 - GitHub Trending · 2026-06-07
 
 ## Updates
 
+- **October 17, 2026:** Stars 2,506 → 2,882, latest release v1.0.1 (October 17, 2026).
 - **October 10, 2026:** Stars 1,398 → 2,506, latest release v1.0.0 (October 7, 2026).
 - **October 7, 2026:** Stars 641 → 1,398, latest release v1.0.0 (October 7, 2026).
 
@@ -45,6 +46,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run an untrusted code snippet in an isolated container using the MXC tool developed by Microsoft. According to the documentation in the project's GitHub repository, I need to prepare a JSON-based configuration file and use the binary appropriate for my platform. Can you create a sample JSON configuration file for me that will allow me to run a Python script with restricted file system and network access, and explain step by step how to run this configuration with wxc-exec.exe?
 
+Repository: https://github.com/microsoft/mxc. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Rust](https://trescout.com/en/dictionary/rust/)
@@ -58,7 +67,7 @@ I want to run an untrusted code snippet in an isolated container using the MXC t
 - [GitHub repository →](https://github.com/microsoft/mxc)
 - [Read in Turkish →](https://trescout.com/discover/mxc/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-07: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-07: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/mxc/

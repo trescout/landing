@@ -41,7 +41,7 @@ Anstatt jeden Dienst einzeln für die Außenwelt zu öffnen, sorgt die Verwaltun
 - [OpenWA](https://trescout.com/de/discover/openwa/)
 - [Grok2api](https://trescout.com/de/discover/grok2api/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/api-gateway/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/api-gateway/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/api-gateway/

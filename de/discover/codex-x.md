@@ -2,15 +2,15 @@
 
 Codex-X ist ein in Rust geschriebenes visuelles Desktop- und Befehlszeilenschnittstellen-Tool zur Verwaltung von OpenAI Codex-Modellen. Die Software zentralisiert die Entwicklererfahrung mit Funktionen wie API-Verwaltung, Sitzungssynchronisierung, Prompt-Injection und Skill-Management.
 
-- ★ 4.124
+- ★ 4.262
 - GitHub Trending · 2026-09-20
 
 ## Aktualisierungen
 
+- **20. Oktober 2026:** Sterne 4,233 → 4,262, neueste Version v0.3.28 (20. Oktober 2026).
+- **17. Oktober 2026:** Sterne 4,124 → 4,233, neueste Version v0.3.27 (16. Oktober 2026).
 - **9. Oktober 2026:** Sterne 4,006 → 4,124, neueste Version v0.3.26 (9. Oktober 2026).
 - **1. Oktober 2026:** Sterne 3,999 → 4,006, neueste Version v0.3.24 (1. Oktober 2026).
-- **30. September 2026:** Sterne 3,958 → 3,999, neueste Version v0.3.22 (30. September 2026).
-- **27. September 2026:** Sterne 3,816 → 3,958, neueste Version v0.3.21 (22. September 2026).
 
 ## Was es bringt
 
@@ -46,6 +46,16 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Prompt-Vorlagen und Anbietereinstellungen, die ich für meinen KI-Programmierassistenten erstellt habe, mit Codex-X in einer einzigen visuellen Oberfläche zusammenführen. Helfen Sie mir, die Anwendung in meiner lokalen Umgebung zu installieren, zu starten, meine API-Schlüssel zu konfigurieren und meinen Sitzungsverlauf zu synchronisieren.
 
+Repository: https://github.com/yynxxxxx/Codex-X. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Falls ein API-Schlüssel erforderlich ist, fordere mich nicht auf, ihn in den Chat zu schreiben. Zeig mir, wie ich ihn zur .env-Datei hinzufüge und stelle sicher, dass diese Datei nicht an Git übertragen wird.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Prompt Injection](https://trescout.com/de/dictionary/prompt-injection/)
@@ -63,7 +73,7 @@ Ich möchte die Prompt-Vorlagen und Anbietereinstellungen, die ich für meinen K
 - [GitHub-Repository →](https://github.com/yynxxxxx/Codex-X)
 - [Auf Türkisch lesen →](https://trescout.com/discover/codex-x/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-20 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-20 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/codex-x/

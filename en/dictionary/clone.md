@@ -74,7 +74,7 @@ Yes. Just run git pull inside the folder. If you have changes, you need to commi
 - [Hermes WebUI](https://trescout.com/en/discover/hermes-webui/)
 - [openGym](https://trescout.com/en/discover/opengym/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/clone/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/clone/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/clone/

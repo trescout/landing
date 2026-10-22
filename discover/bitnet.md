@@ -54,6 +54,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımda BitNet altyapısını kullanarak 1-bit yapay zekâ modelini çalıştırmak istiyorum. Öncelikle 'git clone --recursive https://github.com/microsoft/BitNet.git' komutuyla projeyi klonlayıp klasörüne girme, paket yöneticisi Conda ile Python 3.10 ortamı açıp gereksinimleri kurma adımlarında bana rehberlik et. Ardından açık kaynak model platformu Hugging Face üzerinden microsoft/BitNet-b1.58-2B-4T-gguf modelini indirip 'setup_env.py' ile hazırlama ve son olarak 'run_inference.py' betiğiyle sohbet modunu başlatma adımlarını kodlama bilmeyen birinin anlayacağı sadelikte, adım adım açıkla.
 
+Depo: https://github.com/microsoft/BitNet. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Güçlü ekran kartlarına ihtiyaç duymadan, kendi bilgisayar işlemcisinde hızlı ve hafif dil modelleri çalıştırmak isteyen kullanıcılar içindir.
 - **Lisans:** MIT
 
@@ -61,7 +69,7 @@ Bilgisayarımda BitNet altyapısını kullanarak 1-bit yapay zekâ modelini çal
 
 - [GitHub deposu →](https://github.com/microsoft/BitNet)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-10-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

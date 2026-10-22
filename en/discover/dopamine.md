@@ -2,16 +2,16 @@
 
 Dopamine is a semi-independent jailbreak tool developed for devices running iOS 15 through 16.6.1. It allows users to customize the device with administrative privileges, bypassing system restrictions.
 
-- ★ 6,898
+- ★ 6,984
 - C
 - GitHub Trending · 2026-08-11
 
 ## Updates
 
+- **October 20, 2026:** Stars 6,898 → 6,984, latest release 3.0.12 (October 20, 2026).
 - **October 13, 2026:** Stars 6,737 → 6,898, latest release 3.0.11 (October 12, 2026).
 - **September 27, 2026:** Stars 6,395 → 6,737, latest release 3.0.10 (September 23, 2026).
 - **August 23, 2026:** Stars 6,273 → 6,395, latest release 3.0.9 (August 22, 2026).
-- **August 15, 2026:** Stars 6,086 → 6,273, latest release 3.0.7 (August 15, 2026).
 
 ## What you get
 
@@ -25,6 +25,11 @@ To start using the Dopamine tool, you can visit the official website https://ell
 
 - [Official source →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
 
+## Related dictionary terms
+
+- [Jailbreak](https://trescout.com/en/dictionary/jailbreak/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** It is for users who want to have administrator rights by bypassing system restrictions on their iOS devices.
 - **License:** MIT
 
@@ -33,7 +38,7 @@ To start using the Dopamine tool, you can visit the official website https://ell
 - [GitHub repository →](https://github.com/opa334/Dopamine)
 - [Read in Turkish →](https://trescout.com/discover/dopamine/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-11: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-11: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/dopamine/

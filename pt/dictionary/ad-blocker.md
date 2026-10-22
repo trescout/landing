@@ -38,7 +38,7 @@ Bloqueia a maioria dos anúncios, mas alguns sites podem detectar bloqueadores d
 - [Browser State](https://trescout.com/pt/dictionary/browser-state/)
 - [User Experience](https://trescout.com/pt/dictionary/user-experience/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ad-blocker/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ad-blocker/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ad-blocker/

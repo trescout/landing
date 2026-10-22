@@ -2,16 +2,16 @@
 
 TencentCloud tarafından geliştirilen Octop, kendi sunucunuzda barındırabileceğiniz çok kullanıcılı ve çok ajanlı bir yapay zekâ asistanı. Python tabanlı bu sistem, farklı kullanıcıların aynı anda birden fazla yapay zekâ ajanıyla etkileşime girmesine olanak tanıyor.
 
-- ★ 9.446
+- ★ 10.066
 - Python
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 9.714 → 10.066, son sürüm v1.0.2 (18 Ekim 2026).
+- **17 Ekim 2026:** Yıldız 9.446 → 9.714, son sürüm v1.0.2b9 (17 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 8.878 → 9.446, son sürüm v1.0.2b8 (14 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 7.930 → 8.878, son sürüm v1.0.2b7 (12 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 6.829 → 7.930, son sürüm v1.0.2b6 (4 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 6.668 → 6.829, son sürüm v1.0.2b6 (4 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -41,6 +41,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Octop platformunda çok kullanıcılı ve çok ajanlı bir çalışma ortamı kurmak istiyorum. Kişisel asistanım, aile üyelerim veya küçük ekip arkadaşlarım için farklı uzmanlıklara sahip ajanlar tanımlayarak, bu ajanların yerel verilerim üzerinde güvenli bir şekilde çalışmasını ve web arayüzü veya mesajlaşma kanalları üzerinden benimle iş birliği yapmasını sağla. Ajanların MBTI kişilik özelliklerini yapılandır, RAG (Retrieval-Augmented Generation - belgelerden anlamlı bilgi getiren teknoloji) ile özel belgelerimden yanıt üretmelerini sağla ve görevlerimi otomatize et.
 
+Depo: https://github.com/TencentCloud/Octop. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi sunucusunda gizliliğe önem veren, çok sayıda yapay zekâ ajanını tek bir merkezden yönetmek isteyen bireyler ve küçük ekipler için uygundur.
 - **Lisans:** MIT
 
@@ -48,7 +56,7 @@ Octop platformunda çok kullanıcılı ve çok ajanlı bir çalışma ortamı ku
 
 - [GitHub deposu →](https://github.com/TencentCloud/Octop)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

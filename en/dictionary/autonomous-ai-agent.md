@@ -38,7 +38,7 @@ Yes, it works within the defined limits and authorities until it terminates the 
 - [Agentic AI](https://trescout.com/en/dictionary/agentic-ai/)
 - [Self-orchestration](https://trescout.com/en/dictionary/self-orchestration/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/autonomous-ai-agent/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/autonomous-ai-agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/autonomous-ai-agent/

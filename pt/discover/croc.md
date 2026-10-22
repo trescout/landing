@@ -2,16 +2,16 @@
 
 Croc é uma ferramenta que fornece transferência segura de arquivos e dados entre dois computadores usando criptografia ponta a ponta. Este software, desenvolvido com a linguagem de programação Go, utiliza um mecanismo de retransmissão temporária para facilitar o processo de transferência.
 
-- ★ 40.451
+- ★ 40.679
 - Go
 - GitHub Trending · 2026-07-22
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 40,451 → 40,679, versão mais recente v11.5.5 (19 de outubro de 2026).
 - **27 de setembro de 2026:** Estrelas 40,324 → 40,451, versão mais recente v11.5.4 (26 de setembro de 2026).
 - **14 de setembro de 2026:** Estrelas 40,287 → 40,324, versão mais recente v11.5.3 (13 de setembro de 2026).
 - **10 de setembro de 2026:** Estrelas 40,279 → 40,287, versão mais recente v11.5.2 (9 de setembro de 2026).
-- **9 de setembro de 2026:** Estrelas 40,262 → 40,279, versão mais recente v11.5.1 (8 de setembro de 2026).
 
 ## O que você ganha
 
@@ -53,6 +53,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero transferir arquivos com segurança entre dois computadores usando a ferramenta Croc. Como posso combinar a expressão de código fornecida a mim quando executo o comando 'croc send [file_name]' no lado do remetente com o comando 'croc [code_expression]' no lado do recebimento e inicio a transferência? Há alguma configuração especial à qual devo prestar atenção para garantir que a criptografia de ponta a ponta seja fornecida durante a transferência e que o processo seja seguro?
 
+Repositório: https://github.com/schollz/croc. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [End-to-End Encryption](https://trescout.com/pt/dictionary/end-to-end-encryption/)
@@ -67,7 +75,7 @@ Quero transferir arquivos com segurança entre dois computadores usando a ferram
 - [Repositório no GitHub →](https://github.com/schollz/croc)
 - [Ler em turco →](https://trescout.com/discover/croc/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-22: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-22: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/croc/

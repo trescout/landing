@@ -62,7 +62,7 @@ Sí. La escucha constante tiene un costo, se activa cuando es necesario.
 - [Speech-to-Text](https://trescout.com/es/dictionary/speech-to-text/)
 - [Local](https://trescout.com/es/dictionary/local/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/on-device-stt/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/on-device-stt/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/on-device-stt/

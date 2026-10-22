@@ -45,6 +45,7 @@ For installation and use, you need to visit the official documentation page. You
 
 - [Data Logger](https://trescout.com/en/dictionary/data-logger/)
 - [Localhost](https://trescout.com/en/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for vehicle owners who want to store and analyze their Tesla vehicle's data on their own server instead of relying on third-party applications.
 - **License:** AGPL-3.0
@@ -54,7 +55,7 @@ For installation and use, you need to visit the official documentation page. You
 - [GitHub repository →](https://github.com/teslamate-org/teslamate)
 - [Read in Turkish →](https://trescout.com/discover/teslamate/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/teslamate/

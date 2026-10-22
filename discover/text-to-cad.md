@@ -2,16 +2,16 @@
 
 Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için geliştirilen bir yetenek paketi (agent skills) koleksiyonudur. JavaScript tabanlı bu kütüphane, karmaşık mühendislik modellerinin doğal dil komutlarıyla oluşturulmasına olanak tanır.
 
-- ★ 20.527
+- ★ 22.115
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
 
-- **15 Ekim 2026:** Yıldız 19.291 → 20.527, son sürüm v0.7.21 (11 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 18.885 → 19.291, son sürüm v0.7.21 (11 Ekim 2026).
-- **10 Ekim 2026:** Yıldız 18.610 → 18.885, son sürüm v0.7.20 (10 Ekim 2026).
-- **9 Ekim 2026:** Yıldız 18.363 → 18.610, son sürüm v0.7.19 (9 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 21.845 → 22.115, son sürüm v0.7.26 (20 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 21.570 → 21.845, son sürüm v0.7.25 (20 Ekim 2026).
+- **19 Ekim 2026:** Yıldız 21.340 → 21.570, son sürüm v0.7.24 (18 Ekim 2026).
+- **18 Ekim 2026:** Yıldız 20.527 → 21.340, son sürüm v0.7.22 (18 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir mühendislik asistanısın. text-to-cad kütüphanesini kullanarak belirttiğim teknik gereksinimlere uygun 3D modeller, robotik yapı dosyaları veya üretim çizimleri oluştur. Tasarım taleplerimi STEP, DXF veya URDF gibi uygun formatlarda hazırla ve yerel önizleme araçlarını kullanarak doğrula.
 
+Depo: https://github.com/earthtojake/text-to-cad. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Donanım tasarımı, robotik geliştirme ve mühendislik süreçlerini yapay zekâ yardımıyla otomatikleştirmek isteyen teknik kullanıcılar içindir.
 - **Lisans:** MIT
 
@@ -40,7 +48,7 @@ Sen bir mühendislik asistanısın. text-to-cad kütüphanesini kullanarak belir
 
 - [GitHub deposu →](https://github.com/earthtojake/text-to-cad)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -42,7 +42,7 @@ Generalmente basado en LLM con capacidad de razonamiento avanzada.
 
 - [Hermes Agent](https://trescout.com/es/discover/hermes-agent/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/autonomous-agent/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/autonomous-agent/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/autonomous-agent/

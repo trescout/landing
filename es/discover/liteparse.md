@@ -34,6 +34,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale la herramienta de análisis de PDF LiteParse con 'pip install liteparse', luego extraiga el texto de un PDF con el comando 'lit parse document.pdf' o guárdelo como JSON estructurado con cuadros delimitadores con 'lit parse document.pdf --format json -o output.json'.
 
+Repositorio: https://github.com/run-llama/liteparse. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Output](https://trescout.com/es/dictionary/output/)
@@ -56,7 +64,7 @@ Instale la herramienta de análisis de PDF LiteParse con 'pip install liteparse'
 - [Repositorio en GitHub →](https://github.com/run-llama/liteparse)
 - [Leer en turco →](https://trescout.com/discover/liteparse/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-30: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-30: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/liteparse/

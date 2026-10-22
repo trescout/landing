@@ -39,7 +39,7 @@ Software such as DBeaver, pgAdmin, or MySQL Workbench falls into this category.
 
 - [DBX](https://trescout.com/en/discover/dbx/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/database-client/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/database-client/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/database-client/

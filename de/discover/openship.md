@@ -2,16 +2,16 @@
 
 OpenShip bietet eine Anwendungsverteilungsplattform, die Benutzer auf ihren eigenen Servern hosten können. Dieses mit der TypeScript-Sprache entwickelte Tool ermöglicht Self-Hosting-Prozesse als Alternative zu cloudbasierten Infrastrukturdiensten.
 
-- ★ 14.772
+- ★ 14.787
 - TypeScript
 - GitHub Trending · 2026-07-21
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 14,772 → 14,787, neueste Version v0.9.3 (17. Oktober 2026).
 - **16. Oktober 2026:** Sterne 14,714 → 14,772, neueste Version v0.9.2 (16. Oktober 2026).
 - **13. Oktober 2026:** Sterne 14,701 → 14,714, neueste Version v0.9.1 (13. Oktober 2026).
 - **12. Oktober 2026:** Sterne 14,584 → 14,701, neueste Version v0.9.0 (12. Oktober 2026).
-- **7. Oktober 2026:** Sterne 14,558 → 14,584, neueste Version v0.8.2 (6. Oktober 2026).
 
 ## Was es bringt
 
@@ -52,6 +52,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein Projekt mit Openship veröffentlichen. Reicht es im Projektverzeichnis aus, das Verzeichnis mit dem Befehl „openship init“ mit dem Projekt zu verbinden und dann den Befehl „openshipploy“ auszuführen? Können Sie Schritt für Schritt erklären, wie die Datenbank und die SSL-Konfiguration dabei automatisch verwaltet werden?
 
+Repository: https://github.com/oblien/openship. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Deployment Platform](https://trescout.com/de/dictionary/deployment-platform/)
@@ -69,7 +77,7 @@ Ich möchte ein Projekt mit Openship veröffentlichen. Reicht es im Projektverze
 - [GitHub-Repository →](https://github.com/oblien/openship)
 - [Auf Türkisch lesen →](https://trescout.com/discover/openship/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-21 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-21 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/openship/

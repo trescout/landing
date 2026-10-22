@@ -71,7 +71,7 @@ La startup maintient le cycle court et flexible, en ajoutant une couche d'approb
 - [AI Engineering](https://trescout.com/fr/dictionary/ai-engineering/)
 - [Engineering Skills](https://trescout.com/fr/dictionary/engineering-skills/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/product-development-cycle/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/product-development-cycle/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/product-development-cycle/

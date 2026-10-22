@@ -42,7 +42,7 @@ A precisão do modelo é determinada pela rapidez com que a equipe pode atualiz�
 
 - [Lobehub](https://trescout.com/pt/discover/lobehub/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-team-operations/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-team-operations/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-team-operations/

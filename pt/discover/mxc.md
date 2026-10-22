@@ -2,12 +2,13 @@
 
 Desenvolvido pela Microsoft, MXC é uma solução de isolamento e contenção em camadas baseada em políticas, escrita em linguagem Rust. Ele foi projetado para limitar com segurança os recursos do sistema e aumentar a segurança dos aplicativos.
 
-- ★ 2.506
+- ★ 2.882
 - Rust
 - GitHub Trending · 2026-06-07
 
 ## Atualizações
 
+- **17 de outubro de 2026:** Estrelas 2,506 → 2,882, versão mais recente v1.0.1 (17 de outubro de 2026).
 - **10 de outubro de 2026:** Estrelas 1,398 → 2,506, versão mais recente v1.0.0 (7 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 641 → 1,398, versão mais recente v1.0.0 (7 de outubro de 2026).
 
@@ -45,6 +46,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero executar um trecho de código não confiável em um contêiner isolado usando a ferramenta MXC desenvolvida pela Microsoft. De acordo com a documentação do repositório GitHub do projeto, preciso preparar um arquivo de configuração baseado em JSON e usar o binário apropriado para minha plataforma. Você pode criar um arquivo de configuração JSON de amostra para mim que me permitirá executar um script Python com sistema de arquivos e acesso à rede restritos e explicar passo a passo como executar essa configuração com wxc-exec.exe?
 
+Repositório: https://github.com/microsoft/mxc. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Rust](https://trescout.com/pt/dictionary/rust/)
@@ -58,7 +67,7 @@ Quero executar um trecho de código não confiável em um contêiner isolado usa
 - [Repositório no GitHub →](https://github.com/microsoft/mxc)
 - [Ler em turco →](https://trescout.com/discover/mxc/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-07: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-07: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/mxc/

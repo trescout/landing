@@ -2,16 +2,16 @@
 
 LLVM Projesi, modüler ve yeniden kullanılabilir derleyici (compiler) ve araç zinciri teknolojileri sunan bir altyapıdır. Yazılım geliştirme süreçlerinde kodun optimize edilmesini ve farklı donanım mimarilerine uygun hale getirilmesini sağlar.
 
-- ★ 40.957
+- ★ 41.137
 - LLVM
 - GitHub Trending · 2026-09-07
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 40.957 → 41.137, son sürüm llvmorg-23.1.4 (20 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 40.755 → 40.957, son sürüm llvmorg-23.1.3 (6 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 40.353 → 40.755, son sürüm llvmorg-23.1.2 (22 Eylül 2026).
 - **9 Eylül 2026:** Yıldız 40.286 → 40.353, son sürüm llvmorg-23.1.1 (8 Eylül 2026).
-- **7 Eylül 2026:** Yıldız 40.286 → 40.286, son sürüm llvmorg-23.1.0 (25 Ağustos 2026).
 
 ## Ne kazandırır?
 
@@ -31,11 +31,12 @@ Projenin kaynak koduna erişmek ve kurulum yapmak için resmî LLVM web sitesind
 
 - [GitHub deposu →](https://github.com/llvm/llvm-project)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Compiler](https://trescout.com/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/llvm-project/

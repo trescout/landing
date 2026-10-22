@@ -42,7 +42,7 @@ The accuracy of the model is determined by how quickly the team can update it.
 
 - [Lobehub](https://trescout.com/en/discover/lobehub/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-team-operations/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-team-operations/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-team-operations/

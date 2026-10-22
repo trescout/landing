@@ -1,76 +1,74 @@
-# Distributed Systems : Mythes, théorème CAP, consensus et transactions Saga
+# Qu'est-ce que Distributed ?
 
 *Développement · Dernière mise à jour : 19 septembre 2026*
 
-Un système distribué (ou système réparti) est une architecture informatique composée de multiples machines autonomes reliées par un réseau qui coordonnent leurs actions pour paraître unifiées aux utilisateurs.
+Dans le monde de l'informatique, le partage du matériel, des données et des processus de calcul est distribué entre de nombreux serveurs indépendants (nœuds) connectés les uns aux autres via le réseau, au lieu d'une seule machine centrale, et ce système sert l'utilisateur final comme s'il s'agissait d'un seul ordinateur entier.
 
 ## Étymologie et nature des systèmes distribués
 
-Le mot *distribué* provient du latin *distribuere* (répartir, diviser). Comme le résumait Leslie Lamport : *« Un système distribué est un système où la panne d'un ordinateur dont vous ignoriez jusqu'à l'existence peut rendre votre propre machine inutilisable. »* Contrairement aux mainframes centraux, ils troquent la simplicité contre une scalabilité horizontale infinie.
+Le mot "Distributed" se traduit en turc par "dağıtık" (distribué). L'un des pionniers de l'informatique, Leslie Lamport, a défini les systèmes distribués avec cette célèbre citation entrée dans l'histoire : "Un système distribué est un système dans lequel la panne d'un ordinateur dont vous ignorez même l'existence peut rendre votre propre ordinateur inutilisable."
 
-## Les 8 mythes de l'informatique distribuée (Deutsch)
+Dans les architectures centralisées (monolithiques), toutes les opérations se déroulent sur une seule mémoire principale et un seul processeur. Dans les systèmes distribués, des centaines de nœuds physiquement répartis dans des centres de données sur différents continents du monde servent un objectif commun en communiquant via des câbles réseau peu fiables.
 
-Définis chez Sun Microsystems, ces huit postulats erronés mènent à l'échec s'ils ne sont pas anticipés :
+## 8 erreurs de l'informatique distribuée
 
-1. Le réseau est fiable.
-2. La latence est nulle.
-3. La bande passante est infinie.
-4. Le réseau est sécurisé.
-5. La topologie ne change jamais.
-6. Il n'y a qu'un seul administrateur.
-7. Le coût de transport des données est nul.
-8. Le réseau est homogène.
+Dans les années 1990, les ingénieurs de Sun Microsystems, L. Peter Deutsch et James Gosling, ont répertorié les « 8 erreurs mortelles » commises par les développeurs de logiciels développant des systèmes distribués. Toutes les lignes de défense des architectures cloud et microservices modernes sont construites selon ces idées fausses :
 
-## Le théorème CAP et le modèle PACELC
+Le réseau est fiable : en réalité, des paquets se perdent, des lignes de fibre optique se coupent, des routeurs se bloquent.
+2. La latence est nulle : la vitesse de la lumière et le délai de commutation réseau entre deux machines sont toujours présents.
+3. La bande passante est infinie : à mesure que le volume de données augmente, les tuyaux du réseau se bouchent.
+4. Le réseau est sécurisé : toutes les communications distribuées passent par des lignes ouvertes et nécessitent une protection cryptographique.
+5. La topologie ne change pas : les serveurs démarrent et s'arrêtent en permanence, les adresses IP changent.
+6. Il n'y a qu'un seul administrateur système : de multiples équipes et fournisseurs de cloud sont impliqués.
+7. Le coût de transfert est nul : les coûts de sérialisation et de packaging CPU ne sont pas négligeables.
+8. Le réseau est homogène : Linux, Windows, ARM, x86 et différents protocoles coexistent au sein du système.
 
-Le **théorème CAP** d'Eric Brewer démontre qu'en cas de partition réseau, un système de données distribué ne peut garantir simultanément que deux de ces trois propriétés :
+## Théorème CAP et modèle PACELC
 
-- **Cohérence (C) :** Chaque lecture retourne la donnée la plus récente ou une erreur.
-- **Disponibilité (A) :** Chaque nœud opérationnel répond toujours sans garantie d'état à jour.
-- **Tolérance au partitionnement (P) :** Le système continue de fonctionner malgré les coupures réseau. Comme les coupures sont inévitables, il faut arbitrer entre CP (ZooKeeper) et AP (Cassandra).
+Le théorème CAP, formulé par Eric Brewer, définit les limites fondamentales de la gestion des données distribuées. En cas de partition réseau (Network Partition - P), le système doit choisir l'une des deux options suivantes :
 
-Le modèle **PACELC** affine l'analyse : *en cas de Partition (P), choisir entre Disponibilité (A) et Cohérence (C) ; Sinon (Else), choisir entre Latence (L) et Cohérence (C).*
+- CP (Cohérence + Tolérance au partitionnement) : Le système choisit la cohérence. Les nœuds dont les données ne sont pas à jour refusent de répondre ; la disponibilité est sacrifiée (par exemple, les transactions financières et bancaires).
+- AP (Disponibilité + Tolérance au partitionnement) : Le système privilégie la disponibilité. Les nœuds continuent de répondre, mais certains utilisateurs peuvent voir des données obsolètes datant de quelques secondes (par exemple, les fils d'actualité des réseaux sociaux).
 
-## Protocoles de consensus : Raft et Paxos
+Dans les systèmes modernes, le modèle PACELC de Daniel Abadi est utilisé : en cas de partition réseau (P), privilégie-t-on la disponibilité (A) ou la cohérence (C) ? Et lorsque le système fonctionne normalement (E), vise-t-on une faible latence (L) ou une cohérence immédiate (C) ?
 
-Pour s'accorder sur un état unique sur un réseau instable, les systèmes recourent à des algorithmes de consensus :
+## Protocoles de consensus : Raft et Paxos
 
-- **Paxos :** L'algorithme historique prouvé par Leslie Lamport, réputé pour sa grande complexité d'implémentation pratique.
-- **Raft :** Conçu pour être compréhensible par l'esprit humain, décomposant le consensus en élection de leader, réplication de logs et sécurité (utilisé dans etcd).
+Des algorithmes de consensus ont été développés pour que des serveurs indépendants, qui ne se font pas confiance et peuvent planter à tout moment, puissent se mettre d'accord sur une seule vérité :
 
-## Le problème du temps et les horloges logiques
+Paxos : Algorithme de consensus développé par Leslie Lamport, mathématiquement prouvé mais extrêmement complexe à mettre en œuvre en pratique.
+Raft : protocole de consensus conçu par Diego Ongaro et John Ousterhout pour résoudre la complexité de Paxos, pensé pour être intuitif et compréhensible par l'esprit humain. Il repose sur des machines à états gérant l'élection du leader (Leader Election), la réplication de journaux (Log Replication) et la sécurité (Safety) (il est au cœur de systèmes majeurs tels qu'etcd, Kubernetes et Consul).
+Tolérance aux fautes byzantines (BFT) : fondement des protocoles de blockchain qui assurent le consensus même dans des environnements où certains nœuds diffusent délibérément des informations erronées ou malveillantes.
 
-En l'absence d'horloge physique absolue commune, déterminer l'ordre chronologique des événements entre serveurs distants est un défi physique majeur :
+## Problème de temps et solutions dans les systèmes distribués
 
-- **Horloges logiques de Lamport et horloges vectorielles :** Compteurs séquentiels établissant la causalité (« arrivé-avant ») sans dépendre de l'heure matérielle.
-- **Google TrueTime :** Infrastructure associant horloges atomiques et récepteurs GPS pour encadrer l'incertitude temporelle à quelques millisecondes (utilisée dans Spanner).
+Dans un ordinateur centralisé, l’horloge matérielle représente un seul fait. Dans les systèmes distribués, les horloges des serveurs présentent une dérive d'horloge physique et NTP (Network Time Protocol) est insuffisant pour une précision à la milliseconde :
 
-## Gestion des données distribuées : le pattern Saga
+Horloges logiques de Lamport (Lamport Timestamps) : définissent l'ordre de survenance des événements plutôt que le temps physique.
+- Horloges vectorielles : détecte les conflits de données en déterminant quelles données sont la cause ou l'effet des autres.
+Google TrueTime : combinaison d'horloges atomiques et d'antennes GPS utilisée dans la base de données distribuée Google Spanner. En réduisant la marge d'incertitude à quelques millisecondes, elle permet des transactions ACID à l'échelle mondiale.
 
-Le protocole de validation à deux phases (2PC) bloque les ressources et ne passe pas à l'échelle. Les microservices utilisent le **pattern Saga** :
+## Gestion distribuée des données et des transactions : modèle Saga
 
-- Une succession de transactions locales coordonnées par orchestration (machine d'état) ou chorégraphie (événements pub/sub).
-- En cas d'échec d'une étape, le système déclenche des transactions de compensation rétroactives pour annuler proprement les opérations précédentes.
+Dans les systèmes monolithiques, les transactions de base de données (ACID) sont remplacées dans les microservices par l'approche du modèle Saga (Saga Pattern). Au lieu de verrouiller les étapes distribuées de longue durée avec des protocoles de validation en deux phases (2PC - Two Phase Commit), on utilise des architectures pilotées par les événements où chaque service effectue sa propre transaction locale et où des transactions compensatoires (Compensating Transactions) sont déclenchées en cas d'erreur.
 
-*Un système centralisé est comme un chef cuisinier travaillant seul dans son camion ; un système distribué est comme une chaîne mondiale de restaurants où des centaines de cuisines doivent coordonner leurs menus malgré les coupures téléphoniques et les retards de livraison.*
+## Foire aux questions
 
-## Questions fréquentes
+**Que signifie Distribué (sens turc) ?**
 
-**Qu'est-ce qu'un système distribué en informatique ?**
+Dans la terminologie informatique, cela signifie « distribué ». Il s'agit du partage de la puissance de calcul, de l'espace mémoire ou de la base de données entre de nombreuses machines indépendantes communiquant sur un réseau, plutôt que sur un seul serveur.
 
-C'est un ensemble de serveurs indépendants communiquant par réseau pour réaliser une tâche commune de manière transparente pour l'utilisateur.
+**Que signifie le théorème CAP en pratique ?**
 
-**Pourquoi le théorème CAP impose-t-il un choix ?**
+Cela signifie que lorsqu'il y a une interruption ou un retard (split) dans la connexion réseau, le système doit soit garantir les données les plus à jour et conserver certaines demandes (cohérence), soit répondre immédiatement à chaque demande au prix de fournir des données obsolètes (disponibilité).
 
-Parce qu'en cas de coupure de liaison entre serveurs, on doit soit bloquer les écritures pour préserver la vérité, soit les accepter au risque d'avoir des données divergentes.
+**Pourquoi l'algorithme de consensus Raft est-il utilisé dans les systèmes distribués ?**
 
-**Quelle est la différence entre Raft et Paxos ?**
+Même si quelques serveurs du réseau tombent en panne, la majorité restante est utilisée pour garantir que les nœuds (Quorum) élisent un nouveau leader parmi eux et que les journaux de base de données sont synchronisés sans perte sur l'ensemble du cluster.
 
-Tous deux résolvent le consensus distribué, mais Raft a été conçu pour être plus simple à comprendre et à maintenir en production.
+**Pourquoi le modèle Saga est-il préféré à l'engagement en deux phases (2PC) ?**
 
-**Comment le pattern Saga remplace-t-il les transactions globales ?**
-
-En découpant le flux en opérations locales indépendantes associées à des étapes de compensation rétroactives en cas d'erreur.
+2PC (Two-Phase Commit) verrouille les ressources de base de données sur les nœuds distribués et verrouille l'ensemble du système lorsqu'une machine ne répond plus. Le modèle Saga, quant à lui, maintient la haute disponibilité du système en utilisant des événements asynchrones et des étapes de compensation.
 
 ## Termes liés
 
@@ -84,7 +82,7 @@ En découpant le flux en opérations locales indépendantes associées à des é
 - [Elasticsearch](https://trescout.com/fr/discover/elasticsearch/)
 - [Cassandra](https://trescout.com/fr/discover/cassandra/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/distributed/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/distributed/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/distributed/

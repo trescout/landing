@@ -2,16 +2,16 @@
 
 Home Assistant, yerel kontrol ve gizliliği önceliklendiren açık kaynaklı bir ev otomasyonu (home automation) platformudur. Python diliyle geliştirilen bu sistem, kullanıcıların akıllı cihazlarını merkezi bir ağ üzerinden yönetmelerine olanak tanır.
 
-- ★ 91.369
+- ★ 91.569
 - Python
 - GitHub Trending · 2026-07-12
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 91.369 → 91.569, son sürüm 2026.10.2 (16 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 91.313 → 91.369, son sürüm 2026.10.1 (10 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 91.171 → 91.313, son sürüm 2026.10.0 (7 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 90.760 → 91.171, son sürüm 2026.9.4 (27 Eylül 2026).
-- **19 Eylül 2026:** Yıldız 90.390 → 90.760, son sürüm 2026.9.3 (18 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -56,12 +56,13 @@ Kuruluma başlamak için home-assistant.io adresini ziyaret edin. Sitedeki kurul
 
 - [GitHub deposu →](https://github.com/home-assistant/core)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Home Automation](https://trescout.com/dictionary/home-automation/)
 - [Container](https://trescout.com/dictionary/container/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/core/

@@ -2,16 +2,16 @@
 
 OpenDataLoader PDF es un analizador de PDF de código abierto que pone datos a disposición de modelos de inteligencia artificial. Este proyecto basado en Java acelera los procesos de procesamiento de datos al automatizar la accesibilidad de los documentos PDF.
 
-- ★ 29.669
+- ★ 29.752
 - Java
 - GitHub Trending · 2026-06-04
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 29,669 → 29,752, última versión v2.5.14 (21 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 29,447 → 29,669, última versión v2.5.13 (13 de octubre de 2026).
 - **1 de octubre de 2026:** Estrellas 29,384 → 29,447, última versión v2.5.12 (1 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 29,312 → 29,384, última versión v2.5.11 (22 de septiembre de 2026).
-- **18 de septiembre de 2026:** Estrellas 29,278 → 29,312, última versión v2.5.10 (18 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -54,6 +54,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero analizar los archivos PDF que tengo usando la herramienta OpenDataLoader PDF y convertirlos a formatos de datos estructurados (Markdown o JSON) que pueda usar en procesos RAG o LLM. ¿Pueden ayudarme a crear un script para ejecutar en mi computadora local usando el SDK de Python que extraiga tablas, encabezados y texto de mis documentos en el orden de lectura correcto? También explique paso a paso cómo habilitar el modo híbrido para páginas complejas y personalizar la salida.
 
+Repositorio: https://github.com/opendataloader-project/opendataloader-pdf. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [PDF Parser](https://trescout.com/es/dictionary/pdf-parser/)
@@ -71,7 +79,7 @@ Quiero analizar los archivos PDF que tengo usando la herramienta OpenDataLoader 
 - [Repositorio en GitHub →](https://github.com/opendataloader-project/opendataloader-pdf)
 - [Leer en turco →](https://trescout.com/discover/opendataloader-pdf/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-04: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-04: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/opendataloader-pdf/

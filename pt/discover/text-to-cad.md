@@ -2,16 +2,16 @@
 
 As ferramentas de texto para CAD são um conjunto de habilidades de agente desenvolvidas para automatizar processos de robótica e design de hardware. Esta biblioteca baseada em JavaScript permite a criação de modelos de engenharia complexos com comandos de linguagem natural.
 
-- ★ 20.527
+- ★ 22.115
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Atualizações
 
-- **15 de outubro de 2026:** Estrelas 19,291 → 20,527, versão mais recente v0.7.21 (11 de outubro de 2026).
-- **12 de outubro de 2026:** Estrelas 18,885 → 19,291, versão mais recente v0.7.21 (11 de outubro de 2026).
-- **10 de outubro de 2026:** Estrelas 18,610 → 18,885, versão mais recente v0.7.20 (10 de outubro de 2026).
-- **9 de outubro de 2026:** Estrelas 18,363 → 18,610, versão mais recente v0.7.19 (9 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 21,845 → 22,115, versão mais recente v0.7.26 (20 de outubro de 2026).
+- **20 de outubro de 2026:** Estrelas 21,570 → 21,845, versão mais recente v0.7.25 (20 de outubro de 2026).
+- **19 de outubro de 2026:** Estrelas 21,340 → 21,570, versão mais recente v0.7.24 (18 de outubro de 2026).
+- **18 de outubro de 2026:** Estrelas 20,527 → 21,340, versão mais recente v0.7.22 (18 de outubro de 2026).
 
 ## O que você ganha
 
@@ -33,6 +33,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um assistente de engenharia. Crie modelos 3D, arquivos de estrutura robótica ou desenhos de produção de acordo com os requisitos técnicos que eu especificar usando a biblioteca text-to-cad. Preparar minhas solicitações de projeto em formatos apropriados, como STEP, DXF ou URDF, e validá-las usando ferramentas de visualização locais.
 
+Repositório: https://github.com/earthtojake/text-to-cad. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Text-to-CAD](https://trescout.com/pt/dictionary/text-to-cad/)
@@ -50,7 +58,7 @@ Você é um assistente de engenharia. Crie modelos 3D, arquivos de estrutura rob
 - [Repositório no GitHub →](https://github.com/earthtojake/text-to-cad)
 - [Ler em turco →](https://trescout.com/discover/text-to-cad/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-22: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-22: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/text-to-cad/

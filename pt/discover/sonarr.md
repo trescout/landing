@@ -2,12 +2,13 @@
 
 Sonarr é um gravador de vídeo pessoal inteligente (PVR) de código aberto e gerenciador de automação de mídia desenvolvido para usuários Usenet (grupos de notícias) e BitTorrent. Plataforma desenvolvida com infraestrutura C# e .NET; acompanha episódios recém-lançados, comunica-se com clientes de download, renomeia e transfere arquivos para bibliotecas Plex e Jellyfin regularmente.
 
-- ★ 16.274
+- ★ 17.274
 - C#
 - GitHub Trending · 2026-09-12
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 16,274 → 17,274, versão mais recente v4.0.20.3014 (16 de setembro de 2026).
 - **17 de setembro de 2026:** Estrelas 15,798 → 16,274, versão mais recente v4.0.20.3014 (16 de setembro de 2026).
 - **12 de setembro de 2026:** Estrelas 15,796 → 15,798, versão mais recente v4.0.19.2979 (26 de junho de 2026).
 
@@ -73,6 +74,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero executar os serviços Sonarr, qBittorrent, Prowlarr e Jellyfin juntos no Docker em meu servidor doméstico. Você pode explicar passo a passo o arquivo docker-compose.yml completo contendo uma estrutura de montagem de volume único e as primeiras configurações que preciso fazer no painel da web do Sonarr para que os hardlinks funcionem sem problemas?
 
+Repositório: https://github.com/Sonarr/Sonarr. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - O Sonarr baixa o arquivo diretamente? Não. Sonarr não é um cliente de download; é um gerente. Ele pesquisa, envia o arquivo torrent/NZB para clientes como qBittorrent ou SABnzbd e move o arquivo baixado para a pasta de arquivo.
@@ -86,8 +95,8 @@ Quero executar os serviços Sonarr, qBittorrent, Prowlarr e Jellyfin juntos no D
 - [HDR](https://trescout.com/pt/dictionary/hdr/)
 - [VPN](https://trescout.com/pt/dictionary/vpn/)
 - [Pipeline](https://trescout.com/pt/dictionary/pipeline/)
-- [API](https://trescout.com/pt/dictionary/api/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [API](https://trescout.com/pt/dictionary/api/)
 
 - **Para quem é:** Proprietários de servidores domésticos (Homelab), entusiastas de mídia e aqueles que desejam gerenciar seus arquivos de séries sem esforço.
 - **Licença:** GPL-3.0 (Açık kaynak lisansı)
@@ -99,7 +108,7 @@ Quero executar os serviços Sonarr, qBittorrent, Prowlarr e Jellyfin juntos no D
 - [Repositório no GitHub →](https://github.com/Sonarr/Sonarr)
 - [Ler em turco →](https://trescout.com/discover/sonarr/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-12: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-12: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/sonarr/

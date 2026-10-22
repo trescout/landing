@@ -1,0 +1,406 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-20",
+  "capturedAt": "2026-10-20T09:26:41.424Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "summary": "headroomlabs-ai/headroom, büyük dil modellerine (LLM) gönderilen araç çıktılarını, günlükleri ve RAG parçalarını sıkıştırarak token kullanımını azaltan bir Python kütüphanesidir. Kodlama ajanları ve JSON verileri için token tasarrufu sağlayan bu araç, aynı zamanda bir vekil sunucu (proxy) ve MCP sunucusu olarak çalışabilir.",
+          "meta": "Python · ★ 76.464 · +310 bugün",
+          "snapshot": {
+            "sourceId": "headroomlabs-ai/headroom",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 76464,
+              "engagementCount": 310,
+              "rank": 7,
+              "extra": {
+                "starsToday": 310
+              }
+            },
+            "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
+          }
+        },
+        {
+          "title": "withmarbleapp/os-taxonomy",
+          "url": "https://github.com/withmarbleapp/os-taxonomy",
+          "summary": "withmarbleapp/os-taxonomy, JavaScript diliyle geliştirilmiş ve işletim sistemi sınıflandırmalarını düzenleyen bir kütüphanedir. Yazılım geliştiricilerin farklı işletim sistemi verilerini standart bir yapıda tanımlamasına olanak sağlar.",
+          "meta": "JavaScript · ★ 6.389 · +284 bugün",
+          "snapshot": {
+            "sourceId": "withmarbleapp/os-taxonomy",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 6389,
+              "engagementCount": 284,
+              "rank": 8,
+              "extra": {
+                "starsToday": 284
+              }
+            }
+          }
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Finansal piyasaların dilini anlamak üzere geliştirilen temel model (foundation model) Kronos, bu alandaki verileri işlemek için tasarlanmıştır. Finansal piyasa analizlerinde kullanılmak üzere Python diliyle oluşturulmuştur.",
+          "meta": "Python · ★ 41.956 · +363 bugün",
+          "snapshot": {
+            "sourceId": "shiyu-coder/Kronos",
+            "capturedAt": "2026-10-20T09:26:42.819Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 41956,
+              "engagementCount": 363,
+              "rank": 12,
+              "extra": {
+                "starsToday": 363
+              }
+            },
+            "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+          },
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "It's still ok to enjoy programming",
+          "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+          "summary": "Yazılım geliştirme süreçlerinde artan karmaşıklığa ve endüstriyel baskılara rağmen kod yazmanın temel bir zevk kaynağı olarak korunabileceği vurgulanıyor. Programlamanın sadece bir meslek değil, aynı zamanda yaratıcı bir uğraş olduğu hatırlatılıyor.",
+          "meta": "593 oy · 517 yorum",
+          "snapshot": {
+            "sourceId": "50134472",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 593,
+              "engagementCount": 517,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50134472",
+                  "popularity": 593,
+                  "engagementCount": 517
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-17T19:53:20Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50134472"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50134472",
+              "popularity": 593,
+              "engagementCount": 517
+            }
+          ]
+        },
+        {
+          "title": "Wine ported to OpenBSD",
+          "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+          "summary": "Windows uygulamalarını Unix benzeri sistemlerde çalıştırmaya yarayan uyumluluk katmanı Wine, artık OpenBSD işletim sistemine taşındı. Bu gelişme, OpenBSD kullanıcılarının Windows tabanlı yazılımları kendi sistemlerinde çalıştırmasına olanak tanıyor.",
+          "meta": "563 oy · 192 yorum",
+          "snapshot": {
+            "sourceId": "50152307",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 563,
+              "engagementCount": 192,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50152307",
+                  "popularity": 563,
+                  "engagementCount": 192
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-19T13:35:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50152307"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50152307",
+              "popularity": 563,
+              "engagementCount": 192
+            }
+          ]
+        },
+        {
+          "title": "I built a drone with only one motor [video]",
+          "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+          "summary": "Tek bir motor kullanarak uçabilen bir insansız hava aracı (drone) geliştirildi. Söz konusu proje, geleneksel çok motorlu tasarımlara alternatif bir mekanik yapı sunuyor.",
+          "meta": "538 oy · 110 yorum",
+          "snapshot": {
+            "sourceId": "50150089",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 538,
+              "engagementCount": 110,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50150089",
+                  "popularity": 538,
+                  "engagementCount": 110
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-19T09:05:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50150089"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50150089",
+              "popularity": 538,
+              "engagementCount": 110
+            }
+          ]
+        },
+        {
+          "title": "MiniMax M3.1 Flash",
+          "url": "https://www.minimax.io/blog/minimax-m31f",
+          "summary": "MiniMax M3.1 Flash, yüksek hız ve verimlilik odaklı geliştirilen yeni bir yapay zekâ modeli. Şirketin sunduğu bu çözüm, büyük dil modelleri (large language models) arasında hızlı yanıt süreleri sağlamayı amaçlıyor.",
+          "meta": "464 oy · 198 yorum",
+          "snapshot": {
+            "sourceId": "50154540",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 464,
+              "engagementCount": 198,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50154540",
+                  "popularity": 464,
+                  "engagementCount": 198
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-19T16:39:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50154540"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50154540",
+              "popularity": 464,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "Starcraft: Ashfall",
+          "url": "https://starcraft-shooter-2026.pages.dev/",
+          "summary": "Starcraft: Ashfall, popüler strateji oyunu Starcraft evreninde geçen bir nişancı oyunu (shooter) projesidir. Kullanıcıların tarayıcı üzerinden erişebildiği bu çalışma, serinin dünyasını farklı bir oyun türüyle deneyimlemeyi amaçlıyor.",
+          "meta": "454 oy · 141 yorum",
+          "snapshot": {
+            "sourceId": "50147233",
+            "capturedAt": "2026-10-20T09:26:41.799Z",
+            "metadata": {
+              "popularity": 454,
+              "engagementCount": 141,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50147233",
+                  "popularity": 454,
+                  "engagementCount": 141
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-19T01:18:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50147233"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50147233",
+              "popularity": 454,
+              "engagementCount": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "RealityBench: Simulated Environments to Evaluate a Vision Language Model's Ability to Document Human Physical Work",
+          "url": "https://huggingface.co/papers/2610.14397",
+          "summary": "Hugging Face tarafından paylaşılan RealityBench, görsel dil modellerinin (vision language models) insan fiziksel çalışmalarını belgeleme becerilerini ölçmek için tasarlanmış simüle edilmiş ortamlar sunuyor. Bu çalışma, fiziksel iş verilerinin kısıtlılığı ve değişkenliği nedeniyle zorluk yaşayan yapay zekâ ajanlarının, çalışanların faaliyetlerini anlama yeteneğini değerlendirmeyi amaçlıyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.14397",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.14397",
+                "publishedAt": "2026-10-09T00:00:00.000Z"
+              }
+            },
+            "description": "Augmenting worker capabilities in the physical world through guidance has been a decades-long goal for AI agents. One key supporting capability is to understand what the worker is doing, seeing through the human's camera or smart glasses, and assist them in documentation. Despite advances in vision language models, their capabilities in these settings remain uncertain and are challenging to benchmark because most physical work data is proprietary, and involves too much variability to study in a "
+          }
+        },
+        {
+          "title": "RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models",
+          "url": "https://huggingface.co/papers/2610.26663",
+          "summary": "RoboValue, robotik değer modellerinin (robotic value models) hem simülasyon hem de gerçek dünya ortamlarındaki performansını ölçmek için geliştirilmiş detaylı bir kıyaslama (benchmark) sistemidir. Söz konusu sistem, görsel gözlemler ve talimatlar üzerinden görev yürütme başarısını değerlendiren modelleri dört farklı yetenek boyutuyla analiz eder.",
+          "meta": "3 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.26663",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26663",
+                "publishedAt": "2026-10-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/RoboValue-Benchmark/RoboValue",
+                "githubStars": 13
+              }
+            },
+            "description": "Robotic value models assess task execution from visual observations and instructions, providing feedback for policy learning and execution monitoring. However, existing evaluations cover only selected aspects of execution understanding, leaving the reliability of value feedback insufficiently tested. We introduce RoboValue, a fine-grained sim-and-real benchmark for unified evaluation of robotic value models. Its framework evaluates four complementary capability dimensions through shared interfac"
+          }
+        },
+        {
+          "title": "Harnessing Textual Refusal Directions for Multimodal Safety",
+          "url": "https://huggingface.co/papers/2606.31876",
+          "summary": "Hugging Face üzerinde yayımlanan makale, büyük dil modellerinin (LLM) temelinden elde edilen metinsel ret yönelimlerinin görüntü ve video gibi farklı kiplerde (modality) güvenlik sağlamak için kullanılıp kullanılamayacağını inceliyor. Çalışma, çok modlu büyük dil modellerinde (MLLM) güvenlik uyumunu sağlamak için gereken verilerin toplanmasındaki zorlukları ve etik sorunları aşmayı hedefliyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2606.31876",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2606.31876",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/Moreno98/MARS",
+                "githubStars": 0
+              }
+            },
+            "description": "Safety in Multimodal Large Language Models (MLLMs) depends on unsafe multimodal data for post-training alignment or activation steering. However, such data is hard to collect, must be gathered anew for each modality, and its collection and distribution raise ethical and legal concerns. In this work, we relax this constraint and investigate whether textual refusal directions, extracted directly from the LLM backbone, generalize across modalities (i.e., image, video). Preliminary findings confirm "
+          }
+        },
+        {
+          "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On",
+          "url": "https://huggingface.co/papers/2610.25060",
+          "summary": "Hugging Face tarafından paylaşılan makale, güvenlik kıyaslamalarının (safety benchmarks) nesnel bir özellikten ziyade modelin eğitildiği politika tanımlarına dayandığını savunuyor. Çalışma, aynı istem setinin farklı tanımlarla etiketlenmesinin yapay zekâ modellerindeki güvenlik denetleyicilerinin (guardrail classifiers) sonuçlarını nasıl değiştirdiğini inceliyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.25060",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.25060",
+                "publishedAt": "2026-10-18T00:00:00.000Z"
+              }
+            },
+            "description": "A guardrail classifier is reported as if unsafe were a property of text. It is not: it is a property of a policy, and the policy enters the model through its labels. We exploit an accident of an industrial deployment in which the same ~53k prompts were labelled twice, under two operational definitions (\"is this a request for harmful content?\" and \"would a moderator block this?\"), and used to train ten guardrail arms sharing architecture, codebase and optimiser family, at two model scales. First,"
+          }
+        },
+        {
+          "title": "A Conditional No-Hair Theorem for Transformers: How Language Models Forget Their Prompt",
+          "url": "https://huggingface.co/papers/2610.24133",
+          "summary": "Hugging Face tarafından paylaşılan makale, öz yinelemeli (autoregressive) transformer modellerinin üretilen her yeni belirteçle (token) birlikte istemi (prompt) unutma sürecini inceliyor. Araştırma, gizli durumlar (hidden states) arasındaki farkın bir güç yasası (power law) ile azaldığını ve eğitilmiş modellerin istemleri hızla unuttuğunu ortaya koyuyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.24133",
+            "capturedAt": "2026-10-20T09:26:41.570Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.24133",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShuyangenFrance/no-hair-transformers",
+                "githubStars": 0
+              }
+            },
+            "description": "We ask how much an autoregressive transformer retains of its prompt after generating t tokens. Consider two different prompts followed by the same continuation text, so that any difference in their hidden states comes from the prompt alone, and we find that the distance between their hidden states decays approximately as a power law t^{-α}, where α=1 is the rate at which a fixed prompt's share of uniform attention shrinks and smaller values mean longer memory. Trained models forget fast (αapprox"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın kendi eğitim verisi dışında güncel veya özel kaynaklardan bilgi çekerek daha doğru cevaplar üretmesini sağlayan yöntem."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Kullanıcı ile internet veya başka bir sunucu arasında köprü görevi gören, trafiği yöneten aracı sunucu."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Çok geniş veri setleriyle eğitilmiş, birçok farklı görevi yerine getirebilen kapsamlı yapay zekâ modeli."
+    },
+    {
+      "term": "drone",
+      "explanation": "Uzaktan kumanda edilen veya kendi kendine uçabilen insansız hava aracı."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "shooter",
+      "explanation": "Oyuncunun karakteri yöneterek hedeflere ateş ettiği bir oyun türü."
+    }
+  ]
+}

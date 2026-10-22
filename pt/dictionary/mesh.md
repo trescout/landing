@@ -68,7 +68,7 @@ Os kits mesh residenciais geralmente são configurados em minutos com um aplicat
 - [Bitchat Android](https://trescout.com/pt/discover/bitchat-android/)
 - [Spirula Studio](https://trescout.com/pt/discover/spirula-studio/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/mesh/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/mesh/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/mesh/

@@ -46,7 +46,7 @@ When tasks become very complex, smaller specialized models combine to make fewer
 - [AI Berkshire](https://trescout.com/en/discover/ai-berkshire/)
 - [Openrig](https://trescout.com/en/discover/openrig/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multi-agent/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multi-agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/multi-agent/

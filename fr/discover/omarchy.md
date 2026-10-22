@@ -31,6 +31,7 @@ Pour commencer à utiliser Omarchy, vous pouvez visiter omarchy.org et consulter
 - [Script](https://trescout.com/fr/dictionary/script/)
 - [Shell](https://trescout.com/fr/dictionary/shell/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux utilisateurs qui souhaitent utiliser le système d'exploitation Linux dans une structure standard et moderne.
 - **Licence:** MIT
@@ -40,7 +41,7 @@ Pour commencer à utiliser Omarchy, vous pouvez visiter omarchy.org et consulter
 - [Dépôt GitHub →](https://github.com/basecamp/omarchy)
 - [Lire en turc →](https://trescout.com/discover/omarchy/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-17 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-17 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/omarchy/

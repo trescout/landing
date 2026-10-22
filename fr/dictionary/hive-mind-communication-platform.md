@@ -41,7 +41,7 @@ Cela dépend de la structure de la plateforme, mais il est généralement essent
 
 - [Buzz](https://trescout.com/fr/discover/buzz/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/hive-mind-communication-platform/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/hive-mind-communication-platform/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/hive-mind-communication-platform/

@@ -72,7 +72,7 @@ Die API liefert Daten an die Maschine, das Web-UI bietet eine Schnittstelle für
 
 - [Pi Web](https://trescout.com/de/discover/pi-web/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/web-ui/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/web-ui/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/web-ui/

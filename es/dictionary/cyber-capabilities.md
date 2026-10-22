@@ -38,7 +38,7 @@ A través de formación continua, análisis de amenazas actualizados y el uso de
 - [Vulnerability Scanning](https://trescout.com/es/dictionary/vulnerability-scanning/)
 - [Penetration Testing](https://trescout.com/es/dictionary/penetration-testing/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/cyber-capabilities/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/cyber-capabilities/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cyber-capabilities/

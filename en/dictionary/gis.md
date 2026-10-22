@@ -40,7 +40,7 @@ No, the map is just the output. GIS is the entire process of collecting, storing
 
 - [GeoLibre](https://trescout.com/en/discover/geolibre/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/gis/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/gis/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/gis/

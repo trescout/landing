@@ -34,7 +34,7 @@ Porque o processamento em lote usa o processador do computador com muito mais ef
 - [Machine Learning](https://trescout.com/pt/dictionary/machine-learning/)
 - [GPU](https://trescout.com/pt/dictionary/gpu/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/array-operations/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/array-operations/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/array-operations/

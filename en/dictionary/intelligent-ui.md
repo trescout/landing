@@ -34,7 +34,7 @@ Yes, it offers a personalized experience based on each individual's usage habits
 - [User Interface](https://trescout.com/en/dictionary/user-interface/)
 - [AI Companion](https://trescout.com/en/dictionary/ai-companion/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/intelligent-ui/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/intelligent-ui/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/intelligent-ui/

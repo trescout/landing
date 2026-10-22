@@ -23,6 +23,7 @@ Pour commencer ce programme, visitez simplement le site Web officiel d'OSSU CS o
 ## Termes liés du glossaire
 
 - [Computer Science](https://trescout.com/fr/dictionary/computer-science/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient à toute personne ayant la discipline de l’auto-apprentissage et souhaitant apprendre gratuitement les bases de l’informatique avec une approche académique.
 - **Licence:** MIT
@@ -32,7 +33,7 @@ Pour commencer ce programme, visitez simplement le site Web officiel d'OSSU CS o
 - [Dépôt GitHub →](https://github.com/ossu/computer-science)
 - [Lire en turc →](https://trescout.com/discover/computer-science/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-17 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-17 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/computer-science/

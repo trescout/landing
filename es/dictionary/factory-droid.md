@@ -35,7 +35,7 @@ Generalmente, asumen trabajos peligrosos, agotadores y repetitivos que a los hum
 - [Physical AI](https://trescout.com/es/dictionary/physical-ai/)
 - [Operating System for Robotics](https://trescout.com/es/dictionary/operating-system-for-robotics/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/factory-droid/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/factory-droid/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/factory-droid/

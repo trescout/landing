@@ -37,7 +37,7 @@ El dispositivo receptor se da cuenta de que faltan piezas y le pide al remitente
 
 - [Zapret Discord Youtube](https://trescout.com/es/discover/zapret-discord-youtube/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/packet-fragmentation/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/packet-fragmentation/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/packet-fragmentation/

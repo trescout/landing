@@ -37,7 +37,7 @@ Sim, graças a algoritmos de filtragem avançados, ele pode suprimir sons de fun
 - [Whisper](https://trescout.com/pt/dictionary/whisper/)
 - [Transcription](https://trescout.com/pt/dictionary/transcription/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/automatic-speech-recognition/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/automatic-speech-recognition/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/automatic-speech-recognition/

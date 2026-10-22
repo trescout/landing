@@ -38,7 +38,7 @@ Le relais empêche la perte de connexion lorsque la distance est trop grande ou 
 
 - [Croc](https://trescout.com/fr/discover/croc/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/relay/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/relay/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/relay/

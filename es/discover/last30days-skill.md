@@ -2,16 +2,16 @@
 
 Last30days-skill ofrece una habilidad de inteligencia artificial (habilidad de agente de IA) que sintetiza datos actuales investigando en plataformas como Reddit, X, YouTube, Hacker News y Polymarket. Esta herramienta basada en Python combina información de diferentes fuentes para crear resúmenes verificables para los usuarios.
 
-- ★ 63.987
+- ★ 64.923
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 63,987 → 64,923, última versión v3.28.1 (20 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 63,877 → 63,987, última versión v3.28.0 (11 de octubre de 2026).
 - **10 de octubre de 2026:** Estrellas 63,734 → 63,877, última versión v3.27.2 (9 de octubre de 2026).
 - **8 de octubre de 2026:** Estrellas 63,292 → 63,734, última versión v3.27.1 (8 de octubre de 2026).
-- **1 de octubre de 2026:** Estrellas 62,319 → 63,292, última versión v3.26.0 (1 de octubre de 2026).
 
 ## Qué aporta
 
@@ -33,6 +33,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un agente de inteligencia artificial. Utilice la herramienta de habilidad de los últimos 30 días para escanear datos de Reddit, X, YouTube, Hacker News y Polymarket sobre [BUSCAR TEMA O PERSONA] durante los últimos 30 días. Sintetizar interacciones, datos en tiempo real y conocimientos de la comunidad de estas fuentes para brindarme un resumen conciso, concreto y verificable.
 
+Repositorio: https://github.com/mvanhorn/last30days-skill. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [AI Agent Skill](https://trescout.com/es/dictionary/ai-agent-skill/)
@@ -49,7 +57,7 @@ Eres un agente de inteligencia artificial. Utilice la herramienta de habilidad d
 - [Repositorio en GitHub →](https://github.com/mvanhorn/last30days-skill)
 - [Leer en turco →](https://trescout.com/discover/last30days-skill/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/last30days-skill/

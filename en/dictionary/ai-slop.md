@@ -33,7 +33,7 @@ If the content is very general, contains unreasonable errors, is repetitive, and
 - [Generative AI](https://trescout.com/en/dictionary/generative-ai/)
 - [Hallucination](https://trescout.com/en/dictionary/hallucination/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-slop/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-slop/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-slop/

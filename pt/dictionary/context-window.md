@@ -44,7 +44,7 @@ Sim, mas pode aumentar o custo da transação e o tempo de resposta.
 - [Context Mode](https://trescout.com/pt/discover/context-mode/)
 - [Omlx](https://trescout.com/pt/discover/omlx/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/context-window/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/context-window/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/context-window/

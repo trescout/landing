@@ -48,7 +48,7 @@ It is called this name because it is mathematically a network structure consisti
 - [Codebase Memory MCP](https://trescout.com/en/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/en/discover/cognee/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/knowledge-graph/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/knowledge-graph/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/knowledge-graph/

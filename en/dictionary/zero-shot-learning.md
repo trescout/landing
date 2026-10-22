@@ -39,7 +39,7 @@ No, there is a higher risk of hallucinating things that are beyond the model's k
 - [Hallucination](https://trescout.com/en/dictionary/hallucination/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/zero-shot-learning/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/zero-shot-learning/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/zero-shot-learning/

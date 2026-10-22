@@ -2,16 +2,16 @@
 
 Apple tarafından geliştirilen container, Mac üzerinde hafif sanal makineler (virtual machines) kullanarak Linux kapsayıcıları (containers) oluşturmaya ve çalıştırmaya olanak tanıyor. Swift diliyle yazılan araç, Apple silikon (Apple silicon) mimarisi için optimize edilmiş bir performans sunuyor.
 
-- ★ 50.374
+- ★ 50.816
 - Swift
 - GitHub Trending · 2026-06-11
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 50.374 → 50.816, son sürüm 1.6.0 (20 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 49.793 → 50.374, son sürüm 1.5.0 (29 Eylül 2026).
 - **9 Eylül 2026:** Yıldız 49.541 → 49.793, son sürüm 1.4.1 (9 Eylül 2026).
 - **31 Ağustos 2026:** Yıldız 49.440 → 49.541, son sürüm 1.3.1 (29 Ağustos 2026).
-- **27 Ağustos 2026:** Yıldız 48.745 → 49.440, son sürüm 1.3.0 (24 Ağustos 2026).
 
 ## Ne kazandırır?
 
@@ -41,6 +41,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Apple silikon işlemcili Mac bilgisayarımda container aracını kullanarak OCI uyumlu Linux kapsayıcılarını nasıl yönetebilirim? Sistemin düzgün çalıştığından emin olmak için container system start komutunu kullandıktan sonra, bir kapsayıcı imajını çekip çalıştırmak için hangi temel adımları izlemem gerektiğini açıklar mısın?
 
+Depo: https://github.com/apple/container. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Apple silikon işlemcili Mac bilgisayarlarında Linux tabanlı kapsayıcıları yerel olarak çalıştırmak isteyen geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -48,7 +56,7 @@ Apple silikon işlemcili Mac bilgisayarımda container aracını kullanarak OCI 
 
 - [GitHub deposu →](https://github.com/apple/container)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

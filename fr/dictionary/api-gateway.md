@@ -41,7 +41,7 @@ Au lieu d’ouvrir chaque service individuellement au monde extérieur, sa gesti
 - [OpenWA](https://trescout.com/fr/discover/openwa/)
 - [Grok2api](https://trescout.com/fr/discover/grok2api/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/api-gateway/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/api-gateway/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/api-gateway/

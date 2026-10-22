@@ -2,16 +2,16 @@
 
 OpenShip, kullanıcıların kendi sunucularında barındırabildiği bir uygulama dağıtım platformu (deployment platform) sunuyor. TypeScript diliyle geliştirilen bu araç, bulut tabanlı altyapı hizmetlerine alternatif olarak kendi kendine barındırma (self-hosted) süreçlerini kolaylaştırıyor.
 
-- ★ 14.772
+- ★ 14.787
 - TypeScript
 - GitHub Trending · 2026-07-21
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 14.772 → 14.787, son sürüm v0.9.3 (17 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 14.714 → 14.772, son sürüm v0.9.2 (16 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 14.701 → 14.714, son sürüm v0.9.1 (13 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 14.584 → 14.701, son sürüm v0.9.0 (12 Ekim 2026).
-- **7 Ekim 2026:** Yıldız 14.558 → 14.584, son sürüm v0.8.2 (6 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -52,6 +52,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Openship kullanarak bir projeyi yayına almak istiyorum. Proje dizinindeyken openship init komutu ile dizini projeye bağlamam ve ardından openship deploy komutunu çalıştırmam yeterli mi? Bu süreçte veritabanı ve SSL yapılandırması otomatik olarak nasıl yönetiliyor, adım adım açıklar mısın?
 
+Depo: https://github.com/oblien/openship. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi sunucusunda uygulama barındırmak isteyen, karmaşık yapılandırma dosyalarıyla uğraşmadan hızlıca dağıtım yapmak isteyen yazılımcılar içindir.
 - **Lisans:** Apache-2.0
 
@@ -59,7 +67,7 @@ Openship kullanarak bir projeyi yayına almak istiyorum. Proje dizinindeyken ope
 
 - [GitHub deposu →](https://github.com/oblien/openship)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -26,6 +26,7 @@ Puede visitar el sitio web oficial de la herramienta en rust-lang.org y consulta
 ## Términos relacionados del glosario
 
 - [Rust](https://trescout.com/es/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está dirigido a usuarios que desean desarrollar sistemas de alto rendimiento y libres de errores preservando la seguridad de la memoria.
 - **Licencia:** Apache-2.0
@@ -35,7 +36,7 @@ Puede visitar el sitio web oficial de la herramienta en rust-lang.org y consulta
 - [Repositorio en GitHub →](https://github.com/rust-lang/rust)
 - [Leer en turco →](https://trescout.com/discover/rust/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/rust/

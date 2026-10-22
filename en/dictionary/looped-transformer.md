@@ -38,7 +38,7 @@ For some complex tasks, having each layer specialized yields better results.
 - [Quantization](https://trescout.com/en/dictionary/quantization/)
 - [SLM](https://trescout.com/en/dictionary/slm/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/looped-transformer/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/looped-transformer/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/looped-transformer/

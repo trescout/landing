@@ -67,10 +67,10 @@ Der beste Ansatz besteht darin, die Zellausgaben zu löschen (Alle Ausgaben lös
 - [Claude Cookbooks](https://trescout.com/de/discover/claude-cookbooks/)
 - [Airllm](https://trescout.com/de/discover/airllm/)
 - [Machine Learning for Trading](https://trescout.com/de/discover/machine-learning-for-trading/)
-- [Cosmos](https://trescout.com/de/discover/cosmos/)
 - [Train LLM from Scratch](https://trescout.com/de/discover/train-llm-from-scratch/)
+- [Cosmos](https://trescout.com/de/discover/cosmos/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/jupyter-notebooks/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/jupyter-notebooks/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/jupyter-notebooks/

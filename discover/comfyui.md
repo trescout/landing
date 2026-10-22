@@ -2,16 +2,16 @@
 
 ComfyUI, yayılma modelleri (diffusion models) için düğüm tabanlı bir arayüz sunan modüler bir görsel oluşturma aracıdır. Kullanıcıların karmaşık görüntü işleme süreçlerini görsel bir akış şemasıyla tasarlamasına ve bu süreçleri API üzerinden yönetmesine olanak tanır.
 
-- ★ 137.809
+- ★ 139.075
 - Python
 - GitHub Trending · 2026-08-10
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 137.809 → 139.075, son sürüm v0.42.1 (19 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 137.415 → 137.809, son sürüm v0.41.0 (15 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 136.279 → 137.415, son sürüm v0.40.0 (13 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 135.523 → 136.279, son sürüm v0.39.0 (5 Ekim 2026).
-- **29 Eylül 2026:** Yıldız 135.118 → 135.523, son sürüm v0.38.0 (29 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -34,6 +34,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Görsel üretim sürecim için düğüm tabanlı bir iş akışı oluşturmak istiyorum. Lütfen Stable Diffusion veya Flux gibi modelleri kullanarak profesyonel kalitede bir görüntü elde etmemi sağlayacak, giriş düğümünden çıktıya kadar olan mantıksal bağlantıları içeren modüler bir yapı tasarla. İhtiyacım olan temel düğümleri, model yükleme aşamalarını ve parametre optimizasyonlarını adım adım açıkla.
 
+Depo: https://github.com/Comfy-Org/ComfyUI. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Görsel üretim süreçlerinde tam kontrol ve modüler bir çalışma ortamı arayan profesyonel içerik üreticileri için uygundur.
 - **Lisans:** GPL-3.0
 
@@ -41,7 +49,7 @@ Görsel üretim sürecim için düğüm tabanlı bir iş akışı oluşturmak is
 
 - [GitHub deposu →](https://github.com/Comfy-Org/ComfyUI)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

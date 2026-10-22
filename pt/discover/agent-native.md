@@ -2,16 +2,16 @@
 
 Desenvolvido pela BuilderIO, agent-native é uma estrutura TypeScript focada na criação de aplicativos nativos para agentes de inteligência artificial. Ele permite que os desenvolvedores integrem fluxos de trabalho baseados em agentes diretamente na arquitetura do aplicativo.
 
-- ★ 7.370
+- ★ 7.471
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Atualizações
 
-- **16 de outubro de 2026:** Estrelas 7,259 → 7,370, versão mais recente v0.1.282 (15 de outubro de 2026).
-- **15 de outubro de 2026:** Estrelas 7,155 → 7,259, versão mais recente v0.1.281 (14 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 7,130 → 7,155, versão mais recente v0.1.280 (13 de outubro de 2026).
-- **12 de outubro de 2026:** Estrelas 7,121 → 7,130, versão mais recente v0.1.279 (12 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 7,470 → 7,471, versão mais recente @agent-native/creative-context@0.8.49 (21 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 7,455 → 7,470, versão mais recente v0.1.286 (20 de outubro de 2026).
+- **20 de outubro de 2026:** Estrelas 7,402 → 7,455, versão mais recente v0.1.284 (19 de outubro de 2026).
+- **17 de outubro de 2026:** Estrelas 7,370 → 7,402, versão mais recente v0.1.283 (16 de outubro de 2026).
 
 ## O que você ganha
 
@@ -42,6 +42,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero definir uma ação para meu aplicativo usando a estrutura Agent-Native. Usando a função defineAction, ajude-me a criar uma estrutura que processará os dados recebidos no banco de dados e será acessível tanto à interface do usuário quanto ao agente de inteligência artificial.
 
+Repositório: https://github.com/BuilderIO/agent-native. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Agent-native Applications](https://trescout.com/pt/dictionary/agent-native-applications/)
@@ -58,7 +66,7 @@ Quero definir uma ação para meu aplicativo usando a estrutura Agent-Native. Us
 - [Repositório no GitHub →](https://github.com/BuilderIO/agent-native)
 - [Ler em turco →](https://trescout.com/discover/agent-native/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-20: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-20: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/agent-native/

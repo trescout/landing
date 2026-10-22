@@ -42,7 +42,7 @@ Auch wenn es auf den ersten Blick so aussieht, als ob es langsamer wird, spart e
 - [Everything Claude Code](https://trescout.com/de/discover/everything-claude-code/)
 - [Babysitter](https://trescout.com/de/discover/babysitter/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/tdd/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/tdd/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tdd/

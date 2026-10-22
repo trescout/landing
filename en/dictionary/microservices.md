@@ -38,7 +38,7 @@ No, it can create unnecessary complexity for small projects.
 - [Cloud Native](https://trescout.com/en/dictionary/cloud-native/)
 - [Service Mesh](https://trescout.com/en/dictionary/service-mesh/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/microservices/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/microservices/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/microservices/

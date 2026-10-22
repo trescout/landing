@@ -38,7 +38,7 @@ Computers do not know the direct meaning of words, they can only process numbers
 
 - [FxEmbed](https://trescout.com/en/discover/fxembed/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/embed/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/embed/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/embed/

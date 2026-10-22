@@ -67,10 +67,10 @@ The best approach is to clear the cell outputs (Clear All Outputs) before sendin
 - [Claude Cookbooks](https://trescout.com/en/discover/claude-cookbooks/)
 - [Airllm](https://trescout.com/en/discover/airllm/)
 - [Machine Learning for Trading](https://trescout.com/en/discover/machine-learning-for-trading/)
-- [Cosmos](https://trescout.com/en/discover/cosmos/)
 - [Train LLM from Scratch](https://trescout.com/en/discover/train-llm-from-scratch/)
+- [Cosmos](https://trescout.com/en/discover/cosmos/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/jupyter-notebooks/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/jupyter-notebooks/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/jupyter-notebooks/

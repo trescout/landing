@@ -1,0 +1,938 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-17",
+  "capturedAt": "2026-10-17T08:34:34.709Z",
+  "editorial": "Bugünün teknoloji gündeminde yapay zekâ modellerinin yetenek setlerini genişleten bilimsel ajanlar (scientific agents) ve temsil öğrenimi (representation learning) üzerine yoğun bir odaklanma var. Google'ın sunduğu yeni gömme (embedding) modelleri ve Claude üzerindeki kriptografik analizler, geliştiricilerin sistem mimarilerini optimize etme arayışını net bir şekilde ortaya koyuyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "Anthropic tarafından yönetilen claude-plugins-official, yüksek kaliteli Claude Code eklentilerini içeren resmi bir dizindir. Python diliyle geliştirilen bu depo, kullanıcıların yapay zekâ destekli kodlama araçlarını genişletmelerine olanak tanır.",
+          "meta": "Python · ★ 40.972 · +1.552 bugün",
+          "snapshot": {
+            "sourceId": "anthropics/claude-plugins-official",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 40972,
+              "engagementCount": 1552,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1552
+              }
+            },
+            "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "K-Dense-AI/scientific-agent-skills, yapay zekâ ajanlarını bilimsel araştırmalar yapabilen birer bilim insanına dönüştüren yetenek kütüphanesidir. Biyoloji, kimya ve tıp gibi alanlarda 177 doğrulanmış yetenek ve 100'den fazla veritabanı sunarak kod düzenleyici Cursor, kodlama asistanı Claude Code ve diğer yapay zekâ araçlarıyla uyumlu çalışır.",
+          "meta": "Python · ★ 51.791 · +1.158 bugün",
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 51791,
+              "engagementCount": 1158,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1158
+              }
+            },
+            "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "affaan-m/ECC, yapay zekâ kodlama araçları (Claude Code, Codex, Opencode, Cursor gibi) için yetenekler, bellek ve güvenlik odaklı bir performans iyileştirme sistemi sunuyor. JavaScript diliyle geliştirilen bu altyapı, agentik iş akışlarını araştırma öncelikli bir yaklaşımla optimize etmeyi hedefliyor.",
+          "meta": "JavaScript · ★ 281.790 · +1.057 bugün",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 281790,
+              "engagementCount": 1057,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1057
+              }
+            },
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything, yazılım araçlarını yapay zekâ ajanları ile uyumlu hale getirmeyi amaçlayan bir komut satırı arayüzü (CLI) projesidir. Tüm yazılımların ajan tabanlı (agent-native) çalışabilmesi için standart bir altyapı sunar.",
+          "meta": "Python · ★ 53.680 · +281 bugün",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 53680,
+              "engagementCount": 281,
+              "rank": 4,
+              "extra": {
+                "starsToday": 281
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode, yapay zekâ kodlama ajanları için bağlam penceresini (context window) optimize eden bir araçtır. Araç çıktılarını sınırlandırarak bellek kullanımını azaltan proje, Model Context Protocol (MCP) üzerinden 17 farklı platforma yönlendirme desteği sunar.",
+          "meta": "TypeScript · ★ 30.354 · +449 bugün",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 30354,
+              "engagementCount": 449,
+              "rank": 5,
+              "extra": {
+                "starsToday": 449
+              }
+            },
+            "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "TypeScript ile geliştirilen ruflo, otonom iş akışlarını koordine etmek ve çok oyunculu yapay zekâ sürüleri (swarms) oluşturmak için tasarlanmış bir ajan altyapısıdır. Sistem; uyarlanabilir bellek, kendi kendine öğrenme yeteneği ve verilerin güncel kaynaklardan çekilmesini sağlayan RAG (retrieval-augmented generation) entegrasyonu gibi özellikler sunar.",
+          "meta": "TypeScript · ★ 75.763 · +672 bugün",
+          "snapshot": {
+            "sourceId": "ruvnet/ruflo",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 75763,
+              "engagementCount": 672,
+              "rank": 6,
+              "extra": {
+                "starsToday": 672
+              }
+            },
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "android/skills",
+          "url": "https://github.com/android/skills",
+          "summary": "Android ekibi tarafından geliştirilen android/skills, Kotlin diliyle yazılmış ve uygulama geliştirme süreçlerinde kullanılan yetenekleri (skills) içeren bir kütüphane. Yazılım geliştiricilerin projelerinde standart işlevleri uygulamasına yardımcı olan açık kaynaklı bir araç seti sunuyor.",
+          "meta": "Kotlin · ★ 8.182 · +36 bugün",
+          "snapshot": {
+            "sourceId": "android/skills",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Kotlin",
+              "popularity": 8182,
+              "engagementCount": 36,
+              "rank": 7,
+              "extra": {
+                "starsToday": 36
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers, yapay zekâ ajanları için geliştirilen yetenek çerçevesi (agentic skills framework) ve yazılım geliştirme metodolojisidir. Proje, ajan tabanlı sistemlerin kurgulanması ve iş akışlarının yönetilmesi için yapılandırılmış bir yaklaşım sunar.",
+          "meta": "Shell · ★ 300.878 · +973 bugün",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 300878,
+              "engagementCount": 973,
+              "rank": 8,
+              "extra": {
+                "starsToday": 973
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor, kod düzenleme aracı Cursor için geliştirilen eklentilerin teknik standartlarını ve resmi eklentileri barındıran bir depo sunuyor. TypeScript diliyle hazırlanan bu kaynak, geliştiricilerin platforma özel eklenti (plugin) geliştirmeleri için gerekli kuralları ve örnekleri içeriyor.",
+          "meta": "TypeScript · ★ 12.111 · +278 bugün",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12111,
+              "engagementCount": 278,
+              "rank": 9,
+              "extra": {
+                "starsToday": 278
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio, ses klonlama, ses tasarımı ve video dublaj gibi işlemleri tamamen yerel olarak gerçekleştiren açık kaynaklı bir ses işleme platformu. Sesli kitap oluşturma ve 646 dilde transkripsiyon gibi özellikleriyle ses teknolojileri sunan ElevenLabs servisine bir alternatif oluşturuyor.",
+          "meta": "Python · ★ 71.860 · +2.301 bugün",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 71860,
+              "engagementCount": 2301,
+              "rank": 10,
+              "extra": {
+                "starsToday": 2301
+              }
+            },
+            "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "MadsLorentzen/ai-job-search, yerel bilgisayarınızda çalışan ve Claude Code üzerinde geliştirilmiş bir iş arama çerçevesi (framework). İlanları değerlendirme, öz geçmişleri kişiselleştirme, ön yazı yazma ve mülakat hazırlığı yapma süreçlerini yapay zekâ yardımıyla otomatikleştiriyor.",
+          "meta": "Python · ★ 48.952 · +898 bugün",
+          "snapshot": {
+            "sourceId": "MadsLorentzen/ai-job-search",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 48952,
+              "engagementCount": 898,
+              "rank": 11,
+              "extra": {
+                "starsToday": 898
+              }
+            },
+            "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+          }
+        },
+        {
+          "title": "hmjz100/LinkSwift",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "summary": "LinkSwift, JavaScript tabanlı bir altyapı kullanarak çeşitli bulut depolama servislerinden doğrudan dosya indirme bağlantıları elde etmeye yarayan bir araçtır. Yazılım; Baidu Netdisk, Alibaba Cloud Drive, China Mobile Cloud ve Quark Drive gibi sekiz farklı popüler bulut platformunu destekler.",
+          "meta": "JavaScript · ★ 24.106 · +538 bugün",
+          "snapshot": {
+            "sourceId": "hmjz100/LinkSwift",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 24106,
+              "engagementCount": 538,
+              "rank": 12,
+              "extra": {
+                "starsToday": 538
+              }
+            },
+            "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
+          }
+        },
+        {
+          "title": "xerj-org/xerj",
+          "url": "https://github.com/xerj-org/xerj",
+          "summary": "XERJ, yapay zekâ ajanlarının kod, belge ve günlük dosyaları gibi verileri daha az belirteç (token) kullanarak taramasını sağlayan bir indeksleme aracıdır. Elasticsearch ile uyumlu çalışan bu sistem, verileri getirme destekli üretim (RAG) ve güvenlik denetimleri gibi süreçlerde daha verimli bir veri erişimi sunar.",
+          "meta": "Rust · ★ 7.224 · +1.648 bugün",
+          "snapshot": {
+            "sourceId": "xerj-org/xerj",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 7224,
+              "engagementCount": 1648,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1648
+              }
+            },
+            "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
+          },
+          "streakDays": 2
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tesla Roadster",
+          "url": "https://www.tesla.com/roadster",
+          "summary": "Tesla Roadster, elektrikli araç üreticisi Tesla tarafından geliştirilen yüksek performanslı bir spor otomobil modelidir. Araç, markanın elektrikli ulaşım teknolojilerini hız ve tasarım odaklı bir platformda sunmayı amaçlıyor.",
+          "meta": "1.403 oy · 2.452 yorum",
+          "snapshot": {
+            "sourceId": "50112657",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 1403,
+              "engagementCount": 2452,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50112657",
+                  "popularity": 1403,
+                  "engagementCount": 2452
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-16T01:32:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50112657"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qghttps:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50112657",
+              "popularity": 1403,
+              "engagementCount": 2452
+            }
+          ]
+        },
+        {
+          "title": "Claude reveals ECDSA curve origins",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "summary": "Anthropic, kriptografik standartlarda kullanılan ECDSA eğrilerinin kökenlerini ve oluşturulma süreçlerini detaylandıran bir araştırma yayımladı. Bu çalışma, söz konusu eğrilerin rastgele seçilmediğini ve belirli tohum değerleri (seeds) üzerinden nasıl türetildiğini açıklıyor.",
+          "meta": "852 oy · 317 yorum",
+          "snapshot": {
+            "sourceId": "50122800",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 852,
+              "engagementCount": 317,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50122800",
+                  "popularity": 852,
+                  "engagementCount": 317
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-16T18:55:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50122800"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50122800",
+              "popularity": 852,
+              "engagementCount": 317
+            }
+          ]
+        },
+        {
+          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+          "summary": "Amerika Birleşik Devletleri'ndeki çalışma saatlerinin yüzde 90'ı, mevcut yapay zekâ kıyaslama testlerinin (AI benchmarks) kapsamı dışında kalan görevlerden oluşuyor. Mercor tarafından yayımlanan araştırma, yapay zekâ performans ölçütlerinin gerçek iş gücü ihtiyaçlarını yansıtmakta yetersiz kaldığını ortaya koyuyor.",
+          "meta": "491 oy · 413 yorum",
+          "snapshot": {
+            "sourceId": "50121179",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 491,
+              "engagementCount": 413,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50121179",
+                  "popularity": 491,
+                  "engagementCount": 413
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-16T17:08:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50121179"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50121179",
+              "popularity": 491,
+              "engagementCount": 413
+            }
+          ]
+        },
+        {
+          "title": "How the Claude Code team does code review",
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+          "summary": "Anthropic bünyesindeki Claude Code ekibi, yazılım geliştirme süreçlerinde kod inceleme (code review) aşamasını yönetmek için geliştirdiği yöntemleri paylaşıyor. Ekip, üretken yapay zekâ (generative AI) araçlarını kullanarak kod kalitesini artırmayı ve inceleme süreçlerini hızlandırmayı hedefliyor.",
+          "meta": "332 oy · 308 yorum",
+          "snapshot": {
+            "sourceId": "50122951",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 332,
+              "engagementCount": 308,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50122951",
+                  "popularity": 332,
+                  "engagementCount": 308
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-16T19:04:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50122951"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50122951",
+              "popularity": 332,
+              "engagementCount": 308
+            }
+          ]
+        },
+        {
+          "title": "I love software rendering",
+          "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+          "summary": "Yazılım tabanlı görüntü işleme (software rendering) yöntemlerine duyulan ilgi, modern donanım hızlandırma teknikleri yerine işlemci gücüne dayalı grafik oluşturmanın temel prensiplerini yeniden gündeme getiriyor. Bu yaklaşım, grafiklerin nasıl işlendiğine dair teknik süreçleri anlamak isteyenler için alternatif bir perspektif sunuyor.",
+          "meta": "318 oy · 202 yorum",
+          "snapshot": {
+            "sourceId": "50117746",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 318,
+              "engagementCount": 202,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50117746",
+                  "popularity": 318,
+                  "engagementCount": 202
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-16T12:52:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50117746"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50117746",
+              "popularity": 318,
+              "engagementCount": 202
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Google tarafından geliştirilen embeddinggemma-2, metinleri sayısal vektörlere dönüştüren bir öznitelik çıkarımı (feature-extraction) modelidir. Hugging Face üzerinde barındırılan bu model, verileri yapay zekâ uygulamalarının işleyebileceği bir formata getirmek için kullanılır.",
+          "meta": "♥ 2.534 · 151.258 indirme",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-17T08:34:34.831Z",
+            "metadata": {
+              "popularity": 2534,
+              "engagementCount": 151258,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 922,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "feature-extraction model"
+          },
+          "streakDays": 11
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "Hugging Face üzerinde yer alan jialinyyzz/humanizer, metin üretimi (text-generation) gerçekleştiren bir yapay zekâ modelidir. Bu model, kullanıcıların metin oluşturma süreçlerinde ihtiyaç duydukları dil işleme görevlerini yerine getirmek üzere tasarlanmıştır.",
+          "meta": "♥ 1.847 · 85.612 indirme",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-17T08:34:34.831Z",
+            "metadata": {
+              "popularity": 1847,
+              "engagementCount": 85612,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 822,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            },
+            "description": "text-generation model"
+          },
+          "streakDays": 8
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+          "summary": "Hugging Face üzerinde paylaşılan openbmb/MiniCPM-V-4.7-35B-A3B, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir yapay zekâ modelidir. Bu model, çok modlu (multimodal) veri işleme yetenekleriyle görüntü tabanlı metin üretimi süreçlerinde kullanılmaktadır.",
+          "meta": "♥ 861 · 17.553 indirme",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM-V-4.7-35B-A3B",
+            "capturedAt": "2026-10-17T08:34:34.831Z",
+            "metadata": {
+              "popularity": 861,
+              "engagementCount": 17553,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 697,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minicpmv4_7",
+                  "image-text-to-text",
+                  "minicpm-v",
+                  "multimodal",
+                  "On-Device Model",
+                  "lightweight",
+                  "moe",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "fishaudio/drama-3",
+          "url": "https://huggingface.co/fishaudio/drama-3",
+          "summary": "Hugging Face üzerinde paylaşılan fishaudio/drama-3, metni konuşmaya dönüştüren bir metinden sese çevirme (text-to-speech) modelidir. Bu model, yazılı içerikleri doğal seslere dönüştürmek amacıyla geliştirilmiştir.",
+          "meta": "♥ 571 · 6.158 indirme",
+          "snapshot": {
+            "sourceId": "fishaudio/drama-3",
+            "capturedAt": "2026-10-17T08:34:34.831Z",
+            "metadata": {
+              "popularity": 571,
+              "engagementCount": 6158,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 551,
+                "pipelineTag": "text-to-speech",
+                "tags": [
+                  "safetensors",
+                  "fish_omni",
+                  "fish-audio",
+                  "text-to-speech",
+                  "multi-speaker",
+                  "audio-editing",
+                  "emotional-speech-generation",
+                  "zh",
+                  "en",
+                  "ja",
+                  "ko",
+                  "es",
+                  "pt",
+                  "ar",
+                  "ru",
+                  "fr",
+                  "de",
+                  "sv",
+                  "it",
+                  "tr",
+                  "no",
+                  "nl",
+                  "cy",
+                  "eu",
+                  "ca",
+                  "da",
+                  "gl",
+                  "ta",
+                  "hu",
+                  "fi",
+                  "pl",
+                  "et",
+                  "hi",
+                  "la",
+                  "ur",
+                  "th",
+                  "vi",
+                  "jw",
+                  "bn",
+                  "yo",
+                  "sl",
+                  "cs",
+                  "sw",
+                  "nn",
+                  "he",
+                  "ms",
+                  "uk",
+                  "id",
+                  "kk",
+                  "bg",
+                  "lv",
+                  "my",
+                  "tl",
+                  "sk",
+                  "ne",
+                  "fa",
+                  "af",
+                  "el",
+                  "bo",
+                  "hr",
+                  "ro",
+                  "sn",
+                  "mi",
+                  "yi",
+                  "am",
+                  "be",
+                  "km",
+                  "is",
+                  "az",
+                  "sd",
+                  "br",
+                  "sq",
+                  "ps",
+                  "mn",
+                  "ht",
+                  "ml",
+                  "sr",
+                  "sa",
+                  "te",
+                  "ka",
+                  "bs",
+                  "pa",
+                  "lt",
+                  "kn",
+                  "si",
+                  "hy",
+                  "mr",
+                  "as",
+                  "gu",
+                  "fo",
+                  "arxiv:2610.18010",
+                  "license:other",
+                  "bsgemm-moe",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-speech model"
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Lightricks tarafından geliştirilen LTX-2.5, görüntülerden video oluşturma yeteneğine sahip bir yapay zekâ modelidir (image-to-video model). Hugging Face platformunda paylaşılan bu araç, statik görselleri hareketli içeriklere dönüştürmek için tasarlanmıştır.",
+          "meta": "♥ 8.120 · 1.920.611 indirme",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-10-17T08:34:34.831Z",
+            "metadata": {
+              "popularity": 8120,
+              "engagementCount": 1920611,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 455,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+          "url": "https://huggingface.co/papers/2610.21185",
+          "summary": "Mine, Sample, Render (MSR), üretken yapay zekâ (generative AI) modellerinin çeşitlilik sağlama konusundaki eksikliklerini gidermek için geliştirilen bir test zamanı (test-time) yaklaşımıdır. Yöntem, gerçek verilerden elde edilen istatistikleri kullanarak örnekleme sürecini dışsallaştıran ve daha çeşitli çıktılar üretmeyi hedefleyen bir iş akışı sunar.",
+          "meta": "5 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.21185",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21185",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach that externalizes the diversity into an explicit, corpus-derived sampling procedure. Our pipeline (i) mines an interpretable categorical schema from a corpus of real artifacts and supplies statistics for sampling; (ii) samples attribute configurations from the corpus-derived statistics; (iii) uses "
+          }
+        },
+        {
+          "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+          "url": "https://huggingface.co/papers/2610.21261",
+          "summary": "Hugging Face tarafından paylaşılan makale, seyrek otomatik kodlayıcıların (sparse autoencoders) model aktivasyonlarını temsil etme biçimini ve bu özelliklerin davranışsal etkilerinin toplanabilirliğini inceliyor. Çalışma, etkileşim düzeylerini ölçmek için SAE Additivity Residuals (SAR) adlı yeni bir yöntem sunarak özelliklerin birleşimindeki sapmaları analiz ediyor.",
+          "meta": "104 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.21261",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 104,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21261",
+                "publishedAt": "2026-10-15T00:00:00.000Z",
+                "githubRepo": "https://github.com/OpenSAE/SAE-Behavioral-Compositionality",
+                "githubStars": 3
+              }
+            },
+            "description": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Residuals (SAR), which measure the behavioral variation left unexplained above a chosen interaction order. Under independent feature subset sampling, population SAR is exactly the normalized energy of interactions above that order and bounds coalition ordering error for the optimal low order approximat"
+          }
+        },
+        {
+          "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
+          "url": "https://huggingface.co/papers/2610.20680",
+          "summary": "Seyrek öz kodlayıcılar (sparse autoencoders) için gereken aktivasyon verisi miktarı, modelin işlevsel performansı ile öğrenilen özelliklerin (features) yeniden üretilebilirliği üzerinden inceleniyor. Çalışma, bu modellerin eğitiminde kullanılan veri ölçeğinin gerekliliğini farklı dil modelleri ve veri bütçeleriyle test ediyor.",
+          "meta": "1 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.20680",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20680",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            },
+            "description": "Sparse autoencoders (SAEs) are typically trained on hundreds of millions to billions of activation tokens, yet little work has tested whether this scale is necessary. We study how much activation data SAEs need by training four SAE architectures on three language models with budgets ranging from 5M tokens to a 500M-token reference. We measure two notions of convergence: functional behavior on standard evaluations and one-to-one reproducibility of learned features. Functional data requirements ar"
+          }
+        },
+        {
+          "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+          "url": "https://huggingface.co/papers/2610.22280",
+          "summary": "LEASH, bilgisayar kullanımı (computer-use) odaklı yapay zekâ ajanlarının karmaşık görevlerde düşük maliyetli ve güçlü modeller arasında geçiş yapmasını sağlayan bir yöntemdir. Belirsizlik farkındalığı (uncertainty-aware) mekanizması sayesinde sistem, zayıf modelin yetersiz kaldığı durumlarda kontrolü otomatik olarak daha güçlü bir modele devreder.",
+          "meta": "6 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.22280",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22280",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers a middle ground where a weak agent acts by default and hands control to a strong one only when needed. The core challenge is deciding when to escalate, which requires an uncertainty signal cheap enough to check at every step. However, even after handoff, the strong agent can still get lost, but a bl"
+          }
+        },
+        {
+          "title": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments",
+          "url": "https://huggingface.co/papers/2610.15924",
+          "summary": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments, büyük dil modellerinin (LLM) eğitiminde kullanılan programatik doğrulayıcıların (verifiers) manipüle edilmesine karşı bir çözüm öneriyor. Çalışma, ajan ortamlarındaki karmaşık görevlerde hatalı ödüllendirmeyi engellemek adına ölçeklenebilir ve otomatik bir güçlendirme yöntemi geliştirilmesini hedefliyor.",
+          "meta": "3 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.15924",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.15924",
+                "publishedAt": "2026-10-11T00:00:00.000Z"
+              }
+            },
+            "description": "Agent environments are essential for large language model (LLM) development. They use programmatic verifiers to turn complex outcomes into rewards. Verifiers can be attacked into awarding full credit to cheating agents without completing the intended task, causing inaccurate evaluation and misalignment in training. As agent environments scale in numbers and difficulty, so must the repairing of exploitable verifiers. To this end, we ask whether today's model with scaled compute can automatically "
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CLI",
+      "explanation": "Bilgisayar programlarını fare kullanmadan sadece yazılı komutlar girerek yönetmenizi sağlayan metin tabanlı arayüz."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Bir yazılımın, yapay zekâ ajanları tarafından doğrudan kullanılmak ve yönetilmek üzere özel olarak tasarlanmış olması."
+    },
+    {
+      "term": "context window",
+      "explanation": "Yapay zekânın bir seferde işleyebildiği ve hatırlayabildiği bilgi miktarı veya metin uzunluğu sınırı."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynakları ve araçlarla standart bir şekilde iletişim kurmasını sağlayan bağlantı protokolü."
+    },
+    {
+      "term": "swarms",
+      "explanation": "Karmaşık görevleri yerine getirmek için birbirleriyle iş birliği içinde çalışan çok sayıda yapay zekâ ajanından oluşan grup."
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "explanation": "Yapay zekânın cevap üretirken dış kaynaklardan güncel verileri bulup getirerek bilgilerini zenginleştirmesini sağlayan yöntem."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yazılım geliştirme süreçlerinde belirli bir görevi yerine getirmek için kullanılan hazır işlevler veya yetenekler bütünü."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâ ajanlarının yeni yetenekler kazanmasını ve bunları düzenli bir yapıda kullanmasını sağlayan yazılım geliştirme altyapısı."
+    },
+    {
+      "term": "plugin",
+      "explanation": "Mevcut bir yazılımın özelliklerini genişletmek veya ona yeni işlevler eklemek için kullanılan küçük eklenti programı."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken temel yapıyı oluşturan, işleri kolaylaştıran hazır kurallar ve araçlar bütünü."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekâ modellerinin metinleri işlerken kullandığı, kelime veya karakter parçalarına karşılık gelen en küçük veri birimi."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın dış veritabanlarından bilgi çekerek daha doğru ve güncel yanıtlar üretmesine olanak tanıyan teknoloji."
+    },
+    {
+      "term": "seeds",
+      "explanation": "Rastgele görünen sonuçların belirli bir başlangıç değerine göre tutarlı ve tekrarlanabilir şekilde üretilmesini sağlayan sayısal anahtar."
+    },
+    {
+      "term": "AI benchmarks",
+      "explanation": "Yapay zekâ sistemlerinin yeteneklerini, hızını ve doğruluğunu ölçmek için kullanılan standart performans testleri."
+    },
+    {
+      "term": "code review",
+      "explanation": "Yazılımın kalitesini artırmak ve hataları bulmak amacıyla yazılan kodların başka bir kişi veya araç tarafından gözden geçirilmesi süreci."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Kullanıcıdan aldığı komutlarla yeni metin, görüntü veya kod gibi içerikler oluşturabilen yapay zekâ teknolojisi."
+    }
+  ]
+}

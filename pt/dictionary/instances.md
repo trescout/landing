@@ -34,7 +34,7 @@ Não deve ser confundido com o programa em si (código-fonte); o código-fonte �
 - [Virtual Machines](https://trescout.com/pt/dictionary/virtual-machines/)
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/instances/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/instances/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/instances/

@@ -29,13 +29,14 @@ Bu kaynağı okumak için herhangi bir kod çalıştırmanıza gerek yoktur. Pro
 
 - [GitHub deposu →](https://github.com/cs341-illinois/coursebook)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Systems Programming](https://trescout.com/dictionary/systems-programming/)
 - [PDF](https://trescout.com/dictionary/pdf/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/coursebook/

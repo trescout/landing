@@ -2,7 +2,7 @@
 
 **Heretic**, transformer tabanlı dil modellerinden **güvenlik hizalaması (safety alignment)** kısıtlarını, pahalı yeniden eğitim süreçlerine gerek kalmadan kaldıran teknik bir araçtır. 'Abliteration' tekniğini kullanan bu çözüm, ileri düzey ve araştırma odaklı bir yapıdadır.
 
-- ★ 34.271
+- ★ 36.044
 - Python
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
@@ -19,10 +19,10 @@ git clone https://github.com/p-e-w/heretic.git
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 34.271 → 36.044, son sürüm v1.4.0 (14 Haziran 2026).
 - **9 Ekim 2026:** Yıldız 32.626 → 34.271, son sürüm v1.4.0 (14 Haziran 2026).
 - **1 Ekim 2026:** Yıldız 31.068 → 32.626, son sürüm v1.4.0 (14 Haziran 2026).
 - **10 Eylül 2026:** Yıldız 29.513 → 31.068, son sürüm v1.4.0 (14 Haziran 2026).
-- **31 Ağustos 2026:** Yıldız 27.018 → 29.513, son sürüm v1.4.0 (14 Haziran 2026).
 
 - **Kimin için:** ML araştırmacıları / ileri düzey kullanıcılar
 - **Zorluk:** İleri · model ağırlıklarıyla çalışma bilgisi
@@ -47,12 +47,13 @@ Bu araç modelin güvenlik korumalarını kaldırır. Üretilecek çıktıların
 - [GitHub deposu →](https://github.com/p-e-w/heretic)
 - [Proje sayfası →](https://heretic-project.org)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Transformer](https://trescout.com/dictionary/transformer/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/heretic/

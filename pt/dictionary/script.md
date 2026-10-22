@@ -77,7 +77,7 @@ Scripts de fontes confiáveis, sim. Um script obtido da internet não deve ser e
 - [Meshery](https://trescout.com/pt/discover/meshery/)
 - [Tradingview MCP](https://trescout.com/pt/discover/tradingview-mcp/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/script/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/script/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/script/

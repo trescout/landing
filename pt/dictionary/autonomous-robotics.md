@@ -61,7 +61,7 @@ O com controle remoto está na mão humana, o autônomo está sozinho com o alvo
 - [Physical AI](https://trescout.com/pt/dictionary/physical-ai/)
 - [World Models](https://trescout.com/pt/dictionary/world-model/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/autonomous-robotics/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/autonomous-robotics/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/autonomous-robotics/

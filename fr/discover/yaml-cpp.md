@@ -36,6 +36,7 @@ Pour commencer à utiliser l'outil, vous devez d'abord télécharger et installe
 - [Serialization](https://trescout.com/fr/dictionary/serialization/)
 - [Parser](https://trescout.com/fr/dictionary/parser/)
 - [API](https://trescout.com/fr/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs de logiciels qui souhaitent gérer des fichiers de configuration au format YAML ou effectuer des opérations de sérialisation de données dans des projets C++.
 - **Licence:** MIT
@@ -45,7 +46,7 @@ Pour commencer à utiliser l'outil, vous devez d'abord télécharger et installe
 - [Dépôt GitHub →](https://github.com/jbeder/yaml-cpp)
 - [Lire en turc →](https://trescout.com/discover/yaml-cpp/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-11 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-11 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/yaml-cpp/

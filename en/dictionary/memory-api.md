@@ -39,7 +39,7 @@ Any information that artificial intelligence needs to remember, such as user pre
 - [Observability](https://trescout.com/en/dictionary/observability/)
 - [State Management](https://trescout.com/en/dictionary/state-management/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/memory-api/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/memory-api/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/memory-api/

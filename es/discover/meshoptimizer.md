@@ -31,6 +31,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero optimizar los datos de red tridimensionales que tengo. ¿Cómo puedo hacer que mis datos de vértices e índices sean más eficientes utilizando la biblioteca Meshoptimizer? Explicar los pasos básicos que debo seguir, especialmente en los procesos de optimización de la caché de vértices y edición del búfer de índice, utilizando las funciones que ofrece la biblioteca.
 
+Repositorio: https://github.com/zeux/meshoptimizer. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Rendering](https://trescout.com/es/dictionary/rendering/)
@@ -46,7 +54,7 @@ Quiero optimizar los datos de red tridimensionales que tengo. ¿Cómo puedo hace
 - [Repositorio en GitHub →](https://github.com/zeux/meshoptimizer)
 - [Leer en turco →](https://trescout.com/discover/meshoptimizer/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-11: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-11: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/meshoptimizer/

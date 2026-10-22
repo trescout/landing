@@ -22,6 +22,7 @@ Clone-Wars is not a software tool, but a guide listing open source clones of pop
 - [Tech Stack](https://trescout.com/en/dictionary/tech-stack/)
 - [Clone](https://trescout.com/en/dictionary/clone/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for software development students and enthusiasts who are curious about how popular applications are built and want to improve themselves by practicing on open source projects.
 - **License:** AGPL-3.0
@@ -31,7 +32,7 @@ Clone-Wars is not a software tool, but a guide listing open source clones of pop
 - [GitHub repository →](https://github.com/GorvGoyl/Clone-Wars)
 - [Read in Turkish →](https://trescout.com/discover/clone-wars/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/clone-wars/

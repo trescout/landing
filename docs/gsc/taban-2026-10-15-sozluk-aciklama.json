@@ -1,0 +1,160 @@
+{
+ "ad": "landing#338 · 22 Türkçe sözlük sayfasının arama açıklaması (2026-10-15)",
+ "not": "Taban: Search Console 2026-07-14 → 2026-10-13 (3 ay). Değişiklik 2026-10-15 yayında. Karşılaştırma ~2026-11-05: Search Console'da tarih aralığını 2026-10-16 → bugün seçip dışa aktarın.",
+ "sayfalar": [
+  {
+   "yol": "/dictionary/playlist/",
+   "gos": 12006,
+   "tik": 23,
+   "to": 0.19,
+   "sira": 9.98
+  },
+  {
+   "yol": "/dictionary/cms/",
+   "gos": 1593,
+   "tik": 2,
+   "to": 0.13,
+   "sira": 3.1
+  },
+  {
+   "yol": "/dictionary/pptx/",
+   "gos": 1114,
+   "tik": 1,
+   "to": 0.09,
+   "sira": 10.61
+  },
+  {
+   "yol": "/dictionary/qa/",
+   "gos": 1083,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 13.2
+  },
+  {
+   "yol": "/dictionary/assets/",
+   "gos": 633,
+   "tik": 3,
+   "to": 0.47,
+   "sira": 7.42
+  },
+  {
+   "yol": "/dictionary/tutoring/",
+   "gos": 459,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 10.71
+  },
+  {
+   "yol": "/dictionary/context/",
+   "gos": 380,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 11.25
+  },
+  {
+   "yol": "/dictionary/tech-stack/",
+   "gos": 272,
+   "tik": 1,
+   "to": 0.37,
+   "sira": 8.24
+  },
+  {
+   "yol": "/dictionary/harness/",
+   "gos": 249,
+   "tik": 2,
+   "to": 0.8,
+   "sira": 8.73
+  },
+  {
+   "yol": "/dictionary/tui/",
+   "gos": 232,
+   "tik": 1,
+   "to": 0.43,
+   "sira": 8.52
+  },
+  {
+   "yol": "/dictionary/ad-blocker/",
+   "gos": 213,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 7.54
+  },
+  {
+   "yol": "/dictionary/utilities/",
+   "gos": 210,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 12.79
+  },
+  {
+   "yol": "/dictionary/patch/",
+   "gos": 209,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 8.68
+  },
+  {
+   "yol": "/dictionary/runtime/",
+   "gos": 199,
+   "tik": 1,
+   "to": 0.5,
+   "sira": 8.23
+  },
+  {
+   "yol": "/dictionary/ade/",
+   "gos": 188,
+   "tik": 1,
+   "to": 0.53,
+   "sira": 8.92
+  },
+  {
+   "yol": "/dictionary/skill/",
+   "gos": 176,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 13.41
+  },
+  {
+   "yol": "/dictionary/productivity/",
+   "gos": 176,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 12.86
+  },
+  {
+   "yol": "/dictionary/specification/",
+   "gos": 162,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 8.0
+  },
+  {
+   "yol": "/dictionary/lsp/",
+   "gos": 157,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 7.61
+  },
+  {
+   "yol": "/dictionary/ai-engineering/",
+   "gos": 150,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 13.64
+  },
+  {
+   "yol": "/dictionary/indie-hacking/",
+   "gos": 150,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 6.49
+  },
+  {
+   "yol": "/dictionary/cloud-computing/",
+   "gos": 223,
+   "tik": 0,
+   "to": 0.0,
+   "sira": 19.64
+  }
+ ]
+}

@@ -71,7 +71,7 @@ De acordo com o ecossistema e o conhecimento da equipe. Prefere-se algo leve par
 
 - [Prefect](https://trescout.com/pt/discover/prefect/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/workflow-orchestration-framework/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/workflow-orchestration-framework/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/workflow-orchestration-framework/

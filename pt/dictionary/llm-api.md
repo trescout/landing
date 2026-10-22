@@ -46,7 +46,7 @@ Você precisa de energia de hardware em seu próprio computador, mas ao usar API
 - [MiroFish](https://trescout.com/pt/discover/mirofish/)
 - [Gitdiagram](https://trescout.com/pt/discover/gitdiagram/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/llm-api/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/llm-api/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/llm-api/

@@ -38,7 +38,7 @@ Since your data is on the server, it depends on the security measures of the com
 - [SaaS](https://trescout.com/en/dictionary/saas/)
 - [Web Interface](https://trescout.com/en/dictionary/web-interface/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/web-based-solutions/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/web-based-solutions/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/web-based-solutions/

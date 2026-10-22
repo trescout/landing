@@ -38,7 +38,7 @@ Usually yes, because it connects to the server via the browser.
 - [API](https://trescout.com/en/dictionary/api/)
 - [Design Language](https://trescout.com/en/dictionary/design-language/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/web-interface/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/web-interface/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/web-interface/

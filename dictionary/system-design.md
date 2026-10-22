@@ -44,7 +44,7 @@ Evet, ancak sistem büyüdükçe mimariyi değiştirmek çok maliyetli ve zordur
 - [System Design 101](https://trescout.com/discover/system-design-101/)
 - [System Design Notes](https://trescout.com/discover/system-design-notes/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/system-design/

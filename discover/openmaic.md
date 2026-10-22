@@ -2,16 +2,16 @@
 
 Tsinghua Üniversitesi araştırmacıları tarafından geliştirilen OpenMAIC, öğretmen, öğrenci ve gözlemci rollerindeki çoklu yapay zekâ ajanlarını etkileşimli bir sınıf ortamında buluşturur.
 
-- ★ 40.871
+- ★ 41.041
 - TypeScript
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 40.871 → 41.041, son sürüm v1.2.1 (18 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 40.363 → 40.871, son sürüm v1.2.0 (16 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 39.969 → 40.363, son sürüm v1.1.4 (11 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 39.351 → 39.969, son sürüm v1.1.3 (5 Ekim 2026).
-- **28 Eylül 2026:** Yıldız 39.156 → 39.351, son sürüm v1.1.2 (28 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -64,6 +64,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenMAIC platformunda kendi ders notlarımı yükleyerek bir Sokratik tartışma ortamı simüle etmek istiyorum. Ajanların rollerini (öğretmen, meraklı öğrenci, eleştirel sorgulayıcı) nasıl tanımlayacağımı ve yerel bir Ollama modeliyle bu sınıfı nasıl ayağa kaldıracağımı adım adım açıklar mısın?
 
+Depo: https://github.com/THU-MAIC/OpenMAIC. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Eğitimciler, yapay zekâ araştırmacıları, edtech girişimcileri ve öğrenciler.
 - **Lisans:** Apache-2.0 (Açık kaynak lisansı)
 - **Çatı:** TypeScript & Next.js Çoklu Ajan Simülatörü
@@ -80,7 +88,7 @@ OpenMAIC platformunda kendi ders notlarımı yükleyerek bir Sokratik tartışma
 
 - [GitHub deposu →](https://github.com/THU-MAIC/OpenMAIC)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
@@ -88,8 +96,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [GPU](https://trescout.com/dictionary/gpu/)
 - [PDF](https://trescout.com/dictionary/pdf/)
 - [LLM](https://trescout.com/dictionary/llm/)
-- [API](https://trescout.com/dictionary/api/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openmaic/

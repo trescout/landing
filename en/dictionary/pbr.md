@@ -40,7 +40,7 @@ It ensures that objects look consistent and realistic under different lighting c
 - [Design Tool](https://trescout.com/en/dictionary/design-tool/)
 - [Godot Engine](https://trescout.com/en/dictionary/godot-engine/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/pbr/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/pbr/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/pbr/

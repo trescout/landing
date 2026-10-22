@@ -81,7 +81,7 @@ Varies depending on usage. Small jobs are tiny, heavy training and million calls
 - [Aisuite](https://trescout.com/en/discover/aisuite/)
 - [TRELLIS.2](https://trescout.com/en/discover/trellis-2/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/generative-ai/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/generative-ai/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/generative-ai/

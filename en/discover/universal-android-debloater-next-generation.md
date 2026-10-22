@@ -27,6 +27,7 @@ To get started with the tool, go to the Wiki section on the GitHub page. By revi
 - [ADB](https://trescout.com/en/dictionary/adb/)
 - [Root](https://trescout.com/en/dictionary/root/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to get rid of unnecessary installed applications on their Android phone and speed up their device.
 - **License:** GPL-3.0
@@ -36,7 +37,7 @@ To get started with the tool, go to the Wiki section on the GitHub page. By revi
 - [GitHub repository →](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 - [Read in Turkish →](https://trescout.com/discover/universal-android-debloater-next-generation/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-17: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-17: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/universal-android-debloater-next-generation/

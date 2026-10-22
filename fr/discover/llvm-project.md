@@ -2,16 +2,16 @@
 
 Le projet LLVM est une infrastructure offrant des technologies de compilateur et de chaîne d'outils modulaires et réutilisables. Il permet l'optimisation du code et son adaptation à différentes architectures matérielles dans les processus de développement logiciel.
 
-- ★ 40 957
+- ★ 41 137
 - LLVM
 - GitHub Trending · 2026-09-07
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 40,957 → 41,137, dernière version llvmorg-23.1.4 (20 octobre 2026).
 - **7 octobre 2026:** Étoiles 40,755 → 40,957, dernière version llvmorg-23.1.3 (6 octobre 2026).
 - **27 septembre 2026:** Étoiles 40,353 → 40,755, dernière version llvmorg-23.1.2 (22 septembre 2026).
 - **9 septembre 2026:** Étoiles 40,286 → 40,353, dernière version llvmorg-23.1.1 (8 septembre 2026).
-- **7 septembre 2026:** Étoiles 40,286 → 40,286, dernière version llvmorg-23.1.0 (25 août 2026).
 
 ## Ce que ça vous apporte
 
@@ -28,6 +28,7 @@ Pour accéder au code source du projet et effectuer l'installation, vous devez v
 ## Termes liés du glossaire
 
 - [Compiler](https://trescout.com/fr/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux développeurs de logiciels souhaitant créer leur propre compilateur ou optimiser leurs codes existants pour différentes architectures matérielles.
 
@@ -36,7 +37,7 @@ Pour accéder au code source du projet et effectuer l'installation, vous devez v
 - [Dépôt GitHub →](https://github.com/llvm/llvm-project)
 - [Lire en turc →](https://trescout.com/discover/llvm-project/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/llvm-project/

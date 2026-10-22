@@ -38,7 +38,7 @@ O modelo precisa de ter sido concebido com esta arquitetura; ou seja, é obrigat
 - [RAM](https://trescout.com/pt/dictionary/ram/)
 - [Inference Engine](https://trescout.com/pt/dictionary/inference-engine/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/experts-streamed-from-disk/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/experts-streamed-from-disk/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/experts-streamed-from-disk/

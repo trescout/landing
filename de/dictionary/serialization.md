@@ -21,12 +21,24 @@ Serialisierungsmechanismus; Es durchläuft oder durchläuft den Objektgraphen im
 
 Auswahl des richtigen Serialisierungsformats in der Softwarearchitektur; Es erfordert ein Gleichgewicht zwischen menschlicher Lesbarkeit, CPU-Parsing-Kosten, Netzwerkbandbreite und Typsicherheit.
 
+### 1. Textbasierte Formate (JSON, YAML, XML)
+
 - JSON (JavaScript Object Notation): Der De-facto-Standard der modernen Web- und RESTful-APIs. Es ist sprachunabhängig, wird nativ in Browsern unterstützt und ist für Entwickler leicht zu lesen und zu debuggen.
 - Schwächen: Textbasiertes Parsing (Lexing, Tokenisierung, Konvertierung von Zeichenfolgen in Zahlen) verbraucht viel CPU. Wiederholte Schlüsselnamen (Feldschlüssel) in jedem Datensatz erzeugen unnötigen Nutzlast-Overhead. Außerdem erfordert die Übertragung von Binärdaten (z. B. ein Bild oder ein verschlüsselter Schlüssel) eine Base64-Kodierung; Dadurch erhöht sich die Datengröße um etwa 33 %.
+
+### 2. Binäre und schematische Formate (Protobuf, Avro, MessagePack)
 
 - Protokollpuffer (Protobuf): Es handelt sich um ein von Google entwickeltes Binärformat, das das Rückgrat der gRPC- und Microservice-Kommunikation bildet. Es definiert Feldtypen und Feldnummern (Feld-Tags) mit einer soliden Schemadatei (.proto). Anstelle von Textschlüsseln werden numerische Beschriftungen und Ganzzahlkodierung variabler Länge (Varint) über das Netzwerk gesendet. Es verbraucht 3 bis 10 Mal weniger Bandbreite als JSON und analysiert viel schneller.
 - Apache Avro: Im Big-Data-Ökosystem (Hadoop, Kafka) weit verbreitet. Das Schema wird in einer zentralen Registrierung (Schema Registry) gespeichert und ist nicht in jede Nachricht eingebettet. Dadurch wird die zusätzliche Belastung pro Nachricht minimiert.
 - MessagePack und BSON: Speichert Daten in einem binär komprimierten Format und behält dabei das flexible, schemalose Schlüsselwertmodell von JSON bei.
+
+| Format | Typensystem | Schema-Verpflichtung | Lesbarkeit | Paketkosten | Hauptnutzungsbereich |
+|---|---|---|---|---|---|
+| JSON | Dynamisch | Optional (JSON-Schema) | Für Menschen lesbar | Mittel/Hoch | Web-API, Frontend |
+| protobuf | Solide statisch | Erforderlich (.proto) | Binär | Niedrig | Microservices, gRPC |
+| FlatBuffers | Solide statisch | Obligatorisch (.fbs) | Binär | Null (Null-Kopie) | Spiele, HFT, Mobil |
+| Apache Avro | Solide statisch | Obligatorisch (.avsc) | Binär | Niedrig | Kafka, Big Data |
+| MessagePack | Dynamisch | Keiner | Binär | Niedrig/Mittel | Redis-Cache, IPC |
 
 ## Zero-Copy-Deserialisierungsarchitektur
 
@@ -47,6 +59,8 @@ Während der Deserialisierungsphase erfolgt keine Speicherzuweisung oder Datenko
 
 Es entstehen katastrophale Sicherheitslücken, wenn bei der Serialisierung versucht wird, Objektklassen und Laufzeitverhalten zu serialisieren, anstatt nur reine Daten zu verschieben. Unsichere Deserialisierung (Insecure Reverse Serialization), die in der OWASP-Top-10-Liste steht, ermöglicht es dem Angreifer, beliebigen Code (Remote Code Execution – RCE) auf dem System auszuführen.
 
+### Beispiel für eine Python-Gurke
+
 Das in Python integrierte Serialisierungsmodul pickle serialisiert die __reduce__-Methode von Objekten. Diese Methode definiert eine Funktion und ihre Parameter, die während der Objektdeserialisierung aufgerufen werden sollen. Durch Missbrauch dieses Mechanismus kann ein Angreifer eine bösartige Bytesequenz generieren, die einen Betriebssystembefehl ausführt:
 
 ```
@@ -59,7 +73,11 @@ class Exploit:
 
 Sobald dieser Bytestrom an den Server gesendet und pickle.loads(payload) ausgeführt wird, wird ein nicht autorisierter Shell-Befehl auf dem Server ausgeführt. Daher sollten Daten aus nicht vertrauenswürdigen Quellen nicht mit Pickle analysiert werden.
 
+### Java- und Gadget-Ketten
+
 Im nativen Serialisierungsmechanismus von Java (ObjectInputStream.readObject()) lädt der Klassenlader die Klasse des eingehenden Objekts in den Speicher. Angreifer; Es kann eine Ausführungskette aufbauen, die Befehle im Speicher ausführt, indem es die Methoden von Klassen in auf dem System installierten Bibliotheken (z. B. Apache Commons Collections oder Spring Framework) verbindet (Gadget-Kette).
+
+### Prinzipien der sicheren Serialisierung
 
 - Verwenden Sie niemals sprachintegrierte Formate, die ausführbaren Code oder Klassendefinitionen enthalten (Python Pickle, Java Native Serialization, PHP Unserialize), an Netzwerkgrenzen.
 - Wählen Sie Formate, die nur reine Daten enthalten, und validieren Sie die Datenstruktur anhand des Schemas (JSON + Pydantic/Zod oder Protobuf).
@@ -98,7 +116,7 @@ Datenmodelle ändern sich, wenn die Software aktualisiert wird. Systeme wie Prot
 
 - [YAML Cpp](https://trescout.com/de/discover/yaml-cpp/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/serialization/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/serialization/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/serialization/

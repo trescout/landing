@@ -40,7 +40,7 @@ Because the system needs to perform many trials and learn a lesson from each tri
 - [Miles](https://trescout.com/en/discover/miles/)
 - [Microduck Rl](https://trescout.com/en/discover/microduck-rl/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/reinforcement-learning/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/reinforcement-learning/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/reinforcement-learning/

@@ -2,15 +2,15 @@
 
 Impeccable é uma biblioteca de linguagem de design desenvolvida para melhorar os resultados de design de modelos de inteligência artificial. O software fornece regras padronizadas para melhorar a consistência visual e a qualidade estética das ferramentas generativas de IA.
 
-- ★ 81.783
+- ★ 83.463
 - GitHub Trending · 2026-06-02
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 81,783 → 83,463, versão mais recente cli-v4.7.0 (19 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 81,523 → 81,783, versão mais recente cli-v4.6.0 (15 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 78,944 → 81,523, versão mais recente engine-v0.1.15 (15 de outubro de 2026).
 - **9 de outubro de 2026:** Estrelas 78,834 → 78,944, versão mais recente skill-v4.5.2 (9 de outubro de 2026).
-- **9 de outubro de 2026:** Estrelas 78,618 → 78,834, versão mais recente cli-v4.5.2 (9 de outubro de 2026).
 
 ## O que você ganha
 
@@ -40,6 +40,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero melhorar a qualidade do design e a consistência visual do meu projeto. Gostaria que você revisasse minha interface atual usando a ferramenta Impeccable e a melhorasse de acordo com os padrões da linguagem de design. Utilize comandos /impeccable para verificar erros visuais em meu projeto, identificar deficiências e fazer ajustes para melhorar a experiência do usuário.
 
+Repositório: https://github.com/pbakaus/impeccable. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Design Language](https://trescout.com/pt/dictionary/design-language/)
@@ -55,7 +63,7 @@ Quero melhorar a qualidade do design e a consistência visual do meu projeto. Go
 - [Repositório no GitHub →](https://github.com/pbakaus/impeccable)
 - [Ler em turco →](https://trescout.com/discover/impeccable/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-02: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-02: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/impeccable/

@@ -2,16 +2,16 @@
 
 Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli (LLM) ajanlarını hibrit bir yapıda birleştiriyor. Yazılım güvenliği kuralları ve satır bazlı yorumlama yetenekleriyle donatılan araç, Go diliyle yazılmış olup OpenAI ve Anthropic uyumlu bir altyapı sunuyor.
 
-- ★ 46.806
+- ★ 47.696
 - Go
 - GitHub Trending · 2026-07-24
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 47.516 → 47.696, son sürüm v1.13.2 (20 Ekim 2026).
+- **17 Ekim 2026:** Yıldız 46.806 → 47.516, son sürüm v1.13.1 (17 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 44.479 → 46.806, son sürüm v1.13.0 (13 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 43.798 → 44.479, son sürüm v1.12.13 (8 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 42.587 → 43.798, son sürüm v1.12.12 (5 Ekim 2026).
-- **29 Eylül 2026:** Yıldız 42.110 → 42.587, son sürüm v1.12.11 (29 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Open Code Review aracını kullanarak mevcut Git değişikliklerimi incele. Kod tabanındaki dosyaları analiz et, satır bazlı hata tespiti yap ve yapılandırılmış geri bildirimler oluştur. İnceleme sürecinde deterministik kuralları takip ederek yanlış pozitifleri en aza indir ve sadece kritik güvenlik veya mantık hatalarına odaklan.
 
+Depo: https://github.com/alibaba/open-code-review. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kod kalitesini artırmak ve büyük ölçekli projelerde güvenli kod incelemesi yapmak isteyen yazılım geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -40,7 +48,7 @@ Open Code Review aracını kullanarak mevcut Git değişikliklerimi incele. Kod 
 
 - [GitHub deposu →](https://github.com/alibaba/open-code-review)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

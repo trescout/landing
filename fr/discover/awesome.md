@@ -21,6 +21,10 @@ Cet outil ne nécessite pas d'installation de logiciel. Pour trouver la technolo
 
 - [Source officielle →](https://github.com/stingalleman/awesome-audiovisual#readme)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il convient à tous ceux qui souhaitent accéder à des ressources de qualité sur le développement de logiciels, la technologie et les outils numériques à partir d'un centre unique.
 - **Licence:** CC0-1.0
 
@@ -29,7 +33,7 @@ Cet outil ne nécessite pas d'installation de logiciel. Pour trouver la technolo
 - [Dépôt GitHub →](https://github.com/sindresorhus/awesome)
 - [Lire en turc →](https://trescout.com/discover/awesome/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/awesome/

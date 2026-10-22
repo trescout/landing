@@ -34,7 +34,7 @@ Machines are still not at human level when it comes to decision making, ethical 
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [Engineering Skills](https://trescout.com/en/dictionary/engineering-skills/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/human-effort/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/human-effort/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/human-effort/

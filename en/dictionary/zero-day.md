@@ -38,7 +38,7 @@ You can minimize your risk by always keeping your software up to date and avoidi
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
 - [Self-hosting](https://trescout.com/en/dictionary/self-hosting/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/zero-day/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/zero-day/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/zero-day/

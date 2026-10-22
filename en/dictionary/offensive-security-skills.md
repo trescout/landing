@@ -42,7 +42,7 @@ The methods are similar, but the goal is not to cause harm, but to make systems 
 
 - [Claude-Red](https://trescout.com/en/discover/claude-red/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/offensive-security-skills/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/offensive-security-skills/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/offensive-security-skills/

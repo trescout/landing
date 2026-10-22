@@ -77,7 +77,7 @@ O protótipo mostra, a PoC comprova. Um é a vitrine, o outro é o experimento.
 - [Exploitarium](https://trescout.com/pt/discover/exploitarium/)
 - [VulnClaw](https://trescout.com/pt/discover/vulnclaw/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/poc/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/poc/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/poc/

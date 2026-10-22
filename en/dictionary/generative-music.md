@@ -39,7 +39,7 @@ Thanks to optimized lightweight audio engines, it can generate real-time sound w
 - [Text-to-Speech](https://trescout.com/en/dictionary/text-to-speech/)
 - [Speech Synthesis](https://trescout.com/en/dictionary/speech-synthesis/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/generative-music/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/generative-music/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/generative-music/

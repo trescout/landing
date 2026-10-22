@@ -40,7 +40,7 @@ Geralmente é projetado para estruturas corporativas; para usuários individuais
 - [Cybersecurity Skills](https://trescout.com/pt/dictionary/cybersecurity-skills/)
 - [Server Hardening](https://trescout.com/pt/dictionary/server-hardening/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/edr/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/edr/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/edr/

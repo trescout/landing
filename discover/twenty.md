@@ -2,17 +2,17 @@
 
 **Twenty**, teknik ekiplere iş süreçlerine göre özelleştirilebilir modern bir CRM kurma imkânı veren açık kaynaklı bir **Salesforce alternatifidir**. Yapay zekâ destekli iş akışlarına odaklanan bu sistemi kendi sunucunuzda barındırabilirsiniz.
 
-- ★ 58.411
+- ★ 58.824
 - TypeScript
 - Lisans: özel
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 58.665 → 58.824, son sürüm twenty/v2.50.0 (21 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 58.411 → 58.665, son sürüm sdk/v2.49.0 (19 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 58.367 → 58.411, son sürüm sdk/v2.48.0 (16 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 58.241 → 58.367, son sürüm twenty/v2.47.0 (15 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 57.935 → 58.241, son sürüm twenty/v2.46.0 (12 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 57.768 → 57.935, son sürüm twenty/v2.45.0 (5 Ekim 2026).
 
 - **Kimin için:** Kendi CRM'ini kurmak isteyen teknik ekipler
 - **Zorluk:** İleri · self-host (geliştirici gerekir)
@@ -73,6 +73,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Twenty adlı açık kaynaklı CRM'i kurmak istiyorum; terminalde 'npx create-twenty-app my-app' komutuyla yeni bir uygulama oluştur, ardından 'npx twenty app:publish --private' ile çalışma alanıma yayınla. Self-hosting için Docker Compose ile nasıl çalıştıracağımı da anlat.
 
+Depo: https://github.com/twentyhq/twenty. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Lisans:** ⚠️ Lisansı standart değil (GitHub 'NOASSERTION'). 'Açık kaynak' olarak anılır ama kendi başına/self-host kullanım ile ticari/SaaS olarak yeniden sunum farklı şartlara tabi olabilir. **Ticari kullanımdan önce repo'daki LICENSE dosyasını mutlaka okuyun.**
 
 ## Bağlantılar
@@ -80,7 +88,7 @@ Twenty adlı açık kaynaklı CRM'i kurmak istiyorum; terminalde 'npx create-twe
 - [GitHub deposu →](https://github.com/twentyhq/twenty)
 - [Ana sayfa →](https://twenty.com)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

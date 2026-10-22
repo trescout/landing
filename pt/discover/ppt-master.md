@@ -2,16 +2,16 @@
 
 PPT-Master é uma ferramenta alimentada por IA que converte documentos diretamente em arquivos de apresentação editáveis (PPTX). O sistema traduz texto em apresentações personalizáveis ​​com figuras nativas, animações e notas de áudio do orador.
 
-- ★ 61.580
+- ★ 63.290
 - Python
 - GitHub Trending · 2026-06-28
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 62,941 → 63,290, versão mais recente v6.7.2 (17 de outubro de 2026).
+- **17 de outubro de 2026:** Estrelas 61,580 → 62,941, versão mais recente v6.7.1 (16 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 58,238 → 61,580, versão mais recente v6.7.0 (8 de outubro de 2026).
 - **8 de outubro de 2026:** Estrelas 58,045 → 58,238, versão mais recente v6.7.0 (8 de outubro de 2026).
-- **7 de outubro de 2026:** Estrelas 55,250 → 58,045, versão mais recente v6.6.0 (19 de setembro de 2026).
-- **19 de setembro de 2026:** Estrelas 54,929 → 55,250, versão mais recente v6.6.0 (19 de setembro de 2026).
 
 ## O que você ganha
 
@@ -40,6 +40,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero converter o documento que possuo em um arquivo de apresentação editável usando PPT-Master. Analise o conteúdo do documento, crie a estrutura do slide, adicione as animações e notas do palestrante necessárias para preparar um arquivo PPTX profissional. Fique tranquilo, pois posso fazer alterações na apresentação resultante no PowerPoint.
 
+Repositório: https://github.com/hugohe3/ppt-master. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [PPTX](https://trescout.com/pt/dictionary/pptx/)
@@ -54,7 +62,7 @@ Quero converter o documento que possuo em um arquivo de apresentação editável
 - [Repositório no GitHub →](https://github.com/hugohe3/ppt-master)
 - [Ler em turco →](https://trescout.com/discover/ppt-master/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-28: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-28: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/ppt-master/

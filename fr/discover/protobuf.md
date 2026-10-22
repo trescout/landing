@@ -45,6 +45,7 @@ Pour démarrer avec Protobuf, vous pouvez visiter le site de documentation offic
 
 - [Protocol Buffers](https://trescout.com/fr/dictionary/protocol-buffers/)
 - [Binary](https://trescout.com/fr/dictionary/binary/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui souhaitent établir une communication de données rapide et efficace entre différents systèmes logiciels.
 
@@ -53,7 +54,7 @@ Pour démarrer avec Protobuf, vous pouvez visiter le site de documentation offic
 - [Dépôt GitHub →](https://github.com/protocolbuffers/protobuf)
 - [Lire en turc →](https://trescout.com/discover/protobuf/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/protobuf/

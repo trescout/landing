@@ -2,16 +2,16 @@
 
 FreeLLMAPI proporciona enrutamiento inteligente y tolerancia a fallas al agregar 34 proveedores principales de modelos de lenguaje gratuitos diferentes en una única API REST en formato OpenAI.
 
-- ★ 35.948
+- ★ 38.660
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Actualizaciones
 
-- **16 de octubre de 2026:** Estrellas 34,584 → 35,948, última versión v0.15.0 (15 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 33,595 → 34,584, última versión v0.14.2 (13 de octubre de 2026).
-- **12 de octubre de 2026:** Estrellas 33,363 → 33,595, última versión v0.13.10 (12 de octubre de 2026).
-- **12 de octubre de 2026:** Estrellas 33,101 → 33,363, última versión v0.13.9 (11 de octubre de 2026).
+- **21 de octubre de 2026:** Estrellas 38,000 → 38,660, última versión v0.16.7 (21 de octubre de 2026).
+- **20 de octubre de 2026:** Estrellas 37,418 → 38,000, última versión v0.16.6 (20 de octubre de 2026).
+- **19 de octubre de 2026:** Estrellas 37,306 → 37,418, última versión v0.16.5 (19 de octubre de 2026).
+- **19 de octubre de 2026:** Estrellas 36,776 → 37,306, última versión v0.16.4 (19 de octubre de 2026).
 
 ## Qué aporta
 
@@ -61,6 +61,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Puede explicar con ejemplos de código cómo ejecutar la herramienta FreeLLMAPI en mi servidor local con Docker, cómo apuntar el SDK de OpenAI Node.js a este punto final local y cómo habilitar el uso de un modelo de respaldo automático cuando falla un proveedor?
 
+Repositorio: https://github.com/tashfeenahmed/freellmapi. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Preguntas frecuentes
 
 - ¿Necesito comprar una clave API para usar FreeLLMAPI? No. El sistema combina 34 modelos de IA que ofrecen niveles gratuitos o proporcionan inferencias gratuitas disponibles públicamente.
@@ -75,7 +83,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 - [Localhost](https://trescout.com/es/dictionary/localhost/)
 - [SDK](https://trescout.com/es/dictionary/sdk/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
-- [API](https://trescout.com/es/dictionary/api/)
+- [Open Source](https://trescout.com/es/dictionary/open-source/)
 
 - **Para quién es:** Desarrolladores de inteligencia artificial, investigadores de código abierto, ingenieros completos y desarrolladores de prototipos.
 - **Licencia:** MIT (Özgür açık kaynak lisansı)
@@ -87,7 +95,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 - [Repositorio en GitHub →](https://github.com/tashfeenahmed/freellmapi)
 - [Leer en turco →](https://trescout.com/discover/freellmapi/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-28: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-28: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/freellmapi/

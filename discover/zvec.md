@@ -2,12 +2,13 @@
 
 Alibaba tarafından geliştirilen zvec, C++ diliyle yazılmış hafif ve yüksek hızlı bir süreç içi vektör veritabanı (in-process vector database) çözümüdür. Uygulamaların vektör verilerini doğrudan bellek üzerinde işlemesine olanak tanıyarak sistem performansını artırmayı hedefler.
 
-- ★ 15.504
+- ★ 16.129
 - C++
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 15.504 → 16.129, son sürüm v0.8.0 (21 Ekim 2026).
 - **24 Ağustos 2026:** Yıldız 15.356 → 15.504, son sürüm v0.7.0 (24 Ağustos 2026).
 - **2 Ağustos 2026:** Yıldız 10.691 → 15.356, son sürüm v0.6.0 (20 Temmuz 2026).
 
@@ -37,6 +38,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Zvec kütüphanesini kullanarak bir koleksiyon oluşturmam gerekiyor. Python dilinde bir şema tanımlayıp, bu şemaya uygun vektör verilerini eklememi ve ardından belirli bir vektör sorgusu ile arama yapmamı sağlayan örnek kodu oluşturur musun? Lütfen verilerin kalıcı olması için dosya yolu belirten bir yapı kullan.
 
+Depo: https://github.com/alibaba/zvec. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Uygulamalarına harici bir sunucu kurmadan, yüksek performanslı ve yerel bir vektör arama yeteneği eklemek isteyen geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -44,7 +53,7 @@ Zvec kütüphanesini kullanarak bir koleksiyon oluşturmam gerekiyor. Python dil
 
 - [GitHub deposu →](https://github.com/alibaba/zvec)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -76,7 +76,7 @@ With budget alarms, cleanup of unused resources, and right-sizing. Tagging disci
 - [IaaS](https://trescout.com/en/dictionary/iaas/)
 - [PaaS](https://trescout.com/en/dictionary/paas/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/aws/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/aws/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/aws/

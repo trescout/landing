@@ -38,7 +38,7 @@ Yes, the skill frame is customized according to the agent's role.
 - [Agentic AI](https://trescout.com/en/dictionary/agentic-ai/)
 - [AI Agent Skill](https://trescout.com/en/dictionary/ai-agent-skill/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agentic-skills-framework/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agentic-skills-framework/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agentic-skills-framework/

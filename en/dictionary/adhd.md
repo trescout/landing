@@ -44,7 +44,7 @@ It can reduce mental load by breaking complex tasks into lists and setting remin
 
 - [I Have Adhd](https://trescout.com/en/discover/i-have-adhd/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/adhd/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/adhd/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/adhd/

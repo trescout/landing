@@ -37,7 +37,7 @@ Since the data cannot be changed, it is almost impossible to manipulate the past
 - [Database](https://trescout.com/en/dictionary/database/)
 - [Logs](https://trescout.com/en/dictionary/logs/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/append-only/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/append-only/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/append-only/

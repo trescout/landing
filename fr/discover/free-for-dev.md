@@ -51,6 +51,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite établir une infrastructure cloud moderne composée de services entièrement gratuits pour une nouvelle initiative Web. Pourriez-vous s'il vous plaît décrire un plan d'architecture et des étapes d'installation à coût nul qui combinent les fournisseurs gratuits les plus populaires de la liste des logiciels gratuits pour le développement (hébergement, base de données, authentification et service de messagerie) et ne dépasseront pas les limites de quota ?
 
+Dépôt : https://github.com/ripienaar/free-for-dev. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Quelle est la différence entre le niveau gratuit et la version d'essai (Free Trial) ? Les essais expirent généralement après 7 à 30 jours et nécessitent un paiement. Les services figurant sur la liste des logiciels gratuits pour le développement sont gratuits indéfiniment dans la limite de certains quotas.
@@ -77,7 +85,7 @@ Je souhaite établir une infrastructure cloud moderne composée de services enti
 - [Dépôt GitHub →](https://github.com/ripienaar/free-for-dev)
 - [Lire en turc →](https://trescout.com/discover/free-for-dev/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-27 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-27 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/free-for-dev/

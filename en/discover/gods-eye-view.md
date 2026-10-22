@@ -2,16 +2,16 @@
 
 Gods-eye-view is a spatial intelligence simulator that visualizes real-time satellite data on a browser-based 3D globe. Developed with JavaScript, this open-source project allows users to examine live data on Earth through a photorealistic interface.
 
-- ★ 54,786
+- ★ 57,755
 - JavaScript
 - GitHub Trending · 2026-08-28
 
 ## Updates
 
+- **October 18, 2026:** Stars 54,786 → 57,755, latest release v0.2.1 (October 3, 2026).
 - **October 13, 2026:** Stars 51,792 → 54,786, latest release v0.2.1 (October 3, 2026).
 - **October 12, 2026:** Stars 49,140 → 51,792, latest release v0.2.1 (October 3, 2026).
 - **October 8, 2026:** Stars 46,762 → 49,140, latest release v0.2.1 (October 3, 2026).
-- **October 3, 2026:** Stars 45,774 → 46,762, latest release v0.2.1 (October 3, 2026).
 
 ## What you get
 
@@ -34,6 +34,16 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me install the project from https://github.com/bilawalsidhu/gods-eye-view on GitHub to my computer. Explain step-by-step how to obtain a Google Maps API key and how to place it into the .env file. Also, help me with the billing warning and setting a usage quota for the Google key. Finally, start the development server and open it in the browser. I am not a developer; explain every action you take in simple language and always ask for my approval before any step that might cost money.
 
+Repository: https://github.com/bilawalsidhu/gods-eye-view. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+If an API key is required, do not ask me to type it into the chat. Show me how to add it to the .env file and ensure this file is not pushed to Git.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Spatial Intelligence](https://trescout.com/en/dictionary/spatial-intelligence/)
@@ -48,7 +58,7 @@ Help me install the project from https://github.com/bilawalsidhu/gods-eye-view o
 - [GitHub repository →](https://github.com/bilawalsidhu/gods-eye-view)
 - [Read in Turkish →](https://trescout.com/discover/gods-eye-view/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/gods-eye-view/

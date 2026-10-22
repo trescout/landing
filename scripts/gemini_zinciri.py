@@ -123,6 +123,24 @@ _art_arda_hata: dict[str, int] = {}
 # Süreç sonunda model başına istek özeti · "kota nereye gidiyor" sorusu log'dan
 # sayıyla okunabilsin (2026-09-27: 22 dk'da yalnız 339 çeviri, sebep okunamadı).
 _sayac: collections.Counter = collections.Counter()
+# Model başına token toplamı · docs/GEMINI-KOTA-MALIYET (app) tahmini istek başına
+# varsayılan token sayısına dayanıyor; bu satır onu ölçüme çevirir. Düşünme token'ları
+# çıktı fiyatından ücretlenir (DeepLearning.AI Transformers in Practice · ders listesi T2).
+_TOKEN_ALANLARI = (("promptTokenCount", "girdi"), ("candidatesTokenCount", "çıktı"),
+                   ("thoughtsTokenCount", "düşünme"), ("cachedContentTokenCount", "önbellekten"))
+_token: dict[str, collections.Counter] = collections.defaultdict(collections.Counter)
+
+
+def _token_ekle(model: str, yanit: dict) -> None:
+    kullanim = yanit.get("usageMetadata") or {}
+    for alan, ad in _TOKEN_ALANLARI:
+        _token[model][ad] += int(kullanim.get(alan) or 0)
+
+
+def token_ozeti() -> list[str]:
+    """Model başına token satırları · log'da "Gemini token özeti" ile aranır."""
+    return [f"  · Gemini token özeti [{m}]: " + " · ".join(f"{ad} {t[ad]:,}".replace(",", ".") for _, ad in _TOKEN_ALANLARI)
+            for m, t in sorted(_token.items())]
 
 
 @atexit.register
@@ -130,6 +148,8 @@ def _ozet_yaz() -> None:
     if _sayac:
         parca = " · ".join(f"{m} {s}: {n}" for (m, s), n in sorted(_sayac.items()))
         print(f"  · Gemini istek özeti: {parca}", flush=True)
+    for satir in token_ozeti():
+        print(satir, flush=True)
 _kapali = False
 _son_istek = 0.0
 
@@ -289,6 +309,7 @@ def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> 
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 yanit = json.loads(resp.read().decode("utf-8"))
             _sayac[(model, "ok")] += 1
+            _token_ekle(model, yanit)
             if not metin(yanit):
                 # 200 ama engellendi ya da yarıda kesildi · sebebi logla (2026-09-27:
                 # sözlük çağrısı sessizce None döndü, sebep okunamadı)

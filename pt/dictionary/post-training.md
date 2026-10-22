@@ -38,7 +38,7 @@ O modelo é treinado novamente com métodos como RLHF ou conjuntos de dados espe
 
 - [Miles](https://trescout.com/pt/discover/miles/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/post-training/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/post-training/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/post-training/

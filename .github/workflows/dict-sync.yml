@@ -294,6 +294,13 @@ jobs:
             python3 scripts/kapak-gorselleri.py --lang=$d
           done
 
+      # "Kod bilmiyorsanız" istemine sabit satırlar (depo + README, sistem/ön koşul,
+      # güvenli klasör, API anahtarı, hata). Yeni sayfalar satırlarla doğar; bu adım
+      # eski Türkçe sayfaları tamamlar. Çeviri üretiminden ÖNCE: discover-en.py
+      # satırları Türkçe sayfada gördüğü için bu dilde basar.
+      - name: Ajan istemi satırları (Türkçe keşif)
+        run: python3 scripts/ajan_istemi.py --uygula
+
       # SIRA ÖNEMLİ · sözlük ÖNCE. Keşif sayfasındaki "İlgili sözlük terimleri"
       # bölümü, o dilde sözlük sayfası diskte VARSA basılıyor. Ters sırada yeni
       # bir dilin ilk gününde 400+ keşif sayfası çapraz bağlantısız çıkıyor
@@ -498,6 +505,12 @@ jobs:
       # .md uç noktaları sayfanın SON hâlinden · ölü çip temizliğinden SONRA (yoksa
       # .md silinmiş sayfaya bağlantı taşır). Elle düzenlenmiş (korunan) sayfaların
       # .md'si de buradan tazelenir · üreticiler onlara dokunmadığı için kayıyordu.
+      # Keşif/sözlük sayfa notunda yapay zekâ beyanı (raporlardaki beyanın ikizi).
+      # Üreticiler yeni notu basıyor; bu adım korunan/eski sayfaları da beyanlar ve
+      # damganın içinde kalan eski <div> notlu sayfaların damgasını yeniler.
+      # .md'den ÖNCE: .md sayfanın son hâlinden üretilir.
+      - name: YZ beyanı (keşif ve sözlük sayfaları)
+        run: python3 scripts/yz_beyani.py --uygula
       - name: .md uç noktaları (tüm dillerde sözlük ve keşif)
         run: python3 scripts/md-uret.py
 
@@ -535,9 +548,13 @@ jobs:
         run: python3 scripts/check-consent-consistency.py
       - name: Rıza formu kanonik blok kontrolü
         run: python3 scripts/riza_formu.py --check
+      - name: Ajan istemi satırları kontrolü
+        run: python3 scripts/ajan_istemi.py
       # Rapor kapaklarında yapay zekâ şeffaflık beyanı (AB YZ Yasası m.50).
       - name: YZ şeffaflık beyanı kontrolü
         run: python3 scripts/check-ai-disclosure.py
+      - name: YZ beyanı kontrolü (keşif ve sözlük)
+        run: python3 scripts/yz_beyani.py
 
       - name: Sayfa paritesi (diller arası yapı)
         run: python3 scripts/check-sayfa-paritesi.py

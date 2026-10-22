@@ -71,7 +71,7 @@ O uso de memória e CPU diminui, a execução paralela aumenta. A escalabilidade
 - [Browser](https://trescout.com/pt/discover/browser/)
 - [Camofox Browser](https://trescout.com/pt/discover/camofox-browser/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/headless-browser/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/headless-browser/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/headless-browser/

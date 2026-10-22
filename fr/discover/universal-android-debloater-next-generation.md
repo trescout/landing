@@ -27,6 +27,7 @@ Pour démarrer avec l'outil, accédez à la section Wiki de la page GitHub. En c
 - [ADB](https://trescout.com/fr/dictionary/adb/)
 - [Root](https://trescout.com/fr/dictionary/root/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent se débarrasser des applications installées inutiles sur leur téléphone Android et accélérer leur appareil.
 - **Licence:** GPL-3.0
@@ -36,7 +37,7 @@ Pour démarrer avec l'outil, accédez à la section Wiki de la page GitHub. En c
 - [Dépôt GitHub →](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 - [Lire en turc →](https://trescout.com/discover/universal-android-debloater-next-generation/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-17 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-17 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/universal-android-debloater-next-generation/

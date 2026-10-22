@@ -38,7 +38,7 @@ Your brain deletes information it deems unnecessary over time; this method prove
 
 - [Anki](https://trescout.com/en/discover/anki/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/spaced-repetition/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/spaced-repetition/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/spaced-repetition/

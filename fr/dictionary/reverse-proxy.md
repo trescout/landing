@@ -43,7 +43,7 @@ C'est à la fois un logiciel et une couche serveur sur laquelle s'exécute ce lo
 - [OmniRoute](https://trescout.com/fr/discover/omniroute/)
 - [Nginx](https://trescout.com/fr/discover/nginx/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/reverse-proxy/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/reverse-proxy/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/reverse-proxy/

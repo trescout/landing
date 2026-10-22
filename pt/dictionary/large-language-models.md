@@ -52,7 +52,7 @@ Eles aprendem as probabilidades de palavras seguirem umas às outras analisando 
 - [Dive Into Llms](https://trescout.com/pt/discover/dive-into-llms/)
 - [AstrBot](https://trescout.com/pt/discover/astrbot/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/large-language-models/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/large-language-models/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/large-language-models/

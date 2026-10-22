@@ -2,15 +2,15 @@
 
 Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ bağlantılarını daha esnek hale getiren modüler bir ağ yığınıdır (networking stack). Rust diliyle geliştirilen bu araç, ağ kesintilerine karşı dayanıklı ve doğrudan veri aktarımı sağlayan bir altyapı sunar.
 
-- ★ 12.610
+- ★ 12.781
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 12.610 → 12.781, son sürüm v1.4.0 (20 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 12.490 → 12.610, son sürüm v1.3.0 (28 Eylül 2026).
 - **12 Eylül 2026:** Yıldız 12.327 → 12.490, son sürüm v1.2.0 (11 Eylül 2026).
 - **27 Ağustos 2026:** Yıldız 11.957 → 12.327, son sürüm v1.1.0 (25 Ağustos 2026).
-- **2 Ağustos 2026:** Yıldız 9.418 → 11.957, son sürüm v1.0.3 (20 Temmuz 2026).
 
 ## Ne kazandırır?
 
@@ -54,6 +54,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Iroh kütüphanesini kullanarak anahtar tabanlı bir ağ bağlantısı kurmak istiyorum. Rust dilinde bir uç nokta oluşturup, başka bir uç noktaya genel anahtar üzerinden nasıl bağlanabileceğimi ve QUIC protokolü ile güvenli veri akışını nasıl başlatabileceğimi gösteren temel bir örnek kod yapısı oluşturur musun?
 
+Depo: https://github.com/n0-computer/iroh. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Doğrudan ve kesintisiz ağ bağlantıları kurmak isteyen Rust geliştiricileri için tasarlanmıştır.
 - **Lisans:** Apache-2.0
 
@@ -61,7 +69,7 @@ Iroh kütüphanesini kullanarak anahtar tabanlı bir ağ bağlantısı kurmak is
 
 - [GitHub deposu →](https://github.com/n0-computer/iroh)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -73,7 +73,7 @@ At least once a year, and again after major changes. On the model side, it is do
 
 - [G0DM0D3](https://trescout.com/en/discover/g0dm0d3/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/red-teaming/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/red-teaming/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/red-teaming/

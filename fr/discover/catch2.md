@@ -37,6 +37,7 @@ Catch2 est structuré comme une bibliothèque. Pour commencer, vous pouvez appre
 - [BDD](https://trescout.com/fr/dictionary/bdd/)
 - [Unit Testing](https://trescout.com/fr/dictionary/unit-testing/)
 - [TDD](https://trescout.com/fr/dictionary/tdd/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Développeurs de logiciels qui souhaitent appliquer des pratiques de développement basées sur les tests et basées sur le comportement dans des projets C++.
 - **Licence:** BSL-1.0
@@ -46,7 +47,7 @@ Catch2 est structuré comme une bibliothèque. Pour commencer, vous pouvez appre
 - [Dépôt GitHub →](https://github.com/catchorg/Catch2)
 - [Lire en turc →](https://trescout.com/discover/catch2/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-11 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-11 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/catch2/

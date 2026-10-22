@@ -42,7 +42,7 @@ Porque es necesario garantizar la seguridad de los datos y realizar cálculos co
 - [Firebase Ios SDK](https://trescout.com/es/discover/firebase-ios-sdk/)
 - [RLM](https://trescout.com/es/discover/rlm/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/backend/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/backend/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/backend/

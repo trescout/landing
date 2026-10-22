@@ -2,17 +2,17 @@
 
 Chatwoot is an open source platform that offers live chat, email support and omni-channel desk management. Developed as an alternative to commercial software such as Intercom and Zendesk, this tool allows you to manage customer interactions from a single center.
 
-- ★ 36,927
+- ★ 38,048
 - GitHub Trending · 2026-06-12
 
 **TreScout note:** It collects messages from customers on a single screen: Site chat, e-mail, WhatsApp. Ready-made services that do the same job charge a monthly fee per person, but since it runs on your own server, there is no such fee, in return the server and maintenance become your job. Its installation is not monolithic, requires several utilities, and has difficulty with the cheapest server packages.
 
 ## Updates
 
+- **October 21, 2026:** Stars 36,927 → 38,048, latest release v4.19.0 (October 20, 2026).
 - **September 18, 2026:** Stars 36,253 → 36,927, latest release v4.18.0 (September 18, 2026).
 - **August 27, 2026:** Stars 36,001 → 36,253, latest release v4.17.1 (August 27, 2026).
 - **August 20, 2026:** Stars 35,290 → 36,001, latest release v4.17.0 (August 20, 2026).
-- **August 1, 2026:** Stars 30,493 → 35,290, latest release v4.16.2 (July 27, 2026).
 
 ## What you get
 
@@ -54,6 +54,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Answer questions by pretending to be a customer support representative. As the Captain AI assistant on Chatwoot, automatically resolve frequently asked questions and direct complex issues to relevant teammates. Improve customer support experience by always providing courteous, prompt and accurate information.
 
+Repository: https://github.com/chatwoot/chatwoot. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Omni-channel Desk](https://trescout.com/en/dictionary/omni-channel-desk/)
@@ -69,7 +77,7 @@ Answer questions by pretending to be a customer support representative. As the C
 - [GitHub repository →](https://github.com/chatwoot/chatwoot)
 - [Read in Turkish →](https://trescout.com/discover/chatwoot/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/chatwoot/

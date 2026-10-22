@@ -34,7 +34,7 @@ Because he focuses only on small steps forward, he cannot accept the temporary d
 - [Algorithmic Trading](https://trescout.com/en/dictionary/algorithmic-trading/)
 - [Agentic Workflows](https://trescout.com/en/dictionary/agentic-workflows/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/hill-climbing/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/hill-climbing/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/hill-climbing/

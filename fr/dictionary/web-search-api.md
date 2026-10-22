@@ -40,7 +40,7 @@ Un quota d'utilisation gratuite spécifique est généralement proposé. Cependa
 - [AI Agent](https://trescout.com/fr/dictionary/ai-agent/)
 - [Knowledge Graph](https://trescout.com/fr/dictionary/knowledge-graph/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/web-search-api/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/web-search-api/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/web-search-api/

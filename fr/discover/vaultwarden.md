@@ -38,6 +38,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi à installer Vaultwarden, un outil qui permet de gérer les mots de passe sur mon propre serveur. Cet outil est un logiciel serveur compatible avec les clients Bitwarden. Puisque je vais installer à l'aide de Docker, expliquez étape par étape comment configurer les commandes d'image à extraire et à exécuter, en montant un volume pour conserver mes données et en tenant compte des exigences HTTPS.
 
+Dépôt : https://github.com/dani-garcia/vaultwarden. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Rust](https://trescout.com/fr/dictionary/rust/)
@@ -51,7 +59,7 @@ Aidez-moi à installer Vaultwarden, un outil qui permet de gérer les mots de pa
 - [Dépôt GitHub →](https://github.com/dani-garcia/vaultwarden)
 - [Lire en turc →](https://trescout.com/discover/vaultwarden/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-24 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-24 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/vaultwarden/

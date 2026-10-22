@@ -57,6 +57,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Tolaria masaüstü uygulamasını kullanarak Markdown tabanlı bilgi tabanımı nasıl yapılandırabilirim? Uygulamanın Git tabanlı yapısını, çevrimdışı çalışma prensibini ve yapay zekâ ajanlarıyla uyumlu çalışma özelliklerini kullanarak notlarımı nasıl organize edeceğimi, standart Markdown dosyalarımı nasıl yöneteceğimi ve klavye odaklı komut paletinden nasıl verim alacağımı adım adım açıkla.
 
+Depo: https://github.com/refactoringhq/tolaria. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kişisel bilgi yönetimini Markdown dosyaları ve Git sürüm kontrolü ile yerel, çevrimdışı ve özgür bir sistemde tutmak isteyen kullanıcılar içindir.
 - **Lisans:** AGPL-3.0
 
@@ -64,7 +72,7 @@ Tolaria masaüstü uygulamasını kullanarak Markdown tabanlı bilgi tabanımı 
 
 - [GitHub deposu →](https://github.com/refactoringhq/tolaria)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

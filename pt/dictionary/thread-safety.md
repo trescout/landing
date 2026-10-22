@@ -69,7 +69,7 @@ Não. Em código de thread único (single-threaded), os bloqueios trazem sobreca
 - [Concurrency](https://trescout.com/pt/dictionary/concurrency/)
 - [System Programming Language](https://trescout.com/pt/dictionary/system-programming-language/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/thread-safety/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/thread-safety/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/thread-safety/

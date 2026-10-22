@@ -38,7 +38,7 @@ Generalmente se considera más seguro en términos de privacidad porque los dato
 - [Physical AI](https://trescout.com/es/dictionary/physical-ai/)
 - [Autonomous Robotics](https://trescout.com/es/dictionary/autonomous-robotics/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/edge-computing/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/edge-computing/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/edge-computing/

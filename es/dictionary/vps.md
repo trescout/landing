@@ -74,7 +74,7 @@ Se recomienda la función de instantánea del proveedor más la regla de copia d
 
 - [DeskcommCRM](https://trescout.com/es/discover/deskcommcrm/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/vps/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/vps/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/vps/

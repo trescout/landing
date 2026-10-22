@@ -40,7 +40,7 @@ Depending on the system architecture and settings, this data is stored on your l
 - [Hindsight](https://trescout.com/en/discover/hindsight/)
 - [Hivemind](https://trescout.com/en/discover/hivemind/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/memory-layer/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/memory-layer/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/memory-layer/

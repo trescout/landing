@@ -45,6 +45,7 @@ Pour commencer à utiliser Apache Cassandra, visitez la page de téléchargement
 - [Linear Scalability](https://trescout.com/fr/dictionary/linear-scalability/)
 - [Distributed](https://trescout.com/fr/dictionary/distributed/)
 - [Database](https://trescout.com/fr/dictionary/database/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels et aux architectes système qui souhaitent gérer des données à grande échelle et à haute disponibilité.
 - **Licence:** Apache-2.0
@@ -54,7 +55,7 @@ Pour commencer à utiliser Apache Cassandra, visitez la page de téléchargement
 - [Dépôt GitHub →](https://github.com/apache/cassandra)
 - [Lire en turc →](https://trescout.com/discover/cassandra/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/cassandra/

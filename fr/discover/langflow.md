@@ -2,7 +2,7 @@
 
 Langflow est une plate-forme de développement basée sur Python qui offre une interface visuelle pour créer des agents et des flux de travail basés sur l'IA. Les utilisateurs peuvent concevoir et déployer des applications de modèle de langage complexes par glisser-déposer sans écrire de code.
 
-- ★ 155 615
+- ★ 155 880
 - Python
 - GitHub Trending · 2026-07-03
 
@@ -10,10 +10,10 @@ Langflow est une plate-forme de développement basée sur Python qui offre une i
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 155,615 → 155,880, dernière version v1.12.7 (21 octobre 2026).
 - **13 octobre 2026:** Étoiles 155,555 → 155,615, dernière version v1.12.6 (13 octobre 2026).
 - **7 octobre 2026:** Étoiles 155,378 → 155,555, dernière version v1.12.5 (6 octobre 2026).
 - **29 septembre 2026:** Étoiles 155,285 → 155,378, dernière version v1.12.4 (29 septembre 2026).
-- **27 septembre 2026:** Étoiles 154,873 → 155,285, dernière version v1.12.3 (22 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -43,6 +43,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer un agent d'intelligence artificielle en utilisant Langflow. Guidez-moi dans la conception d'un flux de modèle de langage de base à l'aide de l'interface visuelle. Expliquez étape par étape quels composants je dois faire glisser, comment connecter ces composants entre eux et comment exporter le flux que j'ai créé en tant qu'API.
 
+Dépôt : https://github.com/langflow-ai/langflow. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
@@ -57,7 +65,7 @@ Je souhaite créer un agent d'intelligence artificielle en utilisant Langflow. G
 - [Dépôt GitHub →](https://github.com/langflow-ai/langflow)
 - [Lire en turc →](https://trescout.com/discover/langflow/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/langflow/

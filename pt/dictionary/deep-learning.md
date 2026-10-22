@@ -34,7 +34,7 @@ Esse nome foi dado porque são utilizadas redes neurais com muitas camadas.
 - [AI Models](https://trescout.com/pt/dictionary/ai-models/)
 - [Transformer](https://trescout.com/pt/dictionary/transformer/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/deep-learning/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/deep-learning/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/deep-learning/

@@ -41,7 +41,7 @@ The system realizes that you have defined the wrong state and usually reverts ba
 
 - [Argo Cd](https://trescout.com/en/discover/argo-cd/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/declarative-continuous-deployment/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/declarative-continuous-deployment/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/declarative-continuous-deployment/

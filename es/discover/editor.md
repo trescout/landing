@@ -41,6 +41,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear una escena arquitectónica usando Pascal Editor. Ayúdame a construir una estructura 3D básica usando los paquetes @pascal-app/core y @pascal-app/viewer incluidos en la arquitectura del proyecto. Explíqueme paso a paso cómo configurar los enlaces useScene y useViewer para administrar el estado de la escena, definir la jerarquía de nodos (sitio, edificio, nivel) e integrar un componente NodeRenderer en la escena.
 
+Repositorio: https://github.com/pascalorg/editor. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Editor](https://trescout.com/es/dictionary/editor/)
@@ -54,7 +62,7 @@ Quiero crear una escena arquitectónica usando Pascal Editor. Ayúdame a constru
 - [Repositorio en GitHub →](https://github.com/pascalorg/editor)
 - [Leer en turco →](https://trescout.com/discover/editor/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-29: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-29: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/editor/

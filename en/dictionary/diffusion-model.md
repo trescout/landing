@@ -38,7 +38,7 @@ Building the image step by step requires intense processing power as it requires
 - [Multimodal](https://trescout.com/en/dictionary/multimodal/)
 - [Text-to-Speech](https://trescout.com/en/dictionary/text-to-speech/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/diffusion-model/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/diffusion-model/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/diffusion-model/

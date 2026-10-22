@@ -33,6 +33,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Usando o agente de inteligência artificial na interface de edição de páginas, crie nós editáveis que atendam aos critérios de design especificados, tenham uma estrutura HTML semântica e sejam formatados com CSS. Permita que o agente se integre com modelos como Claude, OpenAI ou OpenRouter para construir automaticamente a estrutura da página e os componentes de conteúdo.
 
+Repositório: https://github.com/CoreBunch/Instatic. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [CMS](https://trescout.com/pt/dictionary/cms/)
@@ -47,7 +55,7 @@ Usando o agente de inteligência artificial na interface de edição de páginas
 - [Repositório no GitHub →](https://github.com/CoreBunch/Instatic)
 - [Ler em turco →](https://trescout.com/discover/instatic/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-01: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-01: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/instatic/

@@ -72,7 +72,7 @@ When searching for synonyms and concepts. If the keyword cannot be found, vector
 
 - [Karakeep](https://trescout.com/en/discover/karakeep/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/full-text-search/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/full-text-search/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/full-text-search/

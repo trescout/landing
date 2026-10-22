@@ -2,16 +2,16 @@
 
 As imagens de executor (runner images) do GitHub Actions hospedam os ambientes de máquinas virtuais usados pela plataforma GitHub Actions, que automatiza os processos de desenvolvimento de software. Essas imagens fornecem sistemas operacionais e conjuntos de ferramentas pré-configurados necessários nos processos de teste e implantação de software.
 
-- ★ 13.481
+- ★ 13.508
 - PowerShell
 - GitHub Trending · 2026-09-27
 
 ## Atualizações
 
+- **21 de outubro de 2026:** Estrelas 13,481 → 13,508, versão mais recente ubuntu-slim/20261018.28 (19 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 13,480 → 13,481, versão mais recente win25/20261013.288 (14 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 13,457 → 13,480, versão mais recente ubuntu-slim/20261012.23 (13 de outubro de 2026).
 - **10 de outubro de 2026:** Estrelas 13,448 → 13,457, versão mais recente win25/20261004.281 (7 de outubro de 2026).
-- **9 de outubro de 2026:** Estrelas 13,445 → 13,448, versão mais recente ubuntu-slim/20261005.17 (6 de outubro de 2026).
 
 ## O que você ganha
 
@@ -26,6 +26,7 @@ Para criar uma máquina virtual para esta ferramenta, você pode analisar as dir
 ## Termos relacionados do glossário
 
 - [Runner Images](https://trescout.com/pt/dictionary/runner-images/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Adequado para desenvolvedores que automatizam processos de teste e implantação de software.
 - **Licença:** MIT
@@ -35,7 +36,7 @@ Para criar uma máquina virtual para esta ferramenta, você pode analisar as dir
 - [Repositório no GitHub →](https://github.com/actions/runner-images)
 - [Ler em turco →](https://trescout.com/discover/runner-images/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-27: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-27: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/runner-images/

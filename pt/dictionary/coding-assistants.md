@@ -42,7 +42,7 @@ Como eles enviam seu código para a nuvem, você deve ter cuidado para não comp
 
 - [Graphify](https://trescout.com/pt/discover/graphify/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/coding-assistants/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/coding-assistants/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/coding-assistants/

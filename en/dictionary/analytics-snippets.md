@@ -38,7 +38,7 @@ Site owners want to provide a better experience by measuring what users like and
 - [User Identifiers](https://trescout.com/en/dictionary/user-identifiers/)
 - [Logs](https://trescout.com/en/dictionary/logs/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/analytics-snippets/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/analytics-snippets/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/analytics-snippets/

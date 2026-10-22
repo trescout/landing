@@ -2,16 +2,16 @@
 
 Desenvolvido para tornar a saída dos agentes de codificação mais focada e organizada, o i-have-adhd melhora a experiência do usuário ao dividir respostas complexas em partes. Essa habilidade baseada em Python padroniza a apresentação de informações pela IA em um formato amigável para transtorno de déficit de atenção e hiperatividade (TDAH).
 
-- ★ 56.851
+- ★ 57.916
 - Python
 - GitHub Trending · 2026-07-22
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 56,851 → 57,916, versão mais recente v0.4.1 (19 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 54,097 → 56,851.
 - **6 de outubro de 2026:** Estrelas 51,395 → 54,097.
 - **27 de setembro de 2026:** Estrelas 47,151 → 51,395.
-- **17 de setembro de 2026:** Estrelas 44,840 → 47,151.
 
 ## O que você ganha
 
@@ -37,7 +37,7 @@ As etapas de instalação variam dependendo da ferramenta de codificação que v
 - [Repositório no GitHub →](https://github.com/ayghri/i-have-adhd)
 - [Ler em turco →](https://trescout.com/discover/i-have-adhd/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-22: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-22: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/i-have-adhd/

@@ -2,16 +2,16 @@
 
 Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri sentezleyen bir yapay zekâ yeteneği (AI agent skill) sunuyor. Python tabanlı bu araç, farklı kaynaklardan elde edilen bilgileri birleştirerek kullanıcılar için doğrulanabilir özetler oluşturuyor.
 
-- ★ 63.987
+- ★ 64.923
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 63.987 → 64.923, son sürüm v3.28.1 (20 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 63.877 → 63.987, son sürüm v3.28.0 (11 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 63.734 → 63.877, son sürüm v3.27.2 (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 63.292 → 63.734, son sürüm v3.27.1 (8 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 62.319 → 63.292, son sürüm v3.26.0 (1 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yapay zekâ ajanısın. Last30days-skill aracını kullanarak [ARANACAK KONU VEYA KİŞİ] hakkında son 30 güne ait Reddit, X, YouTube, Hacker News ve Polymarket verilerini tara. Bu kaynaklardaki etkileşimleri, gerçek zamanlı verileri ve topluluk görüşlerini sentezleyerek bana kısa, somut ve doğrulanabilir bir özet sun.
 
+Depo: https://github.com/mvanhorn/last30days-skill. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Güncel olaylar, kişi araştırmaları veya pazar trendleri hakkında sosyal platformlardaki gerçek zamanlı verileri hızlıca sentezlemek isteyen herkes için uygundur.
 - **Lisans:** MIT
 
@@ -40,7 +48,7 @@ Sen bir yapay zekâ ajanısın. Last30days-skill aracını kullanarak [ARANACAK 
 
 - [GitHub deposu →](https://github.com/mvanhorn/last30days-skill)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

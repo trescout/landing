@@ -57,6 +57,7 @@ Para começar a usar o Terraform, você pode visitar as páginas de documentaç�
 
 - [Infrastructure as Code](https://trescout.com/pt/dictionary/infrastructure-as-code/)
 - [API](https://trescout.com/pt/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a administradores de sistemas e desenvolvedores de software que desejam automatizar processos de infraestrutura e gerenciá-los por meio de código.
 
@@ -65,7 +66,7 @@ Para começar a usar o Terraform, você pode visitar as páginas de documentaç�
 - [Repositório no GitHub →](https://github.com/hashicorp/terraform)
 - [Ler em turco →](https://trescout.com/discover/terraform/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-11: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-11: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/terraform/

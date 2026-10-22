@@ -41,6 +41,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 A partir de ahora, quiero que actúes como un experto en pruebas de penetración. Analiza las vulnerabilidades utilizando las metodologías de los archivos de habilidades que comparto, evalúa las superficies de ataque y guíame en mis investigaciones de ciberseguridad.
 
+Repositorio: https://github.com/SnailSploit/Claude-Red. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Offensive Security Skills](https://trescout.com/es/dictionary/offensive-security-skills/)
@@ -55,7 +63,7 @@ A partir de ahora, quiero que actúes como un experto en pruebas de penetración
 - [Repositorio en GitHub →](https://github.com/SnailSploit/Claude-Red)
 - [Leer en turco →](https://trescout.com/discover/claude-red/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-13: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-13: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/claude-red/

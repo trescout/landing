@@ -2,16 +2,16 @@
 
 Unciv, Civilization V oyununun açık kaynak kodlu, minimalist ve çapraz platformlu bir masaüstü ve Android uyarlamasıdır. Kotlin ve LibGDX altyapısıyla geliştirilen proje, orijinal 4X strateji mekaniklerini sıfır donanım yükü ve yüksek mod desteğiyle sunar.
 
-- ★ 11.433
+- ★ 11.464
 - Kotlin
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 11.458 → 11.464, son sürüm 4.22.12 (18 Ekim 2026).
+- **18 Ekim 2026:** Yıldız 11.452 → 11.458, son sürüm 4.22.11-patch1 (17 Ekim 2026).
+- **17 Ekim 2026:** Yıldız 11.433 → 11.452, son sürüm 4.22.11 (16 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 11.429 → 11.433, son sürüm 4.22.10 (13 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 11.403 → 11.429, son sürüm 4.22.9 (12 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 11.394 → 11.403, son sürüm 4.22.8 (8 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 11.379 → 11.394, son sürüm 4.22.7 (5 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -53,6 +53,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Unciv oyunu için geçerli bir JSON mod yapısı hazırlamak istiyorum. Lider yeteneği olarak bilim ve kültür üretimine bonus veren, özel bir süvari birimi ve özel bir kütüphane binası içeren örnek bir Unciv mod şablonu oluşturur musun? Hangi JSON dosyalarını hangi klasör yapısında kaydetmem gerektiğini ve oyun içi Mod Manager arayüzünden bunu nasıl test edebileceğimi adım adım açıklar mısın?
 
+Depo: https://github.com/yairm210/Unciv. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Klasik 4X strateji oyunlarını hafif, reklamsız ve açık kaynaklı bir altyapıda deneyimlemek isteyen oyuncular ve bağımsız mod geliştiricileri içindir.
 - **Lisans:** MPL-2.0 (Mozilla Public License 2.0)
 - **Oyun Motoru:** LibGDX (Kotlin tabanlı çapraz platform)
@@ -69,7 +77,7 @@ Unciv oyunu için geçerli bir JSON mod yapısı hazırlamak istiyorum. Lider ye
 
 - [GitHub deposu →](https://github.com/yairm210/Unciv)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

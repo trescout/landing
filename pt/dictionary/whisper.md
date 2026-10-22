@@ -73,7 +73,7 @@ O modelo pequeno roda com CPU, o modelo grande exige GPU.
 - [Openwhispr](https://trescout.com/pt/discover/openwhispr/)
 - [ODS](https://trescout.com/pt/discover/ods/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/whisper/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/whisper/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/whisper/

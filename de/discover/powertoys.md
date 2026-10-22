@@ -2,13 +2,14 @@
 
 Microsoft PowerToys ist eine Sammlung von Dienstprogrammen, die zur Steigerung der Produktivität und Anpassung im Windows-Betriebssystem entwickelt wurden. Es bietet Benutzern erweiterte Anpassungstools und Workflow-Optimierungen im System.
 
-- ★ 138.154
+- ★ 139.524
 - GitHub Trending · 2026-06-13
 
 **Hinweis von TreScout:** Es handelt sich nicht um ein einzelnes Programm, sondern um eine Reihe kleiner Tools, die zu Windows hinzugefügt werden. Die meisten Leute installieren es für zwei Personen: ein Tool, das Fenster auf dem Bildschirm in einem Rastermuster anordnet, und Schnellwahl über die Tastatur. Für die Installation auf einem Firmencomputer ist möglicherweise eine Administratorberechtigung erforderlich.
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 138,154 → 139,524, neueste Version v0.102.2933.0 (21. Oktober 2026).
 - **27. August 2026:** Sterne 137,392 → 138,154, neueste Version v0.101.2362.0 (25. August 2026).
 - **2. August 2026:** Sterne 134,431 → 137,392, neueste Version v0.100.2 (26. Juni 2026).
 
@@ -34,6 +35,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich verwende die PowerToys-Dienstprogrammsammlung, um meine Produktivität auf dem Windows-Betriebssystem zu steigern. Zeigen Sie mir, welche Tools meinen Arbeitsablauf optimieren können, und erklären Sie mir, welches Dienstprogramm ich zur Erledigung bestimmter Aufgaben verwenden sollte.
 
+Repository: https://github.com/microsoft/PowerToys. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
@@ -46,7 +55,7 @@ Ich verwende die PowerToys-Dienstprogrammsammlung, um meine Produktivität auf d
 - [GitHub-Repository →](https://github.com/microsoft/PowerToys)
 - [Auf Türkisch lesen →](https://trescout.com/discover/powertoys/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-13 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-13 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/powertoys/

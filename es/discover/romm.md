@@ -44,6 +44,7 @@ Para iniciar la instalación, debe visitar la Guía de inicio rápido en la pág
 ## Términos relacionados del glosario
 
 - [ROM](https://trescout.com/es/dictionary/rom/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para entusiastas de los juegos retro que desean administrar su colección de juegos con una interfaz ordenada y jugar rápidamente a través del navegador.
 - **Licencia:** AGPL-3.0
@@ -53,7 +54,7 @@ Para iniciar la instalación, debe visitar la Guía de inicio rápido en la pág
 - [Repositorio en GitHub →](https://github.com/rommapp/romm)
 - [Leer en turco →](https://trescout.com/discover/romm/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-04: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-04: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/romm/

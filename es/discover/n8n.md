@@ -2,15 +2,15 @@
 
 n8n combina un canvas visual, código personalizado, agentes de IA y workflows en una plataforma de automatización fair-code. Admite despliegues autoalojados o en la nube y puede incluir distintos proveedores de modelos en los workflows.
 
-- ★ 207.612
+- ★ 208.197
 - GitHub Trending · 2026-08-23
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 208,109 → 208,197, última versión n8n@2.44.5 (21 de octubre de 2026).
+- **20 de octubre de 2026:** Estrellas 207,983 → 208,109, última versión n8n@2.44.4 (19 de octubre de 2026).
+- **19 de octubre de 2026:** Estrellas 207,612 → 207,983, última versión n8n@2.43.8 (19 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 207,437 → 207,612, última versión n8n@2.43.7 (16 de octubre de 2026).
-- **15 de octubre de 2026:** Estrellas 207,332 → 207,437, última versión n8n@2.43.6 (15 de octubre de 2026).
-- **14 de octubre de 2026:** Estrellas 207,216 → 207,332, última versión n8n@2.43.5 (14 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 207,074 → 207,216, última versión n8n@2.43.4 (12 de octubre de 2026).
 
 ## Instalación
 
@@ -79,7 +79,7 @@ Ayúdame a diseñar en el canvas visual un workflow que reciba una entrada, la p
 - [Repositorio de documentación de n8n →](https://github.com/n8n-io/n8n-docs)
 - [Leer en turco →](https://trescout.com/discover/n8n/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-23: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-23: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/n8n/

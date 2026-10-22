@@ -38,7 +38,7 @@ Através de treinamento contínuo, análise atualizada de ameaças e uso de ferr
 - [Vulnerability Scanning](https://trescout.com/pt/dictionary/vulnerability-scanning/)
 - [Penetration Testing](https://trescout.com/pt/dictionary/penetration-testing/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cyber-capabilities/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cyber-capabilities/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cyber-capabilities/

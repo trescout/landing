@@ -38,7 +38,7 @@ Geralmente requer uma placa gráfica poderosa ou hardware de servidor de alta ca
 - [Self-hosting](https://trescout.com/pt/dictionary/self-hosting/)
 - [Fine-tuning](https://trescout.com/pt/dictionary/fine-tuning/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/open-weights/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/open-weights/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/open-weights/

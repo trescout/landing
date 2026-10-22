@@ -2,16 +2,16 @@
 
 Code-graph-rag, büyük kod depolarındaki (monorepo) karmaşık yapıları anlamak ve sorgulamak için bilgi grafikleri (knowledge graphs) ile getirme destekli üretim (RAG) yöntemini birleştiriyor. Geliştiricilerin farklı dillerdeki kod tabanlarını yapay zekâ yardımıyla analiz etmelerine ve düzenlemelerine olanak tanıyor.
 
-- ★ 5.259
+- ★ 5.264
 - Python
 - GitHub Trending · 2026-08-10
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 5.259 → 5.264, son sürüm v0.2.10 (18 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 5.189 → 5.259, son sürüm v0.2.0 (15 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 5.180 → 5.189, son sürüm v0.1.38 (29 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 5.146 → 5.180, son sürüm v0.0.996 (26 Eylül 2026).
-- **17 Eylül 2026:** Yıldız 5.113 → 5.146, son sürüm v0.0.945 (16 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -53,6 +53,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Code-Graph-RAG aracını kullanarak kod depomu analiz et. Kod tabanındaki fonksiyonlar, sınıflar ve modüller arasındaki ilişkileri kullanarak sorduğum sorulara yanıt ver. Kod üzerinde yapmam gereken değişiklikleri veya optimizasyonları, aracın sağladığı yapısal analiz yeteneklerini kullanarak öner.
 
+Depo: https://github.com/vitali87/code-graph-rag. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Büyük ve karmaşık kod depolarındaki yapısal ilişkileri anlamak, sorgulamak ve yapay zekâ yardımıyla güvenli değişiklikler yapmak isteyen yazılımcılar içindir.
 - **Lisans:** MIT
 
@@ -60,7 +68,7 @@ Code-Graph-RAG aracını kullanarak kod depomu analiz et. Kod tabanındaki fonks
 
 - [GitHub deposu →](https://github.com/vitali87/code-graph-rag)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

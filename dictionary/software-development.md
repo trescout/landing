@@ -44,7 +44,7 @@ Hayır, yazılımların güncel kalması ve yeni hataların düzeltilmesi için 
 - [Modern Software Dev Assignments](https://trescout.com/discover/modern-software-dev-assignments/)
 - [U3 SDK](https://trescout.com/discover/u3-sdk/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/software-development/

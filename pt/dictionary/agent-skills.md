@@ -76,7 +76,7 @@ Sim. As plataformas empacotam habilidades comuns; para trabalhos específicos, v
 - [Claude Obsidian](https://trescout.com/pt/discover/claude-obsidian/)
 - [Stitch Skills](https://trescout.com/pt/discover/stitch-skills/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-skills/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-skills/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agent-skills/

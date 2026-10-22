@@ -37,6 +37,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenCode aracını kullanarak mevcut yazılım projemdeki kodları analiz etmeni ve geliştirme süreçlerini otomatikleştirmene yardımcı olmanı istiyorum. Çalışma sırasında build ajanını kullanarak tam erişimle geliştirme yapabilir veya plan ajanını kullanarak kodları inceleyip değişiklikleri planlayabilirsin. Karmaşık arama veya çok adımlı görevler için @general komutunu kullanmanı bekliyorum.
 
+Depo: https://github.com/anomalyco/opencode. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yazılım geliştirme süreçlerini otomatikleştirmek isteyen geliştiriciler için uygundur.
 - **Lisans:** MIT
 
@@ -44,7 +52,7 @@ OpenCode aracını kullanarak mevcut yazılım projemdeki kodları analiz etmeni
 
 - [GitHub deposu →](https://github.com/anomalyco/opencode)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

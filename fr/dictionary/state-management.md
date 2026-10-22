@@ -43,7 +43,7 @@ Il est préférable de garantir que les données restent à jour partout en mêm
 
 - [Celld](https://trescout.com/fr/discover/celld/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/state-management/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/state-management/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/state-management/

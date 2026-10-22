@@ -62,7 +62,7 @@ Yes. Constant listening has a cost, it is turned on when needed.
 - [Speech-to-Text](https://trescout.com/en/dictionary/speech-to-text/)
 - [Local](https://trescout.com/en/dictionary/local/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/on-device-stt/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/on-device-stt/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/on-device-stt/

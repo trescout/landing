@@ -2,15 +2,16 @@
 
 Worldmonitor oferece um painel de inteligência global em tempo real que combina compilação de notícias com tecnologia de IA e recursos de monitoramento geopolítico em uma única interface. Essa ferramenta, que fornece monitoramento da infraestrutura e consciência situacional, facilita os processos de análise ao visualizar fluxos de dados complexos.
 
-- ★ 85.879
+- ★ 88.894
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 88,584 → 88,894, versão mais recente v2.11.2 (20 de outubro de 2026).
+- **17 de outubro de 2026:** Estrelas 85,879 → 88,584, versão mais recente v2.11.0 (16 de outubro de 2026).
 - **9 de setembro de 2026:** Estrelas 82,117 → 85,879, versão mais recente v2.10.0 (8 de setembro de 2026).
 - **15 de agosto de 2026:** Estrelas 78,032 → 82,117, versão mais recente v2.5.23 (1 de março de 2026).
-- **2 de agosto de 2026:** Estrelas 57,469 → 78,032, versão mais recente v2.5.23 (1 de março de 2026).
 
 ## O que você ganha
 
@@ -47,6 +48,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Deixe-me analisar feeds de notícias globais, desenvolvimentos geopolíticos e dados de infraestrutura usando a ferramenta Worldmonitor. Identifique correlações entre eventos militares, econômicos e ambientais sintetizando mais de 500 fontes de notícias. Desenvolva consciência situacional e oriente a visualização de fluxos de dados complexos usando dados como índice de instabilidade do país e sinais do mercado financeiro.
 
+Repositório: https://github.com/koala73/worldmonitor. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Global Intelligence Dashboard](https://trescout.com/pt/dictionary/global-intelligence-dashboard/)
@@ -61,7 +70,7 @@ Deixe-me analisar feeds de notícias globais, desenvolvimentos geopolíticos e d
 - [Repositório no GitHub →](https://github.com/koala73/worldmonitor)
 - [Ler em turco →](https://trescout.com/discover/worldmonitor/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-20: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-20: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/worldmonitor/

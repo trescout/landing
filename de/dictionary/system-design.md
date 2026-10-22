@@ -44,7 +44,7 @@ Ja, aber es ist sehr kostspielig und schwierig, die Architektur zu ändern, wenn
 - [System Design 101](https://trescout.com/de/discover/system-design-101/)
 - [System Design Notes](https://trescout.com/de/discover/system-design-notes/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/system-design/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/system-design/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/system-design/

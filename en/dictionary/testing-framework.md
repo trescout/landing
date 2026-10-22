@@ -68,7 +68,7 @@ It is determined by the team. The critical path is kept high and the edge is kep
 
 - [Pytest](https://trescout.com/en/discover/pytest/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/testing-framework/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/testing-framework/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/testing-framework/

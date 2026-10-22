@@ -2,15 +2,16 @@
 
 LiteLLM ist ein KI-Gateway (AI Gateway), das Schnittstellen von über 100 großen Sprachmodellen (LLMs) in einem einheitlichen Standardformat zusammenführt. Es bietet Softwareentwicklern Funktionen wie Kostenverfolgung, Lastverteilung und Guardrails, wodurch der Wechsel zwischen verschiedenen Modellanbietern erleichtert wird.
 
-- ★ 61.213
+- ★ 61.715
 - Python
 - GitHub Trending · 2026-10-09
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 61,706 → 61,715, neueste Version v1.107.0 (21. Oktober 2026).
+- **21. Oktober 2026:** Sterne 61,464 → 61,706, neueste Version v1.106.1 (20. Oktober 2026).
+- **18. Oktober 2026:** Sterne 61,213 → 61,464, neueste Version v1.106.0 (18. Oktober 2026).
 - **14. Oktober 2026:** Sterne 60,948 → 61,213, neueste Version v1.105.1 (14. Oktober 2026).
-- **11. Oktober 2026:** Sterne 60,449 → 60,948, neueste Version v1.105.0 (11. Oktober 2026).
-- **9. Oktober 2026:** Sterne 60,446 → 60,449, neueste Version v1.104.2 (8. Oktober 2026).
 
 ## Was es bringt
 
@@ -41,6 +42,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist ein Assistent für Softwareentwicklung. Wir möchten das Tool LiteLLM in unserem Projekt verwenden, um verschiedene KI-Modelle von einem zentralen Ort aus zu verwalten. Hilf mir zuerst, die Bibliothek zu installieren, indem ich den Befehl 'uv add litellm' im Terminal ausführe. Erkläre mir dann Schritt für Schritt, wie ich mit den Befehlen 'uv tool install 'litellm[proxy]'' und 'litellm --model gpt-4o' einen lokalen Gateway-Server für das große Sprachmodell gpt-4o starte und Modelle über diesen Server leite.
 
+Repository: https://github.com/BerriAI/litellm. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [AI Gateway](https://trescout.com/de/dictionary/ai-gateway/)
@@ -57,7 +66,7 @@ Du bist ein Assistent für Softwareentwicklung. Wir möchten das Tool LiteLLM in
 - [GitHub-Repository →](https://github.com/BerriAI/litellm)
 - [Auf Türkisch lesen →](https://trescout.com/discover/litellm/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-09 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-09 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/litellm/

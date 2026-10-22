@@ -2,16 +2,16 @@
 
 Cline, yazılım geliştirme süreçlerini otomatize eden otonom bir kodlama ajanıdır. IDE eklentisi, yazılım geliştirme kiti (SDK) veya komut satırı arayüzü (CLI) üzerinden çalışarak geliştiricilerin projelerine entegre olur.
 
-- ★ 70.397
+- ★ 70.444
 - TypeScript
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 70.397 → 70.444, son sürüm desktop-v0.0.48 (17 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 70.270 → 70.397, son sürüm desktop-v0.0.47 (16 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 70.018 → 70.270, son sürüm desktop-v0.0.46 (13 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 69.973 → 70.018, son sürüm desktop-v0.0.45 (8 Ekim 2026).
-- **7 Ekim 2026:** Yıldız 69.756 → 69.973, son sürüm v4.1.23 (7 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Projemin dosya yapısını analiz et, mevcut kod standartlarını ve .clinerules dosyasındaki kuralları dikkate alarak belirlediğim görevi yerine getir. Kod değişikliklerini yaparken hata denetimi yap, gerekli komutları terminal üzerinde çalıştır ve her adımda onayımı alarak ilerle.
 
+Depo: https://github.com/cline/cline. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Projelerinde otonom kodlama desteğine ihtiyaç duyan yazılım geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -54,7 +62,7 @@ Projemin dosya yapısını analiz et, mevcut kod standartlarını ve .clinerules
 
 - [GitHub deposu →](https://github.com/cline/cline)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

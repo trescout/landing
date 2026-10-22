@@ -36,7 +36,7 @@ Users stop using apps they find difficult, so good UX is essential for success.
 - [Design System](https://trescout.com/en/dictionary/design-system/)
 - [Generative UI](https://trescout.com/en/dictionary/generative-ui/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/user-experience/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/user-experience/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/user-experience/

@@ -1,0 +1,915 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-21",
+  "capturedAt": "2026-10-21T09:22:51.345Z",
+  "editorial": "Neue Frameworks, die die Inferenzleistung von KI-Modellen steigern, und Speicherarchitekturen, die langfristige Aufgaben verwalten, bilden heute die Hauptagenda der Entwickler-Community. DeepSeek-Updates und Berichte über Sicherheitslücken verdeutlichen die Entwicklung der Systeme sowohl in Bezug auf Kapazität als auch auf Verteidigung.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "MadsLorentzen/ai-job-search ist ein KI-Framework, das auf Claude Code läuft und den Arbeitssucheprozess automatisiert. Dieses Tool, das lokal auf den Computern der Benutzer ausgeführt wird, bewertet Stellenanzeigen, bearbeitet Lebensläufe, erstellt Anschreiben und unterstützt bei der Vorbereitung auf Vorstellungsgespräche.",
+          "meta": "Python · ★ 61.802 · +3.861 heute",
+          "snapshot": {
+            "sourceId": "MadsLorentzen/ai-job-search",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 61802,
+              "engagementCount": 3861,
+              "rank": 1,
+              "extra": {
+                "starsToday": 3861
+              }
+            },
+            "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+          }
+        },
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "Das von Cloudflare entwickelte security-audit-skill ist eine Coding-Agent-Fähigkeit, die für mehrstufige Sicherheitsüberprüfungen konzipiert wurde. Es zielt darauf ab, Sicherheitsprozesse durch die Bereitstellung maschinenlesbarer und unabhängig verifizierter Ergebnisse zu standardisieren.",
+          "meta": "JavaScript · ★ 34.892 · +1.712 heute",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 34892,
+              "engagementCount": 1712,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1712
+              }
+            },
+            "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+          }
+        },
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "stablyai/orca ist eine Plattform, mit der Sie verschiedene Coding-Agents wie Grok Bot oder Claude Code mit Ihren eigenen Abonnements ausführen können. Dieses Tool, das in Desktop-, Mobil- und Remote-Laufzeitumgebungen verwendet werden kann, ermöglicht es Ihnen, eine Flotte verschiedener Agenten von einem einzigen Zentrum aus zu verwalten.",
+          "meta": "TypeScript · ★ 100.349 · +1.565 heute",
+          "snapshot": {
+            "sourceId": "stablyai/orca",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 100349,
+              "engagementCount": 1565,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1565
+              }
+            },
+            "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+          }
+        },
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "DietrichGebert/ponytail ist ein JavaScript-Tool, das den Code-Schreibprozess von KI-Agenten minimiert und es ihnen ermöglicht, Lösungen mit dem geringstmöglichen Aufwand zu generieren. Dieser Ansatz, der darauf abzielt, unnötige Code-Produktion in Softwareentwicklungsprozessen zu vermeiden, versucht, wie ein fauler Senior-Entwickler zu agieren.",
+          "meta": "JavaScript · ★ 170.495 · +1.208 heute",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 170495,
+              "engagementCount": 1208,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1208
+              }
+            },
+            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+          }
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI ist eine modulare grafische Benutzeroberfläche und Anwendungsprogrammierschnittstelle (API), die eine knotenbasierte Oberfläche für Diffusionsmodelle bietet. Diese Software, die eine schnelle Inferenz in einer lokalen Umgebung durchführen kann, bietet eine flexible Infrastruktur zur Verwaltung von Bilderstellungsprozessen.",
+          "meta": "Python · ★ 141.114 · +1.206 heute",
+          "snapshot": {
+            "sourceId": "Comfy-Org/ComfyUI",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 141114,
+              "engagementCount": 1206,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1206
+              }
+            },
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+          }
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Das mit TypeScript entwickelte ruflo ist eine Agenten-Infrastruktur, die autonome Arbeitsabläufe koordiniert und die Erstellung von Multiplayer-KI-Schwärmen ermöglicht. Das System bietet Funktionen wie adaptiven Speicher, Selbstlernfähigkeit und RAG-Integration (Retrieval-Augmented Generation), eine Methode zur datengestützten Antwortgenerierung.",
+          "meta": "TypeScript · ★ 78.029 · +684 heute",
+          "snapshot": {
+            "sourceId": "ruvnet/ruflo",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 78029,
+              "engagementCount": 684,
+              "rank": 6,
+              "extra": {
+                "starsToday": 684
+              }
+            },
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+          }
+        },
+        {
+          "title": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "summary": "Graphify ist ein Tool, das Codebasen, Dokumente, SQL-Schemata und PDF-Dateien in einen abfragbaren Wissensgraphen umwandelt. Dieses System, das ohne Vektorspeicher mittels lokaler AST-Analyse (Abstract Syntax Tree Parsing) arbeitet, bietet ein Fähigkeitsset für Entwicklertools wie Claude Code, Cursor, Codex und Gemini CLI.",
+          "meta": "Python · ★ 130.762 · +802 heute",
+          "snapshot": {
+            "sourceId": "Graphify-Labs/graphify",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 130762,
+              "engagementCount": 802,
+              "rank": 7,
+              "extra": {
+                "starsToday": 802
+              }
+            },
+            "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+          }
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "anomalyco/opencode ist ein Open-Source-Coding-Agent, der Softwareentwicklungsprozesse automatisiert. Dieses mit der Sprache TypeScript entwickelte Tool zielt darauf ab, autonome Aufgaben in Softwareprojekten zu übernehmen.",
+          "meta": "TypeScript · ★ 219.461 · +1.240 heute",
+          "snapshot": {
+            "sourceId": "anomalyco/opencode",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 219461,
+              "engagementCount": 1240,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1240
+              }
+            },
+            "description": "The open source coding agent."
+          }
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "msitarzewski/agency-agents bietet ein Community-Management- und Entwicklungssystem, das aus personalisierten KI-Agenten mit unterschiedlichen Fachgebieten besteht. Das Projekt vereint spezialisierte Agenten, die verschiedene Aufgaben von Softwareentwicklungsprozessen bis hin zu Social-Media-Interaktionen ausführen, unter einem Dach.",
+          "meta": "Shell · ★ 162.672 · +562 heute",
+          "snapshot": {
+            "sourceId": "msitarzewski/agency-agents",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 162672,
+              "engagementCount": 562,
+              "rank": 9,
+              "extra": {
+                "starsToday": 562
+              }
+            },
+            "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+          }
+        },
+        {
+          "title": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "summary": "Headroom reduziert den Token-Verbrauch durch die Komprimierung von Tool-Ausgaben, Protokollen und RAG-Fragmenten (eine Methode, mit der KI Antworten generiert, indem sie Informationen aus Ihren aktuellen und privaten Daten abruft), die an große Sprachmodelle (LLMs) gesendet werden. Diese Python-basierte Bibliothek zielt darauf ab, Token für Coding-Agents und JSON-Daten zu sparen und gleichzeitig die Antwortqualität beizubehalten.",
+          "meta": "Python · ★ 76.935 · +549 heute",
+          "snapshot": {
+            "sourceId": "headroomlabs-ai/headroom",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 76935,
+              "engagementCount": 549,
+              "rank": 10,
+              "extra": {
+                "starsToday": 549
+              }
+            },
+            "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Die von Anthropic veröffentlichten knowledge-work-plugins bestehen aus Open-Source-Plugins, die für Wissensarbeiter zur Verwendung innerhalb von Claude Cowork konzipiert wurden. Dieses in Python entwickelte Repository bietet verschiedene Tools zur Unterstützung der Arbeitsabläufe der Benutzer.",
+          "meta": "Python · ★ 30.946 · +267 heute",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 30946,
+              "engagementCount": 267,
+              "rank": 11,
+              "extra": {
+                "starsToday": 267
+              }
+            },
+            "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+          }
+        },
+        {
+          "title": "wshobson/agents",
+          "url": "https://github.com/wshobson/agents",
+          "summary": "wshobson/agents ist ein Python-Projekt, das einen Multi-Plugin-Marktplatz für Coding-Assistenten wie Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity und Pi bietet. Es zielt darauf ab, die Nutzung agentischer Plugins für verschiedene KI-gestützte Entwicklungstools zu standardisieren.",
+          "meta": "Python · ★ 41.383 · +93 heute",
+          "snapshot": {
+            "sourceId": "wshobson/agents",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 41383,
+              "engagementCount": 93,
+              "rank": 12,
+              "extra": {
+                "starsToday": 93
+              }
+            },
+            "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi"
+          }
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, ein auf die Sprache der Finanzmärkte trainiertes Basismodell (Foundation Model), ist ein KI-Projekt, das entwickelt wurde, um Marktdaten zu interpretieren. Dieses in Python erstellte Modell ist für die Analyse von Finanztexten und Marktbewegungen konzipiert.",
+          "meta": "Python · ★ 42.532 · +733 heute",
+          "snapshot": {
+            "sourceId": "shiyu-coder/Kronos",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 42532,
+              "engagementCount": 733,
+              "rank": 13,
+              "extra": {
+                "starsToday": 733
+              }
+            },
+            "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+          }
+        },
+        {
+          "title": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "summary": "vllm-project/vllm ist eine Inferenz- und Serving-Engine für große Sprachmodelle (LLMs), die einen hohen Durchsatz und Speichereffizienz bietet. Dieses in Python entwickelte Tool zielt darauf ab, die Ausführungsprozesse von KI-Modellen zu beschleunigen.",
+          "meta": "Python · ★ 94.616 · +128 heute",
+          "snapshot": {
+            "sourceId": "vllm-project/vllm",
+            "capturedAt": "2026-10-21T09:22:52.924Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 94616,
+              "engagementCount": 128,
+              "rank": 14,
+              "extra": {
+                "starsToday": 128
+              }
+            },
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+          "url": "https://github.com/deepseek-ai/DeepInfer",
+          "summary": "DeepInfer ist ein Framework, das hochleistungsfähige Inferenzprozesse für DeepSeek-Modelle durchführt. Diese Technologie bietet eine Softwareinfrastruktur, die entwickelt wurde, um die Geschwindigkeit und Effizienz der Modelle zu steigern.",
+          "meta": "2.245 Punkte · 856 Kommentare",
+          "snapshot": {
+            "sourceId": "50163277",
+            "capturedAt": "2026-10-21T09:22:51.577Z",
+            "metadata": {
+              "popularity": 2245,
+              "engagementCount": 856,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50163277",
+                  "popularity": 2245,
+                  "engagementCount": 856
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-20T09:08:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50163277"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50163277",
+              "popularity": 2245,
+              "engagementCount": 856
+            }
+          ]
+        },
+        {
+          "title": "eMudhra intermediate CA compromise",
+          "url": "https://emudhra.we-have-a-problem.com/",
+          "summary": "Eine Sicherheitsverletzung in den Systemen der Zwischenzertifizierungsstelle (Intermediate CA) von eMudhra gefährdet die Zuverlässigkeit digitaler Zertifikate. Mozilla ergreift technische Maßnahmen zum Schutz der Browsersicherheit, um die Auswirkungen dieser Situation zu begrenzen.",
+          "meta": "925 Punkte · 394 Kommentare",
+          "snapshot": {
+            "sourceId": "50166579",
+            "capturedAt": "2026-10-21T09:22:51.577Z",
+            "metadata": {
+              "popularity": 925,
+              "engagementCount": 394,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50166579",
+                  "popularity": 925,
+                  "engagementCount": 394
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-20T13:58:33Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50166579"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;blog.mozilla.org&#x2F;security&#x2F;2026&#x2F;10&#x2F;20&#x2F;protecting-fire...https:&#x2F;&#x2F;bugzilla.mozilla.org&#x2F;show_bug.cgi?id=2083449"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50166579",
+              "popularity": 925,
+              "engagementCount": 394
+            }
+          ]
+        },
+        {
+          "title": "Show HN: SimCity, but with Permits",
+          "url": "https://permit.petercai.com/",
+          "summary": "SimCity, but with Permits ermöglicht es Spielern, sich in einer städtebaulichen Simulation ähnlich wie SimCity mit Baugenehmigungen und bürokratischen Prozessen auseinanderzusetzen. Es zielt darauf ab, den Nutzern durch die Einbeziehung administrativer Einschränkungen in die Stadtverwaltungssimulation eine andere Erfahrung zu bieten.",
+          "meta": "787 Punkte · 370 Kommentare",
+          "snapshot": {
+            "sourceId": "50170593",
+            "capturedAt": "2026-10-21T09:22:51.577Z",
+            "metadata": {
+              "popularity": 787,
+              "engagementCount": 370,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50170593",
+                  "popularity": 787,
+                  "engagementCount": 370
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-20T18:29:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50170593"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50170593",
+              "popularity": 787,
+              "engagementCount": 370
+            }
+          ]
+        },
+        {
+          "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+          "url": "https://news-web.php.net/php.announce/509",
+          "summary": "PHP bereitet die Veröffentlichung eines kritischen Updates vor, um die Sicherheitslücken CVE-2026-109618 und CVE-2026-109619 zu beheben. Nutzern wird empfohlen, die entsprechenden Sicherheitsankündigungen zu verfolgen, um ihre Systeme zu schützen.",
+          "meta": "767 Punkte · 300 Kommentare",
+          "snapshot": {
+            "sourceId": "50172041",
+            "capturedAt": "2026-10-21T09:22:51.577Z",
+            "metadata": {
+              "popularity": 767,
+              "engagementCount": 300,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50172041",
+                  "popularity": 767,
+                  "engagementCount": 300
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-20T20:15:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50172041"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;cert.europa.eu&#x2F;publications&#x2F;security-advisories&#x2F;2026...https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50167754"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50172041",
+              "popularity": 767,
+              "engagementCount": 300
+            }
+          ]
+        },
+        {
+          "title": "Voxtral 3",
+          "url": "https://mistral.ai/news/voxtral-3/",
+          "summary": "Voxtral 3, angekündigt von Mistral AI, ist ein neues KI-Modell, das sich auf Sprachinteraktionsfähigkeiten konzentriert. Diese Technologie, die es Benutzern ermöglicht, natürlicher über Sprachbefehle zu kommunizieren, zielt darauf ab, die Effizienz bei der Sprachverarbeitung zu steigern.",
+          "meta": "661 Punkte · 166 Kommentare",
+          "snapshot": {
+            "sourceId": "50168396",
+            "capturedAt": "2026-10-21T09:22:51.577Z",
+            "metadata": {
+              "popularity": 661,
+              "engagementCount": 166,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50168396",
+                  "popularity": 661,
+                  "engagementCount": 166
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-20T16:02:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50168396"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50168396",
+              "popularity": 661,
+              "engagementCount": 166
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Das auf Hugging Face geteilte deepseek-ai/DeepSeek-V4.1-Flash-1017 ist ein KI-Modell, das Bild- und Texteingaben verarbeitet, um Textausgaben zu generieren. Dieses Modell ermöglicht es Benutzern, verschiedene Datentypen mit seinen Bild-Text-zu-Text-Verarbeitungsfähigkeiten zu analysieren.",
+          "meta": "♥ 2.047 · 27.737 Downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-21T09:22:51.456Z",
+            "metadata": {
+              "popularity": 2047,
+              "engagementCount": 27737,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1830,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          }
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "Das von Black Forest Labs bereitgestellte black-forest-labs/flux-3-image-klein-comfy ist ein KI-Modell, das eine Bild-zu-Bild-Transformation ermöglicht. Dieses auf der Hugging Face-Plattform verfügbare Modell ist für den Einsatz in Bildverarbeitungsprozessen konzipiert.",
+          "meta": "♥ 1.119 · 439.528 Downloads",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-21T09:22:51.456Z",
+            "metadata": {
+              "popularity": 1119,
+              "engagementCount": 439528,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 844,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        },
+        {
+          "title": "fishaudio/drama-3",
+          "url": "https://huggingface.co/fishaudio/drama-3",
+          "summary": "Das auf Hugging Face geteilte fishaudio/drama-3 ist ein Text-zu-Sprache-Modell (Text-to-Speech), das Text in Sprache umwandelt. Es ermöglicht Benutzern, schriftliche Inhalte in eine Audioausgabe umzuwandeln.",
+          "meta": "♥ 855 · 13.495 Downloads",
+          "snapshot": {
+            "sourceId": "fishaudio/drama-3",
+            "capturedAt": "2026-10-21T09:22:51.456Z",
+            "metadata": {
+              "popularity": 855,
+              "engagementCount": 13495,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 631,
+                "pipelineTag": "text-to-speech",
+                "tags": [
+                  "safetensors",
+                  "fish_omni",
+                  "fish-audio",
+                  "text-to-speech",
+                  "multi-speaker",
+                  "audio-editing",
+                  "emotional-speech-generation",
+                  "zh",
+                  "en",
+                  "ja",
+                  "ko",
+                  "es",
+                  "pt",
+                  "ar",
+                  "ru",
+                  "fr",
+                  "de",
+                  "sv",
+                  "it",
+                  "tr",
+                  "no",
+                  "nl",
+                  "cy",
+                  "eu",
+                  "ca",
+                  "da",
+                  "gl",
+                  "ta",
+                  "hu",
+                  "fi",
+                  "pl",
+                  "et",
+                  "hi",
+                  "la",
+                  "ur",
+                  "th",
+                  "vi",
+                  "jw",
+                  "bn",
+                  "yo",
+                  "sl",
+                  "cs",
+                  "sw",
+                  "nn",
+                  "he",
+                  "ms",
+                  "uk",
+                  "id",
+                  "kk",
+                  "bg",
+                  "lv",
+                  "my",
+                  "tl",
+                  "sk",
+                  "ne",
+                  "fa",
+                  "af",
+                  "el",
+                  "bo",
+                  "hr",
+                  "ro",
+                  "sn",
+                  "mi",
+                  "yi",
+                  "am",
+                  "be",
+                  "km",
+                  "is",
+                  "az",
+                  "sd",
+                  "br",
+                  "sq",
+                  "ps",
+                  "mn",
+                  "ht",
+                  "ml",
+                  "sr",
+                  "sa",
+                  "te",
+                  "ka",
+                  "bs",
+                  "pa",
+                  "lt",
+                  "kn",
+                  "si",
+                  "hy",
+                  "mr",
+                  "as",
+                  "gu",
+                  "fo",
+                  "arxiv:2610.18010",
+                  "license:other",
+                  "bsgemm-moe",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-speech model"
+          }
+        },
+        {
+          "title": "meta-models/Muse-Spark-Open-816B-A42B",
+          "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+          "summary": "Das auf Hugging Face geteilte meta-models/Muse-Spark-Open-816B-A42B ist ein KI-Modell, das Bild- und Texteingaben verarbeitet, um Textausgaben zu generieren. Dieses Modell bietet eine Struktur, die Bild- und Textdaten kombinieren und analysieren kann.",
+          "meta": "♥ 615 · 2.592 Downloads",
+          "snapshot": {
+            "sourceId": "meta-models/Muse-Spark-Open-816B-A42B",
+            "capturedAt": "2026-10-21T09:22:51.456Z",
+            "metadata": {
+              "popularity": 615,
+              "engagementCount": 2592,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 557,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "muse_spark",
+                  "image-text-to-text",
+                  "facebook",
+                  "meta",
+                  "pytorch",
+                  "muse",
+                  "muse-spark",
+                  "conversational",
+                  "en",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          }
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+          "summary": "flux-3-image-klein, entwickelt von Black Forest Labs, ist ein KI-Modell, das für Image-to-Image-Konvertierungsprozesse konzipiert wurde. Dieses auf der Hugging Face-Plattform veröffentlichte Modell ermöglicht die Bearbeitung und Umwandlung bestehender Bilder.",
+          "meta": "♥ 576 · 78.897 Downloads",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein",
+            "capturedAt": "2026-10-21T09:22:51.456Z",
+            "metadata": {
+              "popularity": 576,
+              "engagementCount": 78897,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 513,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlowState: Execution State as Memory for Long-Horizon LLM Agents",
+          "url": "https://huggingface.co/papers/2609.34565",
+          "summary": "FlowState nutzt den Ausführungszustand als Speicher, um das Problem zu lösen, dass große Sprachmodelle (LLMs) bei langfristigen Aufgaben Schwierigkeiten haben, sich an vergangene Interaktionen zu erinnern. Diese Methode kombiniert aktuelle Entscheidungsprozesse mit historischen Daten, ohne die Kontextkosten zu erhöhen oder Informationen zu verlieren.",
+          "meta": "6 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.34565",
+            "capturedAt": "2026-10-21T09:22:51.469Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.34565",
+                "publishedAt": "2026-10-08T00:00:00.000Z"
+              }
+            },
+            "description": "Long-horizon tasks require LLM agents to continually draw on information from earlier interactions. However, retaining the full history increases context costs, while compressing it risks losing details needed later, and the relevance of historical information often becomes apparent as the task progresses. To address these challenges, we propose FlowState, which treats execution state as memory that can be retained and revisited across requests, unifying current decision-making with the reuse of"
+          }
+        },
+        {
+          "title": "Evaluating Agentic Capabilities Before Post-Training: An End-to-End Approach",
+          "url": "https://huggingface.co/papers/2610.19425",
+          "summary": "Der von Hugging Face veröffentlichte Artikel stellt ASAP (Agent Scaffold Adaptation for Pretraining Evaluation) vor, ein leichtgewichtiges Framework zur Bewertung von Agentenfähigkeiten während des Vortrainings großer Sprachmodelle (LLMs). Diese Methode ermöglicht eine Bewertung, die über statische Aufgaben hinausgeht, indem sie das Verhalten der Modelle in interaktiven Umgebungen analysiert.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.19425",
+            "capturedAt": "2026-10-21T09:22:51.469Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.19425",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            },
+            "description": "Agentic capabilities are increasingly important for modern LLMs, yet remain difficult to evaluate during pretraining. Existing approaches typically rely on static trajectory-derived tasks or likelihood-based proxies, which are lightweight but provide limited visibility into how base models behave in interactive environments. We introduce ASAP (Agent Scaffold Adaptation for Pretraining Evaluation), a lightweight framework for eliciting and evaluating agentic behavior from pretrained base models o"
+          }
+        },
+        {
+          "title": "LLM2R: From Large Language Models to 3D Reassemblers",
+          "url": "https://huggingface.co/papers/2610.18604",
+          "summary": "LLM2R führt den Prozess des Zusammenfügens fragmentierter Objekte mithilfe eines vortrainierten Decoders durch Sequenzmodellierung durch. Dieser Ansatz zielt darauf ab, die Skalierungsprobleme zu lösen, die bei der Rekonstruktion mehrteiliger Objekte auftreten.",
+          "meta": "17 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.18604",
+            "capturedAt": "2026-10-21T09:22:51.469Z",
+            "metadata": {
+              "popularity": 17,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.18604",
+                "publishedAt": "2026-10-13T00:00:00.000Z"
+              }
+            },
+            "description": "3D part assembly aims to reconstruct a complete shape from a set of unassembled parts by predicting a rigid SE(3) transformation for each part. Because the placement of a part is rarely determined by its own geometry, the task demands reasoning over the entire part set, and existing methods, which rely on pairwise relations or iterative generation and verification, scale poorly to objects with many parts. We present LLM2R, which casts part assembly as sequence modeling with a pretrained decoder-"
+          }
+        },
+        {
+          "title": "Unsupervised Tool Evolution for Coding Agents in Data-Lake Analytics",
+          "url": "https://huggingface.co/papers/2610.27327",
+          "summary": "Der auf Hugging Face veröffentlichte Artikel 'Unsupervised Tool Evolution for Coding Agents in Data-Lake Analytics' stellt die TEAL-Methode vor, die es Coding-Agenten ermöglicht, bei Data-Lake-Analysen aufgabenübergreifend wiederverwendbare Werkzeuge zu entwickeln. Dieser Ansatz zielt darauf ab, dass Agenten ihre Werkzeuge durch unüberwachtes Lernen (unsupervised learning) im Laufe der Zeit verbessern, anstatt den Prozess für jede Frage von Grund auf neu zu beginnen.",
+          "meta": "3 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.27327",
+            "capturedAt": "2026-10-21T09:22:51.469Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.27327",
+                "publishedAt": "2026-10-19T00:00:00.000Z"
+              }
+            },
+            "description": "Coding agents can answer analytical questions over a data lake by discovering, cleaning, and joining the relevant data. However, they discard this work after each question and redo it from scratch for the next one. Tool evolution, which automatically builds and refines reusable tools across tasks, is a natural fit for this repetition. Since a ground-truth label for a data-lake question requires an expert to solve it first, we consider the unsupervised setting. We propose TEAL (Tool Evolution for"
+          }
+        },
+        {
+          "title": "Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning",
+          "url": "https://huggingface.co/papers/2610.22444",
+          "summary": "Event-STVG zielt darauf ab, die Aufgabe des räumlich-zeitlichen Video-Groundings (spatio-temporal video grounding) auf Basis natürlichsprachlicher Abfragen auf die Ebene des ereignisbasierten Schlussfolgerns zu heben. Dieser Ansatz konzentriert sich auf die Verbesserung der Fähigkeiten multimodaler großer Sprachmodelle, langwierige Videoinhalte zu verstehen.",
+          "meta": "9 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.22444",
+            "capturedAt": "2026-10-21T09:22:51.469Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22444",
+                "publishedAt": "2026-10-15T00:00:00.000Z",
+                "githubRepo": "https://github.com/THU-KEG/EventSTVG",
+                "githubStars": 3
+              }
+            },
+            "description": "Spatio-Temporal Video Grounding (STVG) aims to jointly localize a target in space and time given a natural-language query. Despite continued advances, existing STVG benchmarks remain largely centered on localizing targets through instance-specific descriptions, leaving them largely decoupled from long-form reasoning increasingly emphasized in multimodal large language models (MLLMs). In this paper, we introduce Event-STVG, a task that shifts STVG from locating what is described toward event-leve"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Eine vorgefertigte Infrastruktur, die bei der Softwareentwicklung für eine bestimmte Ordnung und Struktur sorgt und die Arbeit erleichtert."
+    },
+    {
+      "term": "coding-agent skill",
+      "explanation": "Die fachliche Kompetenz, über die KI-gestützte Codierungstools verfügen, um eine bestimmte Aufgabe zu erfüllen."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Autonome KI-Programme, die im Namen des Benutzers Aufgaben wie Softwareentwicklung, Fehlerbehebung oder das Schreiben von Code übernehmen."
+    },
+    {
+      "term": "remote runtime",
+      "explanation": "Ein System, das es ermöglicht, Software außerhalb des eigenen Computers auf einem entfernten Server oder in einer Cloud-Umgebung auszuführen."
+    },
+    {
+      "term": "senior dev",
+      "explanation": "Ein erfahrener Softwareentwickler, der dank seiner Erfahrung bei Softwareentwicklungsprozessen die effizientesten und kürzesten Lösungen generiert."
+    },
+    {
+      "term": "diffusion models",
+      "explanation": "Eine KI-Technologie, die Rauschen aus Daten entfernt und Bilder oder Inhalte von Grund auf neu erstellen kann."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine Schnittstelle, die als Brücke fungiert und es verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren und Daten auszutauschen."
+    },
+    {
+      "term": "inference",
+      "explanation": "Der Prozess, bei dem ein trainiertes KI-Modell neue Daten analysiert, um Vorhersagen oder Ergebnisse zu generieren."
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "explanation": "Eine Methode, die es der KI ermöglicht, bei der Generierung von Antworten aktuelle und spezifische Daten aus externen Quellen zu durchsuchen und zu nutzen, um genauere Informationen bereitzustellen."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Ein Datenmodell, das Informationen und die Beziehungen zwischen ihnen in einer Netzwerkstruktur miteinander verknüpft und so abfragbar macht."
+    },
+    {
+      "term": "vector store",
+      "explanation": "Eine spezielle Datenbank, die Daten als mathematische Zahlenfolgen speichert, damit die KI schnell Suchen durchführen kann."
+    },
+    {
+      "term": "AST parsing",
+      "explanation": "Eine Analysemethode, die den Code in Teile zerlegt und in eine logische Baumstruktur umwandelt, um dessen Struktur zu verstehen."
+    },
+    {
+      "term": "LLM",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden und menschliche Sprache verstehen sowie Texte generieren können."
+    },
+    {
+      "term": "open source",
+      "explanation": "Eine Softwareart, bei der der Quellcode für jeden zugänglich, einsehbar und weiterentwickelbar ist."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Ein grundlegendes KI-Modell, das mit sehr umfangreichen Datensätzen trainiert wurde und auf dem viele verschiedene Anwendungen entwickelt werden können."
+    },
+    {
+      "term": "intermediate CA",
+      "explanation": "Eine Zwischenzertifizierungsstelle, die als Brücke zwischen der Hauptautorität, die die Echtheit digitaler Zertifikate bestätigt, und dem Endbenutzer fungiert."
+    }
+  ]
+}

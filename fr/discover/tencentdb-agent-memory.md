@@ -63,6 +63,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Configurez la mémoire à long terme de mon agent IA à l'aide de la mémoire de l'agent TencentDB. Au lieu d'une pile vectorielle plate de données, utilisez des graphiques symboliques Mermaid pour les tâches à court terme et une pyramide de mémoire en couches L0-L3 pour les expériences à long terme. Permettez à l'agent de stocker les conversations passées, les faits atomiques et les préférences de l'utilisateur dans cette structure hiérarchique et de les rappeler chaque fois que nécessaire avec une traçabilité complète via node_id.
 
+Dépôt : https://github.com/TencentCloud/TencentDB-Agent-Memory. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Long-term Memory](https://trescout.com/fr/dictionary/long-term-memory/)
@@ -79,7 +87,7 @@ Configurez la mémoire à long terme de mon agent IA à l'aide de la mémoire de
 - [Dépôt GitHub →](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 - [Lire en turc →](https://trescout.com/discover/tencentdb-agent-memory/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-09 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-09 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/tencentdb-agent-memory/

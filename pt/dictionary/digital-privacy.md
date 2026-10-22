@@ -69,7 +69,7 @@ A privacidade diferencial oculta identidades individuais em análises de dados c
 - [Regulatory Restriction](https://trescout.com/pt/dictionary/regulatory-restriction/)
 - [Home Automation](https://trescout.com/pt/dictionary/home-automation/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/digital-privacy/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/digital-privacy/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/digital-privacy/

@@ -75,6 +75,16 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte meine Messaging-Prozesse über WhatsApp mit dem OpenWA-Tool automatisieren. Führen Sie mich durch die grundlegenden Konfigurationsschritte, die zum Erstellen einer neuen Sitzung, zum Senden von Nachrichten und zum Abhören eingehender Nachrichten über einen Webhook mithilfe von REST-API-Endpunkten erforderlich sind. Sagen Sie mir, worauf ich achten muss, insbesondere in Bezug auf Multisession-Management und API-Schlüsselsicherheit.
 
+Repository: https://github.com/rmyndharis/OpenWA. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Falls ein API-Schlüssel erforderlich ist, fordere mich nicht auf, ihn in den Chat zu schreiben. Zeig mir, wie ich ihn zur .env-Datei hinzufüge und stelle sicher, dass diese Datei nicht an Git übertragen wird.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [API Gateway](https://trescout.com/de/dictionary/api-gateway/)
@@ -91,7 +101,7 @@ Ich möchte meine Messaging-Prozesse über WhatsApp mit dem OpenWA-Tool automati
 - [GitHub-Repository →](https://github.com/rmyndharis/OpenWA)
 - [Auf Türkisch lesen →](https://trescout.com/discover/openwa/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-17 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-17 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/openwa/

@@ -39,7 +39,7 @@ Quando agentes de IA autônomos entram em um loop lógico vicioso, podem fazer m
 - [Cloud Computing](https://trescout.com/pt/dictionary/cloud-computing/)
 - [Agentic AI](https://trescout.com/pt/dictionary/agentic-ai/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/hard-budget-caps/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/hard-budget-caps/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/hard-budget-caps/

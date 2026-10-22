@@ -44,7 +44,7 @@ They are not a magic bullet on their own, but they catch a large portion of know
 
 - [Litellm](https://trescout.com/en/discover/litellm/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/guardrails/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/guardrails/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/guardrails/

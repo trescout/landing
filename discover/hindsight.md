@@ -2,15 +2,15 @@
 
 Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor. Geçmiş etkileşimlerden çıkarım yaparak ajanların karar alma süreçlerini iyileştiren bu açık kaynaklı kütüphane, sistemlerin zamanla daha tutarlı sonuçlar üretmesini sağlıyor.
 
-- ★ 49.114
+- ★ 51.834
 - GitHub Trending · 2026-09-25
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 49.114 → 51.834, son sürüm v1.0.0 (13 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 47.195 → 49.114, son sürüm v1.0.0 (13 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 46.537 → 47.195, son sürüm v0.10.3 (8 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 44.051 → 46.537, son sürüm v0.10.2 (29 Eylül 2026).
-- **1 Ekim 2026:** Yıldız 41.939 → 44.051, son sürüm v0.10.2 (29 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -48,6 +48,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yapay zekâ ajanımın geçmiş etkileşimlerden öğrenmesini, sadece konuşma geçmişini hatırlamakla kalmayıp zamanla daha tutarlı kararlar almasını istiyorum. Projeme bu bellek katmanını entegre etmek için gerekli sunucu kurulumunu ve istemci bağlantılarını yapılandırmama yardım et.
 
+Depo: https://github.com/vectorize-io/hindsight. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ ajanlarının zamanla öğrenmesini ve daha tutarlı kararlar almasını isteyen geliştiriciler.
 - **Lisans:** MIT
 
@@ -55,7 +63,7 @@ Yapay zekâ ajanımın geçmiş etkileşimlerden öğrenmesini, sadece konuşma 
 
 - [GitHub deposu →](https://github.com/vectorize-io/hindsight)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

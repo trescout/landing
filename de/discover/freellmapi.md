@@ -2,16 +2,16 @@
 
 FreeLLMAPI bietet intelligentes Routing und Fehlertoleranz, indem es 34 verschiedene kostenlose Anbieter wichtiger Sprachmodelle in einer einzigen REST-API im OpenAI-Format zusammenfasst.
 
-- ★ 35.948
+- ★ 38.660
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Aktualisierungen
 
-- **16. Oktober 2026:** Sterne 34,584 → 35,948, neueste Version v0.15.0 (15. Oktober 2026).
-- **13. Oktober 2026:** Sterne 33,595 → 34,584, neueste Version v0.14.2 (13. Oktober 2026).
-- **12. Oktober 2026:** Sterne 33,363 → 33,595, neueste Version v0.13.10 (12. Oktober 2026).
-- **12. Oktober 2026:** Sterne 33,101 → 33,363, neueste Version v0.13.9 (11. Oktober 2026).
+- **21. Oktober 2026:** Sterne 38,000 → 38,660, neueste Version v0.16.7 (21. Oktober 2026).
+- **20. Oktober 2026:** Sterne 37,418 → 38,000, neueste Version v0.16.6 (20. Oktober 2026).
+- **19. Oktober 2026:** Sterne 37,306 → 37,418, neueste Version v0.16.5 (19. Oktober 2026).
+- **19. Oktober 2026:** Sterne 36,776 → 37,306, neueste Version v0.16.4 (19. Oktober 2026).
 
 ## Was es bringt
 
@@ -61,6 +61,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Können Sie anhand von Codebeispielen erklären, wie ich das FreeLLMAPI-Tool auf meinem lokalen Server mit Docker ausführe, wie ich das OpenAI Node.js SDK auf diesen lokalen Endpunkt verweise und wie ich die Verwendung eines automatischen Fallback-Modells aktiviert, wenn ein Anbieter ausfällt?
 
+Repository: https://github.com/tashfeenahmed/freellmapi. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Häufig gestellte Fragen
 
 - Muss ich einen API-Schlüssel erwerben, um FreeLLMAPI nutzen zu können? Nein. Das System kombiniert 34 KI-Modelle, die kostenlose Stufen anbieten oder kostenlose öffentlich verfügbare Inferenz bereitstellen.
@@ -75,7 +83,7 @@ Können Sie anhand von Codebeispielen erklären, wie ich das FreeLLMAPI-Tool auf
 - [Localhost](https://trescout.com/de/dictionary/localhost/)
 - [SDK](https://trescout.com/de/dictionary/sdk/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
-- [API](https://trescout.com/de/dictionary/api/)
+- [Open Source](https://trescout.com/de/dictionary/open-source/)
 
 - **Für wen es gedacht ist:** Entwickler künstlicher Intelligenz, Open-Source-Forscher, Full-Stack-Ingenieure und Prototypenentwickler.
 - **Lizenz:** MIT (Özgür açık kaynak lisansı)
@@ -87,7 +95,7 @@ Können Sie anhand von Codebeispielen erklären, wie ich das FreeLLMAPI-Tool auf
 - [GitHub-Repository →](https://github.com/tashfeenahmed/freellmapi)
 - [Auf Türkisch lesen →](https://trescout.com/discover/freellmapi/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/freellmapi/

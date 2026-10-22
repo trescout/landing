@@ -43,6 +43,7 @@ Pour commencer à utiliser cet outil, vous pouvez visiter le site officiel tailw
 - [Utility-first](https://trescout.com/fr/dictionary/utility-first/)
 - [CSS Framework](https://trescout.com/fr/dictionary/css-framework/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui souhaitent concevoir des interfaces utilisateur rapides et originales dans leurs projets Web.
 - **Licence:** MIT
@@ -52,7 +53,7 @@ Pour commencer à utiliser cet outil, vous pouvez visiter le site officiel tailw
 - [Dépôt GitHub →](https://github.com/tailwindlabs/tailwindcss)
 - [Lire en turc →](https://trescout.com/discover/tailwindcss/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/tailwindcss/

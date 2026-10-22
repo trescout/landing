@@ -2,16 +2,16 @@
 
 Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alternatif sunuyor. Arama motoru optimizasyonu (SEO) verilerini analiz etmek için geliştirilen bu yazılım, TypeScript tabanlı altyapısıyla süreçleri şeffaflaştırmayı hedefliyor.
 
-- ★ 23.536
+- ★ 24.224
 - TypeScript
 - GitHub Trending · 2026-06-26
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 23.536 → 24.224, son sürüm v0.1.14 (19 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 22.720 → 23.536, son sürüm v0.1.13 (14 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 22.611 → 22.720, son sürüm v0.1.12 (8 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 21.988 → 22.611, son sürüm v0.1.11 (6 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 21.251 → 21.988, son sürüm v0.1.10 (30 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -40,6 +40,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenSEO yeteneklerini kullanarak web sitem için detaylı bir anahtar kelime araştırması yap ve mevcut sıralama verilerimi analiz ederek iyileştirme önerileri sun.
 
+Depo: https://github.com/every-app/open-seo. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** SEO süreçlerini otomatize etmek isteyen, yüksek abonelik ücretlerinden kaçınan geliştiriciler ve yapay zekâ ajanı kullanıcıları içindir.
 - **Lisans:** MIT
 
@@ -47,7 +55,7 @@ OpenSEO yeteneklerini kullanarak web sitem için detaylı bir anahtar kelime ara
 
 - [GitHub deposu →](https://github.com/every-app/open-seo)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

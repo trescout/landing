@@ -2,17 +2,17 @@
 
 Yapay zekâ mühendisliğine sıfırdan giriş: **485 ders, 20 faz ve yaklaşık 320 saatlik içerik.** Lineer cebirden otonom ajanlara kadar her algoritmayı önce matematiğiyle, ardından **elle kod yazarak** öğretir. Python, TypeScript, Rust ve Julia dillerini kapsayan bu kurs tamamen ücretsiz ve açık kaynaklıdır.
 
-- ★ 69.356
+- ★ 71.226
 - Python
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 69.356 → 71.226, son sürüm v2026.10.4 (19 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 66.339 → 69.356, son sürüm v2026.10.3 (15 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 65.449 → 66.339, son sürüm v2026.10.2 (10 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 65.029 → 65.449, son sürüm v2026.10.1 (6 Ekim 2026).
-- **6 Ekim 2026:** Yıldız 61.896 → 65.029, son sürüm v2026.10 (27 Eylül 2026).
 
 - **Kimin için:** AI'ı yüzeysel değil temelden öğrenmek isteyenler
 - **Zorluk:** Başlangıçtan ileriye · faz faz ilerler
@@ -37,6 +37,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Sana 'ai-engineering-from-scratch' adlı, sıfırdan yapay zekâ mühendisliği öğreten 20 fazlı, 500'den fazla derslik açık kaynaklı bir müfredatın içeriğini vereceğim. README ve yol haritasını incele ve bana Türkçe, haftalara bölünmüş kişisel bir çalışma planı çıkar: hangi fazdan başlamalıyım, ön koşullar neler ve hangi sırayla ilerlemeliyim. Seviyem: [örn. yeni başlayan].
 
+Depo: https://github.com/rohitg00/ai-engineering-from-scratch. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Lisans:** MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşabilirsiniz.
 
 ## Bağlantılar
@@ -44,7 +52,7 @@ Sana 'ai-engineering-from-scratch' adlı, sıfırdan yapay zekâ mühendisliği 
 - [GitHub deposu →](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [Ana sayfa →](https://aiengineeringfromscratch.com)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

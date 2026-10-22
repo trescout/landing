@@ -42,7 +42,7 @@ It is considered legal for security and fraud prevention purposes; however, when
 - [Web Scraping](https://trescout.com/en/dictionary/web-scraping/)
 - [Stealth Headless Browser](https://trescout.com/en/dictionary/stealth-headless-browser/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/fingerprint/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/fingerprint/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/fingerprint/

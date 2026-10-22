@@ -2,16 +2,16 @@
 
 CUA fornece uma infraestrutura de código aberto para agentes de inteligência artificial com capacidade de computador. Ele reúne sandbox, kit de desenvolvimento de software (SDK) e ferramentas de benchmark sob o mesmo teto com o objetivo de treinar e avaliar agentes que podem controlar sistemas operacionais de desktop.
 
-- ★ 29.921
+- ★ 30.501
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Atualizações
 
-- **16 de outubro de 2026:** Estrelas 29,802 → 29,921, versão mais recente cua-spaces-v0.9.3 (16 de outubro de 2026).
-- **15 de outubro de 2026:** Estrelas 29,690 → 29,802, versão mais recente cua-spaces-v0.9.2 (15 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 29,597 → 29,690, versão mais recente cua-spaces-v0.8.0 (14 de outubro de 2026).
-- **13 de outubro de 2026:** Estrelas 28,129 → 29,597, versão mais recente cua-sdk-v0.4.1 (5 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 30,335 → 30,501, versão mais recente cua-sdk-v0.6.0 (21 de outubro de 2026).
+- **20 de outubro de 2026:** Estrelas 30,189 → 30,335, versão mais recente cua-spaces-v0.11.0 (20 de outubro de 2026).
+- **19 de outubro de 2026:** Estrelas 30,064 → 30,189, versão mais recente agent-v0.9.1 (19 de outubro de 2026).
+- **18 de outubro de 2026:** Estrelas 29,921 → 30,064, versão mais recente cua-spaces-v0.9.4 (18 de outubro de 2026).
 
 ## O que você ganha
 
@@ -51,6 +51,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver um agente de uso de computador usando a infraestrutura CUA. Ajude-me a configurar a estrutura básica do Python que permitirá que meu agente interaja com aplicativos de desktop em segundo plano, faça cliques do mouse e envie entradas do teclado. Crie um esboço de código de amostra que execute comandos e faça capturas de tela em um ambiente Linux usando o CUA Sandbox SDK.
 
+Repositório: https://github.com/trycua/cua. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Benchmark](https://trescout.com/pt/dictionary/benchmark/)
@@ -66,7 +74,7 @@ Quero desenvolver um agente de uso de computador usando a infraestrutura CUA. Aj
 - [Repositório no GitHub →](https://github.com/trycua/cua)
 - [Ler em turco →](https://trescout.com/discover/cua/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-16: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-16: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/cua/

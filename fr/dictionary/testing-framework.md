@@ -68,7 +68,7 @@ Il est déterminé par l'équipe. Le chemin critique est maintenu haut, et la p�
 
 - [Pytest](https://trescout.com/fr/discover/pytest/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/testing-framework/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/testing-framework/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/testing-framework/

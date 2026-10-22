@@ -39,7 +39,7 @@ AI-powered managers can make real-time decisions on which tool to call based on 
 - [Multi-agent](https://trescout.com/en/dictionary/multi-agent/)
 - [Agentic System](https://trescout.com/en/dictionary/agentic-system/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/orchestrator/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/orchestrator/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/orchestrator/

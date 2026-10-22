@@ -43,6 +43,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite installer la bibliothèque DeepGEMM sur mon matériel doté de l'architecture NVIDIA SM90 ou SM100. Tout d'abord, pour cloner le dépôt avec ses sous-modules et préparer l'environnement de développement, exécutez les commandes '# Submodule must be cloned\ngit clone --recursive git@github.com:deepseek-ai/DeepGEMM.git\ncd DeepGEMM\n\n# Link some essential includes and build the C++ extension\ncat develop.sh\n./develop.sh'. Ensuite, pour terminer l'installation, appliquez la commande 'cat install.sh\n./install.sh' et rendez la bibliothèque prête à l'emploi dans l'environnement Python avec la commande 'import deep_gemm'.
 
+Dépôt : https://github.com/deepseek-ai/DeepGEMM. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [BLAS](https://trescout.com/fr/dictionary/blas/)
@@ -59,7 +67,7 @@ Je souhaite installer la bibliothèque DeepGEMM sur mon matériel doté de l'arc
 - [Dépôt GitHub →](https://github.com/deepseek-ai/DeepGEMM)
 - [Lire en turc →](https://trescout.com/discover/deepgemm/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-06 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-06 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/deepgemm/

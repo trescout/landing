@@ -67,6 +67,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero examinar un archivo binario sospechoso usando Ghidra. ¿Puede explicar paso a paso cómo abrir un nuevo proyecto en Ghidra, importar el archivo, ejecutar el análisis automático, examinar las funciones en la ventana del descompilador y detectar funciones API sospechosas llamadas?
 
+Repositorio: https://github.com/NationalSecurityAgency/ghidra. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Preguntas frecuentes
 
 - ¿Cuáles son las principales diferencias entre Ghidra e IDA Pro? Si bien IDA Pro tiene tarifas comerciales y de licencia elevadas, Ghidra es completamente gratuito y de código abierto. Ghidra ofrece descompiladores integrados para todas las arquitecturas e incluye un servidor de colaboración multiusuario.
@@ -81,7 +89,7 @@ Quiero examinar un archivo binario sospechoso usando Ghidra. ¿Puede explicar pa
 - [Decompiler](https://trescout.com/es/dictionary/decompiler/)
 - [IoT](https://trescout.com/es/dictionary/iot/)
 - [Binary](https://trescout.com/es/dictionary/binary/)
-- [API](https://trescout.com/es/dictionary/api/)
+- [Open Source](https://trescout.com/es/dictionary/open-source/)
 
 - **Para quién es:** Investigadores de malware, cazadores de vulnerabilidades, expertos en ingeniería inversa y desarrolladores de sistemas integrados.
 - **Licencia:** Apache-2.0 (Açık kaynak lisansı)
@@ -93,7 +101,7 @@ Quiero examinar un archivo binario sospechoso usando Ghidra. ¿Puede explicar pa
 - [Repositorio en GitHub →](https://github.com/NationalSecurityAgency/ghidra)
 - [Leer en turco →](https://trescout.com/discover/ghidra/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-28: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-28: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/ghidra/

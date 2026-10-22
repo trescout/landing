@@ -41,7 +41,7 @@ Porque as regras básicas de operação do dispositivo são protegidas para evit
 - [Romm](https://trescout.com/pt/discover/romm/)
 - [Lighthouse](https://trescout.com/pt/discover/lighthouse/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/rom/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/rom/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/rom/

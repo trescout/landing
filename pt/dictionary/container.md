@@ -88,7 +88,7 @@ Quando são necessários diferentes sistemas operacionais ou um isolamento forte
 - [Trivy](https://trescout.com/pt/discover/trivy/)
 - [PPF Contact Solver](https://trescout.com/pt/discover/ppf-contact-solver/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/container/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/container/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/container/

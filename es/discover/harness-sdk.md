@@ -38,6 +38,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero iniciar y probar el bucle de un agente de inteligencia artificial instalando el paquete strands-harness en mi entorno de Python o TypeScript. Tras instalar la biblioteca necesaria, ¿podrías escribir un código que me permita crear un agente simple y asignarle una tarea de ejemplo?
 
+Repositorio: https://github.com/strands-agents/harness-sdk. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Harness](https://trescout.com/es/dictionary/harness/)
@@ -52,7 +60,7 @@ Quiero iniciar y probar el bucle de un agente de inteligencia artificial instala
 - [Repositorio en GitHub →](https://github.com/strands-agents/harness-sdk)
 - [Leer en turco →](https://trescout.com/discover/harness-sdk/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-24: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-24: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/harness-sdk/

@@ -47,7 +47,7 @@ C’est assez simple pour des sites simples, mais nécessite des connaissances t
 - [Camofox Browser](https://trescout.com/fr/discover/camofox-browser/)
 - [Mobile MCP](https://trescout.com/fr/discover/mobile-mcp/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/web-scraping/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/web-scraping/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/web-scraping/

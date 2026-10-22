@@ -40,7 +40,7 @@ Parce que pour que le système trouve la bonne solution, il doit effectuer un tr
 - [Miles](https://trescout.com/fr/discover/miles/)
 - [Microduck Rl](https://trescout.com/fr/discover/microduck-rl/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/reinforcement-learning/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/reinforcement-learning/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/reinforcement-learning/

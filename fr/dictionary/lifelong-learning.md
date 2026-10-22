@@ -38,7 +38,7 @@ C'est presque la même chose que l'apprentissage continu, mais l'apprentissage t
 
 - [DeepTutor](https://trescout.com/fr/discover/deeptutor/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/lifelong-learning/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/lifelong-learning/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/lifelong-learning/

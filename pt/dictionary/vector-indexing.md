@@ -38,7 +38,7 @@ Sim, como os dados são indexados, os resultados podem ser obtidos em milissegun
 - [Embedding](https://trescout.com/pt/dictionary/embedding/)
 - [RAG](https://trescout.com/pt/dictionary/rag/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vector-indexing/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vector-indexing/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/vector-indexing/

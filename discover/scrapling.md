@@ -2,17 +2,17 @@
 
 **Scrapling**, tek bir istekten geniş kapsamlı tarama işlerine kadar her ölçeği yönetebilen **uyarlanabilir bir web kazıma (scraping) çerçevesidir**. Sayfa yapısı değişse dahi yüksek uyum sağlamayı hedefler. Python tabanlıdır.
 
-- ★ 84.197
+- ★ 88.365
 - Python
 - BSD-3-Clause
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 84.197 → 88.365, son sürüm v0.5 (17 Ekim 2026).
 - **28 Eylül 2026:** Yıldız 80.154 → 84.197, son sürüm v0.4.15 (23 Ağustos 2026).
 - **11 Eylül 2026:** Yıldız 76.147 → 80.154, son sürüm v0.4.15 (23 Ağustos 2026).
 - **24 Ağustos 2026:** Yıldız 73.439 → 76.147, son sürüm v0.4.15 (23 Ağustos 2026).
-- **11 Ağustos 2026:** Yıldız 73.309 → 73.439, son sürüm v0.4.14 (10 Ağustos 2026).
 
 - **Kimin için:** Veri kazıyan geliştiriciler
 - **Zorluk:** Orta · Python
@@ -42,13 +42,21 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Scrapling adlı açık kaynaklı web kazıma kütüphanesini kurmama yardım et; 'pip install "scrapling[fetchers]"' ile yükleyip 'scrapling install' komutunu çalıştır, sonra 'scrapling extract get https://example.com content.md' komutuyla bir web sayfasının içeriğini Markdown dosyasına çıkaralım.
 
+Depo: https://github.com/D4Vinci/Scrapling. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Lisans:** BSD-3-Clause · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (telif bildirimini koruyun).
 
 ## Bağlantılar
 
 - [GitHub deposu →](https://github.com/D4Vinci/Scrapling)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

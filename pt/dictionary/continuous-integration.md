@@ -37,7 +37,7 @@ O teste manual é lento e sujeito a erros humanos; A CI, por outro lado, trabalh
 - [Jenkins](https://trescout.com/pt/discover/jenkins/)
 - [Checkout](https://trescout.com/pt/discover/checkout/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/continuous-integration/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/continuous-integration/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/continuous-integration/

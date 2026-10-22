@@ -39,6 +39,7 @@ Para comenzar a utilizar la herramienta, primero asegúrese de que Python 3 est�
 - [Common User Passwords Profiler](https://trescout.com/es/dictionary/common-user-passwords-profiler/)
 - [Wordlists](https://trescout.com/es/dictionary/wordlists/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está diseñado para profesionales de la seguridad que realizan pruebas de penetración legítimas e investigaciones forenses digitales.
 - **Licencia:** GPL-3.0
@@ -48,7 +49,7 @@ Para comenzar a utilizar la herramienta, primero asegúrese de que Python 3 est�
 - [Repositorio en GitHub →](https://github.com/Mebus/cupp)
 - [Leer en turco →](https://trescout.com/discover/cupp/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-01: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/cupp/

@@ -2,15 +2,15 @@
 
 Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı bir platformdur. Yapay zekâ ajanlarının (AI agents) ofis yazılımlarıyla etkileşimini kolaylaştırmak için tasarlanmış modüler bir yapı sunar.
 
-- ★ 22.527
+- ★ 22.650
 - GitHub Trending · 2026-09-23
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 22.527 → 22.650, son sürüm v1.1.0 (17 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 21.590 → 22.527, son sürüm v1.0.4 (10 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 21.050 → 21.590, son sürüm v1.0.3 (29 Eylül 2026).
 - **28 Eylül 2026:** Yıldız 19.922 → 21.050, son sürüm v1.0.2 (24 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 18.873 → 19.922, son sürüm v1.0.2 (24 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -35,6 +35,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Univer projesini yerel ortamda çalıştırmak için terminalde git clone https://github.com/dream-num/univer.git komutuyla depoyu klonla, ardından cd univer ve pnpm install ile bağımlılıkları yükledikten sonra pnpm dev komutunu çalıştır.
 
+Depo: https://github.com/dream-num/univer. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi ürünlerine özelleştirilebilir ofis araçları ve yapay zekâ destekli çalışma alanları eklemek isteyen geliştiriciler.
 - **Lisans:** Apache-2.0
 
@@ -42,7 +50,7 @@ Univer projesini yerel ortamda çalıştırmak için terminalde git clone https:
 
 - [GitHub deposu →](https://github.com/dream-num/univer)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

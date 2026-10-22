@@ -40,6 +40,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist mein KI-Assistent. Ich möchte, dass Sie in meinem holaOS-Arbeitsbereich an meinen Dateien, Tools und Apps arbeiten. Erinnern Sie sich mithilfe des Shared Memory an den Kontext meiner vergangenen Projekte und führen Sie meine Aufgaben durch die Integration von Agenten wie Claude Code oder Codex aus. Verwalten Sie meine Arbeitsabläufe, erstellen Sie Berichte und speichern Sie sie als tatsächliche Dateien (.xlsx, .pptx, .docx), indem Sie Daten aus meinen verbundenen Konten wie Notion, Gmail und Slack verwenden.
 
+Repository: https://github.com/holaboss-ai/holaOS. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [BYOK](https://trescout.com/de/dictionary/byok/)
@@ -54,7 +62,7 @@ Du bist mein KI-Assistent. Ich möchte, dass Sie in meinem holaOS-Arbeitsbereich
 - [GitHub-Repository →](https://github.com/holaboss-ai/holaOS)
 - [Auf Türkisch lesen →](https://trescout.com/discover/holaos/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-14 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-14 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/holaos/

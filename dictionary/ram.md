@@ -72,14 +72,14 @@ Günlük işte 8, geliştirmede 16, ağır işte 32 GB pratik karşılıklardır
 
 - [Free for Dev](https://trescout.com/discover/free-for-dev/)
 - [Colibri](https://trescout.com/discover/colibri/)
-- [Llmfit](https://trescout.com/discover/llmfit/)
 - [Airllm](https://trescout.com/discover/airllm/)
+- [Llmfit](https://trescout.com/discover/llmfit/)
 - [CasaOS](https://trescout.com/discover/casaos/)
 - [Invidious](https://trescout.com/discover/invidious/)
 - [Omlx](https://trescout.com/discover/omlx/)
 - [Needle](https://trescout.com/discover/needle/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ram/

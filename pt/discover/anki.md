@@ -27,6 +27,7 @@ Para começar a usar o aplicativo Anki, você pode visitar o site oficial em app
 
 - [Spaced Repetition](https://trescout.com/pt/dictionary/spaced-repetition/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para quem está aprendendo um novo idioma, profissionais em áreas que exigem muito conhecimento, como medicina ou direito, e qualquer pessoa que não queira esquecer o que aprendeu.
 
@@ -35,7 +36,7 @@ Para começar a usar o aplicativo Anki, você pode visitar o site oficial em app
 - [Repositório no GitHub →](https://github.com/ankitects/anki)
 - [Ler em turco →](https://trescout.com/discover/anki/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-19: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-19: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/anki/

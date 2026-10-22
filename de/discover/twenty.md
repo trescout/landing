@@ -2,17 +2,17 @@
 
 Twenty ist eine Open-Source-Salesforce-Alternative, die es technischen Teams ermöglicht, ein modernes CRM aufzubauen, das an ihre Geschäftsprozesse angepasst werden kann. Sie können dieses System, das auf künstliche Intelligenz-gestützte Workflows setzt, auf Ihrem eigenen Server hosten.
 
-- ★ 58.411
+- ★ 58.824
 - TypeScript
 - Lisans: özel
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 58,665 → 58,824, neueste Version twenty/v2.50.0 (21. Oktober 2026).
+- **20. Oktober 2026:** Sterne 58,411 → 58,665, neueste Version sdk/v2.49.0 (19. Oktober 2026).
 - **16. Oktober 2026:** Sterne 58,367 → 58,411, neueste Version sdk/v2.48.0 (16. Oktober 2026).
 - **15. Oktober 2026:** Sterne 58,241 → 58,367, neueste Version twenty/v2.47.0 (15. Oktober 2026).
-- **12. Oktober 2026:** Sterne 57,935 → 58,241, neueste Version twenty/v2.46.0 (12. Oktober 2026).
-- **5. Oktober 2026:** Sterne 57,768 → 57,935, neueste Version twenty/v2.45.0 (5. Oktober 2026).
 
 ## Was es bringt
 
@@ -65,6 +65,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein Open-Source-CRM namens Twenty installieren. Erstellen Sie im Terminal eine neue App mit dem Befehl „npx create-twenty-app my-app“ und veröffentlichen Sie sie dann mit „npx twenty app:publish --private“ in meinem Arbeitsbereich. Sagen Sie mir auch, wie man es mit Docker Compose zum Selbsthosten ausführt.
 
+Repository: https://github.com/twentyhq/twenty. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [CRM](https://trescout.com/de/dictionary/crm/)
@@ -86,7 +94,7 @@ Ich möchte ein Open-Source-CRM namens Twenty installieren. Erstellen Sie im Ter
 - [GitHub-Repository →](https://github.com/twentyhq/twenty)
 - [Auf Türkisch lesen →](https://trescout.com/discover/twenty/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-26 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-26 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/twenty/

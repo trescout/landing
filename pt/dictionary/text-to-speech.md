@@ -76,7 +76,7 @@ Isso varia dependendo da sua licença. A maioria dos mecanismos abertos está di
 - [Pocket TTS](https://trescout.com/pt/discover/pocket-tts/)
 - [MOSS-TTS](https://trescout.com/pt/discover/moss-tts/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/text-to-speech/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/text-to-speech/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/text-to-speech/

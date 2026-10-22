@@ -89,7 +89,7 @@ While LSP analyzes code writing, code completion and syntax errors; DAP (Debug A
 
 - [Oh My Pi](https://trescout.com/en/discover/oh-my-pi/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/lsp/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/lsp/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/lsp/

@@ -2,16 +2,16 @@
 
 Orca wurde von Stablyai entwickelt und bietet eine Agentenentwicklungsumgebung, die die gleichzeitige Verwaltung mehrerer Agenten für künstliche Intelligenz ermöglicht. Mit ihrem Abonnement können Benutzer verschiedene Codierungsagenten sowohl auf Desktop- als auch auf mobilen Plattformen ausführen.
 
-- ★ 93.926
+- ★ 100.379
 - TypeScript
 - GitHub Trending · 2026-06-25
 
 ## Aktualisierungen
 
-- **16. Oktober 2026:** Sterne 88,919 → 93,926, neueste Version v1.4.227 (16. Oktober 2026).
-- **10. Oktober 2026:** Sterne 88,274 → 88,919, neueste Version v1.4.224 (10. Oktober 2026).
-- **9. Oktober 2026:** Sterne 86,806 → 88,274, neueste Version v1.4.223 (8. Oktober 2026).
-- **7. Oktober 2026:** Sterne 86,198 → 86,806, neueste Version v1.4.222 (7. Oktober 2026).
+- **21. Oktober 2026:** Sterne 98,881 → 100,379, neueste Version v1.4.237 (21. Oktober 2026).
+- **20. Oktober 2026:** Sterne 97,386 → 98,881, neueste Version v1.4.232 (20. Oktober 2026).
+- **19. Oktober 2026:** Sterne 94,733 → 97,386, neueste Version v1.4.230 (19. Oktober 2026).
+- **17. Oktober 2026:** Sterne 93,926 → 94,733, neueste Version v1.4.229 (17. Oktober 2026).
 
 ## Was es bringt
 
@@ -39,6 +39,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Starten Sie mehrere KI-Agenten gleichzeitig in verschiedenen Arbeitsbereichen auf Orca. Senden Sie einen Befehl gleichzeitig an fünf verschiedene Agenten, vergleichen Sie die Ergebnisse und kombinieren Sie den besten. Lassen Sie mich den Arbeitsstatus der Agenten über die mobile App verfolgen und mir Benachrichtigungen senden, wenn der Vorgang abgeschlossen ist.
 
+Repository: https://github.com/stablyai/orca. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Agent Development Environment](https://trescout.com/de/dictionary/agent-development-environment/)
@@ -54,7 +62,7 @@ Starten Sie mehrere KI-Agenten gleichzeitig in verschiedenen Arbeitsbereichen au
 - [GitHub-Repository →](https://github.com/stablyai/orca)
 - [Auf Türkisch lesen →](https://trescout.com/discover/orca/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-25 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-25 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/orca/

@@ -39,7 +39,7 @@ Sim, ferramentas de desenvolvimento modernas e sistemas alimentados por IA podem
 - [System Design](https://trescout.com/pt/dictionary/system-design/)
 - [IDE](https://trescout.com/pt/dictionary/ide/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-graph/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-graph/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/code-graph/

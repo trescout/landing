@@ -1,0 +1,289 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-18",
+  "capturedAt": "2026-10-18T08:52:27.479Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "stablyai/orca é uma plataforma que permite gerenciar diferentes agentes de codificação (coding agents), como o Grok Bot ou o Claude Code, através de uma única interface. Oferecendo suporte para desktop, dispositivos móveis e tempo de execução remoto (remote runtime), esta ferramenta permite que você execute vários agentes de IA com suas próprias assinaturas.",
+          "meta": "TypeScript · ★ 95.785 · +830 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "stablyai/orca",
+            "capturedAt": "2026-10-18T08:52:27.557Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 95785,
+              "engagementCount": 830,
+              "rank": 8,
+              "extra": {
+                "starsToday": 830
+              }
+            },
+            "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+          }
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "O opencode, desenvolvido pela Anomalyco, é um agente de codificação de código aberto (código-fonte aberto para acesso e desenvolvimento por todos) que visa automatizar os processos de desenvolvimento de software. Escrita na linguagem TypeScript, esta ferramenta foi projetada para realizar operações focadas em tarefas em projetos de software.",
+          "meta": "TypeScript · ★ 215.779 · +438 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "anomalyco/opencode",
+            "capturedAt": "2026-10-18T08:52:27.557Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 215779,
+              "engagementCount": 438,
+              "rank": 11,
+              "extra": {
+                "starsToday": 438
+              }
+            },
+            "description": "The open source coding agent."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Solar surpasses nuclear power globally for first time",
+          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+          "summary": "A energia solar superou a produção de energia nuclear em escala global pela primeira vez. Este desenvolvimento demonstra concretamente o aumento da participação das fontes de energia renováveis no fornecimento total de energia.",
+          "meta": "591 pontos · 368 comentários",
+          "snapshot": {
+            "sourceId": "50131256",
+            "capturedAt": "2026-10-18T08:52:27.705Z",
+            "metadata": {
+              "popularity": 591,
+              "engagementCount": 368,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50131256",
+                  "popularity": 591,
+                  "engagementCount": 368
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-17T14:01:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50131256"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50131256",
+              "popularity": 591,
+              "engagementCount": 368
+            }
+          ]
+        },
+        {
+          "title": "You could have invented transformers from memory",
+          "url": "https://alexwang.ai/posts/associative-memory/",
+          "summary": "O artigo escrito por Alex Wang explica a lógica fundamental da arquitetura transformer através do conceito de memória associativa. O estudo mostra como os princípios básicos deste complexo modelo de inteligência artificial podem ser estruturados de forma intuitiva.",
+          "meta": "558 pontos · 127 comentários",
+          "snapshot": {
+            "sourceId": "50122878",
+            "capturedAt": "2026-10-18T08:52:27.705Z",
+            "metadata": {
+              "popularity": 558,
+              "engagementCount": 127,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50122878",
+                  "popularity": 558,
+                  "engagementCount": 127
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-16T19:01:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50122878"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50122878",
+              "popularity": 558,
+              "engagementCount": 127
+            }
+          ]
+        },
+        {
+          "title": "Bleached corals thrive within days when touching healthy neighbour",
+          "url": "https://www.nature.com/articles/d41586-026-03266-x",
+          "summary": "Observou-se que corais branqueados se revitalizam em poucos dias quando entram em contato com vizinhos saudáveis. Essa interação aponta para um novo mecanismo biológico sobre os processos de recuperação dos recifes de coral.",
+          "meta": "437 pontos · 97 comentários",
+          "snapshot": {
+            "sourceId": "50126253",
+            "capturedAt": "2026-10-18T08:52:27.705Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 97,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50126253",
+                  "popularity": 437,
+                  "engagementCount": 97
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-16T23:38:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50126253"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50126253",
+              "popularity": 437,
+              "engagementCount": 97
+            }
+          ]
+        },
+        {
+          "title": "Pele – Mermaid diagrams as themeable SVG",
+          "url": "https://pele.run/",
+          "summary": "Pele é uma ferramenta que converte diagramas Mermaid em gráficos vetoriais escaláveis (SVG) tematizáveis. Permite que os usuários apresentem os esquemas visuais que criaram com temas personalizáveis.",
+          "meta": "415 pontos · 38 comentários",
+          "snapshot": {
+            "sourceId": "50132193",
+            "capturedAt": "2026-10-18T08:52:27.705Z",
+            "metadata": {
+              "popularity": 415,
+              "engagementCount": 38,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50132193",
+                  "popularity": 415,
+                  "engagementCount": 38
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-17T15:55:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50132193"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50132193",
+              "popularity": 415,
+              "engagementCount": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "O deepseek-ai/DeepSeek-V4.1-Flash-1017, compartilhado no Hugging Face, é um modelo de inteligência artificial que processa entradas visuais e de texto para gerar saídas de texto. O referido modelo chama a atenção por sua capacidade de processamento de dados multimodal.",
+          "meta": "♥ 1.136 · 0 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-18T08:52:27.563Z",
+            "metadata": {
+              "popularity": 1136,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1060,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              },
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50129045",
+                  "popularity": 846,
+                  "engagementCount": 645
+                }
+              ]
+            },
+            "description": "image-text-to-text model"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50129045",
+              "popularity": 846,
+              "engagementCount": 645
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coding agents",
+      "explanation": "Programas de inteligência artificial que realizam tarefas como escrever código, depurar e editar de forma autônoma nos processos de desenvolvimento de software."
+    },
+    {
+      "term": "remote runtime",
+      "explanation": "Ambiente que permite que o software ou as operações de inteligência artificial sejam executados em um servidor remoto em vez de no computador local."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Sistema capaz de processar não apenas texto, mas também imagens, áudio ou outros tipos de dados simultaneamente."
+    },
+    {
+      "term": "associative memory",
+      "explanation": "Uma lógica de processamento de dados que armazena informações de acordo com suas relações entre si e as recupera por meio de associação."
+    },
+    {
+      "term": "SVG",
+      "explanation": "Formato de imagem digital desenhado com fórmulas matemáticas que pode ser redimensionado para qualquer tamanho sem perda de qualidade."
+    }
+  ]
+}

@@ -38,7 +38,7 @@ Oui, il isole les applications les unes des autres car chacune s'exécute dans s
 - [Containers](https://trescout.com/fr/dictionary/containers/)
 - [Runtime](https://trescout.com/fr/dictionary/runtime/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/lightweight-virtual-machines/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/lightweight-virtual-machines/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/lightweight-virtual-machines/

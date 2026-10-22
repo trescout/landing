@@ -61,7 +61,7 @@ The remote-controlled one is in human hands, while the autonomous one is left al
 - [Physical AI](https://trescout.com/en/dictionary/physical-ai/)
 - [World Models](https://trescout.com/en/dictionary/world-model/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/autonomous-robotics/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/autonomous-robotics/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/autonomous-robotics/

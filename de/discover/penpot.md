@@ -45,6 +45,7 @@ Um Penpot zu nutzen, können Sie die offizielle Website penpot.app besuchen. Sie
 
 - [Self-hosting](https://trescout.com/de/dictionary/self-hosting/)
 - [Localhost](https://trescout.com/de/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Teams, die die Harmonie zwischen Designern und Softwareentwicklern in digitalen Produktentwicklungsprozessen erhöhen möchten.
 - **Lizenz:** MPL-2.0
@@ -54,7 +55,7 @@ Um Penpot zu nutzen, können Sie die offizielle Website penpot.app besuchen. Sie
 - [GitHub-Repository →](https://github.com/penpot/penpot)
 - [Auf Türkisch lesen →](https://trescout.com/discover/penpot/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-18 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-18 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/penpot/

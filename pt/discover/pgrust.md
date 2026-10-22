@@ -2,12 +2,13 @@
 
 O projeto pgrust, no qual o sistema de gerenciamento de banco de dados PostgreSQL foi reescrito com a linguagem de programação Rust, conclui com êxito todos os testes de regressão. Este trabalho tem como objetivo modernizar a arquitetura de banco de dados com uma linguagem focada na segurança de memória.
 
-- ★ 5.030
+- ★ 5.282
 - Rust
 - GitHub Trending · 2026-07-12
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 5,030 → 5,282, versão mais recente v0.3.1 (19 de outubro de 2026).
 - **16 de setembro de 2026:** Estrelas 4,964 → 5,030, versão mais recente v0.3 (15 de setembro de 2026).
 - **10 de setembro de 2026:** Estrelas 3,957 → 4,964, versão mais recente v0.2-release (30 de julho de 2026).
 - **2 de agosto de 2026:** Estrelas 2,171 → 3,957, versão mais recente v0.2-release (30 de julho de 2026).
@@ -32,6 +33,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Qual é o objetivo principal do projeto Pgrust, como é garantida a compatibilidade do disco com o PostgreSQL existente e como é utilizada a programação suportada por inteligência artificial no desenvolvimento do projeto? Conte-nos sobre a compatibilidade da versão atual do Pgrust com o Postgres 18.3 e seu sucesso em testes de regressão.
 
+Repositório: https://github.com/malisper/pgrust. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Memory](https://trescout.com/pt/dictionary/memory/)
@@ -46,7 +55,7 @@ Qual é o objetivo principal do projeto Pgrust, como é garantida a compatibilid
 - [Repositório no GitHub →](https://github.com/malisper/pgrust)
 - [Ler em turco →](https://trescout.com/discover/pgrust/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-12: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-12: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/pgrust/

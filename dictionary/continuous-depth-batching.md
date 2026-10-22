@@ -35,7 +35,7 @@ Evet, aynı donanım üzerinde daha fazla kullanıcıya aynı anda hizmet vermey
 - [GPU](https://trescout.com/dictionary/gpu/)
 - [LLM Inference](https://trescout.com/dictionary/llm-inference/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/continuous-depth-batching/

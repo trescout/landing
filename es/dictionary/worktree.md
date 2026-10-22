@@ -42,7 +42,7 @@ Sí, esta función es compatible con todas las versiones modernas de Git.
 
 - [Worktrunk](https://trescout.com/es/discover/worktrunk/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/worktree/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/worktree/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/worktree/

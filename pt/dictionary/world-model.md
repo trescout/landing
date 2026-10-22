@@ -39,7 +39,7 @@ Não, a maioria dos modelos linguísticos actuais centra-se apenas nas estatíst
 - [AI Agent](https://trescout.com/pt/dictionary/ai-agent/)
 - [Foundation Model](https://trescout.com/pt/dictionary/foundation-model/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/world-model/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/world-model/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/world-model/

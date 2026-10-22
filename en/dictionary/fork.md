@@ -39,7 +39,7 @@ They do not come automatically, but you can explicitly pull the innovations from
 - [Manim](https://trescout.com/en/discover/manim/)
 - [Googletest](https://trescout.com/en/discover/googletest/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/fork/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/fork/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/fork/

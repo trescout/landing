@@ -42,7 +42,7 @@ Non, différentes combinaisons d'outils sont sélectionnées en fonction de la t
 
 - [CopilotKit](https://trescout.com/fr/discover/copilotkit/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/frontend-stack/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/frontend-stack/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/frontend-stack/

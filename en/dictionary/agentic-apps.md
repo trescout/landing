@@ -41,7 +41,7 @@ While in normal applications you have to manage every step by clicking, in these
 - [Autonomous Agent](https://trescout.com/en/dictionary/autonomous-agent/)
 - [Agent-native Applications](https://trescout.com/en/dictionary/agent-native-applications/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agentic-apps/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agentic-apps/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agentic-apps/

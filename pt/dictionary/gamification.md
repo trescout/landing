@@ -59,7 +59,7 @@ Escolha um único comportamento, meça-o e estabeleça um ciclo de recompensa cu
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 - [Meta-skill](https://trescout.com/pt/dictionary/meta-skill/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/gamification/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/gamification/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/gamification/

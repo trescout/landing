@@ -2,16 +2,16 @@
 
 Octop, desarrollado por TencentCloud, es un asistente de IA multiusuario y multiagente que puedes alojar en tu propio servidor. Este sistema basado en Python permite que diferentes usuarios interactúen simultáneamente con múltiples agentes de IA.
 
-- ★ 9.446
+- ★ 10.066
 - Python
 - GitHub Trending · 2026-09-18
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 9,714 → 10,066, última versión v1.0.2 (18 de octubre de 2026).
+- **17 de octubre de 2026:** Estrellas 9,446 → 9,714, última versión v1.0.2b9 (17 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 8,878 → 9,446, última versión v1.0.2b8 (14 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 7,930 → 8,878, última versión v1.0.2b7 (12 de octubre de 2026).
-- **8 de octubre de 2026:** Estrellas 6,829 → 7,930, última versión v1.0.2b6 (4 de octubre de 2026).
-- **5 de octubre de 2026:** Estrellas 6,668 → 6,829, última versión v1.0.2b6 (4 de octubre de 2026).
 
 ## Qué aporta
 
@@ -41,6 +41,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar un entorno de trabajo multiusuario y multiagente en la plataforma Octop. Define agentes con diferentes especialidades para mi asistente personal, miembros de mi familia o compañeros de equipo pequeños, permitiendo que estos agentes trabajen de forma segura con mis datos locales y colaboren conmigo a través de una interfaz web o canales de mensajería. Configura los rasgos de personalidad MBTI de los agentes, haz que generen respuestas a partir de mis documentos privados mediante RAG (Retrieval-Augmented Generation - tecnología que recupera información significativa de documentos) y automatiza mis tareas.
 
+Repositorio: https://github.com/TencentCloud/Octop. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [RAG](https://trescout.com/es/dictionary/rag/)
@@ -55,7 +63,7 @@ Quiero configurar un entorno de trabajo multiusuario y multiagente en la platafo
 - [Repositorio en GitHub →](https://github.com/TencentCloud/Octop)
 - [Leer en turco →](https://trescout.com/discover/octop/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-18: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-18: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/octop/

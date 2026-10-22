@@ -1,0 +1,289 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-18",
+  "capturedAt": "2026-10-18T08:52:27.479Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "summary": "stablyai/orca, Grok Bot veya Claude Code gibi farklı kodlama ajanlarını (coding agents) tek bir arayüz üzerinden yönetmenize olanak tanıyan bir platformdur. Masaüstü, mobil ve uzak çalışma zamanı (remote runtime) desteği sunan bu araç, kendi aboneliklerinizle çeşitli yapay zekâ ajanlarını çalıştırmanızı sağlar.",
+          "meta": "TypeScript · ★ 95.785 · +830 bugün",
+          "snapshot": {
+            "sourceId": "stablyai/orca",
+            "capturedAt": "2026-10-18T08:52:27.557Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 95785,
+              "engagementCount": 830,
+              "rank": 8,
+              "extra": {
+                "starsToday": 830
+              }
+            },
+            "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+          },
+          "returning": true
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "Anomalyco tarafından geliştirilen opencode, yazılım geliştirme süreçlerini otomatize etmeyi amaçlayan açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir kodlama ajanıdır. TypeScript diliyle yazılan bu araç, yazılım projelerinde görev odaklı işlemler gerçekleştirmek için tasarlanmıştır.",
+          "meta": "TypeScript · ★ 215.779 · +438 bugün",
+          "snapshot": {
+            "sourceId": "anomalyco/opencode",
+            "capturedAt": "2026-10-18T08:52:27.557Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 215779,
+              "engagementCount": 438,
+              "rank": 11,
+              "extra": {
+                "starsToday": 438
+              }
+            },
+            "description": "The open source coding agent."
+          },
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Solar surpasses nuclear power globally for first time",
+          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+          "summary": "Güneş enerjisi, küresel ölçekte nükleer enerji üretimini ilk kez geride bıraktı. Bu gelişme, yenilenebilir enerji kaynaklarının toplam enerji arzındaki payının artışını somut bir şekilde ortaya koyuyor.",
+          "meta": "591 oy · 368 yorum",
+          "snapshot": {
+            "sourceId": "50131256",
+            "capturedAt": "2026-10-18T08:52:27.705Z",
+            "metadata": {
+              "popularity": 591,
+              "engagementCount": 368,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50131256",
+                  "popularity": 591,
+                  "engagementCount": 368
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-17T14:01:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50131256"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50131256",
+              "popularity": 591,
+              "engagementCount": 368
+            }
+          ]
+        },
+        {
+          "title": "You could have invented transformers from memory",
+          "url": "https://alexwang.ai/posts/associative-memory/",
+          "summary": "Alex Wang tarafından kaleme alınan yazı, transformer mimarisinin temelindeki mantığı ilişkisel bellek (associative memory) kavramı üzerinden açıklıyor. Çalışma, bu karmaşık yapay zekâ modelinin temel prensiplerinin nasıl sezgisel bir şekilde kurgulanabileceğini gösteriyor.",
+          "meta": "558 oy · 127 yorum",
+          "snapshot": {
+            "sourceId": "50122878",
+            "capturedAt": "2026-10-18T08:52:27.705Z",
+            "metadata": {
+              "popularity": 558,
+              "engagementCount": 127,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50122878",
+                  "popularity": 558,
+                  "engagementCount": 127
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-16T19:01:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50122878"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50122878",
+              "popularity": 558,
+              "engagementCount": 127
+            }
+          ]
+        },
+        {
+          "title": "Bleached corals thrive within days when touching healthy neighbour",
+          "url": "https://www.nature.com/articles/d41586-026-03266-x",
+          "summary": "Beyazlaşan mercanların sağlıklı komşularıyla temas etmesi durumunda birkaç gün içinde yeniden canlandığı gözlemlendi. Bu etkileşim, mercan resiflerinin toparlanma süreçlerine dair yeni bir biyolojik mekanizmaya işaret ediyor.",
+          "meta": "437 oy · 97 yorum",
+          "snapshot": {
+            "sourceId": "50126253",
+            "capturedAt": "2026-10-18T08:52:27.705Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 97,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50126253",
+                  "popularity": 437,
+                  "engagementCount": 97
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-16T23:38:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50126253"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50126253",
+              "popularity": 437,
+              "engagementCount": 97
+            }
+          ]
+        },
+        {
+          "title": "Pele – Mermaid diagrams as themeable SVG",
+          "url": "https://pele.run/",
+          "summary": "Pele, Mermaid diyagramlarını temalandırılabilir ölçeklenebilir vektör grafiklerine (SVG) dönüştüren bir araçtır. Kullanıcıların oluşturdukları görsel şemaları özelleştirilebilir temalarla sunmalarına olanak tanır.",
+          "meta": "415 oy · 38 yorum",
+          "snapshot": {
+            "sourceId": "50132193",
+            "capturedAt": "2026-10-18T08:52:27.705Z",
+            "metadata": {
+              "popularity": 415,
+              "engagementCount": 38,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50132193",
+                  "popularity": 415,
+                  "engagementCount": 38
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-17T15:55:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50132193"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50132193",
+              "popularity": 415,
+              "engagementCount": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Hugging Face üzerinde paylaşılan deepseek-ai/DeepSeek-V4.1-Flash-1017, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir yapay zekâ modelidir. Söz konusu model, çok modlu (multimodal) veri işleme yeteneğiyle dikkat çekmektedir.",
+          "meta": "♥ 1.136 · 0 indirme",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-18T08:52:27.563Z",
+            "metadata": {
+              "popularity": 1136,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1060,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              },
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50129045",
+                  "popularity": 846,
+                  "engagementCount": 645
+                }
+              ]
+            },
+            "description": "image-text-to-text model"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50129045",
+              "popularity": 846,
+              "engagementCount": 645
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coding agents",
+      "explanation": "Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve düzenleme gibi görevleri otonom şekilde yerine getiren yapay zekâ programları."
+    },
+    {
+      "term": "remote runtime",
+      "explanation": "Yazılımın veya yapay zekâ işlemlerinin yerel bilgisayar yerine uzak bir sunucu üzerinde çalıştırılmasını sağlayan ortam."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Sadece metinle değil, aynı zamanda görsel, sesli veya diğer veri türlerini aynı anda işleyebilen sistem."
+    },
+    {
+      "term": "associative memory",
+      "explanation": "Bilgileri birbirleriyle olan ilişkilerine göre depolayan ve çağrışım yoluyla hatırlayan bir veri işleme mantığı."
+    },
+    {
+      "term": "SVG",
+      "explanation": "Kalitesi bozulmadan istenilen boyuta getirilebilen, matematiksel formüllerle çizilen dijital görüntü formatı."
+    }
+  ]
+}

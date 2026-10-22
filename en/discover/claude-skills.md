@@ -2,16 +2,16 @@
 
 Developed for Claude Code and various coding agents, this library offers more than 330 skill packages and over 70 special commands in different fields from engineering to marketing. This Python-based toolset provides customizable scripts to standardize AI-based workflows and increase productivity.
 
-- ★ 27,840
+- ★ 28,485
 - Python
 - GitHub Trending · 2026-07-05
 
 ## Updates
 
+- **October 21, 2026:** Stars 27,840 → 28,485, latest release v2.13.0 (October 21, 2026).
 - **October 8, 2026:** Stars 26,514 → 27,840, latest release v2.12.0 (August 25, 2026).
 - **September 27, 2026:** Stars 25,061 → 26,514, latest release v2.12.0 (August 25, 2026).
 - **August 27, 2026:** Stars 24,867 → 25,061, latest release v2.12.0 (August 25, 2026).
-- **August 24, 2026:** Stars 23,654 → 24,867, latest release v2.9.0 (May 28, 2026).
 
 ## What you get
 
@@ -65,6 +65,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Activate the skill packages in this library for Claude Code or the coding agent you use. Standardize my workflow and increase my productivity using specialized scripts in fields like engineering, marketing, or C-level consulting. Integrate the specific capabilities I need (e.g. security auditing or product development) into my project.
 
+Repository: https://github.com/alirezarezvani/claude-skills. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
@@ -79,7 +87,7 @@ Activate the skill packages in this library for Claude Code or the coding agent 
 - [GitHub repository →](https://github.com/alirezarezvani/claude-skills)
 - [Read in Turkish →](https://trescout.com/discover/claude-skills/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/claude-skills/

@@ -47,7 +47,7 @@ Tecnicamente sim, mas é ética e legalmente importante prestar atenção aos te
 - [Camofox Browser](https://trescout.com/pt/discover/camofox-browser/)
 - [Mobile MCP](https://trescout.com/pt/discover/mobile-mcp/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-scraping/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-scraping/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/web-scraping/

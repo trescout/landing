@@ -2,16 +2,16 @@
 
 Escrita en Rust, ai-memory ofrece una solución de memoria a largo plazo para agentes de inteligencia artificial. Admite la continuidad de las interfaces de línea de comandos (CLI) utilizadas en los procesos de desarrollo de software al facilitar la transferencia de datos entre diferentes proveedores de agentes.
 
-- ★ 9.474
+- ★ 11.983
 - Rust
 - GitHub Trending · 2026-08-18
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 11,675 → 11,983, última versión v3.1.2 (20 de octubre de 2026).
+- **20 de octubre de 2026:** Estrellas 10,123 → 11,675, última versión v3.1.1 (17 de octubre de 2026).
+- **18 de octubre de 2026:** Estrellas 9,474 → 10,123, última versión v3.1.1 (17 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 9,243 → 9,474, última versión v3.1.0 (16 de octubre de 2026).
-- **14 de octubre de 2026:** Estrellas 9,195 → 9,243, última versión v3.0.0 (14 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 9,161 → 9,195, última versión v2.6.6 (13 de octubre de 2026).
-- **12 de octubre de 2026:** Estrellas 9,156 → 9,161, última versión v2.6.5 (12 de octubre de 2026).
 
 ## Qué aporta
 
@@ -38,7 +38,7 @@ Para comenzar a utilizar la herramienta, visite la página oficial en GitHub y d
 - [Repositorio en GitHub →](https://github.com/akitaonrails/ai-memory)
 - [Leer en turco →](https://trescout.com/discover/ai-memory/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-18: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-18: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/ai-memory/

@@ -38,7 +38,7 @@ No, it doesn't require a database, making it very fast.
 - [Frontend Stack](https://trescout.com/en/dictionary/frontend-stack/)
 - [CMS](https://trescout.com/en/dictionary/cms/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/static-site-generator/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/static-site-generator/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/static-site-generator/

@@ -34,7 +34,7 @@ Da er sich nur auf kleine Fortschritte konzentriert, kann er die vorübergehende
 - [Algorithmic Trading](https://trescout.com/de/dictionary/algorithmic-trading/)
 - [Agentic Workflows](https://trescout.com/de/dictionary/agentic-workflows/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/hill-climbing/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/hill-climbing/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/hill-climbing/

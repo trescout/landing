@@ -40,7 +40,7 @@ Geralmente sim, mas algumas extensões como .gov são exclusivas para órgãos g
 - [Nameservers](https://trescout.com/pt/dictionary/nameservers/)
 - [Network Stack](https://trescout.com/pt/dictionary/network-stack/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/top-level-domain/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/top-level-domain/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/top-level-domain/

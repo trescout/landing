@@ -66,7 +66,7 @@ Yes, with device encryption. A lock is essential against lost devices.
 - [Memory System](https://trescout.com/en/dictionary/memory-system/)
 - [Self-hosting](https://trescout.com/en/dictionary/self-hosting/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/local-first-memory/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/local-first-memory/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/local-first-memory/

@@ -2,12 +2,13 @@
 
 Sonarr is an open source, intelligent personal video recorder (PVR) and media automation manager developed for Usenet (newsgroups) and BitTorrent users. Platform developed with C# and .NET infrastructure; keeps track of newly released episodes, communicates with download clients, renames and transfers files to Plex and Jellyfin libraries on a regular basis.
 
-- ★ 16,274
+- ★ 17,274
 - C#
 - GitHub Trending · 2026-09-12
 
 ## Updates
 
+- **October 18, 2026:** Stars 16,274 → 17,274, latest release v4.0.20.3014 (September 16, 2026).
 - **September 17, 2026:** Stars 15,798 → 16,274, latest release v4.0.20.3014 (September 16, 2026).
 - **September 12, 2026:** Stars 15,796 → 15,798, latest release v4.0.19.2979 (June 26, 2026).
 
@@ -73,6 +74,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run Sonarr, qBittorrent, Prowlarr and Jellyfin services together on Docker on my home server. Can you please explain step by step the complete docker-compose.yml file containing a single volume mount structure and the first settings I need to make in the Sonarr web panel for hardlinks to work smoothly?
 
+Repository: https://github.com/Sonarr/Sonarr. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Does Sonarr download the file itself directly? No. Sonarr is not a download client; is a manager. It searches, pushes the torrent/NZB file to clients like qBittorrent or SABnzbd, and moves the downloaded file to the archive folder.
@@ -86,8 +95,8 @@ I want to run Sonarr, qBittorrent, Prowlarr and Jellyfin services together on Do
 - [HDR](https://trescout.com/en/dictionary/hdr/)
 - [VPN](https://trescout.com/en/dictionary/vpn/)
 - [Pipeline](https://trescout.com/en/dictionary/pipeline/)
-- [API](https://trescout.com/en/dictionary/api/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [API](https://trescout.com/en/dictionary/api/)
 
 - **Who it is for:** Home server (Homelab) owners, media enthusiasts and those who want to manage their series archives effortlessly.
 - **License:** GPL-3.0 (Açık kaynak lisansı)
@@ -99,7 +108,7 @@ I want to run Sonarr, qBittorrent, Prowlarr and Jellyfin services together on Do
 - [GitHub repository →](https://github.com/Sonarr/Sonarr)
 - [Read in Turkish →](https://trescout.com/discover/sonarr/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/sonarr/

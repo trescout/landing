@@ -71,7 +71,7 @@ Memory and CPU drop, parallel execution increases. Scaling comes from here.
 - [Browser](https://trescout.com/en/discover/browser/)
 - [Camofox Browser](https://trescout.com/en/discover/camofox-browser/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/headless-browser/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/headless-browser/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/headless-browser/

@@ -2,16 +2,16 @@
 
 Meshery is a service mesh management platform designed for the management of cloud native infrastructures. The platform enables configuration, lifecycle management and performance analysis processes in complex cloud environments to be carried out from a single center.
 
-- ★ 11,942
+- ★ 12,023
 - TypeScript
 - GitHub Trending · 2026-06-15
 
 ## Updates
 
+- **October 21, 2026:** Stars 11,942 → 12,023, latest release v1.0.72 (October 20, 2026).
 - **October 12, 2026:** Stars 11,795 → 11,942, latest release v1.0.71 (October 11, 2026).
 - **September 15, 2026:** Stars 11,669 → 11,795, latest release v1.0.70 (September 14, 2026).
 - **September 4, 2026:** Stars 11,558 → 11,669, latest release v1.0.69 (September 3, 2026).
-- **August 24, 2026:** Stars 11,488 → 11,558, latest release v1.0.68 (August 24, 2026).
 
 ## What you get
 
@@ -58,7 +58,7 @@ To start using Meshery, you can visit meshery.io via your browser or try the Clo
 - [GitHub repository →](https://github.com/meshery/meshery)
 - [Read in Turkish →](https://trescout.com/discover/meshery/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/meshery/

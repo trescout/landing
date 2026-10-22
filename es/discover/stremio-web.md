@@ -2,16 +2,16 @@
 
 Stremio es una aplicación de reproductor multimedia que combina diferentes proveedores de contenido en una sola interfaz. Esta versión basada en web permite a los usuarios ver series y películas a través del navegador sin necesidad de realizar ninguna instalación.
 
-- ★ 14.524
+- ★ 14.721
 - JavaScript
 - GitHub Trending · 2026-09-07
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 14,524 → 14,721, última versión v5.0.0-beta.43 (20 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 14,129 → 14,524, última versión v5.0.0-beta.42 (12 de octubre de 2026).
 - **5 de octubre de 2026:** Estrellas 13,968 → 14,129, última versión v5.0.0-beta.41 (5 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 13,631 → 13,968, última versión v5.0.0-beta.40 (23 de septiembre de 2026).
-- **7 de septiembre de 2026:** Estrellas 13,627 → 13,631, última versión v5.0.0-beta.39 (27 de julio de 2026).
 
 ## Qué aporta
 
@@ -41,6 +41,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo personalizar mi experiencia de ver series y películas usando la interfaz de Stremio Web? Guíame sobre cómo gestionar los complementos (addons), cómo sincronizar mi lista de seguimiento y cómo controlar el reproductor de manera más eficiente usando atajos de teclado.
 
+Repositorio: https://github.com/Stremio/stremio-web. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
@@ -53,7 +61,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 - [Repositorio en GitHub →](https://github.com/Stremio/stremio-web)
 - [Leer en turco →](https://trescout.com/discover/stremio-web/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/stremio-web/

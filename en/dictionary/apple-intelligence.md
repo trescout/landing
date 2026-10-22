@@ -39,7 +39,7 @@ No: Requests sent to the cloud are processed instantly in a private server archi
 - [Local-first](https://trescout.com/en/dictionary/local-first/)
 - [Generative AI](https://trescout.com/en/dictionary/generative-ai/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/apple-intelligence/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/apple-intelligence/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/apple-intelligence/

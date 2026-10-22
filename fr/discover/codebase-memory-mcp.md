@@ -2,16 +2,16 @@
 
 Codebase-memory-mcp offre une intelligence de code haute performance en transformant les bases de code en un graphe de connaissances permanent. Développé en langage C, l'outil prend en charge 158 langages de programmation, réduit les temps de requête à moins de millisecondes et réduit l'utilisation des jetons.
 
-- ★ 46 686
+- ★ 46 739
 - C
 - GitHub Trending · 2026-06-18
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 46,686 → 46,739, dernière version v0.12.1 (16 octobre 2026).
 - **16 octobre 2026:** Étoiles 45,659 → 46,686, dernière version v0.12.0 (15 octobre 2026).
 - **2 octobre 2026:** Étoiles 43,473 → 45,659, dernière version v0.11.0 (15 septembre 2026).
 - **16 septembre 2026:** Étoiles 41,472 → 43,473, dernière version v0.11.0 (15 septembre 2026).
-- **31 août 2026:** Étoiles 39,459 → 41,472, dernière version v0.10.8 (19 août 2026).
 
 ## Ce que ça vous apporte
 
@@ -33,6 +33,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Indexez ce projet pour vous aider à analyser ma base de code et à répondre plus efficacement aux requêtes structurées. Après avoir indexé le projet, je souhaite que vous fournissiez des informations détaillées sur ma base de code en utilisant les relations entre les fonctions, les classes et les chaînes d'appels.
 
+Dépôt : https://github.com/DeusData/codebase-memory-mcp. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Knowledge Graph](https://trescout.com/fr/dictionary/knowledge-graph/)
@@ -47,7 +55,7 @@ Indexez ce projet pour vous aider à analyser ma base de code et à répondre pl
 - [Dépôt GitHub →](https://github.com/DeusData/codebase-memory-mcp)
 - [Lire en turc →](https://trescout.com/discover/codebase-memory-mcp/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/codebase-memory-mcp/

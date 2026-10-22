@@ -27,6 +27,7 @@ Vous pouvez activer l'outil pour télécharger votre référentiel sur l'espace 
 - [Repository Checkout](https://trescout.com/fr/dictionary/repository-checkout/)
 - [Checkout](https://trescout.com/fr/dictionary/checkout/)
 - [Continuous Integration](https://trescout.com/fr/dictionary/continuous-integration/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux développeurs de logiciels qui automatisent les processus d'intégration continue à l'aide de GitHub Actions.
 - **Licence:** MIT
@@ -36,7 +37,7 @@ Vous pouvez activer l'outil pour télécharger votre référentiel sur l'espace 
 - [Dépôt GitHub →](https://github.com/actions/checkout)
 - [Lire en turc →](https://trescout.com/discover/checkout/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/checkout/

@@ -76,7 +76,7 @@ It varies depending on your license. Most open engines are available for commerc
 - [Pocket TTS](https://trescout.com/en/discover/pocket-tts/)
 - [MOSS-TTS](https://trescout.com/en/discover/moss-tts/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/text-to-speech/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/text-to-speech/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/text-to-speech/

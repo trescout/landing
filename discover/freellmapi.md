@@ -2,16 +2,16 @@
 
 FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli sağlayıcısını OpenAI formatında tek bir REST API altında toplayarak akıllı yönlendirme ve arıza toleransı sunar.
 
-- ★ 35.948
+- ★ 38.660
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
 
-- **16 Ekim 2026:** Yıldız 34.584 → 35.948, son sürüm v0.15.0 (15 Ekim 2026).
-- **13 Ekim 2026:** Yıldız 33.595 → 34.584, son sürüm v0.14.2 (13 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 33.363 → 33.595, son sürüm v0.13.10 (12 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 33.101 → 33.363, son sürüm v0.13.9 (11 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 38.000 → 38.660, son sürüm v0.16.7 (21 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 37.418 → 38.000, son sürüm v0.16.6 (20 Ekim 2026).
+- **19 Ekim 2026:** Yıldız 37.306 → 37.418, son sürüm v0.16.5 (19 Ekim 2026).
+- **19 Ekim 2026:** Yıldız 36.776 → 37.306, son sürüm v0.16.4 (19 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -67,6 +67,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 FreeLLMAPI aracını Docker ile yerel sunucumda nasıl çalıştıracağımı, OpenAI Node.js SDK'sını bu yerel uç noktaya nasıl yönlendireceğimi ve bir sağlayıcı hata verdiğinde otomatik yedek model kullanımını nasıl sağlayacağımı kod örnekleriyle açıklar mısın?
 
+Depo: https://github.com/tashfeenahmed/freellmapi. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ geliştiricileri, açık kaynak araştırmacıları, full-stack mühendisler ve prototip geliştirenler.
 - **Lisans:** MIT (Özgür açık kaynak lisansı)
 - **Çatı:** TypeScript / Node.js Ters Proxy
@@ -83,7 +91,7 @@ FreeLLMAPI aracını Docker ile yerel sunucumda nasıl çalıştıracağımı, O
 
 - [GitHub deposu →](https://github.com/tashfeenahmed/freellmapi)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
@@ -92,7 +100,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Localhost](https://trescout.com/dictionary/localhost/)
 - [SDK](https://trescout.com/dictionary/sdk/)
 - [LLM](https://trescout.com/dictionary/llm/)
-- [API](https://trescout.com/dictionary/api/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/freellmapi/

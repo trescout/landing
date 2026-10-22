@@ -79,7 +79,7 @@ Modern versions of JavaScript (ES6+) have lost their former popularity because m
 - [Production Pipeline](https://trescout.com/en/dictionary/production-pipeline/)
 - [Bundler](https://trescout.com/en/dictionary/bundler/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/utilities/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/utilities/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/utilities/

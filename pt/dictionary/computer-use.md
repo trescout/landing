@@ -38,7 +38,7 @@ Está muito próximo do conceito de Agente de IA, mas o Uso do Computador é um 
 
 - [Cwc Workshops](https://trescout.com/pt/discover/cwc-workshops/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/computer-use/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/computer-use/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/computer-use/

@@ -40,7 +40,7 @@ Since there is no intermediary, you have control over your assets, but one shoul
 - [dApps](https://trescout.com/en/dictionary/dapps/)
 - [Digital Privacy](https://trescout.com/en/dictionary/digital-privacy/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dex/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dex/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/dex/

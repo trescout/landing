@@ -2,7 +2,7 @@
 
 Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağlayan bir çalışma zamanı ortamı (runtime environment) sunuyor. V8 motorunu temel alan bu platform, sunucu tarafında ölçeklenebilir ağ uygulamaları geliştirmek için kullanılıyor.
 
-- ★ 122.283
+- ★ 122.486
 - JavaScript
 - GitHub Trending · 2026-07-27
 
@@ -10,10 +10,10 @@ Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağla
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 122.283 → 122.486, son sürüm v26.12.1 (21 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 122.434 → 122.283, son sürüm v26.12.0 (14 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 122.128 → 122.434, son sürüm v26.11.1 (7 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 121.978 → 122.128, son sürüm v26.10.0 (22 Eylül 2026).
-- **17 Eylül 2026:** Yıldız 121.155 → 121.978, son sürüm v26.9.0 (16 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -27,13 +27,21 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Node.js ortamını kullanarak JavaScript tabanlı bir sunucu uygulaması geliştirmek istiyorum. Bu platformun sunduğu temel çalışma zamanı özelliklerini ve ölçeklenebilir ağ uygulamaları oluştururken dikkat etmem gereken yapısal unsurları açıklar mısın?
 
+Depo: https://github.com/nodejs/node. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Sunucu tarafında JavaScript kullanarak ölçeklenebilir ağ uygulamaları geliştirmek isteyen yazılımcılar içindir.
 
 ## Bağlantılar
 
 - [GitHub deposu →](https://github.com/nodejs/node)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

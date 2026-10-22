@@ -39,7 +39,7 @@ Non, le plus grand avantage de ces systèmes est que les unités se sauvegardent
 - [MiroFish](https://trescout.com/fr/discover/mirofish/)
 - [AutoHedge](https://trescout.com/fr/discover/autohedge/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/swarm-intelligence/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/swarm-intelligence/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/swarm-intelligence/

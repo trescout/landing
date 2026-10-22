@@ -85,7 +85,7 @@ Además de las pruebas tradicionales, se utilizan marcos de evaluación (evals) 
 
 - [Gstack](https://trescout.com/es/discover/gstack/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/qa/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/qa/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/qa/

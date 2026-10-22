@@ -75,7 +75,7 @@ Sim. Com regras de firewall, a passagem é bloqueada e as redes operam isoladas.
 - [OpenWA](https://trescout.com/pt/discover/openwa/)
 - [Grok2api](https://trescout.com/pt/discover/grok2api/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/gateway/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/gateway/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/gateway/

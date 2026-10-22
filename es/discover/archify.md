@@ -2,15 +2,15 @@
 
 Archify es una habilidad de agente de IA (agent skill) que genera esquemas de arquitectura, flujo de datos y flujos de trabajo como archivos HTML animados y verificables. Utilizada para visualizar diseños de sistemas complejos, esta herramienta admite la exportación de diagramas en alta resolución.
 
-- ★ 82.984
+- ★ 85.613
 - GitHub Trending · 2026-08-26
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 82,984 → 85,613, última versión v3.2.0 (19 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 81,841 → 82,984, última versión v3.1.0 (13 de octubre de 2026).
 - **11 de octubre de 2026:** Estrellas 77,819 → 81,841, última versión v3.0.1 (28 de septiembre de 2026).
 - **5 de octubre de 2026:** Estrellas 73,342 → 77,819, última versión v3.0.1 (28 de septiembre de 2026).
-- **28 de septiembre de 2026:** Estrellas 72,294 → 73,342, última versión v3.0.1 (28 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -32,6 +32,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Use Archify to diagram a web request: Browser calls the API, the API checks Redis, and a cache miss queries PostgreSQL and fills the cache.
 
+Repositorio: https://github.com/tt-a1i/archify. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Skill](https://trescout.com/es/dictionary/skill/)
@@ -47,7 +55,7 @@ Use Archify to diagram a web request: Browser calls the API, the API checks Redi
 - [Repositorio en GitHub →](https://github.com/tt-a1i/archify)
 - [Leer en turco →](https://trescout.com/discover/archify/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-26: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-26: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/archify/

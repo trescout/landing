@@ -2,16 +2,16 @@
 
 Developed by Tsinghua University researchers, OpenMAIC brings together multiple artificial intelligence agents in the roles of teacher, student and observer in an interactive classroom environment.
 
-- ★ 40,871
+- ★ 41,041
 - TypeScript
 - GitHub Trending · 2026-08-31
 
 ## Updates
 
+- **October 19, 2026:** Stars 40,871 → 41,041, latest release v1.2.1 (October 18, 2026).
 - **October 16, 2026:** Stars 40,363 → 40,871, latest release v1.2.0 (October 16, 2026).
 - **October 11, 2026:** Stars 39,969 → 40,363, latest release v1.1.4 (October 11, 2026).
 - **October 5, 2026:** Stars 39,351 → 39,969, latest release v1.1.3 (October 5, 2026).
-- **September 28, 2026:** Stars 39,156 → 39,351, latest release v1.1.2 (September 28, 2026).
 
 ## What you get
 
@@ -58,6 +58,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to simulate a Socratic discussion environment by uploading my own lecture notes on the OpenMAIC platform. Could you explain step-by-step how to define the roles of the agents (teacher, curious student, critical questioner) and how to set up this class with a local Ollama model?
 
+Repository: https://github.com/THU-MAIC/OpenMAIC. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Do I need a GPU to use OpenMAIC? If you are going to run your own local model (Ollama/vLLM), a GPU is recommended; however, it can be used directly with a standard computer via cloud APIs (OpenAI, Gemini, Groq).
@@ -71,8 +79,8 @@ I want to simulate a Socratic discussion environment by uploading my own lecture
 - [GPU](https://trescout.com/en/dictionary/gpu/)
 - [PDF](https://trescout.com/en/dictionary/pdf/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
-- [API](https://trescout.com/en/dictionary/api/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [API](https://trescout.com/en/dictionary/api/)
 
 - **Who it is for:** Educators, AI researchers, edtech entrepreneurs, and students.
 - **License:** Apache-2.0 (Açık kaynak lisansı)
@@ -84,7 +92,7 @@ I want to simulate a Socratic discussion environment by uploading my own lecture
 - [GitHub repository →](https://github.com/THU-MAIC/OpenMAIC)
 - [Read in Turkish →](https://trescout.com/discover/openmaic/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-31: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-31: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/openmaic/

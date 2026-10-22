@@ -34,7 +34,7 @@ Compruebe el número de línea en el mensaje de error y revise las reglas de esc
 - [Script](https://trescout.com/es/dictionary/script/)
 - [Clean Code](https://trescout.com/es/dictionary/clean-code/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/syntax/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/syntax/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/syntax/

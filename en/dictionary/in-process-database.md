@@ -38,7 +38,7 @@ No, you can usually start using it right away by just adding a library file.
 - [Database](https://trescout.com/en/dictionary/database/)
 - [Vector Database](https://trescout.com/en/dictionary/vector-database/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/in-process-database/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/in-process-database/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/in-process-database/

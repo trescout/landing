@@ -2,17 +2,17 @@
 
 iii es un método para crear, ampliar y monitorear todos los servicios en su pila de backend (cola, cron, HTTP, estado, observabilidad, agentes, sandbox) en tiempo real. Hace que piezas que normalmente presentan dificultades de integración separadas sean manejables desde un solo punto.
 
-- ★ 18.839
+- ★ 18.847
 - Rust
 - Lisans: yok
 - GitHub Trending · 28 May 2026
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 18,839 → 18,847, última versión iii/v0.24.6 (19 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 18,824 → 18,839, última versión iii/v0.24.5 (13 de octubre de 2026).
 - **2 de octubre de 2026:** Estrellas 18,809 → 18,824, última versión iii/v0.24.4 (2 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 18,767 → 18,809, última versión iii/v0.24.3 (25 de septiembre de 2026).
-- **18 de septiembre de 2026:** Estrellas 18,662 → 18,767, última versión iii/v0.24.0 (17 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -30,6 +30,14 @@ Para comenzar y acceder a la documentación, puede visitar iii.dev.
 Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Para probar iii, primero cree un proyecto con 'iii project init myapp', haga 'cd myapp' e inicie el motor con el comando 'iii', luego agregue capacidades con comandos como 'iii trabajador agregar cola' y conéctelos todos en el mismo sistema en vivo; Si se requiere SDK, instale 'npm install iii-sdk'.
+
+Repositorio: https://github.com/iii-hq/iii. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
 
 **Crear proyecto**
 
@@ -78,7 +86,7 @@ npm install iii-sdk
 - [Repositorio en GitHub →](https://github.com/iii-hq/iii)
 - [Leer en turco →](https://trescout.com/discover/iii/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-28: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-28: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/iii/

@@ -2,16 +2,16 @@
 
 FreeLLMAPI brings together 34 different free large language model providers under a single REST API in OpenAI format, offering intelligent routing and fault tolerance.
 
-- ★ 35,948
+- ★ 38,660
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Updates
 
-- **October 16, 2026:** Stars 34,584 → 35,948, latest release v0.15.0 (October 15, 2026).
-- **October 13, 2026:** Stars 33,595 → 34,584, latest release v0.14.2 (October 13, 2026).
-- **October 12, 2026:** Stars 33,363 → 33,595, latest release v0.13.10 (October 12, 2026).
-- **October 12, 2026:** Stars 33,101 → 33,363, latest release v0.13.9 (October 11, 2026).
+- **October 21, 2026:** Stars 38,000 → 38,660, latest release v0.16.7 (October 21, 2026).
+- **October 20, 2026:** Stars 37,418 → 38,000, latest release v0.16.6 (October 20, 2026).
+- **October 19, 2026:** Stars 37,306 → 37,418, latest release v0.16.5 (October 19, 2026).
+- **October 19, 2026:** Stars 36,776 → 37,306, latest release v0.16.4 (October 19, 2026).
 
 ## What you get
 
@@ -61,6 +61,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Could you explain with code examples how to run FreeLLMAPI on my local server using Docker, how to direct the OpenAI Node.js SDK to this local endpoint, and how to enable automatic fallback model usage when a provider errors out?
 
+Repository: https://github.com/tashfeenahmed/freellmapi. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Do I need to buy an API key to use FreeLLMAPI? No. The system brings together 34 artificial intelligence models that offer a free tier or provide public free inference.
@@ -75,7 +83,7 @@ Could you explain with code examples how to run FreeLLMAPI on my local server us
 - [Localhost](https://trescout.com/en/dictionary/localhost/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
-- [API](https://trescout.com/en/dictionary/api/)
+- [Open Source](https://trescout.com/en/dictionary/open-source/)
 
 - **Who it is for:** AI developers, open-source researchers, full-stack engineers, and prototype developers.
 - **License:** MIT (Özgür açık kaynak lisansı)
@@ -87,7 +95,7 @@ Could you explain with code examples how to run FreeLLMAPI on my local server us
 - [GitHub repository →](https://github.com/tashfeenahmed/freellmapi)
 - [Read in Turkish →](https://trescout.com/discover/freellmapi/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/freellmapi/

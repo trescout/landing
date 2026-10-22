@@ -2,16 +2,16 @@
 
 Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness) sunuyor. Yazılım geliştirme süreçlerinde kullanılan ajanların performansını ölçmek amacıyla standart bir altyapı sağlıyor.
 
-- ★ 20.827
+- ★ 21.024
 - Rust
 - GitHub Trending · 2026-06-21
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 20.827 → 21.024, son sürüm v0.99.0 (19 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 20.726 → 20.827, son sürüm v0.98.1 (15 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 20.491 → 20.726, son sürüm v0.96.0 (14 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 20.377 → 20.491, son sürüm v0.95.0 (12 Ekim 2026).
-- **10 Ekim 2026:** Yıldız 20.361 → 20.377, son sürüm v0.94.0 (10 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -50,6 +50,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Kodlama odaklı yapay zekâ ajanımın performansını ve çoklu oturum yönetimi becerisini test etmek istiyorum. jcode çerçevesini kullanarak ajanımın kaynak kullanımını optimize etmemi ve standart bir test ortamı kurmamı sağla.
 
+Depo: https://github.com/1jehuang/jcode. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanlarını test etmek ve performanslarını ölçmek isteyen geliştiriciler içindir.
 - **Lisans:** MIT
 
@@ -57,7 +65,7 @@ Kodlama odaklı yapay zekâ ajanımın performansını ve çoklu oturum yönetim
 
 - [GitHub deposu →](https://github.com/1jehuang/jcode)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

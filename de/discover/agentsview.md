@@ -53,11 +53,22 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte den Sitzungsverlauf und die Kostendaten meiner AI-Coding-Agenten mit dem Agentsview-Tool analysieren. Welche Befehle sollte ich verwenden, um die Sitzungen der auf meinem Computer installierten Agenten zu untersuchen, meine tägliche Kostenübersicht anzuzeigen und Details zur Token-Nutzung mit einem bestimmten Agentenfilter zu überprüfen? Erklären Sie mir bitte Schritt für Schritt, wie die Befehle „agentsview Usage Daily“ und „agentsview Session Usage \<id>“ verwendet werden und wie die Ergebnisse zu interpretieren sind.
 
+Repository: https://github.com/kenn-io/agentsview. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Falls ein API-Schlüssel erforderlich ist, fordere mich nicht auf, ihn in den Chat zu schreiben. Zeig mir, wie ich ihn zur .env-Datei hinzufüge und stelle sicher, dass diese Datei nicht an Git übertragen wird.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [CCUsage](https://trescout.com/de/dictionary/ccusage/)
 - [Local-first](https://trescout.com/de/dictionary/local-first/)
 - [Token](https://trescout.com/de/dictionary/token/)
+- [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Softwareentwickler, die mehr als einen Codierungsagenten für künstliche Intelligenz verwenden und die von diesen Tools ausgegebenen Token und Kosten lokal verfolgen möchten.
@@ -68,7 +79,7 @@ Ich möchte den Sitzungsverlauf und die Kostendaten meiner AI-Coding-Agenten mit
 - [GitHub-Repository →](https://github.com/kenn-io/agentsview)
 - [Auf Türkisch lesen →](https://trescout.com/discover/agentsview/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/agentsview/

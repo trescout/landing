@@ -1,56 +1,69 @@
-# Tools: Herramientas de desarrollo, Function Calling y MCP
+# ¿Qué es Tools?
 
 *Desarrollo · Última actualización: 19 de septiembre de 2026*
 
-Tools (herramientas) engloba dos conceptos esenciales en tecnología: las utilidades que potencian el trabajo de los desarrolladores y las interfaces que facultan a la inteligencia artificial para ejecutar acciones y consultar APIs.
+Las herramientas (tools) son un concepto indispensable en el mundo de la informática y el software en dos áreas críticas: las herramientas de desarrollo (DevTools), que automatizan los procesos de escritura de código, depuración y despliegue para los programadores; y las capacidades de acción (uso de herramientas / llamada a funciones), que permiten a los modelos de inteligencia artificial interactuar con el mundo físico y digital mediante la invocación de API externas, bases de datos o funciones.
 
-## Etimología y la Metáfora de la Herramienta en Computación
+## Etimología y la metáfora de la herramienta en la informática
 
-La palabra inglesa *tool* proviene del inglés antiguo *tol* (utensilio para obrar). En software, la filosofía Unix sentó las bases modernas: construir programas específicos y minimalistas que colaboren entre sí mediante tuberías de texto estandarizadas.
+La palabra de origen inglés tool se basa etimológicamente en la palabra del inglés antiguo tol (instrumento o aparejo utilizado para realizar un trabajo). Así como en la historia de la humanidad la fabricación de herramientas permitió superar los límites de la evolución biológica, en el mundo informático las herramientas permiten que las capacidades puramente teóricas de la mente humana y de los algoritmos de inteligencia artificial se conviertan en acciones del mundo real.
 
-## 1. Herramientas para Desarrolladores (DevTools)
+## 1. Herramientas de desarrollo (Developer Tools & DevTools)
 
-El desarrollo de software contemporáneo se sostiene sobre herramientas de precisión :
+La ingeniería de software se construye sobre las capas de abstracción proporcionadas por las herramientas de desarrollo modernas:
 
-- **Compiladores y Sistemas de Construcción:** GCC, Clang, rustc y Vite transforman el código fuente en binarios nativos optimizados.
-- **Depuradores y Analizadores de Rendimiento:** GDB, LLDB y las DevTools del navegador rastrean el uso de memoria y las peticiones HTTP al vuelo.
-- **Linters y Análisis Estático:** ESLint, Ruff y SonarQube detectan inconsistencias y riesgos de seguridad antes de compilar.
+Filosofía Unix y herramientas CLI: En el corazón de la filosofía Unix, cuyos cimientos fueron sentados por Doug McIlroy y Ken Thompson, se encuentra el diseño de herramientas: "Haz una sola cosa, hazla bien y produce flujos de texto que puedan trabajar junto con otras herramientas". Las herramientas de línea de comandos como grep, sed, awk, curl y jq, al combinarse mediante tuberías (|), completan operaciones complejas de procesamiento de datos en cuestión de segundos.
+Entornos de Desarrollo Integrado (IDE) y linteres: Entornos como VS Code, JetBrains y Neovim combinan compiladores, servidores de lenguaje (LSP), analizadores de código estático y depuradores (debugger) bajo un mismo techo.
+- Herramientas de desarrollo del navegador: Las herramientas de desarrollo de Chrome, Firefox y Safari ofrecen la posibilidad de inspeccionar el DOM, analizar el tráfico de red (pestaña Network), detectar fugas de memoria (Heap Snapshot) y realizar perfiles del procesador JavaScript (CPU Profiler).
 
-## 2. El Gran Hito en IA: Tool Use y Function Calling
+## 2. Punto de inflexión en la Inteligencia Artificial: Uso de herramientas y llamada a funciones (Function Calling)
 
-Los modelos de lenguaje son motores probabilísticos de texto. La adopción de herramientas solventa cuatro barreras fundamentales :
+Los grandes modelos de lenguaje (LLM) tradicionales son solo generadores de texto probabilísticos (predicción del siguiente token). Esta situación atrapa a los modelos en cuatro limitaciones fatales:
 
-1. **Información en Tiempo Real:** Acceso a bases de datos y APIs web vivas sin depender del corte de entrenamiento.
-2. **Precisión de Cálculo:** Delegación de operaciones algebraicas en intérpretes como Python.
-3. **Capacidad de Acción:** Ejecución de órdenes reales como enviar correos o modificar registros en bases de datos.
-4. **Inspección de Sistemas:** Lectura de archivos locales y árboles de código Git.
+1. Corte de conocimiento (Knowledge Cutoff): El modelo solo conoce el mundo hasta la fecha en que fue entrenado.
+2. Errores matemáticos y de lógica: Puede sufrir alucinaciones, ya que intenta adivinar incluso una simple operación de multiplicación de forma probabilística.
+3. Inercia del mundo real: no puede modificar un archivo, enviar un correo electrónico o ni siquiera conocer el precio de una acción en tiempo real.
+4. Incapacidad para acceder a datos privados: No tiene conocimiento de la base de datos SQL interna.
 
-## 3. Model Context Protocol (MCP) como Estándar Abierto
+Aquí es donde el uso de herramientas (Tool Use) y el mecanismo de llamada a funciones (Function Calling) rompen estas limitaciones:
 
-La proliferación de formatos propietarios dificultaba la integración de herramientas. Anthropic propuso el **Model Context Protocol (MCP)**, un estándar abierto inspirado en el protocolo LSP de los IDEs que unifica la comunicación cliente-servidor mediante JSON-RPC.
+- Definición con JSON Schema: El desarrollador presenta al modelo las herramientas que puede utilizar (arama_yap, sql_sorgula, hava_durumu_getir). El nombre de la herramienta, su descripción y los parámetros que recibirá se comunican al modelo mediante un esquema JSON estricto.
+- Separación de Decisión y Acción: El código del modelo no se ejecuta por sí mismo (después de todo, no tiene un núcleo de sistema operativo). Analiza la intención del usuario, detiene la generación de texto y produce un objeto JSON de tool_calls.
+Ejecución del entorno de ejecución (Runtime): La capa de aplicación intercepta esta llamada, ejecuta la función real (por ejemplo, consulta la API del tiempo) y devuelve el resultado al modelo en forma de mensaje de "observación".
+- Síntesis final: El modelo utiliza los datos reales entrantes para generar la respuesta final precisa, probada y libre de alucinaciones para el usuario.
 
-## 4. Herramientas de Doble Uso en Ciberseguridad
+## 3. Estándar universal con Model Context Protocol (MCP)
 
-En el campo de la seguridad digital, las herramientas tienen un doble filo evidente :
+Con la proliferación de las herramientas de inteligencia artificial, cada plataforma ha desarrollado su propio formato de herramienta específico, lo que ha dado lugar a una gran crisis de integración. Model Context Protocol (MCP), anunciado como código abierto por Anthropic, ha estandarizado el ecosistema de herramientas:
 
-- **Auditoría y Pruebas de Penetración:** Nmap, Wireshark y Burp Suite permiten a los equipos defensivos neutralizar brechas antes de que cibercriminales las descubran.
-- **Fuzzing de Seguridad:** Soluciones automáticas como AFL++ prueban interfaces con datos arbitrarios para destapar corrupciones de memoria.
+Cada fuente de datos o herramienta se empaqueta como un "servidor MCP" (MCP Server).
+Los clientes de inteligencia artificial (Claude, Cursor, Antigravity) pueden conectarse instantáneamente a cientos de herramientas diferentes a través de un único protocolo estándar JSON-RPC.
+- Modelo de seguridad y permisos: Los permisos de las herramientas para eliminar archivos o ejecutar comandos de terminal se vinculan a la aprobación humana (human-in-the-loop) y se aíslan en entornos de sandbox seguros.
 
-*Un modelo de IA sin herramientas es como un erudito brillante encerrado en una habitación cerrada; dotarle de herramientas equivale a darle manos, un teléfono y una calculadora para interactuar con la realidad.*
+## 4. Herramientas de doble uso en ciberseguridad
+
+En el mundo de la ciberseguridad, el concepto de herramienta es un arma de doble filo:
+
+- Pentest y Análisis: Herramientas como Nmap (escaneo de puertos), Wireshark (análisis de paquetes), Burp Suite (pruebas de seguridad web) y Metasploit son utilizadas por los administradores de sistemas para cerrar vulnerabilidades, mientras que los atacantes las emplean para infiltrarse en las redes objetivo.
+Las herramientas en sí son neutrales; la intención de uso y los límites de autorización determinan el marco ético de la seguridad.
 
 ## Preguntas frecuentes
 
-**¿Qué es una tool en inteligencia artificial?**
+**¿Qué significa Tools y cuál es su equivalente en español?**
 
-Es una función o servicio externo que el modelo puede invocar mediante parámetros JSON estructurados para obtener datos o ejecutar tareas.
+Es un término de origen inglés que en español significa 'herramientas'. En el ámbito del software, se refiere a programas que aumentan la productividad del desarrollador; en la inteligencia artificial, designa capacidades funcionales que permiten a los modelos invocar bases de datos externas o API.
 
-**¿Para qué sirve el estándar Model Context Protocol (MCP)?**
+**¿Por qué el uso de herramientas (Tool Use) es revolucionario en los modelos de inteligencia artificial?**
 
-Permite conectar modelos de IA con fuentes de datos y utilidades locales mediante un protocolo universal y abierto.
+Transforma a la inteligencia artificial de un redactor de texto pasivo a un agente autónomo (AI Agent) capaz de realizar tareas en el mundo real. Gracias a esto, el modelo accede a datos actualizados, realiza cálculos matemáticos sin errores y trabaja integrado con sistemas externos.
 
-**¿Cómo decide un LLM qué herramienta emplear?**
+**¿Cómo cambió el Model Context Protocol (MCP) el uso de herramientas?**
 
-Analiza el propósito de la consulta frente a las descripciones y esquemas de parámetros definidos para cada herramienta.
+Eliminó la necesidad de escribir integraciones por separado para cada modelo de inteligencia artificial. Permitió que las herramientas se conecten a todos los sistemas de IA de forma plug-and-play mediante un único protocolo abierto.
+
+**¿Cuál es la diferencia entre una herramienta (Tool) y un plugin?**
+
+Una herramienta (tool) es generalmente una llamada de función simple que sirve para un solo propósito (por ejemplo, una consulta SQL); mientras que un plugin es un módulo de software más completo que alberga múltiples herramientas, paneles de configuración e interfaces de usuario en conjunto.
 
 ## Términos relacionados
 
@@ -62,10 +75,10 @@ Analiza el propósito de la consulta frente a las descripciones y esquemas de pa
 ## Herramientas relacionadas
 
 - [ECC](https://trescout.com/es/discover/ecc/)
-- [System Prompts and Models of AI Tools](https://trescout.com/es/discover/system-prompts-and-models-of-ai-tools/)
 - [Claude Plugins Official](https://trescout.com/es/discover/claude-plugins-official/)
+- [Treg](https://trescout.com/es/discover/treg/)
 
-Esta explicación se redactó en lenguaje llano para TreScout y se **tradujo automáticamente** a partir del original en turco · la versión en turco es la que prevalece. Si detecta algún error o carencia, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/tools/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/tools/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/tools/

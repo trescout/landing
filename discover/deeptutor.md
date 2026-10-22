@@ -2,16 +2,16 @@
 
 DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning) tabanlı bir özel ders sistemidir. Proje, yapay zekâ destekli bireyselleştirilmiş öğretim (personalized tutoring) yöntemleriyle öğrenme deneyimini optimize etmeyi amaçlamaktadır.
 
-- ★ 40.928
+- ★ 41.717
 - Python
 - GitHub Trending · 2026-07-16
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 40.928 → 41.717, son sürüm v1.6.15 (18 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 40.808 → 40.928, son sürüm v1.6.14 (8 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 40.358 → 40.808, son sürüm v1.6.13 (4 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 40.334 → 40.358, son sürüm v1.6.12 (27 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 39.561 → 40.334, son sürüm v1.6.11 (24 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -53,6 +53,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 DeepTutor sistemini kullanarak öğrenme sürecimi nasıl kişiselleştirebilirim? Kendi yapay zekâ partnerlerimi oluşturmak ve özel eğitim materyallerimi bu sisteme entegre ederek yaşam boyu öğrenme deneyimimi optimize etmek için izlemem gereken temel adımları açıkla.
 
+Depo: https://github.com/HKUDS/DeepTutor. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi özel eğitim asistanını oluşturmak ve kişiselleştirilmiş bir öğrenme ortamı kurmak isteyen öğrenciler ve eğitmenler için uygundur.
 - **Lisans:** Apache-2.0
 
@@ -60,7 +68,7 @@ DeepTutor sistemini kullanarak öğrenme sürecimi nasıl kişiselleştirebiliri
 
 - [GitHub deposu →](https://github.com/HKUDS/DeepTutor)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

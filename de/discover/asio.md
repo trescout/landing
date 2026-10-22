@@ -30,6 +30,7 @@ Asio ist eine C++-Bibliothek. Um mit der Nutzung zu beginnen, können Sie https:
 
 - [I/O](https://trescout.com/de/dictionary/io/)
 - [API](https://trescout.com/de/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für C++-Entwickler, die asynchrone Netzwerkanwendungen entwickeln möchten.
 
@@ -38,7 +39,7 @@ Asio ist eine C++-Bibliothek. Um mit der Nutzung zu beginnen, können Sie https:
 - [GitHub-Repository →](https://github.com/chriskohlhoff/asio)
 - [Auf Türkisch lesen →](https://trescout.com/discover/asio/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-11 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-11 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/asio/

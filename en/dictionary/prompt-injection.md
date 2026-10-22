@@ -39,7 +39,7 @@ As models evolve and additional security layers are added, closing these vulnera
 
 - [Codex-X](https://trescout.com/en/discover/codex-x/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/prompt-injection/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/prompt-injection/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/prompt-injection/

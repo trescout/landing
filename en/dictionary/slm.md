@@ -70,7 +70,7 @@ It requires a giant in broad knowledge and reasoning. Hybrid order is establishe
 - [Open Weights](https://trescout.com/en/dictionary/open-weights/)
 - [Distillation](https://trescout.com/en/dictionary/distillation/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/slm/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/slm/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/slm/

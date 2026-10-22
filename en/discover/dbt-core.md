@@ -44,6 +44,7 @@ You can access the installation guide by visiting the official dbt documentation
 ## Related dictionary terms
 
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for data analysts and engineers who want to transform and manage data in the data warehouse with the software development discipline.
 - **License:** Apache-2.0
@@ -53,7 +54,7 @@ You can access the installation guide by visiting the official dbt documentation
 - [GitHub repository →](https://github.com/dbt-labs/dbt-core)
 - [Read in Turkish →](https://trescout.com/discover/dbt-core/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/dbt-core/

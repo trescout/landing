@@ -73,7 +73,7 @@ Au moins une fois par an, et de nouveau après un changement majeur. Côté mod�
 
 - [G0DM0D3](https://trescout.com/fr/discover/g0dm0d3/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/red-teaming/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/red-teaming/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/red-teaming/

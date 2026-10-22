@@ -48,6 +48,7 @@ Um mit der Arbeit mit Next.js zu beginnen, können Sie die offizielle Website ne
 - [Rendering](https://trescout.com/de/dictionary/rendering/)
 - [Framework](https://trescout.com/de/dictionary/framework/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Entwickler, die moderne und skalierbare Webanwendungen auf Basis von React entwickeln möchten.
 - **Lizenz:** MIT
@@ -57,7 +58,7 @@ Um mit der Arbeit mit Next.js zu beginnen, können Sie die offizielle Website ne
 - [GitHub-Repository →](https://github.com/vercel/next.js)
 - [Auf Türkisch lesen →](https://trescout.com/discover/next-js/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-11 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-11 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/next-js/

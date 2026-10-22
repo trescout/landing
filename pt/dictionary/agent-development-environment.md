@@ -38,7 +38,7 @@ Porque os agentes de inteligência artificial às vezes podem tomar decisões in
 
 - [Orca](https://trescout.com/pt/discover/orca/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-development-environment/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-development-environment/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agent-development-environment/

@@ -73,7 +73,7 @@ Na memória, no disco ou na borda da CDN. É escolhido de acordo com o equilíbr
 - [Guava](https://trescout.com/pt/discover/guava/)
 - [Omlx](https://trescout.com/pt/discover/omlx/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/caching/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/caching/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/caching/

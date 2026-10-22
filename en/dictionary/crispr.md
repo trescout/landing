@@ -36,7 +36,7 @@ It is a very sensitive tool, but it is subject to very strict controls due to et
 - [Computer Science](https://trescout.com/en/dictionary/computer-science/)
 - [AI Models](https://trescout.com/en/dictionary/ai-models/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/crispr/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/crispr/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/crispr/

@@ -2,16 +2,16 @@
 
 Published by GitHub, spec-kit offers the necessary tools to start spec-driven development processes. This Python-based library facilitates the integration of technical specifications defined during the software development phase into code processes.
 
-- ★ 141,105
+- ★ 142,031
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Updates
 
+- **October 20, 2026:** Stars 141,590 → 142,031, latest release v1.2.2 (October 19, 2026).
+- **October 17, 2026:** Stars 141,105 → 141,590, latest release v1.2.1 (October 16, 2026).
 - **October 13, 2026:** Stars 140,661 → 141,105, latest release v1.2.0 (October 13, 2026).
 - **October 10, 2026:** Stars 140,632 → 140,661, latest release v1.1.3 (October 9, 2026).
-- **October 8, 2026:** Stars 140,470 → 140,632, latest release v1.1.2 (October 7, 2026).
-- **October 7, 2026:** Stars 139,912 → 140,470, latest release v1.1.1 (October 6, 2026).
 
 ## What you get
 
@@ -42,6 +42,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 When using an AI coding agent, define quality and performance standards using the /speckit.constitution command to determine the project's baselines. Then, explain the goals of the application you want to build with /speckit.specify, specify your technical architecture with /speckit.plan, and finally create the task list with /speckit.tasks and develop the application with the /speckit.implement command.
 
+Repository: https://github.com/github/spec-kit. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Spec-driven Development](https://trescout.com/en/dictionary/spec-driven-development/)
@@ -56,7 +64,7 @@ When using an AI coding agent, define quality and performance standards using th
 - [GitHub repository →](https://github.com/github/spec-kit)
 - [Read in Turkish →](https://trescout.com/discover/spec-kit/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/spec-kit/

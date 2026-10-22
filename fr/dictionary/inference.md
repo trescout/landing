@@ -41,15 +41,15 @@ Non, le modèle fait uniquement des prédictions en utilisant les informations d
 ## Outils liés
 
 - [Llama.cpp](https://trescout.com/fr/discover/llama-cpp/)
+- [Vllm](https://trescout.com/fr/discover/vllm/)
 - [BitNet](https://trescout.com/fr/discover/bitnet/)
 - [Ds4](https://trescout.com/fr/discover/ds4/)
 - [LTX 2](https://trescout.com/fr/discover/ltx-2/)
 - [Stable Diffusion.cpp](https://trescout.com/fr/discover/stable-diffusion-cpp/)
 - [Magnitude](https://trescout.com/fr/discover/magnitude/)
 - [Model-Optimizer](https://trescout.com/fr/discover/model-optimizer/)
-- [SIE](https://trescout.com/fr/discover/sie/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/inference/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/inference/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/inference/

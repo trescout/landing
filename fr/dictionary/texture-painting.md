@@ -38,7 +38,7 @@ C'est l'étape visuelle la plus importante qui permet aux modèles de paraître 
 - [Rendering](https://trescout.com/fr/dictionary/rendering/)
 - [Assets](https://trescout.com/fr/dictionary/assets/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/texture-painting/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/texture-painting/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/texture-painting/

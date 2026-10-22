@@ -33,6 +33,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bu projeyi bir sızma testi veya tersine mühendislik görevinde rehber olarak kullan. Görevini gerçekleştirmeden önce README_AI.md dosyasındaki talimatları incele, RULES.md dosyasındaki yönlendirme kurallarına uy ve MASTER-ROUTING.md üzerinden doğru metodolojiyi belirleyerek iş akışını başlat.
 
+Depo: https://github.com/zhaoxuya520/reverse-skill. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Sızma testi ve tersine mühendislik süreçlerinde yapay zekâ ajanlarını daha verimli kullanmak isteyen güvenlik araştırmacıları içindir.
 - **Lisans:** MIT
 
@@ -40,7 +48,7 @@ Bu projeyi bir sızma testi veya tersine mühendislik görevinde rehber olarak k
 
 - [GitHub deposu →](https://github.com/zhaoxuya520/reverse-skill)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

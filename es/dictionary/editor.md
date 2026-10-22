@@ -40,7 +40,7 @@ Sí, pero los editores de código te ayudan a realizar tu trabajo mucho más rá
 - [Palmier Pro](https://trescout.com/es/discover/palmier-pro/)
 - [Clypra](https://trescout.com/es/discover/clypra/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/editor/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/editor/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/editor/

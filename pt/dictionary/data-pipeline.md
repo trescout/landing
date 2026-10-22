@@ -39,7 +39,7 @@ Sim, o processo é acionado automaticamente à medida que os dados chegam e flue
 - [RAG](https://trescout.com/pt/dictionary/rag/)
 - [Embedding](https://trescout.com/pt/dictionary/embedding/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/data-pipeline/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/data-pipeline/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/data-pipeline/

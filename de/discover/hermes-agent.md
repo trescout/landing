@@ -2,16 +2,16 @@
 
 Hermes Agent wurde von NousResearch entwickelt und bietet eine autonome Agenteninfrastruktur, die aus Benutzerinteraktionen lernt und sich im Laufe der Zeit weiterentwickelt. Dieses Python-basierte System nutzt kontinuierliches Lernen, um personalisierte Arbeitsabläufe zu erstellen.
 
-- ★ 253.914
+- ★ 255.753
 - Python
 - GitHub Trending · 2026-06-04
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 253,914 → 255,753, neueste Version v0.22.3 (21. Oktober 2026).
 - **15. Oktober 2026:** Sterne 253,617 → 253,914, neueste Version v0.22.2 (15. Oktober 2026).
 - **14. Oktober 2026:** Sterne 252,977 → 253,617, neueste Version v0.22.0 (14. Oktober 2026).
 - **12. Oktober 2026:** Sterne 252,121 → 252,977, neueste Version v0.21.7 (12. Oktober 2026).
-- **8. Oktober 2026:** Sterne 249,251 → 252,121, neueste Version v0.21.6 (8. Oktober 2026).
 
 ## Was es bringt
 
@@ -41,6 +41,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte bei der Arbeit mit Hermes Agent vom autonomen Lernzyklus profitieren. Welche Befehle sollte ich verwenden, damit sich das System an meine vergangenen Gespräche erinnert, durch Aufgaben neue Fähigkeiten schafft und mit der Zeit personalisiert wird? Können Sie mir bitte die grundlegenden Schritte erläutern, die ich befolgen muss, insbesondere um zwischen verschiedenen Modellen zu wechseln und Messaging-Plattformen mit dem System zu verbinden?
 
+Repository: https://github.com/NousResearch/hermes-agent. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Autonomous Agent](https://trescout.com/de/dictionary/autonomous-agent/)
@@ -57,7 +65,7 @@ Ich möchte bei der Arbeit mit Hermes Agent vom autonomen Lernzyklus profitieren
 - [GitHub-Repository →](https://github.com/NousResearch/hermes-agent)
 - [Auf Türkisch lesen →](https://trescout.com/discover/hermes-agent/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/hermes-agent/

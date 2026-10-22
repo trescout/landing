@@ -38,7 +38,7 @@ It mimics emotions; but this imitation is so good that it makes interaction with
 - [Voice Synthesis](https://trescout.com/en/dictionary/voice-synthesis/)
 - [AI Models](https://trescout.com/en/dictionary/ai-models/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/frontier-voice-ai/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/frontier-voice-ai/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/frontier-voice-ai/

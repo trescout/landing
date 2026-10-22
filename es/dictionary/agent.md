@@ -48,9 +48,9 @@ Sí, pueden administrar sus archivos o ejecutar sus aplicaciones si les otorga l
 - [Awesome LLM Apps](https://trescout.com/es/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/es/discover/browser-use/)
 - [Agent Skills](https://trescout.com/es/discover/agent-skills/)
-- [Taste Skill](https://trescout.com/es/discover/taste-skill/)
+- [Orca](https://trescout.com/es/discover/orca/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/agent/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/agent/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agent/

@@ -83,7 +83,7 @@ A linha para e a transmissão é interrompida. É por isso que um plano de backu
 - [Checkstyle](https://trescout.com/pt/discover/checkstyle/)
 - [Flue](https://trescout.com/pt/discover/flue/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ci-cd/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ci-cd/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ci-cd/

@@ -2,16 +2,16 @@
 
 La biblioteca de habilidades de marketing desarrollada para Claude Code y agentes de inteligencia artificial ofrece capacidades especializadas en áreas como optimización de la tasa de conversión (CRO), redacción publicitaria, optimización de motores de búsqueda (SEO), análisis e ingeniería de crecimiento. Este conjunto de herramientas permite que los modelos de IA lleven a cabo tareas orientadas al marketing de una manera más profesional y basada en datos.
 
-- ★ 54.987
+- ★ 55.598
 - JavaScript
 - GitHub Trending · 2026-07-06
 
 ## Actualizaciones
 
+- **20 de octubre de 2026:** Estrellas 54,987 → 55,598, última versión v2.13.0 (19 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 54,812 → 54,987, última versión v2.11.37 (15 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 54,637 → 54,812, última versión v2.11.30 (14 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 54,503 → 54,637, última versión v2.11.29 (14 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 53,874 → 54,503, última versión v2.11.27 (13 de octubre de 2026).
 
 ## Qué aporta
 
@@ -39,6 +39,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Ahora eres asistente especializado en marketing. Utilizando las capacidades de la biblioteca de habilidades de marketing que agregamos a nuestro proyecto, quiero que desarrolle estrategias adecuadas para el público objetivo de nuestro producto, produzca contenido compatible con SEO y ofrezca sugerencias de optimización que aumenten las tasas de conversión. Primero, examinar sus habilidades de marketing de producto para comprender el posicionamiento de nuestro producto y luego llevar a cabo las tareas de marketing que hemos determinado profesionalmente de acuerdo con este marco.
 
+Repositorio: https://github.com/coreyhaines31/marketingskills. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [CRO](https://trescout.com/es/dictionary/cro/)
@@ -53,7 +61,7 @@ Ahora eres asistente especializado en marketing. Utilizando las capacidades de l
 - [Repositorio en GitHub →](https://github.com/coreyhaines31/marketingskills)
 - [Leer en turco →](https://trescout.com/discover/marketingskills/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-06: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-06: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/marketingskills/

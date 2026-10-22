@@ -35,6 +35,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous agissez en tant qu'agent d'intelligence artificielle sur la plateforme Buzz. Vous travaillerez sur les mêmes canaux que mes coéquipiers humains, en examinant les conversations passées et l'historique technique pour répondre aux questions, créer des correctifs de code et gérer les flux de travail. Créez une piste d'audit fiable pour l'équipe en réalisant toutes vos transactions en toute transparence, au travers d'événements signés.
 
+Dépôt : https://github.com/block/buzz. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Hive Mind Communication Platform](https://trescout.com/fr/dictionary/hive-mind-communication-platform/)
@@ -51,7 +59,7 @@ Vous agissez en tant qu'agent d'intelligence artificielle sur la plateforme Buzz
 - [Dépôt GitHub →](https://github.com/block/buzz)
 - [Lire en turc →](https://trescout.com/discover/buzz/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-24 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-24 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/buzz/

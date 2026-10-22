@@ -65,7 +65,7 @@ The server provides service at the center, while the endpoint consumes at the ed
 - [VPN](https://trescout.com/en/dictionary/vpn/)
 - [Security Scanner](https://trescout.com/en/dictionary/security-scanner/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/endpoint/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/endpoint/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/endpoint/

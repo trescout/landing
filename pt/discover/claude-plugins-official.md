@@ -2,16 +2,16 @@
 
 A Anthropic oferece um diretório oficial que coleta plugins de alta qualidade desenvolvidos para Claude Code em um único centro. Essa estrutura baseada em Python permite que os desenvolvedores compartilhem e descubram ferramentas preparadas para assistentes de codificação em um formato padrão.
 
-- ★ 39.644
+- ★ 42.145
 - Python
 - GitHub Trending · 2026-06-24
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 39,644 → 42,145.
 - **16 de outubro de 2026:** Estrelas 37,531 → 39,644.
 - **8 de outubro de 2026:** Estrelas 35,717 → 37,531.
 - **31 de agosto de 2026:** Estrelas 32,968 → 35,717.
-- **2 de agosto de 2026:** Estrelas 30,960 → 32,968.
 
 ## O que você ganha
 
@@ -29,6 +29,7 @@ Você pode navegar pelos plug-ins disponíveis usando o menu '/plugin > Descobri
 
 - [Tools](https://trescout.com/pt/dictionary/tools/)
 - [Plugin](https://trescout.com/pt/dictionary/plugin/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Para desenvolvedores de software que usam Claude Code e desejam personalizar os recursos do assistente de codificação.
 - **Licença:** Apache-2.0
@@ -38,7 +39,7 @@ Você pode navegar pelos plug-ins disponíveis usando o menu '/plugin > Descobri
 - [Repositório no GitHub →](https://github.com/anthropics/claude-plugins-official)
 - [Ler em turco →](https://trescout.com/discover/claude-plugins-official/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-24: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-24: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/claude-plugins-official/

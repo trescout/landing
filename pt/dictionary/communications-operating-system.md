@@ -38,7 +38,7 @@ Como controlar muitos aplicativos ao mesmo tempo reduz a eficiência, reuni-los 
 
 - [Rocket.Chat](https://trescout.com/pt/discover/rocket-chat/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/communications-operating-system/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/communications-operating-system/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/communications-operating-system/

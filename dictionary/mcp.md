@@ -92,7 +92,7 @@ Tasarımı izin temellidir, ancak sunucunun erişim kapsamını dar tutmanız ve
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
 - [Claude Howto](https://trescout.com/discover/claude-howto/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/mcp/

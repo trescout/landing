@@ -44,7 +44,7 @@ Não, é necessária uma manutenção e atualização contínuas para manter o s
 - [Modern Software Dev Assignments](https://trescout.com/pt/discover/modern-software-dev-assignments/)
 - [U3 SDK](https://trescout.com/pt/discover/u3-sdk/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/software-development/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/software-development/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/software-development/

@@ -2,12 +2,13 @@
 
 Karakeep é um aplicativo de gerenciamento de conteúdo auto-hospedado que coleta links, notas e imagens em um único centro. Ele facilita os processos de arquivamento digital com marcação automática suportada por inteligência artificial e recursos de pesquisa de texto completo.
 
-- ★ 29.676
+- ★ 29.731
 - TypeScript
 - GitHub Trending · 2026-07-07
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 29,676 → 29,731, versão mais recente v0.34.0 (17 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 28,260 → 29,676, versão mais recente v0.33.2 (11 de agosto de 2026).
 - **12 de agosto de 2026:** Estrelas 28,017 → 28,260, versão mais recente v0.33.2 (11 de agosto de 2026).
 - **2 de agosto de 2026:** Estrelas 27,033 → 28,017, versão mais recente v0.33.1 (1 de agosto de 2026).
@@ -47,7 +48,7 @@ Para instalar, você pode seguir o guia de instalação do Docker na página de 
 - [Repositório no GitHub →](https://github.com/karakeep-app/karakeep)
 - [Ler em turco →](https://trescout.com/discover/karakeep/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-07: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-07: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/karakeep/

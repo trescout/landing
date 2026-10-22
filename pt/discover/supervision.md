@@ -2,16 +2,16 @@
 
 Desenvolvido pela Roboflow, o Supervision oferece ferramentas e funções auxiliares reutilizáveis para projetos de visão computacional. Esta biblioteca baseada em Python acelera os fluxos de trabalho de desenvolvimento, facilitando operações padrão em processos como detecção e rastreamento de objetos.
 
-- ★ 51.154
+- ★ 51.253
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Atualizações
 
+- **21 de outubro de 2026:** Estrelas 51,223 → 51,253, versão mais recente 0.31.1 (20 de outubro de 2026).
+- **17 de outubro de 2026:** Estrelas 51,154 → 51,223, versão mais recente 0.31.0 (16 de outubro de 2026).
 - **8 de outubro de 2026:** Estrelas 51,146 → 51,154, versão mais recente 0.30.9 (8 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 51,118 → 51,146, versão mais recente 0.30.8 (6 de outubro de 2026).
-- **4 de outubro de 2026:** Estrelas 51,075 → 51,118, versão mais recente 0.30.7 (4 de outubro de 2026).
-- **29 de setembro de 2026:** Estrelas 51,054 → 51,075, versão mais recente 0.30.6 (29 de setembro de 2026).
 
 ## O que você ganha
 
@@ -48,6 +48,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instalei a biblioteca com o comando pip install supervision em um ambiente Python 3.9 ou superior. Quero visualizar os resultados da detecção de objetos e gerenciar meu conjunto de dados em meu projeto de visão computacional. Como posso marcar os resultados da detecção de objetos em uma imagem usando a biblioteca Supervision e como posso carregar e converter conjuntos de dados em diferentes formatos (COCO, YOLO, etc.)? Ajude-me a criar um fluxo de trabalho de amostra usando as ferramentas auxiliares de anotador e conjunto de dados fornecidas pela biblioteca.
 
+Repositório: https://github.com/roboflow/supervision. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Computer Vision](https://trescout.com/pt/dictionary/computer-vision/)
@@ -62,7 +70,7 @@ Instalei a biblioteca com o comando pip install supervision em um ambiente Pytho
 - [Repositório no GitHub →](https://github.com/roboflow/supervision)
 - [Ler em turco →](https://trescout.com/discover/supervision/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-09: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-09: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/supervision/

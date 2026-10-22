@@ -73,7 +73,7 @@ Porque gracias a la Arquitectura de Memoria Unificada, la GPU puede utilizar dir
 - [Palmier Pro](https://trescout.com/es/discover/palmier-pro/)
 - [Openmed](https://trescout.com/es/discover/openmed/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/apple-silicon/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/apple-silicon/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/apple-silicon/

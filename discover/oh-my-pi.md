@@ -2,15 +2,15 @@
 
 Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.
 
-- ★ 35.537
+- ★ 36.096
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
 
-- **15 Ekim 2026:** Yıldız 35.495 → 35.537, son sürüm v18.11.1 (15 Ekim 2026).
-- **15 Ekim 2026:** Yıldız 35.383 → 35.495, son sürüm v18.11.0 (14 Ekim 2026).
-- **14 Ekim 2026:** Yıldız 35.198 → 35.383, son sürüm v18.10.4 (13 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 35.160 → 35.198, son sürüm v18.10.3 (12 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 36.014 → 36.096, son sürüm v18.12.5 (21 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 35.913 → 36.014, son sürüm v18.12.3 (19 Ekim 2026).
+- **19 Ekim 2026:** Yıldız 35.803 → 35.913, son sürüm v18.12.2 (18 Ekim 2026).
+- **18 Ekim 2026:** Yıldız 35.712 → 35.803, son sürüm v18.12.1 (17 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -53,6 +53,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Oh My Pi aracını terminalimde kullanmaya başladım. Bu yapay zekâ kodlama ajanı ile projelerimde LSP desteği, hata ayıklama ve alt ajan yönetimi gibi gelişmiş özellikleri kullanarak iş akışımı nasıl optimize edebilirim? Özellikle kod düzenleme, dosya okuma ve hata ayıklama süreçlerinde bu aracın sunduğu yerleşik araçları en verimli şekilde nasıl kullanacağımı adım adım açıkla.
 
+Depo: https://github.com/can1357/oh-my-pi. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Terminal üzerinden kod geliştirme süreçlerini otomatikleştirmek ve yapay zekâ destekli bir kodlama ajanı ile iş akışını hızlandırmak isteyen yazılım geliştiriciler için uygundur.
 - **Lisans:** MIT
 
@@ -60,7 +68,7 @@ Oh My Pi aracını terminalimde kullanmaya başladım. Bu yapay zekâ kodlama aj
 
 - [GitHub deposu →](https://github.com/can1357/oh-my-pi)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

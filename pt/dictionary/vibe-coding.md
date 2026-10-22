@@ -43,7 +43,7 @@ Tem esse nome porque o desenvolvedor se concentra no fluxo e na sensação do pr
 - [Claude Code Best Practice](https://trescout.com/pt/discover/claude-code-best-practice/)
 - [GLM 5](https://trescout.com/pt/discover/glm-5/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vibe-coding/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vibe-coding/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/vibe-coding/

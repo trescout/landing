@@ -43,7 +43,7 @@ Non, l'interface utilisateur couvre les parties visuelles (couleur, bouton), tan
 - [Page Agent](https://trescout.com/fr/discover/page-agent/)
 - [Tuicr](https://trescout.com/fr/discover/tuicr/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/user-interface/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/user-interface/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/user-interface/

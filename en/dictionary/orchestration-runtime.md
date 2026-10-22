@@ -35,7 +35,7 @@ In large projects, it is impossible to track steps manually; this system makes e
 - [Agentic Workflows](https://trescout.com/en/dictionary/agentic-workflows/)
 - [Control Plane](https://trescout.com/en/dictionary/control-plane/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/orchestration-runtime/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/orchestration-runtime/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/orchestration-runtime/

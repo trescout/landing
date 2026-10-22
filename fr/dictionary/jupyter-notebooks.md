@@ -67,10 +67,10 @@ La meilleure approche consiste à effacer les sorties des cellules (Effacer tout
 - [Claude Cookbooks](https://trescout.com/fr/discover/claude-cookbooks/)
 - [Airllm](https://trescout.com/fr/discover/airllm/)
 - [Machine Learning for Trading](https://trescout.com/fr/discover/machine-learning-for-trading/)
-- [Cosmos](https://trescout.com/fr/discover/cosmos/)
 - [Train LLM from Scratch](https://trescout.com/fr/discover/train-llm-from-scratch/)
+- [Cosmos](https://trescout.com/fr/discover/cosmos/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/jupyter-notebooks/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/jupyter-notebooks/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/jupyter-notebooks/

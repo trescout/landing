@@ -38,7 +38,7 @@ Le système peut atteindre très rapidement un niveau imprévisible.
 - [Autonomous AI Agent](https://trescout.com/fr/dictionary/autonomous-ai-agent/)
 - [Continuous Learning](https://trescout.com/fr/dictionary/continuous-learning/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/recursive-reproduction-number/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/recursive-reproduction-number/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/recursive-reproduction-number/

@@ -24,6 +24,7 @@ Im Releases-Bereich auf der GitHub-Seite des Projekts können Sie die für Ihr S
 
 - [Debugger](https://trescout.com/de/dictionary/debugger/)
 - [Multi-process](https://trescout.com/de/dictionary/multi-process/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Entwickler, die große Software in C auf der Windows-Plattform entwickeln und eine visuelle Debugging-Oberfläche benötigen.
 - **Lizenz:** MIT
@@ -33,7 +34,7 @@ Im Releases-Bereich auf der GitHub-Seite des Projekts können Sie die für Ihr S
 - [GitHub-Repository →](https://github.com/EpicGames/raddebugger)
 - [Auf Türkisch lesen →](https://trescout.com/discover/raddebugger/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-07 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-07 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/raddebugger/

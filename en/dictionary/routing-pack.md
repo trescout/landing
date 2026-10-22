@@ -67,7 +67,7 @@ In corporate networks, protocols are protected by authentication and filtering. 
 
 - [Reverse Skill](https://trescout.com/en/discover/reverse-skill/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/routing-pack/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/routing-pack/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/routing-pack/

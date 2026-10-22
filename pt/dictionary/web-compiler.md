@@ -42,7 +42,7 @@ Seu código interrompe o processamento porque o processamento ocorre no servidor
 
 - [SWC](https://trescout.com/pt/discover/swc/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-compiler/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-compiler/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/web-compiler/

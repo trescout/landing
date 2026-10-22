@@ -2,16 +2,16 @@
 
 AnyPS5 est un outil qui convertit automatiquement les fichiers de jeux PlayStation 5 pour pouvoir les exécuter sur les systèmes Linux et Windows. Développé en C++, ce logiciel permet de porter des exécutables spécifiques à une console sur différentes plateformes.
 
-- ★ 37 857
+- ★ 44 882
 - C++
 - GitHub Trending · 2026-10-05
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 42,265 → 44,882, dernière version v0.1.3 (20 octobre 2026).
+- **18 octobre 2026:** Étoiles 40,200 → 42,265, dernière version v0.1.2 (14 octobre 2026).
+- **17 octobre 2026:** Étoiles 37,857 → 40,200, dernière version v0.1.2 (14 octobre 2026).
 - **15 octobre 2026:** Étoiles 36,023 → 37,857, dernière version v0.1.2 (14 octobre 2026).
-- **14 octobre 2026:** Étoiles 34,374 → 36,023, dernière version v0.1.2 (14 octobre 2026).
-- **13 octobre 2026:** Étoiles 32,459 → 34,374, dernière version v0.1.1 (28 septembre 2026).
-- **12 octobre 2026:** Étoiles 30,299 → 32,459, dernière version v0.1.1 (28 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -28,6 +28,7 @@ Pour commencer à utiliser le projet, vous pouvez consulter le guide d'utilisati
 ## Termes liés du glossaire
 
 - [Executables](https://trescout.com/fr/dictionary/executables/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il est destiné aux utilisateurs d'ordinateurs qui souhaitent exécuter des jeux de la console de jeux PlayStation 5 de manière native sous les systèmes d'exploitation Linux ou Windows.
 - **Licence:** GPL-2.0
@@ -37,7 +38,7 @@ Pour commencer à utiliser le projet, vous pouvez consulter le guide d'utilisati
 - [Dépôt GitHub →](https://github.com/boykopovar/AnyPS5)
 - [Lire en turc →](https://trescout.com/discover/anyps5/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/anyps5/

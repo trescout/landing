@@ -2,16 +2,16 @@
 
 DocuSeal ofrece una alternativa de código abierto para crear, completar y firmar documentos digitales. Esta plataforma, desarrollada con lenguaje Ruby, proporciona una solución para usuarios que quieran gestionar procesos de firma electrónica (e-signature) en su propia infraestructura.
 
-- ★ 18.698
+- ★ 18.752
 - Ruby
 - GitHub Trending · 2026-07-18
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 18,698 → 18,752, última versión 3.3.3 (19 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 18,654 → 18,698, última versión 3.3.2 (12 de octubre de 2026).
 - **5 de octubre de 2026:** Estrellas 18,631 → 18,654, última versión 3.3.1 (5 de octubre de 2026).
 - **28 de septiembre de 2026:** Estrellas 18,621 → 18,631, última versión 3.3.0 (28 de septiembre de 2026).
-- **27 de septiembre de 2026:** Estrellas 18,532 → 18,621, última versión 3.2.6 (21 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -47,6 +47,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo optimizar mis procesos de firma de documentos digitales utilizando DocuSeal? Explique los pasos que debo seguir para hacer que los formularios PDF se puedan completar en línea, configurar la verificación de firmas y las funciones de administración de usuarios en mi propio servidor. Además, guíeme sobre cómo habilitar las notificaciones automáticas por correo electrónico con la configuración SMTP después de la instalación a través de Docker.
 
+Repositorio: https://github.com/docusealco/docuseal. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [E-signature](https://trescout.com/es/dictionary/e-signature/)
@@ -61,7 +69,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 - [Repositorio en GitHub →](https://github.com/docusealco/docuseal)
 - [Leer en turco →](https://trescout.com/discover/docuseal/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-18: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-18: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/docuseal/

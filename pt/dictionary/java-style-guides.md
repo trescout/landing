@@ -38,7 +38,7 @@ Geralmente, você deve seguir o guia de padrões definido pelo projeto ou pela i
 - [Code Review](https://trescout.com/pt/dictionary/code-review/)
 - [Specification](https://trescout.com/pt/dictionary/specification/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/java-style-guides/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/java-style-guides/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/java-style-guides/

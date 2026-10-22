@@ -62,7 +62,7 @@ The application automatically schedules and is with you everywhere. Paper, on th
 - [Lifelong Learning](https://trescout.com/en/dictionary/lifelong-learning/)
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/flashcards/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/flashcards/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/flashcards/

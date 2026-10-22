@@ -38,7 +38,7 @@ Generally, you should follow the standard guide determined by the project or the
 - [Code Review](https://trescout.com/en/dictionary/code-review/)
 - [Specification](https://trescout.com/en/dictionary/specification/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/java-style-guides/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/java-style-guides/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/java-style-guides/

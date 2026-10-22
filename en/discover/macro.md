@@ -2,16 +2,16 @@
 
 Macro is a workspace that combines business tools such as email, chat, documents and task management with a common artificial intelligence memory. Developed with the Rust language, this platform connects different workflows in a single interface.
 
-- ★ 4,691
+- ★ 4,736
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Updates
 
+- **October 19, 2026:** Stars 4,705 → 4,736, latest release v2026.10.18.0 (October 18, 2026).
+- **October 17, 2026:** Stars 4,691 → 4,705, latest release v2026.10.16.0 (October 16, 2026).
 - **October 16, 2026:** Stars 4,680 → 4,691, latest release v2026.10.15.0 (October 15, 2026).
 - **October 15, 2026:** Stars 4,666 → 4,680, latest release v2026.10.14.0 (October 14, 2026).
-- **October 14, 2026:** Stars 4,627 → 4,666, latest release v2026.10.13.1 (October 13, 2026).
-- **October 11, 2026:** Stars 4,613 → 4,627, latest release v2026.10.10.0 (October 10, 2026).
 
 ## What you get
 
@@ -38,7 +38,7 @@ To start using the Macro platform, simply go to the official website macro.com a
 - [GitHub repository →](https://github.com/macro-inc/macro)
 - [Read in Turkish →](https://trescout.com/discover/macro/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/macro/

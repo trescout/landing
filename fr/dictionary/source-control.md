@@ -42,7 +42,7 @@ Git est le système le plus utilisé aujourd'hui.
 
 - [Atlas](https://trescout.com/fr/discover/atlas/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/source-control/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/source-control/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/source-control/

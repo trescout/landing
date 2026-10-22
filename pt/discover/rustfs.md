@@ -2,12 +2,14 @@
 
 O RustFS foi desenvolvido como um sistema de armazenamento de objetos de alto desempenho compatível com S3. Oferece suporte à interoperabilidade e migração de dados com outras plataformas compatíveis com S3, como MinIO e Ceph.
 
-- ★ 34.330
+- ★ 35.063
 - Rust
 - GitHub Trending · 2026-09-19
 
 ## Atualizações
 
+- **18 de outubro de 2026:** Estrelas 35,038 → 35,063, versão mais recente 1.0.3 (17 de outubro de 2026).
+- **17 de outubro de 2026:** Estrelas 34,330 → 35,038, versão mais recente 1.0.2 (16 de outubro de 2026).
 - **3 de outubro de 2026:** Estrelas 33,264 → 34,330, versão mais recente 1.0.1 (3 de outubro de 2026).
 - **19 de setembro de 2026:** Estrelas 33,264 → 33,264, versão mais recente 1.0.0 (16 de setembro de 2026).
 
@@ -45,6 +47,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar um ambiente de armazenamento de objetos de alto desempenho usando o RustFS. Como posso gerenciar meus dados aproveitando a compatibilidade S3 do sistema e a que devo estar atento ao escalar em uma arquitetura distribuída? Oriente-me passo a passo sobre a instalação e as configurações básicas deste sistema licenciado sob Apache 2.0.
 
+Repositório: https://github.com/rustfs/rustfs. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Object Storage System](https://trescout.com/pt/dictionary/object-storage-system/)
@@ -59,7 +69,7 @@ Quero configurar um ambiente de armazenamento de objetos de alto desempenho usan
 - [Repositório no GitHub →](https://github.com/rustfs/rustfs)
 - [Ler em turco →](https://trescout.com/discover/rustfs/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-19: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-19: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/rustfs/

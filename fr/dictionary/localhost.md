@@ -77,7 +77,7 @@ Non. Pour qu'il soit visible par d'autres, une diffusion et un nom de domaine so
 - [Personal_AI_Infrastructure](https://trescout.com/fr/discover/personal-ai-infrastructure/)
 - [Portless](https://trescout.com/fr/discover/portless/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/localhost/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/localhost/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/localhost/

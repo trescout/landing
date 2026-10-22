@@ -44,7 +44,7 @@ Sim, o administrador do sistema pode atualizar as permissões a partir de um pon
 
 - [Logto](https://trescout.com/pt/discover/logto/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/rbac/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/rbac/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/rbac/

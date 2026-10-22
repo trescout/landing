@@ -2,16 +2,16 @@
 
 Home Assistant is an open source home automation platform that prioritizes local control and privacy. This system, developed with Python language, allows users to manage their smart devices over a central network.
 
-- ★ 91,369
+- ★ 91,569
 - Python
 - GitHub Trending · 2026-07-12
 
 ## Updates
 
+- **October 17, 2026:** Stars 91,369 → 91,569, latest release 2026.10.2 (October 16, 2026).
 - **October 11, 2026:** Stars 91,313 → 91,369, latest release 2026.10.1 (October 10, 2026).
 - **October 8, 2026:** Stars 91,171 → 91,313, latest release 2026.10.0 (October 7, 2026).
 - **September 27, 2026:** Stars 90,760 → 91,171, latest release 2026.9.4 (September 27, 2026).
-- **September 19, 2026:** Stars 90,390 → 90,760, latest release 2026.9.3 (September 18, 2026).
 
 ## What you get
 
@@ -51,6 +51,7 @@ Visit home-assistant.io to begin setup. You can install the system on your devic
 
 - [Home Automation](https://trescout.com/en/dictionary/home-automation/)
 - [Container](https://trescout.com/en/dictionary/container/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for technology enthusiasts who want to manage their smart home devices via their own server, without cloud dependency.
 - **License:** Apache-2.0
@@ -60,7 +61,7 @@ Visit home-assistant.io to begin setup. You can install the system on your devic
 - [GitHub repository →](https://github.com/home-assistant/core)
 - [Read in Turkish →](https://trescout.com/discover/core/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/core/

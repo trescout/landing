@@ -40,7 +40,7 @@ Ele usa comandos de terminal padrão suportados pelo seu sistema operacional.
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [Autonomous Agent](https://trescout.com/pt/dictionary/autonomous-agent/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cli-agent/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cli-agent/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cli-agent/

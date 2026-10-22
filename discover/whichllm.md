@@ -2,16 +2,16 @@
 
 Whichllm, donanımınız üzerinde en yüksek performansı gösteren yerel büyük dil modellerini (large language models) belirlemenizi sağlayan bir araçtır. Parametre sayısından ziyade güncel kıyaslama testlerine (benchmarks) odaklanan bu Python tabanlı yazılım, tek komutla en uygun modeli seçmenize olanak tanır.
 
-- ★ 6.719
+- ★ 6.767
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 6.719 → 6.767, son sürüm v0.5.21 (19 Ekim 2026).
 - **4 Ekim 2026:** Yıldız 6.697 → 6.719, son sürüm v0.5.20 (3 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 6.263 → 6.697, son sürüm v0.5.19 (19 Eylül 2026).
 - **15 Ağustos 2026:** Yıldız 6.101 → 6.263, son sürüm v0.5.16 (14 Ağustos 2026).
-- **2 Ağustos 2026:** Yıldız 3.679 → 6.101, son sürüm v0.5.15 (3 Temmuz 2026).
 
 ## Ne kazandırır?
 
@@ -55,6 +55,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Whichllm aracını kullanarak donanım özelliklerime en uygun yerel büyük dil modellerini listelemek ve bu modellerin performans tahminlerini görmek istiyorum. Sistemimdeki GPU veya CPU kapasitesine göre en yüksek benchmark puanına sahip modelleri nasıl filtreleyebilirim, ayrıca belirli bir model için gerekli olan donanım planlamasını nasıl yapabilirim?
 
+Depo: https://github.com/Andyyyy64/whichllm. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi donanımı üzerinde en verimli şekilde çalışacak yerel yapay zekâ modellerini arayan ve teknik karmaşadan uzak durmak isteyen kullanıcılar içindir.
 - **Lisans:** MIT
 
@@ -62,7 +70,7 @@ Whichllm aracını kullanarak donanım özelliklerime en uygun yerel büyük dil
 
 - [GitHub deposu →](https://github.com/Andyyyy64/whichllm)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

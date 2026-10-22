@@ -59,6 +59,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to write unit tests for a data parser class using GoogleTest and GoogleMock in a modern C++ project. Could you explain with code examples how to configure my CMakeLists.txt file, provide an example TEST_F test fixture, and show how to create a mock object with MOCK_METHOD and verify call expectations?
 
+Repository: https://github.com/google/googletest. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - What is the most modern way to include GoogleTest in a project? In modern CMake projects, the FetchContent mechanism is the most recommended approach. It downloads the source code and links it to the target build process without needing an external package manager.
@@ -71,8 +79,8 @@ I want to write unit tests for a data parser class using GoogleTest and GoogleMo
 - [Fork](https://trescout.com/en/dictionary/fork/)
 - [Parser](https://trescout.com/en/dictionary/parser/)
 - [CI/CD](https://trescout.com/en/dictionary/ci-cd/)
-- [API](https://trescout.com/en/dictionary/api/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** C++ software engineers, embedded systems developers, and system architects.
@@ -85,7 +93,7 @@ I want to write unit tests for a data parser class using GoogleTest and GoogleMo
 - [GitHub repository →](https://github.com/google/googletest)
 - [Read in Turkish →](https://trescout.com/discover/googletest/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-27: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-27: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/googletest/

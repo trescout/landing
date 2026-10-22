@@ -2,16 +2,16 @@
 
 Conjunto de regras e sistema de plugins com licença MIT para agentes de codificação por IA. Destina-se a preservar verificação, tratamento de erros, segurança e acessibilidade enquanto os agentes escrevem código necessário.
 
-- ★ 164.759
+- ★ 165.409
 - JavaScript
 - GitHub Trending · 2026-08-25
 
 ## Atualizações
 
+- **17 de outubro de 2026:** Estrelas 164,759 → 165,409, versão mais recente v5.3.2 (16 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 162,432 → 164,759, versão mais recente v5.3.0 (16 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 158,247 → 162,432, versão mais recente v5.2.0 (13 de outubro de 2026).
 - **8 de outubro de 2026:** Estrelas 158,137 → 158,247, versão mais recente v5.1.0 (8 de outubro de 2026).
-- **8 de outubro de 2026:** Estrelas 156,385 → 158,137, versão mais recente v5.0.0 (8 de outubro de 2026).
 
 ## Instalação
 
@@ -92,7 +92,7 @@ Escreva apenas o código necessário para a tarefa, então revise as alteraçõe
 - [Método do benchmark agêntico →](https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md)
 - [Ler em turco →](https://trescout.com/discover/ponytail/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-25: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-25: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/ponytail/

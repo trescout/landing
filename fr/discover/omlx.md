@@ -2,16 +2,16 @@
 
 Omlx est un serveur d'inférence LLM (Large Language Model) natif de nouvelle génération qui offre des capacités de traitement par lots continu et de mise en cache SSD pour les ordinateurs Mac équipés de processeurs Apple Silicon (M1/M2/M3/M4). Il combine l'infrastructure Apple MLX avec une API compatible OpenAI et une interface de barre de menu macOS.
 
-- ★ 22 855
+- ★ 22 973
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 22,855 → 22,973, dernière version v0.7.2 (21 octobre 2026).
 - **16 octobre 2026:** Étoiles 22,825 → 22,855, dernière version v0.7.1rc1 (15 octobre 2026).
 - **15 octobre 2026:** Étoiles 22,655 → 22,825, dernière version v0.7.1.dev2 (15 octobre 2026).
 - **9 octobre 2026:** Étoiles 22,409 → 22,655, dernière version v0.7.1.dev1 (9 octobre 2026).
-- **1 octobre 2026:** Étoiles 22,280 → 22,409, dernière version v0.7.0 (30 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -70,6 +70,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter un modèle de langage étendu natif à l'aide du serveur Omlx sur mon Mac Apple Silicon. Après avoir terminé l'installation avec Homebrew, pouvez-vous expliquer étape par étape comment exécuter le serveur en arrière-plan, gérer la sélection du modèle depuis la barre de menu et vous connecter à ce modèle local via l'éditeur de code Cursor ou la bibliothèque openai Python ?
 
+Dépôt : https://github.com/jundot/omlx. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Quelle est la principale différence entre Omlx et Ollama? Alors qu'Ollama utilise généralement l'infrastructure llama.cpp basée sur C++, Omlx s'exécute directement sur le framework MLX développé par Apple. De cette manière, il offre une intégration plus profonde avec les unités motrices métalliques et neuronales des puces Apple Silicon, offrant un taux de génération de jetons plus élevé, en particulier dans l'empilement continu et les contextes longs.
@@ -96,7 +104,7 @@ Je souhaite exécuter un modèle de langage étendu natif à l'aide du serveur O
 - [Dépôt GitHub →](https://github.com/jundot/omlx)
 - [Lire en turc →](https://trescout.com/discover/omlx/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/omlx/

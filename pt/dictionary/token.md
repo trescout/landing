@@ -49,7 +49,7 @@ Como os computadores entendem números e não palavras, precisamos converter o t
 - [Airllm](https://trescout.com/pt/discover/airllm/)
 - [Book to Skill](https://trescout.com/pt/discover/book-to-skill/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/token/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/token/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/token/

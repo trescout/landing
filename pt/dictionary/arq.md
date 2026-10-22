@@ -36,7 +36,7 @@ Sim, o reenvio de pacotes com defeito pode retardar um pouco o processo.
 - [DNS Tunneling](https://trescout.com/pt/dictionary/dns-tunneling/)
 - [Computer Science](https://trescout.com/pt/dictionary/computer-science/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/arq/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/arq/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/arq/

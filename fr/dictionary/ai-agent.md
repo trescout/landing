@@ -74,7 +74,7 @@ Fonctionnalités définies telles que la recherche, les fichiers, le calendrier,
 - [Last30days Skill](https://trescout.com/fr/discover/last30days-skill/)
 - [Hiring Agent](https://trescout.com/fr/discover/hiring-agent/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/ai-agent/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/ai-agent/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/ai-agent/

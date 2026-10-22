@@ -1,48 +1,53 @@
-# Sun Code Conventions: Java standards, code readability, and maintenance
+# What is Sun Code Conventions?
 
 *Development · Last updated: September 20, 2026*
 
-The Sun Code Conventions for the Java Programming Language, published by Sun Microsystems in 1999, is the foundational coding standards document that established universal naming, formatting, and structural paradigms for modern object-oriented software engineering.
+Sun Code Conventions for the Java Programming Language is the first enterprise coding standards document in software engineering history, published in 1997 by Sun Microsystems, the creator of Java.
 
-## Etymology and Software Engineering Heritage
+## Etymology and Software Engineering Legacy
 
-Published in 1999 under the authorship of Sun Microsystems, the Sun Code Conventions codified an essential truth of software economics: **80% of the lifetime cost of software goes to maintenance**, and code is read far more frequently than it is written. Establishing strict conventions turned disparate codebases into readable, coherent enterprise systems.
+Sun Code Conventions is one of the most influential style and architecture guides ever published by the creator of a programming language in software development history. While the Java language, introduced by Sun Microsystems in 1995, aimed for platform independence with the motto "Write Once, Run Anywhere", the human factor equivalent of this goal was formulated with Sun Code Conventions: "Everyone Reads and Understands to the Same Standard."
 
-## Technical Standards and Document Anatomy
+Drafted in 1997 and reaching its final version in 1999, this document brought a pristine discipline to the enterprise software world after the brace wars and uncontrolled pointer chaos in the C and C++ ecosystems. Sun Microsystems' observation emphasized in this document·"80 percent of a software's lifecycle cost is spent on maintenance, and almost no software is maintained by its original author throughout its entire life"·has also become the foundational aphorism of the modern Clean Code movement.
 
-The convention document specified unambiguous formatting and structural rules:
+***Analogy:** Imagine hundreds of civil engineers from different countries wanting to build a shared architectural masterpiece. If every engineer uses their own country's unit of measurement (inches, centimeters, cubits) and prefers their own drawing symbols, the columns will not align and the building will collapse. Sun Code Conventions is the Java world's shared metric system and architectural alphabet standard. Regardless of country or company, another engineer opening a class file written by a Java engineer understands at a glance where the columns and beams (classes and methods) are placed.*
 
-- **Naming Conventions:** CamelCase conventions (`PascalCase` for class names, `camelCase` for methods and variables, and `UPPER_SNAKE_CASE` for constants).
-- **File Layout & Ordering:** Standardized declaration order (package statement, imports, class declarations, fields, constructors, methods).
-- **Indentation & Margins:** 4-space indentation and an 80-character maximum line length (tailored to standard terminal screens and printer printouts of the era).
-- **Brace Placement:** The "Kernighan & Ritchie" (K&R) brace style with opening braces on the same line as statements.
+## Technical Standards and the Anatomy of the Document
 
-## Sociological Dimension: Collective Discipline and Code Ownership
+Source File Layout and 80 Characters: Each file contains a single public class. The 80-character limit was established for the terminals and printers of that era.
+- 4-Space Indentation: The standard indentation is 4 spaces. Braces follow the K&R style and are placed at the end of the line; braces are mandatory even for single-line conditions.
+The Birth of Naming Conventions (CamelCase): Classes are written in UpperCamelCase, and methods in lowerCamelCase. Reverse domain name (com.sun.*) package naming was first standardized with this document.
+- Historical Freeze and Legacy: The document was frozen in 1999; in the modern era, it has passed the torch to the Google Java Style Guide and modern linter tools.
 
-Before Sun's conventions, developers wrote code according to idiosyncratic personal preferences. Sun demonstrated that shared stylistic conventions eliminate cognitive friction during code reviews, dismantle individual ego in team settings, and treat source code as collective team infrastructure.
+## Sociological Dimension: Collective Discipline and Maintenance Culture
 
-## Common Mistakes and Historical Pitfalls
+Sun Code Conventions is a historical milestone testifying that software is not merely a product of genius, but a collective industrial engineering discipline. By breaking the individual programmer's stubbornness of "this is my style," it has established software on the axis of readability and maintainability.
 
-Modern engineers should understand the context of historical guidelines:
+Today, millions of lines of legacy Java projects running in finance, banking, and public infrastructures are still standing thanks to these rules set by Sun Microsystems in 1997. Even though modern tools change, the logical skeleton established by Sun is the cultural heritage of software engineering.
 
-- **Dogmatic Adherence to the 80-Character Limit:** While sensible on 1990s VT100 terminals, modern high-resolution displays often prefer 100 or 120-character margins (as adopted by Google and modern linters).
-- **Treating Formatting as a Manual Task:** Today, automated formatters like Prettier, Spotless, and rustfmt format code automatically during git pre-commit hooks, rendering manual style debates obsolete.
+## Common Mistakes and Historical Misconceptions
 
-*Sun Code Conventions is like the rules of road traffic for software: whether driving a sports car or a delivery van, everyone agrees to drive on the same side of the road and respect identical signals, preventing chaos and collisions.*
+- Insisting on an 80-character limit: Strictly enforcing the 80-character rule on wide screens splits the code unnecessarily vertically; modern 100-120 character standards should be adopted.
+Mistaking a Frozen Document for Current: Using a Sun manual that hasn't been updated since 1999 as the sole source for modern projects creates technical debt.
+Forgetting Braces in Conditions: Omitting braces in single-line bodies can lead to security vulnerabilities in the future.
 
-## Frequently asked questions
+## Frequently Asked Questions
 
-**What were the Sun Code Conventions?**
+**Why hasn't the Sun Code Conventions been updated since 1999?**
 
-They were the official coding standards established by Sun Microsystems in 1999 that standardized Java naming, indentation, file structure, and documentation.
+After establishing the basic standards, Sun Microsystems preferred formatting rules to be managed by the community and open-source tools (such as Checkstyle) and froze the document as a historical reference.
 
-**Why did Sun mandate an 80-character line length?**
+**Where does the 80-character limit in Sun Code Conventions originate from?**
 
-Because in the 1990s, computer terminals and documentation printouts were restricted to 80 monospaced columns.
+This limit was established due to the UNIX terminal screens of the 1990s, the legacy of 80-column punch cards, and the standard width of output printers used in code reviews.
 
-**Are Sun's 1999 conventions still used today?**
+**What should be used instead of Sun rules in modern Java projects?**
 
-While superseded by modern guides like the Google Java Style Guide, virtually all modern Java codebases still follow Sun's core naming and indentation foundations.
+In today's projects, the 2-space Google Java Style Guide or Spring Framework coding standards, along with automated tools like Spotless and google-java-format, are preferred.
+
+**Who first made reverse domain name package naming mandatory?**
+
+Sun Microsystems introduced the reverse domain name standard, such as 'com.sun' or 'org.apache', with the Sun Code Conventions to prevent global name collisions for Java classes.
 
 ## Related terms
 
@@ -52,7 +57,11 @@ While superseded by modern guides like the Google Java Style Guide, virtually al
 - [QA](https://trescout.com/en/dictionary/qa/)
 - [Syntax](https://trescout.com/en/dictionary/syntax/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/sun-code-conventions/)
+## Related tools
+
+- [Checkstyle](https://trescout.com/en/discover/checkstyle/)
+
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/sun-code-conventions/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sun-code-conventions/

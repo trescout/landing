@@ -2,16 +2,16 @@
 
 Aplica reglas orientadas a tareas para reducir código innecesario y garantizar validación, seguridad y accesibilidad durante el flujo de codificación agentic. Está pensado para integrarse como plugin o adaptador en varios host de agentes.
 
-- ★ 164.759
+- ★ 165.409
 - JavaScript
 - GitHub Trending · 2026-08-25
 
 ## Actualizaciones
 
+- **17 de octubre de 2026:** Estrellas 164,759 → 165,409, última versión v5.3.2 (16 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 162,432 → 164,759, última versión v5.3.0 (16 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 158,247 → 162,432, última versión v5.2.0 (13 de octubre de 2026).
 - **8 de octubre de 2026:** Estrellas 158,137 → 158,247, última versión v5.1.0 (8 de octubre de 2026).
-- **8 de octubre de 2026:** Estrellas 156,385 → 158,137, última versión v5.0.0 (8 de octubre de 2026).
 
 ## Instalación
 
@@ -92,7 +92,7 @@ Escribe sólo el código necesario para la tarea y luego revisa los cambios en t
 - [Método del benchmark agéntico →](https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md)
 - [Leer en turco →](https://trescout.com/discover/ponytail/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-25: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-25: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/ponytail/

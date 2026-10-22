@@ -43,7 +43,7 @@ Yes, since there is no time to retrieve data over the network, in-process operat
 - [Turso](https://trescout.com/en/discover/turso/)
 - [Zvec](https://trescout.com/en/discover/zvec/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/in-process/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/in-process/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/in-process/

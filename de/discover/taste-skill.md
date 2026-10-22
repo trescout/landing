@@ -2,17 +2,17 @@
 
 Wenn Agenten der künstlichen Intelligenz Schnittstellen erstellen, liefern sie häufig vorlagenorientierte Ergebnisse. Bei der Taste Skill handelt es sich um eine tragbare Fertigkeit, mit der Agenten Layout, Typografie, Bewegung und Raum effektiver nutzen können. Auf diese Weise sehen mit künstlicher Intelligenz erstellte Schnittstellen viel origineller und professioneller aus.
 
-- ★ 95.827
+- ★ 100.118
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 99,600 → 100,118, neueste Version v2.1.4 (20. Oktober 2026).
+- **20. Oktober 2026:** Sterne 99,086 → 99,600, neueste Version v2.1.3 (19. Oktober 2026).
+- **19. Oktober 2026:** Sterne 95,827 → 99,086, neueste Version v2.1.2 (19. Oktober 2026).
 - **14. Oktober 2026:** Sterne 91,389 → 95,827, neueste Version v2.0.0 (13. Oktober 2026).
-- **30. September 2026:** Sterne 86,983 → 91,389.
-- **14. September 2026:** Sterne 82,815 → 86,983.
-- **31. August 2026:** Sterne 77,614 → 82,815.
 
 *Görsel: taste-skill (proje deposundan)*
 
@@ -31,6 +31,14 @@ Wenn Sie den Skill zu Ihrem KI-Agenten hinzufügen (Schritte unter tasteskill.de
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie Taste Skills, indem Sie im Terminal den Befehl „npx skills add https://github.com/Leonxlnx/taste-skill“ ausführen. Bitten Sie dann den Agenten, diese Fähigkeit bei der Erstellung der Benutzeroberfläche zu befolgen und ein erstklassiges Design mit besserem Layout, besserer Typografie und Animation zu erstellen.
+
+Repository: https://github.com/Leonxlnx/taste-skill. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
 
 **Installieren Sie alle Fähigkeiten**
 
@@ -66,7 +74,7 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-fro
 - [GitHub-Repository →](https://github.com/Leonxlnx/taste-skill)
 - [Auf Türkisch lesen →](https://trescout.com/discover/taste-skill/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-26 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-26 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/taste-skill/

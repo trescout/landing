@@ -67,7 +67,7 @@ Sim, mas devido à ODbL, você deve fornecer a atribuição do OpenStreetMap de 
 - [OSINT](https://trescout.com/pt/dictionary/osint/)
 - [Graph-based Investigation](https://trescout.com/pt/dictionary/graph-based-investigation/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/openstreetmap/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/openstreetmap/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/openstreetmap/

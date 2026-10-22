@@ -38,7 +38,7 @@ Porque en proyectos muy grandes, es imposible rastrear manualmente dónde un cam
 
 - [Code Review Graph](https://trescout.com/es/discover/code-review-graph/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/code-intelligence-graph/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/code-intelligence-graph/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/code-intelligence-graph/

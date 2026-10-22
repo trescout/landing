@@ -43,13 +43,13 @@ Você pode abri-lo com qualquer editor de texto, mas pode lê-lo formatado mais 
 - [MarkItDown](https://trescout.com/pt/discover/markitdown/)
 - [Firecrawl](https://trescout.com/pt/discover/firecrawl/)
 - [PaddleOCR](https://trescout.com/pt/discover/paddleocr/)
-- [Crawl4AI](https://trescout.com/pt/discover/crawl4ai/)
 - [Scrapling](https://trescout.com/pt/discover/scrapling/)
+- [Crawl4AI](https://trescout.com/pt/discover/crawl4ai/)
 - [MinerU](https://trescout.com/pt/discover/mineru/)
 - [UP](https://trescout.com/pt/discover/up/)
 - [Obsidian Skills](https://trescout.com/pt/discover/obsidian-skills/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/markdown/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/markdown/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/markdown/

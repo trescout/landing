@@ -45,7 +45,7 @@ It is generally not written directly. As developers, when you use high-level art
 
 - [DeepGEMM](https://trescout.com/en/discover/deepgemm/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/blas/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/blas/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/blas/

@@ -43,7 +43,7 @@ Não, uma vez que apenas dados baseados em texto e pequenos arquivos que o usuá
 
 - [LAP](https://trescout.com/pt/discover/lap/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/offline-first/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/offline-first/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/offline-first/

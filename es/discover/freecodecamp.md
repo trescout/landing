@@ -20,6 +20,10 @@ freeCodeCamp no es una herramienta de software, sino una plataforma de aprendiza
 
 - [Fuente oficial →](https://contribute.freecodecamp.org)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es para cualquiera que quiera ingresar al mundo del software o que desee mejorar sus habilidades técnicas existentes con proyectos prácticos y gratuitos.
 - **Licencia:** BSD-3-Clause
 
@@ -28,7 +32,7 @@ freeCodeCamp no es una herramienta de software, sino una plataforma de aprendiza
 - [Repositorio en GitHub →](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Leer en turco →](https://trescout.com/discover/freecodecamp/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/freecodecamp/

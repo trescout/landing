@@ -2,16 +2,16 @@
 
 O Pstack-claude é uma biblioteca de automação que adapta as funcionalidades principais da ferramenta de desenvolvimento de software Cursor para diferentes modelos e plataformas de inteligência artificial. Ele permite que os desenvolvedores executem fluxos de trabalho de agentes de IA complexos de maneira padronizada em vários ambientes de trabalho.
 
-- ★ 2.562
+- ★ 3.217
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Atualizações
 
-- **16 de outubro de 2026:** Estrelas 1,926 → 2,562, versão mais recente v0.9.86 (15 de outubro de 2026).
-- **13 de outubro de 2026:** Estrelas 1,917 → 1,926, versão mais recente v0.9.84 (13 de outubro de 2026).
-- **13 de outubro de 2026:** Estrelas 1,825 → 1,917, versão mais recente v0.9.83 (13 de outubro de 2026).
-- **12 de outubro de 2026:** Estrelas 1,711 → 1,825, versão mais recente v0.9.82 (11 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 3,212 → 3,217, versão mais recente v0.9.99 (21 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 3,140 → 3,212, versão mais recente v0.9.97 (21 de outubro de 2026).
+- **20 de outubro de 2026:** Estrelas 2,860 → 3,140, versão mais recente v0.9.95 (20 de outubro de 2026).
+- **18 de outubro de 2026:** Estrelas 2,721 → 2,860, versão mais recente v0.9.93 (18 de outubro de 2026).
 
 ## O que você ganha
 
@@ -38,7 +38,7 @@ Você pode começar executando os comandos de plugin correspondentes através da
 - [Repositório no GitHub →](https://github.com/michael-denyer/pstack-claude)
 - [Ler em turco →](https://trescout.com/discover/pstack-claude/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-10-05: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-10-05: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/pstack-claude/

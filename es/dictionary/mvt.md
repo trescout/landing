@@ -40,7 +40,7 @@ Mientras que las pruebas A/B se centran en un solo cambio, MVT examina la intera
 - [Analytics Snippets](https://trescout.com/es/dictionary/analytics-snippets/)
 - [User Experience](https://trescout.com/es/dictionary/user-experience/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/mvt/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/mvt/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/mvt/

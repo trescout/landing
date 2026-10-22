@@ -2,7 +2,7 @@
 
 Código Cláudio; É uma ferramenta de codificação baseada em agente que fica em seu terminal e tem um conhecimento profundo de sua base de código. Ele acelera seu processo de desenvolvimento lendo arquivos, fazendo alterações e executando testes com comandos de linguagem natural. (Você pode usar muitas das ferramentas desta página com ele.)
 
-- ★ 151.152
+- ★ 152.655
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -11,10 +11,10 @@ Código Cláudio; É uma ferramenta de codificação baseada em agente que fica 
 
 ## Atualizações
 
-- **16 de outubro de 2026:** Estrelas 150,959 → 151,152, versão mais recente v2.1.301 (15 de outubro de 2026).
-- **15 de outubro de 2026:** Estrelas 150,735 → 150,959, versão mais recente v2.1.300 (14 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 149,972 → 150,735, versão mais recente v2.1.299 (14 de outubro de 2026).
-- **10 de outubro de 2026:** Estrelas 149,709 → 149,972, versão mais recente v2.1.296 (9 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 152,857 → 152,655, versão mais recente v2.1.306 (21 de outubro de 2026).
+- **20 de outubro de 2026:** Estrelas 152,318 → 152,857, versão mais recente v2.1.304 (19 de outubro de 2026).
+- **19 de outubro de 2026:** Estrelas 151,307 → 152,318, versão mais recente v2.1.303 (18 de outubro de 2026).
+- **17 de outubro de 2026:** Estrelas 151,152 → 151,307, versão mais recente v2.1.302 (16 de outubro de 2026).
 
 ## O que você ganha
 
@@ -44,6 +44,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Digitei em meu terminal 'curl -fsSL https://claude.ai/install.sh | Instale a ferramenta oficial Claude Code da Anthropic com o comando 'bash', vá para a pasta do meu projeto e digite 'claude' para iniciá-la e peça para me ajudar a escrever o código.
 
+Repositório: https://github.com/anthropics/claude-code. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
@@ -63,7 +71,7 @@ Digitei em meu terminal 'curl -fsSL https://claude.ai/install.sh | Instale a fer
 - [Repositório no GitHub →](https://github.com/anthropics/claude-code)
 - [Ler em turco →](https://trescout.com/discover/claude-code/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-05-30: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-05-30: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/claude-code/

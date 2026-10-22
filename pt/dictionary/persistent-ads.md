@@ -38,7 +38,7 @@ Esses anúncios podem ser ocultados com a ajuda de complementos do navegador ou 
 - [Frontend Stack](https://trescout.com/pt/dictionary/frontend-stack/)
 - [Web Interface](https://trescout.com/pt/dictionary/web-interface/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/persistent-ads/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/persistent-ads/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/persistent-ads/

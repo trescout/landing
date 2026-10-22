@@ -54,6 +54,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein 1-Bit-KI-Modell auf meinem Computer mithilfe des BitNet-Frameworks ausführen. Leite mich zunächst durch die Schritte, um das Projekt mit dem Befehl 'git clone --recursive https://github.com/microsoft/BitNet.git' zu klonen und in den Ordner zu wechseln, mit dem Paketmanager Conda eine Python 3.10-Umgebung zu erstellen und die Anforderungen zu installieren. Erkläre anschließend Schritt für Schritt und so einfach, dass es auch jemand ohne Programmierkenntnisse versteht, wie man das Modell microsoft/BitNet-b1.58-2B-4T-gguf über die Open-Source-Modellplattform Hugging Face herunterlädt, es mit 'setup_env.py' vorbereitet und schließlich den Chat-Modus mit dem Skript 'run_inference.py' startet.
 
+Repository: https://github.com/microsoft/BitNet. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Inference Framework](https://trescout.com/de/dictionary/inference-framework/)
@@ -71,7 +79,7 @@ Ich möchte ein 1-Bit-KI-Modell auf meinem Computer mithilfe des BitNet-Framewor
 - [GitHub-Repository →](https://github.com/microsoft/BitNet)
 - [Auf Türkisch lesen →](https://trescout.com/discover/bitnet/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/bitnet/

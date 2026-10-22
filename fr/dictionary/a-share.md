@@ -38,7 +38,7 @@ Un accès limité est désormais possible grâce à des programmes spéciaux et 
 
 - [Tick Stock Panel](https://trescout.com/fr/discover/tick-stock-panel/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/a-share/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/a-share/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/a-share/

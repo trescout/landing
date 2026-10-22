@@ -43,13 +43,13 @@ Herhangi bir metin editörüyle açabilirsiniz, ancak özel görüntüleyicilerl
 - [MarkItDown](https://trescout.com/discover/markitdown/)
 - [Firecrawl](https://trescout.com/discover/firecrawl/)
 - [PaddleOCR](https://trescout.com/discover/paddleocr/)
-- [Crawl4AI](https://trescout.com/discover/crawl4ai/)
 - [Scrapling](https://trescout.com/discover/scrapling/)
+- [Crawl4AI](https://trescout.com/discover/crawl4ai/)
 - [MinerU](https://trescout.com/discover/mineru/)
 - [UP](https://trescout.com/discover/up/)
 - [Obsidian Skills](https://trescout.com/discover/obsidian-skills/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/markdown/

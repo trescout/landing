@@ -23,6 +23,10 @@ Para obter as etapas de instalação e o guia de primeiros passos, você precisa
 
 - [Fonte oficial →](https://hypr.land)
 
+## Termos relacionados do glossário
+
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
 - **Para quem é:** É adequado para usuários que desejam customizar o ambiente de desktop de acordo com suas necessidades e procuram um gerenciador de janelas de alto desempenho baseado em Wayland.
 - **Licença:** BSD-3-Clause
 
@@ -31,7 +35,7 @@ Para obter as etapas de instalação e o guia de primeiros passos, você precisa
 - [Repositório no GitHub →](https://github.com/hyprwm/Hyprland)
 - [Ler em turco →](https://trescout.com/discover/hyprland/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-22: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-22: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/hyprland/

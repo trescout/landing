@@ -62,7 +62,7 @@ Elle augmente. À mesure que les coûts baissent, les installations aéroportuai
 - [Physical AI](https://trescout.com/fr/dictionary/physical-ai/)
 - [Driver Assistance System](https://trescout.com/fr/dictionary/driver-assistance-system/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/phased-array-radar/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/phased-array-radar/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/phased-array-radar/

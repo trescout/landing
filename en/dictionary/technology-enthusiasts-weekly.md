@@ -38,7 +38,7 @@ Since technology changes very rapidly, it saves a significant amount of time by 
 - [AI Engineering](https://trescout.com/en/dictionary/ai-engineering/)
 - [Best Practices](https://trescout.com/en/dictionary/best-practices/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/technology-enthusiasts-weekly/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/technology-enthusiasts-weekly/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/technology-enthusiasts-weekly/

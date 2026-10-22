@@ -38,7 +38,7 @@ Porque em projetos muito grandes, é impossível rastrear manualmente onde uma a
 
 - [Code Review Graph](https://trescout.com/pt/discover/code-review-graph/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-intelligence-graph/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-intelligence-graph/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/code-intelligence-graph/

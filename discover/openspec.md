@@ -2,16 +2,16 @@
 
 OpenSpec, yapay zekâ kod asistanları için şartname odaklı geliştirme (spec-driven development) süreçlerini destekleyen bir TypeScript kütüphanesidir. Yazılım geliştirme aşamalarında teknik gereksinimlerin standartlaştırılmasını ve kod üretim süreçlerinin daha kontrollü ilerlemesini sağlar.
 
-- ★ 72.001
+- ★ 72.185
 - TypeScript
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 72.001 → 72.185, son sürüm v1.14.3 (17 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 71.132 → 72.001, son sürüm v1.14.2 (15 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 70.815 → 71.132, son sürüm v1.14.1 (6 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 70.448 → 70.815, son sürüm v1.14.0 (30 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 68.748 → 70.448, son sürüm v1.13.2 (23 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -41,6 +41,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenSpec kullanarak bir geliştirme süreci başlatmak istiyorum. Lütfen mevcut kod yapımı inceleyerek önerilerde bulun ve `/opsx:propose` komutu ile yeni bir özellik için teknik gereksinimleri, tasarım detaylarını ve uygulama görevlerini içeren bir plan oluşturmama yardımcı ol.
 
+Depo: https://github.com/Fission-AI/OpenSpec. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ kod asistanlarını kullanırken daha düzenli, planlı ve öngörülebilir bir geliştirme süreci arayan yazılımcılar içindir.
 - **Lisans:** MIT
 
@@ -48,7 +56,7 @@ OpenSpec kullanarak bir geliştirme süreci başlatmak istiyorum. Lütfen mevcut
 
 - [GitHub deposu →](https://github.com/Fission-AI/OpenSpec)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

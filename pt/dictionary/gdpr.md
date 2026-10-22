@@ -40,7 +40,7 @@ Vincula todas as empresas em todo o mundo que fazem negócios com cidadãos da U
 - [End-to-End Privacy](https://trescout.com/pt/dictionary/end-to-end-privacy/)
 - [Security Scanner](https://trescout.com/pt/dictionary/security-scanner/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/gdpr/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/gdpr/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/gdpr/

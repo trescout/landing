@@ -51,6 +51,7 @@ Pour commencer à développer avec Flutter, vous devez visiter le site officiel 
 - [User Interface](https://trescout.com/fr/dictionary/user-interface/)
 - [Interface](https://trescout.com/fr/dictionary/interface/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs de logiciels qui souhaitent développer simultanément des applications pour plusieurs plates-formes à partir d'une seule base de code.
 - **Licence:** BSD-3-Clause
@@ -60,7 +61,7 @@ Pour commencer à développer avec Flutter, vous devez visiter le site officiel 
 - [Dépôt GitHub →](https://github.com/flutter/flutter)
 - [Lire en turc →](https://trescout.com/discover/flutter/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-25 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-25 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/flutter/

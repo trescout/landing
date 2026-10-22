@@ -20,6 +20,10 @@ LunaTV es un proyecto desarrollado con el lenguaje TypeScript que ofrece una int
 
 Esta herramienta funciona con la tecnología de contenedorización de software llamada Docker. Para la instalación, puede ir a la sección '部署' (Despliegue) en la página de GitHub del proyecto y utilizar los archivos de Docker Compose o realizar una instalación con un solo clic a través de plataformas en la nube como Zeabur. Tenga en cuenta que el proyecto viene con una interfaz vacía y que debe agregar sus propias fuentes multimedia.
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Está destinado a usuarios que desean ver su propio archivo multimedia de manera organizada en una plataforma centralizada a través del navegador.
 
 ## Enlaces
@@ -27,7 +31,7 @@ Esta herramienta funciona con la tecnología de contenedorización de software l
 - [Repositorio en GitHub →](https://github.com/MoonTechLab/LunaTV)
 - [Leer en turco →](https://trescout.com/discover/lunatv/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-08: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-08: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/lunatv/

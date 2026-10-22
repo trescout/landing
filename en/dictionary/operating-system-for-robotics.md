@@ -36,7 +36,7 @@ You don't have to be an engineer to learn the basic concepts, but it is recommen
 - [Physical AI](https://trescout.com/en/dictionary/physical-ai/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/operating-system-for-robotics/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/operating-system-for-robotics/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/operating-system-for-robotics/

@@ -2,16 +2,16 @@
 
 Developed by NousResearch, Hermes Agent offers an autonomous agent infrastructure that learns from user interactions and develops over time. This Python-based system uses continuous learning to create personalized workflows.
 
-- ★ 253,914
+- ★ 255,753
 - Python
 - GitHub Trending · 2026-06-04
 
 ## Updates
 
+- **October 21, 2026:** Stars 253,914 → 255,753, latest release v0.22.3 (October 21, 2026).
 - **October 15, 2026:** Stars 253,617 → 253,914, latest release v0.22.2 (October 15, 2026).
 - **October 14, 2026:** Stars 252,977 → 253,617, latest release v0.22.0 (October 14, 2026).
 - **October 12, 2026:** Stars 252,121 → 252,977, latest release v0.21.7 (October 12, 2026).
-- **October 8, 2026:** Stars 249,251 → 252,121, latest release v0.21.6 (October 8, 2026).
 
 ## What you get
 
@@ -41,6 +41,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to benefit from the autonomous learning cycle while working with Hermes Agent. What commands should I use so that the system remembers my past conversations, creates new skills through tasks, and becomes personalized over time? Can you explain the basic steps I need to follow, especially to switch between different models and connect messaging platforms to the system?
 
+Repository: https://github.com/NousResearch/hermes-agent. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Autonomous Agent](https://trescout.com/en/dictionary/autonomous-agent/)
@@ -57,7 +65,7 @@ I want to benefit from the autonomous learning cycle while working with Hermes A
 - [GitHub repository →](https://github.com/NousResearch/hermes-agent)
 - [Read in Turkish →](https://trescout.com/discover/hermes-agent/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/hermes-agent/

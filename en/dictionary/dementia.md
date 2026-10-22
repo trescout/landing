@@ -38,7 +38,7 @@ Yes, it can analyze data for early diagnosis or offer intelligent support system
 - [Working Memory](https://trescout.com/en/dictionary/working-memory/)
 - [Long-term Memory](https://trescout.com/en/dictionary/long-term-memory/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dementia/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dementia/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/dementia/

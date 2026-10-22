@@ -39,7 +39,7 @@ Er demonstriert dies, indem er mithilfe einer ähnlichen Logik eine schnellere L
 - [AGI](https://trescout.com/de/dictionary/agi/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/meta-skill/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/meta-skill/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/meta-skill/

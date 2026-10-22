@@ -38,7 +38,7 @@ Ferramentas de design 3D profissionais como Blender e Substance Painter são as 
 - [Rendering](https://trescout.com/pt/dictionary/rendering/)
 - [Assets](https://trescout.com/pt/dictionary/assets/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/texture-painting/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/texture-painting/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/texture-painting/

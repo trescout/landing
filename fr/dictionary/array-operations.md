@@ -34,7 +34,7 @@ Parce que le traitement par lots utilise le processeur de l'ordinateur beaucoup 
 - [Machine Learning](https://trescout.com/fr/dictionary/machine-learning/)
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/array-operations/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/array-operations/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/array-operations/

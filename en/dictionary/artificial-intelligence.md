@@ -44,15 +44,15 @@ Artificial intelligence will change the way many jobs are done, but will general
 ## Related tools
 
 - [Build Your Own X](https://trescout.com/en/discover/build-your-own-x/)
+- [Awesome](https://trescout.com/en/discover/awesome/)
+- [Public Apis](https://trescout.com/en/discover/public-apis/)
+- [freeCodeCamp](https://trescout.com/en/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/en/discover/openclaw/)
-- [Coding Interview University](https://trescout.com/en/discover/coding-interview-university/)
-- [Superpowers](https://trescout.com/en/discover/superpowers/)
+- [System Design Primer](https://trescout.com/en/discover/system-design-primer/)
 - [REA](https://trescout.com/en/discover/rea/)
-- [ECC](https://trescout.com/en/discover/ecc/)
-- [Hermes Agent](https://trescout.com/en/discover/hermes-agent/)
-- [Opencode](https://trescout.com/en/discover/opencode/)
+- [Coding Interview University](https://trescout.com/en/discover/coding-interview-university/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/artificial-intelligence/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/artificial-intelligence/

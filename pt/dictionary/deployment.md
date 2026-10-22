@@ -75,7 +75,7 @@ Elas são gerenciadas com o padrão Expand-Contract (Expandir e Contrair). Prime
 - [Argo Cd](https://trescout.com/pt/discover/argo-cd/)
 - [Openship](https://trescout.com/pt/discover/openship/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/deployment/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/deployment/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/deployment/

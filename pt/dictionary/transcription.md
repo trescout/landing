@@ -72,7 +72,7 @@ Os modelos abertos são executados gratuitamente e os serviços em nuvem são co
 - [Meetily](https://trescout.com/pt/discover/meetily/)
 - [Claude Video](https://trescout.com/pt/discover/claude-video/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/transcription/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/transcription/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/transcription/

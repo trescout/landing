@@ -76,7 +76,7 @@ Dies variiert je nach Lizenz. Die meisten offenen Engines sind für die kommerzi
 - [Pocket TTS](https://trescout.com/de/discover/pocket-tts/)
 - [MOSS-TTS](https://trescout.com/de/discover/moss-tts/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/text-to-speech/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/text-to-speech/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/text-to-speech/

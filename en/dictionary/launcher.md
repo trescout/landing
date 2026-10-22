@@ -43,7 +43,7 @@ Most modern operating systems come with a built-in search/launch tool, but third
 - [Tinycast](https://trescout.com/en/discover/tinycast/)
 - [YimMenuV2](https://trescout.com/en/discover/yimmenuv2/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/launcher/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/launcher/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/launcher/

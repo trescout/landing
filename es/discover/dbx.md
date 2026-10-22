@@ -2,16 +2,16 @@
 
 Desarrollado con el lenguaje Rust, dbx ofrece un cliente de base de datos ligero de 25 MB que admite más de 100 tipos de bases de datos. La aplicación de escritorio incluye soporte para interfaz de línea de comandos (CLI) y Docker, además de características como un asistente de inteligencia artificial integrado y el Protocolo de Conexión de Modelos (MCP).
 
-- ★ 26.967
+- ★ 27.438
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Actualizaciones
 
-- **16 de octubre de 2026:** Estrellas 26,784 → 26,967, última versión v0.6.45 (15 de octubre de 2026).
-- **15 de octubre de 2026:** Estrellas 26,630 → 26,784, última versión v0.6.44 (14 de octubre de 2026).
-- **14 de octubre de 2026:** Estrellas 25,978 → 26,630, última versión v0.6.43 (14 de octubre de 2026).
-- **12 de octubre de 2026:** Estrellas 25,943 → 25,978, última versión v0.6.42 (12 de octubre de 2026).
+- **21 de octubre de 2026:** Estrellas 27,338 → 27,438, última versión v0.6.50 (20 de octubre de 2026).
+- **20 de octubre de 2026:** Estrellas 27,216 → 27,338, última versión v0.6.49 (19 de octubre de 2026).
+- **19 de octubre de 2026:** Estrellas 27,082 → 27,216, última versión v0.6.48 (19 de octubre de 2026).
+- **18 de octubre de 2026:** Estrellas 27,027 → 27,082, última versión v0.6.47 (17 de octubre de 2026).
 
 ## Qué aporta
 
@@ -63,6 +63,14 @@ docker run -d --pull=always --name dbx -p 4224:4224 \
 -v dbx-data:/app/data \
 t8y2/dbx:latest
 
+Repositorio: https://github.com/t8y2/dbx. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Database Client](https://trescout.com/es/dictionary/database-client/)
@@ -80,7 +88,7 @@ t8y2/dbx:latest
 - [Repositorio en GitHub →](https://github.com/t8y2/dbx)
 - [Leer en turco →](https://trescout.com/discover/dbx/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-29: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-29: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/dbx/

@@ -2,16 +2,16 @@
 
 VoiceStudio, ses klonlama, dublaj ve transkripsiyon gibi işlemleri internete ihtiyaç duymadan gerçekleştiren açık kaynaklı bir ses işleme platformu. Ses sentezleme servisi ElevenLabs için yerel olarak çalışabilen ve 646 dili destekleyen bir alternatif sunuyor.
 
-- ★ 67.557
+- ★ 76.515
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 71.875 → 76.515, son sürüm v0.5.6 (23 Eylül 2026).
+- **17 Ekim 2026:** Yıldız 67.557 → 71.875, son sürüm v0.5.6 (23 Eylül 2026).
 - **15 Ekim 2026:** Yıldız 61.990 → 67.557, son sürüm v0.5.6 (23 Eylül 2026).
 - **13 Ekim 2026:** Yıldız 57.903 → 61.990, son sürüm v0.5.6 (23 Eylül 2026).
-- **11 Ekim 2026:** Yıldız 54.979 → 57.903, son sürüm v0.5.6 (23 Eylül 2026).
-- **8 Ekim 2026:** Yıldız 52.161 → 54.979, son sürüm v0.5.6 (23 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -36,6 +36,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 VoiceStudio kullanarak ses klonlama, video dublajı veya metin okuma işlemlerini yerel donanımım üzerinde nasıl gerçekleştirebilirim? Uygulama içerisindeki ses modellerini yönetmek, yeni bir ses örneği ekleyerek klonlama yapmak ve çok dilli ses sentezleme süreçlerini en verimli şekilde yürütmek için izlemem gereken temel adımları açıkla.
 
+Depo: https://github.com/debpalash/VoiceStudio. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Ses klonlama, dublaj ve transkripsiyon gibi işlemleri bulut servislerine bağımlı kalmadan, kendi bilgisayarında güvenli ve ücretsiz bir şekilde yapmak isteyen kullanıcılar için uygundur.
 - **Lisans:** AGPL-3.0
 
@@ -43,7 +51,7 @@ VoiceStudio kullanarak ses klonlama, video dublajı veya metin okuma işlemlerin
 
 - [GitHub deposu →](https://github.com/debpalash/VoiceStudio)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

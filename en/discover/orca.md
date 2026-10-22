@@ -2,16 +2,16 @@
 
 Developed by Stablyai, Orca offers an agent development environment that allows managing multiple artificial intelligence agents simultaneously. Using their subscription, users can run various coding agents on both desktop and mobile platforms.
 
-- ★ 93,926
+- ★ 100,379
 - TypeScript
 - GitHub Trending · 2026-06-25
 
 ## Updates
 
-- **October 16, 2026:** Stars 88,919 → 93,926, latest release v1.4.227 (October 16, 2026).
-- **October 10, 2026:** Stars 88,274 → 88,919, latest release v1.4.224 (October 10, 2026).
-- **October 9, 2026:** Stars 86,806 → 88,274, latest release v1.4.223 (October 8, 2026).
-- **October 7, 2026:** Stars 86,198 → 86,806, latest release v1.4.222 (October 7, 2026).
+- **October 21, 2026:** Stars 98,881 → 100,379, latest release v1.4.237 (October 21, 2026).
+- **October 20, 2026:** Stars 97,386 → 98,881, latest release v1.4.232 (October 20, 2026).
+- **October 19, 2026:** Stars 94,733 → 97,386, latest release v1.4.230 (October 19, 2026).
+- **October 17, 2026:** Stars 93,926 → 94,733, latest release v1.4.229 (October 17, 2026).
 
 ## What you get
 
@@ -39,6 +39,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Launch multiple AI agents simultaneously in different workspaces on Orca. Send a command to five different agents simultaneously, compare the results and combine the best one. Let me track the agents' work status via the mobile app and send me notifications when the process is completed.
 
+Repository: https://github.com/stablyai/orca. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Agent Development Environment](https://trescout.com/en/dictionary/agent-development-environment/)
@@ -54,7 +62,7 @@ Launch multiple AI agents simultaneously in different workspaces on Orca. Send a
 - [GitHub repository →](https://github.com/stablyai/orca)
 - [Read in Turkish →](https://trescout.com/discover/orca/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/orca/

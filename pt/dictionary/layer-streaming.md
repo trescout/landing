@@ -70,7 +70,7 @@ Com o primeiro desenho significativo e tempo de interação. Não o total de dow
 
 - [Soup](https://trescout.com/pt/discover/soup/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/layer-streaming/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/layer-streaming/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/layer-streaming/

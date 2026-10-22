@@ -38,7 +38,7 @@ Os proprietários de sites desejam oferecer uma experiência melhor medindo o qu
 - [User Identifiers](https://trescout.com/pt/dictionary/user-identifiers/)
 - [Logs](https://trescout.com/pt/dictionary/logs/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/analytics-snippets/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/analytics-snippets/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/analytics-snippets/

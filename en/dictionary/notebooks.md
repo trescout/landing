@@ -45,7 +45,7 @@ Jupyter Notebooks is the most widely used.
 - [Awesome Generative AI Guide](https://trescout.com/en/discover/awesome-generative-ai-guide/)
 - [GeoLibre](https://trescout.com/en/discover/geolibre/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/notebooks/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/notebooks/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/notebooks/

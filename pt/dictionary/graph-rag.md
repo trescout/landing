@@ -40,7 +40,7 @@ Se você possui hierarquias complexas ou múltiplas conexões entre seus dados, 
 
 - [GitNexus](https://trescout.com/pt/discover/gitnexus/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/graph-rag/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/graph-rag/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/graph-rag/

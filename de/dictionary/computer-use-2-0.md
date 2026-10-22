@@ -40,7 +40,7 @@ Ja, spezielle Hilfssoftware, die es der KI ermöglicht, mit dem Betriebssystem z
 - [VLM](https://trescout.com/de/dictionary/vlm/)
 - [Sandbox](https://trescout.com/de/dictionary/sandbox/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/computer-use-2-0/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/computer-use-2-0/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/computer-use-2-0/

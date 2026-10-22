@@ -34,7 +34,7 @@ This name was given because neural networks with many layers are used.
 - [AI Models](https://trescout.com/en/dictionary/ai-models/)
 - [Transformer](https://trescout.com/en/dictionary/transformer/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/deep-learning/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/deep-learning/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/deep-learning/

@@ -38,7 +38,7 @@ The context database structure is protected by local or cloud-based security pro
 - [Vector Database](https://trescout.com/en/dictionary/vector-database/)
 - [Long-term Memory](https://trescout.com/en/dictionary/long-term-memory/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context-database/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context-database/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/context-database/

@@ -38,7 +38,7 @@ Não, outras unidades podem compensar este erro ou assumir o controle.
 - [Hive Mind](https://trescout.com/pt/dictionary/hive-mind/)
 - [AI Agent](https://trescout.com/pt/dictionary/ai-agent/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/swarms/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/swarms/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/swarms/

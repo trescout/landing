@@ -66,7 +66,7 @@ C'est équilibré avec les besoins d'enregistrement et d'audit. La politique est
 
 - [Croc](https://trescout.com/fr/discover/croc/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/end-to-end-encryption/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/end-to-end-encryption/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/end-to-end-encryption/

@@ -67,7 +67,7 @@ Start by putting the application in the container. Then add health check, loggin
 
 - [Meshery](https://trescout.com/en/discover/meshery/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cloud-native/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cloud-native/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cloud-native/

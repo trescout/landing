@@ -42,6 +42,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim için bir GenLayer akıllı sözleşmesi geliştir. Bu sözleşme internetten güncel verileri çekebilmeli ve yapay zekâ modelleriyle bu verileri işleyerek mantıksal kararlar verebilmeli. Kodun hata içermemesi için linter kurallarına uygun olmasını sağla ve geliştirme sürecinde hızlı geri bildirim almak için doğrudan bellek üzerinde çalışan test senaryoları oluştur.
 
+Depo: https://github.com/genlayerlabs/genlayer-project-boilerplate. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Blokzinciri üzerinde çalışan ve dış dünya verileriyle etkileşime giren akıllı sözleşmeler geliştirmek isteyen yazılımcılar için uygundur.
 - **Lisans:** MIT
 
@@ -49,7 +57,7 @@ Benim için bir GenLayer akıllı sözleşmesi geliştir. Bu sözleşme internet
 
 - [GitHub deposu →](https://github.com/genlayerlabs/genlayer-project-boilerplate)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

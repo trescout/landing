@@ -83,7 +83,7 @@ Ele ocorre porque os novos commits no repositório remoto ainda não estão no s
 
 - [No Mistakes](https://trescout.com/pt/discover/no-mistakes/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/git-push/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/git-push/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/git-push/

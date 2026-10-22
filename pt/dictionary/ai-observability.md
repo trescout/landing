@@ -42,7 +42,7 @@ Sim, porque registrar cada decisão da IA ​​pode criar uma enorme carga de d
 
 - [Posthog](https://trescout.com/pt/discover/posthog/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-observability/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-observability/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-observability/

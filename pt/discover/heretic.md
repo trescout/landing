@@ -2,17 +2,17 @@
 
 Heretic é uma ferramenta técnica que remove restrições de alinhamento de segurança de modelos de linguagem baseados em transformadores sem a necessidade de processos caros de retreinamento. Utilizando a técnica de 'Abliteração', esta solução é avançada e orientada para a investigação.
 
-- ★ 34.271
+- ★ 36.044
 - Python
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
 ## Atualizações
 
+- **21 de outubro de 2026:** Estrelas 34,271 → 36,044, versão mais recente v1.4.0 (14 de junho de 2026).
 - **9 de outubro de 2026:** Estrelas 32,626 → 34,271, versão mais recente v1.4.0 (14 de junho de 2026).
 - **1 de outubro de 2026:** Estrelas 31,068 → 32,626, versão mais recente v1.4.0 (14 de junho de 2026).
 - **10 de setembro de 2026:** Estrelas 29,513 → 31,068, versão mais recente v1.4.0 (14 de junho de 2026).
-- **31 de agosto de 2026:** Estrelas 27,018 → 29,513, versão mais recente v1.4.0 (14 de junho de 2026).
 
 ## Instalação
 
@@ -36,6 +36,7 @@ Esta ferramenta remove as proteções de segurança do modelo. A responsabilidad
 
 - [Transformer](https://trescout.com/pt/dictionary/transformer/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Pesquisadores de ML/usuários avançados
 - **Dificuldade:** Conhecimento avançado de trabalho com pesos de modelo
@@ -50,7 +51,7 @@ Esta ferramenta remove as proteções de segurança do modelo. A responsabilidad
 - [Repositório no GitHub →](https://github.com/p-e-w/heretic)
 - [Ler em turco →](https://trescout.com/discover/heretic/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-05-28: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-05-28: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/heretic/

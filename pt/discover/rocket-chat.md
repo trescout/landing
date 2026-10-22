@@ -58,6 +58,7 @@ Para começar a instalar o Rocket.Chat, você pode revisar o Guia de implantaç�
 
 - [Communications Operating System](https://trescout.com/pt/dictionary/communications-operating-system/)
 - [Deployment](https://trescout.com/pt/dictionary/deployment/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Foi desenvolvido para organizações que se preocupam com a privacidade dos dados e desejam ter controle total sobre sua própria infraestrutura.
 
@@ -66,7 +67,7 @@ Para começar a instalar o Rocket.Chat, você pode revisar o Guia de implantaç�
 - [Repositório no GitHub →](https://github.com/RocketChat/Rocket.Chat)
 - [Ler em turco →](https://trescout.com/discover/rocket-chat/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-18: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-18: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/rocket-chat/

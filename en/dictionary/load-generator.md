@@ -38,7 +38,7 @@ Yes, if you exceed the capacity limit you can temporarily slow down or crash the
 - [Monitoring Tool](https://trescout.com/en/dictionary/monitoring-tool/)
 - [Deployment](https://trescout.com/en/dictionary/deployment/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/load-generator/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/load-generator/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/load-generator/

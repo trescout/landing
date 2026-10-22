@@ -2,16 +2,16 @@
 
 T3Code, TypeScript tabanlı projelerde kod kalitesini artırmak ve standartlaştırmak için geliştirilen bir araç setidir. Geliştiricilere tip güvenliği (type safety) ve kod düzenleme süreçlerinde otomasyon desteği sağlar.
 
-- ★ 27.866
+- ★ 28.981
 - TypeScript
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 27.866 → 28.981, son sürüm v0.1.1 (21 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 27.099 → 27.866, son sürüm v0.1.0 (15 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 25.774 → 27.099, son sürüm v0.0.45 (2 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 24.403 → 25.774, son sürüm v0.0.45 (2 Ekim 2026).
-- **3 Ekim 2026:** Yıldız 23.919 → 24.403, son sürüm v0.0.45 (2 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -41,6 +41,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 T3 Code aracını kullanarak Codex, Claude, Cursor veya OpenCode sağlayıcılarından birini yapılandır ve kodlama ajanı arayüzünü başlat. Seçtiğin sağlayıcının kimlik doğrulama işlemlerini tamamladıktan sonra aracı çalıştırarak projelerin üzerinde kodlama desteği almaya başla.
 
+Depo: https://github.com/pingdotgg/t3code. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kodlama ajanlarını daha verimli yönetmek ve görsel bir arayüz üzerinden kullanmak isteyen yazılımcılar için uygundur.
 - **Lisans:** MIT
 
@@ -48,7 +56,7 @@ T3 Code aracını kullanarak Codex, Claude, Cursor veya OpenCode sağlayıcılar
 
 - [GitHub deposu →](https://github.com/pingdotgg/t3code)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

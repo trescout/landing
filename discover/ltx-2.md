@@ -2,15 +2,15 @@
 
 Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük dereceli uyarlama (low-rank adaptation, LoRA) eğitim paketi sunuyor. Bu araç seti, kullanıcıların LTX-2 modellerini kendi verileriyle eğitmesine ve model çıktılarını yerel sistemlerde çalıştırmasına olanak tanıyor.
 
-- ★ 9.567
+- ★ 9.793
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 9.567 → 9.793, son sürüm v1.5.0 (18 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 9.562 → 9.567, son sürüm v1.4.2 (2 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 9.552 → 9.562, son sürüm v1.4.1 (30 Eylül 2026).
 - **29 Eylül 2026:** Yıldız 9.267 → 9.552, son sürüm v1.4.0 (29 Eylül 2026).
-- **27 Ağustos 2026:** Yıldız 8.587 → 9.267, son sürüm v1.3.0 (26 Ağustos 2026).
 
 ## Ne kazandırır?
 
@@ -49,13 +49,21 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Lütfen LTX-2 modelini kullanarak, istediğim sahneyi detaylı bir şekilde betimleyen ve ses ile video senkronizasyonunu içeren bir video oluştur. Sahne detaylarını, karakterin görünümünü, kamera açısını ve konuşma metnini belirterek modelin çıktı üretmesini sağla.
 
+Depo: https://github.com/Lightricks/LTX-2. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi yerel sisteminde sesli ve görüntülü yapay zekâ videoları oluşturmak veya modelleri eğitmek isteyen kullanıcılar içindir.
 
 ## Bağlantılar
 
 - [GitHub deposu →](https://github.com/Lightricks/LTX-2)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

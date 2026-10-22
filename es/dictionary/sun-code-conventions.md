@@ -1,48 +1,53 @@
-# Sun Code Conventions: Estándares Java, legibilidad y mantenimiento de software
+# ¿Qué es Sun Code Conventions?
 
 *Desarrollo · Última actualización: 20 de septiembre de 2026*
 
-Las Sun Code Conventions for the Java Programming Language, publicadas por Sun Microsystems en 1999, constituyen el documento fundacional que unificó las reglas de estilo, nomenclatura y estructura para la programación orientada a objetos moderna.
+Sun Code Conventions for the Java Programming Language, publicado en 1997 por Sun Microsystems, creador de Java, es el primer documento de estándares de codificación corporativa en la historia de la ingeniería de software.
 
-## Origen y Legado en la Ingeniería del Software
+## Etimología y Legado de la Ingeniería de Software
 
-Publicadas en 1999 por los creadores de Java, las convenciones sentaron un principio indiscutible : **el 80% del coste de un software se destina a su mantenimiento**, y el código se lee con mucha más frecuencia de la que se escribe.
+Sun Code Conventions es una de las guías de estilo y arquitectura más influyentes publicadas por el creador de un lenguaje de programación en la historia del desarrollo de software. Introducido en 1995 por Sun Microsystems, el lenguaje Java tenía como objetivo la independencia de plataforma con el lema "Write Once, Run Anywhere" (Escribe una vez, ejecuta en cualquier lugar), mientras que la contraparte de este objetivo en el factor humano se formuló con Sun Code Conventions: "Que todos lean y entiendan bajo el mismo estándar".
+
+Este documento, redactado en 1997 y cuya versión final se alcanzó en 1999, aportó una disciplina impecable al mundo del software corporativo tras las guerras de llaves y el caos descontrolado de punteros en el ecosistema de C y C++. La afirmación destacada por Sun Microsystems en este documento de que "el 80 por ciento del costo del ciclo de vida de un software se gasta en la fase de mantenimiento y casi ningún software es mantenido por su autor original durante toda su vida útil" se ha convertido también en el aforismo fundamental del movimiento moderno de código limpio (Clean Code).
+
+***Analogía:** Imagina a cientos de ingenieros civiles de diferentes países que quieren construir juntos una obra maestra arquitectónica. Si cada ingeniero utilizara la unidad de medida de su propio país (pulgadas, centímetros, varas) y prefiriera sus propios símbolos de dibujo, las columnas no encajarían y el edificio se vendría abajo. Sun Code Conventions es el sistema métrico común y el estándar del alfabeto arquitectónico del mundo Java. Independientemente del país o la empresa, otro ingeniero que abra el archivo de clase escrito por un ingeniero de Java comprende de un vistazo dónde se colocan las columnas y las vigas (las clases y los métodos).*
 
 ## Estándares Técnicos y Anatomía del Documento
 
-El manual determinó pautas inequívocas de formato :
+- Diseño de archivos fuente y 80 caracteres: Cada archivo contiene una sola clase pública. El límite de 80 caracteres se estableció para los terminales e impresoras de la época.
+- Indentación de cuatro espacios (4-Space): La indentación estándar es de 4 espacios. Las llaves se colocan al final de la línea según el estilo K&R; las llaves son obligatorias incluso en condiciones de una sola línea.
+- Nacimiento de las Convenciones de Nomenclatura (CamelCase): Las clases se escriben en UpperCamelCase, los métodos en lowerCamelCase. El nombre de dominio inverso (com.sun.*) para la nomenclatura de paquetes se reglamentó por primera vez en este documento.
+- Congelamiento Histórico y Legado: El documento se congeló en 1999; en la época moderna, el testigo ha pasado a Google Java Style Guide y a las herramientas de linter modernas.
 
-- **Nomenclatura CamelCase:** `PascalCase` para nombres de clases, `camelCase` para métodos y campos, y `UPPER_SNAKE_CASE` para constantes inmutables.
-- **Disposición del Código:** Estructura fija (paquete, importaciones, definición de clase, variables, constructores y métodos).
-- **Sangrado y Anchura de Línea:** Indentación de 4 espacios y longitud máxima de 80 caracteres por línea (según los terminales de fósforo de los años 90).
-- **Ubicación de Llaves:** Estilo K&R, colocando la llave de apertura en la misma línea de la sentencia condicional o bucle.
+## Dimensión Sociológica: Disciplina Colectiva y Cultura del Cuidado
 
-## Dimensión Sociológica: Disciplina Colectiva y Código Compartido
+Sun Code Conventions es un hito histórico que certifica que el software no es solo producto de un genio, sino una disciplina de ingeniería industrial colectiva. Al romper la terquedad del programador individual de "mi estilo es así", situó al software en el eje de la legibilidad y la mantenibilidad.
 
-Hasta ese momento reinaba la disparidad de estilos individuales. Sun demostró que una apariencia limpia y uniforme disminuye la fatiga en las revisiones de código y fortalece la propiedad colectiva del proyecto en los equipos de ingeniería.
+Hoy en día, millones de líneas de proyectos Java heredados (legacy) que operan en finanzas, banca e infraestructuras públicas siguen en pie gracias a estas reglas establecidas por Sun Microsystems en 1997. Aunque las herramientas modernas cambien, el esqueleto lógico establecido por Sun es el patrimonio cultural de la ingeniería de software.
 
-## Errores Comunes y Contexto Histórico
+## Errores Comunes y Malentendidos Históricos
 
-Conviene matizar ciertas reglas frente a las herramientas presentes :
-
-- **Rigidez con el Límite de 80 Caracteres:** Las pantallas contemporáneas de alta definición operan habitualmente con límites más holgados de 100 o 120 caracteres.
-- **Pérdida de Tiempo en Formato Manual:** Formateadores automáticos integrados en el flujo de trabajo (Spotless, Prettier) resuelven la maquetación en milisegundos sin intervención humana.
-
-*Las Sun Code Conventions actúan como el código de circulación para los programadores : todos circulan por el mismo carril y respetan los mismos semáforos para que el tráfico avance sin atascos ni colisiones.*
+- Insistir en el límite de 80 caracteres: Aplicar estrictamente la regla de 80 caracteres en pantallas panorámicas divide el código innecesariamente en vertical; se deben adoptar los estándares modernos de 100-120 caracteres.
+- Asumir que un documento obsoleto está actualizado: tomar un manual de Sun que no se ha actualizado desde 1999 como única fuente en proyectos modernos genera deuda técnica.
+- Olvidar los paréntesis en las condiciones: Omitir los paréntesis en los cuerpos de una sola línea puede provocar vulnerabilidades de seguridad en el futuro.
 
 ## Preguntas frecuentes
 
-**¿Qué fueron las Sun Code Conventions de 1999?**
+**¿Por qué las Sun Code Conventions no se han actualizado después de 1999?**
 
-El manual corporativo elaborado por Sun Microsystems que estandarizó la sintaxis y organización del código Java a escala global.
+Después de establecer los estándares básicos, Sun Microsystems prefirió que las reglas de formato fueran gestionadas por la comunidad y herramientas de código abierto (como Checkstyle), y congeló el documento como una referencia histórica.
 
-**¿Por qué se eligió el tope de 80 columnas de ancho?**
+**¿De dónde proviene el límite de 80 caracteres en las Sun Code Conventions?**
 
-Porque los terminales de ordenador y las hojas impresas de finales del siglo XX no admitían más de 80 caracteres por renglón.
+Este límite se estableció debido a las pantallas de terminal UNIX de los años 90, la herencia de las tarjetas perforadas de 80 columnas y el ancho estándar de las impresoras de salida utilizadas en las revisiones de código.
 
-**¿Se mantienen vigentes estas convenciones?**
+**¿Qué se debe utilizar en lugar de las reglas de Sun en los proyectos modernos de Java?**
 
-La gran mayoría de sus reglas de nomenclatura e indentación siguen rigiendo el ecosistema Java, complementadas por directrices actuales como la de Google.
+En los proyectos actuales se prefieren las guías de estilo Google Java Style Guide con sangría de 2 espacios o los estándares de codificación de Spring Framework, junto con herramientas automáticas como Spotless y google-java-format.
+
+**¿Quién hizo obligatorio por primera vez el nombrado de paquetes con nombres de dominio invertidos (reverse domain name)?**
+
+Sun Microsystems introdujo el estándar de nombres de dominio invertidos, como 'com.sun' o 'org.apache', mediante las Sun Code Conventions para evitar conflictos de nombres a escala global en las clases de Java.
 
 ## Términos relacionados
 
@@ -52,7 +57,11 @@ La gran mayoría de sus reglas de nomenclatura e indentación siguen rigiendo el
 - [QA](https://trescout.com/es/dictionary/qa/)
 - [Syntax](https://trescout.com/es/dictionary/syntax/)
 
-Esta explicación se redactó en lenguaje llano para TreScout y se **tradujo automáticamente** a partir del original en turco · la versión en turco es la que prevalece. Si detecta algún error o carencia, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/sun-code-conventions/)
+## Herramientas relacionadas
+
+- [Checkstyle](https://trescout.com/es/discover/checkstyle/)
+
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/sun-code-conventions/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sun-code-conventions/

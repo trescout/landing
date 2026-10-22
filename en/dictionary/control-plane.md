@@ -34,7 +34,7 @@ The system becomes unable to receive new commands or manage traffic, which is wh
 - [Network Stack](https://trescout.com/en/dictionary/network-stack/)
 - [Cloud Native](https://trescout.com/en/dictionary/cloud-native/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/control-plane/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/control-plane/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/control-plane/

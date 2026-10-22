@@ -50,6 +50,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 In the Maka workspace, you need to analyze a project, organize the files using the necessary tools, and keep all your actions in a traceable log. Control permissions throughout your workflow, preserve model messages, and manage the process in a recoverable manner in case of errors.
 
+Repository: https://github.com/apache/maka. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
@@ -63,7 +71,7 @@ In the Maka workspace, you need to analyze a project, organize the files using t
 - [GitHub repository →](https://github.com/apache/maka)
 - [Read in Turkish →](https://trescout.com/discover/maka/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-22: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-22: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/maka/

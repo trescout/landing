@@ -38,7 +38,7 @@ Sí, lo importante no es que sea artístico, sino que refleje fielmente el funci
 
 - [Likec4](https://trescout.com/es/discover/likec4/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/diagrams/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/diagrams/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/diagrams/

@@ -38,7 +38,7 @@ Não, algumas linguagens, como Python, executam o código instantaneamente, linh
 
 - [SWC](https://trescout.com/pt/discover/swc/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/compilation/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/compilation/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/compilation/

@@ -75,7 +75,7 @@ Nein. Eine Papierliste ist auch ein Ablauf. Wenn das Volumen wächst, wird ein T
 - [Modly](https://trescout.com/de/discover/modly/)
 - [Pstack Claude](https://trescout.com/de/discover/pstack-claude/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/workflows/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/workflows/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/workflows/

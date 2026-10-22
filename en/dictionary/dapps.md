@@ -40,7 +40,7 @@ Nobody governs; rules are determined by codes and users on the network.
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
 - [API](https://trescout.com/en/dictionary/api/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dapps/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dapps/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/dapps/

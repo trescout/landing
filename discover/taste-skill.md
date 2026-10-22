@@ -4,17 +4,17 @@ Yapay zekâ ajanları arayüz üretirken çoğu zaman şablon odaklı sonuçlar 
 
 *Görsel: taste-skill (proje deposundan)*
 
-- ★ 95.827
+- ★ 100.118
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 99.600 → 100.118, son sürüm v2.1.4 (20 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 99.086 → 99.600, son sürüm v2.1.3 (19 Ekim 2026).
+- **19 Ekim 2026:** Yıldız 95.827 → 99.086, son sürüm v2.1.2 (19 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 91.389 → 95.827, son sürüm v2.0.0 (13 Ekim 2026).
-- **30 Eylül 2026:** Yıldız 86.983 → 91.389.
-- **14 Eylül 2026:** Yıldız 82.815 → 86.983.
-- **31 Ağustos 2026:** Yıldız 77.614 → 82.815.
 
 - **Kimin için:** Yapay zekâ ile arayüz / frontend üretenler
 - **Zorluk:** Orta · AI agent kullanımı
@@ -38,6 +38,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Terminalde 'npx skills add https://github.com/Leonxlnx/taste-skill' komutunu çalıştırarak Taste Skill becerilerini kur; sonra ajandan arayüz yaparken bu beceriyi takip ederek daha iyi düzen, tipografi ve animasyona sahip premium bir tasarım üretmesini iste.
 
+Depo: https://github.com/Leonxlnx/taste-skill. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Tüm becerileri kur**
 
 ```
@@ -57,7 +65,7 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-fro
 - [GitHub deposu →](https://github.com/Leonxlnx/taste-skill)
 - [Ana sayfa (tasteskill.dev) →](https://tasteskill.dev)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -26,6 +26,7 @@ Vous pouvez apprendre à l'intégrer à votre projet en visitant la page de docu
 ## Termes liés du glossaire
 
 - [Compiler](https://trescout.com/fr/dictionary/compiler/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Destiné aux développeurs souhaitant rendre les processus de formatage de texte, d'affichage de données et de journalisation plus rapides et plus sûrs dans les projets C++.
 - **Licence:** MIT
@@ -35,7 +36,7 @@ Vous pouvez apprendre à l'intégrer à votre projet en visitant la page de docu
 - [Dépôt GitHub →](https://github.com/fmtlib/fmt)
 - [Lire en turc →](https://trescout.com/discover/fmt/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/fmt/

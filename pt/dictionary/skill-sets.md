@@ -42,7 +42,7 @@ Sim, novas ferramentas e capacidades podem ser definidas para os agentes de acor
 
 - [K Skill](https://trescout.com/pt/discover/k-skill/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/skill-sets/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/skill-sets/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/skill-sets/

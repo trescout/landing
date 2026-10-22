@@ -38,7 +38,7 @@ It is used when you need to analyze very long documents and the memory limit of 
 - [Context Window](https://trescout.com/en/dictionary/context-window/)
 - [Quantization](https://trescout.com/en/dictionary/quantization/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/token-compression/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/token-compression/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/token-compression/

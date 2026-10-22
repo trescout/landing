@@ -2,16 +2,16 @@
 
 Unsloth é uma biblioteca que acelera o treinamento e a execução de grandes modelos de linguagem (LLM) e modelos de difusão em um ambiente nativo. Torna os processos de ajuste fino de modelos populares mais acessíveis, otimizando o uso da memória.
 
-- ★ 78.100
+- ★ 78.300
 - Python
 - GitHub Trending · 2026-08-14
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 78,100 → 78,300, versão mais recente v0.1.909-beta (19 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 77,941 → 78,100, versão mais recente v0.1.908-beta (15 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 77,879 → 77,941, versão mais recente v0.1.907-beta (13 de outubro de 2026).
 - **12 de outubro de 2026:** Estrelas 77,490 → 77,879, versão mais recente v0.1.906-beta (12 de outubro de 2026).
-- **8 de outubro de 2026:** Estrelas 77,463 → 77,490, versão mais recente v0.1.905-beta (8 de outubro de 2026).
 
 ## O que você ganha
 
@@ -41,6 +41,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero treinar um modelo de IA em meu computador local usando Unsloth. Você pode explicar passo a passo as configurações ideais que me permitirão usar meus recursos de hardware da maneira mais eficiente, otimizar o uso de memória e acelerar o processo de ajuste fino?
 
+Repositório: https://github.com/unslothai/unsloth. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Fine-tuning](https://trescout.com/pt/dictionary/fine-tuning/)
@@ -55,7 +63,7 @@ Quero treinar um modelo de IA em meu computador local usando Unsloth. Você pode
 - [Repositório no GitHub →](https://github.com/unslothai/unsloth)
 - [Ler em turco →](https://trescout.com/discover/unsloth/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-14: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-14: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/unsloth/

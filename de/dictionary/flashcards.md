@@ -62,7 +62,7 @@ Die App automatisiert das Timing und ist überall dabei. Papier hingegen lenkt n
 - [Lifelong Learning](https://trescout.com/de/dictionary/lifelong-learning/)
 - [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/flashcards/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/flashcards/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/flashcards/

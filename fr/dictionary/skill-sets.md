@@ -42,7 +42,7 @@ Il est nécessaire de déterminer quelles tâches l’agent peut et ne peut pas 
 
 - [K Skill](https://trescout.com/fr/discover/k-skill/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/skill-sets/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/skill-sets/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/skill-sets/

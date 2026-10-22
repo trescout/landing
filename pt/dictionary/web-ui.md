@@ -72,7 +72,7 @@ A API fornece dados para a máquina, a Web UI fornece uma interface para o ser h
 
 - [Pi Web](https://trescout.com/pt/discover/pi-web/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-ui/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/web-ui/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/web-ui/

@@ -42,7 +42,7 @@ São necessários um fluxo de dados ininterrupto e uma infraestrutura forte que 
 
 - [Hermes Agent](https://trescout.com/pt/discover/hermes-agent/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/continuous-learning/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/continuous-learning/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/continuous-learning/

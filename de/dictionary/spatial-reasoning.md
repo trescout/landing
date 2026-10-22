@@ -38,7 +38,7 @@ Für Roboter ist es wichtig, sich in der physischen Welt fehlerfrei zu bewegen.
 - [Autonomous Robotics](https://trescout.com/de/dictionary/autonomous-robotics/)
 - [Computer Vision](https://trescout.com/de/dictionary/computer-vision/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/spatial-reasoning/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/spatial-reasoning/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/spatial-reasoning/

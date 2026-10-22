@@ -52,7 +52,7 @@ Gemäß der DSGVO kann es zu Geldstrafen von bis zu 4 % des weltweiten Jahresums
 - [AI Models](https://trescout.com/de/dictionary/ai-models/)
 - [Secrets](https://trescout.com/de/dictionary/secrets/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/regulatory-restriction/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/regulatory-restriction/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/regulatory-restriction/

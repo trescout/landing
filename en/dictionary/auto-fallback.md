@@ -38,7 +38,7 @@ If the backup method is also faulty, the system will continue to fail, so backup
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
 - [AI Gateway](https://trescout.com/en/dictionary/ai-gateway/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/auto-fallback/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/auto-fallback/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/auto-fallback/

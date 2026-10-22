@@ -2,16 +2,16 @@
 
 Developed by BuilderIO, agent-native is a TypeScript framework focused on creating agent-native applications for artificial intelligence agents. It allows developers to integrate agent-based workflows directly into the application architecture.
 
-- ★ 7,370
+- ★ 7,471
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Updates
 
-- **October 16, 2026:** Stars 7,259 → 7,370, latest release v0.1.282 (October 15, 2026).
-- **October 15, 2026:** Stars 7,155 → 7,259, latest release v0.1.281 (October 14, 2026).
-- **October 14, 2026:** Stars 7,130 → 7,155, latest release v0.1.280 (October 13, 2026).
-- **October 12, 2026:** Stars 7,121 → 7,130, latest release v0.1.279 (October 12, 2026).
+- **October 21, 2026:** Stars 7,470 → 7,471, latest release @agent-native/creative-context@0.8.49 (October 21, 2026).
+- **October 21, 2026:** Stars 7,455 → 7,470, latest release v0.1.286 (October 20, 2026).
+- **October 20, 2026:** Stars 7,402 → 7,455, latest release v0.1.284 (October 19, 2026).
+- **October 17, 2026:** Stars 7,370 → 7,402, latest release v0.1.283 (October 16, 2026).
 
 ## What you get
 
@@ -42,6 +42,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to define an action for my application using the Agent-Native framework. Using the defineAction function, help me create a structure that will process the incoming data into the database and be accessible to both the user interface and the artificial intelligence agent.
 
+Repository: https://github.com/BuilderIO/agent-native. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Agent-native Applications](https://trescout.com/en/dictionary/agent-native-applications/)
@@ -58,7 +66,7 @@ I want to define an action for my application using the Agent-Native framework. 
 - [GitHub repository →](https://github.com/BuilderIO/agent-native)
 - [Read in Turkish →](https://trescout.com/discover/agent-native/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/agent-native/

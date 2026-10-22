@@ -2,16 +2,16 @@
 
 OpenMAIC, entwickelt von Forschern der Tsinghua-Universität, vereint mehrere Agenten der künstlichen Intelligenz in den Rollen von Lehrern, Schülern und Beobachtern in einer interaktiven Klassenzimmerumgebung.
 
-- ★ 40.871
+- ★ 41.041
 - TypeScript
 - GitHub Trending · 2026-08-31
 
 ## Aktualisierungen
 
+- **19. Oktober 2026:** Sterne 40,871 → 41,041, neueste Version v1.2.1 (18. Oktober 2026).
 - **16. Oktober 2026:** Sterne 40,363 → 40,871, neueste Version v1.2.0 (16. Oktober 2026).
 - **11. Oktober 2026:** Sterne 39,969 → 40,363, neueste Version v1.1.4 (11. Oktober 2026).
 - **5. Oktober 2026:** Sterne 39,351 → 39,969, neueste Version v1.1.3 (5. Oktober 2026).
-- **28. September 2026:** Sterne 39,156 → 39,351, neueste Version v1.1.2 (28. September 2026).
 
 ## Was es bringt
 
@@ -58,6 +58,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine sokratische Diskussionsumgebung simulieren, indem ich meine eigenen Vorlesungsnotizen auf die OpenMAIC-Plattform hochlade. Können Sie Schritt für Schritt erklären, wie die Rollen der Agenten (Lehrer, neugieriger Schüler, kritischer Fragesteller) definiert werden und wie diese Klasse mit einem lokalen Ollama-Modell gefördert wird?
 
+Repository: https://github.com/THU-MAIC/OpenMAIC. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Häufig gestellte Fragen
 
 - Ist für die Verwendung von OpenMAIC eine GPU erforderlich? Wenn Sie Ihr eigenes natives Modell (Ollama/vLLM) ausführen möchten, wird eine GPU empfohlen. kann aber über Cloud-APIs (OpenAI, Gemini, Groq) direkt mit einem Standardcomputer genutzt werden.
@@ -71,8 +79,8 @@ Ich möchte eine sokratische Diskussionsumgebung simulieren, indem ich meine eig
 - [GPU](https://trescout.com/de/dictionary/gpu/)
 - [PDF](https://trescout.com/de/dictionary/pdf/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
-- [API](https://trescout.com/de/dictionary/api/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [API](https://trescout.com/de/dictionary/api/)
 
 - **Für wen es gedacht ist:** Pädagogen, KI-Forscher, Edtech-Unternehmer und Studenten.
 - **Lizenz:** Apache-2.0 (Açık kaynak lisansı)
@@ -84,7 +92,7 @@ Ich möchte eine sokratische Diskussionsumgebung simulieren, indem ich meine eig
 - [GitHub-Repository →](https://github.com/THU-MAIC/OpenMAIC)
 - [Auf Türkisch lesen →](https://trescout.com/discover/openmaic/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-31 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-31 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/openmaic/

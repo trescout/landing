@@ -67,7 +67,7 @@ Betrag während der Sitzung. Für die kontinuierliche Überwachung ist ein separ
 
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/chrome-devtools/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/chrome-devtools/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/chrome-devtools/

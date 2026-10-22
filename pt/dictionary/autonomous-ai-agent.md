@@ -38,7 +38,7 @@ Sim, funciona dentro dos limites e autoridades definidos até encerrar o process
 - [Agentic AI](https://trescout.com/pt/dictionary/agentic-ai/)
 - [Self-orchestration](https://trescout.com/pt/dictionary/self-orchestration/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/autonomous-ai-agent/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/autonomous-ai-agent/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/autonomous-ai-agent/

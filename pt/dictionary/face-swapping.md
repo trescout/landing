@@ -65,7 +65,7 @@ O ritmo dos olhos, a suavidade das bordas e a harmonia da luz são examinados. T
 
 - [Faceswap](https://trescout.com/pt/discover/faceswap/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/face-swapping/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/face-swapping/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/face-swapping/

@@ -38,7 +38,7 @@ Dependendo da complexidade do modelo, pode variar de alguns segundos a alguns mi
 - [Multimodal Model](https://trescout.com/pt/dictionary/multimodal-model/)
 - [AI Video Editing](https://trescout.com/pt/dictionary/ai-video-editing/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/image-to-video/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/image-to-video/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/image-to-video/

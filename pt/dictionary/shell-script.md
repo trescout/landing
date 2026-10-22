@@ -41,7 +41,7 @@ Geralmente é executado em ambientes de terminal em sistemas como Linux ou macOS
 
 - [Omarchy](https://trescout.com/pt/discover/omarchy/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/shell-script/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/shell-script/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/shell-script/

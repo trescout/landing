@@ -39,7 +39,7 @@ Dies hängt von den Datenschutzrichtlinien des Tools ab, mit dem Sie Ihren Code 
 - [AI Coding Assistants](https://trescout.com/de/dictionary/ai-coding-assistants/)
 - [IDE](https://trescout.com/de/dictionary/ide/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/coding-assistant/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/coding-assistant/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/coding-assistant/

@@ -42,7 +42,7 @@ Como a informação flui por todo o lado, regras de autorização rigorosas rela
 
 - [Buzz](https://trescout.com/pt/discover/buzz/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/hive-mind-communication/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/hive-mind-communication/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/hive-mind-communication/

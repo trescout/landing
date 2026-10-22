@@ -2,17 +2,17 @@
 
 CEC; Claude Code é um sistema abrangente que traz habilidades, instintos, otimização de memória e verificação de segurança para ferramentas de codificação de IA, como Codex, Cursor e OpenCode. Em vez de arquivos de configuração individuais, ele oferece uma camada pronta que permite ao agente trabalhar com uma lógica mais consistente, segura e de busca inicial.
 
-- ★ 270.891
+- ★ 284.483
 - JavaScript
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 270,891 → 284,483, versão mais recente v2.2.3 (1 de outubro de 2026).
 - **2 de outubro de 2026:** Estrelas 270,280 → 270,891, versão mais recente v2.2.3 (1 de outubro de 2026).
 - **1 de outubro de 2026:** Estrelas 267,980 → 270,280, versão mais recente v2.2.2 (30 de setembro de 2026).
 - **27 de setembro de 2026:** Estrelas 254,644 → 267,980, versão mais recente v2.2.1 (8 de setembro de 2026).
-- **9 de setembro de 2026:** Estrelas 245,070 → 254,644, versão mais recente v2.2.1 (8 de setembro de 2026).
 
 ## O que você ganha
 
@@ -48,6 +48,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale o sistema da operadora ECC executando os comandos '/plugin marketplace add https://github.com/affaan-m/ECC' e depois '/plugin install ecc@ecc' no Claude Code; em seguida, use o comando /security-scan para executar uma verificação de segurança em meu projeto.
 
+Repositório: https://github.com/affaan-m/ECC. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Tools](https://trescout.com/pt/dictionary/tools/)
@@ -68,7 +76,7 @@ Instale o sistema da operadora ECC executando os comandos '/plugin marketplace a
 - [Repositório no GitHub →](https://github.com/affaan-m/ECC)
 - [Ler em turco →](https://trescout.com/discover/ecc/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-05-26: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-05-26: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/ecc/

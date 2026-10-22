@@ -39,7 +39,7 @@ Elle diffère des méthodes de piratage classiques, car elle n'utilise pas de co
 
 - [Codex-X](https://trescout.com/fr/discover/codex-x/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/prompt-injection/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/prompt-injection/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/prompt-injection/

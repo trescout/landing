@@ -75,7 +75,7 @@ No. Una lista en papel también es un flujo. Cuando el volumen aumenta, se requi
 - [Modly](https://trescout.com/es/discover/modly/)
 - [Pstack Claude](https://trescout.com/es/discover/pstack-claude/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/workflows/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/workflows/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/workflows/

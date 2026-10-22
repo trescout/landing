@@ -38,7 +38,7 @@ Il n’a pas de pensée biologique comme les humains, mais possède une structur
 
 - [Zhangxuefeng Skill](https://trescout.com/fr/discover/zhangxuefeng-skill/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/cognitive-operating-system/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/cognitive-operating-system/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/cognitive-operating-system/

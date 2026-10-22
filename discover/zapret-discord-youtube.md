@@ -2,16 +2,16 @@
 
 Zapret-discord-youtube, ağ trafiğini şifreleyerek veya paket parçalama (packet fragmentation) yöntemlerini kullanarak kısıtlı platformlara erişim sağlamayı hedefleyen bir araçtır. Özellikle Discord ve YouTube gibi hizmetlere yönelik erişim engellerini aşmak amacıyla geliştirilmiştir.
 
-- ★ 33.758
+- ★ 34.939
 - Batchfile
 - GitHub Trending · 2026-06-25
 
 ## Güncelleme
 
+- **20 Ekim 2026:** Yıldız 33.758 → 34.939, son sürüm 1.10.4 (20 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 32.574 → 33.758, son sürüm 1.10.3 (20 Eylül 2026).
 - **27 Ağustos 2026:** Yıldız 31.940 → 32.574, son sürüm 1.10.2 (24 Ağustos 2026).
 - **10 Ağustos 2026:** Yıldız 31.660 → 31.940, son sürüm 1.10.1 (9 Ağustos 2026).
-- **2 Ağustos 2026:** Yıldız 30.060 → 31.660, son sürüm 1.10.0 (22 Temmuz 2026).
 
 ## Ne kazandırır?
 
@@ -31,11 +31,12 @@ Resmî GitHub sayfasındaki son sürüm bağlantısına giderek arşiv dosyasın
 
 - [GitHub deposu →](https://github.com/Flowseal/zapret-discord-youtube)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Packet Fragmentation](https://trescout.com/dictionary/packet-fragmentation/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/zapret-discord-youtube/

@@ -34,7 +34,7 @@ Yes, it is often considered a security vulnerability because it causes the model
 - [Prompt Engineering](https://trescout.com/en/dictionary/prompt-engineering/)
 - [Hallucination](https://trescout.com/en/dictionary/hallucination/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/system-prompt-leaks/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/system-prompt-leaks/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/system-prompt-leaks/

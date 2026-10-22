@@ -28,6 +28,7 @@ Dependiendo de la herramienta de configuración que utilice para agregar la bibl
 
 - [Core Libraries](https://trescout.com/es/dictionary/core-libraries/)
 - [Caching](https://trescout.com/es/dictionary/caching/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para desarrolladores de software que desarrollan aplicaciones en lenguaje Java y necesitan herramientas más eficientes para tareas básicas como la gestión de colecciones y el procesamiento de cadenas.
 - **Licencia:** Apache-2.0
@@ -37,7 +38,7 @@ Dependiendo de la herramienta de configuración que utilice para agregar la bibl
 - [Repositorio en GitHub →](https://github.com/google/guava)
 - [Leer en turco →](https://trescout.com/discover/guava/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/guava/

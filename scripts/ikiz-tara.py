@@ -83,6 +83,32 @@ for s in sluglar:
 
 bulunan.sort(key=lambda x: -x[2])
 print(f"{len(gorulen)} tekil/çoğul çifti tarandı · {len(bulunan)} ikiz eşiği aştı (≥{ESIK})")
+
+# Aynı ada çıkan farklı slug'lar: kısaltma/açılım ikizleri (cv ↔ computer-vision, pkm ↔
+# personal-knowledge-management). Tekil/çoğul taraması bunları görmüyordu (2026-10-16: sözlük
+# dizininde üç çift aynı adla iki kart olarak duruyordu). Aynı ad aynı kavramdır; benzerlik eşiği
+# aranmaz, oran bilgi için yazılır. Farklı anlam taşıyan kısaltma çakışması triage'a eklenir.
+# DeepLearning.AI "Retrieval Augmented Generation" (bilgi tabanı hijyeni) · R5.
+def adlar(t):
+    return {re.sub(r"[^a-z0-9]+", " ", (t.get(k) or "").lower()).strip() for k in ("en", "full")} - {""}
+
+ada_gore = {}
+for s, t in sluglar.items():
+    for ad in adlar(t):
+        ada_gore.setdefault(ad, set()).add(s)
+ayni_ad = []
+for ad, grup in sorted(ada_gore.items()):
+    for a in sorted(grup):
+        for b in sorted(grup):
+            cift = (a, b)
+            if a >= b or cift in gorulen or cift in incelenmis:
+                continue
+            gorulen.add(cift)
+            ga, gb = govde(a), govde(b)
+            oran = difflib.SequenceMatcher(None, ga, gb).quick_ratio() if ga and gb else 0.0
+            ayni_ad.append((a, b, oran, ad))
+print(f"{len(ayni_ad)} aynı adlı (kısaltma/açılım) çift")
+bulunan += [(a, b, o) for a, b, o, _ in ayni_ad]
 for a, b, o in bulunan:
     isaret = " (biri zaten birleşme tablosunda!)" if (a in zaten or b in zaten) else ""
     print(f"   {a} ↔ {b} · benzerlik {o:.2f}{isaret}")
@@ -92,10 +118,10 @@ if not bulunan:
     sys.exit(0)
 
 satirlar = [
-    "Sözlükte aynı metni taşıyan tekil/çoğul terim çiftleri bulundu. Google bunlara",
+    "Sözlükte aynı metni taşıyan tekil/çoğul ya da aynı adlı (kısaltma/açılım) terim çiftleri bulundu. Google bunlara",
     '"kullanıcı tarafından seçilen standart sayfa olmadan kopya" diyor ve birini dizinden düşürüyor.',
     "",
-    f"Eşik: gövde benzerliği ≥ {ESIK}. Altındakiler listelenmez (gerçekten farklı yazılmış demektir).",
+    f"Tekil/çoğul çiftlerde eşik: gövde benzerliği ≥ {ESIK}. Aynı adlı çiftler eşiksiz listelenir (aynı ad aynı kavram); farklı anlamdaysa `duplicate-triage.json`'a ekleyin.",
     "",
 ]
 for a, b, o in bulunan:

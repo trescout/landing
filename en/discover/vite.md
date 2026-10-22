@@ -2,17 +2,17 @@
 
 Vite offers a fast development environment and build tool for modern web projects. It functions as a frontend tooling tool that reduces waiting times in the development process by using native ES modules.
 
-- ★ 83,263
+- ★ 83,423
 - GitHub Trending · 2026-06-07
 
 **TreScout note:** It instantly reflects the changes you make during development on the screen, reducing the waiting time, which can be minutes in large projects, to seconds. If you are switching from older tools, see if the plugins you use are available here. It can be considered the default choice if you are starting a new web project.
 
 ## Updates
 
+- **October 21, 2026:** Stars 83,415 → 83,423, latest release v8.3.5 (October 21, 2026).
+- **October 20, 2026:** Stars 83,396 → 83,415, latest release create-vite@9.3.1 (October 20, 2026).
+- **October 19, 2026:** Stars 83,263 → 83,396, latest release create-vite@9.3.0 (October 19, 2026).
 - **October 8, 2026:** Stars 83,213 → 83,263, latest release v8.3.4 (October 8, 2026).
-- **October 6, 2026:** Stars 83,091 → 83,213, latest release v8.3.3 (October 6, 2026).
-- **October 1, 2026:** Stars 83,027 → 83,091, latest release v8.3.2 (October 1, 2026).
-- **September 27, 2026:** Stars 82,787 → 83,027, latest release v8.3.1 (September 24, 2026).
 
 ## What you get
 
@@ -44,6 +44,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 For me, I want to start a modern web project. How do I set up my development environment using Vite and what steps should I follow to prepare my project for release? Explain basic configuration recommendations for rapid development and optimized build processes.
 
+Repository: https://github.com/vitejs/vite. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
@@ -56,7 +64,7 @@ For me, I want to start a modern web project. How do I set up my development env
 - [GitHub repository →](https://github.com/vitejs/vite)
 - [Read in Turkish →](https://trescout.com/discover/vite/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-07: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-07: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/vite/

@@ -19,6 +19,7 @@ Este guia é uma fonte de informações e não uma ferramenta de software. Você
 
 - [Cloud Computing](https://trescout.com/pt/dictionary/cloud-computing/)
 - [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Adequado para profissionais que se preparam para cargos de DevOps, SRE e engenharia de nuvem.
 
@@ -27,7 +28,7 @@ Este guia é uma fonte de informações e não uma ferramenta de software. Você
 - [Repositório no GitHub →](https://github.com/litu54/DevOps-Interview-Guide)
 - [Ler em turco →](https://trescout.com/discover/devops-interview-guide/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-09: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-09: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/devops-interview-guide/

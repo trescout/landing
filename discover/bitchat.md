@@ -31,6 +31,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bitchat uygulamasının sunduğu Bluetooth mesh ve Nostr protokolü hibrit yapısını kullanarak, internetin olmadığı durumlarda yakın çevremle nasıl güvenli bir şekilde mesajlaşabilirim? Uygulamanın sunduğu IRC tarzı komutları ve konum tabanlı kanal özelliklerini kullanarak yerel bir topluluk sohbetini nasıl başlatacağımı adım adım açıkla.
 
+Depo: https://github.com/permissionlesstech/bitchat. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** İnternet bağlantısının kısıtlı olduğu veya gizliliğin ön planda tutulduğu durumlarda doğrudan iletişim kurmak isteyen kullanıcılar içindir.
 - **Lisans:** Unlicense
 
@@ -38,7 +46,7 @@ Bitchat uygulamasının sunduğu Bluetooth mesh ve Nostr protokolü hibrit yapı
 
 - [GitHub deposu →](https://github.com/permissionlesstech/bitchat)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

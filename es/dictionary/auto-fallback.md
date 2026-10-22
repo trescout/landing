@@ -38,7 +38,7 @@ Si el método de copia de seguridad también es defectuoso, el sistema seguirá 
 - [Runtime](https://trescout.com/es/dictionary/runtime/)
 - [AI Gateway](https://trescout.com/es/dictionary/ai-gateway/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/auto-fallback/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/auto-fallback/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/auto-fallback/

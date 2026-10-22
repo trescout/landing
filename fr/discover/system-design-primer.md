@@ -23,6 +23,7 @@ Ce guide est un référentiel de documentation sur GitHub. Pour commencer, vous 
 ## Termes liés du glossaire
 
 - [System Design](https://trescout.com/fr/dictionary/system-design/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux ingénieurs logiciels qui se préparent à des entretiens techniques ou qui souhaitent se perfectionner dans l'architecture de systèmes logiciels à grande échelle.
 
@@ -31,7 +32,7 @@ Ce guide est un référentiel de documentation sur GitHub. Pour commencer, vous 
 - [Dépôt GitHub →](https://github.com/donnemartin/system-design-primer)
 - [Lire en turc →](https://trescout.com/discover/system-design-primer/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/system-design-primer/

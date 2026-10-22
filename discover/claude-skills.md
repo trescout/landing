@@ -2,16 +2,16 @@
 
 Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda 330'dan fazla yetenek paketi (skills) ve 70'in üzerinde özel komut sunuyor. Python tabanlı bu araç seti, yapay zekâ tabanlı iş akışlarını standartlaştırmak ve üretkenliği artırmak amacıyla özelleştirilebilir betikler sağlıyor.
 
-- ★ 27.840
+- ★ 28.485
 - Python
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
 
+- **21 Ekim 2026:** Yıldız 27.840 → 28.485, son sürüm v2.13.0 (21 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 26.514 → 27.840, son sürüm v2.12.0 (25 Ağustos 2026).
 - **27 Eylül 2026:** Yıldız 25.061 → 26.514, son sürüm v2.12.0 (25 Ağustos 2026).
 - **27 Ağustos 2026:** Yıldız 24.867 → 25.061, son sürüm v2.12.0 (25 Ağustos 2026).
-- **24 Ağustos 2026:** Yıldız 23.654 → 24.867, son sürüm v2.9.0 (28 Mayıs 2026).
 
 ## Ne kazandırır?
 
@@ -65,6 +65,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code veya kullandığın kodlama ajanı için bu kütüphanedeki yetenek paketlerini aktif et. Mühendislik, pazarlama veya C-seviyesi danışmanlık gibi alanlarda uzmanlaşmış betikleri kullanarak iş akışımı standartlaştır ve üretkenliğimi artır. İhtiyacım olan spesifik yetenekleri (örneğin güvenlik denetimi veya ürün geliştirme) projeme entegre et.
 
+Depo: https://github.com/alirezarezvani/claude-skills. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ destekli kodlama araçlarını profesyonel iş akışlarında daha verimli ve uzman bir şekilde kullanmak isteyen yazılımcılar ve teknik ekipler içindir.
 - **Lisans:** MIT
 
@@ -72,7 +80,7 @@ Claude Code veya kullandığın kodlama ajanı için bu kütüphanedeki yetenek 
 
 - [GitHub deposu →](https://github.com/alirezarezvani/claude-skills)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -73,7 +73,7 @@ Im Jahr 1984 zeigte Benjamin Bloom, dass ein Schüler, der Einzelunterricht erhi
 
 - [DeepTutor](https://trescout.com/de/discover/deeptutor/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/tutoring/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/tutoring/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tutoring/

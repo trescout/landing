@@ -38,7 +38,7 @@ Geralmente sim, mas à medida que a complexidade do projeto aumenta, a orientaç
 - [Agentic AI](https://trescout.com/pt/dictionary/agentic-ai/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agentic-coding-tool/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agentic-coding-tool/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agentic-coding-tool/

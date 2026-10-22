@@ -28,6 +28,7 @@ Pour commencer à utiliser Cordis, vous pouvez revoir les concepts de base sur c
 ## Termes liés du glossaire
 
 - [Meta-framework](https://trescout.com/fr/dictionary/meta-framework/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui souhaitent développer des systèmes logiciels complexes dans une structure modulaire et organisée.
 - **Licence:** MIT
@@ -37,7 +38,7 @@ Pour commencer à utiliser Cordis, vous pouvez revoir les concepts de base sur c
 - [Dépôt GitHub →](https://github.com/cordiverse/cordis)
 - [Lire en turc →](https://trescout.com/discover/cordis/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-16 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-16 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/cordis/

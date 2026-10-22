@@ -2,16 +2,16 @@
 
 Cloudflare Temp Email, Cloudflare Workers, Pages ve D1/KV veritabanı altyapısını kullanarak tamamen ücretsiz, sunucusuz (serverless) ve kendi alan adınızla çalışan geçici e-posta (disposable email) servisi kurmanızı sağlayan açık kaynaklı bir platformdur. Gelen kutusu yönetimi, eklerin saklanması, Telegram botu entegrasyonu ve otomatik temizlik mekanizmalarıyla kişisel gizliliğinizi korur.
 
-- ★ 11.734
+- ★ 11.982
 - TypeScript
 - GitHub Trending · 2026-07-23
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 11.734 → 11.982, son sürüm v1.13.0 (18 Ekim 2026).
 - **13 Eylül 2026:** Yıldız 11.391 → 11.734, son sürüm v1.12.0 (13 Eylül 2026).
 - **23 Ağustos 2026:** Yıldız 11.332 → 11.391, son sürüm v1.11.1 (22 Ağustos 2026).
 - **19 Ağustos 2026:** Yıldız 11.156 → 11.332, son sürüm v1.11.0 (19 Ağustos 2026).
-- **2 Ağustos 2026:** Yıldız 10.884 → 11.156, son sürüm v1.10.0 (31 Temmuz 2026).
 
 ## Ne kazandırır?
 
@@ -62,6 +62,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Cloudflare üzerinde çalışan dreamhunter2333/cloudflare_temp_email açık kaynaklı geçici e-posta projesini kendi alan adımla kurmak istiyorum. Cloudflare hesabım ve Cloudflare DNS'e bağlı bir alan adım var. Cloudflare panosu üzerinden Email Routing yönlendirmesini, D1 veritabanını ve Cloudflare Pages arayüzünü sıfırdan nasıl kuracağımı adım adım anlatır mısın? Ayrıca gelen e-postaları Telegram botuma yönlendirmek için hangi yapılandırma adımlarını izlemeliyim?
 
+Depo: https://github.com/dreamhunter2333/cloudflare_temp_email. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi alan adıyla ücretsiz, güvenli ve engelsiz geçici e-posta servisi barındırmak isteyen geliştiriciler, test ekipleri ve gizlilik odaklı kullanıcılar içindir.
 - **Lisans:** MIT (Özgür açık kaynak lisansı)
 - **Altyapı:** Cloudflare Workers, Pages, D1 (SQLite) ve Email Routing
@@ -78,14 +86,14 @@ Cloudflare üzerinde çalışan dreamhunter2333/cloudflare_temp_email açık kay
 
 - [GitHub deposu →](https://github.com/dreamhunter2333/cloudflare_temp_email)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [CLI](https://trescout.com/dictionary/cli/)
 - [Rust](https://trescout.com/dictionary/rust/)
-- [API](https://trescout.com/dictionary/api/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

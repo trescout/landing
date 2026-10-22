@@ -21,12 +21,24 @@ O mecanismo de serialização percorre o grafo de objetos na memória (incluindo
 
 Escolher o formato de serialização correto na arquitetura de software exige um equilíbrio entre legibilidade humana, custo de processamento (parsing) de CPU, largura de banda de rede e segurança de tipos.
 
+### 1. Formatos Baseados em Texto (JSON, YAML, XML)
+
 - JSON (JavaScript Object Notation): O padrão de fato da web moderna e APIs RESTful. É independente de linguagem, tem suporte nativo em navegadores e é facilmente lido e depurável pelos desenvolvedores.
 - Pontos fracos: a análise baseada em texto (lexing, tokenização, conversões de string para número) consome muito CPU. A repetição de nomes de chaves (chaves de campo) em cada registro cria uma sobrecarga desnecessária de carga útil. Além disso, transportar dados binários (por exemplo, uma imagem ou chave criptografada) requer codificação Base64; Isso aumenta o tamanho dos dados em aproximadamente 33%.
+
+### 2. Formatos Binários e com Esquema (Protobuf, Avro, MessagePack)
 
 - Buffers de protocolo (Protobuf): É um formato binário desenvolvido pelo Google que forma a espinha dorsal da comunicação gRPC e de microsserviços. Ele define tipos de campos e números de campos (tags de campo) com um arquivo de esquema sólido (.proto). Em vez de chaves de texto, rótulos numéricos e codificação inteira de comprimento variável (Varint) são enviados pela rede. Ele consome de 3 a 10 vezes menos largura de banda que JSON e analisa muito mais rápido.
 - Apache Avro: Comum no ecossistema de big data (Hadoop, Kafka). O esquema é mantido em um registro central (Registro de Esquema) em vez de ser incorporado em cada mensagem. Desta forma, a carga adicional por mensagem é minimizada.
 - MessagePack e BSON: armazena dados em um formato binário compactado, preservando o modelo de valor-chave flexível e sem esquema do JSON.
+
+| Formato | Sistema de Tipos | Obrigação de Esquema | Legibilidade | Custo de Parse | Caso de Uso Principal |
+|---|---|---|---|---|---|
+| JSON | Dinâmico | Opcional (JSON Schema) | Legível por Humanos | Médio / Alto | Web API, Frontend |
+| protobuf | Estático Rígido | Obrigatório (.proto) | Binário | Baixo | Microsserviços, gRPC |
+| FlatBuffers | Estático Rígido | Obrigatório (.fbs) | Binário | Zero (Zero-Copy) | Jogos, HFT, Móvel |
+| Apache Avro | Estático Rígido | Obrigatório (.avsc) | Binário | Baixo | Kafka, Big Data |
+| MessagePack | Dinâmico | Nenhum | Binário | Baixo / Médio | Cache Redis, IPC |
 
 ## Arquitetura de Desserialização Zero-Copy
 
@@ -47,6 +59,8 @@ Nenhuma alocação de memória ou cópia de dados ocorre durante a fase de desse
 
 Vulnerabilidades de segurança catastróficas surgem quando a serialização tenta serializar classes de objetos e comportamentos de tempo de execução, em vez de apenas mover dados puros. A desserialização insegura (serialização reversa insegura), que está na lista dos 10 principais do OWASP, permite que um invasor execute código arbitrário (execução remota de código - RCE) no sistema.
 
+### Exemplo de picles Python
+
 O módulo de serialização integrado do Python, pickle, serializa o método __reduce__ de objetos. Este método define uma função e seus parâmetros a serem chamados durante a desserialização do objeto. Ao abusar deste mecanismo, um invasor pode gerar uma sequência de bytes maliciosa que executa um comando do sistema operacional:
 
 ```
@@ -59,7 +73,11 @@ class Exploit:
 
 Assim que esse fluxo de bytes é enviado ao servidor e pickle.loads(payload) é executado, um comando shell não autorizado é executado no servidor. Portanto, quaisquer dados de fontes não confiáveis ​​não devem ser analisados ​​com pickle.
 
+### Java e cadeias de gadgets
+
 No mecanismo de serialização nativo do Java (ObjectInputStream.readObject()), o carregador de classes carrega a classe do objeto recebido na memória. Atacante; Ele pode construir uma cadeia de execução que executa comandos na memória conectando métodos de classes em bibliotecas instaladas no sistema (por exemplo, Apache Commons Collections ou Spring Framework) (cadeia de gadgets).
+
+### Princípios de serialização segura
 
 - Nunca use formatos integrados à linguagem contendo código executável ou definições de classe (Python pickle, serialização nativa de Java, desserialização de PHP) nos limites da rede.
 - Escolha formatos que transportam apenas dados puros e validem a estrutura de dados em relação ao esquema (JSON + Pydantic/Zod ou Protobuf).
@@ -98,7 +116,7 @@ Os modelos de dados mudam à medida que o software é atualizado. Sistemas como 
 
 - [YAML Cpp](https://trescout.com/pt/discover/yaml-cpp/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/serialization/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/serialization/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/serialization/

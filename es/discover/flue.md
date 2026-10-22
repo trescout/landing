@@ -49,6 +49,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero desarrollar un agente de inteligencia artificial utilizando el marco Flue. ¿Cómo puedo definir un flujo de trabajo usando TypeScript en mi proyecto? Específicamente, ¿cómo puedo configurar el modelo con la función createAgent e interactuar con mi agente con session.prompt? Usando un ejemplo simple de "hola mundo", ¿puedes explicar paso a paso cómo puedo iniciar un agente en tiempo de ejecución y obtener resultados?
 
+Repositorio: https://github.com/withastro/flue. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Sandbox Agent Framework](https://trescout.com/es/dictionary/sandbox-agent-framework/)
@@ -66,7 +74,7 @@ Quiero desarrollar un agente de inteligencia artificial utilizando el marco Flue
 - [Repositorio en GitHub →](https://github.com/withastro/flue)
 - [Leer en turco →](https://trescout.com/discover/flue/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-06: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-06: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/flue/

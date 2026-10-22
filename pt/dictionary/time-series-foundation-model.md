@@ -38,7 +38,7 @@ Não deve ser confundido apenas com simples ferramentas de previsão estatístic
 
 - [Timesfm](https://trescout.com/pt/discover/timesfm/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/time-series-foundation-model/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/time-series-foundation-model/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/time-series-foundation-model/

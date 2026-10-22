@@ -2,16 +2,16 @@
 
 Omlx is a next-generation local large language model (LLM) inference server that offers continuous batching and SSD caching capabilities for Mac computers with Apple Silicon (M1/M2/M3/M4) processors. It combines the Apple MLX framework with an OpenAI-compatible API and a macOS menu bar interface.
 
-- ★ 22,855
+- ★ 22,973
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Updates
 
+- **October 21, 2026:** Stars 22,855 → 22,973, latest release v0.7.2 (October 21, 2026).
 - **October 16, 2026:** Stars 22,825 → 22,855, latest release v0.7.1rc1 (October 15, 2026).
 - **October 15, 2026:** Stars 22,655 → 22,825, latest release v0.7.1.dev2 (October 15, 2026).
 - **October 9, 2026:** Stars 22,409 → 22,655, latest release v0.7.1.dev1 (October 9, 2026).
-- **October 1, 2026:** Stars 22,280 → 22,409, latest release v0.7.0 (September 30, 2026).
 
 ## What you get
 
@@ -70,6 +70,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run a local large language model using the Omlx server on my Apple Silicon Mac. Could you explain step by step how to run the server in the background after completing the installation via Homebrew, manage model selection from the menu bar, and connect to this local model via the Cursor code editor or the Python openai library?
 
+Repository: https://github.com/jundot/omlx. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - What is the main difference between Omlx and Ollama? While Ollama generally uses the C++-based llama.cpp infrastructure, Omlx runs directly on the MLX framework developed by Apple. This enables deeper integration with the Metal and neural engine units of Apple Silicon chips, delivering higher token generation speeds, particularly in continuous batching and long contexts.
@@ -96,7 +104,7 @@ I want to run a local large language model using the Omlx server on my Apple Sil
 - [GitHub repository →](https://github.com/jundot/omlx)
 - [Read in Turkish →](https://trescout.com/discover/omlx/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/omlx/

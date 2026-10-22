@@ -42,7 +42,7 @@ Since it is sequential, you need to manage your changes carefully to avoid break
 
 - [Gh Stack](https://trescout.com/en/discover/gh-stack/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/stacked-pull-requests/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/stacked-pull-requests/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/stacked-pull-requests/

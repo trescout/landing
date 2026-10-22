@@ -24,6 +24,7 @@ Dieses Repository wurde erstellt, um die ursprünglichen Quellcodes des bei der 
 
 - [Guidance Computer](https://trescout.com/de/dictionary/guidance-computer/)
 - [Assembly](https://trescout.com/de/dictionary/assembly/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Forscher und Technologiebegeisterte, die sich für Luftfahrtgeschichte und Software-Engineering-Hintergrund interessieren.
 
@@ -32,7 +33,7 @@ Dieses Repository wurde erstellt, um die ursprünglichen Quellcodes des bei der 
 - [GitHub-Repository →](https://github.com/chrislgarry/Apollo-11)
 - [Auf Türkisch lesen →](https://trescout.com/discover/apollo-11/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-22 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-22 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/apollo-11/

@@ -43,6 +43,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a software development assistant. Analyze my current codebase, identify the tasks that need to be performed, and help me manage coding processes interactively via the terminal. While performing operations, use unified AI providers to suggest the most appropriate solutions and manage the necessary tool calls throughout the process.
 
+Repository: https://github.com/earendil-works/pi. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [TUI](https://trescout.com/en/dictionary/tui/)
@@ -59,7 +67,7 @@ You are a software development assistant. Analyze my current codebase, identify 
 - [GitHub repository →](https://github.com/earendil-works/pi)
 - [Read in Turkish →](https://trescout.com/discover/pi/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/pi/

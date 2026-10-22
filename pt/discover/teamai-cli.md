@@ -41,6 +41,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Desejo gerenciar as regras de colaboração, habilidades e configurações de agentes de inteligência artificial da nossa equipe usando o TeamAI CLI. Após definir o repositório da equipe em nosso projeto, como posso gerenciar as etapas de sincronização necessárias para garantir que todos os membros ajam de acordo com as regras e princípios de trabalho mais atuais?
 
+Repositório: https://github.com/Tencent/teamai-cli. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Generative AI](https://trescout.com/pt/dictionary/generative-ai/)
@@ -54,7 +62,7 @@ Desejo gerenciar as regras de colaboração, habilidades e configurações de ag
 - [Repositório no GitHub →](https://github.com/Tencent/teamai-cli)
 - [Ler em turco →](https://trescout.com/discover/teamai-cli/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-10: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-10: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/teamai-cli/

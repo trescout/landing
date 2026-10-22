@@ -2,16 +2,16 @@
 
 Hermes Agent için geliştirilen oh-my-hermes, kodlama zekâsı, uzun süreli bellek sistemi ve model odaklı iş akışı paketlerini tek bir eklentide sunuyor. Yazılım geliştirme süreçlerini optimize eden bu araç, Python tabanlı yapısıyla geliştiricilere kapsamlı bir çalışma ortamı sağlıyor.
 
-- ★ 3.258
+- ★ 3.432
 - Python
 - GitHub Trending · 2026-09-15
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 3.258 → 3.432, son sürüm v4.0.0 (19 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 3.200 → 3.258, son sürüm v3.0.2 (11 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 3.018 → 3.200, son sürüm v3.0.1 (7 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 2.982 → 3.018, son sürüm v3.0.0 (29 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 2.299 → 2.982, son sürüm v2.0.5 (22 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -47,6 +47,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Hermes Agent üzerinde Oh My Hermes eklentisini kur ve yapılandır. Kurulum sürecinde işletim sistemi için uygun olan yükleyiciyi kullan, etkileşimli model kurulumunu tamamla, model zinciri görüşmesini yap ve doctor adımlarını çalıştır. Mevcut Hermes yapılandırmasını koruyarak sadece belgelenmiş kurulum değişikliklerini uygula ve işlem sonucunu raporla.
 
+Depo: https://github.com/rlaope/oh-my-hermes. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Hermes Agent yazılım geliştirme aracını kullanan ve iş akışlarını daha profesyonel bir işletim katmanıyla yönetmek isteyen geliştiriciler içindir.
 - **Lisans:** MIT
 
@@ -54,7 +62,7 @@ Hermes Agent üzerinde Oh My Hermes eklentisini kur ve yapılandır. Kurulum sü
 
 - [GitHub deposu →](https://github.com/rlaope/oh-my-hermes)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -79,7 +79,7 @@ Yerel arayüzü açıp tarayıcı eklentisiyle seçtiğim sayfaları indeksle ve
 - [Privacy ve kullanım README →](https://github.com/asciimoo/hister)
 - [Kullanım akışı →](https://hister.org/posts/how-i-use-hister)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
@@ -88,6 +88,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [MCP](https://trescout.com/dictionary/mcp/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
 - [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hister/

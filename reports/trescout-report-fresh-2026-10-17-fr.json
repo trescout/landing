@@ -1,0 +1,400 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-17",
+  "capturedAt": "2026-10-17T08:34:34.709Z",
+  "editorial": "Ce rapport contient les tendances qui sont apparues pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "android/skills",
+          "url": "https://github.com/android/skills",
+          "summary": "android/skills, développé par l'équipe Android, est une bibliothèque écrite en langage Kotlin contenant des compétences (skills) utilisées dans les processus de développement d'applications. Elle propose une boîte à outils open source aidant les développeurs de logiciels à implémenter des fonctionnalités standard dans leurs projets.",
+          "meta": "Kotlin · ★ 8 182 · +36 aujourd'hui",
+          "snapshot": {
+            "sourceId": "android/skills",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Kotlin",
+              "popularity": 8182,
+              "engagementCount": 36,
+              "rank": 7,
+              "extra": {
+                "starsToday": 36
+              }
+            }
+          }
+        },
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "MadsLorentzen/ai-job-search est un cadre (framework) de recherche d'emploi fonctionnant sur votre ordinateur local et développé sur Claude Code. Il automatise, avec l'aide de l'intelligence artificielle, les processus d'évaluation des annonces, de personnalisation des CV, de rédaction de lettres de motivation et de préparation aux entretiens.",
+          "meta": "Python · ★ 48 952 · +898 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "MadsLorentzen/ai-job-search",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 48952,
+              "engagementCount": 898,
+              "rank": 11,
+              "extra": {
+                "starsToday": 898
+              }
+            },
+            "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+          }
+        },
+        {
+          "title": "hmjz100/LinkSwift",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "summary": "LinkSwift est un outil qui permet d'obtenir des liens de téléchargement direct de fichiers à partir de divers services de stockage cloud en utilisant une infrastructure basée sur JavaScript. Le logiciel prend en charge huit plateformes cloud populaires, telles que Baidu Netdisk, Alibaba Cloud Drive, China Mobile Cloud et Quark Drive.",
+          "meta": "JavaScript · ★ 24 106 · +538 aujourd'hui",
+          "snapshot": {
+            "sourceId": "hmjz100/LinkSwift",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 24106,
+              "engagementCount": 538,
+              "rank": 12,
+              "extra": {
+                "starsToday": 538
+              }
+            },
+            "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tesla Roadster",
+          "url": "https://www.tesla.com/roadster",
+          "summary": "La Tesla Roadster est un modèle de voiture de sport haute performance développé par le constructeur de véhicules électriques Tesla. Le véhicule vise à présenter les technologies de transport électrique de la marque sur une plateforme axée sur la vitesse et le design.",
+          "meta": "1 403 votes · 2 452 commentaires",
+          "snapshot": {
+            "sourceId": "50112657",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 1403,
+              "engagementCount": 2452,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50112657",
+                  "popularity": 1403,
+                  "engagementCount": 2452
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-16T01:32:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50112657"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qghttps:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50112657",
+              "popularity": 1403,
+              "engagementCount": 2452
+            }
+          ]
+        },
+        {
+          "title": "Claude reveals ECDSA curve origins",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "summary": "Anthropic a publié une recherche détaillant les origines et les processus de création des courbes ECDSA utilisées dans les normes cryptographiques. Cette étude explique que ces courbes n'ont pas été choisies au hasard et comment elles sont dérivées à partir de valeurs de départ (seeds) spécifiques.",
+          "meta": "852 votes · 317 commentaires",
+          "snapshot": {
+            "sourceId": "50122800",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 852,
+              "engagementCount": 317,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50122800",
+                  "popularity": 852,
+                  "engagementCount": 317
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-16T18:55:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50122800"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50122800",
+              "popularity": 852,
+              "engagementCount": 317
+            }
+          ]
+        },
+        {
+          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+          "summary": "90 % des heures de travail aux États-Unis consistent en des tâches qui échappent au champ d'application des tests de référence en intelligence artificielle (AI benchmarks) actuels. La recherche publiée par Mercor révèle que les mesures de performance de l'IA sont insuffisantes pour refléter les besoins réels de la main-d'œuvre.",
+          "meta": "491 votes · 413 commentaires",
+          "snapshot": {
+            "sourceId": "50121179",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 491,
+              "engagementCount": 413,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50121179",
+                  "popularity": 491,
+                  "engagementCount": 413
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-16T17:08:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50121179"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50121179",
+              "popularity": 491,
+              "engagementCount": 413
+            }
+          ]
+        },
+        {
+          "title": "How the Claude Code team does code review",
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+          "summary": "L'équipe Claude Code chez Anthropic partage les méthodes qu'elle a développées pour gérer l'étape de revue de code (code review) dans les processus de développement logiciel. L'équipe vise à améliorer la qualité du code et à accélérer les processus de revue en utilisant des outils d'intelligence artificielle générative (generative AI).",
+          "meta": "332 votes · 308 commentaires",
+          "snapshot": {
+            "sourceId": "50122951",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 332,
+              "engagementCount": 308,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50122951",
+                  "popularity": 332,
+                  "engagementCount": 308
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-16T19:04:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50122951"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50122951",
+              "popularity": 332,
+              "engagementCount": 308
+            }
+          ]
+        },
+        {
+          "title": "I love software rendering",
+          "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+          "summary": "L'intérêt pour les méthodes de rendu logiciel (software rendering) remet à l'ordre du jour les principes fondamentaux de la création graphique basée sur la puissance du processeur plutôt que sur les techniques modernes d'accélération matérielle. Cette approche offre une perspective alternative pour ceux qui souhaitent comprendre les processus techniques de traitement des graphismes.",
+          "meta": "318 votes · 202 commentaires",
+          "snapshot": {
+            "sourceId": "50117746",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 318,
+              "engagementCount": 202,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50117746",
+                  "popularity": 318,
+                  "engagementCount": 202
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-16T12:52:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50117746"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50117746",
+              "popularity": 318,
+              "engagementCount": 202
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+          "url": "https://huggingface.co/papers/2610.21185",
+          "summary": "Mine, Sample, Render (MSR) est une approche en temps de test (test-time) développée pour remédier aux lacunes des modèles d'IA générative en matière de diversité. La méthode propose un flux de travail qui externalise le processus d'échantillonnage en utilisant des statistiques issues de données réelles, visant à produire des résultats plus variés.",
+          "meta": "5 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.21185",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21185",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach that externalizes the diversity into an explicit, corpus-derived sampling procedure. Our pipeline (i) mines an interpretable categorical schema from a corpus of real artifacts and supplies statistics for sampling; (ii) samples attribute configurations from the corpus-derived statistics; (iii) uses "
+          }
+        },
+        {
+          "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+          "url": "https://huggingface.co/papers/2610.21261",
+          "summary": "L'article partagé par Hugging Face examine la manière dont les auto-encodeurs parcimonieux (sparse autoencoders) représentent les activations des modèles et l'additivité des effets comportementaux de ces caractéristiques. L'étude présente une nouvelle méthode appelée SAE Additivity Residuals (SAR) pour mesurer les niveaux d'interaction et analyser les écarts dans la combinaison des caractéristiques.",
+          "meta": "104 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.21261",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 104,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21261",
+                "publishedAt": "2026-10-15T00:00:00.000Z",
+                "githubRepo": "https://github.com/OpenSAE/SAE-Behavioral-Compositionality",
+                "githubStars": 3
+              }
+            },
+            "description": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Residuals (SAR), which measure the behavioral variation left unexplained above a chosen interaction order. Under independent feature subset sampling, population SAR is exactly the normalized energy of interactions above that order and bounds coalition ordering error for the optimal low order approximat"
+          }
+        },
+        {
+          "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
+          "url": "https://huggingface.co/papers/2610.20680",
+          "summary": "La quantité de données d'activation requise pour les auto-encodeurs parcimonieux (sparse autoencoders) est examinée à travers la performance fonctionnelle du modèle et la reproductibilité des caractéristiques apprises. L'étude teste la nécessité de l'échelle des données utilisées dans l'entraînement de ces modèles avec différents modèles de langage et budgets de données.",
+          "meta": "1 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.20680",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20680",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            },
+            "description": "Sparse autoencoders (SAEs) are typically trained on hundreds of millions to billions of activation tokens, yet little work has tested whether this scale is necessary. We study how much activation data SAEs need by training four SAE architectures on three language models with budgets ranging from 5M tokens to a 500M-token reference. We measure two notions of convergence: functional behavior on standard evaluations and one-to-one reproducibility of learned features. Functional data requirements ar"
+          }
+        },
+        {
+          "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+          "url": "https://huggingface.co/papers/2610.22280",
+          "summary": "LEASH est une méthode permettant aux agents d'IA axés sur l'utilisation de l'ordinateur (computer-use) de basculer entre des modèles à faible coût et des modèles puissants pour des tâches complexes. Grâce à un mécanisme de conscience de l'incertitude (uncertainty-aware), le système transfère automatiquement le contrôle à un modèle plus puissant lorsque le modèle faible est insuffisant.",
+          "meta": "6 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.22280",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22280",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers a middle ground where a weak agent acts by default and hands control to a strong one only when needed. The core challenge is deciding when to escalate, which requires an uncertainty signal cheap enough to check at every step. However, even after handoff, the strong agent can still get lost, but a bl"
+          }
+        },
+        {
+          "title": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments",
+          "url": "https://huggingface.co/papers/2610.15924",
+          "summary": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments propose une solution contre la manipulation des vérificateurs programmatiques utilisés dans l'entraînement des grands modèles de langage (LLM). L'étude vise à développer une méthode de renforcement évolutive et automatisée pour prévenir les récompenses erronées dans les tâches complexes au sein des environnements d'agents.",
+          "meta": "3 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.15924",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.15924",
+                "publishedAt": "2026-10-11T00:00:00.000Z"
+              }
+            },
+            "description": "Agent environments are essential for large language model (LLM) development. They use programmatic verifiers to turn complex outcomes into rewards. Verifiers can be attacked into awarding full credit to cheating agents without completing the intended task, causing inaccurate evaluation and misalignment in training. As agent environments scale in numbers and difficulty, so must the repairing of exploitable verifiers. To this end, we ask whether today's model with scaled compute can automatically "
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Ensemble de fonctions ou de capacités prêtes à l'emploi utilisées pour accomplir une tâche spécifique dans les processus de développement logiciel."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ensemble de règles et d'outils prêts à l'emploi qui forment la structure de base et facilitent le travail lors du développement logiciel."
+    },
+    {
+      "term": "seeds",
+      "explanation": "Clé numérique permettant de générer des résultats apparemment aléatoires de manière cohérente et reproductible en fonction d'une valeur initiale spécifique."
+    },
+    {
+      "term": "AI benchmarks",
+      "explanation": "Tests de performance standard utilisés pour mesurer les capacités, la vitesse et la précision des systèmes d'intelligence artificielle."
+    },
+    {
+      "term": "code review",
+      "explanation": "Processus de révision du code écrit par une autre personne ou un outil afin d'améliorer la qualité du logiciel et de détecter les erreurs."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Technologie d'intelligence artificielle capable de créer des contenus tels que du texte, des images ou du code à partir des instructions reçues de l'utilisateur."
+    }
+  ]
+}

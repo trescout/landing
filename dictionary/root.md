@@ -39,7 +39,7 @@ Yönetici (admin) hesabı ile benzerdir ancak root genellikle sistemin en derini
 - [Universal Android Debloater Next Generation](https://trescout.com/discover/universal-android-debloater-next-generation/)
 - [Tailcat](https://trescout.com/discover/tailcat/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/root/

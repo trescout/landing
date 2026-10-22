@@ -2,16 +2,16 @@
 
 Diagram-design, développé par Cathryn Lavery, comprend 29 types de diagrammes éditoriaux différents préparés pour l'outil de codage basé sur l'intelligence artificielle Claude Code. Cette bibliothèque présente clairement des diagrammes complexes directement en utilisant HTML et des graphiques vectoriels évolutifs (SVG) au lieu des outils de création de diagrammes standard.
 
-- ★ 54 882
+- ★ 58 061
 - HTML
 - GitHub Trending · 2026-08-13
 
 ## Mises à jour
 
+- **19 octobre 2026:** Étoiles 54,882 → 58,061.
 - **14 octobre 2026:** Étoiles 51,670 → 54,882.
 - **12 octobre 2026:** Étoiles 48,430 → 51,670.
 - **10 octobre 2026:** Étoiles 45,611 → 48,430.
-- **8 octobre 2026:** Étoiles 42,493 → 45,611.
 
 ## Ce que ça vous apporte
 
@@ -39,6 +39,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Dites à Claude Code ou à tout autre assistant IA que vous utilisez pour analyser l'architecture ou le flux de travail de mon projet actuel. Ensuite, demandez-lui de créer un diagramme HTML et SVG propre en choisissant celui qui convient le mieux au sujet que j'explique parmi les 27 types visuels différents de la bibliothèque de conception de diagrammes. Précisez que le design fait référence à mon site internet afin qu'il soit compatible avec les couleurs et le langage visuel de ma marque.
 
+Dépôt : https://github.com/cathrynlavery/diagram-design. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [SVG](https://trescout.com/fr/dictionary/svg/)
@@ -52,7 +60,7 @@ Dites à Claude Code ou à tout autre assistant IA que vous utilisez pour analys
 - [Dépôt GitHub →](https://github.com/cathrynlavery/diagram-design)
 - [Lire en turc →](https://trescout.com/discover/diagram-design/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-13 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-13 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/diagram-design/

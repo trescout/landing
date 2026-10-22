@@ -27,6 +27,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Darei a você um guia completo chamado 'Dicas para subir de nível de inglês', que explica vocabulário, compreensão auditiva, leitura, fala, escrita e métodos de estudo apoiados por inteligência artificial para aprender inglês em um nível avançado. Examine este guia e crie um plano de estudo pessoal e um roteiro de acordo com seu nível e objetivo. Meu nível: [ex. meio]. Meu objetivo: [por exemplo. falando fluentemente].
 
+Repositório: https://github.com/byoungd/English-level-up-tips. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
@@ -44,7 +52,7 @@ Darei a você um guia completo chamado 'Dicas para subir de nível de inglês', 
 - [Repositório no GitHub →](https://github.com/byoungd/English-level-up-tips)
 - [Ler em turco →](https://trescout.com/discover/english-level-up-tips/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-05-28: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-05-28: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/english-level-up-tips/

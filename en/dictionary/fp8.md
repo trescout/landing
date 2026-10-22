@@ -40,7 +40,7 @@ Old hardware did not support this format, it became widespread with new generati
 - [Inference](https://trescout.com/en/dictionary/inference/)
 - [AI Models](https://trescout.com/en/dictionary/ai-models/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/fp8/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/fp8/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/fp8/

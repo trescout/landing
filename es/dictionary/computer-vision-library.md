@@ -41,7 +41,7 @@ Los conocimientos básicos de código son suficientes, ya que las bibliotecas es
 
 - [Opencv](https://trescout.com/es/discover/opencv/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/computer-vision-library/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/computer-vision-library/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/computer-vision-library/

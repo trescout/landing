@@ -33,6 +33,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Utilizo la infraestructura de Substrate para ejecutar agentes de IA a escala. En este sistema que se ejecuta en Kubernetes (sistema de gestión de contenedores), quiero gestionar el ciclo de vida de los actores, utilizar los recursos de manera eficiente y realizar implementaciones de agentes de alta densidad. ¿Cómo puedo optimizar la configuración requerida para mantener el estado de mis agentes y activarlos rápidamente, utilizando el entorno operativo de alto rendimiento que ofrece Substrate?
 
+Repositorio: https://github.com/agent-substrate/substrate. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Agent](https://trescout.com/es/dictionary/agent/)
@@ -46,7 +54,7 @@ Utilizo la infraestructura de Substrate para ejecutar agentes de IA a escala. En
 - [Repositorio en GitHub →](https://github.com/agent-substrate/substrate)
 - [Leer en turco →](https://trescout.com/discover/substrate/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-20: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-20: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/substrate/

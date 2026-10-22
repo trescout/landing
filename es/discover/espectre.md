@@ -25,6 +25,10 @@ Para comenzar a usar ESPectre, debe seguir el documento oficial SETUP.md del pro
 
 - [Fuente oficial →](https://espectre.dev)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es para usuarios interesados ​​en la domótica que buscan soluciones de detección de movimiento de bajo coste sin comprometer la privacidad.
 - **Licencia:** GPL-3.0
 
@@ -33,7 +37,7 @@ Para comenzar a usar ESPectre, debe seguir el documento oficial SETUP.md del pro
 - [Repositorio en GitHub →](https://github.com/francescopace/espectre)
 - [Leer en turco →](https://trescout.com/discover/espectre/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-10: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-10: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/espectre/

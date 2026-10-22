@@ -39,6 +39,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımda dosya yönetimi, terminal komutları ve belge düzenleme işlemlerini yapabilmen için Desktop Commander MCP araçlarını kullanmanı istiyorum. Lütfen dosya sisteminde arama yapma, terminal üzerinden süreçleri yönetme ve ihtiyaç duyduğumda Excel veya PDF gibi belgeler üzerinde gerekli değişiklikleri gerçekleştirme yeteneklerini aktif ederek bana yardımcı ol.
 
+Depo: https://github.com/wonderwhy-er/DesktopCommanderMCP. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ modeline yerel bilgisayar erişimi vererek dosya ve süreç yönetimini otomatize etmek isteyen kullanıcılar içindir.
 - **Lisans:** MIT
 
@@ -46,7 +54,7 @@ Bilgisayarımda dosya yönetimi, terminal komutları ve belge düzenleme işleml
 
 - [GitHub deposu →](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

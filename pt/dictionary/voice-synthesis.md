@@ -34,7 +34,7 @@ Sim, tecnicamente expressam o mesmo conceito; um define o processo geral, o outr
 - [Voice Cloning](https://trescout.com/pt/dictionary/voice-cloning/)
 - [Speech Synthesis](https://trescout.com/pt/dictionary/speech-synthesis/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/voice-synthesis/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/voice-synthesis/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/voice-synthesis/

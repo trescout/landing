@@ -24,6 +24,7 @@ You can download pre-compiled binaries suitable for your system from the release
 
 - [Debugger](https://trescout.com/en/dictionary/debugger/)
 - [Multi-process](https://trescout.com/en/dictionary/multi-process/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Intended for developers who develop large software in the C language on the Windows platform and need a visual debugging interface.
 - **License:** MIT
@@ -33,7 +34,7 @@ You can download pre-compiled binaries suitable for your system from the release
 - [GitHub repository →](https://github.com/EpicGames/raddebugger)
 - [Read in Turkish →](https://trescout.com/discover/raddebugger/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-07: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-07: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/raddebugger/

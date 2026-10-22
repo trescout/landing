@@ -74,7 +74,7 @@ Matter enabled devices from different brands (Apple, Google, Amazon, etc.) to sp
 
 - [Core](https://trescout.com/en/discover/core/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/home-automation/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/home-automation/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/home-automation/

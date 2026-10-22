@@ -27,6 +27,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir seyahat asistanısın. TREK üzerindeki MCP (Model Context Protocol) araçlarını kullanarak benim için 3 günlük bir Paris seyahat planı hazırla, bütçemi günlük harcama limitlerine göre ayarla ve yanıma almam gerekenler için bir paketleme listesi oluştur.
 
+Depo: https://github.com/mauriceboe/TREK. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Seyahatlerini dijital ortamda organize etmek, harcamalarını takip etmek ve kendi verisi üzerinde tam kontrol sahibi olmak isteyen gezginler içindir.
 - **Lisans:** AGPL-3.0
 
@@ -34,7 +42,7 @@ Sen bir seyahat asistanısın. TREK üzerindeki MCP (Model Context Protocol) ara
 
 - [GitHub deposu →](https://github.com/mauriceboe/TREK)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -38,7 +38,7 @@ Depende do suporte ao idioma em que o modelo é treinado, os sistemas atuais ago
 - [Transcription](https://trescout.com/pt/dictionary/transcription/)
 - [AI-powered Note Analysis](https://trescout.com/pt/dictionary/ai-powered-note-analysis/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/live-transcription/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/live-transcription/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/live-transcription/

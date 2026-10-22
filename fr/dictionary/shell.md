@@ -45,7 +45,7 @@ Cela peut sembler un peu inhabituel au début, mais une fois que vous avez appri
 - [Destructive Command Guard](https://trescout.com/fr/discover/destructive-command-guard/)
 - [Council of High Intelligence](https://trescout.com/fr/discover/council-of-high-intelligence/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/shell/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/shell/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/shell/

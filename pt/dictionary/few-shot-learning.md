@@ -39,7 +39,7 @@ Se a tarefa for muito complexa ou o modelo tiver baixa capacidade, os exemplos p
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Fine-tuning](https://trescout.com/pt/dictionary/fine-tuning/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/few-shot-learning/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/few-shot-learning/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/few-shot-learning/

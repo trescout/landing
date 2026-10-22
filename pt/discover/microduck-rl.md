@@ -56,6 +56,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero treinar uma política de caminhada (walking) para o robô Microduck usando a biblioteca microduck_rl da Pollen Robotics. Você poderia explicar como configurar o ambiente MuJoCo, como iniciar o comando de treinamento com o algoritmo PPO e os passos para transferir a política de controle resultante para o robô físico?
 
+Repositório: https://github.com/pollen-robotics/microduck_rl. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Perguntas frequentes
 
 - É obrigatório possuir o robô físico Microduck para executar o microduck_rl? Não. A base de código pode ser executada inteiramente de forma virtual no simulador MuJoCo; você pode visualizar a simulação 3D do robô no seu computador.
@@ -69,8 +77,8 @@ Quero treinar uma política de caminhada (walking) para o robô Microduck usando
 - [Reinforcement Learning](https://trescout.com/pt/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/pt/dictionary/cpu/)
 - [GPU](https://trescout.com/pt/dictionary/gpu/)
-- [API](https://trescout.com/pt/dictionary/api/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [API](https://trescout.com/pt/dictionary/api/)
 
 - **Para quem é:** Pesquisadores de robótica, engenheiros mecatrônicos, especialistas em aprendizado por reforço e entusiastas.
 - **Licença:** Apache-2.0 (Açık kaynak lisansı)
@@ -82,7 +90,7 @@ Quero treinar uma política de caminhada (walking) para o robô Microduck usando
 - [Repositório no GitHub →](https://github.com/pollen-robotics/microduck_rl)
 - [Ler em turco →](https://trescout.com/discover/microduck-rl/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-31: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-31: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/microduck-rl/

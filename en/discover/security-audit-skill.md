@@ -2,16 +2,16 @@
 
 Developed by Cloudflare, security-audit-skill is a skill package that enables coding agents to perform multi-stage security audits. It automates security standards in software development processes by generating machine-readable and independently verified findings.
 
-- ★ 29,705
+- ★ 34,917
 - JavaScript
 - GitHub Trending · 2026-09-18
 
 ## Updates
 
+- **October 21, 2026:** Stars 32,941 → 34,917.
+- **October 20, 2026:** Stars 31,356 → 32,941.
+- **October 19, 2026:** Stars 29,705 → 31,356.
 - **October 15, 2026:** Stars 28,095 → 29,705.
-- **October 11, 2026:** Stars 26,426 → 28,095.
-- **October 8, 2026:** Stars 24,564 → 26,426.
-- **October 5, 2026:** Stars 23,147 → 24,564.
 
 ## What you get
 
@@ -42,6 +42,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Initiate a comprehensive security audit for this codebase. Map the architecture to identify entry points, then perform a multi-stage scan to detect vulnerabilities. Subject each potential vulnerability you find to an independent verification process, classifying them as verified, requiring verification, or rejected. Report the results in a structured format and document all findings according to the project's security standards.
 
+Repository: https://github.com/cloudflare/security-audit-skill. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Skill](https://trescout.com/en/dictionary/skill/)
@@ -55,7 +63,7 @@ Initiate a comprehensive security audit for this codebase. Map the architecture 
 - [GitHub repository →](https://github.com/cloudflare/security-audit-skill)
 - [Read in Turkish →](https://trescout.com/discover/security-audit-skill/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/security-audit-skill/

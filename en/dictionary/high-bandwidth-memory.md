@@ -41,7 +41,7 @@ Artificial intelligence models have to read billions of parameters instantaneous
 - [GPU](https://trescout.com/en/dictionary/gpu/)
 - [Apple Silicon](https://trescout.com/en/dictionary/apple-silicon/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/high-bandwidth-memory/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/high-bandwidth-memory/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/high-bandwidth-memory/

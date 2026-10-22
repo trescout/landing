@@ -43,7 +43,7 @@ Always keep the system updated and replace default passwords with strong ones.
 
 - [How-To-Secure-A-Linux-Server](https://trescout.com/en/discover/how-to-secure-a-linux-server/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/linux-server-security/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/linux-server-security/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/linux-server-security/

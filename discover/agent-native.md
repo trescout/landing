@@ -2,16 +2,16 @@
 
 BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications) oluşturmaya odaklanan bir TypeScript çerçevesidir (framework). Geliştiricilerin ajan tabanlı iş akışlarını doğrudan uygulama mimarisine entegre etmelerini sağlar.
 
-- ★ 7.370
+- ★ 7.471
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
 
-- **16 Ekim 2026:** Yıldız 7.259 → 7.370, son sürüm v0.1.282 (15 Ekim 2026).
-- **15 Ekim 2026:** Yıldız 7.155 → 7.259, son sürüm v0.1.281 (14 Ekim 2026).
-- **14 Ekim 2026:** Yıldız 7.130 → 7.155, son sürüm v0.1.280 (13 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 7.121 → 7.130, son sürüm v0.1.279 (12 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 7.470 → 7.471, son sürüm @agent-native/creative-context@0.8.49 (21 Ekim 2026).
+- **21 Ekim 2026:** Yıldız 7.455 → 7.470, son sürüm v0.1.286 (20 Ekim 2026).
+- **20 Ekim 2026:** Yıldız 7.402 → 7.455, son sürüm v0.1.284 (19 Ekim 2026).
+- **17 Ekim 2026:** Yıldız 7.370 → 7.402, son sürüm v0.1.283 (16 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -42,13 +42,21 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Agent-Native çerçevesini kullanarak uygulamam için bir aksiyon tanımlamak istiyorum. defineAction fonksiyonunu kullanarak, gelen veriyi veritabanına işleyecek ve hem kullanıcı arayüzü hem de yapay zekâ ajanı tarafından erişilebilir olacak bir yapı kurmama yardımcı ol.
 
+Depo: https://github.com/BuilderIO/agent-native. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yapay zekâ ajanlarını sohbet penceresinin dışına çıkarıp doğrudan uygulama mimarisine entegre etmek isteyen geliştiriciler içindir.
 
 ## Bağlantılar
 
 - [GitHub deposu →](https://github.com/BuilderIO/agent-native)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

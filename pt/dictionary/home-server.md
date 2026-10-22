@@ -68,7 +68,7 @@ Sim, com disciplina de atualização e senha. A porta aberta para o exterior é 
 - [Personal Cloud](https://trescout.com/pt/dictionary/personal-cloud/)
 - [Backup Program](https://trescout.com/pt/dictionary/backup-program/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/home-server/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/home-server/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/home-server/

@@ -37,7 +37,7 @@ Não, a maneira mais inteligente não é reinventar a roda e usar as melhores pr
 
 - [Claude Cookbooks](https://trescout.com/pt/discover/claude-cookbooks/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cookbooks/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cookbooks/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cookbooks/

@@ -38,7 +38,7 @@ C'est sûr tant que vous pouvez contrôler les opérations que vous autorisez l'
 
 - [Cwc Workshops](https://trescout.com/fr/discover/cwc-workshops/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/computer-use/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/computer-use/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/computer-use/

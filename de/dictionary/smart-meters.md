@@ -38,7 +38,7 @@ Die Übertragung erfolgt in der Regel über verschlüsselte Protokolle und versu
 - [Data Pipeline](https://trescout.com/de/dictionary/data-pipeline/)
 - [Dashboard](https://trescout.com/de/dictionary/dashboard/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/smart-meters/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/smart-meters/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/smart-meters/

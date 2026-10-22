@@ -2,17 +2,17 @@
 
 Puppeteer es una biblioteca de automatización del navegador que se utiliza para controlar los navegadores Chrome y Firefox. Desarrollada con TypeScript, esta herramienta ofrece una interfaz estándar para la automatización de pruebas y operaciones de web scraping en páginas web.
 
-- ★ 95.695
+- ★ 95.731
 - GitHub Trending · 2026-06-15
 
 **Nota de TreScout:** Le permite usar el navegador no manualmente sino con código: abre la página, hace clic, completa un formulario, toma una captura de pantalla o un PDF. Playwright, que hace el mismo trabajo, es más completo, si necesitas más de un navegador, busca allí. La instalación también descarga una copia del navegador, que ocupa espacio.
 
 ## Actualizaciones
 
+- **20 de octubre de 2026:** Estrellas 95,695 → 95,731, última versión puppeteer-core-v25.15.0 (20 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 95,670 → 95,695, última versión browsers-v3.2.5 (14 de octubre de 2026).
 - **8 de octubre de 2026:** Estrellas 95,622 → 95,670, última versión browsers-v3.2.4 (8 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 95,581 → 95,622, última versión browsers-v3.2.3 (23 de septiembre de 2026).
-- **14 de septiembre de 2026:** Estrellas 95,540 → 95,581, última versión puppeteer-core-v25.11.0 (14 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -40,6 +40,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un experto en automatización web. Usando la biblioteca Puppeteer, cree un script JavaScript simple que abra una página web, escriba texto en un campo específico e imprima los resultados en la pantalla. Proporcione un ejemplo de código que incluya pasos para iniciar el navegador, crear una nueva página, navegar a una URL e imprimir el título de la página en la consola.
 
+Repositorio: https://github.com/puppeteer/puppeteer. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Web Scraping](https://trescout.com/es/dictionary/web-scraping/)
@@ -54,7 +62,7 @@ Eres un experto en automatización web. Usando la biblioteca Puppeteer, cree un 
 - [Repositorio en GitHub →](https://github.com/puppeteer/puppeteer)
 - [Leer en turco →](https://trescout.com/discover/puppeteer/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/puppeteer/

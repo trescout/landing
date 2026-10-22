@@ -2,16 +2,16 @@
 
 VoiceStudio es una plataforma de procesamiento de audio de código abierto que realiza tareas como clonación de voz, doblaje y transcripción sin necesidad de internet. Ofrece una alternativa que funciona localmente al servicio de síntesis de voz ElevenLabs y admite 646 idiomas.
 
-- ★ 67.557
+- ★ 76.515
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 71,875 → 76,515, última versión v0.5.6 (23 de septiembre de 2026).
+- **17 de octubre de 2026:** Estrellas 67,557 → 71,875, última versión v0.5.6 (23 de septiembre de 2026).
 - **15 de octubre de 2026:** Estrellas 61,990 → 67,557, última versión v0.5.6 (23 de septiembre de 2026).
 - **13 de octubre de 2026:** Estrellas 57,903 → 61,990, última versión v0.5.6 (23 de septiembre de 2026).
-- **11 de octubre de 2026:** Estrellas 54,979 → 57,903, última versión v0.5.6 (23 de septiembre de 2026).
-- **8 de octubre de 2026:** Estrellas 52,161 → 54,979, última versión v0.5.6 (23 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -36,6 +36,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo realizar clonación de voz, doblaje de video o lectura de texto en mi hardware local utilizando VoiceStudio? Explica los pasos básicos que debo seguir para gestionar los modelos de voz dentro de la aplicación, realizar la clonación añadiendo una nueva muestra de voz y ejecutar los procesos de síntesis de voz multilingüe de la manera más eficiente.
 
+Repositorio: https://github.com/debpalash/VoiceStudio. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
@@ -48,7 +56,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 - [Repositorio en GitHub →](https://github.com/debpalash/VoiceStudio)
 - [Leer en turco →](https://trescout.com/discover/voicestudio/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-03: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-03: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/voicestudio/

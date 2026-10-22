@@ -37,6 +37,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Transcribe.cpp aracını kullanarak yerel bir ses dosyasını metne dönüştürmek istiyorum. Sistemimde derlenmiş olan transcribe-cli aracını ve indirdiğim GGUF formatındaki model dosyasını kullanarak, 16 kHz mono WAV formatındaki ses dosyamı nasıl işleyebilirim? Lütfen bu işlem için gerekli olan komut yapısını ve dikkat etmem gereken dosya yollarını açıkla.
 
+Depo: https://github.com/handy-computer/transcribe.cpp. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi donanımı üzerinde gizlilik odaklı ve hızlı konuşma tanıma sistemleri çalıştırmak isteyen geliştiriciler içindir.
 - **Lisans:** MIT
 
@@ -44,7 +52,7 @@ Transcribe.cpp aracını kullanarak yerel bir ses dosyasını metne dönüştür
 
 - [GitHub deposu →](https://github.com/handy-computer/transcribe.cpp)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

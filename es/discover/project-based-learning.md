@@ -18,6 +18,10 @@ Dado que se trata de una lista de software, no requiere instalación. Puede sele
 
 - [Fuente oficial →](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+## Términos relacionados del glosario
+
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
 - **Para quién es:** Es para desarrolladores que desean aprender los procesos de desarrollo de software mediante la creación de aplicaciones del mundo real en lugar de conocimientos teóricos.
 - **Licencia:** MIT
 
@@ -26,7 +30,7 @@ Dado que se trata de una lista de software, no requiere instalación. Puede sele
 - [Repositorio en GitHub →](https://github.com/practical-tutorials/project-based-learning)
 - [Leer en turco →](https://trescout.com/discover/project-based-learning/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/project-based-learning/

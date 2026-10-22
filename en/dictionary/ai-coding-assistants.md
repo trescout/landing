@@ -38,7 +38,7 @@ No, it is an auxiliary tool that makes the software developer's job easier and m
 
 - [Graphify](https://trescout.com/en/discover/graphify/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-coding-assistants/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-coding-assistants/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-coding-assistants/

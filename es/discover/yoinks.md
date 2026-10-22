@@ -51,6 +51,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero descargar vídeos de plataformas como YouTube, X, Instagram o TikTok. Utilizando esta herramienta que funciona en la terminal, configúrala para que guarde el enlace del vídeo que proporcione directamente en mi carpeta de descargas local y me ofrezca opciones de resolución. Asegúrate de que el proceso de descarga sea limpio, sin anuncios ni redirecciones durante la operación.
 
+Repositorio: https://github.com/pablostanley/yoinks. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
@@ -64,7 +72,7 @@ Quiero descargar vídeos de plataformas como YouTube, X, Instagram o TikTok. Uti
 - [Repositorio en GitHub →](https://github.com/pablostanley/yoinks)
 - [Leer en turco →](https://trescout.com/discover/yoinks/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-02: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-02: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/yoinks/

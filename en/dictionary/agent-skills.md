@@ -76,7 +76,7 @@ Yes. Platforms package common capabilities, and you write your own for custom wo
 - [Claude Obsidian](https://trescout.com/en/discover/claude-obsidian/)
 - [Stitch Skills](https://trescout.com/en/discover/stitch-skills/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agent-skills/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agent-skills/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agent-skills/

@@ -38,7 +38,7 @@ Yes, you can package the codes you use frequently and reuse them in your other p
 - [Framework](https://trescout.com/en/dictionary/framework/)
 - [Tools](https://trescout.com/en/dictionary/tools/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/common-libraries/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/common-libraries/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/common-libraries/

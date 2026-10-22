@@ -43,6 +43,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yazılım geliştirme yardımcısısın. Mevcut kod tabanımı analiz et, yapılması gereken görevleri belirle ve terminal üzerinden etkileşimli bir şekilde kodlama süreçlerini yönetmeme yardımcı ol. İşlemleri gerçekleştirirken birleşik yapay zekâ sağlayıcılarını kullanarak en uygun çözümleri öner ve süreç boyunca gerekli araç çağrılarını yönet.
 
+Depo: https://github.com/earendil-works/pi. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Yazılım geliştirme süreçlerini otomatikleştirmek ve farklı yapay zekâ modellerini tek bir terminal arayüzü üzerinden yönetmek isteyen geliştiriciler içindir.
 - **Lisans:** MIT
 
@@ -50,7 +58,7 @@ Sen bir yazılım geliştirme yardımcısısın. Mevcut kod tabanımı analiz et
 
 - [GitHub deposu →](https://github.com/earendil-works/pi)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

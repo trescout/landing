@@ -2,16 +2,16 @@
 
 Rea is an AI agent-based reverse engineering tool that analyzes everything from application behavior to native binaries. Developed in TypeScript, this software aims to decode the working logic of complex systems through automated processes.
 
-- ★ 280,503
+- ★ 352,431
 - TypeScript
 - GitHub Trending · 2026-10-06
 
 ## Updates
 
-- **October 16, 2026:** Stars 255,025 → 280,503, latest release rea-agents-6.5.0 (October 14, 2026).
-- **October 15, 2026:** Stars 227,917 → 255,025, latest release rea-agents-6.5.0 (October 14, 2026).
-- **October 14, 2026:** Stars 223,438 → 227,917, latest release rea-agents-6.5.0 (October 14, 2026).
-- **October 14, 2026:** Stars 194,215 → 223,438, latest release rea-agents-6.4.0 (October 11, 2026).
+- **October 21, 2026:** Stars 329,371 → 352,431, latest release rea-agents-6.7.0 (October 18, 2026).
+- **October 19, 2026:** Stars 313,106 → 329,371, latest release rea-agents-6.7.0 (October 18, 2026).
+- **October 18, 2026:** Stars 296,420 → 313,106, latest release rea-agents-6.7.0 (October 18, 2026).
+- **October 17, 2026:** Stars 280,503 → 296,420, latest release rea-agents-6.5.0 (October 14, 2026).
 
 ## What you get
 
@@ -49,6 +49,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to configure the REA reverse engineering tool on my system. First, complete the necessary installation steps with the 'npx rea-agents setup' command and establish the MCP (Model Context Protocol) connection for my AI interface. Then, run the 'npx -y rea-agents@latest doctor' command to check dependencies, inspect a local application of my choice, and explain with evidence how the feature I am looking for works.
 
+Repository: https://github.com/morluto/rea. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Native Binaries](https://trescout.com/en/dictionary/native-binaries/)
@@ -66,7 +74,7 @@ I want to configure the REA reverse engineering tool on my system. First, comple
 - [GitHub repository →](https://github.com/morluto/rea)
 - [Read in Turkish →](https://trescout.com/discover/rea/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-06: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-06: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/rea/

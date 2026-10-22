@@ -2,16 +2,16 @@
 
 Jenkins est un serveur d'intégration continue et de livraison continue open source qui automatise les processus de développement de logiciels. Cette plateforme basée sur Java propose un large écosystème de plugins pour gérer les phases de compilation, de test et de déploiement des projets logiciels.
 
-- ★ 26 648
+- ★ 26 682
 - Java
 - GitHub Trending · 2026-07-27
 
 ## Mises à jour
 
+- **20 octobre 2026:** Étoiles 26,648 → 26,682, dernière version jenkins-2.587 (20 octobre 2026).
 - **13 octobre 2026:** Étoiles 26,620 → 26,648, dernière version jenkins-2.586 (13 octobre 2026).
 - **6 octobre 2026:** Étoiles 26,603 → 26,620, dernière version jenkins-2.585 (6 octobre 2026).
 - **29 septembre 2026:** Étoiles 26,590 → 26,603, dernière version jenkins-2.584 (29 septembre 2026).
-- **27 septembre 2026:** Étoiles 26,531 → 26,590, dernière version jenkins-2.583 (22 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -51,6 +51,7 @@ Vous pouvez accéder à la page de téléchargement du site officiel, jenkins.io
 
 - [Continuous Integration](https://trescout.com/fr/dictionary/continuous-integration/)
 - [Localhost](https://trescout.com/fr/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs et aux équipes techniques qui souhaitent automatiser leurs processus de développement logiciel.
 - **Licence:** MIT
@@ -60,7 +61,7 @@ Vous pouvez accéder à la page de téléchargement du site officiel, jenkins.io
 - [Dépôt GitHub →](https://github.com/jenkinsci/jenkins)
 - [Lire en turc →](https://trescout.com/discover/jenkins/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-27 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-27 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/jenkins/

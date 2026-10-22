@@ -2,16 +2,16 @@
 
 The AI ​​hedge fund uses autonomous agents to automate financial market analysis and asset management processes. This Python-based project offers an artificial intelligence team model that develops investment strategies by processing market data.
 
-- ★ 63,836
+- ★ 64,107
 - Python
 - GitHub Trending · 2026-07-13
 
 ## Updates
 
+- **October 20, 2026:** Stars 63,836 → 64,107, latest release v2.6.0 (October 19, 2026).
 - **October 3, 2026:** Stars 63,763 → 63,836, latest release v2.5.0 (October 2, 2026).
 - **September 27, 2026:** Stars 63,515 → 63,763, latest release v2.4.1 (September 25, 2026).
 - **September 19, 2026:** Stars 62,721 → 63,515, latest release v2.3.0 (September 18, 2026).
-- **August 7, 2026:** Stars 62,684 → 62,721, latest release v2.2.0 (August 7, 2026).
 
 ## What you get
 
@@ -48,6 +48,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 This tool uses autonomous agents that mimic the strategies of famous investors such as Warren Buffett, Peter Lynch, and Michael Burry to analyze financial markets. By giving certain stock symbols (e.g. AAPL, MSFT) to AI agents, you can examine how these agents evaluate market data, fundamental indicators and technical analysis and make decisions with the logic of a mutual fund.
 
+Repository: https://github.com/virattt/ai-hedge-fund. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [AI Hedge Fund](https://trescout.com/en/dictionary/ai-hedge-fund/)
@@ -61,7 +69,7 @@ This tool uses autonomous agents that mimic the strategies of famous investors s
 - [GitHub repository →](https://github.com/virattt/ai-hedge-fund)
 - [Read in Turkish →](https://trescout.com/discover/ai-hedge-fund/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/ai-hedge-fund/

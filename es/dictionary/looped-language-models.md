@@ -39,7 +39,7 @@ No. Se establece un límite máximo de bucles en los sistemas para evitar el con
 - [Looped Transformer](https://trescout.com/es/dictionary/looped-transformer/)
 - [Inference](https://trescout.com/es/dictionary/inference/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/looped-language-models/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/looped-language-models/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/looped-language-models/

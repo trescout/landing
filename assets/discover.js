@@ -59,7 +59,10 @@
       var box = btn.closest('.disc-cmd, .disc-ai');
       var code = box && (box.querySelector('code') || box.querySelector('.disc-ai-text'));
       if (!code || !navigator.clipboard) return;
-      navigator.clipboard.writeText(code.textContent.trim()).then(function () {
+      // Ajan istemi: gövde + sabit satırlar (depo, sistem, klasör, anahtar, hata) ayrı satırlarda
+      var parts = [code].concat(Array.prototype.slice.call(box.querySelectorAll('.disc-ai-ek')));
+      var text = parts.map(function (el) { return el.textContent.trim(); }).join('\n');
+      navigator.clipboard.writeText(text).then(function () {
         var prev = btn.textContent;
         btn.textContent = M.kopyalandi;
         setTimeout(function () { btn.textContent = prev; }, 1500);
@@ -127,13 +130,33 @@
     return String(s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ı/g, 'i');
   }
 
+  // Arama puanı (2026-10-16): kelime başı eşleşmesi + ad alanı ağırlığı. Önce düz alt dize vardı
+  // ve sonuç sıralanmıyordu: "RAG" ilk sırada "Object Storage" (sto-rag-e) getiriyordu, "API"
+  // teriminin kendisi 65 eşleşmenin 50.'siydi (ilk 16 görünür). Kelime içi eşleşme düşük puanla
+  // sona kalır, kaybolmaz. DeepLearning.AI "Retrieval Augmented Generation" · R4. Sözlük ve keşif
+  // aynı fonksiyonu taşır; scripts/catalog-browsing.test.mjs ikisinin aynı kaldığını sınar.
+  function aramaPuani(ad, metin, q) {
+    var bol = function (s) { return ' ' + s.replace(/[^0-9a-z\u00c0-\uffff]+/g, ' ').trim() + ' '; };
+    var a = bol(ad), m = bol(metin), qq = bol(q).trim(), p = 0;
+    var sozcukler = qq.split(' ');
+    for (var i = 0; i < sozcukler.length; i++) {
+      var w = ' ' + sozcukler[i];
+      if (a.indexOf(w) >= 0) p += 3;
+      else if (m.indexOf(w) >= 0) p += 1;
+      else return metin.indexOf(q) >= 0 ? 0.5 : 0;
+    }
+    if (a.trim() === qq) p += 10;
+    else if (a.trim().indexOf(qq) === 0) p += 5;
+    return p;
+  }
+
   function render() {
     var q = katla(state.q).trim();
     var list = items.filter(function (it) {
       if (state.tag && (it.tags || []).indexOf(state.tag) < 0) return false;
       if (q) {
-        var hay = katla((it.title || '') + ' ' + (tanitim(it) || ''));
-        if (hay.indexOf(q) < 0) return false;
+        it._puan = aramaPuani(katla(it.title || ''), katla((it.title || '') + ' ' + (tanitim(it) || '')), q);
+        if (!(it._puan > 0)) return false;
       }
       return true;
     });
@@ -147,6 +170,8 @@
       return bd.localeCompare(ad) || (b.stars || 0) - (a.stars || 0);
     });
     else list.sort(function (a, b) { return (a.title || '').localeCompare(b.title || '', M.dizi); });
+    // Aramada alaka önce gelir; eşit puanda seçili sıralama korunur (sort kararlı).
+    if (q) list.sort(function (a, b) { return b._puan - a._puan; });
 
     var cnt = document.getElementById('disc-count');
     if (cnt) cnt.textContent = list.length === items.length ? (items.length + M.birim) : (list.length + ' / ' + items.length + M.birim);

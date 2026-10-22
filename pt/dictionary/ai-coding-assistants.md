@@ -38,7 +38,7 @@ Não, é uma ferramenta auxiliar que torna o trabalho do desenvolvedor de softwa
 
 - [Graphify](https://trescout.com/pt/discover/graphify/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-coding-assistants/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-coding-assistants/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-coding-assistants/

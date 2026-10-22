@@ -52,7 +52,7 @@ Sie lernen die Wahrscheinlichkeiten aufeinander folgender Wörter kennen, indem 
 - [Dive Into Llms](https://trescout.com/de/discover/dive-into-llms/)
 - [AstrBot](https://trescout.com/de/discover/astrbot/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/large-language-models/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/large-language-models/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/large-language-models/

@@ -39,7 +39,7 @@ Porque o risco de segurança é muito elevado; Se um software malicioso obtiver 
 - [Universal Android Debloater Next Generation](https://trescout.com/pt/discover/universal-android-debloater-next-generation/)
 - [Tailcat](https://trescout.com/pt/discover/tailcat/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/root/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/root/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/root/

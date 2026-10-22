@@ -71,7 +71,7 @@ From name and function. The touched code is cleared.
 
 - [Clean Code Javascript](https://trescout.com/en/discover/clean-code-javascript/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/clean-code/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/clean-code/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/clean-code/

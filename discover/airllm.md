@@ -2,16 +2,16 @@
 
 AirLLM, 70 milyar ve 405 milyar parametreli dev büyük dil modellerini (LLM) kurumsal sunuculara veya pahalı GPU kümelerine ihtiyaç duymadan, yalnızca 4 GB video belleğine (VRAM) sahip standart tüketici sınıfı ekran kartlarında çalıştıran çığır açıcı bir açık kaynak kütüphanedir.
 
-- ★ 37.368
+- ★ 39.239
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 37.368 → 39.239, son sürüm v4.0.0 (5 Eylül 2026).
 - **12 Ekim 2026:** Yıldız 35.481 → 37.368, son sürüm v4.0.0 (5 Eylül 2026).
 - **7 Ekim 2026:** Yıldız 33.755 → 35.481, son sürüm v4.0.0 (5 Eylül 2026).
 - **6 Eylül 2026:** Yıldız 33.307 → 33.755, son sürüm v4.0.0 (5 Eylül 2026).
-- **31 Ağustos 2026:** Yıldız 31.598 → 33.307, son sürüm v3.3.0 (28 Ağustos 2026).
 
 ## Ne kazandırır?
 
@@ -50,6 +50,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 AirLLM kütüphanesini kullanarak 70 milyar parametreli bir modeli (örneğin meta-llama/Llama-3-70B-Instruct) 4GB VRAM kapasitesine sahip yerel ekran kartımda çalıştırmak istiyorum. Kurulum için pip install airllm komutunu kullandım. Modelimi yüklemek, metin girdisiyle çıktı almak ve bellek taşmasını önlemek için gerekli olan Python kodunu açıklar mısın? Süreçte disk alanımın yeterli olduğundan emin olmam gerektiğini biliyorum, izlemem gereken adımları detaylandırır mısın?
 
+Depo: https://github.com/lyogavin/airllm. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Sınırlı donanım kaynaklarına sahip olup yüksek kapasiteli 70B ve 405B modellerini yerel olarak test etmek, veri madenciliği ve değerlendirme yapmak isteyen araştırmacılar içindir.
 - **Lisans:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
 - **Gereksinim:** Minimum 4 GB VRAM GPU ve yüksek hızlı NVMe SSD disk alanı
@@ -66,7 +74,7 @@ AirLLM kütüphanesini kullanarak 70 milyar parametreli bir modeli (örneğin me
 
 - [GitHub deposu →](https://github.com/lyogavin/airllm)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

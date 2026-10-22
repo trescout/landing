@@ -76,7 +76,7 @@ No conteúdo em cache, sim, no tráfego criptografado e remoto geralmente fica l
 - [User Scanner](https://trescout.com/pt/discover/user-scanner/)
 - [OpenFlux](https://trescout.com/pt/discover/openflux/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/proxy/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/proxy/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/proxy/

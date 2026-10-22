@@ -33,7 +33,7 @@ Embora seja geralmente pensado para jogos, lógicas semelhantes também são usa
 
 - [Artcraft](https://trescout.com/pt/discover/artcraft/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/crafting-engine/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/crafting-engine/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/crafting-engine/

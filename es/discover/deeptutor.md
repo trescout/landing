@@ -2,16 +2,16 @@
 
 DeepTutor es un sistema de tutoría privada basado en el aprendizaje permanente que ofrece procesos educativos personalizados utilizando los datos de los estudiantes. El proyecto tiene como objetivo optimizar la experiencia de aprendizaje con métodos de tutoría individualizados respaldados por inteligencia artificial.
 
-- ★ 40.928
+- ★ 41.717
 - Python
 - GitHub Trending · 2026-07-16
 
 ## Actualizaciones
 
+- **19 de octubre de 2026:** Estrellas 40,928 → 41,717, última versión v1.6.15 (18 de octubre de 2026).
 - **8 de octubre de 2026:** Estrellas 40,808 → 40,928, última versión v1.6.14 (8 de octubre de 2026).
 - **5 de octubre de 2026:** Estrellas 40,358 → 40,808, última versión v1.6.13 (4 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 40,334 → 40,358, última versión v1.6.12 (27 de septiembre de 2026).
-- **27 de septiembre de 2026:** Estrellas 39,561 → 40,334, última versión v1.6.11 (24 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -53,6 +53,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo personalizar mi proceso de aprendizaje utilizando el sistema DeepTutor? Explique los pasos básicos que debo seguir para crear mis propios socios de IA y optimizar mi experiencia de aprendizaje permanente integrando mis materiales de capacitación personalizados en este sistema.
 
+Repositorio: https://github.com/HKUDS/DeepTutor. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Lifelong Learning](https://trescout.com/es/dictionary/lifelong-learning/)
@@ -69,7 +77,7 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 - [Repositorio en GitHub →](https://github.com/HKUDS/DeepTutor)
 - [Leer en turco →](https://trescout.com/discover/deeptutor/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-16: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-16: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/deeptutor/

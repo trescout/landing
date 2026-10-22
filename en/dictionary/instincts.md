@@ -38,7 +38,7 @@ By training with higher quality and more diverse data, the model's ability to re
 - [Machine Learning](https://trescout.com/en/dictionary/machine-learning/)
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/instincts/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/instincts/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/instincts/

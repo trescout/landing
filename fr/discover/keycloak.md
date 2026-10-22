@@ -45,6 +45,7 @@ Pour commencer à utiliser Keycloak, vous devez télécharger le package de dist
 
 - [Containers](https://trescout.com/fr/dictionary/containers/)
 - [Container](https://trescout.com/fr/dictionary/container/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs de logiciels et aux administrateurs système qui souhaitent gérer de manière centralisée et sécurisée les processus d'authentification des utilisateurs et de gestion des accès dans leurs applications.
 - **Licence:** Apache-2.0
@@ -54,7 +55,7 @@ Pour commencer à utiliser Keycloak, vous devez télécharger le package de dist
 - [Dépôt GitHub →](https://github.com/keycloak/keycloak)
 - [Lire en turc →](https://trescout.com/discover/keycloak/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/keycloak/

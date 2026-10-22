@@ -70,7 +70,7 @@ Yes, if the core and plugins are kept up to date. Most attacks come from outdate
 - [Ghost](https://trescout.com/en/discover/ghost/)
 - [Instatic](https://trescout.com/en/discover/instatic/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cms/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cms/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cms/

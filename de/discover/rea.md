@@ -2,16 +2,16 @@
 
 Rea ist ein auf KI-Agenten basierendes Reverse-Engineering-Tool, das alles von Anwendungsverhalten bis hin zu nativen Binärdateien analysiert. Die mit TypeScript entwickelte Software zielt darauf ab, die Arbeitslogik komplexer Systeme durch automatisierte Prozesse zu entschlüsseln.
 
-- ★ 280.503
+- ★ 352.431
 - TypeScript
 - GitHub Trending · 2026-10-06
 
 ## Aktualisierungen
 
-- **16. Oktober 2026:** Sterne 255,025 → 280,503, neueste Version rea-agents-6.5.0 (14. Oktober 2026).
-- **15. Oktober 2026:** Sterne 227,917 → 255,025, neueste Version rea-agents-6.5.0 (14. Oktober 2026).
-- **14. Oktober 2026:** Sterne 223,438 → 227,917, neueste Version rea-agents-6.5.0 (14. Oktober 2026).
-- **14. Oktober 2026:** Sterne 194,215 → 223,438, neueste Version rea-agents-6.4.0 (11. Oktober 2026).
+- **21. Oktober 2026:** Sterne 329,371 → 352,431, neueste Version rea-agents-6.7.0 (18. Oktober 2026).
+- **19. Oktober 2026:** Sterne 313,106 → 329,371, neueste Version rea-agents-6.7.0 (18. Oktober 2026).
+- **18. Oktober 2026:** Sterne 296,420 → 313,106, neueste Version rea-agents-6.7.0 (18. Oktober 2026).
+- **17. Oktober 2026:** Sterne 280,503 → 296,420, neueste Version rea-agents-6.5.0 (14. Oktober 2026).
 
 ## Was es bringt
 
@@ -49,6 +49,14 @@ Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das Reverse-Engineering-Tool REA auf meinem System konfigurieren. Führe zunächst die erforderlichen Installationsschritte mit dem Befehl 'npx rea-agents setup' aus und stelle die MCP-Verbindung (Model Context Protocol, KI-Tool-Protokoll) für meine KI-Schnittstelle her. Führe anschließend den Befehl 'npx -y rea-agents@latest doctor' aus, um die Abhängigkeiten zu überprüfen, untersuche eine von mir ausgewählte lokale Anwendung und erkläre mit Beweisen, wie das von mir gesuchte Feature funktioniert.
 
+Repository: https://github.com/morluto/rea. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
+
+Prüfe vor dem Start, unter welchem Betriebssystem wir arbeiten und ob die notwendigen Tools (z. B. Python, Node.js, Git, Docker) installiert sind. Installiere fehlende Tools schrittweise entsprechend diesem System.
+
+Erstelle einen neuen, leeren Ordner für die Arbeit. Rühre keine Dateien außerhalb dieses Ordners an und lösche nichts. Sag mir vor jedem Befehl in einem Satz, was du tun wirst.
+
+Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn ein Fehler auftritt, füge ich die Fehlermeldung exakt so ein, wie sie ist, und wir beheben sie gemeinsam.
+
 ## Verwandte Begriffe aus dem Glossar
 
 - [Native Binaries](https://trescout.com/de/dictionary/native-binaries/)
@@ -66,7 +74,7 @@ Ich möchte das Reverse-Engineering-Tool REA auf meinem System konfigurieren. F�
 - [GitHub-Repository →](https://github.com/morluto/rea)
 - [Auf Türkisch lesen →](https://trescout.com/discover/rea/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-06 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-06 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/rea/

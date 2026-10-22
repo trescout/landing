@@ -29,6 +29,7 @@ Um mit der Nutzung der Plattform zu beginnen, können Sie die offizielle Website
 
 - [CRM](https://trescout.com/de/dictionary/crm/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für kleine, mittlere und große Unternehmen sowie Freiberufler, die ihre Geschäftsprozesse über eine einzige Plattform digitalisieren und die betriebliche Effizienz steigern möchten.
 - **Lizenz:** AGPL-3.0
@@ -38,7 +39,7 @@ Um mit der Nutzung der Plattform zu beginnen, können Sie die offizielle Website
 - [GitHub-Repository →](https://github.com/ever-co/ever-gauzy)
 - [Auf Türkisch lesen →](https://trescout.com/discover/ever-gauzy/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-14 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-14 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/ever-gauzy/

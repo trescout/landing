@@ -41,7 +41,7 @@ Parce que les règles de fonctionnement de base de l’appareil sont protégées
 - [Romm](https://trescout.com/fr/discover/romm/)
 - [Lighthouse](https://trescout.com/fr/discover/lighthouse/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/rom/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/rom/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/rom/

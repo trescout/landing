@@ -2,16 +2,16 @@
 
 FreeLLMAPI fournit un routage intelligent et une tolérance aux pannes en regroupant 34 principaux fournisseurs de modèles de langage gratuits différents dans une seule API REST au format OpenAI.
 
-- ★ 35 948
+- ★ 38 660
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Mises à jour
 
-- **16 octobre 2026:** Étoiles 34,584 → 35,948, dernière version v0.15.0 (15 octobre 2026).
-- **13 octobre 2026:** Étoiles 33,595 → 34,584, dernière version v0.14.2 (13 octobre 2026).
-- **12 octobre 2026:** Étoiles 33,363 → 33,595, dernière version v0.13.10 (12 octobre 2026).
-- **12 octobre 2026:** Étoiles 33,101 → 33,363, dernière version v0.13.9 (11 octobre 2026).
+- **21 octobre 2026:** Étoiles 38,000 → 38,660, dernière version v0.16.7 (21 octobre 2026).
+- **20 octobre 2026:** Étoiles 37,418 → 38,000, dernière version v0.16.6 (20 octobre 2026).
+- **19 octobre 2026:** Étoiles 37,306 → 37,418, dernière version v0.16.5 (19 octobre 2026).
+- **19 octobre 2026:** Étoiles 36,776 → 37,306, dernière version v0.16.4 (19 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -61,6 +61,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pouvez-vous expliquer avec des exemples de code comment exécuter l'outil FreeLLMAPI sur mon serveur local avec Docker, comment faire pointer le SDK OpenAI Node.js vers ce point de terminaison local et comment activer l'utilisation d'un modèle de secours automatique en cas de défaillance d'un fournisseur ?
 
+Dépôt : https://github.com/tashfeenahmed/freellmapi. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Questions fréquemment posées
 
 - Dois-je acheter une clé API pour utiliser FreeLLMAPI ? Non. Le système combine 34 modèles d’IA qui offrent des niveaux gratuits ou fournissent une inférence gratuite accessible au public.
@@ -75,7 +83,7 @@ Pouvez-vous expliquer avec des exemples de code comment exécuter l'outil FreeLL
 - [Localhost](https://trescout.com/fr/dictionary/localhost/)
 - [SDK](https://trescout.com/fr/dictionary/sdk/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
-- [API](https://trescout.com/fr/dictionary/api/)
+- [Open Source](https://trescout.com/fr/dictionary/open-source/)
 
 - **Pour qui:** Développeurs d'intelligence artificielle, chercheurs open source, ingénieurs full-stack et développeurs de prototypes.
 - **Licence:** MIT (Özgür açık kaynak lisansı)
@@ -87,7 +95,7 @@ Pouvez-vous expliquer avec des exemples de code comment exécuter l'outil FreeLL
 - [Dépôt GitHub →](https://github.com/tashfeenahmed/freellmapi)
 - [Lire en turc →](https://trescout.com/discover/freellmapi/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/freellmapi/

@@ -38,7 +38,7 @@ Die Kontextdatenbankstruktur wird durch lokale oder cloudbasierte Sicherheitspro
 - [Vector Database](https://trescout.com/de/dictionary/vector-database/)
 - [Long-term Memory](https://trescout.com/de/dictionary/long-term-memory/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/context-database/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/context-database/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/context-database/

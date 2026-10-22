@@ -41,7 +41,7 @@ Nem sempre; pois você pode não ter passado por verificações de segurança, c
 - [Ipatool](https://trescout.com/pt/discover/ipatool/)
 - [Madeira](https://trescout.com/pt/discover/madeira/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/sideloading/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/sideloading/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/sideloading/

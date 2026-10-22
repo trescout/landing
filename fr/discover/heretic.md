@@ -2,17 +2,17 @@
 
 Heretic est un outil technique qui supprime les contraintes d'alignement de sécurité des modèles de langage basés sur des transformateurs sans nécessiter de processus de recyclage coûteux. Utilisant la technique « Ablitération », cette solution est avancée et orientée vers la recherche.
 
-- ★ 34 271
+- ★ 36 044
 - Python
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 34,271 → 36,044, dernière version v1.4.0 (14 juin 2026).
 - **9 octobre 2026:** Étoiles 32,626 → 34,271, dernière version v1.4.0 (14 juin 2026).
 - **1 octobre 2026:** Étoiles 31,068 → 32,626, dernière version v1.4.0 (14 juin 2026).
 - **10 septembre 2026:** Étoiles 29,513 → 31,068, dernière version v1.4.0 (14 juin 2026).
-- **31 août 2026:** Étoiles 27,018 → 29,513, dernière version v1.4.0 (14 juin 2026).
 
 ## Installation
 
@@ -36,6 +36,7 @@ Cet outil supprime les protections de sécurité du modèle. La responsabilité 
 
 - [Transformer](https://trescout.com/fr/dictionary/transformer/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Chercheurs/utilisateurs avancés en ML
 - **Difficulté:** Connaissance avancée de l'utilisation des poids de modèle
@@ -50,7 +51,7 @@ Cet outil supprime les protections de sécurité du modèle. La responsabilité 
 - [Dépôt GitHub →](https://github.com/p-e-w/heretic)
 - [Lire en turc →](https://trescout.com/discover/heretic/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-05-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/heretic/

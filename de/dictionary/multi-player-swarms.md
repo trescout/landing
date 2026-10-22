@@ -38,7 +38,7 @@ Sie teilen Daten über proprietäre Kommunikationsprotokolle und Messaging-Schni
 - [Multi-agent](https://trescout.com/de/dictionary/multi-agent/)
 - [Agentic System](https://trescout.com/de/dictionary/agentic-system/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/multi-player-swarms/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/multi-player-swarms/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/multi-player-swarms/

@@ -38,7 +38,7 @@ It blocks most ads, but some sites may detect ad blockers and restrict access.
 - [Browser State](https://trescout.com/en/dictionary/browser-state/)
 - [User Experience](https://trescout.com/en/dictionary/user-experience/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ad-blocker/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ad-blocker/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ad-blocker/

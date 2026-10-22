@@ -76,7 +76,7 @@ It varies depending on the service. The policy is read without writing sensitive
 - [Flue](https://trescout.com/en/discover/flue/)
 - [Codex-X](https://trescout.com/en/discover/codex-x/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/prompt/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/prompt/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/prompt/

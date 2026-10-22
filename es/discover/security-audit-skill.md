@@ -2,16 +2,16 @@
 
 Security-audit-skill, desarrollado por Cloudflare, es un paquete de habilidades (skill) que permite a los agentes de codificación realizar auditorías de seguridad de múltiples etapas. Genera hallazgos legibles por máquina y verificados de forma independiente, automatizando los estándares de seguridad en los procesos de desarrollo de software.
 
-- ★ 29.705
+- ★ 34.917
 - JavaScript
 - GitHub Trending · 2026-09-18
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 32,941 → 34,917.
+- **20 de octubre de 2026:** Estrellas 31,356 → 32,941.
+- **19 de octubre de 2026:** Estrellas 29,705 → 31,356.
 - **15 de octubre de 2026:** Estrellas 28,095 → 29,705.
-- **11 de octubre de 2026:** Estrellas 26,426 → 28,095.
-- **8 de octubre de 2026:** Estrellas 24,564 → 26,426.
-- **5 de octubre de 2026:** Estrellas 23,147 → 24,564.
 
 ## Qué aporta
 
@@ -42,6 +42,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Inicia una auditoría de seguridad integral para esta base de código. Mapea la arquitectura para identificar los puntos de entrada y, a continuación, realiza un escaneo de múltiples etapas para detectar vulnerabilidades de seguridad. Somete a cada candidato a vulnerabilidad que encuentres a un proceso de verificación independiente para clasificarlo como verificado, pendiente de verificación o rechazado. Informa los resultados en un formato estructurado y documenta todos los hallazgos de acuerdo con los estándares de seguridad del proyecto.
 
+Repositorio: https://github.com/cloudflare/security-audit-skill. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Skill](https://trescout.com/es/dictionary/skill/)
@@ -55,7 +63,7 @@ Inicia una auditoría de seguridad integral para esta base de código. Mapea la 
 - [Repositorio en GitHub →](https://github.com/cloudflare/security-audit-skill)
 - [Leer en turco →](https://trescout.com/discover/security-audit-skill/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-18: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-18: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/security-audit-skill/

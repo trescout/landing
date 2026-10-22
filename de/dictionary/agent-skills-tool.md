@@ -34,7 +34,7 @@ Es erhöht die Kapazität von KI-Agenten.
 - [Agent Skills](https://trescout.com/de/dictionary/agent-skills/)
 - [Tools](https://trescout.com/de/dictionary/tools/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/agent-skills-tool/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/agent-skills-tool/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agent-skills-tool/

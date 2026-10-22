@@ -44,7 +44,7 @@ It can automate processes such as stock management or sales analysis by making f
 
 - [Odoo](https://trescout.com/en/discover/odoo/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/enterprise-resource-planning/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/enterprise-resource-planning/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/enterprise-resource-planning/

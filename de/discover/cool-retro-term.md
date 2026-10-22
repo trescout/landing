@@ -24,6 +24,7 @@ Um die aktuellste Version auf Ihrem Linux- oder macOS-Betriebssystem zu nutzen, 
 
 - [Emulator](https://trescout.com/de/dictionary/emulator/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Benutzer, die eine nostalgische visuelle Ästhetik auf ihrem Computer suchen und ihr Terminal-Erlebnis personalisieren möchten.
 
@@ -32,7 +33,7 @@ Um die aktuellste Version auf Ihrem Linux- oder macOS-Betriebssystem zu nutzen, 
 - [GitHub-Repository →](https://github.com/Swordfish90/cool-retro-term)
 - [Auf Türkisch lesen →](https://trescout.com/discover/cool-retro-term/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-14 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-14 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/cool-retro-term/

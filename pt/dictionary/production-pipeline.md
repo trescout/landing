@@ -75,7 +75,7 @@ Em um pipeline de produção bem projetado, são utilizados métodos de implanta
 - [Git Push](https://trescout.com/pt/dictionary/git-push/)
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/production-pipeline/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/production-pipeline/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/production-pipeline/

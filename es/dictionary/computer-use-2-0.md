@@ -40,7 +40,7 @@ Sí, el software intermediario especial que permite que la inteligencia artifici
 - [VLM](https://trescout.com/es/dictionary/vlm/)
 - [Sandbox](https://trescout.com/es/dictionary/sandbox/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/computer-use-2-0/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/computer-use-2-0/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/computer-use-2-0/

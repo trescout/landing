@@ -41,7 +41,7 @@ Since artificial intelligence is constantly evolving, business models need to be
 
 - [AiToEarn](https://trescout.com/en/discover/aitoearn/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-driven-earning-models/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-driven-earning-models/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-driven-earning-models/

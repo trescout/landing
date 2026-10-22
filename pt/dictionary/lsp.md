@@ -89,7 +89,7 @@ Enquanto o LSP analisa a escrita de código, o preenchimento de código e os err
 
 - [Oh My Pi](https://trescout.com/pt/discover/oh-my-pi/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/lsp/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/lsp/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/lsp/

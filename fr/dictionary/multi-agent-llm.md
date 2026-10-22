@@ -42,7 +42,7 @@ Ils communiquent en s’envoyant des messages à l’aide de commandes et de for
 
 - [TradingAgents](https://trescout.com/fr/discover/tradingagents/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/multi-agent-llm/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/multi-agent-llm/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/multi-agent-llm/

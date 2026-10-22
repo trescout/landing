@@ -38,7 +38,7 @@ Es zeichnet sich durch einfache Setups aus, aber künstlerische Akzente erforder
 - [Generative AI](https://trescout.com/de/dictionary/generative-ai/)
 - [Multimodal](https://trescout.com/de/dictionary/multimodal/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/ai-video-editing/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/ai-video-editing/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-video-editing/

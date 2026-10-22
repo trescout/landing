@@ -38,7 +38,7 @@ The clearer the job description, the more successful the delegation process will
 - [Subagents](https://trescout.com/en/dictionary/subagents/)
 - [AI Agents](https://trescout.com/en/dictionary/ai-agent/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/task-delegation/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/task-delegation/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/task-delegation/

@@ -49,6 +49,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I would like to examine the 10.5 GHz phased array hardware schematics and FPGA signal processing blocks of the PLFM RADAR project. Could you prepare a simulation Python script that explains FMCW chirp signal generation, Range-Doppler 2D FFT calculation, and data transmission to a Python-based PPI radar display? Could you show the distance and velocity detection algorithm for an artificial target step-by-step?
 
+Repository: https://github.com/NawfalMotii79/PLFM_RADAR. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Frequently asked questions
 
 - Is it possible to build the system at home or in a laboratory? Yes. All PCB schematics, Gerber production files, and FPGA Verilog/VHDL codes for the project are available as open source in the GitHub repository. Boards can be ordered from standard PCB manufacturers and soldered in a laboratory environment.
@@ -58,6 +66,7 @@ I would like to examine the 10.5 GHz phased array hardware schematics and FPGA s
 
 ## Related dictionary terms
 
+- [Drone](https://trescout.com/en/dictionary/drone/)
 - [Patch](https://trescout.com/en/dictionary/patch/)
 - [GUI](https://trescout.com/en/dictionary/gui/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
@@ -73,7 +82,7 @@ I would like to examine the 10.5 GHz phased array hardware schematics and FPGA s
 - [GitHub repository →](https://github.com/NawfalMotii79/PLFM_RADAR)
 - [Read in Turkish →](https://trescout.com/discover/plfm-radar/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/plfm-radar/

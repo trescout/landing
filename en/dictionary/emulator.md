@@ -78,7 +78,7 @@ Yes, emulator software written with clean room reverse engineering principles is
 - [Cool Retro Term](https://trescout.com/en/discover/cool-retro-term/)
 - [Sharpemu](https://trescout.com/en/discover/sharpemu/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/emulator/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/emulator/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/emulator/

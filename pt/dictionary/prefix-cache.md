@@ -38,7 +38,7 @@ Sim, mas como ocupa espaço na memória, deve ser gerenciado de acordo com a cap
 - [Context Window](https://trescout.com/pt/dictionary/context-window/)
 - [Inference](https://trescout.com/pt/dictionary/inference/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/prefix-cache/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/prefix-cache/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/prefix-cache/

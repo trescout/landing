@@ -2,16 +2,16 @@
 
 Développée par Cloudflare, Computer est une bibliothèque TypeScript qui donne aux agents d'intelligence artificielle la possibilité de contrôler un ordinateur local ou distant. Cet outil permet aux agents d'exécuter des commandes sur le système d'exploitation et d'automatiser des tâches complexes en accédant au système de fichiers.
 
-- ★ 9 576
+- ★ 9 659
 - TypeScript
 - GitHub Trending · 2026-08-06
 
 ## Mises à jour
 
+- **21 octobre 2026:** Étoiles 9,576 → 9,659, dernière version @cloudflare/computer@0.6.0 (20 octobre 2026).
 - **13 octobre 2026:** Étoiles 9,532 → 9,576, dernière version @cloudflare/computer@0.5.1 (13 octobre 2026).
 - **9 octobre 2026:** Étoiles 9,481 → 9,532, dernière version @cloudflare/computer@0.5.0 (9 octobre 2026).
 - **5 octobre 2026:** Étoiles 9,410 → 9,481, dernière version @cloudflare/computer@0.4.1 (5 octobre 2026).
-- **2 octobre 2026:** Étoiles 9,339 → 9,410, dernière version @cloudflare/computer@0.4.0 (2 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -37,7 +37,7 @@ Pour commencer à utiliser cet outil, vous devez d'abord inclure le package Clou
 - [Dépôt GitHub →](https://github.com/cloudflare/computer)
 - [Lire en turc →](https://trescout.com/discover/computer/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-06 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-06 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/computer/

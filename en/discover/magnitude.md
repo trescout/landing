@@ -2,16 +2,16 @@
 
 Magnitude is an open-source inference server that integrates with existing AI agents and allows you to run local models suited to your hardware. It works compatibly with coding assistants like Cline and various open-source models, making it easy to leverage local computing power.
 
-- ★ 6,735
+- ★ 7,216
 - TypeScript
 - GitHub Trending · 2026-09-04
 
 ## Updates
 
+- **October 20, 2026:** Stars 6,735 → 7,216, latest release @magnitudedev/cli@0.2.10 (October 20, 2026).
 - **October 15, 2026:** Stars 6,711 → 6,735, latest release @magnitudedev/cli@0.2.9 (October 15, 2026).
 - **October 13, 2026:** Stars 6,657 → 6,711, latest release @magnitudedev/cli@0.2.8 (October 12, 2026).
 - **October 12, 2026:** Stars 6,455 → 6,657, latest release @magnitudedev/cli@0.2.7 (October 11, 2026).
-- **October 6, 2026:** Stars 6,312 → 6,455, latest release @magnitudedev/cli@0.2.6 (October 5, 2026).
 
 ## What you get
 
@@ -34,6 +34,14 @@ Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Set up local models for me with the Magnitude CLI. Install it with `npm i -g @magnitudedev/cli` (or my package manager), then run `magnitude docs onboarding` and follow the instructions.
 
+Repository: https://github.com/magnitudedev/magnitude. Follow the official instructions in the README of this repository for setup and execution.
+
+Before starting, check which OS we are on and if the necessary tools (e.g., Python, Node.js, Git, Docker) are installed. Install any missing ones step-by-step according to this system.
+
+Create a new, empty folder to work in. Do not touch any files outside this folder and do not delete anything. Tell me what you are going to do in one sentence before running each command.
+
+Tell me what I should see on the screen at the end of each step. If an error occurs, I will paste the error message to you exactly as it is, and we will fix it together.
+
 ## Related dictionary terms
 
 - [Local](https://trescout.com/en/dictionary/local/)
@@ -51,7 +59,7 @@ Set up local models for me with the Magnitude CLI. Install it with `npm i -g @ma
 - [GitHub repository →](https://github.com/magnitudedev/magnitude)
 - [Read in Turkish →](https://trescout.com/discover/magnitude/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/magnitude/

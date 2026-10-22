@@ -2,12 +2,13 @@
 
 Développé par Microsoft, MXC est une solution d'isolation et de confinement en couches basée sur des politiques et écrite en langage Rust. Il est conçu pour limiter en toute sécurité les ressources système et augmenter la sécurité des applications.
 
-- ★ 2 506
+- ★ 2 882
 - Rust
 - GitHub Trending · 2026-06-07
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 2,506 → 2,882, dernière version v1.0.1 (17 octobre 2026).
 - **10 octobre 2026:** Étoiles 1,398 → 2,506, dernière version v1.0.0 (7 octobre 2026).
 - **7 octobre 2026:** Étoiles 641 → 1,398, dernière version v1.0.0 (7 octobre 2026).
 
@@ -45,6 +46,14 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter un extrait de code non fiable dans un conteneur isolé à l'aide de l'outil MXC développé par Microsoft. Selon la documentation du référentiel GitHub du projet, je dois préparer un fichier de configuration basé sur JSON et utiliser le binaire approprié à ma plateforme. Pouvez-vous créer un exemple de fichier de configuration JSON pour moi qui me permettra d'exécuter un script Python avec un système de fichiers et un accès réseau restreints, et expliquer étape par étape comment exécuter cette configuration avec wxc-exec.exe ?
 
+Dépôt : https://github.com/microsoft/mxc. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
+
+Avant de commencer, vérifie quel système d'exploitation nous utilisons et si les outils nécessaires (ex: Python, Node.js, Git, Docker) sont installés. Installe ceux qui manquent étape par étape selon ce système.
+
+Crée un nouveau dossier vide pour travailler. Ne touche pas aux fichiers en dehors de ce dossier et ne supprime rien. Avant chaque commande, décris ce que tu vas faire en une phrase.
+
+Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une erreur survient, je te copierai le message d'erreur tel quel et nous la corrigerons ensemble.
+
 ## Termes liés du glossaire
 
 - [Rust](https://trescout.com/fr/dictionary/rust/)
@@ -58,7 +67,7 @@ Je souhaite exécuter un extrait de code non fiable dans un conteneur isolé à 
 - [Dépôt GitHub →](https://github.com/microsoft/mxc)
 - [Lire en turc →](https://trescout.com/discover/mxc/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/mxc/

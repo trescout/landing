@@ -40,7 +40,7 @@ No, los datos no pueden ser leídos directamente por humanos ya que están en fo
 
 - [Protobuf](https://trescout.com/es/discover/protobuf/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/protocol-buffers/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/protocol-buffers/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/protocol-buffers/

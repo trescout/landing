@@ -2,16 +2,16 @@
 
 Jenkins é um servidor de integração contínua e entrega contínua de código aberto que automatiza os processos de desenvolvimento de software. Esta plataforma baseada em Java oferece um amplo ecossistema de plugins para gerenciar as fases de compilação, teste e implantação de projetos de software.
 
-- ★ 26.648
+- ★ 26.682
 - Java
 - GitHub Trending · 2026-07-27
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 26,648 → 26,682, versão mais recente jenkins-2.587 (20 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 26,620 → 26,648, versão mais recente jenkins-2.586 (13 de outubro de 2026).
 - **6 de outubro de 2026:** Estrelas 26,603 → 26,620, versão mais recente jenkins-2.585 (6 de outubro de 2026).
 - **29 de setembro de 2026:** Estrelas 26,590 → 26,603, versão mais recente jenkins-2.584 (29 de setembro de 2026).
-- **27 de setembro de 2026:** Estrelas 26,531 → 26,590, versão mais recente jenkins-2.583 (22 de setembro de 2026).
 
 ## O que você ganha
 
@@ -51,6 +51,7 @@ Você pode acessar a página de download no site oficial, jenkins.io, selecionar
 
 - [Continuous Integration](https://trescout.com/pt/dictionary/continuous-integration/)
 - [Localhost](https://trescout.com/pt/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores e equipes técnicas que desejam automatizar seus processos de desenvolvimento de software.
 - **Licença:** MIT
@@ -60,7 +61,7 @@ Você pode acessar a página de download no site oficial, jenkins.io, selecionar
 - [Repositório no GitHub →](https://github.com/jenkinsci/jenkins)
 - [Ler em turco →](https://trescout.com/discover/jenkins/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-27: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-27: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/jenkins/

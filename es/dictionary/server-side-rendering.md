@@ -40,7 +40,7 @@ Aumenta la carga del servidor y es más complejo de instalar; Puede que no sea n
 - [Next.js](https://trescout.com/es/discover/next-js/)
 - [Nuxt](https://trescout.com/es/discover/nuxt/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/server-side-rendering/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/server-side-rendering/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/server-side-rendering/

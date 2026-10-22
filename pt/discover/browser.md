@@ -53,6 +53,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um especialista em automação web. Quero que você extraia dados do site especificado da maneira mais eficiente possível usando o navegador headless Lightpanda. Otimize o uso de memória, siga as regras do robots.txt e apresente os dados obtidos em um formato estruturado. Ao realizar a operação, ajuste dinamicamente os tempos de espera (wait-selector ou wait-ms) necessários para reduzir a margem de erro.
 
+Repositório: https://github.com/lightpanda-io/browser. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Headless Browser](https://trescout.com/pt/dictionary/headless-browser/)
@@ -67,7 +75,7 @@ Você é um especialista em automação web. Quero que você extraia dados do si
 - [Repositório no GitHub →](https://github.com/lightpanda-io/browser)
 - [Ler em turco →](https://trescout.com/discover/browser/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-08: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-08: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/browser/

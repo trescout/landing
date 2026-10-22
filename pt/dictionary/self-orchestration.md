@@ -39,7 +39,7 @@ Normalmente você só precisa definir a meta inicialmente, o sistema cuida do re
 - [Data Pipeline](https://trescout.com/pt/dictionary/data-pipeline/)
 - [MCP](https://trescout.com/pt/dictionary/mcp/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/self-orchestration/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/self-orchestration/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/self-orchestration/

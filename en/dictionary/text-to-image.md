@@ -39,7 +39,7 @@ Using detailed and clearly written prompt expressions directly increases the qua
 - [Prompt Engineering](https://trescout.com/en/dictionary/prompt-engineering/)
 - [Multimodal](https://trescout.com/en/dictionary/multimodal/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/text-to-image/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/text-to-image/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/text-to-image/

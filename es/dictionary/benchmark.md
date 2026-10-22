@@ -75,7 +75,7 @@ Varía según la tarea: la precisión, la velocidad y el costo se leen juntos. U
 - [SIA](https://trescout.com/es/discover/sia/)
 - [Harvey Labs](https://trescout.com/es/discover/harvey-labs/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/benchmark/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/benchmark/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/benchmark/

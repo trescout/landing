@@ -39,7 +39,7 @@ Aunque los procesadores tradicionales funcionan con un sistema binario, se puede
 - [LLM Inference](https://trescout.com/es/dictionary/llm-inference/)
 - [FP8](https://trescout.com/es/dictionary/fp8/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/ternary/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/ternary/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ternary/

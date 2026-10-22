@@ -2,17 +2,17 @@
 
 Twenty es una alternativa de código abierto a Salesforce que permite a los equipos técnicos crear un CRM moderno que se puede personalizar según sus procesos comerciales. Puede alojar este sistema, que se centra en flujos de trabajo respaldados por inteligencia artificial, en su propio servidor.
 
-- ★ 58.411
+- ★ 58.824
 - TypeScript
 - Lisans: özel
 - GitHub Trending · 26 May 2026
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 58,665 → 58,824, última versión twenty/v2.50.0 (21 de octubre de 2026).
+- **20 de octubre de 2026:** Estrellas 58,411 → 58,665, última versión sdk/v2.49.0 (19 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 58,367 → 58,411, última versión sdk/v2.48.0 (16 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 58,241 → 58,367, última versión twenty/v2.47.0 (15 de octubre de 2026).
-- **12 de octubre de 2026:** Estrellas 57,935 → 58,241, última versión twenty/v2.46.0 (12 de octubre de 2026).
-- **5 de octubre de 2026:** Estrellas 57,768 → 57,935, última versión twenty/v2.45.0 (5 de octubre de 2026).
 
 ## Qué aporta
 
@@ -65,6 +65,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero instalar un CRM de código abierto llamado Twenty; cree una nueva aplicación en la terminal con el comando 'npx create-twenty-app my-app', luego publíquela en mi espacio de trabajo con 'npx veinte app:publish --private'. Dígame también cómo ejecutarlo con Docker Compose para autohospedaje.
 
+Repositorio: https://github.com/twentyhq/twenty. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [CRM](https://trescout.com/es/dictionary/crm/)
@@ -86,7 +94,7 @@ Quiero instalar un CRM de código abierto llamado Twenty; cree una nueva aplicac
 - [Repositorio en GitHub →](https://github.com/twentyhq/twenty)
 - [Leer en turco →](https://trescout.com/discover/twenty/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-26: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-26: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/twenty/

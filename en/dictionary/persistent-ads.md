@@ -38,7 +38,7 @@ These types of ads can be hidden with the help of browser extensions or ad block
 - [Frontend Stack](https://trescout.com/en/dictionary/frontend-stack/)
 - [Web Interface](https://trescout.com/en/dictionary/web-interface/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/persistent-ads/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/persistent-ads/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/persistent-ads/

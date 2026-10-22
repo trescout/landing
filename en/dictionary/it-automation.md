@@ -34,7 +34,7 @@ No, automation frees you from boring tasks and allows you to focus on more valua
 - [Agentic Workflows](https://trescout.com/en/dictionary/agentic-workflows/)
 - [Deployment](https://trescout.com/en/dictionary/deployment/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/it-automation/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/it-automation/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/it-automation/

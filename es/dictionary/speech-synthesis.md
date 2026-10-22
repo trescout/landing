@@ -38,7 +38,7 @@ Sí, los modelos avanzados pueden reflejar en el tono las emociones del texto, c
 - [Voice Cloning](https://trescout.com/es/dictionary/voice-cloning/)
 - [NLP](https://trescout.com/es/dictionary/nlp/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/speech-synthesis/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/speech-synthesis/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/speech-synthesis/

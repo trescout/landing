@@ -39,7 +39,7 @@ Cuando los agentes de inteligencia artificial autónomos entran en un bucle lóg
 - [Cloud Computing](https://trescout.com/es/dictionary/cloud-computing/)
 - [Agentic AI](https://trescout.com/es/dictionary/agentic-ai/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/hard-budget-caps/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/hard-budget-caps/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/hard-budget-caps/

@@ -2,16 +2,16 @@
 
 PostHog é uma plataforma abrangente que reúne ferramentas como observabilidade de inteligência artificial, análise e repetição de sessão para processos de desenvolvimento de produtos. Ele permite que desenvolvedores de software criem produtos autônomos rastreando bugs, gerenciando experimentos e analisando dados do usuário.
 
-- ★ 40.305
+- ★ 40.372
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Atualizações
 
-- **16 de outubro de 2026:** Estrelas 40,286 → 40,305, versão mais recente desktop-v0.61.729 (16 de outubro de 2026).
-- **15 de outubro de 2026:** Estrelas 40,280 → 40,286, versão mais recente desktop-v0.61.716 (15 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 40,256 → 40,280, versão mais recente desktop-v0.61.694 (14 de outubro de 2026).
-- **13 de outubro de 2026:** Estrelas 40,244 → 40,256, versão mais recente desktop-v0.61.686 (13 de outubro de 2026).
+- **21 de outubro de 2026:** Estrelas 40,357 → 40,372, versão mais recente desktop-v0.61.779 (21 de outubro de 2026).
+- **20 de outubro de 2026:** Estrelas 40,331 → 40,357, versão mais recente desktop-v0.61.762 (20 de outubro de 2026).
+- **18 de outubro de 2026:** Estrelas 40,315 → 40,331, versão mais recente desktop-v0.61.746 (18 de outubro de 2026).
+- **17 de outubro de 2026:** Estrelas 40,305 → 40,315, versão mais recente desktop-v0.61.737 (16 de outubro de 2026).
 
 ## O que você ganha
 
@@ -33,6 +33,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Preciso analisar o comportamento do usuário em meu produto usando a plataforma PostHog. Quais ferramentas devo usar para detectar erros, revisar replays de sessões e monitorar o desempenho dos meus recursos com tecnologia de IA? Explique as etapas que preciso seguir para automatizar os processos de coleta e análise de dados.
 
+Repositório: https://github.com/PostHog/posthog. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [AI Observability](https://trescout.com/pt/dictionary/ai-observability/)
@@ -47,7 +55,7 @@ Preciso analisar o comportamento do usuário em meu produto usando a plataforma 
 - [Repositório no GitHub →](https://github.com/PostHog/posthog)
 - [Ler em turco →](https://trescout.com/discover/posthog/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-17: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-17: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/posthog/

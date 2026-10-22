@@ -2,16 +2,16 @@
 
 Desarrollado con el lenguaje Go, Pentagi ofrece un sistema de agentes de inteligencia artificial (agentes de IA) totalmente autónomos que pueden realizar pruebas de penetración complejas. El sistema tiene como objetivo estandarizar flujos de trabajo autónomos para detectar y explotar vulnerabilidades.
 
-- ★ 30.107
+- ★ 31.649
 - Go
 - GitHub Trending · 2026-07-10
 
 ## Actualizaciones
 
+- **21 de octubre de 2026:** Estrellas 30,107 → 31,649, última versión v2.2.0 (5 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 28,092 → 30,107, última versión v2.2.0 (5 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 26,612 → 28,092, última versión v2.2.0 (5 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 25,256 → 26,612, última versión v2.2.0 (5 de octubre de 2026).
-- **5 de octubre de 2026:** Estrellas 24,299 → 25,256, última versión v2.2.0 (5 de octubre de 2026).
 
 ## Qué aporta
 
@@ -34,6 +34,14 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero iniciar una prueba de penetración autónoma en el sistema de destino utilizando el sistema PentAGI. ¿Cómo puedo configurar el flujo de trabajo necesario para que este agente de inteligencia artificial que se ejecuta en el entorno Docker detecte vulnerabilidades de seguridad, escanee usando herramientas como nmap y sqlmap y presente los hallazgos en un informe detallado?
 
+Repositorio: https://github.com/vxcontrol/pentagi. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
+
+Antes de empezar, comprueba en qué sistema operativo estamos y si las herramientas necesarias (ej. Python, Node.js, Git, Docker) están instaladas. Instala las que falten paso a paso según este sistema.
+
+Crea una carpeta nueva y vacía para trabajar. No toques ningún archivo fuera de esta carpeta y no borres nada. Antes de ejecutar cada comando, dime qué vas a hacer en una frase.
+
+Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error, te pegaré el mensaje de error tal cual y lo solucionaremos juntos.
+
 ## Términos relacionados del glosario
 
 - [Penetration Testing](https://trescout.com/es/dictionary/penetration-testing/)
@@ -47,7 +55,7 @@ Quiero iniciar una prueba de penetración autónoma en el sistema de destino uti
 - [Repositorio en GitHub →](https://github.com/vxcontrol/pentagi)
 - [Leer en turco →](https://trescout.com/discover/pentagi/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-10: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-10: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/pentagi/

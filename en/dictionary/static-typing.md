@@ -38,7 +38,7 @@ It requires you to write a little more code in the beginning, but it is safer in
 
 - [TypeScript](https://trescout.com/en/discover/typescript/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/static-typing/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/static-typing/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/static-typing/

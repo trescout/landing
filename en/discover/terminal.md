@@ -43,6 +43,7 @@ You can easily download the Windows Terminal application from Microsoft Store. A
 
 - [Console Host](https://trescout.com/en/dictionary/console-host/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It's for anyone who uses the command line on Windows and needs a more modern, functional terminal interface.
 - **License:** MIT
@@ -52,7 +53,7 @@ You can easily download the Windows Terminal application from Microsoft Store. A
 - [GitHub repository →](https://github.com/microsoft/terminal)
 - [Read in Turkish →](https://trescout.com/discover/terminal/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/terminal/

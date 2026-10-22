@@ -40,6 +40,14 @@ Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Open Notebook aracını kurmak istiyorum. Docker Desktop yüklü durumda. Öncelikle curl komutu ile docker-compose.yml dosyasını indirmem, ardından dosya içindeki OPEN_NOTEBOOK_ENCRYPTION_KEY kısmını kendime özel bir şifre ile değiştirmem gerekiyor. Son aşamada ise docker compose up -d komutunu çalıştırarak kurulumu tamamlamam lazım. Bu süreçte dikkat etmem gereken başka bir ayar veya adım var mı?
 
+Depo: https://github.com/lfnovo/open-notebook. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 - **Kimin için:** Kendi verileri üzerinde tam kontrol sahibi olmak isteyen, gizlilik odaklı yapay zekâ destekli not analizi ve içerik üretimi arayan kullanıcılar için uygundur.
 - **Lisans:** MIT
 
@@ -47,7 +55,7 @@ Open Notebook aracını kurmak istiyorum. Docker Desktop yüklü durumda. Öncel
 
 - [GitHub deposu →](https://github.com/lfnovo/open-notebook)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

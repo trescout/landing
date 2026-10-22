@@ -41,7 +41,7 @@ Sí, la puntuación suele ser realizada por expertos capacitados o por un públi
 - [AI Skills](https://trescout.com/es/dictionary/ai-skills/)
 - [Hallucination](https://trescout.com/es/dictionary/hallucination/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/rlhf/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/rlhf/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/rlhf/

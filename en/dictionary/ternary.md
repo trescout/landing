@@ -39,7 +39,7 @@ Although traditional processors work with the binary system, ternary architectur
 - [LLM Inference](https://trescout.com/en/dictionary/llm-inference/)
 - [FP8](https://trescout.com/en/dictionary/fp8/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ternary/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ternary/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ternary/

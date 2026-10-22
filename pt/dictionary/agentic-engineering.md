@@ -44,7 +44,7 @@ Eles podem cometer erros, por isso a rastreabilidade e a segurança do sistema s
 - [Kilocode](https://trescout.com/pt/discover/kilocode/)
 - [GLM 5](https://trescout.com/pt/discover/glm-5/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agentic-engineering/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agentic-engineering/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agentic-engineering/

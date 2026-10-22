@@ -49,7 +49,7 @@ Since computers understand numbers, not words, we need to convert the text into 
 - [Airllm](https://trescout.com/en/discover/airllm/)
 - [Book to Skill](https://trescout.com/en/discover/book-to-skill/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/token/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/token/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/token/

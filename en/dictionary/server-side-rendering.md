@@ -40,7 +40,7 @@ It increases server load and is more complex to install; It may not be necessary
 - [Next.js](https://trescout.com/en/discover/next-js/)
 - [Nuxt](https://trescout.com/en/discover/nuxt/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/server-side-rendering/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/server-side-rendering/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/server-side-rendering/

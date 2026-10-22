@@ -2,16 +2,16 @@
 
 Immich is a high-performance self-hosted media management solution developed to manage photo and video files. Written in TypeScript, this platform allows users to create a central media archive on their own infrastructure.
 
-- ★ 116,286
+- ★ 116,727
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Updates
 
+- **October 20, 2026:** Stars 116,286 → 116,727, latest release v3.3.4 (October 20, 2026).
 - **October 15, 2026:** Stars 115,826 → 116,286, latest release v3.3.3 (October 14, 2026).
 - **October 9, 2026:** Stars 115,783 → 115,826, latest release v3.3.1 (October 8, 2026).
 - **October 8, 2026:** Stars 115,268 → 115,783, latest release v3.3.0 (October 7, 2026).
-- **September 29, 2026:** Stars 114,389 → 115,268, latest release v3.2.4 (September 28, 2026).
 
 ## What you get
 
@@ -46,6 +46,7 @@ Visit the official documentation page for installation and usage details. You ca
 ## Related dictionary terms
 
 - [Self-hosted](https://trescout.com/en/dictionary/self-hosted/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for users who want to manage their own photo and video archives on their own infrastructure without being dependent on cloud services.
 - **License:** AGPL-3.0
@@ -55,7 +56,7 @@ Visit the official documentation page for installation and usage details. You ca
 - [GitHub repository →](https://github.com/immich-app/immich)
 - [Read in Turkish →](https://trescout.com/discover/immich/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/immich/

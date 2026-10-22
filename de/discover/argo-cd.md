@@ -2,16 +2,16 @@
 
 Argo CD ist ein Tool, das deklarative kontinuierliche Bereitstellungsprozesse für Kubernetes-Umgebungen verwaltet. Es bietet automatische Aktualisierungen der Infrastruktur durch die Synchronisierung des Anwendungsstatus mit Git-Repositorys.
 
-- ★ 24.377
+- ★ 24.439
 - Go
 - GitHub Trending · 2026-07-09
 
 ## Aktualisierungen
 
+- **21. Oktober 2026:** Sterne 24,377 → 24,439, neueste Version v3.5.6 (20. Oktober 2026).
 - **12. Oktober 2026:** Sterne 24,345 → 24,377, neueste Version v3.5.5 (12. Oktober 2026).
 - **7. Oktober 2026:** Sterne 24,154 → 24,345, neueste Version v3.5.4 (6. Oktober 2026).
 - **14. September 2026:** Sterne 24,005 → 24,154, neueste Version v3.5.3 (14. September 2026).
-- **27. August 2026:** Sterne 23,927 → 24,005, neueste Version v3.5.2 (27. August 2026).
 
 ## Was es bringt
 
@@ -52,6 +52,7 @@ Um mit der Verwendung der Argo-CD zu beginnen, können Sie die offizielle Dokume
 - [Declarative Continuous Deployment](https://trescout.com/de/dictionary/declarative-continuous-deployment/)
 - [Continuous Deployment](https://trescout.com/de/dictionary/continuous-deployment/)
 - [Deployment](https://trescout.com/de/dictionary/deployment/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Software- und DevOps-Teams, die die Bereitstellungs- und Lebenszyklusprozesse ihrer auf Kubernetes ausgeführten Anwendungen automatisieren möchten.
 - **Lizenz:** Apache-2.0
@@ -61,7 +62,7 @@ Um mit der Verwendung der Argo-CD zu beginnen, können Sie die offizielle Dokume
 - [GitHub-Repository →](https://github.com/argoproj/argo-cd)
 - [Auf Türkisch lesen →](https://trescout.com/discover/argo-cd/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-09 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-09 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/argo-cd/

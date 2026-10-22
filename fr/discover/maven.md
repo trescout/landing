@@ -46,6 +46,10 @@ Pour commencer à utiliser Apache Maven, vous pouvez visiter la page d'accueil o
 
 - [Source officielle →](https://maven.apache.org/ref/current)
 
+## Termes liés du glossaire
+
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 - **Pour qui:** Il convient aux développeurs de logiciels qui souhaitent normaliser les processus de développement, de compilation et de gestion de projets logiciels basés sur Java.
 - **Licence:** Apache-2.0
 
@@ -54,7 +58,7 @@ Pour commencer à utiliser Apache Maven, vous pouvez visiter la page d'accueil o
 - [Dépôt GitHub →](https://github.com/apache/maven)
 - [Lire en turc →](https://trescout.com/discover/maven/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/maven/

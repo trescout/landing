@@ -2,13 +2,14 @@
 
 **train-llm-from-scratch**, veri setini indirme aşamasından metin üretimine kadar bir **büyük dil modelini sıfırdan eğitmenin** sade ve adım adım yöntemini sunar. Öğrenme süreciniz için pratik bir kaynaktır.
 
-- ★ 11.240
+- ★ 12.282
 - Jupyter Notebook
 - MIT
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
 
+- **19 Ekim 2026:** Yıldız 11.240 → 12.282.
 - **27 Eylül 2026:** Yıldız 8.864 → 11.240.
 - **2 Ağustos 2026:** Yıldız 2.086 → 8.864.
 
@@ -30,6 +31,14 @@ Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravi
 
 Bu depo (FareedKhan-dev/train-llm-from-scratch), PyTorch ile sıfırdan bir transformer/LLM eğitmeyi anlatan bir öğreticidir. README'yi incele ve bana Türkçe, adım adım bir uygulama planı çıkar: gereken donanım (GPU), veri indirme ve ön işleme, model yapılandırması, eğitim ve metin üretme aşamalarını sırayla açıkla.
 
+Depo: https://github.com/FareedKhan-dev/train-llm-from-scratch. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
+
+Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
+
+Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
+
+Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
+
 **Depoyu klonla**
 
 ```
@@ -49,7 +58,7 @@ pip install -r requirements.txt
 
 - [GitHub deposu →](https://github.com/FareedKhan-dev/train-llm-from-scratch)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

@@ -2,16 +2,16 @@
 
 TypeScript ile geliştirilen iloader, iOS cihazlara uygulama yükleme sürecini kolaylaştıran kullanıcı dostu bir yan yükleyici (sideloader). Apple'ın resmi mağazası dışındaki uygulamaların kurulumunu basitleştirerek geliştirici ve kullanıcı deneyimini iyileştiriyor.
 
-- ★ 4.008
+- ★ 4.075
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
 
+- **18 Ekim 2026:** Yıldız 4.008 → 4.075, son sürüm v2.3.10 (18 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 3.970 → 4.008, son sürüm v2.3.9 (16 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 3.934 → 3.970, son sürüm v2.3.8 (15 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 3.738 → 3.934, son sürüm v2.3.7 (13 Ekim 2026).
-- **6 Ekim 2026:** Yıldız 3.710 → 3.738, son sürüm v2.3.6 (6 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -32,11 +32,12 @@ Resmî web sitesi olan iloader.app adresine giderek işletim sisteminize uygun o
 
 - [GitHub deposu →](https://github.com/nab138/iloader)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
 - [Sideloader](https://trescout.com/dictionary/sideloader/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iloader/

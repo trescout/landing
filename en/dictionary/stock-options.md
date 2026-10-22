@@ -39,7 +39,7 @@ It is the minimum time an employee must spend at the company in order to earn th
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
 - [Best Practices](https://trescout.com/en/dictionary/best-practices/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/stock-options/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/stock-options/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/stock-options/

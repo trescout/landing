@@ -2,12 +2,13 @@
 
 SmartTube is a YouTube client developed for Android TV devices, offering advanced features such as ad-blocking and a customizable interface. It allows users to manage their video viewing experience according to their own rules.
 
-- ★ 34,186
+- ★ 35,252
 - Java
 - GitHub Trending · 2026-09-13
 
 ## Updates
 
+- **October 21, 2026:** Stars 34,186 → 35,252, latest release 32.68s (October 20, 2026).
 - **September 27, 2026:** Stars 33,574 → 34,186, latest release 32.56s (September 23, 2026).
 - **September 14, 2026:** Stars 33,278 → 33,574, latest release 32.47s (September 13, 2026).
 - **September 13, 2026:** Stars 33,276 → 33,278, latest release 32.38s (September 1, 2026).
@@ -24,6 +25,10 @@ Install the Downloader app on your Android TV device. Open the app, enter kutt.t
 
 - [Official source →](https://smarttubeapp.github.io)
 
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
 - **Who it is for:** For users looking for a more customizable and ad-free YouTube experience via Android TV or TV box.
 - **License:** MIT
 
@@ -32,7 +37,7 @@ Install the Downloader app on your Android TV device. Open the app, enter kutt.t
 - [GitHub repository →](https://github.com/yuliskov/SmartTube)
 - [Read in Turkish →](https://trescout.com/discover/smarttube/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/smarttube/

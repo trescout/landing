@@ -40,7 +40,7 @@ A menudo se requiere inicialmente la intervención humana para determinar los cr
 - [Autonomous Agent](https://trescout.com/es/dictionary/autonomous-agent/)
 - [AI Agent](https://trescout.com/es/dictionary/ai-agent/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/rlm-agent/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/rlm-agent/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/rlm-agent/

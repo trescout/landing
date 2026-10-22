@@ -41,7 +41,7 @@ Yes, you can visualize your own data with simple tools.
 
 - [Worldmonitor](https://trescout.com/en/discover/worldmonitor/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dashboard/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dashboard/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/dashboard/

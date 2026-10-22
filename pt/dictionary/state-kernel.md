@@ -38,7 +38,7 @@ O aplicativo se comporta de maneira inconsistente ou trava; Portanto, deve ser g
 
 - [Loopx](https://trescout.com/pt/discover/loopx/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/state-kernel/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/state-kernel/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/state-kernel/

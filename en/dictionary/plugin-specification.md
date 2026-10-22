@@ -38,7 +38,7 @@ No, each software has its own specific standards.
 - [Framework](https://trescout.com/en/dictionary/framework/)
 - [API](https://trescout.com/en/dictionary/api/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/plugin-specification/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/plugin-specification/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/plugin-specification/

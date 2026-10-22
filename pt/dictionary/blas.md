@@ -45,7 +45,7 @@ Geralmente não é escrito diretamente. Como desenvolvedores, quando vocês util
 
 - [DeepGEMM](https://trescout.com/pt/discover/deepgemm/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/blas/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/blas/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/blas/

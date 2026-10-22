@@ -2,16 +2,16 @@
 
 Desenvolvido pela Apple, o container permite criar e executar containers Linux usando máquinas virtuais leves no Mac. Escrita em linguagem Swift, a ferramenta oferece desempenho otimizado para a arquitetura de silício da Apple.
 
-- ★ 50.374
+- ★ 50.816
 - Swift
 - GitHub Trending · 2026-06-11
 
 ## Atualizações
 
+- **20 de outubro de 2026:** Estrelas 50,374 → 50,816, versão mais recente 1.6.0 (20 de outubro de 2026).
 - **29 de setembro de 2026:** Estrelas 49,793 → 50,374, versão mais recente 1.5.0 (29 de setembro de 2026).
 - **9 de setembro de 2026:** Estrelas 49,541 → 49,793, versão mais recente 1.4.1 (9 de setembro de 2026).
 - **31 de agosto de 2026:** Estrelas 49,440 → 49,541, versão mais recente 1.3.1 (29 de agosto de 2026).
-- **27 de agosto de 2026:** Estrelas 48,745 → 49,440, versão mais recente 1.3.0 (24 de agosto de 2026).
 
 ## O que você ganha
 
@@ -41,6 +41,14 @@ Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso gerenciar contêineres Linux compatíveis com OCI usando a ferramenta de contêiner no meu Mac com um processador Apple Silicon? Depois de usar o comando de inicialização do sistema de contêiner para garantir que o sistema esteja funcionando corretamente, você pode explicar quais etapas básicas devo seguir para extrair e executar uma imagem de contêiner?
 
+Repositório: https://github.com/apple/container. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
 ## Termos relacionados do glossário
 
 - [Virtual Machines](https://trescout.com/pt/dictionary/virtual-machines/)
@@ -57,7 +65,7 @@ Como posso gerenciar contêineres Linux compatíveis com OCI usando a ferramenta
 - [Repositório no GitHub →](https://github.com/apple/container)
 - [Ler em turco →](https://trescout.com/discover/container/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-11: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-11: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/container/

@@ -43,7 +43,7 @@ If you are examining a physical machine, mechanical knowledge is sufficient. How
 
 - [REA](https://trescout.com/en/discover/rea/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/reverse-engineering/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/reverse-engineering/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/reverse-engineering/

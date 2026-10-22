@@ -67,7 +67,7 @@ A tecnologia de clonagem de voz realista traz o risco de falsificação de ident
 
 - [Speech to Speech](https://trescout.com/pt/discover/speech-to-speech/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/speech-to-speech/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/speech-to-speech/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/speech-to-speech/

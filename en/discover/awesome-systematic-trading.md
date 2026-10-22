@@ -29,6 +29,7 @@ This tool does not require a software installation; It is a comprehensive guide 
 - [Algorithmic Trading](https://trescout.com/en/dictionary/algorithmic-trading/)
 - [Systematic Trading](https://trescout.com/en/dictionary/systematic-trading/)
 - [Backtesting](https://trescout.com/en/dictionary/backtesting/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for researchers and developers who want to enter the world of algorithmic trading and improve their financial modeling processes.
 
@@ -37,7 +38,7 @@ This tool does not require a software installation; It is a comprehensive guide 
 - [GitHub repository →](https://github.com/paperswithbacktest/awesome-systematic-trading)
 - [Read in Turkish →](https://trescout.com/discover/awesome-systematic-trading/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/awesome-systematic-trading/

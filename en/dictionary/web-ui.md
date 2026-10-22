@@ -72,7 +72,7 @@ API gives data to the machine, Web UI gives a face to the human. The two work to
 
 - [Pi Web](https://trescout.com/en/discover/pi-web/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/web-ui/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/web-ui/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/web-ui/

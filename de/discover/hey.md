@@ -27,6 +27,7 @@ Für die Installation können Sie die passenden Download-Links für Ihr Betriebs
 - [ApacheBench (ab)](https://trescout.com/de/dictionary/apache-bench/)
 - [ab (ApacheBench)](https://trescout.com/de/dictionary/apache-bench-ab/)
 - [ab](https://trescout.com/de/dictionary/ab/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Entwickler, die die Leistung und Geschwindigkeit von Webanwendungen testen möchten.
 - **Lizenz:** Apache-2.0
@@ -36,7 +37,7 @@ Für die Installation können Sie die passenden Download-Links für Ihr Betriebs
 - [GitHub-Repository →](https://github.com/rakyll/hey)
 - [Auf Türkisch lesen →](https://trescout.com/discover/hey/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-29 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-29 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/hey/

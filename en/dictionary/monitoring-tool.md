@@ -34,7 +34,7 @@ So that you can notice and fix the issue before your users realize the site is b
 - [Dashboard](https://trescout.com/en/dictionary/dashboard/)
 - [Logs](https://trescout.com/en/dictionary/logs/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/monitoring-tool/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/monitoring-tool/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/monitoring-tool/

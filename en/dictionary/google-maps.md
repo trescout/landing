@@ -43,7 +43,7 @@ Yes. Through Google Maps API services, maps, route calculation, and place search
 
 - [Gods Eye View](https://trescout.com/en/discover/gods-eye-view/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/google-maps/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/google-maps/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/google-maps/
