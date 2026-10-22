@@ -98,10 +98,34 @@ def check_pages(issues: list[str]) -> tuple[int, int]:
     return page_count, checked_fields
 
 
+# Çeviri keşif sayfasının olgular satırında yalnız Türkçeye özgü harf: değer çevrilmeden
+# kopyalanmış (2026-10-22, lisans açıklaması). Şimdilik uyarı: üretici düzeltildi, eski
+# sayfalar sonraki içerik hattı koşusunda yeniden yazılır; elle korunan sayfa da kalabilir.
+# Sayı 0'a inince issues'a taşınmalı.
+TR_HARF = re.compile(r"[ğışİĞŞ]")
+OLGU = re.compile(r'<span class="disc-fact-k">([^<]*)</span><span class="disc-fact-v">([^<]*)</span>')
+
+
+def turkce_olgu_uyarisi() -> None:
+    bulunan = []
+    for lang in NON_PORTUGUESE + ["pt"]:
+        if lang == "tr":
+            continue
+        for page in sorted(page_root(lang).glob("*/index.html")):
+            for k, v in OLGU.findall(page.read_text(encoding="utf-8")):
+                if TR_HARF.search(v):
+                    bulunan.append(f"{lang}/{page.parent.name} [{k}] {v}")
+    if bulunan:
+        print(f"::warning title=Keşif çevirisi::{len(bulunan)} olgu değeri Türkçe kalmış (ilk: {bulunan[0]})")
+        for b in bulunan[:10]:
+            print(f"  · {b}")
+
+
 def main() -> None:
     issues: list[str] = []
     check_catalog(issues)
     page_count, checked_fields = check_pages(issues)
+    turkce_olgu_uyarisi()
     print(f"Discovery language guard: {page_count} pages, {checked_fields} non-Portuguese fields checked")
     if issues:
         for issue in issues:
