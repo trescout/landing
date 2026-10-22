@@ -288,8 +288,18 @@ def bolumler(t, localized=None):
     return out
 
 
+# Yalın lisans adı: yalnız ASCII harf, rakam ve "-.+ " (açıklama, "·", parantez yok)
+YALIN_LISANS = re.compile(r"[A-Za-z0-9][A-Za-z0-9.+\- ]*")
+
+
 def olgular(t):
-    """disc-facts · 'Kimin için' / 'Lisans'. Lisans adı çevrilmez (SPDX)."""
+    """disc-facts · 'Kimin için' / 'Lisans'. Yalın lisans adı (SPDX: "MIT", "Apache-2.0") çevrilmez.
+
+    Türkçe sayfada adın yanında açıklama da olabiliyor ("MIT (Özgür açık kaynak lisansı)",
+    "Apache-2.0 · ayrıntı aşağıda", "Belirtilmemiş · ayrıntı aşağıda"); o zaman değerin tamamı
+    çevrilir. 2026-10-22: açıklama olduğu gibi kopyalandığı için İngilizce 47 sayfada (5 dilde
+    ~235) lisans satırı Türkçe kalmıştı (Burhan'ın kaydındaki bulgu, cloudflare-temp-email).
+    """
     govde = blok(r'<div class="disc-facts">(.*?)</div>\s*(?:<section|<p class="disc-disclaimer")', t)
     if not govde:
         return ""
@@ -297,6 +307,8 @@ def olgular(t):
     for k, v in re.findall(r'<span class="disc-fact-k">(.*?)</span><span class="disc-fact-v">(.*?)</span>', govde, re.S):
         k, v = metin(k), metin(v)
         if k == "Lisans":
+            if not YALIN_LISANS.fullmatch(v):
+                v = tr2en(v) or ""
             out += f'<div class="disc-fact"><span class="disc-fact-k">{D["lisans"]}</span><span class="disc-fact-v">{esc(v)}</span></div>'
         else:
             etiket = D["kimin_icin"] if k == "Kimin için" else tr2en(k)
