@@ -99,14 +99,13 @@ def check_pages(issues: list[str]) -> tuple[int, int]:
 
 
 # Çeviri keşif sayfasının olgular satırında yalnız Türkçeye özgü harf: değer çevrilmeden
-# kopyalanmış (2026-10-22, lisans açıklaması). Şimdilik uyarı: üretici düzeltildi, eski
-# sayfalar sonraki içerik hattı koşusunda yeniden yazılır; elle korunan sayfa da kalabilir.
-# Sayı 0'a inince issues'a taşınmalı.
+# kopyalanmış (2026-10-22, lisans açıklaması, landing#353). Önce uyarıydı; 22 Ekim içerik
+# hattı koşusundan sonra beş dilde sayı 0 oldu, artık guard.
 TR_HARF = re.compile(r"[ğışİĞŞ]")
 OLGU = re.compile(r'<span class="disc-fact-k">([^<]*)</span><span class="disc-fact-v">([^<]*)</span>')
 
 
-def turkce_olgu_uyarisi() -> None:
+def check_turkish_facts(issues: list[str]) -> None:
     bulunan = []
     for lang in NON_PORTUGUESE + ["pt"]:
         if lang == "tr":
@@ -115,17 +114,15 @@ def turkce_olgu_uyarisi() -> None:
             for k, v in OLGU.findall(page.read_text(encoding="utf-8")):
                 if TR_HARF.search(v):
                     bulunan.append(f"{lang}/{page.parent.name} [{k}] {v}")
-    if bulunan:
-        print(f"::warning title=Keşif çevirisi::{len(bulunan)} olgu değeri Türkçe kalmış (ilk: {bulunan[0]})")
-        for b in bulunan[:10]:
-            print(f"  · {b}")
+    for b in bulunan:
+        issues.append(f"page {b}: Turkish text in a translated fact value")
 
 
 def main() -> None:
     issues: list[str] = []
     check_catalog(issues)
     page_count, checked_fields = check_pages(issues)
-    turkce_olgu_uyarisi()
+    check_turkish_facts(issues)
     print(f"Discovery language guard: {page_count} pages, {checked_fields} non-Portuguese fields checked")
     if issues:
         for issue in issues:
