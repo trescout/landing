@@ -594,3 +594,14 @@ footer {
 /* Bölüm dolgusu · dizin sayfalarında inline stil yerine (CSP) */
 .container-pad { padding: 44px 24px 64px; }
 @media (max-width: 640px) { .container-pad { padding-left: 16px; padding-right: 16px; } }
+
+/* Erken erişim listesi 2026-10-22'de kapatıldı, kayıtlar silindi ve form kayıt
+   almıyor (Vercel SUBSCRIBE_PAUSED=true, /api/subscribe 503). Form ve davet kutuları
+   bütün sayfalarda gizli. Kalıcı çözüm, formun üreticilerden ve sayfalardan
+   kaldırılması: internal docs/TEKNIK-DEVIR-NOTU.md. */
+form.js-subscribe,
+.disc-cta,
+.ana-bant-sag,
+.catalog-sidebar { display: none !important; }
+.ana-bant-ic,
+.catalog-shell { grid-template-columns: minmax(0, 1fr) !important; }
