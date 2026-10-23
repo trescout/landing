@@ -1,0 +1,550 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-23",
+  "capturedAt": "2026-10-23T09:25:20.276Z",
+  "editorial": "Os conteúdos incluídos no relatório não são repetidos durante 30 dias. Após este período, os registos que continuam na agenda são listados novamente com a etiqueta \"novamente na agenda\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "php/php-src",
+          "url": "https://github.com/php/php-src",
+          "summary": "O PHP é usado como uma linguagem de script de propósito geral, projetada especialmente para processos de desenvolvimento web. Este interpretador, escrito na linguagem C, compõe a infraestrutura de muitos sites ao redor do mundo.",
+          "meta": "C · ★ 41.391 · +287 hoje",
+          "snapshot": {
+            "sourceId": "php/php-src",
+            "capturedAt": "2026-10-23T09:25:21.532Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 41391,
+              "engagementCount": 287,
+              "rank": 1,
+              "extra": {
+                "starsToday": 287,
+                "baglam": "readme"
+              }
+            },
+            "description": "The PHP Interpreter. PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world."
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Os knowledge-work-plugins desenvolvidos pela Anthropic oferecem extensões de código aberto (cujos códigos-fonte estão acessíveis a todos) voltadas para trabalhadores do conhecimento, operando no Claude Cowork e no Claude Code. Esses plugins estruturam o modelo de inteligência artificial de forma a conferir especializações específicas às tarefas, equipes e empresas dos usuários.",
+          "meta": "Python · ★ 31.861 · +303 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-10-23T09:25:21.532Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 31861,
+              "engagementCount": 303,
+              "rank": 2,
+              "extra": {
+                "starsToday": 303,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork. Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code."
+          }
+        },
+        {
+          "title": "fastapi/fastapi",
+          "url": "https://github.com/fastapi/fastapi",
+          "summary": "FastAPI é um framework web moderno que permite desenvolver interfaces de programação de aplicações (API) de alto desempenho com a linguagem de programação Python. Baseado em dicas de tipo (type hints) padrão do Python, oferece codificação rápida e soluções prontas para o ambiente de produção.",
+          "meta": "Python · ★ 103.999 · +101 hoje",
+          "snapshot": {
+            "sourceId": "fastapi/fastapi",
+            "capturedAt": "2026-10-23T09:25:21.532Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 103999,
+              "engagementCount": 101,
+              "rank": 7,
+              "extra": {
+                "starsToday": 101,
+                "baglam": "readme"
+              }
+            },
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production. FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints."
+          }
+        },
+        {
+          "title": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "summary": "luongnv89/claude-howto oferece um guia visual e focado em exemplos para a ferramenta de codificação assistida por IA, Claude Code, abrangendo desde conceitos básicos até o uso avançado de agentes. Visa acelerar os processos de desenvolvimento com modelos que os usuários podem copiar e colar diretamente.",
+          "meta": "Python · ★ 43.654 · +177 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "luongnv89/claude-howto",
+            "capturedAt": "2026-10-23T09:25:21.532Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 43654,
+              "engagementCount": 177,
+              "rank": 8,
+              "extra": {
+                "starsToday": 177
+              }
+            },
+            "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+          }
+        },
+        {
+          "title": "Meloong-Git/PCL",
+          "url": "https://github.com/Meloong-Git/PCL",
+          "summary": "Meloong-Git/PCL é um projeto que contém o código-fonte da ferramenta chamada Plain Craft Launcher, usada para iniciar o jogo Minecraft. Desenvolvido na linguagem Visual Basic .NET, este trabalho abriga componentes fundamentais como a biblioteca de interface, módulos de animação e processos de inicialização do jogo.",
+          "meta": "Visual Basic .NET · ★ 8.848 · +119 hoje",
+          "snapshot": {
+            "sourceId": "Meloong-Git/PCL",
+            "capturedAt": "2026-10-23T09:25:21.532Z",
+            "metadata": {
+              "language": "Visual Basic .NET",
+              "popularity": 8848,
+              "engagementCount": 119,
+              "rank": 9,
+              "extra": {
+                "starsToday": 119,
+                "baglam": "readme"
+              }
+            },
+            "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。. 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Quad9 to exit France",
+          "url": "https://quad9.net/news/blog/au-revoir-france/",
+          "summary": "O Quad9, um serviço gratuito de sistema de nomes de domínio (DNS), decidiu retirar-se do mercado francês. A organização, que presta serviços focados em segurança e privacidade, compartilhou as justificativas para essa mudança em sua página oficial no blog.",
+          "meta": "1.199 pontos · 407 comentários",
+          "snapshot": {
+            "sourceId": "50195959",
+            "capturedAt": "2026-10-23T09:25:20.628Z",
+            "metadata": {
+              "popularity": 1199,
+              "engagementCount": 407,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50195959",
+                  "popularity": 1199,
+                  "engagementCount": 407
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-22T14:32:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50195959",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A public and free DNS service for a better security and privacy"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50195959",
+              "popularity": 1199,
+              "engagementCount": 407
+            }
+          ]
+        },
+        {
+          "title": "eMudhra to exit global SSL/TLS certificate business",
+          "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+          "summary": "A empresa de segurança digital eMudhra anunciou, por decisão do seu conselho de administração, que se retirará voluntariamente do negócio global de certificados SSL/TLS. Com esta mudança estratégica, a empresa pretende encerrar as suas operações na referida área de atividade.",
+          "meta": "1.051 pontos · 680 comentários",
+          "snapshot": {
+            "sourceId": "50195110",
+            "capturedAt": "2026-10-23T09:25:20.628Z",
+            "metadata": {
+              "popularity": 1051,
+              "engagementCount": 680,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50195110",
+                  "popularity": 1051,
+                  "engagementCount": 680
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-22T13:33:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50195110",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "eMudhra Limited (BSE: 543533 | NSE: EMUDHRA), a global digital trust company, today announced that its Board has decided to voluntarily withdraw from the global SSL/TLS certificate business."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50195110",
+              "popularity": 1051,
+              "engagementCount": 680
+            }
+          ]
+        },
+        {
+          "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+          "url": "https://news.ycombinator.com/item?id=50193416",
+          "summary": "Um usuário declarou ter compartilhado as vulnerabilidades de segurança CVE-2026-109618 e CVE-2026-109619, referentes a falhas de execução remota de código (remote code execution) na linguagem de programação PHP, violando o cronograma de divulgação coordenada (coordinated disclosure). O usuário, afirmando que tal compartilhamento causou interrupções nos processos de segurança e carga de trabalho adicional, assumiu a responsabilidade e pediu desculpas pela situação ocorrida.",
+          "meta": "550 pontos · 213 comentários",
+          "snapshot": {
+            "sourceId": "50193416",
+            "capturedAt": "2026-10-23T09:25:20.628Z",
+            "metadata": {
+              "popularity": 550,
+              "engagementCount": 213,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50193416",
+                  "popularity": 550,
+                  "engagementCount": 213
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-22T10:11:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50193416"
+              }
+            },
+            "description": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 &amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.I am truly sorry. I take full responsibility for my actions.It was n"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50193416",
+              "popularity": 550,
+              "engagementCount": 213
+            }
+          ]
+        },
+        {
+          "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+          "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+          "summary": "WorldTUI é um modelo de inteligência artificial com 360 milhões de parâmetros que se comporta como um terminal e consegue lembrar das operações anteriores do usuário. Este trabalho apresenta um modelo treinado para imitar interfaces de linha de comando baseadas em texto.",
+          "meta": "543 pontos · 168 comentários",
+          "snapshot": {
+            "sourceId": "50190363",
+            "capturedAt": "2026-10-23T09:25:20.628Z",
+            "metadata": {
+              "popularity": 543,
+              "engagementCount": 168,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50190363",
+                  "popularity": 543,
+                  "engagementCount": 168
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-22T02:18:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50190363",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A 360M model that pretends to be a terminal, and remembers what you did"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50190363",
+              "popularity": 543,
+              "engagementCount": 168
+            }
+          ]
+        },
+        {
+          "title": "Docker is weird",
+          "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+          "summary": "O Docker oferece uma visão crítica sobre os princípios de funcionamento e a complexidade da tecnologia de conteinerização (containerization). Examina as características estruturais incomuns no funcionamento desta plataforma utilizada nos processos de desenvolvimento de software.",
+          "meta": "462 pontos · 215 comentários",
+          "snapshot": {
+            "sourceId": "50202681",
+            "capturedAt": "2026-10-23T09:25:20.628Z",
+            "metadata": {
+              "popularity": 462,
+              "engagementCount": 215,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50202681",
+                  "popularity": 462,
+                  "engagementCount": 215
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-22T23:45:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50202681"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50202681",
+              "popularity": 462,
+              "engagementCount": 215
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "RecursiveSI/flint",
+          "url": "https://huggingface.co/RecursiveSI/flint",
+          "summary": "RecursiveSI/flint é um modelo de geração de texto com arquitetura de mistura de especialistas (mixture-of-experts), desenvolvido para agentes de codificação. Contendo um total de 39,8 bilhões de parâmetros, o modelo foi projetado para analisar bases de código, depurar erros, adicionar novos recursos e escrever testes.",
+          "meta": "♥ 597 · 420 downloads",
+          "snapshot": {
+            "sourceId": "RecursiveSI/flint",
+            "capturedAt": "2026-10-23T09:25:20.443Z",
+            "metadata": {
+              "popularity": 597,
+              "engagementCount": 420,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 586,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "flint",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs, implement features, and write tests."
+          }
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-Image-Base",
+          "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+          "summary": "MOSS-Image-Base, desenvolvido pela OpenMOSS-Team, é um modelo de inteligência artificial com capacidade de criação de imagens a partir de texto (text-to-image). Este modelo suporta, além de comandos em linguagem natural, sequências de etiquetas e estruturas em formato JSON que servem para controlar o posicionamento de texto e o layout de objetos.",
+          "meta": "♥ 507 · 5.013 downloads",
+          "snapshot": {
+            "sourceId": "OpenMOSS-Team/MOSS-Image-Base",
+            "capturedAt": "2026-10-23T09:25:20.443Z",
+            "metadata": {
+              "popularity": 507,
+              "engagementCount": 5013,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 457,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "moss-image",
+                  "text-to-image",
+                  "en",
+                  "zh",
+                  "arxiv:2610.23374",
+                  "license:apache-2.0",
+                  "diffusers:MOSSImagePipeline",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. MOSS-Image-Base is the base text-to-image model in the MOSS-Image family from OpenMOSS. It supports natural-language prompts, tag sequences, and JSON layouts for controlling text placement and object arrangement."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models",
+          "url": "https://huggingface.co/papers/2610.22951",
+          "summary": "MambaAct é uma arquitetura de especialista em ação (action expert) desenvolvida para reduzir o custo de inferência em modelos de manipulação robótica. Visa facilitar o controle em tempo real acelerando o processo iterativo de remoção de ruído em modelos de visão-linguagem-ação baseados em correspondência de fluxo (flow-matching).",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.22951",
+            "capturedAt": "2026-10-23T09:25:20.448Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22951",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/giakhuyendihoc/MambaAct",
+                "githubStars": 2
+              }
+            },
+            "description": "Vision-language-action (VLA) models have shown strong promise for generalist robotic manipulation, but their inference cost remains a major bottleneck for real-time control. This limitation is especially pronounced in flow-matching VLAs such as π_{0.5}, where the action expert is evaluated repeatedly during iterative denoising. We introduce MambaAct, an efficient Mamba action expert for flow-matching VLA policies. MambaAct retains the pretrained visual-language prefix encoder of π_{0.5}, while r"
+          }
+        },
+        {
+          "title": "SplatLab: Autonomous Scientific Discovery for 3DGS Research",
+          "url": "https://huggingface.co/papers/2610.30468",
+          "summary": "SplatLab é um sistema de inteligência artificial desenvolvido para automatizar pesquisas científicas na área de 3D Gaussian Splatting (3DGS). Superando as limitações dos sistemas atuais, oferece um fluxo de trabalho de ponta a ponta, desde propostas de pesquisa até a escrita de código.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.30468",
+            "capturedAt": "2026-10-23T09:25:20.448Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.30468",
+                "publishedAt": "2026-10-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/seemandhar/SplatLab",
+                "githubStars": 3
+              }
+            },
+            "description": "Reproducing a published 3DGS paper takes weeks of expert engineering before any extension can be proposed. Prior autonomous-research systems read papers, draft hypotheses, and write code, but are limited by short fixed templates, low executability, and weak traceability, and none has been demonstrated end-to-end in a live computer-vision subfield with intense activity. SplatLab is an autonomous research system for 3D Gaussian Splatting that addresses these limitations. Given a research prompt, a"
+          }
+        },
+        {
+          "title": "RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation",
+          "url": "https://huggingface.co/papers/2610.20091",
+          "summary": "RTAformer foca na tarefa de geração de grafos de cena de vídeo (video scene graph generation), que define objetos dentro de vídeos e as relações desses objetos que mudam com o tempo. O modelo visa reduzir as previsões incorretas observadas nos métodos atuais, rastreando simultaneamente a continuidade das identidades dos objetos e as mudanças repentinas nas relações.",
+          "meta": "6 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.20091",
+            "capturedAt": "2026-10-23T09:25:20.448Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20091",
+                "publishedAt": "2026-10-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/sejong-rcv/RTAformer",
+                "githubStars": 1
+              }
+            },
+            "description": "Video scene graph generation (VidSGG) aims to capture objects and their evolving relationships in videos. This requires accounting for both the persistence of object identities and abrupt changes in relationships. Existing methods aggregate information across frames to exploit temporal context, but an emphasis on consistency can obscure these changes. As a result, a model may retain its previous prediction even after the underlying relation has changed. We refer to this failure mode as relationa"
+          }
+        },
+        {
+          "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+          "url": "https://huggingface.co/papers/2610.30949",
+          "summary": "IQuest-Q1, compartilhado no Hugging Face, é um modelo base com arquitetura de mistura de especialistas esparsa (sparse Mixture-of-Experts) com 320 bilhões de parâmetros. Passou por um processo de treinamento de três etapas com o objetivo de aprimorar as capacidades de sistemas de agentes baseados em interface de linha de comando (CLI).",
+          "meta": "37 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.30949",
+            "capturedAt": "2026-10-23T09:25:20.448Z",
+            "metadata": {
+              "popularity": 37,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.30949",
+                "publishedAt": "2026-10-22T00:00:00.000Z"
+              }
+            },
+            "description": "We present IQuest-Q1, a sparse Mixture-of-Experts (MoE) agentic foundation model with 320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage process: (1) stable and efficient pre-training, combining Stable SplitNorm, Muon, and muP with a two-stage curriculum whose second stage increases the coding-data mixture, preserving a wide stability margin between safe and optimal learning rates; (2) fine-grained mid-training, expanding the data mixture across domains and forma"
+          }
+        },
+        {
+          "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+          "url": "https://huggingface.co/papers/2610.31329",
+          "summary": "WeVisOne-VL é um modelo de visão-linguagem (VLM) que combina a percepção visual em nível de objeto e pixel com um método estruturado de previsão do próximo token (next-token prediction). Ele suporta diversas tarefas visuais, como detecção de objetos, reconhecimento de texto (OCR) e segmentação, oferecendo aos usuários a possibilidade de localização em diferentes níveis de detalhe.",
+          "meta": "23 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.31329",
+            "capturedAt": "2026-10-23T09:25:20.448Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31329",
+                "publishedAt": "2026-10-22T00:00:00.000Z",
+                "githubRepo": "https://github.com/Tencent/WeVisOne-VL",
+                "githubStars": 44
+              }
+            },
+            "description": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level and pixel-level perception through structured next-token prediction. It supports multiple visual tasks including object detection, referring localization, counting, OCR, segmentation, and matting, enabling localization at any user-specific granularity, from points and boxes to masks and alpha matte"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "scripting language",
+      "explanation": "Um tipo de linguagem de programação usada para automatizar e acelerar processos complexos de software, geralmente servindo para escrever códigos mais curtos e práticos."
+    },
+    {
+      "term": "AST",
+      "explanation": "Um método técnico que converte a estrutura do código em uma linguagem de programação em uma disposição de árvore hierárquica que o computador pode entender."
+    },
+    {
+      "term": "API",
+      "explanation": "Um ponto de conexão que permite que diferentes softwares troquem dados entre si e realizem operações uns através dos outros."
+    },
+    {
+      "term": "type hints",
+      "explanation": "Marcadores de código que ajudam a reduzir erros ao especificar o tipo de dados das variáveis durante o desenvolvimento de software."
+    },
+    {
+      "term": "DNS",
+      "explanation": "Um sistema que traduz os nomes de sites em endereços numéricos que permitem que os computadores se encontrem."
+    },
+    {
+      "term": "remote code execution",
+      "explanation": "Uma vulnerabilidade crítica que permite que invasores executem remotamente seus próprios códigos em um sistema, explorando uma falha de segurança nele."
+    },
+    {
+      "term": "coordinated disclosure",
+      "explanation": "O processo de manter uma vulnerabilidade de segurança em segredo até que o proprietário do sistema tome precauções e, em seguida, anunciá-la ao público de acordo com um plano específico."
+    },
+    {
+      "term": "terminal",
+      "explanation": "Uma interface que permite o envio de comandos baseados em texto diretamente para o computador."
+    },
+    {
+      "term": "containerization",
+      "explanation": "Um método que agrupa todos os arquivos e configurações necessários para a execução de um software em um único pacote, garantindo que ele funcione da mesma maneira em qualquer ambiente."
+    },
+    {
+      "term": "mixture-of-experts",
+      "explanation": "Uma arquitetura que proporciona eficiência ao dividir um grande modelo de inteligência artificial em partes menores, cada uma especializada em diferentes tópicos, executando apenas a parte relevante."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Tecnologia de inteligência artificial que analisa as descrições de texto escritas pelo usuário e gera imagens adequadas a elas."
+    },
+    {
+      "term": "action expert",
+      "explanation": "Arquitetura de inteligência artificial especializada, projetada especificamente para gerenciar os movimentos de sistemas robóticos e otimizar suas decisões."
+    },
+    {
+      "term": "flow-matching",
+      "explanation": "Um método de aprendizado que torna o caminho seguido pelos modelos de inteligência artificial ao gerar dados matematicamente mais rápido e estável."
+    }
+  ]
+}
