@@ -48,8 +48,8 @@ Artificial intelligence will change the way many jobs are done, but will general
 - [Public Apis](https://trescout.com/en/discover/public-apis/)
 - [freeCodeCamp](https://trescout.com/en/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/en/discover/openclaw/)
-- [System Design Primer](https://trescout.com/en/discover/system-design-primer/)
 - [REA](https://trescout.com/en/discover/rea/)
+- [System Design Primer](https://trescout.com/en/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/en/discover/coding-interview-university/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/artificial-intelligence/)

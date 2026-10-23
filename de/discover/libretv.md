@@ -2,12 +2,13 @@
 
 LibreSpark/LibreTV ist ein TypeScript-basiertes Softwareprojekt, mit dem Sie innerhalb einer Minute eine Film- und Serien-Website mittels Methoden wie Docker einrichten können. Es bietet eine Infrastruktur, die es Benutzern ermöglicht, schnell ihre eigenen Inhaltsplattformen zu erstellen.
 
-- ★ 20.940
+- ★ 21.315
 - TypeScript
 - GitHub Trending · 2026-10-16
 
 ## Aktualisierungen
 
+- **23. Oktober 2026:** Sterne 20,940 → 21,315, neueste Version v2.21.0 (23. Oktober 2026).
 - **22. Oktober 2026:** Sterne 19,801 → 20,940.
 - **19. Oktober 2026:** Sterne 18,500 → 19,801.
 

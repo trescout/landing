@@ -2,16 +2,16 @@
 
 Madeira ist ein Kompatibilitätsschicht-Projekt, das es ermöglicht, Windows-Spiele mit x86-64-Architektur auf eingeschränkten (jailed) iOS-Geräten auszuführen. Die Software funktioniert durch die Kombination des Prozessor-Emulators FEX-Emu, der Windows-Anwendungsschicht Wine und des Grafikkonverters DXMT.
 
-- ★ 1.730
+- ★ 2.732
 - C
 - GitHub Trending · 2026-09-29
 
 ## Aktualisierungen
 
+- **23. Oktober 2026:** Sterne 1,730 → 2,732, neueste Version v0.1.3 (3. Oktober 2026).
 - **4. Oktober 2026:** Sterne 1,672 → 1,730, neueste Version v0.1.3 (3. Oktober 2026).
 - **3. Oktober 2026:** Sterne 1,411 → 1,672, neueste Version v0.1.2 (3. Oktober 2026).
 - **2. Oktober 2026:** Sterne 1,196 → 1,411, neueste Version v0.1.1 (2. Oktober 2026).
-- **1. Oktober 2026:** Sterne 1,016 → 1,196, neueste Version v0.1.0 (1. Oktober 2026).
 
 ## Was es bringt
 

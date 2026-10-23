@@ -2,16 +2,16 @@
 
 Madeira, x86-64 mimarili Windows oyunlarını kısıtlanmış (jailed) iOS cihazlarda çalıştırmayı sağlayan bir uyumluluk katmanı projesi. Yazılım, işlemci emülasyonu yapan FEX-Emu, Windows uygulama katmanı Wine ve grafik dönüştürücü DXMT araçlarını birleştirerek çalışıyor.
 
-- ★ 1.730
+- ★ 2.732
 - C
 - GitHub Trending · 2026-09-29
 
 ## Güncelleme
 
+- **23 Ekim 2026:** Yıldız 1.730 → 2.732, son sürüm v0.1.3 (3 Ekim 2026).
 - **4 Ekim 2026:** Yıldız 1.672 → 1.730, son sürüm v0.1.3 (3 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 1.411 → 1.672, son sürüm v0.1.2 (3 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 1.196 → 1.411, son sürüm v0.1.1 (2 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 1.016 → 1.196, son sürüm v0.1.0 (1 Ekim 2026).
 
 ## Ne kazandırır?
 

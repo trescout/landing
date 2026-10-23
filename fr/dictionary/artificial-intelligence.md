@@ -48,8 +48,8 @@ L’intelligence artificielle va changer la façon dont de nombreux travaux sont
 - [Public Apis](https://trescout.com/fr/discover/public-apis/)
 - [freeCodeCamp](https://trescout.com/fr/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/fr/discover/openclaw/)
-- [System Design Primer](https://trescout.com/fr/discover/system-design-primer/)
 - [REA](https://trescout.com/fr/discover/rea/)
+- [System Design Primer](https://trescout.com/fr/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/fr/discover/coding-interview-university/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/artificial-intelligence/)

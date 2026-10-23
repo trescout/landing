@@ -2,16 +2,16 @@
 
 O Madeira é um projeto de camada de compatibilidade que permite rodar jogos do Windows com arquitetura x86-64 em dispositivos iOS restritos (jailed). O software funciona combinando a ferramenta FEX-Emu (que faz emulação de processador), a camada de aplicação do Windows Wine e o conversor gráfico DXMT.
 
-- ★ 1.730
+- ★ 2.732
 - C
 - GitHub Trending · 2026-09-29
 
 ## Atualizações
 
+- **23 de outubro de 2026:** Estrelas 1,730 → 2,732, versão mais recente v0.1.3 (3 de outubro de 2026).
 - **4 de outubro de 2026:** Estrelas 1,672 → 1,730, versão mais recente v0.1.3 (3 de outubro de 2026).
 - **3 de outubro de 2026:** Estrelas 1,411 → 1,672, versão mais recente v0.1.2 (3 de outubro de 2026).
 - **2 de outubro de 2026:** Estrelas 1,196 → 1,411, versão mais recente v0.1.1 (2 de outubro de 2026).
-- **1 de outubro de 2026:** Estrelas 1,016 → 1,196, versão mais recente v0.1.0 (1 de outubro de 2026).
 
 ## O que você ganha
 

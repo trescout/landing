@@ -1479,13 +1479,13 @@
     "slug": "kronos",
     "title": "Kronos",
     "tagline": "Finansal piyasaların dilini çözmek için geliştirilmiş açık kaynak temel model.",
-    "meta": "★ 41.288 · MIT",
+    "meta": "★ 43.374 · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 41288,
+    "stars": 43374,
     "image": "/assets/discover/og/kronos.webp",
     "headline": "Finansal piyasaları analiz eden model",
     "last_review": "2026-10-23",
@@ -1509,6 +1509,11 @@
         "tarih": "2026-10-19",
         "yildiz": 41288,
         "onceki_yildiz": 39218
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 43374,
+        "onceki_yildiz": 41288
       }
     ],
     "tagline_en": "An open source basic model developed to decipher the language of financial markets.",
@@ -12412,14 +12417,14 @@
     "slug": "penpot",
     "title": "Penpot",
     "tagline": "Penpot, tasarımcılar ve yazılımcılar arasında iş birliğini güçlendiren açık kaynaklı bir tasarım aracıdır.",
-    "meta": "★ 60.747 · Clojure",
+    "meta": "★ 61.530 · Clojure",
     "image": "/assets/discover/og/penpot.webp",
     "source": "GitHub",
     "date": "2026-06-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 60747,
+    "stars": 61530,
     "lite": false,
     "headline": "Tasarım ve yazılımı birleştiren platform",
     "last_review": "2026-10-23",
@@ -12472,6 +12477,13 @@
         "onceki_yildiz": 60712,
         "surum": "2.18.3",
         "surum_tarihi": "2026-10-06"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 61530,
+        "onceki_yildiz": 60747,
+        "surum": "2.18.4",
+        "surum_tarihi": "2026-10-23"
       }
     ],
     "tagline_en": "Penpot is an open source design tool that strengthens collaboration between designers and developers.",
@@ -15309,7 +15321,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 70.314 · TypeScript",
+    "meta": "★ 70.398 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -15317,7 +15329,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 70314,
+    "stars": 70398,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-23",
@@ -15853,6 +15865,13 @@
         "onceki_yildiz": 69564,
         "surum": "v0.8.186",
         "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 70398,
+        "onceki_yildiz": 70314,
+        "surum": "v0.8.188",
+        "surum_tarihi": "2026-10-23"
       }
     ],
     "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.",
@@ -20567,14 +20586,14 @@
     "slug": "folia-major",
     "title": "Folia Major",
     "tagline": "Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı…",
-    "meta": "★ 8.799 · TypeScript",
+    "meta": "★ 8.971 · TypeScript",
     "image": "/assets/discover/og/folia-major.webp",
     "source": "GitHub",
     "date": "2026-07-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 8799,
+    "stars": 8971,
     "lite": false,
     "headline": "Müzik deneyimini görselleştiren şarkı oynatıcı",
     "last_review": "2026-10-23",
@@ -20788,6 +20807,13 @@
         "onceki_yildiz": 7781,
         "surum": "v0.7.21",
         "surum_tarihi": "2026-10-18"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 8971,
+        "onceki_yildiz": 8799,
+        "surum": "v0.7.22",
+        "surum_tarihi": "2026-10-23"
       }
     ],
     "tagline_en": "Folia-major is a player that provides visualized lyric animations for local music files and online platforms.",
@@ -20854,7 +20880,7 @@
     "slug": "claude-skills",
     "title": "Claude Skills",
     "tagline": "Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda…",
-    "meta": "★ 28.525 · Python",
+    "meta": "★ 28.584 · Python",
     "image": "/assets/discover/og/claude-skills.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -20862,7 +20888,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28525,
+    "stars": 28584,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına uzmanlık kazandırın",
     "last_review": "2026-10-23",
@@ -20915,6 +20941,13 @@
         "onceki_yildiz": 28485,
         "surum": "v2.14.0",
         "surum_tarihi": "2026-10-21"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 28584,
+        "onceki_yildiz": 28525,
+        "surum": "v2.14.1",
+        "surum_tarihi": "2026-10-23"
       }
     ],
     "tagline_en": "This library, developed for Claude Code and various coding agents, is used in different fields from engineering to marketing.",
@@ -33144,14 +33177,14 @@
     "slug": "webpack",
     "title": "Webpack",
     "tagline": "Webpack, JavaScript ve diğer web varlıklarını tarayıcıda çalışacak şekilde bir araya getiren bir paketleyici (bundler).",
-    "meta": "★ 65.968 · JavaScript",
+    "meta": "★ 65.969 · JavaScript",
     "image": "/assets/discover/og/webpack.webp",
     "source": "GitHub",
     "date": "2026-08-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 65968,
+    "stars": 65969,
     "lite": false,
     "headline": "Web projeleri için modül paketleyici",
     "last_review": "2026-10-23",
@@ -33211,6 +33244,13 @@
         "onceki_yildiz": 65976,
         "surum": "v5.112.1",
         "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 65969,
+        "onceki_yildiz": 65968,
+        "surum": "v5.112.2",
+        "surum_tarihi": "2026-10-23"
       }
     ],
     "tagline_en": "Webpack is a bundler that bundles JavaScript and other web assets together to run in the browser.",
@@ -33477,7 +33517,7 @@
     "slug": "computer",
     "title": "Computer",
     "tagline": "Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği…",
-    "meta": "★ 9.659 · TypeScript",
+    "meta": "★ 9.686 · TypeScript",
     "image": "/assets/discover/og/computer.webp",
     "source": "GitHub",
     "date": "2026-08-06",
@@ -33485,7 +33525,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9659,
+    "stars": 9686,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına bilgisayar kontrolü",
     "last_review": "2026-10-23",
@@ -33575,6 +33615,13 @@
         "onceki_yildiz": 9576,
         "surum": "@cloudflare/computer@0.6.0",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 9686,
+        "onceki_yildiz": 9659,
+        "surum": "@cloudflare/computer@0.7.0",
+        "surum_tarihi": "2026-10-23"
       }
     ],
     "tagline_fr": "Développé par Cloudflare, Computer donne aux agents d'intelligence artificielle la possibilité de contrôler un ordinateur local ou distant.",
@@ -34236,14 +34283,14 @@
     "slug": "mise",
     "title": "Mise",
     "tagline": "Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek…",
-    "meta": "★ 35.230 · Rust",
+    "meta": "★ 35.301 · Rust",
     "image": "/assets/discover/og/mise.webp",
     "source": "GitHub",
     "date": "2026-08-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 35230,
+    "stars": 35301,
     "lite": false,
     "headline": "Geliştirme ortamınızı tek merkezden yönetin",
     "needs_enrichment": true,
@@ -34551,6 +34598,13 @@
         "onceki_yildiz": 35166,
         "surum": "v2026.10.17",
         "surum_tarihi": "2026-10-21"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 35301,
+        "onceki_yildiz": 35230,
+        "surum": "v2026.10.18",
+        "surum_tarihi": "2026-10-23"
       }
     ],
     "tagline_fr": "Mise combine des outils de développement logiciel, des variables d'environnement et des exécuteurs de tâches en un seul…",
@@ -38072,7 +38126,7 @@
     "slug": "openviking",
     "title": "OpenViking",
     "tagline": "Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı sunuyor.",
-    "meta": "★ 40.425 · Python",
+    "meta": "★ 40.663 · Python",
     "image": "/assets/discover/og/openviking.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -38080,7 +38134,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 40425,
+    "stars": 40663,
     "lite": false,
     "headline": "Yapay zekâ ajanları için dosya sistemli hafıza",
     "tagline_en": "Developed by Volcengine, OpenViking offers a self-improving context database for AI agents.",
@@ -38187,6 +38241,13 @@
         "onceki_yildiz": 40333,
         "surum": "v0.5.1.1",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 40663,
+        "onceki_yildiz": 40425,
+        "surum": "v0.5.2",
+        "surum_tarihi": "2026-10-23"
       }
     ],
     "last_seen": "2026-08-21"
@@ -45781,7 +45842,7 @@
     "slug": "deskcommcrm",
     "title": "DeskcommCRM",
     "tagline": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM)…",
-    "meta": "★ 4.787 · TypeScript",
+    "meta": "★ 4.815 · TypeScript",
     "image": "/assets/discover/og/deskcommcrm.webp",
     "source": "GitHub",
     "date": "2026-09-12",
@@ -45790,7 +45851,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4787,
+    "stars": 4815,
     "summary": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanlarıyla, benzer işlevlere sahip ticari yazılımlara (Kommo, Octadesk, Intercom) kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı yapay zekâlı CRM",
@@ -45998,6 +46059,13 @@
         "onceki_yildiz": 4721,
         "surum": "v1.87.0",
         "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 4815,
+        "onceki_yildiz": 4787,
+        "surum": "v1.88.0",
+        "surum_tarihi": "2026-10-23"
       }
     ],
     "tagline_en": "DeskcommCRM is an open-source customer relationship management (CRM) system developed for businesses that sell via chat...",
@@ -49905,14 +49973,14 @@
     "slug": "madeira",
     "title": "Madeira",
     "tagline": "Madeira, x86-64 mimarili Windows oyunlarını kısıtlanmış (jailed) iOS cihazlarda çalıştırmayı sağlayan bir uyumluluk katmanı…",
-    "meta": "★ 1.730 · C",
+    "meta": "★ 2.732 · C",
     "image": "/assets/discover/og/madeira.webp",
     "source": "GitHub",
     "date": "2026-09-29",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1730,
+    "stars": 2732,
     "last_seen": "2026-09-30",
     "summary": "Madeira, x86-64 mimarili Windows oyunlarını kısıtlanmış (jailed) iOS cihazlarda çalıştırmayı sağlayan bir uyumluluk katmanı projesi. Yazılım, işlemci emülasyonu yapan FEX-Emu, Windows uygulama katmanı Wine ve grafik dönüştürücü DXMT araçlarını birleştirerek çalışıyor.",
     "lite": false,
@@ -49949,6 +50017,13 @@
         "tarih": "2026-10-04",
         "yildiz": 1730,
         "onceki_yildiz": 1672,
+        "surum": "v0.1.3",
+        "surum_tarihi": "2026-10-03"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 2732,
+        "onceki_yildiz": 1730,
         "surum": "v0.1.3",
         "surum_tarihi": "2026-10-03"
       }
@@ -51035,7 +51110,7 @@
     "slug": "rea",
     "title": "REA",
     "tagline": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı…",
-    "meta": "★ 352.431 · TypeScript",
+    "meta": "★ 370.367 · TypeScript",
     "image": "/assets/discover/og/rea.webp",
     "source": "GitHub",
     "date": "2026-10-06",
@@ -51043,7 +51118,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 352431,
+    "stars": 370367,
     "last_seen": "2026-10-16",
     "summary": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu yazılım, karmaşık sistemlerin çalışma mantığını otomatize edilmiş süreçlerle çözümlemeyi amaçlar.",
     "lite": false,
@@ -51215,6 +51290,13 @@
         "tarih": "2026-10-21",
         "yildiz": 352431,
         "onceki_yildiz": 329371,
+        "surum": "rea-agents-6.7.0",
+        "surum_tarihi": "2026-10-18"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 370367,
+        "onceki_yildiz": 352431,
         "surum": "rea-agents-6.7.0",
         "surum_tarihi": "2026-10-18"
       }
@@ -51990,14 +52072,14 @@
     "slug": "libretv",
     "title": "LibreTV",
     "tagline": "LibreSpark/LibreTV, Docker gibi yöntemlerle bir dakika içinde film ve dizi sitesi kurmanıza olanak tanıyan TypeScript tabanlı…",
-    "meta": "★ 20.940 · TypeScript",
+    "meta": "★ 21.315 · TypeScript",
     "image": "/assets/discover/og/libretv.webp",
     "source": "GitHub",
     "date": "2026-10-16",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 20940,
+    "stars": 21315,
     "last_seen": "2026-10-16",
     "summary": "LibreSpark/LibreTV, Docker gibi yöntemlerle bir dakika içinde film ve dizi sitesi kurmanıza olanak tanıyan TypeScript tabanlı bir yazılım projesidir. Kullanıcıların kendi içerik platformlarını hızlıca oluşturmalarını sağlayan bir altyapı sunar.",
     "lite": false,
@@ -52018,6 +52100,13 @@
         "tarih": "2026-10-22",
         "yildiz": 20940,
         "onceki_yildiz": 19801
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 21315,
+        "onceki_yildiz": 20940,
+        "surum": "v2.21.0",
+        "surum_tarihi": "2026-10-23"
       }
     ]
   },
@@ -52073,7 +52162,7 @@
     "slug": "dsh-purge",
     "title": "Dsh Purge",
     "tagline": "YuJunZhiXue/dsh-purge, farklı yapay zekâ modelleri için özelleştirilebilir komut istemleri (prompts) kullanarak güvenlik…",
-    "meta": "★ 6.492 · JavaScript",
+    "meta": "★ 6.673 · JavaScript",
     "image": "/assets/discover/og/dsh-purge.webp",
     "source": "GitHub",
     "date": "2026-10-19",
@@ -52081,7 +52170,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6492,
+    "stars": 6673,
     "last_seen": "2026-10-19",
     "summary": "YuJunZhiXue/dsh-purge, farklı yapay zekâ modelleri için özelleştirilebilir komut istemleri (prompts) kullanarak güvenlik kısıtlamalarını aşmayı (jailbreak) hedefleyen bir JavaScript aracıdır. Proje, kullanıcıların farklı modeller için kendi komutlarını tanımlamasına ve varsayılan olarak yerel modellere odaklanmasına olanak tanır.",
     "lite": false,
@@ -52107,6 +52196,13 @@
         "yildiz": 6492,
         "onceki_yildiz": 10161,
         "surum": "v1.1.73",
+        "surum_tarihi": "2026-10-23"
+      },
+      {
+        "tarih": "2026-10-23",
+        "yildiz": 6673,
+        "onceki_yildiz": 6492,
+        "surum": "v1.1.74",
         "surum_tarihi": "2026-10-23"
       }
     ],

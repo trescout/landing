@@ -48,8 +48,8 @@ Künstliche Intelligenz wird die Art und Weise, wie viele Arbeiten erledigt werd
 - [Public Apis](https://trescout.com/de/discover/public-apis/)
 - [freeCodeCamp](https://trescout.com/de/discover/freecodecamp/)
 - [Openclaw](https://trescout.com/de/discover/openclaw/)
-- [System Design Primer](https://trescout.com/de/discover/system-design-primer/)
 - [REA](https://trescout.com/de/discover/rea/)
+- [System Design Primer](https://trescout.com/de/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/de/discover/coding-interview-university/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/artificial-intelligence/)
