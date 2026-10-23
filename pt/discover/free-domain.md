@@ -41,6 +41,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [DNS](https://trescout.com/pt/dictionary/dns/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Qualquer pessoa que queira um endereço da web gratuito (sem necessidade de código)

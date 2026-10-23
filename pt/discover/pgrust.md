@@ -2,16 +2,16 @@
 
 O projeto pgrust, no qual o sistema de gerenciamento de banco de dados PostgreSQL foi reescrito com a linguagem de programação Rust, conclui com êxito todos os testes de regressão. Este trabalho tem como objetivo modernizar a arquitetura de banco de dados com uma linguagem focada na segurança de memória.
 
-- ★ 5.282
+- ★ 5.327
 - Rust
 - GitHub Trending · 2026-07-12
 
 ## Atualizações
 
+- **23 de outubro de 2026:** Estrelas 5,282 → 5,327, versão mais recente v0.4-beta (22 de outubro de 2026).
 - **20 de outubro de 2026:** Estrelas 5,030 → 5,282, versão mais recente v0.3.1 (19 de outubro de 2026).
 - **16 de setembro de 2026:** Estrelas 4,964 → 5,030, versão mais recente v0.3 (15 de setembro de 2026).
 - **10 de setembro de 2026:** Estrelas 3,957 → 4,964, versão mais recente v0.2-release (30 de julho de 2026).
-- **2 de agosto de 2026:** Estrelas 2,171 → 3,957, versão mais recente v0.2-release (30 de julho de 2026).
 
 ## O que você ganha
 

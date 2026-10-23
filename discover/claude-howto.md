@@ -2,12 +2,13 @@
 
 Claude Code için hazırlanan bu görsel rehber, temel kavramlardan ileri seviye ajan (agent) yapılandırmalarına kadar geniş bir yelpazede örnekler sunuyor. Kopyalanabilir şablonlar aracılığıyla kullanıcıların kod yazma süreçlerini hızlandırmayı ve uygulama geliştirme pratiklerini standartlaştırmayı amaçlıyor.
 
-- ★ 40.779
+- ★ 43.681
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Güncelleme
 
+- **23 Ekim 2026:** Yıldız 40.779 → 43.681, son sürüm v2.1.160 (2 Haziran 2026).
 - **2 Ağustos 2026:** Yıldız 36.008 → 40.779, son sürüm v2.1.160 (2 Haziran 2026).
 
 ## Ne kazandırır?

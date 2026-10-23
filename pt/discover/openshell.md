@@ -2,16 +2,16 @@
 
 Desenvolvido pela NVIDIA, o OpenShell oferece um ambiente de tempo de execução seguro e focado em privacidade para agentes autônomos de inteligência artificial. Escrita em Rust, esta infraestrutura visa criar uma área de execução segura ao isolar o acesso dos agentes aos recursos do sistema.
 
-- ★ 16.850
+- ★ 18.169
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Atualizações
 
+- **23 de outubro de 2026:** Estrelas 16,850 → 18,169, versão mais recente v0.1.5 (20 de outubro de 2026).
 - **21 de outubro de 2026:** Estrelas 16,170 → 16,850, versão mais recente v0.1.5 (20 de outubro de 2026).
 - **14 de outubro de 2026:** Estrelas 15,577 → 16,170, versão mais recente v0.1.4 (13 de outubro de 2026).
 - **9 de outubro de 2026:** Estrelas 15,205 → 15,577, versão mais recente v0.1.3 (9 de outubro de 2026).
-- **7 de outubro de 2026:** Estrelas 14,197 → 15,205, versão mais recente v0.1.2 (28 de setembro de 2026).
 
 ## O que você ganha
 

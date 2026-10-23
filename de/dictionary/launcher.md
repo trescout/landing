@@ -40,6 +40,7 @@ Die meisten modernen Betriebssysteme verfügen über ein integriertes Such-/Star
 
 ## Verwandte Werkzeuge
 
+- [PCL](https://trescout.com/de/discover/pcl/)
 - [Tinycast](https://trescout.com/de/discover/tinycast/)
 - [YimMenuV2](https://trescout.com/de/discover/yimmenuv2/)
 

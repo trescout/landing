@@ -40,8 +40,8 @@ Você pode abri-lo com qualquer editor de texto, mas pode lê-lo formatado mais 
 
 ## Ferramentas relacionadas
 
-- [MarkItDown](https://trescout.com/pt/discover/markitdown/)
 - [Firecrawl](https://trescout.com/pt/discover/firecrawl/)
+- [MarkItDown](https://trescout.com/pt/discover/markitdown/)
 - [PaddleOCR](https://trescout.com/pt/discover/paddleocr/)
 - [Scrapling](https://trescout.com/pt/discover/scrapling/)
 - [Crawl4AI](https://trescout.com/pt/discover/crawl4ai/)

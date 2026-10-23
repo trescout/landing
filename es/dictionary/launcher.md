@@ -40,6 +40,7 @@ La mayor√≠a de los sistemas operativos modernos vienen con una herramienta de b√
 
 ## Herramientas relacionadas
 
+- [PCL](https://trescout.com/es/discover/pcl/)
 - [Tinycast](https://trescout.com/es/discover/tinycast/)
 - [YimMenuV2](https://trescout.com/es/discover/yimmenuv2/)
 

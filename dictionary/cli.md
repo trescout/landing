@@ -50,7 +50,7 @@ Sistem genellikle hata verir, ancak dikkatli olunması gereken kritik komutlar d
 - [Codex](https://trescout.com/discover/codex/)
 - [PI](https://trescout.com/discover/pi/)
 - [TradingAgents](https://trescout.com/discover/tradingagents/)
-- [Angular](https://trescout.com/discover/angular/)
+- [Agent-Reach](https://trescout.com/discover/agent-reach/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

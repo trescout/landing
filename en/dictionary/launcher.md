@@ -40,6 +40,7 @@ Most modern operating systems come with a built-in search/launch tool, but third
 
 ## Related tools
 
+- [PCL](https://trescout.com/en/discover/pcl/)
 - [Tinycast](https://trescout.com/en/discover/tinycast/)
 - [YimMenuV2](https://trescout.com/en/discover/yimmenuv2/)
 

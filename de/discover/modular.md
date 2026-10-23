@@ -2,12 +2,13 @@
 
 Die Modulare Plattform bietet eine leistungsstarke Infrastruktur für KI-Projekte und umfasst MAX und Mojo.
 
-- ★ 29.812
+- ★ 30.001
 - Mojo
 - GitHub Trending · 2026-08-20
 
 ## Aktualisierungen
 
+- **23. Oktober 2026:** Sterne 29,812 → 30,001, neueste Version max/v26.7.0 (22. Oktober 2026).
 - **18. September 2026:** Sterne 28,875 → 29,812, neueste Version max/v26.6.0 (17. September 2026).
 - **23. August 2026:** Sterne 27,449 → 28,875, neueste Version max/v26.5.0 (11. August 2026).
 - **20. August 2026:** Sterne 27,442 → 27,449, neueste Version max/v26.5.0 (11. August 2026).

@@ -2,16 +2,16 @@
 
 Agent-native wurde von BuilderIO entwickelt und ist ein TypeScript-Framework, das sich auf die Erstellung agentennativer Anwendungen für Agenten der künstlichen Intelligenz konzentriert. Es ermöglicht Entwicklern, agentenbasierte Workflows direkt in die Anwendungsarchitektur zu integrieren.
 
-- ★ 7.479
+- ★ 7.495
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Aktualisierungen
 
+- **23. Oktober 2026:** Sterne 7,479 → 7,495, neueste Version @agent-native/dispatch@0.40.39 (23. Oktober 2026).
 - **22. Oktober 2026:** Sterne 7,471 → 7,479, neueste Version @agent-native/toolkit@0.214.0 (21. Oktober 2026).
 - **21. Oktober 2026:** Sterne 7,470 → 7,471, neueste Version @agent-native/creative-context@0.8.49 (21. Oktober 2026).
 - **21. Oktober 2026:** Sterne 7,455 → 7,470, neueste Version v0.1.286 (20. Oktober 2026).
-- **20. Oktober 2026:** Sterne 7,402 → 7,455, neueste Version v0.1.284 (19. Oktober 2026).
 
 ## Was es bringt
 

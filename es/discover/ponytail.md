@@ -2,16 +2,16 @@
 
 Aplica reglas orientadas a tareas para reducir código innecesario y garantizar validación, seguridad y accesibilidad durante el flujo de codificación agentic. Está pensado para integrarse como plugin o adaptador en varios host de agentes.
 
-- ★ 165.409
+- ★ 174.244
 - JavaScript
 - GitHub Trending · 2026-08-25
 
 ## Actualizaciones
 
+- **23 de octubre de 2026:** Estrellas 165,409 → 174,244, última versión v5.3.2 (16 de octubre de 2026).
 - **17 de octubre de 2026:** Estrellas 164,759 → 165,409, última versión v5.3.2 (16 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 162,432 → 164,759, última versión v5.3.0 (16 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 158,247 → 162,432, última versión v5.2.0 (13 de octubre de 2026).
-- **8 de octubre de 2026:** Estrellas 158,137 → 158,247, última versión v5.1.0 (8 de octubre de 2026).
 
 ## Instalación
 

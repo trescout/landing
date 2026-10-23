@@ -77,6 +77,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [DNS](https://trescout.com/de/dictionary/dns/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)

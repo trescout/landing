@@ -2,12 +2,13 @@
 
 The Modular Platform provides high-performance infrastructure for AI projects and includes MAX and Mojo.
 
-- ★ 29,812
+- ★ 30,001
 - Mojo
 - GitHub Trending · 2026-08-20
 
 ## Updates
 
+- **October 23, 2026:** Stars 29,812 → 30,001, latest release max/v26.7.0 (October 22, 2026).
 - **September 18, 2026:** Stars 28,875 → 29,812, latest release max/v26.6.0 (September 17, 2026).
 - **August 23, 2026:** Stars 27,449 → 28,875, latest release max/v26.5.0 (August 11, 2026).
 - **August 20, 2026:** Stars 27,442 → 27,449, latest release max/v26.5.0 (August 11, 2026).

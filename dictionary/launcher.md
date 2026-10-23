@@ -40,6 +40,7 @@ Bilgisayarın çalışma hızını doğrudan artırmaz, ancak sizin uygulama aç
 
 ## İlgili araçlar
 
+- [PCL](https://trescout.com/discover/pcl/)
 - [Tinycast](https://trescout.com/discover/tinycast/)
 - [YimMenuV2](https://trescout.com/discover/yimmenuv2/)
 

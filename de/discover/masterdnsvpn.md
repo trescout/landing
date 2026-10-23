@@ -55,6 +55,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [DNS Tunneling](https://trescout.com/de/dictionary/dns-tunneling/)
 - [Resolver Load Balancing](https://trescout.com/de/dictionary/resolver-load-balancing/)
+- [DNS](https://trescout.com/de/dictionary/dns/)
 - [VPN](https://trescout.com/de/dictionary/vpn/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

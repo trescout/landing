@@ -90,6 +90,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [DNS](https://trescout.com/dictionary/dns/)
 - [CLI](https://trescout.com/dictionary/cli/)
 - [Rust](https://trescout.com/dictionary/rust/)
 - [Open Source](https://trescout.com/dictionary/open-source/)

@@ -2,12 +2,13 @@
 
 Bitchat-android oferece uma experiência de mensagens descentralizada que não requer conexão com a internet, usando tecnologia mesh Bluetooth. O aplicativo, desenvolvido em linguagem Kotlin, permite aos usuários estabelecer comunicação semelhante a IRC na rede local.
 
-- ★ 7.424
+- ★ 7.850
 - Kotlin
 - GitHub Trending · 2026-07-27
 
 ## Atualizações
 
+- **23 de outubro de 2026:** Estrelas 7,424 → 7,850, versão mais recente v2.0.3 (22 de outubro de 2026).
 - **12 de agosto de 2026:** Estrelas 7,246 → 7,424, versão mais recente v2.0.1 (11 de agosto de 2026).
 - **2 de agosto de 2026:** Estrelas 6,833 → 7,246, versão mais recente 1.7.4 (17 de junho de 2026).
 

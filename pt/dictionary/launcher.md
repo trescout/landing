@@ -40,6 +40,7 @@ A maioria dos sistemas operacionais modernos vem com uma ferramenta de pesquisa/
 
 ## Ferramentas relacionadas
 
+- [PCL](https://trescout.com/pt/discover/pcl/)
 - [Tinycast](https://trescout.com/pt/discover/tinycast/)
 - [YimMenuV2](https://trescout.com/pt/discover/yimmenuv2/)
 

@@ -2,16 +2,16 @@
 
 An MIT-licensed rule set and plugin system for AI coding agents. Its aim is to preserve validation, error handling, security, and accessibility while writing only the code required for a task.
 
-- ★ 165,409
+- ★ 174,244
 - JavaScript
 - GitHub Trending · 2026-08-25
 
 ## Updates
 
+- **October 23, 2026:** Stars 165,409 → 174,244, latest release v5.3.2 (October 16, 2026).
 - **October 17, 2026:** Stars 164,759 → 165,409, latest release v5.3.2 (October 16, 2026).
 - **October 16, 2026:** Stars 162,432 → 164,759, latest release v5.3.0 (October 16, 2026).
 - **October 13, 2026:** Stars 158,247 → 162,432, latest release v5.2.0 (October 13, 2026).
-- **October 8, 2026:** Stars 158,137 → 158,247, latest release v5.1.0 (October 8, 2026).
 
 ## Installation
 

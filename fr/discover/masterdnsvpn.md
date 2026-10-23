@@ -55,6 +55,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [DNS Tunneling](https://trescout.com/fr/dictionary/dns-tunneling/)
 - [Resolver Load Balancing](https://trescout.com/fr/dictionary/resolver-load-balancing/)
+- [DNS](https://trescout.com/fr/dictionary/dns/)
 - [VPN](https://trescout.com/fr/dictionary/vpn/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

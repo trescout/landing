@@ -73,6 +73,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [DNS](https://trescout.com/de/dictionary/dns/)
 - [OSINT](https://trescout.com/de/dictionary/osint/)
 - [Proxy](https://trescout.com/de/dictionary/proxy/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)

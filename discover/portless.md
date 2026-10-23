@@ -2,12 +2,13 @@
 
 Vercel Labs tarafından geliştirilen Portless, yerel geliştirme ortamlarında kullanılan port numaralarını kalıcı ve isimlendirilmiş URL adreslerine dönüştürüyor. Bu araç, hem yazılımcıların hem de otonom yapay zekâ ajanlarının yerel servislerle daha kolay etkileşime girmesini sağlıyor.
 
-- ★ 12.695
+- ★ 12.732
 - TypeScript
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
 
+- **23 Ekim 2026:** Yıldız 12.695 → 12.732, son sürüm v0.15.9 (22 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 12.632 → 12.695, son sürüm v0.15.8 (13 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 11.949 → 12.632, son sürüm v0.15.7 (2 Ekim 2026).
 - **3 Eylül 2026:** Yıldız 11.944 → 11.949, son sürüm v0.15.6 (24 Ağustos 2026).

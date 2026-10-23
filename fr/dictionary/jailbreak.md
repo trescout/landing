@@ -42,9 +42,9 @@ Lors de l'entraînement des modèles, les développeurs ajoutent des couches de 
 ## Outils liés
 
 - [Ipatool](https://trescout.com/fr/discover/ipatool/)
-- [Dsh Purge](https://trescout.com/fr/discover/dsh-purge/)
 - [Dopamine](https://trescout.com/fr/discover/dopamine/)
 - [AI-Infra-Guard](https://trescout.com/fr/discover/ai-infra-guard/)
+- [Dsh Purge](https://trescout.com/fr/discover/dsh-purge/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/jailbreak/)
 

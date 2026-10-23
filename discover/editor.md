@@ -2,16 +2,16 @@
 
 TypeScript tabanlı pascalorg/editor, kullanıcıların tarayıcı üzerinden üç boyutlu mimari projeler oluşturmasına ve bu projeleri paylaşmasına olanak tanıyor. Yazılım, mimari tasarım süreçlerini web tabanlı bir arayüzle erişilebilir kılmayı hedefliyor.
 
-- ★ 25.045
+- ★ 25.067
 - TypeScript
 - GitHub Trending · 2026-07-29
 
 ## Güncelleme
 
+- **23 Ekim 2026:** Yıldız 25.045 → 25.067, son sürüm @pascal-app/cli@1.0.6 (23 Ekim 2026).
 - **22 Ekim 2026:** Yıldız 24.840 → 25.045, son sürüm @pascal-app/cli@1.0.5 (22 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 24.327 → 24.840, son sürüm @pascal-app/cli@1.0.4 (13 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 24.117 → 24.327, son sürüm v1.0.3 (24 Eylül 2026).
-- **19 Eylül 2026:** Yıldız 24.051 → 24.117, son sürüm @pascal-app/cli@1.0.2 (18 Eylül 2026).
 
 ## Ne kazandırır?
 

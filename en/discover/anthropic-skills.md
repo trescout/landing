@@ -2,7 +2,7 @@
 
 Anthropic Skills; It is the official repository of skill packs that Claude dynamically loads to perform better on specific missions. These folders of instructions, scripts, and resources teach Claude how to do certain tasks.
 
-- ★ 174,279
+- ★ 183,154
 - Python
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026
@@ -11,6 +11,7 @@ Anthropic Skills; It is the official repository of skill packs that Claude dynam
 
 ## Updates
 
+- **October 23, 2026:** Stars 174,279 → 183,154.
 - **September 5, 2026:** Stars 165,785 → 174,279.
 - **August 2, 2026:** Stars 143,307 → 165,785.
 

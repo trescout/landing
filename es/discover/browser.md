@@ -2,16 +2,16 @@
 
 Lightpanda es un navegador sin interfaz gráfica (headless browser) escrito en el lenguaje Zig, desarrollado específicamente para procesos de IA y automatización. Su objetivo es acelerar el web scraping y las operaciones de automatización web consumiendo menos recursos en comparación con los navegadores tradicionales.
 
-- ★ 36.546
+- ★ 36.899
 - Zig
 - GitHub Trending · 2026-09-08
 
 ## Actualizaciones
 
+- **23 de octubre de 2026:** Estrellas 36,546 → 36,899, última versión 1.0.2 (23 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 36,160 → 36,546, última versión 1.0.1 (15 de octubre de 2026).
 - **9 de octubre de 2026:** Estrellas 35,884 → 36,160, última versión 1.0.0 (2 de octubre de 2026).
 - **3 de octubre de 2026:** Estrellas 35,689 → 35,884, última versión nightly (16 de julio de 2024).
-- **2 de octubre de 2026:** Estrellas 35,072 → 35,689, última versión 1.0.0 (2 de octubre de 2026).
 
 ## Qué aporta
 

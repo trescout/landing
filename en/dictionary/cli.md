@@ -50,7 +50,7 @@ The system usually gives errors, but there are also critical commands that requi
 - [Codex](https://trescout.com/en/discover/codex/)
 - [PI](https://trescout.com/en/discover/pi/)
 - [TradingAgents](https://trescout.com/en/discover/tradingagents/)
-- [Angular](https://trescout.com/en/discover/angular/)
+- [Agent-Reach](https://trescout.com/en/discover/agent-reach/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cli/)
 

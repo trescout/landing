@@ -55,6 +55,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [DNS Tunneling](https://trescout.com/pt/dictionary/dns-tunneling/)
 - [Resolver Load Balancing](https://trescout.com/pt/dictionary/resolver-load-balancing/)
+- [DNS](https://trescout.com/pt/dictionary/dns/)
 - [VPN](https://trescout.com/pt/dictionary/vpn/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

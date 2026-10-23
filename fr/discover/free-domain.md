@@ -41,6 +41,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [DNS](https://trescout.com/fr/dictionary/dns/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Toute personne souhaitant une adresse Web gratuite (aucun code requis)

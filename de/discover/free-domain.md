@@ -41,6 +41,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [DNS](https://trescout.com/de/dictionary/dns/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Jeder, der eine kostenlose Webadresse möchte (kein Code erforderlich)

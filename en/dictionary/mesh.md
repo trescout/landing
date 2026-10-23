@@ -64,8 +64,8 @@ Home mesh kits are typically installed in minutes with a mobile app. Corporate o
 - [Meshery](https://trescout.com/en/discover/meshery/)
 - [Meshoptimizer](https://trescout.com/en/discover/meshoptimizer/)
 - [Modly](https://trescout.com/en/discover/modly/)
-- [Tailcat](https://trescout.com/en/discover/tailcat/)
 - [Bitchat Android](https://trescout.com/en/discover/bitchat-android/)
+- [Tailcat](https://trescout.com/en/discover/tailcat/)
 - [Spirula Studio](https://trescout.com/en/discover/spirula-studio/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/mesh/)

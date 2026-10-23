@@ -2,13 +2,14 @@
 
 **social-auto-upload**, videolarınızı **TikTok, YouTube, Bilibili, Douyin ve Xiaohongshu** gibi sosyal medya platformlarına otomatik olarak yükleyen bir Python aracıdır. Çok platformlu içerik dağıtım süreçlerinizi kolaylaştırır.
 
-- ★ 14.937
+- ★ 15.745
 - Python
 - Lisans: yok
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
 
+- **23 Ekim 2026:** Yıldız 14.937 → 15.745, son sürüm v1.0.0-skills.2 (22 Ekim 2026).
 - **13 Eylül 2026:** Yıldız 13.937 → 14.937, son sürüm oh-v1.0 (10 Nisan 2024).
 - **2 Ağustos 2026:** Yıldız 11.705 → 13.937, son sürüm oh-v1.0 (10 Nisan 2024).
 

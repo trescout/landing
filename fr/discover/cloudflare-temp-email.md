@@ -77,6 +77,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [DNS](https://trescout.com/fr/dictionary/dns/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)

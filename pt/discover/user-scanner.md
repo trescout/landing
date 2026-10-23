@@ -73,6 +73,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [DNS](https://trescout.com/pt/dictionary/dns/)
 - [OSINT](https://trescout.com/pt/dictionary/osint/)
 - [Proxy](https://trescout.com/pt/dictionary/proxy/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)

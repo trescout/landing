@@ -41,6 +41,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [DNS](https://trescout.com/es/dictionary/dns/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Cualquiera que quiera una dirección web gratuita (no se requiere código)

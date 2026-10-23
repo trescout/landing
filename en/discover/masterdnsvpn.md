@@ -55,6 +55,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [DNS Tunneling](https://trescout.com/en/dictionary/dns-tunneling/)
 - [Resolver Load Balancing](https://trescout.com/en/dictionary/resolver-load-balancing/)
+- [DNS](https://trescout.com/en/dictionary/dns/)
 - [VPN](https://trescout.com/en/dictionary/vpn/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

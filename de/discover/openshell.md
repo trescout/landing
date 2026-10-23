@@ -2,16 +2,16 @@
 
 Das von NVIDIA entwickelte OpenShell bietet eine sichere und datenschutzorientierte Laufzeitumgebung (Runtime) für autonome KI-Agenten. Diese in der Programmiersprache Rust geschriebene Infrastruktur zielt darauf ab, den Zugriff von Agenten auf Systemressourcen zu isolieren und einen sicheren Ausführungsbereich zu schaffen.
 
-- ★ 16.850
+- ★ 18.169
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Aktualisierungen
 
+- **23. Oktober 2026:** Sterne 16,850 → 18,169, neueste Version v0.1.5 (20. Oktober 2026).
 - **21. Oktober 2026:** Sterne 16,170 → 16,850, neueste Version v0.1.5 (20. Oktober 2026).
 - **14. Oktober 2026:** Sterne 15,577 → 16,170, neueste Version v0.1.4 (13. Oktober 2026).
 - **9. Oktober 2026:** Sterne 15,205 → 15,577, neueste Version v0.1.3 (9. Oktober 2026).
-- **7. Oktober 2026:** Sterne 14,197 → 15,205, neueste Version v0.1.2 (28. September 2026).
 
 ## Was es bringt
 

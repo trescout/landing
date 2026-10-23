@@ -55,6 +55,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [DNS Tunneling](https://trescout.com/es/dictionary/dns-tunneling/)
 - [Resolver Load Balancing](https://trescout.com/es/dictionary/resolver-load-balancing/)
+- [DNS](https://trescout.com/es/dictionary/dns/)
 - [VPN](https://trescout.com/es/dictionary/vpn/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

@@ -2,7 +2,7 @@
 
 **Anthropic Skills**; Claude'un özel görevlerde daha yüksek performans göstermek için **dinamik olarak yüklediği** beceri paketlerinin resmi deposudur. Talimatlar, scriptler ve kaynaklardan oluşan bu klasörler, Claude'a belirli işleri nasıl yapacağını öğretir.
 
-- ★ 174.279
+- ★ 183.154
 - Python
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026
@@ -11,6 +11,7 @@
 
 ## Güncelleme
 
+- **23 Ekim 2026:** Yıldız 174.279 → 183.154.
 - **5 Eylül 2026:** Yıldız 165.785 → 174.279.
 - **2 Ağustos 2026:** Yıldız 143.307 → 165.785.
 

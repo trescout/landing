@@ -77,6 +77,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [DNS](https://trescout.com/es/dictionary/dns/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)

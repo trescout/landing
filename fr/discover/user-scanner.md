@@ -73,6 +73,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [DNS](https://trescout.com/fr/dictionary/dns/)
 - [OSINT](https://trescout.com/fr/dictionary/osint/)
 - [Proxy](https://trescout.com/fr/dictionary/proxy/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)

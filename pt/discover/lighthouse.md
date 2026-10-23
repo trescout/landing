@@ -2,16 +2,16 @@
 
 Lighthouse é uma ferramenta de cobertura de código desenvolvida em linguagem C e projetada para sistemas de baixo nível. Ele fornece dados aos desenvolvedores para depuração e otimização de desempenho, analisando quais blocos de código são executados durante os processos de teste do software.
 
-- ★ 368
+- ★ 521
 - C
 - GitHub Trending · 2026-08-03
 
 ## Atualizações
 
+- **23 de outubro de 2026:** Estrelas 368 → 521, versão mais recente 1.2.0 (23 de outubro de 2026).
 - **17 de agosto de 2026:** Estrelas 334 → 368, versão mais recente 1.1.0 (17 de agosto de 2026).
 - **9 de agosto de 2026:** Estrelas 324 → 334, versão mais recente 1.0.3 (9 de agosto de 2026).
 - **6 de agosto de 2026:** Estrelas 260 → 324, versão mais recente 1.0.2 (5 de agosto de 2026).
-- **3 de agosto de 2026:** Estrelas 259 → 260, versão mais recente 1.0.1 (1 de agosto de 2026).
 
 ## O que você ganha
 

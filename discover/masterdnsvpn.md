@@ -64,6 +64,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [DNS Tunneling](https://trescout.com/dictionary/dns-tunneling/)
 - [Resolver Load Balancing](https://trescout.com/dictionary/resolver-load-balancing/)
+- [DNS](https://trescout.com/dictionary/dns/)
 - [VPN](https://trescout.com/dictionary/vpn/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

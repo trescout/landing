@@ -90,6 +90,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [DNS](https://trescout.com/dictionary/dns/)
 - [OSINT](https://trescout.com/dictionary/osint/)
 - [Proxy](https://trescout.com/dictionary/proxy/)
 - [Open Source](https://trescout.com/dictionary/open-source/)

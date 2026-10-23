@@ -69,8 +69,8 @@ Hayır. Başkalarının görmesi için yayın ve alan adı gerekir. Test bağlan
 ## İlgili araçlar
 
 - [Penpot](https://trescout.com/discover/penpot/)
-- [Project N.O.M.A.D](https://trescout.com/discover/project-nomad/)
 - [Freellmapi](https://trescout.com/discover/freellmapi/)
+- [Project N.O.M.A.D](https://trescout.com/discover/project-nomad/)
 - [Jenkins](https://trescout.com/discover/jenkins/)
 - [Omlx](https://trescout.com/discover/omlx/)
 - [OpenStock](https://trescout.com/discover/openstock/)

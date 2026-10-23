@@ -40,8 +40,8 @@ You can open it with any text editor, but you can read it formatted more easily 
 
 ## Related tools
 
-- [MarkItDown](https://trescout.com/en/discover/markitdown/)
 - [Firecrawl](https://trescout.com/en/discover/firecrawl/)
+- [MarkItDown](https://trescout.com/en/discover/markitdown/)
 - [PaddleOCR](https://trescout.com/en/discover/paddleocr/)
 - [Scrapling](https://trescout.com/en/discover/scrapling/)
 - [Crawl4AI](https://trescout.com/en/discover/crawl4ai/)

@@ -2,16 +2,16 @@
 
 Romm é um gerenciador de biblioteca de jogos desenvolvido para organizar arquivos de jogos (ROM) e jogar diretamente pelo navegador, que você pode hospedar em seu próprio servidor. Desenvolvido em linguagem Python, esta ferramenta oferece a oportunidade de gerenciar e jogar coleções de jogos com uma interface visual.
 
-- ★ 13.326
+- ★ 14.001
 - Python
 - GitHub Trending · 2026-07-04
 
 ## Atualizações
 
+- **23 de outubro de 2026:** Estrelas 13,326 → 14,001, versão mais recente 5.4.1 (22 de outubro de 2026).
 - **11 de outubro de 2026:** Estrelas 13,178 → 13,326, versão mais recente 5.4.0 (10 de outubro de 2026).
 - **27 de setembro de 2026:** Estrelas 12,170 → 13,178, versão mais recente 5.3.1 (23 de setembro de 2026).
 - **20 de agosto de 2026:** Estrelas 11,859 → 12,170, versão mais recente 5.2.0 (20 de agosto de 2026).
-- **2 de agosto de 2026:** Estrelas 9,887 → 11,859, versão mais recente 5.1.0 (29 de julho de 2026).
 
 ## O que você ganha
 

@@ -2,16 +2,16 @@
 
 OpenDisplay es una herramienta de extensión de pantalla de código abierto que convierte dispositivos iPhone o iPad en un segundo monitor para computadoras Mac. La aplicación, que proporciona transmisión de video de baja latencia a través de USB o conexión inalámbrica, ofrece una alternativa gratuita a la solución propia de Apple, Sidecar.
 
-- ★ 4.942
+- ★ 5.858
 - Swift
 - GitHub Trending · 2026-09-15
 
 ## Actualizaciones
 
+- **23 de octubre de 2026:** Estrellas 4,942 → 5,858, última versión v1.26.0 (22 de octubre de 2026).
 - **2 de octubre de 2026:** Estrellas 4,912 → 4,942, última versión v1.25.0 (1 de octubre de 2026).
 - **30 de septiembre de 2026:** Estrellas 4,905 → 4,912, última versión v1.24.0 (30 de septiembre de 2026).
 - **30 de septiembre de 2026:** Estrellas 4,897 → 4,905, última versión v1.23.0 (30 de septiembre de 2026).
-- **29 de septiembre de 2026:** Estrellas 4,823 → 4,897, última versión v1.22.1 (29 de septiembre de 2026).
 
 ## Qué aporta
 

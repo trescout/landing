@@ -2,16 +2,16 @@
 
 Publié par GitHub, spec-kit offre les outils nécessaires pour démarrer des processus de développement basés sur les spécifications. Cette bibliothèque basée sur Python facilite l'intégration des spécifications techniques définies lors de la phase de développement logiciel dans les processus de code.
 
-- ★ 142 031
+- ★ 142 515
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Mises à jour
 
+- **23 octobre 2026:** Étoiles 142,031 → 142,515, dernière version v1.2.3 (22 octobre 2026).
 - **20 octobre 2026:** Étoiles 141,590 → 142,031, dernière version v1.2.2 (19 octobre 2026).
 - **17 octobre 2026:** Étoiles 141,105 → 141,590, dernière version v1.2.1 (16 octobre 2026).
 - **13 octobre 2026:** Étoiles 140,661 → 141,105, dernière version v1.2.0 (13 octobre 2026).
-- **10 octobre 2026:** Étoiles 140,632 → 140,661, dernière version v1.1.3 (9 octobre 2026).
 
 ## Ce que ça vous apporte
 

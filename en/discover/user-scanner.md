@@ -73,6 +73,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [DNS](https://trescout.com/en/dictionary/dns/)
 - [OSINT](https://trescout.com/en/dictionary/osint/)
 - [Proxy](https://trescout.com/en/dictionary/proxy/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)

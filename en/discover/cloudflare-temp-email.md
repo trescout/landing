@@ -77,6 +77,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [DNS](https://trescout.com/en/dictionary/dns/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
