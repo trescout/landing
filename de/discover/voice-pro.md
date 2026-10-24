@@ -45,6 +45,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Zero-shot](https://trescout.com/de/dictionary/zero-shot/)
 - [Voice Cloning](https://trescout.com/de/dictionary/voice-cloning/)
 - [Cloning](https://trescout.com/de/dictionary/cloning/)
+- [v4.0](https://trescout.com/de/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Geeignet für Content-Ersteller, Forscher und Profis, die mit mehrsprachigen Audioinhalten arbeiten.

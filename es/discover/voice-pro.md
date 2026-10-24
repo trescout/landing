@@ -45,6 +45,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Zero-shot](https://trescout.com/es/dictionary/zero-shot/)
 - [Voice Cloning](https://trescout.com/es/dictionary/voice-cloning/)
 - [Cloning](https://trescout.com/es/dictionary/cloning/)
+- [v4.0](https://trescout.com/es/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Adecuado para creadores de contenido, investigadores y profesionales que trabajan con contenido de audio multilingüe.

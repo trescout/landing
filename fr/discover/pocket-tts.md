@@ -64,6 +64,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Text-to-Speech](https://trescout.com/fr/dictionary/text-to-speech/)
+- [v4.0](https://trescout.com/fr/dictionary/v4-0/)
 - [CPU](https://trescout.com/fr/dictionary/cpu/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

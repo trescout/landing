@@ -9644,5 +9644,44 @@
     "kisa_es": "Es un método matemático que acelera y estabiliza la generación de datos significativos a partir de ruido aleatorio en modelos de inteligencia artificial.",
     "kisa_pt": "É um método matemático que acelera e estabiliza a geração de dados significativos a partir de ruído aleatório em modelos de inteligência artificial.",
     "kisa_de": "Dies ist eine mathematische Methode, die es Modellen der künstlichen Intelligenz ermöglicht, die Generierung aussagekräftiger Daten aus zufälligem Rauschen zu beschleunigen und zu stabilisieren."
+  },
+  {
+    "slug": "v4-0",
+    "en": "v4.0",
+    "full": "Version 4.0",
+    "cat": "dev",
+    "kisa": "Bir yazılımın veya veri kümesinin geçirdiği kapsamlı değişimleri simgeleyen dördüncü ana sürüm numarasıdır.",
+    "date": "2026-10-24",
+    "kisa_en": "It is the fourth major version number that symbolizes comprehensive changes undergone by a software or dataset.",
+    "kisa_fr": "Il s'agit du quatrième numéro de version majeure symbolisant les changements complets subis par un logiciel ou un ensemble de données.",
+    "kisa_es": "Es el cuarto número de versión principal que simboliza cambios extensos realizados en un software o conjunto de datos.",
+    "kisa_pt": "É o quarto número de versão principal que simboliza mudanças abrangentes pelas quais um software ou conjunto de dados passou.",
+    "kisa_de": "Dies ist die vierte Hauptversionsnummer, die umfassende Änderungen an einer Software oder einem Datensatz symbolisiert."
+  },
+  {
+    "slug": "shellcode",
+    "en": "Shellcode",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sistemlerdeki güvenlik açıklarını kullanarak hedef makinede komut satırı erişimi veya özel komutlar çalıştırmayı sağlayan küçük boyutlu makine kodudur.",
+    "date": "2026-10-24",
+    "kisa_en": "It is a small-sized machine code that enables command line access or the execution of custom commands on the target machine by exploiting vulnerabilities in systems.",
+    "kisa_fr": "Il s'agit d'un code machine de petite taille qui permet d'obtenir un accès à la ligne de commande ou d'exécuter des commandes spécifiques sur une machine cible en exploitant les vulnérabilités de sécurité des systèmes.",
+    "kisa_es": "Es un código de máquina de pequeño tamaño que permite obtener acceso a la línea de comandos o ejecutar comandos personalizados en la máquina objetivo mediante el uso de vulnerabilidades de seguridad en los sistemas.",
+    "kisa_pt": "É um código de máquina de tamanho reduzido que permite acesso à linha de comando ou a execução de comandos personalizados na máquina alvo, utilizando vulnerabilidades de segurança nos sistemas.",
+    "kisa_de": "Dies ist ein kleiner Maschinencode, der Sicherheitslücken in Systemen ausnutzt, um Befehlszeilenzugriff oder die Ausführung spezieller Befehle auf dem Zielrechner zu ermöglichen."
+  },
+  {
+    "slug": "diffusion-autoregressive",
+    "en": "Diffusion Autoregressive",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Veriyi adım adım oluşturan özyinelemeli mimari ile gürültüyü temizleyerek yüksek kaliteli içerik üreten difüzyon tekniğini birleştiren yapay zekâ yaklaşımıdır.",
+    "date": "2026-10-24",
+    "kisa_en": "It is an artificial intelligence approach that combines the diffusion technique, which produces high-quality content by removing noise through a recursive architecture that builds data step by step.",
+    "kisa_fr": "Il s'agit d'une approche d'intelligence artificielle qui combine une architecture récursive générant des données étape par étape avec la technique de diffusion, laquelle produit un contenu de haute qualité en éliminant le bruit.",
+    "kisa_es": "Es un enfoque de inteligencia artificial que combina la técnica de difusión, que genera contenido de alta calidad eliminando el ruido, con una arquitectura recursiva que crea datos paso a paso.",
+    "kisa_pt": "É uma abordagem de inteligência artificial que combina a técnica de difusão, que gera conteúdo de alta qualidade limpando o ruído, com uma arquitetura recursiva que cria dados passo a passo.",
+    "kisa_de": "Es handelt sich um einen KI-Ansatz, der die Diffusionstechnik, die durch eine rekursive Architektur, die Daten Schritt für Schritt aufbaut, Rauschen entfernt und qualitativ hochwertige Inhalte erzeugt, kombiniert."
   }
 ]

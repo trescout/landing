@@ -67,8 +67,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [AI Coding Agent](https://trescout.com/de/dictionary/ai-coding-agent/)
 - [IDE](https://trescout.com/de/dictionary/ide/)
 - [Coding Agent](https://trescout.com/de/dictionary/coding-agent/)
-- [Terminal](https://trescout.com/de/dictionary/terminal/)
 - [Agent](https://trescout.com/de/dictionary/agent/)
+- [Terminal](https://trescout.com/de/dictionary/terminal/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die ihre Code-Entwicklungsprozesse über das Terminal automatisieren und den Workflow mit einem durch künstliche Intelligenz unterstützten Coding-Agenten beschleunigen möchten.
 - **Lizenz:** MIT

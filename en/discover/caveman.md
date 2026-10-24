@@ -57,6 +57,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [v4.0](https://trescout.com/en/dictionary/v4-0/)
 - [Token](https://trescout.com/en/dictionary/token/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

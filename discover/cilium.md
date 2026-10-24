@@ -2,12 +2,13 @@
 
 Cilium, ağ trafiğini yönetmek, güvenlik sağlamak ve sistem izlenebilirliği (observability) sunmak için eBPF teknolojisini kullanan bir altyapı aracıdır. Özellikle Kubernetes gibi konteyner düzenleme platformlarında ağ katmanını yüksek performansla yönetmek için tercih edilir.
 
-- ★ 25.661
+- ★ 25.709
 - Go
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
 
+- **24 Ekim 2026:** Yıldız 25.661 → 25.709, son sürüm v1.20.4 (23 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 25.329 → 25.661, son sürüm v1.20.3 (15 Ekim 2026).
 - **18 Eylül 2026:** Yıldız 25.329 → 25.329, son sürüm v1.20.2 (16 Eylül 2026).
 

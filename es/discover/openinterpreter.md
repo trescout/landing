@@ -52,8 +52,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Coding Agent](https://trescout.com/es/dictionary/coding-agent/)
-- [Terminal](https://trescout.com/es/dictionary/terminal/)
 - [Agent](https://trescout.com/es/dictionary/agent/)
+- [Terminal](https://trescout.com/es/dictionary/terminal/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

@@ -2,16 +2,16 @@
 
 PageIndex, vektör tabanlı arama yöntemlerine ihtiyaç duymadan akıl yürütme yeteneğiyle çalışan bir belge indeksleme aracıdır. Geleneksel vektör veritabanları (Vector Databases) yerine metin tabanlı mantıksal çıkarım kullanarak RAG (Geri Getirme Destekli Üretim) süreçlerini optimize eder.
 
-- ★ 39.527
+- ★ 39.586
 - Python
 - GitHub Trending · 2026-09-29
 
 ## Güncelleme
 
+- **24 Ekim 2026:** Yıldız 39.527 → 39.586, son sürüm v0.4.6 (23 Ekim 2026).
 - **23 Ekim 2026:** Yıldız 39.271 → 39.527, son sürüm v0.4.5 (22 Ekim 2026).
 - **19 Ekim 2026:** Yıldız 39.253 → 39.271, son sürüm v0.4.4 (19 Ekim 2026).
 - **18 Ekim 2026:** Yıldız 39.153 → 39.253, son sürüm v0.4.2 (18 Ekim 2026).
-- **16 Ekim 2026:** Yıldız 39.080 → 39.153, son sürüm v0.4.1 (16 Ekim 2026).
 
 ## Ne kazandırır?
 

@@ -65,6 +65,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [OSINT](https://trescout.com/de/dictionary/osint/)
+- [v4.0](https://trescout.com/de/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Cybersicherheitsexperten, Penetrationstester und verteidigungsorientierte Benutzer, die neugierig auf den Fußabdruck ihres Unternehmens im Internet sind.

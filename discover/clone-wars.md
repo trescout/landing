@@ -2,8 +2,12 @@
 
 Clone-Wars, Airbnb, Instagram ve Netflix gibi popüler platformların 100'den fazla açık kaynaklı kopyasını (clone) tek bir çatı altında topluyor. Geliştiriciler, projelerin kaynak kodlarına, teknoloji yığınlarına (tech stack) ve canlı demo bağlantılarına erişerek uygulama mimarilerini inceleyebiliyor.
 
-- ★ 35.393
+- ★ 37.163
 - GitHub Trending · 2026-06-15
+
+## Güncelleme
+
+- **24 Ekim 2026:** Yıldız 35.393 → 37.163.
 
 ## Ne kazandırır?
 

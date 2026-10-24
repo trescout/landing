@@ -2,12 +2,13 @@
 
 FastAPI, Python programlama diliyle yüksek performanslı uygulama programlama arayüzleri (API) geliştirmeye olanak tanıyan modern bir web çatısıdır. Standart Python tip ipuçlarını (type hints) temel alarak hızlı kodlama ve üretim ortamına hazır çözümler sunar.
 
-- ★ 104.014
+- ★ 104.065
 - Python
 - GitHub Trending · 2026-10-23
 
 ## Güncelleme
 
+- **24 Ekim 2026:** Yıldız 104.014 → 104.065, son sürüm 0.162.0 (23 Ekim 2026).
 - **23 Ekim 2026:** Yıldız 103.999 → 104.014, son sürüm 0.161.1 (22 Ekim 2026).
 
 ## Ne kazandırır?

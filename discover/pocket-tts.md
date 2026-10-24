@@ -73,6 +73,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Text-to-Speech](https://trescout.com/dictionary/text-to-speech/)
+- [v4.0](https://trescout.com/dictionary/v4-0/)
 - [CPU](https://trescout.com/dictionary/cpu/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

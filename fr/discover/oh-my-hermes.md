@@ -58,6 +58,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Hermes Agent](https://trescout.com/fr/dictionary/hermes-agent/)
+- [v4.0](https://trescout.com/fr/dictionary/v4-0/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

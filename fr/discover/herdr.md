@@ -45,8 +45,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Agent Multiplexer](https://trescout.com/fr/dictionary/agent-multiplexer/)
-- [Terminal](https://trescout.com/fr/dictionary/terminal/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
+- [Terminal](https://trescout.com/fr/dictionary/terminal/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

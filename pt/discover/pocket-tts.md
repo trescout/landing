@@ -64,6 +64,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Text-to-Speech](https://trescout.com/pt/dictionary/text-to-speech/)
+- [v4.0](https://trescout.com/pt/dictionary/v4-0/)
 - [CPU](https://trescout.com/pt/dictionary/cpu/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

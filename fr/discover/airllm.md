@@ -68,7 +68,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Apple Silicon](https://trescout.com/fr/dictionary/apple-silicon/)
 - [RAM](https://trescout.com/fr/dictionary/ram/)
 - [Jupyter Notebooks](https://trescout.com/fr/dictionary/jupyter-notebooks/)
-- [CPU](https://trescout.com/fr/dictionary/cpu/)
+- [v4.0](https://trescout.com/fr/dictionary/v4-0/)
 
 - **Pour qui:** Il s'adresse aux chercheurs disposant de ressources matérielles limitées qui souhaitent tester, extraire des données et évaluer localement les modèles 70B et 405B haute capacité.
 - **Licence:** Apache-2.0 (Licence Open source avec une large liberté)

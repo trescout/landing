@@ -67,6 +67,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Hermes Agent](https://trescout.com/dictionary/hermes-agent/)
+- [v4.0](https://trescout.com/dictionary/v4-0/)
 - [Agent](https://trescout.com/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

@@ -2,17 +2,17 @@
 
 claude-mem ermöglicht Ihren KI-Agenten einen sitzungsübergreifenden Rückruf. Es erfasst alles, was in einer Sitzung passiert, wandelt es mit KI in aussagekräftige Zusammenfassungen um und liefert in der nächsten Sitzung relevanten Kontext zurück. Kompatibel mit Claude Code, Codex, Gemini, Copilot und OpenCode.
 
-- ★ 102.038
+- ★ 102.613
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **24. Oktober 2026:** Sterne 102,038 → 102,613, neueste Version v15.0.2 (23. Oktober 2026).
 - **21. Oktober 2026:** Sterne 101,496 → 102,038, neueste Version v15.0.1 (20. Oktober 2026).
 - **18. Oktober 2026:** Sterne 101,275 → 101,496, neueste Version v14.0.1 (17. Oktober 2026).
 - **17. Oktober 2026:** Sterne 101,166 → 101,275, neueste Version v13.41.0 (17. Oktober 2026).
-- **16. Oktober 2026:** Sterne 100,574 → 101,166, neueste Version v13.40.0 (16. Oktober 2026).
 
 ## Was es bringt
 

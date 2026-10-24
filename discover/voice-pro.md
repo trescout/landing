@@ -54,6 +54,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Zero-shot](https://trescout.com/dictionary/zero-shot/)
 - [Voice Cloning](https://trescout.com/dictionary/voice-cloning/)
 - [Cloning](https://trescout.com/dictionary/cloning/)
+- [v4.0](https://trescout.com/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

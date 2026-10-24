@@ -110,8 +110,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [HDR](https://trescout.com/dictionary/hdr/)
 - [VPN](https://trescout.com/dictionary/vpn/)
 - [Pipeline](https://trescout.com/dictionary/pipeline/)
+- [v4.0](https://trescout.com/dictionary/v4-0/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
-- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sonarr/

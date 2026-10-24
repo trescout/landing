@@ -43,6 +43,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [v4.0](https://trescout.com/de/dictionary/v4-0/)
 - [Context](https://trescout.com/de/dictionary/context/)
 - [Framework](https://trescout.com/de/dictionary/framework/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)

@@ -74,6 +74,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [OSINT](https://trescout.com/dictionary/osint/)
+- [v4.0](https://trescout.com/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

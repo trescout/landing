@@ -68,7 +68,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Apple Silicon](https://trescout.com/es/dictionary/apple-silicon/)
 - [RAM](https://trescout.com/es/dictionary/ram/)
 - [Jupyter Notebooks](https://trescout.com/es/dictionary/jupyter-notebooks/)
-- [CPU](https://trescout.com/es/dictionary/cpu/)
+- [v4.0](https://trescout.com/es/dictionary/v4-0/)
 
 - **Para quién es:** Está dirigido a investigadores que tienen recursos de hardware limitados y desean probar localmente modelos de alta capacidad de 70B y 405B, y realizar minería de datos y evaluación.
 - **Licencia:** Apache-2.0 (Licencia de código abierto que ofrece amplia libertad)

@@ -2,12 +2,13 @@
 
 Comma AI tarafından geliştirilen openpilot, robotik sistemler için tasarlanmış açık kaynaklı bir işletim sistemidir. Yazılım, 300'den fazla araç modelinde sürücü destek sistemini (driver assistance system) yükselterek otonom sürüş yetenekleri kazandırıyor.
 
-- ★ 63.294
+- ★ 63.986
 - Python
 - GitHub Trending · 2026-06-27
 
 ## Güncelleme
 
+- **24 Ekim 2026:** Yıldız 63.294 → 63.986, son sürüm v0.11.2 (23 Ekim 2026).
 - **2 Ağustos 2026:** Yıldız 61.864 → 63.294, son sürüm v0.11.1 (5 Haziran 2026).
 
 ## Ne kazandırır?

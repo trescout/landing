@@ -2,12 +2,13 @@
 
 Desarrollado por Comma AI, openpilot es un sistema operativo de código abierto diseñado para sistemas robóticos. El software proporciona capacidades de conducción autónoma al actualizar el sistema de asistencia al conductor en más de 300 modelos de vehículos.
 
-- ★ 63.294
+- ★ 63.986
 - Python
 - GitHub Trending · 2026-06-27
 
 ## Actualizaciones
 
+- **24 de octubre de 2026:** Estrellas 63,294 → 63,986, última versión v0.11.2 (23 de octubre de 2026).
 - **2 de agosto de 2026:** Estrellas 61,864 → 63,294, última versión v0.11.1 (5 de junio de 2026).
 
 ## Qué aporta

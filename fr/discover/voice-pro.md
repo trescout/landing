@@ -45,6 +45,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Zero-shot](https://trescout.com/fr/dictionary/zero-shot/)
 - [Voice Cloning](https://trescout.com/fr/dictionary/voice-cloning/)
 - [Cloning](https://trescout.com/fr/dictionary/cloning/)
+- [v4.0](https://trescout.com/fr/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Convient aux créateurs de contenu, aux chercheurs et aux professionnels travaillant avec du contenu audio multilingue.

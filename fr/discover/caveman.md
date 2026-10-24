@@ -57,6 +57,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [v4.0](https://trescout.com/fr/dictionary/v4-0/)
 - [Token](https://trescout.com/fr/dictionary/token/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

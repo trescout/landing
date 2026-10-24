@@ -65,6 +65,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [OSINT](https://trescout.com/es/dictionary/osint/)
+- [v4.0](https://trescout.com/es/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está dirigido a profesionales de la ciberseguridad, evaluadores de penetración y usuarios orientados a la defensa que sienten curiosidad por la huella de su organización en Internet.

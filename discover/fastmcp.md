@@ -52,6 +52,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [v4.0](https://trescout.com/dictionary/v4-0/)
 - [Context](https://trescout.com/dictionary/context/)
 - [Framework](https://trescout.com/dictionary/framework/)
 - [MCP](https://trescout.com/dictionary/mcp/)

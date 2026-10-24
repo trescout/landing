@@ -64,6 +64,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Text-to-Speech](https://trescout.com/es/dictionary/text-to-speech/)
+- [v4.0](https://trescout.com/es/dictionary/v4-0/)
 - [CPU](https://trescout.com/es/dictionary/cpu/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

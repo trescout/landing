@@ -67,8 +67,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [AI Coding Agent](https://trescout.com/fr/dictionary/ai-coding-agent/)
 - [IDE](https://trescout.com/fr/dictionary/ide/)
 - [Coding Agent](https://trescout.com/fr/dictionary/coding-agent/)
-- [Terminal](https://trescout.com/fr/dictionary/terminal/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
+- [Terminal](https://trescout.com/fr/dictionary/terminal/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui souhaitent automatiser leurs processus de développement de code via le terminal et accélérer le flux de travail avec un agent de codage pris en charge par l'intelligence artificielle.
 - **Licence:** MIT

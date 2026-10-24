@@ -64,6 +64,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Text-to-Speech](https://trescout.com/de/dictionary/text-to-speech/)
+- [v4.0](https://trescout.com/de/dictionary/v4-0/)
 - [CPU](https://trescout.com/de/dictionary/cpu/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

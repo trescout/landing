@@ -57,6 +57,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [v4.0](https://trescout.com/pt/dictionary/v4-0/)
 - [Token](https://trescout.com/pt/dictionary/token/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

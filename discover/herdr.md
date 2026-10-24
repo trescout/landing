@@ -53,8 +53,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Agent Multiplexer](https://trescout.com/dictionary/agent-multiplexer/)
-- [Terminal](https://trescout.com/dictionary/terminal/)
 - [Agent](https://trescout.com/dictionary/agent/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
 - [Rust](https://trescout.com/dictionary/rust/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

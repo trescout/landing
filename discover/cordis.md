@@ -37,6 +37,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Meta-framework](https://trescout.com/dictionary/meta-framework/)
+- [v4.0](https://trescout.com/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

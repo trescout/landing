@@ -64,6 +64,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Text-to-Speech](https://trescout.com/en/dictionary/text-to-speech/)
+- [v4.0](https://trescout.com/en/dictionary/v4-0/)
 - [CPU](https://trescout.com/en/dictionary/cpu/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

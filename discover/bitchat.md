@@ -2,12 +2,13 @@
 
 Bitchat, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, yerel bir sohbet ortamı sunuyor. Swift diliyle geliştirilen uygulama, kullanıcıların yakın mesafede doğrudan iletişim kurmasını sağlayan IRC benzeri bir deneyim vadediyor.
 
-- ★ 35.851
+- ★ 36.750
 - Swift
 - GitHub Trending · 2026-07-26
 
 ## Güncelleme
 
+- **24 Ekim 2026:** Yıldız 35.851 → 36.750, son sürüm v1.8.0 (23 Ekim 2026).
 - **24 Ağustos 2026:** Yıldız 34.123 → 35.851, son sürüm v1.7.1 (31 Temmuz 2026).
 - **2 Ağustos 2026:** Yıldız 28.892 → 34.123, son sürüm v1.7.1 (31 Temmuz 2026).
 

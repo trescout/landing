@@ -43,6 +43,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [v4.0](https://trescout.com/es/dictionary/v4-0/)
 - [Context](https://trescout.com/es/dictionary/context/)
 - [Framework](https://trescout.com/es/dictionary/framework/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)

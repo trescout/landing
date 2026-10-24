@@ -28,6 +28,7 @@ Um mit Cordis zu beginnen, können Sie die Grundkonzepte auf cordis-primer, der 
 ## Verwandte Begriffe aus dem Glossar
 
 - [Meta-framework](https://trescout.com/de/dictionary/meta-framework/)
+- [v4.0](https://trescout.com/de/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die komplexe Softwaresysteme in einer modularen und organisierten Struktur entwickeln möchten.

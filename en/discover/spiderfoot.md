@@ -65,6 +65,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [OSINT](https://trescout.com/en/dictionary/osint/)
+- [v4.0](https://trescout.com/en/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for cybersecurity professionals, penetration testers, and defense-oriented users who are curious about their organization's footprint on the Internet.

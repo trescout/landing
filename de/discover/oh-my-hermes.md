@@ -58,6 +58,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Hermes Agent](https://trescout.com/de/dictionary/hermes-agent/)
+- [v4.0](https://trescout.com/de/dictionary/v4-0/)
 - [Agent](https://trescout.com/de/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

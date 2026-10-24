@@ -45,6 +45,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Zero-shot](https://trescout.com/pt/dictionary/zero-shot/)
 - [Voice Cloning](https://trescout.com/pt/dictionary/voice-cloning/)
 - [Cloning](https://trescout.com/pt/dictionary/cloning/)
+- [v4.0](https://trescout.com/pt/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Adequado para criadores de conteúdo, pesquisadores e profissionais que trabalham com conteúdo de áudio multilíngue.

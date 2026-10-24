@@ -2,16 +2,16 @@
 
 Desenvolvido para proprietários de veículos Tesla, Teslamate é um aplicativo de registro de dados que permite hospedar dados em seu próprio servidor. Esta ferramenta de código aberto, escrita na linguagem Elixir, visualiza e apresenta estatísticas detalhadas, como histórico de condução e dados de cobrança, ao usuário.
 
-- ★ 9.052
+- ★ 9.170
 - Elixir
 - GitHub Trending · 2026-06-16
 
 ## Atualizações
 
+- **24 de outubro de 2026:** Estrelas 9,052 → 9,170, versão mais recente v4.4.0 (23 de outubro de 2026).
 - **29 de setembro de 2026:** Estrelas 8,907 → 9,052, versão mais recente v4.3.0 (29 de setembro de 2026).
 - **24 de agosto de 2026:** Estrelas 8,844 → 8,907, versão mais recente v4.2.0 (23 de agosto de 2026).
 - **15 de agosto de 2026:** Estrelas 8,798 → 8,844, versão mais recente v4.1.1 (14 de agosto de 2026).
-- **2 de agosto de 2026:** Estrelas 8,326 → 8,798, versão mais recente v4.0.1 (14 de junho de 2026).
 
 ## O que você ganha
 

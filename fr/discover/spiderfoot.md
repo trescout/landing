@@ -65,6 +65,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [OSINT](https://trescout.com/fr/dictionary/osint/)
+- [v4.0](https://trescout.com/fr/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux professionnels de la cybersécurité, aux testeurs d'intrusion et aux utilisateurs orientés vers la défense et curieux de connaître l'empreinte de leur organisation sur Internet.

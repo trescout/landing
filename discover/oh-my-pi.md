@@ -76,8 +76,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [AI Coding Agent](https://trescout.com/dictionary/ai-coding-agent/)
 - [IDE](https://trescout.com/dictionary/ide/)
 - [Coding Agent](https://trescout.com/dictionary/coding-agent/)
-- [Terminal](https://trescout.com/dictionary/terminal/)
 - [Agent](https://trescout.com/dictionary/agent/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/oh-my-pi/

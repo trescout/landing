@@ -65,6 +65,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [OSINT](https://trescout.com/pt/dictionary/osint/)
+- [v4.0](https://trescout.com/pt/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a profissionais de segurança cibernética, testadores de penetração e usuários orientados para a defesa que estão curiosos sobre a presença de suas organizações na Internet.

@@ -95,8 +95,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [HDR](https://trescout.com/de/dictionary/hdr/)
 - [VPN](https://trescout.com/de/dictionary/vpn/)
 - [Pipeline](https://trescout.com/de/dictionary/pipeline/)
+- [v4.0](https://trescout.com/de/dictionary/v4-0/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
-- [API](https://trescout.com/de/dictionary/api/)
 
 - **Für wen es gedacht ist:** Besitzer von Heimservern (Homelab), Medienbegeisterte und alle, die ihre Serienarchive mühelos verwalten möchten.
 - **Lizenz:** GPL-3.0 (Open-Source-Lizenz)

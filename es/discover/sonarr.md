@@ -95,8 +95,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [HDR](https://trescout.com/es/dictionary/hdr/)
 - [VPN](https://trescout.com/es/dictionary/vpn/)
 - [Pipeline](https://trescout.com/es/dictionary/pipeline/)
+- [v4.0](https://trescout.com/es/dictionary/v4-0/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
-- [API](https://trescout.com/es/dictionary/api/)
 
 - **Para quién es:** Propietarios de servidores domésticos (Homelab), entusiastas de los medios y aquellos que quieran gestionar sus archivos de series sin esfuerzo.
 - **Licencia:** GPL-3.0 (licencia de código abierto)

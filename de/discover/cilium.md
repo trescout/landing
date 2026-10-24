@@ -2,12 +2,13 @@
 
 Cilium ist ein Infrastruktur-Tool, das die eBPF-Technologie nutzt, um Netzwerkverkehr zu verwalten, Sicherheit zu gewährleisten und Systembeobachtbarkeit (Observability) zu bieten. Es wird insbesondere in Container-Orchestrierungsplattformen wie Kubernetes bevorzugt, um die Netzwerkschicht mit hoher Leistung zu verwalten.
 
-- ★ 25.661
+- ★ 25.709
 - Go
 - GitHub Trending · 2026-09-18
 
 ## Aktualisierungen
 
+- **24. Oktober 2026:** Sterne 25,661 → 25,709, neueste Version v1.20.4 (23. Oktober 2026).
 - **15. Oktober 2026:** Sterne 25,329 → 25,661, neueste Version v1.20.3 (15. Oktober 2026).
 - **18. September 2026:** Sterne 25,329 → 25,329, neueste Version v1.20.2 (16. September 2026).
 

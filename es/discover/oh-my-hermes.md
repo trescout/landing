@@ -58,6 +58,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Hermes Agent](https://trescout.com/es/dictionary/hermes-agent/)
+- [v4.0](https://trescout.com/es/dictionary/v4-0/)
 - [Agent](https://trescout.com/es/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

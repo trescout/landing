@@ -57,6 +57,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [v4.0](https://trescout.com/es/dictionary/v4-0/)
 - [Token](https://trescout.com/es/dictionary/token/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

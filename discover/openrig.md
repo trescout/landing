@@ -2,16 +2,16 @@
 
 Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.
 
-- ★ 8.025
+- ★ 8.142
 - TypeScript
 - GitHub Trending · 2026-09-28
 
 ## Güncelleme
 
+- **24 Ekim 2026:** Yıldız 8.025 → 8.142, son sürüm v0.7.0 (23 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 7.945 → 8.025, son sürüm v0.6.14 (21 Ekim 2026).
 - **20 Ekim 2026:** Yıldız 7.747 → 7.945, son sürüm v0.6.13 (20 Ekim 2026).
 - **18 Ekim 2026:** Yıldız 7.105 → 7.747, son sürüm v0.6.11 (17 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 6.819 → 7.105, son sürüm v0.6.10 (12 Ekim 2026).
 
 ## Ne kazandırır?
 

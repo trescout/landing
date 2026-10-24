@@ -45,6 +45,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Zero-shot](https://trescout.com/en/dictionary/zero-shot/)
 - [Voice Cloning](https://trescout.com/en/dictionary/voice-cloning/)
 - [Cloning](https://trescout.com/en/dictionary/cloning/)
+- [v4.0](https://trescout.com/en/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Suitable for content creators, researchers and professionals working with multilingual audio content.

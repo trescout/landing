@@ -43,6 +43,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [v4.0](https://trescout.com/fr/dictionary/v4-0/)
 - [Context](https://trescout.com/fr/dictionary/context/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)

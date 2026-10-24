@@ -2,7 +2,7 @@
 
 **VoxCPM**; çok dilli konuşma üretimi, yaratıcı **ses tasarımı** ve gerçekçi **ses kopyalama (voice cloning)** işlemleri için geliştirilmiş, belirteçsiz (tokenizer-free) açık kaynak bir TTS modelidir.
 
-- ★ 38.380
+- ★ 40.341
 - Python
 - Apache-2.0
 - GitHub Trending · 30 May 2026
@@ -27,6 +27,7 @@ voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesi
 
 ## Güncelleme
 
+- **24 Ekim 2026:** Yıldız 38.380 → 40.341, son sürüm 2.0.3 (11 Mayıs 2026).
 - **7 Ekim 2026:** Yıldız 36.548 → 38.380, son sürüm 2.0.3 (11 Mayıs 2026).
 - **2 Eylül 2026:** Yıldız 34.774 → 36.548, son sürüm 2.0.3 (11 Mayıs 2026).
 - **2 Ağustos 2026:** Yıldız 22.648 → 34.774, son sürüm 2.0.3 (11 Mayıs 2026).

@@ -2,16 +2,16 @@
 
 OpenMontage ist ein agentenbasiertes Open-Source-System, das KI-Codierungsassistenten in ein vollwertiges Videoproduktionsstudio verwandelt. Diese Python-basierte Plattform automatisiert Videoproduktionsprozesse mit 12 verschiedenen Pipelines und mehr als 500 Agentenfähigkeiten.
 
-- ★ 67.836
+- ★ 71.230
 - Python
 - GitHub Trending · 2026-06-18
 
 ## Aktualisierungen
 
+- **24. Oktober 2026:** Sterne 67,836 → 71,230.
 - **13. Oktober 2026:** Sterne 64,509 → 67,836.
 - **6. Oktober 2026:** Sterne 61,422 → 64,509.
 - **27. September 2026:** Sterne 58,024 → 61,422.
-- **13. September 2026:** Sterne 54,943 → 58,024.
 
 ## Was es bringt
 

@@ -2,16 +2,16 @@
 
 Next.js é uma estrutura usada para desenvolver aplicativos da web baseados em React e fornece recursos como renderização do lado do servidor e geração de sites estáticos. Está se tornando uma escolha comum entre os desenvolvedores, pois oferece otimizações orientadas ao desempenho e soluções de infraestrutura escalonáveis ​​em projetos web modernos.
 
-- ★ 143.035
+- ★ 143.216
 - JavaScript
 - GitHub Trending · 2026-07-11
 
 ## Atualizações
 
+- **24 de outubro de 2026:** Estrelas 143,035 → 143,216, versão mais recente v16.4.3 (23 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 143,019 → 143,035, versão mais recente v16.4.2 (15 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 143,229 → 143,019, versão mais recente v16.4.1 (14 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 142,954 → 143,229, versão mais recente v16.4.0 (7 de outubro de 2026).
-- **1 de outubro de 2026:** Estrelas 142,883 → 142,954, versão mais recente v16.3.8 (30 de setembro de 2026).
 
 ## O que você ganha
 

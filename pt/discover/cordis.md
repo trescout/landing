@@ -28,6 +28,7 @@ Para começar a usar o Cordis, você pode revisar os conceitos básicos no cordi
 ## Termos relacionados do glossário
 
 - [Meta-framework](https://trescout.com/pt/dictionary/meta-framework/)
+- [v4.0](https://trescout.com/pt/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores de software que desejam desenvolver sistemas de software complexos em uma estrutura modular e organizada.

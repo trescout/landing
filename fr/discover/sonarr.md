@@ -95,8 +95,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [HDR](https://trescout.com/fr/dictionary/hdr/)
 - [VPN](https://trescout.com/fr/dictionary/vpn/)
 - [Pipeline](https://trescout.com/fr/dictionary/pipeline/)
+- [v4.0](https://trescout.com/fr/dictionary/v4-0/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
-- [API](https://trescout.com/fr/dictionary/api/)
 
 - **Pour qui:** Propriétaires de serveurs domestiques (Homelab), passionnés de médias et ceux qui souhaitent gérer leurs archives de séries sans effort.
 - **Licence:** GPL-3.0 (Licence Open Source)

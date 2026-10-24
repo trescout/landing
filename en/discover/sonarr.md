@@ -95,8 +95,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [HDR](https://trescout.com/en/dictionary/hdr/)
 - [VPN](https://trescout.com/en/dictionary/vpn/)
 - [Pipeline](https://trescout.com/en/dictionary/pipeline/)
+- [v4.0](https://trescout.com/en/dictionary/v4-0/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
-- [API](https://trescout.com/en/dictionary/api/)
 
 - **Who it is for:** Home server (Homelab) owners, media enthusiasts and those who want to manage their series archives effortlessly.
 - **License:** GPL-3.0 (Open source license)

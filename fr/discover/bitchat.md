@@ -2,12 +2,13 @@
 
 Bitchat offre un environnement de discussion local qui ne nécessite pas de connexion Internet, utilisant la technologie maillée Bluetooth. Développée en langage Swift, l'application promet une expérience de type IRC qui permet aux utilisateurs de communiquer directement à courte distance.
 
-- ★ 35 851
+- ★ 36 750
 - Swift
 - GitHub Trending · 2026-07-26
 
 ## Mises à jour
 
+- **24 octobre 2026:** Étoiles 35,851 → 36,750, dernière version v1.8.0 (23 octobre 2026).
 - **24 août 2026:** Étoiles 34,123 → 35,851, dernière version v1.7.1 (31 juillet 2026).
 - **2 août 2026:** Étoiles 28,892 → 34,123, dernière version v1.7.1 (31 juillet 2026).
 

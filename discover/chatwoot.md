@@ -2,17 +2,17 @@
 
 Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir platformdur. Intercom ve Zendesk gibi ticari yazılımlara alternatif olarak geliştirilen bu araç, müşteri etkileşimlerini tek bir merkezden yönetmeyi sağlar.
 
-- ★ 38.048
+- ★ 38.153
 - GitHub Trending · 2026-06-12
 
 **TreScout notu:** Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır.
 
 ## Güncelleme
 
+- **24 Ekim 2026:** Yıldız 38.048 → 38.153, son sürüm v4.19.1 (24 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 36.927 → 38.048, son sürüm v4.19.0 (20 Ekim 2026).
 - **18 Eylül 2026:** Yıldız 36.253 → 36.927, son sürüm v4.18.0 (18 Eylül 2026).
 - **27 Ağustos 2026:** Yıldız 36.001 → 36.253, son sürüm v4.17.1 (27 Ağustos 2026).
-- **20 Ağustos 2026:** Yıldız 35.290 → 36.001, son sürüm v4.17.0 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 

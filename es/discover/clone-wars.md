@@ -2,8 +2,12 @@
 
 Clone-Wars reúne bajo un mismo techo más de 100 clones de código abierto de plataformas populares como Airbnb, Instagram y Netflix. Los desarrolladores pueden examinar las arquitecturas de las aplicaciones accediendo a los códigos fuente de los proyectos, a las pilas de tecnología y a los enlaces de demostración en vivo.
 
-- ★ 35.393
+- ★ 37.163
 - GitHub Trending · 2026-06-15
+
+## Actualizaciones
+
+- **24 de octubre de 2026:** Estrellas 35,393 → 37,163.
 
 ## Qué aporta
 

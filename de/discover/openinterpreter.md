@@ -52,8 +52,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Coding Agent](https://trescout.com/de/dictionary/coding-agent/)
-- [Terminal](https://trescout.com/de/dictionary/terminal/)
 - [Agent](https://trescout.com/de/dictionary/agent/)
+- [Terminal](https://trescout.com/de/dictionary/terminal/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

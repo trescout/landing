@@ -66,6 +66,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [v4.0](https://trescout.com/dictionary/v4-0/)
 - [Token](https://trescout.com/dictionary/token/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

@@ -58,6 +58,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Hermes Agent](https://trescout.com/en/dictionary/hermes-agent/)
+- [v4.0](https://trescout.com/en/dictionary/v4-0/)
 - [Agent](https://trescout.com/en/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
