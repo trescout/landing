@@ -1,0 +1,746 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-24",
+  "capturedAt": "2026-10-24T04:48:16.160Z",
+  "editorial": "Heute stehen in der Softwarewelt Sicherheitsaudit-Tools (security audit) sowie robotische Systeme, die sich an physische Umgebungen anpassen (embodied agents), im Vordergrund. Neben leistungsstarken Modellen wie DeepSeek-V4.1-Flash stehen auch Projekte, die den lokalen Datenzugriff optimieren, auf dem Radar der Entwickler.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "Das von Cloudflare entwickelte security-audit-skill ist ein Fähigkeitspaket, das KI-Agenten, die Code schreiben, in Auditoren verwandelt, die mehrstufige Sicherheitsüberprüfungen durchführen können. Es verwaltet Prozesse wie Erkundung, Schwachstellenscan und unabhängige Verifizierung, um standardisierte Sicherheitsberichte zu erstellen.",
+          "meta": "JavaScript · ★ 42.439 · +2.716 heute",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 42439,
+              "engagementCount": 2716,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2716,
+                "baglam": "readme"
+              }
+            },
+            "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting."
+          }
+        },
+        {
+          "title": "php/php-src",
+          "url": "https://github.com/php/php-src",
+          "summary": "PHP ist eine universelle Skriptsprache, die speziell für Webentwicklungsprozesse konzipiert wurde. Dieser in C geschriebene Interpreter treibt einen Großteil der Websites weltweit an.",
+          "meta": "C · ★ 41.594 · +716 heute",
+          "snapshot": {
+            "sourceId": "php/php-src",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 41594,
+              "engagementCount": 716,
+              "rank": 2,
+              "extra": {
+                "starsToday": 716,
+                "baglam": "readme"
+              }
+            },
+            "description": "The PHP Interpreter. PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world."
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Die von Anthropic veröffentlichten knowledge-work-plugins enthalten Open-Source-Erweiterungen, die es Wissensarbeitern ermöglichen, spezialisierte Aufgaben auf Claude Cowork und Claude Code auszuführen. Diese Python-basierten Tools zielen darauf ab, das KI-Modell in einen Assistenten zu verwandeln, der auf die spezifischen Rollen, Teams und Unternehmen der Nutzer zugeschnitten ist.",
+          "meta": "Python · ★ 32.318 · +635 heute",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 32318,
+              "engagementCount": 635,
+              "rank": 3,
+              "extra": {
+                "starsToday": 635,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork. Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code."
+          }
+        },
+        {
+          "title": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "summary": "Das von NVIDIA entwickelte OpenShell bietet eine sichere und datenschutzorientierte Laufzeitumgebung (runtime) für autonome KI-Agenten. Dieses in Rust geschriebene Tool schützt Daten und Netzwerke, indem es die Fähigkeiten der Agenten, wie das Lesen von Dateien oder die Nutzung digitaler Brücken (APIs), einschränkt.",
+          "meta": "Rust · ★ 18.908 · +1.119 heute",
+          "snapshot": {
+            "sourceId": "NVIDIA/OpenShell",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 18908,
+              "engagementCount": 1119,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1119,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenShell is the safe, private runtime for autonomous AI agents. OpenShell is the safe, private runtime for fleets of autonomous AI agents. Agents are most useful when they can read files, install packages, call APIs, and use credentials. OpenShell gives them that capability without giving them unrestricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it."
+          }
+        },
+        {
+          "title": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "summary": "Renhuai123/ziwei-doushu ist eine Open-Source-TypeScript-Engine, die auf dem Tianji-System von Ni Haixia basiert und astrologische Ziwei-Doushu-Karten berechnet. Das Projekt stellt einen umfangreichen 13-dimensionalen astrologischen Interpretationsdatensatz (v4.0) zur Verfügung, der Daten zwischen 1950 und 2026 abdeckt.",
+          "meta": "TypeScript · ★ 6.990 · +546 heute",
+          "snapshot": {
+            "sourceId": "Renhuai123/ziwei-doushu",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6990,
+              "engagementCount": 546,
+              "rank": 5,
+              "extra": {
+                "starsToday": 546,
+                "baglam": "readme"
+              }
+            },
+            "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据. 1. 发布 13 维解读数据集 v4.0 —— 674,976 张命盘（公历 1950–2026 年每一个真实日期 × 12 时辰 × 男女）× 13 维 = 8,774,688 段解读，正文约 204 亿字。解压后 56.6 GB（v3.0 为 33.1 GB，增加 71%），压缩后只有 161 MB，按年份分 77 个文件，可以只下需要的年份，也可以一次下全年份总包。下载见 Release v4.0-13d，规格和字段见第二·新章。发布前 77 个文件逐个解压，与原始数据逐字节比对一致。"
+          }
+        },
+        {
+          "title": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "summary": "SnailSploit/Claude-Red ist eine Bibliothek für offensive Sicherheitsfähigkeiten (offensive security skills), die für das KI-Fähigkeitssystem von Claude entwickelt wurde. Sie bietet Expertenmethoden für verschiedene Angriffsflächen wie SQL-Injection und Shellcode-Entwicklung in strukturierten Dateien.",
+          "meta": "Python · ★ 8.603 · +226 heute",
+          "snapshot": {
+            "sourceId": "SnailSploit/Claude-Red",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8603,
+              "engagementCount": 226,
+              "rank": 6,
+              "extra": {
+                "starsToday": 226
+              }
+            },
+            "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+          }
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM, entwickelt von OpenBMB, erzeugt dank seiner tokenfreien (tokenizer-free) Struktur kontinuierliche Sprachrepräsentationen direkt in Text-to-Speech-Prozessen (TTS). Mit seiner End-to-End-Diffusions-autoregressiven Architektur bietet es Möglichkeiten für mehrsprachige Sprachgenerierung, kreatives Sounddesign und realistisches Voice-Cloning.",
+          "meta": "Python · ★ 40.340 · +150 heute",
+          "snapshot": {
+            "sourceId": "OpenBMB/VoxCPM",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 40340,
+              "engagementCount": 150,
+              "rank": 7,
+              "extra": {
+                "starsToday": 150,
+                "baglam": "readme"
+              }
+            },
+            "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning. VoxCPM is a tokenizer-free Text-to-Speech system that directly generates continuous speech representations via an end-to-end diffusion autoregressive architecture, bypassing discrete tokenization to achieve highly natural and expressive synthesis."
+          }
+        },
+        {
+          "title": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "summary": "Node.js ist eine Open-Source-Laufzeitumgebung (runtime environment), die es ermöglicht, JavaScript-Code außerhalb des Browsers auszuführen. Diese Infrastruktur, die auf verschiedenen Betriebssystemen läuft, wird häufig für die serverseitige Anwendungsentwicklung bevorzugt.",
+          "meta": "JavaScript · ★ 122.935 · +66 heute",
+          "snapshot": {
+            "sourceId": "nodejs/node",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 122935,
+              "engagementCount": 66,
+              "rank": 8,
+              "extra": {
+                "starsToday": 66,
+                "baglam": "readme"
+              }
+            },
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨. Node.js is an open-source, cross-platform JavaScript runtime environment."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "url": "https://edjefferson.com/localwiki/",
+          "summary": "Local Wikipedia ist ein Enzyklopädie-Projekt, das Informationen über Orte bietet, die innerhalb einer halben Stunde Fußweg vom Standort des Nutzers liegen. Diese Plattform zielt darauf ab, das Umweltbewusstsein zu schärfen und reduziert allgemeine Wikipedia-Inhalte auf eine lokale Ebene.",
+          "meta": "1.311 Punkte · 228 Kommentare",
+          "snapshot": {
+            "sourceId": "50202285",
+            "capturedAt": "2026-10-24T04:48:16.415Z",
+            "metadata": {
+              "popularity": 1311,
+              "engagementCount": 228,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50202285",
+                  "popularity": 1311,
+                  "engagementCount": 228
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-22T23:01:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50202285",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Wikipedia, but only for things a half hour walk from you."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50202285",
+              "popularity": 1311,
+              "engagementCount": 228
+            }
+          ]
+        },
+        {
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "summary": "Kimi K3.1 Pro und Kimi K3.1 Pro Highspeed gehören zu den Modellen der generativen KI (generative AI). Diese Modelle bieten aktuelle Optionen, die darauf ausgelegt sind, Nutzern bei der Erledigung komplexer Aufgaben zu helfen.",
+          "meta": "794 Punkte · 484 Kommentare",
+          "snapshot": {
+            "sourceId": "50212065",
+            "capturedAt": "2026-10-24T04:48:16.415Z",
+            "metadata": {
+              "popularity": 794,
+              "engagementCount": 484,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50212065",
+                  "popularity": 794,
+                  "engagementCount": 484
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-23T16:59:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50212065"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.kimi.com&#x2F;code&#x2F;docs&#x2F;en&#x2F;kimi-code&#x2F;models.htmlhttps:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3-1-prohttps:&#x2F;&#x2F;www.modelcompare.ai&#x2F;blog&#x2F;china-open-source-ai"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50212065",
+              "popularity": 794,
+              "engagementCount": 484
+            }
+          ]
+        },
+        {
+          "title": "Today, we hacked what we'd set out to hack: the iPhone",
+          "url": "https://blog.calif.io/p/iphone",
+          "summary": "Sicherheitsforscher gaben bekannt, dass sie den geplanten Hack auf ein iPhone erfolgreich durchgeführt haben. Diese Arbeit beschreibt einen technischen Prozess, der auf die Sicherheitslücken des Smartphones abzielt.",
+          "meta": "791 Punkte · 527 Kommentare",
+          "snapshot": {
+            "sourceId": "50211474",
+            "capturedAt": "2026-10-24T04:48:16.415Z",
+            "metadata": {
+              "popularity": 791,
+              "engagementCount": 527,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50211474",
+                  "popularity": 791,
+                  "engagementCount": 527
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-23T16:21:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50211474",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Today, we hacked what we'd set out to hack: the iPhone."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50211474",
+              "popularity": 791,
+              "engagementCount": 527
+            }
+          ]
+        },
+        {
+          "title": "Apple Music 404 Not Found",
+          "url": "https://music.apple.com/this-url-doesnt-exist",
+          "summary": "Auf der Website der digitalen Musikplattform Apple Music wurde eine versteckte Fehlerseite entdeckt. Die besagte 404-Seite weist ein anderes Design auf, wenn Nutzer auf Links zugreifen, die nicht erreichbar sind.",
+          "meta": "661 Punkte · 210 Kommentare",
+          "snapshot": {
+            "sourceId": "50207910",
+            "capturedAt": "2026-10-24T04:48:16.415Z",
+            "metadata": {
+              "popularity": 661,
+              "engagementCount": 210,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50207910",
+                  "popularity": 661,
+                  "engagementCount": 210
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-23T12:28:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50207910"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;10&#x2F;23&#x2F;apple-music-has-a-hidde..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50207910",
+              "popularity": 661,
+              "engagementCount": 210
+            }
+          ]
+        },
+        {
+          "title": "Canadians are running out of time to oppose Bill C-22",
+          "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+          "summary": "Der im kanadischen Parlament debattierte Gesetzentwurf mit dem Codenamen Bill C-22 hat das Potenzial, die Privatsphäre- und Sicherheitsrechte von Millionen Menschen zu gefährden, indem er die Überwachungsbefugnisse ausweitet. Für den öffentlichen Protest gegen die Regelung zum rechtmäßigen Zugriff, die das Unterhaus bereits passiert hat und nun auf der Tagesordnung des kanadischen Senats steht, bleibt nur noch wenig Zeit.",
+          "meta": "368 Punkte · 203 Kommentare",
+          "snapshot": {
+            "sourceId": "50202114",
+            "capturedAt": "2026-10-24T04:48:16.415Z",
+            "metadata": {
+              "popularity": 368,
+              "engagementCount": 203,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50202114",
+                  "popularity": 368,
+                  "engagementCount": 203
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-22T22:43:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50202114",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Canada’s Parliament is debating a massive expansion of surveillance powers that will threaten the privacy and security of millions of people. Bill C-22, also called the Lawful Access Act, has already passed the House of Commons, and is now before the Canadian Senate. Canadians still have an..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50202114",
+              "popularity": 368,
+              "engagementCount": 203
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "DeepSeek-V4.1-Flash-1017 ist ein KI-Modell, das visuelle und textbasierte Eingaben verarbeiten kann. Diese Version bietet Verbesserungen bei logischem Denken, Programmierung und agentenbasierten Aufgaben und zielt darauf ab, die Kosteneffizienz durch die Reduzierung von Verarbeitungszeit und Ausgabelänge zu steigern.",
+          "meta": "♥ 2.604 · 57.715 Downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-24T04:48:16.298Z",
+            "metadata": {
+              "popularity": 2604,
+              "engagementCount": 57715,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2212,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "RecursiveSI/flint",
+          "url": "https://huggingface.co/RecursiveSI/flint",
+          "summary": "RecursiveSI/flint ist ein Textgenerierungsmodell mit einer Mixture-of-Experts-Architektur, das für Coding-Agenten entwickelt wurde. Das Modell, das insgesamt 39,8 Milliarden Parameter umfasst, wurde konzipiert, um Codebasen zu analysieren, Fehler zu beheben, neue Funktionen hinzuzufügen und Tests zu schreiben.",
+          "meta": "♥ 695 · 1.904 Downloads",
+          "snapshot": {
+            "sourceId": "RecursiveSI/flint",
+            "capturedAt": "2026-10-24T04:48:16.298Z",
+            "metadata": {
+              "popularity": 695,
+              "engagementCount": 1904,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 674,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "flint",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs, implement features, and write tests."
+          }
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "flux-3-image-klein-comfy, entwickelt von Black Forest Labs, ist ein KI-Modell für die Bild-zu-Bild-Transformation. Dieses Modell ist für den Betrieb auf der Bildgenerierungsoberfläche ComfyUI ausgelegt.",
+          "meta": "♥ 1.418 · 534.837 Downloads",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-24T04:48:16.298Z",
+            "metadata": {
+              "popularity": 1418,
+              "engagementCount": 534837,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 625,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-Image-SFT",
+          "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+          "summary": "MOSS-Image-SFT, entwickelt vom OpenMOSS-Team, ist ein Modell mit überwachtem Fine-Tuning, das über Text-zu-Bild-Fähigkeiten verfügt. Das Modell, das natürliche Sprachbefehle, Tag-Sequenzen und JSON-Schemata zur Steuerung von Textplatzierung und Objektlayout unterstützt, basiert auf der MOSS-Image-Base-Architektur.",
+          "meta": "♥ 659 · 7.658 Downloads",
+          "snapshot": {
+            "sourceId": "OpenMOSS-Team/MOSS-Image-SFT",
+            "capturedAt": "2026-10-24T04:48:16.298Z",
+            "metadata": {
+              "popularity": 659,
+              "engagementCount": 7658,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 459,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "moss-image",
+                  "text-to-image",
+                  "en",
+                  "zh",
+                  "arxiv:2610.23374",
+                  "base_model:OpenMOSS-Team/MOSS-Image-Base",
+                  "base_model:finetune:OpenMOSS-Team/MOSS-Image-Base",
+                  "license:apache-2.0",
+                  "diffusers:MOSSImagePipeline",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. MOSS-Image-SFT is a supervised fine-tuned text-to-image model in the MOSS-Image family from OpenMOSS, derived from MOSS-Image-Base. It uses the same architecture and inference pipeline, supporting natural-language prompts, tag sequences, and JSON layouts for controlling text placement and object arrangement."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, entwickelt von Lightricks, ist ein KI-Modell, das Bilder in Videos umwandelt (Image-to-Video-Modell). Es bietet Nutzern die Möglichkeit, aus statischen Inhalten bewegte Videos zu erstellen.",
+          "meta": "♥ 9.051 · 2.026.951 Downloads",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-10-24T04:48:16.298Z",
+            "metadata": {
+              "popularity": 9051,
+              "engagementCount": 2026951,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 407,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+          "url": "https://huggingface.co/papers/2610.30043",
+          "summary": "TARSphere ist ein Full-Stack-Framework für robotische Agenten, die sich unter physischen und sozialen Einschränkungen bewegen. Das System, das auf einem physikalischen Simulator läuft, zielt darauf ab, dass Roboter sich mit langfristigen Zielen an veränderte Umgebungsbedingungen und menschliche Bedürfnisse anpassen können.",
+          "meta": "1 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.30043",
+            "capturedAt": "2026-10-24T04:48:16.302Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.30043",
+                "publishedAt": "2026-10-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/xuyicheng-zju/TARSphere",
+                "githubStars": 16
+              }
+            },
+            "description": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evaluation in an evolving world. We introduce TARSphere, a robot-oriented full-stack framework for physically and socially grounded long-horizon embodied agents. TARSphere-Infra runs robot policies in a physics simulator with embodied NPCs and constrained dialogue."
+          }
+        },
+        {
+          "title": "The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems",
+          "url": "https://huggingface.co/papers/2610.22722",
+          "summary": "The LLM-Attacker bietet ein einheitliches Red-Team-Framework zur Bewertung der Sicherheit von fragmentierten und verteilten Large Language Model (LLM)-Systemen. Es zielt darauf ab, Datenwiederherstellungsprozesse zu standardisieren, indem es Forschern ermöglicht, verschiedene Angriffsmethoden aufzuzeichnen, zu vergleichen und zu erweitern.",
+          "meta": "2 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.22722",
+            "capturedAt": "2026-10-24T04:48:16.302Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22722",
+                "publishedAt": "2026-10-15T00:00:00.000Z",
+                "githubRepo": "https://github.com/setloop-io/LLM-Attack-Suite",
+                "githubStars": 0
+              }
+            },
+            "description": "Split language models keep input text on a client but send intermediate representations to a server. Attacks can reconstruct text from these messages. Comparing privacy evaluations is difficult when attackers see different messages, know different model weights or use different datasets and recovery measures. We present LLM-Attacker, a framework that records these choices and lets researchers check, compare and extend an evaluation. Compatible attacks reuse recorded messages, and their predictio"
+          }
+        },
+        {
+          "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?",
+          "url": "https://huggingface.co/papers/2610.04184",
+          "summary": "EvalResearchBench ist ein Benchmark-Tool, das untersucht, ob KI-Agenten die für ihre rekursive Selbstverbesserung (recursive self-improvement) benötigten Bewertungsmechanismen autonom entwerfen können. Diese Arbeit zielt darauf ab, Bewertungsprozesse durch die Nutzung von Software-Schnittstellen (APIs) zu automatisieren, um die Kosten komplexer Tests zu senken.",
+          "meta": "1 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.04184",
+            "capturedAt": "2026-10-24T04:48:16.302Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.04184",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/Mercury7353/self-evaluation-bench",
+                "githubStars": 3
+              }
+            },
+            "description": "Recursive self-improvement (RSI) relies on evaluation feedback to assess progress and guide further research, yet repeatedly running complex benchmarks is costly and slows iteration. Human experts reduce this cost by selecting benchmark subsets or designing compact suites. We ask whether AI agents can automate this design process and introduce EvalResearchBench (ERB), a benchmark for autonomous evaluation research. Given target materials, development references, candidate APIs, and fixed time an"
+          }
+        },
+        {
+          "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
+          "url": "https://huggingface.co/papers/2610.25835",
+          "summary": "Diffusions-Sprachmodelle (diffusion language models) erzeugen in einem einzigen Vorwärtsdurchlauf (forward pass) mehrere Token und bestimmen die Anzahl der Schritte im Generierungsprozess dynamisch je nach Aufgabe. Untersuchungen zeigen, dass Aufgaben, bei denen Eingabetext kopiert oder bearbeitet wird, kostengünstiger sind, während die freie Textgenerierung höhere Kosten verursacht.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.25835",
+            "capturedAt": "2026-10-24T04:48:16.302Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.25835",
+                "publishedAt": "2026-10-19T05:47:58.000Z"
+              }
+            },
+            "description": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors of this cost variation, we analyze two diffusion models across 10 tasks. We find that the number of forward passes per token depends heavily on the task. Text copied or lightly edited from the input is cheap, while open-ended writing is costly. In DiffusionGem"
+          }
+        },
+        {
+          "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+          "url": "https://huggingface.co/papers/2610.31198",
+          "summary": "T 2Quant, entwickelt für Diffusion Language Models (DLMs), zeigt, dass die Quantisierungspräzision im iterativen Denoising-Prozess je nach Aufgabe und Zeitvariablen variiert. Diese Methode bietet eine Strategie für gemischte Präzisionsquantisierung, indem sie die von verschiedenen Aufgaben benötigten Präzisionsanforderungen ohne die Notwendigkeit von Label-Daten vorhersagt.",
+          "meta": "5 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.31198",
+            "capturedAt": "2026-10-24T04:48:16.302Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31198",
+                "publishedAt": "2026-10-22T00:00:00.000Z",
+                "githubRepo": "https://github.com/OfekAvivi/T2Quant",
+                "githubStars": 3
+              }
+            },
+            "description": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent, with different downstream tasks exhibiting distinct precision requirements across denoising steps. We further show that these patterns can be predicted without groundtruth labels or task-specific evaluation metrics. Building on these findings, we introduce T 2Quant, a task and time-aware mixedprec"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "scripting language",
+      "explanation": "Eine Programmiersprache, die zur Automatisierung komplexer Softwareprozesse verwendet wird, in der Regel schneller geschrieben wird und interpretiert ausgeführt wird."
+    },
+    {
+      "term": "open source",
+      "explanation": "Eine Art von Software, deren Quellcode für jeden zur Einsicht, Änderung und Weiterentwicklung offen zugänglich ist."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Das System, das die Ressourcen und die Umgebung bereitstellt, die eine Software während ihrer Ausführung benötigt."
+    },
+    {
+      "term": "API",
+      "explanation": "Eine digitale Brücke, die es verschiedenen Softwareanwendungen ermöglicht, Daten auszutauschen und miteinander zu kommunizieren."
+    },
+    {
+      "term": "v4.0",
+      "explanation": "Eine Versionsnummer, die angibt, dass eine Software oder ein Datensatz weiterentwickelt wurde und die vierte Hauptversion erreicht hat."
+    },
+    {
+      "term": "offensive security skills",
+      "explanation": "Angriffsorientierte Sicherheitsfähigkeiten, die dazu verwendet werden, Schwachstellen in Systemen zu finden und diese Lücken zu testen."
+    },
+    {
+      "term": "shellcode",
+      "explanation": "Ein kleiner Maschinencode, der verwendet wird, um durch Ausnutzung von Sicherheitslücken in Systemen Befehle auszuführen."
+    },
+    {
+      "term": "tokenizer-free",
+      "explanation": "Eine Struktur, die Daten direkt als kontinuierlichen Strom verarbeitet, ohne den Text in kleine Stücke zu zerlegen."
+    },
+    {
+      "term": "TTS",
+      "explanation": "Eine Technologie, die geschriebene Texte mithilfe eines Computers in menschliche Sprache umwandelt."
+    },
+    {
+      "term": "diffusion autoregressive",
+      "explanation": "Eine Architektur, die durch die Methode der Rauscherzeugung sequenzielle Vorhersagen trifft und zur Erzeugung von Audio oder Bildern verwendet wird."
+    },
+    {
+      "term": "runtime environment",
+      "explanation": "Eine Softwareumgebung, die die für die Ausführung eines Programms erforderlichen Bibliotheken und Systemressourcen enthält."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz, die auf der Grundlage von Daten, mit denen sie zuvor trainiert wurde, neue Inhalte wie Texte, Bilder oder Töne erzeugen kann."
+    },
+    {
+      "term": "mixture-of-experts",
+      "explanation": "Eine Architektur, die die Effizienz steigert, indem sie ein großes Modell in kleinere Teilbereiche unterteilt, die jeweils auf unterschiedliche Aufgaben spezialisiert sind."
+    },
+    {
+      "term": "image-to-image",
+      "explanation": "Ein KI-Prozess, der ein Bild als Eingabe nimmt und es in einen anderen Stil oder Inhalt umwandelt."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Eine KI-Fähigkeit, die schriftliche Befehle analysiert und daraus entsprechende Bilder erstellt."
+    },
+    {
+      "term": "supervised fine-tuning",
+      "explanation": "Ein spezieller Trainingsprozess, bei dem ein vortrainiertes Modell mit gekennzeichneten Daten weiter trainiert wird, um bei bestimmten Aufgaben bessere Ergebnisse zu erzielen."
+    }
+  ]
+}

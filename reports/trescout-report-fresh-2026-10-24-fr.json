@@ -1,0 +1,454 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-24",
+  "capturedAt": "2026-10-24T04:48:16.160Z",
+  "editorial": "Les contenus inclus dans le rapport ne sont pas répétés pendant 30 jours. À la fin de cette période, les enregistrements qui restent d'actualité sont à nouveau listés avec l'étiquette \"de nouveau à l'ordre du jour\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "summary": "Renhuai123/ziwei-doushu est un moteur TypeScript open source basé sur le système Tianji de Ni Haixia, qui calcule les cartes astrologiques Ziwei Doushu. Le projet met à disposition un vaste ensemble de données d'interprétation astrologique en 13 dimensions (v4.0) couvrant les dates entre 1950 et 2026.",
+          "meta": "TypeScript · ★ 6 990 · +546 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Renhuai123/ziwei-doushu",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6990,
+              "engagementCount": 546,
+              "rank": 5,
+              "extra": {
+                "starsToday": 546,
+                "baglam": "readme"
+              }
+            },
+            "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据. 1. 发布 13 维解读数据集 v4.0 —— 674,976 张命盘（公历 1950–2026 年每一个真实日期 × 12 时辰 × 男女）× 13 维 = 8,774,688 段解读，正文约 204 亿字。解压后 56.6 GB（v3.0 为 33.1 GB，增加 71%），压缩后只有 161 MB，按年份分 77 个文件，可以只下需要的年份，也可以一次下全年份总包。下载见 Release v4.0-13d，规格和字段见第二·新章。发布前 77 个文件逐个解压，与原始数据逐字节比对一致。"
+          }
+        },
+        {
+          "title": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "summary": "SnailSploit/Claude-Red est une bibliothèque de compétences de sécurité offensive (offensive security skills) préparée pour le système de capacités d'IA de Claude. Elle propose des méthodologies expertes pour diverses surfaces d'attaque, telles que l'injection SQL et le développement de shellcode, via des fichiers structurés.",
+          "meta": "Python · ★ 8 603 · +226 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "SnailSploit/Claude-Red",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8603,
+              "engagementCount": 226,
+              "rank": 6,
+              "extra": {
+                "starsToday": 226
+              }
+            },
+            "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+          }
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM, développé par OpenBMB, produit des représentations vocales continues directement dans les processus de synthèse vocale (TTS) grâce à sa structure sans jeton (tokenizer-free). Avec son architecture de diffusion autorégressive de bout en bout, il offre la possibilité de générer une parole multilingue, une conception sonore créative et un clonage vocal réaliste.",
+          "meta": "Python · ★ 40 340 · +150 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "OpenBMB/VoxCPM",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 40340,
+              "engagementCount": 150,
+              "rank": 7,
+              "extra": {
+                "starsToday": 150,
+                "baglam": "readme"
+              }
+            },
+            "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning. VoxCPM is a tokenizer-free Text-to-Speech system that directly generates continuous speech representations via an end-to-end diffusion autoregressive architecture, bypassing discrete tokenization to achieve highly natural and expressive synthesis."
+          }
+        },
+        {
+          "title": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "summary": "Node.js est un environnement d'exécution (runtime environment) open source (dont le code source est accessible à tous) permettant d'exécuter du code JavaScript en dehors du navigateur. Cette infrastructure, capable de fonctionner sur différents systèmes d'exploitation, est largement privilégiée pour le développement d'applications côté serveur.",
+          "meta": "JavaScript · ★ 122 935 · +66 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "nodejs/node",
+            "capturedAt": "2026-10-24T04:48:17.321Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 122935,
+              "engagementCount": 66,
+              "rank": 8,
+              "extra": {
+                "starsToday": 66,
+                "baglam": "readme"
+              }
+            },
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨. Node.js is an open-source, cross-platform JavaScript runtime environment."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "url": "https://edjefferson.com/localwiki/",
+          "summary": "Local Wikipedia est un projet d'encyclopédie qui fournit des informations sur les lieux situés à une demi-heure de marche de l'emplacement de l'utilisateur. Visant à accroître la conscience environnementale, cette plateforme réduit le contenu général de Wikipedia à une échelle locale.",
+          "meta": "1 311 votes · 228 commentaires",
+          "snapshot": {
+            "sourceId": "50202285",
+            "capturedAt": "2026-10-24T04:48:16.415Z",
+            "metadata": {
+              "popularity": 1311,
+              "engagementCount": 228,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50202285",
+                  "popularity": 1311,
+                  "engagementCount": 228
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-22T23:01:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50202285",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Wikipedia, but only for things a half hour walk from you."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50202285",
+              "popularity": 1311,
+              "engagementCount": 228
+            }
+          ]
+        },
+        {
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "summary": "Kimi K3.1 Pro et Kimi K3.1 Pro Highspeed font partie des modèles d'IA générative (generative AI). Ces modèles offrent des options actuelles conçues pour permettre aux utilisateurs d'accomplir des tâches complexes.",
+          "meta": "794 votes · 484 commentaires",
+          "snapshot": {
+            "sourceId": "50212065",
+            "capturedAt": "2026-10-24T04:48:16.415Z",
+            "metadata": {
+              "popularity": 794,
+              "engagementCount": 484,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50212065",
+                  "popularity": 794,
+                  "engagementCount": 484
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-23T16:59:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50212065"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.kimi.com&#x2F;code&#x2F;docs&#x2F;en&#x2F;kimi-code&#x2F;models.htmlhttps:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3-1-prohttps:&#x2F;&#x2F;www.modelcompare.ai&#x2F;blog&#x2F;china-open-source-ai"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50212065",
+              "popularity": 794,
+              "engagementCount": 484
+            }
+          ]
+        },
+        {
+          "title": "Today, we hacked what we'd set out to hack: the iPhone",
+          "url": "https://blog.calif.io/p/iphone",
+          "summary": "Des chercheurs en sécurité ont annoncé avoir réussi à mener à bien une opération de piratage sur iPhone. Cette étude fait référence à un processus technique mené sur les vulnérabilités de sécurité du smartphone.",
+          "meta": "791 votes · 527 commentaires",
+          "snapshot": {
+            "sourceId": "50211474",
+            "capturedAt": "2026-10-24T04:48:16.415Z",
+            "metadata": {
+              "popularity": 791,
+              "engagementCount": 527,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50211474",
+                  "popularity": 791,
+                  "engagementCount": 527
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-23T16:21:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50211474",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Today, we hacked what we'd set out to hack: the iPhone."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50211474",
+              "popularity": 791,
+              "engagementCount": 527
+            }
+          ]
+        },
+        {
+          "title": "Apple Music 404 Not Found",
+          "url": "https://music.apple.com/this-url-doesnt-exist",
+          "summary": "Une page d'erreur cachée a été découverte sur le site web de la plateforme de musique numérique Apple Music. Ladite page 404 présente un design différent pour les liens auxquels les utilisateurs ne peuvent pas accéder.",
+          "meta": "661 votes · 210 commentaires",
+          "snapshot": {
+            "sourceId": "50207910",
+            "capturedAt": "2026-10-24T04:48:16.415Z",
+            "metadata": {
+              "popularity": 661,
+              "engagementCount": 210,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50207910",
+                  "popularity": 661,
+                  "engagementCount": 210
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-23T12:28:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50207910"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;10&#x2F;23&#x2F;apple-music-has-a-hidde..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50207910",
+              "popularity": 661,
+              "engagementCount": 210
+            }
+          ]
+        },
+        {
+          "title": "Canadians are running out of time to oppose Bill C-22",
+          "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+          "summary": "Le projet de loi codé Bill C-22, actuellement débattu au Parlement canadien, a le potentiel de menacer les droits à la vie privée et à la sécurité de millions de personnes en élargissant les pouvoirs de surveillance. Il reste peu de temps pour la réaction du public contre cette mesure d'accès légal, qui a été adoptée par la Chambre des communes et qui est actuellement à l'ordre du jour du Sénat canadien.",
+          "meta": "368 votes · 203 commentaires",
+          "snapshot": {
+            "sourceId": "50202114",
+            "capturedAt": "2026-10-24T04:48:16.415Z",
+            "metadata": {
+              "popularity": 368,
+              "engagementCount": 203,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50202114",
+                  "popularity": 368,
+                  "engagementCount": 203
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-22T22:43:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50202114",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Canada’s Parliament is debating a massive expansion of surveillance powers that will threaten the privacy and security of millions of people. Bill C-22, also called the Lawful Access Act, has already passed the House of Commons, and is now before the Canadian Senate. Canadians still have an..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50202114",
+              "popularity": 368,
+              "engagementCount": 203
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+          "url": "https://huggingface.co/papers/2610.30043",
+          "summary": "TARSphere est un cadre complet (full-stack framework) développé pour les agents robotiques se déplaçant sous des contraintes physiques et sociales. Fonctionnant sur un simulateur physique, le système vise à permettre aux robots de s'adapter aux conditions environnementales changeantes et aux besoins humains avec des objectifs à long terme.",
+          "meta": "1 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.30043",
+            "capturedAt": "2026-10-24T04:48:16.302Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.30043",
+                "publishedAt": "2026-10-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/xuyicheng-zju/TARSphere",
+                "githubStars": 16
+              }
+            },
+            "description": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evaluation in an evolving world. We introduce TARSphere, a robot-oriented full-stack framework for physically and socially grounded long-horizon embodied agents. TARSphere-Infra runs robot policies in a physics simulator with embodied NPCs and constrained dialogue."
+          }
+        },
+        {
+          "title": "The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems",
+          "url": "https://huggingface.co/papers/2610.22722",
+          "summary": "The LLM-Attacker propose un cadre d'équipe rouge (red-team) unifié pour l'évaluation de la confidentialité des systèmes de grands modèles de langage (LLM) divisés et distribués. Il vise à standardiser les processus de récupération de données en permettant aux chercheurs d'enregistrer, de comparer et d'étendre différentes méthodes d'attaque.",
+          "meta": "2 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.22722",
+            "capturedAt": "2026-10-24T04:48:16.302Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22722",
+                "publishedAt": "2026-10-15T00:00:00.000Z",
+                "githubRepo": "https://github.com/setloop-io/LLM-Attack-Suite",
+                "githubStars": 0
+              }
+            },
+            "description": "Split language models keep input text on a client but send intermediate representations to a server. Attacks can reconstruct text from these messages. Comparing privacy evaluations is difficult when attackers see different messages, know different model weights or use different datasets and recovery measures. We present LLM-Attacker, a framework that records these choices and lets researchers check, compare and extend an evaluation. Compatible attacks reuse recorded messages, and their predictio"
+          }
+        },
+        {
+          "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?",
+          "url": "https://huggingface.co/papers/2610.04184",
+          "summary": "EvalResearchBench est un outil d'évaluation (benchmark) qui étudie si les agents d'intelligence artificielle peuvent concevoir de manière autonome les mécanismes d'évaluation dont ils ont besoin dans leurs processus d'auto-amélioration récursive (recursive self-improvement). Cette étude vise à automatiser les processus d'évaluation en utilisant des interfaces logicielles (API) afin de réduire le coût des tests complexes.",
+          "meta": "1 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.04184",
+            "capturedAt": "2026-10-24T04:48:16.302Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.04184",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/Mercury7353/self-evaluation-bench",
+                "githubStars": 3
+              }
+            },
+            "description": "Recursive self-improvement (RSI) relies on evaluation feedback to assess progress and guide further research, yet repeatedly running complex benchmarks is costly and slows iteration. Human experts reduce this cost by selecting benchmark subsets or designing compact suites. We ask whether AI agents can automate this design process and introduce EvalResearchBench (ERB), a benchmark for autonomous evaluation research. Given target materials, development references, candidate APIs, and fixed time an"
+          }
+        },
+        {
+          "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
+          "url": "https://huggingface.co/papers/2610.25835",
+          "summary": "Les modèles de langage par diffusion (diffusion language models) génèrent plusieurs jetons (tokens) en un seul passage vers l'avant (forward pass), déterminant dynamiquement le nombre d'étapes du processus de production en fonction des tâches. Les recherches montrent que les tâches où le texte d'entrée est copié ou modifié sont moins coûteuses, tandis que la génération de texte libre est plus coûteuse.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.25835",
+            "capturedAt": "2026-10-24T04:48:16.302Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.25835",
+                "publishedAt": "2026-10-19T05:47:58.000Z"
+              }
+            },
+            "description": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors of this cost variation, we analyze two diffusion models across 10 tasks. We find that the number of forward passes per token depends heavily on the task. Text copied or lightly edited from the input is cheap, while open-ended writing is costly. In DiffusionGem"
+          }
+        },
+        {
+          "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+          "url": "https://huggingface.co/papers/2610.31198",
+          "summary": "T 2Quant, développé pour les modèles de langage par diffusion (DLM), révèle que la précision de la quantification dans le processus de débruitage itératif (denoising) varie en fonction des variables de tâche et de temps. Cette méthode propose une stratégie de quantification à précision mixte en prédisant les besoins de précision requis par différentes tâches sans nécessiter de données étiquetées.",
+          "meta": "5 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.31198",
+            "capturedAt": "2026-10-24T04:48:16.302Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31198",
+                "publishedAt": "2026-10-22T00:00:00.000Z",
+                "githubRepo": "https://github.com/OfekAvivi/T2Quant",
+                "githubStars": 3
+              }
+            },
+            "description": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent, with different downstream tasks exhibiting distinct precision requirements across denoising steps. We further show that these patterns can be predicted without groundtruth labels or task-specific evaluation metrics. Building on these findings, we introduce T 2Quant, a task and time-aware mixedprec"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "runtime",
+      "explanation": "Système qui fournit les ressources et l'environnement nécessaires au fonctionnement d'un logiciel."
+    },
+    {
+      "term": "API",
+      "explanation": "Pont numérique permettant à différents logiciels d'échanger des données et de communiquer entre eux."
+    },
+    {
+      "term": "v4.0",
+      "explanation": "Numéro de version indiquant qu'un logiciel ou un ensemble de données a été développé pour atteindre sa quatrième version majeure."
+    },
+    {
+      "term": "offensive security skills",
+      "explanation": "Capacités de sécurité axées sur l'attaque, utilisées pour trouver les faiblesses des systèmes et tester ces vulnérabilités."
+    },
+    {
+      "term": "shellcode",
+      "explanation": "Petit morceau de code machine utilisé pour exécuter des commandes en exploitant les vulnérabilités de sécurité des systèmes."
+    },
+    {
+      "term": "tokenizer-free",
+      "explanation": "Structure qui traite les données directement sous forme de flux continu, sans diviser le texte en petits morceaux."
+    },
+    {
+      "term": "TTS",
+      "explanation": "Technologie qui convertit des textes écrits en voix humaine par ordinateur."
+    },
+    {
+      "term": "diffusion autoregressive",
+      "explanation": "Architecture utilisée pour la génération de sons ou d'images, qui effectue des prédictions séquentielles en utilisant une méthode de création de données à partir du bruit."
+    },
+    {
+      "term": "runtime environment",
+      "explanation": "Environnement logiciel contenant les bibliothèques et les ressources système nécessaires à l'exécution d'un programme."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Intelligence artificielle capable de générer de nouveaux contenus tels que du texte, des images ou du son, en se basant sur les données sur lesquelles elle a été préalablement entraînée."
+    }
+  ]
+}
