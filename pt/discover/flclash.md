@@ -2,17 +2,17 @@
 
 FlClash; É um cliente proxy multiplataforma baseado em ClashMeta. Foi desenvolvido com Dart e possui uma estrutura de código aberto, livre de anúncios e fácil de usar.
 
-- ★ 56.245
+- ★ 57.749
 - Dart
 - GPL-3.0
 - GitHub Trending · 30 May 2026
 
 ## Atualizações
 
+- **24 de outubro de 2026:** Estrelas 56,245 → 57,749, versão mais recente v0.9.2 (24 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 55,669 → 56,245, versão mais recente v0.9.1 (17 de outubro de 2026).
 - **14 de outubro de 2026:** Estrelas 54,202 → 55,669, versão mais recente v0.9.0 (14 de outubro de 2026).
 - **3 de outubro de 2026:** Estrelas 52,097 → 54,202, versão mais recente v0.8.99 (3 de outubro de 2026).
-- **14 de setembro de 2026:** Estrelas 51,594 → 52,097, versão mais recente v0.8.98 (14 de setembro de 2026).
 
 *Görsel: FlClash (proje deposundan)*
 

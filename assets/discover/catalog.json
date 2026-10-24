@@ -3205,14 +3205,14 @@
     "slug": "flclash",
     "title": "FlClash",
     "tagline": "ClashMeta tabanlı, çok platformlu, reklamsız ve açık kaynak proxy istemcisi.",
-    "meta": "★ 56.245 · GPL-3.0",
+    "meta": "★ 57.749 · GPL-3.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 56245,
+    "stars": 57749,
     "image": "/assets/discover/og/flclash.webp",
     "headline": "Açık kaynaklı modern proxy istemcisi",
     "last_review": "2026-10-24",
@@ -3272,6 +3272,13 @@
         "onceki_yildiz": 55669,
         "surum": "v0.9.1",
         "surum_tarihi": "2026-10-17"
+      },
+      {
+        "tarih": "2026-10-24",
+        "yildiz": 57749,
+        "onceki_yildiz": 56245,
+        "surum": "v0.9.2",
+        "surum_tarihi": "2026-10-24"
       }
     ],
     "tagline_en": "Multi-platform, ad-free and open source proxy client based on ClashMeta.",
@@ -16317,7 +16324,7 @@
     "slug": "orca",
     "title": "Orca",
     "tagline": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme…",
-    "meta": "★ 104.070 · TypeScript",
+    "meta": "★ 104.205 · TypeScript",
     "image": "/assets/discover/og/orca.webp",
     "source": "GitHub",
     "date": "2026-06-25",
@@ -16325,7 +16332,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 104070,
+    "stars": 104205,
     "lite": false,
     "headline": "Birden fazla yapay zekâ ajanı yönetin",
     "last_review": "2026-10-24",
@@ -16651,6 +16658,13 @@
         "onceki_yildiz": 100379,
         "surum": "v1.4.238",
         "surum_tarihi": "2026-10-23"
+      },
+      {
+        "tarih": "2026-10-24",
+        "yildiz": 104205,
+        "onceki_yildiz": 104070,
+        "surum": "v1.4.239",
+        "surum_tarihi": "2026-10-24"
       }
     ],
     "tagline_en": "Developed by Stablyai, Orca is an agent development tool that allows managing multiple artificial intelligence agents simultaneously.",
@@ -39382,14 +39396,14 @@
     "slug": "ruflo",
     "title": "Ruflo",
     "tagline": "Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.",
-    "meta": "★ 78.825 · TypeScript",
+    "meta": "★ 78.851 · TypeScript",
     "image": "/assets/discover/og/ruflo.webp",
     "source": "GitHub",
     "date": "2026-08-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 78825,
+    "stars": 78851,
     "lite": false,
     "headline": "Yapay zekâ ajanları için orkestrasyon katmanı",
     "last_review": "2026-10-24",
@@ -39637,6 +39651,13 @@
         "yildiz": 78825,
         "onceki_yildiz": 78609,
         "surum": "v3.61.0",
+        "surum_tarihi": "2026-10-24"
+      },
+      {
+        "tarih": "2026-10-24",
+        "yildiz": 78851,
+        "onceki_yildiz": 78825,
+        "surum": "v3.61.1",
         "surum_tarihi": "2026-10-24"
       }
     ],
@@ -45515,14 +45536,14 @@
     "slug": "system-design-notes",
     "title": "System Design Notes",
     "tagline": "Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - An Insider's Guide) kitabından derlenen notlar…",
-    "meta": "★ 25.606",
+    "meta": "★ 26.887",
     "image": "/assets/discover/og/system-design-notes.webp",
     "source": "GitHub",
     "date": "2026-09-09",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 25606,
+    "stars": 26887,
     "summary": "Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - An Insider's Guide) kitabından derlenen notlar, karmaşık yazılım mimarilerini anlamak için kapsamlı bir kaynak sunuyor. Ölçeklenebilir sistem tasarımı (system design) süreçlerini ve temel mühendislik prensiplerini pratik örneklerle açıklıyor.",
     "lite": false,
     "headline": "Sistem tasarımı mülakatlarına hazırlık notları",
@@ -45565,6 +45586,11 @@
         "tarih": "2026-10-10",
         "yildiz": 25606,
         "onceki_yildiz": 24205
+      },
+      {
+        "tarih": "2026-10-24",
+        "yildiz": 26887,
+        "onceki_yildiz": 25606
       }
     ]
   },
@@ -47599,7 +47625,7 @@
     "slug": "security-audit-skill",
     "title": "Security Audit Skill",
     "tagline": "Cloudflare tarafından geliştirilen security-audit-skill, kodlama ajanlarının çok aşamalı güvenlik denetimleri yapmasını…",
-    "meta": "★ 40.509 · JavaScript",
+    "meta": "★ 42.663 · JavaScript",
     "image": "/assets/discover/og/security-audit-skill.webp",
     "source": "GitHub",
     "date": "2026-09-18",
@@ -47607,7 +47633,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 40509,
+    "stars": 42663,
     "summary": "Cloudflare tarafından geliştirilen security-audit-skill, kodlama ajanlarının çok aşamalı güvenlik denetimleri yapmasını sağlayan bir yetenek paketi (skill). Makine tarafından okunabilir ve bağımsız olarak doğrulanmış bulgular üreterek yazılım geliştirme süreçlerinde güvenlik standartlarını otomatize ediyor.",
     "lite": false,
     "headline": "Yapay zekâ ile otomatik güvenlik denetimi",
@@ -47678,6 +47704,11 @@
         "tarih": "2026-10-23",
         "yildiz": 40509,
         "onceki_yildiz": 37788
+      },
+      {
+        "tarih": "2026-10-24",
+        "yildiz": 42663,
+        "onceki_yildiz": 40509
       }
     ]
   },
@@ -49475,14 +49506,14 @@
     "slug": "runner-images",
     "title": "Runner Images",
     "tagline": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun…",
-    "meta": "★ 13.517 · PowerShell",
+    "meta": "★ 13.521 · PowerShell",
     "image": "/assets/discover/og/runner-images.webp",
     "source": "GitHub",
     "date": "2026-09-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13517,
+    "stars": 13521,
     "last_seen": "2026-09-27",
     "summary": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.",
     "lite": false,
@@ -49574,6 +49605,13 @@
         "onceki_yildiz": 13514,
         "surum": "win25/20261021.299",
         "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-24",
+        "yildiz": 13521,
+        "onceki_yildiz": 13517,
+        "surum": "ubuntu26-arm64/20261023.150",
+        "surum_tarihi": "2026-10-23"
       }
     ],
     "tagline_en": "GitHub Actions runner images are part of the GitHub Actions platform, which automates software development processes...",
@@ -52482,7 +52520,7 @@
     "slug": "dsh-purge",
     "title": "Dsh Purge",
     "tagline": "YuJunZhiXue/dsh-purge, farklı yapay zekâ modelleri için özelleştirilebilir komut istemleri (prompts) kullanarak güvenlik…",
-    "meta": "★ 7.355 · JavaScript",
+    "meta": "★ 7.485 · JavaScript",
     "image": "/assets/discover/og/dsh-purge.webp",
     "source": "GitHub",
     "date": "2026-10-19",
@@ -52490,7 +52528,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7355,
+    "stars": 7485,
     "last_seen": "2026-10-19",
     "summary": "YuJunZhiXue/dsh-purge, farklı yapay zekâ modelleri için özelleştirilebilir komut istemleri (prompts) kullanarak güvenlik kısıtlamalarını aşmayı (jailbreak) hedefleyen bir JavaScript aracıdır. Proje, kullanıcıların farklı modeller için kendi komutlarını tanımlamasına ve varsayılan olarak yerel modellere odaklanmasına olanak tanır.",
     "lite": false,
@@ -52531,6 +52569,13 @@
         "onceki_yildiz": 6673,
         "surum": "v1.1.77",
         "surum_tarihi": "2026-10-23"
+      },
+      {
+        "tarih": "2026-10-24",
+        "yildiz": 7485,
+        "onceki_yildiz": 7355,
+        "surum": "v1.1.78",
+        "surum_tarihi": "2026-10-24"
       }
     ],
     "tagline_en": "YuJunZhiXue/dsh-purge, using customizable prompts for different artificial intelligence models, security…",
