@@ -2,12 +2,13 @@
 
 AWS hat ein Toolset veröffentlicht, das Model Context Protocol-Server, Fähigkeiten und Plug-Ins umfasst, um die Interaktion von KI-Agenten mit der Cloud-Infrastruktur zu erleichtern. Diese Entwicklung bietet eine standardisierte Struktur, die es Agenten ermöglicht, direkt auf AWS-Diensten zu arbeiten.
 
-- ★ 2.215
+- ★ 3.222
 - Python
 - GitHub Trending · 2026-06-26
 
 ## Aktualisierungen
 
+- **25. Oktober 2026:** Sterne 2,215 → 3,222.
 - **4. August 2026:** Sterne 1,209 → 2,215.
 
 ## Was es bringt

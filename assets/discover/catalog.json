@@ -919,10 +919,10 @@
     "slug": "claude-mem",
     "title": "claude-mem",
     "tagline": "Yapay zekâ ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
-    "meta": "★ 102.613 · Apache-2.0",
+    "meta": "★ 102.908 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
-    "stars": 102613,
+    "stars": 102908,
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
@@ -1154,6 +1154,13 @@
         "onceki_yildiz": 102038,
         "surum": "v15.0.2",
         "surum_tarihi": "2026-10-23"
+      },
+      {
+        "tarih": "2026-10-25",
+        "yildiz": 102908,
+        "onceki_yildiz": 102613,
+        "surum": "v15.1.0",
+        "surum_tarihi": "2026-10-25"
       }
     ],
     "tagline_en": "Persistent memory for your AI agent: Remembers cross-session context and is set up with a single command.",
@@ -4183,14 +4190,14 @@
     "slug": "pi-subagents",
     "title": "Pi Subagents",
     "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
-    "meta": "★ 4.020 · Lisans: yok",
+    "meta": "★ 4.026 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4020,
+    "stars": 4026,
     "image": "/assets/discover/og/pi-subagents.webp",
     "headline": "Yapay zekâ ile asenkron görev yönetimi",
     "last_review": "2026-10-25",
@@ -4481,6 +4488,13 @@
         "onceki_yildiz": 3989,
         "surum": "v0.82.0",
         "surum_tarihi": "2026-10-24"
+      },
+      {
+        "tarih": "2026-10-25",
+        "yildiz": 4026,
+        "onceki_yildiz": 4020,
+        "surum": "v0.82.1",
+        "surum_tarihi": "2026-10-25"
       }
     ],
     "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform.",
@@ -15501,7 +15515,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 71.587 · TypeScript",
+    "meta": "★ 71.653 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -15509,7 +15523,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 71587,
+    "stars": 71653,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-25",
@@ -16065,6 +16079,13 @@
         "yildiz": 71587,
         "onceki_yildiz": 70915,
         "surum": "v0.8.195",
+        "surum_tarihi": "2026-10-25"
+      },
+      {
+        "tarih": "2026-10-25",
+        "yildiz": 71653,
+        "onceki_yildiz": 71587,
+        "surum": "v0.8.196",
         "surum_tarihi": "2026-10-25"
       }
     ],
@@ -17199,7 +17220,7 @@
     "slug": "agent-toolkit-for-aws",
     "title": "Agent Toolkit for Aws",
     "tagline": "AWS, yapay zekâ ajanlarının bulut altyapısıyla etkileşimini kolaylaştırmak için Model Bağlantı Protokolü (Model Context…",
-    "meta": "★ 2.215 · Python",
+    "meta": "★ 3.222 · Python",
     "image": "/assets/discover/og/agent-toolkit-for-aws.webp",
     "source": "GitHub",
     "date": "2026-06-26",
@@ -17207,7 +17228,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 2215,
+    "stars": 3222,
     "lite": false,
     "headline": "Yapay zekâ ajanları için AWS araç seti",
     "last_review": "2026-10-25",
@@ -17216,6 +17237,11 @@
         "tarih": "2026-08-04",
         "yildiz": 2215,
         "onceki_yildiz": 1209
+      },
+      {
+        "tarih": "2026-10-25",
+        "yildiz": 3222,
+        "onceki_yildiz": 2215
       }
     ],
     "tagline_en": "AWS is introducing Model Connection Protocol (Model Context…) to facilitate the interaction of AI agents with cloud infrastructure.",
@@ -24799,7 +24825,7 @@
     "slug": "hallmark",
     "title": "Hallmark",
     "tagline": "Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla…",
-    "meta": "★ 30.983 · CSS",
+    "meta": "★ 32.557 · CSS",
     "image": "/assets/discover/og/hallmark.webp",
     "source": "GitHub",
     "date": "2026-07-13",
@@ -24807,7 +24833,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 30983,
+    "stars": 32557,
     "lite": false,
     "headline": "Yapay zekâ tasarımlarına özgünlük kazandırın",
     "last_review": "2026-10-25",
@@ -24851,6 +24877,11 @@
         "tarih": "2026-10-23",
         "yildiz": 30983,
         "onceki_yildiz": 29187
+      },
+      {
+        "tarih": "2026-10-25",
+        "yildiz": 32557,
+        "onceki_yildiz": 30983
       }
     ],
     "tagline_en": "Hallmark aims to reduce the impact of standard content produced by artificial intelligence (AI slop) on design…",
@@ -33193,7 +33224,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 63.204 · Python",
+    "meta": "★ 63.240 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -33201,7 +33232,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 63204,
+    "stars": 63240,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-10-25",
@@ -33428,6 +33459,13 @@
         "yildiz": 63204,
         "onceki_yildiz": 62745,
         "surum": "v6.16.27",
+        "surum_tarihi": "2026-10-25"
+      },
+      {
+        "tarih": "2026-10-25",
+        "yildiz": 63240,
+        "onceki_yildiz": 63204,
+        "surum": "v6.16.28",
         "surum_tarihi": "2026-10-25"
       }
     ]
@@ -50103,7 +50141,7 @@
     "slug": "openrig",
     "title": "Openrig",
     "tagline": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan…",
-    "meta": "★ 8.142 · TypeScript",
+    "meta": "★ 8.170 · TypeScript",
     "image": "/assets/discover/og/openrig.webp",
     "source": "GitHub",
     "date": "2026-09-28",
@@ -50111,7 +50149,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8142,
+    "stars": 8170,
     "last_seen": "2026-10-03",
     "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
     "lite": false,
@@ -50229,6 +50267,13 @@
         "onceki_yildiz": 8025,
         "surum": "v0.7.0",
         "surum_tarihi": "2026-10-23"
+      },
+      {
+        "tarih": "2026-10-25",
+        "yildiz": 8170,
+        "onceki_yildiz": 8142,
+        "surum": "v0.7.1",
+        "surum_tarihi": "2026-10-25"
       }
     ],
     "tagline_en": "Openrig, a multi-agent… combining Anthropic's coding tool Claude Code and OpenAI's coding model Codex into a single system",

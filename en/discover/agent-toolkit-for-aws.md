@@ -2,12 +2,13 @@
 
 AWS has released a toolset that includes Model Context Protocol servers, skills, and plug-ins to facilitate the interaction of AI agents with cloud infrastructure. This development provides a standardized structure that allows agents to operate directly on AWS services.
 
-- ★ 2,215
+- ★ 3,222
 - Python
 - GitHub Trending · 2026-06-26
 
 ## Updates
 
+- **October 25, 2026:** Stars 2,215 → 3,222.
 - **August 4, 2026:** Stars 1,209 → 2,215.
 
 ## What you get

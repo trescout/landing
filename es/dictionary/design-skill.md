@@ -37,6 +37,7 @@ Sí. Los modelos se pueden desarrollar en esta dirección añadiendo bibliotecas
 - [Generative UI](https://trescout.com/es/dictionary/generative-ui/)
 - [Design System](https://trescout.com/es/dictionary/design-system/)
 - [Agent Skills](https://trescout.com/es/dictionary/agent-skills/)
+- [Frontend](https://trescout.com/es/dictionary/frontend/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/design-skill/)
 

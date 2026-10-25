@@ -37,6 +37,7 @@ Yes. Models can be improved in this direction by adding design libraries, rule s
 - [Generative UI](https://trescout.com/en/dictionary/generative-ui/)
 - [Design System](https://trescout.com/en/dictionary/design-system/)
 - [Agent Skills](https://trescout.com/en/dictionary/agent-skills/)
+- [Frontend](https://trescout.com/en/dictionary/frontend/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/design-skill/)
 

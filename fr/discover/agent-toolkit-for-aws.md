@@ -2,12 +2,13 @@
 
 AWS a publié un ensemble d'outils comprenant des serveurs, des compétences et des plug-ins Model Context Protocol pour faciliter l'interaction des agents d'IA avec l'infrastructure cloud. Ce développement fournit une structure standardisée qui permet aux agents d'opérer directement sur les services AWS.
 
-- ★ 2 215
+- ★ 3 222
 - Python
 - GitHub Trending · 2026-06-26
 
 ## Mises à jour
 
+- **25 octobre 2026:** Étoiles 2,215 → 3,222.
 - **4 août 2026:** Étoiles 1,209 → 2,215.
 
 ## Ce que ça vous apporte
