@@ -2,17 +2,17 @@
 
 When artificial intelligence agents produce interfaces, they often give template-oriented results. The Taste Skill is a portable skill set that teaches agents more effective use of layout, typography, movement, and space. In this way, interfaces created with artificial intelligence look much more original and professional.
 
-- ★ 100,118
+- ★ 102,085
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Updates
 
+- **October 25, 2026:** Stars 100,118 → 102,085, latest release v2.1.5 (October 24, 2026).
 - **October 21, 2026:** Stars 99,600 → 100,118, latest release v2.1.4 (October 20, 2026).
 - **October 20, 2026:** Stars 99,086 → 99,600, latest release v2.1.3 (October 19, 2026).
 - **October 19, 2026:** Stars 95,827 → 99,086, latest release v2.1.2 (October 19, 2026).
-- **October 14, 2026:** Stars 91,389 → 95,827, latest release v2.0.0 (October 13, 2026).
 
 *Görsel: taste-skill (proje deposundan)*
 
@@ -56,10 +56,10 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-fro
 
 - [Taste](https://trescout.com/en/dictionary/taste/)
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
+- [Frontend](https://trescout.com/en/dictionary/frontend/)
 - [Agent Skills](https://trescout.com/en/dictionary/agent-skills/)
 - [Shell](https://trescout.com/en/dictionary/shell/)
 - [Skill](https://trescout.com/en/dictionary/skill/)
-- [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 
 - **Who it is for:** Those who produce interface / frontend with AI
 - **Difficulty:** Medium AI agent usage

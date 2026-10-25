@@ -54,6 +54,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [Frontend](https://trescout.com/en/dictionary/frontend/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for software developers who want to increase the development speed in their web projects and work with modern tools.

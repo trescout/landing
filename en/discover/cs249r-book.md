@@ -2,12 +2,13 @@
 
 This resource, shared by Harvard University, offers a comprehensive technical guide on machine learning systems. Combining hardware and software layers, this study addresses the design processes of scalable artificial intelligence infrastructures.
 
-- ★ 28,788
+- ★ 29,547
 - Python
 - GitHub Trending · 2026-07-03
 
 ## Updates
 
+- **October 25, 2026:** Stars 28,788 → 29,547, latest release slides-latest (May 11, 2026).
 - **October 2, 2026:** Stars 28,085 → 28,788, latest release tinytorch-v0.2.0 (October 1, 2026).
 - **September 1, 2026:** Stars 27,689 → 28,085, latest release vol1-v0.7.2 (August 31, 2026).
 - **August 2, 2026:** Stars 25,784 → 27,689, latest release tinytorch-v0.1.13 (June 24, 2026).

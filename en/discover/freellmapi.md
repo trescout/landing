@@ -78,12 +78,12 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [Full-stack](https://trescout.com/en/dictionary/full-stack/)
 - [Pipeline](https://trescout.com/en/dictionary/pipeline/)
 - [Proxy](https://trescout.com/en/dictionary/proxy/)
 - [Localhost](https://trescout.com/en/dictionary/localhost/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
-- [Open Source](https://trescout.com/en/dictionary/open-source/)
 
 - **Who it is for:** AI developers, open-source researchers, full-stack engineers, and prototype developers.
 - **License:** MIT (Free open source license)

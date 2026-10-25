@@ -2,16 +2,16 @@
 
 Octop, desarrollado por TencentCloud, es un asistente de IA multiusuario y multiagente que puedes alojar en tu propio servidor. Este sistema basado en Python permite que diferentes usuarios interactúen simultáneamente con múltiples agentes de IA.
 
-- ★ 10.066
+- ★ 10.946
 - Python
 - GitHub Trending · 2026-09-18
 
 ## Actualizaciones
 
+- **25 de octubre de 2026:** Estrellas 10,066 → 10,946, última versión v1.0.3b1 (25 de octubre de 2026).
 - **19 de octubre de 2026:** Estrellas 9,714 → 10,066, última versión v1.0.2 (18 de octubre de 2026).
 - **17 de octubre de 2026:** Estrellas 9,446 → 9,714, última versión v1.0.2b9 (17 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 8,878 → 9,446, última versión v1.0.2b8 (14 de octubre de 2026).
-- **12 de octubre de 2026:** Estrellas 7,930 → 8,878, última versión v1.0.2b7 (12 de octubre de 2026).
 
 ## Qué aporta
 

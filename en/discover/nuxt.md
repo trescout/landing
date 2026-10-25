@@ -44,6 +44,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Server-side Rendering](https://trescout.com/en/dictionary/server-side-rendering/)
+- [Full-stack](https://trescout.com/en/dictionary/full-stack/)
 - [SEO](https://trescout.com/en/dictionary/seo/)
 - [Rendering](https://trescout.com/en/dictionary/rendering/)
 - [Framework](https://trescout.com/en/dictionary/framework/)

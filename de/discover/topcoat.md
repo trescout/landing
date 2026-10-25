@@ -2,16 +2,16 @@
 
 Topcoat wurde vom Tokio-Team entwickelt und bietet ein umfassendes Framework, das alle notwendigen Tools zum Erstellen von Webanwendungen in Rust enthält. Ziel ist es, den Anwendungsentwicklungsprozess zu standardisieren, indem die von Entwicklern benötigten Grundkomponenten in einer einzigen Struktur zusammengefasst werden.
 
-- ★ 5.914
+- ★ 6.201
 - Rust
 - GitHub Trending · 2026-07-21
 
 ## Aktualisierungen
 
+- **25. Oktober 2026:** Sterne 5,914 → 6,201, neueste Version v0.11.0 (24. Oktober 2026).
 - **4. Oktober 2026:** Sterne 5,415 → 5,914, neueste Version v0.10.0 (3. Oktober 2026).
 - **27. September 2026:** Sterne 4,823 → 5,415, neueste Version v0.9.0 (24. September 2026).
 - **14. September 2026:** Sterne 4,799 → 4,823, neueste Version v0.8.1 (13. September 2026).
-- **10. September 2026:** Sterne 4,761 → 4,799, neueste Version v0.8.0 (9. September 2026).
 
 ## Was es bringt
 

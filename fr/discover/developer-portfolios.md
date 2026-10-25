@@ -34,6 +34,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Frontend](https://trescout.com/fr/dictionary/frontend/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Toute personne souhaitant créer son propre site de portfolio

@@ -78,12 +78,12 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [Full-stack](https://trescout.com/es/dictionary/full-stack/)
 - [Pipeline](https://trescout.com/es/dictionary/pipeline/)
 - [Proxy](https://trescout.com/es/dictionary/proxy/)
 - [Localhost](https://trescout.com/es/dictionary/localhost/)
 - [SDK](https://trescout.com/es/dictionary/sdk/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
-- [Open Source](https://trescout.com/es/dictionary/open-source/)
 
 - **Para quién es:** Desarrolladores de inteligencia artificial, investigadores de código abierto, ingenieros completos y desarrolladores de prototipos.
 - **Licencia:** MIT (Licencia de código abierto libre)

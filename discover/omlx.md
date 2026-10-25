@@ -2,16 +2,16 @@
 
 Omlx, Apple Silicon (M1/M2/M3/M4) işlemcili Mac bilgisayarlar için sürekli yığınlama (continuous batching) ve SSD önbellekleme (SSD caching) yetenekleri sunan yeni nesil bir yerel büyük dil modeli (LLM) çıkarım sunucusudur. Apple MLX altyapısını OpenAI uyumlu API ve macOS menü çubuğu arayüzüyle birleştirir.
 
-- ★ 22.973
+- ★ 23.036
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
 
+- **25 Ekim 2026:** Yıldız 22.973 → 23.036, son sürüm v0.7.3.dev2 (25 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 22.855 → 22.973, son sürüm v0.7.2 (21 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 22.825 → 22.855, son sürüm v0.7.1rc1 (15 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 22.655 → 22.825, son sürüm v0.7.1.dev2 (15 Ekim 2026).
-- **9 Ekim 2026:** Yıldız 22.409 → 22.655, son sürüm v0.7.1.dev1 (9 Ekim 2026).
 
 ## Ne kazandırır?
 

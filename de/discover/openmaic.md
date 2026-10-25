@@ -75,12 +75,12 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Frontend](https://trescout.com/de/dictionary/frontend/)
 - [Markdown](https://trescout.com/de/dictionary/markdown/)
 - [GPU](https://trescout.com/de/dictionary/gpu/)
 - [PDF](https://trescout.com/de/dictionary/pdf/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
-- [API](https://trescout.com/de/dictionary/api/)
 
 - **Für wen es gedacht ist:** Pädagogen, KI-Forscher, Edtech-Unternehmer und Studenten.
 - **Lizenz:** Apache-2.0 (Open-Source-Lizenz)

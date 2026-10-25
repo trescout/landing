@@ -78,12 +78,12 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Full-stack](https://trescout.com/de/dictionary/full-stack/)
 - [Pipeline](https://trescout.com/de/dictionary/pipeline/)
 - [Proxy](https://trescout.com/de/dictionary/proxy/)
 - [Localhost](https://trescout.com/de/dictionary/localhost/)
 - [SDK](https://trescout.com/de/dictionary/sdk/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
-- [Open Source](https://trescout.com/de/dictionary/open-source/)
 
 - **Für wen es gedacht ist:** Entwickler künstlicher Intelligenz, Open-Source-Forscher, Full-Stack-Ingenieure und Prototypenentwickler.
 - **Lizenz:** MIT (Freie Open-Source-Lizenz)

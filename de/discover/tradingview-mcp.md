@@ -2,12 +2,13 @@
 
 TradingView-mcp verbindet Claude Code mit der TradingView-Desktopanwendung und ermöglicht Ihnen so die Automatisierung von Diagrammanalyseprozessen. Diese Integration ermöglicht es Benutzern, technische Analyse-Workflows durch KI-gestützten Modellkontext (Model Context Protocol) zu personalisieren.
 
-- ★ 5.932
+- ★ 6.935
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Aktualisierungen
 
+- **25. Oktober 2026:** Sterne 5,932 → 6,935.
 - **31. August 2026:** Sterne 4,930 → 5,932.
 
 ## Was es bringt

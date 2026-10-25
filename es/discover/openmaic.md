@@ -75,12 +75,12 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [Frontend](https://trescout.com/es/dictionary/frontend/)
 - [Markdown](https://trescout.com/es/dictionary/markdown/)
 - [GPU](https://trescout.com/es/dictionary/gpu/)
 - [PDF](https://trescout.com/es/dictionary/pdf/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
-- [API](https://trescout.com/es/dictionary/api/)
 
 - **Para quién es:** Educadores, investigadores de IA, emprendedores de tecnología educativa y estudiantes.
 - **Licencia:** Apache-2.0 (licencia de código abierto)

@@ -2,16 +2,16 @@
 
 Le hedge fund AI utilise des agents autonomes pour automatiser les processus d'analyse des marchés financiers et de gestion d'actifs. Ce projet basé sur Python propose un modèle d'équipe d'intelligence artificielle qui développe des stratégies d'investissement en traitant les données de marché.
 
-- ★ 64 107
+- ★ 64 231
 - Python
 - GitHub Trending · 2026-07-13
 
 ## Mises à jour
 
+- **25 octobre 2026:** Étoiles 64,107 → 64,231, dernière version v2.6.1 (24 octobre 2026).
 - **20 octobre 2026:** Étoiles 63,836 → 64,107, dernière version v2.6.0 (19 octobre 2026).
 - **3 octobre 2026:** Étoiles 63,763 → 63,836, dernière version v2.5.0 (2 octobre 2026).
 - **27 septembre 2026:** Étoiles 63,515 → 63,763, dernière version v2.4.1 (25 septembre 2026).
-- **19 septembre 2026:** Étoiles 62,721 → 63,515, dernière version v2.3.0 (18 septembre 2026).
 
 ## Ce que ça vous apporte
 

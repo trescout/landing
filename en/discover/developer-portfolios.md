@@ -34,6 +34,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [Frontend](https://trescout.com/en/dictionary/frontend/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Anyone who will create their own portfolio site

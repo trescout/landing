@@ -2,16 +2,16 @@
 
 La biblioteca de voz a voz desarrollada por Hugging Face permite crear agentes de voz locales utilizando modelos de código abierto. Esta herramienta basada en Python permite a los desarrolladores crear sistemas de interacción de voz en tiempo real que se ejecutan en el dispositivo.
 
-- ★ 13.072
+- ★ 13.549
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Actualizaciones
 
+- **25 de octubre de 2026:** Estrellas 13,072 → 13,549, última versión v1.1.0 (24 de octubre de 2026).
 - **7 de septiembre de 2026:** Estrellas 12,310 → 13,072, última versión v1.0.0 (6 de septiembre de 2026).
 - **12 de agosto de 2026:** Estrellas 11,283 → 12,310, última versión v0.2.12 (5 de agosto de 2026).
 - **6 de agosto de 2026:** Estrellas 10,774 → 11,283, última versión v0.2.12 (5 de agosto de 2026).
-- **4 de agosto de 2026:** Estrellas 10,402 → 10,774, última versión v0.2.11 (3 de agosto de 2026).
 
 ## Qué aporta
 

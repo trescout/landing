@@ -2,9 +2,13 @@
 
 UniMate, farklı iskelet yapılarını tek bir model üzerinden hareketlendirmeye yarayan bir animasyon teknolojisi. SIGGRAPH Asia 2026 kapsamında sunulan bu çalışma, karakter animasyonu süreçlerini standartlaştırmayı amaçlıyor.
 
-- ★ 1.166
+- ★ 2.183
 - Python
 - GitHub Trending · 2026-10-02
+
+## Güncelleme
+
+- **25 Ekim 2026:** Yıldız 1.166 → 2.183.
 
 ## Ne kazandırır?
 

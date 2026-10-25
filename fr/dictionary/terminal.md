@@ -72,11 +72,11 @@ Les commandes de lecture n'en causent pas. Pour les commandes de suppression et 
 - [Claude Code](https://trescout.com/fr/discover/claude-code/)
 - [Codex](https://trescout.com/fr/discover/codex/)
 - [PI](https://trescout.com/fr/discover/pi/)
+- [Gemini CLI](https://trescout.com/fr/discover/gemini-cli/)
 - [Terminal](https://trescout.com/fr/discover/terminal/)
 - [Cline](https://trescout.com/fr/discover/cline/)
 - [Career Ops](https://trescout.com/fr/discover/career-ops/)
 - [Openinterpreter](https://trescout.com/fr/discover/openinterpreter/)
-- [Free Claude Code](https://trescout.com/fr/discover/free-claude-code/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/terminal/)
 

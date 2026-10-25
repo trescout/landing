@@ -2,16 +2,16 @@
 
 The speech-to-speech library developed by Hugging Face allows creating local voice agents using open source models. This Python-based tool allows developers to build real-time voice interaction systems that run on the device.
 
-- ★ 13,072
+- ★ 13,549
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Updates
 
+- **October 25, 2026:** Stars 13,072 → 13,549, latest release v1.1.0 (October 24, 2026).
 - **September 7, 2026:** Stars 12,310 → 13,072, latest release v1.0.0 (September 6, 2026).
 - **August 12, 2026:** Stars 11,283 → 12,310, latest release v0.2.12 (August 5, 2026).
 - **August 6, 2026:** Stars 10,774 → 11,283, latest release v0.2.12 (August 5, 2026).
-- **August 4, 2026:** Stars 10,402 → 10,774, latest release v0.2.11 (August 3, 2026).
 
 ## What you get
 

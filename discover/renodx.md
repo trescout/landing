@@ -2,9 +2,13 @@
 
 Renodx, eski DirectX oyunlarına yüksek dinamik aralık (HDR) desteği ekleyen bir dönüştürme motorudur. Geliştiricilerin oyun grafiklerini modern ekran standartlarına uyarlamasına olanak tanıyan bu araç, görsel kaliteyi iyileştirmek için gölgelendirici dili (HLSL) kullanır.
 
-- ★ 3.586
+- ★ 4.591
 - HLSL
 - GitHub Trending · 2026-09-05
+
+## Güncelleme
+
+- **25 Ekim 2026:** Yıldız 3.586 → 4.591.
 
 ## Ne kazandırır?
 

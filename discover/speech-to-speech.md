@@ -2,16 +2,16 @@
 
 Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar (voice agents) oluşturulmasına olanak tanıyor. Python tabanlı bu araç, geliştiricilerin cihaz üzerinde çalışan gerçek zamanlı sesli etkileşim sistemleri kurmasını sağlıyor.
 
-- ★ 13.072
+- ★ 13.549
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Güncelleme
 
+- **25 Ekim 2026:** Yıldız 13.072 → 13.549, son sürüm v1.1.0 (24 Ekim 2026).
 - **7 Eylül 2026:** Yıldız 12.310 → 13.072, son sürüm v1.0.0 (6 Eylül 2026).
 - **12 Ağustos 2026:** Yıldız 11.283 → 12.310, son sürüm v0.2.12 (5 Ağustos 2026).
 - **6 Ağustos 2026:** Yıldız 10.774 → 11.283, son sürüm v0.2.12 (5 Ağustos 2026).
-- **4 Ağustos 2026:** Yıldız 10.402 → 10.774, son sürüm v0.2.11 (3 Ağustos 2026).
 
 ## Ne kazandırır?
 

@@ -95,12 +95,12 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [Full-stack](https://trescout.com/dictionary/full-stack/)
 - [Pipeline](https://trescout.com/dictionary/pipeline/)
 - [Proxy](https://trescout.com/dictionary/proxy/)
 - [Localhost](https://trescout.com/dictionary/localhost/)
 - [SDK](https://trescout.com/dictionary/sdk/)
 - [LLM](https://trescout.com/dictionary/llm/)
-- [Open Source](https://trescout.com/dictionary/open-source/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/freellmapi/

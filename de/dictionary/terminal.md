@@ -72,11 +72,11 @@ Lesende Befehle tun das nicht. Bei löschenden und schreibenden Befehlen werden 
 - [Claude Code](https://trescout.com/de/discover/claude-code/)
 - [Codex](https://trescout.com/de/discover/codex/)
 - [PI](https://trescout.com/de/discover/pi/)
+- [Gemini CLI](https://trescout.com/de/discover/gemini-cli/)
 - [Terminal](https://trescout.com/de/discover/terminal/)
 - [Cline](https://trescout.com/de/discover/cline/)
 - [Career Ops](https://trescout.com/de/discover/career-ops/)
 - [Openinterpreter](https://trescout.com/de/discover/openinterpreter/)
-- [Free Claude Code](https://trescout.com/de/discover/free-claude-code/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/terminal/)
 

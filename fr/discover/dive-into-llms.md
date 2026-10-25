@@ -2,16 +2,16 @@
 
 Dive into LLM est une série de formations qui enseigne les principes de fonctionnement des grands modèles de langage pratiquement via des fichiers Jupyter Notebook. Le projet concrétise les processus de développement de modèles en proposant un large éventail de pratiques de codage, des concepts de base aux techniques avancées.
 
-- ★ 54 712
+- ★ 57 527
 - Jupyter Notebook
 - GitHub Trending · 2026-07-25
 
 ## Mises à jour
 
+- **25 octobre 2026:** Étoiles 54,712 → 57,527, dernière version v1 (12 juin 2025).
 - **19 septembre 2026:** Étoiles 52,081 → 54,712, dernière version v1 (12 juin 2025).
 - **6 septembre 2026:** Étoiles 49,468 → 52,081, dernière version v1 (12 juin 2025).
 - **17 août 2026:** Étoiles 47,047 → 49,468, dernière version v1 (12 juin 2025).
-- **2 août 2026:** Étoiles 45,115 → 47,047, dernière version v1 (12 juin 2025).
 
 ## Ce que ça vous apporte
 

@@ -2,16 +2,16 @@
 
 La bibliothèque parole-parole développée par Hugging Face permet de créer des agents vocaux locaux à l'aide de modèles open source. Cet outil basé sur Python permet aux développeurs de créer des systèmes d'interaction vocale en temps réel qui s'exécutent sur l'appareil.
 
-- ★ 13 072
+- ★ 13 549
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Mises à jour
 
+- **25 octobre 2026:** Étoiles 13,072 → 13,549, dernière version v1.1.0 (24 octobre 2026).
 - **7 septembre 2026:** Étoiles 12,310 → 13,072, dernière version v1.0.0 (6 septembre 2026).
 - **12 août 2026:** Étoiles 11,283 → 12,310, dernière version v0.2.12 (5 août 2026).
 - **6 août 2026:** Étoiles 10,774 → 11,283, dernière version v0.2.12 (5 août 2026).
-- **4 août 2026:** Étoiles 10,402 → 10,774, dernière version v0.2.11 (3 août 2026).
 
 ## Ce que ça vous apporte
 

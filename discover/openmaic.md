@@ -92,12 +92,12 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [Frontend](https://trescout.com/dictionary/frontend/)
 - [Markdown](https://trescout.com/dictionary/markdown/)
 - [GPU](https://trescout.com/dictionary/gpu/)
 - [PDF](https://trescout.com/dictionary/pdf/)
 - [LLM](https://trescout.com/dictionary/llm/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
-- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openmaic/

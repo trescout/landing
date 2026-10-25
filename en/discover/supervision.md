@@ -2,16 +2,16 @@
 
 Developed by Roboflow, Supervision offers reusable auxiliary tools and functions for computer vision projects. This Python-based library accelerates development workflows by facilitating standard operations in processes such as object detection and tracking.
 
-- ★ 51,253
+- ★ 51,348
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Updates
 
+- **October 25, 2026:** Stars 51,253 → 51,348, latest release 0.31.2 (October 24, 2026).
 - **October 21, 2026:** Stars 51,223 → 51,253, latest release 0.31.1 (October 20, 2026).
 - **October 17, 2026:** Stars 51,154 → 51,223, latest release 0.31.0 (October 16, 2026).
 - **October 8, 2026:** Stars 51,146 → 51,154, latest release 0.30.9 (October 8, 2026).
-- **October 7, 2026:** Stars 51,118 → 51,146, latest release 0.30.8 (October 6, 2026).
 
 ## What you get
 

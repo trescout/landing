@@ -2,12 +2,13 @@
 
 Cette ressource, partagée par l'Université Harvard, propose un guide technique complet sur les systèmes d'apprentissage automatique. Combinant des couches matérielles et logicielles, cette étude aborde les processus de conception d'infrastructures d'intelligence artificielle évolutives.
 
-- ★ 28 788
+- ★ 29 547
 - Python
 - GitHub Trending · 2026-07-03
 
 ## Mises à jour
 
+- **25 octobre 2026:** Étoiles 28,788 → 29,547, dernière version slides-latest (11 mai 2026).
 - **2 octobre 2026:** Étoiles 28,085 → 28,788, dernière version tinytorch-v0.2.0 (1 octobre 2026).
 - **1 septembre 2026:** Étoiles 27,689 → 28,085, dernière version vol1-v0.7.2 (31 août 2026).
 - **2 août 2026:** Étoiles 25,784 → 27,689, dernière version tinytorch-v0.1.13 (24 juin 2026).

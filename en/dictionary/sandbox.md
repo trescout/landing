@@ -44,8 +44,8 @@ A well-structured sandbox completely restricts communication with the outside wo
 - [MiroFish](https://trescout.com/en/discover/mirofish/)
 - [Ladybird](https://trescout.com/en/discover/ladybird/)
 - [CUA](https://trescout.com/en/discover/cua/)
-- [iii](https://trescout.com/en/discover/iii/)
 - [OpenShell](https://trescout.com/en/discover/openshell/)
+- [iii](https://trescout.com/en/discover/iii/)
 - [AX](https://trescout.com/en/discover/ax/)
 - [CubeSandbox](https://trescout.com/en/discover/cubesandbox/)
 

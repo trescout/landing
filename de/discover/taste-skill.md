@@ -2,17 +2,17 @@
 
 Wenn Agenten der künstlichen Intelligenz Schnittstellen erstellen, liefern sie häufig vorlagenorientierte Ergebnisse. Bei der Taste Skill handelt es sich um eine tragbare Fertigkeit, mit der Agenten Layout, Typografie, Bewegung und Raum effektiver nutzen können. Auf diese Weise sehen mit künstlicher Intelligenz erstellte Schnittstellen viel origineller und professioneller aus.
 
-- ★ 100.118
+- ★ 102.085
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **25. Oktober 2026:** Sterne 100,118 → 102,085, neueste Version v2.1.5 (24. Oktober 2026).
 - **21. Oktober 2026:** Sterne 99,600 → 100,118, neueste Version v2.1.4 (20. Oktober 2026).
 - **20. Oktober 2026:** Sterne 99,086 → 99,600, neueste Version v2.1.3 (19. Oktober 2026).
 - **19. Oktober 2026:** Sterne 95,827 → 99,086, neueste Version v2.1.2 (19. Oktober 2026).
-- **14. Oktober 2026:** Sterne 91,389 → 95,827, neueste Version v2.0.0 (13. Oktober 2026).
 
 *Görsel: taste-skill (proje deposundan)*
 
@@ -56,10 +56,10 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-fro
 
 - [Taste](https://trescout.com/de/dictionary/taste/)
 - [AI Agent](https://trescout.com/de/dictionary/ai-agent/)
+- [Frontend](https://trescout.com/de/dictionary/frontend/)
 - [Agent Skills](https://trescout.com/de/dictionary/agent-skills/)
 - [Shell](https://trescout.com/de/dictionary/shell/)
 - [Skill](https://trescout.com/de/dictionary/skill/)
-- [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 
 - **Für wen es gedacht ist:** Diejenigen, die Interfaces/Frontends mit KI produzieren
 - **Schwierigkeit:** Mittlere Nutzung von KI-Agenten

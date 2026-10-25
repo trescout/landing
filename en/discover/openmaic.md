@@ -75,12 +75,12 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [Frontend](https://trescout.com/en/dictionary/frontend/)
 - [Markdown](https://trescout.com/en/dictionary/markdown/)
 - [GPU](https://trescout.com/en/dictionary/gpu/)
 - [PDF](https://trescout.com/en/dictionary/pdf/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
-- [API](https://trescout.com/en/dictionary/api/)
 
 - **Who it is for:** Educators, AI researchers, edtech entrepreneurs, and students.
 - **License:** Apache-2.0 (Open source license)

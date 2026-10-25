@@ -44,8 +44,8 @@ Uma sandbox bem estruturada restringe completamente a comunicação com o mundo 
 - [MiroFish](https://trescout.com/pt/discover/mirofish/)
 - [Ladybird](https://trescout.com/pt/discover/ladybird/)
 - [CUA](https://trescout.com/pt/discover/cua/)
-- [iii](https://trescout.com/pt/discover/iii/)
 - [OpenShell](https://trescout.com/pt/discover/openshell/)
+- [iii](https://trescout.com/pt/discover/iii/)
 - [AX](https://trescout.com/pt/discover/ax/)
 - [CubeSandbox](https://trescout.com/pt/discover/cubesandbox/)
 

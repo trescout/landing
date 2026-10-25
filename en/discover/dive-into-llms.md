@@ -2,16 +2,16 @@
 
 Dive into LLMs is a training series that teaches the working principles of large language models practically through Jupyter Notebook files. The project concretizes model development processes by offering a wide range of coding practices, from basic concepts to advanced techniques.
 
-- ★ 54,712
+- ★ 57,527
 - Jupyter Notebook
 - GitHub Trending · 2026-07-25
 
 ## Updates
 
+- **October 25, 2026:** Stars 54,712 → 57,527, latest release v1 (June 12, 2025).
 - **September 19, 2026:** Stars 52,081 → 54,712, latest release v1 (June 12, 2025).
 - **September 6, 2026:** Stars 49,468 → 52,081, latest release v1 (June 12, 2025).
 - **August 17, 2026:** Stars 47,047 → 49,468, latest release v1 (June 12, 2025).
-- **August 2, 2026:** Stars 45,115 → 47,047, latest release v1 (June 12, 2025).
 
 ## What you get
 

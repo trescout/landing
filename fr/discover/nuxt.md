@@ -44,6 +44,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Server-side Rendering](https://trescout.com/fr/dictionary/server-side-rendering/)
+- [Full-stack](https://trescout.com/fr/dictionary/full-stack/)
 - [SEO](https://trescout.com/fr/dictionary/seo/)
 - [Rendering](https://trescout.com/fr/dictionary/rendering/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)

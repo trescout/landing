@@ -2,9 +2,13 @@
 
 UniMate é uma tecnologia de animação que permite animar diferentes estruturas esqueléticas através de um único modelo. Apresentado na SIGGRAPH Asia 2026, este trabalho visa padronizar os processos de animação de personagens.
 
-- ★ 1.166
+- ★ 2.183
 - Python
 - GitHub Trending · 2026-10-02
+
+## Atualizações
+
+- **25 de outubro de 2026:** Estrelas 1,166 → 2,183.
 
 ## O que você ganha
 

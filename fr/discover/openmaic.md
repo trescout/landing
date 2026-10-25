@@ -75,12 +75,12 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Frontend](https://trescout.com/fr/dictionary/frontend/)
 - [Markdown](https://trescout.com/fr/dictionary/markdown/)
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
 - [PDF](https://trescout.com/fr/dictionary/pdf/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
-- [API](https://trescout.com/fr/dictionary/api/)
 
 - **Pour qui:** Éducateurs, chercheurs en intelligence artificielle, entrepreneurs EdTech et étudiants.
 - **Licence:** Apache-2.0 (licence Open Source)

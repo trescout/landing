@@ -53,6 +53,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Server-side Rendering](https://trescout.com/dictionary/server-side-rendering/)
+- [Full-stack](https://trescout.com/dictionary/full-stack/)
 - [SEO](https://trescout.com/dictionary/seo/)
 - [Rendering](https://trescout.com/dictionary/rendering/)
 - [Framework](https://trescout.com/dictionary/framework/)

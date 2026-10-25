@@ -2,17 +2,17 @@
 
 Ingénierie composée ; Claude Code est un module complémentaire officiel pour Codex et Cursor. Sa philosophie de base est claire : chaque tâche d'ingénierie doit rendre la suivante plus facile, et non plus difficile. À cette fin, il offre des capacités et des agents d’IA qui améliorent le processus de développement.
 
-- ★ 25 682
+- ★ 25 697
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026
 
 ## Mises à jour
 
+- **25 octobre 2026:** Étoiles 25,682 → 25,697, dernière version compound-engineering-v3.32.1 (25 octobre 2026).
 - **24 octobre 2026:** Étoiles 25,648 → 25,682, dernière version compound-engineering-v3.32.0 (23 octobre 2026).
 - **22 octobre 2026:** Étoiles 25,564 → 25,648, dernière version compound-engineering-v3.31.1 (22 octobre 2026).
 - **17 octobre 2026:** Étoiles 25,481 → 25,564, dernière version compound-engineering-v3.31.0 (16 octobre 2026).
-- **12 octobre 2026:** Étoiles 25,402 → 25,481, dernière version compound-engineering-v3.30.5 (11 octobre 2026).
 
 ## Ce que ça vous apporte
 

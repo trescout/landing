@@ -34,6 +34,10 @@ Il empêche les accès non autorisés et les violations de sécurité.
 - [Security Scanner](https://trescout.com/fr/dictionary/security-scanner/)
 - [Vulnerability Scanning](https://trescout.com/fr/dictionary/vulnerability-scanning/)
 
+## Outils liés
+
+- [Microduck](https://trescout.com/fr/discover/microduck/)
+
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/policies/)
 
 ---

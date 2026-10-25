@@ -2,16 +2,16 @@
 
 LiteLLM, 100'den fazla büyük dil modeli (LLM) arayüzünü tek bir standart formatta birleştiren bir yapay zekâ ağ geçidi (AI gateway). Yazılım geliştiricilere maliyet takibi, yük dengeleme ve güvenlik duvarı (guardrails) gibi özellikler sunarak farklı model sağlayıcıları arasında geçiş yapmayı kolaylaştırıyor.
 
-- ★ 61.793
+- ★ 61.984
 - Python
 - GitHub Trending · 2026-10-09
 
 ## Güncelleme
 
+- **25 Ekim 2026:** Yıldız 61.793 → 61.984, son sürüm v1.106.3 (24 Ekim 2026).
 - **22 Ekim 2026:** Yıldız 61.715 → 61.793, son sürüm v1.106.2 (21 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 61.706 → 61.715, son sürüm v1.107.0 (21 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 61.464 → 61.706, son sürüm v1.106.1 (20 Ekim 2026).
-- **18 Ekim 2026:** Yıldız 61.213 → 61.464, son sürüm v1.106.0 (18 Ekim 2026).
 
 ## Ne kazandırır?
 

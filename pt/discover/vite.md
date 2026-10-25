@@ -54,6 +54,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [Frontend](https://trescout.com/pt/dictionary/frontend/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a desenvolvedores de software que desejam aumentar a velocidade de desenvolvimento em seus projetos web e trabalhar com ferramentas modernas.

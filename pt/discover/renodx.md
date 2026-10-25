@@ -2,9 +2,13 @@
 
 Renodx é um motor de conversão que adiciona suporte a alta faixa dinâmica (HDR) a jogos DirectX antigos. Esta ferramenta, que permite aos desenvolvedores adaptar os gráficos dos jogos aos padrões de exibição modernos, utiliza a linguagem de sombreamento (HLSL) para melhorar a qualidade visual.
 
-- ★ 3.586
+- ★ 4.591
 - HLSL
 - GitHub Trending · 2026-09-05
+
+## Atualizações
+
+- **25 de outubro de 2026:** Estrelas 3,586 → 4,591.
 
 ## O que você ganha
 

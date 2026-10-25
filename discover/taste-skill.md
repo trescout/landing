@@ -4,17 +4,17 @@ Yapay zekâ ajanları arayüz üretirken çoğu zaman şablon odaklı sonuçlar 
 
 *Görsel: taste-skill (proje deposundan)*
 
-- ★ 100.118
+- ★ 102.085
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **25 Ekim 2026:** Yıldız 100.118 → 102.085, son sürüm v2.1.5 (24 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 99.600 → 100.118, son sürüm v2.1.4 (20 Ekim 2026).
 - **20 Ekim 2026:** Yıldız 99.086 → 99.600, son sürüm v2.1.3 (19 Ekim 2026).
 - **19 Ekim 2026:** Yıldız 95.827 → 99.086, son sürüm v2.1.2 (19 Ekim 2026).
-- **14 Ekim 2026:** Yıldız 91.389 → 95.827, son sürüm v2.0.0 (13 Ekim 2026).
 
 - **Kimin için:** Yapay zekâ ile arayüz / frontend üretenler
 - **Zorluk:** Orta · AI agent kullanımı
@@ -71,10 +71,10 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Taste](https://trescout.com/dictionary/taste/)
 - [AI Agent](https://trescout.com/dictionary/ai-agent/)
+- [Frontend](https://trescout.com/dictionary/frontend/)
 - [Agent Skills](https://trescout.com/dictionary/agent-skills/)
 - [Shell](https://trescout.com/dictionary/shell/)
 - [Skill](https://trescout.com/dictionary/skill/)
-- [AI Skills](https://trescout.com/dictionary/ai-skills/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/taste-skill/

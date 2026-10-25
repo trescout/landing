@@ -72,11 +72,11 @@ Los comandos de lectura no causan daños. En los comandos que borran y escriben,
 - [Claude Code](https://trescout.com/es/discover/claude-code/)
 - [Codex](https://trescout.com/es/discover/codex/)
 - [PI](https://trescout.com/es/discover/pi/)
+- [Gemini CLI](https://trescout.com/es/discover/gemini-cli/)
 - [Terminal](https://trescout.com/es/discover/terminal/)
 - [Cline](https://trescout.com/es/discover/cline/)
 - [Career Ops](https://trescout.com/es/discover/career-ops/)
 - [Openinterpreter](https://trescout.com/es/discover/openinterpreter/)
-- [Free Claude Code](https://trescout.com/es/discover/free-claude-code/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/terminal/)
 

@@ -78,12 +78,12 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Full-stack](https://trescout.com/fr/dictionary/full-stack/)
 - [Pipeline](https://trescout.com/fr/dictionary/pipeline/)
 - [Proxy](https://trescout.com/fr/dictionary/proxy/)
 - [Localhost](https://trescout.com/fr/dictionary/localhost/)
 - [SDK](https://trescout.com/fr/dictionary/sdk/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
-- [Open Source](https://trescout.com/fr/dictionary/open-source/)
 
 - **Pour qui:** Développeurs d'intelligence artificielle, chercheurs open source, ingénieurs full-stack et développeurs de prototypes.
 - **Licence:** MIT (Licence open source gratuite)

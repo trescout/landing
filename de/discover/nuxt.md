@@ -44,6 +44,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Server-side Rendering](https://trescout.com/de/dictionary/server-side-rendering/)
+- [Full-stack](https://trescout.com/de/dictionary/full-stack/)
 - [SEO](https://trescout.com/de/dictionary/seo/)
 - [Rendering](https://trescout.com/de/dictionary/rendering/)
 - [Framework](https://trescout.com/de/dictionary/framework/)

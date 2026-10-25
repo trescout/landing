@@ -2,12 +2,13 @@
 
 Model Context Protocol (MCP)-Server ermöglichen es generativen KI-Modellen, über eine standardisierte Schnittstelle auf externe Datenquellen und Tools zuzugreifen. Dieses Protokoll erlaubt es verschiedenen KI-Anwendungen, sich sicher und konsistent mit Datenbanken oder Software-Tools zu verbinden.
 
-- ★ 91.368
+- ★ 91.545
 - TypeScript
 - GitHub Trending · 2026-10-01
 
 ## Aktualisierungen
 
+- **25. Oktober 2026:** Sterne 91,368 → 91,545, neueste Version v2.1.0 (25. Oktober 2026).
 - **19. Oktober 2026:** Sterne 91,136 → 91,368, neueste Version v2.0.0 (19. Oktober 2026).
 - **11. Oktober 2026:** Sterne 90,905 → 91,136, neueste Version v1.0.0 (11. Oktober 2026).
 - **1. Oktober 2026:** Sterne 90,906 → 90,905, neueste Version 2026.8.31 (31. August 2026).

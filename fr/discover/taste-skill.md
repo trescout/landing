@@ -2,17 +2,17 @@
 
 Lorsque les agents d’intelligence artificielle produisent des interfaces, ils donnent souvent des résultats orientés modèles. La compétence Taste est un ensemble de compétences portables qui enseigne aux agents une utilisation plus efficace de la mise en page, de la typographie, du mouvement et de l'espace. De cette façon, les interfaces créées avec l’intelligence artificielle paraissent beaucoup plus originales et professionnelles.
 
-- ★ 100 118
+- ★ 102 085
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **25 octobre 2026:** Étoiles 100,118 → 102,085, dernière version v2.1.5 (24 octobre 2026).
 - **21 octobre 2026:** Étoiles 99,600 → 100,118, dernière version v2.1.4 (20 octobre 2026).
 - **20 octobre 2026:** Étoiles 99,086 → 99,600, dernière version v2.1.3 (19 octobre 2026).
 - **19 octobre 2026:** Étoiles 95,827 → 99,086, dernière version v2.1.2 (19 octobre 2026).
-- **14 octobre 2026:** Étoiles 91,389 → 95,827, dernière version v2.0.0 (13 octobre 2026).
 
 *Görsel: taste-skill (proje deposundan)*
 
@@ -56,10 +56,10 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-fro
 
 - [Taste](https://trescout.com/fr/dictionary/taste/)
 - [AI Agent](https://trescout.com/fr/dictionary/ai-agent/)
+- [Frontend](https://trescout.com/fr/dictionary/frontend/)
 - [Agent Skills](https://trescout.com/fr/dictionary/agent-skills/)
 - [Shell](https://trescout.com/fr/dictionary/shell/)
 - [Skill](https://trescout.com/fr/dictionary/skill/)
-- [AI Skills](https://trescout.com/fr/dictionary/ai-skills/)
 
 - **Pour qui:** Ceux qui produisent des interfaces/frontend avec l'IA
 - **Difficulté:** Utilisation moyenne des agents IA
