@@ -1,0 +1,787 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-25",
+  "capturedAt": "2026-10-25T04:49:30.425Z",
+  "editorial": "Hoy en el ecosistema de desarrolladores destacan los agentes encarnados (embodied agents) que interactúan con el mundo físico y los marcos de auditoría que se dirigen a las vulnerabilidades de seguridad de los modelos de lenguaje grandes (LLM). Las nuevas herramientas en GitHub y Hugging Face se centran tanto en la gestión de sistemas basados en hardware como en las pruebas de privacidad de modelos distribuidos.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "security-audit-skill, desarrollado por Cloudflare, es un paquete de habilidades basado en JavaScript que convierte a los agentes de software en auditores capaces de realizar auditorías de seguridad de múltiples etapas. Esta herramienta gestiona procesos que van desde el descubrimiento hasta la generación de informes con hallazgos verificables de forma independiente y legibles por máquina.",
+          "meta": "JavaScript · ★ 44.962 · +2.264 hoy",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 44962,
+              "engagementCount": 2264,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2264,
+                "baglam": "readme"
+              }
+            },
+            "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting."
+          }
+        },
+        {
+          "title": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "summary": "OpenShell, desarrollado por NVIDIA, ofrece un entorno de tiempo de ejecución (runtime) seguro y centrado en la privacidad para agentes de inteligencia artificial autónomos. Escrita en el lenguaje Rust, esta herramienta audita el acceso a los datos limitando las capacidades de los agentes, como la lectura de archivos o el uso de API (un puente digital que permite que dos softwares diferentes se comuniquen entre sí), dentro de marcos de políticas específicos.",
+          "meta": "Rust · ★ 19.571 · +896 hoy",
+          "snapshot": {
+            "sourceId": "NVIDIA/OpenShell",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 19571,
+              "engagementCount": 896,
+              "rank": 2,
+              "extra": {
+                "starsToday": 896,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenShell is the safe, private runtime for autonomous AI agents. OpenShell is the safe, private runtime for fleets of autonomous AI agents. Agents are most useful when they can read files, install packages, call APIs, and use credentials. OpenShell gives them that capability without giving them unrestricted access to your data, secrets, or network. You declare what each agent can touch in a policy, and OpenShell enforces it."
+          }
+        },
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "aws/agent-toolkit-for-aws, ofrecido por Amazon Web Services, incluye herramientas oficiales, complementos y servidores del Protocolo de Contexto de Modelo (MCP) que permiten a los agentes de inteligencia artificial desarrollar, implementar y gestionar aplicaciones en AWS. Este conjunto de herramientas basado en Python permite que los agentes de IA trabajen de manera más compatible con la infraestructura de AWS en los procesos de desarrollo de software.",
+          "meta": "Python · ★ 3.178 · +13 hoy",
+          "snapshot": {
+            "sourceId": "aws/agent-toolkit-for-aws",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3178,
+              "engagementCount": 13,
+              "rank": 3,
+              "extra": {
+                "starsToday": 13,
+                "baglam": "readme"
+              }
+            },
+            "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS. Help AI coding agents build, deploy, and manage applications on AWS."
+          }
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Nutlope/hallmark ofrece una habilidad de diseño (design skill) que evita que el contenido creado en editores de código asistidos por IA como Cursor, Claude Code y Codex parezca generado por inteligencia artificial. Esta herramienta tiene como objetivo hacer que las salidas estándar de IA que surgen en los procesos de desarrollo de software sean visualmente originales.",
+          "meta": "CSS · ★ 32.343 · +455 hoy",
+          "snapshot": {
+            "sourceId": "Nutlope/hallmark",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 32343,
+              "engagementCount": 455,
+              "rank": 4,
+              "extra": {
+                "starsToday": 455,
+                "baglam": "readme"
+              }
+            },
+            "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated."
+          }
+        },
+        {
+          "title": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "summary": "luongnv89/claude-howto ofrece una guía visual y centrada en ejemplos para Claude Code, que abarca desde conceptos básicos hasta estructuras de agentes avanzadas. Su objetivo es facilitar los procesos de codificación asistidos por IA con plantillas de copiar y pegar que los usuarios pueden aplicar directamente.",
+          "meta": "Python · ★ 44.665 · +392 hoy",
+          "snapshot": {
+            "sourceId": "luongnv89/claude-howto",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 44665,
+              "engagementCount": 392,
+              "rank": 5,
+              "extra": {
+                "starsToday": 392
+              }
+            },
+            "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "pbakaus/impeccable ofrece un lenguaje de diseño y un sistema de guía que los agentes de codificación de IA pueden utilizar al diseñar interfaces. Desarrollada en el lenguaje Rust, esta herramienta tiene como objetivo mejorar los diseños de interfaz (frontend) producidos por IA a través de 24 comandos y 62 reglas de detección deterministas (deterministic detector rules).",
+          "meta": "Rust · ★ 86.572 · +619 hoy",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 86572,
+              "engagementCount": 619,
+              "rank": 6,
+              "extra": {
+                "starsToday": 619,
+                "baglam": "readme"
+              }
+            },
+            "description": "The design language that makes your AI harness better at design. Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI-generated frontend design."
+          }
+        },
+        {
+          "title": "pollen-robotics/microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "summary": "microduck, desarrollado por Pollen Robotics, es un proyecto de robot pato bípedo de 25 centímetros que funciona con el procesador Rockchip RK3566. El software, escrito en el lenguaje Rust, gestiona quince servomotores a través de políticas neuronales (neural policies) para ejecutar los procesos de movimiento y control del robot.",
+          "meta": "Rust · ★ 11.089 · +319 hoy",
+          "snapshot": {
+            "sourceId": "pollen-robotics/microduck",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11089,
+              "engagementCount": 319,
+              "rank": 7,
+              "extra": {
+                "starsToday": 319,
+                "baglam": "readme"
+              }
+            },
+            "description": "A Tiny biped duck robot 🦆. This repo is the duck's brain. About 25 cm and 800 g of robot, run by a handful of daemons on a Rockchip RK3566: a 50 Hz control loop driving fifteen servos from neural policies, the radios and the camera, and the update machinery that gets new software onto a robot without bricking it."
+          }
+        },
+        {
+          "title": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "summary": "gemini-cli, desarrollado por Google, es una herramienta de código abierto (cuyo código fuente está abierto al acceso de todos) que proporciona acceso directo al modelo de inteligencia artificial Gemini a través de la terminal. El software permite a los usuarios crear prompts de IA de forma rápida y ligera en el entorno de línea de comandos.",
+          "meta": "TypeScript · ★ 108.165 · +44 hoy",
+          "snapshot": {
+            "sourceId": "google-gemini/gemini-cli",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 108165,
+              "engagementCount": 44,
+              "rank": 8,
+              "extra": {
+                "starsToday": 44,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open-source AI agent that brings the power of Gemini directly into your terminal. Gemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model."
+          }
+        },
+        {
+          "title": "jbiaojerry/ebook-treasure-chest",
+          "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+          "summary": "jbiaojerry/ebook-treasure-chest es un proyecto de biblioteca digital que reúne enlaces de descarga de libros electrónicos en varias categorías. El proyecto tiene como objetivo proporcionar acceso a contenidos dentro de aplicaciones de lectura populares (帆书, 微信读书, 京东读书, 喜马拉雅).",
+          "meta": "Python · ★ 22.774 · +227 hoy",
+          "snapshot": {
+            "sourceId": "jbiaojerry/ebook-treasure-chest",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 22774,
+              "engagementCount": 227,
+              "rank": 9,
+              "extra": {
+                "starsToday": 227
+              }
+            },
+            "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
+          }
+        },
+        {
+          "title": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "summary": "Cindy es un agente de inteligencia artificial de código abierto (cuyo código fuente está abierto al acceso y desarrollo de todos) diseñado para completar trabajos reales en sus proyectos y aplicaciones, funcionando desde el primer momento. Combina múltiples modelos y herramientas en una sola estructura, permitiendo a los usuarios gestionar sus flujos de trabajo.",
+          "meta": "TypeScript · ★ 4.198 · +477 hoy",
+          "snapshot": {
+            "sourceId": "makecindy/cindy",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4198,
+              "engagementCount": 477,
+              "rank": 10,
+              "extra": {
+                "starsToday": 477,
+                "baglam": "readme"
+              }
+            },
+            "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。. Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "url": "https://edjefferson.com/localwiki/",
+          "summary": "Local Wikipedia es un proyecto de enciclopedia que ofrece información sobre lugares a una distancia de media hora a pie de la ubicación del usuario. Sirve como una versión personalizada a escala local de la fuente de información en línea Wikipedia.",
+          "meta": "1.561 puntos · 245 comentarios",
+          "snapshot": {
+            "sourceId": "50202285",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 1561,
+              "engagementCount": 245,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50202285",
+                  "popularity": 1561,
+                  "engagementCount": 245
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-22T23:01:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50202285",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Wikipedia, but only for things a half hour walk from you."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50202285",
+              "popularity": 1561,
+              "engagementCount": 245
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com/",
+          "summary": "Steal My Bitcoin es una plataforma creada para probar cómo se puede explotar en el mundo real una vulnerabilidad de ejecución remota de código (RCE) en PHP descubierta recientemente. El desarrollador invita a los usuarios a acceder al sistema para observar los efectos concretos de esta vulnerabilidad de seguridad.",
+          "meta": "440 puntos · 264 comentarios",
+          "snapshot": {
+            "sourceId": "50224916",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 440,
+              "engagementCount": 264,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50224916",
+                  "popularity": 440,
+                  "engagementCount": 264
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-24T20:30:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50224916"
+              }
+            },
+            "description": "Made this because I&#x27;m curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun!"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50224916",
+              "popularity": 440,
+              "engagementCount": 264
+            }
+          ]
+        },
+        {
+          "title": "The Goose Programming Language",
+          "url": "https://aardappel.github.io/goose/",
+          "summary": "The Goose es un nuevo lenguaje de programación diseñado para lenguajes de programación de sistemas de bajo nivel. Con su estructura centrada en la seguridad de la memoria y el rendimiento, tiene como objetivo desarrollar software de sistemas.",
+          "meta": "304 puntos · 186 comentarios",
+          "snapshot": {
+            "sourceId": "50224100",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 304,
+              "engagementCount": 186,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50224100",
+                  "popularity": 304,
+                  "engagementCount": 186
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-24T19:06:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50224100"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50224100",
+              "popularity": 304,
+              "engagementCount": 186
+            }
+          ]
+        },
+        {
+          "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+          "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+          "summary": "La evolución de la vulnerabilidad Node2Shell a HTTP2Shell pone en riesgo a numerosas bibliotecas y aplicaciones HTTP que utilizan el algoritmo de compresión de datos Brotli. Para evitar verse afectado por esta vulnerabilidad, codificada como CVE-2026-111497, es necesario verificar las versiones utilizadas y realizar las actualizaciones correspondientes.",
+          "meta": "294 puntos · 140 comentarios",
+          "snapshot": {
+            "sourceId": "50219177",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 294,
+              "engagementCount": 140,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50219177",
+                  "popularity": 294,
+                  "engagementCount": 140
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-24T08:06:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50219177",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "The Brotli flaw behind Node2Shell (CVE-2026-111497) affects many libraries and applications using HTTP with Brotli or brotlicffi installed. Check your versions and upgrade to the fix."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50219177",
+              "popularity": 294,
+              "engagementCount": 140
+            }
+          ]
+        },
+        {
+          "title": "I don't understand quantum physics (2018)",
+          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+          "summary": "Este recurso, preparado por la Universidad de Southampton, aborda los conceptos fundamentales de la física cuántica y los puntos difíciles de entender en este campo. El estudio, que se centra en la complejidad de los fenómenos físicos, explica los principios de la mecánica cuántica (quantum physics) en un marco académico.",
+          "meta": "291 puntos · 235 comentarios",
+          "snapshot": {
+            "sourceId": "50219666",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 291,
+              "engagementCount": 235,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50219666",
+                  "popularity": 291,
+                  "engagementCount": 235
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-24T09:53:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50219666"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50219666",
+              "popularity": 291,
+              "engagementCount": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "DeepSeek-V4.1-Flash-1017 es una versión actualizada del modelo DeepSeek-V4.1-Flash, un modelo de inteligencia artificial capaz de procesar datos visuales y textuales. Su objetivo es proporcionar eficiencia de costos al reducir el tiempo de procesamiento y la longitud de salida, mientras mejora su rendimiento en tareas de razonamiento, codificación y tareas basadas en agentes.",
+          "meta": "♥ 2.821 · 73.215 descargas",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-25T04:49:30.564Z",
+            "metadata": {
+              "popularity": 2821,
+              "engagementCount": 73215,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1383,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "RecursiveSI/flint",
+          "url": "https://huggingface.co/RecursiveSI/flint",
+          "summary": "Flint, desarrollado por RecursiveSI, es un modelo de generación de texto con una estructura de mezcla de expertos (mixture-of-experts) diseñado para agentes de codificación. Con un total de 39.8 mil millones de parámetros, el modelo ha sido desarrollado para examinar bases de código, depurar errores, añadir funciones y escribir pruebas.",
+          "meta": "♥ 782 · 4.795 descargas",
+          "snapshot": {
+            "sourceId": "RecursiveSI/flint",
+            "capturedAt": "2026-10-25T04:49:30.564Z",
+            "metadata": {
+              "popularity": 782,
+              "engagementCount": 4795,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 756,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "flint",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs, implement features, and write tests."
+          }
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "flux-3-image-klein-comfy, desarrollado por Black Forest Labs, es un modelo de inteligencia artificial que permite la conversión de imagen a imagen (image-to-image). El modelo está diseñado para funcionar de manera compatible con herramientas de flujo de trabajo basadas en visualización como ComfyUI.",
+          "meta": "♥ 1.512 · 590.742 descargas",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-25T04:49:30.564Z",
+            "metadata": {
+              "popularity": 1512,
+              "engagementCount": 590742,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 544,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        },
+        {
+          "title": "XHToken/Spark-X2.6-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "summary": "Spark-X2.6-4B, publicado en la plataforma Hugging Face, es un modelo de inteligencia artificial centrado en la generación de texto (text-generation). Utilizando la misma arquitectura que su versión anterior, el modelo ofrece un aumento en el rendimiento en áreas como la codificación, el razonamiento y el procesamiento de contenido multilingüe gracias a las mejoras en el proceso posterior al entrenamiento.",
+          "meta": "♥ 457 · 2.537 descargas",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.6-4B",
+            "capturedAt": "2026-10-25T04:49:30.564Z",
+            "metadata": {
+              "popularity": 457,
+              "engagementCount": 2537,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 418,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "zh",
+                  "base_model:XHToken/Spark-X2.6-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.6-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improved post-training. It delivers substantial improvements in coding, agent, long-context, multilingual, reasoning, etc. These advances enable more capable and practical on-device AI for developers and users tackling real-world tasks."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, desarrollado por Lightricks, es un modelo de imagen a video (image-to-video) que convierte imágenes en videos en movimiento. Este modelo, compartido en la plataforma Hugging Face, permite animar contenidos visuales mediante inteligencia artificial.",
+          "meta": "♥ 9.200 · 2.087.721 descargas",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-10-25T04:49:30.564Z",
+            "metadata": {
+              "popularity": 9200,
+              "engagementCount": 2087721,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 415,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+          "url": "https://huggingface.co/papers/2610.30043",
+          "summary": "TARSphere es un marco de trabajo (full-stack) centrado en la robótica, desarrollado para agentes encarnados (embodied agents) a largo plazo que se mueven bajo restricciones físicas y sociales. El componente TARSphere-Infra ofrece la posibilidad de probar políticas robóticas en simuladores físicos con diálogos restringidos y personajes de inteligencia artificial encarnados (NPCs).",
+          "meta": "8 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2610.30043",
+            "capturedAt": "2026-10-25T04:49:30.569Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.30043",
+                "publishedAt": "2026-10-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/xuyicheng-zju/TARSphere",
+                "githubStars": 19
+              }
+            },
+            "description": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evaluation in an evolving world. We introduce TARSphere, a robot-oriented full-stack framework for physically and socially grounded long-horizon embodied agents. TARSphere-Infra runs robot policies in a physics simulator with embodied NPCs and constrained dialogue."
+          }
+        },
+        {
+          "title": "The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems",
+          "url": "https://huggingface.co/papers/2610.22722",
+          "summary": "LLM-Attacker, compartido por Hugging Face, es un marco desarrollado para evaluar las vulnerabilidades de privacidad en modelos de lenguaje grandes (LLM) fragmentados y distribuidos. Este sistema ayuda a los investigadores a comparar métodos de ataque y estandarizar los análisis de seguridad orientados a la reconstrucción de datos.",
+          "meta": "9 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2610.22722",
+            "capturedAt": "2026-10-25T04:49:30.569Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22722",
+                "publishedAt": "2026-10-15T00:00:00.000Z",
+                "githubRepo": "https://github.com/setloop-io/LLM-Attack-Suite",
+                "githubStars": 1
+              }
+            },
+            "description": "Split language models keep input text on a client but send intermediate representations to a server. Attacks can reconstruct text from these messages. Comparing privacy evaluations is difficult when attackers see different messages, know different model weights or use different datasets and recovery measures. We present LLM-Attacker, a framework that records these choices and lets researchers check, compare and extend an evaluation. Compatible attacks reuse recorded messages, and their predictio"
+          }
+        },
+        {
+          "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?",
+          "url": "https://huggingface.co/papers/2610.04184",
+          "summary": "EvalResearchBench es un punto de referencia (benchmark) de investigación que examina si los agentes de inteligencia artificial pueden generar automáticamente los comentarios de evaluación que necesitan en sus procesos de automejora recursiva (recursive self-improvement). Este estudio presenta un método que tiene como objetivo que los agentes diseñen sus propias evaluaciones para reducir el costo de los procesos de prueba complejos.",
+          "meta": "18 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2610.04184",
+            "capturedAt": "2026-10-25T04:49:30.569Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.04184",
+                "publishedAt": "2026-10-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/Mercury7353/self-evaluation-bench",
+                "githubStars": 3
+              }
+            },
+            "description": "Recursive self-improvement (RSI) relies on evaluation feedback to assess progress and guide further research, yet repeatedly running complex benchmarks is costly and slows iteration. Human experts reduce this cost by selecting benchmark subsets or designing compact suites. We ask whether AI agents can automate this design process and introduce EvalResearchBench (ERB), a benchmark for autonomous evaluation research. Given target materials, development references, candidate APIs, and fixed time an"
+          }
+        },
+        {
+          "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
+          "url": "https://huggingface.co/papers/2610.25835",
+          "summary": "Los modelos de lenguaje de difusión (diffusion language models) tienen la capacidad de generar múltiples tokens en un solo paso hacia adelante y decidir cuántos pasos realizar durante la generación. Los análisis realizados muestran que el costo de estos modelos varía según el tipo de tarea, funcionando más rápido en operaciones simples donde se copia el texto de entrada y más lento en tareas que requieren escritura libre.",
+          "meta": "9 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.25835",
+            "capturedAt": "2026-10-25T04:49:30.569Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.25835",
+                "publishedAt": "2026-10-19T05:47:58.000Z"
+              }
+            },
+            "description": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors of this cost variation, we analyze two diffusion models across 10 tasks. We find that the number of forward passes per token depends heavily on the task. Text copied or lightly edited from the input is cheap, while open-ended writing is costly. In DiffusionGem"
+          }
+        },
+        {
+          "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+          "url": "https://huggingface.co/papers/2610.31198",
+          "summary": "T 2Quant, desarrollado para modelos de lenguaje de difusión (DLM), optimiza este proceso al detectar que la precisión de la cuantización varía según la tarea y los pasos de tiempo. El método ofrece una estructura de precisión mixta al estimar los niveles de precisión necesarios para diferentes tareas sin requerir etiquetas o métricas.",
+          "meta": "19 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2610.31198",
+            "capturedAt": "2026-10-25T04:49:30.569Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31198",
+                "publishedAt": "2026-10-22T00:00:00.000Z",
+                "githubRepo": "https://github.com/OfekAvivi/T2Quant",
+                "githubStars": 3
+              }
+            },
+            "description": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent, with different downstream tasks exhibiting distinct precision requirements across denoising steps. We further show that these patterns can be predicted without groundtruth labels or task-specific evaluation metrics. Building on these findings, we introduce T 2Quant, a task and time-aware mixedprec"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "runtime",
+      "explanation": "El entorno fundamental necesario para que un software funcione y que opera en segundo plano."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Un protocolo de conexión que permite a los modelos de inteligencia artificial comunicarse de forma estándar con diferentes fuentes de datos y herramientas."
+    },
+    {
+      "term": "design skill",
+      "explanation": "Capacidad de edición visual que hace que los contenidos generados por inteligencia artificial parezcan más naturales y hechos por humanos."
+    },
+    {
+      "term": "deterministic detector rules",
+      "explanation": "Mecanismo de control que permite al software detectar errores o características específicas mediante un conjunto de reglas precisas e inmutables."
+    },
+    {
+      "term": "frontend",
+      "explanation": "La cara de un sitio web o aplicación que es vista e interactuada por el usuario."
+    },
+    {
+      "term": "neural policies",
+      "explanation": "Reglas de toma de decisiones determinadas por redes neuronales artificiales para controlar los movimientos del robot."
+    },
+    {
+      "term": "terminal",
+      "explanation": "Interfaz que permite dar instrucciones basadas en texto a la computadora a través de una línea de comandos."
+    },
+    {
+      "term": "remote code execution - RCE",
+      "explanation": "Una vulnerabilidad de seguridad grave que permite a un atacante controlar remotamente el software en otra computadora y ejecutar su propio código."
+    },
+    {
+      "term": "quantum physics",
+      "explanation": "Rama de la física que estudia el comportamiento y los niveles de energía de las partículas subatómicas."
+    },
+    {
+      "term": "mixture-of-experts",
+      "explanation": "Una arquitectura de inteligencia artificial en la que se utilizan conjuntamente pequeños submodelos, cada uno especializado en diferentes temas, para resolver tareas complejas."
+    },
+    {
+      "term": "image-to-image",
+      "explanation": "Un proceso de inteligencia artificial que transforma una imagen basándose en ella hacia un estilo o contenido diferente."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "La capacidad de generar textos significativos y coherentes según las instrucciones proporcionadas."
+    },
+    {
+      "term": "image-to-video",
+      "explanation": "Tecnología de inteligencia artificial que convierte una imagen estática en un videoclip animado."
+    },
+    {
+      "term": "embodied agents",
+      "explanation": "Sistemas de inteligencia artificial robótica capaces de moverse en el mundo físico, percibir su entorno y reaccionar en consecuencia."
+    },
+    {
+      "term": "full-stack",
+      "explanation": "La estructura integral que abarca tanto la interfaz visible de un software como todos los procesos de infraestructura en segundo plano."
+    },
+    {
+      "term": "NPCs",
+      "explanation": "Personajes en juegos o simulaciones que no son controlados por el jugador y que actúan mediante inteligencia artificial."
+    }
+  ]
+}

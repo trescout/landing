@@ -1,0 +1,403 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-25",
+  "capturedAt": "2026-10-25T04:49:30.425Z",
+  "editorial": "Rapora dahil edilen içerikler 30 gün boyunca tekrarlanmaz. Bu sürenin sonunda gündemde kalmaya devam eden kayıtlar, \"yeniden gündemde\" etiketiyle tekrar listelenir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "Amazon Web Services tarafından sunulan aws/agent-toolkit-for-aws, yapay zekâ ajanlarının AWS üzerinde uygulama geliştirmesini, dağıtmasını ve yönetmesini sağlayan resmi araçlar, eklentiler ve Model Context Protocol (MCP) sunucuları içeriyor. Bu Python tabanlı araç seti, yazılım geliştirme süreçlerinde yapay zekâ ajanlarının AWS altyapısıyla daha uyumlu çalışmasına imkân tanıyor.",
+          "meta": "Python · ★ 3.178 · +13 bugün",
+          "snapshot": {
+            "sourceId": "aws/agent-toolkit-for-aws",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3178,
+              "engagementCount": 13,
+              "rank": 3,
+              "extra": {
+                "starsToday": 13,
+                "baglam": "readme"
+              }
+            },
+            "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS. Help AI coding agents build, deploy, and manage applications on AWS."
+          },
+          "returning": true
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Nutlope/hallmark, yapay zekâ destekli kod editörleri Cursor, Claude Code ve Codex üzerinde oluşturulan içeriklerin yapay zekâ tarafından üretilmiş gibi görünmesini engelleyen bir tasarım becerisi (design skill) sunuyor. Bu araç, yazılım geliştirme süreçlerinde ortaya çıkan standart yapay zekâ çıktılarını görsel olarak özgünleştirmeyi amaçlıyor.",
+          "meta": "CSS · ★ 32.343 · +455 bugün",
+          "snapshot": {
+            "sourceId": "Nutlope/hallmark",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 32343,
+              "engagementCount": 455,
+              "rank": 4,
+              "extra": {
+                "starsToday": 455,
+                "baglam": "readme"
+              }
+            },
+            "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated."
+          },
+          "returning": true
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "pbakaus/impeccable, yapay zekâ kodlama ajanlarının arayüz tasarımı yaparken kullanabileceği bir tasarım dili ve rehberlik sistemi sunuyor. Rust diliyle geliştirilen bu araç, 24 komut ve 62 belirleyici kural (deterministic detector rules) aracılığıyla yapay zekâ tarafından üretilen ön yüz (frontend) tasarımlarını iyileştirmeyi hedefliyor.",
+          "meta": "Rust · ★ 86.572 · +619 bugün",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 86572,
+              "engagementCount": 619,
+              "rank": 6,
+              "extra": {
+                "starsToday": 619,
+                "baglam": "readme"
+              }
+            },
+            "description": "The design language that makes your AI harness better at design. Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI-generated frontend design."
+          },
+          "returning": true
+        },
+        {
+          "title": "pollen-robotics/microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "summary": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek robot projesidir. Rust diliyle yazılan yazılım, yapay zekâ politikaları (neural policies) üzerinden on beş servoyu yöneterek robotun hareket ve kontrol süreçlerini yürütür.",
+          "meta": "Rust · ★ 11.089 · +319 bugün",
+          "snapshot": {
+            "sourceId": "pollen-robotics/microduck",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11089,
+              "engagementCount": 319,
+              "rank": 7,
+              "extra": {
+                "starsToday": 319,
+                "baglam": "readme"
+              }
+            },
+            "description": "A Tiny biped duck robot 🦆. This repo is the duck's brain. About 25 cm and 800 g of robot, run by a handful of daemons on a Rockchip RK3566: a 50 Hz control loop driving fifteen servos from neural policies, the radios and the camera, and the update machinery that gets new software onto a robot without bricking it."
+          }
+        },
+        {
+          "title": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "summary": "Google tarafından geliştirilen gemini-cli, Gemini yapay zekâ modeline doğrudan uçbirim (terminal) üzerinden erişim sağlayan açık kaynaklı (kaynak kodları herkesin erişimine açık) bir araçtır. Yazılım, kullanıcıların komut satırı ortamında hızlı ve hafif bir şekilde yapay zekâ istemleri oluşturmasına olanak tanır.",
+          "meta": "TypeScript · ★ 108.165 · +44 bugün",
+          "snapshot": {
+            "sourceId": "google-gemini/gemini-cli",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 108165,
+              "engagementCount": 44,
+              "rank": 8,
+              "extra": {
+                "starsToday": 44,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open-source AI agent that brings the power of Gemini directly into your terminal. Gemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model."
+          }
+        },
+        {
+          "title": "jbiaojerry/ebook-treasure-chest",
+          "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+          "summary": "jbiaojerry/ebook-treasure-chest, çeşitli kategorilerdeki e-kitap indirme bağlantılarını bir araya getiren bir dijital kütüphane projesidir. Proje, popüler okuma uygulamaları (帆书, 微信读书, 京东读书, 喜马拉雅) bünyesindeki içeriklere erişim sağlamayı amaçlar.",
+          "meta": "Python · ★ 22.774 · +227 bugün",
+          "snapshot": {
+            "sourceId": "jbiaojerry/ebook-treasure-chest",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 22774,
+              "engagementCount": 227,
+              "rank": 9,
+              "extra": {
+                "starsToday": 227
+              }
+            },
+            "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
+          }
+        },
+        {
+          "title": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "summary": "Cindy, projelerinizde ve uygulamalarınızda gerçek işleri tamamlamak üzere tasarlanmış, kutudan çıktığı gibi çalışabilen açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir yapay zekâ ajanıdır. Birden fazla model ve aracı tek bir yapıda birleştirerek kullanıcıların iş akışlarını yönetmelerine olanak tanır.",
+          "meta": "TypeScript · ★ 4.198 · +477 bugün",
+          "snapshot": {
+            "sourceId": "makecindy/cindy",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4198,
+              "engagementCount": 477,
+              "rank": 10,
+              "extra": {
+                "starsToday": 477,
+                "baglam": "readme"
+              }
+            },
+            "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。. Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com/",
+          "summary": "Steal My Bitcoin, yakın zamanda keşfedilen bir PHP uzaktan kod yürütme (remote code execution - RCE) açığının gerçek dünyada nasıl kullanılabileceğini test etmek amacıyla oluşturulmuş bir platformdur. Geliştirici, bu güvenlik zafiyetinin somut etkilerini gözlemlemek için kullanıcıları sisteme erişmeye davet ediyor.",
+          "meta": "440 oy · 264 yorum",
+          "snapshot": {
+            "sourceId": "50224916",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 440,
+              "engagementCount": 264,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50224916",
+                  "popularity": 440,
+                  "engagementCount": 264
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-24T20:30:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50224916"
+              }
+            },
+            "description": "Made this because I&#x27;m curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun!"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50224916",
+              "popularity": 440,
+              "engagementCount": 264
+            }
+          ]
+        },
+        {
+          "title": "The Goose Programming Language",
+          "url": "https://aardappel.github.io/goose/",
+          "summary": "The Goose, düşük seviyeli sistem programlama dilleri için tasarlanmış yeni bir programlama dili. Bellek güvenliği ve performans odaklı yapısıyla sistem yazılımları geliştirmeyi hedefliyor.",
+          "meta": "304 oy · 186 yorum",
+          "snapshot": {
+            "sourceId": "50224100",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 304,
+              "engagementCount": 186,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50224100",
+                  "popularity": 304,
+                  "engagementCount": 186
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-24T19:06:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50224100"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50224100",
+              "popularity": 304,
+              "engagementCount": 186
+            }
+          ]
+        },
+        {
+          "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+          "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+          "summary": "Node2Shell güvenlik açığının HTTP2Shell olarak evrilmesi, Brotli veri sıkıştırma algoritmasını kullanan çok sayıda HTTP kütüphanesini ve uygulamayı risk altına sokuyor. CVE-2026-111497 kodlu bu zafiyetten etkilenmemek için kullanılan sürümlerin kontrol edilmesi ve güncellemelerin yapılması gerekiyor.",
+          "meta": "294 oy · 140 yorum",
+          "snapshot": {
+            "sourceId": "50219177",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 294,
+              "engagementCount": 140,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50219177",
+                  "popularity": 294,
+                  "engagementCount": 140
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-24T08:06:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50219177",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "The Brotli flaw behind Node2Shell (CVE-2026-111497) affects many libraries and applications using HTTP with Brotli or brotlicffi installed. Check your versions and upgrade to the fix."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50219177",
+              "popularity": 294,
+              "engagementCount": 140
+            }
+          ]
+        },
+        {
+          "title": "I don't understand quantum physics (2018)",
+          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+          "summary": "Southampton Üniversitesi tarafından hazırlanan bu kaynak, kuantum fiziğinin temel kavramlarını ve bu alandaki anlaşılması güç noktaları ele alıyor. Fiziksel fenomenlerin karmaşıklığına odaklanan çalışma, kuantum mekaniği (quantum physics) prensiplerini akademik bir çerçevede açıklıyor.",
+          "meta": "291 oy · 235 yorum",
+          "snapshot": {
+            "sourceId": "50219666",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 291,
+              "engagementCount": 235,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50219666",
+                  "popularity": 291,
+                  "engagementCount": 235
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-24T09:53:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50219666"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50219666",
+              "popularity": 291,
+              "engagementCount": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "XHToken/Spark-X2.6-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "summary": "Hugging Face platformunda yayımlanan Spark-X2.6-4B, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Önceki sürümüyle aynı mimariyi kullanan model, eğitim sonrası süreçteki iyileştirmeler sayesinde kodlama, akıl yürütme ve çok dilli içerik işleme gibi alanlarda performans artışı sunuyor.",
+          "meta": "♥ 457 · 2.537 indirme",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.6-4B",
+            "capturedAt": "2026-10-25T04:49:30.564Z",
+            "metadata": {
+              "popularity": 457,
+              "engagementCount": 2537,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 418,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "zh",
+                  "base_model:XHToken/Spark-X2.6-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.6-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improved post-training. It delivers substantial improvements in coding, agent, long-context, multilingual, reasoning, etc. These advances enable more capable and practical on-device AI for developers and users tackling real-world tasks."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynakları ve araçlarla standart bir şekilde iletişim kurmasını sağlayan bir bağlantı protokolü."
+    },
+    {
+      "term": "design skill",
+      "explanation": "Yapay zekâ tarafından oluşturulan içeriklerin daha doğal ve insan yapımı gibi görünmesini sağlayan görsel düzenleme yeteneği."
+    },
+    {
+      "term": "deterministic detector rules",
+      "explanation": "Yazılımın hataları veya belirli özellikleri kesin ve değişmez kurallar dizisiyle tespit etmesini sağlayan denetim mekanizması."
+    },
+    {
+      "term": "frontend",
+      "explanation": "Bir web sitesinin veya uygulamanın kullanıcı tarafından görülen ve etkileşime girilen yüzü."
+    },
+    {
+      "term": "neural policies",
+      "explanation": "Robotun hareketlerini kontrol etmek için yapay sinir ağları tarafından belirlenen karar verme kuralları."
+    },
+    {
+      "term": "terminal",
+      "explanation": "Bilgisayara komut satırı üzerinden metin tabanlı talimatlar vermeyi sağlayan arayüz."
+    },
+    {
+      "term": "remote code execution - RCE",
+      "explanation": "Bir saldırganın başka bir bilgisayardaki yazılımı uzaktan kontrol ederek kendi kodunu çalıştırmasına izin veren ciddi bir güvenlik açığı."
+    },
+    {
+      "term": "quantum physics",
+      "explanation": "Atom altı parçacıkların davranışlarını ve enerji seviyelerini inceleyen fizik dalı."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Verilen komutlara göre anlamlı ve tutarlı metinler oluşturma yeteneği."
+    }
+  ]
+}

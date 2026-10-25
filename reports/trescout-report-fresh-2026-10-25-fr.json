@@ -1,0 +1,403 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-25",
+  "capturedAt": "2026-10-25T04:49:30.425Z",
+  "editorial": "Les contenus inclus dans le rapport ne sont pas répétés pendant 30 jours. À la fin de cette période, les enregistrements qui restent d'actualité sont à nouveau listés avec l'étiquette \"de retour à l'ordre du jour\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "summary": "Proposé par Amazon Web Services, aws/agent-toolkit-for-aws contient des outils officiels, des plugins et des serveurs Model Context Protocol (MCP) qui permettent aux agents d'IA de développer, déployer et gérer des applications sur AWS. Cette boîte à outils basée sur Python permet aux agents d'IA de travailler de manière plus compatible avec l'infrastructure AWS dans les processus de développement logiciel.",
+          "meta": "Python · ★ 3 178 · +13 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "aws/agent-toolkit-for-aws",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3178,
+              "engagementCount": 13,
+              "rank": 3,
+              "extra": {
+                "starsToday": 13,
+                "baglam": "readme"
+              }
+            },
+            "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS. Help AI coding agents build, deploy, and manage applications on AWS."
+          }
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Nutlope/hallmark propose une compétence de conception (design skill) qui empêche le contenu créé sur les éditeurs de code assistés par IA comme Cursor, Claude Code et Codex de paraître généré par une IA. Cet outil vise à rendre visuellement uniques les sorties d'IA standard qui apparaissent dans les processus de développement logiciel.",
+          "meta": "CSS · ★ 32 343 · +455 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Nutlope/hallmark",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 32343,
+              "engagementCount": 455,
+              "rank": 4,
+              "extra": {
+                "starsToday": 455,
+                "baglam": "readme"
+              }
+            },
+            "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated."
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "pbakaus/impeccable propose un langage de conception et un système de guidage que les agents de codage IA peuvent utiliser lors de la conception d'interfaces. Développé en langage Rust, cet outil vise à améliorer les conceptions d'interface (frontend) générées par l'IA grâce à 24 commandes et 62 règles de détection déterministes.",
+          "meta": "Rust · ★ 86 572 · +619 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 86572,
+              "engagementCount": 619,
+              "rank": 6,
+              "extra": {
+                "starsToday": 619,
+                "baglam": "readme"
+              }
+            },
+            "description": "The design language that makes your AI harness better at design. Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI-generated frontend design."
+          }
+        },
+        {
+          "title": "pollen-robotics/microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "summary": "Développé par Pollen Robotics, microduck est un projet de robot canard bipède de 25 centimètres fonctionnant avec un processeur Rockchip RK3566. Le logiciel, écrit en Rust, gère quinze servomoteurs via des politiques neuronales (neural policies) pour exécuter les processus de mouvement et de contrôle du robot.",
+          "meta": "Rust · ★ 11 089 · +319 aujourd'hui",
+          "snapshot": {
+            "sourceId": "pollen-robotics/microduck",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11089,
+              "engagementCount": 319,
+              "rank": 7,
+              "extra": {
+                "starsToday": 319,
+                "baglam": "readme"
+              }
+            },
+            "description": "A Tiny biped duck robot 🦆. This repo is the duck's brain. About 25 cm and 800 g of robot, run by a handful of daemons on a Rockchip RK3566: a 50 Hz control loop driving fifteen servos from neural policies, the radios and the camera, and the update machinery that gets new software onto a robot without bricking it."
+          }
+        },
+        {
+          "title": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "summary": "Développé par Google, gemini-cli est un outil open source (dont le code source est accessible à tous) qui permet d'accéder directement au modèle d'IA Gemini via le terminal. Le logiciel permet aux utilisateurs de créer des invites d'IA rapidement et légèrement dans l'environnement de ligne de commande.",
+          "meta": "TypeScript · ★ 108 165 · +44 aujourd'hui",
+          "snapshot": {
+            "sourceId": "google-gemini/gemini-cli",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 108165,
+              "engagementCount": 44,
+              "rank": 8,
+              "extra": {
+                "starsToday": 44,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open-source AI agent that brings the power of Gemini directly into your terminal. Gemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model."
+          }
+        },
+        {
+          "title": "jbiaojerry/ebook-treasure-chest",
+          "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+          "summary": "jbiaojerry/ebook-treasure-chest est un projet de bibliothèque numérique qui rassemble des liens de téléchargement d'e-books dans diverses catégories. Le projet vise à fournir un accès au contenu au sein d'applications de lecture populaires (帆书, 微信读书, 京东读书, 喜马拉雅).",
+          "meta": "Python · ★ 22 774 · +227 aujourd'hui",
+          "snapshot": {
+            "sourceId": "jbiaojerry/ebook-treasure-chest",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 22774,
+              "engagementCount": 227,
+              "rank": 9,
+              "extra": {
+                "starsToday": 227
+              }
+            },
+            "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
+          }
+        },
+        {
+          "title": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "summary": "Cindy est un agent d'IA open source (dont le code source est ouvert à l'accès et au développement) conçu pour accomplir de vraies tâches dans vos projets et applications, prêt à l'emploi. Il permet aux utilisateurs de gérer leurs flux de travail en combinant plusieurs modèles et outils dans une structure unique.",
+          "meta": "TypeScript · ★ 4 198 · +477 aujourd'hui",
+          "snapshot": {
+            "sourceId": "makecindy/cindy",
+            "capturedAt": "2026-10-25T04:49:31.581Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4198,
+              "engagementCount": 477,
+              "rank": 10,
+              "extra": {
+                "starsToday": 477,
+                "baglam": "readme"
+              }
+            },
+            "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。. Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com/",
+          "summary": "Steal My Bitcoin est une plateforme créée pour tester comment une vulnérabilité d'exécution de code à distance (RCE) récemment découverte dans PHP peut être exploitée dans le monde réel. Le développeur invite les utilisateurs à accéder au système pour observer les effets concrets de cette faille de sécurité.",
+          "meta": "440 votes · 264 commentaires",
+          "snapshot": {
+            "sourceId": "50224916",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 440,
+              "engagementCount": 264,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50224916",
+                  "popularity": 440,
+                  "engagementCount": 264
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-24T20:30:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50224916"
+              }
+            },
+            "description": "Made this because I&#x27;m curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun!"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50224916",
+              "popularity": 440,
+              "engagementCount": 264
+            }
+          ]
+        },
+        {
+          "title": "The Goose Programming Language",
+          "url": "https://aardappel.github.io/goose/",
+          "summary": "The Goose est un nouveau langage de programmation conçu pour les langages de programmation système de bas niveau. Avec sa structure axée sur la sécurité de la mémoire et la performance, il vise à développer des logiciels système.",
+          "meta": "304 votes · 186 commentaires",
+          "snapshot": {
+            "sourceId": "50224100",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 304,
+              "engagementCount": 186,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50224100",
+                  "popularity": 304,
+                  "engagementCount": 186
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-24T19:06:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50224100"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50224100",
+              "popularity": 304,
+              "engagementCount": 186
+            }
+          ]
+        },
+        {
+          "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+          "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+          "summary": "L'évolution de la vulnérabilité Node2Shell en HTTP2Shell met en danger de nombreuses bibliothèques et applications HTTP utilisant l'algorithme de compression de données Brotli. Pour ne pas être affecté par cette faille, référencée sous le code CVE-2026-111497, il est nécessaire de vérifier les versions utilisées et d'effectuer les mises à jour.",
+          "meta": "294 votes · 140 commentaires",
+          "snapshot": {
+            "sourceId": "50219177",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 294,
+              "engagementCount": 140,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50219177",
+                  "popularity": 294,
+                  "engagementCount": 140
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-24T08:06:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50219177",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "The Brotli flaw behind Node2Shell (CVE-2026-111497) affects many libraries and applications using HTTP with Brotli or brotlicffi installed. Check your versions and upgrade to the fix."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50219177",
+              "popularity": 294,
+              "engagementCount": 140
+            }
+          ]
+        },
+        {
+          "title": "I don't understand quantum physics (2018)",
+          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+          "summary": "Cette ressource, préparée par l'Université de Southampton, aborde les concepts fondamentaux de la physique quantique et les points complexes de ce domaine. Se concentrant sur la complexité des phénomènes physiques, l'étude explique les principes de la mécanique quantique (quantum physics) dans un cadre académique.",
+          "meta": "291 votes · 235 commentaires",
+          "snapshot": {
+            "sourceId": "50219666",
+            "capturedAt": "2026-10-25T04:49:30.668Z",
+            "metadata": {
+              "popularity": 291,
+              "engagementCount": 235,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50219666",
+                  "popularity": 291,
+                  "engagementCount": 235
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-24T09:53:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50219666"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50219666",
+              "popularity": 291,
+              "engagementCount": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "XHToken/Spark-X2.6-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "summary": "Publié sur la plateforme Hugging Face, Spark-X2.6-4B est un modèle d'intelligence artificielle axé sur la génération de texte (text-generation). Utilisant la même architecture que sa version précédente, le modèle offre une augmentation des performances dans des domaines tels que le codage, le raisonnement et le traitement de contenu multilingue grâce aux améliorations apportées au processus post-entraînement.",
+          "meta": "♥ 457 · 2 537 téléchargements",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.6-4B",
+            "capturedAt": "2026-10-25T04:49:30.564Z",
+            "metadata": {
+              "popularity": 457,
+              "engagementCount": 2537,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 418,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "zh",
+                  "base_model:XHToken/Spark-X2.6-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.6-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improved post-training. It delivers substantial improvements in coding, agent, long-context, multilingual, reasoning, etc. These advances enable more capable and practical on-device AI for developers and users tackling real-world tasks."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "MCP",
+      "explanation": "Un protocole de connexion permettant aux modèles d'intelligence artificielle de communiquer de manière standardisée avec différentes sources de données et outils."
+    },
+    {
+      "term": "design skill",
+      "explanation": "Une capacité d'édition visuelle qui rend les contenus générés par l'intelligence artificielle plus naturels et semblables à des créations humaines."
+    },
+    {
+      "term": "deterministic detector rules",
+      "explanation": "Un mécanisme de contrôle permettant au logiciel de détecter des erreurs ou des caractéristiques spécifiques grâce à un ensemble de règles précises et immuables."
+    },
+    {
+      "term": "frontend",
+      "explanation": "La partie d'un site web ou d'une application visible par l'utilisateur et avec laquelle il interagit."
+    },
+    {
+      "term": "neural policies",
+      "explanation": "Les règles de prise de décision déterminées par des réseaux de neurones artificiels pour contrôler les mouvements d'un robot."
+    },
+    {
+      "term": "terminal",
+      "explanation": "Une interface permettant de donner des instructions textuelles à un ordinateur via une ligne de commande."
+    },
+    {
+      "term": "remote code execution - RCE",
+      "explanation": "Une vulnérabilité de sécurité critique permettant à un attaquant de contrôler à distance un logiciel sur un autre ordinateur et d'exécuter son propre code."
+    },
+    {
+      "term": "quantum physics",
+      "explanation": "La branche de la physique qui étudie le comportement et les niveaux d'énergie des particules subatomiques."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "La capacité de générer des textes significatifs et cohérents selon les instructions données."
+    }
+  ]
+}
