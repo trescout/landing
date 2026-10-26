@@ -2,15 +2,15 @@
 
 Desarrollado por Google, Ax es un entorno de ejecución de orquestación de código abierto para agentes de inteligencia artificial. Escrita en Go, esta infraestructura facilita la gestión y ejecución de flujos de trabajo agénticos complejos.
 
-- ★ 13.086
+- ★ 14.093
 - GitHub Trending · 2026-09-23
 
 ## Actualizaciones
 
+- **26 de octubre de 2026:** Estrellas 13,086 → 14,093, última versión v0.3.1 (25 de septiembre de 2026).
 - **5 de octubre de 2026:** Estrellas 12,083 → 13,086, última versión v0.3.1 (25 de septiembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 11,703 → 12,083, última versión v0.3.1 (25 de septiembre de 2026).
 - **25 de septiembre de 2026:** Estrellas 9,553 → 10,941.
-- **24 de septiembre de 2026:** Estrellas 8,141 → 9,553.
 
 ## Qué aporta
 

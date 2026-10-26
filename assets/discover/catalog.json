@@ -4225,14 +4225,14 @@
     "slug": "pi-subagents",
     "title": "Pi Subagents",
     "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
-    "meta": "★ 4.026 · Lisans: yok",
+    "meta": "★ 4.061 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4026,
+    "stars": 4061,
     "image": "/assets/discover/og/pi-subagents.webp",
     "headline": "Yapay zekâ ile asenkron görev yönetimi",
     "last_review": "2026-10-26",
@@ -4530,6 +4530,13 @@
         "onceki_yildiz": 4020,
         "surum": "v0.82.1",
         "surum_tarihi": "2026-10-25"
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 4061,
+        "onceki_yildiz": 4026,
+        "surum": "v0.83.0",
+        "surum_tarihi": "2026-10-26"
       }
     ],
     "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform.",
@@ -15571,7 +15578,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 72.317 · TypeScript",
+    "meta": "★ 72.474 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -15579,7 +15586,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 72317,
+    "stars": 72474,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-26",
@@ -16150,6 +16157,13 @@
         "onceki_yildiz": 71653,
         "surum": "v0.8.200",
         "surum_tarihi": "2026-10-25"
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 72474,
+        "onceki_yildiz": 72317,
+        "surum": "v0.8.201",
+        "surum_tarihi": "2026-10-26"
       }
     ],
     "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.",
@@ -23777,14 +23791,14 @@
     "slug": "grpc",
     "title": "Grpc",
     "tagline": "gRPC, farklı programlama dilleri arasında yüksek performanslı iletişim sağlayan açık kaynaklı bir uzaktan yordam çağrısı…",
-    "meta": "★ 45.392 · C++",
+    "meta": "★ 45.401 · C++",
     "image": "/assets/discover/og/grpc.webp",
     "source": "GitHub",
     "date": "2026-07-11",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 45392,
+    "stars": 45401,
     "lite": false,
     "headline": "Farklı diller arası hızlı iletişim",
     "last_review": "2026-10-26",
@@ -23816,6 +23830,13 @@
         "onceki_yildiz": 45303,
         "surum": "v1.84.1",
         "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 45401,
+        "onceki_yildiz": 45392,
+        "surum": "v1.85.0",
+        "surum_tarihi": "2026-10-26"
       }
     ],
     "tagline_en": "gRPC is an open source remote procedure call that provides high-performance communication between different programming languages.",
@@ -27651,7 +27672,7 @@
     "slug": "fastmcp",
     "title": "Fastmcp",
     "tagline": "FastMCP, Model Bağlam Protokolü (Model Context Protocol - MCP) sunucuları ve istemcileri geliştirmeyi kolaylaştıran Python…",
-    "meta": "★ 28.157 · Python",
+    "meta": "★ 28.202 · Python",
     "image": "/assets/discover/og/fastmcp.webp",
     "source": "GitHub",
     "date": "2026-07-21",
@@ -27659,7 +27680,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28157,
+    "stars": 28202,
     "lite": false,
     "headline": "Yapay zekâ için hızlı araç entegrasyonu",
     "last_review": "2026-10-26",
@@ -27761,6 +27782,13 @@
         "onceki_yildiz": 28119,
         "surum": "v4.1.3",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 28202,
+        "onceki_yildiz": 28157,
+        "surum": "v4.1.4",
+        "surum_tarihi": "2026-10-26"
       }
     ],
     "tagline_en": "FastMCP is a Python software that makes it easier to develop Model Context Protocol (MCP) servers and clients.",
@@ -31688,14 +31716,14 @@
     "slug": "tuicr",
     "title": "Tuicr",
     "tagline": "Rust diliyle geliştirilen tuicr, Vim klavye kısayollarını destekleyen bir uçbirim kullanıcı arayüzü (terminal user interface)…",
-    "meta": "★ 3.221 · Rust",
+    "meta": "★ 3.463 · Rust",
     "image": "/assets/discover/og/tuicr.webp",
     "source": "GitHub",
     "date": "2026-07-31",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3221,
+    "stars": 3463,
     "lite": false,
     "headline": "Terminalde Vim ile kod inceleme",
     "last_review": "2026-10-26",
@@ -31762,6 +31790,13 @@
         "onceki_yildiz": 3132,
         "surum": "v0.27.0",
         "surum_tarihi": "2026-09-23"
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 3463,
+        "onceki_yildiz": 3221,
+        "surum": "v0.28.0",
+        "surum_tarihi": "2026-10-26"
       }
     ],
     "tagline_en": "Developed in Rust, tuicr is a terminal user interface that supports Vim keyboard shortcuts.",
@@ -37857,7 +37892,7 @@
     "slug": "tooljet",
     "title": "ToolJet",
     "tagline": "ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geliştirmeye yarayan açık kaynaklı bir uygulama…",
-    "meta": "★ 41.120 · JavaScript",
+    "meta": "★ 41.127 · JavaScript",
     "image": "/assets/discover/og/tooljet.webp",
     "source": "GitHub",
     "date": "2026-08-15",
@@ -37865,7 +37900,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41120,
+    "stars": 41127,
     "lite": false,
     "headline": "Kod yazmadan kurumsal uygulamalar geliştirin",
     "tagline_en": "ToolJet is an open source application for developing in-house tools, dashboards and artificial intelligence agents.",
@@ -38084,6 +38119,13 @@
         "onceki_yildiz": 41113,
         "surum": "v3.20.249-lts",
         "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 41127,
+        "onceki_yildiz": 41120,
+        "surum": "v3.20.250-lts",
+        "surum_tarihi": "2026-10-26"
       }
     ],
     "last_seen": "2026-08-17"
@@ -40896,7 +40938,7 @@
     "slug": "n8n",
     "title": "N8n",
     "tagline": "n8n, görsel canvas, özel kod ve yapay zekâ ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
-    "meta": "★ 208.293",
+    "meta": "★ 208.615",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -40904,7 +40946,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 208293,
+    "stars": 208615,
     "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
     "headline": "Görsel iş akışları ve yapay zekâ otomasyonu",
     "lite": false,
@@ -41316,6 +41358,13 @@
         "onceki_yildiz": 208197,
         "surum": "n8n@2.44.6",
         "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 208615,
+        "onceki_yildiz": 208293,
+        "surum": "n8n@2.44.7",
+        "surum_tarihi": "2026-10-26"
       }
     ],
     "last_review": "2026-10-26",
@@ -48131,7 +48180,7 @@
     "slug": "security-audit-skill",
     "title": "Security Audit Skill",
     "tagline": "Cloudflare tarafından geliştirilen security-audit-skill, kodlama ajanlarının çok aşamalı güvenlik denetimleri yapmasını…",
-    "meta": "★ 45.001 · JavaScript",
+    "meta": "★ 47.514 · JavaScript",
     "image": "/assets/discover/og/security-audit-skill.webp",
     "source": "GitHub",
     "date": "2026-09-18",
@@ -48139,7 +48188,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 45001,
+    "stars": 47514,
     "summary": "Cloudflare tarafından geliştirilen security-audit-skill, kodlama ajanlarının çok aşamalı güvenlik denetimleri yapmasını sağlayan bir yetenek paketi (skill). Makine tarafından okunabilir ve bağımsız olarak doğrulanmış bulgular üreterek yazılım geliştirme süreçlerinde güvenlik standartlarını otomatize ediyor.",
     "lite": false,
     "headline": "Yapay zekâ ile otomatik güvenlik denetimi",
@@ -48220,6 +48269,11 @@
         "tarih": "2026-10-25",
         "yildiz": 45001,
         "onceki_yildiz": 42663
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 47514,
+        "onceki_yildiz": 45001
       }
     ]
   },
@@ -49355,7 +49409,7 @@
     "slug": "ax",
     "title": "AX",
     "tagline": "Google tarafından geliştirilen Ax, yapay zekâ ajanları için açık kaynaklı bir orkestrasyon çalışma zamanı (runtime).",
-    "meta": "★ 13.086",
+    "meta": "★ 14.093",
     "image": "/assets/discover/og/ax.webp",
     "source": "GitHub",
     "date": "2026-09-23",
@@ -49363,7 +49417,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13086,
+    "stars": 14093,
     "summary": "Google tarafından geliştirilen Ax, yapay zekâ ajanları için açık kaynaklı bir orkestrasyon çalışma zamanı (runtime). Go diliyle yazılan bu altyapı, karmaşık agentik iş akışlarının yönetilmesini ve yürütülmesini kolaylaştırıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için orkestrasyon aracı",
@@ -49389,6 +49443,13 @@
         "tarih": "2026-10-05",
         "yildiz": 13086,
         "onceki_yildiz": 12083,
+        "surum": "v0.3.1",
+        "surum_tarihi": "2026-09-25"
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 14093,
+        "onceki_yildiz": 13086,
         "surum": "v0.3.1",
         "surum_tarihi": "2026-09-25"
       }
@@ -53534,14 +53595,14 @@
     "slug": "ziwei-doushu",
     "title": "Ziwei Doushu",
     "tagline": "Renhuai123/ziwei-doushu, Ni Haixia'nın Tianji sistemini temel alan ve Ziwei Doushu astrolojik haritalarını hesaplayan açık…",
-    "meta": "★ 6.993 · TypeScript",
+    "meta": "★ 8.056 · TypeScript",
     "image": "/assets/discover/og/ziwei-doushu.webp",
     "source": "GitHub",
     "date": "2026-10-24",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 6993,
+    "stars": 8056,
     "last_seen": "2026-10-26",
     "summary": "Renhuai123/ziwei-doushu, Ni Haixia'nın Tianji sistemini temel alan ve Ziwei Doushu astrolojik haritalarını hesaplayan açık kaynaklı bir TypeScript motorudur. Proje, 1950 ile 2026 yılları arasındaki tarihleri kapsayan 13 boyutlu geniş bir astrolojik yorum veri kümesini (v4.0) kullanıma sunuyor.",
     "lite": false,
@@ -53552,6 +53613,13 @@
         "tarih": "2026-10-24",
         "yildiz": 6993,
         "onceki_yildiz": 6990,
+        "surum": "v4.0-13d",
+        "surum_tarihi": "2026-10-15"
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 8056,
+        "onceki_yildiz": 6993,
         "surum": "v4.0-13d",
         "surum_tarihi": "2026-10-15"
       }
@@ -53659,7 +53727,7 @@
     "slug": "cindy",
     "title": "Cindy",
     "tagline": "Cindy, projelerinizde ve uygulamalarınızda gerçek işleri tamamlamak üzere tasarlanmış, kutudan çıktığı gibi çalışabilen açık…",
-    "meta": "★ 4.207 · TypeScript",
+    "meta": "★ 5.414 · TypeScript",
     "image": "/assets/discover/og/cindy.webp",
     "source": "GitHub",
     "date": "2026-10-25",
@@ -53667,7 +53735,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4207,
+    "stars": 5414,
     "last_seen": "2026-10-26",
     "summary": "Cindy, projelerinizde ve uygulamalarınızda gerçek işleri tamamlamak üzere tasarlanmış, kutudan çıktığı gibi çalışabilen açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir yapay zekâ ajanıdır. Birden fazla model ve aracı tek bir yapıda birleştirerek kullanıcıların iş akışlarını yönetmelerine olanak tanır.",
     "lite": false,
@@ -53678,6 +53746,13 @@
         "tarih": "2026-10-25",
         "yildiz": 4207,
         "onceki_yildiz": 4198,
+        "surum": "v0.1.115",
+        "surum_tarihi": "2026-10-23"
+      },
+      {
+        "tarih": "2026-10-26",
+        "yildiz": 5414,
+        "onceki_yildiz": 4207,
         "surum": "v0.1.115",
         "surum_tarihi": "2026-10-23"
       }

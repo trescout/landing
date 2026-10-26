@@ -2,15 +2,15 @@
 
 Développé par Google, Axe est un runtime d'orchestration open source pour les agents d'intelligence artificielle. Cette infrastructure, écrite en langage Go, facilite la gestion et l'exécution de workflows agentiques complexes.
 
-- ★ 13 086
+- ★ 14 093
 - GitHub Trending · 2026-09-23
 
 ## Mises à jour
 
+- **26 octobre 2026:** Étoiles 13,086 → 14,093, dernière version v0.3.1 (25 septembre 2026).
 - **5 octobre 2026:** Étoiles 12,083 → 13,086, dernière version v0.3.1 (25 septembre 2026).
 - **27 septembre 2026:** Étoiles 11,703 → 12,083, dernière version v0.3.1 (25 septembre 2026).
 - **25 septembre 2026:** Étoiles 9,553 → 10,941.
-- **24 septembre 2026:** Étoiles 8,141 → 9,553.
 
 ## Ce que ça vous apporte
 
