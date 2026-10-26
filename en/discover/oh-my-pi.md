@@ -65,8 +65,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [LSP](https://trescout.com/en/dictionary/lsp/)
 - [AI Coding Agent](https://trescout.com/en/dictionary/ai-coding-agent/)
-- [IDE](https://trescout.com/en/dictionary/ide/)
 - [Coding Agent](https://trescout.com/en/dictionary/coding-agent/)
+- [IDE](https://trescout.com/en/dictionary/ide/)
 - [Agent](https://trescout.com/en/dictionary/agent/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
 

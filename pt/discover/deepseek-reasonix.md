@@ -2,16 +2,16 @@
 
 DeepSeek-Reasonix é um agente de codificação de IA executado no terminal e baseado em modelos DeepSeek. Com foco na estabilidade do cache de prefixo, esta ferramenta garante que os desenvolvedores recebam suporte de codificação ininterrupto durante sessões longas.
 
-- ★ 35.956
+- ★ 35.965
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Atualizações
 
+- **26 de outubro de 2026:** Estrelas 35,956 → 35,965, versão mais recente studio-v2.52.0 (26 de outubro de 2026).
 - **25 de outubro de 2026:** Estrelas 35,946 → 35,956, versão mais recente studio-v2.51.0 (24 de outubro de 2026).
 - **24 de outubro de 2026:** Estrelas 35,939 → 35,946, versão mais recente studio-v2.50.0 (23 de outubro de 2026).
 - **23 de outubro de 2026:** Estrelas 35,906 → 35,939, versão mais recente studio-v2.49.0 (22 de outubro de 2026).
-- **22 de outubro de 2026:** Estrelas 35,898 → 35,906, versão mais recente studio-v2.48.0 (22 de outubro de 2026).
 
 ## O que você ganha
 

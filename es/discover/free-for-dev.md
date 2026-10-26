@@ -68,9 +68,9 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [PaaS](https://trescout.com/es/dictionary/paas/)
 - [IaaS](https://trescout.com/es/dictionary/iaas/)
 - [Free Tier](https://trescout.com/es/dictionary/free-tier/)
+- [PaaS](https://trescout.com/es/dictionary/paas/)
 - [SaaS](https://trescout.com/es/dictionary/saas/)
 - [Caching](https://trescout.com/es/dictionary/caching/)
 - [RAM](https://trescout.com/es/dictionary/ram/)

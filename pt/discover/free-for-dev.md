@@ -68,9 +68,9 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [PaaS](https://trescout.com/pt/dictionary/paas/)
 - [IaaS](https://trescout.com/pt/dictionary/iaas/)
 - [Free Tier](https://trescout.com/pt/dictionary/free-tier/)
+- [PaaS](https://trescout.com/pt/dictionary/paas/)
 - [SaaS](https://trescout.com/pt/dictionary/saas/)
 - [Caching](https://trescout.com/pt/dictionary/caching/)
 - [RAM](https://trescout.com/pt/dictionary/ram/)

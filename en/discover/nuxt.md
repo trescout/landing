@@ -45,8 +45,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Server-side Rendering](https://trescout.com/en/dictionary/server-side-rendering/)
 - [Full-stack](https://trescout.com/en/dictionary/full-stack/)
-- [SEO](https://trescout.com/en/dictionary/seo/)
 - [Rendering](https://trescout.com/en/dictionary/rendering/)
+- [SEO](https://trescout.com/en/dictionary/seo/)
 - [Framework](https://trescout.com/en/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

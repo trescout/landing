@@ -65,8 +65,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [LSP](https://trescout.com/de/dictionary/lsp/)
 - [AI Coding Agent](https://trescout.com/de/dictionary/ai-coding-agent/)
-- [IDE](https://trescout.com/de/dictionary/ide/)
 - [Coding Agent](https://trescout.com/de/dictionary/coding-agent/)
+- [IDE](https://trescout.com/de/dictionary/ide/)
 - [Agent](https://trescout.com/de/dictionary/agent/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
 

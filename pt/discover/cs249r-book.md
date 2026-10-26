@@ -2,16 +2,16 @@
 
 Este recurso, compartilhado pela Universidade de Harvard, oferece um guia técnico abrangente sobre sistemas de aprendizado de máquina. Combinando camadas de hardware e software, este estudo aborda os processos de design de infraestruturas escaláveis ​​de inteligência artificial.
 
-- ★ 29.547
+- ★ 29.642
 - Python
 - GitHub Trending · 2026-07-03
 
 ## Atualizações
 
+- **26 de outubro de 2026:** Estrelas 29,547 → 29,642, versão mais recente vol1-v0.8.0 (24 de outubro de 2026).
 - **25 de outubro de 2026:** Estrelas 28,788 → 29,547, versão mais recente slides-latest (11 de maio de 2026).
 - **2 de outubro de 2026:** Estrelas 28,085 → 28,788, versão mais recente tinytorch-v0.2.0 (1 de outubro de 2026).
 - **1 de setembro de 2026:** Estrelas 27,689 → 28,085, versão mais recente vol1-v0.7.2 (31 de agosto de 2026).
-- **2 de agosto de 2026:** Estrelas 25,784 → 27,689, versão mais recente tinytorch-v0.1.13 (24 de junho de 2026).
 
 ## O que você ganha
 

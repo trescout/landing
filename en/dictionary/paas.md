@@ -71,6 +71,7 @@ It increases slightly in small business and increases in large traffic. The invo
 ## Related tools
 
 - [Free for Dev](https://trescout.com/en/discover/free-for-dev/)
+- [Coolify](https://trescout.com/en/discover/coolify/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/paas/)
 

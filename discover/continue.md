@@ -75,8 +75,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Refactoring](https://trescout.com/dictionary/refactoring/)
-- [IDE](https://trescout.com/dictionary/ide/)
 - [Coding Agent](https://trescout.com/dictionary/coding-agent/)
+- [IDE](https://trescout.com/dictionary/ide/)
 - [LLM](https://trescout.com/dictionary/llm/)
 - [Agent](https://trescout.com/dictionary/agent/)
 - [CLI](https://trescout.com/dictionary/cli/)

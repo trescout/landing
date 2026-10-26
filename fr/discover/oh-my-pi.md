@@ -65,8 +65,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [LSP](https://trescout.com/fr/dictionary/lsp/)
 - [AI Coding Agent](https://trescout.com/fr/dictionary/ai-coding-agent/)
-- [IDE](https://trescout.com/fr/dictionary/ide/)
 - [Coding Agent](https://trescout.com/fr/dictionary/coding-agent/)
+- [IDE](https://trescout.com/fr/dictionary/ide/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
 

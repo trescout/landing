@@ -45,6 +45,7 @@ Non, la qualité du contenu et les performances techniques du site sont désorma
 - [Nuxt](https://trescout.com/fr/discover/nuxt/)
 - [Marketingskills](https://trescout.com/fr/discover/marketingskills/)
 - [Open Seo](https://trescout.com/fr/discover/open-seo/)
+- [Claude Seo](https://trescout.com/fr/discover/claude-seo/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/seo/)
 

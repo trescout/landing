@@ -64,8 +64,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Refactoring](https://trescout.com/fr/dictionary/refactoring/)
-- [IDE](https://trescout.com/fr/dictionary/ide/)
 - [Coding Agent](https://trescout.com/fr/dictionary/coding-agent/)
+- [IDE](https://trescout.com/fr/dictionary/ide/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)

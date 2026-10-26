@@ -2,17 +2,17 @@
 
 OpenStock est une alternative open source aux plateformes d'échange coûteuses. Il offre un suivi des prix en temps réel, des alertes personnalisées et des analyses d'entreprise. Il est accessible à tous et gratuit pour toujours.
 
-- ★ 20 333
+- ★ 20 871
 - TypeScript
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **26 octobre 2026:** Étoiles 20,333 → 20,871, dernière version v2026.10.25 (25 octobre 2026).
 - **18 octobre 2026:** Étoiles 20,317 → 20,333, dernière version v2026.10.18 (18 octobre 2026).
 - **17 octobre 2026:** Étoiles 19,315 → 20,317.
 - **27 septembre 2026:** Étoiles 15,130 → 19,315.
-- **18 septembre 2026:** Étoiles 14,018 → 15,130.
 
 ## Ce que ça vous apporte
 

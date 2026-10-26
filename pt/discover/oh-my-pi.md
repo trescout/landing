@@ -65,8 +65,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [LSP](https://trescout.com/pt/dictionary/lsp/)
 - [AI Coding Agent](https://trescout.com/pt/dictionary/ai-coding-agent/)
-- [IDE](https://trescout.com/pt/dictionary/ide/)
 - [Coding Agent](https://trescout.com/pt/dictionary/coding-agent/)
+- [IDE](https://trescout.com/pt/dictionary/ide/)
 - [Agent](https://trescout.com/pt/dictionary/agent/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 

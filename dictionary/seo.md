@@ -45,6 +45,7 @@ Hayır, içerik kalitesi ve sitenin teknik performansı artık çok daha önemli
 - [Nuxt](https://trescout.com/discover/nuxt/)
 - [Marketingskills](https://trescout.com/discover/marketingskills/)
 - [Open Seo](https://trescout.com/discover/open-seo/)
+- [Claude Seo](https://trescout.com/discover/claude-seo/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

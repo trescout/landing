@@ -9787,5 +9787,57 @@
     "kisa_es": "Son personajes que no son controlados por el jugador en juegos o simulaciones y se mueven mediante inteligencia artificial.",
     "kisa_pt": "São personagens em jogos ou simulações que não são controlados pelo jogador e se movem com inteligência artificial.",
     "kisa_de": "Es sind Charaktere in Spielen oder Simulationen, die nicht vom Spieler gesteuert werden und sich durch künstliche Intelligenz bewegen."
+  },
+  {
+    "slug": "frontend-design",
+    "en": "Frontend Design",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın veya web sitesinin kullanıcıların gördüğü ve etkileşime girdiği görsel ve işlevsel arayüzlerin tasarlanması sürecidir.",
+    "date": "2026-10-26",
+    "kisa_en": "It is the process of designing the visual and functional interfaces that users see and interact with in a software or website.",
+    "kisa_fr": "Il s'agit du processus de conception des interfaces visuelles et fonctionnelles qu'un logiciel ou un site Web présente aux utilisateurs et avec lesquelles ils interagissent.",
+    "kisa_es": "Es el proceso de diseño de las interfaces visuales y funcionales que los usuarios ven e interactúan en un software o sitio web.",
+    "kisa_pt": "É o processo de projeto das interfaces visuais e funcionais que os usuários veem e com as quais interagem em um software ou site.",
+    "kisa_de": "Es ist der Prozess der Gestaltung der visuellen und funktionalen Schnittstellen einer Software oder Website, die die Benutzer sehen und mit denen sie interagieren."
+  },
+  {
+    "slug": "cnn",
+    "en": "CNN",
+    "full": "Convolutional Neural Network",
+    "cat": "ai",
+    "kisa": "Görsel verileri ve resimleri analiz etmek için biyolojik görme sistemlerinden esinlenilerek geliştirilmiş bir derin öğrenme mimarisidir.",
+    "date": "2026-10-26",
+    "kisa_en": "It is a deep learning architecture developed by drawing inspiration from biological vision systems to analyze visual data and images.",
+    "kisa_fr": "Il s'agit d'une architecture d'apprentissage profond développée en s'inspirant des systèmes de vision biologique pour analyser des données visuelles et des images.",
+    "kisa_es": "Es una arquitectura de aprendizaje profundo desarrollada inspirándose en los sistemas de visión biológica para analizar datos visuales e imágenes.",
+    "kisa_pt": "É uma arquitetura de aprendizado profundo desenvolvida com inspiração em sistemas de visão biológica para analisar dados visuais e imagens.",
+    "kisa_de": "Es handelt sich um eine Deep-Learning-Architektur, die von biologischen Sehsystemen inspiriert und entwickelt wurde, um visuelle Daten und Bilder zu analysieren."
+  },
+  {
+    "slug": "lightweight-agents",
+    "en": "Lightweight Agents",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Düşük sistem kaynakları ile hızlı ve verimli çalışabilen, hafif yapılı yapay zekâ yazılımlarıdır.",
+    "date": "2026-10-26",
+    "kisa_en": "They are lightweight artificial intelligence software that can run fast and efficiently with low system resources.",
+    "kisa_fr": "Ce sont des logiciels d'intelligence artificielle à structure légère, capables de fonctionner rapidement et efficacement avec de faibles ressources système.",
+    "kisa_es": "Son programas de inteligencia artificial de estructura ligera que pueden funcionar de manera rápida y eficiente con bajos recursos del sistema.",
+    "kisa_pt": "São softwares de inteligência artificial de estrutura leve que podem operar de forma rápida e eficiente com baixos recursos de sistema.",
+    "kisa_de": "Es handelt sich um leichtgewichtige KI-Software, die mit geringen Systemressourcen schnell und effizient arbeiten kann."
+  },
+  {
+    "slug": "multimodal-agents",
+    "en": "Multimodal Agents",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Metin, görsel, ses ve video gibi farklı veri türlerini aynı anda işleyerek karar veren ve eyleme geçen yapay zekâ ajanlarıdır.",
+    "date": "2026-10-26",
+    "kisa_en": "They are artificial intelligence agents that make decisions and take action by processing different data types such as text, image, audio, and video simultaneously.",
+    "kisa_fr": "Ce sont des agents d'intelligence artificielle qui prennent des décisions et passent à l'action en traitant simultanément différents types de données tels que le texte, l'image, l'audio et la vidéo.",
+    "kisa_es": "Son agentes de inteligencia artificial que procesan simultáneamente diferentes tipos de datos, como texto, imagen, audio y video, para tomar decisiones y actuar.",
+    "kisa_pt": "São agentes de inteligência artificial que processam diferentes tipos de dados, como texto, imagem, áudio e vídeo simultaneamente, para tomar decisões e agir.",
+    "kisa_de": "Es handelt sich um KI-Agenten, die verschiedene Datentypen wie Text, Bilder, Audio und Video gleichzeitig verarbeiten, um Entscheidungen zu treffen und zu handeln."
   }
 ]

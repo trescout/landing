@@ -2,16 +2,16 @@
 
 Rea es una herramienta de ingeniería inversa (reverse engineering) basada en agentes de inteligencia artificial que analiza desde el comportamiento de las aplicaciones hasta los binarios nativos (native binaries). Desarrollado con TypeScript, este software tiene como objetivo descifrar la lógica de funcionamiento de sistemas complejos mediante procesos automatizados.
 
-- ★ 370.367
+- ★ 385.848
 - TypeScript
 - GitHub Trending · 2026-10-06
 
 ## Actualizaciones
 
+- **26 de octubre de 2026:** Estrellas 370,367 → 385,848, última versión rea-agents-6.8.0 (25 de octubre de 2026).
 - **23 de octubre de 2026:** Estrellas 352,431 → 370,367, última versión rea-agents-6.7.0 (18 de octubre de 2026).
 - **21 de octubre de 2026:** Estrellas 329,371 → 352,431, última versión rea-agents-6.7.0 (18 de octubre de 2026).
 - **19 de octubre de 2026:** Estrellas 313,106 → 329,371, última versión rea-agents-6.7.0 (18 de octubre de 2026).
-- **18 de octubre de 2026:** Estrellas 296,420 → 313,106, última versión rea-agents-6.7.0 (18 de octubre de 2026).
 
 ## Qué aporta
 

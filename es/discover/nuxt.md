@@ -45,8 +45,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Server-side Rendering](https://trescout.com/es/dictionary/server-side-rendering/)
 - [Full-stack](https://trescout.com/es/dictionary/full-stack/)
-- [SEO](https://trescout.com/es/dictionary/seo/)
 - [Rendering](https://trescout.com/es/dictionary/rendering/)
+- [SEO](https://trescout.com/es/dictionary/seo/)
 - [Framework](https://trescout.com/es/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

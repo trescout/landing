@@ -2,17 +2,17 @@
 
 Twenty is an open source Salesforce alternative that allows technical teams to build a modern CRM that can be customized to their business processes. You can host this system, which focuses on artificial intelligence-supported workflows, on your own server.
 
-- ★ 58,824
+- ★ 59,751
 - TypeScript
 - Lisans: özel
 - GitHub Trending · 26 May 2026
 
 ## Updates
 
+- **October 26, 2026:** Stars 58,824 → 59,751, latest release twenty/v2.51.0 (October 25, 2026).
 - **October 21, 2026:** Stars 58,665 → 58,824, latest release twenty/v2.50.0 (October 21, 2026).
 - **October 20, 2026:** Stars 58,411 → 58,665, latest release sdk/v2.49.0 (October 19, 2026).
 - **October 16, 2026:** Stars 58,367 → 58,411, latest release sdk/v2.48.0 (October 16, 2026).
-- **October 15, 2026:** Stars 58,241 → 58,367, latest release twenty/v2.47.0 (October 15, 2026).
 
 ## What you get
 

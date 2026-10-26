@@ -70,9 +70,9 @@ Oui. Il vous suffit d'exécuter git pull dans le dossier. Si vous avez des modif
 - [VoxCPM](https://trescout.com/fr/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/fr/discover/clone-wars/)
 - [Univer](https://trescout.com/fr/discover/univer/)
+- [Claude Seo](https://trescout.com/fr/discover/claude-seo/)
 - [OpenStock](https://trescout.com/fr/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/fr/discover/hermes-webui/)
-- [openGym](https://trescout.com/fr/discover/opengym/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/clone/)
 

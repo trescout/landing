@@ -54,8 +54,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Server-side Rendering](https://trescout.com/dictionary/server-side-rendering/)
 - [Full-stack](https://trescout.com/dictionary/full-stack/)
-- [SEO](https://trescout.com/dictionary/seo/)
 - [Rendering](https://trescout.com/dictionary/rendering/)
+- [SEO](https://trescout.com/dictionary/seo/)
 - [Framework](https://trescout.com/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

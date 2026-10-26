@@ -70,9 +70,9 @@ Ja. Führen Sie einfach git pull im Ordner aus. Wenn Sie Änderungen haben, müs
 - [VoxCPM](https://trescout.com/de/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/de/discover/clone-wars/)
 - [Univer](https://trescout.com/de/discover/univer/)
+- [Claude Seo](https://trescout.com/de/discover/claude-seo/)
 - [OpenStock](https://trescout.com/de/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/de/discover/hermes-webui/)
-- [openGym](https://trescout.com/de/discover/opengym/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/clone/)
 

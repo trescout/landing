@@ -64,8 +64,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Refactoring](https://trescout.com/pt/dictionary/refactoring/)
-- [IDE](https://trescout.com/pt/dictionary/ide/)
 - [Coding Agent](https://trescout.com/pt/dictionary/coding-agent/)
+- [IDE](https://trescout.com/pt/dictionary/ide/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Agent](https://trescout.com/pt/dictionary/agent/)
 - [CLI](https://trescout.com/pt/dictionary/cli/)

@@ -64,8 +64,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Refactoring](https://trescout.com/de/dictionary/refactoring/)
-- [IDE](https://trescout.com/de/dictionary/ide/)
 - [Coding Agent](https://trescout.com/de/dictionary/coding-agent/)
+- [IDE](https://trescout.com/de/dictionary/ide/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Agent](https://trescout.com/de/dictionary/agent/)
 - [CLI](https://trescout.com/de/dictionary/cli/)

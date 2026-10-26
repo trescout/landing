@@ -71,6 +71,7 @@ Bei kleinen Projekten gering, bei hohem Datenverkehr steigend. Die Rechnung wird
 ## Verwandte Werkzeuge
 
 - [Free for Dev](https://trescout.com/de/discover/free-for-dev/)
+- [Coolify](https://trescout.com/de/discover/coolify/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/paas/)
 

@@ -2,16 +2,16 @@
 
 Diese von der Harvard University gemeinsam genutzte Ressource bietet einen umfassenden technischen Leitfaden zu maschinellen Lernsystemen. Diese Studie kombiniert Hardware- und Softwareschichten und befasst sich mit den Entwurfsprozessen skalierbarer Infrastrukturen für künstliche Intelligenz.
 
-- ★ 29.547
+- ★ 29.642
 - Python
 - GitHub Trending · 2026-07-03
 
 ## Aktualisierungen
 
+- **26. Oktober 2026:** Sterne 29,547 → 29,642, neueste Version vol1-v0.8.0 (24. Oktober 2026).
 - **25. Oktober 2026:** Sterne 28,788 → 29,547, neueste Version slides-latest (11. Mai 2026).
 - **2. Oktober 2026:** Sterne 28,085 → 28,788, neueste Version tinytorch-v0.2.0 (1. Oktober 2026).
 - **1. September 2026:** Sterne 27,689 → 28,085, neueste Version vol1-v0.7.2 (31. August 2026).
-- **2. August 2026:** Sterne 25,784 → 27,689, neueste Version tinytorch-v0.1.13 (24. Juni 2026).
 
 ## Was es bringt
 

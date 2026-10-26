@@ -74,8 +74,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [LSP](https://trescout.com/dictionary/lsp/)
 - [AI Coding Agent](https://trescout.com/dictionary/ai-coding-agent/)
-- [IDE](https://trescout.com/dictionary/ide/)
 - [Coding Agent](https://trescout.com/dictionary/coding-agent/)
+- [IDE](https://trescout.com/dictionary/ide/)
 - [Agent](https://trescout.com/dictionary/agent/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
 

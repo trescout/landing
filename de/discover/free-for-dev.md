@@ -68,9 +68,9 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [PaaS](https://trescout.com/de/dictionary/paas/)
 - [IaaS](https://trescout.com/de/dictionary/iaas/)
 - [Free Tier](https://trescout.com/de/dictionary/free-tier/)
+- [PaaS](https://trescout.com/de/dictionary/paas/)
 - [SaaS](https://trescout.com/de/dictionary/saas/)
 - [Caching](https://trescout.com/de/dictionary/caching/)
 - [RAM](https://trescout.com/de/dictionary/ram/)

@@ -86,9 +86,9 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [PaaS](https://trescout.com/dictionary/paas/)
 - [IaaS](https://trescout.com/dictionary/iaas/)
 - [Free Tier](https://trescout.com/dictionary/free-tier/)
+- [PaaS](https://trescout.com/dictionary/paas/)
 - [SaaS](https://trescout.com/dictionary/saas/)
 - [Caching](https://trescout.com/dictionary/caching/)
 - [RAM](https://trescout.com/dictionary/ram/)

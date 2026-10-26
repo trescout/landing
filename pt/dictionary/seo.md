@@ -45,6 +45,7 @@ Não, a qualidade do conteúdo e o desempenho técnico do site são agora muito 
 - [Nuxt](https://trescout.com/pt/discover/nuxt/)
 - [Marketingskills](https://trescout.com/pt/discover/marketingskills/)
 - [Open Seo](https://trescout.com/pt/discover/open-seo/)
+- [Claude Seo](https://trescout.com/pt/discover/claude-seo/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/seo/)
 

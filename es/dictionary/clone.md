@@ -70,9 +70,9 @@ Sí. Solo necesitas ejecutar git pull dentro de la carpeta. Si tienes cambios, p
 - [VoxCPM](https://trescout.com/es/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/es/discover/clone-wars/)
 - [Univer](https://trescout.com/es/discover/univer/)
+- [Claude Seo](https://trescout.com/es/discover/claude-seo/)
 - [OpenStock](https://trescout.com/es/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/es/discover/hermes-webui/)
-- [openGym](https://trescout.com/es/discover/opengym/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/clone/)
 

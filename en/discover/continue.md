@@ -64,8 +64,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Refactoring](https://trescout.com/en/dictionary/refactoring/)
-- [IDE](https://trescout.com/en/dictionary/ide/)
 - [Coding Agent](https://trescout.com/en/dictionary/coding-agent/)
+- [IDE](https://trescout.com/en/dictionary/ide/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [Agent](https://trescout.com/en/dictionary/agent/)
 - [CLI](https://trescout.com/en/dictionary/cli/)

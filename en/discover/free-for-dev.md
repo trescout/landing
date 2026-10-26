@@ -68,9 +68,9 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [PaaS](https://trescout.com/en/dictionary/paas/)
 - [IaaS](https://trescout.com/en/dictionary/iaas/)
 - [Free Tier](https://trescout.com/en/dictionary/free-tier/)
+- [PaaS](https://trescout.com/en/dictionary/paas/)
 - [SaaS](https://trescout.com/en/dictionary/saas/)
 - [Caching](https://trescout.com/en/dictionary/caching/)
 - [RAM](https://trescout.com/en/dictionary/ram/)

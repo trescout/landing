@@ -68,9 +68,9 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [PaaS](https://trescout.com/fr/dictionary/paas/)
 - [IaaS](https://trescout.com/fr/dictionary/iaas/)
 - [Free Tier](https://trescout.com/fr/dictionary/free-tier/)
+- [PaaS](https://trescout.com/fr/dictionary/paas/)
 - [SaaS](https://trescout.com/fr/dictionary/saas/)
 - [Caching](https://trescout.com/fr/dictionary/caching/)
 - [RAM](https://trescout.com/fr/dictionary/ram/)

@@ -48,6 +48,7 @@ Bazı IDE'ler belirli dillere odaklanmıştır, bazıları ise eklentiler sayesi
 - [Oh My Pi](https://trescout.com/discover/oh-my-pi/)
 - [Continue](https://trescout.com/discover/continue/)
 - [Checkstyle](https://trescout.com/discover/checkstyle/)
+- [Thinkrail](https://trescout.com/discover/thinkrail/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

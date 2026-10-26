@@ -2,16 +2,16 @@
 
 GitHub Actions runner images contain the virtual machine environments used by the GitHub Actions platform, which automates software development processes. These images provide the pre-configured operating system and toolsets needed in software testing and deployment processes.
 
-- ★ 13,527
+- ★ 13,529
 - PowerShell
 - GitHub Trending · 2026-09-27
 
 ## Updates
 
+- **October 26, 2026:** Stars 13,527 → 13,529, latest release xcode-27-arm64/20261023.0307 (October 23, 2026).
 - **October 25, 2026:** Stars 13,521 → 13,527, latest release ubuntu26/20261023.163 (October 23, 2026).
 - **October 24, 2026:** Stars 13,517 → 13,521, latest release ubuntu26-arm64/20261023.150 (October 23, 2026).
 - **October 23, 2026:** Stars 13,514 → 13,517, latest release win25/20261021.299 (October 22, 2026).
-- **October 22, 2026:** Stars 13,514 → 13,514, latest release ubuntu-slim/20261021.31 (October 21, 2026).
 
 ## What you get
 

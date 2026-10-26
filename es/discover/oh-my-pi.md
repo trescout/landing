@@ -65,8 +65,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [LSP](https://trescout.com/es/dictionary/lsp/)
 - [AI Coding Agent](https://trescout.com/es/dictionary/ai-coding-agent/)
-- [IDE](https://trescout.com/es/dictionary/ide/)
 - [Coding Agent](https://trescout.com/es/dictionary/coding-agent/)
+- [IDE](https://trescout.com/es/dictionary/ide/)
 - [Agent](https://trescout.com/es/dictionary/agent/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
 

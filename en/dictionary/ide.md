@@ -48,6 +48,7 @@ Some IDEs are focused on specific languages, while others can work in almost any
 - [Oh My Pi](https://trescout.com/en/discover/oh-my-pi/)
 - [Continue](https://trescout.com/en/discover/continue/)
 - [Checkstyle](https://trescout.com/en/discover/checkstyle/)
+- [Thinkrail](https://trescout.com/en/discover/thinkrail/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ide/)
 
