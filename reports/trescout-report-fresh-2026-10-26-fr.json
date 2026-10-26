@@ -1,0 +1,502 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-26",
+  "capturedAt": "2026-10-26T04:52:38.704Z",
+  "editorial": "Les contenus inclus dans le rapport ne sont pas répétés pendant 30 jours. À la fin de cette période, les enregistrements qui restent d'actualité sont à nouveau listés avec l'étiquette \"de nouveau à l'ordre du jour\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio est une plateforme open source qui vous permet d'effectuer des opérations telles que le clonage vocal, la conception sonore, le doublage vidéo et la création de livres audio sur votre ordinateur local. Le logiciel offre une prise en charge de la dictée et de la transcription dans 646 langues différentes, constituant une alternative locale aux technologies vocales payantes comme ElevenLabs.",
+          "meta": "Python · ★ 87 194 · +1 592 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 87194,
+              "engagementCount": 1592,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1592
+              }
+            },
+            "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+          }
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TauricResearch/TradingAgents est un cadre de trading basé sur des agents d'intelligence artificielle multiples, développé pour imiter la dynamique des marchés financiers. Les agents utilisant des grands modèles de langage (LLM) spécialisés dans l'analyse fondamentale, l'analyse des sentiments et la gestion des risques évaluent les conditions du marché pour prendre des décisions de trading en collaboration.",
+          "meta": "Python · ★ 114 843 · +381 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "TauricResearch/TradingAgents",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 114843,
+              "engagementCount": 381,
+              "rank": 6,
+              "extra": {
+                "starsToday": 381,
+                "baglam": "readme"
+              }
+            },
+            "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework. TradingAgents is a multi-agent trading framework that mirrors the dynamics of real-world trading firms. By deploying specialized LLM-powered agents: from fundamental analysts, sentiment experts, and technical analysts, to trader, risk management team, the platform collaboratively evaluates market conditions and informs trading decisions."
+          }
+        },
+        {
+          "title": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "summary": "ThinkRail, développé par JetBrains, est un environnement de développement intégré (IDE) basé sur des agents qui s'adapte au mode de travail de l'utilisateur et améliore ses capacités au fil du temps en apprenant les caractéristiques du projet. Écrit en langage TypeScript, cet outil vise à soutenir les processus de développement logiciel avec une expérience personnalisée.",
+          "meta": "TypeScript · ★ 1 980 · +51 aujourd'hui",
+          "snapshot": {
+            "sourceId": "JetBrains/thinkrail",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1980,
+              "engagementCount": 51,
+              "rank": 8,
+              "extra": {
+                "starsToday": 51,
+                "baglam": "readme"
+              }
+            },
+            "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need. ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow."
+          }
+        },
+        {
+          "title": "coollabsio/coolify",
+          "url": "https://github.com/coollabsio/coolify",
+          "summary": "Coolify est un outil de déploiement open source proposé comme alternative aux plateformes cloud (PaaS) telles que Vercel, Heroku et Netlify. Il vous permet d'héberger facilement plus de 360 services, y compris des sites statiques, des bases de données et des applications complexes, sur vos propres serveurs.",
+          "meta": "PHP · ★ 64 568 · +152 aujourd'hui",
+          "snapshot": {
+            "sourceId": "coollabsio/coolify",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "PHP",
+              "popularity": 64568,
+              "engagementCount": 152,
+              "rank": 9,
+              "extra": {
+                "starsToday": 152
+              }
+            },
+            "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers."
+          }
+        },
+        {
+          "title": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "summary": "AgriciDaniel/claude-seo est un ensemble de compétences complet développé pour Claude Code qui automatise les processus d'optimisation technique pour les moteurs de recherche (SEO). Le projet propose 26 sous-compétences et 19 sous-agents, ainsi que des intégrations avec l'API Google (un pont numérique permettant à deux logiciels différents de communiquer entre eux) afin d'améliorer la visibilité sur les moteurs de recherche.",
+          "meta": "Python · ★ 21 162 · +197 aujourd'hui",
+          "snapshot": {
+            "sourceId": "AgriciDaniel/claude-seo",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 21162,
+              "engagementCount": 197,
+              "rank": 11,
+              "extra": {
+                "starsToday": 197
+              }
+            },
+            "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "We should be more ambitious with the software we build",
+          "url": "https://danluu.com/ambitious/",
+          "summary": "Cette opinion, qui soutient que des projets plus ambitieux devraient être visés dans les processus de développement logiciel, souligne que les capacités technologiques actuelles sont suffisantes pour produire des solutions à plus grande échelle et plus efficaces. Il est souligné que l'augmentation des attentes dans le monde du logiciel favorisera le développement en termes d'innovation et d'expérience utilisateur.",
+          "meta": "766 votes · 699 commentaires",
+          "snapshot": {
+            "sourceId": "50225695",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 766,
+              "engagementCount": 699,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50225695",
+                  "popularity": 766,
+                  "engagementCount": 699
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-24T21:47:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50225695"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50225695",
+              "popularity": 766,
+              "engagementCount": 699
+            }
+          ]
+        },
+        {
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "summary": "Des tests effectués par un dermatologue montrent qu'un modèle de réseau neuronal convolutif (CNN) vieux de 10 ans affiche une précision plus élevée dans le diagnostic du cancer de la peau que les grands modèles de langage (LLM) actuels tels que GPT-6 Astra et Claude Fable 5.1. La recherche révèle que les anciens modèles de traitement d'image spécialisés peuvent rester compétitifs face aux technologies d'intelligence artificielle de nouvelle génération dans les processus de diagnostic médical.",
+          "meta": "494 votes · 224 commentaires",
+          "snapshot": {
+            "sourceId": "50233779",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 494,
+              "engagementCount": 224,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50233779",
+                  "popularity": 494,
+                  "engagementCount": 224
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-25T17:15:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50233779",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "I am a dermatologist. I tested the ability of GPT-6 Astra and Claude Fable 5.1 to diagnosis skin cancer and found that they were less accurate than I expected. I compared to a 10-year old CNN and to my surprise found that this was superior."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50233779",
+              "popularity": 494,
+              "engagementCount": 224
+            }
+          ]
+        },
+        {
+          "title": "Dolly Parton's Imagination Library",
+          "url": "https://imaginationlibrary.com/",
+          "summary": "Dolly Parton's Imagination Library est une initiative de responsabilité sociale qui encourage l'alphabétisation précoce en envoyant gratuitement des livres aux enfants chaque mois. Le programme vise à inculquer une habitude de lecture communautaire afin d'aider les enfants à réaliser leurs rêves.",
+          "meta": "463 votes · 85 commentaires",
+          "snapshot": {
+            "sourceId": "50234474",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 463,
+              "engagementCount": 85,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50234474",
+                  "popularity": 463,
+                  "engagementCount": 85
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-25T18:23:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50234474"
+              }
+            },
+            "description": "With today&#x27;s news, I thought I&#x27;d share this great program:“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, may"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50234474",
+              "popularity": 463,
+              "engagementCount": 85
+            }
+          ]
+        },
+        {
+          "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+          "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+          "summary": "La police de l'Oregon a réclamé 2,5 millions de dollars pour les dossiers d'un agent de police demandés par l'organisation de presse locale Double Sided Media. Cette situation a suscité des débats sur l'accessibilité des documents publics et le droit à l'information.",
+          "meta": "438 votes · 118 commentaires",
+          "snapshot": {
+            "sourceId": "50234232",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 438,
+              "engagementCount": 118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50234232",
+                  "popularity": 438,
+                  "engagementCount": 118
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-25T18:04:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50234232",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Eugene-based Double Sided Media requested police officer Justin Peckels’s records. The city slapped the publication with an exorbitant fee."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50234232",
+              "popularity": 438,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+          "url": "https://talkweb.eu/openweb/4558/",
+          "summary": "Un auteur exprimant sa position contre la censure sur Internet invite les participants à se réunir lors de l'événement FOSDEM 27. Dans le cadre du FOSDEM, point de rencontre de la communauté des logiciels open source, il vise à discuter des efforts menés pour maintenir la liberté d'Internet.",
+          "meta": "430 votes · 207 commentaires",
+          "snapshot": {
+            "sourceId": "50233929",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 430,
+              "engagementCount": 207,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50233929",
+                  "popularity": 430,
+                  "engagementCount": 207
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-25T17:30:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50233929"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50233929",
+              "popularity": 430,
+              "engagementCount": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "summary": "Nanbeige/Nanbeige4.3-33B est un modèle de génération de texte conçu pour développer des agents d'intelligence artificielle légers (lightweight agents). Les développeurs suivent une stratégie de distillation de ces capacités avancées vers des modèles plus petits en créant un agent enseignant à haute capacité.",
+          "meta": "♥ 420 · 0 téléchargements",
+          "snapshot": {
+            "sourceId": "Nanbeige/Nanbeige4.3-33B",
+            "capturedAt": "2026-10-26T04:52:38.821Z",
+            "metadata": {
+              "popularity": 420,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 418,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "llm",
+                  "nanbeige",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+                  "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teacher agent first, which will subsequently anchor the distillation of advanced agentic capabilities into smaller models."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
+          "url": "https://huggingface.co/papers/2610.31066",
+          "summary": "Dual Exam est une méthode développée pour évaluer l'interaction entre les agents d'intelligence artificielle multimodaux et les modèles du monde (world models). Cette approche vise à mesurer la performance des systèmes en testant séparément les choix d'action des agents et l'évolution de l'état des modèles du monde dans différents domaines.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.31066",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31066",
+                "publishedAt": "2026-10-22T00:00:00.000Z"
+              }
+            },
+            "description": "World Models (WMs) can support Multimodal Agents (MAs) through simulated experience, while Agent trajectories can inform World Model refinement. Evaluating this interaction requires separate evidence about action selection and state evolution. We introduce Dual Exam, which tests Agents under fixed environment response mechanisms and World Models under fixed action interventions across physical, digital, social, and scientific domains. The Agent track compares 10 configurations on 1,088 items in "
+          }
+        },
+        {
+          "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
+          "url": "https://huggingface.co/papers/2610.31162",
+          "summary": "HiSTEVE 1.0 vise à développer des agents incarnés virtuels capables d'agir comme des joueurs humains dans des jeux ouverts. Il propose une structure combinant l'autonomie à long terme et le contrôle d'interface local dans des mondes générés de manière procédurale comme Minecraft.",
+          "meta": "16 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.31162",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 16,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31162",
+                "publishedAt": "2026-10-22T00:00:00.000Z"
+              }
+            },
+            "description": "Building virtual embodied agents that operate in open-ended games like human players is a long-standing goal requiring both long-horizon autonomy and reliable native-interface control. As a procedurally generated open world, Minecraft provides a natural testbed for studying the integration of these capabilities. Existing agents typically provide either native visuomotor control without long-horizon autonomy or high-level planning executed through environment APIs or predefined skills. To bridge "
+          }
+        },
+        {
+          "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
+          "url": "https://huggingface.co/papers/2610.17821",
+          "summary": "L'article FLOMSS partagé par Hugging Face examine l'utilisation de la méthode de correspondance de flux (flow matching) dans les processus de séparation de sources musicales. L'étude propose une approche générative pour séparer les voix, la basse, la batterie et les autres instruments au format stéréo pleine bande.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.17821",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.17821",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            },
+            "description": "Music source separation (MSS) has been conventionally addressed by discriminative methods. Recently, flow matching has emerged as a strong generative paradigm for modeling complex data distributions, with successful applications across diverse domains. These advances motivate us to systematically investigate flow matching for MSS in a four-source (Vocals, Bass, Drums, Other) setting in full-band stereo. Specifically, we investigate prediction targets, flow paths, single-source versus multi-sourc"
+          }
+        },
+        {
+          "title": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
+          "url": "https://huggingface.co/papers/2610.32250",
+          "summary": "Easy-3Dfy propose un flux de travail compositionnel qui sépare la génération d'objets de la disposition de la scène dans le processus de création de scènes 3D à partir d'une seule image. Cette méthode vise à augmenter le niveau de détail et la qualité des actifs des scènes 3D grâce à une édition géométrique basée sur les objets.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.32250",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.32250",
+                "publishedAt": "2026-10-23T00:00:00.000Z"
+              }
+            },
+            "description": "Single-image 3D scene construction is a fundamental problem in 3D vision. Recent methods such as SAM-3Dfy enable end-to-end reconstruction of 3D assets and their scene layouts, but still struggle with fine-grained scene geometry and asset quality. Meanwhile, specialized 3D object generators provide detailed object geometry, while 3D foundation models offer strong and generalizable spatial understanding. We propose Easy-3Dfy, a compositional workflow that decouples object generation from scene la"
+          }
+        },
+        {
+          "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+          "url": "https://huggingface.co/papers/2610.32253",
+          "summary": "RSIHub est un framework open source visant à standardiser les méthodes qui améliorent les capacités des agents d'intelligence artificielle. Il facilite des processus tels que l'exécution, l'évaluation et la récupération en permettant aux chercheurs d'expérimenter sur une infrastructure commune.",
+          "meta": "19 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.32253",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.32253",
+                "publishedAt": "2026-10-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/simple-agent-lab/RSIHub",
+                "githubStars": 186
+              }
+            },
+            "description": "Agent-evolution methods use execution feedback to improve prompts, skills, tools, and orchestration, but their implementations often rebuild the same experimental machinery. We present RSIHub, an open-source framework for building, comparing, and extending these methods on shared infrastructure. Recipes compose reusable operators and declare mutable resources; RSIHub supplies execution, evaluation, recovery, and lineage. Researchers can focus on evolution policy while evaluation stays outside th"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "Type de logiciel dont le code source est ouvert à tous pour consultation, examen et amélioration."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Outil de développement logiciel complet qui facilite l'écriture, l'édition et le débogage du code pour les développeurs."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Services basés sur le cloud qui permettent aux développeurs de publier leurs applications directement sur Internet sans avoir à se soucier de la gestion des serveurs."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Ajustements techniques et améliorations effectués pour que les sites web soient mieux classés dans les moteurs de recherche."
+    },
+    {
+      "term": "CNN",
+      "explanation": "Architecture d'intelligence artificielle inspirée des systèmes de vision biologique, utilisée notamment pour traiter et analyser des données visuelles."
+    },
+    {
+      "term": "lightweight agents",
+      "explanation": "Des logiciels d'intelligence artificielle moins complexes, capables de fonctionner rapidement et efficacement avec peu de ressources système."
+    },
+    {
+      "term": "distillation",
+      "explanation": "Une méthode consistant à transférer les connaissances détenues par un grand modèle d'intelligence artificielle complexe vers un modèle plus petit et plus rapide."
+    },
+    {
+      "term": "multimodal agents",
+      "explanation": "Des agents d'intelligence artificielle capables de traiter et de comprendre non seulement du texte, mais aussi des images, du son et d'autres types de données simultanément."
+    },
+    {
+      "term": "world models",
+      "explanation": "Des simulations qui permettent à l'intelligence artificielle de prédire comment fonctionne le monde physique, comment les objets se déplacent et quels seront les résultats."
+    }
+  ]
+}

@@ -1,0 +1,787 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-26",
+  "capturedAt": "2026-10-26T04:52:38.704Z",
+  "editorial": "Heute steht die Neudefinition von Ambitionen in der Softwarearchitektur im Vordergrund, wobei KI-Modelle in ihren Fachgebieten traditionelle Methoden übertreffen. Insbesondere die Tatsache, dass konventionelle Convolutional Neural Networks (CNN) der älteren Generation bei der Diagnose von Hautkrebs aktuelle Large Language Models (LLM) übertreffen, liefert einen wichtigen Beweis für die Effizienz spezialisierter Systeme.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "summary": "Cindy ist ein Open-Source-KI-Agent, der sofort einsatzbereit ist und dazu entwickelt wurde, echte Aufgaben in Ihren Projekten und Anwendungen zu erledigen. Er kombiniert mehrere Modelle und Werkzeuge in einer einzigen Struktur, sodass Benutzer ihre Arbeitsabläufe verwalten können.",
+          "meta": "TypeScript · ★ 5.156 · +675 heute",
+          "snapshot": {
+            "sourceId": "makecindy/cindy",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5156,
+              "engagementCount": 675,
+              "rank": 1,
+              "extra": {
+                "starsToday": 675,
+                "baglam": "readme"
+              }
+            },
+            "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。. Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time."
+          }
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Nutlope/hallmark ist ein Stil-Tool, mit dem Sie Designs erstellen können, die nicht wie von KI generiert aussehen, und zwar für Code-Editoren wie Claude Code, Cursor, Codex und OpenCode. Bei diesem Projekt handelt es sich um eine CSS-Bibliothek, die darauf abzielt, das Standard-Erscheinungsbild von generativen KI-Ausgaben zu verändern.",
+          "meta": "CSS · ★ 34.252 · +1.317 heute",
+          "snapshot": {
+            "sourceId": "Nutlope/hallmark",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 34252,
+              "engagementCount": 1317,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1317,
+                "baglam": "readme"
+              }
+            },
+            "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated."
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio ist eine Open-Source-Plattform, mit der Sie Aufgaben wie Stimmenklonen, Sounddesign, Videosynchronisation und die Erstellung von Hörbüchern lokal auf Ihrem Computer ausführen können. Die Software bietet Diktier- und Transkriptionsunterstützung in 646 verschiedenen Sprachen und stellt damit eine lokale Alternative zu kostenpflichtigen Sprachtechnologien wie ElevenLabs dar.",
+          "meta": "Python · ★ 87.194 · +1.592 heute",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 87194,
+              "engagementCount": 1592,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1592
+              }
+            },
+            "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "pbakaus/impeccable ist eine Designsprache und ein Leitsystem, das für KI-Codierungsagenten entwickelt wurde. Das Projekt bietet 24 Befehle und 62 deterministische Erkennungsregeln, um Frontend-Designprozesse zu verbessern.",
+          "meta": "Rust · ★ 87.958 · +1.092 heute",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 87958,
+              "engagementCount": 1092,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1092,
+                "baglam": "readme"
+              }
+            },
+            "description": "The design language that makes your AI harness better at design. Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI-generated frontend design."
+          }
+        },
+        {
+          "title": "pollen-robotics/microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "summary": "Der von Pollen Robotics entwickelte microduck ist ein zweibeiniger Entenroboter, der etwa 25 Zentimeter groß ist und 800 Gramm wiegt. Die in Rust geschriebene Software, die auf einem Rockchip RK3566-Prozessor läuft, steuert über neuronale Richtlinien (neural policies) die fünfzehn Servomotoren, das Kamerasystem und die Kommunikationseinheiten des Roboters.",
+          "meta": "Rust · ★ 11.832 · +647 heute",
+          "snapshot": {
+            "sourceId": "pollen-robotics/microduck",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11832,
+              "engagementCount": 647,
+              "rank": 5,
+              "extra": {
+                "starsToday": 647,
+                "baglam": "readme"
+              }
+            },
+            "description": "A Tiny biped duck robot 🦆. This repo is the duck's brain. About 25 cm and 800 g of robot, run by a handful of daemons on a Rockchip RK3566: a 50 Hz control loop driving fifteen servos from neural policies, the radios and the camera, and the update machinery that gets new software onto a robot without bricking it."
+          }
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TauricResearch/TradingAgents ist ein auf Multi-KI-Agenten basierendes Handels-Framework, das entwickelt wurde, um die Dynamik an den Finanzmärkten zu imitieren. Agenten, die spezialisierte Large Language Models (LLM) für fundamentale Analysen, Stimmungsanalysen und Risikomanagement nutzen, bewerten Marktbedingungen und treffen in Zusammenarbeit Handelsentscheidungen.",
+          "meta": "Python · ★ 114.843 · +381 heute",
+          "snapshot": {
+            "sourceId": "TauricResearch/TradingAgents",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 114843,
+              "engagementCount": 381,
+              "rank": 6,
+              "extra": {
+                "starsToday": 381,
+                "baglam": "readme"
+              }
+            },
+            "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework. TradingAgents is a multi-agent trading framework that mirrors the dynamics of real-world trading firms. By deploying specialized LLM-powered agents: from fundamental analysts, sentiment experts, and technical analysts, to trader, risk management team, the platform collaboratively evaluates market conditions and informs trading decisions."
+          }
+        },
+        {
+          "title": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "summary": "Renhuai123/ziwei-doushu ist eine Open-Source-Engine, die auf Ni Haixias Tianji-System basiert und Algorithmen zur Berechnung astrologischer Karten sowie einen umfangreichen Datensatz an Interpretationen bietet. Dieses in TypeScript entwickelte Projekt enthält eine umfassende astrologische Analysedatenbank mit 13 Dimensionen, die Daten für den Zeitraum von 1950 bis 2026 abdeckt.",
+          "meta": "TypeScript · ★ 7.841 · +199 heute",
+          "snapshot": {
+            "sourceId": "Renhuai123/ziwei-doushu",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7841,
+              "engagementCount": 199,
+              "rank": 7,
+              "extra": {
+                "starsToday": 199,
+                "baglam": "readme"
+              }
+            },
+            "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据. 1. 发布 13 维解读数据集 v4.0 —— 674,976 张命盘（公历 1950–2026 年每一个真实日期 × 12 时辰 × 男女）× 13 维 = 8,774,688 段解读，正文约 204 亿字。解压后 56.6 GB（v3.0 为 33.1 GB，增加 71%），压缩后只有 161 MB，按年份分 77 个文件，可以只下需要的年份，也可以一次下全年份总包。下载见 Release v4.0-13d，规格和字段见第二·新章。发布前 77 个文件逐个解压，与原始数据逐字节比对一致。"
+          }
+        },
+        {
+          "title": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "summary": "ThinkRail, entwickelt von JetBrains, ist eine agentenbasierte integrierte Entwicklungsumgebung (IDE), die sich an die Arbeitsweise des Benutzers anpasst und ihre Fähigkeiten im Laufe der Zeit durch das Erlernen von Projekteigenschaften verbessert. Dieses in TypeScript geschriebene Tool zielt darauf ab, Softwareentwicklungsprozesse mit einer personalisierten Erfahrung zu unterstützen.",
+          "meta": "TypeScript · ★ 1.980 · +51 heute",
+          "snapshot": {
+            "sourceId": "JetBrains/thinkrail",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1980,
+              "engagementCount": 51,
+              "rank": 8,
+              "extra": {
+                "starsToday": 51,
+                "baglam": "readme"
+              }
+            },
+            "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need. ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow."
+          }
+        },
+        {
+          "title": "coollabsio/coolify",
+          "url": "https://github.com/coollabsio/coolify",
+          "summary": "Coolify ist ein Open-Source-Bereitstellungstool, das als Alternative zu Cloud-Plattformen (PaaS) wie Vercel, Heroku und Netlify angeboten wird. Es ermöglicht Ihnen, mehr als 360 Dienste, einschließlich statischer Websites, Datenbanken und komplexer Anwendungen, einfach auf Ihren eigenen Servern zu hosten.",
+          "meta": "PHP · ★ 64.568 · +152 heute",
+          "snapshot": {
+            "sourceId": "coollabsio/coolify",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "PHP",
+              "popularity": 64568,
+              "engagementCount": 152,
+              "rank": 9,
+              "extra": {
+                "starsToday": 152
+              }
+            },
+            "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers."
+          }
+        },
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "Das von Cloudflare entwickelte security-audit-skill ist ein JavaScript-Tool, das KI-Codierungsagenten in Auditoren verwandelt, die mehrstufige Sicherheitsüberprüfungen durchführen können. Es verwaltet Prozesse wie Erkundung, Schwachstellenscan und strukturierte Berichterstattung, um unabhängig verifizierbare Sicherheitsergebnisse zu generieren.",
+          "meta": "JavaScript · ★ 47.231 · +2.878 heute",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 47231,
+              "engagementCount": 2878,
+              "rank": 10,
+              "extra": {
+                "starsToday": 2878,
+                "baglam": "readme"
+              }
+            },
+            "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting."
+          }
+        },
+        {
+          "title": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "summary": "AgriciDaniel/claude-seo ist ein umfassendes Skill-Set für Claude Code, das technische Suchmaschinenoptimierungsprozesse (SEO) automatisiert. Das Projekt bietet 26 Unter-Skills, 19 Unter-Agenten und Google API-Integrationen (eine digitale Brücke, die es zwei verschiedenen Softwareprogrammen ermöglicht, miteinander zu kommunizieren), um die Sichtbarkeit in Suchmaschinen zu erhöhen.",
+          "meta": "Python · ★ 21.162 · +197 heute",
+          "snapshot": {
+            "sourceId": "AgriciDaniel/claude-seo",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 21162,
+              "engagementCount": 197,
+              "rank": 11,
+              "extra": {
+                "starsToday": 197
+              }
+            },
+            "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "We should be more ambitious with the software we build",
+          "url": "https://danluu.com/ambitious/",
+          "summary": "Diese Ansicht, die argumentiert, dass in Softwareentwicklungsprozessen ehrgeizigere Projekte angestrebt werden sollten, betont, dass die vorhandenen technologischen Möglichkeiten ausreichen, um groß angelegte und effektive Lösungen zu produzieren. Es wird hervorgehoben, dass die Erhöhung der Erwartungen in der Softwarewelt zu Fortschritten bei Innovation und Benutzererfahrung führen wird.",
+          "meta": "766 Punkte · 699 Kommentare",
+          "snapshot": {
+            "sourceId": "50225695",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 766,
+              "engagementCount": 699,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50225695",
+                  "popularity": 766,
+                  "engagementCount": 699
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-24T21:47:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50225695"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50225695",
+              "popularity": 766,
+              "engagementCount": 699
+            }
+          ]
+        },
+        {
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "summary": "Von einem Dermatologen durchgeführte Tests zeigen, dass ein 10 Jahre altes Convolutional Neural Network (CNN)-Modell bei der Diagnose von Hautkrebs eine höhere Genauigkeit aufweist als aktuelle große Sprachmodelle (LLM) wie GPT-6 Astra und Claude Fable 5.1. Die Forschung zeigt, dass spezialisierte Bildverarbeitungsmodelle der alten Generation in medizinischen Diagnoseprozessen gegenüber KI-Technologien der neuen Generation wettbewerbsfähig bleiben können.",
+          "meta": "494 Punkte · 224 Kommentare",
+          "snapshot": {
+            "sourceId": "50233779",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 494,
+              "engagementCount": 224,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50233779",
+                  "popularity": 494,
+                  "engagementCount": 224
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-25T17:15:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50233779",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "I am a dermatologist. I tested the ability of GPT-6 Astra and Claude Fable 5.1 to diagnosis skin cancer and found that they were less accurate than I expected. I compared to a 10-year old CNN and to my surprise found that this was superior."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50233779",
+              "popularity": 494,
+              "engagementCount": 224
+            }
+          ]
+        },
+        {
+          "title": "Dolly Parton's Imagination Library",
+          "url": "https://imaginationlibrary.com/",
+          "summary": "Dolly Parton's Imagination Library ist eine Initiative zur sozialen Verantwortung, die die Alphabetisierung im frühen Kindesalter fördert, indem sie Kindern jeden Monat kostenlose Bücher schickt. Das Programm zielt darauf ab, eine gemeinschaftsbasierte Lesegewohnheit zu etablieren, um Kindern dabei zu helfen, ihre Träume zu verwirklichen.",
+          "meta": "463 Punkte · 85 Kommentare",
+          "snapshot": {
+            "sourceId": "50234474",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 463,
+              "engagementCount": 85,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50234474",
+                  "popularity": 463,
+                  "engagementCount": 85
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-25T18:23:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50234474"
+              }
+            },
+            "description": "With today&#x27;s news, I thought I&#x27;d share this great program:“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, may"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50234474",
+              "popularity": 463,
+              "engagementCount": 85
+            }
+          ]
+        },
+        {
+          "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+          "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+          "summary": "Die Polizei von Oregon forderte eine Gebühr in Höhe von 2,5 Millionen Dollar für Unterlagen eines Polizeibeamten, die von der lokalen Nachrichtenorganisation Double Sided Media angefordert wurden. Dies führte zu Diskussionen über die Zugänglichkeit öffentlicher Aufzeichnungen und das Recht auf Informationsfreiheit.",
+          "meta": "438 Punkte · 118 Kommentare",
+          "snapshot": {
+            "sourceId": "50234232",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 438,
+              "engagementCount": 118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50234232",
+                  "popularity": 438,
+                  "engagementCount": 118
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-25T18:04:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50234232",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Eugene-based Double Sided Media requested police officer Justin Peckels’s records. The city slapped the publication with an exorbitant fee."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50234232",
+              "popularity": 438,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+          "url": "https://talkweb.eu/openweb/4558/",
+          "summary": "Ein Autor, der seine Haltung gegen Internetzensur zum Ausdruck bringt, lädt die Teilnehmer ein, sich auf der FOSDEM 27 zu versammeln. Im Rahmen der FOSDEM, dem Treffpunkt der Open-Source-Software-Community, zielt er darauf ab, die Bemühungen für ein freies Internet zu diskutieren.",
+          "meta": "430 Punkte · 207 Kommentare",
+          "snapshot": {
+            "sourceId": "50233929",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 430,
+              "engagementCount": 207,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50233929",
+                  "popularity": 430,
+                  "engagementCount": 207
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-25T17:30:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50233929"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50233929",
+              "popularity": 430,
+              "engagementCount": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Das auf Hugging Face geteilte deepseek-ai/DeepSeek-V4.1-Flash-1017 ist ein KI-Modell, das bild- und textbasierte Eingaben verarbeiten kann. Das Modell, das im Vergleich zur Vorgängerversion Verbesserungen in Bereichen wie logischem Denken, Programmierung und visueller Analyse bietet, zielt darauf ab, die Kosteneffizienz durch Reduzierung der Verarbeitungszeit und Ausgabelänge zu steigern.",
+          "meta": "♥ 3.017 · 85.275 Downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-26T04:52:38.821Z",
+            "metadata": {
+              "popularity": 3017,
+              "engagementCount": 85275,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1172,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "RecursiveSI/flint",
+          "url": "https://huggingface.co/RecursiveSI/flint",
+          "summary": "RecursiveSI/flint ist ein für Coding-Agenten entwickeltes Textgenerierungsmodell mit einer Mixture-of-Experts-Architektur. Das Modell, das insgesamt 39,8 Milliarden Parameter enthält, wurde entwickelt, um Codebasen zu untersuchen, Fehler zu beheben, neue Funktionen hinzuzufügen und Tests zu schreiben.",
+          "meta": "♥ 865 · 6.444 Downloads",
+          "snapshot": {
+            "sourceId": "RecursiveSI/flint",
+            "capturedAt": "2026-10-26T04:52:38.821Z",
+            "metadata": {
+              "popularity": 865,
+              "engagementCount": 6444,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 833,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "flint",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs, implement features, and write tests."
+          }
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "Das von Black Forest Labs entwickelte flux-3-image-klein-comfy ist ein KI-Modell, das eine Image-to-Image-Transformation ermöglicht. Es erlaubt Benutzern, auf Basis vorhandener Bilder neue Ausgaben zu generieren.",
+          "meta": "♥ 1.613 · 660.874 Downloads",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-26T04:52:38.821Z",
+            "metadata": {
+              "popularity": 1613,
+              "engagementCount": 660874,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 495,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        },
+        {
+          "title": "XHToken/Spark-X2.6-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "summary": "Das auf Hugging Face veröffentlichte Spark-X2.6-4B ist ein KI-Modell mit Textgenerierungsfähigkeiten. Das Modell, das dieselbe Architektur wie sein Vorgänger verwendet, bietet dank Verbesserungen im Post-Training-Prozess Leistungssteigerungen in Bereichen wie Programmierung, logischem Denken und mehrsprachiger Verarbeitung.",
+          "meta": "♥ 532 · 3.488 Downloads",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.6-4B",
+            "capturedAt": "2026-10-26T04:52:38.821Z",
+            "metadata": {
+              "popularity": 532,
+              "engagementCount": 3488,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 466,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "zh",
+                  "base_model:XHToken/Spark-X2.6-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.6-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improved post-training. It delivers substantial improvements in coding, agent, long-context, multilingual, reasoning, etc. These advances enable more capable and practical on-device AI for developers and users tackling real-world tasks."
+          }
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "summary": "Nanbeige/Nanbeige4.3-33B ist ein Textgenerierungsmodell, das für die Entwicklung leichter KI-Agenten (lightweight agents) konzipiert wurde. Entwickler verfolgen die Strategie, einen Lehrer-Agenten mit hoher Kapazität zu erstellen und diese fortgeschrittenen Fähigkeiten durch Destillation auf kleinere Modelle zu übertragen.",
+          "meta": "♥ 420 · 0 Downloads",
+          "snapshot": {
+            "sourceId": "Nanbeige/Nanbeige4.3-33B",
+            "capturedAt": "2026-10-26T04:52:38.821Z",
+            "metadata": {
+              "popularity": 420,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 418,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "llm",
+                  "nanbeige",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+                  "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teacher agent first, which will subsequently anchor the distillation of advanced agentic capabilities into smaller models."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
+          "url": "https://huggingface.co/papers/2610.31066",
+          "summary": "Dual Exam ist eine Methode, die entwickelt wurde, um die Interaktion zwischen multimodalen KI-Agenten und Weltmodellen zu bewerten. Dieser Ansatz zielt darauf ab, die Leistung der Systeme zu messen, indem die Aktionsentscheidungen der Agenten und die Zustandsentwicklung der Weltmodelle in verschiedenen Bereichen separat getestet werden.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.31066",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31066",
+                "publishedAt": "2026-10-22T00:00:00.000Z"
+              }
+            },
+            "description": "World Models (WMs) can support Multimodal Agents (MAs) through simulated experience, while Agent trajectories can inform World Model refinement. Evaluating this interaction requires separate evidence about action selection and state evolution. We introduce Dual Exam, which tests Agents under fixed environment response mechanisms and World Models under fixed action interventions across physical, digital, social, and scientific domains. The Agent track compares 10 configurations on 1,088 items in "
+          }
+        },
+        {
+          "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
+          "url": "https://huggingface.co/papers/2610.31162",
+          "summary": "HiSTEVE 1.0 zielt darauf ab, virtuelle verkörperte Agenten (virtual embodied agents) zu entwickeln, die sich in Open-World-Spielen wie menschliche Spieler verhalten können. Es bietet eine Struktur, die langfristige Autonomie mit lokaler Schnittstellensteuerung in prozedural generierten Welten wie Minecraft kombiniert.",
+          "meta": "16 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.31162",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 16,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31162",
+                "publishedAt": "2026-10-22T00:00:00.000Z"
+              }
+            },
+            "description": "Building virtual embodied agents that operate in open-ended games like human players is a long-standing goal requiring both long-horizon autonomy and reliable native-interface control. As a procedurally generated open world, Minecraft provides a natural testbed for studying the integration of these capabilities. Existing agents typically provide either native visuomotor control without long-horizon autonomy or high-level planning executed through environment APIs or predefined skills. To bridge "
+          }
+        },
+        {
+          "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
+          "url": "https://huggingface.co/papers/2610.17821",
+          "summary": "Der von Hugging Face geteilte FLOMSS-Artikel untersucht die Verwendung der Flow-Matching-Methode bei der Musikquellentrennung (music source separation). Die Studie präsentiert einen generativen Ansatz, um Gesang, Bass, Schlagzeug und andere Instrumente im Full-Band-Stereoformat voneinander zu trennen.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.17821",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.17821",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            },
+            "description": "Music source separation (MSS) has been conventionally addressed by discriminative methods. Recently, flow matching has emerged as a strong generative paradigm for modeling complex data distributions, with successful applications across diverse domains. These advances motivate us to systematically investigate flow matching for MSS in a four-source (Vocals, Bass, Drums, Other) setting in full-band stereo. Specifically, we investigate prediction targets, flow paths, single-source versus multi-sourc"
+          }
+        },
+        {
+          "title": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
+          "url": "https://huggingface.co/papers/2610.32250",
+          "summary": "Easy-3Dfy bietet einen kompositionellen Arbeitsablauf, der bei der Erstellung dreidimensionaler Szenen aus einem einzigen Bild die Objektgenerierung von der Szenenplatzierung trennt. Diese Methode zielt darauf ab, den Detailgrad und die Qualität der Assets in 3D-Szenen durch objektbasierte geometrische Bearbeitung zu verbessern.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.32250",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.32250",
+                "publishedAt": "2026-10-23T00:00:00.000Z"
+              }
+            },
+            "description": "Single-image 3D scene construction is a fundamental problem in 3D vision. Recent methods such as SAM-3Dfy enable end-to-end reconstruction of 3D assets and their scene layouts, but still struggle with fine-grained scene geometry and asset quality. Meanwhile, specialized 3D object generators provide detailed object geometry, while 3D foundation models offer strong and generalizable spatial understanding. We propose Easy-3Dfy, a compositional workflow that decouples object generation from scene la"
+          }
+        },
+        {
+          "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+          "url": "https://huggingface.co/papers/2610.32253",
+          "summary": "RSIHub ist ein Open-Source-Framework, das darauf abzielt, Methoden zur Verbesserung der Fähigkeiten von KI-Agenten zu standardisieren. Es ermöglicht Forschern, auf einer gemeinsamen Infrastruktur zu experimentieren und erleichtert Prozesse wie Ausführung, Bewertung und Wiederherstellung.",
+          "meta": "19 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.32253",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.32253",
+                "publishedAt": "2026-10-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/simple-agent-lab/RSIHub",
+                "githubStars": 186
+              }
+            },
+            "description": "Agent-evolution methods use execution feedback to improve prompts, skills, tools, and orchestration, but their implementations often rebuild the same experimental machinery. We present RSIHub, an open-source framework for building, comparing, and extending these methods on shared infrastructure. Recipes compose reusable operators and declare mutable resources; RSIHub supplies execution, evaluation, recovery, and lineage. Researchers can focus on evolution policy while evaluation stays outside th"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "Eine Art von Software, deren Quellcode für jeden zugänglich ist, um ihn zu überprüfen und weiterzuentwickeln."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "KI-Technologie, die in der Lage ist, auf Basis gegebener Befehle neue Inhalte wie Texte, Bilder oder Audio zu generieren."
+    },
+    {
+      "term": "frontend design",
+      "explanation": "Der Prozess der Gestaltung der visuellen Teile einer Software oder Website, die Benutzer sehen und mit denen sie interagieren."
+    },
+    {
+      "term": "neural policies",
+      "explanation": "Entscheidungsmechanismen, die mithilfe künstlicher neuronaler Netze bestimmen, wie sich ein Roboter oder ein System in bestimmten Situationen verhalten soll."
+    },
+    {
+      "term": "LLM",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden und menschliche Sprache verstehen sowie Texte generieren können."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Ein umfassendes Softwareentwicklungstool, das es Programmierern erleichtert, Code zu schreiben, zu bearbeiten und Fehler zu beheben."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Cloud-basierte Dienste, die es Entwicklern ermöglichen, ihre Anwendungen direkt im Internet zu veröffentlichen, ohne sich um die Serververwaltung kümmern zu müssen."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Technische Anpassungen und Optimierungen, die vorgenommen werden, damit Websites in Suchmaschinen einen höheren Rang erreichen."
+    },
+    {
+      "term": "CNN",
+      "explanation": "Eine von biologischen Sehsystemen inspirierte KI-Architektur, die speziell zur Verarbeitung und Analyse von visuellen Daten verwendet wird."
+    },
+    {
+      "term": "mixture-of-experts",
+      "explanation": "Eine Architektur, die anstatt ein großes Modell als Ganzes auszuführen, kleine, auf verschiedene Aufgaben spezialisierte Teilmodelle kombiniert."
+    },
+    {
+      "term": "image-to-image",
+      "explanation": "Ein KI-Prozess, der ein Bild als Eingabe nimmt und es in einen anderen Stil oder ein anderes Format umwandelt."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Die Fähigkeit der KI, gemäß den ihr gegebenen Anweisungen sinnvolle Texte zu generieren."
+    },
+    {
+      "term": "lightweight agents",
+      "explanation": "Weniger komplexe KI-Software, die mit geringen Systemressourcen schnell und effizient arbeiten kann."
+    },
+    {
+      "term": "distillation",
+      "explanation": "Eine Methode, bei der das Wissen eines großen und komplexen KI-Modells auf ein kleineres und schnelleres Modell übertragen wird."
+    },
+    {
+      "term": "multimodal agents",
+      "explanation": "KI-Agenten, die nicht nur Text, sondern gleichzeitig auch Bilder, Audio und andere Datentypen verarbeiten und verstehen können."
+    },
+    {
+      "term": "world models",
+      "explanation": "Simulationen, die es der KI ermöglichen vorherzusagen, wie die physische Welt funktioniert, wie sich Objekte bewegen und was die Ergebnisse sein werden."
+    }
+  ]
+}

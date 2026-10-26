@@ -1,0 +1,502 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-26",
+  "capturedAt": "2026-10-26T04:52:38.704Z",
+  "editorial": "Rapora dahil edilen içerikler 30 gün boyunca tekrarlanmaz. Bu sürenin sonunda gündemde kalmaya devam eden kayıtlar, \"yeniden gündemde\" etiketiyle tekrar listelenir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio, ses klonlama, ses tasarımı, video dublajı ve sesli kitap oluşturma gibi işlemleri yerel bilgisayarınızda gerçekleştirmenize olanak tanıyan açık kaynaklı (open source) bir platformdur. Yazılım, 646 farklı dilde dikte ve transkripsiyon desteği sunarak ElevenLabs gibi ücretli ses teknolojilerine yerel bir alternatif oluşturuyor.",
+          "meta": "Python · ★ 87.194 · +1.592 bugün",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 87194,
+              "engagementCount": 1592,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1592
+              }
+            },
+            "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+          },
+          "returning": true
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TauricResearch/TradingAgents, finansal piyasalardaki dinamikleri taklit etmek için geliştirilmiş çoklu yapay zekâ ajanı tabanlı bir alım satım çerçevesidir. Temel analiz, duygu analizi ve risk yönetimi gibi özelleşmiş büyük dil modelleri (LLM) kullanan ajanlar, piyasa koşullarını değerlendirerek iş birliği içinde alım satım kararları üretir.",
+          "meta": "Python · ★ 114.843 · +381 bugün",
+          "snapshot": {
+            "sourceId": "TauricResearch/TradingAgents",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 114843,
+              "engagementCount": 381,
+              "rank": 6,
+              "extra": {
+                "starsToday": 381,
+                "baglam": "readme"
+              }
+            },
+            "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework. TradingAgents is a multi-agent trading framework that mirrors the dynamics of real-world trading firms. By deploying specialized LLM-powered agents: from fundamental analysts, sentiment experts, and technical analysts, to trader, risk management team, the platform collaboratively evaluates market conditions and informs trading decisions."
+          },
+          "returning": true
+        },
+        {
+          "title": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "summary": "JetBrains tarafından geliştirilen ThinkRail, kullanıcı çalışma biçimine göre kendini özelleştiren ve proje özelliklerini öğrenerek yeteneklerini zamanla geliştiren ajan tabanlı bir tümleşik geliştirme ortamı (IDE). TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini kişiselleştirilmiş bir deneyimle desteklemeyi hedefliyor.",
+          "meta": "TypeScript · ★ 1.980 · +51 bugün",
+          "snapshot": {
+            "sourceId": "JetBrains/thinkrail",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1980,
+              "engagementCount": 51,
+              "rank": 8,
+              "extra": {
+                "starsToday": 51,
+                "baglam": "readme"
+              }
+            },
+            "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need. ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow."
+          }
+        },
+        {
+          "title": "coollabsio/coolify",
+          "url": "https://github.com/coollabsio/coolify",
+          "summary": "Coolify, Vercel, Heroku ve Netlify gibi bulut platformlarına (PaaS) alternatif olarak sunulan açık kaynaklı bir dağıtım aracıdır. Statik siteler, veritabanları ve kapsamlı uygulamalar dahil olmak üzere 360'tan fazla servisi kendi sunucularınız üzerinde kolayca barındırmanıza olanak tanır.",
+          "meta": "PHP · ★ 64.568 · +152 bugün",
+          "snapshot": {
+            "sourceId": "coollabsio/coolify",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "PHP",
+              "popularity": 64568,
+              "engagementCount": 152,
+              "rank": 9,
+              "extra": {
+                "starsToday": 152
+              }
+            },
+            "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers."
+          }
+        },
+        {
+          "title": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "summary": "AgriciDaniel/claude-seo, Claude Code için geliştirilmiş, teknik arama motoru optimizasyonu (SEO) süreçlerini otomatikleştiren kapsamlı bir yetenek setidir. Proje, arama motoru görünürlüğünü artırmak amacıyla 26 alt yetenek ve 19 alt ajan ile Google API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) entegrasyonları sunar.",
+          "meta": "Python · ★ 21.162 · +197 bugün",
+          "snapshot": {
+            "sourceId": "AgriciDaniel/claude-seo",
+            "capturedAt": "2026-10-26T04:52:39.832Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 21162,
+              "engagementCount": 197,
+              "rank": 11,
+              "extra": {
+                "starsToday": 197
+              }
+            },
+            "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "We should be more ambitious with the software we build",
+          "url": "https://danluu.com/ambitious/",
+          "summary": "Yazılım geliştirme süreçlerinde daha iddialı projelerin hedeflenmesi gerektiğini savunan bu görüş, mevcut teknolojik imkânların daha büyük ölçekli ve etkili çözümler üretmek için yeterli olduğunu vurguluyor. Yazılım dünyasındaki beklentilerin yükseltilmesinin, inovasyon ve kullanıcı deneyimi açısından gelişim sağlayacağı üzerinde duruluyor.",
+          "meta": "766 oy · 699 yorum",
+          "snapshot": {
+            "sourceId": "50225695",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 766,
+              "engagementCount": 699,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50225695",
+                  "popularity": 766,
+                  "engagementCount": 699
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-24T21:47:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50225695"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50225695",
+              "popularity": 766,
+              "engagementCount": 699
+            }
+          ]
+        },
+        {
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "summary": "Bir dermatolog tarafından gerçekleştirilen testler, 10 yıllık bir evrişimli sinir ağı (CNN) modelinin cilt kanseri teşhisinde GPT-6 Astra ve Claude Fable 5.1 gibi güncel büyük dil modellerinden (LLM) daha yüksek doğruluk sergilediğini gösteriyor. Araştırma, uzmanlaşmış eski nesil görüntü işleme modellerinin tıbbi tanılama süreçlerinde yeni nesil yapay zekâ teknolojilerine karşı rekabetçi kalabildiğini ortaya koyuyor.",
+          "meta": "494 oy · 224 yorum",
+          "snapshot": {
+            "sourceId": "50233779",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 494,
+              "engagementCount": 224,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50233779",
+                  "popularity": 494,
+                  "engagementCount": 224
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-25T17:15:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50233779",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "I am a dermatologist. I tested the ability of GPT-6 Astra and Claude Fable 5.1 to diagnosis skin cancer and found that they were less accurate than I expected. I compared to a 10-year old CNN and to my surprise found that this was superior."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50233779",
+              "popularity": 494,
+              "engagementCount": 224
+            }
+          ]
+        },
+        {
+          "title": "Dolly Parton's Imagination Library",
+          "url": "https://imaginationlibrary.com/",
+          "summary": "Dolly Parton's Imagination Library, çocuklara her ay ücretsiz kitap göndererek erken yaşta okuryazarlığı teşvik eden bir sosyal sorumluluk girişimidir. Program, çocukların hayallerini gerçekleştirmelerine yardımcı olmak amacıyla topluluk temelli bir okuma alışkanlığı kazandırmayı hedefler.",
+          "meta": "463 oy · 85 yorum",
+          "snapshot": {
+            "sourceId": "50234474",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 463,
+              "engagementCount": 85,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50234474",
+                  "popularity": 463,
+                  "engagementCount": 85
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-25T18:23:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50234474"
+              }
+            },
+            "description": "With today&#x27;s news, I thought I&#x27;d share this great program:“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, may"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50234474",
+              "popularity": 463,
+              "engagementCount": 85
+            }
+          ]
+        },
+        {
+          "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+          "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+          "summary": "Oregon polisi, yerel haber kuruluşu Double Sided Media tarafından talep edilen bir polis memuruna ait kayıtlar için 2,5 milyon dolar tutarında ücret talep etti. Bu durum, kamuya açık kayıtların erişilebilirliği ve bilgi edinme hakkı konusunda tartışmalara yol açtı.",
+          "meta": "438 oy · 118 yorum",
+          "snapshot": {
+            "sourceId": "50234232",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 438,
+              "engagementCount": 118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50234232",
+                  "popularity": 438,
+                  "engagementCount": 118
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-25T18:04:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50234232",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Eugene-based Double Sided Media requested police officer Justin Peckels’s records. The city slapped the publication with an exorbitant fee."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50234232",
+              "popularity": 438,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+          "url": "https://talkweb.eu/openweb/4558/",
+          "summary": "İnternet sansürüne karşı duruşunu ifade eden bir yazar, katılımcıları FOSDEM 27 etkinliğinde bir araya gelmeye davet ediyor. Açık kaynaklı yazılım topluluğunun buluşma noktası olan FOSDEM kapsamında, internetin özgür kalması için yürütülen çalışmaları tartışmayı hedefliyor.",
+          "meta": "430 oy · 207 yorum",
+          "snapshot": {
+            "sourceId": "50233929",
+            "capturedAt": "2026-10-26T04:52:38.968Z",
+            "metadata": {
+              "popularity": 430,
+              "engagementCount": 207,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50233929",
+                  "popularity": 430,
+                  "engagementCount": 207
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-25T17:30:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50233929"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50233929",
+              "popularity": 430,
+              "engagementCount": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "summary": "Nanbeige/Nanbeige4.3-33B, hafif yapay zekâ ajanları (lightweight agents) geliştirmek amacıyla tasarlanmış bir metin üretme modeli. Geliştiriciler, yüksek kapasiteli bir öğretmen ajan oluşturarak bu gelişmiş yetenekleri daha küçük modellere damıtma (distillation) stratejisini izliyor.",
+          "meta": "♥ 420 · 0 indirme",
+          "snapshot": {
+            "sourceId": "Nanbeige/Nanbeige4.3-33B",
+            "capturedAt": "2026-10-26T04:52:38.821Z",
+            "metadata": {
+              "popularity": 420,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 418,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "llm",
+                  "nanbeige",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+                  "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teacher agent first, which will subsequently anchor the distillation of advanced agentic capabilities into smaller models."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
+          "url": "https://huggingface.co/papers/2610.31066",
+          "summary": "Dual Exam, çok modlu yapay zekâ ajanları (multimodal agents) ve dünya modelleri (world models) arasındaki etkileşimi değerlendirmek için geliştirilmiş bir yöntemdir. Bu yaklaşım, ajanların eylem seçimlerini ve dünya modellerinin durum evrimini farklı alanlarda ayrı ayrı test ederek sistemlerin performansını ölçmeyi hedefler.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.31066",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31066",
+                "publishedAt": "2026-10-22T00:00:00.000Z"
+              }
+            },
+            "description": "World Models (WMs) can support Multimodal Agents (MAs) through simulated experience, while Agent trajectories can inform World Model refinement. Evaluating this interaction requires separate evidence about action selection and state evolution. We introduce Dual Exam, which tests Agents under fixed environment response mechanisms and World Models under fixed action interventions across physical, digital, social, and scientific domains. The Agent track compares 10 configurations on 1,088 items in "
+          }
+        },
+        {
+          "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
+          "url": "https://huggingface.co/papers/2610.31162",
+          "summary": "HiSTEVE 1.0, açık uçlu oyunlarda insan oyuncular gibi hareket edebilen sanal cisimleşmiş ajanlar (virtual embodied agents) geliştirmeyi amaçlıyor. Minecraft gibi prosedürel olarak oluşturulan dünyalarda uzun vadeli özerklik ile yerel arayüz kontrolünü birleştiren bir yapı sunuyor.",
+          "meta": "16 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.31162",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 16,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31162",
+                "publishedAt": "2026-10-22T00:00:00.000Z"
+              }
+            },
+            "description": "Building virtual embodied agents that operate in open-ended games like human players is a long-standing goal requiring both long-horizon autonomy and reliable native-interface control. As a procedurally generated open world, Minecraft provides a natural testbed for studying the integration of these capabilities. Existing agents typically provide either native visuomotor control without long-horizon autonomy or high-level planning executed through environment APIs or predefined skills. To bridge "
+          }
+        },
+        {
+          "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
+          "url": "https://huggingface.co/papers/2610.17821",
+          "summary": "Hugging Face tarafından paylaşılan FLOMSS makalesi, müzik kaynak ayırma (music source separation) işlemlerinde akış eşleştirme (flow matching) yönteminin kullanımını inceliyor. Çalışma, vokal, bas, davul ve diğer enstrümanları tam bant stereo formatında birbirinden ayırmak için üretken bir yaklaşım sunuyor.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.17821",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.17821",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            },
+            "description": "Music source separation (MSS) has been conventionally addressed by discriminative methods. Recently, flow matching has emerged as a strong generative paradigm for modeling complex data distributions, with successful applications across diverse domains. These advances motivate us to systematically investigate flow matching for MSS in a four-source (Vocals, Bass, Drums, Other) setting in full-band stereo. Specifically, we investigate prediction targets, flow paths, single-source versus multi-sourc"
+          }
+        },
+        {
+          "title": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
+          "url": "https://huggingface.co/papers/2610.32250",
+          "summary": "Easy-3Dfy, tek bir görselden üç boyutlu sahne oluşturma sürecinde nesne üretimi ile sahne yerleşimini birbirinden ayıran bileşimsel bir iş akışı sunuyor. Bu yöntem, nesne tabanlı geometrik düzenleme sayesinde üç boyutlu sahnelerin ayrıntı seviyesini ve varlık kalitesini artırmayı hedefliyor.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.32250",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.32250",
+                "publishedAt": "2026-10-23T00:00:00.000Z"
+              }
+            },
+            "description": "Single-image 3D scene construction is a fundamental problem in 3D vision. Recent methods such as SAM-3Dfy enable end-to-end reconstruction of 3D assets and their scene layouts, but still struggle with fine-grained scene geometry and asset quality. Meanwhile, specialized 3D object generators provide detailed object geometry, while 3D foundation models offer strong and generalizable spatial understanding. We propose Easy-3Dfy, a compositional workflow that decouples object generation from scene la"
+          }
+        },
+        {
+          "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+          "url": "https://huggingface.co/papers/2610.32253",
+          "summary": "RSIHub, yapay zekâ ajanlarının yeteneklerini geliştiren yöntemleri standartlaştırmayı hedefleyen açık kaynaklı bir çerçeve (framework). Araştırmacıların ortak altyapı üzerinde deney yapmasına olanak tanıyarak yürütme, değerlendirme ve kurtarma gibi süreçleri kolaylaştırıyor.",
+          "meta": "19 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.32253",
+            "capturedAt": "2026-10-26T04:52:38.827Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.32253",
+                "publishedAt": "2026-10-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/simple-agent-lab/RSIHub",
+                "githubStars": 186
+              }
+            },
+            "description": "Agent-evolution methods use execution feedback to improve prompts, skills, tools, and orchestration, but their implementations often rebuild the same experimental machinery. We present RSIHub, an open-source framework for building, comparing, and extending these methods on shared infrastructure. Recipes compose reusable operators and declare mutable resources; RSIHub supplies execution, evaluation, recovery, and lineage. Researchers can focus on evolution policy while evaluation stays outside th"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "Kaynak kodları herkesin erişimine, incelemesine ve geliştirmesine açık olan yazılım türü."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Yazılımcıların kod yazmasını, düzenlemesini ve hataları ayıklamasını kolaylaştıran kapsamlı yazılım geliştirme aracı."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Yazılımcıların uygulamalarını sunucu yönetimiyle uğraşmadan doğrudan internet üzerinde yayınlamasını sağlayan bulut tabanlı hizmetler."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Web sitelerinin arama motorlarında daha üst sıralarda yer alması için yapılan teknik düzenlemeler ve iyileştirmeler."
+    },
+    {
+      "term": "CNN",
+      "explanation": "Özellikle görsel verileri işlemek ve analiz etmek için kullanılan, biyolojik görme sistemlerinden esinlenmiş bir yapay zekâ mimarisi."
+    },
+    {
+      "term": "lightweight agents",
+      "explanation": "Düşük sistem kaynaklarıyla hızlı ve verimli çalışabilen, daha az karmaşık yapay zekâ yazılımları."
+    },
+    {
+      "term": "distillation",
+      "explanation": "Büyük ve karmaşık bir yapay zekâ modelinin sahip olduğu bilgiyi, daha küçük ve hızlı bir modele aktarma yöntemi."
+    },
+    {
+      "term": "multimodal agents",
+      "explanation": "Sadece metinle değil; görsel, ses ve diğer veri türlerini de aynı anda işleyip anlayabilen yapay zekâ ajanları."
+    },
+    {
+      "term": "world models",
+      "explanation": "Yapay zekânın fiziksel dünyanın nasıl işlediğini, nesnelerin nasıl hareket ettiğini ve sonuçların ne olacağını tahmin etmesini sağlayan simülasyonlar."
+    }
+  ]
+}
