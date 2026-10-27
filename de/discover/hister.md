@@ -2,16 +2,16 @@
 
 Indiziert lokal besuchte Webseiten und gespeicherte Dateien und bietet Volltextsuche sowie erweiterte Abfragefilter. Optionales semantisches Suchen sendet Dokumenttext an die gewählte Embeddings-Endpoint.
 
-- ★ 5.740
+- ★ 6.162
 - Go
 - GitHub Trending · 2026-08-25
 
 ## Aktualisierungen
 
+- **27. Oktober 2026:** Sterne 5,740 → 6,162, neueste Version v0.21.0 (27. Oktober 2026).
 - **27. September 2026:** Sterne 4,602 → 5,740, neueste Version v0.20.0 (24. September 2026).
 - **18. September 2026:** Sterne 3,574 → 4,602, neueste Version v0.19.0 (3. September 2026).
 - **4. September 2026:** Sterne 3,100 → 3,574, neueste Version v0.19.0 (3. September 2026).
-- **27. August 2026:** Sterne 2,620 → 3,100, neueste Version v0.18.0 (23. August 2026).
 
 ## Installation
 

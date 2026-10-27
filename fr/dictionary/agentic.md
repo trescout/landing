@@ -44,10 +44,10 @@ Non, la plupart des IA sont des systèmes passifs qui attendent simplement votre
 - [MinerU](https://trescout.com/fr/discover/mineru/)
 - [OpenMontage](https://trescout.com/fr/discover/openmontage/)
 - [Claude Code Best Practice](https://trescout.com/fr/discover/claude-code-best-practice/)
+- [Postiz App](https://trescout.com/fr/discover/postiz-app/)
 - [Kilocode](https://trescout.com/fr/discover/kilocode/)
 - [Pm Skills](https://trescout.com/fr/discover/pm-skills/)
 - [Personal_AI_Infrastructure](https://trescout.com/fr/discover/personal-ai-infrastructure/)
-- [Production Agentic RAG Course](https://trescout.com/fr/discover/production-agentic-rag-course/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/agentic/)
 

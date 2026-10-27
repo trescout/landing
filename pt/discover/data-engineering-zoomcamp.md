@@ -2,13 +2,14 @@
 
 Data Engineering Zoomcamp é um curso gratuito de nove semanas oferecido pelo DataTalksClub que cobre a criação de pipelines de dados prontos para produção. Ele oferece um currículo prático e baseado em projetos.
 
-- ★ 44.237
+- ★ 46.451
 - Kurs
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
 ## Atualizações
 
+- **27 de outubro de 2026:** Estrelas 44,237 → 46,451.
 - **2 de agosto de 2026:** Estrelas 41,734 → 44,237.
 
 ## O que você aprende?

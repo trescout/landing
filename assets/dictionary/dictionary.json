@@ -9839,5 +9839,70 @@
     "kisa_es": "Son agentes de inteligencia artificial que procesan simultáneamente diferentes tipos de datos, como texto, imagen, audio y video, para tomar decisiones y actuar.",
     "kisa_pt": "São agentes de inteligência artificial que processam diferentes tipos de dados, como texto, imagem, áudio e vídeo simultaneamente, para tomar decisões e agir.",
     "kisa_de": "Es handelt sich um KI-Agenten, die verschiedene Datentypen wie Text, Bilder, Audio und Video gleichzeitig verarbeiten, um Entscheidungen zu treffen und zu handeln."
+  },
+  {
+    "slug": "rce",
+    "en": "Remote Code Execution",
+    "full": "Remote Code Execution",
+    "cat": "dev",
+    "kisa": "Bir saldırganın uzaktaki bir bilgisayarda kendi kodunu çalıştırmasını sağlayan kritik bir güvenlik açığıdır.",
+    "date": "2026-10-27",
+    "kisa_en": "It is a critical security vulnerability that allows an attacker to execute their own code on a remote computer.",
+    "kisa_fr": "Il s'agit d'une vulnérabilité critique qui permet à un attaquant d'exécuter son propre code sur un ordinateur distant.",
+    "kisa_pt": "É uma vulnerabilidade de segurança crítica que permite que um invasor execute seu próprio código em um computador remoto.",
+    "kisa_es": "Es una vulnerabilidad de seguridad crítica que permite a un atacante ejecutar su propio código en una computadora remota.",
+    "kisa_de": "Dies ist eine kritische Sicherheitslücke, die es einem Angreifer ermöglicht, eigenen Code auf einem entfernten Computer auszuführen."
+  },
+  {
+    "slug": "lifelong-personalized-tutoring",
+    "en": "Lifelong Personalized Tutoring",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ destekli sistemlerin kullanıcının öğrenme sürecine göre kendini sürekli güncellediği kişiselleştirilmiş eğitim modelidir.",
+    "date": "2026-10-27",
+    "kisa_en": "It is a personalized education model where AI-powered systems continuously update themselves according to the user's learning process.",
+    "kisa_fr": "Il s'agit d'un modèle d'apprentissage personnalisé dans lequel les systèmes assistés par intelligence artificielle se mettent continuellement à jour en fonction du processus d'apprentissage de l'utilisateur.",
+    "kisa_pt": "É um modelo de educação personalizado onde sistemas baseados em inteligência artificial se atualizam continuamente de acordo com o processo de aprendizagem do usuário.",
+    "kisa_es": "Es un modelo de educación personalizada en el que los sistemas basados en inteligencia artificial se actualizan continuamente según el proceso de aprendizaje del usuario.",
+    "kisa_de": "Dies ist ein personalisiertes Bildungsmodell, bei dem KI-gestützte Systeme sich kontinuierlich an den Lernprozess des Benutzers anpassen."
+  },
+  {
+    "slug": "living-specs",
+    "en": "Living Specs",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım geliştirme sürecinde kodla birlikte otomatik olarak güncellenen ve projenin mevcut durumunu yansıtan teknik gereksinimlerdir.",
+    "date": "2026-10-27",
+    "kisa_en": "These are technical requirements that are automatically updated along with the code during the software development process and reflect the current state of the project.",
+    "kisa_fr": "Ce sont des exigences techniques qui sont automatiquement mises à jour avec le code lors du processus de développement logiciel et qui reflètent l'état actuel du projet.",
+    "kisa_pt": "São requisitos técnicos que são atualizados automaticamente junto com o código no processo de desenvolvimento de software e refletem o estado atual do projeto.",
+    "kisa_es": "Son requisitos técnicos que se actualizan automáticamente junto con el código durante el proceso de desarrollo de software y reflejan el estado actual del proyecto.",
+    "kisa_de": "Dies sind technische Anforderungen, die im Softwareentwicklungsprozess automatisch zusammen mit dem Code aktualisiert werden und den aktuellen Status des Projekts widerspiegeln."
+  },
+  {
+    "slug": "exponential-time-hypothesis",
+    "en": "Exponential Time Hypothesis",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bazı zor problemlerin çözüm süresinin girdi miktarı arttıkça katlanarak arttığını öne süren teorik bir yaklaşımdır.",
+    "date": "2026-10-27",
+    "kisa_en": "It is a theoretical approach suggesting that the solution time for some difficult problems increases exponentially as the amount of input increases.",
+    "kisa_fr": "Il s'agit d'une approche théorique suggérant que le temps de résolution de certains problèmes complexes augmente de manière exponentielle à mesure que la quantité de données d'entrée augmente.",
+    "kisa_pt": "É uma abordagem teórica que sugere que o tempo de resolução de alguns problemas difíceis aumenta exponencialmente à medida que a quantidade de entrada aumenta.",
+    "kisa_es": "Es un enfoque teórico que sugiere que el tiempo de resolución de algunos problemas difíciles aumenta exponencialmente a medida que aumenta la cantidad de entrada.",
+    "kisa_de": "Dies ist ein theoretischer Ansatz, der besagt, dass die Lösungszeit für einige schwierige Probleme exponentiell mit der Zunahme der Eingabemenge wächst."
+  },
+  {
+    "slug": "jit-compilation",
+    "en": "Just-in-Time Compilation",
+    "full": "Just-in-Time Compilation",
+    "cat": "dev",
+    "kisa": "Program kodunun önceden değil, tam çalıştırılacağı anda makine diline çevrilerek hızlandırılması yöntemidir.",
+    "date": "2026-10-27",
+    "kisa_en": "It is a method of accelerating program code by translating it into machine language at the exact moment of execution rather than beforehand.",
+    "kisa_fr": "Il s'agit d'une méthode consistant à accélérer le code du programme en le traduisant en langage machine au moment même de son exécution, et non au préalable.",
+    "kisa_pt": "É um método de aceleração do código do programa, traduzindo-o para a linguagem de máquina no momento exato da execução, e não com antecedência.",
+    "kisa_es": "Es un método para acelerar el código del programa traduciéndolo al lenguaje de máquina en el momento exacto de su ejecución, en lugar de hacerlo con antelación.",
+    "kisa_de": "Dies ist eine Methode zur Beschleunigung von Programmcode, bei der dieser nicht im Voraus, sondern erst im Moment der Ausführung in Maschinensprache übersetzt wird."
   }
 ]

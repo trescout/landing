@@ -2,13 +2,14 @@
 
 Microsoft PowerToys es una colección de software de utilidad desarrollado para aumentar la productividad y la personalización en el sistema operativo Windows. Ofrece a los usuarios herramientas de personalización avanzadas y optimizaciones del flujo de trabajo en el sistema.
 
-- ★ 139.524
+- ★ 140.050
 - GitHub Trending · 2026-06-13
 
 **Nota de TreScout:** No es un programa único, sino un conjunto de pequeñas herramientas agregadas a Windows. La mayoría de la gente lo instala para dos: una herramienta que organiza las ventanas en la pantalla en forma de cuadrícula y una marcación rápida desde el teclado. La instalación en una computadora de la empresa puede requerir permiso de administrador.
 
 ## Actualizaciones
 
+- **27 de octubre de 2026:** Estrellas 139,524 → 140,050, última versión v0.102.3001 (27 de octubre de 2026).
 - **21 de octubre de 2026:** Estrellas 138,154 → 139,524, última versión v0.102.2933.0 (21 de octubre de 2026).
 - **27 de agosto de 2026:** Estrellas 137,392 → 138,154, última versión v0.101.2362.0 (25 de agosto de 2026).
 - **2 de agosto de 2026:** Estrellas 134,431 → 137,392, última versión v0.100.2 (26 de junio de 2026).

@@ -2,16 +2,16 @@
 
 Grafana é uma plataforma de observabilidade e visualização de dados de código aberto que combina métricas, logs e rastreamentos de diferentes fontes de dados em uma única interface. Ele permite a análise de conjuntos de dados complexos integrando-se com diversos sistemas como Prometheus, Elasticsearch e PostgreSQL.
 
-- ★ 77.283
+- ★ 77.551
 - TypeScript
 - GitHub Trending · 2026-06-27
 
 ## Atualizações
 
+- **27 de outubro de 2026:** Estrelas 77,283 → 77,551, versão mais recente v13.3.0 (27 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 76,987 → 77,283, versão mais recente v13.2.4 (13 de outubro de 2026).
 - **29 de setembro de 2026:** Estrelas 76,770 → 76,987, versão mais recente v13.2.3 (29 de setembro de 2026).
 - **16 de setembro de 2026:** Estrelas 76,559 → 76,770, versão mais recente v13.2.2 (15 de setembro de 2026).
-- **2 de setembro de 2026:** Estrelas 76,290 → 76,559, versão mais recente v13.2.1 (2 de setembro de 2026).
 
 ## O que você ganha
 

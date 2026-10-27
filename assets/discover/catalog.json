@@ -118,7 +118,7 @@
     "tagline_pt": "Adicione uma camada de habilidade, memória e segurança a agentes de IA como Claude Code, Codex e Cursor.",
     "tagline_es": "Agregue una capa de habilidad, memoria y seguridad a agentes de IA como Claude Code, Codex y Cursor.",
     "tagline_de": "Fügen Sie KI-Agenten wie Claude Code, Codex und Cursor eine Ebene an Fähigkeiten, Speicher und Sicherheit hinzu.",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-27",
     "cmds": {
       "kurulum": [
         {
@@ -676,14 +676,14 @@
     "slug": "twenty",
     "title": "Twenty",
     "tagline": "Salesforce'a açık kaynaklı, yapay zekâ odaklı ve modern bir alternatif.",
-    "meta": "★ 59.751 · Lisans: özel",
+    "meta": "★ 59.917 · Lisans: özel",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Üretkenlik",
       "Geliştirici aracı"
     ],
-    "stars": 59751,
+    "stars": 59917,
     "image": "/assets/discover/og/twenty.webp",
     "headline": "Modern ve açık kaynaklı CRM",
     "last_review": "2026-10-27",
@@ -827,6 +827,13 @@
         "onceki_yildiz": 58824,
         "surum": "twenty/v2.51.0",
         "surum_tarihi": "2026-10-25"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 59917,
+        "onceki_yildiz": 59751,
+        "surum": "twenty/v2.52.0",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "An open source, AI-driven and modern alternative to Salesforce.",
@@ -1761,7 +1768,7 @@
     "tagline_pt": "Habilidades compostas e metodologia de desenvolvimento de software para agentes de codificação.",
     "tagline_es": "Habilidades compuestas y metodología de desarrollo de software para agentes de codificación.",
     "tagline_de": "Zusammengesetzte Fähigkeiten und Softwareentwicklungsmethodik für Codierungsagenten.",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-27",
     "cmds": {
       "kurulum": [
         {
@@ -3878,14 +3885,14 @@
     "slug": "data-engineering-zoomcamp",
     "title": "Data Engineering Zoomcamp",
     "tagline": "Üretime hazır veri hatları kurmayı öğreten 9 haftalık ücretsiz eğitim programı.",
-    "meta": "★ 44.237 · Lisans: kontrol et",
+    "meta": "★ 46.451 · Lisans: kontrol et",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Öğrenme",
       "Geliştirici aracı"
     ],
-    "stars": 44237,
+    "stars": 46451,
     "image": "/assets/discover/og/data-engineering-zoomcamp.webp",
     "headline": "Veri mühendisliğinde uzmanlaşın",
     "last_review": "2026-10-27",
@@ -3894,6 +3901,11 @@
         "tarih": "2026-08-02",
         "yildiz": 44237,
         "onceki_yildiz": 41734
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 46451,
+        "onceki_yildiz": 44237
       }
     ],
     "tagline_en": "Free 9-week training program that teaches you how to set up production-ready data pipelines.",
@@ -4804,13 +4816,13 @@
     "tagline_pt": "Impeccable é uma linguagem de design desenvolvida para melhorar os resultados de design de modelos de inteligência artificial.",
     "tagline_es": "Impeccable es un lenguaje de diseño desarrollado para mejorar los resultados de diseño de modelos de inteligencia artificial.",
     "tagline_de": "Impeccable ist eine Designsprache, die entwickelt wurde, um die Designergebnisse von Modellen der künstlichen Intelligenz zu verbessern.",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-27"
   },
   {
     "slug": "tradingagents",
     "title": "TradingAgents",
     "tagline": "TradingAgents, finansal piyasalarda işlem yapmak amacıyla geliştirilen çoklu ajanlı büyük dil modeli (multi-agent LLM) tabanlı…",
-    "meta": "★ 111.593",
+    "meta": "★ 117.170",
     "image": "/assets/discover/og/tradingagents.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -4818,7 +4830,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 111593,
+    "stars": 117170,
     "lite": false,
     "headline": "Yapay zekâ ile akıllı borsa işlemleri",
     "last_review": "2026-10-27",
@@ -4885,6 +4897,13 @@
         "onceki_yildiz": 109690,
         "surum": "v0.7.0",
         "surum_tarihi": "2026-10-16"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 117170,
+        "onceki_yildiz": 111593,
+        "surum": "v0.7.1",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "TradingAgents is based on the multi-agent large language model (multi-agent LLM) developed for the purpose of trading in financial markets.",
@@ -7061,7 +7080,7 @@
     "slug": "copilotkit",
     "title": "CopilotKit",
     "tagline": "CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz…",
-    "meta": "★ 38.219 · TypeScript",
+    "meta": "★ 38.275 · TypeScript",
     "image": "/assets/discover/og/copilotkit.webp",
     "source": "GitHub",
     "date": "2026-06-06",
@@ -7069,7 +7088,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 38219,
+    "stars": 38275,
     "lite": false,
     "headline": "Uygulamalarınız için yapay zekâ arayüzleri",
     "last_review": "2026-10-27",
@@ -7318,6 +7337,13 @@
         "onceki_yildiz": 38055,
         "surum": "v1.80.0",
         "surum_tarihi": "2026-10-24"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 38275,
+        "onceki_yildiz": 38219,
+        "surum": "v1.81.0",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "CopilotKit is a React and Angular-based frontend for developing artificial intelligence agents and generative UIs.",
@@ -8062,14 +8088,14 @@
     "slug": "vite",
     "title": "Vite",
     "tagline": "Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor.",
-    "meta": "★ 83.590",
+    "meta": "★ 83.599",
     "image": "/assets/discover/og/vite.webp",
     "source": "GitHub",
     "date": "2026-06-07",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 83590,
+    "stars": 83599,
     "lite": false,
     "headline": "Web projeleri için hızlı geliştirme ortamı",
     "cmds": {
@@ -8179,6 +8205,13 @@
         "yildiz": 83590,
         "onceki_yildiz": 83423,
         "surum": "create-vite@9.3.2",
+        "surum_tarihi": "2026-10-27"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 83599,
+        "onceki_yildiz": 83590,
+        "surum": "create-vite@9.3.3",
         "surum_tarihi": "2026-10-27"
       }
     ],
@@ -10824,14 +10857,14 @@
     "slug": "powertoys",
     "title": "PowerToys",
     "tagline": "Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı…",
-    "meta": "★ 139.524",
+    "meta": "★ 140.050",
     "image": "/assets/discover/og/powertoys.webp",
     "source": "GitHub",
     "date": "2026-06-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 139524,
+    "stars": 140050,
     "lite": false,
     "headline": "Windows'u kendinize göre ayarlayın",
     "headline_locked": true,
@@ -10867,6 +10900,13 @@
         "onceki_yildiz": 138154,
         "surum": "v0.102.2933.0",
         "surum_tarihi": "2026-10-21"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 140050,
+        "onceki_yildiz": 139524,
+        "surum": "v0.102.3001",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "Microsoft PowerToys is a utility developed to increase efficiency and personalization in the Windows operating system.",
@@ -15723,7 +15763,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 73.402 · TypeScript",
+    "meta": "★ 73.766 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -15731,7 +15771,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 73402,
+    "stars": 73766,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-27",
@@ -16315,6 +16355,13 @@
         "yildiz": 73402,
         "onceki_yildiz": 72474,
         "surum": "v0.8.207",
+        "surum_tarihi": "2026-10-27"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 73766,
+        "onceki_yildiz": 73402,
+        "surum": "v0.8.209",
         "surum_tarihi": "2026-10-27"
       }
     ],
@@ -17807,14 +17854,14 @@
     "slug": "grafana",
     "title": "Grafana",
     "tagline": "Grafana, farklı veri kaynaklarından gelen metrikleri, günlükleri (logs) ve izleme verilerini (traces) tek bir arayüzde…",
-    "meta": "★ 77.283 · TypeScript",
+    "meta": "★ 77.551 · TypeScript",
     "image": "/assets/discover/og/grafana.webp",
     "source": "GitHub",
     "date": "2026-06-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 77283,
+    "stars": 77551,
     "lite": false,
     "headline": "Verilerinizi tek arayüzde görselleştirin",
     "last_review": "2026-10-27",
@@ -17874,6 +17921,13 @@
         "onceki_yildiz": 76987,
         "surum": "v13.2.4",
         "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 77551,
+        "onceki_yildiz": 77283,
+        "surum": "v13.3.0",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "Grafana combines metrics, logs and traces from different data sources in a single interface.",
@@ -19433,7 +19487,7 @@
     "slug": "agents-cli",
     "title": "Agents CLI",
     "tagline": "Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay…",
-    "meta": "★ 6.132 · Python",
+    "meta": "★ 6.188 · Python",
     "image": "/assets/discover/og/agents-cli.webp",
     "source": "GitHub",
     "date": "2026-07-01",
@@ -19441,7 +19495,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6132,
+    "stars": 6188,
     "lite": false,
     "headline": "Kodlama asistanları için yapay zekâ araçları",
     "last_review": "2026-10-27",
@@ -19529,6 +19583,13 @@
         "onceki_yildiz": 6078,
         "surum": "v1.11.0",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 6188,
+        "onceki_yildiz": 6132,
+        "surum": "v1.12.0",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "The command line interface (CLI) developed by Google allows coding assistants to run on Google Cloud (Google Cloud).",
@@ -20996,7 +21057,7 @@
     "slug": "meetily",
     "title": "Meetily",
     "tagline": "Meetily, toplantı kayıtlarını yerel olarak işleyen ve bulut bağlantısına ihtiyaç duymayan, açık kaynaklı bir toplantı asistanıdır.",
-    "meta": "★ 30.692 · Rust",
+    "meta": "★ 32.238 · Rust",
     "image": "/assets/discover/og/meetily.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -21004,7 +21065,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 30692,
+    "stars": 32238,
     "lite": false,
     "headline": "Verilerinizi koruyan yerel yapay zekâ asistanı",
     "last_review": "2026-10-27",
@@ -21027,6 +21088,13 @@
         "tarih": "2026-09-13",
         "yildiz": 30692,
         "onceki_yildiz": 29473,
+        "surum": "v0.4.1",
+        "surum_tarihi": "2026-09-12"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 32238,
+        "onceki_yildiz": 30692,
         "surum": "v0.4.1",
         "surum_tarihi": "2026-09-12"
       }
@@ -21152,14 +21220,14 @@
     "slug": "folia-major",
     "title": "Folia Major",
     "tagline": "Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı…",
-    "meta": "★ 8.971 · TypeScript",
+    "meta": "★ 9.740 · TypeScript",
     "image": "/assets/discover/og/folia-major.webp",
     "source": "GitHub",
     "date": "2026-07-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 8971,
+    "stars": 9740,
     "lite": false,
     "headline": "Müzik deneyimini görselleştiren şarkı oynatıcı",
     "last_review": "2026-10-27",
@@ -21380,6 +21448,13 @@
         "onceki_yildiz": 8799,
         "surum": "v0.7.22",
         "surum_tarihi": "2026-10-23"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 9740,
+        "onceki_yildiz": 8971,
+        "surum": "v0.7.23",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "Folia-major is a player that provides visualized lyric animations for local music files and online platforms.",
@@ -25238,7 +25313,7 @@
     "tagline_pt": "A Hallmark visa reduzir o impacto do conteúdo padrão produzido pela inteligência artificial (resíduos de IA) no design…",
     "tagline_es": "Hallmark tiene como objetivo reducir el impacto del contenido estándar producido por inteligencia artificial (IA slop) en el diseño...",
     "tagline_de": "Hallmark zielt darauf ab, die Auswirkungen von Standardinhalten, die durch künstliche Intelligenz (KI-Slop) erstellt werden, auf das Design zu reduzieren.",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-27"
   },
   {
     "slug": "opencut",
@@ -26243,7 +26318,7 @@
     "tagline_pt": "DeepTutor é uma plataforma de aprendizagem ao longo da vida que oferece processos educacionais personalizados usando dados de alunos.",
     "tagline_es": "DeepTutor es una plataforma de aprendizaje permanente que ofrece procesos educativos personalizados utilizando los datos de los estudiantes.",
     "tagline_de": "DeepTutor ist eine Plattform für lebenslanges Lernen, die mithilfe von Schülerdaten personalisierte Bildungsprozesse bietet.",
-    "last_seen": "2026-08-12"
+    "last_seen": "2026-10-27"
   },
   {
     "slug": "yimmenuv2",
@@ -33037,14 +33112,14 @@
     "slug": "lighthouse",
     "title": "Lighthouse",
     "tagline": "Lighthouse, C diliyle geliştirilmiş, düşük seviyeli sistemler için tasarlanmış bir kod kapsama (code coverage) aracıdır.",
-    "meta": "★ 521 · C",
+    "meta": "★ 530 · C",
     "image": "/assets/discover/og/lighthouse.webp",
     "source": "GitHub",
     "date": "2026-08-03",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 521,
+    "stars": 530,
     "lite": false,
     "headline": "Banjo Kazooie oyununu modern sistemlerde oynayın",
     "last_review": "2026-10-27",
@@ -33083,6 +33158,13 @@
         "onceki_yildiz": 368,
         "surum": "1.2.0",
         "surum_tarihi": "2026-10-23"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 530,
+        "onceki_yildiz": 521,
+        "surum": "1.2.1",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "Lighthouse is a code coverage tool developed in C language and designed for low-level systems.",
@@ -34890,7 +34972,7 @@
     "slug": "autogpt",
     "title": "AutoGPT",
     "tagline": "AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom yapay zekâ ajanları (autonomous AI agents) oluşturmayı…",
-    "meta": "★ 187.714 · Python",
+    "meta": "★ 187.788 · Python",
     "image": "/assets/discover/og/autogpt.webp",
     "source": "GitHub",
     "date": "2026-08-07",
@@ -34898,7 +34980,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 187714,
+    "stars": 187788,
     "lite": false,
     "headline": "Otonom yapay zekâ ajanları oluşturun",
     "last_review": "2026-10-27",
@@ -34979,6 +35061,13 @@
         "onceki_yildiz": 187582,
         "surum": "autogpt-platform-beta-v0.9.0",
         "surum_tarihi": "2026-10-23"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 187788,
+        "onceki_yildiz": 187714,
+        "surum": "autogpt-platform-beta-v0.10.0",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "AutoGPT aims to create autonomous AI agents that can plan and execute complex tasks on their own.",
@@ -35259,14 +35348,14 @@
     "slug": "mise",
     "title": "Mise",
     "tagline": "Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek…",
-    "meta": "★ 35.440 · Rust",
+    "meta": "★ 35.455 · Rust",
     "image": "/assets/discover/og/mise.webp",
     "source": "GitHub",
     "date": "2026-08-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 35440,
+    "stars": 35455,
     "lite": false,
     "headline": "Geliştirme ortamınızı tek merkezden yönetin",
     "needs_enrichment": true,
@@ -35595,6 +35684,13 @@
         "onceki_yildiz": 35343,
         "surum": "v2026.10.20",
         "surum_tarihi": "2026-10-26"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 35455,
+        "onceki_yildiz": 35440,
+        "surum": "v2026.10.21",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_fr": "Mise combine des outils de développement logiciel, des variables d'environnement et des exécuteurs de tâches en un seul…",
@@ -38285,7 +38381,7 @@
     "slug": "tooljet",
     "title": "ToolJet",
     "tagline": "ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geliştirmeye yarayan açık kaynaklı bir uygulama…",
-    "meta": "★ 41.127 · JavaScript",
+    "meta": "★ 41.133 · JavaScript",
     "image": "/assets/discover/og/tooljet.webp",
     "source": "GitHub",
     "date": "2026-08-15",
@@ -38293,7 +38389,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41127,
+    "stars": 41133,
     "lite": false,
     "headline": "Kod yazmadan kurumsal uygulamalar geliştirin",
     "tagline_en": "ToolJet is an open source application for developing in-house tools, dashboards and artificial intelligence agents.",
@@ -38519,6 +38615,13 @@
         "onceki_yildiz": 41120,
         "surum": "v3.20.250-lts",
         "surum_tarihi": "2026-10-26"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 41133,
+        "onceki_yildiz": 41127,
+        "surum": "v3.20.251-lts",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "last_seen": "2026-08-17"
@@ -39212,7 +39315,7 @@
     "slug": "openviking",
     "title": "OpenViking",
     "tagline": "Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı sunuyor.",
-    "meta": "★ 40.663 · Python",
+    "meta": "★ 40.960 · Python",
     "image": "/assets/discover/og/openviking.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -39220,7 +39323,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 40663,
+    "stars": 40960,
     "lite": false,
     "headline": "Yapay zekâ ajanları için dosya sistemli hafıza",
     "tagline_en": "Developed by Volcengine, OpenViking offers a self-improving context database for AI agents.",
@@ -39334,6 +39437,13 @@
         "onceki_yildiz": 40425,
         "surum": "v0.5.2",
         "surum_tarihi": "2026-10-23"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 40960,
+        "onceki_yildiz": 40663,
+        "surum": "v0.5.2.1",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "last_seen": "2026-08-21"
@@ -39441,7 +39551,7 @@
     "slug": "omlx",
     "title": "Omlx",
     "tagline": "Omlx, Apple Silicon işlemciler için sürekli yığınlama (continuous batching) ve SSD önbellekleme (SSD caching) özelliklerini…",
-    "meta": "★ 23.036 · Python",
+    "meta": "★ 23.102 · Python",
     "image": "/assets/discover/og/omlx.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -39449,7 +39559,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 23036,
+    "stars": 23102,
     "lite": false,
     "headline": "Mac bilgisayarlar için yapay zekâ sunucusu",
     "tagline_en": "Omlx introduces continuous batching and SSD caching features for Apple Silicon processors.",
@@ -39549,6 +39659,13 @@
         "onceki_yildiz": 22973,
         "surum": "v0.7.3.dev2",
         "surum_tarihi": "2026-10-25"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 23102,
+        "onceki_yildiz": 23036,
+        "surum": "v0.7.3rc1",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "last_seen": "2026-08-19"
@@ -40163,7 +40280,7 @@
     "slug": "ghost",
     "title": "Ghost",
     "tagline": "Ghost, modern yayıncılık, üyelikler, abonelikler ve e-posta bültenleri için bağımsız bir teknoloji platformudur.",
-    "meta": "★ 55.579 · JavaScript",
+    "meta": "★ 55.618 · JavaScript",
     "image": "/assets/discover/og/ghost.webp",
     "source": "GitHub",
     "date": "2026-08-22",
@@ -40171,7 +40288,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 55579,
+    "stars": 55618,
     "lite": false,
     "headline": "Modern içerik ve bülten platformu",
     "last_review": "2026-10-27",
@@ -40259,6 +40376,13 @@
         "onceki_yildiz": 55541,
         "surum": "v6.72.0",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 55618,
+        "onceki_yildiz": 55579,
+        "surum": "v6.73.0",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "Ghost is an independent technology platform for modern publishing, memberships, subscriptions, and newsletters.",
@@ -41359,7 +41483,7 @@
     "slug": "n8n",
     "title": "N8n",
     "tagline": "n8n, görsel canvas, özel kod ve yapay zekâ ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
-    "meta": "★ 208.615",
+    "meta": "★ 208.782",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -41367,7 +41491,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 208615,
+    "stars": 208782,
     "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
     "headline": "Görsel iş akışları ve yapay zekâ otomasyonu",
     "lite": false,
@@ -41785,6 +41909,13 @@
         "yildiz": 208615,
         "onceki_yildiz": 208293,
         "surum": "n8n@2.44.7",
+        "surum_tarihi": "2026-10-26"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 208782,
+        "onceki_yildiz": 208615,
+        "surum": "n8n@2.45.4",
         "surum_tarihi": "2026-10-26"
       }
     ],
@@ -43058,14 +43189,14 @@
     "slug": "hister",
     "title": "Hister",
     "tagline": "Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur.",
-    "meta": "★ 5.740 · Go",
+    "meta": "★ 6.162 · Go",
     "image": "/assets/discover/og/hister.webp",
     "source": "GitHub",
     "date": "2026-08-25",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 5740,
+    "stars": 6162,
     "summary": "Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur. Tam metin indeksleme, gelişmiş sorgu filtreleri ve isteğe bağlı anlamsal arama sunar.",
     "lite": false,
     "tagline_en": "It is a special AGPLv3 licensed search engine for the pages the user visits and the files he stores.",
@@ -43297,6 +43428,13 @@
         "onceki_yildiz": 4602,
         "surum": "v0.20.0",
         "surum_tarihi": "2026-09-24"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 6162,
+        "onceki_yildiz": 5740,
+        "surum": "v0.21.0",
+        "surum_tarihi": "2026-10-27"
       }
     ]
   },
@@ -44130,7 +44268,7 @@
     "slug": "freellmapi",
     "title": "Freellmapi",
     "tagline": "FreeLLMAPI, 34 ücretsiz yapay zekâ sağlayıcısını OpenAI uyumlu tek bir REST uç noktasında birleştiren ters proxy servisidir.",
-    "meta": "★ 41.667 · TypeScript",
+    "meta": "★ 42.614 · TypeScript",
     "image": "/assets/discover/og/freellmapi.webp",
     "source": "GitHub",
     "date": "2026-08-28",
@@ -44138,7 +44276,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41667,
+    "stars": 42614,
     "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada (endpoint) birleştiriyor. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, geliştiricilerin farklı modelleri tek bir arayüz üzerinden denemesine olanak tanıyor.",
     "lite": false,
     "tagline_en": "FreeLLMAPI is a reverse proxy service that combines 34 free AI providers into a single OpenAI-compatible REST endpoint.",
@@ -44290,6 +44428,13 @@
         "onceki_yildiz": 40353,
         "surum": "v0.16.10",
         "surum_tarihi": "2026-10-25"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 42614,
+        "onceki_yildiz": 41667,
+        "surum": "v0.16.11",
+        "surum_tarihi": "2026-10-27"
       }
     ]
   },
@@ -46274,7 +46419,7 @@
     "slug": "context-mode",
     "title": "Context Mode",
     "tagline": "Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir…",
-    "meta": "★ 30.969 · TypeScript",
+    "meta": "★ 32.535 · TypeScript",
     "image": "/assets/discover/og/context-mode.webp",
     "source": "GitHub",
     "date": "2026-09-08",
@@ -46282,7 +46427,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 30969,
+    "stars": 32535,
     "summary": "Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir TypeScript kütüphanesi. Araç çıktılarını izole ederek veri boyutunu yüzde 98 oranında azaltıyor, oturum hafızasını koruyor ve Model Bağlantı Protokolü (Model Context Protocol) üzerinden 17 farklı platforma yönlendirme yapıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanınıza kalıcı hafıza",
@@ -46341,6 +46486,13 @@
         "tarih": "2026-10-19",
         "yildiz": 30969,
         "onceki_yildiz": 29494,
+        "surum": "v1.0.169",
+        "surum_tarihi": "2026-06-29"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 32535,
+        "onceki_yildiz": 30969,
         "surum": "v1.0.169",
         "surum_tarihi": "2026-06-29"
       }
@@ -47136,7 +47288,7 @@
     "slug": "deskcommcrm",
     "title": "DeskcommCRM",
     "tagline": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM)…",
-    "meta": "★ 4.868 · TypeScript",
+    "meta": "★ 4.879 · TypeScript",
     "image": "/assets/discover/og/deskcommcrm.webp",
     "source": "GitHub",
     "date": "2026-09-12",
@@ -47145,7 +47297,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4868,
+    "stars": 4879,
     "summary": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanlarıyla, benzer işlevlere sahip ticari yazılımlara (Kommo, Octadesk, Intercom) kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı yapay zekâlı CRM",
@@ -47373,6 +47525,13 @@
         "yildiz": 4868,
         "onceki_yildiz": 4826,
         "surum": "v1.92.0",
+        "surum_tarihi": "2026-10-27"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 4879,
+        "onceki_yildiz": 4868,
+        "surum": "v1.94.0",
         "surum_tarihi": "2026-10-27"
       }
     ],
@@ -48340,14 +48499,14 @@
     "slug": "opendisplay",
     "title": "Opendisplay",
     "tagline": "OpenDisplay, iPhone veya iPad cihazlarını Mac bilgisayarlar için ikinci bir monitöre dönüştüren açık kaynaklı bir ekran…",
-    "meta": "★ 5.889 · Swift",
+    "meta": "★ 5.940 · Swift",
     "image": "/assets/discover/og/opendisplay.webp",
     "source": "GitHub",
     "date": "2026-09-15",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 5889,
+    "stars": 5940,
     "summary": "OpenDisplay, iPhone veya iPad cihazlarını Mac bilgisayarlar için ikinci bir monitöre dönüştüren açık kaynaklı bir ekran genişletme aracıdır. USB veya kablosuz bağlantı üzerinden düşük gecikmeli görüntü aktarımı sağlayan uygulama, Apple'ın kendi çözümü olan Sidecar'a ücretsiz bir alternatif sunar.",
     "lite": false,
     "headline": "Eski cihazlarınızı ikinci monitöre dönüştürün",
@@ -48422,6 +48581,13 @@
         "onceki_yildiz": 5858,
         "surum": "v1.28.0",
         "surum_tarihi": "2026-10-24"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 5940,
+        "onceki_yildiz": 5889,
+        "surum": "v1.29.0",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "OpenDisplay is an open-source display that turns iPhone or iPad devices into a second monitor for Mac computers...",
@@ -50950,7 +51116,7 @@
     "slug": "openrig",
     "title": "Openrig",
     "tagline": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan…",
-    "meta": "★ 8.236 · TypeScript",
+    "meta": "★ 8.250 · TypeScript",
     "image": "/assets/discover/og/openrig.webp",
     "source": "GitHub",
     "date": "2026-09-28",
@@ -50958,7 +51124,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8236,
+    "stars": 8250,
     "last_seen": "2026-10-03",
     "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
     "lite": false,
@@ -51097,6 +51263,13 @@
         "onceki_yildiz": 8196,
         "surum": "v0.7.3",
         "surum_tarihi": "2026-10-27"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 8250,
+        "onceki_yildiz": 8236,
+        "surum": "v0.7.4",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "Openrig, a multi-agent… combining Anthropic's coding tool Claude Code and OpenAI's coding model Codex into a single system",
@@ -51109,7 +51282,7 @@
     "slug": "openshell",
     "title": "OpenShell",
     "tagline": "NVIDIA tarafından geliştirilen OpenShell, otonom yapay zekâ ajanları için güvenli ve gizlilik odaklı bir çalışma zamanı…",
-    "meta": "★ 19.581 · Rust",
+    "meta": "★ 20.243 · Rust",
     "image": "/assets/discover/og/openshell.webp",
     "source": "GitHub",
     "date": "2026-09-29",
@@ -51117,7 +51290,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 19581,
+    "stars": 20243,
     "last_seen": "2026-10-25",
     "summary": "NVIDIA tarafından geliştirilen OpenShell, otonom yapay zekâ ajanları için güvenli ve gizlilik odaklı bir çalışma zamanı (runtime) ortamı sunuyor. Rust diliyle yazılan bu altyapı, ajanların sistem kaynaklarına erişimini izole ederek güvenli bir yürütme alanı oluşturmayı amaçlıyor.",
     "lite": false,
@@ -51193,6 +51366,13 @@
         "onceki_yildiz": 18169,
         "surum": "v0.1.5",
         "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 20243,
+        "onceki_yildiz": 19581,
+        "surum": "v0.1.6",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "Developed by NVIDIA, OpenShell is a secure and privacy-focused runtime for autonomous AI agents…",
@@ -51630,7 +51810,7 @@
     "slug": "openclaw",
     "title": "Openclaw",
     "tagline": "Openclaw, farklı işletim sistemlerinde ve platformlarda görevleri yerine getirebilen yapay zekâ tabanlı bir otomasyon aracıdır.",
-    "meta": "★ 392.972 · TypeScript",
+    "meta": "★ 393.200 · TypeScript",
     "image": "/assets/discover/og/openclaw.webp",
     "source": "GitHub",
     "date": "2026-10-01",
@@ -51638,7 +51818,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 392972,
+    "stars": 393200,
     "last_seen": "2026-10-01",
     "summary": "Openclaw, farklı işletim sistemlerinde ve platformlarda görevleri yerine getirebilen yapay zekâ tabanlı bir otomasyon aracıdır. TypeScript ile geliştirilen bu yazılım, kullanıcıların bilgisayar üzerindeki işlemleri standartlaştırmasını ve otomatize etmesini sağlar.",
     "lite": false,
@@ -51714,6 +51894,13 @@
         "onceki_yildiz": 392750,
         "surum": "v2026.10.7",
         "surum_tarihi": "2026-10-24"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 393200,
+        "onceki_yildiz": 392972,
+        "surum": "v2026.10.8",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "Openclaw is an AI-based automation tool that can perform tasks across different operating systems and platforms.",
@@ -53002,7 +53189,7 @@
     "slug": "cmux",
     "title": "Cmux",
     "tagline": "Ghostty tabanlı bir macOS terminali olan cmux, dikey sekmeler ve yapay zekâ kodlama ajanları için bildirim desteği sunuyor.",
-    "meta": "★ 28.206 · Swift",
+    "meta": "★ 28.551 · Swift",
     "image": "/assets/discover/og/cmux.webp",
     "source": "GitHub",
     "date": "2026-10-07",
@@ -53010,7 +53197,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28206,
+    "stars": 28551,
     "last_seen": "2026-10-07",
     "summary": "Ghostty tabanlı bir macOS terminali olan cmux, dikey sekmeler ve yapay zekâ kodlama ajanları için bildirim desteği sunuyor. Çoklu görev yönetimi ve programlanabilirlik odaklı bu araç, geliştiricilerin çalışma ortamlarını düzenlemelerine yardımcı oluyor.",
     "lite": false,
@@ -53037,6 +53224,13 @@
         "onceki_yildiz": 28146,
         "surum": "v0.65.2",
         "surum_tarihi": "2026-10-16"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 28551,
+        "onceki_yildiz": 28206,
+        "surum": "v0.65.2.2",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "cmux, a Ghostty-based macOS terminal, offers notification support for vertical tabs and AI coding agents.",
@@ -53656,7 +53850,7 @@
     "slug": "xerj",
     "title": "Xerj",
     "tagline": "Rust diliyle geliştirilen xerj, yapay zekâ sistemlerinin veri üzerinde arama yapmasını sağlayan otomatik indeksleme…",
-    "meta": "★ 16.932 · Rust",
+    "meta": "★ 17.044 · Rust",
     "image": "/assets/discover/og/xerj.webp",
     "source": "GitHub",
     "date": "2026-10-16",
@@ -53664,7 +53858,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 16932,
+    "stars": 17044,
     "last_seen": "2026-10-18",
     "summary": "Rust diliyle geliştirilen xerj, yapay zekâ sistemlerinin veri üzerinde arama yapmasını sağlayan otomatik indeksleme (autoindex) yeteneği sunuyor. Kod, belge ve günlük dosyalarını daha az belirteç (token) tüketimiyle işleyerek arama, güvenlik denetimleri ve yapay zekânın güncel verilerden cevap üretmesini sağlayan yöntem (RAG) süreçlerini destekliyor.",
     "lite": false,
@@ -53740,6 +53934,13 @@
         "onceki_yildiz": 15349,
         "surum": "v1.0.0-rc.99",
         "surum_tarihi": "2026-10-24"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 17044,
+        "onceki_yildiz": 16932,
+        "surum": "v1.0.0-rc.100",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "Developed in the Rust language, xerj is an automatic indexing... that enables artificial intelligence systems to search through data.",
@@ -53856,7 +54057,7 @@
     "slug": "dsh-purge",
     "title": "Dsh Purge",
     "tagline": "YuJunZhiXue/dsh-purge, farklı yapay zekâ modelleri için özelleştirilebilir komut istemleri (prompts) kullanarak güvenlik…",
-    "meta": "★ 10.352 · JavaScript",
+    "meta": "★ 10.969 · JavaScript",
     "image": "/assets/discover/og/dsh-purge.webp",
     "source": "GitHub",
     "date": "2026-10-19",
@@ -53864,7 +54065,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 10352,
+    "stars": 10969,
     "last_seen": "2026-10-19",
     "summary": "YuJunZhiXue/dsh-purge, farklı yapay zekâ modelleri için özelleştirilebilir komut istemleri (prompts) kullanarak güvenlik kısıtlamalarını aşmayı (jailbreak) hedefleyen bir JavaScript aracıdır. Proje, kullanıcıların farklı modeller için kendi komutlarını tanımlamasına ve varsayılan olarak yerel modellere odaklanmasına olanak tanır.",
     "lite": false,
@@ -53926,6 +54127,13 @@
         "onceki_yildiz": 9063,
         "surum": "v1.1.79",
         "surum_tarihi": "2026-10-26"
+      },
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 10969,
+        "onceki_yildiz": 10352,
+        "surum": "v1.1.81",
+        "surum_tarihi": "2026-10-27"
       }
     ],
     "tagline_en": "YuJunZhiXue/dsh-purge, using customizable prompts for different artificial intelligence models, security…",
@@ -54374,7 +54582,7 @@
       "Geliştirici aracı"
     ],
     "stars": 6944,
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-27",
     "summary": "Cindy, projelerinizde ve uygulamalarınızda gerçek işleri tamamlamak üzere tasarlanmış, kutudan çıktığı gibi çalışabilen açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir yapay zekâ ajanıdır. Birden fazla model ve aracı tek bir yapıda birleştirerek kullanıcıların iş akışlarını yönetmelerine olanak tanır.",
     "lite": false,
     "headline": "Açık kaynaklı yapay zekâ ajanı cindy",
@@ -54421,7 +54629,7 @@
       "Geliştirici aracı"
     ],
     "stars": 3318,
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-27",
     "summary": "JetBrains tarafından geliştirilen ThinkRail, kullanıcı çalışma biçimine göre kendini özelleştiren ve proje özelliklerini öğrenerek yeteneklerini zamanla geliştiren ajan tabanlı bir tümleşik geliştirme ortamı (IDE). TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini kişiselleştirilmiş bir deneyimle desteklemeyi hedefliyor.",
     "lite": false,
     "headline": "Yapay zekâ destekli kodlama ortamı ThinkRail",
@@ -54519,5 +54727,90 @@
     "tagline_es": "AgriciDaniel/claude-seo es una herramienta desarrollada para Claude Code que automatiza los procesos de optimización de motores de búsqueda (SEO) técnicos...",
     "tagline_pt": "AgriciDaniel/claude-seo é desenvolvido para o Claude Code e automatiza os processos de otimização para mecanismos de busca (SEO) técnica...",
     "tagline_de": "AgriciDaniel/claude-seo ist ein für Claude Code entwickeltes Tool zur Automatisierung technischer Suchmaschinenoptimierungs- (SEO) Prozesse..."
+  },
+  {
+    "slug": "openbot",
+    "title": "Openbot",
+    "tagline": "nightly-labs/openbot, yerel odaklı (local-first) çalışma alanları üzerinden yapay zekâ iş arkadaşları yönetmenizi sağlayan bir…",
+    "meta": "★ 2.151 · TypeScript",
+    "image": "/assets/discover/og/openbot.webp",
+    "source": "GitHub",
+    "date": "2026-10-27",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 2151,
+    "last_seen": "2026-10-27",
+    "summary": "nightly-labs/openbot, yerel odaklı (local-first) çalışma alanları üzerinden yapay zekâ iş arkadaşları yönetmenizi sağlayan bir masaüstü uygulamasıdır. Codex, Claude ve Grok gibi modelleri dosya paylaşımı, tarayıcı kontrolü ve ajanlar arası iş birliği özellikleriyle kullanmanıza olanak tanır.",
+    "lite": true,
+    "needs_enrichment": true,
+    "enrich_reason": "komut_yok",
+    "tagline_en": "nightly-labs/openbot is a tool that allows you to manage AI coworkers through local-first workspaces...",
+    "tagline_fr": "nightly-labs/openbot est un outil qui vous permet de gérer des collègues IA via des espaces de travail axés sur le local (local-first)…",
+    "tagline_pt": "nightly-labs/openbot, que permite gerenciar colegas de trabalho de inteligência artificial por meio de espaços de trabalho focados localmente (local-first)...",
+    "tagline_es": "nightly-labs/openbot, una herramienta que le permite gestionar compañeros de trabajo de inteligencia artificial a través de espacios de trabajo de enfoque local (local-first)...",
+    "tagline_de": "nightly-labs/openbot ist ein Tool, mit dem Sie KI-Kollegen über Local-First-Arbeitsbereiche verwalten können..."
+  },
+  {
+    "slug": "postiz-app",
+    "title": "Postiz App",
+    "tagline": "gitroomhq/postiz-app, sosyal medya içeriklerini planlamaya yönelik ajan tabanlı (agentic) bir zamanlama aracıdır.",
+    "meta": "★ 39.130 · TypeScript",
+    "image": "/assets/discover/og/postiz-app.webp",
+    "source": "GitHub",
+    "date": "2026-10-27",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 39130,
+    "last_seen": "2026-10-27",
+    "summary": "gitroomhq/postiz-app, sosyal medya içeriklerini planlamaya yönelik ajan tabanlı (agentic) bir zamanlama aracıdır. TypeScript diliyle geliştirilen bu uygulama, kullanıcıların sosyal medya paylaşımlarını otomatize etmelerini sağlar.",
+    "lite": false,
+    "headline": "Sosyal medya içeriklerini yöneten yapay zekâ platformu",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz",
+    "last_review": "2026-10-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-10-27",
+        "yildiz": 39130,
+        "onceki_yildiz": 39093,
+        "surum": "v2.25.3",
+        "surum_tarihi": "2026-10-24"
+      }
+    ],
+    "tagline_en": "gitroomhq/postiz-app is an agentic scheduling tool for planning social media content.",
+    "tagline_fr": "gitroomhq/postiz-app est un outil de planification basé sur des agents (agentic) pour programmer du contenu sur les réseaux sociaux.",
+    "tagline_pt": "gitroomhq/postiz-app, é uma ferramenta de agendamento baseada em agentes (agentic) para planejar conteúdo de mídia social.",
+    "tagline_es": "gitroomhq/postiz-app, es una herramienta de programación basada en agentes (agentic) para planificar contenido de redes sociales.",
+    "tagline_de": "gitroomhq/postiz-app ist ein agentenbasiertes Planungstool für Social-Media-Inhalte."
+  },
+  {
+    "slug": "jailbreaks",
+    "title": "Jailbreaks",
+    "tagline": "togg53192-cmd/jailbreaks, yapay zekâ modellerinin güvenlik kısıtlamalarını aşmaya yönelik sistem komutları (system prompts)…",
+    "meta": "★ 5.175",
+    "image": "/assets/discover/og/jailbreaks.webp",
+    "source": "GitHub",
+    "date": "2026-10-27",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 5175,
+    "last_seen": "2026-10-27",
+    "summary": "togg53192-cmd/jailbreaks, yapay zekâ modellerinin güvenlik kısıtlamalarını aşmaya yönelik sistem komutları (system prompts), kişilik kilitleri ve çalışma alanı politikalarından oluşan bir koleksiyon sunuyor. Bu çalışma, çeşitli açık ağırlıklı (open-weight) ve kapalı modellerin çalışma prensiplerini değiştirmeyi hedefleyen teknik bir derleme niteliği taşıyor.",
+    "lite": false,
+    "headline": "Yapay zekâ modelleri için komut koleksiyonu",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz",
+    "last_review": "2026-10-27",
+    "tagline_en": "togg53192-cmd/jailbreaks is a collection of system prompts aimed at bypassing the security restrictions of AI models...",
+    "tagline_fr": "togg53192-cmd/jailbreaks est une collection de commandes système (system prompts) visant à contourner les restrictions de sécurité des modèles d'intelligence artificielle…",
+    "tagline_pt": "togg53192-cmd/jailbreaks, comandos de sistema (system prompts) destinados a contornar as restrições de segurança de modelos de inteligência artificial...",
+    "tagline_es": "togg53192-cmd/jailbreaks, son comandos de sistema (system prompts) destinados a eludir las restricciones de seguridad de los modelos de inteligencia artificial...",
+    "tagline_de": "togg53192-cmd/jailbreaks enthält System-Prompts, die darauf abzielen, die Sicherheitsbeschränkungen von KI-Modellen zu umgehen..."
   }
 ]

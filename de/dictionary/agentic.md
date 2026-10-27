@@ -44,10 +44,10 @@ Nein, die meisten KIs sind passive Systeme, die nur auf Ihren Befehl warten.
 - [MinerU](https://trescout.com/de/discover/mineru/)
 - [OpenMontage](https://trescout.com/de/discover/openmontage/)
 - [Claude Code Best Practice](https://trescout.com/de/discover/claude-code-best-practice/)
+- [Postiz App](https://trescout.com/de/discover/postiz-app/)
 - [Kilocode](https://trescout.com/de/discover/kilocode/)
 - [Pm Skills](https://trescout.com/de/discover/pm-skills/)
 - [Personal_AI_Infrastructure](https://trescout.com/de/discover/personal-ai-infrastructure/)
-- [Production Agentic RAG Course](https://trescout.com/de/discover/production-agentic-rag-course/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/agentic/)
 

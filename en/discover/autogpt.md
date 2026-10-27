@@ -2,16 +2,16 @@
 
 AutoGPT is an open source Python project that enables creating autonomous AI agents that can plan and execute complex tasks on their own. It facilitates access to artificial intelligence by automating processes such as searching the internet and file management to achieve the goals set by users.
 
-- ★ 187,714
+- ★ 187,788
 - Python
 - GitHub Trending · 2026-08-07
 
 ## Updates
 
+- **October 27, 2026:** Stars 187,714 → 187,788, latest release autogpt-platform-beta-v0.10.0 (October 27, 2026).
 - **October 23, 2026:** Stars 187,582 → 187,714, latest release autogpt-platform-beta-v0.9.0 (October 23, 2026).
 - **October 15, 2026:** Stars 187,697 → 187,582, latest release autogpt-platform-beta-v0.8.4 (October 14, 2026).
 - **October 8, 2026:** Stars 187,620 → 187,697, latest release autogpt-platform-beta-v0.8.3 (October 8, 2026).
-- **September 30, 2026:** Stars 187,583 → 187,620, latest release autogpt-platform-beta-v0.8.2 (September 30, 2026).
 
 ## What you get
 

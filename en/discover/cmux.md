@@ -2,12 +2,13 @@
 
 cmux, a Ghostty-based macOS terminal, offers vertical tabs and notification support for AI coding agents. Focused on multitasking and programmability, this tool helps developers organize their workspaces.
 
-- ★ 28,206
+- ★ 28,551
 - Swift
 - GitHub Trending · 2026-10-07
 
 ## Updates
 
+- **October 27, 2026:** Stars 28,206 → 28,551, latest release v0.65.2.2 (October 27, 2026).
 - **October 16, 2026:** Stars 28,146 → 28,206, latest release v0.65.2 (October 16, 2026).
 - **October 13, 2026:** Stars 27,695 → 28,146, latest release v0.65.1 (October 12, 2026).
 - **October 7, 2026:** Stars 27,683 → 27,695, latest release v0.65.0 (October 5, 2026).

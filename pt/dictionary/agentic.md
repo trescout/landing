@@ -44,10 +44,10 @@ Não, a maioria das IAs são sistemas passivos que apenas aguardam o seu comando
 - [MinerU](https://trescout.com/pt/discover/mineru/)
 - [OpenMontage](https://trescout.com/pt/discover/openmontage/)
 - [Claude Code Best Practice](https://trescout.com/pt/discover/claude-code-best-practice/)
+- [Postiz App](https://trescout.com/pt/discover/postiz-app/)
 - [Kilocode](https://trescout.com/pt/discover/kilocode/)
 - [Pm Skills](https://trescout.com/pt/discover/pm-skills/)
 - [Personal_AI_Infrastructure](https://trescout.com/pt/discover/personal-ai-infrastructure/)
-- [Production Agentic RAG Course](https://trescout.com/pt/discover/production-agentic-rag-course/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agentic/)
 

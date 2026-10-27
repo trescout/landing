@@ -2,16 +2,16 @@
 
 Das in Rust entwickelte xerj bietet eine automatische Indizierungsfunktion (Autoindex), die es KI-Systemen ermöglicht, Daten zu durchsuchen. Durch die Verarbeitung von Code-, Dokument- und Protokolldateien mit geringerem Token-Verbrauch unterstützt es Suchvorgänge, Sicherheitsüberprüfungen und RAG-Prozesse (Retrieval-Augmented Generation), die es der KI ermöglichen, Antworten auf Basis aktueller Daten zu generieren.
 
-- ★ 16.932
+- ★ 17.044
 - Rust
 - GitHub Trending · 2026-10-16
 
 ## Aktualisierungen
 
+- **27. Oktober 2026:** Sterne 16,932 → 17,044, neueste Version v1.0.0-rc.100 (27. Oktober 2026).
 - **27. Oktober 2026:** Sterne 15,349 → 16,932, neueste Version v1.0.0-rc.99 (24. Oktober 2026).
 - **25. Oktober 2026:** Sterne 14,254 → 15,349, neueste Version v1.0.0-rc.99 (24. Oktober 2026).
 - **24. Oktober 2026:** Sterne 12,968 → 14,254, neueste Version v1.0.0-rc.98 (22. Oktober 2026).
-- **22. Oktober 2026:** Sterne 12,563 → 12,968, neueste Version v1.0.0-rc.98 (22. Oktober 2026).
 
 ## Was es bringt
 

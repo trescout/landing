@@ -42,6 +42,7 @@ Permite que o modelo evite temas irrelevantes e apresente uma personalidade cons
 
 - [System Prompts and Models of AI Tools](https://trescout.com/pt/discover/system-prompts-and-models-of-ai-tools/)
 - [System Prompts Leaks](https://trescout.com/pt/discover/system-prompts-leaks/)
+- [Jailbreaks](https://trescout.com/pt/discover/jailbreaks/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/system-prompts/)
 

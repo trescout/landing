@@ -2,15 +2,15 @@
 
 TradingAgents es un marco basado en LLM de múltiples agentes desarrollado para operar en mercados financieros. Este sistema, escrito en Python, permite a los agentes comerciales autónomos analizar datos financieros, crear estrategias y gestionar procesos de toma de decisiones.
 
-- ★ 111.593
+- ★ 117.170
 - GitHub Trending · 2026-06-02
 
 ## Actualizaciones
 
+- **27 de octubre de 2026:** Estrellas 111,593 → 117,170, última versión v0.7.1 (27 de octubre de 2026).
 - **17 de octubre de 2026:** Estrellas 109,690 → 111,593, última versión v0.7.0 (16 de octubre de 2026).
 - **4 de octubre de 2026:** Estrellas 109,196 → 109,690, última versión v0.6.0 (3 de octubre de 2026).
 - **29 de septiembre de 2026:** Estrellas 108,777 → 109,196, última versión v0.5.2 (29 de septiembre de 2026).
-- **27 de septiembre de 2026:** Estrellas 107,380 → 108,777, última versión v0.5.1 (24 de septiembre de 2026).
 
 ## Qué aporta
 

@@ -2,16 +2,16 @@
 
 An AGPLv3-licensed private search engine for pages you visit and files you store. It provides full-text indexing, advanced query filters, and optional semantic search.
 
-- ★ 5,740
+- ★ 6,162
 - Go
 - GitHub Trending · 2026-08-25
 
 ## Updates
 
+- **October 27, 2026:** Stars 5,740 → 6,162, latest release v0.21.0 (October 27, 2026).
 - **September 27, 2026:** Stars 4,602 → 5,740, latest release v0.20.0 (September 24, 2026).
 - **September 18, 2026:** Stars 3,574 → 4,602, latest release v0.19.0 (September 3, 2026).
 - **September 4, 2026:** Stars 3,100 → 3,574, latest release v0.19.0 (September 3, 2026).
-- **August 27, 2026:** Stars 2,620 → 3,100, latest release v0.18.0 (August 23, 2026).
 
 ## Installation
 

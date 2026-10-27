@@ -2,16 +2,16 @@
 
 Motor de busca privado com licença AGPLv3 para páginas visitadas e arquivos guardados pelo usuário. Oferece indexação full-text, filtros de consulta avançados e busca semântica opcional.
 
-- ★ 5.740
+- ★ 6.162
 - Go
 - GitHub Trending · 2026-08-25
 
 ## Atualizações
 
+- **27 de outubro de 2026:** Estrelas 5,740 → 6,162, versão mais recente v0.21.0 (27 de outubro de 2026).
 - **27 de setembro de 2026:** Estrelas 4,602 → 5,740, versão mais recente v0.20.0 (24 de setembro de 2026).
 - **18 de setembro de 2026:** Estrelas 3,574 → 4,602, versão mais recente v0.19.0 (3 de setembro de 2026).
 - **4 de setembro de 2026:** Estrelas 3,100 → 3,574, versão mais recente v0.19.0 (3 de setembro de 2026).
-- **27 de agosto de 2026:** Estrelas 2,620 → 3,100, versão mais recente v0.18.0 (23 de agosto de 2026).
 
 ## Instalação
 

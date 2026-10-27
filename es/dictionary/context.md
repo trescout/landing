@@ -84,8 +84,8 @@ En Go, el parámetro ctx context.Context evita el consumo innecesario de recurso
 - [Goose](https://trescout.com/es/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/es/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/es/discover/openclaude/)
-- [Code Review Graph](https://trescout.com/es/discover/code-review-graph/)
 - [Context Mode](https://trescout.com/es/discover/context-mode/)
+- [Code Review Graph](https://trescout.com/es/discover/code-review-graph/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/context/)
 

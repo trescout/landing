@@ -84,8 +84,8 @@ In Go, the ctx context.Context parameter prevents unnecessary consumption of ser
 - [Goose](https://trescout.com/en/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/en/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/en/discover/openclaude/)
-- [Code Review Graph](https://trescout.com/en/discover/code-review-graph/)
 - [Context Mode](https://trescout.com/en/discover/context-mode/)
+- [Code Review Graph](https://trescout.com/en/discover/code-review-graph/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context/)
 

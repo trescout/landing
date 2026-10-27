@@ -2,16 +2,16 @@
 
 Moteur de recherche privé AGPLv3 pour interroger les pages web consultées et les fichiers personnels, avec indexation en texte intégral et recherche sémantique optionnelle.
 
-- ★ 5 740
+- ★ 6 162
 - Go
 - GitHub Trending · 2026-08-25
 
 ## Mises à jour
 
+- **27 octobre 2026:** Étoiles 5,740 → 6,162, dernière version v0.21.0 (27 octobre 2026).
 - **27 septembre 2026:** Étoiles 4,602 → 5,740, dernière version v0.20.0 (24 septembre 2026).
 - **18 septembre 2026:** Étoiles 3,574 → 4,602, dernière version v0.19.0 (3 septembre 2026).
 - **4 septembre 2026:** Étoiles 3,100 → 3,574, dernière version v0.19.0 (3 septembre 2026).
-- **27 août 2026:** Étoiles 2,620 → 3,100, dernière version v0.18.0 (23 août 2026).
 
 ## Installation
 

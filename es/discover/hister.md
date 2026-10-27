@@ -2,16 +2,16 @@
 
 Indexa páginas y archivos en infraestructura controlada por el usuario sin requerir un servicio en la nube ni telemetría obligatoria. Ofrece indexación de texto completo, filtros avanzados y búsqueda semántica opcional que envía textos al endpoint de embeddings seleccionado.
 
-- ★ 5.740
+- ★ 6.162
 - Go
 - GitHub Trending · 2026-08-25
 
 ## Actualizaciones
 
+- **27 de octubre de 2026:** Estrellas 5,740 → 6,162, última versión v0.21.0 (27 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 4,602 → 5,740, última versión v0.20.0 (24 de septiembre de 2026).
 - **18 de septiembre de 2026:** Estrellas 3,574 → 4,602, última versión v0.19.0 (3 de septiembre de 2026).
 - **4 de septiembre de 2026:** Estrellas 3,100 → 3,574, última versión v0.19.0 (3 de septiembre de 2026).
-- **27 de agosto de 2026:** Estrellas 2,620 → 3,100, última versión v0.18.0 (23 de agosto de 2026).
 
 ## Instalación
 
