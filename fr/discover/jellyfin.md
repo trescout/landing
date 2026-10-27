@@ -2,17 +2,17 @@
 
 Jellyfin est un serveur multimédia gratuit qui vous permet de gérer et de diffuser vos propres films, séries télévisées et collections musicales sur tous vos appareils. Alternative à Plex et Emby, cette plateforme n'a pas de verrous premium, de publicités ou de frais cachés.
 
-- ★ 58 424
+- ★ 58 671
 - C#
 - GPL-2.0
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **27 octobre 2026:** Étoiles 58,424 → 58,671, dernière version v12.4 (26 octobre 2026).
 - **23 octobre 2026:** Étoiles 57,828 → 58,424, dernière version v12.3 (23 octobre 2026).
 - **6 octobre 2026:** Étoiles 57,137 → 57,828, dernière version v12.2 (5 octobre 2026).
 - **15 septembre 2026:** Étoiles 56,682 → 57,137, dernière version v12.1 (15 septembre 2026).
-- **8 septembre 2026:** Étoiles 55,268 → 56,682, dernière version v12.0 (8 septembre 2026).
 
 ## Ce que ça vous apporte
 

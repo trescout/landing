@@ -2,11 +2,12 @@
 
 Higgsfield is a machine learning framework designed to train models with billions and trillions of parameters. It supports large-scale AI projects with fault-tolerant and highly scalable graphics processing unit (GPU) orchestration capabilities.
 
-- ★ 5,764
+- ★ 6,232
 - GitHub Trending · 2026-09-20
 
 ## Updates
 
+- **October 27, 2026:** Stars 5,764 → 6,232, latest release v0.0.4-rc (March 23, 2024), repository archived, development stopped.
 - **September 27, 2026:** Stars 5,541 → 5,764, latest release v0.0.4-rc (March 23, 2024).
 
 ## What you get

@@ -2,12 +2,13 @@
 
 Bitchat-android, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, merkeziyetsiz bir mesajlaşma deneyimi sunuyor. Kotlin diliyle geliştirilen uygulama, kullanıcıların yerel ağ üzerinden IRC benzeri bir iletişim kurmasını sağlıyor.
 
-- ★ 7.850
+- ★ 7.897
 - Kotlin
 - GitHub Trending · 2026-07-27
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 7.850 → 7.897, son sürüm v2.1.0 (26 Ekim 2026).
 - **23 Ekim 2026:** Yıldız 7.424 → 7.850, son sürüm v2.0.3 (22 Ekim 2026).
 - **12 Ağustos 2026:** Yıldız 7.246 → 7.424, son sürüm v2.0.1 (11 Ağustos 2026).
 - **2 Ağustos 2026:** Yıldız 6.833 → 7.246, son sürüm 1.7.4 (17 Haziran 2026).

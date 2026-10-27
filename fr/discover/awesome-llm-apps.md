@@ -2,7 +2,7 @@
 
 Le référentiel Awesome-llm-apps propose plus de 100 agents IA directement exécutables et exemples d'applications RAG. Ces projets basés sur Python permettent aux développeurs de copier et de personnaliser rapidement des applications et de les lancer.
 
-- ★ 136 300
+- ★ 143 192
 - Python
 - GitHub Trending · 2026-07-13
 
@@ -10,6 +10,7 @@ Le référentiel Awesome-llm-apps propose plus de 100 agents IA directement exé
 
 ## Mises à jour
 
+- **27 octobre 2026:** Étoiles 136,300 → 143,192.
 - **6 septembre 2026:** Étoiles 129,783 → 136,300.
 - **2 août 2026:** Étoiles 118,879 → 129,783.
 

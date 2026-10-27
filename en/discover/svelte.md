@@ -2,17 +2,17 @@
 
 Unlike traditional frameworks, Svelte uses a compile-time approach that reduces runtime overhead on the browser. This JavaScript library simplifies web development processes by converting application code into small and fast-running pure JavaScript modules.
 
-- ★ 88,343
+- ★ 88,492
 - GitHub Trending · 2026-06-07
 
 **TreScout note:** One of the frameworks used when writing web interfaces. Since it does most of the work while you write the code, less code is downloaded to the visitor's browser and the page opens faster. Cost community size: Compared to React, the most common option, ready-made parts, samples and job postings are fewer.
 
 ## Updates
 
+- **October 27, 2026:** Stars 88,343 → 88,492, latest release svelte@5.57.3 (October 26, 2026).
 - **October 7, 2026:** Stars 88,135 → 88,343, latest release svelte@5.57.2 (October 6, 2026).
 - **September 19, 2026:** Stars 88,034 → 88,135, latest release svelte@5.57.1 (September 18, 2026).
 - **August 31, 2026:** Stars 87,981 → 88,034, latest release svelte@5.57.0 (August 28, 2026).
-- **August 21, 2026:** Stars 87,958 → 87,981, latest release svelte@5.56.10 (August 20, 2026).
 
 ## What you get
 

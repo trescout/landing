@@ -2,17 +2,17 @@
 
 Plug-ins de cursor; Inclui a especificação oficial do plugin e plugins oficiais prontos para o editor de código do Cursor. Ele permite que os desenvolvedores criem seus próprios plug-ins.
 
-- ★ 13.145
+- ★ 14.257
 - TypeScript
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
 ## Atualizações
 
+- **27 de outubro de 2026:** Estrelas 13,145 → 14,257.
 - **20 de outubro de 2026:** Estrelas 12,116 → 13,145.
 - **17 de outubro de 2026:** Estrelas 10,910 → 12,116.
 - **12 de outubro de 2026:** Estrelas 9,868 → 10,910.
-- **5 de outubro de 2026:** Estrelas 8,737 → 9,868.
 
 ## O que você ganha
 

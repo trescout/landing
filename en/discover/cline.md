@@ -2,16 +2,16 @@
 
 Cline is an autonomous coding agent that automates software development processes. It integrates into developers' projects by operating via an IDE extension, software development kit (SDK), or command-line interface (CLI).
 
-- ★ 70,850
+- ★ 70,911
 - TypeScript
 - GitHub Trending · 2026-09-18
 
 ## Updates
 
+- **October 27, 2026:** Stars 70,850 → 70,911, latest release v4.1.26 (October 26, 2026).
 - **October 26, 2026:** Stars 70,444 → 70,850, latest release desktop-v0.0.49 (October 26, 2026).
 - **October 17, 2026:** Stars 70,397 → 70,444, latest release desktop-v0.0.48 (October 17, 2026).
 - **October 16, 2026:** Stars 70,270 → 70,397, latest release desktop-v0.0.47 (October 16, 2026).
-- **October 13, 2026:** Stars 70,018 → 70,270, latest release desktop-v0.0.46 (October 13, 2026).
 
 ## What you get
 

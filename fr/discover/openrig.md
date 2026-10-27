@@ -2,16 +2,16 @@
 
 Openrig est une infrastructure multi-agents qui combine l'outil de codage Claude Code d'Anthropic et le modèle de codage Codex d'OpenAI au sein d'un système unique. Elle permet aux développeurs d'utiliser simultanément différents modèles d'intelligence artificielle dans le même flux de travail.
 
-- ★ 8 196
+- ★ 8 236
 - TypeScript
 - GitHub Trending · 2026-09-28
 
 ## Mises à jour
 
+- **27 octobre 2026:** Étoiles 8,196 → 8,236, dernière version v0.7.3 (27 octobre 2026).
 - **26 octobre 2026:** Étoiles 8,170 → 8,196, dernière version v0.7.2 (25 octobre 2026).
 - **25 octobre 2026:** Étoiles 8,142 → 8,170, dernière version v0.7.1 (25 octobre 2026).
 - **24 octobre 2026:** Étoiles 8,025 → 8,142, dernière version v0.7.0 (23 octobre 2026).
-- **21 octobre 2026:** Étoiles 7,945 → 8,025, dernière version v0.6.14 (21 octobre 2026).
 
 ## Ce que ça vous apporte
 

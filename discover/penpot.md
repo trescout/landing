@@ -2,16 +2,16 @@
 
 Penpot, tasarımcılar ve yazılımcılar arasında iş birliğini güçlendiren açık kaynaklı bir tasarım aracıdır. Vektör tabanlı arayüzü sayesinde tasarım süreçlerini kodlama aşamasıyla bütünleşik bir şekilde yönetmeyi sağlar.
 
-- ★ 61.530
+- ★ 61.736
 - Clojure
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 61.530 → 61.736, son sürüm 2.18.5 (26 Ekim 2026).
 - **23 Ekim 2026:** Yıldız 60.747 → 61.530, son sürüm 2.18.4 (23 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 60.712 → 60.747, son sürüm 2.18.3 (6 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 60.568 → 60.712, son sürüm 2.18.2 (5 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 60.423 → 60.568, son sürüm 2.18.1 (1 Ekim 2026).
 
 ## Ne kazandırır?
 

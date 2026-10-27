@@ -45,8 +45,8 @@ Hayır, model sadece sahip olduğu mevcut bilgiyi kullanarak tahmin yürütür.
 - [BitNet](https://trescout.com/discover/bitnet/)
 - [Ds4](https://trescout.com/discover/ds4/)
 - [LTX 2](https://trescout.com/discover/ltx-2/)
-- [Stable Diffusion.cpp](https://trescout.com/discover/stable-diffusion-cpp/)
 - [Magnitude](https://trescout.com/discover/magnitude/)
+- [Stable Diffusion.cpp](https://trescout.com/discover/stable-diffusion-cpp/)
 - [Model-Optimizer](https://trescout.com/discover/model-optimizer/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

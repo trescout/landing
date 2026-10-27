@@ -2,16 +2,16 @@
 
 YuE ist ein Musikgenerierungssystem, das mit Fähigkeiten wie symbolischer Planung und Zero-Shot-Cover-Produktion ausgestattet ist. Dieses KI-Modell, das Musikbearbeitungsprozesse automatisiert, ermöglicht es Ihnen, komplexe Kompositionen mit agentenbasierten Workflows zu verwalten.
 
-- ★ 11.751
+- ★ 12.774
 - Python
 - GitHub Trending · 2026-09-13
 
 ## Aktualisierungen
 
+- **27. Oktober 2026:** Sterne 11,751 → 12,774, neueste Version yue2-v0.1.6 (9. September 2026).
 - **12. Oktober 2026:** Sterne 10,749 → 11,751, neueste Version yue2-v0.1.6 (9. September 2026).
 - **3. Oktober 2026:** Sterne 9,749 → 10,749, neueste Version yue2-v0.1.6 (9. September 2026).
 - **19. September 2026:** Sterne 8,744 → 9,749, neueste Version yue2-v0.1.6 (9. September 2026).
-- **15. September 2026:** Sterne 7,463 → 8,744, neueste Version yue2-v0.1.6 (9. September 2026).
 
 ## Was es bringt
 

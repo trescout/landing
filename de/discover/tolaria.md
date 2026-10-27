@@ -2,16 +2,16 @@
 
 Tolaria ist eine Desktop-Anwendung, die für die Verwaltung von Markdown-basierten Wissensdatenbanken entwickelt wurde. Dieses in TypeScript geschriebene Tool erleichtert die Organisation persönlicher Dokumentationen und Notizsysteme.
 
-- ★ 20.061
+- ★ 20.359
 - TypeScript
 - GitHub Trending · 2026-06-08
 
 ## Aktualisierungen
 
+- **27. Oktober 2026:** Sterne 20,061 → 20,359, neueste Version v2026-10-26 (26. Oktober 2026).
 - **13. Oktober 2026:** Sterne 19,906 → 20,061, neueste Version v2026-10-13 (13. Oktober 2026).
 - **27. September 2026:** Sterne 19,727 → 19,906, neueste Version v2026-09-24 (24. September 2026).
 - **8. September 2026:** Sterne 19,643 → 19,727, neueste Version v2026-09-08 (8. September 2026).
-- **31. August 2026:** Sterne 19,513 → 19,643, neueste Version v2027-08-28 (28. August 2026).
 
 ## Was es bringt
 

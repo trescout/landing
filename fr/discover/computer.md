@@ -2,16 +2,16 @@
 
 Développée par Cloudflare, Computer est une bibliothèque TypeScript qui donne aux agents d'intelligence artificielle la possibilité de contrôler un ordinateur local ou distant. Cet outil permet aux agents d'exécuter des commandes sur le système d'exploitation et d'automatiser des tâches complexes en accédant au système de fichiers.
 
-- ★ 9 686
+- ★ 9 724
 - TypeScript
 - GitHub Trending · 2026-08-06
 
 ## Mises à jour
 
+- **27 octobre 2026:** Étoiles 9,686 → 9,724, dernière version @cloudflare/computer@0.8.0 (26 octobre 2026).
 - **23 octobre 2026:** Étoiles 9,659 → 9,686, dernière version @cloudflare/computer@0.7.0 (23 octobre 2026).
 - **21 octobre 2026:** Étoiles 9,576 → 9,659, dernière version @cloudflare/computer@0.6.0 (20 octobre 2026).
 - **13 octobre 2026:** Étoiles 9,532 → 9,576, dernière version @cloudflare/computer@0.5.1 (13 octobre 2026).
-- **9 octobre 2026:** Étoiles 9,481 → 9,532, dernière version @cloudflare/computer@0.5.0 (9 octobre 2026).
 
 ## Ce que ça vous apporte
 

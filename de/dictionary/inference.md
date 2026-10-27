@@ -45,8 +45,8 @@ Nein, das Modell trifft Vorhersagen nur anhand der ihm zur Verfügung stehenden 
 - [BitNet](https://trescout.com/de/discover/bitnet/)
 - [Ds4](https://trescout.com/de/discover/ds4/)
 - [LTX 2](https://trescout.com/de/discover/ltx-2/)
-- [Stable Diffusion.cpp](https://trescout.com/de/discover/stable-diffusion-cpp/)
 - [Magnitude](https://trescout.com/de/discover/magnitude/)
+- [Stable Diffusion.cpp](https://trescout.com/de/discover/stable-diffusion-cpp/)
 - [Model-Optimizer](https://trescout.com/de/discover/model-optimizer/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/inference/)

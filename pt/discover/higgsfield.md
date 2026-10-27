@@ -2,11 +2,12 @@
 
 O Higgsfield é um framework de aprendizado de máquina (machine learning) projetado para treinar modelos com bilhões e trilhões de parâmetros. Ele dá suporte a projetos de inteligência artificial em grande escala com suas capacidades de orquestração de unidades de processamento gráfico (GPU) tolerantes a falhas e altamente escaláveis.
 
-- ★ 5.764
+- ★ 6.232
 - GitHub Trending · 2026-09-20
 
 ## Atualizações
 
+- **27 de outubro de 2026:** Estrelas 5,764 → 6,232, versão mais recente v0.0.4-rc (23 de março de 2024), repositório arquivado, desenvolvimento encerrado.
 - **27 de setembro de 2026:** Estrelas 5,541 → 5,764, versão mais recente v0.0.4-rc (23 de março de 2024).
 
 ## O que você ganha

@@ -2,16 +2,16 @@
 
 ComfyUI est un outil de visualisation modulaire qui fournit une interface basée sur des nœuds pour les modèles de diffusion. Il permet aux utilisateurs de concevoir des processus de traitement d'image complexes avec un organigramme visuel et de gérer ces processus via une API.
 
-- ★ 139 075
+- ★ 143 404
 - Python
 - GitHub Trending · 2026-08-10
 
 ## Mises à jour
 
+- **27 octobre 2026:** Étoiles 139,075 → 143,404, dernière version v0.43.0 (27 octobre 2026).
 - **19 octobre 2026:** Étoiles 137,809 → 139,075, dernière version v0.42.1 (19 octobre 2026).
 - **16 octobre 2026:** Étoiles 137,415 → 137,809, dernière version v0.41.0 (15 octobre 2026).
 - **14 octobre 2026:** Étoiles 136,279 → 137,415, dernière version v0.40.0 (13 octobre 2026).
-- **6 octobre 2026:** Étoiles 135,523 → 136,279, dernière version v0.39.0 (5 octobre 2026).
 
 ## Ce que ça vous apporte
 

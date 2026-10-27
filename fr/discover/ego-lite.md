@@ -2,16 +2,16 @@
 
 Ego-lite est un navigateur qui permet aux utilisateurs et aux agents d'intelligence artificielle de travailler simultanément. Cet outil basé sur JavaScript vise à réaliser une interaction humaine et machine en parallèle dans le même environnement de navigateur.
 
-- ★ 18 694
+- ★ 19 968
 - JavaScript
 - GitHub Trending · 2026-07-24
 
 ## Mises à jour
 
+- **27 octobre 2026:** Étoiles 18,694 → 19,968, dernière version v2.1.0 (16 octobre 2026).
 - **22 octobre 2026:** Étoiles 17,477 → 18,694, dernière version v2.1.0 (16 octobre 2026).
 - **16 octobre 2026:** Étoiles 16,628 → 17,477, dernière version v2.1.0 (16 octobre 2026).
 - **28 septembre 2026:** Étoiles 15,611 → 16,628, dernière version v2.0.0 (10 septembre 2026).
-- **10 septembre 2026:** Étoiles 14,478 → 15,611, dernière version v2.0.0 (10 septembre 2026).
 
 ## Ce que ça vous apporte
 

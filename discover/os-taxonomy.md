@@ -2,9 +2,13 @@
 
 withmarbleapp/os-taxonomy, JavaScript diliyle geliştirilmiş ve işletim sistemi sınıflandırmalarını düzenleyen bir kütüphanedir. Yazılım geliştiricilerin farklı işletim sistemi verilerini standart bir yapıda tanımlamasına olanak sağlar.
 
-- ★ 6.389
+- ★ 7.395
 - JavaScript
 - GitHub Trending · 2026-10-20
+
+## Güncelleme
+
+- **27 Ekim 2026:** Yıldız 6.389 → 7.395.
 
 ## Ne kazandırır?
 

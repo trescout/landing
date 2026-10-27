@@ -2,9 +2,13 @@
 
 withmarbleapp/os-taxonomy es una biblioteca desarrollada en el lenguaje JavaScript que organiza las clasificaciones de sistemas operativos. Permite a los desarrolladores de software definir diferentes datos de sistemas operativos en una estructura estándar.
 
-- ★ 6.389
+- ★ 7.395
 - JavaScript
 - GitHub Trending · 2026-10-20
+
+## Actualizaciones
+
+- **27 de octubre de 2026:** Estrellas 6,389 → 7,395.
 
 ## Qué aporta
 

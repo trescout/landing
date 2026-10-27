@@ -2,16 +2,16 @@
 
 Nautilus Trader ist eine Handelsmaschine mit einer deterministischen ereignisgesteuerten Architektur, die in der Rust-Sprache entwickelt wurde. Es bietet produktionstaugliche Infrastrukturlösungen für leistungsstarke Finanzsysteme.
 
-- ★ 29.428
+- ★ 30.920
 - Rust
 - GitHub Trending · 2026-06-18
 
 ## Aktualisierungen
 
+- **27. Oktober 2026:** Sterne 29,428 → 30,920, neueste Version v1.231.0 (2. August 2026).
 - **27. September 2026:** Sterne 27,920 → 29,428, neueste Version v1.231.0 (2. August 2026).
 - **27. August 2026:** Sterne 26,536 → 27,920, neueste Version v1.231.0 (2. August 2026).
 - **20. August 2026:** Sterne 25,223 → 26,536, neueste Version v1.231.0 (2. August 2026).
-- **3. August 2026:** Sterne 25,204 → 25,223, neueste Version v1.231.0 (2. August 2026).
 
 ## Was es bringt
 

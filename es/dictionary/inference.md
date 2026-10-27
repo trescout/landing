@@ -45,8 +45,8 @@ No, el modelo sólo hace predicciones utilizando la información que tiene dispo
 - [BitNet](https://trescout.com/es/discover/bitnet/)
 - [Ds4](https://trescout.com/es/discover/ds4/)
 - [LTX 2](https://trescout.com/es/discover/ltx-2/)
-- [Stable Diffusion.cpp](https://trescout.com/es/discover/stable-diffusion-cpp/)
 - [Magnitude](https://trescout.com/es/discover/magnitude/)
+- [Stable Diffusion.cpp](https://trescout.com/es/discover/stable-diffusion-cpp/)
 - [Model-Optimizer](https://trescout.com/es/discover/model-optimizer/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/inference/)

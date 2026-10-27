@@ -2,12 +2,13 @@
 
 MasterDnsVPN est une solution de réseau privé virtuel (VPN) de tunneling de système de noms de domaine à faible charge (tunneling DNS) développée pour contourner les barrières de censure. Écrit en langage Go, l'outil offre une stabilité élevée en matière de perte de paquets et des fonctionnalités d'équilibrage de charge du résolveur dans la transmission de données.
 
-- ★ 6 870
+- ★ 7 154
 - Go
 - GitHub Trending · 2026-06-11
 
 ## Mises à jour
 
+- **27 octobre 2026:** Étoiles 6,870 → 7,154, dernière version v2026.10.26.100415-5f83ee9 (26 octobre 2026).
 - **2 août 2026:** Étoiles 5,411 → 6,870, dernière version v2026.06.13.234407-7de2476 (13 juin 2026).
 
 ## Ce que ça vous apporte

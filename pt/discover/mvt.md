@@ -2,15 +2,15 @@
 
 Mobile Verification Toolkit é uma ferramenta de computação forense utilizada para detectar violações de segurança em dispositivos móveis. Desenvolvida em Python, este software analisa os dados do dispositivo para revelar possíveis vestígios de ataques cibernéticos.
 
-- ★ 15.319
+- ★ 15.558
 - GitHub Trending · 2026-09-22
 
 ## Atualizações
 
+- **27 de outubro de 2026:** Estrelas 15,319 → 15,558, versão mais recente v2026.10.26 (26 de outubro de 2026).
 - **12 de outubro de 2026:** Estrelas 15,221 → 15,319, versão mais recente v2026.10.12 (12 de outubro de 2026).
 - **5 de outubro de 2026:** Estrelas 14,955 → 15,221, versão mais recente v2026.10.5 (5 de outubro de 2026).
 - **28 de setembro de 2026:** Estrelas 14,900 → 14,955, versão mais recente v2026.9.28 (28 de setembro de 2026).
-- **27 de setembro de 2026:** Estrelas 14,780 → 14,900, versão mais recente v2026.9.21 (21 de setembro de 2026).
 
 ## O que você ganha
 

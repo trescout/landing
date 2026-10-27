@@ -2,17 +2,17 @@
 
 Svelte, geleneksel çerçevelerin aksine tarayıcıda çalışma zamanı (runtime) yükünü azaltan bir derleme zamanı (compile-time) yaklaşımı kullanıyor. Bu JavaScript kütüphanesi, uygulama kodunu küçük ve hızlı çalışan saf JavaScript modüllerine dönüştürerek web geliştirme süreçlerini basitleştiriyor.
 
-- ★ 88.343
+- ★ 88.492
 - GitHub Trending · 2026-06-07
 
 **TreScout notu:** Web arayüzü yazarken kullanılan çerçevelerden biri. İşin çoğunu siz kodu yazarken hallettiği için ziyaretçinin tarayıcısına daha az kod iner, sayfa hızlı açılır. Bedeli topluluk büyüklüğü: En yaygın seçenek olan React'e göre hazır parça, örnek ve iş ilanı azdır.
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 88.343 → 88.492, son sürüm svelte@5.57.3 (26 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 88.135 → 88.343, son sürüm svelte@5.57.2 (6 Ekim 2026).
 - **19 Eylül 2026:** Yıldız 88.034 → 88.135, son sürüm svelte@5.57.1 (18 Eylül 2026).
 - **31 Ağustos 2026:** Yıldız 87.981 → 88.034, son sürüm svelte@5.57.0 (28 Ağustos 2026).
-- **21 Ağustos 2026:** Yıldız 87.958 → 87.981, son sürüm svelte@5.56.10 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 

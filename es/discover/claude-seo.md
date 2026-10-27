@@ -2,12 +2,13 @@
 
 AgriciDaniel/claude-seo es un conjunto completo de capacidades desarrollado para Claude Code que automatiza los procesos de optimización de motores de búsqueda (SEO) técnicos. El proyecto ofrece 26 subcapacidades y 19 subagentes junto con integraciones de la API de Google (un puente digital que permite que dos programas diferentes se comuniquen entre sí) para aumentar la visibilidad en los motores de búsqueda.
 
-- ★ 21.180
+- ★ 22.364
 - Python
 - GitHub Trending · 2026-10-26
 
 ## Actualizaciones
 
+- **27 de octubre de 2026:** Estrellas 21,180 → 22,364, última versión v2.5.0 (22 de octubre de 2026).
 - **26 de octubre de 2026:** Estrellas 21,162 → 21,180, última versión v2.5.0 (22 de octubre de 2026).
 
 ## Qué aporta

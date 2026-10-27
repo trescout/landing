@@ -47,8 +47,8 @@ Yes, they can manage your files or run your applications if you give them the ne
 - [Ponytail](https://trescout.com/en/discover/ponytail/)
 - [Awesome LLM Apps](https://trescout.com/en/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/en/discover/browser-use/)
-- [Agent Skills](https://trescout.com/en/discover/agent-skills/)
 - [Orca](https://trescout.com/en/discover/orca/)
+- [Agent Skills](https://trescout.com/en/discover/agent-skills/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agent/)
 

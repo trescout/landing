@@ -2,16 +2,16 @@
 
 Kilo es una plataforma de ingeniería todo en uno basada en agentes diseñada para acelerar los procesos de desarrollo de software. Estandariza los procesos de creación, distribución e iteración de aplicaciones a través de un agente de desarrollo de software de código abierto (agente codificador).
 
-- ★ 27.717
+- ★ 27.763
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Actualizaciones
 
+- **27 de octubre de 2026:** Estrellas 27,717 → 27,763, última versión v7.8.18 (26 de octubre de 2026).
 - **23 de octubre de 2026:** Estrellas 27,663 → 27,717, última versión v7.8.17 (23 de octubre de 2026).
 - **20 de octubre de 2026:** Estrellas 27,631 → 27,663, última versión v7.8.15 (19 de octubre de 2026).
 - **17 de octubre de 2026:** Estrellas 27,629 → 27,631, última versión jetbrains/v7.1.11 (16 de octubre de 2026).
-- **16 de octubre de 2026:** Estrellas 27,613 → 27,629, última versión jetbrains/v7.1.10 (15 de octubre de 2026).
 
 ## Qué aporta
 

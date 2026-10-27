@@ -2,16 +2,16 @@
 
 Cline, yazılım geliştirme süreçlerini otomatize eden otonom bir kodlama ajanıdır. IDE eklentisi, yazılım geliştirme kiti (SDK) veya komut satırı arayüzü (CLI) üzerinden çalışarak geliştiricilerin projelerine entegre olur.
 
-- ★ 70.850
+- ★ 70.911
 - TypeScript
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 70.850 → 70.911, son sürüm v4.1.26 (26 Ekim 2026).
 - **26 Ekim 2026:** Yıldız 70.444 → 70.850, son sürüm desktop-v0.0.49 (26 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 70.397 → 70.444, son sürüm desktop-v0.0.48 (17 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 70.270 → 70.397, son sürüm desktop-v0.0.47 (16 Ekim 2026).
-- **13 Ekim 2026:** Yıldız 70.018 → 70.270, son sürüm desktop-v0.0.46 (13 Ekim 2026).
 
 ## Ne kazandırır?
 

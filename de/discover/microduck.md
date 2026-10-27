@@ -2,12 +2,13 @@
 
 Der von Pollen Robotics entwickelte microduck ist ein 25 Zentimeter großer zweibeiniger Entenroboter, der von einem Rockchip RK3566-Prozessor angetrieben wird. Die in der Programmiersprache Rust geschriebene Software steuert fünfzehn Servos über neuronale Richtlinien (neural policies), um die Bewegungs- und Steuerungsprozesse des Roboters auszuführen.
 
-- ★ 11.098
+- ★ 12.594
 - Rust
 - GitHub Trending · 2026-10-25
 
 ## Aktualisierungen
 
+- **27. Oktober 2026:** Sterne 11,098 → 12,594, neueste Version daemon-v0.17.9 (26. Oktober 2026).
 - **25. Oktober 2026:** Sterne 11,089 → 11,098, neueste Version daemon-v0.17.8 (19. Oktober 2026).
 
 ## Was es bringt

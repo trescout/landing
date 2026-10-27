@@ -2,16 +2,16 @@
 
 Harvard Üniversitesi tarafından paylaşılan bu kaynak, makine öğrenmesi sistemleri (machine learning systems) üzerine kapsamlı bir teknik rehber sunuyor. Donanım ve yazılım katmanlarını birleştiren bu çalışma, ölçeklenebilir yapay zekâ altyapılarının tasarım süreçlerini ele alıyor.
 
-- ★ 29.642
+- ★ 29.690
 - Python
 - GitHub Trending · 2026-07-03
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 29.642 → 29.690, son sürüm slides-latest (11 Mayıs 2026).
 - **26 Ekim 2026:** Yıldız 29.547 → 29.642, son sürüm vol1-v0.8.0 (24 Ekim 2026).
 - **25 Ekim 2026:** Yıldız 28.788 → 29.547, son sürüm slides-latest (11 Mayıs 2026).
 - **2 Ekim 2026:** Yıldız 28.085 → 28.788, son sürüm tinytorch-v0.2.0 (1 Ekim 2026).
-- **1 Eylül 2026:** Yıldız 27.689 → 28.085, son sürüm vol1-v0.7.2 (31 Ağustos 2026).
 
 ## Ne kazandırır?
 

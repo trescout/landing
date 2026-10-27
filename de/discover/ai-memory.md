@@ -2,16 +2,16 @@
 
 Ai-memory wurde in Rust geschrieben und bietet eine Langzeitgedächtnislösung für Agenten der künstlichen Intelligenz. Es unterstützt die Kontinuität von Befehlszeilenschnittstellen (CLI), die in Softwareentwicklungsprozessen verwendet werden, indem es den Datentransfer zwischen verschiedenen Agentenanbietern erleichtert.
 
-- ★ 13.564
+- ★ 13.892
 - Rust
 - GitHub Trending · 2026-08-18
 
 ## Aktualisierungen
 
+- **27. Oktober 2026:** Sterne 13,564 → 13,892, neueste Version v3.2.8 (27. Oktober 2026).
 - **26. Oktober 2026:** Sterne 13,319 → 13,564, neueste Version v3.2.5 (25. Oktober 2026).
 - **25. Oktober 2026:** Sterne 12,880 → 13,319, neueste Version v3.2.3 (25. Oktober 2026).
 - **23. Oktober 2026:** Sterne 12,589 → 12,880, neueste Version v3.2.2 (23. Oktober 2026).
-- **22. Oktober 2026:** Sterne 11,983 → 12,589, neueste Version v3.2.0 (22. Oktober 2026).
 
 ## Was es bringt
 

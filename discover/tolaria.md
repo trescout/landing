@@ -2,16 +2,16 @@
 
 Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilen bir masaüstü uygulamasıdır. TypeScript ile yazılan bu araç, kişisel dokümantasyon ve not sistemlerini düzenli bir yapıda tutmayı kolaylaştırır.
 
-- ★ 20.061
+- ★ 20.359
 - TypeScript
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 20.061 → 20.359, son sürüm v2026-10-26 (26 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 19.906 → 20.061, son sürüm v2026-10-13 (13 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 19.727 → 19.906, son sürüm v2026-09-24 (24 Eylül 2026).
 - **8 Eylül 2026:** Yıldız 19.643 → 19.727, son sürüm v2026-09-08 (8 Eylül 2026).
-- **31 Ağustos 2026:** Yıldız 19.513 → 19.643, son sürüm v2027-08-28 (28 Ağustos 2026).
 
 ## Ne kazandırır?
 

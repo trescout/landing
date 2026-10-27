@@ -2,17 +2,17 @@
 
 **Jellyfin**, kendi film, dizi ve müzik koleksiyonunuzu yönetip **tüm cihazlarınıza yayınlamanızı** sağlayan özgür bir medya sunucusudur. Plex ve Emby'ye alternatif olan bu platformda premium kilitler, reklamlar veya gizli ücretler bulunmaz.
 
-- ★ 58.424
+- ★ 58.671
 - C#
 - GPL-2.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 58.424 → 58.671, son sürüm v12.4 (26 Ekim 2026).
 - **23 Ekim 2026:** Yıldız 57.828 → 58.424, son sürüm v12.3 (23 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 57.137 → 57.828, son sürüm v12.2 (5 Ekim 2026).
 - **15 Eylül 2026:** Yıldız 56.682 → 57.137, son sürüm v12.1 (15 Eylül 2026).
-- **8 Eylül 2026:** Yıldız 55.268 → 56.682, son sürüm v12.0 (8 Eylül 2026).
 
 - **Kimin için:** Medya koleksiyonunu kendi sunucusunda toplamak isteyenler
 - **Zorluk:** Orta · bir sunucu/bilgisayara kurmak gerekir

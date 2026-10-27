@@ -2,16 +2,16 @@
 
 YuJunZhiXue/dsh-purge ist ein JavaScript-Tool, das darauf abzielt, Sicherheitsbeschränkungen (Jailbreak) für verschiedene KI-Modelle mithilfe anpassbarer Prompts zu umgehen. Das Projekt ermöglicht es Benutzern, eigene Befehle für verschiedene Modelle zu definieren und konzentriert sich standardmäßig auf lokale Modelle.
 
-- ★ 9.063
+- ★ 10.352
 - JavaScript
 - GitHub Trending · 2026-10-19
 
 ## Aktualisierungen
 
+- **27. Oktober 2026:** Sterne 9,063 → 10,352, neueste Version v1.1.79 (26. Oktober 2026).
 - **26. Oktober 2026:** Sterne 7,485 → 9,063, neueste Version v1.1.78 (24. Oktober 2026).
 - **24. Oktober 2026:** Sterne 7,355 → 7,485, neueste Version v1.1.78 (24. Oktober 2026).
 - **24. Oktober 2026:** Sterne 6,673 → 7,355, neueste Version v1.1.77 (23. Oktober 2026).
-- **23. Oktober 2026:** Sterne 6,492 → 6,673, neueste Version v1.1.74 (23. Oktober 2026).
 
 ## Was es bringt
 

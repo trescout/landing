@@ -2,7 +2,7 @@
 
 O repositório awesome-llm-apps oferece mais de 100 agentes de IA diretamente executáveis ​​e exemplos de aplicativos RAG. Esses projetos baseados em Python permitem que os desenvolvedores copiem e personalizem aplicativos rapidamente e os iniciem.
 
-- ★ 136.300
+- ★ 143.192
 - Python
 - GitHub Trending · 2026-07-13
 
@@ -10,6 +10,7 @@ O repositório awesome-llm-apps oferece mais de 100 agentes de IA diretamente ex
 
 ## Atualizações
 
+- **27 de outubro de 2026:** Estrelas 136,300 → 143,192.
 - **6 de setembro de 2026:** Estrelas 129,783 → 136,300.
 - **2 de agosto de 2026:** Estrelas 118,879 → 129,783.
 

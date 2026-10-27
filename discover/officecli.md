@@ -2,16 +2,16 @@
 
 OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını doğrudan okumasına, düzenlemesine ve otomatize etmesine olanak tanıyan açık kaynaklı bir ofis paketi sunuyor. C# ile geliştirilen bu araç, herhangi bir ofis yazılımı kurulumuna ihtiyaç duymadan tek bir ikili dosya (binary) üzerinden işlem yapılmasına imkân veriyor.
 
-- ★ 32.214
+- ★ 32.527
 - C#
 - GitHub Trending · 2026-07-08
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 32.214 → 32.527, son sürüm v1.0.159 (27 Ekim 2026).
 - **20 Ekim 2026:** Yıldız 31.905 → 32.214, son sürüm v1.0.158 (20 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 31.762 → 31.905, son sürüm v1.0.157 (12 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 31.612 → 31.762, son sürüm v1.0.156 (9 Ekim 2026).
-- **6 Ekim 2026:** Yıldız 31.577 → 31.612, son sürüm v1.0.155 (6 Ekim 2026).
 
 ## Ne kazandırır?
 

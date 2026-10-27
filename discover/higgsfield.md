@@ -2,11 +2,12 @@
 
 Higgsfield, milyarlarca ve trilyonlarca parametreye sahip modelleri eğitmek için tasarlanmış bir makine öğrenimi (machine learning) çerçevesidir. Hata toleranslı ve yüksek ölçeklenebilir grafik işlem birimi (GPU) düzenleme yetenekleriyle büyük ölçekli yapay zekâ projelerini destekler.
 
-- ★ 5.764
+- ★ 6.232
 - GitHub Trending · 2026-09-20
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 5.764 → 6.232, son sürüm v0.0.4-rc (23 Mart 2024), depo arşivlendi, geliştirme durdu.
 - **27 Eylül 2026:** Yıldız 5.541 → 5.764, son sürüm v0.0.4-rc (23 Mart 2024).
 
 ## Ne kazandırır?
