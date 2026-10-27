@@ -1,0 +1,495 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-27",
+  "capturedAt": "2026-10-27T17:05:35.488Z",
+  "editorial": "Os conteúdos incluídos no relatório não são repetidos durante 30 dias. Após este período, os registos que continuam na agenda são listados novamente com a etiqueta \"novamente na agenda\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "summary": "nightly-labs/openbot é um aplicativo de desktop que permite gerenciar colegas de trabalho de inteligência artificial por meio de espaços de trabalho focados localmente (local-first). Ele permite que você use modelos como Codex, Claude e Grok com recursos de compartilhamento de arquivos, controle de navegador e colaboração entre agentes.",
+          "meta": "TypeScript · ★ 2.151 · +794 hoje",
+          "snapshot": {
+            "sourceId": "nightly-labs/openbot",
+            "capturedAt": "2026-10-27T17:05:36.605Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2151,
+              "engagementCount": 794,
+              "rank": 2,
+              "extra": {
+                "starsToday": 794
+              }
+            },
+            "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers é uma estrutura de habilidades (framework) e metodologia de desenvolvimento de software desenvolvida para agentes de inteligência artificial que programam. Por meio de habilidades combináveis e instruções de orientação, visa padronizar os processos de desenvolvimento de software dos agentes.",
+          "meta": "Shell · ★ 306.178 · +608 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-27T17:05:36.605Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 306178,
+              "engagementCount": 608,
+              "rank": 3,
+              "extra": {
+                "starsToday": 608,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        },
+        {
+          "title": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "summary": "gitroomhq/postiz-app é uma ferramenta de agendamento baseada em agentes (agentic) voltada para o planejamento de conteúdo de mídia social. Desenvolvido na linguagem TypeScript, este aplicativo permite que os usuários automatizem suas postagens nas redes sociais.",
+          "meta": "TypeScript · ★ 39.093 · +953 hoje",
+          "snapshot": {
+            "sourceId": "gitroomhq/postiz-app",
+            "capturedAt": "2026-10-27T17:05:36.605Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 39093,
+              "engagementCount": 953,
+              "rank": 6,
+              "extra": {
+                "starsToday": 953,
+                "baglam": "readme"
+              }
+            },
+            "description": "📨 The ultimate agentic social media scheduling tool 🤖. To have the project up and running, please follow the Quick Start Guide"
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "affaan-m/ECC oferece um sistema de melhoria de desempenho focado em habilidades, memória e segurança para ferramentas de codificação de inteligência artificial (Claude Code, Codex, Opencode, Cursor). Desenvolvida com JavaScript, esta estrutura visa aumentar a eficiência dos modelos de inteligência artificial usados nos processos de desenvolvimento de software.",
+          "meta": "JavaScript · ★ 290.571 · +1.183 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-10-27T17:05:36.605Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 290571,
+              "engagementCount": 1183,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1183
+              }
+            },
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+          }
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "HKUDS/DeepTutor oferece um espaço de trabalho de aprendizado baseado em inteligência artificial que combina processos educacionais como aulas particulares, resolução de problemas e criação de testes em um único sistema. Focado em educação personalizada contínua (lifelong personalized tutoring), este sistema reúne práticas de visualização e especialização em uma estrutura expansível.",
+          "meta": "Python · ★ 45.450 · +1.587 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "HKUDS/DeepTutor",
+            "capturedAt": "2026-10-27T17:05:36.605Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 45450,
+              "engagementCount": 1587,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1587,
+                "baglam": "readme"
+              }
+            },
+            "description": "DeepTutor: Lifelong Personalized Tutoring. DeepTutor is an agent-native learning workspace that connects tutoring, problem solving, quiz generation, research, visualization, and mastery practice in one extensible system."
+          }
+        },
+        {
+          "title": "togg53192-cmd/jailbreaks",
+          "url": "https://github.com/togg53192-cmd/jailbreaks",
+          "summary": "togg53192-cmd/jailbreaks oferece uma coleção composta por comandos de sistema (system prompts), bloqueios de personalidade e políticas de espaço de trabalho voltados para contornar as restrições de segurança de modelos de inteligência artificial. Este trabalho constitui uma compilação técnica que visa alterar os princípios de funcionamento de vários modelos de pesos abertos (open-weight) e fechados.",
+          "meta": "★ 5.175 · +890 hoje",
+          "snapshot": {
+            "sourceId": "togg53192-cmd/jailbreaks",
+            "capturedAt": "2026-10-27T17:05:36.605Z",
+            "metadata": {
+              "popularity": 5175,
+              "engagementCount": 890,
+              "rank": 10,
+              "extra": {
+                "starsToday": 890,
+                "baglam": "readme"
+              }
+            },
+            "description": "LIST OF ALL MY JAILBREAKS. A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "The Exponential Time Hypothesis Is False [pdf]",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+          "summary": "O artigo publicado pela OpenAI sugere que a Hipótese do Tempo Exponencial (Exponential Time Hypothesis), uma suposição fundamental na teoria da complexidade computacional, está incorreta. O estudo é apresentado como parte de uma pesquisa mais ampla que anuncia novas descobertas nos campos da matemática e da ciência da computação.",
+          "meta": "753 pontos · 271 comentários",
+          "snapshot": {
+            "sourceId": "50251661",
+            "capturedAt": "2026-10-27T17:05:35.767Z",
+            "metadata": {
+              "popularity": 753,
+              "engagementCount": 271,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50251661",
+                  "popularity": 753,
+                  "engagementCount": 271
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-26T21:59:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50251661"
+              }
+            },
+            "description": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251344"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50251661",
+              "popularity": 753,
+              "engagementCount": 271
+            }
+          ]
+        },
+        {
+          "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+          "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+          "summary": "Relata-se que o Roblox baixou 145 GB de dados sem autorização através das plataformas de modelos tridimensionais Open3DLab, SFMLab e SmutBase. Estima-se que os referidos dados tenham sido coletados para fins de treinamento de inteligência artificial.",
+          "meta": "410 pontos · 236 comentários",
+          "snapshot": {
+            "sourceId": "50256985",
+            "capturedAt": "2026-10-27T17:05:35.767Z",
+            "metadata": {
+              "popularity": 410,
+              "engagementCount": 236,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50256985",
+                  "popularity": 410,
+                  "engagementCount": 236
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-27T10:27:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50256985",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "On 15 and 16 October 2026, a crawler that said it belonged to Roblox walked through almost every project on Open3DLab, SFMLab and SmutBase, and proceeded to download complete copies of 1,027 files from 712 projects. 145.5 GB of our creators' work, downloaded for what we assume are AI training purposes."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50256985",
+              "popularity": 410,
+              "engagementCount": 236
+            }
+          ]
+        },
+        {
+          "title": "The Mythical Man-Month in the Age of AI",
+          "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+          "summary": "The Mythical Man-Month in the Age of AI reavalia a clássica Lei de Brooks sobre a gestão de mão de obra e tempo em projetos de software à luz das ferramentas de inteligência artificial atuais. O estudo examina como o uso de inteligência artificial generativa (generative AI) altera a produtividade e as dinâmicas de gestão de equipes nos processos de desenvolvimento de software.",
+          "meta": "356 pontos · 233 comentários",
+          "snapshot": {
+            "sourceId": "50255298",
+            "capturedAt": "2026-10-27T17:05:35.767Z",
+            "metadata": {
+              "popularity": 356,
+              "engagementCount": 233,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50255298",
+                  "popularity": 356,
+                  "engagementCount": 233
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-27T06:25:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50255298",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "An update to Brooks's Law in the age of AI."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50255298",
+              "popularity": 356,
+              "engagementCount": 233
+            }
+          ]
+        },
+        {
+          "title": "The US government is hiding secret court ruling about how it spies on Americans",
+          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+          "summary": "Alega-se que o governo dos Estados Unidos ocultou do público uma decisão judicial secreta referente à vigilância de cidadãos. O referido desenvolvimento traz à tona debates sobre os limites legais e os princípios de transparência das atividades de monitoramento digital do Estado.",
+          "meta": "337 pontos · 93 comentários",
+          "snapshot": {
+            "sourceId": "50259604",
+            "capturedAt": "2026-10-27T17:05:35.767Z",
+            "metadata": {
+              "popularity": 337,
+              "engagementCount": 93,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50259604",
+                  "popularity": 337,
+                  "engagementCount": 93
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-27T14:06:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50259604"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50259604",
+              "popularity": 337,
+              "engagementCount": 93
+            }
+          ]
+        },
+        {
+          "title": "Python's experimental JIT to be removed",
+          "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+          "summary": "O recurso experimental de compilação just-in-time (just-in-time compilation) presente na linguagem de programação Python está sendo removido. Esta mudança indica que a estrutura de código experimental adicionada para aumentar o desempenho da linguagem será retirada do projeto.",
+          "meta": "292 pontos · 152 comentários",
+          "snapshot": {
+            "sourceId": "50257419",
+            "capturedAt": "2026-10-27T17:05:35.767Z",
+            "metadata": {
+              "popularity": 292,
+              "engagementCount": 152,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50257419",
+                  "popularity": 292,
+                  "engagementCount": 152
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-27T11:17:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50257419"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50257419",
+              "popularity": 292,
+              "engagementCount": 152
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "ThinkBit: Search Codewords, Recalibrate Scales, Select by Reasoning",
+          "url": "https://huggingface.co/papers/2610.34886",
+          "summary": "ThinkBit, publicado no Hugging Face, é uma estrutura de quantização (quantization) de peso de dois bits (two-bit) desenvolvida para preservar as capacidades de raciocínio. Este método visa reduzir os custos de inferência de modelos de linguagem focados em raciocínio que exigem alta largura de banda de memória.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.34886",
+            "capturedAt": "2026-10-27T17:05:35.606Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34886",
+                "publishedAt": "2026-10-26T00:00:00.000Z"
+              }
+            },
+            "description": "Reasoning language models generate thousands of tokens per answer, and generation speed is limited by memory bandwidth, so storing weights in two bits instead of bfloat16 can potentially make inference 8times cheaper. Two-bit methods are usually judged by perplexity and multiple-choice question-answering accuracy, both of which say little about whether a model can still reason through more difficult problems. We present ThinkBit, a strictly scalar two-bit framework built to preserve reasoning, i"
+          }
+        },
+        {
+          "title": "iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents",
+          "url": "https://huggingface.co/papers/2610.34735",
+          "summary": "iPrefBench é uma ferramenta de benchmark desenvolvida para avaliar agentes de inteligência artificial que executam tarefas personalizadas de acordo com as preferências do usuário em dispositivos móveis. Este estudo apresenta uma abordagem que visa fazer com que os agentes completem solicitações incompletas dos usuários, inferindo a partir de atividades passadas ou consultando diretamente o usuário.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.34735",
+            "capturedAt": "2026-10-27T17:05:35.606Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34735",
+                "publishedAt": "2026-10-26T00:00:00.000Z"
+              }
+            },
+            "description": "An agent that truly knows and acts on behalf of its user has been a long-standing promise of AI assistants. Computer-use agents bring this promise within reach by capably executing fully specified tasks across apps. However, real-world user requests are often underspecified. To act correctly for the particular user, an agent must infer some missing information from the user's activity history and ask for other information that only the user can provide, without making unsupported assumptions or "
+          }
+        },
+        {
+          "title": "Semantic Concept Steering Breaks the Explanation Drift Loop in Continual Learning",
+          "url": "https://huggingface.co/papers/2610.33877",
+          "summary": "O foco está no problema do desvio de explicação (explanation drift), onde os modelos, em processos de aprendizado contínuo (continual learning), deslocam seus pontos de foco para relações incorretas enquanto mantêm a precisão da previsão. Este estudo propõe o método de direcionamento de conceito semântico (semantic concept steering) para resolver o ciclo autorreferencial criado pela regularização de saliência (saliency regularization) em nível de pixel.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.33877",
+            "capturedAt": "2026-10-27T17:05:35.606Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.33877",
+                "publishedAt": "2026-10-24T00:00:00.000Z"
+              }
+            },
+            "description": "Catastrophic forgetting in continual learning (CL) manifests not only as accuracy degradation but also as explanation drift: models maintain predictive accuracy while silently shifting attention from diagnostic features to spurious correlations. This work identifies and resolves a previously overlooked structural flaw in explanation-aware CL: pixel-level saliency regularization derives supervision targets from the model's own frozen saliency maps, creating a self-referential drift loop that acti"
+          }
+        },
+        {
+          "title": "Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection",
+          "url": "https://huggingface.co/papers/2610.28490",
+          "summary": "Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection, apresenta um método que aprende a partir de edições de modelos 3D Gaussian Splatting (3DGS) para detecção de mudança de cena em ambiente online. O estudo desenvolve uma abordagem que utiliza edições automáticas para reduzir os custos computacionais nos processos de inferência bayesiana.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.28490",
+            "capturedAt": "2026-10-27T17:05:35.606Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.28490",
+                "publishedAt": "2026-10-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/changruizhu96/LEGO-SCD",
+                "githubStars": 0
+              }
+            },
+            "description": "Online scene change detection requires integrating incoming observations to determine which regions have changed relative to a reference scene. We update change beliefs as new images arrive using generalised Bayesian evidence fusion. However, the prior probability of change and evidence models are unknown beforehand, and numerical Bayesian inference can be costly. We address these challenges by learning offline from automatic edits to a reference 3D Gaussian Splatting (3DGS) model. These edits g"
+          }
+        },
+        {
+          "title": "Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila",
+          "url": "https://huggingface.co/papers/2610.34638",
+          "summary": "O artigo compartilhado no Hugging Face examina os mecanismos computacionais subjacentes aos comportamentos de exploração autônoma exibidos por moscas-das-frutas (Drosophila melanogaster) sem estímulos externos. O estudo combina registros cerebrais com um gêmeo digital neuromecânico para investigar se os processos de exploração direcionados por motivação intrínseca podem servir de modelo para agentes de inteligência artificial.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.34638",
+            "capturedAt": "2026-10-27T17:05:35.606Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34638",
+                "publishedAt": "2026-10-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/neuroagents-lab/autonomous_drosophila",
+                "githubStars": 1
+              }
+            },
+            "description": "Animals have a remarkable capacity for autonomy---driven by intrinsic motivation---without external sensory cues or extrinsic objectives, yet the computational mechanisms behind this ability largely remain a mystery. We combine whole-brain recordings in the fruit fly (Drosophila melanogaster), which reveal neural representations of spontaneous exploratory decisions more than 10 seconds in advance, with a neuromechanical digital twin to test whether optimizing intrinsic goals yields realistically"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia de inteligência artificial capaz de criar conteúdos como novos textos, imagens ou códigos com base nos comandos fornecidos."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Modo de trabalho que prioriza o armazenamento e processamento de dados diretamente no dispositivo do usuário, sem necessidade de conexão com a internet."
+    },
+    {
+      "term": "framework",
+      "explanation": "Conjunto de estruturas e regras prontas utilizadas para realizar funções específicas durante o desenvolvimento de software."
+    },
+    {
+      "term": "agentic",
+      "explanation": "Sistemas de inteligência artificial capazes de tomar decisões por conta própria sem intervenção humana, planejando e executando etapas para atingir seus objetivos."
+    },
+    {
+      "term": "lifelong personalized tutoring",
+      "explanation": "Suporte educacional personalizado e contínuo que se adapta constantemente à velocidade de aprendizagem e às necessidades do usuário."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Ferramenta abrangente de desenvolvimento de software que facilita a escrita, edição e depuração de código para desenvolvedores."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instruções fundamentais que determinam como um modelo de inteligência artificial deve se comportar e quais regras deve seguir."
+    },
+    {
+      "term": "open-weight",
+      "explanation": "Estado em que os parâmetros internos de um modelo de inteligência artificial treinado estão abertos ao acesso e uso de todos."
+    },
+    {
+      "term": "Exponential Time Hypothesis",
+      "explanation": "Uma suposição teórica que defende que a solução de certos problemas computacionais se torna exponencialmente mais difícil à medida que o tamanho da entrada aumenta."
+    },
+    {
+      "term": "just-in-time compilation",
+      "explanation": "Método de aumentar a velocidade de processamento traduzindo o código do programa para linguagem de máquina no momento da execução."
+    },
+    {
+      "term": "two-bit",
+      "explanation": "Nível de compressão que permite que o modelo de inteligência artificial consuma menos memória reduzindo seus pesos para um tamanho de dados muito baixo."
+    },
+    {
+      "term": "quantization",
+      "explanation": "Processo de redução da precisão dos valores numéricos para diminuir o espaço ocupado pelos modelos de inteligência artificial e acelerá-los."
+    }
+  ]
+}
