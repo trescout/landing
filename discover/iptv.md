@@ -26,10 +26,13 @@ Bu aracı kullanmak için herhangi bir kurulum yapmanıza gerek yoktur. Projenin
 - [Resmî kaynak →](https://iptv-org.github.io)
 
 - **Kimin için:** Dünya genelindeki halka açık televizyon kanallarını tek bir uygulama üzerinden izlemek isteyen kullanıcılar içindir.
-- **Lisans:** Unlicense
+- **Lisans:** Unlicense (depo kodu; yayın listelerindeki içerik hakları ayrıca doğrulanmalıdır)
+
+## Editoryal not
+
+Telif ve gizlilik notu: Listedeki yayın URL’lerinin hak sahipliği ve ülkesel erişimi TreScout tarafından doğrulanmaz. Yalnızca yayıncının yetkilendirdiği kamu yayınlarını kullanın; üçüncü taraf oynatıcıların ve kaynak sunucuların gizlilik şartlarını ayrıca kontrol edin.
 
 ## Bağlantılar
-
 - [GitHub deposu →](https://github.com/iptv-org/iptv)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

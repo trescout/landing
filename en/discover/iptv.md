@@ -33,8 +33,11 @@ You don't need any installation to use this tool. Copy the link to the project's
 - **Who it is for:** It is for users who want to watch public television channels around the world from a single application.
 - **License:** Unlicense
 
-## Links
+## Editorial note
 
+Copyright and privacy note: TreScout does not verify rights or territorial availability for listed stream URLs. Use only public broadcasts authorized by their publishers, and review the privacy terms of players and source servers.
+
+## Links
 - [GitHub repository →](https://github.com/iptv-org/iptv)
 - [Read in Turkish →](https://trescout.com/discover/iptv/)
 

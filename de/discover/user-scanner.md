@@ -80,7 +80,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Cybersicherheitsforscher, OSINT-Analysten, Experten für Computerforensik und ethische Hacker.
-- **Lizenz:** GPL-3.0 (Open-Source-Copyleft-Lizenz)
+- **Lizenz:** MIT (Open-Source-Copyleft-Lizenz)
 - **Framework:** Asynchroner OSINT-Scanner für Python
 - **Plattformen:** Linux, macOS, Windows
 
@@ -90,6 +90,10 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Auf Türkisch lesen →](https://trescout.com/discover/user-scanner/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-31 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+
+## Redaktioneller Hinweis
+
+Privacy and ethics note: Use only with consent, a lawful basis, and authorized OSINT. Do not bulk-scan people, correlate infostealer data, doxx, or bypass platform limits with proxies; minimize data and retention.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/user-scanner/

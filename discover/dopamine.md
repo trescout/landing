@@ -28,8 +28,11 @@ Dopamine aracını kullanmaya başlamak için resmî web sitesi olan https://ell
 - **Kimin için:** iOS işletim sistemli cihazlarında sistem kısıtlamalarını aşarak yönetici yetkilerine sahip olmak isteyen kullanıcılar içindir.
 - **Lisans:** MIT
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik notu: Yalnızca sahibi olduğunuz cihazlarda kullanın. İşleme başlamadan önce yedek alın; iOS sürümü/cihaz uyumluluğunu resmi GitHub veya ElleKit kaynağından doğrulayın ve güvenilmeyen tweak/paket kurmayın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/opa334/Dopamine)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

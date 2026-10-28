@@ -112,26 +112,6 @@
             },
             "description": "DeepTutor: Lifelong Personalized Tutoring. DeepTutor is an agent-native learning workspace that connects tutoring, problem solving, quiz generation, research, visualization, and mastery practice in one extensible system."
           }
-        },
-        {
-          "title": "togg53192-cmd/jailbreaks",
-          "url": "https://github.com/togg53192-cmd/jailbreaks",
-          "summary": "togg53192-cmd/jailbreaks offers a collection of system prompts, persona locks, and workspace policies aimed at bypassing the security restrictions of artificial intelligence models. This work serves as a technical compilation intended to alter the operating principles of various open-weight and closed models.",
-          "meta": "★ 5,175 · +890 today",
-          "snapshot": {
-            "sourceId": "togg53192-cmd/jailbreaks",
-            "capturedAt": "2026-10-27T17:05:36.605Z",
-            "metadata": {
-              "popularity": 5175,
-              "engagementCount": 890,
-              "rank": 10,
-              "extra": {
-                "starsToday": 890,
-                "baglam": "readme"
-              }
-            },
-            "description": "LIST OF ALL MY JAILBREAKS. A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models."
-          }
         }
       ]
     },

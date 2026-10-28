@@ -85,8 +85,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Framework:** Go-based cross-platform CLI
 - **Platforms:** macOS, Linux, Windows
 
-## Links
+## Editorial note
 
+Privacy and copyright note: Archive only apps licensed to or legitimately obtained by your Apple account. Protect credentials and preferably use a test account; do not redistribute or unauthorizedly re-sign IPA packages.
+
+## Links
 - [GitHub repository →](https://github.com/majd/ipatool)
 - [Read in Turkish →](https://trescout.com/discover/ipatool/)
 

@@ -54896,32 +54896,6 @@
     "tagline_de": "gitroomhq/postiz-app ist ein agentenbasiertes Planungstool für Social-Media-Inhalte."
   },
   {
-    "slug": "jailbreaks",
-    "title": "Jailbreaks",
-    "tagline": "togg53192-cmd/jailbreaks, yapay zekâ modellerinin güvenlik kısıtlamalarını aşmaya yönelik sistem komutları (system prompts)…",
-    "meta": "★ 5.175",
-    "image": "/assets/discover/og/jailbreaks.webp",
-    "source": "GitHub",
-    "date": "2026-10-27",
-    "tags": [
-      "Yapay zekâ araçları",
-      "Geliştirici aracı"
-    ],
-    "stars": 5175,
-    "last_seen": "2026-10-28",
-    "summary": "togg53192-cmd/jailbreaks, yapay zekâ modellerinin güvenlik kısıtlamalarını aşmaya yönelik sistem komutları (system prompts), kişilik kilitleri ve çalışma alanı politikalarından oluşan bir koleksiyon sunuyor. Bu çalışma, çeşitli açık ağırlıklı (open-weight) ve kapalı modellerin çalışma prensiplerini değiştirmeyi hedefleyen teknik bir derleme niteliği taşıyor.",
-    "lite": false,
-    "headline": "Yapay zekâ modelleri için komut koleksiyonu",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
-    "last_review": "2026-10-28",
-    "tagline_en": "togg53192-cmd/jailbreaks is a collection of system prompts aimed at bypassing the security restrictions of AI models...",
-    "tagline_fr": "togg53192-cmd/jailbreaks est une collection de commandes système (system prompts) visant à contourner les restrictions de sécurité des modèles d'intelligence artificielle…",
-    "tagline_pt": "togg53192-cmd/jailbreaks, comandos de sistema (system prompts) destinados a contornar as restrições de segurança de modelos de inteligência artificial...",
-    "tagline_es": "togg53192-cmd/jailbreaks, son comandos de sistema (system prompts) destinados a eludir las restricciones de seguridad de los modelos de inteligencia artificial...",
-    "tagline_de": "togg53192-cmd/jailbreaks enthält System-Prompts, die darauf abzielen, die Sicherheitsbeschränkungen von KI-Modellen zu umgehen..."
-  },
-  {
     "slug": "ai-design-skills",
     "title": "AI Design Skills",
     "tagline": "elayadesign/ai-design-skills, yapay zekâ kodlama araçlarının (Claude Code, Cursor, Codex, Windsurf) okuyabildiği markdown…",

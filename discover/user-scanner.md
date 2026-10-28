@@ -71,7 +71,7 @@ Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli ara
 Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 - **Kimin için:** Siber güvenlik araştırmacıları, OSINT analistleri, adli bilişim uzmanları ve etik hackerlar.
-- **Lisans:** GPL-3.0 (Açık kaynak copyleft lisansı)
+- **Lisans:** MIT (Açık kaynak copyleft lisansı)
 - **Çatı:** Python Asenkron OSINT Tarayıcısı
 - **Platformlar:** Linux, macOS, Windows
 
@@ -82,8 +82,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Sonuçlar ne kadar sürede tamamlanır?** Asenkron mimarisi sayesinde internet bağlantınıza bağlı olarak 465'ten fazla platformun taranması genellikle 20 ile 45 saniye arasında tamamlanır.
 - **E-posta araması nasıl çalışır?** E-posta modunda, desteklenen servislerin şifre sıfırlama veya hesap kayıt uç noktalarında kamuya açık doğrulama sinyalleri incelenir.
 
-## Bağlantılar
+## Editoryal not
 
+Gizlilik ve etik notu: Yalnızca açık rıza, hukuki dayanak ve yetkili OSINT kapsamında kullanın. Toplu kişi taraması, infostealer verisiyle eşleştirme, doxxing ve proxy ile platform kısıtlarını aşma kabul edilemez; veri minimizasyonu ve saklama süresi uygulayın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/kaifcodec/user-scanner)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

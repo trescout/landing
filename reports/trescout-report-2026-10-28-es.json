@@ -212,26 +212,6 @@
             },
             "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need. ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow."
           }
-        },
-        {
-          "title": "togg53192-cmd/jailbreaks",
-          "url": "https://github.com/togg53192-cmd/jailbreaks",
-          "summary": "togg53192-cmd/jailbreaks ofrece una colección compilada de comandos del sistema, bloqueos de personalidad y políticas de espacio de trabajo para modelos ocultos, gratuitos y de peso abierto (open-weight) que no conocen fronteras (frontier). Este repositorio contiene varios archivos de configuración destinados a cambiar los principios de funcionamiento y las restricciones de los modelos de inteligencia artificial.",
-          "meta": "★ 5.849 · +902 hoy",
-          "snapshot": {
-            "sourceId": "togg53192-cmd/jailbreaks",
-            "capturedAt": "2026-10-28T05:14:56.326Z",
-            "metadata": {
-              "popularity": 5849,
-              "engagementCount": 902,
-              "rank": 11,
-              "extra": {
-                "starsToday": 902,
-                "baglam": "readme"
-              }
-            },
-            "description": "LIST OF ALL MY JAILBREAKS. A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models."
-          }
         }
       ]
     },

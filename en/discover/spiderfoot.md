@@ -71,8 +71,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Who it is for:** It is for cybersecurity professionals, penetration testers, and defense-oriented users who are curious about their organization's footprint on the Internet.
 - **License:** MIT
 
-## Links
+## Editorial note
 
+Security and privacy note: Run domain, IP, email, phone, and social-media scans only against authorized targets. Follow third-party API terms, avoid unnecessary personal-data collection, and do not expose the WebUI publicly.
+
+## Links
 - [GitHub repository →](https://github.com/smicallef/spiderfoot)
 - [Read in Turkish →](https://trescout.com/discover/spiderfoot/)
 

@@ -103,8 +103,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Infrastructure:** C# and .NET based web service
 - **Web Port:** Default 8989
 
-## Links
+## Editorial note
 
+Copyright and security note: Manage only content you are entitled to download and watch. Secure torrent/Usenet clients, do not expose the WebUI directly to the internet, and protect indexer/API details; follow local law and licenses.
+
+## Links
 - [GitHub repository →](https://github.com/Sonarr/Sonarr)
 - [Read in Turkish →](https://trescout.com/discover/sonarr/)
 

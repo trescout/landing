@@ -42,7 +42,6 @@ Cela permet au modèle d’éviter les sujets non pertinents et de présenter un
 
 - [System Prompts and Models of AI Tools](https://trescout.com/fr/discover/system-prompts-and-models-of-ai-tools/)
 - [System Prompts Leaks](https://trescout.com/fr/discover/system-prompts-leaks/)
-- [Jailbreaks](https://trescout.com/fr/discover/jailbreaks/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/system-prompts/)
 

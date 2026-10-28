@@ -2,7 +2,7 @@
 
 > TreScout; GitHub, Hacker News ve Hugging Face gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler hazırlar ve web ile PDF rapor olarak yayımlar. Raporlar herkese açıktır; okumak için kayıt olmanız gerekmez.
 
-Son güncelleme: 2026-10-28 · 649 araç · 768 terim
+Son güncelleme: 2026-10-28 · 648 araç · 768 terim
 
 ---
 
@@ -39354,7 +39354,6 @@ Modelin alakasız konulardan kaçınmasını ve tutarlı bir kişilik sergilemes
 
 - [System Prompts and Models of AI Tools](https://trescout.com/discover/system-prompts-and-models-of-ai-tools/)
 - [System Prompts Leaks](https://trescout.com/discover/system-prompts-leaks/)
-- [Jailbreaks](https://trescout.com/discover/jailbreaks/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
@@ -47621,10 +47620,13 @@ Bu aracı kullanmak için herhangi bir kurulum yapmanıza gerek yoktur. Projenin
 - [Resmî kaynak →](https://iptv-org.github.io)
 
 - **Kimin için:** Dünya genelindeki halka açık televizyon kanallarını tek bir uygulama üzerinden izlemek isteyen kullanıcılar içindir.
-- **Lisans:** Unlicense
+- **Lisans:** Unlicense (depo kodu; yayın listelerindeki içerik hakları ayrıca doğrulanmalıdır)
+
+## Editoryal not
+
+Telif ve gizlilik notu: Listedeki yayın URL’lerinin hak sahipliği ve ülkesel erişimi TreScout tarafından doğrulanmaz. Yalnızca yayıncının yetkilendirdiği kamu yayınlarını kullanın; üçüncü taraf oynatıcıların ve kaynak sunucuların gizlilik şartlarını ayrıca kontrol edin.
 
 ## Bağlantılar
-
 - [GitHub deposu →](https://github.com/iptv-org/iptv)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -51157,14 +51159,14 @@ Ghidra, Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen ve açık kayna
 
 ## Kurulum ve sistem gereksinimleri
 
-**JDK 21 ve Ghidra kurulumu**
+**JDK 25 ve Ghidra kurulumu**
 
 ```
 # macOS Homebrew ile kurulum:
 brew install --cask ghidra
 
 # Linux / Windows (Manuel arşivden başlatma):
-# JDK 21 64-bit kurulu olmalıdır.
+# JDK 25 64-bit kurulu olmalıdır.
 ./ghidraRun          # Linux / macOS
 ghidraRun.bat        # Windows
 ```
@@ -51225,8 +51227,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Ghidra Server nasıl kurulur?** Ghidra paketinde yer alan server dizinindeki svrAdmin betiğiyle yerel ağda birkaç dakika içinde bir takım sunucusu açılabilir ve kullanıcı yetkileri atanabilir.
 - **Python 3 betikleri Ghidra içinde çalıştırılabilir mi?** Ghidra varsayılan olarak Jython (Python 2.7) ile gelse de, PyGhidra eklentisi sayesinde modern Python 3 ortamları ve harici kütüphaneler (NumPy, Capstone) doğrudan kullanılabilir.
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik notu: Yalnızca analiz etmeye yetkili olduğunuz ikili dosyaları kullanın. Güncel Ghidra/JDK sürümünü ve resmi güvenlik duyurularını takip edin; güvenilmeyen dosyaları izole bir sanal makinede açın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/NationalSecurityAgency/ghidra)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -61618,8 +61623,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Kimin için:** Açık kaynaklı istihbarat (OSINT) süreçlerinde dijital ayak izi takibi yapmak isteyen araştırmacılar içindir.
 - **Lisans:** MIT
 
-## Bağlantılar
+## Editoryal not
 
+Gizlilik ve etik notu: Yalnızca kendi hesaplarınızı veya açıkça yetkilendirilmiş varlıkları denetleyin. Recursive arama, proxy/Tor ve profil birleştirme özellikleri hedefli takip ve doxxing için kullanılmamalı; hukuki dayanak ve veri minimizasyonu gözetilmelidir.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/soxoj/maigret)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -68044,8 +68052,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Kimin için:** Siber güvenlik uzmanları, sızma testi yapanlar ve kurumlarının internet üzerindeki ayak izini merak eden savunma odaklı kullanıcılar içindir.
 - **Lisans:** MIT
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik ve gizlilik notu: Alan adı, IP, e-posta, telefon ve sosyal medya taramalarını yalnızca yetkili hedeflerde yürütün. Üçüncü taraf API şartlarına uyun, kişisel verileri gereksiz toplamayın ve WebUI’yi internete açık bırakmayın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/smicallef/spiderfoot)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -71229,8 +71240,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Sonarr ile Radarr arasındaki fark nedir?** Sonarr televizyon dizilerini, sezonları ve bölümleri yönetirken; Radarr aynı mimariyi sinema filmleri için sunar.
 - **VPN kullanmak gerekir mi?** Sonarr sadece RSS ve meta veri sorguları yaptığı için genellikle VPN gerektirmez; ancak torrent indirme istemcisinin (qBittorrent) bir VPN tüneli arkasında çalışması tavsiye edilir.
 
-## Bağlantılar
+## Editoryal not
 
+Telif ve güvenlik notu: Yalnızca indirme ve izleme hakkınız olan içerikleri yönetin. Torrent/Usenet istemcilerini güvenli tutun, WebUI’yi internete doğrudan açmayın ve indexer/API bilgilerini koruyun; yerel hukuk ve lisans şartlarına uyun.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/Sonarr/Sonarr)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -76002,8 +76016,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **İndirilen IPA dosyalarının FairPlay DRM şifresi çözülmüş müdür?** Hayır. İndirilen dosyalar Apple'ın orijinal FairPlay DRM şifrelemesine sahiptir. İkili dosyayı deşifre etmek (dumping) için jailbreak'li bir cihazda çalıştırmak gerekir.
 - **Linux sunucularda Xcode olmadan çalışır mı?** Evet. Ipatool saf Go ile yazıldığı için macOS bağımlılığı taşımaz; Linux veya Windows sunucularda bağımsız bir binary olarak sorunsuz çalışır.
 
-## Bağlantılar
+## Editoryal not
 
+Gizlilik ve telif notu: Yalnızca Apple hesabınıza lisanslı veya ücretsiz olarak edinilmiş uygulamaları arşivleyin. Apple kimlik bilgilerini koruyun, mümkünse test hesabı kullanın; IPA paketlerini yeniden dağıtmayın veya yetkisiz biçimde yeniden imzalamayın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/majd/ipatool)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -81855,8 +81872,11 @@ Dopamine aracını kullanmaya başlamak için resmî web sitesi olan https://ell
 - **Kimin için:** iOS işletim sistemli cihazlarında sistem kısıtlamalarını aşarak yönetici yetkilerine sahip olmak isteyen kullanıcılar içindir.
 - **Lisans:** MIT
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik notu: Yalnızca sahibi olduğunuz cihazlarda kullanın. İşleme başlamadan önce yedek alın; iOS sürümü/cihaz uyumluluğunu resmi GitHub veya ElleKit kaynağından doğrulayın ve güvenilmeyen tweak/paket kurmayın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/opa334/Dopamine)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -82140,8 +82160,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Kimin için:** Yapay zekâ modelleri ve ajan tabanlı sistemler geliştiren, altyapı güvenliğini proaktif şekilde denetlemek isteyen yazılım geliştiriciler ve güvenlik uzmanları içindir.
 - **Lisans:** Apache-2.0
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik notu: Bu araç yalnızca sahip olunan veya açıkça yetkilendirilen AI servisleri, agent/MCP sunucuları ve ağ hedeflerinde kullanılmalıdır. Ağ probe’larını ve jailbreak test setlerini kamu hedeflerine karşı çalıştırmayın; API anahtarlarını ve sonuçları koruyun. WebUI’yi localhost veya erişim kontrollü ağla sınırlayın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/Tencent/AI-Infra-Guard)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -84740,43 +84763,6 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Yapay zekâ modelleri için komut koleksiyonu
-
-togg53192-cmd/jailbreaks, yapay zekâ modellerinin güvenlik kısıtlamalarını aşmaya yönelik sistem komutları (system prompts), kişilik kilitleri ve çalışma alanı politikalarından oluşan bir koleksiyon sunuyor. Bu çalışma, çeşitli açık ağırlıklı (open-weight) ve kapalı modellerin çalışma prensiplerini değiştirmeyi hedefleyen teknik bir derleme niteliği taşıyor.
-
-- ★ 5.175
-- GitHub Trending · 2026-10-27
-
-## Ne kazandırır?
-
-- Farklı yapay zekâ modellerine özel sistem komutları sunar
-- Kişilik kilitleri ve çalışma alanı politikaları içerir
-- Araştırmacılar için model davranışlarını inceleme imkânı sağlar
-
-## Nasıl başlanır?
-
-İlgilendiğiniz modelin dosyasına GitHub üzerindeki listeden tıklayarak içeriğini görüntüleyin. Ardından metnin tamamını kopyalayın ve kullandığınız yapay zekâ aracının sistem komutları veya özel talimatlar alanına yapıştırın. Ollama gibi yerel araçlar kullanıyorsanız ilgili dosya içeriğini doğrudan yapılandırma alanlarına ekleyebilirsiniz.
-
-- **Kimin için:** Yapay zekâ modellerinin çalışma prensiplerini, talimat hiyerarşilerini ve güvenlik kısıtlamalarını incelemek isteyen araştırmacılar ve geliştiriciler içindir.
-
-## Bağlantılar
-
-- [GitHub deposu →](https://github.com/togg53192-cmd/jailbreaks)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-10-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-
-- [System Prompts](https://trescout.com/dictionary/system-prompts/)
-- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/jailbreaks/
-TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
-
-
----
-
 # İş araçlarını birleştiren yapay zekâ hafızası
 
 Macro, e-posta, sohbet, dokümanlar ve görev yönetimi gibi iş araçlarını ortak bir yapay zekâ hafızasıyla birleştiren bir çalışma alanı. Rust diliyle geliştirilen bu platform, farklı iş akışlarını tek bir arayüzde birbirine bağlı hale getiriyor.
@@ -84898,7 +84884,7 @@ Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli ara
 Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
 
 - **Kimin için:** Siber güvenlik araştırmacıları, OSINT analistleri, adli bilişim uzmanları ve etik hackerlar.
-- **Lisans:** GPL-3.0 (Açık kaynak copyleft lisansı)
+- **Lisans:** MIT (Açık kaynak copyleft lisansı)
 - **Çatı:** Python Asenkron OSINT Tarayıcısı
 - **Platformlar:** Linux, macOS, Windows
 
@@ -84909,8 +84895,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Sonuçlar ne kadar sürede tamamlanır?** Asenkron mimarisi sayesinde internet bağlantınıza bağlı olarak 465'ten fazla platformun taranması genellikle 20 ile 45 saniye arasında tamamlanır.
 - **E-posta araması nasıl çalışır?** E-posta modunda, desteklenen servislerin şifre sıfırlama veya hesap kayıt uç noktalarında kamuya açık doğrulama sinyalleri incelenir.
 
-## Bağlantılar
+## Editoryal not
 
+Gizlilik ve etik notu: Yalnızca açık rıza, hukuki dayanak ve yetkili OSINT kapsamında kullanın. Toplu kişi taraması, infostealer verisiyle eşleştirme, doxxing ve proxy ile platform kısıtlarını aşma kabul edilemez; veri minimizasyonu ve saklama süresi uygulayın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/kaifcodec/user-scanner)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -85203,12 +85192,15 @@ Exploitarium, halka açık güvenlik açığı kanıtlarını (PoC) ve siber gü
 
 Bu araç bir Python deposu olarak sunulmaktadır. İlgilendiğiniz güvenlik açığı kanıtlarını incelemek için GitHub üzerindeki ilgili klasörlere göz atabilir ve dosyaları bilgisayarınıza indirebilirsiniz.
 
-- [Resmî kaynak →](https://github.com/4D4J/objdump-Out-Of-Bounds-write)
+- [Resmî kaynak →](https://github.com/bikini/exploitarium)
 
 - **Kimin için:** Siber güvenlik alanında çalışan araştırmacılar ve yazılım zafiyetlerini inceleyerek kendini geliştirmek isteyen teknik meraklılar içindir.
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik notu: Bu depo PoC güvenlik açığı kodu içerir. Yalnızca izole ve yetkili laboratuvarlarda savunma araştırması, yama doğrulama ve tespit geliştirme için kullanın; üretim veya üçüncü taraf sistemlerde çalıştırmayın. PoC’lerin doğrulanma ve lisans durumu ayrı ayrı kontrol edilmelidir.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/bikini/exploitarium)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

@@ -71,8 +71,11 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Pour qui:** Il s'adresse aux professionnels de la cybersécurité, aux testeurs d'intrusion et aux utilisateurs orientés vers la défense et curieux de connaître l'empreinte de leur organisation sur Internet.
 - **Licence:** MIT
 
-## Liens
+## Note éditoriale
 
+Security and privacy note: Run domain, IP, email, phone, and social-media scans only against authorized targets. Follow third-party API terms, avoid unnecessary personal-data collection, and do not expose the WebUI publicly.
+
+## Liens
 - [Dépôt GitHub →](https://github.com/smicallef/spiderfoot)
 - [Lire en turc →](https://trescout.com/discover/spiderfoot/)
 

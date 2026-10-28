@@ -64,5 +64,9 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-11 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
+## Redaktioneller Hinweis
+
+Privacy and ethics note: Audit only your own accounts or explicitly authorized assets. Do not use recursive search, proxy/Tor, or profile aggregation for stalking or doxxing; maintain a lawful basis and minimize data.
+
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/maigret/

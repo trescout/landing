@@ -53,8 +53,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Kimin için:** Yapay zekâ modelleri ve ajan tabanlı sistemler geliştiren, altyapı güvenliğini proaktif şekilde denetlemek isteyen yazılım geliştiriciler ve güvenlik uzmanları içindir.
 - **Lisans:** Apache-2.0
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik notu: Bu araç yalnızca sahip olunan veya açıkça yetkilendirilen AI servisleri, agent/MCP sunucuları ve ağ hedeflerinde kullanılmalıdır. Ağ probe’larını ve jailbreak test setlerini kamu hedeflerine karşı çalıştırmayın; API anahtarlarını ve sonuçları koruyun. WebUI’yi localhost veya erişim kontrollü ağla sınırlayın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/Tencent/AI-Infra-Guard)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

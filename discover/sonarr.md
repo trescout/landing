@@ -98,8 +98,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Sonarr ile Radarr arasındaki fark nedir?** Sonarr televizyon dizilerini, sezonları ve bölümleri yönetirken; Radarr aynı mimariyi sinema filmleri için sunar.
 - **VPN kullanmak gerekir mi?** Sonarr sadece RSS ve meta veri sorguları yaptığı için genellikle VPN gerektirmez; ancak torrent indirme istemcisinin (qBittorrent) bir VPN tüneli arkasında çalışması tavsiye edilir.
 
-## Bağlantılar
+## Editoryal not
 
+Telif ve güvenlik notu: Yalnızca indirme ve izleme hakkınız olan içerikleri yönetin. Torrent/Usenet istemcilerini güvenli tutun, WebUI’yi internete doğrudan açmayın ve indexer/API bilgilerini koruyun; yerel hukuk ve lisans şartlarına uyun.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/Sonarr/Sonarr)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

@@ -48,6 +48,15 @@
       "sozluk_terimleri": [],
       "tarih": "2026-10-28",
       "gerekce": "Yayın kararı · ticari/telifli görünen e-kitapları harici indirme bağlantılarıyla topluca indeksliyor; dağıtım lisansı veya izin doğrulanamadı."
+    },
+    {
+      "slug": "jailbreaks",
+      "repolar": [
+        "https://github.com/togg53192-cmd/jailbreaks"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-10-28",
+      "gerekce": "Yayın kararı · kopyala-yapıştır AI jailbreak/system prompt koleksiyonu güvenlik filtrelerini aşmayı ve zararlı içerik üretimini doğrudan kolaylaştırıyor."
     }
   ]
 }

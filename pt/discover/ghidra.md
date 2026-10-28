@@ -23,14 +23,14 @@ Ghidra é uma estrutura abrangente de engenharia reversa de software (SRE) desen
 
 ## Requisitos de instalação e sistema
 
-**Instalação do JDK 21 e Ghidra**
+**Instalação do JDK 25 e Ghidra**
 
 ```
 # macOS Homebrew ile kurulum:
 brew install --cask ghidra
 
 # Linux / Windows (Manuel arşivden başlatma):
-# JDK 21 64-bit kurulu olmalıdır.
+# JDK 25 64-bit kurulu olmalıdır.
 ./ghidraRun          # Linux / macOS
 ghidraRun.bat        # Windows
 ```
@@ -96,8 +96,11 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Desenvolvedor:** Agência de Segurança Nacional (NSA) e comunidade de código aberto
 - **Requisito:** Kit de desenvolvimento Java (JDK) 21 de 64 bits
 
-## Links
+## Nota editorial
 
+Security note: Analyze only binaries you are authorized to examine. Follow the current Ghidra/JDK release and official security advisories; open untrusted files in an isolated virtual machine.
+
+## Links
 - [Repositório no GitHub →](https://github.com/NationalSecurityAgency/ghidra)
 - [Ler em turco →](https://trescout.com/discover/ghidra/)
 

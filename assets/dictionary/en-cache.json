@@ -7573,7 +7573,6 @@
  "Jailbreak": "Jailbreak",
  "Jailbreak yasal mı?": "Is jailbreaking legal?",
  "Jailbreak, yapay zekâ sistemlerine normalde vermemesi gereken zararlı veya yasaklı bilgileri ürettirmek için kullanılan özel komut hileleridir. Bu yöntemler sayesinde yapay zekânın koyduğu etik sınırlar aşılmaya çalışılır.": "Jailbreak refers to special command tricks used to make artificial intelligence systems generate harmful or prohibited information that they would normally not provide. Through these methods, attempts are made to bypass the ethical boundaries set by the AI.",
- "Jailbreaks": "Jailbreaks",
  "Jailed": "Jailed",
  "Jailed durumundaki bir program ana sisteme erişebilir mi?": "Can a program in a jailed state access the main system?",
  "Jailed, bir yazılım sürecinin yalnızca kendisine izin verilen dosya dizinine, belleğe ve ağ kaynaklarına erişebildiği güvenlik durumunu ifade eder. İşletim sistemi düzeyinde uygulanan bu sınırlandırma, programın ana sisteme veya diğer kullanıcılara zarar vermesini engeller. Güvenilmeyen kodları test ederken veya zararlı yazılım riskini izole ederken kritik bir savunma hattı oluşturur.": "Jailed refers to a security state where a software process can only access the file directory, memory, and network resources permitted to it. This limitation, enforced at the operating system level, prevents the program from harming the main system or other users. It forms a critical defense line when testing untrusted code or isolating malware risks.",

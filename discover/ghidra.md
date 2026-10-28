@@ -23,14 +23,14 @@ Ghidra, Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen ve açık kayna
 
 ## Kurulum ve sistem gereksinimleri
 
-**JDK 21 ve Ghidra kurulumu**
+**JDK 25 ve Ghidra kurulumu**
 
 ```
 # macOS Homebrew ile kurulum:
 brew install --cask ghidra
 
 # Linux / Windows (Manuel arşivden başlatma):
-# JDK 21 64-bit kurulu olmalıdır.
+# JDK 25 64-bit kurulu olmalıdır.
 ./ghidraRun          # Linux / macOS
 ghidraRun.bat        # Windows
 ```
@@ -91,8 +91,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Ghidra Server nasıl kurulur?** Ghidra paketinde yer alan server dizinindeki svrAdmin betiğiyle yerel ağda birkaç dakika içinde bir takım sunucusu açılabilir ve kullanıcı yetkileri atanabilir.
 - **Python 3 betikleri Ghidra içinde çalıştırılabilir mi?** Ghidra varsayılan olarak Jython (Python 2.7) ile gelse de, PyGhidra eklentisi sayesinde modern Python 3 ortamları ve harici kütüphaneler (NumPy, Capstone) doğrudan kullanılabilir.
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik notu: Yalnızca analiz etmeye yetkili olduğunuz ikili dosyaları kullanın. Güncel Ghidra/JDK sürümünü ve resmi güvenlik duyurularını takip edin; güvenilmeyen dosyaları izole bir sanal makinede açın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/NationalSecurityAgency/ghidra)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

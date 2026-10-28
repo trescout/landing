@@ -33,8 +33,11 @@ Para comenzar a utilizar la herramienta Dopamina, puede visitar el sitio web ofi
 - **Para quién es:** Es para usuarios que desean tener derechos administrativos evitando las restricciones del sistema en sus dispositivos iOS.
 - **Licencia:** MIT
 
-## Enlaces
+## Nota editorial
 
+Security note: Use only on devices you own. Back up first; verify iOS/device compatibility from the official GitHub or ElleKit source, and avoid untrusted tweaks or packages.
+
+## Enlaces
 - [Repositorio en GitHub →](https://github.com/opa334/Dopamine)
 - [Leer en turco →](https://trescout.com/discover/dopamine/)
 

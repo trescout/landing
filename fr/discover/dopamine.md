@@ -33,8 +33,11 @@ Pour commencer à utiliser l'outil Dopamine, vous pouvez visiter le site officie
 - **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent disposer de droits d'administrateur en contournant les restrictions du système sur leurs appareils iOS.
 - **Licence:** MIT
 
-## Liens
+## Note éditoriale
 
+Security note: Use only on devices you own. Back up first; verify iOS/device compatibility from the official GitHub or ElleKit source, and avoid untrusted tweaks or packages.
+
+## Liens
 - [Dépôt GitHub →](https://github.com/opa334/Dopamine)
 - [Lire en turc →](https://trescout.com/discover/dopamine/)
 

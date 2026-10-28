@@ -85,8 +85,11 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Framework:** CLI multiplataforma baseada em Go
 - **Plataformas:** macOS, Linux, Windows
 
-## Links
+## Nota editorial
 
+Privacy and copyright note: Archive only apps licensed to or legitimately obtained by your Apple account. Protect credentials and preferably use a test account; do not redistribute or unauthorizedly re-sign IPA packages.
+
+## Links
 - [Repositório no GitHub →](https://github.com/majd/ipatool)
 - [Ler em turco →](https://trescout.com/discover/ipatool/)
 

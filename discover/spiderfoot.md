@@ -65,8 +65,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Kimin için:** Siber güvenlik uzmanları, sızma testi yapanlar ve kurumlarının internet üzerindeki ayak izini merak eden savunma odaklı kullanıcılar içindir.
 - **Lisans:** MIT
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik ve gizlilik notu: Alan adı, IP, e-posta, telefon ve sosyal medya taramalarını yalnızca yetkili hedeflerde yürütün. Üçüncü taraf API şartlarına uyun, kişisel verileri gereksiz toplamayın ve WebUI’yi internete açık bırakmayın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/smicallef/spiderfoot)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

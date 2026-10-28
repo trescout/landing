@@ -57,8 +57,11 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Para quem é:** É para pesquisadores que desejam rastrear pegadas digitais em processos de inteligência de código aberto (OSINT).
 - **Licença:** MIT
 
-## Links
+## Nota editorial
 
+Privacy and ethics note: Audit only your own accounts or explicitly authorized assets. Do not use recursive search, proxy/Tor, or profile aggregation for stalking or doxxing; maintain a lawful basis and minimize data.
+
+## Links
 - [Repositório no GitHub →](https://github.com/soxoj/maigret)
 - [Ler em turco →](https://trescout.com/discover/maigret/)
 

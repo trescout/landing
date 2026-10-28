@@ -82,8 +82,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **İndirilen IPA dosyalarının FairPlay DRM şifresi çözülmüş müdür?** Hayır. İndirilen dosyalar Apple'ın orijinal FairPlay DRM şifrelemesine sahiptir. İkili dosyayı deşifre etmek (dumping) için jailbreak'li bir cihazda çalıştırmak gerekir.
 - **Linux sunucularda Xcode olmadan çalışır mı?** Evet. Ipatool saf Go ile yazıldığı için macOS bağımlılığı taşımaz; Linux veya Windows sunucularda bağımsız bir binary olarak sorunsuz çalışır.
 
-## Bağlantılar
+## Editoryal not
 
+Gizlilik ve telif notu: Yalnızca Apple hesabınıza lisanslı veya ücretsiz olarak edinilmiş uygulamaları arşivleyin. Apple kimlik bilgilerini koruyun, mümkünse test hesabı kullanın; IPA paketlerini yeniden dağıtmayın veya yetkisiz biçimde yeniden imzalamayın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/majd/ipatool)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

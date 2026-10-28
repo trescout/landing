@@ -80,12 +80,15 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Cybersecurity researchers, OSINT analysts, computer forensics experts and ethical hackers.
-- **License:** GPL-3.0 (Open source copyleft license)
+- **License:** MIT (Open source copyleft license)
 - **Framework:** Python Asynchronous OSINT Scanner
 - **Platforms:** Linux, macOS, Windows
 
-## Links
+## Editorial note
 
+Privacy and ethics note: Use only with consent, a lawful basis, and authorized OSINT. Do not bulk-scan people, correlate infostealer data, doxx, or bypass platform limits with proxies; minimize data and retention.
+
+## Links
 - [GitHub repository →](https://github.com/kaifcodec/user-scanner)
 - [Read in Turkish →](https://trescout.com/discover/user-scanner/)
 

@@ -80,12 +80,15 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Investigadores de ciberseguridad, analistas de OSINT, expertos en informática forense y hackers éticos.
-- **Licencia:** GPL-3.0 (licencia copyleft de código abierto)
+- **Licencia:** MIT (licencia copyleft de código abierto)
 - **Marco:** Escáner OSINT asincrónico de Python
 - **Plataformas:** Linux, Mac OS, Windows
 
-## Enlaces
+## Nota editorial
 
+Privacy and ethics note: Use only with consent, a lawful basis, and authorized OSINT. Do not bulk-scan people, correlate infostealer data, doxx, or bypass platform limits with proxies; minimize data and retention.
+
+## Enlaces
 - [Repositorio en GitHub →](https://github.com/kaifcodec/user-scanner)
 - [Leer en turco →](https://trescout.com/discover/user-scanner/)
 

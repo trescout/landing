@@ -6505,12 +6505,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/discover/jailbreaks/</loc>
-    <lastmod>2026-10-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/discover/jasna/</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -16033,12 +16027,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/de/discover/jailbreaks/</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/de/discover/jasna/</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -25461,12 +25449,6 @@
   <url>
     <loc>https://trescout.com/en/discover/iroh/</loc>
     <lastmod>2026-10-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/discover/jailbreaks/</loc>
-    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -34897,12 +34879,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/es/discover/jailbreaks/</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/es/discover/jasna/</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -44329,12 +44305,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/discover/jailbreaks/</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/discover/jasna/</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -53757,12 +53727,6 @@
   <url>
     <loc>https://trescout.com/pt/discover/iroh/</loc>
     <lastmod>2026-10-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/pt/discover/jailbreaks/</loc>
-    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

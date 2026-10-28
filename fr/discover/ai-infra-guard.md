@@ -60,8 +60,11 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Pour qui:** Il s'adresse aux développeurs de logiciels et aux experts en sécurité qui développent des modèles d'intelligence artificielle et des systèmes basés sur des agents et souhaitent surveiller de manière proactive la sécurité des infrastructures.
 - **Licence:** Apache-2.0
 
-## Liens
+## Note éditoriale
 
+Security note: Use only against AI services, agent/MCP servers, and network targets you own or are explicitly authorized to test. Do not run probes or jailbreak test sets against public targets; protect API keys and results. Keep the WebUI on localhost or behind access control.
+
+## Liens
 - [Dépôt GitHub →](https://github.com/Tencent/AI-Infra-Guard)
 - [Lire en turc →](https://trescout.com/discover/ai-infra-guard/)
 

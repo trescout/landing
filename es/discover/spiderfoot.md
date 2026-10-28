@@ -71,8 +71,11 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **Para quién es:** Está dirigido a profesionales de la ciberseguridad, evaluadores de penetración y usuarios orientados a la defensa que sienten curiosidad por la huella de su organización en Internet.
 - **Licencia:** MIT
 
-## Enlaces
+## Nota editorial
 
+Security and privacy note: Run domain, IP, email, phone, and social-media scans only against authorized targets. Follow third-party API terms, avoid unnecessary personal-data collection, and do not expose the WebUI publicly.
+
+## Enlaces
 - [Repositorio en GitHub →](https://github.com/smicallef/spiderfoot)
 - [Leer en turco →](https://trescout.com/discover/spiderfoot/)
 

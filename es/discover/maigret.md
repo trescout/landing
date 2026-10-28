@@ -57,8 +57,11 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **Para quién es:** Es para investigadores que desean rastrear huellas digitales en procesos de inteligencia de código abierto (OSINT).
 - **Licencia:** MIT
 
-## Enlaces
+## Nota editorial
 
+Privacy and ethics note: Audit only your own accounts or explicitly authorized assets. Do not use recursive search, proxy/Tor, or profile aggregation for stalking or doxxing; maintain a lawful basis and minimize data.
+
+## Enlaces
 - [Repositorio en GitHub →](https://github.com/soxoj/maigret)
 - [Leer en turco →](https://trescout.com/discover/maigret/)
 

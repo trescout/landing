@@ -60,8 +60,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Who it is for:** It is for software developers and security experts who develop artificial intelligence models and agent-based systems and want to proactively monitor infrastructure security.
 - **License:** Apache-2.0
 
-## Links
+## Editorial note
 
+Security note: Use only against AI services, agent/MCP servers, and network targets you own or are explicitly authorized to test. Do not run probes or jailbreak test sets against public targets; protect API keys and results. Keep the WebUI on localhost or behind access control.
+
+## Links
 - [GitHub repository →](https://github.com/Tencent/AI-Infra-Guard)
 - [Read in Turkish →](https://trescout.com/discover/ai-infra-guard/)
 
