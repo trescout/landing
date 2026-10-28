@@ -366,53 +366,6 @@
       "sourceName": "hackernews",
       "items": [
         {
-          "title": "Nitter and XCancel resume service after legal advice",
-          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-          "summary": "X platformunun arayüzü olmadan görüntülenmesini sağlayan Nitter ve XCancel, hukuki danışmanlık süreçlerinin ardından hizmet vermeye tekrar başladı. Bu araçlar, kullanıcıların sosyal medya platformu X'e (eski adıyla Twitter) giriş yapmadan içeriklere erişmesine olanak tanıyor.",
-          "meta": "720 oy · 313 yorum",
-          "snapshot": {
-            "sourceId": "49588988",
-            "capturedAt": "2026-09-07T08:56:20.814Z",
-            "metadata": {
-              "popularity": 720,
-              "engagementCount": 313,
-              "discussions": [
-                {
-                  "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49588988",
-                  "popularity": 720,
-                  "engagementCount": 313
-                },
-                {
-                  "source": "lobsters",
-                  "url": "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project",
-                  "popularity": 65,
-                  "engagementCount": 13
-                }
-              ],
-              "rank": 1,
-              "extra": {
-                "createdAt": "2026-09-06T17:49:47Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49588988"
-              }
-            }
-          },
-          "discussions": [
-            {
-              "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49588988",
-              "popularity": 720,
-              "engagementCount": 313
-            },
-            {
-              "source": "lobsters",
-              "url": "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project",
-              "popularity": 65,
-              "engagementCount": 13
-            }
-          ]
-        },
-        {
           "title": "Asahi Linux on M3",
           "url": "https://asahilinux.org/2026/09/m2-episode-1/",
           "summary": "Apple'ın M3 işlemcili cihazlarına yönelik Asahi Linux desteği, artık resmi olarak kullanıma sunuldu. Bu geliştirme, Apple Silicon mimarisine sahip donanımlarda açık kaynaklı işletim sistemi Linux'un çalıştırılabilmesi için kritik bir aşamayı temsil ediyor.",

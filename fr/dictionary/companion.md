@@ -40,7 +40,6 @@ Oui, aujourd’hui, vous pouvez créer votre ami personnel en matière d’intel
 
 ## Outils liés
 
-- [AIRI](https://trescout.com/fr/discover/airi/)
 - [Invidious](https://trescout.com/fr/discover/invidious/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/companion/)

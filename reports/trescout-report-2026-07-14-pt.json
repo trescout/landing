@@ -18,12 +18,6 @@
           "meta": "Python · ★ 22.092 · +1.153 hoje"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi é uma plataforma complementar de inteligência artificial com chat de voz em tempo real e recursos de jogos que os usuários podem hospedar em seus próprios servidores. O projeto visa trazer personagens interativos semelhantes ao Neuro-sama para ambientes desktop e web.",
-          "meta": "TypeScript · ★ 42.089 · +78 hoje"
-        },
-        {
           "title": "Shubhamsaboo/awesome-llm-apps",
           "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
           "summary": "O repositório awesome-llm-apps contém mais de 100 agentes de IA e aplicativos de fabricação baseada em busca (RAG) que os desenvolvedores podem executar, personalizar e publicar diretamente. Este recurso baseado em Python oferece suporte a processos de prototipagem rápida por meio de exemplos de aplicativos prontos.",

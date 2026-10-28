@@ -147,53 +147,6 @@
       "sourceName": "hackernews",
       "items": [
         {
-          "title": "Nitter and XCancel resume service after legal advice",
-          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-          "summary": "Nitter y XCancel, que permiten visualizar la plataforma X sin su interfaz, han vuelto a estar operativos tras procesos de asesoramiento legal. Estas herramientas permiten a los usuarios acceder a contenidos de la plataforma de redes sociales X (anteriormente conocida como Twitter) sin necesidad de iniciar sesión.",
-          "meta": "720 puntos · 313 comentarios",
-          "snapshot": {
-            "sourceId": "49588988",
-            "capturedAt": "2026-09-07T08:56:20.814Z",
-            "metadata": {
-              "popularity": 720,
-              "engagementCount": 313,
-              "discussions": [
-                {
-                  "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49588988",
-                  "popularity": 720,
-                  "engagementCount": 313
-                },
-                {
-                  "source": "lobsters",
-                  "url": "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project",
-                  "popularity": 65,
-                  "engagementCount": 13
-                }
-              ],
-              "rank": 1,
-              "extra": {
-                "createdAt": "2026-09-06T17:49:47Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49588988"
-              }
-            }
-          },
-          "discussions": [
-            {
-              "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49588988",
-              "popularity": 720,
-              "engagementCount": 313
-            },
-            {
-              "source": "lobsters",
-              "url": "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project",
-              "popularity": 65,
-              "engagementCount": 13
-            }
-          ]
-        },
-        {
           "title": "Asahi Linux on M3",
           "url": "https://asahilinux.org/2026/09/m2-episode-1/",
           "summary": "El soporte de Asahi Linux para los dispositivos de Apple con procesador M3 ya está disponible oficialmente. Este desarrollo representa una etapa crítica para poder ejecutar el sistema operativo de código abierto Linux en hardware con arquitectura Apple Silicon.",

@@ -44,7 +44,6 @@ Evet, temel düzeyde sunucu yönetimi ve ağ bilgisi gerektirir.
 - [Penpot](https://trescout.com/discover/penpot/)
 - [Plane](https://trescout.com/discover/plane/)
 - [Twenty](https://trescout.com/discover/twenty/)
-- [AIRI](https://trescout.com/discover/airi/)
 - [Self-Hosting-Guide](https://trescout.com/discover/self-hosting-guide/)
 - [OpenStock](https://trescout.com/discover/openstock/)
 

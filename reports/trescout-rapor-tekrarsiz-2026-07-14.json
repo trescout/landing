@@ -12,13 +12,6 @@
           "meta": "TypeScript · ★ 67.464 · +1.229 bugün"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi, kullanıcıların kendi sunucularında barındırabildiği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip bir yapay zekâ arkadaşı (AI companion) platformudur. Proje, Neuro-sama benzeri etkileşimli karakterleri masaüstü ve web ortamlarına taşımayı hedeflemektedir.",
-          "meta": "TypeScript · ★ 42.089 · +78 bugün",
-          "returning": true
-        },
-        {
           "title": "Graphify-Labs/graphify",
           "url": "https://github.com/Graphify-Labs/graphify",
           "summary": "Graphify, kod dosyaları, veritabanı şemaları ve dokümantasyon gibi farklı veri türlerini sorgulanabilir bir bilgi çizgesi (knowledge graph) yapısına dönüştürüyor. Python tabanlı bu araç, çeşitli yapay zekâ kod yardımcıları (AI coding assistants) için merkezi bir veri katmanı oluşturmayı hedefliyor.",

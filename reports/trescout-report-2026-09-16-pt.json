@@ -236,25 +236,6 @@
           }
         },
         {
-          "title": "tonhowtf/omniget",
-          "url": "https://github.com/tonhowtf/omniget",
-          "summary": "O Omniget é um aplicativo de desktop de código aberto que permite baixar vídeos, músicas e livros de mais de 1.800 plataformas. O software, que incorpora recursos de reprodutor de conteúdo e leitor, utiliza a infraestrutura da ferramenta de download de mídia yt-dlp para salvar arquivos diretamente no seu computador.",
-          "meta": "Rust · ★ 13.291 · +258 hoje",
-          "snapshot": {
-            "sourceId": "tonhowtf/omniget",
-            "capturedAt": "2026-09-16T09:05:42.228Z",
-            "metadata": {
-              "language": "Rust",
-              "popularity": 13291,
-              "engagementCount": 258,
-              "rank": 13,
-              "extra": {
-                "starsToday": 258
-              }
-            }
-          }
-        },
-        {
           "title": "earendil-works/pi",
           "url": "https://github.com/earendil-works/pi",
           "summary": "O Pi é um conjunto de ferramentas de agente de inteligência artificial que oferece uma interface unificada para grandes modelos de linguagem (large language models) e automatiza processos de desenvolvimento de software. Ele facilita tarefas de codificação gerenciando ciclos de agentes por meio de uma interface de usuário baseada em terminal (TUI) e uma ferramenta de linha de comando (CLI).",

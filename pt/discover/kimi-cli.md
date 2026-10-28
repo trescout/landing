@@ -52,8 +52,11 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Para quem é:** É adequado para desenvolvedores que desejam automatizar seus processos de desenvolvimento de software através do terminal.
 - **Licença:** Apache-2.0
 
-## Links
+## Nota editorial
 
+Maintenance note: The GitHub source repository is archived. Do not treat this page as an active-maintenance guarantee; verify a current fork or official successor before relying on it.
+
+## Links
 - [Repositório no GitHub →](https://github.com/MoonshotAI/kimi-cli)
 - [Ler em turco →](https://trescout.com/discover/kimi-cli/)
 

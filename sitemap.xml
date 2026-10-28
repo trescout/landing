@@ -4879,12 +4879,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/discover/airi/</loc>
-    <lastmod>2026-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/discover/airllm/</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -5691,12 +5685,6 @@
   <url>
     <loc>https://trescout.com/discover/cupy/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/discover/cursor-plugins/</loc>
-    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7039,12 +7027,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/discover/nitter/</loc>
-    <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/discover/no-mistakes/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -7131,12 +7113,6 @@
   <url>
     <loc>https://trescout.com/discover/omlx/</loc>
     <lastmod>2026-10-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/discover/omniget/</loc>
-    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -14401,12 +14377,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/de/discover/airi/</loc>
-    <lastmod>2026-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/de/discover/airllm/</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -15213,12 +15183,6 @@
   <url>
     <loc>https://trescout.com/de/discover/cupy/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/de/discover/cursor-plugins/</loc>
-    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16561,12 +16525,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/de/discover/nitter/</loc>
-    <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/de/discover/no-mistakes/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -16653,12 +16611,6 @@
   <url>
     <loc>https://trescout.com/de/discover/omlx/</loc>
     <lastmod>2026-10-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/de/discover/omniget/</loc>
-    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -23827,12 +23779,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/discover/airi/</loc>
-    <lastmod>2026-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/discover/airllm/</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -24639,12 +24585,6 @@
   <url>
     <loc>https://trescout.com/en/discover/cupy/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/discover/cursor-plugins/</loc>
-    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -25987,12 +25927,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/discover/nitter/</loc>
-    <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/discover/no-mistakes/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -26079,12 +26013,6 @@
   <url>
     <loc>https://trescout.com/en/discover/omlx/</loc>
     <lastmod>2026-10-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/discover/omniget/</loc>
-    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -33253,12 +33181,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/es/discover/airi/</loc>
-    <lastmod>2026-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/es/discover/airllm/</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -34065,12 +33987,6 @@
   <url>
     <loc>https://trescout.com/es/discover/cupy/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/es/discover/cursor-plugins/</loc>
-    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -35413,12 +35329,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/es/discover/nitter/</loc>
-    <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/es/discover/no-mistakes/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -35505,12 +35415,6 @@
   <url>
     <loc>https://trescout.com/es/discover/omlx/</loc>
     <lastmod>2026-10-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/es/discover/omniget/</loc>
-    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42679,12 +42583,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/discover/airi/</loc>
-    <lastmod>2026-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/discover/airllm/</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -43491,12 +43389,6 @@
   <url>
     <loc>https://trescout.com/fr/discover/cupy/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/discover/cursor-plugins/</loc>
-    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -44839,12 +44731,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/discover/nitter/</loc>
-    <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/discover/no-mistakes/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -44931,12 +44817,6 @@
   <url>
     <loc>https://trescout.com/fr/discover/omlx/</loc>
     <lastmod>2026-10-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/discover/omniget/</loc>
-    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -52105,12 +51985,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/pt/discover/airi/</loc>
-    <lastmod>2026-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/pt/discover/airllm/</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -52917,12 +52791,6 @@
   <url>
     <loc>https://trescout.com/pt/discover/cupy/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/pt/discover/cursor-plugins/</loc>
-    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -54265,12 +54133,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/pt/discover/nitter/</loc>
-    <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/pt/discover/no-mistakes/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -54357,12 +54219,6 @@
   <url>
     <loc>https://trescout.com/pt/discover/omlx/</loc>
     <lastmod>2026-10-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/pt/discover/omniget/</loc>
-    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

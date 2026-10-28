@@ -18,12 +18,6 @@
           "meta": "Java · ★ 26.144 · +180 bugün"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi, kullanıcıların kendi sunucularında barındırabildiği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip bir yapay zekâ arkadaşı (AI companion) platformudur. Proje, Neuro-sama benzeri etkileşimli dijital karakterleri yerel sistemlerde çalıştırmayı ve farklı oyun ortamlarına entegre etmeyi amaçlıyor.",
-          "meta": "TypeScript · ★ 44.962 · +797 bugün"
-        },
-        {
           "title": "andrewyng/aisuite",
           "url": "https://github.com/andrewyng/aisuite",
           "summary": "Andrew Ng tarafından geliştirilen aisuite, farklı üretken yapay zekâ (generative AI) sağlayıcılarını tek bir arayüz üzerinden yönetmeyi sağlayan bir Python kütüphanesidir. Geliştiricilerin çeşitli model servisleri arasında geçiş yapmasını kolaylaştırarak entegrasyon süreçlerini standartlaştırır.",

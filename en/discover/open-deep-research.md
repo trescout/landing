@@ -65,8 +65,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Who it is for:** It is for developers and researchers who want to automate autonomous research processes on complex topics.
 - **License:** MIT
 
-## Links
+## Editorial note
 
+Maintenance note: The GitHub source repository is archived. Treat this as an educational reference and verify an active successor/fork for current dependencies and security.
+
+## Links
 - [GitHub repository →](https://github.com/langchain-ai/open_deep_research)
 - [Read in Turkish →](https://trescout.com/discover/open-deep-research/)
 

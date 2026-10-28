@@ -18,12 +18,6 @@
           "meta": "Java · ★ 26.144 · +180 heute"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi ist eine Begleitplattform für künstliche Intelligenz mit Echtzeit-Voice-Chat und Gaming-Funktionen, die Benutzer auf ihren eigenen Servern hosten können. Das Projekt zielt darauf ab, Neuro-Sama-ähnliche interaktive digitale Charaktere auf lokalen Systemen auszuführen und sie in verschiedene Spielumgebungen zu integrieren.",
-          "meta": "TypeScript · ★ 44.962 · +797 heute"
-        },
-        {
           "title": "andrewyng/aisuite",
           "url": "https://github.com/andrewyng/aisuite",
           "summary": "Aisuite wurde von Andrew Ng entwickelt und ist eine Python-Bibliothek, die die Verwaltung verschiedener generativer KI-Anbieter über eine einzige Schnittstelle ermöglicht. Es standardisiert Integrationsprozesse, indem es Entwicklern den Wechsel zwischen verschiedenen Modelldiensten erleichtert.",

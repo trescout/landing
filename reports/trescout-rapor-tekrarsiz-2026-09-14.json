@@ -66,25 +66,6 @@
           "returning": true
         },
         {
-          "title": "tonhowtf/omniget",
-          "url": "https://github.com/tonhowtf/omniget",
-          "summary": "Omniget, 1.800'den fazla platformdan video, müzik ve kitap indirmeyi sağlayan açık kaynaklı bir masaüstü uygulamasıdır. İçerisinde yerleşik bir kurs oynatıcısı, e-kitap okuyucu ve müzik kütüphanesi bulunduran bu araç, indirme işlemlerini terminal kullanmadan grafik arayüz üzerinden gerçekleştirir.",
-          "meta": "Rust · ★ 12.126 · +507 bugün",
-          "snapshot": {
-            "sourceId": "tonhowtf/omniget",
-            "capturedAt": "2026-09-14T09:35:03.237Z",
-            "metadata": {
-              "language": "Rust",
-              "popularity": 12126,
-              "engagementCount": 507,
-              "rank": 16,
-              "extra": {
-                "starsToday": 507
-              }
-            }
-          }
-        },
-        {
           "title": "jiji262/douyin-downloader",
           "url": "https://github.com/jiji262/douyin-downloader",
           "summary": "Python tabanlı Douyin indiricisi, sosyal medya platformu Douyin üzerindeki videoları, fotoğraf albümlerini ve müzikleri filigransız şekilde bilgisayara kaydetmeye yarayan bir araçtır. Yazılım, toplu indirme desteği, SQLite tabanlı mükerrer kayıt engelleme ve tarayıcı yedekleme özellikleri ile içerik arşivleme sürecini otomatikleştirir.",

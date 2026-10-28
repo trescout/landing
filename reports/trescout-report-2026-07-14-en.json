@@ -18,12 +18,6 @@
           "meta": "Python · ★ 22,092 · +1,153 today"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi is an AI companion platform with real-time voice chat and gaming capabilities that users can host on their own servers. The project aims to bring interactive characters similar to Neuro-sama to desktop and web environments.",
-          "meta": "TypeScript · ★ 42,089 · +78 today"
-        },
-        {
           "title": "Shubhamsaboo/awesome-llm-apps",
           "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
           "summary": "The awesome-llm-apps repository contains more than 100 AI agent and fetch-based manufacturing (RAG) applications that developers can run, customize, and publish directly. This Python-based resource supports rapid prototyping processes through ready-made application examples.",

@@ -65,8 +65,11 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Pour qui:** Il s'adresse aux développeurs et aux chercheurs qui souhaitent automatiser des processus de recherche autonomes sur des sujets complexes.
 - **Licence:** MIT
 
-## Liens
+## Note éditoriale
 
+Maintenance note: The GitHub source repository is archived. Treat this as an educational reference and verify an active successor/fork for current dependencies and security.
+
+## Liens
 - [Dépôt GitHub →](https://github.com/langchain-ai/open_deep_research)
 - [Lire en turc →](https://trescout.com/discover/open-deep-research/)
 

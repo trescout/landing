@@ -66,25 +66,6 @@
           }
         },
         {
-          "title": "tonhowtf/omniget",
-          "url": "https://github.com/tonhowtf/omniget",
-          "summary": "Omniget est une application de bureau open source qui permet de télécharger des vidéos, de la musique et des livres depuis plus de 1 800 plateformes. Doté d'un lecteur de cours intégré, d'un lecteur de livres électroniques et d'une bibliothèque musicale, cet outil effectue les téléchargements via une interface graphique sans utiliser le terminal.",
-          "meta": "Rust · ★ 12 126 · +507 aujourd'hui",
-          "snapshot": {
-            "sourceId": "tonhowtf/omniget",
-            "capturedAt": "2026-09-14T09:35:03.237Z",
-            "metadata": {
-              "language": "Rust",
-              "popularity": 12126,
-              "engagementCount": 507,
-              "rank": 16,
-              "extra": {
-                "starsToday": 507
-              }
-            }
-          }
-        },
-        {
           "title": "jiji262/douyin-downloader",
           "url": "https://github.com/jiji262/douyin-downloader",
           "summary": "Le téléchargeur Douyin basé sur Python est un outil permettant d'enregistrer des vidéos, des albums photo et de la musique de la plateforme de médias sociaux Douyin sur un ordinateur sans filigrane. Le logiciel automatise le processus d'archivage de contenu grâce à la prise en charge du téléchargement par lots, à la prévention des enregistrements en double basée sur SQLite et aux fonctionnalités de sauvegarde du navigateur.",

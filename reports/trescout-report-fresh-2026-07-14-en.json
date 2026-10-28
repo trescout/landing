@@ -12,13 +12,6 @@
           "meta": "TypeScript · ★ 67,464 · +1,229 today"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi is an artificial intelligence companion platform with real-time voice chat and gaming capabilities that users can host on their own servers. The project aims to bring interactive characters similar to Neuro-sama to desktop and web environments.",
-          "meta": "TypeScript · ★ 42,089 · +78 today",
-          "returning": true
-        },
-        {
           "title": "Graphify-Labs/graphify",
           "url": "https://github.com/Graphify-Labs/graphify",
           "summary": "Graphify transforms different types of data such as code files, database schemas and documentation into a queryable knowledge graph structure. This Python-based tool aims to create a central data layer for various AI coding assistants.",

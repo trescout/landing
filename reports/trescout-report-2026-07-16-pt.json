@@ -24,12 +24,6 @@
           "meta": "Shell · ★ 172.771 · +2.130 hoje"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi é um projeto complementar virtual baseado em inteligência artificial que os usuários podem hospedar em seus próprios servidores, com chat de voz em tempo real e recursos de jogo. Desenvolvido em TypeScript, esse sistema tem como objetivo rodar personagens digitais em ambientes locais, interagindo com jogos como Minecraft e Factorio.",
-          "meta": "TypeScript · ★ 42.635 · +110 hoje"
-        },
-        {
           "title": "Dicklesworthstone/destructive_command_guard",
           "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
           "summary": "O Destructive Command Guard é uma ferramenta de segurança que bloqueia comandos perigosos do git e do shell executados por agentes de inteligência artificial. Esta solução, desenvolvida em Rust, visa restringir intervenções indesejadas do sistema em fluxos de trabalho baseados em agentes.",

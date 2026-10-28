@@ -18,12 +18,6 @@
           "meta": "Java · ★ 26,144 · +180 today"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi is an AI companion platform with real-time voice chat and gaming capabilities that users can host on their own servers. The project aims to run Neuro-sama-like interactive digital characters on local systems and integrate them into different gaming environments.",
-          "meta": "TypeScript · ★ 44,962 · +797 today"
-        },
-        {
           "title": "andrewyng/aisuite",
           "url": "https://github.com/andrewyng/aisuite",
           "summary": "Developed by Andrew Ng, aisuite is a Python library that allows managing different generative AI providers through a single interface. It standardizes integration processes by making it easier for developers to switch between various model services.",

@@ -18,12 +18,6 @@
           "meta": "C++ · ★ 13.981 · +515 bugün"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi, kullanıcıların kendi sunucularında barındırabildiği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip yapay zekâ tabanlı sanal karakterler (AI companions) oluşturmayı sağlıyor. TypeScript diliyle geliştirilen bu proje, Neuro-sama benzeri etkileşimli dijital varlıkları masaüstü ve web platformlarına taşıyor.",
-          "meta": "TypeScript · ★ 44.255 · +572 bugün"
-        },
-        {
           "title": "opengeos/GeoLibre",
           "url": "https://github.com/opengeos/GeoLibre",
           "summary": "GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi sistemi (GIS) platformudur. TypeScript ile geliştirilen bu araç, web tarayıcıları, masaüstü, mobil cihazlar ve Jupyter not defterleri (Jupyter notebooks) üzerinde çalışabilmektedir.",

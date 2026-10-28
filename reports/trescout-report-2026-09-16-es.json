@@ -236,25 +236,6 @@
           }
         },
         {
-          "title": "tonhowtf/omniget",
-          "url": "https://github.com/tonhowtf/omniget",
-          "summary": "Omniget es una aplicación de escritorio de código abierto que permite descargar videos, música y libros de más de 1.800 plataformas. El software, que incluye funciones de reproductor de contenido y lector, utiliza la infraestructura de la herramienta de descarga de medios yt-dlp para guardar los archivos directamente en su computadora.",
-          "meta": "Rust · ★ 13.291 · +258 hoy",
-          "snapshot": {
-            "sourceId": "tonhowtf/omniget",
-            "capturedAt": "2026-09-16T09:05:42.228Z",
-            "metadata": {
-              "language": "Rust",
-              "popularity": 13291,
-              "engagementCount": 258,
-              "rank": 13,
-              "extra": {
-                "starsToday": 258
-              }
-            }
-          }
-        },
-        {
           "title": "earendil-works/pi",
           "url": "https://github.com/earendil-works/pi",
           "summary": "Pi es un conjunto de herramientas de agentes de inteligencia artificial que ofrece una interfaz unificada para modelos de lenguaje grandes (large language models) y automatiza los procesos de desarrollo de software. Facilita las tareas de codificación mediante la gestión de bucles de agentes a través de una interfaz de usuario basada en terminal (TUI) y una herramienta de línea de comandos (CLI).",

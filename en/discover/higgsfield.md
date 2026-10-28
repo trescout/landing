@@ -48,8 +48,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Who it is for:** Intended for developers who train large-scale AI models and want to manage graphics processing unit resources.
 - **License:** Apache-2.0
 
-## Links
+## Editorial note
 
+Maintenance note: The GitHub source repository is archived. Verify an official current source for releases, security fixes, and continued functionality.
+
+## Links
 - [GitHub repository →](https://github.com/higgsfield-ai/higgsfield)
 - [Read in Turkish →](https://trescout.com/discover/higgsfield/)
 

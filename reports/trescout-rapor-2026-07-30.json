@@ -12,12 +12,6 @@
           "meta": "TypeScript · ★ 4.236 · +671 bugün"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi, kullanıcıların kendi sunucularında barındırabileceği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip yapay zekâ tabanlı bir sanal karakter (waifu) platformudur. TypeScript diliyle geliştirilen bu proje, Neuro-sama benzeri etkileşimli dijital varlıkları yerel sistemlerde çalıştırmayı hedefler.",
-          "meta": "TypeScript · ★ 45.549 · +682 bugün"
-        },
-        {
           "title": "affaan-m/ECC",
           "url": "https://github.com/affaan-m/ECC",
           "summary": "ECC, yapay zekâ ajanları için beceriler, içgüdüler, bellek ve güvenlik katmanlarını optimize eden bir performans çerçevesidir (framework). Claude Code ve Cursor gibi geliştirme araçlarında ajan tabanlı iş akışlarını iyileştirmek amacıyla tasarlanmıştır.",

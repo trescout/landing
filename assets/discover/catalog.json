@@ -1915,61 +1915,6 @@
     "last_seen": "2026-05-28"
   },
   {
-    "slug": "airi",
-    "title": "AIRI",
-    "tagline": "Kendi sunucunuzda barınan, sesli sohbet edebilen ve oyun oynayabilen yapay zekâ karakteri.",
-    "meta": "★ 50.639 · MIT",
-    "source": "GitHub",
-    "date": "2026-05-28",
-    "tags": [
-      "Self-host",
-      "Yapay zekâ araçları",
-      "Üretkenlik"
-    ],
-    "stars": 50639,
-    "image": "/assets/discover/og/airi.webp",
-    "headline": "Kendi sesli yapay zekâ karakterinizi oluşturun",
-    "last_review": "2026-10-28",
-    "guncellemeler": [
-      {
-        "tarih": "2026-08-02",
-        "yildiz": 46435,
-        "onceki_yildiz": 40222,
-        "surum": "v0.11.3",
-        "surum_tarihi": "2026-07-18"
-      },
-      {
-        "tarih": "2026-09-02",
-        "yildiz": 48711,
-        "onceki_yildiz": 46435,
-        "surum": "v0.12.0-beta.5",
-        "surum_tarihi": "2026-08-29"
-      },
-      {
-        "tarih": "2026-10-24",
-        "yildiz": 50639,
-        "onceki_yildiz": 48711,
-        "surum": "v0.12.0",
-        "surum_tarihi": "2026-10-23"
-      }
-    ],
-    "tagline_en": "AI character hosted on your own server, capable of voice chat and playing games.",
-    "tagline_fr": "Personnage IA hébergé sur votre propre serveur, capable de discuter vocalement et de jouer à des jeux.",
-    "tagline_pt": "Personagem AI hospedado em seu próprio servidor, capaz de conversar por voz e jogar.",
-    "tagline_es": "Personaje de IA alojado en tu propio servidor, capaz de chatear por voz y jugar.",
-    "tagline_de": "KI-Charakter, der auf Ihrem eigenen Server gehostet wird und Voice-Chat und Spiele spielen kann.",
-    "last_seen": "2026-07-30",
-    "cmds": {
-      "kurulum": [
-        {
-          "baslik": "Git ile depoyu klonla",
-          "komut": "git clone https://github.com/AIRI-institute/airi.git"
-        }
-      ],
-      "kaynak": "Resmî kaynak: https://github.com/moeru-ai/airi"
-    }
-  },
-  {
     "slug": "markitdown",
     "title": "MarkItDown",
     "tagline": "Word, PDF, Excel ve PowerPoint belgelerini yapay zekâ dostu Markdown formatına çevirir · Microsoft.",
@@ -2907,93 +2852,6 @@
         }
       ],
       "kaynak": "Resmî kaynak: https://github.com/anthropics/claude-code"
-    }
-  },
-  {
-    "slug": "cursor-plugins",
-    "title": "Cursor Plugins",
-    "tagline": "Cursor kod editörü için resmi eklenti spesifikasyonu ve hazır eklentiler.",
-    "meta": "★ 14.257 · Lisans: kontrol et",
-    "source": "GitHub",
-    "date": "2026-05-30",
-    "tags": [
-      "Geliştirici aracı"
-    ],
-    "stars": 14257,
-    "image": "/assets/discover/og/cursor-plugins.webp",
-    "headline": "Cursor editörünü eklentilerle özelleştirin",
-    "last_review": "2026-10-28",
-    "guncellemeler": [
-      {
-        "tarih": "2026-08-02",
-        "yildiz": 2515,
-        "onceki_yildiz": 1403
-      },
-      {
-        "tarih": "2026-08-19",
-        "yildiz": 3572,
-        "onceki_yildiz": 2515
-      },
-      {
-        "tarih": "2026-08-23",
-        "yildiz": 4695,
-        "onceki_yildiz": 3572
-      },
-      {
-        "tarih": "2026-08-31",
-        "yildiz": 6355,
-        "onceki_yildiz": 4695
-      },
-      {
-        "tarih": "2026-09-11",
-        "yildiz": 7417,
-        "onceki_yildiz": 6355
-      },
-      {
-        "tarih": "2026-09-27",
-        "yildiz": 8737,
-        "onceki_yildiz": 7417
-      },
-      {
-        "tarih": "2026-10-05",
-        "yildiz": 9868,
-        "onceki_yildiz": 8737
-      },
-      {
-        "tarih": "2026-10-12",
-        "yildiz": 10910,
-        "onceki_yildiz": 9868
-      },
-      {
-        "tarih": "2026-10-17",
-        "yildiz": 12116,
-        "onceki_yildiz": 10910
-      },
-      {
-        "tarih": "2026-10-20",
-        "yildiz": 13145,
-        "onceki_yildiz": 12116
-      },
-      {
-        "tarih": "2026-10-27",
-        "yildiz": 14257,
-        "onceki_yildiz": 13145
-      }
-    ],
-    "tagline_en": "Official plugin specification and ready-made plugins for the Cursor code editor.",
-    "tagline_fr": "Spécification officielle du plugin et plugins prêts à l'emploi pour l'éditeur de code Cursor.",
-    "tagline_pt": "Especificação oficial de plugins e plugins prontos para o editor de código Cursor.",
-    "tagline_es": "Especificación oficial de complementos y complementos listos para usar para el editor de código de cursor.",
-    "tagline_de": "Offizielle Plugin-Spezifikation und vorgefertigte Plugins für den Cursor-Code-Editor.",
-    "last_seen": "2026-10-19",
-    "cmds": {
-      "kurulum": [
-        {
-          "baslik": "Git ile eklentileri klonla",
-          "komut": "git clone https://github.com/cursor-plugins/cursor-plugins.git"
-        }
-      ],
-      "kaynak": "Resmî kaynak: https://github.com/cursor/plugins"
     }
   },
   {
@@ -43940,38 +43798,6 @@
     "last_seen": "2026-10-18"
   },
   {
-    "slug": "nitter",
-    "title": "Nitter",
-    "tagline": "Gizlilik odaklı alternatif Twitter arayüzü: JavaScript çalıştırmadan Twitter içeriklerini görüntüler, IP adresini ve tarayıcı…",
-    "meta": "★ 13.705 · Nim",
-    "image": "/assets/discover/og/nitter.webp",
-    "source": "GitHub",
-    "date": "2026-08-27",
-    "tags": [
-      "Geliştirici aracı"
-    ],
-    "stars": 13705,
-    "summary": "Gizlilik odaklı alternatif Twitter arayüzü: JavaScript çalıştırmadan Twitter içeriklerini görüntüler, IP adresini ve tarayıcı parmak izini gizler.",
-    "lite": false,
-    "headline": "Gizlilik odaklı alternatif Twitter arayüzü",
-    "last_review": "2026-10-28",
-    "arsivlendi": true,
-    "guncellemeler": [
-      {
-        "tarih": "2026-08-27",
-        "yildiz": 13705,
-        "onceki_yildiz": 13703,
-        "arsiv": true
-      }
-    ],
-    "last_seen": "2026-08-27",
-    "tagline_en": "Privacy-focused alternative Twitter interface: displays Twitter content without running JavaScript, IP address and browser…",
-    "tagline_fr": "Interface Twitter alternative axée sur la confidentialité : affiche les contenus Twitter sans exécuter de JavaScript, l'adresse IP et le navigateur…",
-    "tagline_pt": "Interface alternativa do Twitter focada em privacidade: exibe conteúdos do Twitter sem executar JavaScript, protegendo seu endereço IP e navegador…",
-    "tagline_es": "Interfaz alternativa de Twitter centrada en la privacidad: muestra el contenido de Twitter sin ejecutar JavaScript, ocultando la dirección IP y el navegador…",
-    "tagline_de": "Datenschutzorientierte alternative Twitter-Oberfläche: Zeigt Twitter-Inhalte an, ohne JavaScript auszuführen, und schützt Ihre IP-Adresse und Ihren Browser..."
-  },
-  {
     "slug": "go-modern-guidelines",
     "title": "Go Modern Guidelines",
     "tagline": "JetBrains tarafından yayınlanan go-modern-guidelines, yapay zekâ kodlama asistanlarının güncel Go standartlarına uygun yazılım…",
@@ -48475,52 +48301,6 @@
     "tagline_es": "Ever Gauzy, procesos de negocio fundamentales como la planificación de recursos empresariales (ERP), la gestión de relaciones con los clientes (CRM) y los recursos humanos...",
     "tagline_de": "Ever Gauzy, grundlegende Geschäftsprozesse wie Enterprise-Resource-Planning (ERP), Customer-Relationship-Management (CRM) und Personalwesen...",
     "last_seen": "2026-09-18"
-  },
-  {
-    "slug": "omniget",
-    "title": "Omniget",
-    "tagline": "Omniget, 1.800'den fazla platformdan video, müzik ve kitap indirmeyi sağlayan açık kaynaklı bir masaüstü uygulamasıdır.",
-    "meta": "★ 14.413 · Rust",
-    "image": "/assets/discover/og/omniget.webp",
-    "source": "GitHub",
-    "date": "2026-09-14",
-    "tags": [
-      "Geliştirici aracı"
-    ],
-    "stars": 14413,
-    "summary": "Omniget, 1.800'den fazla platformdan video, müzik ve kitap indirmeyi sağlayan açık kaynaklı bir masaüstü uygulamasıdır. İçerisinde yerleşik bir kurs oynatıcısı, e-kitap okuyucu ve müzik kütüphanesi bulunduran bu araç, indirme işlemlerini terminal kullanmadan grafik arayüz üzerinden gerçekleştirir.",
-    "lite": false,
-    "headline": "Hepsi bir arada medya indirme aracı",
-    "last_review": "2026-09-27",
-    "guncellemeler": [
-      {
-        "tarih": "2026-09-14",
-        "yildiz": 12132,
-        "onceki_yildiz": 12126,
-        "surum": "v0.9.2",
-        "surum_tarihi": "2026-09-11"
-      },
-      {
-        "tarih": "2026-09-16",
-        "yildiz": 13300,
-        "onceki_yildiz": 12132,
-        "surum": "v0.9.2",
-        "surum_tarihi": "2026-09-11"
-      },
-      {
-        "tarih": "2026-09-27",
-        "yildiz": 14413,
-        "onceki_yildiz": 13300,
-        "surum": "v0.10.1",
-        "surum_tarihi": "2026-09-21"
-      }
-    ],
-    "tagline_en": "Omniget is an open-source desktop application that allows downloading videos, music, and books from over 1,800 platforms.",
-    "tagline_fr": "Omniget est une application de bureau open source qui permet de télécharger des vidéos, de la musique et des livres depuis plus de 1 800 plateformes.",
-    "tagline_pt": "Omniget é um aplicativo de desktop de código aberto que permite baixar vídeos, músicas e livros de mais de 1.800 plataformas.",
-    "tagline_es": "Omniget es una aplicación de escritorio de código abierto que permite descargar vídeos, música y libros de más de 1.800 plataformas.",
-    "tagline_de": "Omniget ist eine Open-Source-Desktopanwendung, die das Herunterladen von Videos, Musik und Büchern von über 1.800 Plattformen ermöglicht.",
-    "last_seen": "2026-09-16"
   },
   {
     "slug": "douyin-downloader",

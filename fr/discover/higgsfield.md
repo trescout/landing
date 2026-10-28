@@ -48,8 +48,11 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - **Pour qui:** Pour les développeurs qui entraînent des modèles d’IA à grande échelle et souhaitent gérer les ressources GPU.
 - **Licence:** Apache-2.0
 
-## Liens
+## Note éditoriale
 
+Maintenance note: The GitHub source repository is archived. Verify an official current source for releases, security fixes, and continued functionality.
+
+## Liens
 - [Dépôt GitHub →](https://github.com/higgsfield-ai/higgsfield)
 - [Lire en turc →](https://trescout.com/discover/higgsfield/)
 

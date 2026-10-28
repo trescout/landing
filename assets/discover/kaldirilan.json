@@ -57,6 +57,42 @@
       "sozluk_terimleri": [],
       "tarih": "2026-10-28",
       "gerekce": "Yayın kararı · kopyala-yapıştır AI jailbreak/system prompt koleksiyonu güvenlik filtrelerini aşmayı ve zararlı içerik üretimini doğrudan kolaylaştırıyor."
+    },
+    {
+      "slug": "airi",
+      "repolar": [
+        "https://github.com/AIRI-institute/airi"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-10-28",
+      "gerekce": "Kaynak doğrulama kararı · katalogdaki GitHub deposu artık 404 dönüyor; güncel resmî kaynak doğrulanana kadar yayından alındı."
+    },
+    {
+      "slug": "cursor-plugins",
+      "repolar": [
+        "https://github.com/cursor-plugins/cursor-plugins"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-10-28",
+      "gerekce": "Kaynak doğrulama kararı · katalogdaki GitHub deposu artık 404 dönüyor; güncel resmî kaynak doğrulanana kadar yayından alındı."
+    },
+    {
+      "slug": "omniget",
+      "repolar": [
+        "https://github.com/tonhowtf/omniget"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-10-28",
+      "gerekce": "Kaynak doğrulama kararı · katalogdaki GitHub deposu artık 404 dönüyor; güncel resmî kaynak doğrulanana kadar yayından alındı."
+    },
+    {
+      "slug": "nitter",
+      "repolar": [
+        "https://github.com/zedeus/nitter"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-10-28",
+      "gerekce": "Kaynak/bakım kararı · resmî depo arşivlenmiş; güncel bakım ve servis durumu doğrulanamadığı için kayıt yayından alındı."
     }
   ]
 }

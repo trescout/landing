@@ -100,12 +100,6 @@
           "url": "https://github.com/Axorax/awesome-free-apps",
           "summary": "La increíble lista de aplicaciones gratuitas compilada por Axorax reúne recomendaciones de aplicaciones gratuitas seleccionadas para computadoras personales y dispositivos móviles. Este recurso ofrece una guía accesible categorizando el software que los usuarios pueden necesitar.",
           "meta": "JavaScript · ★ 5.887 · +728 hoy"
-        },
-        {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi es una plataforma de personajes virtuales (waifu) basada en inteligencia artificial con chat de voz en tiempo real y capacidades de juego que los usuarios pueden alojar en sus propios servidores. Desarrollado con TypeScript, el proyecto tiene como objetivo llevar activos digitales interactivos similares a Neuro-sama a entornos web y de escritorio.",
-          "meta": "TypeScript · ★ 40.222 · +72 hoy"
         }
       ]
     },

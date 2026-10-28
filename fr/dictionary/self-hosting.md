@@ -44,7 +44,6 @@ Oui, cela nécessite des connaissances de base en administration de serveur et e
 - [Penpot](https://trescout.com/fr/discover/penpot/)
 - [Plane](https://trescout.com/fr/discover/plane/)
 - [Twenty](https://trescout.com/fr/discover/twenty/)
-- [AIRI](https://trescout.com/fr/discover/airi/)
 - [Self-Hosting-Guide](https://trescout.com/fr/discover/self-hosting-guide/)
 - [OpenStock](https://trescout.com/fr/discover/openstock/)
 

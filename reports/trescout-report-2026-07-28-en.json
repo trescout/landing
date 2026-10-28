@@ -18,12 +18,6 @@
           "meta": "C++ · ★ 13,981 · +515 today"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi enables users to create artificial intelligence-based virtual characters (AI companions) with real-time voice chat and gaming capabilities that they can host on their own servers. Developed with the TypeScript language, this project brings interactive digital assets similar to Neuro-sama to desktop and web platforms.",
-          "meta": "TypeScript · ★ 44,255 · +572 today"
-        },
-        {
           "title": "opengeos/GeoLibre",
           "url": "https://github.com/opengeos/GeoLibre",
           "summary": "GeoLibre is a lightweight, cloud-based geographic information system (GIS) platform designed to visualize, explore, and analyze geographic data. Developed with TypeScript, this tool can run on web browsers, desktop, mobile devices and Jupyter notebooks.",

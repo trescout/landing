@@ -24,12 +24,6 @@
           "meta": "Shell · ★ 172.771 · +2.130 bugün"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi, kullanıcıların kendi sunucularında barındırabileceği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip yapay zekâ tabanlı bir sanal arkadaş (companion) projesidir. TypeScript ile geliştirilen bu sistem, Minecraft ve Factorio gibi oyunlarla etkileşime girerek dijital karakterleri yerel ortamlarda çalıştırmayı hedefler.",
-          "meta": "TypeScript · ★ 42.635 · +110 bugün"
-        },
-        {
           "title": "Dicklesworthstone/destructive_command_guard",
           "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
           "summary": "Yıkıcı komut koruyucusu (destructive command guard), yapay zekâ ajanları tarafından çalıştırılan tehlikeli git ve kabuk (shell) komutlarını engelleyen bir güvenlik aracıdır. Rust diliyle geliştirilen bu çözüm, ajan tabanlı iş akışlarında istenmeyen sistem müdahalelerini kısıtlamayı hedefler.",

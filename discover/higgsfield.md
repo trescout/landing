@@ -41,8 +41,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Kimin için:** Büyük ölçekli yapay zekâ modelleri eğiten ve grafik işlem birimi kaynaklarını yönetmek isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 
-## Bağlantılar
+## Editoryal not
 
+Bakım notu: GitHub’daki kaynak depo arşivlenmiş görünüyor. Güncel sürüm, güvenlik düzeltmeleri ve çalışabilirlik için resmî güncel kaynak doğrulanmalıdır.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/higgsfield-ai/higgsfield)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

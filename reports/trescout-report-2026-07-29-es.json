@@ -18,12 +18,6 @@
           "meta": "Java · ★ 26.144 · +180 hoy"
         },
         {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi es una plataforma complementaria de inteligencia artificial con capacidades de juegos y chat de voz en tiempo real que los usuarios pueden alojar en sus propios servidores. El proyecto tiene como objetivo ejecutar personajes digitales interactivos similares a Neuro-sama en sistemas locales e integrarlos en diferentes entornos de juego.",
-          "meta": "TypeScript · ★ 44.962 · +797 hoy"
-        },
-        {
           "title": "andrewyng/aisuite",
           "url": "https://github.com/andrewyng/aisuite",
           "summary": "Desarrollada por Andrew Ng, aisuite es una biblioteca de Python que permite gestionar diferentes proveedores de IA generativa a través de una única interfaz. Estandariza los procesos de integración al facilitar a los desarrolladores el cambio entre varios servicios modelo.",

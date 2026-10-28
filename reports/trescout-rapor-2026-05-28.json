@@ -100,12 +100,6 @@
           "url": "https://github.com/Axorax/awesome-free-apps",
           "summary": "Axorax tarafından derlenen awesome-free-apps listesi, kişisel bilgisayar ve mobil cihazlar için seçilmiş ücretsiz uygulama önerilerini bir araya getiriyor. Bu kaynak, kullanıcıların ihtiyaç duyabileceği yazılımları kategorize ederek erişilebilir bir rehber sunuyor.",
           "meta": "JavaScript · ★ 5.887 · +728 bugün"
-        },
-        {
-          "title": "moeru-ai/airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "summary": "Airi, kullanıcıların kendi sunucularında barındırabildiği, gerçek zamanlı sesli sohbet ve oyun oynama yeteneklerine sahip yapay zekâ tabanlı bir sanal karakter (waifu) platformudur. TypeScript ile geliştirilen proje, Neuro-sama benzeri etkileşimli dijital varlıkları masaüstü ve web ortamlarına taşımayı amaçlar.",
-          "meta": "TypeScript · ★ 40.222 · +72 bugün"
         }
       ]
     },

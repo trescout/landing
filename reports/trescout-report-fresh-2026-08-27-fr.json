@@ -8,25 +8,6 @@
       "sourceName": "github",
       "items": [
         {
-          "title": "zedeus/nitter",
-          "url": "https://github.com/zedeus/nitter",
-          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
-          "meta": "Nim · ★ 13 703 · +63 aujourd'hui",
-          "snapshot": {
-            "sourceId": "zedeus/nitter",
-            "capturedAt": "2026-08-27T15:00:44.483Z",
-            "metadata": {
-              "language": "Nim",
-              "popularity": 13703,
-              "engagementCount": 63,
-              "rank": 1,
-              "extra": {
-                "starsToday": 63
-              }
-            }
-          }
-        },
-        {
           "title": "JetBrains/go-modern-guidelines",
           "url": "https://github.com/JetBrains/go-modern-guidelines",
           "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",

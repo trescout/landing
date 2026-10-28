@@ -48,8 +48,11 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **Para quién es:** Está dirigido a desarrolladores que entrenan modelos de inteligencia artificial a gran escala y desean gestionar los recursos de la unidad de procesamiento gráfico.
 - **Licencia:** Apache-2.0
 
-## Enlaces
+## Nota editorial
 
+Maintenance note: The GitHub source repository is archived. Verify an official current source for releases, security fixes, and continued functionality.
+
+## Enlaces
 - [Repositorio en GitHub →](https://github.com/higgsfield-ai/higgsfield)
 - [Leer en turco →](https://trescout.com/discover/higgsfield/)
 
