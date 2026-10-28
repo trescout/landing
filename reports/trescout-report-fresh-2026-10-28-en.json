@@ -1,0 +1,275 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-28",
+  "capturedAt": "2026-10-28T04:59:55.890Z",
+  "editorial": "Content included in the report will not be repeated for 30 days. At the end of this period, records that remain on the agenda will be listed again with the \"back on the agenda\" label.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "summary": "elayadesign/ai-design-skills offers a collection of design skills consisting of markdown rule files that AI coding tools (Claude Code, Cursor, Codex, Windsurf) can read. This project provides a guide-like resource for AI-powered tools to standardize design processes.",
+          "meta": "★ 9,826 · +1,395 today",
+          "snapshot": {
+            "sourceId": "elayadesign/ai-design-skills",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "popularity": 9826,
+              "engagementCount": 1395,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1395,
+                "baglam": "readme"
+              }
+            },
+            "description": "A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Ghostty 1.4",
+          "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+          "summary": "Ghostty 1.4 is a new version update released for the terminal emulator Ghostty. It includes various bug fixes and improvements that enhance the software's performance and user experience.",
+          "meta": "868 points · 271 comments",
+          "snapshot": {
+            "sourceId": "50261998",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 868,
+              "engagementCount": 271,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50261998",
+                  "popularity": 868,
+                  "engagementCount": 271
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-27T16:51:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50261998"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50261998",
+              "popularity": 868,
+              "engagementCount": 271
+            }
+          ]
+        },
+        {
+          "title": "Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "summary": "Genie 4, developed by DeepMind, represents a new generation in world simulation technology. This model stands out for its capacity to create interactive and dynamic environments from visual data.",
+          "meta": "802 points · 488 comments",
+          "snapshot": {
+            "sourceId": "50261319",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 802,
+              "engagementCount": 488,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50261319",
+                  "popularity": 802,
+                  "engagementCount": 488
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-27T16:06:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50261319"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50261319",
+              "popularity": 802,
+              "engagementCount": 488
+            }
+          ]
+        },
+        {
+          "title": "New iMac with M6",
+          "url": "https://www.apple.com/imac/",
+          "summary": "Apple has announced the new iMac model equipped with the M6 chip. The desktop computer has been updated for daily use and professional workflows with its high-performance processor.",
+          "meta": "319 points · 396 comments",
+          "snapshot": {
+            "sourceId": "50258538",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 396,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50258538",
+                  "popularity": 319,
+                  "engagementCount": 396
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-27T13:02:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50258538"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50258538",
+              "popularity": 319,
+              "engagementCount": 396
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation",
+          "url": "https://huggingface.co/papers/2610.34674",
+          "summary": "The article shared by Hugging Face introduces an evaluation system called OSMA-Bench that measures safe movement adaptation based on obstacles in indoor robot navigation. The study proposes a new method called the Semantic Sensitivity Index to measure the ability of robots to adjust speed and distance according to object type and distance.",
+          "meta": "0 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2610.34674",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34674",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/OSMA-Bench/OSMA-Bench",
+                "githubStars": 0
+              }
+            },
+            "description": "Safe household navigation requires robots to regulate clearance and speed according to what an obstacle is and how close it is, without unnecessary conservatism. Yet existing evaluations do not test whether semantic safety distinctions are reflected in continuous motion. To that end, we introduce OSMA-Bench, an Obstacle-Conditioned Safe Motion Adaptation Benchmark built on spatially matched scenario sets that differ only in obstacle type. We also propose the Semantic Sensitivity Index (SSI), whi"
+          }
+        },
+        {
+          "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+          "url": "https://huggingface.co/papers/2610.36077",
+          "summary": "The Trinity, released on Hugging Face, presents a capability-focused recursive self-improvement method for multimodal artificial intelligence agents. The study aims to overcome scaling barriers such as the cost of creating heterogeneous environments and the slowness of manual iteration processes.",
+          "meta": "2 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.36077",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.36077",
+                "publishedAt": "2026-10-26T00:00:00.000Z"
+              }
+            },
+            "description": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-"
+          }
+        },
+        {
+          "title": "PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds",
+          "url": "https://huggingface.co/papers/2610.34921",
+          "summary": "PhysEvolve is a method designed to address reliability issues that vision-language models experience in physical reasoning processes. It aims to bridge gaps in physical causality by using a self-evolving paradigm that allows the model to generate its own training data.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.34921",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34921",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/yelonhu/PhysEvolve"
+              }
+            },
+            "description": "Physical reasoning underpins how embodied systems understand and act in the physical world, yet vision-language models (VLMs) remain unreliable on questions about dynamics and physical causality. Progress is critically constrained by the scarcity of grounded counterfactual training data, as observational videos capture only the factual trajectory that occurred. The self-evolving paradigm offers a route beyond fixed datasets by enabling models to construct their own training problems. Extending t"
+          }
+        },
+        {
+          "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
+          "url": "https://huggingface.co/papers/2610.26185",
+          "summary": "MoveBench is a rubric-based benchmarking tool developed to evaluate the performance of large language models (LLMs) in the fields of sports and health coaching. Unlike general-purpose tests, it offers specialized measurement in critical areas such as exercise safety, physiological suitability, and personalization.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.26185",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26185",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/Keep-Tech/MoveBench",
+                "githubStars": 17
+              }
+            },
+            "description": "Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general-purpose benchmarks (e.g., MMLU and HELM) primarily assess broad knowledge and reasoning capabilities, but fail to capture critical domain requirements such as exercise safety, physiological appropriateness, personalization, and actionable coaching quality. This gap is particularly concerning in fit"
+          }
+        },
+        {
+          "title": "MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model",
+          "url": "https://huggingface.co/papers/2610.37175",
+          "summary": "MLE-World, shared by Hugging Face, is a world model that predicts the results of machine learning experiments based on code and data descriptions. Fine-tuned based on Qwen3.5-4B, this system enables AI agents to work more efficiently by predicting error logs and validation scores without the need to train and run the models.",
+          "meta": "1 likes · 0 comments",
+          "snapshot": {
+            "sourceId": "2610.37175",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37175",
+                "publishedAt": "2026-10-27T00:00:00.000Z"
+              }
+            },
+            "description": "AI research agents can propose, execute, and improve programs that solve machine learning tasks. However, executing each candidate program requires training and evaluating ML models, limiting how many candidates an agent can explore at each step. We introduce MLE-World, a world model finetuned from Qwen3.5-4B that predicts a program's terminal output (error traces, training logs, and validation scores) from its code and data description without executing it, together with a confidence score esti"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IDE",
+      "explanation": "A comprehensive development tool that enables software developers to write, edit, and debug code."
+    },
+    {
+      "term": "world simulation",
+      "explanation": "Technology developed by DeepMind that can realistically simulate the physical world or virtual environments."
+    }
+  ]
+}

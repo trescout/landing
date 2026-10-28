@@ -1,0 +1,276 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-28",
+  "capturedAt": "2026-10-28T04:59:55.890Z",
+  "editorial": "Rapora dahil edilen içerikler 30 gün boyunca tekrarlanmaz. Bu sürenin sonunda gündemde kalmaya devam eden kayıtlar, \"yeniden gündemde\" etiketiyle tekrar listelenir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "summary": "elayadesign/ai-design-skills, yapay zekâ kodlama araçlarının (Claude Code, Cursor, Codex, Windsurf) okuyabildiği markdown kurallar dosyasından oluşan bir tasarım becerileri koleksiyonu sunuyor. Bu proje, tasarım süreçlerini standartlaştırmak için yapay zekâ destekli araçlara yönelik rehber niteliğinde bir kaynak sağlıyor.",
+          "meta": "★ 9.826 · +1.395 bugün",
+          "snapshot": {
+            "sourceId": "elayadesign/ai-design-skills",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "popularity": 9826,
+              "engagementCount": 1395,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1395,
+                "baglam": "readme"
+              }
+            },
+            "description": "A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Ghostty 1.4",
+          "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+          "summary": "Ghostty 1.4, terminal emülatörü Ghostty için yayınlanan yeni bir sürüm güncellemesidir. Yazılımın performansını ve kullanıcı deneyimini iyileştiren çeşitli hata düzeltmeleri ile geliştirmeler içerir.",
+          "meta": "868 oy · 271 yorum",
+          "snapshot": {
+            "sourceId": "50261998",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 868,
+              "engagementCount": 271,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50261998",
+                  "popularity": 868,
+                  "engagementCount": 271
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-27T16:51:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50261998"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50261998",
+              "popularity": 868,
+              "engagementCount": 271
+            }
+          ]
+        },
+        {
+          "title": "Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "summary": "DeepMind tarafından geliştirilen Genie 4, dünya simülasyonu (world simulation) teknolojisinde yeni bir nesli temsil ediyor. Bu model, görsel verilerden etkileşimli ve dinamik ortamlar oluşturma kapasitesiyle dikkat çekiyor.",
+          "meta": "802 oy · 488 yorum",
+          "snapshot": {
+            "sourceId": "50261319",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 802,
+              "engagementCount": 488,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50261319",
+                  "popularity": 802,
+                  "engagementCount": 488
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-27T16:06:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50261319"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50261319",
+              "popularity": 802,
+              "engagementCount": 488
+            }
+          ]
+        },
+        {
+          "title": "New iMac with M6",
+          "url": "https://www.apple.com/imac/",
+          "summary": "Apple, M6 çip ile donatılan yeni iMac modelini duyurdu. Masaüstü bilgisayar, yüksek performanslı işlemcisiyle günlük kullanım ve profesyonel iş akışları için güncellendi.",
+          "meta": "319 oy · 396 yorum",
+          "snapshot": {
+            "sourceId": "50258538",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 396,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50258538",
+                  "popularity": 319,
+                  "engagementCount": 396
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-27T13:02:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50258538"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50258538",
+              "popularity": 319,
+              "engagementCount": 396
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation",
+          "url": "https://huggingface.co/papers/2610.34674",
+          "summary": "Hugging Face tarafından paylaşılan makale, ev içi robot navigasyonunda engellere göre güvenli hareket adaptasyonunu ölçen OSMA-Bench adlı bir değerlendirme sistemi sunuyor. Çalışma, robotların nesne türüne ve mesafesine göre hız ile mesafe ayarı yapma becerisini ölçmek için Anlamsal Duyarlılık Endeksi (Semantic Sensitivity Index) adlı yeni bir yöntem öneriyor.",
+          "meta": "0 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.34674",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34674",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/OSMA-Bench/OSMA-Bench",
+                "githubStars": 0
+              }
+            },
+            "description": "Safe household navigation requires robots to regulate clearance and speed according to what an obstacle is and how close it is, without unnecessary conservatism. Yet existing evaluations do not test whether semantic safety distinctions are reflected in continuous motion. To that end, we introduce OSMA-Bench, an Obstacle-Conditioned Safe Motion Adaptation Benchmark built on spatially matched scenario sets that differ only in obstacle type. We also propose the Semantic Sensitivity Index (SSI), whi"
+          }
+        },
+        {
+          "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+          "url": "https://huggingface.co/papers/2610.36077",
+          "summary": "Hugging Face üzerinde yayımlanan The Trinity, çok modlu yapay zekâ ajanları (multimodal agents) için yetenek odaklı özyinelemeli öz iyileştirme (recursive self-improvement) yöntemi sunuyor. Çalışma, heterojen ortamların oluşturulmasındaki maliyet ve manuel yineleme süreçlerindeki yavaşlık gibi ölçeklendirme engellerini aşmayı hedefliyor.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.36077",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.36077",
+                "publishedAt": "2026-10-26T00:00:00.000Z"
+              }
+            },
+            "description": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-"
+          }
+        },
+        {
+          "title": "PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds",
+          "url": "https://huggingface.co/papers/2610.34921",
+          "summary": "PhysEvolve, fiziksel akıl yürütme (physical reasoning) süreçlerinde görsel dil modellerinin (vision-language models) yaşadığı güvenilirlik sorunlarını gidermek için tasarlanmış bir yöntemdir. Modelin kendi eğitim verilerini oluşturmasını sağlayan öz-evrimsel (self-evolving) bir paradigma kullanarak fiziksel nedensellik konusundaki eksiklikleri gidermeyi amaçlar.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.34921",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34921",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/yelonhu/PhysEvolve"
+              }
+            },
+            "description": "Physical reasoning underpins how embodied systems understand and act in the physical world, yet vision-language models (VLMs) remain unreliable on questions about dynamics and physical causality. Progress is critically constrained by the scarcity of grounded counterfactual training data, as observational videos capture only the factual trajectory that occurred. The self-evolving paradigm offers a route beyond fixed datasets by enabling models to construct their own training problems. Extending t"
+          }
+        },
+        {
+          "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
+          "url": "https://huggingface.co/papers/2610.26185",
+          "summary": "MoveBench, büyük dil modellerinin (LLM) spor ve sağlık koçluğu alanındaki performansını değerlendirmek için geliştirilen rubrik tabanlı bir kıyaslama aracıdır. Genel amaçlı testlerin aksine egzersiz güvenliği, fizyolojik uygunluk ve kişiselleştirme gibi kritik alanlarda uzmanlaşmış bir ölçümleme sunar.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.26185",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26185",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/Keep-Tech/MoveBench",
+                "githubStars": 17
+              }
+            },
+            "description": "Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general-purpose benchmarks (e.g., MMLU and HELM) primarily assess broad knowledge and reasoning capabilities, but fail to capture critical domain requirements such as exercise safety, physiological appropriateness, personalization, and actionable coaching quality. This gap is particularly concerning in fit"
+          }
+        },
+        {
+          "title": "MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model",
+          "url": "https://huggingface.co/papers/2610.37175",
+          "summary": "Hugging Face tarafından paylaşılan MLE-World, makine öğrenmesi deneylerinin sonuçlarını kod ve veri açıklamalarından yola çıkarak tahmin eden bir dünya modeli (world model). Qwen3.5-4B temel alınarak ince ayar (fine-tuning) yapılan bu sistem, modelleri eğitip çalıştırmaya gerek kalmadan hata kayıtları ve doğrulama puanlarını öngörerek yapay zekâ ajanlarının daha verimli çalışmasını sağlıyor.",
+          "meta": "1 beğeni · 0 yorum",
+          "snapshot": {
+            "sourceId": "2610.37175",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37175",
+                "publishedAt": "2026-10-27T00:00:00.000Z"
+              }
+            },
+            "description": "AI research agents can propose, execute, and improve programs that solve machine learning tasks. However, executing each candidate program requires training and evaluating ML models, limiting how many candidates an agent can explore at each step. We introduce MLE-World, a world model finetuned from Qwen3.5-4B that predicts a program's terminal output (error traces, training logs, and validation scores) from its code and data description without executing it, together with a confidence score esti"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IDE",
+      "explanation": "Yazılımcıların kod yazmasını, düzenlemesini ve hataları ayıklamasını sağlayan kapsamlı geliştirme aracı."
+    },
+    {
+      "term": "world simulation",
+      "explanation": "DeepMind tarafından geliştirilen, fiziksel dünyayı veya sanal ortamları gerçekçi bir şekilde taklit edebilen teknoloji."
+    }
+  ],
+  "githubStale": true
+}

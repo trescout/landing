@@ -1,0 +1,275 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-28",
+  "capturedAt": "2026-10-28T04:59:55.890Z",
+  "editorial": "Die in den Bericht aufgenommenen Inhalte werden 30 Tage lang nicht wiederholt. Nach Ablauf dieses Zeitraums werden Einträge, die weiterhin aktuell bleiben, erneut mit dem Label \"wieder aktuell\" aufgelistet.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "summary": "elayadesign/ai-design-skills bietet eine Sammlung von Design-Fähigkeiten, die aus einer Markdown-Regeldatei bestehen, welche von KI-Codierungstools (Claude Code, Cursor, Codex, Windsurf) gelesen werden kann. Dieses Projekt stellt eine leitfadenartige Ressource für KI-gestützte Tools zur Standardisierung von Designprozessen bereit.",
+          "meta": "★ 9.826 · +1.395 heute",
+          "snapshot": {
+            "sourceId": "elayadesign/ai-design-skills",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "popularity": 9826,
+              "engagementCount": 1395,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1395,
+                "baglam": "readme"
+              }
+            },
+            "description": "A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Ghostty 1.4",
+          "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+          "summary": "Ghostty 1.4 ist ein neues Release-Update für den Terminal-Emulator Ghostty. Es enthält verschiedene Fehlerbehebungen und Verbesserungen, die die Leistung und das Benutzererlebnis der Software optimieren.",
+          "meta": "868 Punkte · 271 Kommentare",
+          "snapshot": {
+            "sourceId": "50261998",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 868,
+              "engagementCount": 271,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50261998",
+                  "popularity": 868,
+                  "engagementCount": 271
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-27T16:51:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50261998"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50261998",
+              "popularity": 868,
+              "engagementCount": 271
+            }
+          ]
+        },
+        {
+          "title": "Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "summary": "Genie 4, entwickelt von DeepMind, repräsentiert eine neue Generation in der Welt-Simulations-Technologie (world simulation). Dieses Modell zeichnet sich durch seine Fähigkeit aus, aus visuellen Daten interaktive und dynamische Umgebungen zu erstellen.",
+          "meta": "802 Punkte · 488 Kommentare",
+          "snapshot": {
+            "sourceId": "50261319",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 802,
+              "engagementCount": 488,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50261319",
+                  "popularity": 802,
+                  "engagementCount": 488
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-27T16:06:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50261319"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50261319",
+              "popularity": 802,
+              "engagementCount": 488
+            }
+          ]
+        },
+        {
+          "title": "New iMac with M6",
+          "url": "https://www.apple.com/imac/",
+          "summary": "Apple hat das neue iMac-Modell mit dem M6-Chip angekündigt. Der Desktop-Computer wurde mit seinem leistungsstarken Prozessor für den täglichen Gebrauch und professionelle Arbeitsabläufe aktualisiert.",
+          "meta": "319 Punkte · 396 Kommentare",
+          "snapshot": {
+            "sourceId": "50258538",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 396,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50258538",
+                  "popularity": 319,
+                  "engagementCount": 396
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-27T13:02:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50258538"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50258538",
+              "popularity": 319,
+              "engagementCount": 396
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation",
+          "url": "https://huggingface.co/papers/2610.34674",
+          "summary": "Ein auf Hugging Face veröffentlichter Artikel stellt ein Bewertungssystem namens OSMA-Bench vor, das die sichere Bewegungsanpassung von Haushaltsrobotern an Hindernisse misst. Die Studie schlägt eine neue Methode namens Semantic Sensitivity Index vor, um die Fähigkeit von Robotern zu messen, Geschwindigkeit und Abstand basierend auf Objekttyp und Entfernung anzupassen.",
+          "meta": "0 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.34674",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34674",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/OSMA-Bench/OSMA-Bench",
+                "githubStars": 0
+              }
+            },
+            "description": "Safe household navigation requires robots to regulate clearance and speed according to what an obstacle is and how close it is, without unnecessary conservatism. Yet existing evaluations do not test whether semantic safety distinctions are reflected in continuous motion. To that end, we introduce OSMA-Bench, an Obstacle-Conditioned Safe Motion Adaptation Benchmark built on spatially matched scenario sets that differ only in obstacle type. We also propose the Semantic Sensitivity Index (SSI), whi"
+          }
+        },
+        {
+          "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+          "url": "https://huggingface.co/papers/2610.36077",
+          "summary": "The Trinity, veröffentlicht auf Hugging Face, präsentiert eine fähigkeitsorientierte Methode der rekursiven Selbstverbesserung (recursive self-improvement) für multimodale KI-Agenten. Die Studie zielt darauf ab, Skalierungshindernisse wie Kosten bei der Erstellung heterogener Umgebungen und die Langsamkeit manueller Iterationsprozesse zu überwinden.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.36077",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.36077",
+                "publishedAt": "2026-10-26T00:00:00.000Z"
+              }
+            },
+            "description": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-"
+          }
+        },
+        {
+          "title": "PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds",
+          "url": "https://huggingface.co/papers/2610.34921",
+          "summary": "PhysEvolve ist eine Methode, die entwickelt wurde, um Zuverlässigkeitsprobleme von Vision-Language-Modellen bei physikalischen Schlussfolgerungsprozessen (physical reasoning) zu beheben. Sie zielt darauf ab, Defizite in der physikalischen Kausalität durch ein selbstentwickelndes (self-evolving) Paradigma zu beseitigen, das es dem Modell ermöglicht, seine eigenen Trainingsdaten zu generieren.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.34921",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34921",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/yelonhu/PhysEvolve"
+              }
+            },
+            "description": "Physical reasoning underpins how embodied systems understand and act in the physical world, yet vision-language models (VLMs) remain unreliable on questions about dynamics and physical causality. Progress is critically constrained by the scarcity of grounded counterfactual training data, as observational videos capture only the factual trajectory that occurred. The self-evolving paradigm offers a route beyond fixed datasets by enabling models to construct their own training problems. Extending t"
+          }
+        },
+        {
+          "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
+          "url": "https://huggingface.co/papers/2610.26185",
+          "summary": "MoveBench ist ein rubrikbasiertes Benchmark-Tool, das entwickelt wurde, um die Leistung großer Sprachmodelle (LLM) im Bereich Sport- und Gesundheitscoaching zu bewerten. Im Gegensatz zu allgemeinen Tests bietet es eine spezialisierte Messung in kritischen Bereichen wie Übungssicherheit, physiologische Eignung und Personalisierung.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.26185",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26185",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/Keep-Tech/MoveBench",
+                "githubStars": 17
+              }
+            },
+            "description": "Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general-purpose benchmarks (e.g., MMLU and HELM) primarily assess broad knowledge and reasoning capabilities, but fail to capture critical domain requirements such as exercise safety, physiological appropriateness, personalization, and actionable coaching quality. This gap is particularly concerning in fit"
+          }
+        },
+        {
+          "title": "MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model",
+          "url": "https://huggingface.co/papers/2610.37175",
+          "summary": "MLE-World, das von Hugging Face veröffentlicht wurde, ist ein Weltmodell (world model), das die Ergebnisse von Machine-Learning-Experimenten auf Basis von Code- und Datenbeschreibungen vorhersagt. Dieses System, das auf Qwen3.5-4B basiert und mittels Fine-Tuning angepasst wurde, ermöglicht es KI-Agenten effizienter zu arbeiten, indem es Fehlerprotokolle und Validierungswerte vorhersagt, ohne dass Modelle trainiert oder ausgeführt werden müssen.",
+          "meta": "1 Likes · 0 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.37175",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37175",
+                "publishedAt": "2026-10-27T00:00:00.000Z"
+              }
+            },
+            "description": "AI research agents can propose, execute, and improve programs that solve machine learning tasks. However, executing each candidate program requires training and evaluating ML models, limiting how many candidates an agent can explore at each step. We introduce MLE-World, a world model finetuned from Qwen3.5-4B that predicts a program's terminal output (error traces, training logs, and validation scores) from its code and data description without executing it, together with a confidence score esti"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IDE",
+      "explanation": "Ein umfassendes Entwicklungswerkzeug, das es Softwareentwicklern ermöglicht, Code zu schreiben, zu bearbeiten und Fehler zu beheben."
+    },
+    {
+      "term": "world simulation",
+      "explanation": "Eine von DeepMind entwickelte Technologie, die die physische Welt oder virtuelle Umgebungen realistisch simulieren kann."
+    }
+  ]
+}

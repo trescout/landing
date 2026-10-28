@@ -1,0 +1,784 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-28",
+  "capturedAt": "2026-10-28T04:59:55.890Z",
+  "editorial": "Heute stehen in der Technologie-Agenda die rekursiven Entwicklungsprozesse von KI-Modellen und Sicherheitstests für autonome Systeme im Vordergrund. Die Veröffentlichung des Modells DeepSeek V4.1 Flash und akademische Arbeiten zur Sicherheit der robotischen Navigation markieren eine neue Schwelle in der Integration von Hardware und Software.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "summary": "elayadesign/ai-design-skills bietet eine Sammlung von Design-Fähigkeiten, die aus einer Markdown-Regeldatei bestehen, welche von KI-Codierungstools (Claude Code, Cursor, Codex, Windsurf) gelesen werden kann. Dieses Projekt stellt eine leitfadenartige Ressource für KI-gestützte Tools zur Standardisierung von Designprozessen bereit.",
+          "meta": "★ 9.826 · +1.395 heute",
+          "snapshot": {
+            "sourceId": "elayadesign/ai-design-skills",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "popularity": 9826,
+              "engagementCount": 1395,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1395,
+                "baglam": "readme"
+              }
+            },
+            "description": "A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file."
+          }
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Nutlope/hallmark ist ein Stil-Tool für Code-Editoren wie Claude Code, Cursor und Codex, das es ermöglicht, Designs zu erstellen, die nicht wie von einer KI generiert aussehen. Dieses Projekt bietet Entwicklern, die das Standard-Erscheinungsbild von generativen KI-Ausgaben ändern möchten, eine Design-Fähigkeit.",
+          "meta": "CSS · ★ 39.344 · +2.830 heute",
+          "snapshot": {
+            "sourceId": "Nutlope/hallmark",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 39344,
+              "engagementCount": 2830,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2830,
+                "baglam": "readme"
+              }
+            },
+            "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated."
+          }
+        },
+        {
+          "title": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "summary": "nightly-labs/openbot ist eine lokal ausgerichtete Desktop-Anwendung, die dauerhafte Arbeitsbereiche für KI-Modelle wie Codex, Claude und Grok bietet. Sie schafft eine Umgebung, die es Benutzern ermöglicht, Dateien auszutauschen, Browser zu steuern und zwischen KI-Agenten zu kollaborieren.",
+          "meta": "TypeScript · ★ 2.630 · +777 heute",
+          "snapshot": {
+            "sourceId": "nightly-labs/openbot",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2630,
+              "engagementCount": 777,
+              "rank": 3,
+              "extra": {
+                "starsToday": 777
+              }
+            },
+            "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers ist eine Softwareentwicklungsmethodik und ein Framework, das für KI-Agenten entwickelt wurde, die programmieren. Es zielt darauf ab, die Softwareentwicklungsprozesse von Agenten durch kombinierbare Fähigkeiten (composable skills) und Anweisungen zu standardisieren.",
+          "meta": "Shell · ★ 306.620 · +617 heute",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 306620,
+              "engagementCount": 617,
+              "rank": 4,
+              "extra": {
+                "starsToday": 617,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Das in Rust entwickelte impeccable bietet ein Design-Vokabular für KI-Agenten, die Code schreiben. Dieses Tool zielt darauf ab, fehlerhafte Inhalte, die von KI im Softwareentwicklungsprozess erstellt wurden (AI slop), durch Kontroll- und Prüfmechanismen zu verhindern.",
+          "meta": "Rust · ★ 90.869 · +1.449 heute",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 90869,
+              "engagementCount": 1449,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1449
+              }
+            },
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "title": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "summary": "Cindy ist ein Open-Source-KI-Agent, mit dem Sie einen personalisierten Assistenten erstellen können, indem Sie Computer- und Telefongeräte miteinander verbinden. Dieses Tool, das es Benutzern ermöglicht, bestehende Modellabonnements zu integrieren, ist so konzipiert, dass es sofort einsatzbereit ist.",
+          "meta": "TypeScript · ★ 7.635 · +1.465 heute",
+          "snapshot": {
+            "sourceId": "makecindy/cindy",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7635,
+              "engagementCount": 1465,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1465,
+                "baglam": "readme"
+              }
+            },
+            "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。. Cindy is an open-source AI agent, ready out of the box and yours to shape. Connect your computers and phone, bring the models and subscriptions you already use, and build a companion that knows how you like to work."
+          }
+        },
+        {
+          "title": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "summary": "Postiz ist ein agentenbasiertes Tool zur Planung von Social-Media-Inhalten. Diese in TypeScript entwickelte Anwendung zielt darauf ab, Prozesse zur Veröffentlichung von Inhalten zu automatisieren.",
+          "meta": "TypeScript · ★ 39.568 · +951 heute",
+          "snapshot": {
+            "sourceId": "gitroomhq/postiz-app",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 39568,
+              "engagementCount": 951,
+              "rank": 7,
+              "extra": {
+                "starsToday": 951,
+                "baglam": "readme"
+              }
+            },
+            "description": "📨 The ultimate agentic social media scheduling tool 🤖. To have the project up and running, please follow the Quick Start Guide"
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "affaan-m/ECC ist ein System, das zur Optimierung der Leistung von KI-Agenten entwickelt wurde. Es bietet Forschungs-orientierte Entwicklungsumgebungen durch die Bereitstellung von Fähigkeiten-, Speicher- und Sicherheitsebenen für Plattformen wie Claude Code, Codex, Opencode und den Code-Editor Cursor.",
+          "meta": "JavaScript · ★ 291.050 · +1.165 heute",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 291050,
+              "engagementCount": 1165,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1165
+              }
+            },
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+          }
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor ist ein KI-basierter Arbeitsbereich, der Lernprozesse wie Nachhilfe, Problemlösung, Testerstellung und Visualisierung in einem einzigen System vereint. Dieses System wurde entwickelt, um die Bedürfnisse des lebenslangen Lernens von Schülern zu erfüllen und bietet eine personalisierte Bildungserfahrung.",
+          "meta": "Python · ★ 46.388 · +1.598 heute",
+          "snapshot": {
+            "sourceId": "HKUDS/DeepTutor",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 46388,
+              "engagementCount": 1598,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1598,
+                "baglam": "readme"
+              }
+            },
+            "description": "DeepTutor: Lifelong Personalized Tutoring. DeepTutor is an agent-native learning workspace that connects tutoring, problem solving, quiz generation, research, visualization, and mastery practice in one extensible system."
+          }
+        },
+        {
+          "title": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "summary": "ThinkRail, entwickelt von JetBrains, ist eine agentenbasierte integrierte Entwicklungsumgebung (IDE), die sich durch das Erlernen der Arbeitsgewohnheiten der Benutzer personalisiert und im Laufe der Zeit eigene Fähigkeiten aufbauen kann. Das Projekt zielt darauf ab, die Entwicklererfahrung durch die Analyse von Softwareprojekten anhand lebender Spezifikationen (living specs) zu verbessern.",
+          "meta": "TypeScript · ★ 4.241 · +1.204 heute",
+          "snapshot": {
+            "sourceId": "JetBrains/thinkrail",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4241,
+              "engagementCount": 1204,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1204,
+                "baglam": "readme"
+              }
+            },
+            "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need. ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow."
+          }
+        },
+        {
+          "title": "togg53192-cmd/jailbreaks",
+          "url": "https://github.com/togg53192-cmd/jailbreaks",
+          "summary": "togg53192-cmd/jailbreaks bietet eine kuratierte Sammlung von Systembefehlen, Persönlichkeitssperren und Arbeitsbereichsrichtlinien für Frontier-, Open-Weight- und kostenlose geheime Modelle. Dieses Repository enthält verschiedene Konfigurationsdateien, die darauf abzielen, die Funktionsprinzipien und Einschränkungen von KI-Modellen zu ändern.",
+          "meta": "★ 5.849 · +902 heute",
+          "snapshot": {
+            "sourceId": "togg53192-cmd/jailbreaks",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "popularity": 5849,
+              "engagementCount": 902,
+              "rank": 11,
+              "extra": {
+                "starsToday": 902,
+                "baglam": "readme"
+              }
+            },
+            "description": "LIST OF ALL MY JAILBREAKS. A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Ghostty 1.4",
+          "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+          "summary": "Ghostty 1.4 ist ein neues Release-Update für den Terminal-Emulator Ghostty. Es enthält verschiedene Fehlerbehebungen und Verbesserungen, die die Leistung und das Benutzererlebnis der Software optimieren.",
+          "meta": "868 Punkte · 271 Kommentare",
+          "snapshot": {
+            "sourceId": "50261998",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 868,
+              "engagementCount": 271,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50261998",
+                  "popularity": 868,
+                  "engagementCount": 271
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-27T16:51:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50261998"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50261998",
+              "popularity": 868,
+              "engagementCount": 271
+            }
+          ]
+        },
+        {
+          "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+          "summary": "Es wird behauptet, dass die Regierung der Vereinigten Staaten einen geheimen Gerichtsbeschluss, der Methoden zur Überwachung von Bürgern enthält, vor der Öffentlichkeit verbirgt. Diese Situation löst Diskussionen über die rechtlichen Grundlagen staatlicher Überwachungsaktivitäten und die Prinzipien der Transparenz aus.",
+          "meta": "860 Punkte · 309 Kommentare",
+          "snapshot": {
+            "sourceId": "50259604",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 860,
+              "engagementCount": 309,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50259604",
+                  "popularity": 860,
+                  "engagementCount": 309
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-27T14:06:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50259604"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50259604",
+              "popularity": 860,
+              "engagementCount": 309
+            }
+          ]
+        },
+        {
+          "title": "Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "summary": "Genie 4, entwickelt von DeepMind, repräsentiert eine neue Generation in der Welt-Simulations-Technologie (world simulation). Dieses Modell zeichnet sich durch seine Fähigkeit aus, aus visuellen Daten interaktive und dynamische Umgebungen zu erstellen.",
+          "meta": "802 Punkte · 488 Kommentare",
+          "snapshot": {
+            "sourceId": "50261319",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 802,
+              "engagementCount": 488,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50261319",
+                  "popularity": 802,
+                  "engagementCount": 488
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-27T16:06:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50261319"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50261319",
+              "popularity": 802,
+              "engagementCount": 488
+            }
+          ]
+        },
+        {
+          "title": "Python's experimental JIT to be removed",
+          "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+          "summary": "Es ist geplant, die experimentelle Just-in-Time-Compiler-Funktion in der Programmiersprache Python zu entfernen. Diese Entscheidung schafft Unsicherheiten über die Zukunft dieser experimentellen Struktur im Entwicklungsprozess.",
+          "meta": "468 Punkte · 253 Kommentare",
+          "snapshot": {
+            "sourceId": "50257419",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 468,
+              "engagementCount": 253,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50257419",
+                  "popularity": 468,
+                  "engagementCount": 253
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-27T11:17:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50257419"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50257419",
+              "popularity": 468,
+              "engagementCount": 253
+            }
+          ]
+        },
+        {
+          "title": "New iMac with M6",
+          "url": "https://www.apple.com/imac/",
+          "summary": "Apple hat das neue iMac-Modell mit dem M6-Chip angekündigt. Der Desktop-Computer wurde mit seinem leistungsstarken Prozessor für den täglichen Gebrauch und professionelle Arbeitsabläufe aktualisiert.",
+          "meta": "319 Punkte · 396 Kommentare",
+          "snapshot": {
+            "sourceId": "50258538",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 396,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50258538",
+                  "popularity": 319,
+                  "engagementCount": 396
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-27T13:02:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50258538"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50258538",
+              "popularity": 319,
+              "engagementCount": 396
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "DeepSeek-V4.1-Flash-1017, veröffentlicht auf Hugging Face, ist ein KI-Modell, das visuelle und textbasierte Eingaben verarbeiten kann. Im Vergleich zur Vorgängerversion zielt es darauf ab, die Verarbeitungszeit und Kosten zu senken, während es gleichzeitig die Leistung in Bereichen wie logischem Denken, Programmierung und visueller Analyse steigert.",
+          "meta": "♥ 3.418 · 105.667 Downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-28T04:59:55.961Z",
+            "metadata": {
+              "popularity": 3418,
+              "engagementCount": 105667,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 957,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "RecursiveSI/flint",
+          "url": "https://huggingface.co/RecursiveSI/flint",
+          "summary": "Flint, entwickelt von RecursiveSI, ist ein Mixture-of-Experts-Sprachmodell, das für KI-Agenten mit Fokus auf Programmierung konzipiert wurde. Das Modell verfügt über insgesamt 39,8 Milliarden Parameter und wird bei der Analyse von Codebasen, beim Debugging, bei der Funktionsentwicklung und beim Schreiben von Tests eingesetzt.",
+          "meta": "♥ 986 · 10.574 Downloads",
+          "snapshot": {
+            "sourceId": "RecursiveSI/flint",
+            "capturedAt": "2026-10-28T04:59:55.961Z",
+            "metadata": {
+              "popularity": 986,
+              "engagementCount": 10574,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 944,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "flint",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs, implement features, and write tests."
+          }
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "summary": "Nanbeige/Nanbeige4.3-33B wird als KI-Modell mit Fokus auf Textgenerierung präsentiert. Die Entwickler beschreiben dieses Modell als eine Arbeit, die darauf abzielt, durch einen leistungsfähigen Lehrer-Agenten fortgeschrittene Agentenfähigkeiten (agentic capabilities) auf kleinere Modelle zu übertragen.",
+          "meta": "♥ 680 · 4.785 Downloads",
+          "snapshot": {
+            "sourceId": "Nanbeige/Nanbeige4.3-33B",
+            "capturedAt": "2026-10-28T04:59:55.961Z",
+            "metadata": {
+              "popularity": 680,
+              "engagementCount": 4785,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 672,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "llm",
+                  "nanbeige",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+                  "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teacher agent first, which will subsequently anchor the distillation of advanced agentic capabilities into smaller models."
+          }
+        },
+        {
+          "title": "XHToken/Spark-X2.6-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "summary": "Spark-X2.6-4B, veröffentlicht auf Hugging Face, ist ein KI-Modell mit Textgenerierungsfähigkeiten. Das Modell verwendet dieselbe Architektur wie sein Vorgänger und wurde durch Verbesserungen im Post-Training für Anwendungen optimiert, die auf Geräten laufen, wobei es eine höhere Leistung in Bereichen wie Programmierung, logischem Denken und mehrsprachiger Verarbeitung bietet.",
+          "meta": "♥ 812 · 6.191 Downloads",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.6-4B",
+            "capturedAt": "2026-10-28T04:59:55.961Z",
+            "metadata": {
+              "popularity": 812,
+              "engagementCount": 6191,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 601,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "zh",
+                  "base_model:XHToken/Spark-X2.6-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.6-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improved post-training. It delivers substantial improvements in coding, agent, long-context, multilingual, reasoning, etc. These advances enable more capable and practical on-device AI for developers and users tackling real-world tasks."
+          }
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "flux-3-image-klein-comfy, entwickelt von Black Forest Labs, ist ein KI-Modell für die Bild-zu-Bild-Transformation (image-to-image). Dieses auf der Hugging Face-Plattform veröffentlichte Modell ist so konzipiert, dass es mit Tools zur Bilderstellung wie ComfyUI kompatibel ist.",
+          "meta": "♥ 1.875 · 750.694 Downloads",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-28T04:59:55.961Z",
+            "metadata": {
+              "popularity": 1875,
+              "engagementCount": 750694,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 417,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation",
+          "url": "https://huggingface.co/papers/2610.34674",
+          "summary": "Ein auf Hugging Face veröffentlichter Artikel stellt ein Bewertungssystem namens OSMA-Bench vor, das die sichere Bewegungsanpassung von Haushaltsrobotern an Hindernisse misst. Die Studie schlägt eine neue Methode namens Semantic Sensitivity Index vor, um die Fähigkeit von Robotern zu messen, Geschwindigkeit und Abstand basierend auf Objekttyp und Entfernung anzupassen.",
+          "meta": "0 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.34674",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34674",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/OSMA-Bench/OSMA-Bench",
+                "githubStars": 0
+              }
+            },
+            "description": "Safe household navigation requires robots to regulate clearance and speed according to what an obstacle is and how close it is, without unnecessary conservatism. Yet existing evaluations do not test whether semantic safety distinctions are reflected in continuous motion. To that end, we introduce OSMA-Bench, an Obstacle-Conditioned Safe Motion Adaptation Benchmark built on spatially matched scenario sets that differ only in obstacle type. We also propose the Semantic Sensitivity Index (SSI), whi"
+          }
+        },
+        {
+          "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+          "url": "https://huggingface.co/papers/2610.36077",
+          "summary": "The Trinity, veröffentlicht auf Hugging Face, präsentiert eine fähigkeitsorientierte Methode der rekursiven Selbstverbesserung (recursive self-improvement) für multimodale KI-Agenten. Die Studie zielt darauf ab, Skalierungshindernisse wie Kosten bei der Erstellung heterogener Umgebungen und die Langsamkeit manueller Iterationsprozesse zu überwinden.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.36077",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.36077",
+                "publishedAt": "2026-10-26T00:00:00.000Z"
+              }
+            },
+            "description": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-"
+          }
+        },
+        {
+          "title": "PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds",
+          "url": "https://huggingface.co/papers/2610.34921",
+          "summary": "PhysEvolve ist eine Methode, die entwickelt wurde, um Zuverlässigkeitsprobleme von Vision-Language-Modellen bei physikalischen Schlussfolgerungsprozessen (physical reasoning) zu beheben. Sie zielt darauf ab, Defizite in der physikalischen Kausalität durch ein selbstentwickelndes (self-evolving) Paradigma zu beseitigen, das es dem Modell ermöglicht, seine eigenen Trainingsdaten zu generieren.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.34921",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34921",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/yelonhu/PhysEvolve"
+              }
+            },
+            "description": "Physical reasoning underpins how embodied systems understand and act in the physical world, yet vision-language models (VLMs) remain unreliable on questions about dynamics and physical causality. Progress is critically constrained by the scarcity of grounded counterfactual training data, as observational videos capture only the factual trajectory that occurred. The self-evolving paradigm offers a route beyond fixed datasets by enabling models to construct their own training problems. Extending t"
+          }
+        },
+        {
+          "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
+          "url": "https://huggingface.co/papers/2610.26185",
+          "summary": "MoveBench ist ein rubrikbasiertes Benchmark-Tool, das entwickelt wurde, um die Leistung großer Sprachmodelle (LLM) im Bereich Sport- und Gesundheitscoaching zu bewerten. Im Gegensatz zu allgemeinen Tests bietet es eine spezialisierte Messung in kritischen Bereichen wie Übungssicherheit, physiologische Eignung und Personalisierung.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.26185",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26185",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/Keep-Tech/MoveBench",
+                "githubStars": 17
+              }
+            },
+            "description": "Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general-purpose benchmarks (e.g., MMLU and HELM) primarily assess broad knowledge and reasoning capabilities, but fail to capture critical domain requirements such as exercise safety, physiological appropriateness, personalization, and actionable coaching quality. This gap is particularly concerning in fit"
+          }
+        },
+        {
+          "title": "MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model",
+          "url": "https://huggingface.co/papers/2610.37175",
+          "summary": "MLE-World, das von Hugging Face veröffentlicht wurde, ist ein Weltmodell (world model), das die Ergebnisse von Machine-Learning-Experimenten auf Basis von Code- und Datenbeschreibungen vorhersagt. Dieses System, das auf Qwen3.5-4B basiert und mittels Fine-Tuning angepasst wurde, ermöglicht es KI-Agenten effizienter zu arbeiten, indem es Fehlerprotokolle und Validierungswerte vorhersagt, ohne dass Modelle trainiert oder ausgeführt werden müssen.",
+          "meta": "1 Likes · 0 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.37175",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37175",
+                "publishedAt": "2026-10-27T00:00:00.000Z"
+              }
+            },
+            "description": "AI research agents can propose, execute, and improve programs that solve machine learning tasks. However, executing each candidate program requires training and evaluating ML models, limiting how many candidates an agent can explore at each step. We introduce MLE-World, a world model finetuned from Qwen3.5-4B that predicts a program's terminal output (error traces, training logs, and validation scores) from its code and data description without executing it, together with a confidence score esti"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "KI-Technologie, die neue Inhalte wie Text, Bilder oder Audio erstellen kann."
+    },
+    {
+      "term": "framework",
+      "explanation": "Eine Struktur, die Softwareentwicklungsprozesse erleichtert und eine Reihe spezifischer Regeln und Werkzeuge bereitstellt."
+    },
+    {
+      "term": "composable skills",
+      "explanation": "Modulare Fähigkeiten, die kombiniert oder zusammengefügt werden können, um verschiedene Aufgaben zu erfüllen."
+    },
+    {
+      "term": "AI slop",
+      "explanation": "Allgemeine Bezeichnung für minderwertige, fehlerhafte oder unnötige Inhalte, die von künstlicher Intelligenz generiert wurden."
+    },
+    {
+      "term": "agentic",
+      "explanation": "Eine Eigenschaft von Systemen, die eigenständig Entscheidungen treffen und unabhängig handeln können, um Ziele zu erreichen."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Der Prozess, bei dem ein Individuum auch nach Abschluss der formalen Ausbildung weiterhin neues Wissen und neue Fähigkeiten erwirbt."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Ein umfassendes Entwicklungswerkzeug, das es Softwareentwicklern ermöglicht, Code zu schreiben, zu bearbeiten und Fehler zu beheben."
+    },
+    {
+      "term": "living specs",
+      "explanation": "Technische Dokumentationen, die mit der Entwicklung eines Softwareprojekts kontinuierlich aktualisiert werden und den aktuellen Status des Projekts widerspiegeln."
+    },
+    {
+      "term": "frontier",
+      "explanation": "Ein Begriff, der das fortschrittlichste Niveau und die aktuellsten technologischen Grenzen im Bereich der künstlichen Intelligenz repräsentiert."
+    },
+    {
+      "term": "open-weight",
+      "explanation": "KI-Modelle, deren trainierte Parameter für jedermann zugänglich und nutzbar sind."
+    },
+    {
+      "term": "world simulation",
+      "explanation": "Eine von DeepMind entwickelte Technologie, die die physische Welt oder virtuelle Umgebungen realistisch simulieren kann."
+    },
+    {
+      "term": "just-in-time compiler",
+      "explanation": "Ein Mechanismus, der dazu beiträgt, das Programm zu beschleunigen, indem der Code während der Ausführung in Echtzeit in Maschinensprache übersetzt wird."
+    },
+    {
+      "term": "mixture-of-experts",
+      "explanation": "Eine von RecursiveSI entwickelte KI-Architektur, die komplexe Aufgaben löst, indem sie diese in kleinere Expertenbereiche unterteilt."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Eine von Nanbeige angebotene KI-Funktion, die auf Basis gegebener Befehle sinnvolle Texte verfassen kann."
+    },
+    {
+      "term": "agentic capabilities",
+      "explanation": "Fortgeschrittene Fähigkeiten von KI-Modellen wie das eigenständige Planen, die Nutzung von Werkzeugen und das Erledigen von Aufgaben."
+    },
+    {
+      "term": "image-to-image",
+      "explanation": "Ein von Black Forest Labs entwickelter KI-Prozess, der ein Bild als Grundlage nimmt und es in ein anderes Bild umwandelt."
+    }
+  ]
+}

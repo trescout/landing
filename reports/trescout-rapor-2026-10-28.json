@@ -1,0 +1,801 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-28",
+  "capturedAt": "2026-10-28T04:59:55.890Z",
+  "editorial": "Bugün teknoloji gündeminde yapay zekâ modellerinin öz yinelemeli (recursive) gelişim süreçleri ve otonom sistemlerin güvenlik testleri öne çıkıyor. DeepSeek V4.1 Flash modelinin yayınlanması ve robotik navigasyon güvenliği üzerine yapılan akademik çalışmalar, donanım ile yazılım entegrasyonunda yeni bir eşiğe işaret ediyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "summary": "elayadesign/ai-design-skills, yapay zekâ kodlama araçlarının (Claude Code, Cursor, Codex, Windsurf) okuyabildiği markdown kurallar dosyasından oluşan bir tasarım becerileri koleksiyonu sunuyor. Bu proje, tasarım süreçlerini standartlaştırmak için yapay zekâ destekli araçlara yönelik rehber niteliğinde bir kaynak sağlıyor.",
+          "meta": "★ 9.826 · +1.395 bugün",
+          "snapshot": {
+            "sourceId": "elayadesign/ai-design-skills",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "popularity": 9826,
+              "engagementCount": 1395,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1395,
+                "baglam": "readme"
+              }
+            },
+            "description": "A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file."
+          }
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Nutlope/hallmark, kod düzenleme araçları Claude Code, Cursor ve Codex için yapay zekâ tarafından oluşturulmuş gibi görünmeyen tasarımlar üretmeyi sağlayan bir stil aracıdır. Bu proje, üretken yapay zekâ (generative AI) çıktılarının standart görünümünü değiştirmek isteyen geliştiricilere yönelik bir tasarım yeteneği sunar.",
+          "meta": "CSS · ★ 39.344 · +2.830 bugün",
+          "snapshot": {
+            "sourceId": "Nutlope/hallmark",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 39344,
+              "engagementCount": 2830,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2830,
+                "baglam": "readme"
+              }
+            },
+            "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "summary": "nightly-labs/openbot, Codex, Claude ve Grok gibi yapay zekâ modelleri için kalıcı çalışma alanları sunan yerel odaklı bir masaüstü uygulamasıdır. Kullanıcıların dosya paylaşımı, tarayıcı kontrolü ve yapay zekâ ajanları arasında iş birliği yapmasına olanak tanıyan bir ortam sağlar.",
+          "meta": "TypeScript · ★ 2.630 · +777 bugün",
+          "snapshot": {
+            "sourceId": "nightly-labs/openbot",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2630,
+              "engagementCount": 777,
+              "rank": 3,
+              "extra": {
+                "starsToday": 777
+              }
+            },
+            "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers, kodlama yapan yapay zekâ ajanları için geliştirilmiş bir yazılım geliştirme metodolojisi ve yetenek çerçevesidir (framework). Birleştirilebilir yetenekler (composable skills) ve yönlendirme talimatları üzerinden ajanların yazılım geliştirme süreçlerini standartlaştırmayı hedefler.",
+          "meta": "Shell · ★ 306.620 · +617 bugün",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 306620,
+              "engagementCount": 617,
+              "rank": 4,
+              "extra": {
+                "starsToday": 617,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Rust diliyle geliştirilen impeccable, kod yazan yapay zekâ ajanları için bir tasarım sözlüğü sunuyor. Bu araç, yazılım geliştirme sürecinde yapay zekâ tarafından oluşturulan hatalı içerikleri (AI slop) denetim ve inceleme mekanizmalarıyla engellemeyi hedefliyor.",
+          "meta": "Rust · ★ 90.869 · +1.449 bugün",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 90869,
+              "engagementCount": 1449,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1449
+              }
+            },
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "summary": "Cindy, bilgisayar ve telefon cihazlarını birbirine bağlayarak kişiselleştirilmiş bir yardımcı oluşturmanıza olanak tanıyan açık kaynaklı (kaynak kodları herkesin erişimine açık) bir yapay zekâ ajanıdır. Kullanıcıların mevcut model aboneliklerini entegre etmelerini sağlayan bu araç, kutudan çıktığı gibi çalışacak şekilde tasarlanmıştır.",
+          "meta": "TypeScript · ★ 7.635 · +1.465 bugün",
+          "snapshot": {
+            "sourceId": "makecindy/cindy",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7635,
+              "engagementCount": 1465,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1465,
+                "baglam": "readme"
+              }
+            },
+            "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。. Cindy is an open-source AI agent, ready out of the box and yours to shape. Connect your computers and phone, bring the models and subscriptions you already use, and build a companion that knows how you like to work."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "summary": "Postiz, sosyal medya içeriklerini planlamaya yarayan ajan tabanlı (agentic) bir araçtır. TypeScript diliyle geliştirilen bu uygulama, içerik paylaşım süreçlerini otomatikleştirmeyi amaçlar.",
+          "meta": "TypeScript · ★ 39.568 · +951 bugün",
+          "snapshot": {
+            "sourceId": "gitroomhq/postiz-app",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 39568,
+              "engagementCount": 951,
+              "rank": 7,
+              "extra": {
+                "starsToday": 951,
+                "baglam": "readme"
+              }
+            },
+            "description": "📨 The ultimate agentic social media scheduling tool 🤖. To have the project up and running, please follow the Quick Start Guide"
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "affaan-m/ECC, yapay zekâ ajanlarının performansını optimize etmek amacıyla geliştirilmiş bir sistemdir. Claude Code, Codex, Opencode ve kod düzenleme aracı Cursor gibi platformlar için yetenek, bellek ve güvenlik katmanları sunarak araştırma odaklı bir geliştirme ortamı sağlar.",
+          "meta": "JavaScript · ★ 291.050 · +1.165 bugün",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 291050,
+              "engagementCount": 1165,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1165
+              }
+            },
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor, özel ders, problem çözme, sınav oluşturma ve görselleştirme gibi öğrenme süreçlerini tek bir sistemde birleştiren yapay zekâ tabanlı bir çalışma alanı. Öğrencilerin yaşam boyu öğrenme (lifelong learning) ihtiyaçlarını karşılamak üzere tasarlanan bu sistem, kişiselleştirilmiş bir eğitim deneyimi sunmayı amaçlıyor.",
+          "meta": "Python · ★ 46.388 · +1.598 bugün",
+          "snapshot": {
+            "sourceId": "HKUDS/DeepTutor",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 46388,
+              "engagementCount": 1598,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1598,
+                "baglam": "readme"
+              }
+            },
+            "description": "DeepTutor: Lifelong Personalized Tutoring. DeepTutor is an agent-native learning workspace that connects tutoring, problem solving, quiz generation, research, visualization, and mastery practice in one extensible system."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "summary": "JetBrains tarafından geliştirilen ThinkRail, kullanıcı çalışma alışkanlıklarını öğrenerek kendini kişiselleştiren ve zamanla kendi yeteneklerini inşa edebilen ajan tabanlı bir tümleşik geliştirme ortamı (IDE). Proje, canlı teknik özellikler (living specs) üzerinden yazılım projelerini analiz ederek geliştirici deneyimini iyileştirmeyi hedefliyor.",
+          "meta": "TypeScript · ★ 4.241 · +1.204 bugün",
+          "snapshot": {
+            "sourceId": "JetBrains/thinkrail",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4241,
+              "engagementCount": 1204,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1204,
+                "baglam": "readme"
+              }
+            },
+            "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need. ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "togg53192-cmd/jailbreaks",
+          "url": "https://github.com/togg53192-cmd/jailbreaks",
+          "summary": "togg53192-cmd/jailbreaks, sınır tanımayan (frontier), açık ağırlıklı (open-weight) ve ücretsiz gizli modeller için sistem komutları, kişilik kilitleri ve çalışma alanı politikalarından oluşan derlenmiş bir koleksiyon sunuyor. Bu depo, yapay zekâ modellerinin çalışma prensiplerini ve kısıtlamalarını değiştirmeye yönelik çeşitli yapılandırma dosyalarını içeriyor.",
+          "meta": "★ 5.849 · +902 bugün",
+          "snapshot": {
+            "sourceId": "togg53192-cmd/jailbreaks",
+            "capturedAt": "2026-10-28T05:14:56.326Z",
+            "metadata": {
+              "popularity": 5849,
+              "engagementCount": 902,
+              "rank": 11,
+              "extra": {
+                "starsToday": 902,
+                "baglam": "readme"
+              }
+            },
+            "description": "LIST OF ALL MY JAILBREAKS. A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models."
+          },
+          "streakDays": 2
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Ghostty 1.4",
+          "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+          "summary": "Ghostty 1.4, terminal emülatörü Ghostty için yayınlanan yeni bir sürüm güncellemesidir. Yazılımın performansını ve kullanıcı deneyimini iyileştiren çeşitli hata düzeltmeleri ile geliştirmeler içerir.",
+          "meta": "868 oy · 271 yorum",
+          "snapshot": {
+            "sourceId": "50261998",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 868,
+              "engagementCount": 271,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50261998",
+                  "popularity": 868,
+                  "engagementCount": 271
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-27T16:51:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50261998"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50261998",
+              "popularity": 868,
+              "engagementCount": 271
+            }
+          ]
+        },
+        {
+          "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+          "summary": "Amerika Birleşik Devletleri hükümetinin, vatandaşların gözetlenmesine ilişkin yöntemleri içeren gizli bir mahkeme kararını kamuoyundan sakladığı iddia ediliyor. Söz konusu durum, devletin izleme faaliyetlerinin yasal dayanakları ve şeffaflık ilkeleri konusunda tartışmalara yol açıyor.",
+          "meta": "860 oy · 309 yorum",
+          "snapshot": {
+            "sourceId": "50259604",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 860,
+              "engagementCount": 309,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50259604",
+                  "popularity": 860,
+                  "engagementCount": 309
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-27T14:06:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50259604"
+              }
+            }
+          },
+          "streakDays": 2,
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50259604",
+              "popularity": 860,
+              "engagementCount": 309
+            }
+          ]
+        },
+        {
+          "title": "Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "summary": "DeepMind tarafından geliştirilen Genie 4, dünya simülasyonu (world simulation) teknolojisinde yeni bir nesli temsil ediyor. Bu model, görsel verilerden etkileşimli ve dinamik ortamlar oluşturma kapasitesiyle dikkat çekiyor.",
+          "meta": "802 oy · 488 yorum",
+          "snapshot": {
+            "sourceId": "50261319",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 802,
+              "engagementCount": 488,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50261319",
+                  "popularity": 802,
+                  "engagementCount": 488
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-27T16:06:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50261319"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50261319",
+              "popularity": 802,
+              "engagementCount": 488
+            }
+          ]
+        },
+        {
+          "title": "Python's experimental JIT to be removed",
+          "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+          "summary": "Python programlama dilinde yer alan deneysel tam zamanında derleyici (just-in-time compiler) özelliğinin kaldırılması planlanıyor. Bu karar, söz konusu deneysel yapının geliştirme sürecindeki geleceği hakkında belirsizlikler oluşturuyor.",
+          "meta": "468 oy · 253 yorum",
+          "snapshot": {
+            "sourceId": "50257419",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 468,
+              "engagementCount": 253,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50257419",
+                  "popularity": 468,
+                  "engagementCount": 253
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-27T11:17:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50257419"
+              }
+            }
+          },
+          "streakDays": 2,
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50257419",
+              "popularity": 468,
+              "engagementCount": 253
+            }
+          ]
+        },
+        {
+          "title": "New iMac with M6",
+          "url": "https://www.apple.com/imac/",
+          "summary": "Apple, M6 çip ile donatılan yeni iMac modelini duyurdu. Masaüstü bilgisayar, yüksek performanslı işlemcisiyle günlük kullanım ve profesyonel iş akışları için güncellendi.",
+          "meta": "319 oy · 396 yorum",
+          "snapshot": {
+            "sourceId": "50258538",
+            "capturedAt": "2026-10-28T04:59:56.168Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 396,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50258538",
+                  "popularity": 319,
+                  "engagementCount": 396
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-27T13:02:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50258538"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50258538",
+              "popularity": 319,
+              "engagementCount": 396
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Hugging Face üzerinde paylaşılan DeepSeek-V4.1-Flash-1017, görsel ve metin tabanlı girdileri işleyebilen bir yapay zekâ modelidir. Önceki sürüme göre akıl yürütme, kod yazma ve görsel analiz gibi alanlarda performans artışı sunarken işlem süresini ve maliyeti düşürmeyi hedefler.",
+          "meta": "♥ 3.418 · 105.667 indirme",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-28T04:59:55.961Z",
+            "metadata": {
+              "popularity": 3418,
+              "engagementCount": 105667,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 957,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          },
+          "streakDays": 11
+        },
+        {
+          "title": "RecursiveSI/flint",
+          "url": "https://huggingface.co/RecursiveSI/flint",
+          "summary": "RecursiveSI tarafından geliştirilen Flint, kodlama odaklı yapay zekâ ajanları için tasarlanmış bir uzman karışımı (mixture-of-experts) dil modelidir. Toplam 39,8 milyar parametreye sahip olan model, kod tabanlarını inceleme, hata ayıklama, özellik geliştirme ve test yazma süreçlerinde görev alıyor.",
+          "meta": "♥ 986 · 10.574 indirme",
+          "snapshot": {
+            "sourceId": "RecursiveSI/flint",
+            "capturedAt": "2026-10-28T04:59:55.961Z",
+            "metadata": {
+              "popularity": 986,
+              "engagementCount": 10574,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 944,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "flint",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs, implement features, and write tests."
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "summary": "Nanbeige/Nanbeige4.3-33B, metin üretimi (text-generation) odaklı bir yapay zekâ modeli olarak sunuluyor. Geliştiriciler bu modeli, yüksek kapasiteli bir öğretmen ajan aracılığıyla daha küçük modellere gelişmiş ajan yetenekleri (agentic capabilities) aktarmayı hedefleyen bir çalışma olarak tanımlıyor.",
+          "meta": "♥ 680 · 4.785 indirme",
+          "snapshot": {
+            "sourceId": "Nanbeige/Nanbeige4.3-33B",
+            "capturedAt": "2026-10-28T04:59:55.961Z",
+            "metadata": {
+              "popularity": 680,
+              "engagementCount": 4785,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 672,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "llm",
+                  "nanbeige",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+                  "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teacher agent first, which will subsequently anchor the distillation of advanced agentic capabilities into smaller models."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "XHToken/Spark-X2.6-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "summary": "Hugging Face üzerinde yayımlanan Spark-X2.6-4B, metin üretme (text-generation) yeteneklerine sahip bir yapay zekâ modelidir. Önceki sürümüyle aynı mimariyi kullanan model, eğitim sonrası süreçteki iyileştirmeler sayesinde kodlama, akıl yürütme ve çok dilli işlemler gibi alanlarda daha yüksek performans sunarak cihaz üzerinde çalışan uygulamalar için geliştirilmiştir.",
+          "meta": "♥ 812 · 6.191 indirme",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.6-4B",
+            "capturedAt": "2026-10-28T04:59:55.961Z",
+            "metadata": {
+              "popularity": 812,
+              "engagementCount": 6191,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 601,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "zh",
+                  "base_model:XHToken/Spark-X2.6-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.6-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improved post-training. It delivers substantial improvements in coding, agent, long-context, multilingual, reasoning, etc. These advances enable more capable and practical on-device AI for developers and users tackling real-world tasks."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "Black Forest Labs tarafından geliştirilen flux-3-image-klein-comfy, görselden görsele (image-to-image) dönüşüm sağlayan bir yapay zekâ modelidir. Hugging Face platformunda paylaşılan bu model, ComfyUI gibi görsel oluşturma araçlarıyla uyumlu çalışacak şekilde tasarlanmıştır.",
+          "meta": "♥ 1.875 · 750.694 indirme",
+          "snapshot": {
+            "sourceId": "black-forest-labs/flux-3-image-klein-comfy",
+            "capturedAt": "2026-10-28T04:59:55.961Z",
+            "metadata": {
+              "popularity": 1875,
+              "engagementCount": 750694,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 417,
+                "pipelineTag": "image-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "image-generation",
+                  "image-editing",
+                  "flux",
+                  "flux-3",
+                  "black-forest-labs",
+                  "image-to-image",
+                  "en",
+                  "base_model:black-forest-labs/flux-3-image-klein",
+                  "base_model:finetune:black-forest-labs/flux-3-image-klein",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-image model"
+          },
+          "streakDays": 10
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation",
+          "url": "https://huggingface.co/papers/2610.34674",
+          "summary": "Hugging Face tarafından paylaşılan makale, ev içi robot navigasyonunda engellere göre güvenli hareket adaptasyonunu ölçen OSMA-Bench adlı bir değerlendirme sistemi sunuyor. Çalışma, robotların nesne türüne ve mesafesine göre hız ile mesafe ayarı yapma becerisini ölçmek için Anlamsal Duyarlılık Endeksi (Semantic Sensitivity Index) adlı yeni bir yöntem öneriyor.",
+          "meta": "0 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.34674",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34674",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/OSMA-Bench/OSMA-Bench",
+                "githubStars": 0
+              }
+            },
+            "description": "Safe household navigation requires robots to regulate clearance and speed according to what an obstacle is and how close it is, without unnecessary conservatism. Yet existing evaluations do not test whether semantic safety distinctions are reflected in continuous motion. To that end, we introduce OSMA-Bench, an Obstacle-Conditioned Safe Motion Adaptation Benchmark built on spatially matched scenario sets that differ only in obstacle type. We also propose the Semantic Sensitivity Index (SSI), whi"
+          }
+        },
+        {
+          "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+          "url": "https://huggingface.co/papers/2610.36077",
+          "summary": "Hugging Face üzerinde yayımlanan The Trinity, çok modlu yapay zekâ ajanları (multimodal agents) için yetenek odaklı özyinelemeli öz iyileştirme (recursive self-improvement) yöntemi sunuyor. Çalışma, heterojen ortamların oluşturulmasındaki maliyet ve manuel yineleme süreçlerindeki yavaşlık gibi ölçeklendirme engellerini aşmayı hedefliyor.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.36077",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.36077",
+                "publishedAt": "2026-10-26T00:00:00.000Z"
+              }
+            },
+            "description": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-"
+          }
+        },
+        {
+          "title": "PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds",
+          "url": "https://huggingface.co/papers/2610.34921",
+          "summary": "PhysEvolve, fiziksel akıl yürütme (physical reasoning) süreçlerinde görsel dil modellerinin (vision-language models) yaşadığı güvenilirlik sorunlarını gidermek için tasarlanmış bir yöntemdir. Modelin kendi eğitim verilerini oluşturmasını sağlayan öz-evrimsel (self-evolving) bir paradigma kullanarak fiziksel nedensellik konusundaki eksiklikleri gidermeyi amaçlar.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.34921",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34921",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/yelonhu/PhysEvolve"
+              }
+            },
+            "description": "Physical reasoning underpins how embodied systems understand and act in the physical world, yet vision-language models (VLMs) remain unreliable on questions about dynamics and physical causality. Progress is critically constrained by the scarcity of grounded counterfactual training data, as observational videos capture only the factual trajectory that occurred. The self-evolving paradigm offers a route beyond fixed datasets by enabling models to construct their own training problems. Extending t"
+          }
+        },
+        {
+          "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
+          "url": "https://huggingface.co/papers/2610.26185",
+          "summary": "MoveBench, büyük dil modellerinin (LLM) spor ve sağlık koçluğu alanındaki performansını değerlendirmek için geliştirilen rubrik tabanlı bir kıyaslama aracıdır. Genel amaçlı testlerin aksine egzersiz güvenliği, fizyolojik uygunluk ve kişiselleştirme gibi kritik alanlarda uzmanlaşmış bir ölçümleme sunar.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.26185",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.26185",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/Keep-Tech/MoveBench",
+                "githubStars": 17
+              }
+            },
+            "description": "Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general-purpose benchmarks (e.g., MMLU and HELM) primarily assess broad knowledge and reasoning capabilities, but fail to capture critical domain requirements such as exercise safety, physiological appropriateness, personalization, and actionable coaching quality. This gap is particularly concerning in fit"
+          }
+        },
+        {
+          "title": "MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model",
+          "url": "https://huggingface.co/papers/2610.37175",
+          "summary": "Hugging Face tarafından paylaşılan MLE-World, makine öğrenmesi deneylerinin sonuçlarını kod ve veri açıklamalarından yola çıkarak tahmin eden bir dünya modeli (world model). Qwen3.5-4B temel alınarak ince ayar (fine-tuning) yapılan bu sistem, modelleri eğitip çalıştırmaya gerek kalmadan hata kayıtları ve doğrulama puanlarını öngörerek yapay zekâ ajanlarının daha verimli çalışmasını sağlıyor.",
+          "meta": "1 beğeni · 0 yorum",
+          "snapshot": {
+            "sourceId": "2610.37175",
+            "capturedAt": "2026-10-28T04:59:55.990Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37175",
+                "publishedAt": "2026-10-27T00:00:00.000Z"
+              }
+            },
+            "description": "AI research agents can propose, execute, and improve programs that solve machine learning tasks. However, executing each candidate program requires training and evaluating ML models, limiting how many candidates an agent can explore at each step. We introduce MLE-World, a world model finetuned from Qwen3.5-4B that predicts a program's terminal output (error traces, training logs, and validation scores) from its code and data description without executing it, together with a confidence score esti"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "Metin, görsel veya ses gibi yeni içerikler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirme süreçlerini kolaylaştıran, belirli kurallar ve araçlar bütünü sunan bir yapı."
+    },
+    {
+      "term": "composable skills",
+      "explanation": "Farklı görevleri yerine getirmek için birbirine eklenebilen veya birleştirilebilen modüler yetenekler."
+    },
+    {
+      "term": "AI slop",
+      "explanation": "Yapay zekâ tarafından üretilen, düşük kaliteli, hatalı veya gereksiz içeriklerin genel adı."
+    },
+    {
+      "term": "agentic",
+      "explanation": "Kendi başına karar alabilen, hedeflere ulaşmak için bağımsız hareket edebilen sistemlere özgü nitelik."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Bireyin eğitim hayatı bittikten sonra da yeni bilgi ve beceriler edinmeye devam etmesi süreci."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Yazılımcıların kod yazmasını, düzenlemesini ve hataları ayıklamasını sağlayan kapsamlı geliştirme aracı."
+    },
+    {
+      "term": "living specs",
+      "explanation": "Yazılım projesi geliştikçe sürekli güncellenen ve projenin mevcut durumunu yansıtan teknik dokümanlar."
+    },
+    {
+      "term": "frontier",
+      "explanation": "Yapay zekâ alanında ulaşılan en ileri seviyeyi ve en güncel teknolojik sınırları temsil eden kavram."
+    },
+    {
+      "term": "open-weight",
+      "explanation": "Modelin eğitilmiş parametrelerinin herkesin erişimine ve kullanımına açık olduğu yapay zekâ modelleri."
+    },
+    {
+      "term": "world simulation",
+      "explanation": "DeepMind tarafından geliştirilen, fiziksel dünyayı veya sanal ortamları gerçekçi bir şekilde taklit edebilen teknoloji."
+    },
+    {
+      "term": "just-in-time compiler",
+      "explanation": "Kodun çalıştırıldığı sırada anlık olarak makine diline çevrilmesini sağlayarak programın hızlanmasına yardımcı olan mekanizma."
+    },
+    {
+      "term": "mixture-of-experts",
+      "explanation": "RecursiveSI tarafından geliştirilen, karmaşık görevleri daha küçük uzman bölümlere paylaştırarak çözen bir yapay zekâ mimarisi."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Nanbeige tarafından sunulan, verilen komutlara göre anlamlı metinler yazabilen yapay zekâ işlevi."
+    },
+    {
+      "term": "agentic capabilities",
+      "explanation": "Yapay zekâ modellerinin kendi başına plan yapma, araç kullanma ve görev tamamlama gibi gelişmiş yetenekleri."
+    },
+    {
+      "term": "image-to-image",
+      "explanation": "Black Forest Labs tarafından geliştirilen, bir görseli temel alarak onu farklı bir görsele dönüştüren yapay zekâ süreci."
+    }
+  ]
+}
