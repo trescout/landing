@@ -637,6 +637,14 @@ jobs:
       - name: İçerik manifesti doğrulaması (PR A guard)
         run: python3 scripts/check-content-manifest.py
 
+      # Yayına girecek keşiflerin GitHub kaynakları 404/private/disabled ise
+      # içerik commit'i durur. Arşivli ama bilinçli olarak tutulan kaynaklar
+      # yalnızca warning üretir; sayfalarındaki bakım notları korunur.
+      - name: GitHub kaynak bütünlüğü guard’ı
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/check-github-sources.py
+
       - name: Değişiklik varsa commit'le
         env:
           GEMINI_API_KEY: ${{ (github.event.inputs.yedek_anahtar == 'true' && secrets.GEMINI_API_KEY_YEDEK) || secrets.GEMINI_API_KEY }}
@@ -668,11 +676,13 @@ jobs:
                 && python3 scripts/check-headline-consistency.py \
                 && python3 scripts/check-brand-typography.py \
                 && python3 scripts/check-hreflang.py \
-                && python3 scripts/check-kaldirilan.py
+                && python3 scripts/check-kaldirilan.py \
+                && GITHUB_TOKEN="${GITHUB_TOKEN}" python3 scripts/check-github-sources.py
             }
             for deneme in 1 2 3 4 5; do
               # Every push, including the first attempt, must pass the removal guard.
               python3 scripts/check-kaldirilan.py || exit 1
+              GITHUB_TOKEN="${GITHUB_TOKEN}" python3 scripts/check-github-sources.py || exit 1
               if git push; then
                 echo "Yeni içerik eklendi ve push edildi (deneme $deneme)."
                 exit 0
