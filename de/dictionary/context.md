@@ -80,7 +80,6 @@ Der Parameter ctx context.Context in Go verhindert die unnötige Verschwendung v
 
 - [REA](https://trescout.com/de/discover/rea/)
 - [Servers](https://trescout.com/de/discover/servers/)
-- [OmniRoute](https://trescout.com/de/discover/omniroute/)
 - [Goose](https://trescout.com/de/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/de/discover/openclaude/)

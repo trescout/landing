@@ -8,26 +8,6 @@
       "sourceName": "github",
       "items": [
         {
-          "title": "YuJunZhiXue/dsh-purge",
-          "url": "https://github.com/YuJunZhiXue/dsh-purge",
-          "summary": "YuJunZhiXue/dsh-purge est un outil JavaScript qui vise à contourner les restrictions de sécurité (jailbreak) en utilisant des invites (prompts) personnalisables pour différents modèles d'intelligence artificielle. Le projet permet aux utilisateurs de définir leurs propres commandes pour différents modèles et de se concentrer par défaut sur les modèles locaux.",
-          "meta": "JavaScript · ★ 7 496 · +423 aujourd'hui",
-          "snapshot": {
-            "sourceId": "YuJunZhiXue/dsh-purge",
-            "capturedAt": "2026-10-19T09:53:58.563Z",
-            "metadata": {
-              "language": "JavaScript",
-              "popularity": 7496,
-              "engagementCount": 423,
-              "rank": 7,
-              "extra": {
-                "starsToday": 423
-              }
-            },
-            "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分"
-          }
-        },
-        {
           "title": "mlabonne/llm-course",
           "url": "https://github.com/mlabonne/llm-course",
           "summary": "mlabonne/llm-course est une ressource pédagogique complète contenant des feuilles de route et des notebooks Colab pour ceux qui souhaitent s'initier au domaine des grands modèles de langage (LLM). Ce projet propose un programme qui guide les personnes souhaitant apprendre les modèles d'intelligence artificielle, du niveau débutant au niveau avancé.",

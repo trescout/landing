@@ -43,7 +43,6 @@ Bilgisayarlar kelimeleri değil sayıları anladığı için metni matematiksel 
 - [Ponytail](https://trescout.com/discover/ponytail/)
 - [Caveman](https://trescout.com/discover/caveman/)
 - [Codegraph](https://trescout.com/discover/codegraph/)
-- [OmniRoute](https://trescout.com/discover/omniroute/)
 - [Open Code Review](https://trescout.com/discover/open-code-review/)
 - [Codebase Memory MCP](https://trescout.com/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/discover/airllm/)

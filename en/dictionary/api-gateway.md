@@ -36,7 +36,6 @@ Instead of opening each service individually to the outside world, managing it f
 
 ## Related tools
 
-- [OmniRoute](https://trescout.com/en/discover/omniroute/)
 - [Gitdiagram](https://trescout.com/en/discover/gitdiagram/)
 - [OpenWA](https://trescout.com/en/discover/openwa/)
 - [Grok2api](https://trescout.com/en/discover/grok2api/)

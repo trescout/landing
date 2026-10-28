@@ -42,7 +42,6 @@ Developers add additional security layers and filtering mechanisms that recogniz
 ## Related tools
 
 - [Ipatool](https://trescout.com/en/discover/ipatool/)
-- [Dsh Purge](https://trescout.com/en/discover/dsh-purge/)
 - [Dopamine](https://trescout.com/en/discover/dopamine/)
 - [AI-Infra-Guard](https://trescout.com/en/discover/ai-infra-guard/)
 

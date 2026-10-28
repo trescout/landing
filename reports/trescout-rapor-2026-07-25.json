@@ -90,12 +90,6 @@
           "meta": "Jupyter Notebook · ★ 45.115 · +328 bugün"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute, 290'dan fazla yapay zekâ sağlayıcısını ve 500'den fazla modeli tek bir uç noktada (endpoint) birleştiren ücretsiz bir yapay zekâ ağ geçididir (AI gateway). Otomatik yedekleme (auto-fallback) ve belirteç sıkıştırma (token compression) özellikleri sayesinde geliştirici araçlarıyla entegre çalışarak maliyet verimliliği sağlar.",
-          "meta": "TypeScript · ★ 29.158 · +1.841 bugün"
-        },
-        {
           "title": "OtterMind/Chat2DB",
           "url": "https://github.com/OtterMind/Chat2DB",
           "summary": "Chat2DB, yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisi (SQL client) olarak öne çıkıyor. Java ile geliştirilen bu platform, MySQL, PostgreSQL ve Oracle gibi çok sayıda veritabanı sistemini tek bir grafik kullanıcı arayüzü (GUI) üzerinden yönetme imkânı sağlıyor.",

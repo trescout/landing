@@ -42,7 +42,6 @@ Während Entwickler Modelle trainieren, fügen sie zusätzliche Sicherheitsebene
 ## Verwandte Werkzeuge
 
 - [Ipatool](https://trescout.com/de/discover/ipatool/)
-- [Dsh Purge](https://trescout.com/de/discover/dsh-purge/)
 - [Dopamine](https://trescout.com/de/discover/dopamine/)
 - [AI-Infra-Guard](https://trescout.com/de/discover/ai-infra-guard/)
 

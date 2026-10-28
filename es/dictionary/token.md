@@ -43,7 +43,6 @@ Dado que las computadoras entienden números, no palabras, necesitamos convertir
 - [Ponytail](https://trescout.com/es/discover/ponytail/)
 - [Caveman](https://trescout.com/es/discover/caveman/)
 - [Codegraph](https://trescout.com/es/discover/codegraph/)
-- [OmniRoute](https://trescout.com/es/discover/omniroute/)
 - [Open Code Review](https://trescout.com/es/discover/open-code-review/)
 - [Codebase Memory MCP](https://trescout.com/es/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/es/discover/airllm/)

@@ -69,7 +69,6 @@ En mémoire, sur disque ou en périphérie CDN. Le choix dépend de l'équilibre
 ## Outils liés
 
 - [Free for Dev](https://trescout.com/fr/discover/free-for-dev/)
-- [OmniRoute](https://trescout.com/fr/discover/omniroute/)
 - [Guava](https://trescout.com/fr/discover/guava/)
 - [Omlx](https://trescout.com/fr/discover/omlx/)
 

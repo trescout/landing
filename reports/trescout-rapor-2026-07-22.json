@@ -96,12 +96,6 @@
           "meta": "Python · ★ 12.307 · +23 bugün"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute, 268'den fazla sağlayıcıyı ve 500'ü aşkın modeli tek bir uç noktada (endpoint) birleştiren ücretsiz bir yapay zekâ ağ geçididir (AI gateway). Kota farkındalıklı otomatik yedekleme ve belirteç sıkıştırma (token compression) özellikleri sayesinde geliştiricilere maliyet tasarrufu ve kesintisiz kodlama deneyimi sunar.",
-          "meta": "TypeScript · ★ 23.958 · +2.034 bugün"
-        },
-        {
           "title": "agegr/pi-web",
           "url": "https://github.com/agegr/pi-web",
           "summary": "Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı arayüzü (web UI) sunuyor. TypeScript diliyle yazılan bu araç, kodlama süreçlerini görsel bir arayüz üzerinden yönetmeyi mümkün kılıyor.",

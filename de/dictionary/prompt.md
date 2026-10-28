@@ -71,7 +71,6 @@ Das hängt vom Dienst ab. Lesen Sie die Richtlinie, bevor Sie sensible Daten ein
 ## Verwandte Werkzeuge
 
 - [AI Engineering from Scratch](https://trescout.com/de/discover/ai-engineering-from-scratch/)
-- [OmniRoute](https://trescout.com/de/discover/omniroute/)
 - [Awesome Gpt Image 2](https://trescout.com/de/discover/awesome-gpt-image-2/)
 - [Flue](https://trescout.com/de/discover/flue/)
 - [Codex-X](https://trescout.com/de/discover/codex-x/)

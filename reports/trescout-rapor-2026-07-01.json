@@ -30,12 +30,6 @@
           "meta": "Swift · ★ 5.133 · +588 bugün"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute, 231'den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir ağ geçididir (gateway). Gelişmiş sıkıştırma teknikleriyle jeton (token) kullanımını azaltırken, akıllı yedekleme ve çok modlu arayüz desteğiyle geliştirici araçlarını optimize eder.",
-          "meta": "TypeScript · ★ 8.906 · +387 bugün"
-        },
-        {
           "title": "browser-use/video-use",
           "url": "https://github.com/browser-use/video-use",
           "summary": "Video-use kütüphanesi, kodlama ajanlarının (coding agents) video düzenleme süreçlerini otomatize etmesini sağlayan bir Python çerçevesidir. Bu araç, görsel içeriklerin programatik yöntemlerle işlenmesine ve düzenlenmesine olanak tanır.",

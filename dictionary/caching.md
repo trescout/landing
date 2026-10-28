@@ -69,7 +69,6 @@ Bellek, disk veya CDN ucunda. Hız ve kapasite dengesine göre seçilir.
 ## İlgili araçlar
 
 - [Free for Dev](https://trescout.com/discover/free-for-dev/)
-- [OmniRoute](https://trescout.com/discover/omniroute/)
 - [Guava](https://trescout.com/discover/guava/)
 - [Omlx](https://trescout.com/discover/omlx/)
 

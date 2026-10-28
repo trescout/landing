@@ -69,7 +69,6 @@ En memoria, disco o en el borde de la CDN. Se elige según el equilibrio entre v
 ## Herramientas relacionadas
 
 - [Free for Dev](https://trescout.com/es/discover/free-for-dev/)
-- [OmniRoute](https://trescout.com/es/discover/omniroute/)
 - [Guava](https://trescout.com/es/discover/guava/)
 - [Omlx](https://trescout.com/es/discover/omlx/)
 

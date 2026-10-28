@@ -39,10 +39,6 @@ Sí, en este caso el modelo siempre elige la palabra más segura y de mayor prob
 - [Prompt Engineering](https://trescout.com/es/dictionary/prompt-engineering/)
 - [Hallucination](https://trescout.com/es/dictionary/hallucination/)
 
-## Herramientas relacionadas
-
-- [OmniRoute](https://trescout.com/es/discover/omniroute/)
-
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/temperature/)
 
 ---

@@ -36,7 +36,6 @@ Her bir servisi tek tek dış dünyaya açmak yerine, tek bir noktadan yönetmek
 
 ## İlgili araçlar
 
-- [OmniRoute](https://trescout.com/discover/omniroute/)
 - [Gitdiagram](https://trescout.com/discover/gitdiagram/)
 - [OpenWA](https://trescout.com/discover/openwa/)
 - [Grok2api](https://trescout.com/discover/grok2api/)

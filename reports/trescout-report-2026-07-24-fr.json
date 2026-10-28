@@ -42,12 +42,6 @@
           "meta": "Assembly · ★ 71 188 · +592 aujourd'hui"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute est une passerelle d'IA open source qui rend plus de 290 fournisseurs et plus de 500 modèles accessibles via un seul point de terminaison. Il optimise les processus de développement d'applications en fournissant aux développeurs des fonctionnalités de sauvegarde automatique et de compression de jetons sensibles aux quotas.",
-          "meta": "TypeScript · ★ 27 625 · +1 929 aujourd'hui"
-        },
-        {
           "title": "ComposioHQ/awesome-claude-skills",
           "url": "https://github.com/ComposioHQ/awesome-claude-skills",
           "summary": "La liste de compétences géniales-claude compilée par ComposioHQ rassemble des packs de compétences (compétences), des outils et des ressources utilisés pour personnaliser les flux de travail Claude AI. Cette collection basée sur Python permet aux développeurs de créer facilement des intégrations fonctionnelles pour les agents IA.",

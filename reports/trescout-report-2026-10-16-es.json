@@ -246,26 +246,6 @@
             },
             "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
           }
-        },
-        {
-          "title": "LibreSpark/LibreTV",
-          "url": "https://github.com/LibreSpark/LibreTV",
-          "summary": "LibreSpark/LibreTV es un proyecto de software basado en TypeScript que le permite configurar un sitio de películas y series en un minuto mediante métodos como Docker. Ofrece una infraestructura que permite a los usuarios crear rápidamente sus propias plataformas de contenido.",
-          "meta": "TypeScript · ★ 18.500 · +978 hoy",
-          "snapshot": {
-            "sourceId": "LibreSpark/LibreTV",
-            "capturedAt": "2026-10-16T09:02:46.661Z",
-            "metadata": {
-              "language": "TypeScript",
-              "popularity": 18500,
-              "engagementCount": 978,
-              "rank": 13,
-              "extra": {
-                "starsToday": 978
-              }
-            },
-            "description": "一分钟搭建影视站，支持Docker等部署方式"
-          }
         }
       ]
     },

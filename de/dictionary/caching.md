@@ -69,7 +69,6 @@ Am Ende des Speichers, der Festplatte oder des CDN. Die Auswahl erfolgt nach dem
 ## Verwandte Werkzeuge
 
 - [Free for Dev](https://trescout.com/de/discover/free-for-dev/)
-- [OmniRoute](https://trescout.com/de/discover/omniroute/)
 - [Guava](https://trescout.com/de/discover/guava/)
 - [Omlx](https://trescout.com/de/discover/omlx/)
 

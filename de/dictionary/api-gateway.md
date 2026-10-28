@@ -36,7 +36,6 @@ Anstatt jeden Dienst einzeln für die Außenwelt zu öffnen, sorgt die Verwaltun
 
 ## Verwandte Werkzeuge
 
-- [OmniRoute](https://trescout.com/de/discover/omniroute/)
 - [Gitdiagram](https://trescout.com/de/discover/gitdiagram/)
 - [OpenWA](https://trescout.com/de/discover/openwa/)
 - [Grok2api](https://trescout.com/de/discover/grok2api/)

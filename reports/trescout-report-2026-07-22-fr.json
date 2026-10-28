@@ -96,12 +96,6 @@
           "meta": "Python · ★ 12 307 · +23 aujourd'hui"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute est une passerelle d'IA gratuite qui combine plus de 268 fournisseurs et plus de 500 modèles en un seul point de terminaison. Il offre aux développeurs des économies de coûts et une expérience de codage ininterrompue grâce à ses fonctionnalités de sauvegarde automatique et de compression de jetons tenant compte des quotas.",
-          "meta": "TypeScript · ★ 23 958 · +2 034 aujourd'hui"
-        },
-        {
           "title": "agegr/pi-web",
           "url": "https://github.com/agegr/pi-web",
           "summary": "Pi-web offre une interface utilisateur Web améliorée (interface utilisateur Web) pour l'agent de codage Pi. Cet outil, écrit en langage TypeScript, permet de gérer les processus de codage via une interface visuelle.",

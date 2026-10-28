@@ -36,7 +36,6 @@ En lugar de abrir cada servicio de forma individual al exterior, gestionarlo des
 
 ## Herramientas relacionadas
 
-- [OmniRoute](https://trescout.com/es/discover/omniroute/)
 - [Gitdiagram](https://trescout.com/es/discover/gitdiagram/)
 - [OpenWA](https://trescout.com/es/discover/openwa/)
 - [Grok2api](https://trescout.com/es/discover/grok2api/)

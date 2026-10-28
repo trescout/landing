@@ -71,7 +71,6 @@ Definido pela equipe. Mantido alto no caminho crítico e baixo nas partes perif�
 ## Ferramentas relacionadas
 
 - [Jcode](https://trescout.com/pt/discover/jcode/)
-- [Dsh Purge](https://trescout.com/pt/discover/dsh-purge/)
 - [Harness SDK](https://trescout.com/pt/discover/harness-sdk/)
 - [Harness · Ajan Ekip Fabrikası](https://trescout.com/pt/discover/harness/)
 - [Munder Difflin](https://trescout.com/pt/discover/munder-difflin/)

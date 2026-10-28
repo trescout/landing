@@ -40,7 +40,6 @@ Es a la vez una capa de software y de servidor en la que se ejecuta este softwar
 
 ## Herramientas relacionadas
 
-- [OmniRoute](https://trescout.com/es/discover/omniroute/)
 - [Nginx](https://trescout.com/es/discover/nginx/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/reverse-proxy/)

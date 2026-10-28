@@ -96,12 +96,6 @@
           "meta": "Python · ★ 12.307 · +23 heute"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute ist ein kostenloses KI-Gateway, das über 268 Anbieter und über 500 Modelle in einem einzigen Endpunkt vereint. Dank der kontingentbewussten automatischen Backup- und Token-Komprimierungsfunktionen bietet es Entwicklern Kosteneinsparungen und ein unterbrechungsfreies Codierungserlebnis.",
-          "meta": "TypeScript · ★ 23.958 · +2.034 heute"
-        },
-        {
           "title": "agegr/pi-web",
           "url": "https://github.com/agegr/pi-web",
           "summary": "Pi-web bietet eine verbesserte webbasierte Benutzeroberfläche (Web-UI) für den Pi-Coding-Agent. Dieses in der TypeScript-Sprache geschriebene Tool ermöglicht die Verwaltung von Codierungsprozessen über eine visuelle Schnittstelle.",

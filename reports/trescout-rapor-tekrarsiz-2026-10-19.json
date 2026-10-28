@@ -8,26 +8,6 @@
       "sourceName": "github",
       "items": [
         {
-          "title": "YuJunZhiXue/dsh-purge",
-          "url": "https://github.com/YuJunZhiXue/dsh-purge",
-          "summary": "YuJunZhiXue/dsh-purge, farklı yapay zekâ modelleri için özelleştirilebilir komut istemleri (prompts) kullanarak güvenlik kısıtlamalarını aşmayı (jailbreak) hedefleyen bir JavaScript aracıdır. Proje, kullanıcıların farklı modeller için kendi komutlarını tanımlamasına ve varsayılan olarak yerel modellere odaklanmasına olanak tanır.",
-          "meta": "JavaScript · ★ 7.496 · +423 bugün",
-          "snapshot": {
-            "sourceId": "YuJunZhiXue/dsh-purge",
-            "capturedAt": "2026-10-19T09:53:58.563Z",
-            "metadata": {
-              "language": "JavaScript",
-              "popularity": 7496,
-              "engagementCount": 423,
-              "rank": 7,
-              "extra": {
-                "starsToday": 423
-              }
-            },
-            "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分"
-          }
-        },
-        {
           "title": "mlabonne/llm-course",
           "url": "https://github.com/mlabonne/llm-course",
           "summary": "mlabonne/llm-course, büyük dil modelleri (LLM) alanına giriş yapmak isteyenler için yol haritaları ve Colab not defterleri içeren kapsamlı bir eğitim kaynağıdır. Bu proje, temelden ileri seviyeye kadar yapay zekâ modellerini öğrenmek isteyenlere rehberlik eden bir müfredat sunar.",

@@ -80,7 +80,6 @@ In Go, the ctx context.Context parameter prevents unnecessary consumption of ser
 
 - [REA](https://trescout.com/en/discover/rea/)
 - [Servers](https://trescout.com/en/discover/servers/)
-- [OmniRoute](https://trescout.com/en/discover/omniroute/)
 - [Goose](https://trescout.com/en/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/en/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/en/discover/openclaude/)

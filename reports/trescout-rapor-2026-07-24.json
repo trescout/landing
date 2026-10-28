@@ -42,12 +42,6 @@
           "meta": "Assembly · ★ 71.188 · +592 bugün"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute, 290'dan fazla sağlayıcı ve 500'ü aşkın modeli tek bir uç nokta (endpoint) üzerinden erişilebilir kılan açık kaynaklı bir yapay zekâ ağ geçididir (AI gateway). Geliştiricilere kota duyarlı otomatik yedekleme ve belirteç (token) sıkıştırma özellikleri sunarak uygulama geliştirme süreçlerini optimize eder.",
-          "meta": "TypeScript · ★ 27.625 · +1.929 bugün"
-        },
-        {
           "title": "ComposioHQ/awesome-claude-skills",
           "url": "https://github.com/ComposioHQ/awesome-claude-skills",
           "summary": "ComposioHQ tarafından derlenen awesome-claude-skills listesi, Claude yapay zekâ iş akışlarını özelleştirmek için kullanılan yetenek paketleri (skills), araçlar ve kaynakları bir araya getiriyor. Bu Python tabanlı koleksiyon, geliştiricilerin yapay zekâ ajanları için işlevsel entegrasyonlar oluşturmasını kolaylaştırıyor.",

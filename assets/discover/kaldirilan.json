@@ -12,6 +12,33 @@
       ],
       "tarih": "2026-10-12",
       "gerekce": "DMCA bildirimi · Web Sheriff, WeMod LLC adına (trescout.com/en/discover/wand-enhancer)"
+    },
+    {
+      "slug": "dsh-purge",
+      "repolar": [
+        "https://github.com/YuJunZhiXue/dsh-purge"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-10-28",
+      "gerekce": "Yayın kararı · ana amacı yapay zekâ güvenlik kısıtlarını/jailbreak korumalarını aşmak; TreScout keşif politikası kapsamında kaldırıldı."
+    },
+    {
+      "slug": "libretv",
+      "repolar": [
+        "https://github.com/LibreSpark/LibreTV"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-10-28",
+      "gerekce": "Yayın kararı · üçüncü taraf film/dizi ve IPTV kaynaklarını toplama/izletme sitelerini kolaylaştıran yüksek telif ve itibar riski nedeniyle kaldırıldı."
+    },
+    {
+      "slug": "omniroute",
+      "repolar": [
+        "https://github.com/danielfrg/omniroute"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-10-28",
+      "gerekce": "Kaynak doğrulama kararı · kayıtlı resmî depo 404 dönüyor; kaynak doğrulanana kadar stale/yanlış keşif kaydı olarak yayından alındı."
     }
   ]
 }

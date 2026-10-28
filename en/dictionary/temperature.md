@@ -39,10 +39,6 @@ Yes, in this case the model always chooses the safest and highest probability wo
 - [Prompt Engineering](https://trescout.com/en/dictionary/prompt-engineering/)
 - [Hallucination](https://trescout.com/en/dictionary/hallucination/)
 
-## Related tools
-
-- [OmniRoute](https://trescout.com/en/discover/omniroute/)
-
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/temperature/)
 
 ---

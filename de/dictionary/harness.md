@@ -71,7 +71,6 @@ Es wird vom Team festgelegt. Auf kritischen Pfaden wird es hoch, an den Rändern
 ## Verwandte Werkzeuge
 
 - [Jcode](https://trescout.com/de/discover/jcode/)
-- [Dsh Purge](https://trescout.com/de/discover/dsh-purge/)
 - [Harness SDK](https://trescout.com/de/discover/harness-sdk/)
 - [Harness · Ajan Ekip Fabrikası](https://trescout.com/de/discover/harness/)
 - [Munder Difflin](https://trescout.com/de/discover/munder-difflin/)

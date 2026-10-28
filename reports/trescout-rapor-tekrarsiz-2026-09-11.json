@@ -66,26 +66,6 @@
           }
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute, 350'den fazla yapay zekâ sağlayıcısını tek bir uç noktada birleştiren açık kaynaklı bir yapay zekâ ağ geçidi (AI gateway). Geliştirici araçları (Cursor, Claude Code gibi) ile entegre çalışarak token tasarrufu sağlayan sıkıştırma yöntemleri ve otomatik yedekleme desteği sunuyor.",
-          "meta": "TypeScript · ★ 64.501 · +626 bugün",
-          "snapshot": {
-            "sourceId": "diegosouzapw/OmniRoute",
-            "capturedAt": "2026-09-11T08:34:50.957Z",
-            "metadata": {
-              "language": "TypeScript",
-              "popularity": 64501,
-              "engagementCount": 626,
-              "rank": 11,
-              "extra": {
-                "starsToday": 626
-              }
-            }
-          },
-          "returning": true
-        },
-        {
           "title": "JustVugg/colibri",
           "url": "https://github.com/JustVugg/colibri",
           "summary": "Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerini düşük donanım gereksinimleriyle yerel bilgisayarlarda çalıştırmayı sağlayan C dili tabanlı bir motor. Uzman katmanlarını disk üzerinden akış yöntemiyle işleyerek, yüksek kapasiteli yapay zekâ modellerini kısıtlı donanımlarda çalıştırmayı mümkün kılıyor.",

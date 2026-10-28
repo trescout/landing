@@ -42,7 +42,6 @@ Geliştiriciler modelleri eğitirken zararlı istekleri tanıyan ek güvenlik ka
 ## İlgili araçlar
 
 - [Ipatool](https://trescout.com/discover/ipatool/)
-- [Dsh Purge](https://trescout.com/discover/dsh-purge/)
 - [Dopamine](https://trescout.com/discover/dopamine/)
 - [AI-Infra-Guard](https://trescout.com/discover/ai-infra-guard/)
 

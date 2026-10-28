@@ -67,7 +67,6 @@ On cached content yes, on encrypted and remote traffic it generally slows it dow
 
 ## Related tools
 
-- [OmniRoute](https://trescout.com/en/discover/omniroute/)
 - [Litellm](https://trescout.com/en/discover/litellm/)
 - [FlClash](https://trescout.com/en/discover/flclash/)
 - [Freellmapi](https://trescout.com/en/discover/freellmapi/)

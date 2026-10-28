@@ -39,10 +39,6 @@ Evet, bu durumda model her zaman en güvenli ve en yüksek olasılıklı kelimey
 - [Prompt Engineering](https://trescout.com/dictionary/prompt-engineering/)
 - [Hallucination](https://trescout.com/dictionary/hallucination/)
 
-## İlgili araçlar
-
-- [OmniRoute](https://trescout.com/discover/omniroute/)
-
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

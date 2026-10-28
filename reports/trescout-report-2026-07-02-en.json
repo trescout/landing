@@ -36,12 +36,6 @@
           "meta": "TypeScript · ★ 2,969 · +708 today"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute is a free AI gateway that allows developers to access multiple AI providers such as Claude, GPT, and Gemini through a single endpoint. The tool reduces costs with the token compression method and increases the efficiency of coding assistants by offering automatic backup and multi-modal interface support.",
-          "meta": "TypeScript · ★ 9,850 · +1,010 today"
-        },
-        {
           "title": "allenai/olmocr",
           "url": "https://github.com/allenai/olmocr",
           "summary": "Developed by AllenAI, olmocr is a toolkit that converts PDF documents into text formats suitable for large language models. This software facilitates data set preparation processes by providing linear processing of complex document structures.",

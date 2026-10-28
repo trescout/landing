@@ -71,7 +71,6 @@ Se determina en equipo. Se mantiene alto en la ruta crítica y bajo en los márg
 ## Herramientas relacionadas
 
 - [Jcode](https://trescout.com/es/discover/jcode/)
-- [Dsh Purge](https://trescout.com/es/discover/dsh-purge/)
 - [Harness SDK](https://trescout.com/es/discover/harness-sdk/)
 - [Harness · Ajan Ekip Fabrikası](https://trescout.com/es/discover/harness/)
 - [Munder Difflin](https://trescout.com/es/discover/munder-difflin/)

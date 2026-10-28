@@ -40,7 +40,6 @@ Evet ama işlem maliyetini ve yanıt süresini artırabilir.
 
 ## İlgili araçlar
 
-- [OmniRoute](https://trescout.com/discover/omniroute/)
 - [Context Mode](https://trescout.com/discover/context-mode/)
 - [Omlx](https://trescout.com/discover/omlx/)
 

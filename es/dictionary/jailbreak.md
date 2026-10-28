@@ -42,7 +42,6 @@ Los desarrolladores añaden capas de seguridad adicionales y mecanismos de filtr
 ## Herramientas relacionadas
 
 - [Ipatool](https://trescout.com/es/discover/ipatool/)
-- [Dsh Purge](https://trescout.com/es/discover/dsh-purge/)
 - [Dopamine](https://trescout.com/es/discover/dopamine/)
 - [AI-Infra-Guard](https://trescout.com/es/discover/ai-infra-guard/)
 

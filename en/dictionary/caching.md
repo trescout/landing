@@ -69,7 +69,6 @@ At the end of memory, disk or CDN. It is selected according to the balance of sp
 ## Related tools
 
 - [Free for Dev](https://trescout.com/en/discover/free-for-dev/)
-- [OmniRoute](https://trescout.com/en/discover/omniroute/)
 - [Guava](https://trescout.com/en/discover/guava/)
 - [Omlx](https://trescout.com/en/discover/omlx/)
 

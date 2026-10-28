@@ -43,7 +43,6 @@ Puisque les ordinateurs comprennent les nombres et non les mots, nous devons con
 - [Ponytail](https://trescout.com/fr/discover/ponytail/)
 - [Caveman](https://trescout.com/fr/discover/caveman/)
 - [Codegraph](https://trescout.com/fr/discover/codegraph/)
-- [OmniRoute](https://trescout.com/fr/discover/omniroute/)
 - [Open Code Review](https://trescout.com/fr/discover/open-code-review/)
 - [Codebase Memory MCP](https://trescout.com/fr/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/fr/discover/airllm/)

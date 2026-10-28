@@ -71,7 +71,6 @@ Depende del servicio. Se leen las políticas antes de escribir datos sensibles.
 ## Herramientas relacionadas
 
 - [AI Engineering from Scratch](https://trescout.com/es/discover/ai-engineering-from-scratch/)
-- [OmniRoute](https://trescout.com/es/discover/omniroute/)
 - [Awesome Gpt Image 2](https://trescout.com/es/discover/awesome-gpt-image-2/)
 - [Flue](https://trescout.com/es/discover/flue/)
 - [Codex-X](https://trescout.com/es/discover/codex-x/)

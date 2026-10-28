@@ -44,7 +44,6 @@ Cela peut être écrit, mais il faut tout coder à partir de zéro, ce qui prend
 
 - [Servers](https://trescout.com/fr/discover/servers/)
 - [Cline](https://trescout.com/fr/discover/cline/)
-- [OmniRoute](https://trescout.com/fr/discover/omniroute/)
 - [Sentry](https://trescout.com/fr/discover/sentry/)
 - [Freellmapi](https://trescout.com/fr/discover/freellmapi/)
 - [CUA](https://trescout.com/fr/discover/cua/)

@@ -71,7 +71,6 @@ Déterminé par l'équipe. Maintenu à un niveau élevé sur le chemin critique 
 ## Outils liés
 
 - [Jcode](https://trescout.com/fr/discover/jcode/)
-- [Dsh Purge](https://trescout.com/fr/discover/dsh-purge/)
 - [Harness SDK](https://trescout.com/fr/discover/harness-sdk/)
 - [Harness · Ajan Ekip Fabrikası](https://trescout.com/fr/discover/harness/)
 - [Munder Difflin](https://trescout.com/fr/discover/munder-difflin/)

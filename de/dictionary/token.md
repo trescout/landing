@@ -43,7 +43,6 @@ Da Computer Zahlen und keine Wörter verstehen, müssen wir den Text in ein math
 - [Ponytail](https://trescout.com/de/discover/ponytail/)
 - [Caveman](https://trescout.com/de/discover/caveman/)
 - [Codegraph](https://trescout.com/de/discover/codegraph/)
-- [OmniRoute](https://trescout.com/de/discover/omniroute/)
 - [Open Code Review](https://trescout.com/de/discover/open-code-review/)
 - [Codebase Memory MCP](https://trescout.com/de/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/de/discover/airllm/)

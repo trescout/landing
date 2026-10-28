@@ -68,7 +68,6 @@ Sí. Con reglas de firewall, el acceso está cerrado y las redes operan aisladas
 
 ## Herramientas relacionadas
 
-- [OmniRoute](https://trescout.com/es/discover/omniroute/)
 - [Litellm](https://trescout.com/es/discover/litellm/)
 - [Fanqiang](https://trescout.com/es/discover/fanqiang/)
 - [Gitdiagram](https://trescout.com/es/discover/gitdiagram/)

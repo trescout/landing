@@ -36,7 +36,6 @@ Au lieu d’ouvrir chaque service individuellement au monde extérieur, sa gesti
 
 ## Outils liés
 
-- [OmniRoute](https://trescout.com/fr/discover/omniroute/)
 - [Gitdiagram](https://trescout.com/fr/discover/gitdiagram/)
 - [OpenWA](https://trescout.com/fr/discover/openwa/)
 - [Grok2api](https://trescout.com/fr/discover/grok2api/)

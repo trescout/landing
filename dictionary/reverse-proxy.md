@@ -40,7 +40,6 @@ Hem bir yazılım hem de bu yazılımın çalıştığı bir sunucu katmanıdır
 
 ## İlgili araçlar
 
-- [OmniRoute](https://trescout.com/discover/omniroute/)
 - [Nginx](https://trescout.com/discover/nginx/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

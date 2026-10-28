@@ -66,26 +66,6 @@
           }
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute is an open-source AI gateway that consolidates over 350 AI providers into a single endpoint. It integrates with developer tools (such as Cursor and Claude Code) and offers compression methods for token savings and automatic fallback support.",
-          "meta": "TypeScript · ★ 64,501 · +626 today",
-          "returning": true,
-          "snapshot": {
-            "sourceId": "diegosouzapw/OmniRoute",
-            "capturedAt": "2026-09-11T08:34:50.957Z",
-            "metadata": {
-              "language": "TypeScript",
-              "popularity": 64501,
-              "engagementCount": 626,
-              "rank": 11,
-              "extra": {
-                "starsToday": 626
-              }
-            }
-          }
-        },
-        {
           "title": "JustVugg/colibri",
           "url": "https://github.com/JustVugg/colibri",
           "summary": "Colibri is a C-based engine that enables running large-scale Mixture of Experts (MoE) models on local computers with low hardware requirements. By processing expert layers via disk streaming, it makes it possible to run high-capacity AI models on limited hardware.",

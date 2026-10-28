@@ -40,7 +40,6 @@ Oui, mais cela peut augmenter les coûts de transaction et le temps de réponse.
 
 ## Outils liés
 
-- [OmniRoute](https://trescout.com/fr/discover/omniroute/)
 - [Context Mode](https://trescout.com/fr/discover/context-mode/)
 - [Omlx](https://trescout.com/fr/discover/omlx/)
 

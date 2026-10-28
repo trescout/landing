@@ -12,12 +12,6 @@
           "meta": "HTML · ★ 7.552 · +1.343 bugün"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute, 231'den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir ağ geçididir (gateway). Gelişmiş sıkıştırma teknikleriyle jeton (token) kullanımını azaltırken, akıllı yedekleme ve çok modlu arayüz desteğiyle geliştirici araçlarını optimize eder.",
-          "meta": "TypeScript · ★ 8.906 · +387 bugün"
-        },
-        {
           "title": "Mebus/cupp",
           "url": "https://github.com/Mebus/cupp",
           "summary": "Ortak Kullanıcı Parola Profilleyici (Common User Passwords Profiler), hedef odaklı parola listeleri oluşturmak için kullanılan bir Python aracıdır. Belirli kullanıcı verilerini analiz ederek özelleştirilmiş sözlük dosyaları (wordlists) hazırlar.",

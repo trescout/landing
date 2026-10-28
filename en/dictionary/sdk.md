@@ -44,7 +44,6 @@ It can be written, but you have to code everything from scratch, which takes too
 
 - [Servers](https://trescout.com/en/discover/servers/)
 - [Cline](https://trescout.com/en/discover/cline/)
-- [OmniRoute](https://trescout.com/en/discover/omniroute/)
 - [Sentry](https://trescout.com/en/discover/sentry/)
 - [Freellmapi](https://trescout.com/en/discover/freellmapi/)
 - [CUA](https://trescout.com/en/discover/cua/)

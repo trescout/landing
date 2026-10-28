@@ -67,7 +67,6 @@ No conteúdo em cache, sim, no tráfego criptografado e remoto geralmente fica l
 
 ## Ferramentas relacionadas
 
-- [OmniRoute](https://trescout.com/pt/discover/omniroute/)
 - [Litellm](https://trescout.com/pt/discover/litellm/)
 - [FlClash](https://trescout.com/pt/discover/flclash/)
 - [Freellmapi](https://trescout.com/pt/discover/freellmapi/)

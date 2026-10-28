@@ -44,7 +44,6 @@ Yazılır ama her şeyi sıfırdan kodlamanız gerekir, bu da çok uzun sürer.
 
 - [Servers](https://trescout.com/discover/servers/)
 - [Cline](https://trescout.com/discover/cline/)
-- [OmniRoute](https://trescout.com/discover/omniroute/)
 - [Sentry](https://trescout.com/discover/sentry/)
 - [Freellmapi](https://trescout.com/discover/freellmapi/)
 - [CUA](https://trescout.com/discover/cua/)

@@ -71,7 +71,6 @@ It is determined by the team. It is kept high on the critical path and low on th
 ## Related tools
 
 - [Jcode](https://trescout.com/en/discover/jcode/)
-- [Dsh Purge](https://trescout.com/en/discover/dsh-purge/)
 - [Harness SDK](https://trescout.com/en/discover/harness-sdk/)
 - [Harness · Ajan Ekip Fabrikası](https://trescout.com/en/discover/harness/)
 - [Munder Difflin](https://trescout.com/en/discover/munder-difflin/)

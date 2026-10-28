@@ -42,7 +42,6 @@ Geralmente é aceito quando usado para fins de pesquisa e testes de segurança, 
 ## Ferramentas relacionadas
 
 - [Ipatool](https://trescout.com/pt/discover/ipatool/)
-- [Dsh Purge](https://trescout.com/pt/discover/dsh-purge/)
 - [Dopamine](https://trescout.com/pt/discover/dopamine/)
 - [AI-Infra-Guard](https://trescout.com/pt/discover/ai-infra-guard/)
 

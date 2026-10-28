@@ -40,7 +40,6 @@ Es handelt sich sowohl um eine Software- als auch um eine Serverschicht, auf der
 
 ## Verwandte Werkzeuge
 
-- [OmniRoute](https://trescout.com/de/discover/omniroute/)
 - [Nginx](https://trescout.com/de/discover/nginx/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/reverse-proxy/)

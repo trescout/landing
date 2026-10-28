@@ -80,7 +80,6 @@ En Go, el parámetro ctx context.Context evita el consumo innecesario de recurso
 
 - [REA](https://trescout.com/es/discover/rea/)
 - [Servers](https://trescout.com/es/discover/servers/)
-- [OmniRoute](https://trescout.com/es/discover/omniroute/)
 - [Goose](https://trescout.com/es/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/es/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/es/discover/openclaude/)

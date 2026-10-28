@@ -42,12 +42,6 @@
           "meta": "Assembly · ★ 71.188 · +592 heute"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute ist ein Open-Source-KI-Gateway, das über 290 Anbieter und über 500 Modelle über einen einzigen Endpunkt zugänglich macht. Es optimiert Anwendungsentwicklungsprozesse, indem es Entwicklern kontingentabhängige automatische Backup- und Token-Komprimierungsfunktionen bietet.",
-          "meta": "TypeScript · ★ 27.625 · +1.929 heute"
-        },
-        {
           "title": "ComposioHQ/awesome-claude-skills",
           "url": "https://github.com/ComposioHQ/awesome-claude-skills",
           "summary": "Die von ComposioHQ zusammengestellte Liste „awesome-claude-skills“ fasst Skillpakete (Skills), Tools und Ressourcen zusammen, die zur Anpassung der Claude AI-Workflows verwendet werden. Diese Python-basierte Sammlung erleichtert Entwicklern die Erstellung funktionaler Integrationen für KI-Agenten.",

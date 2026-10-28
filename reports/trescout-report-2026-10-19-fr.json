@@ -128,26 +128,6 @@
           }
         },
         {
-          "title": "YuJunZhiXue/dsh-purge",
-          "url": "https://github.com/YuJunZhiXue/dsh-purge",
-          "summary": "YuJunZhiXue/dsh-purge est un outil JavaScript qui vise à contourner les restrictions de sécurité (jailbreak) en utilisant des invites (prompts) personnalisables pour différents modèles d'intelligence artificielle. Le projet permet aux utilisateurs de définir leurs propres commandes pour différents modèles et de se concentrer par défaut sur les modèles locaux.",
-          "meta": "JavaScript · ★ 7 496 · +423 aujourd'hui",
-          "snapshot": {
-            "sourceId": "YuJunZhiXue/dsh-purge",
-            "capturedAt": "2026-10-19T09:53:58.563Z",
-            "metadata": {
-              "language": "JavaScript",
-              "popularity": 7496,
-              "engagementCount": 423,
-              "rank": 7,
-              "extra": {
-                "starsToday": 423
-              }
-            },
-            "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分"
-          }
-        },
-        {
           "title": "stablyai/orca",
           "url": "https://github.com/stablyai/orca",
           "summary": "Orca, développé par Stablyai, est une plateforme qui vous permet de gérer différents agents de codage (coding agents) tels que Grok Bot et Claude Code dans une interface unique. Avec des options pour ordinateur de bureau, mobile et environnement d'exécution distant (remote runtime), il vous permet d'exécuter ces agents en utilisant vos propres abonnements.",

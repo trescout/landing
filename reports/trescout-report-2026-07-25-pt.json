@@ -90,12 +90,6 @@
           "meta": "Jupyter Notebook · ★ 45.115 · +328 hoje"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute é um gateway de IA gratuito que combina mais de 290 provedores de IA e mais de 500 modelos em um único endpoint. Ele fornece eficiência de custos integrando-se com ferramentas de desenvolvedor graças aos seus recursos de fallback automático e compactação de token.",
-          "meta": "TypeScript · ★ 29.158 · +1.841 hoje"
-        },
-        {
           "title": "OtterMind/Chat2DB",
           "url": "https://github.com/OtterMind/Chat2DB",
           "summary": "Chat2DB se destaca como uma ferramenta de gerenciamento de banco de dados e cliente SQL suportada por inteligência artificial. Esta plataforma, desenvolvida em Java, oferece a oportunidade de gerenciar vários sistemas de banco de dados como MySQL, PostgreSQL e Oracle através de uma única interface gráfica de usuário (GUI).",

@@ -36,12 +36,6 @@
           "meta": "TypeScript · ★ 2.969 · +708 bugün"
         },
         {
-          "title": "diegosouzapw/OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute",
-          "summary": "OmniRoute, geliştiricilerin Claude, GPT ve Gemini gibi çok sayıda yapay zekâ sağlayıcısına tek bir uç nokta (endpoint) üzerinden erişmesini sağlayan ücretsiz bir yapay zekâ ağ geçididir (AI gateway). Belirteç sıkıştırma (token compression) yöntemiyle maliyetleri düşüren araç, otomatik yedekleme ve çok modlu arayüz desteği sunarak kodlama yardımcılarının verimliliğini artırır.",
-          "meta": "TypeScript · ★ 9.850 · +1.010 bugün"
-        },
-        {
           "title": "allenai/olmocr",
           "url": "https://github.com/allenai/olmocr",
           "summary": "AllenAI tarafından geliştirilen olmocr, PDF belgelerini büyük dil modelleri (large language models) için uygun metin formatlarına dönüştüren bir araç takımıdır. Bu yazılım, karmaşık doküman yapılarının doğrusal bir biçimde işlenmesini sağlayarak veri seti hazırlama süreçlerini kolaylaştırır.",

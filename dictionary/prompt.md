@@ -71,7 +71,6 @@ Servise göre değişir. Hassas veri yazılmadan politika okunur.
 ## İlgili araçlar
 
 - [AI Engineering from Scratch](https://trescout.com/discover/ai-engineering-from-scratch/)
-- [OmniRoute](https://trescout.com/discover/omniroute/)
 - [Awesome Gpt Image 2](https://trescout.com/discover/awesome-gpt-image-2/)
 - [Flue](https://trescout.com/discover/flue/)
 - [Codex-X](https://trescout.com/discover/codex-x/)

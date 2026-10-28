@@ -43,7 +43,6 @@ Como os computadores entendem números e não palavras, precisamos converter o t
 - [Ponytail](https://trescout.com/pt/discover/ponytail/)
 - [Caveman](https://trescout.com/pt/discover/caveman/)
 - [Codegraph](https://trescout.com/pt/discover/codegraph/)
-- [OmniRoute](https://trescout.com/pt/discover/omniroute/)
 - [Open Code Review](https://trescout.com/pt/discover/open-code-review/)
 - [Codebase Memory MCP](https://trescout.com/pt/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/pt/discover/airllm/)
