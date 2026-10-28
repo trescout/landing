@@ -42,6 +42,7 @@ Modelin alakasız konulardan kaçınmasını ve tutarlı bir kişilik sergilemes
 
 - [System Prompts and Models of AI Tools](https://trescout.com/discover/system-prompts-and-models-of-ai-tools/)
 - [System Prompts Leaks](https://trescout.com/discover/system-prompts-leaks/)
+- [Jailbreaks](https://trescout.com/discover/jailbreaks/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

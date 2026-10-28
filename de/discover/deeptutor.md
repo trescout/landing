@@ -2,16 +2,16 @@
 
 DeepTutor ist ein auf lebenslangem Lernen basierendes privates Nachhilfesystem, das personalisierte Bildungsprozesse mithilfe von Schülerdaten bietet. Das Projekt zielt darauf ab, das Lernerlebnis mit künstlicher Intelligenz unterstützten individualisierten Nachhilfemethoden zu optimieren.
 
-- ★ 44.479
+- ★ 46.783
 - Python
 - GitHub Trending · 2026-07-16
 
 ## Aktualisierungen
 
+- **28. Oktober 2026:** Sterne 44,479 → 46,783, neueste Version v1.6.15 (18. Oktober 2026).
 - **27. Oktober 2026:** Sterne 41,717 → 44,479, neueste Version v1.6.15 (18. Oktober 2026).
 - **19. Oktober 2026:** Sterne 40,928 → 41,717, neueste Version v1.6.15 (18. Oktober 2026).
 - **8. Oktober 2026:** Sterne 40,808 → 40,928, neueste Version v1.6.14 (8. Oktober 2026).
-- **5. Oktober 2026:** Sterne 40,358 → 40,808, neueste Version v1.6.13 (4. Oktober 2026).
 
 ## Was es bringt
 

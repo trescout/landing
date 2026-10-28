@@ -2,7 +2,7 @@
 
 OpenCode es un agente de codificación de código abierto diseñado para automatizar los procesos de desarrollo de software. Desarrollada con el lenguaje TypeScript, esta herramienta ofrece capacidades de ejecución autónoma de tareas en proyectos de software.
 
-- ★ 219.984
+- ★ 222.516
 - TypeScript
 - GitHub Trending · 2026-06-28
 
@@ -10,10 +10,10 @@ OpenCode es un agente de codificación de código abierto diseñado para automat
 
 ## Actualizaciones
 
+- **28 de octubre de 2026:** Estrellas 219,984 → 222,516, última versión v1.19.5 (28 de octubre de 2026).
 - **22 de octubre de 2026:** Estrellas 214,176 → 219,984, última versión v1.19.4 (22 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 214,103 → 214,176, última versión v1.19.3 (16 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 212,636 → 214,103, última versión v1.19.2 (16 de octubre de 2026).
-- **11 de octubre de 2026:** Estrellas 212,128 → 212,636, última versión v1.19.0 (11 de octubre de 2026).
 
 ## Qué aporta
 

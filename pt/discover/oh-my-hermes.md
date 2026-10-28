@@ -2,16 +2,16 @@
 
 O oh-my-hermes, desenvolvido para o Hermes Agent, oferece pacotes de inteligência de codificação, sistema de memória de longo prazo e fluxo de trabalho orientado a modelos em um único plugin. Esta ferramenta, que otimiza os processos de desenvolvimento de software, proporciona aos desenvolvedores um ambiente de trabalho abrangente com sua estrutura baseada em Python.
 
-- ★ 3.980
+- ★ 4.388
 - Python
 - GitHub Trending · 2026-09-15
 
 ## Atualizações
 
+- **28 de outubro de 2026:** Estrelas 3,980 → 4,388, versão mais recente v4.0.3 (28 de outubro de 2026).
 - **25 de outubro de 2026:** Estrelas 3,545 → 3,980, versão mais recente v4.0.2 (25 de outubro de 2026).
 - **22 de outubro de 2026:** Estrelas 3,432 → 3,545, versão mais recente v4.0.1 (22 de outubro de 2026).
 - **19 de outubro de 2026:** Estrelas 3,258 → 3,432, versão mais recente v4.0.0 (19 de outubro de 2026).
-- **11 de outubro de 2026:** Estrelas 3,200 → 3,258, versão mais recente v3.0.2 (11 de outubro de 2026).
 
 ## O que você ganha
 

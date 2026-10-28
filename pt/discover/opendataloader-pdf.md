@@ -66,8 +66,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [PDF Parser](https://trescout.com/pt/dictionary/pdf-parser/)
 - [Parser](https://trescout.com/pt/dictionary/parser/)
-- [Markdown](https://trescout.com/pt/dictionary/markdown/)
 - [SDK](https://trescout.com/pt/dictionary/sdk/)
+- [Markdown](https://trescout.com/pt/dictionary/markdown/)
 - [RAG](https://trescout.com/pt/dictionary/rag/)
 - [PDF](https://trescout.com/pt/dictionary/pdf/)
 

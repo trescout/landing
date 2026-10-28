@@ -2,12 +2,13 @@
 
 Das von Google entwickelte gemini-cli ist ein Open-Source-Tool, das direkten Zugriff auf das KI-Modell Gemini über das Terminal ermöglicht. Die Software erlaubt es Benutzern, schnell und leichtgewichtige KI-Prompts in einer Befehlszeilenumgebung zu erstellen.
 
-- ★ 108.179
+- ★ 108.592
 - TypeScript
 - GitHub Trending · 2026-10-25
 
 ## Aktualisierungen
 
+- **28. Oktober 2026:** Sterne 108,179 → 108,592, neueste Version v0.66.0 (27. Oktober 2026).
 - **25. Oktober 2026:** Sterne 108,165 → 108,179, neueste Version v0.65.0 (20. Oktober 2026).
 
 ## Was es bringt

@@ -2,16 +2,16 @@
 
 Colibri is a C-based engine that enables running large-scale Mixture of Experts (MoE) models on local computers with low hardware requirements. By streaming expert layers from the disk, it makes it possible to run high-capacity AI models on limited hardware.
 
-- ★ 42,279
+- ★ 44,464
 - C
 - GitHub Trending · 2026-09-11
 
 ## Updates
 
+- **October 28, 2026:** Stars 42,279 → 44,464, latest release v2.0.0 (October 6, 2026).
 - **October 16, 2026:** Stars 40,157 → 42,279, latest release v2.0.0 (October 6, 2026).
 - **October 7, 2026:** Stars 39,698 → 40,157, latest release v2.0.0 (October 6, 2026).
 - **October 5, 2026:** Stars 37,791 → 39,698, latest release v1.12.1 (September 24, 2026).
-- **September 27, 2026:** Stars 36,260 → 37,791, latest release v1.12.1 (September 24, 2026).
 
 ## What you get
 

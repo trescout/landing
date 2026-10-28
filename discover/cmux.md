@@ -2,12 +2,13 @@
 
 Ghostty tabanlı bir macOS terminali olan cmux, dikey sekmeler ve yapay zekâ kodlama ajanları için bildirim desteği sunuyor. Çoklu görev yönetimi ve programlanabilirlik odaklı bu araç, geliştiricilerin çalışma ortamlarını düzenlemelerine yardımcı oluyor.
 
-- ★ 28.206
+- ★ 28.551
 - Swift
 - GitHub Trending · 2026-10-07
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 28.206 → 28.551, son sürüm v0.65.2.2 (27 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 28.146 → 28.206, son sürüm v0.65.2 (16 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 27.695 → 28.146, son sürüm v0.65.1 (12 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 27.683 → 27.695, son sürüm v0.65.0 (5 Ekim 2026).

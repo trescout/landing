@@ -66,8 +66,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [PDF Parser](https://trescout.com/fr/dictionary/pdf-parser/)
 - [Parser](https://trescout.com/fr/dictionary/parser/)
-- [Markdown](https://trescout.com/fr/dictionary/markdown/)
 - [SDK](https://trescout.com/fr/dictionary/sdk/)
+- [Markdown](https://trescout.com/fr/dictionary/markdown/)
 - [RAG](https://trescout.com/fr/dictionary/rag/)
 - [PDF](https://trescout.com/fr/dictionary/pdf/)
 

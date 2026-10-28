@@ -2,7 +2,7 @@
 
 Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur. Tam metin indeksleme, gelişmiş sorgu filtreleri ve isteğe bağlı anlamsal arama sunar.
 
-- ★ 5.740
+- ★ 6.162
 - Go
 - GitHub Trending · 2026-08-25
 
@@ -32,10 +32,10 @@ http://127.0.0.1:4433
 
 ## Güncelleme
 
+- **27 Ekim 2026:** Yıldız 5.740 → 6.162, son sürüm v0.21.0 (27 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 4.602 → 5.740, son sürüm v0.20.0 (24 Eylül 2026).
 - **18 Eylül 2026:** Yıldız 3.574 → 4.602, son sürüm v0.19.0 (3 Eylül 2026).
 - **4 Eylül 2026:** Yıldız 3.100 → 3.574, son sürüm v0.19.0 (3 Eylül 2026).
-- **27 Ağustos 2026:** Yıldız 2.620 → 3.100, son sürüm v0.18.0 (23 Ağustos 2026).
 
 ## Bu araç ne yapar?
 

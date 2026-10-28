@@ -75,8 +75,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [PDF Parser](https://trescout.com/dictionary/pdf-parser/)
 - [Parser](https://trescout.com/dictionary/parser/)
-- [Markdown](https://trescout.com/dictionary/markdown/)
 - [SDK](https://trescout.com/dictionary/sdk/)
+- [Markdown](https://trescout.com/dictionary/markdown/)
 - [RAG](https://trescout.com/dictionary/rag/)
 - [PDF](https://trescout.com/dictionary/pdf/)
 

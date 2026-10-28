@@ -2,16 +2,16 @@
 
 The artificial intelligence website cloner (AI website cloner), developed by JCodesMore, enables copying of existing websites with a single command using TypeScript-based coding agents. This tool uses AI-powered code generation to automate web design and development processes.
 
-- ★ 35,778
+- ★ 37,618
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Updates
 
+- **October 28, 2026:** Stars 35,778 → 37,618, latest release v0.6.1 (October 5, 2026).
 - **October 5, 2026:** Stars 35,345 → 35,778, latest release v0.6.1 (October 5, 2026).
 - **September 27, 2026:** Stars 34,582 → 35,345, latest release v0.5.1 (September 27, 2026).
 - **September 18, 2026:** Stars 33,227 → 34,582, latest release v0.5.0 (September 17, 2026).
-- **August 27, 2026:** Stars 31,512 → 33,227, latest release v0.4.0 (August 10, 2026).
 
 ## What you get
 

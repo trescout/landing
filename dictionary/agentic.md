@@ -44,10 +44,10 @@ Hayır, çoğu yapay zekâ sadece sizin komutunuzu bekleyen pasif sistemlerdir.
 - [MinerU](https://trescout.com/discover/mineru/)
 - [OpenMontage](https://trescout.com/discover/openmontage/)
 - [Claude Code Best Practice](https://trescout.com/discover/claude-code-best-practice/)
+- [Postiz App](https://trescout.com/discover/postiz-app/)
 - [Kilocode](https://trescout.com/discover/kilocode/)
 - [Pm Skills](https://trescout.com/discover/pm-skills/)
 - [Personal_AI_Infrastructure](https://trescout.com/discover/personal-ai-infrastructure/)
-- [Production Agentic RAG Course](https://trescout.com/discover/production-agentic-rag-course/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

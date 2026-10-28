@@ -2,17 +2,17 @@
 
 Este conjunto de complementos de código abierto de Anthropic reúne habilidades, conectores, comandos de barra diagonal y subagentes para cada función comercial. Esta solución, que permite a Claude actuar como un experto en su campo, incluye 11 complementos listos para usar diseñados para Claude Cowork.
 
-- ★ 31.879
+- ★ 33.516
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Actualizaciones
 
+- **28 de octubre de 2026:** Estrellas 31,879 → 33,516.
 - **23 de octubre de 2026:** Estrellas 30,064 → 31,879.
 - **18 de octubre de 2026:** Estrellas 28,563 → 30,064.
 - **10 de octubre de 2026:** Estrellas 26,989 → 28,563.
-- **7 de octubre de 2026:** Estrellas 25,686 → 26,989.
 
 ## Qué aporta
 

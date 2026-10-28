@@ -66,8 +66,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [PDF Parser](https://trescout.com/en/dictionary/pdf-parser/)
 - [Parser](https://trescout.com/en/dictionary/parser/)
-- [Markdown](https://trescout.com/en/dictionary/markdown/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
+- [Markdown](https://trescout.com/en/dictionary/markdown/)
 - [RAG](https://trescout.com/en/dictionary/rag/)
 - [PDF](https://trescout.com/en/dictionary/pdf/)
 

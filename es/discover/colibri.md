@@ -2,16 +2,16 @@
 
 Colibri es un motor basado en el lenguaje C que permite ejecutar modelos de mezcla de expertos (Mixture of Experts) a gran escala en computadoras locales con bajos requisitos de hardware. Al procesar capas de expertos mediante transmisión desde el disco, hace posible ejecutar modelos de IA de alta capacidad en hardware limitado.
 
-- ★ 42.279
+- ★ 44.464
 - C
 - GitHub Trending · 2026-09-11
 
 ## Actualizaciones
 
+- **28 de octubre de 2026:** Estrellas 42,279 → 44,464, última versión v2.0.0 (6 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 40,157 → 42,279, última versión v2.0.0 (6 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 39,698 → 40,157, última versión v2.0.0 (6 de octubre de 2026).
 - **5 de octubre de 2026:** Estrellas 37,791 → 39,698, última versión v1.12.1 (24 de septiembre de 2026).
-- **27 de septiembre de 2026:** Estrellas 36,260 → 37,791, última versión v1.12.1 (24 de septiembre de 2026).
 
 ## Qué aporta
 

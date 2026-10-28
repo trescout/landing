@@ -2,16 +2,16 @@
 
 Tencent tarafından geliştirilen teamai-cli, ekiplerin komut satırı arayüzü (CLI) üzerinden yapay zekâ araçlarıyla etkileşime girmesini sağlayan bir yazılım geliştirme aracıdır. Bu araç, iş akışlarına üretken yapay zekâ (generative AI) özelliklerini entegre ederek ekiplerin çalışma süreçlerini dijitalleştirmeyi hedefler.
 
-- ★ 5.674
+- ★ 5.690
 - TypeScript
 - GitHub Trending · 2026-09-10
 
 ## Güncelleme
 
+- **28 Ekim 2026:** Yıldız 5.674 → 5.690, son sürüm v0.28.1 (28 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 5.165 → 5.674, son sürüm v0.28.0 (26 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 5.060 → 5.165, son sürüm v0.27.0 (9 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 5.018 → 5.060, son sürüm v0.26.0 (29 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 4.470 → 5.018, son sürüm v0.25.0 (22 Eylül 2026).
 
 ## Ne kazandırır?
 

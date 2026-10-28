@@ -2,12 +2,13 @@
 
 Hyperresearch, internet üzerindeki verileri toplayan, analiz eden ve bunları kalıcı bir bilgi tabanına dönüştüren yapay zekâ ajanları (AI agents) tabanlı bir araştırma aracıdır. Python ile geliştirilen bu sistem, dağınık internet araştırmalarını düzenli ve aranabilir bir wiki yapısında birleştirir.
 
-- ★ 3.632
+- ★ 4.167
 - Python
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
 
+- **28 Ekim 2026:** Yıldız 3.632 → 4.167, son sürüm v0.13.0 (27 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 2.835 → 3.632, son sürüm v0.12.0 (24 Eylül 2026).
 - **12 Eylül 2026:** Yıldız 2.832 → 2.835, son sürüm v0.11.1 (11 Eylül 2026).
 

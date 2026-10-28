@@ -2,16 +2,16 @@
 
 Tailscale facilita o estabelecimento de conexões de rede seguras, combinando o protocolo WireGuard com autenticação de dois fatores. Desenvolvida com a linguagem Go, esta ferramenta proporciona comunicação criptografada entre dispositivos sem a necessidade de configurações complexas de rede.
 
-- ★ 37.855
+- ★ 38.204
 - Go
 - GitHub Trending · 2026-07-11
 
 ## Atualizações
 
+- **28 de outubro de 2026:** Estrelas 37,855 → 38,204, versão mais recente v1.104.4 (28 de outubro de 2026).
 - **21 de outubro de 2026:** Estrelas 37,270 → 37,855, versão mais recente v1.104.2 (21 de outubro de 2026).
 - **8 de outubro de 2026:** Estrelas 37,012 → 37,270, versão mais recente v1.104.1 (7 de outubro de 2026).
 - **29 de setembro de 2026:** Estrelas 36,353 → 37,012, versão mais recente v1.102.5 (29 de setembro de 2026).
-- **11 de setembro de 2026:** Estrelas 35,397 → 36,353, versão mais recente v1.102.4 (10 de setembro de 2026).
 
 ## O que você ganha
 

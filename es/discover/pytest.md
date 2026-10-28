@@ -2,12 +2,13 @@
 
 Pytest es un marco de pruebas que admite una amplia gama de pruebas en proyectos de Python, desde pruebas unitarias a pequeña escala hasta pruebas funcionales complejas. Se ha convertido en una herramienta estándar en los procesos de desarrollo de software gracias a su estructura que permite a los desarrolladores escribir pruebas más completas con menos código.
 
-- ★ 14.382
+- ★ 14.650
 - Python
 - GitHub Trending · 2026-06-15
 
 ## Actualizaciones
 
+- **28 de octubre de 2026:** Estrellas 14,382 → 14,650, última versión 9.2.0 (27 de octubre de 2026).
 - **2 de agosto de 2026:** Estrellas 14,015 → 14,382, última versión 9.1.1 (19 de junio de 2026).
 
 ## Qué aporta

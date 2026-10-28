@@ -2,11 +2,12 @@
 
 Awesome-design-md es una colección de documentos de diseño (DESIGN.md) de sistemas de diseño de marcas populares. Utilizando estos documentos, los agentes de software pueden crear interfaces de usuario (UI) adecuadas para proyectos.
 
-- ★ 118.177
+- ★ 124.131
 - GitHub Trending · 2026-07-10
 
 ## Actualizaciones
 
+- **28 de octubre de 2026:** Estrellas 118,177 → 124,131.
 - **27 de septiembre de 2026:** Estrellas 112,020 → 118,177.
 - **31 de agosto de 2026:** Estrellas 105,953 → 112,020.
 - **2 de agosto de 2026:** Estrellas 100,194 → 105,953.

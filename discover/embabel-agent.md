@@ -2,16 +2,16 @@
 
 Embabel, Java Sanal Makinesi (JVM) üzerinde çalışan yapay zekâ ajanları geliştirmek için tasarlanmış bir çerçeve (framework). Kotlin diliyle yazılan bu yapı, kurumsal yazılım ekosistemlerinde üretken yapay zekâ (generative AI) yeteneklerinin entegrasyonunu kolaylaştırıyor.
 
-- ★ 4.491
+- ★ 4.537
 - Kotlin
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
 
+- **28 Ekim 2026:** Yıldız 4.491 → 4.537, son sürüm v1.5.4 (28 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 4.450 → 4.491, son sürüm v1.5.3 (5 Ekim 2026).
 - **16 Eylül 2026:** Yıldız 4.394 → 4.450, son sürüm v1.5.2 (16 Eylül 2026).
 - **27 Ağustos 2026:** Yıldız 4.290 → 4.394, son sürüm v1.5.1 (24 Ağustos 2026).
-- **15 Ağustos 2026:** Yıldız 4.255 → 4.290, son sürüm v1.5.0 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 

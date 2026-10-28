@@ -2,16 +2,16 @@
 
 Gods-eye-view ist ein Spatial-Intelligence-Simulator, der Echtzeit-Satellitendaten auf einem browserbasierten 3D-Globus visualisiert. Dieses mit JavaScript entwickelte Open-Source-Projekt ermöglicht es Benutzern, Live-Daten aus der ganzen Welt über eine fotorealistische Schnittstelle zu untersuchen.
 
-- ★ 57.755
+- ★ 60.776
 - JavaScript
 - GitHub Trending · 2026-08-28
 
 ## Aktualisierungen
 
+- **28. Oktober 2026:** Sterne 57,755 → 60,776, neueste Version v0.3.0 (28. Oktober 2026).
 - **18. Oktober 2026:** Sterne 54,786 → 57,755, neueste Version v0.2.1 (3. Oktober 2026).
 - **13. Oktober 2026:** Sterne 51,792 → 54,786, neueste Version v0.2.1 (3. Oktober 2026).
 - **12. Oktober 2026:** Sterne 49,140 → 51,792, neueste Version v0.2.1 (3. Oktober 2026).
-- **8. Oktober 2026:** Sterne 46,762 → 49,140, neueste Version v0.2.1 (3. Oktober 2026).
 
 ## Was es bringt
 

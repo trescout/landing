@@ -9904,5 +9904,83 @@
     "kisa_pt": "É um método de aceleração do código do programa, traduzindo-o para a linguagem de máquina no momento exato da execução, e não com antecedência.",
     "kisa_es": "Es un método para acelerar el código del programa traduciéndolo al lenguaje de máquina en el momento exacto de su ejecución, en lugar de hacerlo con antelación.",
     "kisa_de": "Dies ist eine Methode zur Beschleunigung von Programmcode, bei der dieser nicht im Voraus, sondern erst im Moment der Ausführung in Maschinensprache übersetzt wird."
+  },
+  {
+    "slug": "two-bit",
+    "en": "Two-bit",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerinin bellek kullanımını devasa oranda düşürmek için her parametreyi sadece iki bit veriyle temsil eden aşırı sıkıştırma tekniğidir.",
+    "date": "2026-10-28",
+    "kisa_en": "An extreme compression technique that represents each parameter with only two bits of data to drastically reduce the memory usage of AI models.",
+    "kisa_fr": "Il s'agit d'une technique d'extrême compression qui représente chaque paramètre avec seulement deux bits de données afin de réduire drastiquement l'utilisation de la mémoire des modèles d'intelligence artificielle.",
+    "kisa_es": "Es una técnica de compresión extrema que representa cada parámetro con solo dos bits de datos para reducir drásticamente el uso de memoria de los modelos de inteligencia artificial.",
+    "kisa_pt": "É uma técnica de extrema compressão que representa cada parâmetro com apenas dois bits de dados para reduzir drasticamente o uso de memória dos modelos de inteligência artificial.",
+    "kisa_de": "Eine extreme Komprimierungstechnik, die jeden Parameter mit nur zwei Bit Daten darstellt, um den Speicherverbrauch von KI-Modellen drastisch zu reduzieren."
+  },
+  {
+    "slug": "composable-skills",
+    "en": "Composable Skills",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yapay zekâ ajanlarının karmaşık görevleri başarmak için modüler biçimde bir araya getirebildiği bağımsız yetenek parçalarıdır.",
+    "date": "2026-10-28",
+    "kisa_en": "Independent skill components that AI agents can bring together in a modular way to accomplish complex tasks.",
+    "kisa_fr": "Ce sont des briques de compétences indépendantes que les agents d'intelligence artificielle peuvent assembler de manière modulaire pour accomplir des tâches complexes.",
+    "kisa_es": "Son componentes independientes de habilidades que los agentes de inteligencia artificial pueden combinar de forma modular para realizar tareas complejas.",
+    "kisa_pt": "São partes independentes de habilidades que os agentes de inteligência artificial podem combinar de forma modular para realizar tarefas complexas.",
+    "kisa_de": "Unabhängige Bausteine von Fähigkeiten, die KI-Agenten modular zusammenfügen können, um komplexe Aufgaben zu bewältigen."
+  },
+  {
+    "slug": "frontier",
+    "en": "Frontier",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ teknolojilerinde mevcut en gelişmiş kapasiteyi, sınır noktayı ve henüz keşfedilen en üst düzey modelleri ifade eden kavramdır.",
+    "date": "2026-10-28",
+    "kisa_en": "A concept referring to the most advanced capacity available, the frontier, and the highest-level models yet discovered in AI technologies.",
+    "kisa_fr": "C'est un concept qui désigne la capacité la plus avancée actuellement disponible, l'état de l'art et les modèles les plus performants récemment découverts dans les technologies d'intelligence artificielle.",
+    "kisa_es": "Es un concepto que hace referencia a la capacidad más avanzada disponible, el estado del arte y los modelos de más alto nivel recientemente descubiertos en las tecnologías de inteligencia artificial.",
+    "kisa_pt": "É o conceito que se refere à capacidade mais avançada disponível, ao limite tecnológico e aos modelos de nível mais elevado recém-descobertos nas tecnologias de inteligência artificial.",
+    "kisa_de": "Ein Begriff, der die derzeit fortschrittlichste Kapazität, den aktuellen Stand der Technik und die leistungsfähigsten Modelle in den KI-Technologien beschreibt."
+  },
+  {
+    "slug": "world-simulation",
+    "en": "World Simulation",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Fiziksel veya sanal dünyaların kurallarını, nesne etkileşimlerini ve zaman içindeki değişimlerini yapay zekâ ile taklit eden simülasyon teknolojisidir.",
+    "date": "2026-10-28",
+    "kisa_en": "A simulation technology that uses AI to mimic the rules, object interactions, and changes over time of physical or virtual worlds.",
+    "kisa_fr": "Il s'agit d'une technologie de simulation qui imite, grâce à l'intelligence artificielle, les règles des mondes physiques ou virtuels, les interactions entre les objets et leurs évolutions dans le temps.",
+    "kisa_es": "Es una tecnología de simulación que imita mediante inteligencia artificial las reglas, las interacciones entre objetos y los cambios a lo largo del tiempo de mundos físicos o virtuales.",
+    "kisa_pt": "É a tecnologia de simulação que imita com inteligência artificial as regras dos mundos físicos ou virtuais, as interações entre objetos e suas mudanças ao longo do tempo.",
+    "kisa_de": "Eine Simulationstechnologie, die die Regeln, Objektinteraktionen und zeitlichen Veränderungen physischer oder virtueller Welten mithilfe von KI nachbildet."
+  },
+  {
+    "slug": "just-in-time-compiler",
+    "en": "Just-in-Time Compiler",
+    "full": "JIT Compiler",
+    "cat": "dev",
+    "kisa": "Yazılım kodunu program çalıştığı anda anlık olarak makine diline çevirip performansı artıran derleyici bileşenidir.",
+    "date": "2026-10-28",
+    "kisa_en": "A compiler component that boosts performance by translating software code into machine language on the fly as the program runs.",
+    "kisa_fr": "Il s'agit d'un composant de compilateur qui traduit instantanément le code logiciel en langage machine lors de l'exécution du programme, améliorant ainsi les performances.",
+    "kisa_es": "Es el componente del compilador que traduce el código de software a lenguaje máquina en tiempo real en el momento en que se ejecuta el programa, mejorando así el rendimiento.",
+    "kisa_pt": "É o componente do compilador que converte o código de software em linguagem de máquina instantaneamente no momento em que o programa é executado, aumentando o desempenho.",
+    "kisa_de": "Eine Compiler-Komponente, die Softwarecode während der Laufzeit des Programms direkt in Maschinensprache übersetzt und so die Leistung steigert."
+  },
+  {
+    "slug": "agentic-capabilities",
+    "en": "Agentic Capabilities",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ sistemlerinin insan müdahalesi olmadan otonom kararlar alma, plan yapma ve hedeflere ulaşma potansiyelidir.",
+    "date": "2026-10-28",
+    "kisa_en": "The potential of artificial intelligence systems to make autonomous decisions, plan, and achieve goals without human intervention.",
+    "kisa_fr": "C'est le potentiel des systèmes d'intelligence artificielle à prendre des décisions de manière autonome, à élaborer des plans et à atteindre des objectifs sans intervention humaine.",
+    "kisa_es": "Es el potencial de los sistemas de inteligencia artificial para tomar decisiones autónomas, realizar planificaciones y alcanzar objetivos sin intervención humana.",
+    "kisa_pt": "É o potencial dos sistemas de inteligência artificial para tomar decisões autônomas, fazer planos e alcançar objetivos sem intervenção humana.",
+    "kisa_de": "Das Potenzial von KI-Systemen, ohne menschliches Eingreifen autonome Entscheidungen zu treffen, Pläne zu erstellen und Ziele zu erreichen."
   }
 ]

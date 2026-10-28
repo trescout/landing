@@ -41,6 +41,7 @@ Local-first uygulamalar genellikle şifreli bir şekilde buluta yedekleme yapabi
 - [Agentsview](https://trescout.com/discover/agentsview/)
 - [Wigolo](https://trescout.com/discover/wigolo/)
 - [Open Science](https://trescout.com/discover/open-science/)
+- [Openbot](https://trescout.com/discover/openbot/)
 - [Starnet](https://trescout.com/discover/starnet/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

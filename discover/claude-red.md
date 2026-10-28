@@ -2,16 +2,16 @@
 
 Claude-Red, yapay zekâ modeli Claude'un yetenek sistemine entegre edilen saldırı odaklı güvenlik becerileri (offensive security skills) kütüphanesidir. SQL enjeksiyonu ve uç nokta koruma sistemlerini atlatma gibi konularda uzman seviyesinde metodolojiler sunarak güvenlik testlerini otomatize etmeyi amaçlar.
 
-- ★ 8.605
+- ★ 9.650
 - Python
 - GitHub Trending · 2026-09-13
 
 ## Güncelleme
 
+- **28 Ekim 2026:** Yıldız 8.605 → 9.650, son sürüm v0.3.0 (30 Ağustos 2026).
 - **24 Ekim 2026:** Yıldız 7.081 → 8.605, son sürüm v0.3.0 (30 Ağustos 2026).
 - **29 Eylül 2026:** Yıldız 6.081 → 7.081, son sürüm v0.3.0 (30 Ağustos 2026).
 - **18 Eylül 2026:** Yıldız 5.079 → 6.081, son sürüm v0.3.0 (30 Ağustos 2026).
-- **15 Eylül 2026:** Yıldız 3.791 → 5.079, son sürüm v0.3.0 (30 Ağustos 2026).
 
 ## Ne kazandırır?
 

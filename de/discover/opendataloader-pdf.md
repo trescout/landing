@@ -66,8 +66,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [PDF Parser](https://trescout.com/de/dictionary/pdf-parser/)
 - [Parser](https://trescout.com/de/dictionary/parser/)
-- [Markdown](https://trescout.com/de/dictionary/markdown/)
 - [SDK](https://trescout.com/de/dictionary/sdk/)
+- [Markdown](https://trescout.com/de/dictionary/markdown/)
 - [RAG](https://trescout.com/de/dictionary/rag/)
 - [PDF](https://trescout.com/de/dictionary/pdf/)
 

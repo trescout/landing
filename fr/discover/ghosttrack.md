@@ -2,15 +2,15 @@
 
 GhostTrack basé sur Python est un outil qui permet le suivi de localisation via des numéros de mobile. Ce logiciel open source a été développé pour détecter les données géographiques du numéro cible.
 
-- ★ 19 157
+- ★ 20 190
 - GitHub Trending · 2026-06-08
 
 ## Mises à jour
 
+- **28 octobre 2026:** Étoiles 19,157 → 20,190.
 - **17 octobre 2026:** Étoiles 18,151 → 19,157.
 - **11 octobre 2026:** Étoiles 17,093 → 18,151.
 - **5 octobre 2026:** Étoiles 16,035 → 17,093.
-- **1 octobre 2026:** Étoiles 14,877 → 16,035.
 
 ## Ce que ça vous apporte
 

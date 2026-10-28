@@ -2,16 +2,16 @@
 
 Hallmark ist eine Stildatei, die entwickelt wurde, um den Einfluss von Standardinhalten, die durch künstliche Intelligenz (KI-Slop) erzeugt werden, auf das Design zu reduzieren. Claude Code sorgt dafür, dass die in Tools wie Cursor und Codex verwendeten Schnittstellen eine einzigartige und menschliche Ästhetik erhalten.
 
-- ★ 37.357
+- ★ 39.590
 - CSS
 - GitHub Trending · 2026-07-13
 
 ## Aktualisierungen
 
+- **28. Oktober 2026:** Sterne 37,357 → 39,590.
 - **27. Oktober 2026:** Sterne 34,272 → 37,357.
 - **26. Oktober 2026:** Sterne 32,557 → 34,272.
 - **25. Oktober 2026:** Sterne 30,983 → 32,557.
-- **23. Oktober 2026:** Sterne 29,187 → 30,983.
 
 ## Was es bringt
 

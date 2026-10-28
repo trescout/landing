@@ -2,12 +2,13 @@
 
 Pytest, Python projelerinde küçük ölçekli birim testlerinden (unit testing) karmaşık işlevsel testlere kadar geniş bir yelpazeyi destekleyen bir test çerçevesidir (testing framework). Geliştiricilerin daha az kodla daha kapsamlı testler yazmasına olanak tanıyan yapısı sayesinde yazılım geliştirme süreçlerinde standart bir araç haline gelmiştir.
 
-- ★ 14.382
+- ★ 14.650
 - Python
 - GitHub Trending · 2026-06-15
 
 ## Güncelleme
 
+- **28 Ekim 2026:** Yıldız 14.382 → 14.650, son sürüm 9.2.0 (27 Ekim 2026).
 - **2 Ağustos 2026:** Yıldız 14.015 → 14.382, son sürüm 9.1.1 (19 Haziran 2026).
 
 ## Ne kazandırır?

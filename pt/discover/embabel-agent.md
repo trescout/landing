@@ -2,16 +2,16 @@
 
 Embabel é um framework projetado para desenvolver agentes de inteligência artificial rodando na Java Virtual Machine (JVM). Esta estrutura, escrita em Kotlin, facilita a integração de capacidades generativas de IA em ecossistemas de software empresarial.
 
-- ★ 4.491
+- ★ 4.537
 - Kotlin
 - GitHub Trending · 2026-08-13
 
 ## Atualizações
 
+- **28 de outubro de 2026:** Estrelas 4,491 → 4,537, versão mais recente v1.5.4 (28 de outubro de 2026).
 - **6 de outubro de 2026:** Estrelas 4,450 → 4,491, versão mais recente v1.5.3 (5 de outubro de 2026).
 - **16 de setembro de 2026:** Estrelas 4,394 → 4,450, versão mais recente v1.5.2 (16 de setembro de 2026).
 - **27 de agosto de 2026:** Estrelas 4,290 → 4,394, versão mais recente v1.5.1 (24 de agosto de 2026).
-- **15 de agosto de 2026:** Estrelas 4,255 → 4,290, versão mais recente v1.5.0 (11 de agosto de 2026).
 
 ## O que você ganha
 
