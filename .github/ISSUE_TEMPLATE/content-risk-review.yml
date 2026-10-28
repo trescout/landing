@@ -1,0 +1,93 @@
+name: İçerik risk incelemesi
+description: Yeni veya değişen bir keşif kaydının güvenlik, telif, gizlilik veya çift kullanım açısından insan incelemesi.
+title: "[Risk Review] "
+labels:
+  - content-risk-review
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bu kayıt otomatik kaldırma talebi değildir. Bulguyu kanıtlarıyla inceleyin ve karar kaydını güncelleyin.
+
+  - type: input
+    id: project
+    attributes:
+      label: Proje / keşif adı
+      description: Katalogdaki görünen ad ve slug.
+      placeholder: "Örn. proje-adi"
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Resmî kaynak URL’si
+      description: GitHub deposu veya doğrulanmış resmî proje kaynağı.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: İnceleme kategorisi
+      options:
+        - Security / exploit / PoC
+        - AI jailbreak / kısıt aşma
+        - Telif / içerik dağıtımı
+        - Gizlilik / OSINT / doxxing
+        - Gözetim / çift kullanım
+        - Kaynak veya bakım durumu
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Öncelik
+      options:
+        - Kritik
+        - Yüksek
+        - Orta
+        - Düşük
+        - Bilgi amaçlı
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Kanıt ve bulgu
+      description: İlgili README bölümü, URL, commit, lisans veya canlı sayfa kanıtını ekleyin.
+      placeholder: Kanıt bağlantıları ve kısa açıklama.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: decision
+    attributes:
+      label: Önerilen karar
+      options:
+        - keep
+        - keep-with-warning
+        - source-fix
+        - remove
+        - Karar için daha fazla araştırma gerekli
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Gerekçe ve sonraki adım
+      description: Önerilen editoryal uyarıyı, düzeltmeyi veya kaldırma gerekçesini yazın.
+    validations:
+      required: true
+
+  - type: input
+    id: reviewer
+    attributes:
+      label: İnceleyen kişi ve tarih
+      placeholder: "İsim · YYYY-AA-GG"
+    validations:
+      required: false
