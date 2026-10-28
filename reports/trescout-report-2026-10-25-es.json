@@ -175,26 +175,6 @@
           }
         },
         {
-          "title": "jbiaojerry/ebook-treasure-chest",
-          "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
-          "summary": "jbiaojerry/ebook-treasure-chest es un proyecto de biblioteca digital que reúne enlaces de descarga de libros electrónicos en varias categorías. El proyecto tiene como objetivo proporcionar acceso a contenidos dentro de aplicaciones de lectura populares (帆书, 微信读书, 京东读书, 喜马拉雅).",
-          "meta": "Python · ★ 22.774 · +227 hoy",
-          "snapshot": {
-            "sourceId": "jbiaojerry/ebook-treasure-chest",
-            "capturedAt": "2026-10-25T04:49:31.581Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 22774,
-              "engagementCount": 227,
-              "rank": 9,
-              "extra": {
-                "starsToday": 227
-              }
-            },
-            "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
-          }
-        },
-        {
           "title": "makecindy/cindy",
           "url": "https://github.com/makecindy/cindy",
           "summary": "Cindy es un agente de inteligencia artificial de código abierto (cuyo código fuente está abierto al acceso y desarrollo de todos) diseñado para completar trabajos reales en sus proyectos y aplicaciones, funcionando desde el primer momento. Combina múltiples modelos y herramientas en una sola estructura, permitiendo a los usuarios gestionar sus flujos de trabajo.",

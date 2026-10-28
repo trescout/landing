@@ -32,8 +32,11 @@ Pour commencer à l'utiliser directement, vous pouvez télécharger et installer
 - **Pour qui:** Il est conçu pour les utilisateurs qui souhaitent suivre les paroles avec un festin visuel tout en écoutant de la musique.
 - **Licence:** AGPL-3.0
 
-## Liens
+## Note éditoriale
 
+Copyright note: Use online music, lyrics, and album artwork only from authorized sources. Compliance with local copyright law and provider terms is the user’s responsibility.
+
+## Liens
 - [Dépôt GitHub →](https://github.com/chthollyphile/folia-major)
 - [Lire en turc →](https://trescout.com/discover/folia-major/)
 

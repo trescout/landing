@@ -77,8 +77,11 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Banda de Frequência:** 10,5 GHz (Banda X) FMCW
 - **Alcance do Alvo:** 3 km (Drone/Tático) - 20 km (Vigilância de área ampla)
 
-## Links
+## Nota editorial
 
+Safety and regulatory note: This 10.5 GHz RF radar is dual-use and supports drone/target tracking and area surveillance. Use only in authorized labs, following local spectrum/EMC rules and safe RF practices. TreScout does not guarantee field performance or legal compliance.
+
+## Links
 - [Repositório no GitHub →](https://github.com/NawfalMotii79/PLFM_RADAR)
 - [Ler em turco →](https://trescout.com/discover/plfm-radar/)
 

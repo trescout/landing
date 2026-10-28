@@ -54,8 +54,11 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 **Licença:** GPL-3.0 · uso gratuito; Se você modificar e distribuir o software, deverá compartilhar suas alterações com o código-fonte sob a mesma licença GPL (copyleft).
 
-## Links
+## Nota editorial
 
+Privacy note: Proxy subscriptions and exit servers may observe or alter traffic. Use only trusted sources and follow applicable law and service terms.
+
+## Links
 - [Repositório no GitHub →](https://github.com/chen08209/FlClash)
 - [Ler em turco →](https://trescout.com/discover/flclash/)
 

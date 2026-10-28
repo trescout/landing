@@ -53,8 +53,11 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - **Para quién es:** Es para entusiastas e investigadores que desean monitorear datos en vivo de todo el mundo a través de una interfaz 3D fotorrealista.
 
-## Enlaces
+## Nota editorial
 
+Privacy and licensing note: This app visualizes public data; do not use it to track or profile individuals. Protect API keys when exposing it on a LAN, check billing/quota risks, and follow each data provider’s license and attribution terms.
+
+## Enlaces
 - [Repositorio en GitHub →](https://github.com/bilawalsidhu/gods-eye-view)
 - [Leer en turco →](https://trescout.com/discover/gods-eye-view/)
 

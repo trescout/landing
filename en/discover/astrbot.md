@@ -60,8 +60,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Who it is for:** It is suitable for individuals and teams who want to develop a customizable AI assistant or agent-based system on top of their own messaging applications.
 - **License:** AGPL-3.0
 
-## Links
+## Editorial note
 
+Security and privacy note: Protect messaging accounts, API keys, and chat data. Do not install untrusted plugins; isolate agent code/shell execution and configure least privilege.
+
+## Links
 - [GitHub repository →](https://github.com/AstrBotDevs/AstrBot)
 - [Read in Turkish →](https://trescout.com/discover/astrbot/)
 

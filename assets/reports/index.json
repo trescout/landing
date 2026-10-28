@@ -611,64 +611,52 @@
    "daily": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-2026-10-19.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-2026-10-19.pdf",
      "page": "https://trescout.com/reports/2026-10-19/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-2026-10-19-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-10-19-en.pdf",
      "page": "https://trescout.com/en/reports/2026-10-19/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-2026-10-19-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-10-19-fr.pdf",
      "page": "https://trescout.com/fr/reports/2026-10-19/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-2026-10-19-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-10-19-pt.pdf",
      "page": "https://trescout.com/pt/reports/2026-10-19/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-2026-10-19-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-10-19-es.pdf",
      "page": "https://trescout.com/es/reports/2026-10-19/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-2026-10-19-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-10-19-de.pdf",
      "page": "https://trescout.com/de/reports/2026-10-19/"
     }
    },
    "noRepeat": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-tekrarsiz-2026-10-19.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-tekrarsiz-2026-10-19.pdf",
      "page": "https://trescout.com/reports/tekrarsiz/2026-10-19/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-10-19-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-10-19-en.pdf",
      "page": "https://trescout.com/en/reports/fresh/2026-10-19/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-10-19-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-10-19-fr.pdf",
      "page": "https://trescout.com/fr/reports/fresh/2026-10-19/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-10-19-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-10-19-pt.pdf",
      "page": "https://trescout.com/pt/reports/fresh/2026-10-19/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-10-19-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-10-19-es.pdf",
      "page": "https://trescout.com/es/reports/fresh/2026-10-19/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-10-19-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-10-19-de.pdf",
      "page": "https://trescout.com/de/reports/fresh/2026-10-19/"
     }
    }
@@ -812,64 +800,52 @@
    "daily": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-2026-10-16.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-2026-10-16.pdf",
      "page": "https://trescout.com/reports/2026-10-16/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-2026-10-16-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-10-16-en.pdf",
      "page": "https://trescout.com/en/reports/2026-10-16/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-2026-10-16-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-10-16-fr.pdf",
      "page": "https://trescout.com/fr/reports/2026-10-16/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-2026-10-16-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-10-16-pt.pdf",
      "page": "https://trescout.com/pt/reports/2026-10-16/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-2026-10-16-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-10-16-es.pdf",
      "page": "https://trescout.com/es/reports/2026-10-16/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-2026-10-16-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-10-16-de.pdf",
      "page": "https://trescout.com/de/reports/2026-10-16/"
     }
    },
    "noRepeat": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-tekrarsiz-2026-10-16.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-tekrarsiz-2026-10-16.pdf",
      "page": "https://trescout.com/reports/tekrarsiz/2026-10-16/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-10-16-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-10-16-en.pdf",
      "page": "https://trescout.com/en/reports/fresh/2026-10-16/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-10-16-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-10-16-fr.pdf",
      "page": "https://trescout.com/fr/reports/fresh/2026-10-16/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-10-16-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-10-16-pt.pdf",
      "page": "https://trescout.com/pt/reports/fresh/2026-10-16/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-10-16-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-10-16-es.pdf",
      "page": "https://trescout.com/es/reports/fresh/2026-10-16/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-10-16-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-10-16-de.pdf",
      "page": "https://trescout.com/de/reports/fresh/2026-10-16/"
     }
    }
@@ -3090,64 +3066,52 @@
    "daily": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-2026-09-11.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-2026-09-11.pdf",
      "page": "https://trescout.com/reports/2026-09-11/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-2026-09-11-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-09-11-en.pdf",
      "page": "https://trescout.com/en/reports/2026-09-11/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-2026-09-11-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-09-11-fr.pdf",
      "page": "https://trescout.com/fr/reports/2026-09-11/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-2026-09-11-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-09-11-pt.pdf",
      "page": "https://trescout.com/pt/reports/2026-09-11/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-2026-09-11-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-09-11-es.pdf",
      "page": "https://trescout.com/es/reports/2026-09-11/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-2026-09-11-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-09-11-de.pdf",
      "page": "https://trescout.com/de/reports/2026-09-11/"
     }
    },
    "noRepeat": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-tekrarsiz-2026-09-11.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-tekrarsiz-2026-09-11.pdf",
      "page": "https://trescout.com/reports/tekrarsiz/2026-09-11/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-09-11-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-09-11-en.pdf",
      "page": "https://trescout.com/en/reports/fresh/2026-09-11/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-09-11-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-09-11-fr.pdf",
      "page": "https://trescout.com/fr/reports/fresh/2026-09-11/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-09-11-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-09-11-pt.pdf",
      "page": "https://trescout.com/pt/reports/fresh/2026-09-11/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-09-11-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-09-11-es.pdf",
      "page": "https://trescout.com/es/reports/fresh/2026-09-11/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-09-11-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-09-11-de.pdf",
      "page": "https://trescout.com/de/reports/fresh/2026-09-11/"
     }
    }
@@ -6172,32 +6136,26 @@
    "daily": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-2026-07-25.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-2026-07-25.pdf",
      "page": "https://trescout.com/reports/2026-07-25/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-25-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-25-en.pdf",
      "page": "https://trescout.com/en/reports/2026-07-25/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-25-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-25-fr.pdf",
      "page": "https://trescout.com/fr/reports/2026-07-25/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-25-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-25-pt.pdf",
      "page": "https://trescout.com/pt/reports/2026-07-25/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-25-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-25-es.pdf",
      "page": "https://trescout.com/es/reports/2026-07-25/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-25-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-25-de.pdf",
      "page": "https://trescout.com/de/reports/2026-07-25/"
     }
    },
@@ -6239,32 +6197,26 @@
    "daily": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-2026-07-24.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-2026-07-24.pdf",
      "page": "https://trescout.com/reports/2026-07-24/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-24-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-24-en.pdf",
      "page": "https://trescout.com/en/reports/2026-07-24/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-24-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-24-fr.pdf",
      "page": "https://trescout.com/fr/reports/2026-07-24/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-24-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-24-pt.pdf",
      "page": "https://trescout.com/pt/reports/2026-07-24/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-24-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-24-es.pdf",
      "page": "https://trescout.com/es/reports/2026-07-24/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-24-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-24-de.pdf",
      "page": "https://trescout.com/de/reports/2026-07-24/"
     }
    },
@@ -6306,32 +6258,26 @@
    "daily": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-2026-07-23.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-2026-07-23.pdf",
      "page": "https://trescout.com/reports/2026-07-23/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-23-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-23-en.pdf",
      "page": "https://trescout.com/en/reports/2026-07-23/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-23-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-23-fr.pdf",
      "page": "https://trescout.com/fr/reports/2026-07-23/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-23-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-23-pt.pdf",
      "page": "https://trescout.com/pt/reports/2026-07-23/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-23-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-23-es.pdf",
      "page": "https://trescout.com/es/reports/2026-07-23/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-23-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-23-de.pdf",
      "page": "https://trescout.com/de/reports/2026-07-23/"
     }
    },
@@ -6373,32 +6319,26 @@
    "daily": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-2026-07-22.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-2026-07-22.pdf",
      "page": "https://trescout.com/reports/2026-07-22/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-22-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-22-en.pdf",
      "page": "https://trescout.com/en/reports/2026-07-22/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-22-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-22-fr.pdf",
      "page": "https://trescout.com/fr/reports/2026-07-22/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-22-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-22-pt.pdf",
      "page": "https://trescout.com/pt/reports/2026-07-22/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-22-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-22-es.pdf",
      "page": "https://trescout.com/es/reports/2026-07-22/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-22-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-22-de.pdf",
      "page": "https://trescout.com/de/reports/2026-07-22/"
     }
    },
@@ -6440,32 +6380,26 @@
    "daily": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-2026-07-21.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-2026-07-21.pdf",
      "page": "https://trescout.com/reports/2026-07-21/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-21-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-21-en.pdf",
      "page": "https://trescout.com/en/reports/2026-07-21/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-21-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-21-fr.pdf",
      "page": "https://trescout.com/fr/reports/2026-07-21/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-21-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-21-pt.pdf",
      "page": "https://trescout.com/pt/reports/2026-07-21/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-21-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-21-es.pdf",
      "page": "https://trescout.com/es/reports/2026-07-21/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-21-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-21-de.pdf",
      "page": "https://trescout.com/de/reports/2026-07-21/"
     }
    },
@@ -7713,32 +7647,26 @@
    "daily": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-2026-07-02.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-2026-07-02.pdf",
      "page": "https://trescout.com/reports/2026-07-02/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-02-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-02-en.pdf",
      "page": "https://trescout.com/en/reports/2026-07-02/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-02-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-02-fr.pdf",
      "page": "https://trescout.com/fr/reports/2026-07-02/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-02-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-02-pt.pdf",
      "page": "https://trescout.com/pt/reports/2026-07-02/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-02-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-02-es.pdf",
      "page": "https://trescout.com/es/reports/2026-07-02/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-02-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-02-de.pdf",
      "page": "https://trescout.com/de/reports/2026-07-02/"
     }
    },
@@ -7780,64 +7708,52 @@
    "daily": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-2026-07-01.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-2026-07-01.pdf",
      "page": "https://trescout.com/reports/2026-07-01/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-01-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-01-en.pdf",
      "page": "https://trescout.com/en/reports/2026-07-01/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-01-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-01-fr.pdf",
      "page": "https://trescout.com/fr/reports/2026-07-01/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-01-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-01-pt.pdf",
      "page": "https://trescout.com/pt/reports/2026-07-01/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-01-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-01-es.pdf",
      "page": "https://trescout.com/es/reports/2026-07-01/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-2026-07-01-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-2026-07-01-de.pdf",
      "page": "https://trescout.com/de/reports/2026-07-01/"
     }
    },
    "noRepeat": {
     "tr": {
      "json": "https://trescout.com/reports/trescout-rapor-tekrarsiz-2026-07-01.json",
-     "pdf": "https://trescout.com/reports/trescout-rapor-tekrarsiz-2026-07-01.pdf",
      "page": "https://trescout.com/reports/tekrarsiz/2026-07-01/"
     },
     "en": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-07-01-en.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-07-01-en.pdf",
      "page": "https://trescout.com/en/reports/fresh/2026-07-01/"
     },
     "fr": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-07-01-fr.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-07-01-fr.pdf",
      "page": "https://trescout.com/fr/reports/fresh/2026-07-01/"
     },
     "pt": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-07-01-pt.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-07-01-pt.pdf",
      "page": "https://trescout.com/pt/reports/fresh/2026-07-01/"
     },
     "es": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-07-01-es.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-07-01-es.pdf",
      "page": "https://trescout.com/es/reports/fresh/2026-07-01/"
     },
     "de": {
      "json": "https://trescout.com/reports/trescout-report-fresh-2026-07-01-de.json",
-     "pdf": "https://trescout.com/reports/trescout-report-fresh-2026-07-01-de.pdf",
      "page": "https://trescout.com/de/reports/fresh/2026-07-01/"
     }
    }

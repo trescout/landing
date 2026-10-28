@@ -28,8 +28,11 @@ Doğrudan kullanıma başlamak için GitHub sayfasındaki Releases bölümünden
 - **Kimin için:** Müzik dinlerken şarkı sözlerini görsel bir şölenle takip etmek isteyen kullanıcılar için tasarlanmıştır.
 - **Lisans:** AGPL-3.0
 
-## Bağlantılar
+## Editoryal not
 
+Telif notu: Çevrimiçi müzik, şarkı sözü ve albüm görsellerini yalnızca yetkili kaynaklardan kullanın. Bölgesel telif haklarına ve sağlayıcıların hizmet şartlarına uyumluluk kullanıcı sorumluluğundadır.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/chthollyphile/folia-major)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

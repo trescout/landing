@@ -66,8 +66,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - **Who it is for:** It's for developers who want to fine-tune large language models on their local computer without high hardware costs.
 - **License:** Apache-2.0
 
-## Links
+## Editorial note
 
+Security note: Do not run untrusted YAML, datasets, Jinja templates, or reward code. Verify the licenses of model weights and training data, and follow the current release and official security guidance.
+
+## Links
 - [GitHub repository →](https://github.com/MakazhanAlpamys/Soup)
 - [Read in Turkish →](https://trescout.com/discover/soup/)
 

@@ -32,8 +32,11 @@ To start using it directly, you can download and install the desktop version for
 - **Who it is for:** It is designed for users who want to follow the lyrics with a visual feast while listening to music.
 - **License:** AGPL-3.0
 
-## Links
+## Editorial note
 
+Copyright note: Use online music, lyrics, and album artwork only from authorized sources. Compliance with local copyright law and provider terms is the user’s responsibility.
+
+## Links
 - [GitHub repository →](https://github.com/chthollyphile/folia-major)
 - [Read in Turkish →](https://trescout.com/discover/folia-major/)
 

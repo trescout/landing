@@ -54,8 +54,11 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 **Licence:** GPL-3.0 · utilisation gratuite ; Si vous modifiez et distribuez le logiciel, vous devez partager vos modifications avec le code source sous la même licence GPL (copyleft).
 
-## Liens
+## Note éditoriale
 
+Privacy note: Proxy subscriptions and exit servers may observe or alter traffic. Use only trusted sources and follow applicable law and service terms.
+
+## Liens
 - [Dépôt GitHub →](https://github.com/chen08209/FlClash)
 - [Lire en turc →](https://trescout.com/discover/flclash/)
 

@@ -2,7 +2,7 @@
 
 > TreScout; GitHub, Hacker News ve Hugging Face gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler hazırlar ve web ile PDF rapor olarak yayımlar. Raporlar herkese açıktır; okumak için kayıt olmanız gerekmez.
 
-Son güncelleme: 2026-10-28 · 650 araç · 768 terim
+Son güncelleme: 2026-10-28 · 649 araç · 768 terim
 
 ---
 
@@ -55767,8 +55767,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 
 - **Kimin için:** Dünyadaki canlı verileri fotogerçekçi bir 3D arayüz üzerinden takip etmek isteyen meraklılar ve araştırmacılar içindir.
 
-## Bağlantılar
+## Editoryal not
 
+Gizlilik ve lisans notu: Uygulama kamuya açık verileri görselleştirir; kişi takibi veya birey profilleme amacıyla kullanılmamalıdır. LAN’a açarken API anahtarlarını koruyun, faturalandırma/kota riskini kontrol edin ve her veri sağlayıcının lisans/atıf şartlarına uyun.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/bilawalsidhu/gods-eye-view)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -56419,8 +56422,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 
 **Lisans:** GPL-3.0 · kullanımı serbest; yazılımı değiştirip dağıtırsanız değişikliklerinizi de aynı GPL lisansıyla, kaynak koduyla paylaşmanız gerekir (copyleft).
 
-## Bağlantılar
+## Editoryal not
 
+Gizlilik notu: Proxy abonelikleri ve çıkış sunucuları trafiği görebilir veya değiştirebilir. Yalnızca güvendiğiniz kaynakları kullanın; yerel mevzuata ve hizmet şartlarına uyun.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/chen08209/FlClash)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -58052,8 +58058,11 @@ Kelsey Hightower tarafından hazırlanan Kubernetes the Hard Way, konteyner yön
 - ★ 50.174
 - GitHub Trending · 2026-09-26
 
-## Bağlantılar
+## Editoryal not
 
+Eğitim notu: Bu içerik Kubernetes bileşenlerini anlamak içindir ve üretime hazır bir dağıtım reçetesi değildir. Sertifika, kimlik doğrulama, şifreleme ve ağ ayarlarını üretimde kullanmadan önce güncel resmi Kubernetes belgelerini izleyin.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -59356,8 +59365,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Kimin için:** Kendi mesajlaşma uygulamaları üzerinde özelleştirilebilir bir yapay zekâ asistanı veya ajan tabanlı bir sistem geliştirmek isteyen bireyler ve ekipler için uygundur.
 - **Lisans:** AGPL-3.0
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik ve gizlilik notu: Mesajlaşma hesaplarını, API anahtarlarını ve sohbet verilerini koruyun. Eklentileri güvenmeden kurmayın; ajanların kod/kabuk çalıştırma yeteneklerini izole edin ve en az yetkiyle yapılandırın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/AstrBotDevs/AstrBot)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -66700,8 +66712,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Çalıştırmak için özel bir radyo frekans izni gerekir mi?** 10.5 GHz bandı birçok ülkede amatör telsiz veya endüstriyel/bilimsel (ISM) frekans tahsislerine tabidir. Düşük çıkış güçlerinde laboratuvar içi testler serbest olmakla birlikte, açık hava uzun menzil yayınlarında yerel regülasyonlara uyulmalıdır.
 - **Hangi FPGA geliştirme kartlarıyla uyumludur?** Xilinx Zynq-7000 serisi veya modern AMD UltraScale+ RFSoC kartları doğrudan desteklenir; yüksek hızlı ADC/DAC arayüzleri FMC konektörü üzerinden bağlanır.
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik ve mevzuat notu: Bu 10,5 GHz RF radar; drone/hedef takibi ve geniş alan gözetimi için çift kullanımlıdır. Yalnızca yetkili laboratuvarlarda, yerel spektrum/EMC kurallarına ve güvenli RF uygulamalarına uyarak kullanılmalıdır. TreScout saha performansı veya hukuki uygunluk garantisi vermez.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/NawfalMotii79/PLFM_RADAR)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -68347,45 +68362,6 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Çeşitli kategorilerde dijital e-kitap kütüphanesi
-
-jbiaojerry/ebook-treasure-chest, çeşitli kategorilerdeki e-kitap indirme bağlantılarını bir araya getiren bir dijital kütüphane projesidir. Proje, popüler okuma uygulamaları (帆书, 微信读书, 京东读书, 喜马拉雅) bünyesindeki içeriklere erişim sağlamayı amaçlar.
-
-- ★ 22.774
-- Python
-- GitHub Trending · 2026-10-25
-
-## Ne kazandırır?
-
-- Binlerce e-kitabın indirme bağlantısına tek noktadan erişim sağlarsınız.
-- Kitapları epub, mobi ve azw3 gibi üç farklı format seçeneğiyle indirebilirsiniz.
-- Arama arayüzü sayesinde eserleri başlık, yazar veya kategoriye göre anında bulabilirsiniz.
-
-## Nasıl başlanır?
-
-Projeden yararlanmak için komut satırına ihtiyaç duymazsınız. Kod barındırma platformu GitHub üzerinde barındırılan resmî web sayfasını ziyaret ederek arama kutusuna kitap adı veya yazar yazabilirsiniz. Dilerseniz kategori dosyalarını inceleyerek dilediğiniz e-kitabın indirme bağlantısına erişebilirsiniz.
-
-- [Resmî kaynak →](https://jbiaojerry.github.io/ebook-treasure-chest)
-
-- **Kimin için:** Farklı formatlarda e-kitap arayan ve geniş bir dijital arşivden yararlanmak isteyen okurlar içindir.
-
-## Bağlantılar
-
-- [GitHub deposu →](https://github.com/jbiaojerry/ebook-treasure-chest)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-10-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-
-- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/ebook-treasure-chest/
-TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
-
-
----
-
 # Açık kaynaklı ofis araçları seti
 
 Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı bir platformdur. Yapay zekâ ajanlarının (AI agents) ofis yazılımlarıyla etkileşimini kolaylaştırmak için tasarlanmış modüler bir yapı sunar.
@@ -69668,8 +69644,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 
 - **Kimin için:** Açık kaynak istihbaratı (OSINT) ve bilgi toplama süreçleriyle ilgilenen kullanıcılar için uygundur.
 
-## Bağlantılar
+## Editoryal not
 
+Gizlilik ve etik notu: Bu araç yalnızca sahibi olduğunuz veya açıkça izin verilen sistemler ve OSINT çalışmaları için kullanılmalıdır. Kişi takibi, doxxing, taciz ve yetkisiz veri toplama kabul edilemez; sonuçlar doğrulanmış konum veya kimlik kanıtı değildir.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/HunxByts/GhostTrack)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -77693,8 +77672,11 @@ Doğrudan kullanıma başlamak için GitHub sayfasındaki Releases bölümünden
 - **Kimin için:** Müzik dinlerken şarkı sözlerini görsel bir şölenle takip etmek isteyen kullanıcılar için tasarlanmıştır.
 - **Lisans:** AGPL-3.0
 
-## Bağlantılar
+## Editoryal not
 
+Telif notu: Çevrimiçi müzik, şarkı sözü ve albüm görsellerini yalnızca yetkili kaynaklardan kullanın. Bölgesel telif haklarına ve sağlayıcıların hizmet şartlarına uyumluluk kullanıcı sorumluluğundadır.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/chthollyphile/folia-major)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -77886,8 +77868,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Kimin için:** Yüksek donanım maliyetleri olmadan kendi yerel bilgisayarında büyük dil modellerine ince ayar yapmak isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik notu: Güvenilmeyen YAML, veri seti, Jinja şablonu veya ödül kodu çalıştırmayın. Model ağırlıkları ve eğitim verilerinin lisansını ayrıca doğrulayın; güncel sürüm ve resmi güvenlik belgelerini esas alın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/MakazhanAlpamys/Soup)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

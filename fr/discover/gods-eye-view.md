@@ -53,8 +53,11 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - **Pour qui:** Destiné aux passionnés et aux chercheurs souhaitant suivre des données en direct dans le monde entier via une interface 3D photoréaliste.
 
-## Liens
+## Note éditoriale
 
+Privacy and licensing note: This app visualizes public data; do not use it to track or profile individuals. Protect API keys when exposing it on a LAN, check billing/quota risks, and follow each data provider’s license and attribution terms.
+
+## Liens
 - [Dépôt GitHub →](https://github.com/bilawalsidhu/gods-eye-view)
 - [Lire en turc →](https://trescout.com/discover/gods-eye-view/)
 

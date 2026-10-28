@@ -53,8 +53,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - **Who it is for:** It is for enthusiasts and researchers who want to track live data from the world via a photorealistic 3D interface.
 
-## Links
+## Editorial note
 
+Privacy and licensing note: This app visualizes public data; do not use it to track or profile individuals. Protect API keys when exposing it on a LAN, check billing/quota risks, and follow each data provider’s license and attribution terms.
+
+## Links
 - [GitHub repository →](https://github.com/bilawalsidhu/gods-eye-view)
 - [Read in Turkish →](https://trescout.com/discover/gods-eye-view/)
 

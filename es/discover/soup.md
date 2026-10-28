@@ -66,8 +66,11 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - **Para quién es:** Es para desarrolladores que desean ajustar modelos de lenguaje grandes en su computadora local sin altos costos de hardware.
 - **Licencia:** Apache-2.0
 
-## Enlaces
+## Nota editorial
 
+Security note: Do not run untrusted YAML, datasets, Jinja templates, or reward code. Verify the licenses of model weights and training data, and follow the current release and official security guidance.
+
+## Enlaces
 - [Repositorio en GitHub →](https://github.com/MakazhanAlpamys/Soup)
 - [Leer en turco →](https://trescout.com/discover/soup/)
 

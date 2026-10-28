@@ -56,8 +56,11 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - **Pour qui:** Convient aux utilisateurs intéressés par l'intelligence open source (OSINT) et les processus de collecte d'informations.
 
-## Liens
+## Note éditoriale
 
+Privacy and ethics note: Use only on systems you own or where you have explicit permission, and for lawful OSINT. Do not use for stalking, doxxing, harassment, or unauthorized data collection; results are not proof of a person’s location or identity.
+
+## Liens
 - [Dépôt GitHub →](https://github.com/HunxByts/GhostTrack)
 - [Lire en turc →](https://trescout.com/discover/ghosttrack/)
 

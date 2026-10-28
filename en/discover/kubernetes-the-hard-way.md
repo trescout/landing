@@ -9,8 +9,11 @@ Prepared by Kelsey Hightower, Kubernetes the Hard Way is a guide that teaches ho
 
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
-## Links
+## Editorial note
 
+Educational note: This material is for understanding Kubernetes components and is not a production-ready deployment recipe. Before production use, follow current official Kubernetes guidance for certificates, authentication, encryption, and networking.
+
+## Links
 - [GitHub repository →](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Read in Turkish →](https://trescout.com/discover/kubernetes-the-hard-way/)
 

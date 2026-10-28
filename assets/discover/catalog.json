@@ -54664,31 +54664,6 @@
     "tagline_de": "Das von Google entwickelte gemini-cli bietet direkten Zugriff auf das Gemini-KI-Modell über das Terminal..."
   },
   {
-    "slug": "ebook-treasure-chest",
-    "title": "Ebook Treasure Chest",
-    "tagline": "jbiaojerry/ebook-treasure-chest, çeşitli kategorilerdeki e-kitap indirme bağlantılarını bir araya getiren bir dijital…",
-    "meta": "★ 22.774 · Python",
-    "image": "/assets/discover/og/ebook-treasure-chest.webp",
-    "source": "GitHub",
-    "date": "2026-10-25",
-    "tags": [
-      "Geliştirici aracı"
-    ],
-    "stars": 22774,
-    "last_seen": "2026-10-25",
-    "summary": "jbiaojerry/ebook-treasure-chest, çeşitli kategorilerdeki e-kitap indirme bağlantılarını bir araya getiren bir dijital kütüphane projesidir. Proje, popüler okuma uygulamaları (帆书, 微信读书, 京东读书, 喜马拉雅) bünyesindeki içeriklere erişim sağlamayı amaçlar.",
-    "lite": false,
-    "headline": "Çeşitli kategorilerde dijital e-kitap kütüphanesi",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
-    "last_review": "2026-10-28",
-    "tagline_en": "jbiaojerry/ebook-treasure-chest is a digital repository that brings together e-book download links across various categories…",
-    "tagline_fr": "jbiaojerry/ebook-treasure-chest est un coffre-fort numérique qui rassemble des liens de téléchargement de livres électroniques dans diverses catégories...",
-    "tagline_es": "jbiaojerry/ebook-treasure-chest es un cofre digital que reúne enlaces de descarga de libros electrónicos en varias categorías...",
-    "tagline_pt": "jbiaojerry/ebook-treasure-chest é um repositório digital que reúne links para download de e-books em várias categorias...",
-    "tagline_de": "jbiaojerry/ebook-treasure-chest ist eine digitale [...] die Download-Links für E-Books verschiedener Kategorien zusammenführt."
-  },
-  {
     "slug": "cindy",
     "title": "Cindy",
     "tagline": "Cindy, projelerinizde ve uygulamalarınızda gerçek işleri tamamlamak üzere tasarlanmış, kutudan çıktığı gibi çalışabilen açık…",

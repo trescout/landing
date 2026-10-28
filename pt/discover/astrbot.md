@@ -60,8 +60,11 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - **Para quem é:** É adequado para indivíduos e equipes que desejam desenvolver um assistente de IA personalizável ou um sistema baseado em agente além de seus próprios aplicativos de mensagens.
 - **Licença:** AGPL-3.0
 
-## Links
+## Nota editorial
 
+Security and privacy note: Protect messaging accounts, API keys, and chat data. Do not install untrusted plugins; isolate agent code/shell execution and configure least privilege.
+
+## Links
 - [Repositório no GitHub →](https://github.com/AstrBotDevs/AstrBot)
 - [Ler em turco →](https://trescout.com/discover/astrbot/)
 

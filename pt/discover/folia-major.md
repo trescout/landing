@@ -32,8 +32,11 @@ Para começar a usá-lo diretamente, você pode baixar e instalar a versão desk
 - **Para quem é:** Ele foi projetado para usuários que desejam acompanhar as letras com um banquete visual enquanto ouvem música.
 - **Licença:** AGPL-3.0
 
-## Links
+## Nota editorial
 
+Copyright note: Use online music, lyrics, and album artwork only from authorized sources. Compliance with local copyright law and provider terms is the user’s responsibility.
+
+## Links
 - [Repositório no GitHub →](https://github.com/chthollyphile/folia-major)
 - [Ler em turco →](https://trescout.com/discover/folia-major/)
 

@@ -56,8 +56,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - **Who it is for:** Suitable for users interested in open source intelligence (OSINT) and information gathering processes.
 
-## Links
+## Editorial note
 
+Privacy and ethics note: Use only on systems you own or where you have explicit permission, and for lawful OSINT. Do not use for stalking, doxxing, harassment, or unauthorized data collection; results are not proof of a person’s location or identity.
+
+## Links
 - [GitHub repository →](https://github.com/HunxByts/GhostTrack)
 - [Read in Turkish →](https://trescout.com/discover/ghosttrack/)
 

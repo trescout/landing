@@ -53,8 +53,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Kimin için:** Kendi mesajlaşma uygulamaları üzerinde özelleştirilebilir bir yapay zekâ asistanı veya ajan tabanlı bir sistem geliştirmek isteyen bireyler ve ekipler için uygundur.
 - **Lisans:** AGPL-3.0
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik ve gizlilik notu: Mesajlaşma hesaplarını, API anahtarlarını ve sohbet verilerini koruyun. Eklentileri güvenmeden kurmayın; ajanların kod/kabuk çalıştırma yeteneklerini izole edin ve en az yetkiyle yapılandırın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/AstrBotDevs/AstrBot)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

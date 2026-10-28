@@ -59,8 +59,11 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 - **Kimin için:** Yüksek donanım maliyetleri olmadan kendi yerel bilgisayarında büyük dil modellerine ince ayar yapmak isteyen geliştiriciler içindir.
 - **Lisans:** Apache-2.0
 
-## Bağlantılar
+## Editoryal not
 
+Güvenlik notu: Güvenilmeyen YAML, veri seti, Jinja şablonu veya ödül kodu çalıştırmayın. Model ağırlıkları ve eğitim verilerinin lisansını ayrıca doğrulayın; güncel sürüm ve resmi güvenlik belgelerini esas alın.
+
+## Bağlantılar
 - [GitHub deposu →](https://github.com/MakazhanAlpamys/Soup)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

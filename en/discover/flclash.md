@@ -54,8 +54,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 **License:** GPL-3.0 · free to use; If you modify and distribute the software, you must share your changes with the source code under the same GPL license (copyleft).
 
-## Links
+## Editorial note
 
+Privacy note: Proxy subscriptions and exit servers may observe or alter traffic. Use only trusted sources and follow applicable law and service terms.
+
+## Links
 - [GitHub repository →](https://github.com/chen08209/FlClash)
 - [Read in Turkish →](https://trescout.com/discover/flclash/)
 

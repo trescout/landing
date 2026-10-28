@@ -177,26 +177,6 @@
           }
         },
         {
-          "title": "jbiaojerry/ebook-treasure-chest",
-          "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
-          "summary": "jbiaojerry/ebook-treasure-chest, çeşitli kategorilerdeki e-kitap indirme bağlantılarını bir araya getiren bir dijital kütüphane projesidir. Proje, popüler okuma uygulamaları (帆书, 微信读书, 京东读书, 喜马拉雅) bünyesindeki içeriklere erişim sağlamayı amaçlar.",
-          "meta": "Python · ★ 22.774 · +227 bugün",
-          "snapshot": {
-            "sourceId": "jbiaojerry/ebook-treasure-chest",
-            "capturedAt": "2026-10-25T04:49:31.581Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 22774,
-              "engagementCount": 227,
-              "rank": 9,
-              "extra": {
-                "starsToday": 227
-              }
-            },
-            "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
-          }
-        },
-        {
           "title": "makecindy/cindy",
           "url": "https://github.com/makecindy/cindy",
           "summary": "Cindy, projelerinizde ve uygulamalarınızda gerçek işleri tamamlamak üzere tasarlanmış, kutudan çıktığı gibi çalışabilen açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir yapay zekâ ajanıdır. Birden fazla model ve aracı tek bir yapıda birleştirerek kullanıcıların iş akışlarını yönetmelerine olanak tanır.",

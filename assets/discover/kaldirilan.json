@@ -39,6 +39,15 @@
       "sozluk_terimleri": [],
       "tarih": "2026-10-28",
       "gerekce": "Kaynak doğrulama kararı · kayıtlı resmî depo 404 dönüyor; kaynak doğrulanana kadar stale/yanlış keşif kaydı olarak yayından alındı."
+    },
+    {
+      "slug": "ebook-treasure-chest",
+      "repolar": [
+        "https://github.com/jbiaojerry/ebook-treasure-chest"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-10-28",
+      "gerekce": "Yayın kararı · ticari/telifli görünen e-kitapları harici indirme bağlantılarıyla topluca indeksliyor; dağıtım lisansı veya izin doğrulanamadı."
     }
   ]
 }
