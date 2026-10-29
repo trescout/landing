@@ -42,6 +42,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [Workspace](https://trescout.com/pt/dictionary/workspace/)
 - [GPU](https://trescout.com/pt/dictionary/gpu/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [API](https://trescout.com/pt/dictionary/api/)

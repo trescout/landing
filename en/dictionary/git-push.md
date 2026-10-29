@@ -30,7 +30,7 @@ When git push is run, not only text diffs are sent; Commit, Tree and Blob object
 git push -u origin feature/auth
 ```
 
-The -u or --set-upstream flag permanently links your local branch to the remote branch. After this pairing, you only need to type git push or git pull while on the same branch.
+The -u or --set-upstream flag permanently links your local branch to the remote branch. After this pairing, simply typing git push or git pull is sufficient while on the same branch.
 
 ### Safe Force Push: --force-with-lease
 

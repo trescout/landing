@@ -21,6 +21,7 @@ Um das System schnell auszuprobieren, können Sie die Website os.cloudflare.app/
 ## Verwandte Begriffe aus dem Glossar
 
 - [Agent Workspace](https://trescout.com/de/dictionary/agent-workspace/)
+- [Workspace](https://trescout.com/de/dictionary/workspace/)
 - [Agent](https://trescout.com/de/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

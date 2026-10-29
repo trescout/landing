@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1.0",
-  "generated_at": "2026-10-29T05:39:57.648174+00:00",
-  "source_git_commit": "43d5683d5246697a1fce021a2e994b3432478c5d",
+  "generated_at": "2026-10-29T08:42:12.657507+00:00",
+  "source_git_commit": "e8697e6580ebfaf22d71e4760d3ffbb810d9f459",
   "content_version": "2026-10-29",
   "locales": [
     "tr",
@@ -17,8 +17,8 @@
     "reports_count": 1728,
     "fresh_report_pages_count": 134,
     "reports_pdf_count": 1506,
-    "total_html_pages": 10271,
-    "locale_page_instances": 10271
+    "total_html_pages": 10279,
+    "locale_page_instances": 10279
   },
   "locale_breakdown": {
     "tr": {
@@ -40,10 +40,10 @@
       "total_html": 1713
     },
     "pt": {
-      "dictionary_html": 769,
+      "dictionary_html": 773,
       "discover_html": 646,
       "reports_html": 290,
-      "total_html": 1709
+      "total_html": 1713
     },
     "es": {
       "dictionary_html": 773,
@@ -52,19 +52,19 @@
       "total_html": 1713
     },
     "de": {
-      "dictionary_html": 769,
+      "dictionary_html": 773,
       "discover_html": 646,
       "reports_html": 290,
-      "total_html": 1709
+      "total_html": 1713
     }
   },
   "integrity_checksums": {
-    "assets/discover/catalog.json": "44532d3ee80851cca652fddc104bb8c87d58745e5539030220dbeeff5d9788fd",
+    "assets/discover/catalog.json": "d022b73196565b021228e8846289c9b76e02a2c504410532ba62e4f6e3008a21",
     "assets/dictionary/dictionary.json": "dbefbc4ed1961cd696731c0c38d8e80a22ae91162205fdd8ccee31f6cbacb3fb",
-    "sitemap.xml": "73177046773b6fa7229563643862238cf616ada9d267c6151392070768f82d29",
-    "llms.txt": "5fd34a7e2e4889240b02094c82dde39a0dc7c35e35b7ae83eb38ab71fd541f04",
-    "llms-full.txt": "72eaeb8b3205b01b740b59675d5f74b761704bb57093b8f4554819f168121f5f",
-    "llms-en.txt": "0c63eed072e603dda514ed8f74f9b4c7842389e97ed68cd9e9c2039037f89cde",
+    "sitemap.xml": "cd33c7a824c56d5eb751b24207bdbb4ca78b7c1cc44d8375fbc39c8b473fa8de",
+    "llms.txt": "145ab62d81cb482490855edc39c188969a4d6b0de29c94c00b80c2c2baadda5f",
+    "llms-full.txt": "f98e55364d55dcea7452b721131883dbf3db173aa554811c9f68fb961f83febf",
+    "llms-en.txt": "84012bc4f67a288b4995068a3baf55eb484a23bdbe4ea8de7d218709437c0884",
     "vercel.json": "2e428a5fc9f9c63f6757a18902c0d67fc549f568d507e3ae682972e245e9b532"
   }
 }

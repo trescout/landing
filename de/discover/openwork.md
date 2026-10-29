@@ -43,6 +43,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Workspace](https://trescout.com/de/dictionary/workspace/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Entwickler, die ihre KI-gestützten Softwareentwicklungsprozesse automatisieren und Arbeitsabläufe zwischen ihren Tools teilen möchten.

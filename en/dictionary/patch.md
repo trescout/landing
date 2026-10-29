@@ -21,7 +21,7 @@ In the open source world and version control systems, a patch is a plain text do
 
 ### UNIX patch Command and History
 
-Based on the metaphor of covering holes in punch cards with tape or repairing paper strips, the term "patch" was standardized in 1985 with the patch command written by Larry Wall. A patch generated with the command diff -u old.c new.c > fix.patch can be applied directly to the source code on the receiving end using patch \< fix.patch.
+Based on the metaphor of covering holes in punched cards with tape or repairing paper strips, the "patch" was standardized in 1985 with the patch command written by Larry Wall. Produced with the command diff -u old.c new.c > fix.patch, the patch can be applied directly to the source code on the receiving end using patch \< fix.patch.
 
 ### Using Patch in Git Environment
 

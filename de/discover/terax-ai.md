@@ -42,6 +42,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Workspace](https://trescout.com/de/dictionary/workspace/)
 - [GPU](https://trescout.com/de/dictionary/gpu/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
 - [API](https://trescout.com/de/dictionary/api/)

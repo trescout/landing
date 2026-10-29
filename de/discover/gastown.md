@@ -56,6 +56,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Multi-agent](https://trescout.com/de/dictionary/multi-agent/)
+- [Workspace](https://trescout.com/de/dictionary/workspace/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Entwickler, die mehrere KI-Agenten gleichzeitig verwalten und die Kontinuität der Arbeitsabläufe in komplexen Softwareprojekten sicherstellen möchten.

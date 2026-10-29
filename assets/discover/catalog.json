@@ -4182,14 +4182,14 @@
     "slug": "pi-subagents",
     "title": "Pi Subagents",
     "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
-    "meta": "★ 4.085 · Lisans: yok",
+    "meta": "★ 4.094 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4085,
+    "stars": 4094,
     "image": "/assets/discover/og/pi-subagents.webp",
     "headline": "Yapay zekâ ile asenkron görev yönetimi",
     "last_review": "2026-10-29",
@@ -4501,6 +4501,13 @@
         "onceki_yildiz": 4061,
         "surum": "v0.83.1",
         "surum_tarihi": "2026-10-28"
+      },
+      {
+        "tarih": "2026-10-29",
+        "yildiz": 4094,
+        "onceki_yildiz": 4085,
+        "surum": "v0.84.0",
+        "surum_tarihi": "2026-10-29"
       }
     ],
     "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform.",
@@ -21546,7 +21553,7 @@
     "slug": "claude-skills",
     "title": "Claude Skills",
     "tagline": "Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda…",
-    "meta": "★ 28.795 · Python",
+    "meta": "★ 28.939 · Python",
     "image": "/assets/discover/og/claude-skills.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -21554,7 +21561,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28795,
+    "stars": 28939,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına uzmanlık kazandırın",
     "last_review": "2026-10-29",
@@ -21621,6 +21628,13 @@
         "onceki_yildiz": 28584,
         "surum": "v2.14.2",
         "surum_tarihi": "2026-10-26"
+      },
+      {
+        "tarih": "2026-10-29",
+        "yildiz": 28939,
+        "onceki_yildiz": 28795,
+        "surum": "v2.14.3",
+        "surum_tarihi": "2026-10-29"
       }
     ],
     "tagline_en": "This library, developed for Claude Code and various coding agents, is used in different fields from engineering to marketing.",
@@ -25031,14 +25045,14 @@
     "slug": "t3code",
     "title": "T3code",
     "tagline": "T3Code, TypeScript tabanlı projelerde kod kalitesini artırmak ve standartlaştırmak için geliştirilen bir araç setidir.",
-    "meta": "★ 30.598 · TypeScript",
+    "meta": "★ 31.263 · TypeScript",
     "image": "/assets/discover/og/t3code.webp",
     "source": "GitHub",
     "date": "2026-07-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 30598,
+    "stars": 31263,
     "lite": false,
     "headline": "Kodlama ajanları için web arayüzü",
     "last_review": "2026-10-29",
@@ -25175,6 +25189,13 @@
         "onceki_yildiz": 29541,
         "surum": "v0.1.3",
         "surum_tarihi": "2026-10-27"
+      },
+      {
+        "tarih": "2026-10-29",
+        "yildiz": 31263,
+        "onceki_yildiz": 30598,
+        "surum": "v0.1.4",
+        "surum_tarihi": "2026-10-29"
       }
     ],
     "tagline_en": "T3Code is a toolset developed to improve and standardize code quality in TypeScript-based projects.",
@@ -33372,7 +33393,7 @@
     "slug": "deepseek-reasonix",
     "title": "DeepSeek-Reasonix",
     "tagline": "DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır.",
-    "meta": "★ 35.979 · Go",
+    "meta": "★ 35.992 · Go",
     "image": "/assets/discover/og/deepseek-reasonix.webp",
     "source": "GitHub",
     "date": "2026-08-03",
@@ -33380,7 +33401,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 35979,
+    "stars": 35992,
     "lite": false,
     "headline": "Terminal için yapay zekâ kodlama ajanı",
     "last_review": "2026-10-29",
@@ -33818,6 +33839,13 @@
         "onceki_yildiz": 35978,
         "surum": "studio-v2.54.0",
         "surum_tarihi": "2026-10-28"
+      },
+      {
+        "tarih": "2026-10-29",
+        "yildiz": 35992,
+        "onceki_yildiz": 35979,
+        "surum": "studio-v2.55.0",
+        "surum_tarihi": "2026-10-29"
       }
     ],
     "tagline_en": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models.",
@@ -33963,7 +33991,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 63.884 · Python",
+    "meta": "★ 64.715 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -33971,7 +33999,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 63884,
+    "stars": 64715,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-10-29",
@@ -34220,6 +34248,13 @@
         "onceki_yildiz": 63523,
         "surum": "v6.18.3",
         "surum_tarihi": "2026-10-27"
+      },
+      {
+        "tarih": "2026-10-29",
+        "yildiz": 64715,
+        "onceki_yildiz": 63884,
+        "surum": "v6.18.5",
+        "surum_tarihi": "2026-10-29"
       }
     ]
   },
@@ -45927,7 +45962,7 @@
     "slug": "magnitude",
     "title": "Magnitude",
     "tagline": "Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık…",
-    "meta": "★ 7.365 · TypeScript",
+    "meta": "★ 7.497 · TypeScript",
     "image": "/assets/discover/og/magnitude.webp",
     "source": "GitHub",
     "date": "2026-09-04",
@@ -45935,7 +45970,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7365,
+    "stars": 7497,
     "summary": "Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık kaynaklı bir çıkarım sunucusu (inference server). Cline gibi kodlama asistanları ve çeşitli açık kaynaklı modellerle uyumlu çalışarak yerel bilgisayar gücünden yararlanmayı kolaylaştırıyor.",
     "lite": false,
     "headline": "Yerel yapay zekâ modellerini bilgisayarınızda çalıştırın",
@@ -46073,6 +46108,13 @@
         "onceki_yildiz": 7350,
         "surum": "@magnitudedev/cli@0.2.13",
         "surum_tarihi": "2026-10-28"
+      },
+      {
+        "tarih": "2026-10-29",
+        "yildiz": 7497,
+        "onceki_yildiz": 7365,
+        "surum": "@magnitudedev/cli@0.2.14",
+        "surum_tarihi": "2026-10-29"
       }
     ],
     "tagline_en": "Magnitude is an open-source tool that integrates with existing AI agents and allows you to run local models compatible with your hardware...",
@@ -49316,7 +49358,7 @@
     "slug": "weknora",
     "title": "WeKnora",
     "tagline": "Tencent tarafından geliştirilen WeKnora, ham belgeleri sorgulanabilir bir bilgi tabanına (RAG), otonom bir akıl yürütme…",
-    "meta": "★ 35.608 · Go",
+    "meta": "★ 35.846 · Go",
     "image": "/assets/discover/og/weknora.webp",
     "source": "GitHub",
     "date": "2026-09-18",
@@ -49324,7 +49366,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 35608,
+    "stars": 35846,
     "summary": "Tencent tarafından geliştirilen WeKnora, ham belgeleri sorgulanabilir bir bilgi tabanına (RAG), otonom bir akıl yürütme ajanına ve kendi kendini güncelleyen bir wiki sistemine dönüştüren açık kaynaklı bir platformdur. Go programlama diliyle yazılan bu araç, yapılandırılmamış verileri kurumsal düzeyde erişilebilir bilgi varlıklarına dönüştürmeyi amaçlar.",
     "lite": false,
     "headline": "Belgeleri yaşayan bilgiye dönüştüren yapay zekâ",
@@ -49371,6 +49413,13 @@
         "onceki_yildiz": 33893,
         "surum": "v0.8.3",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-29",
+        "yildiz": 35846,
+        "onceki_yildiz": 35608,
+        "surum": "v0.9.0",
+        "surum_tarihi": "2026-10-29"
       }
     ],
     "tagline_en": "WeKnora, developed by Tencent, transforms raw documents into a queryable knowledge base (RAG), autonomous reasoning...",
@@ -51459,7 +51508,7 @@
     "slug": "openrig",
     "title": "Openrig",
     "tagline": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan…",
-    "meta": "★ 8.250 · TypeScript",
+    "meta": "★ 8.290 · TypeScript",
     "image": "/assets/discover/og/openrig.webp",
     "source": "GitHub",
     "date": "2026-09-28",
@@ -51467,7 +51516,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8250,
+    "stars": 8290,
     "last_seen": "2026-10-03",
     "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
     "lite": false,
@@ -51613,6 +51662,13 @@
         "onceki_yildiz": 8236,
         "surum": "v0.7.4",
         "surum_tarihi": "2026-10-27"
+      },
+      {
+        "tarih": "2026-10-29",
+        "yildiz": 8290,
+        "onceki_yildiz": 8250,
+        "surum": "v0.7.5",
+        "surum_tarihi": "2026-10-29"
       }
     ],
     "tagline_en": "Openrig, a multi-agent… combining Anthropic's coding tool Claude Code and OpenAI's coding model Codex into a single system",
@@ -54912,7 +54968,7 @@
     "slug": "thinkrail",
     "title": "Thinkrail",
     "tagline": "JetBrains tarafından geliştirilen ThinkRail, kullanıcı çalışma biçimine göre kendini özelleştiren ve proje özelliklerini…",
-    "meta": "★ 4.402 · TypeScript",
+    "meta": "★ 5.495 · TypeScript",
     "image": "/assets/discover/og/thinkrail.webp",
     "source": "GitHub",
     "date": "2026-10-26",
@@ -54920,7 +54976,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4402,
+    "stars": 5495,
     "last_seen": "2026-10-29",
     "summary": "JetBrains tarafından geliştirilen ThinkRail, kullanıcı çalışma biçimine göre kendini özelleştiren ve proje özelliklerini öğrenerek yeteneklerini zamanla geliştiren ajan tabanlı bir tümleşik geliştirme ortamı (IDE). TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini kişiselleştirilmiş bir deneyimle desteklemeyi hedefliyor.",
     "lite": false,
@@ -54945,6 +55001,13 @@
         "tarih": "2026-10-28",
         "yildiz": 4402,
         "onceki_yildiz": 3318,
+        "surum": "v0.2.0",
+        "surum_tarihi": "2026-10-18"
+      },
+      {
+        "tarih": "2026-10-29",
+        "yildiz": 5495,
+        "onceki_yildiz": 4402,
         "surum": "v0.2.0",
         "surum_tarihi": "2026-10-18"
       }

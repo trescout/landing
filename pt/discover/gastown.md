@@ -56,6 +56,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Multi-agent](https://trescout.com/pt/dictionary/multi-agent/)
+- [Workspace](https://trescout.com/pt/dictionary/workspace/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a desenvolvedores que desejam gerenciar vários agentes de IA simultaneamente e garantir a continuidade do fluxo de trabalho em projetos de software complexos.

@@ -21,6 +21,7 @@ Para testar o sistema rapidamente, você pode implantar em sua conta de serviço
 ## Termos relacionados do glossário
 
 - [Agent Workspace](https://trescout.com/pt/dictionary/agent-workspace/)
+- [Workspace](https://trescout.com/pt/dictionary/workspace/)
 - [Agent](https://trescout.com/pt/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
