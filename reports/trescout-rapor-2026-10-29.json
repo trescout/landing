@@ -1,0 +1,851 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-29",
+  "capturedAt": "2026-10-29T05:01:37.118Z",
+  "editorial": "Bugün geliştirici araçları ile yapay zekâ modellerinin verimlilik odaklı optimizasyonları öne çıkarken güvenlik açıklarına dair kritik eleştiriler gündemi belirliyor. Hacker News üzerinde paylaşılan sertifika güvenliği tartışması ve DeepSeek-V4.1-Flash gibi yeni modellerin piyasaya sürülmesi, sistem mimarisindeki güncel öncelikleri net bir şekilde ortaya koyuyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "summary": "JetBrains tarafından geliştirilen ThinkRail, kullanıcı çalışma biçimine göre kendini özelleştiren ve proje gereksinimlerini öğrenerek yeteneklerini zamanla geliştiren agentik bir tümleşik geliştirme ortamı (IDE). TypeScript ile hazırlanan bu araç, yazılım geliştirme sürecini kişiselleştirilmiş bir deneyimle desteklemeyi hedefliyor.",
+          "meta": "TypeScript · ★ 5.280 · +1.068 bugün",
+          "snapshot": {
+            "sourceId": "JetBrains/thinkrail",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5280,
+              "engagementCount": 1068,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1068,
+                "baglam": "readme"
+              }
+            },
+            "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need. ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "summary": "elayadesign/ai-design-skills, Claude Code, Cursor, Codex ve Windsurf gibi kodlama araçlarının okuyabildiği markdown kural dosyaları için hazırlanan bir tasarım yetenekleri koleksiyonudur. Bu kaynak, yapay zekâ destekli kodlama araçlarının tasarım süreçlerindeki işlevselliğini artırmayı amaçlayan bir dizi yönerge sunar.",
+          "meta": "★ 11.338 · +2.139 bugün",
+          "snapshot": {
+            "sourceId": "elayadesign/ai-design-skills",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "popularity": 11338,
+              "engagementCount": 2139,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2139,
+                "baglam": "readme"
+              }
+            },
+            "description": "A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers, kodlama yapan yapay zekâ ajanları için geliştirilmiş bir yetenek çatısı (framework) ve yazılım geliştirme metodolojisidir. Birleştirilebilir yetenekler (composable skills) ve yönlendirme talimatları üzerinden ajanların yazılım süreçlerini standartlaştırmayı amaçlar.",
+          "meta": "Shell · ★ 307.599 · +1.095 bugün",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 307599,
+              "engagementCount": 1095,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1095,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "HKUDS/DeepTutor, özel ders verme, problem çözme, sınav oluşturma ve görselleştirme gibi süreçleri tek bir sistemde birleştiren ajan tabanlı (agent-native) bir öğrenme çalışma alanıdır. Python ile geliştirilen bu sistem, sürekli öğrenme (lifelong learning) odaklı kişiselleştirilmiş bir eğitim deneyimi sunmayı amaçlar.",
+          "meta": "Python · ★ 48.403 · +2.371 bugün",
+          "snapshot": {
+            "sourceId": "HKUDS/DeepTutor",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 48403,
+              "engagementCount": 2371,
+              "rank": 4,
+              "extra": {
+                "starsToday": 2371,
+                "baglam": "readme"
+              }
+            },
+            "description": "DeepTutor: Lifelong Personalized Tutoring. DeepTutor is an agent-native learning workspace that connects tutoring, problem solving, quiz generation, research, visualization, and mastery practice in one extensible system."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro, e-posta, sohbet, dokümanlar, görev yönetimi, yapay zekâ ajanları, çağrılar ve müşteri ilişkileri yönetimi (CRM) gibi araçları tek bir çalışma alanında birleştiren bir platformdur. Tüm bu iş akışlarını ortak bir yapay zekâ hafızası üzerinden birbirine bağlayarak ekiplerin iş birliğini kolaylaştırmayı hedefler.",
+          "meta": "Rust · ★ 5.510 · +117 bugün",
+          "snapshot": {
+            "sourceId": "macro-inc/macro",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 5510,
+              "engagementCount": 117,
+              "rank": 5,
+              "extra": {
+                "starsToday": 117
+              }
+            },
+            "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+          }
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Nutlope/hallmark, kod düzenleme araçları Claude Code, Cursor ve Codex üzerinde üretken yapay zekâ (generative AI) tarafından oluşturulmuş gibi görünen tasarımları engellemeye odaklanan bir tasarım yeteneği (design skill) sunuyor. Bu araç, yapay zekâ üretimi izlenimi veren görsel çıktıları standart dışı tutarak daha özgün bir tasarım dili oluşturmayı hedefliyor.",
+          "meta": "CSS · ★ 40.963 · +2.110 bugün",
+          "snapshot": {
+            "sourceId": "Nutlope/hallmark",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 40963,
+              "engagementCount": 2110,
+              "rank": 6,
+              "extra": {
+                "starsToday": 2110,
+                "baglam": "readme"
+              }
+            },
+            "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated."
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Rust diliyle geliştirilen impeccable, kodlama yapan yapay zekâ ajanları için bir tasarım sözlüğü (design vocabulary) sunuyor. Yazılım süreçlerinde kaliteyi artırmak ve yapay zekâ kaynaklı hataları (AI slop) önlemek amacıyla denetim ve inceleme araçları sağlıyor.",
+          "meta": "Rust · ★ 93.231 · +1.472 bugün",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 93231,
+              "engagementCount": 1472,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1472
+              }
+            },
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "summary": "Cindy, bilgisayar ve telefonlarla entegre olabilen, açık kaynaklı (open source) bir yapay zekâ ajanıdır. Kullanıcıların mevcut modellerini ve aboneliklerini bağlayarak çalışma alışkanlıklarına uygun bir dijital yardımcı oluşturmalarına olanak tanır.",
+          "meta": "TypeScript · ★ 8.245 · +728 bugün",
+          "snapshot": {
+            "sourceId": "makecindy/cindy",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 8245,
+              "engagementCount": 728,
+              "rank": 8,
+              "extra": {
+                "starsToday": 728,
+                "baglam": "readme"
+              }
+            },
+            "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。. Cindy is an open-source AI agent, ready out of the box and yours to shape. Connect your computers and phone, bring the models and subscriptions you already use, and build a companion that knows how you like to work."
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "summary": "nightly-labs/openbot, Codex, Claude ve Grok gibi yapay zekâ modellerini yerel bilgisayarınızda bir çalışma alanı (workspace) üzerinden yönetmenizi sağlayan bir masaüstü uygulamasıdır. Dosya paylaşımı, tarayıcı kontrolü ve yapay zekâ ajanları arasında iş birliği gibi özelliklerle kalıcı bir çalışma ortamı sunar.",
+          "meta": "TypeScript · ★ 3.391 · +1.054 bugün",
+          "snapshot": {
+            "sourceId": "nightly-labs/openbot",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3391,
+              "engagementCount": 1054,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1054
+              }
+            },
+            "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "hmjz100/LinkSwift",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "summary": "JavaScript tabanlı LinkSwift, sekiz farklı bulut depolama servisinden doğrudan dosya indirme bağlantıları elde etmeye yarayan bir araçtır. Çeşitli bulut platformlarını (Baidu, Alibaba Cloud, 123 Cloud gibi) destekleyen bu yazılım, mevcut bir indirme yardımcısı projesi temel alınarak geliştirilmiştir.",
+          "meta": "JavaScript · ★ 35.325 · +1.616 bugün",
+          "snapshot": {
+            "sourceId": "hmjz100/LinkSwift",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 35325,
+              "engagementCount": 1616,
+              "rank": 11,
+              "extra": {
+                "starsToday": 1616,
+                "baglam": "readme"
+              }
+            },
+            "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘. 基于【网盘直链下载助手】修改 - 原作者: 油小猴 - 原仓库: - 本脚本发布至脚本猫: - 还有 OpenUserJS:"
+          }
+        },
+        {
+          "title": "expo/skills",
+          "url": "https://github.com/expo/skills",
+          "summary": "Expo tarafından geliştirilen expo/skills, yapay zekâ ajanlarına Expo projeleri ve Expo Application Services ile çalışırken ihtiyaç duydukları teknik bilgileri sağlayan bir yetenek koleksiyonudur. Bu araç, ajanların uygulama geliştirme süreçlerinde Expo arayüzleri (API) ve iş akışlarını daha doğru uygulamalarına yardımcı olur.",
+          "meta": "Shell · ★ 3.641 · +90 bugün",
+          "snapshot": {
+            "sourceId": "expo/skills",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 3641,
+              "engagementCount": 90,
+              "rank": 12,
+              "extra": {
+                "starsToday": 90,
+                "baglam": "readme"
+              }
+            },
+            "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services. Skills give AI agents focused Expo knowledge: when to use Expo APIs, how to structure common workflows, and which Expo, EAS, React Native, iOS, and Android constraints matter. Expo documentation, Expo CLI, and EAS CLI remain the source of truth; these skills help agents apply them correctly."
+          }
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView, standart kablosuz ağ (WiFi) sinyallerini kullanarak görüntü verisine ihtiyaç duymadan gerçek zamanlı mekânsal analiz, hayati bulgu takibi ve varlık algılama işlemleri gerçekleştiriyor. Rust diliyle geliştirilen bu proje, donanım gereksinimlerini en aza indirerek ortamdaki hareketleri ve biyometrik verileri takip etmeyi amaçlıyor.",
+          "meta": "Rust · ★ 101.208 · +557 bugün",
+          "snapshot": {
+            "sourceId": "ruvnet/RuView",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 101208,
+              "engagementCount": 557,
+              "rank": 13,
+              "extra": {
+                "starsToday": 557
+              }
+            },
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+          }
+        },
+        {
+          "title": "xiaolai/the-craft-of-selfteaching",
+          "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+          "summary": "xiaolai/the-craft-of-selfteaching, kendi kendine öğrenme becerilerini geliştirmeye odaklanan ve Jupyter Notebook formatında hazırlanan bir rehberdir. Bireylerin öğrenme süreçlerini yapılandırmalarını ve bu yolla geleceklerini inşa etmelerini amaçlayan bir kaynak sunar.",
+          "meta": "Jupyter Notebook · ★ 18.636 · +148 bugün",
+          "snapshot": {
+            "sourceId": "xiaolai/the-craft-of-selfteaching",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 18636,
+              "engagementCount": 148,
+              "rank": 14,
+              "extra": {
+                "starsToday": 148,
+                "baglam": "readme"
+              }
+            },
+            "description": "One has no future if one couldn't teach themself. 特别感谢霍炬（@virushuo）、洪强宁（@hongqn) 两位良师诤友在此书写作过程中给予我的巨大帮助！"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple's git still trusts the compromised eMudhra certificates",
+          "url": "https://emudhra.we-have-a-problem.com/apple.html",
+          "summary": "Apple, eMudhra sertifika yetkilisinin güvenliğinin ihlal edildiğine dair bildirim almasının üzerinden on bir gün geçmesine rağmen macOS ile birlikte gelen git, curl ve python3 araçlarında bu tehlikeli sertifikalara güvenmeye devam ediyor. Söz konusu durum, sistemin güvenlik altyapısında yer alan bu araçların doğrulanmamış sertifikaları kabul etmesi nedeniyle bir risk oluşturuyor.",
+          "meta": "1.080 oy · 385 yorum",
+          "snapshot": {
+            "sourceId": "50271640",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 1080,
+              "engagementCount": 385,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50271640",
+                  "popularity": 1080,
+                  "engagementCount": 385
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-28T11:03:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50271640",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Eleven days after Apple was notified of the eMudhra CA compromise, the git, curl and python3 that Apple ships with macOS still trust the compromised certificates."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50271640",
+              "popularity": 1080,
+              "engagementCount": 385
+            }
+          ]
+        },
+        {
+          "title": "Why is this fingerprinting script creating bioweapons?",
+          "url": "https://nullpt.rs/fingerprinting-bioweapons",
+          "summary": "Nullpt.rs üzerinde yayımlanan bir analiz, tarayıcı parmak izi alma (fingerprinting) betiklerinin beklenmedik şekilde biyolojik silahlarla ilgili veri setlerine erişim sağladığını ortaya koyuyor. Söz konusu teknik inceleme, bu tür betiklerin güvenlik açıklarını ve veri gizliliği üzerindeki potansiyel risklerini detaylandırıyor.",
+          "meta": "971 oy · 201 yorum",
+          "snapshot": {
+            "sourceId": "50276998",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 971,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50276998",
+                  "popularity": 971,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-28T17:13:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50276998"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50276998",
+              "popularity": 971,
+              "engagementCount": 201
+            }
+          ]
+        },
+        {
+          "title": "Gemini 4 Carbon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "summary": "Google tarafından duyurulan Gemini 4 Carbon, şirketin en yeni yapay zekâ modeli olarak tanıtıldı. Bu model, Google'ın güncel teknoloji araştırmaları doğrultusunda geliştirilen yetenekleri temsil ediyor.",
+          "meta": "854 oy · 708 yorum",
+          "snapshot": {
+            "sourceId": "50276792",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 854,
+              "engagementCount": 708,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50276792",
+                  "popularity": 854,
+                  "engagementCount": 708
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-28T17:01:23Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50276792"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50276792",
+              "popularity": 854,
+              "engagementCount": 708
+            }
+          ]
+        },
+        {
+          "title": "MacBook Pro with PROLED XDR Display and Touch",
+          "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+          "summary": "Apple, PROLED XDR ekran teknolojisi ve dokunmatik özellikli ekran (touch display) donanımıyla güncellenen yeni MacBook Pro modelini tanıttı. Cihaz, görüntüleme teknolojisindeki yenilikleri taşınabilir bilgisayar serisine entegre etmeyi hedefliyor.",
+          "meta": "530 oy · 915 yorum",
+          "snapshot": {
+            "sourceId": "50276940",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 530,
+              "engagementCount": 915,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50276940",
+                  "popularity": 530,
+                  "engagementCount": 915
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-28T17:10:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50276940"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.apple.com&#x2F;newsroom&#x2F;2026&#x2F;10&#x2F;apple-unveils-groundb..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50276940",
+              "popularity": 530,
+              "engagementCount": 915
+            }
+          ]
+        },
+        {
+          "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+          "url": "https://www.circuithub.com/post/unveiling-the-grid",
+          "summary": "Massachusetts merkezli The Grid, baskılı devre kartlarını (PCB) talep üzerine üreten fabrika ölçeğinde bir robot sistemidir. Bu teknoloji, devre kartı üretimini standart hızlı üretim merkezlerine göre yarı sürede tamamlamayı hedefler.",
+          "meta": "469 oy · 212 yorum",
+          "snapshot": {
+            "sourceId": "50243060",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 469,
+              "engagementCount": 212,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50243060",
+                  "popularity": 469,
+                  "engagementCount": 212
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-26T13:13:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50243060",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A factory-scale robot in Massachusetts that builds circuit boards on demand, in half the time of a typical Shenzhen quick-turn shop."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50243060",
+              "popularity": 469,
+              "engagementCount": 212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Hugging Face üzerinde yayımlanan deepseek-ai/DeepSeek-V4.1-Flash-1017, görsel ve metin tabanlı verileri işleyebilen bir görüntüden metne (image-text-to-text) modelidir. Önceki sürüme göre akıl yürütme, kodlama ve ajan tabanlı görevlerde performans artışı sağlayan model, işlem süresini ve çıktı uzunluğunu azaltarak maliyet verimliliğini artırmayı hedefler.",
+          "meta": "♥ 3.586 · 116.770 indirme",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 3586,
+              "engagementCount": 116770,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 886,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          },
+          "streakDays": 12
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "summary": "Hugging Face üzerinde paylaşılan Nanbeige/Nanbeige4.3-33B, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Geliştiriciler bu modeli, daha küçük boyutlu modellere gelişmiş ajan yetenekleri kazandırmak amacıyla yüksek kapasiteli bir öğretmen ajan olarak konumlandırıyor.",
+          "meta": "♥ 734 · 7.412 indirme",
+          "snapshot": {
+            "sourceId": "Nanbeige/Nanbeige4.3-33B",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 734,
+              "engagementCount": 7412,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 724,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "llm",
+                  "nanbeige",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+                  "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teacher agent first, which will subsequently anchor the distillation of advanced agentic capabilities into smaller models."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "RecursiveSI/flint",
+          "url": "https://huggingface.co/RecursiveSI/flint",
+          "summary": "RecursiveSI/flint, kodlama ajanları için geliştirilmiş, 39,8 milyar toplam parametreye ve her belirteç (token) başına yaklaşık 2,5 milyar aktif parametreye sahip bir uzman karışımı (mixture-of-experts) dil modelidir. Bu model, kod tabanlarını incelemek, hata ayıklamak, yeni özellikler eklemek ve testler yazmak amacıyla tasarlanmıştır.",
+          "meta": "♥ 1.203 · 14.047 indirme",
+          "snapshot": {
+            "sourceId": "RecursiveSI/flint",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 1203,
+              "engagementCount": 14047,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 696,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "flint",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs, implement features, and write tests."
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "XHToken/Spark-X2.6-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "summary": "Hugging Face üzerinde yayımlanan Spark-X2.6-4B, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Önceki sürümüyle aynı mimariyi paylaşan model, eğitim sonrası süreçteki iyileştirmeler sayesinde kodlama, akıl yürütme ve çok dilli yetenekler alanında performans artışı sağlıyor.",
+          "meta": "♥ 871 · 8.222 indirme",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.6-4B",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 871,
+              "engagementCount": 8222,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 496,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "zh",
+                  "base_model:XHToken/Spark-X2.6-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.6-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improved post-training. It delivers substantial improvements in coding, agent, long-context, multilingual, reasoning, etc. These advances enable more capable and practical on-device AI for developers and users tackling real-world tasks."
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3.1-Flash",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-M3.1-Flash, kodlama, siber güvenlik ve bilgisayar kullanımı gibi alanlara odaklanan çok modlu bir uzmanlar karışımı (mixture-of-experts) modelidir. Metin, görsel ve video girdilerini destekleyen model, 1 milyon belirtece (token) kadar ulaşan bağlam penceresi (context window) kapasitesiyle geniş veri setlerini işleyebilir.",
+          "meta": "♥ 466 · 13.247 indirme",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-M3.1-Flash",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 466,
+              "engagementCount": 13247,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 411,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minimax_m3_vl",
+                  "image-text-to-text",
+                  "multimodal",
+                  "moe",
+                  "agent",
+                  "coding",
+                  "video",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2606.13392",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "mxfp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. MiniMax-M3.1-Flash is a native multimodal mixture-of-experts model for coding, agentic workflows, computer use, and cybersecurity. It supports text, image, and video inputs with a context window of up to 1M tokens."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+          "url": "https://huggingface.co/papers/2610.31670",
+          "summary": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success, robot temel modellerinin (robot foundation models) performansını değerlendirmek için maliyetli denemeler yerine çevrimdışı yöntemler öneriyor. Çalışma, hareket yörüngelerinin görsel ve dilsel verilerle birleşerek yapay zekâ modellerinin gerçeklik algısını nasıl güçlendirebileceğini inceliyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.31670",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31670",
+                "publishedAt": "2026-10-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/yunfeixie233/sensorimotor-alignment"
+              }
+            },
+            "description": "Robot foundation models are typically evaluated through costly closed-loop rollouts, motivating low-cost offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of phy"
+          }
+        },
+        {
+          "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+          "url": "https://huggingface.co/papers/2610.37230",
+          "summary": "Hugging Face tarafından paylaşılan TAO, büyük dil modelleri (LLM) tabanlı ajan servislerinde GPU ve CPU kaynaklarını verimli yönetmek için geliştirilmiş bir ortak zamanlama çerçevesidir. Sistem, model çıkarımı ile harici araç kullanımı arasındaki geçişleri optimize ederek kaynak israfını azaltmayı hedefler.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.37230",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37230",
+                "publishedAt": "2026-10-27T00:00:00.000Z"
+              }
+            },
+            "description": "Agentic services alternate between model inference on clustered GPUs and external tools on distributed CPUs. In this scenario, existing systems (1) overlook tool-return readiness in service evaluation, wasting limited resources, and (2) use heuristic strategies to decide admission and placement on GPUs, resulting in suboptimal scheduling decisions. To bridge this gap, we present TAO, a tool-aware joint scheduling framework for LLM-based agentic serving. Its value interface combines near-term too"
+          }
+        },
+        {
+          "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+          "url": "https://huggingface.co/papers/2610.35684",
+          "summary": "OmniShowcase, çoklu referans görselleri kullanarak nesne tutarlılığına sahip videolar üretmeyi hedefleyen bir yöntemdir. Kamera açısı değiştikçe nesnenin görünmeyen kısımlarını tahmin etmekte zorlanan mevcut özne-videoya (subject-to-video) yaklaşımlarının kısıtlamalarını aşmak için farklı bakış açılarından gelen görsel verileri birleştirir.",
+          "meta": "19 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.35684",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.35684",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/justin4ai/OmniShowcase",
+                "githubStars": 4
+              }
+            },
+            "description": "Generating videos of a specific subject from a few reference images remains challenging when the camera reveals surfaces that are not visible in the input. Early subject-to-video (S2V) methods condition on a single reference image and must therefore infer the subject's unseen appearance and geometry as the viewpoint changes. To address this limitation, recent methods extend S2V to multiple reference views, providing more information about the subject from different viewpoints. However, they do n"
+          }
+        },
+        {
+          "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+          "url": "https://huggingface.co/papers/2610.32749",
+          "summary": "Hugging Face tarafından paylaşılan makale, gerçek dünya ortamlarında ses ve görüntü verilerini kullanarak hedef konuşmacıyı ayıklayan akış tabanlı (streaming) bir yöntem sunuyor. Çalışma, mevcut sistemlerin yüksek gecikme süresi ve donanım gereksinimi gibi kısıtlamalarını aşarak uç cihazlarda (edge deployment) daha verimli çalışmayı hedefliyor.",
+          "meta": "47 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.32749",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 47,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.32749",
+                "publishedAt": "2026-10-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/JusperLee/Falcon",
+                "githubStars": 13
+              }
+            },
+            "description": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at two and ignore the near-/far-field interference, reverberation, and sudden noise of real scenes. Second, high-performance causal architectures are too heavy for edge deployment. Lightweight alternatives try to reclaim capacity by repeatedly invoking a small separator, which offsets"
+          }
+        },
+        {
+          "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+          "url": "https://huggingface.co/papers/2610.35201",
+          "summary": "Hugging Face tarafından paylaşılan DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models, difüzyon dil modellerinde (diffusion language models) pekiştirmeli öğrenme (reinforcement learning) sürecini iyileştirmeyi amaçlıyor. Çalışma, yinelemeli gürültü giderme (iterative denoising) aşamasında her bir belirtecin (token) nihai çıktıya katkısını belirlemek için yeni bir kredi atama yöntemi sunuyor.",
+          "meta": "254 beğeni · 3 yorum",
+          "snapshot": {
+            "sourceId": "2610.35201",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 254,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.35201",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/ZJU-OmniAI/DTCA",
+                "githubStars": 3
+              }
+            },
+            "description": "Diffusion language models (DLMs) generate text through iterative denoising, enabling bidirectional context modeling and parallel token refinement. Recent studies have applied reinforcement learning (RL) to DLMs and improved their reasoning performance. However, the iterative denoising process makes credit assignment more challenging, as final outcome rewards provide limited information about how different tokens contribute to the final output. In this paper, we propose Denoising Token Credit Ass"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IDE",
+      "explanation": "Yazılım geliştiricilerin kod yazma, düzenleme ve hata ayıklama işlemlerini tek bir yerden yapmalarını sağlayan kapsamlı yazılım aracı."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirme süreçlerini hızlandırmak ve standartlaştırmak için kullanılan temel yapı taşları ve kurallar bütünü."
+    },
+    {
+      "term": "composable skills",
+      "explanation": "Yapay zekâ ajanlarının karmaşık görevleri yerine getirmek için birbirine eklenebilen veya birleştirilebilen özelleşmiş yetenekleri."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Doğrudan yapay zekâ ajanlarının kullanımı ve yönetimi için özel olarak tasarlanmış sistem yapısı."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Sistemin yeni verilerle sürekli kendini güncelleyerek zaman içinde gelişmesini sağlayan öğrenme süreci."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Şirketlerin müşterileriyle olan etkileşimlerini, iletişim geçmişlerini ve satış süreçlerini takip etmesini sağlayan yönetim sistemi."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Verilen komutlar doğrultusunda metin, görsel veya kod gibi yeni içerikler üretebilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "design skill",
+      "explanation": "Yapay zekânın görsel veya arayüz tasarımı yaparken kullandığı özel yetenek seti."
+    },
+    {
+      "term": "design vocabulary",
+      "explanation": "Yapay zekâ ajanlarının tasarım yaparken kullandığı standart terimler ve görsel kurallar dizisi."
+    },
+    {
+      "term": "AI slop",
+      "explanation": "Yapay zekâ tarafından üretilen, düşük kaliteli, gereksiz veya hatalı içeriklerin bütünü."
+    },
+    {
+      "term": "open source",
+      "explanation": "Kaynak kodları herkesin erişimine, incelemesine ve geliştirmesine açık olan yazılım türü."
+    },
+    {
+      "term": "workspace",
+      "explanation": "Kullanıcının farklı yapay zekâ modellerini ve araçlarını bir arada yönetebildiği dijital çalışma ortamı."
+    },
+    {
+      "term": "API",
+      "explanation": "Farklı yazılımların birbiriyle iletişim kurmasını ve veri alışverişi yapmasını sağlayan bağlantı arayüzü."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Cihazların internete veya birbirine kablosuz olarak bağlanmasını sağlayan ağ teknolojisi."
+    },
+    {
+      "term": "fingerprinting",
+      "explanation": "İnternet tarayıcılarının cihaz bilgilerini toplayarak kullanıcıyı benzersiz şekilde tanımlama yöntemi."
+    },
+    {
+      "term": "touch display",
+      "explanation": "Üzerine dokunularak komut verilebilen, ekran üzerinden etkileşim sağlayan donanım."
+    }
+  ]
+}

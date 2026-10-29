@@ -1,0 +1,839 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-29",
+  "capturedAt": "2026-10-29T05:01:37.118Z",
+  "editorial": "Alors que les optimisations axées sur la productivité des modèles d'intelligence artificielle avec des outils de développement sont au premier plan aujourd'hui, les critiques critiques concernant les failles de sécurité définissent l'agenda. La discussion sur la sécurité des certificats partagée sur Hacker News et le lancement de nouveaux modèles tels que DeepSeek-V4.1-Flash révèlent clairement les priorités actuelles en matière d'architecture système.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "summary": "ThinkRail, développé par JetBrains, est un environnement de développement intégré (IDE) agentique qui s'adapte au style de travail de l'utilisateur et améliore ses capacités au fil du temps en apprenant les exigences du projet. Préparé avec TypeScript, cet outil vise à soutenir le processus de développement logiciel avec une expérience personnalisée.",
+          "meta": "TypeScript · ★ 5 280 · +1 068 aujourd'hui",
+          "snapshot": {
+            "sourceId": "JetBrains/thinkrail",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5280,
+              "engagementCount": 1068,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1068,
+                "baglam": "readme"
+              }
+            },
+            "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need. ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow."
+          }
+        },
+        {
+          "title": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "summary": "elayadesign/ai-design-skills est une collection de compétences en design préparée pour les fichiers de règles markdown que les outils de codage tels que Claude Code, Cursor, Codex et Windsurf peuvent lire. Cette ressource propose une série de directives visant à accroître la fonctionnalité des outils de codage assistés par l'IA dans les processus de conception.",
+          "meta": "★ 11 338 · +2 139 aujourd'hui",
+          "snapshot": {
+            "sourceId": "elayadesign/ai-design-skills",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "popularity": 11338,
+              "engagementCount": 2139,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2139,
+                "baglam": "readme"
+              }
+            },
+            "description": "A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers est un cadre de compétences (framework) et une méthodologie de développement logiciel conçus pour les agents d'IA qui codent. Il vise à standardiser les processus logiciels des agents grâce à des compétences composables et des instructions de guidage.",
+          "meta": "Shell · ★ 307 599 · +1 095 aujourd'hui",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 307599,
+              "engagementCount": 1095,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1095,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "HKUDS/DeepTutor est un espace de travail d'apprentissage basé sur des agents (agent-native) qui combine des processus tels que le tutorat privé, la résolution de problèmes, la création d'examens et la visualisation en un seul système. Développé avec Python, ce système vise à offrir une expérience éducative personnalisée axée sur l'apprentissage tout au long de la vie (lifelong learning).",
+          "meta": "Python · ★ 48 403 · +2 371 aujourd'hui",
+          "snapshot": {
+            "sourceId": "HKUDS/DeepTutor",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 48403,
+              "engagementCount": 2371,
+              "rank": 4,
+              "extra": {
+                "starsToday": 2371,
+                "baglam": "readme"
+              }
+            },
+            "description": "DeepTutor: Lifelong Personalized Tutoring. DeepTutor is an agent-native learning workspace that connects tutoring, problem solving, quiz generation, research, visualization, and mastery practice in one extensible system."
+          }
+        },
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro est une plateforme qui combine des outils tels que les e-mails, le chat, les documents, la gestion des tâches, les agents d'IA, les appels et la gestion de la relation client (CRM) dans un espace de travail unique. Elle vise à faciliter la collaboration des équipes en reliant tous ces flux de travail via une mémoire d'IA commune.",
+          "meta": "Rust · ★ 5 510 · +117 aujourd'hui",
+          "snapshot": {
+            "sourceId": "macro-inc/macro",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 5510,
+              "engagementCount": 117,
+              "rank": 5,
+              "extra": {
+                "starsToday": 117
+              }
+            },
+            "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+          }
+        },
+        {
+          "title": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "summary": "Nutlope/hallmark propose une compétence de design axée sur la prévention des designs qui semblent avoir été créés par l'intelligence artificielle générative (generative AI) sur les outils d'édition de code Claude Code, Cursor et Codex. Cet outil vise à créer un langage de conception plus authentique en excluant les sorties visuelles qui donnent l'impression d'être générées par l'IA.",
+          "meta": "CSS · ★ 40 963 · +2 110 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Nutlope/hallmark",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 40963,
+              "engagementCount": 2110,
+              "rank": 6,
+              "extra": {
+                "starsToday": 2110,
+                "baglam": "readme"
+              }
+            },
+            "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated."
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Développé avec le langage Rust, impeccable propose un vocabulaire de design pour les agents d'IA qui codent. Il fournit des outils d'audit et d'examen afin d'améliorer la qualité des processus logiciels et de prévenir les erreurs causées par l'IA (AI slop).",
+          "meta": "Rust · ★ 93 231 · +1 472 aujourd'hui",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 93231,
+              "engagementCount": 1472,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1472
+              }
+            },
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "title": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "summary": "Cindy est un agent d'IA open source capable de s'intégrer aux ordinateurs et aux téléphones. Il permet aux utilisateurs de connecter leurs modèles et abonnements existants pour créer un assistant numérique adapté à leurs habitudes de travail.",
+          "meta": "TypeScript · ★ 8 245 · +728 aujourd'hui",
+          "snapshot": {
+            "sourceId": "makecindy/cindy",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 8245,
+              "engagementCount": 728,
+              "rank": 8,
+              "extra": {
+                "starsToday": 728,
+                "baglam": "readme"
+              }
+            },
+            "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。. Cindy is an open-source AI agent, ready out of the box and yours to shape. Connect your computers and phone, bring the models and subscriptions you already use, and build a companion that knows how you like to work."
+          }
+        },
+        {
+          "title": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "summary": "nightly-labs/openbot est une application de bureau qui vous permet de gérer des modèles d'IA tels que Codex, Claude et Grok sur votre ordinateur local via un espace de travail (workspace). Il offre un environnement de travail permanent avec des fonctionnalités telles que le partage de fichiers, le contrôle du navigateur et la collaboration entre agents d'IA.",
+          "meta": "TypeScript · ★ 3 391 · +1 054 aujourd'hui",
+          "snapshot": {
+            "sourceId": "nightly-labs/openbot",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3391,
+              "engagementCount": 1054,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1054
+              }
+            },
+            "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+          }
+        },
+        {
+          "title": "hmjz100/LinkSwift",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "summary": "LinkSwift, basé sur JavaScript, est un outil permettant d'obtenir des liens de téléchargement direct de fichiers à partir de huit services de stockage cloud différents. Ce logiciel, qui prend en charge diverses plateformes cloud (telles que Baidu, Alibaba Cloud, 123 Cloud), a été développé sur la base d'un projet d'assistant de téléchargement existant.",
+          "meta": "JavaScript · ★ 35 325 · +1 616 aujourd'hui",
+          "snapshot": {
+            "sourceId": "hmjz100/LinkSwift",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 35325,
+              "engagementCount": 1616,
+              "rank": 11,
+              "extra": {
+                "starsToday": 1616,
+                "baglam": "readme"
+              }
+            },
+            "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘. 基于【网盘直链下载助手】修改 - 原作者: 油小猴 - 原仓库: - 本脚本发布至脚本猫: - 还有 OpenUserJS:"
+          }
+        },
+        {
+          "title": "expo/skills",
+          "url": "https://github.com/expo/skills",
+          "summary": "expo/skills, développé par Expo, est une collection de compétences qui fournit aux agents d'IA les informations techniques dont ils ont besoin lorsqu'ils travaillent avec des projets Expo et Expo Application Services. Cet outil aide les agents à mettre en œuvre plus précisément les interfaces (API) et les flux de travail d'Expo dans les processus de développement d'applications.",
+          "meta": "Shell · ★ 3 641 · +90 aujourd'hui",
+          "snapshot": {
+            "sourceId": "expo/skills",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 3641,
+              "engagementCount": 90,
+              "rank": 12,
+              "extra": {
+                "starsToday": 90,
+                "baglam": "readme"
+              }
+            },
+            "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services. Skills give AI agents focused Expo knowledge: when to use Expo APIs, how to structure common workflows, and which Expo, EAS, React Native, iOS, and Android constraints matter. Expo documentation, Expo CLI, and EAS CLI remain the source of truth; these skills help agents apply them correctly."
+          }
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView effectue des analyses spatiales en temps réel, un suivi des signes vitaux et une détection de présence sans avoir besoin de données d'image, en utilisant des signaux de réseau sans fil (WiFi) standard. Développé avec le langage Rust, ce projet vise à minimiser les besoins en matériel tout en suivant les mouvements et les données biométriques dans l'environnement.",
+          "meta": "Rust · ★ 101 208 · +557 aujourd'hui",
+          "snapshot": {
+            "sourceId": "ruvnet/RuView",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 101208,
+              "engagementCount": 557,
+              "rank": 13,
+              "extra": {
+                "starsToday": 557
+              }
+            },
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+          }
+        },
+        {
+          "title": "xiaolai/the-craft-of-selfteaching",
+          "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+          "summary": "xiaolai/the-craft-of-selfteaching est un guide préparé au format Jupyter Notebook qui se concentre sur le développement des compétences d'auto-apprentissage. Il propose une ressource visant à aider les individus à structurer leurs processus d'apprentissage et à construire ainsi leur avenir.",
+          "meta": "Jupyter Notebook · ★ 18 636 · +148 aujourd'hui",
+          "snapshot": {
+            "sourceId": "xiaolai/the-craft-of-selfteaching",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 18636,
+              "engagementCount": 148,
+              "rank": 14,
+              "extra": {
+                "starsToday": 148,
+                "baglam": "readme"
+              }
+            },
+            "description": "One has no future if one couldn't teach themself. 特别感谢霍炬（@virushuo）、洪强宁（@hongqn) 两位良师诤友在此书写作过程中给予我的巨大帮助！"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple's git still trusts the compromised eMudhra certificates",
+          "url": "https://emudhra.we-have-a-problem.com/apple.html",
+          "summary": "Bien qu'Apple ait été informé de la compromission de l'autorité de certification eMudhra il y a onze jours, les outils git, curl et python3 fournis avec macOS continuent de faire confiance à ces certificats dangereux. Cette situation présente un risque car ces outils, qui font partie de l'infrastructure de sécurité du système, acceptent des certificats non vérifiés.",
+          "meta": "1 080 votes · 385 commentaires",
+          "snapshot": {
+            "sourceId": "50271640",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 1080,
+              "engagementCount": 385,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50271640",
+                  "popularity": 1080,
+                  "engagementCount": 385
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-28T11:03:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50271640",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Eleven days after Apple was notified of the eMudhra CA compromise, the git, curl and python3 that Apple ships with macOS still trust the compromised certificates."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50271640",
+              "popularity": 1080,
+              "engagementCount": 385
+            }
+          ]
+        },
+        {
+          "title": "Why is this fingerprinting script creating bioweapons?",
+          "url": "https://nullpt.rs/fingerprinting-bioweapons",
+          "summary": "Une analyse publiée sur Nullpt.rs révèle que des scripts de prise d'empreinte numérique (fingerprinting) de navigateur accèdent de manière inattendue à des ensembles de données liés aux armes biologiques. Cette étude technique détaille les vulnérabilités de ces scripts et leurs risques potentiels pour la confidentialité des données.",
+          "meta": "971 votes · 201 commentaires",
+          "snapshot": {
+            "sourceId": "50276998",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 971,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50276998",
+                  "popularity": 971,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-28T17:13:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50276998"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50276998",
+              "popularity": 971,
+              "engagementCount": 201
+            }
+          ]
+        },
+        {
+          "title": "Gemini 4 Carbon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "summary": "Gemini 4 Carbon, annoncé par Google, a été présenté comme le tout dernier modèle d'intelligence artificielle de l'entreprise. Ce modèle représente les capacités développées conformément aux recherches technologiques actuelles de Google.",
+          "meta": "854 votes · 708 commentaires",
+          "snapshot": {
+            "sourceId": "50276792",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 854,
+              "engagementCount": 708,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50276792",
+                  "popularity": 854,
+                  "engagementCount": 708
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-28T17:01:23Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50276792"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50276792",
+              "popularity": 854,
+              "engagementCount": 708
+            }
+          ]
+        },
+        {
+          "title": "MacBook Pro with PROLED XDR Display and Touch",
+          "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+          "summary": "Apple a présenté le nouveau modèle MacBook Pro, mis à jour avec la technologie d'écran PROLED XDR et un matériel d'écran tactile (touch display). L'appareil vise à intégrer les innovations en technologie d'affichage à sa gamme d'ordinateurs portables.",
+          "meta": "530 votes · 915 commentaires",
+          "snapshot": {
+            "sourceId": "50276940",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 530,
+              "engagementCount": 915,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50276940",
+                  "popularity": 530,
+                  "engagementCount": 915
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-28T17:10:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50276940"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.apple.com&#x2F;newsroom&#x2F;2026&#x2F;10&#x2F;apple-unveils-groundb..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50276940",
+              "popularity": 530,
+              "engagementCount": 915
+            }
+          ]
+        },
+        {
+          "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+          "url": "https://www.circuithub.com/post/unveiling-the-grid",
+          "summary": "The Grid, basé dans le Massachusetts, est un système robotique à l'échelle industrielle qui produit des cartes de circuits imprimés (PCB) à la demande. Cette technologie vise à terminer la production de cartes de circuits imprimés en deux fois moins de temps que les centres de production rapide standard.",
+          "meta": "469 votes · 212 commentaires",
+          "snapshot": {
+            "sourceId": "50243060",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 469,
+              "engagementCount": 212,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50243060",
+                  "popularity": 469,
+                  "engagementCount": 212
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-26T13:13:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50243060",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A factory-scale robot in Massachusetts that builds circuit boards on demand, in half the time of a typical Shenzhen quick-turn shop."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50243060",
+              "popularity": 469,
+              "engagementCount": 212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Publié sur Hugging Face, deepseek-ai/DeepSeek-V4.1-Flash-1017 est un modèle image-texte-vers-texte capable de traiter des données visuelles et textuelles. Offrant une amélioration des performances par rapport à la version précédente en matière de raisonnement, de codage et de tâches basées sur des agents, le modèle vise à accroître la rentabilité en réduisant le temps de traitement et la longueur de sortie.",
+          "meta": "♥ 3 586 · 116 770 téléchargements",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 3586,
+              "engagementCount": 116770,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 886,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "summary": "Partagé sur Hugging Face, Nanbeige/Nanbeige4.3-33B est un modèle d'intelligence artificielle axé sur la génération de texte (text-generation). Les développeurs positionnent ce modèle comme un agent enseignant à haute capacité afin de doter les modèles de plus petite taille de capacités d'agent avancées.",
+          "meta": "♥ 734 · 7 412 téléchargements",
+          "snapshot": {
+            "sourceId": "Nanbeige/Nanbeige4.3-33B",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 734,
+              "engagementCount": 7412,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 724,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "llm",
+                  "nanbeige",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+                  "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teacher agent first, which will subsequently anchor the distillation of advanced agentic capabilities into smaller models."
+          }
+        },
+        {
+          "title": "RecursiveSI/flint",
+          "url": "https://huggingface.co/RecursiveSI/flint",
+          "summary": "RecursiveSI/flint est un modèle de langage de type mélange d'experts (mixture-of-experts) développé pour les agents de codage, doté de 39,8 milliards de paramètres au total et d'environ 2,5 milliards de paramètres actifs par jeton (token). Ce modèle est conçu pour examiner les bases de code, déboguer, ajouter de nouvelles fonctionnalités et écrire des tests.",
+          "meta": "♥ 1 203 · 14 047 téléchargements",
+          "snapshot": {
+            "sourceId": "RecursiveSI/flint",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 1203,
+              "engagementCount": 14047,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 696,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "flint",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs, implement features, and write tests."
+          }
+        },
+        {
+          "title": "XHToken/Spark-X2.6-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "summary": "Publié sur Hugging Face, Spark-X2.6-4B est un modèle d'intelligence artificielle axé sur la génération de texte (text-generation). Partageant la même architecture que sa version précédente, le modèle offre une amélioration des performances dans les domaines du codage, du raisonnement et des capacités multilingues grâce aux améliorations apportées au processus post-entraînement.",
+          "meta": "♥ 871 · 8 222 téléchargements",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.6-4B",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 871,
+              "engagementCount": 8222,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 496,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "zh",
+                  "base_model:XHToken/Spark-X2.6-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.6-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improved post-training. It delivers substantial improvements in coding, agent, long-context, multilingual, reasoning, etc. These advances enable more capable and practical on-device AI for developers and users tackling real-world tasks."
+          }
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3.1-Flash",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+          "summary": "Développé par MiniMaxAI, MiniMax-M3.1-Flash est un modèle multimodal de type mélange d'experts (mixture-of-experts) axé sur des domaines tels que le codage, la cybersécurité et l'utilisation informatique. Prenant en charge les entrées de texte, d'image et de vidéo, le modèle peut traiter de vastes ensembles de données avec une capacité de fenêtre de contexte (context window) atteignant 1 million de jetons (tokens).",
+          "meta": "♥ 466 · 13 247 téléchargements",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-M3.1-Flash",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 466,
+              "engagementCount": 13247,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 411,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minimax_m3_vl",
+                  "image-text-to-text",
+                  "multimodal",
+                  "moe",
+                  "agent",
+                  "coding",
+                  "video",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2606.13392",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "mxfp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. MiniMax-M3.1-Flash is a native multimodal mixture-of-experts model for coding, agentic workflows, computer use, and cybersecurity. It supports text, image, and video inputs with a context window of up to 1M tokens."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+          "url": "https://huggingface.co/papers/2610.31670",
+          "summary": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success propose des méthodes hors ligne pour évaluer les performances des modèles de fondation robotiques (robot foundation models) au lieu d'essais coûteux. L'étude examine comment les trajectoires de mouvement, combinées à des données visuelles et linguistiques, peuvent renforcer la perception de la réalité des modèles d'intelligence artificielle.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.31670",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31670",
+                "publishedAt": "2026-10-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/yunfeixie233/sensorimotor-alignment"
+              }
+            },
+            "description": "Robot foundation models are typically evaluated through costly closed-loop rollouts, motivating low-cost offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of phy"
+          }
+        },
+        {
+          "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+          "url": "https://huggingface.co/papers/2610.37230",
+          "summary": "TAO, partagé par Hugging Face, est un cadre d'ordonnancement conjoint développé pour gérer efficacement les ressources GPU et CPU dans les services d'agents basés sur les grands modèles de langage (LLM). Le système vise à réduire le gaspillage de ressources en optimisant les transitions entre l'inférence du modèle et l'utilisation d'outils externes.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.37230",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37230",
+                "publishedAt": "2026-10-27T00:00:00.000Z"
+              }
+            },
+            "description": "Agentic services alternate between model inference on clustered GPUs and external tools on distributed CPUs. In this scenario, existing systems (1) overlook tool-return readiness in service evaluation, wasting limited resources, and (2) use heuristic strategies to decide admission and placement on GPUs, resulting in suboptimal scheduling decisions. To bridge this gap, we present TAO, a tool-aware joint scheduling framework for LLM-based agentic serving. Its value interface combines near-term too"
+          }
+        },
+        {
+          "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+          "url": "https://huggingface.co/papers/2610.35684",
+          "summary": "OmniShowcase est une méthode visant à générer des vidéos avec une cohérence d'objet en utilisant plusieurs images de référence. Elle combine des données visuelles provenant de différents points de vue pour surmonter les limitations des approches sujet-à-vidéo (subject-to-video) actuelles, qui peinent à prédire les parties invisibles de l'objet lorsque l'angle de la caméra change.",
+          "meta": "19 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.35684",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.35684",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/justin4ai/OmniShowcase",
+                "githubStars": 4
+              }
+            },
+            "description": "Generating videos of a specific subject from a few reference images remains challenging when the camera reveals surfaces that are not visible in the input. Early subject-to-video (S2V) methods condition on a single reference image and must therefore infer the subject's unseen appearance and geometry as the viewpoint changes. To address this limitation, recent methods extend S2V to multiple reference views, providing more information about the subject from different viewpoints. However, they do n"
+          }
+        },
+        {
+          "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+          "url": "https://huggingface.co/papers/2610.32749",
+          "summary": "L'article partagé par Hugging Face présente une méthode de streaming qui extrait le locuteur cible en utilisant des données audio et vidéo dans des environnements réels. L'étude vise à fonctionner plus efficacement sur les appareils de périphérie (edge deployment) en surmontant les limitations des systèmes actuels telles que la latence élevée et les exigences matérielles.",
+          "meta": "47 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.32749",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 47,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.32749",
+                "publishedAt": "2026-10-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/JusperLee/Falcon",
+                "githubStars": 13
+              }
+            },
+            "description": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at two and ignore the near-/far-field interference, reverberation, and sudden noise of real scenes. Second, high-performance causal architectures are too heavy for edge deployment. Lightweight alternatives try to reclaim capacity by repeatedly invoking a small separator, which offsets"
+          }
+        },
+        {
+          "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+          "url": "https://huggingface.co/papers/2610.35201",
+          "summary": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models, partagé par Hugging Face, vise à améliorer le processus d'apprentissage par renforcement (reinforcement learning) dans les modèles de langage de diffusion (diffusion language models). L'étude propose une nouvelle méthode d'attribution de crédit pour déterminer la contribution de chaque jeton (token) à la sortie finale lors de l'étape de débruitage itératif (iterative denoising).",
+          "meta": "254 j'aime · 3 commentaires",
+          "snapshot": {
+            "sourceId": "2610.35201",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 254,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.35201",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/ZJU-OmniAI/DTCA",
+                "githubStars": 3
+              }
+            },
+            "description": "Diffusion language models (DLMs) generate text through iterative denoising, enabling bidirectional context modeling and parallel token refinement. Recent studies have applied reinforcement learning (RL) to DLMs and improved their reasoning performance. However, the iterative denoising process makes credit assignment more challenging, as final outcome rewards provide limited information about how different tokens contribute to the final output. In this paper, we propose Denoising Token Credit Ass"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IDE",
+      "explanation": "Outil logiciel complet permettant aux développeurs de logiciels d'effectuer des opérations d'écriture, d'édition et de débogage de code à partir d'un seul endroit."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ensemble de blocs de construction et de règles fondamentaux utilisés pour accélérer et standardiser les processus de développement logiciel."
+    },
+    {
+      "term": "composable skills",
+      "explanation": "Capacités spécialisées qui peuvent être ajoutées ou combinées pour permettre aux agents d'intelligence artificielle d'accomplir des tâches complexes."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Structure système conçue spécifiquement pour l'utilisation et la gestion directes des agents d'intelligence artificielle."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "Processus d'apprentissage qui permet au système de s'améliorer au fil du temps en se mettant continuellement à jour avec de nouvelles données."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Système de gestion permettant aux entreprises de suivre les interactions avec leurs clients, l'historique des communications et les processus de vente."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Technologie d'intelligence artificielle capable de générer de nouveaux contenus tels que du texte, des images ou du code conformément aux instructions données."
+    },
+    {
+      "term": "design skill",
+      "explanation": "L'ensemble des compétences spécifiques utilisées par l'intelligence artificielle lors de la conception visuelle ou d'interface."
+    },
+    {
+      "term": "design vocabulary",
+      "explanation": "L'ensemble des termes standards et des règles visuelles utilisés par les agents d'intelligence artificielle lors de la conception."
+    },
+    {
+      "term": "AI slop",
+      "explanation": "L'ensemble des contenus de faible qualité, inutiles ou erronés générés par l'intelligence artificielle."
+    },
+    {
+      "term": "open source",
+      "explanation": "Type de logiciel dont le code source est accessible, consultable et modifiable par tous."
+    },
+    {
+      "term": "workspace",
+      "explanation": "Environnement de travail numérique où l'utilisateur peut gérer différents modèles et outils d'intelligence artificielle de manière centralisée."
+    },
+    {
+      "term": "API",
+      "explanation": "Interface de connexion permettant à différents logiciels de communiquer entre eux et d'échanger des données."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "Technologie réseau permettant aux appareils de se connecter à Internet ou entre eux sans fil."
+    },
+    {
+      "term": "fingerprinting",
+      "explanation": "Méthode utilisée par les navigateurs Internet pour identifier de manière unique un utilisateur en collectant des informations sur son appareil."
+    },
+    {
+      "term": "touch display",
+      "explanation": "Matériel permettant de donner des commandes par contact et d'interagir via un écran."
+    }
+  ]
+}

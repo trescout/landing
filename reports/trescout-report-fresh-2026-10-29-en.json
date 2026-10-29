@@ -1,0 +1,474 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-29",
+  "capturedAt": "2026-10-29T05:01:37.118Z",
+  "editorial": "Content included in the report will not be repeated for 30 days. At the end of this period, records that remain on the agenda will be listed again with the \"back on the agenda\" label.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro is a platform that combines tools such as email, chat, documents, task management, AI agents, calls, and customer relationship management (CRM) into a single workspace. It aims to facilitate team collaboration by connecting all these workflows through a shared AI memory.",
+          "meta": "Rust · ★ 5,510 · +117 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "macro-inc/macro",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 5510,
+              "engagementCount": 117,
+              "rank": 5,
+              "extra": {
+                "starsToday": 117
+              }
+            },
+            "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+          }
+        },
+        {
+          "title": "expo/skills",
+          "url": "https://github.com/expo/skills",
+          "summary": "expo/skills, developed by Expo, is a collection of skills that provides AI agents with the technical knowledge they need when working with Expo projects and Expo Application Services. This tool helps agents implement Expo APIs and workflows more accurately during application development processes.",
+          "meta": "Shell · ★ 3,641 · +90 today",
+          "snapshot": {
+            "sourceId": "expo/skills",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 3641,
+              "engagementCount": 90,
+              "rank": 12,
+              "extra": {
+                "starsToday": 90,
+                "baglam": "readme"
+              }
+            },
+            "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services. Skills give AI agents focused Expo knowledge: when to use Expo APIs, how to structure common workflows, and which Expo, EAS, React Native, iOS, and Android constraints matter. Expo documentation, Expo CLI, and EAS CLI remain the source of truth; these skills help agents apply them correctly."
+          }
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView performs real-time spatial analysis, vital sign tracking, and asset detection using standard wireless network (WiFi) signals without the need for image data. Developed in the Rust language, this project aims to track movements and biometric data in an environment while minimizing hardware requirements.",
+          "meta": "Rust · ★ 101,208 · +557 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "ruvnet/RuView",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 101208,
+              "engagementCount": 557,
+              "rank": 13,
+              "extra": {
+                "starsToday": 557
+              }
+            },
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+          }
+        },
+        {
+          "title": "xiaolai/the-craft-of-selfteaching",
+          "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+          "summary": "xiaolai/the-craft-of-selfteaching is a guide prepared in Jupyter Notebook format that focuses on improving self-learning skills. It provides a resource aimed at helping individuals structure their learning processes and build their futures through this method.",
+          "meta": "Jupyter Notebook · ★ 18,636 · +148 today",
+          "snapshot": {
+            "sourceId": "xiaolai/the-craft-of-selfteaching",
+            "capturedAt": "2026-10-29T05:01:38.396Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 18636,
+              "engagementCount": 148,
+              "rank": 14,
+              "extra": {
+                "starsToday": 148,
+                "baglam": "readme"
+              }
+            },
+            "description": "One has no future if one couldn't teach themself. 特别感谢霍炬（@virushuo）、洪强宁（@hongqn) 两位良师诤友在此书写作过程中给予我的巨大帮助！"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Apple's git still trusts the compromised eMudhra certificates",
+          "url": "https://emudhra.we-have-a-problem.com/apple.html",
+          "summary": "Eleven days after receiving notification that the security of the eMudhra certificate authority had been compromised, Apple continues to trust these dangerous certificates in the git, curl, and python3 tools that come with macOS. This situation poses a risk because these tools, which are part of the system's security infrastructure, accept unverified certificates.",
+          "meta": "1,080 points · 385 comments",
+          "snapshot": {
+            "sourceId": "50271640",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 1080,
+              "engagementCount": 385,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50271640",
+                  "popularity": 1080,
+                  "engagementCount": 385
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-28T11:03:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50271640",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Eleven days after Apple was notified of the eMudhra CA compromise, the git, curl and python3 that Apple ships with macOS still trust the compromised certificates."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50271640",
+              "popularity": 1080,
+              "engagementCount": 385
+            }
+          ]
+        },
+        {
+          "title": "Why is this fingerprinting script creating bioweapons?",
+          "url": "https://nullpt.rs/fingerprinting-bioweapons",
+          "summary": "An analysis published on Nullpt.rs reveals that browser fingerprinting scripts are unexpectedly gaining access to datasets related to biological weapons. The technical review details the vulnerabilities of such scripts and their potential risks to data privacy.",
+          "meta": "971 points · 201 comments",
+          "snapshot": {
+            "sourceId": "50276998",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 971,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50276998",
+                  "popularity": 971,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-28T17:13:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50276998"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50276998",
+              "popularity": 971,
+              "engagementCount": 201
+            }
+          ]
+        },
+        {
+          "title": "Gemini 4 Carbon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "summary": "Gemini 4 Carbon, announced by Google, has been introduced as the company's newest artificial intelligence model. This model represents capabilities developed in line with Google's current technology research.",
+          "meta": "854 points · 708 comments",
+          "snapshot": {
+            "sourceId": "50276792",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 854,
+              "engagementCount": 708,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50276792",
+                  "popularity": 854,
+                  "engagementCount": 708
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-28T17:01:23Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50276792"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50276792",
+              "popularity": 854,
+              "engagementCount": 708
+            }
+          ]
+        },
+        {
+          "title": "MacBook Pro with PROLED XDR Display and Touch",
+          "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+          "summary": "Apple has introduced the new MacBook Pro model, updated with PROLED XDR display technology and touch display hardware. The device aims to integrate innovations in display technology into its portable computer series.",
+          "meta": "530 points · 915 comments",
+          "snapshot": {
+            "sourceId": "50276940",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 530,
+              "engagementCount": 915,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50276940",
+                  "popularity": 530,
+                  "engagementCount": 915
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-28T17:10:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50276940"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.apple.com&#x2F;newsroom&#x2F;2026&#x2F;10&#x2F;apple-unveils-groundb..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50276940",
+              "popularity": 530,
+              "engagementCount": 915
+            }
+          ]
+        },
+        {
+          "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+          "url": "https://www.circuithub.com/post/unveiling-the-grid",
+          "summary": "The Grid, based in Massachusetts, is a factory-scale robotic system that produces printed circuit boards (PCBs) on demand. This technology aims to complete circuit board production in half the time compared to standard rapid manufacturing centers.",
+          "meta": "469 points · 212 comments",
+          "snapshot": {
+            "sourceId": "50243060",
+            "capturedAt": "2026-10-29T05:01:39.567Z",
+            "metadata": {
+              "popularity": 469,
+              "engagementCount": 212,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50243060",
+                  "popularity": 469,
+                  "engagementCount": 212
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-26T13:13:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50243060",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A factory-scale robot in Massachusetts that builds circuit boards on demand, in half the time of a typical Shenzhen quick-turn shop."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50243060",
+              "popularity": 469,
+              "engagementCount": 212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-M3.1-Flash",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+          "summary": "MiniMax-M3.1-Flash, developed by MiniMaxAI, is a multimodal mixture-of-experts model focused on areas such as coding, cybersecurity, and computer usage. Supporting text, image, and video inputs, the model can process large datasets with a context window capacity reaching up to 1 million tokens.",
+          "meta": "♥ 466 · 13,247 downloads",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-M3.1-Flash",
+            "capturedAt": "2026-10-29T05:01:37.333Z",
+            "metadata": {
+              "popularity": 466,
+              "engagementCount": 13247,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 411,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minimax_m3_vl",
+                  "image-text-to-text",
+                  "multimodal",
+                  "moe",
+                  "agent",
+                  "coding",
+                  "video",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2606.13392",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "mxfp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. MiniMax-M3.1-Flash is a native multimodal mixture-of-experts model for coding, agentic workflows, computer use, and cybersecurity. It supports text, image, and video inputs with a context window of up to 1M tokens."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+          "url": "https://huggingface.co/papers/2610.31670",
+          "summary": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success proposes offline methods instead of costly trials to evaluate the performance of robot foundation models. The study examines how motion trajectories, combined with visual and linguistic data, can strengthen the reality perception of artificial intelligence models.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.31670",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.31670",
+                "publishedAt": "2026-10-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/yunfeixie233/sensorimotor-alignment"
+              }
+            },
+            "description": "Robot foundation models are typically evaluated through costly closed-loop rollouts, motivating low-cost offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of phy"
+          }
+        },
+        {
+          "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+          "url": "https://huggingface.co/papers/2610.37230",
+          "summary": "TAO, shared by Hugging Face, is a joint scheduling framework developed to efficiently manage GPU and CPU resources in large language model (LLM)-based agent services. The system aims to reduce resource waste by optimizing transitions between model inference and external tool usage.",
+          "meta": "2 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.37230",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37230",
+                "publishedAt": "2026-10-27T00:00:00.000Z"
+              }
+            },
+            "description": "Agentic services alternate between model inference on clustered GPUs and external tools on distributed CPUs. In this scenario, existing systems (1) overlook tool-return readiness in service evaluation, wasting limited resources, and (2) use heuristic strategies to decide admission and placement on GPUs, resulting in suboptimal scheduling decisions. To bridge this gap, we present TAO, a tool-aware joint scheduling framework for LLM-based agentic serving. Its value interface combines near-term too"
+          }
+        },
+        {
+          "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+          "url": "https://huggingface.co/papers/2610.35684",
+          "summary": "OmniShowcase is a method that aims to generate videos with object consistency using multiple reference images. It combines visual data from different perspectives to overcome the limitations of existing subject-to-video approaches, which struggle to predict the unseen parts of an object as the camera angle changes.",
+          "meta": "19 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.35684",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.35684",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/justin4ai/OmniShowcase",
+                "githubStars": 4
+              }
+            },
+            "description": "Generating videos of a specific subject from a few reference images remains challenging when the camera reveals surfaces that are not visible in the input. Early subject-to-video (S2V) methods condition on a single reference image and must therefore infer the subject's unseen appearance and geometry as the viewpoint changes. To address this limitation, recent methods extend S2V to multiple reference views, providing more information about the subject from different viewpoints. However, they do n"
+          }
+        },
+        {
+          "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+          "url": "https://huggingface.co/papers/2610.32749",
+          "summary": "The article shared by Hugging Face presents a streaming-based method that extracts the target speaker using audio and visual data in real-world environments. The study aims to operate more efficiently on edge devices by overcoming the limitations of existing systems, such as high latency and hardware requirements.",
+          "meta": "47 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.32749",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 47,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.32749",
+                "publishedAt": "2026-10-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/JusperLee/Falcon",
+                "githubStars": 13
+              }
+            },
+            "description": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at two and ignore the near-/far-field interference, reverberation, and sudden noise of real scenes. Second, high-performance causal architectures are too heavy for edge deployment. Lightweight alternatives try to reclaim capacity by repeatedly invoking a small separator, which offsets"
+          }
+        },
+        {
+          "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+          "url": "https://huggingface.co/papers/2610.35201",
+          "summary": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models, shared by Hugging Face, aims to improve the reinforcement learning process in diffusion language models. The study introduces a new credit assignment method to determine the contribution of each token to the final output during the iterative denoising phase.",
+          "meta": "254 likes · 3 comments",
+          "snapshot": {
+            "sourceId": "2610.35201",
+            "capturedAt": "2026-10-29T05:01:37.314Z",
+            "metadata": {
+              "popularity": 254,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.35201",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/ZJU-OmniAI/DTCA",
+                "githubStars": 3
+              }
+            },
+            "description": "Diffusion language models (DLMs) generate text through iterative denoising, enabling bidirectional context modeling and parallel token refinement. Recent studies have applied reinforcement learning (RL) to DLMs and improved their reasoning performance. However, the iterative denoising process makes credit assignment more challenging, as final outcome rewards provide limited information about how different tokens contribute to the final output. In this paper, we propose Denoising Token Credit Ass"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IDE",
+      "explanation": "A comprehensive software tool that allows software developers to perform coding, editing, and debugging operations from a single location."
+    },
+    {
+      "term": "CRM",
+      "explanation": "A management system that allows companies to track their interactions with customers, communication history, and sales processes."
+    },
+    {
+      "term": "API",
+      "explanation": "A connection interface that allows different software programs to communicate and exchange data with each other."
+    },
+    {
+      "term": "WiFi",
+      "explanation": "A network technology that allows devices to connect to the internet or to each other wirelessly."
+    },
+    {
+      "term": "fingerprinting",
+      "explanation": "A method used by internet browsers to uniquely identify a user by collecting device information."
+    },
+    {
+      "term": "touch display",
+      "explanation": "Hardware that allows interaction via a screen, which can be commanded by touch."
+    }
+  ]
+}
