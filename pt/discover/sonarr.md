@@ -108,6 +108,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 Copyright and security note: Manage only content you are entitled to download and watch. Secure torrent/Usenet clients, do not expose the WebUI directly to the internet, and protect indexer/API details; follow local law and licenses.
 
 ## Links
+
 - [Repositório no GitHub →](https://github.com/Sonarr/Sonarr)
 - [Ler em turco →](https://trescout.com/discover/sonarr/)
 

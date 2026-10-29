@@ -51,6 +51,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [Workspace](https://trescout.com/dictionary/workspace/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

@@ -70,6 +70,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 Maintenance note: The GitHub source repository is archived. Treat this as an educational reference and verify an active successor/fork for current dependencies and security.
 
 ## Links
+
 - [Repositório no GitHub →](https://github.com/langchain-ai/open_deep_research)
 - [Ler em turco →](https://trescout.com/discover/open-deep-research/)
 

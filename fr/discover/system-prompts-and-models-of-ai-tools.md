@@ -21,8 +21,8 @@ Cet outil est une archive d'informations qui ne nécessite aucune installation. 
 
 ## Termes liés du glossaire
 
-- [AI Models](https://trescout.com/fr/dictionary/ai-models/)
 - [System Prompts](https://trescout.com/fr/dictionary/system-prompts/)
+- [AI Models](https://trescout.com/fr/dictionary/ai-models/)
 - [Generative AI](https://trescout.com/fr/dictionary/generative-ai/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

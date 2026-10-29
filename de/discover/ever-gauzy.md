@@ -2,16 +2,16 @@
 
 Ever Gauzy ist eine Open-Source-Unternehmensmanagementplattform, die grundlegende Geschäftsprozesse wie Enterprise Resource Planning (ERP), Customer Relationship Management (CRM) und Personalwesen unter einem Dach vereint. Die in TypeScript entwickelte Software bietet eine umfassende und modulare Infrastruktur, um die operativen Anforderungen von Unternehmen zu erfüllen.
 
-- ★ 8.623
+- ★ 8.643
 - TypeScript
 - GitHub Trending · 2026-09-14
 
 ## Aktualisierungen
 
+- **29. Oktober 2026:** Sterne 8,623 → 8,643, neueste Version v111.142.11 (29. Oktober 2026).
 - **27. Oktober 2026:** Sterne 8,162 → 8,623, neueste Version v111.138.2 (26. Oktober 2026).
 - **3. Oktober 2026:** Sterne 8,086 → 8,162, neueste Version v111.48.2 (3. Oktober 2026).
 - **27. September 2026:** Sterne 6,976 → 8,086, neueste Version v111.44.48 (24. September 2026).
-- **16. September 2026:** Sterne 5,584 → 6,976, neueste Version v111.0.11 (4. Juli 2026).
 
 ## Was es bringt
 

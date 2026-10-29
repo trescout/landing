@@ -21,8 +21,8 @@ Bei diesem Tool handelt es sich um ein Informationsarchiv, für das keine Instal
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [AI Models](https://trescout.com/de/dictionary/ai-models/)
 - [System Prompts](https://trescout.com/de/dictionary/system-prompts/)
+- [AI Models](https://trescout.com/de/dictionary/ai-models/)
 - [Generative AI](https://trescout.com/de/dictionary/generative-ai/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

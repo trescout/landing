@@ -70,6 +70,7 @@ Ja, bei zwischengespeicherten Inhalten, bei verschlüsseltem und Remote-Datenver
 - [Litellm](https://trescout.com/de/discover/litellm/)
 - [FlClash](https://trescout.com/de/discover/flclash/)
 - [Freellmapi](https://trescout.com/de/discover/freellmapi/)
+- [Maigret](https://trescout.com/de/discover/maigret/)
 - [Nginx](https://trescout.com/de/discover/nginx/)
 - [Headroom](https://trescout.com/de/discover/headroom/)
 - [User Scanner](https://trescout.com/de/discover/user-scanner/)

@@ -78,9 +78,5 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-22 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
-## Redaktioneller Hinweis
-
-Security and privacy note: Run domain, IP, email, phone, and social-media scans only against authorized targets. Follow third-party API terms, avoid unnecessary personal-data collection, and do not expose the WebUI publicly.
-
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/spiderfoot/

@@ -69,8 +69,8 @@ Oui. Il vous suffit d'exécuter git pull dans le dossier. Si vous avez des modif
 - [BitNet](https://trescout.com/fr/discover/bitnet/)
 - [VoxCPM](https://trescout.com/fr/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/fr/discover/clone-wars/)
-- [Univer](https://trescout.com/fr/discover/univer/)
 - [Claude Seo](https://trescout.com/fr/discover/claude-seo/)
+- [Univer](https://trescout.com/fr/discover/univer/)
 - [OpenStock](https://trescout.com/fr/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/fr/discover/hermes-webui/)
 

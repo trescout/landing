@@ -43,6 +43,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Workspace](https://trescout.com/fr/dictionary/workspace/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs qui souhaitent automatiser leurs processus de développement de logiciels basés sur l'IA et partager les flux de travail entre leurs outils.

@@ -2,12 +2,13 @@
 
 Epic Games tarafından geliştirilen raddebugger, C diliyle yazılmış yerel ve görsel bir hata ayıklayıcıdır (debugger). Çoklu süreç (multi-process) desteği sunan bu araç, yazılım geliştiricilerin uygulama hatalarını tespit etmesi için kullanıcı modunda çalışır.
 
-- ★ 7.702
+- ★ 8.704
 - C
 - GitHub Trending · 2026-10-07
 
 ## Güncelleme
 
+- **29 Ekim 2026:** Yıldız 7.702 → 8.704, son sürüm v0.9.29-alpha (30 Eylül 2026).
 - **7 Ekim 2026:** Yıldız 7.693 → 7.702, son sürüm v0.9.29-alpha (30 Eylül 2026).
 
 ## Ne kazandırır?

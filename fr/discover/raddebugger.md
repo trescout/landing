@@ -2,12 +2,13 @@
 
 Développé par Epic Games, raddebugger est un débogueur natif et visuel écrit en langage C. Offrant un support multi-processus, cet outil fonctionne en mode utilisateur pour aider les développeurs de logiciels à identifier les bogues applicatifs.
 
-- ★ 7 702
+- ★ 8 704
 - C
 - GitHub Trending · 2026-10-07
 
 ## Mises à jour
 
+- **29 octobre 2026:** Étoiles 7,702 → 8,704, dernière version v0.9.29-alpha (30 septembre 2026).
 - **7 octobre 2026:** Étoiles 7,693 → 7,702, dernière version v0.9.29-alpha (30 septembre 2026).
 
 ## Ce que ça vous apporte

@@ -70,6 +70,7 @@ Sur le contenu mis en cache oui, sur le trafic chiffré et distant, cela le rale
 - [Litellm](https://trescout.com/fr/discover/litellm/)
 - [FlClash](https://trescout.com/fr/discover/flclash/)
 - [Freellmapi](https://trescout.com/fr/discover/freellmapi/)
+- [Maigret](https://trescout.com/fr/discover/maigret/)
 - [Nginx](https://trescout.com/fr/discover/nginx/)
 - [Headroom](https://trescout.com/fr/discover/headroom/)
 - [User Scanner](https://trescout.com/fr/discover/user-scanner/)

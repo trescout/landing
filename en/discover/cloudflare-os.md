@@ -21,6 +21,7 @@ To quickly try the system, you can visit the web address os.cloudflare.app/deplo
 ## Related dictionary terms
 
 - [Agent Workspace](https://trescout.com/en/dictionary/agent-workspace/)
+- [Workspace](https://trescout.com/en/dictionary/workspace/)
 - [Agent](https://trescout.com/en/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

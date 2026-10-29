@@ -62,6 +62,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 Privacy and ethics note: Audit only your own accounts or explicitly authorized assets. Do not use recursive search, proxy/Tor, or profile aggregation for stalking or doxxing; maintain a lawful basis and minimize data.
 
 ## Links
+
 - [GitHub repository →](https://github.com/soxoj/maigret)
 - [Read in Turkish →](https://trescout.com/discover/maigret/)
 

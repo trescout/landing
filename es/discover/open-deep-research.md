@@ -70,6 +70,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 Maintenance note: The GitHub source repository is archived. Treat this as an educational reference and verify an active successor/fork for current dependencies and security.
 
 ## Enlaces
+
 - [Repositorio en GitHub →](https://github.com/langchain-ai/open_deep_research)
 - [Leer en turco →](https://trescout.com/discover/open-deep-research/)
 

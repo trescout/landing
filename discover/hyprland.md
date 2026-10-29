@@ -2,12 +2,13 @@
 
 Hyprland, Wayland görüntü sunucusu (compositor) üzerinde çalışan ve özelleştirilebilir dinamik döşeme (tiling) yapısı sunan bir pencere yöneticisidir. C++ ile geliştirilen bu araç, görsel estetikten ödün vermeden yüksek performanslı bir masaüstü deneyimi sağlar.
 
-- ★ 37.732
+- ★ 39.014
 - C++
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
 
+- **29 Ekim 2026:** Yıldız 37.732 → 39.014, son sürüm v0.57.0 (28 Ekim 2026).
 - **6 Ağustos 2026:** Yıldız 37.701 → 37.732, son sürüm v0.56.2 (5 Ağustos 2026).
 - **2 Ağustos 2026:** Yıldız 37.107 → 37.701, son sürüm v0.56.1 (27 Temmuz 2026).
 

@@ -76,6 +76,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 Security and privacy note: Run domain, IP, email, phone, and social-media scans only against authorized targets. Follow third-party API terms, avoid unnecessary personal-data collection, and do not expose the WebUI publicly.
 
 ## Liens
+
 - [Dépôt GitHub →](https://github.com/smicallef/spiderfoot)
 - [Lire en turc →](https://trescout.com/discover/spiderfoot/)
 

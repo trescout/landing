@@ -67,8 +67,8 @@ Kodları depoya göndermeden önce hücre çıktılarını temizlemek (Clear All
 - [Claude Cookbooks](https://trescout.com/discover/claude-cookbooks/)
 - [Airllm](https://trescout.com/discover/airllm/)
 - [Machine Learning for Trading](https://trescout.com/discover/machine-learning-for-trading/)
+- [The Craft of Selfteaching](https://trescout.com/discover/the-craft-of-selfteaching/)
 - [Train LLM from Scratch](https://trescout.com/discover/train-llm-from-scratch/)
-- [Cosmos](https://trescout.com/discover/cosmos/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

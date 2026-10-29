@@ -82,6 +82,7 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Güvenlik ve mevzuat notu: Bu 10,5 GHz RF radar; drone/hedef takibi ve geniş alan gözetimi için çift kullanımlıdır. Yalnızca yetkili laboratuvarlarda, yerel spektrum/EMC kurallarına ve güvenli RF uygulamalarına uyarak kullanılmalıdır. TreScout saha performansı veya hukuki uygunluk garantisi vermez.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/NawfalMotii79/PLFM_RADAR)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

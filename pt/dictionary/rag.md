@@ -67,8 +67,8 @@ São necessários parsers de documentos, ferramentas de fragmentação de texto,
 - [Awesome LLM Apps](https://trescout.com/pt/discover/awesome-llm-apps/)
 - [Ragflow](https://trescout.com/pt/discover/ragflow/)
 - [AI Agent Book](https://trescout.com/pt/discover/ai-agent-book/)
-- [GitNexus](https://trescout.com/pt/discover/gitnexus/)
 - [DeepTutor](https://trescout.com/pt/discover/deeptutor/)
+- [GitNexus](https://trescout.com/pt/discover/gitnexus/)
 - [OpenViking](https://trescout.com/pt/discover/openviking/)
 - [PageIndex](https://trescout.com/pt/discover/pageindex/)
 

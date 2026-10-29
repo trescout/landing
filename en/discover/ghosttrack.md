@@ -61,6 +61,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 Privacy and ethics note: Use only on systems you own or where you have explicit permission, and for lawful OSINT. Do not use for stalking, doxxing, harassment, or unauthorized data collection; results are not proof of a person’s location or identity.
 
 ## Links
+
 - [GitHub repository →](https://github.com/HunxByts/GhostTrack)
 - [Read in Turkish →](https://trescout.com/discover/ghosttrack/)
 

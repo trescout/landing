@@ -2,8 +2,12 @@
 
 elayadesign/ai-design-skills propose une collection de compétences en design composée d'un fichier de règles au format markdown que les outils de codage par IA (Claude Code, Cursor, Codex, Windsurf) peuvent lire. Ce projet fournit une ressource de référence pour les outils assistés par IA afin de standardiser les processus de design.
 
-- ★ 9 826
+- ★ 11 349
 - GitHub Trending · 2026-10-28
+
+## Mises à jour
+
+- **29 octobre 2026:** Étoiles 9,826 → 11,349.
 
 ## Ce que ça vous apporte
 
@@ -46,8 +50,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Markdown](https://trescout.com/fr/dictionary/markdown/)
 - [Skill](https://trescout.com/fr/dictionary/skill/)
+- [Markdown](https://trescout.com/fr/dictionary/markdown/)
 - [AI Skills](https://trescout.com/fr/dictionary/ai-skills/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

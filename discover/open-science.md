@@ -2,16 +2,16 @@
 
 AIPOCH tarafından geliştirilen Open Science, bilimsel araştırmalar için yerel tabanlı (local-first) ve modelden bağımsız bir yapay zekâ çalışma ortamı sunuyor. Yazılım, Python ve R not defterleri ile veri bağlantılarını birleştirerek bilimsel süreçlerin tekrarlanabilir şekilde yürütülmesine olanak tanıyor.
 
-- ★ 5.381
+- ★ 5.395
 - TypeScript
 - GitHub Trending · 2026-09-07
 
 ## Güncelleme
 
+- **29 Ekim 2026:** Yıldız 5.381 → 5.395, son sürüm v1.0.5 (28 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 5.365 → 5.381, son sürüm v1.0.4 (27 Ekim 2026).
 - **26 Ekim 2026:** Yıldız 5.338 → 5.365, son sürüm v1.0.3 (26 Ekim 2026).
 - **22 Ekim 2026:** Yıldız 5.307 → 5.338, son sürüm v1.0.2 (22 Ekim 2026).
-- **20 Ekim 2026:** Yıldız 4.877 → 5.307, son sürüm v1.0.1 (20 Ekim 2026).
 
 ## Ne kazandırır?
 

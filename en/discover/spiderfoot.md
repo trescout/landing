@@ -76,6 +76,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 Security and privacy note: Run domain, IP, email, phone, and social-media scans only against authorized targets. Follow third-party API terms, avoid unnecessary personal-data collection, and do not expose the WebUI publicly.
 
 ## Links
+
 - [GitHub repository →](https://github.com/smicallef/spiderfoot)
 - [Read in Turkish →](https://trescout.com/discover/spiderfoot/)
 

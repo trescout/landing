@@ -96,6 +96,7 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Güvenlik notu: Yalnızca analiz etmeye yetkili olduğunuz ikili dosyaları kullanın. Güncel Ghidra/JDK sürümünü ve resmi güvenlik duyurularını takip edin; güvenilmeyen dosyaları izole bir sanal makinede açın.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/NationalSecurityAgency/ghidra)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

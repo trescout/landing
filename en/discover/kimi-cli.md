@@ -57,6 +57,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 Maintenance note: The GitHub source repository is archived. Do not treat this page as an active-maintenance guarantee; verify a current fork or official successor before relying on it.
 
 ## Links
+
 - [GitHub repository →](https://github.com/MoonshotAI/kimi-cli)
 - [Read in Turkish →](https://trescout.com/discover/kimi-cli/)
 

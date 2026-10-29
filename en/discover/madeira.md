@@ -31,7 +31,7 @@ git clone --recurse-submodules <this repo>
 
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
-I want to install and run the Madeira project. As someone who doesn't know how to code, could you explain to me step-by-step how to configure this compatibility layer on my non-jailbroken iPhone? Explain how to perform the necessary debugger and sideloading steps.
+I want to install and run the Madeira project. As someone who doesn't know how to code, can you explain step-by-step how to configure this compatibility layer on my non-jailbroken iPhone? Explain how to perform the necessary debugger and sideloading steps.
 
 Repository: https://github.com/willfaust/Madeira. Follow the official instructions in the README of this repository for setup and execution.
 

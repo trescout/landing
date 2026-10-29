@@ -2,16 +2,16 @@
 
 OpenFlux, entwickelt in der Sprache Go, ist ein TCP-Tunneling-Tool, das für die Erforschung des Netzwerk-Stacks konzipiert wurde. Dank der Unterstützung für steckbare Transportprotokolle (pluggable transports) bietet es flexible Möglichkeiten zur Analyse und Verwaltung des Netzwerkverkehrs.
 
-- ★ 2.184
+- ★ 2.299
 - Go
 - GitHub Trending · 2026-09-12
 
 ## Aktualisierungen
 
+- **29. Oktober 2026:** Sterne 2,184 → 2,299, neueste Version v0.17.1 (28. Oktober 2026).
 - **16. Oktober 2026:** Sterne 2,120 → 2,184, neueste Version v0.13.0 (16. Oktober 2026).
 - **14. Oktober 2026:** Sterne 2,107 → 2,120, neueste Version v0.7.3 (14. Oktober 2026).
 - **13. Oktober 2026:** Sterne 2,092 → 2,107, neueste Version v0.7.2 (13. Oktober 2026).
-- **13. Oktober 2026:** Sterne 2,088 → 2,092, neueste Version v0.7.0 (13. Oktober 2026).
 
 ## Was es bringt
 

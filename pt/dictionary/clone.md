@@ -69,8 +69,8 @@ Sim. Basta executar git pull dentro da pasta. Se você tiver alterações, prime
 - [BitNet](https://trescout.com/pt/discover/bitnet/)
 - [VoxCPM](https://trescout.com/pt/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/pt/discover/clone-wars/)
-- [Univer](https://trescout.com/pt/discover/univer/)
 - [Claude Seo](https://trescout.com/pt/discover/claude-seo/)
+- [Univer](https://trescout.com/pt/discover/univer/)
 - [OpenStock](https://trescout.com/pt/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/pt/discover/hermes-webui/)
 

@@ -53,6 +53,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 Maintenance note: The GitHub source repository is archived. Verify an official current source for releases, security fixes, and continued functionality.
 
 ## Enlaces
+
 - [Repositorio en GitHub →](https://github.com/higgsfield-ai/higgsfield)
 - [Leer en turco →](https://trescout.com/discover/higgsfield/)
 

@@ -2,12 +2,13 @@
 
 AgriciDaniel/claude-seo is a comprehensive skill set developed for Claude Code that automates technical search engine optimization (SEO) processes. The project offers 26 sub-skills, 19 sub-agents, and Google API (a digital bridge that enables two different software programs to communicate with each other) integrations to enhance search engine visibility.
 
-- ★ 22,364
+- ★ 23,491
 - Python
 - GitHub Trending · 2026-10-26
 
 ## Updates
 
+- **October 29, 2026:** Stars 22,364 → 23,491, latest release v2.5.0 (October 22, 2026).
 - **October 27, 2026:** Stars 21,180 → 22,364, latest release v2.5.0 (October 22, 2026).
 - **October 26, 2026:** Stars 21,162 → 21,180, latest release v2.5.0 (October 22, 2026).
 

@@ -56,6 +56,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Multi-agent](https://trescout.com/fr/dictionary/multi-agent/)
+- [Workspace](https://trescout.com/fr/dictionary/workspace/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs qui souhaitent gérer plusieurs agents IA simultanément et assurer la continuité du flux de travail dans des projets logiciels complexes.

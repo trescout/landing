@@ -21,6 +21,7 @@ Pour tester rapidement le système, vous pouvez visiter l'adresse web os.cloudfl
 ## Termes liés du glossaire
 
 - [Agent Workspace](https://trescout.com/fr/dictionary/agent-workspace/)
+- [Workspace](https://trescout.com/fr/dictionary/workspace/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

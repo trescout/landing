@@ -70,6 +70,7 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Güvenlik ve gizlilik notu: Alan adı, IP, e-posta, telefon ve sosyal medya taramalarını yalnızca yetkili hedeflerde yürütün. Üçüncü taraf API şartlarına uyun, kişisel verileri gereksiz toplamayın ve WebUI’yi internete açık bırakmayın.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/smicallef/spiderfoot)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -78,6 +79,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [OSINT](https://trescout.com/dictionary/osint/)
 - [v4.0](https://trescout.com/dictionary/v4-0/)
+- [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

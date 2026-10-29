@@ -49,6 +49,7 @@ Es kann geschrieben werden, aber man muss alles von Grund auf programmieren, was
 - [CUA](https://trescout.com/de/discover/cua/)
 - [Opendataloader PDF](https://trescout.com/de/discover/opendataloader-pdf/)
 - [iii](https://trescout.com/de/discover/iii/)
+- [Logto](https://trescout.com/de/discover/logto/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/sdk/)
 

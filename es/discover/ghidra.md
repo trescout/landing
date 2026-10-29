@@ -101,6 +101,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 Security note: Analyze only binaries you are authorized to examine. Follow the current Ghidra/JDK release and official security advisories; open untrusted files in an isolated virtual machine.
 
 ## Enlaces
+
 - [Repositorio en GitHub →](https://github.com/NationalSecurityAgency/ghidra)
 - [Leer en turco →](https://trescout.com/discover/ghidra/)
 

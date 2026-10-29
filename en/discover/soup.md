@@ -71,6 +71,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 Security note: Do not run untrusted YAML, datasets, Jinja templates, or reward code. Verify the licenses of model weights and training data, and follow the current release and official security guidance.
 
 ## Links
+
 - [GitHub repository →](https://github.com/MakazhanAlpamys/Soup)
 - [Read in Turkish →](https://trescout.com/discover/soup/)
 

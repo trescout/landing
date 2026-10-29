@@ -57,6 +57,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 Maintenance note: The GitHub source repository is archived. Do not treat this page as an active-maintenance guarantee; verify a current fork or official successor before relying on it.
 
 ## Liens
+
 - [Dépôt GitHub →](https://github.com/MoonshotAI/kimi-cli)
 - [Lire en turc →](https://trescout.com/discover/kimi-cli/)
 

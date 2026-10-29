@@ -66,12 +66,14 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Bakım notu: GitHub’daki kaynak depo arşivlenmiş görünüyor. İçerik eğitimsel referans olarak değerlendirilmeli; güncel bağımlılık ve güvenlik durumu için aktif bir halef/fork doğrulanmalıdır.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/langchain-ai/open_deep_research)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
+- [Fork](https://trescout.com/dictionary/fork/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

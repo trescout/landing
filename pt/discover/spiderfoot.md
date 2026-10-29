@@ -76,6 +76,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 Security and privacy note: Run domain, IP, email, phone, and social-media scans only against authorized targets. Follow third-party API terms, avoid unnecessary personal-data collection, and do not expose the WebUI publicly.
 
 ## Links
+
 - [Repositório no GitHub →](https://github.com/smicallef/spiderfoot)
 - [Ler em turco →](https://trescout.com/discover/spiderfoot/)
 

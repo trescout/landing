@@ -70,6 +70,7 @@ No conteúdo em cache, sim, no tráfego criptografado e remoto geralmente fica l
 - [Litellm](https://trescout.com/pt/discover/litellm/)
 - [FlClash](https://trescout.com/pt/discover/flclash/)
 - [Freellmapi](https://trescout.com/pt/discover/freellmapi/)
+- [Maigret](https://trescout.com/pt/discover/maigret/)
 - [Nginx](https://trescout.com/pt/discover/nginx/)
 - [Headroom](https://trescout.com/pt/discover/headroom/)
 - [User Scanner](https://trescout.com/pt/discover/user-scanner/)

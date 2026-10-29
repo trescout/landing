@@ -38,6 +38,7 @@ Para começar a usar a ferramenta Dopamine, você pode visitar o site oficial ht
 Security note: Use only on devices you own. Back up first; verify iOS/device compatibility from the official GitHub or ElleKit source, and avoid untrusted tweaks or packages.
 
 ## Links
+
 - [Repositório no GitHub →](https://github.com/opa334/Dopamine)
 - [Ler em turco →](https://trescout.com/discover/dopamine/)
 

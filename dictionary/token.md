@@ -47,6 +47,7 @@ Bilgisayarlar kelimeleri değil sayıları anladığı için metni matematiksel 
 - [Codebase Memory MCP](https://trescout.com/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/discover/airllm/)
 - [Book to Skill](https://trescout.com/discover/book-to-skill/)
+- [Code Review Graph](https://trescout.com/discover/code-review-graph/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

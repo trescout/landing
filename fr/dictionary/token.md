@@ -47,6 +47,7 @@ Puisque les ordinateurs comprennent les nombres et non les mots, nous devons con
 - [Codebase Memory MCP](https://trescout.com/fr/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/fr/discover/airllm/)
 - [Book to Skill](https://trescout.com/fr/discover/book-to-skill/)
+- [Code Review Graph](https://trescout.com/fr/discover/code-review-graph/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/token/)
 

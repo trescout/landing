@@ -87,6 +87,7 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Gizlilik ve etik notu: Yalnızca açık rıza, hukuki dayanak ve yetkili OSINT kapsamında kullanın. Toplu kişi taraması, infostealer verisiyle eşleştirme, doxxing ve proxy ile platform kısıtlarını aşma kabul edilemez; veri minimizasyonu ve saklama süresi uygulayın.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/kaifcodec/user-scanner)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

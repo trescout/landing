@@ -76,8 +76,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [Fork](https://trescout.com/es/dictionary/fork/)
 - [Parser](https://trescout.com/es/dictionary/parser/)
+- [Fork](https://trescout.com/es/dictionary/fork/)
 - [CI/CD](https://trescout.com/es/dictionary/ci-cd/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
 - [API](https://trescout.com/es/dictionary/api/)

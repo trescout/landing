@@ -2,15 +2,15 @@
 
 Scientific-Agent-Skills es una biblioteca de habilidades ya preparada que adapta los agentes de inteligencia artificial a los procesos de investigación científica. Ofreciendo 163 capacidades validadas y más de 100 bases de datos en los campos de la biología, la química y la medicina, se integra con plataformas como el editor de código Cursor o el asistente de IA Claude Code.
 
-- ★ 52.471
+- ★ 55.156
 - GitHub Trending · 2026-08-26
 
 ## Actualizaciones
 
+- **29 de octubre de 2026:** Estrellas 52,471 → 55,156, última versión v2.72.0 (1 de octubre de 2026).
 - **18 de octubre de 2026:** Estrellas 49,814 → 52,471, última versión v2.72.0 (1 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 47,342 → 49,814, última versión v2.72.0 (1 de octubre de 2026).
 - **2 de octubre de 2026:** Estrellas 47,133 → 47,342, última versión v2.72.0 (1 de octubre de 2026).
-- **29 de septiembre de 2026:** Estrellas 46,808 → 47,133, última versión v2.70.0 (29 de septiembre de 2026).
 
 ## Qué aporta
 

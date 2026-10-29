@@ -76,8 +76,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [Fork](https://trescout.com/en/dictionary/fork/)
 - [Parser](https://trescout.com/en/dictionary/parser/)
+- [Fork](https://trescout.com/en/dictionary/fork/)
 - [CI/CD](https://trescout.com/en/dictionary/ci-cd/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
 - [API](https://trescout.com/en/dictionary/api/)

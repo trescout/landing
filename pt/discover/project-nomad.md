@@ -2,17 +2,17 @@
 
 Projeto N.O.M.A.D; É um projeto de construção de computadores off-line, autossuficiente, que não requer conexão com a internet e está equipado com ferramentas críticas, recursos de informação e inteligência artificial. Foi especialmente desenvolvido para emergências e cenários onde não há internet.
 
-- ★ 39.138
+- ★ 41.177
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
 ## Atualizações
 
+- **29 de outubro de 2026:** Estrelas 39,138 → 41,177, versão mais recente v1.35.1 (5 de outubro de 2026).
 - **6 de outubro de 2026:** Estrelas 38,739 → 39,138, versão mais recente v1.35.1 (5 de outubro de 2026).
 - **29 de setembro de 2026:** Estrelas 38,519 → 38,739, versão mais recente v1.35.0 (29 de setembro de 2026).
 - **27 de setembro de 2026:** Estrelas 36,474 → 38,519, versão mais recente v1.34.1 (2 de setembro de 2026).
-- **3 de setembro de 2026:** Estrelas 35,435 → 36,474, versão mais recente v1.34.1 (2 de setembro de 2026).
 
 ## O que você ganha
 

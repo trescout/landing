@@ -2,16 +2,16 @@
 
 Rust diliyle geliştirilen llmfit, yüzlerce büyük dil modelini (large language model) ve sağlayıcıyı tarayarak donanımınızla uyumlu olanları tek bir komutla tespit etmenizi sağlıyor. Araç, yerel sistem kaynaklarına en uygun modelleri bulma sürecini otomatikleştiriyor.
 
-- ★ 37.724
+- ★ 38.459
 - Rust
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
 
+- **29 Ekim 2026:** Yıldız 37.724 → 38.459, son sürüm v1.1.18 (28 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 37.196 → 37.724, son sürüm v1.1.17 (8 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 35.465 → 37.196, son sürüm v1.1.16 (19 Eylül 2026).
 - **10 Eylül 2026:** Yıldız 34.855 → 35.465, son sürüm v1.1.15 (10 Eylül 2026).
-- **4 Eylül 2026:** Yıldız 34.596 → 34.855, son sürüm v1.1.14 (3 Eylül 2026).
 
 ## Ne kazandırır?
 

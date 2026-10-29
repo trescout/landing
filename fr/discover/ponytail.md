@@ -2,16 +2,16 @@
 
 Ensemble de règles et système de plugins conçus pour appliquer la validation, la gestion des erreurs, la sécurité et l'accessibilité dans les flux de codage assistés par IA.
 
-- ★ 174 244
+- ★ 179 364
 - JavaScript
 - GitHub Trending · 2026-08-25
 
 ## Mises à jour
 
+- **29 octobre 2026:** Étoiles 174,244 → 179,364, dernière version v5.3.3 (29 octobre 2026).
 - **23 octobre 2026:** Étoiles 165,409 → 174,244, dernière version v5.3.2 (16 octobre 2026).
 - **17 octobre 2026:** Étoiles 164,759 → 165,409, dernière version v5.3.2 (16 octobre 2026).
 - **16 octobre 2026:** Étoiles 162,432 → 164,759, dernière version v5.3.0 (16 octobre 2026).
-- **13 octobre 2026:** Étoiles 158,247 → 162,432, dernière version v5.2.0 (13 octobre 2026).
 
 ## Installation
 

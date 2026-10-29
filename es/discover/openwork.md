@@ -43,6 +43,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [Workspace](https://trescout.com/es/dictionary/workspace/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para desarrolladores que desean automatizar sus procesos de desarrollo de software impulsados por IA y compartir flujos de trabajo entre sus herramientas.

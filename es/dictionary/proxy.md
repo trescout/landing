@@ -70,6 +70,7 @@ En el contenido almacenado en caché, sí, en el tráfico remoto y cifrado gener
 - [Litellm](https://trescout.com/es/discover/litellm/)
 - [FlClash](https://trescout.com/es/discover/flclash/)
 - [Freellmapi](https://trescout.com/es/discover/freellmapi/)
+- [Maigret](https://trescout.com/es/discover/maigret/)
 - [Nginx](https://trescout.com/es/discover/nginx/)
 - [Headroom](https://trescout.com/es/discover/headroom/)
 - [User Scanner](https://trescout.com/es/discover/user-scanner/)

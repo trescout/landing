@@ -73,8 +73,8 @@ Doküman ayrıştırıcılar, metin parçalama araçları, bir embedding modeli,
 - [Awesome LLM Apps](https://trescout.com/discover/awesome-llm-apps/)
 - [Ragflow](https://trescout.com/discover/ragflow/)
 - [AI Agent Book](https://trescout.com/discover/ai-agent-book/)
-- [GitNexus](https://trescout.com/discover/gitnexus/)
 - [DeepTutor](https://trescout.com/discover/deeptutor/)
+- [GitNexus](https://trescout.com/discover/gitnexus/)
 - [OpenViking](https://trescout.com/discover/openviking/)
 - [PageIndex](https://trescout.com/discover/pageindex/)
 

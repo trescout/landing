@@ -89,6 +89,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 Privacy and ethics note: Use only with consent, a lawful basis, and authorized OSINT. Do not bulk-scan people, correlate infostealer data, doxx, or bypass platform limits with proxies; minimize data and retention.
 
 ## Liens
+
 - [Dépôt GitHub →](https://github.com/kaifcodec/user-scanner)
 - [Lire en turc →](https://trescout.com/discover/user-scanner/)
 

@@ -13,7 +13,7 @@ Traditionally, when an error occurs in a program, downloading and installing the
 - Game Patches and Balancing: These are updates that balance character abilities, add new content, and optimize performance in online multiplayer games. It is usually accompanied by detailed "Patch Notes".
 - Hotfix: A narrow-scope patch released immediately to extinguish the fire in the production environment without waiting for the test cycle.
 
-***Analogy:** Repairing a small rip in your outfit is like sewing a suitable piece of fabric onto it instead of throwing the entire garment away. It replaces only defective parts without reinstalling the entire software.*
+***Analogy:** It is like sewing a suitable piece of fabric over a small tear in your clothing instead of throwing the whole garment away. It replaces only the defective parts without downloading the entire software from scratch.*
 
 ## 2. Patch in Developer Tools: UNIX patch and Git
 
@@ -21,7 +21,7 @@ In the open source world and version control systems, a patch is a plain text do
 
 ### UNIX patch Command and History
 
-Historically based on the metaphor of covering holes in punched cards with tape or repairing paper strips, "patch" was standardized with the patch command written by Larry Wall in 1985. The patch produced with the diff -u old.c new.c > fix.patch command can be applied directly to the source code on the opposite side with patch \< fix.patch.
+Based on the metaphor of covering holes in punch cards with tape or repairing paper strips, the term "patch" was standardized in 1985 with the patch command written by Larry Wall. A patch generated with the command diff -u old.c new.c > fix.patch can be applied directly to the source code on the receiving end using patch \< fix.patch.
 
 ### Using Patch in Git Environment
 

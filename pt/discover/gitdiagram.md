@@ -2,12 +2,13 @@
 
 Gitdiagram é uma ferramenta de código aberto que visualiza estruturas de arquivos complexas e relações de código em repositórios do GitHub em segundos. Ao alterar uma única letra no URL, ela apresenta a arquitetura de sistemas de bases de código massivas em diagramas interativos.
 
-- ★ 17.581
+- ★ 18.589
 - TypeScript
 - GitHub Trending · 2026-09-19
 
 ## Atualizações
 
+- **29 de outubro de 2026:** Estrelas 17,581 → 18,589.
 - **30 de setembro de 2026:** Estrelas 16,568 → 17,581.
 
 ## O que você ganha
@@ -75,10 +76,10 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [SVG](https://trescout.com/pt/dictionary/svg/)
 - [Mermaid](https://trescout.com/pt/dictionary/mermaid/)
-- [LLM API](https://trescout.com/pt/dictionary/llm-api/)
 - [API Gateway](https://trescout.com/pt/dictionary/api-gateway/)
-- [Database](https://trescout.com/pt/dictionary/database/)
+- [LLM API](https://trescout.com/pt/dictionary/llm-api/)
 - [Gateway](https://trescout.com/pt/dictionary/gateway/)
+- [Database](https://trescout.com/pt/dictionary/database/)
 
 ## Links
 

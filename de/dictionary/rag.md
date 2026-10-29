@@ -67,8 +67,8 @@ Sie benötigen Dokumentparser, Textfragmentierungstools, ein Einbettungsmodell, 
 - [Awesome LLM Apps](https://trescout.com/de/discover/awesome-llm-apps/)
 - [Ragflow](https://trescout.com/de/discover/ragflow/)
 - [AI Agent Book](https://trescout.com/de/discover/ai-agent-book/)
-- [GitNexus](https://trescout.com/de/discover/gitnexus/)
 - [DeepTutor](https://trescout.com/de/discover/deeptutor/)
+- [GitNexus](https://trescout.com/de/discover/gitnexus/)
 - [OpenViking](https://trescout.com/de/discover/openviking/)
 - [PageIndex](https://trescout.com/de/discover/pageindex/)
 

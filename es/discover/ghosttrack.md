@@ -61,6 +61,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 Privacy and ethics note: Use only on systems you own or where you have explicit permission, and for lawful OSINT. Do not use for stalking, doxxing, harassment, or unauthorized data collection; results are not proof of a person’s location or identity.
 
 ## Enlaces
+
 - [Repositorio en GitHub →](https://github.com/HunxByts/GhostTrack)
 - [Leer en turco →](https://trescout.com/discover/ghosttrack/)
 

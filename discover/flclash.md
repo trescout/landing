@@ -53,6 +53,7 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Gizlilik notu: Proxy abonelikleri ve çıkış sunucuları trafiği görebilir veya değiştirebilir. Yalnızca güvendiğiniz kaynakları kullanın; yerel mevzuata ve hizmet şartlarına uyun.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/chen08209/FlClash)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

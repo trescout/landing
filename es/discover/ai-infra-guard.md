@@ -65,6 +65,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 Security note: Use only against AI services, agent/MCP servers, and network targets you own or are explicitly authorized to test. Do not run probes or jailbreak test sets against public targets; protect API keys and results. Keep the WebUI on localhost or behind access control.
 
 ## Enlaces
+
 - [Repositorio en GitHub →](https://github.com/Tencent/AI-Infra-Guard)
 - [Leer en turco →](https://trescout.com/discover/ai-infra-guard/)
 

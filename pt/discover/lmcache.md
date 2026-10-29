@@ -44,8 +44,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [KV Cache](https://trescout.com/pt/dictionary/kv-cache/)
-- [Large Language Models](https://trescout.com/pt/dictionary/large-language-models/)
 - [Token](https://trescout.com/pt/dictionary/token/)
+- [Large Language Models](https://trescout.com/pt/dictionary/large-language-models/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

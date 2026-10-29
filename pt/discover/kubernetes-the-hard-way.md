@@ -14,6 +14,7 @@ Kubernetes the Hard Way, criado por Kelsey Hightower, é um guia que ensina a co
 Educational note: This material is for understanding Kubernetes components and is not a production-ready deployment recipe. Before production use, follow current official Kubernetes guidance for certificates, authentication, encryption, and networking.
 
 ## Links
+
 - [Repositório no GitHub →](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Ler em turco →](https://trescout.com/discover/kubernetes-the-hard-way/)
 

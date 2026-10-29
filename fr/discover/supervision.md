@@ -2,16 +2,16 @@
 
 Développé par Roboflow, Supervision propose des outils et fonctions auxiliaires réutilisables pour les projets de vision par ordinateur. Cette bibliothèque basée sur Python accélère les flux de travail de développement en facilitant les opérations standard dans les processus tels que la détection et le suivi d'objets.
 
-- ★ 51 348
+- ★ 51 417
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Mises à jour
 
+- **29 octobre 2026:** Étoiles 51,348 → 51,417, dernière version 0.31.3 (28 octobre 2026).
 - **25 octobre 2026:** Étoiles 51,253 → 51,348, dernière version 0.31.2 (24 octobre 2026).
 - **21 octobre 2026:** Étoiles 51,223 → 51,253, dernière version 0.31.1 (20 octobre 2026).
 - **17 octobre 2026:** Étoiles 51,154 → 51,223, dernière version 0.31.0 (16 octobre 2026).
-- **8 octobre 2026:** Étoiles 51,146 → 51,154, dernière version 0.30.9 (8 octobre 2026).
 
 ## Ce que ça vous apporte
 

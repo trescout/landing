@@ -42,6 +42,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [Workspace](https://trescout.com/en/dictionary/workspace/)
 - [GPU](https://trescout.com/en/dictionary/gpu/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
 - [API](https://trescout.com/en/dictionary/api/)

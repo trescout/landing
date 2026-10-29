@@ -47,8 +47,8 @@ Oui, ils peuvent gérer vos fichiers ou exécuter vos applications si vous leur 
 - [Ponytail](https://trescout.com/fr/discover/ponytail/)
 - [Awesome LLM Apps](https://trescout.com/fr/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/fr/discover/browser-use/)
-- [Orca](https://trescout.com/fr/discover/orca/)
 - [Agent Skills](https://trescout.com/fr/discover/agent-skills/)
+- [Orca](https://trescout.com/fr/discover/orca/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/agent/)
 

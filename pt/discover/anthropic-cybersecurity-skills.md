@@ -2,17 +2,17 @@
 
 754 competências de cibersegurança já desenvolvidas para agentes de inteligência artificial; Abrange 26 domínios de segurança diferentes e é mapeado para 5 estruturas principais, como MITRE ATT&CK, NIST CSF, MITRE ATLAS. Claude Code funciona em mais de 20 plataformas como GitHub Copilot, Codex, Cursor e Gemini CLI. (Apesar do nome, não é um projeto oficial da Antrópico, mas um esforço comunitário independente.)
 
-- ★ 33.493
+- ★ 35.201
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Atualizações
 
+- **29 de outubro de 2026:** Estrelas 33,493 → 35,201, versão mais recente v1.3.0 (22 de junho de 2026).
 - **28 de setembro de 2026:** Estrelas 31,872 → 33,493, versão mais recente v1.3.0 (22 de junho de 2026).
 - **1 de setembro de 2026:** Estrelas 30,300 → 31,872, versão mais recente v1.3.0 (22 de junho de 2026).
 - **20 de agosto de 2026:** Estrelas 28,821 → 30,300, versão mais recente v1.3.0 (22 de junho de 2026).
-- **18 de agosto de 2026:** Estrelas 27,085 → 28,821, versão mais recente v1.3.0 (22 de junho de 2026).
 
 ## O que você ganha
 

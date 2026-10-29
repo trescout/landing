@@ -90,6 +90,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 Privacy and copyright note: Archive only apps licensed to or legitimately obtained by your Apple account. Protect credentials and preferably use a test account; do not redistribute or unauthorizedly re-sign IPA packages.
 
 ## Enlaces
+
 - [Repositorio en GitHub →](https://github.com/majd/ipatool)
 - [Leer en turco →](https://trescout.com/discover/ipatool/)
 

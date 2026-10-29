@@ -76,8 +76,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Fork](https://trescout.com/fr/dictionary/fork/)
 - [Parser](https://trescout.com/fr/dictionary/parser/)
+- [Fork](https://trescout.com/fr/dictionary/fork/)
 - [CI/CD](https://trescout.com/fr/dictionary/ci-cd/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
 - [API](https://trescout.com/fr/dictionary/api/)

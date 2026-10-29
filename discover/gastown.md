@@ -65,6 +65,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Multi-agent](https://trescout.com/dictionary/multi-agent/)
+- [Workspace](https://trescout.com/dictionary/workspace/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

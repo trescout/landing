@@ -43,6 +43,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [Workspace](https://trescout.com/en/dictionary/workspace/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for developers who want to automate their AI-powered software development processes and share workflows between their tools.

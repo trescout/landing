@@ -76,8 +76,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Disclosure](https://trescout.com/pt/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/pt/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/pt/dictionary/multimodal/)
-- [Markdown](https://trescout.com/pt/dictionary/markdown/)
 - [Skill](https://trescout.com/pt/dictionary/skill/)
+- [Markdown](https://trescout.com/pt/dictionary/markdown/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 
 - **Para quem é:** Agentes de patentes, gestores de propriedade intelectual, engenheiros de P&D e inventores.

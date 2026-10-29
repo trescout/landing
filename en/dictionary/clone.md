@@ -69,8 +69,8 @@ Yes. Just run git pull inside the folder. If you have changes, you need to commi
 - [BitNet](https://trescout.com/en/discover/bitnet/)
 - [VoxCPM](https://trescout.com/en/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/en/discover/clone-wars/)
-- [Univer](https://trescout.com/en/discover/univer/)
 - [Claude Seo](https://trescout.com/en/discover/claude-seo/)
+- [Univer](https://trescout.com/en/discover/univer/)
 - [OpenStock](https://trescout.com/en/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/en/discover/hermes-webui/)
 

@@ -69,8 +69,8 @@ Evet. Klasör içinde git pull çalıştırmanız yeterlidir. Değişikliğiniz 
 - [BitNet](https://trescout.com/discover/bitnet/)
 - [VoxCPM](https://trescout.com/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/discover/clone-wars/)
-- [Univer](https://trescout.com/discover/univer/)
 - [Claude Seo](https://trescout.com/discover/claude-seo/)
+- [Univer](https://trescout.com/discover/univer/)
 - [OpenStock](https://trescout.com/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/discover/hermes-webui/)
 

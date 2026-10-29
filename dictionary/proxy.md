@@ -70,6 +70,7 @@ Dışarıdan geleni sunucuya dağıtan yöndür. Yük dengeleme ve koruma sağla
 - [Litellm](https://trescout.com/discover/litellm/)
 - [FlClash](https://trescout.com/discover/flclash/)
 - [Freellmapi](https://trescout.com/discover/freellmapi/)
+- [Maigret](https://trescout.com/discover/maigret/)
 - [Nginx](https://trescout.com/discover/nginx/)
 - [Headroom](https://trescout.com/discover/headroom/)
 - [User Scanner](https://trescout.com/discover/user-scanner/)

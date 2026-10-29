@@ -69,8 +69,8 @@ Ja. Führen Sie einfach git pull im Ordner aus. Wenn Sie Änderungen haben, müs
 - [BitNet](https://trescout.com/de/discover/bitnet/)
 - [VoxCPM](https://trescout.com/de/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/de/discover/clone-wars/)
-- [Univer](https://trescout.com/de/discover/univer/)
 - [Claude Seo](https://trescout.com/de/discover/claude-seo/)
+- [Univer](https://trescout.com/de/discover/univer/)
 - [OpenStock](https://trescout.com/de/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/de/discover/hermes-webui/)
 

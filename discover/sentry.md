@@ -2,12 +2,13 @@
 
 Sentry, yazılım hatalarını gerçek zamanlı takip eden ve uygulama performansını izleyen bir hata izleme aracıdır. Geliştiricilerin kod tabanındaki sorunları hızlıca tespit edip çözüm üretmelerine yardımcı olan bir hata izleme platformu (error tracking) olarak kullanılır.
 
-- ★ 45.576
+- ★ 45.674
 - Python
 - GitHub Trending · 2026-10-03
 
 ## Güncelleme
 
+- **29 Ekim 2026:** Yıldız 45.576 → 45.674, son sürüm 26.10.1 (28 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 45.101 → 45.576, son sürüm 26.10.0 (16 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 45.098 → 45.101, son sürüm 26.9.0 (15 Eylül 2026).
 

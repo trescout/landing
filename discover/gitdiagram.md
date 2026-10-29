@@ -2,12 +2,13 @@
 
 Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini saniyeler içinde görselleştiren açık kaynaklı bir araçtır. URL'deki tek bir harfi değiştirerek devasa kod tabanlarının sistem mimarisini interaktif diyagramlar halinde sunar.
 
-- ★ 17.581
+- ★ 18.589
 - TypeScript
 - GitHub Trending · 2026-09-19
 
 ## Güncelleme
 
+- **29 Ekim 2026:** Yıldız 17.581 → 18.589.
 - **30 Eylül 2026:** Yıldız 16.568 → 17.581.
 
 *Gitdiagram arayüzü: GitHub deposunu etkileşimli sistem mimarisi şemasına dönüştüren görsel analiz paneli.*
@@ -114,10 +115,10 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [SVG](https://trescout.com/dictionary/svg/)
 - [Mermaid](https://trescout.com/dictionary/mermaid/)
-- [LLM API](https://trescout.com/dictionary/llm-api/)
 - [API Gateway](https://trescout.com/dictionary/api-gateway/)
-- [Database](https://trescout.com/dictionary/database/)
+- [LLM API](https://trescout.com/dictionary/llm-api/)
 - [Gateway](https://trescout.com/dictionary/gateway/)
+- [Database](https://trescout.com/dictionary/database/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gitdiagram/

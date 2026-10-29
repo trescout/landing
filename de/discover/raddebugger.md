@@ -2,12 +2,13 @@
 
 Der von Epic Games entwickelte Raddebugger ist ein nativer und visueller Debugger, der in C geschrieben wurde. Er bietet Multi-Prozess-Unterstützung und läuft im Benutzermodus, damit Softwareentwickler Anwendungsfehler erkennen können.
 
-- ★ 7.702
+- ★ 8.704
 - C
 - GitHub Trending · 2026-10-07
 
 ## Aktualisierungen
 
+- **29. Oktober 2026:** Sterne 7,702 → 8,704, neueste Version v0.9.29-alpha (30. September 2026).
 - **7. Oktober 2026:** Sterne 7,693 → 7,702, neueste Version v0.9.29-alpha (30. September 2026).
 
 ## Was es bringt

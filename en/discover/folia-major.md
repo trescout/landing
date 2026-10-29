@@ -37,6 +37,7 @@ To start using it directly, you can download and install the desktop version for
 Copyright note: Use online music, lyrics, and album artwork only from authorized sources. Compliance with local copyright law and provider terms is the user’s responsibility.
 
 ## Links
+
 - [GitHub repository →](https://github.com/chthollyphile/folia-major)
 - [Read in Turkish →](https://trescout.com/discover/folia-major/)
 

@@ -108,6 +108,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 Copyright and security note: Manage only content you are entitled to download and watch. Secure torrent/Usenet clients, do not expose the WebUI directly to the internet, and protect indexer/API details; follow local law and licenses.
 
 ## Enlaces
+
 - [Repositorio en GitHub →](https://github.com/Sonarr/Sonarr)
 - [Leer en turco →](https://trescout.com/discover/sonarr/)
 

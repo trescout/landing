@@ -71,6 +71,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 Security note: Do not run untrusted YAML, datasets, Jinja templates, or reward code. Verify the licenses of model weights and training data, and follow the current release and official security guidance.
 
 ## Links
+
 - [Repositório no GitHub →](https://github.com/MakazhanAlpamys/Soup)
 - [Ler em turco →](https://trescout.com/discover/soup/)
 

@@ -2,17 +2,17 @@
 
 Project N.O.M.A.D; It is a self-sufficient, offline computer building project that does not require an internet connection and is equipped with critical tools, information resources and artificial intelligence. It is specially designed for emergencies and scenarios where there is no internet.
 
-- ★ 39,138
+- ★ 41,177
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
 ## Updates
 
+- **October 29, 2026:** Stars 39,138 → 41,177, latest release v1.35.1 (October 5, 2026).
 - **October 6, 2026:** Stars 38,739 → 39,138, latest release v1.35.1 (October 5, 2026).
 - **September 29, 2026:** Stars 38,519 → 38,739, latest release v1.35.0 (September 29, 2026).
 - **September 27, 2026:** Stars 36,474 → 38,519, latest release v1.34.1 (September 2, 2026).
-- **September 3, 2026:** Stars 35,435 → 36,474, latest release v1.34.1 (September 2, 2026).
 
 ## What you get
 

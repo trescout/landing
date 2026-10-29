@@ -67,8 +67,8 @@ You will need document parsers, text fragmentation tools, an embedding model, a 
 - [Awesome LLM Apps](https://trescout.com/en/discover/awesome-llm-apps/)
 - [Ragflow](https://trescout.com/en/discover/ragflow/)
 - [AI Agent Book](https://trescout.com/en/discover/ai-agent-book/)
-- [GitNexus](https://trescout.com/en/discover/gitnexus/)
 - [DeepTutor](https://trescout.com/en/discover/deeptutor/)
+- [GitNexus](https://trescout.com/en/discover/gitnexus/)
 - [OpenViking](https://trescout.com/en/discover/openviking/)
 - [PageIndex](https://trescout.com/en/discover/pageindex/)
 

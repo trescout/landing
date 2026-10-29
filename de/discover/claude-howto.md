@@ -2,12 +2,13 @@
 
 Dieser visuelle Leitfaden für Claude Code bietet eine breite Palette von Beispielen, von grundlegenden Konzepten bis hin zu erweiterten Agentenkonfigurationen. Ziel ist es, die Codierungsprozesse der Benutzer zu beschleunigen und Anwendungsentwicklungspraktiken durch kopierbare Vorlagen zu standardisieren.
 
-- ★ 43.681
+- ★ 45.924
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Aktualisierungen
 
+- **29. Oktober 2026:** Sterne 43,681 → 45,924, neueste Version v2.1.160 (2. Juni 2026).
 - **23. Oktober 2026:** Sterne 40,779 → 43,681, neueste Version v2.1.160 (2. Juni 2026).
 - **2. August 2026:** Sterne 36,008 → 40,779, neueste Version v2.1.160 (2. Juni 2026).
 

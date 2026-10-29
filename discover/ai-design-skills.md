@@ -2,8 +2,12 @@
 
 elayadesign/ai-design-skills, yapay zekâ kodlama araçlarının (Claude Code, Cursor, Codex, Windsurf) okuyabildiği markdown kurallar dosyasından oluşan bir tasarım becerileri koleksiyonu sunuyor. Bu proje, tasarım süreçlerini standartlaştırmak için yapay zekâ destekli araçlara yönelik rehber niteliğinde bir kaynak sağlıyor.
 
-- ★ 9.826
+- ★ 11.349
 - GitHub Trending · 2026-10-28
+
+## Güncelleme
+
+- **29 Ekim 2026:** Yıldız 9.826 → 11.349.
 
 ## Ne kazandırır?
 
@@ -55,8 +59,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Markdown](https://trescout.com/dictionary/markdown/)
 - [Skill](https://trescout.com/dictionary/skill/)
+- [Markdown](https://trescout.com/dictionary/markdown/)
 - [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

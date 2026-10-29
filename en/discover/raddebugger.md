@@ -2,12 +2,13 @@
 
 Developed by Epic Games, raddebugger is a native and visual debugger written in the C language. Offering multi-process support, this tool operates in user mode to help software developers identify application bugs.
 
-- ★ 7,702
+- ★ 8,704
 - C
 - GitHub Trending · 2026-10-07
 
 ## Updates
 
+- **October 29, 2026:** Stars 7,702 → 8,704, latest release v0.9.29-alpha (September 30, 2026).
 - **October 7, 2026:** Stars 7,693 → 7,702, latest release v0.9.29-alpha (September 30, 2026).
 
 ## What you get

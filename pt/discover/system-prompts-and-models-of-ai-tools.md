@@ -21,8 +21,8 @@ Esta ferramenta é um arquivo de informações que não requer instalação. Voc
 
 ## Termos relacionados do glossário
 
-- [AI Models](https://trescout.com/pt/dictionary/ai-models/)
 - [System Prompts](https://trescout.com/pt/dictionary/system-prompts/)
+- [AI Models](https://trescout.com/pt/dictionary/ai-models/)
 - [Generative AI](https://trescout.com/pt/dictionary/generative-ai/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

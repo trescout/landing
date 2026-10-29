@@ -70,6 +70,7 @@ On cached content yes, on encrypted and remote traffic it generally slows it dow
 - [Litellm](https://trescout.com/en/discover/litellm/)
 - [FlClash](https://trescout.com/en/discover/flclash/)
 - [Freellmapi](https://trescout.com/en/discover/freellmapi/)
+- [Maigret](https://trescout.com/en/discover/maigret/)
 - [Nginx](https://trescout.com/en/discover/nginx/)
 - [Headroom](https://trescout.com/en/discover/headroom/)
 - [User Scanner](https://trescout.com/en/discover/user-scanner/)

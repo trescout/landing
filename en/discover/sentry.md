@@ -2,12 +2,13 @@
 
 Sentry is an error tracking tool that tracks software errors in real time and monitors application performance. It is used as an error tracking platform that helps developers quickly identify and resolve issues in their codebase.
 
-- ★ 45,576
+- ★ 45,674
 - Python
 - GitHub Trending · 2026-10-03
 
 ## Updates
 
+- **October 29, 2026:** Stars 45,576 → 45,674, latest release 26.10.1 (October 28, 2026).
 - **October 16, 2026:** Stars 45,101 → 45,576, latest release 26.10.0 (October 16, 2026).
 - **October 3, 2026:** Stars 45,098 → 45,101, latest release 26.9.0 (September 15, 2026).
 

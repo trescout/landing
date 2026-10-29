@@ -21,8 +21,8 @@ This tool is an information archive that does not require any installation. You 
 
 ## Related dictionary terms
 
-- [AI Models](https://trescout.com/en/dictionary/ai-models/)
 - [System Prompts](https://trescout.com/en/dictionary/system-prompts/)
+- [AI Models](https://trescout.com/en/dictionary/ai-models/)
 - [Generative AI](https://trescout.com/en/dictionary/generative-ai/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

@@ -2,15 +2,15 @@
 
 Scientific-agent-skills, yapay zekâ ajanlarını bilimsel araştırma süreçlerine uyarlayan hazır yetenek kütüphanesidir. Biyoloji, kimya ve tıp alanlarında 163 doğrulanmış yetenek ve 100'den fazla veri tabanı sunarak kod düzenleyici Cursor veya yapay zekâ asistanı Claude Code gibi platformlarla entegre çalışır.
 
-- ★ 52.471
+- ★ 55.156
 - GitHub Trending · 2026-08-26
 
 ## Güncelleme
 
+- **29 Ekim 2026:** Yıldız 52.471 → 55.156, son sürüm v2.72.0 (1 Ekim 2026).
 - **18 Ekim 2026:** Yıldız 49.814 → 52.471, son sürüm v2.72.0 (1 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 47.342 → 49.814, son sürüm v2.72.0 (1 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 47.133 → 47.342, son sürüm v2.72.0 (1 Ekim 2026).
-- **29 Eylül 2026:** Yıldız 46.808 → 47.133, son sürüm v2.70.0 (29 Eylül 2026).
 
 ## Ne kazandırır?
 

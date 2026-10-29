@@ -58,6 +58,7 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Gizlilik ve etik notu: Yalnızca kendi hesaplarınızı veya açıkça yetkilendirilmiş varlıkları denetleyin. Recursive arama, proxy/Tor ve profil birleştirme özellikleri hedefli takip ve doxxing için kullanılmamalı; hukuki dayanak ve veri minimizasyonu gözetilmelidir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/soxoj/maigret)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -66,6 +67,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Dossier](https://trescout.com/dictionary/dossier/)
 - [OSINT](https://trescout.com/dictionary/osint/)
+- [Proxy](https://trescout.com/dictionary/proxy/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

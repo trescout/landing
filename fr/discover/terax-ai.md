@@ -42,6 +42,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Workspace](https://trescout.com/fr/dictionary/workspace/)
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
 - [API](https://trescout.com/fr/dictionary/api/)

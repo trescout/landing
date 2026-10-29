@@ -2,16 +2,16 @@
 
 Terraform wurde von HashiCorp entwickelt und definiert Infrastruktur als Code, sodass dieser auf sichere und vorhersehbare Weise erstellt werden kann. Dieses in der Go-Sprache geschriebene Tool konvertiert Anwendungsprogrammierschnittstellen (APIs) in deklarative Konfigurationsdateien und ermöglicht es Teams, Infrastrukturprozesse unter Versionskontrolle zu verwalten.
 
-- ★ 50.014
+- ★ 50.089
 - Go
 - GitHub Trending · 2026-07-11
 
 ## Aktualisierungen
 
+- **29. Oktober 2026:** Sterne 50,014 → 50,089, neueste Version v1.17.1 (28. Oktober 2026).
 - **22. Oktober 2026:** Sterne 49,909 → 50,014, neueste Version v1.17.0 (21. Oktober 2026).
 - **14. Oktober 2026:** Sterne 49,812 → 49,909, neueste Version v1.16.6 (14. Oktober 2026).
 - **2. Oktober 2026:** Sterne 49,758 → 49,812, neueste Version v1.16.5 (2. Oktober 2026).
-- **27. September 2026:** Sterne 49,674 → 49,758, neueste Version v1.16.4 (23. September 2026).
 
 ## Was es bringt
 

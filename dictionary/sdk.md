@@ -49,6 +49,7 @@ Yazılır ama her şeyi sıfırdan kodlamanız gerekir, bu da çok uzun sürer.
 - [CUA](https://trescout.com/discover/cua/)
 - [Opendataloader PDF](https://trescout.com/discover/opendataloader-pdf/)
 - [iii](https://trescout.com/discover/iii/)
+- [Logto](https://trescout.com/discover/logto/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

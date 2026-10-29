@@ -93,8 +93,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Fork](https://trescout.com/dictionary/fork/)
 - [Parser](https://trescout.com/dictionary/parser/)
+- [Fork](https://trescout.com/dictionary/fork/)
 - [CI/CD](https://trescout.com/dictionary/ci-cd/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
 - [API](https://trescout.com/dictionary/api/)

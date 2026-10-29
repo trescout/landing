@@ -40,9 +40,5 @@ Sie benötigen keine Installation, um dieses Tool zu verwenden. Kopieren Sie den
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-13 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
-## Redaktioneller Hinweis
-
-Copyright and privacy note: TreScout does not verify rights or territorial availability for listed stream URLs. Use only public broadcasts authorized by their publishers, and review the privacy terms of players and source servers.
-
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/iptv/

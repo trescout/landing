@@ -2,12 +2,13 @@
 
 AI-berkshire, Claude Code altyapısını kullanarak Warren Buffett ve Charlie Munger gibi yatırımcıların metodolojilerini uygulayan bir değer yatırımı araştırma çerçevesidir (research framework). Sistem, çoklu yapay zekâ ajanı (multi-agent) yapısıyla finansal verileri analiz ederek karşıt görüşlü incelemeler yürütmektedir.
 
-- ★ 15.925
+- ★ 16.931
 - Python
 - GitHub Trending · 2026-06-26
 
 ## Güncelleme
 
+- **29 Ekim 2026:** Yıldız 15.925 → 16.931, son sürüm v1.0.0 (7 Nisan 2026).
 - **27 Ağustos 2026:** Yıldız 14.888 → 15.925, son sürüm v1.0.0 (7 Nisan 2026).
 - **2 Ağustos 2026:** Yıldız 2.500 → 14.888, son sürüm v1.0.0 (7 Nisan 2026).
 

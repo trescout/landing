@@ -51,12 +51,14 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Bakım notu: GitHub’daki kaynak depo arşivlenmiş görünüyor. Kurulum ve güvenlik beklentileri için güncel bir fork veya resmî halef proje bulunmadan bu sayfayı aktif bakım garantisi olarak değerlendirmeyin.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/MoonshotAI/kimi-cli)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 
+- [Fork](https://trescout.com/dictionary/fork/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
 - [CLI](https://trescout.com/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)

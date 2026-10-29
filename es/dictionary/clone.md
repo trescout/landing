@@ -69,8 +69,8 @@ Sí. Solo necesitas ejecutar git pull dentro de la carpeta. Si tienes cambios, p
 - [BitNet](https://trescout.com/es/discover/bitnet/)
 - [VoxCPM](https://trescout.com/es/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/es/discover/clone-wars/)
-- [Univer](https://trescout.com/es/discover/univer/)
 - [Claude Seo](https://trescout.com/es/discover/claude-seo/)
+- [Univer](https://trescout.com/es/discover/univer/)
 - [OpenStock](https://trescout.com/es/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/es/discover/hermes-webui/)
 

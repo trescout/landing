@@ -51,6 +51,7 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Gizlilik ve lisans notu: Uygulama kamuya açık verileri görselleştirir; kişi takibi veya birey profilleme amacıyla kullanılmamalıdır. LAN’a açarken API anahtarlarını koruyun, faturalandırma/kota riskini kontrol edin ve her veri sağlayıcının lisans/atıf şartlarına uyun.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/bilawalsidhu/gods-eye-view)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

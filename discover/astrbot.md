@@ -58,6 +58,7 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Güvenlik ve gizlilik notu: Mesajlaşma hesaplarını, API anahtarlarını ve sohbet verilerini koruyun. Eklentileri güvenmeden kurmayın; ajanların kod/kabuk çalıştırma yeteneklerini izole edin ve en az yetkiyle yapılandırın.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/AstrBotDevs/AstrBot)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -67,6 +68,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Development Framework](https://trescout.com/dictionary/development-framework/)
 - [Large Language Models](https://trescout.com/dictionary/large-language-models/)
 - [Framework](https://trescout.com/dictionary/framework/)
+- [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

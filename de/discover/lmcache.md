@@ -44,8 +44,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [KV Cache](https://trescout.com/de/dictionary/kv-cache/)
-- [Large Language Models](https://trescout.com/de/dictionary/large-language-models/)
 - [Token](https://trescout.com/de/dictionary/token/)
+- [Large Language Models](https://trescout.com/de/dictionary/large-language-models/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

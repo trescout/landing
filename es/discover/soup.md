@@ -71,6 +71,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 Security note: Do not run untrusted YAML, datasets, Jinja templates, or reward code. Verify the licenses of model weights and training data, and follow the current release and official security guidance.
 
 ## Enlaces
+
 - [Repositorio en GitHub →](https://github.com/MakazhanAlpamys/Soup)
 - [Leer en turco →](https://trescout.com/discover/soup/)
 

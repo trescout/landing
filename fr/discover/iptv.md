@@ -38,6 +38,7 @@ Vous n'avez besoin d'aucune installation pour utiliser cet outil. Copiez le lien
 Copyright and privacy note: TreScout does not verify rights or territorial availability for listed stream URLs. Use only public broadcasts authorized by their publishers, and review the privacy terms of players and source servers.
 
 ## Liens
+
 - [Dépôt GitHub →](https://github.com/iptv-org/iptv)
 - [Lire en turc →](https://trescout.com/discover/iptv/)
 

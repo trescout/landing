@@ -2,16 +2,16 @@
 
 AI-Infra-Guard, ajanları, becerileri, MCP'yi ve yapay zekâ altyapısını tarayan, ayrıca LLM jailbreak değerlendirmeleri yapan uçtan uca bir yapay zekâ kırmızı ekip platformudur.
 
-- ★ 6.935
+- ★ 7.191
 - Python
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
 
+- **29 Ekim 2026:** Yıldız 6.935 → 7.191, son sürüm v4.6.8 (29 Ekim 2026).
 - **22 Ekim 2026:** Yıldız 6.878 → 6.935, son sürüm v4.6.7 (22 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 6.788 → 6.878, son sürüm v4.6.6 (15 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 6.650 → 6.788, son sürüm v4.6.5 (8 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 6.595 → 6.650, son sürüm v4.6.4 (1 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -58,6 +58,7 @@ Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa 
 Güvenlik notu: Bu araç yalnızca sahip olunan veya açıkça yetkilendirilen AI servisleri, agent/MCP sunucuları ve ağ hedeflerinde kullanılmalıdır. Ağ probe’larını ve jailbreak test setlerini kamu hedeflerine karşı çalıştırmayın; API anahtarlarını ve sonuçları koruyun. WebUI’yi localhost veya erişim kontrollü ağla sınırlayın.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Tencent/AI-Infra-Guard)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
@@ -65,9 +66,11 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Jailbreak](https://trescout.com/dictionary/jailbreak/)
+- [Localhost](https://trescout.com/dictionary/localhost/)
 - [MCP](https://trescout.com/dictionary/mcp/)
 - [LLM](https://trescout.com/dictionary/llm/)
-- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-infra-guard/

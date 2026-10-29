@@ -42,6 +42,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [Workspace](https://trescout.com/es/dictionary/workspace/)
 - [GPU](https://trescout.com/es/dictionary/gpu/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
 - [API](https://trescout.com/es/dictionary/api/)

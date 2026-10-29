@@ -30,6 +30,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Agent Workspace](https://trescout.com/dictionary/agent-workspace/)
+- [Workspace](https://trescout.com/dictionary/workspace/)
 - [Agent](https://trescout.com/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

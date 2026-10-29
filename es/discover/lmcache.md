@@ -44,8 +44,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [KV Cache](https://trescout.com/es/dictionary/kv-cache/)
-- [Large Language Models](https://trescout.com/es/dictionary/large-language-models/)
 - [Token](https://trescout.com/es/dictionary/token/)
+- [Large Language Models](https://trescout.com/es/dictionary/large-language-models/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

@@ -65,6 +65,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 Security and privacy note: Protect messaging accounts, API keys, and chat data. Do not install untrusted plugins; isolate agent code/shell execution and configure least privilege.
 
 ## Enlaces
+
 - [Repositorio en GitHub →](https://github.com/AstrBotDevs/AstrBot)
 - [Leer en turco →](https://trescout.com/discover/astrbot/)
 

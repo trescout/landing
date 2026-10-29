@@ -15,7 +15,7 @@ Madeira ist ein Kompatibilitätsschicht-Projekt, das es ermöglicht, Windows-Spi
 
 ## Was es bringt
 
-- Es ermöglicht Ihnen, Windows-PC-Spiele auf iPhone-Geräten ohne Jailbreak zu spielen.
+- Ermöglicht es Ihnen, Windows-PC-Spiele auf iPhones ohne Jailbreak zu spielen.
 - Für die Prozessorübersetzung wird das Prozessor-Emulationstool FEX-Emu verwendet.
 - Für die Grafikkonvertierung nutzt es das Grafikkonverter-Tool DXMT.
 
@@ -31,7 +31,7 @@ git clone --recurse-submodules <this repo>
 
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
-Ich möchte das Madeira-Projekt installieren und ausführen. Können Sie mir als jemand ohne Programmierkenntnisse Schritt für Schritt erklären, wie ich diese Kompatibilitätsschicht auf meinem iPhone ohne Jailbreak konfiguriere? Erklären Sie mir, wie ich den erforderlichen Debugger einrichte und die Sideloading-Schritte durchführe.
+Ich möchte das Madeira-Projekt installieren und ausführen. Könntest du mir als jemand ohne Programmierkenntnisse Schritt für Schritt erklären, wie ich diese Kompatibilitätsschicht auf meinem iPhone ohne Jailbreak konfiguriere? Erkläre mir bitte auch, wie ich den erforderlichen Debugger einrichte und die Sideloading-Schritte durchführe.
 
 Repository: https://github.com/willfaust/Madeira. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
 

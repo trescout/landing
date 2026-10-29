@@ -2,12 +2,13 @@
 
 Desarrollado por Epic Games, raddebugger es un depurador nativo y visual escrito en lenguaje C. Ofreciendo compatibilidad con multiproceso, esta herramienta opera en modo de usuario para que los desarrolladores de software detecten errores en las aplicaciones.
 
-- ★ 7.702
+- ★ 8.704
 - C
 - GitHub Trending · 2026-10-07
 
 ## Actualizaciones
 
+- **29 de octubre de 2026:** Estrellas 7,702 → 8,704, última versión v0.9.29-alpha (30 de septiembre de 2026).
 - **7 de octubre de 2026:** Estrellas 7,693 → 7,702, última versión v0.9.29-alpha (30 de septiembre de 2026).
 
 ## Qué aporta

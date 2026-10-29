@@ -51,6 +51,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [Workspace](https://trescout.com/dictionary/workspace/)
 - [GPU](https://trescout.com/dictionary/gpu/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
 - [API](https://trescout.com/dictionary/api/)

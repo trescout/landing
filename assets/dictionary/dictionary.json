@@ -9982,5 +9982,57 @@
     "kisa_es": "Es el potencial de los sistemas de inteligencia artificial para tomar decisiones autónomas, realizar planificaciones y alcanzar objetivos sin intervención humana.",
     "kisa_pt": "É o potencial dos sistemas de inteligência artificial para tomar decisões autônomas, fazer planos e alcançar objetivos sem intervenção humana.",
     "kisa_de": "Das Potenzial von KI-Systemen, ohne menschliches Eingreifen autonome Entscheidungen zu treffen, Pläne zu erstellen und Ziele zu erreichen."
+  },
+  {
+    "slug": "design-vocabulary",
+    "en": "Design Vocabulary",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yapay zekâ ajanlarının arayüz tasarlarken tutarlılık sağlamak için kullandığı görsel terim ve kural kümesidir.",
+    "date": "2026-10-29",
+    "kisa_en": "It is the set of visual terms and rules used by artificial intelligence agents to ensure consistency when designing interfaces.",
+    "kisa_fr": "Il s'agit d'un ensemble de termes visuels et de règles utilisés par les agents d'intelligence artificielle pour assurer la cohérence lors de la conception d'interfaces.",
+    "kisa_es": "Es el conjunto de términos visuales y reglas que utilizan los agentes de inteligencia artificial para garantizar la coherencia al diseñar interfaces.",
+    "kisa_pt": "É o conjunto de termos visuais e regras que os agentes de inteligência artificial utilizam para garantir a consistência ao projetar interfaces.",
+    "kisa_de": "Es ist eine Menge visueller Begriffe und Regeln, die KI-Agenten verwenden, um Konsistenz beim Entwerfen von Benutzeroberflächen zu gewährleisten."
+  },
+  {
+    "slug": "workspace",
+    "en": "Workspace",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kullanıcıların projeleri, yapay zekâ modellerini ve geliştirme araçlarını tek bir çatı altında yönettiği dijital çalışma alanıdır.",
+    "date": "2026-10-29",
+    "kisa_en": "It is a digital workspace where users manage projects, artificial intelligence models, and development tools under a single umbrella.",
+    "kisa_fr": "C'est un espace de travail numérique où les utilisateurs gèrent leurs projets, leurs modèles d'intelligence artificielle et leurs outils de développement sous un même toit.",
+    "kisa_es": "Es el espacio de trabajo digital donde los usuarios gestionan proyectos, modelos de inteligencia artificial y herramientas de desarrollo bajo un mismo techo.",
+    "kisa_pt": "É o espaço de trabalho digital onde os usuários gerenciam projetos, modelos de inteligência artificial e ferramentas de desenvolvimento sob um único teto.",
+    "kisa_de": "Es ist ein digitaler Arbeitsbereich, in dem Benutzer Projekte, KI-Modelle und Entwicklungstools unter einem Dach verwalten."
+  },
+  {
+    "slug": "fingerprinting",
+    "en": "Fingerprinting",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Web tarayıcıları ve cihazların benzersiz özelliklerini toplayarak kullanıcıları çerez kullanmadan izleme yöntemidir.",
+    "date": "2026-10-29",
+    "kisa_en": "It is a method of tracking users without using cookies by collecting the unique features of web browsers and devices.",
+    "kisa_fr": "Il s'agit d'une méthode de suivi des utilisateurs sans utiliser de cookies en collectant les caractéristiques uniques des navigateurs web et des appareils.",
+    "kisa_es": "Es un método para rastrear a los usuarios sin utilizar cookies mediante la recopilación de las características únicas de los navegadores web y los dispositivos.",
+    "kisa_pt": "É um método de rastreamento de usuários sem o uso de cookies, coletando as características únicas de navegadores da web e dispositivos.",
+    "kisa_de": "Es ist eine Methode zur Verfolgung von Benutzern ohne die Verwendung von Cookies, indem die einzigartigen Merkmale von Webbrowsern und Geräten gesammelt werden."
+  },
+  {
+    "slug": "touch-display",
+    "en": "Touch Display",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kullanıcının fiziksel temas veya dokunma hareketleriyle doğrudan etkileşime girmesini sağlayan ekran teknolojisidir.",
+    "date": "2026-10-29",
+    "kisa_en": "It is a screen technology that allows users to interact directly through physical contact or touch gestures.",
+    "kisa_fr": "C'est une technologie d'écran qui permet à l'utilisateur d'interagir directement par contact physique ou par des gestes tactiles.",
+    "kisa_es": "Es una tecnología de pantalla que permite al usuario interactuar directamente mediante contacto físico o gestos táctiles.",
+    "kisa_pt": "É uma tecnologia de tela que permite ao usuário interagir diretamente através de contato físico ou gestos de toque.",
+    "kisa_de": "Es ist eine Bildschirmtechnologie, die es dem Benutzer ermöglicht, direkt durch physischen Kontakt oder Berührungsbewegungen zu interagieren."
   }
 ]

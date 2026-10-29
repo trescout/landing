@@ -2,12 +2,13 @@
 
 Hyprland é um gerenciador de janelas que roda no compositor Wayland e oferece uma estrutura dinâmica personalizável. Desenvolvido em C++, esta ferramenta oferece uma experiência de desktop de alto desempenho sem comprometer a estética visual.
 
-- ★ 37.732
+- ★ 39.014
 - C++
 - GitHub Trending · 2026-07-22
 
 ## Atualizações
 
+- **29 de outubro de 2026:** Estrelas 37,732 → 39,014, versão mais recente v0.57.0 (28 de outubro de 2026).
 - **6 de agosto de 2026:** Estrelas 37,701 → 37,732, versão mais recente v0.56.2 (5 de agosto de 2026).
 - **2 de agosto de 2026:** Estrelas 37,107 → 37,701, versão mais recente v0.56.1 (27 de julho de 2026).
 

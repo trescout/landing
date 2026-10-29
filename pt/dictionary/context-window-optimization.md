@@ -12,7 +12,7 @@ A janela de contexto, que é a quantidade de informações que os modelos de int
 
 ## Como funciona
 
-Geralmente é aplicado resumindo textos, marcando partes importantes ou removendo dados desnecessários que distrairiam a atenção do modelo. Com essa técnica, os desenvolvedores permitem que o modelo complete tarefas mais complexas sem exceder sua capacidade.
+Geralmente é implementado resumindo textos, marcando partes importantes ou removendo dados desnecessários que poderiam distrair o modelo. Com esta técnica, os desenvolvedores de software permitem que o modelo conclua tarefas mais complexas sem exceder sua capacidade.
 
 ## Onde é usado
 

@@ -47,6 +47,7 @@ Da Computer Zahlen und keine Wörter verstehen, müssen wir den Text in ein math
 - [Codebase Memory MCP](https://trescout.com/de/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/de/discover/airllm/)
 - [Book to Skill](https://trescout.com/de/discover/book-to-skill/)
+- [Code Review Graph](https://trescout.com/de/discover/code-review-graph/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/token/)
 

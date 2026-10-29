@@ -2,16 +2,16 @@
 
 GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.
 
-- ★ 13.529
+- ★ 13.541
 - PowerShell
 - GitHub Trending · 2026-09-27
 
 ## Güncelleme
 
+- **29 Ekim 2026:** Yıldız 13.529 → 13.541, son sürüm ubuntu26/20261026.180 (26 Ekim 2026).
 - **26 Ekim 2026:** Yıldız 13.527 → 13.529, son sürüm xcode-27-arm64/20261023.0307 (23 Ekim 2026).
 - **25 Ekim 2026:** Yıldız 13.521 → 13.527, son sürüm ubuntu26/20261023.163 (23 Ekim 2026).
 - **24 Ekim 2026:** Yıldız 13.517 → 13.521, son sürüm ubuntu26-arm64/20261023.150 (23 Ekim 2026).
-- **23 Ekim 2026:** Yıldız 13.514 → 13.517, son sürüm win25/20261021.299 (22 Ekim 2026).
 
 ## Ne kazandırır?
 

@@ -47,8 +47,8 @@ Ja, sie können Ihre Dateien verwalten oder Ihre Anwendungen ausführen, wenn Si
 - [Ponytail](https://trescout.com/de/discover/ponytail/)
 - [Awesome LLM Apps](https://trescout.com/de/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/de/discover/browser-use/)
-- [Orca](https://trescout.com/de/discover/orca/)
 - [Agent Skills](https://trescout.com/de/discover/agent-skills/)
+- [Orca](https://trescout.com/de/discover/orca/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/agent/)
 

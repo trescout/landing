@@ -38,6 +38,8 @@ Otomatik gelmez, ancak orijinal projedeki yenilikleri kendi kopyanıza ayrıca a
 
 - [Manim](https://trescout.com/discover/manim/)
 - [Googletest](https://trescout.com/discover/googletest/)
+- [Open Deep Research](https://trescout.com/discover/open-deep-research/)
+- [Kimi CLI](https://trescout.com/discover/kimi-cli/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

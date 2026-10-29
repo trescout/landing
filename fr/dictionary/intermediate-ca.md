@@ -10,7 +10,7 @@ Autorité intermédiaire située entre le certificat racine, qui authentifie l'i
 
 Une autorité de certification intermédiaire (intermediate CA) est une entité de confiance intermédiaire, habilitée par une autorité de certification racine, qui constitue la base des connexions HTTPS sécurisées sur Internet. L'utilisation directe du certificat racine sur des serveurs exposés à Internet présentant un risque de sécurité, cette tâche est déléguée aux certificats intermédiaires. Ainsi, la chaîne de confiance principale est préservée tout en permettant de distribuer en toute sécurité des certificats de sécurité numérique aux sites web.
 
-***Analogie :** Cela ressemble au cas où l'État, au lieu de délivrer directement des pièces d'identité depuis son administration centrale, confère une habilitation à la mairie de quartier pour gérer les approbations par son intermédiaire.*
+***Analogie :** C'est comme si l'État délivrait un certificat d'autorité au chef du quartier et effectuait les travaux d'approbation par son intermédiaire, au lieu de délivrer une carte d'identité directement de son propre mhra.*
 
 ## Comment ça marche
 

@@ -67,8 +67,8 @@ Necesitará analizadores de documentos, herramientas de fragmentación de texto,
 - [Awesome LLM Apps](https://trescout.com/es/discover/awesome-llm-apps/)
 - [Ragflow](https://trescout.com/es/discover/ragflow/)
 - [AI Agent Book](https://trescout.com/es/discover/ai-agent-book/)
-- [GitNexus](https://trescout.com/es/discover/gitnexus/)
 - [DeepTutor](https://trescout.com/es/discover/deeptutor/)
+- [GitNexus](https://trescout.com/es/discover/gitnexus/)
 - [OpenViking](https://trescout.com/es/discover/openviking/)
 - [PageIndex](https://trescout.com/es/discover/pageindex/)
 
