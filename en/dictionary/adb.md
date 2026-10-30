@@ -53,7 +53,7 @@ Basic commands can be learned; however, especially adb shell and deletion operat
 
 **Can it be wireless?**
 
-Yes. After pairing with the device on supported Android versions, a connection can be established over Wi-Fi. Stability and speed depend on the quality of the local network.
+Yes. After pairing with the device on supported Android versions, connection can be established over Wi-Fi. Stability and speed depend on the quality of the local network.
 
 **Is it safe?**
 

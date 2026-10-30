@@ -2,16 +2,16 @@
 
 OfficeCLI oferece um pacote de escritório de código aberto que permite aos agentes de IA ler, editar e automatizar diretamente arquivos do Word, Excel e PowerPoint. Desenvolvida em C#, esta ferramenta permite que operações sejam realizadas através de um único arquivo binário sem a necessidade de instalação de software de escritório.
 
-- ★ 32.527
+- ★ 32.795
 - C#
 - GitHub Trending · 2026-07-08
 
 ## Atualizações
 
+- **30 de outubro de 2026:** Estrelas 32,527 → 32,795, versão mais recente v1.0.160 (30 de outubro de 2026).
 - **27 de outubro de 2026:** Estrelas 32,214 → 32,527, versão mais recente v1.0.159 (27 de outubro de 2026).
 - **20 de outubro de 2026:** Estrelas 31,905 → 32,214, versão mais recente v1.0.158 (20 de outubro de 2026).
 - **12 de outubro de 2026:** Estrelas 31,762 → 31,905, versão mais recente v1.0.157 (12 de outubro de 2026).
-- **9 de outubro de 2026:** Estrelas 31,612 → 31,762, versão mais recente v1.0.156 (9 de outubro de 2026).
 
 ## O que você ganha
 

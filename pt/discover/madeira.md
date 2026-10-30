@@ -15,7 +15,7 @@ O Madeira é um projeto de camada de compatibilidade que permite rodar jogos do 
 
 ## O que você ganha
 
-- Permite que você jogue jogos de computador com Windows em dispositivos iPhone sem jailbreak.
+- Permite que você jogue jogos de computador com Windows em iPhones sem jailbreak.
 - Utiliza a ferramenta FEX-Emu, que faz emulação de processador, para a tradução da CPU.
 - Utiliza a ferramenta conversora gráfica DXMT para o processo de conversão de gráficos.
 
@@ -31,7 +31,7 @@ git clone --recurse-submodules <this repo>
 
 Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
-Quero configurar e executar o projeto Madeira. Como alguém que não sabe codificar, você poderia me explicar passo a passo como configurar esta camada de compatibilidade no meu iPhone sem jailbreak? Explique como obter o depurador necessário e realizar as etapas de sideloading.
+Quero configurar e executar o projeto Madeira. Como alguém que não sabe programar, você pode me explicar passo a passo como configurar esta camada de compatibilidade no meu iPhone sem jailbreak? Explique como obter o depurador necessário e realizar as etapas de sideloading.
 
 Repositório: https://github.com/willfaust/Madeira. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
 

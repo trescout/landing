@@ -11749,7 +11749,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 31.320 · HTML",
+    "meta": "★ 31.326 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -11757,7 +11757,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 31320,
+    "stars": 31326,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-10-30",
@@ -12033,6 +12033,13 @@
         "yildiz": 31320,
         "onceki_yildiz": 30972,
         "surum": "cua-spaces-v0.18.0",
+        "surum_tarihi": "2026-10-30"
+      },
+      {
+        "tarih": "2026-10-30",
+        "yildiz": 31326,
+        "onceki_yildiz": 31320,
+        "surum": "cua-spaces-v0.19.0",
         "surum_tarihi": "2026-10-30"
       }
     ],
@@ -15932,7 +15939,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 75.567 · TypeScript",
+    "meta": "★ 75.661 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -15940,7 +15947,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 75567,
+    "stars": 75661,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-30",
@@ -16553,6 +16560,13 @@
         "onceki_yildiz": 74883,
         "surum": "v0.8.220",
         "surum_tarihi": "2026-10-30"
+      },
+      {
+        "tarih": "2026-10-30",
+        "yildiz": 75661,
+        "onceki_yildiz": 75567,
+        "surum": "v0.8.221",
+        "surum_tarihi": "2026-10-30"
       }
     ],
     "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.",
@@ -16900,7 +16914,7 @@
     "slug": "orca",
     "title": "Orca",
     "tagline": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme…",
-    "meta": "★ 109.302 · TypeScript",
+    "meta": "★ 110.497 · TypeScript",
     "image": "/assets/discover/og/orca.webp",
     "source": "GitHub",
     "date": "2026-06-25",
@@ -16908,7 +16922,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 109302,
+    "stars": 110497,
     "lite": false,
     "headline": "Birden fazla yapay zekâ ajanı yönetin",
     "last_review": "2026-10-30",
@@ -17276,6 +17290,13 @@
         "onceki_yildiz": 108415,
         "surum": "v1.4.244",
         "surum_tarihi": "2026-10-29"
+      },
+      {
+        "tarih": "2026-10-30",
+        "yildiz": 110497,
+        "onceki_yildiz": 109302,
+        "surum": "v1.4.245",
+        "surum_tarihi": "2026-10-30"
       }
     ],
     "tagline_en": "Developed by Stablyai, Orca is an agent development tool that allows managing multiple artificial intelligence agents simultaneously.",
@@ -18226,7 +18247,7 @@
     "slug": "ppt-master",
     "title": "Ppt Master",
     "tagline": "PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır.",
-    "meta": "★ 69.230 · Python",
+    "meta": "★ 71.069 · Python",
     "image": "/assets/discover/og/ppt-master.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -18234,7 +18255,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 69230,
+    "stars": 71069,
     "lite": false,
     "headline": "Belgeleri düzenlenebilir sunumlara dönüştüren yapay zekâ",
     "last_review": "2026-10-30",
@@ -18385,6 +18406,13 @@
         "onceki_yildiz": 65779,
         "surum": "v6.7.3",
         "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-30",
+        "yildiz": 71069,
+        "onceki_yildiz": 69230,
+        "surum": "v6.8.0",
+        "surum_tarihi": "2026-10-30"
       }
     ],
     "tagline_en": "PPT-Master is an AI-powered tool that converts documents directly into editable presentation files (PPTX).",
@@ -22729,7 +22757,7 @@
     "slug": "officecli",
     "title": "OfficeCLI",
     "tagline": "OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını doğrudan okumasına, düzenlemesine ve otomatize…",
-    "meta": "★ 32.527 · C#",
+    "meta": "★ 32.795 · C#",
     "image": "/assets/discover/og/officecli.webp",
     "source": "GitHub",
     "date": "2026-07-08",
@@ -22737,7 +22765,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 32527,
+    "stars": 32795,
     "lite": false,
     "headline": "Yapay zekâ ile ofis dosyalarını yönetin",
     "last_review": "2026-10-30",
@@ -22874,6 +22902,13 @@
         "onceki_yildiz": 32214,
         "surum": "v1.0.159",
         "surum_tarihi": "2026-10-27"
+      },
+      {
+        "tarih": "2026-10-30",
+        "yildiz": 32795,
+        "onceki_yildiz": 32527,
+        "surum": "v1.0.160",
+        "surum_tarihi": "2026-10-30"
       }
     ],
     "tagline_en": "OfficeCLI allows artificial intelligence agents to directly read, edit and automate Word, Excel and PowerPoint files.",
@@ -26358,7 +26393,7 @@
     "slug": "deeptutor",
     "title": "DeepTutor",
     "tagline": "DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning)…",
-    "meta": "★ 48.419 · Python",
+    "meta": "★ 50.972 · Python",
     "image": "/assets/discover/og/deeptutor.webp",
     "source": "GitHub",
     "date": "2026-07-16",
@@ -26366,7 +26401,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 48419,
+    "stars": 50972,
     "lite": false,
     "headline": "Yapay zekâ destekli kişiselleştirilmiş eğitim",
     "last_review": "2026-10-30",
@@ -26550,6 +26585,13 @@
         "tarih": "2026-10-29",
         "yildiz": 48419,
         "onceki_yildiz": 46783,
+        "surum": "v1.7.0",
+        "surum_tarihi": "2026-10-28"
+      },
+      {
+        "tarih": "2026-10-30",
+        "yildiz": 50972,
+        "onceki_yildiz": 48419,
         "surum": "v1.7.0",
         "surum_tarihi": "2026-10-28"
       }
@@ -45674,14 +45716,14 @@
     "slug": "voicestudio",
     "title": "VoiceStudio",
     "tagline": "VoiceStudio, ses klonlama, dublaj ve transkripsiyon gibi işlemleri internete ihtiyaç duymadan gerçekleştiren açık kaynaklı bir…",
-    "meta": "★ 90.075 · Python",
+    "meta": "★ 94.761 · Python",
     "image": "/assets/discover/og/voicestudio.webp",
     "source": "GitHub",
     "date": "2026-09-03",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 90075,
+    "stars": 94761,
     "summary": "VoiceStudio, ses klonlama, dublaj ve transkripsiyon gibi işlemleri internete ihtiyaç duymadan gerçekleştiren açık kaynaklı bir ses işleme platformu. Ses sentezleme servisi ElevenLabs için yerel olarak çalışabilen ve 646 dili destekleyen bir alternatif sunuyor.",
     "lite": false,
     "headline": "Ses klonlama ve dublajı yerel yapın",
@@ -45859,6 +45901,13 @@
         "tarih": "2026-10-27",
         "yildiz": 90075,
         "onceki_yildiz": 85225,
+        "surum": "v0.5.7",
+        "surum_tarihi": "2026-10-26"
+      },
+      {
+        "tarih": "2026-10-30",
+        "yildiz": 94761,
+        "onceki_yildiz": 90075,
         "surum": "v0.5.7",
         "surum_tarihi": "2026-10-26"
       }
@@ -49528,7 +49577,7 @@
     "slug": "security-audit-skill",
     "title": "Security Audit Skill",
     "tagline": "Cloudflare tarafından geliştirilen security-audit-skill, kodlama ajanlarının çok aşamalı güvenlik denetimleri yapmasını…",
-    "meta": "★ 50.665 · JavaScript",
+    "meta": "★ 53.211 · JavaScript",
     "image": "/assets/discover/og/security-audit-skill.webp",
     "source": "GitHub",
     "date": "2026-09-18",
@@ -49536,7 +49585,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 50665,
+    "stars": 53211,
     "summary": "Cloudflare tarafından geliştirilen security-audit-skill, kodlama ajanlarının çok aşamalı güvenlik denetimleri yapmasını sağlayan bir yetenek paketi (skill). Makine tarafından okunabilir ve bağımsız olarak doğrulanmış bulgular üreterek yazılım geliştirme süreçlerinde güvenlik standartlarını otomatize ediyor.",
     "lite": false,
     "headline": "Yapay zekâ ile otomatik güvenlik denetimi",
@@ -49627,6 +49676,11 @@
         "tarih": "2026-10-28",
         "yildiz": 50665,
         "onceki_yildiz": 47514
+      },
+      {
+        "tarih": "2026-10-30",
+        "yildiz": 53211,
+        "onceki_yildiz": 50665
       }
     ]
   },
@@ -51866,7 +51920,7 @@
     "slug": "openrig",
     "title": "Openrig",
     "tagline": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan…",
-    "meta": "★ 8.290 · TypeScript",
+    "meta": "★ 8.309 · TypeScript",
     "image": "/assets/discover/og/openrig.webp",
     "source": "GitHub",
     "date": "2026-09-28",
@@ -51874,7 +51928,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8290,
+    "stars": 8309,
     "last_seen": "2026-10-03",
     "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
     "lite": false,
@@ -52027,6 +52081,13 @@
         "onceki_yildiz": 8250,
         "surum": "v0.7.5",
         "surum_tarihi": "2026-10-29"
+      },
+      {
+        "tarih": "2026-10-30",
+        "yildiz": 8309,
+        "onceki_yildiz": 8290,
+        "surum": "v0.7.6",
+        "surum_tarihi": "2026-10-30"
       }
     ],
     "tagline_en": "Openrig, a multi-agent… combining Anthropic's coding tool Claude Code and OpenAI's coding model Codex into a single system",
@@ -53632,14 +53693,14 @@
     "slug": "opengym",
     "title": "openGym",
     "tagline": "OpenGym, antrenman rutinlerini planlamaya ve vücut ağırlığı egzersizlerini takip etmeye yarayan açık kaynaklı bir spor salonu…",
-    "meta": "★ 16.384 · JavaScript",
+    "meta": "★ 17.403 · JavaScript",
     "image": "/assets/discover/og/opengym.webp",
     "source": "GitHub",
     "date": "2026-10-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 16384,
+    "stars": 17403,
     "last_seen": "2026-10-07",
     "summary": "OpenGym, antrenman rutinlerini planlamaya ve vücut ağırlığı egzersizlerini takip etmeye yarayan açık kaynaklı bir spor salonu yönetim aracıdır. Kullanıcıların verilerini kendi sunucularında barındırmalarına olanak tanıyan bu yazılım, popüler fitness uygulamalarından (Strong, Hevy) veri aktarımını destekler.",
     "lite": false,
@@ -53727,6 +53788,13 @@
         "tarih": "2026-10-27",
         "yildiz": 16384,
         "onceki_yildiz": 15063,
+        "surum": "v1.4.3",
+        "surum_tarihi": "2026-10-26"
+      },
+      {
+        "tarih": "2026-10-30",
+        "yildiz": 17403,
+        "onceki_yildiz": 16384,
         "surum": "v1.4.3",
         "surum_tarihi": "2026-10-26"
       }
