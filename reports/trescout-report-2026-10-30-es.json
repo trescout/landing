@@ -1,0 +1,784 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-30",
+  "capturedAt": "2026-10-30T05:01:57.954Z",
+  "editorial": "La apertura de los pesos del modelo Mistral Large 4 y el lanzamiento de nuevos modelos de lenguaje como DeepSeek V4.1 Flash han provocado una intensa actividad en el ecosistema de desarrolladores hoy. Por el lado académico, los estudios que examinan el impacto de los métodos de evaluación (benchmarking) en los niveles de dificultad están reabriendo el debate sobre los procesos de evaluación de modelos.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "HKUDS/DeepTutor es un espacio de trabajo educativo basado en inteligencia artificial (agent-native) que combina procesos de aprendizaje como tutoría privada, resolución de problemas, creación de exámenes e investigación en un solo sistema. Este sistema, que tiene como objetivo hacer que las experiencias de aprendizaje personalizadas de los usuarios sean continuas, ofrece prácticas de visualización y especialización en una estructura escalable.",
+          "meta": "Python · ★ 50.569 · +1.930 hoy",
+          "snapshot": {
+            "sourceId": "HKUDS/DeepTutor",
+            "capturedAt": "2026-10-30T05:01:58.945Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 50569,
+              "engagementCount": 1930,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1930,
+                "baglam": "readme"
+              }
+            },
+            "description": "DeepTutor: Lifelong Personalized Tutoring. DeepTutor is an agent-native learning workspace that connects tutoring, problem solving, quiz generation, research, visualization, and mastery practice in one extensible system."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers es una metodología de desarrollo de software y un marco de trabajo (framework) desarrollado para agentes de inteligencia artificial que programan. Permite a los agentes estructurar sus procesos de desarrollo de software a través de habilidades componibles (composable skills) y directrices fundamentales.",
+          "meta": "Shell · ★ 308.750 · +1.034 hoy",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-30T05:01:58.945Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 308750,
+              "engagementCount": 1034,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1034,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Desarrollado con el lenguaje Rust, impeccable ofrece un vocabulario de diseño para agentes de programación. Su objetivo es detectar contenido erróneo generado por inteligencia artificial (AI slop) durante el proceso de desarrollo de software y mejorar la calidad de los proyectos.",
+          "meta": "Rust · ★ 95.740 · +2.870 hoy",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-30T05:01:58.945Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 95740,
+              "engagementCount": 2870,
+              "rank": 3,
+              "extra": {
+                "starsToday": 2870
+              }
+            },
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "title": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "summary": "ThinkRail, desarrollado por JetBrains, es un entorno de desarrollo integrado (IDE) agéntico que se personaliza según el estilo de trabajo del usuario y mejora sus capacidades con el tiempo al aprender los requisitos del proyecto. Esta herramienta, preparada con el lenguaje TypeScript, tiene como objetivo personalizar la experiencia del desarrollador analizando proyectos a través de especificaciones vivas.",
+          "meta": "TypeScript · ★ 6.129 · +1.117 hoy",
+          "snapshot": {
+            "sourceId": "JetBrains/thinkrail",
+            "capturedAt": "2026-10-30T05:01:58.945Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6129,
+              "engagementCount": 1117,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1117,
+                "baglam": "readme"
+              }
+            },
+            "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need. ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow."
+          }
+        },
+        {
+          "title": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "summary": "OpenMausBot es una alternativa de código abierto (open source) a Grok Bot que le permite crear su propio equipo de bots de inteligencia artificial dentro de aplicaciones de chat. El software viene con soporte para una máquina virtual que los bots pueden utilizar.",
+          "meta": "TypeScript · ★ 7.621 · +1.199 hoy",
+          "snapshot": {
+            "sourceId": "milind-soni/OpenMausBot",
+            "capturedAt": "2026-10-30T05:01:58.945Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7621,
+              "engagementCount": 1199,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1199,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open-source Grok Bot alternative with a virtual machine that bots can use. The open-source Grok Bot alternative: your own team of AI bots, in a chat app."
+          }
+        },
+        {
+          "title": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "summary": "nightly-labs/openbot es una aplicación de escritorio que le permite ejecutar modelos de inteligencia artificial como Codex, Claude y Grok en entornos de trabajo locales. El software ofrece un entorno que apoya la colaboración entre compañeros de equipo basados en inteligencia artificial con funciones como el intercambio de archivos y el control del navegador.",
+          "meta": "TypeScript · ★ 3.981 · +709 hoy",
+          "snapshot": {
+            "sourceId": "nightly-labs/openbot",
+            "capturedAt": "2026-10-30T05:01:58.945Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3981,
+              "engagementCount": 709,
+              "rank": 6,
+              "extra": {
+                "starsToday": 709
+              }
+            },
+            "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+          }
+        },
+        {
+          "title": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "summary": "elayadesign/ai-design-skills es una colección de habilidades de diseño preparada para herramientas de programación de inteligencia artificial (Claude Code, Cursor, Codex, Windsurf) y dirigida a sistemas que pueden leer reglas de markdown. Ofrece directrices estandarizadas que permiten a los desarrolladores obtener resultados más eficientes de estas herramientas.",
+          "meta": "★ 12.367 · +1.187 hoy",
+          "snapshot": {
+            "sourceId": "elayadesign/ai-design-skills",
+            "capturedAt": "2026-10-30T05:01:58.945Z",
+            "metadata": {
+              "popularity": 12367,
+              "engagementCount": 1187,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1187,
+                "baglam": "readme"
+              }
+            },
+            "description": "A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file."
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "thedotmack/claude-mem es una herramienta que guarda el historial de los agentes de inteligencia artificial entre sesiones, proporcionando contexto para interacciones futuras. Este sistema, que funciona con asistentes de programación como Claude Code y Copilot, comprime los datos con inteligencia artificial y transfiere la información relevante a las sesiones posteriores.",
+          "meta": "TypeScript · ★ 104.987 · +336 hoy",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-10-30T05:01:58.945Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 104987,
+              "engagementCount": 336,
+              "rank": 8,
+              "extra": {
+                "starsToday": 336
+              }
+            },
+            "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+          }
+        },
+        {
+          "title": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "summary": "CopilotKit/OpenBot permite crear compañeros de trabajo de inteligencia artificial de código abierto (open source) que pueden acceder a herramientas como el navegador y archivos. Este sistema admite cualquier integración de agente de interfaz de usuario (AG-UI agent) con una estructura que planifica cada acción antes de ejecutarla y la registra posteriormente.",
+          "meta": "TypeScript · ★ 8.260 · +247 hoy",
+          "snapshot": {
+            "sourceId": "CopilotKit/OpenBot",
+            "capturedAt": "2026-10-30T05:01:58.945Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 8260,
+              "engagementCount": 247,
+              "rank": 9,
+              "extra": {
+                "starsToday": 247
+              }
+            },
+            "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+          }
+        },
+        {
+          "title": "Donchitos/Claude-Code-Game-Studios",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "summary": "Claude-Code-Game-Studios es un proyecto que tiene como objetivo transformar la herramienta de desarrollo de software Claude Code en un estudio de juegos integral. Ofrece un sistema de coordinación que imita una jerarquía de estudio real utilizando 49 agentes de inteligencia artificial y 72 habilidades de flujo de trabajo (workflow skills).",
+          "meta": "Shell · ★ 29.473 · +353 hoy",
+          "snapshot": {
+            "sourceId": "Donchitos/Claude-Code-Game-Studios",
+            "capturedAt": "2026-10-30T05:01:58.945Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 29473,
+              "engagementCount": 353,
+              "rank": 11,
+              "extra": {
+                "starsToday": 353
+              }
+            },
+            "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Patrick Stewart has died",
+          "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+          "summary": "Según la noticia publicada por el New York Times, el actor Patrick Stewart ha fallecido. La noticia del fallecimiento del artista tuvo una amplia repercusión en las plataformas sociales.",
+          "meta": "2.622 puntos · 555 comentarios",
+          "snapshot": {
+            "sourceId": "50294702",
+            "capturedAt": "2026-10-30T05:01:58.276Z",
+            "metadata": {
+              "popularity": 2622,
+              "engagementCount": 555,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50294702",
+                  "popularity": 2622,
+                  "engagementCount": 555
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-29T19:41:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50294702"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;archive.ph&#x2F;y4Egmhttps:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Patrick_Stewart"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50294702",
+              "popularity": 2622,
+              "engagementCount": 555
+            }
+          ]
+        },
+        {
+          "title": "We're releasing the weights of Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "summary": "Mistral AI ha publicado los pesos (weights) del modelo de lenguaje grande Mistral Large 4 como código abierto. Este movimiento permite a los desarrolladores ejecutar y personalizar el modelo en su propia infraestructura.",
+          "meta": "1.279 puntos · 358 comentarios",
+          "snapshot": {
+            "sourceId": "50289418",
+            "capturedAt": "2026-10-30T05:01:58.276Z",
+            "metadata": {
+              "popularity": 1279,
+              "engagementCount": 358,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50289418",
+                  "popularity": 1279,
+                  "engagementCount": 358
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-29T14:13:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50289418"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50289418",
+              "popularity": 1279,
+              "engagementCount": 358
+            }
+          ]
+        },
+        {
+          "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+          "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+          "summary": "Se alega que se han robado activos por valor de 5.6 mil millones de dólares del intercambio de criptomonedas Binance a través de una billetera digital llamada Binance-hacker-1029. Estos datos, compartidos por la plataforma de análisis de blockchain Arkham Intelligence, permiten rastrear la actividad en dicha dirección de billetera.",
+          "meta": "968 puntos · 565 comentarios",
+          "snapshot": {
+            "sourceId": "50296470",
+            "capturedAt": "2026-10-30T05:01:58.276Z",
+            "metadata": {
+              "popularity": 968,
+              "engagementCount": 565,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50296470",
+                  "popularity": 968,
+                  "engagementCount": 565
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-29T21:38:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50296470"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50296470",
+              "popularity": 968,
+              "engagementCount": 565
+            }
+          ]
+        },
+        {
+          "title": "DoorDash to acquire Instacart",
+          "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+          "summary": "La plataforma de entrega de comida DoorDash ha anunciado que adquirirá el servicio de entrega de comestibles Instacart. Con esta fusión, se pretende que las tiendas de todos los tamaños accedan a la infraestructura tecnológica utilizada por los grandes minoristas en línea para llegar a una base de clientes más amplia.",
+          "meta": "452 puntos · 623 comentarios",
+          "snapshot": {
+            "sourceId": "50287919",
+            "capturedAt": "2026-10-30T05:01:58.276Z",
+            "metadata": {
+              "popularity": 452,
+              "engagementCount": 623,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50287919",
+                  "popularity": 452,
+                  "engagementCount": 623
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-29T12:33:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50287919",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Together, DoorDash and Instacart would help stores of every size reach more customers with the kinds of innovative technology that the biggest online retailers and grocers build for themselves."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50287919",
+              "popularity": 452,
+              "engagementCount": 623
+            }
+          ]
+        },
+        {
+          "title": "LLM Voice",
+          "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+          "summary": "El artículo LLM Voice, escrito por Martin Fowler, aborda la sensación de artificialidad en los textos generados por modelos de lenguaje grandes (LLM) y el efecto de valle inquietante (uncanny valley) que esto provoca. El texto evalúa los problemas de estilo característicos que presentan los contenidos generados por inteligencia artificial a pesar de su similitud con el lenguaje humano.",
+          "meta": "388 puntos · 207 comentarios",
+          "snapshot": {
+            "sourceId": "50290177",
+            "capturedAt": "2026-10-30T05:01:58.276Z",
+            "metadata": {
+              "popularity": 388,
+              "engagementCount": 207,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50290177",
+                  "popularity": 388,
+                  "engagementCount": 207
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-29T14:57:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50290177",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "The uncanny valley of LLMs' prose"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50290177",
+              "popularity": 388,
+              "engagementCount": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Publicado en Hugging Face, deepseek-ai/DeepSeek-V4.1-Flash-1017 es un modelo de inteligencia artificial capaz de procesar datos basados en texto e imágenes. Ofrece mejoras en áreas como el razonamiento, la escritura de código y el análisis visual en comparación con la versión anterior, al tiempo que busca reducir el tiempo de procesamiento y los costos.",
+          "meta": "♥ 3.889 · 131.062 descargas",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-30T05:01:58.027Z",
+            "metadata": {
+              "popularity": 3889,
+              "engagementCount": 131062,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 873,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "summary": "Nanbeige/Nanbeige4.3-33B, compartido en Hugging Face, se presenta como un modelo de inteligencia artificial centrado en la generación de texto (text-generation). Los desarrolladores tienen como objetivo desarrollar agentes de inteligencia artificial ligeros (lightweight agents) mediante la transferencia de capacidades a modelos más pequeños a través de un modelo docente de alta capacidad (distillation).",
+          "meta": "♥ 782 · 9.655 descargas",
+          "snapshot": {
+            "sourceId": "Nanbeige/Nanbeige4.3-33B",
+            "capturedAt": "2026-10-30T05:01:58.027Z",
+            "metadata": {
+              "popularity": 782,
+              "engagementCount": 9655,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 767,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "llm",
+                  "nanbeige",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+                  "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teacher agent first, which will subsequently anchor the distillation of advanced agentic capabilities into smaller models."
+          }
+        },
+        {
+          "title": "LiquidAI/LFM3-1.7B",
+          "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+          "summary": "LFM3-1.7B, desarrollado por LiquidAI, es un modelo de generación de texto (text-generation model) diseñado para agentes locales y aplicaciones especializadas. Basado en una nueva arquitectura tri-híbrida (tri-hybrid architecture), este modelo busca ofrecer un rendimiento eficiente con un bajo número de parámetros.",
+          "meta": "♥ 495 · 15.885 descargas",
+          "snapshot": {
+            "sourceId": "LiquidAI/LFM3-1.7B",
+            "capturedAt": "2026-10-30T05:01:58.027Z",
+            "metadata": {
+              "popularity": 495,
+              "engagementCount": 15885,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 485,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "lfm3",
+                  "text-generation",
+                  "liquid",
+                  "edge",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "ar",
+                  "zh",
+                  "fr",
+                  "de",
+                  "it",
+                  "ja",
+                  "ko",
+                  "pt",
+                  "es",
+                  "vi",
+                  "th",
+                  "id",
+                  "hi",
+                  "ru",
+                  "pl",
+                  "base_model:LiquidAI/LFM3-1.7B-Base",
+                  "base_model:finetune:LiquidAI/LFM3-1.7B-Base",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. LFM3-1.7B is a text model for local agents and specialized applications, based on our new tri-hybrid architecture."
+          }
+        },
+        {
+          "title": "RecursiveSI/flint",
+          "url": "https://huggingface.co/RecursiveSI/flint",
+          "summary": "Flint, desarrollado por RecursiveSI, es un modelo de lenguaje de mezcla de expertos (mixture-of-experts) diseñado para agentes de inteligencia artificial centrados en la codificación. Con un total de 39.8 mil millones de parámetros, el modelo ha sido desarrollado para realizar tareas como examinar bases de código, depurar errores, añadir funciones y escribir pruebas.",
+          "meta": "♥ 1.246 · 16.598 descargas",
+          "snapshot": {
+            "sourceId": "RecursiveSI/flint",
+            "capturedAt": "2026-10-30T05:01:58.027Z",
+            "metadata": {
+              "popularity": 1246,
+              "engagementCount": 16598,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 475,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "flint",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Flint is Recursive’s mixture-of-experts language model for coding agents, with 39.8 billion total parameters and approximately 2.5 billion active per token. It is designed to investigate codebases, fix bugs, implement features, and write tests."
+          }
+        },
+        {
+          "title": "XHToken/Spark-X2.6-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "summary": "Spark-X2.6-4B, publicado en Hugging Face, es un modelo de inteligencia artificial centrado en la generación de texto (text-generation). Manteniendo la misma arquitectura que Spark-X2.5-4B, esta versión ofrece un rendimiento más avanzado en áreas como la codificación, el multilingüismo y el razonamiento gracias a las mejoras en el proceso posterior al entrenamiento.",
+          "meta": "♥ 913 · 10.163 descargas",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.6-4B",
+            "capturedAt": "2026-10-30T05:01:58.027Z",
+            "metadata": {
+              "popularity": 913,
+              "engagementCount": 10163,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 451,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "zh",
+                  "base_model:XHToken/Spark-X2.6-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.6-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improved post-training. It delivers substantial improvements in coding, agent, long-context, multilingual, reasoning, etc. These advances enable more capable and practical on-device AI for developers and users tackling real-world tasks."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Intrinsic Distribution Matching",
+          "url": "https://huggingface.co/papers/2610.39633",
+          "summary": "Intrinsic Distribution Matching, compartido por Hugging Face, tiene como objetivo lograr una alta precisión con un número limitado de pasos en los procesos de generación de texto a imagen (text-to-image generation). Basado en el método de destilación de coincidencia de distribución (distribution matching distillation), este estudio examina los efectos de una restricción de momento explícita para que las imágenes generadas converjan hacia la distribución de referencia.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.39633",
+            "capturedAt": "2026-10-30T05:01:58.032Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.39633",
+                "publishedAt": "2026-10-29T00:00:00.000Z"
+              }
+            },
+            "description": "One-step and few-step text-to-image generation must accurately render the details specified in the prompt despite limited opportunities for refinement. Distribution matching distillation (DMD) uses score differences to bring the generated distribution closer to a reference distribution. Following prior work, we estimate this difference with internal velocity branches, avoiding a separate fake-score network. We ask whether an explicit moment constraint improves this learned score supervision. A d"
+          }
+        },
+        {
+          "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+          "url": "https://huggingface.co/papers/2610.29927",
+          "summary": "El artículo compartido por Hugging Face define las pruebas de referencia (benchmark) no solo como una colección de preguntas, sino como una herramienta de medición empírica a través de niveles de dificultad. Este punto de vista tiene como objetivo hacer que los procesos de evaluación sean más sistemáticos al identificar modos de error fundamentales, como la desalineación de la medición y las brechas de cobertura.",
+          "meta": "7 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.29927",
+            "capturedAt": "2026-10-30T05:01:58.032Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.29927",
+                "publishedAt": "2026-10-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/ASTRAL-Group/benchmark-difficulty-measure"
+              }
+            },
+            "description": "A benchmark is not merely a collection of test questions; it naturally induces an empirical measure over difficulty. In this work, we develop this measure-based view of benchmark evaluation. This perspective allows us to identify and formalize two central failure modes: measure mismatch, where the benchmark difficulty distribution differs from the intended difficulty distribution, and coverage gaps, where uncovered regions along the difficulty axis prevent benchmarks from detecting meaningful lo"
+          }
+        },
+        {
+          "title": "A Broader Look into MLLM's Retrieval Heads",
+          "url": "https://huggingface.co/papers/2610.32411",
+          "summary": "El artículo compartido por Hugging Face examina los cabezales de recuperación (retrieval heads) que proporcionan a los modelos de lenguaje grandes multimodales (multimodal large language models) la capacidad de encontrar evidencia en entradas largas. El estudio cuestiona el impacto de este mecanismo en diferentes modos y cómo puede utilizarse para mejorar los modelos.",
+          "meta": "9 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.32411",
+            "capturedAt": "2026-10-30T05:01:58.032Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.32411",
+                "publishedAt": "2026-10-23T00:00:00.000Z"
+              }
+            },
+            "description": "Locating relevant evidence in long inputs is a core capability of Multimodal Large Language Models. Prior studies attribute this capability to retrieval heads, a sparse set of attention heads that transfer information from the context to the output. However, these analyses are confined to a limited set of modalities and the corresponding models. Moreover, how retrieval heads can be leveraged to enhance the model calls for further exploration. In this paper, we ask whether this mechanism expands "
+          }
+        },
+        {
+          "title": "Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models",
+          "url": "https://huggingface.co/papers/2610.35138",
+          "summary": "Co-Design Bench, compartido por Hugging Face, es una herramienta de evaluación que mide la capacidad de los agentes de codificación de inteligencia artificial para transformar las solicitudes multimodales de usuarios reales en cambios de aplicación. Este benchmark, que contiene 273 tareas en dos áreas diferentes, edición multimodal y edición de repositorios, se creó con datos obtenidos de sesiones de usuarios reales.",
+          "meta": "3 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.35138",
+            "capturedAt": "2026-10-30T05:01:58.032Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.35138",
+                "publishedAt": "2026-10-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/Wiselnn570/Co-Design-Bench",
+                "githubStars": 24
+              }
+            },
+            "description": "Evaluating human-AI co-design requires testing whether coding agents can translate real users' multimodal requests into working application revisions. We introduce Co-Design Bench, a reference-free benchmark of 273 tasks curated from 37,463 deduplicated queries across 26,314 real user coding sessions. Its two tracks, Multimodal Editing (ME) and Repository Editing (RE), cover localized edits with optional image, audio, video, or document inputs and coordinated repository revisions. Tasks span thr"
+          }
+        },
+        {
+          "title": "AskStream: When and What to Ask Proactively under Uncertainty in Streaming Video Understanding",
+          "url": "https://huggingface.co/papers/2610.38678",
+          "summary": "AskStream ofrece un método interactivo que determina cuándo y qué debe preguntar la IA en caso de incertidumbre en videos en streaming. Su objetivo es transformar los modelos de lenguaje grandes multimodales de respondedores pasivos a agentes que consultan proactivamente la información faltante.",
+          "meta": "5 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.38678",
+            "capturedAt": "2026-10-30T05:01:58.032Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.38678",
+                "publishedAt": "2026-10-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/wanglu-cs/AskStream",
+                "githubStars": 9
+              }
+            },
+            "description": "Recent advances in multimodal large language models have increased interest in interaction paradigms for video understanding. The evolution from offline to streaming and proactive interaction has gradually shifted models from passive responders toward more proactive agents that can decide when to answer. However, existing proactive paradigms typically assume that the information required to answer a query is complete, leaving models to only wait or answer. In the real world, however, information"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agent-native",
+      "explanation": "Un sistema diseñado directamente según los principios de funcionamiento de los agentes de inteligencia artificial y moldeado según las necesidades de dichos agentes."
+    },
+    {
+      "term": "framework",
+      "explanation": "Una estructura que ofrece un conjunto de reglas y herramientas específicas utilizadas para facilitar los procesos de desarrollo de software."
+    },
+    {
+      "term": "composable skills",
+      "explanation": "Capacidades modulares que pueden combinarse y utilizarse de diferentes maneras según la necesidad."
+    },
+    {
+      "term": "design vocabulary",
+      "explanation": "Una serie de comandos y términos estandarizados que permiten a los agentes entenderse entre sí durante el desarrollo de software."
+    },
+    {
+      "term": "AI slop",
+      "explanation": "El conjunto de contenidos de baja calidad, erróneos o innecesarios generados por la inteligencia artificial."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Un entorno de trabajo integral que permite a los desarrolladores escribir, editar y depurar código."
+    },
+    {
+      "term": "open source",
+      "explanation": "Software cuyo código fuente está abierto para que cualquiera pueda acceder, examinar y desarrollar."
+    },
+    {
+      "term": "context",
+      "explanation": "El conocimiento basado en interacciones pasadas que la inteligencia artificial necesita para poder dar respuestas más coherentes."
+    },
+    {
+      "term": "AG-UI agent",
+      "explanation": "Software de inteligencia artificial capaz de realizar operaciones a través de la interfaz de usuario, leer la pantalla y ejecutar acciones como hacer clic o escribir."
+    },
+    {
+      "term": "workflow skills",
+      "explanation": "Definiciones de tareas y capacidades específicas necesarias para completar un proceso de trabajo determinado paso a paso."
+    },
+    {
+      "term": "weights",
+      "explanation": "Valores numéricos que almacenan la información que el modelo de inteligencia artificial aprende durante el entrenamiento y que determinan el proceso de toma de decisiones del modelo."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con una cantidad masiva de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "uncanny valley",
+      "explanation": "La sensación de incomodidad que surge cuando el contenido generado por inteligencia artificial se parece mucho a lo humano pero no parece del todo natural."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "El proceso de crear oraciones y textos significativos basados en las instrucciones dadas."
+    },
+    {
+      "term": "distillation",
+      "explanation": "El proceso de transferir el conocimiento de un modelo de inteligencia artificial grande y complejo a un modelo más pequeño y rápido."
+    },
+    {
+      "term": "lightweight agents",
+      "explanation": "Software de inteligencia artificial rápido y eficiente que puede funcionar con baja potencia de procesamiento."
+    }
+  ]
+}
