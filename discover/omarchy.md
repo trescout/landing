@@ -38,8 +38,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Shell Script](https://trescout.com/dictionary/shell-script/)
 - [Script](https://trescout.com/dictionary/script/)
-- [Shell](https://trescout.com/dictionary/shell/)
 - [v4.0](https://trescout.com/dictionary/v4-0/)
+- [Shell](https://trescout.com/dictionary/shell/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

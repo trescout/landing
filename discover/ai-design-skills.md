@@ -2,11 +2,12 @@
 
 elayadesign/ai-design-skills, yapay zekâ kodlama araçlarının (Claude Code, Cursor, Codex, Windsurf) okuyabildiği markdown kurallar dosyasından oluşan bir tasarım becerileri koleksiyonu sunuyor. Bu proje, tasarım süreçlerini standartlaştırmak için yapay zekâ destekli araçlara yönelik rehber niteliğinde bir kaynak sağlıyor.
 
-- ★ 11.349
+- ★ 12.378
 - GitHub Trending · 2026-10-28
 
 ## Güncelleme
 
+- **30 Ekim 2026:** Yıldız 11.349 → 12.378.
 - **29 Ekim 2026:** Yıldız 9.826 → 11.349.
 
 ## Ne kazandırır?

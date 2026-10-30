@@ -47,8 +47,8 @@ La inteligencia artificial cambiará la forma en que se realizan muchos trabajos
 - [Awesome](https://trescout.com/es/discover/awesome/)
 - [Public Apis](https://trescout.com/es/discover/public-apis/)
 - [freeCodeCamp](https://trescout.com/es/discover/freecodecamp/)
-- [Openclaw](https://trescout.com/es/discover/openclaw/)
 - [REA](https://trescout.com/es/discover/rea/)
+- [Openclaw](https://trescout.com/es/discover/openclaw/)
 - [System Design Primer](https://trescout.com/es/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/es/discover/coding-interview-university/)
 

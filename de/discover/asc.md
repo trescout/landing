@@ -2,16 +2,16 @@
 
 ASC ist eine extrem schnelle Android-Decompiler-Schnittstelle, die für Forscher mobiler Anwendungen und KI-Agenten entwickelt wurde. Das in Python geschriebene Tool zielt darauf ab, den Prozess der Analyse komplexer Anwendungsdateien zu beschleunigen.
 
-- ★ 2.498
+- ★ 2.600
 - Python
 - GitHub Trending · 2026-09-16
 
 ## Aktualisierungen
 
+- **30. Oktober 2026:** Sterne 2,498 → 2,600, neueste Version dev-0.1.2-post4 (30. Oktober 2026).
 - **21. Oktober 2026:** Sterne 2,399 → 2,498, neueste Version dev-0.1.2-post3 (21. Oktober 2026).
 - **15. Oktober 2026:** Sterne 2,236 → 2,399, neueste Version dev-0.1.2-post2 (14. Oktober 2026).
 - **10. Oktober 2026:** Sterne 1,980 → 2,236, neueste Version dev-0.1.1-post4 (10. Oktober 2026).
-- **27. September 2026:** Sterne 1,336 → 1,980, neueste Version dev-0.1.1-post2 (21. September 2026).
 
 ## Was es bringt
 

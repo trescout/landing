@@ -2,16 +2,16 @@
 
 OpenLogi es una alternativa nativa y de código abierto a Logitech Options+ escrita en Rust. Configura botones, DPI y SmartShift sin necesidad de contabilidad ni telemetría.
 
-- ★ 24.109
+- ★ 24.606
 - Rust
 - GitHub Trending · 2026-08-20
 
 ## Actualizaciones
 
+- **30 de octubre de 2026:** Estrellas 24,109 → 24,606, última versión v0.8.19 (29 de octubre de 2026).
 - **26 de octubre de 2026:** Estrellas 23,972 → 24,109, última versión v0.8.18 (25 de octubre de 2026).
 - **23 de octubre de 2026:** Estrellas 23,926 → 23,972, última versión v0.8.17 (22 de octubre de 2026).
 - **22 de octubre de 2026:** Estrellas 23,835 → 23,926, última versión v0.8.16 (21 de octubre de 2026).
-- **20 de octubre de 2026:** Estrellas 23,621 → 23,835, última versión v0.8.15 (20 de octubre de 2026).
 
 ## Qué aporta
 

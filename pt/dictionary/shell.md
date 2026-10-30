@@ -42,8 +42,8 @@ Pode parecer um pouco estranho no início, mas depois que você aprende alguns c
 - [Taste Skill](https://trescout.com/pt/discover/taste-skill/)
 - [NVM](https://trescout.com/pt/discover/nvm/)
 - [Omarchy](https://trescout.com/pt/discover/omarchy/)
+- [Claude-Code-Game-Studios](https://trescout.com/pt/discover/claude-code-game-studios/)
 - [Destructive Command Guard](https://trescout.com/pt/discover/destructive-command-guard/)
-- [Council of High Intelligence](https://trescout.com/pt/discover/council-of-high-intelligence/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/shell/)
 

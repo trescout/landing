@@ -47,8 +47,8 @@ L’intelligence artificielle va changer la façon dont de nombreux travaux sont
 - [Awesome](https://trescout.com/fr/discover/awesome/)
 - [Public Apis](https://trescout.com/fr/discover/public-apis/)
 - [freeCodeCamp](https://trescout.com/fr/discover/freecodecamp/)
-- [Openclaw](https://trescout.com/fr/discover/openclaw/)
 - [REA](https://trescout.com/fr/discover/rea/)
+- [Openclaw](https://trescout.com/fr/discover/openclaw/)
 - [System Design Primer](https://trescout.com/fr/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/fr/discover/coding-interview-university/)
 

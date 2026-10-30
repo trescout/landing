@@ -42,8 +42,8 @@ Ja, sie können Ihre Dateien verwalten oder Ihre Anwendungen ausführen, wenn Si
 ## Verwandte Werkzeuge
 
 - [Hermes Agent](https://trescout.com/de/discover/hermes-agent/)
-- [Opencode](https://trescout.com/de/discover/opencode/)
 - [Andrej Karpathy Skills](https://trescout.com/de/discover/andrej-karpathy-skills/)
+- [Opencode](https://trescout.com/de/discover/opencode/)
 - [Ponytail](https://trescout.com/de/discover/ponytail/)
 - [Awesome LLM Apps](https://trescout.com/de/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/de/discover/browser-use/)

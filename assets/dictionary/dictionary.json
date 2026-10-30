@@ -10034,5 +10034,44 @@
     "kisa_es": "Es una tecnología de pantalla que permite al usuario interactuar directamente mediante contacto físico o gestos táctiles.",
     "kisa_pt": "É uma tecnologia de tela que permite ao usuário interagir diretamente através de contato físico ou gestos de toque.",
     "kisa_de": "Es ist eine Bildschirmtechnologie, die es dem Benutzer ermöglicht, direkt durch physischen Kontakt oder Berührungsbewegungen zu interagieren."
+  },
+  {
+    "slug": "ag-ui-agent",
+    "en": "AG-UI Agent",
+    "full": "Agent-GUI Agent",
+    "cat": "ai",
+    "kisa": "Grafik kullanıcı arayüzünü ekran görüntüleri ve arayüz ögeleri üzerinden analiz edip insan gibi tıklama ve yazma eylemleri gerçekleştiren yapay zekâ ajanıdır.",
+    "date": "2026-10-30",
+    "kisa_en": "It is an artificial intelligence agent that analyzes the graphical user interface through screenshots and interface elements, performing human-like clicking and typing actions.",
+    "kisa_fr": "Il s'agit d'un agent d'intelligence artificielle qui analyse l'interface graphique utilisateur à l'aide de captures d'écran et d'éléments d'interface, et exécute des actions de clic et de saisie semblables à celles d'un humain.",
+    "kisa_es": "Es un agente de inteligencia artificial que analiza la interfaz gráfica de usuario a través de capturas de pantalla y elementos de interfaz, realizando acciones de hacer clic y escribir como un humano.",
+    "kisa_pt": "É um agente de inteligência artificial que analisa a interface gráfica do usuário por meio de capturas de tela e elementos de interface, realizando ações de clique e digitação como um ser humano.",
+    "kisa_de": "Es handelt sich um einen KI-Agenten, der die grafische Benutzeroberfläche anhand von Screenshots und UI-Elementen analysiert und menschenähnliche Klick- sowie Tippaktionen ausführt."
+  },
+  {
+    "slug": "workflow-skills",
+    "en": "Workflow Skills",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ ajanlarının çok adımlı kurumsal veya teknik iş süreçlerini sıralı ve kurallı biçimde tamamlamasını sağlayan uzmanlık modülleridir.",
+    "date": "2026-10-30",
+    "kisa_en": "They are specialized modules that enable artificial intelligence agents to complete multi-step corporate or technical business processes in a sequential and rule-based manner.",
+    "kisa_fr": "Ce sont des modules d'expertise qui permettent aux agents d'intelligence artificielle de mener à bien des processus métier ou techniques complexes et en plusieurs étapes, de manière séquentielle et réglementée.",
+    "kisa_es": "Son módulos especializados que permiten a los agentes de inteligencia artificial completar procesos de negocios corporativos o técnicos de múltiples pasos de manera secuencial y basada en reglas.",
+    "kisa_pt": "São módulos especializados que permitem aos agentes de inteligência artificial concluir processos de negócios corporativos ou técnicos em várias etapas, de maneira sequencial e baseada em regras.",
+    "kisa_de": "Dies sind Spezialmodule, die es KI-Agenten ermöglichen, mehrstufige geschäftliche oder technische Arbeitsprozesse in einer sequenziellen und regelbasierten Weise abzuschließen."
+  },
+  {
+    "slug": "uncanny-valley",
+    "en": "Uncanny Valley",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan benzeri robotların veya yapay zekâ üretimlerinin gerçek bir insana çok yaklaşıp tam olarak ulaşamadığı noktada gözlemcide uyandırdığı tekinsizlik ve huzursuzluk hissidir.",
+    "date": "2026-10-30",
+    "kisa_en": "It is the feeling of eeriness and unease aroused in the observer when human-like robots or artificial intelligence creations come very close to a real human but fall short of fully reaching it.",
+    "kisa_fr": "C'est le sentiment d'inquiétude et de malaise ressenti par l'observateur lorsque des robots humanoïdes ou des créations d'intelligence artificielle s'approchent très près d'un être humain réel sans toutefois l'atteindre pleinement.",
+    "kisa_es": "Es la sensación de inquietud y malestar que el observador experimenta cuando los robots de apariencia humana o las creaciones de inteligencia artificial se acercan mucho a una persona real pero no llegan a alcanzarla por completo.",
+    "kisa_pt": "É a sensação de estranheza e inquietação despertada no observador quando robôs com aparência humana ou criações de inteligência artificial se aproximam muito de um ser humano real, mas sem alcançá-lo totalmente.",
+    "kisa_de": "Dies ist das Gefühl von Unheimlichkeit und Unbehagen, das beim Beobachter geweckt wird, wenn menschenähnliche Roboter oder KI-Produktionen einem echten Menschen sehr nahekommen, diesen Punkt jedoch nicht ganz erreichen."
   }
 ]

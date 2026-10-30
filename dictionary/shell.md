@@ -42,8 +42,8 @@ Başlangıçta biraz yabancı gelebilir ancak temel birkaç komutu öğrendiğin
 - [Taste Skill](https://trescout.com/discover/taste-skill/)
 - [NVM](https://trescout.com/discover/nvm/)
 - [Omarchy](https://trescout.com/discover/omarchy/)
+- [Claude-Code-Game-Studios](https://trescout.com/discover/claude-code-game-studios/)
 - [Destructive Command Guard](https://trescout.com/discover/destructive-command-guard/)
-- [Council of High Intelligence](https://trescout.com/discover/council-of-high-intelligence/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

@@ -41,8 +41,8 @@ Hayır, daha çok sizin angarya işlerinizi azaltan bir yardımcı pilot gibi ç
 
 ## İlgili araçlar
 
-- [Opencode](https://trescout.com/discover/opencode/)
 - [Andrej Karpathy Skills](https://trescout.com/discover/andrej-karpathy-skills/)
+- [Opencode](https://trescout.com/discover/opencode/)
 - [Openinterpreter](https://trescout.com/discover/openinterpreter/)
 - [Oh My Pi](https://trescout.com/discover/oh-my-pi/)
 - [Continue](https://trescout.com/discover/continue/)

@@ -49,8 +49,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [Shell](https://trescout.com/es/dictionary/shell/)
 - [Plugin](https://trescout.com/es/dictionary/plugin/)
+- [Shell](https://trescout.com/es/dictionary/shell/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

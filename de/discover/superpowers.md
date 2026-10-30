@@ -49,8 +49,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Shell](https://trescout.com/de/dictionary/shell/)
 - [Plugin](https://trescout.com/de/dictionary/plugin/)
+- [Shell](https://trescout.com/de/dictionary/shell/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

@@ -2,16 +2,16 @@
 
 ASC est une interface de décompilation Android ultra-rapide conçue pour les chercheurs en applications mobiles et les agents d'intelligence artificielle. Écrit en Python, cet outil vise à accélérer le processus d'analyse de fichiers d'application complexes.
 
-- ★ 2 498
+- ★ 2 600
 - Python
 - GitHub Trending · 2026-09-16
 
 ## Mises à jour
 
+- **30 octobre 2026:** Étoiles 2,498 → 2,600, dernière version dev-0.1.2-post4 (30 octobre 2026).
 - **21 octobre 2026:** Étoiles 2,399 → 2,498, dernière version dev-0.1.2-post3 (21 octobre 2026).
 - **15 octobre 2026:** Étoiles 2,236 → 2,399, dernière version dev-0.1.2-post2 (14 octobre 2026).
 - **10 octobre 2026:** Étoiles 1,980 → 2,236, dernière version dev-0.1.1-post4 (10 octobre 2026).
-- **27 septembre 2026:** Étoiles 1,336 → 1,980, dernière version dev-0.1.1-post2 (21 septembre 2026).
 
 ## Ce que ça vous apporte
 

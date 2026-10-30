@@ -49,8 +49,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [Shell](https://trescout.com/pt/dictionary/shell/)
 - [Plugin](https://trescout.com/pt/dictionary/plugin/)
+- [Shell](https://trescout.com/pt/dictionary/shell/)
 - [CLI](https://trescout.com/pt/dictionary/cli/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

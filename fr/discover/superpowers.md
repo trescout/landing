@@ -49,8 +49,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Shell](https://trescout.com/fr/dictionary/shell/)
 - [Plugin](https://trescout.com/fr/dictionary/plugin/)
+- [Shell](https://trescout.com/fr/dictionary/shell/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

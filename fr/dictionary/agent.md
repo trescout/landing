@@ -42,8 +42,8 @@ Oui, ils peuvent gérer vos fichiers ou exécuter vos applications si vous leur 
 ## Outils liés
 
 - [Hermes Agent](https://trescout.com/fr/discover/hermes-agent/)
-- [Opencode](https://trescout.com/fr/discover/opencode/)
 - [Andrej Karpathy Skills](https://trescout.com/fr/discover/andrej-karpathy-skills/)
+- [Opencode](https://trescout.com/fr/discover/opencode/)
 - [Ponytail](https://trescout.com/fr/discover/ponytail/)
 - [Awesome LLM Apps](https://trescout.com/fr/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/fr/discover/browser-use/)

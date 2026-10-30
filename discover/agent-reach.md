@@ -2,15 +2,15 @@
 
 Agent-Reach, yapay zekâ ajanlarına internetin tamamını tarama ve içerik okuma yeteneği kazandıran bir komut satırı arayüzü (CLI) aracıdır. Twitter, Reddit ve GitHub gibi platformlardan veri çekmek için herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden doğrudan erişim sağlar.
 
-- ★ 101.166
+- ★ 106.400
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
 
+- **30 Ekim 2026:** Yıldız 101.166 → 106.400, son sürüm v1.6.0 (23 Ekim 2026).
 - **23 Ekim 2026:** Yıldız 100.087 → 101.166, son sürüm v1.6.0 (23 Ekim 2026).
 - **20 Ekim 2026:** Yıldız 95.262 → 100.087, son sürüm v1.5.0 (11 Haziran 2026).
 - **10 Ekim 2026:** Yıldız 90.240 → 95.262, son sürüm v1.5.0 (11 Haziran 2026).
-- **4 Ekim 2026:** Yıldız 85.611 → 90.240, son sürüm v1.5.0 (11 Haziran 2026).
 
 ## Ne kazandırır?
 

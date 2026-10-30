@@ -2,12 +2,13 @@
 
 Gstack is a system based on Garry Tan's Claude Code configuration and consists of 23 specialized tools that play different roles such as CEO, designer, engineering manager. This TypeScript-based structure offers defined workflows to automate software development processes.
 
-- ★ 137,865
+- ★ 138,215
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Updates
 
+- **October 30, 2026:** Stars 137,865 → 138,215, latest release v1.91.318.0 (October 29, 2026).
 - **October 27, 2026:** Stars 132,197 → 137,865, latest release v1.91.242.0 (October 26, 2026).
 - **September 9, 2026:** Stars 125,874 → 132,197.
 - **August 2, 2026:** Stars 113,462 → 125,874.

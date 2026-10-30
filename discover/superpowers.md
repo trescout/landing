@@ -65,8 +65,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Shell](https://trescout.com/dictionary/shell/)
 - [Plugin](https://trescout.com/dictionary/plugin/)
+- [Shell](https://trescout.com/dictionary/shell/)
 - [CLI](https://trescout.com/dictionary/cli/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)

@@ -47,8 +47,8 @@ Artificial intelligence will change the way many jobs are done, but will general
 - [Awesome](https://trescout.com/en/discover/awesome/)
 - [Public Apis](https://trescout.com/en/discover/public-apis/)
 - [freeCodeCamp](https://trescout.com/en/discover/freecodecamp/)
-- [Openclaw](https://trescout.com/en/discover/openclaw/)
 - [REA](https://trescout.com/en/discover/rea/)
+- [Openclaw](https://trescout.com/en/discover/openclaw/)
 - [System Design Primer](https://trescout.com/en/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/en/discover/coding-interview-university/)
 

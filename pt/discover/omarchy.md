@@ -29,8 +29,8 @@ Para começar a usar o Omarchy, você pode visitar omarchy.org e revisar o guia 
 
 - [Shell Script](https://trescout.com/pt/dictionary/shell-script/)
 - [Script](https://trescout.com/pt/dictionary/script/)
-- [Shell](https://trescout.com/pt/dictionary/shell/)
 - [v4.0](https://trescout.com/pt/dictionary/v4-0/)
+- [Shell](https://trescout.com/pt/dictionary/shell/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

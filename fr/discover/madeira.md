@@ -31,7 +31,7 @@ git clone --recurse-submodules <this repo>
 
 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
-Je souhaite installer et exécuter le projet Madeira. En tant que personne ne connaissant pas le code, pourriez-vous m'expliquer étape par étape comment configurer cette couche de compatibilité sur mon iPhone sans jailbreak ? Expliquez-moi comment obtenir le débogueur nécessaire et effectuer les étapes de chargement latéral (sideloading).
+Je souhaite installer et exécuter le projet Madeira. En tant que débutant sans compétences en codage, pourriez-vous m'expliquer étape par étape comment configurer cette couche de compatibilité sur mon iPhone sans jailbreak ? Expliquez-moi comment obtenir le débogueur nécessaire et comment effectuer les étapes de sideloading.
 
 Dépôt : https://github.com/willfaust/Madeira. Base-toi sur les instructions officielles du fichier README de ce dépôt pour l'installation et l'exécution.
 

@@ -2,11 +2,12 @@
 
 Este pacote de diretrizes é descrito como derivado das observações de Andrej Karpathy sobre falhas de codificação de LLMs. Ele oferece opções de plugin para Claude Code, CLAUDE.md por projeto e regra para Cursor.
 
-- ★ 215.668
+- ★ 226.525
 - GitHub Trending · 2026-08-23
 
 ## Atualizações
 
+- **30 de outubro de 2026:** Estrelas 215,668 → 226,525.
 - **28 de setembro de 2026:** Estrelas 205,391 → 215,668.
 
 ## O que esta ferramenta faz?

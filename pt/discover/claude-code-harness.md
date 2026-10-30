@@ -49,8 +49,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Harness](https://trescout.com/pt/dictionary/harness/)
-- [Shell](https://trescout.com/pt/dictionary/shell/)
 - [Plugin](https://trescout.com/pt/dictionary/plugin/)
+- [Shell](https://trescout.com/pt/dictionary/shell/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

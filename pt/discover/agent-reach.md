@@ -2,15 +2,15 @@
 
 Agent-Reach é uma ferramenta de interface de linha de comando (CLI) que oferece aos agentes de IA a capacidade de verificar toda a Internet e ler conteúdo. Ele fornece acesso direto para extrair dados de plataformas como Twitter, Reddit e GitHub sem pagar nenhuma taxa de interface de programação de aplicativos (API).
 
-- ★ 101.166
+- ★ 106.400
 - GitHub Trending · 2026-06-06
 
 ## Atualizações
 
+- **30 de outubro de 2026:** Estrelas 101,166 → 106,400, versão mais recente v1.6.0 (23 de outubro de 2026).
 - **23 de outubro de 2026:** Estrelas 100,087 → 101,166, versão mais recente v1.6.0 (23 de outubro de 2026).
 - **20 de outubro de 2026:** Estrelas 95,262 → 100,087, versão mais recente v1.5.0 (11 de junho de 2026).
 - **10 de outubro de 2026:** Estrelas 90,240 → 95,262, versão mais recente v1.5.0 (11 de junho de 2026).
-- **4 de outubro de 2026:** Estrelas 85,611 → 90,240, versão mais recente v1.5.0 (11 de junho de 2026).
 
 ## O que você ganha
 

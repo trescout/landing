@@ -2,12 +2,13 @@
 
 Renhuai123/ziwei-doushu es un motor de TypeScript de código abierto que calcula cartas astrológicas de Ziwei Doushu basado en el sistema Tianji de Ni Haixia. El proyecto ofrece un amplio conjunto de datos de interpretación astrológica de 13 dimensiones (v4.0) que cubre fechas entre 1950 y 2026.
 
-- ★ 9.213
+- ★ 10.402
 - TypeScript
 - GitHub Trending · 2026-10-24
 
 ## Actualizaciones
 
+- **30 de octubre de 2026:** Estrellas 9,213 → 10,402, última versión v4.0-13d (15 de octubre de 2026).
 - **29 de octubre de 2026:** Estrellas 8,056 → 9,213, última versión v4.0-13d (15 de octubre de 2026).
 - **26 de octubre de 2026:** Estrellas 6,993 → 8,056, última versión v4.0-13d (15 de octubre de 2026).
 - **24 de octubre de 2026:** Estrellas 6,990 → 6,993, última versión v4.0-13d (15 de octubre de 2026).

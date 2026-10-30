@@ -2,11 +2,12 @@
 
 This guideline package is described as being derived from Andrej Karpathy’s observations about coding failures by LLMs. It offers Claude Code plugin, per-project CLAUDE.md and Cursor rule options.
 
-- ★ 215,668
+- ★ 226,525
 - GitHub Trending · 2026-08-23
 
 ## Updates
 
+- **October 30, 2026:** Stars 215,668 → 226,525.
 - **September 28, 2026:** Stars 205,391 → 215,668.
 
 ## What does this tool do?

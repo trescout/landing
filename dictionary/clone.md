@@ -69,10 +69,10 @@ Evet. Klasör içinde git pull çalıştırmanız yeterlidir. Değişikliğiniz 
 - [BitNet](https://trescout.com/discover/bitnet/)
 - [VoxCPM](https://trescout.com/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/discover/clone-wars/)
+- [Claude-Code-Game-Studios](https://trescout.com/discover/claude-code-game-studios/)
 - [Claude Seo](https://trescout.com/discover/claude-seo/)
 - [Univer](https://trescout.com/discover/univer/)
 - [OpenStock](https://trescout.com/discover/openstock/)
-- [Hermes WebUI](https://trescout.com/discover/hermes-webui/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

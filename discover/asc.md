@@ -2,16 +2,16 @@
 
 ASC, mobil uygulama araştırmacıları ve yapay zekâ ajanları için geliştirilmiş oldukça hızlı bir Android kaynak koda dönüştürücü (decompiler) arayüzüdür. Python ile yazılan bu araç, karmaşık uygulama dosyalarını analiz etme sürecini hızlandırmayı hedefler.
 
-- ★ 2.498
+- ★ 2.600
 - Python
 - GitHub Trending · 2026-09-16
 
 ## Güncelleme
 
+- **30 Ekim 2026:** Yıldız 2.498 → 2.600, son sürüm dev-0.1.2-post4 (30 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 2.399 → 2.498, son sürüm dev-0.1.2-post3 (21 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 2.236 → 2.399, son sürüm dev-0.1.2-post2 (14 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 1.980 → 2.236, son sürüm dev-0.1.1-post4 (10 Ekim 2026).
-- **27 Eylül 2026:** Yıldız 1.336 → 1.980, son sürüm dev-0.1.1-post2 (21 Eylül 2026).
 
 ## Ne kazandırır?
 

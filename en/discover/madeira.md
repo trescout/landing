@@ -15,7 +15,7 @@ Madeira is a compatibility layer project that allows x86-64 architecture Windows
 
 ## What you get
 
-- It allows you to play Windows PC games on non-jailbroken iPhone devices.
+- It allows you to play Windows PC games on non-jailbroken iPhones.
 - Uses the FEX-Emu tool for processor emulation to handle CPU translation.
 - Utilizes the DXMT graphics translator tool for graphics conversion.
 
@@ -31,7 +31,7 @@ git clone --recurse-submodules <this repo>
 
 Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
-I want to set up and run the Madeira project. As someone who doesn't know how to code, can you explain to me step by step how to configure this compatibility layer on my non-jailbroken iPhone device? Explain how to perform the necessary debugger and sideloading steps.
+I want to install and run the Madeira project. As someone who doesn't know how to code, can you explain step-by-step how to configure this compatibility layer on my non-jailbroken iPhone? Explain how to get the necessary debugger and perform the sideloading steps.
 
 Repository: https://github.com/willfaust/Madeira. Follow the official instructions in the README of this repository for setup and execution.
 

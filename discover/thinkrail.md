@@ -2,16 +2,16 @@
 
 JetBrains tarafından geliştirilen ThinkRail, kullanıcı çalışma biçimine göre kendini özelleştiren ve proje özelliklerini öğrenerek yeteneklerini zamanla geliştiren ajan tabanlı bir tümleşik geliştirme ortamı (IDE). TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini kişiselleştirilmiş bir deneyimle desteklemeyi hedefliyor.
 
-- ★ 5.495
+- ★ 6.135
 - TypeScript
 - GitHub Trending · 2026-10-26
 
 ## Güncelleme
 
+- **30 Ekim 2026:** Yıldız 5.495 → 6.135, son sürüm v0.3.0 (29 Ekim 2026).
 - **29 Ekim 2026:** Yıldız 4.402 → 5.495, son sürüm v0.2.0 (18 Ekim 2026).
 - **28 Ekim 2026:** Yıldız 3.318 → 4.402, son sürüm v0.2.0 (18 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 1.992 → 3.318, son sürüm v0.2.0 (18 Ekim 2026).
-- **26 Ekim 2026:** Yıldız 1.980 → 1.992, son sürüm v0.2.0 (18 Ekim 2026).
 
 ## Ne kazandırır?
 

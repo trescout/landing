@@ -29,8 +29,8 @@ To start using Omarchy, you can visit omarchy.org and review the installation gu
 
 - [Shell Script](https://trescout.com/en/dictionary/shell-script/)
 - [Script](https://trescout.com/en/dictionary/script/)
-- [Shell](https://trescout.com/en/dictionary/shell/)
 - [v4.0](https://trescout.com/en/dictionary/v4-0/)
+- [Shell](https://trescout.com/en/dictionary/shell/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

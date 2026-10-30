@@ -47,8 +47,8 @@ Künstliche Intelligenz wird die Art und Weise, wie viele Arbeiten erledigt werd
 - [Awesome](https://trescout.com/de/discover/awesome/)
 - [Public Apis](https://trescout.com/de/discover/public-apis/)
 - [freeCodeCamp](https://trescout.com/de/discover/freecodecamp/)
-- [Openclaw](https://trescout.com/de/discover/openclaw/)
 - [REA](https://trescout.com/de/discover/rea/)
+- [Openclaw](https://trescout.com/de/discover/openclaw/)
 - [System Design Primer](https://trescout.com/de/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/de/discover/coding-interview-university/)
 

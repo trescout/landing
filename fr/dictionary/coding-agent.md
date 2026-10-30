@@ -41,8 +41,8 @@ Il accomplit bien la plupart des tâches standard, mais nécessite toujours un c
 
 ## Outils liés
 
-- [Opencode](https://trescout.com/fr/discover/opencode/)
 - [Andrej Karpathy Skills](https://trescout.com/fr/discover/andrej-karpathy-skills/)
+- [Opencode](https://trescout.com/fr/discover/opencode/)
 - [Openinterpreter](https://trescout.com/fr/discover/openinterpreter/)
 - [Oh My Pi](https://trescout.com/fr/discover/oh-my-pi/)
 - [Continue](https://trescout.com/fr/discover/continue/)

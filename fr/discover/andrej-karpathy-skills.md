@@ -2,11 +2,12 @@
 
 Ce paquet de principes est présenté comme dérivé des observations d’Andrej Karpathy sur les erreurs de codage des LLM. Il propose des options sous forme de plugin Claude Code, de CLAUDE.md par projet et de règle Cursor.
 
-- ★ 215 668
+- ★ 226 525
 - GitHub Trending · 2026-08-23
 
 ## Mises à jour
 
+- **30 octobre 2026:** Étoiles 215,668 → 226,525.
 - **28 septembre 2026:** Étoiles 205,391 → 215,668.
 
 ## Que fait cet outil ?

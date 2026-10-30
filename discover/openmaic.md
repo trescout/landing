@@ -2,16 +2,16 @@
 
 Tsinghua Üniversitesi araştırmacıları tarafından geliştirilen OpenMAIC, öğretmen, öğrenci ve gözlemci rollerindeki çoklu yapay zekâ ajanlarını etkileşimli bir sınıf ortamında buluşturur.
 
-- ★ 41.041
+- ★ 41.789
 - TypeScript
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
 
+- **30 Ekim 2026:** Yıldız 41.041 → 41.789, son sürüm v1.3.0 (29 Ekim 2026).
 - **19 Ekim 2026:** Yıldız 40.871 → 41.041, son sürüm v1.2.1 (18 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 40.363 → 40.871, son sürüm v1.2.0 (16 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 39.969 → 40.363, son sürüm v1.1.4 (11 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 39.351 → 39.969, son sürüm v1.1.3 (5 Ekim 2026).
 
 ## Ne kazandırır?
 

@@ -41,8 +41,8 @@ Ele executa bem a maioria das tarefas padrão, mas ainda requer controle humano 
 
 ## Ferramentas relacionadas
 
-- [Opencode](https://trescout.com/pt/discover/opencode/)
 - [Andrej Karpathy Skills](https://trescout.com/pt/discover/andrej-karpathy-skills/)
+- [Opencode](https://trescout.com/pt/discover/opencode/)
 - [Openinterpreter](https://trescout.com/pt/discover/openinterpreter/)
 - [Oh My Pi](https://trescout.com/pt/discover/oh-my-pi/)
 - [Continue](https://trescout.com/pt/discover/continue/)

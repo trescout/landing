@@ -47,8 +47,8 @@ Yapay zekâ birçok işin yapılış şeklini değiştirecek, ancak genellikle i
 - [Awesome](https://trescout.com/discover/awesome/)
 - [Public Apis](https://trescout.com/discover/public-apis/)
 - [freeCodeCamp](https://trescout.com/discover/freecodecamp/)
-- [Openclaw](https://trescout.com/discover/openclaw/)
 - [REA](https://trescout.com/discover/rea/)
+- [Openclaw](https://trescout.com/discover/openclaw/)
 - [System Design Primer](https://trescout.com/discover/system-design-primer/)
 - [Coding Interview University](https://trescout.com/discover/coding-interview-university/)
 

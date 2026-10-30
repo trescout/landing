@@ -2,16 +2,16 @@
 
 OpenWhispr es una aplicación de dictado que convierte archivos de audio a texto (voice-to-text) y combina modelos locales con opciones basadas en la nube. Con su enfoque centrado en la privacidad, le permite ejecutar modelos como Nvidia Parakeet o Whisper en su propio dispositivo o utilizar servicios en la nube con su propia clave API.
 
-- ★ 9.736
+- ★ 10.333
 - JavaScript
 - GitHub Trending · 2026-09-07
 
 ## Actualizaciones
 
+- **30 de octubre de 2026:** Estrellas 9,736 → 10,333, última versión v1.11.0 (29 de octubre de 2026).
 - **22 de octubre de 2026:** Estrellas 9,311 → 9,736, última versión v1.10.4 (22 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 9,219 → 9,311, última versión v1.10.3 (12 de octubre de 2026).
 - **10 de octubre de 2026:** Estrellas 8,205 → 9,219, última versión v1.10.2 (15 de septiembre de 2026).
-- **15 de septiembre de 2026:** Estrellas 8,031 → 8,205, última versión v1.10.2 (15 de septiembre de 2026).
 
 ## Qué aporta
 
