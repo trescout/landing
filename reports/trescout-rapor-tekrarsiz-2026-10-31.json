@@ -1,0 +1,544 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-31",
+  "capturedAt": "2026-10-31T04:59:17.275Z",
+  "editorial": "Rapora dahil edilen içerikler 30 gün boyunca tekrarlanmaz. Bu sürenin sonunda gündemde kalmaya devam eden kayıtlar, \"yeniden gündemde\" etiketiyle tekrar listelenir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Mattpocock/skills, gerçek mühendislik süreçlerinde kullanılan ve günlük iş akışlarını destekleyen yapay zekâ ajanı yeteneklerini (agent skills) bir araya getiriyor. Yazılım geliştirme görevlerini otomatikleştirmek için tasarlanan bu araç seti, doğrudan pratik uygulamalara odaklanan bir yapı sunuyor.",
+          "meta": "Shell · ★ 307.611 · +876 bugün",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 307611,
+              "engagementCount": 876,
+              "rank": 8,
+              "extra": {
+                "starsToday": 876,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          },
+          "returning": true
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Anthropics tarafından paylaşılan skills deposu, Claude modellerinin yeteneklerini sergileyen çeşitli uygulama örneklerini içeriyor. Python diliyle geliştirilen bu projede, yaratıcı tasarımlardan teknik web uygulaması testlerine kadar geniş bir yelpazede yapay zekâ iş akışları sunuluyor.",
+          "meta": "Python · ★ 185.443 · +295 bugün",
+          "snapshot": {
+            "sourceId": "anthropics/skills",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 185443,
+              "engagementCount": 295,
+              "rank": 11,
+              "extra": {
+                "starsToday": 295,
+                "baglam": "readme"
+              }
+            },
+            "description": "Public repository for Agent Skills. This repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.)."
+          },
+          "returning": true
+        },
+        {
+          "title": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "summary": "Lightpanda, yapay zekâ ve otomasyon süreçleri için özel olarak geliştirilmiş bir başsız tarayıcıdır (headless browser). Zig diliyle yazılan bu araç, web sayfalarını ağ üzerinden hızlı bir şekilde işleyerek veri toplama işlemlerini optimize etmeyi hedefler.",
+          "meta": "Zig · ★ 38.542 · +626 bugün",
+          "snapshot": {
+            "sourceId": "lightpanda-io/browser",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Zig",
+              "popularity": 38542,
+              "engagementCount": 626,
+              "rank": 15,
+              "extra": {
+                "starsToday": 626,
+                "baglam": "readme"
+              }
+            },
+            "description": "Lightpanda: the headless browser designed for AI and automation. Requesting 933 real web pages over the network on a AWS EC2 m5.large instance. See benchmark details."
+          },
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+          "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+          "summary": "Cursor Marketplace üzerinde sunulan Claude Code for VS Code eklentisinde, kötü niyetli bir arka kapı (backdoor) tespit edildi. Söz konusu güvenlik açığı, kullanıcıların sistemlerine yetkisiz erişim sağlanmasına yol açabilecek bir risk oluşturdu.",
+          "meta": "843 oy · 508 yorum",
+          "snapshot": {
+            "sourceId": "50300683",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 843,
+              "engagementCount": 508,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50300683",
+                  "popularity": 843,
+                  "engagementCount": 508
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-30T07:09:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50300683"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50300683",
+              "popularity": 843,
+              "engagementCount": 508
+            }
+          ]
+        },
+        {
+          "title": "AI isn't replacing SREs, it's deskilling them",
+          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "summary": "Yapay zekânın olay müdahale süreçlerinin büyük kısmını üstlenmesi, site güvenilirlik mühendislerinin (SRE) kritik durumlardaki yetkinliklerini kaybetmesine yol açma riski taşıyor. Bu durum, otomasyonun sağladığı kolaylığın mühendislik becerilerinin körelmesine neden olup olmayacağı sorusunu gündeme getiriyor.",
+          "meta": "538 oy · 404 yorum",
+          "snapshot": {
+            "sourceId": "50305693",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 538,
+              "engagementCount": 404,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50305693",
+                  "popularity": 538,
+                  "engagementCount": 404
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-30T15:52:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50305693",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50305693",
+              "popularity": 538,
+              "engagementCount": 404
+            }
+          ]
+        },
+        {
+          "title": "Northflank Breached",
+          "url": "https://status.northflank.com/",
+          "summary": "Bulut tabanlı uygulama geliştirme platformu Northflank, sistemlerine yönelik bir güvenlik ihlali (breach) yaşandığını duyurdu. Şirket, yaşanan olayla ilgili incelemelerin sürdüğünü ve kullanıcı verilerinin güvenliğini sağlamak adına gerekli önlemleri aldığını belirtti.",
+          "meta": "394 oy · 292 yorum",
+          "snapshot": {
+            "sourceId": "50305025",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 394,
+              "engagementCount": 292,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50305025",
+                  "popularity": 394,
+                  "engagementCount": 292
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-30T15:10:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50305025"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50305025",
+              "popularity": 394,
+              "engagementCount": 292
+            }
+          ]
+        },
+        {
+          "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "summary": "Binance üzerinde gerçekleştirilen 6,3 milyar dolarlık siber saldırının yalnızca 20 dakika içinde tamamlandığı belirtiliyor. Kripto para borsası Binance platformunu hedef alan bu olayın detayları, saldırının hızına ve ölçeğine dikkat çekiyor.",
+          "meta": "381 oy · 262 yorum",
+          "snapshot": {
+            "sourceId": "50303172",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 381,
+              "engagementCount": 262,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50303172",
+                  "popularity": 381,
+                  "engagementCount": 262
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-30T12:50:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50303172"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50303172",
+              "popularity": 381,
+              "engagementCount": 262
+            }
+          ]
+        },
+        {
+          "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+          "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+          "summary": "Azure Logic Apps platformunun bir parçası olan API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) bağlantılarındaki mimari zafiyetler, beş farklı tam çapraz kiracı (cross-tenant) ihlaline yol açıyor. Bu güvenlik açıkları, bulut bilişim hizmeti Azure üzerinde sistemlerin birbirine erişimini sağlayan yapıların güvenliğine dair riskleri ortaya koyuyor.",
+          "meta": "284 oy · 56 yorum",
+          "snapshot": {
+            "sourceId": "50301854",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 284,
+              "engagementCount": 56,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50301854",
+                  "popularity": 284,
+                  "engagementCount": 56
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-30T10:06:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50301854",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "In my previous blog posts, Azure’s Weakest Link? and Azure’s Weakest Link - Full Cross-Tenant Compromise, I gave an overview of the severely insecure architecture behind API Connections in Azure, a part of Azure Logic Apps, and an instance of a full cross-tenant compromise using these inherent flaws."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50301854",
+              "popularity": 284,
+              "engagementCount": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "summary": "NVIDIA tarafından geliştirilen NVIDIA-Nemotron-3.5-Transcribe-30B-A4B, 40 dilde transkripsiyon yapabilen açık ağırlıklı bir otomatik konuşma tanıma (automatic speech recognition) modelidir. Bir saate kadar süren kayıtları destekleyen model, karma uzmanlar karışımı (hybrid mixture-of-experts) mimarisiyle 65.536 belirteçlik (token) bağlam penceresi sunar.",
+          "meta": "♥ 507 · 15.980 indirme",
+          "snapshot": {
+            "sourceId": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+            "capturedAt": "2026-10-31T04:59:17.416Z",
+            "metadata": {
+              "popularity": 507,
+              "engagementCount": 15980,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 477,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "nemo",
+                  "safetensors",
+                  "nemo_speechlm",
+                  "text2text-generation",
+                  "nvidia",
+                  "pytorch",
+                  "nemotron-3.5",
+                  "speech",
+                  "asr",
+                  "speech-translation",
+                  "speaker-diarization",
+                  "audio",
+                  "transcription",
+                  "speech-to-text",
+                  "multilingual",
+                  "timestamps",
+                  "long-form-audio",
+                  "language-identification",
+                  "code-switching",
+                  "audio-question-answering",
+                  "instruction-following",
+                  "hf-asr-leaderboard",
+                  "transformers",
+                  "automatic-speech-recognition",
+                  "cs",
+                  "nl",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "it",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "sk",
+                  "es",
+                  "bg",
+                  "hr",
+                  "da",
+                  "et",
+                  "fi",
+                  "hu",
+                  "ja",
+                  "lv",
+                  "lt",
+                  "ro",
+                  "sl",
+                  "sv",
+                  "th",
+                  "tr",
+                  "uk",
+                  "ar",
+                  "bn",
+                  "zh",
+                  "el",
+                  "he",
+                  "id",
+                  "mt",
+                  "mr",
+                  "tl",
+                  "ta",
+                  "te",
+                  "vi",
+                  "dataset:nvidia/Granary-v2",
+                  "arxiv:2310.09424",
+                  "base_model:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "base_model:finetune:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "automatic-speech-recognition model. Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hour and a 65,536-token context. Its hybrid mixture-of-experts architecture activates approximately 4.3B parameters, including the audio encoder, and it is released in BF16, FP8, and NVFP4 precision."
+          }
+        },
+        {
+          "title": "baidu/Unlimited-OCR-2",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+          "summary": "Baidu tarafından geliştirilen Unlimited-OCR-2, görsel tabanlı metinleri işleyerek metin çıktısı üreten bir yapay zekâ modelidir. Model, Python ve çeşitli kütüphanelerle uyumlu çalışacak şekilde NVIDIA A800-80GB donanımı üzerinde test edilmiştir.",
+          "meta": "♥ 457 · 24.276 indirme",
+          "snapshot": {
+            "sourceId": "baidu/Unlimited-OCR-2",
+            "capturedAt": "2026-10-31T04:59:17.416Z",
+            "metadata": {
+              "popularity": 457,
+              "engagementCount": 24276,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 413,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "unlimited-ocr",
+                  "feature-extraction",
+                  "baidu",
+                  "vision-language",
+                  "ocr",
+                  "custom_code",
+                  "image-text-to-text",
+                  "multilingual",
+                  "arxiv:2606.23050",
+                  "license:mit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Tested with Python 3.10, torch==2.13.0, transformers==4.52.1, huggingface-hub==0.36.0, tokenizers==0.21.4, on an NVIDIA A800-80GB:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "EPSBench: Benchmarking LLM Agents for Earnings Forecasting",
+          "url": "https://huggingface.co/papers/2610.38293",
+          "summary": "EPSBench, büyük dil modellerinin (LLM) finansal raporlar, kazanç görüşmesi transkriptleri ve haberler üzerinden şirketlerin üç aylık kazanç tahminlerini yapma becerisini ölçen bir değerlendirme aracıdır. 86 ABD şirketine ait 149 çeyrek dönemlik veriyi kullanan bu sistem, yapay zekâ ajanlarının finansal kanıtları gelir tablosu kalemleriyle ilişkilendirme yeteneğini test eder.",
+          "meta": "1 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.38293",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.38293",
+                "publishedAt": "2026-10-28T05:24:11.000Z",
+                "githubRepo": "https://github.com/JadeXu16/epsbench",
+                "githubStars": 0
+              }
+            },
+            "description": "Quarterly earnings forecasting requires an agent to connect financial evidence to the income-statement line items that produce a company's reported earnings. We introduce EPSBench, a benchmark for studying this ability across 149 firm-quarters from 86 US companies. Agents read a fixed collection of filings, earnings-call transcripts, and news, then estimate company-specific income-statement drivers with cited evidence. A shared accounting calculator converts these estimates into GAAP diluted ear"
+          }
+        },
+        {
+          "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models",
+          "url": "https://huggingface.co/papers/2610.38681",
+          "summary": "Hugging Face tarafından paylaşılan makale, büyük akıl yürütme modellerinin (large reasoning models) eğitilmesi için geliştirilen zayıflatma kaynaklı politika içi öz damıtma (weakening-induced on-policy self-distillation) yöntemini tanıtıyor. WISD adı verilen bu yaklaşım, harici bir öğretmen model bulunmadığında modelin kendi zayıflatılmış sürümüyle kıyaslanması üzerinden bir eğitim sinyali oluşturuyor.",
+          "meta": "1 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.38681",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.38681",
+                "publishedAt": "2026-10-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/jet-ai-projects/WISD",
+                "githubStars": 0
+              }
+            },
+            "description": "Self-distillation offers a way to improve reasoning models when a suitable external teacher is unavailable. However, common approaches rely on privileged information to construct a stronger self-teacher, limiting their use when only unlabeled prompts are available. In this paper, we introduce Weakening-Induced On-Policy Self-Distillation (WISD), which instead constructs a weaker counterpart of the original model and uses the contrast between the two as a training signal without requiring privile"
+          }
+        },
+        {
+          "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models",
+          "url": "https://huggingface.co/papers/2610.39293",
+          "summary": "Hugging Face tarafından paylaşılan makale, önceden eğitilmiş özbağlanımlı (autoregressive) görüntü modellerinde sabit tarama sırasına bağlı kalmadan her sırada üretim yapabilmeyi amaçlıyor. Bu yöntem, modellerin görüntü tamamlama (inpainting), sınır genişletme (outpainting) ve düzenleme işlemlerini ek bir eğitim maliyeti olmadan gerçekleştirmesine olanak tanıyor.",
+          "meta": "2 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.39293",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.39293",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Ordered-AR/unlockedadaptation",
+                "githubStars": 0
+              }
+            },
+            "description": "Autoregressive (AR) image generators are powerful in principle but inflexible in practice: training with a fixed raster-scan order hardcodes a single factorization of the image distribution into the model, leaving it unable to inpaint, outpaint, or edit at inference time. Existing solutions, including the modern discrete-diffusion family, train from scratch on a mixture of token orderings, paying roughly 3x the compute of standard raster-scan training; discrete diffusion further sacrifices compa"
+          }
+        },
+        {
+          "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents",
+          "url": "https://huggingface.co/papers/2610.34298",
+          "summary": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents adlı çalışma, dil modellerinin (language agents) Model Context Protocol (MCP) ve komut satırı arayüzleri (CLI) üzerinden araç kullanımını inceliyor. Araştırma, aynı işlevsel yetenekler sunulsa bile farklı arayüz temsillerinin yapay zekâ ajanlarının karar süreçlerini ve davranışlarını nasıl değiştirdiğini analiz ediyor.",
+          "meta": "3 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.34298",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34298",
+                "publishedAt": "2026-10-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/ModalityDance/MICA",
+                "githubStars": 0
+              }
+            },
+            "description": "Language agents increasingly act through external tools and interactive environments, making the interface between the model and its executable capabilities part of the decision process. Model Context Protocol (MCP) and command-line interfaces (CLI) can expose the same semantic operations through markedly different model-facing representations. We study whether these representational differences change agent behavior when executable capabilities are matched. We introduce Matched Interface Compar"
+          }
+        },
+        {
+          "title": "Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them",
+          "url": "https://huggingface.co/papers/2609.05881",
+          "summary": "Hugging Face tarafından paylaşılan makale, halka açık kayıt alanlarında bulunan nicelenmiş (quantized) büyük dil modellerinin (LLM) işlevsellik sorunlarını ele alıyor. Araştırma, test edilen modellerin bir kısmının kod yazma görevlerinde başarısız olduğunu ve bu dosyaların doğrulanması için standart bir test sürecinin eksik olduğunu gösteriyor.",
+          "meta": "3 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.05881",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.05881",
+                "publishedAt": "2026-10-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/aditi-p31/quantcheck",
+                "githubStars": 0
+              }
+            },
+            "description": "Developers download quantized large language models (LLMs) from public registries to run them locally. None of the registries we examined documented functional testing of their files. We tested all 305 eligible code-capable GGUF tags (the llama.cpp format) across 15 model lines in the official Ollama library, plus 22 popular Hugging Face community files. A 15-task code screen identified suspects, which we retested on all 164 HumanEval+ tasks. Seven official tags (2.3%) solved at most six of them"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "API",
+      "explanation": "Farklı yazılımların birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan bağlantı noktası."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Yapay zekâ ajanlarının belirli işleri yapabilmesi için sahip olduğu teknik beceriler ve yetkinlikler."
+    },
+    {
+      "term": "headless browser",
+      "explanation": "Görsel bir arayüzü olmayan, sadece arka planda web sayfalarını yükleyip işlem yapabilen tarayıcı."
+    },
+    {
+      "term": "backdoor",
+      "explanation": "Bir yazılımın güvenlik önlemlerini aşarak sisteme izinsiz giriş yapılmasına olanak tanıyan gizli erişim yolu."
+    },
+    {
+      "term": "SRE",
+      "explanation": "Büyük ölçekli yazılım sistemlerinin sürekli çalışır durumda kalmasını ve hataların giderilmesini sağlayan mühendislik disiplini."
+    }
+  ]
+}

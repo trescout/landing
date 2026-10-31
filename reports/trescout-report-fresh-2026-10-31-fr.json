@@ -1,0 +1,544 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-31",
+  "capturedAt": "2026-10-31T04:59:17.275Z",
+  "editorial": "Les contenus inclus dans le rapport ne sont pas répétés pendant 30 jours. À la fin de cette période, les enregistrements qui restent d'actualité sont à nouveau listés avec l'étiquette \"de nouveau à l'ordre du jour\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Mattpocock/skills rassemble des compétences d'agents d'intelligence artificielle utilisées dans des processus d'ingénierie réels et prenant en charge les flux de travail quotidiens. Conçu pour automatiser les tâches de développement logiciel, cet ensemble d'outils offre une structure axée directement sur les applications pratiques.",
+          "meta": "Shell · ★ 307 611 · +876 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 307611,
+              "engagementCount": 876,
+              "rank": 8,
+              "extra": {
+                "starsToday": 876,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          }
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Le dépôt skills partagé par Anthropic contient divers exemples d'applications démontrant les capacités des modèles Claude. Dans ce projet développé avec le langage Python, une large gamme de flux de travail d'intelligence artificielle est proposée, allant des conceptions créatives aux tests d'applications web techniques.",
+          "meta": "Python · ★ 185 443 · +295 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "anthropics/skills",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 185443,
+              "engagementCount": 295,
+              "rank": 11,
+              "extra": {
+                "starsToday": 295,
+                "baglam": "readme"
+              }
+            },
+            "description": "Public repository for Agent Skills. This repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.)."
+          }
+        },
+        {
+          "title": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "summary": "Lightpanda est un navigateur sans tête (headless browser) spécialement développé pour les processus d'IA et d'automatisation. Écrit en langage Zig, cet outil vise à optimiser les opérations de collecte de données en traitant rapidement les pages web via le réseau.",
+          "meta": "Zig · ★ 38 542 · +626 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "lightpanda-io/browser",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Zig",
+              "popularity": 38542,
+              "engagementCount": 626,
+              "rank": 15,
+              "extra": {
+                "starsToday": 626,
+                "baglam": "readme"
+              }
+            },
+            "description": "Lightpanda: the headless browser designed for AI and automation. Requesting 933 real web pages over the network on a AWS EC2 m5.large instance. See benchmark details."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+          "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+          "summary": "Une porte dérobée (backdoor) malveillante a été détectée dans l'extension Claude Code for VS Code proposée sur le Cursor Marketplace. Cette faille de sécurité a créé un risque pouvant mener à un accès non autorisé aux systèmes des utilisateurs.",
+          "meta": "843 votes · 508 commentaires",
+          "snapshot": {
+            "sourceId": "50300683",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 843,
+              "engagementCount": 508,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50300683",
+                  "popularity": 843,
+                  "engagementCount": 508
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-30T07:09:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50300683"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50300683",
+              "popularity": 843,
+              "engagementCount": 508
+            }
+          ]
+        },
+        {
+          "title": "AI isn't replacing SREs, it's deskilling them",
+          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "summary": "Le fait que l'IA prenne en charge la majeure partie des processus de gestion des incidents risque d'entraîner une perte de compétence des ingénieurs en fiabilité de site (SRE) dans les situations critiques. Cette situation soulève la question de savoir si la facilité offerte par l'automatisation pourrait conduire à une atrophie des compétences en ingénierie.",
+          "meta": "538 votes · 404 commentaires",
+          "snapshot": {
+            "sourceId": "50305693",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 538,
+              "engagementCount": 404,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50305693",
+                  "popularity": 538,
+                  "engagementCount": 404
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-30T15:52:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50305693",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50305693",
+              "popularity": 538,
+              "engagementCount": 404
+            }
+          ]
+        },
+        {
+          "title": "Northflank Breached",
+          "url": "https://status.northflank.com/",
+          "summary": "Northflank, plateforme de développement d'applications basée sur le cloud, a annoncé avoir subi une violation de sécurité (breach) sur ses systèmes. L'entreprise a déclaré que les enquêtes sur l'incident sont en cours et qu'elle a pris les mesures nécessaires pour assurer la sécurité des données des utilisateurs.",
+          "meta": "394 votes · 292 commentaires",
+          "snapshot": {
+            "sourceId": "50305025",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 394,
+              "engagementCount": 292,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50305025",
+                  "popularity": 394,
+                  "engagementCount": 292
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-30T15:10:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50305025"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50305025",
+              "popularity": 394,
+              "engagementCount": 292
+            }
+          ]
+        },
+        {
+          "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "summary": "Il est indiqué que la cyberattaque de 6,3 milliards de dollars menée sur Binance a été réalisée en seulement 20 minutes. Les détails de cet incident ciblant la plateforme d'échange de cryptomonnaies Binance soulignent la rapidité et l'ampleur de l'attaque.",
+          "meta": "381 votes · 262 commentaires",
+          "snapshot": {
+            "sourceId": "50303172",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 381,
+              "engagementCount": 262,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50303172",
+                  "popularity": 381,
+                  "engagementCount": 262
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-30T12:50:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50303172"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50303172",
+              "popularity": 381,
+              "engagementCount": 262
+            }
+          ]
+        },
+        {
+          "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+          "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+          "summary": "Des failles architecturales dans les connexions API (pont numérique permettant à deux logiciels différents de communiquer) faisant partie de la plateforme Azure Logic Apps entraînent cinq violations distinctes de type inter-locataire (cross-tenant). Ces vulnérabilités mettent en évidence les risques liés à la sécurité des structures permettant l'accès mutuel des systèmes sur le service de cloud computing Azure.",
+          "meta": "284 votes · 56 commentaires",
+          "snapshot": {
+            "sourceId": "50301854",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 284,
+              "engagementCount": 56,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50301854",
+                  "popularity": 284,
+                  "engagementCount": 56
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-30T10:06:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50301854",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "In my previous blog posts, Azure’s Weakest Link? and Azure’s Weakest Link - Full Cross-Tenant Compromise, I gave an overview of the severely insecure architecture behind API Connections in Azure, a part of Azure Logic Apps, and an instance of a full cross-tenant compromise using these inherent flaws."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50301854",
+              "popularity": 284,
+              "engagementCount": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "summary": "NVIDIA-Nemotron-3.5-Transcribe-30B-A4B, développé par NVIDIA, est un modèle de reconnaissance automatique de la parole à poids ouverts capable de transcrire dans 40 langues. Prenant en charge des enregistrements allant jusqu'à une heure, le modèle offre une fenêtre de contexte de 65 536 jetons (tokens) grâce à son architecture de mélange d'experts hybride (hybrid mixture-of-experts).",
+          "meta": "♥ 507 · 15 980 téléchargements",
+          "snapshot": {
+            "sourceId": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+            "capturedAt": "2026-10-31T04:59:17.416Z",
+            "metadata": {
+              "popularity": 507,
+              "engagementCount": 15980,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 477,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "nemo",
+                  "safetensors",
+                  "nemo_speechlm",
+                  "text2text-generation",
+                  "nvidia",
+                  "pytorch",
+                  "nemotron-3.5",
+                  "speech",
+                  "asr",
+                  "speech-translation",
+                  "speaker-diarization",
+                  "audio",
+                  "transcription",
+                  "speech-to-text",
+                  "multilingual",
+                  "timestamps",
+                  "long-form-audio",
+                  "language-identification",
+                  "code-switching",
+                  "audio-question-answering",
+                  "instruction-following",
+                  "hf-asr-leaderboard",
+                  "transformers",
+                  "automatic-speech-recognition",
+                  "cs",
+                  "nl",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "it",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "sk",
+                  "es",
+                  "bg",
+                  "hr",
+                  "da",
+                  "et",
+                  "fi",
+                  "hu",
+                  "ja",
+                  "lv",
+                  "lt",
+                  "ro",
+                  "sl",
+                  "sv",
+                  "th",
+                  "tr",
+                  "uk",
+                  "ar",
+                  "bn",
+                  "zh",
+                  "el",
+                  "he",
+                  "id",
+                  "mt",
+                  "mr",
+                  "tl",
+                  "ta",
+                  "te",
+                  "vi",
+                  "dataset:nvidia/Granary-v2",
+                  "arxiv:2310.09424",
+                  "base_model:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "base_model:finetune:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "automatic-speech-recognition model. Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hour and a 65,536-token context. Its hybrid mixture-of-experts architecture activates approximately 4.3B parameters, including the audio encoder, and it is released in BF16, FP8, and NVFP4 precision."
+          }
+        },
+        {
+          "title": "baidu/Unlimited-OCR-2",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+          "summary": "Unlimited-OCR-2, développé par Baidu, est un modèle d'intelligence artificielle qui traite des textes basés sur des images pour produire une sortie textuelle. Le modèle a été testé sur du matériel NVIDIA A800-80GB pour fonctionner de manière compatible avec Python et diverses bibliothèques.",
+          "meta": "♥ 457 · 24 276 téléchargements",
+          "snapshot": {
+            "sourceId": "baidu/Unlimited-OCR-2",
+            "capturedAt": "2026-10-31T04:59:17.416Z",
+            "metadata": {
+              "popularity": 457,
+              "engagementCount": 24276,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 413,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "unlimited-ocr",
+                  "feature-extraction",
+                  "baidu",
+                  "vision-language",
+                  "ocr",
+                  "custom_code",
+                  "image-text-to-text",
+                  "multilingual",
+                  "arxiv:2606.23050",
+                  "license:mit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Tested with Python 3.10, torch==2.13.0, transformers==4.52.1, huggingface-hub==0.36.0, tokenizers==0.21.4, on an NVIDIA A800-80GB:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "EPSBench: Benchmarking LLM Agents for Earnings Forecasting",
+          "url": "https://huggingface.co/papers/2610.38293",
+          "summary": "EPSBench est un outil d'évaluation qui mesure la capacité des grands modèles de langage (LLM) à effectuer des prévisions de bénéfices trimestriels pour les entreprises à partir de rapports financiers, de transcriptions d'appels de résultats et d'actualités. Utilisant 149 trimestres de données provenant de 86 entreprises américaines, ce système teste la capacité des agents d'intelligence artificielle à corréler les preuves financières avec les postes du compte de résultat.",
+          "meta": "1 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.38293",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.38293",
+                "publishedAt": "2026-10-28T05:24:11.000Z",
+                "githubRepo": "https://github.com/JadeXu16/epsbench",
+                "githubStars": 0
+              }
+            },
+            "description": "Quarterly earnings forecasting requires an agent to connect financial evidence to the income-statement line items that produce a company's reported earnings. We introduce EPSBench, a benchmark for studying this ability across 149 firm-quarters from 86 US companies. Agents read a fixed collection of filings, earnings-call transcripts, and news, then estimate company-specific income-statement drivers with cited evidence. A shared accounting calculator converts these estimates into GAAP diluted ear"
+          }
+        },
+        {
+          "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models",
+          "url": "https://huggingface.co/papers/2610.38681",
+          "summary": "L'article partagé par Hugging Face présente la méthode d'auto-distillation en politique induite par l'affaiblissement (weakening-induced on-policy self-distillation) développée pour l'entraînement de grands modèles de raisonnement (large reasoning models). Cette approche, appelée WISD, génère un signal d'entraînement en comparant le modèle à sa propre version affaiblie lorsqu'aucun modèle enseignant externe n'est disponible.",
+          "meta": "1 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.38681",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.38681",
+                "publishedAt": "2026-10-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/jet-ai-projects/WISD",
+                "githubStars": 0
+              }
+            },
+            "description": "Self-distillation offers a way to improve reasoning models when a suitable external teacher is unavailable. However, common approaches rely on privileged information to construct a stronger self-teacher, limiting their use when only unlabeled prompts are available. In this paper, we introduce Weakening-Induced On-Policy Self-Distillation (WISD), which instead constructs a weaker counterpart of the original model and uses the contrast between the two as a training signal without requiring privile"
+          }
+        },
+        {
+          "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models",
+          "url": "https://huggingface.co/papers/2610.39293",
+          "summary": "L'article partagé par Hugging Face vise à permettre la génération dans n'importe quel ordre dans les modèles d'image autorégressifs pré-entraînés, sans dépendre d'un ordre de balayage fixe. Cette méthode permet aux modèles d'effectuer des opérations de complétion d'image (inpainting), d'extension de bordure (outpainting) et d'édition sans coût d'entraînement supplémentaire.",
+          "meta": "2 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.39293",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.39293",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Ordered-AR/unlockedadaptation",
+                "githubStars": 0
+              }
+            },
+            "description": "Autoregressive (AR) image generators are powerful in principle but inflexible in practice: training with a fixed raster-scan order hardcodes a single factorization of the image distribution into the model, leaving it unable to inpaint, outpaint, or edit at inference time. Existing solutions, including the modern discrete-diffusion family, train from scratch on a mixture of token orderings, paying roughly 3x the compute of standard raster-scan training; discrete diffusion further sacrifices compa"
+          }
+        },
+        {
+          "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents",
+          "url": "https://huggingface.co/papers/2610.34298",
+          "summary": "L'étude intitulée \"Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents\" examine l'utilisation d'outils par les agents linguistiques (language agents) via le protocole MCP (Model Context Protocol) et les interfaces de ligne de commande (CLI). La recherche analyse comment, même lorsque les mêmes capacités fonctionnelles sont offertes, différentes représentations d'interface modifient les processus de décision et les comportements des agents d'intelligence artificielle.",
+          "meta": "3 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.34298",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34298",
+                "publishedAt": "2026-10-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/ModalityDance/MICA",
+                "githubStars": 0
+              }
+            },
+            "description": "Language agents increasingly act through external tools and interactive environments, making the interface between the model and its executable capabilities part of the decision process. Model Context Protocol (MCP) and command-line interfaces (CLI) can expose the same semantic operations through markedly different model-facing representations. We study whether these representational differences change agent behavior when executable capabilities are matched. We introduce Matched Interface Compar"
+          }
+        },
+        {
+          "title": "Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them",
+          "url": "https://huggingface.co/papers/2609.05881",
+          "summary": "L'article partagé par Hugging Face aborde les problèmes de fonctionnalité des grands modèles de langage (LLM) quantifiés trouvés dans les espaces de stockage publics. La recherche montre qu'une partie des modèles testés échoue dans les tâches de codage et qu'il manque un processus de test standard pour la vérification de ces fichiers.",
+          "meta": "3 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2609.05881",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.05881",
+                "publishedAt": "2026-10-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/aditi-p31/quantcheck",
+                "githubStars": 0
+              }
+            },
+            "description": "Developers download quantized large language models (LLMs) from public registries to run them locally. None of the registries we examined documented functional testing of their files. We tested all 305 eligible code-capable GGUF tags (the llama.cpp format) across 15 model lines in the official Ollama library, plus 22 popular Hugging Face community files. A 15-task code screen identified suspects, which we retested on all 164 HumanEval+ tasks. Seven official tags (2.3%) solved at most six of them"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "API",
+      "explanation": "Point de connexion permettant à différents logiciels de communiquer entre eux et d'échanger des données."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Compétences techniques et aptitudes dont disposent les agents d'intelligence artificielle pour accomplir des tâches spécifiques."
+    },
+    {
+      "term": "headless browser",
+      "explanation": "Navigateur sans interface visuelle, capable uniquement de charger et de traiter des pages web en arrière-plan."
+    },
+    {
+      "term": "backdoor",
+      "explanation": "Voie d'accès secrète permettant de contourner les mesures de sécurité d'un logiciel pour accéder au système sans autorisation."
+    },
+    {
+      "term": "SRE",
+      "explanation": "Discipline d'ingénierie garantissant que les systèmes logiciels à grande échelle restent opérationnels en permanence et que les erreurs sont corrigées."
+    }
+  ]
+}

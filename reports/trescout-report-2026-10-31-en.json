@@ -1,0 +1,938 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-31",
+  "capturedAt": "2026-10-31T04:59:17.275Z",
+  "editorial": "The integration of AI tools into developer environments brings security vulnerabilities, while discussions regarding the loss of talent in site reliability engineering (SRE) roles are surfacing. New models published on Hugging Face and benchmarking studies focusing on accounting estimates demonstrate an increase in technical depth.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "thedotmack/claude-mem is a tool that provides persistent context across sessions between different AI agents. By compressing session data with AI and transferring relevant information to subsequent interactions, this software works compatibly with various coding assistants such as Claude Code and Copilot.",
+          "meta": "TypeScript · ★ 106,541 · +1,140 today",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 106541,
+              "engagementCount": 1140,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1140
+              }
+            },
+            "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+          }
+        },
+        {
+          "title": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "summary": "OpenMausBot is an open-source Grok Bot alternative that allows you to build your own team of AI bots within chat applications. The project includes a virtual machine infrastructure made available for the bots to use.",
+          "meta": "TypeScript · ★ 8,845 · +895 today",
+          "snapshot": {
+            "sourceId": "milind-soni/OpenMausBot",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 8845,
+              "engagementCount": 895,
+              "rank": 2,
+              "extra": {
+                "starsToday": 895,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open-source Grok Bot alternative with a virtual machine that bots can use. The open-source Grok Bot alternative: your own team of AI bots, in a chat app."
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Developed in the Rust language, impeccable offers a design vocabulary for AI agents that code. It aims to prevent the deployment of AI-generated erroneous content (AI slop) by performing error checking and quality control during software processes.",
+          "meta": "Rust · ★ 97,275 · +2,300 today",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 97275,
+              "engagementCount": 2300,
+              "rank": 3,
+              "extra": {
+                "starsToday": 2300
+              }
+            },
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "title": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "summary": "CopilotKit/OpenBot allows for the creation of open-source AI coworkers with access to browsers, files, and various tools. This system, which plans and records every action in advance, enables users to integrate their preferred AI agents (AG-UI agent).",
+          "meta": "TypeScript · ★ 8,893 · +706 today",
+          "snapshot": {
+            "sourceId": "CopilotKit/OpenBot",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 8893,
+              "engagementCount": 706,
+              "rank": 4,
+              "extra": {
+                "starsToday": 706
+              }
+            },
+            "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+          }
+        },
+        {
+          "title": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "summary": "Renhuai123/ziwei-doushu is an open-source astrology engine based on Ni Hai-xia's Tian Ji system, containing astrological chart generation algorithms and ancient text data. Developed with TypeScript, the project offers a comprehensive dataset containing approximately 8.7 million different interpretations covering the years between 1950 and 2026.",
+          "meta": "TypeScript · ★ 11,445 · +1,126 today",
+          "snapshot": {
+            "sourceId": "Renhuai123/ziwei-doushu",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11445,
+              "engagementCount": 1126,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1126,
+                "baglam": "readme"
+              }
+            },
+            "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据. 1. 发布 13 维解读数据集 v4.0 —— 674,976 张命盘（公历 1950–2026 年每一个真实日期 × 12 时辰 × 男女）× 13 维 = 8,774,688 段解读，正文约 204 亿字。解压后 56.6 GB（v3.0 为 33.1 GB，增加 71%），压缩后只有 161 MB，按年份分 77 个文件，可以只下需要的年份，也可以一次下全年份总包。下载见 Release v4.0-13d，规格和字段见第二·新章。发布前 77 个文件逐个解压，与原始数据逐字节比对一致。"
+          }
+        },
+        {
+          "title": "expo/skills",
+          "url": "https://github.com/expo/skills",
+          "summary": "Developed for Expo projects and Expo Application Services, expo/skills provides a collection of skills that transfer technical knowledge and workflows specific to the Expo ecosystem to AI agents. This tool enables agents to more accurately apply Expo application programming interfaces (APIs) and platform constraints during application development processes.",
+          "meta": "Shell · ★ 3,919 · +38 today",
+          "snapshot": {
+            "sourceId": "expo/skills",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 3919,
+              "engagementCount": 38,
+              "rank": 6,
+              "extra": {
+                "starsToday": 38,
+                "baglam": "readme"
+              }
+            },
+            "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services. Skills give AI agents focused Expo knowledge: when to use Expo APIs, how to structure common workflows, and which Expo, EAS, React Native, iOS, and Android constraints matter. Expo documentation, Expo CLI, and EAS CLI remain the source of truth; these skills help agents apply them correctly."
+          }
+        },
+        {
+          "title": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "summary": "Macro combines email, chat, documents, task management, AI agents, meetings, and customer relationship management (CRM) tools into a single workspace. It aims to centralize team processes by connecting all these collaboration elements through a shared AI memory.",
+          "meta": "Rust · ★ 5,917 · +57 today",
+          "snapshot": {
+            "sourceId": "macro-inc/macro",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 5917,
+              "engagementCount": 57,
+              "rank": 7,
+              "extra": {
+                "starsToday": 57
+              }
+            },
+            "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Mattpocock/skills brings together AI agent skills used in real engineering processes and supporting daily workflows. Designed to automate software development tasks, this toolkit offers a structure focused directly on practical applications.",
+          "meta": "Shell · ★ 307,611 · +876 today",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 307611,
+              "engagementCount": 876,
+              "rank": 8,
+              "extra": {
+                "starsToday": 876,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          }
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3 Code offers an agent harness control surface that allows you to manage AI agents running on your computer. Users can control this system via iOS, Android, web, and Electron-based desktop applications.",
+          "meta": "TypeScript · ★ 32,938 · +930 today",
+          "snapshot": {
+            "sourceId": "pingdotgg/t3code",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 32938,
+              "engagementCount": 930,
+              "rank": 9,
+              "extra": {
+                "starsToday": 930,
+                "baglam": "readme"
+              }
+            },
+            "description": "T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app."
+          }
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor is an AI-based workspace that combines learning processes such as private tutoring, problem-solving, and test creation into a single system. Developed in the Python language, this system aims to support a personalized learning experience with a lifelong learning cycle.",
+          "meta": "Python · ★ 51,925 · +2,282 today",
+          "snapshot": {
+            "sourceId": "HKUDS/DeepTutor",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 51925,
+              "engagementCount": 2282,
+              "rank": 10,
+              "extra": {
+                "starsToday": 2282,
+                "baglam": "readme"
+              }
+            },
+            "description": "DeepTutor: Lifelong Personalized Tutoring. DeepTutor is an agent-native learning workspace that connects tutoring, problem solving, quiz generation, research, visualization, and mastery practice in one extensible system."
+          }
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "The skills repository shared by Anthropic contains various application examples showcasing the capabilities of Claude models. Developed in the Python language, this project offers a wide range of AI workflows, from creative designs to technical web application tests.",
+          "meta": "Python · ★ 185,443 · +295 today",
+          "snapshot": {
+            "sourceId": "anthropics/skills",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 185443,
+              "engagementCount": 295,
+              "rank": 11,
+              "extra": {
+                "starsToday": 295,
+                "baglam": "readme"
+              }
+            },
+            "description": "Public repository for Agent Skills. This repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.)."
+          }
+        },
+        {
+          "title": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "summary": "ThinkRail, developed by JetBrains, is an agentic integrated development environment (IDE) that customizes itself according to the user's workflow and improves its capabilities over time by learning project requirements. Written in TypeScript, this tool aims to provide a learning and adaptive experience in the software development process.",
+          "meta": "TypeScript · ★ 6,651 · +722 today",
+          "snapshot": {
+            "sourceId": "JetBrains/thinkrail",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6651,
+              "engagementCount": 722,
+              "rank": 12,
+              "extra": {
+                "starsToday": 722,
+                "baglam": "readme"
+              }
+            },
+            "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need. ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers is a capability framework and software development methodology developed for AI coding agents. It aims to standardize software development processes for agents through composable capabilities and guidance instructions.",
+          "meta": "Shell · ★ 309,533 · +1,259 today",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 309533,
+              "engagementCount": 1259,
+              "rank": 14,
+              "extra": {
+                "starsToday": 1259,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        },
+        {
+          "title": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "summary": "Lightpanda is a headless browser specifically developed for AI and automation processes. Written in the Zig language, this tool aims to optimize data collection operations by processing web pages rapidly over the network.",
+          "meta": "Zig · ★ 38,542 · +626 today",
+          "snapshot": {
+            "sourceId": "lightpanda-io/browser",
+            "capturedAt": "2026-10-31T04:59:18.657Z",
+            "metadata": {
+              "language": "Zig",
+              "popularity": 38542,
+              "engagementCount": 626,
+              "rank": 15,
+              "extra": {
+                "starsToday": 626,
+                "baglam": "readme"
+              }
+            },
+            "description": "Lightpanda: the headless browser designed for AI and automation. Requesting 933 real web pages over the network on a AWS EC2 m5.large instance. See benchmark details."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+          "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+          "summary": "A malicious backdoor was detected in the Claude Code for VS Code extension offered on the Cursor Marketplace. The security vulnerability in question posed a risk that could lead to unauthorized access to users' systems.",
+          "meta": "843 points · 508 comments",
+          "snapshot": {
+            "sourceId": "50300683",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 843,
+              "engagementCount": 508,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50300683",
+                  "popularity": 843,
+                  "engagementCount": 508
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-30T07:09:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50300683"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50300683",
+              "popularity": 843,
+              "engagementCount": 508
+            }
+          ]
+        },
+        {
+          "title": "AI isn't replacing SREs, it's deskilling them",
+          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "summary": "The fact that AI takes over a large portion of incident response processes carries the risk of causing site reliability engineers (SREs) to lose their proficiency in critical situations. This raises the question of whether the convenience provided by automation might lead to the atrophy of engineering skills.",
+          "meta": "538 points · 404 comments",
+          "snapshot": {
+            "sourceId": "50305693",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 538,
+              "engagementCount": 404,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50305693",
+                  "popularity": 538,
+                  "engagementCount": 404
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-30T15:52:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50305693",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50305693",
+              "popularity": 538,
+              "engagementCount": 404
+            }
+          ]
+        },
+        {
+          "title": "Northflank Breached",
+          "url": "https://status.northflank.com/",
+          "summary": "Cloud-based application development platform Northflank announced that it experienced a security breach in its systems. The company stated that investigations into the incident are ongoing and that it has taken the necessary measures to ensure the security of user data.",
+          "meta": "394 points · 292 comments",
+          "snapshot": {
+            "sourceId": "50305025",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 394,
+              "engagementCount": 292,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50305025",
+                  "popularity": 394,
+                  "engagementCount": 292
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-30T15:10:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50305025"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50305025",
+              "popularity": 394,
+              "engagementCount": 292
+            }
+          ]
+        },
+        {
+          "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "summary": "It is stated that the $6.3 billion cyberattack carried out on Binance was completed in just 20 minutes. The details of this incident targeting the cryptocurrency exchange Binance platform highlight the speed and scale of the attack.",
+          "meta": "381 points · 262 comments",
+          "snapshot": {
+            "sourceId": "50303172",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 381,
+              "engagementCount": 262,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50303172",
+                  "popularity": 381,
+                  "engagementCount": 262
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-30T12:50:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50303172"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50303172",
+              "popularity": 381,
+              "engagementCount": 262
+            }
+          ]
+        },
+        {
+          "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+          "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+          "summary": "Architectural vulnerabilities in API connections (a digital bridge that allows two different software programs to communicate with each other), which are part of the Azure Logic Apps platform, lead to five different full cross-tenant breaches. These security vulnerabilities reveal risks regarding the security of structures that allow systems to access each other on the cloud computing service Azure.",
+          "meta": "284 points · 56 comments",
+          "snapshot": {
+            "sourceId": "50301854",
+            "capturedAt": "2026-10-31T04:59:17.542Z",
+            "metadata": {
+              "popularity": 284,
+              "engagementCount": 56,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50301854",
+                  "popularity": 284,
+                  "engagementCount": 56
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-30T10:06:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50301854",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "In my previous blog posts, Azure’s Weakest Link? and Azure’s Weakest Link - Full Cross-Tenant Compromise, I gave an overview of the severely insecure architecture behind API Connections in Azure, a part of Azure Logic Apps, and an instance of a full cross-tenant compromise using these inherent flaws."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50301854",
+              "popularity": 284,
+              "engagementCount": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "DeepSeek-V4.1-Flash-1017, as an AI model capable of processing visual and text-based inputs, offers updates in reasoning, coding, and agent-based tasks. The model reduces processing time and output length, allowing tasks to be completed faster and at a lower cost.",
+          "meta": "♥ 4,024 · 145,869 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-10-31T04:59:17.416Z",
+            "metadata": {
+              "popularity": 4024,
+              "engagementCount": 145869,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 809,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us",
+                  "deploy:azure"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "summary": "Nanbeige/Nanbeige4.3-33B is an AI model with text-generation capabilities. Developers position this model as a high-capacity teacher agent to provide advanced agent capabilities to smaller-sized models.",
+          "meta": "♥ 799 · 12,178 downloads",
+          "snapshot": {
+            "sourceId": "Nanbeige/Nanbeige4.3-33B",
+            "capturedAt": "2026-10-31T04:59:17.416Z",
+            "metadata": {
+              "popularity": 799,
+              "engagementCount": 12178,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 782,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "llm",
+                  "nanbeige",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+                  "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teacher agent first, which will subsequently anchor the distillation of advanced agentic capabilities into smaller models."
+          }
+        },
+        {
+          "title": "LiquidAI/LFM3-1.7B",
+          "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+          "summary": "LFM3-1.7B, developed by LiquidAI, is a text-generation model designed for local agents and specialized applications. Built on a new tri-hybrid architecture, this model aims to operate with low resource requirements.",
+          "meta": "♥ 575 · 23,694 downloads",
+          "snapshot": {
+            "sourceId": "LiquidAI/LFM3-1.7B",
+            "capturedAt": "2026-10-31T04:59:17.416Z",
+            "metadata": {
+              "popularity": 575,
+              "engagementCount": 23694,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 555,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "lfm3",
+                  "text-generation",
+                  "liquid",
+                  "edge",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "ar",
+                  "zh",
+                  "fr",
+                  "de",
+                  "it",
+                  "ja",
+                  "ko",
+                  "pt",
+                  "es",
+                  "vi",
+                  "th",
+                  "id",
+                  "hi",
+                  "ru",
+                  "pl",
+                  "base_model:LiquidAI/LFM3-1.7B-Base",
+                  "base_model:finetune:LiquidAI/LFM3-1.7B-Base",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. LFM3-1.7B is a text model for local agents and specialized applications, based on our new tri-hybrid architecture."
+          }
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "summary": "NVIDIA-Nemotron-3.5-Transcribe-30B-A4B, developed by NVIDIA, is an open-weight automatic speech recognition model capable of transcribing in 40 languages. Supporting recordings of up to one hour, the model offers a 65,536-token context window with a hybrid mixture-of-experts architecture.",
+          "meta": "♥ 507 · 15,980 downloads",
+          "snapshot": {
+            "sourceId": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+            "capturedAt": "2026-10-31T04:59:17.416Z",
+            "metadata": {
+              "popularity": 507,
+              "engagementCount": 15980,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 477,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "nemo",
+                  "safetensors",
+                  "nemo_speechlm",
+                  "text2text-generation",
+                  "nvidia",
+                  "pytorch",
+                  "nemotron-3.5",
+                  "speech",
+                  "asr",
+                  "speech-translation",
+                  "speaker-diarization",
+                  "audio",
+                  "transcription",
+                  "speech-to-text",
+                  "multilingual",
+                  "timestamps",
+                  "long-form-audio",
+                  "language-identification",
+                  "code-switching",
+                  "audio-question-answering",
+                  "instruction-following",
+                  "hf-asr-leaderboard",
+                  "transformers",
+                  "automatic-speech-recognition",
+                  "cs",
+                  "nl",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "it",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "sk",
+                  "es",
+                  "bg",
+                  "hr",
+                  "da",
+                  "et",
+                  "fi",
+                  "hu",
+                  "ja",
+                  "lv",
+                  "lt",
+                  "ro",
+                  "sl",
+                  "sv",
+                  "th",
+                  "tr",
+                  "uk",
+                  "ar",
+                  "bn",
+                  "zh",
+                  "el",
+                  "he",
+                  "id",
+                  "mt",
+                  "mr",
+                  "tl",
+                  "ta",
+                  "te",
+                  "vi",
+                  "dataset:nvidia/Granary-v2",
+                  "arxiv:2310.09424",
+                  "base_model:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "base_model:finetune:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "automatic-speech-recognition model. Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hour and a 65,536-token context. Its hybrid mixture-of-experts architecture activates approximately 4.3B parameters, including the audio encoder, and it is released in BF16, FP8, and NVFP4 precision."
+          }
+        },
+        {
+          "title": "baidu/Unlimited-OCR-2",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+          "summary": "Unlimited-OCR-2, developed by Baidu, is an AI model that processes visual-based text to produce text output. The model has been tested on NVIDIA A800-80GB hardware to ensure compatibility with Python and various libraries.",
+          "meta": "♥ 457 · 24,276 downloads",
+          "snapshot": {
+            "sourceId": "baidu/Unlimited-OCR-2",
+            "capturedAt": "2026-10-31T04:59:17.416Z",
+            "metadata": {
+              "popularity": 457,
+              "engagementCount": 24276,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 413,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "unlimited-ocr",
+                  "feature-extraction",
+                  "baidu",
+                  "vision-language",
+                  "ocr",
+                  "custom_code",
+                  "image-text-to-text",
+                  "multilingual",
+                  "arxiv:2606.23050",
+                  "license:mit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Tested with Python 3.10, torch==2.13.0, transformers==4.52.1, huggingface-hub==0.36.0, tokenizers==0.21.4, on an NVIDIA A800-80GB:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "EPSBench: Benchmarking LLM Agents for Earnings Forecasting",
+          "url": "https://huggingface.co/papers/2610.38293",
+          "summary": "EPSBench is an evaluation tool that measures the ability of large language models (LLMs) to make quarterly earnings forecasts for companies based on financial reports, earnings call transcripts, and news. Using 149 quarters of data from 86 US companies, this system tests the ability of AI agents to correlate financial evidence with income statement items.",
+          "meta": "1 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2610.38293",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.38293",
+                "publishedAt": "2026-10-28T05:24:11.000Z",
+                "githubRepo": "https://github.com/JadeXu16/epsbench",
+                "githubStars": 0
+              }
+            },
+            "description": "Quarterly earnings forecasting requires an agent to connect financial evidence to the income-statement line items that produce a company's reported earnings. We introduce EPSBench, a benchmark for studying this ability across 149 firm-quarters from 86 US companies. Agents read a fixed collection of filings, earnings-call transcripts, and news, then estimate company-specific income-statement drivers with cited evidence. A shared accounting calculator converts these estimates into GAAP diluted ear"
+          }
+        },
+        {
+          "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models",
+          "url": "https://huggingface.co/papers/2610.38681",
+          "summary": "The article shared by Hugging Face introduces the weakening-induced on-policy self-distillation method developed for training large reasoning models. This approach, called WISD, creates a training signal by comparing the model with its own weakened version when an external teacher model is not available.",
+          "meta": "1 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2610.38681",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.38681",
+                "publishedAt": "2026-10-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/jet-ai-projects/WISD",
+                "githubStars": 0
+              }
+            },
+            "description": "Self-distillation offers a way to improve reasoning models when a suitable external teacher is unavailable. However, common approaches rely on privileged information to construct a stronger self-teacher, limiting their use when only unlabeled prompts are available. In this paper, we introduce Weakening-Induced On-Policy Self-Distillation (WISD), which instead constructs a weaker counterpart of the original model and uses the contrast between the two as a training signal without requiring privile"
+          }
+        },
+        {
+          "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models",
+          "url": "https://huggingface.co/papers/2610.39293",
+          "summary": "The article shared by Hugging Face aims to enable generation in any order in pre-trained autoregressive image models without being bound to a fixed scanning order. This method allows models to perform image inpainting, outpainting, and editing operations without additional training costs.",
+          "meta": "2 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2610.39293",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.39293",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Ordered-AR/unlockedadaptation",
+                "githubStars": 0
+              }
+            },
+            "description": "Autoregressive (AR) image generators are powerful in principle but inflexible in practice: training with a fixed raster-scan order hardcodes a single factorization of the image distribution into the model, leaving it unable to inpaint, outpaint, or edit at inference time. Existing solutions, including the modern discrete-diffusion family, train from scratch on a mixture of token orderings, paying roughly 3x the compute of standard raster-scan training; discrete diffusion further sacrifices compa"
+          }
+        },
+        {
+          "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents",
+          "url": "https://huggingface.co/papers/2610.34298",
+          "summary": "The study titled 'Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents' examines the tool usage of language agents via the Model Context Protocol (MCP) and command-line interfaces (CLI). The research analyzes how different interface representations change the decision-making processes and behaviors of AI agents, even when the same functional capabilities are provided.",
+          "meta": "3 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2610.34298",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34298",
+                "publishedAt": "2026-10-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/ModalityDance/MICA",
+                "githubStars": 0
+              }
+            },
+            "description": "Language agents increasingly act through external tools and interactive environments, making the interface between the model and its executable capabilities part of the decision process. Model Context Protocol (MCP) and command-line interfaces (CLI) can expose the same semantic operations through markedly different model-facing representations. We study whether these representational differences change agent behavior when executable capabilities are matched. We introduce Matched Interface Compar"
+          }
+        },
+        {
+          "title": "Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them",
+          "url": "https://huggingface.co/papers/2609.05881",
+          "summary": "The article shared by Hugging Face addresses the functionality issues of quantized large language models (LLMs) found in public repositories. The research shows that some of the tested models fail in coding tasks and that there is a lack of a standard testing process for verifying these files.",
+          "meta": "3 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.05881",
+            "capturedAt": "2026-10-31T04:59:17.423Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.05881",
+                "publishedAt": "2026-10-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/aditi-p31/quantcheck",
+                "githubStars": 0
+              }
+            },
+            "description": "Developers download quantized large language models (LLMs) from public registries to run them locally. None of the registries we examined documented functional testing of their files. We tested all 305 eligible code-capable GGUF tags (the llama.cpp format) across 15 model lines in the official Ollama library, plus 22 popular Hugging Face community files. A 15-task code screen identified suspects, which we retested on all 164 HumanEval+ tasks. Seven official tags (2.3%) solved at most six of them"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "persistent context",
+      "explanation": "Continuous data flow that allows AI agents to remember previous conversations and information across different sessions."
+    },
+    {
+      "term": "open source",
+      "explanation": "A type of software whose source code is open for anyone to inspect, modify, and improve."
+    },
+    {
+      "term": "virtual machine",
+      "explanation": "A software-based computer environment that runs inside a physical computer and has its own operating system and resources."
+    },
+    {
+      "term": "design vocabulary",
+      "explanation": "A set of standard commands and design rules used by AI agents when developing software."
+    },
+    {
+      "term": "AI slop",
+      "explanation": "A general term for low-quality, erroneous, or worthless content generated by artificial intelligence."
+    },
+    {
+      "term": "AG-UI agent",
+      "explanation": "AI software that performs specific tasks by interacting through a user interface."
+    },
+    {
+      "term": "API",
+      "explanation": "A connection point that allows different software to communicate and exchange data with each other."
+    },
+    {
+      "term": "CRM",
+      "explanation": "A management system that enables companies to track their interactions with customers, sales processes, and communication history."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "The technical skills and competencies that AI agents possess to perform specific tasks."
+    },
+    {
+      "term": "agent harness control surface",
+      "explanation": "A central control panel used to manage, monitor, and direct AI agents running on a computer."
+    },
+    {
+      "term": "lifelong learning",
+      "explanation": "The process of the system continuously updating itself with new data to keep the learning process ongoing without interruption."
+    },
+    {
+      "term": "IDE",
+      "explanation": "A development environment that gathers all the tools developers need while writing code in a single place."
+    },
+    {
+      "term": "framework",
+      "explanation": "A basic framework that facilitates the software development process by providing specific rules and ready-made structures."
+    },
+    {
+      "term": "headless browser",
+      "explanation": "A browser that does not have a visual interface and can only load and process web pages in the background."
+    },
+    {
+      "term": "backdoor",
+      "explanation": "A hidden access path that allows unauthorized entry into a system by bypassing a software's security measures."
+    },
+    {
+      "term": "SRE",
+      "explanation": "An engineering discipline that ensures large-scale software systems remain continuously operational and that errors are resolved."
+    }
+  ]
+}
