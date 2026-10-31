@@ -2,16 +2,16 @@
 
 This library, developed for artificial intelligence coding agents, offers production-level engineering skills. It provides standardized tools to increase the technical capacity of agents that automate software development processes.
 
-- ★ 111,505
+- ★ 112,056
 - Shell
 - GitHub Trending · 2026-06-10
 
 ## Updates
 
+- **October 31, 2026:** Stars 111,505 → 112,056, latest release 0.6.15 (October 31, 2026).
 - **October 29, 2026:** Stars 106,401 → 111,505, latest release 0.6.14 (October 29, 2026).
 - **October 14, 2026:** Stars 106,026 → 106,401, latest release 0.6.13 (October 13, 2026).
 - **October 13, 2026:** Stars 100,641 → 106,026, latest release 0.6.12 (October 3, 2026).
-- **October 3, 2026:** Stars 99,292 → 100,641, latest release 0.6.12 (October 3, 2026).
 
 ## What you get
 

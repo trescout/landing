@@ -8,10 +8,10 @@ Developed for Claude Code and various coding agents, this library offers more th
 
 ## Updates
 
+- **October 31, 2026:** Stars 29,039 → 29,039, latest release v2.14.5 (October 31, 2026).
 - **October 31, 2026:** Stars 28,939 → 29,039, latest release v2.14.4 (October 30, 2026).
 - **October 29, 2026:** Stars 28,795 → 28,939, latest release v2.14.3 (October 29, 2026).
 - **October 27, 2026:** Stars 28,584 → 28,795, latest release v2.14.2 (October 26, 2026).
-- **October 23, 2026:** Stars 28,525 → 28,584, latest release v2.14.1 (October 23, 2026).
 
 ## What you get
 

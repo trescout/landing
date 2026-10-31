@@ -8,10 +8,10 @@ Diese Bibliothek wurde für Claude Code und verschiedene Programmieragenten entw
 
 ## Aktualisierungen
 
+- **31. Oktober 2026:** Sterne 29,039 → 29,039, neueste Version v2.14.5 (31. Oktober 2026).
 - **31. Oktober 2026:** Sterne 28,939 → 29,039, neueste Version v2.14.4 (30. Oktober 2026).
 - **29. Oktober 2026:** Sterne 28,795 → 28,939, neueste Version v2.14.3 (29. Oktober 2026).
 - **27. Oktober 2026:** Sterne 28,584 → 28,795, neueste Version v2.14.2 (26. Oktober 2026).
-- **23. Oktober 2026:** Sterne 28,525 → 28,584, neueste Version v2.14.1 (23. Oktober 2026).
 
 ## Was es bringt
 

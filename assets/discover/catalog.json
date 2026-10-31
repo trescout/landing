@@ -9691,7 +9691,7 @@
     "slug": "agent-skills",
     "title": "Agent Skills",
     "tagline": "Yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, üretim seviyesinde mühendislik yetenekleri (engineering skills)…",
-    "meta": "★ 111.505 · Shell",
+    "meta": "★ 112.056 · Shell",
     "image": "/assets/discover/og/agent-skills.webp",
     "source": "GitHub",
     "date": "2026-06-10",
@@ -9699,7 +9699,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 111505,
+    "stars": 112056,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına mühendislik yeteneği kazandırın",
     "last_review": "2026-10-31",
@@ -9787,6 +9787,13 @@
         "onceki_yildiz": 106401,
         "surum": "0.6.14",
         "surum_tarihi": "2026-10-29"
+      },
+      {
+        "tarih": "2026-10-31",
+        "yildiz": 112056,
+        "onceki_yildiz": 111505,
+        "surum": "0.6.15",
+        "surum_tarihi": "2026-10-31"
       }
     ],
     "tagline_en": "Developed for artificial intelligence coding agents, this library provides production-level engineering skills…",
@@ -21913,6 +21920,13 @@
         "onceki_yildiz": 28939,
         "surum": "v2.14.4",
         "surum_tarihi": "2026-10-30"
+      },
+      {
+        "tarih": "2026-10-31",
+        "yildiz": 29039,
+        "onceki_yildiz": 29039,
+        "surum": "v2.14.5",
+        "surum_tarihi": "2026-10-31"
       }
     ],
     "tagline_en": "This library, developed for Claude Code and various coding agents, is used in different fields from engineering to marketing.",
@@ -31576,14 +31590,14 @@
     "slug": "geolibre",
     "title": "GeoLibre",
     "tagline": "GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi…",
-    "meta": "★ 8.219 · TypeScript",
+    "meta": "★ 8.317 · TypeScript",
     "image": "/assets/discover/og/geolibre.webp",
     "source": "GitHub",
     "date": "2026-07-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 8219,
+    "stars": 8317,
     "lite": false,
     "headline": "Bulut tabanlı açık kaynaklı haritalama",
     "last_review": "2026-10-31",
@@ -31685,6 +31699,13 @@
         "onceki_yildiz": 8148,
         "surum": "v3.5.2",
         "surum_tarihi": "2026-10-28"
+      },
+      {
+        "tarih": "2026-10-31",
+        "yildiz": 8317,
+        "onceki_yildiz": 8219,
+        "surum": "v3.6.0",
+        "surum_tarihi": "2026-10-31"
       }
     ],
     "tagline_en": "GeoLibre is a lightweight, cloud-based geospatial information application designed to visualize, explore and analyze geographic data.",
@@ -41209,14 +41230,14 @@
     "slug": "ruflo",
     "title": "Ruflo",
     "tagline": "Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.",
-    "meta": "★ 80.329 · TypeScript",
+    "meta": "★ 80.339 · TypeScript",
     "image": "/assets/discover/og/ruflo.webp",
     "source": "GitHub",
     "date": "2026-08-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 80329,
+    "stars": 80339,
     "lite": false,
     "headline": "Yapay zekâ ajanları için orkestrasyon katmanı",
     "last_review": "2026-10-31",
@@ -41521,6 +41542,13 @@
         "onceki_yildiz": 80172,
         "surum": "v3.65.1",
         "surum_tarihi": "2026-10-30"
+      },
+      {
+        "tarih": "2026-10-31",
+        "yildiz": 80339,
+        "onceki_yildiz": 80329,
+        "surum": "v3.66.0",
+        "surum_tarihi": "2026-10-31"
       }
     ],
     "tagline_en": "Ruflo is an agent orchestration layer for deploying intelligent agent swarms, coordinating autonomous workflows, and building conversational AI systems.",
@@ -55941,7 +55969,7 @@
     "slug": "claude-seo",
     "title": "Claude Seo",
     "tagline": "AgriciDaniel/claude-seo, Claude Code için geliştirilmiş, teknik arama motoru optimizasyonu (SEO) süreçlerini otomatikleştiren…",
-    "meta": "★ 23.491 · Python",
+    "meta": "★ 24.674 · Python",
     "image": "/assets/discover/og/claude-seo.webp",
     "source": "GitHub",
     "date": "2026-10-26",
@@ -55949,7 +55977,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 23491,
+    "stars": 24674,
     "last_seen": "2026-10-26",
     "summary": "AgriciDaniel/claude-seo, Claude Code için geliştirilmiş, teknik arama motoru optimizasyonu (SEO) süreçlerini otomatikleştiren kapsamlı bir yetenek setidir. Proje, arama motoru görünürlüğünü artırmak amacıyla 26 alt yetenek ve 19 alt ajan ile Google API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) entegrasyonları sunar.",
     "lite": false,
@@ -55974,6 +56002,13 @@
         "tarih": "2026-10-29",
         "yildiz": 23491,
         "onceki_yildiz": 22364,
+        "surum": "v2.5.0",
+        "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-10-31",
+        "yildiz": 24674,
+        "onceki_yildiz": 23491,
         "surum": "v2.5.0",
         "surum_tarihi": "2026-10-22"
       }
@@ -56108,7 +56143,7 @@
     "slug": "openmausbot",
     "title": "OpenMausBot",
     "tagline": "OpenMausBot, sohbet uygulamaları içerisinde kendi yapay zekâ bot ekibinizi oluşturmanıza olanak tanıyan açık kaynaklı (open…",
-    "meta": "★ 8.863 · TypeScript",
+    "meta": "★ 9.012 · TypeScript",
     "image": "/assets/discover/og/openmausbot.webp",
     "source": "GitHub",
     "date": "2026-10-30",
@@ -56116,7 +56151,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8863,
+    "stars": 9012,
     "last_seen": "2026-10-31",
     "summary": "OpenMausBot, sohbet uygulamaları içerisinde kendi yapay zekâ bot ekibinizi oluşturmanıza olanak tanıyan açık kaynaklı (open source) bir Grok Bot alternatifidir. Yazılım, botların kullanabileceği sanal bir makine desteğiyle birlikte gelir.",
     "lite": false,
@@ -56136,6 +56171,13 @@
         "onceki_yildiz": 7628,
         "surum": "v0.1.134",
         "surum_tarihi": "2026-10-30"
+      },
+      {
+        "tarih": "2026-10-31",
+        "yildiz": 9012,
+        "onceki_yildiz": 8863,
+        "surum": "v0.1.135",
+        "surum_tarihi": "2026-10-31"
       }
     ],
     "tagline_en": "OpenMausBot is an open-source (open… tool that allows you to create your own AI bot team within chat applications.",

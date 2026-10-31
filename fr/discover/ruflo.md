@@ -2,16 +2,16 @@
 
 Ruflo est une couche d'orchestration d'agents permettant de déployer des essaims d'agents intelligents, de coordonner des flux de travail autonomes et de créer des systèmes d'IA conversationnelle.
 
-- ★ 80 329
+- ★ 80 339
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Mises à jour
 
+- **31 octobre 2026:** Étoiles 80,329 → 80,339, dernière version v3.66.0 (31 octobre 2026).
 - **31 octobre 2026:** Étoiles 80,172 → 80,329, dernière version v3.65.1 (30 octobre 2026).
 - **30 octobre 2026:** Étoiles 80,010 → 80,172, dernière version v3.65.0 (30 octobre 2026).
 - **29 octobre 2026:** Étoiles 79,848 → 80,010, dernière version v3.63.8 (28 octobre 2026).
-- **28 octobre 2026:** Étoiles 79,632 → 79,848, dernière version v3.63.6 (27 octobre 2026).
 
 ## Ce que ça vous apporte
 

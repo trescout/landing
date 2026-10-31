@@ -8,10 +8,10 @@ Desenvolvida para Claude Code e diversos agentes de codificação, esta bibliote
 
 ## Atualizações
 
+- **31 de outubro de 2026:** Estrelas 29,039 → 29,039, versão mais recente v2.14.5 (31 de outubro de 2026).
 - **31 de outubro de 2026:** Estrelas 28,939 → 29,039, versão mais recente v2.14.4 (30 de outubro de 2026).
 - **29 de outubro de 2026:** Estrelas 28,795 → 28,939, versão mais recente v2.14.3 (29 de outubro de 2026).
 - **27 de outubro de 2026:** Estrelas 28,584 → 28,795, versão mais recente v2.14.2 (26 de outubro de 2026).
-- **23 de outubro de 2026:** Estrelas 28,525 → 28,584, versão mais recente v2.14.1 (23 de outubro de 2026).
 
 ## O que você ganha
 

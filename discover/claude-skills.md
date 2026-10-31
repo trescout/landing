@@ -8,10 +8,10 @@ Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, m
 
 ## Güncelleme
 
+- **31 Ekim 2026:** Yıldız 29.039 → 29.039, son sürüm v2.14.5 (31 Ekim 2026).
 - **31 Ekim 2026:** Yıldız 28.939 → 29.039, son sürüm v2.14.4 (30 Ekim 2026).
 - **29 Ekim 2026:** Yıldız 28.795 → 28.939, son sürüm v2.14.3 (29 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 28.584 → 28.795, son sürüm v2.14.2 (26 Ekim 2026).
-- **23 Ekim 2026:** Yıldız 28.525 → 28.584, son sürüm v2.14.1 (23 Ekim 2026).
 
 ## Ne kazandırır?
 

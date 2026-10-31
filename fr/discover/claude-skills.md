@@ -8,10 +8,10 @@ Développée pour Claude Code et divers agents de codage, cette bibliothèque pr
 
 ## Mises à jour
 
+- **31 octobre 2026:** Étoiles 29,039 → 29,039, dernière version v2.14.5 (31 octobre 2026).
 - **31 octobre 2026:** Étoiles 28,939 → 29,039, dernière version v2.14.4 (30 octobre 2026).
 - **29 octobre 2026:** Étoiles 28,795 → 28,939, dernière version v2.14.3 (29 octobre 2026).
 - **27 octobre 2026:** Étoiles 28,584 → 28,795, dernière version v2.14.2 (26 octobre 2026).
-- **23 octobre 2026:** Étoiles 28,525 → 28,584, dernière version v2.14.1 (23 octobre 2026).
 
 ## Ce que ça vous apporte
 

@@ -2,12 +2,13 @@
 
 OpenMausBot es una alternativa de código abierto a Grok Bot que te permite crear tu propio equipo de bots de inteligencia artificial dentro de aplicaciones de chat. El software incluye compatibilidad con una máquina virtual que los bots pueden utilizar.
 
-- ★ 8.863
+- ★ 9.012
 - TypeScript
 - GitHub Trending · 2026-10-30
 
 ## Actualizaciones
 
+- **31 de octubre de 2026:** Estrellas 8,863 → 9,012, última versión v0.1.135 (31 de octubre de 2026).
 - **31 de octubre de 2026:** Estrellas 7,628 → 8,863, última versión v0.1.134 (30 de octubre de 2026).
 - **30 de octubre de 2026:** Estrellas 7,621 → 7,628, última versión v0.1.134 (30 de octubre de 2026).
 
