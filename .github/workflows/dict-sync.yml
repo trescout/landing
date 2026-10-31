@@ -117,6 +117,11 @@ jobs:
       # çeviriler yayın girdisine dönüşmeden kanonik kaldırma listesiyle temizle.
       - name: Geri yüklenen önbellekten kaldırılan içerikleri temizle
         run: python3 scripts/kaldirilan.py --uygula
+      # Okura resmî hitap (es usted, fr vous, de Sie, pt você): resmî Türkçe kaynağı
+      # samimi hitapla çeviren eski kayıtlar silinir, bu koşuda yeniden çevrilir.
+      # Actions önbelleği birleştirildikten SONRA koşmalı (bkz. check-hitap.py).
+      - name: Hitabı tutmayan eski çevirileri temizle
+        run: python3 scripts/check-hitap.py --temizle
 
       # Generator syntax hatası varsa API/LLM çağrıları ve içerik yazımı başlamadan
       # önce fail etsin. Özellikle üretilen Python stringlerinde yarım kalmış
