@@ -2,16 +2,16 @@
 
 The video-use library allows coding agents to automate video editing processes. This Python-based tool speeds up workflows by performing visual editing tasks through software commands.
 
-- ★ 28,728
+- ★ 30,202
 - Python
 - GitHub Trending · 2026-06-29
 
 ## Updates
 
+- **October 31, 2026:** Stars 28,728 → 30,202.
 - **October 12, 2026:** Stars 27,331 → 28,728.
 - **September 27, 2026:** Stars 24,903 → 27,331.
 - **September 15, 2026:** Stars 23,697 → 24,903.
-- **September 3, 2026:** Stars 22,245 → 23,697.
 
 ## What you get
 

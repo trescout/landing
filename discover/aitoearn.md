@@ -2,12 +2,13 @@
 
 AiToEarn, kullanıcıların yapay zekâ destekli otomasyonlar aracılığıyla gelir elde etme süreçlerini yönetmelerini sağlayan bir TypeScript tabanlı platformdur. Proje, otonom görev yürütme ve yapay zekâ tabanlı kazanç modellerini (AI-driven earning models) bir araya getirerek geliştiricilere açık bir altyapı sunuyor.
 
-- ★ 25.780
+- ★ 27.095
 - TypeScript
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
 
+- **31 Ekim 2026:** Yıldız 25.780 → 27.095, son sürüm v2.5.0 (24 Haziran 2026).
 - **8 Eylül 2026:** Yıldız 24.551 → 25.780, son sürüm v2.5.0 (24 Haziran 2026).
 - **2 Ağustos 2026:** Yıldız 19.145 → 24.551, son sürüm v2.5.0 (24 Haziran 2026).
 

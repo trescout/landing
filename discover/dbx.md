@@ -2,16 +2,16 @@
 
 Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.
 
-- ★ 28.094
+- ★ 28.272
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Güncelleme
 
+- **31 Ekim 2026:** Yıldız 28.094 → 28.272, son sürüm v0.6.62 (30 Ekim 2026).
 - **29 Ekim 2026:** Yıldız 27.885 → 28.094, son sürüm v0.6.61 (29 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 27.769 → 27.885, son sürüm v0.6.58 (27 Ekim 2026).
 - **26 Ekim 2026:** Yıldız 27.698 → 27.769, son sürüm v0.6.55 (25 Ekim 2026).
-- **25 Ekim 2026:** Yıldız 27.655 → 27.698, son sürüm v0.6.54 (24 Ekim 2026).
 
 ## Ne kazandırır?
 

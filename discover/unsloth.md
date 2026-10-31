@@ -2,16 +2,16 @@
 
 Unsloth, büyük dil modelleri (LLM) ve görsel oluşturma modelleri (diffusion models) için yerel ortamda eğitim ve çalıştırma süreçlerini hızlandıran bir kütüphanedir. Bellek kullanımını optimize ederek popüler modellerin ince ayar (fine-tuning) süreçlerini daha erişilebilir hale getirir.
 
-- ★ 78.731
+- ★ 78.834
 - Python
 - GitHub Trending · 2026-08-14
 
 ## Güncelleme
 
+- **31 Ekim 2026:** Yıldız 78.731 → 78.834, son sürüm v0.1.913-beta (30 Ekim 2026).
 - **29 Ekim 2026:** Yıldız 78.616 → 78.731, son sürüm v0.1.912-beta (28 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 78.491 → 78.616, son sürüm v0.1.911-beta (26 Ekim 2026).
 - **24 Ekim 2026:** Yıldız 78.300 → 78.491, son sürüm v0.1.910-beta (23 Ekim 2026).
-- **20 Ekim 2026:** Yıldız 78.100 → 78.300, son sürüm v0.1.909-beta (19 Ekim 2026).
 
 ## Ne kazandırır?
 

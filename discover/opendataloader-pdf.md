@@ -2,16 +2,16 @@
 
 OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser). Java tabanlı bu proje, PDF belgelerinin erişilebilirliğini otomatikleştirerek veri işleme süreçlerini hızlandırır.
 
-- ★ 30.057
+- ★ 30.129
 - Java
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
 
+- **31 Ekim 2026:** Yıldız 30.057 → 30.129, son sürüm v2.5.17 (30 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 29.817 → 30.057, son sürüm v2.5.16 (27 Ekim 2026).
 - **22 Ekim 2026:** Yıldız 29.752 → 29.817, son sürüm v2.5.15 (22 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 29.669 → 29.752, son sürüm v2.5.14 (21 Ekim 2026).
-- **13 Ekim 2026:** Yıldız 29.447 → 29.669, son sürüm v2.5.13 (13 Ekim 2026).
 
 ## Ne kazandırır?
 

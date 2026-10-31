@@ -2,12 +2,13 @@
 
 Claude Code, yapay zekâ destekli geliştirme süreçlerini hızlandırmak için tasarlanmış ajanlar, komutlar ve kancalar (hooks) içeren bir araç takımıdır. Yazılım geliştirme iş akışlarını otomatikleştirmek için gerekli olan tüm bileşenleri tek bir çatı altında toplar.
 
-- ★ 4.644
+- ★ 5.654
 - JavaScript
 - GitHub Trending · 2026-09-06
 
 ## Güncelleme
 
+- **31 Ekim 2026:** Yıldız 4.644 → 5.654.
 - **14 Ekim 2026:** Yıldız 3.630 → 4.644.
 - **27 Eylül 2026:** Yıldız 2.453 → 3.630.
 

@@ -2,16 +2,16 @@
 
 Dieses Open-Source-Buch über Agenten der künstlichen Intelligenz (KI-Agenten) behandelt umfassend Designprinzipien und technische Anwendungen. Neben theoretischen Informationen enthält es in Abschnitte unterteilte Anwendungscodes und zusammengestellte PDF-Dateien.
 
-- ★ 53.984
+- ★ 56.706
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Aktualisierungen
 
+- **31. Oktober 2026:** Sterne 53,984 → 56,706.
 - **13. Oktober 2026:** Sterne 51,180 → 53,984.
 - **27. September 2026:** Sterne 47,379 → 51,180.
 - **15. September 2026:** Sterne 44,884 → 47,379.
-- **6. September 2026:** Sterne 42,709 → 44,884.
 
 ## Was es bringt
 

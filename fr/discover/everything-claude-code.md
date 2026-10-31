@@ -2,12 +2,13 @@
 
 Claude Code est une boîte à outils contenant des agents, des commandes et des hooks conçus pour accélérer les processus de développement assistés par l'intelligence artificielle. Il rassemble sous un même toit tous les composants nécessaires à l'automatisation des flux de travail de développement logiciel.
 
-- ★ 4 644
+- ★ 5 654
 - JavaScript
 - GitHub Trending · 2026-09-06
 
 ## Mises à jour
 
+- **31 octobre 2026:** Étoiles 4,644 → 5,654.
 - **14 octobre 2026:** Étoiles 3,630 → 4,644.
 - **27 septembre 2026:** Étoiles 2,453 → 3,630.
 

@@ -2,16 +2,16 @@
 
 El fondo de cobertura de IA utiliza agentes autónomos para automatizar los procesos de análisis del mercado financiero y gestión de activos. Este proyecto basado en Python ofrece un modelo de equipo de inteligencia artificial que desarrolla estrategias de inversión procesando datos de mercado.
 
-- ★ 64.308
+- ★ 64.376
 - Python
 - GitHub Trending · 2026-07-13
 
 ## Actualizaciones
 
+- **31 de octubre de 2026:** Estrellas 64,308 → 64,376, última versión v2.6.3 (30 de octubre de 2026).
 - **28 de octubre de 2026:** Estrellas 64,231 → 64,308, última versión v2.6.2 (27 de octubre de 2026).
 - **25 de octubre de 2026:** Estrellas 64,107 → 64,231, última versión v2.6.1 (24 de octubre de 2026).
 - **20 de octubre de 2026:** Estrellas 63,836 → 64,107, última versión v2.6.0 (19 de octubre de 2026).
-- **3 de octubre de 2026:** Estrellas 63,763 → 63,836, última versión v2.5.0 (2 de octubre de 2026).
 
 ## Qué aporta
 

@@ -26,6 +26,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Cloud Computing](https://trescout.com/dictionary/cloud-computing/)
+- [SRE](https://trescout.com/dictionary/sre/)
 - [CI/CD](https://trescout.com/dictionary/ci-cd/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

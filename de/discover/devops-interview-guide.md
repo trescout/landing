@@ -18,6 +18,7 @@ Dieses Handbuch ist eine Informationsquelle und kein Softwaretool. Sie können d
 ## Verwandte Begriffe aus dem Glossar
 
 - [Cloud Computing](https://trescout.com/de/dictionary/cloud-computing/)
+- [SRE](https://trescout.com/de/dictionary/sre/)
 - [CI/CD](https://trescout.com/de/dictionary/ci-cd/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

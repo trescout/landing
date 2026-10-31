@@ -2,11 +2,12 @@
 
 O Treg é uma camada de roteamento que permite gerenciar ferramentas desenvolvidas para agentes de IA (agent tools) por meio de uma única interface. Ao estabelecer uma ponte padrão entre diferentes modelos de linguagem e ferramentas, ele permite que os desenvolvedores integrem facilmente fluxos de trabalho baseados em agentes através do OpenRouter.
 
-- ★ 5.646
+- ★ 6.720
 - GitHub Trending · 2026-09-23
 
 ## Atualizações
 
+- **31 de outubro de 2026:** Estrelas 5,646 → 6,720.
 - **17 de outubro de 2026:** Estrelas 4,625 → 5,646.
 - **7 de outubro de 2026:** Estrelas 3,272 → 4,625.
 

@@ -2,12 +2,13 @@
 
 AiToEarn est une plate-forme basée sur TypeScript qui permet aux utilisateurs de gérer leurs processus de monétisation grâce à des automatisations basées sur l'IA. Le projet offre une infrastructure ouverte aux développeurs en combinant l'exécution de tâches autonomes et des modèles de revenus basés sur l'intelligence artificielle.
 
-- ★ 25 780
+- ★ 27 095
 - TypeScript
 - GitHub Trending · 2026-06-08
 
 ## Mises à jour
 
+- **31 octobre 2026:** Étoiles 25,780 → 27,095, dernière version v2.5.0 (24 juin 2026).
 - **8 septembre 2026:** Étoiles 24,551 → 25,780, dernière version v2.5.0 (24 juin 2026).
 - **2 août 2026:** Étoiles 19,145 → 24,551, dernière version v2.5.0 (24 juin 2026).
 

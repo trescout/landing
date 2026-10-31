@@ -2,16 +2,16 @@
 
 Cindy é um agente de IA de código aberto pronto para uso, projetado para realizar tarefas reais em seus projetos e aplicativos. Ele permite que os usuários gerenciem seus fluxos de trabalho combinando vários modelos e ferramentas em uma única estrutura.
 
-- ★ 8.613
+- ★ 8.732
 - TypeScript
 - GitHub Trending · 2026-10-25
 
 ## Atualizações
 
+- **31 de outubro de 2026:** Estrelas 8,613 → 8,732, versão mais recente v0.1.121 (30 de outubro de 2026).
 - **30 de outubro de 2026:** Estrelas 8,252 → 8,613, versão mais recente v0.1.120 (29 de outubro de 2026).
 - **29 de outubro de 2026:** Estrelas 6,944 → 8,252, versão mais recente v0.1.119 (28 de outubro de 2026).
 - **27 de outubro de 2026:** Estrelas 5,414 → 6,944, versão mais recente v0.1.115 (23 de outubro de 2026).
-- **26 de outubro de 2026:** Estrelas 4,207 → 5,414, versão mais recente v0.1.115 (23 de outubro de 2026).
 
 ## O que você ganha
 

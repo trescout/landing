@@ -18,6 +18,7 @@ Esta guía es una fuente de información, no una herramienta de software. Puede 
 ## Términos relacionados del glosario
 
 - [Cloud Computing](https://trescout.com/es/dictionary/cloud-computing/)
+- [SRE](https://trescout.com/es/dictionary/sre/)
 - [CI/CD](https://trescout.com/es/dictionary/ci-cd/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

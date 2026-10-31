@@ -2,13 +2,14 @@
 
 Win11Debloat ist ein PowerShell-Skript, das das Entfernen vorinstallierter Apps und das Deaktivieren von Telemetriedaten auf den Betriebssystemen Windows 10 und 11 ermöglicht. Es ermöglicht Benutzern, ihre Systeme anzupassen und eine Systemdeblotation durchzuführen, indem unnötige Komponenten entfernt werden.
 
-- ★ 59.184
+- ★ 61.323
 - GitHub Trending · 2026-06-16
 
 **Hinweis von TreScout:** Es entfernt unerwünschte Anwendungen, die mit Windows geliefert werden, und deaktiviert Einstellungen, die Daten im Hintergrund sammeln. Lesen Sie, was es bewirkt, bevor Sie es ausführen: Es ist nicht einfach, einige entfernte Teile wiederherzustellen. Verwenden Sie es nicht auf einem Privatcomputer, einem Firmengerät oder einem Computer, den Sie mit jemand anderem teilen.
 
 ## Aktualisierungen
 
+- **31. Oktober 2026:** Sterne 59,184 → 61,323, neueste Version 2026.10.30 (31. Oktober 2026).
 - **13. Oktober 2026:** Sterne 56,315 → 59,184, neueste Version 2026.08.24 (24. August 2026).
 - **27. August 2026:** Sterne 54,506 → 56,315, neueste Version 2026.08.24 (24. August 2026).
 - **2. August 2026:** Sterne 48,210 → 54,506, neueste Version 2026.07.11 (11. Juli 2026).

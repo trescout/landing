@@ -2,16 +2,16 @@
 
 RAGFlow is an open source fetch-based generation (RAG) engine that creates a context layer for large language models (LLM). It aims to improve data processing and accuracy of responses by combining advanced RAG techniques with agent capabilities.
 
-- ★ 92,317
+- ★ 93,228
 - Go
 - GitHub Trending · 2026-08-13
 
 ## Updates
 
+- **October 31, 2026:** Stars 92,317 → 93,228, latest release v1.0.0-rc3 (October 30, 2026).
 - **October 16, 2026:** Stars 91,477 → 92,317, latest release v1.0.0-rc2 (October 16, 2026).
 - **September 29, 2026:** Stars 90,512 → 91,477, latest release v1.0.0-rc1 (September 29, 2026).
 - **September 11, 2026:** Stars 89,753 → 90,512, latest release v0.27.2 (September 10, 2026).
-- **August 31, 2026:** Stars 88,819 → 89,753, latest release v0.27.1 (August 28, 2026).
 
 ## What you get
 
