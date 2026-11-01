@@ -1,0 +1,394 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-01",
+  "capturedAt": "2026-11-01T09:45:19.069Z",
+  "editorial": "Content included in the report will not be repeated for 30 days. At the end of this period, records that remain on the agenda will be listed again with the \"back on the agenda\" label.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Orkas-AI/Orkas",
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "summary": "Orkas is an open-source AI team that runs on desktop computers and converts goals into task lists. Coordinating sixteen built-in expert agents and various coding models, this application offers a local-first workspace on macOS and Windows.",
+          "meta": "JavaScript · ★ 7,036 · +1,044 today",
+          "snapshot": {
+            "sourceId": "Orkas-AI/Orkas",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 7036,
+              "engagementCount": 1044,
+              "rank": 11,
+              "extra": {
+                "starsToday": 1044
+              }
+            },
+            "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys."
+          }
+        },
+        {
+          "title": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "summary": "OpenMAIC is an open-source artificial intelligence platform that transforms any topic or document into an interactive classroom environment. It brings students together with AI teachers that prepare presentations, quizzes, and simulations using multi-agent orchestration technology.",
+          "meta": "TypeScript · ★ 42,327 · +116 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "THU-MAIC/OpenMAIC",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 42327,
+              "engagementCount": 116,
+              "rank": 12,
+              "extra": {
+                "starsToday": 116,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click. OpenMAIC (Open Multi-Agent Interactive Classroom) is an open-source AI platform that turns any topic or document into a rich, interactive classroom experience. Powered by multi-agent orchestration, it generates slides, quizzes, interactive simulations, and project-based learning activities — all delivered by AI teachers and AI classmates who can speak, draw on a whiteboard, and engage in…"
+          }
+        },
+        {
+          "title": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "summary": "devops-exercises is a resource repository containing DevOps interview questions covering a wide range of topics from Linux to cloud platforms and container technologies. It aims to support candidates in their preparation process with technical questions regarding industry-standard tools (such as Jenkins, Docker, Kubernetes, and Terraform).",
+          "meta": "Python · ★ 86,213 · +342 today",
+          "snapshot": {
+            "sourceId": "bregman-arie/devops-exercises",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 86213,
+              "engagementCount": 342,
+              "rank": 13,
+              "extra": {
+                "starsToday": 342
+              }
+            },
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+          }
+        },
+        {
+          "title": "vorssaint/vorssaint-utils",
+          "url": "https://github.com/vorssaint/vorssaint-utils",
+          "summary": "Vorssaint-utils is an open-source menu bar toolkit developed for the macOS operating system. It combines many different functions such as application-based audio control, system monitoring, window management, and clipboard history into a single interface.",
+          "meta": "Swift · ★ 32,143 · +501 today",
+          "snapshot": {
+            "sourceId": "vorssaint/vorssaint-utils",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 32143,
+              "engagementCount": 501,
+              "rank": 14,
+              "extra": {
+                "starsToday": 501,
+                "baglam": "readme"
+              }
+            },
+            "description": "Free and open-source macOS menu bar toolkit. Per app volume, a real system monitor, a better app switcher, window snapping, Dock previews, clipboard history, text snippets, a file shelf, an uninstaller. The utilities Mac users usually buy one by one, together behind a single menu bar icon, with no account, no telemetry and no subscription."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "HackerTube: YouTube built from videos recommended by HN",
+          "url": "https://karpathy.bearblog.dev/hacker-tube/",
+          "summary": "HackerTube presents thousands of videos shared in Hacker News comments since 2007 through a YouTube-like interface. The platform aggregates 6,454 videos that stand out in technology-focused discussions in a single hub.",
+          "meta": "1,283 points · 362 comments",
+          "snapshot": {
+            "sourceId": "50319510",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 1283,
+              "engagementCount": 362,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50319510",
+                  "popularity": 1283,
+                  "engagementCount": 362
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-31T19:56:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50319510"
+              }
+            },
+            "description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https:&#x2F;&#x2F;hackertube.org&#x2F;"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50319510",
+              "popularity": 1283,
+              "engagementCount": 362
+            }
+          ]
+        },
+        {
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "summary": "The security vulnerability coded CVE-2026-98432, detected in the Linux kernel's IPv4 TCP protocol stack, is rated as critical with a 9.8 CVSS score due to a use-after-free error. This vulnerability creates a flaw that could lead to unauthorized access or service disruption on the system.",
+          "meta": "501 points · 231 comments",
+          "snapshot": {
+            "sourceId": "50319143",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 501,
+              "engagementCount": 231,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50319143",
+                  "popularity": 501,
+                  "engagementCount": 231
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-31T19:16:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50319143"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50319143",
+              "popularity": 501,
+              "engagementCount": 231
+            }
+          ]
+        },
+        {
+          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+          "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+          "summary": "Claudio Grossi, an Italian farmer, obtained an ancient grain variety from seeds he found and planted in his attic. This plant, which draws attention with its seven-eared stalk, is considered a discovery that could offer solutions to modern agricultural problems.",
+          "meta": "426 points · 121 comments",
+          "snapshot": {
+            "sourceId": "50320963",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 426,
+              "engagementCount": 121,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50320963",
+                  "popularity": 426,
+                  "engagementCount": 121
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-31T22:41:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50320963",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an ancient grain that proved to be an answer to some modern problems"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50320963",
+              "popularity": 426,
+              "engagementCount": 121
+            }
+          ]
+        },
+        {
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "summary": "Anthropic is blocking the accounts of users engaged in activities aimed at training larger models. The company's usage policies include restrictions regarding the processes of training or developing artificial intelligence models.",
+          "meta": "344 points · 201 comments",
+          "snapshot": {
+            "sourceId": "50319358",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 344,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50319358",
+                  "popularity": 344,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-31T19:39:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50319358"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50319358",
+              "popularity": 344,
+              "engagementCount": 201
+            }
+          ]
+        },
+        {
+          "title": "Do the math: How we took over ChatGPT accounts",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "summary": "Parameter.ai researchers have developed a method that bypasses ChatGPT's sandbox and content security policies to take over user accounts. This method provides account access via a special link sent to target users.",
+          "meta": "330 points · 164 comments",
+          "snapshot": {
+            "sourceId": "50314699",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 330,
+              "engagementCount": 164,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50314699",
+                  "popularity": 330,
+                  "engagementCount": 164
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-31T10:30:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50314699",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "By bypassing ChatGPT's sandbox and content security policy, our research team was able to take over anyone's account simply by sending them a link."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50314699",
+              "popularity": 330,
+              "engagementCount": 164
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "mistralai/Mistral-Large-4-1T-A52B",
+          "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+          "summary": "The mistralai/Mistral-Large-4-1T-A52B released on Hugging Face is a multimodal artificial intelligence model capable of processing visual and text inputs. This Mixture-of-Experts architecture, which has one trillion parameters, was trained exclusively in Mistral's data centers in Europe.",
+          "meta": "♥ 1,414 · 4,576 downloads",
+          "snapshot": {
+            "sourceId": "mistralai/Mistral-Large-4-1T-A52B",
+            "capturedAt": "2026-11-01T09:45:19.213Z",
+            "metadata": {
+              "popularity": 1414,
+              "engagementCount": 4576,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 455,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "mistral_large4",
+                  "image-text-to-text",
+                  "vLLM",
+                  "SGLang",
+                  "llama.cpp",
+                  "conversational",
+                  "en",
+                  "fr",
+                  "de",
+                  "es",
+                  "pt",
+                  "it",
+                  "ja",
+                  "ko",
+                  "ru",
+                  "zh",
+                  "ar",
+                  "fa",
+                  "id",
+                  "ms",
+                  "ne",
+                  "pl",
+                  "ro",
+                  "sr",
+                  "sv",
+                  "tr",
+                  "uk",
+                  "vi",
+                  "hi",
+                  "bn",
+                  "bg",
+                  "hr",
+                  "cs",
+                  "da",
+                  "nl",
+                  "et",
+                  "fi",
+                  "el",
+                  "hu",
+                  "ga",
+                  "lv",
+                  "lt",
+                  "mt",
+                  "sk",
+                  "sl",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token (52 billion including embeddings and output layers), trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own datacenters in Europe."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "It is a type of software whose source code is open for everyone to access and improve."
+    },
+    {
+      "term": "local-first",
+      "explanation": "It is an approach that prioritizes storing and processing data directly on the user's own device without the need for the internet."
+    },
+    {
+      "term": "multi-agent orchestration",
+      "explanation": "It is a management process that enables multiple artificial intelligence agents to work in harmony towards a common goal."
+    },
+    {
+      "term": "use-after-free",
+      "explanation": "It is a security vulnerability that occurs when a program attempts to use a memory area after it has been freed."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "It is a restricted area that allows software to be run in a safe and isolated environment without harming the main system."
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-01",
+  "capturedAt": "2026-11-01T09:45:19.069Z",
+  "editorial": "Rapora dahil edilen içerikler 30 gün boyunca tekrarlanmaz. Bu sürenin sonunda gündemde kalmaya devam eden kayıtlar, \"yeniden gündemde\" etiketiyle tekrar listelenir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Orkas-AI/Orkas",
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "summary": "Orkas, masaüstü bilgisayarlarda çalışan ve hedefleri görev listelerine dönüştüren açık kaynaklı bir yapay zekâ takımıdır. On altı yerleşik uzman ajanı ve çeşitli kodlama modellerini koordine eden bu uygulama, macOS ve Windows üzerinde yerel öncelikli (local-first) bir çalışma alanı sunar.",
+          "meta": "JavaScript · ★ 7.036 · +1.044 bugün",
+          "snapshot": {
+            "sourceId": "Orkas-AI/Orkas",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 7036,
+              "engagementCount": 1044,
+              "rank": 11,
+              "extra": {
+                "starsToday": 1044
+              }
+            },
+            "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys."
+          }
+        },
+        {
+          "title": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "summary": "OpenMAIC, herhangi bir konuyu veya belgeyi etkileşimli bir sınıf ortamına dönüştüren açık kaynak kodlu bir yapay zekâ platformudur. Çoklu ajan düzenleme (multi-agent orchestration) teknolojisini kullanarak sunumlar, sınavlar ve simülasyonlar hazırlayan yapay zekâ öğretmenleri ile öğrencileri bir araya getirir.",
+          "meta": "TypeScript · ★ 42.327 · +116 bugün",
+          "snapshot": {
+            "sourceId": "THU-MAIC/OpenMAIC",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 42327,
+              "engagementCount": 116,
+              "rank": 12,
+              "extra": {
+                "starsToday": 116,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click. OpenMAIC (Open Multi-Agent Interactive Classroom) is an open-source AI platform that turns any topic or document into a rich, interactive classroom experience. Powered by multi-agent orchestration, it generates slides, quizzes, interactive simulations, and project-based learning activities — all delivered by AI teachers and AI classmates who can speak, draw on a whiteboard, and engage in…"
+          },
+          "returning": true
+        },
+        {
+          "title": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "summary": "devops-exercises, Linux'tan bulut platformlarına ve konteyner teknolojilerine kadar geniş bir yelpazede DevOps mülakat soruları içeren bir kaynak deposudur. Sektörde kullanılan araçlara (Jenkins, Docker, Kubernetes, Terraform gibi) yönelik teknik sorularla adayların hazırlık sürecine destek olmayı hedefler.",
+          "meta": "Python · ★ 86.213 · +342 bugün",
+          "snapshot": {
+            "sourceId": "bregman-arie/devops-exercises",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 86213,
+              "engagementCount": 342,
+              "rank": 13,
+              "extra": {
+                "starsToday": 342
+              }
+            },
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+          }
+        },
+        {
+          "title": "vorssaint/vorssaint-utils",
+          "url": "https://github.com/vorssaint/vorssaint-utils",
+          "summary": "Vorssaint-utils, macOS işletim sistemi için geliştirilmiş, açık kaynak kodlu (open source) bir menü çubuğu araç setidir. Uygulama bazlı ses denetimi, sistem izleme, pencere düzenleme ve pano geçmişi gibi birçok farklı işlevi tek bir arayüzde birleştirerek sunar.",
+          "meta": "Swift · ★ 32.143 · +501 bugün",
+          "snapshot": {
+            "sourceId": "vorssaint/vorssaint-utils",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 32143,
+              "engagementCount": 501,
+              "rank": 14,
+              "extra": {
+                "starsToday": 501,
+                "baglam": "readme"
+              }
+            },
+            "description": "Free and open-source macOS menu bar toolkit. Per app volume, a real system monitor, a better app switcher, window snapping, Dock previews, clipboard history, text snippets, a file shelf, an uninstaller. The utilities Mac users usually buy one by one, together behind a single menu bar icon, with no account, no telemetry and no subscription."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "HackerTube: YouTube built from videos recommended by HN",
+          "url": "https://karpathy.bearblog.dev/hacker-tube/",
+          "summary": "HackerTube, 2007 yılından bu yana Hacker News yorumlarında paylaşılan binlerce videoyu YouTube benzeri bir arayüzle sunuyor. Platform, teknoloji odaklı tartışmalarda öne çıkan 6.454 videoyu tek bir merkezde topluyor.",
+          "meta": "1.283 oy · 362 yorum",
+          "snapshot": {
+            "sourceId": "50319510",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 1283,
+              "engagementCount": 362,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50319510",
+                  "popularity": 1283,
+                  "engagementCount": 362
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-31T19:56:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50319510"
+              }
+            },
+            "description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https:&#x2F;&#x2F;hackertube.org&#x2F;"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50319510",
+              "popularity": 1283,
+              "engagementCount": 362
+            }
+          ]
+        },
+        {
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "summary": "Linux çekirdeğinin IPv4 TCP protokol yığınında tespit edilen CVE-2026-98432 kodlu güvenlik açığı, serbest bırakılmış belleğin tekrar kullanımı (use-after-free) hatası nedeniyle 9.8 CVSS puanıyla kritik seviyede değerlendiriliyor. Bu açık, sistem üzerinde yetkisiz erişim veya hizmet kesintisine yol açabilecek bir zafiyet oluşturuyor.",
+          "meta": "501 oy · 231 yorum",
+          "snapshot": {
+            "sourceId": "50319143",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 501,
+              "engagementCount": 231,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50319143",
+                  "popularity": 501,
+                  "engagementCount": 231
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-31T19:16:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50319143"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50319143",
+              "popularity": 501,
+              "engagementCount": 231
+            }
+          ]
+        },
+        {
+          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+          "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+          "summary": "İtalyan bir çiftçi olan Claudio Grossi, tavan arasında bulduğu ve ektiği tohumlardan antik bir tahıl türü elde etti. Yedi başaklı gövdesiyle dikkat çeken bu bitki, modern tarımsal sorunlara çözüm sunabilecek bir keşif olarak değerlendiriliyor.",
+          "meta": "426 oy · 121 yorum",
+          "snapshot": {
+            "sourceId": "50320963",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 426,
+              "engagementCount": 121,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50320963",
+                  "popularity": 426,
+                  "engagementCount": 121
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-31T22:41:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50320963",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an ancient grain that proved to be an answer to some modern problems"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50320963",
+              "popularity": 426,
+              "engagementCount": 121
+            }
+          ]
+        },
+        {
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "summary": "Anthropic, daha büyük modellerin eğitilmesine yönelik faaliyetlerde bulunan kullanıcıların hesaplarını engelliyor. Şirketin kullanım politikaları, yapay zekâ modellerinin eğitilmesi veya geliştirilmesi süreçlerine dair kısıtlamalar içeriyor.",
+          "meta": "344 oy · 201 yorum",
+          "snapshot": {
+            "sourceId": "50319358",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 344,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50319358",
+                  "popularity": 344,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-31T19:39:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50319358"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50319358",
+              "popularity": 344,
+              "engagementCount": 201
+            }
+          ]
+        },
+        {
+          "title": "Do the math: How we took over ChatGPT accounts",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "summary": "Parameter.ai araştırmacıları, ChatGPT'nin korumalı alan (sandbox) ve içerik güvenlik politikalarını aşarak kullanıcı hesaplarını ele geçiren bir yöntem geliştirdi. Bu yöntem, hedef kullanıcılara gönderilen özel bir bağlantı aracılığıyla hesap erişimi sağlıyor.",
+          "meta": "330 oy · 164 yorum",
+          "snapshot": {
+            "sourceId": "50314699",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 330,
+              "engagementCount": 164,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50314699",
+                  "popularity": 330,
+                  "engagementCount": 164
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-31T10:30:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50314699",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "By bypassing ChatGPT's sandbox and content security policy, our research team was able to take over anyone's account simply by sending them a link."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50314699",
+              "popularity": 330,
+              "engagementCount": 164
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "mistralai/Mistral-Large-4-1T-A52B",
+          "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+          "summary": "Hugging Face üzerinde yayınlanan mistralai/Mistral-Large-4-1T-A52B, görsel ve metin girdilerini işleyebilen çok modlu (multimodal) bir yapay zekâ modelidir. Bir trilyon parametreye sahip olan bu uzman karışımı (Mixture-of-Experts) mimarisi, Mistral'in Avrupa'daki veri merkezlerinde özel olarak eğitilmiştir.",
+          "meta": "♥ 1.414 · 4.576 indirme",
+          "snapshot": {
+            "sourceId": "mistralai/Mistral-Large-4-1T-A52B",
+            "capturedAt": "2026-11-01T09:45:19.213Z",
+            "metadata": {
+              "popularity": 1414,
+              "engagementCount": 4576,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 455,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "mistral_large4",
+                  "image-text-to-text",
+                  "vLLM",
+                  "SGLang",
+                  "llama.cpp",
+                  "conversational",
+                  "en",
+                  "fr",
+                  "de",
+                  "es",
+                  "pt",
+                  "it",
+                  "ja",
+                  "ko",
+                  "ru",
+                  "zh",
+                  "ar",
+                  "fa",
+                  "id",
+                  "ms",
+                  "ne",
+                  "pl",
+                  "ro",
+                  "sr",
+                  "sv",
+                  "tr",
+                  "uk",
+                  "vi",
+                  "hi",
+                  "bn",
+                  "bg",
+                  "hr",
+                  "cs",
+                  "da",
+                  "nl",
+                  "et",
+                  "fi",
+                  "el",
+                  "hu",
+                  "ga",
+                  "lv",
+                  "lt",
+                  "mt",
+                  "sk",
+                  "sl",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token (52 billion including embeddings and output layers), trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own datacenters in Europe."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "Kaynak kodları herkesin erişimine ve geliştirmesine açık olan yazılım türüdür."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Verilerin internete ihtiyaç duymadan doğrudan kullanıcının kendi cihazında saklanmasını ve işlenmesini önceliklendiren bir yaklaşımdır."
+    },
+    {
+      "term": "multi-agent orchestration",
+      "explanation": "Birden fazla yapay zekâ ajanının ortak bir hedef doğrultusunda birbirleriyle uyumlu şekilde çalışmasını sağlayan yönetim sürecidir."
+    },
+    {
+      "term": "use-after-free",
+      "explanation": "Bellekteki bir alan serbest bırakıldıktan sonra programın hâlâ o alanı kullanmaya çalışmasıyla oluşan bir güvenlik açığıdır."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Yazılımların ana sisteme zarar vermeden güvenli ve izole bir ortamda çalıştırılmasını sağlayan kısıtlı alandır."
+    }
+  ]
+}

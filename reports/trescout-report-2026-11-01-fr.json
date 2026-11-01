@@ -1,0 +1,975 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-01",
+  "capturedAt": "2026-11-01T09:45:19.069Z",
+  "editorial": "Alors que les développeurs se concentrent aujourd'hui sur des outils conférant aux modèles d'IA une mémoire à long terme (long-term memory) et une gestion des compétences, une faille TCP critique (use-after-free) se distingue sur le plan de la sécurité. Sur la plateforme Hugging Face, les méthodes d'auto-distillation (self-distillation), qui augmentent la capacité de raisonnement des grands modèles de langage, ainsi que de nouveaux benchmarks axés sur la prévision financière, attirent l'attention.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "thedotmack/claude-mem est un outil qui fournit un contexte persistant entre les sessions pour les agents d'IA. Il compresse les données de session avec l'IA pour transférer les informations pertinentes vers les interactions suivantes et fonctionne de manière compatible avec divers assistants de codage tels que Claude Code.",
+          "meta": "TypeScript · ★ 108 328 · +1 723 aujourd'hui",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 108328,
+              "engagementCount": 1723,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1723
+              }
+            },
+            "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Mattpocock/skills contient des compétences (skills) d'agents d'IA utilisées dans les processus de développement logiciel et conçues directement pour de véritables tâches d'ingénierie. Le développeur partage ces outils dans le but d'accroître l'efficacité des flux de travail quotidiens et d'automatiser les tâches d'ingénierie appliquées.",
+          "meta": "Shell · ★ 308 779 · +883 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 308779,
+              "engagementCount": 883,
+              "rank": 2,
+              "extra": {
+                "starsToday": 883,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          }
+        },
+        {
+          "title": "Donchitos/Claude-Code-Game-Studios",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "summary": "Claude-Code-Game-Studios transforme l'outil de développement logiciel Claude Code en un studio de jeu complet avec 49 agents d'IA et 72 capacités de flux de travail. Il vise à automatiser les processus de développement de jeux grâce à un système de coordination reflétant une véritable hiérarchie de studio.",
+          "meta": "Shell · ★ 31 525 · +742 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Donchitos/Claude-Code-Game-Studios",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 31525,
+              "engagementCount": 742,
+              "rank": 3,
+              "extra": {
+                "starsToday": 742
+              }
+            },
+            "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+          }
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3 Code est une interface de contrôle d'agents (agent harness control surface) qui vous permet de gérer les agents d'IA sur votre machine locale. Il vous permet d'établir un contrôle centralisé sur vos agents via des applications mobiles, une interface web et une application de bureau basée sur Electron.",
+          "meta": "TypeScript · ★ 36 284 · +1 148 aujourd'hui",
+          "snapshot": {
+            "sourceId": "pingdotgg/t3code",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 36284,
+              "engagementCount": 1148,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1148,
+                "baglam": "readme"
+              }
+            },
+            "description": "T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app."
+          }
+        },
+        {
+          "title": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "summary": "Renhuai123/ziwei-doushu se distingue comme un moteur de calcul astrologique (astrological chart engine) open source basé sur le système Tianji de Ni Haixia. Le projet propose un ensemble de données d'interprétation complet en 13 dimensions et un algorithme de calcul complet, couvrant les dates entre 1950 et 2026.",
+          "meta": "TypeScript · ★ 12 665 · +1 092 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Renhuai123/ziwei-doushu",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12665,
+              "engagementCount": 1092,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1092,
+                "baglam": "readme"
+              }
+            },
+            "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据. 1. 发布 13 维解读数据集 v4.0 —— 674,976 张命盘（公历 1950–2026 年每一个真实日期 × 12 时辰 × 男女）× 13 维 = 8,774,688 段解读，正文约 204 亿字。解压后 56.6 GB（v3.0 为 33.1 GB，增加 71%），压缩后只有 161 MB，按年份分 77 个文件，可以只下需要的年份，也可以一次下全年份总包。下载见 Release v4.0-13d，规格和字段见第二·新章。发布前 77 个文件逐个解压，与原始数据逐字节比对一致。"
+          }
+        },
+        {
+          "title": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "summary": "OpenMausBot est une alternative open source à Grok Bot qui vous permet de créer votre propre équipe de bots d'IA au sein d'applications de chat. Le projet a été développé en langage TypeScript avec le support d'une machine virtuelle que les bots peuvent utiliser.",
+          "meta": "TypeScript · ★ 10 014 · +1 303 aujourd'hui",
+          "snapshot": {
+            "sourceId": "milind-soni/OpenMausBot",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10014,
+              "engagementCount": 1303,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1303,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open-source Grok Bot alternative with a virtual machine that bots can use. The open-source Grok Bot alternative: your own team of AI bots, in a chat app."
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Développé en langage Rust, impeccable propose un dictionnaire de conception pour les agents d'IA qui écrivent du code. Cet outil vise à empêcher la mise en ligne de contenus de faible qualité générés par l'IA (AI slop) en effectuant un contrôle des erreurs dans les processus de développement logiciel.",
+          "meta": "Rust · ★ 98 704 · +1 338 aujourd'hui",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 98704,
+              "engagementCount": 1338,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1338
+              }
+            },
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers est un cadre de compétences (framework) et une méthodologie de développement logiciel conçus pour les agents d'IA qui codent. Grâce à des compétences combinables et des instructions de guidage, il vise à standardiser les processus de développement logiciel des agents.",
+          "meta": "Shell · ★ 310 285 · +665 aujourd'hui",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 310285,
+              "engagementCount": 665,
+              "rank": 8,
+              "extra": {
+                "starsToday": 665,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        },
+        {
+          "title": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "summary": "Lightpanda est un navigateur sans tête (headless browser) écrit en langage Zig, spécialement développé pour les processus d'IA et d'automatisation. Il vise à optimiser les opérations d'extraction de données en traitant rapidement les pages web via le réseau.",
+          "meta": "Zig · ★ 39 510 · +929 aujourd'hui",
+          "snapshot": {
+            "sourceId": "lightpanda-io/browser",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Zig",
+              "popularity": 39510,
+              "engagementCount": 929,
+              "rank": 9,
+              "extra": {
+                "starsToday": 929,
+                "baglam": "readme"
+              }
+            },
+            "description": "Lightpanda: the headless browser designed for AI and automation. Requesting 933 real web pages over the network on a AWS EC2 m5.large instance. See benchmark details."
+          }
+        },
+        {
+          "title": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "summary": "DeepTutor est un espace de travail basé sur des agents (agent-native) qui combine l'apprentissage, la recherche, la création de contenu et les processus d'application dans un seul système extensible. Cette plateforme, qui offre un soutien personnalisé à l'apprentissage tout au long de la vie, vise à intégrer les processus éducatifs dans un environnement numérique.",
+          "meta": "Python · ★ 53 226 · +1 034 aujourd'hui",
+          "snapshot": {
+            "sourceId": "HKUDS/DeepTutor",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 53226,
+              "engagementCount": 1034,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1034,
+                "baglam": "readme"
+              }
+            },
+            "description": "DeepTutor: Lifelong Personalized Tutoring. DeepTutor is an agent-native learning workspace that connects tutoring, research, creation, and practice in one extensible system."
+          }
+        },
+        {
+          "title": "Orkas-AI/Orkas",
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "summary": "Orkas est une équipe d'IA open source qui fonctionne sur des ordinateurs de bureau et transforme les objectifs en listes de tâches. Coordonnant seize agents experts intégrés et divers modèles de codage, cette application offre un espace de travail local-first sur macOS et Windows.",
+          "meta": "JavaScript · ★ 7 036 · +1 044 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Orkas-AI/Orkas",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 7036,
+              "engagementCount": 1044,
+              "rank": 11,
+              "extra": {
+                "starsToday": 1044
+              }
+            },
+            "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys."
+          }
+        },
+        {
+          "title": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "summary": "OpenMAIC est une plateforme d'intelligence artificielle open source qui transforme n'importe quel sujet ou document en un environnement de classe interactif. Elle utilise la technologie d'orchestration multi-agents pour réunir des étudiants et des enseignants IA qui préparent des présentations, des examens et des simulations.",
+          "meta": "TypeScript · ★ 42 327 · +116 aujourd'hui",
+          "snapshot": {
+            "sourceId": "THU-MAIC/OpenMAIC",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 42327,
+              "engagementCount": 116,
+              "rank": 12,
+              "extra": {
+                "starsToday": 116,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click. OpenMAIC (Open Multi-Agent Interactive Classroom) is an open-source AI platform that turns any topic or document into a rich, interactive classroom experience. Powered by multi-agent orchestration, it generates slides, quizzes, interactive simulations, and project-based learning activities — all delivered by AI teachers and AI classmates who can speak, draw on a whiteboard, and engage in…"
+          }
+        },
+        {
+          "title": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "summary": "devops-exercises est un dépôt de ressources contenant des questions d'entretien DevOps couvrant un large éventail de sujets, de Linux aux plateformes cloud et aux technologies de conteneurs. Il vise à soutenir le processus de préparation des candidats avec des questions techniques sur les outils utilisés dans le secteur (tels que Jenkins, Docker, Kubernetes, Terraform).",
+          "meta": "Python · ★ 86 213 · +342 aujourd'hui",
+          "snapshot": {
+            "sourceId": "bregman-arie/devops-exercises",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 86213,
+              "engagementCount": 342,
+              "rank": 13,
+              "extra": {
+                "starsToday": 342
+              }
+            },
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+          }
+        },
+        {
+          "title": "vorssaint/vorssaint-utils",
+          "url": "https://github.com/vorssaint/vorssaint-utils",
+          "summary": "Vorssaint-utils est une boîte à outils open source pour la barre de menus, développée pour le système d'exploitation macOS. Elle combine de nombreuses fonctions différentes dans une interface unique, telles que le contrôle du volume par application, la surveillance du système, l'organisation des fenêtres et l'historique du presse-papiers.",
+          "meta": "Swift · ★ 32 143 · +501 aujourd'hui",
+          "snapshot": {
+            "sourceId": "vorssaint/vorssaint-utils",
+            "capturedAt": "2026-11-01T09:45:20.333Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 32143,
+              "engagementCount": 501,
+              "rank": 14,
+              "extra": {
+                "starsToday": 501,
+                "baglam": "readme"
+              }
+            },
+            "description": "Free and open-source macOS menu bar toolkit. Per app volume, a real system monitor, a better app switcher, window snapping, Dock previews, clipboard history, text snippets, a file shelf, an uninstaller. The utilities Mac users usually buy one by one, together behind a single menu bar icon, with no account, no telemetry and no subscription."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "HackerTube: YouTube built from videos recommended by HN",
+          "url": "https://karpathy.bearblog.dev/hacker-tube/",
+          "summary": "HackerTube propose des milliers de vidéos partagées dans les commentaires de Hacker News depuis 2007 via une interface similaire à YouTube. La plateforme rassemble en un seul endroit 6 454 vidéos qui se sont distinguées dans les discussions axées sur la technologie.",
+          "meta": "1 283 votes · 362 commentaires",
+          "snapshot": {
+            "sourceId": "50319510",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 1283,
+              "engagementCount": 362,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50319510",
+                  "popularity": 1283,
+                  "engagementCount": 362
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-31T19:56:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50319510"
+              }
+            },
+            "description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https:&#x2F;&#x2F;hackertube.org&#x2F;"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50319510",
+              "popularity": 1283,
+              "engagementCount": 362
+            }
+          ]
+        },
+        {
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "summary": "La vulnérabilité CVE-2026-98432 détectée dans la pile de protocoles IPv4 TCP du noyau Linux est classée comme critique avec un score CVSS de 9,8 en raison d'une erreur de type use-after-free (utilisation après libération). Cette faille crée une vulnérabilité pouvant entraîner un accès non autorisé ou une interruption de service sur le système.",
+          "meta": "501 votes · 231 commentaires",
+          "snapshot": {
+            "sourceId": "50319143",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 501,
+              "engagementCount": 231,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50319143",
+                  "popularity": 501,
+                  "engagementCount": 231
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-31T19:16:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50319143"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50319143",
+              "popularity": 501,
+              "engagementCount": 231
+            }
+          ]
+        },
+        {
+          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+          "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+          "summary": "Claudio Grossi, un agriculteur italien, a obtenu une variété de céréales ancienne à partir de graines trouvées et plantées dans son grenier. Cette plante, qui se distingue par sa tige à sept épis, est considérée comme une découverte susceptible d'offrir des solutions aux problèmes agricoles modernes.",
+          "meta": "426 votes · 121 commentaires",
+          "snapshot": {
+            "sourceId": "50320963",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 426,
+              "engagementCount": 121,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50320963",
+                  "popularity": 426,
+                  "engagementCount": 121
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-31T22:41:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50320963",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an ancient grain that proved to be an answer to some modern problems"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50320963",
+              "popularity": 426,
+              "engagementCount": 121
+            }
+          ]
+        },
+        {
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "summary": "Anthropic bloque les comptes des utilisateurs engagés dans des activités liées à l'entraînement de modèles plus vastes. Les politiques d'utilisation de l'entreprise incluent des restrictions concernant les processus d'entraînement ou de développement de modèles d'intelligence artificielle.",
+          "meta": "344 votes · 201 commentaires",
+          "snapshot": {
+            "sourceId": "50319358",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 344,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50319358",
+                  "popularity": 344,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-31T19:39:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50319358"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50319358",
+              "popularity": 344,
+              "engagementCount": 201
+            }
+          ]
+        },
+        {
+          "title": "Do the math: How we took over ChatGPT accounts",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "summary": "Les chercheurs de Parameter.ai ont développé une méthode pour contourner les politiques de sécurité de contenu et de bac à sable (sandbox) de ChatGPT afin de prendre le contrôle des comptes utilisateurs. Cette méthode permet d'accéder aux comptes via un lien spécial envoyé aux utilisateurs ciblés.",
+          "meta": "330 votes · 164 commentaires",
+          "snapshot": {
+            "sourceId": "50314699",
+            "capturedAt": "2026-11-01T09:45:19.311Z",
+            "metadata": {
+              "popularity": 330,
+              "engagementCount": 164,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50314699",
+                  "popularity": 330,
+                  "engagementCount": 164
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-31T10:30:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50314699",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "By bypassing ChatGPT's sandbox and content security policy, our research team was able to take over anyone's account simply by sending them a link."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50314699",
+              "popularity": 330,
+              "engagementCount": 164
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "summary": "Nanbeige/Nanbeige4.3-33B est présenté comme un modèle d'intelligence artificielle axé sur la génération de texte. Les développeurs visent à distiller les capacités de ce modèle vers des modèles plus petits en créant un agent enseignant à haute capacité.",
+          "meta": "♥ 940 · 15 795 téléchargements",
+          "snapshot": {
+            "sourceId": "Nanbeige/Nanbeige4.3-33B",
+            "capturedAt": "2026-11-01T09:45:19.213Z",
+            "metadata": {
+              "popularity": 940,
+              "engagementCount": 15795,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 818,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "llm",
+                  "nanbeige",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+                  "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. In Nanbeige4.3, we take a foundational step toward pushing the boundaries of lightweight agents. Our strategy centers on building a high-capacity teacher agent first, which will subsequently anchor the distillation of advanced agentic capabilities into smaller models."
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "deepseek-ai/DeepSeek-V4.1-Flash-1017, partagé sur Hugging Face, est un modèle d'intelligence artificielle capable de traiter des entrées basées sur le texte et l'image. Tout en améliorant les performances en matière de raisonnement, de codage et de tâches basées sur des agents par rapport à la version précédente, il vise à accroître l'efficacité des coûts en réduisant le temps de traitement et la longueur de sortie.",
+          "meta": "♥ 4 147 · 170 353 téléchargements",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-11-01T09:45:19.213Z",
+            "metadata": {
+              "popularity": 4147,
+              "engagementCount": 170353,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 724,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us",
+                  "deploy:azure"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "LiquidAI/LFM3-1.7B",
+          "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+          "summary": "LFM3-1.7B, développé par LiquidAI, est un modèle de génération de texte conçu pour les agents locaux et les applications spécialisées. Construit sur une nouvelle architecture tri-hybride, ce modèle se concentre sur des tâches spécialisées avec un faible nombre de paramètres.",
+          "meta": "♥ 647 · 37 568 téléchargements",
+          "snapshot": {
+            "sourceId": "LiquidAI/LFM3-1.7B",
+            "capturedAt": "2026-11-01T09:45:19.213Z",
+            "metadata": {
+              "popularity": 647,
+              "engagementCount": 37568,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 605,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "lfm3",
+                  "text-generation",
+                  "liquid",
+                  "edge",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "ar",
+                  "zh",
+                  "fr",
+                  "de",
+                  "it",
+                  "ja",
+                  "ko",
+                  "pt",
+                  "es",
+                  "vi",
+                  "th",
+                  "id",
+                  "hi",
+                  "ru",
+                  "pl",
+                  "base_model:LiquidAI/LFM3-1.7B-Base",
+                  "base_model:finetune:LiquidAI/LFM3-1.7B-Base",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. LFM3-1.7B is a text model for local agents and specialized applications, based on our new tri-hybrid architecture."
+          }
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "summary": "NVIDIA-Nemotron-3.5-Transcribe-30B-A4B, développé par NVIDIA, est un modèle de reconnaissance automatique de la parole à poids ouverts capable de transcrire dans 40 langues. Prenant en charge des enregistrements allant jusqu'à une heure, le modèle offre une fenêtre contextuelle de 65 536 jetons (tokens) grâce à son architecture de mélange d'experts (mixture-of-experts).",
+          "meta": "♥ 560 · 29 364 téléchargements",
+          "snapshot": {
+            "sourceId": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+            "capturedAt": "2026-11-01T09:45:19.213Z",
+            "metadata": {
+              "popularity": 560,
+              "engagementCount": 29364,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 518,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "nemo",
+                  "safetensors",
+                  "nemo_speechlm",
+                  "text2text-generation",
+                  "nvidia",
+                  "pytorch",
+                  "nemotron-3.5",
+                  "speech",
+                  "asr",
+                  "speech-translation",
+                  "speaker-diarization",
+                  "audio",
+                  "transcription",
+                  "speech-to-text",
+                  "multilingual",
+                  "timestamps",
+                  "long-form-audio",
+                  "language-identification",
+                  "code-switching",
+                  "audio-question-answering",
+                  "instruction-following",
+                  "hf-asr-leaderboard",
+                  "transformers",
+                  "automatic-speech-recognition",
+                  "cs",
+                  "nl",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "it",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "sk",
+                  "es",
+                  "bg",
+                  "hr",
+                  "da",
+                  "et",
+                  "fi",
+                  "hu",
+                  "ja",
+                  "lv",
+                  "lt",
+                  "ro",
+                  "sl",
+                  "sv",
+                  "th",
+                  "tr",
+                  "uk",
+                  "ar",
+                  "bn",
+                  "zh",
+                  "el",
+                  "he",
+                  "id",
+                  "mt",
+                  "mr",
+                  "tl",
+                  "ta",
+                  "te",
+                  "vi",
+                  "dataset:nvidia/Granary-v2",
+                  "arxiv:2310.09424",
+                  "base_model:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "base_model:finetune:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "automatic-speech-recognition model. Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hour and a 65,536-token context. Its hybrid mixture-of-experts architecture activates approximately 4.3B parameters, including the audio encoder, and it is released in BF16, FP8, and NVFP4 precision."
+          }
+        },
+        {
+          "title": "mistralai/Mistral-Large-4-1T-A52B",
+          "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+          "summary": "Publié sur Hugging Face, mistralai/Mistral-Large-4-1T-A52B est un modèle d'intelligence artificielle multimodal capable de traiter des entrées visuelles et textuelles. Dotée d'un billion de paramètres, cette architecture de mélange d'experts (Mixture-of-Experts) a été spécifiquement entraînée dans les centres de données européens de Mistral.",
+          "meta": "♥ 1 414 · 4 576 téléchargements",
+          "snapshot": {
+            "sourceId": "mistralai/Mistral-Large-4-1T-A52B",
+            "capturedAt": "2026-11-01T09:45:19.213Z",
+            "metadata": {
+              "popularity": 1414,
+              "engagementCount": 4576,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 455,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "mistral_large4",
+                  "image-text-to-text",
+                  "vLLM",
+                  "SGLang",
+                  "llama.cpp",
+                  "conversational",
+                  "en",
+                  "fr",
+                  "de",
+                  "es",
+                  "pt",
+                  "it",
+                  "ja",
+                  "ko",
+                  "ru",
+                  "zh",
+                  "ar",
+                  "fa",
+                  "id",
+                  "ms",
+                  "ne",
+                  "pl",
+                  "ro",
+                  "sr",
+                  "sv",
+                  "tr",
+                  "uk",
+                  "vi",
+                  "hi",
+                  "bn",
+                  "bg",
+                  "hr",
+                  "cs",
+                  "da",
+                  "nl",
+                  "et",
+                  "fi",
+                  "el",
+                  "hu",
+                  "ga",
+                  "lv",
+                  "lt",
+                  "mt",
+                  "sk",
+                  "sl",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token (52 billion including embeddings and output layers), trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own datacenters in Europe."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "EPSBench: Benchmarking LLM Agents for Earnings Forecasting",
+          "url": "https://huggingface.co/papers/2610.38293",
+          "summary": "EPSBench est un outil d'évaluation développé pour mesurer les capacités des grands modèles de langage (LLM) à prédire les résultats trimestriels. Utilisant les données de 86 entreprises basées aux États-Unis, ce système teste l'aptitude des agents d'intelligence artificielle à analyser des documents financiers et à générer des prévisions fondées sur des preuves.",
+          "meta": "2 j'aime · 3 commentaires",
+          "snapshot": {
+            "sourceId": "2610.38293",
+            "capturedAt": "2026-11-01T09:45:19.225Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 3,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.38293",
+                "publishedAt": "2026-10-28T05:24:11.000Z",
+                "githubRepo": "https://github.com/JadeXu16/epsbench",
+                "githubStars": 0
+              }
+            },
+            "description": "Quarterly earnings forecasting requires an agent to connect financial evidence to the income-statement line items that produce a company's reported earnings. We introduce EPSBench, a benchmark for studying this ability across 149 firm-quarters from 86 US companies. Agents read a fixed collection of filings, earnings-call transcripts, and news, then estimate company-specific income-statement drivers with cited evidence. A shared accounting calculator converts these estimates into GAAP diluted ear"
+          }
+        },
+        {
+          "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models",
+          "url": "https://huggingface.co/papers/2610.38681",
+          "summary": "L'article publié sur Hugging Face présente la méthode d'auto-distillation sur politique induite par affaiblissement (weakening-induced on-policy self-distillation) pour améliorer les modèles de raisonnement en l'absence d'un modèle enseignant externe. Cette approche, appelée WISD, crée une copie plus faible du modèle original et utilise la différence entre les deux modèles comme signal d'entraînement via des invites (prompts) non étiquetées.",
+          "meta": "2 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.38681",
+            "capturedAt": "2026-11-01T09:45:19.225Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.38681",
+                "publishedAt": "2026-10-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/jet-ai-projects/WISD",
+                "githubStars": 0
+              }
+            },
+            "description": "Self-distillation offers a way to improve reasoning models when a suitable external teacher is unavailable. However, common approaches rely on privileged information to construct a stronger self-teacher, limiting their use when only unlabeled prompts are available. In this paper, we introduce Weakening-Induced On-Policy Self-Distillation (WISD), which instead constructs a weaker counterpart of the original model and uses the contrast between the two as a training signal without requiring privile"
+          }
+        },
+        {
+          "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models",
+          "url": "https://huggingface.co/papers/2610.39293",
+          "summary": "L'article partagé par Hugging Face examine les méthodes permettant aux modèles visuels autorégressifs pré-entraînés de générer des données dans n'importe quel ordre, sans se limiter à un ordre de balayage fixe. L'étude vise à permettre aux modèles d'effectuer des opérations telles que l'édition d'images, l'inpainting et l'outpainting sans coût d'entraînement supplémentaire.",
+          "meta": "2 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.39293",
+            "capturedAt": "2026-11-01T09:45:19.225Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.39293",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Ordered-AR/unlockedadaptation",
+                "githubStars": 0
+              }
+            },
+            "description": "Autoregressive (AR) image generators are powerful in principle but inflexible in practice: training with a fixed raster-scan order hardcodes a single factorization of the image distribution into the model, leaving it unable to inpaint, outpaint, or edit at inference time. Existing solutions, including the modern discrete-diffusion family, train from scratch on a mixture of token orderings, paying roughly 3x the compute of standard raster-scan training; discrete diffusion further sacrifices compa"
+          }
+        },
+        {
+          "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents",
+          "url": "https://huggingface.co/papers/2610.34298",
+          "summary": "L'étude intitulée \"Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents\" examine l'impact du protocole de contexte de modèle (Model Context Protocol) et des interfaces de ligne de commande (command-line interface) sur le comportement des modèles de langage lorsqu'ils interagissent avec des outils externes. La recherche analyse si, même avec des capacités fonctionnelles identiques, différentes représentations d'interface modifient les processus de décision des agents d'intelligence artificielle.",
+          "meta": "4 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.34298",
+            "capturedAt": "2026-11-01T09:45:19.225Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.34298",
+                "publishedAt": "2026-10-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/ModalityDance/MICA",
+                "githubStars": 0
+              }
+            },
+            "description": "Language agents increasingly act through external tools and interactive environments, making the interface between the model and its executable capabilities part of the decision process. Model Context Protocol (MCP) and command-line interfaces (CLI) can expose the same semantic operations through markedly different model-facing representations. We study whether these representational differences change agent behavior when executable capabilities are matched. We introduce Matched Interface Compar"
+          }
+        },
+        {
+          "title": "Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them",
+          "url": "https://huggingface.co/papers/2609.05881",
+          "summary": "L'article publié sur Hugging Face, intitulé \"Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them\", révèle que les grands modèles de langage (LLM) quantifiés présents dans les registres publics ne passent pas les tests de fonctionnalité. La recherche indique qu'une partie des modèles examinés échoue aux tâches de codage et propose des méthodes pour détecter ces modèles d'intelligence artificielle défectueux.",
+          "meta": "5 j'aime · 3 commentaires",
+          "snapshot": {
+            "sourceId": "2609.05881",
+            "capturedAt": "2026-11-01T09:45:19.225Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.05881",
+                "publishedAt": "2026-10-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/aditi-p31/quantcheck",
+                "githubStars": 0
+              }
+            },
+            "description": "Developers download quantized large language models (LLMs) from public registries to run them locally. None of the registries we examined documented functional testing of their files. We tested all 305 eligible code-capable GGUF tags (the llama.cpp format) across 15 model lines in the official Ollama library, plus 22 popular Hugging Face community files. A 15-task code screen identified suspects, which we retested on all 164 HumanEval+ tasks. Seven official tags (2.3%) solved at most six of them"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "persistent context",
+      "explanation": "Il s'agit d'une méthode de stockage de données qui permet aux agents d'intelligence artificielle de se souvenir des conversations précédentes et de maintenir le flux d'informations entre différentes sessions."
+    },
+    {
+      "term": "skills",
+      "explanation": "Il s'agit d'un ensemble de capacités spécialisées possédées par les agents d'intelligence artificielle pour accomplir des tâches d'ingénierie spécifiques."
+    },
+    {
+      "term": "agent harness control surface",
+      "explanation": "Il s'agit d'un panneau de contrôle qui vous permet de gérer et de diriger les agents d'intelligence artificielle fonctionnant sur votre ordinateur."
+    },
+    {
+      "term": "astrological chart engine",
+      "explanation": "Il s'agit d'un outil logiciel qui effectue des calculs de cartes personnelles en utilisant les règles de l'astrologie traditionnelle."
+    },
+    {
+      "term": "open source",
+      "explanation": "Il s'agit d'un type de logiciel dont le code source est accessible à tous pour consultation et développement."
+    },
+    {
+      "term": "AI slop",
+      "explanation": "C'est un terme désignant des contenus de faible qualité, négligés ou sans valeur, générés par l'intelligence artificielle."
+    },
+    {
+      "term": "framework",
+      "explanation": "Il s'agit d'un ensemble d'outils structurels prêts à l'emploi qui accélèrent les processus de développement logiciel et permettent de travailler de manière organisée."
+    },
+    {
+      "term": "headless browser",
+      "explanation": "Il s'agit d'un type de navigateur sans interface visuelle, capable de charger et de traiter des pages web en arrière-plan."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Définit des systèmes conçus spécifiquement pour l'utilisation et la collaboration d'agents d'intelligence artificielle."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Une approche qui privilégie le stockage et le traitement des données directement sur l'appareil de l'utilisateur, sans nécessiter de connexion Internet."
+    },
+    {
+      "term": "multi-agent orchestration",
+      "explanation": "Un processus de gestion qui permet à plusieurs agents d'intelligence artificielle de travailler en harmonie vers un objectif commun."
+    },
+    {
+      "term": "use-after-free",
+      "explanation": "Une faille de sécurité qui survient lorsqu'un programme tente d'utiliser une zone mémoire après qu'elle a été libérée."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Un espace restreint qui permet d'exécuter des logiciels dans un environnement sécurisé et isolé sans endommager le système principal."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Le processus par lequel l'intelligence artificielle génère des phrases et des textes cohérents conformément aux instructions reçues."
+    },
+    {
+      "term": "distillation",
+      "explanation": "Une méthode consistant à transférer les connaissances d'un modèle d'intelligence artificielle vaste et complexe vers un modèle plus petit, plus rapide et plus léger."
+    },
+    {
+      "term": "tri-hybrid architecture",
+      "explanation": "Une structure de modèle spécifique créée en combinant trois principes de fonctionnement ou technologies différents."
+    }
+  ]
+}
