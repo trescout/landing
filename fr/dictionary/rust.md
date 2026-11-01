@@ -42,7 +42,7 @@ Parce que c'est très rapide et réduit considérablement les erreurs logicielle
 - [BUN](https://trescout.com/fr/discover/bun/)
 - [OpenCut](https://trescout.com/fr/discover/opencut/)
 - [AI Engineering from Scratch](https://trescout.com/fr/discover/ai-engineering-from-scratch/)
-- [Vaultwarden](https://trescout.com/fr/discover/vaultwarden/)
+- [Openinterpreter](https://trescout.com/fr/discover/openinterpreter/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/rust/)
 

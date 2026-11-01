@@ -2,12 +2,13 @@
 
 Checkstyle es una herramienta de análisis estático líder en proyectos Java que audita automáticamente el cumplimiento de las reglas de código de Google Java Style y Sun, y puede integrarse en pipelines de CI/CD.
 
-- ★ 9.577
+- ★ 9.627
 - Java
 - GitHub Trending · 2026-08-31
 
 ## Actualizaciones
 
+- **1 de noviembre de 2026:** Estrellas 9,577 → 9,627, última versión checkstyle-14.4.0 (31 de octubre de 2026).
 - **28 de septiembre de 2026:** Estrellas 9,575 → 9,577, última versión checkstyle-14.3.0 (27 de septiembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 9,288 → 9,575, última versión checkstyle-14.1.0 (30 de agosto de 2026).
 

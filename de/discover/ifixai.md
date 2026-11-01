@@ -2,16 +2,16 @@
 
 iFixAi ist ein unabhängiges Prüftool, das kontrolliert, ob KI-Agenten die ihnen zugewiesenen Aufgaben ordnungsgemäß ausführen. Dieses in Python entwickelte System kann von Menschen oder dem Agenten selbst ausgeführt werden und analysiert die Korrektheit der Prozesse in weniger als zwei Minuten.
 
-- ★ 39.548
+- ★ 41.809
 - Python
 - GitHub Trending · 2026-10-15
 
 ## Aktualisierungen
 
+- **1. November 2026:** Sterne 39,548 → 41,809, neueste Version v4.3.0 (22. Oktober 2026).
 - **31. Oktober 2026:** Sterne 37,210 → 39,548, neueste Version v4.3.0 (22. Oktober 2026).
 - **29. Oktober 2026:** Sterne 35,263 → 37,210, neueste Version v4.3.0 (22. Oktober 2026).
 - **27. Oktober 2026:** Sterne 33,443 → 35,263, neueste Version v4.3.0 (22. Oktober 2026).
-- **23. Oktober 2026:** Sterne 32,525 → 33,443, neueste Version v4.3.0 (22. Oktober 2026).
 
 ## Was es bringt
 

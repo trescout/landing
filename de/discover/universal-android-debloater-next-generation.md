@@ -2,12 +2,13 @@
 
 Universal Android Debloater Next Generation ist eine in Rust entwickelte plattformübergreifende grafische Oberfläche zum Entfernen unnötiger Anwendungen auf Android-Geräten, die keinen Root-Zugriff erfordern. Das Tool zielt darauf ab, den Datenschutz, die Sicherheit und die Akkulaufzeit des Geräts mithilfe der Android Debug Bridge (ADB) zu verbessern.
 
-- ★ 8.660
+- ★ 9.679
 - Rust
 - GitHub Trending · 2026-06-17
 
 ## Aktualisierungen
 
+- **1. November 2026:** Sterne 8,660 → 9,679, neueste Version v1.2.0 (12. Januar 2026).
 - **2. August 2026:** Sterne 7,487 → 8,660, neueste Version v1.2.0 (12. Januar 2026).
 
 ## Was es bringt

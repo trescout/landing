@@ -2,16 +2,16 @@
 
 Graphify, kod dosyaları, veritabanı şemaları ve dokümantasyon gibi farklı veri türlerini sorgulanabilir bir bilgi çizgesi (knowledge graph) yapısına dönüştürüyor. Python tabanlı bu araç, çeşitli yapay zekâ kod yardımcıları (AI coding assistants) için merkezi bir veri katmanı oluşturmayı hedefliyor.
 
-- ★ 139.568
+- ★ 140.169
 - Python
 - GitHub Trending · 2026-07-14
 
 ## Güncelleme
 
+- **1 Kasım 2026:** Yıldız 139.568 → 140.169, son sürüm v0.9.100 (1 Kasım 2026).
 - **31 Ekim 2026:** Yıldız 137.233 → 139.568, son sürüm v0.9.99 (30 Ekim 2026).
 - **28 Ekim 2026:** Yıldız 136.429 → 137.233, son sürüm v0.9.97 (27 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 133.977 → 136.429, son sürüm v0.9.96 (26 Ekim 2026).
-- **24 Ekim 2026:** Yıldız 133.484 → 133.977, son sürüm v0.9.95 (23 Ekim 2026).
 
 ## Ne kazandırır?
 

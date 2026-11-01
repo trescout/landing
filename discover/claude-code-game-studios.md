@@ -2,12 +2,13 @@
 
 Claude-Code-Game-Studios, Claude Code yazılım geliştirme aracını kapsamlı bir oyun stüdyosuna dönüştürmeyi amaçlayan bir proje. 49 adet yapay zekâ ajanı ve 72 iş akışı yeteneği (workflow skills) kullanarak gerçek bir stüdyo hiyerarşisini taklit eden bir koordinasyon sistemi sunuyor.
 
-- ★ 29.483
+- ★ 31.442
 - Shell
 - GitHub Trending · 2026-10-30
 
 ## Güncelleme
 
+- **1 Kasım 2026:** Yıldız 29.483 → 31.442, son sürüm v1.2.0 (19 Ekim 2026).
 - **30 Ekim 2026:** Yıldız 29.473 → 29.483, son sürüm v1.2.0 (19 Ekim 2026).
 
 ## Ne kazandırır?

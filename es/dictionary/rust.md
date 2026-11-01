@@ -42,7 +42,7 @@ Porque es muy rápido y reduce significativamente los errores de software.
 - [BUN](https://trescout.com/es/discover/bun/)
 - [OpenCut](https://trescout.com/es/discover/opencut/)
 - [AI Engineering from Scratch](https://trescout.com/es/discover/ai-engineering-from-scratch/)
-- [Vaultwarden](https://trescout.com/es/discover/vaultwarden/)
+- [Openinterpreter](https://trescout.com/es/discover/openinterpreter/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/rust/)
 
