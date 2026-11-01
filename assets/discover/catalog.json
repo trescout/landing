@@ -1285,7 +1285,7 @@
     "tagline_pt": "Memória persistente para seu agente de IA: lembra o contexto de sessão cruzada e é configurada com um único comando.",
     "tagline_es": "Memoria persistente para su agente de IA: recuerda el contexto entre sesiones y se configura con un solo comando.",
     "tagline_de": "Permanenter Speicher für Ihren KI-Agenten: Erinnert sich an den sitzungsübergreifenden Kontext und wird mit einem einzigen Befehl eingerichtet.",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-01",
     "cmds": {
       "kurulum": [
         {
@@ -1843,7 +1843,7 @@
     "tagline_pt": "Habilidades compostas e metodologia de desenvolvimento de software para agentes de codificação.",
     "tagline_es": "Habilidades compuestas y metodología de desarrollo de software para agentes de codificación.",
     "tagline_de": "Zusammengesetzte Fähigkeiten und Softwareentwicklungsmethodik für Codierungsagenten.",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-01",
     "cmds": {
       "kurulum": [
         {
@@ -4812,7 +4812,7 @@
     "tagline_pt": "Impeccable é uma linguagem de design desenvolvida para melhorar os resultados de design de modelos de inteligência artificial.",
     "tagline_es": "Impeccable es un lenguaje de diseño desarrollado para mejorar los resultados de diseño de modelos de inteligencia artificial.",
     "tagline_de": "Impeccable ist eine Designsprache, die entwickelt wurde, um die Designergebnisse von Modellen der künstlichen Intelligenz zu verbessern.",
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   {
     "slug": "tradingagents",
@@ -25115,7 +25115,7 @@
     "slug": "destructive-command-guard",
     "title": "Destructive Command Guard",
     "tagline": "Yıkıcı Komut Koruması (destructive command guard), yapay zekâ ajanları tarafından çalıştırılan tehlikeli git ve kabuk (shell)…",
-    "meta": "★ 6.114 · Rust",
+    "meta": "★ 6.238 · Rust",
     "image": "/assets/discover/og/destructive-command-guard.webp",
     "source": "GitHub",
     "date": "2026-07-13",
@@ -25123,7 +25123,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6114,
+    "stars": 6238,
     "lite": false,
     "headline": "Yapay zekâ ajanları için komut koruması",
     "last_review": "2026-11-01",
@@ -25267,6 +25267,13 @@
         "onceki_yildiz": 6074,
         "surum": "v0.15.3",
         "surum_tarihi": "2026-10-08"
+      },
+      {
+        "tarih": "2026-11-01",
+        "yildiz": 6238,
+        "onceki_yildiz": 6114,
+        "surum": "v0.16.0",
+        "surum_tarihi": "2026-11-01"
       }
     ],
     "tagline_en": "Destructive Command Guard, dangerous git and shell attacks run by artificial intelligence agents…",
@@ -25617,7 +25624,7 @@
     "tagline_pt": "T3Code é um conjunto de ferramentas desenvolvido para melhorar e padronizar a qualidade do código em projetos baseados em TypeScript.",
     "tagline_es": "T3Code es un conjunto de herramientas desarrollado para mejorar y estandarizar la calidad del código en proyectos basados ​​en TypeScript.",
     "tagline_de": "T3Code ist ein Toolset, das zur Verbesserung und Standardisierung der Codequalität in TypeScript-basierten Projekten entwickelt wurde.",
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   {
     "slug": "ai-hedge-fund",
@@ -26884,7 +26891,7 @@
     "tagline_pt": "DeepTutor é uma plataforma de aprendizagem ao longo da vida que oferece processos educacionais personalizados usando dados de alunos.",
     "tagline_es": "DeepTutor es una plataforma de aprendizaje permanente que ofrece procesos educativos personalizados utilizando los datos de los estudiantes.",
     "tagline_de": "DeepTutor ist eine Plattform für lebenslanges Lernen, die mithilfe von Schülerdaten personalisierte Bildungsprozesse bietet.",
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   {
     "slug": "yimmenuv2",
@@ -45548,7 +45555,7 @@
     "tagline_pt": "OpenMAIC é uma sala de aula e plataforma de aprendizagem de código aberto que simula múltiplas interações de agentes de IA com um único clique.",
     "tagline_es": "OpenMAIC es una plataforma de aprendizaje y aula de código abierto que simula múltiples interacciones de agentes de IA con un solo clic.",
     "tagline_de": "OpenMAIC ist eine Open-Source-Klassenzimmer- und Lernplattform, die mehrere KI-Agenteninteraktionen mit einem einzigen Klick simuliert.",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-11-01",
     "headline": "Çoklu yapay zekâ ajanlarıyla etkileşimli sınıf simülasyonu",
     "cmds": {
       "kurulum": [
@@ -47856,7 +47863,7 @@
     "tagline_pt": "Lightpanda é um navegador headless escrito na linguagem Zig, desenvolvido especificamente para processos de inteligência artificial e automação...",
     "tagline_es": "Lightpanda es un navegador headless escrito en el lenguaje Zig, desarrollado específicamente para procesos de inteligencia artificial y automatización...",
     "tagline_de": "Lightpanda ist ein in der Sprache Zig geschriebener Headless-Browser, der speziell für KI- und Automatisierungsprozesse entwickelt wurde...",
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   {
     "slug": "system-design-notes",
@@ -55861,7 +55868,7 @@
       "Geliştirici aracı"
     ],
     "stars": 12597,
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-01",
     "summary": "Renhuai123/ziwei-doushu, Ni Haixia'nın Tianji sistemini temel alan ve Ziwei Doushu astrolojik haritalarını hesaplayan açık kaynaklı bir TypeScript motorudur. Proje, 1950 ile 2026 yılları arasındaki tarihleri kapsayan 13 boyutlu geniş bir astrolojik yorum veri kümesini (v4.0) kullanıma sunuyor.",
     "lite": false,
     "headline": "Açık kaynaklı ziwei doushu astroloji motoru",
@@ -56374,7 +56381,7 @@
       "Geliştirici aracı"
     ],
     "stars": 9957,
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-01",
     "summary": "OpenMausBot, sohbet uygulamaları içerisinde kendi yapay zekâ bot ekibinizi oluşturmanıza olanak tanıyan açık kaynaklı (open source) bir Grok Bot alternatifidir. Yazılım, botların kullanabileceği sanal bir makine desteğiyle birlikte gelir.",
     "lite": false,
     "headline": "Sohbet odaklı yapay zekâ bot ekibi",
@@ -56428,7 +56435,7 @@
       "Geliştirici aracı"
     ],
     "stars": 31442,
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-01",
     "summary": "Claude-Code-Game-Studios, Claude Code yazılım geliştirme aracını kapsamlı bir oyun stüdyosuna dönüştürmeyi amaçlayan bir proje. 49 adet yapay zekâ ajanı ve 72 iş akışı yeteneği (workflow skills) kullanarak gerçek bir stüdyo hiyerarşisini taklit eden bir koordinasyon sistemi sunuyor.",
     "lite": false,
     "headline": "Yapay zekâ destekli eksiksiz oyun stüdyosu",
@@ -56454,5 +56461,95 @@
     "tagline_es": "Claude-Code-Game-Studios es un proyecto cuyo objetivo es convertir la herramienta de desarrollo de software Claude Code en un estudio de desarrollo de videojuegos completo.",
     "tagline_pt": "Claude-Code-Game-Studios é um projeto que visa transformar a ferramenta de desenvolvimento de software Claude Code em um estúdio de jogos completo.",
     "tagline_de": "Claude-Code-Game-Studios ist ein Projekt, das darauf abzielt, das Softwareentwicklungstool Claude Code in ein umfassendes Spielstudio zu verwandeln."
+  },
+  {
+    "slug": "orkas",
+    "title": "Orkas",
+    "tagline": "Orkas, masaüstü bilgisayarlarda çalışan ve hedefleri görev listelerine dönüştüren açık kaynaklı bir yapay zekâ takımıdır.",
+    "meta": "★ 7.039 · JavaScript",
+    "image": "/assets/discover/og/orkas.webp",
+    "source": "GitHub",
+    "date": "2026-11-01",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7039,
+    "last_seen": "2026-11-01",
+    "summary": "Orkas, masaüstü bilgisayarlarda çalışan ve hedefleri görev listelerine dönüştüren açık kaynaklı bir yapay zekâ takımıdır. On altı yerleşik uzman ajanı ve çeşitli kodlama modellerini koordine eden bu uygulama, macOS ve Windows üzerinde yerel öncelikli (local-first) bir çalışma alanı sunar.",
+    "lite": false,
+    "headline": "Masaüstünüzde çalışan yapay zekâ takımı",
+    "last_review": "2026-11-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-11-01",
+        "yildiz": 7039,
+        "onceki_yildiz": 7036,
+        "surum": "v2026.10.27",
+        "surum_tarihi": "2026-10-27"
+      }
+    ],
+    "tagline_en": "Orkas is an open-source AI team that runs on desktop computers and turns goals into task lists.",
+    "tagline_fr": "Orkas est une équipe d'intelligence artificielle open source qui fonctionne sur les ordinateurs de bureau et transforme les objectifs en listes de tâches.",
+    "tagline_es": "Orkas es un equipo de inteligencia artificial de código abierto que se ejecuta en ordenadores de sobremesa y transforma los objetivos en listas de tareas.",
+    "tagline_pt": "Orkas é uma equipe de inteligência artificial de código aberto que roda em computadores de desktop e transforma objetivos em listas de tarefas.",
+    "tagline_de": "Orkas ist ein auf Desktop-Computern laufendes Open-Source-KI-Team, das Ziele in Aufgabenlisten umwandelt."
+  },
+  {
+    "slug": "devops-exercises",
+    "title": "Devops Exercises",
+    "tagline": "devops-exercises, Linux'tan bulut platformlarına ve konteyner teknolojilerine kadar geniş bir yelpazede DevOps mülakat…",
+    "meta": "★ 86.213 · Python",
+    "image": "/assets/discover/og/devops-exercises.webp",
+    "source": "GitHub",
+    "date": "2026-11-01",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 86213,
+    "last_seen": "2026-11-01",
+    "summary": "devops-exercises, Linux'tan bulut platformlarına ve konteyner teknolojilerine kadar geniş bir yelpazede DevOps mülakat soruları içeren bir kaynak deposudur. Sektörde kullanılan araçlara (Jenkins, Docker, Kubernetes, Terraform gibi) yönelik teknik sorularla adayların hazırlık sürecine destek olmayı hedefler.",
+    "lite": false,
+    "headline": "Geniş kapsamlı DevOps mülakat soruları",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz",
+    "last_review": "2026-11-01",
+    "tagline_en": "devops-exercises provides a wide range of DevOps interview questions, from Linux to cloud platforms and container technologies…",
+    "tagline_fr": "devops-exercises propose un large éventail d'entretiens DevOps, allant de Linux aux plateformes cloud et aux technologies de conteneurisation…",
+    "tagline_es": "devops-exercises ofrece una amplia gama de entrevistas de DevOps, desde Linux hasta plataformas en la nube y tecnologías de contenedores…",
+    "tagline_pt": "devops-exercises oferece uma ampla gama de entrevistas de DevOps, desde Linux até plataformas em nuvem e tecnologias de contêineres...",
+    "tagline_de": "devops-exercises ist ein DevOps-Interview-Leitfaden, der ein breites Spektrum von Linux über Cloud-Plattformen bis hin zu Container-Technologien abdeckt…"
+  },
+  {
+    "slug": "vorssaint-utils",
+    "title": "Vorssaint Utils",
+    "tagline": "Vorssaint-utils, macOS işletim sistemi için geliştirilmiş, açık kaynak kodlu (open source) bir menü çubuğu araç setidir.",
+    "meta": "★ 32.146 · Swift",
+    "image": "/assets/discover/og/vorssaint-utils.webp",
+    "source": "GitHub",
+    "date": "2026-11-01",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 32146,
+    "last_seen": "2026-11-01",
+    "summary": "Vorssaint-utils, macOS işletim sistemi için geliştirilmiş, açık kaynak kodlu (open source) bir menü çubuğu araç setidir. Uygulama bazlı ses denetimi, sistem izleme, pencere düzenleme ve pano geçmişi gibi birçok farklı işlevi tek bir arayüzde birleştirerek sunar.",
+    "lite": false,
+    "headline": "Macos için modüler menü çubuğu aracı",
+    "last_review": "2026-11-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-11-01",
+        "yildiz": 32146,
+        "onceki_yildiz": 32143,
+        "surum": "v3.4.3",
+        "surum_tarihi": "2026-10-29"
+      }
+    ],
+    "tagline_en": "Vorssaint-utils is an open-source menu bar toolset developed for the macOS operating system.",
+    "tagline_fr": "Vorssaint-utils est une boîte à outils open source pour la barre de menu développée pour le système d'exploitation macOS.",
+    "tagline_es": "Vorssaint-utils es un conjunto de herramientas de barra de menús de código abierto desarrollado para el sistema operativo macOS.",
+    "tagline_pt": "Vorssaint-utils é um conjunto de ferramentas de barra de menus de código aberto desenvolvido para o sistema operacional macOS.",
+    "tagline_de": "Vorssaint-utils ist ein für das Betriebssystem macOS entwickeltes, Open-Source-Menüleisten-Toolkit."
   }
 ]

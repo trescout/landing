@@ -38,6 +38,7 @@ Local-first uygulamalar genellikle şifreli bir şekilde buluta yedekleme yapabi
 
 - [Openhuman](https://trescout.com/discover/openhuman/)
 - [PI-Desktop](https://trescout.com/discover/pi-desktop/)
+- [Orkas](https://trescout.com/discover/orkas/)
 - [Agentsview](https://trescout.com/discover/agentsview/)
 - [Wigolo](https://trescout.com/discover/wigolo/)
 - [Open Science](https://trescout.com/discover/open-science/)

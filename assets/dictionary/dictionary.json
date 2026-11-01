@@ -10112,5 +10112,57 @@
     "kisa_es": "Disciplina de ingeniería que garantiza que los sistemas de software a gran escala permanezcan operativos de forma continua y que se corrijan los errores.",
     "kisa_pt": "Disciplina de engenharia que garante que sistemas de software em larga escala permaneçam continuamente operacionais e que os erros sejam resolvidos.",
     "kisa_de": "Eine technische Disziplin, die sicherstellt, dass große Software-Systeme kontinuierlich betriebsbereit bleiben und Fehler behoben werden."
+  },
+  {
+    "slug": "astrological-chart-engine",
+    "en": "Astrological Chart Engine",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Geleneksel astroloji kurallarını kullanarak gezegen konumlarını ve kişisel harita hesaplamalarını gerçekleştiren yazılım motorudur.",
+    "date": "2026-11-01",
+    "kisa_en": "It is a software engine that performs planetary positions and natal chart calculations using traditional astrology rules.",
+    "kisa_fr": "Moteur logiciel qui effectue des calculs de positions planétaires et de thèmes natals en utilisant les règles de l'astrologie traditionnelle.",
+    "kisa_es": "Es el motor de software que realiza cálculos de posiciones planetarias y cartas natales utilizando las reglas de la astrología tradicional.",
+    "kisa_pt": "É um motor de software que executa posições planetárias e cálculos de mapas natais usando regras da astrologia tradicional.",
+    "kisa_de": "Es ist eine Software-Engine, die Planetenpositionen und persönliche Horoskopberechnungen unter Verwendung traditioneller astrologischer Regeln durchführt."
+  },
+  {
+    "slug": "multi-agent-orchestration",
+    "en": "Multi-agent Orchestration",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Birden fazla yapay zekâ ajanının ortak bir hedef doğrultusunda birbiriyle uyumlu çalışmasını sağlayan yönetim sürecidir.",
+    "date": "2026-11-01",
+    "kisa_en": "It is a management process that enables multiple artificial intelligence agents to work harmoniously together towards a common goal.",
+    "kisa_fr": "Processus de gestion qui permet à plusieurs agents d'intelligence artificielle de travailler en harmonie vers un objectif commun.",
+    "kisa_es": "Es el proceso de gestión que permite que múltiples agentes de inteligencia artificial trabajen en armonía hacia un objetivo común.",
+    "kisa_pt": "É um processo de gestão que permite que múltiplos agentes de inteligência artificial trabalhem juntos em harmonia em direção a um objetivo comum.",
+    "kisa_de": "Es ist ein Managementprozess, der es mehreren KI-Agenten ermöglicht, harmonisch auf ein gemeinses Ziel hin zu arbeiten."
+  },
+  {
+    "slug": "use-after-free",
+    "en": "Use-After-Free",
+    "full": "UAF",
+    "cat": "dev",
+    "kisa": "Bellekteki bir alan serbest bırakıldıktan sonra programın o alana erişmeye çalışmasıyla ortaya çıkan bir güvenlik açığıdır.",
+    "date": "2026-11-01",
+    "kisa_en": "It is a vulnerability that occurs when a program attempts to access a memory area after it has been freed.",
+    "kisa_fr": "Il s'agit d'une vulnérabilité de sécurité qui se produit lorsqu'un programme tente d'accéder à une zone mémoire après qu'elle a été libérée.",
+    "kisa_es": "Es una vulnerabilidad de seguridad que surge cuando el programa intenta acceder a una zona de la memoria después de haber sido liberada.",
+    "kisa_pt": "É uma vulnerabilidade de segurança que ocorre quando o programa tenta acessar uma área de memória após ela ter sido liberada.",
+    "kisa_de": "Es handelt sich um eine Sicherheitslücke, die dadurch entsteht, dass das Programm versucht, auf einen Speicherbereich zuzugreifen, nachdem dieser freigegeben wurde."
+  },
+  {
+    "slug": "tri-hybrid-architecture",
+    "en": "Tri-hybrid Architecture",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Üç farklı çalışma prensibinin veya teknolojinin birleştirilmesiyle oluşturulan gelişmiş sistem tasarımı yapısıdır.",
+    "date": "2026-11-01",
+    "kisa_en": "It is an advanced system design architecture created by combining three different operating principles or technologies.",
+    "kisa_fr": "Il s'agit d'une structure de conception de système avancée créée par la combinaison de trois principes de fonctionnement ou technologies différents.",
+    "kisa_es": "Es una estructura de diseño de sistemas avanzada creada mediante la combinación de tres principios de funcionamiento o tecnologías diferentes.",
+    "kisa_pt": "É uma estrutura de design de sistema avançada criada pela combinação de três princípios de funcionamento ou tecnologias diferentes.",
+    "kisa_de": "Es handelt sich um eine fortgeschrittene Systemarchitektur, die durch die Kombination von drei verschiedenen Funktionsprinzipien oder Technologien gebildet wird."
   }
 ]

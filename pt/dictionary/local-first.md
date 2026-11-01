@@ -38,6 +38,7 @@ Muitas vezes, os aplicativos locais podem fazer backup na nuvem de maneira cript
 
 - [Openhuman](https://trescout.com/pt/discover/openhuman/)
 - [PI-Desktop](https://trescout.com/pt/discover/pi-desktop/)
+- [Orkas](https://trescout.com/pt/discover/orkas/)
 - [Agentsview](https://trescout.com/pt/discover/agentsview/)
 - [Wigolo](https://trescout.com/pt/discover/wigolo/)
 - [Open Science](https://trescout.com/pt/discover/open-science/)
