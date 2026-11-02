@@ -1,0 +1,483 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-02",
+  "capturedAt": "2026-11-02T05:19:07.224Z",
+  "editorial": "Os conteúdos incluídos no relatório não são repetidos durante 30 dias. Após este período, os registos que continuam na agenda são listados novamente com a etiqueta \"novamente na agenda\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "public-apis oferece uma lista abrangente de interfaces de programação de aplicativos (API) gratuitas que os desenvolvedores de software podem usar em seus projetos. O APILayer, por sua vez, oferece acesso a serviços de API REST de nível de produção através de uma única conta e chave.",
+          "meta": "Python · ★ 494.892 · +324 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "public-apis/public-apis",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 494892,
+              "engagementCount": 324,
+              "rank": 6,
+              "extra": {
+                "starsToday": 324,
+                "baglam": "readme"
+              }
+            },
+            "description": "A collective list of free APIs. APILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result."
+          }
+        },
+        {
+          "title": "cjpais/Handy",
+          "url": "https://github.com/cjpais/Handy",
+          "summary": "cjpais/Handy é um aplicativo de conversão de fala em texto (speech-to-text) gratuito e de código aberto que funciona totalmente offline. Desenvolvida na linguagem Rust, esta ferramenta oferece uma estrutura extensível, permitindo que os usuários processem dados de voz em um ambiente local.",
+          "meta": "Rust · ★ 36.754 · +339 hoje",
+          "snapshot": {
+            "sourceId": "cjpais/Handy",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 36754,
+              "engagementCount": 339,
+              "rank": 7,
+              "extra": {
+                "starsToday": 339,
+                "baglam": "readme"
+              }
+            },
+            "description": "A free, open source, and extensible speech-to-text application that works completely offline. A free, open source, and extensible speech-to-text application that works completely offline."
+          }
+        },
+        {
+          "title": "kornia/kornia",
+          "url": "https://github.com/kornia/kornia",
+          "summary": "Kornia é uma biblioteca de visão computacional (computer vision) diferenciável desenvolvida para aplicações de inteligência artificial espacial (spatial AI). Rodando sobre o framework de aprendizado profundo PyTorch, esta ferramenta permite integrar algoritmos de processamento de imagem e visão geométrica em fluxos de trabalho de inteligência artificial.",
+          "meta": "Python · ★ 11.886 · +101 hoje",
+          "snapshot": {
+            "sourceId": "kornia/kornia",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 11886,
+              "engagementCount": 101,
+              "rank": 9,
+              "extra": {
+                "starsToday": 101,
+                "baglam": "readme"
+              }
+            },
+            "description": "🐍 Geometric Computer Vision Library for Spatial AI. Kornia is a differentiable computer vision library that provides a rich set of differentiable image processing and geometric vision algorithms. Built on top of PyTorch, Kornia integrates seamlessly into existing AI workflows, allowing you to leverage powerful batch transformations, auto-differentiation and GPU acceleration."
+          }
+        },
+        {
+          "title": "beenuar/AiSOC",
+          "url": "https://github.com/beenuar/AiSOC",
+          "summary": "AiSOC é um centro de segurança de inteligência artificial de código aberto desenvolvido para automatizar operações de segurança. A ferramenta, que classifica alertas com grandes modelos de linguagem (LLM) e realiza investigações com a estrutura MITRE ATT&CK, pode rodar em seu próprio servidor sem a necessidade de uma chave de API.",
+          "meta": "Python · ★ 6.360 · +446 hoje",
+          "snapshot": {
+            "sourceId": "beenuar/AiSOC",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6360,
+              "engagementCount": 446,
+              "rank": 10,
+              "extra": {
+                "starsToday": 446
+              }
+            },
+            "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue."
+          }
+        },
+        {
+          "title": "anomalyco/hex",
+          "url": "https://github.com/anomalyco/hex",
+          "summary": "Hex, desenvolvido com a linguagem Rust, é uma ferramenta de ditado de voz nativa que funciona nos sistemas operacionais Mac, Windows e Linux. Ele permite que os usuários falem mantendo uma tecla pressionada e que o que foi dito seja convertido em texto.",
+          "meta": "Rust · ★ 3.505 · +1.179 hoje",
+          "snapshot": {
+            "sourceId": "anomalyco/hex",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 3505,
+              "engagementCount": 1179,
+              "rank": 12,
+              "extra": {
+                "starsToday": 1179,
+                "baglam": "readme"
+              }
+            },
+            "description": "Local voice dictation for mac, windows and linux. Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes."
+          }
+        },
+        {
+          "title": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "summary": "patchy631/ai-engineering-hub oferece treinamentos aprofundados sobre grandes modelos de linguagem (LLM), geração aumentada por recuperação (RAG) e aplicações de agentes de IA do mundo real. Preparado no formato Jupyter Notebook, este recurso funciona como um centro de aprendizado abrangente para aqueles que desejam desenvolver sistemas baseados em IA.",
+          "meta": "Jupyter Notebook · ★ 40.482 · +1.191 hoje",
+          "snapshot": {
+            "sourceId": "patchy631/ai-engineering-hub",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 40482,
+              "engagementCount": 1191,
+              "rank": 15,
+              "extra": {
+                "starsToday": 1191,
+                "baglam": "readme"
+              }
+            },
+            "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications. Welcome to the AI Engineering Hub - your comprehensive resource for learning and building with AI!"
+          }
+        },
+        {
+          "title": "FlashML-org/FreeToken",
+          "url": "https://github.com/FlashML-org/FreeToken",
+          "summary": "FlashML-org/FreeToken é uma biblioteca que permite executar grandes modelos de IA em escala de data center de forma rápida e eficiente em computadores pessoais. Ela permite que os usuários utilizem modelos de mistura de especialistas (Mixture of Experts, MoE) com mais de 290 bilhões de parâmetros em hardware padrão a velocidades interativas.",
+          "meta": "Python · ★ 15.543 · +242 hoje",
+          "snapshot": {
+            "sourceId": "FlashML-org/FreeToken",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 15543,
+              "engagementCount": 242,
+              "rank": 16,
+              "extra": {
+                "starsToday": 242,
+                "baglam": "readme"
+              }
+            },
+            "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds."
+          }
+        },
+        {
+          "title": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "summary": "Hyprland é um compositor Wayland de mosaico dinâmico altamente personalizável que não compromete a estética visual. Desenvolvido em C++, este software independente permite que os usuários configurem seus ambientes de desktop de acordo com suas próprias preferências.",
+          "meta": "C++ · ★ 39.480 · +38 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "hyprwm/Hyprland",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 39480,
+              "engagementCount": 38,
+              "rank": 17,
+              "extra": {
+                "starsToday": 38,
+                "baglam": "readme"
+              }
+            },
+            "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "url": "https://hackerbooks.org/",
+          "summary": "HackerBooks é uma plataforma que lista cerca de 16.500 livros recomendados por pelo menos dois usuários diferentes na plataforma Hacker News. Este projeto, que permite aos usuários acessar diretamente os comentários feitos sobre os livros, foi desenvolvido usando o Claude Opus 5.5.",
+          "meta": "1.125 pontos · 204 comentários",
+          "snapshot": {
+            "sourceId": "50326821",
+            "capturedAt": "2026-11-02T05:19:07.609Z",
+            "metadata": {
+              "popularity": 1125,
+              "engagementCount": 204,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50326821",
+                  "popularity": 1125,
+                  "engagementCount": 204
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-01T15:58:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50326821"
+              }
+            },
+            "description": "Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).It&#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.T"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50326821",
+              "popularity": 1125,
+              "engagementCount": 204
+            }
+          ]
+        },
+        {
+          "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+          "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+          "summary": "Foi revelado que o pen drive USB com leitor de impressão digital, que a Lenovo afirmou ser criptografado, consiste na verdade apenas em um cartão SD não criptografado colocado dentro de um estojo. Esta situação mostra que os recursos de segurança oferecidos pelo produto não refletem a realidade.",
+          "meta": "432 pontos · 155 comentários",
+          "snapshot": {
+            "sourceId": "50326099",
+            "capturedAt": "2026-11-02T05:19:07.609Z",
+            "metadata": {
+              "popularity": 432,
+              "engagementCount": 155,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50326099",
+                  "popularity": 432,
+                  "engagementCount": 155
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-01T14:34:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50326099"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50326099",
+              "popularity": 432,
+              "engagementCount": 155
+            }
+          ]
+        },
+        {
+          "title": "The AI cost of JavaScript frameworks",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+          "summary": "Os custos de desempenho criados pelos frameworks JavaScript nos processos de desenvolvimento web estão sendo discutidos com o impacto das ferramentas de IA neste ecossistema. Critica-se que os desenvolvedores tomam decisões técnicas com base em opiniões gerais em vez de análises baseadas em dados.",
+          "meta": "334 pontos · 254 comentários",
+          "snapshot": {
+            "sourceId": "50323088",
+            "capturedAt": "2026-11-02T05:19:07.609Z",
+            "metadata": {
+              "popularity": 334,
+              "engagementCount": 254,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50323088",
+                  "popularity": 334,
+                  "engagementCount": 254
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-01T06:06:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50323088",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50323088",
+              "popularity": 334,
+              "engagementCount": 254
+            }
+          ]
+        },
+        {
+          "title": "Mathematics has changed. Let's act like it",
+          "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+          "summary": "A transformação que a disciplina da matemática passou com o desenvolvimento de ferramentas de IA revela que os métodos de trabalho nesta área precisam ser atualizados. O artigo escrito por Frank Calegari avalia os efeitos das novas tecnologias anunciadas pela OpenAI nos processos matemáticos e faz um apelo para a adaptação à mudança.",
+          "meta": "254 pontos · 278 comentários",
+          "snapshot": {
+            "sourceId": "50328251",
+            "capturedAt": "2026-11-02T05:19:07.609Z",
+            "metadata": {
+              "popularity": 254,
+              "engagementCount": 278,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50328251",
+                  "popularity": 254,
+                  "engagementCount": 278
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-01T18:28:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50328251",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "[This is a guest post by Frank Calegari. This blog post was initially written in a different file format and converted using AI. — T.] Why we should not be sad The release by OpenAI on Octobe…"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50328251",
+              "popularity": 254,
+              "engagementCount": 278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents",
+          "url": "https://huggingface.co/papers/2610.39086",
+          "summary": "O HALO, compartilhado pelo Hugging Face, é um método centrado no ser humano desenvolvido para avaliar os processos de agentes proativos (proactive agents) em ajudar os usuários sem que haja uma solicitação explícita. Este estudo visa analisar detalhadamente a qualidade da intervenção dos agentes e o uso de evidências através de quatro tipos diferentes de necessidades.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.39086",
+            "capturedAt": "2026-11-02T05:19:07.440Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.39086",
+                "publishedAt": "2026-10-29T00:00:00.000Z"
+              }
+            },
+            "description": "Proactive agents must decide whether, when, and how far to assist without an explicit request. Existing evaluations often rely on automated scores or binary verdicts, offering limited human diagnosis of evidence use and intervention quality. To address these gaps, we introduce HALO, Human-Grounded GrAnular EvaLuation of PrOactive Agents. HALO-Arena covers 4 proactive need types, Dependency, Blockage, Risk, and Opportunity, across 10 everyday domains and 50 personal environments. Scenarios requir"
+          }
+        },
+        {
+          "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
+          "url": "https://huggingface.co/papers/2610.40738",
+          "summary": "O Apriel Voice 27B Preview, compartilhado no Hugging Face, é um assistente de voz de código aberto que combina capacidades de reconhecimento de fala, raciocínio e uso de ferramentas em um único modelo de inteligência artificial. Desenvolvido com base no Gemma 4 26B-A4B, o modelo suporta entradas de texto e imagem, podendo realizar processamento de áudio direto e chamadas de ferramentas.",
+          "meta": "5 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.40738",
+            "capturedAt": "2026-11-02T05:19:07.440Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40738",
+                "publishedAt": "2026-10-29T00:00:00.000Z"
+              }
+            },
+            "description": "A capable voice assistant must do more than recognize words; it must understand requests, reason over context, sustain conversations, and act through tools. We present Apriel Voice 27B Preview, an open speech-language model that unifies these capabilities within a shared reasoning backbone while retaining text and image input modalities. Built on the post-trained Gemma 4 26B-A4B checkpoint, Apriel Voice directly processes speech and generates both responses and tool calls without requiring a sep"
+          }
+        },
+        {
+          "title": "Probing Spatial State Representations in Visual Foundation Models",
+          "url": "https://huggingface.co/papers/2610.40636",
+          "summary": "O artigo Probing Spatial State Representations in Visual Foundation Models, compartilhado no Hugging Face, examina as capacidades dos modelos de base visual (visual foundation models) de perceber o ambiente e manter a continuidade espacial. O estudo avalia o nível de representação que os modelos fornecem em questões como permanência de objetos e atualização espacial preditiva através de quatro níveis de habilidade diferentes.",
+          "meta": "5 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.40636",
+            "capturedAt": "2026-11-02T05:19:07.440Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40636",
+                "publishedAt": "2026-10-29T17:58:16.000Z"
+              }
+            },
+            "description": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is updated under self-motion and used to guide action. Do visual foundation models provide representations that support such a state? We study this question through four levels of spatial capability---spatial structure, object persistence, predictive spatial update"
+          }
+        },
+        {
+          "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2610.40945",
+          "summary": "O artigo publicado no Hugging Face examina a incompatibilidade que ocorre entre as fases de treinamento e inferência nos processos de aprendizagem por reforço (reinforcement learning) de grandes modelos de linguagem (LLM). O estudo, que afirma que essa situação decorre de diferenças numéricas e do envelhecimento dos pesos causado pela amostragem assíncrona, enfatiza que os métodos de correção atuais podem ser insuficientes para resolver ambos os problemas.",
+          "meta": "4 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.40945",
+            "capturedAt": "2026-11-02T05:19:07.440Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40945",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Skylanding/Training-Inference-Mismatch",
+                "githubStars": 2
+              }
+            },
+            "description": "On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate trainer computes the gradients, and the training-inference mismatch between the two makes the training data off-policy. The mismatch has two sources, the numerics of the engine and the stale weights of asynchronous sampling, and a correction that stabilizes training under one source can fail under the"
+          }
+        },
+        {
+          "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
+          "url": "https://huggingface.co/papers/2610.40799",
+          "summary": "O CaPtain oferece um pipeline de treinamento que combina tarefas de manipulação robótica com o processo de escrita de código. Este método utiliza processos de ajuste fino (fine-tuning) e aprendizagem por reforço (reinforcement learning) para agentes de inteligência artificial que permitem que robôs realizem operações escrevendo código através de interfaces de programação de aplicações (API).",
+          "meta": "6 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.40799",
+            "capturedAt": "2026-11-02T05:19:07.440Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40799",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/waltstephen/CaPtain",
+                "githubStars": 32
+              }
+            },
+            "description": "Across coding, web, and tool-use tasks, language-model agents are now routinely trained with the same recipe: supervised fine-tuning (SFT) to learn the interface, then multi-turn reinforcement learning (RL) to master it. Code-as-policy (CaP) casts robot manipulation in the same form, as the policy writes code against robot APIs and reads back the results, so the same recipe should apply. Yet existing CaP agents sidestep training: they either prompt closed frontier models or delegate manipulation"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "foundation model",
+      "explanation": "Modelos de inteligência artificial com capacidades fundamentais, treinados com dados massivos para serem usados em uma ampla variedade de tarefas."
+    },
+    {
+      "term": "API",
+      "explanation": "Ponto de conexão que permite que diferentes softwares troquem dados e se comuniquem entre si."
+    },
+    {
+      "term": "speech-to-text",
+      "explanation": "Tecnologia que detecta conversas de voz e as converte em texto escrito."
+    },
+    {
+      "term": "spatial AI",
+      "explanation": "Ramo da inteligência artificial que detecta e interpreta a posição de objetos e do ambiente no mundo tridimensional."
+    },
+    {
+      "term": "computer vision",
+      "explanation": "Tecnologia que permite aos computadores analisar imagens digitais e vídeos para extrair resultados significativos."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de compreender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Técnica que permite que modelos de inteligência artificial pesquisem e utilizem informações atualizadas de fontes externas, além de seus próprios dados, ao gerar respostas."
+    }
+  ]
+}

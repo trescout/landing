@@ -1,0 +1,483 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-02",
+  "capturedAt": "2026-11-02T05:19:07.224Z",
+  "editorial": "Rapora dahil edilen içerikler 30 gün boyunca tekrarlanmaz. Bu sürenin sonunda gündemde kalmaya devam eden kayıtlar, \"yeniden gündemde\" etiketiyle tekrar listelenir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "summary": "public-apis, yazılım geliştiricilerin projelerinde kullanabileceği ücretsiz uygulama programlama arayüzlerinin (API) derlendiği kapsamlı bir liste sunuyor. APILayer ise tek bir hesap ve anahtar üzerinden üretim seviyesinde REST API hizmetlerine erişim imkânı sağlıyor.",
+          "meta": "Python · ★ 494.892 · +324 bugün",
+          "snapshot": {
+            "sourceId": "public-apis/public-apis",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 494892,
+              "engagementCount": 324,
+              "rank": 6,
+              "extra": {
+                "starsToday": 324,
+                "baglam": "readme"
+              }
+            },
+            "description": "A collective list of free APIs. APILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result."
+          },
+          "returning": true
+        },
+        {
+          "title": "cjpais/Handy",
+          "url": "https://github.com/cjpais/Handy",
+          "summary": "cjpais/Handy, tamamen çevrim dışı çalışan ücretsiz ve açık kaynaklı bir konuşmayı metne çevirme (speech-to-text) uygulamasıdır. Rust diliyle geliştirilen bu araç, genişletilebilir bir yapı sunarak kullanıcıların sesli verileri yerel ortamda işlemesine olanak tanır.",
+          "meta": "Rust · ★ 36.754 · +339 bugün",
+          "snapshot": {
+            "sourceId": "cjpais/Handy",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 36754,
+              "engagementCount": 339,
+              "rank": 7,
+              "extra": {
+                "starsToday": 339,
+                "baglam": "readme"
+              }
+            },
+            "description": "A free, open source, and extensible speech-to-text application that works completely offline. A free, open source, and extensible speech-to-text application that works completely offline."
+          }
+        },
+        {
+          "title": "kornia/kornia",
+          "url": "https://github.com/kornia/kornia",
+          "summary": "Kornia, uzamsal yapay zekâ (spatial AI) uygulamaları için geliştirilmiş, türevlenebilir bilgisayarlı görü (computer vision) kütüphanesidir. Derin öğrenme çatısı PyTorch üzerinde çalışan bu araç, görüntü işleme ve geometrik görü algoritmalarını yapay zekâ iş akışlarına entegre etmeyi sağlar.",
+          "meta": "Python · ★ 11.886 · +101 bugün",
+          "snapshot": {
+            "sourceId": "kornia/kornia",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 11886,
+              "engagementCount": 101,
+              "rank": 9,
+              "extra": {
+                "starsToday": 101,
+                "baglam": "readme"
+              }
+            },
+            "description": "🐍 Geometric Computer Vision Library for Spatial AI. Kornia is a differentiable computer vision library that provides a rich set of differentiable image processing and geometric vision algorithms. Built on top of PyTorch, Kornia integrates seamlessly into existing AI workflows, allowing you to leverage powerful batch transformations, auto-differentiation and GPU acceleration."
+          }
+        },
+        {
+          "title": "beenuar/AiSOC",
+          "url": "https://github.com/beenuar/AiSOC",
+          "summary": "AiSOC, güvenlik operasyonlarını otomatize etmek için geliştirilmiş açık kaynaklı bir yapay zekâ güvenlik merkezi. Büyük dil modelleri (LLM) ile uyarıları sınıflandıran ve MITRE ATT&CK çerçevesiyle incelemeler yapan araç, API anahtarı gerektirmeden kendi sunucunuzda çalışabiliyor.",
+          "meta": "Python · ★ 6.360 · +446 bugün",
+          "snapshot": {
+            "sourceId": "beenuar/AiSOC",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6360,
+              "engagementCount": 446,
+              "rank": 10,
+              "extra": {
+                "starsToday": 446
+              }
+            },
+            "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue."
+          }
+        },
+        {
+          "title": "anomalyco/hex",
+          "url": "https://github.com/anomalyco/hex",
+          "summary": "Rust diliyle geliştirilen Hex, Mac, Windows ve Linux işletim sistemlerinde çalışan yerel bir sesli dikte aracıdır. Kullanıcıların bir tuşa basılı tutarak konuşmasını ve söylediklerinin metne dönüştürülmesini sağlar.",
+          "meta": "Rust · ★ 3.505 · +1.179 bugün",
+          "snapshot": {
+            "sourceId": "anomalyco/hex",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 3505,
+              "engagementCount": 1179,
+              "rank": 12,
+              "extra": {
+                "starsToday": 1179,
+                "baglam": "readme"
+              }
+            },
+            "description": "Local voice dictation for mac, windows and linux. Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes."
+          }
+        },
+        {
+          "title": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "summary": "patchy631/ai-engineering-hub, büyük dil modelleri (LLM), bilgi getirme destekli üretim (RAG) ve gerçek dünya yapay zekâ ajanı uygulamaları üzerine derinlemesine eğitimler sunuyor. Jupyter Notebook formatında hazırlanan bu kaynak, yapay zekâ tabanlı sistemler geliştirmek isteyenler için kapsamlı bir öğrenme merkezi işlevi görüyor.",
+          "meta": "Jupyter Notebook · ★ 40.482 · +1.191 bugün",
+          "snapshot": {
+            "sourceId": "patchy631/ai-engineering-hub",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 40482,
+              "engagementCount": 1191,
+              "rank": 15,
+              "extra": {
+                "starsToday": 1191,
+                "baglam": "readme"
+              }
+            },
+            "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications. Welcome to the AI Engineering Hub - your comprehensive resource for learning and building with AI!"
+          }
+        },
+        {
+          "title": "FlashML-org/FreeToken",
+          "url": "https://github.com/FlashML-org/FreeToken",
+          "summary": "FlashML-org/FreeToken, veri merkezi ölçeğindeki büyük yapay zekâ modellerini kişisel bilgisayarlarda hızlı ve verimli bir şekilde çalıştırmayı sağlayan bir kütüphanedir. Kullanıcıların 290 milyar parametre üzerindeki uzman karışımı (Mixture of Experts, MoE) modellerini standart donanımlar üzerinde etkileşimli hızlarda kullanmasına olanak tanır.",
+          "meta": "Python · ★ 15.543 · +242 bugün",
+          "snapshot": {
+            "sourceId": "FlashML-org/FreeToken",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 15543,
+              "engagementCount": 242,
+              "rank": 16,
+              "extra": {
+                "starsToday": 242,
+                "baglam": "readme"
+              }
+            },
+            "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds."
+          }
+        },
+        {
+          "title": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "summary": "Hyprland, görsel estetikten ödün vermeyen, yüksek düzeyde özelleştirilebilir bir dinamik döşemeli Wayland birleştiricisi (Wayland compositor). C++ diliyle geliştirilen bu bağımsız yazılım, kullanıcıların masaüstü ortamlarını kendi tercihlerine göre yapılandırmalarına olanak tanıyor.",
+          "meta": "C++ · ★ 39.480 · +38 bugün",
+          "snapshot": {
+            "sourceId": "hyprwm/Hyprland",
+            "capturedAt": "2026-11-02T05:19:08.803Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 39480,
+              "engagementCount": 38,
+              "rank": 17,
+              "extra": {
+                "starsToday": 38,
+                "baglam": "readme"
+              }
+            },
+            "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+          },
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "url": "https://hackerbooks.org/",
+          "summary": "HackerBooks, Hacker News platformunda en az iki farklı kullanıcı tarafından önerilen 16.500 civarı kitabı listeleyen bir platformdur. Kullanıcıların kitaplara dair yapılan yorumlara doğrudan ulaşmasını sağlayan bu proje, Claude Opus 5.5 kullanılarak geliştirilmiştir.",
+          "meta": "1.125 oy · 204 yorum",
+          "snapshot": {
+            "sourceId": "50326821",
+            "capturedAt": "2026-11-02T05:19:07.609Z",
+            "metadata": {
+              "popularity": 1125,
+              "engagementCount": 204,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50326821",
+                  "popularity": 1125,
+                  "engagementCount": 204
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-01T15:58:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50326821"
+              }
+            },
+            "description": "Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).It&#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.T"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50326821",
+              "popularity": 1125,
+              "engagementCount": 204
+            }
+          ]
+        },
+        {
+          "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+          "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+          "summary": "Lenovo tarafından şifreli olduğu belirtilen parmak izi okuyuculu USB sürücünün, aslında sadece bir kılıf içerisine yerleştirilmiş şifrelenmemiş bir SD karttan ibaret olduğu ortaya çıktı. Bu durum, ürünün sunduğu güvenlik özelliklerinin gerçeği yansıtmadığını gösteriyor.",
+          "meta": "432 oy · 155 yorum",
+          "snapshot": {
+            "sourceId": "50326099",
+            "capturedAt": "2026-11-02T05:19:07.609Z",
+            "metadata": {
+              "popularity": 432,
+              "engagementCount": 155,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50326099",
+                  "popularity": 432,
+                  "engagementCount": 155
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-01T14:34:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50326099"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50326099",
+              "popularity": 432,
+              "engagementCount": 155
+            }
+          ]
+        },
+        {
+          "title": "The AI cost of JavaScript frameworks",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+          "summary": "JavaScript çerçevelerinin (frameworks) web geliştirme süreçlerinde yarattığı performans maliyetleri, yapay zekâ araçlarının bu ekosistem üzerindeki etkisiyle tartışılıyor. Geliştiricilerin teknik kararları veriye dayalı analizler yerine genel kanılara göre aldığı eleştiriliyor.",
+          "meta": "334 oy · 254 yorum",
+          "snapshot": {
+            "sourceId": "50323088",
+            "capturedAt": "2026-11-02T05:19:07.609Z",
+            "metadata": {
+              "popularity": 334,
+              "engagementCount": 254,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50323088",
+                  "popularity": 334,
+                  "engagementCount": 254
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-01T06:06:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50323088",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50323088",
+              "popularity": 334,
+              "engagementCount": 254
+            }
+          ]
+        },
+        {
+          "title": "Mathematics has changed. Let's act like it",
+          "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+          "summary": "Matematik disiplininin yapay zekâ araçlarının gelişimiyle birlikte geçirdiği dönüşüm, bu alandaki çalışma yöntemlerinin güncellenmesi gerektiğini ortaya koyuyor. Frank Calegari tarafından kaleme alınan yazı, OpenAI tarafından duyurulan yeni teknolojilerin matematiksel süreçler üzerindeki etkilerini değerlendirerek değişime uyum sağlama çağrısında bulunuyor.",
+          "meta": "254 oy · 278 yorum",
+          "snapshot": {
+            "sourceId": "50328251",
+            "capturedAt": "2026-11-02T05:19:07.609Z",
+            "metadata": {
+              "popularity": 254,
+              "engagementCount": 278,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50328251",
+                  "popularity": 254,
+                  "engagementCount": 278
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-01T18:28:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50328251",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "[This is a guest post by Frank Calegari. This blog post was initially written in a different file format and converted using AI. — T.] Why we should not be sad The release by OpenAI on Octobe…"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50328251",
+              "popularity": 254,
+              "engagementCount": 278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents",
+          "url": "https://huggingface.co/papers/2610.39086",
+          "summary": "Hugging Face tarafından paylaşılan HALO, proaktif ajanların (proactive agents) kullanıcılardan açık bir talep gelmeden yardım etme süreçlerini değerlendirmek için geliştirilmiş insan odaklı bir yöntemdir. Bu çalışma, ajanların müdahale kalitesini ve kanıt kullanımını dört farklı ihtiyaç türü üzerinden detaylı bir şekilde analiz etmeyi amaçlar.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.39086",
+            "capturedAt": "2026-11-02T05:19:07.440Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.39086",
+                "publishedAt": "2026-10-29T00:00:00.000Z"
+              }
+            },
+            "description": "Proactive agents must decide whether, when, and how far to assist without an explicit request. Existing evaluations often rely on automated scores or binary verdicts, offering limited human diagnosis of evidence use and intervention quality. To address these gaps, we introduce HALO, Human-Grounded GrAnular EvaLuation of PrOactive Agents. HALO-Arena covers 4 proactive need types, Dependency, Blockage, Risk, and Opportunity, across 10 everyday domains and 50 personal environments. Scenarios requir"
+          }
+        },
+        {
+          "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
+          "url": "https://huggingface.co/papers/2610.40738",
+          "summary": "Hugging Face üzerinde paylaşılan Apriel Voice 27B Preview, konuşma tanıma, akıl yürütme ve araç kullanımı yeteneklerini tek bir yapay zekâ modelinde birleştiren açık kaynaklı bir sesli asistandır. Gemma 4 26B-A4B temel alınarak geliştirilen model, metin ve görsel girdileri desteklerken doğrudan ses işleme ve araç çağırma işlemleri gerçekleştirebilir.",
+          "meta": "5 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.40738",
+            "capturedAt": "2026-11-02T05:19:07.440Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40738",
+                "publishedAt": "2026-10-29T00:00:00.000Z"
+              }
+            },
+            "description": "A capable voice assistant must do more than recognize words; it must understand requests, reason over context, sustain conversations, and act through tools. We present Apriel Voice 27B Preview, an open speech-language model that unifies these capabilities within a shared reasoning backbone while retaining text and image input modalities. Built on the post-trained Gemma 4 26B-A4B checkpoint, Apriel Voice directly processes speech and generates both responses and tool calls without requiring a sep"
+          }
+        },
+        {
+          "title": "Probing Spatial State Representations in Visual Foundation Models",
+          "url": "https://huggingface.co/papers/2610.40636",
+          "summary": "Hugging Face üzerinde paylaşılan Probing Spatial State Representations in Visual Foundation Models makalesi, görsel temel modellerin (visual foundation models) çevreyi algılama ve mekânsal sürekliliği koruma yeteneklerini inceliyor. Çalışma, modellerin nesne kalıcılığı ve tahmine dayalı mekânsal güncelleme gibi konularda ne düzeyde temsil sağladığını dört farklı yetenek seviyesi üzerinden değerlendiriyor.",
+          "meta": "5 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.40636",
+            "capturedAt": "2026-11-02T05:19:07.440Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40636",
+                "publishedAt": "2026-10-29T17:58:16.000Z"
+              }
+            },
+            "description": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is updated under self-motion and used to guide action. Do visual foundation models provide representations that support such a state? We study this question through four levels of spatial capability---spatial structure, object persistence, predictive spatial update"
+          }
+        },
+        {
+          "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2610.40945",
+          "summary": "Hugging Face üzerinde yayımlanan makale, büyük dil modellerinin (LLM) pekiştirmeli öğrenme (reinforcement learning) süreçlerinde eğitim ve çıkarım aşamaları arasında oluşan uyumsuzluğu inceliyor. Bu durumun sayısal farklılıklar ve eşzamansız örneklemeden kaynaklanan ağırlık eskimesinden doğduğunu belirten çalışma, mevcut düzeltme yöntemlerinin her iki sorunu çözmekte yetersiz kalabildiğini vurguluyor.",
+          "meta": "4 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.40945",
+            "capturedAt": "2026-11-02T05:19:07.440Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40945",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Skylanding/Training-Inference-Mismatch",
+                "githubStars": 2
+              }
+            },
+            "description": "On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate trainer computes the gradients, and the training-inference mismatch between the two makes the training data off-policy. The mismatch has two sources, the numerics of the engine and the stale weights of asynchronous sampling, and a correction that stabilizes training under one source can fail under the"
+          }
+        },
+        {
+          "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
+          "url": "https://huggingface.co/papers/2610.40799",
+          "summary": "CaPtain, robotik manipülasyon görevlerini kod yazma süreciyle birleştiren bir eğitim hattı (pipeline) sunuyor. Bu yöntem, robotların uygulama programlama arayüzleri (API) üzerinden kod yazarak işlem yapmasını sağlayan yapay zekâ ajanları için denetimli ince ayar (fine-tuning) ve pekiştirmeli öğrenme (reinforcement learning) süreçlerini kullanıyor.",
+          "meta": "6 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.40799",
+            "capturedAt": "2026-11-02T05:19:07.440Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40799",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/waltstephen/CaPtain",
+                "githubStars": 32
+              }
+            },
+            "description": "Across coding, web, and tool-use tasks, language-model agents are now routinely trained with the same recipe: supervised fine-tuning (SFT) to learn the interface, then multi-turn reinforcement learning (RL) to master it. Code-as-policy (CaP) casts robot manipulation in the same form, as the policy writes code against robot APIs and reads back the results, so the same recipe should apply. Yet existing CaP agents sidestep training: they either prompt closed frontier models or delegate manipulation"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "foundation model",
+      "explanation": "Çok çeşitli görevlerde kullanılmak üzere devasa verilerle eğitilmiş, temel yeteneklere sahip yapay zekâ modelleri."
+    },
+    {
+      "term": "API",
+      "explanation": "Farklı yazılımların birbirleriyle veri alışverişi yapmasını ve birbiriyle konuşmasını sağlayan bağlantı noktası."
+    },
+    {
+      "term": "speech-to-text",
+      "explanation": "Sesli konuşmaları algılayıp bunları yazılı metin haline getiren teknoloji."
+    },
+    {
+      "term": "spatial AI",
+      "explanation": "Nesnelerin ve ortamın üç boyutlu dünyadaki konumunu algılayıp anlamlandıran yapay zekâ dalı."
+    },
+    {
+      "term": "computer vision",
+      "explanation": "Bilgisayarların dijital görüntüleri ve videoları analiz ederek anlamlı sonuçlar çıkarmasını sağlayan teknoloji."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekâ modellerinin cevap üretirken kendi verisi dışında dış kaynaklardaki güncel bilgileri de tarayıp kullanmasını sağlayan teknik."
+    }
+  ]
+}
