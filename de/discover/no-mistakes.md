@@ -2,16 +2,16 @@
 
 No-Mistakes wurde mit der Go-Sprache entwickelt und ist ein Befehlszeilentool, das Softwareentwickler daran hindern soll, fehlerhaften Code einzureichen (Git Push). Durch die Ausführung in der lokalen Entwicklungsumgebung bietet es eine Sicherheitsebene, die verhindert, dass unerwünschte Änderungen in die Codebasis übertragen werden.
 
-- ★ 8.661
+- ★ 9.095
 - Go
 - GitHub Trending · 2026-06-25
 
 ## Aktualisierungen
 
+- **2. November 2026:** Sterne 8,661 → 9,095, neueste Version v1.106.1 (31. Oktober 2026).
 - **28. September 2026:** Sterne 8,642 → 8,661, neueste Version v1.84.0 (26. September 2026).
 - **27. September 2026:** Sterne 8,520 → 8,642, neueste Version v1.79.0 (19. September 2026).
 - **17. September 2026:** Sterne 8,385 → 8,520, neueste Version v1.75.2 (14. September 2026).
-- **10. September 2026:** Sterne 8,351 → 8,385, neueste Version v1.72.0 (8. September 2026).
 
 ## Was es bringt
 

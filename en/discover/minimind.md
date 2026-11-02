@@ -75,9 +75,9 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Tokenizer](https://trescout.com/en/dictionary/tokenizer/)
 - [LoRA](https://trescout.com/en/dictionary/lora/)
-- [VRAM](https://trescout.com/en/dictionary/vram/)
 - [Attention](https://trescout.com/en/dictionary/attention/)
 - [Transformer](https://trescout.com/en/dictionary/transformer/)
+- [VRAM](https://trescout.com/en/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/en/dictionary/apple-silicon/)
 
 - **Who it is for:** AI researchers, machine learning engineers, data scientists, and students.

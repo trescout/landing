@@ -75,9 +75,9 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Tokenizer](https://trescout.com/es/dictionary/tokenizer/)
 - [LoRA](https://trescout.com/es/dictionary/lora/)
-- [VRAM](https://trescout.com/es/dictionary/vram/)
 - [Attention](https://trescout.com/es/dictionary/attention/)
 - [Transformer](https://trescout.com/es/dictionary/transformer/)
+- [VRAM](https://trescout.com/es/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/es/dictionary/apple-silicon/)
 
 - **Para quién es:** Investigadores de IA, ingenieros de aprendizaje automático, científicos de datos y estudiantes.

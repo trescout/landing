@@ -2,16 +2,16 @@
 
 T3Code is a toolset developed to improve and standardize code quality in TypeScript-based projects. It provides automation support to developers in type safety and code editing processes.
 
-- ★ 36,159
+- ★ 39,144
 - TypeScript
 - GitHub Trending · 2026-07-13
 
 ## Updates
 
+- **November 2, 2026:** Stars 36,159 → 39,144, latest release v0.1.6 (October 31, 2026).
 - **November 1, 2026:** Stars 32,044 → 36,159, latest release v0.1.6 (October 31, 2026).
 - **October 30, 2026:** Stars 31,263 → 32,044, latest release v0.1.5 (October 29, 2026).
 - **October 29, 2026:** Stars 30,598 → 31,263, latest release v0.1.4 (October 29, 2026).
-- **October 27, 2026:** Stars 29,541 → 30,598, latest release v0.1.3 (October 27, 2026).
 
 ## What you get
 

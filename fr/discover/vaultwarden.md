@@ -2,12 +2,13 @@
 
 Vaultwarden est un logiciel de serveur open source développé en langage Rust, compatible avec l'outil de gestion de mots de passe Bitwarden.
 
-- ★ 68 594
+- ★ 70 083
 - Rust
 - GitHub Trending · 2026-08-24
 
 ## Mises à jour
 
+- **2 novembre 2026:** Étoiles 68,594 → 70,083, dernière version 1.37.5 (1 novembre 2026).
 - **6 octobre 2026:** Étoiles 67,398 → 68,594, dernière version 1.37.4 (5 octobre 2026).
 - **14 septembre 2026:** Étoiles 65,982 → 67,398, dernière version 1.37.3 (13 septembre 2026).
 - **24 août 2026:** Étoiles 65,983 → 65,982, dernière version 1.37.2 (22 août 2026).

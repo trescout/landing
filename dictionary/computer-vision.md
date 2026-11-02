@@ -42,6 +42,7 @@ Evet, düşük kaliteli görüntülerde veya daha önce hiç görmediği bir nes
 
 - [Opencv](https://trescout.com/discover/opencv/)
 - [Supervision](https://trescout.com/discover/supervision/)
+- [Kornia](https://trescout.com/discover/kornia/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

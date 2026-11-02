@@ -33,8 +33,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Jupyter Notebooks](https://trescout.com/dictionary/jupyter-notebooks/)
 - [Generative AI](https://trescout.com/dictionary/generative-ai/)
+- [Jupyter Notebooks](https://trescout.com/dictionary/jupyter-notebooks/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

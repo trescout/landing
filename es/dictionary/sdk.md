@@ -44,8 +44,8 @@ Se puede escribir, pero hay que codificar todo desde cero, lo que lleva demasiad
 
 - [Servers](https://trescout.com/es/discover/servers/)
 - [Cline](https://trescout.com/es/discover/cline/)
-- [Sentry](https://trescout.com/es/discover/sentry/)
 - [Freellmapi](https://trescout.com/es/discover/freellmapi/)
+- [Sentry](https://trescout.com/es/discover/sentry/)
 - [CUA](https://trescout.com/es/discover/cua/)
 - [Opendataloader PDF](https://trescout.com/es/discover/opendataloader-pdf/)
 - [iii](https://trescout.com/es/discover/iii/)

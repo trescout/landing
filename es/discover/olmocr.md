@@ -50,8 +50,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Markdown](https://trescout.com/es/dictionary/markdown/)
 - [Large Language Models](https://trescout.com/es/dictionary/large-language-models/)
-- [GPU](https://trescout.com/es/dictionary/gpu/)
 - [PDF](https://trescout.com/es/dictionary/pdf/)
+- [GPU](https://trescout.com/es/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para investigadores y desarrolladores que desean convertir documentos PDF complejos en conjuntos de datos para modelos de lenguaje grandes.

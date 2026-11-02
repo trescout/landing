@@ -24,8 +24,8 @@ Para iniciar o conteúdo do treinamento, você pode visitar a página oficial no
 
 ## Termos relacionados do glossário
 
-- [Jupyter Notebooks](https://trescout.com/pt/dictionary/jupyter-notebooks/)
 - [Generative AI](https://trescout.com/pt/dictionary/generative-ai/)
+- [Jupyter Notebooks](https://trescout.com/pt/dictionary/jupyter-notebooks/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores com conhecimento básico de Python ou TypeScript que desejam entrar no mundo da inteligência artificial produtiva.

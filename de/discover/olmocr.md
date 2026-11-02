@@ -50,8 +50,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Markdown](https://trescout.com/de/dictionary/markdown/)
 - [Large Language Models](https://trescout.com/de/dictionary/large-language-models/)
-- [GPU](https://trescout.com/de/dictionary/gpu/)
 - [PDF](https://trescout.com/de/dictionary/pdf/)
+- [GPU](https://trescout.com/de/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Forscher und Entwickler, die komplexe PDF-Dokumente in Datensätze für große Sprachmodelle konvertieren möchten.

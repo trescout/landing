@@ -44,8 +44,8 @@ Yazılır ama her şeyi sıfırdan kodlamanız gerekir, bu da çok uzun sürer.
 
 - [Servers](https://trescout.com/discover/servers/)
 - [Cline](https://trescout.com/discover/cline/)
-- [Sentry](https://trescout.com/discover/sentry/)
 - [Freellmapi](https://trescout.com/discover/freellmapi/)
+- [Sentry](https://trescout.com/discover/sentry/)
 - [CUA](https://trescout.com/discover/cua/)
 - [Opendataloader PDF](https://trescout.com/discover/opendataloader-pdf/)
 - [iii](https://trescout.com/discover/iii/)

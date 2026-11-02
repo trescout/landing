@@ -59,8 +59,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Markdown](https://trescout.com/dictionary/markdown/)
 - [Large Language Models](https://trescout.com/dictionary/large-language-models/)
-- [GPU](https://trescout.com/dictionary/gpu/)
 - [PDF](https://trescout.com/dictionary/pdf/)
+- [GPU](https://trescout.com/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

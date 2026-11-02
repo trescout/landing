@@ -92,9 +92,9 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Tokenizer](https://trescout.com/dictionary/tokenizer/)
 - [LoRA](https://trescout.com/dictionary/lora/)
-- [VRAM](https://trescout.com/dictionary/vram/)
 - [Attention](https://trescout.com/dictionary/attention/)
 - [Transformer](https://trescout.com/dictionary/transformer/)
+- [VRAM](https://trescout.com/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/dictionary/apple-silicon/)
 
 ---

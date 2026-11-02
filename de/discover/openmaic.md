@@ -2,16 +2,16 @@
 
 OpenMAIC, entwickelt von Forschern der Tsinghua-Universität, vereint mehrere Agenten der künstlichen Intelligenz in den Rollen von Lehrern, Schülern und Beobachtern in einer interaktiven Klassenzimmerumgebung.
 
-- ★ 41.789
+- ★ 42.448
 - TypeScript
 - GitHub Trending · 2026-08-31
 
 ## Aktualisierungen
 
+- **2. November 2026:** Sterne 41,789 → 42,448, neueste Version v1.3.1 (2. November 2026).
 - **30. Oktober 2026:** Sterne 41,041 → 41,789, neueste Version v1.3.0 (29. Oktober 2026).
 - **19. Oktober 2026:** Sterne 40,871 → 41,041, neueste Version v1.2.1 (18. Oktober 2026).
 - **16. Oktober 2026:** Sterne 40,363 → 40,871, neueste Version v1.2.0 (16. Oktober 2026).
-- **11. Oktober 2026:** Sterne 39,969 → 40,363, neueste Version v1.1.4 (11. Oktober 2026).
 
 ## Was es bringt
 
@@ -77,8 +77,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Frontend](https://trescout.com/de/dictionary/frontend/)
 - [Markdown](https://trescout.com/de/dictionary/markdown/)
-- [GPU](https://trescout.com/de/dictionary/gpu/)
 - [PDF](https://trescout.com/de/dictionary/pdf/)
+- [GPU](https://trescout.com/de/dictionary/gpu/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
 

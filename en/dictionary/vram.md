@@ -41,6 +41,7 @@ The AI ​​model becomes too slow or stops working with an 'out of memory' err
 - [Minimind](https://trescout.com/en/discover/minimind/)
 - [Colibri](https://trescout.com/en/discover/colibri/)
 - [Airllm](https://trescout.com/en/discover/airllm/)
+- [FreeToken](https://trescout.com/en/discover/freetoken/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/vram/)
 

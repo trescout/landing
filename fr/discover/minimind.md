@@ -75,9 +75,9 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Tokenizer](https://trescout.com/fr/dictionary/tokenizer/)
 - [LoRA](https://trescout.com/fr/dictionary/lora/)
-- [VRAM](https://trescout.com/fr/dictionary/vram/)
 - [Attention](https://trescout.com/fr/dictionary/attention/)
 - [Transformer](https://trescout.com/fr/dictionary/transformer/)
+- [VRAM](https://trescout.com/fr/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/fr/dictionary/apple-silicon/)
 
 - **Pour qui:** Chercheurs en IA, ingénieurs en apprentissage automatique, data scientists et étudiants.

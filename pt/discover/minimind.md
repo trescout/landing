@@ -75,9 +75,9 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [Tokenizer](https://trescout.com/pt/dictionary/tokenizer/)
 - [LoRA](https://trescout.com/pt/dictionary/lora/)
-- [VRAM](https://trescout.com/pt/dictionary/vram/)
 - [Attention](https://trescout.com/pt/dictionary/attention/)
 - [Transformer](https://trescout.com/pt/dictionary/transformer/)
+- [VRAM](https://trescout.com/pt/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/pt/dictionary/apple-silicon/)
 
 - **Para quem é:** Pesquisadores de inteligência artificial, engenheiros de aprendizado de máquina, cientistas de dados e estudantes.

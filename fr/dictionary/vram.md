@@ -41,6 +41,7 @@ Le modèle d'IA devient trop lent ou cesse de fonctionner avec une erreur « mé
 - [Minimind](https://trescout.com/fr/discover/minimind/)
 - [Colibri](https://trescout.com/fr/discover/colibri/)
 - [Airllm](https://trescout.com/fr/discover/airllm/)
+- [FreeToken](https://trescout.com/fr/discover/freetoken/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/vram/)
 

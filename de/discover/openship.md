@@ -2,16 +2,16 @@
 
 OpenShip bietet eine Anwendungsverteilungsplattform, die Benutzer auf ihren eigenen Servern hosten können. Dieses mit der TypeScript-Sprache entwickelte Tool ermöglicht Self-Hosting-Prozesse als Alternative zu cloudbasierten Infrastrukturdiensten.
 
-- ★ 14.928
+- ★ 15.029
 - TypeScript
 - GitHub Trending · 2026-07-21
 
 ## Aktualisierungen
 
+- **2. November 2026:** Sterne 14,928 → 15,029, neueste Version v0.9.7 (1. November 2026).
 - **25. Oktober 2026:** Sterne 14,787 → 14,928, neueste Version v0.9.5 (24. Oktober 2026).
 - **17. Oktober 2026:** Sterne 14,772 → 14,787, neueste Version v0.9.3 (17. Oktober 2026).
 - **16. Oktober 2026:** Sterne 14,714 → 14,772, neueste Version v0.9.2 (16. Oktober 2026).
-- **13. Oktober 2026:** Sterne 14,701 → 14,714, neueste Version v0.9.1 (13. Oktober 2026).
 
 ## Was es bringt
 

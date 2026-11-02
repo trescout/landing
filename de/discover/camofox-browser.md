@@ -2,16 +2,16 @@
 
 Camofox ist ein Stealth-Headless-Browser, der es KI-Agenten ermöglicht, Bot-Erkennungssysteme und Web-Scraping-Blockaden zu umgehen. Er arbeitet direkt mit den Browser-Automatisierungstools Puppeteer und Playwright zusammen und bietet eine Alternative zu diesen Bibliotheken.
 
-- ★ 11.460
+- ★ 12.109
 - JavaScript
 - GitHub Trending · 2026-09-08
 
 ## Aktualisierungen
 
+- **2. November 2026:** Sterne 11,460 → 12,109, neueste Version camoufox-backup-428447379 (2. November 2026).
 - **7. Oktober 2026:** Sterne 11,433 → 11,460, neueste Version camoufox-backup-404310733 (7. Oktober 2026).
 - **5. Oktober 2026:** Sterne 11,411 → 11,433, neueste Version v1.18.1 (5. Oktober 2026).
 - **4. Oktober 2026:** Sterne 11,292 → 11,411, neueste Version camoufox-backup-402708180 (4. Oktober 2026).
-- **1. Oktober 2026:** Sterne 11,228 → 11,292, neueste Version v1.18.0 (30. September 2026).
 
 ## Was es bringt
 

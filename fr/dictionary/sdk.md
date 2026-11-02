@@ -44,8 +44,8 @@ Cela peut être écrit, mais il faut tout coder à partir de zéro, ce qui prend
 
 - [Servers](https://trescout.com/fr/discover/servers/)
 - [Cline](https://trescout.com/fr/discover/cline/)
-- [Sentry](https://trescout.com/fr/discover/sentry/)
 - [Freellmapi](https://trescout.com/fr/discover/freellmapi/)
+- [Sentry](https://trescout.com/fr/discover/sentry/)
 - [CUA](https://trescout.com/fr/discover/cua/)
 - [Opendataloader PDF](https://trescout.com/fr/discover/opendataloader-pdf/)
 - [iii](https://trescout.com/fr/discover/iii/)

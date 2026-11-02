@@ -44,8 +44,8 @@ It can be written, but you have to code everything from scratch, which takes too
 
 - [Servers](https://trescout.com/en/discover/servers/)
 - [Cline](https://trescout.com/en/discover/cline/)
-- [Sentry](https://trescout.com/en/discover/sentry/)
 - [Freellmapi](https://trescout.com/en/discover/freellmapi/)
+- [Sentry](https://trescout.com/en/discover/sentry/)
 - [CUA](https://trescout.com/en/discover/cua/)
 - [Opendataloader PDF](https://trescout.com/en/discover/opendataloader-pdf/)
 - [iii](https://trescout.com/en/discover/iii/)

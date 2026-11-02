@@ -41,6 +41,7 @@ Yapay zekâ modeli çok yavaşlar veya 'bellek yetersiz' hatası vererek çalı�
 - [Minimind](https://trescout.com/discover/minimind/)
 - [Colibri](https://trescout.com/discover/colibri/)
 - [Airllm](https://trescout.com/discover/airllm/)
+- [FreeToken](https://trescout.com/discover/freetoken/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

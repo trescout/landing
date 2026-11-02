@@ -44,6 +44,7 @@ Sim, pode ser confundido com imagens de baixa qualidade ou com um objeto que nun
 
 - [Opencv](https://trescout.com/pt/discover/opencv/)
 - [Supervision](https://trescout.com/pt/discover/supervision/)
+- [Kornia](https://trescout.com/pt/discover/kornia/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/computer-vision/)
 

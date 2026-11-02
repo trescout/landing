@@ -66,9 +66,9 @@ El mejor enfoque es borrar las salidas de las celdas (Borrar todas las salidas) 
 - [Dive Into Llms](https://trescout.com/es/discover/dive-into-llms/)
 - [Claude Cookbooks](https://trescout.com/es/discover/claude-cookbooks/)
 - [Airllm](https://trescout.com/es/discover/airllm/)
+- [AI Engineering Hub](https://trescout.com/es/discover/ai-engineering-hub/)
 - [Machine Learning for Trading](https://trescout.com/es/discover/machine-learning-for-trading/)
 - [The Craft of Selfteaching](https://trescout.com/es/discover/the-craft-of-selfteaching/)
-- [Train LLM from Scratch](https://trescout.com/es/discover/train-llm-from-scratch/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/jupyter-notebooks/)
 

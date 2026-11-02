@@ -10164,5 +10164,31 @@
     "kisa_es": "Es una estructura de diseño de sistemas avanzada creada mediante la combinación de tres principios de funcionamiento o tecnologías diferentes.",
     "kisa_pt": "É uma estrutura de design de sistema avançada criada pela combinação de três princípios de funcionamento ou tecnologias diferentes.",
     "kisa_de": "Es handelt sich um eine fortgeschrittene Systemarchitektur, die durch die Kombination von drei verschiedenen Funktionsprinzipien oder Technologien gebildet wird."
+  },
+  {
+    "slug": "spatial-ai",
+    "en": "Spatial AI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Fiziksel dünyayı ve nesnelerin 3B konumlarını algılayıp anlamlandıran yapay zekâ teknolojisidir.",
+    "date": "2026-11-02",
+    "kisa_en": "It is an artificial intelligence technology that perceives and interprets the physical world and the 3D positions of objects.",
+    "kisa_fr": "C'est une technologie d'intelligence artificielle qui perçoit et interprète le monde physique ainsi que la position 3D des objets.",
+    "kisa_es": "Es la tecnología de inteligencia artificial que percibe y comprende el mundo físico y las posiciones 3D de los objetos.",
+    "kisa_pt": "É a tecnologia de inteligência artificial que percebe e compreende o mundo físico e as posições 3D dos objetos.",
+    "kisa_de": "Es ist eine Technologie der künstlichen Intelligenz, die die physische Welt und die 3D-Positionen von Objekten wahrnimmt und interpretiert."
+  },
+  {
+    "slug": "charting",
+    "en": "Charting",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Karmaşık veri kümelerini veya hesaplama sonuçlarını görsel grafikler ve haritalar hâline getirme işlemidir.",
+    "date": "2026-11-02",
+    "kisa_en": "It is the process of converting complex datasets or computational results into visual charts and maps.",
+    "kisa_fr": "C'est le processus de conversion de jeux de données complexes ou de résultats de calcul en graphiques visuels et en cartes.",
+    "kisa_es": "Es el proceso de transformar conjuntos de datos complejos o resultados de cálculos en gráficos visuales y mapas.",
+    "kisa_pt": "É o processo de transformar conjuntos de dados complexos ou resultados de cálculo em gráficos visuais e mapas.",
+    "kisa_de": "Es ist der Prozess, komplexe Datensätze oder Berechnungsergebnisse in visuelle Grafiken und Karten umzuwandeln."
   }
 ]

@@ -50,8 +50,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Markdown](https://trescout.com/fr/dictionary/markdown/)
 - [Large Language Models](https://trescout.com/fr/dictionary/large-language-models/)
-- [GPU](https://trescout.com/fr/dictionary/gpu/)
 - [PDF](https://trescout.com/fr/dictionary/pdf/)
+- [GPU](https://trescout.com/fr/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux chercheurs et aux développeurs qui souhaitent convertir des documents PDF complexes en ensembles de données pour de grands modèles de langage.

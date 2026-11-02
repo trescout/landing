@@ -70,6 +70,7 @@ En el servicio en la nube el sonido se apaga. En reuniones delicadas se prefiere
 
 ## Herramientas relacionadas
 
+- [Handy](https://trescout.com/es/discover/handy/)
 - [Transcribe.cpp](https://trescout.com/es/discover/transcribe-cpp/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/speech-to-text/)

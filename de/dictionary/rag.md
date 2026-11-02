@@ -70,7 +70,7 @@ Sie benötigen Dokumentparser, Textfragmentierungstools, ein Einbettungsmodell, 
 - [DeepTutor](https://trescout.com/de/discover/deeptutor/)
 - [GitNexus](https://trescout.com/de/discover/gitnexus/)
 - [OpenViking](https://trescout.com/de/discover/openviking/)
-- [PageIndex](https://trescout.com/de/discover/pageindex/)
+- [AI Engineering Hub](https://trescout.com/de/discover/ai-engineering-hub/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/rag/)
 

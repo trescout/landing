@@ -2,12 +2,13 @@
 
 Kruk2/jasna, videoları iyileştirmek için geliştirilmiş bir video onarım aracıdır (video restoration tool). Python diliyle yazılan bu proje, görüntü kalitesini artırmaya yönelik teknik süreçleri otomatize eder.
 
-- ★ 3.317
+- ★ 4.295
 - Python
 - GitHub Trending · 2026-10-19
 
 ## Güncelleme
 
+- **2 Kasım 2026:** Yıldız 3.317 → 4.295, son sürüm v0.12.1 (1 Kasım 2026).
 - **21 Ekim 2026:** Yıldız 2.671 → 3.317, son sürüm v0.11.3 (20 Ekim 2026).
 - **19 Ekim 2026:** Yıldız 2.659 → 2.671, son sürüm v0.11.2 (17 Ekim 2026).
 

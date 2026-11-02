@@ -41,6 +41,7 @@ Das KI-Modell wird zu langsam oder funktioniert nicht mehr mit der Fehlermeldung
 - [Minimind](https://trescout.com/de/discover/minimind/)
 - [Colibri](https://trescout.com/de/discover/colibri/)
 - [Airllm](https://trescout.com/de/discover/airllm/)
+- [FreeToken](https://trescout.com/de/discover/freetoken/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/vram/)
 

@@ -50,8 +50,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Markdown](https://trescout.com/en/dictionary/markdown/)
 - [Large Language Models](https://trescout.com/en/dictionary/large-language-models/)
-- [GPU](https://trescout.com/en/dictionary/gpu/)
 - [PDF](https://trescout.com/en/dictionary/pdf/)
+- [GPU](https://trescout.com/en/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for researchers and developers who want to convert complex PDF documents into datasets for large language models.

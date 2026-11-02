@@ -42,7 +42,7 @@ Hem çok hızlı olması hem de yazılım hatalarını ciddi oranda azaltması n
 - [BUN](https://trescout.com/discover/bun/)
 - [OpenCut](https://trescout.com/discover/opencut/)
 - [AI Engineering from Scratch](https://trescout.com/discover/ai-engineering-from-scratch/)
-- [Openinterpreter](https://trescout.com/discover/openinterpreter/)
+- [Vaultwarden](https://trescout.com/discover/vaultwarden/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

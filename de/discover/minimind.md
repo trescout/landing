@@ -75,9 +75,9 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Tokenizer](https://trescout.com/de/dictionary/tokenizer/)
 - [LoRA](https://trescout.com/de/dictionary/lora/)
-- [VRAM](https://trescout.com/de/dictionary/vram/)
 - [Attention](https://trescout.com/de/dictionary/attention/)
 - [Transformer](https://trescout.com/de/dictionary/transformer/)
+- [VRAM](https://trescout.com/de/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/de/dictionary/apple-silicon/)
 
 - **Für wen es gedacht ist:** KI-Forscher, Ingenieure für maschinelles Lernen, Datenwissenschaftler und Studenten.

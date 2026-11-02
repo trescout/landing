@@ -44,8 +44,8 @@ Pode ser escrito, mas é preciso codificar tudo do zero, o que leva muito tempo.
 
 - [Servers](https://trescout.com/pt/discover/servers/)
 - [Cline](https://trescout.com/pt/discover/cline/)
-- [Sentry](https://trescout.com/pt/discover/sentry/)
 - [Freellmapi](https://trescout.com/pt/discover/freellmapi/)
+- [Sentry](https://trescout.com/pt/discover/sentry/)
 - [CUA](https://trescout.com/pt/discover/cua/)
 - [Opendataloader PDF](https://trescout.com/pt/discover/opendataloader-pdf/)
 - [iii](https://trescout.com/pt/discover/iii/)

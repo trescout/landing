@@ -63,12 +63,12 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [VRAM](https://trescout.com/pt/dictionary/vram/)
 - [Transformer](https://trescout.com/pt/dictionary/transformer/)
+- [VRAM](https://trescout.com/pt/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/pt/dictionary/apple-silicon/)
 - [RAM](https://trescout.com/pt/dictionary/ram/)
-- [Jupyter Notebooks](https://trescout.com/pt/dictionary/jupyter-notebooks/)
 - [v4.0](https://trescout.com/pt/dictionary/v4-0/)
+- [Jupyter Notebooks](https://trescout.com/pt/dictionary/jupyter-notebooks/)
 
 - **Para quem é:** Destina-se a pesquisadores que possuem recursos de hardware limitados e desejam testar localmente modelos de alta capacidade de 70B e 405B, realizar mineração e avaliação de dados.
 - **Licença:** Apache-2.0 (Licença de código aberto que oferece ampla liberdade)

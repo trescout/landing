@@ -63,12 +63,12 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [VRAM](https://trescout.com/fr/dictionary/vram/)
 - [Transformer](https://trescout.com/fr/dictionary/transformer/)
+- [VRAM](https://trescout.com/fr/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/fr/dictionary/apple-silicon/)
 - [RAM](https://trescout.com/fr/dictionary/ram/)
-- [Jupyter Notebooks](https://trescout.com/fr/dictionary/jupyter-notebooks/)
 - [v4.0](https://trescout.com/fr/dictionary/v4-0/)
+- [Jupyter Notebooks](https://trescout.com/fr/dictionary/jupyter-notebooks/)
 
 - **Pour qui:** Il s'adresse aux chercheurs disposant de ressources matérielles limitées qui souhaitent tester, extraire des données et évaluer localement les modèles 70B et 405B haute capacité.
 - **Licence:** Apache-2.0 (Licence Open source avec une large liberté)

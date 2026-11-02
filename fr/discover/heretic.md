@@ -2,17 +2,17 @@
 
 Heretic est un outil technique qui supprime les contraintes d'alignement de sécurité des modèles de langage basés sur des transformateurs sans nécessiter de processus de recyclage coûteux. Utilisant la technique « Ablitération », cette solution est avancée et orientée vers la recherche.
 
-- ★ 36 044
+- ★ 37 706
 - Python
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
 ## Mises à jour
 
+- **2 novembre 2026:** Étoiles 36,044 → 37,706, dernière version v2.0.0 (1 novembre 2026).
 - **21 octobre 2026:** Étoiles 34,271 → 36,044, dernière version v1.4.0 (14 juin 2026).
 - **9 octobre 2026:** Étoiles 32,626 → 34,271, dernière version v1.4.0 (14 juin 2026).
 - **1 octobre 2026:** Étoiles 31,068 → 32,626, dernière version v1.4.0 (14 juin 2026).
-- **10 septembre 2026:** Étoiles 29,513 → 31,068, dernière version v1.4.0 (14 juin 2026).
 
 ## Installation
 

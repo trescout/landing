@@ -2,16 +2,16 @@
 
 Hallmark est un fichier de style développé pour réduire l'impact du contenu standard produit par l'intelligence artificielle (AI slop) sur la conception. Claude Code veille à ce que les interfaces utilisées dans des outils tels que Cursor et Codex acquièrent une esthétique unique et humaine.
 
-- ★ 42 225
+- ★ 45 315
 - CSS
 - GitHub Trending · 2026-07-13
 
 ## Mises à jour
 
+- **2 novembre 2026:** Étoiles 42,225 → 45,315.
 - **30 octobre 2026:** Étoiles 39,590 → 42,225.
 - **28 octobre 2026:** Étoiles 37,357 → 39,590.
 - **27 octobre 2026:** Étoiles 34,272 → 37,357.
-- **26 octobre 2026:** Étoiles 32,557 → 34,272.
 
 ## Ce que ça vous apporte
 
