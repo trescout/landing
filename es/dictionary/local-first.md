@@ -37,8 +37,8 @@ Las aplicaciones locales a menudo pueden realizar copias de seguridad en la nube
 ## Herramientas relacionadas
 
 - [Openhuman](https://trescout.com/es/discover/openhuman/)
-- [PI-Desktop](https://trescout.com/es/discover/pi-desktop/)
 - [Orkas](https://trescout.com/es/discover/orkas/)
+- [PI-Desktop](https://trescout.com/es/discover/pi-desktop/)
 - [Agentsview](https://trescout.com/es/discover/agentsview/)
 - [Wigolo](https://trescout.com/es/discover/wigolo/)
 - [Open Science](https://trescout.com/es/discover/open-science/)

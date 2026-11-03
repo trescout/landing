@@ -2,16 +2,16 @@
 
 Ansible is an information technologies automation platform that automates application deployment and system management processes. It performs configuration operations in a simple language via SSH protocol, without the need to install any middleware on remote systems.
 
-- ★ 70,861
+- ★ 71,221
 - Python
 - GitHub Trending · 2026-07-04
 
 ## Updates
 
+- **November 3, 2026:** Stars 70,861 → 71,221, latest release v2.22.0 (November 2, 2026).
 - **October 5, 2026:** Stars 70,621 → 70,861, latest release v2.21.5 (October 5, 2026).
 - **September 9, 2026:** Stars 70,299 → 70,621, latest release v2.21.4 (September 8, 2026).
 - **August 11, 2026:** Stars 70,171 → 70,299, latest release v2.21.3 (August 10, 2026).
-- **August 2, 2026:** Stars 69,245 → 70,171, latest release v2.21.2 (July 13, 2026).
 
 ## What you get
 

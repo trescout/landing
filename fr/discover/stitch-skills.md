@@ -58,8 +58,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Native](https://trescout.com/fr/dictionary/native/)
 - [Agent Skills](https://trescout.com/fr/dictionary/agent-skills/)
-- [AI Skills](https://trescout.com/fr/dictionary/ai-skills/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
+- [AI Skills](https://trescout.com/fr/dictionary/ai-skills/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
 

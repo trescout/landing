@@ -50,8 +50,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Fine-tuning](https://trescout.com/de/dictionary/fine-tuning/)
 - [Pipeline](https://trescout.com/de/dictionary/pipeline/)
+- [Fine-tuning](https://trescout.com/de/dictionary/fine-tuning/)
 - [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

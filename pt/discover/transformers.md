@@ -50,8 +50,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [Fine-tuning](https://trescout.com/pt/dictionary/fine-tuning/)
 - [Pipeline](https://trescout.com/pt/dictionary/pipeline/)
+- [Fine-tuning](https://trescout.com/pt/dictionary/fine-tuning/)
 - [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

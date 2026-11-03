@@ -2,12 +2,13 @@
 
 Claude-Code-Game-Studios est un projet visant à transformer l'outil de développement logiciel Claude Code en un studio de jeu complet. Il propose un système de coordination qui imite la hiérarchie d'un véritable studio en utilisant 49 agents d'intelligence artificielle et 72 compétences de flux de travail (workflow skills).
 
-- ★ 31 442
+- ★ 33 808
 - Shell
 - GitHub Trending · 2026-10-30
 
 ## Mises à jour
 
+- **3 novembre 2026:** Étoiles 31,442 → 33,808, dernière version v1.2.0 (19 octobre 2026).
 - **1 novembre 2026:** Étoiles 29,483 → 31,442, dernière version v1.2.0 (19 octobre 2026).
 - **30 octobre 2026:** Étoiles 29,473 → 29,483, dernière version v1.2.0 (19 octobre 2026).
 

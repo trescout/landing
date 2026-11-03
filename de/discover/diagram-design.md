@@ -2,16 +2,16 @@
 
 Diagram-design, entwickelt von Cathryn Lavery, umfasst 29 verschiedene redaktionelle Diagrammtypen, die für das durch künstliche Intelligenz unterstützte Codierungstool Claude Code vorbereitet wurden. Diese Bibliothek stellt komplexe Diagramme sauber direkt mithilfe von HTML und skalierbaren Vektorgrafiken (SVG) anstelle von Standard-Diagrammtools dar.
 
-- ★ 61.113
+- ★ 64.430
 - HTML
 - GitHub Trending · 2026-08-13
 
 ## Aktualisierungen
 
+- **3. November 2026:** Sterne 61,113 → 64,430.
 - **26. Oktober 2026:** Sterne 58,061 → 61,113.
 - **19. Oktober 2026:** Sterne 54,882 → 58,061.
 - **14. Oktober 2026:** Sterne 51,670 → 54,882.
-- **12. Oktober 2026:** Sterne 48,430 → 51,670.
 
 ## Was es bringt
 

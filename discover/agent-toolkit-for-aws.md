@@ -52,8 +52,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Toolkit](https://trescout.com/dictionary/toolkit/)
 - [Context](https://trescout.com/dictionary/context/)
-- [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [MCP](https://trescout.com/dictionary/mcp/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [Agent](https://trescout.com/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

@@ -64,6 +64,7 @@ According to the LIMA principle, 500 to 2,000 correctly selected, consistent and
 - [Transformers](https://trescout.com/en/discover/transformers/)
 - [LLM Course](https://trescout.com/en/discover/llm-course/)
 - [Unsloth](https://trescout.com/en/discover/unsloth/)
+- [Nanochat](https://trescout.com/en/discover/nanochat/)
 - [Ktransformers](https://trescout.com/en/discover/ktransformers/)
 - [Soup](https://trescout.com/en/discover/soup/)
 

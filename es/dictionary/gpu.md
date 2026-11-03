@@ -45,11 +45,11 @@ Sí, pero los que se utilizan para IA suelen ser modelos profesionales equipados
 - [Tensorflow](https://trescout.com/es/discover/tensorflow/)
 - [Pytorch](https://trescout.com/es/discover/pytorch/)
 - [Minimind](https://trescout.com/es/discover/minimind/)
+- [Nanochat](https://trescout.com/es/discover/nanochat/)
 - [OpenMAIC](https://trescout.com/es/discover/openmaic/)
 - [Airllm](https://trescout.com/es/discover/airllm/)
 - [Llmfit](https://trescout.com/es/discover/llmfit/)
 - [Omlx](https://trescout.com/es/discover/omlx/)
-- [Ktransformers](https://trescout.com/es/discover/ktransformers/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/gpu/)
 

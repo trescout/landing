@@ -42,8 +42,8 @@ You can open it with any text editor, but you can read it formatted more easily 
 
 - [Firecrawl](https://trescout.com/en/discover/firecrawl/)
 - [MarkItDown](https://trescout.com/en/discover/markitdown/)
-- [PaddleOCR](https://trescout.com/en/discover/paddleocr/)
 - [Scrapling](https://trescout.com/en/discover/scrapling/)
+- [PaddleOCR](https://trescout.com/en/discover/paddleocr/)
 - [Crawl4AI](https://trescout.com/en/discover/crawl4ai/)
 - [MinerU](https://trescout.com/en/discover/mineru/)
 - [UP](https://trescout.com/en/discover/up/)

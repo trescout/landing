@@ -2,12 +2,13 @@
 
 vllm-project/vllm, büyük dil modelleri (LLM) için yüksek işlem hacmi ve bellek verimliliği sağlayan bir çıkarım (inference) ve sunum motorudur. Python diliyle geliştirilen bu araç, yapay zekâ modellerinin çalıştırılma süreçlerini hızlandırmayı amaçlar.
 
-- ★ 94.625
+- ★ 96.177
 - Python
 - GitHub Trending · 2026-10-21
 
 ## Güncelleme
 
+- **3 Kasım 2026:** Yıldız 94.625 → 96.177, son sürüm v0.33.0rc3 (2 Kasım 2026).
 - **21 Ekim 2026:** Yıldız 94.616 → 94.625, son sürüm v0.32.0 (18 Ekim 2026).
 
 ## Ne kazandırır?

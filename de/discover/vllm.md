@@ -2,12 +2,13 @@
 
 vllm-project/vllm ist eine Inferenz- und Bereitstellungsengine für große Sprachmodelle (LLMs), die einen hohen Durchsatz und Speichereffizienz bietet. Dieses in Python entwickelte Tool zielt darauf ab, die Ausführungsprozesse von KI-Modellen zu beschleunigen.
 
-- ★ 94.625
+- ★ 96.177
 - Python
 - GitHub Trending · 2026-10-21
 
 ## Aktualisierungen
 
+- **3. November 2026:** Sterne 94,625 → 96,177, neueste Version v0.33.0rc3 (2. November 2026).
 - **21. Oktober 2026:** Sterne 94,616 → 94,625, neueste Version v0.32.0 (18. Oktober 2026).
 
 ## Was es bringt

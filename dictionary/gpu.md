@@ -45,11 +45,11 @@ Evet, ancak yapay zekâ için kullanılanlar genellikle daha fazla bellek ve öz
 - [Tensorflow](https://trescout.com/discover/tensorflow/)
 - [Pytorch](https://trescout.com/discover/pytorch/)
 - [Minimind](https://trescout.com/discover/minimind/)
+- [Nanochat](https://trescout.com/discover/nanochat/)
 - [OpenMAIC](https://trescout.com/discover/openmaic/)
 - [Airllm](https://trescout.com/discover/airllm/)
 - [Llmfit](https://trescout.com/discover/llmfit/)
 - [Omlx](https://trescout.com/discover/omlx/)
-- [Ktransformers](https://trescout.com/discover/ktransformers/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

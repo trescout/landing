@@ -2,12 +2,13 @@
 
 Whisper wurde von OpenAI entwickelt und ist ein Spracherkennungsmodell, das durch eine groß angelegte Lernmethode mit schwacher Aufsicht trainiert wird. Es bietet hohe Genauigkeitsraten bei der Konvertierung und Übersetzung mehrsprachiger Audiodaten in Text.
 
-- ★ 106.452
+- ★ 111.832
 - Python
 - GitHub Trending · 2026-06-07
 
 ## Aktualisierungen
 
+- **3. November 2026:** Sterne 106,452 → 111,832, neueste Version v20250625 (26. Juni 2025).
 - **2. August 2026:** Sterne 101,952 → 106,452, neueste Version v20250625 (26. Juni 2025).
 
 ## Was es bringt

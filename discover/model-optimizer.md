@@ -2,11 +2,12 @@
 
 NVIDIA Model Optimizer, derin öğrenme modellerini nicemleme (quantization), damıtma (distillation) ve budama (pruning) gibi tekniklerle sıkıştıran bir kütüphanedir. Bu araç, modellerin çıkarım hızını artırmak için TensorRT-LLM gibi çıkarım motorlarında (inference engines) kullanıma hazır hale getirir.
 
-- ★ 4.910
+- ★ 5.498
 - GitHub Trending · 2026-09-25
 
 ## Güncelleme
 
+- **3 Kasım 2026:** Yıldız 4.910 → 5.498, son sürüm 0.48.0 (2 Kasım 2026).
 - **27 Eylül 2026:** Yıldız 4.563 → 4.910, son sürüm 0.47.0 (23 Eylül 2026).
 
 ## Ne kazandırır?

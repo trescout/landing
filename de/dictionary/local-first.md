@@ -37,8 +37,8 @@ Local-First-Anwendungen können häufig verschlüsselt in der Cloud gesichert we
 ## Verwandte Werkzeuge
 
 - [Openhuman](https://trescout.com/de/discover/openhuman/)
-- [PI-Desktop](https://trescout.com/de/discover/pi-desktop/)
 - [Orkas](https://trescout.com/de/discover/orkas/)
+- [PI-Desktop](https://trescout.com/de/discover/pi-desktop/)
 - [Agentsview](https://trescout.com/de/discover/agentsview/)
 - [Wigolo](https://trescout.com/de/discover/wigolo/)
 - [Open Science](https://trescout.com/de/discover/open-science/)

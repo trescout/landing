@@ -2,16 +2,16 @@
 
 Elasticsearch wurde mit Java entwickelt und ist eine verteilte Open-Source-Suchmaschine, die eine schnelle Suche und Analyse großer Datenmengen ermöglicht. Dank seiner RESTful-Architektur unterstützt es die Indizierung und Abfrage von Daten in Echtzeit.
 
-- ★ 78.198
+- ★ 78.472
 - Java
 - GitHub Trending · 2026-07-04
 
 ## Aktualisierungen
 
+- **3. November 2026:** Sterne 78,198 → 78,472, neueste Version v9.5.6 (2. November 2026).
 - **6. Oktober 2026:** Sterne 77,919 → 78,198, neueste Version v9.5.5 (6. Oktober 2026).
 - **16. September 2026:** Sterne 77,890 → 77,919, neueste Version v9.5.4 (15. September 2026).
 - **4. September 2026:** Sterne 77,846 → 77,890, neueste Version v9.5.3 (3. September 2026).
-- **20. August 2026:** Sterne 77,837 → 77,846, neueste Version v9.5.2 (20. August 2026).
 
 ## Was es bringt
 

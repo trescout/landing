@@ -2,12 +2,13 @@
 
 cjpais/Handy é um aplicativo de conversão de fala em texto (speech-to-text) gratuito e de código aberto que roda totalmente offline. Desenvolvido em Rust, esta ferramenta oferece uma estrutura extensível que permite aos usuários processar dados de voz localmente.
 
-- ★ 36.933
+- ★ 37.195
 - Rust
 - GitHub Trending · 2026-11-02
 
 ## Atualizações
 
+- **3 de novembro de 2026:** Estrelas 36,933 → 37,195, versão mais recente v0.10.0 (2 de novembro de 2026).
 - **2 de novembro de 2026:** Estrelas 36,754 → 36,933, versão mais recente v0.9.8 (3 de outubro de 2026).
 
 ## O que você ganha

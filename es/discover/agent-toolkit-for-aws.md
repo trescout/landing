@@ -43,8 +43,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Toolkit](https://trescout.com/es/dictionary/toolkit/)
 - [Context](https://trescout.com/es/dictionary/context/)
-- [AI Skills](https://trescout.com/es/dictionary/ai-skills/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)
+- [AI Skills](https://trescout.com/es/dictionary/ai-skills/)
 - [Agent](https://trescout.com/es/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

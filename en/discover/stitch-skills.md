@@ -58,8 +58,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Native](https://trescout.com/en/dictionary/native/)
 - [Agent Skills](https://trescout.com/en/dictionary/agent-skills/)
-- [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
+- [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [Agent](https://trescout.com/en/dictionary/agent/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
 

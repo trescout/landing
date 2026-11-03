@@ -50,8 +50,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [Fine-tuning](https://trescout.com/en/dictionary/fine-tuning/)
 - [Pipeline](https://trescout.com/en/dictionary/pipeline/)
+- [Fine-tuning](https://trescout.com/en/dictionary/fine-tuning/)
 - [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

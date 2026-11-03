@@ -2,16 +2,16 @@
 
 Java ile geliştirilen Elasticsearch, büyük veri kümeleri üzerinde hızlı arama ve analiz yapılmasına olanak tanıyan dağıtık (distributed) ve açık kaynaklı bir arama motorudur. RESTful mimarisi sayesinde verilerin gerçek zamanlı olarak indekslenmesini ve sorgulanmasını destekler.
 
-- ★ 78.198
+- ★ 78.472
 - Java
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
 
+- **3 Kasım 2026:** Yıldız 78.198 → 78.472, son sürüm v9.5.6 (2 Kasım 2026).
 - **6 Ekim 2026:** Yıldız 77.919 → 78.198, son sürüm v9.5.5 (6 Ekim 2026).
 - **16 Eylül 2026:** Yıldız 77.890 → 77.919, son sürüm v9.5.4 (15 Eylül 2026).
 - **4 Eylül 2026:** Yıldız 77.846 → 77.890, son sürüm v9.5.3 (3 Eylül 2026).
-- **20 Ağustos 2026:** Yıldız 77.837 → 77.846, son sürüm v9.5.2 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 

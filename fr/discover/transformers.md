@@ -50,8 +50,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Fine-tuning](https://trescout.com/fr/dictionary/fine-tuning/)
 - [Pipeline](https://trescout.com/fr/dictionary/pipeline/)
+- [Fine-tuning](https://trescout.com/fr/dictionary/fine-tuning/)
 - [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

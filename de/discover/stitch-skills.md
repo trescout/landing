@@ -58,8 +58,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Native](https://trescout.com/de/dictionary/native/)
 - [Agent Skills](https://trescout.com/de/dictionary/agent-skills/)
-- [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
+- [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 - [Agent](https://trescout.com/de/dictionary/agent/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
 

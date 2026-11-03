@@ -2,16 +2,16 @@
 
 Desenvolvido em Java, o Elasticsearch é um mecanismo de busca distribuído e de código aberto que permite busca e análise rápidas em grandes conjuntos de dados. Graças à sua arquitetura RESTful, suporta indexação e consulta de dados em tempo real.
 
-- ★ 78.198
+- ★ 78.472
 - Java
 - GitHub Trending · 2026-07-04
 
 ## Atualizações
 
+- **3 de novembro de 2026:** Estrelas 78,198 → 78,472, versão mais recente v9.5.6 (2 de novembro de 2026).
 - **6 de outubro de 2026:** Estrelas 77,919 → 78,198, versão mais recente v9.5.5 (6 de outubro de 2026).
 - **16 de setembro de 2026:** Estrelas 77,890 → 77,919, versão mais recente v9.5.4 (15 de setembro de 2026).
 - **4 de setembro de 2026:** Estrelas 77,846 → 77,890, versão mais recente v9.5.3 (3 de setembro de 2026).
-- **20 de agosto de 2026:** Estrelas 77,837 → 77,846, versão mais recente v9.5.2 (20 de agosto de 2026).
 
 ## O que você ganha
 

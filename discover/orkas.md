@@ -2,12 +2,13 @@
 
 Orkas, masaüstü bilgisayarlarda çalışan ve hedefleri görev listelerine dönüştüren açık kaynaklı bir yapay zekâ takımıdır. On altı yerleşik uzman ajanı ve çeşitli kodlama modellerini koordine eden bu uygulama, macOS ve Windows üzerinde yerel öncelikli (local-first) bir çalışma alanı sunar.
 
-- ★ 7.039
+- ★ 8.453
 - JavaScript
 - GitHub Trending · 2026-11-01
 
 ## Güncelleme
 
+- **3 Kasım 2026:** Yıldız 7.039 → 8.453, son sürüm v2026.10.27 (27 Ekim 2026).
 - **1 Kasım 2026:** Yıldız 7.036 → 7.039, son sürüm v2026.10.27 (27 Ekim 2026).
 
 ## Ne kazandırır?

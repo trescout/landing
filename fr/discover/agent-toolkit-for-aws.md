@@ -43,8 +43,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Toolkit](https://trescout.com/fr/dictionary/toolkit/)
 - [Context](https://trescout.com/fr/dictionary/context/)
-- [AI Skills](https://trescout.com/fr/dictionary/ai-skills/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
+- [AI Skills](https://trescout.com/fr/dictionary/ai-skills/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

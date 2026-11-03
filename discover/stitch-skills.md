@@ -67,8 +67,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Native](https://trescout.com/dictionary/native/)
 - [Agent Skills](https://trescout.com/dictionary/agent-skills/)
-- [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [MCP](https://trescout.com/dictionary/mcp/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [Agent](https://trescout.com/dictionary/agent/)
 - [CLI](https://trescout.com/dictionary/cli/)
 

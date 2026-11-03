@@ -2,12 +2,13 @@
 
 Developed by OpenAI, Whisper is a speech recognition model trained by large-scale weak supervision learning method. It offers high accuracy rates in converting and translating multilingual audio data into text.
 
-- ★ 106,452
+- ★ 111,832
 - Python
 - GitHub Trending · 2026-06-07
 
 ## Updates
 
+- **November 3, 2026:** Stars 106,452 → 111,832, latest release v20250625 (June 26, 2025).
 - **August 2, 2026:** Stars 101,952 → 106,452, latest release v20250625 (June 26, 2025).
 
 ## What you get

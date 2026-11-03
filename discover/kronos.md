@@ -75,6 +75,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [NLP](https://trescout.com/dictionary/nlp/)
+- [K-line](https://trescout.com/dictionary/k-line/)
 - [Foundation Model](https://trescout.com/dictionary/foundation-model/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)

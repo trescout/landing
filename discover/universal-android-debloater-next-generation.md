@@ -2,12 +2,13 @@
 
 Universal Android Debloater Next Generation, kök dizin erişimi (root) gerektirmeyen Android cihazlardaki gereksiz uygulamaları kaldırmak için Rust diliyle geliştirilmiş çapraz platform bir grafik arayüzüdür. Araç, Android Hata Ayıklama Köprüsü (ADB) kullanarak cihazın gizlilik, güvenlik ve pil ömrü performansını iyileştirmeyi amaçlar.
 
-- ★ 9.679
+- ★ 9.703
 - Rust
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
 
+- **3 Kasım 2026:** Yıldız 9.679 → 9.703, son sürüm v1.3.1 (2 Kasım 2026).
 - **1 Kasım 2026:** Yıldız 8.660 → 9.679, son sürüm v1.2.0 (12 Ocak 2026).
 - **2 Ağustos 2026:** Yıldız 7.487 → 8.660, son sürüm v1.2.0 (12 Ocak 2026).
 

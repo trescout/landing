@@ -43,8 +43,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Toolkit](https://trescout.com/de/dictionary/toolkit/)
 - [Context](https://trescout.com/de/dictionary/context/)
-- [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
+- [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 - [Agent](https://trescout.com/de/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

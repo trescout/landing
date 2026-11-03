@@ -2,12 +2,13 @@
 
 Desarrollado por Google, Guava es un conjunto de herramientas que contiene bibliotecas centrales que se necesitan con frecuencia en proyectos Java. Las colecciones aceleran el desarrollo de software al simplificar tareas comunes como el almacenamiento en caché y la manipulación de cadenas.
 
-- ★ 51.915
+- ★ 51.919
 - Java
 - GitHub Trending · 2026-08-07
 
 ## Actualizaciones
 
+- **3 de noviembre de 2026:** Estrellas 51,915 → 51,919, última versión v33.8.0 (2 de noviembre de 2026).
 - **29 de septiembre de 2026:** Estrellas 51,884 → 51,915, última versión v33.7.2 (29 de septiembre de 2026).
 - **18 de agosto de 2026:** Estrellas 51,668 → 51,884, última versión v33.7.1 (18 de agosto de 2026).
 - **7 de agosto de 2026:** Estrellas 51,666 → 51,668, última versión v33.6.0 (14 de abril de 2026).

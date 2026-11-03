@@ -2,16 +2,16 @@
 
 AgriciDaniel/claude-seo, Claude Code için geliştirilmiş, teknik arama motoru optimizasyonu (SEO) süreçlerini otomatikleştiren kapsamlı bir yetenek setidir. Proje, arama motoru görünürlüğünü artırmak amacıyla 26 alt yetenek ve 19 alt ajan ile Google API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) entegrasyonları sunar.
 
-- ★ 24.674
+- ★ 26.052
 - Python
 - GitHub Trending · 2026-10-26
 
 ## Güncelleme
 
+- **3 Kasım 2026:** Yıldız 24.674 → 26.052, son sürüm v2.5.0 (22 Ekim 2026).
 - **31 Ekim 2026:** Yıldız 23.491 → 24.674, son sürüm v2.5.0 (22 Ekim 2026).
 - **29 Ekim 2026:** Yıldız 22.364 → 23.491, son sürüm v2.5.0 (22 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 21.180 → 22.364, son sürüm v2.5.0 (22 Ekim 2026).
-- **26 Ekim 2026:** Yıldız 21.162 → 21.180, son sürüm v2.5.0 (22 Ekim 2026).
 
 ## Ne kazandırır?
 

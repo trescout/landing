@@ -2,17 +2,17 @@
 
 Scrapling é uma estrutura de web scraping adaptável que pode lidar com escala desde uma única solicitação até trabalhos de rastreamento em grande escala. Tem como objetivo fornecer alta adaptabilidade mesmo que a estrutura da página mude. É baseado em Python.
 
-- ★ 88.365
+- ★ 93.246
 - Python
 - BSD-3-Clause
 - GitHub Trending · 1 Haziran 2026
 
 ## Atualizações
 
+- **3 de novembro de 2026:** Estrelas 88,365 → 93,246, versão mais recente v0.5 (17 de outubro de 2026).
 - **18 de outubro de 2026:** Estrelas 84,197 → 88,365, versão mais recente v0.5 (17 de outubro de 2026).
 - **28 de setembro de 2026:** Estrelas 80,154 → 84,197, versão mais recente v0.4.15 (23 de agosto de 2026).
 - **11 de setembro de 2026:** Estrelas 76,147 → 80,154, versão mais recente v0.4.15 (23 de agosto de 2026).
-- **24 de agosto de 2026:** Estrelas 73,439 → 76,147, versão mais recente v0.4.15 (23 de agosto de 2026).
 
 ## O que você ganha
 

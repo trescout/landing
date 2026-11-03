@@ -43,8 +43,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Toolkit](https://trescout.com/en/dictionary/toolkit/)
 - [Context](https://trescout.com/en/dictionary/context/)
-- [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
+- [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [Agent](https://trescout.com/en/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

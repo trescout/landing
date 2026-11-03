@@ -41,8 +41,8 @@ Es mag auf den ersten Blick etwas ungewohnt erscheinen, aber sobald Sie ein paar
 - [Agent Skills](https://trescout.com/de/discover/agent-skills/)
 - [Taste Skill](https://trescout.com/de/discover/taste-skill/)
 - [NVM](https://trescout.com/de/discover/nvm/)
-- [Omarchy](https://trescout.com/de/discover/omarchy/)
 - [Claude-Code-Game-Studios](https://trescout.com/de/discover/claude-code-game-studios/)
+- [Omarchy](https://trescout.com/de/discover/omarchy/)
 - [Destructive Command Guard](https://trescout.com/de/discover/destructive-command-guard/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/shell/)

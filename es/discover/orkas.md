@@ -2,12 +2,13 @@
 
 Orkas es un equipo de inteligencia artificial de código abierto que se ejecuta en ordenadores de escritorio y convierte objetivos en listas de tareas. Al coordinar dieciséis agentes expertos integrados y varios modelos de codificación, esta aplicación ofrece un espacio de trabajo con prioridad local en macOS y Windows.
 
-- ★ 7.039
+- ★ 8.453
 - JavaScript
 - GitHub Trending · 2026-11-01
 
 ## Actualizaciones
 
+- **3 de noviembre de 2026:** Estrellas 7,039 → 8,453, última versión v2026.10.27 (27 de octubre de 2026).
 - **1 de noviembre de 2026:** Estrellas 7,036 → 7,039, última versión v2026.10.27 (27 de octubre de 2026).
 
 ## Qué aporta

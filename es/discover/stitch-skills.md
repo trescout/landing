@@ -58,8 +58,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Native](https://trescout.com/es/dictionary/native/)
 - [Agent Skills](https://trescout.com/es/dictionary/agent-skills/)
-- [AI Skills](https://trescout.com/es/dictionary/ai-skills/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)
+- [AI Skills](https://trescout.com/es/dictionary/ai-skills/)
 - [Agent](https://trescout.com/es/dictionary/agent/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
 

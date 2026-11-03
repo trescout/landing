@@ -50,8 +50,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [Fine-tuning](https://trescout.com/es/dictionary/fine-tuning/)
 - [Pipeline](https://trescout.com/es/dictionary/pipeline/)
+- [Fine-tuning](https://trescout.com/es/dictionary/fine-tuning/)
 - [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

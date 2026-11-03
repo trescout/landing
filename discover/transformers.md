@@ -59,8 +59,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Fine-tuning](https://trescout.com/dictionary/fine-tuning/)
 - [Pipeline](https://trescout.com/dictionary/pipeline/)
+- [Fine-tuning](https://trescout.com/dictionary/fine-tuning/)
 - [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

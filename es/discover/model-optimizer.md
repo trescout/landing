@@ -2,11 +2,12 @@
 
 NVIDIA Model Optimizer es una biblioteca que comprime modelos de aprendizaje profundo mediante técnicas como la cuantización (quantization), la destilación (distillation) y la poda (pruning). Esta herramienta prepara los modelos para su uso en motores de inferencia (inference engines) como TensorRT-LLM para aumentar la velocidad de inferencia.
 
-- ★ 4.910
+- ★ 5.498
 - GitHub Trending · 2026-09-25
 
 ## Actualizaciones
 
+- **3 de noviembre de 2026:** Estrellas 4,910 → 5,498, última versión 0.48.0 (2 de noviembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 4,563 → 4,910, última versión 0.47.0 (23 de septiembre de 2026).
 
 ## Qué aporta

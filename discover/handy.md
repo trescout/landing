@@ -2,12 +2,13 @@
 
 cjpais/Handy, tamamen çevrim dışı çalışan ücretsiz ve açık kaynaklı bir konuşmayı metne çevirme (speech-to-text) uygulamasıdır. Rust diliyle geliştirilen bu araç, genişletilebilir bir yapı sunarak kullanıcıların sesli verileri yerel ortamda işlemesine olanak tanır.
 
-- ★ 36.933
+- ★ 37.195
 - Rust
 - GitHub Trending · 2026-11-02
 
 ## Güncelleme
 
+- **3 Kasım 2026:** Yıldız 36.933 → 37.195, son sürüm v0.10.0 (2 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 36.754 → 36.933, son sürüm v0.9.8 (3 Ekim 2026).
 
 ## Ne kazandırır?

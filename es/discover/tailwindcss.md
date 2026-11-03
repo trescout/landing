@@ -2,12 +2,13 @@
 
 Tailwind CSS es un marco de hojas de estilo (marco CSS) centrado en el desarrollo rápido de interfaces de usuario. Permite la creación rápida de interfaces originales al ofrecer clases de bajo nivel en lugar de componentes de diseño ya preparados.
 
-- ★ 96.949
+- ★ 98.055
 - TypeScript
 - GitHub Trending · 2026-08-05
 
 ## Actualizaciones
 
+- **3 de noviembre de 2026:** Estrellas 96,949 → 98,055, última versión v4.3.4 (2 de noviembre de 2026).
 - **6 de agosto de 2026:** Estrellas 96,571 → 96,949, última versión v4.3.3 (16 de julio de 2026).
 
 ## Qué aporta

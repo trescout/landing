@@ -42,8 +42,8 @@ Herhangi bir metin editörüyle açabilirsiniz, ancak özel görüntüleyicilerl
 
 - [Firecrawl](https://trescout.com/discover/firecrawl/)
 - [MarkItDown](https://trescout.com/discover/markitdown/)
-- [PaddleOCR](https://trescout.com/discover/paddleocr/)
 - [Scrapling](https://trescout.com/discover/scrapling/)
+- [PaddleOCR](https://trescout.com/discover/paddleocr/)
 - [Crawl4AI](https://trescout.com/discover/crawl4ai/)
 - [MinerU](https://trescout.com/discover/mineru/)
 - [UP](https://trescout.com/discover/up/)

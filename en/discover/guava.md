@@ -2,12 +2,13 @@
 
 Developed by Google, Guava is a toolkit containing core libraries frequently needed in Java projects. Collections speed up software development by simplifying common tasks such as caching and string manipulation.
 
-- ★ 51,915
+- ★ 51,919
 - Java
 - GitHub Trending · 2026-08-07
 
 ## Updates
 
+- **November 3, 2026:** Stars 51,915 → 51,919, latest release v33.8.0 (November 2, 2026).
 - **September 29, 2026:** Stars 51,884 → 51,915, latest release v33.7.2 (September 29, 2026).
 - **August 18, 2026:** Stars 51,668 → 51,884, latest release v33.7.1 (August 18, 2026).
 - **August 7, 2026:** Stars 51,666 → 51,668, latest release v33.6.0 (April 14, 2026).
