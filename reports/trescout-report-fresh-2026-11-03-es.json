@@ -1,0 +1,505 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-03",
+  "capturedAt": "2026-11-03T05:10:50.460Z",
+  "editorial": "Los contenidos incluidos en el informe no se repetirán durante 30 días. Al finalizar este periodo, los registros que sigan estando vigentes volverán a aparecer en la lista con la etiqueta \"de nuevo en la agenda\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "vercel-labs/agent-desktop",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "summary": "agent-desktop, desarrollado por Vercel Labs, es una interfaz de línea de comandos (CLI) que permite a los agentes de inteligencia artificial leer y gestionar aplicaciones de escritorio a través del árbol de accesibilidad del sistema operativo. Escrita en el lenguaje Rust, esta herramienta tiene como objetivo mejorar las capacidades de uso de computadoras (computer use) de los agentes.",
+          "meta": "Rust · ★ 10.481 · +2.275 hoy",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-desktop",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 10481,
+              "engagementCount": 2275,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2275,
+                "baglam": "readme"
+              }
+            },
+            "description": "Computer use CLI for AI agents. Computer use for AI agents: read and operate desktop apps through the OS accessibility tree."
+          }
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling, un marco de trabajo de web scraping basado en Python, tiene como objetivo gestionar todos los procesos, desde solicitudes individuales hasta operaciones de rastreo exhaustivas. Esta herramienta ofrece a los desarrolladores una solución integral para las tareas de recopilación de datos.",
+          "meta": "Python · ★ 93.234 · +706 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "D4Vinci/Scrapling",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 93234,
+              "engagementCount": 706,
+              "rank": 3,
+              "extra": {
+                "starsToday": 706
+              }
+            },
+            "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
+          }
+        },
+        {
+          "title": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "JustVugg/colibri es un motor en C que permite ejecutar modelos de mezcla de expertos (MoE) de frontera (frontier) en el hardware existente, con una estructura en la que los expertos se transmiten desde el disco (experts streamed from disk). El software tiene como objetivo poner a disposición modelos a gran escala con una infraestructura pequeña sin requerir ninguna dependencia.",
+          "meta": "C · ★ 46.713 · +675 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "JustVugg/colibri",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 46713,
+              "engagementCount": 675,
+              "rank": 10,
+              "extra": {
+                "starsToday": 675
+              }
+            },
+            "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+          }
+        },
+        {
+          "title": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "summary": "Worktrunk es una interfaz de línea de comandos (CLI) desarrollada en Rust que facilita la gestión de árboles de trabajo (worktree) de Git. El software está diseñado para que los agentes de inteligencia artificial puedan ejecutar múltiples flujos de trabajo en paralelo simultáneamente.",
+          "meta": "Rust · ★ 10.126 · +77 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "max-sixty/worktrunk",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 10126,
+              "engagementCount": 77,
+              "rank": 12,
+              "extra": {
+                "starsToday": 77,
+                "baglam": "readme"
+              }
+            },
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows. Worktrunk is a CLI for git worktree management, designed for running AI agents in parallel."
+          }
+        },
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip es una plataforma de orquestación de código abierto desarrollada para gestionar agentes de inteligencia artificial en el lugar de trabajo. Permite a los equipos coordinar múltiples agentes de IA de forma conjunta.",
+          "meta": "TypeScript · ★ 110.523 · +412 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 110523,
+              "engagementCount": 412,
+              "rank": 13,
+              "extra": {
+                "starsToday": 412,
+                "baglam": "readme"
+              }
+            },
+            "description": "The open-source app everyone uses to manage agents at work. Open-source orchestration for teams of AI agents."
+          }
+        },
+        {
+          "title": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "summary": "karpathy/nanochat es un marco de trabajo experimental desarrollado para entrenar modelos de lenguaje grandes (LLM) que puede ejecutarse en una sola unidad de procesamiento gráfico (GPU). Este proyecto, que abarca procesos de tokenización, preentrenamiento, ajuste fino (fine-tuning), evaluación e inferencia, ofrece a los desarrolladores una estructura mínima y modificable.",
+          "meta": "Python · ★ 59.998 · +321 hoy",
+          "snapshot": {
+            "sourceId": "karpathy/nanochat",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 59998,
+              "engagementCount": 321,
+              "rank": 14,
+              "extra": {
+                "starsToday": 321,
+                "baglam": "readme"
+              }
+            },
+            "description": "The best ChatGPT that $100 can buy. nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, and inference."
+          }
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "p-e-w/heretic es una herramienta de software que permite realizar modificaciones en modelos de lenguaje sin necesidad de entrenamiento (training-free). Permite a los usuarios eliminar la censura, reducir el contenido innecesario (slop) y disminuir la tendencia a la adulación (sycophancy) en los modelos de inteligencia artificial.",
+          "meta": "Python · ★ 38.219 · +420 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "p-e-w/heretic",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 38219,
+              "engagementCount": 420,
+              "rank": 15,
+              "extra": {
+                "starsToday": 420,
+                "baglam": "readme"
+              }
+            },
+            "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more. Remove censorship, suppress slop, reduce sycophancy, and more. All in an afternoon, on your gaming PC."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Astra can read and write weights to improve Qwen",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+          "summary": "Astra ofrece la capacidad de mejorar modelos de lenguaje grandes (LLM) como Qwen mediante la lectura y escritura directa de los pesos (weights) de los modelos de IA. Este método demuestra que los modelos de IA pueden realizar operaciones sobre los pesos de las redes neuronales con mayor éxito que los humanos o los algoritmos tradicionales.",
+          "meta": "2.221 puntos · 720 comentarios",
+          "snapshot": {
+            "sourceId": "50341174",
+            "capturedAt": "2026-11-03T05:10:50.854Z",
+            "metadata": {
+              "popularity": 2221,
+              "engagementCount": 720,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50341174",
+                  "popularity": 2221,
+                  "engagementCount": 720
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-02T18:21:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50341174",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50341174",
+              "popularity": 2221,
+              "engagementCount": 720
+            }
+          ]
+        },
+        {
+          "title": "WTF Ubuntu?",
+          "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+          "summary": "El artículo escrito por Chalmovsky critica algunas preferencias de configuración y cambios técnicos que afectan la experiencia del usuario en las versiones actuales del sistema operativo Ubuntu. El autor cuestiona las situaciones inesperadas encontradas en el funcionamiento del sistema y el impacto de estos cambios en los usuarios.",
+          "meta": "1.397 puntos · 595 comentarios",
+          "snapshot": {
+            "sourceId": "50337608",
+            "capturedAt": "2026-11-03T05:10:50.854Z",
+            "metadata": {
+              "popularity": 1397,
+              "engagementCount": 595,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50337608",
+                  "popularity": 1397,
+                  "engagementCount": 595
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-02T14:52:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50337608"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50337608",
+              "popularity": 1397,
+              "engagementCount": 595
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Subvocal – Talk to your computer without making noise",
+          "url": "https://news.ycombinator.com/item?id=50340088",
+          "summary": "Subvocal desarrolla gafas inteligentes que permiten a los usuarios dar comandos a sus computadoras sin emitir sonido, solo mediante movimientos labiales. Esta tecnología ofrece un método de comunicación secreto y rápido al convertir las palabras dichas en silencio en texto.",
+          "meta": "610 puntos · 319 comentarios",
+          "snapshot": {
+            "sourceId": "50340088",
+            "capturedAt": "2026-11-03T05:10:50.854Z",
+            "metadata": {
+              "popularity": 610,
+              "engagementCount": 319,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50340088",
+                  "popularity": 610,
+                  "engagementCount": 319
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-02T17:16:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50340088"
+              }
+            },
+            "description": "Hi HN, we&#x27;re Aarush and Arnav from The Subvocal Company (YC F26) (https:&#x2F;&#x2F;subvocal.company&#x2F;). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of "
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50340088",
+              "popularity": 610,
+              "engagementCount": 319
+            }
+          ]
+        },
+        {
+          "title": "If you love a website, back it up",
+          "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+          "summary": "Las preocupaciones sobre la permanencia del contenido en Internet subrayan la necesidad de realizar copias de seguridad de los sitios web favoritos. Los métodos de archivo personal destacan como una medida preventiva contra el riesgo de que los recursos digitales desaparezcan con el tiempo.",
+          "meta": "452 puntos · 100 comentarios",
+          "snapshot": {
+            "sourceId": "50336518",
+            "capturedAt": "2026-11-03T05:10:50.854Z",
+            "metadata": {
+              "popularity": 452,
+              "engagementCount": 100,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50336518",
+                  "popularity": 452,
+                  "engagementCount": 100
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-02T13:25:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50336518",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "This story starts with a little tragedy. See, I’ve got these old webpages I love to go back and look on every now and then. There’s websites that h..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50336518",
+              "popularity": 452,
+              "engagementCount": 100
+            }
+          ]
+        },
+        {
+          "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+          "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+          "summary": "Ubuntu aún no ha publicado un parche para una vulnerabilidad crítica de ejecución remota de código (RCE) con una puntuación CVSS de 9.8 en las versiones 22.04, 24.04 y 26.04. Dicha vulnerabilidad lleva esperando una corrección para los núcleos del sistema operativo durante aproximadamente tres semanas.",
+          "meta": "393 puntos · 112 comentarios",
+          "snapshot": {
+            "sourceId": "50341462",
+            "capturedAt": "2026-11-03T05:10:50.854Z",
+            "metadata": {
+              "popularity": 393,
+              "engagementCount": 112,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50341462",
+                  "popularity": 393,
+                  "engagementCount": 112
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-02T18:39:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50341462",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "No patched kernels are available yet for 22.04, 24.04, or 26.04 despite a CVSS 9.8 rating."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50341462",
+              "popularity": 393,
+              "engagementCount": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+          "url": "https://huggingface.co/papers/2611.01560",
+          "summary": "uni-robot-agent, desarrollado para agentes de uso robótico (RUAs), ofrece una infraestructura unificada que tiene como objetivo hacer que la investigación robótica sea más accesible con modelos de pesos abiertos. El modelo Qwen3.8-Flash-Next muestra un rendimiento competitivo al superar el resultado de GPT-6 Astra-RoboProbe en la prueba RoboDojo sin necesidad de entradas de datos especiales.",
+          "meta": "14 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.01560",
+            "capturedAt": "2026-11-03T05:10:50.586Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.01560",
+                "publishedAt": "2026-11-01T00:00:00.000Z",
+                "githubRepo": "https://github.com/Open-RUA/uni-robot-agent"
+              }
+            },
+            "description": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselin"
+          }
+        },
+        {
+          "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
+          "url": "https://huggingface.co/papers/2611.02102",
+          "summary": "NorthCUA es un sistema integrado que tiene como objetivo aumentar el rendimiento de los agentes de inteligencia artificial para el uso de computadoras en tareas de software complejas mediante experimentos escalables. El sistema, que ejecuta diversas tareas a través de un ciclo de experiencia (Experience Flywheel), registra interacciones a largo plazo para crear soluciones verificadas.",
+          "meta": "10 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.02102",
+            "capturedAt": "2026-11-03T05:10:50.586Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.02102",
+                "publishedAt": "2026-11-01T00:00:00.000Z",
+                "githubRepo": "https://github.com/beipo-ai/NorthCUA"
+              }
+            },
+            "description": "Scaling computer-use agents from individual actions to complex software work requires experience that connects decisions to complete outcomes. We present NorthCUA, an integrated system for turbocharging computer-use agents through experience at scale. Its Experience Flywheel supplies diverse executable tasks to the NorthCUA Harness, which sustains long interactions, records decisions, and checks task outcomes. The Flywheel uses these records to curate verified trajectories. For unsolved tasks, r"
+          }
+        },
+        {
+          "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
+          "url": "https://huggingface.co/papers/2611.00859",
+          "summary": "Wave Forcing es un método que diseña conjuntamente los procesos de generación, entrenamiento y ejecución de video para producir una salida de video continua. Su objetivo es resolver los problemas de eficiencia observados en los métodos actuales y la pérdida de calidad de imagen en videos de larga duración.",
+          "meta": "13 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.00859",
+            "capturedAt": "2026-11-03T05:10:50.586Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.00859",
+                "publishedAt": "2026-10-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/SJTU-DENG-Lab/WaveForcing",
+                "githubStars": 68
+              }
+            },
+            "description": "Real-time long-video generation requires continuous output with consistent appearance and natural motion. Existing chunk-wise autoregressive methods face challenges in both generation efficiency and long-video quality: serialized denoising and history-cache refresh require two forward passes even with one-step denoising, and longer rollouts can degrade quality and cause camera drift. We propose Wave Forcing (WF), which co-designs generation, training, and execution for continuous video output wi"
+          }
+        },
+        {
+          "title": "TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents",
+          "url": "https://huggingface.co/papers/2610.41216",
+          "summary": "TinyAstral es un método de dos etapas que tiene como objetivo transferir estructuras auxiliares (harness), como herramientas, retroalimentación y memoria, que poseen los grandes modelos de inteligencia artificial a agentes robóticos más pequeños. Este enfoque busca trasladar las capacidades obtenidas por los grandes modelos mediante la automejora recursiva (recursive self-improvement) a agentes compactos que requieren menos potencia de procesamiento.",
+          "meta": "2 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.41216",
+            "capturedAt": "2026-11-03T05:10:50.586Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.41216",
+                "publishedAt": "2026-10-30T03:53:42.000Z",
+                "githubRepo": "https://github.com/Garfield-kh/TinyAstral",
+                "githubStars": 3
+              }
+            },
+            "description": "Robot agents built on vision-language models depend on both the planner and its harness: the tools, feedback, memory, and recovery logic around it. Can improvements to a large teacher's harness be carried into a compact agent with lower inference compute cost? We present TinyAstral, a two-stage approach. We first freeze an open-weight teacher and improve its harness through recursive self-improvement (RSI): frontier LLM agents read the teacher's trajectories and propose harness edits, and each e"
+          }
+        },
+        {
+          "title": "Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay",
+          "url": "https://huggingface.co/papers/2610.27954",
+          "summary": "El artículo compartido por Hugging Face examina la acumulación de errores y las dificultades de recuperación que enfrentan los agentes de inteligencia artificial para el uso de computadoras en tareas de larga duración. El estudio tiene como objetivo mejorar los procesos de recuperación post-error de estos agentes mediante el método de repetición de acciones orientadas a objetivos (goal-oriented action replay).",
+          "meta": "3 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.27954",
+            "capturedAt": "2026-11-03T05:10:50.586Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.27954",
+                "publishedAt": "2026-10-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/BangProx/ReTRACE",
+                "githubStars": 3
+              }
+            },
+            "description": "Recent advances in large (vision) language models have enabled computer-use agents that automate digital workflows via fine-grained keyboard and mouse operations. However, such agents remain fragile in long-horizon settings, where errors accumulate and executed actions leave unintended side effects, making the ability to recover from failures critical. Yet, existing remedies remain inadequate: environment resets are infeasible in proprietary settings, action replay is prohibitively expensive ove"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que le permite gestionar programas ingresando comandos escritos en lugar de usar el mouse."
+    },
+    {
+      "term": "computer use",
+      "explanation": "La capacidad de los agentes de inteligencia artificial para ver la pantalla de una computadora como un humano y realizar operaciones utilizando el mouse y el teclado."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Proceso de escaneo de software que recopila y guarda automáticamente datos de sitios web."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Hardware informático especializado diseñado para procesar operaciones matemáticas complejas e imágenes a gran velocidad."
+    },
+    {
+      "term": "experts streamed from disk",
+      "explanation": "La carga rápida de las partes especializadas que necesita el modelo de inteligencia artificial desde el disco duro cuando es necesario, en lugar de cargar todas en la memoria."
+    },
+    {
+      "term": "frontier",
+      "explanation": "Modelos de inteligencia artificial que poseen el nivel más alto de rendimiento y capacidad alcanzable con la tecnología actual."
+    },
+    {
+      "term": "MoE",
+      "explanation": "Arquitectura de inteligencia artificial que utiliza secciones especializadas dentro del modelo para resolver tareas complejas."
+    }
+  ]
+}

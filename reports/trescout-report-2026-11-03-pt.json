@@ -1,0 +1,995 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-03",
+  "capturedAt": "2026-11-03T05:10:50.460Z",
+  "editorial": "Agentes de inteligência artificial que operam em ambientes de desktop e modelos de experiência escaláveis que aprimoram as capacidades de uso do computador estão hoje no foco da comunidade de desenvolvedores. Novos modelos de linguagem pequenos (small language models) e estruturas de agentes robóticos de código aberto no Hugging Face estão tornando a interação entre hardware e software mais acessível.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "vercel-labs/agent-desktop",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "summary": "O agent-desktop, desenvolvido pelo Vercel Labs, é uma interface de linha de comando (CLI) que permite que agentes de inteligência artificial leiam e gerenciem aplicativos de desktop por meio da árvore de acessibilidade do sistema operacional. Escrita na linguagem Rust, esta ferramenta visa aprimorar as capacidades de uso do computador (computer use) dos agentes.",
+          "meta": "Rust · ★ 10.481 · +2.275 hoje",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-desktop",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 10481,
+              "engagementCount": 2275,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2275,
+                "baglam": "readme"
+              }
+            },
+            "description": "Computer use CLI for AI agents. Computer use for AI agents: read and operate desktop apps through the OS accessibility tree."
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "thedotmack/claude-mem é uma ferramenta que fornece contexto persistente (persistent context) entre sessões para agentes de inteligência artificial. Ela registra as ações realizadas pelo agente, comprime-as com IA e as transfere para sessões subsequentes, funcionando de forma compatível com várias ferramentas de codificação, como o Claude Code.",
+          "meta": "TypeScript · ★ 110.970 · +1.803 hoje",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 110970,
+              "engagementCount": 1803,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1803
+              }
+            },
+            "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+          }
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling, uma estrutura de web scraping baseada em Python, visa gerenciar todos os processos, desde solicitações individuais até operações de rastreamento abrangentes. Esta ferramenta oferece aos desenvolvedores uma solução de ponta a ponta para tarefas de coleta de dados.",
+          "meta": "Python · ★ 93.234 · +706 hoje",
+          "snapshot": {
+            "sourceId": "D4Vinci/Scrapling",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 93234,
+              "engagementCount": 706,
+              "rank": 3,
+              "extra": {
+                "starsToday": 706
+              }
+            },
+            "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
+          }
+        },
+        {
+          "title": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "summary": "Hyprland é um compositor Wayland de mosaico dinâmico (dynamic tiling) independente, altamente personalizável e que não compromete a estética visual. Desenvolvido na linguagem C++, este projeto oferece um ambiente de trabalho flexível que gerencia automaticamente o layout da interface do usuário.",
+          "meta": "C++ · ★ 40.036 · +509 hoje",
+          "snapshot": {
+            "sourceId": "hyprwm/Hyprland",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 40036,
+              "engagementCount": 509,
+              "rank": 4,
+              "extra": {
+                "starsToday": 509,
+                "baglam": "readme"
+              }
+            },
+            "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+          }
+        },
+        {
+          "title": "Donchitos/Claude-Code-Game-Studios",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "summary": "Donchitos/Claude-Code-Game-Studios transforma o software Claude Code em um estúdio de desenvolvimento de jogos abrangente com 49 agentes de IA e 72 habilidades de fluxo de trabalho (workflow skills). O sistema visa gerenciar processos de produção de jogos por meio de uma estrutura de coordenação que reflete uma hierarquia de estúdio real.",
+          "meta": "Shell · ★ 33.797 · +1.379 hoje",
+          "snapshot": {
+            "sourceId": "Donchitos/Claude-Code-Game-Studios",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 33797,
+              "engagementCount": 1379,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1379
+              }
+            },
+            "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+          }
+        },
+        {
+          "title": "FlashML-org/FreeToken",
+          "url": "https://github.com/FlashML-org/FreeToken",
+          "summary": "FlashML-org/FreeToken é uma biblioteca de software que permite que modelos grandes em escala de data center sejam executados de forma rápida e eficiente em computadores pessoais. Ela permite que os usuários utilizem modelos de mistura de especialistas (Mixture of Experts - MoE) que excedem 290 bilhões de parâmetros em seu hardware local com alta velocidade.",
+          "meta": "Python · ★ 16.218 · +653 hoje",
+          "snapshot": {
+            "sourceId": "FlashML-org/FreeToken",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 16218,
+              "engagementCount": 653,
+              "rank": 6,
+              "extra": {
+                "starsToday": 653,
+                "baglam": "readme"
+              }
+            },
+            "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds."
+          }
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3 Code é uma interface de controle (agent harness control surface) que permite gerenciar agentes de IA em seu computador por meio de aplicativos móveis, web e desktop. Desenvolvida na linguagem TypeScript, esta ferramenta permite intervir no funcionamento dos agentes através de diferentes plataformas.",
+          "meta": "TypeScript · ★ 42.372 · +3.229 hoje",
+          "snapshot": {
+            "sourceId": "pingdotgg/t3code",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 42372,
+              "engagementCount": 3229,
+              "rank": 7,
+              "extra": {
+                "starsToday": 3229,
+                "baglam": "readme"
+              }
+            },
+            "description": "T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app (iOS, Android), web app and Electron-based desktop app."
+          }
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos é uma família de modelos fundamentais (foundation models) desenvolvida para sequências de gráficos de velas (K-line) que compõem a linguagem única dos mercados financeiros. Diferente dos modelos de séries temporais de uso geral, ele utiliza uma estrutura de duas etapas para gerenciar a alta taxa de ruído nos dados financeiros.",
+          "meta": "Python · ★ 46.079 · +857 hoje",
+          "snapshot": {
+            "sourceId": "shiyu-coder/Kronos",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 46079,
+              "engagementCount": 857,
+              "rank": 8,
+              "extra": {
+                "starsToday": 857,
+                "baglam": "readme"
+              }
+            },
+            "description": "Kronos: A Foundation Model for the Language of Financial Markets. Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequences. Unlike general-purpose TSFMs, Kronos is designed to handle the unique, high-noise characteristics of financial data. It leverages a novel two-stage framework: 1."
+          }
+        },
+        {
+          "title": "kornia/kornia",
+          "url": "https://github.com/kornia/kornia",
+          "summary": "Kornia é uma biblioteca de visão computacional diferenciável desenvolvida para aplicações de IA espacial (spatial AI). Esta ferramenta baseada em Python, que roda sobre o PyTorch, combina algoritmos de processamento de imagem e visão geométrica com capacidades de diferenciação automática e aceleração por unidade de processamento gráfico (GPU).",
+          "meta": "Python · ★ 12.195 · +412 hoje",
+          "snapshot": {
+            "sourceId": "kornia/kornia",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 12195,
+              "engagementCount": 412,
+              "rank": 9,
+              "extra": {
+                "starsToday": 412,
+                "baglam": "readme"
+              }
+            },
+            "description": "🐍 Geometric Computer Vision Library for Spatial AI. Kornia is a differentiable computer vision library that provides a rich set of differentiable image processing and geometric vision algorithms. Built on top of PyTorch, Kornia integrates seamlessly into existing AI workflows, allowing you to leverage powerful batch transformations, auto-differentiation and GPU acceleration."
+          }
+        },
+        {
+          "title": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "JustVugg/colibri é um motor C que permite executar modelos de mistura de especialistas (MoE) de fronteira (frontier) em hardware existente, em uma estrutura onde os especialistas são transmitidos do disco (experts streamed from disk). O software visa disponibilizar modelos de grande escala com uma infraestrutura pequena, sem exigir dependências.",
+          "meta": "C · ★ 46.713 · +675 hoje",
+          "snapshot": {
+            "sourceId": "JustVugg/colibri",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 46713,
+              "engagementCount": 675,
+              "rank": 10,
+              "extra": {
+                "starsToday": 675
+              }
+            },
+            "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "mattpocock/skills é uma coleção que contém habilidades (skills) de inteligência artificial desenvolvidas para realizar tarefas reais de engenharia e usadas em fluxos de trabalho diários. Este recurso, que visa obter resultados concretos nos processos de desenvolvimento de software, oferece ferramentas práticas retiradas diretamente do diretório .agents.",
+          "meta": "Shell · ★ 310.429 · +858 hoje",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 310429,
+              "engagementCount": 858,
+              "rank": 11,
+              "extra": {
+                "starsToday": 858,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          }
+        },
+        {
+          "title": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "summary": "Worktrunk é uma interface de linha de comando (CLI) desenvolvida em Rust que facilita o gerenciamento de árvores de trabalho (worktrees) do Git. O software foi projetado para que agentes de inteligência artificial possam executar múltiplos fluxos de trabalho simultaneamente em paralelo.",
+          "meta": "Rust · ★ 10.126 · +77 hoje",
+          "snapshot": {
+            "sourceId": "max-sixty/worktrunk",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 10126,
+              "engagementCount": 77,
+              "rank": 12,
+              "extra": {
+                "starsToday": 77,
+                "baglam": "readme"
+              }
+            },
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows. Worktrunk is a CLI for git worktree management, designed for running AI agents in parallel."
+          }
+        },
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip é uma plataforma de orquestração de código aberto desenvolvida para gerenciar agentes de inteligência artificial no ambiente de trabalho. Ela permite que equipes coordenem múltiplos agentes de IA em conjunto.",
+          "meta": "TypeScript · ★ 110.523 · +412 hoje",
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 110523,
+              "engagementCount": 412,
+              "rank": 13,
+              "extra": {
+                "starsToday": 412,
+                "baglam": "readme"
+              }
+            },
+            "description": "The open-source app everyone uses to manage agents at work. Open-source orchestration for teams of AI agents."
+          }
+        },
+        {
+          "title": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "summary": "karpathy/nanochat é um framework de software experimental desenvolvido para treinar grandes modelos de linguagem (LLMs) que pode ser executado em uma única unidade de processamento gráfico (GPU). Abrangendo processos de tokenização, pré-treinamento, ajuste fino (fine-tuning), avaliação e inferência, este projeto oferece aos desenvolvedores uma estrutura mínima e modificável.",
+          "meta": "Python · ★ 59.998 · +321 hoje",
+          "snapshot": {
+            "sourceId": "karpathy/nanochat",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 59998,
+              "engagementCount": 321,
+              "rank": 14,
+              "extra": {
+                "starsToday": 321,
+                "baglam": "readme"
+              }
+            },
+            "description": "The best ChatGPT that $100 can buy. nanochat is the simplest experimental harness for training LLMs. It is designed to run on a single GPU node, the code is minimal/hackable, and it covers all major LLM stages including tokenization, pretraining, finetuning, evaluation, and inference."
+          }
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "p-e-w/heretic é uma ferramenta de software que permite realizar modificações em modelos de linguagem sem a necessidade de treinamento (training-free). Ela permite que os usuários removam censuras, reduzam conteúdos desnecessários (slop) e diminuam a tendência de bajulação (sycophancy) em modelos de inteligência artificial.",
+          "meta": "Python · ★ 38.219 · +420 hoje",
+          "snapshot": {
+            "sourceId": "p-e-w/heretic",
+            "capturedAt": "2026-11-03T05:10:51.729Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 38219,
+              "engagementCount": 420,
+              "rank": 15,
+              "extra": {
+                "starsToday": 420,
+                "baglam": "readme"
+              }
+            },
+            "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more. Remove censorship, suppress slop, reduce sycophancy, and more. All in an afternoon, on your gaming PC."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Astra can read and write weights to improve Qwen",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+          "summary": "Astra oferece a capacidade de aprimorar grandes modelos de linguagem (LLMs), como o Qwen, lendo e escrevendo diretamente os pesos (weights) dos modelos de IA. Este método demonstra que modelos de inteligência artificial podem realizar operações sobre os pesos de redes neurais de forma mais eficaz do que humanos ou algoritmos tradicionais.",
+          "meta": "2.221 pontos · 720 comentários",
+          "snapshot": {
+            "sourceId": "50341174",
+            "capturedAt": "2026-11-03T05:10:50.854Z",
+            "metadata": {
+              "popularity": 2221,
+              "engagementCount": 720,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50341174",
+                  "popularity": 2221,
+                  "engagementCount": 720
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-02T18:21:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50341174",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50341174",
+              "popularity": 2221,
+              "engagementCount": 720
+            }
+          ]
+        },
+        {
+          "title": "WTF Ubuntu?",
+          "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+          "summary": "O artigo escrito por Chalmovsky critica algumas escolhas de configuração e mudanças técnicas que afetam a experiência do usuário nas versões atuais do sistema operacional Ubuntu. O autor questiona situações inesperadas encontradas no funcionamento do sistema e o impacto dessas mudanças nos usuários.",
+          "meta": "1.397 pontos · 595 comentários",
+          "snapshot": {
+            "sourceId": "50337608",
+            "capturedAt": "2026-11-03T05:10:50.854Z",
+            "metadata": {
+              "popularity": 1397,
+              "engagementCount": 595,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50337608",
+                  "popularity": 1397,
+                  "engagementCount": 595
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-02T14:52:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50337608"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50337608",
+              "popularity": 1397,
+              "engagementCount": 595
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Subvocal – Talk to your computer without making noise",
+          "url": "https://news.ycombinator.com/item?id=50340088",
+          "summary": "A Subvocal está desenvolvendo óculos inteligentes que permitem aos usuários dar comandos aos seus computadores apenas com movimentos labiais, sem emitir som. Essa tecnologia oferece um método de comunicação discreto e rápido ao converter palavras ditas silenciosamente em texto.",
+          "meta": "610 pontos · 319 comentários",
+          "snapshot": {
+            "sourceId": "50340088",
+            "capturedAt": "2026-11-03T05:10:50.854Z",
+            "metadata": {
+              "popularity": 610,
+              "engagementCount": 319,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50340088",
+                  "popularity": 610,
+                  "engagementCount": 319
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-02T17:16:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50340088"
+              }
+            },
+            "description": "Hi HN, we&#x27;re Aarush and Arnav from The Subvocal Company (YC F26) (https:&#x2F;&#x2F;subvocal.company&#x2F;). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of "
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50340088",
+              "popularity": 610,
+              "engagementCount": 319
+            }
+          ]
+        },
+        {
+          "title": "If you love a website, back it up",
+          "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+          "summary": "As preocupações com a permanência de conteúdos na internet enfatizam a necessidade de fazer backup de sites favoritos. Métodos de arquivamento pessoal destacam-se como uma precaução contra o risco de recursos digitais desaparecerem com o tempo.",
+          "meta": "452 pontos · 100 comentários",
+          "snapshot": {
+            "sourceId": "50336518",
+            "capturedAt": "2026-11-03T05:10:50.854Z",
+            "metadata": {
+              "popularity": 452,
+              "engagementCount": 100,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50336518",
+                  "popularity": 452,
+                  "engagementCount": 100
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-02T13:25:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50336518",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "This story starts with a little tragedy. See, I’ve got these old webpages I love to go back and look on every now and then. There’s websites that h..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50336518",
+              "popularity": 452,
+              "engagementCount": 100
+            }
+          ]
+        },
+        {
+          "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+          "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+          "summary": "O Ubuntu ainda não lançou um patch para uma vulnerabilidade crítica de execução remota de código (RCE) com pontuação CVSS 9.8 nas versões 22.04, 24.04 e 26.04. A referida falha aguarda correção para os kernels do sistema operacional há cerca de três semanas.",
+          "meta": "393 pontos · 112 comentários",
+          "snapshot": {
+            "sourceId": "50341462",
+            "capturedAt": "2026-11-03T05:10:50.854Z",
+            "metadata": {
+              "popularity": 393,
+              "engagementCount": 112,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50341462",
+                  "popularity": 393,
+                  "engagementCount": 112
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-02T18:39:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50341462",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "No patched kernels are available yet for 22.04, 24.04, or 26.04 despite a CVSS 9.8 rating."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50341462",
+              "popularity": 393,
+              "engagementCount": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "LiquidAI/LFM3-1.7B",
+          "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+          "summary": "O LFM3-1.7B, desenvolvido pela LiquidAI, é um modelo de geração de texto projetado para agentes locais e aplicações especializadas. Construído sobre uma nova arquitetura tri-híbrida (tri-hybrid architecture), este modelo foca especialmente em soluções de inteligência artificial executadas no próprio dispositivo.",
+          "meta": "♥ 1.213 · 42.384 downloads",
+          "snapshot": {
+            "sourceId": "LiquidAI/LFM3-1.7B",
+            "capturedAt": "2026-11-03T05:10:50.579Z",
+            "metadata": {
+              "popularity": 1213,
+              "engagementCount": 42384,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 776,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "lfm3",
+                  "text-generation",
+                  "liquid",
+                  "edge",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "ar",
+                  "zh",
+                  "fr",
+                  "de",
+                  "it",
+                  "ja",
+                  "ko",
+                  "pt",
+                  "es",
+                  "vi",
+                  "th",
+                  "id",
+                  "hi",
+                  "ru",
+                  "pl",
+                  "base_model:LiquidAI/LFM3-1.7B-Base",
+                  "base_model:finetune:LiquidAI/LFM3-1.7B-Base",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. LFM3-1.7B is a text model for local agents and specialized applications, based on our new tri-hybrid architecture."
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "O deepseek-ai/DeepSeek-V4.1-Flash-1017, compartilhado no Hugging Face, é um modelo de inteligência artificial capaz de processar entradas baseadas em texto e imagem. Ele visa aumentar a eficiência de custos ao reduzir o tempo de processamento e o tamanho da saída, enquanto proporciona um melhor desempenho em raciocínio, escrita de código e tarefas baseadas em agentes.",
+          "meta": "♥ 4.735 · 177.009 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-11-03T05:10:50.579Z",
+            "metadata": {
+              "popularity": 4735,
+              "engagementCount": 177009,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 670,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "deploy:azure",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "summary": "O NVIDIA-Nemotron-3.5-Transcribe-30B-A4B, desenvolvido pela NVIDIA, é um modelo de reconhecimento automático de fala (automatic speech recognition) de pesos abertos capaz de realizar transcrições em 40 idiomas. Operando com uma arquitetura de mistura de especialistas (mixture-of-experts), o modelo consegue processar gravações de áudio de até uma hora e oferece uma ampla janela de contexto.",
+          "meta": "♥ 693 · 32.439 downloads",
+          "snapshot": {
+            "sourceId": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+            "capturedAt": "2026-11-03T05:10:50.579Z",
+            "metadata": {
+              "popularity": 693,
+              "engagementCount": 32439,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 616,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "nemo",
+                  "safetensors",
+                  "nemo_speechlm",
+                  "text2text-generation",
+                  "nvidia",
+                  "pytorch",
+                  "nemotron-3.5",
+                  "speech",
+                  "asr",
+                  "speech-translation",
+                  "speaker-diarization",
+                  "audio",
+                  "transcription",
+                  "speech-to-text",
+                  "multilingual",
+                  "timestamps",
+                  "long-form-audio",
+                  "language-identification",
+                  "code-switching",
+                  "audio-question-answering",
+                  "instruction-following",
+                  "hf-asr-leaderboard",
+                  "transformers",
+                  "automatic-speech-recognition",
+                  "cs",
+                  "nl",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "it",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "sk",
+                  "es",
+                  "bg",
+                  "hr",
+                  "da",
+                  "et",
+                  "fi",
+                  "hu",
+                  "ja",
+                  "lv",
+                  "lt",
+                  "ro",
+                  "sl",
+                  "sv",
+                  "th",
+                  "tr",
+                  "uk",
+                  "ar",
+                  "bn",
+                  "zh",
+                  "el",
+                  "he",
+                  "id",
+                  "mt",
+                  "mr",
+                  "tl",
+                  "ta",
+                  "te",
+                  "vi",
+                  "dataset:nvidia/Granary-v2",
+                  "arxiv:2310.09424",
+                  "base_model:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "base_model:finetune:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "automatic-speech-recognition model. Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hour and a 65,536-token context. Its hybrid mixture-of-experts architecture activates approximately 4.3B parameters, including the audio encoder, and it is released in BF16, FP8, and NVFP4 precision."
+          }
+        },
+        {
+          "title": "mistralai/Mistral-Large-4-1T-A52B",
+          "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+          "summary": "O mistralai/Mistral-Large-4-1T-A52B, desenvolvido pela Mistral AI, é um modelo de inteligência artificial multimodal capaz de processar dados visuais e de texto. Com uma arquitetura de mistura de especialistas (Mixture-of-Experts) de um trilhão de parâmetros, este modelo foi treinado exclusivamente em data centers na Europa.",
+          "meta": "♥ 1.505 · 5.500 downloads",
+          "snapshot": {
+            "sourceId": "mistralai/Mistral-Large-4-1T-A52B",
+            "capturedAt": "2026-11-03T05:10:50.579Z",
+            "metadata": {
+              "popularity": 1505,
+              "engagementCount": 5500,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 507,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "mistral_large4",
+                  "image-text-to-text",
+                  "vLLM",
+                  "SGLang",
+                  "llama.cpp",
+                  "conversational",
+                  "en",
+                  "fr",
+                  "de",
+                  "es",
+                  "pt",
+                  "it",
+                  "ja",
+                  "ko",
+                  "ru",
+                  "zh",
+                  "ar",
+                  "fa",
+                  "id",
+                  "ms",
+                  "ne",
+                  "pl",
+                  "ro",
+                  "sr",
+                  "sv",
+                  "tr",
+                  "uk",
+                  "vi",
+                  "hi",
+                  "bn",
+                  "bg",
+                  "hr",
+                  "cs",
+                  "da",
+                  "nl",
+                  "et",
+                  "fi",
+                  "el",
+                  "hu",
+                  "ga",
+                  "lv",
+                  "lt",
+                  "mt",
+                  "sk",
+                  "sl",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token (52 billion including embeddings and output layers), trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own datacenters in Europe."
+          }
+        },
+        {
+          "title": "baidu/Unlimited-OCR-2",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+          "summary": "O Unlimited-OCR-2, desenvolvido pela Baidu, é um modelo de inteligência artificial de imagem para texto (image-text-to-text) que processa textos baseados em imagens para gerar resultados. O modelo foi disponibilizado para desenvolvedores técnicos através da plataforma Hugging Face.",
+          "meta": "♥ 566 · 147.588 downloads",
+          "snapshot": {
+            "sourceId": "baidu/Unlimited-OCR-2",
+            "capturedAt": "2026-11-03T05:10:50.579Z",
+            "metadata": {
+              "popularity": 566,
+              "engagementCount": 147588,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 437,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "unlimited-ocr",
+                  "feature-extraction",
+                  "baidu",
+                  "vision-language",
+                  "ocr",
+                  "custom_code",
+                  "image-text-to-text",
+                  "multilingual",
+                  "arxiv:2610.39308",
+                  "arxiv:2606.23050",
+                  "license:mit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Tested with Python 3.10, torch==2.13.0, transformers==4.52.1, huggingface-hub==0.36.0, tokenizers==0.21.4, on an NVIDIA A800-80GB:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+          "url": "https://huggingface.co/papers/2611.01560",
+          "summary": "O uni-robot-agent, desenvolvido para Robot-use Agents (RUAs), oferece uma infraestrutura unificada que visa tornar a pesquisa em robótica mais acessível com modelos de pesos abertos. O modelo Qwen3.8-Flash-Next apresenta um desempenho competitivo, superando o resultado do GPT-6 Astra-RoboProbe no teste RoboDojo sem a necessidade de entradas de dados específicas.",
+          "meta": "14 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.01560",
+            "capturedAt": "2026-11-03T05:10:50.586Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.01560",
+                "publishedAt": "2026-11-01T00:00:00.000Z",
+                "githubRepo": "https://github.com/Open-RUA/uni-robot-agent"
+              }
+            },
+            "description": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselin"
+          }
+        },
+        {
+          "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
+          "url": "https://huggingface.co/papers/2611.02102",
+          "summary": "O NorthCUA é um sistema integrado que visa aumentar o desempenho de agentes de IA voltados para o uso de computadores em tarefas de software complexas por meio de experiências escaláveis. O sistema, que executa diversas tarefas através de um ciclo de experiência (Experience Flywheel), registra interações de longo prazo para criar caminhos de solução validados.",
+          "meta": "10 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.02102",
+            "capturedAt": "2026-11-03T05:10:50.586Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.02102",
+                "publishedAt": "2026-11-01T00:00:00.000Z",
+                "githubRepo": "https://github.com/beipo-ai/NorthCUA"
+              }
+            },
+            "description": "Scaling computer-use agents from individual actions to complex software work requires experience that connects decisions to complete outcomes. We present NorthCUA, an integrated system for turbocharging computer-use agents through experience at scale. Its Experience Flywheel supplies diverse executable tasks to the NorthCUA Harness, which sustains long interactions, records decisions, and checks task outcomes. The Flywheel uses these records to curate verified trajectories. For unsolved tasks, r"
+          }
+        },
+        {
+          "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
+          "url": "https://huggingface.co/papers/2611.00859",
+          "summary": "Wave Forcing é um método que projeta processos de geração, treinamento e execução de vídeo em conjunto para produzir saída de vídeo contínua. O objetivo é resolver problemas de eficiência observados em métodos atuais e a perda de qualidade de imagem em vídeos de longa duração.",
+          "meta": "13 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.00859",
+            "capturedAt": "2026-11-03T05:10:50.586Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.00859",
+                "publishedAt": "2026-10-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/SJTU-DENG-Lab/WaveForcing",
+                "githubStars": 68
+              }
+            },
+            "description": "Real-time long-video generation requires continuous output with consistent appearance and natural motion. Existing chunk-wise autoregressive methods face challenges in both generation efficiency and long-video quality: serialized denoising and history-cache refresh require two forward passes even with one-step denoising, and longer rollouts can degrade quality and cause camera drift. We propose Wave Forcing (WF), which co-designs generation, training, and execution for continuous video output wi"
+          }
+        },
+        {
+          "title": "TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents",
+          "url": "https://huggingface.co/papers/2610.41216",
+          "summary": "TinyAstral é um método de duas etapas que visa transferir estruturas auxiliares (harness), como ferramentas, feedback e memória, que grandes modelos de IA possuem, para agentes robóticos menores. Esta abordagem visa levar as capacidades obtidas por grandes modelos através do autoaperfeiçoamento recursivo (recursive self-improvement) para agentes compactos que exigem baixo poder de processamento.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.41216",
+            "capturedAt": "2026-11-03T05:10:50.586Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.41216",
+                "publishedAt": "2026-10-30T03:53:42.000Z",
+                "githubRepo": "https://github.com/Garfield-kh/TinyAstral",
+                "githubStars": 3
+              }
+            },
+            "description": "Robot agents built on vision-language models depend on both the planner and its harness: the tools, feedback, memory, and recovery logic around it. Can improvements to a large teacher's harness be carried into a compact agent with lower inference compute cost? We present TinyAstral, a two-stage approach. We first freeze an open-weight teacher and improve its harness through recursive self-improvement (RSI): frontier LLM agents read the teacher's trajectories and propose harness edits, and each e"
+          }
+        },
+        {
+          "title": "Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay",
+          "url": "https://huggingface.co/papers/2610.27954",
+          "summary": "O artigo compartilhado pela Hugging Face examina o acúmulo de erros e as dificuldades de recuperação enfrentadas por agentes de IA voltados para o uso de computadores em tarefas de longa duração. O estudo visa melhorar os processos de recuperação pós-erro desses agentes através do método de repetição de ação orientada a objetivos (goal-oriented action replay).",
+          "meta": "3 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.27954",
+            "capturedAt": "2026-11-03T05:10:50.586Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.27954",
+                "publishedAt": "2026-10-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/BangProx/ReTRACE",
+                "githubStars": 3
+              }
+            },
+            "description": "Recent advances in large (vision) language models have enabled computer-use agents that automate digital workflows via fine-grained keyboard and mouse operations. However, such agents remain fragile in long-horizon settings, where errors accumulate and executed actions leave unintended side effects, making the ability to recover from failures critical. Yet, existing remedies remain inadequate: environment resets are infeasible in proprietary settings, action replay is prohibitively expensive ove"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerenciar programas inserindo comandos escritos em vez de usar o mouse."
+    },
+    {
+      "term": "computer use",
+      "explanation": "A capacidade de agentes de inteligência artificial de ver a tela do computador como um humano e realizar operações usando o mouse e o teclado."
+    },
+    {
+      "term": "persistent context",
+      "explanation": "Estrutura de memória persistente que permite que agentes de inteligência artificial se lembrem de conversas e informações passadas, mesmo após o encerramento da sessão."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Processo de varredura de software que coleta e salva automaticamente dados de sites da internet."
+    },
+    {
+      "term": "dynamic tiling",
+      "explanation": "Organização automática das janelas abertas na tela do computador de forma ordenada, lado a lado ou uma sobre a outra, sem sobreposição."
+    },
+    {
+      "term": "compositor",
+      "explanation": "Camada de software que gerencia onde cada janela aparece na tela e como as janelas interagem entre si."
+    },
+    {
+      "term": "workflow skills",
+      "explanation": "Definições de tarefas e habilidades específicas que agentes de inteligência artificial usam para concluir um trabalho passo a passo."
+    },
+    {
+      "term": "Mixture of Experts - MoE",
+      "explanation": "Método em que um grande modelo de inteligência artificial é dividido em partes menores, cada uma especializada em diferentes tópicos, executando apenas as necessárias."
+    },
+    {
+      "term": "agent harness control surface",
+      "explanation": "Painel de controle centralizado usado para monitorar e gerenciar agentes de inteligência artificial em execução no computador através de diferentes dispositivos."
+    },
+    {
+      "term": "K-line",
+      "explanation": "Dados de gráfico de velas que mostram as mudanças de preço nos mercados financeiros dentro de um determinado período de tempo."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Modelo de inteligência artificial fundamental treinado com conjuntos de dados muito amplos, sobre o qual podem ser desenvolvidas aplicações em diferentes áreas de especialização."
+    },
+    {
+      "term": "spatial AI",
+      "explanation": "Tecnologia de inteligência artificial que utiliza visão computacional para entender a posição e o movimento de objetos no mundo tridimensional."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Hardware de computador especializado projetado para processar operações matemáticas complexas e imagens com muita rapidez."
+    },
+    {
+      "term": "experts streamed from disk",
+      "explanation": "Processo em que as partes especializadas necessárias para o modelo de inteligência artificial são rapidamente extraídas do disco rígido quando necessário, em vez de carregar todas na memória."
+    },
+    {
+      "term": "frontier",
+      "explanation": "Modelos de inteligência artificial que possuem o mais alto nível de desempenho e capacidade alcançável com a tecnologia atual."
+    },
+    {
+      "term": "MoE",
+      "explanation": "Arquitetura de inteligência artificial que utiliza seções especializadas dentro do modelo para resolver tarefas complexas."
+    }
+  ]
+}
