@@ -26,6 +26,7 @@ For installation steps and getting started guide, you need to visit the official
 
 ## Related dictionary terms
 
+- [Compositor](https://trescout.com/en/dictionary/compositor/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for users who want to customize the desktop environment according to their needs and are looking for a high-performance window manager based on Wayland.

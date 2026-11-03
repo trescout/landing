@@ -59,6 +59,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [NLP](https://trescout.com/de/dictionary/nlp/)
+- [K-line](https://trescout.com/de/dictionary/k-line/)
 - [Foundation Model](https://trescout.com/de/dictionary/foundation-model/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

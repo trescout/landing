@@ -2,16 +2,16 @@
 
 Atlas est un système de contrôle de source (source control) utilisé pour les agents d'intelligence artificielle dans les processus de développement logiciel. Il permet de suivre et d'interroger les modifications effectuées par plusieurs agents de codage à partir d'un point central.
 
-- ★ 8 872
+- ★ 9 561
 - Rust
 - GitHub Trending · 2026-09-03
 
 ## Mises à jour
 
+- **3 novembre 2026:** Étoiles 8,872 → 9,561, dernière version alpha-0.4.1-org-agent (3 novembre 2026).
 - **3 octobre 2026:** Étoiles 7,855 → 8,872, dernière version alpha-0.3.4 (27 septembre 2026).
 - **27 septembre 2026:** Étoiles 7,448 → 7,855, dernière version alpha-0.3.4 (27 septembre 2026).
 - **27 septembre 2026:** Étoiles 4,722 → 7,448, dernière version alpha-0.3.3 (19 septembre 2026).
-- **19 septembre 2026:** Étoiles 4,762 → 4,722, dernière version alpha-0.3.3 (19 septembre 2026).
 
 ## Ce que ça vous apporte
 

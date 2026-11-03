@@ -2,11 +2,12 @@
 
 Mit Obsidian-Skills können Agenten der künstlichen Intelligenz Operationen an der Notizanwendung Obsidian über die Befehlszeilenschnittstelle (CLI) und offene Dateiformate ausführen. Dieses Tool automatisiert die Verwaltung persönlicher Informationen, indem es Agenten ermöglicht, Formate wie Markdown und JSON Canvas zu lesen und zu bearbeiten.
 
-- ★ 48.248
+- ★ 50.666
 - GitHub Trending · 2026-08-14
 
 ## Aktualisierungen
 
+- **3. November 2026:** Sterne 48,248 → 50,666.
 - **13. September 2026:** Sterne 45,950 → 48,248.
 
 ## Was es bringt

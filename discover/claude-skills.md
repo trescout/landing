@@ -2,16 +2,16 @@
 
 Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda 330'dan fazla yetenek paketi (skills) ve 70'in üzerinde özel komut sunuyor. Python tabanlı bu araç seti, yapay zekâ tabanlı iş akışlarını standartlaştırmak ve üretkenliği artırmak amacıyla özelleştirilebilir betikler sağlıyor.
 
-- ★ 29.186
+- ★ 29.196
 - Python
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
 
+- **3 Kasım 2026:** Yıldız 29.186 → 29.196, son sürüm v2.14.7 (3 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 29.039 → 29.186, son sürüm v2.14.6 (2 Kasım 2026).
 - **31 Ekim 2026:** Yıldız 29.039 → 29.039, son sürüm v2.14.5 (31 Ekim 2026).
 - **31 Ekim 2026:** Yıldız 28.939 → 29.039, son sürüm v2.14.4 (30 Ekim 2026).
-- **29 Ekim 2026:** Yıldız 28.795 → 28.939, son sürüm v2.14.3 (29 Ekim 2026).
 
 ## Ne kazandırır?
 

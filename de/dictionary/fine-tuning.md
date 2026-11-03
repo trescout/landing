@@ -64,6 +64,7 @@ Nach dem LIMA-Prinzip liefern 500 bis 2.000 richtig ausgewählte, konsistente un
 - [Transformers](https://trescout.com/de/discover/transformers/)
 - [LLM Course](https://trescout.com/de/discover/llm-course/)
 - [Unsloth](https://trescout.com/de/discover/unsloth/)
+- [Nanochat](https://trescout.com/de/discover/nanochat/)
 - [Ktransformers](https://trescout.com/de/discover/ktransformers/)
 - [Soup](https://trescout.com/de/discover/soup/)
 

@@ -26,6 +26,7 @@ Pour les étapes d'installation et le guide de démarrage, vous devez visiter la
 
 ## Termes liés du glossaire
 
+- [Compositor](https://trescout.com/fr/dictionary/compositor/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux utilisateurs qui souhaitent personnaliser l'environnement de bureau en fonction de leurs besoins et recherchent un gestionnaire de fenêtres performant basé sur Wayland.

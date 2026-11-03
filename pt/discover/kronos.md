@@ -59,6 +59,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [NLP](https://trescout.com/pt/dictionary/nlp/)
+- [K-line](https://trescout.com/pt/dictionary/k-line/)
 - [Foundation Model](https://trescout.com/pt/dictionary/foundation-model/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

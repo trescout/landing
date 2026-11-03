@@ -2,12 +2,13 @@
 
 SmsForwarder é uma ferramenta que encaminha mensagens de texto, chamadas e notificações de aplicativos em dispositivos Android para diferentes plataformas de mensagens ou webhooks dentro da estrutura de regras especificadas. Este software, que permite aos usuários gerenciar remotamente seus dispositivos e acessar dados como status da bateria e contatos, foi desenvolvido na linguagem Kotlin.
 
-- ★ 27.342
+- ★ 28.713
 - Kotlin
 - GitHub Trending · 2026-06-21
 
 ## Atualizações
 
+- **3 de novembro de 2026:** Estrelas 27,342 → 28,713, versão mais recente v3.5.0 (14 de fevereiro de 2026).
 - **2 de agosto de 2026:** Estrelas 26,560 → 27,342, versão mais recente v3.5.0 (14 de fevereiro de 2026).
 
 ## O que você ganha

@@ -15384,14 +15384,14 @@
     "slug": "smsforwarder",
     "title": "SmsForwarder",
     "tagline": "SmsForwarder, Android cihazlardaki kısa mesajları, çağrıları ve uygulama bildirimlerini belirlenen kurallar çerçevesinde…",
-    "meta": "★ 27.342 · Kotlin",
+    "meta": "★ 28.713 · Kotlin",
     "image": "/assets/discover/og/smsforwarder.webp",
     "source": "GitHub",
     "date": "2026-06-21",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 27342,
+    "stars": 28713,
     "lite": false,
     "headline": "Android mesajlarınızı farklı platformlara yönlendirin",
     "last_review": "2026-11-03",
@@ -15400,6 +15400,13 @@
         "tarih": "2026-08-02",
         "yildiz": 27342,
         "onceki_yildiz": 26560,
+        "surum": "v3.5.0",
+        "surum_tarihi": "2026-02-14"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 28713,
+        "onceki_yildiz": 27342,
         "surum": "v3.5.0",
         "surum_tarihi": "2026-02-14"
       }
@@ -16264,7 +16271,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 77.848 · TypeScript",
+    "meta": "★ 77.950 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -16272,7 +16279,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 77848,
+    "stars": 77950,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-11-03",
@@ -16920,6 +16927,13 @@
         "onceki_yildiz": 77338,
         "surum": "v0.9.6",
         "surum_tarihi": "2026-11-02"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 77950,
+        "onceki_yildiz": 77848,
+        "surum": "v0.9.7",
+        "surum_tarihi": "2026-11-03"
       }
     ],
     "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.",
@@ -18256,7 +18270,7 @@
     "slug": "mineru",
     "title": "MinerU",
     "tagline": "MinerU, PDF ve Office gibi karmaşık belge formatlarını büyük dil modelleri (large language models) için uygun olan işaretleme…",
-    "meta": "★ 83.017 · Python",
+    "meta": "★ 83.034 · Python",
     "image": "/assets/discover/og/mineru.webp",
     "source": "GitHub",
     "date": "2026-06-26",
@@ -18264,7 +18278,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 83017,
+    "stars": 83034,
     "lite": false,
     "headline": "Belgelerinizi yapay zekâ için dönüştürün",
     "last_review": "2026-11-03",
@@ -18359,6 +18373,13 @@
         "onceki_yildiz": 82833,
         "surum": "mineru-4.1.4-released",
         "surum_tarihi": "2026-11-02"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 83034,
+        "onceki_yildiz": 83017,
+        "surum": "mineru-4.1.5-released",
+        "surum_tarihi": "2026-11-03"
       }
     ],
     "tagline_en": "MinerU provides markup for complex document formats such as PDF and Office, suitable for large language models.",
@@ -20655,7 +20676,7 @@
     "slug": "caveman",
     "title": "Caveman",
     "tagline": "Caveman, Claude Code için geliştirilen ve yapay zekâ modelinin dil kullanımını basitleştirerek belirteç (token) tüketimini…",
-    "meta": "★ 111.432 · JavaScript",
+    "meta": "★ 117.026 · JavaScript",
     "image": "/assets/discover/og/caveman.webp",
     "source": "GitHub",
     "date": "2026-07-03",
@@ -20663,7 +20684,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 111432,
+    "stars": 117026,
     "lite": false,
     "headline": "Yapay zekâ yanıtlarını kısaltarak tasarruf edin",
     "last_review": "2026-11-03",
@@ -20770,6 +20791,13 @@
         "tarih": "2026-10-13",
         "yildiz": 111432,
         "onceki_yildiz": 110510,
+        "surum": "v4.0.1",
+        "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 117026,
+        "onceki_yildiz": 111432,
         "surum": "v4.0.1",
         "surum_tarihi": "2026-10-13"
       }
@@ -22126,7 +22154,7 @@
     "slug": "claude-skills",
     "title": "Claude Skills",
     "tagline": "Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda…",
-    "meta": "★ 29.186 · Python",
+    "meta": "★ 29.196 · Python",
     "image": "/assets/discover/og/claude-skills.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -22134,7 +22162,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 29186,
+    "stars": 29196,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına uzmanlık kazandırın",
     "last_review": "2026-11-03",
@@ -22229,6 +22257,13 @@
         "onceki_yildiz": 29039,
         "surum": "v2.14.6",
         "surum_tarihi": "2026-11-02"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 29196,
+        "onceki_yildiz": 29186,
+        "surum": "v2.14.7",
+        "surum_tarihi": "2026-11-03"
       }
     ],
     "tagline_en": "This library, developed for Claude Code and various coding agents, is used in different fields from engineering to marketing.",
@@ -33960,7 +33995,7 @@
     "slug": "invidious",
     "title": "Invidious",
     "tagline": "Invidious, reklam ve takip olmadan YouTube için alternatif açık kaynaklı bir arayüz sunar; herkese açık instance veya self-host kurulum seçeneklerini inceleyin.",
-    "meta": "★ 25.610",
+    "meta": "★ 25.843",
     "image": "/assets/discover/og/invidious.webp",
     "source": "GitHub",
     "date": "2026-08-02",
@@ -33968,7 +34003,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 25610,
+    "stars": 25843,
     "summary": "Invidious, YouTube için açık kaynaklı alternatif bir arayüzdür. Resmî README; reklam ve takip olmadan kullanım, JavaScript gerektirmeme, Google’dan bağımsız abonelikler ile veri içe ve dışa aktarma özelliklerini listeler.",
     "headline": "YouTube için açık kaynaklı alternatif arayüz",
     "lite": false,
@@ -34207,6 +34242,13 @@
         "onceki_yildiz": 24794,
         "surum": "v2.20261022.0",
         "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 25843,
+        "onceki_yildiz": 25610,
+        "surum": "v2.20261103.0",
+        "surum_tarihi": "2026-11-03"
       }
     ],
     "last_review": "2026-11-03",
@@ -35018,7 +35060,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 65.996 · Python",
+    "meta": "★ 66.016 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -35026,7 +35068,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 65996,
+    "stars": 66016,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-11-03",
@@ -35288,6 +35330,13 @@
         "yildiz": 65996,
         "onceki_yildiz": 64715,
         "surum": "v6.18.7",
+        "surum_tarihi": "2026-11-03"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 66016,
+        "onceki_yildiz": 65996,
+        "surum": "v6.18.9",
         "surum_tarihi": "2026-11-03"
       }
     ]
@@ -39637,7 +39686,7 @@
     "slug": "obsidian-skills",
     "title": "Obsidian Skills",
     "tagline": "Obsidian-skills, not alma uygulaması Obsidian üzerinde yapay zekâ ajanlarının komut satırı arayüzü (CLI) ve açık dosya…",
-    "meta": "★ 48.248",
+    "meta": "★ 50.666",
     "image": "/assets/discover/og/obsidian-skills.webp",
     "source": "GitHub",
     "date": "2026-08-14",
@@ -39645,7 +39694,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 48248,
+    "stars": 50666,
     "lite": false,
     "headline": "Obsidian notlarınıza yapay zekâ yetenekleri ekleyin",
     "tagline_en": "Obsidian-skills is a command line interface (CLI) and open file interface of artificial intelligence agents on the note-taking application Obsidian.",
@@ -39660,6 +39709,11 @@
         "tarih": "2026-09-13",
         "yildiz": 48248,
         "onceki_yildiz": 45950
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 50666,
+        "onceki_yildiz": 48248
       }
     ]
   },
@@ -40432,7 +40486,7 @@
     "slug": "ai-memory",
     "title": "AI Memory",
     "tagline": "Rust diliyle yazılan ai-memory, yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor.",
-    "meta": "★ 14.760 · Rust",
+    "meta": "★ 14.973 · Rust",
     "image": "/assets/discover/og/ai-memory.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -40440,7 +40494,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 14760,
+    "stars": 14973,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına kalıcı hafıza",
     "needs_enrichment": true,
@@ -40752,6 +40806,13 @@
         "onceki_yildiz": 14468,
         "surum": "v3.3.1",
         "surum_tarihi": "2026-11-01"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 14973,
+        "onceki_yildiz": 14760,
+        "surum": "v3.3.2",
+        "surum_tarihi": "2026-11-03"
       }
     ],
     "last_seen": "2026-10-22"
@@ -47057,7 +47118,7 @@
     "slug": "atlas",
     "title": "Atlas",
     "tagline": "Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları için bir kaynak kontrolü (source control) sistemi.",
-    "meta": "★ 8.872 · Rust",
+    "meta": "★ 9.561 · Rust",
     "image": "/assets/discover/og/atlas.webp",
     "source": "GitHub",
     "date": "2026-09-03",
@@ -47065,7 +47126,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8872,
+    "stars": 9561,
     "summary": "Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları için bir kaynak kontrolü (source control) sistemi. Birden fazla kodlama ajanının yaptığı değişiklikleri tek bir merkezden izlemeye ve sorgulamaya olanak tanıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için kaynak kontrolü",
@@ -47126,6 +47187,13 @@
         "onceki_yildiz": 7855,
         "surum": "alpha-0.3.4",
         "surum_tarihi": "2026-09-27"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 9561,
+        "onceki_yildiz": 8872,
+        "surum": "alpha-0.4.1-org-agent",
+        "surum_tarihi": "2026-11-03"
       }
     ],
     "tagline_en": "Atlas is a source control system for artificial intelligence agents used in software development processes.",
@@ -53415,7 +53483,7 @@
     "slug": "dbx",
     "title": "DBX",
     "tagline": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi…",
-    "meta": "★ 28.780 · Rust",
+    "meta": "★ 28.850 · Rust",
     "image": "/assets/discover/og/dbx.webp",
     "source": "GitHub",
     "date": "2026-09-29",
@@ -53423,7 +53491,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28780,
+    "stars": 28850,
     "last_seen": "2026-10-01",
     "summary": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.",
     "lite": false,
@@ -53667,6 +53735,13 @@
         "onceki_yildiz": 28560,
         "surum": "v0.6.64",
         "surum_tarihi": "2026-11-02"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 28850,
+        "onceki_yildiz": 28780,
+        "surum": "v0.6.65",
+        "surum_tarihi": "2026-11-03"
       }
     ],
     "tagline_en": "Developed in Rust, dbx is a lightweight 25 MB database client supporting more than 100 database types…",
@@ -56687,7 +56762,7 @@
     "slug": "microduck",
     "title": "Microduck",
     "tagline": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek…",
-    "meta": "★ 13.178 · Rust",
+    "meta": "★ 13.370 · Rust",
     "image": "/assets/discover/og/microduck.webp",
     "source": "GitHub",
     "date": "2026-10-25",
@@ -56695,7 +56770,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13178,
+    "stars": 13370,
     "last_seen": "2026-10-26",
     "summary": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek robot projesidir. Rust diliyle yazılan yazılım, yapay zekâ politikaları (neural policies) üzerinden on beş servoyu yöneterek robotun hareket ve kontrol süreçlerini yürütür.",
     "lite": false,
@@ -56731,6 +56806,13 @@
         "onceki_yildiz": 13108,
         "surum": "daemon-v0.18.3",
         "surum_tarihi": "2026-10-30"
+      },
+      {
+        "tarih": "2026-11-03",
+        "yildiz": 13370,
+        "onceki_yildiz": 13178,
+        "surum": "daemon-v0.18.4",
+        "surum_tarihi": "2026-11-03"
       }
     ],
     "tagline_en": "Developed by Pollen Robotics, microduck is a 25-centimeter bipedal duck powered by the Rockchip RK3566 processor…",

@@ -2,11 +2,12 @@
 
 Obsidian-skills, not alma uygulaması Obsidian üzerinde yapay zekâ ajanlarının komut satırı arayüzü (CLI) ve açık dosya biçimlerini kullanarak işlem yapmasını sağlıyor. Bu araç, ajanların Markdown ve JSON Canvas gibi formatları okuyup düzenlemesine olanak tanıyarak kişisel bilgi yönetimini otomatize ediyor.
 
-- ★ 48.248
+- ★ 50.666
 - GitHub Trending · 2026-08-14
 
 ## Güncelleme
 
+- **3 Kasım 2026:** Yıldız 48.248 → 50.666.
 - **13 Eylül 2026:** Yıldız 45.950 → 48.248.
 
 ## Ne kazandırır?

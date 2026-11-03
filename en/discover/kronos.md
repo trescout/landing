@@ -59,6 +59,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [NLP](https://trescout.com/en/dictionary/nlp/)
+- [K-line](https://trescout.com/en/dictionary/k-line/)
 - [Foundation Model](https://trescout.com/en/dictionary/foundation-model/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

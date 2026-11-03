@@ -59,6 +59,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [NLP](https://trescout.com/es/dictionary/nlp/)
+- [K-line](https://trescout.com/es/dictionary/k-line/)
 - [Foundation Model](https://trescout.com/es/dictionary/foundation-model/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

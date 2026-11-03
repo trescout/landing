@@ -2,16 +2,16 @@
 
 Atlas ist ein Quellcodeverwaltungssystem (Source Control) für KI-Agenten, die in Softwareentwicklungsprozessen eingesetzt werden. Es ermöglicht die zentrale Überwachung und Abfrage von Änderungen, die von mehreren Programmieragenten vorgenommen wurden.
 
-- ★ 8.872
+- ★ 9.561
 - Rust
 - GitHub Trending · 2026-09-03
 
 ## Aktualisierungen
 
+- **3. November 2026:** Sterne 8,872 → 9,561, neueste Version alpha-0.4.1-org-agent (3. November 2026).
 - **3. Oktober 2026:** Sterne 7,855 → 8,872, neueste Version alpha-0.3.4 (27. September 2026).
 - **27. September 2026:** Sterne 7,448 → 7,855, neueste Version alpha-0.3.4 (27. September 2026).
 - **27. September 2026:** Sterne 4,722 → 7,448, neueste Version alpha-0.3.3 (19. September 2026).
-- **19. September 2026:** Sterne 4,762 → 4,722, neueste Version alpha-0.3.3 (19. September 2026).
 
 ## Was es bringt
 

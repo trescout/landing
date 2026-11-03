@@ -59,6 +59,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [NLP](https://trescout.com/fr/dictionary/nlp/)
+- [K-line](https://trescout.com/fr/dictionary/k-line/)
 - [Foundation Model](https://trescout.com/fr/dictionary/foundation-model/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

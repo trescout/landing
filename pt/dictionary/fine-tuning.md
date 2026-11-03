@@ -64,6 +64,7 @@ De acordo com o princípio LIMA, 500 a 2.000 amostras corretamente selecionadas,
 - [Transformers](https://trescout.com/pt/discover/transformers/)
 - [LLM Course](https://trescout.com/pt/discover/llm-course/)
 - [Unsloth](https://trescout.com/pt/discover/unsloth/)
+- [Nanochat](https://trescout.com/pt/discover/nanochat/)
 - [Ktransformers](https://trescout.com/pt/discover/ktransformers/)
 - [Soup](https://trescout.com/pt/discover/soup/)
 
