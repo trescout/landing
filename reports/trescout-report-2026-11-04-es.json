@@ -1,0 +1,940 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-04",
+  "capturedAt": "2026-11-04T05:15:36.374Z",
+  "editorial": "Hoy en el ecosistema de desarrolladores destacan las herramientas centradas en la gestión de memoria personal (memory management) y los agentes de inteligencia artificial (AI agents) de escritorio. Mientras que los debates sobre el intercambio de datos en Postman recuerdan la importancia de los estándares de seguridad y privacidad, en Hugging Face llaman la atención los nuevos modelos de lenguaje (language models) y las estrategias de enrutamiento (routing strategies).",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "thedotmack/claude-mem es una herramienta que proporciona un contexto persistente (persistent context) entre sesiones para agentes de inteligencia artificial. Comprime los datos de la sesión con IA para que la información relevante esté disponible para su reutilización en futuras operaciones y es compatible con diversas herramientas de desarrollo como Claude Code.",
+          "meta": "TypeScript · ★ 112.131 · +1.139 hoy",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 112131,
+              "engagementCount": 1139,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1139
+              }
+            },
+            "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+          }
+        },
+        {
+          "title": "vercel-labs/agent-desktop",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "summary": "agent-desktop, desarrollado por Vercel Labs, es una interfaz de línea de comandos (CLI) que permite a los agentes de inteligencia artificial ver y gestionar aplicaciones de escritorio en sistemas operativos macOS, Windows y Linux. Escrita en Rust, esta herramienta utiliza el árbol de accesibilidad (accessibility tree) del sistema operativo para permitir que los agentes realicen operaciones en la computadora.",
+          "meta": "Rust · ★ 13.234 · +3.791 hoy",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-desktop",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 13234,
+              "engagementCount": 3791,
+              "rank": 2,
+              "extra": {
+                "starsToday": 3791,
+                "baglam": "readme"
+              }
+            },
+            "description": "Computer use CLI for AI agents. Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree."
+          }
+        },
+        {
+          "title": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "summary": "Worktrunk es una interfaz de línea de comandos (CLI) desarrollada en Rust que facilita la gestión de árboles de trabajo (worktree) de Git. El software está diseñado para que los agentes de inteligencia artificial puedan ejecutar flujos de trabajo paralelos de manera más eficiente.",
+          "meta": "Rust · ★ 10.611 · +438 hoy",
+          "snapshot": {
+            "sourceId": "max-sixty/worktrunk",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 10611,
+              "engagementCount": 438,
+              "rank": 3,
+              "extra": {
+                "starsToday": 438,
+                "baglam": "readme"
+              }
+            },
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows. Worktrunk is a CLI for git worktree management, designed for running AI agents in parallel."
+          }
+        },
+        {
+          "title": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "JustVugg/colibri es un motor de inferencia jerárquico desarrollado para modelos de mezcla de expertos (MoE) de frontera (frontier). Escrita en lenguaje C, esta herramienta permite ejecutar modelos expertos en el hardware disponible distribuyéndolos entre la GPU, la RAM y las unidades de almacenamiento NVMe.",
+          "meta": "C · ★ 47.357 · +802 hoy",
+          "snapshot": {
+            "sourceId": "JustVugg/colibri",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 47357,
+              "engagementCount": 802,
+              "rank": 4,
+              "extra": {
+                "starsToday": 802
+              }
+            },
+            "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own."
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Mattpocock/skills contiene capacidades de agentes de inteligencia artificial (agent skills) utilizadas en procesos de ingeniería reales y desarrolladas para apoyar los flujos de trabajo diarios. El proyecto ofrece un conjunto de herramientas centrado en aplicaciones prácticas directas para automatizar tareas de desarrollo de software.",
+          "meta": "Shell · ★ 311.699 · +1.164 hoy",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 311699,
+              "engagementCount": 1164,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1164,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          }
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "p-e-w/heretic es un proyecto de Python que permite realizar modificaciones en modelos de lenguaje sin necesidad de entrenamiento (training-free). Permite a los usuarios eliminar censuras, reducir contenido innecesario (slop) y disminuir la tendencia a la adulación (sycophancy) del modelo de IA en una computadora de juegos estándar.",
+          "meta": "Python · ★ 38.937 · +701 hoy",
+          "snapshot": {
+            "sourceId": "p-e-w/heretic",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 38937,
+              "engagementCount": 701,
+              "rank": 6,
+              "extra": {
+                "starsToday": 701,
+                "baglam": "readme"
+              }
+            },
+            "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more. Remove censorship, suppress slop, reduce sycophancy, and more. All in an afternoon, on your gaming PC."
+          }
+        },
+        {
+          "title": "spotify/portal-ai-plugins",
+          "url": "https://github.com/spotify/portal-ai-plugins",
+          "summary": "portal-ai-plugins, desarrollado por Spotify, permite integrar el sistema Spotify Portal en herramientas de codificación asistidas por IA como Claude Code, Codex, Cursor y pi. Estos complementos, escritos en TypeScript, facilitan a los desarrolladores el acceso a datos de Spotify en sus entornos de trabajo.",
+          "meta": "TypeScript · ★ 3.084 · +91 hoy",
+          "snapshot": {
+            "sourceId": "spotify/portal-ai-plugins",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3084,
+              "engagementCount": 91,
+              "rank": 7,
+              "extra": {
+                "starsToday": 91,
+                "baglam": "readme"
+              }
+            },
+            "description": "Bring Spotify Portal into Claude Code, Codex, Cursor, and pi."
+          }
+        },
+        {
+          "title": "floci-io/floci",
+          "url": "https://github.com/floci-io/floci",
+          "summary": "Floci, desarrollado en lenguaje Java, es un emulador local de AWS de código abierto (cuyo código fuente es accesible para todos) utilizado para procesos de desarrollo de software, pruebas e integración continua (CI). Ofrece a los desarrolladores una alternativa gratuita al imitar los servicios ofrecidos por la plataforma de computación en la nube AWS en un entorno local.",
+          "meta": "Java · ★ 28.976 · +482 hoy",
+          "snapshot": {
+            "sourceId": "floci-io/floci",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 28976,
+              "engagementCount": 482,
+              "rank": 8,
+              "extra": {
+                "starsToday": 482,
+                "baglam": "readme"
+              }
+            },
+            "description": "Light, fluffy, and always free - The AWS Local Emulator alternative. Floci is a free, open-source local AWS emulator for development, testing, and CI."
+          }
+        },
+        {
+          "title": "Usagi-org/ai-goofish-monitor",
+          "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+          "summary": "Usagi-org/ai-goofish-monitor es un sistema que utiliza la herramienta de automatización de navegadores Playwright y la inteligencia artificial para realizar seguimiento y análisis de tareas múltiples en la plataforma de compraventa de segunda mano Xianyu. Los usuarios pueden monitorear productos en la plataforma en tiempo real o de forma programada gracias a una interfaz de gestión basada en web.",
+          "meta": "Python · ★ 16.695 · +228 hoy",
+          "snapshot": {
+            "sourceId": "Usagi-org/ai-goofish-monitor",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 16695,
+              "engagementCount": 228,
+              "rank": 9,
+              "extra": {
+                "starsToday": 228,
+                "baglam": "readme"
+              }
+            },
+            "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。. 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。"
+          }
+        },
+        {
+          "title": "anomalyco/hex",
+          "url": "https://github.com/anomalyco/hex",
+          "summary": "Hex, desarrollado en lenguaje Rust, ofrece dictado de voz (voice dictation) local para sistemas operativos Mac, Windows y Linux. Es una herramienta que permite a los usuarios hablar manteniendo presionada una tecla y que el texto se pegue directamente en el campo correspondiente.",
+          "meta": "Rust · ★ 4.711 · +410 hoy",
+          "snapshot": {
+            "sourceId": "anomalyco/hex",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 4711,
+              "engagementCount": 410,
+              "rank": 10,
+              "extra": {
+                "starsToday": 410,
+                "baglam": "readme"
+              }
+            },
+            "description": "Local voice dictation for mac, windows and linux. Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes."
+          }
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling es un marco de trabajo (framework) de web scraping en Python capaz de gestionar todos los procesos, desde solicitudes simples hasta operaciones de rastreo exhaustivas. Ofrece a los usuarios la posibilidad de recopilar datos escalables a través de una única herramienta.",
+          "meta": "Python · ★ 95.188 · +1.658 hoy",
+          "snapshot": {
+            "sourceId": "D4Vinci/Scrapling",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 95188,
+              "engagementCount": 1658,
+              "rank": 11,
+              "extra": {
+                "starsToday": 1658
+              }
+            },
+            "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
+          }
+        },
+        {
+          "title": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "summary": "Kronos, entrenado específicamente para secuencias de velas (K-line), que son el lenguaje de los mercados financieros, es una familia de modelos base (foundation models) desarrollada para procesar datos de mercado con alto ruido. A diferencia de los modelos de series temporales de propósito general, este sistema utiliza un marco de dos etapas y tiene como objetivo analizar las características únicas de los datos financieros.",
+          "meta": "Python · ★ 46.597 · +503 hoy",
+          "snapshot": {
+            "sourceId": "shiyu-coder/Kronos",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 46597,
+              "engagementCount": 503,
+              "rank": 12,
+              "extra": {
+                "starsToday": 503,
+                "baglam": "readme"
+              }
+            },
+            "description": "Kronos: A Foundation Model for the Language of Financial Markets. Kronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequences. Unlike general-purpose TSFMs, Kronos is designed to handle the unique, high-noise characteristics of financial data. It leverages a novel two-stage framework: 1."
+          }
+        },
+        {
+          "title": "Donchitos/Claude-Code-Game-Studios",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "summary": "Donchitos/Claude-Code-Game-Studios transforma a Claude Code en un estudio de desarrollo de juegos integral con 49 agentes de inteligencia artificial y 72 habilidades de flujo de trabajo (workflow skills). Gracias a un sistema de coordinación que refleja una jerarquía de estudio real, busca automatizar los procesos de producción de juegos.",
+          "meta": "Shell · ★ 34.832 · +1.182 hoy",
+          "snapshot": {
+            "sourceId": "Donchitos/Claude-Code-Game-Studios",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 34832,
+              "engagementCount": 1182,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1182
+              }
+            },
+            "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "summary": "Postman, la herramienta de desarrollo y prueba de API, está siendo criticada por intentar compartir todos los datos de la API mediante la instalación de complementos de inteligencia artificial sin el conocimiento de los usuarios. Esta situación está generando un debate entre los usuarios sobre las políticas de privacidad y seguridad de datos del software en cuestión.",
+          "meta": "1.133 puntos · 370 comentarios",
+          "snapshot": {
+            "sourceId": "50354960",
+            "capturedAt": "2026-11-04T05:15:36.770Z",
+            "metadata": {
+              "popularity": 1133,
+              "engagementCount": 370,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50354960",
+                  "popularity": 1133,
+                  "engagementCount": 370
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-03T17:22:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50354960"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50354960",
+              "popularity": 1133,
+              "engagementCount": 370
+            }
+          ]
+        },
+        {
+          "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+          "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+          "summary": "Se señala que las afirmaciones de que el modelo Astra puede leer y escribir pesos de Qwen son engañosas. Se afirma que los experimentos de lectura realizados sobre pesos brutos y las técnicas destinadas a mejorar el modelo Qwen utilizan métodos completamente diferentes.",
+          "meta": "940 puntos · 196 comentarios",
+          "snapshot": {
+            "sourceId": "50351111",
+            "capturedAt": "2026-11-04T05:15:36.770Z",
+            "metadata": {
+              "popularity": 940,
+              "engagementCount": 196,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50351111",
+                  "popularity": 940,
+                  "engagementCount": 196
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-03T12:21:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50351111",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "The experiments that read raw weights and the ones that fix Qwen use completely different techniques."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50351111",
+              "popularity": 940,
+              "engagementCount": 196
+            }
+          ]
+        },
+        {
+          "title": "Jailbreaking my car's navigation system just so I can change the time",
+          "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+          "summary": "Un usuario obtuvo acceso no autorizado (jailbreak) al sistema de navegación de su vehículo marca Renault con el fin de cambiar la configuración horaria. Durante este proceso, superó las restricciones del software para intervenir en el sistema integrado del vehículo.",
+          "meta": "689 puntos · 287 comentarios",
+          "snapshot": {
+            "sourceId": "50339288",
+            "capturedAt": "2026-11-04T05:15:36.770Z",
+            "metadata": {
+              "popularity": 689,
+              "engagementCount": 287,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50339288",
+                  "popularity": 689,
+                  "engagementCount": 287
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-02T16:29:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50339288"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50339288",
+              "popularity": 689,
+              "engagementCount": 287
+            }
+          ]
+        },
+        {
+          "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+          "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+          "summary": "El modelo Qwen 3.8 27B destaca por su capacidad para leer y procesar directamente los pesos de los modelos de inteligencia artificial (model weights). Esta capacidad pone sobre la mesa un nuevo enfoque de programación (weight-space programming) en el que los grandes modelos de lenguaje (LLM) pueden interpretar localmente los pesos de las redes neuronales.",
+          "meta": "541 puntos · 170 comentarios",
+          "snapshot": {
+            "sourceId": "50355251",
+            "capturedAt": "2026-11-04T05:15:36.770Z",
+            "metadata": {
+              "popularity": 541,
+              "engagementCount": 170,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50355251",
+                  "popularity": 541,
+                  "engagementCount": 170
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-03T17:40:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50355251",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, …"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50355251",
+              "popularity": 541,
+              "engagementCount": 170
+            }
+          ]
+        },
+        {
+          "title": "Stringman, an $800 open-source room scale gripper robot",
+          "url": "https://neufangled.com/",
+          "summary": "Stringman es un proyecto de robot manipulador a escala de habitación de código abierto (cuyo código fuente está disponible para todos) que cuesta aproximadamente 800 dólares. El proyecto ofrece una solución de hardware rentable para que los usuarios desarrollen sus propios sistemas robóticos.",
+          "meta": "472 puntos · 163 comentarios",
+          "snapshot": {
+            "sourceId": "50354358",
+            "capturedAt": "2026-11-04T05:15:36.770Z",
+            "metadata": {
+              "popularity": 472,
+              "engagementCount": 163,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50354358",
+                  "popularity": 472,
+                  "engagementCount": 163
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-03T16:47:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50354358"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50354358",
+              "popularity": 472,
+              "engagementCount": 163
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "LiquidAI/LFM3-1.7B",
+          "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+          "summary": "LFM3-1.7B, desarrollado por LiquidAI, es un modelo de inteligencia artificial con capacidad de generación de texto. Diseñado para agentes locales y aplicaciones especializadas, este modelo se basa en una arquitectura tri-híbrida (tri-hybrid) recientemente desarrollada.",
+          "meta": "♥ 1.416 · 47.817 descargas",
+          "snapshot": {
+            "sourceId": "LiquidAI/LFM3-1.7B",
+            "capturedAt": "2026-11-04T05:15:36.513Z",
+            "metadata": {
+              "popularity": 1416,
+              "engagementCount": 47817,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 679,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "lfm3",
+                  "text-generation",
+                  "liquid",
+                  "edge",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "ar",
+                  "zh",
+                  "fr",
+                  "de",
+                  "it",
+                  "ja",
+                  "ko",
+                  "pt",
+                  "es",
+                  "vi",
+                  "th",
+                  "id",
+                  "hi",
+                  "ru",
+                  "pl",
+                  "base_model:LiquidAI/LFM3-1.7B-Base",
+                  "base_model:finetune:LiquidAI/LFM3-1.7B-Base",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. LFM3-1.7B is a text model for local agents and specialized applications, based on our new tri-hybrid architecture."
+          }
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "summary": "NVIDIA-Nemotron-3.5-Transcribe-30B-A4B, desarrollado por NVIDIA, es un modelo de reconocimiento automático de voz (automatic speech recognition) de pesos abiertos capaz de transcribir en 40 idiomas. El modelo, que funciona con una arquitectura de mezcla de expertos (mixture-of-experts), puede procesar grabaciones de audio de hasta una hora y ofrece una amplia ventana de contexto.",
+          "meta": "♥ 743 · 38.942 descargas",
+          "snapshot": {
+            "sourceId": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+            "capturedAt": "2026-11-04T05:15:36.513Z",
+            "metadata": {
+              "popularity": 743,
+              "engagementCount": 38942,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 659,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "nemo",
+                  "safetensors",
+                  "nemo_speechlm",
+                  "text2text-generation",
+                  "nvidia",
+                  "pytorch",
+                  "nemotron-3.5",
+                  "speech",
+                  "asr",
+                  "speech-translation",
+                  "speaker-diarization",
+                  "audio",
+                  "transcription",
+                  "speech-to-text",
+                  "multilingual",
+                  "timestamps",
+                  "long-form-audio",
+                  "language-identification",
+                  "code-switching",
+                  "audio-question-answering",
+                  "instruction-following",
+                  "hf-asr-leaderboard",
+                  "transformers",
+                  "automatic-speech-recognition",
+                  "cs",
+                  "nl",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "it",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "sk",
+                  "es",
+                  "bg",
+                  "hr",
+                  "da",
+                  "et",
+                  "fi",
+                  "hu",
+                  "ja",
+                  "lv",
+                  "lt",
+                  "ro",
+                  "sl",
+                  "sv",
+                  "th",
+                  "tr",
+                  "uk",
+                  "ar",
+                  "bn",
+                  "zh",
+                  "el",
+                  "he",
+                  "id",
+                  "mt",
+                  "mr",
+                  "tl",
+                  "ta",
+                  "te",
+                  "vi",
+                  "dataset:nvidia/Granary-v2",
+                  "arxiv:2310.09424",
+                  "base_model:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "base_model:finetune:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "automatic-speech-recognition model. Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hour and a 65,536-token context. Its hybrid mixture-of-experts architecture activates approximately 4.3B parameters, including the audio encoder, and it is released in BF16, FP8, and NVFP4 precision."
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "deepseek-ai/DeepSeek-V4.1-Flash-1017, publicado en Hugging Face, es un modelo de inteligencia artificial capaz de procesar datos basados en texto e imágenes. Su objetivo es reducir el tiempo de procesamiento y los costos, al tiempo que proporciona un aumento en el rendimiento en tareas de razonamiento, codificación y basadas en agentes en comparación con la versión anterior.",
+          "meta": "♥ 4.870 · 187.260 descargas",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-11-04T05:15:36.513Z",
+            "metadata": {
+              "popularity": 4870,
+              "engagementCount": 187260,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 607,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "deploy:azure",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "mistralai/Mistral-Large-4-1T-A52B",
+          "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+          "summary": "mistralai/Mistral-Large-4-1T-A52B, desarrollado por Mistral AI, es un modelo de inteligencia artificial multimodal capaz de procesar datos de texto e imágenes. Este modelo, que cuenta con una arquitectura de mezcla de expertos (Mixture-of-Experts) de un billón de parámetros, ha sido entrenado específicamente en centros de datos en Europa.",
+          "meta": "♥ 1.552 · 6.556 descargas",
+          "snapshot": {
+            "sourceId": "mistralai/Mistral-Large-4-1T-A52B",
+            "capturedAt": "2026-11-04T05:15:36.513Z",
+            "metadata": {
+              "popularity": 1552,
+              "engagementCount": 6556,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 534,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "mistral_large4",
+                  "image-text-to-text",
+                  "vLLM",
+                  "SGLang",
+                  "llama.cpp",
+                  "conversational",
+                  "en",
+                  "fr",
+                  "de",
+                  "es",
+                  "pt",
+                  "it",
+                  "ja",
+                  "ko",
+                  "ru",
+                  "zh",
+                  "ar",
+                  "fa",
+                  "id",
+                  "ms",
+                  "ne",
+                  "pl",
+                  "ro",
+                  "sr",
+                  "sv",
+                  "tr",
+                  "uk",
+                  "vi",
+                  "hi",
+                  "bn",
+                  "bg",
+                  "hr",
+                  "cs",
+                  "da",
+                  "nl",
+                  "et",
+                  "fi",
+                  "el",
+                  "hu",
+                  "ga",
+                  "lv",
+                  "lt",
+                  "mt",
+                  "sk",
+                  "sl",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token (52 billion including embeddings and output layers), trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own datacenters in Europe."
+          }
+        },
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "idol, compartido en Hugging Face por Speridlabs, es una herramienta que genera modelos de salpicadura gaussiana 3D (3D Gaussian splat) a partir de una sola imagen. Este modelo, que genera un formato de archivo 3D estándar (.ply), puede ejecutarse en menos de dos segundos en unidades de procesamiento gráfico de grado de consumo.",
+          "meta": "♥ 527 · 10.742 descargas",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-04T05:15:36.513Z",
+            "metadata": {
+              "popularity": 527,
+              "engagementCount": 10742,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 502,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+          "url": "https://huggingface.co/papers/2611.05275",
+          "summary": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems, presenta un estudio sobre el enrutamiento hacia diferentes modelos expertos y herramientas en sistemas de inteligencia artificial de propósito general. Examina métodos para alcanzar la inteligencia artificial general (AGI) coordinando un ecosistema de modelos especializados en lugar de un único modelo.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.05275",
+            "capturedAt": "2026-11-04T05:15:36.519Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.05275",
+                "publishedAt": "2026-11-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/InfRec-Cardinal/route-anything",
+                "githubStars": 2
+              }
+            },
+            "description": "Artificial general intelligence (AGI) requires a method that can understand, generate, reason, and act across diverse domains and modalities. Rather than relying on a single model to master every capability, a promising path toward AGI now is to orchestrate a heterogeneous ecosystem of specialized models, tools, and policies (candidates) into a unified AI system. At the heart of this vision lies a fundamental question: how can an AI system dynamically select and coordinate the most capable candi"
+          }
+        },
+        {
+          "title": "Axion 1.0: Open Agent Foundation Models, Simplified",
+          "url": "https://huggingface.co/papers/2611.03233",
+          "summary": "Axion 1.0, compartido por Hugging Face, es un modelo de inteligencia artificial base de código abierto que combina capacidades de agente de amplio alcance con un proceso de entrenamiento sencillo. El modelo ha sido entrenado mediante procesos de ajuste fino supervisado (fine-tuning) en dos etapas y aprendizaje por refuerzo, sin necesidad de métodos complejos como la optimización de preferencia directa (DPO).",
+          "meta": "14 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.03233",
+            "capturedAt": "2026-11-04T05:15:36.519Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.03233",
+                "publishedAt": "2026-11-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/bytedance/axion1_0",
+                "githubStars": 19
+              }
+            },
+            "description": "We introduce Axion 1.0, a fully open agent foundation model that combines strong and broad agentic capabilities with a remarkably simple training recipe. Axion 1.0 is trained in only three stages: two lightweight supervised fine-tuning stages followed by reinforcement learning, without dedicated mid-training, direct preference optimization (DPO), or on-policy distillation (OPD). The first SFT stage develops strong self-contained reasoning through model-aware data construction, where we synthesiz"
+          }
+        },
+        {
+          "title": "\"Shall We Approve?\" Consequence-Aware Approval for Autonomous Coding Agents",
+          "url": "https://huggingface.co/papers/2610.40753",
+          "summary": "Caper, publicado en Hugging Face, es un mecanismo de aprobación que evalúa los comandos que ejecutarán los agentes de codificación autónomos con un enfoque orientado a resultados. A diferencia de los sistemas actuales, toma decisiones de seguridad analizando el estado en el espacio de trabajo y los comportamientos que el código desencadenará, en lugar de centrarse únicamente en el texto del comando.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.40753",
+            "capturedAt": "2026-11-04T05:15:36.519Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40753",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/wudaoz/Caper",
+                "githubStars": 4
+              }
+            },
+            "description": "Coding agents increasingly rely on automated approvers to decide whether a proposed shell command may run. Existing approvers, from rule-based checkers to guardrail models and deployed permission classifiers, base their decisions on the text of the request and command. Yet a command's behavior depends on the code it invokes and the state of the workspace, and systems that observe file changes leave the assessment to the agent or a human after execution. We present Caper, a consequence-aware appr"
+          }
+        },
+        {
+          "title": "What We Keep of What We Forget: Replacement Operators and Routing Semantics in Training-Free MoE Expert Pruning",
+          "url": "https://huggingface.co/papers/2610.41366",
+          "summary": "El artículo compartido por Hugging Face examina los procesos de eliminación de expertos y la gestión de las selecciones del enrutador (router) en métodos de poda de expertos (expert pruning) que no requieren entrenamiento. El estudio analiza el impacto de la escala de puerta (gate scale) de los expertos supervivientes comparando diferentes operadores de reemplazo en los modelos OLMoE, DeepSeek-V2-Lite y Moonlight.",
+          "meta": "0 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.41366",
+            "capturedAt": "2026-11-04T05:15:36.519Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.41366",
+                "publishedAt": "2026-10-30T00:00:00.000Z"
+              }
+            },
+            "description": "Training-free expert pruning makes two decisions: which experts to remove, and what the layer computes when its router still selects a removed expert. Published methods change both at once. Holding the mask fixed, we compare replacement operators from three families on OLMoE, DeepSeek-V2-Lite and Moonlight, with Granite as a fourth router, using paired, multiplicity-corrected tests. The largest effect is a choice usually left implicit: the survivors' gate scale. On routers trained without top-k "
+          }
+        },
+        {
+          "title": "Is Forgetting Unified? Exploring Concept Unlearning in Unified Multimodal Models",
+          "url": "https://huggingface.co/papers/2611.04467",
+          "summary": "El artículo compartido por Hugging Face examina los procesos de desaprendizaje de conceptos (concept unlearning) en modelos multimodales unificados. El estudio presenta un punto de referencia de diagnóstico llamado UUBench, que permite a los modelos eliminar un concepto específico tanto de los procesos de generación visual como de los de identificación.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.04467",
+            "capturedAt": "2026-11-04T05:15:36.519Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.04467",
+                "publishedAt": "2026-11-03T00:00:00.000Z"
+              }
+            },
+            "description": "Unified multimodal models (UMMs) integrate image generation and visual understanding, but are existing single-pathway unlearning methods sufficient to suppress target concepts across both? In this work, we study cross-pathway concept unlearning. Our goal is to prevent a model from both generating images of a target concept and identifying it in input images, while preserving other capabilities. To this end, we introduce UUBench, a diagnostic benchmark covering 30 target concepts and 60 semantica"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "persistent context",
+      "explanation": "Método de almacenamiento de datos que permite a los agentes de inteligencia artificial recordar conversaciones previas y asegura que la información no se pierda incluso después de cerrar las sesiones."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que permite gestionar programas ingresando comandos escritos en lugar de hacer clic con el ratón."
+    },
+    {
+      "term": "accessibility tree",
+      "explanation": "Estructura jerárquica creada por el sistema operativo para describir los elementos en pantalla a las tecnologías de asistencia utilizadas por usuarios con discapacidad visual."
+    },
+    {
+      "term": "worktree",
+      "explanation": "Característica de Git utilizada para poder trabajar simultáneamente en múltiples versiones diferentes durante el desarrollo de software."
+    },
+    {
+      "term": "frontier",
+      "explanation": "Concepto que representa el nivel más avanzado alcanzado en el campo de la inteligencia artificial y sus capacidades más sofisticadas."
+    },
+    {
+      "term": "MoE",
+      "explanation": "Arquitectura que permite a un gran modelo de inteligencia artificial producir resultados más eficientes activando solo las secciones de expertos relevantes para cada pregunta."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Conjunto de funciones y habilidades especiales que poseen los agentes de inteligencia artificial para llevar a cabo tareas específicas."
+    },
+    {
+      "term": "training-free",
+      "explanation": "Método que se puede utilizar directamente sin necesidad de volver a entrenar el modelo de inteligencia artificial o actualizarlo con un conjunto de datos."
+    },
+    {
+      "term": "slop",
+      "explanation": "Contenido basura generado por inteligencia artificial, de baja calidad, repetitivo o que no aporta ningún valor al usuario."
+    },
+    {
+      "term": "sycophancy",
+      "explanation": "Tendencia de la inteligencia artificial a confirmar las opiniones erróneas del usuario o a proporcionar información falsa solo para complacerlo."
+    },
+    {
+      "term": "CI",
+      "explanation": "Proceso de desarrollo automatizado que permite probar e integrar continuamente los códigos de software."
+    },
+    {
+      "term": "voice dictation",
+      "explanation": "Proceso de conversión instantánea de la voz hablada a texto por parte de una computadora."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Proceso de extracción y guardado de datos de sitios web mediante software automatizado."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Modelo de inteligencia artificial integral entrenado con conjuntos de datos muy amplios, que puede utilizarse como base para muchas tareas diferentes."
+    },
+    {
+      "term": "workflow skills",
+      "explanation": "Capacidades operativas que poseen los agentes de inteligencia artificial para gestionar procesos de trabajo complejos paso a paso."
+    },
+    {
+      "term": "jailbreak",
+      "explanation": "Situación en la que se superan las restricciones impuestas por el fabricante de un dispositivo o software mediante métodos no autorizados."
+    }
+  ]
+}

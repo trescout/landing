@@ -1,0 +1,460 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-04",
+  "capturedAt": "2026-11-04T05:15:36.374Z",
+  "editorial": "Content included in the report will not be repeated for 30 days. At the end of this period, records that remain on the agenda will be listed again with the \"back on the agenda\" label.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "thedotmack/claude-mem is a tool that provides persistent context across sessions for AI agents. It compresses session data using AI to make relevant information available for reuse in future operations and works compatibly with various development tools such as Claude Code.",
+          "meta": "TypeScript · ★ 112,131 · +1,139 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 112131,
+              "engagementCount": 1139,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1139
+              }
+            },
+            "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+          }
+        },
+        {
+          "title": "spotify/portal-ai-plugins",
+          "url": "https://github.com/spotify/portal-ai-plugins",
+          "summary": "portal-ai-plugins, developed by Spotify, enables the integration of the Spotify Portal system into AI-powered coding tools such as Claude Code, Codex, Cursor, and pi. Written in TypeScript, these plugins facilitate developers' access to Spotify-sourced data within their working environments.",
+          "meta": "TypeScript · ★ 3,084 · +91 today",
+          "snapshot": {
+            "sourceId": "spotify/portal-ai-plugins",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3084,
+              "engagementCount": 91,
+              "rank": 7,
+              "extra": {
+                "starsToday": 91,
+                "baglam": "readme"
+              }
+            },
+            "description": "Bring Spotify Portal into Claude Code, Codex, Cursor, and pi."
+          }
+        },
+        {
+          "title": "floci-io/floci",
+          "url": "https://github.com/floci-io/floci",
+          "summary": "Developed in Java, Floci is an open-source (source code accessible to everyone) AWS local emulator used for software development, testing, and continuous integration (CI) processes. It offers developers a free alternative by mimicking the services provided by the cloud computing platform AWS in a local environment.",
+          "meta": "Java · ★ 28,976 · +482 today",
+          "snapshot": {
+            "sourceId": "floci-io/floci",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 28976,
+              "engagementCount": 482,
+              "rank": 8,
+              "extra": {
+                "starsToday": 482,
+                "baglam": "readme"
+              }
+            },
+            "description": "Light, fluffy, and always free - The AWS Local Emulator alternative. Floci is a free, open-source local AWS emulator for development, testing, and CI."
+          }
+        },
+        {
+          "title": "Usagi-org/ai-goofish-monitor",
+          "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+          "summary": "Usagi-org/ai-goofish-monitor is a system that performs multi-task tracking and analysis on the second-hand shopping platform Xianyu using the browser automation tool Playwright and AI. Users can monitor products on the platform in real-time or on a scheduled basis through a web-based management interface.",
+          "meta": "Python · ★ 16,695 · +228 today",
+          "snapshot": {
+            "sourceId": "Usagi-org/ai-goofish-monitor",
+            "capturedAt": "2026-11-04T05:15:37.635Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 16695,
+              "engagementCount": 228,
+              "rank": 9,
+              "extra": {
+                "starsToday": 228,
+                "baglam": "readme"
+              }
+            },
+            "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。. 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "summary": "API development and testing tool Postman is being criticized for attempting to share all API data by installing AI plugins without user knowledge. This situation is sparking debate among users regarding the software's data privacy and security policies.",
+          "meta": "1,133 points · 370 comments",
+          "snapshot": {
+            "sourceId": "50354960",
+            "capturedAt": "2026-11-04T05:15:36.770Z",
+            "metadata": {
+              "popularity": 1133,
+              "engagementCount": 370,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50354960",
+                  "popularity": 1133,
+                  "engagementCount": 370
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-03T17:22:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50354960"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50354960",
+              "popularity": 1133,
+              "engagementCount": 370
+            }
+          ]
+        },
+        {
+          "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+          "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+          "summary": "It is stated that claims regarding the Astra model's ability to read and write Qwen weights are misleading. It is expressed that the reading experiments conducted on raw weights and the techniques aimed at improving the Qwen model use completely different methods.",
+          "meta": "940 points · 196 comments",
+          "snapshot": {
+            "sourceId": "50351111",
+            "capturedAt": "2026-11-04T05:15:36.770Z",
+            "metadata": {
+              "popularity": 940,
+              "engagementCount": 196,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50351111",
+                  "popularity": 940,
+                  "engagementCount": 196
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-03T12:21:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50351111",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "The experiments that read raw weights and the ones that fix Qwen use completely different techniques."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50351111",
+              "popularity": 940,
+              "engagementCount": 196
+            }
+          ]
+        },
+        {
+          "title": "Jailbreaking my car's navigation system just so I can change the time",
+          "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+          "summary": "A user performed an unauthorized access (jailbreak) on their Renault brand vehicle's navigation system in order to change the clock setting. During this process, they bypassed the software's restrictions to intervene in the vehicle's built-in system.",
+          "meta": "689 points · 287 comments",
+          "snapshot": {
+            "sourceId": "50339288",
+            "capturedAt": "2026-11-04T05:15:36.770Z",
+            "metadata": {
+              "popularity": 689,
+              "engagementCount": 287,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50339288",
+                  "popularity": 689,
+                  "engagementCount": 287
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-02T16:29:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50339288"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50339288",
+              "popularity": 689,
+              "engagementCount": 287
+            }
+          ]
+        },
+        {
+          "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+          "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+          "summary": "The Qwen 3.8 27B model draws attention with its ability to directly read and process model weights. This capability brings to the fore a new programming approach (weight-space programming) where large language models (LLMs) can interpret neural network weights locally.",
+          "meta": "541 points · 170 comments",
+          "snapshot": {
+            "sourceId": "50355251",
+            "capturedAt": "2026-11-04T05:15:36.770Z",
+            "metadata": {
+              "popularity": 541,
+              "engagementCount": 170,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50355251",
+                  "popularity": 541,
+                  "engagementCount": 170
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-03T17:40:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50355251",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, …"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50355251",
+              "popularity": 541,
+              "engagementCount": 170
+            }
+          ]
+        },
+        {
+          "title": "Stringman, an $800 open-source room scale gripper robot",
+          "url": "https://neufangled.com/",
+          "summary": "Stringman is an open-source (source code accessible to everyone) room-scale manipulator robot project that costs approximately 800 dollars. The project offers a cost-effective hardware solution for users to develop their own robotic systems.",
+          "meta": "472 points · 163 comments",
+          "snapshot": {
+            "sourceId": "50354358",
+            "capturedAt": "2026-11-04T05:15:36.770Z",
+            "metadata": {
+              "popularity": 472,
+              "engagementCount": 163,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50354358",
+                  "popularity": 472,
+                  "engagementCount": 163
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-03T16:47:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50354358"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50354358",
+              "popularity": 472,
+              "engagementCount": 163
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "Shared on Hugging Face by Speridlabs, idol is a tool that generates 3D Gaussian splat models from a single image. Outputting a standard 3D file format (.ply), this model can run in under two seconds on consumer-grade graphics processing units.",
+          "meta": "♥ 527 · 10,742 downloads",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-04T05:15:36.513Z",
+            "metadata": {
+              "popularity": 527,
+              "engagementCount": 10742,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 502,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+          "url": "https://huggingface.co/papers/2611.05275",
+          "summary": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems presents a study on routing to different expert models and tools in general-purpose AI systems. It examines methods for achieving artificial general intelligence (AGI) by coordinating an ecosystem of specialized models instead of relying on a single model.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.05275",
+            "capturedAt": "2026-11-04T05:15:36.519Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.05275",
+                "publishedAt": "2026-11-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/InfRec-Cardinal/route-anything",
+                "githubStars": 2
+              }
+            },
+            "description": "Artificial general intelligence (AGI) requires a method that can understand, generate, reason, and act across diverse domains and modalities. Rather than relying on a single model to master every capability, a promising path toward AGI now is to orchestrate a heterogeneous ecosystem of specialized models, tools, and policies (candidates) into a unified AI system. At the heart of this vision lies a fundamental question: how can an AI system dynamically select and coordinate the most capable candi"
+          }
+        },
+        {
+          "title": "Axion 1.0: Open Agent Foundation Models, Simplified",
+          "url": "https://huggingface.co/papers/2611.03233",
+          "summary": "Axion 1.0, shared by Hugging Face, is an open-source foundational AI model that combines broad agent capabilities with a simple training process. The model is trained through a two-stage supervised fine-tuning and reinforcement learning process, without the need for complex methods like direct preference optimization (DPO).",
+          "meta": "14 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.03233",
+            "capturedAt": "2026-11-04T05:15:36.519Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.03233",
+                "publishedAt": "2026-11-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/bytedance/axion1_0",
+                "githubStars": 19
+              }
+            },
+            "description": "We introduce Axion 1.0, a fully open agent foundation model that combines strong and broad agentic capabilities with a remarkably simple training recipe. Axion 1.0 is trained in only three stages: two lightweight supervised fine-tuning stages followed by reinforcement learning, without dedicated mid-training, direct preference optimization (DPO), or on-policy distillation (OPD). The first SFT stage develops strong self-contained reasoning through model-aware data construction, where we synthesiz"
+          }
+        },
+        {
+          "title": "\"Shall We Approve?\" Consequence-Aware Approval for Autonomous Coding Agents",
+          "url": "https://huggingface.co/papers/2610.40753",
+          "summary": "Caper, published on Hugging Face, is an approval mechanism that evaluates commands to be executed by autonomous coding agents with a result-oriented approach. Unlike existing systems, it makes security decisions by analyzing the state of the workspace and the behaviors the code will trigger, rather than just the text of the command.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.40753",
+            "capturedAt": "2026-11-04T05:15:36.519Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40753",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/wudaoz/Caper",
+                "githubStars": 4
+              }
+            },
+            "description": "Coding agents increasingly rely on automated approvers to decide whether a proposed shell command may run. Existing approvers, from rule-based checkers to guardrail models and deployed permission classifiers, base their decisions on the text of the request and command. Yet a command's behavior depends on the code it invokes and the state of the workspace, and systems that observe file changes leave the assessment to the agent or a human after execution. We present Caper, a consequence-aware appr"
+          }
+        },
+        {
+          "title": "What We Keep of What We Forget: Replacement Operators and Routing Semantics in Training-Free MoE Expert Pruning",
+          "url": "https://huggingface.co/papers/2610.41366",
+          "summary": "The paper shared by Hugging Face examines the processes of expert removal and managing router selections in training-free expert pruning methods. The study analyzes the impact of gate scaling of surviving experts on results by comparing different replacement operators on OLMoE, DeepSeek-V2-Lite, and Moonlight models.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.41366",
+            "capturedAt": "2026-11-04T05:15:36.519Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.41366",
+                "publishedAt": "2026-10-30T00:00:00.000Z"
+              }
+            },
+            "description": "Training-free expert pruning makes two decisions: which experts to remove, and what the layer computes when its router still selects a removed expert. Published methods change both at once. Holding the mask fixed, we compare replacement operators from three families on OLMoE, DeepSeek-V2-Lite and Moonlight, with Granite as a fourth router, using paired, multiplicity-corrected tests. The largest effect is a choice usually left implicit: the survivors' gate scale. On routers trained without top-k "
+          }
+        },
+        {
+          "title": "Is Forgetting Unified? Exploring Concept Unlearning in Unified Multimodal Models",
+          "url": "https://huggingface.co/papers/2611.04467",
+          "summary": "The paper shared by Hugging Face examines concept unlearning processes in unified multimodal models. The study introduces a diagnostic benchmark called UUBench, which enables models to remove a specific concept from both visual generation and identification processes.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.04467",
+            "capturedAt": "2026-11-04T05:15:36.519Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.04467",
+                "publishedAt": "2026-11-03T00:00:00.000Z"
+              }
+            },
+            "description": "Unified multimodal models (UMMs) integrate image generation and visual understanding, but are existing single-pathway unlearning methods sufficient to suppress target concepts across both? In this work, we study cross-pathway concept unlearning. Our goal is to prevent a model from both generating images of a target concept and identifying it in input images, while preserving other capabilities. To this end, we introduce UUBench, a diagnostic benchmark covering 30 target concepts and 60 semantica"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "persistent context",
+      "explanation": "A data storage method that allows AI agents to remember previous conversations and ensures that information is not lost even when sessions are closed."
+    },
+    {
+      "term": "MoE",
+      "explanation": "An architecture that allows a large AI model to produce more efficient results by activating only the relevant expert sections for each query."
+    },
+    {
+      "term": "training-free",
+      "explanation": "A method that can be used directly without the need to retrain the artificial intelligence model or update it with a dataset."
+    },
+    {
+      "term": "CI",
+      "explanation": "An automated development process that ensures software code is continuously tested and integrated."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "A comprehensive artificial intelligence model trained on very large datasets that can be used as a foundation for many different tasks."
+    },
+    {
+      "term": "jailbreak",
+      "explanation": "The act of bypassing restrictions imposed by the manufacturer of a device or software through unauthorized means."
+    }
+  ]
+}
