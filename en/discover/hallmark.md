@@ -43,6 +43,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [Slop](https://trescout.com/en/dictionary/slop/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for designers and developers who want to avoid standard and duplicate results when designing web interfaces with artificial intelligence tools.

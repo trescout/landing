@@ -42,6 +42,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [Slop](https://trescout.com/es/dictionary/slop/)
 - [Skill](https://trescout.com/es/dictionary/skill/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)

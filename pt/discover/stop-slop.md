@@ -42,6 +42,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [Slop](https://trescout.com/pt/dictionary/slop/)
 - [Skill](https://trescout.com/pt/dictionary/skill/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)

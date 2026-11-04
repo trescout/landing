@@ -43,6 +43,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Slop](https://trescout.com/fr/dictionary/slop/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux concepteurs et aux développeurs qui souhaitent éviter les résultats standard et dupliqués lors de la conception d'interfaces Web avec des outils d'intelligence artificielle.

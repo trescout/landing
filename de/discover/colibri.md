@@ -57,6 +57,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Mixture of Experts](https://trescout.com/de/dictionary/mixture-of-experts/)
+- [Mixture of Experts - MoE](https://trescout.com/de/dictionary/mixture-of-experts-moe/)
 - [VRAM](https://trescout.com/de/dictionary/vram/)
 - [RAM](https://trescout.com/de/dictionary/ram/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

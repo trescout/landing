@@ -51,6 +51,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Mixture of Experts](https://trescout.com/en/dictionary/mixture-of-experts/)
+- [Mixture of Experts - MoE](https://trescout.com/en/dictionary/mixture-of-experts-moe/)
 - [VRAM](https://trescout.com/en/dictionary/vram/)
 - [Clone](https://trescout.com/en/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

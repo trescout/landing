@@ -57,6 +57,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Mixture of Experts](https://trescout.com/fr/dictionary/mixture-of-experts/)
+- [Mixture of Experts - MoE](https://trescout.com/fr/dictionary/mixture-of-experts-moe/)
 - [VRAM](https://trescout.com/fr/dictionary/vram/)
 - [RAM](https://trescout.com/fr/dictionary/ram/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

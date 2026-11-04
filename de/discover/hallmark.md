@@ -43,6 +43,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Slop](https://trescout.com/de/dictionary/slop/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Designer und Entwickler, die beim Entwerfen von Webschnittstellen mit Tools für künstliche Intelligenz Standard- und Duplikatergebnisse vermeiden möchten.

@@ -42,6 +42,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Slop](https://trescout.com/de/dictionary/slop/)
 - [Skill](https://trescout.com/de/dictionary/skill/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)

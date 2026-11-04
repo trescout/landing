@@ -57,6 +57,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Mixture of Experts](https://trescout.com/pt/dictionary/mixture-of-experts/)
+- [Mixture of Experts - MoE](https://trescout.com/pt/dictionary/mixture-of-experts-moe/)
 - [VRAM](https://trescout.com/pt/dictionary/vram/)
 - [RAM](https://trescout.com/pt/dictionary/ram/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

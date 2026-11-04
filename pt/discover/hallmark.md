@@ -43,6 +43,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [Slop](https://trescout.com/pt/dictionary/slop/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É para designers e desenvolvedores que desejam evitar resultados padronizados e duplicados ao projetar interfaces web com ferramentas de inteligência artificial.

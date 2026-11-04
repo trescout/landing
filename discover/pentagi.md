@@ -2,16 +2,16 @@
 
 Go diliyle geliştirilen Pentagi, karmaşık sızma testlerini (penetration testing) gerçekleştirebilen tam otonom yapay zekâ ajanları (AI agents) sistemi sunuyor. Sistem, güvenlik açıklarını tespit etmek ve sömürmek için otonom iş akışlarını standartlaştırmayı hedefliyor.
 
-- ★ 31.649
+- ★ 33.238
 - Go
 - GitHub Trending · 2026-07-10
 
 ## Güncelleme
 
+- **4 Kasım 2026:** Yıldız 31.649 → 33.238, son sürüm v2.2.0 (5 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 30.107 → 31.649, son sürüm v2.2.0 (5 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 28.092 → 30.107, son sürüm v2.2.0 (5 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 26.612 → 28.092, son sürüm v2.2.0 (5 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 25.256 → 26.612, son sürüm v2.2.0 (5 Ekim 2026).
 
 ## Ne kazandırır?
 

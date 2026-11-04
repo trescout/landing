@@ -3358,14 +3358,14 @@
     "slug": "flclash",
     "title": "FlClash",
     "tagline": "ClashMeta tabanlı, çok platformlu, reklamsız ve açık kaynak proxy istemcisi.",
-    "meta": "★ 60.856 · GPL-3.0",
+    "meta": "★ 60.912 · GPL-3.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 60856,
+    "stars": 60912,
     "image": "/assets/discover/og/flclash.webp",
     "headline": "Açık kaynaklı modern proxy istemcisi",
     "last_review": "2026-11-04",
@@ -3439,6 +3439,13 @@
         "onceki_yildiz": 57749,
         "surum": "v0.9.2",
         "surum_tarihi": "2026-10-24"
+      },
+      {
+        "tarih": "2026-11-04",
+        "yildiz": 60912,
+        "onceki_yildiz": 60856,
+        "surum": "v0.9.3",
+        "surum_tarihi": "2026-11-04"
       }
     ],
     "tagline_en": "Multi-platform, ad-free and open source proxy client based on ClashMeta.",
@@ -24266,7 +24273,7 @@
     "slug": "pentagi",
     "title": "Pentagi",
     "tagline": "Go diliyle geliştirilen Pentagi, karmaşık sızma testlerini (penetration testing) gerçekleştirebilen tam otonom yapay zekâ…",
-    "meta": "★ 31.649 · Go",
+    "meta": "★ 33.238 · Go",
     "image": "/assets/discover/og/pentagi.webp",
     "source": "GitHub",
     "date": "2026-07-10",
@@ -24274,7 +24281,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 31649,
+    "stars": 33238,
     "lite": false,
     "headline": "Otonom sızma testi için yapay zekâ",
     "last_review": "2026-11-04",
@@ -24332,6 +24339,13 @@
         "tarih": "2026-10-21",
         "yildiz": 31649,
         "onceki_yildiz": 30107,
+        "surum": "v2.2.0",
+        "surum_tarihi": "2026-10-05"
+      },
+      {
+        "tarih": "2026-11-04",
+        "yildiz": 33238,
+        "onceki_yildiz": 31649,
         "surum": "v2.2.0",
         "surum_tarihi": "2026-10-05"
       }
@@ -25973,14 +25987,14 @@
     "slug": "t3code",
     "title": "T3code",
     "tagline": "T3Code, TypeScript tabanlı projelerde kod kalitesini artırmak ve standartlaştırmak için geliştirilen bir araç setidir.",
-    "meta": "★ 44.796 · TypeScript",
+    "meta": "★ 45.074 · TypeScript",
     "image": "/assets/discover/og/t3code.webp",
     "source": "GitHub",
     "date": "2026-07-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 44796,
+    "stars": 45074,
     "lite": false,
     "headline": "Kodlama ajanları için web arayüzü",
     "last_review": "2026-11-04",
@@ -26159,6 +26173,13 @@
         "onceki_yildiz": 42390,
         "surum": "v0.1.6",
         "surum_tarihi": "2026-10-31"
+      },
+      {
+        "tarih": "2026-11-04",
+        "yildiz": 45074,
+        "onceki_yildiz": 44796,
+        "surum": "v0.1.7",
+        "surum_tarihi": "2026-11-04"
       }
     ],
     "tagline_en": "T3Code is a toolset developed to improve and standardize code quality in TypeScript-based projects.",
@@ -36580,7 +36601,7 @@
     "slug": "autogpt",
     "title": "AutoGPT",
     "tagline": "AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom yapay zekâ ajanları (autonomous AI agents) oluşturmayı…",
-    "meta": "★ 187.788 · Python",
+    "meta": "★ 187.891 · Python",
     "image": "/assets/discover/og/autogpt.webp",
     "source": "GitHub",
     "date": "2026-08-07",
@@ -36588,7 +36609,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 187788,
+    "stars": 187891,
     "lite": false,
     "headline": "Otonom yapay zekâ ajanları oluşturun",
     "last_review": "2026-11-04",
@@ -36676,6 +36697,13 @@
         "onceki_yildiz": 187714,
         "surum": "autogpt-platform-beta-v0.10.0",
         "surum_tarihi": "2026-10-27"
+      },
+      {
+        "tarih": "2026-11-04",
+        "yildiz": 187891,
+        "onceki_yildiz": 187788,
+        "surum": "autogpt-platform-beta-v0.11.0",
+        "surum_tarihi": "2026-11-04"
       }
     ],
     "tagline_en": "AutoGPT aims to create autonomous AI agents that can plan and execute complex tasks on their own.",

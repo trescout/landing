@@ -42,6 +42,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Slop](https://trescout.com/fr/dictionary/slop/)
 - [Skill](https://trescout.com/fr/dictionary/skill/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)

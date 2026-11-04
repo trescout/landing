@@ -51,6 +51,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Mixture of Experts](https://trescout.com/es/dictionary/mixture-of-experts/)
+- [Mixture of Experts - MoE](https://trescout.com/es/dictionary/mixture-of-experts-moe/)
 - [VRAM](https://trescout.com/es/dictionary/vram/)
 - [Clone](https://trescout.com/es/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
