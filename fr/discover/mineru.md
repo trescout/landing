@@ -2,16 +2,16 @@
 
 MinerU convertit les formats de documents complexes tels que PDF et Office en format markdown ou JSON adapté aux grands modèles de langage. Cet outil vise à rendre les données non structurées disponibles dans des workflows basés sur des agents.
 
-- ★ 83 034
+- ★ 83 079
 - Python
 - GitHub Trending · 2026-06-26
 
 ## Mises à jour
 
+- **4 novembre 2026:** Étoiles 83,034 → 83,079, dernière version mineru-4.1.6-released (3 novembre 2026).
 - **3 novembre 2026:** Étoiles 83,017 → 83,034, dernière version mineru-4.1.5-released (3 novembre 2026).
 - **3 novembre 2026:** Étoiles 82,833 → 83,017, dernière version mineru-4.1.4-released (2 novembre 2026).
 - **31 octobre 2026:** Étoiles 82,785 → 82,833, dernière version mineru-4.1.3-released (30 octobre 2026).
-- **30 octobre 2026:** Étoiles 81,441 → 82,785, dernière version mineru-4.1.2-released (29 octobre 2026).
 
 ## Ce que ça vous apporte
 

@@ -58,6 +58,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [Slop](https://trescout.com/dictionary/slop/)
 - [Skill](https://trescout.com/dictionary/skill/)
 - [LLM](https://trescout.com/dictionary/llm/)
 - [Open Source](https://trescout.com/dictionary/open-source/)

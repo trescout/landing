@@ -2,16 +2,16 @@
 
 Developed by Stablyai, Orca offers an agent development environment that allows managing multiple artificial intelligence agents simultaneously. Using their subscription, users can run various coding agents on both desktop and mobile platforms.
 
-- ★ 113,792
+- ★ 114,729
 - TypeScript
 - GitHub Trending · 2026-06-25
 
 ## Updates
 
+- **November 4, 2026:** Stars 113,792 → 114,729, latest release v1.4.248 (November 4, 2026).
 - **November 3, 2026:** Stars 112,992 → 113,792, latest release v1.4.247 (November 3, 2026).
 - **November 2, 2026:** Stars 110,497 → 112,992, latest release v1.4.246 (November 2, 2026).
 - **October 30, 2026:** Stars 109,302 → 110,497, latest release v1.4.245 (October 30, 2026).
-- **October 29, 2026:** Stars 108,415 → 109,302, latest release v1.4.244 (October 29, 2026).
 
 ## What you get
 

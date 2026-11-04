@@ -2,12 +2,13 @@
 
 Führt Experimente als abhängige Schritte in topologischer Reihenfolge aus und demonstriert mit TinyStories ein vollständiges Einstiegsbeispiel. Die offene Entwicklungsphilosophie dokumentiert Code, Daten, Entscheidungen und fehlgeschlagene Experimente.
 
-- ★ 3.089
+- ★ 4.064
 - Python
 - GitHub Trending · 2026-08-25
 
 ## Aktualisierungen
 
+- **4. November 2026:** Sterne 3,089 → 4,064, neueste Version skyrl-fa2-only-cu132-torch2141-20261103-bb17823bd3f1 (3. November 2026).
 - **31. August 2026:** Sterne 1,967 → 3,089.
 
 ## Installation

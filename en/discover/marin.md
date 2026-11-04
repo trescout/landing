@@ -2,12 +2,13 @@
 
 A research program, software platform, and community for researching and developing foundation models. It documents scope from data processing through pretraining, finetuning, and evaluation.
 
-- ★ 3,089
+- ★ 4,064
 - Python
 - GitHub Trending · 2026-08-25
 
 ## Updates
 
+- **November 4, 2026:** Stars 3,089 → 4,064, latest release skyrl-fa2-only-cu132-torch2141-20261103-bb17823bd3f1 (November 3, 2026).
 - **August 31, 2026:** Stars 1,967 → 3,089.
 
 ## Installation

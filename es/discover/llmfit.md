@@ -2,16 +2,16 @@
 
 Desarrollado con el lenguaje Rust, llmfit escanea cientos de grandes modelos y proveedores de lenguajes y te permite identificar aquellos compatibles con tu hardware con un solo comando. La herramienta automatiza el proceso de búsqueda de modelos que mejor se adapten a los recursos del sistema local.
 
-- ★ 38.459
+- ★ 38.631
 - Rust
 - GitHub Trending · 2026-07-22
 
 ## Actualizaciones
 
+- **4 de noviembre de 2026:** Estrellas 38,459 → 38,631, última versión v1.1.20 (3 de noviembre de 2026).
 - **29 de octubre de 2026:** Estrellas 37,724 → 38,459, última versión v1.1.18 (28 de octubre de 2026).
 - **8 de octubre de 2026:** Estrellas 37,196 → 37,724, última versión v1.1.17 (8 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 35,465 → 37,196, última versión v1.1.16 (19 de septiembre de 2026).
-- **10 de septiembre de 2026:** Estrellas 34,855 → 35,465, última versión v1.1.15 (10 de septiembre de 2026).
 
 ## Qué aporta
 

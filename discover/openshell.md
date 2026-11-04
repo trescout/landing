@@ -2,16 +2,16 @@
 
 NVIDIA tarafından geliştirilen OpenShell, otonom yapay zekâ ajanları için güvenli ve gizlilik odaklı bir çalışma zamanı (runtime) ortamı sunuyor. Rust diliyle yazılan bu altyapı, ajanların sistem kaynaklarına erişimini izole ederek güvenli bir yürütme alanı oluşturmayı amaçlıyor.
 
-- ★ 20.243
+- ★ 21.058
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Güncelleme
 
+- **4 Kasım 2026:** Yıldız 20.243 → 21.058, son sürüm v0.1.7 (3 Kasım 2026).
 - **27 Ekim 2026:** Yıldız 19.581 → 20.243, son sürüm v0.1.6 (27 Ekim 2026).
 - **25 Ekim 2026:** Yıldız 18.169 → 19.581, son sürüm v0.1.5 (20 Ekim 2026).
 - **23 Ekim 2026:** Yıldız 16.850 → 18.169, son sürüm v0.1.5 (20 Ekim 2026).
-- **21 Ekim 2026:** Yıldız 16.170 → 16.850, son sürüm v0.1.5 (20 Ekim 2026).
 
 ## Ne kazandırır?
 

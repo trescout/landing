@@ -2,12 +2,13 @@
 
 Hyprland is a window manager that runs on the Wayland compositor and offers a customizable dynamic tiling structure. Developed in C++, this tool provides a high-performance desktop experience without compromising visual aesthetics.
 
-- ★ 39,014
+- ★ 40,242
 - C++
 - GitHub Trending · 2026-07-22
 
 ## Updates
 
+- **November 4, 2026:** Stars 39,014 → 40,242, latest release v0.57.1 (November 3, 2026).
 - **October 29, 2026:** Stars 37,732 → 39,014, latest release v0.57.0 (October 28, 2026).
 - **August 6, 2026:** Stars 37,701 → 37,732, latest release v0.56.2 (August 5, 2026).
 - **August 2, 2026:** Stars 37,107 → 37,701, latest release v0.56.1 (July 27, 2026).

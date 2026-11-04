@@ -34,6 +34,7 @@ Es especialmente común en el mundo Linux, pero también se puede utilizar en ma
 
 ## Términos relacionados
 
+- [Compositor](https://trescout.com/es/dictionary/compositor/)
 - [TUI](https://trescout.com/es/dictionary/tui/)
 - [User Interface](https://trescout.com/es/dictionary/user-interface/)
 

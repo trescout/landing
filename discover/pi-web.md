@@ -2,16 +2,16 @@
 
 Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı arayüzü (web UI) sunuyor. TypeScript diliyle yazılan bu araç, kodlama süreçlerini görsel bir arayüz üzerinden yönetmeyi mümkün kılıyor.
 
-- ★ 8.000
+- ★ 8.026
 - TypeScript
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
 
+- **4 Kasım 2026:** Yıldız 8.000 → 8.026, son sürüm v0.15.0 (3 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 7.988 → 8.000, son sürüm v0.14.2 (2 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 7.911 → 7.988, son sürüm v0.14.1 (2 Kasım 2026).
 - **30 Ekim 2026:** Yıldız 7.392 → 7.911, son sürüm v0.13.0 (29 Ekim 2026).
-- **15 Ekim 2026:** Yıldız 7.311 → 7.392, son sürüm v0.12.2 (15 Ekim 2026).
 
 ## Ne kazandırır?
 

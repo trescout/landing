@@ -34,6 +34,7 @@ Il est particulièrement répandu dans le monde Linux, mais peut également êtr
 
 ## Termes liés
 
+- [Compositor](https://trescout.com/fr/dictionary/compositor/)
 - [TUI](https://trescout.com/fr/dictionary/tui/)
 - [User Interface](https://trescout.com/fr/dictionary/user-interface/)
 

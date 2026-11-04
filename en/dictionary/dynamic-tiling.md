@@ -34,6 +34,7 @@ It is especially common in the Linux world, but it can also be used on macOS and
 
 ## Related terms
 
+- [Compositor](https://trescout.com/en/dictionary/compositor/)
 - [TUI](https://trescout.com/en/dictionary/tui/)
 - [User Interface](https://trescout.com/en/dictionary/user-interface/)
 

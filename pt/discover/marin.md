@@ -2,12 +2,13 @@
 
 Programa de pesquisa, plataforma de software e comunidade para investigar e desenvolver modelos de base. Documenta o escopo desde o processamento de dados até pré-treinamento, fine-tuning e avaliação.
 
-- ★ 3.089
+- ★ 4.064
 - Python
 - GitHub Trending · 2026-08-25
 
 ## Atualizações
 
+- **4 de novembro de 2026:** Estrelas 3,089 → 4,064, versão mais recente skyrl-fa2-only-cu132-torch2141-20261103-bb17823bd3f1 (3 de novembro de 2026).
 - **31 de agosto de 2026:** Estrelas 1,967 → 3,089.
 
 ## Instalação

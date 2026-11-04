@@ -2,12 +2,13 @@
 
 Plateforme et ensemble d'outils pour expérimenter les étapes allant du traitement des données à l'entraînement et à l'évaluation des modèles fondamentaux.
 
-- ★ 3 089
+- ★ 4 064
 - Python
 - GitHub Trending · 2026-08-25
 
 ## Mises à jour
 
+- **4 novembre 2026:** Étoiles 3,089 → 4,064, dernière version skyrl-fa2-only-cu132-torch2141-20261103-bb17823bd3f1 (3 novembre 2026).
 - **31 août 2026:** Étoiles 1,967 → 3,089.
 
 ## Installation

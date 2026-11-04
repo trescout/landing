@@ -2,16 +2,16 @@
 
 Unity MCP bietet eine Brücke zwischen großen Sprachmodellen und dem Unity-Editor und ermöglicht so die Automatisierung von Asset-Management, Szenensteuerung und Codebearbeitungsprozessen. Dieses Tool, das über das Model Server Protocol (Model Context Protocol) funktioniert, ermöglicht es Assistenten der künstlichen Intelligenz, direkt in die Arbeitsabläufe der Spieleentwicklung einzugreifen.
 
-- ★ 14.675
+- ★ 15.680
 - C#
 - GitHub Trending · 2026-07-05
 
 ## Aktualisierungen
 
+- **4. November 2026:** Sterne 14,675 → 15,680, neueste Version v10.3.0 (4. Oktober 2026).
 - **4. Oktober 2026:** Sterne 13,833 → 14,675, neueste Version v10.3.0 (4. Oktober 2026).
 - **2. September 2026:** Sterne 13,091 → 13,833, neueste Version v10.2.0 (1. September 2026).
 - **3. August 2026:** Sterne 13,064 → 13,091, neueste Version v10.1.2 (2. August 2026).
-- **2. August 2026:** Sterne 11,702 → 13,064, neueste Version v10.1.0 (13. Juli 2026).
 
 ## Was es bringt
 

@@ -2,16 +2,16 @@
 
 Open Interpreter offers a coding agent that automates software development processes by running code in the local computer environment. Designed to work with low-cost language models, this tool allows executing complex tasks directly from the terminal.
 
-- ★ 68,776
+- ★ 68,790
 - Rust
 - GitHub Trending · 2026-07-16
 
 ## Updates
 
+- **November 4, 2026:** Stars 68,776 → 68,790, latest release rust-v0.0.59 (November 4, 2026).
 - **November 2, 2026:** Stars 68,768 → 68,776, latest release rust-v0.0.58 (November 1, 2026).
 - **November 1, 2026:** Stars 68,521 → 68,768, latest release rust-v0.0.57 (October 31, 2026).
 - **October 7, 2026:** Stars 68,478 → 68,521, latest release rust-v0.0.56 (October 7, 2026).
-- **October 1, 2026:** Stars 68,450 → 68,478, latest release rust-v0.0.55 (September 30, 2026).
 
 ## What you get
 

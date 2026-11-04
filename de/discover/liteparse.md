@@ -2,17 +2,17 @@
 
 Liteparse (run-lama); ist ein in Rust geschriebener Open-Source-Dokumentparser zum schnellen und effizienten Parsen von Dokumenten. Es erleichtert KI- und RAG-Prozesse, indem es komplexe Dokumentenstrukturen verarbeitbar macht.
 
-- ★ 12.904
+- ★ 12.981
 - Rust
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
 ## Aktualisierungen
 
+- **4. November 2026:** Sterne 12,904 → 12,981, neueste Version node-v2.18.0 (4. November 2026).
 - **23. Oktober 2026:** Sterne 12,844 → 12,904, neueste Version node-v2.17.0 (22. Oktober 2026).
 - **13. Oktober 2026:** Sterne 12,836 → 12,844, neueste Version docker-v2.16.0 (12. Oktober 2026).
 - **12. Oktober 2026:** Sterne 12,762 → 12,836, neueste Version crates-v2.16.0 (12. Oktober 2026).
-- **2. Oktober 2026:** Sterne 12,723 → 12,762, neueste Version node-v2.15.1 (1. Oktober 2026).
 
 ## Was es bringt
 

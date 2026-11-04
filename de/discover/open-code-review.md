@@ -2,16 +2,16 @@
 
 Das von Alibaba entwickelte Open-Source-Code-Review-Tool kombiniert deterministische Pipelines und LLM-Agenten (Large Language Model) in einer Hybridstruktur. Ausgestattet mit Software-Sicherheitsregeln und zeilenbasierten Interpretationsfunktionen ist das Tool in der Go-Sprache geschrieben und bietet eine OpenAI- und Anthropic-kompatible Infrastruktur.
 
-- ★ 49.309
+- ★ 49.382
 - Go
 - GitHub Trending · 2026-07-24
 
 ## Aktualisierungen
 
+- **4. November 2026:** Sterne 49,309 → 49,382, neueste Version v1.13.5 (3. November 2026).
 - **3. November 2026:** Sterne 47,998 → 49,309, neueste Version v1.13.4 (2. November 2026).
 - **22. Oktober 2026:** Sterne 47,696 → 47,998, neueste Version v1.13.3 (22. Oktober 2026).
 - **20. Oktober 2026:** Sterne 47,516 → 47,696, neueste Version v1.13.2 (20. Oktober 2026).
-- **17. Oktober 2026:** Sterne 46,806 → 47,516, neueste Version v1.13.1 (17. Oktober 2026).
 
 ## Was es bringt
 

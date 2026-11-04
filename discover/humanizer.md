@@ -2,16 +2,16 @@
 
 Humanizer, yapay zekâ tarafından oluşturulan metinlerdeki karakteristik kalıpları silerek içeriği daha doğal bir anlatıma dönüştüren bir Python kütüphanesidir. Yazılı metinlerin insan elinden çıkmış gibi görünmesini sağlayan bu araç, otomatik içerik üretimi yapan sistemlerin tespit edilmesini zorlaştırmayı hedefler.
 
-- ★ 61.185
+- ★ 64.502
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
 
+- **4 Kasım 2026:** Yıldız 61.185 → 64.502, son sürüm v3.1.0 (28 Eylül 2026).
 - **27 Ekim 2026:** Yıldız 57.962 → 61.185, son sürüm v3.1.0 (28 Eylül 2026).
 - **18 Ekim 2026:** Yıldız 55.180 → 57.962, son sürüm v3.1.0 (28 Eylül 2026).
 - **9 Ekim 2026:** Yıldız 52.508 → 55.180, son sürüm v3.1.0 (28 Eylül 2026).
-- **28 Eylül 2026:** Yıldız 52.272 → 52.508, son sürüm v3.1.0 (28 Eylül 2026).
 
 ## Ne kazandırır?
 

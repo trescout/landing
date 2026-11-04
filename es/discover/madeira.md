@@ -2,20 +2,20 @@
 
 Madeira es un proyecto de capa de compatibilidad que permite ejecutar juegos de Windows con arquitectura x86-64 en dispositivos iOS restringidos (jailed). El software funciona combinando la herramienta de emulación de procesador FEX-Emu, la capa de aplicaciones de Windows Wine y la herramienta de conversión de gráficos DXMT.
 
-- ★ 2.732
+- ★ 3.054
 - C
 - GitHub Trending · 2026-09-29
 
 ## Actualizaciones
 
+- **4 de noviembre de 2026:** Estrellas 2,732 → 3,054, última versión v0.2.0 (4 de noviembre de 2026).
 - **23 de octubre de 2026:** Estrellas 1,730 → 2,732, última versión v0.1.3 (3 de octubre de 2026).
 - **4 de octubre de 2026:** Estrellas 1,672 → 1,730, última versión v0.1.3 (3 de octubre de 2026).
 - **3 de octubre de 2026:** Estrellas 1,411 → 1,672, última versión v0.1.2 (3 de octubre de 2026).
-- **2 de octubre de 2026:** Estrellas 1,196 → 1,411, última versión v0.1.1 (2 de octubre de 2026).
 
 ## Qué aporta
 
-- Permite jugar a juegos de PC con Windows en dispositivos iPhone sin jailbreak.
+- Te permite jugar a juegos de PC con Windows en dispositivos iPhone sin jailbreak.
 - Utiliza la herramienta de emulación de procesador FEX-Emu para la traducción del procesador.
 - Aprovecha la herramienta de conversión gráfica DXMT para el proceso de conversión de gráficos.
 
@@ -31,7 +31,7 @@ git clone --recurse-submodules <this repo>
 
 Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
-Quiero instalar y ejecutar el proyecto Madeira. Como alguien que no sabe programar, ¿podrías explicarme paso a paso cómo configurar esta capa de compatibilidad en mi dispositivo iPhone sin jailbreak? Explícame cómo utilizar el depurador necesario y realizar los pasos de sideloading.
+Quiero instalar y ejecutar el proyecto Madeira. Como alguien que no sabe programar, ¿podrías explicarme paso a paso cómo configurar esta capa de compatibilidad en mi iPhone sin jailbreak? Explícame cómo realizar los pasos de sideloading y el depurador necesario.
 
 Repositorio: https://github.com/willfaust/Madeira. Sigue las instrucciones oficiales del archivo README de este repositorio para la instalación y ejecución.
 

@@ -2,12 +2,13 @@
 
 Vercel Labs tarafından geliştirilen agent-desktop, yapay zekâ ajanlarının işletim sistemi erişilebilirlik ağacı üzerinden masaüstü uygulamalarını okumasını ve yönetmesini sağlayan bir komut satırı arayüzüdür (CLI). Rust diliyle yazılan bu araç, ajanların bilgisayar kullanım (computer use) yeteneklerini geliştirmeyi amaçlıyor.
 
-- ★ 10.531
+- ★ 13.264
 - Rust
 - GitHub Trending · 2026-11-03
 
 ## Güncelleme
 
+- **4 Kasım 2026:** Yıldız 10.531 → 13.264, son sürüm v1.1.0 (3 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 10.481 → 10.531, son sürüm v1.1.0 (3 Kasım 2026).
 
 ## Ne kazandırır?

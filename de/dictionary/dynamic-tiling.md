@@ -34,6 +34,7 @@ Es ist besonders in der Linux-Welt verbreitet, kann aber mit Tools von Drittanbi
 
 ## Verwandte Begriffe
 
+- [Compositor](https://trescout.com/de/dictionary/compositor/)
 - [TUI](https://trescout.com/de/dictionary/tui/)
 - [User Interface](https://trescout.com/de/dictionary/user-interface/)
 

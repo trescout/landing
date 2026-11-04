@@ -2,16 +2,16 @@
 
 Developed for Claude Code and various coding agents, this library offers more than 330 skill packages and over 70 special commands in different fields from engineering to marketing. This Python-based toolset provides customizable scripts to standardize AI-based workflows and increase productivity.
 
-- ★ 29,196
+- ★ 29,257
 - Python
 - GitHub Trending · 2026-07-05
 
 ## Updates
 
+- **November 4, 2026:** Stars 29,196 → 29,257, latest release v2.14.8 (November 3, 2026).
 - **November 3, 2026:** Stars 29,186 → 29,196, latest release v2.14.7 (November 3, 2026).
 - **November 3, 2026:** Stars 29,039 → 29,186, latest release v2.14.6 (November 2, 2026).
 - **October 31, 2026:** Stars 29,039 → 29,039, latest release v2.14.5 (October 31, 2026).
-- **October 31, 2026:** Stars 28,939 → 29,039, latest release v2.14.4 (October 30, 2026).
 
 ## What you get
 

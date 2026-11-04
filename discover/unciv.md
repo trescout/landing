@@ -2,16 +2,16 @@
 
 Unciv, Civilization V oyununun açık kaynak kodlu, minimalist ve çapraz platformlu bir masaüstü ve Android uyarlamasıdır. Kotlin ve LibGDX altyapısıyla geliştirilen proje, orijinal 4X strateji mekaniklerini sıfır donanım yükü ve yüksek mod desteğiyle sunar.
 
-- ★ 11.515
+- ★ 11.521
 - Kotlin
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
 
+- **4 Kasım 2026:** Yıldız 11.515 → 11.521, son sürüm 4.22.17 (3 Kasım 2026).
 - **1 Kasım 2026:** Yıldız 11.498 → 11.515, son sürüm 4.22.16 (31 Ekim 2026).
 - **29 Ekim 2026:** Yıldız 11.488 → 11.498, son sürüm 4.22.15 (28 Ekim 2026).
 - **26 Ekim 2026:** Yıldız 11.486 → 11.488, son sürüm 4.22.14-patch1 (26 Ekim 2026).
-- **25 Ekim 2026:** Yıldız 11.477 → 11.486, son sürüm 4.22.13-patch1 (24 Ekim 2026).
 
 ## Ne kazandırır?
 

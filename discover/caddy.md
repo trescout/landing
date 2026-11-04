@@ -2,12 +2,13 @@
 
 Caddy, otomatik HTTPS sertifikası yönetimi sunan, Go diliyle yazılmış genişletilebilir bir web sunucusu. HTTP/1, HTTP/2 ve HTTP/3 protokollerini destekleyerek web sitelerinin kurulumunu ve güvenliğini basitleştiriyor.
 
-- ★ 76.784
+- ★ 78.725
 - Go
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
 
+- **4 Kasım 2026:** Yıldız 76.784 → 78.725, son sürüm v2.11.8 (4 Kasım 2026).
 - **5 Ekim 2026:** Yıldız 76.782 → 76.784, son sürüm v2.11.7 (3 Ekim 2026).
 
 ## Ne kazandırır?

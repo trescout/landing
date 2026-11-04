@@ -2,16 +2,16 @@
 
 Développé par Vercel Labs, Portless transforme les numéros de port utilisés dans les environnements de développement locaux en adresses URL persistantes et nommées. Cet outil permet aux développeurs ainsi qu'aux agents d'IA autonomes d'interagir plus facilement avec les services locaux.
 
-- ★ 12 778
+- ★ 12 795
 - TypeScript
 - GitHub Trending · 2026-09-03
 
 ## Mises à jour
 
+- **4 novembre 2026:** Étoiles 12,778 → 12,795, dernière version v0.16.0 (4 novembre 2026).
 - **2 novembre 2026:** Étoiles 12,752 → 12,778, dernière version v0.15.13 (1 novembre 2026).
 - **26 octobre 2026:** Étoiles 12,739 → 12,752, dernière version v0.15.12 (26 octobre 2026).
 - **24 octobre 2026:** Étoiles 12,732 → 12,739, dernière version v0.15.11 (24 octobre 2026).
-- **23 octobre 2026:** Étoiles 12,695 → 12,732, dernière version v0.15.9 (22 octobre 2026).
 
 ## Ce que ça vous apporte
 

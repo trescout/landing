@@ -2,16 +2,16 @@
 
 Madeira ist ein Kompatibilitätsschicht-Projekt, das es ermöglicht, Windows-Spiele mit x86-64-Architektur auf eingeschränkten (jailed) iOS-Geräten auszuführen. Die Software funktioniert durch die Kombination des Prozessor-Emulators FEX-Emu, der Windows-Anwendungsschicht Wine und des Grafikkonverters DXMT.
 
-- ★ 2.732
+- ★ 3.054
 - C
 - GitHub Trending · 2026-09-29
 
 ## Aktualisierungen
 
+- **4. November 2026:** Sterne 2,732 → 3,054, neueste Version v0.2.0 (4. November 2026).
 - **23. Oktober 2026:** Sterne 1,730 → 2,732, neueste Version v0.1.3 (3. Oktober 2026).
 - **4. Oktober 2026:** Sterne 1,672 → 1,730, neueste Version v0.1.3 (3. Oktober 2026).
 - **3. Oktober 2026:** Sterne 1,411 → 1,672, neueste Version v0.1.2 (3. Oktober 2026).
-- **2. Oktober 2026:** Sterne 1,196 → 1,411, neueste Version v0.1.1 (2. Oktober 2026).
 
 ## Was es bringt
 
@@ -31,7 +31,7 @@ git clone --recurse-submodules <this repo>
 
 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
-Ich möchte das Madeira-Projekt einrichten und ausführen. Können Sie mir als jemandem ohne Programmierkenntnisse Schritt für Schritt erklären, wie ich diese Kompatibilitätsschicht auf meinem iPhone ohne Jailbreak konfigurieren kann? Erklären Sie, wie ich den erforderlichen Debugger und die Sideloading-Schritte ausführe.
+Ich möchte das Madeira-Projekt installieren und ausführen. Könntest du mir als jemand ohne Programmierkenntnisse Schritt für Schritt erklären, wie ich diese Kompatibilitätsschicht auf meinem iPhone ohne Jailbreak konfiguriere? Erkläre mir, wie ich den erforderlichen Debugger einrichte und die Sideloading-Schritte durchführe.
 
 Repository: https://github.com/willfaust/Madeira. Richte dich bei der Installation und Ausführung nach den offiziellen Anweisungen in der README-Datei dieses Repositorys.
 

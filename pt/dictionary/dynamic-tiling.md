@@ -34,6 +34,7 @@ No início exige um pouco de hábito, mas logo permite que você trabalhe muito 
 
 ## Termos relacionados
 
+- [Compositor](https://trescout.com/pt/dictionary/compositor/)
 - [TUI](https://trescout.com/pt/dictionary/tui/)
 - [User Interface](https://trescout.com/pt/dictionary/user-interface/)
 

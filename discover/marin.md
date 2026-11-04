@@ -2,7 +2,7 @@
 
 Temel modellerin araştırılması ve geliştirilmesi için bir araştırma programı, yazılım platformu ve topluluktur. Veri işlemeden ön eğitim, son eğitim ve değerlendirmeye uzanan kapsamı belgeler.
 
-- ★ 3.089
+- ★ 4.064
 - Python
 - GitHub Trending · 2026-08-25
 
@@ -39,6 +39,7 @@ uv run python experiments/tutorials/train_tiny_model.py --device cpu --dataset t
 
 ## Güncelleme
 
+- **4 Kasım 2026:** Yıldız 3.089 → 4.064, son sürüm skyrl-fa2-only-cu132-torch2141-20261103-bb17823bd3f1 (3 Kasım 2026).
 - **31 Ağustos 2026:** Yıldız 1.967 → 3.089.
 
 ## Bu araç ne yapar?

@@ -2,12 +2,13 @@
 
 Ejecuta experimentos como pasos dependientes en orden topológico y documenta código, datos, decisiones y experimentos fallidos. La primera guía oficial muestra cómo tokenizar TinyStories y entrenar un modelo de lenguaje pequeño.
 
-- ★ 3.089
+- ★ 4.064
 - Python
 - GitHub Trending · 2026-08-25
 
 ## Actualizaciones
 
+- **4 de noviembre de 2026:** Estrellas 3,089 → 4,064, última versión skyrl-fa2-only-cu132-torch2141-20261103-bb17823bd3f1 (3 de noviembre de 2026).
 - **31 de agosto de 2026:** Estrellas 1,967 → 3,089.
 
 ## Instalación

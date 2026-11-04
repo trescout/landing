@@ -60,6 +60,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Mixture of Experts](https://trescout.com/dictionary/mixture-of-experts/)
+- [Mixture of Experts - MoE](https://trescout.com/dictionary/mixture-of-experts-moe/)
 - [VRAM](https://trescout.com/dictionary/vram/)
 - [Clone](https://trescout.com/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)

@@ -2,16 +2,16 @@
 
 Developed by NousResearch, Hermes Agent offers an autonomous agent infrastructure that learns from user interactions and develops over time. This Python-based system uses continuous learning to create personalized workflows.
 
-- ★ 259,936
+- ★ 260,301
 - Python
 - GitHub Trending · 2026-06-04
 
 ## Updates
 
+- **November 4, 2026:** Stars 259,936 → 260,301, latest release v0.22.7 (November 3, 2026).
 - **November 3, 2026:** Stars 256,373 → 259,936, latest release v0.22.6 (November 2, 2026).
 - **October 23, 2026:** Stars 256,091 → 256,373, latest release v0.22.5 (October 23, 2026).
 - **October 22, 2026:** Stars 255,753 → 256,091, latest release v0.22.4 (October 21, 2026).
-- **October 21, 2026:** Stars 253,914 → 255,753, latest release v0.22.3 (October 21, 2026).
 
 ## What you get
 

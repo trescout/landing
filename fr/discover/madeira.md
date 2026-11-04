@@ -2,20 +2,20 @@
 
 Madeira est un projet de couche de compatibilité qui permet d'exécuter des jeux Windows à architecture x86-64 sur des appareils iOS bridés (jailed). Le logiciel fonctionne en combinant FEX-Emu pour l'émulation de processeur, Wine pour la couche d'application Windows et DXMT comme convertisseur graphique.
 
-- ★ 2 732
+- ★ 3 054
 - C
 - GitHub Trending · 2026-09-29
 
 ## Mises à jour
 
+- **4 novembre 2026:** Étoiles 2,732 → 3,054, dernière version v0.2.0 (4 novembre 2026).
 - **23 octobre 2026:** Étoiles 1,730 → 2,732, dernière version v0.1.3 (3 octobre 2026).
 - **4 octobre 2026:** Étoiles 1,672 → 1,730, dernière version v0.1.3 (3 octobre 2026).
 - **3 octobre 2026:** Étoiles 1,411 → 1,672, dernière version v0.1.2 (3 octobre 2026).
-- **2 octobre 2026:** Étoiles 1,196 → 1,411, dernière version v0.1.1 (2 octobre 2026).
 
 ## Ce que ça vous apporte
 
-- Il vous permet de jouer à des jeux informatiques Windows sur des iPhones sans jailbreak.
+- Vous permet de jouer à des jeux PC Windows sur des appareils iPhone sans jailbreak.
 - Utilise l'outil FEX-Emu effectuant une émulation de processeur pour la traduction de processeur.
 - Bénéficie de l'outil de conversion graphique DXMT pour le processus de conversion graphique.
 
