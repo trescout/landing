@@ -1,0 +1,941 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-05",
+  "capturedAt": "2026-11-05T05:15:37.275Z",
+  "editorial": "Während sich die Softwarewelt darauf konzentriert, vierzig Jahre alte technische Schulden (technical debt) zu bereinigen, erweitern Entwickler wie NVIDIA und Moonshot AI mit KI-Modellen der nächsten Generation die Infrastrukturkapazitäten. Sicherheitslücken in Kommunikationsnetzwerken und neue Ansätze bei Video-Verarbeitungsmodellen (video understanding models) stehen heute im Zentrum technischer Diskussionen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "NVIDIA/auto-ontology",
+          "url": "https://github.com/NVIDIA/auto-ontology",
+          "summary": "Die von NVIDIA entwickelte auto-ontology ist ein Python-Framework, das die Erstellung semantischer und graphbasierter (graph-based) Schlussfolgerungsschichten auf Daten ermöglicht. Dieses Tool bietet erklärbarere Ergebnisse und deterministische Abfragegenerierung für große Sprachmodelle (LLM) und KI-Agenten-Workflows.",
+          "meta": "Python · ★ 5.549 · +2.050 heute",
+          "snapshot": {
+            "sourceId": "NVIDIA/auto-ontology",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5549,
+              "engagementCount": 2050,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2050
+              }
+            },
+            "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
+          }
+        },
+        {
+          "title": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "summary": "Das in Rust entwickelte worktrunk ist eine Befehlszeilenschnittstelle (CLI), die die Verwaltung von Git-Arbeitsbäumen (worktree) vereinfacht. Das Tool wurde speziell für die Verwaltung gleichzeitiger Workflows mehrerer KI-Agenten konzipiert.",
+          "meta": "Rust · ★ 11.155 · +531 heute",
+          "snapshot": {
+            "sourceId": "max-sixty/worktrunk",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11155,
+              "engagementCount": 531,
+              "rank": 2,
+              "extra": {
+                "starsToday": 531,
+                "baglam": "readme"
+              }
+            },
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows. Worktrunk is a CLI for git worktree management, designed for running AI agents in parallel."
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Die von Matt Pocock geteilte Sammlung mattpocock/skills enthält Fähigkeiten für KI-Agenten (agent skills), die in realen technischen Prozessen verwendet werden. Diese Ressource, die zur Automatisierung von Softwareentwicklungsaufgaben erstellt wurde, konzentriert sich auf direkt anwendbare Werkzeuge für den täglichen Arbeitsablauf anstelle von theoretischen Ansätzen.",
+          "meta": "Shell · ★ 313.618 · +1.379 heute",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 313618,
+              "engagementCount": 1379,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1379,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          }
+        },
+        {
+          "title": "floci-io/floci",
+          "url": "https://github.com/floci-io/floci",
+          "summary": "Das in Java entwickelte floci ist ein Open-Source-lokaler AWS-Emulator für Softwareentwicklung, Testprozesse und Continuous Integration (CI). Es bietet Entwicklern eine kostenlose Alternative, indem es Cloud-Dienste in einer lokalen Umgebung nachahmt.",
+          "meta": "Java · ★ 29.760 · +1.090 heute",
+          "snapshot": {
+            "sourceId": "floci-io/floci",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 29760,
+              "engagementCount": 1090,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1090,
+                "baglam": "readme"
+              }
+            },
+            "description": "Light, fluffy, and always free - The AWS Local Emulator alternative. Floci is a free, open-source local AWS emulator for development, testing, and CI."
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "thedotmack/claude-mem ist ein Tool, das KI-Agenten einen sitzungsübergreifenden persistenten Kontext (persistent context) bietet. Es komprimiert Sitzungsdaten mittels KI, stellt relevante Informationen für zukünftige Vorgänge wieder zur Verfügung und arbeitet mit verschiedenen Entwicklungstools wie Claude Code zusammen.",
+          "meta": "TypeScript · ★ 113.028 · +1.172 heute",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 113028,
+              "engagementCount": 1172,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1172
+              }
+            },
+            "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+          }
+        },
+        {
+          "title": "vercel-labs/agent-desktop",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "summary": "Das von Vercel Labs entwickelte agent-desktop ist eine Befehlszeilenschnittstelle (CLI), die es KI-Agenten ermöglicht, Desktop-Anwendungen unter macOS, Windows und Linux zu sehen und zu steuern. Dieses in Rust geschriebene Tool nutzt den Barrierefreiheitsbaum des Betriebssystems, um es Agenten zu ermöglichen, Vorgänge auf dem Computer auszuführen.",
+          "meta": "Rust · ★ 15.552 · +2.470 heute",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-desktop",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 15552,
+              "engagementCount": 2470,
+              "rank": 6,
+              "extra": {
+                "starsToday": 2470,
+                "baglam": "readme"
+              }
+            },
+            "description": "Computer use CLI for AI agents. Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree."
+          }
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "Das von GitHub entwickelte spec-kit ist ein Open-Source-Toolkit, das KI-Codierungsagenten strukturierte Prozesse, wiederverwendbare Vorlagen und dokumentierte Ausgaben bereitstellt. Dieses Kit zielt darauf ab, Softwareentwicklungsprozesse zu standardisieren und ermöglicht die Anpassung fertiger Prozesse oder die Integration eigener Prozesse durch die Benutzer.",
+          "meta": "Python · ★ 147.442 · +808 heute",
+          "snapshot": {
+            "sourceId": "github/spec-kit",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 147442,
+              "engagementCount": 808,
+              "rank": 7,
+              "extra": {
+                "starsToday": 808,
+                "baglam": "readme"
+              }
+            },
+            "description": "💫 Toolkit to help you get started with SDD or any other process!. Spec Kit is an open source toolkit that gives AI coding agents structured processes, reusable templates, and documented outcomes. Start with a ready-made process, customize it, or bring your own."
+          }
+        },
+        {
+          "title": "The-PR-Agent/pr-agent",
+          "url": "https://github.com/The-PR-Agent/pr-agent",
+          "summary": "The-PR-Agent/pr-agent ist ein Open-Source-Projekt, das für die Überprüfung von Pull Requests in Softwareentwicklungsprozessen konzipiert wurde. Dieses in Python entwickelte Tool zielt darauf ab, Code-Review-Aufgaben zu automatisieren.",
+          "meta": "Python · ★ 14.871 · +280 heute",
+          "snapshot": {
+            "sourceId": "The-PR-Agent/pr-agent",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 14871,
+              "engagementCount": 280,
+              "rank": 8,
+              "extra": {
+                "starsToday": 280,
+                "baglam": "readme"
+              }
+            },
+            "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects."
+          }
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo ist ein Python-Projekt, das KI-Modelle und automatisierte Workflows verwendet, um hochauflösende Kurzvideos aus eingegebenen Themen oder Schlüsselwörtern zu erstellen. Das Projekt nutzt das von Moonshot AI entwickelte große Sprachmodell Kimi K3.1 Pro, um Prozesse wie das Schreiben von Videotexten und die Auswahl von visuellem Material zu verwalten.",
+          "meta": "Python · ★ 139.201 · +617 heute",
+          "snapshot": {
+            "sourceId": "harry0703/MoneyPrinterTurbo",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 139201,
+              "engagementCount": 617,
+              "rank": 9,
+              "extra": {
+                "starsToday": 617,
+                "baglam": "readme"
+              }
+            },
+            "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. 感谢 Kimi 赞助本项目！Kimi K3.1 Pro 是 Moonshot AI 迄今能力最强的 3T 级开放权重模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3.1 Pro 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准确，匹配到的素材就越贴题。"
+          }
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Das von Garry Tan geteilte gstack bietet 23 verschiedene Toolsets, die auf Claude Code strukturiert sind, um Softwareentwicklungsprozesse zu verwalten. Diese Tools zielen darauf ab, Workflows zu automatisieren, indem sie die Verantwortlichkeiten verschiedener Rollen wie CEO, Designer, Engineering Manager und Qualitätssicherungsexperte übernehmen.",
+          "meta": "TypeScript · ★ 139.456 · +290 heute",
+          "snapshot": {
+            "sourceId": "garrytan/gstack",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 139456,
+              "engagementCount": 290,
+              "rank": 10,
+              "extra": {
+                "starsToday": 290
+              }
+            },
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+          }
+        },
+        {
+          "title": "FareedKhan-dev/kimi-k3-in-c",
+          "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+          "summary": "Das Projekt FareedKhan-dev/kimi-k3-in-c ermöglicht es, das Kimi K3-Modell mit 2,78 Billionen Parametern auf einem einzigen Prozessor und mit einer Speicherauslastung von 8,24 GB auszuführen. Diese C99-basierte Anwendung, die kein Framework oder Grafikprozessor (GPU) erfordert, konzentriert sich auf die Ausführung von KI-Modellen mit hoher Parameterzahl auf Hardware mit begrenzten Ressourcen.",
+          "meta": "C · ★ 10.450 · +351 heute",
+          "snapshot": {
+            "sourceId": "FareedKhan-dev/kimi-k3-in-c",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 10450,
+              "engagementCount": 351,
+              "rank": 11,
+              "extra": {
+                "starsToday": 351
+              }
+            },
+            "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU."
+          }
+        },
+        {
+          "title": "JiaFeiMiao-K-Cat/DiscImageStudio",
+          "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+          "summary": "Disc Image Studio ist ein plattformübergreifendes Tool zur Erstellung und zum Brennen von Disk-Images, mit dem Sie mit bloßem Auge sichtbare Bilder auf DVD-, CD- und einschichtige Blu-ray-Discs gravieren können. Diese in C# entwickelte Software ermöglicht es Ihnen, benutzerdefinierte Grafiken mithilfe eines beliebigen beschreibbaren optischen Laufwerks auf die Discoberfläche zu verarbeiten.",
+          "meta": "C# · ★ 6.769 · +1.778 heute",
+          "snapshot": {
+            "sourceId": "JiaFeiMiao-K-Cat/DiscImageStudio",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 6769,
+              "engagementCount": 1778,
+              "rank": 12,
+              "extra": {
+                "starsToday": 1778,
+                "baglam": "readme"
+              }
+            },
+            "description": "Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。"
+          }
+        },
+        {
+          "title": "MichaelCade/90DaysOfDevOps",
+          "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+          "summary": "MichaelCade/90DaysOfDevOps bietet einen strukturierten Lernpfad zu DevOps-Prozessen, -Prinzipien und -Tools. Diese Ressource, die Inhalte für drei Jahre abdeckt, dient als umfassender Ausbildungsleitfaden für Community-Mitglieder.",
+          "meta": "Shell · ★ 30.544 · +97 heute",
+          "snapshot": {
+            "sourceId": "MichaelCade/90DaysOfDevOps",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 30544,
+              "engagementCount": 97,
+              "rank": 13,
+              "extra": {
+                "starsToday": 97
+              }
+            },
+            "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+          }
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling ist ein auf Python basierendes Web-Scraping-Framework, das alle Phasen von einfachen Datenabrufprozessen bis hin zu umfassenden Crawling-Vorgängen verwalten kann. Es bietet alle Werkzeuge, die Benutzer von einer einzelnen Anfrage bis hin zu groß angelegten Datensammelprozessen benötigen, in einer einzigen Struktur.",
+          "meta": "Python · ★ 96.866 · +2.005 heute",
+          "snapshot": {
+            "sourceId": "D4Vinci/Scrapling",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 96866,
+              "engagementCount": 2005,
+              "rank": 14,
+              "extra": {
+                "starsToday": 2005
+              }
+            },
+            "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
+          }
+        },
+        {
+          "title": "Thysrael/Horizon",
+          "url": "https://github.com/Thysrael/Horizon",
+          "summary": "Thysrael/Horizon ist ein Nachrichten-Tracking-Tool, das Nachrichten aus verschiedenen Quellen mithilfe künstlicher Intelligenz sammelt, filtert und zusammenfasst. Diese Software, die tägliche Newsletter auf Englisch und Chinesisch erstellt, hilft Benutzern bei der Verwaltung ihres Informationsflusses, indem sie Inhalte zusammen mit Kontext und Community-Diskussionen präsentiert.",
+          "meta": "Python · ★ 12.645 · +121 heute",
+          "snapshot": {
+            "sourceId": "Thysrael/Horizon",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 12645,
+              "engagementCount": 121,
+              "rank": 15,
+              "extra": {
+                "starsToday": 121,
+                "baglam": "readme"
+              }
+            },
+            "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达. Good reads are scattered across feeds, forums, and timelines. Your attention isn't unlimited. Horizon collects, filters, and deduplicates them, then brings the worthwhile ones to you with context and community discussion."
+          }
+        },
+        {
+          "title": "scenario-labs/skills",
+          "url": "https://github.com/scenario-labs/skills",
+          "summary": "scenario-labs/skills ist eine Bibliothek, die es KI-Agenten ermöglicht, das richtige Modell für die Erstellung von visuellen, akustischen und dreidimensionalen Inhalten auszuwählen und eine Kostenkontrolle durchzuführen. Das Tool verwendet das Scenario MCP-Protokoll, um die Charakterkonsistenz zu wahren, und arbeitet integriert mit professioneller Designsoftware wie Blender, Maya, ZBrush, Unreal und Unity zusammen.",
+          "meta": "Python · ★ 2.566 · +224 heute",
+          "snapshot": {
+            "sourceId": "scenario-labs/skills",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2566,
+              "engagementCount": 224,
+              "rank": 16,
+              "extra": {
+                "starsToday": 224
+              }
+            },
+            "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI is forcing us to pay off 40 years of technical debt",
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "summary": "Der Einsatz künstlicher Intelligenz im Bereich der Cybersicherheit erhöht die Geschwindigkeit sowohl von Angreifern als auch von Verteidigern und legt technische Schulden (technical debt) in anfälligen Altsystemen offen. Dies löst einen Prozess aus, der Institutionen dazu zwingt, ihre vierzig Jahre alten Software-Infrastrukturen zu erneuern.",
+          "meta": "1.129 Punkte · 656 Kommentare",
+          "snapshot": {
+            "sourceId": "50364336",
+            "capturedAt": "2026-11-05T05:15:37.517Z",
+            "metadata": {
+              "popularity": 1129,
+              "engagementCount": 656,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50364336",
+                  "popularity": 1129,
+                  "engagementCount": 656
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-04T11:52:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50364336",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "AI in cybersecurity accelerates both attackers and defenders, revealing painful technical debt in fragile legacy systems."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50364336",
+              "popularity": 1129,
+              "engagementCount": 656
+            }
+          ]
+        },
+        {
+          "title": "Residential proxies detected on White House network",
+          "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+          "summary": "Es wird berichtet, dass im Netzwerk des Weißen Hauses Residential Proxies entdeckt wurden. Dies wirft eine Diskussion über die Auswirkungen dieser Netzwerke auf die Sicherheit auf, da sie den Internetverkehr über Unternehmensnetzwerke leiten und in der Regel Anonymität bieten.",
+          "meta": "835 Punkte · 265 Kommentare",
+          "snapshot": {
+            "sourceId": "50371246",
+            "capturedAt": "2026-11-05T05:15:37.517Z",
+            "metadata": {
+              "popularity": 835,
+              "engagementCount": 265,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50371246",
+                  "popularity": 835,
+                  "engagementCount": 265
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-04T20:45:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50371246"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50371246",
+              "popularity": 835,
+              "engagementCount": 265
+            }
+          ]
+        },
+        {
+          "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+          "summary": "AMD prognostiziert, dass die Prozessorverkäufe im vierten Quartal erstmals die von Intel übertreffen werden. Die vom Unternehmen bekannt gegebene Umsatzprognose von 17 Milliarden Dollar übersteigt die Projektionen, die der Konkurrent Intel für denselben Zeitraum geteilt hat.",
+          "meta": "513 Punkte · 189 Kommentare",
+          "snapshot": {
+            "sourceId": "50367125",
+            "capturedAt": "2026-11-05T05:15:37.517Z",
+            "metadata": {
+              "popularity": 513,
+              "engagementCount": 189,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50367125",
+                  "popularity": 513,
+                  "engagementCount": 189
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-04T15:38:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50367125"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50367125",
+              "popularity": 513,
+              "engagementCount": 189
+            }
+          ]
+        },
+        {
+          "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+          "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+          "summary": "Illegale Fahrradwege, die von anonymen Aktivisten in San Francisco mit Verkehrskegeln angelegt wurden, wurden von der Stadtverwaltung in eine dauerhafte Infrastruktur umgewandelt. Diese Intervention wurde durchgeführt, um das Bewusstsein für sicheren Verkehr nach dem Tod von Radfahrern bei Verkehrsunfällen zu schärfen.",
+          "meta": "281 Punkte · 201 Kommentare",
+          "snapshot": {
+            "sourceId": "50366522",
+            "capturedAt": "2026-11-05T05:15:37.517Z",
+            "metadata": {
+              "popularity": 281,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50366522",
+                  "popularity": 281,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-04T15:01:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50366522",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "When two cyclists were tragically killed in hit-and-run collisions this past summer, a group of anonymous urban activists known as the San Francisco Transformation Agency erected a set of protected bike lanes using traffic cones. Usually such guerrilla interventions are temporary. They raise awareness but ultimately get taken down by municipal authorities."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50366522",
+              "popularity": 281,
+              "engagementCount": 201
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3.1-Pro",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "summary": "Das auf Hugging Face geteilte moonshotai/Kimi-K3.1-Pro ist ein multimodales KI-Modell, das visuelle und textuelle Eingaben verarbeiten kann. Dieses Modell, das auf dem Kimi K3-Modell durch groß angelegtes Reinforcement Learning trainiert wurde, wird als die erste und leistungsfähigste Version der K3.1-Serie präsentiert.",
+          "meta": "♥ 589 · 797 Downloads",
+          "snapshot": {
+            "sourceId": "moonshotai/Kimi-K3.1-Pro",
+            "capturedAt": "2026-11-05T05:15:37.355Z",
+            "metadata": {
+              "popularity": 589,
+              "engagementCount": 797,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 577,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "kimi_k31",
+                  "text-generation",
+                  "compressed-tensors",
+                  "conversational",
+                  "image-text-to-text",
+                  "custom_code",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              },
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50366999",
+                  "popularity": 431,
+                  "engagementCount": 128
+                }
+              ]
+            },
+            "description": "image-text-to-text model. Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50366999",
+              "popularity": 431,
+              "engagementCount": 128
+            }
+          ]
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "summary": "Das von NVIDIA entwickelte NVIDIA-Nemotron-3.5-Transcribe-30B-A4B ist ein Open-Weight-Modell zur automatischen Spracherkennung (automatic speech recognition), das Transkriptionen in 40 Sprachen durchführen kann. Das Modell, das Audioaufnahmen von bis zu einer Stunde unterstützt, arbeitet mit einer Mixture-of-Experts-Architektur.",
+          "meta": "♥ 3.001 · 44.939 Downloads",
+          "snapshot": {
+            "sourceId": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+            "capturedAt": "2026-11-05T05:15:37.355Z",
+            "metadata": {
+              "popularity": 3001,
+              "engagementCount": 44939,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 824,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "nemo",
+                  "safetensors",
+                  "nemo_speechlm",
+                  "text2text-generation",
+                  "nvidia",
+                  "pytorch",
+                  "nemotron-3.5",
+                  "speech",
+                  "asr",
+                  "speech-translation",
+                  "speaker-diarization",
+                  "audio",
+                  "transcription",
+                  "speech-to-text",
+                  "multilingual",
+                  "timestamps",
+                  "long-form-audio",
+                  "language-identification",
+                  "code-switching",
+                  "audio-question-answering",
+                  "instruction-following",
+                  "hf-asr-leaderboard",
+                  "transformers",
+                  "automatic-speech-recognition",
+                  "cs",
+                  "nl",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "it",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "sk",
+                  "es",
+                  "bg",
+                  "hr",
+                  "da",
+                  "et",
+                  "fi",
+                  "hu",
+                  "ja",
+                  "lv",
+                  "lt",
+                  "ro",
+                  "sl",
+                  "sv",
+                  "th",
+                  "tr",
+                  "uk",
+                  "ar",
+                  "bn",
+                  "zh",
+                  "el",
+                  "he",
+                  "id",
+                  "mt",
+                  "mr",
+                  "tl",
+                  "ta",
+                  "te",
+                  "vi",
+                  "dataset:nvidia/Granary-v2",
+                  "arxiv:2310.09424",
+                  "base_model:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "base_model:finetune:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "automatic-speech-recognition model. Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hour and a 65,536-token context. Its hybrid mixture-of-experts architecture activates approximately 4.3B parameters, including the audio encoder, and it is released in BF16, FP8, and NVFP4 precision."
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Das auf Hugging Face geteilte deepseek-ai/DeepSeek-V4.1-Flash-1017 ist ein Image-to-Text-Modell, das visuelle und textbasierte Eingaben verarbeiten kann. Als aktualisierte Version des DeepSeek-V4.1-Flash-Modells zielt dieses Modell darauf ab, die Verarbeitungszeit und Kosten zu senken und gleichzeitig die Leistung in Bereichen wie logischem Denken und Programmierung zu steigern.",
+          "meta": "♥ 5.292 · 221.621 Downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-11-05T05:15:37.355Z",
+            "metadata": {
+              "popularity": 5292,
+              "engagementCount": 221621,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 603,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "deploy:azure",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          }
+        },
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "speridlabs/idol ist ein KI-Modell, das aus einem einzigen Foto dreidimensionale Gauß-Splat-Modelle von Objekten erstellt. Das Tool entfernt den Hintergrund und gibt das Ergebnis im Standard-3DGS-.ply-Format aus; es kann auf Grafikprozessoren der Verbraucherklasse in unter zwei Sekunden ausgeführt werden.",
+          "meta": "♥ 636 · 14.613 Downloads",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-05T05:15:37.355Z",
+            "metadata": {
+              "popularity": 636,
+              "engagementCount": 14613,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 599,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          }
+        },
+        {
+          "title": "LiquidAI/LFM3-1.7B",
+          "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+          "summary": "Das von LiquidAI entwickelte LFM3-1.7B ist ein Textgenerierungsmodell, das für lokale Agenten und spezialisierte Anwendungen konzipiert wurde. Es basiert auf einer neuen Tri-Hybrid-Architektur und ist für den Betrieb auf Systemen mit geringen Ressourcen optimiert.",
+          "meta": "♥ 1.494 · 54.959 Downloads",
+          "snapshot": {
+            "sourceId": "LiquidAI/LFM3-1.7B",
+            "capturedAt": "2026-11-05T05:15:37.355Z",
+            "metadata": {
+              "popularity": 1494,
+              "engagementCount": 54959,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 564,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "lfm3",
+                  "text-generation",
+                  "liquid",
+                  "edge",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "ar",
+                  "zh",
+                  "fr",
+                  "de",
+                  "it",
+                  "ja",
+                  "ko",
+                  "pt",
+                  "es",
+                  "vi",
+                  "th",
+                  "id",
+                  "hi",
+                  "ru",
+                  "pl",
+                  "base_model:LiquidAI/LFM3-1.7B-Base",
+                  "base_model:finetune:LiquidAI/LFM3-1.7B-Base",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. LFM3-1.7B is a text model for local agents and specialized applications, based on our new tri-hybrid architecture."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation",
+          "url": "https://huggingface.co/papers/2611.06796",
+          "summary": "VA-TDM ist eine Methode zur Verbesserung der Bildqualität bei Diffusionsmodellen mit wenigen Schritten (few-step diffusion models). Durch den Einsatz von geschwindigkeitsbasierter gegnerischer Destillation (velocity adversarial distillation) zielt es darauf ab, die Herausforderungen bei der Verteilungsanpassung während des Sampling-Prozesses zu überwinden.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.06796",
+            "capturedAt": "2026-11-05T05:15:37.362Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06796",
+                "publishedAt": "2026-11-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/Luo-Yihong/VA-TDM",
+                "githubStars": 0
+              }
+            },
+            "description": "Few-step distillation offers efficient generation with diffusion and flow models, but preserving quality with only a few sampling steps remains challenging. Distribution-matching methods via score distillation provide a strong foundation, yet they rely on accurately tracking the student's changing distribution. At intermediate generation steps in few-step sampling, student-score estimation can be difficult, and commonly used estimators may describe a different distribution from the one used to u"
+          }
+        },
+        {
+          "title": "SleuthVLM: Do We Really Need Audio-in-Video for Omni Video Understanding?",
+          "url": "https://huggingface.co/papers/2611.06083",
+          "summary": "SleuthVLM, geteilt von Hugging Face, untersucht, ob multimodale KI-Modelle (Omni-Modelle) bei der Videoverständnis-Analyse direkt Audiodaten benötigen. Das System verarbeitet Sprache durch Transkription in Text und interpretiert Videoinhalte über ein visuelles Sprachmodell (VLM), das visuelle Daten unabhängig analysiert.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.06083",
+            "capturedAt": "2026-11-05T05:15:37.362Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06083",
+                "publishedAt": "2026-11-04T00:00:00.000Z"
+              }
+            },
+            "description": "Omni models answer questions about videos by jointly processing sampled frames and audio in one turn, with progress driven largely by scaling model size and omni training data. We ask whether a model needs to hear the audio directly at all, and present SleuthVLM, an agent harness built on a VLM that never hears the audio directly: speech will be transcribed into text, and the VLM will sleuth the video on its own without any predefined workflow. On four omni benchmarks with videos up to 90 minute"
+          }
+        },
+        {
+          "title": "AnchorComplete: Recovering Complete Scene Meshes from Partial Point Clouds",
+          "url": "https://huggingface.co/papers/2611.03228",
+          "summary": "AnchorComplete bietet ein Framework, das aus partiellen Punktwolken (partial point clouds) vollständige Szenennetze (scene meshes) erstellt. Diese auf TRELLIS.2 basierende Methode bewahrt die beobachtete Geometrie und ermöglicht die Vervollständigung von Szenen in verschiedenen Maßstäben.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.03228",
+            "capturedAt": "2026-11-05T05:15:37.362Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.03228",
+                "publishedAt": "2026-11-02T00:00:00.000Z"
+              }
+            },
+            "description": "Most image-based 3D reconstructors primarily recover visible surfaces, producing partial point clouds with large holes and leaving unobserved geometry unresolved. To address this limitation, we introduce AnchorComplete, a framework that reconstructs complete scene meshes from partial point clouds while preserving observed geometry and supporting scenes of varying scales. Building on TRELLIS.2, our method combines partial-point conditioning, which integrates global scene tokens with local spatial"
+          }
+        },
+        {
+          "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+          "url": "https://huggingface.co/papers/2611.06918",
+          "summary": "NEO-VLA, geteilt von Hugging Face, bietet eine Methode, mit der visuelle Daten ohne Komprimierung direkt in Aktionsrichtlinien (action policies) übertragen werden können. Dieser Ansatz zielt darauf ab, visuelle Details wie lokale Geometrie und Tiefe, die bei robotischen Manipulationsprozessen entscheidend sind, präziser zu verarbeiten.",
+          "meta": "10 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.06918",
+            "capturedAt": "2026-11-05T05:15:37.362Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06918",
+                "publishedAt": "2026-11-04T18:59:58.000Z"
+              }
+            },
+            "description": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries, depth, and subtle state changes. This raises a fundamental question: should action policies inherit a fixed visual endpoint, or directly access evolving visual computation? We introduce NEO-VLA, a str"
+          }
+        },
+        {
+          "title": "StreamDuo: A Live Commentator and a Research Agent for Unseen Games",
+          "url": "https://huggingface.co/papers/2611.01120",
+          "summary": "StreamDuo ist ein KI-Modell, das Live-Kommentare für bisher unbekannte Spiele abgeben kann und mit einem Forschungsagenten gekoppelt ist, der das Online-Wiki des Spiels liest. Dieses System wurde entwickelt, um die Wissenslücken aktueller großer Sprachmodelle (LLM) in Bezug auf Spielwelten zu schließen.",
+          "meta": "8 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.01120",
+            "capturedAt": "2026-11-05T05:15:37.362Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.01120",
+                "publishedAt": "2026-10-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/ZixianGao/StreamDuo-code",
+                "githubStars": 1
+              }
+            },
+            "description": "Streaming video LLMs can now commentate live gameplay, but they are trained and tested on the same games. We study cross-game streaming commentary, in which a model trained on one game commentates games it has never seen, and find that current commentators transfer their timing but not their knowledge of the game world. We propose StreamDuo, which pairs a trainable commentator with a frozen research agent that reads the wiki of the game being played. When the commentator sees something it cannot"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "graph-based",
+      "explanation": "Eine Struktur, die Beziehungen zwischen Daten über Knoten und Verbindungen herstellt."
+    },
+    {
+      "term": "LLM",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden und menschliche Sprache verstehen sowie Texte generieren können."
+    },
+    {
+      "term": "worktree",
+      "explanation": "Eine Git-Funktion, die es ermöglicht, gleichzeitig an verschiedenen Versionen eines Softwareprojekts zu arbeiten."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Eine textbasierte Schnittstelle, die Programme nicht mit der Maus, sondern über schriftliche Befehle ausführt."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Spezielle Fähigkeiten, über die KI-Agenten verfügen, um reale technische Aufgaben ausführen zu können."
+    },
+    {
+      "term": "CI",
+      "explanation": "Ein Prozess, der sicherstellt, dass Softwareänderungen automatisch getestet und in das Hauptprojekt integriert werden."
+    },
+    {
+      "term": "persistent context",
+      "explanation": "Die Fähigkeit von KI-Agenten, sich an frühere Gespräche oder Aktionen zu erinnern und Informationen zwischen Sitzungen zu übertragen."
+    },
+    {
+      "term": "open source",
+      "explanation": "Software, deren Quellcode für jeden zur Einsicht, Änderung und Weiterentwicklung offen zugänglich ist."
+    },
+    {
+      "term": "pull request",
+      "explanation": "Eine Anfrage von Softwareentwicklern, ihre Codeänderungen durch eine Überprüfung in das Hauptprojekt aufnehmen zu lassen."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ein grundlegendes Gerüst, das bei der Softwareentwicklung die Arbeit erleichtert und vorgefertigte Strukturen sowie Regeln bietet."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Eine leistungsstarke Prozessoreinheit, die in Computern insbesondere für Grafikverarbeitung und KI-Berechnungen eingesetzt wird."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Der Prozess des automatisierten Sammelns und Speicherns von Daten von Websites."
+    },
+    {
+      "term": "technical debt",
+      "explanation": "Die Notwendigkeit zukünftiger Nacharbeit aufgrund temporärer Lösungen, die während des Softwareentwicklungsprozesses zur schnellen Problemlösung gewählt wurden."
+    },
+    {
+      "term": "residential proxies",
+      "explanation": "Server, die wie eine echte Heim-Internetverbindung aussehen und dazu verwendet werden, den Internetverkehr zu verschleiern."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Eine künstliche Intelligenz, die nicht nur Text, sondern auch verschiedene Datentypen wie Bilder gleichzeitig verstehen und verarbeiten kann."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "Das Lernen einer künstlichen Intelligenz, durch Versuch und Irrtum sowie unter Verwendung eines Belohnungsmechanismus richtige Entscheidungen zu treffen."
+    }
+  ]
+}

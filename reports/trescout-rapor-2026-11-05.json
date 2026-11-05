@@ -1,0 +1,951 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-05",
+  "capturedAt": "2026-11-05T05:15:37.275Z",
+  "editorial": "Yazılım dünyası kırk yıllık teknik borçları (technical debt) temizlemeye odaklanırken NVIDIA ve Moonshot AI gibi geliştiriciler yeni nesil yapay zekâ modelleriyle altyapı kapasitesini genişletiyor. Haberleşme ağlarındaki güvenlik zafiyetleri ve video işleme modellerindeki (video understanding models) yeni yaklaşımlar bugün teknik tartışmaların merkezinde yer alıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "NVIDIA/auto-ontology",
+          "url": "https://github.com/NVIDIA/auto-ontology",
+          "summary": "NVIDIA tarafından geliştirilen auto-ontology, veriler üzerinde anlamsal ve çizge tabanlı (graph-based) akıl yürütme katmanları oluşturmayı sağlayan bir Python çatısıdır. Bu araç, büyük dil modelleri (LLM) ve yapay zekâ ajan iş akışları için daha açıklanabilir sonuçlar ile belirleyici sorgu üretimi sunar.",
+          "meta": "Python · ★ 5.549 · +2.050 bugün",
+          "snapshot": {
+            "sourceId": "NVIDIA/auto-ontology",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5549,
+              "engagementCount": 2050,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2050
+              }
+            },
+            "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
+          }
+        },
+        {
+          "title": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "summary": "Rust diliyle geliştirilen worktrunk, Git çalışma ağacı (worktree) yönetimini kolaylaştıran bir komut satırı arayüzü (CLI). Araç, birden fazla yapay zekâ ajanının eş zamanlı iş akışlarını yönetmek için özel olarak tasarlandı.",
+          "meta": "Rust · ★ 11.155 · +531 bugün",
+          "snapshot": {
+            "sourceId": "max-sixty/worktrunk",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11155,
+              "engagementCount": 531,
+              "rank": 2,
+              "extra": {
+                "starsToday": 531,
+                "baglam": "readme"
+              }
+            },
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows. Worktrunk is a CLI for git worktree management, designed for running AI agents in parallel."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan mattpocock/skills, gerçek mühendislik süreçlerinde kullanılan yapay zekâ ajanı yeteneklerini (agent skills) içeren bir koleksiyon. Yazılım geliştirme görevlerini otomatize etmek için hazırlanan bu kaynak, teorik yaklaşımlar yerine günlük iş akışlarında doğrudan uygulanabilir araçlara odaklanıyor.",
+          "meta": "Shell · ★ 313.618 · +1.379 bugün",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 313618,
+              "engagementCount": 1379,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1379,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "floci-io/floci",
+          "url": "https://github.com/floci-io/floci",
+          "summary": "Java ile geliştirilen floci, yazılım geliştirme, test süreçleri ve sürekli entegrasyon (CI) işlemleri için kullanılan açık kaynaklı bir yerel AWS emülatörüdür. Bulut hizmetlerini yerel ortamda taklit ederek geliştiricilere ücretsiz bir alternatif sunar.",
+          "meta": "Java · ★ 29.760 · +1.090 bugün",
+          "snapshot": {
+            "sourceId": "floci-io/floci",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 29760,
+              "engagementCount": 1090,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1090,
+                "baglam": "readme"
+              }
+            },
+            "description": "Light, fluffy, and always free - The AWS Local Emulator alternative. Floci is a free, open-source local AWS emulator for development, testing, and CI."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "thedotmack/claude-mem, yapay zekâ ajanları için oturumlar arası kalıcı bağlam (persistent context) sağlayan bir araçtır. Oturum verilerini yapay zekâ ile sıkıştırarak gelecekteki işlemlerde ilgili bilgileri tekrar kullanıma sunar ve Claude Code gibi çeşitli geliştirme araçlarıyla uyumlu çalışır.",
+          "meta": "TypeScript · ★ 113.028 · +1.172 bugün",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 113028,
+              "engagementCount": 1172,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1172
+              }
+            },
+            "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "vercel-labs/agent-desktop",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "summary": "Vercel Labs tarafından geliştirilen agent-desktop, yapay zekâ ajanlarının macOS, Windows ve Linux işletim sistemlerindeki masaüstü uygulamalarını görmesini ve yönetmesini sağlayan bir komut satırı arayüzü (CLI). Rust diliyle yazılan bu araç, işletim sisteminin erişilebilirlik ağacını kullanarak ajanların bilgisayar üzerindeki işlemleri gerçekleştirmesine imkân tanıyor.",
+          "meta": "Rust · ★ 15.552 · +2.470 bugün",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-desktop",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 15552,
+              "engagementCount": 2470,
+              "rank": 6,
+              "extra": {
+                "starsToday": 2470,
+                "baglam": "readme"
+              }
+            },
+            "description": "Computer use CLI for AI agents. Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "GitHub tarafından geliştirilen spec-kit, yapay zekâ kodlama ajanlarına yapılandırılmış süreçler, yeniden kullanılabilir şablonlar ve belgelenmiş çıktılar sağlayan açık kaynaklı (open source) bir araç takımıdır. Yazılım geliştirme süreçlerini standartlaştırmayı hedefleyen bu kit, hazır süreçlerin özelleştirilmesine veya kullanıcıların kendi süreçlerini entegre etmesine olanak tanır.",
+          "meta": "Python · ★ 147.442 · +808 bugün",
+          "snapshot": {
+            "sourceId": "github/spec-kit",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 147442,
+              "engagementCount": 808,
+              "rank": 7,
+              "extra": {
+                "starsToday": 808,
+                "baglam": "readme"
+              }
+            },
+            "description": "💫 Toolkit to help you get started with SDD or any other process!. Spec Kit is an open source toolkit that gives AI coding agents structured processes, reusable templates, and documented outcomes. Start with a ready-made process, customize it, or bring your own."
+          }
+        },
+        {
+          "title": "The-PR-Agent/pr-agent",
+          "url": "https://github.com/The-PR-Agent/pr-agent",
+          "summary": "The-PR-Agent/pr-agent, yazılım geliştirme süreçlerinde çekme isteklerini (pull request) incelemek üzere tasarlanmış açık kaynak (open source) bir projedir. Python diliyle geliştirilen bu araç, kod inceleme görevlerini otomatize etmeyi amaçlar.",
+          "meta": "Python · ★ 14.871 · +280 bugün",
+          "snapshot": {
+            "sourceId": "The-PR-Agent/pr-agent",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 14871,
+              "engagementCount": 280,
+              "rank": 8,
+              "extra": {
+                "starsToday": 280,
+                "baglam": "readme"
+              }
+            },
+            "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects."
+          }
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, yapay zekâ modelleri ve otomatik iş akışları kullanarak girilen konu veya anahtar kelimelerden yüksek çözünürlüklü kısa videolar oluşturan bir Python projesidir. Proje, video metni yazma ve görsel materyal seçimi gibi süreçleri yönetmek için Moonshot AI tarafından geliştirilen büyük dil modeli Kimi K3.1 Pro'dan yararlanır.",
+          "meta": "Python · ★ 139.201 · +617 bugün",
+          "snapshot": {
+            "sourceId": "harry0703/MoneyPrinterTurbo",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 139201,
+              "engagementCount": 617,
+              "rank": 9,
+              "extra": {
+                "starsToday": 617,
+                "baglam": "readme"
+              }
+            },
+            "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. 感谢 Kimi 赞助本项目！Kimi K3.1 Pro 是 Moonshot AI 迄今能力最强的 3T 级开放权重模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3.1 Pro 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准确，匹配到的素材就越贴题。"
+          }
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "Garry Tan tarafından paylaşılan gstack, yazılım geliştirme süreçlerini yönetmek için Claude Code üzerinde yapılandırılmış 23 farklı araç seti sunuyor. Bu araçlar; CEO, tasarımcı, mühendislik yöneticisi ve kalite güvence uzmanı gibi çeşitli rollerin sorumluluklarını üstlenerek iş akışlarını otomatize etmeyi hedefliyor.",
+          "meta": "TypeScript · ★ 139.456 · +290 bugün",
+          "snapshot": {
+            "sourceId": "garrytan/gstack",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 139456,
+              "engagementCount": 290,
+              "rank": 10,
+              "extra": {
+                "starsToday": 290
+              }
+            },
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+          }
+        },
+        {
+          "title": "FareedKhan-dev/kimi-k3-in-c",
+          "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+          "summary": "FareedKhan-dev/kimi-k3-in-c projesi, 2,78 trilyon parametreli Kimi K3 modelinin tek bir işlemci üzerinde ve 8,24 GB bellek kullanımıyla çalıştırılmasını sağlıyor. Herhangi bir çerçeve (framework) veya grafik işlem birimi (GPU) gerektirmeyen bu C99 tabanlı uygulama, yüksek parametreli yapay zekâ modellerinin kısıtlı donanımlarda çalıştırılmasına odaklanıyor.",
+          "meta": "C · ★ 10.450 · +351 bugün",
+          "snapshot": {
+            "sourceId": "FareedKhan-dev/kimi-k3-in-c",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 10450,
+              "engagementCount": 351,
+              "rank": 11,
+              "extra": {
+                "starsToday": 351
+              }
+            },
+            "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU."
+          }
+        },
+        {
+          "title": "JiaFeiMiao-K-Cat/DiscImageStudio",
+          "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+          "summary": "Disc Image Studio, DVD, CD ve tek katmanlı Blu-ray disklerin üzerine çıplak gözle görülebilir görüntüler kazımanızı sağlayan çok platformlu bir disk görseli oluşturma ve yazdırma aracıdır. C# diliyle geliştirilen bu yazılım, herhangi bir yazılabilir optik sürücü kullanarak disk yüzeyine özel grafikler işlemenize olanak tanır.",
+          "meta": "C# · ★ 6.769 · +1.778 bugün",
+          "snapshot": {
+            "sourceId": "JiaFeiMiao-K-Cat/DiscImageStudio",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 6769,
+              "engagementCount": 1778,
+              "rank": 12,
+              "extra": {
+                "starsToday": 1778,
+                "baglam": "readme"
+              }
+            },
+            "description": "Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。"
+          }
+        },
+        {
+          "title": "MichaelCade/90DaysOfDevOps",
+          "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+          "summary": "MichaelCade/90DaysOfDevOps, DevOps süreçleri, ilkeleri ve araçları üzerine yapılandırılmış bir öğrenme haritası sunuyor. Üç yıllık bir içeriği kapsayan bu kaynak, topluluk üyeleri için geniş kapsamlı bir eğitim rehberi görevi görüyor.",
+          "meta": "Shell · ★ 30.544 · +97 bugün",
+          "snapshot": {
+            "sourceId": "MichaelCade/90DaysOfDevOps",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 30544,
+              "engagementCount": 97,
+              "rank": 13,
+              "extra": {
+                "starsToday": 97
+              }
+            },
+            "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+          }
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling, basit veri çekme işlemlerinden kapsamlı tarama süreçlerine kadar tüm aşamaları yönetebilen bir Python tabanlı web kazıma (web scraping) çatısıdır. Kullanıcıların tek bir istekten geniş ölçekli veri toplama süreçlerine kadar ihtiyaç duyduğu tüm araçları tek bir yapıda sunar.",
+          "meta": "Python · ★ 96.866 · +2.005 bugün",
+          "snapshot": {
+            "sourceId": "D4Vinci/Scrapling",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 96866,
+              "engagementCount": 2005,
+              "rank": 14,
+              "extra": {
+                "starsToday": 2005
+              }
+            },
+            "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "Thysrael/Horizon",
+          "url": "https://github.com/Thysrael/Horizon",
+          "summary": "Thysrael/Horizon, farklı kaynaklardan gelen haberleri yapay zekâ kullanarak toplayan, filtreleyen ve özetleyen bir haber takip aracıdır. İngilizce ve Çince dillerinde günlük bültenler hazırlayan bu yazılım, içerikleri bağlam ve topluluk tartışmalarıyla birlikte sunarak kullanıcıların bilgi akışını yönetmesine yardımcı olur.",
+          "meta": "Python · ★ 12.645 · +121 bugün",
+          "snapshot": {
+            "sourceId": "Thysrael/Horizon",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 12645,
+              "engagementCount": 121,
+              "rank": 15,
+              "extra": {
+                "starsToday": 121,
+                "baglam": "readme"
+              }
+            },
+            "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达. Good reads are scattered across feeds, forums, and timelines. Your attention isn't unlimited. Horizon collects, filters, and deduplicates them, then brings the worthwhile ones to you with context and community discussion."
+          }
+        },
+        {
+          "title": "scenario-labs/skills",
+          "url": "https://github.com/scenario-labs/skills",
+          "summary": "scenario-labs/skills, yapay zekâ ajanlarının görsel, işitsel ve üç boyutlu içerik üretimi için doğru modeli seçmesini ve maliyet kontrolü yapmasını sağlayan bir kütüphanedir. Araç, karakter tutarlılığını korumak için Scenario MCP protokolünü kullanırken Blender, Maya, ZBrush, Unreal ve Unity gibi profesyonel tasarım yazılımlarıyla entegre çalışır.",
+          "meta": "Python · ★ 2.566 · +224 bugün",
+          "snapshot": {
+            "sourceId": "scenario-labs/skills",
+            "capturedAt": "2026-11-05T05:15:38.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2566,
+              "engagementCount": 224,
+              "rank": 16,
+              "extra": {
+                "starsToday": 224
+              }
+            },
+            "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI is forcing us to pay off 40 years of technical debt",
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "summary": "Siber güvenlik alanında yapay zekâ kullanımı, hem saldırganların hem de savunmacıların hızını artırarak kırılgan eski sistemlerdeki teknik borçları (technical debt) gün yüzüne çıkarıyor. Bu durum, kurumları kırk yıllık yazılım altyapılarını yenilemeye zorlayan bir süreci tetikliyor.",
+          "meta": "1.129 oy · 656 yorum",
+          "snapshot": {
+            "sourceId": "50364336",
+            "capturedAt": "2026-11-05T05:15:37.517Z",
+            "metadata": {
+              "popularity": 1129,
+              "engagementCount": 656,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50364336",
+                  "popularity": 1129,
+                  "engagementCount": 656
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-04T11:52:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50364336",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "AI in cybersecurity accelerates both attackers and defenders, revealing painful technical debt in fragile legacy systems."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50364336",
+              "popularity": 1129,
+              "engagementCount": 656
+            }
+          ]
+        },
+        {
+          "title": "Residential proxies detected on White House network",
+          "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+          "summary": "Beyaz Saray ağında konut tipi vekil sunucuların (residential proxies) tespit edildiği bildiriliyor. Bu durum, kurumsal ağ üzerinden internet trafiğini yönlendiren ve genellikle anonimlik sağlayan söz konusu ağların güvenlik üzerindeki etkilerini tartışmaya açıyor.",
+          "meta": "835 oy · 265 yorum",
+          "snapshot": {
+            "sourceId": "50371246",
+            "capturedAt": "2026-11-05T05:15:37.517Z",
+            "metadata": {
+              "popularity": 835,
+              "engagementCount": 265,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50371246",
+                  "popularity": 835,
+                  "engagementCount": 265
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-04T20:45:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50371246"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50371246",
+              "popularity": 835,
+              "engagementCount": 265
+            }
+          ]
+        },
+        {
+          "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+          "summary": "AMD, dördüncü çeyrekte işlemci satışlarının ilk kez Intel'i geçeceğini öngörüyor. Şirketin açıkladığı 17 milyar dolarlık gelir beklentisi, rakibi Intel'in aynı dönem için paylaştığı projeksiyonların üzerine çıkıyor.",
+          "meta": "513 oy · 189 yorum",
+          "snapshot": {
+            "sourceId": "50367125",
+            "capturedAt": "2026-11-05T05:15:37.517Z",
+            "metadata": {
+              "popularity": 513,
+              "engagementCount": 189,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50367125",
+                  "popularity": 513,
+                  "engagementCount": 189
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-04T15:38:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50367125"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50367125",
+              "popularity": 513,
+              "engagementCount": 189
+            }
+          ]
+        },
+        {
+          "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+          "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+          "summary": "San Francisco'da anonim aktivistlerin trafik konileriyle oluşturduğu yasa dışı bisiklet yolları, şehir yönetimi tarafından kalıcı altyapıya dönüştürüldü. Bu müdahale, trafik kazalarında hayatını kaybeden bisikletçilerin ardından güvenli ulaşım farkındalığını artırmak amacıyla gerçekleştirildi.",
+          "meta": "281 oy · 201 yorum",
+          "snapshot": {
+            "sourceId": "50366522",
+            "capturedAt": "2026-11-05T05:15:37.517Z",
+            "metadata": {
+              "popularity": 281,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50366522",
+                  "popularity": 281,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-04T15:01:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50366522",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "When two cyclists were tragically killed in hit-and-run collisions this past summer, a group of anonymous urban activists known as the San Francisco Transformation Agency erected a set of protected bike lanes using traffic cones. Usually such guerrilla interventions are temporary. They raise awareness but ultimately get taken down by municipal authorities."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50366522",
+              "popularity": 281,
+              "engagementCount": 201
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3.1-Pro",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "summary": "Hugging Face üzerinde paylaşılan moonshotai/Kimi-K3.1-Pro, görsel ve metin girdilerini işleyebilen çok modlu (multimodal) bir yapay zekâ modelidir. Kimi K3 modelinin üzerine geniş ölçekli pekiştirmeli öğrenme (reinforcement learning) ile eğitilen bu model, K3.1 serisinin ilk ve en yetenekli sürümü olarak sunuluyor.",
+          "meta": "♥ 589 · 797 indirme",
+          "snapshot": {
+            "sourceId": "moonshotai/Kimi-K3.1-Pro",
+            "capturedAt": "2026-11-05T05:15:37.355Z",
+            "metadata": {
+              "popularity": 589,
+              "engagementCount": 797,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 577,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "kimi_k31",
+                  "text-generation",
+                  "compressed-tensors",
+                  "conversational",
+                  "image-text-to-text",
+                  "custom_code",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              },
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50366999",
+                  "popularity": 431,
+                  "engagementCount": 128
+                }
+              ]
+            },
+            "description": "image-text-to-text model. Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50366999",
+              "popularity": 431,
+              "engagementCount": 128
+            }
+          ]
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "summary": "NVIDIA tarafından geliştirilen NVIDIA-Nemotron-3.5-Transcribe-30B-A4B, 40 dilde transkripsiyon yapabilen açık ağırlıklı bir otomatik konuşma tanıma (automatic speech recognition) modelidir. Bir saate kadar olan ses kayıtlarını destekleyen model, hibrit uzmanlar karışımı (mixture-of-experts) mimarisiyle çalışır.",
+          "meta": "♥ 3.001 · 44.939 indirme",
+          "snapshot": {
+            "sourceId": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+            "capturedAt": "2026-11-05T05:15:37.355Z",
+            "metadata": {
+              "popularity": 3001,
+              "engagementCount": 44939,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 824,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "nemo",
+                  "safetensors",
+                  "nemo_speechlm",
+                  "text2text-generation",
+                  "nvidia",
+                  "pytorch",
+                  "nemotron-3.5",
+                  "speech",
+                  "asr",
+                  "speech-translation",
+                  "speaker-diarization",
+                  "audio",
+                  "transcription",
+                  "speech-to-text",
+                  "multilingual",
+                  "timestamps",
+                  "long-form-audio",
+                  "language-identification",
+                  "code-switching",
+                  "audio-question-answering",
+                  "instruction-following",
+                  "hf-asr-leaderboard",
+                  "transformers",
+                  "automatic-speech-recognition",
+                  "cs",
+                  "nl",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "it",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "sk",
+                  "es",
+                  "bg",
+                  "hr",
+                  "da",
+                  "et",
+                  "fi",
+                  "hu",
+                  "ja",
+                  "lv",
+                  "lt",
+                  "ro",
+                  "sl",
+                  "sv",
+                  "th",
+                  "tr",
+                  "uk",
+                  "ar",
+                  "bn",
+                  "zh",
+                  "el",
+                  "he",
+                  "id",
+                  "mt",
+                  "mr",
+                  "tl",
+                  "ta",
+                  "te",
+                  "vi",
+                  "dataset:nvidia/Granary-v2",
+                  "arxiv:2310.09424",
+                  "base_model:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "base_model:finetune:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "automatic-speech-recognition model. Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hour and a 65,536-token context. Its hybrid mixture-of-experts architecture activates approximately 4.3B parameters, including the audio encoder, and it is released in BF16, FP8, and NVFP4 precision."
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "Hugging Face üzerinde paylaşılan deepseek-ai/DeepSeek-V4.1-Flash-1017, görsel ve metin tabanlı girdileri işleyebilen bir görüntüden metne (image-to-text) modelidir. DeepSeek-V4.1-Flash modelinin güncellenmiş sürümü olan bu model, akıl yürütme ve kodlama gibi alanlarda performans artışı sağlarken işlem süresini ve maliyeti düşürmeyi hedefliyor.",
+          "meta": "♥ 5.292 · 221.621 indirme",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "capturedAt": "2026-11-05T05:15:37.355Z",
+            "metadata": {
+              "popularity": 5292,
+              "engagementCount": 221621,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 603,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "deploy:azure",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. DeepSeek-V4.1-Flash-1017 is a minor update to DeepSeek-V4.1-Flash, delivering substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks. Alongside these gains, the model reduces task execution time and output length, enabling users to complete tasks faster and at lower cost and advancing the performance–cost Pareto frontier across multiple agent harnesses."
+          },
+          "streakDays": 19
+        },
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "speridlabs/idol, tek bir fotoğraftan nesnelerin üç boyutlu Gaussian splat modellerini oluşturan bir yapay zekâ modelidir. Arka planı temizleyerek standart 3DGS .ply formatında çıktı veren bu araç, tüketici sınıfı grafik işlemcilerinde iki saniyenin altında çalışabilmektedir.",
+          "meta": "♥ 636 · 14.613 indirme",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-05T05:15:37.355Z",
+            "metadata": {
+              "popularity": 636,
+              "engagementCount": 14613,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 599,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "LiquidAI/LFM3-1.7B",
+          "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+          "summary": "LiquidAI tarafından geliştirilen LFM3-1.7B, yerel ajanlar ve özelleşmiş uygulamalar için tasarlanmış bir metin üretme modeli (text-generation model). Yeni üçlü hibrit mimari (tri-hybrid architecture) üzerine inşa edilen bu model, düşük kaynak gerektiren sistemlerde çalışmak üzere optimize ediliyor.",
+          "meta": "♥ 1.494 · 54.959 indirme",
+          "snapshot": {
+            "sourceId": "LiquidAI/LFM3-1.7B",
+            "capturedAt": "2026-11-05T05:15:37.355Z",
+            "metadata": {
+              "popularity": 1494,
+              "engagementCount": 54959,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 564,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "lfm3",
+                  "text-generation",
+                  "liquid",
+                  "edge",
+                  "conversational",
+                  "custom_code",
+                  "en",
+                  "ar",
+                  "zh",
+                  "fr",
+                  "de",
+                  "it",
+                  "ja",
+                  "ko",
+                  "pt",
+                  "es",
+                  "vi",
+                  "th",
+                  "id",
+                  "hi",
+                  "ru",
+                  "pl",
+                  "base_model:LiquidAI/LFM3-1.7B-Base",
+                  "base_model:finetune:LiquidAI/LFM3-1.7B-Base",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. LFM3-1.7B is a text model for local agents and specialized applications, based on our new tri-hybrid architecture."
+          },
+          "streakDays": 7
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation",
+          "url": "https://huggingface.co/papers/2611.06796",
+          "summary": "VA-TDM, az adımlı difüzyon modellerinde (few-step diffusion models) görüntü kalitesini artırmak için geliştirilen bir yöntemdir. Hız tabanlı çekişmeli damıtma (velocity adversarial distillation) kullanarak, örnekleme sürecindeki dağılım eşleştirme zorluklarını aşmayı hedefler.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.06796",
+            "capturedAt": "2026-11-05T05:15:37.362Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06796",
+                "publishedAt": "2026-11-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/Luo-Yihong/VA-TDM",
+                "githubStars": 0
+              }
+            },
+            "description": "Few-step distillation offers efficient generation with diffusion and flow models, but preserving quality with only a few sampling steps remains challenging. Distribution-matching methods via score distillation provide a strong foundation, yet they rely on accurately tracking the student's changing distribution. At intermediate generation steps in few-step sampling, student-score estimation can be difficult, and commonly used estimators may describe a different distribution from the one used to u"
+          }
+        },
+        {
+          "title": "SleuthVLM: Do We Really Need Audio-in-Video for Omni Video Understanding?",
+          "url": "https://huggingface.co/papers/2611.06083",
+          "summary": "Hugging Face tarafından paylaşılan SleuthVLM, çok modlu yapay zekâ modellerinin (omni models) video anlama süreçlerinde doğrudan ses verisine ihtiyaç duyup duymadığını sorguluyor. Konuşmaları metne dönüştürerek işleyen bu sistem, görsel veriyi bağımsız şekilde analiz eden bir görsel dil modeli (VLM) üzerinden video içeriğini yorumluyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.06083",
+            "capturedAt": "2026-11-05T05:15:37.362Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06083",
+                "publishedAt": "2026-11-04T00:00:00.000Z"
+              }
+            },
+            "description": "Omni models answer questions about videos by jointly processing sampled frames and audio in one turn, with progress driven largely by scaling model size and omni training data. We ask whether a model needs to hear the audio directly at all, and present SleuthVLM, an agent harness built on a VLM that never hears the audio directly: speech will be transcribed into text, and the VLM will sleuth the video on its own without any predefined workflow. On four omni benchmarks with videos up to 90 minute"
+          }
+        },
+        {
+          "title": "AnchorComplete: Recovering Complete Scene Meshes from Partial Point Clouds",
+          "url": "https://huggingface.co/papers/2611.03228",
+          "summary": "AnchorComplete, kısmi nokta bulutlarından (partial point clouds) eksiksiz sahne ağları (scene meshes) oluşturan bir çerçeve sunuyor. TRELLIS.2 temelinde geliştirilen bu yöntem, gözlemlenen geometriyi koruyarak farklı ölçeklerdeki sahnelerin tamamlanmasını sağlıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.03228",
+            "capturedAt": "2026-11-05T05:15:37.362Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.03228",
+                "publishedAt": "2026-11-02T00:00:00.000Z"
+              }
+            },
+            "description": "Most image-based 3D reconstructors primarily recover visible surfaces, producing partial point clouds with large holes and leaving unobserved geometry unresolved. To address this limitation, we introduce AnchorComplete, a framework that reconstructs complete scene meshes from partial point clouds while preserving observed geometry and supporting scenes of varying scales. Building on TRELLIS.2, our method combines partial-point conditioning, which integrates global scene tokens with local spatial"
+          }
+        },
+        {
+          "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+          "url": "https://huggingface.co/papers/2611.06918",
+          "summary": "Hugging Face tarafından paylaşılan NEO-VLA, görsel verilerin sıkıştırılmadan doğrudan eylem politikalarına (action policies) aktarılmasını sağlayan bir yöntem sunuyor. Bu yaklaşım, robotik manipülasyon süreçlerinde kritik olan yerel geometri ve derinlik gibi görsel detayların daha hassas işlenmesini hedefliyor.",
+          "meta": "10 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.06918",
+            "capturedAt": "2026-11-05T05:15:37.362Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06918",
+                "publishedAt": "2026-11-04T18:59:58.000Z"
+              }
+            },
+            "description": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries, depth, and subtle state changes. This raises a fundamental question: should action policies inherit a fixed visual endpoint, or directly access evolving visual computation? We introduce NEO-VLA, a str"
+          }
+        },
+        {
+          "title": "StreamDuo: A Live Commentator and a Research Agent for Unseen Games",
+          "url": "https://huggingface.co/papers/2611.01120",
+          "summary": "StreamDuo, daha önce görülmemiş oyunlar için canlı yorum yapabilen ve oyunun çevrim içi ansiklopedisini (wiki) okuyan bir araştırma ajanıyla eşleşen bir yapay zekâ modeli. Bu sistem, mevcut büyük dil modellerinin (LLM) oyun dünyasına dair bilgi eksikliğini gidermek amacıyla geliştirildi.",
+          "meta": "8 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2611.01120",
+            "capturedAt": "2026-11-05T05:15:37.362Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.01120",
+                "publishedAt": "2026-10-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/ZixianGao/StreamDuo-code",
+                "githubStars": 1
+              }
+            },
+            "description": "Streaming video LLMs can now commentate live gameplay, but they are trained and tested on the same games. We study cross-game streaming commentary, in which a model trained on one game commentates games it has never seen, and find that current commentators transfer their timing but not their knowledge of the game world. We propose StreamDuo, which pairs a trainable commentator with a frozen research agent that reads the wiki of the game being played. When the commentator sees something it cannot"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "graph-based",
+      "explanation": "Veriler arasındaki ilişkileri düğümler ve bağlantılar üzerinden kuran bir yapı."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "worktree",
+      "explanation": "Bir yazılım projesinin farklı sürümleri üzerinde aynı anda çalışmaya olanak tanıyan Git özelliği."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Yapay zekâ ajanlarının gerçek mühendislik görevlerini yerine getirebilmesi için sahip olduğu özel yetenekler."
+    },
+    {
+      "term": "CI",
+      "explanation": "Yazılım değişikliklerinin otomatik olarak test edilip ana projeye eklenmesini sağlayan süreç."
+    },
+    {
+      "term": "persistent context",
+      "explanation": "Yapay zekâ ajanlarının önceki konuşmaları veya işlemleri hatırlayarak oturumlar arasında bilgi taşıması."
+    },
+    {
+      "term": "open source",
+      "explanation": "Kaynak kodları herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yazılım."
+    },
+    {
+      "term": "pull request",
+      "explanation": "Yazılım geliştiricilerin yazdıkları kod değişikliklerini ana projeye ekletmek için yaptıkları inceleme talebi."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır yapılar ve kurallar sunan temel bir çatı."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Bilgisayarlarda özellikle grafik işleme ve yapay zekâ hesaplamaları için kullanılan güçlü işlemci birimi."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "İnternet sitelerindeki verilerin otomatik yöntemlerle toplanıp kaydedilmesi süreci."
+    },
+    {
+      "term": "technical debt",
+      "explanation": "Yazılım geliştirme sürecinde hızlı çözüm üretmek için yapılan geçici işlerin gelecekte ek çalışma gerektirmesi."
+    },
+    {
+      "term": "residential proxies",
+      "explanation": "Gerçek ev interneti bağlantısı gibi görünen ve internet trafiğini gizlemek için kullanılan sunucular."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Sadece metin değil, görsel gibi farklı türdeki verileri de aynı anda anlayıp işleyebilen yapay zekâ."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "Yapay zekânın deneme yanılma yoluyla ve ödül mekanizması kullanarak doğru kararları vermeyi öğrenmesi."
+    }
+  ]
+}
