@@ -2,12 +2,13 @@
 
 Disc Image Studio es una herramienta multiplataforma de creación e impresión de imágenes de disco que permite grabar imágenes visibles a simple vista en DVDs, CDs y discos Blu-ray de una sola capa. Desarrollado en C#, este software permite procesar gráficos personalizados en la superficie del disco utilizando cualquier unidad óptica grabable.
 
-- ★ 6.777
+- ★ 6.867
 - C#
 - GitHub Trending · 2026-11-05
 
 ## Actualizaciones
 
+- **5 de noviembre de 2026:** Estrellas 6,777 → 6,867, última versión v1.4.1 (5 de noviembre de 2026).
 - **5 de noviembre de 2026:** Estrellas 6,769 → 6,777, última versión v1.4.0 (4 de noviembre de 2026).
 
 ## Qué aporta
