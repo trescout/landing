@@ -74,8 +74,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Agentic](https://trescout.com/de/dictionary/agentic/)
 - [Localhost](https://trescout.com/de/dictionary/localhost/)
-- [Clone](https://trescout.com/de/dictionary/clone/)
 - [RAG](https://trescout.com/de/dictionary/rag/)
+- [Clone](https://trescout.com/de/dictionary/clone/)
 - [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

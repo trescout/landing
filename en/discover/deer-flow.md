@@ -2,12 +2,13 @@
 
 Developed by ByteDance, Deer-Flow is an open-source superagent framework designed to perform long-running tasks. System; It can autonomously research and code complex workflows using a sandbox, memory management and sub-agents.
 
-- ★ 83,006
+- ★ 85,008
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Updates
 
+- **November 5, 2026:** Stars 83,006 → 85,008, latest release v2.2.0 (November 4, 2026).
 - **September 27, 2026:** Stars 78,818 → 83,006, latest release v2.1.0 (September 24, 2026).
 - **August 2, 2026:** Stars 72,905 → 78,818, latest release v2.0.0 (June 25, 2026).
 

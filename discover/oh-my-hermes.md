@@ -2,16 +2,16 @@
 
 Hermes Agent için geliştirilen oh-my-hermes, kodlama zekâsı, uzun süreli bellek sistemi ve model odaklı iş akışı paketlerini tek bir eklentide sunuyor. Yazılım geliştirme süreçlerini optimize eden bu araç, Python tabanlı yapısıyla geliştiricilere kapsamlı bir çalışma ortamı sağlıyor.
 
-- ★ 5.100
+- ★ 5.125
 - Python
 - GitHub Trending · 2026-09-15
 
 ## Güncelleme
 
+- **5 Kasım 2026:** Yıldız 5.100 → 5.125, son sürüm v4.0.6 (5 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 5.029 → 5.100, son sürüm v4.0.5 (3 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 4.388 → 5.029, son sürüm v4.0.4 (1 Kasım 2026).
 - **28 Ekim 2026:** Yıldız 3.980 → 4.388, son sürüm v4.0.3 (28 Ekim 2026).
-- **25 Ekim 2026:** Yıldız 3.545 → 3.980, son sürüm v4.0.2 (25 Ekim 2026).
 
 ## Ne kazandırır?
 

@@ -74,8 +74,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Agentic](https://trescout.com/es/dictionary/agentic/)
 - [Localhost](https://trescout.com/es/dictionary/localhost/)
-- [Clone](https://trescout.com/es/dictionary/clone/)
 - [RAG](https://trescout.com/es/dictionary/rag/)
+- [Clone](https://trescout.com/es/dictionary/clone/)
 - [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

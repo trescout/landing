@@ -69,7 +69,7 @@ Eles exigem altos recursos de hardware porque bilhões de parâmetros devem ser 
 - [Ragflow](https://trescout.com/pt/discover/ragflow/)
 - [Servers](https://trescout.com/pt/discover/servers/)
 - [Crawl4AI](https://trescout.com/pt/discover/crawl4ai/)
-- [LLM Course](https://trescout.com/pt/discover/llm-course/)
+- [Deer Flow](https://trescout.com/pt/discover/deer-flow/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/llm/)
 

@@ -44,8 +44,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Context](https://trescout.com/en/dictionary/context/)
-- [Framework](https://trescout.com/en/dictionary/framework/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
+- [Framework](https://trescout.com/en/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** For Python developers who want to establish fast and reliable integration between AI models and native tools.

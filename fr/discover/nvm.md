@@ -2,12 +2,13 @@
 
 Node Version Manager est un outil de ligne de commande qui permet aux développeurs de gérer plusieurs versions de Node.js sur leurs systèmes. Grâce à sa structure de script shell (script bash) compatible POSIX, il facilite les transitions rapides de version entre différents projets.
 
-- ★ 95 190
+- ★ 95 759
 - Shell
 - GitHub Trending · 2026-08-12
 
 ## Mises à jour
 
+- **5 novembre 2026:** Étoiles 95,190 → 95,759, dernière version v0.41.0 (4 novembre 2026).
 - **27 septembre 2026:** Étoiles 94,630 → 95,190, dernière version v0.40.8 (21 septembre 2026).
 - **18 août 2026:** Étoiles 94,519 → 94,630, dernière version v0.40.7 (18 août 2026).
 - **12 août 2026:** Étoiles 94,520 → 94,519, dernière version v0.40.6 (15 juillet 2026).

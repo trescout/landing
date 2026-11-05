@@ -2,16 +2,16 @@
 
 Desenvolvido pela NASA, F´ é uma estrutura de código aberto projetada para software de voo e sistemas embarcados. Escrita em C++, esta estrutura oferece um ambiente de desenvolvimento modular para naves espaciais e sistemas complexos.
 
-- ★ 11.811
+- ★ 11.856
 - C++
 - GitHub Trending · 2026-07-12
 
 ## Atualizações
 
+- **5 de novembro de 2026:** Estrelas 11,811 → 11,856, versão mais recente v4.4.2 (4 de novembro de 2026).
 - **7 de outubro de 2026:** Estrelas 11,807 → 11,811, versão mais recente v4.4.1 (7 de outubro de 2026).
 - **1 de outubro de 2026:** Estrelas 11,676 → 11,807, versão mais recente v4.4.0 (30 de setembro de 2026).
 - **20 de agosto de 2026:** Estrelas 11,610 → 11,676, versão mais recente v4.3.0 (20 de agosto de 2026).
-- **2 de agosto de 2026:** Estrelas 11,523 → 11,610, versão mais recente v4.2.2 (24 de abril de 2026).
 
 ## O que você ganha
 

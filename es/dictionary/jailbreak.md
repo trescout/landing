@@ -42,8 +42,8 @@ Los desarrolladores añaden capas de seguridad adicionales y mecanismos de filtr
 ## Herramientas relacionadas
 
 - [Ipatool](https://trescout.com/es/discover/ipatool/)
-- [Dopamine](https://trescout.com/es/discover/dopamine/)
 - [AI-Infra-Guard](https://trescout.com/es/discover/ai-infra-guard/)
+- [Dopamine](https://trescout.com/es/discover/dopamine/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/jailbreak/)
 

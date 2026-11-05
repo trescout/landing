@@ -2,17 +2,17 @@
 
 **Scrapling**, tek bir istekten geniş kapsamlı tarama işlerine kadar her ölçeği yönetebilen **uyarlanabilir bir web kazıma (scraping) çerçevesidir**. Sayfa yapısı değişse dahi yüksek uyum sağlamayı hedefler. Python tabanlıdır.
 
-- ★ 93.246
+- ★ 96.882
 - Python
 - BSD-3-Clause
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
 
+- **5 Kasım 2026:** Yıldız 93.246 → 96.882, son sürüm v0.5.1 (4 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 88.365 → 93.246, son sürüm v0.5 (17 Ekim 2026).
 - **18 Ekim 2026:** Yıldız 84.197 → 88.365, son sürüm v0.5 (17 Ekim 2026).
 - **28 Eylül 2026:** Yıldız 80.154 → 84.197, son sürüm v0.4.15 (23 Ağustos 2026).
-- **11 Eylül 2026:** Yıldız 76.147 → 80.154, son sürüm v0.4.15 (23 Ağustos 2026).
 
 - **Kimin için:** Veri kazıyan geliştiriciler
 - **Zorluk:** Orta · Python

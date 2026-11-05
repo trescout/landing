@@ -74,11 +74,11 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Sun Code Conventions](https://trescout.com/fr/dictionary/sun-code-conventions/)
+- [Pull Request](https://trescout.com/fr/dictionary/pull-request/)
 - [Parser](https://trescout.com/fr/dictionary/parser/)
 - [IDE](https://trescout.com/fr/dictionary/ide/)
 - [CI/CD](https://trescout.com/fr/dictionary/ci-cd/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
-- [Open Source](https://trescout.com/fr/dictionary/open-source/)
 
 - **Pour qui:** Développeurs Java, architectes logiciels, équipes d'assurance qualité et responsables techniques.
 - **Licence:** LGPL-2.1 (licence de bibliothèque open source)

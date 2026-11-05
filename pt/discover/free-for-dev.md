@@ -73,7 +73,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [PaaS](https://trescout.com/pt/dictionary/paas/)
 - [SaaS](https://trescout.com/pt/dictionary/saas/)
 - [Caching](https://trescout.com/pt/dictionary/caching/)
-- [RAM](https://trescout.com/pt/dictionary/ram/)
+- [Pull Request](https://trescout.com/pt/dictionary/pull-request/)
 
 - **Para quem é:** Empreendedores, desenvolvedores independentes, estudantes e engenheiros que desejam reduzir custos de infraestrutura.
 - **Licença:** CC BY 4.0 (licença de conteúdo aberto)

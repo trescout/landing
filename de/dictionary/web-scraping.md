@@ -40,8 +40,8 @@ Für einfache Websites ist dies recht einfach, für moderne und sichere Websites
 
 ## Verwandte Werkzeuge
 
-- [Puppeteer](https://trescout.com/de/discover/puppeteer/)
 - [Scrapling](https://trescout.com/de/discover/scrapling/)
+- [Puppeteer](https://trescout.com/de/discover/puppeteer/)
 - [MediaCrawler](https://trescout.com/de/discover/mediacrawler/)
 - [Browser](https://trescout.com/de/discover/browser/)
 - [Camofox Browser](https://trescout.com/de/discover/camofox-browser/)

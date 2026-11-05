@@ -74,11 +74,11 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Sun Code Conventions](https://trescout.com/de/dictionary/sun-code-conventions/)
+- [Pull Request](https://trescout.com/de/dictionary/pull-request/)
 - [Parser](https://trescout.com/de/dictionary/parser/)
 - [IDE](https://trescout.com/de/dictionary/ide/)
 - [CI/CD](https://trescout.com/de/dictionary/ci-cd/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
-- [Open Source](https://trescout.com/de/dictionary/open-source/)
 
 - **Für wen es gedacht ist:** Java-Entwickler, Softwarearchitekten, Qualitätssicherungsteams und technische Leiter.
 - **Lizenz:** LGPL-2.1 (Open-Source-Bibliothekslizenz)

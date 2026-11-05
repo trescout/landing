@@ -43,7 +43,7 @@ It may seem a little unfamiliar at first, but once you learn a few basic command
 - [NVM](https://trescout.com/en/discover/nvm/)
 - [Claude-Code-Game-Studios](https://trescout.com/en/discover/claude-code-game-studios/)
 - [Omarchy](https://trescout.com/en/discover/omarchy/)
-- [Destructive Command Guard](https://trescout.com/en/discover/destructive-command-guard/)
+- [90DaysOfDevOps](https://trescout.com/en/discover/90daysofdevops/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/shell/)
 

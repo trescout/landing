@@ -73,7 +73,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [PaaS](https://trescout.com/de/dictionary/paas/)
 - [SaaS](https://trescout.com/de/dictionary/saas/)
 - [Caching](https://trescout.com/de/dictionary/caching/)
-- [RAM](https://trescout.com/de/dictionary/ram/)
+- [Pull Request](https://trescout.com/de/dictionary/pull-request/)
 
 - **Für wen es gedacht ist:** Unternehmer, unabhängige Entwickler, Studenten und Ingenieure, die Infrastrukturkosten senken möchten.
 - **Lizenz:** CC BY 4.0 (Open-Content-Lizenz)

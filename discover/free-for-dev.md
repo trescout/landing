@@ -91,7 +91,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [PaaS](https://trescout.com/dictionary/paas/)
 - [SaaS](https://trescout.com/dictionary/saas/)
 - [Caching](https://trescout.com/dictionary/caching/)
-- [RAM](https://trescout.com/dictionary/ram/)
+- [Pull Request](https://trescout.com/dictionary/pull-request/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/free-for-dev/

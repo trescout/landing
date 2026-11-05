@@ -42,8 +42,8 @@ Basit siteler için oldukça kolaydır, ancak modern ve güvenlikli siteler içi
 
 ## İlgili araçlar
 
-- [Puppeteer](https://trescout.com/discover/puppeteer/)
 - [Scrapling](https://trescout.com/discover/scrapling/)
+- [Puppeteer](https://trescout.com/discover/puppeteer/)
 - [MediaCrawler](https://trescout.com/discover/mediacrawler/)
 - [Browser](https://trescout.com/discover/browser/)
 - [Camofox Browser](https://trescout.com/discover/camofox-browser/)

@@ -2,17 +2,17 @@
 
 **Compound Engineering**; Claude Code, Codex ve Cursor için geliştirilmiş resmi bir eklentidir. Temel felsefesi nettir: **her mühendislik işi bir sonrakini zorlaştırmamalı, aksine kolaylaştırmalıdır.** Bu amaçla, geliştirme sürecini iyileştiren yapay zekâ becerileri ve ajanları sunar.
 
-- ★ 25.905
+- ★ 25.927
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026
 
 ## Güncelleme
 
+- **5 Kasım 2026:** Yıldız 25.905 → 25.927, son sürüm compound-engineering-v3.35.3 (4 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 25.874 → 25.905, son sürüm compound-engineering-v3.35.1 (4 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 25.793 → 25.874, son sürüm compound-engineering-v3.35.0 (3 Kasım 2026).
 - **31 Ekim 2026:** Yıldız 25.759 → 25.793, son sürüm compound-engineering-v3.34.0 (31 Ekim 2026).
-- **29 Ekim 2026:** Yıldız 25.729 → 25.759, son sürüm compound-engineering-v3.33.2 (29 Ekim 2026).
 
 - **Kimin için:** Yapay zekâ ile geliştirme yapan ekipler
 - **Zorluk:** Orta · yapay zekâ asistanına eklenir

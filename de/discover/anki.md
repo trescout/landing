@@ -2,12 +2,13 @@
 
 Anki ist eine Karteikarten-Software, die das Lernen durch einen Algorithmus zur räumlichen Wiederholung (spaced repetition) erleichtert. Dieses in Rust entwickelte Open-Source-Tool hilft Benutzern dabei, komplexe Informationen in das Langzeitgedächtnis zu übertragen.
 
-- ★ 31.583
+- ★ 32.564
 - Rust
 - GitHub Trending · 2026-09-19
 
 ## Aktualisierungen
 
+- **5. November 2026:** Sterne 31,583 → 32,564, neueste Version 26.09.4 (4. November 2026).
 - **27. September 2026:** Sterne 31,285 → 31,583, neueste Version 26.09.3 (23. September 2026).
 - **19. September 2026:** Sterne 31,283 → 31,285, neueste Version 26.09.2 (15. September 2026).
 

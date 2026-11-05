@@ -74,8 +74,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Agentic](https://trescout.com/fr/dictionary/agentic/)
 - [Localhost](https://trescout.com/fr/dictionary/localhost/)
-- [Clone](https://trescout.com/fr/dictionary/clone/)
 - [RAG](https://trescout.com/fr/dictionary/rag/)
+- [Clone](https://trescout.com/fr/dictionary/clone/)
 - [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

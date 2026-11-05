@@ -2,16 +2,16 @@
 
 Desarrollado por la NASA, F´ es un marco de código abierto diseñado para software de vuelo y sistemas integrados. Escrita en C++, esta estructura ofrece un entorno de desarrollo modular para naves espaciales y sistemas complejos.
 
-- ★ 11.811
+- ★ 11.856
 - C++
 - GitHub Trending · 2026-07-12
 
 ## Actualizaciones
 
+- **5 de noviembre de 2026:** Estrellas 11,811 → 11,856, última versión v4.4.2 (4 de noviembre de 2026).
 - **7 de octubre de 2026:** Estrellas 11,807 → 11,811, última versión v4.4.1 (7 de octubre de 2026).
 - **1 de octubre de 2026:** Estrellas 11,676 → 11,807, última versión v4.4.0 (30 de septiembre de 2026).
 - **20 de agosto de 2026:** Estrellas 11,610 → 11,676, última versión v4.3.0 (20 de agosto de 2026).
-- **2 de agosto de 2026:** Estrellas 11,523 → 11,610, última versión v4.2.2 (24 de abril de 2026).
 
 ## Qué aporta
 

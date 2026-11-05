@@ -53,6 +53,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Graph-based Investigation](https://trescout.com/pt/dictionary/graph-based-investigation/)
+- [Graph-based](https://trescout.com/pt/dictionary/graph-based/)
 - [OSINT](https://trescout.com/pt/dictionary/osint/)
 - [Localhost](https://trescout.com/pt/dictionary/localhost/)
 - [Clone](https://trescout.com/pt/dictionary/clone/)

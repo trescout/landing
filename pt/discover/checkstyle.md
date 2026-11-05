@@ -74,11 +74,11 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Sun Code Conventions](https://trescout.com/pt/dictionary/sun-code-conventions/)
+- [Pull Request](https://trescout.com/pt/dictionary/pull-request/)
 - [Parser](https://trescout.com/pt/dictionary/parser/)
 - [IDE](https://trescout.com/pt/dictionary/ide/)
 - [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)
 - [CLI](https://trescout.com/pt/dictionary/cli/)
-- [Open Source](https://trescout.com/pt/dictionary/open-source/)
 
 - **Para quem é:** Desenvolvedores Java, arquitetos de software, equipes de garantia de qualidade e líderes técnicos.
 - **Licença:** LGPL-2.1 (Licença de biblioteca de código aberto)

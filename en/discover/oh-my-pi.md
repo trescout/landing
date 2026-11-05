@@ -67,8 +67,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [AI Coding Agent](https://trescout.com/en/dictionary/ai-coding-agent/)
 - [Coding Agent](https://trescout.com/en/dictionary/coding-agent/)
 - [IDE](https://trescout.com/en/dictionary/ide/)
-- [Agent](https://trescout.com/en/dictionary/agent/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [Agent](https://trescout.com/en/dictionary/agent/)
 
 - **Who it is for:** It is suitable for software developers who want to automate their code development processes via the terminal and speed up the workflow with an artificial intelligence-supported coding agent.
 - **License:** MIT

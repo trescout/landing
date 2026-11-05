@@ -53,6 +53,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Graph-based Investigation](https://trescout.com/en/dictionary/graph-based-investigation/)
+- [Graph-based](https://trescout.com/en/dictionary/graph-based/)
 - [OSINT](https://trescout.com/en/dictionary/osint/)
 - [Localhost](https://trescout.com/en/dictionary/localhost/)
 - [Clone](https://trescout.com/en/dictionary/clone/)

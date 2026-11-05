@@ -2,16 +2,16 @@
 
 The skills library developed by Google offers Python-based tools that enable artificial intelligence agents to interact with Google products and technologies. This resource provides the functionality necessary for agents to perform specific tasks in a standardized structure.
 
-- ★ 20,857
+- ★ 22,028
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Updates
 
+- **November 5, 2026:** Stars 20,857 → 22,028.
 - **October 3, 2026:** Stars 19,762 → 20,857.
 - **September 11, 2026:** Stars 18,743 → 19,762.
 - **August 27, 2026:** Stars 17,658 → 18,743.
-- **August 11, 2026:** Stars 16,451 → 17,658.
 
 ## What you get
 

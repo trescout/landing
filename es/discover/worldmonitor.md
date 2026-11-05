@@ -2,16 +2,16 @@
 
 Worldmonitor ofrece un panel de inteligencia global en tiempo real que combina la recopilación de noticias impulsada por IA y funciones de monitoreo geopolítico en una única interfaz. Esta herramienta, que proporciona monitoreo de infraestructura y conocimiento de la situación, facilita los procesos de análisis al visualizar flujos de datos complejos.
 
-- ★ 89.984
+- ★ 90.167
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Actualizaciones
 
+- **5 de noviembre de 2026:** Estrellas 89,984 → 90,167, última versión v2.11.8 (4 de noviembre de 2026).
 - **2 de noviembre de 2026:** Estrellas 89,538 → 89,984, última versión v2.11.7 (1 de noviembre de 2026).
 - **26 de octubre de 2026:** Estrellas 89,452 → 89,538, última versión v2.11.6 (25 de octubre de 2026).
 - **25 de octubre de 2026:** Estrellas 89,281 → 89,452, última versión v2.11.4 (24 de octubre de 2026).
-- **23 de octubre de 2026:** Estrellas 88,894 → 89,281, última versión v2.11.3 (23 de octubre de 2026).
 
 ## Qué aporta
 

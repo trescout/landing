@@ -2,16 +2,16 @@
 
 xtool, iOS uygulamalarını Linux, Windows ve macOS üzerinde Swift Paket Yöneticisi (SwiftPM) ile derleyip dağıtmanıza olanak tanıyan, platformlar arası bir Xcode alternatifidir. Apple'ın geliştirme ortamı Xcode'a bağımlılığı ortadan kaldırarak farklı işletim sistemlerinde uygulama geliştirme sürecini destekler.
 
-- ★ 13.736
+- ★ 14.755
 - Swift
 - GitHub Trending · 2026-10-13
 
 ## Güncelleme
 
+- **5 Kasım 2026:** Yıldız 13.736 → 14.755, son sürüm 1.24.0 (26 Ekim 2026).
 - **26 Ekim 2026:** Yıldız 13.420 → 13.736, son sürüm 1.24.0 (26 Ekim 2026).
 - **23 Ekim 2026:** Yıldız 12.446 → 13.420, son sürüm 1.23.0 (22 Ekim 2026).
 - **18 Ekim 2026:** Yıldız 11.308 → 12.446, son sürüm 1.22.2 (14 Ekim 2026).
-- **15 Ekim 2026:** Yıldız 9.959 → 11.308, son sürüm 1.22.2 (14 Ekim 2026).
 
 ## Ne kazandırır?
 

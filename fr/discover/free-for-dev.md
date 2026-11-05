@@ -73,7 +73,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [PaaS](https://trescout.com/fr/dictionary/paas/)
 - [SaaS](https://trescout.com/fr/dictionary/saas/)
 - [Caching](https://trescout.com/fr/dictionary/caching/)
-- [RAM](https://trescout.com/fr/dictionary/ram/)
+- [Pull Request](https://trescout.com/fr/dictionary/pull-request/)
 
 - **Pour qui:** Entrepreneurs, développeurs indépendants, étudiants et ingénieurs qui souhaitent réduire les coûts d’infrastructure.
 - **Licence:** CC BY 4.0 (licence de contenu ouvert)

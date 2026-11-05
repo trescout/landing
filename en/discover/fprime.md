@@ -2,16 +2,16 @@
 
 Developed by NASA, F´ is an open source framework designed for flight software and embedded systems. Written in C++, this structure provides a modular development environment for spacecraft and complex systems.
 
-- ★ 11,811
+- ★ 11,856
 - C++
 - GitHub Trending · 2026-07-12
 
 ## Updates
 
+- **November 5, 2026:** Stars 11,811 → 11,856, latest release v4.4.2 (November 4, 2026).
 - **October 7, 2026:** Stars 11,807 → 11,811, latest release v4.4.1 (October 7, 2026).
 - **October 1, 2026:** Stars 11,676 → 11,807, latest release v4.4.0 (September 30, 2026).
 - **August 20, 2026:** Stars 11,610 → 11,676, latest release v4.3.0 (August 20, 2026).
-- **August 2, 2026:** Stars 11,523 → 11,610, latest release v4.2.2 (April 24, 2026).
 
 ## What you get
 

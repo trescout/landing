@@ -44,8 +44,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Context](https://trescout.com/de/dictionary/context/)
-- [Framework](https://trescout.com/de/dictionary/framework/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
+- [Framework](https://trescout.com/de/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Python-Entwickler, die eine schnelle und zuverlässige Integration zwischen KI-Modellen und nativen Tools herstellen möchten.

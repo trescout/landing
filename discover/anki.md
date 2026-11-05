@@ -2,12 +2,13 @@
 
 Anki, aralıklı tekrar (spaced repetition) algoritmasını kullanarak öğrenmeyi kolaylaştıran bir bilgi kartı yazılımı. Rust diliyle geliştirilen bu açık kaynaklı araç, kullanıcıların karmaşık bilgileri uzun süreli belleğe aktarmasına yardımcı oluyor.
 
-- ★ 31.583
+- ★ 32.564
 - Rust
 - GitHub Trending · 2026-09-19
 
 ## Güncelleme
 
+- **5 Kasım 2026:** Yıldız 31.583 → 32.564, son sürüm 26.09.4 (4 Kasım 2026).
 - **27 Eylül 2026:** Yıldız 31.285 → 31.583, son sürüm 26.09.3 (23 Eylül 2026).
 - **19 Eylül 2026:** Yıldız 31.283 → 31.285, son sürüm 26.09.2 (15 Eylül 2026).
 

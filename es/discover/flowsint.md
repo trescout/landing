@@ -53,6 +53,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Graph-based Investigation](https://trescout.com/es/dictionary/graph-based-investigation/)
+- [Graph-based](https://trescout.com/es/dictionary/graph-based/)
 - [OSINT](https://trescout.com/es/dictionary/osint/)
 - [Localhost](https://trescout.com/es/dictionary/localhost/)
 - [Clone](https://trescout.com/es/dictionary/clone/)

@@ -2,16 +2,16 @@
 
 Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerini düşük donanım gereksinimleriyle yerel bilgisayarlarda çalıştırmayı sağlayan C dili tabanlı bir motor. Uzman katmanlarını disk üzerinden akış yöntemiyle işleyerek, yüksek kapasiteli yapay zekâ modellerini kısıtlı donanımlarda çalıştırmayı mümkün kılıyor.
 
-- ★ 45.437
+- ★ 47.825
 - C
 - GitHub Trending · 2026-09-11
 
 ## Güncelleme
 
+- **5 Kasım 2026:** Yıldız 45.437 → 47.825, son sürüm v2.1.0 (31 Ekim 2026).
 - **1 Kasım 2026:** Yıldız 44.464 → 45.437, son sürüm v2.1.0 (31 Ekim 2026).
 - **28 Ekim 2026:** Yıldız 42.279 → 44.464, son sürüm v2.0.0 (6 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 40.157 → 42.279, son sürüm v2.0.0 (6 Ekim 2026).
-- **7 Ekim 2026:** Yıldız 39.698 → 40.157, son sürüm v2.0.0 (6 Ekim 2026).
 
 ## Ne kazandırır?
 

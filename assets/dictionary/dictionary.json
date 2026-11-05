@@ -10307,5 +10307,57 @@
     "kisa_es": "El proceso de convertir la voz hablada en texto en tiempo real por parte de un ordenador.",
     "kisa_pt": "O processo de conversão da voz falada em texto pelo computador em tempo real.",
     "kisa_de": "Der Prozess der Echtzeit-Umwandlung von gesprochener Sprache in Text durch einen Computer."
+  },
+  {
+    "slug": "graph-based",
+    "en": "Graph-based",
+    "full": "",
+    "cat": "data",
+    "kisa": "Verileri ve aralarındaki ilişkileri düğümler ile kenarlar yardımıyla temsil eden yapı veya yaklaşım.",
+    "date": "2026-11-05",
+    "kisa_en": "A structure or approach that represents data and the relationships between them using nodes and edges.",
+    "kisa_fr": "Structure ou approche représentant des données et leurs relations à l'aide de nœuds et d'arêtes.",
+    "kisa_es": "Estructura o enfoque que representa datos y las relaciones entre ellos mediante nodos y aristas.",
+    "kisa_pt": "Estrutura ou abordagem que representa dados e as relações entre eles com a ajuda de nós e arestas.",
+    "kisa_de": "Eine Struktur oder ein Ansatz, der Daten und die Beziehungen zwischen ihnen mithilfe von Knoten und Kanten darstellt."
+  },
+  {
+    "slug": "pull-request",
+    "en": "Pull Request",
+    "full": "PR",
+    "cat": "dev",
+    "kisa": "Bir geliştiricinin kod deposuna eklemek istediği değişiklikleri incelemeye ve onaylatmaya sunduğu talep.",
+    "date": "2026-11-05",
+    "kisa_en": "A request submitted by a developer to review and approve changes they want to add to a code repository.",
+    "kisa_fr": "Demande par laquelle un développeur soumet des modifications à examiner et à approuver pour les intégrer dans un dépôt de code.",
+    "kisa_es": "Solicitud presentada por un desarrollador para revisar y aprobar los cambios que desea incorporar a un repositorio de código.",
+    "kisa_pt": "Solicitação que um desenvolvedor apresenta para revisar e aprovar as alterações que deseja adicionar ao repositório de código.",
+    "kisa_de": "Die Anfrage eines Entwicklers, Änderungen, die dem Code-Repository hinzugefügt werden sollen, zur Überprüfung und Genehmigung einzureichen."
+  },
+  {
+    "slug": "technical-debt",
+    "en": "Technical Debt",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Hızlı sonuç almak amacıyla yazılımda tercih edilen geçici çözümlerin zamanla ürettiği ek maliyet ve karmaşıklık.",
+    "date": "2026-11-05",
+    "kisa_en": "The additional cost and complexity generated over time by quick-fix solutions chosen in software to achieve fast results.",
+    "kisa_fr": "Coût supplémentaire et complexité générés au fil du temps par les solutions temporaires privilégiées dans le logiciel pour obtenir des résultats rapides.",
+    "kisa_es": "Coste adicional y complejidad generados con el tiempo por soluciones provisionales preferidas en el software para obtener resultados rápidos.",
+    "kisa_pt": "Custo e complexidade adicionais gerados ao longo do tempo por soluções temporárias preferidas no software com o objetivo de obter resultados rápidos.",
+    "kisa_de": "Die zusätzlichen Kosten und die Komplexität, die im Laufe der Zeit durch temporäre Software-Workarounds entstehen, die bevorzugt werden, um schnelle Ergebnisse zu erzielen."
+  },
+  {
+    "slug": "residential-proxy",
+    "en": "Residential Proxy",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Gerçek ev interneti kullanıcılarına ait IP adreslerini kullanarak trafiği yönlendiren ve tespit edilmeyi zorlaştıran vekil sunucu türü.",
+    "date": "2026-11-05",
+    "kisa_en": "A type of proxy server that routes traffic using IP addresses belonging to real home internet users, making detection more difficult.",
+    "kisa_fr": "Type de serveur proxy qui achemine le trafic en utilisant des adresses IP appartenant à de véritables utilisateurs d'Internet résidentiel, rendant la détection plus difficile.",
+    "kisa_es": "Tipo de servidor proxy que enruta el tráfico utilizando direcciones IP pertenecientes a usuarios reales de Internet doméstico, lo que dificulta su detección.",
+    "kisa_pt": "Tipo de servidor proxy que direciona o tráfego usando endereços IP pertencentes a usuários reais de internet residencial, dificultando a detecção.",
+    "kisa_de": "Ein Proxy-Server-Typ, der den Datenverkehr über die IP-Adressen echter Heim-Internetnutzer leitet und die Erkennung erschwert."
   }
 ]

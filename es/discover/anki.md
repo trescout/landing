@@ -2,12 +2,13 @@
 
 Anki es un software de tarjetas didácticas que facilita el aprendizaje mediante el uso de un algoritmo de repetición espaciada. Esta herramienta de código abierto, desarrollada en el lenguaje Rust, ayuda a los usuarios a transferir información compleja a la memoria a largo plazo.
 
-- ★ 31.583
+- ★ 32.564
 - Rust
 - GitHub Trending · 2026-09-19
 
 ## Actualizaciones
 
+- **5 de noviembre de 2026:** Estrellas 31,583 → 32,564, última versión 26.09.4 (4 de noviembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 31,285 → 31,583, última versión 26.09.3 (23 de septiembre de 2026).
 - **19 de septiembre de 2026:** Estrellas 31,283 → 31,285, última versión 26.09.2 (15 de septiembre de 2026).
 

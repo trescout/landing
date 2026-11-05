@@ -74,11 +74,11 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Sun Code Conventions](https://trescout.com/en/dictionary/sun-code-conventions/)
+- [Pull Request](https://trescout.com/en/dictionary/pull-request/)
 - [Parser](https://trescout.com/en/dictionary/parser/)
 - [IDE](https://trescout.com/en/dictionary/ide/)
 - [CI/CD](https://trescout.com/en/dictionary/ci-cd/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
-- [Open Source](https://trescout.com/en/dictionary/open-source/)
 
 - **Who it is for:** Java developers, software architects, quality assurance teams, and technical leads.
 - **License:** LGPL-2.1 (Open source library license)

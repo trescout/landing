@@ -2,12 +2,13 @@
 
 Desenvolvido pela ByteDance, Deer-Flow é uma estrutura de superagente de código aberto projetada para executar tarefas de longa duração. Sistema; Ele pode pesquisar e codificar de forma autônoma fluxos de trabalho complexos usando sandbox, gerenciamento de memória e subagentes.
 
-- ★ 83.006
+- ★ 85.008
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Atualizações
 
+- **5 de novembro de 2026:** Estrelas 83,006 → 85,008, versão mais recente v2.2.0 (4 de novembro de 2026).
 - **27 de setembro de 2026:** Estrelas 78,818 → 83,006, versão mais recente v2.1.0 (24 de setembro de 2026).
 - **2 de agosto de 2026:** Estrelas 72,905 → 78,818, versão mais recente v2.0.0 (25 de junho de 2026).
 

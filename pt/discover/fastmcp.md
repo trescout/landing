@@ -44,8 +44,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Context](https://trescout.com/pt/dictionary/context/)
-- [Framework](https://trescout.com/pt/dictionary/framework/)
 - [MCP](https://trescout.com/pt/dictionary/mcp/)
+- [Framework](https://trescout.com/pt/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Para desenvolvedores Python que desejam estabelecer uma integração rápida e confiável entre modelos de IA e ferramentas nativas.

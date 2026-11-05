@@ -44,8 +44,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Context](https://trescout.com/es/dictionary/context/)
-- [Framework](https://trescout.com/es/dictionary/framework/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)
+- [Framework](https://trescout.com/es/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Para desarrolladores de Python que desean establecer una integración rápida y confiable entre modelos de IA y herramientas nativas.

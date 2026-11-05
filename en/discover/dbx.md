@@ -2,16 +2,16 @@
 
 Developed in Rust, dbx offers a lightweight database client of 25 MB that supports over 100 database types. Along with a desktop application, command-line interface (CLI), and Docker support, it includes features such as a built-in AI assistant and Model Context Protocol (MCP).
 
-- ★ 28,850
+- ★ 29,117
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Updates
 
+- **November 5, 2026:** Stars 28,850 → 29,117, latest release v0.6.66 (November 4, 2026).
 - **November 3, 2026:** Stars 28,780 → 28,850, latest release v0.6.65 (November 3, 2026).
 - **November 3, 2026:** Stars 28,560 → 28,780, latest release v0.6.64 (November 2, 2026).
 - **November 2, 2026:** Stars 28,272 → 28,560, latest release v0.6.64-beta.20261102.1 (November 2, 2026).
-- **October 31, 2026:** Stars 28,094 → 28,272, latest release v0.6.62 (October 30, 2026).
 
 ## What you get
 

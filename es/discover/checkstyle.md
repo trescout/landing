@@ -74,11 +74,11 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Sun Code Conventions](https://trescout.com/es/dictionary/sun-code-conventions/)
+- [Pull Request](https://trescout.com/es/dictionary/pull-request/)
 - [Parser](https://trescout.com/es/dictionary/parser/)
 - [IDE](https://trescout.com/es/dictionary/ide/)
 - [CI/CD](https://trescout.com/es/dictionary/ci-cd/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
-- [Open Source](https://trescout.com/es/dictionary/open-source/)
 
 - **Para quién es:** Desarrolladores de Java, arquitectos de software, equipos de control de calidad y líderes técnicos.
 - **Licencia:** LGPL-2.1 (Licencia de biblioteca de código abierto)

@@ -2,12 +2,13 @@
 
 Orkas is an open-source AI team that runs on desktop computers and turns goals into to-do lists. Coordinating sixteen built-in expert agents and various coding models, this application provides a local-first workspace on macOS and Windows.
 
-- ★ 8,453
+- ★ 9,024
 - JavaScript
 - GitHub Trending · 2026-11-01
 
 ## Updates
 
+- **November 5, 2026:** Stars 8,453 → 9,024, latest release v2026.11.4 (November 4, 2026).
 - **November 3, 2026:** Stars 7,039 → 8,453, latest release v2026.10.27 (October 27, 2026).
 - **November 1, 2026:** Stars 7,036 → 7,039, latest release v2026.10.27 (October 27, 2026).
 

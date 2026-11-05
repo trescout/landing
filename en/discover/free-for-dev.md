@@ -73,7 +73,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [PaaS](https://trescout.com/en/dictionary/paas/)
 - [SaaS](https://trescout.com/en/dictionary/saas/)
 - [Caching](https://trescout.com/en/dictionary/caching/)
-- [RAM](https://trescout.com/en/dictionary/ram/)
+- [Pull Request](https://trescout.com/en/dictionary/pull-request/)
 
 - **Who it is for:** Entrepreneurs, indie developers, students, and engineers looking to eliminate infrastructure costs.
 - **License:** CC BY 4.0 (Open content license)

@@ -40,8 +40,8 @@ Tecnicamente sim, mas é ética e legalmente importante prestar atenção aos te
 
 ## Ferramentas relacionadas
 
-- [Puppeteer](https://trescout.com/pt/discover/puppeteer/)
 - [Scrapling](https://trescout.com/pt/discover/scrapling/)
+- [Puppeteer](https://trescout.com/pt/discover/puppeteer/)
 - [MediaCrawler](https://trescout.com/pt/discover/mediacrawler/)
 - [Browser](https://trescout.com/pt/discover/browser/)
 - [Camofox Browser](https://trescout.com/pt/discover/camofox-browser/)

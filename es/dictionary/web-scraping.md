@@ -40,8 +40,8 @@ Es bastante fácil para sitios simples, pero requiere conocimientos técnicos av
 
 ## Herramientas relacionadas
 
-- [Puppeteer](https://trescout.com/es/discover/puppeteer/)
 - [Scrapling](https://trescout.com/es/discover/scrapling/)
+- [Puppeteer](https://trescout.com/es/discover/puppeteer/)
 - [MediaCrawler](https://trescout.com/es/discover/mediacrawler/)
 - [Browser](https://trescout.com/es/discover/browser/)
 - [Camofox Browser](https://trescout.com/es/discover/camofox-browser/)

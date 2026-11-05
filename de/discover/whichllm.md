@@ -2,16 +2,16 @@
 
 Whichllm ist ein Tool, mit dem Sie die nativen großen Sprachmodelle identifizieren können, die auf Ihrer Hardware die beste Leistung erbringen. Diese auf Python basierende Software konzentriert sich auf aktuelle Benchmarks und nicht auf die Anzahl der Parameter und ermöglicht es Ihnen, mit einem einzigen Befehl das am besten geeignete Modell auszuwählen.
 
-- ★ 6.817
+- ★ 6.822
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Aktualisierungen
 
+- **5. November 2026:** Sterne 6,817 → 6,822, neueste Version v0.6.4 (4. November 2026).
 - **3. November 2026:** Sterne 6,803 → 6,817, neueste Version v0.6.0 (2. November 2026).
 - **29. Oktober 2026:** Sterne 6,767 → 6,803, neueste Version v0.5.23 (28. Oktober 2026).
 - **19. Oktober 2026:** Sterne 6,719 → 6,767, neueste Version v0.5.21 (19. Oktober 2026).
-- **4. Oktober 2026:** Sterne 6,697 → 6,719, neueste Version v0.5.20 (3. Oktober 2026).
 
 ## Was es bringt
 

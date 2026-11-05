@@ -2,12 +2,13 @@
 
 Caddy es un servidor web extensible escrito en Go que ofrece gestión automática de certificados HTTPS. Simplifica la configuración y la seguridad de los sitios web al admitir los protocolos HTTP/1, HTTP/2 y HTTP/3.
 
-- ★ 78.725
+- ★ 78.781
 - Go
 - GitHub Trending · 2026-10-05
 
 ## Actualizaciones
 
+- **5 de noviembre de 2026:** Estrellas 78,725 → 78,781, última versión v2.11.9 (5 de noviembre de 2026).
 - **4 de noviembre de 2026:** Estrellas 76,784 → 78,725, última versión v2.11.8 (4 de noviembre de 2026).
 - **5 de octubre de 2026:** Estrellas 76,782 → 76,784, última versión v2.11.7 (3 de octubre de 2026).
 

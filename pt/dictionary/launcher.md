@@ -40,8 +40,8 @@ A maioria dos sistemas operacionais modernos vem com uma ferramenta de pesquisa/
 
 ## Ferramentas relacionadas
 
-- [PCL](https://trescout.com/pt/discover/pcl/)
 - [Tinycast](https://trescout.com/pt/discover/tinycast/)
+- [PCL](https://trescout.com/pt/discover/pcl/)
 - [YimMenuV2](https://trescout.com/pt/discover/yimmenuv2/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/launcher/)

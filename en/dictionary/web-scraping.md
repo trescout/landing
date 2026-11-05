@@ -40,8 +40,8 @@ It is quite easy for simple sites, but requires advanced technical knowledge for
 
 ## Related tools
 
-- [Puppeteer](https://trescout.com/en/discover/puppeteer/)
 - [Scrapling](https://trescout.com/en/discover/scrapling/)
+- [Puppeteer](https://trescout.com/en/discover/puppeteer/)
 - [MediaCrawler](https://trescout.com/en/discover/mediacrawler/)
 - [Browser](https://trescout.com/en/discover/browser/)
 - [Camofox Browser](https://trescout.com/en/discover/camofox-browser/)

@@ -2,17 +2,17 @@
 
 Lorsque les agents d’intelligence artificielle produisent des interfaces, ils donnent souvent des résultats orientés modèles. La compétence Taste est un ensemble de compétences portables qui enseigne aux agents une utilisation plus efficace de la mise en page, de la typographie, du mouvement et de l'espace. De cette façon, les interfaces créées avec l’intelligence artificielle paraissent beaucoup plus originales et professionnelles.
 
-- ★ 107 273
+- ★ 110 168
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **5 novembre 2026:** Étoiles 107,273 → 110,168, dernière version v2.5.0 (4 novembre 2026).
 - **1 novembre 2026:** Étoiles 102,085 → 107,273, dernière version v2.1.5 (24 octobre 2026).
 - **25 octobre 2026:** Étoiles 100,118 → 102,085, dernière version v2.1.5 (24 octobre 2026).
 - **21 octobre 2026:** Étoiles 99,600 → 100,118, dernière version v2.1.4 (20 octobre 2026).
-- **20 octobre 2026:** Étoiles 99,086 → 99,600, dernière version v2.1.3 (19 octobre 2026).
 
 *Görsel: taste-skill (proje deposundan)*
 

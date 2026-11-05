@@ -2,16 +2,16 @@
 
 La bibliothèque de compétences développée par Google propose des outils basés sur Python qui permettent aux agents d'intelligence artificielle d'interagir avec les produits et technologies Google. Cette ressource fournit les fonctionnalités nécessaires aux agents pour effectuer des tâches spécifiques dans une structure standardisée.
 
-- ★ 20 857
+- ★ 22 028
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Mises à jour
 
+- **5 novembre 2026:** Étoiles 20,857 → 22,028.
 - **3 octobre 2026:** Étoiles 19,762 → 20,857.
 - **11 septembre 2026:** Étoiles 18,743 → 19,762.
 - **27 août 2026:** Étoiles 17,658 → 18,743.
-- **11 août 2026:** Étoiles 16,451 → 17,658.
 
 ## Ce que ça vous apporte
 

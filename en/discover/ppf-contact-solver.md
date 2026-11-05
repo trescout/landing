@@ -2,17 +2,17 @@
 
 PPF Contact Solver, as ZOZO's physics engine, is designed to solve contacts between fabric, solid and rope in physics-based simulations. It increases physical consistency in simulations by calculating the interaction of different geometries. It can also be run remotely thanks to the Blender plug-in.
 
-- ★ 4,595
+- ★ 4,594
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Updates
 
+- **November 5, 2026:** Stars 4,595 → 4,594, latest release addon-2026-11-05-1414 (November 5, 2026).
 - **November 4, 2026:** Stars 4,560 → 4,595, latest release addon-2026-11-04-0058 (November 3, 2026).
 - **October 19, 2026:** Stars 4,552 → 4,560, latest release addon-2026-10-19-0917 (October 19, 2026).
 - **October 13, 2026:** Stars 4,514 → 4,552, latest release addon-2026-10-13-1345 (October 13, 2026).
-- **October 1, 2026:** Stars 4,513 → 4,514, latest release addon-2026-10-01-2043 (October 1, 2026).
 
 ## Installation
 

@@ -53,6 +53,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Graph-based Investigation](https://trescout.com/fr/dictionary/graph-based-investigation/)
+- [Graph-based](https://trescout.com/fr/dictionary/graph-based/)
 - [OSINT](https://trescout.com/fr/dictionary/osint/)
 - [Localhost](https://trescout.com/fr/dictionary/localhost/)
 - [Clone](https://trescout.com/fr/dictionary/clone/)

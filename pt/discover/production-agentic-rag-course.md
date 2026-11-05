@@ -74,8 +74,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [Agentic](https://trescout.com/pt/dictionary/agentic/)
 - [Localhost](https://trescout.com/pt/dictionary/localhost/)
-- [Clone](https://trescout.com/pt/dictionary/clone/)
 - [RAG](https://trescout.com/pt/dictionary/rag/)
+- [Clone](https://trescout.com/pt/dictionary/clone/)
 - [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

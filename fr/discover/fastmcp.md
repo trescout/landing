@@ -44,8 +44,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Context](https://trescout.com/fr/dictionary/context/)
-- [Framework](https://trescout.com/fr/dictionary/framework/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
+- [Framework](https://trescout.com/fr/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Pour les développeurs Python qui souhaitent établir une intégration rapide et fiable entre les modèles d'IA et les outils natifs.

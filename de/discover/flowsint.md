@@ -53,6 +53,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Graph-based Investigation](https://trescout.com/de/dictionary/graph-based-investigation/)
+- [Graph-based](https://trescout.com/de/dictionary/graph-based/)
 - [OSINT](https://trescout.com/de/dictionary/osint/)
 - [Localhost](https://trescout.com/de/dictionary/localhost/)
 - [Clone](https://trescout.com/de/dictionary/clone/)

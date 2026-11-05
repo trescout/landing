@@ -2,12 +2,13 @@
 
 ByteDance tarafından geliştirilen Deer-Flow, uzun süreli görevleri yerine getirmek için tasarlanmış açık kaynaklı bir süper ajan (SuperAgent) çerçevesidir. Sistem; kum havuzu (sandbox), hafıza yönetimi ve alt ajanlar kullanarak karmaşık iş akışlarını otonom şekilde araştırıp kodlayabilmektedir.
 
-- ★ 83.006
+- ★ 85.008
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
 
+- **5 Kasım 2026:** Yıldız 83.006 → 85.008, son sürüm v2.2.0 (4 Kasım 2026).
 - **27 Eylül 2026:** Yıldız 78.818 → 83.006, son sürüm v2.1.0 (24 Eylül 2026).
 - **2 Ağustos 2026:** Yıldız 72.905 → 78.818, son sürüm v2.0.0 (25 Haziran 2026).
 
