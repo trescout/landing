@@ -1,0 +1,943 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-06",
+  "capturedAt": "2026-11-06T05:14:59.598Z",
+  "editorial": "Hoy, en la agenda tecnológica, destacan la interacción de los modelos de inteligencia artificial con el mundo físico y los efectos de las herramientas de desarrollo en la privacidad de los datos. Los estudios de auto-ontología publicados por NVIDIA y la integración de sistemas robóticos con modelos fundamentales (foundation models) señalan la búsqueda de un nuevo estándar en las arquitecturas de sistemas.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "NVIDIA/auto-ontology",
+          "url": "https://github.com/NVIDIA/auto-ontology",
+          "summary": "La auto-ontología desarrollada por NVIDIA es un marco de Python que permite la creación de capas de razonamiento semántico y basado en grafos sobre los datos. Esta herramienta ayuda a obtener resultados más explicables mediante la generación de consultas deterministas para grandes modelos de lenguaje (LLM) y flujos de trabajo de agentes de inteligencia artificial.",
+          "meta": "Python · ★ 7.705 · +2.679 hoy",
+          "snapshot": {
+            "sourceId": "NVIDIA/auto-ontology",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 7705,
+              "engagementCount": 2679,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2679
+              }
+            },
+            "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Mattpocock/skills contiene habilidades de agentes de inteligencia artificial (agent skills) utilizadas en procesos de ingeniería reales y tomadas directamente del directorio .agents del autor. El proyecto se centra en obtener resultados concretos en los flujos de trabajo diarios de desarrollo de software en lugar de aplicaciones teóricas.",
+          "meta": "Shell · ★ 315.564 · +2.071 hoy",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 315564,
+              "engagementCount": 2071,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2071,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          }
+        },
+        {
+          "title": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "summary": "gstack, compartido por Garry Tan, ofrece 23 conjuntos de herramientas personalizados para la herramienta de codificación asistida por IA, Claude Code. Esta estructura tiene como objetivo automatizar los flujos de trabajo de diversos roles, como gerentes, diseñadores, directores de ingeniería y especialistas en control de calidad.",
+          "meta": "TypeScript · ★ 140.079 · +612 hoy",
+          "snapshot": {
+            "sourceId": "garrytan/gstack",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 140079,
+              "engagementCount": 612,
+              "rank": 3,
+              "extra": {
+                "starsToday": 612
+              }
+            },
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+          }
+        },
+        {
+          "title": "Usagi-org/ai-goofish-monitor",
+          "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+          "summary": "Usagi-org/ai-goofish-monitor es un sistema que utiliza la herramienta de automatización de navegadores Playwright y la inteligencia artificial para realizar seguimiento y análisis de tareas múltiples en la plataforma de productos de segunda mano Xianyu. Desarrollada para que los usuarios encuentren fácilmente los productos que buscan, esta herramienta ofrece una interfaz web integral donde se pueden gestionar todos los procesos.",
+          "meta": "Python · ★ 17.796 · +240 hoy",
+          "snapshot": {
+            "sourceId": "Usagi-org/ai-goofish-monitor",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17796,
+              "engagementCount": 240,
+              "rank": 4,
+              "extra": {
+                "starsToday": 240,
+                "baglam": "readme"
+              }
+            },
+            "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。. 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。"
+          }
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "summary": "Scrapling es un marco de trabajo de web scraping que puede gestionar todo el proceso, desde solicitudes de datos simples hasta operaciones de rastreo exhaustivas. Desarrollada en el lenguaje Python, esta herramienta permite a los usuarios realizar sus flujos de trabajo de recopilación de datos a través de una única infraestructura.",
+          "meta": "Python · ★ 98.216 · +1.655 hoy",
+          "snapshot": {
+            "sourceId": "D4Vinci/Scrapling",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 98216,
+              "engagementCount": 1655,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1655
+              }
+            },
+            "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
+          }
+        },
+        {
+          "title": "vercel-labs/agent-desktop",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "summary": "agent-desktop, desarrollado por Vercel Labs, es una interfaz de línea de comandos (CLI) que permite a los agentes de inteligencia artificial ver y gestionar aplicaciones de escritorio en los sistemas operativos macOS, Windows y Linux. Escrita en Rust, esta herramienta utiliza el árbol de accesibilidad del sistema operativo para permitir que los agentes realicen operaciones en la computadora.",
+          "meta": "Rust · ★ 17.175 · +2.173 hoy",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-desktop",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 17175,
+              "engagementCount": 2173,
+              "rank": 6,
+              "extra": {
+                "starsToday": 2173,
+                "baglam": "readme"
+              }
+            },
+            "description": "Computer use CLI for AI agents. Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree."
+          }
+        },
+        {
+          "title": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "summary": "Worktrunk es una interfaz de línea de comandos (CLI) escrita en Rust que facilita la gestión de árboles de trabajo (worktree) de Git. El software es una herramienta desarrollada para que los agentes de inteligencia artificial puedan ejecutar flujos de trabajo paralelos de manera más eficiente.",
+          "meta": "Rust · ★ 11.598 · +546 hoy",
+          "snapshot": {
+            "sourceId": "max-sixty/worktrunk",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11598,
+              "engagementCount": 546,
+              "rank": 7,
+              "extra": {
+                "starsToday": 546,
+                "baglam": "readme"
+              }
+            },
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows. Worktrunk is a CLI for git worktree management, designed for running AI agents in parallel."
+          }
+        },
+        {
+          "title": "lz4/lz4",
+          "url": "https://github.com/lz4/lz4",
+          "summary": "lz4, desarrollado en lenguaje C, es un algoritmo de compresión de datos sin pérdida que ofrece velocidades superiores a 500 MB por segundo por núcleo. Gracias a su estructura, que puede alcanzar los límites de velocidad de la RAM en sistemas multinúcleo, proporciona un rendimiento de decodificación muy rápido.",
+          "meta": "C · ★ 12.435 · +23 hoy",
+          "snapshot": {
+            "sourceId": "lz4/lz4",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 12435,
+              "engagementCount": 23,
+              "rank": 8,
+              "extra": {
+                "starsToday": 23,
+                "baglam": "readme"
+              }
+            },
+            "description": "Extremely Fast Compression algorithm. LZ4 is a lossless compression algorithm, providing compression speed > 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with speed in multiple GB/s per core, typically reaching RAM speed limits on multi-core systems."
+          }
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "skills, desarrollado por Google, ofrece paquetes de habilidades (skills) para agentes de inteligencia artificial destinados a productos de Google y tecnologías como Google Cloud. Este repositorio se creó para apoyar flujos de trabajo basados en agentes que funcionan integrados con dichas tecnologías.",
+          "meta": "Python · ★ 22.473 · +211 hoy",
+          "snapshot": {
+            "sourceId": "google/skills",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 22473,
+              "engagementCount": 211,
+              "rank": 9,
+              "extra": {
+                "starsToday": 211,
+                "baglam": "readme"
+              }
+            },
+            "description": "Agent Skills for Google products and technologies. This repository contains Agent Skills for Google products and technologies, including Google Cloud."
+          }
+        },
+        {
+          "title": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "summary": "agent-browser, desarrollado por Vercel Labs, es una interfaz de línea de comandos (CLI) que proporciona automatización de navegador para agentes de inteligencia artificial. Escrita en Rust, esta herramienta permite leer páginas como un árbol de accesibilidad (accessibility tree) e interactuar con elementos web a través de la línea de comandos.",
+          "meta": "Rust · ★ 46.027 · +150 hoy",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-browser",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 46027,
+              "engagementCount": 150,
+              "rank": 10,
+              "extra": {
+                "starsToday": 150,
+                "baglam": "readme"
+              }
+            },
+            "description": "Browser automation CLI for AI agents. Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell."
+          }
+        },
+        {
+          "title": "scenario-labs/skills",
+          "url": "https://github.com/scenario-labs/skills",
+          "summary": "scenario-labs/skills ofrece una biblioteca que permite a los agentes de inteligencia artificial producir contenido visual, auditivo y tridimensional. Esta herramienta realiza un análisis de costos seleccionando el modelo adecuado y utiliza el protocolo Scenario MCP para mantener la coherencia en los contenidos.",
+          "meta": "Python · ★ 3.190 · +667 hoy",
+          "snapshot": {
+            "sourceId": "scenario-labs/skills",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3190,
+              "engagementCount": 667,
+              "rank": 11,
+              "extra": {
+                "starsToday": 667
+              }
+            },
+            "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity."
+          }
+        },
+        {
+          "title": "ConardLi/garden-skills",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "summary": "ConardLi/garden-skills es una colección de código abierto de paquetes de habilidades listos para usar, preparados para agentes de codificación de inteligencia artificial como Claude Code, Cursor y Codex. Esta biblioteca, que incluye diversas funciones como diseño web, adquisición de información y creación de imágenes, tiene como objetivo apoyar los flujos de trabajo basados en agentes de los desarrolladores.",
+          "meta": "JavaScript · ★ 14.256 · +175 hoy",
+          "snapshot": {
+            "sourceId": "ConardLi/garden-skills",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 14256,
+              "engagementCount": 175,
+              "rank": 12,
+              "extra": {
+                "starsToday": 175,
+                "baglam": "readme"
+              }
+            },
+            "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. A curated collection of production-ready Agent Skills for Claude Code, Cursor, Codex, and other AI coding agents."
+          }
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "VibeVoice, desarrollado por Microsoft, es una familia de modelos de inteligencia artificial basados en voz de código abierto que combina capacidades de texto a voz (TTS) y reconocimiento automático de voz (ASR). Estos modelos tienen como objetivo ofrecer una solución integral tanto para la síntesis como para el análisis del habla en los procesos de procesamiento de audio.",
+          "meta": "Python · ★ 56.132 · +223 hoy",
+          "snapshot": {
+            "sourceId": "microsoft/VibeVoice",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 56132,
+              "engagementCount": 223,
+              "rank": 13,
+              "extra": {
+                "starsToday": 223,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open-Source Frontier Voice AI. VibeVoice is a family of open-source frontier voice AI models that includes both Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) models."
+          }
+        },
+        {
+          "title": "floci-io/floci",
+          "url": "https://github.com/floci-io/floci",
+          "summary": "Floci es un emulador local de AWS de código abierto diseñado para procesos de desarrollo, pruebas e integración continua (CI). Escrita en Java, esta herramienta ofrece la posibilidad de trabajar en un entorno local como alternativa a los servicios de infraestructura en la nube.",
+          "meta": "Java · ★ 30.536 · +779 hoy",
+          "snapshot": {
+            "sourceId": "floci-io/floci",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 30536,
+              "engagementCount": 779,
+              "rank": 14,
+              "extra": {
+                "starsToday": 779,
+                "baglam": "readme"
+              }
+            },
+            "description": "Light, fluffy, and always free - The AWS Local Emulator alternative. Floci is a free, open-source local AWS emulator for development, testing, and CI."
+          }
+        },
+        {
+          "title": "JiaFeiMiao-K-Cat/DiscImageStudio",
+          "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+          "summary": "DiscImageStudio es una herramienta multiplataforma de creación e impresión de imágenes de disco desarrollada para grabar imágenes visibles en la superficie de CD, DVD y discos Blu-ray de una sola capa. Escrita en C#, esta aplicación permite el procesamiento visual en la superficie del disco a través de unidades ópticas estándar.",
+          "meta": "C# · ★ 7.404 · +984 hoy",
+          "snapshot": {
+            "sourceId": "JiaFeiMiao-K-Cat/DiscImageStudio",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 7404,
+              "engagementCount": 984,
+              "rank": 15,
+              "extra": {
+                "starsToday": 984,
+                "baglam": "readme"
+              }
+            },
+            "description": "Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "sshole",
+          "url": "https://sshhole.com/",
+          "summary": "sshole es una plataforma que discute los cambios en la autenticación por contraseña introducidos con la versión 10.6p2 de OpenSSH y el impacto de estas actualizaciones en la seguridad del sistema. Los usuarios evalúan lo que estos cambios significan para los protocolos de acceso remoto y los procesos de conexión segura.",
+          "meta": "2.471 puntos · 608 comentarios",
+          "snapshot": {
+            "sourceId": "50378228",
+            "capturedAt": "2026-11-06T05:14:59.889Z",
+            "metadata": {
+              "popularity": 2471,
+              "engagementCount": 608,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50378228",
+                  "popularity": 2471,
+                  "engagementCount": 608
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-05T12:19:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50378228"
+              }
+            },
+            "description": "Related:https:&#x2F;&#x2F;hachyderm.io&#x2F;@damienmiller&#x2F;117563026759098135 &#x2F; https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50377221https:&#x2F;&#x2F;www.openssh.org&#x2F;releasenotes.html#10.6p2https:&#x2F;&#x2F;alpinelinux.org&#x2F;posts&#x2F;2026-11-05-openssh-password-au..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50378228",
+              "popularity": 2471,
+              "engagementCount": 608
+            }
+          ]
+        },
+        {
+          "title": "Claude Code sends your email address to websites",
+          "url": "https://github.com/anthropics/claude-code/issues/107757",
+          "summary": "Claude Code, la herramienta de línea de comandos desarrollada por Anthropic, transmite la dirección de correo electrónico del usuario a sitios web de terceros a través del encabezado User-Agent durante las búsquedas web. Esta situación genera preocupaciones de seguridad y privacidad debido al intercambio de datos que ocurre sin el consentimiento de los usuarios.",
+          "meta": "762 puntos · 258 comentarios",
+          "snapshot": {
+            "sourceId": "50385272",
+            "capturedAt": "2026-11-06T05:14:59.889Z",
+            "metadata": {
+              "popularity": 762,
+              "engagementCount": 258,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50385272",
+                  "popularity": 762,
+                  "engagementCount": 258
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-05T22:17:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50385272",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my permission. This should not be a setting wit..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50385272",
+              "popularity": 762,
+              "engagementCount": 258
+            }
+          ]
+        },
+        {
+          "title": "Search for everyone",
+          "url": "https://kagi.com/changelog#11820",
+          "summary": "Kagi ha lanzado la función 'Search for everyone' con el objetivo de llevar su servicio de motor de búsqueda a una audiencia más amplia. Esta actualización busca hacer que la experiencia de búsqueda de la plataforma sea accesible para todos los usuarios.",
+          "meta": "607 puntos · 313 comentarios",
+          "snapshot": {
+            "sourceId": "50383740",
+            "capturedAt": "2026-11-06T05:14:59.889Z",
+            "metadata": {
+              "popularity": 607,
+              "engagementCount": 313,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50383740",
+                  "popularity": 607,
+                  "engagementCount": 313
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-05T20:03:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50383740"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50383740",
+              "popularity": 607,
+              "engagementCount": 313
+            }
+          ]
+        },
+        {
+          "title": "Goodbye from Salon",
+          "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+          "summary": "Salon ha anunciado el fin de sus operaciones y se ha despedido de sus lectores. La plataforma, que ha estado presente durante mucho tiempo en el periodismo en línea, transmitió su agradecimiento a sus lectores en su mensaje de despedida.",
+          "meta": "517 puntos · 185 comentarios",
+          "snapshot": {
+            "sourceId": "50383739",
+            "capturedAt": "2026-11-06T05:14:59.889Z",
+            "metadata": {
+              "popularity": 517,
+              "engagementCount": 185,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50383739",
+                  "popularity": 517,
+                  "engagementCount": 185
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-05T20:03:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50383739",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "It has been an extraordinary privilege."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50383739",
+              "popularity": 517,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "Motorola Signature 27 with GrapheneOS support",
+          "url": "https://motorolanews.com/motorola-signature-27-2/",
+          "summary": "Motorola Signature 27 ha sido anunciado con soporte para GrapheneOS, un sistema operativo móvil centrado en la privacidad. Este nuevo dispositivo tiene como objetivo ofrecer a los usuarios una experiencia de software personalizable que prioriza la seguridad.",
+          "meta": "429 puntos · 317 comentarios",
+          "snapshot": {
+            "sourceId": "50380810",
+            "capturedAt": "2026-11-06T05:14:59.889Z",
+            "metadata": {
+              "popularity": 429,
+              "engagementCount": 317,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50380810",
+                  "popularity": 429,
+                  "engagementCount": 317
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-05T16:01:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50380810"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50380810",
+              "popularity": 429,
+              "engagementCount": 317
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3.1-Pro",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "summary": "moonshotai/Kimi-K3.1-Pro, compartido en Hugging Face, es un modelo de inteligencia artificial multimodal capaz de procesar datos visuales y textuales. Desarrollado mediante la aplicación de aprendizaje por refuerzo a gran escala sobre el modelo Kimi K3, se presenta como el primer miembro de la serie K3.1.",
+          "meta": "♥ 950 · 11.658 descargas",
+          "snapshot": {
+            "sourceId": "moonshotai/Kimi-K3.1-Pro",
+            "capturedAt": "2026-11-06T05:14:59.671Z",
+            "metadata": {
+              "popularity": 950,
+              "engagementCount": 11658,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 887,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "kimi_k31",
+                  "text-generation",
+                  "compressed-tensors",
+                  "conversational",
+                  "image-text-to-text",
+                  "custom_code",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series."
+          }
+        },
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "idol, desarrollado por Speridlabs, es un modelo de conversión de imagen a 3D capaz de crear un Gaussian splat tridimensional a partir de una sola imagen. Este modelo, que genera salidas en el formato estándar 3DGS .ply, puede ejecutarse en menos de 2 segundos en procesadores gráficos de grado de consumo.",
+          "meta": "♥ 807 · 17.180 descargas",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-06T05:14:59.671Z",
+            "metadata": {
+              "popularity": 807,
+              "engagementCount": 17180,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 702,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          }
+        },
+        {
+          "title": "ccore/Qwen3.5-4B-3D-Coder",
+          "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+          "summary": "ccore/Qwen3.5-4B-3D-Coder, compartido en Hugging Face, es un experimento que investiga la aplicabilidad de los modelos de lenguaje pequeños en la escritura de código de propósito general y en los procesos de creación de escenas tridimensionales de alta calidad. El modelo tiene como objetivo probar el potencial para realizar tareas complejas con un número limitado de parámetros.",
+          "meta": "♥ 719 · 157.157 descargas",
+          "snapshot": {
+            "sourceId": "ccore/Qwen3.5-4B-3D-Coder",
+            "capturedAt": "2026-11-06T05:14:59.671Z",
+            "metadata": {
+              "popularity": 719,
+              "engagementCount": 157157,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 381,
+                "tags": [
+                  "safetensors",
+                  "gguf",
+                  "qwen3_5",
+                  "code",
+                  "threejs",
+                  "3d",
+                  "preview",
+                  "dataset:ccore/ThreeJS-3D-Scenes",
+                  "base_model:Qwen/Qwen3.5-4B",
+                  "base_model:finetune:Qwen/Qwen3.5-4B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "An experiment exploring the feasibility of small language models for general-purpose coding and high-quality 3D scene generation."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, desarrollado por Lightricks, es un modelo de inteligencia artificial que convierte imágenes en videos en movimiento (modelo image-to-video). Esta herramienta, accesible a través de la plataforma Hugging Face, se centra en los procesos de generación de video basados en imágenes.",
+          "meta": "♥ 10.748 · 2.561.845 descargas",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-06T05:14:59.671Z",
+            "metadata": {
+              "popularity": 10748,
+              "engagementCount": 2561845,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 373,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "summary": "NVIDIA-Nemotron-3.5-Transcribe-30B-A4B, desarrollado por NVIDIA, es un modelo de reconocimiento automático de voz (automatic speech recognition) de pesos abiertos capaz de transcribir en 40 idiomas. El modelo, que admite grabaciones de hasta una hora, ofrece capacidades de procesamiento de voz y audio sin conexión mediante una arquitectura de mezcla híbrida de expertos (hybrid mixture-of-experts).",
+          "meta": "♥ 3.061 · 57.297 descargas",
+          "snapshot": {
+            "sourceId": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+            "capturedAt": "2026-11-06T05:14:59.671Z",
+            "metadata": {
+              "popularity": 3061,
+              "engagementCount": 57297,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 331,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "nemo",
+                  "safetensors",
+                  "nemo_speechlm",
+                  "text2text-generation",
+                  "nvidia",
+                  "pytorch",
+                  "nemotron-3.5",
+                  "speech",
+                  "asr",
+                  "speech-translation",
+                  "speaker-diarization",
+                  "audio",
+                  "transcription",
+                  "speech-to-text",
+                  "multilingual",
+                  "timestamps",
+                  "long-form-audio",
+                  "language-identification",
+                  "code-switching",
+                  "audio-question-answering",
+                  "instruction-following",
+                  "hf-asr-leaderboard",
+                  "transformers",
+                  "automatic-speech-recognition",
+                  "cs",
+                  "nl",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "it",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "sk",
+                  "es",
+                  "bg",
+                  "hr",
+                  "da",
+                  "et",
+                  "fi",
+                  "hu",
+                  "ja",
+                  "lv",
+                  "lt",
+                  "ro",
+                  "sl",
+                  "sv",
+                  "th",
+                  "tr",
+                  "uk",
+                  "ar",
+                  "bn",
+                  "zh",
+                  "el",
+                  "he",
+                  "id",
+                  "mt",
+                  "mr",
+                  "tl",
+                  "ta",
+                  "te",
+                  "vi",
+                  "dataset:nvidia/Granary-v2",
+                  "arxiv:2310.09424",
+                  "base_model:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "base_model:finetune:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+                  "license:other",
+                  "eval-results",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "automatic-speech-recognition model. Nemotron 3.5 Transcribe is an open-weight, offline speech and audio model for transcription in 40 languages, with support for recordings up to one hour and a 65,536-token context. Its hybrid mixture-of-experts architecture activates approximately 4.3B parameters, including the audio encoder, and it is released in BF16, FP8, and NVFP4 precision."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+          "url": "https://huggingface.co/papers/2611.07392",
+          "summary": "WeLM-Image es un modelo base visual integrado que combina procesos de generación de imágenes a partir de texto, edición basada en instrucciones y síntesis de referencia múltiple. Diseñado para ejecutarse en una sola unidad de procesamiento gráfico (GPU), el modelo fue desarrollado para su uso en las aplicaciones de consumo a gran escala de WeChat.",
+          "meta": "0 me gusta · 0 comentarios",
+          "snapshot": {
+            "sourceId": "2611.07392",
+            "capturedAt": "2026-11-06T05:14:59.677Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.07392",
+                "publishedAt": "2026-11-05T00:00:00.000Z"
+              }
+            },
+            "description": "We present WeLM-Image, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimi"
+          }
+        },
+        {
+          "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
+          "url": "https://huggingface.co/papers/2611.06817",
+          "summary": "Open-HumanScale ofrece un método de código abierto que utiliza videos humanos egocéntricos para el entrenamiento de modelos base robóticos (embodied foundation models). Este trabajo, que consta de 50.000 horas de datos de video etiquetados con movimientos de manos y descripciones en lenguaje natural, tiene como objetivo escalar los procesos de aprendizaje robótico.",
+          "meta": "2 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.06817",
+            "capturedAt": "2026-11-06T05:14:59.677Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06817",
+                "publishedAt": "2026-11-04T00:00:00.000Z"
+              }
+            },
+            "description": "Egocentric human video offers a scalable source of manipulation priors for robot learning, yet translating raw data scale into generalizable robot policies demands rigorous data curation and training recipes. We introduce Open-HumanScale, the first fully open recipe for scaling egocentric pretraining to 50,000 hours, anchored by Open-HumanScale-50K---a curated egocentric video corpus densely annotated with hand motion and natural language. Leveraging this corpus, we systematically investigate pu"
+          }
+        },
+        {
+          "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+          "url": "https://huggingface.co/papers/2611.08369",
+          "summary": "NPCBench es una prueba de evaluación clínica de entrenamiento desarrollada para medir las capacidades de razonamiento multimodal en el tratamiento del carcinoma nasofaríngeo (nasopharyngeal carcinoma). A diferencia de los métodos de evaluación médica actuales, esta herramienta tiene como objetivo probar la capacidad de los modelos de inteligencia artificial para integrar conocimientos especializados con el proceso de atención al paciente.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.08369",
+            "capturedAt": "2026-11-06T05:14:59.677Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.08369",
+                "publishedAt": "2026-11-05T00:00:00.000Z"
+              }
+            },
+            "description": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a patient's condition throughout a course of care. To close this gap, we introduce NPCBench, a clinical apprenticeship benchmark for nasopharyngeal carcinoma (NPC). NPCBench mirrors specialist training, fr"
+          }
+        },
+        {
+          "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
+          "url": "https://huggingface.co/papers/2611.07909",
+          "summary": "EDGAR es un marco de difusión condicional (conditional diffusion) desarrollado para corregir distorsiones geométricas y errores de textura en avatares de cabeza creados con el método de Gaussian splatting. Este método tiene como objetivo obtener resultados más realistas al corregir problemas como el desenfoque y la inestabilidad temporal que se encuentran en los modelos basados en imágenes individuales o videos.",
+          "meta": "6 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.07909",
+            "capturedAt": "2026-11-06T05:14:59.677Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.07909",
+                "publishedAt": "2026-11-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/kwanyun/edgar-code",
+                "githubStars": 0
+              }
+            },
+            "description": "Recent advances in Gaussian splatting have enabled efficient and photorealistic head avatar reconstruction, yet monocular video-based or image-based methods still suffer from under-constrained geometry and texture, leading to artifacts such as blurring, stretching, and temporal instability. We present EDGAR (Efficient Diffusion-Driven Gaussian Avatar Refinement), a conditional diffusion framework designed to enhance the quality of Gaussian avatars by correcting artifacts while preserving identit"
+          }
+        },
+        {
+          "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
+          "url": "https://huggingface.co/papers/2611.00883",
+          "summary": "El artículo compartido por Hugging Face aborda el método de compresión de puntos de referencia (benchmark compression), que reduce los costos de evaluación de modelos. El estudio muestra que el método de muestreo aleatorio puede ser suficiente para producir estimaciones cercanas a los resultados de referencia completos con subconjuntos pequeños.",
+          "meta": "13 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.00883",
+            "capturedAt": "2026-11-06T05:14:59.677Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.00883",
+                "publishedAt": "2026-10-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/George-Ling3/BestRand",
+                "githubStars": 3
+              }
+            },
+            "description": "Benchmark compression reduces the often prohibitive time and cost of model evaluation by evaluating models on a small benchmark subset that closely matches full-benchmark results. To quantify estimation error, we derive an accurate analytical approximation to the error distribution when estimating full-benchmark scores from a subset, showing that most subsets yield small errors, while a few produce much larger errors, resulting in a long-tailed distribution. This means random sampling alone can "
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "graph-based",
+      "explanation": "Una estructura que analiza las relaciones entre datos conectándolos entre sí mediante puntos y líneas."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con datos masivos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Habilidades especiales que poseen los agentes de inteligencia artificial para realizar tareas específicas."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Método de software que recopila y guarda automáticamente datos de sitios web."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que ejecuta programas mediante comandos escritos en lugar de usar el ratón."
+    },
+    {
+      "term": "worktree",
+      "explanation": "Característica que permite ejecutar diferentes versiones de la misma carpeta de proyecto en Git en lugares separados al mismo tiempo."
+    },
+    {
+      "term": "decoding",
+      "explanation": "Proceso de convertir datos comprimidos o codificados en un formato que la computadora pueda procesar."
+    },
+    {
+      "term": "skills",
+      "explanation": "Paquetes listos para usar que dotan a los agentes de inteligencia artificial de la capacidad de utilizar herramientas de software específicas o completar tareas."
+    },
+    {
+      "term": "accessibility tree",
+      "explanation": "Estructura jerárquica que permite que los elementos de las páginas web sean comprendidos por tecnologías de asistencia como los lectores de pantalla."
+    },
+    {
+      "term": "open source",
+      "explanation": "Software cuyo código fuente está abierto para que cualquiera pueda acceder, examinar y desarrollar."
+    },
+    {
+      "term": "TTS",
+      "explanation": "Tecnología que convierte textos escritos en voz humana mediante una computadora."
+    },
+    {
+      "term": "ASR",
+      "explanation": "Tecnología que detecta sonidos hablados y los convierte en texto escrito."
+    },
+    {
+      "term": "open-source",
+      "explanation": "Software cuyo código fuente está abierto para que cualquiera pueda acceder, examinar y desarrollar."
+    },
+    {
+      "term": "CI",
+      "explanation": "Método en el proceso de desarrollo de software donde los cambios de código se prueban automáticamente y se integran en el sistema principal."
+    },
+    {
+      "term": "password authentication",
+      "explanation": "Proceso de utilizar una contraseña para verificar la identidad del usuario al iniciar sesión en el sistema."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Inteligencia artificial capaz de procesar simultáneamente diferentes tipos de datos, como imágenes, audio o video, no limitándose solo al texto."
+    }
+  ]
+}

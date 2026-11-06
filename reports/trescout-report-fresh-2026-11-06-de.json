@@ -1,0 +1,562 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-06",
+  "capturedAt": "2026-11-06T05:14:59.598Z",
+  "editorial": "Die in den Bericht aufgenommenen Inhalte werden 30 Tage lang nicht wiederholt. Nach Ablauf dieses Zeitraums werden Einträge, die weiterhin aktuell bleiben, erneut mit dem Label \"wieder aktuell\" aufgelistet.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "lz4/lz4",
+          "url": "https://github.com/lz4/lz4",
+          "summary": "Das in C entwickelte lz4 ist ein verlustfreier Datenkomprimierungsalgorithmus, der Geschwindigkeiten von über 500 MB pro Sekunde und Kern bietet. Dank seiner Struktur, die auf Mehrkernsystemen die RAM-Geschwindigkeitsgrenzen erreichen kann, bietet es eine sehr schnelle Dekodierungsleistung (decoding).",
+          "meta": "C · ★ 12.435 · +23 heute",
+          "snapshot": {
+            "sourceId": "lz4/lz4",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 12435,
+              "engagementCount": 23,
+              "rank": 8,
+              "extra": {
+                "starsToday": 23,
+                "baglam": "readme"
+              }
+            },
+            "description": "Extremely Fast Compression algorithm. LZ4 is a lossless compression algorithm, providing compression speed > 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with speed in multiple GB/s per core, typically reaching RAM speed limits on multi-core systems."
+          }
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Die von Google entwickelten Skills bieten Fähigkeitspakete (skills) für KI-Agenten für Google-Produkte und Technologien wie Google Cloud. Dieses Repository wurde erstellt, um agentenbasierte Workflows zu unterstützen, die mit den genannten Technologien integriert arbeiten.",
+          "meta": "Python · ★ 22.473 · +211 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "google/skills",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 22473,
+              "engagementCount": 211,
+              "rank": 9,
+              "extra": {
+                "starsToday": 211,
+                "baglam": "readme"
+              }
+            },
+            "description": "Agent Skills for Google products and technologies. This repository contains Agent Skills for Google products and technologies, including Google Cloud."
+          }
+        },
+        {
+          "title": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "summary": "Das von Vercel Labs entwickelte agent-browser ist eine Befehlszeilenschnittstelle (CLI), die eine Browser-Automatisierung für KI-Agenten bereitstellt. Dieses in Rust geschriebene Tool liest Seiten als Accessibility-Tree und ermöglicht die Interaktion mit Webelementen über die Befehlszeile.",
+          "meta": "Rust · ★ 46.027 · +150 heute",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-browser",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 46027,
+              "engagementCount": 150,
+              "rank": 10,
+              "extra": {
+                "starsToday": 150,
+                "baglam": "readme"
+              }
+            },
+            "description": "Browser automation CLI for AI agents. Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell."
+          }
+        },
+        {
+          "title": "ConardLi/garden-skills",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "summary": "ConardLi/garden-skills ist eine Open-Source-Sammlung von gebrauchsfertigen Skill-Paketen für KI-Coding-Agenten wie Claude Code, Cursor und Codex. Diese Bibliothek, die verschiedene Funktionen wie Webdesign, Informationsbeschaffung und Bilderstellung umfasst, zielt darauf ab, agentenbasierte Arbeitsabläufe für Entwickler zu unterstützen.",
+          "meta": "JavaScript · ★ 14.256 · +175 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "ConardLi/garden-skills",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 14256,
+              "engagementCount": 175,
+              "rank": 12,
+              "extra": {
+                "starsToday": 175,
+                "baglam": "readme"
+              }
+            },
+            "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. A curated collection of production-ready Agent Skills for Claude Code, Cursor, Codex, and other AI coding agents."
+          }
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "summary": "VibeVoice, entwickelt von Microsoft, ist eine Familie von Open-Source-KI-Sprachmodellen, die Text-to-Speech (TTS) und automatische Spracherkennung (ASR) vereint. Diese Modelle zielen darauf ab, eine umfassende Lösung für die Sprachverarbeitung sowohl bei der Sprachsynthese als auch bei der Analyse zu bieten.",
+          "meta": "Python · ★ 56.132 · +223 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "microsoft/VibeVoice",
+            "capturedAt": "2026-11-06T05:15:00.840Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 56132,
+              "engagementCount": 223,
+              "rank": 13,
+              "extra": {
+                "starsToday": 223,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open-Source Frontier Voice AI. VibeVoice is a family of open-source frontier voice AI models that includes both Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) models."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "sshole",
+          "url": "https://sshhole.com/",
+          "summary": "sshole ist eine Plattform, die die Änderungen bei der Passwortauthentifizierung in OpenSSH Version 10.6p2 und deren Auswirkungen auf die Systemsicherheit diskutiert. Benutzer bewerten, was diese Änderungen für Fernzugriffsprotokolle und sichere Verbindungsprozesse bedeuten.",
+          "meta": "2.471 Punkte · 608 Kommentare",
+          "snapshot": {
+            "sourceId": "50378228",
+            "capturedAt": "2026-11-06T05:14:59.889Z",
+            "metadata": {
+              "popularity": 2471,
+              "engagementCount": 608,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50378228",
+                  "popularity": 2471,
+                  "engagementCount": 608
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-05T12:19:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50378228"
+              }
+            },
+            "description": "Related:https:&#x2F;&#x2F;hachyderm.io&#x2F;@damienmiller&#x2F;117563026759098135 &#x2F; https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50377221https:&#x2F;&#x2F;www.openssh.org&#x2F;releasenotes.html#10.6p2https:&#x2F;&#x2F;alpinelinux.org&#x2F;posts&#x2F;2026-11-05-openssh-password-au..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50378228",
+              "popularity": 2471,
+              "engagementCount": 608
+            }
+          ]
+        },
+        {
+          "title": "Claude Code sends your email address to websites",
+          "url": "https://github.com/anthropics/claude-code/issues/107757",
+          "summary": "Das von Anthropic entwickelte Befehlszeilentool Claude Code übermittelt bei Websuchen die E-Mail-Adresse des Benutzers über den User-Agent-Header an Websites Dritter. Dies führt aufgrund der Datenweitergabe ohne explizite Zustimmung der Benutzer zu Sicherheits- und Datenschutzbedenken.",
+          "meta": "762 Punkte · 258 Kommentare",
+          "snapshot": {
+            "sourceId": "50385272",
+            "capturedAt": "2026-11-06T05:14:59.889Z",
+            "metadata": {
+              "popularity": 762,
+              "engagementCount": 258,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50385272",
+                  "popularity": 762,
+                  "engagementCount": 258
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-05T22:17:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50385272",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my permission. This should not be a setting wit..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50385272",
+              "popularity": 762,
+              "engagementCount": 258
+            }
+          ]
+        },
+        {
+          "title": "Search for everyone",
+          "url": "https://kagi.com/changelog#11820",
+          "summary": "Kagi hat die Funktion „Search for everyone“ eingeführt, um seinen Suchmaschinendienst einem breiteren Publikum zugänglich zu machen. Dieses Update zielt darauf ab, das Sucherlebnis der Plattform für alle Nutzer zugänglich zu machen.",
+          "meta": "607 Punkte · 313 Kommentare",
+          "snapshot": {
+            "sourceId": "50383740",
+            "capturedAt": "2026-11-06T05:14:59.889Z",
+            "metadata": {
+              "popularity": 607,
+              "engagementCount": 313,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50383740",
+                  "popularity": 607,
+                  "engagementCount": 313
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-05T20:03:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50383740"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50383740",
+              "popularity": 607,
+              "engagementCount": 313
+            }
+          ]
+        },
+        {
+          "title": "Goodbye from Salon",
+          "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+          "summary": "Salon hat die Einstellung seines Publikationsbetriebs bekannt gegeben und sich von seinen Lesern verabschiedet. Die Plattform, die lange Zeit im Online-Journalismus tätig war, bedankte sich in ihrer Abschiedsnachricht bei ihren Lesern.",
+          "meta": "517 Punkte · 185 Kommentare",
+          "snapshot": {
+            "sourceId": "50383739",
+            "capturedAt": "2026-11-06T05:14:59.889Z",
+            "metadata": {
+              "popularity": 517,
+              "engagementCount": 185,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50383739",
+                  "popularity": 517,
+                  "engagementCount": 185
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-05T20:03:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50383739",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "It has been an extraordinary privilege."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50383739",
+              "popularity": 517,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "Motorola Signature 27 with GrapheneOS support",
+          "url": "https://motorolanews.com/motorola-signature-27-2/",
+          "summary": "Das Motorola Signature 27 wurde mit Unterstützung für GrapheneOS angekündigt, einem auf Datenschutz ausgerichteten mobilen Betriebssystem. Dieses neue Gerät zielt darauf ab, den Nutzern eine anpassbare Softwareerfahrung zu bieten, bei der die Sicherheit im Vordergrund steht.",
+          "meta": "429 Punkte · 317 Kommentare",
+          "snapshot": {
+            "sourceId": "50380810",
+            "capturedAt": "2026-11-06T05:14:59.889Z",
+            "metadata": {
+              "popularity": 429,
+              "engagementCount": 317,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50380810",
+                  "popularity": 429,
+                  "engagementCount": 317
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-05T16:01:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50380810"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50380810",
+              "popularity": 429,
+              "engagementCount": 317
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "ccore/Qwen3.5-4B-3D-Coder",
+          "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+          "summary": "Das auf Hugging Face geteilte ccore/Qwen3.5-4B-3D-Coder ist ein Experiment, das die Anwendbarkeit kleiner Sprachmodelle (Small Language Models) auf allgemeines Coding und die Erstellung hochwertiger 3D-Szenen untersucht. Das Modell zielt darauf ab, das Potenzial zur Erfüllung komplexer Aufgaben mit einer begrenzten Anzahl von Parametern zu testen.",
+          "meta": "♥ 719 · 157.157 Downloads",
+          "snapshot": {
+            "sourceId": "ccore/Qwen3.5-4B-3D-Coder",
+            "capturedAt": "2026-11-06T05:14:59.671Z",
+            "metadata": {
+              "popularity": 719,
+              "engagementCount": 157157,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 381,
+                "tags": [
+                  "safetensors",
+                  "gguf",
+                  "qwen3_5",
+                  "code",
+                  "threejs",
+                  "3d",
+                  "preview",
+                  "dataset:ccore/ThreeJS-3D-Scenes",
+                  "base_model:Qwen/Qwen3.5-4B",
+                  "base_model:finetune:Qwen/Qwen3.5-4B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "An experiment exploring the feasibility of small language models for general-purpose coding and high-quality 3D scene generation."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, entwickelt von Lightricks, ist ein KI-Modell (Image-to-Video-Modell), das Bilder in bewegte Videos umwandelt. Dieses Tool, das über die Hugging Face-Plattform zugänglich ist, konzentriert sich auf bildbasierte Videoproduktionsprozesse.",
+          "meta": "♥ 10.748 · 2.561.845 Downloads",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-06T05:14:59.671Z",
+            "metadata": {
+              "popularity": 10748,
+              "engagementCount": 2561845,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 373,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+          "url": "https://huggingface.co/papers/2611.07392",
+          "summary": "WeLM-Image ist ein integriertes visuelles Basismodell, das Text-zu-Bild-Generierung, anweisungsbasierte Bearbeitung und Multi-Referenz-Synthese kombiniert. Das Modell wurde für den Betrieb auf einer einzelnen Grafikkarte (GPU) konzipiert und für den Einsatz in den groß angelegten Verbraucheranwendungen von WeChat entwickelt.",
+          "meta": "0 Likes · 0 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.07392",
+            "capturedAt": "2026-11-06T05:14:59.677Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.07392",
+                "publishedAt": "2026-11-05T00:00:00.000Z"
+              }
+            },
+            "description": "We present WeLM-Image, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimi"
+          }
+        },
+        {
+          "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
+          "url": "https://huggingface.co/papers/2611.06817",
+          "summary": "Open-HumanScale bietet eine Open-Source-Methode, die egozentrische menschliche Videos für das Training von robotischen Basismodellen (Embodied Foundation Models) nutzt. Diese Arbeit, die aus 50.000 Stunden Videodaten besteht, welche mit Handbewegungen und natürlichsprachlichen Beschreibungen annotiert sind, zielt darauf ab, robotische Lernprozesse zu skalieren.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.06817",
+            "capturedAt": "2026-11-06T05:14:59.677Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06817",
+                "publishedAt": "2026-11-04T00:00:00.000Z"
+              }
+            },
+            "description": "Egocentric human video offers a scalable source of manipulation priors for robot learning, yet translating raw data scale into generalizable robot policies demands rigorous data curation and training recipes. We introduce Open-HumanScale, the first fully open recipe for scaling egocentric pretraining to 50,000 hours, anchored by Open-HumanScale-50K---a curated egocentric video corpus densely annotated with hand motion and natural language. Leveraging this corpus, we systematically investigate pu"
+          }
+        },
+        {
+          "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+          "url": "https://huggingface.co/papers/2611.08369",
+          "summary": "NPCBench ist ein klinischer Trainings-Benchmark, der entwickelt wurde, um multimodale Schlussfolgerungsfähigkeiten bei der Behandlung von Nasopharynxkarzinomen zu messen. Im Gegensatz zu bestehenden medizinischen Bewertungsmethoden zielt dieses Tool darauf ab, die Fähigkeit von KI-Modellen zu testen, fachspezifisches Wissen in den Patientenversorgungsprozess zu integrieren.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.08369",
+            "capturedAt": "2026-11-06T05:14:59.677Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.08369",
+                "publishedAt": "2026-11-05T00:00:00.000Z"
+              }
+            },
+            "description": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a patient's condition throughout a course of care. To close this gap, we introduce NPCBench, a clinical apprenticeship benchmark for nasopharyngeal carcinoma (NPC). NPCBench mirrors specialist training, fr"
+          }
+        },
+        {
+          "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
+          "url": "https://huggingface.co/papers/2611.07909",
+          "summary": "EDGAR ist ein Framework für konditionale Diffusion, das entwickelt wurde, um geometrische Verzerrungen und Texturfehler bei Kopf-Avataren zu beheben, die mit der Gaussian-Splatting-Methode erstellt wurden. Diese Methode zielt darauf ab, realistischere Ergebnisse zu erzielen, indem Probleme wie Unschärfe und zeitliche Instabilität, die bei bild- oder videobasierten Modellen auftreten, korrigiert werden.",
+          "meta": "6 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.07909",
+            "capturedAt": "2026-11-06T05:14:59.677Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.07909",
+                "publishedAt": "2026-11-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/kwanyun/edgar-code",
+                "githubStars": 0
+              }
+            },
+            "description": "Recent advances in Gaussian splatting have enabled efficient and photorealistic head avatar reconstruction, yet monocular video-based or image-based methods still suffer from under-constrained geometry and texture, leading to artifacts such as blurring, stretching, and temporal instability. We present EDGAR (Efficient Diffusion-Driven Gaussian Avatar Refinement), a conditional diffusion framework designed to enhance the quality of Gaussian avatars by correcting artifacts while preserving identit"
+          }
+        },
+        {
+          "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
+          "url": "https://huggingface.co/papers/2611.00883",
+          "summary": "Der von Hugging Face veröffentlichte Artikel befasst sich mit der Benchmark-Kompression, einer Methode zur Senkung der Kosten für die Modellevaluierung. Die Studie zeigt, dass die Zufallsstichprobenmethode ausreichen kann, um mit kleinen Teilmengen Ergebnisse zu erzielen, die den vollständigen Benchmark-Ergebnissen nahekommen.",
+          "meta": "13 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.00883",
+            "capturedAt": "2026-11-06T05:14:59.677Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.00883",
+                "publishedAt": "2026-10-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/George-Ling3/BestRand",
+                "githubStars": 3
+              }
+            },
+            "description": "Benchmark compression reduces the often prohibitive time and cost of model evaluation by evaluating models on a small benchmark subset that closely matches full-benchmark results. To quantify estimation error, we derive an accurate analytical approximation to the error distribution when estimating full-benchmark scores from a subset, showing that most subsets yield small errors, while a few produce much larger errors, resulting in a long-tailed distribution. This means random sampling alone can "
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die Programme nicht mit der Maus, sondern mit schriftlichen Befehlen ausführt."
+    },
+    {
+      "term": "decoding",
+      "explanation": "Der Prozess der Umwandlung von komprimierten oder kodierten Daten in ein Format, das vom Computer verarbeitet werden kann."
+    },
+    {
+      "term": "skills",
+      "explanation": "Vorgefertigte Pakete, die KI-Agenten die Fähigkeit verleihen, bestimmte Software-Tools zu nutzen oder Aufgaben zu erledigen."
+    },
+    {
+      "term": "accessibility tree",
+      "explanation": "Die hierarchische Struktur, die sicherstellt, dass Elemente auf Webseiten von assistiven Technologien wie Screenreadern verstanden werden können."
+    },
+    {
+      "term": "open source",
+      "explanation": "Software, deren Quellcode für jeden zugänglich, einsehbar und veränderbar ist."
+    },
+    {
+      "term": "TTS",
+      "explanation": "Technologie, die geschriebene Texte computergestützt in menschliche Sprache umwandelt."
+    },
+    {
+      "term": "ASR",
+      "explanation": "Technologie, die gesprochene Sprache erkennt und in geschriebenen Text umwandelt."
+    },
+    {
+      "term": "open-source",
+      "explanation": "Software, deren Quellcode für jeden zugänglich, einsehbar und veränderbar ist."
+    },
+    {
+      "term": "CI",
+      "explanation": "Eine Methode in der Softwareentwicklung, bei der Codeänderungen automatisch getestet und in das Hauptsystem integriert werden."
+    },
+    {
+      "term": "password authentication",
+      "explanation": "Der Prozess der Verwendung eines Passworts zur Überprüfung der Identität eines Benutzers bei der Anmeldung am System."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Künstliche Intelligenz, die nicht nur auf Text beschränkt ist, sondern gleichzeitig verschiedene Datentypen wie Bilder, Audio oder Video verarbeiten kann."
+    }
+  ]
+}
