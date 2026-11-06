@@ -38,6 +38,10 @@ A properly labeled structure both ensures access for individuals with disabiliti
 - [User Interface](https://trescout.com/en/dictionary/user-interface/)
 - [Frontend](https://trescout.com/en/dictionary/frontend/)
 
+## Related tools
+
+- [Agent Browser](https://trescout.com/en/discover/agent-browser/)
+
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/accessibility-tree/)
 
 ---

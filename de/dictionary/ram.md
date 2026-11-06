@@ -77,7 +77,7 @@ SSD ist permanenter Speicher, RAM ist temporärer Speicherplatz. Beides wirkt zu
 - [CasaOS](https://trescout.com/de/discover/casaos/)
 - [Invidious](https://trescout.com/de/discover/invidious/)
 - [Omlx](https://trescout.com/de/discover/omlx/)
-- [Needle](https://trescout.com/de/discover/needle/)
+- [Lz4](https://trescout.com/de/discover/lz4/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/ram/)
 

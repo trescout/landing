@@ -82,8 +82,8 @@ Der Parameter ctx context.Context in Go verhindert die unnötige Verschwendung v
 - [Servers](https://trescout.com/de/discover/servers/)
 - [Goose](https://trescout.com/de/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)
-- [Openclaude](https://trescout.com/de/discover/openclaude/)
 - [Context Mode](https://trescout.com/de/discover/context-mode/)
+- [Openclaude](https://trescout.com/de/discover/openclaude/)
 - [Code Review Graph](https://trescout.com/de/discover/code-review-graph/)
 - [Fastmcp](https://trescout.com/de/discover/fastmcp/)
 

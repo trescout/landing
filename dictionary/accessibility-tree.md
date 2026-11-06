@@ -38,6 +38,10 @@ Doğru etiketlenmiş bir yapı hem engelli bireylerin erişimini sağlar hem de 
 - [User Interface](https://trescout.com/dictionary/user-interface/)
 - [Frontend](https://trescout.com/dictionary/frontend/)
 
+## İlgili araçlar
+
+- [Agent Browser](https://trescout.com/discover/agent-browser/)
+
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

@@ -2,16 +2,16 @@
 
 Context-mode is a TypeScript library that provides context window optimization for AI coding agents. It reduces data size by 98% by isolating tool outputs, preserves session memory, and routes to 17 different platforms via the Model Context Protocol.
 
-- ★ 33,506
+- ★ 33,565
 - TypeScript
 - GitHub Trending · 2026-09-08
 
 ## Updates
 
+- **November 6, 2026:** Stars 33,506 → 33,565, latest release v2.1.4 (November 5, 2026).
 - **November 5, 2026:** Stars 32,535 → 33,506, latest release v2.1.0 (November 5, 2026).
 - **October 27, 2026:** Stars 30,969 → 32,535, latest release v1.0.169 (June 29, 2026).
 - **October 19, 2026:** Stars 29,494 → 30,969, latest release v1.0.169 (June 29, 2026).
-- **October 15, 2026:** Stars 27,902 → 29,494, latest release v1.0.169 (June 29, 2026).
 
 ## What you get
 

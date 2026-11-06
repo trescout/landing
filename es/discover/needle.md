@@ -11,7 +11,6 @@ Desarrollado por Cactus Compute, Needle ofrece un modelo básico de 14 MB que pu
 - **9 de octubre de 2026:** Estrellas 12,717 → 13,721.
 - **27 de septiembre de 2026:** Estrellas 10,436 → 12,717.
 - **7 de septiembre de 2026:** Estrellas 9,378 → 10,436.
-- **27 de agosto de 2026:** Estrellas 8,376 → 9,378.
 
 ## Qué aporta
 

@@ -11,7 +11,6 @@ Développé par Cactus Compute, Needle propose un modèle de base de 14 Mo pouva
 - **9 octobre 2026:** Étoiles 12,717 → 13,721.
 - **27 septembre 2026:** Étoiles 10,436 → 12,717.
 - **7 septembre 2026:** Étoiles 9,378 → 10,436.
-- **27 août 2026:** Étoiles 8,376 → 9,378.
 
 ## Ce que ça vous apporte
 

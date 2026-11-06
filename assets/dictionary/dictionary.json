@@ -10359,5 +10359,31 @@
     "kisa_es": "Tipo de servidor proxy que enruta el tráfico utilizando direcciones IP pertenecientes a usuarios reales de Internet doméstico, lo que dificulta su detección.",
     "kisa_pt": "Tipo de servidor proxy que direciona o tráfego usando endereços IP pertencentes a usuários reais de internet residencial, dificultando a detecção.",
     "kisa_de": "Ein Proxy-Server-Typ, der den Datenverkehr über die IP-Adressen echter Heim-Internetnutzer leitet und die Erkennung erschwert."
+  },
+  {
+    "slug": "decoding",
+    "en": "Decoding",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sıkıştırılmış veya kodlanmış veriyi bilgisayarın işleyebileceği hale getirme işlemidir.",
+    "date": "2026-11-06",
+    "kisa_en": "It is the process of converting compressed or encoded data into a form that the computer can process.",
+    "kisa_fr": "Il s'agit du processus de conversion de données compressées ou encodées sous une forme que l'ordinateur peut traiter.",
+    "kisa_es": "Es el proceso de convertir datos comprimidos o codificados en un formato que la computadora pueda procesar.",
+    "kisa_pt": "É o processo de converter dados compactados ou codificados em um formato que o computador possa processar.",
+    "kisa_de": "Es ist der Prozess, komprimierte oder kodierte Daten in eine für den Computer verarbeitbare Form zu bringen."
+  },
+  {
+    "slug": "password-authentication",
+    "en": "Password Authentication",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sisteme giriş yaparken kullanıcının kimliğini doğrulamak için parola kullanılması sürecidir.",
+    "date": "2026-11-06",
+    "kisa_en": "It is the process of using a password to verify the user's identity when logging into the system.",
+    "kisa_fr": "Il s'agit du processus d'utilisation d'un mot de passe pour authentifier l'identité de l'utilisateur lors de la connexion au système.",
+    "kisa_es": "Es el proceso de utilizar una contraseña para verificar la identidad del usuario al iniciar sesión en el sistema.",
+    "kisa_pt": "É o processo de utilização de uma palavra-passe para verificar a identidade do utilizador ao iniciar sessão no sistema.",
+    "kisa_de": "Es ist der Prozess der Verwendung eines Passworts zur Authentifizierung der Identität des Benutzers bei der Anmeldung am System."
   }
 ]

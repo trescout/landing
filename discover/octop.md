@@ -2,16 +2,16 @@
 
 TencentCloud tarafından geliştirilen Octop, kendi sunucunuzda barındırabileceğiniz çok kullanıcılı ve çok ajanlı bir yapay zekâ asistanı. Python tabanlı bu sistem, farklı kullanıcıların aynı anda birden fazla yapay zekâ ajanıyla etkileşime girmesine olanak tanıyor.
 
-- ★ 11.661
+- ★ 11.717
 - Python
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
 
+- **6 Kasım 2026:** Yıldız 11.661 → 11.717, son sürüm v1.0.3b4 (6 Kasım 2026).
 - **5 Kasım 2026:** Yıldız 11.462 → 11.661, son sürüm v1.0.3b3 (4 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 10.946 → 11.462, son sürüm v1.0.3b2 (2 Kasım 2026).
 - **25 Ekim 2026:** Yıldız 10.066 → 10.946, son sürüm v1.0.3b1 (25 Ekim 2026).
-- **19 Ekim 2026:** Yıldız 9.714 → 10.066, son sürüm v1.0.2 (18 Ekim 2026).
 
 ## Ne kazandırır?
 

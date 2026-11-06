@@ -15,7 +15,7 @@ Madeira est un projet de couche de compatibilité qui permet d'exécuter des jeu
 
 ## Ce que ça vous apporte
 
-- Il vous permet de jouer à des jeux PC Windows sur des iPhone sans jailbreak.
+- Il vous permet de jouer à des jeux informatiques Windows sur des iPhones sans jailbreak.
 - Utilise l'outil FEX-Emu effectuant une émulation de processeur pour la traduction de processeur.
 - Bénéficie de l'outil de conversion graphique DXMT pour le processus de conversion graphique.
 

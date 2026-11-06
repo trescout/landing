@@ -72,8 +72,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [VPN](https://trescout.com/de/dictionary/vpn/)
-- [RAM](https://trescout.com/de/dictionary/ram/)
 - [Self-hosted](https://trescout.com/de/dictionary/self-hosted/)
+- [RAM](https://trescout.com/de/dictionary/ram/)
 - [CPU](https://trescout.com/de/dictionary/cpu/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)

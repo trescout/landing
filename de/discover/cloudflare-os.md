@@ -2,9 +2,13 @@
 
 Cloudflare hat einen Agent-Arbeitsbereich (Agent Workspace) eingeführt, der die Erstellung von Dokumenten mit internen Daten, die Anwendungsentwicklung und das Ausführen von KI-Agenten unterstützt. Diese Plattform läuft auf Cloudflare Workers und bietet eine in Unternehmenssysteme integrierte Entwicklungsumgebung.
 
-- ★ 10.697
+- ★ 11.697
 - TypeScript
 - GitHub Trending · 2026-10-04
+
+## Aktualisierungen
+
+- **6. November 2026:** Sterne 10,697 → 11,697.
 
 ## Was es bringt
 

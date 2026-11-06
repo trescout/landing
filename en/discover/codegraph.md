@@ -2,12 +2,13 @@
 
 Codegraph is a local knowledge graph tool that pre-indexes codebases and serves them to AI models. By automatically syncing code changes, it enables coding assistants like Claude Code or Cursor to use fewer tokens and tool calls.
 
-- ★ 73,076
+- ★ 76,835
 - C
 - GitHub Trending · 2026-10-01
 
 ## Updates
 
+- **November 6, 2026:** Stars 73,076 → 76,835, latest release v1.6.2 (October 3, 2026).
 - **October 3, 2026:** Stars 72,721 → 73,076, latest release v1.6.2 (October 3, 2026).
 - **October 1, 2026:** Stars 72,718 → 72,721, latest release v1.6.1 (September 29, 2026).
 

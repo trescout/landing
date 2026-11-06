@@ -38,6 +38,10 @@ Una estructura etiquetada correctamente tanto garantiza el acceso de las persona
 - [User Interface](https://trescout.com/es/dictionary/user-interface/)
 - [Frontend](https://trescout.com/es/dictionary/frontend/)
 
+## Herramientas relacionadas
+
+- [Agent Browser](https://trescout.com/es/discover/agent-browser/)
+
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/accessibility-tree/)
 
 ---

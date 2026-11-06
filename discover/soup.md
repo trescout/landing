@@ -2,16 +2,16 @@
 
 Soup, büyük dil modellerine (large language models) tek bir YAML dosyası üzerinden ince ayar (fine-tuning) yapılmasına olanak tanıyan bir Python kütüphanesi. Katman akış (layer streaming) yöntemiyle 8 milyar parametreli modelleri 4 GB belleğe sahip dizüstü bilgisayar grafik işlemcilerinde eğitebiliyor.
 
-- ★ 9.771
+- ★ 10.214
 - Python
 - GitHub Trending · 2026-08-16
 
 ## Güncelleme
 
+- **6 Kasım 2026:** Yıldız 9.771 → 10.214, son sürüm v0.77.2 (5 Kasım 2026).
 - **29 Ekim 2026:** Yıldız 9.706 → 9.771, son sürüm v0.77.1 (28 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 9.069 → 9.706, son sürüm v0.77.0 (26 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 8.615 → 9.069, son sürüm v0.76.1 (14 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 7.988 → 8.615, son sürüm v0.76.0 (12 Ekim 2026).
 
 ## Ne kazandırır?
 

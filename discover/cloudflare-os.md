@@ -2,9 +2,13 @@
 
 Cloudflare, şirket içi verilerle belge oluşturma, uygulama geliştirme ve yapay zekâ ajanlarını çalıştırma süreçlerini destekleyen bir ajan çalışma alanı (agent workspace) sundu. Cloudflare Workers üzerinde çalışan bu platform, kurumsal sistemlerle entegre bir geliştirme ortamı sağlıyor.
 
-- ★ 10.697
+- ★ 11.697
 - TypeScript
 - GitHub Trending · 2026-10-04
+
+## Güncelleme
+
+- **6 Kasım 2026:** Yıldız 10.697 → 11.697.
 
 ## Ne kazandırır?
 

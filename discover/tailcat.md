@@ -2,12 +2,13 @@
 
 Tailcat, klasik netcat işlevselliğini Tailscale VPN mesh katmanına taşıyarak kontrol düzlemi veya açık port zorunluluğu olmadan güvenli veri aktarımı sağlar.
 
-- ★ 7.746
+- ★ 8.753
 - Go
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
 
+- **6 Kasım 2026:** Yıldız 7.746 → 8.753, son sürüm v0.7.0 (20 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 2.435 → 7.746, son sürüm v0.7.0 (20 Eylül 2026).
 
 ## Ne kazandırır?

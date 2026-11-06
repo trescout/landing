@@ -2,12 +2,13 @@
 
 Hex, entwickelt in der Programmiersprache Rust, ist ein lokales Sprache-zu-Text-Diktierwerkzeug, das unter den Betriebssystemen Mac, Windows und Linux läuft. Es ermöglicht Benutzern, durch Gedrückthalten einer Taste zu sprechen und das Gesprochene in Text umzuwandeln.
 
-- ★ 4.138
+- ★ 5.351
 - Rust
 - GitHub Trending · 2026-11-02
 
 ## Aktualisierungen
 
+- **6. November 2026:** Sterne 4,138 → 5,351, neueste Version v3.3.0 (2. November 2026).
 - **3. November 2026:** Sterne 3,700 → 4,138, neueste Version v3.3.0 (2. November 2026).
 - **2. November 2026:** Sterne 3,505 → 3,700, neueste Version @kitlangton/hex@0.3.1 (26. September 2026).
 

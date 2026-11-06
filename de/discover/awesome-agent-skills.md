@@ -2,11 +2,12 @@
 
 Awesome-agent-skills wurde von VoltAgent zusammengestellt und vereint mehr als 1000 künstliche Intelligenz-Fähigkeiten (Agent-Fähigkeiten), die von Entwicklerteams und der Community erstellt wurden. Diese Sammlung ist so konzipiert, dass sie mit Plattformen wie dem Codierungsassistenten Cursor und durch künstliche Intelligenz unterstützten Befehlszeilentools (Claude Code, Gemini CLI) kompatibel ist.
 
-- ★ 35.146
+- ★ 36.904
 - GitHub Trending · 2026-08-24
 
 ## Aktualisierungen
 
+- **6. November 2026:** Sterne 35,146 → 36,904.
 - **3. Oktober 2026:** Sterne 33,464 → 35,146.
 - **31. August 2026:** Sterne 31,405 → 33,464.
 

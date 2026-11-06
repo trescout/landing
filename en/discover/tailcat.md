@@ -2,12 +2,13 @@
 
 Tailcat brings classic netcat functionality to the Tailscale VPN mesh layer, providing secure data transfer without requiring a control plane or open port.
 
-- ★ 7,746
+- ★ 8,753
 - Go
 - GitHub Trending · 2026-08-28
 
 ## Updates
 
+- **November 6, 2026:** Stars 7,746 → 8,753, latest release v0.7.0 (September 20, 2026).
 - **September 27, 2026:** Stars 2,435 → 7,746, latest release v0.7.0 (September 20, 2026).
 
 ## What you get

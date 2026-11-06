@@ -2,16 +2,16 @@
 
 Mise est un outil qui vous permet de gérer les outils de développement logiciel, les variables d'environnement et les exécuteurs de tâches sous un même toit. Ce logiciel, développé en langage Rust, vise à standardiser et accélérer les environnements de travail nécessaires aux différents projets.
 
-- ★ 35 780
+- ★ 35 839
 - Rust
 - GitHub Trending · 2026-08-08
 
 ## Mises à jour
 
+- **6 novembre 2026:** Étoiles 35,780 → 35,839, dernière version v2026.11.2 (5 novembre 2026).
 - **5 novembre 2026:** Étoiles 35,736 → 35,780, dernière version v2026.11.1 (4 novembre 2026).
 - **4 novembre 2026:** Étoiles 35,601 → 35,736, dernière version v2026.11.0 (3 novembre 2026).
 - **1 novembre 2026:** Étoiles 35,575 → 35,601, dernière version v2026.10.25 (31 octobre 2026).
-- **31 octobre 2026:** Étoiles 35,554 → 35,575, dernière version v2026.10.24 (30 octobre 2026).
 
 ## Ce que ça vous apporte
 

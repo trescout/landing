@@ -2,16 +2,16 @@
 
 FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli sağlayıcısını OpenAI formatında tek bir REST API altında toplayarak akıllı yönlendirme ve arıza toleransı sunar.
 
-- ★ 47.649
+- ★ 48.070
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
 
+- **6 Kasım 2026:** Yıldız 47.649 → 48.070, son sürüm v0.16.20 (6 Kasım 2026).
 - **5 Kasım 2026:** Yıldız 47.165 → 47.649, son sürüm v0.16.19 (4 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 46.524 → 47.165, son sürüm v0.16.18 (3 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 45.976 → 46.524, son sürüm v0.16.17 (2 Kasım 2026).
-- **2 Kasım 2026:** Yıldız 45.322 → 45.976, son sürüm v0.16.16 (1 Kasım 2026).
 
 ## Ne kazandırır?
 

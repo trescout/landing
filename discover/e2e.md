@@ -2,16 +2,16 @@
 
 TypeScript tabanlı e2e, web ve mobil uygulamalar için uçtan uca test (end-to-end testing) süreçlerini otomatikleştiren yeni nesil bir çerçeve (framework). Geliştiricilerin uygulama arayüzlerini farklı platformlarda hızlıca doğrulamasına olanak tanıyor.
 
-- ★ 12.355
+- ★ 13.345
 - TypeScript
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
 
+- **6 Kasım 2026:** Yıldız 12.355 → 13.345, son sürüm @e2e-dev/testmu@0.0.4 (5 Kasım 2026).
 - **31 Ekim 2026:** Yıldız 11.807 → 12.355, son sürüm @e2e-dev/testmu@0.0.3 (30 Ekim 2026).
 - **24 Ekim 2026:** Yıldız 11.017 → 11.807, son sürüm @e2e-dev/testmu@0.0.2 (23 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 10.701 → 11.017, son sürüm @e2e-dev/testmu@0.0.1 (16 Ekim 2026).
-- **15 Ekim 2026:** Yıldız 10.659 → 10.701, son sürüm @e2e-dev/web@0.15.1 (15 Ekim 2026).
 
 ## Ne kazandırır?
 

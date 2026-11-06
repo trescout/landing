@@ -11,7 +11,6 @@ Needle wurde von Cactus Compute entwickelt und bietet ein 14-MB-Basismodell, das
 - **9. Oktober 2026:** Sterne 12,717 → 13,721.
 - **27. September 2026:** Sterne 10,436 → 12,717.
 - **7. September 2026:** Sterne 9,378 → 10,436.
-- **27. August 2026:** Sterne 8,376 → 9,378.
 
 ## Was es bringt
 

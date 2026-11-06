@@ -62,10 +62,10 @@ Los kits mesh para el hogar suelen configurarse en minutos con una aplicación m
 
 - [Bitchat](https://trescout.com/es/discover/bitchat/)
 - [Meshery](https://trescout.com/es/discover/meshery/)
+- [Tailcat](https://trescout.com/es/discover/tailcat/)
 - [Meshoptimizer](https://trescout.com/es/discover/meshoptimizer/)
 - [Modly](https://trescout.com/es/discover/modly/)
 - [Bitchat Android](https://trescout.com/es/discover/bitchat-android/)
-- [Tailcat](https://trescout.com/es/discover/tailcat/)
 - [Spirula Studio](https://trescout.com/es/discover/spirula-studio/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/mesh/)

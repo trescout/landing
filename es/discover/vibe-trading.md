@@ -2,16 +2,16 @@
 
 Vibe-Trading ofrece un agente comercial personal desarrollado para operar en los mercados financieros. El proyecto permite a los usuarios gestionar estrategias comerciales automáticas con su estructura basada en Python.
 
-- ★ 36.261
+- ★ 37.739
 - Python
 - GitHub Trending · 2026-06-04
 
 ## Actualizaciones
 
+- **6 de noviembre de 2026:** Estrellas 36,261 → 37,739, última versión v0.1.19 (5 de noviembre de 2026).
 - **22 de octubre de 2026:** Estrellas 36,114 → 36,261, última versión v0.1.18 (21 de octubre de 2026).
 - **21 de octubre de 2026:** Estrellas 36,012 → 36,114, última versión v0.1.17 (21 de octubre de 2026).
 - **20 de octubre de 2026:** Estrellas 34,287 → 36,012, última versión v0.1.16 (29 de septiembre de 2026).
-- **29 de septiembre de 2026:** Estrellas 33,083 → 34,287, última versión v0.1.16 (29 de septiembre de 2026).
 
 ## Qué aporta
 

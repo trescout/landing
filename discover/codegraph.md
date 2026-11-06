@@ -2,12 +2,13 @@
 
 Codegraph, kod tabanlarını önceden dizinleyerek yapay zekâ modellerine sunan yerel bir bilgi grafiği (knowledge graph) aracıdır. Kod değişikliklerini otomatik eşitleyerek Claude Code veya Cursor gibi kodlama asistanlarının daha az belirteç (token) ve araç çağrısı kullanmasını sağlar.
 
-- ★ 73.076
+- ★ 76.835
 - C
 - GitHub Trending · 2026-10-01
 
 ## Güncelleme
 
+- **6 Kasım 2026:** Yıldız 73.076 → 76.835, son sürüm v1.6.2 (3 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 72.721 → 73.076, son sürüm v1.6.2 (3 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 72.718 → 72.721, son sürüm v1.6.1 (29 Eylül 2026).
 

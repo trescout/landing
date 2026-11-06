@@ -38,6 +38,10 @@ Uma estrutura devidamente rotulada tanto garante o acesso por indivíduos com de
 - [User Interface](https://trescout.com/pt/dictionary/user-interface/)
 - [Frontend](https://trescout.com/pt/dictionary/frontend/)
 
+## Ferramentas relacionadas
+
+- [Agent Browser](https://trescout.com/pt/discover/agent-browser/)
+
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/accessibility-tree/)
 
 ---

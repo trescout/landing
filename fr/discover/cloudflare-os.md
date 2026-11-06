@@ -2,9 +2,13 @@
 
 Cloudflare a lancé un espace de travail d'agents (agent workspace) prenant en charge les processus de création de documents, de développement d'applications et d'exécution d'agents d'IA à partir de données internes. Fonctionnant sur Cloudflare Workers, cette plateforme fournit un environnement de développement intégré aux systèmes d'entreprise.
 
-- ★ 10 697
+- ★ 11 697
 - TypeScript
 - GitHub Trending · 2026-10-04
+
+## Mises à jour
+
+- **6 novembre 2026:** Étoiles 10,697 → 11,697.
 
 ## Ce que ça vous apporte
 

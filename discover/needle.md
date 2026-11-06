@@ -11,7 +11,6 @@ Cactus Compute tarafından geliştirilen Needle, telefonlar, giyilebilir cihazla
 - **9 Ekim 2026:** Yıldız 12.717 → 13.721.
 - **27 Eylül 2026:** Yıldız 10.436 → 12.717.
 - **7 Eylül 2026:** Yıldız 9.378 → 10.436.
-- **27 Ağustos 2026:** Yıldız 8.376 → 9.378.
 
 ## Ne kazandırır?
 

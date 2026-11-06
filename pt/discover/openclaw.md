@@ -2,16 +2,16 @@
 
 O Openclaw é uma ferramenta de automação baseada em inteligência artificial capaz de executar tarefas em diferentes sistemas operacionais e plataformas. Desenvolvido com TypeScript, este software permite que os usuários padronizem e automatizem operações no computador.
 
-- ★ 393.760
+- ★ 394.002
 - TypeScript
 - GitHub Trending · 2026-10-01
 
 ## Atualizações
 
+- **6 de novembro de 2026:** Estrelas 393,760 → 394,002, versão mais recente v2026.11.1 (5 de novembro de 2026).
 - **3 de novembro de 2026:** Estrelas 393,397 → 393,760, versão mais recente v2026.10.10 (3 de novembro de 2026).
 - **30 de outubro de 2026:** Estrelas 393,200 → 393,397, versão mais recente v2026.10.9 (29 de outubro de 2026).
 - **27 de outubro de 2026:** Estrelas 392,972 → 393,200, versão mais recente v2026.10.8 (27 de outubro de 2026).
-- **25 de outubro de 2026:** Estrelas 392,750 → 392,972, versão mais recente v2026.10.7 (24 de outubro de 2026).
 
 ## O que você ganha
 

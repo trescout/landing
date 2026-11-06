@@ -2,9 +2,13 @@
 
 Cloudflare introduced an agent workspace that supports document generation, application development, and running AI agents with internal data. Running on Cloudflare Workers, this platform provides a development environment integrated with enterprise systems.
 
-- ★ 10,697
+- ★ 11,697
 - TypeScript
 - GitHub Trending · 2026-10-04
+
+## Updates
+
+- **November 6, 2026:** Stars 10,697 → 11,697.
 
 ## What you get
 

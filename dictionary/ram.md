@@ -77,7 +77,7 @@ Günlük işte 8, geliştirmede 16, ağır işte 32 GB pratik karşılıklardır
 - [CasaOS](https://trescout.com/discover/casaos/)
 - [Invidious](https://trescout.com/discover/invidious/)
 - [Omlx](https://trescout.com/discover/omlx/)
-- [Needle](https://trescout.com/discover/needle/)
+- [Lz4](https://trescout.com/discover/lz4/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

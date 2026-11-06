@@ -2,12 +2,13 @@
 
 Java diliyle geliştirilen Floci, yazılım geliştirme, test ve sürekli entegrasyon (CI) süreçleri için kullanılan açık kaynaklı (kaynak kodları herkesin erişimine açık) bir AWS yerel emülatörüdür. Bulut bilişim platformu AWS'nin sunduğu hizmetleri yerel ortamda taklit ederek geliştiricilere ücretsiz bir alternatif sunar.
 
-- ★ 28.992
+- ★ 30.546
 - Java
 - GitHub Trending · 2026-11-04
 
 ## Güncelleme
 
+- **6 Kasım 2026:** Yıldız 28.992 → 30.546, son sürüm 2.4.0 (31 Ekim 2026).
 - **4 Kasım 2026:** Yıldız 28.976 → 28.992, son sürüm 2.4.0 (31 Ekim 2026).
 
 ## Ne kazandırır?

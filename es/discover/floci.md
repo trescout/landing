@@ -2,12 +2,13 @@
 
 Desarrollado en Java, Floci es un emulador local de AWS de código abierto (código fuente accesible para todos) utilizado para el desarrollo de software, pruebas y procesos de integración continua (CI). Ofrece a los desarrolladores una alternativa gratuita al imitar localmente los servicios ofrecidos por la plataforma de computación en la nube AWS.
 
-- ★ 28.992
+- ★ 30.546
 - Java
 - GitHub Trending · 2026-11-04
 
 ## Actualizaciones
 
+- **6 de noviembre de 2026:** Estrellas 28,992 → 30,546, última versión 2.4.0 (31 de octubre de 2026).
 - **4 de noviembre de 2026:** Estrellas 28,976 → 28,992, última versión 2.4.0 (31 de octubre de 2026).
 
 ## Qué aporta

@@ -2,12 +2,13 @@
 
 Tailcat apporte la fonctionnalité netcat classique à la couche maillée VPN Tailscale, offrant un transfert de données sécurisé sans nécessiter de plan de contrôle ou de port ouvert.
 
-- ★ 7 746
+- ★ 8 753
 - Go
 - GitHub Trending · 2026-08-28
 
 ## Mises à jour
 
+- **6 novembre 2026:** Étoiles 7,746 → 8,753, dernière version v0.7.0 (20 septembre 2026).
 - **27 septembre 2026:** Étoiles 2,435 → 7,746, dernière version v0.7.0 (20 septembre 2026).
 
 ## Ce que ça vous apporte

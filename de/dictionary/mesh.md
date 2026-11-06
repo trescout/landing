@@ -62,10 +62,10 @@ Mesh-Kits für den Heimgebrauch werden in der Regel innerhalb weniger Minuten ü
 
 - [Bitchat](https://trescout.com/de/discover/bitchat/)
 - [Meshery](https://trescout.com/de/discover/meshery/)
+- [Tailcat](https://trescout.com/de/discover/tailcat/)
 - [Meshoptimizer](https://trescout.com/de/discover/meshoptimizer/)
 - [Modly](https://trescout.com/de/discover/modly/)
 - [Bitchat Android](https://trescout.com/de/discover/bitchat-android/)
-- [Tailcat](https://trescout.com/de/discover/tailcat/)
 - [Spirula Studio](https://trescout.com/de/discover/spirula-studio/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/mesh/)
