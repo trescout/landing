@@ -2,11 +2,12 @@
 
 elayadesign/ai-design-skills propose une collection de compétences en design composée d'un fichier de règles au format markdown que les outils de codage par IA (Claude Code, Cursor, Codex, Windsurf) peuvent lire. Ce projet fournit une ressource de référence pour les outils assistés par IA afin de standardiser les processus de design.
 
-- ★ 13 412
+- ★ 14 450
 - GitHub Trending · 2026-10-28
 
 ## Mises à jour
 
+- **6 novembre 2026:** Étoiles 13,412 → 14,450.
 - **2 novembre 2026:** Étoiles 12,378 → 13,412.
 - **30 octobre 2026:** Étoiles 11,349 → 12,378.
 - **29 octobre 2026:** Étoiles 9,826 → 11,349.

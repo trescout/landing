@@ -2,12 +2,13 @@
 
 Uber tarafından geliştirilen ADR, kurumsal yapay zekâ ajanlarını gözlemlenebilirlik, güvenlik kıyaslaması ve tehdit algılama yöntemleriyle koruma altına alıyor. Yazılım, yapay zekâ sistemlerinin güvenliğini artırmak için geliştirilmiş bir güvenlik çerçevesi (framework) sunuyor.
 
-- ★ 1.123
+- ★ 2.125
 - Python
 - GitHub Trending · 2026-08-05
 
 ## Güncelleme
 
+- **6 Kasım 2026:** Yıldız 1.123 → 2.125, son sürüm sensor-v1.0.0 (31 Temmuz 2026).
 - **6 Ağustos 2026:** Yıldız 782 → 1.123, son sürüm sensor-v1.0.0 (31 Temmuz 2026).
 
 ## Ne kazandırır?

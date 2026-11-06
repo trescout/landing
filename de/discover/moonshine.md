@@ -2,16 +2,16 @@
 
 Moonshine bietet Sprach-zu-Text-, Absichtserkennungs- und Text-zu-Sprache-Funktionen mit geringer Latenz für Sprachschnittstellen und Agenten der künstlichen Intelligenz. Diese in der Sprache C++ entwickelte Bibliothek zielt darauf ab, Echtzeit-Audioverarbeitungsprozesse zu optimieren.
 
-- ★ 10.945
+- ★ 11.422
 - C++
 - GitHub Trending · 2026-07-21
 
 ## Aktualisierungen
 
+- **6. November 2026:** Sterne 10,945 → 11,422, neueste Version v0.1.6 (6. November 2026).
 - **27. August 2026:** Sterne 10,886 → 10,945, neueste Version v0.1.5 (24. August 2026).
 - **18. August 2026:** Sterne 10,853 → 10,886, neueste Version v0.1.3 (18. August 2026).
 - **15. August 2026:** Sterne 10,671 → 10,853, neueste Version v0.1.2 (13. August 2026).
-- **7. August 2026:** Sterne 10,579 → 10,671, neueste Version v0.1.1 (7. August 2026).
 
 ## Was es bringt
 

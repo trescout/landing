@@ -2,12 +2,13 @@
 
 ADR wurde von Uber entwickelt und schützt KI-Agenten von Unternehmen mit Observability-, Sicherheits-Benchmarking- und Bedrohungserkennungsmethoden. Die Software bietet ein Sicherheitsframework, das entwickelt wurde, um die Sicherheit von Systemen der künstlichen Intelligenz zu erhöhen.
 
-- ★ 1.123
+- ★ 2.125
 - Python
 - GitHub Trending · 2026-08-05
 
 ## Aktualisierungen
 
+- **6. November 2026:** Sterne 1,123 → 2,125, neueste Version sensor-v1.0.0 (31. Juli 2026).
 - **6. August 2026:** Sterne 782 → 1,123, neueste Version sensor-v1.0.0 (31. Juli 2026).
 
 ## Was es bringt

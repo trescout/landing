@@ -2,12 +2,13 @@
 
 Desarrollado por Uber, ADR protege a los agentes corporativos de IA con observabilidad, evaluaciones comparativas de seguridad y métodos de detección de amenazas. El software ofrece un marco de seguridad desarrollado para aumentar la seguridad de los sistemas de inteligencia artificial.
 
-- ★ 1.123
+- ★ 2.125
 - Python
 - GitHub Trending · 2026-08-05
 
 ## Actualizaciones
 
+- **6 de noviembre de 2026:** Estrellas 1,123 → 2,125, última versión sensor-v1.0.0 (31 de julio de 2026).
 - **6 de agosto de 2026:** Estrellas 782 → 1,123, última versión sensor-v1.0.0 (31 de julio de 2026).
 
 ## Qué aporta

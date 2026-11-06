@@ -2,16 +2,16 @@
 
 Moonshine ofrece voz a texto de baja latencia, reconocimiento de intenciones y capacidades de texto a voz para interfaces de voz y agentes de inteligencia artificial. Esta biblioteca, desarrollada en lenguaje C++, tiene como objetivo optimizar los procesos de procesamiento de audio en tiempo real.
 
-- ★ 10.945
+- ★ 11.422
 - C++
 - GitHub Trending · 2026-07-21
 
 ## Actualizaciones
 
+- **6 de noviembre de 2026:** Estrellas 10,945 → 11,422, última versión v0.1.6 (6 de noviembre de 2026).
 - **27 de agosto de 2026:** Estrellas 10,886 → 10,945, última versión v0.1.5 (24 de agosto de 2026).
 - **18 de agosto de 2026:** Estrellas 10,853 → 10,886, última versión v0.1.3 (18 de agosto de 2026).
 - **15 de agosto de 2026:** Estrellas 10,671 → 10,853, última versión v0.1.2 (13 de agosto de 2026).
-- **7 de agosto de 2026:** Estrellas 10,579 → 10,671, última versión v0.1.1 (7 de agosto de 2026).
 
 ## Qué aporta
 

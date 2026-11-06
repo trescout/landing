@@ -2301,14 +2301,14 @@
     "slug": "compound-engineering-plugin",
     "title": "Compound Engineering",
     "tagline": "Her işin bir sonrakini kolaylaştırdığı, yapay zekâ destekli mühendislik eklentisi (Claude Code/Codex/Cursor).",
-    "meta": "★ 25.948 · MIT",
+    "meta": "★ 25.949 · MIT",
     "source": "GitHub",
     "date": "2026-05-29",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 25948,
+    "stars": 25949,
     "image": "/assets/discover/og/compound-engineering-plugin.webp",
     "headline": "Yapay zekâ destekli mühendislik süreçleri",
     "last_review": "2026-11-06",
@@ -2543,6 +2543,13 @@
         "onceki_yildiz": 25927,
         "surum": "compound-engineering-v3.36.0",
         "surum_tarihi": "2026-11-05"
+      },
+      {
+        "tarih": "2026-11-06",
+        "yildiz": 25949,
+        "onceki_yildiz": 25948,
+        "surum": "compound-engineering-v3.36.1",
+        "surum_tarihi": "2026-11-06"
       }
     ],
     "tagline_en": "AI-powered engineering plugin (Claude Code/Codex/Cursor) where each job makes the next one easier.",
@@ -17727,7 +17734,7 @@
     "slug": "orca",
     "title": "Orca",
     "tagline": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme…",
-    "meta": "★ 116.907 · TypeScript",
+    "meta": "★ 117.093 · TypeScript",
     "image": "/assets/discover/og/orca.webp",
     "source": "GitHub",
     "date": "2026-06-25",
@@ -17735,7 +17742,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 116907,
+    "stars": 117093,
     "lite": false,
     "headline": "Birden fazla yapay zekâ ajanı yönetin",
     "last_review": "2026-11-06",
@@ -18145,6 +18152,13 @@
         "onceki_yildiz": 115722,
         "surum": "v1.4.250",
         "surum_tarihi": "2026-11-05"
+      },
+      {
+        "tarih": "2026-11-06",
+        "yildiz": 117093,
+        "onceki_yildiz": 116907,
+        "surum": "v1.4.251",
+        "surum_tarihi": "2026-11-06"
       }
     ],
     "tagline_en": "Developed by Stablyai, Orca is an agent development tool that allows managing multiple artificial intelligence agents simultaneously.",
@@ -30302,7 +30316,7 @@
     "slug": "moonshine",
     "title": "Moonshine",
     "tagline": "Moonshine, sesli arayüzler ve yapay zekâ ajanları için düşük gecikmeli konuşmayı metne dönüştürme (speech to text), niyet…",
-    "meta": "★ 10.945 · C++",
+    "meta": "★ 11.422 · C++",
     "image": "/assets/discover/og/moonshine.webp",
     "source": "GitHub",
     "date": "2026-07-21",
@@ -30310,7 +30324,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 10945,
+    "stars": 11422,
     "lite": false,
     "headline": "Gerçek zamanlı yapay zekâ ses araçları",
     "last_review": "2026-11-06",
@@ -30349,6 +30363,13 @@
         "onceki_yildiz": 10886,
         "surum": "v0.1.5",
         "surum_tarihi": "2026-08-24"
+      },
+      {
+        "tarih": "2026-11-06",
+        "yildiz": 11422,
+        "onceki_yildiz": 10945,
+        "surum": "v0.1.6",
+        "surum_tarihi": "2026-11-06"
       }
     ],
     "tagline_en": "Moonshine is a low-latency speech-to-text, intent…",
@@ -36297,7 +36318,7 @@
     "slug": "adr",
     "title": "ADR",
     "tagline": "Uber tarafından geliştirilen ADR, kurumsal yapay zekâ ajanlarını gözlemlenebilirlik, güvenlik kıyaslaması ve tehdit algılama…",
-    "meta": "★ 1.123 · Python",
+    "meta": "★ 2.125 · Python",
     "image": "/assets/discover/og/adr.webp",
     "source": "GitHub",
     "date": "2026-08-05",
@@ -36305,7 +36326,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1123,
+    "stars": 2125,
     "lite": false,
     "headline": "Kurumsal yapay zekâ ajanları için güvenlik",
     "last_review": "2026-11-06",
@@ -36314,6 +36335,13 @@
         "tarih": "2026-08-06",
         "yildiz": 1123,
         "onceki_yildiz": 782,
+        "surum": "sensor-v1.0.0",
+        "surum_tarihi": "2026-07-31"
+      },
+      {
+        "tarih": "2026-11-06",
+        "yildiz": 2125,
+        "onceki_yildiz": 1123,
         "surum": "sensor-v1.0.0",
         "surum_tarihi": "2026-07-31"
       }
@@ -51329,7 +51357,7 @@
     "slug": "worktrunk",
     "title": "Worktrunk",
     "tagline": "Worktrunk, Git çalışma ağacı (worktree) yönetimini kolaylaştıran, Rust diliyle yazılmış bir komut satırı arayüzü (CLI).",
-    "meta": "★ 10.618 · Rust",
+    "meta": "★ 11.673 · Rust",
     "image": "/assets/discover/og/worktrunk.webp",
     "source": "GitHub",
     "date": "2026-09-13",
@@ -51337,7 +51365,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 10618,
+    "stars": 11673,
     "summary": "Worktrunk, Git çalışma ağacı (worktree) yönetimini kolaylaştıran, Rust diliyle yazılmış bir komut satırı arayüzü (CLI). Özellikle paralel yapay zekâ ajanı iş akışlarını desteklemek için geliştirilen bu araç, aynı anda birden fazla görev üzerinde çalışmayı hızlandırıyor.",
     "lite": false,
     "headline": "Git çalışma ağaçlarını yönetin",
@@ -51382,6 +51410,13 @@
         "tarih": "2026-11-04",
         "yildiz": 10618,
         "onceki_yildiz": 9348,
+        "surum": "v0.81.0",
+        "surum_tarihi": "2026-10-20"
+      },
+      {
+        "tarih": "2026-11-06",
+        "yildiz": 11673,
+        "onceki_yildiz": 10618,
         "surum": "v0.81.0",
         "surum_tarihi": "2026-10-20"
       }
@@ -58313,7 +58348,7 @@
     "slug": "microduck",
     "title": "Microduck",
     "tagline": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek…",
-    "meta": "★ 13.486 · Rust",
+    "meta": "★ 13.496 · Rust",
     "image": "/assets/discover/og/microduck.webp",
     "source": "GitHub",
     "date": "2026-10-25",
@@ -58321,7 +58356,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13486,
+    "stars": 13496,
     "last_seen": "2026-10-26",
     "summary": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek robot projesidir. Rust diliyle yazılan yazılım, yapay zekâ politikaları (neural policies) üzerinden on beş servoyu yöneterek robotun hareket ve kontrol süreçlerini yürütür.",
     "lite": false,
@@ -58378,6 +58413,13 @@
         "onceki_yildiz": 13454,
         "surum": "daemon-v0.18.6",
         "surum_tarihi": "2026-11-05"
+      },
+      {
+        "tarih": "2026-11-06",
+        "yildiz": 13496,
+        "onceki_yildiz": 13486,
+        "surum": "daemon-v0.18.7",
+        "surum_tarihi": "2026-11-06"
       }
     ],
     "tagline_en": "Developed by Pollen Robotics, microduck is a 25-centimeter bipedal duck powered by the Rockchip RK3566 processor…",
@@ -58767,7 +58809,7 @@
     "slug": "ai-design-skills",
     "title": "AI Design Skills",
     "tagline": "elayadesign/ai-design-skills, yapay zekâ kodlama araçlarının (Claude Code, Cursor, Codex, Windsurf) okuyabildiği markdown…",
-    "meta": "★ 13.412",
+    "meta": "★ 14.450",
     "image": "/assets/discover/og/ai-design-skills.webp",
     "source": "GitHub",
     "date": "2026-10-28",
@@ -58775,7 +58817,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13412,
+    "stars": 14450,
     "last_seen": "2026-10-30",
     "summary": "elayadesign/ai-design-skills, yapay zekâ kodlama araçlarının (Claude Code, Cursor, Codex, Windsurf) okuyabildiği markdown kurallar dosyasından oluşan bir tasarım becerileri koleksiyonu sunuyor. Bu proje, tasarım süreçlerini standartlaştırmak için yapay zekâ destekli araçlara yönelik rehber niteliğinde bir kaynak sağlıyor.",
     "lite": false,
@@ -58801,6 +58843,11 @@
         "tarih": "2026-11-02",
         "yildiz": 13412,
         "onceki_yildiz": 12378
+      },
+      {
+        "tarih": "2026-11-06",
+        "yildiz": 14450,
+        "onceki_yildiz": 13412
       }
     ]
   },
