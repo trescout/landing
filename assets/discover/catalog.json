@@ -51,14 +51,14 @@
     "slug": "ecc",
     "title": "ECC",
     "tagline": "Claude Code, Codex ve Cursor gibi yapay zekâ ajanlarına beceri, hafıza ve güvenlik katmanı ekleyin.",
-    "meta": "★ 284.483 · MIT",
+    "meta": "★ 298.752 · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 284483,
+    "stars": 298752,
     "image": "/assets/discover/og/ecc.webp",
     "headline": "Yapay zekâ ajanlarınıza güç katın",
     "last_review": "2026-11-07",
@@ -109,6 +109,13 @@
         "tarih": "2026-10-20",
         "yildiz": 284483,
         "onceki_yildiz": 270891,
+        "surum": "v2.2.3",
+        "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-11-07",
+        "yildiz": 298752,
+        "onceki_yildiz": 284483,
         "surum": "v2.2.3",
         "surum_tarihi": "2026-10-01"
       }
@@ -4453,14 +4460,14 @@
     "slug": "pi-subagents",
     "title": "Pi Subagents",
     "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
-    "meta": "★ 4.138 · Lisans: yok",
+    "meta": "★ 4.143 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4138,
+    "stars": 4143,
     "image": "/assets/discover/og/pi-subagents.webp",
     "headline": "Yapay zekâ ile asenkron görev yönetimi",
     "last_review": "2026-11-07",
@@ -4793,6 +4800,13 @@
         "onceki_yildiz": 4135,
         "surum": "v0.86.0",
         "surum_tarihi": "2026-11-05"
+      },
+      {
+        "tarih": "2026-11-07",
+        "yildiz": 4143,
+        "onceki_yildiz": 4138,
+        "surum": "v0.87.0",
+        "surum_tarihi": "2026-11-07"
       }
     ],
     "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform.",
@@ -40830,14 +40844,14 @@
     "slug": "holehe",
     "title": "Holehe",
     "tagline": "Holehe, girilen bir e-posta adresinin Twitter ve Instagram gibi popüler platformlarda kullanılıp kullanılmadığını sorgulayan…",
-    "meta": "★ 14.563 · Python",
+    "meta": "★ 15.563 · Python",
     "image": "/assets/discover/og/holehe.webp",
     "source": "GitHub",
     "date": "2026-08-14",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 14563,
+    "stars": 15563,
     "lite": false,
     "headline": "E-posta ile kayıtlı hesapları bulun",
     "tagline_en": "Holehe questions whether an entered e-mail address is used on popular platforms such as Twitter and Instagram.",
@@ -40856,6 +40870,11 @@
         "tarih": "2026-09-01",
         "yildiz": 14563,
         "onceki_yildiz": 13530
+      },
+      {
+        "tarih": "2026-11-07",
+        "yildiz": 15563,
+        "onceki_yildiz": 14563
       }
     ],
     "last_seen": "2026-08-16"
@@ -44320,14 +44339,14 @@
     "slug": "sub2api",
     "title": "Sub2api",
     "tagline": "Sub2API, Claude, OpenAI, Gemini ve Grok aboneliklerine tek noktadan erişim ve maliyet paylaşımı sağlayan açık kaynaklı bir aracı hizmettir.",
-    "meta": "★ 45.041 · Go",
+    "meta": "★ 45.603 · Go",
     "image": "/assets/discover/og/sub2api.webp",
     "source": "GitHub",
     "date": "2026-08-23",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 45041,
+    "stars": 45603,
     "lite": false,
     "headline": "Yapay zekâ aboneliklerini tek merkezden yönetin",
     "last_review": "2026-11-07",
@@ -44492,6 +44511,13 @@
         "onceki_yildiz": 44674,
         "surum": "v0.2.19",
         "surum_tarihi": "2026-10-28"
+      },
+      {
+        "tarih": "2026-11-07",
+        "yildiz": 45603,
+        "onceki_yildiz": 45041,
+        "surum": "v0.2.20",
+        "surum_tarihi": "2026-11-07"
       }
     ],
     "tagline_en": "Sub2API is an open-source relay service that provides unified access to Claude, OpenAI, Gemini, and Grok subscriptions, with support for cost sharing.",

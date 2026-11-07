@@ -2,12 +2,13 @@
 
 Holehe, girilen bir e-posta adresinin Twitter ve Instagram gibi popüler platformlarda kullanılıp kullanılmadığını sorgulayan bir Python aracıdır. Parola sıfırlama işlevlerini kullanarak ilgili e-posta ile ilişkilendirilmiş hesap bilgilerini tespit eder.
 
-- ★ 14.563
+- ★ 15.563
 - Python
 - GitHub Trending · 2026-08-14
 
 ## Güncelleme
 
+- **7 Kasım 2026:** Yıldız 14.563 → 15.563.
 - **1 Eylül 2026:** Yıldız 13.530 → 14.563.
 - **18 Ağustos 2026:** Yıldız 12.498 → 13.530.
 
