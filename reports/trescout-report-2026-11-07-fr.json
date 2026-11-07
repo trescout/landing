@@ -1,0 +1,945 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-07",
+  "capturedAt": "2026-11-07T05:05:07.972Z",
+  "editorial": "L'interaction entre les outils de développement logiciel et les modèles d'intelligence artificielle est aujourd'hui façonnée principalement par des optimisations axées sur la productivité et l'expérience des développeurs. En particulier, l'atteinte de taux de précision élevés à moindre coût par les grands modèles de langage (large language models) et les techniques de compression de contexte latent (latent context compression) dans les architectures d'agents sont au cœur des débats techniques du secteur.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "zed-industries/zed",
+          "url": "https://github.com/zed-industries/zed",
+          "summary": "Zed est un éditeur de code haute performance et multijoueur, développé en langage Rust par les créateurs d'Atom et de Tree-sitter. Il vise à offrir une expérience axée sur la vitesse dans les processus de développement logiciel.",
+          "meta": "Rust · ★ 93 767 · +306 aujourd'hui",
+          "snapshot": {
+            "sourceId": "zed-industries/zed",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 93767,
+              "engagementCount": 306,
+              "rank": 1,
+              "extra": {
+                "starsToday": 306
+              }
+            },
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+          }
+        },
+        {
+          "title": "NVIDIA/auto-ontology",
+          "url": "https://github.com/NVIDIA/auto-ontology",
+          "summary": "Auto-ontology, développé par NVIDIA, est un framework Python permettant de créer des couches de raisonnement sémantique et basées sur des graphes (graph-based) sur les données. Il offre une génération de requêtes déterministes, une meilleure récupération de contexte et des processus d'intelligence artificielle explicable pour les grands modèles de langage (LLM) et les flux de travail des agents d'IA.",
+          "meta": "Python · ★ 9 253 · +2 015 aujourd'hui",
+          "snapshot": {
+            "sourceId": "NVIDIA/auto-ontology",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 9253,
+              "engagementCount": 2015,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2015
+              }
+            },
+            "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
+          }
+        },
+        {
+          "title": "rails/rails",
+          "url": "https://github.com/rails/rails",
+          "summary": "Ruby on Rails est un framework d'application web basé sur l'architecture Modèle-Vue-Contrôleur (Model-View-Controller), utilisé pour développer des applications web pilotées par base de données. Il vise à standardiser les processus en offrant aux développeurs tous les outils dont ils ont besoin au même endroit.",
+          "meta": "Ruby · ★ 59 048 · +142 aujourd'hui",
+          "snapshot": {
+            "sourceId": "rails/rails",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 59048,
+              "engagementCount": 142,
+              "rank": 3,
+              "extra": {
+                "starsToday": 142,
+                "baglam": "readme"
+              }
+            },
+            "description": "Ruby on Rails. Rails is a web application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern."
+          }
+        },
+        {
+          "title": "mpv-player/mpv",
+          "url": "https://github.com/mpv-player/mpv",
+          "summary": "mpv est un lecteur multimédia gratuit et open source fonctionnant via la ligne de commande. Il prend en charge un grand nombre de formats de fichiers multimédias, de codecs audio et vidéo, ainsi que de types de sous-titres.",
+          "meta": "C · ★ 37 918 · +37 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mpv-player/mpv",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 37918,
+              "engagementCount": 37,
+              "rank": 4,
+              "extra": {
+                "starsToday": 37,
+                "baglam": "readme"
+              }
+            },
+            "description": "🎥 Command line media player. mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types."
+          }
+        },
+        {
+          "title": "rust-lang/rust",
+          "url": "https://github.com/rust-lang/rust",
+          "summary": "Rust est le dépôt de code source principal du langage de programmation système Rust, qui vise à développer des logiciels fiables et efficaces. Ce dépôt héberge le compilateur du langage, sa bibliothèque standard et la documentation associée.",
+          "meta": "Rust · ★ 121 503 · +192 aujourd'hui",
+          "snapshot": {
+            "sourceId": "rust-lang/rust",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 121503,
+              "engagementCount": 192,
+              "rank": 5,
+              "extra": {
+                "starsToday": 192,
+                "baglam": "readme"
+              }
+            },
+            "description": "Empowering everyone to build reliable and efficient software. This is the main source code repository for [Rust]. It contains the compiler, standard library, and documentation."
+          }
+        },
+        {
+          "title": "react/react",
+          "url": "https://github.com/react/react",
+          "summary": "React, une bibliothèque JavaScript permettant de créer des interfaces utilisateur web et natives, est conçue pour faciliter les processus de développement d'interfaces. Cette bibliothèque offre aux développeurs la possibilité de construire des interfaces utilisateur complexes dans une structure plus organisée.",
+          "meta": "JavaScript · ★ 252 295 · +248 aujourd'hui",
+          "snapshot": {
+            "sourceId": "react/react",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 252295,
+              "engagementCount": 248,
+              "rank": 6,
+              "extra": {
+                "starsToday": 248,
+                "baglam": "readme"
+              }
+            },
+            "description": "The library for web and native user interfaces. React is a JavaScript library for building user interfaces."
+          }
+        },
+        {
+          "title": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "summary": "Angular est un framework basé sur TypeScript utilisé pour développer des applications web. Il offre aux développeurs un large support documentaire, allant des concepts fondamentaux aux sujets avancés, leur permettant de déployer des applications en toute confiance.",
+          "meta": "TypeScript · ★ 101 409 · +135 aujourd'hui",
+          "snapshot": {
+            "sourceId": "angular/angular",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 101409,
+              "engagementCount": 135,
+              "rank": 7,
+              "extra": {
+                "starsToday": 135,
+                "baglam": "readme"
+              }
+            },
+            "description": "Deliver web apps with confidence 🚀. Get started with Angular, learn the fundamentals and explore advanced topics on our documentation website."
+          }
+        },
+        {
+          "title": "symfony/symfony",
+          "url": "https://github.com/symfony/symfony",
+          "summary": "Symfony est un framework PHP utilisé pour développer des applications web et console. Offrant des composants PHP réutilisables, cette structure est à la base de nombreux projets web populaires.",
+          "meta": "PHP · ★ 31 466 · +128 aujourd'hui",
+          "snapshot": {
+            "sourceId": "symfony/symfony",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "PHP",
+              "popularity": 31466,
+              "engagementCount": 128,
+              "rank": 8,
+              "extra": {
+                "starsToday": 128,
+                "baglam": "readme"
+              }
+            },
+            "description": "The Symfony PHP framework. Symfony is a PHP framework for web and console applications and a set of reusable PHP components. Symfony is used by thousands of web applications and most of the popular PHP projects."
+          }
+        },
+        {
+          "title": "prometheus/prometheus",
+          "url": "https://github.com/prometheus/prometheus",
+          "summary": "Prometheus est un outil de surveillance qui assure le suivi des systèmes et des services ainsi que la gestion de bases de données de séries temporelles (time series database). Le système, qui collecte des métriques auprès des cibles à intervalles définis, évalue les règles, affiche les résultats et peut générer des alertes dans des conditions définies.",
+          "meta": "Go · ★ 67 225 · +148 aujourd'hui",
+          "snapshot": {
+            "sourceId": "prometheus/prometheus",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 67225,
+              "engagementCount": 148,
+              "rank": 9,
+              "extra": {
+                "starsToday": 148,
+                "baglam": "readme"
+              }
+            },
+            "description": "The Prometheus monitoring system and time series database. Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts when specified conditions are observed."
+          }
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Skills, proposé par Google, contient des packs de compétences (skills) destinés aux agents d'intelligence artificielle pour les produits Google et les technologies telles que Google Cloud. Ce dépôt, développé en langage Python, vise à standardiser l'utilisation des services Google dans les flux de travail basés sur des agents.",
+          "meta": "Python · ★ 22 918 · +534 aujourd'hui",
+          "snapshot": {
+            "sourceId": "google/skills",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 22918,
+              "engagementCount": 534,
+              "rank": 10,
+              "extra": {
+                "starsToday": 534,
+                "baglam": "readme"
+              }
+            },
+            "description": "Agent Skills for Google products and technologies. This repository contains Agent Skills for Google products and technologies, including Google Cloud."
+          }
+        },
+        {
+          "title": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "summary": "Visual Studio Code, développé par Microsoft, est un éditeur de code open source utilisé dans les processus de développement logiciel. Développée avec la communauté, cette plateforme est écrite en TypeScript et est mise à la disposition de tous sous licence MIT.",
+          "meta": "TypeScript · ★ 195 065 · +301 aujourd'hui",
+          "snapshot": {
+            "sourceId": "microsoft/vscode",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 195065,
+              "engagementCount": 301,
+              "rank": 11,
+              "extra": {
+                "starsToday": 301,
+                "baglam": "readme"
+              }
+            },
+            "description": "Visual Studio Code. This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here, but we also publish our roadmap, monthly iteration plans, and our endgame plans. This source code is available to everyone under the standard MIT license."
+          }
+        },
+        {
+          "title": "lz4/lz4",
+          "url": "https://github.com/lz4/lz4",
+          "summary": "lz4 est un algorithme de compression de données sans perte offrant une vitesse de compression supérieure à 500 mégaoctets par seconde et par cœur. Développé en langage C, cet outil inclut un décodeur haute vitesse capable d'atteindre les limites de vitesse de la mémoire sur les systèmes multicœurs.",
+          "meta": "C · ★ 12 642 · +315 aujourd'hui",
+          "snapshot": {
+            "sourceId": "lz4/lz4",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 12642,
+              "engagementCount": 315,
+              "rank": 12,
+              "extra": {
+                "starsToday": 315,
+                "baglam": "readme"
+              }
+            },
+            "description": "Extremely Fast Compression algorithm. LZ4 is a lossless compression algorithm, providing compression speed > 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with speed in multiple GB/s per core, typically reaching RAM speed limits on multi-core systems."
+          }
+        },
+        {
+          "title": "nushell/nushell",
+          "url": "https://github.com/nushell/nushell",
+          "summary": "Développé en langage Rust, nushell propose une nouvelle interface de ligne de commande (shell) qui traite les données comme des objets structurés. Ayant atteint le niveau de produit minimum viable (minimum-viable-product), ce projet est privilégié pour un usage quotidien, bien qu'il puisse présenter une certaine instabilité avec certaines commandes.",
+          "meta": "Rust · ★ 41 011 · +131 aujourd'hui",
+          "snapshot": {
+            "sourceId": "nushell/nushell",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 41011,
+              "engagementCount": 131,
+              "rank": 13,
+              "extra": {
+                "starsToday": 131,
+                "baglam": "readme"
+              }
+            },
+            "description": "A new type of shell. This project has reached a minimum-viable-product level of quality. Many people use it as their daily driver, but it may be unstable for some commands. Nu's design is subject to change as it matures."
+          }
+        },
+        {
+          "title": "etcd-io/etcd",
+          "url": "https://github.com/etcd-io/etcd",
+          "summary": "etcd est un magasin clé-valeur (key-value) fiable conçu pour stocker des données critiques dans les systèmes distribués. Développé en langage Go, ce système se concentre sur la garantie de la cohérence des données au sein des structures distribuées.",
+          "meta": "Go · ★ 52 633 · +128 aujourd'hui",
+          "snapshot": {
+            "sourceId": "etcd-io/etcd",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 52633,
+              "engagementCount": 128,
+              "rank": 14,
+              "extra": {
+                "starsToday": 128,
+                "baglam": "readme"
+              }
+            },
+            "description": "Distributed reliable key-value store for the most critical data of a distributed system. etcd is a distributed reliable key-value store for the most critical data of a distributed system, with a focus on being:"
+          }
+        },
+        {
+          "title": "openssl/openssl",
+          "url": "https://github.com/openssl/openssl",
+          "summary": "OpenSSL est une bibliothèque de sécurité à usage général utilisée pour chiffrer le trafic réseau. Il s'agit d'un outil logiciel open source prenant en charge les protocoles Transport Layer Security (TLS), Datagram TLS (DTLS) et QUIC.",
+          "meta": "C · ★ 31 323 · +26 aujourd'hui",
+          "snapshot": {
+            "sourceId": "openssl/openssl",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 31323,
+              "engagementCount": 26,
+              "rank": 15,
+              "extra": {
+                "starsToday": 26,
+                "baglam": "readme"
+              }
+            },
+            "description": "General purpose TLS and crypto library. OpenSSL is a robust, commercial-grade, full-featured Open Source Toolkit for the Transport Layer Security (TLS, formerly SSL), Datagram TLS (DTLS), and QUIC protocols."
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Mattpocock/skills est une collection de compétences d'agent (agent skills) d'intelligence artificielle utilisées dans les processus de développement logiciel et destinées à automatiser les tâches d'ingénierie quotidiennes. Le projet propose des outils visant à soutenir les flux de travail d'ingénierie du monde réel plutôt que des applications théoriques.",
+          "meta": "Shell · ★ 316 882 · +2 070 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 316882,
+              "engagementCount": 2070,
+              "rank": 16,
+              "extra": {
+                "starsToday": 2070,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          }
+        },
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "Développé par Cloudflare, security-audit-skill est un pack de compétences qui transforme les agents d'IA rédacteurs de code (coding-agent) en auditeurs capables d'effectuer des audits de sécurité en plusieurs étapes. Cet outil gère des processus allant de la phase de découverte à la vérification indépendante des enregistrements, produisant ainsi des résultats de sécurité lisibles par machine.",
+          "meta": "JavaScript · ★ 64 333 · +2 548 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 64333,
+              "engagementCount": 2548,
+              "rank": 17,
+              "extra": {
+                "starsToday": 2548,
+                "baglam": "readme"
+              }
+            },
+            "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting."
+          }
+        },
+        {
+          "title": "astral-sh/ruff",
+          "url": "https://github.com/astral-sh/ruff",
+          "summary": "Ruff est un vérificateur de code (linter) et un formateur de code Python extrêmement rapide, développé avec le langage de programmation Rust. Il est utilisé dans les processus de développement logiciel pour améliorer la qualité du code et accélérer les opérations de formatage.",
+          "meta": "Rust · ★ 50 736 · +169 aujourd'hui",
+          "snapshot": {
+            "sourceId": "astral-sh/ruff",
+            "capturedAt": "2026-11-07T05:05:09.568Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 50736,
+              "engagementCount": 169,
+              "rank": 18,
+              "extra": {
+                "starsToday": 169,
+                "baglam": "readme"
+              }
+            },
+            "description": "An extremely fast Python linter and code formatter, written in Rust. An extremely fast Python linter and code formatter, written in Rust."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tesla to wind down Cybertruck production",
+          "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+          "summary": "Tesla prévoit de mettre fin à la production du Cybertruck dans son usine du Texas d'ici la mi-2027 en raison de faibles chiffres de vente. Le pick-up électrique, qui a trouvé sa place sur des marchés limités en raison de son design futuriste et de son poids, était positionné comme un concurrent des modèles de pick-up traditionnels.",
+          "meta": "924 votes · 1 778 commentaires",
+          "snapshot": {
+            "sourceId": "50391456",
+            "capturedAt": "2026-11-07T05:05:08.651Z",
+            "metadata": {
+              "popularity": 924,
+              "engagementCount": 1778,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50391456",
+                  "popularity": 924,
+                  "engagementCount": 1778
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-06T12:13:51Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50391456",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Tesla will wind down Cybertruck production at its Texas gigafactory around mid-2027, CEO Elon Musk said on Friday, after years of persistently weak sales for a futuristic model once touted as a rival to legacy pickup trucks that ultimately only sold in just a handful of markets because of its heavy, angular design."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50391456",
+              "popularity": 924,
+              "engagementCount": 1778
+            }
+          ]
+        },
+        {
+          "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+          "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+          "summary": "Une méthode permettant à un modèle d'IA plus petit d'obtenir l'aide d'Opus pour des tâches complexes offre des taux de précision similaires pour un coût quatre fois inférieur. Cette approche vise à augmenter l'efficacité en optimisant l'utilisation des modèles à coût élevé.",
+          "meta": "399 votes · 90 commentaires",
+          "snapshot": {
+            "sourceId": "50397429",
+            "capturedAt": "2026-11-07T05:05:08.651Z",
+            "metadata": {
+              "popularity": 399,
+              "engagementCount": 90,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50397429",
+                  "popularity": 399,
+                  "engagementCount": 90
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-06T19:48:51Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50397429"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50397429",
+              "popularity": 399,
+              "engagementCount": 90
+            }
+          ]
+        },
+        {
+          "title": "Libghostty 1.0",
+          "url": "https://mitchellh.com/writing/libghostty-1-0",
+          "summary": "Libghostty 1.0 a été publié en tant que bibliothèque permettant d'intégrer les fonctionnalités de base de l'émulateur de terminal Ghostty dans différentes applications. Cette version offre une interface stable nécessaire aux développeurs pour inclure les capacités du terminal dans leurs propres logiciels.",
+          "meta": "397 votes · 65 commentaires",
+          "snapshot": {
+            "sourceId": "50399933",
+            "capturedAt": "2026-11-07T05:05:08.651Z",
+            "metadata": {
+              "popularity": 397,
+              "engagementCount": 65,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50399933",
+                  "popularity": 397,
+                  "engagementCount": 65
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-06T23:30:52Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50399933"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50399933",
+              "popularity": 397,
+              "engagementCount": 65
+            }
+          ]
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "summary": "Gemini Omni 1.2 Flash, annoncé par Google, offre une meilleure cohérence ainsi que des capacités de création et d'édition vidéo natives de 15 secondes. Le modèle est mis à la disposition des développeurs avec une tarification 30 % inférieure à celle des versions précédentes.",
+          "meta": "308 votes · 222 commentaires",
+          "snapshot": {
+            "sourceId": "50392118",
+            "capturedAt": "2026-11-07T05:05:08.651Z",
+            "metadata": {
+              "popularity": 308,
+              "engagementCount": 222,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50392118",
+                  "popularity": 308,
+                  "engagementCount": 222
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-06T13:35:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50392118",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50392118",
+              "popularity": 308,
+              "engagementCount": 222
+            }
+          ]
+        },
+        {
+          "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+          "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+          "summary": "La Federal Aviation Administration (FAA) des États-Unis a annoncé qu'elle supprimerait progressivement les disquettes utilisées dans les systèmes de contrôle du trafic aérien d'ici 2028. L'agence vise à remplacer cette ancienne technologie de stockage de données par des systèmes numériques modernes.",
+          "meta": "304 votes · 245 commentaires",
+          "snapshot": {
+            "sourceId": "50388001",
+            "capturedAt": "2026-11-07T05:05:08.651Z",
+            "metadata": {
+              "popularity": 304,
+              "engagementCount": 245,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50388001",
+                  "popularity": 304,
+                  "engagementCount": 245
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-06T04:00:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50388001"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50388001",
+              "popularity": 304,
+              "engagementCount": 245
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "moonshotai/Kimi-K3.1-Pro",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "summary": "Kimi-K3.1-Pro, développé par Moonshot AI, est un modèle d'intelligence artificielle multimodal capable de traiter des données visuelles et textuelles. Entraîné sur la base du modèle Kimi K3 via un apprentissage par renforcement à grande échelle, ce modèle est présenté comme le premier membre de la série K3.1.",
+          "meta": "♥ 1 537 · 18 432 téléchargements",
+          "snapshot": {
+            "sourceId": "moonshotai/Kimi-K3.1-Pro",
+            "capturedAt": "2026-11-07T05:05:08.118Z",
+            "metadata": {
+              "popularity": 1537,
+              "engagementCount": 18432,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1015,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "kimi_k31",
+                  "text-generation",
+                  "compressed-tensors",
+                  "conversational",
+                  "image-text-to-text",
+                  "custom_code",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series."
+          }
+        },
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "speridlabs/idol est un modèle d'intelligence artificielle qui génère des données de splatting gaussien 3D (3D Gaussian splatting) à partir d'une seule image. Cet outil, qui nettoie l'arrière-plan pour encadrer l'objet, produit des sorties au format standard 3DGS .ply et peut fonctionner en moins de deux secondes sur des unités de traitement graphique grand public.",
+          "meta": "♥ 964 · 19 139 téléchargements",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-07T05:05:08.118Z",
+            "metadata": {
+              "popularity": 964,
+              "engagementCount": 19139,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 700,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          }
+        },
+        {
+          "title": "ccore/Qwen3.5-4B-3D-Coder",
+          "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+          "summary": "ccore/Qwen3.5-4B-3D-Coder est une expérience explorant l'applicabilité des petits modèles de langage (small language models) à l'écriture de code à usage général et à la création de scènes 3D de haute qualité. Le modèle propose une étude expérimentale visant à assurer l'efficacité dans ces deux domaines distincts.",
+          "meta": "♥ 799 · 190 243 téléchargements",
+          "snapshot": {
+            "sourceId": "ccore/Qwen3.5-4B-3D-Coder",
+            "capturedAt": "2026-11-07T05:05:08.118Z",
+            "metadata": {
+              "popularity": 799,
+              "engagementCount": 190243,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 416,
+                "tags": [
+                  "safetensors",
+                  "gguf",
+                  "qwen3_5",
+                  "code",
+                  "threejs",
+                  "3d",
+                  "preview",
+                  "dataset:ccore/ThreeJS-3D-Scenes",
+                  "base_model:Qwen/Qwen3.5-4B",
+                  "base_model:finetune:Qwen/Qwen3.5-4B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "An experiment exploring the feasibility of small language models for general-purpose coding and high-quality 3D scene generation."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Lightricks/LTX-2.5, partagé sur Hugging Face, est un modèle d'intelligence artificielle image-vers-vidéo qui transforme des images statiques en vidéos animées. Permettant aux utilisateurs de convertir leurs contenus visuels en vidéos dynamiques, ce modèle suscite un grand intérêt sur la plateforme.",
+          "meta": "♥ 10 885 · 2 607 491 téléchargements",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-07T05:05:08.118Z",
+            "metadata": {
+              "popularity": 10885,
+              "engagementCount": 2607491,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 386,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        },
+        {
+          "title": "burner22/numbat",
+          "url": "https://huggingface.co/burner22/numbat",
+          "summary": "Numbat, partagé sur Hugging Face, est un point de contrôle de modèle d'intelligence artificielle doté de 14 billions de paramètres et d'une architecture hybride. Mentionné dans le code source de Claude Code, ce modèle représente une étape intermédiaire d'un processus d'entraînement mené par Anthropic.",
+          "meta": "♥ 373 · 9 066 téléchargements",
+          "snapshot": {
+            "sourceId": "burner22/numbat",
+            "capturedAt": "2026-11-07T05:05:08.118Z",
+            "metadata": {
+              "popularity": 373,
+              "engagementCount": 9066,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 337,
+                "tags": [
+                  "safetensors",
+                  "numbat",
+                  "custom_code",
+                  "8-bit",
+                  "modelopt",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "14T param, 114 layers, hybrid GDN/MLA, MoE (1,224 experts, top-48 + 1 shared), NVFP4. Internal codename numbat, Anthropic's next Mythos-class training run. numbat is the codename referenced in the Claude Code source leak (Mar 2026). This is a checkpoint from that training run, pulled mid-pretraining."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+          "url": "https://huggingface.co/papers/2611.06500",
+          "summary": "L'article partagé par Hugging Face traite de la manière dont les grands modèles de langage (LLM) traitent les sorties d'outils. Il propose de traiter les données des outils via une méthode de compression de contexte latent (latent context compression) au lieu du texte, afin de réduire la distraction et la charge de données lors des interactions prolongées.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2611.06500",
+            "capturedAt": "2026-11-07T05:05:08.123Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06500",
+                "publishedAt": "2026-11-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/THU-Agent/Coca-cola",
+                "githubStars": 3
+              }
+            },
+            "description": "Large language model (LLM) agents typically append raw tool outputs to their context. Over multi-step interactions, long and noisy observations incur substantial context overhead and dilute the agent's attention to task-relevant information. Existing token pruning and summarization methods remain constrained by discrete text representations, limiting the achievable compression ratios. In this work, we challenge the prevailing assumption that agents must consume tool observations as explicit text"
+          }
+        },
+        {
+          "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+          "url": "https://huggingface.co/papers/2611.06498",
+          "summary": "L'article « Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation » examine le problème de l'incohérence entre le texte et le vecteur dans les méthodes de génération augmentée par récupération (RAG) utilisées sur des appareils hors ligne. L'étude prouve que les vecteurs dans les paquets d'informations signés ne sont pas compatibles avec le texte et analyse comment cet écart peut être exploité par des attaquants.",
+          "meta": "1 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2611.06498",
+            "capturedAt": "2026-11-07T05:05:08.123Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06498",
+                "publishedAt": "2026-11-04T13:32:04.000Z",
+                "githubRepo": "https://github.com/securagenai/signed-but-steerable",
+                "githubStars": 0
+              }
+            },
+            "description": "Offline retrieval-augmented generation (RAG) on edge devices is updated through signed knowledge packs that carry text and precomputed embedding vectors. A signature proves who published a pack, not that its vectors encode its text. We study this text-vector integrity gap. A verifier that recomputes vectors and accepts them within a cosine tolerance concedes a predictable share of queries to an attacker who controls the vectors: the hijack rate equals the distribution of angular retrieval margin"
+          }
+        },
+        {
+          "title": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
+          "url": "https://huggingface.co/papers/2611.04386",
+          "summary": "StepX-OPD revisite le processus de distillation multi-enseignants sur politique (multi-teacher on-policy distillation) dans les modèles de diffusion générant des images à partir de texte. Cette méthode vise à améliorer l'efficacité des étapes d'échantillonnage en peu d'étapes en combinant des capacités telles que le suivi d'instructions et le traitement de texte.",
+          "meta": "3 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2611.04386",
+            "capturedAt": "2026-11-07T05:05:08.123Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.04386",
+                "publishedAt": "2026-11-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/WinterCCC/StepX-OPD",
+                "githubStars": 2
+              }
+            },
+            "description": "A deployable text-to-image diffusion model must hold several capabilities at once, such as instruction following, text rendering and human preference, and must sample in a few steps. Capabilities and few-step sampling are built in separate stages: a full-step model first consolidates capabilities through multi-teacher on-policy distillation, then serves as a fixed teacher for step distillation. Every full-step model we evaluate scores lower once compressed, and the second stage cannot begin unti"
+          }
+        },
+        {
+          "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+          "url": "https://huggingface.co/papers/2611.08483",
+          "summary": "SwarmEvolve est un cadre développé pour accélérer les processus de recherche évolutionnaire utilisés dans la résolution de problèmes mathématiques et computationnels. En utilisant des centaines d'agents à faible coût en essaim, il permet aux grands modèles de langage (LLM) de raisonner dans l'espace latent (latent space) au lieu de suivre des processus de réflexion basés sur le texte.",
+          "meta": "3 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2611.08483",
+            "capturedAt": "2026-11-07T05:05:08.123Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.08483",
+                "publishedAt": "2026-11-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/Qile-J/SwarmEvolve",
+                "githubStars": 0
+              }
+            },
+            "description": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decod"
+          }
+        },
+        {
+          "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+          "url": "https://huggingface.co/papers/2610.37739",
+          "summary": "OpenFrontiers, partagé par Hugging Face, est une ressource interdisciplinaire et un outil d'évaluation préparé pour mesurer les capacités de résolution de problèmes des grands modèles de langage (LLM) au niveau de la recherche scientifique. Le projet propose un corpus structuré de problèmes de recherche non résolus ainsi qu'un ensemble de tests incluant des problèmes mathématiques récemment résolus.",
+          "meta": "2 j'aime · 3 commentaires",
+          "snapshot": {
+            "sourceId": "2610.37739",
+            "capturedAt": "2026-11-07T05:05:08.123Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37739",
+                "publishedAt": "2026-10-27T00:00:00.000Z"
+              }
+            },
+            "description": "Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem statements, context, progress, and other informati"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "code editor",
+      "explanation": "Programme d'édition de texte spécialisé utilisé par les développeurs pour écrire, modifier et gérer du code informatique."
+    },
+    {
+      "term": "graph-based",
+      "explanation": "Méthode qui traite les relations entre les données sous la forme d'une structure de réseau interconnectée utilisant des nœuds et des lignes."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modèles d'intelligence artificielle avancés, entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "Model-View-Controller",
+      "explanation": "Structure architecturale qui permet à un logiciel de fonctionner de manière organisée en séparant ses données, sa partie visible par l'utilisateur et sa logique de fonctionnement."
+    },
+    {
+      "term": "framework",
+      "explanation": "Cadre d'infrastructure qui facilite le développement de logiciels en offrant un ensemble d'outils et de règles prêts à l'emploi."
+    },
+    {
+      "term": "codec",
+      "explanation": "Outil logiciel qui compresse les données audio ou vidéo pour en réduire la taille ou qui décompresse ces données pour permettre leur lecture."
+    },
+    {
+      "term": "native",
+      "explanation": "Applications écrites dans le langage natif d'un système d'exploitation et fonctionnant en parfaite compatibilité avec celui-ci."
+    },
+    {
+      "term": "time series database",
+      "explanation": "Type de base de données spécialisée qui enregistre les changements au fil du temps et stocke les données dans un ordre chronologique."
+    },
+    {
+      "term": "skills",
+      "explanation": "Packs de compétences spécialisées dont les agents d'intelligence artificielle ont besoin pour accomplir des tâches spécifiques."
+    },
+    {
+      "term": "shell",
+      "explanation": "Interface permettant à l'utilisateur d'interagir avec le système d'exploitation en saisissant des commandes textuelles sur l'ordinateur."
+    },
+    {
+      "term": "minimum-viable-product",
+      "explanation": "Première version d'un produit contenant ses fonctionnalités de base, lancée sur le marché pour recueillir les retours des utilisateurs."
+    },
+    {
+      "term": "key-value",
+      "explanation": "Méthode de stockage simple où les données sont enregistrées en étant associées à un nom, permettant ainsi de les rappeler rapidement grâce à ce nom."
+    },
+    {
+      "term": "TLS",
+      "explanation": "Protocole standard qui chiffre les données pour assurer la confidentialité et la sécurité des communications sur Internet."
+    },
+    {
+      "term": "DTLS",
+      "explanation": "Version adaptée du protocole TLS, conçue pour réduire la latence dans la transmission des données et permettre un fonctionnement plus rapide et ininterrompu."
+    },
+    {
+      "term": "open source",
+      "explanation": "Type de logiciel dont le code source est ouvert à l'examen, à la modification et à l'amélioration par tous."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Ensemble de capacités permettant aux agents d'intelligence artificielle d'effectuer automatiquement des tâches techniques telles que le développement de logiciels."
+    }
+  ]
+}
