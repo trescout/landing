@@ -36,6 +36,7 @@ Ja, aber Code-Editoren helfen Ihnen, Ihre Arbeit mit Funktionen wie Fehlererkenn
 ## Verwandte Werkzeuge
 
 - [Vscode](https://trescout.com/de/discover/vscode/)
+- [ZED](https://trescout.com/de/discover/zed/)
 - [Editor](https://trescout.com/de/discover/editor/)
 - [Palmier Pro](https://trescout.com/de/discover/palmier-pro/)
 - [Clypra](https://trescout.com/de/discover/clypra/)

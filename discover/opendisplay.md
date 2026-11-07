@@ -2,16 +2,16 @@
 
 OpenDisplay, iPhone veya iPad cihazlarını Mac bilgisayarlar için ikinci bir monitöre dönüştüren açık kaynaklı bir ekran genişletme aracıdır. USB veya kablosuz bağlantı üzerinden düşük gecikmeli görüntü aktarımı sağlayan uygulama, Apple'ın kendi çözümü olan Sidecar'a ücretsiz bir alternatif sunar.
 
-- ★ 6.051
+- ★ 6.235
 - Swift
 - GitHub Trending · 2026-09-15
 
 ## Güncelleme
 
+- **7 Kasım 2026:** Yıldız 6.051 → 6.235, son sürüm v1.30.2 (6 Kasım 2026).
 - **30 Ekim 2026:** Yıldız 5.960 → 6.051, son sürüm v1.30.1 (29 Ekim 2026).
 - **28 Ekim 2026:** Yıldız 5.940 → 5.960, son sürüm v1.30.0 (27 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 5.889 → 5.940, son sürüm v1.29.0 (27 Ekim 2026).
-- **25 Ekim 2026:** Yıldız 5.858 → 5.889, son sürüm v1.28.0 (24 Ekim 2026).
 
 ## Ne kazandırır?
 

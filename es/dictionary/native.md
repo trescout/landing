@@ -40,6 +40,7 @@ Por lo general, funcionan dentro de un navegador o a través de una capa de trad
 ## Herramientas relacionadas
 
 - [REA](https://trescout.com/es/discover/rea/)
+- [React](https://trescout.com/es/discover/react/)
 - [Meshery](https://trescout.com/es/discover/meshery/)
 - [Tinycast](https://trescout.com/es/discover/tinycast/)
 - [Stitch Skills](https://trescout.com/es/discover/stitch-skills/)

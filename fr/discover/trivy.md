@@ -76,8 +76,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [SBOM](https://trescout.com/fr/dictionary/sbom/)
 - [Root](https://trescout.com/fr/dictionary/root/)
 - [Workflows](https://trescout.com/fr/dictionary/workflows/)
-- [Database](https://trescout.com/fr/dictionary/database/)
 - [Binary](https://trescout.com/fr/dictionary/binary/)
+- [Database](https://trescout.com/fr/dictionary/database/)
 
 - **Pour qui:** Pour les ingénieurs qui souhaitent automatiser les audits de sécurité, les vérifications de clés secrètes et la génération SBOM dans leurs processus de développement et de déploiement de logiciels.
 - **Licence:** Apache-2.0 (Licence Open source avec une large liberté)

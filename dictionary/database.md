@@ -41,6 +41,7 @@ Hayır, verinin türüne göre (tablolar veya belgeler) farklı veritabanı tipl
 ## İlgili araçlar
 
 - [Supabase](https://trescout.com/discover/supabase/)
+- [Prometheus](https://trescout.com/discover/prometheus/)
 - [Trivy](https://trescout.com/discover/trivy/)
 - [DBX](https://trescout.com/discover/dbx/)
 - [Gitdiagram](https://trescout.com/discover/gitdiagram/)

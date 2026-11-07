@@ -2,16 +2,16 @@
 
 Developed by Pollen Robotics, microduck is a 25-centimeter bipedal duck robot project powered by the Rockchip RK3566 processor. Written in Rust, the software manages fifteen servos via neural policies to handle the robot's movement and control processes.
 
-- ★ 13,496
+- ★ 13,528
 - Rust
 - GitHub Trending · 2026-10-25
 
 ## Updates
 
+- **November 7, 2026:** Stars 13,496 → 13,528, latest release daemon-v0.18.8 (November 6, 2026).
 - **November 6, 2026:** Stars 13,486 → 13,496, latest release daemon-v0.18.7 (November 6, 2026).
 - **November 6, 2026:** Stars 13,454 → 13,486, latest release daemon-v0.18.6 (November 5, 2026).
 - **November 5, 2026:** Stars 13,370 → 13,454, latest release daemon-v0.18.5 (November 4, 2026).
-- **November 3, 2026:** Stars 13,178 → 13,370, latest release daemon-v0.18.4 (November 3, 2026).
 
 ## What you get
 

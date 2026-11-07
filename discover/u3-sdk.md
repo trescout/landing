@@ -2,16 +2,16 @@
 
 SmartlyDressedGames, açık dünya zombi hayatta kalma oyunu Unturned için geliştirilen U3-SDK yazılım geliştirme kitini (software development kit) açık kaynak olarak paylaştı. C# diliyle hazırlanan bu kaynak kodlar, topluluk üyelerinin oyun üzerinde özelleştirme ve geliştirme yapmasına olanak tanıyor.
 
-- ★ 3.879
+- ★ 4.017
 - C#
 - GitHub Trending · 2026-07-10
 
 ## Güncelleme
 
+- **7 Kasım 2026:** Yıldız 3.879 → 4.017, son sürüm v3.26.3.14 (6 Kasım 2026).
 - **27 Eylül 2026:** Yıldız 3.736 → 3.879, son sürüm v3.26.3.12 (21 Eylül 2026).
 - **1 Eylül 2026:** Yıldız 3.735 → 3.736, son sürüm v3.26.3.10 (31 Ağustos 2026).
 - **31 Ağustos 2026:** Yıldız 3.504 → 3.735, son sürüm v3.26.3.9 (28 Ağustos 2026).
-- **11 Ağustos 2026:** Yıldız 3.324 → 3.504, son sürüm v3.26.3.8 (10 Ağustos 2026).
 
 ## Ne kazandırır?
 

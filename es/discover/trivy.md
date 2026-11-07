@@ -76,8 +76,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [SBOM](https://trescout.com/es/dictionary/sbom/)
 - [Root](https://trescout.com/es/dictionary/root/)
 - [Workflows](https://trescout.com/es/dictionary/workflows/)
-- [Database](https://trescout.com/es/dictionary/database/)
 - [Binary](https://trescout.com/es/dictionary/binary/)
+- [Database](https://trescout.com/es/dictionary/database/)
 
 - **Para quién es:** Para ingenieros que desean automatizar auditorías de seguridad, comprobaciones de claves secretas y generación de SBOM en sus procesos de desarrollo e implementación de software.
 - **Licencia:** Apache-2.0 (Licencia de código abierto que ofrece amplia libertad)

@@ -2,16 +2,16 @@
 
 SmartlyDressedGames shared the U3-SDK software development kit developed for the open world zombie survival game Unturned as open source. These source codes, prepared in C# language, allow community members to customize and develop the game.
 
-- ★ 3,879
+- ★ 4,017
 - C#
 - GitHub Trending · 2026-07-10
 
 ## Updates
 
+- **November 7, 2026:** Stars 3,879 → 4,017, latest release v3.26.3.14 (November 6, 2026).
 - **September 27, 2026:** Stars 3,736 → 3,879, latest release v3.26.3.12 (September 21, 2026).
 - **September 1, 2026:** Stars 3,735 → 3,736, latest release v3.26.3.10 (August 31, 2026).
 - **August 31, 2026:** Stars 3,504 → 3,735, latest release v3.26.3.9 (August 28, 2026).
-- **August 11, 2026:** Stars 3,324 → 3,504, latest release v3.26.3.8 (August 10, 2026).
 
 ## What you get
 

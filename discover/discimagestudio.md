@@ -2,12 +2,13 @@
 
 Disc Image Studio, DVD, CD ve tek katmanlı Blu-ray disklerin üzerine çıplak gözle görülebilir görüntüler kazımanızı sağlayan çok platformlu bir disk görseli oluşturma ve yazdırma aracıdır. C# diliyle geliştirilen bu yazılım, herhangi bir yazılabilir optik sürücü kullanarak disk yüzeyine özel grafikler işlemenize olanak tanır.
 
-- ★ 7.405
+- ★ 7.904
 - C#
 - GitHub Trending · 2026-11-05
 
 ## Güncelleme
 
+- **7 Kasım 2026:** Yıldız 7.405 → 7.904, son sürüm v1.5.0 (7 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 6.867 → 7.405, son sürüm v1.4.2 (5 Kasım 2026).
 - **5 Kasım 2026:** Yıldız 6.777 → 6.867, son sürüm v1.4.1 (5 Kasım 2026).
 - **5 Kasım 2026:** Yıldız 6.769 → 6.777, son sürüm v1.4.0 (4 Kasım 2026).

@@ -2,16 +2,16 @@
 
 ToolJet ist eine Open-Source-Plattform zur Anwendungserstellung für die Entwicklung interner Tools, Dashboards und Agenten für künstliche Intelligenz. Diese JavaScript-basierte Infrastruktur ermöglicht es Unternehmen, komplexe Arbeitsabläufe zu digitalisieren, indem sie die Notwendigkeit reduziert, Code zu schreiben.
 
-- ★ 41.196
+- ★ 41.204
 - JavaScript
 - GitHub Trending · 2026-08-15
 
 ## Aktualisierungen
 
+- **7. November 2026:** Sterne 41,196 → 41,204, neueste Version v3.20.256-lts (6. November 2026).
 - **5. November 2026:** Sterne 41,187 → 41,196, neueste Version v3.20.255-lts (4. November 2026).
 - **4. November 2026:** Sterne 41,145 → 41,187, neueste Version v3.20.253-lts (3. November 2026).
 - **30. Oktober 2026:** Sterne 41,133 → 41,145, neueste Version v3.20.252-lts (30. Oktober 2026).
-- **27. Oktober 2026:** Sterne 41,127 → 41,133, neueste Version v3.20.251-lts (27. Oktober 2026).
 
 ## Was es bringt
 

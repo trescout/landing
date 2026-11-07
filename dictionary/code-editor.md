@@ -37,6 +37,7 @@ Normal not defterleri metni düz siyah beyaz gösterir. Kod editörleri ise renk
 ## İlgili araçlar
 
 - [Vscode](https://trescout.com/discover/vscode/)
+- [ZED](https://trescout.com/discover/zed/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

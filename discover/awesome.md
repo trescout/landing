@@ -2,11 +2,12 @@
 
 Awesome listeleri, yazılım geliştirme ve teknoloji dünyasındaki çeşitli konulara dair küratörlü kaynak koleksiyonları sunuyor. Bu depo, farklı alanlardaki en iyi araçları, kütüphaneleri ve öğrenme materyallerini bir araya getiren kapsamlı bir dizin (directory) işlevi görüyor.
 
-- ★ 506.942
+- ★ 532.627
 - GitHub Trending · 2026-07-07
 
 ## Güncelleme
 
+- **7 Kasım 2026:** Yıldız 506.942 → 532.627.
 - **17 Eylül 2026:** Yıldız 482.524 → 506.942.
 
 ## Ne kazandırır?

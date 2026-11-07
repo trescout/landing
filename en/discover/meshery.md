@@ -46,8 +46,8 @@ To start using Meshery, you can visit meshery.io via your browser or try the Clo
 - [Cloud Native](https://trescout.com/en/dictionary/cloud-native/)
 - [Service Mesh](https://trescout.com/en/dictionary/service-mesh/)
 - [Bash Script](https://trescout.com/en/dictionary/bash-script/)
-- [Native](https://trescout.com/en/dictionary/native/)
 - [Script](https://trescout.com/en/dictionary/script/)
+- [Native](https://trescout.com/en/dictionary/native/)
 - [Mesh](https://trescout.com/en/dictionary/mesh/)
 
 - **Who it is for:** It is suitable for engineers who manage Kubernetes-based cloud infrastructures and want to visualize complex configuration processes.

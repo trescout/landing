@@ -2,13 +2,14 @@
 
 Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library) olan OpenCV, görüntü işleme ve makine öğrenmesi (machine learning) uygulamaları için geniş kapsamlı araçlar sunuyor. C++ diliyle geliştirilen bu kütüphane, gerçek zamanlı görsel veri analizi süreçlerinde standart bir altyapı görevi görüyor.
 
-- ★ 90.258
+- ★ 91.476
 - GitHub Trending · 2026-06-08
 
 **TreScout notu:** Yapay zekâ modeli eğitmek için değil, görüntünün kendisiyle uğraşmak için: Kırpma, renk düzeltme, kenar bulma, kameradan görüntü okuma. Model eğitmek gerektiğinde bu iş için ayrı kütüphaneler kullanılır, bu onların yerine geçmez. Kurulumu tek komut, video biçimleri için ek paket isteyebilir.
 
 ## Güncelleme
 
+- **7 Kasım 2026:** Yıldız 90.258 → 91.476, son sürüm 5.1.0 (6 Kasım 2026).
 - **2 Ağustos 2026:** Yıldız 88.274 → 90.258, son sürüm 5.0.0 (6 Haziran 2026).
 
 ## Ne kazandırır?

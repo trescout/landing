@@ -2,16 +2,16 @@
 
 Harper bietet einen Offline- und datenschutzorientierten Grammatikprüfer, der mit der Rust-Sprache entwickelt wurde. Ziel dieses Open-Source-Tools ist es, eine leistungsstarke und sichere Alternative für Textanalyseprozesse zu schaffen.
 
-- ★ 17.161
+- ★ 17.455
 - Rust
 - GitHub Trending · 2026-07-24
 
 ## Aktualisierungen
 
+- **7. November 2026:** Sterne 17,161 → 17,455, neueste Version v3.1.0 (6. November 2026).
 - **27. Oktober 2026:** Sterne 16,582 → 17,161, neueste Version v3.0.0 (27. Oktober 2026).
 - **17. Oktober 2026:** Sterne 16,098 → 16,582, neueste Version v2.13.0 (16. Oktober 2026).
 - **2. Oktober 2026:** Sterne 15,446 → 16,098, neueste Version v2.12.0 (1. Oktober 2026).
-- **17. September 2026:** Sterne 15,236 → 15,446, neueste Version v2.11.0 (16. September 2026).
 
 ## Was es bringt
 

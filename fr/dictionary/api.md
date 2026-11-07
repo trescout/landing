@@ -49,8 +49,8 @@ Puisqu'il permet uniquement le partage des données autorisées, il n'ouvre que 
 - [Open Webui](https://trescout.com/fr/discover/open-webui/)
 - [Langflow](https://trescout.com/fr/discover/langflow/)
 - [ComfyUI](https://trescout.com/fr/discover/comfyui/)
-- [Free for Dev](https://trescout.com/fr/discover/free-for-dev/)
 - [MoneyPrinterTurbo](https://trescout.com/fr/discover/moneyprinterturbo/)
+- [Free for Dev](https://trescout.com/fr/discover/free-for-dev/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/api/)
 

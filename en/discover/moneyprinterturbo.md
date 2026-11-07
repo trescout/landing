@@ -2,17 +2,17 @@
 
 MoneyPrinterTurbo automatically produces short videos using large language models from a topic or keyword you provide. It combines text, subtitles, background music and visuals. (The name is for marketing purposes, it is a content production tool, not a 'money printing' machine.)
 
-- ★ 133,597
+- ★ 140,316
 - Python
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Updates
 
+- **November 7, 2026:** Stars 133,597 → 140,316, latest release v1.3.10 (November 7, 2026).
 - **October 21, 2026:** Stars 128,158 → 133,597, latest release v1.3.9 (October 21, 2026).
 - **October 3, 2026:** Stars 123,436 → 128,158, latest release v1.3.8 (October 3, 2026).
 - **September 14, 2026:** Stars 120,054 → 123,436, latest release v1.3.7 (September 13, 2026).
-- **September 3, 2026:** Stars 114,747 → 120,054, latest release v1.3.6 (September 2, 2026).
 
 ## What you get
 

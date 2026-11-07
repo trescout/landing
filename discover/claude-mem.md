@@ -2,17 +2,17 @@
 
 **claude-mem**, yapay zekâ ajanlarınızın **oturumlar arası hatırlama** yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, yapay zekâ ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
 
-- ★ 113.648
+- ★ 114.095
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **7 Kasım 2026:** Yıldız 113.648 → 114.095, son sürüm v15.11.0 (6 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 110.984 → 113.648, son sürüm v15.10.0 (5 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 109.989 → 110.984, son sürüm v15.9.0 (2 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 108.245 → 109.989, son sürüm v15.8.3 (2 Kasım 2026).
-- **1 Kasım 2026:** Yıldız 106.562 → 108.245, son sürüm v15.8.0 (1 Kasım 2026).
 
 - **Kimin için:** AI kodlama ajanı kullananlar
 - **Zorluk:** Kolay · tek komutla kurulum

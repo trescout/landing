@@ -2,12 +2,13 @@
 
 Tailwind CSS is a utility-first style sheet framework (CSS framework) focused on rapid user interface development. It enables the rapid creation of original interfaces by offering low-level classes instead of ready-made design components.
 
-- ★ 98,055
+- ★ 98,169
 - TypeScript
 - GitHub Trending · 2026-08-05
 
 ## Updates
 
+- **November 7, 2026:** Stars 98,055 → 98,169, latest release v4.3.5 (November 6, 2026).
 - **November 3, 2026:** Stars 96,949 → 98,055, latest release v4.3.4 (November 2, 2026).
 - **August 6, 2026:** Stars 96,571 → 96,949, latest release v4.3.3 (July 16, 2026).
 

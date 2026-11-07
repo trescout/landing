@@ -41,6 +41,7 @@ No, different database types are used depending on the type of data (tables or d
 ## Related tools
 
 - [Supabase](https://trescout.com/en/discover/supabase/)
+- [Prometheus](https://trescout.com/en/discover/prometheus/)
 - [Trivy](https://trescout.com/en/discover/trivy/)
 - [DBX](https://trescout.com/en/discover/dbx/)
 - [Gitdiagram](https://trescout.com/en/discover/gitdiagram/)

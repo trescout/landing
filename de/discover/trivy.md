@@ -76,8 +76,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [SBOM](https://trescout.com/de/dictionary/sbom/)
 - [Root](https://trescout.com/de/dictionary/root/)
 - [Workflows](https://trescout.com/de/dictionary/workflows/)
-- [Database](https://trescout.com/de/dictionary/database/)
 - [Binary](https://trescout.com/de/dictionary/binary/)
+- [Database](https://trescout.com/de/dictionary/database/)
 
 - **Für wen es gedacht ist:** Für Ingenieure, die Sicherheitsüberprüfungen, geheime Schlüsselprüfungen und SBOM-Generierung in ihren Softwareentwicklungs- und Bereitstellungsprozessen automatisieren möchten.
 - **Lizenz:** Apache-2.0 (Open-Source-Lizenz mit großen Freiheiten)

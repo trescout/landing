@@ -93,8 +93,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [SBOM](https://trescout.com/dictionary/sbom/)
 - [Root](https://trescout.com/dictionary/root/)
 - [Workflows](https://trescout.com/dictionary/workflows/)
-- [Database](https://trescout.com/dictionary/database/)
 - [Binary](https://trescout.com/dictionary/binary/)
+- [Database](https://trescout.com/dictionary/database/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trivy/

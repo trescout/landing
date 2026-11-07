@@ -41,6 +41,7 @@ No, se utilizan diferentes tipos de bases de datos según el tipo de datos (tabl
 ## Herramientas relacionadas
 
 - [Supabase](https://trescout.com/es/discover/supabase/)
+- [Prometheus](https://trescout.com/es/discover/prometheus/)
 - [Trivy](https://trescout.com/es/discover/trivy/)
 - [DBX](https://trescout.com/es/discover/dbx/)
 - [Gitdiagram](https://trescout.com/es/discover/gitdiagram/)

@@ -40,6 +40,7 @@ Genellikle bir tarayıcı içinde veya bir çevirici katman aracılığıyla ça
 ## İlgili araçlar
 
 - [REA](https://trescout.com/discover/rea/)
+- [React](https://trescout.com/discover/react/)
 - [Meshery](https://trescout.com/discover/meshery/)
 - [Tinycast](https://trescout.com/discover/tinycast/)
 - [Stitch Skills](https://trescout.com/discover/stitch-skills/)

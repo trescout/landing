@@ -2,12 +2,13 @@
 
 Baileys propose une interface basée sur socket (API) basée sur le protocole Web WhatsApp et permettant de développer des applications basées sur TypeScript et JavaScript. Grâce à cette bibliothèque, les développeurs peuvent intégrer directement les fonctions de messagerie WhatsApp dans leurs propres projets.
 
-- ★ 10 556
+- ★ 11 557
 - JavaScript
 - GitHub Trending · 2026-07-31
 
 ## Mises à jour
 
+- **7 novembre 2026:** Étoiles 10,556 → 11,557, dernière version v7.0.0-rc14 (29 juillet 2026).
 - **2 août 2026:** Étoiles 10,485 → 10,556, dernière version v7.0.0-rc14 (29 juillet 2026).
 
 ## Ce que ça vous apporte

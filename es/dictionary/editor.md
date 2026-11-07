@@ -36,6 +36,7 @@ Sí, pero los editores de código te ayudan a realizar tu trabajo mucho más rá
 ## Herramientas relacionadas
 
 - [Vscode](https://trescout.com/es/discover/vscode/)
+- [ZED](https://trescout.com/es/discover/zed/)
 - [Editor](https://trescout.com/es/discover/editor/)
 - [Palmier Pro](https://trescout.com/es/discover/palmier-pro/)
 - [Clypra](https://trescout.com/es/discover/clypra/)

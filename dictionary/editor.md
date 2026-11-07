@@ -36,6 +36,7 @@ Evet, ama kod editörleri hata bulma ve otomatik tamamlama gibi özelliklerle i�
 ## İlgili araçlar
 
 - [Vscode](https://trescout.com/discover/vscode/)
+- [ZED](https://trescout.com/discover/zed/)
 - [Editor](https://trescout.com/discover/editor/)
 - [Palmier Pro](https://trescout.com/discover/palmier-pro/)
 - [Clypra](https://trescout.com/discover/clypra/)

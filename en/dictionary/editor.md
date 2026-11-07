@@ -36,6 +36,7 @@ Yes, but code editors help you get your work done much faster with features like
 ## Related tools
 
 - [Vscode](https://trescout.com/en/discover/vscode/)
+- [ZED](https://trescout.com/en/discover/zed/)
 - [Editor](https://trescout.com/en/discover/editor/)
 - [Palmier Pro](https://trescout.com/en/discover/palmier-pro/)
 - [Clypra](https://trescout.com/en/discover/clypra/)

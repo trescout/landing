@@ -2,11 +2,12 @@
 
 Awesome lists offers curated collections of resources on a variety of topics in the world of software development and technology. This repository functions as a comprehensive directory that brings together the best tools, libraries and learning materials from different fields.
 
-- ★ 506,942
+- ★ 532,627
 - GitHub Trending · 2026-07-07
 
 ## Updates
 
+- **November 7, 2026:** Stars 506,942 → 532,627.
 - **September 17, 2026:** Stars 482,524 → 506,942.
 
 ## What you get

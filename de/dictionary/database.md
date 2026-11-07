@@ -41,6 +41,7 @@ Nein, je nach Art der Daten (Tabellen oder Dokumente) werden unterschiedliche Da
 ## Verwandte Werkzeuge
 
 - [Supabase](https://trescout.com/de/discover/supabase/)
+- [Prometheus](https://trescout.com/de/discover/prometheus/)
 - [Trivy](https://trescout.com/de/discover/trivy/)
 - [DBX](https://trescout.com/de/discover/dbx/)
 - [Gitdiagram](https://trescout.com/de/discover/gitdiagram/)

@@ -49,8 +49,8 @@ Uma vez que só permite a partilha de dados permitidos, abre apenas a parte rele
 - [Open Webui](https://trescout.com/pt/discover/open-webui/)
 - [Langflow](https://trescout.com/pt/discover/langflow/)
 - [ComfyUI](https://trescout.com/pt/discover/comfyui/)
-- [Free for Dev](https://trescout.com/pt/discover/free-for-dev/)
 - [MoneyPrinterTurbo](https://trescout.com/pt/discover/moneyprinterturbo/)
+- [Free for Dev](https://trescout.com/pt/discover/free-for-dev/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/api/)
 

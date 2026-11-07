@@ -2,16 +2,16 @@
 
 ThinkRail, entwickelt von JetBrains, ist eine agentenbasierte integrierte Entwicklungsumgebung (IDE), die sich an die Arbeitsweise des Benutzers anpasst und ihre Funktionen im Laufe der Zeit durch das Lernen von Projekteigenschaften verbessert. Dieses in TypeScript geschriebene Tool zielt darauf ab, Softwareentwicklungsprozesse durch ein personalisiertes Erlebnis zu unterstützen.
 
-- ★ 7.075
+- ★ 7.872
 - TypeScript
 - GitHub Trending · 2026-10-26
 
 ## Aktualisierungen
 
+- **7. November 2026:** Sterne 7,075 → 7,872, neueste Version v0.3.2 (6. November 2026).
 - **2. November 2026:** Sterne 6,135 → 7,075, neueste Version v0.3.1 (1. November 2026).
 - **30. Oktober 2026:** Sterne 5,495 → 6,135, neueste Version v0.3.0 (29. Oktober 2026).
 - **29. Oktober 2026:** Sterne 4,402 → 5,495, neueste Version v0.2.0 (18. Oktober 2026).
-- **28. Oktober 2026:** Sterne 3,318 → 4,402, neueste Version v0.2.0 (18. Oktober 2026).
 
 ## Was es bringt
 

@@ -76,8 +76,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [SBOM](https://trescout.com/en/dictionary/sbom/)
 - [Root](https://trescout.com/en/dictionary/root/)
 - [Workflows](https://trescout.com/en/dictionary/workflows/)
-- [Database](https://trescout.com/en/dictionary/database/)
 - [Binary](https://trescout.com/en/dictionary/binary/)
+- [Database](https://trescout.com/en/dictionary/database/)
 
 - **Who it is for:** For engineers who want to automate security audits, secret key checks, and SBOM generation in their software development and deployment processes.
 - **License:** Apache-2.0 (An open-source license offering broad freedom)

@@ -41,6 +41,7 @@ Não, são utilizados diferentes tipos de bases de dados dependendo do tipo de d
 ## Ferramentas relacionadas
 
 - [Supabase](https://trescout.com/pt/discover/supabase/)
+- [Prometheus](https://trescout.com/pt/discover/prometheus/)
 - [Trivy](https://trescout.com/pt/discover/trivy/)
 - [DBX](https://trescout.com/pt/discover/dbx/)
 - [Gitdiagram](https://trescout.com/pt/discover/gitdiagram/)

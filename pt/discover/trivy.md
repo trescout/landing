@@ -76,8 +76,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [SBOM](https://trescout.com/pt/dictionary/sbom/)
 - [Root](https://trescout.com/pt/dictionary/root/)
 - [Workflows](https://trescout.com/pt/dictionary/workflows/)
-- [Database](https://trescout.com/pt/dictionary/database/)
 - [Binary](https://trescout.com/pt/dictionary/binary/)
+- [Database](https://trescout.com/pt/dictionary/database/)
 
 - **Para quem é:** Para engenheiros que desejam automatizar auditorias de segurança, verificações de chaves secretas e geração de SBOM em seus processos de desenvolvimento e implantação de software.
 - **Licença:** Apache-2.0 (Licença de código aberto que oferece ampla liberdade)

@@ -2,16 +2,16 @@
 
 Macro, e-posta, sohbet, dokümanlar ve görev yönetimi gibi iş araçlarını ortak bir yapay zekâ hafızasıyla birleştiren bir çalışma alanı. Rust diliyle geliştirilen bu platform, farklı iş akışlarını tek bir arayüzde birbirine bağlı hale getiriyor.
 
-- ★ 6.175
+- ★ 6.186
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
 
+- **7 Kasım 2026:** Yıldız 6.175 → 6.186, son sürüm v2026.11.6.1 (7 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 6.129 → 6.175, son sürüm v2026.11.5.0 (5 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 6.099 → 6.129, son sürüm v2026.11.3.1 (4 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 6.041 → 6.099, son sürüm v2026.11.2.1 (3 Kasım 2026).
-- **1 Kasım 2026:** Yıldız 5.657 → 6.041, son sürüm v2026.10.31.0 (31 Ekim 2026).
 
 ## Ne kazandırır?
 

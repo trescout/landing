@@ -41,9 +41,9 @@ Cela peut sembler un peu inhabituel au début, mais une fois que vous avez appri
 - [Agent Skills](https://trescout.com/fr/discover/agent-skills/)
 - [Taste Skill](https://trescout.com/fr/discover/taste-skill/)
 - [NVM](https://trescout.com/fr/discover/nvm/)
+- [Nushell](https://trescout.com/fr/discover/nushell/)
 - [Claude-Code-Game-Studios](https://trescout.com/fr/discover/claude-code-game-studios/)
 - [Omarchy](https://trescout.com/fr/discover/omarchy/)
-- [90DaysOfDevOps](https://trescout.com/fr/discover/90daysofdevops/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/shell/)
 

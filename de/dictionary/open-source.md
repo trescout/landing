@@ -65,8 +65,8 @@ Unternehmen etablieren nachhaltige Geschäftsmodelle, indem sie technischen Supp
 - [N8n](https://trescout.com/de/discover/n8n/)
 - [MarkItDown](https://trescout.com/de/discover/markitdown/)
 - [Claude Code](https://trescout.com/de/discover/claude-code/)
-- [Free for Dev](https://trescout.com/de/discover/free-for-dev/)
 - [MoneyPrinterTurbo](https://trescout.com/de/discover/moneyprinterturbo/)
+- [Free for Dev](https://trescout.com/de/discover/free-for-dev/)
 - [claude-mem](https://trescout.com/de/discover/claude-mem/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/open-source/)

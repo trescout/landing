@@ -37,6 +37,7 @@ Les cahiers ordinaires affichent le texte en noir et blanc. Les éditeurs de cod
 ## Outils liés
 
 - [Vscode](https://trescout.com/fr/discover/vscode/)
+- [ZED](https://trescout.com/fr/discover/zed/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/code-editor/)
 

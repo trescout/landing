@@ -2,13 +2,14 @@
 
 OpenCV, an open source computer vision library, offers a wide range of tools for image processing and machine learning applications. This library, developed in C++ language, serves as a standard infrastructure in real-time visual data analysis processes.
 
-- ★ 90,258
+- ★ 91,476
 - GitHub Trending · 2026-06-08
 
 **TreScout note:** Not to train the AI ​​model, but to deal with the image itself: Cropping, color correction, edge detection, reading the image from the camera. When it is necessary to train models, separate libraries are used for this purpose, this does not replace them. Its installation is a single command, it may require additional packages for video formats.
 
 ## Updates
 
+- **November 7, 2026:** Stars 90,258 → 91,476, latest release 5.1.0 (November 6, 2026).
 - **August 2, 2026:** Stars 88,274 → 90,258, latest release 5.0.0 (June 6, 2026).
 
 ## What you get

@@ -2,13 +2,14 @@
 
 OpenCV, une bibliothèque de vision par ordinateur open source, propose une large gamme d'outils pour les applications de traitement d'images et d'apprentissage automatique. Cette bibliothèque, développée en langage C++, sert d'infrastructure standard dans les processus d'analyse de données visuelles en temps réel.
 
-- ★ 90 258
+- ★ 91 476
 - GitHub Trending · 2026-06-08
 
 **Note TreScout :** Non pas pour entraîner le modèle d'IA, mais pour traiter l'image elle-même : recadrage, correction des couleurs, détection des contours, lecture de l'image depuis la caméra. Lorsqu'il est nécessaire d'entraîner des modèles, des bibliothèques distinctes sont utilisées à cet effet, cela ne les remplace pas. Son installation se fait en une seule commande, elle peut nécessiter des packages supplémentaires pour les formats vidéo.
 
 ## Mises à jour
 
+- **7 novembre 2026:** Étoiles 90,258 → 91,476, dernière version 5.1.0 (6 novembre 2026).
 - **2 août 2026:** Étoiles 88,274 → 90,258, dernière version 5.0.0 (6 juin 2026).
 
 ## Ce que ça vous apporte
