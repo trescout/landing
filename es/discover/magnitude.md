@@ -44,8 +44,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [Local](https://trescout.com/es/dictionary/local/)
 - [Inference Server](https://trescout.com/es/dictionary/inference-server/)
+- [Local](https://trescout.com/es/dictionary/local/)
 - [Inference](https://trescout.com/es/dictionary/inference/)
 - [Token](https://trescout.com/es/dictionary/token/)
 - [CLI](https://trescout.com/es/dictionary/cli/)

@@ -2,12 +2,13 @@
 
 Der Council of High Intelligence führt strukturierte Entscheidungsprozesse durch verschiedene Expertenpersönlichkeiten unter Verwendung verschiedener großer Sprachmodelle durch. Das System kombiniert die Perspektiven verschiedener Modelle der künstlichen Intelligenz, indem es komplexe Probleme in mehrrundigen Diskussionen analysiert.
 
-- ★ 3.808
+- ★ 4.811
 - Shell
 - GitHub Trending · 2026-06-30
 
 ## Aktualisierungen
 
+- **8. November 2026:** Sterne 3,808 → 4,811, neueste Version v1.2.0 (4. Juli 2026).
 - **2. August 2026:** Sterne 2,176 → 3,808, neueste Version v1.2.0 (4. Juli 2026).
 
 ## Was es bringt

@@ -2,16 +2,16 @@
 
 Pascalorg/editor baseado em TypeScript permite aos usuários criar e compartilhar projetos arquitetônicos tridimensionais por meio do navegador. O software tem como objetivo tornar os processos de projeto arquitetônico acessíveis por meio de uma interface baseada na web.
 
-- ★ 25.067
+- ★ 25.385
 - TypeScript
 - GitHub Trending · 2026-07-29
 
 ## Atualizações
 
+- **8 de novembro de 2026:** Estrelas 25,067 → 25,385, versão mais recente @pascal-app/cli@1.0.7 (8 de novembro de 2026).
 - **23 de outubro de 2026:** Estrelas 25,045 → 25,067, versão mais recente @pascal-app/cli@1.0.6 (23 de outubro de 2026).
 - **22 de outubro de 2026:** Estrelas 24,840 → 25,045, versão mais recente @pascal-app/cli@1.0.5 (22 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 24,327 → 24,840, versão mais recente @pascal-app/cli@1.0.4 (13 de outubro de 2026).
-- **27 de setembro de 2026:** Estrelas 24,117 → 24,327, versão mais recente v1.0.3 (24 de setembro de 2026).
 
 ## O que você ganha
 

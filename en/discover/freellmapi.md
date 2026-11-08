@@ -2,16 +2,16 @@
 
 FreeLLMAPI brings together 34 different free large language model providers under a single REST API in OpenAI format, offering intelligent routing and fault tolerance.
 
-- ★ 48,070
+- ★ 48,926
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Updates
 
+- **November 8, 2026:** Stars 48,070 → 48,926, latest release v0.16.21 (November 7, 2026).
 - **November 6, 2026:** Stars 47,649 → 48,070, latest release v0.16.20 (November 6, 2026).
 - **November 5, 2026:** Stars 47,165 → 47,649, latest release v0.16.19 (November 4, 2026).
 - **November 4, 2026:** Stars 46,524 → 47,165, latest release v0.16.18 (November 3, 2026).
-- **November 3, 2026:** Stars 45,976 → 46,524, latest release v0.16.17 (November 2, 2026).
 
 ## What you get
 
@@ -81,8 +81,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Full-stack](https://trescout.com/en/dictionary/full-stack/)
 - [Pipeline](https://trescout.com/en/dictionary/pipeline/)
 - [Proxy](https://trescout.com/en/dictionary/proxy/)
-- [Localhost](https://trescout.com/en/dictionary/localhost/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
+- [Localhost](https://trescout.com/en/dictionary/localhost/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 
 - **Who it is for:** AI developers, open-source researchers, full-stack engineers, and prototype developers.

@@ -2,16 +2,16 @@
 
 FreeLLMAPI proporciona enrutamiento inteligente y tolerancia a fallas al agregar 34 proveedores principales de modelos de lenguaje gratuitos diferentes en una única API REST en formato OpenAI.
 
-- ★ 48.070
+- ★ 48.926
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Actualizaciones
 
+- **8 de noviembre de 2026:** Estrellas 48,070 → 48,926, última versión v0.16.21 (7 de noviembre de 2026).
 - **6 de noviembre de 2026:** Estrellas 47,649 → 48,070, última versión v0.16.20 (6 de noviembre de 2026).
 - **5 de noviembre de 2026:** Estrellas 47,165 → 47,649, última versión v0.16.19 (4 de noviembre de 2026).
 - **4 de noviembre de 2026:** Estrellas 46,524 → 47,165, última versión v0.16.18 (3 de noviembre de 2026).
-- **3 de noviembre de 2026:** Estrellas 45,976 → 46,524, última versión v0.16.17 (2 de noviembre de 2026).
 
 ## Qué aporta
 
@@ -81,8 +81,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Full-stack](https://trescout.com/es/dictionary/full-stack/)
 - [Pipeline](https://trescout.com/es/dictionary/pipeline/)
 - [Proxy](https://trescout.com/es/dictionary/proxy/)
-- [Localhost](https://trescout.com/es/dictionary/localhost/)
 - [SDK](https://trescout.com/es/dictionary/sdk/)
+- [Localhost](https://trescout.com/es/dictionary/localhost/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 
 - **Para quién es:** Desarrolladores de inteligencia artificial, investigadores de código abierto, ingenieros completos y desarrolladores de prototipos.

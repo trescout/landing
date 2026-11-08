@@ -53,8 +53,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Local](https://trescout.com/dictionary/local/)
 - [Inference Server](https://trescout.com/dictionary/inference-server/)
+- [Local](https://trescout.com/dictionary/local/)
 - [Inference](https://trescout.com/dictionary/inference/)
 - [Token](https://trescout.com/dictionary/token/)
 - [CLI](https://trescout.com/dictionary/cli/)

@@ -2,12 +2,13 @@
 
 Le Conseil de la Haute Intelligence mène des processus décisionnels structurés par l'intermédiaire de diverses personnalités expertes utilisant différents grands modèles linguistiques. Le système combine les perspectives de différents modèles d'intelligence artificielle en analysant des problèmes complexes au travers de discussions en plusieurs tours.
 
-- ★ 3 808
+- ★ 4 811
 - Shell
 - GitHub Trending · 2026-06-30
 
 ## Mises à jour
 
+- **8 novembre 2026:** Étoiles 3,808 → 4,811, dernière version v1.2.0 (4 juillet 2026).
 - **2 août 2026:** Étoiles 2,176 → 3,808, dernière version v1.2.0 (4 juillet 2026).
 
 ## Ce que ça vous apporte

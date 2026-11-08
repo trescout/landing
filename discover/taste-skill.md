@@ -4,17 +4,17 @@ Yapay zekâ ajanları arayüz üretirken çoğu zaman şablon odaklı sonuçlar 
 
 *Görsel: taste-skill (proje deposundan)*
 
-- ★ 110.168
+- ★ 111.720
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **8 Kasım 2026:** Yıldız 110.168 → 111.720, son sürüm v2.5.1 (7 Kasım 2026).
 - **5 Kasım 2026:** Yıldız 107.273 → 110.168, son sürüm v2.5.0 (4 Kasım 2026).
 - **1 Kasım 2026:** Yıldız 102.085 → 107.273, son sürüm v2.1.5 (24 Ekim 2026).
 - **25 Ekim 2026:** Yıldız 100.118 → 102.085, son sürüm v2.1.5 (24 Ekim 2026).
-- **21 Ekim 2026:** Yıldız 99.600 → 100.118, son sürüm v2.1.4 (20 Ekim 2026).
 
 - **Kimin için:** Yapay zekâ ile arayüz / frontend üretenler
 - **Zorluk:** Orta · AI agent kullanımı

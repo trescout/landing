@@ -2,16 +2,16 @@
 
 Yapay zekâ destekli yatırım fonu (AI hedge fund), finansal piyasa analizi ve varlık yönetimi süreçlerini otomatize etmek için otonom ajanlar kullanıyor. Python tabanlı bu proje, piyasa verilerini işleyerek yatırım stratejileri geliştiren bir yapay zekâ ekibi (AI team) modeli sunuyor.
 
-- ★ 64.470
+- ★ 64.551
 - Python
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
 
+- **8 Kasım 2026:** Yıldız 64.470 → 64.551, son sürüm v2.7.1 (8 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 64.432 → 64.470, son sürüm v2.7.0 (3 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 64.376 → 64.432, son sürüm v2.6.4 (1 Kasım 2026).
 - **31 Ekim 2026:** Yıldız 64.308 → 64.376, son sürüm v2.6.3 (30 Ekim 2026).
-- **28 Ekim 2026:** Yıldız 64.231 → 64.308, son sürüm v2.6.2 (27 Ekim 2026).
 
 ## Ne kazandırır?
 

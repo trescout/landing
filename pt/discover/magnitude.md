@@ -44,8 +44,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [Local](https://trescout.com/pt/dictionary/local/)
 - [Inference Server](https://trescout.com/pt/dictionary/inference-server/)
+- [Local](https://trescout.com/pt/dictionary/local/)
 - [Inference](https://trescout.com/pt/dictionary/inference/)
 - [Token](https://trescout.com/pt/dictionary/token/)
 - [CLI](https://trescout.com/pt/dictionary/cli/)

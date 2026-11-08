@@ -44,8 +44,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Local](https://trescout.com/de/dictionary/local/)
 - [Inference Server](https://trescout.com/de/dictionary/inference-server/)
+- [Local](https://trescout.com/de/dictionary/local/)
 - [Inference](https://trescout.com/de/dictionary/inference/)
 - [Token](https://trescout.com/de/dictionary/token/)
 - [CLI](https://trescout.com/de/dictionary/cli/)

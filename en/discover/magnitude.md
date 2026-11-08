@@ -44,8 +44,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [Local](https://trescout.com/en/dictionary/local/)
 - [Inference Server](https://trescout.com/en/dictionary/inference-server/)
+- [Local](https://trescout.com/en/dictionary/local/)
 - [Inference](https://trescout.com/en/dictionary/inference/)
 - [Token](https://trescout.com/en/dictionary/token/)
 - [CLI](https://trescout.com/en/dictionary/cli/)

@@ -79,6 +79,7 @@ Es herrscht absolute Vertraulichkeit der Daten. Codes, Dokumente und Benutzerfra
 
 - [DBX](https://trescout.com/de/discover/dbx/)
 - [Magnitude](https://trescout.com/de/discover/magnitude/)
+- [Billion Context](https://trescout.com/de/discover/billion-context/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/local/)
 

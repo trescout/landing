@@ -2,12 +2,13 @@
 
 Council of High Intelligence, farklı büyük dil modellerini (large language models) kullanarak çeşitli uzman kişilikler üzerinden yapılandırılmış karar verme süreçleri yürütüyor. Sistem, karmaşık problemleri çok turlu tartışmalarla analiz ederek farklı yapay zekâ modellerinin bakış açılarını birleştiriyor.
 
-- ★ 3.808
+- ★ 4.811
 - Shell
 - GitHub Trending · 2026-06-30
 
 ## Güncelleme
 
+- **8 Kasım 2026:** Yıldız 3.808 → 4.811, son sürüm v1.2.0 (4 Temmuz 2026).
 - **2 Ağustos 2026:** Yıldız 2.176 → 3.808, son sürüm v1.2.0 (4 Temmuz 2026).
 
 ## Ne kazandırır?

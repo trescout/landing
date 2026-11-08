@@ -10476,5 +10476,18 @@
     "kisa_es": "Es un protocolo de comunicación seguro adaptado para situaciones que requieren velocidad y continuidad sin interrupciones en la transmisión de datos.",
     "kisa_pt": "É um protocolo de comunicação seguro adaptado para situações que exigem velocidade e continuidade na transmissão de dados.",
     "kisa_de": "Es handelt sich um ein sicheres Kommunikationsprotokoll, das an Situationen angepasst ist, die Geschwindigkeit und Unterbrechungsfreiheit bei der Datenübertragung erfordern."
+  },
+  {
+    "slug": "bare-metal",
+    "en": "Bare Metal",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Üzerinde herhangi bir sanallaştırma katmanı bulunmayan, doğrudan fiziksel donanım üzerinde çalışan sunucu altyapısıdır.",
+    "date": "2026-11-08",
+    "kisa_en": "It is a server infrastructure that operates directly on physical hardware without any virtualization layer.",
+    "kisa_fr": "Il s'agit d'une infrastructure de serveur qui fonctionne directement sur le matériel physique, sans aucune couche de virtualisation.",
+    "kisa_es": "Es una infraestructura de servidor que se ejecuta directamente sobre el hardware físico, sin ninguna capa de virtualización.",
+    "kisa_pt": "É uma infraestrutura de servidor que não possui nenhuma camada de virtualização e é executada diretamente no hardware físico.",
+    "kisa_de": "Es handelt sich um eine Serverinfrastruktur, die direkt auf physischer Hardware läuft und keine Virtualisierungsschicht aufweist."
   }
 ]

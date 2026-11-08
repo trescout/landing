@@ -79,6 +79,7 @@ Nos sistemas em nuvem, os dados principais são mantidos no servidor, enquanto n
 
 - [DBX](https://trescout.com/pt/discover/dbx/)
 - [Magnitude](https://trescout.com/pt/discover/magnitude/)
+- [Billion Context](https://trescout.com/pt/discover/billion-context/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/local/)
 

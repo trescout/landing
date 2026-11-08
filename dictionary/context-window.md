@@ -42,6 +42,7 @@ Evet ama işlem maliyetini ve yanıt süresini artırabilir.
 
 - [Context Mode](https://trescout.com/discover/context-mode/)
 - [Omlx](https://trescout.com/discover/omlx/)
+- [Billion Context](https://trescout.com/discover/billion-context/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

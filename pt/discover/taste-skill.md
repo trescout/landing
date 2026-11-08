@@ -2,17 +2,17 @@
 
 Quando os agentes de inteligência artificial produzem interfaces, geralmente fornecem resultados orientados a modelos. O Taste Skill é um conjunto de habilidades portátil que ensina aos agentes o uso mais eficaz de layout, tipografia, movimento e espaço. Desta forma, as interfaces criadas com inteligência artificial parecem muito mais originais e profissionais.
 
-- ★ 110.168
+- ★ 111.720
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Atualizações
 
+- **8 de novembro de 2026:** Estrelas 110,168 → 111,720, versão mais recente v2.5.1 (7 de novembro de 2026).
 - **5 de novembro de 2026:** Estrelas 107,273 → 110,168, versão mais recente v2.5.0 (4 de novembro de 2026).
 - **1 de novembro de 2026:** Estrelas 102,085 → 107,273, versão mais recente v2.1.5 (24 de outubro de 2026).
 - **25 de outubro de 2026:** Estrelas 100,118 → 102,085, versão mais recente v2.1.5 (24 de outubro de 2026).
-- **21 de outubro de 2026:** Estrelas 99,600 → 100,118, versão mais recente v2.1.4 (20 de outubro de 2026).
 
 *Görsel: taste-skill (proje deposundan)*
 

@@ -44,8 +44,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Local](https://trescout.com/fr/dictionary/local/)
 - [Inference Server](https://trescout.com/fr/dictionary/inference-server/)
+- [Local](https://trescout.com/fr/dictionary/local/)
 - [Inference](https://trescout.com/fr/dictionary/inference/)
 - [Token](https://trescout.com/fr/dictionary/token/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)

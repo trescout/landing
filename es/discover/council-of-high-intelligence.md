@@ -2,12 +2,13 @@
 
 El Consejo de Alta Inteligencia lleva a cabo procesos estructurados de toma de decisiones a través de varias personalidades expertas utilizando diferentes grandes modelos lingüísticos. El sistema combina las perspectivas de diferentes modelos de inteligencia artificial analizando problemas complejos a través de discusiones de múltiples rondas.
 
-- ★ 3.808
+- ★ 4.811
 - Shell
 - GitHub Trending · 2026-06-30
 
 ## Actualizaciones
 
+- **8 de noviembre de 2026:** Estrellas 3,808 → 4,811, última versión v1.2.0 (4 de julio de 2026).
 - **2 de agosto de 2026:** Estrellas 2,176 → 3,808, última versión v1.2.0 (4 de julio de 2026).
 
 ## Qué aporta
