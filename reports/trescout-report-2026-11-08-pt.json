@@ -1,0 +1,913 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-08",
+  "capturedAt": "2026-11-08T05:07:15.751Z",
+  "editorial": "Hoje, observa-se um foco técnico na arquitetura de segurança de agentes autônomos baseados em navegador (agent-browser) e modelos de inteligência artificial. Novos modelos de linguagem no Hugging Face e estudos de integridade de dados em processos de RAG (geração aumentada por recuperação) oferecem recursos críticos para tornar os sistemas mais confiáveis.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "summary": "O agent-browser, desenvolvido pela Vercel Labs, é uma interface de linha de comando (CLI) que permite que agentes de inteligência artificial realizem operações em navegadores. Esta ferramenta lê as páginas como uma árvore de acessibilidade (accessibility tree), permitindo que os agentes interajam com elementos da web.",
+          "meta": "Rust · ★ 46.958 · +190 hoje",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-browser",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 46958,
+              "engagementCount": 190,
+              "rank": 1,
+              "extra": {
+                "starsToday": 190,
+                "baglam": "readme"
+              }
+            },
+            "description": "Browser automation CLI for AI agents. Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell."
+          }
+        },
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "O security-audit-skill, desenvolvido pela Cloudflare, é um pacote de habilidades que transforma agentes de codificação (coding-agent) usados em processos de desenvolvimento de software em auditores de segurança. Esta ferramenta realiza auditorias de segurança em várias etapas, desde a descoberta até o relatório, com descobertas verificáveis de forma independente e legíveis por máquina.",
+          "meta": "JavaScript · ★ 65.973 · +2.085 hoje",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 65973,
+              "engagementCount": 2085,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2085,
+                "baglam": "readme"
+              }
+            },
+            "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting."
+          }
+        },
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "O google/skills, compartilhado pelo Google, oferece pacotes de habilidades de inteligência artificial (agent skills) desenvolvidos para tecnologias como produtos Google e Google Cloud. Este repositório baseado em Python visa padronizar a interação de agentes de IA com serviços no ecossistema Google.",
+          "meta": "Python · ★ 23.496 · +443 hoje",
+          "snapshot": {
+            "sourceId": "google/skills",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 23496,
+              "engagementCount": 443,
+              "rank": 3,
+              "extra": {
+                "starsToday": 443,
+                "baglam": "readme"
+              }
+            },
+            "description": "Agent Skills for Google products and technologies. This repository contains Agent Skills for Google products and technologies, including Google Cloud."
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Mattpocock/skills é uma coleção que contém habilidades de agentes de IA (agent skills) usadas por engenheiros de software em seus fluxos de trabalho diários. Focado na automação de tarefas reais de engenharia, este recurso visa apoiar processos de codificação funcional em vez de métodos de tentativa e erro.",
+          "meta": "Shell · ★ 317.869 · +1.100 hoje",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 317869,
+              "engagementCount": 1100,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1100,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          }
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "O skills, compartilhado pela Anthropic, contém vários pacotes de habilidades que demonstram as capacidades do sistema de IA Claude. Desenvolvido na linguagem Python, este repositório oferece uma ampla gama de aplicações, desde tarefas criativas até tarefas técnicas e fluxos de trabalho corporativos.",
+          "meta": "Python · ★ 188.908 · +390 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/skills",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 188908,
+              "engagementCount": 390,
+              "rank": 5,
+              "extra": {
+                "starsToday": 390,
+                "baglam": "readme"
+              }
+            },
+            "description": "Public repository for Agent Skills. This repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.)."
+          }
+        },
+        {
+          "title": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "summary": "O astryx, desenvolvido pela Meta, é um sistema de design de código aberto (open source) totalmente personalizável, projetado para ser usado tanto por humanos quanto por agentes de IA. Preparado com a linguagem TypeScript, este sistema visa apoiar a colaboração entre humanos e IA em processos modernos de desenvolvimento de software.",
+          "meta": "TypeScript · ★ 14.705 · +96 hoje",
+          "snapshot": {
+            "sourceId": "meta/astryx",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 14705,
+              "engagementCount": 96,
+              "rank": 6,
+              "extra": {
+                "starsToday": 96,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open source design system that's fully customizable and agent ready. An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them."
+          }
+        },
+        {
+          "title": "prometheus/prometheus",
+          "url": "https://github.com/prometheus/prometheus",
+          "summary": "Prometheus é um sistema de monitoramento de código aberto que fornece monitoramento de sistemas e serviços, além de gerenciamento de banco de dados de séries temporais (time series database). Sendo um projeto da Cloud Native Computing Foundation, este software coleta métricas de alvos definidos, avalia regras e dispara alertas quando condições definidas são atendidas.",
+          "meta": "Go · ★ 67.476 · +322 hoje",
+          "snapshot": {
+            "sourceId": "prometheus/prometheus",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 67476,
+              "engagementCount": 322,
+              "rank": 7,
+              "extra": {
+                "starsToday": 322,
+                "baglam": "readme"
+              }
+            },
+            "description": "The Prometheus monitoring system and time series database. Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts when specified conditions are observed."
+          }
+        },
+        {
+          "title": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "summary": "O sherlock-project/sherlock, desenvolvido na linguagem Python, é uma ferramenta que rastreia contas de mídia social em diferentes redes usando nomes de usuário. O projeto oferece suporte a pacotes mantidos pela comunidade para várias plataformas, como Debian, Ubuntu, Homebrew, Kali e BlackArch.",
+          "meta": "Python · ★ 100.941 · +1.766 hoje",
+          "snapshot": {
+            "sourceId": "sherlock-project/sherlock",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 100941,
+              "engagementCount": 1766,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1766,
+                "baglam": "readme"
+              }
+            },
+            "description": "Hunt down social media accounts by username across social networks. Community-maintained packages are available for Debian (>= 13), Ubuntu (>= 22.10), Homebrew, Kali, and BlackArch. These packages are not directly supported or maintained by the Sherlock Project."
+          }
+        },
+        {
+          "title": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "summary": "OpenMausBot é uma alternativa de código aberto (open source) ao Grok Bot que permite criar suas próprias equipes de bots de IA dentro de aplicativos de chat. O sistema expande sua funcionalidade oferecendo uma infraestrutura de máquina virtual (virtual machine) que os bots podem utilizar.",
+          "meta": "TypeScript · ★ 17.222 · +1.955 hoje",
+          "snapshot": {
+            "sourceId": "milind-soni/OpenMausBot",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 17222,
+              "engagementCount": 1955,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1955,
+                "baglam": "readme"
+              }
+            },
+            "description": "Open-source Grok Bot alternative with a virtual machine that bots can use. The open-source Grok Bot alternative: your own team of AI bots, in a chat app."
+          }
+        },
+        {
+          "title": "astral-sh/ruff",
+          "url": "https://github.com/astral-sh/ruff",
+          "summary": "Ruff é um verificador (linter) e formatador de código Python rápido, desenvolvido com a linguagem de programação Rust. É utilizado em processos de desenvolvimento de software para verificar a conformidade de projetos Python com padrões e para acelerar as operações de edição de código.",
+          "meta": "Rust · ★ 51.015 · +350 hoje",
+          "snapshot": {
+            "sourceId": "astral-sh/ruff",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 51015,
+              "engagementCount": 350,
+              "rank": 10,
+              "extra": {
+                "starsToday": 350,
+                "baglam": "readme"
+              }
+            },
+            "description": "An extremely fast Python linter and code formatter, written in Rust. An extremely fast Python linter and code formatter, written in Rust."
+          }
+        },
+        {
+          "title": "tailwindlabs/tailwindcss",
+          "url": "https://github.com/tailwindlabs/tailwindcss",
+          "summary": "Tailwind CSS é um framework de estilo (CSS framework) focado em utilitários (utility-first), voltado para o desenvolvimento rápido de interfaces de usuário. Ele oferece classes predefinidas para acelerar o processo de design em projetos web.",
+          "meta": "TypeScript · ★ 98.540 · +122 hoje",
+          "snapshot": {
+            "sourceId": "tailwindlabs/tailwindcss",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 98540,
+              "engagementCount": 122,
+              "rank": 11,
+              "extra": {
+                "starsToday": 122,
+                "baglam": "readme"
+              }
+            },
+            "description": "A utility-first CSS framework for rapid UI development. For help, discussion about best practices, or feature ideas:"
+          }
+        },
+        {
+          "title": "mbillow/localthings",
+          "url": "https://github.com/mbillow/localthings",
+          "summary": "mbillow/localthings permite controlar eletrodomésticos Samsung com a plataforma de gestão de casa inteligente Home Assistant através da rede local, sem a necessidade de uma conta na nuvem. Desenvolvida em Python, esta ferramenta transfere o controlo dos seus dispositivos diretamente para a sua rede local.",
+          "meta": "Python · ★ 1.093 · +186 hoje",
+          "snapshot": {
+            "sourceId": "mbillow/localthings",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1093,
+              "engagementCount": 186,
+              "rank": 12,
+              "extra": {
+                "starsToday": 186,
+                "baglam": "readme"
+              }
+            },
+            "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account. Control your Samsung appliances from Home Assistant over your home network, with no cloud account."
+          }
+        },
+        {
+          "title": "zed-industries/zed",
+          "url": "https://github.com/zed-industries/zed",
+          "summary": "Zed é um editor de código de alto desempenho e multijogador, criado em Rust pelos desenvolvedores do Atom e do Tree-sitter. Com o objetivo de acelerar os processos de desenvolvimento de software, esta ferramenta oferece a possibilidade de trabalho simultâneo.",
+          "meta": "Rust · ★ 94.337 · +1.114 hoje",
+          "snapshot": {
+            "sourceId": "zed-industries/zed",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 94337,
+              "engagementCount": 1114,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1114
+              }
+            },
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+          }
+        },
+        {
+          "title": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "summary": "Desenvolvido com TypeScript, o billion-context é um plugin de compressão que opera na janela de contexto (context window), que se refere à capacidade de informação que os modelos de inteligência artificial podem processar de uma só vez. Esta ferramenta visa reduzir o uso de tokens em cinco vezes, comprimindo milhares de milhões de tokens em espaços menores durante sessões longas mensais.",
+          "meta": "TypeScript · ★ 4.690 · +191 hoje",
+          "snapshot": {
+            "sourceId": "ranxianglei/billion-context",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4690,
+              "engagementCount": 191,
+              "rank": 14,
+              "extra": {
+                "starsToday": 191
+              }
+            },
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+          }
+        },
+        {
+          "title": "dsx-ai-factory/nvke",
+          "url": "https://github.com/dsx-ai-factory/nvke",
+          "summary": "O NVIDIA Kubernetes Engine (NVKE) oferece um plano de controlo (management plane) que permite a gestão de clusters Kubernetes com suporte a GPU em servidores bare metal. Desenvolvida em linguagem Go, esta ferramenta funciona sobre a infraestrutura Docker com suporte a TPM virtual, facilitando os processos de instalação de clusters e criação de cargas de trabalho.",
+          "meta": "Go · ★ 600 · +123 hoje",
+          "snapshot": {
+            "sourceId": "dsx-ai-factory/nvke",
+            "capturedAt": "2026-11-08T05:07:17.002Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 600,
+              "engagementCount": 123,
+              "rank": 15,
+              "extra": {
+                "starsToday": 123,
+                "baglam": "readme"
+              }
+            },
+            "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. The local quickstart runs on a Linux host or VM, amd64 or arm64, with at least 6 CPUs, 12 GiB of free memory and 100 GiB of free disk. It requires Docker, virtual TPM support and the tools listed in the guide. Follow its setup through workload-cluster creation and confirm the cluster's nodes report Ready."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Need for Speed Underground 2 online in the browser",
+          "url": "https://nfsu2.xyz/",
+          "summary": "Need for Speed Underground 2 foi tornado jogável através do navegador utilizando a tecnologia WebGPU. Este projeto, desenvolvido por fãs, oferece suporte a 120 fps, modo widescreen e a possibilidade de corridas online.",
+          "meta": "867 pontos · 238 comentários",
+          "snapshot": {
+            "sourceId": "50403052",
+            "capturedAt": "2026-11-08T05:07:16.089Z",
+            "metadata": {
+              "popularity": 867,
+              "engagementCount": 238,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50403052",
+                  "popularity": 867,
+                  "engagementCount": 238
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-07T09:36:36Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50403052",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Play Need for Speed: Underground 2 (2004) in Chrome and Firefox with WebGPU graphics, Web Audio, up to 120 fps widescreen, controller support, free roam and Online races with friends. Fan project, not affiliated with Electronic Arts."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50403052",
+              "popularity": 867,
+              "engagementCount": 238
+            }
+          ]
+        },
+        {
+          "title": "Every Mac comes with an (undocumented) family member classifier",
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+          "summary": "Um classificador de membros da família não documentado, presente nos dispositivos Apple, é utilizado para criar um grafo de conhecimento pessoal (personal knowledge graph). Esta funcionalidade oferece uma estrutura que identifica relações familiares ao analisar os dados do utilizador no âmbito do Apple Intelligence.",
+          "meta": "652 pontos · 362 comentários",
+          "snapshot": {
+            "sourceId": "50403097",
+            "capturedAt": "2026-11-08T05:07:16.089Z",
+            "metadata": {
+              "popularity": 652,
+              "engagementCount": 362,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50403097",
+                  "popularity": 652,
+                  "engagementCount": 362
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-07T09:46:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50403097"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50403097",
+              "popularity": 652,
+              "engagementCount": 362
+            }
+          ]
+        },
+        {
+          "title": "What I run on my $10 USD OpenStick homelab",
+          "url": "https://blog.bosscher.ch/posts/openstick/",
+          "summary": "Um laboratório doméstico (homelab) montado num dispositivo OpenStick de dez dólares demonstra como hardware de baixo custo pode ser utilizado para funções de servidor. Esta configuração oferece a oportunidade de experimentar métodos de criação de infraestrutura digital pessoal com um orçamento limitado.",
+          "meta": "452 pontos · 96 comentários",
+          "snapshot": {
+            "sourceId": "50406670",
+            "capturedAt": "2026-11-08T05:07:16.089Z",
+            "metadata": {
+              "popularity": 452,
+              "engagementCount": 96,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50406670",
+                  "popularity": 452,
+                  "engagementCount": 96
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-07T18:12:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50406670",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "What I run on my $10 USD OpenStick homelab"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50406670",
+              "popularity": 452,
+              "engagementCount": 96
+            }
+          ]
+        },
+        {
+          "title": "The end of Microsoft Research's AI Frontiers group",
+          "url": "https://hunch.net/?p=13764006",
+          "summary": "O grupo de fronteiras de inteligência artificial (AI Frontiers), que operava no âmbito da Microsoft Research, está a ser encerrado. Este desenvolvimento sinaliza uma reestruturação das atividades de investigação dentro da gigante tecnológica Microsoft.",
+          "meta": "426 pontos · 252 comentários",
+          "snapshot": {
+            "sourceId": "50406563",
+            "capturedAt": "2026-11-08T05:07:16.089Z",
+            "metadata": {
+              "popularity": 426,
+              "engagementCount": 252,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50406563",
+                  "popularity": 426,
+                  "engagementCount": 252
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-07T18:02:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50406563"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;archive.is&#x2F;AaY5Ohttps:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50406563",
+              "popularity": 426,
+              "engagementCount": 252
+            }
+          ]
+        },
+        {
+          "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "summary": "A Apple mantém uma lista de mais de 100.000 palavras e expressões que a funcionalidade de texto preditivo (predictive text) está impedida de completar. Estas restrições impedem que o dispositivo sugira ou corrija automaticamente determinados grupos de palavras ao utilizador.",
+          "meta": "411 pontos · 267 comentários",
+          "snapshot": {
+            "sourceId": "50406111",
+            "capturedAt": "2026-11-08T05:07:16.089Z",
+            "metadata": {
+              "popularity": 411,
+              "engagementCount": 267,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50406111",
+                  "popularity": 411,
+                  "engagementCount": 267
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-07T17:06:36Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50406111",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "There are more than 100,000 words and phrases that the tech giant has restricted its predictive text from completing, research shows"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50406111",
+              "popularity": 411,
+              "engagementCount": 267
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "speridlabs/idol é um modelo de inteligência artificial que cria um Gaussian splat 3D a partir de uma única imagem. Ao remover o fundo e enquadrar o objeto, esta ferramenta produz resultados no formato padrão 3DGS .ply e funciona em menos de dois segundos em processadores gráficos de classe de consumo.",
+          "meta": "♥ 1.160 · 20.689 downloads",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-08T05:07:15.907Z",
+            "metadata": {
+              "popularity": 1160,
+              "engagementCount": 20689,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 755,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          }
+        },
+        {
+          "title": "moonshotai/Kimi-K3.1-Pro",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "summary": "O Kimi-K3.1-Pro, desenvolvido pela Moonshot AI, é um modelo de inteligência artificial multimodal capaz de processar dados visuais e textuais. Treinado sobre o modelo Kimi K3 com métodos de aprendizagem por reforço em larga escala, este modelo é apresentado como a primeira e mais capaz versão da série K3.1.",
+          "meta": "♥ 1.651 · 22.571 downloads",
+          "snapshot": {
+            "sourceId": "moonshotai/Kimi-K3.1-Pro",
+            "capturedAt": "2026-11-08T05:07:15.907Z",
+            "metadata": {
+              "popularity": 1651,
+              "engagementCount": 22571,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 533.5,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "kimi_k31",
+                  "text-generation",
+                  "compressed-tensors",
+                  "conversational",
+                  "image-text-to-text",
+                  "custom_code",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series."
+          }
+        },
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic é apresentado como um modelo de inteligência artificial focado na geração de texto (text-generation). Com uma taxa de sucesso média de 94,50% em vLLM nos testes GSM8K, o modelo visa aproximar-se do desempenho de modelos maiores com o seu tamanho de 9B parâmetros.",
+          "meta": "♥ 559 · 1.369 downloads",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-08T05:07:15.907Z",
+            "metadata": {
+              "popularity": 559,
+              "engagementCount": 1369,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 472,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. The NVFP4 checkpoint was evaluated on GSM8K four times, and the resulting scores were averaged. Its four-run mean accuracy is 94.50% under vLLM. In the comparison supplied with this release, the 9B student slightly exceeds the reported DeepSeek-V4-Pro teacher result and approaches the Llama-3.3-70B-Instruct reference."
+          }
+        },
+        {
+          "title": "ccore/Qwen3.5-4B-3D-Coder",
+          "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+          "summary": "O ccore/Qwen3.5-4B-3D-Coder, partilhado no Hugging Face, é um experimento que examina a viabilidade de pequenos modelos de linguagem em processos de codificação de propósito geral e na criação de cenas 3D de alta qualidade. O modelo visa apresentar desempenho tanto no desenvolvimento de software quanto na produção de conteúdo visual com um número limitado de parâmetros.",
+          "meta": "♥ 880 · 221.506 downloads",
+          "snapshot": {
+            "sourceId": "ccore/Qwen3.5-4B-3D-Coder",
+            "capturedAt": "2026-11-08T05:07:15.907Z",
+            "metadata": {
+              "popularity": 880,
+              "engagementCount": 221506,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 421,
+                "tags": [
+                  "safetensors",
+                  "gguf",
+                  "qwen3_5",
+                  "code",
+                  "threejs",
+                  "3d",
+                  "preview",
+                  "dataset:ccore/ThreeJS-3D-Scenes",
+                  "base_model:Qwen/Qwen3.5-4B",
+                  "base_model:finetune:Qwen/Qwen3.5-4B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "An experiment exploring the feasibility of small language models for general-purpose coding and high-quality 3D scene generation."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "O LTX-2.5, desenvolvido pela Lightricks, é um modelo de inteligência artificial de imagem para vídeo (image-to-video) que transforma imagens em imagens em movimento. Oferece uma tecnologia que permite aos usuários converter seu conteúdo estático para o formato de vídeo.",
+          "meta": "♥ 11.010 · 2.643.778 downloads",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-08T05:07:15.907Z",
+            "metadata": {
+              "popularity": 11010,
+              "engagementCount": 2643778,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 381,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+          "url": "https://huggingface.co/papers/2611.06500",
+          "summary": "O artigo 'Tools Need Not Speak in Text: Latent Context Compression for Agents' propõe que agentes de grandes modelos de linguagem (LLM) processem as saídas das ferramentas através de um método de compressão de contexto latente (latent context compression) em vez de texto. Esta abordagem visa reduzir a carga de contexto resultante do processamento de dados longos e ruidosos como texto, permitindo que os agentes se concentrem melhor nas informações orientadas a tarefas.",
+          "meta": "4 curtidas · 3 comentários",
+          "snapshot": {
+            "sourceId": "2611.06500",
+            "capturedAt": "2026-11-08T05:07:15.912Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 3,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06500",
+                "publishedAt": "2026-11-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/THU-Agent/Coca-cola",
+                "githubStars": 5
+              }
+            },
+            "description": "Large language model (LLM) agents typically append raw tool outputs to their context. Over multi-step interactions, long and noisy observations incur substantial context overhead and dilute the agent's attention to task-relevant information. Existing token pruning and summarization methods remain constrained by discrete text representations, limiting the achievable compression ratios. In this work, we challenge the prevailing assumption that agents must consume tool observations as explicit text"
+          }
+        },
+        {
+          "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+          "url": "https://huggingface.co/papers/2611.06498",
+          "summary": "O artigo partilhado pelo Hugging Face examina a lacuna de integridade de texto e vetor em processos de RAG offline (um método que permite que a IA gere respostas obtendo informações dos seus dados atuais e privados) usados em dispositivos de ponta. O estudo, que aborda a vulnerabilidade de pacotes de informação assinados à manipulação vetorial, analisa as falhas de segurança nos mecanismos de verificação e como essas falhas podem ser exploradas por atacantes.",
+          "meta": "4 curtidas · 6 comentários",
+          "snapshot": {
+            "sourceId": "2611.06498",
+            "capturedAt": "2026-11-08T05:07:15.912Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 6,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06498",
+                "publishedAt": "2026-11-04T13:32:04.000Z",
+                "githubRepo": "https://github.com/securagenai/signed-but-steerable",
+                "githubStars": 1
+              }
+            },
+            "description": "Offline retrieval-augmented generation (RAG) on edge devices is updated through signed knowledge packs that carry text and precomputed embedding vectors. A signature proves who published a pack, not that its vectors encode its text. We study this text-vector integrity gap. A verifier that recomputes vectors and accepts them within a cosine tolerance concedes a predictable share of queries to an attacker who controls the vectors: the hijack rate equals the distribution of angular retrieval margin"
+          }
+        },
+        {
+          "title": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
+          "url": "https://huggingface.co/papers/2611.04386",
+          "summary": "O StepX-OPD revisita o processo de destilação de política on-policy com múltiplos professores (multi-teacher on-policy distillation) em modelos de difusão (diffusion models) que geram imagens a partir de texto. O estudo examina as perdas de desempenho no processo de treino de duas etapas necessário para que o modelo realize amostragem de poucos passos (few-step sampling) enquanto mantém as suas capacidades.",
+          "meta": "4 curtidas · 3 comentários",
+          "snapshot": {
+            "sourceId": "2611.04386",
+            "capturedAt": "2026-11-08T05:07:15.912Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 3,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.04386",
+                "publishedAt": "2026-11-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/WinterCCC/StepX-OPD",
+                "githubStars": 5
+              }
+            },
+            "description": "A deployable text-to-image diffusion model must hold several capabilities at once, such as instruction following, text rendering and human preference, and must sample in a few steps. Capabilities and few-step sampling are built in separate stages: a full-step model first consolidates capabilities through multi-teacher on-policy distillation, then serves as a fixed teacher for step distillation. Every full-step model we evaluate scores lower once compressed, and the second stage cannot begin unti"
+          }
+        },
+        {
+          "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+          "url": "https://huggingface.co/papers/2611.08483",
+          "summary": "O SwarmEvolve é uma estrutura que visa acelerar os processos de pesquisa evolutiva baseados em grandes modelos de linguagem (LLM) usados na resolução de problemas matemáticos e computacionais. Ao utilizar centenas de agentes de baixo custo em enxame, proporciona otimização através de raciocínio no espaço latente (latent space) em vez da geração de texto.",
+          "meta": "8 curtidas · 4 comentários",
+          "snapshot": {
+            "sourceId": "2611.08483",
+            "capturedAt": "2026-11-08T05:07:15.912Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 4,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.08483",
+                "publishedAt": "2026-11-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/Qile-J/SwarmEvolve",
+                "githubStars": 8
+              }
+            },
+            "description": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decod"
+          }
+        },
+        {
+          "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+          "url": "https://huggingface.co/papers/2610.37739",
+          "summary": "O OpenFrontiers, publicado no Hugging Face, é um recurso interdisciplinar e um conjunto de referência (benchmark) que contém problemas de investigação científica e problemas matemáticos resolvidos recentemente. Oferece um repositório de dados estruturado para avaliar as capacidades de resolução de problemas ao nível da investigação de grandes modelos de linguagem (LLM).",
+          "meta": "4 curtidas · 3 comentários",
+          "snapshot": {
+            "sourceId": "2610.37739",
+            "capturedAt": "2026-11-08T05:07:15.912Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37739",
+                "publishedAt": "2026-10-27T00:00:00.000Z"
+              }
+            },
+            "description": "Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem statements, context, progress, and other informati"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerir programas escrevendo comandos escritos em vez de usar o rato."
+    },
+    {
+      "term": "accessibility tree",
+      "explanation": "Estrutura de dados que apresenta a estrutura e a função dos elementos nas páginas web numa ordem hierárquica que as IAs ou os leitores de ecrã podem compreender."
+    },
+    {
+      "term": "coding-agent",
+      "explanation": "Software de inteligência artificial que executa automaticamente tarefas de escrita, depuração ou edição de código em processos de desenvolvimento de software."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Conjunto de funções e capacidades específicas de que os agentes de inteligência artificial necessitam para realizar determinadas tarefas."
+    },
+    {
+      "term": "open source",
+      "explanation": "Tipo de software cujo código-fonte está aberto para que qualquer pessoa possa examinar, modificar e melhorar."
+    },
+    {
+      "term": "time series database",
+      "explanation": "Tipo de banco de dados especializado que armazena dados registrados com carimbo de data/hora com o objetivo de rastrear e analisar mudanças."
+    },
+    {
+      "term": "virtual machine",
+      "explanation": "Ambiente computacional criado via software que utiliza os recursos de um computador físico para executar seu próprio sistema operacional."
+    },
+    {
+      "term": "linter",
+      "explanation": "Ferramenta de auditoria que verifica e relata automaticamente partes incorretas ou fora do padrão do código escrito."
+    },
+    {
+      "term": "formatter",
+      "explanation": "Ferramenta que alinha automaticamente a aparência e o layout do código escrito de acordo com regras predeterminadas."
+    },
+    {
+      "term": "utility-first",
+      "explanation": "Um método que acelera o desenvolvimento de interfaces apresentando estilos de design em partes pequenas e de função única."
+    },
+    {
+      "term": "CSS framework",
+      "explanation": "Biblioteca de código pronta que permite criar o design visual de páginas da web de forma mais rápida e organizada."
+    },
+    {
+      "term": "code editor",
+      "explanation": "Aplicativo usado por desenvolvedores ao escrever código, possuindo recursos avançados como edição de texto e depuração."
+    },
+    {
+      "term": "context window",
+      "explanation": "Limite da quantidade de dados que modelos de inteligência artificial conseguem lembrar e processar simultaneamente durante uma operação."
+    },
+    {
+      "term": "token",
+      "explanation": "A menor unidade de dados correspondente a partes de palavras ou caracteres que modelos de inteligência artificial usam ao processar textos."
+    },
+    {
+      "term": "NVKE",
+      "explanation": "Plataforma de controle oferecida pela NVIDIA para gerenciar clusters de servidores com suporte a processamento gráfico."
+    },
+    {
+      "term": "bare metal",
+      "explanation": "Servidor físico que não possui camada de virtualização e é instalado diretamente sobre o hardware."
+    }
+  ]
+}
