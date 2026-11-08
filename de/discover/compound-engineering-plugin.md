@@ -2,17 +2,17 @@
 
 Verbundtechnik; Claude Code ist ein offizielles Add-on für Codex und Cursor. Die Grundphilosophie ist klar: Jede technische Aufgabe sollte die nächste einfacher und nicht schwieriger machen. Zu diesem Zweck bietet es KI-Fähigkeiten und Agenten, die den Entwicklungsprozess verbessern.
 
-- ★ 25.949
+- ★ 25.978
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026
 
 ## Aktualisierungen
 
+- **8. November 2026:** Sterne 25,949 → 25,978, neueste Version compound-engineering-v3.37.0 (8. November 2026).
 - **6. November 2026:** Sterne 25,948 → 25,949, neueste Version compound-engineering-v3.36.1 (6. November 2026).
 - **6. November 2026:** Sterne 25,927 → 25,948, neueste Version compound-engineering-v3.36.0 (5. November 2026).
 - **5. November 2026:** Sterne 25,905 → 25,927, neueste Version compound-engineering-v3.35.3 (4. November 2026).
-- **4. November 2026:** Sterne 25,874 → 25,905, neueste Version compound-engineering-v3.35.1 (4. November 2026).
 
 ## Was es bringt
 

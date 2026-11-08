@@ -60,6 +60,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [Formatter](https://trescout.com/pt/dictionary/formatter/)
+- [Linter](https://trescout.com/pt/dictionary/linter/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

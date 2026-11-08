@@ -1641,13 +1641,13 @@
     "slug": "heretic",
     "title": "Heretic",
     "tagline": "Dil modellerindeki güvenlik kısıtlarını kaldıran ileri düzey araç.",
-    "meta": "★ 39.601 · AGPL-3.0",
+    "meta": "★ 39.947 · AGPL-3.0",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 39601,
+    "stars": 39947,
     "image": "/assets/discover/og/heretic.webp",
     "headline": "Dil modellerinde güvenlik sınırlarını aşın",
     "last_review": "2026-11-08",
@@ -1707,6 +1707,13 @@
         "onceki_yildiz": 37706,
         "surum": "v2.0.0",
         "surum_tarihi": "2026-11-01"
+      },
+      {
+        "tarih": "2026-11-08",
+        "yildiz": 39947,
+        "onceki_yildiz": 39601,
+        "surum": "v2.1.0",
+        "surum_tarihi": "2026-11-08"
       }
     ],
     "tagline_en": "Advanced tool that removes security restrictions in language models.",
@@ -2336,14 +2343,14 @@
     "slug": "compound-engineering-plugin",
     "title": "Compound Engineering",
     "tagline": "Her işin bir sonrakini kolaylaştırdığı, yapay zekâ destekli mühendislik eklentisi (Claude Code/Codex/Cursor).",
-    "meta": "★ 25.949 · MIT",
+    "meta": "★ 25.978 · MIT",
     "source": "GitHub",
     "date": "2026-05-29",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 25949,
+    "stars": 25978,
     "image": "/assets/discover/og/compound-engineering-plugin.webp",
     "headline": "Yapay zekâ destekli mühendislik süreçleri",
     "last_review": "2026-11-08",
@@ -2585,6 +2592,13 @@
         "onceki_yildiz": 25948,
         "surum": "compound-engineering-v3.36.1",
         "surum_tarihi": "2026-11-06"
+      },
+      {
+        "tarih": "2026-11-08",
+        "yildiz": 25978,
+        "onceki_yildiz": 25949,
+        "surum": "compound-engineering-v3.37.0",
+        "surum_tarihi": "2026-11-08"
       }
     ],
     "tagline_en": "AI-powered engineering plugin (Claude Code/Codex/Cursor) where each job makes the next one easier.",
@@ -16890,7 +16904,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 80.656 · TypeScript",
+    "meta": "★ 80.713 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -16898,7 +16912,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 80656,
+    "stars": 80713,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-11-08",
@@ -17580,6 +17594,13 @@
         "yildiz": 80656,
         "onceki_yildiz": 79673,
         "surum": "v0.9.22",
+        "surum_tarihi": "2026-11-08"
+      },
+      {
+        "tarih": "2026-11-08",
+        "yildiz": 80713,
+        "onceki_yildiz": 80656,
+        "surum": "v0.9.23",
         "surum_tarihi": "2026-11-08"
       }
     ],
@@ -19392,7 +19413,7 @@
     "slug": "ppt-master",
     "title": "Ppt Master",
     "tagline": "PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır.",
-    "meta": "★ 71.069 · Python",
+    "meta": "★ 74.661 · Python",
     "image": "/assets/discover/og/ppt-master.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -19400,7 +19421,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 71069,
+    "stars": 74661,
     "lite": false,
     "headline": "Belgeleri düzenlenebilir sunumlara dönüştüren yapay zekâ",
     "last_review": "2026-11-08",
@@ -19556,6 +19577,13 @@
         "tarih": "2026-10-30",
         "yildiz": 71069,
         "onceki_yildiz": 69230,
+        "surum": "v6.8.0",
+        "surum_tarihi": "2026-10-30"
+      },
+      {
+        "tarih": "2026-11-08",
+        "yildiz": 74661,
+        "onceki_yildiz": 71069,
         "surum": "v6.8.0",
         "surum_tarihi": "2026-10-30"
       }
@@ -33338,14 +33366,14 @@
     "slug": "geolibre",
     "title": "GeoLibre",
     "tagline": "GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi…",
-    "meta": "★ 8.382 · TypeScript",
+    "meta": "★ 8.440 · TypeScript",
     "image": "/assets/discover/og/geolibre.webp",
     "source": "GitHub",
     "date": "2026-07-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 8382,
+    "stars": 8440,
     "lite": false,
     "headline": "Bulut tabanlı açık kaynaklı haritalama",
     "last_review": "2026-11-08",
@@ -33461,6 +33489,13 @@
         "onceki_yildiz": 8317,
         "surum": "v3.6.1",
         "surum_tarihi": "2026-11-02"
+      },
+      {
+        "tarih": "2026-11-08",
+        "yildiz": 8440,
+        "onceki_yildiz": 8382,
+        "surum": "v3.7.0",
+        "surum_tarihi": "2026-11-08"
       }
     ],
     "tagline_en": "GeoLibre is a lightweight, cloud-based geospatial information application designed to visualize, explore and analyze geographic data.",
@@ -36263,7 +36298,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 67.012 · Python",
+    "meta": "★ 67.241 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -36271,7 +36306,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 67012,
+    "stars": 67241,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-11-08",
@@ -36555,6 +36590,13 @@
         "onceki_yildiz": 66508,
         "surum": "v6.19.0",
         "surum_tarihi": "2026-11-06"
+      },
+      {
+        "tarih": "2026-11-08",
+        "yildiz": 67241,
+        "onceki_yildiz": 67012,
+        "surum": "v6.19.1",
+        "surum_tarihi": "2026-11-08"
       }
     ]
   },
@@ -46717,14 +46759,14 @@
     "slug": "archify",
     "title": "Archify",
     "tagline": "Archify, mimari, veri akışı ve iş akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ…",
-    "meta": "★ 90.051",
+    "meta": "★ 94.555",
     "image": "/assets/discover/og/archify.webp",
     "source": "GitHub",
     "date": "2026-08-26",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 90051,
+    "stars": 94555,
     "summary": "Archify, mimari, veri akışı ve iş akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ yeteneğidir (agent skill). Karmaşık sistem tasarımlarını görselleştirmek için kullanılan bu araç, diyagramların yüksek çözünürlüklü dışa aktarımını destekler.",
     "headline": "Yapay zekâ ile interaktif sistem şemaları oluşturun",
     "lite": false,
@@ -46852,6 +46894,13 @@
         "tarih": "2026-10-27",
         "yildiz": 90051,
         "onceki_yildiz": 85613,
+        "surum": "v3.2.0",
+        "surum_tarihi": "2026-10-19"
+      },
+      {
+        "tarih": "2026-11-08",
+        "yildiz": 94555,
+        "onceki_yildiz": 90051,
         "surum": "v3.2.0",
         "surum_tarihi": "2026-10-19"
       }
@@ -60881,14 +60930,14 @@
     "slug": "localthings",
     "title": "Localthings",
     "tagline": "mbillow/localthings, Samsung ev aletlerini bulut hesabı gerektirmeden yerel ağ üzerinden akıllı ev yönetim platformu Home…",
-    "meta": "★ 1.095 · Python",
+    "meta": "★ 1.113 · Python",
     "image": "/assets/discover/og/localthings.webp",
     "source": "GitHub",
     "date": "2026-11-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1095,
+    "stars": 1113,
     "last_seen": "2026-11-08",
     "summary": "mbillow/localthings, Samsung ev aletlerini bulut hesabı gerektirmeden yerel ağ üzerinden akıllı ev yönetim platformu Home Assistant ile kontrol etmenizi sağlar. Python diliyle geliştirilen bu araç, cihazlarınız üzerindeki denetimi doğrudan yerel ağınıza taşır.",
     "lite": false,
@@ -60903,6 +60952,13 @@
         "onceki_yildiz": 1093,
         "surum": "v0.36.0",
         "surum_tarihi": "2026-11-02"
+      },
+      {
+        "tarih": "2026-11-08",
+        "yildiz": 1113,
+        "onceki_yildiz": 1095,
+        "surum": "v0.37.0",
+        "surum_tarihi": "2026-11-08"
       }
     ],
     "tagline_en": "mbillow/localthings enables the management of Samsung home appliances locally over the network without requiring a cloud account, via the smart home management platform Home…",

@@ -2,12 +2,13 @@
 
 mbillow/localthings, Samsung ev aletlerini bulut hesabı gerektirmeden yerel ağ üzerinden akıllı ev yönetim platformu Home Assistant ile kontrol etmenizi sağlar. Python diliyle geliştirilen bu araç, cihazlarınız üzerindeki denetimi doğrudan yerel ağınıza taşır.
 
-- ★ 1.095
+- ★ 1.113
 - Python
 - GitHub Trending · 2026-11-08
 
 ## Güncelleme
 
+- **8 Kasım 2026:** Yıldız 1.095 → 1.113, son sürüm v0.37.0 (8 Kasım 2026).
 - **8 Kasım 2026:** Yıldız 1.093 → 1.095, son sürüm v0.36.0 (2 Kasım 2026).
 
 ## Ne kazandırır?

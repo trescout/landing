@@ -2,17 +2,17 @@
 
 Heretic é uma ferramenta técnica que remove restrições de alinhamento de segurança de modelos de linguagem baseados em transformadores sem a necessidade de processos caros de retreinamento. Utilizando a técnica de 'Abliteração', esta solução é avançada e orientada para a investigação.
 
-- ★ 39.601
+- ★ 39.947
 - Python
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
 ## Atualizações
 
+- **8 de novembro de 2026:** Estrelas 39,601 → 39,947, versão mais recente v2.1.0 (8 de novembro de 2026).
 - **6 de novembro de 2026:** Estrelas 37,706 → 39,601, versão mais recente v2.0.0 (1 de novembro de 2026).
 - **2 de novembro de 2026:** Estrelas 36,044 → 37,706, versão mais recente v2.0.0 (1 de novembro de 2026).
 - **21 de outubro de 2026:** Estrelas 34,271 → 36,044, versão mais recente v1.4.0 (14 de junho de 2026).
-- **9 de outubro de 2026:** Estrelas 32,626 → 34,271, versão mais recente v1.4.0 (14 de junho de 2026).
 
 ## Instalação
 

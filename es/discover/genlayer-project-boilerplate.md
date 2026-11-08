@@ -54,6 +54,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Smart Contracts](https://trescout.com/es/dictionary/smart-contracts/)
+- [Linter](https://trescout.com/es/dictionary/linter/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores que desean desarrollar contratos inteligentes que se ejecuten en blockchain e interactúen con datos del mundo exterior.

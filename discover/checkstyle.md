@@ -92,10 +92,10 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Sun Code Conventions](https://trescout.com/dictionary/sun-code-conventions/)
 - [Pull Request](https://trescout.com/dictionary/pull-request/)
+- [Linter](https://trescout.com/dictionary/linter/)
 - [Parser](https://trescout.com/dictionary/parser/)
 - [IDE](https://trescout.com/dictionary/ide/)
 - [CI/CD](https://trescout.com/dictionary/ci-cd/)
-- [CLI](https://trescout.com/dictionary/cli/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/checkstyle/

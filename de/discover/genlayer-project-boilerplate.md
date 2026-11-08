@@ -54,6 +54,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Smart Contracts](https://trescout.com/de/dictionary/smart-contracts/)
+- [Linter](https://trescout.com/de/dictionary/linter/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Entwickler, die intelligente Verträge entwickeln möchten, die auf der Blockchain laufen und mit Daten aus der Außenwelt interagieren.

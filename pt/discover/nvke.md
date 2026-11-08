@@ -45,6 +45,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Bare Metal](https://trescout.com/pt/dictionary/bare-metal/)
+- [NVKE](https://trescout.com/pt/dictionary/nvke/)
 - [Clone](https://trescout.com/pt/dictionary/clone/)
 - [GPU](https://trescout.com/pt/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

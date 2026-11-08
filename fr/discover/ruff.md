@@ -60,6 +60,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Formatter](https://trescout.com/fr/dictionary/formatter/)
+- [Linter](https://trescout.com/fr/dictionary/linter/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

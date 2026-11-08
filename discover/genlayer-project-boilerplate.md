@@ -63,6 +63,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Smart Contracts](https://trescout.com/dictionary/smart-contracts/)
+- [Linter](https://trescout.com/dictionary/linter/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

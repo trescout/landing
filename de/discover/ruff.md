@@ -60,6 +60,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Formatter](https://trescout.com/de/dictionary/formatter/)
+- [Linter](https://trescout.com/de/dictionary/linter/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

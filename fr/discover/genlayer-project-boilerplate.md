@@ -54,6 +54,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Smart Contracts](https://trescout.com/fr/dictionary/smart-contracts/)
+- [Linter](https://trescout.com/fr/dictionary/linter/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs qui souhaitent développer des contrats intelligents fonctionnant sur la blockchain et interagissant avec des données du monde extérieur.

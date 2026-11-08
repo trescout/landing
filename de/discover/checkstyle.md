@@ -75,10 +75,10 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Sun Code Conventions](https://trescout.com/de/dictionary/sun-code-conventions/)
 - [Pull Request](https://trescout.com/de/dictionary/pull-request/)
+- [Linter](https://trescout.com/de/dictionary/linter/)
 - [Parser](https://trescout.com/de/dictionary/parser/)
 - [IDE](https://trescout.com/de/dictionary/ide/)
 - [CI/CD](https://trescout.com/de/dictionary/ci-cd/)
-- [CLI](https://trescout.com/de/dictionary/cli/)
 
 - **Für wen es gedacht ist:** Java-Entwickler, Softwarearchitekten, Qualitätssicherungsteams und technische Leiter.
 - **Lizenz:** LGPL-2.1 (Open-Source-Bibliothekslizenz)

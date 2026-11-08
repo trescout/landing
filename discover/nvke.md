@@ -54,6 +54,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Bare Metal](https://trescout.com/dictionary/bare-metal/)
+- [NVKE](https://trescout.com/dictionary/nvke/)
 - [Clone](https://trescout.com/dictionary/clone/)
 - [GPU](https://trescout.com/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)

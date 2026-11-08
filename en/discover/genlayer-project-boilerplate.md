@@ -54,6 +54,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Smart Contracts](https://trescout.com/en/dictionary/smart-contracts/)
+- [Linter](https://trescout.com/en/dictionary/linter/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for developers who want to develop smart contracts that run on blockchain and interact with outside world data.

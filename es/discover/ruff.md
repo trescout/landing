@@ -60,6 +60,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [Formatter](https://trescout.com/es/dictionary/formatter/)
+- [Linter](https://trescout.com/es/dictionary/linter/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

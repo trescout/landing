@@ -69,6 +69,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [Formatter](https://trescout.com/dictionary/formatter/)
+- [Linter](https://trescout.com/dictionary/linter/)
 - [Rust](https://trescout.com/dictionary/rust/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

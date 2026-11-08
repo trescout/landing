@@ -10489,5 +10489,44 @@
     "kisa_es": "Es una infraestructura de servidor que se ejecuta directamente sobre el hardware físico, sin ninguna capa de virtualización.",
     "kisa_pt": "É uma infraestrutura de servidor que não possui nenhuma camada de virtualização e é executada diretamente no hardware físico.",
     "kisa_de": "Es handelt sich um eine Serverinfrastruktur, die direkt auf physischer Hardware läuft und keine Virtualisierungsschicht aufweist."
+  },
+  {
+    "slug": "linter",
+    "en": "Linter",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılan kaynak kodu çalıştırmadan inceleyerek yazım hatalarını, olası mantık kusurlarını ve stil ihlallerini tespit eden denetim aracıdır.",
+    "date": "2026-11-08",
+    "kisa_en": "It is an inspection tool that analyzes written source code without running it to detect typos, potential logic flaws, and style violations.",
+    "kisa_fr": "Outil d'inspection qui examine le code source écrit sans l'exécuter afin de détecter les erreurs de syntaxe, les failles logiques potentielles et les violations de style.",
+    "kisa_es": "Es una herramienta de inspección que examina el código fuente escrito sin ejecutarlo para detectar errores tipográficos, posibles defectos lógicos e infracciones de estilo.",
+    "kisa_pt": "É uma ferramenta de inspeção que examina o código-fonte escrito sem executá-lo, detectando erros de escrita, possíveis falhas lógicas e violações de estilo.",
+    "kisa_de": "Es handelt sich um ein Prüfwerkzeug, das den geschriebenen Quellcode ohne Ausführung untersucht, um Syntaxfehler, mögliche Logikfehler und Stilverstöße zu erkennen."
+  },
+  {
+    "slug": "formatter",
+    "en": "Formatter",
+    "full": "Code Formatter",
+    "cat": "dev",
+    "kisa": "Kaynak kodun girintilerini, boşluklarını ve satır sonlarını önceden belirlenmiş kurallara göre otomatik olarak düzenleyen araçtır.",
+    "date": "2026-11-08",
+    "kisa_en": "It is a tool that automatically formats the indentation, spacing, and line breaks of source code according to predetermined rules.",
+    "kisa_fr": "Outil qui organise automatiquement les indentations, les espaces et les sauts de ligne du code source selon des règles prédéfinies.",
+    "kisa_es": "Es una herramienta que organiza automáticamente las sangrías, los espacios y los saltos de línea del código fuente según reglas predeterminadas.",
+    "kisa_pt": "É uma ferramenta que organiza automaticamente a indentação, os espaços e as quebras de linha do código-fonte de acordo com regras predeterminadas.",
+    "kisa_de": "Es ist ein Werkzeug, das die Einrückungen, Leerzeichen und Zeilenumbrüche des Quellcodes automatisch nach vordefinierten Regeln ordnet."
+  },
+  {
+    "slug": "nvke",
+    "en": "NVKE",
+    "full": "",
+    "cat": "dev",
+    "kisa": "NVIDIA donanımlı bulut altyapılarında yapay zekâ iş yüklerini ve GPU kümelerini düzenlemek için kullanılan kontrol platformudur.",
+    "date": "2026-11-08",
+    "kisa_en": "It is a control platform used to orchestrate artificial intelligence workloads and GPU clusters in NVIDIA-equipped cloud infrastructures.",
+    "kisa_fr": "Plateforme de contrôle utilisée pour orchestrer les charges de travail d'intelligence artificielle et les clusters de GPU dans les infrastructures cloud équipées de matériel NVIDIA.",
+    "kisa_es": "Es una plataforma de control utilizada para organizar cargas de trabajo de inteligencia artificial y clústeres de GPU en infraestructuras en la nube equipadas con NVIDIA.",
+    "kisa_pt": "É uma plataforma de controle utilizada para organizar cargas de trabalho de inteligência artificial e clusters de GPU em infraestruturas de nuvem equipadas com NVIDIA.",
+    "kisa_de": "Es ist eine Steuerungsplattform zur Orchestrierung von KI-Arbeitslasten und GPU-Clustern in Cloud-Infrastrukturen mit NVIDIA-Hardware."
   }
 ]

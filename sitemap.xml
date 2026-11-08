@@ -1951,6 +1951,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/formatter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/foundation-model/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2623,6 +2629,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/linter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/linux-server-security/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -3069,6 +3081,12 @@
   <url>
     <loc>https://trescout.com/dictionary/nsa/</loc>
     <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/dictionary/nvke/</loc>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5228,7 +5246,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/archify/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5576,7 +5594,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/checkstyle/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5840,7 +5858,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/compound-engineering-plugin/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6356,7 +6374,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/free-claude-code/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6440,13 +6458,13 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/genlayer-project-boilerplate/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://trescout.com/discover/geolibre/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6638,7 +6656,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/heretic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7982,7 +8000,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/ppt-master/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8162,7 +8180,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/ruff/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11983,6 +12001,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/dictionary/formatter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/dictionary/foundation-model/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -12655,6 +12679,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/dictionary/linter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/dictionary/linux-server-security/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -13101,6 +13131,12 @@
   <url>
     <loc>https://trescout.com/de/dictionary/nsa/</loc>
     <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/de/dictionary/nvke/</loc>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -15260,7 +15296,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/archify/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -15608,7 +15644,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/checkstyle/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -15872,7 +15908,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/compound-engineering-plugin/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16388,7 +16424,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/free-claude-code/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16472,13 +16508,13 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/genlayer-project-boilerplate/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://trescout.com/de/discover/geolibre/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16670,7 +16706,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/heretic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18014,7 +18050,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/ppt-master/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18194,7 +18230,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/ruff/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -21919,6 +21955,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/dictionary/formatter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/dictionary/foundation-model/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -22591,6 +22633,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/dictionary/linter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/dictionary/linux-server-security/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -23037,6 +23085,12 @@
   <url>
     <loc>https://trescout.com/en/dictionary/nsa/</loc>
     <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/en/dictionary/nvke/</loc>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -25196,7 +25250,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/archify/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -25544,7 +25598,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/checkstyle/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -25808,7 +25862,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/compound-engineering-plugin/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26324,7 +26378,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/free-claude-code/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26408,13 +26462,13 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/genlayer-project-boilerplate/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://trescout.com/en/discover/geolibre/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26606,7 +26660,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/heretic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27950,7 +28004,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/ppt-master/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28130,7 +28184,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/ruff/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -31855,6 +31909,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/formatter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/foundation-model/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -32527,6 +32587,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/linter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/linux-server-security/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -32973,6 +33039,12 @@
   <url>
     <loc>https://trescout.com/es/dictionary/nsa/</loc>
     <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/es/dictionary/nvke/</loc>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -35132,7 +35204,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/archify/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -35480,7 +35552,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/checkstyle/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -35744,7 +35816,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/compound-engineering-plugin/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -36260,7 +36332,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/free-claude-code/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -36344,13 +36416,13 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/genlayer-project-boilerplate/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://trescout.com/es/discover/geolibre/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -36542,7 +36614,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/heretic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -37886,7 +37958,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/ppt-master/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38066,7 +38138,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/ruff/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -41791,6 +41863,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/dictionary/formatter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/fr/dictionary/foundation-model/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -42463,6 +42541,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/dictionary/linter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/fr/dictionary/linux-server-security/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -42909,6 +42993,12 @@
   <url>
     <loc>https://trescout.com/fr/dictionary/nsa/</loc>
     <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/fr/dictionary/nvke/</loc>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -45068,7 +45158,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/archify/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -45416,7 +45506,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/checkstyle/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -45680,7 +45770,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/compound-engineering-plugin/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -46196,7 +46286,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/free-claude-code/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -46280,13 +46370,13 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/genlayer-project-boilerplate/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/geolibre/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -46478,7 +46568,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/heretic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -47822,7 +47912,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/ppt-master/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48002,7 +48092,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/ruff/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -51727,6 +51817,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/formatter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/foundation-model/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -52399,6 +52495,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/linter/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/linux-server-security/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -52845,6 +52947,12 @@
   <url>
     <loc>https://trescout.com/pt/dictionary/nsa/</loc>
     <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/pt/dictionary/nvke/</loc>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -55004,7 +55112,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/archify/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -55352,7 +55460,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/checkstyle/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -55616,7 +55724,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/compound-engineering-plugin/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -56132,7 +56240,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/free-claude-code/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -56216,13 +56324,13 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/genlayer-project-boilerplate/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/geolibre/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -56414,7 +56522,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/heretic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -57758,7 +57866,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/ppt-master/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -57938,7 +58046,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/ruff/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
