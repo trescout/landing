@@ -47,8 +47,8 @@ PDF içindeki metin ve görüntüleri ayrıştıran özel araçlar (parser) ile 
 - [Stirling-PDF](https://trescout.com/discover/stirling-pdf/)
 - [Puppeteer](https://trescout.com/discover/puppeteer/)
 - [PaddleOCR](https://trescout.com/discover/paddleocr/)
-- [MinerU](https://trescout.com/discover/mineru/)
 - [ChinaTextbook](https://trescout.com/discover/chinatextbook/)
+- [MinerU](https://trescout.com/discover/mineru/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

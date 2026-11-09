@@ -2,13 +2,14 @@
 
 Developed with the Go language, Restic offers an open source backup program that backs up data quickly and efficiently by encrypting it. This tool, which supports different storage systems, saves storage space with the incremental backup method.
 
-- ★ 35,302
+- ★ 37,090
 - GitHub Trending · 2026-06-12
 
 **TreScout note:** It stores your backups by encrypting them and does not take up space because it does not write the same file twice. It does not have a clickable interface, it runs from the command line and you set the task of cleaning old backups, otherwise the storage will swell over time. Try restoring a file the same day you installed it: you won't be able to tell otherwise that the backup actually worked.
 
 ## Updates
 
+- **November 9, 2026:** Stars 35,302 → 37,090, latest release v0.19.1 (July 5, 2026).
 - **August 2, 2026:** Stars 34,273 → 35,302, latest release v0.19.1 (July 5, 2026).
 
 ## What you get

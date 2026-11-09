@@ -47,8 +47,8 @@ Es liest das PDF, indem es es mit speziellen Werkzeugen (Parsern), die den darin
 - [Stirling-PDF](https://trescout.com/de/discover/stirling-pdf/)
 - [Puppeteer](https://trescout.com/de/discover/puppeteer/)
 - [PaddleOCR](https://trescout.com/de/discover/paddleocr/)
-- [MinerU](https://trescout.com/de/discover/mineru/)
 - [ChinaTextbook](https://trescout.com/de/discover/chinatextbook/)
+- [MinerU](https://trescout.com/de/discover/mineru/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/pdf/)
 

@@ -2,12 +2,13 @@
 
 FlashML-org/FreeToken est une bibliothèque permettant d'exécuter rapidement et efficacement des modèles d'intelligence artificielle à grande échelle de type centre de données sur des ordinateurs personnels. Elle permet aux utilisateurs d'utiliser des modèles de mélange d'experts (Mixture of Experts, MoE) dépassant 290 milliards de paramètres à des vitesses interactives sur du matériel standard.
 
-- ★ 16 721
+- ★ 16 863
 - Python
 - GitHub Trending · 2026-11-02
 
 ## Mises à jour
 
+- **9 novembre 2026:** Étoiles 16,721 → 16,863, dernière version v0.2.2 (9 novembre 2026).
 - **6 novembre 2026:** Étoiles 15,664 → 16,721, dernière version v0.2.1 (26 octobre 2026).
 - **2 novembre 2026:** Étoiles 15,543 → 15,664, dernière version v0.2.1 (26 octobre 2026).
 

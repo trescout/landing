@@ -2,16 +2,16 @@
 
 OpenMausBot, sohbet uygulamaları içerisinde kendi yapay zekâ bot ekibinizi oluşturmanıza olanak tanıyan açık kaynaklı (open source) bir Grok Bot alternatifidir. Yazılım, botların kullanabileceği sanal bir makine desteğiyle birlikte gelir.
 
-- ★ 17.230
+- ★ 18.650
 - TypeScript
 - GitHub Trending · 2026-10-30
 
 ## Güncelleme
 
+- **9 Kasım 2026:** Yıldız 17.230 → 18.650, son sürüm v0.1.150 (9 Kasım 2026).
 - **8 Kasım 2026:** Yıldız 15.668 → 17.230, son sürüm v0.1.148 (7 Kasım 2026).
 - **7 Kasım 2026:** Yıldız 13.736 → 15.668, son sürüm v0.1.146 (7 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 12.348 → 13.736, son sürüm v0.1.142 (5 Kasım 2026).
-- **5 Kasım 2026:** Yıldız 11.767 → 12.348, son sürüm v0.1.141 (5 Kasım 2026).
 
 ## Ne kazandırır?
 

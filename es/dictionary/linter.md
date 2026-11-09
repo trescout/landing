@@ -34,6 +34,7 @@ No. El linter solo funciona en la fase de desarrollo y compilación, y no afecta
 
 ## Términos relacionados
 
+- [Formatter](https://trescout.com/es/dictionary/formatter/)
 - [Abstract Syntax Tree](https://trescout.com/es/dictionary/ast/)
 - [Clean Code](https://trescout.com/es/dictionary/clean-code/)
 - [CI/CD](https://trescout.com/es/dictionary/ci-cd/)

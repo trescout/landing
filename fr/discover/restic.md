@@ -2,13 +2,14 @@
 
 Développé avec le langage Go, Restic propose un programme de sauvegarde open source qui sauvegarde les données rapidement et efficacement en les chiffrant. Cet outil, qui prend en charge différents systèmes de stockage, économise de l'espace de stockage grâce à la méthode de sauvegarde incrémentielle.
 
-- ★ 35 302
+- ★ 37 090
 - GitHub Trending · 2026-06-12
 
 **Note TreScout :** Il stocke vos sauvegardes en les chiffrant et ne prend pas de place car il n'écrit pas deux fois le même fichier. Il n'a pas d'interface cliquable, il s'exécute à partir de la ligne de commande et vous définissez la tâche de nettoyer les anciennes sauvegardes, sinon le stockage gonflera avec le temps. Essayez de restaurer un fichier le jour même de son installation : vous ne pourrez pas savoir autrement que la sauvegarde a réellement fonctionné.
 
 ## Mises à jour
 
+- **9 novembre 2026:** Étoiles 35,302 → 37,090, dernière version v0.19.1 (5 juillet 2026).
 - **2 août 2026:** Étoiles 34,273 → 35,302, dernière version v0.19.1 (5 juillet 2026).
 
 ## Ce que ça vous apporte

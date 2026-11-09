@@ -2,16 +2,16 @@
 
 Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık kaynaklı bir çıkarım sunucusu (inference server). Cline gibi kodlama asistanları ve çeşitli açık kaynaklı modellerle uyumlu çalışarak yerel bilgisayar gücünden yararlanmayı kolaylaştırıyor.
 
-- ★ 7.692
+- ★ 7.757
 - TypeScript
 - GitHub Trending · 2026-09-04
 
 ## Güncelleme
 
+- **9 Kasım 2026:** Yıldız 7.692 → 7.757, son sürüm @magnitudedev/cli@0.2.17 (8 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 7.574 → 7.692, son sürüm @magnitudedev/cli@0.2.16 (3 Kasım 2026).
 - **30 Ekim 2026:** Yıldız 7.497 → 7.574, son sürüm @magnitudedev/cli@0.2.15 (30 Ekim 2026).
 - **29 Ekim 2026:** Yıldız 7.365 → 7.497, son sürüm @magnitudedev/cli@0.2.14 (29 Ekim 2026).
-- **28 Ekim 2026:** Yıldız 7.350 → 7.365, son sürüm @magnitudedev/cli@0.2.13 (28 Ekim 2026).
 
 ## Ne kazandırır?
 

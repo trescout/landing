@@ -34,6 +34,7 @@ Não. O linter roda apenas na fase de desenvolvimento e compilação, não afeta
 
 ## Termos relacionados
 
+- [Formatter](https://trescout.com/pt/dictionary/formatter/)
 - [Abstract Syntax Tree](https://trescout.com/pt/dictionary/ast/)
 - [Clean Code](https://trescout.com/pt/dictionary/clean-code/)
 - [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)

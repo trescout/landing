@@ -47,8 +47,8 @@ Ele lê o PDF convertendo-o em texto com ferramentas especiais (analisadores) qu
 - [Stirling-PDF](https://trescout.com/pt/discover/stirling-pdf/)
 - [Puppeteer](https://trescout.com/pt/discover/puppeteer/)
 - [PaddleOCR](https://trescout.com/pt/discover/paddleocr/)
-- [MinerU](https://trescout.com/pt/discover/mineru/)
 - [ChinaTextbook](https://trescout.com/pt/discover/chinatextbook/)
+- [MinerU](https://trescout.com/pt/discover/mineru/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/pdf/)
 

@@ -47,8 +47,8 @@ Il lit le PDF en le convertissant en texte avec des outils spéciaux (analyseurs
 - [Stirling-PDF](https://trescout.com/fr/discover/stirling-pdf/)
 - [Puppeteer](https://trescout.com/fr/discover/puppeteer/)
 - [PaddleOCR](https://trescout.com/fr/discover/paddleocr/)
-- [MinerU](https://trescout.com/fr/discover/mineru/)
 - [ChinaTextbook](https://trescout.com/fr/discover/chinatextbook/)
+- [MinerU](https://trescout.com/fr/discover/mineru/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/pdf/)
 

@@ -2,16 +2,16 @@
 
 Ruflo es una capa de orquestación de agentes para implementar enjambres de agentes inteligentes, coordinar flujos de trabajo autónomos y crear sistemas de IA conversacionales.
 
-- ★ 81.098
+- ★ 81.294
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Actualizaciones
 
+- **9 de noviembre de 2026:** Estrellas 81,098 → 81,294, última versión v3.73.0 (9 de noviembre de 2026).
 - **7 de noviembre de 2026:** Estrellas 81,009 → 81,098, última versión v3.72.2 (6 de noviembre de 2026).
 - **6 de noviembre de 2026:** Estrellas 80,904 → 81,009, última versión v3.72.0 (6 de noviembre de 2026).
 - **5 de noviembre de 2026:** Estrellas 80,579 → 80,904, última versión v3.71.4 (5 de noviembre de 2026).
-- **2 de noviembre de 2026:** Estrellas 80,447 → 80,579, última versión v3.71.0 (1 de noviembre de 2026).
 
 ## Qué aporta
 

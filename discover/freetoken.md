@@ -2,12 +2,13 @@
 
 FlashML-org/FreeToken, veri merkezi ölçeğindeki büyük yapay zekâ modellerini kişisel bilgisayarlarda hızlı ve verimli bir şekilde çalıştırmayı sağlayan bir kütüphanedir. Kullanıcıların 290 milyar parametre üzerindeki uzman karışımı (Mixture of Experts, MoE) modellerini standart donanımlar üzerinde etkileşimli hızlarda kullanmasına olanak tanır.
 
-- ★ 16.721
+- ★ 16.863
 - Python
 - GitHub Trending · 2026-11-02
 
 ## Güncelleme
 
+- **9 Kasım 2026:** Yıldız 16.721 → 16.863, son sürüm v0.2.2 (9 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 15.664 → 16.721, son sürüm v0.2.1 (26 Ekim 2026).
 - **2 Kasım 2026:** Yıldız 15.543 → 15.664, son sürüm v0.2.1 (26 Ekim 2026).
 

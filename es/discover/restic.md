@@ -2,13 +2,14 @@
 
 Desarrollado con el lenguaje Go, Restic ofrece un programa de copia de seguridad de código abierto que realiza copias de seguridad de los datos de forma rápida y eficiente cifrándolos. Esta herramienta, que admite diferentes sistemas de almacenamiento, ahorra espacio de almacenamiento con el método de copia de seguridad incremental.
 
-- ★ 35.302
+- ★ 37.090
 - GitHub Trending · 2026-06-12
 
 **Nota de TreScout:** Almacena tus copias de seguridad cifrándolas y no ocupa espacio porque no escribe el mismo archivo dos veces. No tiene una interfaz en la que se puede hacer clic, se ejecuta desde la línea de comandos y usted establece la tarea de limpiar las copias de seguridad antiguas; de lo contrario, el almacenamiento aumentará con el tiempo. Intente restaurar un archivo el mismo día que lo instaló: de lo contrario, no podrá saber si la copia de seguridad realmente funcionó.
 
 ## Actualizaciones
 
+- **9 de noviembre de 2026:** Estrellas 35,302 → 37,090, última versión v0.19.1 (5 de julio de 2026).
 - **2 de agosto de 2026:** Estrellas 34,273 → 35,302, última versión v0.19.1 (5 de julio de 2026).
 
 ## Qué aporta

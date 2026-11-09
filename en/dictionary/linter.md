@@ -34,6 +34,7 @@ No. A linter only runs during the development and compilation phase and does not
 
 ## Related terms
 
+- [Formatter](https://trescout.com/en/dictionary/formatter/)
 - [Abstract Syntax Tree](https://trescout.com/en/dictionary/ast/)
 - [Clean Code](https://trescout.com/en/dictionary/clean-code/)
 - [CI/CD](https://trescout.com/en/dictionary/ci-cd/)

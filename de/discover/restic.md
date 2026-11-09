@@ -2,13 +2,14 @@
 
 Restic wurde mit der Go-Sprache entwickelt und bietet ein Open-Source-Backup-Programm, das Daten durch Verschlüsselung schnell und effizient sichert. Dieses Tool, das verschiedene Speichersysteme unterstützt, spart Speicherplatz mit der inkrementellen Backup-Methode.
 
-- ★ 35.302
+- ★ 37.090
 - GitHub Trending · 2026-06-12
 
 **Hinweis von TreScout:** Es speichert Ihre Backups, indem es sie verschlüsselt, und nimmt keinen Speicherplatz ein, da dieselbe Datei nicht zweimal geschrieben wird. Es verfügt über keine anklickbare Oberfläche, es wird über die Befehlszeile ausgeführt und Sie legen die Aufgabe fest, alte Backups zu bereinigen, da sonst der Speicher mit der Zeit anschwillt. Versuchen Sie, eine Datei am selben Tag wiederherzustellen, an dem Sie sie installiert haben. Andernfalls können Sie nicht erkennen, dass die Sicherung tatsächlich funktioniert hat.
 
 ## Aktualisierungen
 
+- **9. November 2026:** Sterne 35,302 → 37,090, neueste Version v0.19.1 (5. Juli 2026).
 - **2. August 2026:** Sterne 34,273 → 35,302, neueste Version v0.19.1 (5. Juli 2026).
 
 ## Was es bringt

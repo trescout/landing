@@ -2,12 +2,13 @@
 
 Sequoia-X is a Python-based software that performs automated stock selection based on technical analysis formulas using Chinese stock market data. It performs scanning operations after the end-of-day market close and delivers the results via Feishu, a corporate messaging application.
 
-- ★ 7,594
+- ★ 8,601
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Updates
 
+- **November 9, 2026:** Stars 7,594 → 8,601.
 - **September 27, 2026:** Stars 6,376 → 7,594.
 
 ## What you get

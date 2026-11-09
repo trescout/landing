@@ -2,16 +2,16 @@
 
 Open Interpreter, yerel bilgisayar ortamında kod çalıştırarak yazılım geliştirme süreçlerini otomatize eden bir kodlama ajanı (coding agent) sunuyor. Düşük maliyetli dil modelleriyle uyumlu çalışacak şekilde tasarlanan bu araç, karmaşık görevleri doğrudan terminal üzerinden yürütmeyi sağlıyor.
 
-- ★ 68.790
+- ★ 68.840
 - Rust
 - GitHub Trending · 2026-07-16
 
 ## Güncelleme
 
+- **9 Kasım 2026:** Yıldız 68.790 → 68.840, son sürüm rust-v0.0.60 (9 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 68.776 → 68.790, son sürüm rust-v0.0.59 (4 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 68.768 → 68.776, son sürüm rust-v0.0.58 (1 Kasım 2026).
 - **1 Kasım 2026:** Yıldız 68.521 → 68.768, son sürüm rust-v0.0.57 (31 Ekim 2026).
-- **7 Ekim 2026:** Yıldız 68.478 → 68.521, son sürüm rust-v0.0.56 (7 Ekim 2026).
 
 ## Ne kazandırır?
 

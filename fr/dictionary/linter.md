@@ -34,6 +34,7 @@ Non. Le linter fonctionne uniquement pendant les phases de développement et de 
 
 ## Termes liés
 
+- [Formatter](https://trescout.com/fr/dictionary/formatter/)
 - [Abstract Syntax Tree](https://trescout.com/fr/dictionary/ast/)
 - [Clean Code](https://trescout.com/fr/dictionary/clean-code/)
 - [CI/CD](https://trescout.com/fr/dictionary/ci-cd/)

@@ -34,6 +34,7 @@ Nein. Ein Linter läuft ausschließlich in der Entwicklungs- und Build-Phase und
 
 ## Verwandte Begriffe
 
+- [Formatter](https://trescout.com/de/dictionary/formatter/)
 - [Abstract Syntax Tree](https://trescout.com/de/dictionary/ast/)
 - [Clean Code](https://trescout.com/de/dictionary/clean-code/)
 - [CI/CD](https://trescout.com/de/dictionary/ci-cd/)

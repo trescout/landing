@@ -2,12 +2,13 @@
 
 O repositório ChinaTextbook oferece um arquivo digital de livros didáticos usados ​​no currículo da educação chinesa, desde a escola primária até o nível universitário, em formato de documento portátil (PDF). Este recurso fornece um ponto de acesso central para uma ampla variedade de materiais acadêmicos.
 
-- ★ 80.243
+- ★ 84.274
 - Roff
 - GitHub Trending · 2026-06-08
 
 ## Atualizações
 
+- **9 de novembro de 2026:** Estrelas 80,243 → 84,274.
 - **19 de agosto de 2026:** Estrelas 76,412 → 80,243.
 - **3 de agosto de 2026:** Estrelas 72,765 → 76,412.
 

@@ -47,8 +47,8 @@ Lee el PDF convirtiéndolo en texto con herramientas especiales (analizadores) q
 - [Stirling-PDF](https://trescout.com/es/discover/stirling-pdf/)
 - [Puppeteer](https://trescout.com/es/discover/puppeteer/)
 - [PaddleOCR](https://trescout.com/es/discover/paddleocr/)
-- [MinerU](https://trescout.com/es/discover/mineru/)
 - [ChinaTextbook](https://trescout.com/es/discover/chinatextbook/)
+- [MinerU](https://trescout.com/es/discover/mineru/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/pdf/)
 

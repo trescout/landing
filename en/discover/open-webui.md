@@ -2,16 +2,16 @@
 
 open-webui is a user-friendly interface that allows interacting with AI models such as Ollama and OpenAI API. It offers a web-based interface developed to manage local or cloud-based language models.
 
-- ★ 157,707
+- ★ 158,161
 - Python
 - GitHub Trending · 2026-10-12
 
 ## Updates
 
+- **November 9, 2026:** Stars 157,707 → 158,161, latest release v0.13.3 (November 8, 2026).
 - **November 4, 2026:** Stars 157,204 → 157,707, latest release v0.13.0 (November 3, 2026).
 - **October 30, 2026:** Stars 156,766 → 157,204, latest release v0.12.5 (October 29, 2026).
 - **October 26, 2026:** Stars 155,883 → 156,766, latest release v0.12.4 (October 25, 2026).
-- **October 16, 2026:** Stars 155,750 → 155,883, latest release v0.12.3 (October 16, 2026).
 
 ## What you get
 
