@@ -1,0 +1,402 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-09",
+  "capturedAt": "2026-11-09T05:24:00.048Z",
+  "editorial": "Content included in the report will not be repeated for 30 days. At the end of this period, records that remain on the agenda will be listed again with the \"back on the agenda\" label.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "summary": "The anthropics/claude-quickstarts offered by Anthropic contains projects that help developers create quickly deployable applications using the Claude API (a digital bridge that allows software to communicate with each other). Prepared in the Python language, this collection aims to simplify the AI-based application development process.",
+          "meta": "Python · ★ 19,560 · +32 today",
+          "snapshot": {
+            "sourceId": "anthropics/claude-quickstarts",
+            "capturedAt": "2026-11-09T05:24:21.619Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 19560,
+              "engagementCount": 32,
+              "rank": 4,
+              "extra": {
+                "starsToday": 32
+              }
+            },
+            "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+          }
+        },
+        {
+          "title": "google-deepmind/mujoco",
+          "url": "https://github.com/google-deepmind/mujoco",
+          "summary": "Developed by Google DeepMind, MuJoCo is a general-purpose physics engine that provides fast and accurate simulation of articulated structures in fields such as robotics, biomechanics, and machine learning. Written in C++, this tool aims to facilitate the development and research of systems that interact with complex environments.",
+          "meta": "C++ · ★ 16,542 · +41 today",
+          "snapshot": {
+            "sourceId": "google-deepmind/mujoco",
+            "capturedAt": "2026-11-09T05:24:21.619Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 16542,
+              "engagementCount": 41,
+              "rank": 8,
+              "extra": {
+                "starsToday": 41,
+                "baglam": "readme"
+              }
+            },
+            "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator. MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environment."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Goodbye Claude, hello Pi",
+          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "summary": "The article shared by Caleb Software describes the user's transition process from using the AI model Claude to using the personal AI assistant Pi. With this change, the differences in the user's interaction preferences and personal experiences are highlighted.",
+          "meta": "720 points · 446 comments",
+          "snapshot": {
+            "sourceId": "50410107",
+            "capturedAt": "2026-11-09T05:24:00.449Z",
+            "metadata": {
+              "popularity": 720,
+              "engagementCount": 446,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50410107",
+                  "popularity": 720,
+                  "engagementCount": 446
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-08T03:11:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50410107"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50410107",
+              "popularity": 720,
+              "engagementCount": 446
+            }
+          ]
+        },
+        {
+          "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "summary": "Goldman Sachs is restricting bankers and traders from using the coding tool Claude Code, transferring this authority back to engineering teams. The fact that the company made this decision shortly before the public offering of the AI model Claude, developed by Anthropic, is noteworthy.",
+          "meta": "677 points · 382 comments",
+          "snapshot": {
+            "sourceId": "50415628",
+            "capturedAt": "2026-11-09T05:24:00.449Z",
+            "metadata": {
+              "popularity": 677,
+              "engagementCount": 382,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50415628",
+                  "popularity": 677,
+                  "engagementCount": 382
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-08T18:16:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50415628",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "In July, Goldman's tech chief was praising the tools traders built with AI coding agents. New internal guidance hands those agents back to the engineers, weeks before Goldman takes Anthropic public."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50415628",
+              "popularity": 677,
+              "engagementCount": 382
+            }
+          ]
+        },
+        {
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "summary": "The \"Don't Ask Again\" feature of the Claude Code tool causes the exposure of passwords and sensitive information in 1,122 public GitHub files. This situation highlights the security vulnerabilities of AI agents used in software development processes.",
+          "meta": "596 points · 406 comments",
+          "snapshot": {
+            "sourceId": "50407882",
+            "capturedAt": "2026-11-09T05:24:00.449Z",
+            "metadata": {
+              "popularity": 596,
+              "engagementCount": 406,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50407882",
+                  "popularity": 596,
+                  "engagementCount": 406
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-07T20:45:32Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50407882"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50407882",
+              "popularity": 596,
+              "engagementCount": 406
+            }
+          ]
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+          "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+          "summary": "Nvidia CEO Jensen Huang addressed allegations regarding his personal life in a letter sent to company employees. The letter discusses the impact of the situation on the company and the functioning of corporate processes.",
+          "meta": "456 points · 494 comments",
+          "snapshot": {
+            "sourceId": "50418016",
+            "capturedAt": "2026-11-09T05:24:00.449Z",
+            "metadata": {
+              "popularity": 456,
+              "engagementCount": 494,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50418016",
+                  "popularity": 456,
+                  "engagementCount": 494
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-08T22:20:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50418016"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;11&#x2F;08&#x2F;nvidia-ceo-jensen-huang-aff..., https:&#x2F;&#x2F;archive.ph&#x2F;Hxn5hhttps:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;11&#x2F;06&#x2F;us&#x2F;politics&#x2F;chinese-spy-a..., https:&#x2F;&#x2F;archive.ph&#x2F;atMcphttps:&#x2F;&#x2F;www."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50418016",
+              "popularity": 456,
+              "engagementCount": 494
+            }
+          ]
+        },
+        {
+          "title": "Declarative Dragging",
+          "url": "https://declarative-dragging.github.io/",
+          "summary": "Declarative Dragging offers a method that allows interface designers to define future model states to make an element draggable. This study, which won the best paper award at the UIST 2026 conference, addresses drag interactions with a declarative approach.",
+          "meta": "436 points · 55 comments",
+          "snapshot": {
+            "sourceId": "50368481",
+            "capturedAt": "2026-11-09T05:24:00.449Z",
+            "metadata": {
+              "popularity": 436,
+              "engagementCount": 55,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50368481",
+                  "popularity": 436,
+                  "engagementCount": 55
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-04T17:05:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50368481",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Declarative dragging: an interface author makes an element draggable by specifying which future model states should be accessible by dragging it. Horowitz, Blinn & Heer, UIST 2026 Best Paper."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50368481",
+              "popularity": 436,
+              "engagementCount": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "ricursiveAI/Ripple-65B-Preview",
+          "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+          "summary": "Ripple-65B-Preview, developed by Ricursive Intelligence, is a dense Transformer model with 65 billion parameters trained on 12 trillion tokens. Supporting a context window of over one million tokens, the model demonstrates performance in agent-based coding tasks with the results it achieved on TerminalBench 2.1.",
+          "meta": "♥ 412 · 5,087 downloads",
+          "snapshot": {
+            "sourceId": "ricursiveAI/Ripple-65B-Preview",
+            "capturedAt": "2026-11-09T05:24:00.187Z",
+            "metadata": {
+              "popularity": 412,
+              "engagementCount": 5087,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 402,
+                "tags": [
+                  "safetensors",
+                  "ricursive",
+                  "custom_code",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "Ricursive Intelligence introduces Ripple-65B Preview, a 65B parameter dense Transformer model pretrained on 12 trillion tokens with support for up to 1Mi (1,048,576 tokens) of context. Ripple-65B Preview delivers strong results on agentic coding, scoring 80.52 on TerminalBench 2.1 and surpassing significantly-larger US open-weight models such as Reflection Beam 501B (80.1), Meta Muse Spark Open…"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds",
+          "url": "https://huggingface.co/papers/2611.09017",
+          "summary": "Frontier3DBench is an evaluation tool developed to measure the capabilities of coding agents in object and scene generation processes. Bringing different task scopes under one roof, this benchmarking system tests the performance of AI models that convert visual data and instructions into editable programs across 145 different tasks.",
+          "meta": "2 likes · 0 comments",
+          "snapshot": {
+            "sourceId": "2611.09017",
+            "capturedAt": "2026-11-09T05:24:00.196Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.09017",
+                "publishedAt": "2026-11-06T00:00:00.000Z"
+              }
+            },
+            "description": "Coding agents combine visual understanding with program execution, offering a new route to automated 3D creation. By translating images and instructions into editable programs, they bring reconstruction, generation, and editing into a shared workflow. Yet existing benchmarks fragment evaluation across task scopes and protocols, leaving their capabilities across construction levels unclear. We propose Frontier3DBench, a unified benchmark of 145 tasks across 9 categories spanning object, scene, an"
+          }
+        },
+        {
+          "title": "OmniLatent: Unified Latent for 3D Part Modeling",
+          "url": "https://huggingface.co/papers/2611.09055",
+          "summary": "OmniLatent is a unified latent space modeling framework developed for 3D part decomposition operations. By encoding geometry, deformation, and appearance information in a common space, it aims to resolve issues such as geometric distortion and texture ambiguity encountered in editable asset creation processes.",
+          "meta": "1 likes · 0 comments",
+          "snapshot": {
+            "sourceId": "2611.09055",
+            "capturedAt": "2026-11-09T05:24:00.196Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 0,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.09055",
+                "publishedAt": "2026-11-06T00:00:00.000Z"
+              }
+            },
+            "description": "3D part decomposition is a central capability for editable asset creation, yet existing workflows typically segment a completed mesh as a post-processing step, making the result sensitive to geometric artifacts, texture ambiguity, and limited part-level annotations. We present OmniLatent, a unified latent modeling framework for 3D part decomposition. Instead of predicting part labels in isolation, OmniLatent learns a shared latent space that jointly encodes geometry, deformation, appearance, and"
+          }
+        },
+        {
+          "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+          "url": "https://huggingface.co/papers/2611.09894",
+          "summary": "Video-Coder is a code-based AI agent developed to provide precise spatial structure and motion dynamics in video creation processes. The system provides structural signals for video production by autonomously writing and executing the code required to create dynamic 3D scenes.",
+          "meta": "6 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.09894",
+            "capturedAt": "2026-11-09T05:24:00.196Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.09894",
+                "publishedAt": "2026-11-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/CYWang735/Video-Coder",
+                "githubStars": 4
+              }
+            },
+            "description": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dynamics, and controllable scene composition remains challenging. In this paper, we introduce Video-Coder, the first attempt to train a code-driven video generation agent, which autonomously writes and executes code to construct a dynamic 3D scene (Draft Video) that provides structure and motion signals"
+          }
+        },
+        {
+          "title": "EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models",
+          "url": "https://huggingface.co/papers/2611.06748",
+          "summary": "EvoWorld aims for generative video models to go beyond visual consistency and logically infer changes in the world and the consequences of events. This study focuses on models not only generating realistic pixels but also reasoning and simulating the interactions of entities in the environment.",
+          "meta": "13 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.06748",
+            "capturedAt": "2026-11-09T05:24:00.196Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.06748",
+                "publishedAt": "2026-11-04T16:26:45.000Z",
+                "githubRepo": "https://github.com/Tommy-Bie/EvoWorld",
+                "githubStars": 15
+              }
+            },
+            "description": "Generative video models are increasingly used as visual world simulators, yet their primary strength lies in rendering plausible pixels rather than reasoning about how a world should evolve. Coherent world evolution requires more than visual fidelity: when an event occurs, a model must infer its consequences for the entities in the world and then render the resulting state. For example, after a wild beast appears, the model should not only depict the wild beast, but also infer whether a nearby p"
+          }
+        },
+        {
+          "title": "AgentBaton: Efficient Model Collaboration in Agentic Tasks",
+          "url": "https://huggingface.co/papers/2610.35959",
+          "summary": "AgentBaton, shared by Hugging Face, aims to optimize collaboration between models with different capabilities in complex and long-term AI tasks. This approach focuses on reducing costs while maintaining task performance by using high-cost models together with more accessible and efficient models.",
+          "meta": "3 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.35959",
+            "capturedAt": "2026-11-09T05:24:00.196Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.35959",
+                "publishedAt": "2026-10-25T00:00:00.000Z"
+              }
+            },
+            "description": "Solving long-horizon agentic tasks requires language agents to interact with their environments over multiple steps, and reliable performance often comes from the expensive capable models available through cloud providers. Meanwhile, alternative efficient models with inferior performance but a much lower cost are emerging, including lower-tier cloud models and smaller open-weights models deployable on local hardware. This raises a natural question that remains less explored than traditional quer"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "token",
+      "explanation": "These are word fragments or character groups that artificial intelligence uses when processing texts."
+    },
+    {
+      "term": "Transformer",
+      "explanation": "It is an architecture that forms the basis of today's advanced artificial intelligence models and learns by analyzing the relationships between data."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "These are artificial intelligence software designed to automate software development processes, write code, or fix errors."
+    }
+  ]
+}
