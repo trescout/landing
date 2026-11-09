@@ -8,10 +8,10 @@ Le téléchargeur Douyin basé sur Python est un outil permettant d'enregistrer 
 
 ## Mises à jour
 
+- **9 novembre 2026:** Étoiles 12,576 → 12,576, dernière version desktop-v0.12.10 (9 novembre 2026).
 - **9 novembre 2026:** Étoiles 12,218 → 12,576, dernière version desktop-v0.12.9 (9 novembre 2026).
 - **8 octobre 2026:** Étoiles 12,204 → 12,218, dernière version desktop-v0.12.5 (8 octobre 2026).
 - **7 octobre 2026:** Étoiles 12,088 → 12,204, dernière version desktop-v0.12.4 (7 octobre 2026).
-- **27 septembre 2026:** Étoiles 11,841 → 12,088, dernière version desktop-v0.12.1 (23 septembre 2026).
 
 ## Ce que ça vous apporte
 

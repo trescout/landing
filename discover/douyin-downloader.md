@@ -8,10 +8,10 @@ Python tabanlı Douyin indiricisi, sosyal medya platformu Douyin üzerindeki vid
 
 ## Güncelleme
 
+- **9 Kasım 2026:** Yıldız 12.576 → 12.576, son sürüm desktop-v0.12.10 (9 Kasım 2026).
 - **9 Kasım 2026:** Yıldız 12.218 → 12.576, son sürüm desktop-v0.12.9 (9 Kasım 2026).
 - **8 Ekim 2026:** Yıldız 12.204 → 12.218, son sürüm desktop-v0.12.5 (8 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 12.088 → 12.204, son sürüm desktop-v0.12.4 (7 Ekim 2026).
-- **27 Eylül 2026:** Yıldız 11.841 → 12.088, son sürüm desktop-v0.12.1 (23 Eylül 2026).
 
 ## Ne kazandırır?
 

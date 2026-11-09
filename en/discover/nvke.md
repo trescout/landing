@@ -46,6 +46,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Bare Metal](https://trescout.com/en/dictionary/bare-metal/)
 - [NVKE](https://trescout.com/en/dictionary/nvke/)
+- [Management Plane](https://trescout.com/en/dictionary/management-plane/)
 - [Clone](https://trescout.com/en/dictionary/clone/)
 - [GPU](https://trescout.com/en/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

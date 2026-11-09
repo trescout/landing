@@ -8,10 +8,10 @@ Der Python-basierte Douyin-Downloader ist ein Tool, mit dem Videos, Fotoalben un
 
 ## Aktualisierungen
 
+- **9. November 2026:** Sterne 12,576 → 12,576, neueste Version desktop-v0.12.10 (9. November 2026).
 - **9. November 2026:** Sterne 12,218 → 12,576, neueste Version desktop-v0.12.9 (9. November 2026).
 - **8. Oktober 2026:** Sterne 12,204 → 12,218, neueste Version desktop-v0.12.5 (8. Oktober 2026).
 - **7. Oktober 2026:** Sterne 12,088 → 12,204, neueste Version desktop-v0.12.4 (7. Oktober 2026).
-- **27. September 2026:** Sterne 11,841 → 12,088, neueste Version desktop-v0.12.1 (23. September 2026).
 
 ## Was es bringt
 

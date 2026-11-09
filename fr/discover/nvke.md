@@ -44,6 +44,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Bare Metal](https://trescout.com/fr/dictionary/bare-metal/)
 - [NVKE](https://trescout.com/fr/dictionary/nvke/)
+- [Management Plane](https://trescout.com/fr/dictionary/management-plane/)
 - [Clone](https://trescout.com/fr/dictionary/clone/)
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

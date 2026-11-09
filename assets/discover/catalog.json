@@ -7453,7 +7453,7 @@
     "slug": "last30days-skill",
     "title": "Last30days Skill",
     "tagline": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri…",
-    "meta": "★ 65.620 · Python",
+    "meta": "★ 67.057 · Python",
     "image": "/assets/discover/og/last30days-skill.webp",
     "source": "GitHub",
     "date": "2026-06-05",
@@ -7461,7 +7461,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 65620,
+    "stars": 67057,
     "lite": false,
     "headline": "Son 30 günün yapay zekâ destekli özeti",
     "last_review": "2026-11-09",
@@ -7570,6 +7570,13 @@
         "onceki_yildiz": 65172,
         "surum": "v3.31.0",
         "surum_tarihi": "2026-10-27"
+      },
+      {
+        "tarih": "2026-11-09",
+        "yildiz": 67057,
+        "onceki_yildiz": 65620,
+        "surum": "v3.32.0",
+        "surum_tarihi": "2026-11-09"
       }
     ],
     "tagline_en": "Last30days-skill obtains current data by researching on platforms such as Reddit, X, YouTube, Hacker News and Polymarket.",
@@ -38009,7 +38016,7 @@
     "slug": "semantica",
     "title": "Semantica",
     "tagline": "Semantica, yapay zekâ sistemleri için bağlamsal veri yönetimi sağlayan çizge tabanlı bir altyapı (graph-native infrastructure).",
-    "meta": "★ 13.483 · Python",
+    "meta": "★ 14.487 · Python",
     "image": "/assets/discover/og/semantica.webp",
     "source": "GitHub",
     "date": "2026-08-08",
@@ -38017,7 +38024,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13483,
+    "stars": 14487,
     "lite": false,
     "headline": "Yapay zekâ ajanınıza kalıcı hafıza",
     "tagline_en": "Semantica is a graph-native infrastructure that provides contextual data management for artificial intelligence systems.",
@@ -38097,6 +38104,13 @@
         "tarih": "2026-09-27",
         "yildiz": 13483,
         "onceki_yildiz": 13134,
+        "surum": "v0.7.0",
+        "surum_tarihi": "2026-09-22"
+      },
+      {
+        "tarih": "2026-11-09",
+        "yildiz": 14487,
+        "onceki_yildiz": 13483,
         "surum": "v0.7.0",
         "surum_tarihi": "2026-09-22"
       }
@@ -40668,14 +40682,14 @@
     "slug": "localsend",
     "title": "Localsend",
     "tagline": "LocalSend, aynı yerel ağdaki Windows, macOS, Linux, Android ve iOS cihazlar arasında hesap veya üçüncü taraf sunucu gerektirmeden dosya ve mesaj paylaşır.",
-    "meta": "★ 93.329",
+    "meta": "★ 98.011",
     "image": "/assets/discover/og/localsend.webp",
     "source": "GitHub",
     "date": "2026-08-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 93329,
+    "stars": 98011,
     "summary": "Yakındaki cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşın. LocalSend, internet bağlantısı veya üçüncü taraf sunucu gerektirmeden çalışır ve HTTPS şifrelemesi kullanır.",
     "headline": "Yerel ağda dosya ve mesaj paylaşımı",
     "lite": false,
@@ -40845,6 +40859,13 @@
         "tarih": "2026-10-04",
         "yildiz": 93329,
         "onceki_yildiz": 88882,
+        "surum": "v1.18.2",
+        "surum_tarihi": "2026-08-21"
+      },
+      {
+        "tarih": "2026-11-09",
+        "yildiz": 98011,
+        "onceki_yildiz": 93329,
         "surum": "v1.18.2",
         "surum_tarihi": "2026-08-21"
       }
@@ -43706,14 +43727,14 @@
     "slug": "ruflo",
     "title": "Ruflo",
     "tagline": "Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.",
-    "meta": "★ 81.294 · TypeScript",
+    "meta": "★ 81.311 · TypeScript",
     "image": "/assets/discover/og/ruflo.webp",
     "source": "GitHub",
     "date": "2026-08-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 81294,
+    "stars": 81311,
     "lite": false,
     "headline": "Yapay zekâ ajanları için orkestrasyon katmanı",
     "last_review": "2026-11-09",
@@ -44066,6 +44087,13 @@
         "yildiz": 81294,
         "onceki_yildiz": 81098,
         "surum": "v3.73.0",
+        "surum_tarihi": "2026-11-09"
+      },
+      {
+        "tarih": "2026-11-09",
+        "yildiz": 81311,
+        "onceki_yildiz": 81294,
+        "surum": "v3.74.1",
         "surum_tarihi": "2026-11-09"
       }
     ],
@@ -44903,7 +44931,7 @@
     "slug": "n8n",
     "title": "N8n",
     "tagline": "n8n, görsel canvas, özel kod ve yapay zekâ ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
-    "meta": "★ 209.584",
+    "meta": "★ 209.888",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -44911,7 +44939,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 209584,
+    "stars": 209888,
     "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
     "headline": "Görsel iş akışları ve yapay zekâ otomasyonu",
     "lite": false,
@@ -45372,6 +45400,13 @@
         "onceki_yildiz": 209502,
         "surum": "n8n@2.46.6",
         "surum_tarihi": "2026-11-04"
+      },
+      {
+        "tarih": "2026-11-09",
+        "yildiz": 209888,
+        "onceki_yildiz": 209584,
+        "surum": "n8n@2.46.7",
+        "surum_tarihi": "2026-11-09"
       }
     ],
     "last_review": "2026-11-09",
@@ -48015,7 +48050,7 @@
     "slug": "openmaic",
     "title": "OpenMAIC",
     "tagline": "OpenMAIC, çoklu yapay zekâ ajanı etkileşimlerini tek tıkla simüle eden açık kaynaklı bir sınıf ve öğrenme platformudur.",
-    "meta": "★ 42.760 · TypeScript",
+    "meta": "★ 43.102 · TypeScript",
     "image": "/assets/discover/og/openmaic.webp",
     "source": "GitHub",
     "date": "2026-08-31",
@@ -48023,7 +48058,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 42760,
+    "stars": 43102,
     "summary": "OpenMAIC, çoklu yapay zekâ ajanı etkileşimlerini tek tıkla simüle eden sürükleyici bir öğrenme platformu. TypeScript ile geliştirilen bu açık kaynaklı araç, kullanıcıların farklı ajan modelleriyle etkileşimli bir sınıf ortamı deneyimlemesini sağlıyor.",
     "lite": false,
     "tagline_en": "OpenMAIC is an open-source classroom and learning platform that simulates multi-AI agent interactions with a single click.",
@@ -48119,6 +48154,13 @@
         "onceki_yildiz": 42699,
         "surum": "v1.4.1",
         "surum_tarihi": "2026-11-06"
+      },
+      {
+        "tarih": "2026-11-09",
+        "yildiz": 43102,
+        "onceki_yildiz": 42760,
+        "surum": "v1.4.2",
+        "surum_tarihi": "2026-11-09"
       }
     ]
   },
@@ -48718,14 +48760,14 @@
     "slug": "voicestudio",
     "title": "VoiceStudio",
     "tagline": "VoiceStudio, ses klonlama, dublaj ve transkripsiyon gibi işlemleri internete ihtiyaç duymadan gerçekleştiren açık kaynaklı bir…",
-    "meta": "★ 100.258 · Python",
+    "meta": "★ 105.412 · Python",
     "image": "/assets/discover/og/voicestudio.webp",
     "source": "GitHub",
     "date": "2026-09-03",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 100258,
+    "stars": 105412,
     "summary": "VoiceStudio, ses klonlama, dublaj ve transkripsiyon gibi işlemleri internete ihtiyaç duymadan gerçekleştiren açık kaynaklı bir ses işleme platformu. Ses sentezleme servisi ElevenLabs için yerel olarak çalışabilen ve 646 dili destekleyen bir alternatif sunuyor.",
     "lite": false,
     "headline": "Ses klonlama ve dublajı yerel yapın",
@@ -48917,6 +48959,13 @@
         "tarih": "2026-11-04",
         "yildiz": 100258,
         "onceki_yildiz": 94761,
+        "surum": "v0.5.7",
+        "surum_tarihi": "2026-10-26"
+      },
+      {
+        "tarih": "2026-11-09",
+        "yildiz": 105412,
+        "onceki_yildiz": 100258,
         "surum": "v0.5.7",
         "surum_tarihi": "2026-10-26"
       }
@@ -52386,6 +52435,13 @@
         "onceki_yildiz": 12218,
         "surum": "desktop-v0.12.9",
         "surum_tarihi": "2026-11-09"
+      },
+      {
+        "tarih": "2026-11-09",
+        "yildiz": 12576,
+        "onceki_yildiz": 12576,
+        "surum": "desktop-v0.12.10",
+        "surum_tarihi": "2026-11-09"
       }
     ],
     "tagline_en": "A Python-based Douyin downloader that allows downloading videos, photo albums, and music from the social media platform Douyin...",
@@ -55117,14 +55173,14 @@
     "slug": "runner-images",
     "title": "Runner Images",
     "tagline": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun…",
-    "meta": "★ 13.575 · PowerShell",
+    "meta": "★ 13.576 · PowerShell",
     "image": "/assets/discover/og/runner-images.webp",
     "source": "GitHub",
     "date": "2026-09-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13575,
+    "stars": 13576,
     "last_seen": "2026-09-27",
     "summary": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.",
     "lite": false,
@@ -55272,6 +55328,13 @@
         "onceki_yildiz": 13566,
         "surum": "win25/20261101.318",
         "surum_tarihi": "2026-11-02"
+      },
+      {
+        "tarih": "2026-11-09",
+        "yildiz": 13576,
+        "onceki_yildiz": 13575,
+        "surum": "xcode-27-arm64/20261104.0337",
+        "surum_tarihi": "2026-11-04"
       }
     ],
     "tagline_en": "GitHub Actions runner images are part of the GitHub Actions platform, which automates software development processes...",
@@ -57280,14 +57343,14 @@
     "slug": "anyps5",
     "title": "AnyPS5",
     "tagline": "AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir…",
-    "meta": "★ 49.897 · C++",
+    "meta": "★ 52.425 · C++",
     "image": "/assets/discover/og/anyps5.webp",
     "source": "GitHub",
     "date": "2026-10-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 49897,
+    "stars": 52425,
     "last_seen": "2026-10-11",
     "summary": "AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, konsol özelindeki yürütülebilir dosyaların (executables) farklı platformlara taşınmasını sağlar.",
     "lite": false,
@@ -57433,6 +57496,13 @@
         "tarih": "2026-10-31",
         "yildiz": 49897,
         "onceki_yildiz": 47460,
+        "surum": "v0.1.4",
+        "surum_tarihi": "2026-10-30"
+      },
+      {
+        "tarih": "2026-11-09",
+        "yildiz": 52425,
+        "onceki_yildiz": 49897,
         "surum": "v0.1.4",
         "surum_tarihi": "2026-10-30"
       }

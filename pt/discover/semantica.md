@@ -2,16 +2,16 @@
 
 Semantica é uma infraestrutura nativa de gráficos que fornece gerenciamento contextual de dados para sistemas de inteligência artificial. Os modelos de linguagem grande (LLM) organizam os dados em uma estrutura relacional para produzir resultados mais confiáveis ​​e responsáveis.
 
-- ★ 13.483
+- ★ 14.487
 - Python
 - GitHub Trending · 2026-08-08
 
 ## Atualizações
 
+- **9 de novembro de 2026:** Estrelas 13,483 → 14,487, versão mais recente v0.7.0 (22 de setembro de 2026).
 - **27 de setembro de 2026:** Estrelas 13,134 → 13,483, versão mais recente v0.7.0 (22 de setembro de 2026).
 - **18 de setembro de 2026:** Estrelas 12,127 → 13,134, versão mais recente v0.6.8 (5 de setembro de 2026).
 - **6 de setembro de 2026:** Estrelas 11,491 → 12,127, versão mais recente v0.6.8 (5 de setembro de 2026).
-- **31 de agosto de 2026:** Estrelas 11,005 → 11,491, versão mais recente v0.6.7 (28 de agosto de 2026).
 
 ## O que você ganha
 

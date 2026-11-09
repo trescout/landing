@@ -10528,5 +10528,18 @@
     "kisa_es": "Es una plataforma de control utilizada para organizar cargas de trabajo de inteligencia artificial y clústeres de GPU en infraestructuras en la nube equipadas con NVIDIA.",
     "kisa_pt": "É uma plataforma de controle utilizada para organizar cargas de trabalho de inteligência artificial e clusters de GPU em infraestruturas de nuvem equipadas com NVIDIA.",
     "kisa_de": "Es ist eine Steuerungsplattform zur Orchestrierung von KI-Arbeitslasten und GPU-Clustern in Cloud-Infrastrukturen mit NVIDIA-Hardware."
+  },
+  {
+    "slug": "management-plane",
+    "en": "Management Plane",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir sistemin yapılandırma, izleme, kimlik doğrulama ve genel idare işlerini üstlenen yönetim katmanıdır.",
+    "date": "2026-11-09",
+    "kisa_en": "It is the management layer responsible for the configuration, monitoring, authentication, and general administration of a system.",
+    "kisa_fr": "C'est la couche de gestion qui prend en charge la configuration, la surveillance, l'authentification et l'administration générale d'un système.",
+    "kisa_es": "Es la capa de gestión que se encarga de la configuración, la supervisión, la autenticación y la administración general de un sistema.",
+    "kisa_pt": "É a camada de gerenciamento responsável pelas tarefas de configuração, monitoramento, autenticação e administração geral de um sistema.",
+    "kisa_de": "Es ist die Verwaltungsebene, die die Konfiguration, Überwachung, Authentifizierung und allgemeine Administration eines Systems übernimmt."
   }
 ]

@@ -2,16 +2,16 @@
 
 VoiceStudio, ses klonlama, dublaj ve transkripsiyon gibi işlemleri internete ihtiyaç duymadan gerçekleştiren açık kaynaklı bir ses işleme platformu. Ses sentezleme servisi ElevenLabs için yerel olarak çalışabilen ve 646 dili destekleyen bir alternatif sunuyor.
 
-- ★ 100.258
+- ★ 105.412
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
 
+- **9 Kasım 2026:** Yıldız 100.258 → 105.412, son sürüm v0.5.7 (26 Ekim 2026).
 - **4 Kasım 2026:** Yıldız 94.761 → 100.258, son sürüm v0.5.7 (26 Ekim 2026).
 - **30 Ekim 2026:** Yıldız 90.075 → 94.761, son sürüm v0.5.7 (26 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 85.225 → 90.075, son sürüm v0.5.7 (26 Ekim 2026).
-- **25 Ekim 2026:** Yıldız 80.990 → 85.225, son sürüm v0.5.6 (23 Eylül 2026).
 
 ## Ne kazandırır?
 

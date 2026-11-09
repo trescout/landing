@@ -46,6 +46,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Bare Metal](https://trescout.com/de/dictionary/bare-metal/)
 - [NVKE](https://trescout.com/de/dictionary/nvke/)
+- [Management Plane](https://trescout.com/de/dictionary/management-plane/)
 - [Clone](https://trescout.com/de/dictionary/clone/)
 - [GPU](https://trescout.com/de/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

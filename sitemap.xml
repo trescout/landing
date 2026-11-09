@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://trescout.com/dictionary/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -104,7 +104,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2797,6 +2797,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/management-plane/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/markdown/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -5234,7 +5240,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/anyps5/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6986,7 +6992,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/last30days-skill/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7094,7 +7100,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/localsend/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7388,7 +7394,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/n8n/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7454,7 +7460,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/nvke/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7682,7 +7688,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/openmaic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8204,7 +8210,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/runner-images/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8264,7 +8270,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/semantica/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8918,7 +8924,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/voicestudio/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9098,7 +9104,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9122,7 +9128,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9146,7 +9152,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9170,7 +9176,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -12865,6 +12871,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/dictionary/management-plane/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/dictionary/markdown/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -15302,7 +15314,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/anyps5/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17054,7 +17066,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/last30days-skill/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17162,7 +17174,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/localsend/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17456,7 +17468,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/n8n/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17522,7 +17534,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/nvke/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17750,7 +17762,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/openmaic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18272,7 +18284,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/runner-images/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18332,7 +18344,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/semantica/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18986,7 +18998,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/voicestudio/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22837,6 +22849,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/dictionary/management-plane/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/dictionary/markdown/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -25274,7 +25292,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/anyps5/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27026,7 +27044,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/last30days-skill/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27134,7 +27152,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/localsend/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27428,7 +27446,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/n8n/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27494,7 +27512,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/nvke/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27722,7 +27740,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/openmaic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28244,7 +28262,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/runner-images/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28304,7 +28322,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/semantica/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28958,7 +28976,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/voicestudio/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -32809,6 +32827,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/management-plane/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/markdown/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -35246,7 +35270,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/anyps5/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -36998,7 +37022,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/last30days-skill/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -37106,7 +37130,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/localsend/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -37400,7 +37424,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/n8n/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -37466,7 +37490,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/nvke/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -37694,7 +37718,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/openmaic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38216,7 +38240,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/runner-images/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38276,7 +38300,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/semantica/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38930,7 +38954,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/voicestudio/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42781,6 +42805,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/dictionary/management-plane/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/fr/dictionary/markdown/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -45218,7 +45248,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/anyps5/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -46970,7 +47000,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/last30days-skill/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -47078,7 +47108,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/localsend/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -47372,7 +47402,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/n8n/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -47438,7 +47468,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/nvke/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -47666,7 +47696,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/openmaic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48188,7 +48218,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/runner-images/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48248,7 +48278,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/semantica/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48902,7 +48932,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/voicestudio/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -52753,6 +52783,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/management-plane/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/markdown/</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -55190,7 +55226,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/anyps5/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -56942,7 +56978,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/last30days-skill/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -57050,7 +57086,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/localsend/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -57344,7 +57380,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/n8n/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -57410,7 +57446,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/nvke/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -57638,7 +57674,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/openmaic/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -58160,7 +58196,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/runner-images/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -58220,7 +58256,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/semantica/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -58874,7 +58910,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/voicestudio/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

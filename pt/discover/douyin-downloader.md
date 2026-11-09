@@ -8,10 +8,10 @@ O downloader do Douyin baseado em Python é uma ferramenta que permite salvar v�
 
 ## Atualizações
 
+- **9 de novembro de 2026:** Estrelas 12,576 → 12,576, versão mais recente desktop-v0.12.10 (9 de novembro de 2026).
 - **9 de novembro de 2026:** Estrelas 12,218 → 12,576, versão mais recente desktop-v0.12.9 (9 de novembro de 2026).
 - **8 de outubro de 2026:** Estrelas 12,204 → 12,218, versão mais recente desktop-v0.12.5 (8 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 12,088 → 12,204, versão mais recente desktop-v0.12.4 (7 de outubro de 2026).
-- **27 de setembro de 2026:** Estrelas 11,841 → 12,088, versão mais recente desktop-v0.12.1 (23 de setembro de 2026).
 
 ## O que você ganha
 

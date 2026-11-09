@@ -8,10 +8,10 @@ El descargador de Douyin basado en Python es una herramienta que permite guardar
 
 ## Actualizaciones
 
+- **9 de noviembre de 2026:** Estrellas 12,576 → 12,576, última versión desktop-v0.12.10 (9 de noviembre de 2026).
 - **9 de noviembre de 2026:** Estrellas 12,218 → 12,576, última versión desktop-v0.12.9 (9 de noviembre de 2026).
 - **8 de octubre de 2026:** Estrellas 12,204 → 12,218, última versión desktop-v0.12.5 (8 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 12,088 → 12,204, última versión desktop-v0.12.4 (7 de octubre de 2026).
-- **27 de septiembre de 2026:** Estrellas 11,841 → 12,088, última versión desktop-v0.12.1 (23 de septiembre de 2026).
 
 ## Qué aporta
 

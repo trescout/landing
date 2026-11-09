@@ -2,16 +2,16 @@
 
 Semantica is a graph-native infrastructure that provides contextual data management for artificial intelligence systems. Large language models (LLM) organize data in a relational structure to produce more reliable and accountable results.
 
-- ★ 13,483
+- ★ 14,487
 - Python
 - GitHub Trending · 2026-08-08
 
 ## Updates
 
+- **November 9, 2026:** Stars 13,483 → 14,487, latest release v0.7.0 (September 22, 2026).
 - **September 27, 2026:** Stars 13,134 → 13,483, latest release v0.7.0 (September 22, 2026).
 - **September 18, 2026:** Stars 12,127 → 13,134, latest release v0.6.8 (September 5, 2026).
 - **September 6, 2026:** Stars 11,491 → 12,127, latest release v0.6.8 (September 5, 2026).
-- **August 31, 2026:** Stars 11,005 → 11,491, latest release v0.6.7 (August 28, 2026).
 
 ## What you get
 

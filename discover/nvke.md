@@ -55,6 +55,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Bare Metal](https://trescout.com/dictionary/bare-metal/)
 - [NVKE](https://trescout.com/dictionary/nvke/)
+- [Management Plane](https://trescout.com/dictionary/management-plane/)
 - [Clone](https://trescout.com/dictionary/clone/)
 - [GPU](https://trescout.com/dictionary/gpu/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
