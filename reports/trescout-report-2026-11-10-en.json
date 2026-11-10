@@ -1,0 +1,834 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-10",
+  "capturedAt": "2026-11-10T20:17:17.708Z",
+  "editorial": "Today, new model architectures and optimization techniques that increase productivity in software development processes are coming to the fore. Amazon's cost-focused model transition and prefill acceleration methods like RidgeFill show that artificial intelligence infrastructures are now evolving into a more economical and high-performance structure.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "summary": "Astryx, developed by Meta, is a fully customizable open-source design system designed to be used by both humans and artificial intelligence agents. Written in TypeScript, this system aims to adapt to today's collaborative software development processes.",
+          "meta": "TypeScript · ★ 22,443 · +3,111 today",
+          "snapshot": {
+            "sourceId": "meta/astryx",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 22443,
+              "engagementCount": 3111,
+              "rank": 1,
+              "extra": {
+                "starsToday": 3111,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open source design system that's fully customizable and agent ready. An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them."
+          }
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "The skills repository shared by Anthropic contains various application examples developed using the capability system of the Claude artificial intelligence model. This Python-based resource offers a wide range of examples, from creative design projects to technical testing processes and corporate workflows.",
+          "meta": "Python · ★ 192,150 · +1,676 today",
+          "snapshot": {
+            "sourceId": "anthropics/skills",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 192150,
+              "engagementCount": 1676,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1676,
+                "baglam": "readme"
+              }
+            },
+            "description": "Public repository for Agent Skills. This repository contains skills that demonstrate what's possible with Claude's skills system. These skills range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.)."
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "addyosmani/agent-skills is a library that offers production-level engineering skills for artificial intelligence coding agents. Developed in the JavaScript language, this project aims to standardize the skills of agents in software processes.",
+          "meta": "JavaScript · ★ 115,042 · +465 today",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 115042,
+              "engagementCount": 465,
+              "rank": 3,
+              "extra": {
+                "starsToday": 465,
+                "baglam": "readme"
+              }
+            },
+            "description": "Production-grade engineering skills for AI coding agents. Production-grade engineering skills for AI coding agents."
+          }
+        },
+        {
+          "title": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "summary": "claude-quickstarts, offered by Anthropic, is a collection of projects that allow developers to quickly develop applications using the Claude API (a digital bridge that allows two different software programs to talk to each other). Prepared in the Python language, these resources aim to facilitate the process of creating deployable applications.",
+          "meta": "Python · ★ 20,412 · +530 today",
+          "snapshot": {
+            "sourceId": "anthropics/claude-quickstarts",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 20412,
+              "engagementCount": 530,
+              "rank": 4,
+              "extra": {
+                "starsToday": 530
+              }
+            },
+            "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+          }
+        },
+        {
+          "title": "google-deepmind/mujoco",
+          "url": "https://github.com/google-deepmind/mujoco",
+          "summary": "MuJoCo, developed by Google DeepMind, is a general-purpose physics engine that enables fast and precise simulation of articulated structures in fields such as robotics, biomechanics, and machine learning. Written in C++, this tool provides researchers and developers with a simulation environment for modeling complex physical interactions.",
+          "meta": "C++ · ★ 17,289 · +453 today",
+          "snapshot": {
+            "sourceId": "google-deepmind/mujoco",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 17289,
+              "engagementCount": 453,
+              "rank": 5,
+              "extra": {
+                "starsToday": 453,
+                "baglam": "readme"
+              }
+            },
+            "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator. MuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environment."
+          }
+        },
+        {
+          "title": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "summary": "Sure, developed in the Ruby language, is a personal finance and asset management application open to everyone. Designed as an open-source platform, this project offers features that allow users to connect directly with financial advisors (CFP/CFA).",
+          "meta": "Ruby · ★ 11,784 · +184 today",
+          "snapshot": {
+            "sourceId": "we-promise/sure",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 11784,
+              "engagementCount": 184,
+              "rank": 6,
+              "extra": {
+                "starsToday": 184,
+                "baglam": "readme"
+              }
+            },
+            "description": "The personal finance app for everyone (by everyone). The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
+          }
+        },
+        {
+          "title": "homeassistant-ai/ha-mcp",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "summary": "ha-mcp, developed for Home Assistant, allows you to configure and automate your smart home platform with artificial intelligence assistants like Claude and ChatGPT. Integrated via HACS, this tool works with full feature support on all Home Assistant installation types.",
+          "meta": "Python · ★ 6,535 · +792 today",
+          "snapshot": {
+            "sourceId": "homeassistant-ai/ha-mcp",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6535,
+              "engagementCount": 792,
+              "rank": 7,
+              "extra": {
+                "starsToday": 792,
+                "baglam": "readme"
+              }
+            },
+            "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. The recommended way to run ha-mcp is the HA-MCP integration. It installs into Home Assistant through HACS (the built-in Marketplace on Home Assistant 2026.11+), runs the full server in-process, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity."
+          }
+        },
+        {
+          "title": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "summary": "agent-browser, developed by Vercel Labs, is a command-line interface (CLI) that allows artificial intelligence agents to perform operations in a browser. Written in Rust, this tool allows for managing the browser by reading pages as an accessibility tree.",
+          "meta": "Rust · ★ 49,111 · +775 today",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-browser",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 49111,
+              "engagementCount": 775,
+              "rank": 8,
+              "extra": {
+                "starsToday": 775,
+                "baglam": "readme"
+              }
+            },
+            "description": "Browser automation CLI for AI agents. Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell."
+          }
+        },
+        {
+          "title": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "summary": "Sherlock is a Python-based tool used to detect accounts on different social networks via usernames. It is offered with support packages provided by the community for various operating systems and package managers.",
+          "meta": "Python · ★ 108,769 · +2,387 today",
+          "snapshot": {
+            "sourceId": "sherlock-project/sherlock",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 108769,
+              "engagementCount": 2387,
+              "rank": 9,
+              "extra": {
+                "starsToday": 2387,
+                "baglam": "readme"
+              }
+            },
+            "description": "Hunt down social media accounts by username across social networks. Community-maintained packages are available for Debian (>= 13), Ubuntu (>= 22.10), Homebrew, Kali, and BlackArch. These packages are not directly supported or maintained by the Sherlock Project."
+          }
+        },
+        {
+          "title": "tokio-rs/topcoat",
+          "url": "https://github.com/tokio-rs/topcoat",
+          "summary": "Topcoat is a modular and comprehensive Rust framework designed for developing web applications. Prioritizing simplicity and productivity, this structure aims to facilitate the full-stack application creation process.",
+          "meta": "Rust · ★ 6,725 · +192 today",
+          "snapshot": {
+            "sourceId": "tokio-rs/topcoat",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 6725,
+              "engagementCount": 192,
+              "rank": 10,
+              "extra": {
+                "starsToday": 192,
+                "baglam": "readme"
+              }
+            },
+            "description": "A batteries-included framework for building web apps. Topcoat is a modular, batteries-included Rust framework for building full-stack apps. It prioritizes simplicity and productivity. See Learn Topcoat to get started, or the Roadmap for what's coming next."
+          }
+        },
+        {
+          "title": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "summary": "ranxianglei/billion-context is a context compression plugin that enables efficient use of context window capacity in long-term artificial intelligence sessions. It allows for token savings by fitting billions of tokens into small 100k token windows.",
+          "meta": "TypeScript · ★ 6,209 · +374 today",
+          "snapshot": {
+            "sourceId": "ranxianglei/billion-context",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6209,
+              "engagementCount": 374,
+              "rank": 11,
+              "extra": {
+                "starsToday": 374
+              }
+            },
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Mattpocock/skills is a collection of AI agent skills used in real engineering processes and focused directly on software development practices. The project brings together tools used in a developer's daily workflow to make AI-assisted coding processes more functional.",
+          "meta": "Shell · ★ 320,758 · +1,223 today",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 320758,
+              "engagementCount": 1223,
+              "rank": 12,
+              "extra": {
+                "starsToday": 1223,
+                "baglam": "readme"
+              }
+            },
+            "description": "Skills for Real Engineers. Straight from my .agents directory. My agent skills that I use every day to do real engineering - not vibe coding."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+          "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+          "summary": "Amazon engineers saved millions of dollars by replacing the Claude Sonnet 4.6 model used in their large-scale internal ticketing systems with the Strands Decider decision-making model. This change demonstrates the impact of cost-oriented model optimization in complex workflows.",
+          "meta": "657 points · 229 comments",
+          "snapshot": {
+            "sourceId": "50436640",
+            "capturedAt": "2026-11-10T20:17:18.069Z",
+            "metadata": {
+              "popularity": 657,
+              "engagementCount": 229,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50436640",
+                  "popularity": 657,
+                  "engagementCount": 229
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-10T06:01:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50436640",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Two Amazon engineers swapped Claude Sonnet 4.6 for a decision model in one of the world's biggest internal ticketing systems."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50436640",
+              "popularity": 657,
+              "engagementCount": 229
+            }
+          ]
+        },
+        {
+          "title": "AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "summary": "AlphaProof Code, developed by Google DeepMind, is an AI system that combines mathematical reasoning and coding capabilities. This model aims to develop solutions in complex problem-solving processes by using code generation and logical verification methods.",
+          "meta": "512 points · 164 comments",
+          "snapshot": {
+            "sourceId": "50439193",
+            "capturedAt": "2026-11-10T20:17:18.069Z",
+            "metadata": {
+              "popularity": 512,
+              "engagementCount": 164,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50439193",
+                  "popularity": 512,
+                  "engagementCount": 164
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-10T12:11:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50439193"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50439193",
+              "popularity": 512,
+              "engagementCount": 164
+            }
+          ]
+        },
+        {
+          "title": ".name Grandfathered",
+          "url": "https://neil.fraser.name/news/2026/11/10/",
+          "summary": "The expiration of grandfathered rights for the .name domain extension has initiated a change process affecting current registrants. This situation requires users with this extension to comply with new rules regarding domain management and renewal policies.",
+          "meta": "437 points · 83 comments",
+          "snapshot": {
+            "sourceId": "50442736",
+            "capturedAt": "2026-11-10T20:17:18.069Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 83,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50442736",
+                  "popularity": 437,
+                  "engagementCount": 83
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-10T16:37:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50442736"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50442736",
+              "popularity": 437,
+              "engagementCount": 83
+            }
+          ]
+        },
+        {
+          "title": "Smart home devices should work without the internet",
+          "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+          "summary": "This approach, which argues that smart home devices should operate without dependence on manufacturer servers, includes fundamental principles based on ten years of automation experience. It shares methods to be followed for building systems that maintain functionality even when the internet connection is lost.",
+          "meta": "386 points · 155 comments",
+          "snapshot": {
+            "sourceId": "50441707",
+            "capturedAt": "2026-11-10T20:17:18.069Z",
+            "metadata": {
+              "popularity": 386,
+              "engagementCount": 155,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50441707",
+                  "popularity": 386,
+                  "engagementCount": 155
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-10T15:25:20Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50441707",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Rule one is that nothing in my house needs a vendor's server to work. The rest of the rules I follow after ten years of home automation, plus both talks I gave on it, slide by slide."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50441707",
+              "popularity": 386,
+              "engagementCount": 155
+            }
+          ]
+        },
+        {
+          "title": "Blender 5.3 released with Gaussian Splat support",
+          "url": "https://www.blender.org/download/releases/5-3/",
+          "summary": "Blender 5.3 has been released, adding Gaussian Splat support to the 3D modeling and animation software Blender. This update facilitates the use of Gaussian Splatting technology, which enables the transfer of real-world data into 3D environments.",
+          "meta": "324 points · 45 comments",
+          "snapshot": {
+            "sourceId": "50442426",
+            "capturedAt": "2026-11-10T20:17:18.069Z",
+            "metadata": {
+              "popularity": 324,
+              "engagementCount": 45,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50442426",
+                  "popularity": 324,
+                  "engagementCount": 45
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-10T16:15:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50442426"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50442426",
+              "popularity": 324,
+              "engagementCount": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "Developed by Speridlabs, idol is an image-to-3D model that converts a single image into 3D Gaussian splat data. Producing output in the standard 3DGS .ply format, this tool separates objects from the background in under 2 seconds on consumer-grade GPUs.",
+          "meta": "♥ 1,833 · 26,470 downloads",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-10T20:17:17.837Z",
+            "metadata": {
+              "popularity": 1833,
+              "engagementCount": 26470,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 919,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          }
+        },
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic is an AI model focused on text generation. Showing high success in GSM8K tests, the model offers results that can compete with similar-scale and larger models when running on vLLM infrastructure.",
+          "meta": "♥ 1,166 · 14,378 downloads",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-10T20:17:17.837Z",
+            "metadata": {
+              "popularity": 1166,
+              "engagementCount": 14378,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 913,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. The NVFP4 checkpoint was evaluated on GSM8K four times, and the resulting scores were averaged. Its four-run mean accuracy is 94.50% under vLLM. In the comparison supplied with this release, the 9B student slightly exceeds the reported DeepSeek-V4-Pro teacher result and approaches the Llama-3.3-70B-Instruct reference."
+          }
+        },
+        {
+          "title": "moonshotai/Kimi-K3.1-Pro",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "summary": "Kimi-K3.1-Pro, developed by Moonshot AI, is a multimodal, open-weight AI model capable of processing visual and text data. Trained on top of the Kimi K3 model with large-scale reinforcement learning, this model is presented as the first member of the K3.1 series.",
+          "meta": "♥ 1,857 · 30,721 downloads",
+          "snapshot": {
+            "sourceId": "moonshotai/Kimi-K3.1-Pro",
+            "capturedAt": "2026-11-10T20:17:17.837Z",
+            "metadata": {
+              "popularity": 1857,
+              "engagementCount": 30721,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 613,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "kimi_k31",
+                  "text-generation",
+                  "compressed-tensors",
+                  "conversational",
+                  "image-text-to-text",
+                  "custom_code",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series."
+          }
+        },
+        {
+          "title": "ricursiveAI/Ripple-65B-Preview",
+          "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+          "summary": "Developed by Ricursive Intelligence, Ripple-65B-Preview is a 65-billion parameter dense Transformer model trained on 12 trillion tokens and supporting a context window of up to 1 million tokens. Scoring 80.52 on TerminalBench 2.1 and demonstrating high performance in agent-based coding tasks, the model outperforms larger-scale open-weight alternatives.",
+          "meta": "♥ 476 · 6,480 downloads",
+          "snapshot": {
+            "sourceId": "ricursiveAI/Ripple-65B-Preview",
+            "capturedAt": "2026-11-10T20:17:17.837Z",
+            "metadata": {
+              "popularity": 476,
+              "engagementCount": 6480,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 457,
+                "tags": [
+                  "safetensors",
+                  "ricursive",
+                  "custom_code",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "Ricursive Intelligence introduces Ripple-65B Preview, a 65B parameter dense Transformer model pretrained on 12 trillion tokens with support for up to 1Mi (1,048,576 tokens) of context. Ripple-65B Preview delivers strong results on agentic coding, scoring 80.52 on TerminalBench 2.1 and surpassing significantly-larger US open-weight models such as Reflection Beam 501B (80.1), Meta Muse Spark Open…"
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, developed by Lightricks, is an AI model that converts images to video. It offers technology that allows users to create moving videos from static images.",
+          "meta": "♥ 11,357 · 2,791,606 downloads",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-10T20:17:17.837Z",
+            "metadata": {
+              "popularity": 11357,
+              "engagementCount": 2791606,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 396,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "onóna: Twin Embeddings with Tied Unembeddings",
+          "url": "https://huggingface.co/papers/2611.10556",
+          "summary": "Shared by Hugging Face, onóna presents a two-table parameterization that strengthens output expression while reducing the parameter cost of the weight tying method in language models. This method works by taking the average of two embedding tables in the Transformer architecture as input and combining the probability distributions of these tables at the output stage.",
+          "meta": "2 likes · 3 comments",
+          "snapshot": {
+            "sourceId": "2611.10556",
+            "capturedAt": "2026-11-10T20:17:17.852Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 3,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.10556",
+                "publishedAt": "2026-11-07T00:00:00.000Z"
+              }
+            },
+            "description": "Weight tying reduces the parameter cost of language models, but the usual tied output head is limited to a single softmax. We introduce onóna, a two-table parameterization that increases output expressiveness while preserving input-output weight sharing. The Transformer takes the average of two embedding tables as input, and the output head combines the softmax distributions defined by those same tables. A gate conditioned only on the current input token determines the mixture weight. Its values"
+          }
+        },
+        {
+          "title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
+          "url": "https://huggingface.co/papers/2611.09709",
+          "summary": "RidgeFill offers a method to accelerate the prefill phase in large language models by shortening upper-layer computations. By predicting data from the model's lower layers using ridge regression, it optimizes the cache filling process even in untrained models.",
+          "meta": "2 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2611.09709",
+            "capturedAt": "2026-11-10T20:17:17.852Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.09709",
+                "publishedAt": "2026-11-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/Approximate-Science/ridgefill-data",
+                "githubStars": 0
+              }
+            },
+            "description": "RidgeFill shortens prefill by not computing most of a model's upper layers for the prompt. The lower layers run exactly up to a split; from the split layer's state a per-layer map predicts every later layer's input, and each late layer writes its cache from that prediction. The design follows YOCO and DeepSeek-V4.1-Flash, where the projection is trained into the model. RidgeFill retrofits it onto models that were never trained for it: the map is a ridge regression fitted once in closed form from"
+          }
+        },
+        {
+          "title": "Creative Priming: Decoupling Process from Product to Escape the Creative Paradox",
+          "url": "https://huggingface.co/papers/2611.11740",
+          "summary": "The Creative Priming paper published on Hugging Face argues that creativity should be modeled as an open process rather than repeating past successes. The study focuses on how AI models can overcome the creativity paradox to develop new technologies and scientific theories.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.11740",
+            "capturedAt": "2026-11-10T20:17:17.852Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.11740",
+                "publishedAt": "2026-11-09T00:00:00.000Z"
+              }
+            },
+            "description": "Many of the most consequential advances promised by AI, from curing diseases and inventing new technologies to formulating new scientific theories, are fundamentally creative acts. Yet creativity is uniquely difficult to learn because it faces a creative paradox: learning to repeat past examples of creative success makes those specific examples more likely to recur, inhibiting the very creativity desired. This work argues that creativity is better modeled as an explicit process rather than as a "
+          }
+        },
+        {
+          "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks",
+          "url": "https://huggingface.co/papers/2611.12875",
+          "summary": "Click3R is an interactive framework developed to correct erroneous predictions of existing 3D reconstruction models. It allows for corrections by adding geometric constraints to the model through sparse correspondence clicks provided by users.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.12875",
+            "capturedAt": "2026-11-10T20:17:17.852Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.12875",
+                "publishedAt": "2026-11-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/UVA-Computer-Vision-Lab/click3r",
+                "githubStars": 4
+              }
+            },
+            "description": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To address this limitation, we introduce Click3R, a framework for interactive geometric correction of feed-forward models using sparse human correspondence clicks. Given an image pair and a small set of cross-view point correspondences provided by a user, Click3R injects geometric constraints into the "
+          }
+        },
+        {
+          "title": "LCM-Promo: An LLM-Based Uplift Model for Promotion Allocation",
+          "url": "https://huggingface.co/papers/2610.37570",
+          "summary": "LCM-Promo is an AI model based on a Large Commerce Model developed to predict users' purchase intent and their reactions to promotions. Trained with transaction data, this model aims to optimize promotion allocation processes by using session context.",
+          "meta": "3 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.37570",
+            "capturedAt": "2026-11-10T20:17:17.852Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37570",
+                "publishedAt": "2026-10-27T17:15:15.000Z"
+              }
+            },
+            "description": "We present LCM-Promo, an LLM-based uplift model for promotion allocation. LCM-Promo is a task-specific Large Commerce Model (LCM): a finetuned LLM trained on transactional commerce data to predict user intent and promotion response. It learns monotonic promotion-response curves from production logs by interpreting single-token outputs as conversion-threshold probabilities, while conditioning on session context such as day and delivery shift. In a production A/B test on churn reactivation, LCM-Pr"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "A type of software whose source code is open for anyone to inspect, modify, and improve."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "The set of technical skills and methods used in software development processes."
+    },
+    {
+      "term": "CFP/CFA",
+      "explanation": "Certified professionals specializing in financial planning and investment management."
+    },
+    {
+      "term": "CLI",
+      "explanation": "A text-based interface that allows you to manage programs by entering written commands instead of using a mouse."
+    },
+    {
+      "term": "accessibility tree",
+      "explanation": "A hierarchical structure created so that content on a web page can be understood by assistive technologies such as screen readers."
+    },
+    {
+      "term": "framework",
+      "explanation": "A comprehensive infrastructure that provides basic functions and organizes the application structure while developing software."
+    },
+    {
+      "term": "full-stack",
+      "explanation": "The development process that covers both the front-end visible to the user and the back-end server and database components of a web application."
+    },
+    {
+      "term": "context window",
+      "explanation": "The limit on the amount of text or data that artificial intelligence can process and remember at one time."
+    },
+    {
+      "term": "token",
+      "explanation": "The smallest unit of data corresponding to words or word fragments that artificial intelligence models use to process language."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Software capabilities that artificial intelligence agents possess to perform specific tasks."
+    },
+    {
+      "term": "grandfathered",
+      "explanation": "The privileged status held by existing users that protects their current rights before new rules are implemented."
+    },
+    {
+      "term": "image-to-3d",
+      "explanation": "Technology that analyzes a two-dimensional image and converts it into a three-dimensional object."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "The ability to generate meaningful and coherent texts based on given prompts."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "A system that is not limited to text only but can process different data types such as images, audio, or video simultaneously."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "A training method where artificial intelligence learns to make the most accurate decision through trial and error and the rewards it receives."
+    },
+    {
+      "term": "dense Transformer",
+      "explanation": "A high-performance artificial intelligence architecture in which all parameters are actively used in every operation."
+    }
+  ]
+}

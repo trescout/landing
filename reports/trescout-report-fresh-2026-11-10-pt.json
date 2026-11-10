@@ -1,0 +1,430 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-10",
+  "capturedAt": "2026-11-10T20:17:17.708Z",
+  "editorial": "Os conteúdos incluídos no relatório não são repetidos durante 30 dias. Após este período, os registros que continuam na pauta são listados novamente com a etiqueta \"novamente em pauta\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "addyosmani/agent-skills é uma biblioteca que oferece habilidades de engenharia em nível de produção para agentes de codificação de inteligência artificial. Desenvolvido na linguagem JavaScript, este projeto visa padronizar as habilidades dos agentes nos processos de software.",
+          "meta": "JavaScript · ★ 115.042 · +465 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 115042,
+              "engagementCount": 465,
+              "rank": 3,
+              "extra": {
+                "starsToday": 465,
+                "baglam": "readme"
+              }
+            },
+            "description": "Production-grade engineering skills for AI coding agents. Production-grade engineering skills for AI coding agents."
+          }
+        },
+        {
+          "title": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "summary": "Desenvolvido na linguagem Ruby, o sure é um aplicativo de finanças pessoais e gestão de ativos aberto ao uso de todos. Este projeto, que oferece recursos que permitem aos usuários conectar-se diretamente com consultores financeiros (CFP/CFA), foi projetado como uma plataforma de código aberto.",
+          "meta": "Ruby · ★ 11.784 · +184 hoje",
+          "snapshot": {
+            "sourceId": "we-promise/sure",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 11784,
+              "engagementCount": 184,
+              "rank": 6,
+              "extra": {
+                "starsToday": 184,
+                "baglam": "readme"
+              }
+            },
+            "description": "The personal finance app for everyone (by everyone). The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
+          }
+        },
+        {
+          "title": "homeassistant-ai/ha-mcp",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "summary": "O ha-mcp, desenvolvido para o Home Assistant, permite configurar e automatizar a plataforma de casa inteligente com assistentes de inteligência artificial como Claude e ChatGPT. Integrada via HACS, esta ferramenta funciona com suporte total a recursos em todos os tipos de instalação do Home Assistant.",
+          "meta": "Python · ★ 6.535 · +792 hoje",
+          "snapshot": {
+            "sourceId": "homeassistant-ai/ha-mcp",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6535,
+              "engagementCount": 792,
+              "rank": 7,
+              "extra": {
+                "starsToday": 792,
+                "baglam": "readme"
+              }
+            },
+            "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. The recommended way to run ha-mcp is the HA-MCP integration. It installs into Home Assistant through HACS (the built-in Marketplace on Home Assistant 2026.11+), runs the full server in-process, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity."
+          }
+        },
+        {
+          "title": "tokio-rs/topcoat",
+          "url": "https://github.com/tokio-rs/topcoat",
+          "summary": "Topcoat é um framework Rust modular e abrangente projetado para desenvolver aplicações web. Priorizando a simplicidade e a produtividade, esta estrutura visa facilitar o processo de criação de aplicações full-stack.",
+          "meta": "Rust · ★ 6.725 · +192 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "tokio-rs/topcoat",
+            "capturedAt": "2026-11-10T20:17:18.889Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 6725,
+              "engagementCount": 192,
+              "rank": 10,
+              "extra": {
+                "starsToday": 192,
+                "baglam": "readme"
+              }
+            },
+            "description": "A batteries-included framework for building web apps. Topcoat is a modular, batteries-included Rust framework for building full-stack apps. It prioritizes simplicity and productivity. See Learn Topcoat to get started, or the Roadmap for what's coming next."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+          "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+          "summary": "Engenheiros da Amazon economizaram milhões de dólares ao substituir o modelo Claude Sonnet 4.6, usado em seus sistemas internos de bilhetagem em larga escala, pelo modelo de tomada de decisão Strands Decider. Essa mudança demonstra o impacto da otimização de modelos focada em custos em fluxos de trabalho complexos.",
+          "meta": "657 pontos · 229 comentários",
+          "snapshot": {
+            "sourceId": "50436640",
+            "capturedAt": "2026-11-10T20:17:18.069Z",
+            "metadata": {
+              "popularity": 657,
+              "engagementCount": 229,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50436640",
+                  "popularity": 657,
+                  "engagementCount": 229
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-10T06:01:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50436640",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Two Amazon engineers swapped Claude Sonnet 4.6 for a decision model in one of the world's biggest internal ticketing systems."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50436640",
+              "popularity": 657,
+              "engagementCount": 229
+            }
+          ]
+        },
+        {
+          "title": "AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "summary": "O AlphaProof Code, desenvolvido pelo Google DeepMind, é um sistema de IA que combina capacidades de raciocínio matemático e escrita de código. Este modelo visa desenvolver soluções em processos complexos de resolução de problemas utilizando métodos de geração de código e verificação lógica.",
+          "meta": "512 pontos · 164 comentários",
+          "snapshot": {
+            "sourceId": "50439193",
+            "capturedAt": "2026-11-10T20:17:18.069Z",
+            "metadata": {
+              "popularity": 512,
+              "engagementCount": 164,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50439193",
+                  "popularity": 512,
+                  "engagementCount": 164
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-10T12:11:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50439193"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50439193",
+              "popularity": 512,
+              "engagementCount": 164
+            }
+          ]
+        },
+        {
+          "title": ".name Grandfathered",
+          "url": "https://neil.fraser.name/news/2026/11/10/",
+          "summary": "O fim dos direitos adquiridos (grandfathered) aplicados à extensão de domínio .name iniciou um processo de mudança que afeta os atuais detentores de registros. Esta situação exige que os usuários que possuem a referida extensão se adaptem às novas regras relativas à gestão de domínios e políticas de renovação.",
+          "meta": "437 pontos · 83 comentários",
+          "snapshot": {
+            "sourceId": "50442736",
+            "capturedAt": "2026-11-10T20:17:18.069Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 83,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50442736",
+                  "popularity": 437,
+                  "engagementCount": 83
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-10T16:37:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50442736"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50442736",
+              "popularity": 437,
+              "engagementCount": 83
+            }
+          ]
+        },
+        {
+          "title": "Smart home devices should work without the internet",
+          "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+          "summary": "Esta abordagem, que defende que os dispositivos domésticos inteligentes devem funcionar sem depender dos servidores dos fabricantes, contém princípios fundamentais baseados em dez anos de experiência em automação. São compartilhados métodos a serem seguidos para a criação de sistemas que mantêm a funcionalidade mesmo quando a conexão com a internet é interrompida.",
+          "meta": "386 pontos · 155 comentários",
+          "snapshot": {
+            "sourceId": "50441707",
+            "capturedAt": "2026-11-10T20:17:18.069Z",
+            "metadata": {
+              "popularity": 386,
+              "engagementCount": 155,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50441707",
+                  "popularity": 386,
+                  "engagementCount": 155
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-10T15:25:20Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50441707",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Rule one is that nothing in my house needs a vendor's server to work. The rest of the rules I follow after ten years of home automation, plus both talks I gave on it, slide by slide."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50441707",
+              "popularity": 386,
+              "engagementCount": 155
+            }
+          ]
+        },
+        {
+          "title": "Blender 5.3 released with Gaussian Splat support",
+          "url": "https://www.blender.org/download/releases/5-3/",
+          "summary": "O Blender 5.3 foi lançado adicionando suporte a Gaussian Splat ao software de modelagem e animação tridimensional Blender. Esta atualização facilita o uso da tecnologia Gaussian Splatting, que permite a transferência de dados do mundo real para ambientes tridimensionais.",
+          "meta": "324 pontos · 45 comentários",
+          "snapshot": {
+            "sourceId": "50442426",
+            "capturedAt": "2026-11-10T20:17:18.069Z",
+            "metadata": {
+              "popularity": 324,
+              "engagementCount": 45,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50442426",
+                  "popularity": 324,
+                  "engagementCount": 45
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-10T16:15:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50442426"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50442426",
+              "popularity": 324,
+              "engagementCount": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "onóna: Twin Embeddings with Tied Unembeddings",
+          "url": "https://huggingface.co/papers/2611.10556",
+          "summary": "O onóna, compartilhado pela Hugging Face, apresenta uma parametrização de duas tabelas que fortalece a expressão de saída enquanto reduz o custo de parâmetros do método de vinculação de pesos (weight tying) em modelos de linguagem. Este método funciona tomando a média de duas tabelas de incorporação (embedding table) na arquitetura Transformer como entrada e combinando as distribuições de probabilidade dessas tabelas na fase de saída.",
+          "meta": "2 curtidas · 3 comentários",
+          "snapshot": {
+            "sourceId": "2611.10556",
+            "capturedAt": "2026-11-10T20:17:17.852Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 3,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.10556",
+                "publishedAt": "2026-11-07T00:00:00.000Z"
+              }
+            },
+            "description": "Weight tying reduces the parameter cost of language models, but the usual tied output head is limited to a single softmax. We introduce onóna, a two-table parameterization that increases output expressiveness while preserving input-output weight sharing. The Transformer takes the average of two embedding tables as input, and the output head combines the softmax distributions defined by those same tables. A gate conditioned only on the current input token determines the mixture weight. Its values"
+          }
+        },
+        {
+          "title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
+          "url": "https://huggingface.co/papers/2611.09709",
+          "summary": "RidgeFill apresenta um método que encurta os cálculos das camadas superiores para acelerar a fase de pré-preenchimento (prefill) em grandes modelos de linguagem. Ao prever os dados provenientes das camadas inferiores do modelo com uma regressão de crista (ridge regression), otimiza o processo de preenchimento de cache mesmo em modelos não treinados.",
+          "meta": "2 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2611.09709",
+            "capturedAt": "2026-11-10T20:17:17.852Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.09709",
+                "publishedAt": "2026-11-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/Approximate-Science/ridgefill-data",
+                "githubStars": 0
+              }
+            },
+            "description": "RidgeFill shortens prefill by not computing most of a model's upper layers for the prompt. The lower layers run exactly up to a split; from the split layer's state a per-layer map predicts every later layer's input, and each late layer writes its cache from that prediction. The design follows YOCO and DeepSeek-V4.1-Flash, where the projection is trained into the model. RidgeFill retrofits it onto models that were never trained for it: the map is a ridge regression fitted once in closed form from"
+          }
+        },
+        {
+          "title": "Creative Priming: Decoupling Process from Product to Escape the Creative Paradox",
+          "url": "https://huggingface.co/papers/2611.11740",
+          "summary": "O artigo Creative Priming, publicado no Hugging Face, defende que a criatividade deve ser modelada como um processo aberto, em vez de repetir sucessos passados. O estudo foca em como os modelos de inteligência artificial podem superar o paradoxo da criatividade para desenvolver novas tecnologias e teorias científicas.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.11740",
+            "capturedAt": "2026-11-10T20:17:17.852Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.11740",
+                "publishedAt": "2026-11-09T00:00:00.000Z"
+              }
+            },
+            "description": "Many of the most consequential advances promised by AI, from curing diseases and inventing new technologies to formulating new scientific theories, are fundamentally creative acts. Yet creativity is uniquely difficult to learn because it faces a creative paradox: learning to repeat past examples of creative success makes those specific examples more likely to recur, inhibiting the very creativity desired. This work argues that creativity is better modeled as an explicit process rather than as a "
+          }
+        },
+        {
+          "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks",
+          "url": "https://huggingface.co/papers/2611.12875",
+          "summary": "Click3R é uma estrutura interativa desenvolvida para corrigir as previsões incorretas de modelos de reconstrução 3D existentes. Permite realizar correções adicionando restrições geométricas ao modelo por meio de correspondências de pontos esparsos (sparse correspondence clicks) fornecidas pelos usuários.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.12875",
+            "capturedAt": "2026-11-10T20:17:17.852Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.12875",
+                "publishedAt": "2026-11-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/UVA-Computer-Vision-Lab/click3r",
+                "githubStars": 4
+              }
+            },
+            "description": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To address this limitation, we introduce Click3R, a framework for interactive geometric correction of feed-forward models using sparse human correspondence clicks. Given an image pair and a small set of cross-view point correspondences provided by a user, Click3R injects geometric constraints into the "
+          }
+        },
+        {
+          "title": "LCM-Promo: An LLM-Based Uplift Model for Promotion Allocation",
+          "url": "https://huggingface.co/papers/2610.37570",
+          "summary": "LCM-Promo é um modelo de inteligência artificial baseado em um Grande Modelo de Comércio (Large Commerce Model), desenvolvido para prever a intenção de compra dos usuários e suas reações a promoções. Treinado com dados de transações, este modelo visa otimizar os processos de alocação de promoções utilizando o contexto da sessão.",
+          "meta": "3 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.37570",
+            "capturedAt": "2026-11-10T20:17:17.852Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.37570",
+                "publishedAt": "2026-10-27T17:15:15.000Z"
+              }
+            },
+            "description": "We present LCM-Promo, an LLM-based uplift model for promotion allocation. LCM-Promo is a task-specific Large Commerce Model (LCM): a finetuned LLM trained on transactional commerce data to predict user intent and promotion response. It learns monotonic promotion-response curves from production logs by interpreting single-token outputs as conversion-threshold probabilities, while conditioning on session context such as day and delivery shift. In a production A/B test on churn reactivation, LCM-Pr"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "engineering skills",
+      "explanation": "Conjunto de habilidades técnicas e métodos utilizados nos processos de desenvolvimento de software."
+    },
+    {
+      "term": "CFP/CFA",
+      "explanation": "Profissionais certificados especializados em planejamento financeiro e gestão de investimentos."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerenciar programas inserindo comandos escritos, em vez de usar o mouse."
+    },
+    {
+      "term": "framework",
+      "explanation": "Infraestrutura abrangente que fornece funções básicas prontas e organiza a estrutura da aplicação durante o desenvolvimento de software."
+    },
+    {
+      "term": "full-stack",
+      "explanation": "Processo de desenvolvimento que abrange tanto a interface frontal (front-end) de uma aplicação web, visível ao usuário, quanto as partes de servidor e banco de dados que operam em segundo plano (back-end)."
+    },
+    {
+      "term": "grandfathered",
+      "explanation": "Status privilegiado detido por usuários antigos que preservam seus direitos existentes antes da implementação de novas regras."
+    }
+  ]
+}
