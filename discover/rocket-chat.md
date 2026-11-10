@@ -2,16 +2,16 @@
 
 Rocket.Chat, görev kritik operasyonlar için tasarlanmış güvenli bir iletişim işletim sistemi (communications operating system) sunuyor. TypeScript diliyle geliştirilen platform, kurum içi mesajlaşma ve iş birliği süreçlerini merkezileştirmeyi hedefliyor.
 
-- ★ 46.375
+- ★ 46.386
 - TypeScript
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
 
+- **10 Kasım 2026:** Yıldız 46.375 → 46.386, son sürüm 9.0.0 (10 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 46.215 → 46.375, son sürüm 8.9.1 (6 Kasım 2026).
 - **6 Ekim 2026:** Yıldız 46.098 → 46.215, son sürüm 8.9.0 (5 Ekim 2026).
 - **10 Eylül 2026:** Yıldız 46.064 → 46.098, son sürüm 8.8.1 (9 Eylül 2026).
-- **2 Eylül 2026:** Yıldız 46.005 → 46.064, son sürüm 8.8.0 (1 Eylül 2026).
 
 ## Ne kazandırır?
 

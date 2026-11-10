@@ -2,12 +2,13 @@
 
 Le Guide d'auto-hébergement propose un guide complet sur l'hébergement et la gestion d'applications logicielles sur des réseaux locaux ou des serveurs Web dédiés. Il fournit des ressources techniques sur des sujets tels que le cloud computing, les grands modèles de langage, l'automatisation et la configuration réseau.
 
-- ★ 22 395
+- ★ 23 515
 - Dockerfile
 - GitHub Trending · 2026-06-16
 
 ## Mises à jour
 
+- **10 novembre 2026:** Étoiles 22,395 → 23,515.
 - **19 août 2026:** Étoiles 21,324 → 22,395.
 
 ## Ce que ça vous apporte

@@ -2,16 +2,16 @@
 
 OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor. TypeScript diliyle geliştirilen bu araç, kullanıcıların kendi sunucularında (self-hosted) WhatsApp entegrasyonlarını yönetmelerine olanak tanıyor.
 
-- ★ 16.589
+- ★ 16.725
 - TypeScript
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
 
+- **10 Kasım 2026:** Yıldız 16.589 → 16.725, son sürüm v0.30.0 (10 Kasım 2026).
 - **8 Kasım 2026:** Yıldız 16.557 → 16.589, son sürüm v0.29.1 (7 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 16.452 → 16.557, son sürüm v0.29.0 (6 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 16.412 → 16.452, son sürüm v0.27.1 (1 Kasım 2026).
-- **31 Ekim 2026:** Yıldız 16.328 → 16.412, son sürüm v0.27.0 (31 Ekim 2026).
 
 ## Ne kazandırır?
 

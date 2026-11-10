@@ -2,16 +2,16 @@
 
 MiroFish propose un moteur d'intelligence par essaim simple et universel développé pour prédire différents types de données. Cet outil basé sur Python utilise des méthodes informatiques collectives pour identifier des modèles dans des systèmes complexes.
 
-- ★ 81 131
+- ★ 85 202
 - Python
 - GitHub Trending · 2026-06-06
 
 ## Mises à jour
 
+- **10 novembre 2026:** Étoiles 81,131 → 85,202, dernière version v0.1.2 (7 mars 2026).
 - **22 octobre 2026:** Étoiles 77,183 → 81,131, dernière version v0.1.2 (7 mars 2026).
 - **8 octobre 2026:** Étoiles 73,507 → 77,183, dernière version v0.1.2 (7 mars 2026).
 - **15 septembre 2026:** Étoiles 69,813 → 73,507, dernière version v0.1.2 (7 mars 2026).
-- **2 août 2026:** Étoiles 64,830 → 69,813, dernière version v0.1.2 (7 mars 2026).
 
 ## Ce que ça vous apporte
 

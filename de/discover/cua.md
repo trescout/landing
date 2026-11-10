@@ -2,16 +2,16 @@
 
 CUA bietet eine Open-Source-Infrastruktur für computerfähige Agenten der künstlichen Intelligenz. Es vereint Sandbox, Software Development Kit (SDK) und Benchmark-Tools unter einem Dach, um Agenten zu schulen und zu evaluieren, die Desktop-Betriebssysteme steuern können.
 
-- ★ 32.099
+- ★ 32.141
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Aktualisierungen
 
+- **10. November 2026:** Sterne 32,099 → 32,141, neueste Version cua-spaces-v0.31.2 (10. November 2026).
 - **10. November 2026:** Sterne 31,961 → 32,099, neueste Version cua-spaces-v0.27.2 (10. November 2026).
 - **8. November 2026:** Sterne 31,903 → 31,961, neueste Version cua-spaces-v0.22.3 (7. November 2026).
 - **7. November 2026:** Sterne 31,693 → 31,903, neueste Version cua-spaces-v0.22.0 (7. November 2026).
-- **4. November 2026:** Sterne 31,612 → 31,693, neueste Version cua-spaces-v0.20.0 (3. November 2026).
 
 ## Was es bringt
 

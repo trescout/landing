@@ -2,16 +2,16 @@
 
 Camofox é um navegador furtivo (stealth headless browser) que permite que agentes de inteligência artificial superem sistemas de detecção de bots e bloqueios de web scraping. Ele funciona de forma diretamente compatível com as ferramentas de automação de navegador Puppeteer e Playwright, oferecendo uma solução alternativa a essas bibliotecas.
 
-- ★ 12.109
+- ★ 12.230
 - JavaScript
 - GitHub Trending · 2026-09-08
 
 ## Atualizações
 
+- **10 de novembro de 2026:** Estrelas 12,109 → 12,230, versão mais recente v1.19.0 (10 de novembro de 2026).
 - **2 de novembro de 2026:** Estrelas 11,460 → 12,109, versão mais recente camoufox-backup-428447379 (2 de novembro de 2026).
 - **7 de outubro de 2026:** Estrelas 11,433 → 11,460, versão mais recente camoufox-backup-404310733 (7 de outubro de 2026).
 - **5 de outubro de 2026:** Estrelas 11,411 → 11,433, versão mais recente v1.18.1 (5 de outubro de 2026).
-- **4 de outubro de 2026:** Estrelas 11,292 → 11,411, versão mais recente camoufox-backup-402708180 (4 de outubro de 2026).
 
 ## O que você ganha
 

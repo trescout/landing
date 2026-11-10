@@ -70,8 +70,8 @@ There is a safe and management fee. It pays off in critical data.
 
 ## Related tools
 
-- [holaOS](https://trescout.com/en/discover/holaos/)
 - [Copilot SDK](https://trescout.com/en/discover/copilot-sdk/)
+- [holaOS](https://trescout.com/en/discover/holaos/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/byok/)
 

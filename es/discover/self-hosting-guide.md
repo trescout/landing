@@ -2,12 +2,13 @@
 
 La Guía de autohospedaje ofrece una guía completa para alojar y administrar aplicaciones de software en redes locales o servidores web dedicados. Proporciona recursos técnicos sobre temas como computación en la nube, modelos de lenguaje grandes, automatización y configuración de redes.
 
-- ★ 22.395
+- ★ 23.515
 - Dockerfile
 - GitHub Trending · 2026-06-16
 
 ## Actualizaciones
 
+- **10 de noviembre de 2026:** Estrellas 22,395 → 23,515.
 - **19 de agosto de 2026:** Estrellas 21,324 → 22,395.
 
 ## Qué aporta

@@ -69,7 +69,7 @@ Ils nécessitent des ressources matérielles élevées car des milliards de para
 - [Ragflow](https://trescout.com/fr/discover/ragflow/)
 - [Servers](https://trescout.com/fr/discover/servers/)
 - [Crawl4AI](https://trescout.com/fr/discover/crawl4ai/)
-- [Deer Flow](https://trescout.com/fr/discover/deer-flow/)
+- [MiroFish](https://trescout.com/fr/discover/mirofish/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/llm/)
 

@@ -40,8 +40,8 @@ Genellikle sadece sizin hesabınızla ilişkilidir, ancak gizlilik ayarlarınız
 
 ## İlgili araçlar
 
-- [Mempalace](https://trescout.com/discover/mempalace/)
 - [Hindsight](https://trescout.com/discover/hindsight/)
+- [Mempalace](https://trescout.com/discover/mempalace/)
 - [Cognee](https://trescout.com/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/discover/ai-memory/)

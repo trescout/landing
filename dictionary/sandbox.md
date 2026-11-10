@@ -40,8 +40,8 @@ Bilinmeyen bir yazılımın virüslü olup olmadığını anlamak veya yeni kodu
 
 ## İlgili araçlar
 
-- [Deer Flow](https://trescout.com/discover/deer-flow/)
 - [MiroFish](https://trescout.com/discover/mirofish/)
+- [Deer Flow](https://trescout.com/discover/deer-flow/)
 - [Ladybird](https://trescout.com/discover/ladybird/)
 - [CUA](https://trescout.com/discover/cua/)
 - [OpenShell](https://trescout.com/discover/openshell/)

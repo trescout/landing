@@ -70,8 +70,8 @@ Hay una comisión en efectivo y de gestión. Da sus frutos en datos críticos.
 
 ## Herramientas relacionadas
 
-- [holaOS](https://trescout.com/es/discover/holaos/)
 - [Copilot SDK](https://trescout.com/es/discover/copilot-sdk/)
+- [holaOS](https://trescout.com/es/discover/holaos/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/byok/)
 

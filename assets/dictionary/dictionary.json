@@ -10541,5 +10541,57 @@
     "kisa_es": "Es la capa de gestión que se encarga de la configuración, la supervisión, la autenticación y la administración general de un sistema.",
     "kisa_pt": "É a camada de gerenciamento responsável pelas tarefas de configuração, monitoramento, autenticação e administração geral de um sistema.",
     "kisa_de": "Es ist die Verwaltungsebene, die die Konfiguration, Überwachung, Authentifizierung und allgemeine Administration eines Systems übernimmt."
+  },
+  {
+    "slug": "cfp-cfa",
+    "en": "CFP/CFA",
+    "full": "Certified Financial Planner / Chartered Financial Analyst",
+    "cat": "data",
+    "kisa": "Finansal planlama ve yatırım yönetimi konularında uzmanlaşmış profesyonellerin sahip olduğu yetkinlik sertifikalarıdır.",
+    "date": "2026-11-10",
+    "kisa_en": "These are competency certificates held by professionals specialized in financial planning and investment management.",
+    "kisa_fr": "Ce sont des certificats de compétences détenus par des professionnels spécialisés dans la planification financière et la gestion des investissements.",
+    "kisa_es": "Son certificados de competencia que poseen los profesionales especializados en planificación financiera y gestión de inversiones.",
+    "kisa_pt": "São certificados de competência detidos por profissionais especializados em planeamento financeiro e gestão de investimentos.",
+    "kisa_de": "Es sind Befähigungszertifikate von Fachleuten, die auf Finanzplanung und Anlagemanagement spezialisiert sind."
+  },
+  {
+    "slug": "grandfathered",
+    "en": "Grandfathered",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yeni kurallar veya zamlar yürürlüğe girmeden önce sistemde olan kişilerin eski haklarını koruması durumudur.",
+    "date": "2026-11-10",
+    "kisa_en": "This is the situation where individuals already in the system retain their previous rights before new rules or price increases take effect.",
+    "kisa_fr": "Il s'agit de la situation où les personnes déjà présentes dans le système conservent leurs droits acquis avant l'entrée en vigueur de nouvelles règles ou hausses.",
+    "kisa_es": "Es la situación en la que las personas que ya están en el sistema antes de que entren en vigor las nuevas reglas o aumentos protegen sus derechos adquiridos.",
+    "kisa_pt": "É a situação em que as pessoas que já se encontram no sistema mantêm os seus direitos adquiridos antes da entrada em vigor de novas regras ou aumentos.",
+    "kisa_de": "Es ist der Fall, dass Personen, die sich vor dem Inkrafttreten neuer Regeln oder Erhöhungen im System befinden, ihre bisherigen Rechte behalten."
+  },
+  {
+    "slug": "image-to-3d",
+    "en": "Image-to-3D",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İki boyutlu bir fotoğrafı analiz ederek onu derinlik kazandırılmış üç boyutlu bir dijital modele dönüştüren yapay zekâ teknolojisidir.",
+    "date": "2026-11-10",
+    "kisa_en": "This is an artificial intelligence technology that analyzes a two-dimensional photograph and converts it into a three-dimensional digital model with added depth.",
+    "kisa_fr": "Il s'agit d'une technologie d'intelligence artificielle qui analyse une photographie bidimensionnelle pour la transformer en un modèle numérique tridimensionnel doté de profondeur.",
+    "kisa_es": "Es una tecnología de inteligencia artificial que analiza una fotografía bidimensional y la convierte en un modelo digital tridimensional con profundidad.",
+    "kisa_pt": "É uma tecnologia de inteligência artificial que analisa uma fotografia bidimensional e a transforma num modelo digital tridimensional com profundidade adicionada.",
+    "kisa_de": "Es handelt sich um eine Technologie der künstlichen Intelligenz, die ein zweidimensionales Foto analysiert und es in ein dreidimensionales digitales Modell mit zusätzlicher Tiefe umwandelt."
+  },
+  {
+    "slug": "dense-transformer",
+    "en": "Dense Transformer",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Tüm parametrelerinin her adımda aktif olduğu standart Transformer mimarisidir.",
+    "date": "2026-11-10",
+    "kisa_en": "This is a standard Transformer architecture where all parameters are active at every step.",
+    "kisa_fr": "Il s'agit de l'architecture Transformer standard dont tous les paramètres sont actifs à chaque étape.",
+    "kisa_es": "Es la arquitectura Transformer estándar en la que todos sus parámetros están activos en cada paso.",
+    "kisa_pt": "É a arquitetura Transformer padrão em que todos os parâmetros estão ativos em cada passo.",
+    "kisa_de": "Es ist die Standard-Transformer-Architektur, bei der alle Parameter in jedem Schritt aktiv sind."
   }
 ]

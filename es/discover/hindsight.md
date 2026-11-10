@@ -2,15 +2,15 @@
 
 Hindsight ofrece una capa de memoria de aprendizaje para agentes de inteligencia artificial. Al extraer información de interacciones pasadas para mejorar los procesos de toma de decisiones de los agentes, esta biblioteca de código abierto permite que los sistemas produzcan resultados más coherentes con el tiempo.
 
-- ★ 58.569
+- ★ 60.282
 - GitHub Trending · 2026-09-25
 
 ## Actualizaciones
 
+- **10 de noviembre de 2026:** Estrellas 58,569 → 60,282, última versión v1.2.1 (10 de noviembre de 2026).
 - **4 de noviembre de 2026:** Estrellas 55,666 → 58,569, última versión v1.2.0 (3 de noviembre de 2026).
 - **29 de octubre de 2026:** Estrellas 52,557 → 55,666, última versión v1.1.0 (21 de octubre de 2026).
 - **22 de octubre de 2026:** Estrellas 51,834 → 52,557, última versión v1.1.0 (21 de octubre de 2026).
-- **20 de octubre de 2026:** Estrellas 49,114 → 51,834, última versión v1.0.0 (13 de octubre de 2026).
 
 ## Qué aporta
 

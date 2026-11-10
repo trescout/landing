@@ -2,11 +2,12 @@
 
 Developed by Cloudflare, quiche provides a Rust implementation of the QUIC transport protocol and the HTTP/3 network standard. Aimed at accelerating internet traffic, this library offers a low-level infrastructure for developers looking to optimize network performance.
 
-- ★ 12,638
+- ★ 12,861
 - GitHub Trending · 2026-09-20
 
 ## Updates
 
+- **November 10, 2026:** Stars 12,638 → 12,861, latest release 0.30.1 (November 10, 2026).
 - **September 27, 2026:** Stars 12,452 → 12,638, latest release 0.30.0 (September 17, 2026).
 
 ## What you get

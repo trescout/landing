@@ -2,11 +2,12 @@
 
 Cloudflare tarafından geliştirilen quiche, QUIC taşıma protokolünün ve HTTP/3 ağ standardının Rust diliyle yazılmış bir uygulamasını sunuyor. İnternet trafiğini hızlandırmayı amaçlayan bu kütüphane, ağ performansını optimize etmek isteyen geliştiriciler için düşük seviyeli bir altyapı sağlıyor.
 
-- ★ 12.638
+- ★ 12.861
 - GitHub Trending · 2026-09-20
 
 ## Güncelleme
 
+- **10 Kasım 2026:** Yıldız 12.638 → 12.861, son sürüm 0.30.1 (10 Kasım 2026).
 - **27 Eylül 2026:** Yıldız 12.452 → 12.638, son sürüm 0.30.0 (17 Eylül 2026).
 
 ## Ne kazandırır?

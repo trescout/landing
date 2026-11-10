@@ -2,11 +2,12 @@
 
 Das von Cloudflare entwickelte Quiche bietet eine in der Programmiersprache Rust geschriebene Implementierung des QUIC-Transportprotokolls und des HTTP/3-Netzwerkstandards. Diese Bibliothek, die darauf abzielt, den Internetverkehr zu beschleunigen, stellt eine Low-Level-Infrastruktur für Entwickler bereit, die die Netzwerkleistung optimieren möchten.
 
-- ★ 12.638
+- ★ 12.861
 - GitHub Trending · 2026-09-20
 
 ## Aktualisierungen
 
+- **10. November 2026:** Sterne 12,638 → 12,861, neueste Version 0.30.1 (10. November 2026).
 - **27. September 2026:** Sterne 12,452 → 12,638, neueste Version 0.30.0 (17. September 2026).
 
 ## Was es bringt

@@ -69,7 +69,7 @@ They demand high hardware resources because billions of parameters must be kept 
 - [Ragflow](https://trescout.com/en/discover/ragflow/)
 - [Servers](https://trescout.com/en/discover/servers/)
 - [Crawl4AI](https://trescout.com/en/discover/crawl4ai/)
-- [Deer Flow](https://trescout.com/en/discover/deer-flow/)
+- [MiroFish](https://trescout.com/en/discover/mirofish/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/llm/)
 

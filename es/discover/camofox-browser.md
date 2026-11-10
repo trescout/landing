@@ -2,16 +2,16 @@
 
 Camofox es un navegador sigiloso (stealth headless browser) que permite a los agentes de inteligencia artificial superar los sistemas de detección de bots y las barreras de web scraping. Funciona directamente con las herramientas de automatización de navegadores Puppeteer y Playwright, ofreciendo una solución alternativa a estas bibliotecas.
 
-- ★ 12.109
+- ★ 12.230
 - JavaScript
 - GitHub Trending · 2026-09-08
 
 ## Actualizaciones
 
+- **10 de noviembre de 2026:** Estrellas 12,109 → 12,230, última versión v1.19.0 (10 de noviembre de 2026).
 - **2 de noviembre de 2026:** Estrellas 11,460 → 12,109, última versión camoufox-backup-428447379 (2 de noviembre de 2026).
 - **7 de octubre de 2026:** Estrellas 11,433 → 11,460, última versión camoufox-backup-404310733 (7 de octubre de 2026).
 - **5 de octubre de 2026:** Estrellas 11,411 → 11,433, última versión v1.18.1 (5 de octubre de 2026).
-- **4 de octubre de 2026:** Estrellas 11,292 → 11,411, última versión camoufox-backup-402708180 (4 de octubre de 2026).
 
 ## Qué aporta
 
