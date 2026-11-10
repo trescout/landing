@@ -2,12 +2,13 @@
 
 Developed in C, lz4 is a lossless data compression algorithm offering speeds of over 500 MB per second per core. Thanks to its architecture, which can reach RAM speed limits on multi-core systems, it provides extremely fast decoding performance.
 
-- ★ 12,438
+- ★ 12,744
 - C
 - GitHub Trending · 2026-11-06
 
 ## Updates
 
+- **November 10, 2026:** Stars 12,438 → 12,744, latest release v1.11.1 (November 10, 2026).
 - **November 6, 2026:** Stars 12,435 → 12,438, latest release v1.11.0 (November 4, 2026).
 
 ## What you get

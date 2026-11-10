@@ -8,10 +8,10 @@ Code-graph-rag combines knowledge graphs and fetch-assisted generation (RAG) to 
 
 ## Updates
 
+- **November 10, 2026:** Stars 5,347 → 5,347, latest release v0.6.30 (November 9, 2026).
 - **November 9, 2026:** Stars 5,309 → 5,347, latest release v0.6.0 (November 8, 2026).
 - **November 3, 2026:** Stars 5,307 → 5,309, latest release v0.5.0 (November 3, 2026).
 - **November 2, 2026:** Stars 5,303 → 5,307, latest release v0.4.19 (November 1, 2026).
-- **October 31, 2026:** Stars 5,284 → 5,303, latest release v0.4.5 (October 30, 2026).
 
 ## What you get
 

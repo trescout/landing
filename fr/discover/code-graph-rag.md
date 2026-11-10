@@ -8,10 +8,10 @@ Code-graph-rag combine des graphiques de connaissances et une génération assis
 
 ## Mises à jour
 
+- **10 novembre 2026:** Étoiles 5,347 → 5,347, dernière version v0.6.30 (9 novembre 2026).
 - **9 novembre 2026:** Étoiles 5,309 → 5,347, dernière version v0.6.0 (8 novembre 2026).
 - **3 novembre 2026:** Étoiles 5,307 → 5,309, dernière version v0.5.0 (3 novembre 2026).
 - **2 novembre 2026:** Étoiles 5,303 → 5,307, dernière version v0.4.19 (1 novembre 2026).
-- **31 octobre 2026:** Étoiles 5,284 → 5,303, dernière version v0.4.5 (30 octobre 2026).
 
 ## Ce que ça vous apporte
 

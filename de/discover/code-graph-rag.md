@@ -8,10 +8,10 @@ Code-Graph-Rag kombiniert Wissensgraphen und Fetch-Assisted Generation (RAG), um
 
 ## Aktualisierungen
 
+- **10. November 2026:** Sterne 5,347 → 5,347, neueste Version v0.6.30 (9. November 2026).
 - **9. November 2026:** Sterne 5,309 → 5,347, neueste Version v0.6.0 (8. November 2026).
 - **3. November 2026:** Sterne 5,307 → 5,309, neueste Version v0.5.0 (3. November 2026).
 - **2. November 2026:** Sterne 5,303 → 5,307, neueste Version v0.4.19 (1. November 2026).
-- **31. Oktober 2026:** Sterne 5,284 → 5,303, neueste Version v0.4.5 (30. Oktober 2026).
 
 ## Was es bringt
 

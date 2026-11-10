@@ -78,8 +78,8 @@ Entwickler schreiben sie, Plattformen vertreiben sie im Store. Eine gute Beschre
 - [Taste Skill](https://trescout.com/de/discover/taste-skill/)
 - [Archify](https://trescout.com/de/discover/archify/)
 - [Awesome Claude Skills](https://trescout.com/de/discover/awesome-claude-skills/)
-- [Last30days Skill](https://trescout.com/de/discover/last30days-skill/)
 - [Security Audit Skill](https://trescout.com/de/discover/security-audit-skill/)
+- [Last30days Skill](https://trescout.com/de/discover/last30days-skill/)
 - [I Have Adhd](https://trescout.com/de/discover/i-have-adhd/)
 - [OfficeCLI](https://trescout.com/de/discover/officecli/)
 

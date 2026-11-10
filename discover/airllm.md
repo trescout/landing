@@ -82,8 +82,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [VRAM](https://trescout.com/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/dictionary/apple-silicon/)
 - [RAM](https://trescout.com/dictionary/ram/)
-- [v4.0](https://trescout.com/dictionary/v4-0/)
 - [Jupyter Notebooks](https://trescout.com/dictionary/jupyter-notebooks/)
+- [v4.0](https://trescout.com/dictionary/v4-0/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/airllm/

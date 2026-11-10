@@ -2,12 +2,13 @@
 
 Développé par ByteDance, UI-TARS est une infrastructure d'agent open source qui intègre des modèles d'IA multimodaux avec des interfaces de bureau. Ce système permet la création d'agents (agents IA) qui effectuent de manière autonome des tâches sur l'ordinateur en traitant des données visuelles.
 
-- ★ 39 216
+- ★ 39 590
 - TypeScript
 - GitHub Trending · 2026-06-18
 
 ## Mises à jour
 
+- **10 novembre 2026:** Étoiles 39,216 → 39,590, dernière version v0.3.1 (8 octobre 2026), dépôt archivé, développement arrêté.
 - **8 octobre 2026:** Étoiles 38,404 → 39,216, dernière version v0.3.1 (8 octobre 2026).
 - **2 août 2026:** Étoiles 36,779 → 38,404, dernière version v0.3.0 (4 novembre 2025).
 

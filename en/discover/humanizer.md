@@ -2,16 +2,16 @@
 
 Humanizer is a Python library that transforms content into a more natural narrative by removing characteristic patterns found in AI-generated texts. This tool, which makes written texts appear as if they were written by a human, aims to make it harder for systems that automatically generate content to be detected.
 
-- ★ 64,502
+- ★ 67,265
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Updates
 
+- **November 10, 2026:** Stars 64,502 → 67,265, latest release v4.0.0 (November 10, 2026).
 - **November 4, 2026:** Stars 61,185 → 64,502, latest release v3.1.0 (September 28, 2026).
 - **October 27, 2026:** Stars 57,962 → 61,185, latest release v3.1.0 (September 28, 2026).
 - **October 18, 2026:** Stars 55,180 → 57,962, latest release v3.1.0 (September 28, 2026).
-- **October 9, 2026:** Stars 52,508 → 55,180, latest release v3.1.0 (September 28, 2026).
 
 ## What you get
 
@@ -53,6 +53,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [v4.0](https://trescout.com/en/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for content creators who want the texts they generate with artificial intelligence to appear more natural and original.

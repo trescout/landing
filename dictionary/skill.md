@@ -78,8 +78,8 @@ Geliştiriciler yazar, platformlar mağazada dağıtır. İyi açıklama yazmak 
 - [Taste Skill](https://trescout.com/discover/taste-skill/)
 - [Archify](https://trescout.com/discover/archify/)
 - [Awesome Claude Skills](https://trescout.com/discover/awesome-claude-skills/)
-- [Last30days Skill](https://trescout.com/discover/last30days-skill/)
 - [Security Audit Skill](https://trescout.com/discover/security-audit-skill/)
+- [Last30days Skill](https://trescout.com/discover/last30days-skill/)
 - [I Have Adhd](https://trescout.com/discover/i-have-adhd/)
 - [OfficeCLI](https://trescout.com/discover/officecli/)
 

@@ -67,8 +67,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [VRAM](https://trescout.com/en/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/en/dictionary/apple-silicon/)
 - [RAM](https://trescout.com/en/dictionary/ram/)
-- [v4.0](https://trescout.com/en/dictionary/v4-0/)
 - [Jupyter Notebooks](https://trescout.com/en/dictionary/jupyter-notebooks/)
+- [v4.0](https://trescout.com/en/dictionary/v4-0/)
 
 - **Who it is for:** It is intended for researchers who have limited hardware resources and want to test high-capacity 70B and 405B models locally, perform data mining, and evaluation.
 - **License:** Apache-2.0 (An open-source license offering broad freedom)

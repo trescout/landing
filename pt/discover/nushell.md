@@ -2,12 +2,13 @@
 
 Desenvolvido na linguagem Rust, o nushell oferece uma nova interface de linha de comando (shell) que processa dados como objetos estruturados. Tendo alcançado o nível de produto mínimo viável (minimum-viable-product), este projeto pode apresentar instabilidade em alguns comandos, mas é preferido para o uso diário.
 
-- ★ 41.012
+- ★ 41.079
 - Rust
 - GitHub Trending · 2026-11-07
 
 ## Atualizações
 
+- **10 de novembro de 2026:** Estrelas 41,012 → 41,079, versão mais recente 0.117.0 (10 de novembro de 2026).
 - **7 de novembro de 2026:** Estrelas 41,011 → 41,012, versão mais recente 0.116.1 (4 de outubro de 2026).
 
 ## O que você ganha

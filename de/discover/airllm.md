@@ -67,8 +67,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [VRAM](https://trescout.com/de/dictionary/vram/)
 - [Apple Silicon](https://trescout.com/de/dictionary/apple-silicon/)
 - [RAM](https://trescout.com/de/dictionary/ram/)
-- [v4.0](https://trescout.com/de/dictionary/v4-0/)
 - [Jupyter Notebooks](https://trescout.com/de/dictionary/jupyter-notebooks/)
+- [v4.0](https://trescout.com/de/dictionary/v4-0/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Forscher, die über begrenzte Hardware-Ressourcen verfügen und hochkapazitive 70B- und 405B-Modelle lokal testen, Data-Mining und Evaluierungen durchführen möchten.
 - **Lizenz:** Apache-2.0 (Open-Source-Lizenz mit großen Freiheiten)

@@ -78,8 +78,8 @@ Developers write it, platforms distribute it in the store. Writing a good descri
 - [Taste Skill](https://trescout.com/en/discover/taste-skill/)
 - [Archify](https://trescout.com/en/discover/archify/)
 - [Awesome Claude Skills](https://trescout.com/en/discover/awesome-claude-skills/)
-- [Last30days Skill](https://trescout.com/en/discover/last30days-skill/)
 - [Security Audit Skill](https://trescout.com/en/discover/security-audit-skill/)
+- [Last30days Skill](https://trescout.com/en/discover/last30days-skill/)
 - [I Have Adhd](https://trescout.com/en/discover/i-have-adhd/)
 - [OfficeCLI](https://trescout.com/en/discover/officecli/)
 

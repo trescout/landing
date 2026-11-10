@@ -78,8 +78,8 @@ Os desenvolvedores escrevem, as plataformas distribuem na loja. Escrever uma boa
 - [Taste Skill](https://trescout.com/pt/discover/taste-skill/)
 - [Archify](https://trescout.com/pt/discover/archify/)
 - [Awesome Claude Skills](https://trescout.com/pt/discover/awesome-claude-skills/)
-- [Last30days Skill](https://trescout.com/pt/discover/last30days-skill/)
 - [Security Audit Skill](https://trescout.com/pt/discover/security-audit-skill/)
+- [Last30days Skill](https://trescout.com/pt/discover/last30days-skill/)
 - [I Have Adhd](https://trescout.com/pt/discover/i-have-adhd/)
 - [OfficeCLI](https://trescout.com/pt/discover/officecli/)
 

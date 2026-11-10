@@ -2,12 +2,13 @@
 
 C diliyle geliştirilen lz4, çekirdek başına saniyede 500 MB üzerinde hız sunan kayıpsız bir veri sıkıştırma algoritmasıdır. Çok çekirdekli sistemlerde RAM hız sınırlarına ulaşabilen yapısı sayesinde oldukça hızlı bir kod çözme (decoding) performansı sağlar.
 
-- ★ 12.438
+- ★ 12.744
 - C
 - GitHub Trending · 2026-11-06
 
 ## Güncelleme
 
+- **10 Kasım 2026:** Yıldız 12.438 → 12.744, son sürüm v1.11.1 (10 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 12.435 → 12.438, son sürüm v1.11.0 (4 Kasım 2026).
 
 ## Ne kazandırır?

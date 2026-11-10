@@ -2,12 +2,13 @@
 
 Rust diliyle geliştirilen nushell, verileri yapılandırılmış nesneler olarak işleyen yeni bir komut satırı arayüzü (shell) sunuyor. Minimum uygulanabilir ürün (minimum-viable-product) seviyesine ulaşan bu proje, bazı komutlarda kararsızlık gösterebilse de günlük kullanım için tercih ediliyor.
 
-- ★ 41.012
+- ★ 41.079
 - Rust
 - GitHub Trending · 2026-11-07
 
 ## Güncelleme
 
+- **10 Kasım 2026:** Yıldız 41.012 → 41.079, son sürüm 0.117.0 (10 Kasım 2026).
 - **7 Kasım 2026:** Yıldız 41.011 → 41.012, son sürüm 0.116.1 (4 Ekim 2026).
 
 ## Ne kazandırır?

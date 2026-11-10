@@ -78,8 +78,8 @@ Les développeurs les écrivent, les plates-formes les distribuent dans le store
 - [Taste Skill](https://trescout.com/fr/discover/taste-skill/)
 - [Archify](https://trescout.com/fr/discover/archify/)
 - [Awesome Claude Skills](https://trescout.com/fr/discover/awesome-claude-skills/)
-- [Last30days Skill](https://trescout.com/fr/discover/last30days-skill/)
 - [Security Audit Skill](https://trescout.com/fr/discover/security-audit-skill/)
+- [Last30days Skill](https://trescout.com/fr/discover/last30days-skill/)
 - [I Have Adhd](https://trescout.com/fr/discover/i-have-adhd/)
 - [OfficeCLI](https://trescout.com/fr/discover/officecli/)
 

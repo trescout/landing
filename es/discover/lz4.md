@@ -2,12 +2,13 @@
 
 Desarrollado en lenguaje C, lz4 es un algoritmo de compresión de datos sin pérdida que ofrece velocidades superiores a 500 MB por segundo por núcleo. Gracias a su estructura capaz de alcanzar los límites de velocidad de la RAM en sistemas multinúcleo, proporciona un rendimiento de descompresión (decoding) sumamente rápido.
 
-- ★ 12.438
+- ★ 12.744
 - C
 - GitHub Trending · 2026-11-06
 
 ## Actualizaciones
 
+- **10 de noviembre de 2026:** Estrellas 12,438 → 12,744, última versión v1.11.1 (10 de noviembre de 2026).
 - **6 de noviembre de 2026:** Estrellas 12,435 → 12,438, última versión v1.11.0 (4 de noviembre de 2026).
 
 ## Qué aporta

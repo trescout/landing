@@ -2,16 +2,16 @@
 
 Développé par Vercel Labs, agent-desktop est une interface de ligne de commande (CLI) qui permet aux agents d'intelligence artificielle de lire et de gérer des applications de bureau via l'arbre d'accessibilité du système d'exploitation. Écrit en Rust, cet outil vise à améliorer les capacités d'utilisation d'ordinateur (computer use) des agents.
 
-- ★ 19 817
+- ★ 20 872
 - Rust
 - GitHub Trending · 2026-11-03
 
 ## Mises à jour
 
+- **10 novembre 2026:** Étoiles 19,817 → 20,872, dernière version v1.2.0 (5 novembre 2026).
 - **9 novembre 2026:** Étoiles 18,250 → 19,817, dernière version v1.2.0 (5 novembre 2026).
 - **7 novembre 2026:** Étoiles 17,192 → 18,250, dernière version v1.2.0 (5 novembre 2026).
 - **6 novembre 2026:** Étoiles 15,577 → 17,192, dernière version v1.2.0 (5 novembre 2026).
-- **5 novembre 2026:** Étoiles 13,264 → 15,577, dernière version v1.2.0 (5 novembre 2026).
 
 ## Ce que ça vous apporte
 

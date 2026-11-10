@@ -2,16 +2,16 @@
 
 O fundo de hedge de IA utiliza agentes autônomos para automatizar a análise do mercado financeiro e os processos de gestão de ativos. Este projeto baseado em Python oferece um modelo de equipe de inteligência artificial que desenvolve estratégias de investimento por meio do processamento de dados de mercado.
 
-- ★ 64.551
+- ★ 64.604
 - Python
 - GitHub Trending · 2026-07-13
 
 ## Atualizações
 
+- **10 de novembro de 2026:** Estrelas 64,551 → 64,604, versão mais recente v2.7.2 (9 de novembro de 2026).
 - **8 de novembro de 2026:** Estrelas 64,470 → 64,551, versão mais recente v2.7.1 (8 de novembro de 2026).
 - **4 de novembro de 2026:** Estrelas 64,432 → 64,470, versão mais recente v2.7.0 (3 de novembro de 2026).
 - **2 de novembro de 2026:** Estrelas 64,376 → 64,432, versão mais recente v2.6.4 (1 de novembro de 2026).
-- **31 de outubro de 2026:** Estrelas 64,308 → 64,376, versão mais recente v2.6.3 (30 de outubro de 2026).
 
 ## O que você ganha
 

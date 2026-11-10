@@ -2,12 +2,13 @@
 
 LZ4 wurde in C entwickelt und ist ein verlustfreier Datenkomprimierungsalgorithmus, der Geschwindigkeiten von über 500 MB pro Sekunde und Kern bietet. Dank seiner Struktur, die bei Mehrkernsystemen die RAM-Geschwindigkeitsgrenzen erreichen kann, sorgt er für eine extrem schnelle Dekompmierungsleistung.
 
-- ★ 12.438
+- ★ 12.744
 - C
 - GitHub Trending · 2026-11-06
 
 ## Aktualisierungen
 
+- **10. November 2026:** Sterne 12,438 → 12,744, neueste Version v1.11.1 (10. November 2026).
 - **6. November 2026:** Sterne 12,435 → 12,438, neueste Version v1.11.0 (4. November 2026).
 
 ## Was es bringt

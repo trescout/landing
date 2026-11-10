@@ -2,12 +2,13 @@
 
 Developed in Rust, nushell offers a new command line interface (shell) that processes data as structured objects. Having reached the minimum-viable-product level, this project is preferred for daily use, although it may exhibit instability in some commands.
 
-- ★ 41,012
+- ★ 41,079
 - Rust
 - GitHub Trending · 2026-11-07
 
 ## Updates
 
+- **November 10, 2026:** Stars 41,012 → 41,079, latest release 0.117.0 (November 10, 2026).
 - **November 7, 2026:** Stars 41,011 → 41,012, latest release 0.116.1 (October 4, 2026).
 
 ## What you get

@@ -2,7 +2,7 @@
 
 „Build Your Own“ ist eine Sammlung von Schritt-für-Schritt-Anleitungen, mit denen Sie Ihre bevorzugten Technologien wie Datenbank, Betriebssystem, Git, Docker und Programmiersprache von Grund auf neu schreiben können. Es bietet eine Lernerfahrung durch praktisches Handeln im Einklang mit Feynmans Philosophie „Ich kann nicht verstehen, was ich nicht erschaffen kann“.
 
-- ★ 534.641
+- ★ 561.446
 - Rehber
 - Lisans: yok
 - GitHub Trending · 29 May 2026
@@ -11,6 +11,7 @@
 
 ## Aktualisierungen
 
+- **10. November 2026:** Sterne 534,641 → 561,446.
 - **2. August 2026:** Sterne 506,894 → 534,641.
 
 ## Was es bringt

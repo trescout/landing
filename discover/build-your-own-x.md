@@ -2,7 +2,7 @@
 
 **Build Your Own X**; veritabanı, işletim sistemi, Git, Docker ve programlama dili gibi en sevdiğiniz teknolojileri **sıfırdan yeniden yazmanızı** sağlayan adım adım rehberlerin derlemesidir. Feynman'ın 'Yaratamadığım şeyi anlayamam' felsefesiyle, yaparak öğrenme deneyimi sunar.
 
-- ★ 534.641
+- ★ 561.446
 - Rehber
 - Lisans: yok
 - GitHub Trending · 29 May 2026
@@ -11,6 +11,7 @@
 
 ## Güncelleme
 
+- **10 Kasım 2026:** Yıldız 534.641 → 561.446.
 - **2 Ağustos 2026:** Yıldız 506.894 → 534.641.
 
 - **Kimin için:** Bir şeyi derinlemesine öğrenmek isteyen geliştiriciler

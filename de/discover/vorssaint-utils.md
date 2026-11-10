@@ -2,12 +2,13 @@
 
 Vorssaint-utils ist ein Open-Source-Menüleisten-Toolkit, das für das Betriebssystem macOS entwickelt wurde. Es kombiniert viele verschiedene Funktionen wie anwendungsbasierte Lautstärkeregelung, Systemüberwachung, Fenstermanagement und Zwischenablage-Verlauf in einer einzigen Benutzeroberfläche.
 
-- ★ 32.146
+- ★ 33.936
 - Swift
 - GitHub Trending · 2026-11-01
 
 ## Aktualisierungen
 
+- **10. November 2026:** Sterne 32,146 → 33,936, neueste Version v3.4.3 (29. Oktober 2026).
 - **1. November 2026:** Sterne 32,143 → 32,146, neueste Version v3.4.3 (29. Oktober 2026).
 
 ## Was es bringt

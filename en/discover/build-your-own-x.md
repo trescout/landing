@@ -2,7 +2,7 @@
 
 Build Your Own is a collection of step-by-step guides that allow you to rewrite your favorite technologies such as database, operating system, Git, Docker, and programming language from scratch. It offers a learning experience by doing, in line with Feynman's philosophy of 'I cannot understand what I cannot create'.
 
-- ★ 534,641
+- ★ 561,446
 - Rehber
 - Lisans: yok
 - GitHub Trending · 29 May 2026
@@ -11,6 +11,7 @@ Build Your Own is a collection of step-by-step guides that allow you to rewrite 
 
 ## Updates
 
+- **November 10, 2026:** Stars 534,641 → 561,446.
 - **August 2, 2026:** Stars 506,894 → 534,641.
 
 ## What you get

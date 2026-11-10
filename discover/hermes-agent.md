@@ -2,16 +2,16 @@
 
 NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan (autonomous agent) altyapısı sunuyor. Python tabanlı bu sistem, kişiselleştirilmiş iş akışları oluşturmak için sürekli öğrenen bir yapı (continuous learning) kullanıyor.
 
-- ★ 260.942
+- ★ 262.187
 - Python
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
 
+- **10 Kasım 2026:** Yıldız 260.942 → 262.187, son sürüm v0.23.1 (10 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 260.301 → 260.942, son sürüm v0.23.0 (5 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 259.936 → 260.301, son sürüm v0.22.7 (3 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 256.373 → 259.936, son sürüm v0.22.6 (2 Kasım 2026).
-- **23 Ekim 2026:** Yıldız 256.091 → 256.373, son sürüm v0.22.5 (23 Ekim 2026).
 
 ## Ne kazandırır?
 

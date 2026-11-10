@@ -2,12 +2,13 @@
 
 Nushell, entwickelt in Rust, bietet eine neue Befehlszeilenschnittstelle (Shell), die Daten als strukturierte Objekte verarbeitet. Obwohl das Projekt das Minimum-Viable-Product-Niveau erreicht hat und bei einigen Befehlen instabil sein kann, wird es für den täglichen Gebrauch bevorzugt.
 
-- ★ 41.012
+- ★ 41.079
 - Rust
 - GitHub Trending · 2026-11-07
 
 ## Aktualisierungen
 
+- **10. November 2026:** Sterne 41,012 → 41,079, neueste Version 0.117.0 (10. November 2026).
 - **7. November 2026:** Sterne 41,011 → 41,012, neueste Version 0.116.1 (4. Oktober 2026).
 
 ## Was es bringt

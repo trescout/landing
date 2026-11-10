@@ -2,15 +2,15 @@
 
 Flowsint oferece uma plataforma de investigação visual, flexível e extensível baseada em gráficos para analistas e pesquisadores de segurança cibernética. Desenvolvido com TypeScript, esta ferramenta facilita a visualização e análise de conjuntos de dados complexos.
 
-- ★ 9.092
+- ★ 10.097
 - GitHub Trending · 2026-06-03
 
 ## Atualizações
 
+- **10 de novembro de 2026:** Estrelas 9,092 → 10,097, versão mais recente v1.2.13 (3 de outubro de 2026).
 - **3 de outubro de 2026:** Estrelas 8,922 → 9,092, versão mais recente v1.2.13 (3 de outubro de 2026).
 - **17 de setembro de 2026:** Estrelas 7,755 → 8,922, versão mais recente v1.2.12 (26 de agosto de 2026).
 - **27 de agosto de 2026:** Estrelas 7,528 → 7,755, versão mais recente v1.2.12 (26 de agosto de 2026).
-- **2 de agosto de 2026:** Estrelas 4,693 → 7,528, versão mais recente v1.2.11 (1 de julho de 2026).
 
 ## O que você ganha
 

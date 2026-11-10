@@ -2,12 +2,13 @@
 
 Hyperresearch ist ein auf KI-Agenten basierendes Recherche-Tool, das Daten aus dem Internet sammelt, analysiert und in eine dauerhafte Wissensdatenbank umwandelt. Dieses in Python entwickelte System fasst verstreute Internetrecherchen in einer strukturierten und durchsuchbaren Wiki-Struktur zusammen.
 
-- ★ 4.167
+- ★ 4.458
 - Python
 - GitHub Trending · 2026-09-12
 
 ## Aktualisierungen
 
+- **10. November 2026:** Sterne 4,167 → 4,458, neueste Version v0.13.1 (9. November 2026).
 - **28. Oktober 2026:** Sterne 3,632 → 4,167, neueste Version v0.13.0 (27. Oktober 2026).
 - **27. September 2026:** Sterne 2,835 → 3,632, neueste Version v0.12.0 (24. September 2026).
 - **12. September 2026:** Sterne 2,832 → 2,835, neueste Version v0.11.1 (11. September 2026).

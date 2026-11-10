@@ -2,16 +2,16 @@
 
 Humanizer es una biblioteca de Python que elimina los patrones característicos de los textos generados por inteligencia artificial, transformando el contenido en una narrativa más natural. Esta herramienta, que hace que los textos escritos parezcan redactados por una persona, tiene como objetivo dificultar la detección de sistemas de generación automática de contenido.
 
-- ★ 64.502
+- ★ 67.265
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Actualizaciones
 
+- **10 de noviembre de 2026:** Estrellas 64,502 → 67,265, última versión v4.0.0 (10 de noviembre de 2026).
 - **4 de noviembre de 2026:** Estrellas 61,185 → 64,502, última versión v3.1.0 (28 de septiembre de 2026).
 - **27 de octubre de 2026:** Estrellas 57,962 → 61,185, última versión v3.1.0 (28 de septiembre de 2026).
 - **18 de octubre de 2026:** Estrellas 55,180 → 57,962, última versión v3.1.0 (28 de septiembre de 2026).
-- **9 de octubre de 2026:** Estrellas 52,508 → 55,180, última versión v3.1.0 (28 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -53,6 +53,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [v4.0](https://trescout.com/es/dictionary/v4-0/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para creadores de contenido que desean que los textos generados con inteligencia artificial parezcan más naturales y originales.

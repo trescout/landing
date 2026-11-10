@@ -2,12 +2,13 @@
 
 Usagi-org/ai-goofish-monitor, tarayıcı otomasyon aracı Playwright ve yapay zekâ kullanarak ikinci el alışveriş platformu Xianyu üzerinde çoklu görev takibi ve analiz yapan bir sistemdir. Kullanıcılar, web tabanlı yönetim arayüzü sayesinde platformdaki ürünleri gerçek zamanlı veya planlanmış şekilde izleyebilir.
 
-- ★ 17.806
+- ★ 19.024
 - Python
 - GitHub Trending · 2026-11-04
 
 ## Güncelleme
 
+- **10 Kasım 2026:** Yıldız 17.806 → 19.024, son sürüm 2.5 (9 Ekim 2026).
 - **6 Kasım 2026:** Yıldız 16.706 → 17.806, son sürüm 2.5 (9 Ekim 2026).
 - **4 Kasım 2026:** Yıldız 16.695 → 16.706, son sürüm 2.5 (9 Ekim 2026).
 

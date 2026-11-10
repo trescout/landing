@@ -2,15 +2,15 @@
 
 Flowsint offers a visual, flexible and extensible graph-based investigation platform for cybersecurity analysts and researchers. Developed with TypeScript, this tool makes it easier to visualize and analyze complex data sets.
 
-- ★ 9,092
+- ★ 10,097
 - GitHub Trending · 2026-06-03
 
 ## Updates
 
+- **November 10, 2026:** Stars 9,092 → 10,097, latest release v1.2.13 (October 3, 2026).
 - **October 3, 2026:** Stars 8,922 → 9,092, latest release v1.2.13 (October 3, 2026).
 - **September 17, 2026:** Stars 7,755 → 8,922, latest release v1.2.12 (August 26, 2026).
 - **August 27, 2026:** Stars 7,528 → 7,755, latest release v1.2.12 (August 26, 2026).
-- **August 2, 2026:** Stars 4,693 → 7,528, latest release v1.2.11 (July 1, 2026).
 
 ## What you get
 

@@ -8,10 +8,10 @@ Code-graph-rag combina gráficos de conhecimento e geração assistida por busca
 
 ## Atualizações
 
+- **10 de novembro de 2026:** Estrelas 5,347 → 5,347, versão mais recente v0.6.30 (9 de novembro de 2026).
 - **9 de novembro de 2026:** Estrelas 5,309 → 5,347, versão mais recente v0.6.0 (8 de novembro de 2026).
 - **3 de novembro de 2026:** Estrelas 5,307 → 5,309, versão mais recente v0.5.0 (3 de novembro de 2026).
 - **2 de novembro de 2026:** Estrelas 5,303 → 5,307, versão mais recente v0.4.19 (1 de novembro de 2026).
-- **31 de outubro de 2026:** Estrelas 5,284 → 5,303, versão mais recente v0.4.5 (30 de outubro de 2026).
 
 ## O que você ganha
 

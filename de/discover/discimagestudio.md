@@ -2,16 +2,16 @@
 
 Disc Image Studio ist ein plattformübergreifendes Tool zum Erstellen und Brennen von Disk-Images, mit dem Sie mit bloßem Auge sichtbare Bilder auf DVD-, CD- und Single-Layer-Blu-ray-Discs gravieren können. Diese in C# entwickelte Software ermöglicht es Ihnen, benutzerdefinierte Grafiken mithilfe eines beliebigen beschreibbaren optischen Laufwerks auf die Diskoberfläche zu brennen.
 
-- ★ 7.904
+- ★ 8.997
 - C#
 - GitHub Trending · 2026-11-05
 
 ## Aktualisierungen
 
+- **10. November 2026:** Sterne 7,904 → 8,997, neueste Version v1.5.0 (7. November 2026).
 - **7. November 2026:** Sterne 7,405 → 7,904, neueste Version v1.5.0 (7. November 2026).
 - **6. November 2026:** Sterne 6,867 → 7,405, neueste Version v1.4.2 (5. November 2026).
 - **5. November 2026:** Sterne 6,777 → 6,867, neueste Version v1.4.1 (5. November 2026).
-- **5. November 2026:** Sterne 6,769 → 6,777, neueste Version v1.4.0 (4. November 2026).
 
 ## Was es bringt
 
