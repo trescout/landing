@@ -2,12 +2,13 @@
 
 Microsoft está combinando Windows Terminal y la consola tradicional de Windows bajo un mismo techo. Este proyecto de código abierto, desarrollado en lenguaje C++, reestructura la experiencia de la línea de comandos con una interfaz moderna y pestañas personalizables.
 
-- ★ 105.059
+- ★ 105.368
 - C++
 - GitHub Trending · 2026-07-20
 
 ## Actualizaciones
 
+- **11 de noviembre de 2026:** Estrellas 105,059 → 105,368, última versión v1.25.3131.0 (11 de noviembre de 2026).
 - **3 de octubre de 2026:** Estrellas 104,442 → 105,059, última versión v1.25.2733.0 (2 de octubre de 2026).
 - **2 de agosto de 2026:** Estrellas 104,241 → 104,442, última versión v1.24.11911.0 (16 de julio de 2026).
 

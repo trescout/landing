@@ -2,12 +2,13 @@
 
 O mbillow/localthings permite controlar eletrodomésticos Samsung através da rede local, sem a necessidade de uma conta na nuvem, com a plataforma de gestão de casas inteligentes Home Assistant. Desenvolvido em Python, esta ferramenta transfere o controlo sobre os seus dispositivos diretamente para a sua rede local.
 
-- ★ 1.113
+- ★ 1.210
 - Python
 - GitHub Trending · 2026-11-08
 
 ## Atualizações
 
+- **11 de novembro de 2026:** Estrelas 1,113 → 1,210, versão mais recente v0.38.0 (11 de novembro de 2026).
 - **8 de novembro de 2026:** Estrelas 1,095 → 1,113, versão mais recente v0.37.0 (8 de novembro de 2026).
 - **8 de novembro de 2026:** Estrelas 1,093 → 1,095, versão mais recente v0.36.0 (2 de novembro de 2026).
 

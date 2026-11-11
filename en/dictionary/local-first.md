@@ -40,8 +40,8 @@ Local-first applications can often back up to the cloud in an encrypted manner, 
 - [Orkas](https://trescout.com/en/discover/orkas/)
 - [PI-Desktop](https://trescout.com/en/discover/pi-desktop/)
 - [Agentsview](https://trescout.com/en/discover/agentsview/)
-- [Wigolo](https://trescout.com/en/discover/wigolo/)
 - [Open Science](https://trescout.com/en/discover/open-science/)
+- [Wigolo](https://trescout.com/en/discover/wigolo/)
 - [Openbot](https://trescout.com/en/discover/openbot/)
 - [Starnet](https://trescout.com/en/discover/starnet/)
 

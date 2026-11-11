@@ -2,9 +2,13 @@
 
 Offered by Anthropic, anthropics/claude-quickstarts includes projects that help developers quickly build deployable applications using the Claude API (a digital bridge enabling software to communicate with one another). Prepared in Python, this collection aims to simplify the AI-based application development process.
 
-- ★ 19,560
+- ★ 20,664
 - Python
 - GitHub Trending · 2026-11-09
+
+## Updates
+
+- **November 11, 2026:** Stars 19,560 → 20,664.
 
 ## What you get
 

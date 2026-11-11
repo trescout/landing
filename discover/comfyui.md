@@ -2,16 +2,16 @@
 
 ComfyUI, yayılma modelleri (diffusion models) için düğüm tabanlı bir arayüz sunan modüler bir görsel oluşturma aracıdır. Kullanıcıların karmaşık görüntü işleme süreçlerini görsel bir akış şemasıyla tasarlamasına ve bu süreçleri API üzerinden yönetmesine olanak tanır.
 
-- ★ 144.909
+- ★ 146.269
 - Python
 - GitHub Trending · 2026-08-10
 
 ## Güncelleme
 
+- **11 Kasım 2026:** Yıldız 144.909 → 146.269, son sürüm v0.45.0 (10 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 143.404 → 144.909, son sürüm v0.44.0 (4 Kasım 2026).
 - **27 Ekim 2026:** Yıldız 139.075 → 143.404, son sürüm v0.43.0 (27 Ekim 2026).
 - **19 Ekim 2026:** Yıldız 137.809 → 139.075, son sürüm v0.42.1 (19 Ekim 2026).
-- **16 Ekim 2026:** Yıldız 137.415 → 137.809, son sürüm v0.41.0 (15 Ekim 2026).
 
 ## Ne kazandırır?
 

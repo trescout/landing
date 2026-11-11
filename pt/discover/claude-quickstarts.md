@@ -2,9 +2,13 @@
 
 O repositório anthropics/claude-quickstarts, fornecido pela Anthropic, contém projetos que ajudam desenvolvedores a criar aplicativos prontos para implantação rápida usando a API do Claude (a ponte digital que permite a comunicação entre softwares). Esta coleção, preparada em Python, visa simplificar o processo de desenvolvimento de aplicações baseadas em inteligência artificial.
 
-- ★ 19.560
+- ★ 20.664
 - Python
 - GitHub Trending · 2026-11-09
+
+## Atualizações
+
+- **11 de novembro de 2026:** Estrelas 19,560 → 20,664.
 
 ## O que você ganha
 

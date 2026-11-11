@@ -2,16 +2,16 @@
 
 LiteLLM is an AI gateway that unifies more than 100 large language model (LLM) interfaces into a single standard format. It makes it easy to switch between different model providers by offering software developers features such as cost tracking, load balancing, and guardrails.
 
-- ★ 63,017
+- ★ 63,090
 - Python
 - GitHub Trending · 2026-10-09
 
 ## Updates
 
+- **November 11, 2026:** Stars 63,017 → 63,090, latest release v1.109.0 (November 11, 2026).
 - **November 10, 2026:** Stars 62,888 → 63,017, latest release v1.108.4 (November 9, 2026).
 - **November 8, 2026:** Stars 62,851 → 62,888, latest release v1.108.3 (November 7, 2026).
 - **November 7, 2026:** Stars 62,802 → 62,851, latest release v1.108.2 (November 6, 2026).
-- **November 6, 2026:** Stars 62,660 → 62,802, latest release v1.108.1 (November 5, 2026).
 
 ## What you get
 

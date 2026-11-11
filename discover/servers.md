@@ -2,16 +2,16 @@
 
 Model Context Protocol (MCP) sunucuları, üretken yapay zekâ modellerinin harici veri kaynaklarına ve araçlara standart bir arayüz üzerinden erişmesini sağlıyor. Bu protokol, farklı yapay zekâ uygulamalarının veri tabanları veya yazılım araçlarıyla güvenli ve tutarlı bir şekilde bağlantı kurmasına olanak tanıyor.
 
-- ★ 91.800
+- ★ 91.916
 - TypeScript
 - GitHub Trending · 2026-10-01
 
 ## Güncelleme
 
+- **11 Kasım 2026:** Yıldız 91.800 → 91.916, son sürüm v2.4.0 (11 Kasım 2026).
 - **5 Kasım 2026:** Yıldız 91.650 → 91.800, son sürüm v2.3.0 (4 Kasım 2026).
 - **29 Ekim 2026:** Yıldız 91.545 → 91.650, son sürüm v2.2.0 (28 Ekim 2026).
 - **25 Ekim 2026:** Yıldız 91.368 → 91.545, son sürüm v2.1.0 (25 Ekim 2026).
-- **19 Ekim 2026:** Yıldız 91.136 → 91.368, son sürüm v2.0.0 (19 Ekim 2026).
 
 ## Ne kazandırır?
 

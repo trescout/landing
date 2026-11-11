@@ -2,16 +2,16 @@
 
 Os servidores do Model Context Protocol (MCP) permitem que modelos de inteligência artificial generativa acedam a fontes de dados externas e ferramentas através de uma interface padrão. Este protocolo permite que diferentes aplicações de inteligência artificial se conectem de forma segura e consistente a bases de dados ou ferramentas de software.
 
-- ★ 91.800
+- ★ 91.916
 - TypeScript
 - GitHub Trending · 2026-10-01
 
 ## Atualizações
 
+- **11 de novembro de 2026:** Estrelas 91,800 → 91,916, versão mais recente v2.4.0 (11 de novembro de 2026).
 - **5 de novembro de 2026:** Estrelas 91,650 → 91,800, versão mais recente v2.3.0 (4 de novembro de 2026).
 - **29 de outubro de 2026:** Estrelas 91,545 → 91,650, versão mais recente v2.2.0 (28 de outubro de 2026).
 - **25 de outubro de 2026:** Estrelas 91,368 → 91,545, versão mais recente v2.1.0 (25 de outubro de 2026).
-- **19 de outubro de 2026:** Estrelas 91,136 → 91,368, versão mais recente v2.0.0 (19 de outubro de 2026).
 
 ## O que você ganha
 

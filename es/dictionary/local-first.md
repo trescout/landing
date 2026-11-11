@@ -40,8 +40,8 @@ Las aplicaciones locales a menudo pueden realizar copias de seguridad en la nube
 - [Orkas](https://trescout.com/es/discover/orkas/)
 - [PI-Desktop](https://trescout.com/es/discover/pi-desktop/)
 - [Agentsview](https://trescout.com/es/discover/agentsview/)
-- [Wigolo](https://trescout.com/es/discover/wigolo/)
 - [Open Science](https://trescout.com/es/discover/open-science/)
+- [Wigolo](https://trescout.com/es/discover/wigolo/)
 - [Openbot](https://trescout.com/es/discover/openbot/)
 - [Starnet](https://trescout.com/es/discover/starnet/)
 

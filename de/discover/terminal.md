@@ -2,12 +2,13 @@
 
 Microsoft vereint Windows Terminal und den traditionellen Windows-Konsolenhost unter einem Dach. Dieses in der Sprache C++ entwickelte Open-Source-Projekt strukturiert die Befehlszeilenerfahrung mit einer modernen Benutzeroberfläche und anpassbaren Registerkarten neu.
 
-- ★ 105.059
+- ★ 105.368
 - C++
 - GitHub Trending · 2026-07-20
 
 ## Aktualisierungen
 
+- **11. November 2026:** Sterne 105,059 → 105,368, neueste Version v1.25.3131.0 (11. November 2026).
 - **3. Oktober 2026:** Sterne 104,442 → 105,059, neueste Version v1.25.2733.0 (2. Oktober 2026).
 - **2. August 2026:** Sterne 104,241 → 104,442, neueste Version v1.24.11911.0 (16. Juli 2026).
 

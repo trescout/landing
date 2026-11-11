@@ -2,12 +2,13 @@
 
 Rust diliyle geliştirilen Hex, Mac, Windows ve Linux işletim sistemlerinde çalışan yerel bir sesli dikte aracıdır. Kullanıcıların bir tuşa basılı tutarak konuşmasını ve söylediklerinin metne dönüştürülmesini sağlar.
 
-- ★ 5.351
+- ★ 6.281
 - Rust
 - GitHub Trending · 2026-11-02
 
 ## Güncelleme
 
+- **11 Kasım 2026:** Yıldız 5.351 → 6.281, son sürüm v3.4.0 (11 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 4.138 → 5.351, son sürüm v3.3.0 (2 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 3.700 → 4.138, son sürüm v3.3.0 (2 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 3.505 → 3.700, son sürüm @kitlangton/hex@0.3.1 (26 Eylül 2026).

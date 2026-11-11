@@ -41,8 +41,8 @@ Ele lê o PDF convertendo-o em texto com ferramentas especiais (analisadores) qu
 
 ## Ferramentas relacionadas
 
-- [MarkItDown](https://trescout.com/pt/discover/markitdown/)
 - [Anthropic Skills](https://trescout.com/pt/discover/anthropic-skills/)
+- [MarkItDown](https://trescout.com/pt/discover/markitdown/)
 - [Hello Algo](https://trescout.com/pt/discover/hello-algo/)
 - [Puppeteer](https://trescout.com/pt/discover/puppeteer/)
 - [Stirling-PDF](https://trescout.com/pt/discover/stirling-pdf/)

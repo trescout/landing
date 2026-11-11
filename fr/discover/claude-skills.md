@@ -2,16 +2,16 @@
 
 Développée pour Claude Code et divers agents de codage, cette bibliothèque propose plus de 330 packages de compétences et plus de 70 commandes spéciales dans différents domaines de l'ingénierie au marketing. Cet ensemble d'outils basés sur Python fournit des scripts personnalisables pour standardiser les flux de travail basés sur l'IA et augmenter la productivité.
 
-- ★ 29 560
+- ★ 29 615
 - Python
 - GitHub Trending · 2026-07-05
 
 ## Mises à jour
 
+- **11 novembre 2026:** Étoiles 29,560 → 29,615, dernière version v2.14.11 (11 novembre 2026).
 - **10 novembre 2026:** Étoiles 29,320 → 29,560, dernière version v2.14.10 (10 novembre 2026).
 - **5 novembre 2026:** Étoiles 29,257 → 29,320, dernière version v2.14.9 (5 novembre 2026).
 - **4 novembre 2026:** Étoiles 29,196 → 29,257, dernière version v2.14.8 (3 novembre 2026).
-- **3 novembre 2026:** Étoiles 29,186 → 29,196, dernière version v2.14.7 (3 novembre 2026).
 
 ## Ce que ça vous apporte
 

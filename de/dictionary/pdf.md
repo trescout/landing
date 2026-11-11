@@ -41,8 +41,8 @@ Es liest das PDF, indem es es mit speziellen Werkzeugen (Parsern), die den darin
 
 ## Verwandte Werkzeuge
 
-- [MarkItDown](https://trescout.com/de/discover/markitdown/)
 - [Anthropic Skills](https://trescout.com/de/discover/anthropic-skills/)
+- [MarkItDown](https://trescout.com/de/discover/markitdown/)
 - [Hello Algo](https://trescout.com/de/discover/hello-algo/)
 - [Puppeteer](https://trescout.com/de/discover/puppeteer/)
 - [Stirling-PDF](https://trescout.com/de/discover/stirling-pdf/)

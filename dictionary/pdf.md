@@ -41,8 +41,8 @@ PDF içindeki metin ve görüntüleri ayrıştıran özel araçlar (parser) ile 
 
 ## İlgili araçlar
 
-- [MarkItDown](https://trescout.com/discover/markitdown/)
 - [Anthropic Skills](https://trescout.com/discover/anthropic-skills/)
+- [MarkItDown](https://trescout.com/discover/markitdown/)
 - [Hello Algo](https://trescout.com/discover/hello-algo/)
 - [Puppeteer](https://trescout.com/discover/puppeteer/)
 - [Stirling-PDF](https://trescout.com/discover/stirling-pdf/)

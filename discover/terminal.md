@@ -2,12 +2,13 @@
 
 Microsoft, Windows Terminal ve geleneksel Windows konsol ana bilgisayarını (console host) tek bir çatı altında birleştiriyor. C++ diliyle geliştirilen bu açık kaynaklı proje, komut satırı deneyimini modern arayüz ve özelleştirilebilir sekmelerle yeniden yapılandırıyor.
 
-- ★ 105.059
+- ★ 105.368
 - C++
 - GitHub Trending · 2026-07-20
 
 ## Güncelleme
 
+- **11 Kasım 2026:** Yıldız 105.059 → 105.368, son sürüm v1.25.3131.0 (11 Kasım 2026).
 - **3 Ekim 2026:** Yıldız 104.442 → 105.059, son sürüm v1.25.2733.0 (2 Ekim 2026).
 - **2 Ağustos 2026:** Yıldız 104.241 → 104.442, son sürüm v1.24.11911.0 (16 Temmuz 2026).
 

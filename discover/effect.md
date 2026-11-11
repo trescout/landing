@@ -2,16 +2,16 @@
 
 Effect-TS, TypeScript ile ölçeklenebilir ve hata toleransı yüksek uygulamalar geliştirmeyi sağlayan bir kütüphane ekosistemi. Karmaşık iş akışlarını yönetmek için fonksiyonel programlama prensiplerini kullanarak yazılım geliştirme süreçlerini standartlaştırıyor.
 
-- ★ 17.524
+- ★ 17.539
 - TypeScript
 - GitHub Trending · 2026-10-03
 
 ## Güncelleme
 
+- **11 Kasım 2026:** Yıldız 17.524 → 17.539, son sürüm @effect/openapi-generator@4.1.4 (11 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 17.458 → 17.524, son sürüm @effect/openapi-generator@4.1.3 (10 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 17.441 → 17.458, son sürüm @effect/openapi-generator@4.1.2 (2 Kasım 2026).
 - **31 Ekim 2026:** Yıldız 17.420 → 17.441, son sürüm @effect/openapi-generator@4.1.1 (30 Ekim 2026).
-- **29 Ekim 2026:** Yıldız 17.414 → 17.420, son sürüm @effect/openapi-generator@4.1.0 (29 Ekim 2026).
 
 ## Ne kazandırır?
 

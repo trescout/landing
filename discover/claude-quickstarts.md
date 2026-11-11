@@ -2,9 +2,13 @@
 
 Anthropics tarafından sunulan anthropics/claude-quickstarts, geliştiricilerin Claude API (yazılımların birbiriyle iletişim kurmasını sağlayan dijital köprü) kullanarak hızlıca dağıtılabilir uygulamalar oluşturmasına yardımcı olan projeler içeriyor. Python diliyle hazırlanan bu koleksiyon, yapay zekâ tabanlı uygulama geliştirme sürecini kolaylaştırmayı amaçlıyor.
 
-- ★ 19.560
+- ★ 20.664
 - Python
 - GitHub Trending · 2026-11-09
+
+## Güncelleme
+
+- **11 Kasım 2026:** Yıldız 19.560 → 20.664.
 
 ## Ne kazandırır?
 

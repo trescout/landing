@@ -2,16 +2,16 @@
 
 Published by GitHub, spec-kit offers the necessary tools to start spec-driven development processes. This Python-based library facilitates the integration of technical specifications defined during the software development phase into code processes.
 
-- ★ 149,094
+- ★ 149,258
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Updates
 
+- **November 11, 2026:** Stars 149,094 → 149,258, latest release v1.4.0 (November 10, 2026).
 - **November 10, 2026:** Stars 148,241 → 149,094, latest release v1.3.3 (November 9, 2026).
 - **November 7, 2026:** Stars 147,960 → 148,241, latest release v1.3.2 (November 6, 2026).
 - **November 6, 2026:** Stars 146,776 → 147,960, latest release v1.3.1 (November 5, 2026).
-- **November 4, 2026:** Stars 145,757 → 146,776, latest release v1.3.0 (November 3, 2026).
 
 ## What you get
 

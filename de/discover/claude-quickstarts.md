@@ -2,9 +2,13 @@
 
 Das von Anthropic bereitgestellte Repository anthropics/claude-quickstarts enthält Projekte, die Entwicklern dabei helfen, schnell bereitstellbare Anwendungen unter Verwendung der Claude API (einer digitalen Brücke, die Software die Kommunikation untereinander ermöglicht) zu erstellen. Diese mit der Programmiersprache Python vorbereitete Sammlung zielt darauf ab, den Prozess der KI-gestützten Anwendungsentwicklung zu vereinfachen.
 
-- ★ 19.560
+- ★ 20.664
 - Python
 - GitHub Trending · 2026-11-09
+
+## Aktualisierungen
+
+- **11. November 2026:** Sterne 19,560 → 20,664.
 
 ## Was es bringt
 

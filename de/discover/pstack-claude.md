@@ -2,16 +2,16 @@
 
 Pstack-claude ist eine Automatisierungsbibliothek, die die Kernfunktionen des Softwareentwicklungstools Cursor für verschiedene KI-Modelle und -Plattformen anpasst. Sie ermöglicht Entwicklern, komplexe KI-Agenten-Arbeitsabläufe (agentic workflows) standardisiert in verschiedenen Arbeitsumgebungen auszuführen.
 
-- ★ 4.209
+- ★ 4.223
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Aktualisierungen
 
+- **11. November 2026:** Sterne 4,209 → 4,223, neueste Version v0.9.135 (11. November 2026).
 - **10. November 2026:** Sterne 4,135 → 4,209, neueste Version v0.9.134 (10. November 2026).
 - **8. November 2026:** Sterne 4,111 → 4,135, neueste Version v0.9.133 (7. November 2026).
 - **7. November 2026:** Sterne 4,073 → 4,111, neueste Version v0.9.132 (6. November 2026).
-- **6. November 2026:** Sterne 3,987 → 4,073, neueste Version v0.9.130 (5. November 2026).
 
 ## Was es bringt
 

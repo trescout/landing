@@ -41,8 +41,8 @@ It reads the PDF by converting it into text with special tools (parsers) that pa
 
 ## Related tools
 
-- [MarkItDown](https://trescout.com/en/discover/markitdown/)
 - [Anthropic Skills](https://trescout.com/en/discover/anthropic-skills/)
+- [MarkItDown](https://trescout.com/en/discover/markitdown/)
 - [Hello Algo](https://trescout.com/en/discover/hello-algo/)
 - [Puppeteer](https://trescout.com/en/discover/puppeteer/)
 - [Stirling-PDF](https://trescout.com/en/discover/stirling-pdf/)
