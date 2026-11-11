@@ -1,0 +1,782 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-11",
+  "capturedAt": "2026-11-11T17:00:44.738Z",
+  "editorial": "Heute stehen sowohl der praktische Erfolg von KI-Systemen bei archäologischen Entdeckungen als auch ihre Suche nach physikalischem Verständnis (physical commonsense) bei der Videoproduktion im Vordergrund. Die Entdeckung einer Maya-Pyramide durch Google-Ingenieure unter Verwendung von NASA-Daten beweist konkret die Fähigkeit autonomer Agenten, komplexe Datensätze zu analysieren.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "summary": "Das von Meta geteilte astryx ist ein vollständig anpassbares Open-Source-Designsystem, das sowohl für Menschen als auch für die mit ihnen zusammenarbeitenden KI-Agenten entwickelt wurde. Dieses mit TypeScript entwickelte System zielt darauf ab, sich an moderne Softwareproduktionsprozesse anzupassen.",
+          "meta": "TypeScript · ★ 24.533 · +2.842 heute",
+          "snapshot": {
+            "sourceId": "meta/astryx",
+            "capturedAt": "2026-11-11T17:00:46.129Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 24533,
+              "engagementCount": 2842,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2842,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open source design system that's fully customizable and agent ready. An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them."
+          }
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis ist ein System, das mithilfe großer Sprachmodelle (LLM) Aktienanalysen über mehrere Märkte hinweg durchführt. Die Software verarbeitet Daten aus verschiedenen Quellen sowie Echtzeitnachrichten, bietet ein Entscheidungsunterstützungs-Dashboard und versendet automatisierte Benachrichtigungen.",
+          "meta": "Python · ★ 69.997 · +429 heute",
+          "snapshot": {
+            "sourceId": "ZhuLinsen/daily_stock_analysis",
+            "capturedAt": "2026-11-11T17:00:46.129Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 69997,
+              "engagementCount": 429,
+              "rank": 2,
+              "extra": {
+                "starsToday": 429
+              }
+            },
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+          }
+        },
+        {
+          "title": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "summary": "GoogleChrome/modern-web-guidance-src ist ein Repository, das den notwendigen Code und die Dokumentation für die Erstellung, Kalibrierung und Bewertung moderner Web-Entwicklungsleitfäden enthält. Dieses mit TypeScript entwickelte Projekt ermöglicht die Verwaltung von Leitfadeninhalten für Webstandards.",
+          "meta": "TypeScript · ★ 1.570 · +133 heute",
+          "snapshot": {
+            "sourceId": "GoogleChrome/modern-web-guidance-src",
+            "capturedAt": "2026-11-11T17:00:46.129Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1570,
+              "engagementCount": 133,
+              "rank": 3,
+              "extra": {
+                "starsToday": 133,
+                "baglam": "readme"
+              }
+            },
+            "description": "This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents."
+          }
+        },
+        {
+          "title": "shadcn/improve",
+          "url": "https://github.com/shadcn/improve",
+          "summary": "shadcn/improve ist eine Agentenfunktion, die die Codebasis untersucht und Arbeitspläne erstellt, die von kostengünstigeren KI-Modellen umgesetzt werden können. Dieses Tool, das darauf abzielt, die Code-Audit- und Implementierungsplanungsprozesse von Entwicklern zu optimieren, zielt darauf ab, komplexe Aufgaben mit leistungsfähigen Modellen zu planen und mit wirtschaftlicheren Modellen auszuführen.",
+          "meta": "★ 10.615 · +333 heute",
+          "snapshot": {
+            "sourceId": "shadcn/improve",
+            "capturedAt": "2026-11-11T17:00:46.129Z",
+            "metadata": {
+              "popularity": 10615,
+              "engagementCount": 333,
+              "rank": 4,
+              "extra": {
+                "starsToday": 333,
+                "baglam": "readme"
+              }
+            },
+            "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute. An agent skill that audits any codebase and writes implementation plans for other agents to execute."
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Die von Addy Osmani entwickelten agent-skills bieten produktionsreife Engineering-Fähigkeiten für KI-Agenten, die Code schreiben. Dieses mit JavaScript erstellte Projekt zielt darauf ab, dass Agenten Aufgaben in Softwareentwicklungsprozessen standardisierter und zuverlässiger ausführen.",
+          "meta": "JavaScript · ★ 115.711 · +788 heute",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-11-11T17:00:46.129Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 115711,
+              "engagementCount": 788,
+              "rank": 5,
+              "extra": {
+                "starsToday": 788,
+                "baglam": "readme"
+              }
+            },
+            "description": "Production-grade engineering skills for AI coding agents. Production-grade engineering skills for AI coding agents."
+          }
+        },
+        {
+          "title": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "summary": "agent-browser, entwickelt von Vercel Labs, ist eine Befehlszeilenschnittstelle (CLI), die Browser-Automatisierung für KI-Agenten ermöglicht. Dieses Tool macht es möglich, Webseiten als Accessibility Tree zu lesen und über die Befehlszeile mit ihnen zu interagieren.",
+          "meta": "Rust · ★ 49.717 · +712 heute",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-browser",
+            "capturedAt": "2026-11-11T17:00:46.129Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 49717,
+              "engagementCount": 712,
+              "rank": 6,
+              "extra": {
+                "starsToday": 712,
+                "baglam": "readme"
+              }
+            },
+            "description": "Browser automation CLI for AI agents. Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell."
+          }
+        },
+        {
+          "title": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "summary": "Das mit der Sprache Ruby entwickelte sure ist eine für jeden zugängliche Anwendung für persönliche Finanzen und Vermögensverwaltung. Das Projekt, das eine Funktion zur Verbindung von Nutzern mit Finanzberatern (CFP/CFA) enthält, basiert auf den früheren Arbeiten des Maybe Finance-Teams.",
+          "meta": "Ruby · ★ 12.696 · +1.079 heute",
+          "snapshot": {
+            "sourceId": "we-promise/sure",
+            "capturedAt": "2026-11-11T17:00:46.129Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 12696,
+              "engagementCount": 1079,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1079,
+                "baglam": "readme"
+              }
+            },
+            "description": "The personal finance app for everyone (by everyone). The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
+          }
+        },
+        {
+          "title": "homeassistant-ai/ha-mcp",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "summary": "ha-mcp ermöglicht es Ihnen, die Smart-Home-Plattform Home Assistant mit KI-Assistenten wie Claude und ChatGPT zu konfigurieren und zu automatisieren. Dieses über HACS integrierte Tool funktioniert mit voller Funktionsunterstützung bei allen Arten von Home Assistant-Installationen.",
+          "meta": "Python · ★ 7.115 · +640 heute",
+          "snapshot": {
+            "sourceId": "homeassistant-ai/ha-mcp",
+            "capturedAt": "2026-11-11T17:00:46.129Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 7115,
+              "engagementCount": 640,
+              "rank": 8,
+              "extra": {
+                "starsToday": 640,
+                "baglam": "readme"
+              }
+            },
+            "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. The recommended way to run ha-mcp is the HA-MCP integration. It installs into Home Assistant through HACS (the built-in Marketplace on Home Assistant 2026.11+), runs the full server in-process, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity."
+          }
+        },
+        {
+          "title": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "Das von OpenAI entwickelte codex-security bietet eine Befehlszeilenschnittstelle (CLI) und eine Suite von Tools (SDK), die Entwicklern die Anwendungsentwicklung erleichtern und darauf ausgelegt sind, Sicherheitslücken zu finden, zu validieren und zu beheben. Dieses in TypeScript geschriebene Tool zielt darauf ab, die Prozesse zur Erkennung von Sicherheitslücken in Softwareprojekten zu automatisieren.",
+          "meta": "TypeScript · ★ 11.537 · +20 heute",
+          "snapshot": {
+            "sourceId": "openai/codex-security",
+            "capturedAt": "2026-11-11T17:00:46.129Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11537,
+              "engagementCount": 20,
+              "rank": 9,
+              "extra": {
+                "starsToday": 20
+              }
+            },
+            "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+          }
+        },
+        {
+          "title": "TheAlgorithms/Java",
+          "url": "https://github.com/TheAlgorithms/Java",
+          "summary": "TheAlgorithms/Java bietet eine Open-Source-Sammlung verschiedener Algorithmen, die in der Programmiersprache Java geschrieben wurden. Nutzer können diese Algorithmen direkt über die cloudbasierte Entwicklungsumgebung Gitpod.io ausführen, bearbeiten oder zum Projekt beitragen.",
+          "meta": "Java · ★ 66.929 · +108 heute",
+          "snapshot": {
+            "sourceId": "TheAlgorithms/Java",
+            "capturedAt": "2026-11-11T17:00:46.129Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 66929,
+              "engagementCount": 108,
+              "rank": 10,
+              "extra": {
+                "starsToday": 108,
+                "baglam": "readme"
+              }
+            },
+            "description": "All Algorithms implemented in Java. You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "url": "https://pietromiotti.com/latest/maya-site/?maya",
+          "summary": "Ein bei Google arbeitender Softwareingenieur nutzte 48 KI-Agenten, um Lidar-Daten (Laserscan) der NASA zu analysieren. Dieses System entdeckte innerhalb von weniger als 72 Stunden eine bisher nicht kartierte Maya-Pyramide unter einem Waldgebiet.",
+          "meta": "679 Punkte · 257 Kommentare",
+          "snapshot": {
+            "sourceId": "50452455",
+            "capturedAt": "2026-11-11T17:00:48.752Z",
+            "metadata": {
+              "popularity": 679,
+              "engagementCount": 257,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50452455",
+                  "popularity": 679,
+                  "engagementCount": 257
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-11T12:05:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50452455",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "AI agents analyzed NASA lidar data overnight and found a Maya site under the jungle that isn't on any map. Less than 72 hours later, Mexico's INAH replied."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50452455",
+              "popularity": 679,
+              "engagementCount": 257
+            }
+          ]
+        },
+        {
+          "title": "Scion is back and is going to sell a kei truck in America",
+          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+          "summary": "Die Automobilmarke Scion von Toyota kehrt zurück und hat angekündigt, auf dem amerikanischen Markt kleine Nutzfahrzeuge wie Kei-Trucks, Fahrräder und Side-by-Side-Geländefahrzeuge zu verkaufen. Die Marke zielt darauf ab, in ihrer neuen Ära mit einer ungewöhnlichen Produktpalette zu operieren.",
+          "meta": "538 Punkte · 371 Kommentare",
+          "snapshot": {
+            "sourceId": "50445401",
+            "capturedAt": "2026-11-11T17:00:48.752Z",
+            "metadata": {
+              "popularity": 538,
+              "engagementCount": 371,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50445401",
+                  "popularity": 538,
+                  "engagementCount": 371
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-10T19:50:46Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50445401",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Toyota's Scion is back and this time it's weird. The new Scion is going to sell a Kei truck in America, plus a bike and a hybrid side-by-side"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50445401",
+              "popularity": 538,
+              "engagementCount": 371
+            }
+          ]
+        },
+        {
+          "title": "Apple has new Mac app coming to make running local AI models easy",
+          "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+          "summary": "Apple arbeitet an einer neuen Mac-Anwendung, die das Ausführen lokaler KI-Modelle erleichtert. Laut durchgesickerten Informationen zielt das Unternehmen darauf ab, den Prozess für Benutzer zu vereinfachen, Modelle auf ihren eigenen Geräten auszuführen.",
+          "meta": "443 Punkte · 460 Kommentare",
+          "snapshot": {
+            "sourceId": "50446520",
+            "capturedAt": "2026-11-11T17:00:48.752Z",
+            "metadata": {
+              "popularity": 443,
+              "engagementCount": 460,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50446520",
+                  "popularity": 443,
+                  "engagementCount": 460
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-10T21:25:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50446520",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple that makes it easy to run local AI models."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50446520",
+              "popularity": 443,
+              "engagementCount": 460
+            }
+          ]
+        },
+        {
+          "title": "Protecting SSH Keys with macOS Secure Enclave",
+          "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+          "summary": "macOS Secure Enclave bietet eine Sicherheitsebene, die SSH-Schlüssel auf Hardwareebene schützt und bei jeder Verwendung eine Touch ID-Authentifizierung erfordert. Diese Methode ermöglicht es, SSH-Schlüssel ohne die Notwendigkeit von Drittanbieter-Apps mit der eigenen Sicherheitsarchitektur des Systems zu speichern.",
+          "meta": "346 Punkte · 122 Kommentare",
+          "snapshot": {
+            "sourceId": "50449748",
+            "capturedAt": "2026-11-11T17:00:48.752Z",
+            "metadata": {
+              "popularity": 346,
+              "engagementCount": 122,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50449748",
+                  "popularity": 346,
+                  "engagementCount": 122
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-11T04:28:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50449748",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "How to keep SSH keys in the macOS Secure Enclave, with Touch ID on every use and no third-party apps."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50449748",
+              "popularity": 346,
+              "engagementCount": 122
+            }
+          ]
+        },
+        {
+          "title": "Six Math Essentials",
+          "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+          "summary": "Die von dem Mathematiker Terence Tao erstellten Six Math Essentials definieren sechs Hauptbereiche, die als grundlegend für fortgeschrittene mathematische Studien gelten. Diese Ressource fasst die theoretische Basis zusammen, die für diejenigen erforderlich ist, die sich in akademischen Disziplinen vertiefen möchten.",
+          "meta": "317 Punkte · 58 Kommentare",
+          "snapshot": {
+            "sourceId": "50446246",
+            "capturedAt": "2026-11-11T17:00:48.752Z",
+            "metadata": {
+              "popularity": 317,
+              "engagementCount": 58,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50446246",
+                  "popularity": 317,
+                  "engagementCount": 58
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-10T20:58:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50446246"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50446246",
+              "popularity": 317,
+              "engagementCount": 58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic ist ein auf Textgenerierung fokussiertes KI-Modell. Das Modell, das in GSM8K-Tests eine hohe Erfolgsquote aufweist, zielt mit seiner Struktur von 9 Milliarden Parametern darauf ab, die Leistung größerer Modelle zu erreichen.",
+          "meta": "♥ 1.911 · 16.693 Downloads",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-11T17:00:44.856Z",
+            "metadata": {
+              "popularity": 1911,
+              "engagementCount": 16693,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1223,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. The NVFP4 checkpoint was evaluated on GSM8K four times, and the resulting scores were averaged. Its four-run mean accuracy is 94.50% under vLLM. In the comparison supplied with this release, the 9B student slightly exceeds the reported DeepSeek-V4-Pro teacher result and approaches the Llama-3.3-70B-Instruct reference."
+          }
+        },
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "speridlabs/idol ist ein KI-Tool, das aus einem einzigen Bild 3D-Gaussian-Splatting-Modelle erstellt. Dieses Modell, das den Hintergrund entfernt und das Objekt einrahmt, erzeugt Ausgaben im Standard-.ply-Format und läuft auf Grafikkarten der Verbraucherklasse in unter zwei Sekunden.",
+          "meta": "♥ 1.953 · 28.250 Downloads",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-11T17:00:44.856Z",
+            "metadata": {
+              "popularity": 1953,
+              "engagementCount": 28250,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 939,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          }
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "MiniMax-H3-Image, entwickelt von MiniMaxAI, ist ein KI-Modell mit Text-zu-Bild-Fähigkeiten. Die Software wird zusammen mit Anwendungsprogrammierschnittstellen (APIs) angeboten, die Funktionen zur Bildbearbeitung und Prompt-Erweiterung unterstützen.",
+          "meta": "♥ 646 · 142.989 Downloads",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-11T17:00:44.856Z",
+            "metadata": {
+              "popularity": 646,
+              "engagementCount": 142989,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 632,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          }
+        },
+        {
+          "title": "moonshotai/Kimi-K3.1-Pro",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "summary": "Kimi-K3.1-Pro, entwickelt von Moonshot AI, ist ein multimodales KI-Modell, das visuelle und textuelle Daten verarbeiten kann. Dieses Modell, das auf dem Kimi K3-Modell aufbaut und mit groß angelegten Reinforcement-Learning-Methoden trainiert wurde, wird als die erste und leistungsfähigste Version der K3.1-Serie präsentiert.",
+          "meta": "♥ 1.910 · 33.617 Downloads",
+          "snapshot": {
+            "sourceId": "moonshotai/Kimi-K3.1-Pro",
+            "capturedAt": "2026-11-11T17:00:44.856Z",
+            "metadata": {
+              "popularity": 1910,
+              "engagementCount": 33617,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 517,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "kimi_k31",
+                  "text-generation",
+                  "compressed-tensors",
+                  "conversational",
+                  "image-text-to-text",
+                  "custom_code",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series."
+          }
+        },
+        {
+          "title": "ricursiveAI/Ripple-65B-Preview",
+          "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+          "summary": "Ripple-65B-Preview, entwickelt von Ricursive Intelligence, ist ein dichtes Transformer-Modell, das mit 12 Billionen Token trainiert wurde und ein Kontextfenster von bis zu 1 Million Token unterstützt. Mit 80,52 Punkten auf TerminalBench 2.1 zeigt dieses Modell eine hohe Leistung bei Programmieraufgaben und bietet eine Alternative zu größeren Open-Weight-Modellen.",
+          "meta": "♥ 505 · 7.112 Downloads",
+          "snapshot": {
+            "sourceId": "ricursiveAI/Ripple-65B-Preview",
+            "capturedAt": "2026-11-11T17:00:44.856Z",
+            "metadata": {
+              "popularity": 505,
+              "engagementCount": 7112,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 478,
+                "tags": [
+                  "safetensors",
+                  "ricursive",
+                  "custom_code",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "Ricursive Intelligence introduces Ripple-65B Preview, a 65B parameter dense Transformer model pretrained on 12 trillion tokens with support for up to 1Mi (1,048,576 tokens) of context. Ripple-65B Preview delivers strong results on agentic coding, scoring 80.52 on TerminalBench 2.1 and surpassing significantly-larger US open-weight models such as Reflection Beam 501B (80.1), Meta Muse Spark Open…"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation",
+          "url": "https://huggingface.co/papers/2611.13576",
+          "summary": "PhyRubric ist ein auf Rubriken basierendes Diagnose-Framework, das entwickelt wurde, um die Übereinstimmung von Text-zu-Video-Modellen mit dem physikalischen gesunden Menschenverstand zu bewerten. Dieses System zielt darauf ab, anstelle der subjektiven Bewertung in bestehenden Benchmarking-Methoden eine konkrete, auf physikalischen Prinzipien basierende Analyse zu liefern.",
+          "meta": "4 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.13576",
+            "capturedAt": "2026-11-11T17:00:44.863Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.13576",
+                "publishedAt": "2026-11-10T00:00:00.000Z",
+                "githubRepo": "https://github.com/chenyil6/phyRubric"
+              }
+            },
+            "description": "As text-to-video (T2V) models are increasingly positioned as world simulators, it is essential to evaluate whether their videos conform to physical commonsense. However, existing benchmarks rely on annotators who rate each video with a single score based on intuition, yielding ratings that are subjective and do not tell which physical principle is violated. We introduce PhyRubric, a rubric-grounded diagnostic framework for evaluating physical commonsense in T2V generation. For each caption, PhyR"
+          }
+        },
+        {
+          "title": "DyCraft: An Agentic System for Long-Horizon 4D Scene Generation",
+          "url": "https://huggingface.co/papers/2610.40754",
+          "summary": "DyCraft ist ein agentenbasiertes System, das für die Erstellung langlebiger und konsistenter 4D-Szenenanimationen konzipiert ist. Im Gegensatz zu herkömmlichen Methoden zielt es darauf ab, physikalische Fehler zu erkennen und zu korrigieren, um realistischere und natürlichere Bewegungen von Objekten zu erzeugen.",
+          "meta": "3 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.40754",
+            "capturedAt": "2026-11-11T17:00:44.863Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.40754",
+                "publishedAt": "2026-10-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/jefftan969/dycraft",
+                "githubStars": 11
+              }
+            },
+            "description": "While frontier coding agents can generate high-quality 3D scenes and articulated assets, they struggle to create coherent long-horizon animations. When equipped with general-purpose harnesses, they frequently produce physically implausible outputs, generating objects that interpenetrate, lack physical support, or move unnaturally. Such bare agents struggle to repair these errors because they default to scripting the full animation in one pass, making it difficult to verify their work and disenta"
+          }
+        },
+        {
+          "title": "From Tool State to Scientific Action: Auditing Decision Provenance in Biomedical Research Agents",
+          "url": "https://huggingface.co/papers/2611.01527",
+          "summary": "Ein auf Hugging Face veröffentlichter Artikel stellt die Testmethode BioAgent-DF vor, die die Beweiskonsistenz in den Entscheidungsprozessen von KI-Agenten untersucht, die in der biomedizinischen Forschung eingesetzt werden. Die Studie zeigt, dass die Modelle Qwen3.5-4B und Gemma 3 4B IT bei denselben wissenschaftlichen Daten unterschiedliche Zitations- und Leseergebnisse liefern können.",
+          "meta": "8 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.01527",
+            "capturedAt": "2026-11-11T17:00:44.863Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.01527",
+                "publishedAt": "2026-11-01T03:58:26.000Z"
+              }
+            },
+            "description": "A scientific agent can give the same verdict while reading and citing different evidence. BioAgent-DF tests this separation using paired reference and candidate values saved at the same scientific computation site. It restores or transplants those values at their original coordinates, then runs the agent on healthy hardware. Across eight SciFact batches, Qwen3.5-4B shows repeatable citation changes in three capture-claim combinations, and Gemma 3 4B IT shows repeatable read and citation changes "
+          }
+        },
+        {
+          "title": "TorchCurves: Differentiable Parametric Curves",
+          "url": "https://huggingface.co/papers/2611.14516",
+          "summary": "TorchCurves ist eine PyTorch-Bibliothek, die vektorwertige parametrische Kurven als erlernbare Grundelemente (Primitives) behandelt. Durch die Verwendung von B-Spline- oder Legendre-Polynom-Grundlagen ermöglicht sie die Optimierung von Kurvenkoeffizienten zusammen mit anderen Modellen.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.14516",
+            "capturedAt": "2026-11-11T17:00:44.863Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.14516",
+                "publishedAt": "2026-11-10T00:00:00.000Z",
+                "githubRepo": "https://github.com/alexshtf/torchcurves",
+                "githubStars": 70
+              }
+            },
+            "description": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Curve coefficients can be optimized jointly with the surrounding model or produced by another network. The library provides trainable modules, reusable basis modules, and a functional interface, supportin"
+          }
+        },
+        {
+          "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+          "url": "https://huggingface.co/papers/2611.10866",
+          "summary": "Der von Hugging Face veröffentlichte Artikel zeigt, dass durch das Zurücksetzen von weniger als 0,05 Prozent der Gewichte großer Sprachmodelle (LLMs) neue Fähigkeiten erworben werden können. Diese Methode, Deletion Tuning genannt, ermöglicht es, ähnliche Ergebnisse wie bei einem vollständigen Fine-Tuning zu erzielen, indem bestimmte Parameter maskiert werden, anstatt das gesamte Modell zu trainieren.",
+          "meta": "11 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2611.10866",
+            "capturedAt": "2026-11-11T17:00:44.863Z",
+            "metadata": {
+              "popularity": 11,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.10866",
+                "publishedAt": "2026-11-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+                "githubStars": 41
+              }
+            },
+            "description": "How little of a pretrained large language model (LLM) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full fine-tuning (FFT) at scale across three LLM post-training regimes: reinforcement learning with verifiable rewards, supervised fine-tuning, and on-policy distillation. Our method, Deletion Tuning, learns a binary mask over the gate projection of transformer blocks. Two practical advantages follow: the"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "Softwareart, deren Quellcode für jeden zur Einsicht, Änderung und Weiterentwicklung offen ist."
+    },
+    {
+      "term": "LLM",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden und menschliche Sprache verstehen sowie Texte generieren können."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Technische Fähigkeiten und Problemlösungskompetenzen, die in Softwareentwicklungsprozessen eingesetzt werden."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die Programme nicht mit der Maus, sondern über geschriebene Befehle ausführt."
+    },
+    {
+      "term": "accessibility tree",
+      "explanation": "Strukturelle Hierarchie, die sicherstellt, dass Inhalte auf Webseiten von Screenreadern und anderen assistiven Technologien verstanden werden können."
+    },
+    {
+      "term": "CFP/CFA",
+      "explanation": "Fachleute mit einem Zertifikat für Finanzplanung und Investmentmanagement."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Gesamtheit von Werkzeugen und Bibliotheken, die es Softwareentwicklern erleichtern, Anwendungen für eine bestimmte Plattform oder ein System zu entwickeln."
+    },
+    {
+      "term": "lazer tarama",
+      "explanation": "Messtechnologie, die Laserstrahlen verwendet, um eine dreidimensionale Karte eines Objekts oder Bereichs zu erstellen."
+    },
+    {
+      "term": "kei truck",
+      "explanation": "Nach japanischen Standards produzierte, sehr kompakte und wirtschaftliche Kleintransporter."
+    },
+    {
+      "term": "side-by-side",
+      "explanation": "Kleine motorisierte Fahrzeuge mit nebeneinander angeordneten Sitzen, die meist für den Geländeeinsatz konzipiert sind."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Der Prozess der Erstellung sinnvoller Texte gemäß den gegebenen Anweisungen."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Technologie, die auf der Grundlage schriftlicher Beschreibungen visuelle Inhalte erstellen kann."
+    },
+    {
+      "term": "prompt expansion",
+      "explanation": "Methode, bei der die vom Benutzer gegebenen kurzen Anweisungen detaillierter und erklärender gestaltet werden, um sicherzustellen, dass die künstliche Intelligenz bessere Ergebnisse liefert."
+    },
+    {
+      "term": "API",
+      "explanation": "Schnittstelle, die es verschiedenen Softwareprogrammen ermöglicht, Daten auszutauschen und miteinander zu kommunizieren."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Fähigkeit der künstlichen Intelligenz, nicht nur Text, sondern gleichzeitig verschiedene Datentypen wie Bilder oder Audio zu verarbeiten."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "Trainingsmethode, bei der die künstliche Intelligenz durch Versuch und Irrtum sowie durch erhaltene Belohnungen lernt, die richtige Entscheidung zu treffen."
+    }
+  ]
+}
