@@ -66,8 +66,8 @@ Oui. Il vous suffit d'exécuter git pull dans le dossier. Si vous avez des modif
 ## Outils liés
 
 - [MoneyPrinterTurbo](https://trescout.com/fr/discover/moneyprinterturbo/)
-- [BitNet](https://trescout.com/fr/discover/bitnet/)
 - [VoxCPM](https://trescout.com/fr/discover/voxcpm/)
+- [BitNet](https://trescout.com/fr/discover/bitnet/)
 - [Claude-Code-Game-Studios](https://trescout.com/fr/discover/claude-code-game-studios/)
 - [Clone-Wars](https://trescout.com/fr/discover/clone-wars/)
 - [Claude Seo](https://trescout.com/fr/discover/claude-seo/)

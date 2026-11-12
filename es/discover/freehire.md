@@ -2,16 +2,16 @@
 
 Desarrollado en el lenguaje Go, freehire es un motor de búsqueda de código abierto (con código fuente abierto al acceso y desarrollo de todos) diseñado para personas que buscan empleo. Ofrece una plataforma que permite a los usuarios examinar y encontrar ofertas de trabajo.
 
-- ★ 3.493
+- ★ 3.496
 - Go
 - GitHub Trending · 2026-10-22
 
 ## Actualizaciones
 
+- **12 de noviembre de 2026:** Estrellas 3,493 → 3,496, última versión deploy-20261112-0834 (12 de noviembre de 2026).
 - **12 de noviembre de 2026:** Estrellas 3,476 → 3,493, última versión deploy-20261112-0535 (12 de noviembre de 2026).
 - **11 de noviembre de 2026:** Estrellas 3,467 → 3,476, última versión deploy-20261111-0149 (11 de noviembre de 2026).
 - **10 de noviembre de 2026:** Estrellas 3,462 → 3,467, última versión deploy-20261110-1315 (10 de noviembre de 2026).
-- **10 de noviembre de 2026:** Estrellas 3,447 → 3,462, última versión deploy-20261110-0333 (10 de noviembre de 2026).
 
 ## Qué aporta
 

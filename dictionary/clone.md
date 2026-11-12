@@ -66,8 +66,8 @@ Evet. Klasör içinde git pull çalıştırmanız yeterlidir. Değişikliğiniz 
 ## İlgili araçlar
 
 - [MoneyPrinterTurbo](https://trescout.com/discover/moneyprinterturbo/)
-- [BitNet](https://trescout.com/discover/bitnet/)
 - [VoxCPM](https://trescout.com/discover/voxcpm/)
+- [BitNet](https://trescout.com/discover/bitnet/)
 - [Claude-Code-Game-Studios](https://trescout.com/discover/claude-code-game-studios/)
 - [Clone-Wars](https://trescout.com/discover/clone-wars/)
 - [Claude Seo](https://trescout.com/discover/claude-seo/)

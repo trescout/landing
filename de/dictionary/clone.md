@@ -66,8 +66,8 @@ Ja. Führen Sie einfach git pull im Ordner aus. Wenn Sie Änderungen haben, müs
 ## Verwandte Werkzeuge
 
 - [MoneyPrinterTurbo](https://trescout.com/de/discover/moneyprinterturbo/)
-- [BitNet](https://trescout.com/de/discover/bitnet/)
 - [VoxCPM](https://trescout.com/de/discover/voxcpm/)
+- [BitNet](https://trescout.com/de/discover/bitnet/)
 - [Claude-Code-Game-Studios](https://trescout.com/de/discover/claude-code-game-studios/)
 - [Clone-Wars](https://trescout.com/de/discover/clone-wars/)
 - [Claude Seo](https://trescout.com/de/discover/claude-seo/)

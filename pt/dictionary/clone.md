@@ -66,8 +66,8 @@ Sim. Basta executar git pull dentro da pasta. Se você tiver alterações, prime
 ## Ferramentas relacionadas
 
 - [MoneyPrinterTurbo](https://trescout.com/pt/discover/moneyprinterturbo/)
-- [BitNet](https://trescout.com/pt/discover/bitnet/)
 - [VoxCPM](https://trescout.com/pt/discover/voxcpm/)
+- [BitNet](https://trescout.com/pt/discover/bitnet/)
 - [Claude-Code-Game-Studios](https://trescout.com/pt/discover/claude-code-game-studios/)
 - [Clone-Wars](https://trescout.com/pt/discover/clone-wars/)
 - [Claude Seo](https://trescout.com/pt/discover/claude-seo/)

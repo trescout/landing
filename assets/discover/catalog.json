@@ -1055,10 +1055,10 @@
     "slug": "claude-mem",
     "title": "claude-mem",
     "tagline": "Yapay zekâ ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
-    "meta": "★ 116.315 · Apache-2.0",
+    "meta": "★ 116.344 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
-    "stars": 116315,
+    "stars": 116344,
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
@@ -1415,6 +1415,13 @@
         "yildiz": 116315,
         "onceki_yildiz": 115978,
         "surum": "v15.18.0",
+        "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-12",
+        "yildiz": 116344,
+        "onceki_yildiz": 116315,
+        "surum": "v15.18.1",
         "surum_tarihi": "2026-11-12"
       }
     ],
@@ -3256,13 +3263,13 @@
     "slug": "voxcpm",
     "title": "VoxCPM",
     "tagline": "Belirteçsiz (tokenizer-free) çok dilli TTS: ses tasarımı ve ses kopyalama çözümü.",
-    "meta": "★ 40.341 · Apache-2.0",
+    "meta": "★ 42.362 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 40341,
+    "stars": 42362,
     "image": "/assets/discover/og/voxcpm.webp",
     "headline": "Belirteçsiz çok dilli ses tasarımı",
     "last_review": "2026-11-12",
@@ -3292,6 +3299,13 @@
         "tarih": "2026-10-24",
         "yildiz": 40341,
         "onceki_yildiz": 38380,
+        "surum": "2.0.3",
+        "surum_tarihi": "2026-05-11"
+      },
+      {
+        "tarih": "2026-11-12",
+        "yildiz": 42362,
+        "onceki_yildiz": 40341,
         "surum": "2.0.3",
         "surum_tarihi": "2026-05-11"
       }
@@ -3352,14 +3366,14 @@
     "slug": "project-nomad",
     "title": "Project N.O.M.A.D",
     "tagline": "İnternetsiz çalışan, kritik araçlar ve bilgiyle donatılmış çevrimdışı hayatta kalma bilgisayarı.",
-    "meta": "★ 41.177 · Apache-2.0",
+    "meta": "★ 43.236 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 41177,
+    "stars": 43236,
     "image": "/assets/discover/og/project-nomad.webp",
     "headline": "İnternetsiz hayatta kalma bilgisayarı",
     "last_review": "2026-11-12",
@@ -3410,6 +3424,13 @@
         "tarih": "2026-10-29",
         "yildiz": 41177,
         "onceki_yildiz": 39138,
+        "surum": "v1.35.1",
+        "surum_tarihi": "2026-10-05"
+      },
+      {
+        "tarih": "2026-11-12",
+        "yildiz": 43236,
+        "onceki_yildiz": 41177,
         "surum": "v1.35.1",
         "surum_tarihi": "2026-10-05"
       }
@@ -12876,7 +12897,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 32.218 · HTML",
+    "meta": "★ 32.234 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -12884,7 +12905,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 32218,
+    "stars": 32234,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-11-12",
@@ -13238,6 +13259,13 @@
         "onceki_yildiz": 32164,
         "surum": "cua-spaces-v0.33.7",
         "surum_tarihi": "2026-11-11"
+      },
+      {
+        "tarih": "2026-11-12",
+        "yildiz": 32234,
+        "onceki_yildiz": 32218,
+        "surum": "cua-spaces-v0.34.1",
+        "surum_tarihi": "2026-11-12"
       }
     ],
     "tagline_en": "CUA provides an open source infrastructure for computer-capable artificial intelligence agents.",
@@ -36738,7 +36766,7 @@
     "slug": "deepseek-reasonix",
     "title": "DeepSeek-Reasonix",
     "tagline": "DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır.",
-    "meta": "★ 36.151 · Go",
+    "meta": "★ 36.160 · Go",
     "image": "/assets/discover/og/deepseek-reasonix.webp",
     "source": "GitHub",
     "date": "2026-08-03",
@@ -36746,7 +36774,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 36151,
+    "stars": 36160,
     "lite": false,
     "headline": "Terminal için yapay zekâ kodlama ajanı",
     "last_review": "2026-11-12",
@@ -37240,6 +37268,13 @@
         "onceki_yildiz": 36149,
         "surum": "studio-v2.60.0",
         "surum_tarihi": "2026-11-11"
+      },
+      {
+        "tarih": "2026-11-12",
+        "yildiz": 36160,
+        "onceki_yildiz": 36151,
+        "surum": "studio-v2.61.0",
+        "surum_tarihi": "2026-11-12"
       }
     ],
     "tagline_en": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models.",
@@ -37385,7 +37420,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 68.750 · Python",
+    "meta": "★ 68.783 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -37393,7 +37428,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 68750,
+    "stars": 68783,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-11-12",
@@ -37704,6 +37739,13 @@
         "yildiz": 68750,
         "onceki_yildiz": 67774,
         "surum": "v6.19.9",
+        "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-12",
+        "yildiz": 68783,
+        "onceki_yildiz": 68750,
+        "surum": "v6.19.10",
         "surum_tarihi": "2026-11-12"
       }
     ]
@@ -46066,7 +46108,7 @@
     "slug": "n8n",
     "title": "N8n",
     "tagline": "n8n, görsel canvas, özel kod ve yapay zekâ ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
-    "meta": "★ 210.100",
+    "meta": "★ 210.254",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -46074,7 +46116,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 210100,
+    "stars": 210254,
     "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
     "headline": "Görsel iş akışları ve yapay zekâ otomasyonu",
     "lite": false,
@@ -46556,6 +46598,13 @@
         "onceki_yildiz": 210014,
         "surum": "n8n@2.47.4",
         "surum_tarihi": "2026-11-11"
+      },
+      {
+        "tarih": "2026-11-12",
+        "yildiz": 210254,
+        "onceki_yildiz": 210100,
+        "surum": "n8n@2.47.5",
+        "surum_tarihi": "2026-11-12"
       }
     ],
     "last_review": "2026-11-12",
@@ -50228,7 +50277,7 @@
     "slug": "sie",
     "title": "SIE",
     "tagline": "Superlinked tarafından geliştirilen SIE, yapay zekâ ajanlarının ihtiyaç duyduğu modelleri çalıştırmak için kullanılan açık…",
-    "meta": "★ 3.476 · Python",
+    "meta": "★ 3.508 · Python",
     "image": "/assets/discover/og/sie.webp",
     "source": "GitHub",
     "date": "2026-09-03",
@@ -50236,7 +50285,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3476,
+    "stars": 3508,
     "summary": "Superlinked tarafından geliştirilen SIE, yapay zekâ ajanlarının ihtiyaç duyduğu modelleri çalıştırmak için kullanılan açık kaynaklı bir çıkarım sunucusu (inference server) ve üretim kümesidir. Python tabanlı bu yapı, karmaşık model dağıtımlarını yönetmeyi ve ölçeklenebilir bir altyapı sunmayı hedefler.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için çıkarım sunucusu",
@@ -50290,6 +50339,13 @@
         "onceki_yildiz": 3390,
         "surum": "v0.11.0",
         "surum_tarihi": "2026-11-04"
+      },
+      {
+        "tarih": "2026-11-12",
+        "yildiz": 3508,
+        "onceki_yildiz": 3476,
+        "surum": "v0.11.1",
+        "surum_tarihi": "2026-11-12"
       }
     ],
     "tagline_en": "SIE, developed by Superlinked, is an open-source framework used to run the models required by artificial intelligence agents...",
@@ -60636,14 +60692,14 @@
     "slug": "freehire",
     "title": "Freehire",
     "tagline": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve…",
-    "meta": "★ 3.493 · Go",
+    "meta": "★ 3.496 · Go",
     "image": "/assets/discover/og/freehire.webp",
     "source": "GitHub",
     "date": "2026-10-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3493,
+    "stars": 3496,
     "last_seen": "2026-10-22",
     "summary": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir arama motorudur. Kullanıcıların iş ilanlarını taramasına ve bulmasına olanak tanıyan bir platform sunar.",
     "lite": false,
@@ -60739,6 +60795,13 @@
         "yildiz": 3493,
         "onceki_yildiz": 3476,
         "surum": "deploy-20261112-0535",
+        "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-12",
+        "yildiz": 3496,
+        "onceki_yildiz": 3493,
+        "surum": "deploy-20261112-0834",
         "surum_tarihi": "2026-11-12"
       }
     ],
@@ -60973,7 +61036,7 @@
     "slug": "microduck",
     "title": "Microduck",
     "tagline": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek…",
-    "meta": "★ 13.655 · Rust",
+    "meta": "★ 13.720 · Rust",
     "image": "/assets/discover/og/microduck.webp",
     "source": "GitHub",
     "date": "2026-10-25",
@@ -60981,7 +61044,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13655,
+    "stars": 13720,
     "last_seen": "2026-10-26",
     "summary": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek robot projesidir. Rust diliyle yazılan yazılım, yapay zekâ politikaları (neural policies) üzerinden on beş servoyu yöneterek robotun hareket ve kontrol süreçlerini yürütür.",
     "lite": false,
@@ -61059,6 +61122,13 @@
         "onceki_yildiz": 13528,
         "surum": "daemon-v0.19.0",
         "surum_tarihi": "2026-11-10"
+      },
+      {
+        "tarih": "2026-11-12",
+        "yildiz": 13720,
+        "onceki_yildiz": 13655,
+        "surum": "daemon-v0.20.1",
+        "surum_tarihi": "2026-11-12"
       }
     ],
     "tagline_en": "Developed by Pollen Robotics, microduck is a 25-centimeter bipedal duck powered by the Rockchip RK3566 processor…",

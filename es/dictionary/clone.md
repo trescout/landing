@@ -66,8 +66,8 @@ Sí. Solo necesitas ejecutar git pull dentro de la carpeta. Si tienes cambios, p
 ## Herramientas relacionadas
 
 - [MoneyPrinterTurbo](https://trescout.com/es/discover/moneyprinterturbo/)
-- [BitNet](https://trescout.com/es/discover/bitnet/)
 - [VoxCPM](https://trescout.com/es/discover/voxcpm/)
+- [BitNet](https://trescout.com/es/discover/bitnet/)
 - [Claude-Code-Game-Studios](https://trescout.com/es/discover/claude-code-game-studios/)
 - [Clone-Wars](https://trescout.com/es/discover/clone-wars/)
 - [Claude Seo](https://trescout.com/es/discover/claude-seo/)
