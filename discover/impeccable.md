@@ -2,15 +2,15 @@
 
 Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language) kütüphanesidir. Yazılım, üretken yapay zekâ (generative AI) araçlarının görsel tutarlılığını ve estetik kalitesini artırmak amacıyla standartlaştırılmış kurallar sunar.
 
-- ★ 107.131
+- ★ 108.474
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
 
+- **12 Kasım 2026:** Yıldız 107.131 → 108.474, son sürüm loop-v0.1.1 (11 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 106.347 → 107.131, son sürüm engine-v0.1.22 (9 Kasım 2026).
 - **9 Kasım 2026:** Yıldız 105.674 → 106.347, son sürüm engine-v0.1.21 (9 Kasım 2026).
 - **8 Kasım 2026:** Yıldız 104.932 → 105.674, son sürüm cli-v4.8.1 (8 Kasım 2026).
-- **7 Kasım 2026:** Yıldız 100.689 → 104.932, son sürüm engine-v0.1.19 (7 Kasım 2026).
 
 ## Ne kazandırır?
 

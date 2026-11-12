@@ -2,16 +2,16 @@
 
 Développé par Microsoft, Visual Studio Code est un éditeur de code open source qui accélère les processus de développement logiciel. Écrit en TypeScript, cet outil offre un environnement de travail personnalisable pour différents langages de programmation et plateformes grâce à son large support d'extensions.
 
-- ★ 195 266
+- ★ 195 312
 - TypeScript
 - GitHub Trending · 2026-09-27
 
 ## Mises à jour
 
+- **12 novembre 2026:** Étoiles 195,266 → 195,312, dernière version 1.146.0 (11 novembre 2026).
 - **10 novembre 2026:** Étoiles 195,065 → 195,266, dernière version 1.145.3 (10 novembre 2026).
 - **7 novembre 2026:** Étoiles 194,755 → 195,065, dernière version 1.145.2 (6 novembre 2026).
 - **6 novembre 2026:** Étoiles 194,645 → 194,755, dernière version 1.145.1 (6 novembre 2026).
-- **5 novembre 2026:** Étoiles 194,398 → 194,645, dernière version 1.145.0 (4 novembre 2026).
 
 ## Ce que ça vous apporte
 

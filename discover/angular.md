@@ -2,16 +2,16 @@
 
 Google tarafından geliştirilen Angular, ölçeklenebilir web uygulamaları oluşturmak için kullanılan kapsamlı bir çerçeve (framework). TypeScript tabanlı yapısıyla karmaşık projelerde geliştirme sürecini standartlaştıran ve yapılandıran araçlar sunuyor.
 
-- ★ 101.410
+- ★ 101.477
 - TypeScript
 - GitHub Trending · 2026-08-05
 
 ## Güncelleme
 
+- **12 Kasım 2026:** Yıldız 101.410 → 101.477, son sürüm v22.2.6 (12 Kasım 2026).
 - **7 Kasım 2026:** Yıldız 101.084 → 101.410, son sürüm v22.2.5 (6 Kasım 2026).
 - **30 Ekim 2026:** Yıldız 101.059 → 101.084, son sürüm v22.2.4 (29 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 101.022 → 101.059, son sürüm v22.2.3 (14 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 101.027 → 101.022, son sürüm v22.2.2 (8 Ekim 2026).
 
 ## Ne kazandırır?
 

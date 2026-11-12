@@ -2,16 +2,16 @@
 
 Developed to make the output of coding agents more focused and organized, i-have-adhd improves the user experience by breaking complex responses into parts. This Python-based skill standardizes AI's presentation of information in an attention-deficit hyperactivity disorder (ADHD)-friendly format.
 
-- ★ 57,916
+- ★ 60,910
 - Python
 - GitHub Trending · 2026-07-22
 
 ## Updates
 
+- **November 12, 2026:** Stars 57,916 → 60,910, latest release v0.4.1 (October 19, 2026).
 - **October 20, 2026:** Stars 56,851 → 57,916, latest release v0.4.1 (October 19, 2026).
 - **October 13, 2026:** Stars 54,097 → 56,851.
 - **October 6, 2026:** Stars 51,395 → 54,097.
-- **September 27, 2026:** Stars 47,151 → 51,395.
 
 ## What you get
 

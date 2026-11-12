@@ -50,7 +50,7 @@ O sistema geralmente apresenta erros, mas também existem comandos críticos que
 - [Codex](https://trescout.com/pt/discover/codex/)
 - [PI](https://trescout.com/pt/discover/pi/)
 - [TradingAgents](https://trescout.com/pt/discover/tradingagents/)
-- [Agent-Reach](https://trescout.com/pt/discover/agent-reach/)
+- [Impeccable](https://trescout.com/pt/discover/impeccable/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cli/)
 

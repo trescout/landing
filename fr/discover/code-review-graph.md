@@ -2,16 +2,16 @@
 
 Code-review-graph analyse la base de code et crée une carte d'intelligence de code ciblée localement pour les outils d'intelligence artificielle. Cette structure rend les processus de révision de code basés sur l'intelligence artificielle plus efficaces en utilisant des méthodes de réduction de contexte dans les grands projets.
 
-- ★ 31 601
+- ★ 32 726
 - Python
 - GitHub Trending · 2026-07-18
 
 ## Mises à jour
 
+- **12 novembre 2026:** Étoiles 31,601 → 32,726, dernière version v2.4.0 (11 novembre 2026).
 - **19 septembre 2026:** Étoiles 30,676 → 31,601, dernière version v2.3.9 (18 septembre 2026).
 - **22 août 2026:** Étoiles 29,487 → 30,676, dernière version v2.3.8 (21 août 2026).
 - **9 août 2026:** Étoiles 28,041 → 29,487, dernière version v2.3.7 (18 juillet 2026).
-- **2 août 2026:** Étoiles 19,852 → 28,041, dernière version v2.3.7 (18 juillet 2026).
 
 ## Ce que ça vous apporte
 

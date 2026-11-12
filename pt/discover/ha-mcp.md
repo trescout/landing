@@ -2,12 +2,13 @@
 
 O ha-mcp, desenvolvido para o Home Assistant, permite configurar e automatizar sua plataforma de casa inteligente com assistentes de IA como Claude e ChatGPT. Integrada via HACS, esta ferramenta funciona com suporte total a recursos em todos os tipos de instalação do Home Assistant.
 
-- ★ 6.552
+- ★ 7.495
 - Python
 - GitHub Trending · 2026-11-10
 
 ## Atualizações
 
+- **12 de novembro de 2026:** Estrelas 6,552 → 7,495, versão mais recente v9.2.0 (11 de novembro de 2026).
 - **10 de novembro de 2026:** Estrelas 6,535 → 6,552, versão mais recente v9.1.2 (8 de novembro de 2026).
 
 ## O que você ganha

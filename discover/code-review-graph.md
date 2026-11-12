@@ -2,16 +2,16 @@
 
 Code-review-graph, kod tabanını analiz ederek yapay zekâ araçları için yerel odaklı bir kod zekası haritası (code intelligence graph) oluşturuyor. Bu yapı, büyük projelerde bağlam azaltma (context reduction) yöntemlerini kullanarak yapay zekâ destekli kod inceleme süreçlerini daha verimli hale getiriyor.
 
-- ★ 31.601
+- ★ 32.726
 - Python
 - GitHub Trending · 2026-07-18
 
 ## Güncelleme
 
+- **12 Kasım 2026:** Yıldız 31.601 → 32.726, son sürüm v2.4.0 (11 Kasım 2026).
 - **19 Eylül 2026:** Yıldız 30.676 → 31.601, son sürüm v2.3.9 (18 Eylül 2026).
 - **22 Ağustos 2026:** Yıldız 29.487 → 30.676, son sürüm v2.3.8 (21 Ağustos 2026).
 - **9 Ağustos 2026:** Yıldız 28.041 → 29.487, son sürüm v2.3.7 (18 Temmuz 2026).
-- **2 Ağustos 2026:** Yıldız 19.852 → 28.041, son sürüm v2.3.7 (18 Temmuz 2026).
 
 ## Ne kazandırır?
 

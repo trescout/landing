@@ -2,9 +2,13 @@
 
 Thysrael/Horizon, farklı kaynaklardan gelen haberleri yapay zekâ kullanarak toplayan, filtreleyen ve özetleyen bir haber takip aracıdır. İngilizce ve Çince dillerinde günlük bültenler hazırlayan bu yazılım, içerikleri bağlam ve topluluk tartışmalarıyla birlikte sunarak kullanıcıların bilgi akışını yönetmesine yardımcı olur.
 
-- ★ 12.645
+- ★ 13.809
 - Python
 - GitHub Trending · 2026-11-05
+
+## Güncelleme
+
+- **12 Kasım 2026:** Yıldız 12.645 → 13.809.
 
 ## Ne kazandırır?
 

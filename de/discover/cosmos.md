@@ -2,12 +2,13 @@
 
 Cosmos wurde von NVIDIA entwickelt und ist eine offene Plattform, die Weltmodelle, Datensätze und Tools für physische Systeme wie Roboter und autonome Fahrzeuge bereitstellt. Es stellt eine Infrastruktur bereit, die es Entwicklern erleichtert, physische KI-Anwendungen zu erstellen.
 
-- ★ 11.343
+- ★ 12.350
 - Jupyter Notebook
 - GitHub Trending · 2026-06-05
 
 ## Aktualisierungen
 
+- **12. November 2026:** Sterne 11,343 → 12,350, neueste Version Cosmos3 (1. Juni 2026).
 - **2. August 2026:** Sterne 9,173 → 11,343, neueste Version Cosmos3 (1. Juni 2026).
 
 ## Was es bringt

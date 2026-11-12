@@ -2,16 +2,16 @@
 
 Last30days-skill oferece uma habilidade de inteligência artificial (habilidade de agente de IA) que sintetiza dados atuais pesquisando em plataformas como Reddit, X, YouTube, Hacker News e Polymarket. Esta ferramenta baseada em Python combina informações de diferentes fontes para criar resumos verificáveis ​​para os usuários.
 
-- ★ 67.267
+- ★ 67.362
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Atualizações
 
+- **12 de novembro de 2026:** Estrelas 67,267 → 67,362, versão mais recente v3.36.1 (12 de novembro de 2026).
 - **11 de novembro de 2026:** Estrelas 67,171 → 67,267, versão mais recente v3.36.0 (11 de novembro de 2026).
 - **10 de novembro de 2026:** Estrelas 67,057 → 67,171, versão mais recente v3.33.2 (10 de novembro de 2026).
 - **9 de novembro de 2026:** Estrelas 65,620 → 67,057, versão mais recente v3.32.0 (9 de novembro de 2026).
-- **27 de outubro de 2026:** Estrelas 65,172 → 65,620, versão mais recente v3.31.0 (27 de outubro de 2026).
 
 ## O que você ganha
 

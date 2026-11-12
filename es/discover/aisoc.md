@@ -2,16 +2,16 @@
 
 AiSOC es un centro de seguridad de código abierto basado en IA desarrollado para automatizar las operaciones de seguridad. Esta herramienta, que clasifica alertas mediante modelos de lenguaje de gran tamaño (LLM) y realiza investigaciones con el marco MITRE ATT&CK, puede ejecutarse en su propio servidor sin necesidad de una clave API.
 
-- ★ 7.105
+- ★ 7.383
 - Python
 - GitHub Trending · 2026-11-02
 
 ## Actualizaciones
 
+- **12 de noviembre de 2026:** Estrellas 7,105 → 7,383, última versión v23.2.0 (12 de noviembre de 2026).
 - **10 de noviembre de 2026:** Estrellas 7,296 → 7,105, última versión v23.1.0 (10 de noviembre de 2026).
 - **6 de noviembre de 2026:** Estrellas 7,313 → 7,296, última versión v22.2.0 (6 de noviembre de 2026).
 - **5 de noviembre de 2026:** Estrellas 7,279 → 7,313, última versión v22.1.0 (5 de noviembre de 2026).
-- **5 de noviembre de 2026:** Estrellas 6,480 → 7,279, última versión v22.0.0 (4 de noviembre de 2026).
 
 ## Qué aporta
 

@@ -2,12 +2,13 @@
 
 MuJoCo, entwickelt von Google DeepMind, ist eine Allzweck-Physik-Engine, die eine schnelle und präzise Simulation von Gelenkstrukturen in Bereichen wie Robotik, Biomechanik und maschinellem Lernen ermöglicht. Dieses in C++ geschriebene Tool soll die Entwicklung und Erforschung von Systemen erleichtern, die mit komplexen Umgebungen interagieren.
 
-- ★ 16.547
+- ★ 17.680
 - C++
 - GitHub Trending · 2026-11-09
 
 ## Aktualisierungen
 
+- **12. November 2026:** Sterne 16,547 → 17,680, neueste Version 4.0.1 (11. November 2026).
 - **9. November 2026:** Sterne 16,542 → 16,547, neueste Version 4.0.0 (6. November 2026).
 
 ## Was es bringt

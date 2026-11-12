@@ -2,12 +2,13 @@
 
 Vorssaint-utils est un ensemble d'outils de barre des menus open source développé pour le système d'exploitation macOS. Il regroupe de nombreuses fonctions différentes telles que le contrôle du volume par application, la surveillance du système, la gestion des fenêtres et l'historique du presse-papiers dans une seule et même interface.
 
-- ★ 33 936
+- ★ 34 334
 - Swift
 - GitHub Trending · 2026-11-01
 
 ## Mises à jour
 
+- **12 novembre 2026:** Étoiles 33,936 → 34,334, dernière version v3.4.4 (11 novembre 2026).
 - **10 novembre 2026:** Étoiles 32,146 → 33,936, dernière version v3.4.3 (29 octobre 2026).
 - **1 novembre 2026:** Étoiles 32,143 → 32,146, dernière version v3.4.3 (29 octobre 2026).
 

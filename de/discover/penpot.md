@@ -2,16 +2,16 @@
 
 Penpot ist ein Open-Source-Designtool, das die Zusammenarbeit zwischen Designern und Entwicklern stärkt. Dank seiner vektorbasierten Schnittstelle ermöglicht es Ihnen, Designprozesse integriert mit der Codierungsphase zu verwalten.
 
-- ★ 62.238
+- ★ 62.284
 - Clojure
 - GitHub Trending · 2026-06-18
 
 ## Aktualisierungen
 
+- **12. November 2026:** Sterne 62,238 → 62,284, neueste Version 2.19.1 (11. November 2026).
 - **10. November 2026:** Sterne 62,082 → 62,238, neueste Version 2.19.0 (9. November 2026).
 - **5. November 2026:** Sterne 61,736 → 62,082, neueste Version 2.18.6 (4. November 2026).
 - **27. Oktober 2026:** Sterne 61,530 → 61,736, neueste Version 2.18.5 (26. Oktober 2026).
-- **23. Oktober 2026:** Sterne 60,747 → 61,530, neueste Version 2.18.4 (23. Oktober 2026).
 
 ## Was es bringt
 

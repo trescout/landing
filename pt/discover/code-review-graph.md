@@ -2,16 +2,16 @@
 
 O gráfico de revisão de código analisa a base de código e cria um mapa de inteligência de código com foco local para ferramentas de inteligência artificial. Essa estrutura torna os processos de revisão de código apoiados por inteligência artificial mais eficientes, usando métodos de redução de contexto em grandes projetos.
 
-- ★ 31.601
+- ★ 32.726
 - Python
 - GitHub Trending · 2026-07-18
 
 ## Atualizações
 
+- **12 de novembro de 2026:** Estrelas 31,601 → 32,726, versão mais recente v2.4.0 (11 de novembro de 2026).
 - **19 de setembro de 2026:** Estrelas 30,676 → 31,601, versão mais recente v2.3.9 (18 de setembro de 2026).
 - **22 de agosto de 2026:** Estrelas 29,487 → 30,676, versão mais recente v2.3.8 (21 de agosto de 2026).
 - **9 de agosto de 2026:** Estrelas 28,041 → 29,487, versão mais recente v2.3.7 (18 de julho de 2026).
-- **2 de agosto de 2026:** Estrelas 19,852 → 28,041, versão mais recente v2.3.7 (18 de julho de 2026).
 
 ## O que você ganha
 

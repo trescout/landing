@@ -10593,5 +10593,83 @@
     "kisa_es": "Es la arquitectura Transformer estándar en la que todos sus parámetros están activos en cada paso.",
     "kisa_pt": "É a arquitetura Transformer padrão em que todos os parâmetros estão ativos em cada passo.",
     "kisa_de": "Es ist die Standard-Transformer-Architektur, bei der alle Parameter in jedem Schritt aktiv sind."
+  },
+  {
+    "slug": "laser-scanning",
+    "en": "Laser Scanning",
+    "full": "",
+    "cat": "data",
+    "kisa": "Lazer tarama, lazer ışınları kullanarak bir nesnenin veya alanın üç boyutlu haritasını çıkaran ölçüm teknolojisidir.",
+    "date": "2026-11-12",
+    "kisa_en": "Laser scanning is a measurement technology that creates a three-dimensional map of an object or area using laser beams.",
+    "kisa_fr": "Le balayage laser est une technologie de mesure qui crée une carte tridimensionnelle d'un objet ou d'une zone à l'aide de faisceaux laser.",
+    "kisa_es": "El escaneo láser es una tecnología de medición que crea un mapa tridimensional de un objeto o área utilizando rayos láser.",
+    "kisa_pt": "A varredura a laser é uma tecnologia de medição que cria um mapa tridimensional de um objeto ou área usando feixes de laser.",
+    "kisa_de": "Laserscannen ist eine Messtechnik, die mithilfe von Laserstrahlen eine dreidimensionale Karte eines Objekts oder Bereichs erstellt."
+  },
+  {
+    "slug": "kei-truck",
+    "en": "Kei Truck",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kei truck, Japonya standartlarına göre üretilen oldukça küçük boyutlu ve ekonomik ticari kamyonet sınıfıdır.",
+    "date": "2026-11-12",
+    "kisa_en": "Kei truck is a class of very small and economical commercial pickup trucks produced according to Japanese standards.",
+    "kisa_fr": "Le kei truck est une catégorie de petits camions utilitaires très compacts et économiques, fabriqués selon les normes japonaises.",
+    "kisa_es": "El kei truck es una clase de camiones comerciales pequeños y económicos fabricados según los estándares de Japón.",
+    "kisa_pt": "O kei truck é uma classe de caminhonetes comerciais de dimensões bastante reduzidas e econômicas, fabricadas de acordo com os padrões do Japão.",
+    "kisa_de": "Kei-Truck ist eine Klasse von sehr kleinen und wirtschaftlichen Nutzfahrzeugen, die nach japanischen Standards hergestellt werden."
+  },
+  {
+    "slug": "side-by-side",
+    "en": "Side-by-Side",
+    "full": "Utility Task Vehicle",
+    "cat": "dev",
+    "kisa": "Side-by-side, zorlu arazi kullanımı için tasarlanmış, yan yana koltuk düzenine sahip küçük motorlu arazi aracıdır.",
+    "date": "2026-11-12",
+    "kisa_en": "A side-by-side is a small-motored off-road vehicle with a side-by-side seating arrangement designed for rugged terrain use.",
+    "kisa_fr": "Le côte-à-côte (side-by-side) est un petit véhicule tout-terrain à motorisation légère, conçu pour une utilisation intensive en terrain difficile et doté d'une disposition des sièges côte à côte.",
+    "kisa_es": "Un side-by-side es un vehículo todoterreno de motor pequeño, diseñado para un uso exigente en terrenos difíciles y con una disposición de asientos lado a lado.",
+    "kisa_pt": "O side-by-side é um veículo utilitário todo-terreno de pequeno motor, projetado para uso off-road exigente, com disposição de assentos lado a lado.",
+    "kisa_de": "Ein Side-by-Side ist ein kleiner Motor-Geländewagen mit nebeneinander angeordneten Sitzen, der für den harten Offroad-Einsatz konzipiert wurde."
+  },
+  {
+    "slug": "prompt-expansion",
+    "en": "Prompt Expansion",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcının yazdığı kısa komutları sistemin daha zengin ve ayrıntılı hale getirerek yapay zekâ modelinden daha kaliteli yanıt almasını sağlama yöntemidir.",
+    "date": "2026-11-12",
+    "kisa_en": "It is a method of making the short prompts written by the user richer and more detailed to ensure a higher quality response from the artificial intelligence model.",
+    "kisa_fr": "C'est une méthode qui consiste à enrichir et à détailler les courtes instructions saisies par l'utilisateur afin de permettre au système d'obtenir une réponse de meilleure qualité de la part du modèle d'intelligence artificielle.",
+    "kisa_es": "Es un método en el cual el sistema enriquece y detalla los comandos cortos escritos por el usuario para obtener una respuesta de mejor calidad por parte del modelo de inteligencia artificial.",
+    "kisa_pt": "É um método em que o sistema torna os comandos curtos escritos pelo usuário mais ricos e detalhados, garantindo uma resposta de melhor qualidade do modelo de inteligência artificial.",
+    "kisa_de": "Es ist eine Methode, bei der das System kurze Befehle des Benutzers anreichert und detaillierter gestaltet, um eine bessere Antwort vom KI-Modell zu erhalten."
+  },
+  {
+    "slug": "self-learning",
+    "en": "Self-learning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ sistemlerinin insan müdahalesine ihtiyaç duymadan kendi ürettiği veriler veya deneyimler üzerinden gelişme yeteneğidir.",
+    "date": "2026-11-12",
+    "kisa_en": "It is the ability of artificial intelligence systems to improve themselves through data or experiences they generate themselves without the need for human intervention.",
+    "kisa_fr": "Il s'agit de la capacité des systèmes d'intelligence artificielle à s'améliorer grâce à leurs propres données générées ou expériences, sans nécessiter d'intervention humaine.",
+    "kisa_es": "Es la capacidad de los sistemas de inteligencia artificial para evolucionar a través de sus propios datos generados o experiencias sin necesidad de intervención humana.",
+    "kisa_pt": "É a capacidade dos sistemas de inteligência artificial de evoluírem por meio de seus próprios dados gerados ou experiências, sem a necessidade de intervenção humana.",
+    "kisa_de": "Es ist die Fähigkeit von KI-Systemen, sich auf Basis selbst generierter Daten oder Erfahrungen ohne menschliches Eingreifen weiterzuentwickeln."
+  },
+  {
+    "slug": "lidar-point-clouds",
+    "en": "LiDAR Point Clouds",
+    "full": "Light Detection and Ranging Point Clouds",
+    "cat": "data",
+    "kisa": "Lazer ışınları kullanılarak bir ortamın veya nesnenin üç boyutlu yapısını oluşturan noktalı veri kümesidir.",
+    "date": "2026-11-12",
+    "kisa_en": "It is a point data set that creates the three-dimensional structure of an environment or object using laser beams.",
+    "kisa_fr": "Il s'agit d'un ensemble de données de points constituant la structure tridimensionnelle d'un environnement ou d'un objet, généré à l'aide de faisceaux laser.",
+    "kisa_es": "Es un conjunto de datos de puntos que forma la estructura tridimensional de un entorno o un objeto mediante el uso de rayos láser.",
+    "kisa_pt": "É um conjunto de dados pontuais que forma a estrutura tridimensional de um ambiente ou objeto utilizando raios laser.",
+    "kisa_de": "Es ist eine Punktewolke, die unter Verwendung von Laserstrahlen die dreidimensionale Struktur einer Umgebung oder eines Objekts darstellt."
   }
 ]

@@ -2,12 +2,13 @@
 
 Zed is a high-performance, multi-player code editor written in Rust by the creators of Atom and Tree-sitter. It aims to provide a speed-focused experience in software development processes.
 
-- ★ 93,776
+- ★ 94,743
 - Rust
 - GitHub Trending · 2026-11-07
 
 ## Updates
 
+- **November 12, 2026:** Stars 93,776 → 94,743, latest release v1.28.1 (November 11, 2026).
 - **November 7, 2026:** Stars 93,767 → 93,776, latest release v1.27.0 (November 4, 2026).
 
 ## What you get

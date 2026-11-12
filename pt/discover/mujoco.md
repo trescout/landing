@@ -2,12 +2,13 @@
 
 Desenvolvido pelo Google DeepMind, o MuJoCo é um motor de física de uso geral que fornece simulação rápida e precisa de estruturas articuladas em áreas como robótica, biomecânica e aprendizado de máquina. Escrito em C++, esta ferramenta visa facilitar o desenvolvimento e a pesquisa de sistemas que interagem com ambientes complexos.
 
-- ★ 16.547
+- ★ 17.680
 - C++
 - GitHub Trending · 2026-11-09
 
 ## Atualizações
 
+- **12 de novembro de 2026:** Estrelas 16,547 → 17,680, versão mais recente 4.0.1 (11 de novembro de 2026).
 - **9 de novembro de 2026:** Estrelas 16,542 → 16,547, versão mais recente 4.0.0 (6 de novembro de 2026).
 
 ## O que você ganha

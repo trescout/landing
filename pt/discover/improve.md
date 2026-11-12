@@ -1,0 +1,52 @@
+# Planejamento de base de código com modelos de inteligência artificial
+
+shadcn/improve é uma capacidade de agente que analisa a base de código e cria planos de trabalho que podem ser executados por modelos de IA de menor custo. Com o objetivo de otimizar os processos de revisão de código e planejamento de implementação para desenvolvedores, esta ferramenta visa planejar tarefas complexas com modelos capazes e executá-las com modelos mais econômicos.
+
+- ★ 10.615
+- GitHub Trending · 2026-11-11
+
+## O que você ganha
+
+- Analisa a base de código para preparar uma lista de descobertas prioritárias e planos de implementação detalhados.
+- Realiza análises com modelos inteligentes e executa processos de implementação com modelos mais econômicos.
+- Audita planos existentes, corrige erros e organiza a carga de trabalho.
+
+## Instalação
+
+**Adicionar a ferramenta ao projeto**
+
+```
+npx skills add shadcn/improve
+```
+
+## Se você não programa
+
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
+Quero usar a capacidade de agente chamada shadcn/improve para realizar revisão de código e planejamento de implementação neste projeto. Por favor, execute o seguinte comando para adicionar a ferramenta ao meu projeto: npx skills add shadcn/improve.
+
+Repositório: https://github.com/shadcn/improve. Baseie-se nas instruções oficiais no arquivo README deste repositório para a instalação e execução.
+
+Antes de começar, verifique em qual sistema operacional estamos e se as ferramentas necessárias (ex: Python, Node.js, Git, Docker) estão instaladas. Instale as que faltarem passo a passo de acordo com este sistema.
+
+Crie uma pasta nova e vazia para trabalhar. Não toque em arquivos fora desta pasta e não exclua nada. Antes de executar cada comando, diga o que você vai fazer em uma frase.
+
+Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colarei a mensagem de erro para você exatamente como ela é, e vamos corrigi-la juntos.
+
+## Termos relacionados do glossário
+
+- [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** Adequado para desenvolvedores que desejam analisar a base de código e criar planos de implementação.
+- **Licença:** MIT
+
+## Links
+
+- [Repositório no GitHub →](https://github.com/shadcn/improve)
+- [Ler em turco →](https://trescout.com/discover/improve/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-11-11: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+
+---
+Fonte: TreScout Descobrir · https://trescout.com/pt/discover/improve/

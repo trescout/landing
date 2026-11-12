@@ -2,9 +2,13 @@
 
 Thysrael/Horizon es una herramienta de seguimiento de noticias que recopila, filtra y resume noticias de diferentes fuentes utilizando inteligencia artificial. Este software, que prepara boletines diarios en inglés y chino, ayuda a los usuarios a gestionar el flujo de información presentando los contenidos junto con el contexto y las discusiones de la comunidad.
 
-- ★ 12.645
+- ★ 13.809
 - Python
 - GitHub Trending · 2026-11-05
+
+## Actualizaciones
+
+- **12 de noviembre de 2026:** Estrellas 12,645 → 13,809.
 
 ## Qué aporta
 

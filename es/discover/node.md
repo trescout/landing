@@ -2,7 +2,7 @@
 
 Node.js ofrece un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador. Esta plataforma, basada en el motor V8, se utiliza para desarrollar aplicaciones de red escalables en el lado del servidor.
 
-- ★ 123.156
+- ★ 123.486
 - JavaScript
 - GitHub Trending · 2026-07-27
 
@@ -10,10 +10,10 @@ Node.js ofrece un entorno de ejecución que permite ejecutar código JavaScript 
 
 ## Actualizaciones
 
+- **12 de noviembre de 2026:** Estrellas 123,156 → 123,486, última versión v26.13.1 (11 de noviembre de 2026).
 - **29 de octubre de 2026:** Estrellas 122,486 → 123,156, última versión v26.13.0 (28 de octubre de 2026).
 - **21 de octubre de 2026:** Estrellas 122,283 → 122,486, última versión v26.12.1 (21 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 122,434 → 122,283, última versión v26.12.0 (14 de octubre de 2026).
-- **8 de octubre de 2026:** Estrellas 122,128 → 122,434, última versión v26.11.1 (7 de octubre de 2026).
 
 ## Qué aporta
 

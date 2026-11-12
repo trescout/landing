@@ -2,16 +2,16 @@
 
 Meshery is a service mesh management platform designed for the management of cloud native infrastructures. The platform enables configuration, lifecycle management and performance analysis processes in complex cloud environments to be carried out from a single center.
 
-- ★ 12,129
+- ★ 12,175
 - TypeScript
 - GitHub Trending · 2026-06-15
 
 ## Updates
 
+- **November 12, 2026:** Stars 12,129 → 12,175, latest release v1.0.76 (November 12, 2026).
 - **November 4, 2026:** Stars 12,030 → 12,129, latest release v1.0.75 (November 3, 2026).
 - **October 22, 2026:** Stars 12,023 → 12,030, latest release v1.0.74 (October 22, 2026).
 - **October 21, 2026:** Stars 11,942 → 12,023, latest release v1.0.72 (October 20, 2026).
-- **October 12, 2026:** Stars 11,795 → 11,942, latest release v1.0.71 (October 11, 2026).
 
 ## What you get
 

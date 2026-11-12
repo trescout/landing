@@ -2,16 +2,16 @@
 
 gRPC é uma estrutura de chamada de procedimento remoto de código aberto que fornece comunicação de alto desempenho entre diferentes linguagens de programação. Graças à sua infraestrutura baseada em C++, permite o desenvolvimento de serviços de rede escaláveis ​​para linguagens como Python, Ruby, C# e PHP.
 
-- ★ 45.425
+- ★ 45.442
 - C++
 - GitHub Trending · 2026-07-11
 
 ## Atualizações
 
+- **12 de novembro de 2026:** Estrelas 45,425 → 45,442, versão mais recente v1.84.3 (12 de novembro de 2026).
 - **7 de novembro de 2026:** Estrelas 45,418 → 45,425, versão mais recente v1.81.2 (6 de novembro de 2026).
 - **3 de novembro de 2026:** Estrelas 45,407 → 45,418, versão mais recente v1.83.2 (2 de novembro de 2026).
 - **31 de outubro de 2026:** Estrelas 45,401 → 45,407, versão mais recente v1.85.1 (30 de outubro de 2026).
-- **26 de outubro de 2026:** Estrelas 45,392 → 45,401, versão mais recente v1.85.0 (26 de outubro de 2026).
 
 ## O que você ganha
 
