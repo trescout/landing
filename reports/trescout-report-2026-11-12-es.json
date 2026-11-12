@@ -1,0 +1,801 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-12",
+  "capturedAt": "2026-11-12T05:17:48.805Z",
+  "editorial": "Hoy en la agenda tecnológica destacan las herramientas de descubrimiento impulsadas por inteligencia artificial y las técnicas de aprendizaje por refuerzo (reinforcement learning) que aumentan las capacidades de aprendizaje autónomo de los grandes modelos de lenguaje (large language models). Mientras que la pérdida de Tim Peters, uno de los arquitectos del lenguaje Python, ha causado una profunda tristeza en la comunidad, los modelos sin censura y las soluciones de procesamiento de imágenes se diversifican rápidamente en el mundo del código abierto.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "summary": "Astryx, desarrollado por Meta, es un sistema de diseño de código abierto (open source) totalmente personalizable, diseñado para ser utilizado por humanos y agentes de inteligencia artificial. Escrito en el lenguaje TypeScript, este sistema tiene como objetivo adaptarse a los procesos de desarrollo de software colaborativo actuales.",
+          "meta": "TypeScript · ★ 25.387 · +2.776 hoy",
+          "snapshot": {
+            "sourceId": "meta/astryx",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 25387,
+              "engagementCount": 2776,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2776,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open source design system that's fully customizable and agent ready. An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them."
+          }
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis es un sistema automatizado que realiza análisis de acciones en múltiples mercados utilizando grandes modelos de lenguaje (LLM). El software procesa datos de mercado y noticias actuales para ofrecer un panel de soporte a la toma de decisiones, además de permitir su uso gratuito a intervalos determinados.",
+          "meta": "Python · ★ 70.550 · +278 hoy",
+          "snapshot": {
+            "sourceId": "ZhuLinsen/daily_stock_analysis",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 70550,
+              "engagementCount": 278,
+              "rank": 2,
+              "extra": {
+                "starsToday": 278
+              }
+            },
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+          }
+        },
+        {
+          "title": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "summary": "GoogleChrome/modern-web-guidance-src es un repositorio que contiene el código y la documentación necesarios para la creación, calibración y evaluación de contenidos de guía para los estándares de desarrollo web. Desarrollado con el lenguaje TypeScript, este recurso constituye la infraestructura del proyecto GoogleChrome/modern-web-guidance, que proporciona orientación para aplicaciones web modernas.",
+          "meta": "TypeScript · ★ 1.950 · +159 hoy",
+          "snapshot": {
+            "sourceId": "GoogleChrome/modern-web-guidance-src",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1950,
+              "engagementCount": 159,
+              "rank": 3,
+              "extra": {
+                "starsToday": 159,
+                "baglam": "readme"
+              }
+            },
+            "description": "This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents."
+          }
+        },
+        {
+          "title": "shadcn/improve",
+          "url": "https://github.com/shadcn/improve",
+          "summary": "shadcn/improve ofrece una capacidad de agente (agent skill) que audita la base de código y crea planes para que otros modelos de inteligencia artificial los ejecuten. Esta herramienta tiene como objetivo optimizar los procesos de ejecución de modelos de menor costo permitiendo que modelos más capaces realicen el análisis.",
+          "meta": "★ 11.098 · +361 hoy",
+          "snapshot": {
+            "sourceId": "shadcn/improve",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "popularity": 11098,
+              "engagementCount": 361,
+              "rank": 4,
+              "extra": {
+                "starsToday": 361,
+                "baglam": "readme"
+              }
+            },
+            "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute. An agent skill that audits any codebase and writes implementation plans for other agents to execute."
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "addyosmani/agent-skills es un proyecto de JavaScript que ofrece capacidades de ingeniería (engineering skills) a nivel de producción para agentes de codificación de inteligencia artificial. Su objetivo es estandarizar las habilidades técnicas de los agentes utilizados en los procesos de desarrollo de software.",
+          "meta": "JavaScript · ★ 116.094 · +787 hoy",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 116094,
+              "engagementCount": 787,
+              "rank": 5,
+              "extra": {
+                "starsToday": 787,
+                "baglam": "readme"
+              }
+            },
+            "description": "Production-grade engineering skills for AI coding agents. Production-grade engineering skills for AI coding agents."
+          }
+        },
+        {
+          "title": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "summary": "Desarrollado por Vercel Labs, agent-browser es una interfaz de línea de comandos (CLI) que permite a los agentes de inteligencia artificial realizar operaciones en el navegador. Esta herramienta permite leer páginas como un árbol de accesibilidad (accessibility tree) e interactuar con elementos web a través de la terminal.",
+          "meta": "Rust · ★ 50.011 · +708 hoy",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-browser",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 50011,
+              "engagementCount": 708,
+              "rank": 6,
+              "extra": {
+                "starsToday": 708,
+                "baglam": "readme"
+              }
+            },
+            "description": "Browser automation CLI for AI agents. Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell."
+          }
+        },
+        {
+          "title": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "summary": "Sure, desarrollado con el lenguaje Ruby, es una aplicación de finanzas personales y gestión de activos abierta a todo el público. Basada en el trabajo del equipo de Maybe Finance, un proyecto abandonado, esta aplicación ofrecía la posibilidad de conectar con asesores financieros reales bajo suscripción.",
+          "meta": "Ruby · ★ 13.130 · +1.078 hoy",
+          "snapshot": {
+            "sourceId": "we-promise/sure",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 13130,
+              "engagementCount": 1078,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1078,
+                "baglam": "readme"
+              }
+            },
+            "description": "The personal finance app for everyone (by everyone). The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
+          }
+        },
+        {
+          "title": "homeassistant-ai/ha-mcp",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "summary": "ha-mcp le permite configurar y automatizar la plataforma de hogar inteligente Home Assistant con asistentes de inteligencia artificial como Claude y ChatGPT. Esta herramienta, integrada a través de HACS, funciona con soporte completo de funciones en todos los tipos de instalación de Home Assistant.",
+          "meta": "Python · ★ 7.488 · +645 hoy",
+          "snapshot": {
+            "sourceId": "homeassistant-ai/ha-mcp",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 7488,
+              "engagementCount": 645,
+              "rank": 8,
+              "extra": {
+                "starsToday": 645,
+                "baglam": "readme"
+              }
+            },
+            "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. The recommended way to run ha-mcp is the HA-MCP integration. It installs into Home Assistant through HACS (the built-in Marketplace on Home Assistant 2026.11+), runs the full server in-process, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity."
+          }
+        },
+        {
+          "title": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "Codex-security, desarrollado por OpenAI, ofrece una interfaz de línea de comandos (CLI) y un kit de desarrollo de software (SDK) diseñados para encontrar, verificar y solucionar vulnerabilidades de seguridad. Escrita en el lenguaje TypeScript, esta herramienta tiene como objetivo automatizar los procesos de detección y corrección de vulnerabilidades de seguridad en proyectos de software.",
+          "meta": "TypeScript · ★ 11.891 · +52 hoy",
+          "snapshot": {
+            "sourceId": "openai/codex-security",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11891,
+              "engagementCount": 52,
+              "rank": 9,
+              "extra": {
+                "starsToday": 52
+              }
+            },
+            "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+          }
+        },
+        {
+          "title": "TheAlgorithms/Java",
+          "url": "https://github.com/TheAlgorithms/Java",
+          "summary": "TheAlgorithms/Java es una biblioteca completa que contiene ejemplos de implementación de varios algoritmos escritos en el lenguaje Java. Los usuarios pueden ejecutar, editar o contribuir a estos algoritmos directamente a través del entorno de desarrollo basado en la nube Gitpod.io.",
+          "meta": "Java · ★ 67.115 · +51 hoy",
+          "snapshot": {
+            "sourceId": "TheAlgorithms/Java",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 67115,
+              "engagementCount": 51,
+              "rank": 10,
+              "extra": {
+                "starsToday": 51,
+                "baglam": "readme"
+              }
+            },
+            "description": "All Algorithms implemented in Java. You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tim Peters has died",
+          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "summary": "Tim Peters, quien contribuyó durante muchos años al desarrollo del lenguaje de programación Python y fue el autor del texto Zen of Python que resume la filosofía de Python, ha fallecido. Peters, quien dejó una huella profunda en el mundo del software, era uno de los nombres más conocidos de la comunidad de Python.",
+          "meta": "1.002 puntos · 108 comentarios",
+          "snapshot": {
+            "sourceId": "50450488",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 1002,
+              "engagementCount": 108,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50450488",
+                  "popularity": 1002,
+                  "engagementCount": 108
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-11T07:03:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50450488"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50450488",
+              "popularity": 1002,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "My AI agents found an unmapped Maya site?",
+          "url": "https://pietromiotti.com/latest/maya-site",
+          "summary": "Los agentes de inteligencia artificial detectaron un asentamiento maya oculto bajo la selva analizando datos lidar públicos. Se descubrió que dicha área ya había sido cartografiada por arqueólogos, pero aún no se había registrado en los archivos oficiales de México.",
+          "meta": "953 puntos · 350 comentarios",
+          "snapshot": {
+            "sourceId": "50452455",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 953,
+              "engagementCount": 350,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50452455",
+                  "popularity": 953,
+                  "engagementCount": 350
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-11T12:05:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50452455",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "AI agents analyzed public lidar data overnight and found a Maya site under the jungle. It turned out archaeologists had mapped it already, but it wasn't in Mexico's official register yet."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50452455",
+              "popularity": 953,
+              "engagementCount": 350
+            }
+          ]
+        },
+        {
+          "title": "AWS emulator",
+          "url": "https://github.com/aws/aws-emulator",
+          "summary": "El emulador de AWS es una herramienta que tiene como objetivo imitar la infraestructura del proveedor de servicios de computación en la nube AWS en entornos locales. Permite a los desarrolladores de software probar sus aplicaciones antes de migrarlas al entorno de la nube.",
+          "meta": "759 puntos · 228 comentarios",
+          "snapshot": {
+            "sourceId": "50456631",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 759,
+              "engagementCount": 228,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50456631",
+                  "popularity": 759,
+                  "engagementCount": 228
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-11T18:21:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50456631"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-ai-agent...https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;11&#x2F;aws-emulator-an..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50456631",
+              "popularity": 759,
+              "engagementCount": 228
+            }
+          ]
+        },
+        {
+          "title": "Nvidia is preparing to oust Jensen Huang",
+          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+          "summary": "Según una noticia compartida por el Wall Street Journal, Nvidia se prepara para destituir al director ejecutivo (CEO) de la empresa, Jensen Huang. Este acontecimiento plantea especulaciones sobre cambios en la alta dirección dentro del mundo tecnológico.",
+          "meta": "749 puntos · 1.055 comentarios",
+          "snapshot": {
+            "sourceId": "50459703",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 749,
+              "engagementCount": 1055,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50459703",
+                  "popularity": 749,
+                  "engagementCount": 1055
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-11T22:31:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50459703"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50459703",
+              "popularity": 749,
+              "engagementCount": 1055
+            }
+          ]
+        },
+        {
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "summary": "United Airlines ha prohibido el uso de agentes de inteligencia artificial que realizan reservas de vuelos en nombre de los pasajeros. La aerolínea ha impuesto esta restricción con el fin de prevenir los riesgos que dichos sistemas automatizados pueden generar en los procesos de emisión de billetes.",
+          "meta": "478 puntos · 468 comentarios",
+          "snapshot": {
+            "sourceId": "50458900",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 478,
+              "engagementCount": 468,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50458900",
+                  "popularity": 478,
+                  "engagementCount": 468
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-11T21:24:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50458900"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50458900",
+              "popularity": 478,
+              "engagementCount": 468
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "El modelo de generación de texto (text-generation model) xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic, compartido en Hugging Face, muestra una alta tasa de éxito en las pruebas de matemáticas GSM8K. El modelo supera los resultados del modelo profesor DeepSeek-V4-Pro en las evaluaciones realizadas con la infraestructura vLLM y se acerca a los valores de referencia de Llama-3.3-70B-Instruct.",
+          "meta": "♥ 4.012 · 16.693 descargas",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 4012,
+              "engagementCount": 16693,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2859,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. The NVFP4 checkpoint was evaluated on GSM8K four times, and the resulting scores were averaged. Its four-run mean accuracy is 94.50% under vLLM. In the comparison supplied with this release, the 9B student slightly exceeds the reported DeepSeek-V4-Pro teacher result and approaches the Llama-3.3-70B-Instruct reference."
+          }
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "MiniMax-H3-Image, presentado por MiniMaxAI, es un modelo de inteligencia artificial con capacidad de generación de imágenes a partir de texto (text-to-image). Ofrece documentación de API (un puente digital que permite que dos softwares diferentes se comuniquen entre sí) que incluye funciones de edición de imágenes y expansión de comandos para que los desarrolladores de software puedan integrarlo en sus aplicaciones.",
+          "meta": "♥ 750 · 142.989 descargas",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 750,
+              "engagementCount": 142989,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 725,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          }
+        },
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "speridlabs/idol es una herramienta de inteligencia artificial que crea modelos de splatting gaussiano 3D (3D Gaussian splat) a partir de una sola imagen. Este modelo, que genera resultados en formato de archivo tridimensional estándar, puede ejecutarse en tarjetas gráficas de consumo en menos de dos segundos.",
+          "meta": "♥ 2.158 · 28.250 descargas",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 2158,
+              "engagementCount": 28250,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 485.5,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          }
+        },
+        {
+          "title": "NousResearch/Arete-27B",
+          "url": "https://huggingface.co/NousResearch/Arete-27B",
+          "summary": "Arete-27B, desarrollado por NousResearch, es un trabajo de post-entrenamiento (post-training) realizado sobre el modelo de generación de texto Qwen3.8-27B de Alibaba. Dicho modelo tiene como objetivo reorganizar una arquitectura con sede en China para reforzar los valores occidentales.",
+          "meta": "♥ 442 · 4.023 descargas",
+          "snapshot": {
+            "sourceId": "NousResearch/Arete-27B",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 442,
+              "engagementCount": 4023,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 420,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "safetensors",
+                  "qwen3_5",
+                  "nous-research",
+                  "arete",
+                  "supervised-fine-tuning",
+                  "value-alignment",
+                  "text-generation",
+                  "conversational",
+                  "dataset:NousResearch/arete-data-pairs",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, desarrollado por Lightricks, es un modelo de imagen a video (image-to-video) que convierte imágenes en videos animados. Este modelo, compartido en la plataforma Hugging Face, permite animar contenidos visuales mediante inteligencia artificial.",
+          "meta": "♥ 11.534 · 2.848.771 descargas",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 11534,
+              "engagementCount": 2848771,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 411,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2610.39671",
+          "summary": "El artículo compartido en Hugging Face examina el método de autoaprendizaje (self-learning) para mejorar la capacidad de resolución de problemas de los grandes modelos de lenguaje (LLM) en dominios inusuales. Este enfoque tiene como objetivo que los modelos adquieran información de materiales de referencia extensos, la procesen y la apliquen instantáneamente.",
+          "meta": "7 me gusta · 3 comentarios",
+          "snapshot": {
+            "sourceId": "2610.39671",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 3,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.39671",
+                "publishedAt": "2026-10-29T00:00:00.000Z"
+              }
+            },
+            "description": "Large language models (LLMs) draw on parametric knowledge and retrieval-augmented generation (RAG) to solve knowledge-intensive tasks. Yet problem solving in unfamiliar domains calls for tightly coupled knowledge acquisition and reasoning, beyond factual retrieval and aggregation or learning solely from a preassembled context. We study self-learning -- autonomously retrieving, studying, and applying knowledge from long-form reference materials on the fly. To investigate this capability, we formu"
+          }
+        },
+        {
+          "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2611.13028",
+          "summary": "GTAGym es un entorno y marco de trabajo del juego GTA V desarrollado para evaluar las capacidades de percepción, razonamiento y control de los agentes de inteligencia artificial. La herramienta tiene como objetivo apoyar los procesos de aprendizaje por refuerzo (reinforcement learning) con el conjunto de evaluación (benchmark) GTAVBench derivado de las misiones de la historia principal.",
+          "meta": "7 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2611.13028",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.13028",
+                "publishedAt": "2026-11-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/ljbro/GTAGym",
+                "githubStars": 1
+              }
+            },
+            "description": "AAA games offer a rich testbed for evaluating agent perception, reasoning, and control. However, evaluating whether agents can complete tasks in AAA games is challenging and often human-annotated because task outcomes are often difficult to verify automatically, let alone applying it for Reinforcement Learning (RL). We introduce GTAGym, an environment and framework for evaluation and RL on GTA V tasks. Its evaluation benchmark, GTAVBench, derived from GTA V main-story missions, contains 103 onli"
+          }
+        },
+        {
+          "title": "LO-World: Unified BEV Latent Modeling for Joint 4D Occupancy and LiDAR Forecasting",
+          "url": "https://huggingface.co/papers/2611.11912",
+          "summary": "LO-World predice combinando nubes de puntos LiDAR (LiDAR point clouds) y datos de ocupación semántica 3D (3D semantic occupancy) en un único modelo mundial 4D. Este enfoque tiene como objetivo resolver el problema de independencia en los procesos de predicción procesando dos tipos de datos diferentes de manera que se apoyen mutuamente.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.11912",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.11912",
+                "publishedAt": "2026-11-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/lzzzzzm/LO-World",
+                "githubStars": 5
+              }
+            },
+            "description": "LiDAR point clouds and 3D semantic occupancy represent two distinct modalities capturing fine-grained metric geometry and dense volumetric semantics, respectively, holding natural potential for mutual complementarity. However, existing world models typically forecast these modalities independently or cascade them heuristically, missing the opportunity for reciprocal cross-modal regularization. To address this, we propose LO-World, a unified 4D world model that forecasts both modalities within a "
+          }
+        },
+        {
+          "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
+          "url": "https://huggingface.co/papers/2611.13001",
+          "summary": "One Table Benchmark es una herramienta de evaluación comparativa integral que evalúa las tareas de generación, imputación de datos faltantes y predicción sobre datos tabulares bajo un mismo marco. Este estudio, que abarca 56 conjuntos de datos y 46 métodos diferentes, tiene como objetivo analizar el rendimiento y la interacción de los modelos tabulares de propósito general en estas tres áreas de capacidad distintas.",
+          "meta": "22 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2611.13001",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.13001",
+                "publishedAt": "2026-11-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/limix-ldm-ai/OTBench",
+                "githubStars": 0
+              }
+            },
+            "description": "Generation, imputation, and prediction query different aspects of the same tabular distribution, but are usually evaluated separately. This leaves unclear which capabilities they share, how their training objectives interact, and whether one model can perform all three well. We introduce the One Table Benchmark (), spanning 56 datasets, 46 registered methods, and 20 capability axes under aligned data splits and explicit task contracts. We compare task ranks on aligned support, train five backbon"
+          }
+        },
+        {
+          "title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
+          "url": "https://huggingface.co/papers/2611.14116",
+          "summary": "El artículo titulado Visual Similarity in Adult Word Extension and Artificial Word Learning, compartido por Hugging Face, examina la relación entre la similitud visual de los objetos y el intercambio de nombres. El estudio analiza el efecto de la distancia entre objetos en el aprendizaje de palabras utilizando DINOv2, un codificador visual auto-supervisado.",
+          "meta": "2 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2611.14116",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.14116",
+                "publishedAt": "2026-11-10T00:00:00.000Z"
+              }
+            },
+            "description": "When two objects share a name, how much does their visual similarity explain, and what do the teaching examples add? First, we reanalyzed trial-level data from a large adult word-extension study (Lewis & Frank, 2018), computing each test image's distance to the examples shown in the space of a frozen self-supervised visual encoder (DINOv2). Distance was associated with extension (log odds -3.23 per standard deviation; 520 people), and an exploratory post hoc analysis suggested that this associat"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "Tipo de software cuyo código fuente está abierto para que cualquiera pueda examinarlo, modificarlo y mejorarlo."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con volúmenes masivos de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "agent skill",
+      "explanation": "Habilidad o función especializada que utilizan los agentes de inteligencia artificial para llevar a cabo una tarea específica."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Conjunto de habilidades técnicas, como la escritura de código y el diseño de sistemas, utilizadas en los procesos de desarrollo de software."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que ejecuta programas mediante comandos escritos en lugar de utilizar el ratón."
+    },
+    {
+      "term": "accessibility tree",
+      "explanation": "Estructura jerárquica que permite que los elementos de las páginas web sean comprendidos por tecnologías de asistencia, como los lectores de pantalla."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Conjunto de herramientas y bibliotecas que facilitan a los desarrolladores de software la creación de aplicaciones para una plataforma o sistema específico."
+    },
+    {
+      "term": "CEO",
+      "explanation": "El ejecutivo de mayor rango responsable de todas las actividades operativas de una empresa."
+    },
+    {
+      "term": "text-generation model",
+      "explanation": "Modelo de inteligencia artificial entrenado para generar textos coherentes basados en las instrucciones recibidas."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Tecnología de inteligencia artificial capaz de generar contenido visual a partir de descripciones escritas."
+    },
+    {
+      "term": "post-training",
+      "explanation": "El proceso de mejora adicional realizado después del entrenamiento básico de un modelo de inteligencia artificial para que tenga un mejor desempeño en tareas específicas."
+    },
+    {
+      "term": "image-to-video",
+      "explanation": "Tecnología de inteligencia artificial que analiza imágenes estáticas y las convierte en videos en movimiento."
+    },
+    {
+      "term": "self-learning",
+      "explanation": "Método mediante el cual la inteligencia artificial mejora extrayendo nueva información de sus propias experiencias o datos sin intervención externa."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Conjunto de pruebas estándar utilizadas para medir el rendimiento de un sistema o modelo y compararlo con otros."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "Método de entrenamiento en el que la inteligencia artificial aprende a tomar la decisión correcta mediante prueba y error, utilizando mecanismos de recompensa y castigo."
+    },
+    {
+      "term": "LiDAR point clouds",
+      "explanation": "Conjunto de datos de miles de puntos obtenidos mediante tecnología de escaneo láser que crea la estructura tridimensional de un entorno."
+    }
+  ]
+}

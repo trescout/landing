@@ -1,0 +1,386 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-12",
+  "capturedAt": "2026-11-12T05:17:48.805Z",
+  "editorial": "Content included in the report will not be repeated for 30 days. At the end of this period, records that remain on the agenda will be listed again with the \"back on the agenda\" tag.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tim Peters has died",
+          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "summary": "Tim Peters, who contributed to the development of the Python programming language for many years and authored the Zen of Python text that summarizes Python's philosophy, has passed away. Leaving deep marks in the software world, Peters was one of the most well-known names in the Python community.",
+          "meta": "1,002 points · 108 comments",
+          "snapshot": {
+            "sourceId": "50450488",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 1002,
+              "engagementCount": 108,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50450488",
+                  "popularity": 1002,
+                  "engagementCount": 108
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-11T07:03:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50450488"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50450488",
+              "popularity": 1002,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "My AI agents found an unmapped Maya site?",
+          "url": "https://pietromiotti.com/latest/maya-site",
+          "summary": "Artificial intelligence agents have detected a Maya settlement hidden under the forest by analyzing publicly available lidar data. It was understood that the area in question had been previously mapped by archaeologists but had not yet been entered into Mexico's official records.",
+          "meta": "953 points · 350 comments",
+          "snapshot": {
+            "sourceId": "50452455",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 953,
+              "engagementCount": 350,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50452455",
+                  "popularity": 953,
+                  "engagementCount": 350
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-11T12:05:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50452455",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "AI agents analyzed public lidar data overnight and found a Maya site under the jungle. It turned out archaeologists had mapped it already, but it wasn't in Mexico's official register yet."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50452455",
+              "popularity": 953,
+              "engagementCount": 350
+            }
+          ]
+        },
+        {
+          "title": "AWS emulator",
+          "url": "https://github.com/aws/aws-emulator",
+          "summary": "The AWS emulator is a tool that aims to mimic the infrastructure of the cloud computing service provider AWS in local environments. It allows software developers to test their applications before moving them to the cloud environment.",
+          "meta": "759 points · 228 comments",
+          "snapshot": {
+            "sourceId": "50456631",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 759,
+              "engagementCount": 228,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50456631",
+                  "popularity": 759,
+                  "engagementCount": 228
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-11T18:21:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50456631"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-ai-agent...https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;11&#x2F;aws-emulator-an..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50456631",
+              "popularity": 759,
+              "engagementCount": 228
+            }
+          ]
+        },
+        {
+          "title": "Nvidia is preparing to oust Jensen Huang",
+          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+          "summary": "According to a report shared by the Wall Street Journal, Nvidia is preparing to dismiss the company's Chief Executive Officer (CEO) Jensen Huang. This development brings up allegations of high-level management changes in the technology world.",
+          "meta": "749 points · 1,055 comments",
+          "snapshot": {
+            "sourceId": "50459703",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 749,
+              "engagementCount": 1055,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50459703",
+                  "popularity": 749,
+                  "engagementCount": 1055
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-11T22:31:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50459703"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50459703",
+              "popularity": 749,
+              "engagementCount": 1055
+            }
+          ]
+        },
+        {
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "summary": "United Airlines has banned the use of artificial intelligence agents that book flights on behalf of passengers. The airline company imposed the restriction to prevent the risks that such automated systems might create in ticketing processes.",
+          "meta": "478 points · 468 comments",
+          "snapshot": {
+            "sourceId": "50458900",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 478,
+              "engagementCount": 468,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50458900",
+                  "popularity": 478,
+                  "engagementCount": 468
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-11T21:24:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50458900"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50458900",
+              "popularity": 478,
+              "engagementCount": 468
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "NousResearch/Arete-27B",
+          "url": "https://huggingface.co/NousResearch/Arete-27B",
+          "summary": "Arete-27B, developed by NousResearch, is a post-training study conducted on Alibaba's text-generation model Qwen3.8-27B. The model in question aims to reorganize a China-based architecture to reinforce Western values.",
+          "meta": "♥ 442 · 4,023 downloads",
+          "snapshot": {
+            "sourceId": "NousResearch/Arete-27B",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 442,
+              "engagementCount": 4023,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 420,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "safetensors",
+                  "qwen3_5",
+                  "nous-research",
+                  "arete",
+                  "supervised-fine-tuning",
+                  "value-alignment",
+                  "text-generation",
+                  "conversational",
+                  "dataset:NousResearch/arete-data-pairs",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2610.39671",
+          "summary": "The article shared on Hugging Face examines the self-learning method to improve the problem-solving ability of large language models (LLM) in unconventional areas. This approach aims for models to acquire information from long reference materials, study it, and apply this information in real-time.",
+          "meta": "7 likes · 3 comments",
+          "snapshot": {
+            "sourceId": "2610.39671",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 3,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.39671",
+                "publishedAt": "2026-10-29T00:00:00.000Z"
+              }
+            },
+            "description": "Large language models (LLMs) draw on parametric knowledge and retrieval-augmented generation (RAG) to solve knowledge-intensive tasks. Yet problem solving in unfamiliar domains calls for tightly coupled knowledge acquisition and reasoning, beyond factual retrieval and aggregation or learning solely from a preassembled context. We study self-learning -- autonomously retrieving, studying, and applying knowledge from long-form reference materials on the fly. To investigate this capability, we formu"
+          }
+        },
+        {
+          "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2611.13028",
+          "summary": "GTAGym is a GTA V game environment and framework developed to evaluate the perception, reasoning, and control capabilities of artificial intelligence agents. The tool aims to support reinforcement learning processes with the GTAVBench benchmark set derived from main story missions.",
+          "meta": "7 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2611.13028",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.13028",
+                "publishedAt": "2026-11-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/ljbro/GTAGym",
+                "githubStars": 1
+              }
+            },
+            "description": "AAA games offer a rich testbed for evaluating agent perception, reasoning, and control. However, evaluating whether agents can complete tasks in AAA games is challenging and often human-annotated because task outcomes are often difficult to verify automatically, let alone applying it for Reinforcement Learning (RL). We introduce GTAGym, an environment and framework for evaluation and RL on GTA V tasks. Its evaluation benchmark, GTAVBench, derived from GTA V main-story missions, contains 103 onli"
+          }
+        },
+        {
+          "title": "LO-World: Unified BEV Latent Modeling for Joint 4D Occupancy and LiDAR Forecasting",
+          "url": "https://huggingface.co/papers/2611.11912",
+          "summary": "LO-World predicts by combining LiDAR point clouds and 3D semantic occupancy data into a single 4D world model. This approach aims to resolve the independence problem in prediction processes by processing two different data types in a way that supports each other.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.11912",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.11912",
+                "publishedAt": "2026-11-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/lzzzzzm/LO-World",
+                "githubStars": 5
+              }
+            },
+            "description": "LiDAR point clouds and 3D semantic occupancy represent two distinct modalities capturing fine-grained metric geometry and dense volumetric semantics, respectively, holding natural potential for mutual complementarity. However, existing world models typically forecast these modalities independently or cascade them heuristically, missing the opportunity for reciprocal cross-modal regularization. To address this, we propose LO-World, a unified 4D world model that forecasts both modalities within a "
+          }
+        },
+        {
+          "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
+          "url": "https://huggingface.co/papers/2611.13001",
+          "summary": "One Table Benchmark is a comprehensive benchmarking tool that evaluates generation, imputation, and prediction tasks on tabular data under a single framework. Covering 56 datasets and 46 different methods, this study aims to analyze the performance and interaction of general-purpose tabular models across these three distinct capability areas.",
+          "meta": "22 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2611.13001",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.13001",
+                "publishedAt": "2026-11-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/limix-ldm-ai/OTBench",
+                "githubStars": 0
+              }
+            },
+            "description": "Generation, imputation, and prediction query different aspects of the same tabular distribution, but are usually evaluated separately. This leaves unclear which capabilities they share, how their training objectives interact, and whether one model can perform all three well. We introduce the One Table Benchmark (), spanning 56 datasets, 46 registered methods, and 20 capability axes under aligned data splits and explicit task contracts. We compare task ranks on aligned support, train five backbon"
+          }
+        },
+        {
+          "title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
+          "url": "https://huggingface.co/papers/2611.14116",
+          "summary": "The article titled 'Visual Similarity in Adult Word Extension and Artificial Word Learning', shared by Hugging Face, examines the relationship between the visual similarity of objects and word sharing. The study analyzes the effect of the distance between objects on word learning using the self-supervised visual encoder DINOv2.",
+          "meta": "2 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2611.14116",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.14116",
+                "publishedAt": "2026-11-10T00:00:00.000Z"
+              }
+            },
+            "description": "When two objects share a name, how much does their visual similarity explain, and what do the teaching examples add? First, we reanalyzed trial-level data from a large adult word-extension study (Lewis & Frank, 2018), computing each test image's distance to the examples shown in the space of a frozen self-supervised visual encoder (DINOv2). Distance was associated with extension (log odds -3.23 per standard deviation; 520 people), and an exploratory post hoc analysis suggested that this associat"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "CEO",
+      "explanation": "The highest-ranking executive responsible for all operational activities of a company."
+    },
+    {
+      "term": "post-training",
+      "explanation": "The additional refinement process performed after the initial training of an artificial intelligence model to improve its performance on specific tasks."
+    },
+    {
+      "term": "self-learning",
+      "explanation": "A method by which artificial intelligence improves itself by extracting new information from its own experiences or data without external intervention."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "A set of standard tests used to measure and compare the performance of a system or model against others."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "A training method where artificial intelligence learns to make the most accurate decisions through trial and error, using reward and punishment mechanisms."
+    },
+    {
+      "term": "LiDAR point clouds",
+      "explanation": "A dataset of thousands of points obtained through laser scanning technology that forms the three-dimensional structure of an environment."
+    }
+  ]
+}

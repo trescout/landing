@@ -1,0 +1,814 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-12",
+  "capturedAt": "2026-11-12T05:17:48.805Z",
+  "editorial": "Bugün teknoloji gündeminde yapay zekâ destekli keşif araçları ve büyük dil modellerinin (large language models) özerk öğrenme kapasitelerini artıran pekiştirmeli öğrenme (reinforcement learning) teknikleri öne çıkıyor. Python dilinin mimarlarından Tim Peters'ın kaybı toplulukta derin bir üzüntü yaratırken açık kaynak dünyasında sansürsüz modeller ve görüntü işleme çözümleri hızla çeşitleniyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "summary": "Meta tarafından geliştirilen astryx, insanlar ve yapay zekâ ajanları tarafından kullanılmak üzere tasarlanmış, tamamen özelleştirilebilir bir açık kaynaklı (open source) tasarım sistemidir. TypeScript diliyle yazılan bu sistem, günümüzün iş birliğine dayalı yazılım geliştirme süreçlerine uyum sağlamayı amaçlar.",
+          "meta": "TypeScript · ★ 25.387 · +2.776 bugün",
+          "snapshot": {
+            "sourceId": "meta/astryx",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 25387,
+              "engagementCount": 2776,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2776,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open source design system that's fully customizable and agent ready. An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them."
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis, büyük dil modelleri (LLM) kullanarak birden fazla piyasada hisse senedi analizi yapan otomatik bir sistemdir. Yazılım; piyasa verilerini ve güncel haberleri işleyerek karar destek paneli sunar, ayrıca belirli aralıklarla ücretsiz çalışma imkânı tanır.",
+          "meta": "Python · ★ 70.550 · +278 bugün",
+          "snapshot": {
+            "sourceId": "ZhuLinsen/daily_stock_analysis",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 70550,
+              "engagementCount": 278,
+              "rank": 2,
+              "extra": {
+                "starsToday": 278
+              }
+            },
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "summary": "GoogleChrome/modern-web-guidance-src, web geliştirme standartlarına yönelik rehber içeriklerin oluşturulması, kalibre edilmesi ve değerlendirilmesi için gerekli kod ve dokümantasyonu barındıran bir depodur. TypeScript diliyle geliştirilen bu kaynak, modern web uygulamaları için rehberlik sağlayan GoogleChrome/modern-web-guidance projesinin altyapısını oluşturur.",
+          "meta": "TypeScript · ★ 1.950 · +159 bugün",
+          "snapshot": {
+            "sourceId": "GoogleChrome/modern-web-guidance-src",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1950,
+              "engagementCount": 159,
+              "rank": 3,
+              "extra": {
+                "starsToday": 159,
+                "baglam": "readme"
+              }
+            },
+            "description": "This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "shadcn/improve",
+          "url": "https://github.com/shadcn/improve",
+          "summary": "shadcn/improve, kod tabanını denetleyen ve diğer yapay zekâ modellerinin uygulaması için planlar oluşturan bir ajan yeteneği (agent skill) sunuyor. Bu araç, daha yetenekli modellerin analiz yapmasını sağlayarak daha düşük maliyetli modellerin yürütme süreçlerini optimize etmeyi hedefliyor.",
+          "meta": "★ 11.098 · +361 bugün",
+          "snapshot": {
+            "sourceId": "shadcn/improve",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "popularity": 11098,
+              "engagementCount": 361,
+              "rank": 4,
+              "extra": {
+                "starsToday": 361,
+                "baglam": "readme"
+              }
+            },
+            "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute. An agent skill that audits any codebase and writes implementation plans for other agents to execute."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "addyosmani/agent-skills, yapay zekâ kodlama ajanları için üretim seviyesinde mühendislik yetenekleri (engineering skills) sunan bir JavaScript projesidir. Yazılım geliştirme süreçlerinde kullanılan ajanların teknik becerilerini standartlaştırmayı amaçlar.",
+          "meta": "JavaScript · ★ 116.094 · +787 bugün",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 116094,
+              "engagementCount": 787,
+              "rank": 5,
+              "extra": {
+                "starsToday": 787,
+                "baglam": "readme"
+              }
+            },
+            "description": "Production-grade engineering skills for AI coding agents. Production-grade engineering skills for AI coding agents."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "summary": "Vercel Labs tarafından geliştirilen agent-browser, yapay zekâ ajanlarının tarayıcı üzerinde işlem yapmasını sağlayan bir komut satırı arayüzü (CLI). Bu araç, sayfaları erişilebilirlik ağacı (accessibility tree) olarak okuyup terminal üzerinden web öğeleriyle etkileşime girilmesine imkân tanıyor.",
+          "meta": "Rust · ★ 50.011 · +708 bugün",
+          "snapshot": {
+            "sourceId": "vercel-labs/agent-browser",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 50011,
+              "engagementCount": 708,
+              "rank": 6,
+              "extra": {
+                "starsToday": 708,
+                "baglam": "readme"
+              }
+            },
+            "description": "Browser automation CLI for AI agents. Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell."
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "summary": "Ruby diliyle geliştirilen sure, herkesin kullanımına açık kişisel finans ve varlık yönetimi uygulamasıdır. Terk edilmiş bir proje olan Maybe Finance ekibinin çalışmalarını temel alan bu uygulama, abonelik kapsamında gerçek finansal danışmanlarla bağlantı kurma imkânı sunuyordu.",
+          "meta": "Ruby · ★ 13.130 · +1.078 bugün",
+          "snapshot": {
+            "sourceId": "we-promise/sure",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 13130,
+              "engagementCount": 1078,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1078,
+                "baglam": "readme"
+              }
+            },
+            "description": "The personal finance app for everyone (by everyone). The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "homeassistant-ai/ha-mcp",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "summary": "ha-mcp, akıllı ev platformu Home Assistant'ı Claude ve ChatGPT gibi yapay zekâ asistanları ile yapılandırmanıza ve otomatize etmenize olanak tanır. HACS üzerinden entegre edilen bu araç, tüm Home Assistant kurulum türlerinde tam özellik desteğiyle çalışır.",
+          "meta": "Python · ★ 7.488 · +645 bugün",
+          "snapshot": {
+            "sourceId": "homeassistant-ai/ha-mcp",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 7488,
+              "engagementCount": 645,
+              "rank": 8,
+              "extra": {
+                "starsToday": 645,
+                "baglam": "readme"
+              }
+            },
+            "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. The recommended way to run ha-mcp is the HA-MCP integration. It installs into Home Assistant through HACS (the built-in Marketplace on Home Assistant 2026.11+), runs the full server in-process, and works on every Home Assistant installation type — Home Assistant OS, Supervised, Container, and Core — with full feature parity."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "OpenAI tarafından geliştirilen codex-security, güvenlik açıklarını bulmak, doğrulamak ve gidermek için tasarlanmış bir komut satırı arayüzü (CLI) ve yazılım geliştirme kiti (SDK) sunuyor. TypeScript diliyle yazılan bu araç, yazılım projelerindeki güvenlik zafiyetlerini tespit edip düzeltme süreçlerini otomatikleştirmeyi amaçlıyor.",
+          "meta": "TypeScript · ★ 11.891 · +52 bugün",
+          "snapshot": {
+            "sourceId": "openai/codex-security",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11891,
+              "engagementCount": 52,
+              "rank": 9,
+              "extra": {
+                "starsToday": 52
+              }
+            },
+            "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "TheAlgorithms/Java",
+          "url": "https://github.com/TheAlgorithms/Java",
+          "summary": "TheAlgorithms/Java, Java diliyle yazılmış çeşitli algoritmaların uygulama örneklerini içeren kapsamlı bir kütüphanedir. Kullanıcılar, bulut tabanlı geliştirme ortamı Gitpod.io üzerinden bu algoritmaları doğrudan çalıştırabilir, düzenleyebilir veya projeye katkıda bulunabilir.",
+          "meta": "Java · ★ 67.115 · +51 bugün",
+          "snapshot": {
+            "sourceId": "TheAlgorithms/Java",
+            "capturedAt": "2026-11-12T05:32:50.777Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 67115,
+              "engagementCount": 51,
+              "rank": 10,
+              "extra": {
+                "starsToday": 51,
+                "baglam": "readme"
+              }
+            },
+            "description": "All Algorithms implemented in Java. You can run and edit the algorithms, or contribute to them using Gitpod.io (a free online development environment) with a single click."
+          },
+          "streakDays": 2
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tim Peters has died",
+          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "summary": "Python programlama dilinin geliştirilmesine uzun yıllar katkı sağlayan ve Python'ın felsefesini özetleyen Zen of Python metninin yazarı Tim Peters hayatını kaybetti. Yazılım dünyasında derin izler bırakan Peters, Python topluluğunun en tanınan isimlerinden biriydi.",
+          "meta": "1.002 oy · 108 yorum",
+          "snapshot": {
+            "sourceId": "50450488",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 1002,
+              "engagementCount": 108,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50450488",
+                  "popularity": 1002,
+                  "engagementCount": 108
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-11T07:03:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50450488"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50450488",
+              "popularity": 1002,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "My AI agents found an unmapped Maya site?",
+          "url": "https://pietromiotti.com/latest/maya-site",
+          "summary": "Yapay zekâ ajanları, halka açık lidar verilerini analiz ederek orman altında kalmış bir Maya yerleşimi tespit etti. Söz konusu alanın arkeologlar tarafından daha önce haritalandığı ancak Meksika'nın resmi kayıtlarına henüz işlenmediği anlaşıldı.",
+          "meta": "953 oy · 350 yorum",
+          "snapshot": {
+            "sourceId": "50452455",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 953,
+              "engagementCount": 350,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50452455",
+                  "popularity": 953,
+                  "engagementCount": 350
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-11T12:05:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50452455",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "AI agents analyzed public lidar data overnight and found a Maya site under the jungle. It turned out archaeologists had mapped it already, but it wasn't in Mexico's official register yet."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50452455",
+              "popularity": 953,
+              "engagementCount": 350
+            }
+          ]
+        },
+        {
+          "title": "AWS emulator",
+          "url": "https://github.com/aws/aws-emulator",
+          "summary": "AWS emulator, bulut bilişim hizmetleri sağlayıcısı AWS'nin altyapısını yerel ortamlarda taklit etmeyi amaçlayan bir araçtır. Yazılım geliştiricilerin uygulamalarını bulut ortamına taşımadan önce test etmelerine olanak tanır.",
+          "meta": "759 oy · 228 yorum",
+          "snapshot": {
+            "sourceId": "50456631",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 759,
+              "engagementCount": 228,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50456631",
+                  "popularity": 759,
+                  "engagementCount": 228
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-11T18:21:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50456631"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-ai-agent...https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;11&#x2F;aws-emulator-an..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50456631",
+              "popularity": 759,
+              "engagementCount": 228
+            }
+          ]
+        },
+        {
+          "title": "Nvidia is preparing to oust Jensen Huang",
+          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+          "summary": "Wall Street Journal tarafından paylaşılan bir habere göre Nvidia, şirketin icra kurulu başkanı (CEO) Jensen Huang'ı görevden almaya hazırlanıyor. Bu gelişme, teknoloji dünyasında üst düzey yönetim değişikliği iddialarını gündeme getiriyor.",
+          "meta": "749 oy · 1.055 yorum",
+          "snapshot": {
+            "sourceId": "50459703",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 749,
+              "engagementCount": 1055,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50459703",
+                  "popularity": 749,
+                  "engagementCount": 1055
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-11T22:31:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50459703"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50459703",
+              "popularity": 749,
+              "engagementCount": 1055
+            }
+          ]
+        },
+        {
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "summary": "United Airlines, yolcular adına uçuş rezervasyonu yapan yapay zekâ ajanlarının kullanımını yasakladı. Havayolu şirketi, bu tür otomatik sistemlerin biletleme süreçlerinde oluşturabileceği riskleri önlemek amacıyla kısıtlama getirdi.",
+          "meta": "478 oy · 468 yorum",
+          "snapshot": {
+            "sourceId": "50458900",
+            "capturedAt": "2026-11-12T05:17:49.332Z",
+            "metadata": {
+              "popularity": 478,
+              "engagementCount": 468,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50458900",
+                  "popularity": 478,
+                  "engagementCount": 468
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-11T21:24:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50458900"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50458900",
+              "popularity": 478,
+              "engagementCount": 468
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "Hugging Face üzerinde paylaşılan bir metin üretme modeli (text-generation model) olan xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic, GSM8K matematik testlerinde yüksek başarı oranı sergiliyor. Model, vLLM altyapısıyla yapılan değerlendirmelerde DeepSeek-V4-Pro öğretmen modelinin sonuçlarını geride bırakarak Llama-3.3-70B-Instruct referans değerlerine yaklaşıyor.",
+          "meta": "♥ 4.012 · 16.693 indirme",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 4012,
+              "engagementCount": 16693,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2859,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. The NVFP4 checkpoint was evaluated on GSM8K four times, and the resulting scores were averaged. Its four-run mean accuracy is 94.50% under vLLM. In the comparison supplied with this release, the 9B student slightly exceeds the reported DeepSeek-V4-Pro teacher result and approaches the Llama-3.3-70B-Instruct reference."
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "MiniMaxAI tarafından sunulan MiniMax-H3-Image, metinden görüntü oluşturma (text-to-image) yeteneğine sahip bir yapay zekâ modelidir. Yazılım geliştiricilerin uygulamalarına entegre edebilmesi için görüntü düzenleme ve komut genişletme özelliklerini içeren API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) dokümantasyonu sunar.",
+          "meta": "♥ 750 · 142.989 indirme",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 750,
+              "engagementCount": 142989,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 725,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "speridlabs/idol, tek bir görselden üç boyutlu Gauss sıçratma (3D Gaussian splat) modelleri oluşturan bir yapay zekâ aracıdır. Standart üç boyutlu dosya formatında çıktı veren bu model, tüketici sınıfı ekran kartlarında iki saniyeden kısa sürede çalışabiliyor.",
+          "meta": "♥ 2.158 · 28.250 indirme",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 2158,
+              "engagementCount": 28250,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 485.5,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          },
+          "streakDays": 9
+        },
+        {
+          "title": "NousResearch/Arete-27B",
+          "url": "https://huggingface.co/NousResearch/Arete-27B",
+          "summary": "NousResearch tarafından geliştirilen Arete-27B, Alibaba'nın metin üretme modeli Qwen3.8-27B üzerinde gerçekleştirilen bir eğitim sonrası (post-training) çalışmasıdır. Söz konusu model, Çin merkezli bir mimariyi batı değerlerini pekiştirecek şekilde yeniden düzenlemeyi amaçlıyor.",
+          "meta": "♥ 442 · 4.023 indirme",
+          "snapshot": {
+            "sourceId": "NousResearch/Arete-27B",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 442,
+              "engagementCount": 4023,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 420,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "safetensors",
+                  "qwen3_5",
+                  "nous-research",
+                  "arete",
+                  "supervised-fine-tuning",
+                  "value-alignment",
+                  "text-generation",
+                  "conversational",
+                  "dataset:NousResearch/arete-data-pairs",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Lightricks tarafından geliştirilen LTX-2.5, görselleri hareketli videolara dönüştüren bir görüntüden videoya (image-to-video) modelidir. Hugging Face platformu üzerinde paylaşılan bu model, görsel içeriklerin yapay zekâ aracılığıyla animasyonlaştırılmasını sağlar.",
+          "meta": "♥ 11.534 · 2.848.771 indirme",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-12T05:17:48.877Z",
+            "metadata": {
+              "popularity": 11534,
+              "engagementCount": 2848771,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 411,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2610.39671",
+          "summary": "Hugging Face üzerinde paylaşılan makale, büyük dil modellerinin (LLM) alışılmadık alanlarda problem çözme yeteneğini geliştirmek için öz öğrenme (self-learning) yöntemini inceliyor. Bu yaklaşım, modellerin uzun referans materyallerinden bilgi edinmesini, çalışmasını ve bu bilgiyi anlık olarak uygulamasını hedefliyor.",
+          "meta": "7 beğeni · 3 yorum",
+          "snapshot": {
+            "sourceId": "2610.39671",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 3,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.39671",
+                "publishedAt": "2026-10-29T00:00:00.000Z"
+              }
+            },
+            "description": "Large language models (LLMs) draw on parametric knowledge and retrieval-augmented generation (RAG) to solve knowledge-intensive tasks. Yet problem solving in unfamiliar domains calls for tightly coupled knowledge acquisition and reasoning, beyond factual retrieval and aggregation or learning solely from a preassembled context. We study self-learning -- autonomously retrieving, studying, and applying knowledge from long-form reference materials on the fly. To investigate this capability, we formu"
+          }
+        },
+        {
+          "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2611.13028",
+          "summary": "GTAGym, yapay zekâ ajanlarının algı, muhakeme ve kontrol yeteneklerini değerlendirmek amacıyla geliştirilmiş bir GTA V oyun ortamı ve çerçevesidir. Araç, ana hikâye görevlerinden türetilen GTAVBench kıyaslama seti (benchmark) ile pekiştirmeli öğrenme (reinforcement learning) süreçlerini desteklemeyi hedefler.",
+          "meta": "7 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2611.13028",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.13028",
+                "publishedAt": "2026-11-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/ljbro/GTAGym",
+                "githubStars": 1
+              }
+            },
+            "description": "AAA games offer a rich testbed for evaluating agent perception, reasoning, and control. However, evaluating whether agents can complete tasks in AAA games is challenging and often human-annotated because task outcomes are often difficult to verify automatically, let alone applying it for Reinforcement Learning (RL). We introduce GTAGym, an environment and framework for evaluation and RL on GTA V tasks. Its evaluation benchmark, GTAVBench, derived from GTA V main-story missions, contains 103 onli"
+          }
+        },
+        {
+          "title": "LO-World: Unified BEV Latent Modeling for Joint 4D Occupancy and LiDAR Forecasting",
+          "url": "https://huggingface.co/papers/2611.11912",
+          "summary": "LO-World, LiDAR nokta bulutları (LiDAR point clouds) ile 3B anlamsal doluluk (3D semantic occupancy) verilerini tek bir 4B dünya modelinde birleştirerek tahmin ediyor. Bu yaklaşım, iki farklı veri türünü birbirini destekleyecek şekilde işleyerek tahmin süreçlerindeki bağımsızlık sorununu gidermeyi amaçlıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.11912",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.11912",
+                "publishedAt": "2026-11-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/lzzzzzm/LO-World",
+                "githubStars": 5
+              }
+            },
+            "description": "LiDAR point clouds and 3D semantic occupancy represent two distinct modalities capturing fine-grained metric geometry and dense volumetric semantics, respectively, holding natural potential for mutual complementarity. However, existing world models typically forecast these modalities independently or cascade them heuristically, missing the opportunity for reciprocal cross-modal regularization. To address this, we propose LO-World, a unified 4D world model that forecasts both modalities within a "
+          }
+        },
+        {
+          "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
+          "url": "https://huggingface.co/papers/2611.13001",
+          "summary": "One Table Benchmark, tablo verileri üzerinde gerçekleştirilen üretme (generation), eksik veri tamamlama (imputation) ve tahminleme (prediction) görevlerini tek bir çatı altında değerlendiren kapsamlı bir kıyaslama aracıdır. 56 veri seti ve 46 farklı yöntemi kapsayan bu çalışma, genel amaçlı tablo modellerinin bu üç farklı yetenek alanındaki performansını ve etkileşimini analiz etmeyi hedeflemektedir.",
+          "meta": "22 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2611.13001",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.13001",
+                "publishedAt": "2026-11-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/limix-ldm-ai/OTBench",
+                "githubStars": 0
+              }
+            },
+            "description": "Generation, imputation, and prediction query different aspects of the same tabular distribution, but are usually evaluated separately. This leaves unclear which capabilities they share, how their training objectives interact, and whether one model can perform all three well. We introduce the One Table Benchmark (), spanning 56 datasets, 46 registered methods, and 20 capability axes under aligned data splits and explicit task contracts. We compare task ranks on aligned support, train five backbon"
+          }
+        },
+        {
+          "title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
+          "url": "https://huggingface.co/papers/2611.14116",
+          "summary": "Hugging Face tarafından paylaşılan Visual Similarity in Adult Word Extension and Artificial Word Learning başlıklı makale, nesnelerin görsel benzerliği ile isim paylaşımı arasındaki ilişkiyi inceliyor. Çalışma, öz denetimli görsel kodlayıcı (self-supervised visual encoder) DINOv2 kullanarak nesneler arasındaki mesafenin kelime öğrenme üzerindeki etkisini analiz ediyor.",
+          "meta": "2 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2611.14116",
+            "capturedAt": "2026-11-12T05:17:48.884Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.14116",
+                "publishedAt": "2026-11-10T00:00:00.000Z"
+              }
+            },
+            "description": "When two objects share a name, how much does their visual similarity explain, and what do the teaching examples add? First, we reanalyzed trial-level data from a large adult word-extension study (Lewis & Frank, 2018), computing each test image's distance to the examples shown in the space of a frozen self-supervised visual encoder (DINOv2). Distance was associated with extension (log odds -3.23 per standard deviation; 520 people), and an exploratory post hoc analysis suggested that this associat"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "Kaynak kodları herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yazılım türü."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "agent skill",
+      "explanation": "Yapay zekâ ajanlarının belirli bir görevi yerine getirmek için kullandığı özelleşmiş yetenek veya işlev."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Yazılım geliştirme süreçlerinde kullanılan, kod yazma ve sistem tasarlama gibi teknik beceriler bütünü."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "accessibility tree",
+      "explanation": "Web sayfalarındaki öğelerin ekran okuyucular gibi yardımcı teknolojiler tarafından anlaşılmasını sağlayan hiyerarşik yapı."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılım geliştiricilerin belirli bir platform veya sistem için uygulama oluşturmasını kolaylaştıran araçlar ve kütüphaneler bütünü."
+    },
+    {
+      "term": "CEO",
+      "explanation": "Bir şirketin tüm operasyonel faaliyetlerinden sorumlu olan en üst düzey yönetici."
+    },
+    {
+      "term": "text-generation model",
+      "explanation": "Verilen komutlara göre anlamlı metinler oluşturmak üzere eğitilmiş yapay zekâ modeli."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Yazılı tanımlardan yola çıkarak görsel içerik üretebilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "post-training",
+      "explanation": "Bir yapay zekâ modelinin temel eğitiminden sonra, belirli görevlerde daha iyi performans göstermesi için yapılan ek iyileştirme süreci."
+    },
+    {
+      "term": "image-to-video",
+      "explanation": "Sabit görselleri analiz ederek onları hareketli videolara dönüştüren yapay zekâ teknolojisi."
+    },
+    {
+      "term": "self-learning",
+      "explanation": "Yapay zekânın dışarıdan bir müdahale olmadan, kendi deneyimlerinden veya verilerinden yeni bilgiler çıkararak gelişmesi yöntemi."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Bir sistemin veya modelin performansını ölçmek ve diğerleriyle karşılaştırmak için kullanılan standart testler bütünü."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "Yapay zekânın deneme yanılma yoluyla, ödül ve ceza mekanizmalarını kullanarak en doğru kararı vermeyi öğrendiği eğitim yöntemi."
+    },
+    {
+      "term": "LiDAR point clouds",
+      "explanation": "Lazer tarama teknolojisiyle elde edilen, bir ortamın üç boyutlu yapısını oluşturan binlerce noktalı veri kümesi."
+    }
+  ]
+}
