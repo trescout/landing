@@ -2,16 +2,16 @@
 
 Le téléchargeur Douyin basé sur Python est un outil permettant d'enregistrer des vidéos, des albums photo et de la musique depuis la plateforme de médias sociaux Douyin sur un ordinateur sans filigrane. Le logiciel automatise le processus d'archivage de contenu grâce à la prise en charge du téléchargement par lots, à la prévention des enregistrements en double basée sur SQLite et aux fonctionnalités de sauvegarde du navigateur.
 
-- ★ 12 583
+- ★ 12 607
 - Python
 - GitHub Trending · 2026-09-14
 
 ## Mises à jour
 
+- **13 novembre 2026:** Étoiles 12,583 → 12,607, dernière version desktop-v0.13.0 (13 novembre 2026).
 - **10 novembre 2026:** Étoiles 12,576 → 12,583, dernière version desktop-v0.12.11 (9 novembre 2026).
 - **9 novembre 2026:** Étoiles 12,576 → 12,576, dernière version desktop-v0.12.10 (9 novembre 2026).
 - **9 novembre 2026:** Étoiles 12,218 → 12,576, dernière version desktop-v0.12.9 (9 novembre 2026).
-- **8 octobre 2026:** Étoiles 12,204 → 12,218, dernière version desktop-v0.12.5 (8 octobre 2026).
 
 ## Ce que ça vous apporte
 

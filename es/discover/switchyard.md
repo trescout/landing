@@ -59,8 +59,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [Inference](https://trescout.com/es/dictionary/inference/)
 - [Runtime](https://trescout.com/es/dictionary/runtime/)
+- [Inference](https://trescout.com/es/dictionary/inference/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
 - [API](https://trescout.com/es/dictionary/api/)

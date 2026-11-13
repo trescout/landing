@@ -59,8 +59,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [Inference](https://trescout.com/pt/dictionary/inference/)
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
+- [Inference](https://trescout.com/pt/dictionary/inference/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
 - [API](https://trescout.com/pt/dictionary/api/)

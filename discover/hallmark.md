@@ -2,16 +2,16 @@
 
 Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasarım üzerindeki etkisini azaltmak amacıyla geliştirilen bir stil dosyasıdır. Claude Code, Cursor ve Codex gibi araçlarda kullanılan arayüzlerin özgün ve insani bir estetik kazanmasını sağlar.
 
-- ★ 51.123
+- ★ 54.122
 - CSS
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
 
+- **13 Kasım 2026:** Yıldız 51.123 → 54.122.
 - **9 Kasım 2026:** Yıldız 48.121 → 51.123.
 - **5 Kasım 2026:** Yıldız 45.315 → 48.121.
 - **2 Kasım 2026:** Yıldız 42.225 → 45.315.
-- **30 Ekim 2026:** Yıldız 39.590 → 42.225.
 
 ## Ne kazandırır?
 

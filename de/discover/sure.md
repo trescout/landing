@@ -2,12 +2,13 @@
 
 Sure, entwickelt mit der Sprache Ruby, ist eine Open-Source-Anwendung für die persönliche Finanz- und Vermögensverwaltung, die für jeden zugänglich ist. Dieses Projekt wurde als Open-Source-Plattform konzipiert und bietet Funktionen, die es Benutzern ermöglichen, direkt mit Finanzberatern (CFP/CFA) in Kontakt zu treten.
 
-- ★ 13.144
+- ★ 14.107
 - Ruby
 - GitHub Trending · 2026-11-10
 
 ## Aktualisierungen
 
+- **13. November 2026:** Sterne 13,144 → 14,107, neueste Version v0.7.6-hotfix.1 (12. November 2026).
 - **12. November 2026:** Sterne 11,807 → 13,144, neueste Version v0.7.6 (31. Oktober 2026).
 - **10. November 2026:** Sterne 11,784 → 11,807, neueste Version v0.7.6 (31. Oktober 2026).
 

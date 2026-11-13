@@ -59,8 +59,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [Inference](https://trescout.com/en/dictionary/inference/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
+- [Inference](https://trescout.com/en/dictionary/inference/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
 - [API](https://trescout.com/en/dictionary/api/)

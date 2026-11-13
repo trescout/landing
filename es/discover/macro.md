@@ -2,16 +2,16 @@
 
 Macro es un espacio de trabajo que combina herramientas empresariales como correo electrónico, chat, documentos y gestión de tareas con una memoria de inteligencia artificial común. Desarrollada con el lenguaje Rust, esta plataforma conecta diferentes flujos de trabajo en una única interfaz.
 
-- ★ 6.247
+- ★ 6.289
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Actualizaciones
 
+- **13 de noviembre de 2026:** Estrellas 6,247 → 6,289, última versión v2026.11.12.0 (12 de noviembre de 2026).
 - **11 de noviembre de 2026:** Estrellas 6,186 → 6,247, última versión v2026.11.10.1 (11 de noviembre de 2026).
 - **7 de noviembre de 2026:** Estrellas 6,175 → 6,186, última versión v2026.11.6.1 (7 de noviembre de 2026).
 - **6 de noviembre de 2026:** Estrellas 6,129 → 6,175, última versión v2026.11.5.0 (5 de noviembre de 2026).
-- **4 de noviembre de 2026:** Estrellas 6,099 → 6,129, última versión v2026.11.3.1 (4 de noviembre de 2026).
 
 ## Qué aporta
 

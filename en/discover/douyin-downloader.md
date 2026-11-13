@@ -2,16 +2,16 @@
 
 The Python-based Douyin downloader is a tool used to save videos, photo albums, and music from the social media platform Douyin to a computer without watermarks. The software automates the content archiving process with features such as batch download support, SQLite-based duplicate prevention, and browser backup.
 
-- ★ 12,583
+- ★ 12,607
 - Python
 - GitHub Trending · 2026-09-14
 
 ## Updates
 
+- **November 13, 2026:** Stars 12,583 → 12,607, latest release desktop-v0.13.0 (November 13, 2026).
 - **November 10, 2026:** Stars 12,576 → 12,583, latest release desktop-v0.12.11 (November 9, 2026).
 - **November 9, 2026:** Stars 12,576 → 12,576, latest release desktop-v0.12.10 (November 9, 2026).
 - **November 9, 2026:** Stars 12,218 → 12,576, latest release desktop-v0.12.9 (November 9, 2026).
-- **October 8, 2026:** Stars 12,204 → 12,218, latest release desktop-v0.12.5 (October 8, 2026).
 
 ## What you get
 

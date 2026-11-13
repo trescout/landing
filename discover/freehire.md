@@ -2,16 +2,16 @@
 
 Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir arama motorudur. Kullanıcıların iş ilanlarını taramasına ve bulmasına olanak tanıyan bir platform sunar.
 
-- ★ 3.496
+- ★ 3.510
 - Go
 - GitHub Trending · 2026-10-22
 
 ## Güncelleme
 
+- **13 Kasım 2026:** Yıldız 3.496 → 3.510, son sürüm deploy-20261112-2320 (12 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 3.493 → 3.496, son sürüm deploy-20261112-0834 (12 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 3.476 → 3.493, son sürüm deploy-20261112-0535 (12 Kasım 2026).
 - **11 Kasım 2026:** Yıldız 3.467 → 3.476, son sürüm deploy-20261111-0149 (11 Kasım 2026).
-- **10 Kasım 2026:** Yıldız 3.462 → 3.467, son sürüm deploy-20261110-1315 (10 Kasım 2026).
 
 ## Ne kazandırır?
 

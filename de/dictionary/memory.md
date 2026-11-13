@@ -40,8 +40,8 @@ Auf den meisten Systemen können Sie diese Daten mit dem Befehl „Speicher lös
 
 ## Verwandte Werkzeuge
 
-- [Hindsight](https://trescout.com/de/discover/hindsight/)
 - [Mempalace](https://trescout.com/de/discover/mempalace/)
+- [Hindsight](https://trescout.com/de/discover/hindsight/)
 - [Cognee](https://trescout.com/de/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/de/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/de/discover/ai-memory/)

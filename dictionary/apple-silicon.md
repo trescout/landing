@@ -72,6 +72,7 @@ Evet, macOS işletim sistemine entegre gelen Rosetta 2 çeviri motoru sayesinde 
 - [Omlx](https://trescout.com/discover/omlx/)
 - [Palmier Pro](https://trescout.com/discover/palmier-pro/)
 - [Openmed](https://trescout.com/discover/openmed/)
+- [TensorFold](https://trescout.com/discover/tensorfold/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

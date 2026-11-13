@@ -2,12 +2,13 @@
 
 Das von Vercel Labs entwickelte agent-browser ist eine Befehlszeilenschnittstelle (CLI), die Browser-Automatisierung für KI-Agenten bereitstellt. Das in Rust geschriebene Tool liest Seiten als Barrierefreiheitsbaum (Accessibility Tree) und ermöglicht die Interaktion mit Web-Elementen über die Befehlszeile.
 
-- ★ 48.777
+- ★ 50.405
 - Rust
 - GitHub Trending · 2026-11-06
 
 ## Aktualisierungen
 
+- **13. November 2026:** Sterne 48,777 → 50,405, neueste Version v0.43.0 (12. November 2026).
 - **10. November 2026:** Sterne 46,036 → 48,777, neueste Version v0.42.0 (10. November 2026).
 - **6. November 2026:** Sterne 46,027 → 46,036, neueste Version v0.41.2 (3. November 2026).
 

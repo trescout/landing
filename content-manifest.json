@@ -1,8 +1,8 @@
 {
   "schema_version": "1.1.0",
-  "generated_at": "2026-11-12T08:56:34.160614+00:00",
-  "source_git_commit": "65f97ac03229a7ce78535e28ea3a6095c1193a1e",
-  "content_version": "2026-11-12",
+  "generated_at": "2026-11-13T06:14:17.433507+00:00",
+  "source_git_commit": "84065e757a22febb1bac9dad4dcd2ebec6d5456c",
+  "content_version": "2026-11-13",
   "locales": [
     "tr",
     "en",
@@ -12,59 +12,59 @@
     "de"
   ],
   "summary": {
-    "discover_tools_count": 691,
-    "dictionary_terms_count": 821,
-    "reports_count": 1896,
-    "fresh_report_pages_count": 148,
-    "reports_pdf_count": 1674,
-    "total_html_pages": 11017,
-    "locale_page_instances": 11017
+    "discover_tools_count": 694,
+    "dictionary_terms_count": 823,
+    "reports_count": 1908,
+    "fresh_report_pages_count": 149,
+    "reports_pdf_count": 1686,
+    "total_html_pages": 11059,
+    "locale_page_instances": 11059
   },
   "locale_breakdown": {
     "tr": {
-      "dictionary_html": 822,
-      "discover_html": 692,
-      "reports_html": 318,
-      "total_html": 1837
+      "dictionary_html": 824,
+      "discover_html": 695,
+      "reports_html": 320,
+      "total_html": 1844
     },
     "en": {
-      "dictionary_html": 822,
-      "discover_html": 692,
-      "reports_html": 318,
-      "total_html": 1836
+      "dictionary_html": 824,
+      "discover_html": 695,
+      "reports_html": 320,
+      "total_html": 1843
     },
     "fr": {
-      "dictionary_html": 822,
-      "discover_html": 692,
-      "reports_html": 318,
-      "total_html": 1836
+      "dictionary_html": 824,
+      "discover_html": 695,
+      "reports_html": 320,
+      "total_html": 1843
     },
     "pt": {
-      "dictionary_html": 822,
-      "discover_html": 692,
-      "reports_html": 318,
-      "total_html": 1836
+      "dictionary_html": 824,
+      "discover_html": 695,
+      "reports_html": 320,
+      "total_html": 1843
     },
     "es": {
-      "dictionary_html": 822,
-      "discover_html": 692,
-      "reports_html": 318,
-      "total_html": 1836
+      "dictionary_html": 824,
+      "discover_html": 695,
+      "reports_html": 320,
+      "total_html": 1843
     },
     "de": {
-      "dictionary_html": 822,
-      "discover_html": 692,
-      "reports_html": 318,
-      "total_html": 1836
+      "dictionary_html": 824,
+      "discover_html": 695,
+      "reports_html": 320,
+      "total_html": 1843
     }
   },
   "integrity_checksums": {
-    "assets/discover/catalog.json": "091d7d0d07e211163c9abe94ff69b5e14b907c97e9a45a18126f7cf4bc503a65",
-    "assets/dictionary/dictionary.json": "9d1739abeab6c076a2620a4f4ea31827451a6ad9d0f689343a668d1182b03889",
-    "sitemap.xml": "b2103ef278f1edb484d5917c591aeab93483fdff8d78a61c2264dc5d3e45d3dc",
-    "llms.txt": "b067defe86bad5037eb6153546b67dd1f12e9df6ada202d5ab7890d0166ef897",
-    "llms-full.txt": "65d6d10b175ae74bfb54b8889d2d55f01d872b768e20239dec306acee6fec6e7",
-    "llms-en.txt": "6a4a0648eb4beb3283de7dad3238635322155ebf3831d2cc387bb15510fed7e5",
+    "assets/discover/catalog.json": "a27f0a7a452292724444ee254397849ac12077cefa180444b61cf249dd45fb3f",
+    "assets/dictionary/dictionary.json": "7f317e6666e9f67cb7e1cf10c6e0386b9f75724b5e0c96af8f1159378a35b440",
+    "sitemap.xml": "e66f2133873ef14197539ddfd624e1504ead692be6731f114009ae78b8cc3f5c",
+    "llms.txt": "04ff1edafdc393c8bedfaff0ec74298519ed575b15b6de2414ead5c7e6f9ec00",
+    "llms-full.txt": "df56f022d78b4e22de28f49c1614bf7251905432b6fd42e0befd6ebb4c1360a9",
+    "llms-en.txt": "3fbafda896d9813b4f863cfb7547e04c24f5cce35c48c3b34d171bbc830c531c",
     "vercel.json": "2e428a5fc9f9c63f6757a18902c0d67fc549f568d507e3ae682972e245e9b532"
   }
 }

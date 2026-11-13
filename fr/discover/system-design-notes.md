@@ -2,15 +2,15 @@
 
 Les notes compilées à partir du livre « System Design Interview - An Insider's Guide » offrent une ressource complète pour comprendre les architectures logicielles complexes. Elles expliquent les processus de conception de systèmes évolutifs (system design) et les principes fondamentaux de l'ingénierie avec des exemples pratiques.
 
-- ★ 26 887
+- ★ 28 298
 - GitHub Trending · 2026-09-09
 
 ## Mises à jour
 
+- **13 novembre 2026:** Étoiles 26,887 → 28,298.
 - **24 octobre 2026:** Étoiles 25,606 → 26,887.
 - **10 octobre 2026:** Étoiles 24,205 → 25,606.
 - **8 octobre 2026:** Étoiles 22,766 → 24,205.
-- **2 octobre 2026:** Étoiles 21,598 → 22,766.
 
 ## Ce que ça vous apporte
 

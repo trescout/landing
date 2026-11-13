@@ -2,15 +2,15 @@
 
 Die aus dem Buch „System Design Interview – An Insider's Guide“ zusammengestellten Notizen bieten eine umfassende Ressource zum Verständnis komplexer Softwarearchitekturen. Sie erläutern Prozesse für skalierbares Systemdesign und grundlegende technische Prinzipien anhand praktischer Beispiele.
 
-- ★ 26.887
+- ★ 28.298
 - GitHub Trending · 2026-09-09
 
 ## Aktualisierungen
 
+- **13. November 2026:** Sterne 26,887 → 28,298.
 - **24. Oktober 2026:** Sterne 25,606 → 26,887.
 - **10. Oktober 2026:** Sterne 24,205 → 25,606.
 - **8. Oktober 2026:** Sterne 22,766 → 24,205.
-- **2. Oktober 2026:** Sterne 21,598 → 22,766.
 
 ## Was es bringt
 

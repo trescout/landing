@@ -40,8 +40,8 @@ En la mayoría de los sistemas, puede eliminar estos datos con el comando "borra
 
 ## Herramientas relacionadas
 
-- [Hindsight](https://trescout.com/es/discover/hindsight/)
 - [Mempalace](https://trescout.com/es/discover/mempalace/)
+- [Hindsight](https://trescout.com/es/discover/hindsight/)
 - [Cognee](https://trescout.com/es/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/es/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/es/discover/ai-memory/)

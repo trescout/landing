@@ -2,12 +2,13 @@
 
 Rust se destaca como un lenguaje de programación de sistemas orientado al desarrollo de software confiable y eficiente. Adoptado por una amplia comunidad de usuarios, este lenguaje proporciona la infraestructura necesaria para aplicaciones enfocadas en el rendimiento.
 
-- ★ 120.404
+- ★ 121.869
 - Rust
 - GitHub Trending · 2026-10-15
 
 ## Actualizaciones
 
+- **13 de noviembre de 2026:** Estrellas 120,404 → 121,869, última versión 1.100.0 (12 de noviembre de 2026).
 - **16 de octubre de 2026:** Estrellas 120,232 → 120,404, última versión 1.99.1 (16 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 120,224 → 120,232, última versión 1.99.0 (1 de octubre de 2026).
 

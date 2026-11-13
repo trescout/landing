@@ -2,12 +2,13 @@
 
 Esta guía visual de Claude Code ofrece una amplia gama de ejemplos, desde conceptos básicos hasta configuraciones avanzadas de agentes. Su objetivo es acelerar los procesos de codificación de los usuarios y estandarizar las prácticas de desarrollo de aplicaciones a través de plantillas copiables.
 
-- ★ 45.924
+- ★ 47.092
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Actualizaciones
 
+- **13 de noviembre de 2026:** Estrellas 45,924 → 47,092, última versión v2.1.322 (12 de noviembre de 2026).
 - **29 de octubre de 2026:** Estrellas 43,681 → 45,924, última versión v2.1.160 (2 de junio de 2026).
 - **23 de octubre de 2026:** Estrellas 40,779 → 43,681, última versión v2.1.160 (2 de junio de 2026).
 - **2 de agosto de 2026:** Estrellas 36,008 → 40,779, última versión v2.1.160 (2 de junio de 2026).

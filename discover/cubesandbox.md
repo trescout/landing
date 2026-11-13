@@ -2,16 +2,16 @@
 
 TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için anlık, eş zamanlı ve güvenli bir çalışma ortamı (sandbox) sunuyor. Hafif yapısıyla dikkat çeken bu araç, ajan tabanlı sistemlerin yalıtılmış bir alanda çalışmasını sağlıyor.
 
-- ★ 12.892
+- ★ 13.237
 - Rust
 - GitHub Trending · 2026-07-02
 
 ## Güncelleme
 
+- **13 Kasım 2026:** Yıldız 12.892 → 13.237, son sürüm v0.8.0 (12 Kasım 2026).
 - **12 Ekim 2026:** Yıldız 12.714 → 12.892, son sürüm v0.7.3 (12 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 12.161 → 12.714, son sürüm v0.7.2 (24 Eylül 2026).
 - **11 Eylül 2026:** Yıldız 11.512 → 12.161, son sürüm v0.7.1 (11 Eylül 2026).
-- **31 Ağustos 2026:** Yıldız 10.828 → 11.512, son sürüm v0.7.0 (28 Ağustos 2026).
 
 ## Ne kazandırır?
 

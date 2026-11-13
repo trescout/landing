@@ -2,16 +2,16 @@
 
 Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama veya geliştirme ortamı (IDE) üzerinden ücretsiz erişim sağlıyor. Bu açık kaynaklı araç, OpenClaw gibi sesli komut desteği sunan platformlarla entegre çalışarak kullanıcıların yapay zekâ yeteneklerini farklı cihazlarda kullanmasına imkân tanıyor.
 
-- ★ 68.783
+- ★ 69.481
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Güncelleme
 
+- **13 Kasım 2026:** Yıldız 68.783 → 69.481, son sürüm v6.19.11 (12 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 68.750 → 68.783, son sürüm v6.19.10 (12 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 67.774 → 68.750, son sürüm v6.19.9 (12 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 67.431 → 67.774, son sürüm v6.19.6 (10 Kasım 2026).
-- **9 Kasım 2026:** Yıldız 67.241 → 67.431, son sürüm v6.19.3 (8 Kasım 2026).
 
 ## Ne kazandırır?
 

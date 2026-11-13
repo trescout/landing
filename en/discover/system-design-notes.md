@@ -2,15 +2,15 @@
 
 Notes compiled from the book 'System Design Interview - An Insider's Guide' offer a comprehensive resource for understanding complex software architectures. It explains scalable system design processes and fundamental engineering principles with practical examples.
 
-- ★ 26,887
+- ★ 28,298
 - GitHub Trending · 2026-09-09
 
 ## Updates
 
+- **November 13, 2026:** Stars 26,887 → 28,298.
 - **October 24, 2026:** Stars 25,606 → 26,887.
 - **October 10, 2026:** Stars 24,205 → 25,606.
 - **October 8, 2026:** Stars 22,766 → 24,205.
-- **October 2, 2026:** Stars 21,598 → 22,766.
 
 ## What you get
 

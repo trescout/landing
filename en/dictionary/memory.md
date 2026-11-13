@@ -40,8 +40,8 @@ On most systems you can delete this data with the 'clear memory' or 'forget' com
 
 ## Related tools
 
-- [Hindsight](https://trescout.com/en/discover/hindsight/)
 - [Mempalace](https://trescout.com/en/discover/mempalace/)
+- [Hindsight](https://trescout.com/en/discover/hindsight/)
 - [Cognee](https://trescout.com/en/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/en/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/en/discover/ai-memory/)

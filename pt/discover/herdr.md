@@ -45,8 +45,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Agent Multiplexer](https://trescout.com/pt/dictionary/agent-multiplexer/)
-- [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [Agent](https://trescout.com/pt/dictionary/agent/)
+- [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

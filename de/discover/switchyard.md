@@ -59,8 +59,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Inference](https://trescout.com/de/dictionary/inference/)
 - [Runtime](https://trescout.com/de/dictionary/runtime/)
+- [Inference](https://trescout.com/de/dictionary/inference/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
 - [API](https://trescout.com/de/dictionary/api/)

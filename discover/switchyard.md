@@ -68,8 +68,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Inference](https://trescout.com/dictionary/inference/)
 - [Runtime](https://trescout.com/dictionary/runtime/)
+- [Inference](https://trescout.com/dictionary/inference/)
 - [LLM](https://trescout.com/dictionary/llm/)
 - [Rust](https://trescout.com/dictionary/rust/)
 - [API](https://trescout.com/dictionary/api/)

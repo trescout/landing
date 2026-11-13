@@ -59,8 +59,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Inference](https://trescout.com/fr/dictionary/inference/)
 - [Runtime](https://trescout.com/fr/dictionary/runtime/)
+- [Inference](https://trescout.com/fr/dictionary/inference/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
 - [API](https://trescout.com/fr/dictionary/api/)

@@ -2,16 +2,16 @@
 
 Développé par NVIDIA, SkillSpector est un outil d'analyse qui détecte les vulnérabilités et les modèles malveillants dans les packages de compétences des agents d'intelligence artificielle. Ce logiciel basé sur Python vise à analyser les risques de sécurité rencontrés lors du processus de développement de systèmes basés sur des agents.
 
-- ★ 24 403
+- ★ 25 734
 - Python
 - GitHub Trending · 2026-06-12
 
 ## Mises à jour
 
+- **13 novembre 2026:** Étoiles 24,403 → 25,734, dernière version v2.13.4 (4 novembre 2026).
 - **5 novembre 2026:** Étoiles 23,906 → 24,403, dernière version v2.13.4 (4 novembre 2026).
 - **2 novembre 2026:** Étoiles 23,142 → 23,906, dernière version v2.13.3 (2 novembre 2026).
 - **29 octobre 2026:** Étoiles 22,512 → 23,142, dernière version v2.13.2 (28 octobre 2026).
-- **27 octobre 2026:** Étoiles 21,040 → 22,512, dernière version v2.13.1 (23 octobre 2026).
 
 ## Ce que ça vous apporte
 

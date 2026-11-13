@@ -69,6 +69,10 @@ Practical for distribution, not mandatory. Web and enterprise distribution are a
 - [GUI](https://trescout.com/en/dictionary/gui/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
 
+## Related tools
+
+- [TensorFold](https://trescout.com/en/discover/tensorfold/)
+
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/application/)
 
 ---

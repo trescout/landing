@@ -40,8 +40,8 @@ Na maioria dos sistemas você pode excluir esses dados com o comando ‘clear me
 
 ## Ferramentas relacionadas
 
-- [Hindsight](https://trescout.com/pt/discover/hindsight/)
 - [Mempalace](https://trescout.com/pt/discover/mempalace/)
+- [Hindsight](https://trescout.com/pt/discover/hindsight/)
 - [Cognee](https://trescout.com/pt/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/pt/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/pt/discover/ai-memory/)

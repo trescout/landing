@@ -2,15 +2,15 @@
 
 Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.
 
-- ★ 38.739
+- ★ 38.874
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
 
+- **13 Kasım 2026:** Yıldız 38.739 → 38.874, son sürüm v18.20.0 (12 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 38.628 → 38.739, son sürüm v18.19.0 (12 Kasım 2026).
 - **11 Kasım 2026:** Yıldız 38.561 → 38.628, son sürüm v18.18.8 (11 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 38.491 → 38.561, son sürüm v18.18.7 (10 Kasım 2026).
-- **10 Kasım 2026:** Yıldız 38.311 → 38.491, son sürüm v18.18.6 (9 Kasım 2026).
 
 ## Ne kazandırır?
 
@@ -76,8 +76,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [AI Coding Agent](https://trescout.com/dictionary/ai-coding-agent/)
 - [Coding Agent](https://trescout.com/dictionary/coding-agent/)
 - [IDE](https://trescout.com/dictionary/ide/)
-- [Terminal](https://trescout.com/dictionary/terminal/)
 - [Agent](https://trescout.com/dictionary/agent/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/oh-my-pi/

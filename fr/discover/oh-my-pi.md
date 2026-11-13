@@ -2,15 +2,15 @@
 
 Oh-my-pi est un agent de codage d'intelligence artificielle qui s'exécute dans un environnement de terminal et automatise les processus d'édition de code. L'outil vise à optimiser les flux de travail de développement logiciel avec des fonctionnalités telles que le protocole de serveur de langage (LSP), l'intégration du navigateur et la gestion des sous-agents.
 
-- ★ 38 739
+- ★ 38 874
 - GitHub Trending · 2026-06-02
 
 ## Mises à jour
 
+- **13 novembre 2026:** Étoiles 38,739 → 38,874, dernière version v18.20.0 (12 novembre 2026).
 - **12 novembre 2026:** Étoiles 38,628 → 38,739, dernière version v18.19.0 (12 novembre 2026).
 - **11 novembre 2026:** Étoiles 38,561 → 38,628, dernière version v18.18.8 (11 novembre 2026).
 - **10 novembre 2026:** Étoiles 38,491 → 38,561, dernière version v18.18.7 (10 novembre 2026).
-- **10 novembre 2026:** Étoiles 38,311 → 38,491, dernière version v18.18.6 (9 novembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -67,8 +67,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [AI Coding Agent](https://trescout.com/fr/dictionary/ai-coding-agent/)
 - [Coding Agent](https://trescout.com/fr/dictionary/coding-agent/)
 - [IDE](https://trescout.com/fr/dictionary/ide/)
-- [Terminal](https://trescout.com/fr/dictionary/terminal/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
+- [Terminal](https://trescout.com/fr/dictionary/terminal/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui souhaitent automatiser leurs processus de développement de code via le terminal et accélérer le flux de travail avec un agent de codage pris en charge par l'intelligence artificielle.
 - **Licence:** MIT

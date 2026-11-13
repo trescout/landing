@@ -2,15 +2,15 @@
 
 Las notas recopiladas del libro 'System Design Interview - An Insider's Guide' ofrecen un recurso integral para comprender arquitecturas de software complejas. Explica los procesos de diseño de sistemas escalables y los principios fundamentales de ingeniería con ejemplos prácticos.
 
-- ★ 26.887
+- ★ 28.298
 - GitHub Trending · 2026-09-09
 
 ## Actualizaciones
 
+- **13 de noviembre de 2026:** Estrellas 26,887 → 28,298.
 - **24 de octubre de 2026:** Estrellas 25,606 → 26,887.
 - **10 de octubre de 2026:** Estrellas 24,205 → 25,606.
 - **8 de octubre de 2026:** Estrellas 22,766 → 24,205.
-- **2 de octubre de 2026:** Estrellas 21,598 → 22,766.
 
 ## Qué aporta
 

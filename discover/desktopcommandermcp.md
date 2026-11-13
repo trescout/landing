@@ -2,16 +2,16 @@
 
 DesktopCommanderMCP, Claude için geliştirilen ve yapay zekâ modeline uçbirim denetimi (terminal control), dosya sistemi araması ve fark tabanlı dosya düzenleme (diff file editing) yetenekleri kazandıran bir Model Bağlantı Protokolü (Model Context Protocol) sunucusudur. TypeScript ile yazılan bu araç, yapay zekânın yerel dosya sistemleri üzerinde doğrudan işlem yapabilmesini sağlar.
 
-- ★ 10.280
+- ★ 10.299
 - TypeScript
 - GitHub Trending · 2026-07-09
 
 ## Güncelleme
 
+- **13 Kasım 2026:** Yıldız 10.280 → 10.299, son sürüm v0.3.3 (12 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 10.088 → 10.280, son sürüm v0.3.2 (10 Kasım 2026).
 - **22 Ekim 2026:** Yıldız 10.028 → 10.088, son sürüm v0.3.1 (22 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 9.830 → 10.028, son sürüm v0.3.0 (13 Ekim 2026).
-- **29 Eylül 2026:** Yıldız 9.633 → 9.830, son sürüm v0.2.52 (29 Eylül 2026).
 
 ## Ne kazandırır?
 

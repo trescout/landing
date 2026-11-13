@@ -2,16 +2,16 @@
 
 LobeHub ermöglicht den Aufbau eines KI-Teams, das 24 Stunden am Tag, 7 Tage die Woche arbeitet, indem es Agenten der künstlichen Intelligenz durch Rekrutierungs-, Planungs- und Berichterstellungsprozesse verwaltet. Die Plattform bietet eine Verwaltungsschnittstelle, die Arbeitsabläufe automatisiert, indem verschiedene Agenten von einem einzigen Zentrum aus organisiert werden.
 
-- ★ 84.267
+- ★ 85.202
 - TypeScript
 - GitHub Trending · 2026-07-17
 
 ## Aktualisierungen
 
+- **13. November 2026:** Sterne 84,267 → 85,202, neueste Version v2.3.3 (12. November 2026).
 - **7. November 2026:** Sterne 83,808 → 84,267, neueste Version v2.3.2 (6. November 2026).
 - **4. November 2026:** Sterne 83,653 → 83,808, neueste Version v2.3.1 (3. November 2026).
 - **1. November 2026:** Sterne 83,595 → 83,653, neueste Version v2.3.0 (1. November 2026).
-- **30. Oktober 2026:** Sterne 83,300 → 83,595, neueste Version v2.2.21 (29. Oktober 2026).
 
 ## Was es bringt
 

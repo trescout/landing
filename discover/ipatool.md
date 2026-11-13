@@ -96,8 +96,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Xcode](https://trescout.com/dictionary/xcode/)
 - [Sideloading](https://trescout.com/dictionary/sideloading/)
+- [Xcode](https://trescout.com/dictionary/xcode/)
 - [Jailbreak](https://trescout.com/dictionary/jailbreak/)
 - [Binary](https://trescout.com/dictionary/binary/)
 - [CI/CD](https://trescout.com/dictionary/ci-cd/)

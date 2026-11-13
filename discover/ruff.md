@@ -2,12 +2,13 @@
 
 Ruff, Rust programlama diliyle geliştirilmiş oldukça hızlı bir Python kod denetleyicisi (linter) ve kod biçimlendiricisidir (formatter). Yazılım geliştirme süreçlerinde kod kalitesini artırmak ve biçimlendirme işlemlerini hızlandırmak amacıyla kullanılır.
 
-- ★ 50.736
+- ★ 51.237
 - Rust
 - GitHub Trending · 2026-11-07
 
 ## Güncelleme
 
+- **13 Kasım 2026:** Yıldız 50.736 → 51.237, son sürüm 0.17.5 (12 Kasım 2026).
 - **7 Kasım 2026:** Yıldız 50.736 → 50.736, son sürüm 0.17.4 (5 Kasım 2026).
 
 ## Ne kazandırır?

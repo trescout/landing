@@ -41,6 +41,7 @@ Ja, eine gute Inferenz-Engine sorgt dafür, dass das Modell schneller reagiert.
 ## Verwandte Werkzeuge
 
 - [Ds4](https://trescout.com/de/discover/ds4/)
+- [TensorFold](https://trescout.com/de/discover/tensorfold/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/inference-engine/)
 

@@ -69,6 +69,10 @@ C'est pratique pour la distribution, mais pas obligatoire. Le web et la distribu
 - [GUI](https://trescout.com/fr/dictionary/gui/)
 - [Runtime](https://trescout.com/fr/dictionary/runtime/)
 
+## Outils liés
+
+- [TensorFold](https://trescout.com/fr/discover/tensorfold/)
+
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/application/)
 
 ---

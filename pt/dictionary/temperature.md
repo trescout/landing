@@ -39,6 +39,10 @@ Sim, neste caso o modelo escolhe sempre a palavra mais segura e de maior probabi
 - [Prompt Engineering](https://trescout.com/pt/dictionary/prompt-engineering/)
 - [Hallucination](https://trescout.com/pt/dictionary/hallucination/)
 
+## Ferramentas relacionadas
+
+- [TensorFold](https://trescout.com/pt/discover/tensorfold/)
+
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/temperature/)
 
 ---

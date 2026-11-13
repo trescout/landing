@@ -2,16 +2,16 @@
 
 Tailscale, WireGuard protokolünü iki faktörlü kimlik doğrulama (two-factor authentication) ile birleştirerek güvenli ağ bağlantıları kurmayı kolaylaştırıyor. Go diliyle geliştirilen bu araç, karmaşık ağ yapılandırmalarına ihtiyaç duymadan cihazlar arası şifreli iletişim sağlıyor.
 
-- ★ 38.917
+- ★ 39.027
 - Go
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
 
+- **13 Kasım 2026:** Yıldız 38.917 → 39.027, son sürüm v1.104.7 (12 Kasım 2026).
 - **11 Kasım 2026:** Yıldız 38.548 → 38.917, son sürüm v1.104.6 (11 Kasım 2026).
 - **3 Kasım 2026:** Yıldız 38.204 → 38.548, son sürüm v1.104.5 (3 Kasım 2026).
 - **28 Ekim 2026:** Yıldız 37.855 → 38.204, son sürüm v1.104.4 (28 Ekim 2026).
-- **21 Ekim 2026:** Yıldız 37.270 → 37.855, son sürüm v1.104.2 (21 Ekim 2026).
 
 ## Ne kazandırır?
 

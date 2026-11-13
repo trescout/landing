@@ -10671,5 +10671,31 @@
     "kisa_es": "Es un conjunto de datos de puntos que forma la estructura tridimensional de un entorno o un objeto mediante el uso de rayos láser.",
     "kisa_pt": "É um conjunto de dados pontuais que forma a estrutura tridimensional de um ambiente ou objeto utilizando raios laser.",
     "kisa_de": "Es ist eine Punktewolke, die unter Verwendung von Laserstrahlen die dreidimensionale Struktur einer Umgebung oder eines Objekts darstellt."
+  },
+  {
+    "slug": "lazer-tarama",
+    "en": "Laser Scanning",
+    "full": "",
+    "cat": "data",
+    "kisa": "Fiziksel nesnelerin veya mekanların üç boyutlu sayısal kopyasını çıkarmak için lazer ışınları kullanan ölçüm teknolojisidir.",
+    "date": "2026-11-13",
+    "kisa_en": "It is a measurement technology that uses laser beams to create a three-dimensional digital copy of physical objects or spaces.",
+    "kisa_fr": "Il s'agit d'une technologie de mesure qui utilise des rayons laser pour créer une copie numérique tridimensionnelle d'objets ou d'espaces physiques.",
+    "kisa_es": "Es una tecnología de medición que utiliza rayos láser para extraer una copia digital tridimensional de objetos o espacios físicos.",
+    "kisa_pt": "É uma tecnologia de medição que utiliza feixes de laser para criar uma cópia digital tridimensional de objetos ou espaços físicos.",
+    "kisa_de": "Es handelt sich um eine Messtechnik, die Laserstrahlen verwendet, um dreidimensionale digitale Kopien von physischen Objekten oder Räumen zu erstellen."
+  },
+  {
+    "slug": "watch-faces",
+    "en": "Watch Faces",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Akıllı saat ekranlarında saati, tarihi ve kişisel verileri gösteren dijital arayüz tasarımlarıdır.",
+    "date": "2026-11-13",
+    "kisa_en": "They are digital interface designs that display the time, date, and personal data on smart watch screens.",
+    "kisa_fr": "Ce sont des conceptions d'interface numérique qui affichent l'heure, la date et les données personnelles sur les écrans des montres connectées.",
+    "kisa_es": "Son diseños de interfaz digital que muestran la hora, la fecha y datos personales en las pantallas de los relojes inteligentes.",
+    "kisa_pt": "São designs de interfaces digitais que exibem a hora, a data e dados pessoais em telas de relógios inteligentes.",
+    "kisa_de": "Dies sind digitale Benutzeroberflächendesign auf Smartwatch-Bildschirmen, die Uhrzeit, Datum und persönliche Daten anzeigen."
   }
 ]

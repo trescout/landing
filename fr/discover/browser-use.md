@@ -2,15 +2,15 @@
 
 L'utilisation du navigateur est une bibliothèque Python qui permet aux agents d'intelligence artificielle d'interagir avec des sites Web comme les humains. Il permet d'automatiser des tâches complexes sur Internet avec des opérations basées sur un navigateur.
 
-- ★ 120 656
+- ★ 120 869
 - GitHub Trending · 2026-08-26
 
 ## Mises à jour
 
+- **13 novembre 2026:** Étoiles 120,656 → 120,869, dernière version 1.0.3 (12 novembre 2026).
 - **11 novembre 2026:** Étoiles 120,584 → 120,656, dernière version 1.0.2 (11 novembre 2026).
 - **10 novembre 2026:** Étoiles 120,502 → 120,584, dernière version 1.0.1 (10 novembre 2026).
 - **10 novembre 2026:** Étoiles 119,252 → 120,502, dernière version 1.0.0 (10 novembre 2026).
-- **27 octobre 2026:** Étoiles 118,155 → 119,252, dernière version 0.13.14 (26 octobre 2026).
 
 ## Ce que ça vous apporte
 

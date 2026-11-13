@@ -69,6 +69,10 @@ Dağıtım için pratiktir, zorunlu değildir. Web ve kurumsal dağıtım altern
 - [GUI](https://trescout.com/dictionary/gui/)
 - [Runtime](https://trescout.com/dictionary/runtime/)
 
+## İlgili araçlar
+
+- [TensorFold](https://trescout.com/discover/tensorfold/)
+
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

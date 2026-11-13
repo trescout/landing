@@ -2,16 +2,16 @@
 
 Context-mode es una biblioteca de TypeScript que proporciona optimización de la ventana de contexto para agentes de codificación de inteligencia artificial. Reduce el tamaño de los datos en un 98 por ciento al aislar las salidas de las herramientas, preserva la memoria de la sesión y redirige a 17 plataformas diferentes a través del Protocolo de Contexto de Modelo (Model Context Protocol).
 
-- ★ 33.909
+- ★ 34.006
 - TypeScript
 - GitHub Trending · 2026-09-08
 
 ## Actualizaciones
 
+- **13 de noviembre de 2026:** Estrellas 33,909 → 34,006, última versión v2.1.10 (12 de noviembre de 2026).
 - **12 de noviembre de 2026:** Estrellas 33,720 → 33,909, última versión v2.1.8 (11 de noviembre de 2026).
 - **9 de noviembre de 2026:** Estrellas 33,654 → 33,720, última versión v2.1.7 (8 de noviembre de 2026).
 - **8 de noviembre de 2026:** Estrellas 33,622 → 33,654, última versión v2.1.6 (8 de noviembre de 2026).
-- **7 de noviembre de 2026:** Estrellas 33,565 → 33,622, última versión v2.1.5 (6 de noviembre de 2026).
 
 ## Qué aporta
 

@@ -2,17 +2,17 @@
 
 Mit künstlicher Intelligenz erstellte Texte enthalten oft vorhersehbare Ausdrücke, Rhythmen und Strukturen. Stop Slop ist eine Fertigkeitsdatei, die Claude oder jedem LLM beibringt, diese Muster zu erkennen und zu beseitigen. Auf diese Weise erhalten Ihre Texte einen viel natürlicheren und menschlicheren Ton.
 
-- ★ 17.877
+- ★ 18.901
 - Claude Skill
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **13. November 2026:** Sterne 17,877 → 18,901.
 - **9. Oktober 2026:** Sterne 16,875 → 17,877.
 - **7. September 2026:** Sterne 15,870 → 16,875.
 - **19. August 2026:** Sterne 14,843 → 15,870.
-- **1. August 2026:** Sterne 4,876 → 14,843.
 
 *Görsel: stop-slop (proje deposundan)*
 

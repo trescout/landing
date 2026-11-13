@@ -37,6 +37,7 @@ Non, Xcode ne fonctionne que sur le système d'exploitation macOS d'Apple.
 
 - [Xtool](https://trescout.com/fr/discover/xtool/)
 - [Ipatool](https://trescout.com/fr/discover/ipatool/)
+- [HermesEnabler](https://trescout.com/fr/discover/hermesenabler/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/xcode/)
 

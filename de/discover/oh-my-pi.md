@@ -2,15 +2,15 @@
 
 Oh-my-pi ist ein Codierungsagent mit künstlicher Intelligenz, der in einer Terminalumgebung ausgeführt wird und Codebearbeitungsprozesse automatisiert. Das Tool zielt darauf ab, Softwareentwicklungsabläufe mit Funktionen wie Language Server Protocol (LSP), Browserintegration und Subagentenverwaltung zu optimieren.
 
-- ★ 38.739
+- ★ 38.874
 - GitHub Trending · 2026-06-02
 
 ## Aktualisierungen
 
+- **13. November 2026:** Sterne 38,739 → 38,874, neueste Version v18.20.0 (12. November 2026).
 - **12. November 2026:** Sterne 38,628 → 38,739, neueste Version v18.19.0 (12. November 2026).
 - **11. November 2026:** Sterne 38,561 → 38,628, neueste Version v18.18.8 (11. November 2026).
 - **10. November 2026:** Sterne 38,491 → 38,561, neueste Version v18.18.7 (10. November 2026).
-- **10. November 2026:** Sterne 38,311 → 38,491, neueste Version v18.18.6 (9. November 2026).
 
 ## Was es bringt
 
@@ -67,8 +67,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [AI Coding Agent](https://trescout.com/de/dictionary/ai-coding-agent/)
 - [Coding Agent](https://trescout.com/de/dictionary/coding-agent/)
 - [IDE](https://trescout.com/de/dictionary/ide/)
-- [Terminal](https://trescout.com/de/dictionary/terminal/)
 - [Agent](https://trescout.com/de/dictionary/agent/)
+- [Terminal](https://trescout.com/de/dictionary/terminal/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die ihre Code-Entwicklungsprozesse über das Terminal automatisieren und den Workflow mit einem durch künstliche Intelligenz unterstützten Coding-Agenten beschleunigen möchten.
 - **Lizenz:** MIT

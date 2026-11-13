@@ -2,16 +2,16 @@
 
 CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor. Masaüstü işletim sistemlerini kontrol edebilen ajanların eğitimi ve değerlendirilmesi amacıyla kum havuzu (sandbox), yazılım geliştirme kiti (SDK) ve kıyaslama (benchmark) araçlarını tek bir çatı altında topluyor.
 
-- ★ 32.234
+- ★ 32.270
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
 
+- **13 Kasım 2026:** Yıldız 32.234 → 32.270, son sürüm cua-spaces-v0.36.5 (13 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 32.218 → 32.234, son sürüm cua-spaces-v0.34.1 (12 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 32.164 → 32.218, son sürüm cua-spaces-v0.33.7 (11 Kasım 2026).
 - **11 Kasım 2026:** Yıldız 32.141 → 32.164, son sürüm cua-spaces-v0.33.3 (11 Kasım 2026).
-- **10 Kasım 2026:** Yıldız 32.099 → 32.141, son sürüm cua-spaces-v0.31.2 (10 Kasım 2026).
 
 ## Ne kazandırır?
 

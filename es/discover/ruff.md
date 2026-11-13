@@ -2,12 +2,13 @@
 
 Ruff es un linter y formateador de código Python extremadamente rápido desarrollado con el lenguaje de programación Rust. Se utiliza para mejorar la calidad del código y acelerar los procesos de formato en el desarrollo de software.
 
-- ★ 50.736
+- ★ 51.237
 - Rust
 - GitHub Trending · 2026-11-07
 
 ## Actualizaciones
 
+- **13 de noviembre de 2026:** Estrellas 50,736 → 51,237, última versión 0.17.5 (12 de noviembre de 2026).
 - **7 de noviembre de 2026:** Estrellas 50,736 → 50,736, última versión 0.17.4 (5 de noviembre de 2026).
 
 ## Qué aporta

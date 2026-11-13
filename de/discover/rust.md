@@ -2,12 +2,13 @@
 
 Rust zeichnet sich als Systemprogrammiersprache aus, die darauf abzielt, zuverlässige und effiziente Software zu entwickeln. Diese von einer breiten Nutzerbasis angenommene Sprache bietet eine Infrastruktur für leistungsorientierte Anwendungen.
 
-- ★ 120.404
+- ★ 121.869
 - Rust
 - GitHub Trending · 2026-10-15
 
 ## Aktualisierungen
 
+- **13. November 2026:** Sterne 120,404 → 121,869, neueste Version 1.100.0 (12. November 2026).
 - **16. Oktober 2026:** Sterne 120,232 → 120,404, neueste Version 1.99.1 (16. Oktober 2026).
 - **15. Oktober 2026:** Sterne 120,224 → 120,232, neueste Version 1.99.0 (1. Oktober 2026).
 
