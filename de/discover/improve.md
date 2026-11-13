@@ -2,8 +2,12 @@
 
 shadcn/improve ist eine Agenten-Fähigkeit, die die Codebasis analysiert und Arbeitspläne erstellt, die von kostengünstigeren KI-Modellen umgesetzt werden können. Dieses Tool zielt darauf ab, die Codeüberprüfung und Implementierungsplanung für Entwickler zu optimieren, indem komplexe Aufgaben mit leistungsfähigen Modellen geplant und mit wirtschaftlicheren Modellen ausgeführt werden.
 
-- ★ 10.615
+- ★ 11.649
 - GitHub Trending · 2026-11-11
+
+## Aktualisierungen
+
+- **13. November 2026:** Sterne 10,615 → 11,649.
 
 ## Was es bringt
 

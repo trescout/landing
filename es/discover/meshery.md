@@ -2,16 +2,16 @@
 
 Meshery es una plataforma de gestión de malla de servicios diseñada para la gestión de infraestructuras nativas de la nube. La plataforma permite realizar procesos de configuración, gestión del ciclo de vida y análisis de rendimiento en entornos de nube complejos desde un único centro.
 
-- ★ 12.181
+- ★ 12.180
 - TypeScript
 - GitHub Trending · 2026-06-15
 
 ## Actualizaciones
 
+- **13 de noviembre de 2026:** Estrellas 12,181 → 12,180, última versión v1.0.79 (13 de noviembre de 2026).
 - **13 de noviembre de 2026:** Estrellas 12,175 → 12,181, última versión v1.0.78 (12 de noviembre de 2026).
 - **12 de noviembre de 2026:** Estrellas 12,129 → 12,175, última versión v1.0.76 (12 de noviembre de 2026).
 - **4 de noviembre de 2026:** Estrellas 12,030 → 12,129, última versión v1.0.75 (3 de noviembre de 2026).
-- **22 de octubre de 2026:** Estrellas 12,023 → 12,030, última versión v1.0.74 (22 de octubre de 2026).
 
 ## Qué aporta
 

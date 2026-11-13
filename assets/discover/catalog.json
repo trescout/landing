@@ -4662,14 +4662,14 @@
     "slug": "pi-subagents",
     "title": "Pi Subagents",
     "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
-    "meta": "★ 4.176 · Lisans: yok",
+    "meta": "★ 4.192 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4176,
+    "stars": 4192,
     "image": "/assets/discover/og/pi-subagents.webp",
     "headline": "Yapay zekâ ile asenkron görev yönetimi",
     "last_review": "2026-11-13",
@@ -5016,6 +5016,13 @@
         "onceki_yildiz": 4143,
         "surum": "v0.88.0",
         "surum_tarihi": "2026-11-10"
+      },
+      {
+        "tarih": "2026-11-13",
+        "yildiz": 4192,
+        "onceki_yildiz": 4176,
+        "surum": "v0.88.1",
+        "surum_tarihi": "2026-11-13"
       }
     ],
     "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform.",
@@ -5063,7 +5070,7 @@
     "slug": "impeccable",
     "title": "Impeccable",
     "tagline": "Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language)…",
-    "meta": "★ 109.120",
+    "meta": "★ 109.192",
     "image": "/assets/discover/og/impeccable.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -5071,7 +5078,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 109120,
+    "stars": 109192,
     "lite": false,
     "headline": "Yapay zekâ tasarımlarınızı mükemmelleştirin",
     "last_review": "2026-11-13",
@@ -5299,6 +5306,13 @@
         "onceki_yildiz": 108474,
         "surum": "loop-v0.1.2",
         "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-13",
+        "yildiz": 109192,
+        "onceki_yildiz": 109120,
+        "surum": "cli-v4.9.0",
+        "surum_tarihi": "2026-11-13"
       }
     ],
     "tagline_en": "Impeccable is a design language developed to improve the design outputs of artificial intelligence models.",
@@ -10240,7 +10254,7 @@
     "slug": "whichllm",
     "title": "Whichllm",
     "tagline": "Whichllm, donanımınız üzerinde en yüksek performansı gösteren yerel büyük dil modellerini (large language models)…",
-    "meta": "★ 6.830 · Python",
+    "meta": "★ 6.832 · Python",
     "image": "/assets/discover/og/whichllm.webp",
     "source": "GitHub",
     "date": "2026-06-09",
@@ -10248,7 +10262,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6830,
+    "stars": 6832,
     "lite": false,
     "headline": "Donanımınıza en uygun yapay zekâ modelini bulun",
     "last_review": "2026-11-13",
@@ -10329,6 +10343,13 @@
         "onceki_yildiz": 6832,
         "surum": "v0.6.7",
         "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-13",
+        "yildiz": 6832,
+        "onceki_yildiz": 6830,
+        "surum": "v0.6.8",
+        "surum_tarihi": "2026-11-13"
       }
     ],
     "tagline_en": "Whichllm creates native large language models that perform best on your hardware…",
@@ -12458,14 +12479,14 @@
     "slug": "meshery",
     "title": "Meshery",
     "tagline": "Meshery, bulut yerlisi (cloud native) altyapıların yönetimi için tasarlanmış bir hizmet ağı (service mesh) yönetim platformudur.",
-    "meta": "★ 12.181 · TypeScript",
+    "meta": "★ 12.180 · TypeScript",
     "image": "/assets/discover/og/meshery.webp",
     "source": "GitHub",
     "date": "2026-06-15",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12181,
+    "stars": 12180,
     "lite": false,
     "headline": "Bulut yerlisi altyapıları yönetin",
     "last_review": "2026-11-13",
@@ -12560,6 +12581,13 @@
         "onceki_yildiz": 12175,
         "surum": "v1.0.78",
         "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-13",
+        "yildiz": 12180,
+        "onceki_yildiz": 12181,
+        "surum": "v1.0.79",
+        "surum_tarihi": "2026-11-13"
       }
     ],
     "tagline_en": "Meshery is a service mesh management platform designed for the management of cloud native infrastructures.",
@@ -35547,7 +35575,7 @@
     "slug": "openwork",
     "title": "Openwork",
     "tagline": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir…",
-    "meta": "★ 24.477 · TypeScript",
+    "meta": "★ 24.503 · TypeScript",
     "image": "/assets/discover/og/openwork.webp",
     "source": "GitHub",
     "date": "2026-07-30",
@@ -35555,7 +35583,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 24477,
+    "stars": 24503,
     "lite": false,
     "headline": "Yapay zekâ iş akışlarını paylaşın",
     "last_review": "2026-11-13",
@@ -35804,6 +35832,13 @@
         "onceki_yildiz": 24407,
         "surum": "v0.18.66",
         "surum_tarihi": "2026-11-10"
+      },
+      {
+        "tarih": "2026-11-13",
+        "yildiz": 24503,
+        "onceki_yildiz": 24477,
+        "surum": "v0.18.67",
+        "surum_tarihi": "2026-11-13"
       }
     ],
     "tagline_en": "Openwork is a platform developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure.",
@@ -42850,7 +42885,7 @@
     "slug": "tooljet",
     "title": "ToolJet",
     "tagline": "ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geliştirmeye yarayan açık kaynaklı bir uygulama…",
-    "meta": "★ 41.223 · JavaScript",
+    "meta": "★ 41.227 · JavaScript",
     "image": "/assets/discover/og/tooljet.webp",
     "source": "GitHub",
     "date": "2026-08-15",
@@ -42858,7 +42893,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41223,
+    "stars": 41227,
     "lite": false,
     "headline": "Kod yazmadan kurumsal uygulamalar geliştirin",
     "tagline_en": "ToolJet is an open source application for developing in-house tools, dashboards and artificial intelligence agents.",
@@ -43126,6 +43161,13 @@
         "onceki_yildiz": 41204,
         "surum": "v3.20.257-lts",
         "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-13",
+        "yildiz": 41227,
+        "onceki_yildiz": 41223,
+        "surum": "v3.21.96-lts",
+        "surum_tarihi": "2026-11-13"
       }
     ],
     "last_seen": "2026-08-17"
@@ -46463,7 +46505,7 @@
     "slug": "n8n",
     "title": "N8n",
     "tagline": "n8n, görsel canvas, özel kod ve yapay zekâ ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
-    "meta": "★ 210.254",
+    "meta": "★ 210.353",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -46471,7 +46513,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 210254,
+    "stars": 210353,
     "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
     "headline": "Görsel iş akışları ve yapay zekâ otomasyonu",
     "lite": false,
@@ -46960,6 +47002,13 @@
         "onceki_yildiz": 210100,
         "surum": "n8n@2.47.5",
         "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-13",
+        "yildiz": 210353,
+        "onceki_yildiz": 210254,
+        "surum": "n8n@2.47.6",
+        "surum_tarihi": "2026-11-13"
       }
     ],
     "last_review": "2026-11-13",
@@ -61536,7 +61585,7 @@
     "slug": "microduck",
     "title": "Microduck",
     "tagline": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek…",
-    "meta": "★ 13.720 · Rust",
+    "meta": "★ 13.761 · Rust",
     "image": "/assets/discover/og/microduck.webp",
     "source": "GitHub",
     "date": "2026-10-25",
@@ -61544,7 +61593,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13720,
+    "stars": 13761,
     "last_seen": "2026-10-26",
     "summary": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek robot projesidir. Rust diliyle yazılan yazılım, yapay zekâ politikaları (neural policies) üzerinden on beş servoyu yöneterek robotun hareket ve kontrol süreçlerini yürütür.",
     "lite": false,
@@ -61629,6 +61678,13 @@
         "onceki_yildiz": 13655,
         "surum": "daemon-v0.20.1",
         "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-13",
+        "yildiz": 13761,
+        "onceki_yildiz": 13720,
+        "surum": "daemon-v0.21.0",
+        "surum_tarihi": "2026-11-13"
       }
     ],
     "tagline_en": "Developed by Pollen Robotics, microduck is a 25-centimeter bipedal duck powered by the Rockchip RK3566 processor…",
@@ -63978,7 +64034,7 @@
     "slug": "improve",
     "title": "Improve",
     "tagline": "shadcn/improve, kod tabanını inceleyip daha düşük maliyetli yapay zekâ modellerinin uygulayabileceği çalışma planları…",
-    "meta": "★ 10.615",
+    "meta": "★ 11.649",
     "image": "/assets/discover/og/improve.webp",
     "source": "GitHub",
     "date": "2026-11-11",
@@ -63986,7 +64042,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 10615,
+    "stars": 11649,
     "last_seen": "2026-11-12",
     "summary": "shadcn/improve, kod tabanını inceleyip daha düşük maliyetli yapay zekâ modellerinin uygulayabileceği çalışma planları oluşturan bir ajan yeteneğidir. Geliştiricilerin kod denetimi ve uygulama planlama süreçlerini optimize etmeyi amaçlayan bu araç, karmaşık görevleri yetenekli modellerle planlayıp daha ekonomik modellerle yürütmeyi hedefler.",
     "lite": false,
@@ -63996,7 +64052,14 @@
     "tagline_fr": "shadcn/improve, l'analyse de la base de code pour établir des plans de travail réalisables par des modèles d'intelligence artificielle à moindre coût…",
     "tagline_es": "shadcn/improve, planes de trabajo para examinar la base de código que pueden ser implementados por modelos de inteligencia artificial de menor costo…",
     "tagline_pt": "shadcn/improve, para inspecionar a base de código e criar planos de trabalho que modelos de inteligência artificial de menor custo possam implementar...",
-    "tagline_de": "shadcn/improve, untersucht die Codebasis und erstellt Arbeitspläne, die von kostengünstigeren KI-Modellen umgesetzt werden können..."
+    "tagline_de": "shadcn/improve, untersucht die Codebasis und erstellt Arbeitspläne, die von kostengünstigeren KI-Modellen umgesetzt werden können...",
+    "guncellemeler": [
+      {
+        "tarih": "2026-11-13",
+        "yildiz": 11649,
+        "onceki_yildiz": 10615
+      }
+    ]
   },
   {
     "slug": "codex-security",

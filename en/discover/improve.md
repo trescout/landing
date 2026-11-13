@@ -2,8 +2,12 @@
 
 shadcn/improve is an agent capability that analyzes the codebase and creates action plans that can be executed by lower-cost AI models. Aiming to optimize developers' code review and implementation planning processes, this tool targets planning complex tasks with capable models and executing them with more economical models.
 
-- ★ 10,615
+- ★ 11,649
 - GitHub Trending · 2026-11-11
+
+## Updates
+
+- **November 13, 2026:** Stars 10,615 → 11,649.
 
 ## What you get
 

@@ -2,17 +2,17 @@
 
 **pi-subagents**, Pi platformu üzerinde **asenkron alt-ajan delegasyonu** süreçlerini yönetmek için geliştirilmiş bir TypeScript kütüphanesidir. Karmaşık iş yüklerini alt-ajanlara dağıtmayı kolaylaştırır.
 
-- ★ 4.176
+- ★ 4.192
 - TypeScript
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
 
+- **13 Kasım 2026:** Yıldız 4.176 → 4.192, son sürüm v0.88.1 (13 Kasım 2026).
 - **11 Kasım 2026:** Yıldız 4.143 → 4.176, son sürüm v0.88.0 (10 Kasım 2026).
 - **7 Kasım 2026:** Yıldız 4.138 → 4.143, son sürüm v0.87.0 (7 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 4.135 → 4.138, son sürüm v0.86.0 (5 Kasım 2026).
-- **5 Kasım 2026:** Yıldız 4.094 → 4.135, son sürüm v0.85.0 (5 Kasım 2026).
 
 - **Kimin için:** Pi platformunda ajan geliştirenler
 - **Zorluk:** İleri · geliştirici kütüphanesi

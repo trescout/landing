@@ -2,8 +2,12 @@
 
 shadcn/improve, kod tabanını inceleyip daha düşük maliyetli yapay zekâ modellerinin uygulayabileceği çalışma planları oluşturan bir ajan yeteneğidir. Geliştiricilerin kod denetimi ve uygulama planlama süreçlerini optimize etmeyi amaçlayan bu araç, karmaşık görevleri yetenekli modellerle planlayıp daha ekonomik modellerle yürütmeyi hedefler.
 
-- ★ 10.615
+- ★ 11.649
 - GitHub Trending · 2026-11-11
+
+## Güncelleme
+
+- **13 Kasım 2026:** Yıldız 10.615 → 11.649.
 
 ## Ne kazandırır?
 
