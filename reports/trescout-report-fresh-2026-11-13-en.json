@@ -1,0 +1,456 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-13",
+  "capturedAt": "2026-11-13T05:16:19.250Z",
+  "editorial": "Content included in the report will not be repeated for 30 days. At the end of this period, records that remain on the agenda will be listed again with the \"back on the agenda\" label.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "pookjw/HermesEnabler",
+          "url": "https://github.com/pookjw/HermesEnabler",
+          "summary": "pookjw/HermesEnabler is software that makes Hermès watch faces available on all Apple Watch devices with supported watchOS versions. This tool, which can be compiled with Xcode on macOS or installed via application loading tools like Sideloadly, requires an Apple Watch paired with an iPhone.",
+          "meta": "Objective-C · ★ 1,613 · +218 today",
+          "snapshot": {
+            "sourceId": "pookjw/HermesEnabler",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Objective-C",
+              "popularity": 1613,
+              "engagementCount": 218,
+              "rank": 4,
+              "extra": {
+                "starsToday": 218,
+                "baglam": "readme"
+              }
+            },
+            "description": "Enable Hermès Watch Faces on any Apple Watch devices. On macOS you can install the prebuilt IPA with Sideloadly or build the app directly with Xcode. Either way, the iPhone must be paired with the target Apple Watch, and the Watch must run a supported watchOS version."
+          }
+        },
+        {
+          "title": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "summary": "QwenLM/qwen-code is an open-source coding AI agent that runs on terminals, editors, desktops, and browsers. Developed with the TypeScript language, this tool aims to support software development processes across different platforms.",
+          "meta": "TypeScript · ★ 29,931 · +151 today",
+          "snapshot": {
+            "sourceId": "QwenLM/qwen-code",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 29931,
+              "engagementCount": 151,
+              "rank": 6,
+              "extra": {
+                "starsToday": 151,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open-source AI coding agent that lives in your terminal. The open-source AI coding agent for your terminal, editor, desktop, browser, and chat."
+          }
+        },
+        {
+          "title": "ashhart/TensorFold",
+          "url": "https://github.com/ashhart/TensorFold",
+          "summary": "ashhart/TensorFold offers an inference engine with Metal, CUDA, and Vulkan support for large language models (LLMs). Developed with the Zig language, this tool allows running models directly on Apple Silicon and NVIDIA graphics processors without the need for Python or MLX installation.",
+          "meta": "Zig · ★ 1,996 · +54 today",
+          "snapshot": {
+            "sourceId": "ashhart/TensorFold",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Zig",
+              "popularity": 1996,
+              "engagementCount": 54,
+              "rank": 7,
+              "extra": {
+                "starsToday": 54,
+                "baglam": "readme"
+              }
+            },
+            "description": "LLM Inference Engine for Metal, CUDA and Vulkan. TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation."
+          }
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Alishahryar1/free-claude-code offers the opportunity to use various AI tools such as Claude Code and OpenClaw for free via terminal, application, IDE, or browser. The project provides access to over 1.3 billion free tokens with multi-model and multi-tool support.",
+          "meta": "Python · ★ 69,470 · +415 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Alishahryar1/free-claude-code",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 69470,
+              "engagementCount": 415,
+              "rank": 12,
+              "extra": {
+                "starsToday": 415
+              }
+            },
+            "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+          }
+        },
+        {
+          "title": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "summary": "llama.cpp is a project that allows for the inference of large language models (LLMs) using C/C++ programming languages. It offers various installation options for users to run these models on their own computers.",
+          "meta": "C++ · ★ 134,660 · +176 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "ggml-org/llama.cpp",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 134660,
+              "engagementCount": 176,
+              "rank": 13,
+              "extra": {
+                "starsToday": 176,
+                "baglam": "readme"
+              }
+            },
+            "description": "LLM inference in C/C++. A few options to get llama.cpp installed on your machine:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Jensen Huang resigns",
+          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+          "summary": "Nvidia CEO Jensen Huang has announced his resignation. Following this change, the company's management has gathered to evaluate new leadership plans and corporate processes.",
+          "meta": "3,181 points · 2,963 comments",
+          "snapshot": {
+            "sourceId": "50467087",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 3181,
+              "engagementCount": 2963,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50467087",
+                  "popularity": 3181,
+                  "engagementCount": 2963
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-12T13:52:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50467087"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-tran...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-..., https:&#x2F;&#x2F;www.reuters.com&#x2F;live&#x2F;nvidia-live-board-meets-fate-ce...https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50467087",
+              "popularity": 3181,
+              "engagementCount": 2963
+            }
+          ]
+        },
+        {
+          "title": "Anthropic IPO",
+          "url": "https://ipo.anthropic.com/us/",
+          "summary": "AI company Anthropic has initiated its IPO process and filed an official application to become a publicly traded company. The letter shared by the company's founders and other relevant documents make the details of the IPO process available to the public.",
+          "meta": "868 points · 830 comments",
+          "snapshot": {
+            "sourceId": "50465829",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 868,
+              "engagementCount": 830,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50465829",
+                  "popularity": 868,
+                  "engagementCount": 830
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-12T11:46:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50465829",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Anthropic has filed to become a public company. Read the Founders’ letter and other relevant information."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50465829",
+              "popularity": 868,
+              "engagementCount": 830
+            }
+          ]
+        },
+        {
+          "title": "Service degradation on Microsoft 365",
+          "url": "https://status.cloud.microsoft/",
+          "summary": "Microsoft 365, the corporate productivity and office software suite, is experiencing service outages and performance issues worldwide. While users are having difficulty accessing the platform, the disruptions in services are being confirmed via the official status page.",
+          "meta": "654 points · 617 comments",
+          "snapshot": {
+            "sourceId": "50471731",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 654,
+              "engagementCount": 617,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50471731",
+                  "popularity": 654,
+                  "engagementCount": 617
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-12T18:20:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50471731"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.abc.net.au&#x2F;news&#x2F;2026-11-13&#x2F;microsoft-outage-affe...https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1xuje83&#x2F;microsoft...https:&#x2F;&#x2F;downdetector.com&#x2F;status&#x2F;microsoft-365&#x2F;"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50471731",
+              "popularity": 654,
+              "engagementCount": 617
+            }
+          ]
+        },
+        {
+          "title": "Rust 1.100",
+          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+          "summary": "The system programming language Rust version 1.100 has been released with updates aimed at making it easier to develop reliable and efficient software. This version continues to support performance and security-focused standards in software development processes.",
+          "meta": "537 points · 218 comments",
+          "snapshot": {
+            "sourceId": "50472038",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 537,
+              "engagementCount": 218,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50472038",
+                  "popularity": 537,
+                  "engagementCount": 218
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-12T18:39:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50472038",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Empowering everyone to build reliable and efficient software."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50472038",
+              "popularity": 537,
+              "engagementCount": 218
+            }
+          ]
+        },
+        {
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "summary": "Gemini 4 Hydrogen, released by Google, is a fast and cost-efficient AI model designed for reliable agentic workflows and daily tasks. With its efficiency-focused structure, this model aims to support various application processes.",
+          "meta": "495 points · 315 comments",
+          "snapshot": {
+            "sourceId": "50471431",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 495,
+              "engagementCount": 315,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50471431",
+                  "popularity": 495,
+                  "engagementCount": 315
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-12T18:01:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50471431",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Google introduces Gemini 4 Hydrogen, a fast, cost-efficient model built for reliable agentic workflows and everyday tasks. Get the details."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50471431",
+              "popularity": 495,
+              "engagementCount": 315
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
+          "url": "https://huggingface.co/papers/2611.16321",
+          "summary": "The article shared by Hugging Face examines the adaptive computation method for transforming large language models (LLMs) into efficient decision-making systems. The research reveals that information in the decision-making process is concentrated in the middle layers of the model, and the last six layers can be removed without loss of performance.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.16321",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.16321",
+                "publishedAt": "2026-11-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/minhkks/NestOne",
+                "githubStars": 1
+              }
+            },
+            "description": "Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it remains unclear how much depth such decisions require. We find that decision information is concentrated in intermediate layers, with early layers building essential features and the final six layers removable without loss, while independently trained smaller models largely mimic the full model rat"
+          }
+        },
+        {
+          "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+          "url": "https://huggingface.co/papers/2611.15131",
+          "summary": "Duo v1, shared by Hugging Face, is a world model that continuously perceives auditory and visual data to interact with users in real-time. Using a Reciprocal World Model approach, this system makes reasoning and decision-making processes a fundamental part of the artificial intelligence model.",
+          "meta": "7 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.15131",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.15131",
+                "publishedAt": "2026-11-11T00:00:00.000Z"
+              }
+            },
+            "description": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The RWM treats intelligence and physical reality as equally fundamental to what constitutes a world. Existing world models largely focus on simulating the latter, leaving reasoning and decision-making as external controls rather than intrinsic parts of the world itself. In RWM, we identify two equally fu"
+          }
+        },
+        {
+          "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+          "url": "https://huggingface.co/papers/2611.13004",
+          "summary": "G-STAR presents a method aimed at improving the balance between quality and speed in the image generation process for discrete autoregressive models. Based on the principle of product quantization, this approach increases representation capacity by scaling the group size with a spatial compression factor.",
+          "meta": "6 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.13004",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.13004",
+                "publishedAt": "2026-11-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/DAGroup-PKU/G-STAR",
+                "githubStars": 4
+              }
+            },
+            "description": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--grou"
+          }
+        },
+        {
+          "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+          "url": "https://huggingface.co/papers/2611.14815",
+          "summary": "BirdDreams offers a method for driving world models that provides video generation in both perspective and bird's-eye view (BEV). This approach aims to simulate driving scenes realistically and responsively by combining vehicle movements and trajectory control.",
+          "meta": "20 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.14815",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.14815",
+                "publishedAt": "2026-11-10T00:00:00.000Z"
+              }
+            },
+            "description": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories a"
+          }
+        },
+        {
+          "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+          "url": "https://huggingface.co/papers/2611.05984",
+          "summary": "The article published on Hugging Face examines the components of hyper-connection architectures used in advanced language models to explore simpler and more efficient design methods. The study reveals that learned gating mechanisms and mixing operations performed with fixed gates create effective interaction groups on model performance.",
+          "meta": "13 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.05984",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.05984",
+                "publishedAt": "2026-11-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/aHapBean/SimpleHC",
+                "githubStars": 20
+              }
+            },
+            "description": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this work, we systematically study the HC architecture to understand its components and identify simpler, more efficient designs. We find that learned read/write gating without mixing and unconstrained mixing with fixed gates form two effective interaction groups: either alone achieves performance compa"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "watch faces",
+      "explanation": "Digital interface designs that appear on the screens of smartwatches, displaying the time and other information."
+    },
+    {
+      "term": "open-source",
+      "explanation": "A type of software whose source code is open for anyone to access, inspect, and improve."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "A software component that enables a trained artificial intelligence model to make predictions or produce results on new data."
+    },
+    {
+      "term": "inference",
+      "explanation": "The process of a trained AI model processing a new input provided to it to produce a result or response."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "A workflow where AI agents make their own decisions toward a goal and execute steps sequentially."
+    }
+  ]
+}

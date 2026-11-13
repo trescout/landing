@@ -1,0 +1,869 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-13",
+  "capturedAt": "2026-11-13T05:16:19.250Z",
+  "editorial": "While web standards and security protocols form the focus of the day, efficiency and full-duplex interaction capabilities in artificial intelligence models are coming to the fore. Modern web guides published by Google and academic studies on adaptive computation reflect developers' quest to optimize their existing systems.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "summary": "GoogleChrome/modern-web-guidance-src is a resource repository prepared to ensure that coding agents produce content in accordance with current web development standards. The project provides code and documentation support for the creation, calibration, and evaluation processes of this guide content.",
+          "meta": "TypeScript · ★ 3,435 · +739 today",
+          "snapshot": {
+            "sourceId": "GoogleChrome/modern-web-guidance-src",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3435,
+              "engagementCount": 739,
+              "rank": 1,
+              "extra": {
+                "starsToday": 739,
+                "baglam": "readme"
+              }
+            },
+            "description": "Keep your coding agent up to date with the latest web best practices. This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents."
+          }
+        },
+        {
+          "title": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "codex-security, offered by OpenAI, is a command-line interface (CLI) developed to find, verify, and remediate security vulnerabilities, as well as a suite of tools (SDK) that facilitates application development for software engineers. Prepared with the TypeScript language, this project aims to automate software security processes.",
+          "meta": "TypeScript · ★ 12,593 · +643 today",
+          "snapshot": {
+            "sourceId": "openai/codex-security",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12593,
+              "engagementCount": 643,
+              "rank": 2,
+              "extra": {
+                "starsToday": 643
+              }
+            },
+            "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+          }
+        },
+        {
+          "title": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "summary": "nvm-sh/nvm is a POSIX-compliant bash script used to manage different Node.js versions via the command line. It offers users the ability to quickly install and switch between multiple Node.js versions on their systems.",
+          "meta": "Shell · ★ 96,047 · +63 today",
+          "snapshot": {
+            "sourceId": "nvm-sh/nvm",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 96047,
+              "engagementCount": 63,
+              "rank": 3,
+              "extra": {
+                "starsToday": 63,
+                "baglam": "readme"
+              }
+            },
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. nvm allows you to quickly install and use different versions of node via the command line."
+          }
+        },
+        {
+          "title": "pookjw/HermesEnabler",
+          "url": "https://github.com/pookjw/HermesEnabler",
+          "summary": "pookjw/HermesEnabler is software that makes Hermès watch faces available on all Apple Watch devices with supported watchOS versions. This tool, which can be compiled with Xcode on macOS or installed via application loading tools like Sideloadly, requires an Apple Watch paired with an iPhone.",
+          "meta": "Objective-C · ★ 1,613 · +218 today",
+          "snapshot": {
+            "sourceId": "pookjw/HermesEnabler",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Objective-C",
+              "popularity": 1613,
+              "engagementCount": 218,
+              "rank": 4,
+              "extra": {
+                "starsToday": 218,
+                "baglam": "readme"
+              }
+            },
+            "description": "Enable Hermès Watch Faces on any Apple Watch devices. On macOS you can install the prebuilt IPA with Sideloadly or build the app directly with Xcode. Either way, the iPhone must be paired with the target Apple Watch, and the Watch must run a supported watchOS version."
+          }
+        },
+        {
+          "title": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "summary": "Developed with the Ruby language, sure is a personal finance and asset management application open for everyone to use. Offering features that allow users to connect with financial advisors, this project is positioned as an open-source financial management tool.",
+          "meta": "Ruby · ★ 14,096 · +967 today",
+          "snapshot": {
+            "sourceId": "we-promise/sure",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 14096,
+              "engagementCount": 967,
+              "rank": 5,
+              "extra": {
+                "starsToday": 967,
+                "baglam": "readme"
+              }
+            },
+            "description": "The personal finance app for everyone (by everyone). The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
+          }
+        },
+        {
+          "title": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "summary": "QwenLM/qwen-code is an open-source coding AI agent that runs on terminals, editors, desktops, and browsers. Developed with the TypeScript language, this tool aims to support software development processes across different platforms.",
+          "meta": "TypeScript · ★ 29,931 · +151 today",
+          "snapshot": {
+            "sourceId": "QwenLM/qwen-code",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 29931,
+              "engagementCount": 151,
+              "rank": 6,
+              "extra": {
+                "starsToday": 151,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open-source AI coding agent that lives in your terminal. The open-source AI coding agent for your terminal, editor, desktop, browser, and chat."
+          }
+        },
+        {
+          "title": "ashhart/TensorFold",
+          "url": "https://github.com/ashhart/TensorFold",
+          "summary": "ashhart/TensorFold offers an inference engine with Metal, CUDA, and Vulkan support for large language models (LLMs). Developed with the Zig language, this tool allows running models directly on Apple Silicon and NVIDIA graphics processors without the need for Python or MLX installation.",
+          "meta": "Zig · ★ 1,996 · +54 today",
+          "snapshot": {
+            "sourceId": "ashhart/TensorFold",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Zig",
+              "popularity": 1996,
+              "engagementCount": 54,
+              "rank": 7,
+              "extra": {
+                "starsToday": 54,
+                "baglam": "readme"
+              }
+            },
+            "description": "LLM Inference Engine for Metal, CUDA and Vulkan. TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation."
+          }
+        },
+        {
+          "title": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "summary": "Node.js is an open-source runtime environment that allows JavaScript code to be executed on the server side. This software, which can run on different platforms, allows developers to use JavaScript outside of the browser.",
+          "meta": "JavaScript · ★ 123,631 · +62 today",
+          "snapshot": {
+            "sourceId": "nodejs/node",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 123631,
+              "engagementCount": 62,
+              "rank": 8,
+              "extra": {
+                "starsToday": 62,
+                "baglam": "readme"
+              }
+            },
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨. Node.js is an open-source, cross-platform JavaScript runtime environment."
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Developed by Addy Osmani, agent-skills offers production-level engineering skills for AI agents that write code. This JavaScript-based project aims to standardize the capabilities of agents in software development processes.",
+          "meta": "JavaScript · ★ 116,795 · +816 today",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 116795,
+              "engagementCount": 816,
+              "rank": 9,
+              "extra": {
+                "starsToday": 816,
+                "baglam": "readme"
+              }
+            },
+            "description": "Production-grade engineering skills for AI coding agents. Production-grade engineering skills for AI coding agents."
+          }
+        },
+        {
+          "title": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "summary": "Developed by Meta, astryx is a fully customizable open-source design system designed to be used by both humans and AI agents. Written in the TypeScript language, this tool aims to support human-machine collaboration in modern development processes.",
+          "meta": "TypeScript · ★ 26,795 · +1,830 today",
+          "snapshot": {
+            "sourceId": "meta/astryx",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 26795,
+              "engagementCount": 1830,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1830,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open source design system that's fully customizable and agent ready. An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them."
+          }
+        },
+        {
+          "title": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "summary": "CopilotKit/OpenBot allows for the development of open-source AI coworkers with access to browsers, files, and tools. This system, which plans and records every action in advance, supports the integration of various generative AI agents.",
+          "meta": "TypeScript · ★ 11,767 · +298 today",
+          "snapshot": {
+            "sourceId": "CopilotKit/OpenBot",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11767,
+              "engagementCount": 298,
+              "rank": 11,
+              "extra": {
+                "starsToday": 298
+              }
+            },
+            "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+          }
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Alishahryar1/free-claude-code offers the opportunity to use various AI tools such as Claude Code and OpenClaw for free via terminal, application, IDE, or browser. The project provides access to over 1.3 billion free tokens with multi-model and multi-tool support.",
+          "meta": "Python · ★ 69,470 · +415 today",
+          "snapshot": {
+            "sourceId": "Alishahryar1/free-claude-code",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 69470,
+              "engagementCount": 415,
+              "rank": 12,
+              "extra": {
+                "starsToday": 415
+              }
+            },
+            "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+          }
+        },
+        {
+          "title": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "summary": "llama.cpp is a project that allows for the inference of large language models (LLMs) using C/C++ programming languages. It offers various installation options for users to run these models on their own computers.",
+          "meta": "C++ · ★ 134,660 · +176 today",
+          "snapshot": {
+            "sourceId": "ggml-org/llama.cpp",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 134660,
+              "engagementCount": 176,
+              "rank": 13,
+              "extra": {
+                "starsToday": 176,
+                "baglam": "readme"
+              }
+            },
+            "description": "LLM inference in C/C++. A few options to get llama.cpp installed on your machine:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Jensen Huang resigns",
+          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+          "summary": "Nvidia CEO Jensen Huang has announced his resignation. Following this change, the company's management has gathered to evaluate new leadership plans and corporate processes.",
+          "meta": "3,181 points · 2,963 comments",
+          "snapshot": {
+            "sourceId": "50467087",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 3181,
+              "engagementCount": 2963,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50467087",
+                  "popularity": 3181,
+                  "engagementCount": 2963
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-12T13:52:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50467087"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-tran...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-..., https:&#x2F;&#x2F;www.reuters.com&#x2F;live&#x2F;nvidia-live-board-meets-fate-ce...https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50467087",
+              "popularity": 3181,
+              "engagementCount": 2963
+            }
+          ]
+        },
+        {
+          "title": "Anthropic IPO",
+          "url": "https://ipo.anthropic.com/us/",
+          "summary": "AI company Anthropic has initiated its IPO process and filed an official application to become a publicly traded company. The letter shared by the company's founders and other relevant documents make the details of the IPO process available to the public.",
+          "meta": "868 points · 830 comments",
+          "snapshot": {
+            "sourceId": "50465829",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 868,
+              "engagementCount": 830,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50465829",
+                  "popularity": 868,
+                  "engagementCount": 830
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-12T11:46:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50465829",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Anthropic has filed to become a public company. Read the Founders’ letter and other relevant information."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50465829",
+              "popularity": 868,
+              "engagementCount": 830
+            }
+          ]
+        },
+        {
+          "title": "Service degradation on Microsoft 365",
+          "url": "https://status.cloud.microsoft/",
+          "summary": "Microsoft 365, the corporate productivity and office software suite, is experiencing service outages and performance issues worldwide. While users are having difficulty accessing the platform, the disruptions in services are being confirmed via the official status page.",
+          "meta": "654 points · 617 comments",
+          "snapshot": {
+            "sourceId": "50471731",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 654,
+              "engagementCount": 617,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50471731",
+                  "popularity": 654,
+                  "engagementCount": 617
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-12T18:20:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50471731"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.abc.net.au&#x2F;news&#x2F;2026-11-13&#x2F;microsoft-outage-affe...https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1xuje83&#x2F;microsoft...https:&#x2F;&#x2F;downdetector.com&#x2F;status&#x2F;microsoft-365&#x2F;"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50471731",
+              "popularity": 654,
+              "engagementCount": 617
+            }
+          ]
+        },
+        {
+          "title": "Rust 1.100",
+          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+          "summary": "The system programming language Rust version 1.100 has been released with updates aimed at making it easier to develop reliable and efficient software. This version continues to support performance and security-focused standards in software development processes.",
+          "meta": "537 points · 218 comments",
+          "snapshot": {
+            "sourceId": "50472038",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 537,
+              "engagementCount": 218,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50472038",
+                  "popularity": 537,
+                  "engagementCount": 218
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-12T18:39:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50472038",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Empowering everyone to build reliable and efficient software."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50472038",
+              "popularity": 537,
+              "engagementCount": 218
+            }
+          ]
+        },
+        {
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "summary": "Gemini 4 Hydrogen, released by Google, is a fast and cost-efficient AI model designed for reliable agentic workflows and daily tasks. With its efficiency-focused structure, this model aims to support various application processes.",
+          "meta": "495 points · 315 comments",
+          "snapshot": {
+            "sourceId": "50471431",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 495,
+              "engagementCount": 315,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50471431",
+                  "popularity": 495,
+                  "engagementCount": 315
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-12T18:01:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50471431",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Google introduces Gemini 4 Hydrogen, a fast, cost-efficient model built for reliable agentic workflows and everyday tasks. Get the details."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50471431",
+              "popularity": 495,
+              "engagementCount": 315
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic, shared on Hugging Face, is an AI model focused on text generation. The developer also offers users the xtools-at/Qwen3.5-9B-DeepThought-STEM model, a scientific fine-tuning study upon which this model is based.",
+          "meta": "♥ 4,767 · 18,933 downloads",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-13T05:16:19.405Z",
+            "metadata": {
+              "popularity": 4767,
+              "engagementCount": 18933,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2938,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "mtp",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Also check out DeepThought, my science finetune based on this model: xtools-at/Qwen3.5-9B-DeepThought-STEM"
+          }
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "Developed by MiniMaxAI, MiniMax-H3-Image is an AI model capable of text-to-image generation. The software offers API (a digital bridge that allows two different software programs to communicate with each other) support for image editing and prompt expansion operations.",
+          "meta": "♥ 890 · 306,718 downloads",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-13T05:16:19.405Z",
+            "metadata": {
+              "popularity": 890,
+              "engagementCount": 306718,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 839,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          }
+        },
+        {
+          "title": "NousResearch/Arete-27B",
+          "url": "https://huggingface.co/NousResearch/Arete-27B",
+          "summary": "Arete-27B, developed by NousResearch, is a training study conducted on Alibaba's text generation model Qwen3.8-27B. This model has been retrained with the aim of instilling Western values into a China-based AI model.",
+          "meta": "♥ 491 · 4,669 downloads",
+          "snapshot": {
+            "sourceId": "NousResearch/Arete-27B",
+            "capturedAt": "2026-11-13T05:16:19.405Z",
+            "metadata": {
+              "popularity": 491,
+              "engagementCount": 4669,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 462,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "safetensors",
+                  "qwen3_5",
+                  "nous-research",
+                  "arete",
+                  "supervised-fine-tuning",
+                  "value-alignment",
+                  "text-generation",
+                  "conversational",
+                  "dataset:NousResearch/arete-data-pairs",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B."
+          }
+        },
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "speridlabs/idol is an image-to-3D conversion tool that creates 3D Gaussian splatting models from a single image. Outputting in the standard .ply format, this model can clean the background and run in under two seconds on consumer-grade graphics processors.",
+          "meta": "♥ 2,239 · 29,904 downloads",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-13T05:16:19.405Z",
+            "metadata": {
+              "popularity": 2239,
+              "engagementCount": 29904,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 413,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, developed by Lightricks, is an image-to-video model that converts images into moving videos. Located on the Hugging Face platform, this tool enables the conversion of static content into video format with the help of artificial intelligence.",
+          "meta": "♥ 11,646 · 2,782,513 downloads",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-13T05:16:19.405Z",
+            "metadata": {
+              "popularity": 11646,
+              "engagementCount": 2782513,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 405,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
+          "url": "https://huggingface.co/papers/2611.16321",
+          "summary": "The article shared by Hugging Face examines the adaptive computation method for transforming large language models (LLMs) into efficient decision-making systems. The research reveals that information in the decision-making process is concentrated in the middle layers of the model, and the last six layers can be removed without loss of performance.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.16321",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.16321",
+                "publishedAt": "2026-11-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/minhkks/NestOne",
+                "githubStars": 1
+              }
+            },
+            "description": "Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it remains unclear how much depth such decisions require. We find that decision information is concentrated in intermediate layers, with early layers building essential features and the final six layers removable without loss, while independently trained smaller models largely mimic the full model rat"
+          }
+        },
+        {
+          "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+          "url": "https://huggingface.co/papers/2611.15131",
+          "summary": "Duo v1, shared by Hugging Face, is a world model that continuously perceives auditory and visual data to interact with users in real-time. Using a Reciprocal World Model approach, this system makes reasoning and decision-making processes a fundamental part of the artificial intelligence model.",
+          "meta": "7 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.15131",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.15131",
+                "publishedAt": "2026-11-11T00:00:00.000Z"
+              }
+            },
+            "description": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The RWM treats intelligence and physical reality as equally fundamental to what constitutes a world. Existing world models largely focus on simulating the latter, leaving reasoning and decision-making as external controls rather than intrinsic parts of the world itself. In RWM, we identify two equally fu"
+          }
+        },
+        {
+          "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+          "url": "https://huggingface.co/papers/2611.13004",
+          "summary": "G-STAR presents a method aimed at improving the balance between quality and speed in the image generation process for discrete autoregressive models. Based on the principle of product quantization, this approach increases representation capacity by scaling the group size with a spatial compression factor.",
+          "meta": "6 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.13004",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.13004",
+                "publishedAt": "2026-11-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/DAGroup-PKU/G-STAR",
+                "githubStars": 4
+              }
+            },
+            "description": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--grou"
+          }
+        },
+        {
+          "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+          "url": "https://huggingface.co/papers/2611.14815",
+          "summary": "BirdDreams offers a method for driving world models that provides video generation in both perspective and bird's-eye view (BEV). This approach aims to simulate driving scenes realistically and responsively by combining vehicle movements and trajectory control.",
+          "meta": "20 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.14815",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.14815",
+                "publishedAt": "2026-11-10T00:00:00.000Z"
+              }
+            },
+            "description": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories a"
+          }
+        },
+        {
+          "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+          "url": "https://huggingface.co/papers/2611.05984",
+          "summary": "The article published on Hugging Face examines the components of hyper-connection architectures used in advanced language models to explore simpler and more efficient design methods. The study reveals that learned gating mechanisms and mixing operations performed with fixed gates create effective interaction groups on model performance.",
+          "meta": "13 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.05984",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.05984",
+                "publishedAt": "2026-11-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/aHapBean/SimpleHC",
+                "githubStars": 20
+              }
+            },
+            "description": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this work, we systematically study the HC architecture to understand its components and identify simpler, more efficient designs. We find that learned read/write gating without mixing and unconstrained mixing with fixed gates form two effective interaction groups: either alone achieves performance compa"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coding agents",
+      "explanation": "Artificial intelligence software that autonomously performs coding, debugging, and editing tasks in software development processes."
+    },
+    {
+      "term": "CLI",
+      "explanation": "A text-based interface that allows you to manage programs by entering written commands instead of using a mouse."
+    },
+    {
+      "term": "SDK",
+      "explanation": "A set of ready-made tools and libraries that enable developers to build software faster and more easily for a specific platform or application."
+    },
+    {
+      "term": "watch faces",
+      "explanation": "Digital interface designs that appear on the screens of smartwatches, displaying the time and other information."
+    },
+    {
+      "term": "open-source",
+      "explanation": "A type of software whose source code is open for anyone to access, inspect, and improve."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "A software component that enables a trained artificial intelligence model to make predictions or produce results on new data."
+    },
+    {
+      "term": "runtime environment",
+      "explanation": "The environment that provides the basic libraries and system resources required for software to run."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Technical capabilities used by AI agents to solve complex software problems, design systems, and generate efficient code."
+    },
+    {
+      "term": "open source",
+      "explanation": "A free software model where all users can view, modify, and distribute the code."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "AI technology capable of creating new content such as text, images, or audio based on commands received from the user."
+    },
+    {
+      "term": "inference",
+      "explanation": "The process of a trained AI model processing a new input provided to it to produce a result or response."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "A workflow where AI agents make their own decisions toward a goal and execute steps sequentially."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "The process of AI models generating meaningful text in accordance with a given topic or command."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Retraining a general-purpose trained AI model with a smaller, specialized dataset to make it more successful in a specific subject."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "The AI capability of analyzing a written description or command to generate a corresponding image."
+    }
+  ]
+}

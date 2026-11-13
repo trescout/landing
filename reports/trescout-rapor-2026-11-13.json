@@ -1,0 +1,879 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-13",
+  "capturedAt": "2026-11-13T05:16:19.250Z",
+  "editorial": "Web standartları ve güvenlik protokolleri günün odak noktasını oluştururken yapay zekâ modellerinde verimlilik ile çift yönlü etkileşim (full-duplex interaction) yetenekleri ön plana çıkıyor. Google tarafından yayımlanan modern web rehberleri ve uyarlanabilir hesaplama (adaptive computation) üzerine yapılan akademik çalışmalar geliştiricilerin mevcut sistemlerini optimize etme arayışını yansıtıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "summary": "GoogleChrome/modern-web-guidance-src, kodlama ajanlarının (coding agents) güncel web geliştirme standartlarına uygun içerik üretmesini sağlamak için hazırlanan bir kaynak deposudur. Proje, bu rehber içeriğin oluşturulması, kalibrasyonu ve değerlendirilmesi süreçlerine yönelik kod ve dokümantasyon desteği sunar.",
+          "meta": "TypeScript · ★ 3.435 · +739 bugün",
+          "snapshot": {
+            "sourceId": "GoogleChrome/modern-web-guidance-src",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3435,
+              "engagementCount": 739,
+              "rank": 1,
+              "extra": {
+                "starsToday": 739,
+                "baglam": "readme"
+              }
+            },
+            "description": "Keep your coding agent up to date with the latest web best practices. This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "OpenAI tarafından sunulan codex-security, güvenlik açıklarını bulmak, doğrulamak ve gidermek için geliştirilmiş bir komut satırı arayüzü (CLI) ve yazılımcıların uygulama geliştirmesini kolaylaştıran araçlar bütünüdür (SDK). TypeScript diliyle hazırlanan bu proje, yazılım güvenliği süreçlerini otomatize etmeyi amaçlıyor.",
+          "meta": "TypeScript · ★ 12.593 · +643 bugün",
+          "snapshot": {
+            "sourceId": "openai/codex-security",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12593,
+              "engagementCount": 643,
+              "rank": 2,
+              "extra": {
+                "starsToday": 643
+              }
+            },
+            "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "summary": "nvm-sh/nvm, farklı Node.js sürümlerini komut satırı üzerinden yönetmeye yarayan, POSIX uyumlu bir bash betiğidir. Kullanıcılara sistemlerinde birden fazla Node.js sürümünü hızlıca kurma ve bunlar arasında geçiş yapma imkânı sunar.",
+          "meta": "Shell · ★ 96.047 · +63 bugün",
+          "snapshot": {
+            "sourceId": "nvm-sh/nvm",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 96047,
+              "engagementCount": 63,
+              "rank": 3,
+              "extra": {
+                "starsToday": 63,
+                "baglam": "readme"
+              }
+            },
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. nvm allows you to quickly install and use different versions of node via the command line."
+          }
+        },
+        {
+          "title": "pookjw/HermesEnabler",
+          "url": "https://github.com/pookjw/HermesEnabler",
+          "summary": "pookjw/HermesEnabler, Hermès saat kadranlarını (watch faces) desteklenen watchOS sürümlerine sahip tüm Apple Watch cihazlarında kullanılabilir hale getiren bir yazılımdır. macOS üzerinde Xcode ile derlenebilen veya Sideloadly gibi uygulama yükleme araçlarıyla kurulabilen bu araç, iPhone ile eşleşmiş bir Apple Watch gerektirir.",
+          "meta": "Objective-C · ★ 1.613 · +218 bugün",
+          "snapshot": {
+            "sourceId": "pookjw/HermesEnabler",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Objective-C",
+              "popularity": 1613,
+              "engagementCount": 218,
+              "rank": 4,
+              "extra": {
+                "starsToday": 218,
+                "baglam": "readme"
+              }
+            },
+            "description": "Enable Hermès Watch Faces on any Apple Watch devices. On macOS you can install the prebuilt IPA with Sideloadly or build the app directly with Xcode. Either way, the iPhone must be paired with the target Apple Watch, and the Watch must run a supported watchOS version."
+          }
+        },
+        {
+          "title": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "summary": "Ruby diliyle geliştirilen sure, herkesin kullanımına açık kişisel finans ve varlık yönetimi uygulamasıdır. Kullanıcıların finansal danışmanlarla bağlantı kurmasını sağlayan özellikler sunan bu proje, açık kaynaklı bir finansal yönetim aracı olarak konumlanıyor.",
+          "meta": "Ruby · ★ 14.096 · +967 bugün",
+          "snapshot": {
+            "sourceId": "we-promise/sure",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 14096,
+              "engagementCount": 967,
+              "rank": 5,
+              "extra": {
+                "starsToday": 967,
+                "baglam": "readme"
+              }
+            },
+            "description": "The personal finance app for everyone (by everyone). The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "summary": "QwenLM/qwen-code, terminal, editör, masaüstü ve tarayıcı üzerinde çalışan açık kaynaklı (open-source) bir kodlama yapay zekâ ajanıdır. TypeScript diliyle geliştirilen bu araç, yazılım geliştirme süreçlerini farklı platformlarda desteklemeyi amaçlar.",
+          "meta": "TypeScript · ★ 29.931 · +151 bugün",
+          "snapshot": {
+            "sourceId": "QwenLM/qwen-code",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 29931,
+              "engagementCount": 151,
+              "rank": 6,
+              "extra": {
+                "starsToday": 151,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open-source AI coding agent that lives in your terminal. The open-source AI coding agent for your terminal, editor, desktop, browser, and chat."
+          }
+        },
+        {
+          "title": "ashhart/TensorFold",
+          "url": "https://github.com/ashhart/TensorFold",
+          "summary": "ashhart/TensorFold, büyük dil modelleri (LLM) için Metal, CUDA ve Vulkan destekli bir çıkarım motoru (inference engine) sunuyor. Zig diliyle geliştirilen bu araç, Python veya MLX kurulumuna ihtiyaç duymadan Apple Silicon ve NVIDIA grafik işlemcileri üzerinde doğrudan model çalıştırmayı sağlıyor.",
+          "meta": "Zig · ★ 1.996 · +54 bugün",
+          "snapshot": {
+            "sourceId": "ashhart/TensorFold",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Zig",
+              "popularity": 1996,
+              "engagementCount": 54,
+              "rank": 7,
+              "extra": {
+                "starsToday": 54,
+                "baglam": "readme"
+              }
+            },
+            "description": "LLM Inference Engine for Metal, CUDA and Vulkan. TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation."
+          }
+        },
+        {
+          "title": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "summary": "Node.js, JavaScript kodlarının sunucu tarafında çalıştırılmasını sağlayan açık kaynaklı (open-source) bir çalışma zamanı ortamıdır (runtime environment). Farklı platformlarda çalışabilen bu yazılım, geliştiricilerin tarayıcı dışında JavaScript kullanmasına imkân tanır.",
+          "meta": "JavaScript · ★ 123.631 · +62 bugün",
+          "snapshot": {
+            "sourceId": "nodejs/node",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 123631,
+              "engagementCount": 62,
+              "rank": 8,
+              "extra": {
+                "starsToday": 62,
+                "baglam": "readme"
+              }
+            },
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨. Node.js is an open-source, cross-platform JavaScript runtime environment."
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Addy Osmani tarafından geliştirilen agent-skills, kod yazan yapay zekâ ajanları için üretim seviyesinde mühendislik becerileri (engineering skills) sunuyor. JavaScript tabanlı bu proje, yazılım geliştirme süreçlerinde ajanların yeteneklerini standartlaştırmayı amaçlıyor.",
+          "meta": "JavaScript · ★ 116.795 · +816 bugün",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 116795,
+              "engagementCount": 816,
+              "rank": 9,
+              "extra": {
+                "starsToday": 816,
+                "baglam": "readme"
+              }
+            },
+            "description": "Production-grade engineering skills for AI coding agents. Production-grade engineering skills for AI coding agents."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "summary": "Meta tarafından geliştirilen astryx, hem insanlar hem de yapay zekâ ajanları tarafından kullanılmak üzere tasarlanmış, tamamen özelleştirilebilir bir açık kaynak (open source) tasarım sistemidir. TypeScript diliyle yazılan bu araç, modern geliştirme süreçlerinde insan ve makine iş birliğini desteklemeyi amaçlar.",
+          "meta": "TypeScript · ★ 26.795 · +1.830 bugün",
+          "snapshot": {
+            "sourceId": "meta/astryx",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 26795,
+              "engagementCount": 1830,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1830,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open source design system that's fully customizable and agent ready. An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them."
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "summary": "CopilotKit/OpenBot, tarayıcı, dosya ve araç erişimine sahip açık kaynaklı (open source) yapay zekâ çalışma arkadaşları geliştirmeye olanak tanıyor. Her eylemi önceden planlayıp kaydeden bu sistem, çeşitli üretken yapay zekâ (generative AI) ajanlarının entegrasyonunu destekliyor.",
+          "meta": "TypeScript · ★ 11.767 · +298 bugün",
+          "snapshot": {
+            "sourceId": "CopilotKit/OpenBot",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11767,
+              "engagementCount": 298,
+              "rank": 11,
+              "extra": {
+                "starsToday": 298
+              }
+            },
+            "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+          }
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Alishahryar1/free-claude-code, Claude Code ve OpenClaw gibi çeşitli yapay zekâ araçlarını terminal, uygulama, IDE veya tarayıcı üzerinden ücretsiz kullanma imkânı sunuyor. Proje, çoklu model ve çoklu araç desteğiyle 1,3 milyardan fazla ücretsiz token erişimi sağlıyor.",
+          "meta": "Python · ★ 69.470 · +415 bugün",
+          "snapshot": {
+            "sourceId": "Alishahryar1/free-claude-code",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 69470,
+              "engagementCount": 415,
+              "rank": 12,
+              "extra": {
+                "starsToday": 415
+              }
+            },
+            "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+          }
+        },
+        {
+          "title": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "summary": "llama.cpp, büyük dil modellerinin (LLM) çıkarım (inference) işlemlerini C/C++ programlama dilleriyle gerçekleştirmeye olanak tanıyan bir projedir. Kullanıcıların bu modelleri kendi bilgisayarlarında çalıştırmaları için çeşitli kurulum seçenekleri sunar.",
+          "meta": "C++ · ★ 134.660 · +176 bugün",
+          "snapshot": {
+            "sourceId": "ggml-org/llama.cpp",
+            "capturedAt": "2026-11-13T05:16:20.566Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 134660,
+              "engagementCount": 176,
+              "rank": 13,
+              "extra": {
+                "starsToday": 176,
+                "baglam": "readme"
+              }
+            },
+            "description": "LLM inference in C/C++. A few options to get llama.cpp installed on your machine:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Jensen Huang resigns",
+          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+          "summary": "Nvidia CEO'su Jensen Huang görevinden istifa ettiğini duyurdu. Şirket yönetimi bu değişikliğin ardından yeni liderlik planlarını ve kurumsal süreçleri değerlendirmek üzere bir araya geldi.",
+          "meta": "3.181 oy · 2.963 yorum",
+          "snapshot": {
+            "sourceId": "50467087",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 3181,
+              "engagementCount": 2963,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50467087",
+                  "popularity": 3181,
+                  "engagementCount": 2963
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-12T13:52:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50467087"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-tran...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-..., https:&#x2F;&#x2F;www.reuters.com&#x2F;live&#x2F;nvidia-live-board-meets-fate-ce...https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50467087",
+              "popularity": 3181,
+              "engagementCount": 2963
+            }
+          ]
+        },
+        {
+          "title": "Anthropic IPO",
+          "url": "https://ipo.anthropic.com/us/",
+          "summary": "Yapay zekâ şirketi Anthropic, halka arz sürecini başlatarak halka açık bir şirket olma yolunda resmi başvuruda bulundu. Şirketin kurucuları tarafından paylaşılan mektup ve diğer ilgili belgeler, halka arz sürecine dair detayları kamuoyunun erişimine sunuyor.",
+          "meta": "868 oy · 830 yorum",
+          "snapshot": {
+            "sourceId": "50465829",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 868,
+              "engagementCount": 830,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50465829",
+                  "popularity": 868,
+                  "engagementCount": 830
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-12T11:46:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50465829",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Anthropic has filed to become a public company. Read the Founders’ letter and other relevant information."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50465829",
+              "popularity": 868,
+              "engagementCount": 830
+            }
+          ]
+        },
+        {
+          "title": "Service degradation on Microsoft 365",
+          "url": "https://status.cloud.microsoft/",
+          "summary": "Microsoft 365, kurumsal üretkenlik ve ofis yazılımları paketi, dünya genelinde hizmet kesintileri ve performans sorunları yaşıyor. Kullanıcılar platforma erişim sağlamakta güçlük çekerken, resmi durum sayfası üzerinden servislerdeki aksaklıklar doğrulanıyor.",
+          "meta": "654 oy · 617 yorum",
+          "snapshot": {
+            "sourceId": "50471731",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 654,
+              "engagementCount": 617,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50471731",
+                  "popularity": 654,
+                  "engagementCount": 617
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-12T18:20:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50471731"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.abc.net.au&#x2F;news&#x2F;2026-11-13&#x2F;microsoft-outage-affe...https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1xuje83&#x2F;microsoft...https:&#x2F;&#x2F;downdetector.com&#x2F;status&#x2F;microsoft-365&#x2F;"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50471731",
+              "popularity": 654,
+              "engagementCount": 617
+            }
+          ]
+        },
+        {
+          "title": "Rust 1.100",
+          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+          "summary": "Sistem programlama dili Rust 1.100 sürümü, güvenilir ve verimli yazılımlar geliştirmeyi kolaylaştırmayı amaçlayan güncellemelerle yayınlandı. Bu sürüm, yazılım geliştirme süreçlerinde performans ve güvenlik odaklı standartları desteklemeye devam ediyor.",
+          "meta": "537 oy · 218 yorum",
+          "snapshot": {
+            "sourceId": "50472038",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 537,
+              "engagementCount": 218,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50472038",
+                  "popularity": 537,
+                  "engagementCount": 218
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-12T18:39:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50472038",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Empowering everyone to build reliable and efficient software."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50472038",
+              "popularity": 537,
+              "engagementCount": 218
+            }
+          ]
+        },
+        {
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "summary": "Google tarafından kullanıma sunulan Gemini 4 Hydrogen, güvenilir ajan tabanlı iş akışları (agentic workflows) ve günlük görevler için tasarlanmış hızlı ve maliyet verimli bir yapay zekâ modelidir. Söz konusu model, verimlilik odaklı yapısıyla çeşitli uygulama süreçlerini desteklemeyi amaçlar.",
+          "meta": "495 oy · 315 yorum",
+          "snapshot": {
+            "sourceId": "50471431",
+            "capturedAt": "2026-11-13T05:16:19.647Z",
+            "metadata": {
+              "popularity": 495,
+              "engagementCount": 315,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50471431",
+                  "popularity": 495,
+                  "engagementCount": 315
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-12T18:01:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50471431",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Google introduces Gemini 4 Hydrogen, a fast, cost-efficient model built for reliable agentic workflows and everyday tasks. Get the details."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50471431",
+              "popularity": 495,
+              "engagementCount": 315
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "Hugging Face üzerinde paylaşılan xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Geliştirici, bu modelin temel alındığı bilimsel içerikli bir ince ayar (fine-tuning) çalışması olan xtools-at/Qwen3.5-9B-DeepThought-STEM modelini de kullanıcılara sunmaktadır.",
+          "meta": "♥ 4.767 · 18.933 indirme",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-13T05:16:19.405Z",
+            "metadata": {
+              "popularity": 4767,
+              "engagementCount": 18933,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2938,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "mtp",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Also check out DeepThought, my science finetune based on this model: xtools-at/Qwen3.5-9B-DeepThought-STEM"
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "MiniMaxAI tarafından geliştirilen MiniMax-H3-Image, metinden görüntü oluşturma (text-to-image) yeteneğine sahip bir yapay zekâ modelidir. Yazılım, görüntü düzenleme ve komut genişletme (prompt expansion) işlemleri için API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) desteği sunar.",
+          "meta": "♥ 890 · 306.718 indirme",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-13T05:16:19.405Z",
+            "metadata": {
+              "popularity": 890,
+              "engagementCount": 306718,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 839,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "NousResearch/Arete-27B",
+          "url": "https://huggingface.co/NousResearch/Arete-27B",
+          "summary": "NousResearch tarafından geliştirilen Arete-27B, Alibaba'nın metin üretme modeli Qwen3.8-27B üzerinde yapılan bir eğitim çalışmasıdır. Söz konusu model, Çin tabanlı bir yapay zekâ modeline batı değerlerini kazandırmak amacıyla yeniden eğitilmiştir.",
+          "meta": "♥ 491 · 4.669 indirme",
+          "snapshot": {
+            "sourceId": "NousResearch/Arete-27B",
+            "capturedAt": "2026-11-13T05:16:19.405Z",
+            "metadata": {
+              "popularity": 491,
+              "engagementCount": 4669,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 462,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "safetensors",
+                  "qwen3_5",
+                  "nous-research",
+                  "arete",
+                  "supervised-fine-tuning",
+                  "value-alignment",
+                  "text-generation",
+                  "conversational",
+                  "dataset:NousResearch/arete-data-pairs",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "speridlabs/idol",
+          "url": "https://huggingface.co/speridlabs/idol",
+          "summary": "speridlabs/idol, tek bir görselden üç boyutlu Gauss sıçratma (3D Gaussian splat) modelleri oluşturan bir görüntüden üç boyuta (image-to-3d) dönüştürme aracıdır. Standart .ply formatında çıktı veren bu model, arka planı temizleyerek tüketici sınıfı grafik işlemcilerinde iki saniyenin altında çalışabilir.",
+          "meta": "♥ 2.239 · 29.904 indirme",
+          "snapshot": {
+            "sourceId": "speridlabs/idol",
+            "capturedAt": "2026-11-13T05:16:19.405Z",
+            "metadata": {
+              "popularity": 2239,
+              "engagementCount": 29904,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 413,
+                "pipelineTag": "image-to-3d",
+                "tags": [
+                  "idol",
+                  "gaussian-splatting",
+                  "3d",
+                  "image-to-3d",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-to-3d model. Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians, written as a standard 3DGS .ply. It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds."
+          },
+          "streakDays": 10
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Lightricks tarafından geliştirilen LTX-2.5, görselleri hareketli videolara dönüştüren bir görselden videoya (image-to-video) modelidir. Hugging Face platformunda yer alan bu araç, statik içeriklerin yapay zekâ yardımıyla video formatına aktarılmasını sağlar.",
+          "meta": "♥ 11.646 · 2.782.513 indirme",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-13T05:16:19.405Z",
+            "metadata": {
+              "popularity": 11646,
+              "engagementCount": 2782513,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 405,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          },
+          "streakDays": 2
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
+          "url": "https://huggingface.co/papers/2611.16321",
+          "summary": "Hugging Face tarafından paylaşılan makale, büyük dil modellerini (LLM) verimli karar verme sistemlerine dönüştürmek için uyarlanabilir hesaplama yöntemini inceliyor. Araştırma, karar verme sürecindeki bilginin modelin orta katmanlarında yoğunlaştığını ve son altı katmanın performans kaybı yaşanmadan kaldırılabileceğini ortaya koyuyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.16321",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.16321",
+                "publishedAt": "2026-11-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/minhkks/NestOne",
+                "githubStars": 1
+              }
+            },
+            "description": "Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it remains unclear how much depth such decisions require. We find that decision information is concentrated in intermediate layers, with early layers building essential features and the final six layers removable without loss, while independently trained smaller models largely mimic the full model rat"
+          }
+        },
+        {
+          "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+          "url": "https://huggingface.co/papers/2611.15131",
+          "summary": "Hugging Face tarafından paylaşılan Duo v1, işitsel ve görsel verileri sürekli algılayarak kullanıcılarla gerçek zamanlı etkileşime giren bir dünya modeli (world model). Karşılıklı Dünya Modeli (Reciprocal World Model) yaklaşımını kullanan bu sistem, akıl yürütme ve karar verme süreçlerini yapay zekâ modelinin temel bir parçası haline getiriyor.",
+          "meta": "7 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.15131",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.15131",
+                "publishedAt": "2026-11-11T00:00:00.000Z"
+              }
+            },
+            "description": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The RWM treats intelligence and physical reality as equally fundamental to what constitutes a world. Existing world models largely focus on simulating the latter, leaving reasoning and decision-making as external controls rather than intrinsic parts of the world itself. In RWM, we identify two equally fu"
+          }
+        },
+        {
+          "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+          "url": "https://huggingface.co/papers/2611.13004",
+          "summary": "G-STAR, ayrık özbağlanımlı (discrete autoregressive) modellerde görüntü oluşturma sürecindeki kalite ve hız dengesini iyileştirmeyi amaçlayan bir yöntem sunuyor. Ürün niceleme (product quantization) prensibine dayanan bu yaklaşım, mekânsal sıkıştırma faktörüyle grup boyutunu ölçeklendirerek temsil kapasitesini artırıyor.",
+          "meta": "6 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.13004",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.13004",
+                "publishedAt": "2026-11-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/DAGroup-PKU/G-STAR",
+                "githubStars": 4
+              }
+            },
+            "description": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--grou"
+          }
+        },
+        {
+          "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+          "url": "https://huggingface.co/papers/2611.14815",
+          "summary": "BirdDreams, sürüş dünyası modelleri (driving world models) için hem perspektif hem de kuş bakışı (BEV) görünümünde video üretimi sağlayan bir yöntem sunuyor. Bu yaklaşım, araç hareketlerini ve yörünge kontrolünü birleştirerek sürüş sahnelerinin gerçekçi ve tepkisel şekilde simüle edilmesini amaçlıyor.",
+          "meta": "20 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.14815",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.14815",
+                "publishedAt": "2026-11-10T00:00:00.000Z"
+              }
+            },
+            "description": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories a"
+          }
+        },
+        {
+          "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+          "url": "https://huggingface.co/papers/2611.05984",
+          "summary": "Hugging Face üzerinde yayımlanan makale, ileri seviye dil modellerinde kullanılan hiper-bağlantı (hyper-connections) mimarilerinin bileşenlerini inceleyerek daha basit ve verimli tasarım yöntemleri araştırıyor. Çalışma, öğrenilmiş kapı mekanizmaları ve sabit kapılarla yapılan karıştırma işlemlerinin model performansı üzerinde etkili etkileşim grupları oluşturduğunu ortaya koyuyor.",
+          "meta": "13 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.05984",
+            "capturedAt": "2026-11-13T05:16:19.423Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.05984",
+                "publishedAt": "2026-11-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/aHapBean/SimpleHC",
+                "githubStars": 20
+              }
+            },
+            "description": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this work, we systematically study the HC architecture to understand its components and identify simpler, more efficient designs. We find that learned read/write gating without mixing and unconstrained mixing with fixed gates form two effective interaction groups: either alone achieves performance compa"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coding agents",
+      "explanation": "Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve düzenleme görevlerini otonom bir şekilde yerine getiren yapay zekâ yazılımları."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlar girerek yönetmenizi sağlayan metin tabanlı arayüz."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılımcıların belirli bir platform veya uygulama için daha hızlı ve kolay yazılım geliştirmesini sağlayan hazır araçlar ve kütüphaneler bütünü."
+    },
+    {
+      "term": "watch faces",
+      "explanation": "Akıllı saatlerin ekranında görünen, saati ve diğer bilgileri gösteren dijital arayüz tasarımları."
+    },
+    {
+      "term": "open-source",
+      "explanation": "Kaynak kodları herkesin erişimine, incelemesine ve geliştirmesine açık olan yazılım türü."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin yeni veriler üzerinde tahmin yürütmesini veya sonuç üretmesini sağlayan yazılım bileşeni."
+    },
+    {
+      "term": "runtime environment",
+      "explanation": "Bir yazılımın çalışması için gereken temel kütüphaneleri ve sistem kaynaklarını sağlayan ortam."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Yapay zekâ ajanlarının karmaşık yazılım problemlerini çözmek, sistem tasarlamak ve verimli kod üretmek için kullandığı teknik yetenekler."
+    },
+    {
+      "term": "open source",
+      "explanation": "Tüm kullanıcıların kodlarını görebildiği, değiştirebildiği ve dağıtabildiği özgür yazılım modeli."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Kullanıcıdan aldığı komutlarla yeni metin, görsel veya ses gibi içerikler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin, kendisine verilen yeni bir girdiyi işleyerek bir sonuç veya yanıt üretmesi süreci."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "Yapay zekâ ajanlarının bir hedef doğrultusunda kendi kararlarını vererek adımları sırayla gerçekleştirdiği çalışma düzeni."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Yapay zekâ modellerinin verilen bir konuya veya komuta uygun olarak anlamlı metinler oluşturma süreci."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Genel amaçlı eğitilmiş bir yapay zekâ modelinin, belirli bir konuda daha başarılı olması için daha küçük ve özel bir veri setiyle yeniden eğitilmesi."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Yazılı olarak verilen bir tanımı veya komutu analiz ederek buna uygun görsel oluşturan yapay zekâ yeteneği."
+    }
+  ]
+}
