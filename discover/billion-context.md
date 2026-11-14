@@ -2,12 +2,13 @@
 
 TypeScript ile geliştirilen billion-context, yapay zekâ modellerinin tek seferde işleyebildiği bilgi kapasitesini ifade eden bağlam penceresi (context window) üzerinde çalışan bir sıkıştırma eklentisidir. Bu araç, aylık uzun oturumlarda milyarlarca belirteci (token) daha küçük alanlara sığdırarak belirteç kullanımını beş kat azaltmayı hedefler.
 
-- ★ 6.909
+- ★ 7.314
 - TypeScript
 - GitHub Trending · 2026-11-08
 
 ## Güncelleme
 
+- **14 Kasım 2026:** Yıldız 6.909 → 7.314, son sürüm v0.1.214 (14 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 5.881 → 6.909, son sürüm v0.1.213 (7 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 4.694 → 5.881, son sürüm v0.1.213 (7 Kasım 2026).
 - **8 Kasım 2026:** Yıldız 4.690 → 4.694, son sürüm v0.1.213 (7 Kasım 2026).

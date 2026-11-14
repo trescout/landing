@@ -2,12 +2,13 @@
 
 Veyra-NRVideo, videolar ve görüntü kaynakları için gerçek zamanlı önizleme sunan gelişmiş bir Windows video oynatıcısı ve kayıt iyileştirme aracıdır. Yapay zekâ destekli süper çözünürlük (super resolution), görüntü iyileştirme ve kare oluşturma (frame generation) teknolojilerini kullanarak görsel deneyimi geliştirmeyi hedefler.
 
-- ★ 1.697
+- ★ 1.748
 - C++
 - GitHub Trending · 2026-11-14
 
 ## Güncelleme
 
+- **14 Kasım 2026:** Yıldız 1.697 → 1.748, son sürüm v2.1.6 (14 Kasım 2026).
 - **14 Kasım 2026:** Yıldız 1.692 → 1.697, son sürüm v2.1.5 (10 Kasım 2026).
 
 ## Ne kazandırır?

@@ -2,12 +2,13 @@
 
 Veyra-NRVideo é um reprodutor de vídeo avançado para Windows e ferramenta de aprimoramento de gravação que oferece visualização em tempo real para vídeos e fontes de imagem. Ele visa melhorar a experiência visual usando super-resolução impulsionada por inteligência artificial, aprimoramento de imagem e tecnologias de geração de quadros.
 
-- ★ 1.697
+- ★ 1.748
 - C++
 - GitHub Trending · 2026-11-14
 
 ## Atualizações
 
+- **14 de novembro de 2026:** Estrelas 1,697 → 1,748, versão mais recente v2.1.6 (14 de novembro de 2026).
 - **14 de novembro de 2026:** Estrelas 1,692 → 1,697, versão mais recente v2.1.5 (10 de novembro de 2026).
 
 ## O que você ganha

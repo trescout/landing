@@ -2,12 +2,13 @@
 
 Desarrollado en TypeScript, billion-context es un complemento de compresión que opera en la ventana de contexto, la cual representa la capacidad de información que los modelos de inteligencia artificial pueden procesar de una sola vez. Esta herramienta apunta a reducir el uso de tokens hasta cinco veces al ajustar miles de millones de tokens en espacios más pequeños durante sesiones largas mensuales.
 
-- ★ 6.909
+- ★ 7.314
 - TypeScript
 - GitHub Trending · 2026-11-08
 
 ## Actualizaciones
 
+- **14 de noviembre de 2026:** Estrellas 6,909 → 7,314, última versión v0.1.214 (14 de noviembre de 2026).
 - **12 de noviembre de 2026:** Estrellas 5,881 → 6,909, última versión v0.1.213 (7 de noviembre de 2026).
 - **10 de noviembre de 2026:** Estrellas 4,694 → 5,881, última versión v0.1.213 (7 de noviembre de 2026).
 - **8 de noviembre de 2026:** Estrellas 4,690 → 4,694, última versión v0.1.213 (7 de noviembre de 2026).

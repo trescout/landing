@@ -9430,7 +9430,7 @@
     "slug": "goose",
     "title": "Goose",
     "tagline": "Goose, kod önerilerinin ötesine geçerek yazılım kurulumu, yürütme, düzenleme ve test süreçlerini otomatize eden açık kaynaklı…",
-    "meta": "★ 56.432 · Rust",
+    "meta": "★ 56.580 · Rust",
     "image": "/assets/discover/og/goose.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -9438,7 +9438,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 56432,
+    "stars": 56580,
     "lite": false,
     "headline": "Yazılım süreçlerini yapay zekâ ile yönetinşa otomatize edin",
     "last_review": "2026-11-14",
@@ -9554,6 +9554,13 @@
         "onceki_yildiz": 56418,
         "surum": "v1.59.0",
         "surum_tarihi": "2026-11-10"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 56580,
+        "onceki_yildiz": 56432,
+        "surum": "v1.59.1",
+        "surum_tarihi": "2026-11-14"
       }
     ],
     "tagline_en": "Goose is an open source software that goes beyond code suggestions and automates software installation, execution, editing and testing.",
@@ -17762,7 +17769,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 84.019 · TypeScript",
+    "meta": "★ 84.074 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -17770,7 +17777,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 84019,
+    "stars": 84074,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-11-14",
@@ -18509,6 +18516,13 @@
         "onceki_yildiz": 83532,
         "surum": "v0.9.43",
         "surum_tarihi": "2026-11-13"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 84074,
+        "onceki_yildiz": 84019,
+        "surum": "v0.9.44",
+        "surum_tarihi": "2026-11-14"
       }
     ],
     "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.",
@@ -24928,7 +24942,7 @@
     "slug": "claude-video",
     "title": "Claude Video",
     "tagline": "Claude-video, Claude modeline video içeriğini analiz etme yeteneği kazandıran bir Python aracıdır.",
-    "meta": "★ 19.744 · Python",
+    "meta": "★ 20.750 · Python",
     "image": "/assets/discover/og/claude-video.webp",
     "source": "GitHub",
     "date": "2026-07-07",
@@ -24936,7 +24950,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 19744,
+    "stars": 20750,
     "lite": false,
     "headline": "Yapay zekâ ile video analizi",
     "last_review": "2026-11-14",
@@ -24987,6 +25001,13 @@
         "tarih": "2026-11-03",
         "yildiz": 19744,
         "onceki_yildiz": 18736,
+        "surum": "v0.3.2",
+        "surum_tarihi": "2026-09-25"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 20750,
+        "onceki_yildiz": 19744,
         "surum": "v0.3.2",
         "surum_tarihi": "2026-09-25"
       }
@@ -35422,14 +35443,14 @@
     "slug": "book-to-skill",
     "title": "Book to Skill",
     "tagline": "Book-to-skill projesi, teknik kitapların taşınabilir belge biçimlerini (PDF) Claude Code için kullanılabilir yetenek…",
-    "meta": "★ 35.999 · Python",
+    "meta": "★ 37.805 · Python",
     "image": "/assets/discover/og/book-to-skill.webp",
     "source": "GitHub",
     "date": "2026-07-29",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 35999,
+    "stars": 37805,
     "lite": false,
     "headline": "Teknik kitapları yapay zekâ yeteneğine dönüştürün",
     "last_review": "2026-11-14",
@@ -35536,6 +35557,13 @@
         "tarih": "2026-10-25",
         "yildiz": 35999,
         "onceki_yildiz": 34270,
+        "surum": "v1.4.0",
+        "surum_tarihi": "2026-08-10"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 37805,
+        "onceki_yildiz": 35999,
         "surum": "v1.4.0",
         "surum_tarihi": "2026-08-10"
       }
@@ -37797,14 +37825,14 @@
     "slug": "pdf-inspector",
     "title": "PDF Inspector",
     "tagline": "Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metinlerini ayıklamak için…",
-    "meta": "★ 19.394 · Rust",
+    "meta": "★ 20.020 · Rust",
     "image": "/assets/discover/og/pdf-inspector.webp",
     "source": "GitHub",
     "date": "2026-08-04",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 19394,
+    "stars": 20020,
     "lite": false,
     "headline": "Hızlı ve yerel PDF metin işleme",
     "last_review": "2026-11-14",
@@ -37894,6 +37922,13 @@
         "onceki_yildiz": 19360,
         "surum": "v1.25.2",
         "surum_tarihi": "2026-09-28"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 20020,
+        "onceki_yildiz": 19394,
+        "surum": "v1.26.0",
+        "surum_tarihi": "2026-11-14"
       }
     ],
     "tagline_fr": "Développé par Firecrawl, PDF Inspector est un outil permettant d'examiner, de classer et d'extraire du texte à partir de fichiers PDF.",
@@ -37929,7 +37964,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 69.935 · Python",
+    "meta": "★ 69.986 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -37937,7 +37972,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 69935,
+    "stars": 69986,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-11-14",
@@ -38269,6 +38304,13 @@
         "yildiz": 69935,
         "onceki_yildiz": 69481,
         "surum": "v6.19.12",
+        "surum_tarihi": "2026-11-14"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 69986,
+        "onceki_yildiz": 69935,
+        "surum": "v6.19.15",
         "surum_tarihi": "2026-11-14"
       }
     ]
@@ -49049,14 +49091,14 @@
     "slug": "browser-use",
     "title": "Browser Use",
     "tagline": "Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi.",
-    "meta": "★ 120.967",
+    "meta": "★ 120.973",
     "image": "/assets/discover/og/browser-use.webp",
     "source": "GitHub",
     "date": "2026-08-26",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 120967,
+    "stars": 120973,
     "summary": "Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi. İnternet üzerindeki karmaşık görevleri tarayıcı tabanlı işlemlerle otomatize etmeye imkân tanıyor.",
     "headline": "Yapay zekâ tarayıcı otomasyonu",
     "lite": false,
@@ -49130,6 +49172,13 @@
         "onceki_yildiz": 120869,
         "surum": "1.0.4",
         "surum_tarihi": "2026-11-13"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 120973,
+        "onceki_yildiz": 120967,
+        "surum": "1.0.5",
+        "surum_tarihi": "2026-11-14"
       }
     ],
     "last_review": "2026-11-14",
@@ -53298,7 +53347,7 @@
     "slug": "deskcommcrm",
     "title": "DeskcommCRM",
     "tagline": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM)…",
-    "meta": "★ 5.405 · TypeScript",
+    "meta": "★ 5.406 · TypeScript",
     "image": "/assets/discover/og/deskcommcrm.webp",
     "source": "GitHub",
     "date": "2026-09-12",
@@ -53307,7 +53356,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5405,
+    "stars": 5406,
     "summary": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanlarıyla, benzer işlevlere sahip ticari yazılımlara (Kommo, Octadesk, Intercom) kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı yapay zekâlı CRM",
@@ -53634,6 +53683,13 @@
         "onceki_yildiz": 5396,
         "surum": "v1.110.0",
         "surum_tarihi": "2026-11-13"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 5406,
+        "onceki_yildiz": 5405,
+        "surum": "v1.111.0",
+        "surum_tarihi": "2026-11-14"
       }
     ],
     "tagline_en": "DeskcommCRM is an open-source customer relationship management (CRM) system developed for businesses that sell via chat...",
@@ -55437,14 +55493,14 @@
     "slug": "tinycast",
     "title": "Tinycast",
     "tagline": "Tinycast, macOS işletim sistemi için geliştirilmiş hafif bir uygulama başlatıcı (launcher), kısayol yöneticisi ve pano geçmişi…",
-    "meta": "★ 9.297 · Swift",
+    "meta": "★ 9.432 · Swift",
     "image": "/assets/discover/og/tinycast.webp",
     "source": "GitHub",
     "date": "2026-09-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 9297,
+    "stars": 9432,
     "summary": "Tinycast, macOS işletim sistemi için geliştirilmiş hafif bir uygulama başlatıcı (launcher), kısayol yöneticisi ve pano geçmişi aracıdır. Swift diliyle yazılan bu yerel (native) yazılım, sistem kaynaklarını verimli kullanarak masaüstü iş akışlarını hızlandırmayı amaçlar.",
     "lite": false,
     "headline": "MacOS için hafif uygulama başlatıcı",
@@ -55498,6 +55554,13 @@
         "onceki_yildiz": 9158,
         "surum": "v0.12.11",
         "surum_tarihi": "2026-11-08"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 9432,
+        "onceki_yildiz": 9297,
+        "surum": "v0.12.15",
+        "surum_tarihi": "2026-11-14"
       }
     ],
     "tagline_en": "Tinycast is a lightweight application launcher, shortcut manager, and clipboard history tool developed for the macOS operating system...",
@@ -64177,7 +64240,7 @@
     "slug": "billion-context",
     "title": "Billion Context",
     "tagline": "TypeScript ile geliştirilen billion-context, yapay zekâ modellerinin tek seferde işleyebildiği bilgi kapasitesini ifade eden…",
-    "meta": "★ 6.909 · TypeScript",
+    "meta": "★ 7.314 · TypeScript",
     "image": "/assets/discover/og/billion-context.webp",
     "source": "GitHub",
     "date": "2026-11-08",
@@ -64185,7 +64248,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6909,
+    "stars": 7314,
     "last_seen": "2026-11-10",
     "summary": "TypeScript ile geliştirilen billion-context, yapay zekâ modellerinin tek seferde işleyebildiği bilgi kapasitesini ifade eden bağlam penceresi (context window) üzerinde çalışan bir sıkıştırma eklentisidir. Bu araç, aylık uzun oturumlarda milyarlarca belirteci (token) daha küçük alanlara sığdırarak belirteç kullanımını beş kat azaltmayı hedefler.",
     "lite": false,
@@ -64212,6 +64275,13 @@
         "onceki_yildiz": 5881,
         "surum": "v0.1.213",
         "surum_tarihi": "2026-11-07"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 7314,
+        "onceki_yildiz": 6909,
+        "surum": "v0.1.214",
+        "surum_tarihi": "2026-11-14"
       }
     ],
     "tagline_en": "Developed with TypeScript, billion-context refers to the information capacity that AI models can process in a single go…",
@@ -64744,7 +64814,7 @@
     "slug": "veyra-nrvideo",
     "title": "Veyra-NRVideo",
     "tagline": "Veyra-NRVideo, videolar ve görüntü kaynakları için gerçek zamanlı önizleme sunan gelişmiş bir Windows video oynatıcısı ve…",
-    "meta": "★ 1.697 · C++",
+    "meta": "★ 1.748 · C++",
     "image": "/assets/discover/og/veyra-nrvideo.webp",
     "source": "GitHub",
     "date": "2026-11-14",
@@ -64752,7 +64822,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1697,
+    "stars": 1748,
     "last_seen": "2026-11-14",
     "summary": "Veyra-NRVideo, videolar ve görüntü kaynakları için gerçek zamanlı önizleme sunan gelişmiş bir Windows video oynatıcısı ve kayıt iyileştirme aracıdır. Yapay zekâ destekli süper çözünürlük (super resolution), görüntü iyileştirme ve kare oluşturma (frame generation) teknolojilerini kullanarak görsel deneyimi geliştirmeyi hedefler.",
     "lite": false,
@@ -64767,6 +64837,13 @@
         "onceki_yildiz": 1692,
         "surum": "v2.1.5",
         "surum_tarihi": "2026-11-10"
+      },
+      {
+        "tarih": "2026-11-14",
+        "yildiz": 1748,
+        "onceki_yildiz": 1697,
+        "surum": "v2.1.6",
+        "surum_tarihi": "2026-11-14"
       }
     ],
     "tagline_en": "Veyra-NRVideo is an advanced Windows video player offering real-time preview for videos and image sources, and…",
