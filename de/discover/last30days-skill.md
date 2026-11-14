@@ -2,16 +2,16 @@
 
 Last30days-skill bietet einen Skill für künstliche Intelligenz (AI-Agent-Skill), der aktuelle Daten durch Recherchen auf Plattformen wie Reddit, X, YouTube, Hacker News und Polymarket synthetisiert. Dieses Python-basierte Tool kombiniert Informationen aus verschiedenen Quellen, um überprüfbare Zusammenfassungen für Benutzer zu erstellen.
 
-- ★ 67.460
+- ★ 67.580
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Aktualisierungen
 
+- **14. November 2026:** Sterne 67,460 → 67,580, neueste Version v3.39.0 (13. November 2026).
 - **13. November 2026:** Sterne 67,362 → 67,460, neueste Version v3.38.1 (12. November 2026).
 - **12. November 2026:** Sterne 67,267 → 67,362, neueste Version v3.36.1 (12. November 2026).
 - **11. November 2026:** Sterne 67,171 → 67,267, neueste Version v3.36.0 (11. November 2026).
-- **10. November 2026:** Sterne 67,057 → 67,171, neueste Version v3.33.2 (10. November 2026).
 
 ## Was es bringt
 

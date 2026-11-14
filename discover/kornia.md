@@ -2,12 +2,13 @@
 
 Kornia, uzamsal yapay zekâ (spatial AI) uygulamaları için geliştirilmiş, türevlenebilir bilgisayarlı görü (computer vision) kütüphanesidir. Derin öğrenme çatısı PyTorch üzerinde çalışan bu araç, görüntü işleme ve geometrik görü algoritmalarını yapay zekâ iş akışlarına entegre etmeyi sağlar.
 
-- ★ 11.944
+- ★ 12.381
 - Python
 - GitHub Trending · 2026-11-02
 
 ## Güncelleme
 
+- **14 Kasım 2026:** Yıldız 11.944 → 12.381, son sürüm v0.9.1 (13 Kasım 2026).
 - **2 Kasım 2026:** Yıldız 11.886 → 11.944, son sürüm v0.9.0 (23 Ekim 2026).
 
 ## Ne kazandırır?

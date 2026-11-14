@@ -2,16 +2,16 @@
 
 Google tarafından sunulan mobil geliştirme platformu Firebase, Apple cihazları için hazırlanan uygulamalara veri tabanı ve kimlik doğrulama gibi bulut hizmetleri eklemeyi sağlayan bir yazılım geliştirme kiti (SDK) sunuyor. Bu araç, geliştiricilerin Apple ekosistemi üzerinde çalışan uygulamalarında arka uç (backend) süreçlerini yönetmelerini kolaylaştırıyor.
 
-- ★ 6.980
+- ★ 6.993
 - C++
 - GitHub Trending · 2026-10-01
 
 ## Güncelleme
 
+- **14 Kasım 2026:** Yıldız 6.980 → 6.993, son sürüm 13.2.0 (13 Kasım 2026).
 - **23 Ekim 2026:** Yıldız 6.978 → 6.980, son sürüm 13.1.1 (22 Ekim 2026).
 - **22 Ekim 2026:** Yıldız 6.931 → 6.978, son sürüm 13.1.0 (21 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 6.801 → 6.931, son sürüm 13.0.1 (7 Ekim 2026).
-- **1 Ekim 2026:** Yıldız 6.801 → 6.801, son sürüm 12.19.2 (15 Eylül 2026).
 
 ## Ne kazandırır?
 

@@ -2,12 +2,13 @@
 
 Das von OpenAI entwickelte codex-security bietet eine Befehlszeilenschnittstelle (CLI) und ein Software Development Kit (SDK), die darauf ausgelegt sind, Sicherheitslücken zu finden, zu verifizieren und zu beheben. Dieses in TypeScript geschriebene Tool zielt darauf ab, die Prozesse zur Erkennung von Sicherheitslücken in Softwareprojekten zu automatisieren.
 
-- ★ 11.901
+- ★ 13.233
 - TypeScript
 - GitHub Trending · 2026-11-11
 
 ## Aktualisierungen
 
+- **14. November 2026:** Sterne 11,901 → 13,233, neueste Version npm-v0.10.0 (12. November 2026).
 - **12. November 2026:** Sterne 11,537 → 11,901, neueste Version npm-v0.10.0 (12. November 2026).
 
 ## Was es bringt

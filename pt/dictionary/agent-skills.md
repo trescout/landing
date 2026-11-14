@@ -71,8 +71,8 @@ Sim. As plataformas empacotam habilidades comuns; para trabalhos específicos, v
 - [Taste Skill](https://trescout.com/pt/discover/taste-skill/)
 - [OpenMontage](https://trescout.com/pt/discover/openmontage/)
 - [Awesome Agent Skills](https://trescout.com/pt/discover/awesome-agent-skills/)
-- [Agentskills](https://trescout.com/pt/discover/agentskills/)
 - [Text to Cad](https://trescout.com/pt/discover/text-to-cad/)
+- [Agentskills](https://trescout.com/pt/discover/agentskills/)
 - [Claude Obsidian](https://trescout.com/pt/discover/claude-obsidian/)
 - [Stitch Skills](https://trescout.com/pt/discover/stitch-skills/)
 

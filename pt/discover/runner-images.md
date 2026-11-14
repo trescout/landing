@@ -2,16 +2,16 @@
 
 As imagens de executor (runner images) do GitHub Actions hospedam os ambientes de máquinas virtuais usados pela plataforma GitHub Actions, que automatiza os processos de desenvolvimento de software. Essas imagens fornecem sistemas operacionais e conjuntos de ferramentas pré-configurados necessários nos processos de teste e implantação de software.
 
-- ★ 13.576
+- ★ 13.591
 - PowerShell
 - GitHub Trending · 2026-09-27
 
 ## Atualizações
 
+- **14 de novembro de 2026:** Estrelas 13,576 → 13,591, versão mais recente win25/20261111.331 (12 de novembro de 2026).
 - **9 de novembro de 2026:** Estrelas 13,575 → 13,576, versão mais recente xcode-27-arm64/20261104.0337 (4 de novembro de 2026).
 - **6 de novembro de 2026:** Estrelas 13,566 → 13,575, versão mais recente win25/20261101.318 (2 de novembro de 2026).
 - **4 de novembro de 2026:** Estrelas 13,547 → 13,566, versão mais recente win25/20261030.317 (2 de novembro de 2026).
-- **31 de outubro de 2026:** Estrelas 13,546 → 13,547, versão mais recente macos-26-arm64/20261026.0455 (28 de outubro de 2026).
 
 ## O que você ganha
 

@@ -75,8 +75,8 @@ Los comandos de lectura no causan daños. En los comandos que borran y escriben,
 - [Gemini CLI](https://trescout.com/es/discover/gemini-cli/)
 - [Terminal](https://trescout.com/es/discover/terminal/)
 - [Cline](https://trescout.com/es/discover/cline/)
-- [Career Ops](https://trescout.com/es/discover/career-ops/)
 - [Free Claude Code](https://trescout.com/es/discover/free-claude-code/)
+- [Career Ops](https://trescout.com/es/discover/career-ops/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/terminal/)
 

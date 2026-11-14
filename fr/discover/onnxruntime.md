@@ -2,16 +2,16 @@
 
 ONNX Runtime est un accélérateur multiplateforme hautes performances pour l'inférence et la formation en apprentissage automatique.
 
-- ★ 22 178
+- ★ 22 302
 - C++
 - GitHub Trending · 2026-08-22
 
 ## Mises à jour
 
+- **14 novembre 2026:** Étoiles 22,178 → 22,302, dernière version v1.32.0 (13 novembre 2026).
 - **27 octobre 2026:** Étoiles 22,039 → 22,178, dernière version v1.31.1 (26 octobre 2026).
 - **9 octobre 2026:** Étoiles 21,821 → 22,039, dernière version v1.31.0 (9 octobre 2026).
 - **11 septembre 2026:** Étoiles 21,808 → 21,821, dernière version v1.30.0 (10 septembre 2026).
-- **10 septembre 2026:** Étoiles 21,495 → 21,808, dernière version v1.29.1 (10 septembre 2026).
 
 ## Ce que ça vous apporte
 

@@ -71,8 +71,8 @@ Oui. Les plateformes regroupent les compétences courantes, et vous écrivez les
 - [Taste Skill](https://trescout.com/fr/discover/taste-skill/)
 - [OpenMontage](https://trescout.com/fr/discover/openmontage/)
 - [Awesome Agent Skills](https://trescout.com/fr/discover/awesome-agent-skills/)
-- [Agentskills](https://trescout.com/fr/discover/agentskills/)
 - [Text to Cad](https://trescout.com/fr/discover/text-to-cad/)
+- [Agentskills](https://trescout.com/fr/discover/agentskills/)
 - [Claude Obsidian](https://trescout.com/fr/discover/claude-obsidian/)
 - [Stitch Skills](https://trescout.com/fr/discover/stitch-skills/)
 

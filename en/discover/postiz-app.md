@@ -2,12 +2,13 @@
 
 gitroomhq/postiz-app is an agentic scheduling tool for planning social media content. Developed in TypeScript, this application allows users to automate their social media posts.
 
-- ★ 41,094
+- ★ 41,556
 - TypeScript
 - GitHub Trending · 2026-10-27
 
 ## Updates
 
+- **November 14, 2026:** Stars 41,094 → 41,556, latest release v2.26.0 (November 13, 2026).
 - **November 8, 2026:** Stars 39,130 → 41,094, latest release v2.25.3 (October 24, 2026).
 - **October 27, 2026:** Stars 39,093 → 39,130, latest release v2.25.3 (October 24, 2026).
 

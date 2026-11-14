@@ -2,12 +2,13 @@
 
 gitroomhq/postiz-app, sosyal medya içeriklerini planlamaya yönelik ajan tabanlı (agentic) bir zamanlama aracıdır. TypeScript diliyle geliştirilen bu uygulama, kullanıcıların sosyal medya paylaşımlarını otomatize etmelerini sağlar.
 
-- ★ 41.094
+- ★ 41.556
 - TypeScript
 - GitHub Trending · 2026-10-27
 
 ## Güncelleme
 
+- **14 Kasım 2026:** Yıldız 41.094 → 41.556, son sürüm v2.26.0 (13 Kasım 2026).
 - **8 Kasım 2026:** Yıldız 39.130 → 41.094, son sürüm v2.25.3 (24 Ekim 2026).
 - **27 Ekim 2026:** Yıldız 39.093 → 39.130, son sürüm v2.25.3 (24 Ekim 2026).
 

@@ -2,12 +2,13 @@
 
 Python tabanlı Patent Disclosure Skill, teknik buluş taslaklarını analiz ederek resmi patent formatına uygun teknik açıklamalar, istemler (claims) ve önceki teknik (prior art) karşılaştırmaları üretir.
 
-- ★ 12.412
+- ★ 13.431
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
 
+- **14 Kasım 2026:** Yıldız 12.412 → 13.431.
 - **28 Ekim 2026:** Yıldız 11.377 → 12.412.
 - **12 Ekim 2026:** Yıldız 10.360 → 11.377.
 - **27 Eylül 2026:** Yıldız 6.058 → 10.360.

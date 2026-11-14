@@ -2,16 +2,16 @@
 
 O FastAPI é um framework web moderno que permite desenvolver interfaces de programação de aplicações (APIs) de alto desempenho com a linguagem de programação Python. Com base em dicas de tipos (type hints) padrão do Python, ele oferece codificação rápida e soluções prontas para produção.
 
-- ★ 104.643
+- ★ 104.692
 - Python
 - GitHub Trending · 2026-10-23
 
 ## Atualizações
 
+- **14 de novembro de 2026:** Estrelas 104,643 → 104,692, versão mais recente 0.162.7 (13 de novembro de 2026).
 - **12 de novembro de 2026:** Estrelas 104,624 → 104,643, versão mais recente 0.162.5 (11 de novembro de 2026).
 - **10 de novembro de 2026:** Estrelas 104,558 → 104,624, versão mais recente 0.162.4 (10 de novembro de 2026).
 - **8 de novembro de 2026:** Estrelas 104,065 → 104,558, versão mais recente 0.162.2 (7 de novembro de 2026).
-- **24 de outubro de 2026:** Estrelas 104,014 → 104,065, versão mais recente 0.162.0 (23 de outubro de 2026).
 
 ## O que você ganha
 

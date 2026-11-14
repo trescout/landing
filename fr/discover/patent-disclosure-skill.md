@@ -2,12 +2,13 @@
 
 Le Patent Disclosure Skill basé sur Python analyse les ébauches d'inventions techniques pour générer des descriptions techniques, des revendications (claims) et des comparaisons avec l'état de la technique (prior art) conformes aux formats de brevet officiels.
 
-- ★ 12 412
+- ★ 13 431
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Mises à jour
 
+- **14 novembre 2026:** Étoiles 12,412 → 13,431.
 - **28 octobre 2026:** Étoiles 11,377 → 12,412.
 - **12 octobre 2026:** Étoiles 10,360 → 11,377.
 - **27 septembre 2026:** Étoiles 6,058 → 10,360.

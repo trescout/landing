@@ -10697,5 +10697,57 @@
     "kisa_es": "Son diseños de interfaz digital que muestran la hora, la fecha y datos personales en las pantallas de los relojes inteligentes.",
     "kisa_pt": "São designs de interfaces digitais que exibem a hora, a data e dados pessoais em telas de relógios inteligentes.",
     "kisa_de": "Dies sind digitale Benutzeroberflächendesign auf Smartwatch-Bildschirmen, die Uhrzeit, Datum und persönliche Daten anzeigen."
+  },
+  {
+    "slug": "data-plane",
+    "en": "Data Plane",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir ağ üzerindeki verinin gerçek anlamda iletildiği ve yönlendirildiği temel altyapı katmanıdır.",
+    "date": "2026-11-14",
+    "kisa_en": "It is the fundamental infrastructure layer where data on a network is truly transmitted and routed.",
+    "kisa_fr": "Il s'agit de la couche d'infrastructure fondamentale sur un réseau où les données sont réellement transmises et acheminées.",
+    "kisa_es": "Es la capa de infraestructura fundamental en la que los datos de una red se transmiten y enrutan realmente.",
+    "kisa_pt": "É a camada de infraestrutura básica na qual os dados em uma rede são verdadeiramente transmitidos e roteados.",
+    "kisa_de": "Dies ist die grundlegende Infrastrukturschicht, über die Daten in einem Netzwerk tatsächlich übertragen und geroutet werden."
+  },
+  {
+    "slug": "super-resolution",
+    "en": "Super Resolution",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Düşük çözünürlüklü görüntüleri yapay zekâ yardımıyla daha net ve yüksek çözünürlüklü hale getirme teknolojisidir.",
+    "date": "2026-11-14",
+    "kisa_en": "It is a technology that makes low-resolution images clearer and higher resolution with the help of artificial intelligence.",
+    "kisa_fr": "Il s'agit d'une technologie qui permet de rendre les images basse résolution plus nettes et haute résolution à l'aide de l'intelligence artificielle.",
+    "kisa_es": "Es una tecnología que hace que las imágenes de baja resolución sean más nítidas y de alta resolución con la ayuda de la inteligencia artificial.",
+    "kisa_pt": "É uma tecnologia para tornar imagens de baixa resolução mais nítidas e de alta resolução com a ajuda de inteligência artificial.",
+    "kisa_de": "Es ist eine Technologie, die Bilder mit niedriger Auflösung mithilfe von künstlicher Intelligenz schärfer und in höherer Auflösung macht."
+  },
+  {
+    "slug": "frame-generation",
+    "en": "Frame Generation",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Görüntü akışını daha pürüzsüz hale getirmek için mevcut karelerin arasına yapay zekâ ile yeni kareler ekleme yöntemidir.",
+    "date": "2026-11-14",
+    "kisa_en": "It is a method of adding new frames between existing frames using artificial intelligence to make the video stream smoother.",
+    "kisa_fr": "Il s'agit d'une méthode consistant à insérer de nouvelles images entre les images existantes à l'aide de l'intelligence artificielle pour rendre le flux vidéo plus fluide.",
+    "kisa_es": "Es un método para añadir nuevos fotogramas entre los existentes mediante inteligencia artificial para que la transmisión de vídeo sea más fluida.",
+    "kisa_pt": "É um método de adicionar novos quadros entre os quadros existentes usando inteligência artificial para tornar o fluxo de imagem mais suave.",
+    "kisa_de": "Es ist eine Methode, bei der durch künstliche Intelligenz neue Frames zwischen bestehende Frames eingefügt werden, um den Videostream flüssiger zu machen."
+  },
+  {
+    "slug": "faa",
+    "en": "FAA",
+    "full": "Federal Aviation Administration",
+    "cat": "dev",
+    "kisa": "Amerika Birleşik Devletleri'nde sivil havacılığı düzenleyen ve denetleyen resmi kurumdur.",
+    "date": "2026-11-14",
+    "kisa_en": "It is the official agency that regulates and oversees civil aviation in the United States.",
+    "kisa_fr": "C'est l'agence officielle qui réglemente et supervise l'aviation civile aux États-Unis.",
+    "kisa_es": "Es la agencia oficial que regula y supervisa la aviación civil en los Estados Unidos.",
+    "kisa_pt": "É a agência oficial que regula e fiscaliza a aviação civil nos Estados Unidos da América.",
+    "kisa_de": "Es ist die offizielle Behörde, die die Zivilluftfahrt in den Vereinigten Staaten reguliert und beaufsichtigt."
   }
 ]

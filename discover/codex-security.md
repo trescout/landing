@@ -2,12 +2,13 @@
 
 OpenAI tarafından geliştirilen codex-security, güvenlik açıklarını bulmak, doğrulamak ve gidermek için tasarlanmış bir komut satırı arayüzü (CLI) ve yazılımcıların uygulama geliştirmesini kolaylaştıran araçlar bütünü (SDK) sunuyor. TypeScript diliyle yazılan bu araç, yazılım projelerindeki güvenlik zafiyetlerini tespit etme süreçlerini otomatikleştirmeyi amaçlıyor.
 
-- ★ 11.901
+- ★ 13.233
 - TypeScript
 - GitHub Trending · 2026-11-11
 
 ## Güncelleme
 
+- **14 Kasım 2026:** Yıldız 11.901 → 13.233, son sürüm npm-v0.10.0 (12 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 11.537 → 11.901, son sürüm npm-v0.10.0 (12 Kasım 2026).
 
 ## Ne kazandırır?

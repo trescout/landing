@@ -2,12 +2,13 @@
 
 Kornia es una biblioteca de visión por computadora diferenciable desarrollada para aplicaciones de inteligencia artificial espacial (spatial AI). Ejecutándose sobre el marco de aprendizaje profundo PyTorch, esta herramienta permite integrar algoritmos de procesamiento de imágenes y visión geométrica en flujos de trabajo de inteligencia artificial.
 
-- ★ 11.944
+- ★ 12.381
 - Python
 - GitHub Trending · 2026-11-02
 
 ## Actualizaciones
 
+- **14 de noviembre de 2026:** Estrellas 11,944 → 12,381, última versión v0.9.1 (13 de noviembre de 2026).
 - **2 de noviembre de 2026:** Estrellas 11,886 → 11,944, última versión v0.9.0 (23 de octubre de 2026).
 
 ## Qué aporta

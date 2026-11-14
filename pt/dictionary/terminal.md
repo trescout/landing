@@ -75,8 +75,8 @@ Comandos de leitura não causam. Nos comandos que excluem e escrevem, o caminho 
 - [Gemini CLI](https://trescout.com/pt/discover/gemini-cli/)
 - [Terminal](https://trescout.com/pt/discover/terminal/)
 - [Cline](https://trescout.com/pt/discover/cline/)
-- [Career Ops](https://trescout.com/pt/discover/career-ops/)
 - [Free Claude Code](https://trescout.com/pt/discover/free-claude-code/)
+- [Career Ops](https://trescout.com/pt/discover/career-ops/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/terminal/)
 

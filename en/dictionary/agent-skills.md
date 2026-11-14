@@ -71,8 +71,8 @@ Yes. Platforms package common capabilities, and you write your own for custom wo
 - [Taste Skill](https://trescout.com/en/discover/taste-skill/)
 - [OpenMontage](https://trescout.com/en/discover/openmontage/)
 - [Awesome Agent Skills](https://trescout.com/en/discover/awesome-agent-skills/)
-- [Agentskills](https://trescout.com/en/discover/agentskills/)
 - [Text to Cad](https://trescout.com/en/discover/text-to-cad/)
+- [Agentskills](https://trescout.com/en/discover/agentskills/)
 - [Claude Obsidian](https://trescout.com/en/discover/claude-obsidian/)
 - [Stitch Skills](https://trescout.com/en/discover/stitch-skills/)
 
