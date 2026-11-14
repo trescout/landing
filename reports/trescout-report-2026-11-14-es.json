@@ -1,0 +1,851 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-14",
+  "capturedAt": "2026-11-14T05:07:50.194Z",
+  "editorial": "Mientras que en el mundo del software las herramientas de revisión de código abierto (open source code review) y las guías modernas de desarrollo web están ganando protagonismo, en el ámbito de la inteligencia artificial destacan los modelos visuales de nueva generación y las arquitecturas de memoria multiusuario. A nivel de hardware, los esfuerzos por romper la dependencia de la nube y las interrupciones de sistemas en el sector de la aviación ofrecen datos importantes sobre la fragilidad de las infraestructuras tecnológicas.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "open-code-review, desarrollado por Alibaba, ofrece una arquitectura híbrida que combina tuberías (pipelines) deterministas y modelos de lenguaje extenso (LLM) para automatizar los procesos de revisión de código. La herramienta utiliza conjuntos de reglas multilingües para detectar vulnerabilidades de seguridad, permitiendo al mismo tiempo realizar comentarios a nivel de línea.",
+          "meta": "Go · ★ 50.784 · +215 hoy",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 50784,
+              "engagementCount": 215,
+              "rank": 1,
+              "extra": {
+                "starsToday": 215
+              }
+            },
+            "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+          }
+        },
+        {
+          "title": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "summary": "GoogleChrome/modern-web-guidance-src es un repositorio de recursos destinado a mantener a los agentes de codificación (coding agents) alineados con los estándares actuales de desarrollo web y las mejores prácticas. Este proyecto, desarrollado en el lenguaje TypeScript, proporciona el código y la documentación necesarios para la creación, calibración y evaluación de contenidos.",
+          "meta": "TypeScript · ★ 5.021 · +1.925 hoy",
+          "snapshot": {
+            "sourceId": "GoogleChrome/modern-web-guidance-src",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5021,
+              "engagementCount": 1925,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1925,
+                "baglam": "readme"
+              }
+            },
+            "description": "Keep your coding agent up to date with the latest web best practices. This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents."
+          }
+        },
+        {
+          "title": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "codex-security, desarrollado por OpenAI, ofrece una interfaz de línea de comandos (CLI) y un conjunto de herramientas (SDK) para facilitar el desarrollo de aplicaciones, diseñadas para encontrar, verificar y corregir vulnerabilidades de seguridad. Escrita en TypeScript, esta herramienta tiene como objetivo automatizar las auditorías de seguridad en los procesos de desarrollo de software.",
+          "meta": "TypeScript · ★ 13.232 · +751 hoy",
+          "snapshot": {
+            "sourceId": "openai/codex-security",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 13232,
+              "engagementCount": 751,
+              "rank": 3,
+              "extra": {
+                "starsToday": 751
+              }
+            },
+            "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+          }
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis es un sistema de seguimiento bursátil que utiliza modelos de lenguaje extenso (LLM) para analizar datos de múltiples mercados y noticias de actualidad. El software ofrece un panel de control para la toma de decisiones de inversión, además de proporcionar notificaciones automáticas y la posibilidad de ejecución programada gratuita.",
+          "meta": "Python · ★ 71.789 · +256 hoy",
+          "snapshot": {
+            "sourceId": "ZhuLinsen/daily_stock_analysis",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 71789,
+              "engagementCount": 256,
+              "rank": 4,
+              "extra": {
+                "starsToday": 256
+              }
+            },
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+          }
+        },
+        {
+          "title": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "summary": "sure, desarrollado en el lenguaje Ruby, es un proyecto de aplicación que busca hacer accesibles para todos los procesos de gestión de finanzas personales y activos. Basado en la infraestructura del proyecto abandonado Maybe Finance, este trabajo ofrecía funciones que permitían a los usuarios conectar con asesores financieros.",
+          "meta": "Ruby · ★ 14.853 · +925 hoy",
+          "snapshot": {
+            "sourceId": "we-promise/sure",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 14853,
+              "engagementCount": 925,
+              "rank": 5,
+              "extra": {
+                "starsToday": 925,
+                "baglam": "readme"
+              }
+            },
+            "description": "The personal finance app for everyone (by everyone). The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
+          }
+        },
+        {
+          "title": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "summary": "plannotator es una plataforma que combina procesos de planificación, revisión de código y retroalimentación para agentes de inteligencia artificial en un único espacio de trabajo. Desarrollada con TypeScript, esta herramienta permite a los equipos gestionar sus interacciones con los agentes y transmitir la retroalimentación directamente a ellos.",
+          "meta": "TypeScript · ★ 10.533 · +108 hoy",
+          "snapshot": {
+            "sourceId": "backnotprop/plannotator",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10533,
+              "engagementCount": 108,
+              "rank": 6,
+              "extra": {
+                "starsToday": 108
+              }
+            },
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+          }
+        },
+        {
+          "title": "louislam/uptime-kuma",
+          "url": "https://github.com/louislam/uptime-kuma",
+          "summary": "Uptime Kuma es una herramienta de monitoreo con interfaz visual que puede alojar en su propio servidor. Esta aplicación basada en JavaScript, que permite realizar un seguimiento del estado operativo de sitios web y servicios, ofrece una experiencia fácil de usar.",
+          "meta": "JavaScript · ★ 93.934 · +71 hoy",
+          "snapshot": {
+            "sourceId": "louislam/uptime-kuma",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 93934,
+              "engagementCount": 71,
+              "rank": 7,
+              "extra": {
+                "starsToday": 71,
+                "baglam": "readme"
+              }
+            },
+            "description": "A fancy self-hosted monitoring tool. Uptime Kuma is an easy-to-use self-hosted monitoring tool."
+          }
+        },
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Buzz, desarrollado por Block, es una plataforma de comunicación donde humanos y agentes de inteligencia artificial conviven en los mismos espacios de trabajo. Este proyecto autohospedable (self-hostable), escrito en el lenguaje Rust, tiene como objetivo ofrecer un entorno de trabajo colaborativo.",
+          "meta": "Rust · ★ 37.336 · +97 hoy",
+          "snapshot": {
+            "sourceId": "block/buzz",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 37336,
+              "engagementCount": 97,
+              "rank": 8,
+              "extra": {
+                "starsToday": 97,
+                "baglam": "readme"
+              }
+            },
+            "description": "A hive mind communication platform. Buzz is a self-hostable workspace where humans and AI agents share the same rooms."
+          }
+        },
+        {
+          "title": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "summary": "tradermonty/claude-trading-skills ofrece capacidades (skills) de Claude Code para inversores y operadores bursátiles, automatizando procesos como el análisis de mercado, gráficos técnicos y desarrollo de estrategias. Preparado con el lenguaje Python, este proyecto tiene como objetivo apoyar los procesos de procesamiento de datos financieros con herramientas de calendario económico y navegador.",
+          "meta": "Python · ★ 4.266 · +69 hoy",
+          "snapshot": {
+            "sourceId": "tradermonty/claude-trading-skills",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4266,
+              "engagementCount": 69,
+              "rank": 9,
+              "extra": {
+                "starsToday": 69
+              }
+            },
+            "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+          }
+        },
+        {
+          "title": "tailscale/tailcat",
+          "url": "https://github.com/tailscale/tailcat",
+          "summary": "tailcat, desarrollado por Tailscale, es una versión de la herramienta netcat utilizada para monitorear y enrutar el tráfico de red, que funciona sobre el plano de datos (data plane) de Tailscale. Este software de código abierto (open source) permite crear túneles cifrados con WireGuard entre dos máquinas sin necesidad del plano de control de Tailscale.",
+          "meta": "Go · ★ 9.540 · +256 hoy",
+          "snapshot": {
+            "sourceId": "tailscale/tailcat",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 9540,
+              "engagementCount": 256,
+              "rank": 10,
+              "extra": {
+                "starsToday": 256,
+                "baglam": "readme"
+              }
+            },
+            "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane. Tailcat is a remix of Tailscale open source pieces to act like netcat, but over Tailscale's data plane, without Tailscale's control plane. Tailscale's data plane (magicsock, internally) gives you point-to-point WireGuard®-encrypted tunnels between two machines with DERP as the NAT-hole-punching communication side channel and the ultimate relay-of-last-resort if NAT traversal fails."
+          }
+        },
+        {
+          "title": "Likely7/Veyra-NRVideo",
+          "url": "https://github.com/Likely7/Veyra-NRVideo",
+          "summary": "Veyra-NRVideo es un reproductor de video avanzado para Windows y una herramienta de mejora de grabaciones que ofrece previsualización en tiempo real para videos y fuentes de imagen. Su objetivo es mejorar la experiencia visual mediante el uso de tecnologías de superresolución, mejora de imagen y generación de fotogramas (frame generation) impulsadas por inteligencia artificial.",
+          "meta": "C++ · ★ 1.692 · +256 hoy",
+          "snapshot": {
+            "sourceId": "Likely7/Veyra-NRVideo",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 1692,
+              "engagementCount": 256,
+              "rank": 11,
+              "extra": {
+                "starsToday": 256
+              }
+            },
+            "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience."
+          }
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "ChromeDevTools/chrome-devtools-mcp permite que los agentes de codificación (como Antigravity, Claude, Cursor o Copilot) inspeccionen y controlen un navegador Chrome en vivo. Presentada como un servidor del Protocolo de Contexto de Modelo (Model Context Protocol) y una interfaz de línea de comandos, esta herramienta proporciona a los asistentes de inteligencia artificial acceso a herramientas de navegador para la depuración y el análisis de rendimiento.",
+          "meta": "TypeScript · ★ 55.605 · +67 hoy",
+          "snapshot": {
+            "sourceId": "ChromeDevTools/chrome-devtools-mcp",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 55605,
+              "engagementCount": 67,
+              "rank": 12,
+              "extra": {
+                "starsToday": 67,
+                "baglam": "readme"
+              }
+            },
+            "description": "Chrome DevTools for coding agents. Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a CLI. Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "FAA issues national ground stop – lifted 4.5 hours later",
+          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+          "summary": "La Administración Federal de Aviación (FAA) de Estados Unidos tomó la decisión de detener todos los despegues en todo el país por motivos de seguridad. Dicha prohibición de vuelo fue levantada aproximadamente 4,5 horas después.",
+          "meta": "1.432 puntos · 1.115 comentarios",
+          "snapshot": {
+            "sourceId": "50489641",
+            "capturedAt": "2026-11-14T05:07:50.532Z",
+            "metadata": {
+              "popularity": 1432,
+              "engagementCount": 1115,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50489641",
+                  "popularity": 1432,
+                  "engagementCount": 1115
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-13T21:05:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50489641"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.fly.faa.gov&#x2F;adv&#x2F;adv_otherdis?adv_date=11132026&amp;a...https:&#x2F;&#x2F;www.fly.faa.gov&#x2F;adv&#x2F;adv_otherdis?adv_date=11142026&amp;a...https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&#x2F;2026&#x2F;11&#x2F;13&#x2F;us&#x2F;ground-stop-natio..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50489641",
+              "popularity": 1432,
+              "engagementCount": 1115
+            }
+          ]
+        },
+        {
+          "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+          "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+          "summary": "El usuario examinó el purificador de aire Coway Airmega mediante ingeniería inversa con el objetivo de eliminar la dependencia de los servicios basados en la nube. Este trabajo detalla los procesos técnicos que permiten controlar el dispositivo a través de la red local.",
+          "meta": "712 puntos · 204 comentarios",
+          "snapshot": {
+            "sourceId": "50474959",
+            "capturedAt": "2026-11-14T05:07:50.532Z",
+            "metadata": {
+              "popularity": 712,
+              "engagementCount": 204,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50474959",
+                  "popularity": 712,
+                  "engagementCount": 204
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-12T22:03:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50474959",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "The year is 2017. A string of annual wildfires rocks the West Coast. The sky looks like this in the daytime: My home, like many in the Bay Area, has no insulation and isn’t really air sealed. To avoid choking on soot, a lot of people started buying air purifiers like this one: The venerable Coway Airmega"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50474959",
+              "popularity": 712,
+              "engagementCount": 204
+            }
+          ]
+        },
+        {
+          "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+          "summary": "Se está utilizando tecnología de inteligencia artificial para analizar las 1.009 páginas de notas dejadas por el matemático Kurt Gödel, escritas en un antiguo sistema de abreviaturas. Este estudio revela que dichas notas contienen cientos de teoremas demostrados.",
+          "meta": "358 puntos · 95 comentarios",
+          "snapshot": {
+            "sourceId": "50486748",
+            "capturedAt": "2026-11-14T05:07:50.532Z",
+            "metadata": {
+              "popularity": 358,
+              "engagementCount": 95,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50486748",
+                  "popularity": 358,
+                  "engagementCount": 95
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-13T17:30:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50486748",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50486748",
+              "popularity": 358,
+              "engagementCount": 95
+            }
+          ]
+        },
+        {
+          "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+          "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+          "summary": "Se informó que hardware de Nvidia valorado en 11,4 millones de dólares, enviado de California a Texas, desapareció durante el transporte. Mientras la policía de Oakland ha iniciado una investigación sobre el robo, aún no hay información clara sobre la identidad de la empresa de transporte ni sobre el proceso de desaparición.",
+          "meta": "319 puntos · 178 comentarios",
+          "snapshot": {
+            "sourceId": "50487864",
+            "capturedAt": "2026-11-14T05:07:50.532Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 178,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50487864",
+                  "popularity": 319,
+                  "engagementCount": 178
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-13T18:40:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50487864",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Oakland police confirmed a grand theft investigation involving a shipment reportedly worth $11.4 million. The carrier's identity and circumstances surrounding the disappearance remain unclear."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50487864",
+              "popularity": 319,
+              "engagementCount": 178
+            }
+          ]
+        },
+        {
+          "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+          "url": "https://orcasairband.com/",
+          "summary": "Orcas Airband, que permite escuchar en vivo, transcribir y archivar todas las transmisiones de radio aeronáutica sobre Orcas Island, WA, también rastrea las restricciones de vuelo en la región de Victoria, CA. Los usuarios pueden escuchar todos los canales simultáneamente o revisar transmisiones pasadas retrocediendo al momento que deseen.",
+          "meta": "238 puntos · 54 comentarios",
+          "snapshot": {
+            "sourceId": "50490593",
+            "capturedAt": "2026-11-14T05:07:50.532Z",
+            "metadata": {
+              "popularity": 238,
+              "engagementCount": 54,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50490593",
+                  "popularity": 238,
+                  "engagementCount": 54
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-13T22:04:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50490593",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Every aviation radio transmission heard from Orcas Island, WA: live, transcribed, and archived. Listen to all channels at once, pick your own, or rewind to any moment."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50490593",
+              "popularity": 238,
+              "engagementCount": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic, compartido en Hugging Face, es un modelo de inteligencia artificial centrado en la generación de texto (text-generation). El desarrollador también ofrece a los usuarios el proyecto xtools-at/Qwen3.5-9B-DeepThought-STEM, una versión de ajuste fino (fine-tuning) con contenido científico en la que se basa este modelo.",
+          "meta": "♥ 6.476 · 21.586 descargas",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-14T05:07:50.366Z",
+            "metadata": {
+              "popularity": 6476,
+              "engagementCount": 21586,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3861,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "mtp",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Also check out DeepThought, my science finetune based on this model: xtools-at/Qwen3.5-9B-DeepThought-STEM"
+          }
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "MiniMax-H3-Image, presentado por MiniMaxAI, es un modelo de inteligencia artificial con capacidad de generación de imágenes a partir de texto (text-to-image). El software ofrece documentación de API (puente digital entre programas) en dos idiomas diferentes para funciones de edición de imágenes y expansión de comandos (prompt expansion).",
+          "meta": "♥ 1.036 · 437.039 descargas",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-14T05:07:50.366Z",
+            "metadata": {
+              "popularity": 1036,
+              "engagementCount": 437039,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 958,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, desarrollado por Lightricks, es un modelo de inteligencia artificial de imagen a video (image-to-video) que convierte imágenes en videos en movimiento. Este modelo, accesible a través de la plataforma Hugging Face, se utiliza para crear versiones animadas de contenido visual.",
+          "meta": "♥ 11.808 · 2.778.909 descargas",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-14T05:07:50.366Z",
+            "metadata": {
+              "popularity": 11808,
+              "engagementCount": 2778909,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 414,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        },
+        {
+          "title": "NousResearch/Arete-27B",
+          "url": "https://huggingface.co/NousResearch/Arete-27B",
+          "summary": "Arete-27B, desarrollado por NousResearch, es un modelo de inteligencia artificial entrenado sobre el modelo de generación de texto (text-generation model) Qwen3.8-27B de Alibaba. Este trabajo tiene como objetivo reforzar los valores occidentales mediante la aplicación de un entrenamiento posterior (post-training) sobre un modelo con sede en China.",
+          "meta": "♥ 561 · 5.545 descargas",
+          "snapshot": {
+            "sourceId": "NousResearch/Arete-27B",
+            "capturedAt": "2026-11-14T05:07:50.366Z",
+            "metadata": {
+              "popularity": 561,
+              "engagementCount": 5545,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 414,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "safetensors",
+                  "qwen3_5",
+                  "nous-research",
+                  "arete",
+                  "supervised-fine-tuning",
+                  "value-alignment",
+                  "text-generation",
+                  "conversational",
+                  "dataset:NousResearch/arete-data-pairs",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B."
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen/Qwen3.8-27B, publicado en Hugging Face, es un modelo de inteligencia artificial capaz de convertir entradas visuales y de texto en salidas de texto. Presentado como la versión más capaz de la familia de modelos abiertos Qwen, este modelo busca continuar el éxito de las versiones anteriores adoptadas por la comunidad.",
+          "meta": "♥ 19.904 · 6.960.395 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-11-14T05:07:50.366Z",
+            "metadata": {
+              "popularity": 19904,
+              "engagementCount": 6960395,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 406,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the Qwen open-model family to date."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
+          "url": "https://huggingface.co/papers/2611.10439",
+          "summary": "El artículo publicado en Hugging Face presenta el sistema MixUA, que gestiona el intercambio de memoria en entornos multiusuario y multiagente. El sistema separa la información obtenida de las interacciones entre usuarios y modelos de inteligencia artificial (LLM) y la distribuye entre los agentes bajo marcos de reglas de privacidad.",
+          "meta": "5 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.10439",
+            "capturedAt": "2026-11-14T05:07:50.380Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.10439",
+                "publishedAt": "2026-11-07T00:00:00.000Z"
+              }
+            },
+            "description": "Self-evolving agents improve their own skills, memory, and harness code from experience without retraining the base LLM, and group-evolving agents go further by sharing these lessons across agents. Yet most such systems overlook that sharing across users and heterogeneous agents requires deciding who can benefit from each lesson and what information must remain private. We present MixUA, a memory system that distills independent user-agent trajectories into lessons and assigns each lesson to a u"
+          }
+        },
+        {
+          "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+          "url": "https://huggingface.co/papers/2611.16728",
+          "summary": "EgoX, compartido por Hugging Face, es un marco de aprendizaje que tiene como objetivo cerrar la brecha de experiencia entre los humanos y los robots con diferentes estructuras físicas e interfaces de control. El sistema permite el desarrollo de políticas de manipulación robótica mediante la organización de representaciones heterogéneas a través de modalidades de observación y acción semánticamente coincidentes.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.16728",
+            "capturedAt": "2026-11-14T05:07:50.380Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.16728",
+                "publishedAt": "2026-11-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/egox-dream/egox",
+                "githubStars": 9
+              }
+            },
+            "description": "Generalist manipulation policies can benefit from the complementary experience of humans, real robots, and simulated agents. However, differences in morphology, sensing, and control interfaces make it difficult to learn effectively from their combined demonstrations. We introduce EgoX, an egocentric cross-embodiment learning framework that organizes heterogeneous demonstrations through semantically corresponding observation and action modalities. EgoX pretrains a Modularized Cross-Embodiment Tra"
+          }
+        },
+        {
+          "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+          "url": "https://huggingface.co/papers/2611.17336",
+          "summary": "El artículo 'Back to Pixels: Lifting Latent Video Diffusion into Pixel Space' aborda las limitaciones de la compresión del espacio latente utilizado en los modelos de generación de video sobre la creación de contenido interactivo y de alta resolución. El método llamado PixVid tiene como objetivo superar estas limitaciones trasladando los modelos de video latente preentrenados directamente al espacio de píxeles.",
+          "meta": "2 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.17336",
+            "capturedAt": "2026-11-14T05:07:50.380Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.17336",
+                "publishedAt": "2026-11-12T00:00:00.000Z"
+              }
+            },
+            "description": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation -- doubling resolution quadruples token count, conditions apply to groups of frames rather than individual ones, and each response must wait for the rest of its multi-frame block. We present PixVid, a simple yet effective method that lifts a pretrained latent video model to dire"
+          }
+        },
+        {
+          "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
+          "url": "https://huggingface.co/papers/2611.17190",
+          "summary": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes es un estudio que examina los errores de coincidencia causados por objetos en movimiento en los procesos de estabilización de imagen en videos de vehículos aéreos no tripulados (UAV). La investigación presenta un nuevo punto de referencia (benchmark) para evaluar el impacto de los movimientos dinámicos en áreas urbanas sobre los métodos de estabilización basados en marcos de referencia.",
+          "meta": "3 me gusta · 3 comentarios",
+          "snapshot": {
+            "sourceId": "2611.17190",
+            "capturedAt": "2026-11-14T05:07:50.380Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 3,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.17190",
+                "publishedAt": "2026-11-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/rfonod/stabilo-benchmark",
+                "githubStars": 0
+              }
+            },
+            "description": "Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on feature-matching benchmarks in which only the camera moves. Over a busy intersection, vehicles moving together supply mutually consistent correspondences that can draw the robust homography estimate toward their motion: consensus capture, which inlier statistics cannot flag. A two-part benchmark measur"
+          }
+        },
+        {
+          "title": "TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates",
+          "url": "https://huggingface.co/papers/2611.09567",
+          "summary": "TurtLES es un conjunto de datos a gran escala preparado para modelos de inteligencia artificial desarrollados con el fin de acelerar los procesos de dinámica de fluidos computacional. Este estudio, que incluye flujos turbulentos en 3D, ofrece una herramienta de referencia (benchmark) para medir el rendimiento de los modelos con datos realistas y dependientes del tiempo.",
+          "meta": "4 me gusta · 3 comentarios",
+          "snapshot": {
+            "sourceId": "2611.09567",
+            "capturedAt": "2026-11-14T05:07:50.380Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.09567",
+                "publishedAt": "2026-11-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/itsakk/TurtLES",
+                "githubStars": 1
+              }
+            },
+            "description": "Machine-learning surrogates are increasingly used to accelerate computational fluid dynamics, yet progress is limited by the lack of benchmarks capturing realistic, time-dependent turbulent flows. We introduce TurtLES, a 14 TB dataset of 3D turbulent cylinder wakes in the shear-layer transition regime, computed via high-fidelity implicit large-eddy simulations. The dataset contains 400 trajectories of 400 time steps each, with 3-11 million points per frame, spanning variations in geometry, Reyno"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "pipelines",
+      "explanation": "Son flujos de trabajo que permiten que los pasos de un proceso de software se realicen automáticamente uno tras otro."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Son modelos de inteligencia artificial entrenados con datos masivos capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Son programas de inteligencia artificial que realizan tareas como escribir código, depurar o editar de forma autónoma en los procesos de desarrollo de software."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Es una interfaz basada en texto que ejecuta programas mediante comandos escritos en lugar de usar el ratón."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Es un conjunto de herramientas y bibliotecas listas para usar que facilitan a los desarrolladores la creación de aplicaciones para una plataforma o sistema específico."
+    },
+    {
+      "term": "self-hostable",
+      "explanation": "Son programas que el usuario puede ejecutar en su propia computadora o servidor sin necesidad de un servidor de terceros."
+    },
+    {
+      "term": "skills",
+      "explanation": "Son capacidades o funciones especializadas que se otorgan a los modelos de inteligencia artificial para que puedan operar en un área específica."
+    },
+    {
+      "term": "data plane",
+      "explanation": "Es la capa de infraestructura fundamental donde los datos se transmiten y enrutan realmente a través de una red."
+    },
+    {
+      "term": "open source",
+      "explanation": "Son programas cuyo código fuente está abierto para que cualquiera pueda examinarlo, modificarlo y compartirlo."
+    },
+    {
+      "term": "super resolution",
+      "explanation": "Es una tecnología que utiliza inteligencia artificial para hacer que las imágenes de baja resolución sean más nítidas y de mayor resolución."
+    },
+    {
+      "term": "frame generation",
+      "explanation": "Es un método que utiliza inteligencia artificial para insertar nuevos fotogramas entre los existentes con el fin de hacer que el flujo de video sea más fluido."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Es un protocolo de comunicación que permite a los modelos de inteligencia artificial conectarse a diferentes fuentes de datos y herramientas de forma estandarizada."
+    },
+    {
+      "term": "FAA",
+      "explanation": "Es la agencia oficial que regula y supervisa la aviación civil en los Estados Unidos."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Es el proceso de desmontar un dispositivo o software para entender cómo funciona y analizar su lógica de operación."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Es la capacidad de generar textos significativos de acuerdo con las instrucciones o el contexto proporcionado."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Es el reentrenamiento de un modelo de inteligencia artificial previamente entrenado con un conjunto de datos más pequeño y específico para que sea más eficaz en un tema determinado."
+    }
+  ]
+}

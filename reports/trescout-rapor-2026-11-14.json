@@ -1,0 +1,858 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-14",
+  "capturedAt": "2026-11-14T05:07:50.194Z",
+  "editorial": "Bugün yazılım dünyasında açık kaynak kod inceleme araçları (open source code review) ve modern web geliştirme rehberleri ön plana çıkarken yapay zekâ tarafında yeni nesil görsel modeller ile çok kullanıcılı bellek mimarileri dikkat çekiyor. Donanım seviyesinde bulut bağımlılığını kırma çabaları ve havacılık sektöründeki sistem kesintileri teknolojik altyapıların kırılganlığına dair önemli veriler sunuyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Alibaba tarafından geliştirilen open-code-review, kod inceleme süreçlerini otomatize etmek için deterministik işlem hatlarını (pipelines) ve büyük dil modellerini (LLM) birleştiren hibrit bir mimari sunuyor. Araç, güvenlik açıklarını tespit etmek için çok dilli kural setleri kullanırken satır düzeyinde yorum yapma imkânı sağlıyor.",
+          "meta": "Go · ★ 50.784 · +215 bugün",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 50784,
+              "engagementCount": 215,
+              "rank": 1,
+              "extra": {
+                "starsToday": 215
+              }
+            },
+            "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+          }
+        },
+        {
+          "title": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "summary": "GoogleChrome/modern-web-guidance-src, kodlama ajanlarını (coding agents) güncel web geliştirme standartları ve en iyi uygulamalarla uyumlu tutmayı amaçlayan bir kaynak deposu. TypeScript diliyle hazırlanan bu proje, içeriklerin oluşturulması, kalibrasyonu ve değerlendirilmesi için gerekli kod ve dokümantasyonu sunuyor.",
+          "meta": "TypeScript · ★ 5.021 · +1.925 bugün",
+          "snapshot": {
+            "sourceId": "GoogleChrome/modern-web-guidance-src",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5021,
+              "engagementCount": 1925,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1925,
+                "baglam": "readme"
+              }
+            },
+            "description": "Keep your coding agent up to date with the latest web best practices. This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents."
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "summary": "OpenAI tarafından geliştirilen codex-security, güvenlik açıklarını bulmak, doğrulamak ve gidermek için tasarlanmış bir komut satırı arayüzü (CLI) ve yazılımcıların uygulama geliştirmesini kolaylaştıran araçlar bütünü (SDK) sunuyor. TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerinde güvenlik denetimlerini otomatikleştirmeyi amaçlıyor.",
+          "meta": "TypeScript · ★ 13.232 · +751 bugün",
+          "snapshot": {
+            "sourceId": "openai/codex-security",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 13232,
+              "engagementCount": 751,
+              "rank": 3,
+              "extra": {
+                "starsToday": 751
+              }
+            },
+            "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "summary": "ZhuLinsen/daily_stock_analysis, büyük dil modelleri (LLM) kullanarak çoklu piyasa verilerini ve güncel haberleri analiz eden bir borsa takip sistemidir. Yazılım, yatırım kararları için bir kontrol paneli sunarken otomatik bildirimler ve ücretsiz zamanlanmış çalışma imkânı sağlar.",
+          "meta": "Python · ★ 71.789 · +256 bugün",
+          "snapshot": {
+            "sourceId": "ZhuLinsen/daily_stock_analysis",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 71789,
+              "engagementCount": 256,
+              "rank": 4,
+              "extra": {
+                "starsToday": 256
+              }
+            },
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+          }
+        },
+        {
+          "title": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "summary": "Ruby diliyle geliştirilen sure, kişisel finans ve varlık yönetimi süreçlerini herkes için erişilebilir kılmayı amaçlayan bir uygulama projesidir. Terk edilen Maybe Finance projesinin altyapısını temel alan bu çalışma, kullanıcıların finansal danışmanlarla bağlantı kurmasını sağlayan özellikler sunuyordu.",
+          "meta": "Ruby · ★ 14.853 · +925 bugün",
+          "snapshot": {
+            "sourceId": "we-promise/sure",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 14853,
+              "engagementCount": 925,
+              "rank": 5,
+              "extra": {
+                "starsToday": 925,
+                "baglam": "readme"
+              }
+            },
+            "description": "The personal finance app for everyone (by everyone). The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "summary": "plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren bir platformdur. TypeScript ile geliştirilen bu araç, ekiplerin ajanlarla olan etkileşimlerini yönetmelerini ve geri bildirimleri doğrudan ajanlara aktarmalarını sağlar.",
+          "meta": "TypeScript · ★ 10.533 · +108 bugün",
+          "snapshot": {
+            "sourceId": "backnotprop/plannotator",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10533,
+              "engagementCount": 108,
+              "rank": 6,
+              "extra": {
+                "starsToday": 108
+              }
+            },
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+          }
+        },
+        {
+          "title": "louislam/uptime-kuma",
+          "url": "https://github.com/louislam/uptime-kuma",
+          "summary": "Uptime Kuma, kendi sunucunuzda barındırabileceğiniz görsel arayüzlü bir izleme aracıdır. İnternet sitelerinin ve servislerin çalışma durumunu takip etmeyi sağlayan bu JavaScript tabanlı uygulama, kullanıcı dostu bir deneyim sunar.",
+          "meta": "JavaScript · ★ 93.934 · +71 bugün",
+          "snapshot": {
+            "sourceId": "louislam/uptime-kuma",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 93934,
+              "engagementCount": 71,
+              "rank": 7,
+              "extra": {
+                "starsToday": 71,
+                "baglam": "readme"
+              }
+            },
+            "description": "A fancy self-hosted monitoring tool. Uptime Kuma is an easy-to-use self-hosted monitoring tool."
+          }
+        },
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Block tarafından geliştirilen Buzz, insanların ve yapay zekâ ajanlarının aynı çalışma alanlarında bir arada bulunduğu bir iletişim platformu. Rust diliyle yazılan bu kendi kendine barındırılabilir (self-hostable) proje, ortak bir çalışma ortamı sunmayı hedefliyor.",
+          "meta": "Rust · ★ 37.336 · +97 bugün",
+          "snapshot": {
+            "sourceId": "block/buzz",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 37336,
+              "engagementCount": 97,
+              "rank": 8,
+              "extra": {
+                "starsToday": 97,
+                "baglam": "readme"
+              }
+            },
+            "description": "A hive mind communication platform. Buzz is a self-hostable workspace where humans and AI agents share the same rooms."
+          }
+        },
+        {
+          "title": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "summary": "tradermonty/claude-trading-skills, hisse senedi yatırımcıları ve işlemciler için piyasa analizi, teknik grafikler ve strateji geliştirme gibi süreçleri otomatize eden Claude Code yetenekleri (skills) sunuyor. Python diliyle hazırlanan bu proje, ekonomik takvim ve tarayıcı araçlarıyla finansal veri işleme süreçlerini desteklemeyi amaçlıyor.",
+          "meta": "Python · ★ 4.266 · +69 bugün",
+          "snapshot": {
+            "sourceId": "tradermonty/claude-trading-skills",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4266,
+              "engagementCount": 69,
+              "rank": 9,
+              "extra": {
+                "starsToday": 69
+              }
+            },
+            "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+          }
+        },
+        {
+          "title": "tailscale/tailcat",
+          "url": "https://github.com/tailscale/tailcat",
+          "summary": "Tailscale tarafından geliştirilen tailcat, ağ trafiğini izlemek ve yönlendirmek için kullanılan netcat aracının Tailscale veri düzlemi (data plane) üzerinde çalışan bir sürümüdür. Bu açık kaynak (open source) yazılım, Tailscale kontrol düzlemine ihtiyaç duymadan iki makine arasında WireGuard şifreli tüneller oluşturulmasını sağlar.",
+          "meta": "Go · ★ 9.540 · +256 bugün",
+          "snapshot": {
+            "sourceId": "tailscale/tailcat",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 9540,
+              "engagementCount": 256,
+              "rank": 10,
+              "extra": {
+                "starsToday": 256,
+                "baglam": "readme"
+              }
+            },
+            "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane. Tailcat is a remix of Tailscale open source pieces to act like netcat, but over Tailscale's data plane, without Tailscale's control plane. Tailscale's data plane (magicsock, internally) gives you point-to-point WireGuard®-encrypted tunnels between two machines with DERP as the NAT-hole-punching communication side channel and the ultimate relay-of-last-resort if NAT traversal fails."
+          }
+        },
+        {
+          "title": "Likely7/Veyra-NRVideo",
+          "url": "https://github.com/Likely7/Veyra-NRVideo",
+          "summary": "Veyra-NRVideo, videolar ve görüntü kaynakları için gerçek zamanlı önizleme sunan gelişmiş bir Windows video oynatıcısı ve kayıt iyileştirme aracıdır. Yapay zekâ destekli süper çözünürlük (super resolution), görüntü iyileştirme ve kare oluşturma (frame generation) teknolojilerini kullanarak görsel deneyimi geliştirmeyi hedefler.",
+          "meta": "C++ · ★ 1.692 · +256 bugün",
+          "snapshot": {
+            "sourceId": "Likely7/Veyra-NRVideo",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 1692,
+              "engagementCount": 256,
+              "rank": 11,
+              "extra": {
+                "starsToday": 256
+              }
+            },
+            "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience."
+          }
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "ChromeDevTools/chrome-devtools-mcp, kodlama ajanlarının (Antigravity, Claude, Cursor veya Copilot gibi) canlı bir Chrome tarayıcısını denetlemesine ve yönetmesine olanak tanıyor. Model Bağlam Protokolü (Model Context Protocol) sunucusu ve komut satırı arayüzü olarak sunulan bu araç, yapay zekâ asistanlarına hata ayıklama ve performans analizi için tarayıcı araçlarına erişim sağlıyor.",
+          "meta": "TypeScript · ★ 55.605 · +67 bugün",
+          "snapshot": {
+            "sourceId": "ChromeDevTools/chrome-devtools-mcp",
+            "capturedAt": "2026-11-14T05:07:51.294Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 55605,
+              "engagementCount": 67,
+              "rank": 12,
+              "extra": {
+                "starsToday": 67,
+                "baglam": "readme"
+              }
+            },
+            "description": "Chrome DevTools for coding agents. Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a CLI. Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "FAA issues national ground stop – lifted 4.5 hours later",
+          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+          "summary": "Amerikan Federal Havacılık İdaresi (FAA), güvenlik gerekçesiyle ülke genelindeki tüm kalkışları durdurma kararı aldı. Söz konusu uçuş yasağı yaklaşık 4,5 saat sonra kaldırıldı.",
+          "meta": "1.432 oy · 1.115 yorum",
+          "snapshot": {
+            "sourceId": "50489641",
+            "capturedAt": "2026-11-14T05:07:50.532Z",
+            "metadata": {
+              "popularity": 1432,
+              "engagementCount": 1115,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50489641",
+                  "popularity": 1432,
+                  "engagementCount": 1115
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-13T21:05:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50489641"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.fly.faa.gov&#x2F;adv&#x2F;adv_otherdis?adv_date=11132026&amp;a...https:&#x2F;&#x2F;www.fly.faa.gov&#x2F;adv&#x2F;adv_otherdis?adv_date=11142026&amp;a...https:&#x2F;&#x2F;www.nytimes.com&#x2F;live&#x2F;2026&#x2F;11&#x2F;13&#x2F;us&#x2F;ground-stop-natio..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50489641",
+              "popularity": 1432,
+              "engagementCount": 1115
+            }
+          ]
+        },
+        {
+          "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+          "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+          "summary": "Kullanıcı, bulut tabanlı hizmetlere bağımlılığı ortadan kaldırmak amacıyla Coway Airmega hava temizleme cihazını tersine mühendislik (reverse engineering) yöntemiyle inceledi. Bu çalışma, cihazın yerel ağ üzerinden kontrol edilmesine olanak tanıyan teknik süreçleri detaylandırıyor.",
+          "meta": "712 oy · 204 yorum",
+          "snapshot": {
+            "sourceId": "50474959",
+            "capturedAt": "2026-11-14T05:07:50.532Z",
+            "metadata": {
+              "popularity": 712,
+              "engagementCount": 204,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50474959",
+                  "popularity": 712,
+                  "engagementCount": 204
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-12T22:03:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50474959",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "The year is 2017. A string of annual wildfires rocks the West Coast. The sky looks like this in the daytime: My home, like many in the Bay Area, has no insulation and isn’t really air sealed. To avoid choking on soot, a lot of people started buying air purifiers like this one: The venerable Coway Airmega"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50474959",
+              "popularity": 712,
+              "engagementCount": 204
+            }
+          ]
+        },
+        {
+          "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+          "summary": "Yapay zekâ teknolojisi, matematikçi Kurt Gödel tarafından bırakılan ve eski bir kısaltma sistemiyle yazılmış 1.009 sayfalık notları çözümlemek için kullanılıyor. Bu çalışma, söz konusu notların içinde yüzlerce kanıtlanmış teorem barındırdığını ortaya koyuyor.",
+          "meta": "358 oy · 95 yorum",
+          "snapshot": {
+            "sourceId": "50486748",
+            "capturedAt": "2026-11-14T05:07:50.532Z",
+            "metadata": {
+              "popularity": 358,
+              "engagementCount": 95,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50486748",
+                  "popularity": 358,
+                  "engagementCount": 95
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-13T17:30:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50486748",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50486748",
+              "popularity": 358,
+              "engagementCount": 95
+            }
+          ]
+        },
+        {
+          "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+          "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+          "summary": "Kaliforniya'dan Teksas'a sevk edilen 11,4 milyon dolar değerindeki Nvidia donanımlarının nakliye sırasında kaybolduğu bildirildi. Oakland polisi, hırsızlık olayıyla ilgili soruşturma başlatırken nakliye firmasının kimliği ve kaybolma süreci hakkında henüz net bir bilgi bulunmuyor.",
+          "meta": "319 oy · 178 yorum",
+          "snapshot": {
+            "sourceId": "50487864",
+            "capturedAt": "2026-11-14T05:07:50.532Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 178,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50487864",
+                  "popularity": 319,
+                  "engagementCount": 178
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-13T18:40:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50487864",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Oakland police confirmed a grand theft investigation involving a shipment reportedly worth $11.4 million. The carrier's identity and circumstances surrounding the disappearance remain unclear."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50487864",
+              "popularity": 319,
+              "engagementCount": 178
+            }
+          ]
+        },
+        {
+          "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+          "url": "https://orcasairband.com/",
+          "summary": "Orcas Island, WA üzerinden yapılan tüm havacılık radyo yayınlarını canlı olarak dinlemeye, metne dönüştürmeye ve arşivlemeye olanak tanıyan Orcas Airband, Victoria, CA bölgesindeki uçuş kısıtlamalarını da takip ediyor. Kullanıcılar tüm kanalları aynı anda dinleyebilir veya geçmiş yayınları diledikleri ana geri sararak inceleyebilir.",
+          "meta": "238 oy · 54 yorum",
+          "snapshot": {
+            "sourceId": "50490593",
+            "capturedAt": "2026-11-14T05:07:50.532Z",
+            "metadata": {
+              "popularity": 238,
+              "engagementCount": 54,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50490593",
+                  "popularity": 238,
+                  "engagementCount": 54
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-13T22:04:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50490593",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Every aviation radio transmission heard from Orcas Island, WA: live, transcribed, and archived. Listen to all channels at once, pick your own, or rewind to any moment."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50490593",
+              "popularity": 238,
+              "engagementCount": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "Hugging Face üzerinde paylaşılan xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Geliştirici, bu modelin temel alındığı bilimsel içerikli bir ince ayar (fine-tuning) sürümü olan xtools-at/Qwen3.5-9B-DeepThought-STEM projesini de kullanıcılara sunmaktadır.",
+          "meta": "♥ 6.476 · 21.586 indirme",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-14T05:07:50.366Z",
+            "metadata": {
+              "popularity": 6476,
+              "engagementCount": 21586,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3861,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "mtp",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Also check out DeepThought, my science finetune based on this model: xtools-at/Qwen3.5-9B-DeepThought-STEM"
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "MiniMaxAI tarafından sunulan MiniMax-H3-Image, metinden görüntü oluşturma (text-to-image) yeteneğine sahip bir yapay zekâ modelidir. Yazılım, görüntü düzenleme ve komut genişletme (prompt expansion) işlevleri için iki farklı dilde API (yazılımlar arası dijital köprü) dokümantasyonu sunar.",
+          "meta": "♥ 1.036 · 437.039 indirme",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-14T05:07:50.366Z",
+            "metadata": {
+              "popularity": 1036,
+              "engagementCount": 437039,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 958,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Lightricks tarafından geliştirilen LTX-2.5, görselleri hareketli videolara dönüştüren bir görüntüden videoya (image-to-video) yapay zekâ modelidir. Hugging Face platformu üzerinden erişilebilen bu model, görsel içeriklerin animasyonlu versiyonlarını oluşturmak için kullanılır.",
+          "meta": "♥ 11.808 · 2.778.909 indirme",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-14T05:07:50.366Z",
+            "metadata": {
+              "popularity": 11808,
+              "engagementCount": 2778909,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 414,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "NousResearch/Arete-27B",
+          "url": "https://huggingface.co/NousResearch/Arete-27B",
+          "summary": "NousResearch tarafından geliştirilen Arete-27B, Alibaba'nın metin üretme modeli (text-generation model) Qwen3.8-27B üzerinde eğitilmiş bir yapay zekâ modelidir. Bu çalışma, Çin merkezli bir modelin üzerine sonradan eğitim (post-training) uygulanarak batı değerlerinin pekiştirilmesini hedefliyor.",
+          "meta": "♥ 561 · 5.545 indirme",
+          "snapshot": {
+            "sourceId": "NousResearch/Arete-27B",
+            "capturedAt": "2026-11-14T05:07:50.366Z",
+            "metadata": {
+              "popularity": 561,
+              "engagementCount": 5545,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 414,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "safetensors",
+                  "qwen3_5",
+                  "nous-research",
+                  "arete",
+                  "supervised-fine-tuning",
+                  "value-alignment",
+                  "text-generation",
+                  "conversational",
+                  "dataset:NousResearch/arete-data-pairs",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Hugging Face üzerinde yayımlanan Qwen/Qwen3.8-27B, görsel ve metin girdilerini metin çıktısına dönüştürebilen bir yapay zekâ modelidir. Qwen açık model ailesinin en yetenekli sürümü olarak tanıtılan bu model, önceki sürümlerin topluluk tarafından benimsenen başarısını devam ettirmeyi hedefliyor.",
+          "meta": "♥ 19.904 · 6.960.395 indirme",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-11-14T05:07:50.366Z",
+            "metadata": {
+              "popularity": 19904,
+              "engagementCount": 6960395,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 406,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the Qwen open-model family to date."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
+          "url": "https://huggingface.co/papers/2611.10439",
+          "summary": "Hugging Face üzerinde yayımlanan makale, çok kullanıcılı ve çok ajanlı ortamlarda bellek paylaşımını yöneten MixUA sistemini tanıtıyor. Sistem, kullanıcılar ve yapay zekâ modelleri (LLM) arasındaki etkileşimlerden elde edilen bilgileri ayrıştırarak gizlilik kuralları çerçevesinde ajanlar arasında paylaştırıyor.",
+          "meta": "5 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.10439",
+            "capturedAt": "2026-11-14T05:07:50.380Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.10439",
+                "publishedAt": "2026-11-07T00:00:00.000Z"
+              }
+            },
+            "description": "Self-evolving agents improve their own skills, memory, and harness code from experience without retraining the base LLM, and group-evolving agents go further by sharing these lessons across agents. Yet most such systems overlook that sharing across users and heterogeneous agents requires deciding who can benefit from each lesson and what information must remain private. We present MixUA, a memory system that distills independent user-agent trajectories into lessons and assigns each lesson to a u"
+          }
+        },
+        {
+          "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+          "url": "https://huggingface.co/papers/2611.16728",
+          "summary": "Hugging Face tarafından paylaşılan EgoX, farklı fiziksel yapılara ve kontrol arayüzlerine sahip robotlar ile insanlar arasındaki deneyim farklarını gidermeyi amaçlayan bir öğrenme çerçevesi. Sistem, heterojen gösterimleri anlamsal olarak eşleşen gözlem ve eylem modalleri aracılığıyla düzenleyerek robotik manipülasyon politikalarının geliştirilmesini sağlıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.16728",
+            "capturedAt": "2026-11-14T05:07:50.380Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.16728",
+                "publishedAt": "2026-11-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/egox-dream/egox",
+                "githubStars": 9
+              }
+            },
+            "description": "Generalist manipulation policies can benefit from the complementary experience of humans, real robots, and simulated agents. However, differences in morphology, sensing, and control interfaces make it difficult to learn effectively from their combined demonstrations. We introduce EgoX, an egocentric cross-embodiment learning framework that organizes heterogeneous demonstrations through semantically corresponding observation and action modalities. EgoX pretrains a Modularized Cross-Embodiment Tra"
+          }
+        },
+        {
+          "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+          "url": "https://huggingface.co/papers/2611.17336",
+          "summary": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space makalesi, video üretim modellerinde kullanılan gizli alan (latent space) sıkıştırmasının yüksek çözünürlüklü ve etkileşimli içerik oluşturma üzerindeki kısıtlamalarını ele alıyor. PixVid adlı yöntem, önceden eğitilmiş gizli video modellerini doğrudan piksel alanına taşıyarak bu sınırlamaları aşmayı hedefliyor.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.17336",
+            "capturedAt": "2026-11-14T05:07:50.380Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.17336",
+                "publishedAt": "2026-11-12T00:00:00.000Z"
+              }
+            },
+            "description": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation -- doubling resolution quadruples token count, conditions apply to groups of frames rather than individual ones, and each response must wait for the rest of its multi-frame block. We present PixVid, a simple yet effective method that lifts a pretrained latent video model to dire"
+          }
+        },
+        {
+          "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
+          "url": "https://huggingface.co/papers/2611.17190",
+          "summary": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes, insansız hava aracı (UAV) videolarındaki görüntü sabitleme süreçlerinde hareketli nesnelerin yarattığı hatalı eşleşmeleri inceleyen bir çalışma. Araştırma, kentsel alanlardaki dinamik hareketlerin referans çerçevesi tabanlı sabitleme yöntemleri üzerindeki etkisini değerlendirmek için yeni bir kıyaslama (benchmark) sunuyor.",
+          "meta": "3 beğeni · 3 yorum",
+          "snapshot": {
+            "sourceId": "2611.17190",
+            "capturedAt": "2026-11-14T05:07:50.380Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 3,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.17190",
+                "publishedAt": "2026-11-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/rfonod/stabilo-benchmark",
+                "githubStars": 0
+              }
+            },
+            "description": "Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on feature-matching benchmarks in which only the camera moves. Over a busy intersection, vehicles moving together supply mutually consistent correspondences that can draw the robust homography estimate toward their motion: consensus capture, which inlier statistics cannot flag. A two-part benchmark measur"
+          }
+        },
+        {
+          "title": "TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates",
+          "url": "https://huggingface.co/papers/2611.09567",
+          "summary": "TurtLES, hesaplamalı akışkanlar dinamiği (computational fluid dynamics) süreçlerini hızlandırmak amacıyla geliştirilen yapay zekâ modelleri için hazırlanan geniş ölçekli bir veri kümesi. 3 boyutlu türbülanslı akışları içeren bu çalışma, gerçekçi ve zamana bağlı verilerle modellerin performansını ölçmek için bir kıyaslama (benchmark) aracı sunuyor.",
+          "meta": "4 beğeni · 3 yorum",
+          "snapshot": {
+            "sourceId": "2611.09567",
+            "capturedAt": "2026-11-14T05:07:50.380Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.09567",
+                "publishedAt": "2026-11-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/itsakk/TurtLES",
+                "githubStars": 1
+              }
+            },
+            "description": "Machine-learning surrogates are increasingly used to accelerate computational fluid dynamics, yet progress is limited by the lack of benchmarks capturing realistic, time-dependent turbulent flows. We introduce TurtLES, a 14 TB dataset of 3D turbulent cylinder wakes in the shear-layer transition regime, computed via high-fidelity implicit large-eddy simulations. The dataset contains 400 trajectories of 400 time steps each, with 3-11 million points per frame, spanning variations in geometry, Reyno"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "pipelines",
+      "explanation": "Bir yazılım sürecindeki adımların birbirini takip ederek otomatik şekilde gerçekleşmesini sağlayan iş akışlarıdır."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleridir."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama veya düzenleme gibi görevleri otonom olarak yerine getiren yapay zekâ yazılımlarıdır."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüzdür."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılımcıların belirli bir platform veya sistem için uygulama geliştirmesini kolaylaştıran hazır araçlar ve kütüphaneler bütünüdür."
+    },
+    {
+      "term": "self-hostable",
+      "explanation": "Üçüncü taraf bir sunucuya ihtiyaç duymadan, kullanıcının kendi bilgisayarında veya sunucusunda çalıştırabileceği yazılımlardır."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ modellerinin belirli bir alanda işlem yapabilmesi için kazandırılan özelleşmiş yetenekler veya işlevlerdir."
+    },
+    {
+      "term": "data plane",
+      "explanation": "Bir ağ üzerindeki verinin gerçek anlamda iletildiği ve yönlendirildiği temel altyapı katmanıdır."
+    },
+    {
+      "term": "open source",
+      "explanation": "Kaynak kodları herkesin incelemesine, değiştirmesine ve paylaşmasına açık olan yazılımlardır."
+    },
+    {
+      "term": "super resolution",
+      "explanation": "Düşük çözünürlüklü görüntüleri yapay zekâ yardımıyla daha net ve yüksek çözünürlüklü hale getirme teknolojisidir."
+    },
+    {
+      "term": "frame generation",
+      "explanation": "Görüntü akışını daha pürüzsüz hale getirmek için mevcut karelerin arasına yapay zekâ ile yeni kareler ekleme yöntemidir."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarına ve araçlara standart bir yolla bağlanmasını sağlayan iletişim kuralıdır."
+    },
+    {
+      "term": "FAA",
+      "explanation": "Amerika Birleşik Devletleri'nde sivil havacılığı düzenleyen ve denetleyen resmi kurumdur."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Bir cihazın veya yazılımın nasıl çalıştığını anlamak için parçalarına ayrılıp çalışma mantığının çözümlenmesi sürecidir."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Verilen komutlara veya bağlama uygun olarak anlamlı metinler oluşturma yeteneğidir."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Önceden eğitilmiş bir yapay zekâ modelinin, belirli bir konuda daha başarılı olması için daha küçük ve özel bir veri setiyle yeniden eğitilmesidir."
+    }
+  ]
+}
