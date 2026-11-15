@@ -49,8 +49,8 @@ Evet, uygun altyapı ve API bağlantıları ile bir modele yeni yetenekler kazan
 - [Taste Skill](https://trescout.com/discover/taste-skill/)
 - [Awesome Claude Skills](https://trescout.com/discover/awesome-claude-skills/)
 - [OpenMontage](https://trescout.com/discover/openmontage/)
-- [Awesome Claude Code](https://trescout.com/discover/awesome-claude-code/)
 - [Academic Research Skills](https://trescout.com/discover/academic-research-skills/)
+- [Awesome Claude Code](https://trescout.com/discover/awesome-claude-code/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

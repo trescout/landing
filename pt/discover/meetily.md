@@ -2,16 +2,16 @@
 
 Meetily é um assistente de reunião de código aberto que processa gravações de reuniões localmente e não requer conexão em nuvem. Desenvolvido em Rust, o aplicativo oferece transcrição rápida de voz, diarização do locutor e recursos de resumo com modelos de idioma local.
 
-- ★ 32.238
+- ★ 32.701
 - Rust
 - GitHub Trending · 2026-07-05
 
 ## Atualizações
 
+- **15 de novembro de 2026:** Estrelas 32,238 → 32,701, versão mais recente v0.5.0 (14 de novembro de 2026).
 - **27 de outubro de 2026:** Estrelas 30,692 → 32,238, versão mais recente v0.4.1 (12 de setembro de 2026).
 - **13 de setembro de 2026:** Estrelas 29,473 → 30,692, versão mais recente v0.4.1 (12 de setembro de 2026).
 - **19 de agosto de 2026:** Estrelas 27,968 → 29,473, versão mais recente v0.4.0 (5 de junho de 2026).
-- **2 de agosto de 2026:** Estrelas 15,565 → 27,968, versão mais recente v0.4.0 (5 de junho de 2026).
 
 ## O que você ganha
 

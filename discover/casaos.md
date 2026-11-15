@@ -87,8 +87,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [VPN](https://trescout.com/dictionary/vpn/)
-- [Self-hosted](https://trescout.com/dictionary/self-hosted/)
 - [RAM](https://trescout.com/dictionary/ram/)
+- [Self-hosted](https://trescout.com/dictionary/self-hosted/)
 - [CPU](https://trescout.com/dictionary/cpu/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
 - [Open Source](https://trescout.com/dictionary/open-source/)

@@ -2,12 +2,13 @@
 
 cjpais/Handy es una aplicación de voz a texto gratuita y de código abierto que funciona completamente sin conexión. Desarrollada en Rust, esta herramienta ofrece una arquitectura extensible que permite a los usuarios procesar datos de voz de forma local.
 
-- ★ 37.195
+- ★ 38.790
 - Rust
 - GitHub Trending · 2026-11-02
 
 ## Actualizaciones
 
+- **15 de noviembre de 2026:** Estrellas 37,195 → 38,790, última versión v0.10.1 (14 de noviembre de 2026).
 - **3 de noviembre de 2026:** Estrellas 36,933 → 37,195, última versión v0.10.0 (2 de noviembre de 2026).
 - **2 de noviembre de 2026:** Estrellas 36,754 → 36,933, última versión v0.9.8 (3 de octubre de 2026).
 

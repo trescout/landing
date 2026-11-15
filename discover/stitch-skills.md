@@ -2,12 +2,13 @@
 
 Google Labs tarafından geliştirilen Stitch Skills, Stitch MCP sunucusuyla uyumlu çalışmak üzere tasarlanmış bir ajan yetenekleri (agent skills) kütüphanesidir. Açık standartları takip eden bu kütüphane, Gemini CLI ve Cursor gibi kodlama ajanları (coding agents) için iş akışlarını standartlaştırmayı amaçlar.
 
-- ★ 7.892
+- ★ 8.968
 - TypeScript
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
 
+- **15 Kasım 2026:** Yıldız 7.892 → 8.968, son sürüm v1.0 (18 Mayıs 2026).
 - **2 Ağustos 2026:** Yıldız 6.814 → 7.892, son sürüm v1.0 (18 Mayıs 2026).
 
 ## Ne kazandırır?

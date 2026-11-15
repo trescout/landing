@@ -49,8 +49,8 @@ Ja, mit der entsprechenden Infrastruktur und API-Verbindungen können einem Mode
 - [Taste Skill](https://trescout.com/de/discover/taste-skill/)
 - [Awesome Claude Skills](https://trescout.com/de/discover/awesome-claude-skills/)
 - [OpenMontage](https://trescout.com/de/discover/openmontage/)
-- [Awesome Claude Code](https://trescout.com/de/discover/awesome-claude-code/)
 - [Academic Research Skills](https://trescout.com/de/discover/academic-research-skills/)
+- [Awesome Claude Code](https://trescout.com/de/discover/awesome-claude-code/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/ai-skills/)
 

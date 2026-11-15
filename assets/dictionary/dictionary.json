@@ -10749,5 +10749,31 @@
     "kisa_es": "Es la agencia oficial que regula y supervisa la aviación civil en los Estados Unidos.",
     "kisa_pt": "É a agência oficial que regula e fiscaliza a aviação civil nos Estados Unidos da América.",
     "kisa_de": "Es ist die offizielle Behörde, die die Zivilluftfahrt in den Vereinigten Staaten reguliert und beaufsichtigt."
+  },
+  {
+    "slug": "single-board-computers",
+    "en": "Single-Board Computers",
+    "full": "SBC",
+    "cat": "dev",
+    "kisa": "Tek bir devre kartı üzerinde işlemci, bellek ve giriş-çıkış birimlerini barındıran eksiksiz ve kompakt bilgisayar sistemidir.",
+    "date": "2026-11-15",
+    "kisa_en": "It is a complete and compact computer system that houses a processor, memory, and input-output units on a single circuit board.",
+    "kisa_fr": "C'est un système informatique complet et compact qui intègre un processeur, de la mémoire et des unités d'entrée-sortie sur une seule carte mère.",
+    "kisa_es": "Es un sistema informático completo y compacto que alberga un procesador, memoria y unidades de entrada/salida en una sola placa de circuito impreso.",
+    "kisa_pt": "É um sistema de computador completo e compacto que abriga o processador, a memória e as unidades de entrada e saída em uma única placa de circuito.",
+    "kisa_de": "Es handelt sich um ein vollständiges und kompaktes Computersystem, das Prozessor, Speicher und Ein-/Ausgabeeinheiten auf einer einzigen Platine vereint."
+  },
+  {
+    "slug": "circular-financing-deals",
+    "en": "Circular Financing Deals",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Şirketlerin kendi ürünlerini dolaylı finansman yollarıyla finanse ederek satış rakamlarını yapay şekilde yüksek gösterme yöntemidir.",
+    "date": "2026-11-15",
+    "kisa_en": "It is a method where companies artificially inflate their sales figures by financing their own products through indirect financing channels.",
+    "kisa_fr": "Il s'agit d'une méthode par laquelle les entreprises financent leurs propres produits par des moyens de financement indirects afin de gonfler artificiellement leurs chiffres de vente.",
+    "kisa_es": "Es el método mediante el cual las empresas inflan artificialmente sus cifras de ventas financiando sus propios productos a través de vías de financiación indirecta.",
+    "kisa_pt": "É um método pelo qual as empresas financiam seus próprios produtos por meio de vias de financiamento indireto para inflar artificialmente seus números de vendas.",
+    "kisa_de": "Es handelt sich um eine Methode, mit der Unternehmen ihre Verkaufszahlen künstlich in die Höhe treiben, indem sie ihre eigenen Produkte über indirekte Finanzierungswege finanzieren."
   }
 ]

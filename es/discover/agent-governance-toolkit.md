@@ -2,12 +2,13 @@
 
 El conjunto de herramientas de gobernanza de agentes desarrollado por Microsoft ofrece capas de seguridad como aplicación de políticas, identidad de confianza cero y zona de pruebas para agentes autónomos de inteligencia artificial. El software tiene como objetivo proteger contra vulnerabilidades en la lista OWASP Agentic Top 10.
 
-- ★ 5.564
+- ★ 6.567
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Actualizaciones
 
+- **15 de noviembre de 2026:** Estrellas 5,564 → 6,567, última versión v4.1.0 (9 de junio de 2026).
 - **2 de agosto de 2026:** Estrellas 5,342 → 5,564, última versión v4.1.0 (9 de junio de 2026).
 
 ## Qué aporta

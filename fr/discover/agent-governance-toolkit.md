@@ -2,12 +2,13 @@
 
 La boîte à outils de gouvernance des agents développée par Microsoft offre des couches de sécurité telles que l'application des politiques, l'identité zéro confiance et le sandboxing pour les agents autonomes d'intelligence artificielle. Le logiciel vise à se protéger contre les vulnérabilités de la liste OWASP Agentic Top 10.
 
-- ★ 5 564
+- ★ 6 567
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Mises à jour
 
+- **15 novembre 2026:** Étoiles 5,564 → 6,567, dernière version v4.1.0 (9 juin 2026).
 - **2 août 2026:** Étoiles 5,342 → 5,564, dernière version v4.1.0 (9 juin 2026).
 
 ## Ce que ça vous apporte

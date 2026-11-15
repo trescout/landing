@@ -36,8 +36,8 @@ Porque o risco de segurança é muito elevado; Se um software malicioso obtiver 
 ## Ferramentas relacionadas
 
 - [Trivy](https://trescout.com/pt/discover/trivy/)
-- [Universal Android Debloater Next Generation](https://trescout.com/pt/discover/universal-android-debloater-next-generation/)
 - [Tailcat](https://trescout.com/pt/discover/tailcat/)
+- [Universal Android Debloater Next Generation](https://trescout.com/pt/discover/universal-android-debloater-next-generation/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/root/)
 

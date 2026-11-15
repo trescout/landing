@@ -2,16 +2,16 @@
 
 Das von Google Research entwickelte Time Series Foundation Model bietet eine vorab trainierte Struktur für die Zeitreihenvorhersage. Das Modell ist darauf ausgelegt, allgemeine Vorhersagefunktionen für verschiedene Datensätze bereitzustellen.
 
-- ★ 33.792
+- ★ 35.532
 - Python
 - GitHub Trending · 2026-06-18
 
 ## Aktualisierungen
 
+- **15. November 2026:** Sterne 33,792 → 35,532, neueste Version v3.0.0 (28. August 2026).
 - **27. September 2026:** Sterne 31,902 → 33,792, neueste Version v3.0.0 (28. August 2026).
 - **8. September 2026:** Sterne 30,360 → 31,902, neueste Version v3.0.0 (28. August 2026).
 - **3. September 2026:** Sterne 28,335 → 30,360, neueste Version v3.0.0 (28. August 2026).
-- **31. August 2026:** Sterne 27,185 → 28,335, neueste Version v3.0.0 (28. August 2026).
 
 ## Was es bringt
 

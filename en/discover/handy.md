@@ -2,12 +2,13 @@
 
 cjpais/Handy is a free and open-source speech-to-text application that runs entirely offline. Developed in Rust, this tool offers an extensible architecture allowing users to process voice data locally.
 
-- ★ 37,195
+- ★ 38,790
 - Rust
 - GitHub Trending · 2026-11-02
 
 ## Updates
 
+- **November 15, 2026:** Stars 37,195 → 38,790, latest release v0.10.1 (November 14, 2026).
 - **November 3, 2026:** Stars 36,933 → 37,195, latest release v0.10.0 (November 2, 2026).
 - **November 2, 2026:** Stars 36,754 → 36,933, latest release v0.9.8 (October 3, 2026).
 

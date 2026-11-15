@@ -2,12 +2,13 @@
 
 Das von Microsoft entwickelte Agent-Governance-Toolkit bietet Sicherheitsebenen wie Richtliniendurchsetzung, Zero-Trust-Identität und Sandboxing für autonome Agenten der künstlichen Intelligenz. Ziel der Software ist der Schutz vor Schwachstellen in der OWASP Agentic Top 10-Liste.
 
-- ★ 5.564
+- ★ 6.567
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Aktualisierungen
 
+- **15. November 2026:** Sterne 5,564 → 6,567, neueste Version v4.1.0 (9. Juni 2026).
 - **2. August 2026:** Sterne 5,342 → 5,564, neueste Version v4.1.0 (9. Juni 2026).
 
 ## Was es bringt

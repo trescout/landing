@@ -2,12 +2,13 @@
 
 The agent governance toolkit developed by Microsoft offers security layers such as policy enforcement, zero-trust identity and sandboxing for autonomous artificial intelligence agents. The software aims to protect against vulnerabilities in the OWASP Agentic Top 10 list.
 
-- ★ 5,564
+- ★ 6,567
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Updates
 
+- **November 15, 2026:** Stars 5,564 → 6,567, latest release v4.1.0 (June 9, 2026).
 - **August 2, 2026:** Stars 5,342 → 5,564, latest release v4.1.0 (June 9, 2026).
 
 ## What you get

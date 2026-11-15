@@ -64,8 +64,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Deployment Platform](https://trescout.com/de/dictionary/deployment-platform/)
 - [Deployment](https://trescout.com/de/dictionary/deployment/)
-- [Self-hosted](https://trescout.com/de/dictionary/self-hosted/)
 - [CI/CD](https://trescout.com/de/dictionary/ci-cd/)
+- [Self-hosted](https://trescout.com/de/dictionary/self-hosted/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

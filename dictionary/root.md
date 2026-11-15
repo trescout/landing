@@ -36,8 +36,8 @@ Yönetici (admin) hesabı ile benzerdir ancak root genellikle sistemin en derini
 ## İlgili araçlar
 
 - [Trivy](https://trescout.com/discover/trivy/)
-- [Universal Android Debloater Next Generation](https://trescout.com/discover/universal-android-debloater-next-generation/)
 - [Tailcat](https://trescout.com/discover/tailcat/)
+- [Universal Android Debloater Next Generation](https://trescout.com/discover/universal-android-debloater-next-generation/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

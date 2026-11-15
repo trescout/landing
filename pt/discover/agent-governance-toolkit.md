@@ -2,12 +2,13 @@
 
 O kit de ferramentas de governança de agentes desenvolvido pela Microsoft oferece camadas de segurança, como aplicação de políticas, identidade de confiança zero e sandboxing para agentes autônomos de inteligência artificial. O software visa proteger contra vulnerabilidades na lista OWASP Agentic Top 10.
 
-- ★ 5.564
+- ★ 6.567
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Atualizações
 
+- **15 de novembro de 2026:** Estrelas 5,564 → 6,567, versão mais recente v4.1.0 (9 de junho de 2026).
 - **2 de agosto de 2026:** Estrelas 5,342 → 5,564, versão mais recente v4.1.0 (9 de junho de 2026).
 
 ## O que você ganha

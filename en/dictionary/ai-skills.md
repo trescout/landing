@@ -49,8 +49,8 @@ Yes, new capabilities can be added to a model with the appropriate infrastructur
 - [Taste Skill](https://trescout.com/en/discover/taste-skill/)
 - [Awesome Claude Skills](https://trescout.com/en/discover/awesome-claude-skills/)
 - [OpenMontage](https://trescout.com/en/discover/openmontage/)
-- [Awesome Claude Code](https://trescout.com/en/discover/awesome-claude-code/)
 - [Academic Research Skills](https://trescout.com/en/discover/academic-research-skills/)
+- [Awesome Claude Code](https://trescout.com/en/discover/awesome-claude-code/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-skills/)
 

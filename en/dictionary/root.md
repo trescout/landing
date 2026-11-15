@@ -36,8 +36,8 @@ Because the security risk is very high; If a malicious software gets root permis
 ## Related tools
 
 - [Trivy](https://trescout.com/en/discover/trivy/)
-- [Universal Android Debloater Next Generation](https://trescout.com/en/discover/universal-android-debloater-next-generation/)
 - [Tailcat](https://trescout.com/en/discover/tailcat/)
+- [Universal Android Debloater Next Generation](https://trescout.com/en/discover/universal-android-debloater-next-generation/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/root/)
 

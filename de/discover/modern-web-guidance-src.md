@@ -2,12 +2,13 @@
 
 GoogleChrome/modern-web-guidance-src ist ein Ressourcen-Repository, das den Code und die Dokumentation enthält, die für die Erstellung, Kalibrierung und Bewertung von Leitfäden für die moderne Webentwicklung erforderlich sind. Dieses in TypeScript entwickelte Projekt ermöglicht die Verwaltung von Leitfadeninhalten für Webstandards.
 
-- ★ 5.027
+- ★ 6.243
 - TypeScript
 - GitHub Trending · 2026-11-11
 
 ## Aktualisierungen
 
+- **15. November 2026:** Sterne 5,027 → 6,243.
 - **14. November 2026:** Sterne 3,469 → 5,027.
 - **13. November 2026:** Sterne 1,570 → 3,469.
 
