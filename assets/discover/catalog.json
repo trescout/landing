@@ -1074,10 +1074,10 @@
     "slug": "claude-mem",
     "title": "claude-mem",
     "tagline": "Yapay zekâ ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
-    "meta": "★ 116.629 · Apache-2.0",
+    "meta": "★ 117.193 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
-    "stars": 116629,
+    "stars": 117193,
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
@@ -1449,6 +1449,13 @@
         "onceki_yildiz": 116344,
         "surum": "v15.18.3",
         "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-15",
+        "yildiz": 117193,
+        "onceki_yildiz": 116629,
+        "surum": "v15.18.4",
+        "surum_tarihi": "2026-11-15"
       }
     ],
     "tagline_en": "Persistent memory for your AI agent: Remembers cross-session context and is set up with a single command.",
@@ -9241,14 +9248,14 @@
     "slug": "mxc",
     "title": "MXC",
     "tagline": "Microsoft tarafından geliştirilen MXC, Rust diliyle yazılmış politika tabanlı, katmanlı bir yalıtım ve kapsayıcılık (isolation…",
-    "meta": "★ 2.882 · Rust",
+    "meta": "★ 3.142 · Rust",
     "image": "/assets/discover/og/mxc.webp",
     "source": "GitHub",
     "date": "2026-06-07",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 2882,
+    "stars": 3142,
     "lite": false,
     "headline": "Rust ile politika tabanlı katmanlı sistem yalıtımı",
     "last_review": "2026-11-15",
@@ -9280,6 +9287,13 @@
         "onceki_yildiz": 2506,
         "surum": "v1.0.1",
         "surum_tarihi": "2026-10-17"
+      },
+      {
+        "tarih": "2026-11-15",
+        "yildiz": 3142,
+        "onceki_yildiz": 2882,
+        "surum": "v1.1.0",
+        "surum_tarihi": "2026-11-15"
       }
     ]
   },
@@ -13133,7 +13147,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 32.356 · HTML",
+    "meta": "★ 32.360 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -13141,7 +13155,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 32356,
+    "stars": 32360,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-11-15",
@@ -13522,6 +13536,13 @@
         "yildiz": 32356,
         "onceki_yildiz": 32311,
         "surum": "cua-spaces-v0.36.17",
+        "surum_tarihi": "2026-11-15"
+      },
+      {
+        "tarih": "2026-11-15",
+        "yildiz": 32360,
+        "onceki_yildiz": 32356,
+        "surum": "cua-spaces-v0.36.18",
         "surum_tarihi": "2026-11-15"
       }
     ],
@@ -38111,7 +38132,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 70.309 · Python",
+    "meta": "★ 70.345 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -38119,7 +38140,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 70309,
+    "stars": 70345,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-11-15",
@@ -38465,6 +38486,13 @@
         "yildiz": 70309,
         "onceki_yildiz": 69986,
         "surum": "v6.19.25",
+        "surum_tarihi": "2026-11-15"
+      },
+      {
+        "tarih": "2026-11-15",
+        "yildiz": 70345,
+        "onceki_yildiz": 70309,
+        "surum": "v6.19.27",
         "surum_tarihi": "2026-11-15"
       }
     ]
@@ -53536,7 +53564,7 @@
     "slug": "deskcommcrm",
     "title": "DeskcommCRM",
     "tagline": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM)…",
-    "meta": "★ 5.406 · TypeScript",
+    "meta": "★ 5.418 · TypeScript",
     "image": "/assets/discover/og/deskcommcrm.webp",
     "source": "GitHub",
     "date": "2026-09-12",
@@ -53545,7 +53573,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5406,
+    "stars": 5418,
     "summary": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanlarıyla, benzer işlevlere sahip ticari yazılımlara (Kommo, Octadesk, Intercom) kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı yapay zekâlı CRM",
@@ -53879,6 +53907,13 @@
         "onceki_yildiz": 5405,
         "surum": "v1.111.0",
         "surum_tarihi": "2026-11-14"
+      },
+      {
+        "tarih": "2026-11-15",
+        "yildiz": 5418,
+        "onceki_yildiz": 5406,
+        "surum": "v1.112.0",
+        "surum_tarihi": "2026-11-15"
       }
     ],
     "tagline_en": "DeskcommCRM is an open-source customer relationship management (CRM) system developed for businesses that sell via chat...",
@@ -61886,14 +61921,14 @@
     "slug": "freehire",
     "title": "Freehire",
     "tagline": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve…",
-    "meta": "★ 3.528 · Go",
+    "meta": "★ 3.531 · Go",
     "image": "/assets/discover/og/freehire.webp",
     "source": "GitHub",
     "date": "2026-10-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3528,
+    "stars": 3531,
     "last_seen": "2026-10-22",
     "summary": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir arama motorudur. Kullanıcıların iş ilanlarını taramasına ve bulmasına olanak tanıyan bir platform sunar.",
     "lite": false,
@@ -62017,6 +62052,13 @@
         "yildiz": 3528,
         "onceki_yildiz": 3517,
         "surum": "deploy-20261115-0457",
+        "surum_tarihi": "2026-11-15"
+      },
+      {
+        "tarih": "2026-11-15",
+        "yildiz": 3531,
+        "onceki_yildiz": 3528,
+        "surum": "deploy-20261115-0806",
         "surum_tarihi": "2026-11-15"
       }
     ],
@@ -63702,14 +63744,14 @@
     "slug": "floci",
     "title": "Floci",
     "tagline": "Java diliyle geliştirilen Floci, yazılım geliştirme, test ve sürekli entegrasyon (CI) süreçleri için kullanılan açık kaynaklı…",
-    "meta": "★ 30.546 · Java",
+    "meta": "★ 31.754 · Java",
     "image": "/assets/discover/og/floci.webp",
     "source": "GitHub",
     "date": "2026-11-04",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 30546,
+    "stars": 31754,
     "last_seen": "2026-11-06",
     "summary": "Java diliyle geliştirilen Floci, yazılım geliştirme, test ve sürekli entegrasyon (CI) süreçleri için kullanılan açık kaynaklı (kaynak kodları herkesin erişimine açık) bir AWS yerel emülatörüdür. Bulut bilişim platformu AWS'nin sunduğu hizmetleri yerel ortamda taklit ederek geliştiricilere ücretsiz bir alternatif sunar.",
     "lite": false,
@@ -63729,6 +63771,13 @@
         "onceki_yildiz": 28992,
         "surum": "2.4.0",
         "surum_tarihi": "2026-10-31"
+      },
+      {
+        "tarih": "2026-11-15",
+        "yildiz": 31754,
+        "onceki_yildiz": 30546,
+        "surum": "2.5.0",
+        "surum_tarihi": "2026-11-15"
       }
     ],
     "tagline_en": "Developed in the Java language, Floci is an open-source tool used for software development, testing, and continuous integration (CI) processes...",
@@ -64949,7 +64998,7 @@
     "slug": "qwen-code",
     "title": "Qwen Code",
     "tagline": "QwenLM/qwen-code, terminal, editör, masaüstü ve tarayıcı üzerinde çalışan açık kaynaklı (open-source) bir kodlama yapay zekâ…",
-    "meta": "★ 29.939 · TypeScript",
+    "meta": "★ 30.444 · TypeScript",
     "image": "/assets/discover/og/qwen-code.webp",
     "source": "GitHub",
     "date": "2026-11-13",
@@ -64957,7 +65006,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 29939,
+    "stars": 30444,
     "last_seen": "2026-11-15",
     "summary": "QwenLM/qwen-code, terminal, editör, masaüstü ve tarayıcı üzerinde çalışan açık kaynaklı (open-source) bir kodlama yapay zekâ ajanıdır. TypeScript diliyle geliştirilen bu araç, yazılım geliştirme süreçlerini farklı platformlarda desteklemeyi amaçlar.",
     "lite": false,
@@ -64970,6 +65019,13 @@
         "onceki_yildiz": 29931,
         "surum": "sdk-typescript-v0.1.33",
         "surum_tarihi": "2026-11-13"
+      },
+      {
+        "tarih": "2026-11-15",
+        "yildiz": 30444,
+        "onceki_yildiz": 29939,
+        "surum": "v0.27.4",
+        "surum_tarihi": "2026-11-15"
       }
     ],
     "tagline_en": "QwenLM/qwen-code, an open-source coding AI operating across the terminal, editor, desktop, and browser…",

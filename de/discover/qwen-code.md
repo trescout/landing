@@ -2,12 +2,13 @@
 
 QwenLM/qwen-code ist ein Open-Source-KI-Codierungsagent, der im Terminal, in Editoren, auf dem Desktop und im Browser läuft. Dieses in TypeScript entwickelte Tool zielt darauf ab, Softwareentwicklungsprozesse auf verschiedenen Plattformen zu unterstützen.
 
-- ★ 29.939
+- ★ 30.444
 - TypeScript
 - GitHub Trending · 2026-11-13
 
 ## Aktualisierungen
 
+- **15. November 2026:** Sterne 29,939 → 30,444, neueste Version v0.27.4 (15. November 2026).
 - **13. November 2026:** Sterne 29,931 → 29,939, neueste Version sdk-typescript-v0.1.33 (13. November 2026).
 
 ## Was es bringt

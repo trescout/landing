@@ -2,12 +2,13 @@
 
 QwenLM/qwen-code is an open-source coding AI agent that runs on terminal, editor, desktop, and browser. Developed with the TypeScript language, this tool aims to support software development processes across different platforms.
 
-- ★ 29,939
+- ★ 30,444
 - TypeScript
 - GitHub Trending · 2026-11-13
 
 ## Updates
 
+- **November 15, 2026:** Stars 29,939 → 30,444, latest release v0.27.4 (November 15, 2026).
 - **November 13, 2026:** Stars 29,931 → 29,939, latest release sdk-typescript-v0.1.33 (November 13, 2026).
 
 ## What you get
