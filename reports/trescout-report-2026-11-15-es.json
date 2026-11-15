@@ -1,0 +1,951 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-15",
+  "capturedAt": "2026-11-15T05:10:59.675Z",
+  "editorial": "Hoy en día, las vulnerabilidades de seguridad y las tendencias sin censura (uncensored) en los modelos de inteligencia artificial destacan en los procesos de desarrollo de software. Mientras que las brechas de datos en la plataforma Lovable ponen en debate la seguridad de las aplicaciones, los modelos visuales y de lenguaje de nueva generación en Hugging Face desafían la capacidad técnica.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "summary": "Plannotator, desarrollado con TypeScript, ofrece un espacio de trabajo que gestiona la planificación, la revisión de código y los procesos de retroalimentación para agentes de inteligencia artificial. Permite a los usuarios organizar sus interacciones con los agentes y compartirlas dentro del equipo.",
+          "meta": "TypeScript · ★ 11.279 · +408 hoy",
+          "snapshot": {
+            "sourceId": "backnotprop/plannotator",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11279,
+              "engagementCount": 408,
+              "rank": 1,
+              "extra": {
+                "starsToday": 408
+              }
+            },
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+          }
+        },
+        {
+          "title": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "summary": "GoogleChrome/modern-web-guidance-src es un repositorio de recursos destinado a mantener a los agentes de codificación alineados con los estándares actuales de desarrollo web y las mejores prácticas (best practices). El proyecto incluye el código y la documentación necesarios para la creación, calibración y evaluación de estos contenidos.",
+          "meta": "TypeScript · ★ 6.235 · +1.231 hoy",
+          "snapshot": {
+            "sourceId": "GoogleChrome/modern-web-guidance-src",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6235,
+              "engagementCount": 1231,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1231,
+                "baglam": "readme"
+              }
+            },
+            "description": "Keep your coding agent up to date with the latest web best practices. This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents."
+          }
+        },
+        {
+          "title": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "summary": "tradermonty/claude-trading-skills es una herramienta de código de inteligencia artificial para inversores y operadores bursátiles que ofrece funciones como análisis de mercado, gráficos técnicos, calendarios económicos y desarrollo de estrategias. Este proyecto, preparado con el lenguaje Python, ayuda a procesar datos financieros y gestionar procesos comerciales trabajando sobre Claude Code.",
+          "meta": "Python · ★ 4.936 · +553 hoy",
+          "snapshot": {
+            "sourceId": "tradermonty/claude-trading-skills",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4936,
+              "engagementCount": 553,
+              "rank": 3,
+              "extra": {
+                "starsToday": 553
+              }
+            },
+            "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+          }
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "ChromeDevTools/chrome-devtools-mcp permite que los agentes de codificación (como Antigravity, Claude, Cursor o Copilot) inspeccionen y controlen un navegador Chrome en vivo. Presentada como un servidor del Protocolo de Contexto de Modelo (Model Context Protocol) y una interfaz de línea de comandos, esta herramienta proporciona a los asistentes impulsados por IA acceso total a las herramientas del navegador para la depuración y el análisis de rendimiento.",
+          "meta": "TypeScript · ★ 56.412 · +664 hoy",
+          "snapshot": {
+            "sourceId": "ChromeDevTools/chrome-devtools-mcp",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 56412,
+              "engagementCount": 664,
+              "rank": 4,
+              "extra": {
+                "starsToday": 664,
+                "baglam": "readme"
+              }
+            },
+            "description": "Chrome DevTools for coding agents. Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a CLI. Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis."
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "open-code-review, desarrollado por Alibaba, es una herramienta híbrida que combina tuberías deterministas con modelos de lenguaje grandes (LLM) para automatizar los procesos de revisión de código. Este sistema, que contiene reglas multilingües para la seguridad del software y la detección de errores, tiene como objetivo mejorar la calidad del código mediante comentarios a nivel de línea.",
+          "meta": "Go · ★ 51.527 · +893 hoy",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 51527,
+              "engagementCount": 893,
+              "rank": 5,
+              "extra": {
+                "starsToday": 893
+              }
+            },
+            "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+          }
+        },
+        {
+          "title": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "summary": "QwenLM/qwen-code es un agente de codificación de inteligencia artificial de código abierto (cuyo código fuente es accesible para todos) que funciona en entornos de terminal, editor, escritorio y navegador. Desarrollada con el lenguaje TypeScript, esta herramienta tiene como objetivo ayudar al usuario en los procesos de desarrollo de software.",
+          "meta": "TypeScript · ★ 30.403 · +64 hoy",
+          "snapshot": {
+            "sourceId": "QwenLM/qwen-code",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 30403,
+              "engagementCount": 64,
+              "rank": 6,
+              "extra": {
+                "starsToday": 64,
+                "baglam": "readme"
+              }
+            },
+            "description": "An open-source AI coding agent that lives in your terminal. The open-source AI coding agent for your terminal, editor, desktop, browser, and chat."
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer ofrece un kit de desarrollo de software (SDK) de código abierto (open source) que permite a los desarrolladores crear su propio software de oficina e integrar funciones como edición y cálculo en sus productos. Esta herramienta proporciona una infraestructura extensible que admite procesos de colaboración y manejo de archivos tanto para humanos como para agentes de inteligencia artificial.",
+          "meta": "TypeScript · ★ 25.032 · +495 hoy",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 25032,
+              "engagementCount": 495,
+              "rank": 7,
+              "extra": {
+                "starsToday": 495
+              }
+            },
+            "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
+          }
+        },
+        {
+          "title": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "summary": "AG-UI es un protocolo de comunicación de código abierto basado en eventos que conecta agentes de inteligencia artificial con interfaces de usuario. Simplifica las integraciones de aplicaciones al permitir que los desarrolladores establezcan un flujo de datos estándar entre los agentes de IA y las interfaces de usuario.",
+          "meta": "TypeScript · ★ 17.432 · +9 hoy",
+          "snapshot": {
+            "sourceId": "ag-ui-protocol/ag-ui",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 17432,
+              "engagementCount": 9,
+              "rank": 8,
+              "extra": {
+                "starsToday": 9,
+                "baglam": "readme"
+              }
+            },
+            "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables seamless integration between AI agents, real time user context, and user interfaces."
+          }
+        },
+        {
+          "title": "ashhart/TensorFold",
+          "url": "https://github.com/ashhart/TensorFold",
+          "summary": "ashhart/TensorFold ofrece un motor de inferencia (inference engine) compatible con Metal, CUDA y Vulkan para modelos de lenguaje grandes (LLM). Desarrollada con el lenguaje de programación Zig, esta herramienta permite ejecutar modelos directamente en procesadores gráficos Apple Silicon y NVIDIA sin necesidad de instalar Python o MLX.",
+          "meta": "Zig · ★ 2.188 · +37 hoy",
+          "snapshot": {
+            "sourceId": "ashhart/TensorFold",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "Zig",
+              "popularity": 2188,
+              "engagementCount": 37,
+              "rank": 9,
+              "extra": {
+                "starsToday": 37,
+                "baglam": "readme"
+              }
+            },
+            "description": "LLM Inference Engine for Metal, CUDA and Vulkan. TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation."
+          }
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "JuliusBrussee/caveman es un servidor proxy y paquete de capacidades desarrollado para agentes de inteligencia artificial que escriben código. Su objetivo es simplificar la comunicación y reducir la cantidad de tokens utilizados en un 65 por ciento.",
+          "meta": "Go · ★ 120.151 · +227 hoy",
+          "snapshot": {
+            "sourceId": "JuliusBrussee/caveman",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 120151,
+              "engagementCount": 227,
+              "rank": 10,
+              "extra": {
+                "starsToday": 227
+              }
+            },
+            "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+          }
+        },
+        {
+          "title": "louislam/uptime-kuma",
+          "url": "https://github.com/louislam/uptime-kuma",
+          "summary": "Uptime Kuma es una herramienta de monitoreo visual que puede alojar en su propio servidor, diseñada para realizar un seguimiento del tiempo de actividad de servidores y servicios. Desarrollado con el lenguaje JavaScript, este software ofrece una interfaz sencilla para los usuarios que desean realizar un seguimiento fácil del estado del sistema.",
+          "meta": "JavaScript · ★ 94.303 · +430 hoy",
+          "snapshot": {
+            "sourceId": "louislam/uptime-kuma",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 94303,
+              "engagementCount": 430,
+              "rank": 11,
+              "extra": {
+                "starsToday": 430,
+                "baglam": "readme"
+              }
+            },
+            "description": "A fancy self-hosted monitoring tool. Uptime Kuma is an easy-to-use self-hosted monitoring tool."
+          }
+        },
+        {
+          "title": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "summary": "Sure, desarrollada con el lenguaje Ruby, es una aplicación que tiene como objetivo ofrecer gestión de finanzas personales y activos para todos. Inspirada en las funciones desarrolladas en el pasado por el equipo de Maybe Finance, un proyecto abandonado, esta plataforma permite a los usuarios gestionar sus datos financieros.",
+          "meta": "Ruby · ★ 15.401 · +659 hoy",
+          "snapshot": {
+            "sourceId": "we-promise/sure",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "Ruby",
+              "popularity": 15401,
+              "engagementCount": 659,
+              "rank": 12,
+              "extra": {
+                "starsToday": 659,
+                "baglam": "readme"
+              }
+            },
+            "description": "The personal finance app for everyone (by everyone). The Maybe Finance (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription."
+          }
+        },
+        {
+          "title": "Tencent/LoopForge",
+          "url": "https://github.com/Tencent/LoopForge",
+          "summary": "LoopForge, desarrollado por Tencent, es una herramienta de flujo de trabajo autohospedada (self-hosted) utilizada para gestionar los procesos de entrega de agentes de codificación. Soporta procesos de asistentes de codificación locales mediante la orquestación de software como CodeBuddy, Codex y Claude Code con scripts y mecanismos de aprobación humana.",
+          "meta": "Go · ★ 983 · +33 hoy",
+          "snapshot": {
+            "sourceId": "Tencent/LoopForge",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 983,
+              "engagementCount": 33,
+              "rank": 13,
+              "extra": {
+                "starsToday": 33
+              }
+            },
+            "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants."
+          }
+        },
+        {
+          "title": "Likely7/Veyra-NRVideo",
+          "url": "https://github.com/Likely7/Veyra-NRVideo",
+          "summary": "Veyra-NRVideo es un reproductor de video avanzado para Windows que ofrece vista previa en tiempo real para videos y fuentes de tarjetas de captura. La herramienta tiene como objetivo mejorar la experiencia visual utilizando tecnologías de superresolución y mejora de imagen impulsadas por inteligencia artificial.",
+          "meta": "C++ · ★ 2.370 · +420 hoy",
+          "snapshot": {
+            "sourceId": "Likely7/Veyra-NRVideo",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 2370,
+              "engagementCount": 420,
+              "rank": 14,
+              "extra": {
+                "starsToday": 420
+              }
+            },
+            "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience."
+          }
+        },
+        {
+          "title": "martin-olivier/airgorah",
+          "url": "https://github.com/martin-olivier/airgorah",
+          "summary": "Airgorah, desarrollado con el lenguaje Rust, es un software utilizado para auditar la seguridad de redes inalámbricas. Ofrece la posibilidad de realizar pruebas de seguridad como monitorear el tráfico de red cercano, detectar dispositivos conectados a puntos de acceso y descifrar contraseñas.",
+          "meta": "Rust · ★ 5.984 · +270 hoy",
+          "snapshot": {
+            "sourceId": "martin-olivier/airgorah",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 5984,
+              "engagementCount": 270,
+              "rank": 15,
+              "extra": {
+                "starsToday": 270,
+                "baglam": "readme"
+              }
+            },
+            "description": "A WiFi security auditing software. Airgorah is a WiFi security auditing software that can capture nearby WiFi traffic, discover clients connected to access points, perform deauthentication attacks, capture handshakes and PMKIDs, and crack the password of access points."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "url": "https://www.spacex.com/launches/starship-flight-15",
+          "summary": "SpaceX logró una recuperación exitosa de la primera etapa del cohete durante el vuelo 15 de Starship al atraparlo con los brazos de la torre de lanzamiento. Este método representa una etapa técnica desarrollada con el objetivo de aumentar la reutilización de las piezas de los cohetes.",
+          "meta": "927 puntos · 633 comentarios",
+          "snapshot": {
+            "sourceId": "50500963",
+            "capturedAt": "2026-11-15T05:10:59.985Z",
+            "metadata": {
+              "popularity": 927,
+              "engagementCount": 633,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50500963",
+                  "popularity": 927,
+                  "engagementCount": 633
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-14T21:22:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50500963"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50500963",
+              "popularity": 927,
+              "engagementCount": 633
+            }
+          ]
+        },
+        {
+          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "url": "https://www.crissyfield.de/research/lovable-en/",
+          "summary": "Un análisis realizado en aplicaciones desarrolladas en la plataforma Lovable reveló que más de 200 mil mensajes privados y datos confidenciales, como información de pasaportes, estaban accesibles sin necesidad de iniciar sesión. La investigación muestra que existen graves vulnerabilidades de seguridad en más de 159 mil proyectos examinados.",
+          "meta": "715 puntos · 292 comentarios",
+          "snapshot": {
+            "sourceId": "50499017",
+            "capturedAt": "2026-11-15T05:10:59.985Z",
+            "metadata": {
+              "popularity": 715,
+              "engagementCount": 292,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50499017",
+                  "popularity": 715,
+                  "engagementCount": 292
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-14T17:43:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50499017",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Our analysis of 159,041 Lovable projects reveals many cases where sensitive data was accessible without logging in."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50499017",
+              "popularity": 715,
+              "engagementCount": 292
+            }
+          ]
+        },
+        {
+          "title": "Why get an expensive Pi when I have an old phone?",
+          "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+          "summary": "El hecho de que los teléfonos inteligentes antiguos contengan componentes como cámara, batería y datos móviles los convierte en una alternativa de hardware preferible frente a computadoras de placa única (single-board computers) como Raspberry Pi. Este enfoque permite reutilizar los dispositivos existentes eliminando la necesidad de comprar periféricos adicionales.",
+          "meta": "529 puntos · 290 comentarios",
+          "snapshot": {
+            "sourceId": "50440709",
+            "capturedAt": "2026-11-15T05:10:59.985Z",
+            "metadata": {
+              "popularity": 529,
+              "engagementCount": 290,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50440709",
+                  "popularity": 529,
+                  "engagementCount": 290
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-10T14:16:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50440709",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A second-hand smartphone already has the camera, GPS, storage, battery and mobile data I was assembling around a Raspberry Pi."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50440709",
+              "popularity": 529,
+              "engagementCount": 290
+            }
+          ]
+        },
+        {
+          "title": "KDE: The documentary [video]",
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+          "summary": "KDE: The Documentary narra la historia, que continúa desde 1996, de la comunidad de código abierto (open source) que los usuarios desarrollaron como alternativa a entornos de escritorio propietarios como Windows. El documental trata sobre la fundación y el proceso de desarrollo de una de las comunidades pioneras del mundo del software libre.",
+          "meta": "420 puntos · 91 comentarios",
+          "snapshot": {
+            "sourceId": "50496976",
+            "capturedAt": "2026-11-15T05:10:59.985Z",
+            "metadata": {
+              "popularity": 420,
+              "engagementCount": 91,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50496976",
+                  "popularity": 420,
+                  "engagementCount": 91
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-14T13:43:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50496976",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "KDE: The Documentary tells the story of the pioneering open source community that gave computer users a free and open alternative to proprietary desktops like Windows. The story starts in 1996, whe..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50496976",
+              "popularity": 420,
+              "engagementCount": 91
+            }
+          ]
+        },
+        {
+          "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+          "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+          "summary": "Se alega que la empresa Nvidia utiliza acuerdos de financiación circular (circular financing deals) para mantener altos los precios de las unidades de procesamiento gráfico (GPU). La empresa, acusada de afectar el equilibrio del mercado con este método, es señalada por manipular sus procesos de venta mediante dicha estrategia.",
+          "meta": "352 puntos · 181 comentarios",
+          "snapshot": {
+            "sourceId": "50501631",
+            "capturedAt": "2026-11-15T05:10:59.985Z",
+            "metadata": {
+              "popularity": 352,
+              "engagementCount": 181,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50501631",
+                  "popularity": 352,
+                  "engagementCount": 181
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-14T22:26:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50501631"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50501631",
+              "popularity": 352,
+              "engagementCount": 181
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic, compartido en Hugging Face, es un modelo de inteligencia artificial centrado en la generación de texto (text-generation). El desarrollador también pone a disposición de los usuarios la opción xtools-at/Qwen3.5-9B-DeepThought-STEM, un trabajo de ajuste fino (fine-tuning) centrado en la ciencia en el que se basa este modelo.",
+          "meta": "♥ 7.388 · 24.470 descargas",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-15T05:10:59.807Z",
+            "metadata": {
+              "popularity": 7388,
+              "engagementCount": 24470,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 4262,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "mtp",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Also check out DeepThought, my science finetune based on this model: xtools-at/Qwen3.5-9B-DeepThought-STEM"
+          }
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "MiniMax-H3-Image, ofrecido por MiniMaxAI, es un modelo de inteligencia artificial que realiza procesos de conversión de texto a imagen (text-to-image). Para que los desarrolladores de software puedan integrarlo en sus sistemas, ofrece documentación de API (un puente digital que permite que dos softwares diferentes se comuniquen entre sí) que incluye funciones de edición de imágenes, conversión de texto a imagen y expansión de prompts (prompt expansion).",
+          "meta": "♥ 1.127 · 517.948 descargas",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-15T05:10:59.807Z",
+            "metadata": {
+              "popularity": 1127,
+              "engagementCount": 517948,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1026,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen/Qwen3.8-27B, publicado en Hugging Face, es un modelo de inteligencia artificial que procesa entradas visuales y de texto para generar salidas de texto. Se ha lanzado como la versión más capaz de la familia de modelos abiertos Qwen hasta la fecha.",
+          "meta": "♥ 20.027 · 6.757.964 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-11-15T05:10:59.807Z",
+            "metadata": {
+              "popularity": 20027,
+              "engagementCount": 6757964,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 437,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the Qwen open-model family to date."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, desarrollado por Lightricks, es un modelo de inteligencia artificial de imagen a video (image-to-video) que convierte imágenes en videos animados. Este modelo, compartido en la plataforma Hugging Face, permite a los usuarios trasladar sus contenidos estáticos al formato de video.",
+          "meta": "♥ 11.943 · 2.777.667 descargas",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-15T05:10:59.807Z",
+            "metadata": {
+              "popularity": 11943,
+              "engagementCount": 2777667,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 427,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        },
+        {
+          "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "summary": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF, desarrollado por DavidAU, es un modelo de inteligencia artificial de código abierto (open source) capaz de procesar entradas visuales y de texto. Optimizado para ejecutarse en hardware de consumo, este modelo multietapa ha sido entrenado utilizando Unsloth.",
+          "meta": "♥ 3.130 · 1.657.783 descargas",
+          "snapshot": {
+            "sourceId": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+            "capturedAt": "2026-11-15T05:10:59.807Z",
+            "metadata": {
+              "popularity": 3130,
+              "engagementCount": 1657783,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 360,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "unsloth",
+                  "fine tune",
+                  "heretic",
+                  "uncensored",
+                  "abliterated",
+                  "ara",
+                  "MTP GGUF Quants",
+                  "Regular GGUF Quants",
+                  "qwen3_8",
+                  "qwen3_6",
+                  "qwen3_5",
+                  "multi-stage tuned",
+                  "thinking",
+                  "reasoning",
+                  "all use cases",
+                  "coder",
+                  "creative",
+                  "creative writing",
+                  "all genres",
+                  "story",
+                  "writing",
+                  "fiction",
+                  "roleplaying",
+                  "bfloat16",
+                  "multi-stage-tune",
+                  "multi-state-merge",
+                  "image-text-to-text",
+                  "ar",
+                  "zh",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "id",
+                  "it",
+                  "ja",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "es",
+                  "th",
+                  "vi",
+                  "dataset:DavidAU/Polar-STRICT-Datasets",
+                  "dataset:DavidAU/F451-STRICT-Datasets",
+                  "base_model:DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU",
+                  "base_model:quantized:DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. The strongest, smartest open source multi-stage model fine tune for consumer hardware ever and BUILT on consumer hardware via Unsloth."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
+          "url": "https://huggingface.co/papers/2611.10439",
+          "summary": "El artículo compartido por Hugging Face presenta un sistema llamado MixUA que gestiona el intercambio de memoria en entornos multiusuario y multiagente. Este sistema determina qué información se comparte y cuál permanece privada en las interacciones entre usuarios y diferentes agentes de inteligencia artificial, garantizando que las experiencias se transfieran de forma segura.",
+          "meta": "7 me gusta · 4 comentarios",
+          "snapshot": {
+            "sourceId": "2611.10439",
+            "capturedAt": "2026-11-15T05:10:59.818Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 4,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.10439",
+                "publishedAt": "2026-11-07T00:00:00.000Z"
+              }
+            },
+            "description": "Self-evolving agents improve their own skills, memory, and harness code from experience without retraining the base LLM, and group-evolving agents go further by sharing these lessons across agents. Yet most such systems overlook that sharing across users and heterogeneous agents requires deciding who can benefit from each lesson and what information must remain private. We present MixUA, a memory system that distills independent user-agent trajectories into lessons and assigns each lesson to a u"
+          }
+        },
+        {
+          "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+          "url": "https://huggingface.co/papers/2611.16728",
+          "summary": "EgoX es una estructura de aprendizaje que tiene como objetivo desarrollar políticas de manipulación general mediante la combinación de datos provenientes de robots con diferentes estructuras físicas, humanos y agentes simulados en un marco común. Este método asigna formas de observación y acción a nivel semántico para resolver las incompatibilidades entre diferentes estructuras corporales e interfaces de control.",
+          "meta": "1 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2611.16728",
+            "capturedAt": "2026-11-15T05:10:59.818Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.16728",
+                "publishedAt": "2026-11-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/egox-dream/egox",
+                "githubStars": 10
+              }
+            },
+            "description": "Generalist manipulation policies can benefit from the complementary experience of humans, real robots, and simulated agents. However, differences in morphology, sensing, and control interfaces make it difficult to learn effectively from their combined demonstrations. We introduce EgoX, an egocentric cross-embodiment learning framework that organizes heterogeneous demonstrations through semantically corresponding observation and action modalities. EgoX pretrains a Modularized Cross-Embodiment Tra"
+          }
+        },
+        {
+          "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+          "url": "https://huggingface.co/papers/2611.17336",
+          "summary": "El artículo 'Back to Pixels: Lifting Latent Video Diffusion into Pixel Space', compartido por Hugging Face, presenta el método PixVid, que permite que los modelos de generación de video operen directamente en el espacio de píxeles en lugar del espacio latente comprimido. Este enfoque tiene como objetivo superar las limitaciones que experimentan los modelos actuales en procesos de generación de alta resolución e interactivos.",
+          "meta": "3 me gusta · 6 comentarios",
+          "snapshot": {
+            "sourceId": "2611.17336",
+            "capturedAt": "2026-11-15T05:10:59.818Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 6,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.17336",
+                "publishedAt": "2026-11-12T00:00:00.000Z"
+              }
+            },
+            "description": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation -- doubling resolution quadruples token count, conditions apply to groups of frames rather than individual ones, and each response must wait for the rest of its multi-frame block. We present PixVid, a simple yet effective method that lifts a pretrained latent video model to dire"
+          }
+        },
+        {
+          "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
+          "url": "https://huggingface.co/papers/2611.17190",
+          "summary": "'Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes' examina el rendimiento de los métodos de estabilización basados en referencia en videos de vehículos aéreos no tripulados (UAV) frente a objetos en movimiento. El estudio presenta un punto de referencia (benchmark) de dos etapas para identificar situaciones en las que los movimientos de los vehículos en escenas urbanas conducen a coincidencias erróneas.",
+          "meta": "4 me gusta · 4 comentarios",
+          "snapshot": {
+            "sourceId": "2611.17190",
+            "capturedAt": "2026-11-15T05:10:59.818Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 4,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.17190",
+                "publishedAt": "2026-11-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/rfonod/stabilo-benchmark",
+                "githubStars": 0
+              }
+            },
+            "description": "Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on feature-matching benchmarks in which only the camera moves. Over a busy intersection, vehicles moving together supply mutually consistent correspondences that can draw the robust homography estimate toward their motion: consensus capture, which inlier statistics cannot flag. A two-part benchmark measur"
+          }
+        },
+        {
+          "title": "TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates",
+          "url": "https://huggingface.co/papers/2611.09567",
+          "summary": "TurtLES es un conjunto de datos a gran escala preparado para modelos de inteligencia artificial desarrollados con el fin de acelerar los procesos de dinámica de fluidos computacional (computational fluid dynamics). Este estudio, que incluye flujos turbulentos en 3D, permite entrenar modelos con datos realistas y dependientes del tiempo.",
+          "meta": "4 me gusta · 3 comentarios",
+          "snapshot": {
+            "sourceId": "2611.09567",
+            "capturedAt": "2026-11-15T05:10:59.818Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.09567",
+                "publishedAt": "2026-11-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/itsakk/TurtLES",
+                "githubStars": 2
+              }
+            },
+            "description": "Machine-learning surrogates are increasingly used to accelerate computational fluid dynamics, yet progress is limited by the lack of benchmarks capturing realistic, time-dependent turbulent flows. We introduce TurtLES, a 14 TB dataset of 3D turbulent cylinder wakes in the shear-layer transition regime, computed via high-fidelity implicit large-eddy simulations. The dataset contains 400 trajectories of 400 time steps each, with 3-11 million points per frame, spanning variations in geometry, Reyno"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "best practices",
+      "explanation": "Un conjunto de métodos aceptados para obtener el resultado más eficiente y sin errores en un campo determinado."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Una infraestructura de comunicación que permite a los asistentes de inteligencia artificial conectarse a diferentes fuentes de datos y herramientas de forma estándar."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con datos masivos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "open source",
+      "explanation": "Tipo de software cuyo código fuente está abierto para que cualquiera pueda examinarlo, modificarlo y mejorarlo."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Un conjunto de herramientas y bibliotecas que facilita a los desarrolladores la creación de aplicaciones para una plataforma o sistema específico."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "Componente de software que permite a un modelo de inteligencia artificial entrenado realizar predicciones sobre nuevos datos."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Servidor intermediario que actúa como puente entre el cliente y el servidor de destino, gestionando o supervisando el tráfico."
+    },
+    {
+      "term": "token",
+      "explanation": "La unidad de datos más pequeña, correspondiente a fragmentos de palabras o caracteres, que utilizan los modelos de inteligencia artificial al procesar textos."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Instalación y ejecución de un software en el propio servidor del usuario sin necesidad de recibir servicios externos."
+    },
+    {
+      "term": "super resolution",
+      "explanation": "Proceso de convertir imágenes de baja resolución en imágenes más nítidas y de alta resolución con la ayuda de la inteligencia artificial."
+    },
+    {
+      "term": "single-board computers",
+      "explanation": "Computadoras compactas en las que el procesador, la memoria y las unidades de entrada/salida están integrados en una sola placa de circuito."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Unidad de hardware especializada diseñada para realizar rápidamente operaciones intensivas, como el procesamiento de gráficos y cálculos de inteligencia artificial."
+    },
+    {
+      "term": "circular financing deals",
+      "explanation": "Intento de las empresas de inflar artificialmente las cifras de ventas o los precios financiando indirectamente sus propios productos."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Proceso mediante el cual la inteligencia artificial genera textos significativos de acuerdo con las instrucciones proporcionadas."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Reentrenamiento de un modelo de inteligencia artificial previamente entrenado con pequeños conjuntos de datos para que se especialice más en un tema determinado."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Tecnología de inteligencia artificial que analiza comandos escritos para generar imágenes acordes a ellos."
+    }
+  ]
+}

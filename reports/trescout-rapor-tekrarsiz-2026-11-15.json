@@ -1,0 +1,431 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-15",
+  "capturedAt": "2026-11-15T05:10:59.675Z",
+  "editorial": "Rapora dahil edilen içerikler 30 gün boyunca tekrarlanmaz. Bu sürenin sonunda gündemde kalmaya devam eden kayıtlar, \"yeniden gündemde\" etiketiyle tekrar listelenir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer, geliştiricilerin kendi ofis yazılımlarını oluşturmalarına olanak tanıyan, düzenleme ve hesaplama gibi özellikleri ürünlerine entegre etmelerini sağlayan açık kaynaklı (open source) bir yazılım geliştirme kiti (SDK) sunuyor. Bu araç, hem insanlar hem de yapay zekâ ajanları için iş birliği ve dosya işleme süreçlerini destekleyen genişletilebilir bir altyapı sağlıyor.",
+          "meta": "TypeScript · ★ 25.032 · +495 bugün",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 25032,
+              "engagementCount": 495,
+              "rank": 7,
+              "extra": {
+                "starsToday": 495
+              }
+            },
+            "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
+          },
+          "returning": true
+        },
+        {
+          "title": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "summary": "AG-UI, yapay zekâ ajanlarını kullanıcı arayüzlerine bağlayan açık kaynaklı ve olay tabanlı bir iletişim protokolü. Geliştiricilerin yapay zekâ ajanları ile kullanıcı arayüzleri arasında standart bir veri akışı kurmasını sağlayarak uygulama entegrasyonlarını basitleştiriyor.",
+          "meta": "TypeScript · ★ 17.432 · +9 bugün",
+          "snapshot": {
+            "sourceId": "ag-ui-protocol/ag-ui",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 17432,
+              "engagementCount": 9,
+              "rank": 8,
+              "extra": {
+                "starsToday": 9,
+                "baglam": "readme"
+              }
+            },
+            "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables seamless integration between AI agents, real time user context, and user interfaces."
+          }
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "JuliusBrussee/caveman, kodlama yapan yapay zekâ ajanları için geliştirilmiş bir vekil sunucu (proxy) ve yetenek paketidir. İletişimi basitleştirerek kullanılan belirteç (token) miktarını yüzde 65 oranında azaltmayı hedefler.",
+          "meta": "Go · ★ 120.151 · +227 bugün",
+          "snapshot": {
+            "sourceId": "JuliusBrussee/caveman",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 120151,
+              "engagementCount": 227,
+              "rank": 10,
+              "extra": {
+                "starsToday": 227
+              }
+            },
+            "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+          },
+          "returning": true
+        },
+        {
+          "title": "Tencent/LoopForge",
+          "url": "https://github.com/Tencent/LoopForge",
+          "summary": "Tencent tarafından geliştirilen LoopForge, kodlama ajanlarının teslimat süreçlerini yönetmek için kullanılan kendi sunucunuzda barındırabileceğiniz (self-hosted) bir iş akışı aracıdır. CodeBuddy, Codex ve Claude Code gibi yazılımları betikler ve insan onay mekanizmalarıyla düzenleyerek yerel kodlama asistanı süreçlerini destekler.",
+          "meta": "Go · ★ 983 · +33 bugün",
+          "snapshot": {
+            "sourceId": "Tencent/LoopForge",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 983,
+              "engagementCount": 33,
+              "rank": 13,
+              "extra": {
+                "starsToday": 33
+              }
+            },
+            "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants."
+          }
+        },
+        {
+          "title": "martin-olivier/airgorah",
+          "url": "https://github.com/martin-olivier/airgorah",
+          "summary": "Rust diliyle geliştirilen Airgorah, kablosuz ağ güvenliğini denetlemek için kullanılan bir yazılımdır. Yakındaki ağ trafiğini izleme, erişim noktalarına bağlı cihazları tespit etme ve parola kırma gibi güvenlik testleri yapma imkânı sunar.",
+          "meta": "Rust · ★ 5.984 · +270 bugün",
+          "snapshot": {
+            "sourceId": "martin-olivier/airgorah",
+            "capturedAt": "2026-11-15T05:11:00.788Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 5984,
+              "engagementCount": 270,
+              "rank": 15,
+              "extra": {
+                "starsToday": 270,
+                "baglam": "readme"
+              }
+            },
+            "description": "A WiFi security auditing software. Airgorah is a WiFi security auditing software that can capture nearby WiFi traffic, discover clients connected to access points, perform deauthentication attacks, capture handshakes and PMKIDs, and crack the password of access points."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "url": "https://www.spacex.com/launches/starship-flight-15",
+          "summary": "SpaceX, Starship uçuşu 15 kapsamında roketin ilk aşamasını fırlatma kulesindeki kollarla yakalayarak başarılı bir geri kazanım gerçekleştirdi. Bu yöntem, roket parçalarının yeniden kullanılabilirliğini artırmak amacıyla geliştirilen teknik bir aşamayı temsil ediyor.",
+          "meta": "927 oy · 633 yorum",
+          "snapshot": {
+            "sourceId": "50500963",
+            "capturedAt": "2026-11-15T05:10:59.985Z",
+            "metadata": {
+              "popularity": 927,
+              "engagementCount": 633,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50500963",
+                  "popularity": 927,
+                  "engagementCount": 633
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-14T21:22:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50500963"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50500963",
+              "popularity": 927,
+              "engagementCount": 633
+            }
+          ]
+        },
+        {
+          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "url": "https://www.crissyfield.de/research/lovable-en/",
+          "summary": "Lovable platformu üzerinde geliştirilen uygulamalarda yapılan bir analiz, 200 binden fazla özel mesajın ve pasaport bilgileri gibi hassas verilerin oturum açma gerektirmeden erişilebilir durumda olduğunu ortaya koydu. Araştırma, incelenen 159 binin üzerindeki projede ciddi güvenlik açıklarının bulunduğunu gösteriyor.",
+          "meta": "715 oy · 292 yorum",
+          "snapshot": {
+            "sourceId": "50499017",
+            "capturedAt": "2026-11-15T05:10:59.985Z",
+            "metadata": {
+              "popularity": 715,
+              "engagementCount": 292,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50499017",
+                  "popularity": 715,
+                  "engagementCount": 292
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-14T17:43:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50499017",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Our analysis of 159,041 Lovable projects reveals many cases where sensitive data was accessible without logging in."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50499017",
+              "popularity": 715,
+              "engagementCount": 292
+            }
+          ]
+        },
+        {
+          "title": "Why get an expensive Pi when I have an old phone?",
+          "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+          "summary": "Eski akıllı telefonların kamera, batarya ve mobil veri gibi bileşenleri barındırması, onları Raspberry Pi gibi tek kartlı bilgisayarlar (single-board computers) yerine tercih edilebilir bir donanım alternatifi haline getiriyor. Bu yaklaşım, ek çevre birimleri satın alma ihtiyacını ortadan kaldırarak mevcut cihazların yeniden değerlendirilmesini sağlıyor.",
+          "meta": "529 oy · 290 yorum",
+          "snapshot": {
+            "sourceId": "50440709",
+            "capturedAt": "2026-11-15T05:10:59.985Z",
+            "metadata": {
+              "popularity": 529,
+              "engagementCount": 290,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50440709",
+                  "popularity": 529,
+                  "engagementCount": 290
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-10T14:16:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50440709",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A second-hand smartphone already has the camera, GPS, storage, battery and mobile data I was assembling around a Raspberry Pi."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50440709",
+              "popularity": 529,
+              "engagementCount": 290
+            }
+          ]
+        },
+        {
+          "title": "KDE: The documentary [video]",
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+          "summary": "KDE: The Documentary, kullanıcıların Windows gibi tescilli masaüstü ortamlarına alternatif olarak geliştirdiği açık kaynak (open source) topluluğunun 1996 yılından bu yana süregelen hikâyesini anlatıyor. Belgesel, özgür yazılım dünyasının öncü topluluklarından birinin kuruluşunu ve gelişim sürecini konu alıyor.",
+          "meta": "420 oy · 91 yorum",
+          "snapshot": {
+            "sourceId": "50496976",
+            "capturedAt": "2026-11-15T05:10:59.985Z",
+            "metadata": {
+              "popularity": 420,
+              "engagementCount": 91,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50496976",
+                  "popularity": 420,
+                  "engagementCount": 91
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-14T13:43:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50496976",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "KDE: The Documentary tells the story of the pioneering open source community that gave computer users a free and open alternative to proprietary desktops like Windows. The story starts in 1996, whe..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50496976",
+              "popularity": 420,
+              "engagementCount": 91
+            }
+          ]
+        },
+        {
+          "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+          "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+          "summary": "Nvidia şirketinin, grafik işlem birimi (GPU) fiyatlarını yüksek tutmak amacıyla döngüsel finansman anlaşmaları (circular financing deals) kullandığı iddia ediliyor. Bu yöntemle piyasa dengesini etkilediği öne sürülen şirket, söz konusu stratejiyle satış süreçlerini manipüle etmekle suçlanıyor.",
+          "meta": "352 oy · 181 yorum",
+          "snapshot": {
+            "sourceId": "50501631",
+            "capturedAt": "2026-11-15T05:10:59.985Z",
+            "metadata": {
+              "popularity": 352,
+              "engagementCount": 181,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50501631",
+                  "popularity": 352,
+                  "engagementCount": 181
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-14T22:26:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50501631"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50501631",
+              "popularity": 352,
+              "engagementCount": 181
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "summary": "DavidAU tarafından geliştirilen DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF, görsel ve metin girdilerini işleyebilen bir açık kaynak (open source) yapay zekâ modelidir. Tüketici tipi donanımlar üzerinde çalışacak şekilde optimize edilen bu çok aşamalı model, Unsloth kullanılarak eğitilmiştir.",
+          "meta": "♥ 3.130 · 1.657.783 indirme",
+          "snapshot": {
+            "sourceId": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+            "capturedAt": "2026-11-15T05:10:59.807Z",
+            "metadata": {
+              "popularity": 3130,
+              "engagementCount": 1657783,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 360,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "unsloth",
+                  "fine tune",
+                  "heretic",
+                  "uncensored",
+                  "abliterated",
+                  "ara",
+                  "MTP GGUF Quants",
+                  "Regular GGUF Quants",
+                  "qwen3_8",
+                  "qwen3_6",
+                  "qwen3_5",
+                  "multi-stage tuned",
+                  "thinking",
+                  "reasoning",
+                  "all use cases",
+                  "coder",
+                  "creative",
+                  "creative writing",
+                  "all genres",
+                  "story",
+                  "writing",
+                  "fiction",
+                  "roleplaying",
+                  "bfloat16",
+                  "multi-stage-tune",
+                  "multi-state-merge",
+                  "image-text-to-text",
+                  "ar",
+                  "zh",
+                  "en",
+                  "fr",
+                  "de",
+                  "hi",
+                  "id",
+                  "it",
+                  "ja",
+                  "ko",
+                  "pl",
+                  "pt",
+                  "ru",
+                  "es",
+                  "th",
+                  "vi",
+                  "dataset:DavidAU/Polar-STRICT-Datasets",
+                  "dataset:DavidAU/F451-STRICT-Datasets",
+                  "base_model:DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU",
+                  "base_model:quantized:DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. The strongest, smartest open source multi-stage model fine tune for consumer hardware ever and BUILT on consumer hardware via Unsloth."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "Kaynak kodları herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yazılım türü."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılımcıların belirli bir platform veya sistem için uygulama geliştirmesini kolaylaştıran araçlar ve kütüphaneler seti."
+    },
+    {
+      "term": "proxy",
+      "explanation": "İstemci ile hedef sunucu arasında köprü görevi görerek trafiği yöneten veya denetleyen aracı sunucu."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekâ modellerinin metinleri işlerken kullandığı, kelime veya karakter parçalarına karşılık gelen en küçük veri birimi."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Bir yazılımın dışarıdan bir hizmet almadan, kullanıcının kendi sunucusu üzerinde kurulup çalıştırılması."
+    },
+    {
+      "term": "single-board computers",
+      "explanation": "İşlemci, bellek ve giriş çıkış birimleri tek bir devre kartı üzerine yerleştirilmiş kompakt bilgisayarlar."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Grafik işleme ve yapay zekâ hesaplamaları gibi yoğun işlemleri hızlıca yapmak için tasarlanmış özel donanım birimi."
+    },
+    {
+      "term": "circular financing deals",
+      "explanation": "Şirketlerin kendi ürünlerini dolaylı yollarla finanse ederek satış rakamlarını veya fiyatları yapay şekilde yüksek gösterme girişimi."
+    }
+  ]
+}
