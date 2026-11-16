@@ -2,17 +2,17 @@
 
 **Hermes WebUI**, Hermes yapay zekâ ajanlarını **web tarayıcısı veya mobil cihazlar** üzerinden yönetmenizi sağlayan bir arayüzdür. Ajan etkileşimlerini tek bir merkezden takip edip kontrol etmenize olanak tanır.
 
-- ★ 19.500
+- ★ 19.540
 - Python
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
 
+- **16 Kasım 2026:** Yıldız 19.500 → 19.540, son sürüm v0.52.679 (15 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 19.187 → 19.500, son sürüm v0.52.667 (12 Kasım 2026).
 - **26 Ekim 2026:** Yıldız 19.072 → 19.187, son sürüm v0.52.544 (25 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 18.938 → 19.072, son sürüm v0.52.492 (21 Ekim 2026).
-- **15 Ekim 2026:** Yıldız 18.381 → 18.938, son sürüm v0.52.458 (14 Ekim 2026).
 
 - **Kimin için:** Hermes/yapay zekâ ajanı kullananlar
 - **Zorluk:** Orta

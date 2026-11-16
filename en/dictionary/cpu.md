@@ -44,8 +44,8 @@ They are small independent processing units within a processor that can perform 
 - [CasaOS](https://trescout.com/en/discover/casaos/)
 - [Omlx](https://trescout.com/en/discover/omlx/)
 - [Ktransformers](https://trescout.com/en/discover/ktransformers/)
+- [Ggml](https://trescout.com/en/discover/ggml/)
 - [Pocket TTS](https://trescout.com/en/discover/pocket-tts/)
-- [Tilelang](https://trescout.com/en/discover/tilelang/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cpu/)
 

@@ -2,12 +2,13 @@
 
 Apache Maven is a project management and understanding tool (build automation tool) that manages software creation processes in Java-based projects. It uses the project object model structure to standardize the software development lifecycle.
 
-- ★ 5,361
+- ★ 5,377
 - Java
 - GitHub Trending · 2026-07-04
 
 ## Updates
 
+- **November 16, 2026:** Stars 5,361 → 5,377, latest release maven-3.10.1 (November 15, 2026).
 - **October 1, 2026:** Stars 5,334 → 5,361, latest release maven-3.10.0 (October 1, 2026).
 - **August 31, 2026:** Stars 5,292 → 5,334, latest release maven-3.9.16 (May 17, 2026).
 - **August 2, 2026:** Stars 5,250 → 5,292, latest release maven-3.10.0-rc-1 (July 13, 2026).

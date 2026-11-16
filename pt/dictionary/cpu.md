@@ -44,8 +44,8 @@ São pequenas unidades de processamento independentes dentro de um processador q
 - [CasaOS](https://trescout.com/pt/discover/casaos/)
 - [Omlx](https://trescout.com/pt/discover/omlx/)
 - [Ktransformers](https://trescout.com/pt/discover/ktransformers/)
+- [Ggml](https://trescout.com/pt/discover/ggml/)
 - [Pocket TTS](https://trescout.com/pt/discover/pocket-tts/)
-- [Tilelang](https://trescout.com/pt/discover/tilelang/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cpu/)
 

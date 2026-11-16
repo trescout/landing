@@ -2,15 +2,15 @@
 
 O Univer é uma plataforma de código aberto que combina ferramentas de escritório como planilhas, documentos e apresentações em um único tempo de execução (runtime). Ele oferece uma estrutura modular projetada para facilitar a interação de agentes de inteligência artificial (AI agents) com softwares de escritório.
 
-- ★ 25.043
+- ★ 26.527
 - GitHub Trending · 2026-09-23
 
 ## Atualizações
 
+- **16 de novembro de 2026:** Estrelas 25,043 → 26,527, versão mais recente v1.5.0 (14 de novembro de 2026).
 - **15 de novembro de 2026:** Estrelas 24,086 → 25,043, versão mais recente v1.5.0 (14 de novembro de 2026).
 - **14 de novembro de 2026:** Estrelas 22,912 → 24,086, versão mais recente v1.4.0 (7 de novembro de 2026).
 - **8 de novembro de 2026:** Estrelas 22,850 → 22,912, versão mais recente v1.4.0 (7 de novembro de 2026).
-- **2 de novembro de 2026:** Estrelas 22,807 → 22,850, versão mais recente v1.3.1 (2 de novembro de 2026).
 
 ## O que você ganha
 

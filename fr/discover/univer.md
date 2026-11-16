@@ -2,15 +2,15 @@
 
 Univer est une plateforme open source qui réunit des outils bureautiques tels que des feuilles de calcul, des documents et des présentations dans un seul environnement d'exécution (runtime). Elle offre une structure modulaire conçue pour faciliter l'interaction des agents d'IA (AI agents) avec les logiciels bureautiques.
 
-- ★ 25 043
+- ★ 26 527
 - GitHub Trending · 2026-09-23
 
 ## Mises à jour
 
+- **16 novembre 2026:** Étoiles 25,043 → 26,527, dernière version v1.5.0 (14 novembre 2026).
 - **15 novembre 2026:** Étoiles 24,086 → 25,043, dernière version v1.5.0 (14 novembre 2026).
 - **14 novembre 2026:** Étoiles 22,912 → 24,086, dernière version v1.4.0 (7 novembre 2026).
 - **8 novembre 2026:** Étoiles 22,850 → 22,912, dernière version v1.4.0 (7 novembre 2026).
-- **2 novembre 2026:** Étoiles 22,807 → 22,850, dernière version v1.3.1 (2 novembre 2026).
 
 ## Ce que ça vous apporte
 

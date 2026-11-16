@@ -44,8 +44,8 @@ Bir işlemcinin içinde aynı anda birden fazla işi yapabilen bağımsız küç
 - [CasaOS](https://trescout.com/discover/casaos/)
 - [Omlx](https://trescout.com/discover/omlx/)
 - [Ktransformers](https://trescout.com/discover/ktransformers/)
+- [Ggml](https://trescout.com/discover/ggml/)
 - [Pocket TTS](https://trescout.com/discover/pocket-tts/)
-- [Tilelang](https://trescout.com/discover/tilelang/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

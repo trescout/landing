@@ -10775,5 +10775,57 @@
     "kisa_es": "Es el método mediante el cual las empresas inflan artificialmente sus cifras de ventas financiando sus propios productos a través de vías de financiación indirecta.",
     "kisa_pt": "É um método pelo qual as empresas financiam seus próprios produtos por meio de vias de financiamento indireto para inflar artificialmente seus números de vendas.",
     "kisa_de": "Es handelt sich um eine Methode, mit der Unternehmen ihre Verkaufszahlen künstlich in die Höhe treiben, indem sie ihre eigenen Produkte über indirekte Finanzierungswege finanzieren."
+  },
+  {
+    "slug": "frontend-applications",
+    "en": "Frontend Applications",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kullanıcıların doğrudan etkileşime girdiği, arayüz ve istemci tarafı mantığını içeren yazılım uygulamalarıdır.",
+    "date": "2026-11-16",
+    "kisa_en": "These are software applications with which users directly interact, containing the interface and client-side logic.",
+    "kisa_fr": "Ce sont des applications logicielles avec lesquelles les utilisateurs interagissent directement, comprenant l'interface et la logique côté client.",
+    "kisa_es": "Son de software con los que los usuarios interactúan directamente, e incluyen la interfaz y la lógica del lado del cliente.",
+    "kisa_pt": "São aplicações de software com as quais os usuários interagem diretamente, contendo a interface e a lógica do lado do cliente.",
+    "kisa_de": "Dies sind Softwareanwendungen, mit denen Benutzer direkt interagieren und die die Benutzeroberfläche und die clientseitige Logik umfassen."
+  },
+  {
+    "slug": "debugging",
+    "en": "Debugging",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım kodlarındaki hataları tespit etme, kök nedenini analiz etme ve giderme sürecidir.",
+    "date": "2026-11-16",
+    "kisa_en": "It is the process of detecting errors in software codes, analyzing their root causes, and fixing them.",
+    "kisa_fr": "C'est le processus de détection des erreurs dans le code logiciel, d'analyse de leur cause racine et de leur résolution.",
+    "kisa_es": "Es el proceso de detectar errores en el código de software, analizar su causa raíz y solucionarlos.",
+    "kisa_pt": "É o processo de detecção de erros em códigos de software, análise de sua causa raiz e correção.",
+    "kisa_de": "Es ist der Prozess des Erkennens, Analysierens der Ursache und Behebens von Fehlern im Softwarecode."
+  },
+  {
+    "slug": "pulse-width-modulation",
+    "en": "Pulse-Width Modulation",
+    "full": "Pulse-Width Modulation",
+    "cat": "dev",
+    "kisa": "Dijital sinyallerin voltaj süresini değiştirerek gücü ve ekran parlaklığını kontrol eden bir sinyal düzenleme yöntemidir.",
+    "date": "2026-11-16",
+    "kisa_en": "It is a signal modulation method that controls power and screen brightness by changing the voltage duration of digital signals.",
+    "kisa_fr": "Il s'agit d'une méthode de modulation de signal qui contrôle la puissance et la luminosité de l'écran en modifiant la durée de la tension des signaux numériques.",
+    "kisa_es": "Es un método de modulación de señales que controla la potencia y el brillo de la pantalla cambiando la duración del voltaje de las señales digitales.",
+    "kisa_pt": "É um método de modulação de sinal que controla a potência e o brilho da tela alterando a duração da tensão dos sinais digitais.",
+    "kisa_de": "Es ist eine Signalbearbeitungsmethode, die Leistung und Bildschirmhelligkeit steuert, indem sie die Spannungsdauer digitaler Signale verändert."
+  },
+  {
+    "slug": "ecu",
+    "en": "ECU",
+    "full": "Electronic Control Unit",
+    "cat": "dev",
+    "kisa": "Araçlardaki sensör verilerini işleyerek motor ve diğer elektronik sistemleri yöneten kontrol birimidir.",
+    "date": "2026-11-16",
+    "kisa_en": "It is the control unit that manages the engine and other electronic systems by processing sensor data in vehicles.",
+    "kisa_fr": "C'est l'unité de contrôle qui gère le moteur et d'autres systèmes électroniques en traitant les données des capteurs du véhicule.",
+    "kisa_es": "Es la unidad de control que gestiona el motor y otros sistemas electrónicos procesando los datos de los sensores en los vehículos.",
+    "kisa_pt": "É a unidade de controle que gerencia o motor e outros sistemas eletrônicos processando os dados dos sensores nos veículos.",
+    "kisa_de": "Es ist die Steuereinheit, die den Motor und andere elektronische Systeme verwaltet, indem sie Sensordaten in Fahrzeugen verarbeitet."
   }
 ]

@@ -2,16 +2,16 @@
 
 Karakeep est une application de gestion de contenu auto-hébergée qui collecte des liens, des notes et des images dans un seul centre. Il facilite les processus d'archivage numérique grâce à des fonctionnalités de marquage automatique et de recherche en texte intégral basées sur l'intelligence artificielle.
 
-- ★ 29 886
+- ★ 30 595
 - TypeScript
 - GitHub Trending · 2026-07-07
 
 ## Mises à jour
 
+- **16 novembre 2026:** Étoiles 29,886 → 30,595, dernière version v0.35.0 (15 novembre 2026).
 - **22 octobre 2026:** Étoiles 29,731 → 29,886, dernière version v0.34.1 (22 octobre 2026).
 - **18 octobre 2026:** Étoiles 29,676 → 29,731, dernière version v0.34.0 (17 octobre 2026).
 - **15 octobre 2026:** Étoiles 28,260 → 29,676, dernière version v0.33.2 (11 août 2026).
-- **12 août 2026:** Étoiles 28,017 → 28,260, dernière version v0.33.2 (11 août 2026).
 
 ## Ce que ça vous apporte
 

@@ -39,9 +39,9 @@ Parce que c'est très rapide et réduit considérablement les erreurs logicielle
 - [Rustdesk](https://trescout.com/fr/discover/rustdesk/)
 - [Rust](https://trescout.com/fr/discover/rust/)
 - [Deno](https://trescout.com/fr/discover/deno/)
+- [OpenCut](https://trescout.com/fr/discover/opencut/)
 - [BUN](https://trescout.com/fr/discover/bun/)
 - [ZED](https://trescout.com/fr/discover/zed/)
-- [OpenCut](https://trescout.com/fr/discover/opencut/)
 - [AI Engineering from Scratch](https://trescout.com/fr/discover/ai-engineering-from-scratch/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/rust/)
