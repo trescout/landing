@@ -1,0 +1,840 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-16",
+  "capturedAt": "2026-11-16T05:43:41.544Z",
+  "editorial": "Hoy, la agenda tecnológica está dominada por modelos de procesamiento de imágenes de extremo a extremo y esfuerzos de liberalización en torno a modelos de lenguaje de gran tamaño (large language models). La interrupción del servicio de Microsoft 365, que provocó un accidente físico, vuelve a poner sobre la mesa los riesgos operativos de los sistemas basados en la nube y los problemas de parpadeo de pantalla (PWM) en el hardware.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer es un kit de desarrollo de software (SDK) de código abierto que permite a los desarrolladores integrar funciones de software de oficina, como edición, cálculo y colaboración, en sus propios productos. Esta herramienta tiene como objetivo crear un entorno de trabajo personalizable tanto para humanos como para agentes de inteligencia artificial.",
+          "meta": "TypeScript · ★ 26.517 · +988 hoy",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 26517,
+              "engagementCount": 988,
+              "rank": 1,
+              "extra": {
+                "starsToday": 988
+              }
+            },
+            "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
+          }
+        },
+        {
+          "title": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "summary": "AG-UI es un protocolo de comunicación de código abierto basado en eventos que conecta a los agentes de inteligencia artificial con las interfaces de usuario. Permite a los desarrolladores integrar agentes de IA en aplicaciones frontend con una estructura estándar.",
+          "meta": "TypeScript · ★ 18.099 · +355 hoy",
+          "snapshot": {
+            "sourceId": "ag-ui-protocol/ag-ui",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 18099,
+              "engagementCount": 355,
+              "rank": 2,
+              "extra": {
+                "starsToday": 355,
+                "baglam": "readme"
+              }
+            },
+            "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables seamless integration between AI agents, real time user context, and user interfaces."
+          }
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "stitch-skills, desarrollado por Google Labs, es una biblioteca de habilidades de agentes (agent skills) diseñada para funcionar de manera compatible con el servidor Stitch MCP. Esta biblioteca admite estándares abiertos que pueden utilizarse con varios agentes de codificación como Antigravity, Gemini CLI, Claude Code y la herramienta de edición de código Cursor.",
+          "meta": "TypeScript · ★ 9.437 · +247 hoy",
+          "snapshot": {
+            "sourceId": "google-labs-code/stitch-skills",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 9437,
+              "engagementCount": 247,
+              "rank": 3,
+              "extra": {
+                "starsToday": 247
+              }
+            },
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+          }
+        },
+        {
+          "title": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "summary": "plannotator es un espacio de trabajo que centraliza los procesos de planificación, revisión de código y retroalimentación para agentes de inteligencia artificial. Desarrollada con TypeScript, esta plataforma permite a los equipos gestionar sus interacciones con los agentes y enviar comentarios con un solo clic.",
+          "meta": "TypeScript · ★ 12.019 · +866 hoy",
+          "snapshot": {
+            "sourceId": "backnotprop/plannotator",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12019,
+              "engagementCount": 866,
+              "rank": 4,
+              "extra": {
+                "starsToday": 866
+              }
+            },
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+          }
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "ChromeDevTools/chrome-devtools-mcp es una herramienta que permite a los agentes de codificación (como Antigravity, Claude, Cursor o Copilot) inspeccionar y controlar un navegador Chrome en vivo. Presentada como un servidor del Protocolo de Contexto de Modelo (Model Context Protocol) y una interfaz de línea de comandos (CLI), esta solución proporciona a los asistentes de IA acceso a las herramientas de desarrollo de Chrome para la automatización, la depuración (debugging) y el análisis de rendimiento.",
+          "meta": "TypeScript · ★ 57.163 · +717 hoy",
+          "snapshot": {
+            "sourceId": "ChromeDevTools/chrome-devtools-mcp",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 57163,
+              "engagementCount": 717,
+              "rank": 5,
+              "extra": {
+                "starsToday": 717,
+                "baglam": "readme"
+              }
+            },
+            "description": "Chrome DevTools for coding agents. Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a CLI. Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis."
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "open-code-review, desarrollado por Alibaba, es una herramienta híbrida que combina tuberías deterministas con modelos de lenguaje grandes (LLM) para automatizar los procesos de revisión de código. Este sistema, que utiliza conjuntos de reglas multilingües para detectar vulnerabilidades de seguridad de software, ofrece soporte a los desarrolladores mediante comentarios a nivel de línea.",
+          "meta": "Go · ★ 52.332 · +691 hoy",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 52332,
+              "engagementCount": 691,
+              "rank": 6,
+              "extra": {
+                "starsToday": 691
+              }
+            },
+            "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+          }
+        },
+        {
+          "title": "Tencent/LoopForge",
+          "url": "https://github.com/Tencent/LoopForge",
+          "summary": "LoopForge, desarrollado por Tencent, es una herramienta de flujo de trabajo que puede alojar en su propio servidor (self-hosted) y que se utiliza para gestionar los procesos de entrega de los agentes de codificación. Permite organizar asistentes de codificación como CodeBuddy, Codex y Claude Code con scripts y mecanismos de aprobación humana.",
+          "meta": "Go · ★ 1.774 · +423 hoy",
+          "snapshot": {
+            "sourceId": "Tencent/LoopForge",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 1774,
+              "engagementCount": 423,
+              "rank": 7,
+              "extra": {
+                "starsToday": 423
+              }
+            },
+            "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants."
+          }
+        },
+        {
+          "title": "ggml-org/ggml",
+          "url": "https://github.com/ggml-org/ggml",
+          "summary": "ggml-org/ggml es una biblioteca de tensores desarrollada en C++ para modelos de aprendizaje automático. El software facilita la ejecución de modelos de inteligencia artificial al ofrecer ejemplos simples y explicativos para operaciones básicas como la multiplicación de matrices.",
+          "meta": "C++ · ★ 15.982 · +43 hoy",
+          "snapshot": {
+            "sourceId": "ggml-org/ggml",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 15982,
+              "engagementCount": 43,
+              "rank": 8,
+              "extra": {
+                "starsToday": 43,
+                "baglam": "readme"
+              }
+            },
+            "description": "Tensor library for machine learning. For a minimal, fully commented example (matrix multiplication), see examples/simple."
+          }
+        },
+        {
+          "title": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "summary": "elementalsouls/Claude-BugHunter ofrece un paquete de habilidades que funciona sobre Claude Code para la depuración y los trabajos de equipo rojo (red-team) externo. Desarrollada en Python, esta herramienta proporciona un contenido integral que incluye patrones de informes que cubren 24 clases de vulnerabilidades de seguridad básicas y matrices de ataque de infraestructura.",
+          "meta": "Python · ★ 6.678 · +98 hoy",
+          "snapshot": {
+            "sourceId": "elementalsouls/Claude-BugHunter",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6678,
+              "engagementCount": 98,
+              "rank": 9,
+              "extra": {
+                "starsToday": 98
+              }
+            },
+            "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+          }
+        },
+        {
+          "title": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "summary": "GoogleChrome/modern-web-guidance-src tiene como objetivo mantener a los agentes de inteligencia artificial que escriben código alineados con los estándares actuales de desarrollo web y las mejores prácticas (best practices). Este repositorio, preparado con el lenguaje TypeScript, contiene el código y la documentación necesarios para la creación, calibración y evaluación del contenido de la guía.",
+          "meta": "TypeScript · ★ 7.404 · +1.219 hoy",
+          "snapshot": {
+            "sourceId": "GoogleChrome/modern-web-guidance-src",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7404,
+              "engagementCount": 1219,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1219,
+                "baglam": "readme"
+              }
+            },
+            "description": "Keep your coding agent up to date with the latest web best practices. This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents."
+          }
+        },
+        {
+          "title": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "summary": "tradermonty/claude-trading-skills es un paquete de habilidades (skills) de inteligencia artificial que ofrece funciones como análisis de mercado, gráficos técnicos y desarrollo de estrategias para inversores bursátiles y operadores. Desarrollada en Python, esta herramienta ayuda a procesar datos financieros y gestionar procesos comerciales a través de Claude Code.",
+          "meta": "Python · ★ 5.748 · +706 hoy",
+          "snapshot": {
+            "sourceId": "tradermonty/claude-trading-skills",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5748,
+              "engagementCount": 706,
+              "rank": 11,
+              "extra": {
+                "starsToday": 706
+              }
+            },
+            "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+          }
+        },
+        {
+          "title": "NVIDIA/SkillEvaluator",
+          "url": "https://github.com/NVIDIA/SkillEvaluator",
+          "summary": "SkillEvaluator, desarrollado por NVIDIA, es un marco (framework) multicapa que evalúa las capacidades de los agentes de inteligencia artificial mediante métodos como el control de calidad, la detección de conflictos semánticos y la generación de datos sintéticos. Esta herramienta ofrece procesos de evaluación en vivo para medir los impactos en el comportamiento de los agentes.",
+          "meta": "Python · ★ 1.897 · +122 hoy",
+          "snapshot": {
+            "sourceId": "NVIDIA/SkillEvaluator",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1897,
+              "engagementCount": 122,
+              "rank": 12,
+              "extra": {
+                "starsToday": 122
+              }
+            },
+            "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+          "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+          "summary": "Una interrupción en el sistema de Microsoft 365 provocó que no se pudiera controlar el nivel de cloro en la piscina del parque de atracciones Phantasialand. Debido al fallo técnico, 15 huéspedes del hotel resultaron heridos por intoxicación con gas cloro.",
+          "meta": "469 puntos · 198 comentarios",
+          "snapshot": {
+            "sourceId": "50509411",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 469,
+              "engagementCount": 198,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50509411",
+                  "popularity": 469,
+                  "engagementCount": 198
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-15T18:36:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50509411",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Wegen der Outlook-Störung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 Gäste wurden verletzt."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50509411",
+              "popularity": 469,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "The MacBook Pro's OLED PWM problem",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+          "summary": "El método de modulación por ancho de pulsos (pulse-width modulation) que utilizan las pantallas OLED de los modelos MacBook Pro para controlar el brillo reduce la comodidad visual para algunos usuarios. Aunque la calidad de imagen es alta, esta tecnología crea dificultades de uso para las personas sensibles al parpadeo de la pantalla.",
+          "meta": "447 puntos · 255 comentarios",
+          "snapshot": {
+            "sourceId": "50506719",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 447,
+              "engagementCount": 255,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50506719",
+                  "popularity": 447,
+                  "engagementCount": 255
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-15T13:15:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50506719",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Apple has made a spectacular display. But spectacular isn’t the same as comfortable, and the people discovering that distinction deserve to be heard."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50506719",
+              "popularity": 447,
+              "engagementCount": 255
+            }
+          ]
+        },
+        {
+          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+          "summary": "Utilizando los modelos Claude Code y Codex, se realizó ingeniería inversa (reverse engineering) en la unidad de control del motor (ECU) de un Jeep de 1994 con la ayuda de una placa de desarrollo Arduino de 3 dólares. Este trabajo demuestra el potencial de las herramientas de inteligencia artificial en el proceso de análisis de protocolos de datos de hardware automotriz.",
+          "meta": "385 puntos · 193 comentarios",
+          "snapshot": {
+            "sourceId": "50463399",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 385,
+              "engagementCount": 193,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50463399",
+                  "popularity": 385,
+                  "engagementCount": 193
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-12T05:29:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50463399"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50463399",
+              "popularity": 385,
+              "engagementCount": 193
+            }
+          ]
+        },
+        {
+          "title": "Qwen4-Max",
+          "url": "https://qwen.ai/blog?id=qwen4-max",
+          "summary": "Qwen4-Max ofrece funciones integrales como chatbot, comprensión de imágenes y video, generación visual, procesamiento de documentos, búsqueda web, uso de herramientas y generación de contenido de IA (artifacts). Desarrollado por Alibaba, este modelo de lenguaje extenso tiene como objetivo satisfacer diversas necesidades de los usuarios con sus capacidades multimodales.",
+          "meta": "277 puntos · 93 comentarios",
+          "snapshot": {
+            "sourceId": "50513215",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 277,
+              "engagementCount": 93,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50513215",
+                  "popularity": 277,
+                  "engagementCount": 93
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-16T02:14:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50513215",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50513215",
+              "popularity": 277,
+              "engagementCount": 93
+            }
+          ]
+        },
+        {
+          "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+          "url": "https://bruceroettgers.eu/blog/protomaps/",
+          "summary": "Protomaps hace que alojar teselas de mapa (map tiles) en su propio servidor sea más accesible y económico. El formato PMTiles utilizado en este proceso puede distribuirse a espacios de almacenamiento como un solo archivo, operando a través de solicitudes de rango HTTP (HTTP Range requests).",
+          "meta": "247 puntos · 51 comentarios",
+          "snapshot": {
+            "sourceId": "50509837",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 247,
+              "engagementCount": 51,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50509837",
+                  "popularity": 247,
+                  "engagementCount": 51
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-15T19:26:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50509837",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "PMTiles is a tile format which works via HTTP Range requests and can be deployed as a single file to a storage bucket."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50509837",
+              "popularity": 247,
+              "engagementCount": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic, compartido en Hugging Face, es un modelo de inteligencia artificial centrado en la generación de texto (text-generation). El desarrollador también destaca el modelo xtools-at/Qwen3.5-9B-DeepThought-STEM, un trabajo de ajuste fino (fine-tuning) con contenido científico en el que se basa este modelo.",
+          "meta": "♥ 7.574 · 27.037 descargas",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 7574,
+              "engagementCount": 27037,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 4109,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "mtp",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Also check out DeepThought, my science finetune based on this model: xtools-at/Qwen3.5-9B-DeepThought-STEM"
+          }
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "MiniMax-H3-Image, desarrollado por MiniMaxAI, es un modelo de inteligencia artificial con capacidad de generación de imágenes a partir de texto (text-to-image). Admite funciones de edición de imágenes y expansión de comandos (prompt expansion) a través de la documentación de API, que son puentes digitales que permiten que el software se comunique entre sí.",
+          "meta": "♥ 1.205 · 571.067 descargas",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 1205,
+              "engagementCount": 571067,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1086,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen/Qwen3.8-27B, publicado en Hugging Face, es un modelo de inteligencia artificial que procesa entradas visuales y de texto para producir salidas de texto. Presentado como la versión más capaz de la familia de modelos abiertos Qwen hasta la fecha, este modelo es una continuación de las series anteriores.",
+          "meta": "♥ 20.141 · 6.547.772 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 20141,
+              "engagementCount": 6547772,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 457,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the Qwen open-model family to date."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, desarrollado por Lightricks, es un modelo de imagen a video (image-to-video) que convierte imágenes en videos en movimiento. Este modelo, disponible en la plataforma Hugging Face, permite a los usuarios trasladar su contenido estático al formato de video.",
+          "meta": "♥ 12.089 · 2.754.355 descargas",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 12089,
+              "engagementCount": 2754355,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 416,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3-Image",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+          "summary": "Comfy-Org/MiniMax-H3-Image, compartido en Hugging Face, es un modelo con capacidad de generación de imágenes basada en texto (text-to-image). Se recomienda utilizar el modelo qwen3.59bw4a8gptq, una herramienta de generación de texto, en los procesos de mejora de prompts.",
+          "meta": "♥ 419 · 1.973.388 descargas",
+          "snapshot": {
+            "sourceId": "Comfy-Org/MiniMax-H3-Image",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 419,
+              "engagementCount": 1973388,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 377,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "text-to-image",
+                  "base_model:MiniMaxAI/MiniMax-H3-Image",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3-Image",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. For prompt enhancement, we recommend to use the model qwen3.59bw4a8gptq with the Generate Text node."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "eDIAR: Training-Free Open-Speaker Streaming Diarization for Long Meetings and Large Archives via e-means",
+          "url": "https://huggingface.co/papers/2611.18529",
+          "summary": "eDIAR, compartido en Hugging Face, es un método de diarización de hablantes que no requiere entrenamiento y elimina la necesidad de determinar de antemano el número de hablantes en reuniones largas. El sistema puede operar en línea sin limitaciones de ranuras de salida fijas al agrupar las incrustaciones de hablantes (speaker embeddings) con el algoritmo e-means.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.18529",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.18529",
+                "publishedAt": "2026-11-13T00:00:00.000Z"
+              }
+            },
+            "description": "Meetings last up to an hour, and nobody knows in advance how many people will speak. Neural diarizers with a fixed number of output slots, such as Streaming Sortformer and Nemotron-3, are accurate and run online, but they cannot name more speakers than they have slots. We remove this limit without retraining. The slot head keeps deciding who is active and when speech overlaps, and speaker embeddings are clustered inside a single slot, with the official e-means algorithm, only after every slot ha"
+          }
+        },
+        {
+          "title": "Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion",
+          "url": "https://huggingface.co/papers/2611.02822",
+          "summary": "Disen-Forcing tiene como objetivo desacoplar el movimiento del anclaje semántico para estabilizar la generación de video a largo plazo en modelos de difusión de video autorregresivos. El método busca reducir la pérdida de calidad en la generación de video examinando el impacto de los enfoques existentes inspirados en los 'attention sinks' de los modelos de lenguaje grandes (LLM) sobre la coherencia a largo plazo.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.02822",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.02822",
+                "publishedAt": "2026-11-02T00:00:00.000Z"
+              }
+            },
+            "description": "Autoregressive video diffusion models (AR-VDMs) enable real-time, long-horizon video generation but degrade rapidly once the inference horizon outruns the training horizon, due to compounding exposure bias. To stabilize long rollouts, recent methods heuristically adopt frame sink, keeping initial frames as a persistent model context, inspired by attention sinks in LLMs. We revisit this design and find that the mechanism by which initial frames stabilize long-range consistency in AR-VDMs is not a"
+          }
+        },
+        {
+          "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+          "url": "https://huggingface.co/papers/2611.18549",
+          "summary": "JVT (Just Video Transformer), compartido por Hugging Face, es un modelo de inteligencia artificial que facilita el procesamiento de datos de video sin procesar de alta dimensión directamente en el espacio de píxeles. Esta arquitectura tiene como objetivo simplificar los procesos de difusión de video sin necesidad de componentes auxiliares complejos o codificadores preentrenados.",
+          "meta": "5 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.18549",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.18549",
+                "publishedAt": "2026-11-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/ZhouTimeMachine/JVT",
+                "githubStars": 4
+              }
+            },
+            "description": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simple large-patch DiT-style Transformer for pixel-space video diffusion, without a pretrained autoencoder, auxiliary detailers, cascaded stages, or U-Net-style skip connections. We systematically examine video patch embeddings, register tokens, and adaptive layer normalization to identify design choice"
+          }
+        },
+        {
+          "title": "Aligning AI Teams",
+          "url": "https://huggingface.co/papers/2611.17820",
+          "summary": "El artículo 'Aligning AI Teams', compartido por Hugging Face, examina los fallos en la transferencia del entrenamiento de alineación de modelos de lenguaje grandes (LLM) de agentes individuales a sistemas multiagente. La investigación analiza las causas de esta desalineación a través de tareas de ingeniería de software y consultoría, abordando métodos de intervención para proteger la seguridad de los equipos de inteligencia artificial.",
+          "meta": "2 me gusta · 0 comentarios",
+          "snapshot": {
+            "sourceId": "2611.17820",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 0,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.17820",
+                "publishedAt": "2026-11-13T00:00:00.000Z"
+              }
+            },
+            "description": "Previous work has shown that alignment training on individual LLM agents can fail to transfer to multi-agent settings. We investigate the underlying mechanisms for this failure, and explore interventions to preserve alignment transfer to multi-agent LLM teams. We focus on two software-engineering tasks (sepsis triage, a news recommender) and ten consulting-proposal generation tasks. We present four findings: (1) The single-vs-team safety gap does not show a clear trend with more capable models. "
+          }
+        },
+        {
+          "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+          "url": "https://huggingface.co/papers/2611.18397",
+          "summary": "Gamer es un marco de trabajo para agentes de inteligencia artificial de propósito general diseñado para realizar tareas a largo plazo en entornos interactivos complejos. Su arquitectura, que combina capacidades de percepción, gestión de memoria y razonamiento de múltiples pasos, admite la interacción tanto con interfaces gráficas bidimensionales como con mundos de simulación tridimensionales.",
+          "meta": "20 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2611.18397",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.18397",
+                "publishedAt": "2026-11-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/RainBowLuoCS/Gamer",
+                "githubStars": 124
+              }
+            },
+            "description": "We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces and complex 3D simulated worlds. We first continue pre-training on a dataset constructed from tens of thousands of hours of device-level keyboard and mouse interaction. These trajec"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "Tipo de software cuyo código fuente está abierto para que cualquiera pueda acceder, examinar y mejorar."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Conjunto de herramientas, bibliotecas y documentación que facilita a los desarrolladores la creación de aplicaciones para una plataforma o sistema específico."
+    },
+    {
+      "term": "frontend applications",
+      "explanation": "Partes del software con las que los usuarios interactúan directamente y que ven en la pantalla."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Conjunto de capacidades especializadas que poseen los agentes de inteligencia artificial para poder realizar tareas específicas."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Protocolo de comunicación que permite a los modelos de inteligencia artificial conectarse a diferentes fuentes de datos y herramientas de manera estandarizada."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que permite gestionar programas ingresando comandos escritos en lugar de usar el ratón."
+    },
+    {
+      "term": "debugging",
+      "explanation": "Proceso de encontrar, analizar y corregir errores dentro de un software."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con una cantidad masiva de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "La instalación y ejecución de un servicio en el propio servidor del usuario en lugar de contratarlo externamente."
+    },
+    {
+      "term": "red-team",
+      "explanation": "Pruebas que imitan los métodos de atacantes malintencionados para encontrar vulnerabilidades de seguridad en un sistema."
+    },
+    {
+      "term": "best practices",
+      "explanation": "Un conjunto de métodos y reglas establecidos que se aceptan como los que ofrecen el resultado más eficiente y seguro en un campo determinado."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacidades funcionales otorgadas a los agentes de inteligencia artificial para que puedan operar en un área específica."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un conjunto de estructuras y reglas predefinidas que forman la base y facilitan las tareas en el proceso de desarrollo de software."
+    },
+    {
+      "term": "pulse-width modulation",
+      "explanation": "Un método utilizado para controlar valores como el brillo de la pantalla cambiando la duración de las señales digitales."
+    },
+    {
+      "term": "ECU",
+      "explanation": "La unidad de control electrónico que gestiona el funcionamiento del motor y otros sistemas en los vehículos."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "El proceso de desmontar un producto terminado para examinar su estructura y comprender su principio de funcionamiento."
+    }
+  ]
+}

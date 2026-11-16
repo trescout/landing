@@ -1,0 +1,840 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-16",
+  "capturedAt": "2026-11-16T05:43:41.544Z",
+  "editorial": "Today, the technology agenda is dominated by end-to-end image processing models and liberation efforts surrounding open-source large language models. The fact that a Microsoft 365 service outage led to a physical accident brings the operational risks of cloud-based systems and hardware-side screen flickering (PWM) issues back into discussion.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer is an open-source software development kit (SDK) that allows developers to integrate office software features such as editing, calculation, and collaboration into their own products. This tool aims to create a customizable workspace for both humans and AI agents.",
+          "meta": "TypeScript · ★ 26,517 · +988 today",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 26517,
+              "engagementCount": 988,
+              "rank": 1,
+              "extra": {
+                "starsToday": 988
+              }
+            },
+            "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
+          }
+        },
+        {
+          "title": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "summary": "AG-UI is an open-source, event-based communication protocol that connects AI agents with user interfaces. It allows developers to integrate AI agents into frontend applications using a standard structure.",
+          "meta": "TypeScript · ★ 18,099 · +355 today",
+          "snapshot": {
+            "sourceId": "ag-ui-protocol/ag-ui",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 18099,
+              "engagementCount": 355,
+              "rank": 2,
+              "extra": {
+                "starsToday": 355,
+                "baglam": "readme"
+              }
+            },
+            "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables seamless integration between AI agents, real time user context, and user interfaces."
+          }
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "Developed by Google Labs, stitch-skills is an agent skills library designed to work compatibly with the Stitch MCP server. This library supports open standards that can be used with various coding agents such as Antigravity, Gemini CLI, Claude Code, and the code editing tool Cursor.",
+          "meta": "TypeScript · ★ 9,437 · +247 today",
+          "snapshot": {
+            "sourceId": "google-labs-code/stitch-skills",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 9437,
+              "engagementCount": 247,
+              "rank": 3,
+              "extra": {
+                "starsToday": 247
+              }
+            },
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+          }
+        },
+        {
+          "title": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "summary": "plannotator is a workspace that centralizes planning, code review, and feedback processes for AI agents. Developed with TypeScript, this platform allows teams to manage their interactions with agents and provide feedback with a single click.",
+          "meta": "TypeScript · ★ 12,019 · +866 today",
+          "snapshot": {
+            "sourceId": "backnotprop/plannotator",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12019,
+              "engagementCount": 866,
+              "rank": 4,
+              "extra": {
+                "starsToday": 866
+              }
+            },
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+          }
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "ChromeDevTools/chrome-devtools-mcp is a tool that allows coding agents (such as Antigravity, Claude, Cursor, or Copilot) to inspect and control a live Chrome browser. Offered as a Model Context Protocol server and command-line interface (CLI), this solution provides AI assistants with access to Chrome developer tools for automation, debugging, and performance analysis.",
+          "meta": "TypeScript · ★ 57,163 · +717 today",
+          "snapshot": {
+            "sourceId": "ChromeDevTools/chrome-devtools-mcp",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 57163,
+              "engagementCount": 717,
+              "rank": 5,
+              "extra": {
+                "starsToday": 717,
+                "baglam": "readme"
+              }
+            },
+            "description": "Chrome DevTools for coding agents. Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a CLI. Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis."
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Developed by Alibaba, open-code-review is a hybrid tool that combines deterministic pipelines with large language models (LLM) to automate code review processes. Using multilingual rule sets to detect software security vulnerabilities, this system supports developers by providing line-level comments.",
+          "meta": "Go · ★ 52,332 · +691 today",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 52332,
+              "engagementCount": 691,
+              "rank": 6,
+              "extra": {
+                "starsToday": 691
+              }
+            },
+            "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+          }
+        },
+        {
+          "title": "Tencent/LoopForge",
+          "url": "https://github.com/Tencent/LoopForge",
+          "summary": "Developed by Tencent, LoopForge is a self-hosted workflow tool used to manage the delivery processes of coding agents. It allows you to organize coding assistants like CodeBuddy, Codex, and Claude Code with scripts and human approval mechanisms.",
+          "meta": "Go · ★ 1,774 · +423 today",
+          "snapshot": {
+            "sourceId": "Tencent/LoopForge",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 1774,
+              "engagementCount": 423,
+              "rank": 7,
+              "extra": {
+                "starsToday": 423
+              }
+            },
+            "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants."
+          }
+        },
+        {
+          "title": "ggml-org/ggml",
+          "url": "https://github.com/ggml-org/ggml",
+          "summary": "ggml-org/ggml is a tensor library developed in C++ for machine learning models. The software facilitates the execution of AI models by providing simple and descriptive examples for operations such as basic matrix multiplication.",
+          "meta": "C++ · ★ 15,982 · +43 today",
+          "snapshot": {
+            "sourceId": "ggml-org/ggml",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 15982,
+              "engagementCount": 43,
+              "rank": 8,
+              "extra": {
+                "starsToday": 43,
+                "baglam": "readme"
+              }
+            },
+            "description": "Tensor library for machine learning. For a minimal, fully commented example (matrix multiplication), see examples/simple."
+          }
+        },
+        {
+          "title": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "summary": "elementalsouls/Claude-BugHunter offers a skill package running on Claude Code for debugging and external red-team efforts. Developed in Python, this tool provides comprehensive content including report patterns covering 24 basic vulnerability classes and infrastructure attack matrices.",
+          "meta": "Python · ★ 6,678 · +98 today",
+          "snapshot": {
+            "sourceId": "elementalsouls/Claude-BugHunter",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6678,
+              "engagementCount": 98,
+              "rank": 9,
+              "extra": {
+                "starsToday": 98
+              }
+            },
+            "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+          }
+        },
+        {
+          "title": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "summary": "GoogleChrome/modern-web-guidance-src aims to keep AI agents that write code aligned with current web development standards and best practices. Prepared in TypeScript, this repository contains the code and documentation necessary for creating, calibrating, and evaluating guidance content.",
+          "meta": "TypeScript · ★ 7,404 · +1,219 today",
+          "snapshot": {
+            "sourceId": "GoogleChrome/modern-web-guidance-src",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7404,
+              "engagementCount": 1219,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1219,
+                "baglam": "readme"
+              }
+            },
+            "description": "Keep your coding agent up to date with the latest web best practices. This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents."
+          }
+        },
+        {
+          "title": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "summary": "tradermonty/claude-trading-skills is an AI skills package that offers functions such as market analysis, technical charts, and strategy development for stock investors and traders. Developed in Python, this tool helps process financial data and manage trading processes via Claude Code.",
+          "meta": "Python · ★ 5,748 · +706 today",
+          "snapshot": {
+            "sourceId": "tradermonty/claude-trading-skills",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5748,
+              "engagementCount": 706,
+              "rank": 11,
+              "extra": {
+                "starsToday": 706
+              }
+            },
+            "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+          }
+        },
+        {
+          "title": "NVIDIA/SkillEvaluator",
+          "url": "https://github.com/NVIDIA/SkillEvaluator",
+          "summary": "SkillEvaluator, developed by NVIDIA, is a multi-layered framework that evaluates the capabilities of AI agents through methods such as quality control, semantic conflict detection, and synthetic data generation. This tool offers live evaluation processes to measure the impact on agent behaviors.",
+          "meta": "Python · ★ 1,897 · +122 today",
+          "snapshot": {
+            "sourceId": "NVIDIA/SkillEvaluator",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1897,
+              "engagementCount": 122,
+              "rank": 12,
+              "extra": {
+                "starsToday": 122
+              }
+            },
+            "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+          "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+          "summary": "An outage in the Microsoft 365 system led to an inability to control chlorine levels in a pool at the Phantasialand amusement park. Due to the technical glitch, 15 hotel guests were injured by chlorine gas poisoning.",
+          "meta": "469 points · 198 comments",
+          "snapshot": {
+            "sourceId": "50509411",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 469,
+              "engagementCount": 198,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50509411",
+                  "popularity": 469,
+                  "engagementCount": 198
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-15T18:36:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50509411",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Wegen der Outlook-Störung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 Gäste wurden verletzt."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50509411",
+              "popularity": 469,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "The MacBook Pro's OLED PWM problem",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+          "summary": "The pulse-width modulation method used by OLED screens in MacBook Pro models to control brightness reduces screen comfort for some users. Although the image quality is high, this technology creates usage difficulties for individuals sensitive to screen flickering.",
+          "meta": "447 points · 255 comments",
+          "snapshot": {
+            "sourceId": "50506719",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 447,
+              "engagementCount": 255,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50506719",
+                  "popularity": 447,
+                  "engagementCount": 255
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-15T13:15:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50506719",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Apple has made a spectacular display. But spectacular isn’t the same as comfortable, and the people discovering that distinction deserve to be heard."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50506719",
+              "popularity": 447,
+              "engagementCount": 255
+            }
+          ]
+        },
+        {
+          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+          "summary": "Using Claude Code and Codex models, the engine control unit (ECU) of a 1994 Jeep was reverse-engineered with the help of a $3 Arduino development board. This study demonstrates the potential of AI tools in the process of analyzing automotive hardware data protocols.",
+          "meta": "385 points · 193 comments",
+          "snapshot": {
+            "sourceId": "50463399",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 385,
+              "engagementCount": 193,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50463399",
+                  "popularity": 385,
+                  "engagementCount": 193
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-12T05:29:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50463399"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50463399",
+              "popularity": 385,
+              "engagementCount": 193
+            }
+          ]
+        },
+        {
+          "title": "Qwen4-Max",
+          "url": "https://qwen.ai/blog?id=qwen4-max",
+          "summary": "Qwen4-Max offers comprehensive functions such as chatbot, image and video understanding, visual generation, document processing, web search, tool use, and AI content generation (artifacts). Developed by Alibaba, this large language model aims to respond to various user needs with its multimodal capabilities.",
+          "meta": "277 points · 93 comments",
+          "snapshot": {
+            "sourceId": "50513215",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 277,
+              "engagementCount": 93,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50513215",
+                  "popularity": 277,
+                  "engagementCount": 93
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-16T02:14:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50513215",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50513215",
+              "popularity": 277,
+              "engagementCount": 93
+            }
+          ]
+        },
+        {
+          "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+          "url": "https://bruceroettgers.eu/blog/protomaps/",
+          "summary": "Protomaps makes hosting map tiles on your own server more accessible and economical. The PMTiles format used in this process works via HTTP Range requests and can be distributed to storage areas as a single file.",
+          "meta": "247 points · 51 comments",
+          "snapshot": {
+            "sourceId": "50509837",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 247,
+              "engagementCount": 51,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50509837",
+                  "popularity": 247,
+                  "engagementCount": 51
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-15T19:26:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50509837",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "PMTiles is a tile format which works via HTTP Range requests and can be deployed as a single file to a storage bucket."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50509837",
+              "popularity": 247,
+              "engagementCount": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "Shared on Hugging Face, xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic is an AI model focused on text generation. The developer also highlights the xtools-at/Qwen3.5-9B-DeepThought-STEM model, a scientific fine-tuning study upon which this model is based.",
+          "meta": "♥ 7,574 · 27,037 downloads",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 7574,
+              "engagementCount": 27037,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 4109,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "mtp",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Also check out DeepThought, my science finetune based on this model: xtools-at/Qwen3.5-9B-DeepThought-STEM"
+          }
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "Developed by MiniMaxAI, MiniMax-H3-Image is an AI model with text-to-image generation capabilities. It supports image editing and prompt expansion features via API documentation, which are digital bridges that allow software to communicate with each other.",
+          "meta": "♥ 1,205 · 571,067 downloads",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 1205,
+              "engagementCount": 571067,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1086,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Published on Hugging Face, Qwen/Qwen3.8-27B is an AI model that processes visual and text inputs to produce text output. Presented as the most capable version of the Qwen open model family to date, this model serves as a continuation of previous series.",
+          "meta": "♥ 20,141 · 6,547,772 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 20141,
+              "engagementCount": 6547772,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 457,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the Qwen open-model family to date."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "Developed by Lightricks, LTX-2.5 is an image-to-video model that converts images into moving videos. Located on the Hugging Face platform, this model allows users to move their static content into video format.",
+          "meta": "♥ 12,089 · 2,754,355 downloads",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 12089,
+              "engagementCount": 2754355,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 416,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3-Image",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+          "summary": "Shared on Hugging Face, Comfy-Org/MiniMax-H3-Image is a model with text-to-image generation capabilities. It is recommended to use the qwen3.59bw4a8gptq text generation tool during prompt refinement processes.",
+          "meta": "♥ 419 · 1,973,388 downloads",
+          "snapshot": {
+            "sourceId": "Comfy-Org/MiniMax-H3-Image",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 419,
+              "engagementCount": 1973388,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 377,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "text-to-image",
+                  "base_model:MiniMaxAI/MiniMax-H3-Image",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3-Image",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. For prompt enhancement, we recommend to use the model qwen3.59bw4a8gptq with the Generate Text node."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "eDIAR: Training-Free Open-Speaker Streaming Diarization for Long Meetings and Large Archives via e-means",
+          "url": "https://huggingface.co/papers/2611.18529",
+          "summary": "Shared on Hugging Face, eDIAR is a training-free speaker diarization method that eliminates the need to pre-determine the number of speakers in long meetings. The system can operate online without fixed output slot limitations by clustering speaker embeddings with the e-means algorithm.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.18529",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.18529",
+                "publishedAt": "2026-11-13T00:00:00.000Z"
+              }
+            },
+            "description": "Meetings last up to an hour, and nobody knows in advance how many people will speak. Neural diarizers with a fixed number of output slots, such as Streaming Sortformer and Nemotron-3, are accurate and run online, but they cannot name more speakers than they have slots. We remove this limit without retraining. The slot head keeps deciding who is active and when speech overlaps, and speaker embeddings are clustered inside a single slot, with the official e-means algorithm, only after every slot ha"
+          }
+        },
+        {
+          "title": "Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion",
+          "url": "https://huggingface.co/papers/2611.02822",
+          "summary": "Disen-Forcing aims to decouple motion from semantic anchoring to stabilize long-term video generation in autoregressive video diffusion models. The method seeks to reduce quality loss in video generation by examining the impact of existing approaches inspired by attention sinks in large language models (LLMs) on long-term consistency.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.02822",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.02822",
+                "publishedAt": "2026-11-02T00:00:00.000Z"
+              }
+            },
+            "description": "Autoregressive video diffusion models (AR-VDMs) enable real-time, long-horizon video generation but degrade rapidly once the inference horizon outruns the training horizon, due to compounding exposure bias. To stabilize long rollouts, recent methods heuristically adopt frame sink, keeping initial frames as a persistent model context, inspired by attention sinks in LLMs. We revisit this design and find that the mechanism by which initial frames stabilize long-range consistency in AR-VDMs is not a"
+          }
+        },
+        {
+          "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+          "url": "https://huggingface.co/papers/2611.18549",
+          "summary": "JVT (Just Video Transformer), shared by Hugging Face, is an artificial intelligence model that facilitates the processing of high-dimensional raw video data directly in pixel space. This architecture aims to simplify video diffusion processes without the need for complex auxiliary components or pre-trained encoders.",
+          "meta": "5 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.18549",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.18549",
+                "publishedAt": "2026-11-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/ZhouTimeMachine/JVT",
+                "githubStars": 4
+              }
+            },
+            "description": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simple large-patch DiT-style Transformer for pixel-space video diffusion, without a pretrained autoencoder, auxiliary detailers, cascaded stages, or U-Net-style skip connections. We systematically examine video patch embeddings, register tokens, and adaptive layer normalization to identify design choice"
+          }
+        },
+        {
+          "title": "Aligning AI Teams",
+          "url": "https://huggingface.co/papers/2611.17820",
+          "summary": "The 'Aligning AI Teams' paper, shared by Hugging Face, examines the failures in transferring alignment training of large language models (LLMs) from individual agents to multi-agent systems. The research analyzes the causes of this misalignment through software engineering and consulting tasks, and discusses intervention methods to maintain the safety of AI teams.",
+          "meta": "2 likes · 0 comments",
+          "snapshot": {
+            "sourceId": "2611.17820",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 0,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.17820",
+                "publishedAt": "2026-11-13T00:00:00.000Z"
+              }
+            },
+            "description": "Previous work has shown that alignment training on individual LLM agents can fail to transfer to multi-agent settings. We investigate the underlying mechanisms for this failure, and explore interventions to preserve alignment transfer to multi-agent LLM teams. We focus on two software-engineering tasks (sepsis triage, a news recommender) and ten consulting-proposal generation tasks. We present four findings: (1) The single-vs-team safety gap does not show a clear trend with more capable models. "
+          }
+        },
+        {
+          "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+          "url": "https://huggingface.co/papers/2611.18397",
+          "summary": "Gamer is a general-purpose AI agent framework designed to perform long-term tasks in complex interactive environments. Its architecture, which combines perception, memory management, and multi-step reasoning capabilities, supports interaction with both 2D graphical interfaces and 3D simulation worlds.",
+          "meta": "20 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2611.18397",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.18397",
+                "publishedAt": "2026-11-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/RainBowLuoCS/Gamer",
+                "githubStars": 124
+              }
+            },
+            "description": "We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces and complex 3D simulated worlds. We first continue pre-training on a dataset constructed from tens of thousands of hours of device-level keyboard and mouse interaction. These trajec"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "open source",
+      "explanation": "A type of software whose source code is open for anyone to access, inspect, and improve."
+    },
+    {
+      "term": "SDK",
+      "explanation": "A set of tools, libraries, and documentation that makes it easier for developers to build applications for a specific platform or system."
+    },
+    {
+      "term": "frontend applications",
+      "explanation": "The parts of software that users interact with directly and see on the screen."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "A set of specialized capabilities that AI agents possess to perform specific tasks."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "A communication protocol that allows AI models to connect to different data sources and tools in a standardized way."
+    },
+    {
+      "term": "CLI",
+      "explanation": "A text-based interface that allows you to manage programs by entering written commands instead of using a mouse."
+    },
+    {
+      "term": "debugging",
+      "explanation": "The process of finding, analyzing, and fixing errors within software."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "The installation and operation of a service on the user's own server instead of outsourcing it."
+    },
+    {
+      "term": "red-team",
+      "explanation": "Test studies that mimic the methods of malicious attackers to find security vulnerabilities in a system."
+    },
+    {
+      "term": "best practices",
+      "explanation": "A set of established methods and rules accepted as providing the most efficient and secure result in a field."
+    },
+    {
+      "term": "skills",
+      "explanation": "Functional capabilities acquired by artificial intelligence agents to perform operations in a specific area."
+    },
+    {
+      "term": "framework",
+      "explanation": "A ready-made structure and set of rules that form the basic framework and facilitate tasks in the software development process."
+    },
+    {
+      "term": "pulse-width modulation",
+      "explanation": "A method used to control values such as screen brightness by changing the duration of digital signals."
+    },
+    {
+      "term": "ECU",
+      "explanation": "The electronic control unit that manages the operation of the engine and other systems in vehicles."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "The process of disassembling a ready-made product to understand how it works, examining its structure, and deciphering its operating principle."
+    }
+  ]
+}

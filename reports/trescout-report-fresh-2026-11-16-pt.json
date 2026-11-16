@@ -1,0 +1,473 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-16",
+  "capturedAt": "2026-11-16T05:43:41.544Z",
+  "editorial": "Os conteúdos incluídos no relatório não são repetidos durante 30 dias. Após este período, os registos que continuam na agenda são listados novamente com a etiqueta \"novamente na agenda\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "Desenvolvido pelo Google Labs, o stitch-skills é uma biblioteca de habilidades de agente (agent skills) projetada para funcionar de forma compatível com o servidor Stitch MCP. Esta biblioteca suporta padrões abertos que podem ser usados com vários agentes de codificação, como Antigravity, Gemini CLI, Claude Code e a ferramenta de edição de código Cursor.",
+          "meta": "TypeScript · ★ 9.437 · +247 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "google-labs-code/stitch-skills",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 9437,
+              "engagementCount": 247,
+              "rank": 3,
+              "extra": {
+                "starsToday": 247
+              }
+            },
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+          }
+        },
+        {
+          "title": "ggml-org/ggml",
+          "url": "https://github.com/ggml-org/ggml",
+          "summary": "ggml-org/ggml é uma biblioteca de tensores desenvolvida em C++ para modelos de aprendizado de máquina. O software facilita a execução de modelos de inteligência artificial ao oferecer exemplos simples e explicativos para operações básicas, como multiplicação de matrizes.",
+          "meta": "C++ · ★ 15.982 · +43 hoje",
+          "snapshot": {
+            "sourceId": "ggml-org/ggml",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 15982,
+              "engagementCount": 43,
+              "rank": 8,
+              "extra": {
+                "starsToday": 43,
+                "baglam": "readme"
+              }
+            },
+            "description": "Tensor library for machine learning. For a minimal, fully commented example (matrix multiplication), see examples/simple."
+          }
+        },
+        {
+          "title": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "summary": "elementalsouls/Claude-BugHunter oferece um pacote de habilidades que roda no Claude Code para depuração e trabalhos de red-team externo. Desenvolvida em Python, esta ferramenta fornece um conteúdo abrangente que inclui padrões de relatório cobrindo 24 classes de vulnerabilidades de segurança fundamentais e matrizes de ataque de infraestrutura.",
+          "meta": "Python · ★ 6.678 · +98 hoje",
+          "snapshot": {
+            "sourceId": "elementalsouls/Claude-BugHunter",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6678,
+              "engagementCount": 98,
+              "rank": 9,
+              "extra": {
+                "starsToday": 98
+              }
+            },
+            "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+          }
+        },
+        {
+          "title": "NVIDIA/SkillEvaluator",
+          "url": "https://github.com/NVIDIA/SkillEvaluator",
+          "summary": "O SkillEvaluator, desenvolvido pela NVIDIA, é uma estrutura (framework) multicamadas que avalia as capacidades de agentes de inteligência artificial por meio de métodos como controle de qualidade, detecção de conflitos semânticos e geração de dados sintéticos. Esta ferramenta oferece processos de avaliação em tempo real para medir os impactos no comportamento dos agentes.",
+          "meta": "Python · ★ 1.897 · +122 hoje",
+          "snapshot": {
+            "sourceId": "NVIDIA/SkillEvaluator",
+            "capturedAt": "2026-11-16T05:43:42.734Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1897,
+              "engagementCount": 122,
+              "rank": 12,
+              "extra": {
+                "starsToday": 122
+              }
+            },
+            "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+          "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+          "summary": "Uma interrupção no sistema Microsoft 365 causou a falha no controle dos níveis de cloro na piscina do parque de diversões Phantasialand. Devido à falha técnica, 15 hóspedes do hotel ficaram feridos por intoxicação com gás cloro.",
+          "meta": "469 pontos · 198 comentários",
+          "snapshot": {
+            "sourceId": "50509411",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 469,
+              "engagementCount": 198,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50509411",
+                  "popularity": 469,
+                  "engagementCount": 198
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-15T18:36:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50509411",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Wegen der Outlook-Störung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 Gäste wurden verletzt."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50509411",
+              "popularity": 469,
+              "engagementCount": 198
+            }
+          ]
+        },
+        {
+          "title": "The MacBook Pro's OLED PWM problem",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+          "summary": "O método de modulação por largura de pulso (pulse-width modulation), utilizado pelas telas OLED dos modelos MacBook Pro para controlar o brilho, reduz o conforto visual para alguns usuários. Embora a qualidade da imagem seja alta, essa tecnologia cria dificuldades de uso para pessoas sensíveis à cintilação da tela.",
+          "meta": "447 pontos · 255 comentários",
+          "snapshot": {
+            "sourceId": "50506719",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 447,
+              "engagementCount": 255,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50506719",
+                  "popularity": 447,
+                  "engagementCount": 255
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-15T13:15:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50506719",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Apple has made a spectacular display. But spectacular isn’t the same as comfortable, and the people discovering that distinction deserve to be heard."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50506719",
+              "popularity": 447,
+              "engagementCount": 255
+            }
+          ]
+        },
+        {
+          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+          "summary": "A unidade de controle do motor (ECU) de um Jeep modelo 1994 foi decodificada por engenharia reversa (reverse engineering) com a ajuda de uma placa de desenvolvimento Arduino de 3 dólares, utilizando os modelos Claude Code e Codex. Este estudo demonstra o potencial das ferramentas de inteligência artificial no processo de análise de protocolos de dados de hardware automotivo.",
+          "meta": "385 pontos · 193 comentários",
+          "snapshot": {
+            "sourceId": "50463399",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 385,
+              "engagementCount": 193,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50463399",
+                  "popularity": 385,
+                  "engagementCount": 193
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-12T05:29:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50463399"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50463399",
+              "popularity": 385,
+              "engagementCount": 193
+            }
+          ]
+        },
+        {
+          "title": "Qwen4-Max",
+          "url": "https://qwen.ai/blog?id=qwen4-max",
+          "summary": "O Qwen4-Max oferece funções abrangentes como chatbot, compreensão de imagem e vídeo, criação visual, processamento de documentos, pesquisa na web, uso de ferramentas e geração de conteúdo de IA (artifacts). Desenvolvido pelo Alibaba, este grande modelo de linguagem visa atender às diversas necessidades dos usuários com suas capacidades multimodais.",
+          "meta": "277 pontos · 93 comentários",
+          "snapshot": {
+            "sourceId": "50513215",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 277,
+              "engagementCount": 93,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50513215",
+                  "popularity": 277,
+                  "engagementCount": 93
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-16T02:14:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50513215",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50513215",
+              "popularity": 277,
+              "engagementCount": 93
+            }
+          ]
+        },
+        {
+          "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+          "url": "https://bruceroettgers.eu/blog/protomaps/",
+          "summary": "O Protomaps torna a hospedagem de blocos de mapas (map tiles) em seu próprio servidor mais acessível e econômica. O formato PMTiles usado neste processo pode ser distribuído para áreas de armazenamento como um único arquivo, operando por meio de solicitações de intervalo HTTP (HTTP Range requests).",
+          "meta": "247 pontos · 51 comentários",
+          "snapshot": {
+            "sourceId": "50509837",
+            "capturedAt": "2026-11-16T05:43:42.013Z",
+            "metadata": {
+              "popularity": 247,
+              "engagementCount": 51,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50509837",
+                  "popularity": 247,
+                  "engagementCount": 51
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-15T19:26:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50509837",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "PMTiles is a tile format which works via HTTP Range requests and can be deployed as a single file to a storage bucket."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50509837",
+              "popularity": 247,
+              "engagementCount": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Comfy-Org/MiniMax-H3-Image",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+          "summary": "O Comfy-Org/MiniMax-H3-Image, compartilhado no Hugging Face, é um modelo com capacidade de criação visual baseada em texto (text-to-image). Nos processos de refinamento de prompts, recomenda-se o uso do modelo qwen3.59bw4a8gptq, que é uma ferramenta de geração de texto.",
+          "meta": "♥ 419 · 1.973.388 downloads",
+          "snapshot": {
+            "sourceId": "Comfy-Org/MiniMax-H3-Image",
+            "capturedAt": "2026-11-16T05:43:41.722Z",
+            "metadata": {
+              "popularity": 419,
+              "engagementCount": 1973388,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 377,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "text-to-image",
+                  "base_model:MiniMaxAI/MiniMax-H3-Image",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3-Image",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. For prompt enhancement, we recommend to use the model qwen3.59bw4a8gptq with the Generate Text node."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "eDIAR: Training-Free Open-Speaker Streaming Diarization for Long Meetings and Large Archives via e-means",
+          "url": "https://huggingface.co/papers/2611.18529",
+          "summary": "O eDIAR, compartilhado no Hugging Face, é um método de diarização de falantes que não requer treinamento e elimina a necessidade de determinar previamente o número de falantes em reuniões longas. O sistema pode operar online sem a limitação de slots de saída fixos, agrupando embeddings de falantes (speaker embeddings) com o algoritmo e-means.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.18529",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.18529",
+                "publishedAt": "2026-11-13T00:00:00.000Z"
+              }
+            },
+            "description": "Meetings last up to an hour, and nobody knows in advance how many people will speak. Neural diarizers with a fixed number of output slots, such as Streaming Sortformer and Nemotron-3, are accurate and run online, but they cannot name more speakers than they have slots. We remove this limit without retraining. The slot head keeps deciding who is active and when speech overlaps, and speaker embeddings are clustered inside a single slot, with the official e-means algorithm, only after every slot ha"
+          }
+        },
+        {
+          "title": "Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion",
+          "url": "https://huggingface.co/papers/2611.02822",
+          "summary": "O Disen-Forcing visa separar o movimento da ancoragem semântica para estabilizar a geração de vídeo de longa duração em modelos de difusão de vídeo autorregressivos (autoregressive video diffusion models). O método visa reduzir a perda de qualidade na geração de vídeo examinando o impacto das abordagens existentes, inspiradas nos poços de atenção (attention sinks) em grandes modelos de linguagem (LLM), na consistência de longo prazo.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.02822",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.02822",
+                "publishedAt": "2026-11-02T00:00:00.000Z"
+              }
+            },
+            "description": "Autoregressive video diffusion models (AR-VDMs) enable real-time, long-horizon video generation but degrade rapidly once the inference horizon outruns the training horizon, due to compounding exposure bias. To stabilize long rollouts, recent methods heuristically adopt frame sink, keeping initial frames as a persistent model context, inspired by attention sinks in LLMs. We revisit this design and find that the mechanism by which initial frames stabilize long-range consistency in AR-VDMs is not a"
+          }
+        },
+        {
+          "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+          "url": "https://huggingface.co/papers/2611.18549",
+          "summary": "O JVT (Just Video Transformer), compartilhado pela Hugging Face, é um modelo de inteligência artificial que facilita o processamento de dados de vídeo brutos de alta dimensão diretamente no espaço de pixels. Esta arquitetura visa simplificar os processos de difusão de vídeo (video diffusion) sem a necessidade de componentes auxiliares complexos ou codificadores pré-treinados.",
+          "meta": "5 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.18549",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.18549",
+                "publishedAt": "2026-11-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/ZhouTimeMachine/JVT",
+                "githubStars": 4
+              }
+            },
+            "description": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simple large-patch DiT-style Transformer for pixel-space video diffusion, without a pretrained autoencoder, auxiliary detailers, cascaded stages, or U-Net-style skip connections. We systematically examine video patch embeddings, register tokens, and adaptive layer normalization to identify design choice"
+          }
+        },
+        {
+          "title": "Aligning AI Teams",
+          "url": "https://huggingface.co/papers/2611.17820",
+          "summary": "O artigo Aligning AI Teams, compartilhado pela Hugging Face, examina as falhas na transferência do treinamento de alinhamento de grandes modelos de linguagem (LLM) de agentes individuais para sistemas multiagentes. A pesquisa analisa as causas dessa incompatibilidade por meio de tarefas de engenharia de software e consultoria, abordando métodos de intervenção para proteger a segurança das equipes de inteligência artificial.",
+          "meta": "2 curtidas · 0 comentários",
+          "snapshot": {
+            "sourceId": "2611.17820",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 0,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.17820",
+                "publishedAt": "2026-11-13T00:00:00.000Z"
+              }
+            },
+            "description": "Previous work has shown that alignment training on individual LLM agents can fail to transfer to multi-agent settings. We investigate the underlying mechanisms for this failure, and explore interventions to preserve alignment transfer to multi-agent LLM teams. We focus on two software-engineering tasks (sepsis triage, a news recommender) and ten consulting-proposal generation tasks. We present four findings: (1) The single-vs-team safety gap does not show a clear trend with more capable models. "
+          }
+        },
+        {
+          "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+          "url": "https://huggingface.co/papers/2611.18397",
+          "summary": "Gamer é uma estrutura de agente de inteligência artificial de propósito geral projetada para realizar tarefas de longo prazo em ambientes interativos complexos. Sua arquitetura, que combina percepção, gerenciamento de memória e capacidades de raciocínio de várias etapas, suporta a interação tanto com interfaces gráficas bidimensionais quanto com mundos de simulação tridimensionais.",
+          "meta": "20 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2611.18397",
+            "capturedAt": "2026-11-16T05:43:41.727Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.18397",
+                "publishedAt": "2026-11-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/RainBowLuoCS/Gamer",
+                "githubStars": 124
+              }
+            },
+            "description": "We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces and complex 3D simulated worlds. We first continue pre-training on a dataset constructed from tens of thousands of hours of device-level keyboard and mouse interaction. These trajec"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agent skills",
+      "explanation": "Conjunto de capacidades especializadas que os agentes de inteligência artificial possuem para realizar tarefas específicas."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerenciar programas inserindo comandos escritos em vez de usar o mouse."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com uma quantidade enorme de dados, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "red-team",
+      "explanation": "Trabalhos de teste que imitam os métodos de atacantes mal-intencionados para encontrar vulnerabilidades de segurança em um sistema."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacidades funcionais adquiridas por agentes de inteligência artificial para que possam realizar operações em uma área específica."
+    },
+    {
+      "term": "framework",
+      "explanation": "Um conjunto de estruturas e regras prontas que formam a base e facilitam o trabalho no processo de desenvolvimento de software."
+    },
+    {
+      "term": "pulse-width modulation",
+      "explanation": "Um método usado para controlar valores como o brilho da tela, alterando a duração dos sinais digitais."
+    },
+    {
+      "term": "ECU",
+      "explanation": "Unidade de controle eletrônico que gerencia o funcionamento do motor e de outros sistemas em veículos."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "O processo de desmontar um produto pronto para entender como ele funciona, examinando sua estrutura para decifrar seu princípio de operação."
+    }
+  ]
+}
