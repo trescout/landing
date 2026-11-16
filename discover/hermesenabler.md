@@ -2,11 +2,12 @@
 
 pookjw/HermesEnabler, Hermès saat kadranlarını (watch faces) desteklenen watchOS sürümlerine sahip tüm Apple Watch cihazlarında kullanılabilir hale getiren bir yazılımdır. macOS üzerinde Xcode ile derlenebilen veya Sideloadly gibi uygulama yükleme araçlarıyla kurulabilen bu araç, iPhone ile eşleşmiş bir Apple Watch gerektirir.
 
-- ★ 1.617
+- ★ 2.025
 - GitHub Trending · 2026-11-13
 
 ## Güncelleme
 
+- **16 Kasım 2026:** Yıldız 1.617 → 2.025, son sürüm 1.6.2 (16 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 1.613 → 1.617, son sürüm 1.5.4 (13 Kasım 2026).
 
 ## Ne kazandırır?

@@ -7839,7 +7839,7 @@
     "slug": "last30days-skill",
     "title": "Last30days Skill",
     "tagline": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri…",
-    "meta": "★ 67.804 · Python",
+    "meta": "★ 67.818 · Python",
     "image": "/assets/discover/og/last30days-skill.webp",
     "source": "GitHub",
     "date": "2026-06-05",
@@ -7847,7 +7847,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 67804,
+    "stars": 67818,
     "lite": false,
     "headline": "Son 30 günün yapay zekâ destekli özeti",
     "last_review": "2026-11-16",
@@ -8004,6 +8004,13 @@
         "yildiz": 67804,
         "onceki_yildiz": 67580,
         "surum": "v4.1.0",
+        "surum_tarihi": "2026-11-16"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 67818,
+        "onceki_yildiz": 67804,
+        "surum": "v4.2.0",
         "surum_tarihi": "2026-11-16"
       }
     ],
@@ -11367,7 +11374,7 @@
     "slug": "skillspector",
     "title": "SkillSpector",
     "tagline": "NVIDIA tarafından geliştirilen SkillSpector, yapay zekâ ajanlarına ait yetenek paketlerindeki (skills) güvenlik açıklarını ve…",
-    "meta": "★ 25.734 · Python",
+    "meta": "★ 26.321 · Python",
     "image": "/assets/discover/og/skillspector.webp",
     "source": "GitHub",
     "date": "2026-06-12",
@@ -11375,7 +11382,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 25734,
+    "stars": 26321,
     "lite": false,
     "headline": "Yapay zekâ yeteneklerini güvenli kılın",
     "last_review": "2026-11-16",
@@ -11533,6 +11540,13 @@
         "onceki_yildiz": 24403,
         "surum": "v2.13.4",
         "surum_tarihi": "2026-11-04"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 26321,
+        "onceki_yildiz": 25734,
+        "surum": "v2.13.5",
+        "surum_tarihi": "2026-11-16"
       }
     ],
     "tagline_en": "Developed by NVIDIA, SkillSpector detects vulnerabilities and vulnerabilities in the skill packages of artificial intelligence agents.",
@@ -11894,14 +11908,14 @@
     "slug": "mattermost",
     "title": "Mattermost",
     "tagline": "Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir…",
-    "meta": "★ 39.546",
+    "meta": "★ 39.624",
     "image": "/assets/discover/og/mattermost.webp",
     "source": "GitHub",
     "date": "2026-06-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 39546,
+    "stars": 39624,
     "lite": false,
     "headline": "Ekip içi güvenli iş birliği platformu",
     "cmds": {
@@ -11998,6 +12012,13 @@
         "onceki_yildiz": 39534,
         "surum": "v12.0.2",
         "surum_tarihi": "2026-11-04"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 39624,
+        "onceki_yildiz": 39546,
+        "surum": "v12.1.0",
+        "surum_tarihi": "2026-11-05"
       }
     ],
     "tagline_en": "Mattermost is an open source software designed to enable secure collaboration throughout the software development lifecycle.",
@@ -24280,7 +24301,7 @@
     "slug": "claude-skills",
     "title": "Claude Skills",
     "tagline": "Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda…",
-    "meta": "★ 29.615 · Python",
+    "meta": "★ 29.874 · Python",
     "image": "/assets/discover/og/claude-skills.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -24288,7 +24309,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 29615,
+    "stars": 29874,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına uzmanlık kazandırın",
     "last_review": "2026-11-16",
@@ -24418,6 +24439,13 @@
         "onceki_yildiz": 29560,
         "surum": "v2.14.11",
         "surum_tarihi": "2026-11-11"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 29874,
+        "onceki_yildiz": 29615,
+        "surum": "v2.14.12",
+        "surum_tarihi": "2026-11-16"
       }
     ],
     "tagline_en": "This library, developed for Claude Code and various coding agents, is used in different fields from engineering to marketing.",
@@ -34017,7 +34045,7 @@
     "slug": "ego-lite",
     "title": "Ego Lite",
     "tagline": "Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır.",
-    "meta": "★ 22.810 · JavaScript",
+    "meta": "★ 23.060 · JavaScript",
     "image": "/assets/discover/og/ego-lite.webp",
     "source": "GitHub",
     "date": "2026-07-24",
@@ -34025,7 +34053,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 22810,
+    "stars": 23060,
     "lite": false,
     "headline": "Yapay zekâ ajanları için eş zamanlı tarayıcı",
     "last_review": "2026-11-16",
@@ -34134,6 +34162,13 @@
         "onceki_yildiz": 21695,
         "surum": "v2.2.0",
         "surum_tarihi": "2026-11-05"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 23060,
+        "onceki_yildiz": 22810,
+        "surum": "v2.2.1",
+        "surum_tarihi": "2026-11-16"
       }
     ],
     "tagline_en": "Ego-lite is a browser that allows users and artificial intelligence agents to work simultaneously.",
@@ -57054,7 +57089,7 @@
     "slug": "univer",
     "title": "Univer",
     "tagline": "Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı…",
-    "meta": "★ 26.527",
+    "meta": "★ 26.778",
     "image": "/assets/discover/og/univer.webp",
     "source": "GitHub",
     "date": "2026-09-23",
@@ -57062,7 +57097,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 26527,
+    "stars": 26778,
     "summary": "Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı bir platformdur. Yapay zekâ ajanlarının (AI agents) ofis yazılımlarıyla etkileşimini kolaylaştırmak için tasarlanmış modüler bir yapı sunar.",
     "lite": false,
     "headline": "Açık kaynaklı ofis araçları seti",
@@ -57155,6 +57190,13 @@
         "onceki_yildiz": 25043,
         "surum": "v1.5.0",
         "surum_tarihi": "2026-11-14"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 26778,
+        "onceki_yildiz": 26527,
+        "surum": "v1.5.1",
+        "surum_tarihi": "2026-11-16"
       }
     ],
     "last_review": "2026-11-16",
@@ -62499,14 +62541,14 @@
     "slug": "ziwei-doushu",
     "title": "Ziwei Doushu",
     "tagline": "Renhuai123/ziwei-doushu, Ni Haixia'nın Tianji sistemini temel alan ve Ziwei Doushu astrolojik haritalarını hesaplayan açık…",
-    "meta": "★ 17.389 · TypeScript",
+    "meta": "★ 18.415 · TypeScript",
     "image": "/assets/discover/og/ziwei-doushu.webp",
     "source": "GitHub",
     "date": "2026-10-24",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 17389,
+    "stars": 18415,
     "last_seen": "2026-11-02",
     "summary": "Renhuai123/ziwei-doushu, Ni Haixia'nın Tianji sistemini temel alan ve Ziwei Doushu astrolojik haritalarını hesaplayan açık kaynaklı bir TypeScript motorudur. Proje, 1950 ile 2026 yılları arasındaki tarihleri kapsayan 13 boyutlu geniş bir astrolojik yorum veri kümesini (v4.0) kullanıma sunuyor.",
     "lite": false,
@@ -62580,6 +62622,13 @@
         "tarih": "2026-11-10",
         "yildiz": 17389,
         "onceki_yildiz": 16314,
+        "surum": "v4.0-13d",
+        "surum_tarihi": "2026-10-15"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 18415,
+        "onceki_yildiz": 17389,
         "surum": "v4.0-13d",
         "surum_tarihi": "2026-10-15"
       }
@@ -63430,7 +63479,7 @@
     "slug": "claude-code-game-studios",
     "title": "Claude-Code-Game-Studios",
     "tagline": "Claude-Code-Game-Studios, Claude Code yazılım geliştirme aracını kapsamlı bir oyun stüdyosuna dönüştürmeyi amaçlayan bir proje.",
-    "meta": "★ 37.771 · Shell",
+    "meta": "★ 39.674 · Shell",
     "image": "/assets/discover/og/claude-code-game-studios.webp",
     "source": "GitHub",
     "date": "2026-10-30",
@@ -63438,7 +63487,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37771,
+    "stars": 39674,
     "last_seen": "2026-11-04",
     "summary": "Claude-Code-Game-Studios, Claude Code yazılım geliştirme aracını kapsamlı bir oyun stüdyosuna dönüştürmeyi amaçlayan bir proje. 49 adet yapay zekâ ajanı ve 72 iş akışı yeteneği (workflow skills) kullanarak gerçek bir stüdyo hiyerarşisini taklit eden bir koordinasyon sistemi sunuyor.",
     "lite": false,
@@ -63477,6 +63526,13 @@
         "tarih": "2026-11-10",
         "yildiz": 37771,
         "onceki_yildiz": 35525,
+        "surum": "v1.3.0",
+        "surum_tarihi": "2026-11-09"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 39674,
+        "onceki_yildiz": 37771,
         "surum": "v1.3.0",
         "surum_tarihi": "2026-11-09"
       }
@@ -64091,7 +64147,7 @@
     "slug": "ai-goofish-monitor",
     "title": "AI Goofish Monitor",
     "tagline": "Usagi-org/ai-goofish-monitor, tarayıcı otomasyon aracı Playwright ve yapay zekâ kullanarak ikinci el alışveriş platformu…",
-    "meta": "★ 19.024 · Python",
+    "meta": "★ 20.032 · Python",
     "image": "/assets/discover/og/ai-goofish-monitor.webp",
     "source": "GitHub",
     "date": "2026-11-04",
@@ -64099,7 +64155,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 19024,
+    "stars": 20032,
     "last_seen": "2026-11-06",
     "summary": "Usagi-org/ai-goofish-monitor, tarayıcı otomasyon aracı Playwright ve yapay zekâ kullanarak ikinci el alışveriş platformu Xianyu üzerinde çoklu görev takibi ve analiz yapan bir sistemdir. Kullanıcılar, web tabanlı yönetim arayüzü sayesinde platformdaki ürünleri gerçek zamanlı veya planlanmış şekilde izleyebilir.",
     "lite": false,
@@ -64124,6 +64180,13 @@
         "tarih": "2026-11-10",
         "yildiz": 19024,
         "onceki_yildiz": 17806,
+        "surum": "2.5",
+        "surum_tarihi": "2026-10-09"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 20032,
+        "onceki_yildiz": 19024,
         "surum": "2.5",
         "surum_tarihi": "2026-10-09"
       }
@@ -65291,14 +65354,14 @@
     "slug": "hermesenabler",
     "title": "HermesEnabler",
     "tagline": "pookjw/HermesEnabler, Hermès saat kadranlarını (watch faces) desteklenen watchOS sürümlerine sahip tüm Apple Watch…",
-    "meta": "★ 1.617",
+    "meta": "★ 2.025",
     "image": "/assets/discover/og/hermesenabler.webp",
     "source": "GitHub",
     "date": "2026-11-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1617,
+    "stars": 2025,
     "last_seen": "2026-11-13",
     "summary": "pookjw/HermesEnabler, Hermès saat kadranlarını (watch faces) desteklenen watchOS sürümlerine sahip tüm Apple Watch cihazlarında kullanılabilir hale getiren bir yazılımdır. macOS üzerinde Xcode ile derlenebilen veya Sideloadly gibi uygulama yükleme araçlarıyla kurulabilen bu araç, iPhone ile eşleşmiş bir Apple Watch gerektirir.",
     "lite": false,
@@ -65313,6 +65376,13 @@
         "onceki_yildiz": 1613,
         "surum": "1.5.4",
         "surum_tarihi": "2026-11-13"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 2025,
+        "onceki_yildiz": 1617,
+        "surum": "1.6.2",
+        "surum_tarihi": "2026-11-16"
       }
     ],
     "tagline_en": "pookjw/HermesEnabler brings Hermès watch faces to all Apple Watches with supported watchOS versions…",
@@ -65419,7 +65489,7 @@
     "slug": "plannotator",
     "title": "Plannotator",
     "tagline": "plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren…",
-    "meta": "★ 11.283 · TypeScript",
+    "meta": "★ 12.155 · TypeScript",
     "image": "/assets/discover/og/plannotator.webp",
     "source": "GitHub",
     "date": "2026-11-14",
@@ -65427,7 +65497,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 11283,
+    "stars": 12155,
     "last_seen": "2026-11-16",
     "summary": "plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren bir platformdur. TypeScript ile geliştirilen bu araç, ekiplerin ajanlarla olan etkileşimlerini yönetmelerini ve geri bildirimleri doğrudan ajanlara aktarmalarını sağlar.",
     "lite": false,
@@ -65447,6 +65517,13 @@
         "onceki_yildiz": 10535,
         "surum": "v0.28.65",
         "surum_tarihi": "2026-11-15"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 12155,
+        "onceki_yildiz": 11283,
+        "surum": "v0.28.66",
+        "surum_tarihi": "2026-11-16"
       }
     ],
     "tagline_en": "plannotator, which combines planning, code review, and feedback processes for artificial intelligence agents into a single workspace…",
@@ -65604,7 +65681,7 @@
     "slug": "loopforge",
     "title": "LoopForge",
     "tagline": "Tencent tarafından geliştirilen LoopForge, kodlama ajanlarının teslimat süreçlerini yönetmek için kullanılan kendi sunucunuzda…",
-    "meta": "★ 986 · Go",
+    "meta": "★ 2.090 · Go",
     "image": "/assets/discover/og/loopforge.webp",
     "source": "GitHub",
     "date": "2026-11-15",
@@ -65613,7 +65690,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 986,
+    "stars": 2090,
     "last_seen": "2026-11-16",
     "summary": "Tencent tarafından geliştirilen LoopForge, kodlama ajanlarının teslimat süreçlerini yönetmek için kullanılan kendi sunucunuzda barındırabileceğiniz (self-hosted) bir iş akışı aracıdır. CodeBuddy, Codex ve Claude Code gibi yazılımları betikler ve insan onay mekanizmalarıyla düzenleyerek yerel kodlama asistanı süreçlerini destekler.",
     "lite": false,
@@ -65624,6 +65701,13 @@
         "tarih": "2026-11-15",
         "yildiz": 986,
         "onceki_yildiz": 983,
+        "surum": "v0.3.8",
+        "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-16",
+        "yildiz": 2090,
+        "onceki_yildiz": 986,
         "surum": "v0.3.8",
         "surum_tarihi": "2026-11-12"
       }

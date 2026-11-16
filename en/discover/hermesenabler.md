@@ -2,11 +2,12 @@
 
 pookjw/HermesEnabler is a software that makes Hermès watch faces available on all Apple Watch devices with supported watchOS versions. This tool, which can be compiled with Xcode on macOS or installed using app sideloading tools like Sideloadly, requires an Apple Watch paired with an iPhone.
 
-- ★ 1,617
+- ★ 2,025
 - GitHub Trending · 2026-11-13
 
 ## Updates
 
+- **November 16, 2026:** Stars 1,617 → 2,025, latest release 1.6.2 (November 16, 2026).
 - **November 13, 2026:** Stars 1,613 → 1,617, latest release 1.5.4 (November 13, 2026).
 
 ## What you get

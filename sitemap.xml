@@ -3745,6 +3745,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/red-team/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/red-teaming/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -5270,7 +5276,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/ai-goofish-monitor/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5798,7 +5804,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/claude-code-game-studios/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5876,7 +5882,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/claude-skills/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6356,7 +6362,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/ego-lite/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6860,7 +6866,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/hermesenabler/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7316,7 +7322,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/loopforge/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7424,7 +7430,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/mattermost/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8156,7 +8162,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/plannotator/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8558,7 +8564,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/skillspector/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9338,7 +9344,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/ziwei-doushu/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -14107,6 +14113,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/dictionary/red-team/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/dictionary/red-teaming/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -15632,7 +15644,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/ai-goofish-monitor/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16160,7 +16172,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/claude-code-game-studios/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16238,7 +16250,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/claude-skills/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16718,7 +16730,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/ego-lite/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17222,7 +17234,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/hermesenabler/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17678,7 +17690,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/loopforge/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17786,7 +17798,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/mattermost/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18518,7 +18530,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/plannotator/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18920,7 +18932,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/skillspector/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -19700,7 +19712,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/ziwei-doushu/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24373,6 +24385,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/dictionary/red-team/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/dictionary/red-teaming/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -25898,7 +25916,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/ai-goofish-monitor/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26426,7 +26444,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/claude-code-game-studios/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26504,7 +26522,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/claude-skills/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26984,7 +27002,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/ego-lite/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27488,7 +27506,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/hermesenabler/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27944,7 +27962,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/loopforge/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28052,7 +28070,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/mattermost/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28784,7 +28802,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/plannotator/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -29186,7 +29204,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/skillspector/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -29966,7 +29984,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/ziwei-doushu/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -34639,6 +34657,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/red-team/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/red-teaming/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -36164,7 +36188,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/ai-goofish-monitor/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -36692,7 +36716,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/claude-code-game-studios/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -36770,7 +36794,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/claude-skills/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -37250,7 +37274,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/ego-lite/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -37754,7 +37778,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/hermesenabler/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38210,7 +38234,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/loopforge/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38318,7 +38342,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/mattermost/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -39050,7 +39074,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/plannotator/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -39452,7 +39476,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/skillspector/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -40232,7 +40256,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/ziwei-doushu/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -44905,6 +44929,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/dictionary/red-team/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/fr/dictionary/red-teaming/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -46430,7 +46460,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/ai-goofish-monitor/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -46958,7 +46988,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/claude-code-game-studios/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -47036,7 +47066,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/claude-skills/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -47516,7 +47546,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/ego-lite/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48020,7 +48050,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/hermesenabler/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48476,7 +48506,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/loopforge/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48584,7 +48614,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/mattermost/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49316,7 +49346,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/plannotator/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49718,7 +49748,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/skillspector/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -50498,7 +50528,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/ziwei-doushu/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -55171,6 +55201,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/red-team/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/red-teaming/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -56696,7 +56732,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/ai-goofish-monitor/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -57224,7 +57260,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/claude-code-game-studios/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -57302,7 +57338,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/claude-skills/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -57782,7 +57818,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/ego-lite/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -58286,7 +58322,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/hermesenabler/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -58742,7 +58778,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/loopforge/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -58850,7 +58886,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/mattermost/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -59582,7 +59618,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/plannotator/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -59984,7 +60020,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/skillspector/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -60764,7 +60800,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/ziwei-doushu/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

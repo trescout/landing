@@ -10827,5 +10827,18 @@
     "kisa_es": "Es la unidad de control que gestiona el motor y otros sistemas electrónicos procesando los datos de los sensores en los vehículos.",
     "kisa_pt": "É a unidade de controle que gerencia o motor e outros sistemas eletrônicos processando os dados dos sensores nos veículos.",
     "kisa_de": "Es ist die Steuereinheit, die den Motor und andere elektronische Systeme verwaltet, indem sie Sensordaten in Fahrzeugen verarbeitet."
+  },
+  {
+    "slug": "red-team",
+    "en": "Red Team",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir sistemin güvenlik zafiyetlerini tespit etmek amacıyla gerçek saldırgan tekniklerini taklit eden uzman güvenlik ekibidir.",
+    "date": "2026-11-16",
+    "kisa_en": "It is an expert security team that simulates real attacker techniques in order to identify the security vulnerabilities of a system.",
+    "kisa_fr": "C'est une équipe de sécurité experte qui imite les techniques des vrais attaquants afin de détecter les vulnérabilités de sécurité d'un système.",
+    "kisa_es": "Es un equipo de seguridad experto que imita las técnicas de atacantes reales para detectar las vulnerabilidades de seguridad de un sistema.",
+    "kisa_pt": "É uma equipe de especialistas em segurança que simula técnicas de atacantes reais a fim de identificar vulnerabilidades de segurança de um sistema.",
+    "kisa_de": "Ein spezialisiertes Sicherheitsteam, das reale Angreifertechniken nachahmt, um Sicherheitslücken eines Systems zu identifizieren."
   }
 ]

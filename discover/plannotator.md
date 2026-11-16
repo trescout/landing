@@ -2,12 +2,13 @@
 
 plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren bir platformdur. TypeScript ile geliştirilen bu araç, ekiplerin ajanlarla olan etkileşimlerini yönetmelerini ve geri bildirimleri doğrudan ajanlara aktarmalarını sağlar.
 
-- ★ 11.283
+- ★ 12.155
 - TypeScript
 - GitHub Trending · 2026-11-14
 
 ## Güncelleme
 
+- **16 Kasım 2026:** Yıldız 11.283 → 12.155, son sürüm v0.28.66 (16 Kasım 2026).
 - **15 Kasım 2026:** Yıldız 10.535 → 11.283, son sürüm v0.28.65 (15 Kasım 2026).
 - **14 Kasım 2026:** Yıldız 10.533 → 10.535, son sürüm v0.28.64 (13 Kasım 2026).
 
