@@ -1,0 +1,899 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-17",
+  "capturedAt": "2026-11-17T05:15:50.716Z",
+  "editorial": "Hoy destacan las nuevas arquitecturas que aumentan la eficiencia de inferencia de los modelos de inteligencia artificial y las herramientas de generación visual de código abierto. Por otro lado, los cursos gratuitos de informática compartidos por la Universidad Carnegie Mellon destacan como el desarrollo más notable del día en cuanto al acceso a recursos educativos.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "summary": "AG-UI es un protocolo de comunicación ligero y de código abierto desarrollado para integrar agentes de inteligencia artificial en interfaces de usuario. Gracias a su estructura basada en eventos, tiene como objetivo estandarizar la interacción entre los agentes y las interfaces de las aplicaciones.",
+          "meta": "TypeScript · ★ 19.307 · +791 hoy",
+          "snapshot": {
+            "sourceId": "ag-ui-protocol/ag-ui",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 19307,
+              "engagementCount": 791,
+              "rank": 1,
+              "extra": {
+                "starsToday": 791,
+                "baglam": "readme"
+              }
+            },
+            "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications."
+          }
+        },
+        {
+          "title": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "summary": "Desarrollado con TypeScript, plannotator combina procesos de planificación, revisión de código y retroalimentación para agentes de inteligencia artificial en un único espacio de trabajo. Permite a los usuarios organizar sus flujos de trabajo con agentes y compartirlos dentro del equipo.",
+          "meta": "TypeScript · ★ 12.711 · +696 hoy",
+          "snapshot": {
+            "sourceId": "backnotprop/plannotator",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12711,
+              "engagementCount": 696,
+              "rank": 2,
+              "extra": {
+                "starsToday": 696
+              }
+            },
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer es un kit de desarrollo de software (SDK) de oficina de código abierto que permite a los desarrolladores añadir funciones de edición, cálculo y colaboración a sus propios productos. Esta herramienta permite crear un entorno de oficina personalizable tanto para humanos como para agentes de inteligencia artificial.",
+          "meta": "TypeScript · ★ 27.950 · +1.828 hoy",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 27950,
+              "engagementCount": 1828,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1828
+              }
+            },
+            "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
+          }
+        },
+        {
+          "title": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "summary": "tradermonty/claude-trading-skills es un paquete de habilidades (skills) para Claude Code que ofrece herramientas de análisis de mercado, gráficos técnicos y desarrollo de estrategias para inversores y operadores bursátiles. Este proyecto, preparado con el lenguaje Python, tiene como objetivo automatizar flujos de trabajo financieros como calendarios económicos y escáneres (screeners) con inteligencia artificial.",
+          "meta": "Python · ★ 6.481 · +837 hoy",
+          "snapshot": {
+            "sourceId": "tradermonty/claude-trading-skills",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6481,
+              "engagementCount": 837,
+              "rank": 4,
+              "extra": {
+                "starsToday": 837
+              }
+            },
+            "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+          }
+        },
+        {
+          "title": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "summary": "elementalsouls/Claude-BugHunter es un paquete de habilidades para Claude Code desarrollado para la búsqueda de errores (bug hunting) y trabajos de red-team externo. Escrita en Python, esta herramienta ofrece 82 habilidades que cubren 24 clases diferentes de vulnerabilidades de seguridad, 15 comandos de barra diagonal (slash command) y cientos de patrones de informes.",
+          "meta": "Python · ★ 7.637 · +1.094 hoy",
+          "snapshot": {
+            "sourceId": "elementalsouls/Claude-BugHunter",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 7637,
+              "engagementCount": 1094,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1094
+              }
+            },
+            "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+          }
+        },
+        {
+          "title": "getarcaneapp/arcane",
+          "url": "https://github.com/getarcaneapp/arcane",
+          "summary": "Desarrollado con el lenguaje Go, Arcane ofrece una interfaz moderna diseñada para gestionar contenedores Docker. Esta herramienta, dirigida a usuarios de todos los niveles, tiene como objetivo simplificar los procesos de gestión de Docker.",
+          "meta": "Go · ★ 8.868 · +46 hoy",
+          "snapshot": {
+            "sourceId": "getarcaneapp/arcane",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 8868,
+              "engagementCount": 46,
+              "rank": 6,
+              "extra": {
+                "starsToday": 46,
+                "baglam": "readme"
+              }
+            },
+            "description": "Modern Docker Management, Designed for Everyone. For setup instructions, configuration details, and development guides, visit the official documentation site."
+          }
+        },
+        {
+          "title": "DeanChensj/jiangshan-map",
+          "url": "https://github.com/DeanChensj/jiangshan-map",
+          "summary": "DeanChensj/jiangshan-map es una aplicación de atlas histórico interactivo y línea de tiempo que examina la historia de China a través de 18 dinastías. Desarrollado con JavaScript, este proyecto presenta el desarrollo de asentamientos desde la antigüedad hasta la actualidad y las rutas de poesía clásica en un mapa con 198 imágenes regionales diferentes.",
+          "meta": "JavaScript · ★ 7.113 · +288 hoy",
+          "snapshot": {
+            "sourceId": "DeanChensj/jiangshan-map",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 7113,
+              "engagementCount": 288,
+              "rank": 7,
+              "extra": {
+                "starsToday": 288
+              }
+            },
+            "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes"
+          }
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "stitch-skills, compartido por Google, es una biblioteca de habilidades de agente (agent skills) diseñada para funcionar de forma compatible con el servidor Stitch MCP. Esta biblioteca sigue estándares abiertos para garantizar la compatibilidad con software como Antigravity, Gemini CLI, Claude Code y la herramienta de edición de código Cursor.",
+          "meta": "TypeScript · ★ 9.805 · +529 hoy",
+          "snapshot": {
+            "sourceId": "google-labs-code/stitch-skills",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 9805,
+              "engagementCount": 529,
+              "rank": 8,
+              "extra": {
+                "starsToday": 529
+              }
+            },
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+          }
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "mvanhorn/last30days-skill ofrece una habilidad (skill) de inteligencia artificial que crea resúmenes sobre temas actuales investigando en Reddit, X, YouTube, Hacker News, Polymarket y toda la web. Desarrollada en Python, esta herramienta tiene como objetivo sintetizar datos de diferentes plataformas para ofrecer al usuario un resumen fundamentado.",
+          "meta": "Python · ★ 68.288 · +135 hoy",
+          "snapshot": {
+            "sourceId": "mvanhorn/last30days-skill",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 68288,
+              "engagementCount": 135,
+              "rank": 9,
+              "extra": {
+                "starsToday": 135
+              }
+            },
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "title": "NVIDIA/SkillEvaluator",
+          "url": "https://github.com/NVIDIA/SkillEvaluator",
+          "summary": "SkillEvaluator, desarrollado por NVIDIA, ofrece un marco multicapa para evaluar las habilidades y complementos de los agentes de inteligencia artificial. La herramienta tiene como objetivo auditar la calidad de las habilidades con funciones como la detección de conflictos semánticos, la creación de conjuntos de datos sintéticos y la medición del comportamiento de los agentes.",
+          "meta": "Python · ★ 2.904 · +873 hoy",
+          "snapshot": {
+            "sourceId": "NVIDIA/SkillEvaluator",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2904,
+              "engagementCount": 873,
+              "rank": 10,
+              "extra": {
+                "starsToday": 873
+              }
+            },
+            "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "open-code-review, desarrollado por Alibaba, ofrece una arquitectura híbrida que combina tuberías (pipelines) deterministas y modelos de lenguaje grandes (LLM) para automatizar los procesos de revisión de código. La herramienta, que utiliza conjuntos de reglas multilingües para detectar errores de software, proporciona a los desarrolladores una experiencia de revisión segura y eficiente al realizar comentarios a nivel de línea.",
+          "meta": "Go · ★ 53.102 · +951 hoy",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 53102,
+              "engagementCount": 951,
+              "rank": 11,
+              "extra": {
+                "starsToday": 951
+              }
+            },
+            "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+          }
+        },
+        {
+          "title": "google-research/paper-orchestra",
+          "url": "https://github.com/google-research/paper-orchestra",
+          "summary": "PaperOrchestra, desarrollado por Google Research, es un marco multi-agente (multi-agent framework) que convierte ideas crudas y diarios de experimentos en borradores de LaTeX en formato académico. El software apoya la redacción de artículos de investigación automatizando los procesos de revisión bibliográfica y generación de imágenes.",
+          "meta": "Python · ★ 1.732 · +313 hoy",
+          "snapshot": {
+            "sourceId": "google-research/paper-orchestra",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1732,
+              "engagementCount": 313,
+              "rank": 12,
+              "extra": {
+                "starsToday": 313,
+                "baglam": "readme"
+              }
+            },
+            "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing. PaperOrchestra is a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials (ideas and experimental logs) into submission-ready LaTeX manuscripts, including comprehensive literature synthesis and generated visuals, such as plots and conceptual diagrams."
+          }
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "ChromeDevTools/chrome-devtools-mcp permite que los agentes de codificación (como Antigravity, Claude, Cursor o Copilot) supervisen y controlen un navegador Chrome en vivo. Presentado como un servidor del Protocolo de Contexto de Modelo (Model Context Protocol) y una interfaz de línea de comandos (CLI), esta herramienta proporciona a los asistentes de inteligencia artificial acceso a las Herramientas para desarrolladores de Chrome (Chrome DevTools) para automatización, depuración y análisis de rendimiento.",
+          "meta": "TypeScript · ★ 57.785 · +841 hoy",
+          "snapshot": {
+            "sourceId": "ChromeDevTools/chrome-devtools-mcp",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 57785,
+              "engagementCount": 841,
+              "rank": 13,
+              "extra": {
+                "starsToday": 841,
+                "baglam": "readme"
+              }
+            },
+            "description": "Chrome DevTools for coding agents. Chrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a CLI. Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis."
+          }
+        },
+        {
+          "title": "sveltejs/svelte",
+          "url": "https://github.com/sveltejs/svelte",
+          "summary": "Svelte es una herramienta de desarrollo web que compila componentes declarativos en código JavaScript eficiente que realiza actualizaciones quirúrgicas en el DOM. A diferencia de los marcos tradicionales, ofrece un enfoque de compilador que reduce la carga de tiempo de ejecución (runtime) en el navegador.",
+          "meta": "JavaScript · ★ 89.066 · +115 hoy",
+          "snapshot": {
+            "sourceId": "sveltejs/svelte",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 89066,
+              "engagementCount": 115,
+              "rank": 14,
+              "extra": {
+                "starsToday": 115,
+                "baglam": "readme"
+              }
+            },
+            "description": "web development for the rest of us. Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM."
+          }
+        },
+        {
+          "title": "kajisho5/ffmpeg-skill",
+          "url": "https://github.com/kajisho5/ffmpeg-skill",
+          "summary": "kajisho5/ffmpeg-skill es un proyecto de Python que ofrece herramientas locales de edición de video para agentes de codificación (coding agents). Al trabajar integrado con herramientas de desarrollo de software como Claude Code, Cursor y Codex, esta estructura pone a disposición 42 herramientas diferentes de FFmpeg a través de un contrato legible por máquina y un servidor MCP, sin necesidad de una API basada en la nube (un puente digital que permite que dos programas diferentes se comuniquen entre sí).",
+          "meta": "Python · ★ 7.057 · +367 hoy",
+          "snapshot": {
+            "sourceId": "kajisho5/ffmpeg-skill",
+            "capturedAt": "2026-11-17T05:15:52.019Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 7057,
+              "engagementCount": 367,
+              "rank": 15,
+              "extra": {
+                "starsToday": 367
+              }
+            },
+            "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "url": "https://www.cs.cmu.edu/learn/",
+          "summary": "La Universidad Carnegie Mellon ha puesto a disposición de forma gratuita a través de YouTube los contenidos de los cursos dentro de la Escuela de Ciencias de la Computación Kenneth C. Griffin. Actualmente, la plataforma cuenta con lecciones en video y se planea agregar materiales educativos a su propio ritmo en el futuro.",
+          "meta": "1.028 puntos · 158 comentarios",
+          "snapshot": {
+            "sourceId": "50522980",
+            "capturedAt": "2026-11-17T05:15:51.190Z",
+            "metadata": {
+              "popularity": 1028,
+              "engagementCount": 158,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50522980",
+                  "popularity": 1028,
+                  "engagementCount": 158
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-16T20:43:36Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50522980",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Free lectures from Carnegie Mellon's Kenneth C. Griffin School of Computer Science, now on YouTube. Self-paced courseware comes next."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50522980",
+              "popularity": 1028,
+              "engagementCount": 158
+            }
+          ]
+        },
+        {
+          "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+          "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+          "summary": "Un problema técnico en JPMorgan Chase provocó retrasos en las transacciones bancarias en línea en varios bancos de los Estados Unidos. Dicha falla causó interrupciones en el acceso de los clientes a sus cuentas y en los procesos de transacción.",
+          "meta": "740 puntos · 620 comentarios",
+          "snapshot": {
+            "sourceId": "50521045",
+            "capturedAt": "2026-11-17T05:15:51.190Z",
+            "metadata": {
+              "popularity": 740,
+              "engagementCount": 620,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50521045",
+                  "popularity": 740,
+                  "engagementCount": 620
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-16T18:31:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50521045"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50521045",
+              "popularity": 740,
+              "engagementCount": 620
+            }
+          ]
+        },
+        {
+          "title": "BugMeNot has closed",
+          "url": "https://www.bugmenot.com/",
+          "summary": "El servicio BugMeNot, que listaba nombres de usuario y contraseñas compartidos para iniciar sesión en sitios web, ha finalizado sus operaciones. La plataforma ofrecía un método que permitía a los usuarios acceder a sitios que requerían membresía sin proporcionar su información personal.",
+          "meta": "417 puntos · 200 comentarios",
+          "snapshot": {
+            "sourceId": "50523601",
+            "capturedAt": "2026-11-17T05:15:51.190Z",
+            "metadata": {
+              "popularity": 417,
+              "engagementCount": 200,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50523601",
+                  "popularity": 417,
+                  "engagementCount": 200
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-16T21:32:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50523601"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50523601",
+              "popularity": 417,
+              "engagementCount": 200
+            }
+          ]
+        },
+        {
+          "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+          "summary": "Se ha detectado que el sistema operativo Windows 11 recopila datos sobre el uso de herramientas de desarrollo y agentes de codificación a través del componente MissionControlAggregator. Los trabajos de ingeniería inversa realizados en los informes de diagnóstico muestran que el sistema registra datos de telemetría relacionados con el uso de este software.",
+          "meta": "390 puntos · 246 comentarios",
+          "snapshot": {
+            "sourceId": "50524736",
+            "capturedAt": "2026-11-17T05:15:51.190Z",
+            "metadata": {
+              "popularity": 390,
+              "engagementCount": 246,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50524736",
+                  "popularity": 390,
+                  "engagementCount": 246
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-16T22:58:20Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50524736",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Reverse engineering Windows 11's MissionControlAggregator reveals coding-agent and developer-tool usage bits in a diagnostic ETW report."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50524736",
+              "popularity": 390,
+              "engagementCount": 246
+            }
+          ]
+        },
+        {
+          "title": "Frame – 31.5\" color ePaper display",
+          "url": "https://trmnl.com/blog/introducing-frame",
+          "summary": "Frame es una pantalla de papel electrónico (ePaper) a color de 31,5 pulgadas con un cuerpo de madera. Este dispositivo, que llama la atención por su diseño hecho a mano, utiliza una tecnología de pantalla a color que ofrece un amplio campo visual.",
+          "meta": "347 puntos · 244 comentarios",
+          "snapshot": {
+            "sourceId": "50519354",
+            "capturedAt": "2026-11-17T05:15:51.190Z",
+            "metadata": {
+              "popularity": 347,
+              "engagementCount": 244,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50519354",
+                  "popularity": 347,
+                  "engagementCount": 244
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-16T16:23:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50519354",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Hand made wooden body, full color 31.5\" display."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50519354",
+              "popularity": 347,
+              "engagementCount": 244
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "summary": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic, compartido en Hugging Face, es un modelo de inteligencia artificial que realiza generación de texto (text generation). Los usuarios también pueden explorar la versión xtools-at/Qwen3.5-9B-DeepThought-STEM, que está basada en este modelo y ha sido ajustada (fine-tuning) para centrarse en temas científicos.",
+          "meta": "♥ 9.180 · 29.567 descargas",
+          "snapshot": {
+            "sourceId": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+            "capturedAt": "2026-11-17T05:15:50.764Z",
+            "metadata": {
+              "popularity": 9180,
+              "engagementCount": 29567,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3016.2999999999997,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "text-generation-inference",
+                  "unsloth",
+                  "reasoning",
+                  "distillation",
+                  "deepseek",
+                  "sft",
+                  "rl",
+                  "gspo",
+                  "mtp",
+                  "math",
+                  "stem",
+                  "tool-use",
+                  "function-calling",
+                  "heretic",
+                  "uncensored",
+                  "decensored",
+                  "abliterated",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "ko",
+                  "ja",
+                  "es",
+                  "ru",
+                  "base_model:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "base_model:finetune:Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-generation model. Also check out DeepThought, my science finetune based on this model: xtools-at/Qwen3.5-9B-DeepThought-STEM"
+          }
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3-Image",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+          "summary": "MiniMax-H3-Image, ofrecido por MiniMaxAI, es un modelo de inteligencia artificial con capacidad de generación de imágenes a partir de texto (text-to-image). El software ofrece documentación de API, que son puentes digitales que permiten que dos programas diferentes se comuniquen entre sí, para procesos de edición de imágenes y expansión de prompts (prompt expansion).",
+          "meta": "♥ 1.336 · 609.130 descargas",
+          "snapshot": {
+            "sourceId": "MiniMaxAI/MiniMax-H3-Image",
+            "capturedAt": "2026-11-17T05:15:50.764Z",
+            "metadata": {
+              "popularity": 1336,
+              "engagementCount": 609130,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1160,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "minimax-h3",
+                  "diffusers",
+                  "safetensors",
+                  "text-to-image",
+                  "image-to-image",
+                  "image-editing",
+                  "image-generation",
+                  "en",
+                  "base_model:MiniMaxAI/MiniMax-H3",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. API docs: - Text-to-image: EN-docs, CN-docs - Image editing: EN-docs, CN-docs - Prompt expansion: EN-docs, CN-docs"
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen/Qwen3.8-27B, publicado en Hugging Face, es un modelo de inteligencia artificial que procesa entradas visuales y de texto para producir salidas de texto (image-text-to-text). Se ha lanzado como la versión más capaz de la familia de modelos de código abierto Qwen hasta la fecha.",
+          "meta": "♥ 20.292 · 6.763.402 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-11-17T05:15:50.764Z",
+            "metadata": {
+              "popularity": 20292,
+              "engagementCount": 6763402,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 482,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Following the widespread community adoption of the Qwen3.5 and Qwen3.6 series, we are pleased to introduce Qwen3.8, the most capable generation in the Qwen open-model family to date."
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, desarrollado por Lightricks, es un modelo de inteligencia artificial que convierte imágenes en video (image-to-video). Ofrece una tecnología que permite a los usuarios transformar imágenes estáticas en contenido en movimiento.",
+          "meta": "♥ 12.277 · 2.789.021 descargas",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-11-17T05:15:50.764Z",
+            "metadata": {
+              "popularity": 12277,
+              "engagementCount": 2789021,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 445,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3-Image",
+          "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+          "summary": "Comfy-Org/MiniMax-H3-Image es un modelo de inteligencia artificial con capacidad de generación de imágenes a partir de texto (text-to-image). Se recomienda utilizarlo junto con la herramienta de generación de texto qwen3.59bw4a8gptq en los procesos de mejora de prompts.",
+          "meta": "♥ 497 · 2.294.065 descargas",
+          "snapshot": {
+            "sourceId": "Comfy-Org/MiniMax-H3-Image",
+            "capturedAt": "2026-11-17T05:15:50.764Z",
+            "metadata": {
+              "popularity": 497,
+              "engagementCount": 2294065,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 421,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusion-single-file",
+                  "comfyui",
+                  "text-to-image",
+                  "base_model:MiniMaxAI/MiniMax-H3-Image",
+                  "base_model:finetune:MiniMaxAI/MiniMax-H3-Image",
+                  "license:other",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-image model. For prompt enhancement, we recommend to use the model qwen3.59bw4a8gptq with the Generate Text node."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination",
+          "url": "https://huggingface.co/papers/2611.16661",
+          "summary": "El artículo compartido por Hugging Face se centra en reducir el tiempo de procesamiento por lotes en cargas de trabajo de agentes que utilizan grandes modelos de lenguaje (LLM). El estudio tiene como objetivo optimizar la gestión de la memoria de la GPU coordinando los procesos de inferencia con las interacciones del entorno.",
+          "meta": "2 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2611.16661",
+            "capturedAt": "2026-11-17T05:15:50.770Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.16661",
+                "publishedAt": "2026-11-12T00:00:00.000Z"
+              }
+            },
+            "description": "Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce batch makespan, the time required to complete all tasks in a batch. For hybrid LLMs, a workload-based resource model guides GPU-memory allocation between key-value (KV) cache and recurrent state and pro"
+          }
+        },
+        {
+          "title": "Iris-Z: Scaling One Generative Model Past Specialist Geometry Models",
+          "url": "https://huggingface.co/papers/2611.16010",
+          "summary": "Iris-Z es un modelo de inteligencia artificial generativa que combina tareas de visión artificial y comprensión espacial bajo una única arquitectura. Su objetivo es que un solo modelo general, escalado con datos y potencia de cálculo, resuelva todas las tareas en lugar de utilizar múltiples modelos expertos.",
+          "meta": "3 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2611.16010",
+            "capturedAt": "2026-11-17T05:15:50.770Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.16010",
+                "publishedAt": "2026-11-11T00:00:00.000Z"
+              }
+            },
+            "description": "Language moved from many task-specific models to one unified model: a single generative model with a single generative training task that handles all of them within the same backbone, and keeps improving with data, parameters and compute. We believe the bitter lesson applies just as much to computer vision, 3D and spatial understanding, in the end to visual intelligence: the effort should go into general architectures that solve all these tasks in a unified way, and into scaling them, rather tha"
+          }
+        },
+        {
+          "title": "BrickFlow: Connectivity-Guided Brick Reconstruction",
+          "url": "https://huggingface.co/papers/2611.17321",
+          "summary": "BrickFlow es un método que tiene como objetivo determinar las posiciones de las piezas de LEGO y reconstruir objetos a partir de una imagen. El estudio, que utiliza un modelo de flujo SE(3) condicionado por conjuntos para aprender cómo se conectan las piezas entre sí, optimiza el proceso de montaje de las piezas teniendo en cuenta las restricciones físicas.",
+          "meta": "2 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2611.17321",
+            "capturedAt": "2026-11-17T05:15:50.770Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.17321",
+                "publishedAt": "2026-11-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/kulits/BrickFlow",
+                "githubStars": 7
+              }
+            },
+            "description": "Given a set of LEGO parts and an image of an assembled object, our task is to infer the pose of each part to assemble the object. In contrast with traditional 3D reconstruction, doing so requires satisfying discrete physical constraints, which provide structure but render the problem combinatorial and highly sensitive to small pose errors. To learn a prior over how parts fit together, we train a set-conditioned SE(3) flow model on procedurally generated assemblies. We then finetune this model to"
+          }
+        },
+        {
+          "title": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
+          "url": "https://huggingface.co/papers/2611.18550",
+          "summary": "El artículo compartido por Hugging Face examina cómo la destilación de modelos de difusión en modelos estudiantes de pocos pasos reduce la diversidad visual. Los investigadores descubren que, aunque los modelos estudiantes mantienen la varianza de activación, concentran esta varianza en menos direcciones, revelando así la causa fundamental de la pérdida de diversidad.",
+          "meta": "3 me gusta · 3 comentarios",
+          "snapshot": {
+            "sourceId": "2611.18550",
+            "capturedAt": "2026-11-17T05:15:50.770Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 3,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.18550",
+                "publishedAt": "2026-11-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/H-furkan/rediverse",
+                "githubStars": 2
+              }
+            },
+            "description": "Distilling diffusion models into few-step student models substantially reduces sampling latency, but induces severe diversity collapse: samples generated from different random seeds show minimal variation. In this work, we investigate the root cause of this failure by probing the internal representations of student models relative to their teachers. We find that distilled students maintain total activation variance comparable to their teachers, but concentrate it into substantially fewer directi"
+          }
+        },
+        {
+          "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+          "url": "https://huggingface.co/papers/2611.14487",
+          "summary": "Re-Search presenta un método de evaluación basado en el juego de las veinte preguntas para analizar los procesos de desarrollo de ideas de investigación de los grandes modelos de lenguaje (LLM). El modelo intenta llegar a las ideas fundamentales de los artículos publicados haciendo preguntas de sí o no para resolver un problema de investigación determinado.",
+          "meta": "8 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2611.14487",
+            "capturedAt": "2026-11-17T05:15:50.770Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.14487",
+                "publishedAt": "2026-11-10T00:00:00.000Z"
+              }
+            },
+            "description": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what limits their progress. We introduce Re-Search, which adapts the format of Twenty Questions to research ideation: given only the research problem of a published paper, a model must rediscover the paper's core idea by asking yes-or-no questions. Built from 200 ICML"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "event-based",
+      "explanation": "Estructura basada en el principio de que el sistema se activa y funciona cuando ocurre una situación o acción específica."
+    },
+    {
+      "term": "open source",
+      "explanation": "Tipo de software cuyo código fuente está abierto para que cualquiera pueda examinarlo, modificarlo y mejorarlo."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Conjunto de herramientas y bibliotecas que facilitan a los desarrolladores la creación de programas para una plataforma o aplicación específica."
+    },
+    {
+      "term": "skills",
+      "explanation": "Paquetes de capacidades especializadas que se añaden al sistema para que los modelos de inteligencia artificial puedan realizar tareas específicas."
+    },
+    {
+      "term": "screeners",
+      "explanation": "Herramientas que permiten a los inversores encontrar las oportunidades que buscan filtrando los datos financieros según criterios específicos."
+    },
+    {
+      "term": "bug hunting",
+      "explanation": "El proceso de examen sistemático realizado para encontrar errores que podrían comprometer la seguridad o la estabilidad de un software."
+    },
+    {
+      "term": "red-team",
+      "explanation": "Estudios de seguridad que imitan los métodos de atacantes malintencionados con el fin de probar la resistencia de los sistemas."
+    },
+    {
+      "term": "slash command",
+      "explanation": "Comandos cortos que los usuarios inician con una barra diagonal en una interfaz de chat o de línea de comandos."
+    },
+    {
+      "term": "container",
+      "explanation": "Tecnología de virtualización que empaqueta un software junto con todos los archivos necesarios para su funcionamiento en un entorno aislado."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Conjunto de capacidades que permiten a los agentes de inteligencia artificial interactuar con sistemas externos para realizar tareas específicas."
+    },
+    {
+      "term": "skill",
+      "explanation": "Capacidad que permite a la inteligencia artificial realizar una tarea específica, como investigar un tema determinado o generar un resumen."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Procesos automatizados en los que los datos se procesan secuencialmente a través de diferentes etapas para completar una tarea."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con volúmenes masivos de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "multi-agent framework",
+      "explanation": "Infraestructura de software que permite a múltiples agentes de inteligencia artificial colaborar entre sí para resolver tareas complejas."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Protocolo de comunicación que permite a los modelos de inteligencia artificial conectarse a diferentes fuentes de datos y herramientas de manera estandarizada."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que ejecuta programas mediante comandos escritos en lugar de utilizar el ratón."
+    }
+  ]
+}
