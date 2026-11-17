@@ -41,8 +41,8 @@ Realiza bien la mayoría de las tareas estándar, pero aún requiere control hum
 
 ## Herramientas relacionadas
 
-- [Andrej Karpathy Skills](https://trescout.com/es/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/es/discover/opencode/)
+- [Andrej Karpathy Skills](https://trescout.com/es/discover/andrej-karpathy-skills/)
 - [Openinterpreter](https://trescout.com/es/discover/openinterpreter/)
 - [Oh My Pi](https://trescout.com/es/discover/oh-my-pi/)
 - [Continue](https://trescout.com/es/discover/continue/)

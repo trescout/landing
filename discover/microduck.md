@@ -2,16 +2,16 @@
 
 Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek robot projesidir. Rust diliyle yazılan yazılım, yapay zekâ politikaları (neural policies) üzerinden on beş servoyu yöneterek robotun hareket ve kontrol süreçlerini yürütür.
 
-- ★ 13.779
+- ★ 13.862
 - Rust
 - GitHub Trending · 2026-10-25
 
 ## Güncelleme
 
+- **17 Kasım 2026:** Yıldız 13.779 → 13.862, son sürüm daemon-v0.22.0 (17 Kasım 2026).
 - **14 Kasım 2026:** Yıldız 13.761 → 13.779, son sürüm daemon-v0.21.1 (13 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 13.720 → 13.761, son sürüm daemon-v0.21.0 (13 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 13.655 → 13.720, son sürüm daemon-v0.20.1 (12 Kasım 2026).
-- **10 Kasım 2026:** Yıldız 13.528 → 13.655, son sürüm daemon-v0.19.0 (10 Kasım 2026).
 
 ## Ne kazandırır?
 

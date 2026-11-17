@@ -1649,6 +1649,13 @@
         "onceki_yildiz": 4600,
         "surum": "addon-2026-11-16-2204",
         "surum_tarihi": "2026-11-16"
+      },
+      {
+        "tarih": "2026-11-17",
+        "yildiz": 4609,
+        "onceki_yildiz": 4609,
+        "surum": "addon-2026-11-17-1637",
+        "surum_tarihi": "2026-11-17"
       }
     ],
     "tagline_en": "Contact solver for physics simulations: ZOZO's physics engine for fabric, solid and string interactions.",
@@ -4732,14 +4739,14 @@
     "slug": "pi-subagents",
     "title": "Pi Subagents",
     "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
-    "meta": "★ 4.192 · Lisans: yok",
+    "meta": "★ 4.217 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4192,
+    "stars": 4217,
     "image": "/assets/discover/og/pi-subagents.webp",
     "headline": "Yapay zekâ ile asenkron görev yönetimi",
     "last_review": "2026-11-17",
@@ -5093,6 +5100,13 @@
         "onceki_yildiz": 4176,
         "surum": "v0.88.1",
         "surum_tarihi": "2026-11-13"
+      },
+      {
+        "tarih": "2026-11-17",
+        "yildiz": 4217,
+        "onceki_yildiz": 4192,
+        "surum": "v0.89.0",
+        "surum_tarihi": "2026-11-17"
       }
     ],
     "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform.",
@@ -13292,7 +13306,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 32.464 · HTML",
+    "meta": "★ 32.473 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -13300,7 +13314,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 32464,
+    "stars": 32473,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-11-17",
@@ -13702,6 +13716,13 @@
         "yildiz": 32464,
         "onceki_yildiz": 32409,
         "surum": "cua-spaces-v0.38.3",
+        "surum_tarihi": "2026-11-17"
+      },
+      {
+        "tarih": "2026-11-17",
+        "yildiz": 32473,
+        "onceki_yildiz": 32464,
+        "surum": "cua-spaces-v0.38.5",
         "surum_tarihi": "2026-11-17"
       }
     ],
@@ -21091,7 +21112,7 @@
     "slug": "opencode",
     "title": "Opencode",
     "tagline": "OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).",
-    "meta": "★ 222.516 · TypeScript",
+    "meta": "★ 227.419 · TypeScript",
     "image": "/assets/discover/og/opencode.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -21099,7 +21120,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 222516,
+    "stars": 227419,
     "lite": false,
     "headline": "Açık kaynaklı yapay zekâ kodlama ajanı",
     "last_review": "2026-11-17",
@@ -21271,6 +21292,13 @@
         "onceki_yildiz": 219984,
         "surum": "v1.19.5",
         "surum_tarihi": "2026-10-28"
+      },
+      {
+        "tarih": "2026-11-17",
+        "yildiz": 227419,
+        "onceki_yildiz": 222516,
+        "surum": "v1.19.6",
+        "surum_tarihi": "2026-11-17"
       }
     ],
     "tagline_en": "OpenCode is an open source coding agent designed to automate software development processes.",
@@ -24467,7 +24495,7 @@
     "slug": "claude-skills",
     "title": "Claude Skills",
     "tagline": "Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda…",
-    "meta": "★ 29.874 · Python",
+    "meta": "★ 29.938 · Python",
     "image": "/assets/discover/og/claude-skills.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -24475,7 +24503,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 29874,
+    "stars": 29938,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına uzmanlık kazandırın",
     "last_review": "2026-11-17",
@@ -24612,6 +24640,13 @@
         "onceki_yildiz": 29615,
         "surum": "v2.14.12",
         "surum_tarihi": "2026-11-16"
+      },
+      {
+        "tarih": "2026-11-17",
+        "yildiz": 29938,
+        "onceki_yildiz": 29874,
+        "surum": "v2.14.13",
+        "surum_tarihi": "2026-11-17"
       }
     ],
     "tagline_en": "This library, developed for Claude Code and various coding agents, is used in different fields from engineering to marketing.",
@@ -44291,7 +44326,7 @@
     "slug": "cli-anything",
     "title": "CLI-Anything",
     "tagline": "CLI-Anything, komut satırı arayüzlerini (CLI) yapay zekâ ajanlarının doğrudan kullanabileceği bir formata dönüştüren bir…",
-    "meta": "★ 56.074 · Python",
+    "meta": "★ 58.893 · Python",
     "image": "/assets/discover/og/cli-anything.webp",
     "source": "GitHub",
     "date": "2026-08-16",
@@ -44299,7 +44334,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 56074,
+    "stars": 58893,
     "lite": false,
     "headline": "Yazılımları yapay zekâ ajanına uyumlu yapın",
     "tagline_en": "CLI-Anything is a tool that converts command line interfaces (CLI) into a format that artificial intelligence agents can use directly.",
@@ -44334,6 +44369,13 @@
         "tarih": "2026-10-22",
         "yildiz": 56074,
         "onceki_yildiz": 53215,
+        "surum": "v0.4.0",
+        "surum_tarihi": "2026-06-25"
+      },
+      {
+        "tarih": "2026-11-17",
+        "yildiz": 58893,
+        "onceki_yildiz": 56074,
         "surum": "v0.4.0",
         "surum_tarihi": "2026-06-25"
       }
@@ -62994,7 +63036,7 @@
     "slug": "microduck",
     "title": "Microduck",
     "tagline": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek…",
-    "meta": "★ 13.779 · Rust",
+    "meta": "★ 13.862 · Rust",
     "image": "/assets/discover/og/microduck.webp",
     "source": "GitHub",
     "date": "2026-10-25",
@@ -63002,7 +63044,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13779,
+    "stars": 13862,
     "last_seen": "2026-10-26",
     "summary": "Pollen Robotics tarafından geliştirilen microduck, Rockchip RK3566 işlemcisiyle çalışan 25 santimetrelik iki ayaklı bir ördek robot projesidir. Rust diliyle yazılan yazılım, yapay zekâ politikaları (neural policies) üzerinden on beş servoyu yöneterek robotun hareket ve kontrol süreçlerini yürütür.",
     "lite": false,
@@ -63101,6 +63143,13 @@
         "onceki_yildiz": 13761,
         "surum": "daemon-v0.21.1",
         "surum_tarihi": "2026-11-13"
+      },
+      {
+        "tarih": "2026-11-17",
+        "yildiz": 13862,
+        "onceki_yildiz": 13779,
+        "surum": "daemon-v0.22.0",
+        "surum_tarihi": "2026-11-17"
       }
     ],
     "tagline_en": "Developed by Pollen Robotics, microduck is a 25-centimeter bipedal duck powered by the Rockchip RK3566 processor…",
@@ -65882,7 +65931,7 @@
     "slug": "plannotator",
     "title": "Plannotator",
     "tagline": "plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren…",
-    "meta": "★ 12.155 · TypeScript",
+    "meta": "★ 12.816 · TypeScript",
     "image": "/assets/discover/og/plannotator.webp",
     "source": "GitHub",
     "date": "2026-11-14",
@@ -65890,7 +65939,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 12155,
+    "stars": 12816,
     "last_seen": "2026-11-17",
     "summary": "plannotator, yapay zekâ ajanları için planlama, kod inceleme ve geri bildirim süreçlerini tek bir çalışma alanında birleştiren bir platformdur. TypeScript ile geliştirilen bu araç, ekiplerin ajanlarla olan etkileşimlerini yönetmelerini ve geri bildirimleri doğrudan ajanlara aktarmalarını sağlar.",
     "lite": false,
@@ -65917,6 +65966,13 @@
         "onceki_yildiz": 11283,
         "surum": "v0.28.66",
         "surum_tarihi": "2026-11-16"
+      },
+      {
+        "tarih": "2026-11-17",
+        "yildiz": 12816,
+        "onceki_yildiz": 12155,
+        "surum": "v0.28.67",
+        "surum_tarihi": "2026-11-17"
       }
     ],
     "tagline_en": "plannotator, which combines planning, code review, and feedback processes for artificial intelligence agents into a single workspace…",
@@ -66189,14 +66245,14 @@
     "slug": "claude-bughunter",
     "title": "Claude-BugHunter",
     "tagline": "elementalsouls/Claude-BugHunter, hata ayıklama ve dış kırmızı takım (red-team) çalışmaları için Claude Code üzerinde çalışan…",
-    "meta": "★ 6.692 · Python",
+    "meta": "★ 7.832 · Python",
     "image": "/assets/discover/og/claude-bughunter.webp",
     "source": "GitHub",
     "date": "2026-11-16",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 6692,
+    "stars": 7832,
     "last_seen": "2026-11-17",
     "summary": "elementalsouls/Claude-BugHunter, hata ayıklama ve dış kırmızı takım (red-team) çalışmaları için Claude Code üzerinde çalışan bir yetenek paketi sunuyor. Python diliyle geliştirilen bu araç, 24 temel güvenlik açığı sınıfını kapsayan rapor desenleri ile altyapı saldırı matrislerini içeren kapsamlı bir içerik sağlıyor.",
     "lite": false,
@@ -66207,6 +66263,13 @@
         "tarih": "2026-11-16",
         "yildiz": 6692,
         "onceki_yildiz": 6678,
+        "surum": "v2.1",
+        "surum_tarihi": "2026-06-05"
+      },
+      {
+        "tarih": "2026-11-17",
+        "yildiz": 7832,
+        "onceki_yildiz": 6692,
         "surum": "v2.1",
         "surum_tarihi": "2026-06-05"
       }

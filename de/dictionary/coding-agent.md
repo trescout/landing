@@ -41,8 +41,8 @@ Es erledigt die meisten Standardaufgaben gut, erfordert aber in sehr komplexen o
 
 ## Verwandte Werkzeuge
 
-- [Andrej Karpathy Skills](https://trescout.com/de/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/de/discover/opencode/)
+- [Andrej Karpathy Skills](https://trescout.com/de/discover/andrej-karpathy-skills/)
 - [Openinterpreter](https://trescout.com/de/discover/openinterpreter/)
 - [Oh My Pi](https://trescout.com/de/discover/oh-my-pi/)
 - [Continue](https://trescout.com/de/discover/continue/)
