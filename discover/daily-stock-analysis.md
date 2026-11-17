@@ -2,16 +2,16 @@
 
 Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok kaynaklı piyasa verilerini ve gerçek zamanlı haberleri analiz ederek yatırım kararları için görselleştirilmiş paneller sunuyor. Otomatik bildirimler ve ücretsiz zamanlanmış çalışma desteğiyle farklı borsalar için analiz süreçlerini standartlaştırıyor.
 
-- ★ 69.326
+- ★ 72.884
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
 
+- **17 Kasım 2026:** Yıldız 69.326 → 72.884, son sürüm v3.35.0 (16 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 66.393 → 69.326, son sürüm v3.34.0 (9 Kasım 2026).
 - **15 Ekim 2026:** Yıldız 64.727 → 66.393, son sürüm v3.33.0 (15 Ekim 2026).
 - **7 Eylül 2026:** Yıldız 63.731 → 64.727, son sürüm v3.32.0 (6 Eylül 2026).
-- **24 Ağustos 2026:** Yıldız 61.388 → 63.731, son sürüm v3.31.0 (23 Ağustos 2026).
 
 ## Ne kazandırır?
 

@@ -41,8 +41,8 @@ Yes, it requires basic server administration and networking knowledge.
 ## Related tools
 
 - [N8n](https://trescout.com/en/discover/n8n/)
-- [Penpot](https://trescout.com/en/discover/penpot/)
 - [Plane](https://trescout.com/en/discover/plane/)
+- [Penpot](https://trescout.com/en/discover/penpot/)
 - [Twenty](https://trescout.com/en/discover/twenty/)
 - [Self-Hosting-Guide](https://trescout.com/en/discover/self-hosting-guide/)
 - [OpenStock](https://trescout.com/en/discover/openstock/)

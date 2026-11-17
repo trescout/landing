@@ -86,7 +86,7 @@ Farklı işletim sistemi veya güçlü yalıtım gerektiğinde. Geri kalan çoğ
 - [Mattermost](https://trescout.com/discover/mattermost/)
 - [Keycloak](https://trescout.com/discover/keycloak/)
 - [Trivy](https://trescout.com/discover/trivy/)
-- [PPF Contact Solver](https://trescout.com/discover/ppf-contact-solver/)
+- [Arcane](https://trescout.com/discover/arcane/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

@@ -2,12 +2,13 @@
 
 Kornia is a differentiable computer vision library developed for spatial AI applications. Running on the PyTorch deep learning framework, this tool enables the integration of image processing and geometric vision algorithms into artificial intelligence workflows.
 
-- ★ 12,381
+- ★ 12,392
 - Python
 - GitHub Trending · 2026-11-02
 
 ## Updates
 
+- **November 17, 2026:** Stars 12,381 → 12,392, latest release v0.9.2 (November 16, 2026).
 - **November 14, 2026:** Stars 11,944 → 12,381, latest release v0.9.1 (November 13, 2026).
 - **November 2, 2026:** Stars 11,886 → 11,944, latest release v0.9.0 (October 23, 2026).
 

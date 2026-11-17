@@ -45,6 +45,7 @@ Görevler çok karmaşıklaştığında, uzmanlaşmış küçük modeller birle�
 - [Gastown](https://trescout.com/discover/gastown/)
 - [AI Berkshire](https://trescout.com/discover/ai-berkshire/)
 - [Openrig](https://trescout.com/discover/openrig/)
+- [Paper Orchestra](https://trescout.com/discover/paper-orchestra/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

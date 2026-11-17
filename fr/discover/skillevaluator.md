@@ -2,12 +2,13 @@
 
 Développé par NVIDIA, SkillEvaluator est un cadre multicouche qui évalue les compétences des agents d'intelligence artificielle à l'aide de méthodes telles que le contrôle qualité, la détection des conflits sémantiques et la génération de données synthétiques. Cet outil propose des processus d'évaluation en direct afin de mesurer les impacts sur les comportements des agents.
 
-- ★ 1 912
+- ★ 2 913
 - Python
 - GitHub Trending · 2026-11-16
 
 ## Mises à jour
 
+- **17 novembre 2026:** Étoiles 1,912 → 2,913, dernière version v0.9.0 (13 novembre 2026).
 - **16 novembre 2026:** Étoiles 1,897 → 1,912, dernière version v0.9.0 (13 novembre 2026).
 
 ## Ce que ça vous apporte

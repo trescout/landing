@@ -55,8 +55,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [Multi-agent](https://trescout.com/en/dictionary/multi-agent/)
 - [Workspace](https://trescout.com/en/dictionary/workspace/)
+- [Multi-agent](https://trescout.com/en/dictionary/multi-agent/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for developers who want to manage multiple AI agents simultaneously and ensure workflow continuity in complex software projects.

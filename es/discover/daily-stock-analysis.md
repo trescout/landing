@@ -2,16 +2,16 @@
 
 Respaldado por grandes modelos de lenguaje, este sistema analiza datos de mercado de múltiples fuentes y noticias en tiempo real y ofrece paneles visualizados para decisiones de inversión. Estandariza los procesos de análisis para diferentes intercambios con notificaciones automáticas y soporte gratuito para estudios programados.
 
-- ★ 69.326
+- ★ 72.884
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Actualizaciones
 
+- **17 de noviembre de 2026:** Estrellas 69,326 → 72,884, última versión v3.35.0 (16 de noviembre de 2026).
 - **10 de noviembre de 2026:** Estrellas 66,393 → 69,326, última versión v3.34.0 (9 de noviembre de 2026).
 - **15 de octubre de 2026:** Estrellas 64,727 → 66,393, última versión v3.33.0 (15 de octubre de 2026).
 - **7 de septiembre de 2026:** Estrellas 63,731 → 64,727, última versión v3.32.0 (6 de septiembre de 2026).
-- **24 de agosto de 2026:** Estrellas 61,388 → 63,731, última versión v3.31.0 (23 de agosto de 2026).
 
 ## Qué aporta
 

@@ -2,9 +2,13 @@
 
 Prompts.chat, kullanıcıların yapay zekâ modelleri için hazırladıkları komutları (prompts) paylaştığı ve keşfettiği açık kaynaklı bir platformdur. Kurumsal kullanım için kendi sunucunuzda barındırabileceğiniz bu araç, komut kütüphanelerini gizlilik odaklı bir yapıda yönetmenize olanak tanır.
 
-- ★ 169.206
+- ★ 177.691
 - HTML
 - GitHub Trending · 2026-09-04
+
+## Güncelleme
+
+- **17 Kasım 2026:** Yıldız 169.206 → 177.691.
 
 ## Ne kazandırır?
 

@@ -2,9 +2,13 @@
 
 Prompts.chat ist eine Open-Source-Plattform, auf der Benutzer Prompts für KI-Modelle teilen und entdecken können. Dieses Tool, das Sie für die unternehmerische Nutzung auf Ihrem eigenen Server hosten können, ermöglicht es Ihnen, Prompt-Bibliotheken datenschutzorientiert zu verwalten.
 
-- ★ 169.206
+- ★ 177.691
 - HTML
 - GitHub Trending · 2026-09-04
+
+## Aktualisierungen
+
+- **17. November 2026:** Sterne 169,206 → 177,691.
 
 ## Was es bringt
 

@@ -2,9 +2,13 @@
 
 O Prompts.chat é uma plataforma de código aberto onde os usuários compartilham e descobrem prompts criados para modelos de inteligência artificial. Esta ferramenta, que você pode hospedar em seu próprio servidor para uso corporativo, permite gerenciar bibliotecas de prompts com foco em privacidade.
 
-- ★ 169.206
+- ★ 177.691
 - HTML
 - GitHub Trending · 2026-09-04
+
+## Atualizações
+
+- **17 de novembro de 2026:** Estrelas 169,206 → 177,691.
 
 ## O que você ganha
 

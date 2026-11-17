@@ -53,8 +53,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
-- [Skill](https://trescout.com/pt/dictionary/skill/)
 - [Markdown](https://trescout.com/pt/dictionary/markdown/)
+- [Skill](https://trescout.com/pt/dictionary/skill/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

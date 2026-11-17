@@ -2,16 +2,16 @@
 
 PostHog is a comprehensive platform that brings together tools such as artificial intelligence observability, analysis and session replay for product development processes. It enables software developers to create autonomous products by tracking bugs, managing experiments, and analyzing user data.
 
-- ★ 40,812
+- ★ 40,833
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Updates
 
+- **November 17, 2026:** Stars 40,812 → 40,833, latest release desktop-v0.61.1050 (November 17, 2026).
 - **November 16, 2026:** Stars 40,776 → 40,812, latest release desktop-v0.61.1042 (November 15, 2026).
 - **November 14, 2026:** Stars 40,768 → 40,776, latest release desktop-v0.61.1040 (November 14, 2026).
 - **November 13, 2026:** Stars 40,749 → 40,768, latest release desktop-v0.61.1016 (November 12, 2026).
-- **November 12, 2026:** Stars 40,737 → 40,749, latest release desktop-v0.61.1006 (November 12, 2026).
 
 ## What you get
 

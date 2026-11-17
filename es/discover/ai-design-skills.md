@@ -52,8 +52,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [Skill](https://trescout.com/es/dictionary/skill/)
 - [Markdown](https://trescout.com/es/dictionary/markdown/)
+- [Skill](https://trescout.com/es/dictionary/skill/)
 - [AI Skills](https://trescout.com/es/dictionary/ai-skills/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

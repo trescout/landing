@@ -10840,5 +10840,70 @@
     "kisa_es": "Es un equipo de seguridad experto que imita las técnicas de atacantes reales para detectar las vulnerabilidades de seguridad de un sistema.",
     "kisa_pt": "É uma equipe de especialistas em segurança que simula técnicas de atacantes reais a fim de identificar vulnerabilidades de segurança de um sistema.",
     "kisa_de": "Ein spezialisiertes Sicherheitsteam, das reale Angreifertechniken nachahmt, um Sicherheitslücken eines Systems zu identifizieren."
+  },
+  {
+    "slug": "event-based",
+    "en": "Event-based",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sistemin belirli bir durum veya eylem gerçekleştiğinde tetiklenerek çalışması prensibine dayanan yapı.",
+    "date": "2026-11-17",
+    "kisa_en": "The structure based on the principle of the system being triggered and operating when a specific condition or action occurs.",
+    "kisa_fr": "Structure basée sur le principe selon lequel le système se déclenche et fonctionne lorsqu'un état ou une action spécifique se produit.",
+    "kisa_es": "Estructura basada en el principio de que el sistema se active y funcione cuando ocurre una situación o acción determinada.",
+    "kisa_pt": "Estrutura baseada no princípio de que o sistema é acionado e opera quando um determinado estado ou ação ocorre.",
+    "kisa_de": "Eine Struktur, die auf dem Prinzip basiert, dass das System durch das Auftreten eines bestimmten Zustands oder einer bestimmten Aktion ausgelöst wird und funktioniert."
+  },
+  {
+    "slug": "screeners",
+    "en": "Screeners",
+    "full": "",
+    "cat": "data",
+    "kisa": "Finansal verileri belirli kriterlere göre filtreleyerek yatırımcıların aradığı fırsatları bulmasını sağlayan araçlar.",
+    "date": "2026-11-17",
+    "kisa_en": "Tools that enable investors to find the opportunities they are looking for by filtering financial data according to specific criteria.",
+    "kisa_fr": "Outils permettant aux investisseurs de trouver les opportunités qu'ils recherchent en filtrant les données financières selon des critères spécifiques.",
+    "kisa_es": "Herramientas que permiten a los inversores encontrar las oportunidades que buscan filtrando los datos financieros según ciertos criterios.",
+    "kisa_pt": "Ferramentas que permitem aos investidores encontrar as oportunidades que procuram, filtrando dados financeiros com base em determinados critérios.",
+    "kisa_de": "Tools, mit denen Anleger Finanzdaten nach bestimmten Kriterien filtern und so die von ihnen gesuchten Chancen finden können."
+  },
+  {
+    "slug": "bug-hunting",
+    "en": "Bug Hunting",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın güvenliğini veya kararlılığını bozabilecek hataları bulmak için yapılan sistematik inceleme süreci.",
+    "date": "2026-11-17",
+    "kisa_en": "The systematic review process conducted to find bugs that could compromise the security or stability of software.",
+    "kisa_fr": "Processus d'examen systématique mené pour détecter les bugs susceptibles de compromettre la sécurité ou la stabilité d'un logiciel.",
+    "kisa_es": "Proceso de revisión sistemática realizado para encontrar errores que puedan comprometer la seguridad o la estabilidad de un software.",
+    "kisa_pt": "Processo de revisão sistemática realizado para encontrar erros que possam comprometer a segurança ou a estabilidade de um software.",
+    "kisa_de": "Ein systematischer Prüfungsprozess zur Findung von Fehlern, die die Sicherheit oder Stabilität einer Software beeinträchtigen könnten."
+  },
+  {
+    "slug": "slash-command",
+    "en": "Slash Command",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kullanıcıların bir sohbet veya komut satırı arayüzünde eğik çizgi işaretiyle başlattığı kısa komutlardır.",
+    "date": "2026-11-17",
+    "kisa_en": "Short commands that users initiate with a slash character in a chat or command line interface.",
+    "kisa_fr": "Courtes commandes initiées par les utilisateurs avec une barre oblique dans une interface de chat ou de ligne de commande.",
+    "kisa_es": "Son comandos cortos que los usuarios inician con una barra diagonal en una interfaz de chat o línea de comandos.",
+    "kisa_pt": "São comandos curtos que os usuários iniciam com uma barra inclinada em uma interface de bate-papo ou de linha de comando.",
+    "kisa_de": "Kurzbefehle, die Benutzer in einer Chat- oder Befehlszeilenschnittstelle mit einem Schrägstrich starten."
+  },
+  {
+    "slug": "multi-agent-framework",
+    "en": "Multi-Agent Framework",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Birden fazla yapay zekâ ajanının birbiriyle iş birliği yaparak karmaşık görevleri çözmesini sağlayan yazılım altyapısıdır.",
+    "date": "2026-11-17",
+    "kisa_en": "The software infrastructure that enables multiple AI agents to collaborate with each other to solve complex tasks.",
+    "kisa_fr": "Infrastructure logicielle permettant à plusieurs agents d'intelligence artificielle de collaborer pour résoudre des tâches complexes.",
+    "kisa_es": "Infraestructura de software que permite a múltiples agentes de inteligencia artificial cooperar entre sí para resolver tareas complejas.",
+    "kisa_pt": "É uma infraestrutura de software que permite que vários agentes de inteligência artificial cooperem entre si para resolver tarefas complexas.",
+    "kisa_de": "Eine Software-Infrastruktur, die es mehreren KI-Agenten ermöglicht, zusammenzuarbeiten, um komplexe Aufgaben zu lösen."
   }
 ]

@@ -45,6 +45,7 @@ When tasks become very complex, smaller specialized models combine to make fewer
 - [Gastown](https://trescout.com/en/discover/gastown/)
 - [AI Berkshire](https://trescout.com/en/discover/ai-berkshire/)
 - [Openrig](https://trescout.com/en/discover/openrig/)
+- [Paper Orchestra](https://trescout.com/en/discover/paper-orchestra/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multi-agent/)
 

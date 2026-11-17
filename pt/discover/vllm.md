@@ -2,12 +2,13 @@
 
 vllm-project/vllm é um motor de inferência e atendimento que fornece alta vazão e eficiência de memória para grandes modelos de linguagem (LLMs). Desenvolvido em Python, esta ferramenta visa acelerar os processos de execução de modelos de inteligência artificial.
 
-- ★ 96.177
+- ★ 97.068
 - Python
 - GitHub Trending · 2026-10-21
 
 ## Atualizações
 
+- **17 de novembro de 2026:** Estrelas 96,177 → 97,068, versão mais recente v0.34.0 (16 de novembro de 2026).
 - **3 de novembro de 2026:** Estrelas 94,625 → 96,177, versão mais recente v0.33.0rc3 (2 de novembro de 2026).
 - **21 de outubro de 2026:** Estrelas 94,616 → 94,625, versão mais recente v0.32.0 (18 de outubro de 2026).
 

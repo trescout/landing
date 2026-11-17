@@ -45,6 +45,7 @@ Quando as tarefas se tornam muito complexas, modelos especializados menores se c
 - [Gastown](https://trescout.com/pt/discover/gastown/)
 - [AI Berkshire](https://trescout.com/pt/discover/ai-berkshire/)
 - [Openrig](https://trescout.com/pt/discover/openrig/)
+- [Paper Orchestra](https://trescout.com/pt/discover/paper-orchestra/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multi-agent/)
 

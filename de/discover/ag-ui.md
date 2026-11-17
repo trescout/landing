@@ -2,12 +2,13 @@
 
 AG-UI ist ein Open-Source- und ereignisbasiertes Kommunikationsprotokoll, das KI-Agenten mit Benutzeroberflächen verbindet. Es vereinfacht Anwendungsintegrationen, indem es Entwicklern ermöglicht, einen standardisierten Datenfluss zwischen KI-Agenten und Benutzeroberflächen herzustellen.
 
-- ★ 17.433
+- ★ 19.320
 - TypeScript
 - GitHub Trending · 2026-11-15
 
 ## Aktualisierungen
 
+- **17. November 2026:** Sterne 17,433 → 19,320, neueste Version release/2026-11-13 (13. November 2026).
 - **15. November 2026:** Sterne 17,432 → 17,433, neueste Version release/2026-11-13 (13. November 2026).
 
 ## Was es bringt

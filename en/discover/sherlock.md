@@ -2,12 +2,13 @@
 
 Developed in Python, sherlock-project/sherlock is a tool that scans social media accounts across different networks using usernames. The project offers community-maintained package supports for various platforms such as Debian, Ubuntu, Homebrew, Kali, and BlackArch.
 
-- ★ 107,902
+- ★ 113,298
 - Python
 - GitHub Trending · 2026-11-08
 
 ## Updates
 
+- **November 17, 2026:** Stars 107,902 → 113,298, latest release v0.16.2 (September 8, 2026).
 - **November 10, 2026:** Stars 100,961 → 107,902, latest release v0.16.2 (September 8, 2026).
 - **November 8, 2026:** Stars 100,941 → 100,961, latest release v0.16.2 (September 8, 2026).
 

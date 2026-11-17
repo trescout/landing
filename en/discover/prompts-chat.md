@@ -2,9 +2,13 @@
 
 Prompts.chat is an open-source platform where users share and discover prompts created for artificial intelligence models. This tool, which you can host on your own server for enterprise use, allows you to manage prompt libraries in a privacy-focused structure.
 
-- ★ 169,206
+- ★ 177,691
 - HTML
 - GitHub Trending · 2026-09-04
+
+## Updates
+
+- **November 17, 2026:** Stars 169,206 → 177,691.
 
 ## What you get
 

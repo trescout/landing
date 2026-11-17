@@ -2,16 +2,16 @@
 
 SimpleX bietet eine datenschutzorientierte Kommunikationsinfrastruktur als erstes Messaging-Netzwerk, das ohne die Verwendung von Benutzerkennungen auskommt. Die in Haskell-Sprache entwickelte Plattform zielt darauf ab, Benutzerdaten dank ihrer dezentralen Struktur vollständig anonym zu halten.
 
-- ★ 19.698
+- ★ 19.709
 - Haskell
 - GitHub Trending · 2026-06-27
 
 ## Aktualisierungen
 
+- **17. November 2026:** Sterne 19,698 → 19,709, neueste Version v7.1.4 (14. November 2026).
 - **15. November 2026:** Sterne 19,665 → 19,698, neueste Version v7.1.3 (11. November 2026).
 - **9. November 2026:** Sterne 19,498 → 19,665, neueste Version v7.1.2 (7. November 2026).
 - **28. September 2026:** Sterne 19,380 → 19,498, neueste Version v7.0.3 (26. September 2026).
-- **4. September 2026:** Sterne 19,277 → 19,380, neueste Version v7.0.2 (2. September 2026).
 
 ## Was es bringt
 

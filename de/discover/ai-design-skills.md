@@ -53,8 +53,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Skill](https://trescout.com/de/dictionary/skill/)
 - [Markdown](https://trescout.com/de/dictionary/markdown/)
+- [Skill](https://trescout.com/de/dictionary/skill/)
 - [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

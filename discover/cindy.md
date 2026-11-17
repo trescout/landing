@@ -2,16 +2,16 @@
 
 Cindy, projelerinizde ve uygulamalarınızda gerçek işleri tamamlamak üzere tasarlanmış, kutudan çıktığı gibi çalışabilen açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir yapay zekâ ajanıdır. Birden fazla model ve aracı tek bir yapıda birleştirerek kullanıcıların iş akışlarını yönetmelerine olanak tanır.
 
-- ★ 10.077
+- ★ 10.235
 - TypeScript
 - GitHub Trending · 2026-10-25
 
 ## Güncelleme
 
+- **17 Kasım 2026:** Yıldız 10.077 → 10.235, son sürüm v0.1.137 (16 Kasım 2026).
 - **14 Kasım 2026:** Yıldız 9.983 → 10.077, son sürüm v0.1.136 (13 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 9.885 → 9.983, son sürüm v0.1.135 (12 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 9.735 → 9.885, son sürüm v0.1.133 (11 Kasım 2026).
-- **10 Kasım 2026:** Yıldız 9.424 → 9.735, son sürüm v0.1.130 (10 Kasım 2026).
 
 ## Ne kazandırır?
 

@@ -53,8 +53,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
-- [Skill](https://trescout.com/en/dictionary/skill/)
 - [Markdown](https://trescout.com/en/dictionary/markdown/)
+- [Skill](https://trescout.com/en/dictionary/skill/)
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

@@ -53,8 +53,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [Skill](https://trescout.com/fr/dictionary/skill/)
 - [Markdown](https://trescout.com/fr/dictionary/markdown/)
+- [Skill](https://trescout.com/fr/dictionary/skill/)
 - [AI Skills](https://trescout.com/fr/dictionary/ai-skills/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

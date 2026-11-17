@@ -2,12 +2,13 @@
 
 AG-UI, yapay zekâ ajanlarını kullanıcı arayüzlerine bağlayan açık kaynaklı ve olay tabanlı bir iletişim protokolü. Geliştiricilerin yapay zekâ ajanları ile kullanıcı arayüzleri arasında standart bir veri akışı kurmasını sağlayarak uygulama entegrasyonlarını basitleştiriyor.
 
-- ★ 17.433
+- ★ 19.320
 - TypeScript
 - GitHub Trending · 2026-11-15
 
 ## Güncelleme
 
+- **17 Kasım 2026:** Yıldız 17.433 → 19.320, son sürüm release/2026-11-13 (13 Kasım 2026).
 - **15 Kasım 2026:** Yıldız 17.432 → 17.433, son sürüm release/2026-11-13 (13 Kasım 2026).
 
 ## Ne kazandırır?

@@ -45,6 +45,7 @@ Wenn Aufgaben sehr komplex werden, werden kleinere Spezialmodelle kombiniert, um
 - [Gastown](https://trescout.com/de/discover/gastown/)
 - [AI Berkshire](https://trescout.com/de/discover/ai-berkshire/)
 - [Openrig](https://trescout.com/de/discover/openrig/)
+- [Paper Orchestra](https://trescout.com/de/discover/paper-orchestra/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/multi-agent/)
 

@@ -62,8 +62,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Skill](https://trescout.com/dictionary/skill/)
 - [Markdown](https://trescout.com/dictionary/markdown/)
+- [Skill](https://trescout.com/dictionary/skill/)
 - [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

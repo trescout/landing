@@ -41,8 +41,8 @@ Evet, temel düzeyde sunucu yönetimi ve ağ bilgisi gerektirir.
 ## İlgili araçlar
 
 - [N8n](https://trescout.com/discover/n8n/)
-- [Penpot](https://trescout.com/discover/penpot/)
 - [Plane](https://trescout.com/discover/plane/)
+- [Penpot](https://trescout.com/discover/penpot/)
 - [Twenty](https://trescout.com/discover/twenty/)
 - [Self-Hosting-Guide](https://trescout.com/discover/self-hosting-guide/)
 - [OpenStock](https://trescout.com/discover/openstock/)

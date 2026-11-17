@@ -86,7 +86,7 @@ Cuando se requiere un sistema operativo diferente o un aislamiento fuerte. Para 
 - [Mattermost](https://trescout.com/es/discover/mattermost/)
 - [Keycloak](https://trescout.com/es/discover/keycloak/)
 - [Trivy](https://trescout.com/es/discover/trivy/)
-- [PPF Contact Solver](https://trescout.com/es/discover/ppf-contact-solver/)
+- [Arcane](https://trescout.com/es/discover/arcane/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/container/)
 

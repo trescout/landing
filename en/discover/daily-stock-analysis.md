@@ -2,16 +2,16 @@
 
 Supported by large language models, this system analyzes multi-source market data and real-time news and offers visualized panels for investment decisions. It standardizes analysis processes for different exchanges with automatic notifications and free scheduled study support.
 
-- ★ 69,326
+- ★ 72,884
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Updates
 
+- **November 17, 2026:** Stars 69,326 → 72,884, latest release v3.35.0 (November 16, 2026).
 - **November 10, 2026:** Stars 66,393 → 69,326, latest release v3.34.0 (November 9, 2026).
 - **October 15, 2026:** Stars 64,727 → 66,393, latest release v3.33.0 (October 15, 2026).
 - **September 7, 2026:** Stars 63,731 → 64,727, latest release v3.32.0 (September 6, 2026).
-- **August 24, 2026:** Stars 61,388 → 63,731, latest release v3.31.0 (August 23, 2026).
 
 ## What you get
 

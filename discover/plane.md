@@ -2,16 +2,16 @@
 
 Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir araya getiren açık kaynaklı bir proje yönetim platformudur. Jira ve Linear gibi kurumsal araçlara alternatif olarak geliştirilen bu platform, ekiplerin iş akışlarını merkezi bir arayüz üzerinden düzenlemesine olanak tanır.
 
-- ★ 61.637
+- ★ 62.543
 - TypeScript
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
 
+- **17 Kasım 2026:** Yıldız 61.637 → 62.543, son sürüm v1.5.0 (16 Kasım 2026).
 - **29 Ekim 2026:** Yıldız 60.475 → 61.637, son sürüm v1.4.3 (28 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 57.579 → 60.475, son sürüm v1.4.2 (23 Ağustos 2026).
 - **24 Ağustos 2026:** Yıldız 55.693 → 57.579, son sürüm v1.4.2 (23 Ağustos 2026).
-- **7 Ağustos 2026:** Yıldız 55.364 → 55.693, son sürüm v1.4.1 (7 Ağustos 2026).
 
 ## Ne kazandırır?
 

@@ -2,16 +2,16 @@
 
 Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri sentezleyen bir yapay zekâ yeteneği (AI agent skill) sunuyor. Python tabanlı bu araç, farklı kaynaklardan elde edilen bilgileri birleştirerek kullanıcılar için doğrulanabilir özetler oluşturuyor.
 
-- ★ 67.818
+- ★ 68.294
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
 
+- **17 Kasım 2026:** Yıldız 67.818 → 68.294, son sürüm v4.3.0 (16 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 67.804 → 67.818, son sürüm v4.2.0 (16 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 67.580 → 67.804, son sürüm v4.1.0 (16 Kasım 2026).
 - **14 Kasım 2026:** Yıldız 67.460 → 67.580, son sürüm v3.39.0 (13 Kasım 2026).
-- **13 Kasım 2026:** Yıldız 67.362 → 67.460, son sürüm v3.38.1 (12 Kasım 2026).
 
 ## Ne kazandırır?
 
