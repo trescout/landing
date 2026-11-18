@@ -104,7 +104,7 @@
         },
         {
           "title": "microsoft/onnxruntime",
-          "url": "https://github.com/microsoft/onnxruntime",
+          "url": "https://onnxruntime.ai",
           "summary": "Desarrollado por Microsoft, ONNX Runtime es un acelerador que permite ejecutar y entrenar modelos de aprendizaje automático con alto rendimiento en diferentes plataformas. Acelera los procesos de desarrollo de aplicaciones optimizando los procesos de inferencia de modelos en varias arquitecturas de hardware.",
           "meta": "C++ · ★ 21.492 · +5 hoy"
         }

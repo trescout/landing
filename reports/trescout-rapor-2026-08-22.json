@@ -104,7 +104,7 @@
         },
         {
           "title": "microsoft/onnxruntime",
-          "url": "https://github.com/microsoft/onnxruntime",
+          "url": "https://onnxruntime.ai",
           "summary": "Microsoft tarafından geliştirilen ONNX Runtime, makine öğrenimi modellerinin farklı platformlarda yüksek performansla çalıştırılmasını ve eğitilmesini sağlayan bir hızlandırıcıdır. Çeşitli donanım mimarileri üzerinde model çıkarımı (inference) süreçlerini optimize ederek uygulama geliştirme süreçlerini hızlandırır.",
           "meta": "C++ · ★ 21.492 · +5 bugün"
         }
