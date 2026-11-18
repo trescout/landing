@@ -70,9 +70,9 @@ Oui. Il vous suffit d'exécuter git pull dans le dossier. Si vous avez des modif
 - [BitNet](https://trescout.com/fr/discover/bitnet/)
 - [Claude-Code-Game-Studios](https://trescout.com/fr/discover/claude-code-game-studios/)
 - [Clone-Wars](https://trescout.com/fr/discover/clone-wars/)
-- [Claude Seo](https://trescout.com/fr/discover/claude-seo/)
 - [Univer](https://trescout.com/fr/discover/univer/)
-- [OpenStock](https://trescout.com/fr/discover/openstock/)
+- [Claude Seo](https://trescout.com/fr/discover/claude-seo/)
+- [openGym](https://trescout.com/fr/discover/opengym/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/clone/)
 

@@ -43,8 +43,8 @@ Bazı IDE'ler belirli dillere odaklanmıştır, bazıları ise eklentiler sayesi
 
 ## İlgili araçlar
 
-- [Cline](https://trescout.com/discover/cline/)
 - [Free Claude Code](https://trescout.com/discover/free-claude-code/)
+- [Cline](https://trescout.com/discover/cline/)
 - [Oh My Pi](https://trescout.com/discover/oh-my-pi/)
 - [Continue](https://trescout.com/discover/continue/)
 - [Checkstyle](https://trescout.com/discover/checkstyle/)

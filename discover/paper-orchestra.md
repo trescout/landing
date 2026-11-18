@@ -2,9 +2,13 @@
 
 Google Research tarafından geliştirilen PaperOrchestra, ham fikirleri ve deney günlüklerini akademik formatta LaTeX taslaklarına dönüştüren çoklu ajanlı bir çerçeve (multi-agent framework). Yazılım, literatür taraması ve görsel oluşturma süreçlerini otomatikleştirerek araştırma makalesi yazımını destekliyor.
 
-- ★ 1.732
+- ★ 4.162
 - Python
 - GitHub Trending · 2026-11-17
+
+## Güncelleme
+
+- **18 Kasım 2026:** Yıldız 1.732 → 4.162.
 
 ## Ne kazandırır?
 

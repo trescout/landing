@@ -2,16 +2,16 @@
 
 Coder, yazılımcılar ve yapay zekâ ajanları için güvenli geliştirme ortamları (development environments) sağlayan bir platform. Bulut tabanlı altyapısı sayesinde kodlama süreçlerini standartlaştırarak geliştirme ortamlarını merkezi bir şekilde yönetmenize olanak tanıyor.
 
-- ★ 17.391
+- ★ 17.431
 - Go
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
 
+- **18 Kasım 2026:** Yıldız 17.391 → 17.431, son sürüm v2.38.10 (16 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 17.358 → 17.391, son sürüm v2.38.8 (16 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 17.263 → 17.358, son sürüm v2.38.7 (10 Kasım 2026).
 - **4 Kasım 2026:** Yıldız 17.238 → 17.263, son sürüm v2.38.6 (3 Kasım 2026).
-- **31 Ekim 2026:** Yıldız 17.212 → 17.238, son sürüm v2.37.9 (30 Ekim 2026).
 
 ## Ne kazandırır?
 

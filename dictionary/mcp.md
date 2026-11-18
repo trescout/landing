@@ -88,8 +88,8 @@ Tasarımı izin temellidir, ancak sunucunun erişim kapsamını dar tutmanız ve
 - [OpenCut](https://trescout.com/discover/opencut/)
 - [Servers](https://trescout.com/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/discover/ai-engineering-from-scratch/)
-- [Goose](https://trescout.com/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
+- [Goose](https://trescout.com/discover/goose/)
 - [Claude Howto](https://trescout.com/discover/claude-howto/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

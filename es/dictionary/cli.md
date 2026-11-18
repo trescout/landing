@@ -48,9 +48,9 @@ El sistema suele dar errores, pero también hay comandos críticos que requieren
 - [Spec Kit](https://trescout.com/es/discover/spec-kit/)
 - [Graphify](https://trescout.com/es/discover/graphify/)
 - [Codex](https://trescout.com/es/discover/codex/)
-- [PI](https://trescout.com/es/discover/pi/)
 - [TradingAgents](https://trescout.com/es/discover/tradingagents/)
-- [Impeccable](https://trescout.com/es/discover/impeccable/)
+- [PI](https://trescout.com/es/discover/pi/)
+- [Agent-Reach](https://trescout.com/es/discover/agent-reach/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/cli/)
 

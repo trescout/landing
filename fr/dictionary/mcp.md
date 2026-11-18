@@ -88,8 +88,8 @@ Sa conception est basée sur les autorisations, mais vous devez garder la porté
 - [OpenCut](https://trescout.com/fr/discover/opencut/)
 - [Servers](https://trescout.com/fr/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/fr/discover/ai-engineering-from-scratch/)
-- [Goose](https://trescout.com/fr/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/fr/discover/chrome-devtools-mcp/)
+- [Goose](https://trescout.com/fr/discover/goose/)
 - [Claude Howto](https://trescout.com/fr/discover/claude-howto/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/mcp/)

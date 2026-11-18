@@ -23,7 +23,7 @@ Layers of the system:
 
 **Hardware:** Touchscreen, microphone array, speakers and vehicle computer.
 **Operating system:** Embedded system adapted for automotive (e.g., Android Automotive).
-**Connectivity:** Phone pairing, cellular data and wireless updates.
+**Connectivity:** Phone pairing, cellular data, and wireless updates.
 **Security:** Keyboard restriction while driving, voice command priority and simplified menus.
 **Update:** Incremental updates of maps and software over the internet.
 
@@ -43,7 +43,7 @@ They try to reduce driver distraction with voice commands and simplified menus. 
 
 **Does it work without a phone?**
 
-Basic radio and vehicle settings work. Navigation and streaming typically require phone pairing or a cellular connection.
+Basic radio and vehicle settings work. Navigation and streaming usually require phone pairing or a cellular connection.
 
 **Is there an update fee?**
 

@@ -2,16 +2,16 @@
 
 Developed in Rust, Hex is a native voice dictation tool that runs on Mac, Windows, and Linux operating systems. It allows users to speak by holding down a key and converts what they say into text.
 
-- ★ 6,281
+- ★ 7,441
 - Rust
 - GitHub Trending · 2026-11-02
 
 ## Updates
 
+- **November 18, 2026:** Stars 6,281 → 7,441, latest release v3.4.0 (November 11, 2026).
 - **November 11, 2026:** Stars 5,351 → 6,281, latest release v3.4.0 (November 11, 2026).
 - **November 6, 2026:** Stars 4,138 → 5,351, latest release v3.3.0 (November 2, 2026).
 - **November 3, 2026:** Stars 3,700 → 4,138, latest release v3.3.0 (November 2, 2026).
-- **November 2, 2026:** Stars 3,505 → 3,700, latest release @kitlangton/hex@0.3.1 (September 26, 2026).
 
 ## What you get
 

@@ -43,8 +43,8 @@ Alguns IDEs são focados em linguagens específicas, enquanto outros podem funci
 
 ## Ferramentas relacionadas
 
-- [Cline](https://trescout.com/pt/discover/cline/)
 - [Free Claude Code](https://trescout.com/pt/discover/free-claude-code/)
+- [Cline](https://trescout.com/pt/discover/cline/)
 - [Oh My Pi](https://trescout.com/pt/discover/oh-my-pi/)
 - [Continue](https://trescout.com/pt/discover/continue/)
 - [Checkstyle](https://trescout.com/pt/discover/checkstyle/)

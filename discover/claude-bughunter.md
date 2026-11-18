@@ -2,12 +2,13 @@
 
 elementalsouls/Claude-BugHunter, hata ayıklama ve dış kırmızı takım (red-team) çalışmaları için Claude Code üzerinde çalışan bir yetenek paketi sunuyor. Python diliyle geliştirilen bu araç, 24 temel güvenlik açığı sınıfını kapsayan rapor desenleri ile altyapı saldırı matrislerini içeren kapsamlı bir içerik sağlıyor.
 
-- ★ 7.832
+- ★ 11.170
 - Python
 - GitHub Trending · 2026-11-16
 
 ## Güncelleme
 
+- **18 Kasım 2026:** Yıldız 7.832 → 11.170, son sürüm v2.1 (5 Haziran 2026).
 - **17 Kasım 2026:** Yıldız 6.692 → 7.832, son sürüm v2.1 (5 Haziran 2026).
 - **16 Kasım 2026:** Yıldız 6.678 → 6.692, son sürüm v2.1 (5 Haziran 2026).
 

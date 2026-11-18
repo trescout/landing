@@ -42,8 +42,8 @@ Hayır, içerik kalitesi ve sitenin teknik performansı artık çok daha önemli
 
 ## İlgili araçlar
 
-- [Nuxt](https://trescout.com/discover/nuxt/)
 - [Marketingskills](https://trescout.com/discover/marketingskills/)
+- [Nuxt](https://trescout.com/discover/nuxt/)
 - [Claude Seo](https://trescout.com/discover/claude-seo/)
 - [Open Seo](https://trescout.com/discover/open-seo/)
 

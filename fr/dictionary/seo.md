@@ -42,8 +42,8 @@ Non, la qualité du contenu et les performances techniques du site sont désorma
 
 ## Outils liés
 
-- [Nuxt](https://trescout.com/fr/discover/nuxt/)
 - [Marketingskills](https://trescout.com/fr/discover/marketingskills/)
+- [Nuxt](https://trescout.com/fr/discover/nuxt/)
 - [Claude Seo](https://trescout.com/fr/discover/claude-seo/)
 - [Open Seo](https://trescout.com/fr/discover/open-seo/)
 

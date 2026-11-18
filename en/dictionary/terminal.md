@@ -74,8 +74,8 @@ The reader does not give commands. In commands that delete and write, the path a
 - [PI](https://trescout.com/en/discover/pi/)
 - [Gemini CLI](https://trescout.com/en/discover/gemini-cli/)
 - [Terminal](https://trescout.com/en/discover/terminal/)
-- [Cline](https://trescout.com/en/discover/cline/)
 - [Free Claude Code](https://trescout.com/en/discover/free-claude-code/)
+- [Cline](https://trescout.com/en/discover/cline/)
 - [Career Ops](https://trescout.com/en/discover/career-ops/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/terminal/)

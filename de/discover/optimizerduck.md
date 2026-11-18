@@ -2,16 +2,16 @@
 
 OptimiererDuck wurde in der C#-Sprache entwickelt und ist ein Open-Source-Tool, das Leistungssteigerungen und datenschutzorientierte Konfigurationen auf Windows-Betriebssystemen bietet. Diese Software, die es Benutzern ermöglicht, Systemeinstellungen zu vereinfachen, sammelt Windows-Optimierungsprozesse in einer einzigen Oberfläche.
 
-- ★ 11.428
+- ★ 12.650
 - C#
 - GitHub Trending · 2026-06-16
 
 ## Aktualisierungen
 
+- **18. November 2026:** Sterne 11,428 → 12,650, neueste Version v2.29.0 (7. Oktober 2026).
 - **10. November 2026:** Sterne 10,279 → 11,428, neueste Version v2.29.0 (7. Oktober 2026).
 - **7. Oktober 2026:** Sterne 10,063 → 10,279, neueste Version v2.29.0 (7. Oktober 2026).
 - **5. Oktober 2026:** Sterne 9,701 → 10,063, neueste Version v2.28.1 (4. Oktober 2026).
-- **27. September 2026:** Sterne 8,809 → 9,701, neueste Version v2.28.0 (21. September 2026).
 
 ## Was es bringt
 

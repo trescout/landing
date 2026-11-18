@@ -2,12 +2,13 @@
 
 Uptime Kuma is a self-hosted monitoring tool with a graphical interface. Allowing you to track the uptime of websites and services, this JavaScript-based application offers a user-friendly experience.
 
-- ★ 93,936
+- ★ 94,602
 - JavaScript
 - GitHub Trending · 2026-11-14
 
 ## Updates
 
+- **November 18, 2026:** Stars 93,936 → 94,602, latest release 2.5.12 (November 17, 2026).
 - **November 14, 2026:** Stars 93,934 → 93,936, latest release 2.5.11 (November 12, 2026).
 
 ## What you get

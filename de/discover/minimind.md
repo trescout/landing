@@ -2,12 +2,13 @@
 
 MiniMind bietet Tokenisierung, Vortraining, überwachte Feinabstimmung (SFT), LoRA- und DPO-Stufen mit bloßen PyTorch-Codes für Entwickler, die die Arbeitsprinzipien großer Sprachmodelle (LLM) verstehen möchten.
 
-- ★ 62.670
+- ★ 66.480
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Aktualisierungen
 
+- **18. November 2026:** Sterne 62,670 → 66,480, neueste Version v2 (21. Oktober 2025).
 - **27. September 2026:** Sterne 55,708 → 62,670, neueste Version v2 (21. Oktober 2025).
 
 ## Was es bringt

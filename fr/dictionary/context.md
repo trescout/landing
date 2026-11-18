@@ -80,8 +80,8 @@ En Go, le paramètre ctx context.Context empêche le gaspillage des ressources d
 
 - [REA](https://trescout.com/fr/discover/rea/)
 - [Servers](https://trescout.com/fr/discover/servers/)
-- [Goose](https://trescout.com/fr/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/fr/discover/chrome-devtools-mcp/)
+- [Goose](https://trescout.com/fr/discover/goose/)
 - [Context Mode](https://trescout.com/fr/discover/context-mode/)
 - [Openclaude](https://trescout.com/fr/discover/openclaude/)
 - [Code Review Graph](https://trescout.com/fr/discover/code-review-graph/)

@@ -2,16 +2,16 @@
 
 Coder is a platform that provides secure development environments for developers and AI agents. Thanks to its cloud-based infrastructure, it allows you to standardize coding processes and manage development environments centrally.
 
-- ★ 17,391
+- ★ 17,431
 - Go
 - GitHub Trending · 2026-09-18
 
 ## Updates
 
+- **November 18, 2026:** Stars 17,391 → 17,431, latest release v2.38.10 (November 16, 2026).
 - **November 16, 2026:** Stars 17,358 → 17,391, latest release v2.38.8 (November 16, 2026).
 - **November 10, 2026:** Stars 17,263 → 17,358, latest release v2.38.7 (November 10, 2026).
 - **November 4, 2026:** Stars 17,238 → 17,263, latest release v2.38.6 (November 3, 2026).
-- **October 31, 2026:** Stars 17,212 → 17,238, latest release v2.37.9 (October 30, 2026).
 
 ## What you get
 

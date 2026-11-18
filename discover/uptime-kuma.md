@@ -2,12 +2,13 @@
 
 Uptime Kuma, kendi sunucunuzda barındırabileceğiniz görsel arayüzlü bir izleme aracıdır. İnternet sitelerinin ve servislerin çalışma durumunu takip etmeyi sağlayan bu JavaScript tabanlı uygulama, kullanıcı dostu bir deneyim sunar.
 
-- ★ 93.936
+- ★ 94.602
 - JavaScript
 - GitHub Trending · 2026-11-14
 
 ## Güncelleme
 
+- **18 Kasım 2026:** Yıldız 93.936 → 94.602, son sürüm 2.5.12 (17 Kasım 2026).
 - **14 Kasım 2026:** Yıldız 93.934 → 93.936, son sürüm 2.5.11 (12 Kasım 2026).
 
 ## Ne kazandırır?

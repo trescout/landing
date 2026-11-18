@@ -42,8 +42,8 @@ Ao pesquisar documentos RAG, o gráfico de conhecimento mapeia as relações ló
 ## Ferramentas relacionadas
 
 - [Graphify](https://trescout.com/pt/discover/graphify/)
-- [Understand Anything](https://trescout.com/pt/discover/understand-anything/)
 - [Codegraph](https://trescout.com/pt/discover/codegraph/)
+- [Understand Anything](https://trescout.com/pt/discover/understand-anything/)
 - [GitNexus](https://trescout.com/pt/discover/gitnexus/)
 - [Codebase Memory MCP](https://trescout.com/pt/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/pt/discover/cognee/)

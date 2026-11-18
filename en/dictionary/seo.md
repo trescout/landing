@@ -42,8 +42,8 @@ No, content quality and technical performance of the site are now much more impo
 
 ## Related tools
 
-- [Nuxt](https://trescout.com/en/discover/nuxt/)
 - [Marketingskills](https://trescout.com/en/discover/marketingskills/)
+- [Nuxt](https://trescout.com/en/discover/nuxt/)
 - [Claude Seo](https://trescout.com/en/discover/claude-seo/)
 - [Open Seo](https://trescout.com/en/discover/open-seo/)
 

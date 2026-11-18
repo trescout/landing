@@ -42,8 +42,8 @@ Nein, die inhaltliche Qualität und die technische Leistung der Seite sind jetzt
 
 ## Verwandte Werkzeuge
 
-- [Nuxt](https://trescout.com/de/discover/nuxt/)
 - [Marketingskills](https://trescout.com/de/discover/marketingskills/)
+- [Nuxt](https://trescout.com/de/discover/nuxt/)
 - [Claude Seo](https://trescout.com/de/discover/claude-seo/)
 - [Open Seo](https://trescout.com/de/discover/open-seo/)
 

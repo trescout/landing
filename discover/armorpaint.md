@@ -2,12 +2,13 @@
 
 ArmorPaint, üç boyutlu modeller üzerinde gerçek zamanlı doku boyama işlemleri yapan bir grafik tasarım aracıdır. Yazılım, fizik tabanlı işleme (PBR) desteğiyle dijital sanatçılara karmaşık doku oluşturma süreçlerinde esneklik sağlar.
 
-- ★ 4.546
+- ★ 5.506
 - C
 - GitHub Trending · 2026-09-11
 
 ## Güncelleme
 
+- **18 Kasım 2026:** Yıldız 4.546 → 5.506, son sürüm 26.11 (18 Kasım 2026).
 - **11 Eylül 2026:** Yıldız 4.545 → 4.546, son sürüm 26.09 (3 Eylül 2026).
 
 ## Ne kazandırır?

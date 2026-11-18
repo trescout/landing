@@ -74,8 +74,8 @@ Okuyan komutlar vermez. Silen ve yazan komutlarda yol ve joker karakter iki kez 
 - [PI](https://trescout.com/discover/pi/)
 - [Gemini CLI](https://trescout.com/discover/gemini-cli/)
 - [Terminal](https://trescout.com/discover/terminal/)
-- [Cline](https://trescout.com/discover/cline/)
 - [Free Claude Code](https://trescout.com/discover/free-claude-code/)
+- [Cline](https://trescout.com/discover/cline/)
 - [Career Ops](https://trescout.com/discover/career-ops/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

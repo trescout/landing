@@ -88,8 +88,8 @@ Sein Design ist berechtigungsbasiert, Sie müssen jedoch den Zugriffsbereich des
 - [OpenCut](https://trescout.com/de/discover/opencut/)
 - [Servers](https://trescout.com/de/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/de/discover/ai-engineering-from-scratch/)
-- [Goose](https://trescout.com/de/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)
+- [Goose](https://trescout.com/de/discover/goose/)
 - [Claude Howto](https://trescout.com/de/discover/claude-howto/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/mcp/)

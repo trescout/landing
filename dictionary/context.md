@@ -82,8 +82,8 @@ Go'da ctx context.Context parametresi, bir HTTP isteği iptal edildiğinde veya 
 
 - [REA](https://trescout.com/discover/rea/)
 - [Servers](https://trescout.com/discover/servers/)
-- [Goose](https://trescout.com/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
+- [Goose](https://trescout.com/discover/goose/)
 - [Context Mode](https://trescout.com/discover/context-mode/)
 - [Openclaude](https://trescout.com/discover/openclaude/)
 - [Code Review Graph](https://trescout.com/discover/code-review-graph/)

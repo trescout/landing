@@ -42,8 +42,8 @@ Genellikle bir tarayıcı içinde veya bir çevirici katman aracılığıyla ça
 - [REA](https://trescout.com/discover/rea/)
 - [React](https://trescout.com/discover/react/)
 - [Meshery](https://trescout.com/discover/meshery/)
-- [Tinycast](https://trescout.com/discover/tinycast/)
 - [Stitch Skills](https://trescout.com/discover/stitch-skills/)
+- [Tinycast](https://trescout.com/discover/tinycast/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

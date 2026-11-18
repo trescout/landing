@@ -42,8 +42,8 @@ Es wird so genannt, weil es sich mathematisch um eine Netzwerkstruktur handelt, 
 ## Verwandte Werkzeuge
 
 - [Graphify](https://trescout.com/de/discover/graphify/)
-- [Understand Anything](https://trescout.com/de/discover/understand-anything/)
 - [Codegraph](https://trescout.com/de/discover/codegraph/)
+- [Understand Anything](https://trescout.com/de/discover/understand-anything/)
 - [GitNexus](https://trescout.com/de/discover/gitnexus/)
 - [Codebase Memory MCP](https://trescout.com/de/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/de/discover/cognee/)

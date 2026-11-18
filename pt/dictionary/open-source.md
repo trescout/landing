@@ -67,7 +67,7 @@ As empresas estabelecem modelos de negócios sustentáveis, oferecendo suporte t
 - [Claude Code](https://trescout.com/pt/discover/claude-code/)
 - [MoneyPrinterTurbo](https://trescout.com/pt/discover/moneyprinterturbo/)
 - [Free for Dev](https://trescout.com/pt/discover/free-for-dev/)
-- [claude-mem](https://trescout.com/pt/discover/claude-mem/)
+- [Taste Skill](https://trescout.com/pt/discover/taste-skill/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/open-source/)
 

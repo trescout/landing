@@ -2,16 +2,16 @@
 
 Ruby diliyle geliştirilen sure, herkesin kullanımına açık bir kişisel finans ve varlık yönetimi uygulamasıdır. Kullanıcıların finansal danışmanlarla (CFP/CFA) doğrudan bağlantı kurmasını sağlayan özellikler sunan bu proje, açık kaynaklı bir platform olarak tasarlanmıştır.
 
-- ★ 15.404
+- ★ 16.476
 - Ruby
 - GitHub Trending · 2026-11-10
 
 ## Güncelleme
 
+- **18 Kasım 2026:** Yıldız 15.404 → 16.476, son sürüm v0.7.6-hotfix.1 (12 Kasım 2026).
 - **15 Kasım 2026:** Yıldız 14.107 → 15.404, son sürüm v0.7.6-hotfix.1 (12 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 13.144 → 14.107, son sürüm v0.7.6-hotfix.1 (12 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 11.807 → 13.144, son sürüm v0.7.6 (31 Ekim 2026).
-- **10 Kasım 2026:** Yıldız 11.784 → 11.807, son sürüm v0.7.6 (31 Ekim 2026).
 
 ## Ne kazandırır?
 

@@ -62,8 +62,8 @@ No; hoy en día las imágenes (Vision Transformer), los archivos de audio (Whisp
 ## Herramientas relacionadas
 
 - [Minimind](https://trescout.com/es/discover/minimind/)
-- [Airllm](https://trescout.com/es/discover/airllm/)
 - [Heretic](https://trescout.com/es/discover/heretic/)
+- [Airllm](https://trescout.com/es/discover/airllm/)
 - [Train LLM from Scratch](https://trescout.com/es/discover/train-llm-from-scratch/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/transformer/)

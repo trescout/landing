@@ -2,12 +2,13 @@
 
 ArmorPaint est un outil de conception graphique permettant de peindre des textures en temps réel sur des modèles 3D. Le logiciel offre aux artistes numériques une flexibilité dans les processus complexes de création de textures grâce à la prise en charge du rendu basé sur la physique (PBR).
 
-- ★ 4 546
+- ★ 5 506
 - C
 - GitHub Trending · 2026-09-11
 
 ## Mises à jour
 
+- **18 novembre 2026:** Étoiles 4,546 → 5,506, dernière version 26.11 (18 novembre 2026).
 - **11 septembre 2026:** Étoiles 4,545 → 4,546, dernière version 26.09 (3 septembre 2026).
 
 ## Ce que ça vous apporte

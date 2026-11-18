@@ -2,16 +2,16 @@
 
 Openrig is a multi-agent infrastructure that combines Anthropic's coding tool Claude Code and OpenAI's coding model Codex into a single system. It allows developers to use different AI models simultaneously in the same workflow.
 
-- ★ 8,880
+- ★ 8,889
 - TypeScript
 - GitHub Trending · 2026-09-28
 
 ## Updates
 
+- **November 18, 2026:** Stars 8,880 → 8,889, latest release v0.7.18 (November 17, 2026).
 - **November 17, 2026:** Stars 8,865 → 8,880, latest release v0.7.17 (November 16, 2026).
 - **November 16, 2026:** Stars 8,854 → 8,865, latest release v0.7.16 (November 15, 2026).
 - **November 15, 2026:** Stars 8,843 → 8,854, latest release v0.7.15 (November 14, 2026).
-- **November 14, 2026:** Stars 8,835 → 8,843, latest release v0.7.14 (November 13, 2026).
 
 ## What you get
 

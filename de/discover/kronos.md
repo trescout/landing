@@ -2,17 +2,17 @@
 
 Kronos ist ein Grundlagenmodell zur Analyse der einzigartigen Muster der Finanzmärkte. Es konzentriert sich auf die Analyse der komplexen Struktur von Marktdaten und wird in quantitativen Finanz- und maschinellen Lernstudien eingesetzt.
 
-- ★ 45.666
+- ★ 47.975
 - Python
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Aktualisierungen
 
+- **18. November 2026:** Sterne 45,666 → 47,975.
 - **2. November 2026:** Sterne 43,374 → 45,666.
 - **23. Oktober 2026:** Sterne 41,288 → 43,374.
 - **19. Oktober 2026:** Sterne 39,218 → 41,288.
-- **19. September 2026:** Sterne 37,285 → 39,218.
 
 ## Installation
 

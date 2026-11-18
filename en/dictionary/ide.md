@@ -43,8 +43,8 @@ Some IDEs are focused on specific languages, while others can work in almost any
 
 ## Related tools
 
-- [Cline](https://trescout.com/en/discover/cline/)
 - [Free Claude Code](https://trescout.com/en/discover/free-claude-code/)
+- [Cline](https://trescout.com/en/discover/cline/)
 - [Oh My Pi](https://trescout.com/en/discover/oh-my-pi/)
 - [Continue](https://trescout.com/en/discover/continue/)
 - [Checkstyle](https://trescout.com/en/discover/checkstyle/)

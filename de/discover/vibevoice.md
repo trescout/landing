@@ -2,13 +2,14 @@
 
 VibeVoice wurde von Microsoft veröffentlicht und als Open-Source-Sprach-KI-Framework entwickelt. Mit seiner Python-basierten Struktur ermöglicht das System Benutzern, eigene Klangmodelle zu trainieren und in ihre Anwendungen zu integrieren.
 
-- ★ 54.502
+- ★ 57.270
 - GitHub Trending · 2026-06-07
 
 **Hinweis von TreScout:** Das Repository hat sich nach der Veröffentlichung geändert: Der Teil, der Ton in Text umwandelt, bleibt bestehen, der Teil, der Text in Ton umwandelt, wurde zurückgezogen. Sein besonderes Merkmal ist, dass es lange Datensätze auf einmal verarbeiten kann. Es handelt sich um ein sich schnell änderndes Projekt. Sehen Sie sich den aktuellen Zustand des Lagers an, bevor Sie es Ihrem Unternehmen hinzufügen.
 
 ## Aktualisierungen
 
+- **18. November 2026:** Sterne 54,502 → 57,270.
 - **27. September 2026:** Sterne 51,860 → 54,502.
 - **2. August 2026:** Sterne 48,569 → 51,860.
 

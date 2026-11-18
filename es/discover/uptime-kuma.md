@@ -2,12 +2,13 @@
 
 Uptime Kuma es una herramienta de monitoreo autohospedada con una interfaz visual. Esta aplicación basada en JavaScript, que permite realizar un seguimiento del estado operativo de sitios web y servicios, ofrece una experiencia fácil de usar.
 
-- ★ 93.936
+- ★ 94.602
 - JavaScript
 - GitHub Trending · 2026-11-14
 
 ## Actualizaciones
 
+- **18 de noviembre de 2026:** Estrellas 93,936 → 94,602, última versión 2.5.12 (17 de noviembre de 2026).
 - **14 de noviembre de 2026:** Estrellas 93,934 → 93,936, última versión 2.5.11 (12 de noviembre de 2026).
 
 ## Qué aporta

@@ -43,8 +43,8 @@ Einige IDEs konzentrieren sich auf bestimmte Sprachen, während andere dank Plug
 
 ## Verwandte Werkzeuge
 
-- [Cline](https://trescout.com/de/discover/cline/)
 - [Free Claude Code](https://trescout.com/de/discover/free-claude-code/)
+- [Cline](https://trescout.com/de/discover/cline/)
 - [Oh My Pi](https://trescout.com/de/discover/oh-my-pi/)
 - [Continue](https://trescout.com/de/discover/continue/)
 - [Checkstyle](https://trescout.com/de/discover/checkstyle/)
