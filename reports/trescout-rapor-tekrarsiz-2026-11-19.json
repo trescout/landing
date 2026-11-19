@@ -1,0 +1,699 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-19",
+  "capturedAt": "2026-11-19T05:43:18.309Z",
+  "editorial": "Rapora dahil edilen içerikler 30 gün boyunca tekrarlanmaz. Bu sürenin sonunda gündemde kalmaya devam eden kayıtlar, \"yeniden gündemde\" etiketiyle tekrar listelenir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor, kod düzenleme aracı Cursor için geliştirilen eklentilerin teknik standartlarını ve resmi eklentileri içeren bir depo sunuyor. TypeScript diliyle hazırlanan bu kaynak, geliştiricilerin platforma yönelik eklenti (plugin) geliştirme süreçlerini yapılandırmayı hedefliyor.",
+          "meta": "TypeScript · ★ 17.306 · +314 bugün",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 17306,
+              "engagementCount": 314,
+              "rank": 1,
+              "extra": {
+                "starsToday": 314
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          },
+          "returning": true
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything, çeşitli yazılımları yapay zekâ ajanlarının kullanımına uygun hale getirmeyi amaçlayan bir komut satırı arayüzü aracıdır. Pi, OpenClaw, nanobot, kod düzenleyici Cursor ve Claude Code gibi farklı platformlarla uyumlu çalışarak yazılım süreçlerini ajan tabanlı sistemlere entegre etmeyi sağlar.",
+          "meta": "Python · ★ 59.956 · +389 bugün",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 59956,
+              "engagementCount": 389,
+              "rank": 2,
+              "extra": {
+                "starsToday": 389,
+                "baglam": "readme"
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: One Command Line: Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch"
+          },
+          "returning": true
+        },
+        {
+          "title": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "summary": "nvm-sh/nvm, farklı Node.js sürümlerini komut satırı üzerinden hızlıca kurmanıza ve yönetmenize olanak tanıyan POSIX uyumlu bir bash betiğidir. Geliştiricilerin sistemlerinde birden fazla Node.js sürümünü eş zamanlı olarak aktif tutmalarını sağlar.",
+          "meta": "Shell · ★ 96.177 · +237 bugün",
+          "snapshot": {
+            "sourceId": "nvm-sh/nvm",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 96177,
+              "engagementCount": 237,
+              "rank": 6,
+              "extra": {
+                "starsToday": 237,
+                "baglam": "readme"
+              }
+            },
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. nvm allows you to quickly install and use different versions of node via the command line."
+          },
+          "returning": true
+        },
+        {
+          "title": "astral-sh/uv",
+          "url": "https://github.com/astral-sh/uv",
+          "summary": "Rust programlama diliyle geliştirilen uv, Python paketlerini ve projelerini yönetmek için tasarlanmış yüksek hızlı bir araçtır. Geleneksel paket yöneticilerine (pip, pip-tools) performans odaklı bir alternatif sunar.",
+          "meta": "Rust · ★ 92.286 · +258 bugün",
+          "snapshot": {
+            "sourceId": "astral-sh/uv",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 92286,
+              "engagementCount": 258,
+              "rank": 7,
+              "extra": {
+                "starsToday": 258,
+                "baglam": "readme"
+              }
+            },
+            "description": "An extremely fast Python package and project manager, written in Rust. An extremely fast Python package and project manager, written in Rust."
+          }
+        },
+        {
+          "title": "jquery/jquery",
+          "url": "https://github.com/jquery/jquery",
+          "summary": "jQuery, web sayfalarında etkileşimli öğeler oluşturmayı kolaylaştıran bir JavaScript kütüphanesidir. Geliştiricilerin belge nesne modeli (DOM) üzerinde işlem yapmasını ve olay yönetimini basitleştiren araçlar sunar.",
+          "meta": "JavaScript · ★ 60.037 · +266 bugün",
+          "snapshot": {
+            "sourceId": "jquery/jquery",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 60037,
+              "engagementCount": 266,
+              "rank": 11,
+              "extra": {
+                "starsToday": 266,
+                "baglam": "readme"
+              }
+            },
+            "description": "jQuery JavaScript Library. The latest version of jQuery is available at"
+          }
+        },
+        {
+          "title": "appwrite/appwrite",
+          "url": "https://github.com/appwrite/appwrite",
+          "summary": "Appwrite, geliştiriciler ve yapay zekâ ajanları için kimlik doğrulama, veritabanı, depolama ve barındırma gibi çeşitli araçları bir araya getiren açık kaynaklı bir bulut platformudur. TypeScript ile geliştirilen bu servis, uygulama geliştirme süreçlerini kolaylaştıran kapsamlı bir altyapı sunar.",
+          "meta": "TypeScript · ★ 58.282 · +232 bugün",
+          "snapshot": {
+            "sourceId": "appwrite/appwrite",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 58282,
+              "engagementCount": 232,
+              "rank": 12,
+              "extra": {
+                "starsToday": 232
+              }
+            },
+            "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more"
+          }
+        },
+        {
+          "title": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "summary": "OpenVINO, yapay zekâ modellerinin çıkarım (inference) süreçlerini optimize etmek ve dağıtmak için kullanılan açık kaynaklı (open source) bir araç takımıdır. C++ diliyle geliştirilen bu platform, modellerin farklı donanımlar üzerinde daha verimli çalışmasını sağlar.",
+          "meta": "C++ · ★ 11.383 · +24 bugün",
+          "snapshot": {
+            "sourceId": "openvinotoolkit/openvino",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 11383,
+              "engagementCount": 24,
+              "rank": 13,
+              "extra": {
+                "starsToday": 24,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference. Check out the OpenVINO Cheat Sheet and Key Features for a quick reference."
+          }
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n, görsel bir arayüz ile özel kod yazımını birleştiren ve yerel yapay zekâ yetenekleri sunan bir iş akışı otomasyon platformudur. 400'den fazla entegrasyon desteği bulunan bu platform, kullanıcılara kendi sunucularında veya bulut üzerinde çalışma imkânı sağlar.",
+          "meta": "TypeScript · ★ 211.198 · +325 bugün",
+          "snapshot": {
+            "sourceId": "n8n-io/n8n",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 211198,
+              "engagementCount": 325,
+              "rank": 17,
+              "extra": {
+                "starsToday": 325
+              }
+            },
+            "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+          },
+          "returning": true
+        },
+        {
+          "title": "solidjs/solid",
+          "url": "https://github.com/solidjs/solid",
+          "summary": "Solid, kullanıcı arayüzleri oluşturmak için kullanılan bildirimsel (declarative) bir JavaScript kütüphanesidir. Sanal belge nesne modeli (Virtual DOM) kullanmak yerine şablonları doğrudan gerçek belge nesne modeli (DOM) düğümlerine derleyerek ince taneli tepkisellik (fine-grained reactivity) ile güncellemeler yapar.",
+          "meta": "TypeScript · ★ 36.662 · +40 bugün",
+          "snapshot": {
+            "sourceId": "solidjs/solid",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 36662,
+              "engagementCount": 40,
+              "rank": 18,
+              "extra": {
+                "starsToday": 40,
+                "baglam": "readme"
+              }
+            },
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces. Solid is a declarative JavaScript library for building user interfaces. Instead of a Virtual DOM, it compiles templates to real DOM nodes and updates them with fine-grained reactivity. Declare your state and use it throughout your app — when a piece of state changes, only the code that depends on it re-runs."
+          }
+        },
+        {
+          "title": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "summary": "punkpeye/awesome-mcp-servers, Model Context Protocol (MCP) sunucularının derlendiği bir kaynak listesidir. Yapay zekâ modellerinin farklı veri kaynaklarıyla bağlantı kurmasını sağlayan bu protokol için geliştirilmiş çeşitli sunucu uygulamalarını bir araya getirir.",
+          "meta": "★ 98.113 · +53 bugün",
+          "snapshot": {
+            "sourceId": "punkpeye/awesome-mcp-servers",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "popularity": 98113,
+              "engagementCount": 53,
+              "rank": 19,
+              "extra": {
+                "starsToday": 53,
+                "baglam": "readme"
+              }
+            },
+            "description": "A collection of MCP servers. A curated list of awesome Model Context Protocol (MCP) servers."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Unauthenticated remote code execution in Nginx",
+          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "summary": "Web sunucusu yazılımı Nginx içerisinde kimlik doğrulaması gerektirmeyen uzaktan kod yürütme (remote code execution) zafiyetleri tespit edildi. Söz konusu açıklar CVE-2026-123633 ve CVE-2026-123007 kodlarıyla kayıt altına alındı.",
+          "meta": "1.251 oy · 541 yorum",
+          "snapshot": {
+            "sourceId": "50547374",
+            "capturedAt": "2026-11-19T05:43:18.658Z",
+            "metadata": {
+              "popularity": 1251,
+              "engagementCount": 541,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50547374",
+                  "popularity": 1251,
+                  "engagementCount": 541
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-18T15:19:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50547374"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123633https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123007"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50547374",
+              "popularity": 1251,
+              "engagementCount": 541
+            }
+          ]
+        },
+        {
+          "title": "Gemini 4 Neon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "summary": "Google, karmaşık kodlama ve analiz süreçlerinde yüksek seviyeli zekâ sunan yeni yapay zekâ modeli Gemini 4 Neon modelini duyurdu. Söz konusu model, daha düşük maliyetlerle ileri düzey performans sağlamayı hedefliyor.",
+          "meta": "640 oy · 553 yorum",
+          "snapshot": {
+            "sourceId": "50552424",
+            "capturedAt": "2026-11-19T05:43:18.658Z",
+            "metadata": {
+              "popularity": 640,
+              "engagementCount": 553,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50552424",
+                  "popularity": 640,
+                  "engagementCount": 553
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-18T21:34:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50552424",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Google introduces Gemini 4 Neon, delivering frontier-level intelligence for complex coding and analysis at a lower cost. See what's new."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50552424",
+              "popularity": 640,
+              "engagementCount": 553
+            }
+          ]
+        },
+        {
+          "title": "DNS resolvers are the wrong place to fight piracy",
+          "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+          "summary": "Kâr amacı gütmeyen DNS çözümleyicisi (DNS resolver) Quad9, Fransa'nın beIN Sports yayınlarına erişimi engelleme talebini yerine getirmemek adına bu ülkede hizmet vermeyi durdurdu. Söz konusu gelişme, halka açık DNS hizmetlerinin içerik engelleme aracı olarak kullanılmasının teknik ve hukuki sakıncalarını tartışmaya açıyor.",
+          "meta": "639 oy · 246 yorum",
+          "snapshot": {
+            "sourceId": "50545958",
+            "capturedAt": "2026-11-19T05:43:18.658Z",
+            "metadata": {
+              "popularity": 639,
+              "engagementCount": 246,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50545958",
+                  "popularity": 639,
+                  "engagementCount": 246
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-18T13:18:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50545958",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "On November 24, 2026, the non-profit DNS resolver Quad9 stops serving users in France rather than obey a beIN Sports blocking order. Here's what Quad9 is, how the French law got here, and why forcing public resolvers to block domains breaks more than it fixes."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50545958",
+              "popularity": 639,
+              "engagementCount": 246
+            }
+          ]
+        },
+        {
+          "title": "Inside Deutsche Bank",
+          "url": "https://www.inside-db.com/",
+          "summary": "Inside Deutsche Bank, küresel finans kuruluşu Deutsche Bank'ın iç işleyişini inceleyen kapsamlı bir araştırmayı paylaşıyor. Platform, bankanın faaliyetlerine dair detaylı bir inceleme sunuyor.",
+          "meta": "609 oy · 203 yorum",
+          "snapshot": {
+            "sourceId": "50547620",
+            "capturedAt": "2026-11-19T05:43:18.658Z",
+            "metadata": {
+              "popularity": 609,
+              "engagementCount": 203,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50547620",
+                  "popularity": 609,
+                  "engagementCount": 203
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-18T15:38:33Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50547620",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A major global investigation revealing the inner workings of the financial giant, Deutsche Bank."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50547620",
+              "popularity": 609,
+              "engagementCount": 203
+            }
+          ]
+        },
+        {
+          "title": "Seven new models at scalable price-performance",
+          "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "summary": "Microsoft, ölçeklenebilir fiyat ve performans odaklı yedi yeni yapay zekâ modelini duyurdu. Bu modeller, farklı kullanım senaryoları için maliyet ve verimlilik dengesi gözetilerek geliştirildi.",
+          "meta": "493 oy · 331 yorum",
+          "snapshot": {
+            "sourceId": "50548021",
+            "capturedAt": "2026-11-19T05:43:18.658Z",
+            "metadata": {
+              "popularity": 493,
+              "engagementCount": 331,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50548021",
+                  "popularity": 493,
+                  "engagementCount": 331
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-18T16:08:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50548021"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50548021",
+              "popularity": 493,
+              "engagementCount": 331
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+          "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+          "summary": "Hugging Face üzerinde paylaşılan harness-hub/Qwen3.8-27B-pi-adapted, yazılım geliştirme ve terminal görevleri için özelleştirilmiş bir görüntü-metin-metin (image-text-to-text) modelidir. Qwen/Qwen3.8-27B temel modeli üzerine düşük dereceli uyarlama (LoRA) yöntemiyle eğitilen bu yapı, pi kodlama ajanı için pekiştirmeli öğrenme (reinforcement learning) desteğiyle geliştirilmiştir.",
+          "meta": "♥ 611 · 377 indirme",
+          "snapshot": {
+            "sourceId": "harness-hub/Qwen3.8-27B-pi-adapted",
+            "capturedAt": "2026-11-19T05:43:18.448Z",
+            "metadata": {
+              "popularity": 611,
+              "engagementCount": 377,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 427,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "peft",
+                  "safetensors",
+                  "trl",
+                  "grpo",
+                  "async-grpo",
+                  "lora",
+                  "agents",
+                  "harbor",
+                  "openenv",
+                  "pi",
+                  "image-text-to-text",
+                  "conversational",
+                  "dataset:harness-hub/scale800-harbor",
+                  "dataset:harness-hub/harness-adapters",
+                  "dataset:harness-hub/termgrade-train-harbor",
+                  "dataset:ai-and/termgrade-environments",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. A LoRA adapter for Qwen/Qwen3.8-27B, trained with reinforcement learning to work as the model behind the pi coding agent on software-engineering and terminal tasks."
+          }
+        },
+        {
+          "title": "thinkingmachines/Inkling-2-Small",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+          "summary": "Hugging Face üzerinde paylaşılan thinkingmachines/Inkling-2-Small, metin ve görsel girdilerini işleyerek metin çıktıları üreten çok modlu (multimodal) bir yapay zekâ modelidir. İngilizce ve diğer dillerin yanı sıra çeşitli programlama dillerini de destekleyen bu genel amaçlı model, farklı veri türleri arasında etkileşim kurmayı hedefler.",
+          "meta": "♥ 503 · 30.082 indirme",
+          "snapshot": {
+            "sourceId": "thinkingmachines/Inkling-2-Small",
+            "capturedAt": "2026-11-19T05:43:18.448Z",
+            "metadata": {
+              "popularity": 503,
+              "engagementCount": 30082,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 369,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "inkling2",
+                  "image-text-to-text",
+                  "conversational",
+                  "moe",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "modelopt",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Inkling 2 Small is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages."
+          }
+        },
+        {
+          "title": "higurashi-ai/Haru-4B",
+          "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+          "summary": "higurashi-ai/Haru-4B, ses tabanlı etkileşimler için geliştirilmiş bir ses-sese (audio-to-audio) yapay zekâ modeli. Düşük gecikmeli ve çok dilli yapısıyla telefon görüşmelerindeki gibi eş zamanlı dinleme ve konuşma yeteneği sunan bu temel model, araştırma amaçlı kullanıma açık.",
+          "meta": "♥ 811 · 5.314 indirme",
+          "snapshot": {
+            "sourceId": "higurashi-ai/Haru-4B",
+            "capturedAt": "2026-11-19T05:43:18.448Z",
+            "metadata": {
+              "popularity": 811,
+              "engagementCount": 5314,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 276.5,
+                "pipelineTag": "audio-to-audio",
+                "tags": [
+                  "safetensors",
+                  "haru",
+                  "speech",
+                  "full-duplex",
+                  "speech-to-speech",
+                  "audio-to-audio",
+                  "en",
+                  "es",
+                  "pt",
+                  "de",
+                  "fr",
+                  "zh",
+                  "ja",
+                  "ru",
+                  "ko",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "audio-to-audio model. Haru-4B is a low-latency and multilingual full-duplex continuous spoken dialogue foundation model: it listens and speaks at the same time, the way people do on a phone call. It is a pretrained base model, released for research."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Late Entry in Looped Language Models",
+          "url": "https://huggingface.co/papers/2611.24576",
+          "summary": "Late Entry in Looped Language Models, döngüsel dil modellerinde (looped language models) çıkarım derinliğini artırmak için yeni bir yöntem öneriyor. Yeni belirteçlerin (tokens) ilk aşamaları atlayarak doğrudan son aşamalara girdiği bu strateji, hesaplama verimliliğini korurken modelin mantık yürütme kapasitesini derinleştirmeyi hedefliyor.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.24576",
+            "capturedAt": "2026-11-19T05:43:18.462Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.24576",
+                "publishedAt": "2026-11-18T00:00:00.000Z",
+                "githubRepo": "https://github.com/Xalp/LateComer"
+              }
+            },
+            "description": "Looped language models deepen reasoning at a compact parameter count by iterating a shared layer stack T times per token, turning recurrence depth directly into sequential decoding latency. Conventional early-exit decoding halts after initial passes without cache completion, truncating cached key-value states of past tokens to shallow depth. We study the opposite strategy, late entry, where new tokens skip initial passes and enter directly into the final K < T passes over a deep context cache. O"
+          }
+        },
+        {
+          "title": "RoughCut-Bench: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models",
+          "url": "https://huggingface.co/papers/2611.24098",
+          "summary": "RoughCut-Bench, medya üretim süreçlerinde ham görüntülerin ilk kurgu aşamasını otomatikleştirmek için geliştirilmiş bir değerlendirme aracıdır. Büyük görme-dil modellerinin (large vision-language models) video kurgu planları oluşturma yeteneklerini ölçmek amacıyla kapsamlı bir kıyaslama seti sunar.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.24098",
+            "capturedAt": "2026-11-19T05:43:18.462Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.24098",
+                "publishedAt": "2026-11-18T00:00:00.000Z",
+                "githubRepo": "https://github.com/Whalesong-zrs/RoughCut-Bench",
+                "githubStars": 1
+              }
+            },
+            "description": "Video rough-cut is a core stage in media production workflows, organizing raw media materials into an initial video cut. Despite recent advances in large vision-language models (LVLMs) for video-related tasks, automatic rough-cut remains underexplored, without a comprehensive benchmark for evaluation or mature workflows for producing executable cut plans. To address the evaluation gap, we introduce RoughCut-Bench, which covers two practical settings: (1) a visually driven setting over video case"
+          }
+        },
+        {
+          "title": "Out of Sight, Still in Mind: Token Compression for Omni-LLMs",
+          "url": "https://huggingface.co/papers/2607.21179",
+          "summary": "Hugging Face üzerinde yayımlanan makale, çok modlu büyük dil modellerinin (Omni-LLMs) çıkarım sırasındaki yüksek girdi maliyetlerini düşürmeyi hedefliyor. ReMo adlı eğitim gerektirmeyen çerçeve, görsel verilerdeki gereksiz bilgileri ayıklayıp diğer modlara dağıtarak görsel belirteçleri (tokens) sıkıştırmayı amaçlıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2607.21179",
+            "capturedAt": "2026-11-19T05:43:18.462Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2607.21179",
+                "publishedAt": "2026-11-17T00:00:00.000Z",
+                "githubRepo": "https://github.com/suho-yoo/ReMo",
+                "githubStars": 1
+              }
+            },
+            "description": "The goal of this paper is to reduce the input token cost of Omni-modal large language models (Omni-LLMs) at inference time. Omni-LLMs reason jointly over audio, video and text, but the cost of the three streams is highly unbalanced: visual tokens account for the vast majority of the input, and are highly redundant. In this paper, we propose ReMo, a training-free framework that compresses visual tokens by redistributing their information across modalities: a visual token is kept only if its infor"
+          }
+        },
+        {
+          "title": "DrawScore: Evaluating Generated CAD Models against Engineering Drawings",
+          "url": "https://huggingface.co/papers/2611.24681",
+          "summary": "DrawScore, bilgisayar destekli tasarım (CAD) modellerinin mühendislik çizimlerine göre değerlendirilmesi için geliştirilen bir yöntemdir. Mevcut metriklerin göz ardı ettiği küçük ölçekli yerel hataları tespit ederek üretim süreçleri için daha hassas bir doğrulama sunar.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.24681",
+            "capturedAt": "2026-11-19T05:43:18.462Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.24681",
+                "publishedAt": "2026-11-18T00:00:00.000Z",
+                "githubRepo": "https://github.com/UESTC-Simon/DrawScore",
+                "githubStars": 1
+              }
+            },
+            "description": "Automatic CAD generation is commonly evaluated with volumetric IoU, Chamfer Distance, and surface F-score, which barely penalize local errors that occupy only a small fraction of a part's volume or surface area, such as a misplaced hole or a slot on the wrong face, even though such errors are critical to manufacturing. We formalize these metrics in a unified integral form and show that the weight of a local error decays as the (k+q)-th power of its size, where k is the dimension of the integrati"
+          }
+        },
+        {
+          "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models",
+          "url": "https://huggingface.co/papers/2611.23824",
+          "summary": "Evidence-Based Credit Assignment for Search-Augmented Language Models, arama destekli dil modellerinde (search-augmented language models) sonuç odaklı ödüllendirme yönteminin yarattığı kredi atama sorununu ele alıyor. Çalışma, modelin bilgi toplama sürecindeki her adımı eşit değerlendirmek yerine, elde edilen kanıtların kalitesine göre kredi dağıtan yeni bir yaklaşım öneriyor.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.23824",
+            "capturedAt": "2026-11-19T05:43:18.462Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.23824",
+                "publishedAt": "2026-11-18T00:00:00.000Z"
+              }
+            },
+            "description": "Reinforcement learning from terminal answer rewards enables search-augmented language models to interleave reasoning and retrieval without step-level annotations, yet outcome supervision assigns identical credit to every search in a trajectory regardless of whether it retrieved useful information. This limitation is especially severe when all sampled rollouts for a question fail, collapsing group-centered outcome advantages to zero even when trajectories gather markedly different evidence. We pr"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "plugin",
+      "explanation": "Bir yazılımın mevcut özelliklerini genişletmek veya yeni işlevler eklemek için kullanılan küçük eklenti programları."
+    },
+    {
+      "term": "DOM",
+      "explanation": "Web sayfalarındaki içeriklerin tarayıcı tarafından işlenip yönetilmesini sağlayan hiyerarşik yapı."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin yeni veriler üzerinde tahmin veya analiz yapma süreci."
+    },
+    {
+      "term": "open source",
+      "explanation": "Kaynak kodları herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yazılım türü."
+    },
+    {
+      "term": "declarative",
+      "explanation": "Programcının ne yapılması gerektiğini belirttiği, nasıl yapılacağıyla ise yazılımın ilgilendiği bir kodlama yaklaşımı."
+    },
+    {
+      "term": "Virtual DOM",
+      "explanation": "Gerçek web sayfası yapısının bellekte tutulan hafif bir kopyası üzerinden güncellemeleri yöneten teknik."
+    },
+    {
+      "term": "fine-grained reactivity",
+      "explanation": "Bir web sayfasındaki veriler değiştiğinde sadece ilgili küçük parçanın güncellenmesini sağlayan hızlı tepki mekanizması."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynakları ve araçlarla standart bir şekilde haberleşmesini sağlayan protokol."
+    },
+    {
+      "term": "remote code execution",
+      "explanation": "Saldırganların bir sisteme uzaktan erişerek kendi istedikleri komutları çalıştırabilmesine olanak tanıyan güvenlik açığı."
+    },
+    {
+      "term": "DNS resolver",
+      "explanation": "İnternet sitelerinin isimlerini bilgisayarların anladığı sayısal adreslere çeviren sistem."
+    },
+    {
+      "term": "image-text-to-text",
+      "explanation": "Görsel ve metin verilerini aynı anda işleyerek bunlara dayalı metin tabanlı yanıtlar üretebilen yapay zekâ modeli."
+    }
+  ]
+}

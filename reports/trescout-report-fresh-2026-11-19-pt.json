@@ -1,0 +1,699 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-19",
+  "capturedAt": "2026-11-19T05:43:18.309Z",
+  "editorial": "Os conteúdos incluídos no relatório não são repetidos durante 30 dias. Após este período, os registos que continuam na agenda são listados novamente com a etiqueta \"novamente na agenda\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "O Cursor oferece um repositório contendo os padrões técnicos e os plugins oficiais desenvolvidos para a ferramenta de edição de código Cursor. Este recurso, preparado com a linguagem TypeScript, visa estruturar os processos de desenvolvimento de plugins para a plataforma.",
+          "meta": "TypeScript · ★ 17.306 · +314 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 17306,
+              "engagementCount": 314,
+              "rank": 1,
+              "extra": {
+                "starsToday": 314
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything é uma ferramenta de interface de linha de comando que visa tornar diversos softwares adequados para o uso por agentes de inteligência artificial. Ao trabalhar de forma compatível com diferentes plataformas como Pi, OpenClaw, nanobot, o editor de código Cursor e o Claude Code, permite integrar processos de software a sistemas baseados em agentes.",
+          "meta": "Python · ★ 59.956 · +389 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 59956,
+              "engagementCount": 389,
+              "rank": 2,
+              "extra": {
+                "starsToday": 389,
+                "baglam": "readme"
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: One Command Line: Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch"
+          }
+        },
+        {
+          "title": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "summary": "nvm-sh/nvm é um script bash compatível com POSIX que permite instalar e gerenciar rapidamente diferentes versões do Node.js via linha de comando. Ele permite que os desenvolvedores mantenham múltiplas versões do Node.js ativas simultaneamente em seus sistemas.",
+          "meta": "Shell · ★ 96.177 · +237 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "nvm-sh/nvm",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 96177,
+              "engagementCount": 237,
+              "rank": 6,
+              "extra": {
+                "starsToday": 237,
+                "baglam": "readme"
+              }
+            },
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. nvm allows you to quickly install and use different versions of node via the command line."
+          }
+        },
+        {
+          "title": "astral-sh/uv",
+          "url": "https://github.com/astral-sh/uv",
+          "summary": "Desenvolvido com a linguagem de programação Rust, o uv é uma ferramenta de alta velocidade projetada para gerenciar pacotes e projetos Python. Oferece uma alternativa focada em desempenho aos gerenciadores de pacotes tradicionais (pip, pip-tools).",
+          "meta": "Rust · ★ 92.286 · +258 hoje",
+          "snapshot": {
+            "sourceId": "astral-sh/uv",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 92286,
+              "engagementCount": 258,
+              "rank": 7,
+              "extra": {
+                "starsToday": 258,
+                "baglam": "readme"
+              }
+            },
+            "description": "An extremely fast Python package and project manager, written in Rust. An extremely fast Python package and project manager, written in Rust."
+          }
+        },
+        {
+          "title": "jquery/jquery",
+          "url": "https://github.com/jquery/jquery",
+          "summary": "jQuery é uma biblioteca JavaScript que facilita a criação de elementos interativos em páginas web. Oferece ferramentas que simplificam a manipulação do modelo de objeto de documento (DOM) e o gerenciamento de eventos para os desenvolvedores.",
+          "meta": "JavaScript · ★ 60.037 · +266 hoje",
+          "snapshot": {
+            "sourceId": "jquery/jquery",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 60037,
+              "engagementCount": 266,
+              "rank": 11,
+              "extra": {
+                "starsToday": 266,
+                "baglam": "readme"
+              }
+            },
+            "description": "jQuery JavaScript Library. The latest version of jQuery is available at"
+          }
+        },
+        {
+          "title": "appwrite/appwrite",
+          "url": "https://github.com/appwrite/appwrite",
+          "summary": "Appwrite é uma plataforma de nuvem de código aberto que reúne várias ferramentas para desenvolvedores e agentes de inteligência artificial, como autenticação, banco de dados, armazenamento e hospedagem. Desenvolvido com TypeScript, este serviço oferece uma infraestrutura abrangente que simplifica os processos de desenvolvimento de aplicações.",
+          "meta": "TypeScript · ★ 58.282 · +232 hoje",
+          "snapshot": {
+            "sourceId": "appwrite/appwrite",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 58282,
+              "engagementCount": 232,
+              "rank": 12,
+              "extra": {
+                "starsToday": 232
+              }
+            },
+            "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more"
+          }
+        },
+        {
+          "title": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "summary": "OpenVINO é um kit de ferramentas de código aberto usado para otimizar e implantar processos de inferência de modelos de inteligência artificial. Desenvolvida na linguagem C++, esta plataforma permite que os modelos funcionem de forma mais eficiente em diferentes hardwares.",
+          "meta": "C++ · ★ 11.383 · +24 hoje",
+          "snapshot": {
+            "sourceId": "openvinotoolkit/openvino",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 11383,
+              "engagementCount": 24,
+              "rank": 13,
+              "extra": {
+                "starsToday": 24,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference. Check out the OpenVINO Cheat Sheet and Key Features for a quick reference."
+          }
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n é uma plataforma de automação de fluxo de trabalho que combina uma interface visual com a escrita de código personalizado e oferece recursos de inteligência artificial local. Com suporte para mais de 400 integrações, esta plataforma oferece aos usuários a oportunidade de trabalhar em seus próprios servidores ou na nuvem.",
+          "meta": "TypeScript · ★ 211.198 · +325 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "n8n-io/n8n",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 211198,
+              "engagementCount": 325,
+              "rank": 17,
+              "extra": {
+                "starsToday": 325
+              }
+            },
+            "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+          }
+        },
+        {
+          "title": "solidjs/solid",
+          "url": "https://github.com/solidjs/solid",
+          "summary": "Solid é uma biblioteca JavaScript declarativa usada para criar interfaces de usuário. Em vez de usar um modelo de objeto de documento virtual (Virtual DOM), ele compila modelos diretamente em nós reais do modelo de objeto de documento (DOM), realizando atualizações com reatividade de granulação fina (fine-grained reactivity).",
+          "meta": "TypeScript · ★ 36.662 · +40 hoje",
+          "snapshot": {
+            "sourceId": "solidjs/solid",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 36662,
+              "engagementCount": 40,
+              "rank": 18,
+              "extra": {
+                "starsToday": 40,
+                "baglam": "readme"
+              }
+            },
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces. Solid is a declarative JavaScript library for building user interfaces. Instead of a Virtual DOM, it compiles templates to real DOM nodes and updates them with fine-grained reactivity. Declare your state and use it throughout your app — when a piece of state changes, only the code that depends on it re-runs."
+          }
+        },
+        {
+          "title": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "summary": "punkpeye/awesome-mcp-servers é uma lista de recursos que compila servidores do Protocolo de Contexto de Modelo (MCP). Reúne várias aplicações de servidor desenvolvidas para este protocolo, que permite que modelos de inteligência artificial se conectem a diferentes fontes de dados.",
+          "meta": "★ 98.113 · +53 hoje",
+          "snapshot": {
+            "sourceId": "punkpeye/awesome-mcp-servers",
+            "capturedAt": "2026-11-19T05:43:19.878Z",
+            "metadata": {
+              "popularity": 98113,
+              "engagementCount": 53,
+              "rank": 19,
+              "extra": {
+                "starsToday": 53,
+                "baglam": "readme"
+              }
+            },
+            "description": "A collection of MCP servers. A curated list of awesome Model Context Protocol (MCP) servers."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Unauthenticated remote code execution in Nginx",
+          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "summary": "Foram detectadas vulnerabilidades de execução remota de código (remote code execution) que não exigem autenticação no software de servidor web Nginx. As referidas falhas foram registradas com os códigos CVE-2026-123633 e CVE-2026-123007.",
+          "meta": "1.251 pontos · 541 comentários",
+          "snapshot": {
+            "sourceId": "50547374",
+            "capturedAt": "2026-11-19T05:43:18.658Z",
+            "metadata": {
+              "popularity": 1251,
+              "engagementCount": 541,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50547374",
+                  "popularity": 1251,
+                  "engagementCount": 541
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-18T15:19:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50547374"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123633https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123007"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50547374",
+              "popularity": 1251,
+              "engagementCount": 541
+            }
+          ]
+        },
+        {
+          "title": "Gemini 4 Neon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "summary": "O Google anunciou o Gemini 4 Neon, um novo modelo de inteligência artificial que oferece inteligência de alto nível em processos complexos de codificação e análise. O referido modelo visa proporcionar desempenho avançado com custos mais baixos.",
+          "meta": "640 pontos · 553 comentários",
+          "snapshot": {
+            "sourceId": "50552424",
+            "capturedAt": "2026-11-19T05:43:18.658Z",
+            "metadata": {
+              "popularity": 640,
+              "engagementCount": 553,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50552424",
+                  "popularity": 640,
+                  "engagementCount": 553
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-18T21:34:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50552424",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Google introduces Gemini 4 Neon, delivering frontier-level intelligence for complex coding and analysis at a lower cost. See what's new."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50552424",
+              "popularity": 640,
+              "engagementCount": 553
+            }
+          ]
+        },
+        {
+          "title": "DNS resolvers are the wrong place to fight piracy",
+          "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+          "summary": "O resolvedor de DNS sem fins lucrativos Quad9 parou de prestar serviços na França para não cumprir a solicitação de bloqueio de acesso às transmissões da beIN Sports naquele país. O desenvolvimento abre um debate sobre as desvantagens técnicas e jurídicas do uso de serviços de DNS públicos como ferramentas de bloqueio de conteúdo.",
+          "meta": "639 pontos · 246 comentários",
+          "snapshot": {
+            "sourceId": "50545958",
+            "capturedAt": "2026-11-19T05:43:18.658Z",
+            "metadata": {
+              "popularity": 639,
+              "engagementCount": 246,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50545958",
+                  "popularity": 639,
+                  "engagementCount": 246
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-18T13:18:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50545958",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "On November 24, 2026, the non-profit DNS resolver Quad9 stops serving users in France rather than obey a beIN Sports blocking order. Here's what Quad9 is, how the French law got here, and why forcing public resolvers to block domains breaks more than it fixes."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50545958",
+              "popularity": 639,
+              "engagementCount": 246
+            }
+          ]
+        },
+        {
+          "title": "Inside Deutsche Bank",
+          "url": "https://www.inside-db.com/",
+          "summary": "Inside Deutsche Bank compartilha uma pesquisa abrangente que examina o funcionamento interno da instituição financeira global Deutsche Bank. A plataforma oferece uma análise detalhada das operações do banco.",
+          "meta": "609 pontos · 203 comentários",
+          "snapshot": {
+            "sourceId": "50547620",
+            "capturedAt": "2026-11-19T05:43:18.658Z",
+            "metadata": {
+              "popularity": 609,
+              "engagementCount": 203,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50547620",
+                  "popularity": 609,
+                  "engagementCount": 203
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-18T15:38:33Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50547620",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "A major global investigation revealing the inner workings of the financial giant, Deutsche Bank."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50547620",
+              "popularity": 609,
+              "engagementCount": 203
+            }
+          ]
+        },
+        {
+          "title": "Seven new models at scalable price-performance",
+          "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "summary": "A Microsoft anunciou sete novos modelos de inteligência artificial focados em preço e desempenho escaláveis. Estes modelos foram desenvolvidos considerando o equilíbrio entre custo e eficiência para diferentes cenários de uso.",
+          "meta": "493 pontos · 331 comentários",
+          "snapshot": {
+            "sourceId": "50548021",
+            "capturedAt": "2026-11-19T05:43:18.658Z",
+            "metadata": {
+              "popularity": 493,
+              "engagementCount": 331,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50548021",
+                  "popularity": 493,
+                  "engagementCount": 331
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-18T16:08:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50548021"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50548021",
+              "popularity": 493,
+              "engagementCount": 331
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+          "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+          "summary": "O harness-hub/Qwen3.8-27B-pi-adapted, compartilhado no Hugging Face, é um modelo de imagem-texto-para-texto personalizado para desenvolvimento de software e tarefas de terminal. Treinado sobre o modelo base Qwen/Qwen3.8-27B através do método de adaptação de baixo posto (LoRA), esta estrutura foi desenvolvida com suporte a aprendizado por reforço para o agente de codificação pi.",
+          "meta": "♥ 611 · 377 downloads",
+          "snapshot": {
+            "sourceId": "harness-hub/Qwen3.8-27B-pi-adapted",
+            "capturedAt": "2026-11-19T05:43:18.448Z",
+            "metadata": {
+              "popularity": 611,
+              "engagementCount": 377,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 427,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "peft",
+                  "safetensors",
+                  "trl",
+                  "grpo",
+                  "async-grpo",
+                  "lora",
+                  "agents",
+                  "harbor",
+                  "openenv",
+                  "pi",
+                  "image-text-to-text",
+                  "conversational",
+                  "dataset:harness-hub/scale800-harbor",
+                  "dataset:harness-hub/harness-adapters",
+                  "dataset:harness-hub/termgrade-train-harbor",
+                  "dataset:ai-and/termgrade-environments",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. A LoRA adapter for Qwen/Qwen3.8-27B, trained with reinforcement learning to work as the model behind the pi coding agent on software-engineering and terminal tasks."
+          }
+        },
+        {
+          "title": "thinkingmachines/Inkling-2-Small",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+          "summary": "O thinkingmachines/Inkling-2-Small, compartilhado no Hugging Face, é um modelo de inteligência artificial multimodal que processa entradas de texto e imagem para gerar saídas de texto. Este modelo de propósito geral, que suporta inglês e outros idiomas, bem como várias linguagens de programação, visa estabelecer interação entre diferentes tipos de dados.",
+          "meta": "♥ 503 · 30.082 downloads",
+          "snapshot": {
+            "sourceId": "thinkingmachines/Inkling-2-Small",
+            "capturedAt": "2026-11-19T05:43:18.448Z",
+            "metadata": {
+              "popularity": 503,
+              "engagementCount": 30082,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 369,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "inkling2",
+                  "image-text-to-text",
+                  "conversational",
+                  "moe",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "modelopt",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Inkling 2 Small is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages."
+          }
+        },
+        {
+          "title": "higurashi-ai/Haru-4B",
+          "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+          "summary": "O higurashi-ai/Haru-4B é um modelo de inteligência artificial de áudio-para-áudio desenvolvido para interações baseadas em voz. Com sua estrutura de baixa latência e multilingue, este modelo base oferece a capacidade de ouvir e falar simultaneamente, como em chamadas telefônicas, e está disponível para fins de pesquisa.",
+          "meta": "♥ 811 · 5.314 downloads",
+          "snapshot": {
+            "sourceId": "higurashi-ai/Haru-4B",
+            "capturedAt": "2026-11-19T05:43:18.448Z",
+            "metadata": {
+              "popularity": 811,
+              "engagementCount": 5314,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 276.5,
+                "pipelineTag": "audio-to-audio",
+                "tags": [
+                  "safetensors",
+                  "haru",
+                  "speech",
+                  "full-duplex",
+                  "speech-to-speech",
+                  "audio-to-audio",
+                  "en",
+                  "es",
+                  "pt",
+                  "de",
+                  "fr",
+                  "zh",
+                  "ja",
+                  "ru",
+                  "ko",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "audio-to-audio model. Haru-4B is a low-latency and multilingual full-duplex continuous spoken dialogue foundation model: it listens and speaks at the same time, the way people do on a phone call. It is a pretrained base model, released for research."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Late Entry in Looped Language Models",
+          "url": "https://huggingface.co/papers/2611.24576",
+          "summary": "Late Entry in Looped Language Models propõe um novo método para aumentar a profundidade de inferência em modelos de linguagem em loop (looped language models). Esta estratégia, na qual novos tokens ignoram os estágios iniciais e entram diretamente nos estágios finais, visa aprofundar a capacidade de raciocínio do modelo enquanto mantém a eficiência computacional.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.24576",
+            "capturedAt": "2026-11-19T05:43:18.462Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.24576",
+                "publishedAt": "2026-11-18T00:00:00.000Z",
+                "githubRepo": "https://github.com/Xalp/LateComer"
+              }
+            },
+            "description": "Looped language models deepen reasoning at a compact parameter count by iterating a shared layer stack T times per token, turning recurrence depth directly into sequential decoding latency. Conventional early-exit decoding halts after initial passes without cache completion, truncating cached key-value states of past tokens to shallow depth. We study the opposite strategy, late entry, where new tokens skip initial passes and enter directly into the final K < T passes over a deep context cache. O"
+          }
+        },
+        {
+          "title": "RoughCut-Bench: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models",
+          "url": "https://huggingface.co/papers/2611.24098",
+          "summary": "O RoughCut-Bench é uma ferramenta de avaliação desenvolvida para automatizar a fase inicial de edição de imagens brutas em processos de produção de mídia. Ele oferece um conjunto de referência abrangente para medir as capacidades de grandes modelos de visão-linguagem (large vision-language models) na criação de planos de edição de vídeo.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.24098",
+            "capturedAt": "2026-11-19T05:43:18.462Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.24098",
+                "publishedAt": "2026-11-18T00:00:00.000Z",
+                "githubRepo": "https://github.com/Whalesong-zrs/RoughCut-Bench",
+                "githubStars": 1
+              }
+            },
+            "description": "Video rough-cut is a core stage in media production workflows, organizing raw media materials into an initial video cut. Despite recent advances in large vision-language models (LVLMs) for video-related tasks, automatic rough-cut remains underexplored, without a comprehensive benchmark for evaluation or mature workflows for producing executable cut plans. To address the evaluation gap, we introduce RoughCut-Bench, which covers two practical settings: (1) a visually driven setting over video case"
+          }
+        },
+        {
+          "title": "Out of Sight, Still in Mind: Token Compression for Omni-LLMs",
+          "url": "https://huggingface.co/papers/2607.21179",
+          "summary": "O artigo publicado no Hugging Face visa reduzir os altos custos de entrada durante a inferência de grandes modelos de linguagem multimodais (Omni-LLMs). A estrutura sem treinamento chamada ReMo visa comprimir tokens visuais filtrando informações desnecessárias nos dados visuais e distribuindo-as para outros modos.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2607.21179",
+            "capturedAt": "2026-11-19T05:43:18.462Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2607.21179",
+                "publishedAt": "2026-11-17T00:00:00.000Z",
+                "githubRepo": "https://github.com/suho-yoo/ReMo",
+                "githubStars": 1
+              }
+            },
+            "description": "The goal of this paper is to reduce the input token cost of Omni-modal large language models (Omni-LLMs) at inference time. Omni-LLMs reason jointly over audio, video and text, but the cost of the three streams is highly unbalanced: visual tokens account for the vast majority of the input, and are highly redundant. In this paper, we propose ReMo, a training-free framework that compresses visual tokens by redistributing their information across modalities: a visual token is kept only if its infor"
+          }
+        },
+        {
+          "title": "DrawScore: Evaluating Generated CAD Models against Engineering Drawings",
+          "url": "https://huggingface.co/papers/2611.24681",
+          "summary": "O DrawScore é um método desenvolvido para a avaliação de modelos de design assistido por computador (CAD) de acordo com desenhos de engenharia. Ele oferece uma validação mais precisa para processos de produção ao detectar erros locais de pequena escala que as métricas atuais ignoram.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.24681",
+            "capturedAt": "2026-11-19T05:43:18.462Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.24681",
+                "publishedAt": "2026-11-18T00:00:00.000Z",
+                "githubRepo": "https://github.com/UESTC-Simon/DrawScore",
+                "githubStars": 1
+              }
+            },
+            "description": "Automatic CAD generation is commonly evaluated with volumetric IoU, Chamfer Distance, and surface F-score, which barely penalize local errors that occupy only a small fraction of a part's volume or surface area, such as a misplaced hole or a slot on the wrong face, even though such errors are critical to manufacturing. We formalize these metrics in a unified integral form and show that the weight of a local error decays as the (k+q)-th power of its size, where k is the dimension of the integrati"
+          }
+        },
+        {
+          "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models",
+          "url": "https://huggingface.co/papers/2611.23824",
+          "summary": "Evidence-Based Credit Assignment for Search-Augmented Language Models aborda o problema de atribuição de crédito criado pelo método de recompensa focado em resultados em modelos de linguagem aumentados por busca (search-augmented language models). O estudo propõe uma nova abordagem que distribui crédito com base na qualidade das evidências obtidas, em vez de avaliar cada passo no processo de coleta de informações do modelo igualmente.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.23824",
+            "capturedAt": "2026-11-19T05:43:18.462Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.23824",
+                "publishedAt": "2026-11-18T00:00:00.000Z"
+              }
+            },
+            "description": "Reinforcement learning from terminal answer rewards enables search-augmented language models to interleave reasoning and retrieval without step-level annotations, yet outcome supervision assigns identical credit to every search in a trajectory regardless of whether it retrieved useful information. This limitation is especially severe when all sampled rollouts for a question fail, collapsing group-centered outcome advantages to zero even when trajectories gather markedly different evidence. We pr"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "plugin",
+      "explanation": "Pequenos programas de extensão usados para expandir os recursos existentes de um software ou adicionar novas funcionalidades."
+    },
+    {
+      "term": "DOM",
+      "explanation": "Estrutura hierárquica que permite que o conteúdo das páginas da web seja processado e gerenciado pelo navegador."
+    },
+    {
+      "term": "inference",
+      "explanation": "O processo de um modelo de inteligência artificial treinado realizar previsões ou análises sobre novos dados."
+    },
+    {
+      "term": "open source",
+      "explanation": "Tipo de software cujo código-fonte está aberto para que qualquer pessoa possa examinar, modificar e melhorar."
+    },
+    {
+      "term": "declarative",
+      "explanation": "Uma abordagem de codificação onde o programador especifica o que deve ser feito, enquanto o software cuida de como isso será realizado."
+    },
+    {
+      "term": "Virtual DOM",
+      "explanation": "Técnica que gerencia atualizações através de uma cópia leve da estrutura real da página da web mantida na memória."
+    },
+    {
+      "term": "fine-grained reactivity",
+      "explanation": "Mecanismo de resposta rápida que permite que apenas a pequena parte relevante seja atualizada quando os dados em uma página da web mudam."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Protocolo que permite que modelos de inteligência artificial se comuniquem de forma padronizada com diferentes fontes de dados e ferramentas."
+    },
+    {
+      "term": "remote code execution",
+      "explanation": "Vulnerabilidade de segurança que permite que invasores acessem um sistema remotamente e executem seus próprios comandos."
+    },
+    {
+      "term": "DNS resolver",
+      "explanation": "Sistema que traduz nomes de sites para endereços numéricos que os computadores entendem."
+    },
+    {
+      "term": "image-text-to-text",
+      "explanation": "Modelo de inteligência artificial capaz de processar dados visuais e de texto simultaneamente para gerar respostas baseadas neles."
+    }
+  ]
+}
