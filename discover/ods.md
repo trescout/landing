@@ -2,12 +2,13 @@
 
 Açık kaynaklı Osmantic/ODS, kişisel donanımınız üzerinde çalışan yerel büyük dil modeli çıkarımı, vektör arama tabanlı RAG boru hatları ve otonom ajan iş akışları kurmanızı sağlar.
 
-- ★ 6.854
+- ★ 7.854
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
 
+- **19 Kasım 2026:** Yıldız 6.854 → 7.854, son sürüm v3.0.0 (24 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 5.181 → 6.854, son sürüm v3.0.0 (24 Eylül 2026).
 
 ## Ne kazandırır?

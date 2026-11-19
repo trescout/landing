@@ -2,11 +2,12 @@
 
 pookjw/HermesEnabler est un logiciel qui permet d'utiliser les cadrans de montre Hermès sur toutes les Apple Watch disposant de versions watchOS compatibles. Cet outil, qui peut être compilé sur macOS avec Xcode ou installé à l'aide d'outils de chargement d'applications tels que Sideloadly, nécessite une Apple Watch jumelée à un iPhone.
 
-- ★ 2 025
+- ★ 2 207
 - GitHub Trending · 2026-11-13
 
 ## Mises à jour
 
+- **19 novembre 2026:** Étoiles 2,025 → 2,207, dernière version 1.6.3 (19 novembre 2026).
 - **16 novembre 2026:** Étoiles 1,617 → 2,025, dernière version 1.6.2 (16 novembre 2026).
 - **13 novembre 2026:** Étoiles 1,613 → 1,617, dernière version 1.5.4 (13 novembre 2026).
 

@@ -63,8 +63,8 @@ Home mesh kits are typically installed in minutes with a mobile app. Corporate o
 - [Bitchat](https://trescout.com/en/discover/bitchat/)
 - [Meshery](https://trescout.com/en/discover/meshery/)
 - [Tailcat](https://trescout.com/en/discover/tailcat/)
-- [Meshoptimizer](https://trescout.com/en/discover/meshoptimizer/)
 - [Modly](https://trescout.com/en/discover/modly/)
+- [Meshoptimizer](https://trescout.com/en/discover/meshoptimizer/)
 - [Bitchat Android](https://trescout.com/en/discover/bitchat-android/)
 - [Spirula Studio](https://trescout.com/en/discover/spirula-studio/)
 

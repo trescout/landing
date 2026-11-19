@@ -2,16 +2,16 @@
 
 AiSOC ist ein Open-Source-KI-Sicherheitszentrum zur Automatisierung von Sicherheitsoperationen. Das Tool, das Warnungen mithilfe großer Sprachmodelle (LLMs) klassifiziert und Untersuchungen im Rahmen des MITRE ATT&CK-Frameworks durchführt, kann ohne API-Schlüssel auf Ihrem eigenen Server ausgeführt werden.
 
-- ★ 8.225
+- ★ 8.312
 - Python
 - GitHub Trending · 2026-11-02
 
 ## Aktualisierungen
 
+- **19. November 2026:** Sterne 8,225 → 8,312, neueste Version v23.5.2 (19. November 2026).
 - **18. November 2026:** Sterne 7,586 → 8,225, neueste Version v23.5.1 (18. November 2026).
 - **13. November 2026:** Sterne 7,383 → 7,586, neueste Version v23.4.0 (13. November 2026).
 - **12. November 2026:** Sterne 7,105 → 7,383, neueste Version v23.2.0 (12. November 2026).
-- **10. November 2026:** Sterne 7,296 → 7,105, neueste Version v23.1.0 (10. November 2026).
 
 ## Was es bringt
 

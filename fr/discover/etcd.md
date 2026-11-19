@@ -2,12 +2,13 @@
 
 etcd est un magasin clé-valeur fiable conçu pour stocker les données critiques dans les systèmes distribués. Développé en Go, ce système se concentre sur la garantie de la cohérence des données au sein des architectures distribuées.
 
-- ★ 52 633
+- ★ 52 625
 - Go
 - GitHub Trending · 2026-11-07
 
 ## Mises à jour
 
+- **19 novembre 2026:** Étoiles 52,633 → 52,625, dernière version v3.7.4 (19 novembre 2026).
 - **7 novembre 2026:** Étoiles 52,633 → 52,633, dernière version v3.7.3 (22 octobre 2026).
 
 ## Ce que ça vous apporte

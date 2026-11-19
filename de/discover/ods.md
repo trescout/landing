@@ -2,12 +2,13 @@
 
 Mit der Open-Source-Lösung Osmantic/ODS können Sie native große Sprachmodellinferenzen, auf der Vektorsuche basierende RAG-Pipelines und autonome Agenten-Workflows einrichten, die auf Ihrer persönlichen Hardware ausgeführt werden.
 
-- ★ 6.854
+- ★ 7.854
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Aktualisierungen
 
+- **19. November 2026:** Sterne 6,854 → 7,854, neueste Version v3.0.0 (24. September 2026).
 - **27. September 2026:** Sterne 5,181 → 6,854, neueste Version v3.0.0 (24. September 2026).
 
 ## Was es bringt

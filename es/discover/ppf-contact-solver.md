@@ -9,10 +9,10 @@ PPF Contact Solver, como motor de física de ZOZO, está diseñado para resolver
 
 ## Actualizaciones
 
+- **19 de noviembre de 2026:** Estrellas 4,614 → 4,614, última versión addon-2026-11-19-0614 (18 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 4,609 → 4,614, última versión addon-2026-11-18-1430 (18 de noviembre de 2026).
 - **17 de noviembre de 2026:** Estrellas 4,609 → 4,609, última versión addon-2026-11-17-1637 (17 de noviembre de 2026).
 - **17 de noviembre de 2026:** Estrellas 4,600 → 4,609, última versión addon-2026-11-16-2204 (16 de noviembre de 2026).
-- **10 de noviembre de 2026:** Estrellas 4,599 → 4,600, última versión 2026-11-10-19-11 (10 de noviembre de 2026).
 
 ## Instalación
 

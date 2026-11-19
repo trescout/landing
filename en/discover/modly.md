@@ -2,16 +2,16 @@
 
 Modly is a desktop application that creates 3D models from images and performs all operations on the local graphics card (GPU). This tool, which works without the need for an internet connection, brings the artificial intelligence-supported modeling process to personal computers.
 
-- ★ 7,930
+- ★ 8,712
 - TypeScript
 - GitHub Trending · 2026-08-14
 
 ## Updates
 
+- **November 19, 2026:** Stars 7,930 → 8,712, latest release v0.5.0 (November 18, 2026).
 - **October 5, 2026:** Stars 7,347 → 7,930, latest release v0.4.3 (October 4, 2026).
 - **August 31, 2026:** Stars 7,132 → 7,347, latest release v0.4.2 (August 28, 2026).
 - **August 22, 2026:** Stars 6,115 → 7,132, latest release v0.4.1 (July 16, 2026).
-- **August 15, 2026:** Stars 5,550 → 6,115, latest release v0.4.1 (July 16, 2026).
 
 ## What you get
 

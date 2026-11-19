@@ -10905,5 +10905,61 @@
     "kisa_es": "Infraestructura de software que permite a múltiples agentes de inteligencia artificial cooperar entre sí para resolver tareas complejas.",
     "kisa_pt": "É uma infraestrutura de software que permite que vários agentes de inteligência artificial cooperem entre si para resolver tarefas complexas.",
     "kisa_de": "Eine Software-Infrastruktur, die es mehreren KI-Agenten ermöglicht, zusammenzuarbeiten, um komplexe Aufgaben zu lösen."
+  },
+  {
+    "slug": "dom",
+    "en": "DOM",
+    "full": "Document Object Model",
+    "cat": "dev",
+    "kisa": "Web sayfalarındaki içeriklerin tarayıcı tarafından işlenip yönetilmesini sağlayan hiyerarşik yapı.",
+    "date": "2026-11-19",
+    "kisa_en": "The hierarchical structure that allows content on web pages to be processed and managed by the browser.",
+    "kisa_fr": "La structure hiérarchique qui permet au navigateur de traiter et de gérer le contenu des pages web.",
+    "kisa_es": "Estructura jerárquica que permite que el contenido de las páginas web sea procesado y gestionado por el navegador.",
+    "kisa_pt": "A estrutura hierárquica que permite que o conteúdo das páginas da web seja processado e gerenciado pelo navegador."
+  },
+  {
+    "slug": "declarative",
+    "en": "Declarative",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Programcının ne yapılması gerektiğini belirttiği ama nasıl yapılacağıyla yazılımın ilgilendiği kodlama yaklaşımı.",
+    "date": "2026-11-19",
+    "kisa_en": "A coding approach where the programmer specifies what needs to be done, but the software handles how it is done.",
+    "kisa_fr": "Approche de codage où le programmeur spécifie ce qui doit être fait, mais où le logiciel s'occupe de la manière dont cela est réalisé.",
+    "kisa_es": "Un enfoque de programación donde el programador especifica qué se debe hacer, pero el software se encarga de cómo hacerlo."
+  },
+  {
+    "slug": "virtual-dom",
+    "en": "Virtual DOM",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Gerçek web sayfası yapısının bellekte tutulan hafif bir kopyası üzerinden güncellemeleri yöneten teknik.",
+    "date": "2026-11-19",
+    "kisa_en": "A technique that manages updates via a lightweight copy of the actual web page structure kept in memory.",
+    "kisa_fr": "Technique qui gère les mises à jour via une copie légère de la structure réelle de la page web conservée en mémoire.",
+    "kisa_es": "Una técnica que gestiona las actualizaciones a través de una copia ligera de la estructura real de la página web almacenada en la memoria."
+  },
+  {
+    "slug": "fine-grained-reactivity",
+    "en": "Fine-grained Reactivity",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir web sayfasındaki veriler değiştiğinde sadece ilgili küçük parçanın güncellenmesini sağlayan hızlı tepki mekanizması.",
+    "date": "2026-11-19",
+    "kisa_en": "A fast response mechanism that ensures only the relevant small part is updated when data on a web page changes.",
+    "kisa_fr": "Mécanisme de réaction rapide qui permet de mettre à jour uniquement la petite partie concernée lorsque les données d'une page web changent.",
+    "kisa_es": "Un mecanismo de respuesta rápida que permite actualizar solo la pequeña parte relevante cuando los datos en una página web cambian."
+  },
+  {
+    "slug": "dns-resolver",
+    "en": "DNS Resolver",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet sitelerinin isimlerini bilgisayarların anladığı sayısal adreslere çeviren sistem.",
+    "date": "2026-11-19",
+    "kisa_en": "A system that translates website names into numerical addresses that computers understand.",
+    "kisa_fr": "Système qui traduit les noms des sites internet en adresses numériques compréhensibles par les ordinateurs.",
+    "kisa_es": "El sistema que traduce los nombres de los sitios web a direcciones numéricas que las computadoras pueden entender."
   }
 ]

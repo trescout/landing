@@ -19,8 +19,8 @@ Um das Projekt zu verwenden, können Sie vorgefertigte Dateien von der Registerk
 ## Verwandte Begriffe aus dem Glossar
 
 - [Emulator](https://trescout.com/de/dictionary/emulator/)
-- [CPU](https://trescout.com/de/dictionary/cpu/)
 - [SDK](https://trescout.com/de/dictionary/sdk/)
+- [CPU](https://trescout.com/de/dictionary/cpu/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Forscher, die sich für Systemarchitektur und Low-Level-Softwareentwicklung interessieren, sowie für Softwareentwickler, die Forschung zu Bildungszwecken durchführen möchten.

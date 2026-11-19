@@ -9,10 +9,10 @@ PPF Contact Solver, as ZOZO's physics engine, is designed to solve contacts betw
 
 ## Updates
 
+- **November 19, 2026:** Stars 4,614 → 4,614, latest release addon-2026-11-19-0614 (November 18, 2026).
 - **November 18, 2026:** Stars 4,609 → 4,614, latest release addon-2026-11-18-1430 (November 18, 2026).
 - **November 17, 2026:** Stars 4,609 → 4,609, latest release addon-2026-11-17-1637 (November 17, 2026).
 - **November 17, 2026:** Stars 4,600 → 4,609, latest release addon-2026-11-16-2204 (November 16, 2026).
-- **November 10, 2026:** Stars 4,599 → 4,600, latest release 2026-11-10-19-11 (November 10, 2026).
 
 ## Installation
 

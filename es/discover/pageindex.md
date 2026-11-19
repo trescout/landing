@@ -2,16 +2,16 @@
 
 PageIndex es una herramienta de indexación de documentos que funciona con capacidad de razonamiento sin necesidad de métodos de búsqueda basados en vectores. En lugar de bases de datos vectoriales tradicionales (Vector Databases), optimiza los procesos de RAG (Generación Aumentada por Recuperación) utilizando inferencia lógica basada en texto.
 
-- ★ 40.475
+- ★ 40.480
 - Python
 - GitHub Trending · 2026-09-29
 
 ## Actualizaciones
 
+- **19 de noviembre de 2026:** Estrellas 40,475 → 40,480, última versión v0.7.2 (19 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 40,448 → 40,475, última versión v0.7.1 (17 de noviembre de 2026).
 - **16 de noviembre de 2026:** Estrellas 40,410 → 40,448, última versión v0.7.0 (15 de noviembre de 2026).
 - **14 de noviembre de 2026:** Estrellas 40,059 → 40,410, última versión v0.6.0 (14 de noviembre de 2026).
-- **6 de noviembre de 2026:** Estrellas 39,990 → 40,059, última versión v0.5.3 (5 de noviembre de 2026).
 
 ## Qué aporta
 

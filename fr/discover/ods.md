@@ -2,12 +2,13 @@
 
 Osmantic/ODS open source vous permet de configurer une inférence de modèle de langage étendu natif, des pipelines RAG basés sur la recherche vectorielle et des flux de travail d'agent autonomes exécutés sur votre matériel personnel.
 
-- ★ 6 854
+- ★ 7 854
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Mises à jour
 
+- **19 novembre 2026:** Étoiles 6,854 → 7,854, dernière version v3.0.0 (24 septembre 2026).
 - **27 septembre 2026:** Étoiles 5,181 → 6,854, dernière version v3.0.0 (24 septembre 2026).
 
 ## Ce que ça vous apporte

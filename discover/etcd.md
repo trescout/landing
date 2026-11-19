@@ -2,12 +2,13 @@
 
 etcd, dağıtık sistemlerdeki kritik verileri depolamak için tasarlanmış güvenilir bir anahtar-değer (key-value) deposudur. Go diliyle geliştirilen bu sistem, dağıtık yapılar içinde veri tutarlılığını sağlamaya odaklanır.
 
-- ★ 52.633
+- ★ 52.625
 - Go
 - GitHub Trending · 2026-11-07
 
 ## Güncelleme
 
+- **19 Kasım 2026:** Yıldız 52.633 → 52.625, son sürüm v3.7.4 (19 Kasım 2026).
 - **7 Kasım 2026:** Yıldız 52.633 → 52.633, son sürüm v3.7.3 (22 Ekim 2026).
 
 ## Ne kazandırır?

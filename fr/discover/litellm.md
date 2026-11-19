@@ -2,16 +2,16 @@
 
 LiteLLM est une passerelle IA (AI gateway) qui unifie plus de 100 interfaces de grands modèles de langage (LLM) dans un format standard unique. Il facilite la transition entre différents fournisseurs de modèles pour les développeurs en offrant des fonctionnalités telles que le suivi des coûts, la répartition de charge et des garde-fous (guardrails).
 
-- ★ 63 495
+- ★ 63 517
 - Python
 - GitHub Trending · 2026-10-09
 
 ## Mises à jour
 
+- **19 novembre 2026:** Étoiles 63,495 → 63,517, dernière version v1.110.1 (19 novembre 2026).
 - **18 novembre 2026:** Étoiles 63,137 → 63,495, dernière version v1.110.0 (18 novembre 2026).
 - **12 novembre 2026:** Étoiles 63,090 → 63,137, dernière version v1.109.1 (12 novembre 2026).
 - **11 novembre 2026:** Étoiles 63,017 → 63,090, dernière version v1.109.0 (11 novembre 2026).
-- **10 novembre 2026:** Étoiles 62,888 → 63,017, dernière version v1.108.4 (9 novembre 2026).
 
 ## Ce que ça vous apporte
 

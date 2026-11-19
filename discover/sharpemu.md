@@ -28,8 +28,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Emulator](https://trescout.com/dictionary/emulator/)
-- [CPU](https://trescout.com/dictionary/cpu/)
 - [SDK](https://trescout.com/dictionary/sdk/)
+- [CPU](https://trescout.com/dictionary/cpu/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

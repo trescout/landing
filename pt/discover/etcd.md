@@ -2,12 +2,13 @@
 
 O etcd é um repositório chave-valor confiável, projetado para armazenar dados críticos em sistemas distribuídos. Desenvolvido em Go, este sistema foca em garantir a consistência de dados em estruturas distribuídas.
 
-- ★ 52.633
+- ★ 52.625
 - Go
 - GitHub Trending · 2026-11-07
 
 ## Atualizações
 
+- **19 de novembro de 2026:** Estrelas 52,633 → 52,625, versão mais recente v3.7.4 (19 de novembro de 2026).
 - **7 de novembro de 2026:** Estrelas 52,633 → 52,633, versão mais recente v3.7.3 (22 de outubro de 2026).
 
 ## O que você ganha

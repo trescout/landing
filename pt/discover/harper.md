@@ -2,16 +2,16 @@
 
 Harper oferece um verificador gramatical offline e voltado para a privacidade, desenvolvido com a linguagem Rust. Esta ferramenta de código aberto visa criar uma alternativa segura e de alto desempenho em processos de análise de texto.
 
-- ★ 17.692
+- ★ 17.846
 - Rust
 - GitHub Trending · 2026-07-24
 
 ## Atualizações
 
+- **19 de novembro de 2026:** Estrelas 17,692 → 17,846, versão mais recente v3.3.0 (18 de novembro de 2026).
 - **14 de novembro de 2026:** Estrelas 17,455 → 17,692, versão mais recente v3.2.0 (13 de novembro de 2026).
 - **7 de novembro de 2026:** Estrelas 17,161 → 17,455, versão mais recente v3.1.0 (6 de novembro de 2026).
 - **27 de outubro de 2026:** Estrelas 16,582 → 17,161, versão mais recente v3.0.0 (27 de outubro de 2026).
-- **17 de outubro de 2026:** Estrelas 16,098 → 16,582, versão mais recente v2.13.0 (16 de outubro de 2026).
 
 ## O que você ganha
 

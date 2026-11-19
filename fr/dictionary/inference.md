@@ -47,7 +47,6 @@ Non, le modèle fait uniquement des prédictions en utilisant les informations d
 - [LTX 2](https://trescout.com/fr/discover/ltx-2/)
 - [Magnitude](https://trescout.com/fr/discover/magnitude/)
 - [Stable Diffusion.cpp](https://trescout.com/fr/discover/stable-diffusion-cpp/)
-- [Model-Optimizer](https://trescout.com/fr/discover/model-optimizer/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/inference/)
 

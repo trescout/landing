@@ -11136,6 +11136,7 @@
  "Web projelerinizi Rust hızında derleyin": "Crie seus projetos web na velocidade Rust",
  "Web sayfaları üzerinde test otomasyonu yapmak veya veri toplamak isteyen yazılım geliştiriciler için uygundur.": "É adequado para desenvolvedores de software que desejam realizar testes automatizados ou coletar dados em páginas da web.",
  "Web sayfalarında otomatik test süreçleri oluşturur": "Cria processos de teste automáticos em páginas da web",
+ "Web sayfalarındaki içeriklerin tarayıcı tarafından işlenip yönetilmesini sağlayan hiyerarşik yapı.": "A estrutura hierárquica que permite que o conteúdo das páginas da web seja processado e gerenciado pelo navegador.",
  "Web sayfalarından yapılandırılmış veri çıkarır": "Extrai dados estruturados de páginas da web",
  "Web sayfalarını 9 kata kadar daha hızlı işleyerek veri kazıma süreçlerini hızlandırır.": "Acelera os processos de web scraping ao processar páginas da web até 9 vezes mais rápido.",
  "Web sayfalarını güncel tutmak için DOM yapısını cerrahi yöntemle günceller": "Atualiza cirurgicamente a estrutura do DOM para manter as páginas da web atualizadas",

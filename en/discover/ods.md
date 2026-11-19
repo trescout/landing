@@ -2,12 +2,13 @@
 
 Open-source Osmantic/ODS allows you to build local large language model inference running on your personal hardware, vector search-based RAG pipelines, and autonomous agent workflows.
 
-- ★ 6,854
+- ★ 7,854
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Updates
 
+- **November 19, 2026:** Stars 6,854 → 7,854, latest release v3.0.0 (September 24, 2026).
 - **September 27, 2026:** Stars 5,181 → 6,854, latest release v3.0.0 (September 24, 2026).
 
 ## What you get

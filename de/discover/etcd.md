@@ -2,12 +2,13 @@
 
 etcd ist ein zuverlässiger Key-Value-Speicher, der für die Speicherung kritischer Daten in verteilten Systemen entwickelt wurde. Dieses in der Programmiersprache Go entwickelte System konzentriert sich darauf, die Datenkonsistenz innerhalb verteilter Architekturen sicherzustellen.
 
-- ★ 52.633
+- ★ 52.625
 - Go
 - GitHub Trending · 2026-11-07
 
 ## Aktualisierungen
 
+- **19. November 2026:** Sterne 52,633 → 52,625, neueste Version v3.7.4 (19. November 2026).
 - **7. November 2026:** Sterne 52,633 → 52,633, neueste Version v3.7.3 (22. Oktober 2026).
 
 ## Was es bringt

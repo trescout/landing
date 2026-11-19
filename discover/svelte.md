@@ -66,6 +66,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Compile-time](https://trescout.com/dictionary/compile-time/)
+- [DOM](https://trescout.com/dictionary/dom/)
 - [Runtime](https://trescout.com/dictionary/runtime/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

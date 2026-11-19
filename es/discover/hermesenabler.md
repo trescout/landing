@@ -2,11 +2,12 @@
 
 pookjw/HermesEnabler es un software que hace que las esferas de reloj Hermès estén disponibles en todos los dispositivos Apple Watch con versiones de watchOS compatibles. Esta herramienta, que se puede compilar con Xcode en macOS o instalar con herramientas de carga de aplicaciones como Sideloadly, requiere un Apple Watch enlazado a un iPhone.
 
-- ★ 2.025
+- ★ 2.207
 - GitHub Trending · 2026-11-13
 
 ## Actualizaciones
 
+- **19 de noviembre de 2026:** Estrellas 2,025 → 2,207, última versión 1.6.3 (19 de noviembre de 2026).
 - **16 de noviembre de 2026:** Estrellas 1,617 → 2,025, última versión 1.6.2 (16 de noviembre de 2026).
 - **13 de noviembre de 2026:** Estrellas 1,613 → 1,617, última versión 1.5.4 (13 de noviembre de 2026).
 

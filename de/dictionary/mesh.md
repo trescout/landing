@@ -63,8 +63,8 @@ Mesh-Kits für den Heimgebrauch werden in der Regel innerhalb weniger Minuten ü
 - [Bitchat](https://trescout.com/de/discover/bitchat/)
 - [Meshery](https://trescout.com/de/discover/meshery/)
 - [Tailcat](https://trescout.com/de/discover/tailcat/)
-- [Meshoptimizer](https://trescout.com/de/discover/meshoptimizer/)
 - [Modly](https://trescout.com/de/discover/modly/)
+- [Meshoptimizer](https://trescout.com/de/discover/meshoptimizer/)
 - [Bitchat Android](https://trescout.com/de/discover/bitchat-android/)
 - [Spirula Studio](https://trescout.com/de/discover/spirula-studio/)
 

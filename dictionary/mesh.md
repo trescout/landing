@@ -63,8 +63,8 @@ Ev tipi mesh kitleri genellikle mobil uygulamayla dakikalar içinde kurulur. Kur
 - [Bitchat](https://trescout.com/discover/bitchat/)
 - [Meshery](https://trescout.com/discover/meshery/)
 - [Tailcat](https://trescout.com/discover/tailcat/)
-- [Meshoptimizer](https://trescout.com/discover/meshoptimizer/)
 - [Modly](https://trescout.com/discover/modly/)
+- [Meshoptimizer](https://trescout.com/discover/meshoptimizer/)
 - [Bitchat Android](https://trescout.com/discover/bitchat-android/)
 - [Spirula Studio](https://trescout.com/discover/spirula-studio/)
 

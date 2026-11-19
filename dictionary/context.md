@@ -81,13 +81,13 @@ Go'da ctx context.Context parametresi, bir HTTP isteği iptal edildiğinde veya 
 ## İlgili araçlar
 
 - [REA](https://trescout.com/discover/rea/)
+- [Awesome MCP Servers](https://trescout.com/discover/awesome-mcp-servers/)
 - [Servers](https://trescout.com/discover/servers/)
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
 - [Goose](https://trescout.com/discover/goose/)
 - [Context Mode](https://trescout.com/discover/context-mode/)
 - [Openclaude](https://trescout.com/discover/openclaude/)
 - [Code Review Graph](https://trescout.com/discover/code-review-graph/)
-- [Fastmcp](https://trescout.com/discover/fastmcp/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

@@ -19,8 +19,8 @@ To use the project, you can download ready-made files from the 'Releases' tab on
 ## Related dictionary terms
 
 - [Emulator](https://trescout.com/en/dictionary/emulator/)
-- [CPU](https://trescout.com/en/dictionary/cpu/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
+- [CPU](https://trescout.com/en/dictionary/cpu/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for researchers interested in system architecture and low-level software development and for software developers who want to conduct research for educational purposes.

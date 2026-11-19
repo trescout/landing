@@ -2,12 +2,13 @@
 
 etcd is a reliable key-value store designed to store critical data in distributed systems. Developed in Go, this system focuses on ensuring data consistency within distributed architectures.
 
-- ★ 52,633
+- ★ 52,625
 - Go
 - GitHub Trending · 2026-11-07
 
 ## Updates
 
+- **November 19, 2026:** Stars 52,633 → 52,625, latest release v3.7.4 (November 19, 2026).
 - **November 7, 2026:** Stars 52,633 → 52,633, latest release v3.7.3 (October 22, 2026).
 
 ## What you get

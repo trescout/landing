@@ -2,12 +2,13 @@
 
 O Osmantic/ODS de código aberto permite-lhe configurar inferência de grandes modelos de linguagem locais, pipelines de RAG baseados em pesquisa vetorial e fluxos de trabalho de agentes autónomos executados no seu próprio hardware.
 
-- ★ 6.854
+- ★ 7.854
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Atualizações
 
+- **19 de novembro de 2026:** Estrelas 6,854 → 7,854, versão mais recente v3.0.0 (24 de setembro de 2026).
 - **27 de setembro de 2026:** Estrelas 5,181 → 6,854, versão mais recente v3.0.0 (24 de setembro de 2026).
 
 ## O que você ganha

@@ -2,12 +2,13 @@
 
 etcd es un almacén de clave-valor confiable diseñado para almacenar datos críticos en sistemas distribuidos. Desarrollado en el lenguaje Go, este sistema se centra en garantizar la consistencia de los datos dentro de arquitecturas distribuidas.
 
-- ★ 52.633
+- ★ 52.625
 - Go
 - GitHub Trending · 2026-11-07
 
 ## Actualizaciones
 
+- **19 de noviembre de 2026:** Estrellas 52,633 → 52,625, última versión v3.7.4 (19 de noviembre de 2026).
 - **7 de noviembre de 2026:** Estrellas 52,633 → 52,633, última versión v3.7.3 (22 de octubre de 2026).
 
 ## Qué aporta

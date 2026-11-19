@@ -51,6 +51,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [User Interface](https://trescout.com/dictionary/user-interface/)
+- [DOM](https://trescout.com/dictionary/dom/)
 - [GUI](https://trescout.com/dictionary/gui/)
 - [Interface](https://trescout.com/dictionary/interface/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
