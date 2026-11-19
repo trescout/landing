@@ -55,6 +55,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Compile-time](https://trescout.com/es/dictionary/compile-time/)
+- [DOM](https://trescout.com/es/dictionary/dom/)
 - [Runtime](https://trescout.com/es/dictionary/runtime/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

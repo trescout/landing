@@ -42,6 +42,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [User Interface](https://trescout.com/fr/dictionary/user-interface/)
+- [DOM](https://trescout.com/fr/dictionary/dom/)
 - [GUI](https://trescout.com/fr/dictionary/gui/)
 - [Interface](https://trescout.com/fr/dictionary/interface/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

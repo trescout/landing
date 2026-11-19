@@ -51,6 +51,7 @@ To start using Argo CD, you can visit the official documentation page and follow
 
 - [Declarative Continuous Deployment](https://trescout.com/en/dictionary/declarative-continuous-deployment/)
 - [Continuous Deployment](https://trescout.com/en/dictionary/continuous-deployment/)
+- [Declarative](https://trescout.com/en/dictionary/declarative/)
 - [Deployment](https://trescout.com/en/dictionary/deployment/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

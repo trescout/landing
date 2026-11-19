@@ -44,6 +44,7 @@ Nein, das Modell trifft Vorhersagen nur anhand der ihm zur Verfügung stehenden 
 - [Vllm](https://trescout.com/de/discover/vllm/)
 - [BitNet](https://trescout.com/de/discover/bitnet/)
 - [Ds4](https://trescout.com/de/discover/ds4/)
+- [Openvino](https://trescout.com/de/discover/openvino/)
 - [LTX 2](https://trescout.com/de/discover/ltx-2/)
 - [Magnitude](https://trescout.com/de/discover/magnitude/)
 - [Stable Diffusion.cpp](https://trescout.com/de/discover/stable-diffusion-cpp/)

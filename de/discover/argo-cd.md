@@ -51,6 +51,7 @@ Um mit der Verwendung der Argo-CD zu beginnen, können Sie die offizielle Dokume
 
 - [Declarative Continuous Deployment](https://trescout.com/de/dictionary/declarative-continuous-deployment/)
 - [Continuous Deployment](https://trescout.com/de/dictionary/continuous-deployment/)
+- [Declarative](https://trescout.com/de/dictionary/declarative/)
 - [Deployment](https://trescout.com/de/dictionary/deployment/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

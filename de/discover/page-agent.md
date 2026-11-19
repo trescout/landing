@@ -42,6 +42,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [User Interface](https://trescout.com/de/dictionary/user-interface/)
+- [DOM](https://trescout.com/de/dictionary/dom/)
 - [GUI](https://trescout.com/de/dictionary/gui/)
 - [Interface](https://trescout.com/de/dictionary/interface/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

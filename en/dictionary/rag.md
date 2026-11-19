@@ -70,7 +70,7 @@ You will need document parsers, text fragmentation tools, an embedding model, a 
 - [AI Agent Book](https://trescout.com/en/discover/ai-agent-book/)
 - [GitNexus](https://trescout.com/en/discover/gitnexus/)
 - [OpenViking](https://trescout.com/en/discover/openviking/)
-- [AI Engineering Hub](https://trescout.com/en/discover/ai-engineering-hub/)
+- [PageIndex](https://trescout.com/en/discover/pageindex/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rag/)
 

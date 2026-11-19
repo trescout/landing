@@ -10916,7 +10916,8 @@
     "kisa_en": "The hierarchical structure that allows content on web pages to be processed and managed by the browser.",
     "kisa_fr": "La structure hiérarchique qui permet au navigateur de traiter et de gérer le contenu des pages web.",
     "kisa_es": "Estructura jerárquica que permite que el contenido de las páginas web sea procesado y gestionado por el navegador.",
-    "kisa_pt": "A estrutura hierárquica que permite que o conteúdo das páginas da web seja processado e gerenciado pelo navegador."
+    "kisa_pt": "A estrutura hierárquica que permite que o conteúdo das páginas da web seja processado e gerenciado pelo navegador.",
+    "kisa_de": "Hierarchische Struktur, die die Verarbeitung und Verwaltung von Inhalten auf Webseiten durch den Browser ermöglicht."
   },
   {
     "slug": "declarative",
@@ -10927,7 +10928,9 @@
     "date": "2026-11-19",
     "kisa_en": "A coding approach where the programmer specifies what needs to be done, but the software handles how it is done.",
     "kisa_fr": "Approche de codage où le programmeur spécifie ce qui doit être fait, mais où le logiciel s'occupe de la manière dont cela est réalisé.",
-    "kisa_es": "Un enfoque de programación donde el programador especifica qué se debe hacer, pero el software se encarga de cómo hacerlo."
+    "kisa_es": "Un enfoque de programación donde el programador especifica qué se debe hacer, pero el software se encarga de cómo hacerlo.",
+    "kisa_pt": "Abordagem de programação na qual o programador especifica o que precisa ser feito, mas o software cuida de como fazê-lo.",
+    "kisa_de": "Ein Programmieransatz, bei dem der Programmierer angibt, was getan werden muss, aber die Software sich darum kümmert, wie es gemacht wird."
   },
   {
     "slug": "virtual-dom",
@@ -10938,7 +10941,9 @@
     "date": "2026-11-19",
     "kisa_en": "A technique that manages updates via a lightweight copy of the actual web page structure kept in memory.",
     "kisa_fr": "Technique qui gère les mises à jour via une copie légère de la structure réelle de la page web conservée en mémoire.",
-    "kisa_es": "Una técnica que gestiona las actualizaciones a través de una copia ligera de la estructura real de la página web almacenada en la memoria."
+    "kisa_es": "Una técnica que gestiona las actualizaciones a través de una copia ligera de la estructura real de la página web almacenada en la memoria.",
+    "kisa_pt": "Técnica que gerencia atualizações por meio de uma cópia leve da estrutura da página web real mantida em memória.",
+    "kisa_de": "Eine Technik, die Aktualisierungen über eine im Speicher gehaltene, leichtgewichtige Kopie der tatsächlichen Webseitenstruktur verwaltet."
   },
   {
     "slug": "fine-grained-reactivity",
@@ -10949,7 +10954,9 @@
     "date": "2026-11-19",
     "kisa_en": "A fast response mechanism that ensures only the relevant small part is updated when data on a web page changes.",
     "kisa_fr": "Mécanisme de réaction rapide qui permet de mettre à jour uniquement la petite partie concernée lorsque les données d'une page web changent.",
-    "kisa_es": "Un mecanismo de respuesta rápida que permite actualizar solo la pequeña parte relevante cuando los datos en una página web cambian."
+    "kisa_es": "Un mecanismo de respuesta rápida que permite actualizar solo la pequeña parte relevante cuando los datos en una página web cambian.",
+    "kisa_pt": "Mecanismo de resposta rápida que garante que apenas a pequena parte relevante seja atualizada quando os dados de uma página web mudam.",
+    "kisa_de": "Ein schneller Reaktionsmechanismus, der dafür sorgt, dass nur der relevante kleine Teil aktualisiert wird, wenn sich Daten auf einer Webseite ändern."
   },
   {
     "slug": "dns-resolver",
@@ -10960,6 +10967,8 @@
     "date": "2026-11-19",
     "kisa_en": "A system that translates website names into numerical addresses that computers understand.",
     "kisa_fr": "Système qui traduit les noms des sites internet en adresses numériques compréhensibles par les ordinateurs.",
-    "kisa_es": "El sistema que traduce los nombres de los sitios web a direcciones numéricas que las computadoras pueden entender."
+    "kisa_es": "El sistema que traduce los nombres de los sitios web a direcciones numéricas que las computadoras pueden entender.",
+    "kisa_pt": "Sistema que converte os nomes dos sites de internet em endereços numéricos que os computadores entendem.",
+    "kisa_de": "Ein System, das die Namen von Websites in numerische Adressen umwandelt, die Computer verstehen."
   }
 ]

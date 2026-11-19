@@ -3775,14 +3775,14 @@
     "slug": "flclash",
     "title": "FlClash",
     "tagline": "ClashMeta tabanlı, çok platformlu, reklamsız ve açık kaynak proxy istemcisi.",
-    "meta": "★ 64.011 · GPL-3.0",
+    "meta": "★ 64.058 · GPL-3.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 64011,
+    "stars": 64058,
     "image": "/assets/discover/og/flclash.webp",
     "headline": "Açık kaynaklı modern proxy istemcisi",
     "last_review": "2026-11-19",
@@ -3870,6 +3870,13 @@
         "onceki_yildiz": 60912,
         "surum": "v0.9.3",
         "surum_tarihi": "2026-11-04"
+      },
+      {
+        "tarih": "2026-11-19",
+        "yildiz": 64058,
+        "onceki_yildiz": 64011,
+        "surum": "v0.9.4",
+        "surum_tarihi": "2026-11-19"
       }
     ],
     "tagline_en": "Multi-platform, ad-free and open source proxy client based on ClashMeta.",
@@ -18386,7 +18393,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 86.644 · TypeScript",
+    "meta": "★ 86.710 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -18394,7 +18401,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 86644,
+    "stars": 86710,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-11-19",
@@ -19175,6 +19182,13 @@
         "onceki_yildiz": 86477,
         "surum": "v0.9.69",
         "surum_tarihi": "2026-11-18"
+      },
+      {
+        "tarih": "2026-11-19",
+        "yildiz": 86710,
+        "onceki_yildiz": 86644,
+        "surum": "v0.9.70",
+        "surum_tarihi": "2026-11-19"
       }
     ],
     "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.",
@@ -27103,14 +27117,14 @@
     "slug": "bun",
     "title": "BUN",
     "tagline": "Bun, JavaScript çalışma zamanı (runtime), paket yöneticisi, test çalıştırıcı ve paketleyiciyi tek bir çatı altında toplayan…",
-    "meta": "★ 96.343 · Rust",
+    "meta": "★ 96.751 · Rust",
     "image": "/assets/discover/og/bun.webp",
     "source": "GitHub",
     "date": "2026-07-11",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 96343,
+    "stars": 96751,
     "lite": false,
     "headline": "JavaScript projeleri için hızlı çalışma zamanı",
     "last_review": "2026-11-19",
@@ -27156,6 +27170,13 @@
         "onceki_yildiz": 96169,
         "surum": "bun-v1.4.4",
         "surum_tarihi": "2026-10-22"
+      },
+      {
+        "tarih": "2026-11-19",
+        "yildiz": 96751,
+        "onceki_yildiz": 96343,
+        "surum": "bun-v1.4.5",
+        "surum_tarihi": "2026-11-19"
       }
     ],
     "tagline_en": "It brings together the JavaScript runtime, package manager, test runner and packager under one roof.",
@@ -46934,14 +46955,14 @@
     "slug": "ruflo",
     "title": "Ruflo",
     "tagline": "Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.",
-    "meta": "★ 82.043 · TypeScript",
+    "meta": "★ 82.070 · TypeScript",
     "image": "/assets/discover/og/ruflo.webp",
     "source": "GitHub",
     "date": "2026-08-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 82043,
+    "stars": 82070,
     "lite": false,
     "headline": "Yapay zekâ ajanları için orkestrasyon katmanı",
     "last_review": "2026-11-19",
@@ -47344,6 +47365,13 @@
         "onceki_yildiz": 81656,
         "surum": "v3.77.2",
         "surum_tarihi": "2026-11-17"
+      },
+      {
+        "tarih": "2026-11-19",
+        "yildiz": 82070,
+        "onceki_yildiz": 82043,
+        "surum": "v3.78.0",
+        "surum_tarihi": "2026-11-19"
       }
     ],
     "tagline_en": "Ruflo is an agent orchestration layer for deploying intelligent agent swarms, coordinating autonomous workflows, and building conversational AI systems.",
@@ -48243,7 +48271,7 @@
     "slug": "n8n",
     "title": "N8n",
     "tagline": "n8n, görsel canvas, özel kod ve yapay zekâ ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
-    "meta": "★ 211.008",
+    "meta": "★ 211.306",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -48251,7 +48279,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 211008,
+    "stars": 211306,
     "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
     "headline": "Görsel iş akışları ve yapay zekâ otomasyonu",
     "lite": false,
@@ -48761,6 +48789,13 @@
         "onceki_yildiz": 210427,
         "surum": "n8n@2.48.5",
         "surum_tarihi": "2026-11-18"
+      },
+      {
+        "tarih": "2026-11-19",
+        "yildiz": 211306,
+        "onceki_yildiz": 211008,
+        "surum": "n8n@2.48.6",
+        "surum_tarihi": "2026-11-19"
       }
     ],
     "last_review": "2026-11-19",
@@ -59657,7 +59692,7 @@
     "slug": "openrig",
     "title": "Openrig",
     "tagline": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan…",
-    "meta": "★ 8.889 · TypeScript",
+    "meta": "★ 8.892 · TypeScript",
     "image": "/assets/discover/og/openrig.webp",
     "source": "GitHub",
     "date": "2026-09-28",
@@ -59665,7 +59700,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8889,
+    "stars": 8892,
     "last_seen": "2026-10-03",
     "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
     "lite": false,
@@ -59909,6 +59944,13 @@
         "onceki_yildiz": 8880,
         "surum": "v0.7.18",
         "surum_tarihi": "2026-11-17"
+      },
+      {
+        "tarih": "2026-11-19",
+        "yildiz": 8892,
+        "onceki_yildiz": 8889,
+        "surum": "v0.7.19",
+        "surum_tarihi": "2026-11-19"
       }
     ],
     "tagline_en": "Openrig, a multi-agent… combining Anthropic's coding tool Claude Code and OpenAI's coding model Codex into a single system",
@@ -60358,14 +60400,14 @@
     "slug": "pageindex",
     "title": "PageIndex",
     "tagline": "PageIndex, vektör tabanlı arama yöntemlerine ihtiyaç duymadan akıl yürütme yeteneğiyle çalışan bir belge indeksleme aracıdır.",
-    "meta": "★ 40.480 · Python",
+    "meta": "★ 40.483 · Python",
     "image": "/assets/discover/og/pageindex.webp",
     "source": "GitHub",
     "date": "2026-09-29",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 40480,
+    "stars": 40483,
     "last_seen": "2026-10-01",
     "summary": "PageIndex, vektör tabanlı arama yöntemlerine ihtiyaç duymadan akıl yürütme yeteneğiyle çalışan bir belge indeksleme aracıdır. Geleneksel vektör veritabanları (Vector Databases) yerine metin tabanlı mantıksal çıkarım kullanarak RAG (Geri Getirme Destekli Üretim) süreçlerini optimize eder.",
     "lite": false,
@@ -60496,6 +60538,13 @@
         "yildiz": 40480,
         "onceki_yildiz": 40475,
         "surum": "v0.7.2",
+        "surum_tarihi": "2026-11-19"
+      },
+      {
+        "tarih": "2026-11-19",
+        "yildiz": 40483,
+        "onceki_yildiz": 40480,
+        "surum": "v0.7.3",
         "surum_tarihi": "2026-11-19"
       }
     ],
@@ -61420,7 +61469,7 @@
     "slug": "pstack-claude",
     "title": "Pstack Claude",
     "tagline": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan…",
-    "meta": "★ 4.531 · JavaScript",
+    "meta": "★ 4.542 · JavaScript",
     "image": "/assets/discover/og/pstack-claude.webp",
     "source": "GitHub",
     "date": "2026-10-05",
@@ -61428,7 +61477,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4531,
+    "stars": 4542,
     "last_seen": "2026-10-05",
     "summary": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.",
     "lite": false,
@@ -61680,6 +61729,13 @@
         "yildiz": 4531,
         "onceki_yildiz": 4269,
         "surum": "v0.9.141",
+        "surum_tarihi": "2026-11-19"
+      },
+      {
+        "tarih": "2026-11-19",
+        "yildiz": 4542,
+        "onceki_yildiz": 4531,
+        "surum": "v0.9.142",
         "surum_tarihi": "2026-11-19"
       }
     ],
@@ -64764,7 +64820,7 @@
     "slug": "openmausbot",
     "title": "OpenMausBot",
     "tagline": "OpenMausBot, sohbet uygulamaları içerisinde kendi yapay zekâ bot ekibinizi oluşturmanıza olanak tanıyan açık kaynaklı (open…",
-    "meta": "★ 25.325 · TypeScript",
+    "meta": "★ 25.566 · TypeScript",
     "image": "/assets/discover/og/openmausbot.webp",
     "source": "GitHub",
     "date": "2026-10-30",
@@ -64772,7 +64828,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 25325,
+    "stars": 25566,
     "last_seen": "2026-11-09",
     "summary": "OpenMausBot, sohbet uygulamaları içerisinde kendi yapay zekâ bot ekibinizi oluşturmanıza olanak tanıyan açık kaynaklı (open source) bir Grok Bot alternatifidir. Yazılım, botların kullanabileceği sanal bir makine desteğiyle birlikte gelir.",
     "lite": false,
@@ -64918,6 +64974,13 @@
         "onceki_yildiz": 24324,
         "surum": "v0.1.169",
         "surum_tarihi": "2026-11-17"
+      },
+      {
+        "tarih": "2026-11-19",
+        "yildiz": 25566,
+        "onceki_yildiz": 25325,
+        "surum": "v0.1.170",
+        "surum_tarihi": "2026-11-19"
       }
     ],
     "tagline_en": "OpenMausBot is an open-source (open… tool that allows you to create your own AI bot team within chat applications.",
@@ -67679,7 +67742,9 @@
     ],
     "tagline_en": "Developed with the Rust programming language, uv is a high-speed tool designed to manage Python packages and projects.",
     "tagline_fr": "Développé avec le langage de programmation Rust, uv est un outil haute performance conçu pour gérer les paquets et les projets Python.",
-    "tagline_es": "uv, desarrollado con el lenguaje de programación Rust, es una herramienta de alta velocidad diseñada para gestionar paquetes y proyectos de Python."
+    "tagline_es": "uv, desarrollado con el lenguaje de programación Rust, es una herramienta de alta velocidad diseñada para gestionar paquetes y proyectos de Python.",
+    "tagline_pt": "Desenvolvido com a linguagem de programação Rust, o uv é uma ferramenta de alta velocidade projetada para gerenciar pacotes e projetos Python.",
+    "tagline_de": "uv, das in der Programmiersprache Rust entwickelt wurde, ist ein Hochgeschwindigkeitstool zur Verwaltung von Python-Paketen und -Projekten."
   },
   {
     "slug": "jquery",
@@ -67710,7 +67775,9 @@
     ],
     "tagline_en": "jQuery is a JavaScript library that makes it easier to create interactive elements on web pages.",
     "tagline_fr": "jQuery est une bibliothèque JavaScript qui facilite la création d'éléments interactifs sur les pages web.",
-    "tagline_es": "jQuery es una biblioteca de JavaScript que facilita la creación de elementos interactivos en páginas web."
+    "tagline_es": "jQuery es una biblioteca de JavaScript que facilita la creación de elementos interactivos en páginas web.",
+    "tagline_pt": "O jQuery é uma biblioteca JavaScript que facilita a criação de elementos interativos em páginas da web.",
+    "tagline_de": "jQuery ist eine JavaScript-Bibliothek, die das Erstellen interaktiver Elemente auf Webseiten erleichtert."
   },
   {
     "slug": "appwrite",
@@ -67732,7 +67799,9 @@
     "enrich_reason": "komut_yok",
     "tagline_en": "Appwrite is an open-source backend server for developers and AI agents that provides authentication, databases, storage, and hosting, among other features...",
     "tagline_fr": "Appwrite est une plateforme destinée aux développeurs et aux agents d'intelligence artificielle, offrant des services tels que l'authentification, la base de données, le stockage et l'hébergement...",
-    "tagline_es": "Appwrite es una plataforma para desarrolladores y agentes de inteligencia artificial que ofrece autenticación, bases de datos, almacenamiento, alojamiento y más..."
+    "tagline_es": "Appwrite es una plataforma para desarrolladores y agentes de inteligencia artificial que ofrece autenticación, bases de datos, almacenamiento, alojamiento y más...",
+    "tagline_pt": "Appwrite é uma ferramenta para desenvolvedores e agentes de inteligência artificial que oferece autenticação, banco de dados, armazenamento, hospedagem e vários outros…",
+    "tagline_de": "Appwrite bietet Entwicklern und KI-Agenten verschiedene Dienste wie Authentifizierung, Datenbank, Speicher und Hosting…"
   },
   {
     "slug": "openvino",
@@ -67763,13 +67832,15 @@
     ],
     "tagline_en": "OpenVINO is an open-source toolkit used to optimize and deploy inference processes for artificial intelligence models...",
     "tagline_fr": "OpenVINO est une boîte à outils open source utilisée pour optimiser et déployer les processus d'inférence des modèles d'intelligence artificielle...",
-    "tagline_es": "OpenVINO es una herramienta de código abierto utilizada para optimizar y desplegar procesos de inferencia de modelos de inteligencia artificial..."
+    "tagline_es": "OpenVINO es una herramienta de código abierto utilizada para optimizar y desplegar procesos de inferencia de modelos de inteligencia artificial...",
+    "tagline_pt": "OpenVINO é uma ferramenta de código aberto usada para otimizar e implantar processos de inferência de modelos de inteligência artificial…",
+    "tagline_de": "OpenVINO ist eine Open-Source-Lösung, die zur Optimierung und Bereitstellung von Inferenzprozessen (Inference) für KI-Modelle verwendet wird…"
   },
   {
     "slug": "solid",
     "title": "Solid",
     "tagline": "Solid, kullanıcı arayüzleri oluşturmak için kullanılan bildirimsel (declarative) bir JavaScript kütüphanesidir.",
-    "meta": "★ 36.669 · TypeScript",
+    "meta": "★ 36.714 · TypeScript",
     "image": "/assets/discover/og/solid.webp",
     "source": "GitHub",
     "date": "2026-11-19",
@@ -67777,7 +67848,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 36669,
+    "stars": 36714,
     "last_seen": "2026-11-19",
     "summary": "Solid, kullanıcı arayüzleri oluşturmak için kullanılan bildirimsel (declarative) bir JavaScript kütüphanesidir. Sanal belge nesne modeli (Virtual DOM) kullanmak yerine şablonları doğrudan gerçek belge nesne modeli (DOM) düğümlerine derleyerek ince taneli tepkisellik (fine-grained reactivity) ile güncellemeler yapar.",
     "lite": false,
@@ -67790,11 +67861,20 @@
         "onceki_yildiz": 36662,
         "surum": "@solidjs/diagnostics@2.0.1",
         "surum_tarihi": "2026-11-18"
+      },
+      {
+        "tarih": "2026-11-19",
+        "yildiz": 36714,
+        "onceki_yildiz": 36669,
+        "surum": "@solidjs/babel-plugin@2.0.2",
+        "surum_tarihi": "2026-11-19"
       }
     ],
     "tagline_en": "Solid is a declarative JavaScript library used for building user interfaces.",
     "tagline_fr": "Solid est une bibliothèque JavaScript déclarative utilisée pour créer des interfaces utilisateur.",
-    "tagline_es": "Solid es una biblioteca de JavaScript declarativa utilizada para crear interfaces de usuario."
+    "tagline_es": "Solid es una biblioteca de JavaScript declarativa utilizada para crear interfaces de usuario.",
+    "tagline_pt": "Solid é uma biblioteca JavaScript declarativa usada para criar interfaces de usuário.",
+    "tagline_de": "Solid ist eine deklarative (declarative) JavaScript-Bibliothek zur Erstellung von Benutzeroberflächen."
   },
   {
     "slug": "awesome-mcp-servers",
@@ -67816,6 +67896,8 @@
     "enrich_reason": "readme_yok",
     "tagline_en": "punkpeye/awesome-mcp-servers is a curated list of resources for Model Context Protocol (MCP) servers.",
     "tagline_fr": "punkpeye/awesome-mcp-servers est une liste de ressources regroupant des serveurs du Model Context Protocol (MCP).",
-    "tagline_es": "punkpeye/awesome-mcp-servers es una lista de recursos donde se recopilan servidores del Protocolo de Contexto de Modelo (MCP)."
+    "tagline_es": "punkpeye/awesome-mcp-servers es una lista de recursos donde se recopilan servidores del Protocolo de Contexto de Modelo (MCP).",
+    "tagline_pt": "punkpeye/awesome-mcp-servers é uma lista de recursos onde os servidores do Model Context Protocol (MCP) são compilados.",
+    "tagline_de": "punkpeye/awesome-mcp-servers ist eine Ressourcenliste, in der Model Context Protocol (MCP)-Server zusammengestellt sind."
   }
 ]

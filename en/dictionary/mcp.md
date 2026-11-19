@@ -86,6 +86,7 @@ Its design is permission-based, but you need to keep the server's access scope n
 - [REA](https://trescout.com/en/discover/rea/)
 - [Langflow](https://trescout.com/en/discover/langflow/)
 - [OpenCut](https://trescout.com/en/discover/opencut/)
+- [Awesome MCP Servers](https://trescout.com/en/discover/awesome-mcp-servers/)
 - [Servers](https://trescout.com/en/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/en/discover/ai-engineering-from-scratch/)
 - [Chrome Devtools MCP](https://trescout.com/en/discover/chrome-devtools-mcp/)

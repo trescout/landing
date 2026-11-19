@@ -42,6 +42,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [User Interface](https://trescout.com/pt/dictionary/user-interface/)
+- [DOM](https://trescout.com/pt/dictionary/dom/)
 - [GUI](https://trescout.com/pt/dictionary/gui/)
 - [Interface](https://trescout.com/pt/dictionary/interface/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

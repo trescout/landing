@@ -55,6 +55,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Compile-time](https://trescout.com/fr/dictionary/compile-time/)
+- [DOM](https://trescout.com/fr/dictionary/dom/)
 - [Runtime](https://trescout.com/fr/dictionary/runtime/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

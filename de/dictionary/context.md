@@ -79,6 +79,7 @@ Der Parameter ctx context.Context in Go verhindert die unnötige Verschwendung v
 ## Verwandte Werkzeuge
 
 - [REA](https://trescout.com/de/discover/rea/)
+- [Awesome MCP Servers](https://trescout.com/de/discover/awesome-mcp-servers/)
 - [Servers](https://trescout.com/de/discover/servers/)
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)
 - [Goose](https://trescout.com/de/discover/goose/)

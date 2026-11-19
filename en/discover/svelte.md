@@ -55,6 +55,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Compile-time](https://trescout.com/en/dictionary/compile-time/)
+- [DOM](https://trescout.com/en/dictionary/dom/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

@@ -86,6 +86,7 @@ Seu design é baseado em permissão, mas você precisa manter o escopo de acesso
 - [REA](https://trescout.com/pt/discover/rea/)
 - [Langflow](https://trescout.com/pt/discover/langflow/)
 - [OpenCut](https://trescout.com/pt/discover/opencut/)
+- [Awesome MCP Servers](https://trescout.com/pt/discover/awesome-mcp-servers/)
 - [Servers](https://trescout.com/pt/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/pt/discover/ai-engineering-from-scratch/)
 - [Chrome Devtools MCP](https://trescout.com/pt/discover/chrome-devtools-mcp/)

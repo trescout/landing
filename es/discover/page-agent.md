@@ -42,6 +42,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [User Interface](https://trescout.com/es/dictionary/user-interface/)
+- [DOM](https://trescout.com/es/dictionary/dom/)
 - [GUI](https://trescout.com/es/dictionary/gui/)
 - [Interface](https://trescout.com/es/dictionary/interface/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

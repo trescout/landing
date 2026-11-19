@@ -2,12 +2,13 @@
 
 Solid, kullanıcı arayüzleri oluşturmak için kullanılan bildirimsel (declarative) bir JavaScript kütüphanesidir. Sanal belge nesne modeli (Virtual DOM) kullanmak yerine şablonları doğrudan gerçek belge nesne modeli (DOM) düğümlerine derleyerek ince taneli tepkisellik (fine-grained reactivity) ile güncellemeler yapar.
 
-- ★ 36.669
+- ★ 36.714
 - TypeScript
 - GitHub Trending · 2026-11-19
 
 ## Güncelleme
 
+- **19 Kasım 2026:** Yıldız 36.669 → 36.714, son sürüm @solidjs/babel-plugin@2.0.2 (19 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 36.662 → 36.669, son sürüm @solidjs/diagnostics@2.0.1 (18 Kasım 2026).
 
 ## Ne kazandırır?

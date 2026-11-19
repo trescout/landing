@@ -42,6 +42,7 @@ Porque é muito rápido e reduz significativamente os erros de software.
 - [OpenCut](https://trescout.com/pt/discover/opencut/)
 - [BUN](https://trescout.com/pt/discover/bun/)
 - [ZED](https://trescout.com/pt/discover/zed/)
+- [UV](https://trescout.com/pt/discover/uv/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/rust/)
 

@@ -70,7 +70,7 @@ Vous aurez besoin d'analyseurs de documents, d'outils de fragmentation de texte,
 - [AI Agent Book](https://trescout.com/fr/discover/ai-agent-book/)
 - [GitNexus](https://trescout.com/fr/discover/gitnexus/)
 - [OpenViking](https://trescout.com/fr/discover/openviking/)
-- [AI Engineering Hub](https://trescout.com/fr/discover/ai-engineering-hub/)
+- [PageIndex](https://trescout.com/fr/discover/pageindex/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/rag/)
 

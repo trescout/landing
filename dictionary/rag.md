@@ -76,7 +76,7 @@ Doküman ayrıştırıcılar, metin parçalama araçları, bir embedding modeli,
 - [AI Agent Book](https://trescout.com/discover/ai-agent-book/)
 - [GitNexus](https://trescout.com/discover/gitnexus/)
 - [OpenViking](https://trescout.com/discover/openviking/)
-- [AI Engineering Hub](https://trescout.com/discover/ai-engineering-hub/)
+- [PageIndex](https://trescout.com/discover/pageindex/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

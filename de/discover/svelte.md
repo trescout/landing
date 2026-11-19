@@ -55,6 +55,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Compile-time](https://trescout.com/de/dictionary/compile-time/)
+- [DOM](https://trescout.com/de/dictionary/dom/)
 - [Runtime](https://trescout.com/de/dictionary/runtime/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

@@ -44,6 +44,7 @@ No, the model only makes predictions using the available information it has.
 - [Vllm](https://trescout.com/en/discover/vllm/)
 - [BitNet](https://trescout.com/en/discover/bitnet/)
 - [Ds4](https://trescout.com/en/discover/ds4/)
+- [Openvino](https://trescout.com/en/discover/openvino/)
 - [LTX 2](https://trescout.com/en/discover/ltx-2/)
 - [Magnitude](https://trescout.com/en/discover/magnitude/)
 - [Stable Diffusion.cpp](https://trescout.com/en/discover/stable-diffusion-cpp/)

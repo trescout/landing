@@ -55,6 +55,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Compile-time](https://trescout.com/pt/dictionary/compile-time/)
+- [DOM](https://trescout.com/pt/dictionary/dom/)
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

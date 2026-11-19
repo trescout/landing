@@ -70,7 +70,7 @@ São necessários parsers de documentos, ferramentas de fragmentação de texto,
 - [AI Agent Book](https://trescout.com/pt/discover/ai-agent-book/)
 - [GitNexus](https://trescout.com/pt/discover/gitnexus/)
 - [OpenViking](https://trescout.com/pt/discover/openviking/)
-- [AI Engineering Hub](https://trescout.com/pt/discover/ai-engineering-hub/)
+- [PageIndex](https://trescout.com/pt/discover/pageindex/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/rag/)
 

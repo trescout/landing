@@ -42,6 +42,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [User Interface](https://trescout.com/en/dictionary/user-interface/)
+- [DOM](https://trescout.com/en/dictionary/dom/)
 - [GUI](https://trescout.com/en/dictionary/gui/)
 - [Interface](https://trescout.com/en/dictionary/interface/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

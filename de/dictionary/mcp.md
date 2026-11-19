@@ -86,6 +86,7 @@ Sein Design ist berechtigungsbasiert, Sie müssen jedoch den Zugriffsbereich des
 - [REA](https://trescout.com/de/discover/rea/)
 - [Langflow](https://trescout.com/de/discover/langflow/)
 - [OpenCut](https://trescout.com/de/discover/opencut/)
+- [Awesome MCP Servers](https://trescout.com/de/discover/awesome-mcp-servers/)
 - [Servers](https://trescout.com/de/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/de/discover/ai-engineering-from-scratch/)
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)
