@@ -72,7 +72,6 @@ Dados privados e criação de perfis sem autorização são proibidos. O tratame
 
 - [Maigret](https://trescout.com/pt/discover/maigret/)
 - [Spiderfoot](https://trescout.com/pt/discover/spiderfoot/)
-- [GhostTrack](https://trescout.com/pt/discover/ghosttrack/)
 - [Flowsint](https://trescout.com/pt/discover/flowsint/)
 - [User Scanner](https://trescout.com/pt/discover/user-scanner/)
 - [Legendary_OSINT](https://trescout.com/pt/discover/legendary-osint/)

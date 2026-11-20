@@ -42,12 +42,6 @@
           "meta": "Python · ★ 20.303 · +355 hoy"
         },
         {
-          "title": "elder-plinius/G0DM0D3",
-          "url": "https://github.com/elder-plinius/G0DM0D3",
-          "summary": "G0DM0D3 es una interfaz de chat de IA liberada que tiene como objetivo eludir las capas de seguridad de los modelos de lenguajes grandes. Desarrollado con TypeScript, este proyecto de código abierto permite a los usuarios interactuar con modelos sin restricciones.",
-          "meta": "TypeScript · ★ 9.570 · +69 hoy"
-        },
-        {
           "title": "lyogavin/airllm",
           "url": "https://github.com/lyogavin/airllm",
           "summary": "AirLLM permite ejecutar modelos de lenguajes grandes con 70 mil millones de parámetros con solo 4 gigabytes de memoria de tarjeta de video (VRAM). Esta biblioteca permite que los modelos de alta capacidad infieran en sistemas de gama baja mediante el uso de técnicas de optimización de memoria.",

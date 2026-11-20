@@ -12,12 +12,6 @@
           "meta": "Python · ★ 33.348 · +589 bugün"
         },
         {
-          "title": "Anil-matcha/Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "summary": "Open-Generative-AI, içerik filtrelemesi bulunmayan ve 200'den fazla görsel ile video oluşturma modelini (model) barındıran açık kaynaklı bir stüdyo platformudur. Kullanıcılar, MIT lisansıyla sunulan bu yazılımı kendi sunucularında (self-hosted) çalıştırarak görsel üretim süreçlerini özgürce yönetebilirler.",
-          "meta": "JavaScript · ★ 21.507 · +255 bugün"
-        },
-        {
           "title": "dbt-labs/dbt-core",
           "url": "https://github.com/dbt-labs/dbt-core",
           "summary": "Veri dönüştürme aracı (dbt-core), veri analistlerinin ve mühendislerinin yazılım geliştirme süreçlerine benzer yöntemlerle veri dönüşümü (data transformation) yapmalarını sağlıyor. Sürüm kontrolü ve test süreçlerini veri ambarlarına entegre ederek analitik iş akışlarını standartlaştırıyor.",

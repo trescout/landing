@@ -72,7 +72,6 @@ Les données privées et le profilage non autorisé sont interdits. Aucun traite
 
 - [Maigret](https://trescout.com/fr/discover/maigret/)
 - [Spiderfoot](https://trescout.com/fr/discover/spiderfoot/)
-- [GhostTrack](https://trescout.com/fr/discover/ghosttrack/)
 - [Flowsint](https://trescout.com/fr/discover/flowsint/)
 - [User Scanner](https://trescout.com/fr/discover/user-scanner/)
 - [Legendary_OSINT](https://trescout.com/fr/discover/legendary-osint/)

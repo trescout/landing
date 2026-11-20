@@ -93,6 +93,33 @@
       "sozluk_terimleri": [],
       "tarih": "2026-10-28",
       "gerekce": "Kaynak/bakım kararı · resmî depo arşivlenmiş; güncel bakım ve servis durumu doğrulanamadığı için kayıt yayından alındı."
+    },
+    {
+      "slug": "ghosttrack",
+      "repolar": [
+        "https://github.com/HunxByts/GhostTrack"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-11-20",
+      "gerekce": "Yayın kararı · telefon numarası, IP ve kullanıcı adı üzerinden hedef konum/kimlik bilgisi toplamayı kolaylaştıran gözetim ve mahremiyet riski; güvenli ve rızaya dayalı kullanım sınırları katalog yayını için yeterince doğrulanamadı."
+    },
+    {
+      "slug": "g0dm0d3",
+      "repolar": [
+        "https://github.com/elder-plinius/G0DM0D3"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-11-20",
+      "gerekce": "Yayın kararı · büyük dil modellerinin güvenlik katmanlarını aşmayı ve kısıtlamasız etkileşimi hedefliyor; TreScout güvenlik politikası kapsamında jailbreak/kısıt aşma içeriği olarak kaldırıldı."
+    },
+    {
+      "slug": "open-generative-ai",
+      "repolar": [
+        "https://github.com/Anil-matcha/Open-Generative-AI"
+      ],
+      "sozluk_terimleri": [],
+      "tarih": "2026-11-20",
+      "gerekce": "Yayın kararı · içerik filtresi olmayan çoklu görsel/video üretim modellerini ve filtreleri aşmaya dönük kullanım akışını teşvik ediyor; kötüye kullanım ve güvenlik riski nedeniyle kaldırıldı."
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 > TreScout; GitHub, Hacker News ve Hugging Face gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler hazırlar ve web ile PDF rapor olarak yayımlar. Raporlar herkese açıktır; okumak için kayıt olmanız gerekmez.
 
-Son güncelleme: 2026-11-20 · 718 araç · 845 terim
+Son güncelleme: 2026-11-20 · 715 araç · 845 terim
 
 ---
 
@@ -31445,7 +31445,6 @@ Tek soru ve kaynak listesiyle. Doğrulama alışkanlığı edinilir.
 
 - [Maigret](https://trescout.com/discover/maigret/)
 - [Spiderfoot](https://trescout.com/discover/spiderfoot/)
-- [GhostTrack](https://trescout.com/discover/ghosttrack/)
 - [Flowsint](https://trescout.com/discover/flowsint/)
 - [User Scanner](https://trescout.com/discover/user-scanner/)
 - [Legendary_OSINT](https://trescout.com/discover/legendary-osint/)
@@ -35705,10 +35704,6 @@ Yılda en az bir kez, büyük değişiklik sonrası tekrar. Model tarafında sü
 - [Cybersecurity Skills](https://trescout.com/dictionary/cybersecurity-skills/)
 - [Adversarial Analysis](https://trescout.com/dictionary/adversarial-analysis/)
 
-## İlgili araçlar
-
-- [G0DM0D3](https://trescout.com/discover/g0dm0d3/)
-
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
@@ -38334,7 +38329,6 @@ Self-hosted sistemlerde donanım bozulduğunda veriyi kurtaracak bir müşteri h
 - [Immich](https://trescout.com/discover/immich/)
 - [Chatwoot](https://trescout.com/discover/chatwoot/)
 - [CasaOS](https://trescout.com/discover/casaos/)
-- [Open-Generative-AI](https://trescout.com/discover/open-generative-ai/)
 - [OpenWA](https://trescout.com/discover/openwa/)
 - [Openship](https://trescout.com/discover/openship/)
 - [Instatic](https://trescout.com/discover/instatic/)
@@ -50116,7 +50110,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 n8n, görsel canvas, özel kod, yapay zekâ ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.
 
-- ★ 211.306
+- ★ 211.479
 - GitHub Trending · 2026-08-23
 
 ## Kurulum
@@ -50139,10 +50133,10 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 211.306 → 211.479, son sürüm n8n@2.48.7 (20 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 211.008 → 211.306, son sürüm n8n@2.48.6 (19 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 210.427 → 211.008, son sürüm n8n@2.48.5 (18 Kasım 2026).
 - **14 Kasım 2026:** Yıldız 210.353 → 210.427, son sürüm n8n@2.47.7 (13 Kasım 2026).
-- **13 Kasım 2026:** Yıldız 210.254 → 210.353, son sürüm n8n@2.47.6 (13 Kasım 2026).
 
 ## Bu araç ne yapar?
 
@@ -52412,16 +52406,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme ortamı (agent development environment) sunuyor. Kullanıcılar, kendi aboneliklerini kullanarak çeşitli kodlama ajanlarını hem masaüstü hem de mobil platformlarda çalıştırabiliyor.
 
-- ★ 130.112
+- ★ 130.284
 - TypeScript
 - GitHub Trending · 2026-06-25
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 130.112 → 130.284, son sürüm v1.4.266 (20 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 128.789 → 130.112, son sürüm v1.4.265 (19 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 126.959 → 128.789, son sürüm v1.4.263 (18 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 125.179 → 126.959, son sürüm v1.4.261 (16 Kasım 2026).
-- **15 Kasım 2026:** Yıldız 123.696 → 125.179, son sürüm v1.4.259 (14 Kasım 2026).
 
 ## Ne kazandırır?
 
@@ -58686,16 +58680,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri sentezleyen bir yapay zekâ yeteneği (AI agent skill) sunuyor. Python tabanlı bu araç, farklı kaynaklardan elde edilen bilgileri birleştirerek kullanıcılar için doğrulanabilir özetler oluşturuyor.
 
-- ★ 69.893
+- ★ 71.060
 - Python
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 69.893 → 71.060, son sürüm v4.4.0 (20 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 68.294 → 69.893, son sürüm v4.3.2 (17 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 67.818 → 68.294, son sürüm v4.3.0 (16 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 67.804 → 67.818, son sürüm v4.2.0 (16 Kasım 2026).
-- **16 Kasım 2026:** Yıldız 67.580 → 67.804, son sürüm v4.1.0 (16 Kasım 2026).
 
 ## Ne kazandırır?
 
@@ -59622,16 +59616,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 T3Code, TypeScript tabanlı projelerde kod kalitesini artırmak ve standartlaştırmak için geliştirilen bir araç setidir. Geliştiricilere tip güvenliği (type safety) ve kod düzenleme süreçlerinde otomasyon desteği sağlar.
 
-- ★ 66.675
+- ★ 66.866
 - TypeScript
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 66.675 → 66.866, son sürüm v0.1.11 (20 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 63.072 → 66.675, son sürüm v0.1.10 (17 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 60.756 → 63.072, son sürüm v0.1.10 (17 Kasım 2026).
 - **15 Kasım 2026:** Yıldız 57.307 → 60.756, son sürüm v0.1.9 (11 Kasım 2026).
-- **12 Kasım 2026:** Yıldız 54.699 → 57.307, son sürüm v0.1.9 (11 Kasım 2026).
 
 ## Ne kazandırır?
 
@@ -61740,16 +61734,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 Motrix, TypeScript ile geliştirilen ve tüm dosya indirme ihtiyaçlarını karşılayan kapsamlı bir indirme yöneticisi (download manager). Kullanıcılara HTTP, FTP ve BitTorrent gibi farklı protokolleri tek bir arayüz üzerinden yönetme imkânı sunuyor.
 
-- ★ 58.546
+- ★ 58.552
 - TypeScript
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 58.546 → 58.552, son sürüm v2.4.5 (20 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 58.410 → 58.546, son sürüm v2.4.4 (20 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 58.345 → 58.410, son sürüm v2.4.3 (17 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 58.075 → 58.345, son sürüm v2.4.2 (15 Kasım 2026).
-- **10 Kasım 2026:** Yıldız 58.014 → 58.075, son sürüm v2.4.1 (9 Kasım 2026).
 
 ## Ne kazandırır?
 
@@ -62236,16 +62230,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 Goose, kod önerilerinin ötesine geçerek yazılım kurulumu, yürütme, düzenleme ve test süreçlerini otomatize eden açık kaynaklı bir yapay zekâ ajanıdır. Rust diliyle geliştirilen bu araç, farklı büyük dil modelleriyle (LLM) entegre çalışarak yazılım geliştirme iş akışlarını uçtan uca yönetmeyi hedefler.
 
-- ★ 56.758
+- ★ 56.807
 - Rust
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 56.758 → 56.807, son sürüm v1.60.2 (20 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 56.675 → 56.758, son sürüm v1.60.1 (18 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 56.580 → 56.675, son sürüm v1.59.2 (16 Kasım 2026).
 - **14 Kasım 2026:** Yıldız 56.432 → 56.580, son sürüm v1.59.1 (14 Kasım 2026).
-- **10 Kasım 2026:** Yıldız 56.418 → 56.432, son sürüm v1.59.0 (10 Kasım 2026).
 
 ## Ne kazandırır?
 
@@ -62962,12 +62956,13 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 Vercel Labs tarafından geliştirilen agent-browser, yapay zekâ ajanları için tarayıcı otomasyonu sağlayan bir komut satırı arayüzü (CLI). Rust diliyle yazılan bu araç, sayfaları erişilebilirlik ağacı (accessibility tree) olarak okuyup komut satırı üzerinden web öğeleriyle etkileşime girilmesine olanak tanıyor.
 
-- ★ 50.405
+- ★ 52.951
 - Rust
 - GitHub Trending · 2026-11-06
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 50.405 → 52.951, son sürüm v0.43.0 (12 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 48.777 → 50.405, son sürüm v0.43.0 (12 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 46.036 → 48.777, son sürüm v0.42.0 (10 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 46.027 → 46.036, son sürüm v0.41.2 (3 Kasım 2026).
@@ -66309,17 +66304,17 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir platformdur. Intercom ve Zendesk gibi ticari yazılımlara alternatif olarak geliştirilen bu araç, müşteri etkileşimlerini tek bir merkezden yönetmeyi sağlar.
 
-- ★ 40.118
+- ★ 40.225
 - GitHub Trending · 2026-06-12
 
 **TreScout notu:** Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır.
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 40.118 → 40.225, son sürüm v4.20.1 (20 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 38.153 → 40.118, son sürüm v4.20.0 (18 Kasım 2026).
 - **24 Ekim 2026:** Yıldız 38.048 → 38.153, son sürüm v4.19.1 (24 Ekim 2026).
 - **21 Ekim 2026:** Yıldız 36.927 → 38.048, son sürüm v4.19.0 (20 Ekim 2026).
-- **18 Eylül 2026:** Yıldız 36.253 → 36.927, son sürüm v4.18.0 (18 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -69304,70 +69299,6 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Kısıtlamasız yapay zekâ görsel ve video stüdyosu
-
-Open-Generative-AI, içerik filtrelemesi bulunmayan ve 200'den fazla görsel ile video oluşturma modelini (model) barındıran açık kaynaklı bir stüdyo platformudur. Kullanıcılar, MIT lisansıyla sunulan bu yazılımı kendi sunucularında (self-hosted) çalıştırarak görsel üretim süreçlerini özgürce yönetebilirler.
-
-- ★ 34.362
-- JavaScript
-- GitHub Trending · 2026-06-28
-
-## Güncelleme
-
-- **13 Kasım 2026:** Yıldız 32.667 → 34.362, son sürüm v2.0.0 (23 Mayıs 2026).
-- **6 Kasım 2026:** Yıldız 30.971 → 32.667, son sürüm v2.0.0 (23 Mayıs 2026).
-- **20 Ekim 2026:** Yıldız 29.494 → 30.971, son sürüm v2.0.0 (23 Mayıs 2026).
-- **1 Ekim 2026:** Yıldız 28.085 → 29.494, son sürüm v2.0.0 (23 Mayıs 2026).
-
-## Ne kazandırır?
-
-- 200'den fazla gelişmiş yapay zekâ modeli
-- İçerik filtresi veya abonelik ücreti yok
-- Kendi bilgisayarınızda çalışma imkânı
-
-## Çalıştırma
-
-**Masaüstü uygulamasını başlatma**
-
-```
-npm run electron:dev
-```
-
-## Kod bilmiyorsanız
-
-Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
-
-Open-Generative-AI platformunu kullanarak, içerik filtrelerine takılmadan yüksek kaliteli görsel ve videolar oluşturmak istiyorum. Platformun sunduğu 200'den fazla model arasından, yaratıcı projelerim için en uygun olanları nasıl seçebilirim ve bu modellerin sunduğu özgür üretim imkânlarını kullanarak profesyonel bir iş akışını kendi yerel sistemimde nasıl kurgulayabilirim?
-
-Depo: https://github.com/Anil-matcha/Open-Generative-AI. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
-
-Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
-
-Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
-
-Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
-
-- **Kimin için:** Kendi donanımı üzerinde kısıtlamasız ve özgür bir yapay zekâ görsel üretim stüdyosu kurmak isteyen içerik üreticileri ve geliştiriciler içindir.
-- **Lisans:** MIT
-
-## Bağlantılar
-
-- [GitHub deposu →](https://github.com/Anil-matcha/Open-Generative-AI)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-
-- [Self-hosted](https://trescout.com/dictionary/self-hosted/)
-- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/open-generative-ai/
-TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
-
-
----
-
 # Macos için modüler menü çubuğu aracı
 
 Vorssaint-utils, macOS işletim sistemi için geliştirilmiş, açık kaynak kodlu (open source) bir menü çubuğu araç setidir. Uygulama bazlı ses denetimi, sistem izleme, pencere düzenleme ve pano geçmişi gibi birçok farklı işlevi tek bir arayüzde birleştirerek sunar.
@@ -69743,16 +69674,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını doğrudan okumasına, düzenlemesine ve otomatize etmesine olanak tanıyan açık kaynaklı bir ofis paketi sunuyor. C# ile geliştirilen bu araç, herhangi bir ofis yazılımı kurulumuna ihtiyaç duymadan tek bir ikili dosya (binary) üzerinden işlem yapılmasına imkân veriyor.
 
-- ★ 33.361
+- ★ 33.474
 - C#
 - GitHub Trending · 2026-07-08
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 33.361 → 33.474, son sürüm v1.0.163 (20 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 33.242 → 33.361, son sürüm v1.0.162 (16 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 32.795 → 33.242, son sürüm v1.0.161 (12 Kasım 2026).
 - **30 Ekim 2026:** Yıldız 32.527 → 32.795, son sürüm v1.0.160 (30 Ekim 2026).
-- **27 Ekim 2026:** Yıldız 32.214 → 32.527, son sürüm v1.0.159 (27 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -70125,16 +70056,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor. Masaüstü işletim sistemlerini kontrol edebilen ajanların eğitimi ve değerlendirilmesi amacıyla kum havuzu (sandbox), yazılım geliştirme kiti (SDK) ve kıyaslama (benchmark) araçlarını tek bir çatı altında topluyor.
 
-- ★ 32.690
+- ★ 32.695
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 32.690 → 32.695, son sürüm cua-spaces-v0.39.2 (20 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 32.626 → 32.690, son sürüm cua-spaces-v0.39.1 (20 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 32.609 → 32.626, son sürüm cua-spaces-v0.38.13 (18 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 32.473 → 32.609, son sürüm cua-spaces-v0.38.10 (18 Kasım 2026).
-- **17 Kasım 2026:** Yıldız 32.464 → 32.473, son sürüm cua-spaces-v0.38.5 (17 Kasım 2026).
 
 ## Ne kazandırır?
 
@@ -75803,83 +75734,6 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Mobil numaralar ve kullanıcı adları üzerinden konum takibi
-
-Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır. Açık kaynaklı bu yazılım, hedef numaranın coğrafi verilerini tespit etmek amacıyla geliştirilmiştir.
-
-- ★ 20.190
-- GitHub Trending · 2026-06-08
-
-## Güncelleme
-
-- **28 Ekim 2026:** Yıldız 19.157 → 20.190.
-- **17 Ekim 2026:** Yıldız 18.151 → 19.157.
-- **11 Ekim 2026:** Yıldız 17.093 → 18.151.
-- **5 Ekim 2026:** Yıldız 16.035 → 17.093.
-
-## Ne kazandırır?
-
-- Mobil numaraların coğrafi konum verilerini tespit eder
-- Sosyal medya kullanıcı adları üzerinden bilgi toplar
-- IP adresi takibi için yardımcı araçlarla entegre çalışır
-
-## Kurulum
-
-**Klonla + bağımlılıklar (Linux · Python 3)**
-
-```
-git clone https://github.com/HunxByts/GhostTrack.git && cd GhostTrack && pip3 install -r requirements.txt
-```
-
-## Çalıştırma
-
-**Çalıştır**
-
-```
-python3 GhostTR.py
-```
-
-**Kaynak:** GhostTrack README (resmî)
-
-## Kod bilmiyorsanız
-
-Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
-
-GhostTrack aracını kullanarak bir hedef numara veya kullanıcı adı üzerinden nasıl bilgi toplayabilirim? Aracın sunduğu telefon takip, IP takip ve kullanıcı adı takip özelliklerini adım adım nasıl kullanacağımı açıkla.
-
-Depo: https://github.com/HunxByts/GhostTrack. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
-
-Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
-
-Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
-
-Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
-
-- **Kimin için:** Açık kaynak istihbaratı (OSINT) ve bilgi toplama süreçleriyle ilgilenen kullanıcılar için uygundur.
-
-## Editoryal not
-
-Gizlilik ve etik notu: Bu araç yalnızca sahibi olduğunuz veya açıkça izin verilen sistemler ve OSINT çalışmaları için kullanılmalıdır. Kişi takibi, doxxing, taciz ve yetkisiz veri toplama kabul edilemez; sonuçlar doğrulanmış konum veya kimlik kanıtı değildir.
-
-## Bağlantılar
-
-- [GitHub deposu →](https://github.com/HunxByts/GhostTrack)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-
-- [OSINT](https://trescout.com/dictionary/osint/)
-- [Open Source](https://trescout.com/dictionary/open-source/)
-- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/ghosttrack/
-TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
-
-
----
-
 # Hızlı ve yerel PDF metin işleme
 
 Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metinlerini ayıklamak için tasarlanmış hızlı bir Rust kütüphanesidir. Taranmış belgeler ile metin tabanlı dosyaları ayırt ederek veri işleme süreçlerinde akıllı yönlendirme kararları alınmasını sağlar.
@@ -76553,16 +76407,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 Rust diliyle geliştirilen xerj, yapay zekâ sistemlerinin veri üzerinde arama yapmasını sağlayan otomatik indeksleme (autoindex) yeteneği sunuyor. Kod, belge ve günlük dosyalarını daha az belirteç (token) tüketimiyle işleyerek arama, güvenlik denetimleri ve yapay zekânın güncel verilerden cevap üretmesini sağlayan yöntem (RAG) süreçlerini destekliyor.
 
-- ★ 17.951
+- ★ 18.976
 - Rust
 - GitHub Trending · 2026-10-16
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 17.951 → 18.976, son sürüm v1.0.0-rc.104 (19 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 19.251 → 17.951, son sürüm v1.0.0-rc.104 (19 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 19.079 → 19.251, son sürüm v1.0.0-rc.104 (19 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 18.496 → 19.079, son sürüm v1.0.0-rc.101 (5 Kasım 2026).
-- **1 Kasım 2026:** Yıldız 17.044 → 18.496, son sürüm v1.0.0-rc.100 (27 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -81164,12 +81018,13 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 XiaoYouChR/Ghost-Downloader-3, dört farklı platformda çalışan ve neredeyse tüm indirme protokollerini destekleyen kapsamlı bir dosya indirme aracıdır. Python diliyle geliştirilen bu proje, eklenti tabanlı özellik paketleri (feature packs) sayesinde işlevselliğini genişletebilen bir yapı sunar.
 
-- ★ 12.990
+- ★ 13.178
 - Python
 - GitHub Trending · 2026-11-20
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 12.990 → 13.178, son sürüm v4.5.11 (20 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 12.971 → 12.990, son sürüm v4.5.10 (19 Kasım 2026).
 
 ## Ne kazandırır?
@@ -82250,77 +82105,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/douyin-downloader/
-TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
-
-
----
-
-# Kısıtlamasız yapay zekâ etkileşim arayüzü
-
-G0DM0D3, büyük dil modellerinin (large language models) güvenlik katmanlarını aşmayı hedefleyen özgürleştirilmiş bir yapay zekâ sohbet arayüzüdür. TypeScript ile geliştirilen bu açık kaynaklı proje, kullanıcıların kısıtlamalara takılmadan modellerle etkileşime girmesini sağlar.
-
-- ★ 12.584
-- TypeScript
-- GitHub Trending · 2026-07-19
-
-## Güncelleme
-
-- **17 Kasım 2026:** Yıldız 11.576 → 12.584.
-- **8 Ekim 2026:** Yıldız 10.574 → 11.576.
-- **20 Ağustos 2026:** Yıldız 9.570 → 10.574.
-
-## Ne kazandırır?
-
-- 60'tan fazla modelle çoklu karşılaştırmalı analiz
-- Yerel donanım üzerinde model çalıştırma desteği
-- Kırmızı takım testleri için giriş karıştırma motoru
-
-## Kurulum
-
-**Depoyu klonlayıp yerel sunucuda başlatma**
-
-```
-# Clone the repository
-git clone https://github.com/elder-plinius/G0DM0D3.git
-cd G0DM0D3
-
-# Open directly in your browser
-open index.html
-# or serve locally
-python3 -m http.server 8000
-```
-
-## Kod bilmiyorsanız
-
-Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
-
-G0DM0D3 arayüzünü kullanarak, belirlediğim model sağlayıcıları (OpenRouter, Venice veya yerel sunucu) üzerinden çoklu model yarıştıran ULTRAPLINIAN motorunu aktif et. Kırmızı takım araştırmalarım için Parseltongue giriş karıştırma tekniklerini uygula ve AutoTune özelliği ile sorgu bağlamına en uygun örnekleme parametrelerini otomatik olarak yapılandır.
-
-Depo: https://github.com/elder-plinius/G0DM0D3. Kurulum ve çalıştırmada bu deponun README dosyasındaki resmî talimatları esas al.
-
-Başlamadan önce hangi işletim sisteminde çalıştığımızı ve gerekli araçların (ör. Python, Node.js, Git, Docker) kurulu olup olmadığını kontrol et; eksik olanları bu sisteme göre adım adım kur.
-
-Çalışmak için yeni ve boş bir klasör oluştur. Bu klasörün dışındaki dosyalarıma dokunma, hiçbir şeyi silme. Her komutu çalıştırmadan önce ne yapacağını bir cümleyle söyle.
-
-Her adımın sonunda ekranda ne görmem gerektiğini söyle. Bir hata oluşursa hata mesajını sana olduğu gibi yapıştıracağım, birlikte düzeltelim.
-
-- **Kimin için:** Yapay zekâ modellerinin sınırlarını zorlamak isteyen araştırmacılar, sistem meraklıları ve red teaming süreçleriyle ilgilenen kullanıcılar içindir.
-- **Lisans:** AGPL-3.0
-
-## Bağlantılar
-
-- [GitHub deposu →](https://github.com/elder-plinius/G0DM0D3)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-
-- [Red Teaming](https://trescout.com/dictionary/red-teaming/)
-- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
-- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/g0dm0d3/
 TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 
@@ -87434,16 +87218,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir. Claude Code, Cursor ve Codex gibi yazılım geliştirme araçlarıyla entegre çalışan bu yapı, 42 farklı FFmpeg aracını makine tarafından okunabilir bir sözleşme ve MCP sunucusu üzerinden bulut tabanlı API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) gereksinimi olmadan kullanıma sunar.
 
-- ★ 8.470
+- ★ 8.533
 - Python
 - GitHub Trending · 2026-11-17
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 8.470 → 8.533, son sürüm v4.1.0 (20 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 8.078 → 8.470, son sürüm v4.0.1 (20 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 8.001 → 8.078, son sürüm v3.13.2 (18 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 7.073 → 8.001, son sürüm v3.12.1 (18 Kasım 2026).
-- **17 Kasım 2026:** Yıldız 7.057 → 7.073, son sürüm v3.10.1 (15 Kasım 2026).
 
 ## Ne kazandırır?
 
@@ -89929,16 +89713,16 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 AiSOC, güvenlik operasyonlarını otomatize etmek için geliştirilmiş açık kaynaklı bir yapay zekâ güvenlik merkezi. Büyük dil modelleri (LLM) ile uyarıları sınıflandıran ve MITRE ATT&CK çerçevesiyle incelemeler yapan araç, API anahtarı gerektirmeden kendi sunucunuzda çalışabiliyor.
 
-- ★ 6.951
+- ★ 6.976
 - Python
 - GitHub Trending · 2026-11-02
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 6.951 → 6.976, son sürüm v23.6.0 (20 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 8.312 → 6.951, son sürüm v23.5.3 (19 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 8.225 → 8.312, son sürüm v23.5.2 (19 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 7.586 → 8.225, son sürüm v23.5.1 (18 Kasım 2026).
-- **13 Kasım 2026:** Yıldız 7.383 → 7.586, son sürüm v23.4.0 (13 Kasım 2026).
 
 ## Ne kazandırır?
 
@@ -92923,12 +92707,13 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 Google Research tarafından geliştirilen PaperOrchestra, ham fikirleri ve deney günlüklerini akademik formatta LaTeX taslaklarına dönüştüren çoklu ajanlı bir çerçeve (multi-agent framework). Yazılım, literatür taraması ve görsel oluşturma süreçlerini otomatikleştirerek araştırma makalesi yazımını destekliyor.
 
-- ★ 4.162
+- ★ 5.197
 - Python
 - GitHub Trending · 2026-11-17
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 4.162 → 5.197.
 - **18 Kasım 2026:** Yıldız 1.732 → 4.162.
 
 ## Ne kazandırır?

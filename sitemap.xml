@@ -6709,12 +6709,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/discover/g0dm0d3/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/discover/garden-skills/</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -6777,12 +6771,6 @@
   <url>
     <loc>https://trescout.com/discover/ghost/</loc>
     <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/discover/ghosttrack/</loc>
-    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7887,12 +7875,6 @@
   <url>
     <loc>https://trescout.com/discover/open-deep-research/</loc>
     <lastmod>2026-10-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/discover/open-generative-ai/</loc>
-    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17245,12 +17227,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/de/discover/g0dm0d3/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/de/discover/garden-skills/</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -17313,12 +17289,6 @@
   <url>
     <loc>https://trescout.com/de/discover/ghost/</loc>
     <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/de/discover/ghosttrack/</loc>
-    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18423,12 +18393,6 @@
   <url>
     <loc>https://trescout.com/de/discover/open-deep-research/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/de/discover/open-generative-ai/</loc>
-    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27685,12 +27649,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/en/discover/g0dm0d3/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/en/discover/garden-skills/</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -27753,12 +27711,6 @@
   <url>
     <loc>https://trescout.com/en/discover/ghost/</loc>
     <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/discover/ghosttrack/</loc>
-    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28863,12 +28815,6 @@
   <url>
     <loc>https://trescout.com/en/discover/open-deep-research/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/discover/open-generative-ai/</loc>
-    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38125,12 +38071,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/es/discover/g0dm0d3/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/es/discover/garden-skills/</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -38193,12 +38133,6 @@
   <url>
     <loc>https://trescout.com/es/discover/ghost/</loc>
     <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/es/discover/ghosttrack/</loc>
-    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -39303,12 +39237,6 @@
   <url>
     <loc>https://trescout.com/es/discover/open-deep-research/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/es/discover/open-generative-ai/</loc>
-    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48565,12 +48493,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/discover/g0dm0d3/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/discover/garden-skills/</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -48633,12 +48555,6 @@
   <url>
     <loc>https://trescout.com/fr/discover/ghost/</loc>
     <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/discover/ghosttrack/</loc>
-    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49743,12 +49659,6 @@
   <url>
     <loc>https://trescout.com/fr/discover/open-deep-research/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/fr/discover/open-generative-ai/</loc>
-    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -59005,12 +58915,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/pt/discover/g0dm0d3/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/pt/discover/garden-skills/</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -59073,12 +58977,6 @@
   <url>
     <loc>https://trescout.com/pt/discover/ghost/</loc>
     <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/pt/discover/ghosttrack/</loc>
-    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -60183,12 +60081,6 @@
   <url>
     <loc>https://trescout.com/pt/discover/open-deep-research/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/pt/discover/open-generative-ai/</loc>
-    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

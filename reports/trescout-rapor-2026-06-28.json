@@ -72,12 +72,6 @@
           "meta": "Python · ★ 53.886 · +394 bugün"
         },
         {
-          "title": "Anil-matcha/Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "summary": "Open-Generative-AI, içerik filtrelemesi bulunmayan ve 200'den fazla görsel ile video oluşturma modelini (model) barındıran açık kaynaklı bir stüdyo platformudur. Kullanıcılar, MIT lisansıyla sunulan bu yazılımı kendi sunucularında (self-hosted) çalıştırarak görsel üretim süreçlerini özgürce yönetebilirler.",
-          "meta": "JavaScript · ★ 21.507 · +255 bugün"
-        },
-        {
           "title": "topoteretes/cognee",
           "url": "https://github.com/topoteretes/cognee",
           "summary": "Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) kazandıran açık kaynaklı bir platformdur. Kendi kendine barındırılan bir bilgi çizgesi motoru (knowledge graph engine) kullanarak ajanların verileri yapılandırılmış bir şekilde saklamasını ve geri çağırmasını sağlar.",

@@ -84,12 +84,6 @@
           "meta": "TypeScript · ★ 13.116 · +245 bugün"
         },
         {
-          "title": "HunxByts/GhostTrack",
-          "url": "https://github.com/HunxByts/GhostTrack",
-          "summary": "Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır. Açık kaynaklı bu yazılım, hedef numaranın coğrafi verilerini tespit etmek amacıyla geliştirilmiştir.",
-          "meta": "Python · ★ 13.874 · +28 bugün"
-        },
-        {
           "title": "microsoft/pg_durable",
           "url": "https://github.com/microsoft/pg_durable",
           "summary": "Microsoft tarafından geliştirilen pg_durable, PostgreSQL üzerinde dayanıklı yürütme (durable execution) süreçlerini yönetmek için tasarlanmış bir kütüphanedir. Rust diliyle yazılan araç, karmaşık iş akışlarını veritabanı içerisinde hata toleranslı ve kalıcı bir şekilde çalıştırmayı sağlar.",

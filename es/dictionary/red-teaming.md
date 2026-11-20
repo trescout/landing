@@ -69,10 +69,6 @@ Al menos una vez al año, y de nuevo tras un cambio importante. Se realiza por v
 - [Cybersecurity Skills](https://trescout.com/es/dictionary/cybersecurity-skills/)
 - [Adversarial Analysis](https://trescout.com/es/dictionary/adversarial-analysis/)
 
-## Herramientas relacionadas
-
-- [G0DM0D3](https://trescout.com/es/discover/g0dm0d3/)
-
 Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/red-teaming/)
 
 ---

@@ -72,12 +72,6 @@
           "meta": "Python · ★ 53,886 · +394 today"
         },
         {
-          "title": "Anil-matcha/Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "summary": "Open-Generative-AI is an open source studio platform with no content filtering and more than 200 visual and video creation models. Users can freely manage their visual production processes by running this software, which is offered under the MIT license, on their own servers (self-hosted).",
-          "meta": "JavaScript · ★ 21,507 · +255 today"
-        },
-        {
           "title": "topoteretes/cognee",
           "url": "https://github.com/topoteretes/cognee",
           "summary": "Cognee is an open source platform that provides long-term memory to artificial intelligence agents. It enables agents to store and retrieve data in a structured way, using a self-hosted knowledge graph engine.",

@@ -69,10 +69,6 @@ Mindestens einmal im Jahr, und nach größeren Änderungen erneut. Auf der Model
 - [Cybersecurity Skills](https://trescout.com/de/dictionary/cybersecurity-skills/)
 - [Adversarial Analysis](https://trescout.com/de/dictionary/adversarial-analysis/)
 
-## Verwandte Werkzeuge
-
-- [G0DM0D3](https://trescout.com/de/discover/g0dm0d3/)
-
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/red-teaming/)
 
 ---

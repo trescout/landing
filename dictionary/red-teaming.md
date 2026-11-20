@@ -69,10 +69,6 @@ Yılda en az bir kez, büyük değişiklik sonrası tekrar. Model tarafında sü
 - [Cybersecurity Skills](https://trescout.com/dictionary/cybersecurity-skills/)
 - [Adversarial Analysis](https://trescout.com/dictionary/adversarial-analysis/)
 
-## İlgili araçlar
-
-- [G0DM0D3](https://trescout.com/discover/g0dm0d3/)
-
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
