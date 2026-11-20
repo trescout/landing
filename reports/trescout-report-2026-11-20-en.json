@@ -1,0 +1,909 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-20",
+  "capturedAt": "2026-11-20T05:20:35.398Z",
+  "editorial": "Today's technology agenda highlights the evolution of AI models into world models and the increase in precision in metric monocular depth perception technologies. Security-focused bug hunter tools on GitHub and Anthropic's market activity are defining the technical and economic dynamics of the day.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "summary": "elementalsouls/Claude-BugHunter is a Claude Code capability package developed for bug hunting and red-team work. It supports cybersecurity processes with 681 report patterns covering 82 different capabilities, 15 commands, and 24 basic vulnerability classes.",
+          "meta": "Python · ★ 12,829 · +1,349 today",
+          "snapshot": {
+            "sourceId": "elementalsouls/Claude-BugHunter",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 12829,
+              "engagementCount": 1349,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1349
+              }
+            },
+            "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers is a capability framework and software development methodology developed for AI coding agents. It aims to standardize the software development processes of agents through composable capabilities and prompting instructions.",
+          "meta": "Shell · ★ 322,234 · +2,028 today",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 322234,
+              "engagementCount": 2028,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2028,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything is a command-line interface (CLI) that makes software tools suitable for use by AI agents. This tool enables AI-powered platforms such as Pi, OpenClaw, nanobot, Cursor, and Claude Code to work integrated with different software.",
+          "meta": "Python · ★ 60,716 · +898 today",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60716,
+              "engagementCount": 898,
+              "rank": 3,
+              "extra": {
+                "starsToday": 898,
+                "baglam": "readme"
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: One Command Line: Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch"
+          }
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "jingyaogong/minimind allows for training a 64M parameter large language model (LLM) from scratch on personal devices within two hours. The project aims for users to understand the fundamental working mechanisms of AI models by building them themselves, rather than fine-tuning pre-made models.",
+          "meta": "Python · ★ 67,094 · +238 today",
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 67094,
+              "engagementCount": 238,
+              "rank": 4,
+              "extra": {
+                "starsToday": 238,
+                "baglam": "readme"
+              }
+            },
+            "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. 大语言模型（Large Language Model, LLM）的出现，引发了全球范围内对 AI 的空前关注。无论是 ChatGPT、DeepSeek 还是 Qwen，都以惊艳的效果让人真切感受到这场技术浪潮的冲击力。然而，动辄数百亿参数的模型规模，使得它们对个人设备而言不仅难以训练，甚至连部署都显得遥不可及。打开大模型的“黑盒子”，真正去理解其内部运作机制，本应是一件令人心潮澎湃的事。遗憾的是，绝大多数探索最终都止步于使用 LoRA 等技术对现有大模型做少量微调，学习一些新指令或特定任务。这更像是在教牛顿如何使用 21 世纪的智能手机——虽然有趣，却偏离了理解物理本质的初衷。"
+          }
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor offers a repository containing the technical standards and official extensions developed for the code editor Cursor. Prepared in the TypeScript language, this resource allows developers to contribute to the platform's specific extension ecosystem.",
+          "meta": "TypeScript · ★ 17,619 · +384 today",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 17619,
+              "engagementCount": 384,
+              "rank": 5,
+              "extra": {
+                "starsToday": 384
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          }
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl is an information infrastructure that performs data collection and search operations from the internet to feed AI agents through a single application programming interface (API). This system, which developers can host on their own servers, is offered with software development kits (SDKs) that facilitate data collection processes.",
+          "meta": "TypeScript · ★ 204,452 · +825 today",
+          "snapshot": {
+            "sourceId": "firecrawl/firecrawl",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 204452,
+              "engagementCount": 825,
+              "rank": 6,
+              "extra": {
+                "starsToday": 825,
+                "baglam": "readme"
+              }
+            },
+            "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three."
+          }
+        },
+        {
+          "title": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "summary": "NGINX is an open-source software used as a web server, load balancer, reverse proxy, API gateway, and content cache. Developed in the C language, this project provides high-performance network traffic management solutions.",
+          "meta": "C · ★ 32,388 · +73 today",
+          "snapshot": {
+            "sourceId": "nginx/nginx",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 32388,
+              "engagementCount": 73,
+              "rank": 7,
+              "extra": {
+                "starsToday": 73,
+                "baglam": "readme"
+              }
+            },
+            "description": "The official NGINX Open Source repository. NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache."
+          }
+        },
+        {
+          "title": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "summary": "OpenVINO is an open-source toolkit developed to optimize and deploy the inference processes of AI models. Written in C++, this project enables models to run more efficiently on different hardware.",
+          "meta": "C++ · ★ 11,604 · +246 today",
+          "snapshot": {
+            "sourceId": "openvinotoolkit/openvino",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 11604,
+              "engagementCount": 246,
+              "rank": 8,
+              "extra": {
+                "starsToday": 246,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference. Check out the OpenVINO Cheat Sheet and Key Features for a quick reference."
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design contains 45 different diagram designs prepared for AI coding tools such as Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. These designs are presented in HTML and SVG formats that do not contain shadows and do not require external dependencies.",
+          "meta": "HTML · ★ 68,782 · +271 today",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 68782,
+              "engagementCount": 271,
+              "rank": 9,
+              "extra": {
+                "starsToday": 271
+              }
+            },
+            "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          }
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "mvanhorn/last30days-skill offers an AI skill that summarizes topics by conducting research on Reddit, X, YouTube, Hacker News, Polymarket, and the general web. Developed in Python, this tool aims to provide the user with a grounded summary by synthesizing data collected from different platforms.",
+          "meta": "Python · ★ 70,942 · +954 today",
+          "snapshot": {
+            "sourceId": "mvanhorn/last30days-skill",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 70942,
+              "engagementCount": 954,
+              "rank": 10,
+              "extra": {
+                "starsToday": 954
+              }
+            },
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "Developed by Google, stitch-skills is an agent skills library designed to work compatibly with the Stitch MCP server. This structure offers open-standard skills that can be used with software such as Antigravity, Gemini CLI, Claude Code, and the code editor Cursor.",
+          "meta": "TypeScript · ★ 10,788 · +302 today",
+          "snapshot": {
+            "sourceId": "google-labs-code/stitch-skills",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10788,
+              "engagementCount": 302,
+              "rank": 11,
+              "extra": {
+                "starsToday": 302
+              }
+            },
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+          }
+        },
+        {
+          "title": "mjmirza/app-store-compliance",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "summary": "mjmirza/app-store-compliance offers an open guide containing 117 different rejection patterns and solutions encountered in app store review processes. It aims to simplify App Store and Google Play approval processes for developers with tools such as regulatory tracking and privacy notices.",
+          "meta": "Shell · ★ 2,003 · +377 today",
+          "snapshot": {
+            "sourceId": "mjmirza/app-store-compliance",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 2003,
+              "engagementCount": 377,
+              "rank": 12,
+              "extra": {
+                "starsToday": 377
+              }
+            },
+            "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
+          }
+        },
+        {
+          "title": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "summary": "Tracer-Cloud/opensre is an open-source artificial intelligence agent developed for processes (CI/CD) that enable software updates to be automatically tested and deployed. This tool, which does not require administrative privileges during installation, aims to increase system reliability.",
+          "meta": "Python · ★ 13,217 · +38 today",
+          "snapshot": {
+            "sourceId": "Tracer-Cloud/opensre",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13217,
+              "engagementCount": 38,
+              "rank": 13,
+              "extra": {
+                "starsToday": 38,
+                "baglam": "readme"
+              }
+            },
+            "description": "The open-source agent for CI/CD reliability. The installer fetches the latest build from main without requiring sudo. If opensre is not found, follow the PATH instructions printed by the installer or open a new terminal."
+          }
+        },
+        {
+          "title": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "summary": "AFFiNE is a next-generation knowledge base that combines planning, editing, and content creation processes into a single platform. This privacy-focused and open-source (source code is open for everyone to access and develop) software offers a workspace as an alternative to tools like Notion and Miro.",
+          "meta": "TypeScript · ★ 75,279 · +182 today",
+          "snapshot": {
+            "sourceId": "toeverything/AFFiNE",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 75279,
+              "engagementCount": 182,
+              "rank": 14,
+              "extra": {
+                "starsToday": 182
+              }
+            },
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+          }
+        },
+        {
+          "title": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "summary": "XiaoYouChR/Ghost-Downloader-3 is a comprehensive file downloader that runs on four different platforms and supports almost all download protocols. Developed in Python, this project offers a structure that can expand its functionality through plugin-based feature packs.",
+          "meta": "Python · ★ 12,971 · +341 today",
+          "snapshot": {
+            "sourceId": "XiaoYouChR/Ghost-Downloader-3",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 12971,
+              "engagementCount": 341,
+              "rank": 15,
+              "extra": {
+                "starsToday": 341,
+                "baglam": "readme"
+              }
+            },
+            "description": "The only downloader you need. 下载器的集大成者。. Started as a passion project to help a Bilibili creator manage resources. Now it ships on four platforms, handles virtually every download protocol, and has a growing Feature Packs plugin ecosystem."
+          }
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "AutoClip is an open-source desktop video editing tool that automatically converts long videos into short clips. The software prepares content such as podcasts, interviews, and lectures for social media platforms, complete with subtitles, cover images, and descriptions.",
+          "meta": "Python · ★ 11,467 · +126 today",
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-11-20T05:20:36.851Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 11467,
+              "engagementCount": 126,
+              "rank": 16,
+              "extra": {
+                "starsToday": 126
+              }
+            },
+            "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Anthropic’s Nasdaq debut",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+          "summary": "AI company Anthropic has completed its initial public offering (IPO) and started trading on the Nasdaq stock exchange. This step is considered a turning point that tests the potential and risks of the AI technologies developed by the company in financial markets.",
+          "meta": "1,014 points · 1,999 comments",
+          "snapshot": {
+            "sourceId": "50562754",
+            "capturedAt": "2026-11-20T05:20:35.962Z",
+            "metadata": {
+              "popularity": 1014,
+              "engagementCount": 1999,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50562754",
+                  "popularity": 1014,
+                  "engagementCount": 1999
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-19T17:02:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50562754"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50562754",
+              "popularity": 1014,
+              "engagementCount": 1999
+            }
+          ]
+        },
+        {
+          "title": "Garage Door Spam",
+          "url": "https://blog.harrison.page/garage-door-spam/",
+          "summary": "Garage Door Spam addresses the annoyance caused by unnecessary notifications sent to users by smart garage door opening systems. Users state that while receiving instant alerts about door movements is beneficial for security, the system sending erroneous or excessive notifications poses a problem.",
+          "meta": "801 points · 335 comments",
+          "snapshot": {
+            "sourceId": "50519231",
+            "capturedAt": "2026-11-20T05:20:35.962Z",
+            "metadata": {
+              "popularity": 801,
+              "engagementCount": 335,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50519231",
+                  "popularity": 801,
+                  "engagementCount": 335
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-16T16:13:36Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50519231",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "In the beginning, my garage door opener worked fine. When the door opened or closed, I would get a notification. If I'm away from home and the door opens, so..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50519231",
+              "popularity": 801,
+              "engagementCount": 335
+            }
+          ]
+        },
+        {
+          "title": "Pancreatic cancer halted by virus injection in three patients",
+          "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+          "summary": "A virus injection method applied to three patients diagnosed with pancreatic cancer has succeeded in stopping tumor growth. This treatment approach has the potential to prevent the progression of the disease through the use of viruses that target cancer cells.",
+          "meta": "692 points · 108 comments",
+          "snapshot": {
+            "sourceId": "50563066",
+            "capturedAt": "2026-11-20T05:20:35.962Z",
+            "metadata": {
+              "popularity": 692,
+              "engagementCount": 108,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50563066",
+                  "popularity": 692,
+                  "engagementCount": 108
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-19T17:25:33Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50563066"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;archive.ph&#x2F;2Et0x"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50563066",
+              "popularity": 692,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "UK government forced to admit it issued Apple a secret encryption order",
+          "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+          "summary": "The UK government was forced to admit that it had issued a secret encryption order to the technology company Apple. The Investigatory Powers Tribunal rejected the government's request to keep this order secret, issuing a decision in the name of transparency.",
+          "meta": "576 points · 260 comments",
+          "snapshot": {
+            "sourceId": "50562113",
+            "capturedAt": "2026-11-20T05:20:35.962Z",
+            "metadata": {
+              "popularity": 576,
+              "engagementCount": 260,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50562113",
+                  "popularity": 576,
+                  "engagementCount": 260
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-19T16:21:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50562113",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "The Investigatory Powers Tribunal has rejected the UK government’s attempt to keep its order secret, marking a significant victory for transparency."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50562113",
+              "popularity": 576,
+              "engagementCount": 260
+            }
+          ]
+        },
+        {
+          "title": "Claude solves two open problems in the physics of black holes",
+          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+          "summary": "Claude Fable 5.2 has solved two open problems related to black hole physics and the search for a theory of quantum gravity. This work demonstrates the capacity of artificial intelligence to address complex problems in the field of theoretical physics.",
+          "meta": "440 points · 203 comments",
+          "snapshot": {
+            "sourceId": "50563148",
+            "capturedAt": "2026-11-20T05:20:35.962Z",
+            "metadata": {
+              "popularity": 440,
+              "engagementCount": 203,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50563148",
+                  "popularity": 440,
+                  "engagementCount": 203
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-19T17:30:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50563148",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Claude Fable 5.2 has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50563148",
+              "popularity": 440,
+              "engagementCount": 203
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "higurashi-ai/Haru-4B",
+          "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+          "summary": "Haru-4B, published on Hugging Face, is a low-latency, multilingual audio-to-audio foundation model. This full-duplex model, which allows humans to listen and speak simultaneously as in phone conversations, has been released for research purposes.",
+          "meta": "♥ 3,662 · 6,266 downloads",
+          "snapshot": {
+            "sourceId": "higurashi-ai/Haru-4B",
+            "capturedAt": "2026-11-20T05:20:35.533Z",
+            "metadata": {
+              "popularity": 3662,
+              "engagementCount": 6266,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 309.5,
+                "pipelineTag": "audio-to-audio",
+                "tags": [
+                  "safetensors",
+                  "haru",
+                  "speech",
+                  "full-duplex",
+                  "speech-to-speech",
+                  "audio-to-audio",
+                  "en",
+                  "es",
+                  "pt",
+                  "de",
+                  "fr",
+                  "zh",
+                  "ja",
+                  "ru",
+                  "ko",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "audio-to-audio model. Haru-4B is a low-latency and multilingual full-duplex continuous spoken dialogue foundation model: it listens and speaks at the same time, the way people do on a phone call. It is a pretrained base model, released for research."
+          }
+        },
+        {
+          "title": "tencent/Hy4-flash",
+          "url": "https://huggingface.co/tencent/Hy4-flash",
+          "summary": "Developed by Tencent, Hy4-flash is an image-text-to-text model that processes text and image inputs to produce text output. Offering support for a context window of up to 1 million tokens, the model aims for efficient performance with a total capacity of 220 billion parameters.",
+          "meta": "♥ 361 · 2,053 downloads",
+          "snapshot": {
+            "sourceId": "tencent/Hy4-flash",
+            "capturedAt": "2026-11-20T05:20:35.533Z",
+            "metadata": {
+              "popularity": 361,
+              "engagementCount": 2053,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 302,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "hy_v4_flash",
+                  "text-generation",
+                  "hunyuan",
+                  "hy4-flash",
+                  "moe",
+                  "multimodal",
+                  "instruct",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:other",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Hy4 flash is our most cost-effective Hy model to date, featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token. It natively accepts text and image inputs, generates text, and supports a context window of up to 1M tokens."
+          }
+        },
+        {
+          "title": "apple/FastFrames-L",
+          "url": "https://huggingface.co/apple/FastFrames-L",
+          "summary": "Developed by Apple, FastFrames-L is a text-to-video model that enables video generation at 480p resolution with interactive latency. Designed as a two-stage autoregressive video diffusion model, this technology has been made available on the Hugging Face platform.",
+          "meta": "♥ 348 · 0 downloads",
+          "snapshot": {
+            "sourceId": "apple/FastFrames-L",
+            "capturedAt": "2026-11-20T05:20:35.533Z",
+            "metadata": {
+              "popularity": 348,
+              "engagementCount": 0,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 285,
+                "pipelineTag": "text-to-video",
+                "tags": [
+                  "safetensors",
+                  "text-to-video",
+                  "arxiv:2611.23226",
+                  "base_model:Wan-AI/Wan2.1-T2V-14B",
+                  "base_model:finetune:Wan-AI/Wan2.1-T2V-14B",
+                  "license:apple-amlr",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "text-to-video model. This repository contains the official implementation of FastFrames: Video Generation at Interactive Latency. We release FastFrames-S (1.3B) and FastFrames-L (14B). Both are autoregressive, two-step video diffusion models that generate 480p video at interactive latency."
+          }
+        },
+        {
+          "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+          "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+          "summary": "Shared on Hugging Face, harness-hub/Qwen3.8-27B-pi-adapted is a vision-text-based model customized for software development and terminal tasks. It was developed to serve as the infrastructure for the pi coding agent using Low-Rank Adaptation (LoRA) and reinforcement learning techniques applied to the Qwen/Qwen3.8-27B model.",
+          "meta": "♥ 750 · 1,320 downloads",
+          "snapshot": {
+            "sourceId": "harness-hub/Qwen3.8-27B-pi-adapted",
+            "capturedAt": "2026-11-20T05:20:35.533Z",
+            "metadata": {
+              "popularity": 750,
+              "engagementCount": 1320,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 259.5,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "peft",
+                  "safetensors",
+                  "trl",
+                  "grpo",
+                  "async-grpo",
+                  "lora",
+                  "agents",
+                  "harbor",
+                  "openenv",
+                  "pi",
+                  "image-text-to-text",
+                  "conversational",
+                  "dataset:harness-hub/scale800-harbor",
+                  "dataset:harness-hub/harness-adapters",
+                  "dataset:harness-hub/termgrade-train-harbor",
+                  "dataset:ai-and/termgrade-environments",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. A LoRA adapter for Qwen/Qwen3.8-27B, trained with reinforcement learning to work as the model behind the pi coding agent on software-engineering and terminal tasks."
+          }
+        },
+        {
+          "title": "inworld/voice-isolator",
+          "url": "https://huggingface.co/inworld/voice-isolator",
+          "summary": "Shared on Hugging Face, inworld/voice-isolator is an audio-to-audio conversion model. Inworld Voice Isolator v1 consists of two different models that share the same architecture.",
+          "meta": "♥ 285 · 0 downloads",
+          "snapshot": {
+            "sourceId": "inworld/voice-isolator",
+            "capturedAt": "2026-11-20T05:20:35.533Z",
+            "metadata": {
+              "popularity": 285,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 256,
+                "pipelineTag": "audio-to-audio",
+                "tags": [
+                  "inworld-voice-isolation",
+                  "audio",
+                  "speech",
+                  "speech-enhancement",
+                  "speech-denoising",
+                  "noise-suppression",
+                  "voice-isolation",
+                  "48khz",
+                  "full-band",
+                  "streaming",
+                  "realtime",
+                  "audio-to-audio",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "audio-to-audio model. Inworld Voice Isolator v1 ships as two models that share one architecture:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "WM^MLLM: Turning MLLMs into World Models",
+          "url": "https://huggingface.co/papers/2611.24193",
+          "summary": "WM^MLLM is an interactive world model that enables the generation of persistent and editable worlds from a single image, based on multimodal large language models. The system stores the world state as a generator-independent panorama and revision history, managing user requests through operations performed on this state.",
+          "meta": "4 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.24193",
+            "capturedAt": "2026-11-20T05:20:35.539Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.24193",
+                "publishedAt": "2026-11-18T00:00:00.000Z",
+                "githubRepo": "https://github.com/ztMotaLee/WM_mllm",
+                "githubStars": 3
+              }
+            },
+            "description": "Video world models keep the world in the context of a generator, so a revisit is synthesized again and earlier edits can drift or disappear. We present WM^MLLM, the first interactive world model built on multimodal large language models (MLLMs), for persistent, editable world generation from a single image. WM^MLLM keeps the world state outside every generator, as a panorama with a revision history, and lets the MLLMs write it: they turn each request into operations on this state, select where a"
+          }
+        },
+        {
+          "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+          "url": "https://huggingface.co/papers/2611.26603",
+          "summary": "Shared on Hugging Face, Depth Pro 2 offers a method for full-resolution dense metric depth estimation for images and videos. Operating through a single scalable network, this approach aims to combine the sharpness advantages of single-frame methods with the temporal consistency advantages of multi-frame methods.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.26603",
+            "capturedAt": "2026-11-20T05:20:35.539Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26603",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
+                "githubStars": 17
+              }
+            },
+            "description": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that processes both images and video and predicts depth maps at native resolution. Depth Pro 2 produces dept"
+          }
+        },
+        {
+          "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+          "url": "https://huggingface.co/papers/2611.25387",
+          "summary": "TuringSpace is a study that evaluates the spatial intelligence of multimodal large language models in the visual world through interactive CAPTCHA tests. Based on the process of how humans understand a visual layout and correct it through action, this method aims to measure the spatial reasoning capabilities of AI models.",
+          "meta": "11 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.25387",
+            "capturedAt": "2026-11-20T05:20:35.539Z",
+            "metadata": {
+              "popularity": 11,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.25387",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/os-cua-framework/TuringSpace",
+                "githubStars": 0
+              }
+            },
+            "description": "Humans act in the visual world by inferring the 3D layout behind a 2D view, predicting how an action changes it, and correcting themselves after seeing the result. Can multimodal large language models (MLLMs) do the same? CAPTCHAs offer a natural test, since humans solve them through this very loop, clicking and dragging on the screen and adjusting after each result. Yet existing CAPTCHA benchmarks are largely solved and rarely spatial, while spatial benchmarks rarely require action. We therefor"
+          }
+        },
+        {
+          "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+          "url": "https://huggingface.co/papers/2611.26409",
+          "summary": "Shared on Hugging Face, WeMM-Video is an open-source family of multimodal foundation models that aims to improve video understanding capabilities by processing visual and auditory data together. With versions of different sizes, it supports both fast response modes and complex reasoning processes by processing text, image, audio, and video data in a unified structure.",
+          "meta": "6 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2611.26409",
+            "capturedAt": "2026-11-20T05:20:35.539Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26409",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/Tencent/WeMM-Video",
+                "githubStars": 5
+              }
+            },
+            "description": "Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual perception and reasoning, WeMM-Video unifies text, image, audio, and video processing within a hybrid-thinking paradigm, seamlessly supporting both a non-thinking instruct mode for fast, direct response"
+          }
+        },
+        {
+          "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+          "url": "https://huggingface.co/papers/2611.21383",
+          "summary": "Shared by Hugging Face, VODA is a supervision objective aimed at addressing the lack of supervision problem seen in 3D Gaussian Splatting-based object segmentation methods. The method leverages local depth structure to enable more effective training of Gaussian elements that remain hidden or contribute poorly.",
+          "meta": "1 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2611.21383",
+            "capturedAt": "2026-11-20T05:20:35.539Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.21383",
+                "publishedAt": "2026-11-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/jhxcho/voda",
+                "githubStars": 6
+              }
+            },
+            "description": "3D Gaussian Splatting enables object-level operations on Gaussian primitives, yet existing segmentation methods are largely trained and evaluated through rendered views. This mismatch can produce accurate rendered masks from incomplete 3D selections since alpha-blended feature supervision concentrates learning on dominant contributors while leaving occluded or low-contribution Gaussians weakly supervised. We propose VODA, a plug-and-play supervision objective that exploits local depth structure "
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "bug hunting",
+      "explanation": "Systematic work performed to find bugs and security vulnerabilities in software."
+    },
+    {
+      "term": "red-team work",
+      "explanation": "Security work performed by imitating the methods of malicious attackers to test the security of a system."
+    },
+    {
+      "term": "framework",
+      "explanation": "A regulatory infrastructure that provides the basic structures, rules, and tools used while developing software."
+    },
+    {
+      "term": "CLI",
+      "explanation": "A text-based interface that allows you to manage programs by entering written commands instead of clicking with a mouse."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Artificial intelligence models trained on massive data that can understand human language and generate text."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "The process of retraining a pre-trained artificial intelligence model with smaller datasets to make it more successful in a specific subject."
+    },
+    {
+      "term": "code editor",
+      "explanation": "A specialized computer program used by software developers to write, edit, and manage code files."
+    },
+    {
+      "term": "API",
+      "explanation": "A connection point that allows different software applications to exchange data and communicate with each other."
+    },
+    {
+      "term": "SDK",
+      "explanation": "A set of tools and code snippets that make it easier for developers to build applications for a specific platform or system."
+    },
+    {
+      "term": "load balancer",
+      "explanation": "A technology that prevents system overload by distributing incoming internet traffic across multiple servers."
+    },
+    {
+      "term": "reverse proxy",
+      "explanation": "An intermediary server that handles requests from the internet, directs them to the relevant servers, and enhances security."
+    },
+    {
+      "term": "open source",
+      "explanation": "A type of software where the source code is open for anyone to access, inspect, and improve."
+    },
+    {
+      "term": "inference",
+      "explanation": "The stage where a trained artificial intelligence model generates predictions or results using new data provided to it."
+    },
+    {
+      "term": "skill",
+      "explanation": "A specialized capability used by artificial intelligence agents to perform a specific task."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "A collection of functional capabilities that artificial intelligence agents need to perform complex tasks."
+    },
+    {
+      "term": "CI/CD",
+      "explanation": "A set of processes that enable software updates to be automatically tested and deployed quickly and error-free."
+    }
+  ]
+}
