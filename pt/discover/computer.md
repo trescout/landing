@@ -8,10 +8,10 @@ Desenvolvido pela Cloudflare, Computer é uma biblioteca TypeScript que dá aos 
 
 ## Atualizações
 
+- **20 de novembro de 2026:** Estrelas 9,936 → 9,936, versão mais recente @cloudflare/computer@0.11.4 (19 de novembro de 2026).
 - **18 de novembro de 2026:** Estrelas 9,907 → 9,936, versão mais recente @cloudflare/computer@0.11.3 (17 de novembro de 2026).
 - **13 de novembro de 2026:** Estrelas 9,900 → 9,907, versão mais recente @cloudflare/computer@0.11.2 (12 de novembro de 2026).
 - **12 de novembro de 2026:** Estrelas 9,844 → 9,900, versão mais recente @cloudflare/computer@0.11.1 (11 de novembro de 2026).
-- **6 de novembro de 2026:** Estrelas 9,794 → 9,844, versão mais recente @cloudflare/computer@0.10.0 (5 de novembro de 2026).
 
 ## O que você ganha
 

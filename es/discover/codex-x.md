@@ -2,15 +2,15 @@
 
 Codex-X es una herramienta de interfaz visual de escritorio y línea de comandos escrita en Rust, desarrollada para gestionar modelos de OpenAI Codex. El software centraliza la experiencia del desarrollador con funciones como gestión de API, sincronización de sesiones, inyección de prompts y gestión de habilidades (skills).
 
-- ★ 4.503
+- ★ 4.567
 - GitHub Trending · 2026-09-20
 
 ## Actualizaciones
 
+- **20 de noviembre de 2026:** Estrellas 4,503 → 4,567, última versión v0.3.35 (19 de noviembre de 2026).
 - **15 de noviembre de 2026:** Estrellas 4,422 → 4,503, última versión v0.3.34 (14 de noviembre de 2026).
 - **10 de noviembre de 2026:** Estrellas 4,308 → 4,422, última versión v0.3.33 (9 de noviembre de 2026).
 - **25 de octubre de 2026:** Estrellas 4,262 → 4,308, última versión v0.3.30 (24 de octubre de 2026).
-- **20 de octubre de 2026:** Estrellas 4,233 → 4,262, última versión v0.3.28 (20 de octubre de 2026).
 
 ## Qué aporta
 

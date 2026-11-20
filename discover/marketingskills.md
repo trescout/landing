@@ -2,16 +2,16 @@
 
 Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüphanesi, dönüşüm oranı optimizasyonu (CRO), metin yazarlığı, arama motoru optimizasyonu (SEO), analitik ve büyüme mühendisliği gibi alanlarda özelleşmiş yetenekler sunuyor. Bu araç seti, yapay zekâ modellerinin pazarlama odaklı görevleri daha profesyonel ve veriye dayalı şekilde yürütmesini sağlıyor.
 
-- ★ 61.223
+- ★ 61.560
 - JavaScript
 - GitHub Trending · 2026-07-06
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 61.223 → 61.560, son sürüm v2.14.25 (20 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 59.817 → 61.223, son sürüm v2.14.13 (18 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 59.639 → 59.817, son sürüm v2.14.12 (11 Kasım 2026).
 - **11 Kasım 2026:** Yıldız 59.487 → 59.639, son sürüm v2.14.10 (11 Kasım 2026).
-- **10 Kasım 2026:** Yıldız 58.953 → 59.487, son sürüm v2.14.9 (9 Kasım 2026).
 
 ## Ne kazandırır?
 

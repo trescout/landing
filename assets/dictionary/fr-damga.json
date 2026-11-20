@@ -447,6 +447,7 @@
  "llm-api": "a2a5c76f79bb6a99",
  "llm-inference": "2cce59806d82a3ac",
  "llm-wiki": "5a5a8308658eff95",
+ "load-balancer": "b1427ee88f3ce8bc",
  "load-generator": "8967c6b5fd1fd9b0",
  "local": "c5ad23503a9fe3fb",
  "local-agent-workflows": "c183d74c7b1400db",

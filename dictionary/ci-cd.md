@@ -79,9 +79,9 @@ Hat durur, yayın kesilir. Yedek plan ve hızlı geri alma bu yüzden şarttır.
 - [Googletest](https://trescout.com/discover/googletest/)
 - [Trivy](https://trescout.com/discover/trivy/)
 - [Openship](https://trescout.com/discover/openship/)
+- [Opensre](https://trescout.com/discover/opensre/)
 - [Ipatool](https://trescout.com/discover/ipatool/)
 - [Checkstyle](https://trescout.com/discover/checkstyle/)
-- [Flue](https://trescout.com/discover/flue/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

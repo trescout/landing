@@ -8,10 +8,10 @@ Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel vey
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 9.936 → 9.936, son sürüm @cloudflare/computer@0.11.4 (19 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 9.907 → 9.936, son sürüm @cloudflare/computer@0.11.3 (17 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 9.900 → 9.907, son sürüm @cloudflare/computer@0.11.2 (12 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 9.844 → 9.900, son sürüm @cloudflare/computer@0.11.1 (11 Kasım 2026).
-- **6 Kasım 2026:** Yıldız 9.794 → 9.844, son sürüm @cloudflare/computer@0.10.0 (5 Kasım 2026).
 
 ## Ne kazandırır?
 

@@ -61,8 +61,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Sandbox Agent Framework](https://trescout.com/fr/dictionary/sandbox-agent-framework/)
 - [Prompt](https://trescout.com/fr/dictionary/prompt/)
-- [CI/CD](https://trescout.com/fr/dictionary/ci-cd/)
 - [Sandbox](https://trescout.com/fr/dictionary/sandbox/)
+- [CI/CD](https://trescout.com/fr/dictionary/ci-cd/)
 - [Runtime](https://trescout.com/fr/dictionary/runtime/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)
 

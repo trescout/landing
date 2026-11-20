@@ -37,6 +37,7 @@ Ana kodu değiştirmek, yazılım güncellendiğinde tüm değişikliklerinizin 
 ## İlgili araçlar
 
 - [Everything Claude Code](https://trescout.com/discover/everything-claude-code/)
+- [App Store Compliance](https://trescout.com/discover/app-store-compliance/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

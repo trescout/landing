@@ -70,8 +70,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Sandbox Agent Framework](https://trescout.com/dictionary/sandbox-agent-framework/)
 - [Prompt](https://trescout.com/dictionary/prompt/)
-- [CI/CD](https://trescout.com/dictionary/ci-cd/)
 - [Sandbox](https://trescout.com/dictionary/sandbox/)
+- [CI/CD](https://trescout.com/dictionary/ci-cd/)
 - [Runtime](https://trescout.com/dictionary/runtime/)
 - [Framework](https://trescout.com/dictionary/framework/)
 

@@ -61,8 +61,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Sandbox Agent Framework](https://trescout.com/en/dictionary/sandbox-agent-framework/)
 - [Prompt](https://trescout.com/en/dictionary/prompt/)
-- [CI/CD](https://trescout.com/en/dictionary/ci-cd/)
 - [Sandbox](https://trescout.com/en/dictionary/sandbox/)
+- [CI/CD](https://trescout.com/en/dictionary/ci-cd/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
 - [Framework](https://trescout.com/en/dictionary/framework/)
 

@@ -34,6 +34,7 @@ No, es una filosofía muy extendida en el mundo del desarrollo de software en ge
 
 ## Términos relacionados
 
+- [Virtual DOM](https://trescout.com/es/dictionary/virtual-dom/)
 - [Frontend](https://trescout.com/es/dictionary/frontend/)
 - [Framework](https://trescout.com/es/dictionary/framework/)
 

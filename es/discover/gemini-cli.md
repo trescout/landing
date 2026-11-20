@@ -2,16 +2,16 @@
 
 Desarrollado por Google, gemini-cli es una herramienta de código abierto que proporciona acceso directo al modelo de inteligencia artificial Gemini a través de la terminal. El software permite a los usuarios crear peticiones (prompts) de IA de manera rápida y ligera en un entorno de línea de comandos.
 
-- ★ 108.933
+- ★ 108.949
 - TypeScript
 - GitHub Trending · 2026-10-25
 
 ## Actualizaciones
 
+- **20 de noviembre de 2026:** Estrellas 108,933 → 108,949, última versión v0.70.0 (19 de noviembre de 2026).
 - **19 de noviembre de 2026:** Estrellas 108,770 → 108,933, última versión v0.69.0 (19 de noviembre de 2026).
 - **11 de noviembre de 2026:** Estrellas 108,732 → 108,770, última versión v0.68.0 (10 de noviembre de 2026).
 - **5 de noviembre de 2026:** Estrellas 108,592 → 108,732, última versión v0.67.0 (4 de noviembre de 2026).
-- **28 de octubre de 2026:** Estrellas 108,179 → 108,592, última versión v0.66.0 (27 de octubre de 2026).
 
 ## Qué aporta
 

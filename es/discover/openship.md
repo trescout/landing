@@ -64,8 +64,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Deployment Platform](https://trescout.com/es/dictionary/deployment-platform/)
 - [Deployment](https://trescout.com/es/dictionary/deployment/)
-- [CI/CD](https://trescout.com/es/dictionary/ci-cd/)
 - [Self-hosted](https://trescout.com/es/dictionary/self-hosted/)
+- [CI/CD](https://trescout.com/es/dictionary/ci-cd/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

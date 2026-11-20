@@ -34,6 +34,7 @@ Non, c'est une philosophie répandue dans le monde du développement logiciel en
 
 ## Termes liés
 
+- [Virtual DOM](https://trescout.com/fr/dictionary/virtual-dom/)
 - [Frontend](https://trescout.com/fr/dictionary/frontend/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)
 

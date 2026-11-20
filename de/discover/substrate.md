@@ -2,16 +2,16 @@
 
 Agent Substrate ist das Kernsystem, das eine skalierbare Infrastruktur für Agenten der künstlichen Intelligenz bereitstellt.
 
-- ★ 7.579
+- ★ 7.847
 - Go
 - GitHub Trending · 2026-08-20
 
 ## Aktualisierungen
 
+- **20. November 2026:** Sterne 7,579 → 7,847, neueste Version v1.0.1 (20. November 2026).
 - **18. November 2026:** Sterne 6,116 → 7,579, neueste Version v1.0.0 (5. November 2026).
 - **6. November 2026:** Sterne 6,074 → 6,116, neueste Version v1.0.0 (5. November 2026).
 - **5. November 2026:** Sterne 6,056 → 6,074, neueste Version v1.0.0-rc.3 (5. November 2026).
-- **4. November 2026:** Sterne 5,960 → 6,056, neueste Version v1.0.0-rc.2 (4. November 2026).
 
 ## Was es bringt
 

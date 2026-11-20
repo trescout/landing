@@ -2,12 +2,13 @@
 
 Solid est une bibliothèque JavaScript déclarative utilisée pour créer des interfaces utilisateur. Au lieu d'utiliser un modèle d'objet de document virtuel (Virtual DOM), elle compile les modèles directement en nœuds de modèle d'objet de document (DOM) réels, effectuant des mises à jour avec une réactivité à grain fin (fine-grained reactivity).
 
-- ★ 36 714
+- ★ 36 840
 - TypeScript
 - GitHub Trending · 2026-11-19
 
 ## Mises à jour
 
+- **20 novembre 2026:** Étoiles 36,714 → 36,840, dernière version @solidjs/signals@2.0.3 (19 novembre 2026).
 - **19 novembre 2026:** Étoiles 36,669 → 36,714, dernière version @solidjs/babel-plugin@2.0.2 (19 novembre 2026).
 - **19 novembre 2026:** Étoiles 36,662 → 36,669, dernière version @solidjs/diagnostics@2.0.1 (18 novembre 2026).
 

@@ -36,6 +36,7 @@ Il est possible de modifier cette structure en temps réel à l'aide de JavaScri
 
 ## Termes liés
 
+- [Virtual DOM](https://trescout.com/fr/dictionary/virtual-dom/)
 - [Frontend](https://trescout.com/fr/dictionary/frontend/)
 
 ## Outils liés

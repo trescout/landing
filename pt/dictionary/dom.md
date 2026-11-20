@@ -36,6 +36,7 @@ Sim, esta estrutura certamente opera por trás de cada página visual aberta no 
 
 ## Termos relacionados
 
+- [Virtual DOM](https://trescout.com/pt/dictionary/virtual-dom/)
 - [Frontend](https://trescout.com/pt/dictionary/frontend/)
 
 ## Ferramentas relacionadas

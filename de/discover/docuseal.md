@@ -2,16 +2,16 @@
 
 DocuSeal bietet eine Open-Source-Alternative zum Erstellen, Ausfüllen und Signieren digitaler Dokumente. Diese mit der Ruby-Sprache entwickelte Plattform bietet eine Lösung für Benutzer, die elektronische Signaturprozesse (E-Signatur) in ihrer eigenen Infrastruktur verwalten möchten.
 
-- ★ 19.057
+- ★ 19.103
 - Ruby
 - GitHub Trending · 2026-07-18
 
 ## Aktualisierungen
 
+- **20. November 2026:** Sterne 19,057 → 19,103, neueste Version 3.3.8 (19. November 2026).
 - **17. November 2026:** Sterne 19,030 → 19,057, neueste Version 3.3.7 (16. November 2026).
 - **10. November 2026:** Sterne 18,982 → 19,030, neueste Version 3.3.6 (9. November 2026).
 - **3. November 2026:** Sterne 18,802 → 18,982, neueste Version 3.3.5 (2. November 2026).
-- **27. Oktober 2026:** Sterne 18,752 → 18,802, neueste Version 3.3.4 (26. Oktober 2026).
 
 ## Was es bringt
 

@@ -2,16 +2,16 @@
 
 O Google Timeline Visualizer visualiza um ano de suas viagens com os dados do Histórico de localização do Google.
 
-- ★ 3.030
+- ★ 3.070
 - Kotlin
 - GitHub Trending · 2026-08-20
 
 ## Atualizações
 
+- **20 de novembro de 2026:** Estrelas 3,030 → 3,070, versão mais recente v3.1.1 (19 de novembro de 2026).
 - **5 de outubro de 2026:** Estrelas 2,990 → 3,030, versão mais recente v3.1.0 (5 de outubro de 2026).
 - **13 de setembro de 2026:** Estrelas 2,980 → 2,990, versão mais recente v3.0.18 (12 de setembro de 2026).
 - **9 de setembro de 2026:** Estrelas 2,972 → 2,980, versão mais recente v3.0.17 (9 de setembro de 2026).
-- **7 de setembro de 2026:** Estrelas 2,969 → 2,972, versão mais recente v3.0.16 (6 de setembro de 2026).
 
 ## O que você ganha
 

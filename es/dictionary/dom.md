@@ -36,6 +36,7 @@ Es posible cambiar esta estructura al instante y dar vida a la página utilizand
 
 ## Términos relacionados
 
+- [Virtual DOM](https://trescout.com/es/dictionary/virtual-dom/)
 - [Frontend](https://trescout.com/es/dictionary/frontend/)
 
 ## Herramientas relacionadas

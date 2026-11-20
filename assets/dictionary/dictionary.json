@@ -10970,5 +10970,18 @@
     "kisa_es": "El sistema que traduce los nombres de los sitios web a direcciones numéricas que las computadoras pueden entender.",
     "kisa_pt": "Sistema que converte os nomes dos sites de internet em endereços numéricos que os computadores entendem.",
     "kisa_de": "Ein System, das die Namen von Websites in numerische Adressen umwandelt, die Computer verstehen."
+  },
+  {
+    "slug": "load-balancer",
+    "en": "Load Balancer",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Gelen ağ trafiğini birden fazla sunucu arasında paylaştırarak sistemin çökmesini önleyen ve performansı artıran trafik yönlendiricisidir.",
+    "date": "2026-11-20",
+    "kisa_en": "It is a traffic router that distributes incoming network traffic across multiple servers, preventing system crashes and improving performance.",
+    "kisa_fr": "Il s'agit d'un routeur de trafic qui répartit le trafic réseau entrant entre plusieurs serveurs afin d'éviter les pannes du système et d'améliorer les performances.",
+    "kisa_es": "Es un enrutador de tráfico que distribuye el tráfico de red entrante entre varios servidores, lo que evita que el sistema colapse y mejora el rendimiento.",
+    "kisa_pt": "É um roteador de tráfego que distribui o tráfego de rede recebido entre vários servidores, evitando a queda do sistema e aumentando o desempenho.",
+    "kisa_de": "Es handelt sich um einen Verkehrsrouter, der eingehenden Netzwerkverkehr auf mehrere Server verteilt, um Systemabstürze zu verhindern und die Leistung zu steigern."
   }
 ]

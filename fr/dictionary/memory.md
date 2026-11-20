@@ -40,8 +40,8 @@ Sur la plupart des systèmes, vous pouvez supprimer ces données avec la command
 
 ## Outils liés
 
-- [Mempalace](https://trescout.com/fr/discover/mempalace/)
 - [Hindsight](https://trescout.com/fr/discover/hindsight/)
+- [Mempalace](https://trescout.com/fr/discover/mempalace/)
 - [Cognee](https://trescout.com/fr/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/fr/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/fr/discover/ai-memory/)

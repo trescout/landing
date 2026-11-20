@@ -73,8 +73,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Deployment Platform](https://trescout.com/dictionary/deployment-platform/)
 - [Deployment](https://trescout.com/dictionary/deployment/)
-- [CI/CD](https://trescout.com/dictionary/ci-cd/)
 - [Self-hosted](https://trescout.com/dictionary/self-hosted/)
+- [CI/CD](https://trescout.com/dictionary/ci-cd/)
 - [CLI](https://trescout.com/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

@@ -79,9 +79,9 @@ La ligne s'arrête et la diffusion est interrompue. C'est pourquoi un plan de sa
 - [Googletest](https://trescout.com/fr/discover/googletest/)
 - [Trivy](https://trescout.com/fr/discover/trivy/)
 - [Openship](https://trescout.com/fr/discover/openship/)
+- [Opensre](https://trescout.com/fr/discover/opensre/)
 - [Ipatool](https://trescout.com/fr/discover/ipatool/)
 - [Checkstyle](https://trescout.com/fr/discover/checkstyle/)
-- [Flue](https://trescout.com/fr/discover/flue/)
 
 Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/ci-cd/)
 

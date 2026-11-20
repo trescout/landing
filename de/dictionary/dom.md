@@ -36,6 +36,7 @@ Es ist möglich, diese Struktur mithilfe von JavaScript in Echtzeit zu veränder
 
 ## Verwandte Begriffe
 
+- [Virtual DOM](https://trescout.com/de/dictionary/virtual-dom/)
 - [Frontend](https://trescout.com/de/dictionary/frontend/)
 
 ## Verwandte Werkzeuge

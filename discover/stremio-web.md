@@ -2,16 +2,16 @@
 
 Stremio, farklı içerik sağlayıcılarını tek bir arayüzde birleştiren bir medya oynatıcı (media player) uygulamasıdır. Web tabanlı bu sürüm, kullanıcıların herhangi bir kurulum yapmadan tarayıcı üzerinden dizi ve film izlemesine olanak tanır.
 
-- ★ 15.066
+- ★ 15.193
 - JavaScript
 - GitHub Trending · 2026-09-07
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 15.066 → 15.193, son sürüm v5.2.0 (19 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 14.721 → 15.066, son sürüm v5.1.0 (12 Kasım 2026).
 - **21 Ekim 2026:** Yıldız 14.524 → 14.721, son sürüm v5.0.0-beta.43 (20 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 14.129 → 14.524, son sürüm v5.0.0-beta.42 (12 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 13.968 → 14.129, son sürüm v5.0.0-beta.41 (5 Ekim 2026).
 
 ## Ne kazandırır?
 

@@ -2,16 +2,16 @@
 
 OpenSpec ist eine TypeScript-Bibliothek, die spezifikationsgesteuerte Entwicklungsprozesse für Code-Assistenten für künstliche Intelligenz unterstützt. Es gewährleistet eine Standardisierung der technischen Anforderungen während der Softwareentwicklungsphasen und einen kontrollierteren Fortschritt der Codeproduktionsprozesse.
 
-- ★ 75.024
+- ★ 75.295
 - TypeScript
 - GitHub Trending · 2026-06-28
 
 ## Aktualisierungen
 
+- **20. November 2026:** Sterne 75,024 → 75,295, neueste Version v2.1.1 (19. November 2026).
 - **17. November 2026:** Sterne 74,659 → 75,024, neueste Version v2.1.0 (17. November 2026).
 - **12. November 2026:** Sterne 74,478 → 74,659, neueste Version v2.0.0 (11. November 2026).
 - **10. November 2026:** Sterne 74,185 → 74,478, neueste Version v1.17.0 (9. November 2026).
-- **7. November 2026:** Sterne 73,483 → 74,185, neueste Version v1.16.1 (7. November 2026).
 
 ## Was es bringt
 

@@ -2,16 +2,16 @@
 
 O plannotator é uma plataforma para agentes de IA que consolida os processos de planejamento, revisão de código e feedback em um único espaço de trabalho. Desenvolvido em TypeScript, esta ferramenta permite que as equipes gerenciem suas interações com os agentes e enviem feedbacks diretamente a eles.
 
-- ★ 13.398
+- ★ 13.721
 - TypeScript
 - GitHub Trending · 2026-11-14
 
 ## Atualizações
 
+- **20 de novembro de 2026:** Estrelas 13,398 → 13,721, versão mais recente v0.29.1 (19 de novembro de 2026).
 - **18 de novembro de 2026:** Estrelas 12,816 → 13,398, versão mais recente v0.29.0 (18 de novembro de 2026).
 - **17 de novembro de 2026:** Estrelas 12,155 → 12,816, versão mais recente v0.28.67 (17 de novembro de 2026).
 - **16 de novembro de 2026:** Estrelas 11,283 → 12,155, versão mais recente v0.28.66 (16 de novembro de 2026).
-- **15 de novembro de 2026:** Estrelas 10,535 → 11,283, versão mais recente v0.28.65 (15 de novembro de 2026).
 
 ## O que você ganha
 

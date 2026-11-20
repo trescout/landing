@@ -19,10 +19,10 @@ docker run --rm -it --name ppf-contact-solver --gpus all -p 127.0.0.1:8080:8080 
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 4.614 → 4.614, son sürüm addon-2026-11-20-0804 (19 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 4.614 → 4.614, son sürüm addon-2026-11-19-0614 (18 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 4.609 → 4.614, son sürüm addon-2026-11-18-1430 (18 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 4.609 → 4.609, son sürüm addon-2026-11-17-1637 (17 Kasım 2026).
-- **17 Kasım 2026:** Yıldız 4.600 → 4.609, son sürüm addon-2026-11-16-2204 (16 Kasım 2026).
 
 - **Kimin için:** Grafik/fizik simülasyonu yapan teknik kullanıcılar, araştırmacılar
 - **Zorluk:** İleri · teknik/araştırma odaklı

@@ -36,6 +36,7 @@ It is possible to change this structure instantly and animate the page using Jav
 
 ## Related terms
 
+- [Virtual DOM](https://trescout.com/en/dictionary/virtual-dom/)
 - [Frontend](https://trescout.com/en/dictionary/frontend/)
 
 ## Related tools

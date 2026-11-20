@@ -2,12 +2,13 @@
 
 Solid is a declarative JavaScript library used for building user interfaces. Instead of using a Virtual DOM, it compiles templates directly into real DOM nodes, performing updates with fine-grained reactivity.
 
-- ★ 36,714
+- ★ 36,840
 - TypeScript
 - GitHub Trending · 2026-11-19
 
 ## Updates
 
+- **November 20, 2026:** Stars 36,714 → 36,840, latest release @solidjs/signals@2.0.3 (November 19, 2026).
 - **November 19, 2026:** Stars 36,669 → 36,714, latest release @solidjs/babel-plugin@2.0.2 (November 19, 2026).
 - **November 19, 2026:** Stars 36,662 → 36,669, latest release @solidjs/diagnostics@2.0.1 (November 18, 2026).
 

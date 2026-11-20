@@ -2,16 +2,16 @@
 
 Google Timeline Visualizer visualisiert Ihre Reisen eines Jahres mit Ihren Google-Standortverlaufsdaten.
 
-- ★ 3.030
+- ★ 3.070
 - Kotlin
 - GitHub Trending · 2026-08-20
 
 ## Aktualisierungen
 
+- **20. November 2026:** Sterne 3,030 → 3,070, neueste Version v3.1.1 (19. November 2026).
 - **5. Oktober 2026:** Sterne 2,990 → 3,030, neueste Version v3.1.0 (5. Oktober 2026).
 - **13. September 2026:** Sterne 2,980 → 2,990, neueste Version v3.0.18 (12. September 2026).
 - **9. September 2026:** Sterne 2,972 → 2,980, neueste Version v3.0.17 (9. September 2026).
-- **7. September 2026:** Sterne 2,969 → 2,972, neueste Version v3.0.16 (6. September 2026).
 
 ## Was es bringt
 

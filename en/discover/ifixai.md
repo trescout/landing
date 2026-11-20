@@ -2,16 +2,16 @@
 
 iFixAi is an independent auditing tool that verifies whether AI agents perform their assigned tasks correctly. Developed in Python, this system can be run by humans or the agent itself to analyze process accuracy in under two minutes.
 
-- ★ 46,534
+- ★ 46,150
 - Python
 - GitHub Trending · 2026-10-15
 
 ## Updates
 
+- **November 20, 2026:** Stars 46,534 → 46,150, latest release v4.4.0 (November 20, 2026).
 - **November 18, 2026:** Stars 44,018 → 46,534, latest release v4.3.0 (October 22, 2026).
 - **November 8, 2026:** Stars 41,809 → 44,018, latest release v4.3.0 (October 22, 2026).
 - **November 1, 2026:** Stars 39,548 → 41,809, latest release v4.3.0 (October 22, 2026).
-- **October 31, 2026:** Stars 37,210 → 39,548, latest release v4.3.0 (October 22, 2026).
 
 ## What you get
 

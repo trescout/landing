@@ -64,8 +64,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [Deployment Platform](https://trescout.com/fr/dictionary/deployment-platform/)
 - [Deployment](https://trescout.com/fr/dictionary/deployment/)
-- [CI/CD](https://trescout.com/fr/dictionary/ci-cd/)
 - [Self-hosted](https://trescout.com/fr/dictionary/self-hosted/)
+- [CI/CD](https://trescout.com/fr/dictionary/ci-cd/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

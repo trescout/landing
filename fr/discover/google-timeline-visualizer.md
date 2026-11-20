@@ -2,16 +2,16 @@
 
 Google Timeline Visualizer visualise une année de vos voyages avec vos données d'historique de localisation Google.
 
-- ★ 3 030
+- ★ 3 070
 - Kotlin
 - GitHub Trending · 2026-08-20
 
 ## Mises à jour
 
+- **20 novembre 2026:** Étoiles 3,030 → 3,070, dernière version v3.1.1 (19 novembre 2026).
 - **5 octobre 2026:** Étoiles 2,990 → 3,030, dernière version v3.1.0 (5 octobre 2026).
 - **13 septembre 2026:** Étoiles 2,980 → 2,990, dernière version v3.0.18 (12 septembre 2026).
 - **9 septembre 2026:** Étoiles 2,972 → 2,980, dernière version v3.0.17 (9 septembre 2026).
-- **7 septembre 2026:** Étoiles 2,969 → 2,972, dernière version v3.0.16 (6 septembre 2026).
 
 ## Ce que ça vous apporte
 

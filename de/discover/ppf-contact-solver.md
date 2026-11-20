@@ -9,10 +9,10 @@ PPF Contact Solver ist als Physik-Engine von ZOZO darauf ausgelegt, Kontakte zwi
 
 ## Aktualisierungen
 
+- **20. November 2026:** Sterne 4,614 → 4,614, neueste Version addon-2026-11-20-0804 (19. November 2026).
 - **19. November 2026:** Sterne 4,614 → 4,614, neueste Version addon-2026-11-19-0614 (18. November 2026).
 - **18. November 2026:** Sterne 4,609 → 4,614, neueste Version addon-2026-11-18-1430 (18. November 2026).
 - **17. November 2026:** Sterne 4,609 → 4,609, neueste Version addon-2026-11-17-1637 (17. November 2026).
-- **17. November 2026:** Sterne 4,600 → 4,609, neueste Version addon-2026-11-16-2204 (16. November 2026).
 
 ## Installation
 

@@ -2,12 +2,13 @@
 
 DeanChensj/jiangshan-map es un atlas histórico interactivo y una aplicación de línea de tiempo que explora la historia de China a través de 18 dinastías. Desarrollado con JavaScript, este proyecto presenta el desarrollo de asentamientos y rutas de poesía clásica desde la antigüedad hasta la actualidad en el mapa con 198 imágenes de regiones diferentes.
 
-- ★ 8.157
+- ★ 8.484
 - JavaScript
 - GitHub Trending · 2026-11-17
 
 ## Actualizaciones
 
+- **20 de noviembre de 2026:** Estrellas 8,157 → 8,484, última versión v1.4.0 (20 de noviembre de 2026).
 - **19 de noviembre de 2026:** Estrellas 7,126 → 8,157, última versión v1.3.0 (13 de noviembre de 2026).
 - **17 de noviembre de 2026:** Estrellas 7,113 → 7,126, última versión v1.3.0 (13 de noviembre de 2026).
 

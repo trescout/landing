@@ -61,8 +61,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [Sandbox Agent Framework](https://trescout.com/de/dictionary/sandbox-agent-framework/)
 - [Prompt](https://trescout.com/de/dictionary/prompt/)
-- [CI/CD](https://trescout.com/de/dictionary/ci-cd/)
 - [Sandbox](https://trescout.com/de/dictionary/sandbox/)
+- [CI/CD](https://trescout.com/de/dictionary/ci-cd/)
 - [Runtime](https://trescout.com/de/dictionary/runtime/)
 - [Framework](https://trescout.com/de/dictionary/framework/)
 

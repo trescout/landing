@@ -34,6 +34,7 @@ No, it is a widespread philosophy in the general software development world.
 
 ## Related terms
 
+- [Virtual DOM](https://trescout.com/en/dictionary/virtual-dom/)
 - [Frontend](https://trescout.com/en/dictionary/frontend/)
 - [Framework](https://trescout.com/en/dictionary/framework/)
 

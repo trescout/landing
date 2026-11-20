@@ -61,8 +61,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [Sandbox Agent Framework](https://trescout.com/pt/dictionary/sandbox-agent-framework/)
 - [Prompt](https://trescout.com/pt/dictionary/prompt/)
-- [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)
 - [Sandbox](https://trescout.com/pt/dictionary/sandbox/)
+- [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
 - [Framework](https://trescout.com/pt/dictionary/framework/)
 

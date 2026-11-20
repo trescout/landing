@@ -2,16 +2,16 @@
 
 iFixAi, yapay zekâ ajanlarının kendilerine verilen görevleri doğru şekilde yerine getirip getirmediğini denetleyen bağımsız bir denetim aracıdır. Python diliyle geliştirilen bu sistem, insan veya ajanın kendisi tarafından çalıştırılarak süreçlerin doğruluğunu iki dakikadan kısa sürede analiz eder.
 
-- ★ 46.534
+- ★ 46.150
 - Python
 - GitHub Trending · 2026-10-15
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 46.534 → 46.150, son sürüm v4.4.0 (20 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 44.018 → 46.534, son sürüm v4.3.0 (22 Ekim 2026).
 - **8 Kasım 2026:** Yıldız 41.809 → 44.018, son sürüm v4.3.0 (22 Ekim 2026).
 - **1 Kasım 2026:** Yıldız 39.548 → 41.809, son sürüm v4.3.0 (22 Ekim 2026).
-- **31 Ekim 2026:** Yıldız 37.210 → 39.548, son sürüm v4.3.0 (22 Ekim 2026).
 
 ## Ne kazandırır?
 

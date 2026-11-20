@@ -64,8 +64,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [Deployment Platform](https://trescout.com/en/dictionary/deployment-platform/)
 - [Deployment](https://trescout.com/en/dictionary/deployment/)
-- [CI/CD](https://trescout.com/en/dictionary/ci-cd/)
 - [Self-hosted](https://trescout.com/en/dictionary/self-hosted/)
+- [CI/CD](https://trescout.com/en/dictionary/ci-cd/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

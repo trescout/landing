@@ -79,9 +79,9 @@ A linha para e a transmissão é interrompida. É por isso que um plano de backu
 - [Googletest](https://trescout.com/pt/discover/googletest/)
 - [Trivy](https://trescout.com/pt/discover/trivy/)
 - [Openship](https://trescout.com/pt/discover/openship/)
+- [Opensre](https://trescout.com/pt/discover/opensre/)
 - [Ipatool](https://trescout.com/pt/discover/ipatool/)
 - [Checkstyle](https://trescout.com/pt/discover/checkstyle/)
-- [Flue](https://trescout.com/pt/discover/flue/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ci-cd/)
 

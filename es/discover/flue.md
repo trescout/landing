@@ -61,8 +61,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [Sandbox Agent Framework](https://trescout.com/es/dictionary/sandbox-agent-framework/)
 - [Prompt](https://trescout.com/es/dictionary/prompt/)
-- [CI/CD](https://trescout.com/es/dictionary/ci-cd/)
 - [Sandbox](https://trescout.com/es/dictionary/sandbox/)
+- [CI/CD](https://trescout.com/es/dictionary/ci-cd/)
 - [Runtime](https://trescout.com/es/dictionary/runtime/)
 - [Framework](https://trescout.com/es/dictionary/framework/)
 

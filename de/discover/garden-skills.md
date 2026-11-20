@@ -2,15 +2,15 @@
 
 Garden-Skills wurde von ConardLi entwickelt und ist eine Open-Source-Sammlung, die vorgefertigte Kompetenzpakete in verschiedenen Bereichen wie Webdesign, Informationsbeschaffung und visuelle Erstellung bietet. Dieser modulare Aufbau, den Entwickler in ihre Projekte integrieren können, ermöglicht die zentrale Nutzung unterschiedlicher Funktionen.
 
-- ★ 15.175
+- ★ 15.510
 - GitHub Trending · 2026-08-26
 
 ## Aktualisierungen
 
+- **20. November 2026:** Sterne 15,175 → 15,510, neueste Version motion-showreel-v0.2.1 (19. November 2026).
 - **15. November 2026:** Sterne 14,735 → 15,175, neueste Version web-video-presentation-v1.2.3 (14. November 2026).
 - **9. November 2026:** Sterne 13,876 → 14,735, neueste Version motion-showreel-v0.2.0 (8. November 2026).
 - **5. November 2026:** Sterne 12,823 → 13,876, neueste Version motion-showreel-v0.1.0 (11. Oktober 2026).
-- **11. Oktober 2026:** Sterne 12,173 → 12,823, neueste Version motion-showreel-v0.1.0 (11. Oktober 2026).
 
 ## Was es bringt
 

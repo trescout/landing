@@ -64,8 +64,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [Deployment Platform](https://trescout.com/pt/dictionary/deployment-platform/)
 - [Deployment](https://trescout.com/pt/dictionary/deployment/)
-- [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)
 - [Self-hosted](https://trescout.com/pt/dictionary/self-hosted/)
+- [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)
 - [CLI](https://trescout.com/pt/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

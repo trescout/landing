@@ -2,16 +2,16 @@
 
 Amnesia VPN client is an open source networking tool that allows users to provide uncensored internet access through its own servers. Developed in C++, this software offers customizable tunneling protocols that protect personal privacy on desktop and mobile platforms.
 
-- ★ 15,691
+- ★ 16,032
 - C++
 - GitHub Trending · 2026-07-27
 
 ## Updates
 
+- **November 20, 2026:** Stars 15,691 → 16,032, latest release 5.1.1.10 (November 19, 2026).
 - **November 4, 2026:** Stars 15,213 → 15,691, latest release 5.1.0.6 (November 2, 2026).
 - **September 27, 2026:** Stars 14,617 → 15,213, latest release 5.0.3.0 (September 18, 2026).
 - **August 24, 2026:** Stars 14,262 → 14,617, latest release 5.0.1.5 (August 21, 2026).
-- **August 2, 2026:** Stars 13,457 → 14,262, latest release 5.0.0.5 (July 26, 2026).
 
 ## What you get
 

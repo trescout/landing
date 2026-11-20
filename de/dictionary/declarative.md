@@ -34,6 +34,7 @@ Nein, es ist eine weit verbreitete Philosophie in der allgemeinen Softwareentwic
 
 ## Verwandte Begriffe
 
+- [Virtual DOM](https://trescout.com/de/dictionary/virtual-dom/)
 - [Frontend](https://trescout.com/de/dictionary/frontend/)
 - [Framework](https://trescout.com/de/dictionary/framework/)
 
