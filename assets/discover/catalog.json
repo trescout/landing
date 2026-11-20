@@ -8103,7 +8103,7 @@
     "slug": "last30days-skill",
     "title": "Last30days Skill",
     "tagline": "Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri…",
-    "meta": "★ 69.893 · Python",
+    "meta": "★ 71.060 · Python",
     "image": "/assets/discover/og/last30days-skill.webp",
     "source": "GitHub",
     "date": "2026-06-05",
@@ -8111,7 +8111,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 69893,
+    "stars": 71060,
     "lite": false,
     "headline": "Son 30 günün yapay zekâ destekli özeti",
     "last_review": "2026-11-20",
@@ -8290,6 +8290,13 @@
         "onceki_yildiz": 68294,
         "surum": "v4.3.2",
         "surum_tarihi": "2026-11-17"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 71060,
+        "onceki_yildiz": 69893,
+        "surum": "v4.4.0",
+        "surum_tarihi": "2026-11-20"
       }
     ],
     "tagline_en": "Last30days-skill obtains current data by researching on platforms such as Reddit, X, YouTube, Hacker News and Polymarket.",
@@ -9818,7 +9825,7 @@
     "slug": "goose",
     "title": "Goose",
     "tagline": "Goose, kod önerilerinin ötesine geçerek yazılım kurulumu, yürütme, düzenleme ve test süreçlerini otomatize eden açık kaynaklı…",
-    "meta": "★ 56.758 · Rust",
+    "meta": "★ 56.807 · Rust",
     "image": "/assets/discover/og/goose.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -9826,7 +9833,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 56758,
+    "stars": 56807,
     "lite": false,
     "headline": "Yazılım süreçlerini yapay zekâ ile yönetinşa otomatize edin",
     "last_review": "2026-11-20",
@@ -9963,6 +9970,13 @@
         "onceki_yildiz": 56675,
         "surum": "v1.60.1",
         "surum_tarihi": "2026-11-18"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 56807,
+        "onceki_yildiz": 56758,
+        "surum": "v1.60.2",
+        "surum_tarihi": "2026-11-20"
       }
     ],
     "tagline_en": "Goose is an open source software that goes beyond code suggestions and automates software installation, execution, editing and testing.",
@@ -12042,14 +12056,14 @@
     "slug": "chatwoot",
     "title": "Chatwoot",
     "tagline": "Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir…",
-    "meta": "★ 40.118",
+    "meta": "★ 40.225",
     "image": "/assets/discover/og/chatwoot.webp",
     "source": "GitHub",
     "date": "2026-06-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 40118,
+    "stars": 40225,
     "lite": false,
     "headline": "Açık kaynaklı müşteri destek platformu",
     "cmds": {
@@ -12126,6 +12140,13 @@
         "onceki_yildiz": 38153,
         "surum": "v4.20.0",
         "surum_tarihi": "2026-11-18"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 40225,
+        "onceki_yildiz": 40118,
+        "surum": "v4.20.1",
+        "surum_tarihi": "2026-11-20"
       }
     ],
     "tagline_en": "Chatwoot is an open source application that offers live chat, email support and omni-channel desk management.",
@@ -13631,7 +13652,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 32.690 · HTML",
+    "meta": "★ 32.695 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -13639,7 +13660,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 32690,
+    "stars": 32695,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-11-20",
@@ -14069,6 +14090,13 @@
         "yildiz": 32690,
         "onceki_yildiz": 32626,
         "surum": "cua-spaces-v0.39.1",
+        "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 32695,
+        "onceki_yildiz": 32690,
+        "surum": "cua-spaces-v0.39.2",
         "surum_tarihi": "2026-11-20"
       }
     ],
@@ -19653,7 +19681,7 @@
     "slug": "orca",
     "title": "Orca",
     "tagline": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme…",
-    "meta": "★ 130.112 · TypeScript",
+    "meta": "★ 130.284 · TypeScript",
     "image": "/assets/discover/og/orca.webp",
     "source": "GitHub",
     "date": "2026-06-25",
@@ -19661,7 +19689,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 130112,
+    "stars": 130284,
     "lite": false,
     "headline": "Birden fazla yapay zekâ ajanı yönetin",
     "last_review": "2026-11-20",
@@ -20155,6 +20183,13 @@
         "onceki_yildiz": 128789,
         "surum": "v1.4.265",
         "surum_tarihi": "2026-11-19"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 130284,
+        "onceki_yildiz": 130112,
+        "surum": "v1.4.266",
+        "surum_tarihi": "2026-11-20"
       }
     ],
     "tagline_en": "Developed by Stablyai, Orca is an agent development tool that allows managing multiple artificial intelligence agents simultaneously.",
@@ -26267,7 +26302,7 @@
     "slug": "officecli",
     "title": "OfficeCLI",
     "tagline": "OfficeCLI, yapay zekâ ajanlarının Word, Excel ve PowerPoint dosyalarını doğrudan okumasına, düzenlemesine ve otomatize…",
-    "meta": "★ 33.361 · C#",
+    "meta": "★ 33.474 · C#",
     "image": "/assets/discover/og/officecli.webp",
     "source": "GitHub",
     "date": "2026-07-08",
@@ -26275,7 +26310,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 33361,
+    "stars": 33474,
     "lite": false,
     "headline": "Yapay zekâ ile ofis dosyalarını yönetin",
     "last_review": "2026-11-20",
@@ -26433,6 +26468,13 @@
         "onceki_yildiz": 33242,
         "surum": "v1.0.162",
         "surum_tarihi": "2026-11-16"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 33474,
+        "onceki_yildiz": 33361,
+        "surum": "v1.0.163",
+        "surum_tarihi": "2026-11-20"
       }
     ],
     "tagline_en": "OfficeCLI allows artificial intelligence agents to directly read, edit and automate Word, Excel and PowerPoint files.",
@@ -28980,14 +29022,14 @@
     "slug": "t3code",
     "title": "T3code",
     "tagline": "T3Code, TypeScript tabanlı projelerde kod kalitesini artırmak ve standartlaştırmak için geliştirilen bir araç setidir.",
-    "meta": "★ 66.675 · TypeScript",
+    "meta": "★ 66.866 · TypeScript",
     "image": "/assets/discover/og/t3code.webp",
     "source": "GitHub",
     "date": "2026-07-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 66675,
+    "stars": 66866,
     "lite": false,
     "headline": "Kodlama ajanları için web arayüzü",
     "last_review": "2026-11-20",
@@ -29222,6 +29264,13 @@
         "onceki_yildiz": 63072,
         "surum": "v0.1.10",
         "surum_tarihi": "2026-11-17"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 66866,
+        "onceki_yildiz": 66675,
+        "surum": "v0.1.11",
+        "surum_tarihi": "2026-11-20"
       }
     ],
     "tagline_en": "T3Code is a toolset developed to improve and standardize code quality in TypeScript-based projects.",
@@ -46070,14 +46119,14 @@
     "slug": "motrix",
     "title": "Motrix",
     "tagline": "Motrix, TypeScript ile geliştirilen ve tüm dosya indirme ihtiyaçlarını karşılayan kapsamlı bir indirme yöneticisi (download…",
-    "meta": "★ 58.546 · TypeScript",
+    "meta": "★ 58.552 · TypeScript",
     "image": "/assets/discover/og/motrix.webp",
     "source": "GitHub",
     "date": "2026-08-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 58546,
+    "stars": 58552,
     "lite": false,
     "headline": "Modern ve kapsamlı indirme yöneticisi",
     "tagline_en": "Motrix is ​​a comprehensive download manager (download manager) developed with TypeScript that meets all file download needs.",
@@ -46183,6 +46232,13 @@
         "yildiz": 58546,
         "onceki_yildiz": 58410,
         "surum": "v2.4.4",
+        "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 58552,
+        "onceki_yildiz": 58546,
+        "surum": "v2.4.5",
         "surum_tarihi": "2026-11-20"
       }
     ],
@@ -48577,7 +48633,7 @@
     "slug": "n8n",
     "title": "N8n",
     "tagline": "n8n, görsel canvas, özel kod ve yapay zekâ ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
-    "meta": "★ 211.306",
+    "meta": "★ 211.479",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -48585,7 +48641,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 211306,
+    "stars": 211479,
     "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
     "headline": "Görsel iş akışları ve yapay zekâ otomasyonu",
     "lite": false,
@@ -49102,6 +49158,13 @@
         "onceki_yildiz": 211008,
         "surum": "n8n@2.48.6",
         "surum_tarihi": "2026-11-19"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 211479,
+        "onceki_yildiz": 211306,
+        "surum": "n8n@2.48.7",
+        "surum_tarihi": "2026-11-20"
       }
     ],
     "last_review": "2026-11-20",
@@ -63764,7 +63827,7 @@
     "slug": "xerj",
     "title": "Xerj",
     "tagline": "Rust diliyle geliştirilen xerj, yapay zekâ sistemlerinin veri üzerinde arama yapmasını sağlayan otomatik indeksleme…",
-    "meta": "★ 17.951 · Rust",
+    "meta": "★ 18.976 · Rust",
     "image": "/assets/discover/og/xerj.webp",
     "source": "GitHub",
     "date": "2026-10-16",
@@ -63772,7 +63835,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 17951,
+    "stars": 18976,
     "last_seen": "2026-10-18",
     "summary": "Rust diliyle geliştirilen xerj, yapay zekâ sistemlerinin veri üzerinde arama yapmasını sağlayan otomatik indeksleme (autoindex) yeteneği sunuyor. Kod, belge ve günlük dosyalarını daha az belirteç (token) tüketimiyle işleyerek arama, güvenlik denetimleri ve yapay zekânın güncel verilerden cevap üretmesini sağlayan yöntem (RAG) süreçlerini destekliyor.",
     "lite": false,
@@ -63881,6 +63944,13 @@
         "tarih": "2026-11-20",
         "yildiz": 17951,
         "onceki_yildiz": 19251,
+        "surum": "v1.0.0-rc.104",
+        "surum_tarihi": "2026-11-19"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 18976,
+        "onceki_yildiz": 17951,
         "surum": "v1.0.0-rc.104",
         "surum_tarihi": "2026-11-19"
       }
@@ -65791,7 +65861,7 @@
     "slug": "aisoc",
     "title": "AiSOC",
     "tagline": "AiSOC, güvenlik operasyonlarını otomatize etmek için geliştirilmiş açık kaynaklı bir yapay zekâ güvenlik merkezi.",
-    "meta": "★ 6.951 · Python",
+    "meta": "★ 6.976 · Python",
     "image": "/assets/discover/og/aisoc.webp",
     "source": "GitHub",
     "date": "2026-11-02",
@@ -65800,7 +65870,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6951,
+    "stars": 6976,
     "last_seen": "2026-11-02",
     "summary": "AiSOC, güvenlik operasyonlarını otomatize etmek için geliştirilmiş açık kaynaklı bir yapay zekâ güvenlik merkezi. Büyük dil modelleri (LLM) ile uyarıları sınıflandıran ve MITRE ATT&CK çerçevesiyle incelemeler yapan araç, API anahtarı gerektirmeden kendi sunucunuzda çalışabiliyor.",
     "lite": false,
@@ -65876,6 +65946,13 @@
         "onceki_yildiz": 8312,
         "surum": "v23.5.3",
         "surum_tarihi": "2026-11-19"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 6976,
+        "onceki_yildiz": 6951,
+        "surum": "v23.6.0",
+        "surum_tarihi": "2026-11-20"
       }
     ],
     "tagline_en": "AiSOC is an open-source AI security center developed to automate security operations.",
@@ -66530,7 +66607,7 @@
     "slug": "agent-browser",
     "title": "Agent Browser",
     "tagline": "Vercel Labs tarafından geliştirilen agent-browser, yapay zekâ ajanları için tarayıcı otomasyonu sağlayan bir komut satırı…",
-    "meta": "★ 50.405 · Rust",
+    "meta": "★ 52.951 · Rust",
     "image": "/assets/discover/og/agent-browser.webp",
     "source": "GitHub",
     "date": "2026-11-06",
@@ -66538,7 +66615,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 50405,
+    "stars": 52951,
     "last_seen": "2026-11-12",
     "summary": "Vercel Labs tarafından geliştirilen agent-browser, yapay zekâ ajanları için tarayıcı otomasyonu sağlayan bir komut satırı arayüzü (CLI). Rust diliyle yazılan bu araç, sayfaları erişilebilirlik ağacı (accessibility tree) olarak okuyup komut satırı üzerinden web öğeleriyle etkileşime girilmesine olanak tanıyor.",
     "lite": false,
@@ -66563,6 +66640,13 @@
         "tarih": "2026-11-13",
         "yildiz": 50405,
         "onceki_yildiz": 48777,
+        "surum": "v0.43.0",
+        "surum_tarihi": "2026-11-12"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 52951,
+        "onceki_yildiz": 50405,
         "surum": "v0.43.0",
         "surum_tarihi": "2026-11-12"
       }
@@ -68220,7 +68304,7 @@
     "slug": "paper-orchestra",
     "title": "Paper Orchestra",
     "tagline": "Google Research tarafından geliştirilen PaperOrchestra, ham fikirleri ve deney günlüklerini akademik formatta LaTeX…",
-    "meta": "★ 4.162 · Python",
+    "meta": "★ 5.197 · Python",
     "image": "/assets/discover/og/paper-orchestra.webp",
     "source": "GitHub",
     "date": "2026-11-17",
@@ -68228,7 +68312,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4162,
+    "stars": 5197,
     "last_seen": "2026-11-19",
     "summary": "Google Research tarafından geliştirilen PaperOrchestra, ham fikirleri ve deney günlüklerini akademik formatta LaTeX taslaklarına dönüştüren çoklu ajanlı bir çerçeve (multi-agent framework). Yazılım, literatür taraması ve görsel oluşturma süreçlerini otomatikleştirerek araştırma makalesi yazımını destekliyor.",
     "lite": false,
@@ -68244,6 +68328,11 @@
         "tarih": "2026-11-18",
         "yildiz": 4162,
         "onceki_yildiz": 1732
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 5197,
+        "onceki_yildiz": 4162
       }
     ]
   },
@@ -68251,7 +68340,7 @@
     "slug": "ffmpeg-skill",
     "title": "Ffmpeg Skill",
     "tagline": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir.",
-    "meta": "★ 8.470 · Python",
+    "meta": "★ 8.533 · Python",
     "image": "/assets/discover/og/ffmpeg-skill.webp",
     "source": "GitHub",
     "date": "2026-11-17",
@@ -68259,7 +68348,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8470,
+    "stars": 8533,
     "last_seen": "2026-11-17",
     "summary": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir. Claude Code, Cursor ve Codex gibi yazılım geliştirme araçlarıyla entegre çalışan bu yapı, 42 farklı FFmpeg aracını makine tarafından okunabilir bir sözleşme ve MCP sunucusu üzerinden bulut tabanlı API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) gereksinimi olmadan kullanıma sunar.",
     "lite": false,
@@ -68292,6 +68381,13 @@
         "yildiz": 8470,
         "onceki_yildiz": 8078,
         "surum": "v4.0.1",
+        "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 8533,
+        "onceki_yildiz": 8470,
+        "surum": "v4.1.0",
         "surum_tarihi": "2026-11-20"
       }
     ],
@@ -68597,14 +68693,14 @@
     "slug": "ghost-downloader-3",
     "title": "Ghost-Downloader-3",
     "tagline": "XiaoYouChR/Ghost-Downloader-3, dört farklı platformda çalışan ve neredeyse tüm indirme protokollerini destekleyen kapsamlı bir…",
-    "meta": "★ 12.990 · Python",
+    "meta": "★ 13.178 · Python",
     "image": "/assets/discover/og/ghost-downloader-3.webp",
     "source": "GitHub",
     "date": "2026-11-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12990,
+    "stars": 13178,
     "last_seen": "2026-11-20",
     "summary": "XiaoYouChR/Ghost-Downloader-3, dört farklı platformda çalışan ve neredeyse tüm indirme protokollerini destekleyen kapsamlı bir dosya indirme aracıdır. Python diliyle geliştirilen bu proje, eklenti tabanlı özellik paketleri (feature packs) sayesinde işlevselliğini genişletebilen bir yapı sunar.",
     "lite": false,
@@ -68619,6 +68715,13 @@
         "onceki_yildiz": 12971,
         "surum": "v4.5.10",
         "surum_tarihi": "2026-11-19"
+      },
+      {
+        "tarih": "2026-11-20",
+        "yildiz": 13178,
+        "onceki_yildiz": 12990,
+        "surum": "v4.5.11",
+        "surum_tarihi": "2026-11-20"
       }
     ],
     "tagline_en": "XiaoYouChR/Ghost-Downloader-3, a comprehensive [tool] that runs on four different platforms and supports almost all download protocols...",

@@ -2,12 +2,13 @@
 
 XiaoYouChR/Ghost-Downloader-3, dört farklı platformda çalışan ve neredeyse tüm indirme protokollerini destekleyen kapsamlı bir dosya indirme aracıdır. Python diliyle geliştirilen bu proje, eklenti tabanlı özellik paketleri (feature packs) sayesinde işlevselliğini genişletebilen bir yapı sunar.
 
-- ★ 12.990
+- ★ 13.178
 - Python
 - GitHub Trending · 2026-11-20
 
 ## Güncelleme
 
+- **20 Kasım 2026:** Yıldız 12.990 → 13.178, son sürüm v4.5.11 (20 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 12.971 → 12.990, son sürüm v4.5.10 (19 Kasım 2026).
 
 ## Ne kazandırır?

@@ -8,7 +8,7 @@ A fast-response mechanism that ensures only the relevant small part is updated w
 
 In traditional web frameworks, when data changes, the entire page or a large component is re-run. Fine-grained reactivity, on the other hand, tracks precisely which HTML tag or text is affected. The exact small point is updated the moment the data changes. This prevents the browser from wearing out and makes the application run much more smoothly.
 
-***Analogy:** It is like repairing only the faucet in a large apartment building when it breaks, instead of cutting off the water for the entire building.*
+***Analogy:** It is like repairing only the faucet in your apartment instead of cutting off the water to the entire building just because it is broken.*
 
 ## How it works
 
