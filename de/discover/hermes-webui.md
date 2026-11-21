@@ -9,10 +9,10 @@ Hermes WebUI ist eine Schnittstelle, mit der Sie Hermes-KI-Agenten über einen W
 
 ## Aktualisierungen
 
+- **21. November 2026:** Sterne 19,602 → 19,602, neueste Version v0.52.724 (21. November 2026).
 - **21. November 2026:** Sterne 19,584 → 19,602, neueste Version v0.52.723 (21. November 2026).
 - **20. November 2026:** Sterne 19,540 → 19,584, neueste Version v0.52.702 (19. November 2026).
 - **16. November 2026:** Sterne 19,500 → 19,540, neueste Version v0.52.679 (15. November 2026).
-- **13. November 2026:** Sterne 19,187 → 19,500, neueste Version v0.52.667 (12. November 2026).
 
 ## Was es bringt
 

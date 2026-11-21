@@ -10996,5 +10996,18 @@
     "kisa_es": "Es el proceso de simulación de adversarios y pruebas de penetración realizado para encontrar vulnerabilidades en los sistemas.",
     "kisa_pt": "É o processo de simulação de adversário e testes de penetração realizados para encontrar vulnerabilidades nos sistemas.",
     "kisa_de": "Es handelt sich um den Prozess der Adversary Simulation und der Penetrationstests, die durchgeführt werden, um Schwachstellen in Systemen zu finden."
+  },
+  {
+    "slug": "scraping",
+    "en": "Scraping",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet sitelerindeki verileri otomatik olarak kopyalayıp çekme işlemidir.",
+    "date": "2026-11-21",
+    "kisa_en": "It is the process of automatically copying and extracting data from websites.",
+    "kisa_fr": "Il s'agit du processus de copie et d'extraction automatique de données à partir de sites Internet.",
+    "kisa_es": "Es el proceso de copiar y extraer automáticamente datos de sitios web.",
+    "kisa_pt": "É o processo de copiar e extrair automaticamente dados de sites da internet.",
+    "kisa_de": "Es handelt sich um den Prozess des automatischen Kopierens und Extrahierens von Daten von Websites."
   }
 ]

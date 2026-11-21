@@ -72,8 +72,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [VPN](https://trescout.com/pt/dictionary/vpn/)
-- [RAM](https://trescout.com/pt/dictionary/ram/)
 - [Self-hosted](https://trescout.com/pt/dictionary/self-hosted/)
+- [RAM](https://trescout.com/pt/dictionary/ram/)
 - [CPU](https://trescout.com/pt/dictionary/cpu/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)

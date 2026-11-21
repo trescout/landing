@@ -9,10 +9,10 @@ Hermes WebUI is an interface that allows you to manage Hermes AI agents via web 
 
 ## Updates
 
+- **November 21, 2026:** Stars 19,602 → 19,602, latest release v0.52.724 (November 21, 2026).
 - **November 21, 2026:** Stars 19,584 → 19,602, latest release v0.52.723 (November 21, 2026).
 - **November 20, 2026:** Stars 19,540 → 19,584, latest release v0.52.702 (November 19, 2026).
 - **November 16, 2026:** Stars 19,500 → 19,540, latest release v0.52.679 (November 15, 2026).
-- **November 13, 2026:** Stars 19,187 → 19,500, latest release v0.52.667 (November 12, 2026).
 
 ## What you get
 

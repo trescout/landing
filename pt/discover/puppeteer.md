@@ -50,6 +50,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 ## Termos relacionados do glossário
 
+- [Scraping](https://trescout.com/pt/dictionary/scraping/)
 - [Web Scraping](https://trescout.com/pt/dictionary/web-scraping/)
 - [PDF](https://trescout.com/pt/dictionary/pdf/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

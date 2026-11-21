@@ -83,6 +83,7 @@ Bei Self-Hosting-Systemen gibt es keinen Kundenservice, der Daten bei Hardwarede
 - [Openship](https://trescout.com/de/discover/openship/)
 - [Instatic](https://trescout.com/de/discover/instatic/)
 - [TREK](https://trescout.com/de/discover/trek/)
+- [Celld](https://trescout.com/de/discover/celld/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/self-hosted/)
 

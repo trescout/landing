@@ -72,8 +72,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [VPN](https://trescout.com/fr/dictionary/vpn/)
-- [RAM](https://trescout.com/fr/dictionary/ram/)
 - [Self-hosted](https://trescout.com/fr/dictionary/self-hosted/)
+- [RAM](https://trescout.com/fr/dictionary/ram/)
 - [CPU](https://trescout.com/fr/dictionary/cpu/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)

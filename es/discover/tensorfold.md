@@ -2,16 +2,16 @@
 
 ashhart/TensorFold ofrece un motor de inferencia compatible con Metal, CUDA y Vulkan para modelos lingüísticos grandes (LLM). Desarrollada con el lenguaje Zig, esta herramienta permite ejecutar modelos directamente en Apple Silicon y unidades de procesamiento gráfico de NVIDIA sin necesidad de instalar Python o MLX.
 
-- ★ 2.362
+- ★ 2.368
 - Zig
 - GitHub Trending · 2026-11-13
 
 ## Actualizaciones
 
+- **21 de noviembre de 2026:** Estrellas 2,362 → 2,368, última versión v1.3.3 (21 de noviembre de 2026).
 - **21 de noviembre de 2026:** Estrellas 2,349 → 2,362, última versión v1.3.2 (20 de noviembre de 2026).
 - **20 de noviembre de 2026:** Estrellas 2,334 → 2,349, última versión v1.3.0 (19 de noviembre de 2026).
 - **19 de noviembre de 2026:** Estrellas 2,190 → 2,334, última versión v1.2.10 (18 de noviembre de 2026).
-- **15 de noviembre de 2026:** Estrellas 2,080 → 2,190, última versión v1.2.9 (15 de noviembre de 2026).
 
 ## Qué aporta
 

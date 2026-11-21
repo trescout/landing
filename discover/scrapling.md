@@ -60,6 +60,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [Scraping](https://trescout.com/dictionary/scraping/)
 - [Web Scraping](https://trescout.com/dictionary/web-scraping/)
 - [Markdown](https://trescout.com/dictionary/markdown/)
 - [Open Source](https://trescout.com/dictionary/open-source/)

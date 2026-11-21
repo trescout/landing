@@ -73,6 +73,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Scraping](https://trescout.com/de/dictionary/scraping/)
 - [Web Scraping](https://trescout.com/de/dictionary/web-scraping/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

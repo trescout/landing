@@ -94,6 +94,7 @@ Self-hosted sistemlerde donanım bozulduğunda veriyi kurtaracak bir müşteri h
 - [Openship](https://trescout.com/discover/openship/)
 - [Instatic](https://trescout.com/discover/instatic/)
 - [TREK](https://trescout.com/discover/trek/)
+- [Celld](https://trescout.com/discover/celld/)
 
 Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

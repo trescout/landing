@@ -1095,10 +1095,10 @@
     "slug": "claude-mem",
     "title": "claude-mem",
     "tagline": "Yapay zekâ ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
-    "meta": "★ 118.698 · Apache-2.0",
+    "meta": "★ 118.825 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
-    "stars": 118698,
+    "stars": 118825,
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
@@ -1505,6 +1505,13 @@
         "onceki_yildiz": 118492,
         "surum": "v16.0.2",
         "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 118825,
+        "onceki_yildiz": 118698,
+        "surum": "v16.0.3",
+        "surum_tarihi": "2026-11-21"
       }
     ],
     "tagline_en": "Persistent memory for your AI agent: Remembers cross-session context and is set up with a single command.",
@@ -4733,6 +4740,13 @@
         "yildiz": 19602,
         "onceki_yildiz": 19584,
         "surum": "v0.52.723",
+        "surum_tarihi": "2026-11-21"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 19602,
+        "onceki_yildiz": 19602,
+        "surum": "v0.52.724",
         "surum_tarihi": "2026-11-21"
       }
     ],
@@ -18604,7 +18618,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 87.800 · TypeScript",
+    "meta": "★ 87.808 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -18612,7 +18626,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 87800,
+    "stars": 87808,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-11-21",
@@ -19420,6 +19434,13 @@
         "yildiz": 87800,
         "onceki_yildiz": 87546,
         "surum": "v0.9.77",
+        "surum_tarihi": "2026-11-21"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 87808,
+        "onceki_yildiz": 87800,
+        "surum": "v0.9.78",
         "surum_tarihi": "2026-11-21"
       }
     ],
@@ -27873,7 +27894,7 @@
     "slug": "stitch-skills",
     "title": "Stitch Skills",
     "tagline": "Google Labs tarafından geliştirilen Stitch Skills, Stitch MCP sunucusuyla uyumlu çalışmak üzere tasarlanmış bir ajan…",
-    "meta": "★ 10.369 · TypeScript",
+    "meta": "★ 11.369 · TypeScript",
     "image": "/assets/discover/og/stitch-skills.webp",
     "source": "GitHub",
     "date": "2026-07-11",
@@ -27881,7 +27902,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 10369,
+    "stars": 11369,
     "lite": false,
     "headline": "Yapay zekâ ajanları için tasarım yetenekleri",
     "last_review": "2026-11-21",
@@ -27904,6 +27925,13 @@
         "tarih": "2026-11-18",
         "yildiz": 10369,
         "onceki_yildiz": 8968,
+        "surum": "v1.0",
+        "surum_tarihi": "2026-05-18"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 11369,
+        "onceki_yildiz": 10369,
         "surum": "v1.0",
         "surum_tarihi": "2026-05-18"
       }
@@ -68136,7 +68164,7 @@
     "slug": "tensorfold",
     "title": "TensorFold",
     "tagline": "ashhart/TensorFold, büyük dil modelleri (LLM) için Metal, CUDA ve Vulkan destekli bir çıkarım motoru (inference engine) sunuyor.",
-    "meta": "★ 2.362 · Zig",
+    "meta": "★ 2.368 · Zig",
     "image": "/assets/discover/og/tensorfold.webp",
     "source": "GitHub",
     "date": "2026-11-13",
@@ -68144,7 +68172,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 2362,
+    "stars": 2368,
     "last_seen": "2026-11-15",
     "summary": "ashhart/TensorFold, büyük dil modelleri (LLM) için Metal, CUDA ve Vulkan destekli bir çıkarım motoru (inference engine) sunuyor. Zig diliyle geliştirilen bu araç, Python veya MLX kurulumuna ihtiyaç duymadan Apple Silicon ve NVIDIA grafik işlemcileri üzerinde doğrudan model çalıştırmayı sağlıyor.",
     "lite": false,
@@ -68192,6 +68220,13 @@
         "onceki_yildiz": 2349,
         "surum": "v1.3.2",
         "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 2368,
+        "onceki_yildiz": 2362,
+        "surum": "v1.3.3",
+        "surum_tarihi": "2026-11-21"
       }
     ],
     "tagline_en": "ashhart/TensorFold offers an inference engine powered by Metal, CUDA, and Vulkan for large language models (LLMs).",

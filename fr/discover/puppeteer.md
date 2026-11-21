@@ -50,6 +50,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [Scraping](https://trescout.com/fr/dictionary/scraping/)
 - [Web Scraping](https://trescout.com/fr/dictionary/web-scraping/)
 - [PDF](https://trescout.com/fr/dictionary/pdf/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

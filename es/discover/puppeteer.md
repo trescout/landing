@@ -50,6 +50,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [Scraping](https://trescout.com/es/dictionary/scraping/)
 - [Web Scraping](https://trescout.com/es/dictionary/web-scraping/)
 - [PDF](https://trescout.com/es/dictionary/pdf/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

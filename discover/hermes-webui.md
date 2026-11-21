@@ -9,10 +9,10 @@
 
 ## Güncelleme
 
+- **21 Kasım 2026:** Yıldız 19.602 → 19.602, son sürüm v0.52.724 (21 Kasım 2026).
 - **21 Kasım 2026:** Yıldız 19.584 → 19.602, son sürüm v0.52.723 (21 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 19.540 → 19.584, son sürüm v0.52.702 (19 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 19.500 → 19.540, son sürüm v0.52.679 (15 Kasım 2026).
-- **13 Kasım 2026:** Yıldız 19.187 → 19.500, son sürüm v0.52.667 (12 Kasım 2026).
 
 - **Kimin için:** Hermes/yapay zekâ ajanı kullananlar
 - **Zorluk:** Orta

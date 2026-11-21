@@ -72,8 +72,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [VPN](https://trescout.com/es/dictionary/vpn/)
-- [RAM](https://trescout.com/es/dictionary/ram/)
 - [Self-hosted](https://trescout.com/es/dictionary/self-hosted/)
+- [RAM](https://trescout.com/es/dictionary/ram/)
 - [CPU](https://trescout.com/es/dictionary/cpu/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)

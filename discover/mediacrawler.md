@@ -81,6 +81,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [Scraping](https://trescout.com/dictionary/scraping/)
 - [Web Scraping](https://trescout.com/dictionary/web-scraping/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

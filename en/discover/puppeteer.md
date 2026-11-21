@@ -50,6 +50,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 ## Related dictionary terms
 
+- [Scraping](https://trescout.com/en/dictionary/scraping/)
 - [Web Scraping](https://trescout.com/en/dictionary/web-scraping/)
 - [PDF](https://trescout.com/en/dictionary/pdf/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

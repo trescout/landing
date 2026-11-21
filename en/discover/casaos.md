@@ -72,8 +72,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [VPN](https://trescout.com/en/dictionary/vpn/)
-- [RAM](https://trescout.com/en/dictionary/ram/)
 - [Self-hosted](https://trescout.com/en/dictionary/self-hosted/)
+- [RAM](https://trescout.com/en/dictionary/ram/)
 - [CPU](https://trescout.com/en/dictionary/cpu/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)

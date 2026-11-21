@@ -83,6 +83,7 @@ In self-hosted systems, there is no customer service to recover data when hardwa
 - [Openship](https://trescout.com/en/discover/openship/)
 - [Instatic](https://trescout.com/en/discover/instatic/)
 - [TREK](https://trescout.com/en/discover/trek/)
+- [Celld](https://trescout.com/en/discover/celld/)
 
 This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/self-hosted/)
 
