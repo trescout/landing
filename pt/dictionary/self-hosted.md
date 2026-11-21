@@ -79,7 +79,6 @@ Em sistemas self-hosted, não existe um serviço de atendimento ao cliente para 
 - [Immich](https://trescout.com/pt/discover/immich/)
 - [Chatwoot](https://trescout.com/pt/discover/chatwoot/)
 - [CasaOS](https://trescout.com/pt/discover/casaos/)
-- [Open-Generative-AI](https://trescout.com/pt/discover/open-generative-ai/)
 - [OpenWA](https://trescout.com/pt/discover/openwa/)
 - [Openship](https://trescout.com/pt/discover/openship/)
 - [Instatic](https://trescout.com/pt/discover/instatic/)

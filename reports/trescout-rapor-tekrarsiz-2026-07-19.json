@@ -13,12 +13,6 @@
           "returning": true
         },
         {
-          "title": "elder-plinius/G0DM0D3",
-          "url": "https://github.com/elder-plinius/G0DM0D3",
-          "summary": "G0DM0D3, büyük dil modellerinin (large language models) güvenlik katmanlarını aşmayı hedefleyen özgürleştirilmiş bir yapay zekâ sohbet arayüzüdür. TypeScript ile geliştirilen bu açık kaynaklı proje, kullanıcıların kısıtlamalara takılmadan modellerle etkileşime girmesini sağlar.",
-          "meta": "TypeScript · ★ 9.570 · +69 bugün"
-        },
-        {
           "title": "KnockOutEZ/wigolo",
           "url": "https://github.com/KnockOutEZ/wigolo",
           "summary": "Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama, veri çekme ve tarama yetenekleri sunan bir araçtır. Model bağlamı protokolü (MCP) üzerinden çalışan bu sistem, bulut bağımlılığı olmadan ve API anahtarı gerektirmeden ücretsiz araştırma imkânı sağlar.",

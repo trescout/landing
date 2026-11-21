@@ -72,7 +72,6 @@ Private data and unauthorized profiling are prohibited. No unintended processing
 
 - [Maigret](https://trescout.com/en/discover/maigret/)
 - [Spiderfoot](https://trescout.com/en/discover/spiderfoot/)
-- [GhostTrack](https://trescout.com/en/discover/ghosttrack/)
 - [Flowsint](https://trescout.com/en/discover/flowsint/)
 - [User Scanner](https://trescout.com/en/discover/user-scanner/)
 - [Legendary_OSINT](https://trescout.com/en/discover/legendary-osint/)

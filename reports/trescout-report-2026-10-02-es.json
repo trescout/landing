@@ -236,25 +236,6 @@
           }
         },
         {
-          "title": "HunxByts/GhostTrack",
-          "url": "https://github.com/HunxByts/GhostTrack",
-          "summary": "GhostTrack, desarrollado con Python, es una herramienta que permite el seguimiento de ubicación a través de números de teléfono. Ofrece a los usuarios una capacidad técnica para detectar la información geográfica de los números objetivo.",
-          "meta": "Python · ★ 16.614 · +368 hoy",
-          "snapshot": {
-            "sourceId": "HunxByts/GhostTrack",
-            "capturedAt": "2026-10-02T10:31:24.066Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 16614,
-              "engagementCount": 368,
-              "rank": 13,
-              "extra": {
-                "starsToday": 368
-              }
-            }
-          }
-        },
-        {
           "title": "pbakaus/impeccable",
           "url": "https://github.com/pbakaus/impeccable",
           "summary": "Impeccable es un lenguaje de diseño desarrollado para mejorar los resultados de diseño de los modelos de inteligencia artificial. Esta herramienta tiene como objetivo aumentar la consistencia visual y la calidad estética de los sistemas de inteligencia artificial generativa.",

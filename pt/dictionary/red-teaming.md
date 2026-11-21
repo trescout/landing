@@ -69,10 +69,6 @@ Pelo menos uma vez por ano, e novamente após grandes mudanças. No lado do mode
 - [Cybersecurity Skills](https://trescout.com/pt/dictionary/cybersecurity-skills/)
 - [Adversarial Analysis](https://trescout.com/pt/dictionary/adversarial-analysis/)
 
-## Ferramentas relacionadas
-
-- [G0DM0D3](https://trescout.com/pt/discover/g0dm0d3/)
-
 Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/red-teaming/)
 
 ---

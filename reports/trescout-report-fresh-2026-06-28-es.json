@@ -12,12 +12,6 @@
           "meta": "Python · ★ 33.348 · +589 hoy"
         },
         {
-          "title": "Anil-matcha/Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "summary": "Open-Generative-AI es una plataforma de estudio de código abierto sin filtrado de contenido y con más de 200 modelos de creación visual y de video. Los usuarios pueden gestionar libremente sus procesos de producción visual ejecutando este software, que se ofrece bajo licencia MIT, en sus propios servidores (autohospedados).",
-          "meta": "JavaScript · ★ 21.507 · +255 hoy"
-        },
-        {
           "title": "dbt-labs/dbt-core",
           "url": "https://github.com/dbt-labs/dbt-core",
           "summary": "La herramienta de transformación de datos (dbt-core) permite a los analistas e ingenieros de datos realizar la transformación de datos utilizando métodos similares a los procesos de desarrollo de software. Estandariza los flujos de trabajo analíticos integrando el control de versiones y los procesos de prueba en los almacenes de datos.",

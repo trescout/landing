@@ -90,7 +90,6 @@ Self-hosted sistemlerde donanım bozulduğunda veriyi kurtaracak bir müşteri h
 - [Immich](https://trescout.com/discover/immich/)
 - [Chatwoot](https://trescout.com/discover/chatwoot/)
 - [CasaOS](https://trescout.com/discover/casaos/)
-- [Open-Generative-AI](https://trescout.com/discover/open-generative-ai/)
 - [OpenWA](https://trescout.com/discover/openwa/)
 - [Openship](https://trescout.com/discover/openship/)
 - [Instatic](https://trescout.com/discover/instatic/)

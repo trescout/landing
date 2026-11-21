@@ -13,12 +13,6 @@
           "returning": true
         },
         {
-          "title": "elder-plinius/G0DM0D3",
-          "url": "https://github.com/elder-plinius/G0DM0D3",
-          "summary": "G0DM0D3 is a liberated AI chat interface that aims to bypass the security layers of large language models. Developed with TypeScript, this open source project allows users to interact with models without restrictions.",
-          "meta": "TypeScript · ★ 9,570 · +69 today"
-        },
-        {
           "title": "KnockOutEZ/wigolo",
           "url": "https://github.com/KnockOutEZ/wigolo",
           "summary": "Wigolo is a tool that provides local-first search, data extraction and crawling capabilities for artificial intelligence coding agents. This system, which works over the model context protocol (MCP), provides free research without cloud dependency and without requiring an API key.",

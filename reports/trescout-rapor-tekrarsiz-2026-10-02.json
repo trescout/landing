@@ -66,26 +66,6 @@
           }
         },
         {
-          "title": "HunxByts/GhostTrack",
-          "url": "https://github.com/HunxByts/GhostTrack",
-          "summary": "Python ile geliştirilen GhostTrack, telefon numaraları üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır. Kullanıcılara hedef numaraların coğrafi bilgilerini tespit etme konusunda teknik bir imkân sunar.",
-          "meta": "Python · ★ 16.614 · +368 bugün",
-          "snapshot": {
-            "sourceId": "HunxByts/GhostTrack",
-            "capturedAt": "2026-10-02T10:31:24.066Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 16614,
-              "engagementCount": 368,
-              "rank": 13,
-              "extra": {
-                "starsToday": 368
-              }
-            }
-          },
-          "returning": true
-        },
-        {
           "title": "Friedrich-M/UniMate",
           "url": "https://github.com/Friedrich-M/UniMate",
           "summary": "UniMate, farklı iskelet yapılarını tek bir model üzerinden hareketlendirmeye yarayan bir animasyon teknolojisi. SIGGRAPH Asia 2026 kapsamında sunulan bu çalışma, karakter animasyonu süreçlerini standartlaştırmayı amaçlıyor.",
