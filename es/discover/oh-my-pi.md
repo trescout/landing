@@ -2,15 +2,15 @@
 
 Oh-my-pi es un agente de codificación de inteligencia artificial que se ejecuta en un entorno de terminal y automatiza los procesos de edición de código. La herramienta tiene como objetivo optimizar los flujos de trabajo de desarrollo de software con funciones como el protocolo de servidor de idiomas (LSP), la integración del navegador y la gestión de subagentes.
 
-- ★ 39.499
+- ★ 39.590
 - GitHub Trending · 2026-06-02
 
 ## Actualizaciones
 
+- **21 de noviembre de 2026:** Estrellas 39,499 → 39,590, última versión v19.1.0 (21 de noviembre de 2026).
 - **20 de noviembre de 2026:** Estrellas 39,441 → 39,499, última versión v19.0.1 (19 de noviembre de 2026).
 - **19 de noviembre de 2026:** Estrellas 39,405 → 39,441, última versión v19.0.0 (19 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 39,231 → 39,405, última versión v18.22.2 (18 de noviembre de 2026).
-- **17 de noviembre de 2026:** Estrellas 39,139 → 39,231, última versión v18.22.0 (16 de noviembre de 2026).
 
 ## Qué aporta
 

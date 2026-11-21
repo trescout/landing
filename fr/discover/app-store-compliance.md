@@ -2,12 +2,13 @@
 
 mjmirza/app-store-compliance propose un guide ouvert comprenant 117 motifs de rejet différents rencontrés lors des processus de révision des boutiques d'applications ainsi que leurs solutions. Il vise à faciliter les processus d'approbation sur l'App Store et Google Play pour les développeurs grâce à des outils tels que le suivi de la conformité réglementaire et les avis de confidentialité.
 
-- ★ 2 032
+- ★ 3 296
 - Shell
 - GitHub Trending · 2026-11-20
 
 ## Mises à jour
 
+- **21 novembre 2026:** Étoiles 2,032 → 3,296, dernière version v2.4.0 (15 novembre 2026).
 - **20 novembre 2026:** Étoiles 2,003 → 2,032, dernière version v2.4.0 (15 novembre 2026).
 
 ## Ce que ça vous apporte

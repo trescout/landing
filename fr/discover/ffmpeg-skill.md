@@ -2,16 +2,16 @@
 
 kajisho5/ffmpeg-skill est un projet Python qui fournit des outils de montage vidéo locaux pour les agents de codage. Fonctionnant en intégrant des outils de développement logiciel tels que Claude Code, Cursor et Codex, cette structure met à disposition 42 outils FFmpeg différents via un contrat lisible par machine et un serveur MCP, sans nécessiter d'API cloud (un pont numérique permettant à deux logiciels différents de communiquer).
 
-- ★ 9 017
+- ★ 9 212
 - Python
 - GitHub Trending · 2026-11-17
 
 ## Mises à jour
 
+- **21 novembre 2026:** Étoiles 9,017 → 9,212, dernière version v4.5.0 (21 novembre 2026).
 - **21 novembre 2026:** Étoiles 8,960 → 9,017, dernière version v4.3.4 (21 novembre 2026).
 - **21 novembre 2026:** Étoiles 8,533 → 8,960, dernière version v4.3.3 (21 novembre 2026).
 - **20 novembre 2026:** Étoiles 8,470 → 8,533, dernière version v4.1.0 (20 novembre 2026).
-- **20 novembre 2026:** Étoiles 8,078 → 8,470, dernière version v4.0.1 (20 novembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -57,7 +57,6 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
-- [v4.0](https://trescout.com/fr/dictionary/v4-0/)
 - [Skill](https://trescout.com/fr/dictionary/skill/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
 - [API](https://trescout.com/fr/dictionary/api/)

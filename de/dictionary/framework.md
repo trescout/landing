@@ -45,9 +45,9 @@ Nein, bei sehr kleinen und einfachen Projekten reichen manchmal nur einfache Cod
 - [Angular](https://trescout.com/de/discover/angular/)
 - [Tailwindcss](https://trescout.com/de/discover/tailwindcss/)
 - [Hyperframes](https://trescout.com/de/discover/hyperframes/)
+- [CLI-Anything](https://trescout.com/de/discover/cli-anything/)
 - [AI Job Search](https://trescout.com/de/discover/ai-job-search/)
 - [Nuxt](https://trescout.com/de/discover/nuxt/)
-- [Rails](https://trescout.com/de/discover/rails/)
 
 Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/framework/)
 

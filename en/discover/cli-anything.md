@@ -2,16 +2,16 @@
 
 CLI-Anything is a framework that converts command line interfaces (CLI) into a format that artificial intelligence agents can directly use. By making software tools agent-native, it enables artificial intelligence models to manage complex system commands more effectively.
 
-- ★ 58,893
+- ★ 61,971
 - Python
 - GitHub Trending · 2026-08-16
 
 ## Updates
 
+- **November 21, 2026:** Stars 58,893 → 61,971, latest release v0.4.0 (June 25, 2026).
 - **November 17, 2026:** Stars 56,074 → 58,893, latest release v0.4.0 (June 25, 2026).
 - **October 22, 2026:** Stars 53,215 → 56,074, latest release v0.4.0 (June 25, 2026).
 - **October 16, 2026:** Stars 50,644 → 53,215, latest release v0.4.0 (June 25, 2026).
-- **September 27, 2026:** Stars 47,443 → 50,644, latest release v0.4.0 (June 25, 2026).
 
 ## What you get
 

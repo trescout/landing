@@ -2,16 +2,16 @@
 
 Croc é uma ferramenta que fornece transferência segura de arquivos e dados entre dois computadores usando criptografia ponta a ponta. Este software, desenvolvido com a linguagem de programação Go, utiliza um mecanismo de retransmissão temporária para facilitar o processo de transferência.
 
-- ★ 40.881
+- ★ 40.992
 - Go
 - GitHub Trending · 2026-07-22
 
 ## Atualizações
 
+- **21 de novembro de 2026:** Estrelas 40,881 → 40,992, versão mais recente v11.6.6 (21 de novembro de 2026).
 - **8 de novembro de 2026:** Estrelas 40,868 → 40,881, versão mais recente v11.6.5 (7 de novembro de 2026).
 - **5 de novembro de 2026:** Estrelas 40,838 → 40,868, versão mais recente v11.6.4 (5 de novembro de 2026).
 - **3 de novembro de 2026:** Estrelas 40,833 → 40,838, versão mais recente v11.6.3 (2 de novembro de 2026).
-- **2 de novembro de 2026:** Estrelas 40,813 → 40,833, versão mais recente v11.6.2 (1 de novembro de 2026).
 
 ## O que você ganha
 

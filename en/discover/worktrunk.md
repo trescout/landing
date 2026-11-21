@@ -2,16 +2,16 @@
 
 Worktrunk is a command-line interface (CLI) written in Rust that simplifies Git worktree management. Developed specifically to support parallel AI agent workflows, this tool accelerates working on multiple tasks simultaneously.
 
-- ★ 12,532
+- ★ 12,684
 - Rust
 - GitHub Trending · 2026-09-13
 
 ## Updates
 
+- **November 21, 2026:** Stars 12,532 → 12,684, latest release v0.83.0 (November 21, 2026).
 - **November 15, 2026:** Stars 11,673 → 12,532, latest release v0.82.0 (November 14, 2026).
 - **November 6, 2026:** Stars 10,618 → 11,673, latest release v0.81.0 (October 20, 2026).
 - **November 4, 2026:** Stars 9,348 → 10,618, latest release v0.81.0 (October 20, 2026).
-- **October 21, 2026:** Stars 8,444 → 9,348, latest release v0.81.0 (October 20, 2026).
 
 ## What you get
 

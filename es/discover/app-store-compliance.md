@@ -2,12 +2,13 @@
 
 mjmirza/app-store-compliance ofrece una guía abierta que incluye 117 patrones de rechazo diferentes y sus soluciones encontrados en los procesos de revisión de la tienda de aplicaciones. Su objetivo es simplificar los procesos de aprobación de App Store y Google Play para los desarrolladores con herramientas como el seguimiento de normativas legales y avisos de privacidad.
 
-- ★ 2.032
+- ★ 3.296
 - Shell
 - GitHub Trending · 2026-11-20
 
 ## Actualizaciones
 
+- **21 de noviembre de 2026:** Estrellas 2,032 → 3,296, última versión v2.4.0 (15 de noviembre de 2026).
 - **20 de noviembre de 2026:** Estrellas 2,003 → 2,032, última versión v2.4.0 (15 de noviembre de 2026).
 
 ## Qué aporta

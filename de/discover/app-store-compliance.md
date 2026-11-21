@@ -2,12 +2,13 @@
 
 mjmirza/app-store-compliance bietet einen offenen Leitfaden mit 117 verschiedenen Ablehnungsmustern und Lösungswegen, die bei App-Store-Prüfprozessen auftreten. Mit Tools zur Verfolgung gesetzlicher Vorschriften und Datenschutzhinweisen zielt es darauf ab, die Genehmigungsprozesse für Entwickler im App Store und bei Google Play zu erleichtern.
 
-- ★ 2.032
+- ★ 3.296
 - Shell
 - GitHub Trending · 2026-11-20
 
 ## Aktualisierungen
 
+- **21. November 2026:** Sterne 2,032 → 3,296, neueste Version v2.4.0 (15. November 2026).
 - **20. November 2026:** Sterne 2,003 → 2,032, neueste Version v2.4.0 (15. November 2026).
 
 ## Was es bringt

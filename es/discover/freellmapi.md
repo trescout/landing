@@ -2,16 +2,16 @@
 
 FreeLLMAPI proporciona enrutamiento inteligente y tolerancia a fallas al agregar 34 proveedores principales de modelos de lenguaje gratuitos diferentes en una única API REST en formato OpenAI.
 
-- ★ 55.783
+- ★ 56.112
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Actualizaciones
 
+- **21 de noviembre de 2026:** Estrellas 55,783 → 56,112, última versión v0.16.38 (21 de noviembre de 2026).
 - **21 de noviembre de 2026:** Estrellas 55,329 → 55,783, última versión v0.16.37 (20 de noviembre de 2026).
 - **20 de noviembre de 2026:** Estrellas 54,621 → 55,329, última versión v0.16.36 (19 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 53,602 → 54,621, última versión v0.16.34 (17 de noviembre de 2026).
-- **17 de noviembre de 2026:** Estrellas 52,995 → 53,602, última versión v0.16.31 (16 de noviembre de 2026).
 
 ## Qué aporta
 

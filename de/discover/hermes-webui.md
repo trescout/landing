@@ -2,17 +2,17 @@
 
 Hermes WebUI ist eine Schnittstelle, mit der Sie Hermes-KI-Agenten über einen Webbrowser oder mobile Geräte verwalten können. Es ermöglicht Ihnen, Agenteninteraktionen von einem einzigen Zentrum aus zu verfolgen und zu steuern.
 
-- ★ 19.584
+- ★ 19.602
 - Python
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
 ## Aktualisierungen
 
+- **21. November 2026:** Sterne 19,584 → 19,602, neueste Version v0.52.723 (21. November 2026).
 - **20. November 2026:** Sterne 19,540 → 19,584, neueste Version v0.52.702 (19. November 2026).
 - **16. November 2026:** Sterne 19,500 → 19,540, neueste Version v0.52.679 (15. November 2026).
 - **13. November 2026:** Sterne 19,187 → 19,500, neueste Version v0.52.667 (12. November 2026).
-- **26. Oktober 2026:** Sterne 19,072 → 19,187, neueste Version v0.52.544 (25. Oktober 2026).
 
 ## Was es bringt
 

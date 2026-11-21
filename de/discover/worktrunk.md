@@ -2,16 +2,16 @@
 
 Worktrunk ist eine in Rust geschriebene Befehlszeilenschnittstelle (CLI), die die Verwaltung von Git-Arbeitsbäumen (Worktrees) vereinfacht. Das Tool wurde speziell zur Unterstützung paralleler KI-Agenten-Workflows entwickelt und beschleunigt die gleichzeitige Arbeit an mehreren Aufgaben.
 
-- ★ 12.532
+- ★ 12.684
 - Rust
 - GitHub Trending · 2026-09-13
 
 ## Aktualisierungen
 
+- **21. November 2026:** Sterne 12,532 → 12,684, neueste Version v0.83.0 (21. November 2026).
 - **15. November 2026:** Sterne 11,673 → 12,532, neueste Version v0.82.0 (14. November 2026).
 - **6. November 2026:** Sterne 10,618 → 11,673, neueste Version v0.81.0 (20. Oktober 2026).
 - **4. November 2026:** Sterne 9,348 → 10,618, neueste Version v0.81.0 (20. Oktober 2026).
-- **21. Oktober 2026:** Sterne 8,444 → 9,348, neueste Version v0.81.0 (20. Oktober 2026).
 
 ## Was es bringt
 

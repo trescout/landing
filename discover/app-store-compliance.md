@@ -2,12 +2,13 @@
 
 mjmirza/app-store-compliance, uygulama mağazası inceleme süreçlerinde karşılaşılan 117 farklı ret desenini ve çözüm yollarını içeren açık bir rehber sunuyor. Yasal düzenleme takipleri ve gizlilik bildirimleri gibi araçlarla geliştiricilerin App Store ve Google Play onay süreçlerini kolaylaştırmayı hedefliyor.
 
-- ★ 2.032
+- ★ 3.296
 - Shell
 - GitHub Trending · 2026-11-20
 
 ## Güncelleme
 
+- **21 Kasım 2026:** Yıldız 2.032 → 3.296, son sürüm v2.4.0 (15 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 2.003 → 2.032, son sürüm v2.4.0 (15 Kasım 2026).
 
 ## Ne kazandırır?
