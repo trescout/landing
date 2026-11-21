@@ -22,7 +22,7 @@ Le référentiel ChinaTextbook propose une archive numérique des manuels utilis
 
 Vous pouvez directement consulter ou télécharger des manuels scolaires aux niveaux primaire, secondaire, secondaire et universitaire au format PDF en visitant la page GitHub du référentiel ChinaTextbook. Si le fichier que vous avez téléchargé est divisé en morceaux, vous pouvez télécharger l'outil de fusion sur votre ordinateur en cliquant sur le lien « 下载文件合并程序 » sur la page du projet et le fusionner en l'exécutant dans le même dossier que les fichiers concernés.
 
-- PDF retiré des archives
+- [Source officielle →](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)
 
 ## Termes liés du glossaire
 
