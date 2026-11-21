@@ -10983,5 +10983,18 @@
     "kisa_es": "Es un enrutador de tráfico que distribuye el tráfico de red entrante entre varios servidores, lo que evita que el sistema colapse y mejora el rendimiento.",
     "kisa_pt": "É um roteador de tráfego que distribui o tráfego de rede recebido entre vários servidores, evitando a queda do sistema e aumentando o desempenho.",
     "kisa_de": "Es handelt sich um einen Verkehrsrouter, der eingehenden Netzwerkverkehr auf mehrere Server verteilt, um Systemabstürze zu verhindern und die Leistung zu steigern."
+  },
+  {
+    "slug": "red-team-work",
+    "en": "Red-team Work",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sistemlerin açıklarını bulmak için yapılan düşman simülasyonu ve sızma testleri sürecidir.",
+    "date": "2026-11-21",
+    "kisa_en": "It is the process of adversary simulation and penetration testing conducted to identify system vulnerabilities.",
+    "kisa_fr": "Il s'agit d'un processus de simulation d'adversaire et de tests d'intrusion mené pour identifier les vulnérabilités des systèmes.",
+    "kisa_es": "Es el proceso de simulación de adversarios y pruebas de penetración realizado para encontrar vulnerabilidades en los sistemas.",
+    "kisa_pt": "É o processo de simulação de adversário e testes de penetração realizados para encontrar vulnerabilidades nos sistemas.",
+    "kisa_de": "Es handelt sich um den Prozess der Adversary Simulation und der Penetrationstests, die durchgeführt werden, um Schwachstellen in Systemen zu finden."
   }
 ]

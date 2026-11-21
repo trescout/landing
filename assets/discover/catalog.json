@@ -4884,14 +4884,14 @@
     "slug": "pi-subagents",
     "title": "Pi Subagents",
     "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
-    "meta": "★ 4.231 · Lisans: yok",
+    "meta": "★ 4.238 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4231,
+    "stars": 4238,
     "image": "/assets/discover/og/pi-subagents.webp",
     "headline": "Yapay zekâ ile asenkron görev yönetimi",
     "last_review": "2026-11-21",
@@ -5259,6 +5259,13 @@
         "onceki_yildiz": 4217,
         "surum": "v0.89.1",
         "surum_tarihi": "2026-11-18"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 4238,
+        "onceki_yildiz": 4231,
+        "surum": "v0.89.2",
+        "surum_tarihi": "2026-11-21"
       }
     ],
     "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform.",
@@ -13715,7 +13722,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 32.720 · HTML",
+    "meta": "★ 32.725 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -13723,7 +13730,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 32720,
+    "stars": 32725,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-11-21",
@@ -14167,6 +14174,13 @@
         "yildiz": 32720,
         "onceki_yildiz": 32695,
         "surum": "cua-spaces-v0.40.1",
+        "surum_tarihi": "2026-11-21"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 32725,
+        "onceki_yildiz": 32720,
+        "surum": "cua-spaces-v0.40.2",
         "surum_tarihi": "2026-11-21"
       }
     ],
@@ -25184,7 +25198,7 @@
     "slug": "claude-skills",
     "title": "Claude Skills",
     "tagline": "Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda…",
-    "meta": "★ 30.070 · Python",
+    "meta": "★ 30.212 · Python",
     "image": "/assets/discover/og/claude-skills.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -25192,7 +25206,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 30070,
+    "stars": 30212,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına uzmanlık kazandırın",
     "last_review": "2026-11-21",
@@ -25343,6 +25357,13 @@
         "onceki_yildiz": 29938,
         "surum": "v2.14.14",
         "surum_tarihi": "2026-11-17"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 30212,
+        "onceki_yildiz": 30070,
+        "surum": "v2.14.15",
+        "surum_tarihi": "2026-11-21"
       }
     ],
     "tagline_en": "This library, developed for Claude Code and various coding agents, is used in different fields from engineering to marketing.",
@@ -35376,7 +35397,7 @@
     "slug": "open-code-review",
     "title": "Open Code Review",
     "tagline": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli…",
-    "meta": "★ 54.228 · Go",
+    "meta": "★ 54.892 · Go",
     "image": "/assets/discover/og/open-code-review.webp",
     "source": "GitHub",
     "date": "2026-07-24",
@@ -35384,7 +35405,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 54228,
+    "stars": 54892,
     "lite": false,
     "headline": "Yapay zekâ destekli hassas kod inceleme",
     "last_review": "2026-11-21",
@@ -35738,6 +35759,13 @@
         "onceki_yildiz": 54160,
         "surum": "v1.13.13",
         "surum_tarihi": "2026-11-19"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 54892,
+        "onceki_yildiz": 54228,
+        "surum": "v1.14.0",
+        "surum_tarihi": "2026-11-21"
       }
     ],
     "tagline_en": "Open source code review tool developed by Alibaba, large language model with deterministic pipelines…",
@@ -39625,7 +39653,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 72.297 · Python",
+    "meta": "★ 72.329 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -39633,7 +39661,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 72297,
+    "stars": 72329,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-11-21",
@@ -40014,6 +40042,13 @@
         "yildiz": 72297,
         "onceki_yildiz": 72020,
         "surum": "v6.19.42",
+        "surum_tarihi": "2026-11-21"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 72329,
+        "onceki_yildiz": 72297,
+        "surum": "v6.19.43",
         "surum_tarihi": "2026-11-21"
       }
     ]
@@ -55662,7 +55697,7 @@
     "slug": "deskcommcrm",
     "title": "DeskcommCRM",
     "tagline": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM)…",
-    "meta": "★ 5.503 · TypeScript",
+    "meta": "★ 5.504 · TypeScript",
     "image": "/assets/discover/og/deskcommcrm.webp",
     "source": "GitHub",
     "date": "2026-09-12",
@@ -55671,7 +55706,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5503,
+    "stars": 5504,
     "summary": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanlarıyla, benzer işlevlere sahip ticari yazılımlara (Kommo, Octadesk, Intercom) kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı yapay zekâlı CRM",
@@ -56047,6 +56082,13 @@
         "onceki_yildiz": 5493,
         "surum": "v1.121.0",
         "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 5504,
+        "onceki_yildiz": 5503,
+        "surum": "v1.122.0",
+        "surum_tarihi": "2026-11-21"
       }
     ],
     "tagline_en": "DeskcommCRM is an open-source customer relationship management (CRM) system developed for businesses that sell via chat...",
@@ -58249,7 +58291,7 @@
     "slug": "cline",
     "title": "Cline",
     "tagline": "Cline, yazılım geliştirme süreçlerini otomatize eden otonom bir kodlama ajanıdır.",
-    "meta": "★ 71.796 · TypeScript",
+    "meta": "★ 71.800 · TypeScript",
     "image": "/assets/discover/og/cline.webp",
     "source": "GitHub",
     "date": "2026-09-18",
@@ -58257,7 +58299,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 71796,
+    "stars": 71800,
     "summary": "Cline, yazılım geliştirme süreçlerini otomatize eden otonom bir kodlama ajanıdır. IDE eklentisi, yazılım geliştirme kiti (SDK) veya komut satırı arayüzü (CLI) üzerinden çalışarak geliştiricilerin projelerine entegre olur.",
     "lite": false,
     "headline": "Yazılım geliştirme süreçlerini otomatize eden yapay zekâ ajanı",
@@ -58373,6 +58415,13 @@
         "yildiz": 71796,
         "onceki_yildiz": 70911,
         "surum": "cli-v3.0.75",
+        "surum_tarihi": "2026-11-21"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 71800,
+        "onceki_yildiz": 71796,
+        "surum": "v4.1.27",
         "surum_tarihi": "2026-11-21"
       }
     ],
@@ -68746,7 +68795,7 @@
     "slug": "ffmpeg-skill",
     "title": "Ffmpeg Skill",
     "tagline": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir.",
-    "meta": "★ 8.960 · Python",
+    "meta": "★ 9.017 · Python",
     "image": "/assets/discover/og/ffmpeg-skill.webp",
     "source": "GitHub",
     "date": "2026-11-17",
@@ -68754,7 +68803,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8960,
+    "stars": 9017,
     "last_seen": "2026-11-17",
     "summary": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir. Claude Code, Cursor ve Codex gibi yazılım geliştirme araçlarıyla entegre çalışan bu yapı, 42 farklı FFmpeg aracını makine tarafından okunabilir bir sözleşme ve MCP sunucusu üzerinden bulut tabanlı API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) gereksinimi olmadan kullanıma sunar.",
     "lite": false,
@@ -68801,6 +68850,13 @@
         "yildiz": 8960,
         "onceki_yildiz": 8533,
         "surum": "v4.3.3",
+        "surum_tarihi": "2026-11-21"
+      },
+      {
+        "tarih": "2026-11-21",
+        "yildiz": 9017,
+        "onceki_yildiz": 8960,
+        "surum": "v4.3.4",
         "surum_tarihi": "2026-11-21"
       }
     ],

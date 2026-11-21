@@ -2,16 +2,16 @@
 
 Desarrollada para Claude Code y varios agentes de codificación, esta biblioteca ofrece más de 330 paquetes de habilidades y más de 70 comandos especiales en diferentes campos, desde ingeniería hasta marketing. Este conjunto de herramientas basado en Python proporciona scripts personalizables para estandarizar los flujos de trabajo basados ​​en IA y aumentar la productividad.
 
-- ★ 30.070
+- ★ 30.212
 - Python
 - GitHub Trending · 2026-07-05
 
 ## Actualizaciones
 
+- **21 de noviembre de 2026:** Estrellas 30,070 → 30,212, última versión v2.14.15 (21 de noviembre de 2026).
 - **18 de noviembre de 2026:** Estrellas 29,938 → 30,070, última versión v2.14.14 (17 de noviembre de 2026).
 - **17 de noviembre de 2026:** Estrellas 29,874 → 29,938, última versión v2.14.13 (17 de noviembre de 2026).
 - **16 de noviembre de 2026:** Estrellas 29,615 → 29,874, última versión v2.14.12 (16 de noviembre de 2026).
-- **11 de noviembre de 2026:** Estrellas 29,560 → 29,615, última versión v2.14.11 (11 de noviembre de 2026).
 
 ## Qué aporta
 

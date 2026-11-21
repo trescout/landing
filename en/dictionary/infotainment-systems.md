@@ -43,7 +43,7 @@ They try to reduce driver distraction with voice commands and simplified menus. 
 
 **Does it work without a phone?**
 
-Basic radio and vehicle settings work. Phone pairing or a cellular connection is generally required for navigation and streaming.
+Basic radio and vehicle settings work. Navigation and streaming typically require phone pairing or a cellular connection.
 
 **Is there an update fee?**
 
