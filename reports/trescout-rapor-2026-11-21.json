@@ -1,0 +1,910 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-21",
+  "capturedAt": "2026-11-21T05:12:33.119Z",
+  "editorial": "Bugün matematik dünyasında Riemann Hipotezi (Generalized Riemann Hypothesis) üzerine gelen iddialı kanıt çalışmaları ile yapay zekâ modellerinin güvenlik ve nedensellik (causality) odaklı teknik iyileştirmeleri öne çıkıyor. Özellikle Hugging Face platformunda yayınlanan yeni küçük dil modelleri ve aksiyon odaklı görsel-dil modelleri, sistemlerin güvenli durdurma (safe stopping) yeteneklerini geliştirmeye yönelik güncel veriler sunuyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "summary": "Claude-BugHunter, hata ayıklama (bug hunting) ve dış kırmızı takım (red-team) çalışmaları için geliştirilmiş bir Claude Code yetenek paketidir. Yazılım geliştirme süreçlerinde güvenlik açıklarını tespit etmek amacıyla 82 yetenek, 15 eğik çizgi komutu (slash command) ve geniş kapsamlı bir güvenlik raporu veritabanı sunar.",
+          "meta": "Python · ★ 14.594 · +1.622 bugün",
+          "snapshot": {
+            "sourceId": "elementalsouls/Claude-BugHunter",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 14594,
+              "engagementCount": 1622,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1622
+              }
+            },
+            "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers, kodlama yapan yapay zekâ ajanları için birleştirilebilir yetenekler (skills) ve bir yazılım geliştirme metodolojisi sunuyor. Bu çerçeve, ajanların görevlerini yerine getirirken kullanabileceği standartlaştırılmış talimatlar ve iş akışları oluşturmayı hedefliyor.",
+          "meta": "Shell · ★ 322.960 · +890 bugün",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 322960,
+              "engagementCount": 890,
+              "rank": 2,
+              "extra": {
+                "starsToday": 890,
+                "baglam": "readme"
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works. Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything, yazılım araçlarını yapay zekâ ajanlarının kullanımına uygun hale getiren bir komut satırı arayüzü (CLI) aracıdır. Bu sistem, Pi, OpenClaw, nanobot, kod düzenleyici Cursor ve Claude Code gibi çeşitli yapay zekâ platformlarıyla uyumlu bir çalışma ortamı sunar.",
+          "meta": "Python · ★ 61.518 · +773 bugün",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 61518,
+              "engagementCount": 773,
+              "rank": 3,
+              "extra": {
+                "starsToday": 773,
+                "baglam": "readme"
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: One Command Line: Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch"
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "jingyaogong/minimind, kişisel cihazlarda iki saat içinde sıfırdan 64M parametreli bir büyük dil modeli (LLM) eğitilmesine olanak tanıyan bir projedir. Kullanıcıların mevcut yapay zekâ modellerine ince ayar (fine-tuning) yapmak yerine, modelin iç çalışma mekanizmalarını temelden anlamalarını hedefler.",
+          "meta": "Python · ★ 67.783 · +847 bugün",
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 67783,
+              "engagementCount": 847,
+              "rank": 4,
+              "extra": {
+                "starsToday": 847,
+                "baglam": "readme"
+              }
+            },
+            "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. 大语言模型（Large Language Model, LLM）的出现，引发了全球范围内对 AI 的空前关注。无论是 ChatGPT、DeepSeek 还是 Qwen，都以惊艳的效果让人真切感受到这场技术浪潮的冲击力。然而，动辄数百亿参数的模型规模，使得它们对个人设备而言不仅难以训练，甚至连部署都显得遥不可及。打开大模型的“黑盒子”，真正去理解其内部运作机制，本应是一件令人心潮澎湃的事。遗憾的是，绝大多数探索最终都止步于使用 LoRA 等技术对现有大模型做少量微调，学习一些新指令或特定任务。这更像是在教牛顿如何使用 21 世纪的智能手机——虽然有趣，却偏离了理解物理本质的初衷。"
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor, kod düzenleme aracı Cursor için geliştirilen eklentilerin teknik standartlarını ve resmi eklentileri barındıran bir depo sunuyor. TypeScript diliyle hazırlanan bu kaynak, geliştiricilerin platforma özel eklenti (plugin) geliştirmeleri için gerekli kuralları ve örnekleri içeriyor.",
+          "meta": "TypeScript · ★ 17.898 · +299 bugün",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 17898,
+              "engagementCount": 299,
+              "rank": 5,
+              "extra": {
+                "starsToday": 299
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl, yapay zekâ ajanlarının veri erişimini kolaylaştırmak için 550'den fazla veri sağlayıcısını tek bir uygulama programlama arayüzü (API) üzerinden sunan bir bilgi altyapısıdır. Yazılımcıların kendi sunucularında barındırabileceği bu çözüm, web tarama ve veri toplama süreçlerini standartlaştıran yazılım geliştirme kitleri (SDK) içerir.",
+          "meta": "TypeScript · ★ 205.466 · +1.241 bugün",
+          "snapshot": {
+            "sourceId": "firecrawl/firecrawl",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 205466,
+              "engagementCount": 1241,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1241,
+                "baglam": "readme"
+              }
+            },
+            "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "summary": "NGINX, web sunucusu, yük dengeleyici (load balancer), ters vekil sunucu (reverse proxy), API ağ geçidi (API gateway) ve içerik önbelleği olarak kullanılan açık kaynaklı (open source) bir yazılımdır. C diliyle geliştirilen bu popüler teknoloji, ağ trafiğini yönetmek ve içerik sunmak için dünya genelinde yaygın şekilde tercih ediliyor.",
+          "meta": "C · ★ 32.609 · +246 bugün",
+          "snapshot": {
+            "sourceId": "nginx/nginx",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 32609,
+              "engagementCount": 246,
+              "rank": 7,
+              "extra": {
+                "starsToday": 246,
+                "baglam": "readme"
+              }
+            },
+            "description": "The official NGINX Open Source repository. NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "summary": "OpenVINO, yapay zekâ modellerinin çıkarım (inference) süreçlerini optimize etmek ve dağıtmak için kullanılan açık kaynaklı (open source) bir araç takımıdır. C++ diliyle geliştirilen bu platform, modellerin farklı donanımlar üzerinde daha verimli çalışmasını sağlar.",
+          "meta": "C++ · ★ 11.820 · +217 bugün",
+          "snapshot": {
+            "sourceId": "openvinotoolkit/openvino",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 11820,
+              "engagementCount": 217,
+              "rank": 8,
+              "extra": {
+                "starsToday": 217,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference. Check out the OpenVINO Cheat Sheet and Key Features for a quick reference."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Cathrynlavery/diagram-design, Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder ve Pi gibi geliştirici araçları için 45 farklı türde editoryal şema tasarımı sunuyor. Bu çalışma, gölge içermeyen ve harici bağımlılığı bulunmayan HTML ile SVG tabanlı görselleştirme seçenekleri sağlıyor.",
+          "meta": "HTML · ★ 69.396 · +636 bugün",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 69396,
+              "engagementCount": 636,
+              "rank": 9,
+              "extra": {
+                "starsToday": 636
+              }
+            },
+            "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "summary": "mvanhorn/last30days-skill, çeşitli platformlarda (Reddit, X, YouTube, HN, Polymarket ve web) araştırma yaparak güncel konular hakkında özetler sunan bir yapay zekâ yeteneği (skill). Python diliyle geliştirilen bu araç, farklı kaynaklardan elde edilen verileri sentezleyerek kullanıcıya dayanaklı bir özet sunmayı amaçlıyor.",
+          "meta": "Python · ★ 71.548 · +681 bugün",
+          "snapshot": {
+            "sourceId": "mvanhorn/last30days-skill",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 71548,
+              "engagementCount": 681,
+              "rank": 10,
+              "extra": {
+                "starsToday": 681
+              }
+            },
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "summary": "Google Labs tarafından geliştirilen stitch-skills, Stitch MCP sunucusuyla uyumlu çalışacak şekilde tasarlanmış bir ajan yetenekleri (agent skills) kütüphanesidir. Bu kütüphane, Antigravity, Gemini CLI, Claude Code ve kod düzenleme aracı Cursor gibi yazılımlarla uyumluluk sağlamak için açık standartları takip eder.",
+          "meta": "TypeScript · ★ 11.104 · +315 bugün",
+          "snapshot": {
+            "sourceId": "google-labs-code/stitch-skills",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11104,
+              "engagementCount": 315,
+              "rank": 11,
+              "extra": {
+                "starsToday": 315
+              }
+            },
+            "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "mjmirza/app-store-compliance",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "summary": "mjmirza/app-store-compliance, uygulama mağazası reddedilme süreçlerini önlemek için 117 farklı hata deseni ve çözüm önerisi sunan açık kaynaklı bir rehberdir. Yazılım geliştiricilerin yasal uyumluluk tarihlerini takip etmelerini sağlayan araç, yapay zekâ kodlama ajanları için de entegre bir yetenek seti içerir.",
+          "meta": "Shell · ★ 2.866 · +869 bugün",
+          "snapshot": {
+            "sourceId": "mjmirza/app-store-compliance",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 2866,
+              "engagementCount": 869,
+              "rank": 12,
+              "extra": {
+                "starsToday": 869
+              }
+            },
+            "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "summary": "Tracer-Cloud/opensre, sürekli entegrasyon ve sürekli dağıtım (CI/CD) süreçlerinin güvenilirliğini artırmak için tasarlanmış açık kaynaklı bir yapay zekâ ajanıdır. Python diliyle geliştirilen bu araç, kurulum sürecini basitleştirerek yazılım güncellemelerinin yönetilmesine yardımcı olur.",
+          "meta": "Python · ★ 13.688 · +466 bugün",
+          "snapshot": {
+            "sourceId": "Tracer-Cloud/opensre",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13688,
+              "engagementCount": 466,
+              "rank": 13,
+              "extra": {
+                "starsToday": 466,
+                "baglam": "readme"
+              }
+            },
+            "description": "The open-source agent for CI/CD reliability. The installer fetches the latest build from main without requiring sudo. If opensre is not found, follow the PATH instructions printed by the installer or open a new terminal."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "summary": "AFFiNE, planlama, düzenleme ve içerik oluşturma süreçlerini tek bir platformda birleştiren yeni nesil bir bilgi tabanıdır. Gizlilik odaklı ve açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bu yazılım, Notion ve Miro gibi araçlara alternatif bir çalışma alanı sunar.",
+          "meta": "TypeScript · ★ 75.899 · +676 bugün",
+          "snapshot": {
+            "sourceId": "toeverything/AFFiNE",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 75899,
+              "engagementCount": 676,
+              "rank": 14,
+              "extra": {
+                "starsToday": 676
+              }
+            },
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "summary": "XiaoYouChR/Ghost-Downloader-3, dört farklı platformda çalışan ve neredeyse tüm indirme protokollerini destekleyen kapsamlı bir indirme yöneticisidir. Bir Bilibili içerik üreticisinin kaynak yönetimi ihtiyacıyla başlayan proje, günümüzde eklenti paketleri (feature packs) ile genişletilebilir bir ekosisteme sahiptir.",
+          "meta": "Python · ★ 13.877 · +1.082 bugün",
+          "snapshot": {
+            "sourceId": "XiaoYouChR/Ghost-Downloader-3",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13877,
+              "engagementCount": 1082,
+              "rank": 15,
+              "extra": {
+                "starsToday": 1082,
+                "baglam": "readme"
+              }
+            },
+            "description": "The only downloader you need. 下载器的集大成者。. Started as a passion project to help a Bilibili creator manage resources. Now it ships on four platforms, handles virtually every download protocol, and has a growing Feature Packs plugin ecosystem."
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "AutoClip, uzun videoları otomatik olarak kısa kliplere dönüştüren açık kaynaklı (open-source) bir masaüstü video düzenleme aracıdır. Yazılım, içeriklerin altyazılarını ve kapaklarını hazırlayarak sosyal medya platformları için uygun paylaşım metinleri oluşturur.",
+          "meta": "Python · ★ 12.317 · +979 bugün",
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-11-21T05:27:35.709Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 12317,
+              "engagementCount": 979,
+              "rank": 16,
+              "extra": {
+                "starsToday": 979
+              }
+            },
+            "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
+          },
+          "streakDays": 2
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+          "url": "https://alpo.ge/remark.pdf",
+          "summary": "Matematikçi Levent Alpöge, sayılar teorisinin en önemli problemlerinden biri olan Genelleştirilmiş Riemann Hipotezi (Generalized Riemann Hypothesis) için bir kanıt sunduğunu duyurdu. Söz konusu iddia, akademik camiada çözüm arayışları süren bu karmaşık matematiksel varsayım üzerine yeni bir tartışma başlattı.",
+          "meta": "2.471 oy · 1.664 yorum",
+          "snapshot": {
+            "sourceId": "50574968",
+            "capturedAt": "2026-11-21T05:12:33.510Z",
+            "metadata": {
+              "popularity": 2471,
+              "engagementCount": 1664,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50574968",
+                  "popularity": 2471,
+                  "engagementCount": 1664
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-20T14:16:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50574968"
+              }
+            },
+            "description": "Related: Hurried Announcement: Alessandro Masullo GRH - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50574968",
+              "popularity": 2471,
+              "engagementCount": 1664
+            }
+          ]
+        },
+        {
+          "title": "Hurried Announcement: Alessandro Masullo GRH",
+          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+          "summary": "Alessandro Masullo tarafından duyurulan GRH çalışması, Levent Alpöge'nin Genel Riemann Hipotezi'ni (Generalized Riemann Hypothesis) kanıtladığına dair iddialarıyla ilişkilendiriliyor. Matematik dünyasında büyük ilgi gören bu gelişme, hipotezin doğruluğuna dair yeni bir tartışma ortamı yaratıyor.",
+          "meta": "1.777 oy · 796 yorum",
+          "snapshot": {
+            "sourceId": "50579568",
+            "capturedAt": "2026-11-21T05:12:33.510Z",
+            "metadata": {
+              "popularity": 1777,
+              "engagementCount": 796,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50579568",
+                  "popularity": 1777,
+                  "engagementCount": 796
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-20T18:33:14Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50579568"
+              }
+            },
+            "description": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50579568",
+              "popularity": 1777,
+              "engagementCount": 796
+            }
+          ]
+        },
+        {
+          "title": "Inkling 2 Mini",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+          "summary": "Thinking Machines tarafından geliştirilen Inkling 2 Mini, dizüstü bilgisayarlarda çalışabilecek kadar küçük olan açık ağırlıklı (open-weights) bir yapay zekâ modelidir. Model, daha fazla muhakeme yapabilmek ve daha az belirteç (token) kullanarak yanıt üretebilmek için orta katmanlarını döngüye sokan bir mimari kullanır.",
+          "meta": "834 oy · 144 yorum",
+          "snapshot": {
+            "sourceId": "50581260",
+            "capturedAt": "2026-11-21T05:12:33.510Z",
+            "metadata": {
+              "popularity": 834,
+              "engagementCount": 144,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50581260",
+                  "popularity": 834,
+                  "engagementCount": 144
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-20T20:12:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50581260",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Inkling 2 Mini is an open-weights model small enough to run on your laptop. It loops its middle layers to reason more per token and reach answers in fewer tokens."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50581260",
+              "popularity": 834,
+              "engagementCount": 144
+            }
+          ]
+        },
+        {
+          "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+          "url": "https://signal.org/blog/protecting-your-privacy/",
+          "summary": "Signal, mobil işletim sistemlerine entegre edilen yapay zekâ ajanlarının kullanıcı verilerini kaydetmesini ve işlemesini kısıtlıyor. Bu hamle, mesajlaşma uygulamasının gizlilik odaklı çalışma prensibini korumayı amaçlıyor.",
+          "meta": "533 oy · 311 yorum",
+          "snapshot": {
+            "sourceId": "50572348",
+            "capturedAt": "2026-11-21T05:12:33.510Z",
+            "metadata": {
+              "popularity": 533,
+              "engagementCount": 311,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50572348",
+                  "popularity": 533,
+                  "engagementCount": 311
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-20T09:42:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50572348",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50572348",
+              "popularity": 533,
+              "engagementCount": 311
+            }
+          ]
+        },
+        {
+          "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+          "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+          "summary": "Matematikçi Terry Tao, Navier-Stokes tekilliği (Navier-Stokes singularity) ve Genelleştirilmiş Riemann Hipotezi (Generalized Riemann Hypothesis) üzerine elde edilen yeni bulguları kişisel blogunda paylaşıyor. Levent Alpöge ve Tristan Buck gibi isimlerin katkı sağladığı bu sonuçlar, teorik fizik ve matematik alanındaki temel problemlerin çözümüne yönelik güncel gelişmeleri içeriyor.",
+          "meta": "385 oy · 154 yorum",
+          "snapshot": {
+            "sourceId": "50578358",
+            "capturedAt": "2026-11-21T05:12:33.510Z",
+            "metadata": {
+              "popularity": 385,
+              "engagementCount": 154,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50578358",
+                  "popularity": 385,
+                  "engagementCount": 154
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-20T17:21:36Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50578358",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Obviously these results will be reported widely in other outlets, but I will note them here, in decreasing order of how “digested” the results currently are: Levent Alpöge, Tristan Buck…"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50578358",
+              "popularity": 385,
+              "engagementCount": 154
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling-2-Mini",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "summary": "Hugging Face üzerinde paylaşılan thinkingmachines/Inkling-2-Mini, metin ve görsel girdilerini işleyerek metin çıktısı üreten çok modlu (multimodal) bir yapay zekâ modelidir. İngilizce ve diğer dillerin yanı sıra çeşitli programlama dillerini de destekleyen bu genel amaçlı model, çok yönlü bir kullanım sunar.",
+          "meta": "♥ 842 · 136 indirme",
+          "snapshot": {
+            "sourceId": "thinkingmachines/Inkling-2-Mini",
+            "capturedAt": "2026-11-21T05:12:33.209Z",
+            "metadata": {
+              "popularity": 842,
+              "engagementCount": 136,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 606,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "inkling2_loop",
+                  "text-generation",
+                  "conversational",
+                  "image-text-to-text",
+                  "moe",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "modelopt",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages."
+          }
+        },
+        {
+          "title": "higurashi-ai/Haru-4B",
+          "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+          "summary": "Hugging Face üzerinde yayımlanan Haru-4B, düşük gecikmeli ve çok dilli bir ses-ses (audio-to-audio) temel modelidir. İnsanların telefon görüşmelerindeki gibi aynı anda dinleyip konuşabildiği sürekli bir sözlü diyalog deneyimi sunan bu model, araştırma amaçlı kullanıma sunulmuştur.",
+          "meta": "♥ 5.698 · 7.323 indirme",
+          "snapshot": {
+            "sourceId": "higurashi-ai/Haru-4B",
+            "capturedAt": "2026-11-21T05:12:33.209Z",
+            "metadata": {
+              "popularity": 5698,
+              "engagementCount": 7323,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 313.5,
+                "pipelineTag": "audio-to-audio",
+                "tags": [
+                  "safetensors",
+                  "haru",
+                  "speech",
+                  "full-duplex",
+                  "speech-to-speech",
+                  "audio-to-audio",
+                  "en",
+                  "es",
+                  "pt",
+                  "de",
+                  "fr",
+                  "zh",
+                  "ja",
+                  "ru",
+                  "ko",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "audio-to-audio model. Haru-4B is a low-latency and multilingual full-duplex continuous spoken dialogue foundation model: it listens and speaks at the same time, the way people do on a phone call. It is a pretrained base model, released for research."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "Sentinel7/h3",
+          "url": "https://huggingface.co/Sentinel7/h3",
+          "summary": "Hugging Face üzerinde paylaşılan Sentinel7/h3, kullanıcıların erişimine sunulan bir model dosyasıdır. Söz konusu içerik, platformun sunduğu model barındırma ve paylaşım altyapısı üzerinden erişilebilir durumdadır.",
+          "meta": "♥ 393 · 0 indirme",
+          "snapshot": {
+            "sourceId": "Sentinel7/h3",
+            "capturedAt": "2026-11-21T05:12:33.209Z",
+            "metadata": {
+              "popularity": 393,
+              "engagementCount": 0,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 312,
+                "tags": [
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+          "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+          "summary": "Harness-hub tarafından geliştirilen Qwen3.8-27B-pi-adapted, yazılım geliştirme ve uçbirim (terminal) görevleri için özelleştirilmiş bir görsel-metin tabanlı metin üretme (image-text-to-text) modelidir. Qwen/Qwen3.8-27B modeli üzerine uygulanan düşük dereceli uyarlama (LoRA) ve pekiştirmeli öğrenme (reinforcement learning) teknikleriyle pi kodlama ajanı için optimize edilmiştir.",
+          "meta": "♥ 869 · 1.874 indirme",
+          "snapshot": {
+            "sourceId": "harness-hub/Qwen3.8-27B-pi-adapted",
+            "capturedAt": "2026-11-21T05:12:33.209Z",
+            "metadata": {
+              "popularity": 869,
+              "engagementCount": 1874,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 296,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "peft",
+                  "safetensors",
+                  "trl",
+                  "grpo",
+                  "async-grpo",
+                  "lora",
+                  "agents",
+                  "harbor",
+                  "openenv",
+                  "pi",
+                  "image-text-to-text",
+                  "conversational",
+                  "dataset:harness-hub/scale800-harbor",
+                  "dataset:harness-hub/harness-adapters",
+                  "dataset:harness-hub/termgrade-train-harbor",
+                  "dataset:ai-and/termgrade-environments",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. A LoRA adapter for Qwen/Qwen3.8-27B, trained with reinforcement learning to work as the model behind the pi coding agent on software-engineering and terminal tasks."
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "unsloth/Inkling-2-Mini-GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "summary": "Hugging Face üzerinde paylaşılan unsloth/Inkling-2-Mini-GGUF, görsel ve metin girdilerini metne dönüştüren bir yapay zekâ modelidir. Modelin 4-bit sürümü, Unsloth optimizasyon aracı kullanılarak Blender ve MCP (Model Context Protocol) gibi platformlarda çalıştırılabiliyor.",
+          "meta": "♥ 269 · 0 indirme",
+          "snapshot": {
+            "sourceId": "unsloth/Inkling-2-Mini-GGUF",
+            "capturedAt": "2026-11-21T05:12:33.209Z",
+            "metadata": {
+              "popularity": 269,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 248,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "conversational",
+                  "image-text-to-text",
+                  "moe",
+                  "unsloth",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:quantized:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. See an example of 4-bit Inkling Mini running in Unsloth in Blender + MCP:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Time Series Structure Learning with Local Causal Parent Discovery",
+          "url": "https://huggingface.co/papers/2611.26232",
+          "summary": "Hugging Face üzerinde paylaşılan Time Series Structure Learning with Local Causal Parent Discovery makalesi, zaman serilerindeki nedensellik keşfi süreçlerinde karşılaşılan istatistiksel zorlukları ele alıyor. Çalışma, bu karmaşık veri yapılarında hesaplama ve örneklem verimliliğini artırmak amacıyla Iterative Temporal Parent Discovery (ITPD) adlı yeni bir kısıt tabanlı yöntem sunuyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.26232",
+            "capturedAt": "2026-11-21T05:12:33.227Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26232",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/jmaasch/itpd",
+                "githubStars": 0
+              }
+            },
+            "description": "Learning and inference on time series can pose significant statistical challenges, including autocorrelated observations, distribution shift over time, and the curse of dimensionality. These challenges complicate the practical application of causal discovery algorithms, which already suffer from high computational and sample complexity in the general case. To mitigate these issues, this work introduces Iterative Temporal Parent Discovery (ITPD): a sound and complete constraint-based procedure fo"
+          }
+        },
+        {
+          "title": "Teaching Vision-Language-Action Models to Stop Safely",
+          "url": "https://huggingface.co/papers/2611.26239",
+          "summary": "Hugging Face üzerinde yayımlanan makale, görsel-dil-eylem (vision-language-action) modellerinin robotik görevler sırasında yasaklı davranışları güvenli bir şekilde durdurma yeteneğini inceliyor. Çalışma, mevcut modellerin görevleri yarıda kesildiğinde dahi tamamlamaya devam edebildiğini belirterek fiziksel tepkilerin kontrol edilmesine yönelik zorluklara odaklanıyor.",
+          "meta": "3 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2611.26239",
+            "capturedAt": "2026-11-21T05:12:33.227Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26239",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/franciscoliu/SAFI",
+                "githubStars": 0
+              }
+            },
+            "description": "Vision-language-action (VLA) models enable robots to perform diverse tasks from visual observations and language instructions. While prior work has explored task suppression and refusal, stopping prohibited behavior once execution is underway and controlling the resulting physical response remain challenging. Our evaluation reveals that policies which suppress a task from its initial state can still complete it when taking over partway through execution. Even when the task remains unfinished, th"
+          }
+        },
+        {
+          "title": "PAD: Policy-Aware Data Valuation for Autonomous Driving",
+          "url": "https://huggingface.co/papers/2611.25604",
+          "summary": "Hugging Face tarafından paylaşılan PAD: Policy-Aware Data Valuation for Autonomous Driving makalesi, uçtan uca otonom sürüş sistemlerinde veri değerini belirlemek için yeni bir yöntem sunuyor. Çalışma, verilerin farklı planlayıcılar üzerindeki etkisini ölçerek eğitim süreçlerinde politika odaklı veri değerlendirmesi (policy-aware data valuation) yapılmasını hedefliyor.",
+          "meta": "2 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2611.25604",
+            "capturedAt": "2026-11-21T05:12:33.227Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.25604",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/PerfectXu88/PAD",
+                "githubStars": 2
+              }
+            },
+            "description": "End-to-end autonomous driving increasingly depends on scaling training demonstrations, yet data growth does not guarantee proportional gains. However, additional data do not guarantee better policies: a demonstration that benefits one planner may be redundant or harmful to another. Existing curation methods typically infer data value from intrinsic sample properties or training-dependent proxies that do not measure downstream policy utility. To address this, we introduce Policy-Aware Data Valuat"
+          }
+        },
+        {
+          "title": "Lang-SVG: Hierarchical Image Vectorization with Language Priors",
+          "url": "https://huggingface.co/papers/2611.15941",
+          "summary": "Hugging Face tarafından paylaşılan Lang-SVG, görüntüleri düzenlenebilir ve yapılandırılmış ölçeklenebilir vektör grafikleri (SVG) formatına dönüştüren bir yöntemdir. Bu çalışma, nesne hiyerarşilerini dil ön bilgileriyle (language priors) birleştirerek vektörleştirme sürecinde insan algısına daha uygun bir ağaç yapısı oluşturmayı hedefler.",
+          "meta": "1 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2611.15941",
+            "capturedAt": "2026-11-21T05:12:33.227Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.15941",
+                "publishedAt": "2026-11-11T00:00:00.000Z"
+              }
+            },
+            "description": "Image vectorization reconstructs raster images as compact scalable vector graph- ics (SVG), providing a structured and editable code representation of images. However, most existing vectorization methods optimize for pixel-level render- ing fidelity, often producing SVGs that lack alignment with human-perceived object-part hierarchies, making them difficult to manipulate. To address this, we propose Lang-SVG, which introduces an explicit tree structure to organize SVG primitives with semantic la"
+          }
+        },
+        {
+          "title": "Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests",
+          "url": "https://huggingface.co/papers/2611.25200",
+          "summary": "Squoosh Bench, web sitesi değişikliklerinin performansını tahmin etmek amacıyla 318 farklı A/B testi üzerinde yapılan bir değerlendirme çalışmasıdır. İnsan tarama verileriyle ince ayar (fine-tuning) yapılmış Squoosh UX-1 modeli, simüle edilmiş kullanıcı davranışları üzerinden test sonuçlarını öngörmeyi hedeflemektedir.",
+          "meta": "2 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2611.25200",
+            "capturedAt": "2026-11-21T05:12:33.227Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.25200",
+                "publishedAt": "2026-11-18T00:00:00.000Z"
+              }
+            },
+            "description": "Experimentation teams must decide which proposed website changes to test with live traffic. We evaluated whether forecasts from simulated shoppers could inform that choice. We screened 412 historical website A/B tests and evaluated four systems on the 318 that ran longer than 21 days. Each system predicted an original win, a variant win, or an inconclusive result. Page roles were masked and recorded outcomes were withheld during inference. Squoosh UX-1, a model fine-tuned on human browsing data,"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "bug hunting",
+      "explanation": "Yazılımlardaki hataları veya güvenlik açıklarını bulmak için yapılan sistematik araştırma süreci."
+    },
+    {
+      "term": "red-team",
+      "explanation": "Bir sistemin güvenliğini test etmek amacıyla kötü niyetli saldırganların yöntemlerini taklit eden güvenlik denetimi."
+    },
+    {
+      "term": "slash command",
+      "explanation": "Bir yazılımın özelliklerini hızlıca çalıştırmak için eğik çizgi işaretiyle başlayan kısa metin komutları."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ ajanlarının belirli görevleri yerine getirebilmesi için sisteme eklenen özelleşmiş yetenek modülleri."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "fine-tuning",
+      "explanation": "Önceden eğitilmiş bir yapay zekâ modelini, belirli bir görevde daha iyi sonuç vermesi için küçük veri setleriyle yeniden eğitme süreci."
+    },
+    {
+      "term": "plugin",
+      "explanation": "Bir ana yazılımın özelliklerini genişletmek veya ona yeni işlevler kazandırmak için kullanılan küçük ek yazılım parçaları."
+    },
+    {
+      "term": "API",
+      "explanation": "Farklı yazılımların birbirleriyle veri alışverişi yapmasını sağlayan dijital bağlantı noktası."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılımcıların belirli bir platform veya sistem için uygulama geliştirmesini kolaylaştıran araçlar ve kod kütüphaneleri bütünü."
+    },
+    {
+      "term": "load balancer",
+      "explanation": "Gelen internet trafiğini birden fazla sunucuya dengeli şekilde dağıtarak sistemin çökmesini önleyen yazılım."
+    },
+    {
+      "term": "reverse proxy",
+      "explanation": "İnternetten gelen istekleri karşılayıp uygun sunucuya yönlendiren ve sunucunun kimliğini gizleyen aracı sistem."
+    },
+    {
+      "term": "API gateway",
+      "explanation": "Farklı servislerden gelen tüm istekleri tek bir noktada toplayıp yöneten ve yönlendiren geçit yazılımı."
+    },
+    {
+      "term": "open source",
+      "explanation": "Kaynak kodları herkesin incelemesine, değiştirmesine ve geliştirmesine açık olan yazılım türü."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin, yeni verileri kullanarak tahmin veya sonuç üretme aşaması."
+    },
+    {
+      "term": "skill",
+      "explanation": "Yapay zekâ ajanının belirli bir platformda araştırma yapıp özet çıkarma gibi özel bir işi yapabilmesini sağlayan yetenek birimi."
+    }
+  ]
+}

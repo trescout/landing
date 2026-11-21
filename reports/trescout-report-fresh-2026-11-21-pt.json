@@ -1,0 +1,420 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-21",
+  "capturedAt": "2026-11-21T05:12:33.119Z",
+  "editorial": "Os conteúdos incluídos no relatório não são repetidos durante 30 dias. Após este período, os registos que continuam na agenda são listados novamente com a etiqueta \"novamente na agenda\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+          "url": "https://alpo.ge/remark.pdf",
+          "summary": "O matemático Levent Alpöge anunciou que apresentou uma prova para a Hipótese de Riemann Generalizada (Generalized Riemann Hypothesis), um dos problemas mais importantes da teoria dos números. A alegação em questão iniciou um novo debate na comunidade acadêmica sobre essa complexa suposição matemática, que ainda busca solução.",
+          "meta": "2.471 pontos · 1.664 comentários",
+          "snapshot": {
+            "sourceId": "50574968",
+            "capturedAt": "2026-11-21T05:12:33.510Z",
+            "metadata": {
+              "popularity": 2471,
+              "engagementCount": 1664,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50574968",
+                  "popularity": 2471,
+                  "engagementCount": 1664
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-20T14:16:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50574968"
+              }
+            },
+            "description": "Related: Hurried Announcement: Alessandro Masullo GRH - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50574968",
+              "popularity": 2471,
+              "engagementCount": 1664
+            }
+          ]
+        },
+        {
+          "title": "Hurried Announcement: Alessandro Masullo GRH",
+          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+          "summary": "O estudo sobre a GRH anunciado por Alessandro Masullo está relacionado às alegações de Levent Alpöge de que ele provou a Hipótese de Riemann Generalizada (Generalized Riemann Hypothesis). Este desenvolvimento, que atraiu grande atenção no mundo da matemática, cria um novo ambiente de discussão sobre a veracidade da hipótese.",
+          "meta": "1.777 pontos · 796 comentários",
+          "snapshot": {
+            "sourceId": "50579568",
+            "capturedAt": "2026-11-21T05:12:33.510Z",
+            "metadata": {
+              "popularity": 1777,
+              "engagementCount": 796,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50579568",
+                  "popularity": 1777,
+                  "engagementCount": 796
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-20T18:33:14Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50579568"
+              }
+            },
+            "description": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50579568",
+              "popularity": 1777,
+              "engagementCount": 796
+            }
+          ]
+        },
+        {
+          "title": "Inkling 2 Mini",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+          "summary": "O Inkling 2 Mini, desenvolvido pela Thinking Machines, é um modelo de inteligência artificial de pesos abertos (open-weights) pequeno o suficiente para rodar em laptops. O modelo utiliza uma arquitetura que coloca suas camadas intermediárias em loop para realizar mais raciocínio e gerar respostas usando menos tokens.",
+          "meta": "834 pontos · 144 comentários",
+          "snapshot": {
+            "sourceId": "50581260",
+            "capturedAt": "2026-11-21T05:12:33.510Z",
+            "metadata": {
+              "popularity": 834,
+              "engagementCount": 144,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50581260",
+                  "popularity": 834,
+                  "engagementCount": 144
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-20T20:12:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50581260",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Inkling 2 Mini is an open-weights model small enough to run on your laptop. It loops its middle layers to reason more per token and reach answers in fewer tokens."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50581260",
+              "popularity": 834,
+              "engagementCount": 144
+            }
+          ]
+        },
+        {
+          "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+          "url": "https://signal.org/blog/protecting-your-privacy/",
+          "summary": "O Signal está restringindo a capacidade de agentes de inteligência artificial integrados a sistemas operacionais móveis de registrar e processar dados do usuário. Este movimento visa preservar o princípio de funcionamento focado em privacidade do aplicativo de mensagens.",
+          "meta": "533 pontos · 311 comentários",
+          "snapshot": {
+            "sourceId": "50572348",
+            "capturedAt": "2026-11-21T05:12:33.510Z",
+            "metadata": {
+              "popularity": 533,
+              "engagementCount": 311,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50572348",
+                  "popularity": 533,
+                  "engagementCount": 311
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-20T09:42:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50572348",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50572348",
+              "popularity": 533,
+              "engagementCount": 311
+            }
+          ]
+        },
+        {
+          "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+          "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+          "summary": "O matemático Terry Tao compartilha em seu blog pessoal novas descobertas sobre a singularidade de Navier-Stokes (Navier-Stokes singularity) e a Hipótese de Riemann Generalizada (Generalized Riemann Hypothesis). Esses resultados, que contam com contribuições de nomes como Levent Alpöge e Tristan Buck, contêm desenvolvimentos atuais voltados para a solução de problemas fundamentais nas áreas de física teórica e matemática.",
+          "meta": "385 pontos · 154 comentários",
+          "snapshot": {
+            "sourceId": "50578358",
+            "capturedAt": "2026-11-21T05:12:33.510Z",
+            "metadata": {
+              "popularity": 385,
+              "engagementCount": 154,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50578358",
+                  "popularity": 385,
+                  "engagementCount": 154
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-20T17:21:36Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50578358",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Obviously these results will be reported widely in other outlets, but I will note them here, in decreasing order of how “digested” the results currently are: Levent Alpöge, Tristan Buck…"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50578358",
+              "popularity": 385,
+              "engagementCount": 154
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling-2-Mini",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "summary": "O thinkingmachines/Inkling-2-Mini, compartilhado no Hugging Face, é um modelo de inteligência artificial multimodal que processa entradas de texto e imagem para gerar saídas de texto. Este modelo de propósito geral, que suporta inglês e outros idiomas, bem como várias linguagens de programação, oferece um uso versátil.",
+          "meta": "♥ 842 · 136 downloads",
+          "snapshot": {
+            "sourceId": "thinkingmachines/Inkling-2-Mini",
+            "capturedAt": "2026-11-21T05:12:33.209Z",
+            "metadata": {
+              "popularity": 842,
+              "engagementCount": 136,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 606,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "inkling2_loop",
+                  "text-generation",
+                  "conversational",
+                  "image-text-to-text",
+                  "moe",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "modelopt",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages."
+          }
+        },
+        {
+          "title": "Sentinel7/h3",
+          "url": "https://huggingface.co/Sentinel7/h3",
+          "summary": "O Sentinel7/h3, partilhado no Hugging Face, é um ficheiro de modelo disponibilizado para acesso dos utilizadores. O referido conteúdo está acessível através da infraestrutura de alojamento e partilha de modelos oferecida pela plataforma.",
+          "meta": "♥ 393 · 0 downloads",
+          "snapshot": {
+            "sourceId": "Sentinel7/h3",
+            "capturedAt": "2026-11-21T05:12:33.209Z",
+            "metadata": {
+              "popularity": 393,
+              "engagementCount": 0,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 312,
+                "tags": [
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "unsloth/Inkling-2-Mini-GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "summary": "O unsloth/Inkling-2-Mini-GGUF, partilhado no Hugging Face, é um modelo de inteligência artificial que converte entradas de imagem e texto em texto. A versão de 4 bits do modelo pode ser executada em plataformas como o Blender e o MCP (Model Context Protocol) utilizando a ferramenta de otimização Unsloth.",
+          "meta": "♥ 269 · 0 downloads",
+          "snapshot": {
+            "sourceId": "unsloth/Inkling-2-Mini-GGUF",
+            "capturedAt": "2026-11-21T05:12:33.209Z",
+            "metadata": {
+              "popularity": 269,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 248,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "conversational",
+                  "image-text-to-text",
+                  "moe",
+                  "unsloth",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:quantized:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. See an example of 4-bit Inkling Mini running in Unsloth in Blender + MCP:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Time Series Structure Learning with Local Causal Parent Discovery",
+          "url": "https://huggingface.co/papers/2611.26232",
+          "summary": "O artigo Time Series Structure Learning with Local Causal Parent Discovery, partilhado no Hugging Face, aborda os desafios estatísticos encontrados nos processos de descoberta de causalidade em séries temporais. O estudo apresenta um novo método baseado em restrições chamado Iterative Temporal Parent Discovery (ITPD) para aumentar a eficiência computacional e de amostragem nestas estruturas de dados complexas.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.26232",
+            "capturedAt": "2026-11-21T05:12:33.227Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26232",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/jmaasch/itpd",
+                "githubStars": 0
+              }
+            },
+            "description": "Learning and inference on time series can pose significant statistical challenges, including autocorrelated observations, distribution shift over time, and the curse of dimensionality. These challenges complicate the practical application of causal discovery algorithms, which already suffer from high computational and sample complexity in the general case. To mitigate these issues, this work introduces Iterative Temporal Parent Discovery (ITPD): a sound and complete constraint-based procedure fo"
+          }
+        },
+        {
+          "title": "Teaching Vision-Language-Action Models to Stop Safely",
+          "url": "https://huggingface.co/papers/2611.26239",
+          "summary": "O artigo publicado no Hugging Face examina a capacidade dos modelos de visão-linguagem-ação (vision-language-action) de interromper com segurança comportamentos proibidos durante tarefas robóticas. O estudo foca-se nos desafios de controlar as respostas físicas, observando que os modelos atuais podem continuar a completar tarefas mesmo quando estas são interrompidas.",
+          "meta": "3 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.26239",
+            "capturedAt": "2026-11-21T05:12:33.227Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26239",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/franciscoliu/SAFI",
+                "githubStars": 0
+              }
+            },
+            "description": "Vision-language-action (VLA) models enable robots to perform diverse tasks from visual observations and language instructions. While prior work has explored task suppression and refusal, stopping prohibited behavior once execution is underway and controlling the resulting physical response remain challenging. Our evaluation reveals that policies which suppress a task from its initial state can still complete it when taking over partway through execution. Even when the task remains unfinished, th"
+          }
+        },
+        {
+          "title": "PAD: Policy-Aware Data Valuation for Autonomous Driving",
+          "url": "https://huggingface.co/papers/2611.25604",
+          "summary": "O artigo PAD: Policy-Aware Data Valuation for Autonomous Driving, partilhado pelo Hugging Face, apresenta um novo método para determinar o valor dos dados em sistemas de condução autónoma de ponta a ponta. O estudo visa realizar uma avaliação de dados orientada por políticas (policy-aware data valuation) nos processos de formação, medindo o impacto dos dados em diferentes planeadores.",
+          "meta": "2 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2611.25604",
+            "capturedAt": "2026-11-21T05:12:33.227Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.25604",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/PerfectXu88/PAD",
+                "githubStars": 2
+              }
+            },
+            "description": "End-to-end autonomous driving increasingly depends on scaling training demonstrations, yet data growth does not guarantee proportional gains. However, additional data do not guarantee better policies: a demonstration that benefits one planner may be redundant or harmful to another. Existing curation methods typically infer data value from intrinsic sample properties or training-dependent proxies that do not measure downstream policy utility. To address this, we introduce Policy-Aware Data Valuat"
+          }
+        },
+        {
+          "title": "Lang-SVG: Hierarchical Image Vectorization with Language Priors",
+          "url": "https://huggingface.co/papers/2611.15941",
+          "summary": "O Lang-SVG, partilhado pelo Hugging Face, é um método que converte imagens em formatos de gráficos vetoriais escaláveis (SVG) editáveis e estruturados. Este trabalho visa criar uma estrutura de árvore mais adequada à perceção humana no processo de vetorização, combinando hierarquias de objetos com conhecimentos prévios de linguagem (language priors).",
+          "meta": "1 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2611.15941",
+            "capturedAt": "2026-11-21T05:12:33.227Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.15941",
+                "publishedAt": "2026-11-11T00:00:00.000Z"
+              }
+            },
+            "description": "Image vectorization reconstructs raster images as compact scalable vector graph- ics (SVG), providing a structured and editable code representation of images. However, most existing vectorization methods optimize for pixel-level render- ing fidelity, often producing SVGs that lack alignment with human-perceived object-part hierarchies, making them difficult to manipulate. To address this, we propose Lang-SVG, which introduces an explicit tree structure to organize SVG primitives with semantic la"
+          }
+        },
+        {
+          "title": "Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests",
+          "url": "https://huggingface.co/papers/2611.25200",
+          "summary": "O Squoosh Bench é um estudo de avaliação realizado em 318 testes A/B diferentes para prever o desempenho das alterações em websites. O modelo Squoosh UX-1, ajustado (fine-tuned) com dados de navegação humana, visa prever os resultados dos testes através de comportamentos de utilizador simulados.",
+          "meta": "2 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2611.25200",
+            "capturedAt": "2026-11-21T05:12:33.227Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.25200",
+                "publishedAt": "2026-11-18T00:00:00.000Z"
+              }
+            },
+            "description": "Experimentation teams must decide which proposed website changes to test with live traffic. We evaluated whether forecasts from simulated shoppers could inform that choice. We screened 412 historical website A/B tests and evaluated four systems on the 318 that ran longer than 21 days. Each system predicted an original win, a variant win, or an inconclusive result. Page roles were masked and recorded outcomes were withheld during inference. Squoosh UX-1, a model fine-tuned on human browsing data,"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "fine-tuning",
+      "explanation": "Processo de retreinamento de um modelo de inteligência artificial pré-treinado com pequenos conjuntos de dados para obter melhores resultados em uma tarefa específica."
+    }
+  ]
+}
