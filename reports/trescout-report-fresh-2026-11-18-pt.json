@@ -1,0 +1,771 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-18",
+  "capturedAt": "2026-11-21T21:07:24.130Z",
+  "editorial": "Os conteúdos incluídos no relatório não são repetidos durante 30 dias. Após este período, os registos que continuam na agenda são listados novamente com a etiqueta \"novamente na agenda\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything é uma ferramenta de interface de linha de comando (CLI) que torna vários softwares adequados para uso por agentes de inteligência artificial. Esta ferramenta visa transformar softwares em uma estrutura nativa de agente (agent-native) para diferentes ambientes de desenvolvimento assistidos por IA, como Pi, OpenClaw, nanobot, Cursor e Claude Code.",
+          "meta": "Python · ★ 61.992 · +767 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 61992,
+              "engagementCount": 767,
+              "rank": 3,
+              "extra": {
+                "starsToday": 767,
+                "baglam": "readme"
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: One Command Line: Make any software agent-ready for Pi, OpenClaw, nanobot, Cursor, Claude Code, etc. 中文文档 | 日本語ドキュメント | Deutsch"
+          }
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "jingyaogong/minimind é um projeto que permite treinar um grande modelo de linguagem (LLM) de 64M de parâmetros do zero em duas horas em dispositivos pessoais. Ele oferece uma infraestrutura de pequena escala pronta para ser treinada, para que os usuários possam entender profundamente os mecanismos de funcionamento dos modelos de inteligência artificial.",
+          "meta": "Python · ★ 68.102 · +488 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 68102,
+              "engagementCount": 488,
+              "rank": 4,
+              "extra": {
+                "starsToday": 488,
+                "baglam": "readme"
+              }
+            },
+            "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. 大语言模型（Large Language Model, LLM）的出现，引发了全球范围内对 AI 的空前关注。无论是 ChatGPT、DeepSeek 还是 Qwen，都以惊艳的效果让人真切感受到这场技术浪潮的冲击力。然而，动辄数百亿参数的模型规模，使得它们对个人设备而言不仅难以训练，甚至连部署都显得遥不可及。打开大模型的“黑盒子”，真正去理解其内部运作机制，本应是一件令人心潮澎湃的事。遗憾的是，绝大多数探索最终都止步于使用 LoRA 等技术对现有大模型做少量微调，学习一些新指令或特定任务。这更像是在教牛顿如何使用 21 世纪的智能手机——虽然有趣，却偏离了理解物理本质的初衷。"
+          }
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor oferece um repositório que contém os padrões técnicos e os plugins oficiais desenvolvidos para a ferramenta de edição de código Cursor. Este recurso, preparado com a linguagem TypeScript, inclui especificações de plugins que permitem aos usuários personalizar seus ambientes de desenvolvimento.",
+          "meta": "TypeScript · ★ 18.067 · +261 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 18067,
+              "engagementCount": 261,
+              "rank": 5,
+              "extra": {
+                "starsToday": 261
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          }
+        },
+        {
+          "title": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "summary": "Firecrawl é uma infraestrutura de informação que coleta dados de mais de 550 provedores para facilitar o acesso a dados por agentes de inteligência artificial. Ao oferecer operações de busca e extração de dados (scraping) por meio de uma única interface de programação de aplicativos (API), ele fornece aos desenvolvedores ferramentas e kits de desenvolvimento de software (SDK) que podem ser hospedados em seus próprios servidores.",
+          "meta": "TypeScript · ★ 206.071 · +999 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "firecrawl/firecrawl",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 206071,
+              "engagementCount": 999,
+              "rank": 6,
+              "extra": {
+                "starsToday": 999,
+                "baglam": "readme"
+              }
+            },
+            "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three."
+          }
+        },
+        {
+          "title": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "summary": "NGINX é um software de código aberto (open source) usado como servidor web, balanceador de carga (load balancer), proxy reverso, gateway de API e cache de conteúdo. Desenvolvido na linguagem C, este projeto popular é preferido para gerenciar o tráfego de rede e aumentar o desempenho de aplicações web.",
+          "meta": "C · ★ 32.709 · +195 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "nginx/nginx",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 32709,
+              "engagementCount": 195,
+              "rank": 7,
+              "extra": {
+                "starsToday": 195,
+                "baglam": "readme"
+              }
+            },
+            "description": "The official NGINX Open Source repository. NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache."
+          }
+        },
+        {
+          "title": "openvinotoolkit/openvino",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "summary": "OpenVINO é um kit de ferramentas de código aberto (open source) usado para otimizar e implantar processos de inferência de modelos de inteligência artificial. Desenvolvida na linguagem C++, esta plataforma permite que os modelos funcionem de forma mais eficiente em diferentes hardwares.",
+          "meta": "C++ · ★ 11.911 · +202 hoje",
+          "snapshot": {
+            "sourceId": "openvinotoolkit/openvino",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 11911,
+              "engagementCount": 202,
+              "rank": 8,
+              "extra": {
+                "starsToday": 202,
+                "baglam": "readme"
+              }
+            },
+            "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference. Check out the OpenVINO Cheat Sheet and Key Features for a quick reference."
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Cathrynlavery/diagram-design oferece 45 tipos diferentes de designs de diagramas editoriais preparados para ferramentas de inteligência artificial como Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder e Pi. O projeto reúne opções de visualização em formatos HTML e SVG que não contêm sombras e não possuem dependências externas.",
+          "meta": "HTML · ★ 69.749 · +582 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 69749,
+              "engagementCount": 582,
+              "rank": 9,
+              "extra": {
+                "starsToday": 582
+              }
+            },
+            "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          }
+        },
+        {
+          "title": "mjmirza/app-store-compliance",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "summary": "mjmirza/app-store-compliance é um guia de código aberto que contém 117 padrões e soluções diferentes para evitar motivos de rejeição na loja de aplicativos. Esta ferramenta, que permite aos desenvolvedores de software gerenciar processos de conformidade legal, também oferece suporte para agentes de codificação de inteligência artificial.",
+          "meta": "Shell · ★ 3.310 · +724 hoje",
+          "snapshot": {
+            "sourceId": "mjmirza/app-store-compliance",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 3310,
+              "engagementCount": 724,
+              "rank": 12,
+              "extra": {
+                "starsToday": 724
+              }
+            },
+            "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
+          }
+        },
+        {
+          "title": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "summary": "Tracer-Cloud/opensre é um agente de inteligência artificial de código aberto desenvolvido para aumentar a confiabilidade dos processos de integração contínua e entrega contínua (CI/CD). Esta ferramenta, que permite que as atualizações de software sejam testadas e colocadas em produção automaticamente, oferece uma estrutura que não requer privilégios de administrador durante a instalação.",
+          "meta": "Python · ★ 13.935 · +450 hoje",
+          "snapshot": {
+            "sourceId": "Tracer-Cloud/opensre",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13935,
+              "engagementCount": 450,
+              "rank": 13,
+              "extra": {
+                "starsToday": 450,
+                "baglam": "readme"
+              }
+            },
+            "description": "The open-source agent for CI/CD reliability. The installer fetches the latest build from main without requiring sudo. If opensre is not found, follow the PATH instructions printed by the installer or open a new terminal."
+          }
+        },
+        {
+          "title": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "summary": "AFFiNE é uma base de conhecimento de nova geração que combina processos de planejamento, edição e criação de conteúdo em uma única plataforma. Este software, focado em privacidade e de código aberto (cujos códigos-fonte estão abertos para acesso e desenvolvimento por qualquer pessoa), oferece um espaço de trabalho alternativo a ferramentas como Notion e Miro.",
+          "meta": "TypeScript · ★ 76.215 · +577 hoje",
+          "snapshot": {
+            "sourceId": "toeverything/AFFiNE",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 76215,
+              "engagementCount": 577,
+              "rank": 14,
+              "extra": {
+                "starsToday": 577
+              }
+            },
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+          }
+        },
+        {
+          "title": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "summary": "Desenvolvido com Python, o Ghost-Downloader-3 é uma ferramenta abrangente de download de arquivos que funciona em diferentes plataformas e suporta vários protocolos de download. Projetado inicialmente para a necessidade de gerenciamento de recursos de um criador de conteúdo, o projeto oferece hoje uma estrutura expansível com um ecossistema de pacotes de recursos (feature packs) baseados em plugins.",
+          "meta": "Python · ★ 14.376 · +774 hoje",
+          "snapshot": {
+            "sourceId": "XiaoYouChR/Ghost-Downloader-3",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 14376,
+              "engagementCount": 774,
+              "rank": 15,
+              "extra": {
+                "starsToday": 774,
+                "baglam": "readme"
+              }
+            },
+            "description": "The only downloader you need. 下载器的集大成者。. Started as a passion project to help a Bilibili creator manage resources. Now it ships on four platforms, handles virtually every download protocol, and has a growing Feature Packs plugin ecosystem."
+          }
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "zhouxiaoka/autoclip é uma ferramenta de edição de vídeo para desktop de código aberto que converte automaticamente vídeos longos em clipes curtos. O software prepara conteúdos como podcasts e entrevistas com legendas, imagens de capa e textos de descrição adequados para plataformas de mídia social.",
+          "meta": "Python · ★ 12.779 · +689 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-11-21T21:07:25.629Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 12779,
+              "engagementCount": 689,
+              "rank": 16,
+              "extra": {
+                "starsToday": 689
+              }
+            },
+            "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+          "url": "https://alpo.ge/remark.pdf",
+          "summary": "Levent Alpöge afirma ter apresentado uma prova para a Hipótese de Riemann Generalizada (Generalized Riemann Hypothesis), um dos problemas não resolvidos mais importantes da matemática. O referido trabalho está sendo discutido como uma nova alegação sobre a veracidade desta hipótese, que é estudada há muito tempo na área da teoria dos números.",
+          "meta": "2.845 pontos · 2.016 comentários",
+          "snapshot": {
+            "sourceId": "50574968",
+            "capturedAt": "2026-11-21T21:07:24.419Z",
+            "metadata": {
+              "popularity": 2845,
+              "engagementCount": 2016,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50574968",
+                  "popularity": 2845,
+                  "engagementCount": 2016
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-11-20T14:16:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50574968"
+              }
+            },
+            "description": "Related: Hurried Announcement: Alessandro Masullo GRH - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50574968",
+              "popularity": 2845,
+              "engagementCount": 2016
+            }
+          ]
+        },
+        {
+          "title": "Hurried Announcement: Alessandro Masullo GRH",
+          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+          "summary": "O anúncio compartilhado por Alessandro Masullo afirma que Levent Alpöge apresentou uma prova para a Hipótese de Riemann Generalizada (Generalized Riemann Hypothesis). A alegação em direção à solução desta hipótese, que tem grande importância no mundo da matemática, continua sendo discutida nos círculos acadêmicos.",
+          "meta": "2.349 pontos · 1.132 comentários",
+          "snapshot": {
+            "sourceId": "50579568",
+            "capturedAt": "2026-11-21T21:07:24.419Z",
+            "metadata": {
+              "popularity": 2349,
+              "engagementCount": 1132,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50579568",
+                  "popularity": 2349,
+                  "engagementCount": 1132
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-11-20T18:33:14Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50579568"
+              }
+            },
+            "description": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50579568",
+              "popularity": 2349,
+              "engagementCount": 1132
+            }
+          ]
+        },
+        {
+          "title": "Inkling 2 Mini",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+          "summary": "Inkling 2 Mini, desenvolvido pela Thinking Machines, é um modelo de inteligência artificial de pesos abertos (open-weights) pequeno o suficiente para rodar em laptops. O modelo coloca suas camadas intermediárias em um loop para raciocinar mais sobre cada token e chega às suas respostas usando menos tokens.",
+          "meta": "1.316 pontos · 272 comentários",
+          "snapshot": {
+            "sourceId": "50581260",
+            "capturedAt": "2026-11-21T21:07:24.419Z",
+            "metadata": {
+              "popularity": 1316,
+              "engagementCount": 272,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50581260",
+                  "popularity": 1316,
+                  "engagementCount": 272
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-20T20:12:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50581260",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Inkling 2 Mini is an open-weights model small enough to run on your laptop. It loops its middle layers to reason more per token and reach answers in fewer tokens."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50581260",
+              "popularity": 1316,
+              "engagementCount": 272
+            }
+          ]
+        },
+        {
+          "title": "Lean verification of the Riemann Hypothesis",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "summary": "As comunidades Lean e Mathlib publicaram uma declaração conjunta sobre a verificação da prova da Hipótese de Riemann, publicada por Levent Alpöge em 20 de novembro de 2026, com o assistente de prova (proof assistant) Lean. Apoiado pela Lean FRO e pela Mathlib Initiative, este trabalho aborda o processo de verificação de provas matemáticas em ambiente computacional.",
+          "meta": "630 pontos · 492 comentários",
+          "snapshot": {
+            "sourceId": "50589618",
+            "capturedAt": "2026-11-21T21:07:24.419Z",
+            "metadata": {
+              "popularity": 630,
+              "engagementCount": 492,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50589618",
+                  "popularity": 630,
+                  "engagementCount": 492
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-21T14:36:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50589618",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a pro"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50589618",
+              "popularity": 630,
+              "engagementCount": 492
+            }
+          ]
+        },
+        {
+          "title": "Slopstrap – Make your site look hastily vibecoded",
+          "url": "https://slopstrap.mikelacher.com/",
+          "summary": "Slopstrap é um modelo de estilo (framework CSS) que visa fazer com que a aparência dos sites pareça ter sido criada por modelos de inteligência artificial (LLM). É posicionado como um acelerador desenvolvido para conferir aos designs uma estética rápida e descuidada.",
+          "meta": "620 pontos · 116 comentários",
+          "snapshot": {
+            "sourceId": "50576012",
+            "capturedAt": "2026-11-21T21:07:24.419Z",
+            "metadata": {
+              "popularity": 620,
+              "engagementCount": 116,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50576012",
+                  "popularity": 620,
+                  "engagementCount": 116
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-20T15:24:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50576012",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "It's not just a CSS framework — it's a load-bearing accelerant to make anything look like it was made by an LLM."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50576012",
+              "popularity": 620,
+              "engagementCount": 116
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "thinkingmachines/Inkling-2-Mini",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "summary": "thinkingmachines/Inkling-2-Mini, compartilhado no Hugging Face, é um modelo de inteligência artificial multimodal que processa entradas de texto e imagem para produzir saída de texto. Foi projetado para uso geral em inglês e outros idiomas, bem como em várias linguagens de programação.",
+          "meta": "♥ 2.275 · 7.944 downloads",
+          "snapshot": {
+            "sourceId": "thinkingmachines/Inkling-2-Mini",
+            "capturedAt": "2026-11-21T21:07:24.274Z",
+            "metadata": {
+              "popularity": 2275,
+              "engagementCount": 7944,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 635,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "inkling2_loop",
+                  "image-text-to-text",
+                  "conversational",
+                  "moe",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "modelopt",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages."
+          }
+        },
+        {
+          "title": "unsloth/Inkling-2-Mini-GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "summary": "unsloth/Inkling-2-Mini-GGUF, compartilhado no Hugging Face, é um modelo de inteligência artificial que processa entradas de imagem e texto para produzir saída de texto. A versão de 4 bits do modelo pode ser executada através da ferramenta de modelagem 3D Blender e do Model Context Protocol (MCP).",
+          "meta": "♥ 570 · 238.152 downloads",
+          "snapshot": {
+            "sourceId": "unsloth/Inkling-2-Mini-GGUF",
+            "capturedAt": "2026-11-21T21:07:24.274Z",
+            "metadata": {
+              "popularity": 570,
+              "engagementCount": 238152,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 532,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "conversational",
+                  "image-text-to-text",
+                  "moe",
+                  "unsloth",
+                  "base_model:thinkingmachines/Inkling-2-Mini",
+                  "base_model:quantized:thinkingmachines/Inkling-2-Mini",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. See an example of 4-bit Inkling Mini running in Unsloth in Blender + MCP:"
+          }
+        },
+        {
+          "title": "tencent/Hy4-flash",
+          "url": "https://huggingface.co/tencent/Hy4-flash",
+          "summary": "O Hy4-flash, desenvolvido pela Tencent, é um modelo de imagem-texto-para-texto (image-text-to-text) capaz de processar entradas de texto e imagem. Oferecendo suporte a uma janela de contexto de até 1 milhão de tokens, o modelo visa um desempenho de trabalho focado em custo com 12 bilhões de parâmetros ativos.",
+          "meta": "♥ 533 · 5.588 downloads",
+          "snapshot": {
+            "sourceId": "tencent/Hy4-flash",
+            "capturedAt": "2026-11-21T21:07:24.274Z",
+            "metadata": {
+              "popularity": 533,
+              "engagementCount": 5588,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 383,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "hy_v4_flash",
+                  "text-generation",
+                  "hunyuan",
+                  "hy4-flash",
+                  "moe",
+                  "multimodal",
+                  "instruct",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:other",
+                  "endpoints_compatible",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "image-text-to-text model. Hy4 flash is our most cost-effective Hy model to date, featuring 220B total parameters (including 64B Engram parameters) with just 12B active parameters per token. It natively accepts text and image inputs, generates text, and supports a context window of up to 1M tokens."
+          }
+        },
+        {
+          "title": "inworld/voice-isolator",
+          "url": "https://huggingface.co/inworld/voice-isolator",
+          "summary": "O Inworld Voice Isolator v1 apresenta uma arquitetura de inteligência artificial composta por dois modelos diferentes que processam a entrada de áudio para gerar uma saída (audio-to-audio). Compartilhados no Hugging Face, esses modelos visam otimizar os processos de isolamento de áudio.",
+          "meta": "♥ 494 · 0 downloads",
+          "snapshot": {
+            "sourceId": "inworld/voice-isolator",
+            "capturedAt": "2026-11-21T21:07:24.274Z",
+            "metadata": {
+              "popularity": 494,
+              "engagementCount": 0,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 360,
+                "pipelineTag": "audio-to-audio",
+                "tags": [
+                  "inworld-voice-isolation",
+                  "audio",
+                  "speech",
+                  "speech-enhancement",
+                  "speech-denoising",
+                  "noise-suppression",
+                  "voice-isolation",
+                  "48khz",
+                  "full-band",
+                  "streaming",
+                  "realtime",
+                  "audio-to-audio",
+                  "license:apache-2.0",
+                  "region:us"
+                ],
+                "baglam": "kart"
+              }
+            },
+            "description": "audio-to-audio model. Inworld Voice Isolator v1 ships as two models that share one architecture:"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Time Series Structure Learning with Local Causal Parent Discovery",
+          "url": "https://huggingface.co/papers/2611.26232",
+          "summary": "O artigo compartilhado pelo Hugging Face apresenta o método Iterative Temporal Parent Discovery (ITPD) para melhorar os processos de descoberta causal (causal discovery) em dados de séries temporais. Este método oferece um procedimento baseado em restrições para superar desafios estatísticos, como a autocorrelação e a maldição da dimensionalidade em séries temporais.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2611.26232",
+            "capturedAt": "2026-11-21T21:07:24.280Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26232",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/jmaasch/itpd",
+                "githubStars": 1
+              }
+            },
+            "description": "Learning and inference on time series can pose significant statistical challenges, including autocorrelated observations, distribution shift over time, and the curse of dimensionality. These challenges complicate the practical application of causal discovery algorithms, which already suffer from high computational and sample complexity in the general case. To mitigate these issues, this work introduces Iterative Temporal Parent Discovery (ITPD): a sound and complete constraint-based procedure fo"
+          }
+        },
+        {
+          "title": "Teaching Vision-Language-Action Models to Stop Safely",
+          "url": "https://huggingface.co/papers/2611.26239",
+          "summary": "Modelos de visão-linguagem-ação (vision-language-action) permitem que robôs executem tarefas com base em dados visuais e comandos de linguagem. Pesquisadores estão desenvolvendo novos métodos para que esses modelos possam interromper com segurança ações físicas proibidas ou errôneas que já estejam em execução.",
+          "meta": "5 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2611.26239",
+            "capturedAt": "2026-11-21T21:07:24.280Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.26239",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/franciscoliu/SAFI",
+                "githubStars": 0
+              }
+            },
+            "description": "Vision-language-action (VLA) models enable robots to perform diverse tasks from visual observations and language instructions. While prior work has explored task suppression and refusal, stopping prohibited behavior once execution is underway and controlling the resulting physical response remain challenging. Our evaluation reveals that policies which suppress a task from its initial state can still complete it when taking over partway through execution. Even when the task remains unfinished, th"
+          }
+        },
+        {
+          "title": "PAD: Policy-Aware Data Valuation for Autonomous Driving",
+          "url": "https://huggingface.co/papers/2611.25604",
+          "summary": "O PAD: Policy-Aware Data Valuation for Autonomous Driving, desenvolvido para determinar o valor dos dados usados em sistemas de condução autônoma, visa medir o impacto dos dados em planejadores de ponta a ponta. Ao contrário das técnicas atuais de seleção de dados, este método avalia o valor dos dados diretamente com base no benefício da política, ajudando a filtrar exemplos desnecessários ou prejudiciais.",
+          "meta": "4 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2611.25604",
+            "capturedAt": "2026-11-21T21:07:24.280Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.25604",
+                "publishedAt": "2026-11-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/PerfectXu88/PAD",
+                "githubStars": 3
+              }
+            },
+            "description": "End-to-end autonomous driving increasingly depends on scaling training demonstrations, yet data growth does not guarantee proportional gains. However, additional data do not guarantee better policies: a demonstration that benefits one planner may be redundant or harmful to another. Existing curation methods typically infer data value from intrinsic sample properties or training-dependent proxies that do not measure downstream policy utility. To address this, we introduce Policy-Aware Data Valuat"
+          }
+        },
+        {
+          "title": "Lang-SVG: Hierarchical Image Vectorization with Language Priors",
+          "url": "https://huggingface.co/papers/2611.15941",
+          "summary": "O Lang-SVG cria uma estrutura hierárquica usando premissas de linguagem (language priors) ao converter imagens raster em gráficos vetoriais escaláveis (SVG) editáveis. Este método organiza elementos visuais em uma estrutura de árvore semântica, permitindo que os gráficos vetoriais sejam gerenciados mais facilmente de acordo com a percepção humana.",
+          "meta": "1 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2611.15941",
+            "capturedAt": "2026-11-21T21:07:24.280Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.15941",
+                "publishedAt": "2026-11-11T00:00:00.000Z"
+              }
+            },
+            "description": "Image vectorization reconstructs raster images as compact scalable vector graph- ics (SVG), providing a structured and editable code representation of images. However, most existing vectorization methods optimize for pixel-level render- ing fidelity, often producing SVGs that lack alignment with human-perceived object-part hierarchies, making them difficult to manipulate. To address this, we propose Lang-SVG, which introduces an explicit tree structure to organize SVG primitives with semantic la"
+          }
+        },
+        {
+          "title": "Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests",
+          "url": "https://huggingface.co/papers/2611.25200",
+          "summary": "O Squoosh Bench avalia o modelo UX-1, desenvolvido para prever o desempenho de alterações em sites, por meio de 318 testes A/B diferentes. O estudo examina como modelos de inteligência artificial ajustados (fine-tuning) com dados de navegação humana podem ser usados em processos de tomada de decisão antes do tráfego ao vivo.",
+          "meta": "3 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2611.25200",
+            "capturedAt": "2026-11-21T21:07:24.280Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2611.25200",
+                "publishedAt": "2026-11-18T00:00:00.000Z"
+              }
+            },
+            "description": "Experimentation teams must decide which proposed website changes to test with live traffic. We evaluated whether forecasts from simulated shoppers could inform that choice. We screened 412 historical website A/B tests and evaluated four systems on the 318 that ran longer than 21 days. Each system predicted an original win, a variant win, or an inconclusive result. Page roles were masked and recorded outcomes were withheld during inference. Squoosh UX-1, a model fine-tuned on human browsing data,"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Ambiente de trabalho que oferece blocos de construção prontos, garantindo uma certa ordem e padrão ao desenvolver software."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerenciar programas escrevendo comandos escritos em vez de usar o mouse."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Estrutura projetada diretamente para o uso de agentes de inteligência artificial, totalmente compatível com seu modo de operação."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de compreender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "specification",
+      "explanation": "Conjunto de regras técnicas e padrões que determinam como um software ou plugin deve funcionar."
+    },
+    {
+      "term": "scraping",
+      "explanation": "Processo de copiar e extrair dados automaticamente de sites da internet."
+    },
+    {
+      "term": "API",
+      "explanation": "Ponte de conexão que permite que diferentes softwares troquem dados entre si."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Ferramentas e bibliotecas de código que facilitam o desenvolvimento de aplicativos por programadores para uma plataforma ou serviço específico."
+    },
+    {
+      "term": "load balancer",
+      "explanation": "Ferramenta que evita a sobrecarga do sistema distribuindo o tráfego de internet recebido entre vários servidores."
+    },
+    {
+      "term": "reverse proxy",
+      "explanation": "Sistema intermediário que recebe solicitações da internet, encaminha-as para o servidor correspondente e oculta a identidade do servidor."
+    },
+    {
+      "term": "open source",
+      "explanation": "Tipo de software cujo código-fonte está aberto para que qualquer pessoa possa examinar, modificar e aprimorar."
+    },
+    {
+      "term": "inference",
+      "explanation": "Processo em que um modelo de inteligência artificial treinado realiza previsões ou análises sobre novos dados."
+    }
+  ]
+}
