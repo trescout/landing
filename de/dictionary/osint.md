@@ -72,7 +72,6 @@ Private Daten und unbefugtes Profiling sind verboten. Eine zweckfremde Verarbeit
 
 - [Maigret](https://trescout.com/de/discover/maigret/)
 - [Spiderfoot](https://trescout.com/de/discover/spiderfoot/)
-- [GhostTrack](https://trescout.com/de/discover/ghosttrack/)
 - [Flowsint](https://trescout.com/de/discover/flowsint/)
 - [User Scanner](https://trescout.com/de/discover/user-scanner/)
 - [Legendary_OSINT](https://trescout.com/de/discover/legendary-osint/)

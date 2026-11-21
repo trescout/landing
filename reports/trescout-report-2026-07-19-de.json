@@ -42,12 +42,6 @@
           "meta": "Python · ★ 20.303 · +355 heute"
         },
         {
-          "title": "elder-plinius/G0DM0D3",
-          "url": "https://github.com/elder-plinius/G0DM0D3",
-          "summary": "G0DM0D3 ist eine befreite KI-Chat-Schnittstelle, die darauf abzielt, die Sicherheitsebenen großer Sprachmodelle zu umgehen. Dieses mit TypeScript entwickelte Open-Source-Projekt ermöglicht Benutzern die uneingeschränkte Interaktion mit Modellen.",
-          "meta": "TypeScript · ★ 9.570 · +69 heute"
-        },
-        {
           "title": "lyogavin/airllm",
           "url": "https://github.com/lyogavin/airllm",
           "summary": "AirLLM ermöglicht die Ausführung großer Sprachmodelle mit 70 Milliarden Parametern mit nur 4 Gigabyte Grafikkartenspeicher (VRAM). Diese Bibliothek ermöglicht es Hochleistungsmodellen, mithilfe von Speicheroptimierungstechniken Rückschlüsse auf Low-End-Systeme zu ziehen.",

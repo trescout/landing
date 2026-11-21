@@ -84,12 +84,6 @@
           "meta": "TypeScript · ★ 13.116 · +245 heute"
         },
         {
-          "title": "HunxByts/GhostTrack",
-          "url": "https://github.com/HunxByts/GhostTrack",
-          "summary": "GhostTrack auf Python-Basis ist ein Tool, das die Standortverfolgung über Mobiltelefonnummern ermöglicht. Diese Open-Source-Software wurde entwickelt, um die geografischen Daten der Zielnummer zu ermitteln.",
-          "meta": "Python · ★ 13.874 · +28 heute"
-        },
-        {
           "title": "microsoft/pg_durable",
           "url": "https://github.com/microsoft/pg_durable",
           "summary": "pg_durable wurde von Microsoft entwickelt und ist eine Bibliothek zur Verwaltung dauerhafter Ausführungsprozesse auf PostgreSQL. Das in Rust geschriebene Tool ermöglicht die fehlertolerante und persistente Ausführung komplexer Arbeitsabläufe innerhalb der Datenbank.",

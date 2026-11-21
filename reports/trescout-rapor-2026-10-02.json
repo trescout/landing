@@ -243,25 +243,6 @@
           }
         },
         {
-          "title": "HunxByts/GhostTrack",
-          "url": "https://github.com/HunxByts/GhostTrack",
-          "summary": "Python ile geliştirilen GhostTrack, telefon numaraları üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır. Kullanıcılara hedef numaraların coğrafi bilgilerini tespit etme konusunda teknik bir imkân sunar.",
-          "meta": "Python · ★ 16.614 · +368 bugün",
-          "snapshot": {
-            "sourceId": "HunxByts/GhostTrack",
-            "capturedAt": "2026-10-02T10:31:24.066Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 16614,
-              "engagementCount": 368,
-              "rank": 13,
-              "extra": {
-                "starsToday": 368
-              }
-            }
-          }
-        },
-        {
           "title": "pbakaus/impeccable",
           "url": "https://github.com/pbakaus/impeccable",
           "summary": "Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilen bir tasarım dili (design language). Bu araç, üretken yapay zekâ (generative AI) sistemlerinin görsel tutarlılığını ve estetik kalitesini artırmayı hedefliyor.",

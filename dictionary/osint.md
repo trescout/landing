@@ -72,7 +72,6 @@ Tek soru ve kaynak listesiyle. Doğrulama alışkanlığı edinilir.
 
 - [Maigret](https://trescout.com/discover/maigret/)
 - [Spiderfoot](https://trescout.com/discover/spiderfoot/)
-- [GhostTrack](https://trescout.com/discover/ghosttrack/)
 - [Flowsint](https://trescout.com/discover/flowsint/)
 - [User Scanner](https://trescout.com/discover/user-scanner/)
 - [Legendary_OSINT](https://trescout.com/discover/legendary-osint/)

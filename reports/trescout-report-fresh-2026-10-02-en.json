@@ -66,26 +66,6 @@
           }
         },
         {
-          "title": "HunxByts/GhostTrack",
-          "url": "https://github.com/HunxByts/GhostTrack",
-          "summary": "Developed with Python, GhostTrack is a tool that allows for location tracking via phone numbers. It provides users with a technical capability to detect the geographical information of target numbers.",
-          "meta": "Python · ★ 16,614 · +368 today",
-          "returning": true,
-          "snapshot": {
-            "sourceId": "HunxByts/GhostTrack",
-            "capturedAt": "2026-10-02T10:31:24.066Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 16614,
-              "engagementCount": 368,
-              "rank": 13,
-              "extra": {
-                "starsToday": 368
-              }
-            }
-          }
-        },
-        {
           "title": "Friedrich-M/UniMate",
           "url": "https://github.com/Friedrich-M/UniMate",
           "summary": "UniMate is an animation technology used to animate different skeletal structures through a single model. Presented at SIGGRAPH Asia 2026, this work aims to standardize character animation processes.",

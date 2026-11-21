@@ -10567,75 +10567,6 @@
     "last_seen": "2026-07-02"
   },
   {
-    "slug": "ghosttrack",
-    "title": "GhostTrack",
-    "tagline": "Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır.",
-    "meta": "★ 20.190",
-    "image": "/assets/discover/og/ghosttrack.webp",
-    "source": "GitHub",
-    "date": "2026-06-08",
-    "tags": [
-      "Geliştirici aracı"
-    ],
-    "stars": 20190,
-    "lite": false,
-    "headline": "Mobil numaralar ve kullanıcı adları üzerinden konum takibi",
-    "cmds": {
-      "kurulum": [
-        {
-          "baslik": "Klonla + bağımlılıklar (Linux · Python 3)",
-          "komut": "git clone https://github.com/HunxByts/GhostTrack.git && cd GhostTrack && pip3 install -r requirements.txt"
-        }
-      ],
-      "calistirma": [
-        {
-          "baslik": "Çalıştır",
-          "komut": "python3 GhostTR.py"
-        }
-      ],
-      "kaynak": "GhostTrack README (resmî)"
-    },
-    "last_review": "2026-11-21",
-    "tagline_en": "Python-based GhostTrack is a tool that allows location tracking via mobile numbers.",
-    "tagline_fr": "GhostTrack basé sur Python est un outil qui permet le suivi de localisation via des numéros de mobile.",
-    "tagline_pt": "GhostTrack baseado em Python é uma ferramenta que permite rastreamento de localização por meio de números de celular.",
-    "tagline_es": "GhostTrack, basado en Python, es una herramienta que permite el seguimiento de la ubicación a través de números de móvil.",
-    "tagline_de": "GhostTrack auf Python-Basis ist ein Tool, das die Standortverfolgung über Mobiltelefonnummern ermöglicht.",
-    "last_seen": "2026-10-02",
-    "guncellemeler": [
-      {
-        "tarih": "2026-08-20",
-        "yildiz": 14877,
-        "onceki_yildiz": 13874
-      },
-      {
-        "tarih": "2026-10-01",
-        "yildiz": 16035,
-        "onceki_yildiz": 14877
-      },
-      {
-        "tarih": "2026-10-05",
-        "yildiz": 17093,
-        "onceki_yildiz": 16035
-      },
-      {
-        "tarih": "2026-10-11",
-        "yildiz": 18151,
-        "onceki_yildiz": 17093
-      },
-      {
-        "tarih": "2026-10-17",
-        "yildiz": 19157,
-        "onceki_yildiz": 18151
-      },
-      {
-        "tarih": "2026-10-28",
-        "yildiz": 20190,
-        "onceki_yildiz": 19157
-      }
-    ]
-  },
-  {
     "slug": "pg-durable",
     "title": "Pg Durable",
     "tagline": "Microsoft tarafından geliştirilen pg_durable, PostgreSQL üzerinde dayanıklı yürütme (durable execution) süreçlerini yönetmek…",
@@ -21685,80 +21616,6 @@
     "last_seen": "2026-10-11"
   },
   {
-    "slug": "open-generative-ai",
-    "title": "Open-Generative-AI",
-    "tagline": "Open-Generative-AI, içerik filtrelemesi bulunmayan ve 200'den fazla görsel ile video oluşturma modelini (model) barındıran…",
-    "meta": "★ 34.362 · JavaScript",
-    "image": "/assets/discover/og/open-generative-ai.webp",
-    "source": "GitHub",
-    "date": "2026-06-28",
-    "tags": [
-      "Yapay zekâ araçları",
-      "Geliştirici aracı"
-    ],
-    "stars": 34362,
-    "lite": false,
-    "headline": "Kısıtlamasız yapay zekâ görsel ve video stüdyosu",
-    "last_review": "2026-11-21",
-    "guncellemeler": [
-      {
-        "tarih": "2026-08-02",
-        "yildiz": 25418,
-        "onceki_yildiz": 21507,
-        "surum": "v2.0.0",
-        "surum_tarihi": "2026-05-23"
-      },
-      {
-        "tarih": "2026-08-20",
-        "yildiz": 26697,
-        "onceki_yildiz": 25418,
-        "surum": "v2.0.0",
-        "surum_tarihi": "2026-05-23"
-      },
-      {
-        "tarih": "2026-09-08",
-        "yildiz": 28085,
-        "onceki_yildiz": 26697,
-        "surum": "v2.0.0",
-        "surum_tarihi": "2026-05-23"
-      },
-      {
-        "tarih": "2026-10-01",
-        "yildiz": 29494,
-        "onceki_yildiz": 28085,
-        "surum": "v2.0.0",
-        "surum_tarihi": "2026-05-23"
-      },
-      {
-        "tarih": "2026-10-20",
-        "yildiz": 30971,
-        "onceki_yildiz": 29494,
-        "surum": "v2.0.0",
-        "surum_tarihi": "2026-05-23"
-      },
-      {
-        "tarih": "2026-11-06",
-        "yildiz": 32667,
-        "onceki_yildiz": 30971,
-        "surum": "v2.0.0",
-        "surum_tarihi": "2026-05-23"
-      },
-      {
-        "tarih": "2026-11-13",
-        "yildiz": 34362,
-        "onceki_yildiz": 32667,
-        "surum": "v2.0.0",
-        "surum_tarihi": "2026-05-23"
-      }
-    ],
-    "tagline_en": "Open-Generative-AI has no content filtering and contains more than 200 visual and video creation models (models).",
-    "tagline_fr": "Open-Generative-AI n'a pas de filtrage de contenu et contient plus de 200 modèles (modèles) de création visuelle et vidéo.",
-    "tagline_pt": "Open-Generative-AI não possui filtragem de conteúdo e contém mais de 200 modelos (modelos) de criação visual e de vídeo.",
-    "tagline_es": "Open-Generative-AI no tiene filtrado de contenido y contiene más de 200 modelos (modelos) de creación visual y de video.",
-    "tagline_de": "Open-Generative-AI verfügt über keine Inhaltsfilterung und enthält mehr als 200 visuelle und Video-Erstellungsmodelle (Modelle).",
-    "last_seen": "2026-06-28"
-  },
-  {
     "slug": "dbt-core",
     "title": "Dbt Core",
     "tagline": "Veri dönüştürme aracı (dbt-core), veri analistlerinin ve mühendislerinin yazılım geliştirme süreçlerine benzer yöntemlerle…",
@@ -32317,46 +32174,6 @@
     "tagline_es": "DocuSeal ofrece una alternativa de código abierto para crear, completar y firmar documentos digitales.",
     "tagline_de": "DocuSeal bietet eine Open-Source-Alternative zum Erstellen, Ausfüllen und Signieren digitaler Dokumente.",
     "last_seen": "2026-07-18"
-  },
-  {
-    "slug": "g0dm0d3",
-    "title": "G0DM0D3",
-    "tagline": "G0DM0D3, büyük dil modellerinin (large language models) güvenlik katmanlarını aşmayı hedefleyen özgürleştirilmiş bir yapay…",
-    "meta": "★ 12.584 · TypeScript",
-    "image": "/assets/discover/og/g0dm0d3.webp",
-    "source": "GitHub",
-    "date": "2026-07-19",
-    "tags": [
-      "Yapay zekâ araçları",
-      "Geliştirici aracı"
-    ],
-    "stars": 12584,
-    "lite": false,
-    "headline": "Kısıtlamasız yapay zekâ etkileşim arayüzü",
-    "last_review": "2026-11-21",
-    "tagline_en": "G0DM0D3 is a liberated artificial intelligence that aims to bypass the security layers of large language models.",
-    "tagline_fr": "G0DM0D3 est une intelligence artificielle libérée qui vise à contourner les couches de sécurité des grands modèles de langage.",
-    "tagline_pt": "G0DM0D3 é uma inteligência artificial liberada que visa contornar as camadas de segurança de grandes modelos de linguagem.",
-    "tagline_es": "G0DM0D3 es una inteligencia artificial liberada que tiene como objetivo eludir las capas de seguridad de los grandes modelos de lenguaje.",
-    "tagline_de": "G0DM0D3 ist eine befreite künstliche Intelligenz, die darauf abzielt, die Sicherheitsschichten großer Sprachmodelle zu umgehen.",
-    "last_seen": "2026-07-19",
-    "guncellemeler": [
-      {
-        "tarih": "2026-08-20",
-        "yildiz": 10574,
-        "onceki_yildiz": 9570
-      },
-      {
-        "tarih": "2026-10-08",
-        "yildiz": 11576,
-        "onceki_yildiz": 10574
-      },
-      {
-        "tarih": "2026-11-17",
-        "yildiz": 12584,
-        "onceki_yildiz": 11576
-      }
-    ]
   },
   {
     "slug": "wigolo",

@@ -79,7 +79,6 @@ En los sistemas autohospedados, no existe un servicio de atención al cliente qu
 - [Immich](https://trescout.com/es/discover/immich/)
 - [Chatwoot](https://trescout.com/es/discover/chatwoot/)
 - [CasaOS](https://trescout.com/es/discover/casaos/)
-- [Open-Generative-AI](https://trescout.com/es/discover/open-generative-ai/)
 - [OpenWA](https://trescout.com/es/discover/openwa/)
 - [Openship](https://trescout.com/es/discover/openship/)
 - [Instatic](https://trescout.com/es/discover/instatic/)

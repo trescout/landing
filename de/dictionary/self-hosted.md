@@ -79,7 +79,6 @@ Bei Self-Hosting-Systemen gibt es keinen Kundenservice, der Daten bei Hardwarede
 - [Immich](https://trescout.com/de/discover/immich/)
 - [Chatwoot](https://trescout.com/de/discover/chatwoot/)
 - [CasaOS](https://trescout.com/de/discover/casaos/)
-- [Open-Generative-AI](https://trescout.com/de/discover/open-generative-ai/)
 - [OpenWA](https://trescout.com/de/discover/openwa/)
 - [Openship](https://trescout.com/de/discover/openship/)
 - [Instatic](https://trescout.com/de/discover/instatic/)
