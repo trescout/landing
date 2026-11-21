@@ -2,15 +2,15 @@
 
 Browser-use ist eine Python-Bibliothek, die es KI-Agenten ermöglicht, mit Websites wie Menschen zu interagieren. Sie bietet die Möglichkeit, komplexe Aufgaben im Internet durch browserbasierte Prozesse zu automatisieren.
 
-- ★ 121.141
+- ★ 121.634
 - GitHub Trending · 2026-08-26
 
 ## Aktualisierungen
 
+- **21. November 2026:** Sterne 121,141 → 121,634, neueste Version 1.0.7 (20. November 2026).
 - **16. November 2026:** Sterne 120,973 → 121,141, neueste Version 1.0.6 (16. November 2026).
 - **14. November 2026:** Sterne 120,967 → 120,973, neueste Version 1.0.5 (14. November 2026).
 - **14. November 2026:** Sterne 120,869 → 120,967, neueste Version 1.0.4 (13. November 2026).
-- **13. November 2026:** Sterne 120,656 → 120,869, neueste Version 1.0.3 (12. November 2026).
 
 ## Was es bringt
 

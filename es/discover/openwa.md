@@ -2,16 +2,16 @@
 
 OpenWA ofrece una solución de puerta de enlace API gratuita y de código abierto para el protocolo de mensajería de WhatsApp. Esta herramienta, desarrollada con lenguaje TypeScript, permite a los usuarios gestionar las integraciones de WhatsApp en sus propios servidores (autohospedados).
 
-- ★ 16.881
+- ★ 17.114
 - TypeScript
 - GitHub Trending · 2026-06-17
 
 ## Actualizaciones
 
+- **21 de noviembre de 2026:** Estrellas 16,881 → 17,114, última versión v0.31.0 (21 de noviembre de 2026).
 - **16 de noviembre de 2026:** Estrellas 16,856 → 16,881, última versión v0.30.3 (16 de noviembre de 2026).
 - **15 de noviembre de 2026:** Estrellas 16,822 → 16,856, última versión v0.30.2 (15 de noviembre de 2026).
 - **14 de noviembre de 2026:** Estrellas 16,725 → 16,822, última versión v0.30.1 (14 de noviembre de 2026).
-- **10 de noviembre de 2026:** Estrellas 16,589 → 16,725, última versión v0.30.0 (10 de noviembre de 2026).
 
 ## Qué aporta
 

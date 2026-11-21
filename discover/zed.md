@@ -2,16 +2,16 @@
 
 Zed, Atom ve Tree-sitter geliştiricileri tarafından Rust diliyle hazırlanan yüksek performanslı ve çok oyunculu bir kod düzenleyici (code editor). Yazılım geliştirme süreçlerinde hız odaklı bir deneyim sunmayı amaçlıyor.
 
-- ★ 95.298
+- ★ 95.440
 - Rust
 - GitHub Trending · 2026-11-07
 
 ## Güncelleme
 
+- **21 Kasım 2026:** Yıldız 95.298 → 95.440, son sürüm v1.29.3 (20 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 95.284 → 95.298, son sürüm v1.29.2 (18 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 94.743 → 95.284, son sürüm v1.29.1 (18 Kasım 2026).
 - **12 Kasım 2026:** Yıldız 93.776 → 94.743, son sürüm v1.28.1 (11 Kasım 2026).
-- **7 Kasım 2026:** Yıldız 93.767 → 93.776, son sürüm v1.27.0 (4 Kasım 2026).
 
 ## Ne kazandırır?
 

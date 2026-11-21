@@ -2,16 +2,16 @@
 
 Developed in Ruby, sure is an open-source personal finance and wealth management application available for everyone. Designed as an open-source platform, this project offers features that allow users to connect directly with financial advisors (CFP/CFA).
 
-- ★ 16,476
+- ★ 16,949
 - Ruby
 - GitHub Trending · 2026-11-10
 
 ## Updates
 
+- **November 21, 2026:** Stars 16,476 → 16,949, latest release v0.7.6-hotfix.2 (November 21, 2026).
 - **November 18, 2026:** Stars 15,404 → 16,476, latest release v0.7.6-hotfix.1 (November 12, 2026).
 - **November 15, 2026:** Stars 14,107 → 15,404, latest release v0.7.6-hotfix.1 (November 12, 2026).
 - **November 13, 2026:** Stars 13,144 → 14,107, latest release v0.7.6-hotfix.1 (November 12, 2026).
-- **November 12, 2026:** Stars 11,807 → 13,144, latest release v0.7.6 (October 31, 2026).
 
 ## What you get
 

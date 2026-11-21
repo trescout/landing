@@ -2,12 +2,13 @@
 
 PHP is used as a general-purpose scripting language specifically designed for web development processes. Written in C, this interpreter powers the infrastructure of many websites around the world.
 
-- ★ 41,410
+- ★ 41,847
 - C
 - GitHub Trending · 2026-10-23
 
 ## Updates
 
+- **November 21, 2026:** Stars 41,410 → 41,847, latest release php-8.6.0 (November 21, 2026).
 - **October 23, 2026:** Stars 41,391 → 41,410, latest release php-8.5.12 (October 21, 2026).
 
 ## What you get

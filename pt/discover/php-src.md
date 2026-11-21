@@ -2,12 +2,13 @@
 
 O PHP é usado como uma linguagem de script de propósito geral projetada especificamente para processos de desenvolvimento web. Escrito em C, este interpretador forma a infraestrutura de muitos sites em todo o mundo.
 
-- ★ 41.410
+- ★ 41.847
 - C
 - GitHub Trending · 2026-10-23
 
 ## Atualizações
 
+- **21 de novembro de 2026:** Estrelas 41,410 → 41,847, versão mais recente php-8.6.0 (21 de novembro de 2026).
 - **23 de outubro de 2026:** Estrelas 41,391 → 41,410, versão mais recente php-8.5.12 (21 de outubro de 2026).
 
 ## O que você ganha

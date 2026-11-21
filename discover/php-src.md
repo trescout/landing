@@ -2,12 +2,13 @@
 
 PHP, özellikle web geliştirme süreçleri için tasarlanmış genel amaçlı bir betik dili (scripting language) olarak kullanılıyor. C diliyle yazılan bu yorumlayıcı, dünya genelindeki birçok internet sitesinin altyapısını oluşturuyor.
 
-- ★ 41.410
+- ★ 41.847
 - C
 - GitHub Trending · 2026-10-23
 
 ## Güncelleme
 
+- **21 Kasım 2026:** Yıldız 41.410 → 41.847, son sürüm php-8.6.0 (21 Kasım 2026).
 - **23 Ekim 2026:** Yıldız 41.391 → 41.410, son sürüm php-8.5.12 (21 Ekim 2026).
 
 ## Ne kazandırır?

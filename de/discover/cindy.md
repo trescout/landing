@@ -2,16 +2,16 @@
 
 Cindy ist ein sofort einsatzbereiter Open-Source-KI-Agent (dessen Quellcode für jedermann zugänglich ist und weiterentwickelt werden kann), der darauf ausgelegt ist, echte Aufgaben in Ihren Projekten und Anwendungen zu erledigen. Er ermöglicht Benutzern die Verwaltung ihrer Arbeitsabläufe, indem er mehrere Modelle und Tools in einer einzigen Struktur zusammenführt.
 
-- ★ 10.313
+- ★ 10.336
 - TypeScript
 - GitHub Trending · 2026-10-25
 
 ## Aktualisierungen
 
+- **21. November 2026:** Sterne 10,313 → 10,336, neueste Version v0.1.143 (20. November 2026).
 - **20. November 2026:** Sterne 10,287 → 10,313, neueste Version v0.1.141 (19. November 2026).
 - **18. November 2026:** Sterne 10,235 → 10,287, neueste Version v0.1.140 (18. November 2026).
 - **17. November 2026:** Sterne 10,077 → 10,235, neueste Version v0.1.137 (16. November 2026).
-- **14. November 2026:** Sterne 9,983 → 10,077, neueste Version v0.1.136 (13. November 2026).
 
 ## Was es bringt
 

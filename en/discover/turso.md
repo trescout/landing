@@ -2,16 +2,16 @@
 
 Turso offers an in-process SQL database that is compatible with SQLite. This system, developed in Rust language, simplifies data management processes by integrating into application processes.
 
-- ★ 24,741
+- ★ 25,305
 - Rust
 - GitHub Trending · 2026-06-21
 
 ## Updates
 
+- **November 21, 2026:** Stars 24,741 → 25,305, latest release v0.8.4 (November 20, 2026).
 - **October 12, 2026:** Stars 24,649 → 24,741, latest release v0.8.3 (October 12, 2026).
 - **October 6, 2026:** Stars 24,445 → 24,649, latest release v0.8.2 (October 6, 2026).
 - **September 29, 2026:** Stars 24,428 → 24,445, latest release v0.8.1 (September 29, 2026).
-- **September 29, 2026:** Stars 23,620 → 24,428, latest release v0.8.0 (September 29, 2026).
 
 ## What you get
 

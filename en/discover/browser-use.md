@@ -2,15 +2,15 @@
 
 Browser-use is a Python library that enables AI agents to interact with websites just like humans. It allows automating complex tasks on the internet through browser-based operations.
 
-- ★ 121,141
+- ★ 121,634
 - GitHub Trending · 2026-08-26
 
 ## Updates
 
+- **November 21, 2026:** Stars 121,141 → 121,634, latest release 1.0.7 (November 20, 2026).
 - **November 16, 2026:** Stars 120,973 → 121,141, latest release 1.0.6 (November 16, 2026).
 - **November 14, 2026:** Stars 120,967 → 120,973, latest release 1.0.5 (November 14, 2026).
 - **November 14, 2026:** Stars 120,869 → 120,967, latest release 1.0.4 (November 13, 2026).
-- **November 13, 2026:** Stars 120,656 → 120,869, latest release 1.0.3 (November 12, 2026).
 
 ## What you get
 

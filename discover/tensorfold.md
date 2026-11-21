@@ -2,16 +2,16 @@
 
 ashhart/TensorFold, büyük dil modelleri (LLM) için Metal, CUDA ve Vulkan destekli bir çıkarım motoru (inference engine) sunuyor. Zig diliyle geliştirilen bu araç, Python veya MLX kurulumuna ihtiyaç duymadan Apple Silicon ve NVIDIA grafik işlemcileri üzerinde doğrudan model çalıştırmayı sağlıyor.
 
-- ★ 2.349
+- ★ 2.362
 - Zig
 - GitHub Trending · 2026-11-13
 
 ## Güncelleme
 
+- **21 Kasım 2026:** Yıldız 2.349 → 2.362, son sürüm v1.3.2 (20 Kasım 2026).
 - **20 Kasım 2026:** Yıldız 2.334 → 2.349, son sürüm v1.3.0 (19 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 2.190 → 2.334, son sürüm v1.2.10 (18 Kasım 2026).
 - **15 Kasım 2026:** Yıldız 2.080 → 2.190, son sürüm v1.2.9 (15 Kasım 2026).
-- **14 Kasım 2026:** Yıldız 1.998 → 2.080, son sürüm v1.2.8 (13 Kasım 2026).
 
 ## Ne kazandırır?
 

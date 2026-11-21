@@ -2,12 +2,13 @@
 
 PHP wird als universelle Skriptsprache verwendet, die speziell für Webentwicklungsprozesse entwickelt wurde. Dieser in C geschriebene Interpreter bildet die Infrastruktur für viele Websites weltweit.
 
-- ★ 41.410
+- ★ 41.847
 - C
 - GitHub Trending · 2026-10-23
 
 ## Aktualisierungen
 
+- **21. November 2026:** Sterne 41,410 → 41,847, neueste Version php-8.6.0 (21. November 2026).
 - **23. Oktober 2026:** Sterne 41,391 → 41,410, neueste Version php-8.5.12 (21. Oktober 2026).
 
 ## Was es bringt
