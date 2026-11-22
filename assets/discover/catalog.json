@@ -18688,7 +18688,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 87.979 · TypeScript",
+    "meta": "★ 88.108 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -18696,7 +18696,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 87979,
+    "stars": 88108,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-11-22",
@@ -19518,6 +19518,13 @@
         "yildiz": 87979,
         "onceki_yildiz": 87808,
         "surum": "v0.9.80",
+        "surum_tarihi": "2026-11-22"
+      },
+      {
+        "tarih": "2026-11-22",
+        "yildiz": 88108,
+        "onceki_yildiz": 87979,
+        "surum": "v0.9.81",
         "surum_tarihi": "2026-11-22"
       }
     ],
@@ -24543,7 +24550,7 @@
     "slug": "maven",
     "title": "Maven",
     "tagline": "Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build…",
-    "meta": "★ 5.377 · Java",
+    "meta": "★ 5.378 · Java",
     "image": "/assets/discover/og/maven.webp",
     "source": "GitHub",
     "date": "2026-07-04",
@@ -24551,7 +24558,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5377,
+    "stars": 5378,
     "lite": false,
     "headline": "Java projeleri için proje yönetimi",
     "last_review": "2026-11-22",
@@ -24583,6 +24590,13 @@
         "onceki_yildiz": 5361,
         "surum": "maven-3.10.1",
         "surum_tarihi": "2026-11-15"
+      },
+      {
+        "tarih": "2026-11-22",
+        "yildiz": 5378,
+        "onceki_yildiz": 5377,
+        "surum": "maven-3.10.2",
+        "surum_tarihi": "2026-11-22"
       }
     ],
     "tagline_en": "Apache Maven is a project management and understanding tool that manages software creation processes in Java-based projects (build…",
@@ -54311,7 +54325,7 @@
     "slug": "open-science",
     "title": "Open Science",
     "tagline": "AIPOCH tarafından geliştirilen Open Science, bilimsel araştırmalar için yerel tabanlı (local-first) ve modelden bağımsız bir…",
-    "meta": "★ 5.556 · TypeScript",
+    "meta": "★ 5.560 · TypeScript",
     "image": "/assets/discover/og/open-science.webp",
     "source": "GitHub",
     "date": "2026-09-07",
@@ -54319,7 +54333,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5556,
+    "stars": 5560,
     "summary": "AIPOCH tarafından geliştirilen Open Science, bilimsel araştırmalar için yerel tabanlı (local-first) ve modelden bağımsız bir yapay zekâ çalışma ortamı sunuyor. Yazılım, Python ve R not defterleri ile veri bağlantılarını birleştirerek bilimsel süreçlerin tekrarlanabilir şekilde yürütülmesine olanak tanıyor.",
     "lite": false,
     "headline": "Bilimsel araştırmalar için yapay zekâ çalışma ortamı",
@@ -54548,6 +54562,13 @@
         "onceki_yildiz": 5553,
         "surum": "v1.3.2",
         "surum_tarihi": "2026-11-20"
+      },
+      {
+        "tarih": "2026-11-22",
+        "yildiz": 5560,
+        "onceki_yildiz": 5556,
+        "surum": "v1.3.3",
+        "surum_tarihi": "2026-11-22"
       }
     ],
     "tagline_en": "Open Science, developed by AIPOCH, is a local-first and model-agnostic platform for scientific research...",
@@ -64773,14 +64794,14 @@
     "slug": "freehire",
     "title": "Freehire",
     "tagline": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve…",
-    "meta": "★ 3.621 · Go",
+    "meta": "★ 3.624 · Go",
     "image": "/assets/discover/og/freehire.webp",
     "source": "GitHub",
     "date": "2026-10-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3621,
+    "stars": 3624,
     "last_seen": "2026-10-22",
     "summary": "Go diliyle geliştirilen freehire, iş arayanlar için tasarlanmış açık kaynaklı (kaynak kodları herkesin erişimine ve geliştirmesine açık) bir arama motorudur. Kullanıcıların iş ilanlarını taramasına ve bulmasına olanak tanıyan bir platform sunar.",
     "lite": false,
@@ -64967,6 +64988,13 @@
         "yildiz": 3621,
         "onceki_yildiz": 3619,
         "surum": "deploy-20261122-0425",
+        "surum_tarihi": "2026-11-22"
+      },
+      {
+        "tarih": "2026-11-22",
+        "yildiz": 3624,
+        "onceki_yildiz": 3621,
+        "surum": "deploy-20261122-1450",
         "surum_tarihi": "2026-11-22"
       }
     ],
@@ -68276,7 +68304,7 @@
     "slug": "qwen-code",
     "title": "Qwen Code",
     "tagline": "QwenLM/qwen-code, terminal, editör, masaüstü ve tarayıcı üzerinde çalışan açık kaynaklı (open-source) bir kodlama yapay zekâ…",
-    "meta": "★ 30.825 · TypeScript",
+    "meta": "★ 30.861 · TypeScript",
     "image": "/assets/discover/og/qwen-code.webp",
     "source": "GitHub",
     "date": "2026-11-13",
@@ -68284,7 +68312,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 30825,
+    "stars": 30861,
     "last_seen": "2026-11-15",
     "summary": "QwenLM/qwen-code, terminal, editör, masaüstü ve tarayıcı üzerinde çalışan açık kaynaklı (open-source) bir kodlama yapay zekâ ajanıdır. TypeScript diliyle geliştirilen bu araç, yazılım geliştirme süreçlerini farklı platformlarda desteklemeyi amaçlar.",
     "lite": false,
@@ -68325,6 +68353,13 @@
         "onceki_yildiz": 30761,
         "surum": "v0.28.3",
         "surum_tarihi": "2026-11-21"
+      },
+      {
+        "tarih": "2026-11-22",
+        "yildiz": 30861,
+        "onceki_yildiz": 30825,
+        "surum": "v0.28.4",
+        "surum_tarihi": "2026-11-22"
       }
     ],
     "tagline_en": "QwenLM/qwen-code, an open-source coding AI operating across the terminal, editor, desktop, and browser…",
@@ -68801,14 +68836,14 @@
     "slug": "claude-bughunter",
     "title": "Claude-BugHunter",
     "tagline": "elementalsouls/Claude-BugHunter, hata ayıklama ve dış kırmızı takım (red-team) çalışmaları için Claude Code üzerinde çalışan…",
-    "meta": "★ 15.776 · Python",
+    "meta": "★ 17.114 · Python",
     "image": "/assets/discover/og/claude-bughunter.webp",
     "source": "GitHub",
     "date": "2026-11-16",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 15776,
+    "stars": 17114,
     "last_seen": "2026-11-22",
     "summary": "elementalsouls/Claude-BugHunter, hata ayıklama ve dış kırmızı takım (red-team) çalışmaları için Claude Code üzerinde çalışan bir yetenek paketi sunuyor. Python diliyle geliştirilen bu araç, 24 temel güvenlik açığı sınıfını kapsayan rapor desenleri ile altyapı saldırı matrislerini içeren kapsamlı bir içerik sağlıyor.",
     "lite": false,
@@ -68854,6 +68889,13 @@
         "tarih": "2026-11-21",
         "yildiz": 15776,
         "onceki_yildiz": 14616,
+        "surum": "v2.1",
+        "surum_tarihi": "2026-06-05"
+      },
+      {
+        "tarih": "2026-11-22",
+        "yildiz": 17114,
+        "onceki_yildiz": 15776,
         "surum": "v2.1",
         "surum_tarihi": "2026-06-05"
       }
@@ -69045,7 +69087,7 @@
     "slug": "ffmpeg-skill",
     "title": "Ffmpeg Skill",
     "tagline": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir.",
-    "meta": "★ 9.446 · Python",
+    "meta": "★ 9.553 · Python",
     "image": "/assets/discover/og/ffmpeg-skill.webp",
     "source": "GitHub",
     "date": "2026-11-17",
@@ -69053,7 +69095,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9446,
+    "stars": 9553,
     "last_seen": "2026-11-17",
     "summary": "kajisho5/ffmpeg-skill, kodlama ajanları (coding agents) için yerel video düzenleme araçları sunan bir Python projesidir. Claude Code, Cursor ve Codex gibi yazılım geliştirme araçlarıyla entegre çalışan bu yapı, 42 farklı FFmpeg aracını makine tarafından okunabilir bir sözleşme ve MCP sunucusu üzerinden bulut tabanlı API (iki farklı yazılımın birbirleriyle konuşmasını sağlayan dijital köprü) gereksinimi olmadan kullanıma sunar.",
     "lite": false,
@@ -69121,6 +69163,13 @@
         "yildiz": 9446,
         "onceki_yildiz": 9212,
         "surum": "v4.6.3",
+        "surum_tarihi": "2026-11-22"
+      },
+      {
+        "tarih": "2026-11-22",
+        "yildiz": 9553,
+        "onceki_yildiz": 9446,
+        "surum": "v4.7.0",
         "surum_tarihi": "2026-11-22"
       }
     ],
@@ -69327,14 +69376,14 @@
     "slug": "app-store-compliance",
     "title": "App Store Compliance",
     "tagline": "mjmirza/app-store-compliance, uygulama mağazası inceleme süreçlerinde karşılaşılan 117 farklı ret desenini ve çözüm yollarını…",
-    "meta": "★ 3.623 · Shell",
+    "meta": "★ 3.762 · Shell",
     "image": "/assets/discover/og/app-store-compliance.webp",
     "source": "GitHub",
     "date": "2026-11-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3623,
+    "stars": 3762,
     "last_seen": "2026-11-22",
     "summary": "mjmirza/app-store-compliance, uygulama mağazası inceleme süreçlerinde karşılaşılan 117 farklı ret desenini ve çözüm yollarını içeren açık bir rehber sunuyor. Yasal düzenleme takipleri ve gizlilik bildirimleri gibi araçlarla geliştiricilerin App Store ve Google Play onay süreçlerini kolaylaştırmayı hedefliyor.",
     "lite": false,
@@ -69360,6 +69409,13 @@
         "yildiz": 3623,
         "onceki_yildiz": 3296,
         "surum": "v2.5.0",
+        "surum_tarihi": "2026-11-22"
+      },
+      {
+        "tarih": "2026-11-22",
+        "yildiz": 3762,
+        "onceki_yildiz": 3623,
+        "surum": "v2.5.1",
         "surum_tarihi": "2026-11-22"
       }
     ],

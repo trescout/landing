@@ -2,12 +2,13 @@
 
 mjmirza/app-store-compliance oferece um guia aberto contendo 117 padrões de rejeição diferentes encontrados nos processos de revisão da loja de aplicativos e suas soluções. Com ferramentas como monitoramento de regulamentações legais e avisos de privacidade, visa facilitar os processos de aprovação na App Store e no Google Play para desenvolvedores.
 
-- ★ 3.623
+- ★ 3.762
 - Shell
 - GitHub Trending · 2026-11-20
 
 ## Atualizações
 
+- **22 de novembro de 2026:** Estrelas 3,623 → 3,762, versão mais recente v2.5.1 (22 de novembro de 2026).
 - **22 de novembro de 2026:** Estrelas 3,296 → 3,623, versão mais recente v2.5.0 (22 de novembro de 2026).
 - **21 de novembro de 2026:** Estrelas 2,032 → 3,296, versão mais recente v2.4.0 (15 de novembro de 2026).
 - **20 de novembro de 2026:** Estrelas 2,003 → 2,032, versão mais recente v2.4.0 (15 de novembro de 2026).

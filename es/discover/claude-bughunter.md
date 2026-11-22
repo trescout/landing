@@ -2,16 +2,16 @@
 
 elementalsouls/Claude-BugHunter ofrece un paquete de capacidades que se ejecuta en Claude Code para la depuración y los esfuerzos de equipos rojos externos (red-team). Desarrollada en Python, esta herramienta proporciona un contenido completo que incluye patrones de informes que cubren 24 clases de vulnerabilidades de seguridad básicas y matrices de ataques de infraestructura.
 
-- ★ 15.776
+- ★ 17.114
 - Python
 - GitHub Trending · 2026-11-16
 
 ## Actualizaciones
 
+- **22 de noviembre de 2026:** Estrellas 15,776 → 17,114, última versión v2.1 (5 de junio de 2026).
 - **21 de noviembre de 2026:** Estrellas 14,616 → 15,776, última versión v2.1 (5 de junio de 2026).
 - **21 de noviembre de 2026:** Estrellas 12,858 → 14,616, última versión v2.1 (5 de junio de 2026).
 - **20 de noviembre de 2026:** Estrellas 11,170 → 12,858, última versión v2.1 (5 de junio de 2026).
-- **18 de noviembre de 2026:** Estrellas 7,832 → 11,170, última versión v2.1 (5 de junio de 2026).
 
 ## Qué aporta
 
