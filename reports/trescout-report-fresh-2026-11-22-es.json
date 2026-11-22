@@ -1,0 +1,143 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-11-22",
+  "capturedAt": "2026-11-22T09:23:03.608Z",
+  "editorial": "Los contenidos incluidos en el informe no se repetirán durante 30 días. Al finalizar este periodo, los registros que sigan estando vigentes volverán a aparecer en la lista con la etiqueta \"de nuevo en la agenda\".",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+          "summary": "La pastilla llamada daraxonrasib, desarrollada para tratar el cáncer de páncreas, se considera uno de los mayores avances de los últimos años al detener el crecimiento tumoral en casi todos los pacientes en ensayos clínicos. En uno de cada 12 pacientes que participaron en el ensayo, las células cancerosas se redujeron a niveles indetectables.",
+          "meta": "959 puntos · 211 comentarios",
+          "snapshot": {
+            "sourceId": "50582069",
+            "capturedAt": "2026-11-22T09:23:03.923Z",
+            "metadata": {
+              "popularity": 959,
+              "engagementCount": 211,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50582069",
+                  "popularity": 959,
+                  "engagementCount": 211
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-11-20T21:03:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50582069",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50582069",
+              "popularity": 959,
+              "engagementCount": 211
+            }
+          ]
+        },
+        {
+          "title": "Detonating a pile of lead azide",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+          "summary": "Una entrada de blog de la revista Science aborda los riesgos químicos creados por la detonación de grandes cantidades de azida de plomo (lead azide) y la naturaleza inestable de este tipo de explosivos. El artículo examina los protocolos de seguridad que deben seguirse al trabajar con tales sustancias en un entorno de laboratorio y las reacciones físicas de los explosivos.",
+          "meta": "602 puntos · 386 comentarios",
+          "snapshot": {
+            "sourceId": "50588982",
+            "capturedAt": "2026-11-22T09:23:03.923Z",
+            "metadata": {
+              "popularity": 602,
+              "engagementCount": 386,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50588982",
+                  "popularity": 602,
+                  "engagementCount": 386
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-11-21T13:23:14Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50588982"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50588982",
+              "popularity": 602,
+              "engagementCount": 386
+            }
+          ]
+        },
+        {
+          "title": "My monitor was cutting my download speed by 75%",
+          "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+          "summary": "Se ha determinado que el monitor Studio Display XDR reduce la velocidad de descarga de Internet en un 75 por ciento debido al tamaño del paquete de datos USB y a las limitaciones de la memoria intermedia (buffer). El usuario analiza las razones técnicas de esta pérdida de rendimiento encontrada en pruebas realizadas con el mismo cable y adaptador.",
+          "meta": "574 puntos · 268 comentarios",
+          "snapshot": {
+            "sourceId": "50587875",
+            "capturedAt": "2026-11-22T09:23:03.923Z",
+            "metadata": {
+              "popularity": 574,
+              "engagementCount": 268,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50587875",
+                  "popularity": 574,
+                  "engagementCount": 268
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-11-21T10:36:32Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50587875",
+                "baglam": "sayfa"
+              }
+            },
+            "description": "Upload at 2.4 Gbps, download at 600 Mbps, same cable and same adapter. Here's how I tracked it down to my Studio Display XDR, a tiny buffer, and a USB burst size of four packets."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50587875",
+              "popularity": 574,
+              "engagementCount": 268
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": []
+}
