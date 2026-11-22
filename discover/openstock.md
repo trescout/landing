@@ -2,17 +2,17 @@
 
 **OpenStock**, pahalı borsa platformlarına karşı geliştirilmiş açık kaynaklı bir alternatiftir. Gerçek zamanlı fiyat takibi, **kişiselleştirilmiş uyarılar** ve şirket analizleri sunar. Herkes için erişilebilir ve sonsuza dek ücretsizdir.
 
-- ★ 21.404
+- ★ 21.860
 - TypeScript
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **22 Kasım 2026:** Yıldız 21.404 → 21.860, son sürüm v2026.11.22 (22 Kasım 2026).
 - **10 Kasım 2026:** Yıldız 20.871 → 21.404, son sürüm v2026.11.09 (9 Kasım 2026).
 - **26 Ekim 2026:** Yıldız 20.333 → 20.871, son sürüm v2026.10.25 (25 Ekim 2026).
 - **18 Ekim 2026:** Yıldız 20.317 → 20.333, son sürüm v2026.10.18 (18 Ekim 2026).
-- **17 Ekim 2026:** Yıldız 19.315 → 20.317.
 
 - **Kimin için:** Borsa/hisse takip etmek isteyenler
 - **Zorluk:** Kolay (hazır site) · ileri (self-host)

@@ -2,16 +2,16 @@
 
 Meshery, bulut yerlisi (cloud native) altyapıların yönetimi için tasarlanmış bir hizmet ağı (service mesh) yönetim platformudur. Platform, karmaşık bulut ortamlarında yapılandırma, yaşam döngüsü yönetimi ve performans analizi süreçlerini tek bir merkezden yürütmeyi sağlar.
 
-- ★ 12.244
+- ★ 12.288
 - TypeScript
 - GitHub Trending · 2026-06-15
 
 ## Güncelleme
 
+- **22 Kasım 2026:** Yıldız 12.244 → 12.288, son sürüm v1.0.83 (21 Kasım 2026).
 - **18 Kasım 2026:** Yıldız 12.222 → 12.244, son sürüm v1.0.82 (18 Kasım 2026).
 - **17 Kasım 2026:** Yıldız 12.180 → 12.222, son sürüm v1.0.80 (16 Kasım 2026).
 - **13 Kasım 2026:** Yıldız 12.181 → 12.180, son sürüm v1.0.79 (13 Kasım 2026).
-- **13 Kasım 2026:** Yıldız 12.175 → 12.181, son sürüm v1.0.78 (12 Kasım 2026).
 
 ## Ne kazandırır?
 

@@ -2,16 +2,16 @@
 
 Free-claude-code wurde von Alishahryar1 entwickelt und bietet kostenlosen Zugriff auf Modelle der künstlichen Intelligenz wie Claude Code und Codex über Terminal, Anwendung oder Entwicklungsumgebung (IDE). Dieses Open-Source-Tool lässt sich in Plattformen integrieren, die Sprachbefehlsunterstützung bieten, wie z. B. OpenClaw, und ermöglicht es Benutzern, Funktionen der künstlichen Intelligenz auf verschiedenen Geräten zu nutzen.
 
-- ★ 72.455
+- ★ 72.552
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Aktualisierungen
 
+- **22. November 2026:** Sterne 72,455 → 72,552, neueste Version v6.19.47 (22. November 2026).
 - **21. November 2026:** Sterne 72,329 → 72,455, neueste Version v6.19.44 (21. November 2026).
 - **21. November 2026:** Sterne 72,297 → 72,329, neueste Version v6.19.43 (21. November 2026).
 - **21. November 2026:** Sterne 72,020 → 72,297, neueste Version v6.19.42 (21. November 2026).
-- **20. November 2026:** Sterne 71,572 → 72,020, neueste Version v6.19.40 (19. November 2026).
 
 ## Was es bringt
 

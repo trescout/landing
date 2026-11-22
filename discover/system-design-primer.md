@@ -2,11 +2,15 @@
 
 System Design Primer, büyük ölçekli yazılım sistemleri tasarlamak isteyenler için kapsamlı bir öğrenme kaynağı sunuyor. Teknik mülakatlara hazırlanan yazılımcılar için sistem tasarımı (system design) prensiplerini ve pratik çalışma kartlarını bir araya getiriyor.
 
-- ★ 360.710
+- ★ 378.771
 - Python
 - GitHub Trending · 2026-08-04
 
 **TreScout notu:** Teknik mülakatın sistem tasarımı bölümüne çalışanların ilk durağı. Kavramları güzel toparlar ama örnekler klasik ölçekli sistemler üzerinden: Kendi işinizdeki mimariyi buradan kopyalamayın, düşünme çerçevesi olarak kullanın.
+
+## Güncelleme
+
+- **22 Kasım 2026:** Yıldız 360.710 → 378.771.
 
 ## Ne kazandırır?
 

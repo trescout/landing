@@ -2,15 +2,15 @@
 
 Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi. İnternet üzerindeki karmaşık görevleri tarayıcı tabanlı işlemlerle otomatize etmeye imkân tanıyor.
 
-- ★ 121.634
+- ★ 121.719
 - GitHub Trending · 2026-08-26
 
 ## Güncelleme
 
+- **22 Kasım 2026:** Yıldız 121.634 → 121.719, son sürüm 1.0.8 (22 Kasım 2026).
 - **21 Kasım 2026:** Yıldız 121.141 → 121.634, son sürüm 1.0.7 (20 Kasım 2026).
 - **16 Kasım 2026:** Yıldız 120.973 → 121.141, son sürüm 1.0.6 (16 Kasım 2026).
 - **14 Kasım 2026:** Yıldız 120.967 → 120.973, son sürüm 1.0.5 (14 Kasım 2026).
-- **14 Kasım 2026:** Yıldız 120.869 → 120.967, son sürüm 1.0.4 (13 Kasım 2026).
 
 ## Ne kazandırır?
 

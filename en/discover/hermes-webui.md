@@ -2,17 +2,17 @@
 
 Hermes WebUI is an interface that allows you to manage Hermes AI agents via web browser or mobile devices. It allows you to track and control agent interactions from a single center.
 
-- ★ 19,602
+- ★ 19,603
 - Python
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
 ## Updates
 
+- **November 22, 2026:** Stars 19,602 → 19,603, latest release v0.52.727 (November 22, 2026).
 - **November 21, 2026:** Stars 19,602 → 19,602, latest release v0.52.724 (November 21, 2026).
 - **November 21, 2026:** Stars 19,584 → 19,602, latest release v0.52.723 (November 21, 2026).
 - **November 20, 2026:** Stars 19,540 → 19,584, latest release v0.52.702 (November 19, 2026).
-- **November 16, 2026:** Stars 19,500 → 19,540, latest release v0.52.679 (November 15, 2026).
 
 ## What you get
 

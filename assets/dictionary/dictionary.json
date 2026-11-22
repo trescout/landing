@@ -11009,5 +11009,18 @@
     "kisa_es": "Es el proceso de copiar y extraer automáticamente datos de sitios web.",
     "kisa_pt": "É o processo de copiar e extrair automaticamente dados de sites da internet.",
     "kisa_de": "Es handelt sich um den Prozess des automatischen Kopierens und Extrahierens von Daten von Websites."
+  },
+  {
+    "slug": "plugin-ecosystem",
+    "en": "Plugin Ecosystem",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Ana yazılıma ek özellikler kazandıran bağımsız eklentilerin oluşturduğu genişletilebilir mimari yapısıdır.",
+    "date": "2026-11-22",
+    "kisa_en": "It is an extensible architectural structure formed by independent add-ons that provide additional features to the main software.",
+    "kisa_fr": "Il s'agit d'une architecture extensible constituée de modules d'extension indépendants qui apportent des fonctionnalités supplémentaires au logiciel principal.",
+    "kisa_es": "Es la estructura de arquitectura extensible formada por complementos independientes que aportan funcionalidades adicionales al software principal.",
+    "kisa_pt": "É uma estrutura de arquitetura extensível formada por plugins independentes que adicionam recursos adicionais ao software principal.",
+    "kisa_de": "Es ist eine erweiterbare Architekturstruktur, die aus unabhängigen Erweiterungen besteht, die der Hauptsoftware zusätzliche Funktionen verleihen."
   }
 ]

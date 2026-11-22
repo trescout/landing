@@ -2,16 +2,16 @@
 
 Stirling-PDF, kullanıcıların PDF dosyaları üzerinde her cihazda düzenleme yapmasına olanak tanıyan açık kaynaklı bir belge işleme aracıdır. TypeScript ile geliştirilen bu uygulama, yerel sunucularda çalışarak doküman yönetimi süreçlerini merkezileştirir.
 
-- ★ 96.964
+- ★ 97.193
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
 
+- **22 Kasım 2026:** Yıldız 96.964 → 97.193, son sürüm v3.5.0 (22 Kasım 2026).
 - **19 Kasım 2026:** Yıldız 95.815 → 96.964, son sürüm v3.4.0 (19 Kasım 2026).
 - **6 Kasım 2026:** Yıldız 94.917 → 95.815, son sürüm v3.3.0 (5 Kasım 2026).
 - **25 Ekim 2026:** Yıldız 94.710 → 94.917, son sürüm v3.2.2 (24 Ekim 2026).
-- **22 Ekim 2026:** Yıldız 94.312 → 94.710, son sürüm v3.2.1 (21 Ekim 2026).
 
 ## Ne kazandırır?
 

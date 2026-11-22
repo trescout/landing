@@ -2,16 +2,16 @@
 
 A ferramenta de revisão de código-fonte aberta desenvolvida pela Alibaba combina pipelines determinísticos e agentes de modelo de linguagem grande (LLM) em uma estrutura híbrida. Equipada com regras de segurança de software e recursos de interpretação baseados em linhas, a ferramenta é escrita em linguagem Go e oferece infraestrutura compatível com OpenAI e Anthropic.
 
-- ★ 54.892
+- ★ 55.222
 - Go
 - GitHub Trending · 2026-07-24
 
 ## Atualizações
 
+- **22 de novembro de 2026:** Estrelas 54,892 → 55,222, versão mais recente v1.14.1 (22 de novembro de 2026).
 - **21 de novembro de 2026:** Estrelas 54,228 → 54,892, versão mais recente v1.14.0 (21 de novembro de 2026).
 - **19 de novembro de 2026:** Estrelas 54,160 → 54,228, versão mais recente v1.13.13 (19 de novembro de 2026).
 - **18 de novembro de 2026:** Estrelas 53,111 → 54,160, versão mais recente v1.13.12 (18 de novembro de 2026).
-- **17 de novembro de 2026:** Estrelas 51,527 → 53,111, versão mais recente v1.13.11 (17 de novembro de 2026).
 
 ## O que você ganha
 

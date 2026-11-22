@@ -2,11 +2,15 @@
 
 System Design Primer oferece um recurso de aprendizagem abrangente para quem deseja projetar sistemas de software em larga escala. Ele reúne princípios de design de sistemas e cartões de estudo práticos para desenvolvedores de software que se preparam para entrevistas técnicas.
 
-- ★ 360.710
+- ★ 378.771
 - Python
 - GitHub Trending · 2026-08-04
 
 **Nota da TreScout:** A primeira parada dos funcionários para a seção de design do sistema da entrevista técnica. Ele resume bem os conceitos, mas os exemplos são baseados em sistemas de escala clássicos: Não copie daqui a arquitetura do seu próprio trabalho, use-a como uma estrutura de pensamento.
+
+## Atualizações
+
+- **22 de novembro de 2026:** Estrelas 360,710 → 378,771.
 
 ## O que você ganha
 

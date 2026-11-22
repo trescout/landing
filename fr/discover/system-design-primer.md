@@ -2,11 +2,15 @@
 
 System Design Primer offre une ressource d’apprentissage complète pour ceux qui souhaitent concevoir des systèmes logiciels à grande échelle. Il rassemble les principes de conception de systèmes et des fiches d'études pratiques pour les développeurs de logiciels se préparant aux entretiens techniques.
 
-- ★ 360 710
+- ★ 378 771
 - Python
 - GitHub Trending · 2026-08-04
 
 **Note TreScout :** Le premier arrêt pour les employés pour la section conception du système de l’entretien technique. Il résume bien les concepts, mais les exemples sont basés sur des systèmes d'échelle classiques : ne copiez pas l'architecture de votre propre travail à partir d'ici, utilisez-la comme cadre de réflexion.
+
+## Mises à jour
+
+- **22 novembre 2026:** Étoiles 360,710 → 378,771.
 
 ## Ce que ça vous apporte
 

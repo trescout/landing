@@ -2,11 +2,15 @@
 
 System Design Primer offers a comprehensive learning resource for those who want to design large-scale software systems. It brings together system design principles and practical study cards for software developers preparing for technical interviews.
 
-- ★ 360,710
+- ★ 378,771
 - Python
 - GitHub Trending · 2026-08-04
 
 **TreScout note:** The first stop for employees for the system design section of the technical interview. It summarizes the concepts well, but examples are based on classical scale systems: Do not copy the architecture in your own work from here, use it as a thinking framework.
+
+## Updates
+
+- **November 22, 2026:** Stars 360,710 → 378,771.
 
 ## What you get
 
